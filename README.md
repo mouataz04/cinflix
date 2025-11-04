@@ -104,26 +104,6 @@ Nous travaillons **exclusivement** via des branches pour garder `main` propre.
 
 ---
 
-##  Déploiement / Notes
 
-- Base indexée et fichiers volumineux gérés via Git LFS.  
-- En production, envisager :
-  - Mise en cache des réponses `/api/search`
-  - Chargement paresseux de la base (init au démarrage)
-  - Remplacement des assets statiques par un CDN si besoin
 
----
-
-##  Ressources
-
-- [Git LFS – documentation](https://git-lfs.github.com/)
-- [Flask – documentation officielle](https://flask.palletsprojects.com/)
-- [scikit-learn – TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
-
----
-
-##  Licence
-
-Projet académique – usage interne à l’équipe CINFLIX.  
-Pour toute question : ouvrir une *issue* ou contacter `@mouataz04` sur GitHub.
 
