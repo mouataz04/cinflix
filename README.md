@@ -1,4 +1,4 @@
-# CINFLIX – moteur de recherche de séries basé sur les sous-titres
+# SUBSTREAM – moteur de recherche de séries basé sur les sous-titres
 
 Projet Flask permettant de rechercher, découvrir et gérer des séries TV à partir de leurs **sous‑titres indexés** (TF‑IDF).  
 Fonctionnalités principales :
