@@ -6,7 +6,7 @@ import numpy as np
 from flask import Flask, render_template, request, redirect, url_for, session, flash, jsonify
 from werkzeug.security import generate_password_hash, check_password_hash
 
-from recommend import recommend_by_content, recommend_for_user
+from recommend import recommend_by_content, recommend_for_user, warm_recommendation_model
 from search import SearchEngine
 
 app = Flask(__name__)
@@ -52,6 +52,10 @@ def load_series_meta(force: bool = False) -> Dict[str, Tuple[int, Optional[str],
     finally:
         conn.close()
     return series_meta_by_name
+
+
+# Pre-warm recommendation model to avoid first-request latency
+warm_recommendation_model()
 
 
 @app.route("/login", methods=["GET", "POST"])
@@ -439,13 +443,13 @@ def api_recommend_user():
     if "user" not in session:
         return jsonify({"error": "Connectez-vous pour voir vos recommandations."})
 
-    recos = recommend_for_user(session["user"], top_n=5)
+    recos = recommend_for_user(session["user"], top_n=10)
     conn = get_db_connection()
     enriched = []
     try:
         for name, score in recos:
             row = conn.execute(
-                "SELECT id, name, image_url FROM tvshow WHERE lower(name) = ? LIMIT 1",
+                "SELECT id, name, image_url, synopsis FROM tvshow WHERE lower(name) = ? LIMIT 1",
                 (str(name).lower(),),
             ).fetchone()
             if row:
@@ -454,6 +458,7 @@ def api_recommend_user():
                         "id": row["id"],
                         "name": row["name"],
                         "image_url": row["image_url"],
+                        "synopsis": row["synopsis"] or "",
                         "score": float(score),
                     }
                 )
@@ -486,4 +491,5 @@ def maliste():
 if __name__ == "__main__":
     init_search()
     load_series_meta()
+    warm_recommendation_model()
     app.run(debug=True)

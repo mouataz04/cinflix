@@ -24,7 +24,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const input = document.getElementById("search");
   const button = document.getElementById("searchBtn");
   const resultsContainer = document.getElementById("resultsContainer");
-  const searchIcon = document.getElementById("searchIcon");
+  const searchIcon = document.querySelector(".search-icon");
+  const personalSection = document.getElementById("personalRecommendations");
+  const personalList = document.getElementById("personalList");
 
   if (!input || !button || !resultsContainer) {
     return;
@@ -48,15 +50,16 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   const buildResultsMarkup = (data) => {
+    const safeQuery = data.query || "";
     const title = data.count > 0
-      ? `Resultats pour "${data.query}" (${data.count})`
-      : `Aucun resultat pour "${data.query}"`;
+      ? `Résultats pour « ${safeQuery} » (${data.count})`
+      : `Aucun résultat pour « ${safeQuery} »`;
 
     if (data.count === 0) {
       return `
         <h2 id="seriesTitle">${title}</h2>
         <div class="search-results-grid empty">
-          <p>Aucun resultat trouve pour "${data.query}".</p>
+          <p>Aucun résultat trouvé pour « ${safeQuery} ».</p>
         </div>
       `;
     }
@@ -133,6 +136,54 @@ document.addEventListener("DOMContentLoaded", () => {
   searchIcon?.addEventListener("click", () => {
     input.focus();
   });
+
+  const renderPersonalRecommendations = () => {
+    if (!personalSection || !personalList) {
+      return;
+    }
+
+    fetch("/api/recommend_user")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        return response.json();
+      })
+      .then((data) => {
+        const items = Array.isArray(data.recommendations) ? data.recommendations : [];
+
+        if (!items.length) {
+          personalList.innerHTML = `
+            <p class="empty-reco">Pas encore de recommandations. Note quelques séries pour en débloquer !</p>
+          `;
+        } else {
+          personalList.innerHTML = items.map((item) => `
+            <a href="/series/${item.id}" class="series-card">
+              <div class="card-img-wrapper">
+                <img src="${item.image_url}" alt="Affiche de ${item.name}">
+              </div>
+              <div class="series-overlay">
+                <h3 class="series-name">${item.name}</h3>
+                <p class="synopsis">${truncate(item.synopsis, 110)}</p>
+              </div>
+            </a>
+          `).join("");
+        }
+
+        personalSection.hidden = false;
+      })
+      .catch((error) => {
+        console.error("Erreur recommandations:", error);
+        personalList.innerHTML = `
+          <p class="empty-reco">Impossible de charger tes recommandations pour le moment.</p>
+        `;
+        personalSection.hidden = false;
+      });
+  };
+
+  if (personalSection && personalList) {
+    renderPersonalRecommendations();
+  }
 
   // ----------------------
   // Carrousels horizontaux

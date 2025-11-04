@@ -13,7 +13,6 @@ import numpy as np
 from scipy.sparse import csr_matrix
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import normalize
 
 DB_PATH = os.path.join(os.path.dirname(__file__), "database", "tvshow.db")
@@ -21,25 +20,39 @@ DB_PATH = os.path.join(os.path.dirname(__file__), "database", "tvshow.db")
 # Very small bilingual stop-word list to keep only meaningful terms.
 STOP_WORDS = {
     "a",
+    "about",
+    "all",
+    "also",
     "and",
     "are",
     "au",
     "aux",
     "avec",
+    "but",
+    "by",
     "ce",
     "ces",
     "cet",
     "cette",
+    "comme",
+    "could",
     "de",
     "des",
     "du",
     "elle",
     "elles",
     "en",
+    "episode",
+    "episodes",
     "est",
     "et",
+    "for",
+    "from",
+    "have",
     "ils",
+    "into",
     "is",
+    "its",
     "la",
     "le",
     "les",
@@ -47,20 +60,34 @@ STOP_WORDS = {
     "not",
     "of",
     "on",
+    "one",
+    "onto",
     "ou",
+    "over",
     "par",
+    "plus",
     "pour",
     "sans",
+    "season",
     "se",
+    "series",
     "son",
     "sur",
     "the",
     "their",
+    "them",
     "they",
+    "this",
+    "those",
+    "through",
     "to",
+    "under",
     "un",
     "une",
+    "upon",
     "vous",
+    "while",
+    "with",
 }
 
 # Cached recommendation artefacts (lazy loaded).
@@ -86,7 +113,7 @@ def get_db_connection() -> sqlite3.Connection:
 def _normalise_token(token: str) -> str:
     token = unicodedata.normalize("NFKC", token or "").lower()
     token = token.strip("_'")
-    if len(token) <= 2 or token in STOP_WORDS:
+    if len(token) <= 2 or token.isdigit() or token in STOP_WORDS:
         return ""
     return token
 
@@ -204,6 +231,11 @@ def _ensure_content_model(force: bool = False) -> None:
     _name_to_index = {name.lower(): idx for idx, name in enumerate(names)}
 
 
+def warm_recommendation_model(force: bool = False) -> None:
+    """Public helper to preload the TF-IDF matrix so first request is fast."""
+    _ensure_content_model(force=force)
+
+
 # ---------------------------------------------------------------------------
 # Utilities
 # ---------------------------------------------------------------------------
@@ -248,7 +280,8 @@ def recommend_by_content(serie_name: str, top_n: int = 5) -> List[Tuple[str, flo
 
 def recommend_for_user(username: str, top_n: int = 5) -> List[Tuple[str, float]]:
     """
-    Blend user ratings with the content matrix to surface unseen similar shows.
+    Aggregate similar-series suggestions for everything the user aime/vu.
+    Notes élevées => boost, notes basses => pénalité, “Ma liste” => bonus léger.
     """
     _ensure_content_model()
     if _content_matrix is None:
@@ -259,46 +292,69 @@ def recommend_for_user(username: str, top_n: int = 5) -> List[Tuple[str, float]]
         "SELECT tvshow_name, rating FROM ratings WHERE username = ?",
         (username,),
     ).fetchall()
+
+    mylist_rows = conn.execute(
+        """
+        SELECT tvshow.name
+        FROM mylist
+        JOIN tvshow ON tvshow.id = mylist.tvshow_id
+        WHERE mylist.username = ?
+        """,
+        (username,),
+    ).fetchall()
     conn.close()
 
-    if not rows:
+    if not rows and not mylist_rows:
         return []
 
-    rated_indices: List[Tuple[int, float]] = []
+    rated_shows: Dict[str, float] = {}
     for row in rows:
-        idx = _name_to_index.get((row["tvshow_name"] or "").lower())
-        if idx is not None:
-            rated_indices.append((idx, float(row["rating"])))
-
-    if not rated_indices:
-        return []
-
-    profile: csr_matrix | None = None
-    weight_sum = 0.0
-    for idx, weight in rated_indices:
-        weight = max(weight, 0.0)
-        if weight == 0:
+        name = (row["tvshow_name"] or "").strip()
+        if not name:
             continue
-        weight_sum += weight
-        contribution = weight * _content_matrix[idx]
-        profile = contribution if profile is None else profile + contribution
+        rated_shows[name] = float(row["rating"])
 
-    if profile is None or weight_sum == 0.0:
+    listed_shows = {(row["name"] or "").strip() for row in mylist_rows if row["name"]}
+
+    candidate_scores: Dict[str, float] = defaultdict(float)
+
+    for name, rating in rated_shows.items():
+        weight = rating - 3.0
+        if abs(weight) < 0.5:
+            continue
+
+        boost = max(weight, 0.0)
+        penalty = max(-weight, 0.0)
+
+        similar = recommend_by_content(name, top_n=25)
+        for other_name, score in similar:
+            if other_name == name:
+                continue
+            candidate_scores[other_name] += boost * score
+            if penalty:
+                candidate_scores[other_name] -= penalty * score * 0.7
+
+    for name in listed_shows:
+        similar = recommend_by_content(name, top_n=20)
+        for other_name, score in similar:
+            if other_name == name:
+                continue
+            candidate_scores[other_name] += 0.8 * score
+
+    for name in rated_shows.keys():
+        candidate_scores.pop(name, None)
+    for name in listed_shows:
+        candidate_scores.pop(name, None)
+
+    if not candidate_scores:
         return []
 
-    profile = profile / weight_sum
-    profile = normalize(profile, norm="l2", copy=False)
-
-    scores = cosine_similarity(profile, _content_matrix).ravel()
-    for idx, _ in rated_indices:
-        scores[idx] = 0.0
-
+    ranked = sorted(candidate_scores.items(), key=lambda item: item[1], reverse=True)
     results: List[Tuple[str, float]] = []
-    for pos in _top_indices(scores, top_n):
-        score = float(scores[pos])
+    for name, score in ranked:
         if score <= 0:
             continue
-        results.append((_series_names[pos], score))
+        results.append((name, float(score)))
         if len(results) >= top_n:
             break
     return results

@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CINFLIX – Accueil</title>
+  <title>CINFLIX - Accueil</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/footer.css') }}">
 </head>
@@ -35,7 +35,7 @@
         <div class="hero-content-wrapper">
           <div class="hero-content">
             <h1>Rechercher des séries TV</h1>
-            <p>Immersion totale — trouve ta prochaine série préférée.</p>
+            <p>Immersion totale – trouve ta prochaine série préférée.</p>
             <div class="search-box">
               <div class="search-wrapper">
                 <div class="search-inner">
@@ -63,7 +63,7 @@
       <section class="series-section" aria-live="polite">
         <div id="resultsContainer">
           <h2 id="seriesTitle">Séries tendance</h2>
-          {% for row in [series[:40], series[40:80], series[80:120]] %}
+          {% for row in [series[:40], series[40:80]] %}
           <div class="series-row">
             <button class="arrow left" aria-label="Défiler vers la gauche">&#10094;</button>
             <div class="series-list">
@@ -84,6 +84,15 @@
           {% endfor %}
         </div>
       </section>
+
+      {% if session.get("user") %}
+      <section class="series-section" aria-live="polite" id="personalRecommendations" hidden>
+        <h2>Recommandées pour toi</h2>
+        <div class="series-row">
+          <div class="series-list" id="personalList"></div>
+        </div>
+      </section>
+      {% endif %}
     </main>
 
     {% include "footer.html" %}
