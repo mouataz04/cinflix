@@ -1,0 +1,2359 @@
+1
+00:01:40,533 --> 00:01:42,524  X1:281 X2:438 Y1:495 Y2:516
+LA FAMlLLE
+
+2
+00:01:42,693 --> 00:01:47,642  X1:162 X2:556 Y1:451 Y2:516
+- Ton tas de ferraille est nase.
+- Essaie ton portable.
+
+3
+00:01:48,573 --> 00:01:52,964  X1:173 X2:544 Y1:450 Y2:516
+C'est pas un tas de ferraille.
+L'alternateur est capricieux.
+
+4
+00:01:53,173 --> 00:01:57,405  X1:182 X2:536 Y1:451 Y2:516
+La batterie doit être à plat,
+comme pour mon portable.
+
+5
+00:01:57,573 --> 00:01:59,689  X1:170 X2:548 Y1:489 Y2:516
+C'est pas la batterie, c'est. . .
+
+6
+00:02:05,253 --> 00:02:08,928  X1:116 X2:601 Y1:494 Y2:516
+On se croirait dans un film d'horreur.
+
+7
+00:02:09,773 --> 00:02:12,003  X1:166 X2:552 Y1:490 Y2:516
+Plutôt dans "Boyz N the Hood".
+
+8
+00:02:12,853 --> 00:02:15,651  X1:161 X2:556 Y1:450 Y2:516
+Je fonce jusqu'à ce téléphone
+appeler un pote.
+
+9
+00:02:15,853 --> 00:02:17,764  X1:143 X2:575 Y1:490 Y2:516
+Pas question de me laisser seule.
+
+10
+00:02:17,973 --> 00:02:22,046  X1:190 X2:526 Y1:456 Y2:516
+Tu es plus en sécurité ici.
+Je reviens tout de suite.
+
+11
+00:02:22,213 --> 00:02:26,491  X1:255 X2:463 Y1:455 Y2:516
+- D'accord.
+- Embrasse-moi.
+
+12
+00:02:52,493 --> 00:02:55,644  X1:132 X2:586 Y1:490 Y2:516
+"Y a personne. Laissez un message."
+
+13
+00:02:55,813 --> 00:03:00,091  X1:135 X2:582 Y1:493 Y2:516
+Luis, décroche. Réveillez-toi, mec.
+
+14
+00:03:07,613 --> 00:03:10,047  X1:228 X2:490 Y1:456 Y2:516
+Enfoiré de flemmard
+de merde !
+
+15
+00:03:14,013 --> 00:03:15,969  X1:246 X2:472 Y1:495 Y2:516
+Paco ! Bon Dieu !
+
+16
+00:03:20,053 --> 00:03:21,884  X1:239 X2:483 Y1:492 Y2:516
+"Qui c'est, borel ?"
+
+17
+00:03:33,293 --> 00:03:37,650  X1:123 X2:595 Y1:453 Y2:516
+- D<i>'</i>oû tu viens ?
+- De la chatte de ta mère, connard !
+
+18
+00:03:44,773 --> 00:03:45,808  X1:271 X2:447 Y1:495 Y2:516
+On se casse !
+
+19
+00:03:58,893 --> 00:04:02,090  X1:193 X2:526 Y1:061 Y2:121
+DEDlE AU COMMlSSAlRE
+WlLLlAM H. PARKER
+
+20
+00:04:03,453 --> 00:04:09,449  X1:142 X2:575 Y1:456 Y2:516
+Mlle Chenowith nous a décrit
+vos activités sur le lieu du crime.
+
+21
+00:04:09,653 --> 00:04:11,644  X1:179 X2:541 Y1:494 Y2:516
+C<i>'</i>est un incendie criminel ?
+
+22
+00:04:11,813 --> 00:04:13,929  X1:200 X2:519 Y1:456 Y2:516
+Quelle est votre version,
+M. Fisher ?
+
+23
+00:04:17,373 --> 00:04:21,127  X1:159 X2:557 Y1:451 Y2:516
+Je voulais montrer à Brenda
+oû j<i>'</i>allais quand j<i>'</i>étais gamin.
+
+24
+00:04:21,333 --> 00:04:23,608  X1:172 X2:543 Y1:489 Y2:516
+J<i>'</i>ignore pourquoi il y tenait.
+
+25
+00:04:23,813 --> 00:04:26,088  X1:154 X2:566 Y1:494 Y2:516
+Qu<i>'</i>avez-vous fait à l<i>'</i>intérieur ?
+
+26
+00:04:26,253 --> 00:04:28,721  X1:213 X2:505 Y1:493 Y2:516
+On a déambulé, visité.
+
+27
+00:04:28,893 --> 00:04:33,330  X1:114 X2:603 Y1:451 Y2:516
+Vous voulez nous faire croire
+que vous êtes entrés par effraction. . .
+
+28
+00:04:33,493 --> 00:04:36,132  X1:247 X2:472 Y1:490 Y2:516
+pour déambuler ?
+
+29
+00:04:38,213 --> 00:04:41,205  X1:160 X2:558 Y1:489 Y2:516
+Bon, on s<i>'</i>est envoyés en l<i>'</i>air.
+
+30
+00:04:41,413 --> 00:04:44,246  X1:115 X2:603 Y1:495 Y2:516
+Vous êtes restés une heure environ ?
+
+31
+00:04:44,413 --> 00:04:48,372  X1:138 X2:581 Y1:451 Y2:516
+Pouvez-vous raconter par le menu
+ce que vous avez fait ?
+
+32
+00:04:48,533 --> 00:04:52,082  X1:243 X2:474 Y1:494 Y2:516
+On a fait l<i>'</i>amour.
+
+33
+00:04:52,253 --> 00:04:56,531  X1:185 X2:534 Y1:451 Y2:516
+Pourriez-vous être
+aussi précis que possible ?
+
+34
+00:05:00,733 --> 00:05:06,410  X1:193 X2:525 Y1:456 Y2:516
+ll est allé et venu sur moi
+un bon moment.
+
+35
+00:05:06,573 --> 00:05:08,086  X1:256 X2:461 Y1:495 Y2:516
+ll est très doué.
+
+36
+00:05:08,293 --> 00:05:12,206  X1:120 X2:595 Y1:490 Y2:516
+Je ne me souviens pas précisément.
+
+37
+00:05:12,413 --> 00:05:15,644  X1:122 X2:596 Y1:495 Y2:516
+ll devait avoir besoin de se défouler.
+
+38
+00:05:15,853 --> 00:05:18,162  X1:264 X2:456 Y1:490 Y2:516
+Moi, agressif ?
+
+39
+00:05:18,813 --> 00:05:21,407  X1:244 X2:474 Y1:456 Y2:516
+- Elle est gonflée.
+- ll s<i>'</i>est endormi.
+
+40
+00:05:21,613 --> 00:05:25,049  X1:153 X2:565 Y1:451 Y2:516
+- Et après ?
+- On était crevés, on est partis.
+
+41
+00:05:25,213 --> 00:05:30,367  X1:168 X2:547 Y1:450 Y2:516
+Je suis allée voir quelqu<i>'</i>un.
+J<i>'</i>ignore ce qu<i>'</i>il a fait après.
+
+42
+00:05:30,573 --> 00:05:34,646  X1:204 X2:514 Y1:451 Y2:516
+- Je peux y aller ?
+- On a ce qu<i>'</i>on voulait.
+
+43
+00:05:34,813 --> 00:05:39,011  X1:156 X2:562 Y1:451 Y2:516
+- Merci pour votre coopération.
+- Peace, les gars.
+
+44
+00:05:39,173 --> 00:05:41,562  X1:207 X2:509 Y1:490 Y2:516
+Je suis sorti après elle.
+
+45
+00:05:41,773 --> 00:05:47,291  X1:146 X2:573 Y1:451 Y2:516
+Saviez-vous que la propriété
+avait été achetée par Kroehner ?
+
+46
+00:05:47,493 --> 00:05:51,168  X1:187 X2:530 Y1:456 Y2:516
+Oui, Gilardi projetait
+d<i>'</i>ouvrir un crématorium. . .
+
+47
+00:05:51,333 --> 00:05:52,766  X1:212 X2:506 Y1:490 Y2:516
+pour nous faire couler.
+
+48
+00:05:52,933 --> 00:05:57,768  X1:142 X2:578 Y1:451 Y2:516
+Est-ce à ce moment
+que vous l<i>'</i>avez traité de requin ?
+
+49
+00:05:57,933 --> 00:06:01,972  X1:263 X2:456 Y1:455 Y2:516
+- C<i>'</i>est exact ?
+- C<i>'</i>est exact.
+
+50
+00:06:06,693 --> 00:06:08,604  X1:145 X2:574 Y1:489 Y2:516
+Vous croyez que j<i>'</i>ai mis le feu ?
+
+51
+00:06:08,773 --> 00:06:10,525  X1:282 X2:435 Y1:495 Y2:516
+Admettez. . .
+
+52
+00:06:10,693 --> 00:06:13,924  X1:219 X2:500 Y1:450 Y2:516
+que c<i>'</i>est providentiel
+pour votre affaire.
+
+53
+00:06:14,093 --> 00:06:16,971  X1:185 X2:534 Y1:455 Y2:516
+- J<i>'</i>ai besoin d<i>'</i>un avocat ?
+- Pas encore.
+
+54
+00:06:17,133 --> 00:06:18,646  X1:231 X2:485 Y1:490 Y2:516
+Vous pouvez partir.
+
+55
+00:06:21,373 --> 00:06:22,852  X1:236 X2:481 Y1:490 Y2:516
+ll y a autre chose !
+
+56
+00:06:24,133 --> 00:06:26,931  X1:150 X2:568 Y1:456 Y2:516
+Savez-vous oû était votre sœur,
+ce soir-là ?
+
+57
+00:06:27,093 --> 00:06:28,526  X1:256 X2:464 Y1:490 Y2:516
+Non, pourquoi ?
+
+58
+00:06:28,693 --> 00:06:34,165  X1:131 X2:586 Y1:061 Y2:126
+Elle a eu des ennuis avec la police.
+Pour un pied disparu.
+
+59
+00:06:34,333 --> 00:06:38,645  X1:175 X2:544 Y1:061 Y2:127
+C<i>'</i>est peut-être une réaction
+au décès de votre père.
+
+60
+00:06:41,413 --> 00:06:43,529  X1:233 X2:487 Y1:494 Y2:516
+Qu<i>'</i>en savez-vous ?
+
+61
+00:06:45,453 --> 00:06:49,002  X1:154 X2:565 Y1:450 Y2:516
+Passer l<i>'</i>inspection de l<i>'</i>hygiène
+était trop beau pour être vrai.
+
+62
+00:06:49,173 --> 00:06:51,892  X1:150 X2:568 Y1:489 Y2:516
+ll fallait bien qu<i>'</i>on ait un pépin.
+
+63
+00:06:53,213 --> 00:06:55,488  X1:167 X2:550 Y1:495 Y2:516
+Un mois de bénéfices envolé.
+
+64
+00:06:55,653 --> 00:06:58,611  X1:166 X2:553 Y1:456 Y2:516
+Beaucoup de gens se passent
+de la clime.
+
+65
+00:06:58,813 --> 00:07:00,724  X1:226 X2:492 Y1:493 Y2:516
+Oui, au tiers-monde.
+
+66
+00:07:01,693 --> 00:07:04,127  X1:199 X2:522 Y1:456 Y2:516
+On ne peut pas travailler
+sans climatisation.
+
+67
+00:07:04,333 --> 00:07:05,925  X1:171 X2:545 Y1:489 Y2:516
+Si on perd d<i>'</i>autres clients. . .
+
+68
+00:07:06,093 --> 00:07:09,529  X1:203 X2:517 Y1:451 Y2:516
+plus besoin de Kroehner
+pour faire faillite.
+
+69
+00:07:14,853 --> 00:07:19,085  X1:221 X2:498 Y1:456 Y2:516
+Devinez. Gilardi a filé
+des infos aux flics.
+
+70
+00:07:19,253 --> 00:07:22,928  X1:153 X2:564 Y1:455 Y2:516
+- Je crois qu<i>'</i>ils me suspectent.
+- C<i>'</i>est absurde !
+
+71
+00:07:23,093 --> 00:07:26,768  X1:208 X2:510 Y1:451 Y2:516
+- Oû est Claire ?
+- En cours. Je l<i>'</i>espère.
+
+72
+00:07:26,933 --> 00:07:29,003  X1:160 X2:559 Y1:494 Y2:516
+Oû elle était avant l<i>'</i>incendie ?
+
+73
+00:07:29,173 --> 00:07:33,086  X1:185 X2:531 Y1:451 Y2:516
+Pourquoi ?
+Seigneur, ils croient que. . .
+
+74
+00:07:33,253 --> 00:07:34,686  X1:282 X2:436 Y1:494 Y2:516
+C<i>'</i>est exclu.
+
+75
+00:07:36,133 --> 00:07:37,646  X1:208 X2:510 Y1:456 Y2:516
+Une bonne et
+une mauvaise nouvelle.
+
+76
+00:07:37,853 --> 00:07:41,482  X1:144 X2:574 Y1:455 Y2:516
+Le compresseur n<i>'</i>a rien.
+Mais le bloc actionneur est nase.
+
+77
+00:07:41,813 --> 00:07:45,328  X1:215 X2:501 Y1:450 Y2:516
+Avec cette chaleur,
+ça va prendre <i>5</i> jours.
+
+78
+00:07:47,973 --> 00:07:50,487  X1:152 X2:564 Y1:489 Y2:516
+<i>3</i> 700, pièces et main-d<i>'</i>œuvre.
+
+79
+00:07:52,333 --> 00:07:54,403  X1:262 X2:455 Y1:495 Y2:516
+Client de 1 0 h.
+
+80
+00:07:56,173 --> 00:07:58,926  X1:236 X2:484 Y1:455 Y2:516
+Dis-leur qu<i>'</i>on aura
+la climatisation.
+
+81
+00:07:59,493 --> 00:08:00,812  X1:252 X2:465 Y1:490 Y2:516
+Dans trois jours.
+
+82
+00:08:07,373 --> 00:08:09,807  X1:217 X2:499 Y1:451 Y2:516
+ll aurait eu 21 ans
+la semaine prochaine.
+
+83
+00:08:11,893 --> 00:08:15,090  X1:129 X2:588 Y1:495 Y2:516
+On allait lui acheter un nouveau lit.
+
+84
+00:08:15,293 --> 00:08:20,162  X1:183 X2:534 Y1:456 Y2:516
+- Et on lui paie un cercueil.
+- A <i>3</i> h du matin.
+
+85
+00:08:20,333 --> 00:08:23,689  X1:162 X2:557 Y1:455 Y2:516
+ll n<i>'</i>aurait pas dû se trouver là
+avec cette fille.
+
+86
+00:08:23,933 --> 00:08:28,165  X1:197 X2:520 Y1:450 Y2:516
+ll n<i>'</i>y a rien de pire
+que de perdre un enfant.
+
+87
+00:08:28,333 --> 00:08:30,893  X1:165 X2:553 Y1:489 Y2:516
+On l<i>'</i>a perdu il y a longtemps.
+
+88
+00:08:33,813 --> 00:08:37,601  X1:139 X2:578 Y1:451 Y2:516
+- Nous veillerons à ce que Paco. . .
+- C<i>'</i>est Manny.
+
+89
+00:08:45,533 --> 00:08:47,569  X1:225 X2:493 Y1:495 Y2:516
+Et il a été assassiné.
+
+90
+00:08:51,253 --> 00:08:53,608  X1:137 X2:580 Y1:490 Y2:516
+ll aura un service des plus dignes.
+
+91
+00:08:54,013 --> 00:08:56,971  X1:210 X2:508 Y1:456 Y2:516
+Trois pompes funèbres
+nous ont refusés.
+
+92
+00:08:57,173 --> 00:08:59,243  X1:177 X2:541 Y1:490 Y2:516
+Nous ne refusons personne.
+
+93
+00:09:00,053 --> 00:09:04,410  X1:161 X2:557 Y1:456 Y2:516
+Mais si les familles ont du mal
+à réunir les fonds. . .
+
+94
+00:09:04,613 --> 00:09:07,173  X1:232 X2:485 Y1:450 Y2:516
+- J<i>'</i>ai du blé.
+- On n<i>'</i>en veut pas.
+
+95
+00:09:07,813 --> 00:09:09,690  X1:168 X2:548 Y1:490 Y2:516
+Si votre fils souhaite payer. . .
+
+96
+00:09:09,853 --> 00:09:14,722  X1:194 X2:523 Y1:450 Y2:516
+- Ce n<i>'</i>est pas notre fils !
+- C<i>'</i>est le chef du gang.
+
+97
+00:09:15,613 --> 00:09:19,322  X1:141 X2:579 Y1:456 Y2:516
+- Vous ne lisez pas les journaux ?
+- Je suis Powerful.
+
+98
+00:09:22,173 --> 00:09:26,405  X1:118 X2:600 Y1:451 Y2:516
+Paco aura un enterrement démentiel,
+quel qu<i>'</i>en soit le prix.
+
+99
+00:09:26,573 --> 00:09:30,930  X1:124 X2:594 Y1:490 Y2:516
+On a plein de cash, si vous assurez.
+
+100
+00:09:31,253 --> 00:09:35,087  X1:217 X2:501 Y1:456 Y2:516
+Vous saurez y faire
+ou faut aller ailleurs ?
+
+101
+00:09:38,853 --> 00:09:40,445  X1:275 X2:443 Y1:495 Y2:516
+Excusez-moi.
+
+102
+00:09:40,613 --> 00:09:45,528  X1:100 X2:620 Y1:451 Y2:516
+Nate va vous montrer des compositions
+florales peut-être à votre goût.
+
+103
+00:09:50,573 --> 00:09:53,451  X1:186 X2:531 Y1:489 Y2:516
+Les lys, c<i>'</i>est toujours joli.
+
+104
+00:10:02,013 --> 00:10:05,210  X1:158 X2:557 Y1:494 Y2:516
+J<i>'</i>ai besoin de ton savoir-faire.
+
+105
+00:10:05,373 --> 00:10:09,161  X1:189 X2:530 Y1:450 Y2:516
+- J<i>'</i>ai un cas pas facile.
+- Décomposé ? Trop sec ?
+
+106
+00:10:09,333 --> 00:10:11,847  X1:117 X2:601 Y1:490 Y2:516
+Blessures par balles. Visage épargné.
+
+107
+00:10:12,013 --> 00:10:16,006  X1:115 X2:603 Y1:456 Y2:516
+La famille veut
+un enterrement mexicain traditionnel.
+
+108
+00:10:16,173 --> 00:10:19,563  X1:223 X2:496 Y1:488 Y2:516
+C<i>'</i>est comment, ça ?
+
+109
+00:10:19,733 --> 00:10:23,646  X1:184 X2:532 Y1:451 Y2:516
+ll y a un autre gars,
+le chef de gang du défunt.
+
+110
+00:10:27,453 --> 00:10:29,364  X1:191 X2:528 Y1:489 Y2:516
+En quoi ça me concerne ?
+
+111
+00:10:29,533 --> 00:10:32,843  X1:152 X2:564 Y1:455 Y2:516
+J<i>'</i>espérais que tu leur parlerais,
+avec moi.
+
+112
+00:10:33,013 --> 00:10:36,085  X1:197 X2:521 Y1:451 Y2:516
+Parce que je suis latino,
+et je connais les gangs ?
+
+113
+00:10:36,253 --> 00:10:38,244  X1:160 X2:557 Y1:490 Y2:516
+Tu les connais mieux que moi.
+
+114
+00:10:38,453 --> 00:10:40,284  X1:272 X2:448 Y1:489 Y2:516
+Pourquoi ça ?
+
+115
+00:10:40,693 --> 00:10:45,209  X1:191 X2:527 Y1:450 Y2:516
+Je pensais qu<i>'</i>un membre
+de ta famille, peut-être. . .
+
+116
+00:10:45,373 --> 00:10:47,887  X1:167 X2:550 Y1:490 Y2:516
+Non, personne de ma famille.
+
+117
+00:10:48,093 --> 00:10:51,210  X1:220 X2:498 Y1:456 Y2:516
+Après tout ce temps,
+tu sais rien de moi.
+
+118
+00:10:51,373 --> 00:10:53,762  X1:245 X2:474 Y1:455 Y2:516
+- C<i>'</i>est faux.
+- Tu as un atlas ?
+
+119
+00:10:55,093 --> 00:10:56,321  X1:234 X2:483 Y1:495 Y2:516
+Si tu en avais un. . .
+
+120
+00:10:56,533 --> 00:11:00,082  X1:155 X2:561 Y1:450 Y2:516
+tu saurais qu<i>'</i>il y a <i>3</i> 800 km
+entre Porto Rico et le Mexique.
+
+121
+00:11:00,293 --> 00:11:02,170  X1:237 X2:482 Y1:490 Y2:516
+Tu es portoricain ?
+
+122
+00:11:07,733 --> 00:11:10,884  X1:203 X2:515 Y1:451 Y2:516
+Federico, je suis désolé.
+Je croyais. . .
+
+123
+00:11:18,733 --> 00:11:21,042  X1:127 X2:590 Y1:490 Y2:516
+On ne doit pas perdre cette affaire.
+
+124
+00:11:21,213 --> 00:11:25,126  X1:225 X2:494 Y1:450 Y2:516
+Et avec Nate et moi,
+ça pourrait arriver.
+
+125
+00:11:25,733 --> 00:11:30,284  X1:125 X2:593 Y1:456 Y2:516
+Notre opale bleue,
+renforcé d<i>'</i>aluminium et de cuivre. . .
+
+126
+00:11:30,453 --> 00:11:34,128  X1:132 X2:585 Y1:490 Y2:516
+capitonné de luxueux velours bleu.
+
+127
+00:11:34,293 --> 00:11:36,932  X1:138 X2:580 Y1:490 Y2:516
+ll est plus beau que notre voiture.
+
+128
+00:11:37,293 --> 00:11:38,612  X1:271 X2:447 Y1:489 Y2:516
+Ça suffit pas.
+
+129
+00:11:43,613 --> 00:11:50,007  X1:128 X2:590 Y1:450 Y2:516
+Si c<i>'</i>est le cercueil que vous voulez
+pour votre fils, il faut le prendre.
+
+130
+00:11:50,373 --> 00:11:52,170  X1:223 X2:495 Y1:489 Y2:516
+ll s<i>'</i>agit de votre fils.
+
+131
+00:11:55,653 --> 00:11:57,723  X1:190 X2:530 Y1:489 Y2:516
+D<i>'</i>oû tu viens, mon gars ?
+
+132
+00:12:04,453 --> 00:12:06,364  X1:202 X2:516 Y1:490 Y2:516
+Un instant, je vous prie.
+
+133
+00:12:16,693 --> 00:12:20,811  X1:128 X2:591 Y1:450 Y2:516
+D<i>'</i>oû je viens ?
+En clair, oû mes parents sont nés ?
+
+134
+00:12:20,973 --> 00:12:25,251  X1:169 X2:548 Y1:451 Y2:516
+San Lorenzo, au Puerto Rico.
+D<i>'</i>oû je viens ?
+
+135
+00:12:25,413 --> 00:12:30,123  X1:169 X2:551 Y1:456 Y2:516
+En clair, quel est mon gang ?
+Je vais te le dire.
+
+136
+00:12:30,293 --> 00:12:33,729  X1:221 X2:499 Y1:455 Y2:516
+Le gang qui s<i>'</i>occupe
+d<i>'</i>enterrer ton ami.
+
+137
+00:12:33,893 --> 00:12:36,407  X1:177 X2:541 Y1:456 Y2:516
+Un gang qui sera là pour toi
+et tes <i>cholos</i>. . .
+
+138
+00:12:36,573 --> 00:12:40,725  X1:127 X2:590 Y1:451 Y2:516
+quand aucune entreprise
+voudra s<i>'</i>occuper de vos conneries.
+
+139
+00:12:41,213 --> 00:12:43,363  X1:197 X2:519 Y1:493 Y2:516
+Ton ami est mort, vieux.
+
+140
+00:12:43,533 --> 00:12:45,922  X1:221 X2:498 Y1:450 Y2:516
+Tu veux que je t<i>'</i>aide
+ou pas ?
+
+141
+00:12:59,693 --> 00:13:01,251  X1:246 X2:469 Y1:494 Y2:516
+Je suis d<i>'</i>accord.
+
+142
+00:13:02,653 --> 00:13:07,727  X1:129 X2:589 Y1:455 Y2:516
+- Ça me plaît pas, c<i>'</i>est dangereux.
+- Pas si on laisse faire Rico.
+
+143
+00:13:07,893 --> 00:13:11,727  X1:195 X2:522 Y1:454 Y2:516
+On est trop blancs.
+On va tout foirer, bordel.
+
+144
+00:13:11,933 --> 00:13:13,286  X1:242 X2:476 Y1:490 Y2:516
+Pas de gros mots.
+
+145
+00:13:13,453 --> 00:13:15,728  X1:129 X2:586 Y1:489 Y2:516
+Je m<i>'</i>inquiète pour Claire et le feu.
+
+146
+00:13:15,933 --> 00:13:18,049  X1:136 X2:582 Y1:489 Y2:516
+Elle l<i>'</i>a pas fait, elle nous déteste.
+
+147
+00:13:18,253 --> 00:13:21,882  X1:181 X2:539 Y1:451 Y2:516
+- Brenda est végétarienne ?
+- Elle mange tout.
+
+148
+00:13:27,333 --> 00:13:31,121  X1:178 X2:539 Y1:451 Y2:516
+Le soir oû papa est mort,
+Claire avait pris de la glace.
+
+149
+00:13:31,293 --> 00:13:34,171  X1:093 X2:626 Y1:489 Y2:516
+C<i>'</i>est pas un calmant pour les chevaux ?
+
+150
+00:13:34,333 --> 00:13:37,245  X1:150 X2:567 Y1:488 Y2:516
+C<i>'</i>est du speed, ça rend dingue.
+
+151
+00:13:37,413 --> 00:13:39,608  X1:136 X2:581 Y1:489 Y2:516
+S<i>'</i>il y a des choses à me cacher. . .
+
+152
+00:13:39,773 --> 00:13:41,923  X1:234 X2:483 Y1:490 Y2:516
+allez parler ailleurs.
+
+153
+00:13:43,093 --> 00:13:47,291  X1:137 X2:581 Y1:451 Y2:516
+- Et elle boit ?
+- Je lui téléphone de ne pas venir.
+
+154
+00:13:47,493 --> 00:13:49,484  X1:147 X2:571 Y1:489 Y2:516
+Non, je suis ravie qu<i>'</i>elle vienne.
+
+155
+00:13:49,653 --> 00:13:53,089  X1:178 X2:538 Y1:450 Y2:516
+J<i>'</i>ai des courses à faire.
+Je prendrai un Chardonnay.
+
+156
+00:13:53,253 --> 00:13:56,768  X1:192 X2:526 Y1:456 Y2:516
+- Quelles courses ?
+- J<i>'</i>ai une liste si tu veux.
+
+157
+00:13:58,613 --> 00:14:02,731  X1:161 X2:555 Y1:451 Y2:516
+Un mec du lycée a morflé
+avec une matraque électrique.
+
+158
+00:14:02,893 --> 00:14:05,088  X1:188 X2:530 Y1:489 Y2:516
+ll l<i>'</i>a montrée au déjeuner.
+
+159
+00:14:05,253 --> 00:14:09,610  X1:199 X2:519 Y1:456 Y2:516
+ll devait y avoir six flics,
+c<i>'</i>était à mourir de rire.
+
+160
+00:14:10,893 --> 00:14:12,087  X1:318 X2:401 Y1:495 Y2:516
+Quoi ?
+
+161
+00:14:14,933 --> 00:14:18,369  X1:111 X2:607 Y1:489 Y2:516
+Ce n<i>'</i>est pas un enterrement de gang.
+
+162
+00:14:19,573 --> 00:14:22,087  X1:156 X2:561 Y1:493 Y2:516
+lls en voulaient un, nous aussi.
+
+163
+00:14:22,253 --> 00:14:25,086  X1:106 X2:613 Y1:489 Y2:516
+Qui tu appelleras quand ça chauffera ?
+
+164
+00:14:25,253 --> 00:14:27,528  X1:265 X2:452 Y1:456 Y2:516
+- Pas toi.
+- Tu as raison.
+
+165
+00:14:30,693 --> 00:14:33,048  X1:148 X2:570 Y1:494 Y2:516
+Claire a besoin d<i>'</i>un bon avocat.
+
+166
+00:14:33,213 --> 00:14:36,922  X1:202 X2:514 Y1:451 Y2:516
+Si elle a mis le feu,
+elle fera ce qu<i>'</i>il faudra.
+
+167
+00:14:37,093 --> 00:14:41,052  X1:180 X2:538 Y1:451 Y2:516
+Trouve-lui un super avocat,
+et qu<i>'</i>elle refuse de parler.
+
+168
+00:14:41,213 --> 00:14:45,365  X1:195 X2:521 Y1:456 Y2:516
+Sors-la de ça à tout prix.
+Elle va se faire dévorer.
+
+169
+00:14:45,533 --> 00:14:48,525  X1:156 X2:563 Y1:451 Y2:516
+Tu peux savoir ce que la police
+compte faire ?
+
+170
+00:14:48,693 --> 00:14:51,207  X1:153 X2:562 Y1:490 Y2:516
+Je suis déjà intervenu une fois.
+
+171
+00:14:51,373 --> 00:14:54,285  X1:188 X2:532 Y1:456 Y2:516
+- Vous démarrez ou quoi ?
+- Oui.
+
+172
+00:14:54,493 --> 00:14:55,812  X1:270 X2:447 Y1:490 Y2:516
+Magnez-vous.
+
+173
+00:15:05,653 --> 00:15:07,166  X1:251 X2:466 Y1:490 Y2:516
+Putain de pédés.
+
+174
+00:15:17,853 --> 00:15:19,650  X1:204 X2:515 Y1:489 Y2:516
+Qu<i>'</i>est-ce que t<i>'</i>as dit ?
+
+175
+00:15:19,853 --> 00:15:23,084  X1:203 X2:514 Y1:451 Y2:516
+La prochaine fois
+que tu parles de pédé. . .
+
+176
+00:15:23,293 --> 00:15:26,171  X1:180 X2:537 Y1:489 Y2:516
+regarde si c<i>'</i>est pas un flic.
+
+177
+00:15:26,373 --> 00:15:27,931  X1:282 X2:438 Y1:489 Y2:516
+C<i>'</i>est pigé ?
+
+178
+00:15:28,773 --> 00:15:30,968  X1:255 X2:463 Y1:490 Y2:516
+Tu as compris ?
+
+179
+00:15:32,053 --> 00:15:35,284  X1:195 X2:523 Y1:451 Y2:516
+Puisque tu as ma plaque,
+porte plainte.
+
+180
+00:15:35,733 --> 00:15:39,362  X1:240 X2:478 Y1:451 Y2:516
+Fous-moi le camp,
+espèce d<i>'</i>enfoiré !
+
+181
+00:15:44,973 --> 00:15:49,444  X1:172 X2:546 Y1:451 Y2:516
+- Je lui ai fichu la trouille.
+- ll l<i>'</i>a dit sans penser à mal.
+
+182
+00:15:49,613 --> 00:15:52,081  X1:157 X2:562 Y1:489 Y2:516
+Tu te détestes autant que ça ?
+
+183
+00:16:11,693 --> 00:16:15,288  X1:162 X2:555 Y1:450 Y2:516
+Faut être barjo
+pour gagner sa vie comme ça.
+
+184
+00:16:23,493 --> 00:16:27,930  X1:179 X2:539 Y1:451 Y2:516
+- Ça gaze, mec ?
+- T<i>'</i>as pas besoin de savoir.
+
+185
+00:16:28,453 --> 00:16:31,968  X1:198 X2:521 Y1:455 Y2:516
+ll t<i>'</i>arrive de voir le soleil
+ou tu l<i>'</i>évites ?
+
+186
+00:16:35,773 --> 00:16:38,765  X1:204 X2:515 Y1:456 Y2:516
+- Tu mates mon engin ?
+- Pas du tout.
+
+187
+00:16:41,613 --> 00:16:43,365  X1:242 X2:474 Y1:493 Y2:516
+Je déconne, mec.
+
+188
+00:16:48,773 --> 00:16:51,970  X1:187 X2:530 Y1:451 Y2:516
+Veuve Clicquot Ponsardin,
+Réserve spéciale.
+
+189
+00:16:52,173 --> 00:16:57,122  X1:141 X2:576 Y1:450 Y2:516
+Un cadeau de mes parents.
+Ça va barder quand ils le verront.
+
+190
+00:16:57,293 --> 00:17:00,569  X1:156 X2:562 Y1:453 Y2:516
+- Tu es en avance d<i>'</i>une heure.
+- Ah, oui ?
+
+191
+00:17:07,653 --> 00:17:12,249  X1:183 X2:537 Y1:450 Y2:516
+C<i>'</i>est moins <i>Famille Aams</i>
+que je ne pensais.
+
+192
+00:17:12,413 --> 00:17:15,007  X1:141 X2:576 Y1:490 Y2:516
+On y jouait quand on était petits.
+
+193
+00:17:15,173 --> 00:17:18,483  X1:113 X2:602 Y1:493 Y2:516
+Je faisais Gomez, et lui Oncle Fétide.
+
+194
+00:17:19,853 --> 00:17:22,413  X1:186 X2:531 Y1:490 Y2:516
+Le kitsch est omniprésent.
+
+195
+00:17:22,573 --> 00:17:26,452  X1:125 X2:592 Y1:489 Y2:516
+D<i>'</i>oû ton sens de l<i>'</i>ironie, j<i>'</i>imagine.
+
+196
+00:17:26,893 --> 00:17:29,805  X1:222 X2:495 Y1:456 Y2:516
+- On étouffe.
+- J<i>'</i>entends des voix.
+
+197
+00:17:29,973 --> 00:17:34,205  X1:175 X2:542 Y1:451 Y2:516
+- Elle est en avance.
+- Quel plaisir de vous revoir.
+
+198
+00:17:34,373 --> 00:17:36,329  X1:165 X2:553 Y1:490 Y2:516
+Ravie que vous ayez pu venir.
+
+199
+00:17:37,653 --> 00:17:40,725  X1:121 X2:596 Y1:489 Y2:516
+Du champagne. C<i>'</i>est la fête. Merci.
+
+200
+00:17:42,133 --> 00:17:47,890  X1:118 X2:598 Y1:455 Y2:516
+Je suis dans la cuisine jusqu<i>'</i>au cou.
+Je vais le mettre au frais.
+
+201
+00:17:48,373 --> 00:17:51,171  X1:160 X2:558 Y1:493 Y2:516
+Nate, fais-lui visiter la maison.
+
+202
+00:17:54,373 --> 00:17:56,648  X1:220 X2:500 Y1:450 Y2:516
+- Elle me hait.
+- Pourquoi tu dis ça ?
+
+203
+00:17:56,813 --> 00:17:58,769  X1:225 X2:492 Y1:489 Y2:516
+Parce que c<i>'</i>est vrai.
+
+204
+00:18:01,373 --> 00:18:04,445  X1:128 X2:592 Y1:489 Y2:516
+Quoi ? T<i>'</i>as peur que maman voie ?
+
+205
+00:18:04,613 --> 00:18:08,049  X1:159 X2:561 Y1:456 Y2:516
+On peut éviter la psychanalyse
+ce soir ?
+
+206
+00:18:08,213 --> 00:18:10,932  X1:181 X2:537 Y1:490 Y2:516
+Ou on disjonctera très vite.
+
+207
+00:18:11,093 --> 00:18:13,732  X1:204 X2:514 Y1:495 Y2:516
+On est sur la défensive.
+
+208
+00:18:13,893 --> 00:18:17,932  X1:176 X2:542 Y1:450 Y2:516
+Ça n<i>'</i>a aucune importance
+que ta mère m<i>'</i>aime ou pas.
+
+209
+00:18:23,213 --> 00:18:25,090  X1:225 X2:494 Y1:489 Y2:516
+C<i>'</i>est quoi, ce truc ?
+
+210
+00:18:25,613 --> 00:18:26,762  X1:240 X2:477 Y1:489 Y2:516
+L<i>'</i>angoisse ! Non !
+
+211
+00:18:31,893 --> 00:18:34,009  X1:156 X2:563 Y1:489 Y2:516
+T<i>'</i>appelles pas ton petit chéri ?
+
+212
+00:18:35,293 --> 00:18:38,808  X1:199 X2:520 Y1:451 Y2:516
+Encore furax contre lui ?
+Je te comprends.
+
+213
+00:18:38,973 --> 00:18:42,443  X1:202 X2:518 Y1:451 Y2:516
+ll soutient votre cause ?
+De quel droit. . .
+
+214
+00:18:42,613 --> 00:18:45,047  X1:182 X2:537 Y1:495 Y2:516
+ll est aussi content de lui ?
+
+215
+00:18:45,933 --> 00:18:52,281  X1:149 X2:570 Y1:450 Y2:516
+Exactement. Tu l<i>'</i>as pas insulté,
+et il était en rogne contre toi.
+
+216
+00:18:52,453 --> 00:18:55,684  X1:135 X2:583 Y1:490 Y2:516
+ll a un problème de stress à gérer.
+
+217
+00:18:55,853 --> 00:18:59,209  X1:174 X2:544 Y1:489 Y2:516
+Ou c<i>'</i>est un hyper-colérique.
+
+218
+00:18:59,373 --> 00:19:03,002  X1:151 X2:567 Y1:451 Y2:516
+- ll a perdu son sang-froid.
+- Parce qu<i>'</i>on l<i>'</i>a traité de pédé.
+
+219
+00:19:03,213 --> 00:19:07,331  X1:172 X2:546 Y1:450 Y2:516
+- Ça n<i>'</i>en valait pas la peine.
+- ll t<i>'</i>a traité de pédé aussi.
+
+220
+00:19:08,173 --> 00:19:11,006  X1:195 X2:525 Y1:451 Y2:516
+- Et alors ?
+- Qu<i>'</i>es-ce que t<i>'</i>as fait ?
+
+221
+00:19:11,213 --> 00:19:12,805  X1:327 X2:390 Y1:495 Y2:516
+Rien.
+
+222
+00:19:16,373 --> 00:19:19,888  X1:177 X2:540 Y1:495 Y2:516
+Simon Pierre se réchauffait.
+
+223
+00:19:32,213 --> 00:19:36,729  X1:166 X2:554 Y1:450 Y2:516
+Pas étonnant qu<i>'</i>il se soit mis
+en pétard contre toi.
+
+224
+00:19:39,453 --> 00:19:43,366  X1:122 X2:595 Y1:490 Y2:516
+Enterre-moi tout nu, fais-moi plaisir.
+
+225
+00:19:43,533 --> 00:19:45,808  X1:105 X2:612 Y1:490 Y2:516
+Dommage que Diane Arbus soit morte.
+
+226
+00:19:45,973 --> 00:19:50,046  X1:134 X2:584 Y1:490 Y2:516
+Elle aurait fait de super photos ici.
+
+227
+00:19:52,893 --> 00:19:58,809  X1:194 X2:524 Y1:450 Y2:516
+- Qu<i>'</i>est-ce qui t<i>'</i>arrive ?
+- Rien, je suis préoccupé.
+
+228
+00:19:58,973 --> 00:20:02,568  X1:200 X2:517 Y1:455 Y2:516
+- Je veux pas t<i>'</i>ennuyer.
+- Merci.
+
+229
+00:20:08,053 --> 00:20:10,044  X1:299 X2:418 Y1:495 Y2:516
+Viens ici.
+
+230
+00:20:11,973 --> 00:20:14,771  X1:282 X2:438 Y1:456 Y2:516
+- Pourquoi ?
+- Viens.
+
+231
+00:20:22,413 --> 00:20:24,210  X1:218 X2:501 Y1:489 Y2:516
+Qu<i>'</i>est-ce que tu as ?
+
+232
+00:20:24,893 --> 00:20:29,569  X1:171 X2:544 Y1:450 Y2:516
+Je vais devenir croque-mort.
+Ça me flanque la trouille.
+
+233
+00:20:29,733 --> 00:20:32,167  X1:130 X2:588 Y1:489 Y2:516
+Une compagnie veut qu<i>'</i>on coule. . .
+
+234
+00:20:32,333 --> 00:20:35,530  X1:184 X2:533 Y1:450 Y2:516
+et j<i>'</i>ai peur que ma sœur
+soit déjantée et pyromane.
+
+235
+00:20:37,373 --> 00:20:42,322  X1:155 X2:563 Y1:451 Y2:516
+- Que de tristesse chez toi !
+- Ce sont les pompes funèbres.
+
+236
+00:20:42,653 --> 00:20:48,364  X1:139 X2:577 Y1:451 Y2:516
+Pas étonnant que tu te sois tiré.
+Vous canalisez la peine des gens.
+
+237
+00:20:49,773 --> 00:20:52,241  X1:158 X2:559 Y1:489 Y2:516
+Pour mon père, c<i>'</i>était un don.
+
+238
+00:21:40,933 --> 00:21:44,767  X1:202 X2:516 Y1:451 Y2:516
+- Bon Dieu !
+- Le dîner doit être prêt.
+
+239
+00:21:46,413 --> 00:21:49,564  X1:147 X2:570 Y1:489 Y2:516
+Alors ? T<i>'</i>as écarté les jambes. . .
+
+240
+00:21:49,733 --> 00:21:52,167  X1:126 X2:593 Y1:495 Y2:516
+comme Sharon Stone dans le film ?
+
+241
+00:21:52,333 --> 00:21:56,292  X1:155 X2:564 Y1:451 Y2:516
+lls posent les mêmes questions
+pour que tu te coupes.
+
+242
+00:21:56,453 --> 00:21:59,331  X1:159 X2:558 Y1:494 Y2:516
+C<i>'</i>est cool. Tu as dû t<i>'</i>amuser.
+
+243
+00:21:59,533 --> 00:22:02,843  X1:205 X2:515 Y1:451 Y2:516
+- Non.
+- lls vont m<i>'</i>interroger ?
+
+244
+00:22:03,333 --> 00:22:04,925  X1:329 X2:388 Y1:495 Y2:516
+Non.
+
+245
+00:22:07,373 --> 00:22:10,524  X1:183 X2:536 Y1:493 Y2:516
+Nate, tu dis le bénédicité ?
+
+246
+00:22:12,933 --> 00:22:15,322  X1:232 X2:486 Y1:495 Y2:516
+Si David le faisait ?
+
+247
+00:22:18,213 --> 00:22:21,125  X1:110 X2:607 Y1:490 Y2:516
+Merci Seigneur, pour ta grande bonté.
+
+248
+00:22:21,333 --> 00:22:23,244  X1:191 X2:527 Y1:494 Y2:516
+Tu t<i>'</i>es shooté au crack ?
+
+249
+00:22:24,173 --> 00:22:25,208  X1:266 X2:454 Y1:490 Y2:516
+De la courge ?
+
+250
+00:22:28,133 --> 00:22:30,806  X1:168 X2:549 Y1:489 Y2:516
+On a un projet d<i>'</i>entreprise. . .
+
+251
+00:22:30,973 --> 00:22:33,328  X1:195 X2:522 Y1:490 Y2:516
+pour repousser Kroehner.
+
+252
+00:22:33,493 --> 00:22:36,883  X1:108 X2:610 Y1:489 Y2:516
+Un projet ? Ton père n<i>'</i>en a jamais eu.
+
+253
+00:22:38,133 --> 00:22:43,526  X1:150 X2:568 Y1:450 Y2:516
+- C<i>'</i>est bien le problème.
+- On voudrait en parler avec toi.
+
+254
+00:22:43,693 --> 00:22:48,209  X1:113 X2:605 Y1:450 Y2:516
+C<i>'</i>est inutile.
+C<i>'</i>est votre entreprise, pas la mienne.
+
+255
+00:22:48,733 --> 00:22:51,611  X1:183 X2:536 Y1:451 Y2:516
+- La sauce pour les pâtes ?
+- J<i>'</i>y vais.
+
+256
+00:22:53,853 --> 00:22:56,925  X1:199 X2:520 Y1:451 Y2:516
+- Quel est votre métier ?
+- Elle fait des massages.
+
+257
+00:22:57,093 --> 00:22:59,766  X1:209 X2:511 Y1:451 Y2:516
+- Shiatsu.
+- Qu<i>'</i>est-ce que c<i>'</i>est ?
+
+258
+00:22:59,933 --> 00:23:02,242  X1:186 X2:532 Y1:490 Y2:516
+Une technique japonaise. . .
+
+259
+00:23:02,413 --> 00:23:06,326  X1:146 X2:571 Y1:451 Y2:516
+oû on appuie
+sur les méridiens d<i>'</i>acupuncture.
+
+260
+00:23:07,213 --> 00:23:12,287  X1:175 X2:545 Y1:449 Y2:516
+C<i>'</i>est passionnant !
+Les aiguilles, c<i>'</i>est bien ça ?
+
+261
+00:23:18,453 --> 00:23:22,492  X1:123 X2:594 Y1:455 Y2:516
+J<i>'</i>utilise mes pouces, mes poignets,
+mes coudes.
+
+262
+00:23:22,693 --> 00:23:25,890  X1:184 X2:534 Y1:451 Y2:516
+Vous enfoncez vos pouces
+dans les patients ?
+
+263
+00:23:26,053 --> 00:23:30,171  X1:122 X2:596 Y1:489 Y2:516
+Non. Je ne suis pas censée faire ça.
+
+264
+00:23:37,093 --> 00:23:41,689  X1:159 X2:561 Y1:451 Y2:516
+- Vous restez pour le dessert ?
+- ll y a une tarte aux pêches.
+
+265
+00:23:52,733 --> 00:23:56,806  X1:202 X2:516 Y1:456 Y2:516
+Un cercueil splendide.
+Ce Federico sait vendre.
+
+266
+00:23:56,973 --> 00:23:59,533  X1:167 X2:551 Y1:495 Y2:516
+Tu sais combien ils coûtent ?
+
+267
+00:23:59,693 --> 00:24:01,763  X1:310 X2:406 Y1:495 Y2:516
+<i>3</i> 200 !
+
+268
+00:24:03,773 --> 00:24:07,243  X1:162 X2:556 Y1:451 Y2:516
+Tu me mettras une veilleuse ?
+J<i>'</i>aime pas le noir.
+
+269
+00:24:07,413 --> 00:24:10,962  X1:128 X2:588 Y1:495 Y2:516
+Tu aurais dû éviter de te faire tuer.
+
+270
+00:24:12,053 --> 00:24:14,044  X1:253 X2:465 Y1:488 Y2:516
+Ça, c<i>'</i>est vache.
+
+271
+00:24:17,813 --> 00:24:21,044  X1:165 X2:555 Y1:456 Y2:516
+M. Powerful et son entourage
+sont ici.
+
+272
+00:24:21,213 --> 00:24:24,728  X1:238 X2:481 Y1:450 Y2:516
+- J<i>'</i>arrive.
+- A qui tu parlais ?
+
+273
+00:24:25,373 --> 00:24:26,965  X1:272 X2:445 Y1:495 Y2:516
+A moi-même.
+
+274
+00:24:31,213 --> 00:24:35,525  X1:195 X2:525 Y1:451 Y2:516
+Pourquoi tu ne viens plus
+à l<i>'</i>église avec moi ?
+
+275
+00:24:37,173 --> 00:24:39,892  X1:120 X2:596 Y1:490 Y2:516
+Je fréquente une autre avec un ami.
+
+276
+00:24:40,413 --> 00:24:42,973  X1:218 X2:501 Y1:490 Y2:516
+Le policier ? Le Noir ?
+
+277
+00:24:44,893 --> 00:24:47,248  X1:227 X2:490 Y1:489 Y2:516
+Prouve que t<i>'</i>en as !
+
+278
+00:24:48,293 --> 00:24:51,251  X1:147 X2:570 Y1:490 Y2:516
+Oui, maman. Le policier, le Noir.
+
+279
+00:25:27,158 --> 00:25:28,910  X1:251 X2:464 Y1:492 Y2:516
+Je t<i>'</i>aime, Paco.
+
+280
+00:25:51,958 --> 00:25:53,710  X1:272 X2:447 Y1:495 Y2:516
+Tu vas bien ?
+
+281
+00:25:54,878 --> 00:26:00,032  X1:147 X2:569 Y1:455 Y2:516
+J<i>'</i>ai l<i>'</i>air d<i>'</i>un vendeur de bibles.
+Comme toi.
+
+282
+00:26:01,438 --> 00:26:04,635  X1:154 X2:563 Y1:489 Y2:516
+C<i>'</i>est gonflant, cette musique !
+
+283
+00:26:09,278 --> 00:26:15,228  X1:145 X2:572 Y1:455 Y2:516
+- Ce n<i>'</i>est pas la musique idéale.
+- C<i>'</i>est nul.
+
+284
+00:26:17,478 --> 00:26:19,275  X1:313 X2:405 Y1:495 Y2:516
+Parfait.
+
+285
+00:26:52,878 --> 00:26:54,357  X1:315 X2:405 Y1:495 Y2:516
+Chéri ?
+
+286
+00:26:55,638 --> 00:26:58,914  X1:248 X2:469 Y1:489 Y2:516
+Non, je t<i>'</i>en prie.
+
+287
+00:27:17,878 --> 00:27:22,349  X1:130 X2:588 Y1:450 Y2:516
+On croirait le labo d<i>'</i>un savant fou.
+Tu supportes ?
+
+288
+00:27:22,518 --> 00:27:25,908  X1:136 X2:581 Y1:450 Y2:516
+C<i>'</i>est mieux qu<i>'</i>une prison turque.
+La plupart du temps.
+
+289
+00:27:34,238 --> 00:27:37,469  X1:244 X2:474 Y1:456 Y2:516
+- Dis donc !
+- Je te l<i>'</i>avais dit.
+
+290
+00:27:39,638 --> 00:27:44,871  X1:181 X2:536 Y1:450 Y2:516
+- T<i>'</i>as déjà tué quelqu<i>'</i>un ?
+- Je sais pas. J<i>'</i>ai déjà tiré.
+
+291
+00:27:45,078 --> 00:27:48,309  X1:184 X2:533 Y1:451 Y2:516
+Tout le monde croit
+que j<i>'</i>ai mis le feu en face.
+
+292
+00:27:48,958 --> 00:27:52,268  X1:271 X2:448 Y1:455 Y2:516
+- C<i>'</i>était toi ?
+- A ton avis ?
+
+293
+00:27:57,758 --> 00:28:01,114  X1:157 X2:562 Y1:488 Y2:516
+Qu<i>'</i>est-ce que ça fait de tirer ?
+
+294
+00:28:01,638 --> 00:28:03,515  X1:184 X2:535 Y1:490 Y2:516
+Tu veux essayer une fois ?
+
+295
+00:28:03,678 --> 00:28:09,071  X1:162 X2:555 Y1:451 Y2:516
+- Viens me voir au ghetto.
+- Sérieux ? Gare, je vais venir.
+
+296
+00:28:10,878 --> 00:28:13,233  X1:142 X2:577 Y1:489 Y2:516
+T<i>'</i>es une petite allumeuse, hein ?
+
+297
+00:28:18,838 --> 00:28:22,228  X1:131 X2:586 Y1:450 Y2:516
+T<i>'</i>entends pas le répondeur
+quand ton mec appelle au secours.
+
+298
+00:28:22,398 --> 00:28:24,548  X1:150 X2:567 Y1:490 Y2:516
+Tu veux regretter toute ta vie. . .
+
+299
+00:28:24,718 --> 00:28:28,154  X1:167 X2:552 Y1:456 Y2:516
+de pas avoir pris le téléphone
+la 1 ère fois ?
+
+300
+00:28:28,318 --> 00:28:30,195  X1:257 X2:460 Y1:495 Y2:516
+Tu me fais mal.
+
+301
+00:28:31,798 --> 00:28:34,517  X1:173 X2:544 Y1:490 Y2:516
+Tu sais rien de rien, gamine.
+
+302
+00:28:37,158 --> 00:28:39,308  X1:161 X2:556 Y1:490 Y2:516
+Tu me fais perdre mon temps.
+
+303
+00:28:44,278 --> 00:28:48,715  X1:153 X2:565 Y1:449 Y2:516
+Ça, c<i>'</i>est le premier que j<i>'</i>ai eu.
+Après ça. . .
+
+304
+00:28:53,238 --> 00:28:55,115  X1:217 X2:500 Y1:495 Y2:516
+Extrêmement élaboré.
+
+305
+00:28:56,518 --> 00:29:00,909  X1:173 X2:546 Y1:456 Y2:516
+Celui-là a mis trois semaines
+à cicatriser. Admire.
+
+306
+00:29:02,318 --> 00:29:04,434  X1:239 X2:480 Y1:489 Y2:516
+Ça en jette, hein ?
+
+307
+00:29:10,198 --> 00:29:13,713  X1:195 X2:524 Y1:456 Y2:516
+- Que puis-je pour vous ?
+- Ravi de vous revoir.
+
+308
+00:29:13,878 --> 00:29:17,473  X1:207 X2:513 Y1:456 Y2:516
+- Comment allez-vous ?
+- Bien.
+
+309
+00:29:17,638 --> 00:29:22,553  X1:167 X2:550 Y1:450 Y2:516
+J<i>'</i>ai appris la mort de Manuel
+par le <i>Times</i>. Je devais venir.
+
+310
+00:29:22,718 --> 00:29:27,917  X1:141 X2:578 Y1:450 Y2:516
+C<i>'</i>est bouleversant. Les émeutes,
+la révolte de ces gens. . .
+
+311
+00:29:28,078 --> 00:29:31,707  X1:151 X2:567 Y1:451 Y2:516
+aurait dû amener la paix.
+Mais nous perdons nos enfants.
+
+312
+00:29:31,878 --> 00:29:33,197  X1:219 X2:499 Y1:495 Y2:516
+Vous le connaissiez ?
+
+313
+00:29:33,358 --> 00:29:36,794  X1:198 X2:519 Y1:456 Y2:516
+Je connais toutes
+ces victimes innocentes.
+
+314
+00:29:37,838 --> 00:29:41,672  X1:143 X2:574 Y1:455 Y2:516
+Ce n<i>'</i>est pas le bon moment.
+Si vous voulez écrire une carte. . .
+
+315
+00:29:41,838 --> 00:29:45,308  X1:199 X2:519 Y1:451 Y2:516
+Je peux peut-être
+rester quelques minutes.
+
+316
+00:30:06,278 --> 00:30:11,432  X1:158 X2:560 Y1:450 Y2:516
+J<i>'</i>aurais voulu que vous voyiez
+mon enfant, si plein de vie.
+
+317
+00:30:11,598 --> 00:30:16,149  X1:167 X2:550 Y1:490 Y2:516
+Avec un sourire qui chavirait.
+
+318
+00:30:17,358 --> 00:30:23,752  X1:124 X2:596 Y1:455 Y2:516
+Quel Dieu cruel l<i>'</i>a laissé se détruire
+avec ces saletés ?
+
+319
+00:30:24,878 --> 00:30:26,436  X1:291 X2:427 Y1:490 Y2:516
+La drogue.
+
+320
+00:30:27,198 --> 00:30:28,790  X1:289 X2:428 Y1:495 Y2:516
+Les armes.
+
+321
+00:30:30,198 --> 00:30:31,756  X1:305 X2:413 Y1:495 Y2:516
+La mort.
+
+322
+00:30:37,278 --> 00:30:42,511  X1:187 X2:532 Y1:450 Y2:516
+Mme Bolin, je ne peux pas
+vous dire que ça va aller.
+
+323
+00:30:42,678 --> 00:30:45,192  X1:235 X2:482 Y1:490 Y2:516
+ll faudra du temps.
+
+324
+00:30:46,358 --> 00:30:47,996  X1:197 X2:521 Y1:489 Y2:516
+Ça ne peut pas être pire.
+
+325
+00:30:49,438 --> 00:30:52,157  X1:148 X2:567 Y1:489 Y2:516
+J<i>'</i>ai perdu toute raison de vivre.
+
+326
+00:30:53,198 --> 00:30:57,589  X1:157 X2:560 Y1:495 Y2:516
+Vous avez votre mari. Et vous.
+
+327
+00:30:58,798 --> 00:31:02,507  X1:209 X2:508 Y1:456 Y2:516
+Gardez le souvenir
+de votre enfant vivant.
+
+328
+00:31:05,118 --> 00:31:07,996  X1:187 X2:530 Y1:490 Y2:516
+Mon père est mort à Noël.
+
+329
+00:31:09,838 --> 00:31:13,194  X1:147 X2:571 Y1:490 Y2:516
+ll y a tant de choses pas dites. . .
+
+330
+00:31:14,798 --> 00:31:17,073  X1:227 X2:490 Y1:489 Y2:516
+que j<i>'</i>ignorais de lui.
+
+331
+00:31:18,278 --> 00:31:20,269  X1:243 X2:475 Y1:495 Y2:516
+Mais il vit en moi.
+
+332
+00:31:22,078 --> 00:31:24,990  X1:116 X2:602 Y1:490 Y2:516
+Et Manny continuera à vivre en vous.
+
+333
+00:31:25,878 --> 00:31:29,666  X1:205 X2:513 Y1:450 Y2:516
+Pourquoi Dieu l<i>'</i>a pris
+au lieu de me prendre ?
+
+334
+00:31:32,358 --> 00:31:33,996  X1:246 X2:470 Y1:494 Y2:516
+Je n<i>'</i>en sais rien.
+
+335
+00:31:35,118 --> 00:31:41,034  X1:107 X2:609 Y1:451 Y2:516
+Tu dois présenter tes excuses à Keith.
+Ou t<i>'</i>es un petit con.
+
+336
+00:31:41,198 --> 00:31:43,473  X1:130 X2:589 Y1:490 Y2:516
+Des gros mots à ton enterrement ?
+
+337
+00:31:43,638 --> 00:31:47,995  X1:153 X2:562 Y1:451 Y2:516
+Je vais me gêner.
+Je dis ce que j<i>'</i>ai envie de dire.
+
+338
+00:31:48,398 --> 00:31:54,348  X1:134 X2:584 Y1:453 Y2:516
+J<i>'</i>ai vu beaucoup d<i>'</i>enterrements.
+Quand t<i>'</i>en as vu un, t<i>'</i>as tout vu.
+
+339
+00:31:54,558 --> 00:31:58,471  X1:229 X2:490 Y1:456 Y2:516
+- Même le mien.
+- Pas de fusillades ?
+
+340
+00:31:58,638 --> 00:32:03,473  X1:142 X2:576 Y1:490 Y2:516
+Non. Pas de Sharks, pas de Jets.
+
+341
+00:32:04,478 --> 00:32:06,753  X1:192 X2:525 Y1:495 Y2:516
+Un enterrement ordinaire.
+
+342
+00:32:08,998 --> 00:32:12,388  X1:247 X2:472 Y1:451 Y2:516
+- Tu te détends ?
+- Un peu.
+
+343
+00:32:18,478 --> 00:32:23,677  X1:115 X2:603 Y1:451 Y2:516
+Un inspecteur a appelé.
+lls se sont prononcés pour l<i>'</i>incendie.
+
+344
+00:32:23,998 --> 00:32:27,957  X1:187 X2:533 Y1:451 Y2:516
+- Cause inconnue.
+- Ce n<i>'</i>est pas volontaire ?
+
+345
+00:32:28,118 --> 00:32:32,714  X1:180 X2:537 Y1:456 Y2:516
+lls ne peuvent rien prouver.
+C<i>'</i>est une affaire classée.
+
+346
+00:32:32,878 --> 00:32:35,915  X1:135 X2:582 Y1:489 Y2:516
+Donc, Claire peut en être l<i>'</i>auteur.
+
+347
+00:32:36,078 --> 00:32:37,397  X1:205 X2:513 Y1:488 Y2:516
+Elle n<i>'</i>a pas pu faire ça.
+
+348
+00:32:37,598 --> 00:32:41,307  X1:133 X2:585 Y1:456 Y2:516
+A quoi ça sert de se voiler la face,
+au cas oû ?
+
+349
+00:32:46,598 --> 00:32:51,672  X1:141 X2:576 Y1:456 Y2:516
+Je suis navré de ce qui est arrivé
+avec Brenda. . .
+
+350
+00:32:53,038 --> 00:32:56,314  X1:185 X2:532 Y1:451 Y2:516
+- quand tu es entrée.
+- Je sais de quoi tu parles.
+
+351
+00:32:58,358 --> 00:33:01,828  X1:229 X2:488 Y1:450 Y2:516
+- Oû tu étais ?
+- Ça te regarde pas.
+
+352
+00:33:01,998 --> 00:33:04,592  X1:205 X2:513 Y1:489 Y2:516
+C<i>'</i>est pas la police, ici !
+
+353
+00:33:08,878 --> 00:33:10,675  X1:238 X2:477 Y1:495 Y2:516
+Je veux un Altoid.
+
+354
+00:33:19,078 --> 00:33:24,027  X1:119 X2:598 Y1:450 Y2:516
+Le péché originel,
+ça n<i>'</i>a pas été de manger la pomme.
+
+355
+00:33:24,238 --> 00:33:27,389  X1:116 X2:602 Y1:489 Y2:516
+Ni de remettre l<i>'</i>autorité en question.
+
+356
+00:33:27,598 --> 00:33:33,195  X1:136 X2:580 Y1:456 Y2:516
+Ni de permettre à Dieu
+de donner sa version de l<i>'</i>histoire.
+
+357
+00:33:33,358 --> 00:33:37,795  X1:169 X2:551 Y1:450 Y2:516
+Ça a été d<i>'</i>écouter le serpent
+comme l<i>'</i>évangile.
+
+358
+00:33:47,198 --> 00:33:51,874  X1:107 X2:611 Y1:488 Y2:516
+Ça a été d<i>'</i>admettre que Dieu mentait.
+
+359
+00:33:55,318 --> 00:33:57,627  X1:171 X2:547 Y1:489 Y2:516
+Excuse-moi pour l<i>'</i>autre jour.
+
+360
+00:34:10,238 --> 00:34:12,194  X1:125 X2:593 Y1:490 Y2:516
+Tu es persuadé que je me déteste ?
+
+361
+00:34:12,358 --> 00:34:14,269  X1:206 X2:511 Y1:493 Y2:516
+Ravie de te voir, David.
+
+362
+00:34:20,318 --> 00:34:26,632  X1:126 X2:589 Y1:450 Y2:516
+Je sais oû tu en es. J<i>'</i>y suis passé.
+Je vais t<i>'</i>attendre, car je t<i>'</i>aime.
+
+363
+00:34:26,998 --> 00:34:29,273  X1:144 X2:574 Y1:490 Y2:516
+Mais je ne reviens pas en arrière.
+
+364
+00:34:29,438 --> 00:34:33,477  X1:168 X2:547 Y1:450 Y2:516
+Ce n<i>'</i>est pas ce que je veux.
+Je demande de la patience. . .
+
+365
+00:34:33,638 --> 00:34:35,515  X1:265 X2:452 Y1:490 Y2:516
+plus de calme.
+
+366
+00:34:35,678 --> 00:34:38,875  X1:128 X2:590 Y1:489 Y2:516
+Tu sais ce que j<i>'</i>endure au boulot ?
+
+367
+00:34:39,078 --> 00:34:42,195  X1:148 X2:568 Y1:456 Y2:516
+Avec le mot pédé
+écrit sans cesse sur mon casier.
+
+368
+00:34:42,398 --> 00:34:46,869  X1:119 X2:598 Y1:455 Y2:516
+Et quand j<i>'</i>affronte le danger, je me
+demande si on m<i>'</i>enverra du renfort.
+
+369
+00:34:47,078 --> 00:34:49,228  X1:201 X2:516 Y1:495 Y2:516
+On nous a humiliés hier.
+
+370
+00:34:49,438 --> 00:34:52,874  X1:139 X2:577 Y1:489 Y2:516
+J<i>'</i>ai réagi parce que j<i>'</i>en ai assez.
+
+371
+00:34:53,038 --> 00:34:56,951  X1:192 X2:526 Y1:456 Y2:516
+Quand tu en auras marre,
+avertis-moi.
+
+372
+00:35:11,438 --> 00:35:14,828  X1:107 X2:611 Y1:495 Y2:516
+Je devrais faire un cadeau à ta mère ?
+
+373
+00:35:14,998 --> 00:35:17,353  X1:154 X2:564 Y1:489 Y2:516
+Non, ça aggraverait les choses.
+
+374
+00:35:17,518 --> 00:35:20,157  X1:137 X2:578 Y1:488 Y2:516
+J<i>'</i>ai abordé le sujet, ça a mal fini.
+
+375
+00:35:23,158 --> 00:35:25,353  X1:182 X2:536 Y1:450 Y2:516
+Ça ne m<i>'</i>étonne pas
+que vous fassiez ce travail.
+
+376
+00:35:25,518 --> 00:35:28,874  X1:096 X2:621 Y1:495 Y2:516
+Vous enterrez vos moindres sentiments.
+
+377
+00:35:29,718 --> 00:35:33,472  X1:133 X2:584 Y1:450 Y2:516
+C<i>'</i>est mieux que d<i>'</i>examiner
+le moindre instant jusqu<i>'</i>à la mort.
+
+378
+00:35:48,438 --> 00:35:50,349  X1:299 X2:418 Y1:495 Y2:516
+Viens ici.
+
+379
+00:35:50,558 --> 00:35:52,514  X1:318 X2:398 Y1:495 Y2:516
+Viens.
+
+380
+00:35:53,678 --> 00:35:57,227  X1:139 X2:578 Y1:490 Y2:516
+Le sexe ne résout pas tout, Nate.
+
+381
+00:35:57,678 --> 00:35:59,669  X1:099 X2:619 Y1:490 Y2:516
+<i>Tu n 'aurais pas</i> â <i>t'en faire pour nous...</i>
+
+382
+00:35:59,838 --> 00:36:02,306  X1:177 X2:538 Y1:490 Y2:516
+<i>quan on seraient</i> â <i>l'école.</i>
+
+383
+00:36:02,518 --> 00:36:05,954  X1:137 X2:582 Y1:495 Y2:516
+<i>Toute la famille oit être soliaire.</i>
+
+384
+00:36:06,118 --> 00:36:10,794  X1:133 X2:581 Y1:451 Y2:516
+<i>Ce serait une occasion</i>
+<i>pour ire ce qui ne nous plaît pas.</i>
+
+385
+00:36:10,998 --> 00:36:13,592  X1:155 X2:560 Y1:490 Y2:516
+<i>Je verrais toutes les injustices.</i>
+
+386
+00:36:13,758 --> 00:36:16,192  X1:171 X2:546 Y1:490 Y2:516
+<i>Ce que vous ites est sensé.</i>
+
+387
+00:36:16,358 --> 00:36:19,316  X1:169 X2:547 Y1:492 Y2:516
+<i>Ce serait merveilleux, mais...</i>
+
+388
+00:36:19,478 --> 00:36:22,629  X1:193 X2:526 Y1:489 Y2:516
+Claire, est-ce que ça va ?
+
+389
+00:36:27,798 --> 00:36:30,870  X1:206 X2:513 Y1:450 Y2:516
+- Non.
+- Ça te dit d<i>'</i>en parler ?
+
+390
+00:36:33,718 --> 00:36:35,231  X1:333 X2:384 Y1:495 Y2:516
+Oui.
+
+391
+00:36:35,998 --> 00:36:39,593  X1:175 X2:540 Y1:451 Y2:516
+Mon mac me menace,
+je dois faire plus de passes.
+
+392
+00:36:39,758 --> 00:36:45,071  X1:127 X2:590 Y1:450 Y2:516
+Le pire, c<i>'</i>est qu<i>'</i>il menace
+de me couper l<i>'</i>héro. C<i>'</i>est l<i>'</i>enfer !
+
+393
+00:36:49,398 --> 00:36:54,631  X1:103 X2:616 Y1:450 Y2:516
+- Pourquoi tu râles toujours ?
+- Ça veut dire que j<i>'</i>ai l<i>'</i>air d<i>'</i>aller mal ?
+
+394
+00:36:54,798 --> 00:36:56,595  X1:184 X2:534 Y1:490 Y2:516
+Comme si vous rayonniez !
+
+395
+00:37:00,358 --> 00:37:04,351  X1:150 X2:572 Y1:456 Y2:516
+<i>Tu veux que Chris soit pompiste</i>
+<i>toute sa vie ?</i>
+
+396
+00:37:04,518 --> 00:37:07,908  X1:127 X2:594 Y1:490 Y2:516
+<i>Que Tracy serve ans es bouges ?</i>
+
+397
+00:37:08,318 --> 00:37:11,355  X1:160 X2:560 Y1:456 Y2:516
+Kroehner va continuer à forcer
+les fournisseurs. . .
+
+398
+00:37:11,518 --> 00:37:13,907  X1:230 X2:486 Y1:490 Y2:516
+et à casser les prix.
+
+399
+00:37:14,118 --> 00:37:18,669  X1:142 X2:579 Y1:451 Y2:516
+On ne peut pas rivaliser avec eux
+sur le plan de la taille.
+
+400
+00:37:18,838 --> 00:37:22,956  X1:173 X2:546 Y1:451 Y2:516
+Mais on apportera la qualité,
+une intégrité.
+
+401
+00:37:28,038 --> 00:37:29,790  X1:263 X2:456 Y1:495 Y2:516
+On a terminé ?
+
+402
+00:37:29,958 --> 00:37:33,667  X1:142 X2:576 Y1:490 Y2:516
+ll va falloir vendre et promouvoir.
+
+403
+00:37:33,838 --> 00:37:37,114  X1:198 X2:519 Y1:495 Y2:516
+lnstaller des ordinateurs.
+
+404
+00:37:37,678 --> 00:37:38,793  X1:313 X2:405 Y1:495 Y2:516
+Parfait.
+
+405
+00:37:39,798 --> 00:37:46,192  X1:158 X2:562 Y1:451 Y2:516
+Pour mettre ça sur pied, il faut
+faire un gros investissement.
+
+406
+00:37:46,918 --> 00:37:49,068  X1:282 X2:438 Y1:456 Y2:516
+- Combien ?
+- 9<i>3</i> 000.
+
+407
+00:37:51,558 --> 00:37:55,073  X1:123 X2:596 Y1:494 Y2:516
+Vous les voulez de l<i>'</i>assurance-vie ?
+
+408
+00:37:55,278 --> 00:37:56,711  X1:210 X2:508 Y1:494 Y2:516
+C<i>'</i>est la seule solution.
+
+409
+00:37:56,878 --> 00:37:59,631  X1:124 X2:593 Y1:490 Y2:516
+On rembourse encore un vieux prêt.
+
+410
+00:37:59,838 --> 00:38:03,672  X1:144 X2:574 Y1:451 Y2:516
+Ça nous embête de le demander,
+mais c<i>'</i>est pressé.
+
+411
+00:38:05,238 --> 00:38:08,514  X1:218 X2:500 Y1:455 Y2:516
+- Tu n<i>'</i>es pas obligée.
+- Je le sais bien.
+
+412
+00:38:10,718 --> 00:38:12,629  X1:213 X2:506 Y1:490 Y2:516
+ll vous le faut quand ?
+
+413
+00:38:14,678 --> 00:38:18,512  X1:196 X2:521 Y1:451 Y2:516
+- Tu es sûre ?
+- Ce ne sera pas un prêt.
+
+414
+00:38:19,198 --> 00:38:22,713  X1:170 X2:545 Y1:494 Y2:516
+J<i>'</i>investis sur Fisher & Sons.
+
+415
+00:38:23,838 --> 00:38:28,548  X1:165 X2:554 Y1:456 Y2:516
+On va établir un pourcentage,
+un taux de rendement.
+
+416
+00:38:28,918 --> 00:38:33,070  X1:087 X2:630 Y1:450 Y2:516
+Je peux investir dans l<i>'</i>affaire de mes fils
+ou dans le high-tech.
+
+417
+00:38:33,238 --> 00:38:35,274  X1:171 X2:547 Y1:489 Y2:516
+C<i>'</i>est mieux que les courses.
+
+418
+00:38:39,518 --> 00:38:44,546  X1:141 X2:579 Y1:450 Y2:516
+David, accompagne-moi à l<i>'</i>église
+de temps en temps. . .
+
+419
+00:38:44,718 --> 00:38:49,394  X1:134 X2:584 Y1:451 Y2:516
+maintenant que ton père est mort.
+Je ne devrais pas y aller seule.
+
+420
+00:38:49,958 --> 00:38:51,516  X1:297 X2:421 Y1:494 Y2:516
+D<i>'</i>accord.
+
+421
+00:38:57,838 --> 00:38:59,510  X1:258 X2:460 Y1:494 Y2:516
+C<i>'</i>est étonnant.
+
+422
+00:39:00,678 --> 00:39:03,670  X1:135 X2:582 Y1:488 Y2:516
+Et j<i>'</i>ai reçu un message de Gilardi.
+
+423
+00:39:03,838 --> 00:39:06,796  X1:129 X2:589 Y1:489 Y2:516
+ll veut nous rencontrer aujourd<i>'</i>hui.
+
+424
+00:39:10,078 --> 00:39:14,310  X1:203 X2:516 Y1:451 Y2:516
+Tu te prépares
+à distribuer des coups ?
+
+425
+00:39:15,798 --> 00:39:19,916  X1:208 X2:511 Y1:451 Y2:516
+Si tu étais à ma place,
+que dirais-tu à Gilardi ?
+
+426
+00:39:20,078 --> 00:39:21,591  X1:268 X2:450 Y1:489 Y2:516
+Si j<i>'</i>étais toi ?
+
+427
+00:39:22,278 --> 00:39:25,714  X1:110 X2:608 Y1:489 Y2:516
+Moi, j<i>'</i>aurais pas de pompes funèbres.
+
+428
+00:39:25,998 --> 00:39:27,750  X1:296 X2:421 Y1:495 Y2:516
+Mais bon.
+
+429
+00:39:28,638 --> 00:39:34,076  X1:198 X2:520 Y1:451 Y2:516
+Disons, je fais mon truc,
+je vends mon matos.
+
+430
+00:39:34,238 --> 00:39:38,436  X1:172 X2:548 Y1:451 Y2:516
+Un petit con me file un coup
+pour me déloger.
+
+431
+00:39:39,198 --> 00:39:40,995  X1:197 X2:522 Y1:490 Y2:516
+Tu sais ce que je dirais ?
+
+432
+00:39:49,278 --> 00:39:52,429  X1:173 X2:541 Y1:450 Y2:516
+je t<i>'</i>ouvrirai le bide et
+je t<i>'</i>arracherai tes entrailles.
+
+433
+00:39:52,798 --> 00:39:56,711  X1:190 X2:527 Y1:451 Y2:516
+Je te laisserai te vider
+doucement de ton sang. . .
+
+434
+00:40:06,518 --> 00:40:08,190  X1:219 X2:500 Y1:494 Y2:516
+Ton cœur s<i>'</i>emballe ?
+
+435
+00:40:10,798 --> 00:40:15,474  X1:107 X2:611 Y1:488 Y2:516
+Quand l<i>'</i>autre ressent ça, tu as gagné.
+
+436
+00:40:16,878 --> 00:40:18,675  X1:277 X2:440 Y1:493 Y2:516
+Allez, David.
+
+437
+00:40:18,838 --> 00:40:22,114  X1:164 X2:553 Y1:493 Y2:516
+Tu dois te relever, faire front.
+
+438
+00:40:22,598 --> 00:40:24,907  X1:194 X2:524 Y1:488 Y2:516
+Regarde oû ça t<i>'</i>a mené !
+
+439
+00:40:31,598 --> 00:40:33,953  X1:179 X2:540 Y1:490 Y2:516
+Toi, tu en seras un quand ?
+
+440
+00:40:39,838 --> 00:40:44,992  X1:169 X2:549 Y1:456 Y2:516
+- Votre offre a baissé.
+- Que dire ? Les fluctuations.
+
+441
+00:40:45,158 --> 00:40:49,117  X1:191 X2:526 Y1:450 Y2:516
+On n<i>'</i>a pas besoin
+de s<i>'</i>aligner sur Kroehner.
+
+442
+00:40:50,678 --> 00:40:52,270  X1:297 X2:421 Y1:494 Y2:516
+D<i>'</i>accord.
+
+443
+00:40:53,598 --> 00:40:55,429  X1:244 X2:473 Y1:489 Y2:516
+C<i>'</i>est très simple.
+
+444
+00:40:56,118 --> 00:40:58,234  X1:171 X2:545 Y1:489 Y2:516
+Vous acceptez aujourd<i>'</i>hui. . .
+
+445
+00:40:58,398 --> 00:41:00,628  X1:232 X2:484 Y1:456 Y2:516
+ou je vous enterre
+d<i>'</i>ici la fin du mois.
+
+446
+00:41:02,038 --> 00:41:05,269  X1:146 X2:574 Y1:490 Y2:516
+Prêt pour cette mission suicide ?
+
+447
+00:41:12,478 --> 00:41:15,675  X1:151 X2:567 Y1:451 Y2:516
+- Vous avez menacé ma famille.
+- Ne dramatisons pas.
+
+448
+00:41:15,878 --> 00:41:19,234  X1:215 X2:503 Y1:451 Y2:516
+Vous vous attendez
+à ce qu<i>'</i>on se cache ?
+
+449
+00:41:19,398 --> 00:41:22,913  X1:140 X2:580 Y1:450 Y2:516
+- Qu<i>'</i>on vende et qu<i>'</i>on se taille ?
+- Ce serait sage.
+
+450
+00:41:25,038 --> 00:41:29,714  X1:135 X2:582 Y1:451 Y2:516
+Vous avez Kroehner derrière vous.
+Nous, qu<i>'</i>avons-nous ?
+
+451
+00:41:31,438 --> 00:41:32,951  X1:321 X2:395 Y1:495 Y2:516
+Vous.
+
+452
+00:41:33,918 --> 00:41:36,227  X1:169 X2:548 Y1:495 Y2:516
+Quand vous nous oublierez. . .
+
+453
+00:41:36,398 --> 00:41:39,470  X1:231 X2:485 Y1:451 Y2:516
+je vous retrouverai,
+vous et un proche.
+
+454
+00:41:42,238 --> 00:41:44,957  X1:125 X2:590 Y1:489 Y2:516
+Je ne dis pas qu<i>'</i>il y aura de morts.
+
+455
+00:41:45,118 --> 00:41:47,188  X1:214 X2:504 Y1:490 Y2:516
+ll y a pire que la mort.
+
+456
+00:41:47,358 --> 00:41:51,749  X1:089 X2:629 Y1:451 Y2:516
+Des choses inimaginables pour
+un petit fils de pute vendu à une société.
+
+457
+00:41:53,278 --> 00:41:55,508  X1:206 X2:512 Y1:494 Y2:516
+Donne-m<i>'</i>en l<i>'</i>occasion.
+
+458
+00:42:01,918 --> 00:42:06,116  X1:147 X2:572 Y1:451 Y2:516
+A vous de décider.
+On en vaut la peine, M. Gilardi ?
+
+459
+00:42:09,398 --> 00:42:12,276  X1:143 X2:575 Y1:490 Y2:516
+Le déjeuner est terminé. Dégage.
+
+460
+00:42:14,398 --> 00:42:16,434  X1:270 X2:448 Y1:495 Y2:516
+Tu es sourd ?
+
+461
+00:42:25,118 --> 00:42:28,349  X1:237 X2:483 Y1:450 Y2:516
+- C<i>'</i>était quoi, ça ?
+- Je vais gerber.
+
+462
+00:42:35,878 --> 00:42:40,998  X1:154 X2:561 Y1:450 Y2:516
+J<i>'</i>espère que ça va vous plaire.
+J<i>'</i>ai craqué à la parfumerie.
+
+463
+00:42:41,798 --> 00:42:46,826  X1:135 X2:583 Y1:455 Y2:516
+- Merci. Ce n<i>'</i>était pas nécessaire.
+- Si.
+
+464
+00:42:47,038 --> 00:42:50,747  X1:104 X2:612 Y1:451 Y2:516
+Je ne me suis pas montrée
+sous mon meilleur jour la dernière fois.
+
+465
+00:42:51,438 --> 00:42:54,191  X1:163 X2:553 Y1:489 Y2:516
+J<i>'</i>ai vu plus que je ne voulais.
+
+466
+00:42:55,078 --> 00:42:56,875  X1:297 X2:421 Y1:494 Y2:516
+D<i>'</i>accord.
+
+467
+00:42:57,638 --> 00:43:02,234  X1:146 X2:569 Y1:451 Y2:516
+Ecoutez,
+je suis une fille assez marginale.
+
+468
+00:43:03,478 --> 00:43:09,428  X1:128 X2:590 Y1:456 Y2:516
+Je ne sais pas trop ce qui se passe
+entre Nate et moi.
+
+469
+00:43:09,598 --> 00:43:15,434  X1:106 X2:611 Y1:489 Y2:516
+Mais de temps en temps, j<i>'</i>entrevois. . .
+
+470
+00:43:15,598 --> 00:43:19,750  X1:124 X2:593 Y1:489 Y2:516
+que ça pourrait marcher entre nous.
+
+471
+00:43:21,198 --> 00:43:23,871  X1:203 X2:515 Y1:451 Y2:516
+Je suis navrée
+pour ce qui s<i>'</i>est passé.
+
+472
+00:43:29,438 --> 00:43:31,713  X1:205 X2:511 Y1:490 Y2:516
+Soyez délicate avec lui.
+
+473
+00:43:32,438 --> 00:43:35,874  X1:158 X2:560 Y1:489 Y2:516
+ll est plus fragile qu<i>'</i>il ne croit.
+
+474
+00:43:36,358 --> 00:43:38,349  X1:229 X2:491 Y1:492 Y2:516
+On l<i>'</i>est tous, non ?
+
+475
+00:43:39,998 --> 00:43:45,436  X1:245 X2:472 Y1:451 Y2:516
+- Merci.
+- Je vous en prie.
+
+476
+00:43:57,118 --> 00:43:59,188  X1:233 X2:486 Y1:495 Y2:516
+Les Fisher sont là ?
+
+477
+00:43:59,398 --> 00:44:02,276  X1:231 X2:487 Y1:454 Y2:516
+- David ?
+- Tous, et toi aussi.
+
+478
+00:44:02,438 --> 00:44:04,235  X1:215 X2:502 Y1:489 Y2:516
+Dites-moi ce qu<i>'</i>il y a.
+
+479
+00:44:04,398 --> 00:44:05,751  X1:222 X2:495 Y1:495 Y2:516
+Va leur dire de venir.
+
+480
+00:44:18,198 --> 00:44:20,314  X1:206 X2:509 Y1:490 Y2:516
+Je vous en prie, venez.
+
+481
+00:44:36,798 --> 00:44:39,631  X1:208 X2:508 Y1:495 Y2:516
+Jésus miséricordieux. . .
+
+482
+00:44:39,798 --> 00:44:45,907  X1:188 X2:532 Y1:456 Y2:516
+apporte le repos et la paix
+à notre frère défunt. . .
+
+483
+00:44:46,078 --> 00:44:47,557  X1:287 X2:431 Y1:495 Y2:516
+notre fils. . .
+
+484
+00:44:49,398 --> 00:44:51,309  X1:303 X2:413 Y1:495 Y2:516
+et ami. . .
+
+485
+00:44:51,918 --> 00:44:55,069  X1:236 X2:481 Y1:495 Y2:516
+Manuel Paco Bolin.
+
+486
+00:44:57,198 --> 00:45:01,908  X1:141 X2:579 Y1:450 Y2:516
+Qu<i>'</i>il vive avec Toi dans Ta vérité
+pour l<i>'</i>éternité. . .
+
+487
+00:45:02,438 --> 00:45:05,794  X1:146 X2:571 Y1:495 Y2:516
+notre Père Tout-Puissant. Amen.
+
+488
+00:45:10,278 --> 00:45:13,554  X1:132 X2:586 Y1:495 Y2:516
+Nous remercions aussi les Fisher. . .
+
+489
+00:45:16,398 --> 00:45:20,073  X1:155 X2:563 Y1:490 Y2:516
+qui ont perdu leur père et mari.
+
+490
+00:45:21,198 --> 00:45:24,713  X1:167 X2:553 Y1:456 Y2:516
+Seigneur, apporte-leur la paix
+dans leur douleur. . .
+
+491
+00:45:26,558 --> 00:45:28,833  X1:160 X2:557 Y1:489 Y2:516
+comme Tu nous l<i>'</i>as apportée.
+
+492
+00:45:34,798 --> 00:45:36,390  X1:214 X2:503 Y1:490 Y2:516
+Tu vas nous manquer.
+
+493
+00:45:55,638 --> 00:46:01,110  X1:108 X2:610 Y1:490 Y2:516
+Lâche-moi, pédé. Je dois vous quitter.
+
+494
+00:46:01,638 --> 00:46:04,436  X1:216 X2:500 Y1:489 Y2:516
+Tu n<i>'</i>es qu<i>'</i>un enfant.
+
+495
+00:46:05,998 --> 00:46:07,875  X1:296 X2:420 Y1:495 Y2:516
+Toi aussi.
+
+496
+00:46:26,518 --> 00:46:28,793  X1:195 X2:522 Y1:490 Y2:516
+Ne sois pas un petit con.
+
+497
+00:46:44,638 --> 00:46:47,027  X1:125 X2:593 Y1:490 Y2:516
+Merde ! Et tu préférais le bowling. . .
+
+498
+00:46:47,198 --> 00:46:49,473  X1:203 X2:514 Y1:451 Y2:516
+- au cinoche.
+- J<i>'</i>étais un champion. . .
+
+499
+00:46:49,638 --> 00:46:51,708  X1:220 X2:498 Y1:489 Y2:516
+quand j<i>'</i>avais 1 7 ans.
+
+500
+00:46:52,558 --> 00:46:56,949  X1:139 X2:579 Y1:451 Y2:516
+- Tu vas me flanquer une branlée.
+- J<i>'</i>y compte.
+
+501
+00:46:57,638 --> 00:47:00,948  X1:209 X2:507 Y1:450 Y2:516
+J<i>'</i>ai été à la fac,
+et je sais pas compter.
+
+502
+00:47:01,118 --> 00:47:02,870  X1:216 X2:503 Y1:495 Y2:516
+Vous êtes ensemble ?
+
+503
+00:47:05,358 --> 00:47:06,586  X1:333 X2:384 Y1:495 Y2:516
+Oui.
+
+504
+00:47:08,838 --> 00:47:10,237  X1:289 X2:429 Y1:494 Y2:516
+C<i>'</i>est cool.
+
+505
+00:47:19,038 --> 00:47:21,836  X1:222 X2:495 Y1:490 Y2:516
+La porte est ouverte.
+
+506
+00:47:23,758 --> 00:47:26,477  X1:236 X2:481 Y1:456 Y2:516
+- Brenda ?
+- Dans la chambre.
+
+507
+00:47:28,758 --> 00:47:32,148  X1:181 X2:535 Y1:451 Y2:516
+Je livre une pizza madame,
+je veux pas d<i>'</i>ennuis.
+
+508
+00:47:32,318 --> 00:47:35,390  X1:154 X2:562 Y1:489 Y2:516
+J<i>'</i>ai un pourboire pour vous ici.
+
+509
+00:47:39,998 --> 00:47:42,148  X1:273 X2:446 Y1:490 Y2:516
+Et ma pizza ?
+
+510
+00:47:49,478 --> 00:47:55,872  X1:119 X2:599 Y1:450 Y2:516
+Maman m<i>'</i>a dit de te dire
+que ton bain moussant est délicieux.
+
+511
+00:47:56,598 --> 00:47:59,317  X1:139 X2:579 Y1:489 Y2:516
+Elle n<i>'</i>était pas censée le manger.
+
+512
+00:48:01,398 --> 00:48:06,153  X1:212 X2:508 Y1:456 Y2:516
+- Toutes ces bougies ?
+- Je me consume.
+
+513
+00:48:06,598 --> 00:48:10,637  X1:136 X2:579 Y1:489 Y2:516
+Je me consume d<i>'</i>amour pour toi.
+
+514
+00:48:20,238 --> 00:48:21,671  X1:318 X2:401 Y1:495 Y2:516
+Quoi ?
+
+515
+00:48:26,598 --> 00:48:27,917  X1:318 X2:401 Y1:495 Y2:516
+Quoi ?
+
+516
+00:48:28,598 --> 00:48:31,556  X1:184 X2:532 Y1:451 Y2:516
+Tu as aimé
+à t<i>'</i>en faire graver la peau.
+
+517
+00:48:31,758 --> 00:48:33,908  X1:158 X2:558 Y1:489 Y2:516
+J<i>'</i>aurais fait bien plus pour lui.
+
+518
+00:48:36,798 --> 00:48:43,192  X1:163 X2:555 Y1:450 Y2:516
+- Qu<i>'</i>est-ce que tu as ?
+- J<i>'</i>ai eu une drôle de journée.
+
+519
+00:48:47,798 --> 00:48:49,356  X1:266 X2:451 Y1:490 Y2:516
+Pauvre biquet.
+
+520
+00:49:29,478 --> 00:49:32,038  X1:246 X2:473 Y1:456 Y2:516
+- Maman, ça va ?
+- Oui.
+
+521
+00:49:35,158 --> 00:49:39,913  X1:148 X2:570 Y1:451 Y2:516
+Je peux te poser une question ?
+Tu promets de dire la vérité ?
+
+522
+00:49:41,278 --> 00:49:42,836  X1:296 X2:422 Y1:495 Y2:516
+Peut-être.
+
+523
+00:49:43,718 --> 00:49:46,949  X1:233 X2:487 Y1:456 Y2:516
+- Tu as mis le feu ?
+- Non.
+
+524
+00:49:47,758 --> 00:49:50,989  X1:211 X2:505 Y1:489 Y2:516
+Je ne ferais jamais ça.
+
+525
+00:49:52,838 --> 00:49:55,306  X1:168 X2:547 Y1:489 Y2:516
+J<i>'</i>ai peut-être fauché le pied.
+
+526
+00:49:59,798 --> 00:50:01,948  X1:196 X2:521 Y1:490 Y2:516
+Le dîner est bientôt prêt.
+
+527
+00:51:20,718 --> 00:51:21,707  X1:249 X2:470 Y1:451 Y2:516
+<i>Aapté par</i> :
+SDl Media Group
+
+528
+00:51:21,918 --> 00:51:22,907  X1:297 X2:421 Y1:493 Y2:516
+[FRENCH]
+

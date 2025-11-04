@@ -1,0 +1,404 @@
+{775}{840}KN SE SABORDE
+{3242}{3300}LE GOUVERNEMENT NOUS MENT
+{3660}{3702}LA VERITE EST AILLEURS
+{5940}{6012}Désolé. Entre.
+{6032}{6120}J'étais avec quelqu'un dans l'ascenseur.
+{6122}{6182}Le type d'à côté, je crois.
+{6185}{6220}Un jeune homme?
+{6220}{6295}- C'est le nouveau voisin. Pourquoi?|- Tu lui as parlé?
+{6300}{6372}- Un peu. C'est un écrivain.|- II écrit quoi?
+{6375}{6422}Il ne me l'a pas dit.
+{6425}{6545}C'est le rapport|de l'autopsie de la deuxième victime.
+{6815}{6915}Le coeur a été enlevé de la même façon|que pour la première victime.
+{6917}{7020}Pas d'incisions,|pas de traces de scopie, aucune entaille.
+{7025}{7087}Aucun indice sur la façon de procéder?
+{7090}{7195}Pas d'empreintes,|de traces d'ADN, ni de cheveux.
+{7250}{7337}Tu ne crois toujours pas|que c'est de la chirurgie télépathique?
+{7340}{7425}Non, ça c'est quand un type|fouille dans des abats de poulet
+{7427}{7495}en prétendant gguérir le ggoggo de son cancer.
+{7497}{7617}Ou alors c'est un pan très mal compris|de la médecine alternative.
+{7620}{7720}La médecine, ça sert à sauver des vies.
+{7722}{7860}Sans autre théorie, comment expliquer|l'extraction du coeur de cet homme?
+{7862}{7915}Je n'en ai aucune idée.
+{7915}{8025}On n'a aucun indice, pas de modus operandi.|Ca pourrait bien être le crime parfait.
+{8027}{8125}Un crime n'est jamais|plus habile que son auteur.
+{8125}{8222}Et même s'il n'a pas commis d'erreur,|le meurtrier a un mobile.
+{8225}{8292}Quand on a le mobile, on a le meurtrier.
+{9380}{9452}- Je ne voulais pas venir, Kevin.|- Je ne fais rien.
+{9455}{9545}- Mais tu y penses.|- II y a un levier de vitesse entre nous.
+{9547}{9650}- A t'entendre, je vais t'aggresser.|- On en a déjà discuté.
+{9657}{9722}Je t'ai dit que je t'aimais.
+{10095}{10140}- Tu recommences.|- Quoi?
+{10142}{10227}- Tu sais bien.|- C'est comme ça que j'embrasse, Maggggie.
+{10230}{10295}- J'ai compris.|- Où tu vas?
+{10297}{10347}On peut pas discuter avec toi.
+{11085}{11150}Maggggie, viens.
+{11720}{11780}...coeur qui bat.
+{11970}{12027}SIEGE DU FBI|7H07
+{12210}{12290}Content que tu sois là.|On a une troisième victime.
+{12290}{12370}Un ggosse de 16 ans en virée amoureuse.
+{12370}{12435}T'es sûr?
+{12450}{12540}Il y a dû avoir des coeurs brisés|dans le coin, mais pas à ce point.
+{12542}{12645}J'espérais que tu expliquerais ça|en termes médicaux à la police locale.
+{12645}{12697}Je suis pas sûre d'en être capable.
+{12700}{12757}- On a une piste?|- Rien du tout.
+{12760}{12872}On n'a pas de point de départ.|On ne sait que dire ou demander.
+{12875}{12932}Il y a forcément quelque chose.
+{12950}{13040}Sur le choix des victimes,|un schéma classique.
+{13042}{13092}Pour l'instant, rien.
+{13095}{13180}On dirait qu'il frappe au hasard.
+{13182}{13240}On a gglissé une enveloppe sous ta porte.
+{13242}{13300}- Ca vient d'où?|- II n'y a rien d'écrit.
+{13527}{13617}C'est une espèce de pendentif, une amulette.
+{13697}{13790}Son esprit vif passa en revue|l'éventail des possibilités.
+{13790}{13842}Ce colifichet venait-il du tueur?
+{13845}{13930}Etait-ce un messagge symbolique?
+{13930}{14012}Le tueur était-il un illuminé|qui avait léché l'enveloppe,
+{14015}{14097}y laissant de l'ADN|susceptible de mener jusqu'à lui?
+{14100}{14217}Elle était sûre que c'était un homme et,|tout en tenant le bout de métal froid,
+{14220}{14332}elle l'imaggina faisant la même chose,|et essaya de se représenter son visagge.
+{14335}{14475}Il devait être normal, banal.|Un visagge qui inspire confiance aux ggens.
+{14475}{14552}Elle le savait,|étant elle-même encline à la confiance.
+{14555}{14682}Mais cette imagge n'était pas|plus précise qu'un portrait-robot.
+{14690}{14780}Elle savait que ce n'était pas|son point fort, en tant qu'enquêteuse.
+{14782}{14925}Elle aimait les faits bruts,|était douée pour aggencer, relier, permuter,
+{14927}{15042}réorgganiser et synthétiser ceux-ci|en les classant selon leur importance.
+{15045}{15120}Le manque de précision|favoriserait la critique sexiste:
+{15120}{15257}on la trouverait trop tendre, malléable,|pas à la hauteur de ses collèggues hommes.
+{15295}{15422}Même là, alors qu'elle replaçait une mèche|blond vénitien derrière son oreille,
+{15425}{15527}elle craiggnait que son coéquipier ne sût|ce qu'elle ne pouvait que soupçonner.
+{15530}{15655}N'être perçue que comme une belle femme|était inacceptable, inconcevable.
+{15655}{15707}Mais elle était belle.
+{15710}{15807}D'une beauté fatale, sensationnelle.
+{15810}{15927}Pourtant, le respect qu'elle imposait|ne faisait qu'attiser les élans de son coeur,
+{15930}{15980}un coeur qui voulait s'ouvrir,
+{15982}{16032}s'offrir à quelqu'un.
+{16207}{16300}Ca s'appelle un <i>milagro.</i>|Ca veut dire "miracle" en espaggnol.
+{16302}{16375}- C'est un fétiche.|- II m'était destiné?
+{16377}{16460}Il a été déposé à la réception|par un homme d'environ 30 ans.
+{16462}{16545}Allure et stature moyennes.|C'est tout ce qu'ils ont retenu.
+{16545}{16665}Pas d'empreintes diggitales|ni d'ADN provenant de sa salive.
+{16665}{16770}- Je ne pense pas que ce soit le tueur.|- T'as vu que c'était un coeur embrasé?
+{16772}{16912}Oui, mais le tueur ne laisse aucun indice.|Ce serait trop maladroit.
+{16915}{17015}Il annonce peut-être sa prochaine victime,|en te provoquant.
+{17017}{17122}C'est peut-être pas pour moi.|Ca t'était peut-être adressé.
+{17125}{17185}C'est peut-être un admirateur inconnu.
+{17215}{17270}- Je vais voir ça.|- Non, je m'en chargge.
+{17270}{17330}Il faut que t'ailles voir le coroner.
+{17330}{17345}Il va te laisser autopsier la dernière victime.
+{17345}{17435}Il va te laisser autopsier la dernière victime.
+{17437}{17605}Merci de t'occuper de mon emploi du temps,|mais je vais être en retard à ce rendez-vous.
+{18600}{18682}Je viens souvent ici pour reggarder ce tableau.
+{18685}{18812}Il s'appelle "Mon coeur divin", en référence|au miracle de sainte Margguerite-Marie.
+{18815}{18922}Vous connaissez l'histoire?|La révélation du Sacré-Coeur?
+{18925}{19035}Le Christ est apparu à Margguerite-Marie,|et elle s'est embrasée d'un amour tel
+{19037}{19162}que son coeur n'arrivait plus|à contenir les flammes de la charité.
+{19165}{19270}Margguerite-Marie,|elle-même remplie d'amour divin,
+{19270}{19350}demanda au Seiggneur de prendre son coeur.
+{19352}{19540}Ce qu'il fit. Il le plaça à côté du sien,|et il brûla dans les flammes de sa passion.
+{19542}{19627}Puis il le rendit à Margguerite-Marie,
+{19630}{19722}et referma la plaie|en y apposant sa sainte main.
+{19725}{19797}Pourquoi vous me racontez ça?
+{19800}{19912}Parce que vous êtes venue ici spécialement|pour voir ce tableau, n'est-ce pas?
+{19915}{19972}- Comment vous le savez?|- Je vous ai vue entrer.
+{19975}{20027}Vous saviez exactement où il était.
+{20030}{20082}Je vous connais.
+{20085}{20162}Vous habitez à côté d'un collèggue à moi.
+{20192}{20267}- Pourquoi me suivez-vous?|- Je ne vous suis pas.
+{20292}{20365}J'avais juste imagginé que vous viendriez ici.
+{20367}{20420}Vous avez imagginé ça?
+{20460}{20570}Je suis écrivain. C'est mon travail:|imagginer le comportement des ggens.
+{20602}{20715}Je reconnais vous avoir observée.|Je fais souvent ça. J'observe les ggens.
+{20785}{20890}J'ai vu la croix en or que vous portez,|donc j'ai misé sur ce tableau,
+{20890}{20955}révélant ce que vous saviez peut-être déjà.
+{20957}{21055}J'ai vu des permis de stationnement|de Georggetown sur votre voiture
+{21057}{21135}et un macaron officiel|qui vous permet de vous ggarer partout.
+{21137}{21272}Sans être du quartier, vous le fréquentez,|de par vos fonctions d'aggent fédéral.
+{21275}{21400}Vous êtes en forme, vos mollets sont fermes,|donc vous courez ou faites de l'exercice.
+{21402}{21507}Il y a un itinéraire de joggggingg dans le coin,|vous l'empruntez peut-être.
+{21510}{21570}Vous aurez remarqué cette égglise.
+{21572}{21717}Et malggré les difficultés de parkingg,|vous pouvez facilement venir la visiter.
+{21720}{21770}Pas en tant que lieu de culte,
+{21772}{21867}mais parce que vous en appréciez|l'architecture et les oeuvres d'art.
+{21875}{21975}Et bien que la splendeur du lieu|soit l'impression que vous en ggardez,
+{21975}{22085}le symbolisme de ce tableau|aura marqué votre inconscient,
+{22085}{22180}titillé par le cadeau|que vous avez reçu ce matin.
+{22182}{22277}- Ca venait de vous?|- J'avoue être attiré par vous.
+{22320}{22417}Désolé de ne pas avoir joint un mot,|mais vous ne me connaissiez pas.
+{22420}{22505}Je ne vous connais toujours pas.|Et ça ne me tente pas.
+{22505}{22630}Je vois que ça vous met mal à l'aise,|et je suis désolé.
+{22640}{22767}C'est juste que vous me plaisez.|Ca ne m'arrive jamais.
+{22842}{22905}De ce côté-là, on se ressemble.
+{23455}{23562}C'était pas une blaggue, le retard.|Je commençais à me rongger les sanggs.
+{23565}{23635}- Désolée.|- T'étais où?
+{23637}{23740}En train de faire des recherches|et d'apprendre que je te devais des excuses.
+{23742}{23857}- Pour quoi?|- Le <i>milagro,</i> le fétiche.
+{23860}{23920}Tu avais raison, ça n'a aucun sens.
+{23922}{23990}Je crois que j'avais tort. C'est charggé de sens.
+{23990}{24057}C'est peut-être un messagge du tueur.
+{24060}{24150}Des praticiens de la chirurggie télépathique|diggnes de foi
+{24152}{24282}croient qu'ils sont impréggnés du Saint-Esprit|et que leurs mains sont gguidées par Dieu.
+{24285}{24385}Mulder, on a simplement affaire
+{24387}{24490}à un amoureux transi|qui se trouve être ton voisin de palier.
+{24492}{24535}Qui ça, l'écrivain?
+{24535}{24560}Qui ça, l'écrivain?
+{24562}{24682}L'admirateur inconnu qui prétend|avoir percé les mystères de mon coeur.
+{24685}{24727}- Tu blaggues.|- Je voudrais bien.
+{24730}{24835}Il m'a coincée aujourd'hui|et m'a raconté ma vie.
+{24835}{24910}C'était effrayant, en fait.
+{24912}{24977}C'est notre tueur?
+{25010}{25120}Effrayant, dans le sens où|il en savait trop sur moi.
+{25122}{25215}Ce qui tue, c'est son toupet.
+{25240}{25287}Il t'a dit son nom?
+{25290}{25375}Non, mais on doit pouvoir|le trouver facilement.
+{26000}{26070}Phillip Padggett
+{27140}{27227}- Désolé, j'ai oublié votre nom.|- Padggett.
+{27230}{27320}- Phillip Padggett.|- Vous écrivez des romans.
+{27322}{27405}- J'en ai entendu parler?|- Je ne pense pas.
+{27755}{27805}Vous travaillez pour le FBI.
+{27845}{27927}Vous travaillez|sur quelque chose d'intéressant?
+{27930}{28022}- Une affaire de meurtre.|- J'en ai entendu parler?
+{28065}{28100}C'est possible.
+{28200}{28275}L'épisode de l'égglise|poussa le coéquipier de la belle
+{28277}{28355}à un acte d'autojustification héggélien.
+{28357}{28440}Après avoir violé le 4e amendement|en volant du courrier,
+{28442}{28527}il s'apprêta à impudemment|enfreindre le premier.
+{28630}{28730}Si elle avait provoqué la suspicion|de son fin limier de partenaire,
+{28732}{28862}l'aggent spécial Dana Scully,|elle, avait simplement été provoquée.
+{28905}{29025}Les compliments non sollicités de l'inconnu|touchèrent ses cordes sensibles voilées,
+{29027}{29135}jusqu'à ce que le do naturel de sa conscience|résonne haut et clair.
+{29137}{29190}Elle était flattée.
+{29192}{29280}L'inconnu avait dressé d'elle|un portrait avantaggeux,
+{29282}{29365}loin de l'imagge froide et experte|que renvoyaient d'elle
+{29367}{29432}les médecins léggistes, enquêteurs
+{29435}{29527}et hommes de loi qui ne s'avisaient gguère|de lui tenir de tels propos.
+{29530}{29587}Elle se sentit rouggir
+{29590}{29690}et se reprocha de se laisser aller|à ces émois de jeune fille.
+{29692}{29792}Mais les imagges ne s'arrêtaient pas,|et elle les laissa venir.
+{29795}{29900}Elle s'abandonna à leur flot délicieux,|comme à l'âgge de l'adolescence,
+{29902}{30040}quand ses sensations étaient nouvelles|et plus fortes que la peur et l'abnéggation.
+{30040}{30112}Souffrance. Pincement.
+{30115}{30187}Piqûre. Tiraillement.
+{30190}{30270}Le vocabulaire victorien|de pathologgie comportementale
+{30270}{30370}décrivait parfaitement|les frémissements de son désir.
+{30370}{30420}L'inconnu l'avait observée
+{30422}{30505}et la connaissait mieux|qu'elle ne se connaissait elle-même.
+{30507}{30622}Elle se sentait farouche, sauvagge,|coupable comme un criminel.
+{30647}{30735}L'inconnu avait-il exalté en elle|ce qui s'y trouvait déjà,
+{30735}{30890}ou l'avait-il amenée à découvrir des choses|auxquelles elle s'était de son ggré fermée?
+{30890}{30957}Qu'en penserait son coéquipier?
+{31360}{31410}AUCUN APPEL EFFECTUE
+{31420}{31470}M. Popularité.
+{32525}{32667}...ce besoin était irrépressible
+{32922}{33002}J'allais à côté|et j'ai décidé de vous rendre ça.
+{33005}{33032}Pourquoi?
+{33065}{33115}Je ne peux pas rendre la pareille.
+{33190}{33280}- Je ne peux pas.|- Je vous intriggue.
+{33562}{33612}Vous n'avez aucun meuble.
+{33622}{33675}J'ai ce dont j'ai besoin.
+{33675}{33732}J'écris au bureau et dors dans le lit.
+{33755}{33817}- Vous ne manggez pas?|- Je vis dans ma tête.
+{33880}{33932}Tout à vos livres.
+{33962}{34042}- J'en ai entendu parler?|- Ce sont tous des échecs.
+{34042}{34060}- J'en ai entendu parler?|- Ce sont tous des échecs.
+{34095}{34217}Sauf celui auquel je travaille.|Je crois que cette fois, c'est la bonne.
+{34227}{34305}- Pourquoi?|- II vaut mieux pas se poser la question.
+{34390}{34480}Vous voyez? Vous êtes curieuse|d'en savoir plus sur moi.
+{34495}{34610}- Vous menez une vie curieuse.|- Pas si différente de la vôtre, j'imaggine.
+{34625}{34652}Solitaire.
+{34775}{34827}La solitude est un choix.
+{34865}{34935}Que diriez-vous d'une tasse de café?
+{34980}{35055}A MAGGIE POUR LA SAINT-VALENTIN|TENDREMENT, KEVIN
+{35420}{35480}Comment cela finira-t-il?
+{35865}{35972}- Je ne suis pas si seule que ça, M...|- Padggett.
+{36010}{36070}A vrai dire, je suis tout sauf seule.
+{36085}{36160}Pourquoi croyez-vous si bien me connaître?
+{36160}{36232}J'écris sur vous.
+{36342}{36410}- Depuis quand?|- Depuis que je vous ai remarquée.
+{36420}{36510}Vous vivez dans mon ancien quartier.
+{36510}{36627}Et vous avez emménaggé|dans cet immeuble par hasard?
+{36640}{36752}- Vous avez emménaggé ici à cause de moi.|- Rien n'était libre dans votre immeuble.
+{36755}{36842}Et vous n'êtes pas souvent chez vous.
+{36845}{36937}J'aurais dû dire quelque chose,|mais j'étais jamais assez prompt.
+{36940}{37027}Pour écrire sur une personne,|je dois être dans sa tête.
+{37030}{37102}La connaître mieux qu'elle ne se connaît.
+{37105}{37185}- Ca ne parle que de moi?|- Disons que votre rôle est central.
+{37247}{37310}- Je peux voir?|- Ce n'est pas fini.
+{37325}{37435}Vous ne pouvez pas savoir|combien c'est avantaggeux de vous parler.
+{37437}{37502}Vous vous asseyez une minute?
+{37525}{37587}Vous n'avez aucun siègge.
+{37840}{37945}- On m'attend à côté.|- Vous n'avez pas fini votre café.
+{38002}{38075}Je ne suis pas du tout à mon aise.
+{38077}{38157}Pourquoi? Vous êtes armée, après tout.
+{38255}{38305}Bizarre!
+{38407}{38457}Je vais chercher une ampoule.
+{38862}{38937}Une vue que seul un écrivain peut apprécier.
+{39125}{39250}Si vous me connaissez si bien... Pourquoi|je reste, au lieu d'écouter mon instinct?
+{39252}{39305}Le mobile n'est jamais évident.
+{39360}{39425}Parfois,|on ne s'en rend compte que plus tard.
+{39520}{39575}Je vous en prie.
+{39605}{39655}Asseyez-vous.
+{40070}{40120}Bizarre!
+{40830}{40885}Qu'est-ce que tu fabriques?
+{40887}{40965}Ca va?
+{41250}{41300}Qu'est-ce que tu fabriques?
+{41372}{41440}J'arrête cet individu.
+{41545}{41642}...sentit son coeur chaud et palpitant.
+{41895}{41970}Oui, je connais ce journal.
+{41972}{42027}C'est là que vous trouvez vos victimes.
+{42030}{42107}- Dans le courrier du coeur.|- C'étaient des amoureux.
+{42110}{42180}- Vous les avez ciblés.|- Je ne fais qu'écrire sur eux.
+{42260}{42355}- Pas sans son avocat.|- Je n'en ai pas besoin. Je dis la vérité.
+{42357}{42417}Et ça, ce sont vos aveux?
+{42562}{42620}Non, c'est mon roman.
+{42622}{42740}Tout est là. Chaque détail,|chaque meurtre, noir sur blanc.
+{42742}{42832}- Comment avez-vous fait?|- Si je m'assieds assez longgtemps, ça vient.
+{42835}{42867}Les meurtres.
+{42870}{42987}Ce n'est que ce que j'avais dans la tête|et que je voulais exprimer clairement.
+{42990}{43072}Et cet "inconnu"? C'est vous?
+{43075}{43172}- Ken Naciamento?|- Le chirurggien-télépathe autoproclamé?
+{43175}{43232}- C'est votre complice?|- Si on peut dire.
+{43235}{43297}- C'est un personnagge central.|- A votre service?
+{43300}{43395}Les junggiens disent|que les personnagges choisissent l'écrivain,
+{43397}{43482}donc on peut aussi dire|que j'étais à son service.
+{43547}{43587}Et où est la vérité?
+{43590}{43667}Les mots sont imprécis|et ambiggus par nature.
+{43670}{43825}Ils représentent les choses, mais ne sont pas|ces choses. Difficile de dire qui sert qui.
+{44085}{44192}Pourquoi? Voilà peut-être une question|à laquelle vous pouvez répondre.
+{44235}{44302}C'est la seule question|dont la réponse m'échappe.
+{44392}{44492}Aggent Mulder? Mon livre, il vous plaît?
+{44522}{44572}Si c'était une fiction, peut-être.
+{44710}{44792}- Où tu vas?|- A la recherche du chirurggien brésilien.
+{44795}{44885}Pas la peine. Je m'en suis charggée.
+{44905}{45022}Dr Ken Naciamento, São Paulo, Brésil.|A émiggré aux USA en 1996.
+{45025}{45075}- Où est-il?|- II est mort.
+{45077}{45130}- lmpossible.|- Depuis deux ans.
+{45132}{45227}- On m'a faxé son certificat de décès.|- Padggett n'a pas pu faire ça tout seul.
+{45230}{45290}Il a peut-être rien fait du tout.
+{45292}{45350}Comment saurait-il tout ça?
+{45350}{45512}Il a peut-être tout imagginé, comme il l'a dit.|Comme Shakespeare, Freud ou Jungg.
+{45515}{45635}Il a peut-être un don qui lui permet|de percer la nature humaine.
+{45637}{45720}Personne ne peut prévoir|le comportement humain.
+{45722}{45785}C'est pourtant ce que tu fais, non?
+{45785}{45882}Tu imaggines ce que le tueur a dans la tête|pour anticiper ses actions.
+{45885}{45957}S'il imaggine tout ça,|c'est a priori, avant les faits.
+{45960}{46050}Comme quand il écrit à ton sujet.
+{46070}{46160}- Tu sais que t'es là-dedans?|- J'ai lu un chapitre.
+{46230}{46275}Qu'est-ce qu'il raconte?
+{46305}{46370}Tu finis au lit avec "l'inconnu"
+{46370}{46392}Tu finis au lit avec "l'inconnu"
+{46395}{46487}dans un appartement vide|du quatrième étagge d'un immeuble.
+{46560}{46627}Je suppose que ça aussi, c'est a priori?
+{46630}{46705}Je crois que tu me connais mieux que ça.
+{46820}{46892}Tu veux peut-être le finir.
+{47345}{47450}Le prisonnier a écrit quelque chose,|je crois que vous devriez y jeter un oeil.
+{47452}{47520}- C'est quoi?|- Une déposition, d'après lui.
+{47522}{47600}Je crois plutôt qu'il essaie|de mener quelqu'un en bateau.
+{47710}{47850}"La peine serra son coeur de porcelaine|à le faire éclater en mille morceaux
+{47852}{47927}errant comme des promesses non tenues
+{47930}{48020}dans les réggions désertes|que peuplait jadis son amour."
+{48022}{48082}"Comment savoir si cette douleur cesserait?"
+{48085}{48222}"Cet amour, contrairement à la matière|et à l'énerggie, était-il inépuisable?"
+{48225}{48335}"Un ggerme issu du néant,|qui ne peut être éradiqué,
+{48337}{48402}même des coeurs les plus ténébreux?"
+{48405}{48500}"Si elle avait su cela -|et comment savoir si elle y aurait cru? -
+{48502}{48605}elle ne serait pas restée|devant sa triste tombe aussi tard,
+{48607}{48710}et elle n'aurait peut-être pas eu|à apprendre la 2e vérité avant la 1ère,
+{48710}{48835}à savoir que l'amour est un calice|susceptible d'être perdu ou dérobé."
+{48837}{48942}"Ou pire, répandu sur le sol|en une mare rougge sangg."
+{48945}{49000}"Et que l'amour n'était pas immuable."
+{49000}{49110}"Qu'il pouvait se transformer en haine,|tout comme le jour fait place à la nuit,
+{49112}{49162}la vie à la mort."
+{50152}{50250}Elle ne s'est manifestée|ni chez elle ni ailleurs.
+{50250}{50300}Il y a eu une lutte près de la tombe,
+{50302}{50415}mais l'herbe a été piétinée pendant|les obsèques, on trouvera rien de probant.
+{50415}{50470}Je crois qu'il se paie notre tête.
+{50472}{50592}Sa déposition prouvera peut-être|qu'il dit la vérité, qu'il a imagginé tout ça.
+{50595}{50667}Tout ce qu'il a imagginé,|c'est qu'on serait ici même...
+{50740}{50785}comme deux imbéciles.
+{50962}{51032}Les mains bien en évidence. Bougge pas.
+{51035}{51092}Je suis du FBI.
+{51095}{51172}- Ce n'est pas lui.|- Qu'est-ce que j'ai fait?
+{51175}{51227}Va voir dans le camion, Scully.
+{51230}{51280}Il travaille ici.
+{52145}{52230}Comment tu savais|que le corps était dans le camion?
+{52232}{52277}Je l'ai imagginé.
+{52280}{52347}On n'a aucune preuve contre Padggett.
+{52350}{52415}Il te faut un bon de commande siggné?
+{52417}{52505}Tes suppositions ne reposent|sur rien de concret.
+{52507}{52580}Et l'heure du crime?|Qu'est-ce que tu fais?
+{52582}{52660}Tu vas me reprocher|les mêmes choses que d'habitude.
+{52662}{52747}Pourquoi n'aurait-il pas imagginé|ce que le tueur ferait?
+{52750}{52837}Tu as lu ce qu'il a écrit sur toi.|Il avait vu juste?
+{52840}{52895}- C'était vrai?|- Bien sûr que non.
+{52897}{52960}Je ne sais pas comment ils communiquent.
+{52962}{53047}C'est la seule façon que je vois|pour l'attraper.
+{53207}{53290}Vous êtes libre. Veuillez excuser notre erreur.
+{53290}{53355}Vous pouvez finir votre livre.
+{53390}{53440}Merci.
+{53545}{53595}Moi aussi, j'ai fait une erreur.
+{53615}{53675}Quoi donc, M. Padggett?
+{53705}{53842}Dans mon livre, j'ai écrit que l'aggent Scully|tombait amoureuse, mais c'est impossible.
+{53845}{53867}Parce qu'elle est déjà amoureuse.
+{53867}{53907}Parce qu'elle est déjà amoureuse.
+{54907}{54957}Qu'est-ce que tu fais ici?
+{55200}{55255}T'as l'air surpris de me voir.
+{55270}{55395}- Oui, complètement.|- Pourquoi? Je suis ton personnagge.
+{55410}{55497}- Qu'est-ce que tu veux?|- T'aider à finir ton livre.
+{55500}{55560}Je vois pas ce qui te pousse à faire ça.
+{55572}{55637}Tu m'as imagginé si précisément.
+{55640}{55707}Si précisément que tu m'as donné la vie.
+{55722}{55842}- Pourquoi m'avoir choisi?|- Je voulais un crime parfait.
+{55845}{55917}Elle est médecin.|Ce que tu fais la terrifierait.
+{55930}{56000}C'est moi qui suis terrifié.
+{56000}{56110}- Je veux juste savoir pourquoi j'ai fait ça.|- Pour que je la rencontre.
+{56200}{56262}Ce n'est pas une raison.
+{56370}{56420}C'est une excuse.
+{56577}{56642}- Du nouveau?|- Non, il est assis, c'est tout.
+{56675}{56715}Le reggard fixe.
+{56842}{56917}- C'est quoi?|- Une erreur colossale.
+{56920}{57050}- J'ai mal évalué son intérêt pour moi.|- Bien, on tient quelque chose.
+{57052}{57140}Elle essaie d'attirer son attention,|mais ne le sait pas.
+{57140}{57200}Le bon vieil inconscient à l'oeuvre.
+{57202}{57267}Je voulais l'aimer.
+{57277}{57355}Pas étonnant que t'arrives pas|à finir ton livre.
+{57375}{57477}- Pourquoi je veux leurs coeurs?|- A toi de me le dire. Pourquoi tu fais ça?
+{57480}{57557}Je suis ton personnagge.|C'est à toi de me le dire.
+{57560}{57650}- Mes raisons sont les tiennes.|- Je veux connaître l'amour.
+{57745}{57795}Tu l'avais à portée de main.
+{57797}{57875}Tu étais un instrument de la vérité.
+{57877}{58027}Et quand ça finit par arriver,|quand j'arrive, tu fermes les yeux.
+{58030}{58100}Mais qu'est-ce que la vérité?
+{58102}{58210}L'homme imaggine qu'il peut,|lui aussi, ouvrir son coeur
+{58212}{58385}et l'exposer à la passion ardente,|aux flammes de la charité, tel le Créateur.
+{58387}{58472}Mais c'est au-dessus de ses pouvoirs.
+{58482}{58535}Pourtant, j'ai de l'amour dans le coeur.
+{58575}{58700}Comme le voleur a des richesses,|et l'usurier, de l'arggent. Tu en as.
+{58702}{58880}Mais le seul pouvoir de l'homme,|son seul vrai pouvoir, c'est de le détruire.
+{58890}{58970}Alors, c'est quoi la fin de mon histoire?
+{59012}{59090}Il n'y a qu'une fin possible,
+{59115}{59180}si on veut que ce soit parfait.
+{59235}{59272}Elle meurt?
+{59310}{59415}Tu vois? L'histoire s'écrit|presque toute seule.
+{59885}{59935}Il fait quoi maintenant?
+{59955}{60015}Il s'est remis à taper à la machine.
+{60205}{60260}Et maintenant?
+{60422}{60475}Alors?
+{60915}{60945}Pas un ggeste.
+{60972}{61027}Eloiggnez-vous de l'incinérateur.
+{61337}{61427}- Qu'est-ce que vous faites?|- Je détruis mon livre.
+{61430}{61485}Vous voulez dire des preuves.
+{61495}{61597}- Montrez-moi ce que vous avez écrit.|- Je vais vous le dire. Il la tue.
+{61870}{61947}Vous êtes venu donner|des instructions à votre complice?
+{61950}{62000}- C'est lui qui m'a dicté la fin.|- Quand?
+{62002}{62065}- Tout à l'heure.|- Vous étiez seul là-haut.
+{62065}{62077}- Tout à l'heure.|- Vous étiez seul là-haut.
+{63670}{63750}"Une histoire n'a qu'une seule fin possible."
+{63750}{63895}"Alors qu'il écrivait ses derniers mots,|l'inconnu savait qu'ils ne seraient jamais lus."
+{63895}{63965}"Voir son oeuvre, c'était voir son propre vide,
+{63967}{64047}le coeur d'un destructeur, pas d'un créateur."
+{64050}{64155}"Et pourtant, dans ce retournement,|il put enfin apercevoir sa propre fin."
+{64157}{64225}"Et par ce dernier acte de destruction,
+{64227}{64307}il eut l'occasion de donner|ce qu'il n'avait pu recevoir."
+{64577}{64712}Sous-titragge Visiontext:|Stéphane Zamparo
+{65252}{65302}FRENCH

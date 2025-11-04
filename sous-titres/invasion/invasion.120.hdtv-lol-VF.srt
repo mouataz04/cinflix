@@ -1,0 +1,2949 @@
+1
+00:00:00,879 --> 00:00:03,416
+Je sais qu'il y a une espèce envahissante
+qui a pénétré les clairières.
+
+2
+00:00:03,417 --> 00:00:07,544
+Et maintenant, il est l'heure
+que nous nous élevions.
+
+3
+00:00:08,992 --> 00:00:11,162
+Et je ferai n'importe quoi pour protèger
+ma famille.
+
+4
+00:00:12,140 --> 00:00:14,629
+Qui peut me dire ce que signifie
+ce mot ?
+
+5
+00:00:14,661 --> 00:00:16,007
+C'est une jeune-fille très spéciale,
+monsieur.
+
+6
+00:00:16,008 --> 00:00:18,147
+Oui, c'est aussi une jeune-fille
+très jeune.
+
+7
+00:00:18,148 --> 00:00:21,534
+Hé, l'agent, si tu m'entends
+lève le bras.
+
+8
+00:00:21,535 --> 00:00:22,516
+Oh, mon Dieu !
+
+9
+00:00:24,690 --> 00:00:25,921
+Les lumières sont venues
+avec l'ouragan, exact ?
+
+10
+00:00:25,926 --> 00:00:28,260
+Alors, ça prendrait tout son sens
+si tu étais un hybride psychopathe
+
+11
+00:00:28,262 --> 00:00:31,363
+qui planifiait une invasion, de le faire
+sous couverture d'une tempête.
+
+12
+00:00:33,351 --> 00:00:34,328
+Szura est parti, Russell.
+
+13
+00:00:34,325 --> 00:00:37,695
+Je ne sais pas ce qu'il prévoit, mais
+j'ai besoin de ton aide pour l'arrêter.
+
+14
+00:00:37,699 --> 00:00:39,442
+- Merci, mademoiselle.
+- De rien.
+
+15
+00:00:39,446 --> 00:00:43,012
+C'est bien de savoir, que si j'ai de nouveaux des ennuis, tu es toujours proche.
+
+16
+00:00:45,498 --> 00:00:46,500
+<i>C'est exact, Paul,</i>
+
+17
+00:00:46,506 --> 00:00:49,131
+<i>les rafales sont de 19kms/heure.</i>
+
+18
+00:00:49,135 --> 00:00:50,673
+<i>et Accutrack prédit que Miranda</i>
+
+19
+00:00:50,677 --> 00:00:53,351
+<i>pourrait débarquer dès 20h00
+demain soir.</i>
+
+20
+00:00:53,367 --> 00:00:54,343
+<i>Eh bien, Larkin,
+on a eu vent</i>
+
+21
+00:00:54,346 --> 00:00:55,923
+<i>que quelques habitants
+de l'ouest de Palm Beach</i>
+
+22
+00:00:55,926 --> 00:00:58,581
+<i>- sont déjà en train de partir.
+- C'est aussi ce que j'ai compris,</i>
+
+23
+00:00:58,586 --> 00:01:00,552
+<i>mais, même si le service
+météorologique</i>
+
+24
+00:01:00,565 --> 00:01:02,313
+<i>dit que nous serons
+tous en sûreté ici,</i>
+
+25
+00:01:02,327 --> 00:01:04,903
+<i>ils serait judicieux que tous les habitants
+d'Homestead</i>
+
+26
+00:01:04,905 --> 00:01:06,880
+<i>soient préparés à tout.</i>
+
+27
+00:01:06,888 --> 00:01:08,280
+<i>Eh bien, mieux vaut prévenir
+que guérir,</i>
+
+28
+00:01:08,287 --> 00:01:10,450
+<i>mais maintent, je pense qu'on peut
+tous être heureux</i>
+
+29
+00:01:10,456 --> 00:01:12,962
+<i>que cette fois nous ne nous
+soyions pas laissés surprendre.</i>
+
+30
+00:01:12,968 --> 00:01:14,660
+<i>C'est une manière de voir les choses.</i>
+
+31
+00:01:14,665 --> 00:01:16,580
+<i>Merci, Paul, à vous les studios.</i>
+
+32
+00:01:24,555 --> 00:01:27,231
+Invasion
+1x20 - Run and gun.
+
+33
+00:01:27,457 --> 00:01:30,243
+Transcript : Team FRM.
+
+34
+00:01:30,246 --> 00:01:34,182
+Adaptation : -Ez-, Keno83,
+RonanaSplit & Lucile76.
+
+35
+00:01:34,187 --> 00:01:36,813
+www.forom.Com
+
+36
+00:01:42,106 --> 00:01:43,433
+Je t'ai amené un doughnut.
+
+37
+00:01:45,636 --> 00:01:47,220
+J'ai pas faim.
+
+38
+00:01:49,797 --> 00:01:51,310
+T'as quitté l'île.
+
+39
+00:01:51,388 --> 00:01:54,342
+Ouais, ça devenait un peu bondé.
+
+40
+00:01:54,658 --> 00:01:57,472
+Garde-côtes, rangers.
+
+41
+00:01:57,595 --> 00:01:59,621
+- Où est tout le monde ?
+- En sûreté.
+
+42
+00:01:59,786 --> 00:02:00,570
+Où ?
+
+43
+00:02:00,575 --> 00:02:02,510
+Je n'aime pas le ton de ta voix, Tom.
+
+44
+00:02:02,517 --> 00:02:03,232
+Et je n'aime pas le fait
+
+45
+00:02:03,235 --> 00:02:05,703
+de t'avoir envoyé des gens à surveiller,
+et qu'ils soient morts.
+
+46
+00:02:06,038 --> 00:02:07,180
+La première fois qu'on s'est rencontré,
+
+47
+00:02:07,185 --> 00:02:09,453
+tu m'as promis la liberté dont j'avais besoin
+pour faire ce que j'avais à faire,
+
+48
+00:02:09,458 --> 00:02:12,232
+et là, tout ce que tu fais,
+c'est toujours me reprendre.
+
+49
+00:02:12,377 --> 00:02:15,311
+- Je ne te fais plus confiance, Eli.
+- C'est un fait établi.
+
+50
+00:02:15,408 --> 00:02:17,232
+Et tu ne devrais pas
+me faire confiance.
+
+51
+00:02:25,938 --> 00:02:27,880
+- Tu ne peux pas me garder là-dedans.
+- Peut-être pas pour toujours,
+
+52
+00:02:27,888 --> 00:02:29,673
+mais suffisamment longtemps
+pour savoir où tu caches tout les autres.
+
+53
+00:02:29,686 --> 00:02:33,450
+- Je te l'ai dit, ils sont en sûreté.
+- Non, ils ne le sont pas.
+
+54
+00:02:33,696 --> 00:02:36,172
+Ces gens sont des dangers pour eux-mêmes
+et les gens qui les entourent.
+
+55
+00:02:36,178 --> 00:02:40,340
+La nature prendra soin d'eux, Tom.
+La nature prend soin de tout.
+
+56
+00:02:40,697 --> 00:02:44,182
+Tu as vu les nouvelles ?
+Il y a une tempête qui se prépare.
+
+57
+00:02:44,185 --> 00:02:45,601
+Les experts disent qu'elle ira au nord,
+
+58
+00:02:45,606 --> 00:02:47,260
+mais on sait ce qu'il en est,
+n'est-ce pas ?
+
+59
+00:02:47,875 --> 00:02:49,453
+Nos gens iront bien.
+
+60
+00:02:50,396 --> 00:02:52,602
+C'est le reste de la ville
+dont tu devrais t'inquiéter.
+
+61
+00:02:52,608 --> 00:02:54,641
+Cet ouragan va débarquer ici,
+
+62
+00:02:54,987 --> 00:02:56,283
+et personne ne sera en mesure
+d'évacuer,
+
+63
+00:02:56,286 --> 00:02:58,461
+parce que toutes les routes,
+vers le nord, seront bloquées.
+
+64
+00:02:58,465 --> 00:03:01,990
+Pour notre protection, pour empêcher
+nos citoyens d'aller en zone sinistrée.
+
+65
+00:03:01,997 --> 00:03:04,053
+M. le Maire, ce sera ici,
+la zone sinistrée.
+
+66
+00:03:04,056 --> 00:03:06,251
+Miranda suit exactement le chemin
+pris par Eve.
+
+67
+00:03:06,256 --> 00:03:07,443
+Eh bien, ça peut changer.
+
+68
+00:03:08,636 --> 00:03:10,810
+Vous avez la moindre preuve
+de ce que vous avancez ?
+
+69
+00:03:10,815 --> 00:03:14,480
+Aucune.
+Il n'en a aucune.
+
+70
+00:03:14,575 --> 00:03:16,790
+Voilà M. Vargas
+du bureau des eaux et forêts.
+
+71
+00:03:16,797 --> 00:03:20,190
+Je lui ai demandé de venir pour voir
+s'il pouvait vérifier quelque chose pour nous.
+
+72
+00:03:20,238 --> 00:03:24,590
+J'aurais aimé mais j'ai bien peur que Russell
+ne partage pas notre point de vue.
+
+73
+00:03:25,428 --> 00:03:27,871
+En fait, il ne travaille même plus
+pour nous.
+
+74
+00:03:28,127 --> 00:03:30,543
+Notre chef l'a suspendu hier après-midi.
+
+75
+00:03:31,077 --> 00:03:35,192
+Il pensait que ses problèmes personnels
+modifiaient son jugement.
+
+76
+00:03:35,197 --> 00:03:37,401
+Je ne représente pas le département,
+Frank.
+
+77
+00:03:38,056 --> 00:03:40,800
+Je suis ici en tant que citoyen,
+un citoyen impliqué.
+
+78
+00:03:40,885 --> 00:03:42,140
+Moi de même, Russell.
+
+79
+00:03:42,786 --> 00:03:47,250
+Nous venons de réouvrir le parc.
+Le tourisme repart.
+
+80
+00:03:47,275 --> 00:03:48,373
+Si on fait ce que tu dis,
+
+81
+00:03:48,375 --> 00:03:50,963
+on va devoir tout fermer de nouveau.
+
+82
+00:03:50,968 --> 00:03:53,821
+Et après la crise économique
+de l'après Eve,
+
+83
+00:03:54,527 --> 00:03:56,221
+est-ce que quelqu'un souhaite
+réellement cela ?
+
+84
+00:03:56,228 --> 00:03:58,251
+Si tout le monde dans le parc est mort,
+ça n'aura plus d'importance.
+
+85
+00:03:59,918 --> 00:04:02,431
+Désolé, je suis en retard, M. le Maire.
+Mon agent est à l'hôpital,
+
+86
+00:04:02,965 --> 00:04:04,741
+et il m'a demandé de lui récupérer
+quelques volets contre l'ouragan,
+
+87
+00:04:04,745 --> 00:04:06,311
+mais Dixon était en rupture de stock.
+
+88
+00:04:08,626 --> 00:04:12,281
+- Tom, vous soutenez l'évacuation ?
+- Pas une qui soit obligatoire,
+
+89
+00:04:13,006 --> 00:04:14,022
+mais je pense qu'on devrait
+laisser le choix aux gens
+
+90
+00:04:14,036 --> 00:04:17,242
+et leur rappeller le côté imprévisible
+de ces choses.
+
+91
+00:04:17,266 --> 00:04:20,630
+Je pense qu'être prudent serait
+moins préjudiciable au tourisme
+
+92
+00:04:21,287 --> 00:04:24,670
+que la vue d'une centaines de corps morts
+flottant devant l'hôtel de ville, non ?
+
+93
+00:04:32,188 --> 00:04:34,990
+Je crois qu'ils étaient prêts à me
+manger tout cru. Merci.
+
+94
+00:04:34,997 --> 00:04:38,572
+- Je savais pas que t'avais perdu ton boulot.
+- Bah, heureusement, c'est temporaire.
+
+95
+00:04:39,258 --> 00:04:41,401
+- J'ai attrapé Szura.
+- Quoi ?
+
+96
+00:04:41,405 --> 00:04:43,681
+En prison, et je vais le laisser là pendant la tempête.
+
+97
+00:04:43,787 --> 00:04:44,761
+Et pour les hybrides disparus,
+
+98
+00:04:44,767 --> 00:04:46,542
+les gens qui étaient sur l'île ?
+
+99
+00:04:46,837 --> 00:04:48,200
+Il ne me dira pas où ils sont.
+
+100
+00:04:48,208 --> 00:04:49,991
+Il t'a donné une idée
+de ce qu'il manigançait ?
+
+101
+00:04:50,176 --> 00:04:52,562
+Non, mais si j'étais toi, je traînerais pas dans le coin pour savoir.
+
+102
+00:04:55,237 --> 00:04:58,042
+- On fait déjà les bagages.
+- T'as un endroit où aller ?
+
+103
+00:04:58,068 --> 00:04:59,791
+Un petit motel où j'allais des fois
+étant gosse.
+
+104
+00:04:59,798 --> 00:05:01,573
+A quelques heures au nord.
+Et toi ?
+
+105
+00:05:01,578 --> 00:05:03,373
+Je vais essayer de pister ces gens,
+
+106
+00:05:03,378 --> 00:05:05,722
+- les contenir.
+- Très bien, on se tient au courant.
+
+107
+00:05:23,937 --> 00:05:25,230
+Kira.
+
+108
+00:05:25,235 --> 00:05:28,060
+Hé, Lewis.
+Comment ça va ?
+
+109
+00:05:28,885 --> 00:05:32,981
+Bien, je crois.
+De quoi j'ai l'air ?
+
+110
+00:05:34,245 --> 00:05:35,420
+Superbe.
+
+111
+00:05:36,485 --> 00:05:39,011
+Ca me touche que tu sois là, Kira.
+
+112
+00:05:40,447 --> 00:05:42,800
+Je comprends pas comment
+c'est arrivé.
+
+113
+00:05:43,436 --> 00:05:45,940
+C'est arrivé parce que les gens
+sont stupides.
+
+114
+00:05:46,828 --> 00:05:50,241
+- Ton frère va bien ?
+- Mon frère... Jesse ?
+
+115
+00:05:52,356 --> 00:05:54,943
+C'est mon demi-frère
+et qu'est-ce ça fait ?
+
+116
+00:05:54,955 --> 00:05:56,952
+C'est l'un de ceux qui t'ont battu.
+
+117
+00:05:57,358 --> 00:05:58,852
+Non.
+
+118
+00:05:59,745 --> 00:06:03,731
+Il a tenté de me protéger,
+il m'a peut-être même sauvé la vie.
+
+119
+00:06:03,747 --> 00:06:08,323
+- Mais c'était ses amis.
+- Non, c'est 2 types plus âgés.
+
+120
+00:06:09,348 --> 00:06:13,241
+C'était aussi de ma faute.
+Je fais trop facilement confiance aux gens.
+
+121
+00:06:16,905 --> 00:06:17,963
+Et vérifiez la banque du sang.
+
+122
+00:06:17,966 --> 00:06:19,763
+On a manqué de poches
+pendant Eve.
+
+123
+00:06:19,767 --> 00:06:21,500
+Je veux m'assurer que ça ne se
+reproduira pas.
+
+124
+00:06:21,505 --> 00:06:24,581
+- Mais, docteur, le journal a dit...
+-  Ils se trompent.
+
+125
+00:06:25,055 --> 00:06:28,111
+- Dr Underlay, vous êtes demandée en maternité.
+- J'y vais de ce pas.
+
+126
+00:06:35,105 --> 00:06:37,532
+Hé, doc, ils m'ont dit que je pouvais
+attendre ici. J'espère que ça t'embête pas.
+
+127
+00:06:37,898 --> 00:06:41,413
+- Tu fais quoi avec cette caméra ?
+- Un documentaire.
+
+128
+00:06:41,546 --> 00:06:44,312
+- Sur quoi ?
+- La destruction totale de la race humaine.
+
+129
+00:06:45,065 --> 00:06:46,673
+Souris.
+
+130
+00:06:48,547 --> 00:06:50,420
+Je ne plaisante qu'à moitié.
+Si l'ouragan qui arrive
+
+131
+00:06:50,426 --> 00:06:52,120
+transporte le moindre chose
+que ce qu'Eve avait,
+
+132
+00:06:52,125 --> 00:06:53,631
+il y aura des centaines
+de lumière dans le ciel
+
+133
+00:06:53,635 --> 00:06:55,161
+et encore plus d'E.B.E dans l'eau,
+
+134
+00:06:55,168 --> 00:06:57,413
+et je vais tout filmer
+cette fois-ci.
+
+135
+00:06:57,416 --> 00:07:00,072
+Je te parle pas d'une idiotie
+de montage en noir et blanc.
+
+136
+00:07:00,075 --> 00:07:02,690
+Je te parle d'un documentaire
+en haute définition.
+
+137
+00:07:02,697 --> 00:07:04,341
+- Bonne chance.
+- Merci.
+
+138
+00:07:04,365 --> 00:07:06,730
+Pour commencer, j'ai pensé que tu pourrais,
+peut-être, être ma 1ère interview.
+
+139
+00:07:06,735 --> 00:07:09,272
+- Un bavardage d'humain à hybride.
+- Je suis un peu occupée, Dave.
+
+140
+00:07:09,277 --> 00:07:10,240
+Ouais, ouais, je vois ça,
+
+141
+00:07:10,247 --> 00:07:12,430
+mais si ce truc frappe
+autant que ce que je pense...
+
+142
+00:07:12,436 --> 00:07:14,411
+- Rose est là ?
+- Quoi ?
+
+143
+00:07:14,656 --> 00:07:16,890
+C'est son sac.
+Elle était avec toi ?
+
+144
+00:07:17,052 --> 00:07:20,603
+- Non.
+- Qu'est-ce que ça fait là ?
+
+145
+00:07:48,201 --> 00:07:49,658
+Oh, mon Dieu.
+
+146
+00:08:01,495 --> 00:08:02,995
+<i>T'es sûre qu'elle est
+encore à l'école ?</i>
+
+147
+00:08:03,009 --> 00:08:04,531
+Oui, je viens de parler à son instit.
+Elle va bien.
+
+148
+00:08:04,535 --> 00:08:05,202
+Mais elle avait
+
+149
+00:08:05,206 --> 00:08:06,511
+<i>- son sac ce matin.</i>
+
+150
+00:08:06,647 --> 00:08:07,402
+Où est Jesse ?
+
+151
+00:08:07,406 --> 00:08:09,033
+<i>A l'école aussi,
+mais il est sur le chemin du retour.</i>
+
+152
+00:08:09,035 --> 00:08:11,572
+- Tu lui as parlé ?
+- Hmm. Et Kira est avec Lewis,
+
+153
+00:08:11,575 --> 00:08:12,792
+<i>mais j'ai peur, Tom.</i>
+
+154
+00:08:12,795 --> 00:08:14,173
+On doit récupérer Rose.
+
+155
+00:08:14,588 --> 00:08:16,211
+Dr Underlay, ils ont vraiment
+besoin de vous en maternité.
+
+156
+00:08:16,215 --> 00:08:18,183
+- J'irai. J'irai récupèrer Rose.
+- T'es sûr ?
+
+157
+00:08:18,196 --> 00:08:20,050
+Ouais, ouais, ouais,.
+Je peux y être en 5 minutes.
+
+158
+00:08:20,057 --> 00:08:21,432
+Je t'appelle dès que je l'ai.
+
+159
+00:08:21,795 --> 00:08:23,210
+Oh, mon Dieu, Russell,
+Rose va bien ?
+
+160
+00:08:23,217 --> 00:08:23,962
+<i>Dans l'immédiat, oui.</i>
+
+161
+00:08:23,967 --> 00:08:26,540
+Mais ce truc du sac, c'était manifestement
+pour laisser un message.
+
+162
+00:08:26,545 --> 00:08:28,490
+<i>Le truc bizarre c'est qu'Underlay
+m'a dit que Szura était en prison,</i>
+
+163
+00:08:28,496 --> 00:08:30,010
+<i>alors je sais pas
+qui a fait ça.</i>
+
+164
+00:08:30,015 --> 00:08:31,131
+On doit partir.
+
+165
+00:08:31,136 --> 00:08:32,671
+<i>On doit faire partir tous les gosses.</i>
+
+166
+00:08:32,675 --> 00:08:33,971
+Les routes vont fermer à 15h00.
+
+167
+00:08:33,977 --> 00:08:34,823
+Tu peux être de retour
+à la maison
+
+168
+00:08:34,837 --> 00:08:35,942
+<i>pour le faire ?</i>
+
+169
+00:08:35,676 --> 00:08:36,712
+Oui, je pense.
+
+170
+00:08:36,716 --> 00:08:38,592
+J'ai juste encore un sujet
+à faire.
+
+171
+00:08:43,936 --> 00:08:45,411
+Russell, comment je peux imaginer
+partir d'ici
+
+172
+00:08:45,418 --> 00:08:47,043
+sans dire aux gens
+ce qui se prépare ?
+
+173
+00:08:48,927 --> 00:08:50,903
+Il y a tant de gens qui pourraient mourir
+dans cette tempête.
+
+174
+00:08:51,268 --> 00:08:52,402
+Mais qu'est-ce que tu peux faire ?
+
+175
+00:08:52,505 --> 00:08:54,153
+Tu aurais dû voir ces regards
+du conseil municipal
+
+176
+00:08:54,157 --> 00:08:55,582
+ce matin, quand j'essayais
+de les convaincre
+
+177
+00:08:55,588 --> 00:08:57,452
+que j'en savais plus
+que la météo.
+
+178
+00:08:57,748 --> 00:08:59,742
+<i>C'était fou.
+Personne ne va te croire.</i>
+
+179
+00:09:00,587 --> 00:09:02,941
+Je suis censée faire un direct à 11h10,
+sur l'aire de jeux.
+
+180
+00:09:03,955 --> 00:09:05,940
+Laisse-moi faire ça
+et je serai à la maison pour 11h30.
+
+181
+00:09:06,108 --> 00:09:08,172
+Tu seras viré, tu sais,
+si tu dis la vérité.
+
+182
+00:09:08,577 --> 00:09:10,111
+C'est une possibilité.
+
+183
+00:09:12,116 --> 00:09:12,973
+A bientôt.
+
+184
+00:09:19,116 --> 00:09:20,801
+Qui peut me dire ce que signifie "caractère".
+
+185
+00:09:22,366 --> 00:09:22,893
+Jake ?
+
+186
+00:09:22,896 --> 00:09:25,553
+Caractère, c'est quelqu'un qui prétend
+être quelque chose.
+
+187
+00:09:25,598 --> 00:09:28,032
+Ok, quelqu'un d'autre ?
+
+188
+00:09:28,437 --> 00:09:29,740
+Rose, que veut dire "caractère" ?
+
+189
+00:09:30,037 --> 00:09:31,351
+Quelqu'un dans un film ?
+
+190
+00:09:31,705 --> 00:09:33,741
+Très bien, oui, il y a ce genre
+de caractères (character = personnage),
+
+191
+00:09:33,748 --> 00:09:35,881
+mais au sujet du caractère personnel ?
+
+192
+00:09:36,366 --> 00:09:38,790
+Toutes nos actions définissent
+notre caractère.
+
+193
+00:09:39,188 --> 00:09:40,221
+Nous sommes ce que nous faisons.
+
+194
+00:09:40,757 --> 00:09:42,593
+C'est pour ça qu'il est si import...
+
+195
+00:09:44,448 --> 00:09:45,150
+Bonjour.
+
+196
+00:09:46,566 --> 00:09:48,091
+Je suis ici pour la récupérer.
+
+197
+00:09:49,896 --> 00:09:51,191
+Une seconde. Excusez-moi.
+
+198
+00:09:54,067 --> 00:09:55,461
+- Je peux vous aider ?
+- Oui, je, heu...
+
+199
+00:09:55,467 --> 00:09:56,811
+Je suis Dave Groves.
+Je suis l'oncle de Rose.
+
+200
+00:09:56,815 --> 00:09:59,041
+- Je suis ici pour la récupérer.
+- Je pensais que ça mère venait.
+
+201
+00:09:59,287 --> 00:10:01,193
+Oui, elle devait,
+mais c'est moi à la place.
+
+202
+00:10:03,137 --> 00:10:04,402
+- Vous avez un mot ?
+- Est-ce que j'ai un mot ?
+
+203
+00:10:04,408 --> 00:10:07,851
+Eh bien, nous ne pouvons pas laisser
+s'en aller les enfants sans autorisation.
+
+204
+00:10:07,857 --> 00:10:09,451
+Ok, je sais, mais elle me connait.
+Je suis son oncle.
+
+205
+00:10:09,457 --> 00:10:10,812
+Mais je ne vous connais pas.
+
+206
+00:10:12,588 --> 00:10:14,332
+Ok, bon, pourquoi n'appellerions-nous pas
+sa mère alors, ok ?
+
+207
+00:10:14,345 --> 00:10:15,871
+- Après la classe.
+- Pardon, quoi ?
+
+208
+00:10:16,497 --> 00:10:18,120
+Après avoir fini avec les leçons.
+
+209
+00:10:18,387 --> 00:10:20,311
+Vous pouvez allez vous asseoir dans le fond,
+si vous voulez.
+
+210
+00:10:21,395 --> 00:10:25,482
+Ok, les p'tits gars,
+si nous sommes ce que nous faisons,
+
+211
+00:10:26,518 --> 00:10:30,030
+quels sont les 2 plus importantes voies
+qui définissent notre caractère ?
+
+212
+00:10:38,998 --> 00:10:39,952
+Comment nous vivons...
+
+213
+00:10:42,937 --> 00:10:44,510
+et comment nous mourons.
+
+214
+00:11:15,958 --> 00:11:19,671
+Tu ne peux pas contenir le futur.
+
+215
+00:11:51,148 --> 00:11:53,710
+Il s'appelle Eli Szura.
+
+216
+00:11:54,257 --> 00:11:55,941
+Je veux savoir comment
+il est sorti.
+
+217
+00:12:00,896 --> 00:12:02,033
+Vous étiez tous là.
+
+218
+00:12:21,736 --> 00:12:24,270
+M. Munger, il y a du sang
+sur le mur de cette cellule.
+
+219
+00:12:24,277 --> 00:12:27,272
+Comment il a fait ça sans que vous ne
+le voyiez ?
+
+220
+00:12:27,877 --> 00:12:29,512
+Il s'est servi de son coude, monsieur.
+
+221
+00:12:32,468 --> 00:12:33,081
+Son coude ?
+
+222
+00:12:33,106 --> 00:12:35,971
+Il s'est frotté si fort le coude contre le mur,
+qu'il en a saigné.
+
+223
+00:12:37,156 --> 00:12:40,422
+- Et vous avez laissé ça se passer ?
+- J'étais...
+
+224
+00:12:43,736 --> 00:12:46,512
+intrigué, monsieur.
+
+225
+00:12:46,808 --> 00:12:48,921
+- Vous avez libérer le suspect de sa cellule ?
+- Non, monsieur !
+
+226
+00:12:49,436 --> 00:12:50,971
+Vous savez qui l'a fait ?
+
+227
+00:12:55,065 --> 00:12:55,983
+Agent ?
+
+228
+00:12:57,336 --> 00:12:58,712
+Quel était son crime, shérif ?
+
+229
+00:13:01,485 --> 00:13:02,922
+Son crime, agent Armis ?
+
+230
+00:13:03,205 --> 00:13:04,323
+La trahison,
+
+231
+00:13:04,817 --> 00:13:06,980
+et je considère que c'est
+une sérieuse violation.
+
+232
+00:13:09,038 --> 00:13:12,501
+L'un de vous a lu Robin des Bois ?
+
+233
+00:13:13,665 --> 00:13:14,512
+Moi.
+
+234
+00:13:18,835 --> 00:13:20,291
+Alors vous savez que quand Robin
+est malade,
+
+235
+00:13:20,297 --> 00:13:21,943
+il demande de l'aide à sa cousine,
+
+236
+00:13:22,538 --> 00:13:24,453
+mais sa cousine pense différemment.
+
+237
+00:13:25,848 --> 00:13:26,991
+Elle le tue.
+
+238
+00:13:27,948 --> 00:13:30,873
+Tout ça pour les bonnes grâces
+d'un méchant roi.
+
+239
+00:13:34,058 --> 00:13:35,681
+Je vais trouver cet homme.
+
+240
+00:13:37,417 --> 00:13:39,241
+Et je vais l'arrêter,
+
+241
+00:13:41,058 --> 00:13:43,200
+et je vais revenir ici
+et je vais décider
+
+242
+00:13:45,207 --> 00:13:47,210
+combien de vous je tiendrai
+pour responsable.
+
+243
+00:14:06,728 --> 00:14:09,613
+Et voilà, Lewis.
+Comme neuf.
+
+244
+00:14:09,616 --> 00:14:12,023
+- Tu l'as lavé ?
+- Ben, l'hôpital l'a fait,
+
+245
+00:14:12,938 --> 00:14:14,210
+mais j'ai gardé ton insigne.
+
+246
+00:14:21,695 --> 00:14:22,663
+Tu as fini de manger ?
+
+247
+00:14:23,486 --> 00:14:24,773
+Oui, merci.
+
+248
+00:14:26,275 --> 00:14:27,702
+Tu devrais pas être à l'école ?
+
+249
+00:14:27,885 --> 00:14:29,910
+Oui mais papa a dit que je pouvais
+rester avec toi.
+
+250
+00:14:29,918 --> 00:14:31,781
+En fait, il me l'a demandé.
+
+251
+00:14:31,937 --> 00:14:33,190
+- C'est vrai ?
+- Oui.
+
+252
+00:14:33,527 --> 00:14:34,872
+Je ne sais pas ce qu'il a dernièrement.
+
+253
+00:14:36,215 --> 00:14:39,502
+Il est en fait très sympa.
+
+254
+00:14:44,738 --> 00:14:48,063
+Tu ressembles à... un ange.
+
+255
+00:14:59,796 --> 00:15:00,530
+Hé.
+
+256
+00:15:08,366 --> 00:15:10,040
+Je suis venu m'excuser.
+
+257
+00:15:11,688 --> 00:15:12,653
+Tout va bien, Jesse.
+
+258
+00:15:13,358 --> 00:15:14,122
+Non, ça ne va pas.
+
+259
+00:15:15,648 --> 00:15:18,031
+Je veux que tu restes ici avec Lewis
+jusqu'à ce que ton père revienne, ok ?
+
+260
+00:15:18,628 --> 00:15:19,761
+Ok.
+
+261
+00:15:20,965 --> 00:15:23,302
+- Kira, je peux te parler une seconde ?
+- Bien sûr.
+
+262
+00:15:24,017 --> 00:15:26,590
+Je ne veux pas rester avec lui de toute façon.
+
+263
+00:15:32,706 --> 00:15:34,443
+Ok, les enfants, 20 minutes de récré.
+
+264
+00:15:36,087 --> 00:15:38,670
+Après, on commence nos maquettes.
+
+265
+00:15:39,946 --> 00:15:42,201
+- Classe cool, hein ?
+- Oui, oui, vraiment intéressant.
+
+266
+00:15:42,525 --> 00:15:43,552
+Ecoute, on s'en va.
+
+267
+00:15:43,616 --> 00:15:45,813
+- Pourquoi ?
+- Parce que maman te veut à la maison.
+
+268
+00:15:46,205 --> 00:15:48,003
+- Quelle maison ?
+- Celle de ton père.
+
+269
+00:15:48,227 --> 00:15:49,571
+Mais j'ai école.
+
+270
+00:15:49,678 --> 00:15:51,213
+Je sais. Tu vas sortir plus tôt aujourd'hui.
+Ok ?
+
+271
+00:15:51,745 --> 00:15:52,990
+- Eh, Mme, heu...
+
+272
+00:15:53,505 --> 00:15:54,441
+- Mme Wade.
+- Oui.
+
+273
+00:15:55,245 --> 00:15:57,441
+Vous pensez pouvoir appeler sa mère
+pour qu'on puisse partir d'ici ?
+
+274
+00:15:58,268 --> 00:15:59,950
+Rose, Rose !
+
+275
+00:16:00,036 --> 00:16:01,371
+Elle est juste sortie dehors.
+
+276
+00:16:01,515 --> 00:16:03,191
+Ecoutez, madame, vous ne pouvez même pas
+porter un sac à dos.
+
+277
+00:16:03,215 --> 00:16:04,793
+Pourquoi je vous croirai avec un enfant ?
+
+278
+00:16:20,185 --> 00:16:21,872
+Hé, hé, écoute,
+
+279
+00:16:21,878 --> 00:16:23,172
+on doit aller à l'hôpital voir ta mère, ok ?
+
+280
+00:16:23,178 --> 00:16:24,083
+Mr. Groves ?
+
+281
+00:16:27,395 --> 00:16:28,021
+Très bien,
+
+282
+00:16:28,025 --> 00:16:29,503
+vous pouvez maintenant appeler sa mère
+
+283
+00:16:29,506 --> 00:16:31,182
+pour qu'on parte ?
+On est en retard.
+
+284
+00:16:31,236 --> 00:16:33,681
+- En retard pour quoi ?
+- Pour la mort.
+
+285
+00:16:34,307 --> 00:16:34,933
+On a rendez-vous avec la mort
+
+286
+00:16:34,935 --> 00:16:35,651
+et on va être en retard.
+
+287
+00:16:35,658 --> 00:16:37,281
+- Je parle votre langue maintenant ?
+- Ok, c'est quoi votre problème ?
+
+288
+00:16:37,347 --> 00:16:39,381
+Vous l'êtes. Vous êtes mon problème.
+
+289
+00:16:39,956 --> 00:16:42,102
+- Vous traitez tous les parents de cette façon ?
+- Vous n'êtes pas un parent.
+
+290
+00:16:42,826 --> 00:16:45,481
+Et si vos sarcasmes sont censé être marrants,
+ce n'est pas drôle.
+
+291
+00:16:45,676 --> 00:16:47,011
+Ok, je suis désolé. Je suis désolé.
+
+292
+00:16:47,198 --> 00:16:49,283
+Mais écoutez-moi Mlle Wade,
+
+293
+00:16:50,356 --> 00:16:52,341
+vous enseignez en CE1.
+
+294
+00:16:52,628 --> 00:16:54,280
+Je pense que ces enfants s'en foutent
+
+295
+00:16:54,288 --> 00:16:55,883
+de quand ils vont crever.
+
+296
+00:16:55,888 --> 00:16:57,753
+Ok, ma leçon je traite pas de la mort.
+
+297
+00:16:58,427 --> 00:16:59,482
+Mais sur comment vivre.
+
+298
+00:16:59,488 --> 00:17:02,872
+Donc vous êtes une de ces profs ?
+"chaque classe est une classe de philosophie"
+
+300
+00:17:02,876 --> 00:17:04,572
+Non, je suis une du style "je tiens à
+
+301
+00:17:04,575 --> 00:17:07,380
+la qualité de la vie de mes élèves".
+
+302
+00:17:07,967 --> 00:17:09,091
+Vous voulez savoir ce que je pense que vous êtes ?
+
+303
+00:17:09,958 --> 00:17:11,161
+Dave ! Oui ?
+
+304
+00:17:11,405 --> 00:17:13,000
+Oncle Dave, tu veux un petit gâteau ?
+
+305
+00:17:13,255 --> 00:17:15,571
+Des petits gâteaux, c'est à ça que vous les nourrissez ?
+
+306
+00:17:15,578 --> 00:17:17,403
+Pas étonnant que vous leur enseigniez la mort
+avec un régime pareil.
+
+307
+00:17:17,408 --> 00:17:20,882
+Ok, écoutez, je suis mourante, d'accord ?
+
+308
+00:17:21,467 --> 00:17:23,662
+- Quoi ?
+- Je me meurt.
+
+309
+00:17:24,166 --> 00:17:25,522
+J'ai un lymphome en stade terminal
+
+310
+00:17:25,525 --> 00:17:27,452
+et j'aurai de la chance si je passe le semestre.
+
+311
+00:17:28,458 --> 00:17:29,162
+Vous plaisantez.
+
+312
+00:17:30,037 --> 00:17:31,692
+Vous trouvez que je plaisante ?
+
+313
+00:17:32,686 --> 00:17:34,562
+C'est horrible. C'est la réalité.
+
+314
+00:17:35,388 --> 00:17:36,381
+Donc, tant que je suis là,
+
+315
+00:17:36,396 --> 00:17:41,313
+je veux apporter quelque chose de positif
+de mon expérience personnelle à ces enfants.
+
+316
+00:17:42,246 --> 00:17:42,953
+Ils vont me perdre
+
+317
+00:17:42,958 --> 00:17:44,482
+et je veux qu'ils comprennent pourquoi.
+
+318
+00:17:46,478 --> 00:17:48,571
+Je ne veux pas qu'ils croient que je suis une sorte de tragédie.
+
+319
+00:17:48,578 --> 00:17:50,191
+Je veux qu'ils soient préparés.
+
+320
+00:17:52,607 --> 00:17:55,130
+C'est la seule façon de donner un sens à tout ça.
+
+321
+00:18:06,015 --> 00:18:13,183
+- Donc... quel est le numéro de la mère ?
+- Je vais le composer pour vous.
+
+322
+00:18:19,426 --> 00:18:21,001
+- Mais je ne veux pas partir.
+- On dois y aller.
+
+323
+00:18:21,026 --> 00:18:21,692
+Pourquoi ?
+
+324
+00:18:21,807 --> 00:18:24,512
+Parce que cet homme menace notre famille.
+
+325
+00:18:24,537 --> 00:18:25,650
+Alors pourquoi papa ne l'arrête pas ?
+
+326
+00:18:25,668 --> 00:18:27,133
+Il l'a fait, mais il s'est échappé
+on ne sait pas  comment,
+
+327
+00:18:27,137 --> 00:18:29,463
+et maintenant ton père s'inquiète
+qu'il s'en prenne à nous.
+
+328
+00:18:30,155 --> 00:18:32,020
+- Les lits en plus sont arrivés ?
+- Pas encore.
+
+329
+00:18:32,255 --> 00:18:34,282
+Ok, je veux que vous appeliez Miami
+et que vous trouviez où ils sont.
+
+330
+00:18:34,285 --> 00:18:36,040
+Ils pensent qu'on en a pas besoin, Dr. Underlay.
+
+331
+00:18:36,048 --> 00:18:38,342
+Ce n'est pas à eux de décider. 
+Obtenez-les.
+
+332
+00:18:41,507 --> 00:18:43,153
+On part de chez Russell cet après-midi.
+
+333
+00:18:43,235 --> 00:18:44,683
+- Papa aussi ?
+- Papa aussi.
+
+334
+00:18:44,765 --> 00:18:45,910
+Mais si cet ouragan vient vraiment ici,
+
+335
+00:18:45,918 --> 00:18:47,252
+comment papa peut quitter la ville ?
+
+336
+00:18:47,358 --> 00:18:49,072
+Enfin, il n'est pas
+responsable en cas d'urgence ?
+
+337
+00:18:49,087 --> 00:18:50,653
+Kira, tu ne m'écoutes pas.
+
+338
+00:18:51,008 --> 00:18:52,942
+Cet homme et d'autres comme lui
+
+339
+00:18:52,945 --> 00:18:56,211
+en veulent à notre famille.
+On doit partir.
+
+340
+00:18:56,557 --> 00:18:57,401
+Et Lewis ?
+
+341
+00:18:58,938 --> 00:19:03,543
+- Il ira bien. Il est en sécurité ici.
+- On le laisse ?
+
+342
+00:19:04,436 --> 00:19:05,323
+Pas pour toujours, chérie.
+
+343
+00:19:05,328 --> 00:19:06,271
+- Non...
+- Kira...
+
+344
+00:19:06,448 --> 00:19:08,801
+Non. Je ne le laisserai pas.
+
+345
+00:19:10,217 --> 00:19:11,913
+- Kira !
+- Je ne pars pas !
+
+346
+00:19:12,608 --> 00:19:13,873
+Kira, reviens ici !
+
+347
+00:19:56,145 --> 00:19:58,370
+- Lewis.
+- Monsieur.
+
+348
+00:19:58,908 --> 00:20:00,251
+Pourquoi es-tu debout ?
+
+349
+00:20:01,297 --> 00:20:02,220
+Tout va bien, monsieur.
+
+350
+00:20:02,656 --> 00:20:03,761
+Des nouvelles de Kira ?
+
+351
+00:20:05,326 --> 00:20:06,050
+Non.
+
+352
+00:20:08,906 --> 00:20:10,130
+Pas encore.
+
+353
+00:20:10,146 --> 00:20:12,040
+Mais je viens d'arriver. On va la trouver.
+
+354
+00:20:14,585 --> 00:20:16,510
+Il y a un ouragan qui approche, non ?
+
+355
+00:20:17,907 --> 00:20:18,760
+Oui.
+
+356
+00:20:20,487 --> 00:20:23,432
+- C'est un gros, n'est-ce pas ?
+- Oh oui.
+
+357
+00:20:26,077 --> 00:20:27,843
+Trouvez-la, monsieur.
+
+358
+00:20:34,755 --> 00:20:35,803
+Donnez moi une minute, d'accord ?
+
+359
+00:20:35,808 --> 00:20:37,042
+Et on arrive.
+
+360
+00:20:37,607 --> 00:20:40,700
+- Et si ils ne trouvent pas Kira ?
+- Ils la trouveront.
+
+361
+00:20:41,346 --> 00:20:43,692
+Tom est à l'hôpital. Mariel
+fait chercher son équipe.
+
+362
+00:20:43,727 --> 00:20:44,392
+Ne t'inquiète pas.
+
+363
+00:20:45,856 --> 00:20:47,223
+J'ai l'impression que
+tout est ma faute, Papa.
+
+364
+00:20:47,225 --> 00:20:48,782
+Si je n’avais pas été avec ces types,
+
+365
+00:20:48,786 --> 00:20:50,462
+alors Lewis n'aurait pas été à l'hôpital,
+
+366
+00:20:50,468 --> 00:20:52,201
+et Kira serait en sécurité.
+
+367
+00:20:53,458 --> 00:20:55,921
+Jess, Kira a ses problèmes.
+Ce  n'est pas ta faute.
+
+368
+00:20:57,225 --> 00:21:00,441
+Et tu penses qu'elle
+est amoureuse de lui ?
+
+369
+00:21:02,647 --> 00:21:04,530
+Parce que je l'ai vu dans
+la pièce, et elle était,
+
+370
+00:21:05,626 --> 00:21:07,151
+je ne sais pas, elle le regardait comme si
+
+371
+00:21:08,087 --> 00:21:09,472
+elle l'aimait plus qu'un ami.
+
+372
+00:21:11,065 --> 00:21:13,363
+- Ca te dérange ?
+- Je ne sais pas.
+
+373
+00:21:15,596 --> 00:21:17,502
+Ouais. Ouais, peut-être.
+
+374
+00:21:18,277 --> 00:21:19,571
+Mais tu vois...
+
+375
+00:21:21,007 --> 00:21:22,630
+Je ne sais pas. Je sais plus là.
+
+376
+00:21:24,126 --> 00:21:25,030
+Jesse...
+
+377
+00:21:27,417 --> 00:21:30,551
+Les prochains jours vont
+être difficiles, ok ?
+
+378
+00:21:30,558 --> 00:21:31,863
+J'aurai besoin de toi ici
+
+379
+00:21:32,177 --> 00:21:34,680
+pour ta mère, ta petite soeur,
+pour Larkin, pour tout le monde.
+
+380
+00:21:34,926 --> 00:21:39,591
+Mais peu importe combien les choses
+empirent, ce n'est pas de ta faute.
+
+381
+00:21:43,026 --> 00:21:47,561
+- Bien, où sera-tu ?
+- Je serai à l'intérieur.
+
+382
+00:21:59,135 --> 00:22:00,251
+C'est bien de voir qu'une personne
+
+383
+00:22:00,258 --> 00:22:02,063
+ici ne me prend pas pour un fou.
+
+384
+00:22:02,368 --> 00:22:04,061
+Oh, non, je pense toujours que tu es fou,
+
+385
+00:22:04,877 --> 00:22:06,331
+mais s'ils ferment Blackpoint,
+
+386
+00:22:06,338 --> 00:22:08,370
+j'imagine que quelqu'un
+sait quelque chose.
+
+387
+00:22:08,657 --> 00:22:11,023
+- Qui ferme la zone ?
+- Le chef.
+
+388
+00:22:11,208 --> 00:22:14,673
+Vargas a appelé et a dit que personne
+n'y était autorisé pendant 72 heures.
+
+389
+00:22:15,417 --> 00:22:17,751
+- A cause de l'ouragan ?
+- J'imagine.
+
+390
+00:22:18,465 --> 00:22:19,923
+Ce matin, Vargas a dit que
+personne dans ce département
+
+391
+00:22:19,926 --> 00:22:21,801
+ne pensait que l'ouragan venait par ici.
+
+392
+00:22:22,008 --> 00:22:24,730
+- Eh bien, ils ont peut-être changé d'avis, Russ.
+- Nan.
+
+393
+00:22:25,405 --> 00:22:26,362
+Impossible.
+
+394
+00:22:27,297 --> 00:22:28,850
+Tu quittes la ville, j'espère.
+
+395
+00:22:29,315 --> 00:22:31,883
+Oui, je vais chez ma soeur à Jacksonville,
+
+396
+00:22:31,886 --> 00:22:33,843
+même si elle pense que
+ça vient là haut, aussi.
+
+397
+00:22:37,018 --> 00:22:38,192
+Tu fais quoi avec ça ?
+
+398
+00:22:38,775 --> 00:22:39,732
+Je les emprunte.
+
+399
+00:22:43,316 --> 00:22:46,461
+Ecoute, je t'ai dit ce
+que je pensais de ça, Russ.
+
+400
+00:22:46,966 --> 00:22:47,793
+Ce monde change.
+
+401
+00:22:47,798 --> 00:22:49,740
+Tu suis le mouvement, ou tu te fais éjecter.
+
+402
+00:22:49,987 --> 00:22:51,083
+Vargas a toujours été un politicien.
+
+403
+00:22:51,087 --> 00:22:52,481
+Il ira là où le vent souffle,
+
+404
+00:22:52,497 --> 00:22:54,283
+et si le vent souffle vers Blackpoint...
+
+405
+00:22:54,287 --> 00:22:56,391
+ça va exploser de partout.
+
+406
+00:22:57,457 --> 00:22:58,850
+Qu'est-ce qu'il y a de spécial là-bas ?
+
+407
+00:23:02,408 --> 00:23:04,353
+Oui, Mme Wade. Désolé de vous
+avoir ratée tout à l'heure.
+
+408
+00:23:04,355 --> 00:23:06,750
+Mais les choses étaient un peu folles ici.
+
+409
+00:23:07,366 --> 00:23:10,401
+Rose ne reviendra probablement
+pas à l'école avant...
+
+410
+00:23:12,937 --> 00:23:14,752
+euh, la semaine prochaine.
+
+411
+00:23:15,228 --> 00:23:16,441
+mais si vous donnez ses devoirs à Dave,
+
+412
+00:23:16,446 --> 00:23:17,760
+nous lui ferons faire.
+
+413
+00:23:19,225 --> 00:23:19,890
+Très bien.
+
+414
+00:23:20,905 --> 00:23:21,550
+Merci.
+
+415
+00:23:24,488 --> 00:23:25,841
+J'aurais dû lui dire ?
+
+416
+00:23:27,108 --> 00:23:28,423
+Elle a tous ces enfants là-bas.
+
+417
+00:23:28,836 --> 00:23:30,640
+Les écoles seront fermées demain.
+
+418
+00:23:31,087 --> 00:23:33,150
+C'est une chose que le
+maire a accordé aujourd'hui.
+
+419
+00:23:34,557 --> 00:23:35,422
+Et Kira ?
+
+420
+00:23:36,576 --> 00:23:38,163
+Je vais passer à la
+maison, voir si elle y est.
+
+421
+00:23:38,437 --> 00:23:39,102
+J'ai appelé, Tom.
+
+422
+00:23:39,108 --> 00:23:41,350
+Peut-être qu'elle ne répond pas.
+Retrouve moi chez Russell, dans une heure.
+
+423
+00:23:41,365 --> 00:23:43,100
+- D'accord ?
+- Et si on ne la trouve pas ?
+
+424
+00:23:43,397 --> 00:23:44,332
+Il le faut.
+
+425
+00:24:19,948 --> 00:24:20,772
+Hé, Shérif.
+
+426
+00:24:21,885 --> 00:24:23,911
+Je discutais avec votre fille.
+
+427
+00:24:23,916 --> 00:24:25,632
+Je vois ça. Sors de la voiture, chérie.
+
+428
+00:24:27,747 --> 00:24:28,632
+Déverrouillez la porte.
+
+429
+00:24:29,487 --> 00:24:31,113
+Elle a l'air en colère.
+
+430
+00:24:33,295 --> 00:24:34,591
+Déverrouillez la porte, agent.
+
+431
+00:24:47,098 --> 00:24:48,420
+Va à l'hôpital et restes-y.
+
+432
+00:24:48,557 --> 00:24:50,173
+- Mais, Papa, pourquoi...
+- Maintenant !
+
+433
+00:24:50,935 --> 00:24:51,742
+Vas-y !
+
+434
+00:24:57,807 --> 00:24:58,701
+Que faites-vous là ?
+
+435
+00:24:58,717 --> 00:24:59,773
+Je prenais une pause,
+
+436
+00:24:59,777 --> 00:25:03,303
+et j'ai vu votre fille,
+elle semblait si triste.
+
+437
+00:25:05,178 --> 00:25:06,502
+<i>M. Munger, vous êtes là ?</i>
+
+438
+00:25:09,887 --> 00:25:12,212
+Sortez de la voiture.
+Sortez de la voiture !
+
+439
+00:25:12,455 --> 00:25:14,621
+<i> M. Munger, c'est Szura.
+Vous êtes là ?</i>
+
+440
+00:25:16,288 --> 00:25:17,962
+<i> M. Munger, êtes-vous à l'hôpital ?</i>
+
+441
+00:25:19,298 --> 00:25:21,010
+Oui, Eli. On est toujours à l'hôpital.
+
+442
+00:25:22,226 --> 00:25:24,322
+Et je viens te chercher, fils de pute !
+
+443
+00:25:26,025 --> 00:25:26,983
+Bouge !
+
+444
+00:25:31,198 --> 00:25:31,990
+Où est-il ?
+
+445
+00:25:33,985 --> 00:25:34,803
+Je ne sais pas.
+
+446
+00:25:35,758 --> 00:25:37,713
+Arrête de mentir. Qu'est-ce qu'il
+essaiye de vous vendre, Munger ?
+
+447
+00:25:37,717 --> 00:25:38,821
+Il n'a rien eu à me vendre.
+
+448
+00:25:38,828 --> 00:25:41,853
+- On a tous vu ce qui est arrivé à Lewis.
+- Lewis, quoi ? Vous me mettez ça dessus ?
+
+449
+00:25:41,855 --> 00:25:44,032
+On ne peut pas rester là et
+attendre d'être en majorité.
+
+450
+00:25:44,277 --> 00:25:46,092
+On ne nous laisserait pas.
+On doit être proactifs.
+
+451
+00:25:46,095 --> 00:25:49,411
+Et Szura comprend ça.
+Szura protégera ses gens.
+
+452
+00:25:49,417 --> 00:25:52,010
+- Szura est un malade. Il va nous faire tuer.
+- Vous, peut-être.
+
+453
+00:25:54,806 --> 00:25:56,012
+Où cache-t'il les autres ?
+
+454
+00:25:58,407 --> 00:25:59,853
+Où les cache-t'il ?
+
+455
+00:26:00,046 --> 00:26:01,892
+Si tu veux me butter, vas-y.
+
+456
+00:26:02,498 --> 00:26:03,951
+Vous pensez que ça
+changera quelque chose ?
+
+457
+00:26:04,766 --> 00:26:05,880
+Vous êtes un fossile.
+
+458
+00:26:06,145 --> 00:26:09,643
+Vous et votre famille... tous
+des dinosaures et tous mort,
+
+459
+00:26:09,777 --> 00:26:11,480
+alors allez-y, tirez !
+
+460
+00:26:14,945 --> 00:26:15,643
+J'espère que
+
+461
+00:26:15,645 --> 00:26:17,662
+je pourrirai avec votre
+fille dans le cimetière.
+
+462
+00:26:22,257 --> 00:26:23,480
+Tu n'iras pas si loin.
+
+463
+00:27:30,925 --> 00:27:32,832
+On est bon. Je pense
+que ça va marcher impec.
+
+464
+00:27:33,496 --> 00:27:35,250
+Hé, on est en direct
+dans 5 minutes, Larkin !
+
+465
+00:27:47,198 --> 00:27:47,870
+<i>Allô ?</i>
+
+466
+00:27:47,967 --> 00:27:49,532
+Hé, on regarde.
+
+467
+00:27:49,596 --> 00:27:50,621
+Où êtes-vous ?
+
+468
+00:27:50,627 --> 00:27:52,653
+<i>On rentre en passant par Blackpoint.</i>
+
+469
+00:27:52,996 --> 00:27:55,280
+- Y a quoi là-bas ?
+- C'est la question.
+
+470
+00:27:55,287 --> 00:27:56,632
+Le chef l'a fait fermer,
+je veux savoir pourquoi.
+
+471
+00:27:56,638 --> 00:27:57,840
+Tu ne seras pas en retard, n'est-ce pas ?
+
+472
+00:28:00,295 --> 00:28:02,380
+- Non.
+- Je suis fier de toi.
+
+473
+00:28:07,757 --> 00:28:08,930
+Alors, Rose, je veux que tu travailles sur
+
+474
+00:28:08,938 --> 00:28:11,621
+tous ces mots quand tu
+ne seras pas là, ok ?
+
+475
+00:28:12,228 --> 00:28:14,401
+Et quand tu reviendras,
+on fera un test.
+
+476
+00:28:15,116 --> 00:28:15,920
+Voilà.
+
+477
+00:28:16,546 --> 00:28:19,132
+- Ok, merci, Mme Wade.
+- Je t'en prie.
+
+478
+00:28:20,295 --> 00:28:21,153
+Allez, petite.
+
+479
+00:28:23,708 --> 00:28:24,800
+Euh...
+
+480
+00:28:26,466 --> 00:28:28,600
+Vous savez cet ouragan
+qui va frapper au nord ?
+
+481
+00:28:28,888 --> 00:28:31,193
+Ne me demandez pas
+comme je le sais mais...
+
+482
+00:28:31,468 --> 00:28:32,321
+Il arrive ici ?
+
+483
+00:28:33,445 --> 00:28:34,192
+Oui.
+
+484
+00:28:34,515 --> 00:28:35,432
+Oui, comment vous le savez ?
+
+485
+00:28:35,667 --> 00:28:37,122
+La vie est imprévisible.
+
+486
+00:28:39,356 --> 00:28:40,051
+Ouais.
+
+487
+00:28:41,065 --> 00:28:45,592
+- Heureux de vous avoir rencontré M. Groves.
+- Moi aussi, Mme Wade.
+
+488
+00:28:46,458 --> 00:28:48,590
+Euh, écoutez, en fait...
+
+489
+00:28:49,557 --> 00:28:53,371
+Ca vous dérange si...
+j'ai ma caméra juste là.
+
+490
+00:28:53,375 --> 00:28:55,853
+- Je peux vous filmer rapidement ?
+- Me filmer ?
+
+491
+00:28:56,588 --> 00:28:59,072
+Oui, enfin, vous pouvez dire
+juste quelques mots si vous voulez,
+
+492
+00:28:59,075 --> 00:29:02,181
+mais, je fais un documentaire.
+
+493
+00:29:02,795 --> 00:29:03,561
+Sur quoi ?
+
+494
+00:29:03,858 --> 00:29:06,033
+Les trucs... qui se passent en ville.
+
+495
+00:29:06,485 --> 00:29:07,341
+La vie.
+
+496
+00:29:08,918 --> 00:29:10,052
+Ok.
+
+497
+00:29:10,115 --> 00:29:10,713
+Mesdames et messieurs,
+
+498
+00:29:10,716 --> 00:29:12,951
+la prof que vous auriez rêvé d'avoir,
+
+499
+00:29:13,887 --> 00:29:15,112
+mais que vous n'avez pas eu...
+
+500
+00:29:16,556 --> 00:29:18,902
+- Quel est votre prénom ?
+- Erica.
+
+501
+00:29:19,618 --> 00:29:21,010
+Melle Erica Wade.
+
+502
+00:29:22,428 --> 00:29:23,831
+Bon, alors, que dois-je dire ?
+
+503
+00:29:24,447 --> 00:29:25,770
+Je ne sais pas. Commencez avec, heu...
+
+504
+00:29:26,016 --> 00:29:27,142
+ce que vous voulez. 
+Je ne sais pas.
+
+505
+00:29:27,148 --> 00:29:28,920
+- Parlez de...
+- La météo ?
+
+506
+00:29:28,928 --> 00:29:30,512
+Non, pas la météo. C'est...
+
+507
+00:29:30,516 --> 00:29:32,913
+- tout le monde parle de la météo.
+- Vous voulez une chanson ?
+
+508
+00:29:33,025 --> 00:29:36,801
+Non, non, je ne veux pas entendre une chanson.
+
+509
+00:29:36,996 --> 00:29:38,450
+Vous pouvez commencez par...
+
+510
+00:29:41,088 --> 00:29:43,520
+Je sais que vous êtes occupée,
+
+511
+00:29:43,678 --> 00:29:45,440
+alors vous pourriez dire
+
+512
+00:29:45,776 --> 00:29:48,101
+vous me laisserez revenir
+et vous parler une autre fois.
+
+513
+00:29:49,647 --> 00:29:53,972
+Et peut-être me laisserez-vous 
+vous inviter à boire un café.
+
+514
+00:29:53,978 --> 00:29:55,123
+Vous pourriez dire ça.
+
+515
+00:29:56,245 --> 00:30:01,340
+Et peut-être vous pourriez me dire
+que quand l'ouragan se terminera,
+
+516
+00:30:01,346 --> 00:30:03,023
+vous prendrez soin de vous.
+
+517
+00:30:05,188 --> 00:30:06,283
+Qu'en dites-vous ?
+
+518
+00:30:06,988 --> 00:30:07,931
+Oui.
+
+519
+00:30:08,666 --> 00:30:09,383
+Oui ?
+
+520
+00:30:14,368 --> 00:30:15,142
+Ok.
+
+521
+00:30:21,298 --> 00:30:22,160
+Lewis...
+
+522
+00:30:25,045 --> 00:30:26,282
+Lewis, je suis désolée.
+
+523
+00:30:26,348 --> 00:30:27,642
+Je suis désolée d'être partie si longtemps.
+
+524
+00:30:27,648 --> 00:30:28,931
+J'avais besoin de temps.
+
+525
+00:30:29,068 --> 00:30:30,920
+J'ai prié pour toi tout le temps.
+
+526
+00:30:32,026 --> 00:30:33,682
+Tu dois aller avec ta famille maintenant.
+
+527
+00:30:33,687 --> 00:30:35,242
+- Je veux que tu viennes.
+- Je ne peux pas.
+
+528
+00:30:35,245 --> 00:30:37,171
+Je dois rester là. J'irai bien.
+
+529
+00:30:37,266 --> 00:30:39,411
+-Je ne veux pas te quitter, Lewis.
+- Je ne te quitterai pas.
+
+530
+00:30:39,496 --> 00:30:41,352
+Je serai là. Je t'attendrai.
+
+531
+00:30:43,475 --> 00:30:44,752
+Je t'attendrai toujours.
+
+532
+00:31:00,886 --> 00:31:02,853
+Kira, on doit y aller.
+
+533
+00:31:09,068 --> 00:31:09,851
+Tout va bien.
+
+534
+00:31:11,525 --> 00:31:12,412
+Tout va bien.
+
+535
+00:31:41,096 --> 00:31:43,530
+<i>Alors que, comme vous pouvez le voir,
+le vent a augmenté considérablement,</i>
+
+536
+00:31:43,866 --> 00:31:45,613
+<i>et que vous avez entendu les bulletins d'alerte</i>
+
+537
+00:31:45,618 --> 00:31:47,623
+disant que l'ouragan Miranda se dirige
+
+538
+00:31:47,626 --> 00:31:48,832
+sur West Palm Beach,
+
+539
+00:31:49,935 --> 00:31:52,422
+on sait maintenant qu'il va changer de trajectoire
+
+540
+00:31:52,956 --> 00:31:55,023
+et se diriger tout droit sur Homestead.
+
+541
+00:31:55,425 --> 00:31:57,750
+<i>Les habitants devraient se préparer à des vents</i>
+
+542
+00:31:57,758 --> 00:31:59,792
+<i>allant jusqu'à 240km/h,</i>
+
+543
+00:32:00,008 --> 00:32:01,953
+<i>de dangereux éclairs et d'importantes innondations.</i>
+
+544
+00:32:02,716 --> 00:32:05,402
+<i>Je vous conseille de faire des stocks de nourriture,
+d'eau et d'équipement.</i>
+
+545
+00:32:05,407 --> 00:32:06,691
+Mais qu'est-ce qu'elle fait ?
+
+546
+00:32:08,167 --> 00:32:09,122
+Coupez-la.
+
+547
+00:32:09,405 --> 00:32:12,052
+- On ne peut pas.
+- Contactez Paul.
+
+548
+00:32:12,506 --> 00:32:15,252
+<i>Evacuez immédiatement dans un des abris plus au nord.</i>
+
+549
+00:32:15,317 --> 00:32:17,011
+<i>Je comprends. Je suis désolé, les amis.</i>
+
+550
+00:32:17,016 --> 00:32:18,823
+<i>Il y a eu une confusion.</i>
+
+551
+00:32:19,248 --> 00:32:21,371
+<i>Il n'y a aucune confimation quelle qu'elle soit</i>
+
+552
+00:32:21,376 --> 00:32:23,021
+<i>du service météo</i>
+
+553
+00:32:23,156 --> 00:32:25,203
+<i>que cet ouragan se dirige sur Homestead.</i>
+
+554
+00:32:26,055 --> 00:32:27,001
+<i>Ainsi donc...</i>
+
+555
+00:32:28,418 --> 00:32:29,203
+Eteins-le.
+
+556
+00:32:31,206 --> 00:32:33,071
+Au moins, on a diffusé l'histoire.
+
+557
+00:32:33,147 --> 00:32:34,412
+Elle a dit le plus important.
+
+558
+00:32:37,075 --> 00:32:38,143
+Reste-là 2 secondes, ok ?
+
+559
+00:32:40,898 --> 00:32:42,431
+J'ai fait tout ce que vous m'avez demandé,
+
+560
+00:32:42,435 --> 00:32:44,133
+mais je dois y aller et j'ai besoin de mon argent.
+
+561
+00:32:44,686 --> 00:32:46,173
+<i>Vous serez payé quand ce sera fini.</i>
+
+562
+00:32:46,858 --> 00:32:49,381
+Je ne peux pas attendre si longtemps ! 
+Je ne suis pas comme vous autres.
+
+563
+00:32:49,388 --> 00:32:52,521
+Je ne peux pas me cacher dans une piscine.
+
+564
+00:32:53,047 --> 00:32:53,870
+Frank !
+
+565
+00:32:55,188 --> 00:32:56,301
+Je vous rappelle plus tard.
+
+566
+00:32:56,678 --> 00:32:57,452
+Hé, Russell.
+
+567
+00:32:58,227 --> 00:32:59,243
+Qu'est-ce que tu fais là ?
+
+568
+00:32:59,546 --> 00:33:01,641
+Je suis venu voir pourquoi toute cette agitation.
+
+569
+00:33:03,767 --> 00:33:06,790
+- A qui tu parlais ?
+- Personne. Laisse Tomber.
+
+570
+00:33:06,796 --> 00:33:07,641
+On ne devrait pas être là.
+
+571
+00:33:07,658 --> 00:33:09,001
+De quoi tu parles "on ne devrait pas être là" ?
+
+572
+00:33:09,167 --> 00:33:09,931
+- Où tu vas ?
+- Le chef dit...
+
+573
+00:33:09,936 --> 00:33:11,723
+Le chef dit quoi ? Je viens juste de lui parler.
+
+574
+00:33:12,017 --> 00:33:15,102
+- Il n'a pas donné l'ordre de fermer cet endroit.
+- Russell...
+
+575
+00:33:15,168 --> 00:33:16,832
+- Non, Frank, non.
+- Russell...
+
+576
+00:33:16,838 --> 00:33:19,551
+Non, pourquoi tu l'as fait, et à qui tu parlais ?
+
+577
+00:33:19,817 --> 00:33:21,821
+- Personne.
+- A qui tu parlais, Franck ?
+
+578
+00:33:22,257 --> 00:33:23,662
+Russell, Russell !
+
+579
+00:33:24,256 --> 00:33:25,403
+Tu travailles pour Szura, Frank ?
+
+580
+00:33:25,538 --> 00:33:26,912
+C'est ça ? Tu es l'un d'eux ?
+
+581
+00:33:27,328 --> 00:33:29,152
+- Tu es l'un deux, Frank?
+- Non, non !
+
+582
+00:33:29,155 --> 00:33:31,123
+Tu es l'un d'eux ! T'es l'un d'eux, hein ?
+
+583
+00:33:33,518 --> 00:33:34,520
+Je... je ne suis pas l'un d'eux !
+
+584
+00:33:34,648 --> 00:33:36,722
+Alors tu as vendu ton propre peuple,
+fils de pute !
+
+585
+00:33:37,466 --> 00:33:39,640
+Tu aimes l'eau ? Tu aimes la sensation, Franck ?
+
+586
+00:33:39,648 --> 00:33:41,200
+- Tu aimes ça ?
+- Papa !
+
+587
+00:33:48,668 --> 00:33:49,911
+Qu'est-ce qui se passe, Frank?
+
+588
+00:33:50,185 --> 00:33:51,303
+Pourquoi t'as fait ça ?
+
+589
+00:33:52,187 --> 00:33:53,340
+Regarde !
+
+590
+00:33:54,295 --> 00:33:55,300
+Regarde quoi ?
+
+591
+00:33:55,506 --> 00:33:56,393
+Ca !
+
+592
+00:34:35,227 --> 00:34:37,462
+- T'es sûr qu'ils venaient tous de l'île ?
+- Certain.
+
+593
+00:34:37,636 --> 00:34:39,642
+- Et pour ce Vargas ?
+- Il est payé par Szura.
+
+594
+00:34:39,656 --> 00:34:41,703
+Il a contrôlé la zone pour que personne
+ne les trouve.
+
+595
+00:34:42,145 --> 00:34:44,120
+Tu dois envoyer certains de tes hommes
+là-bas maintenant.
+
+596
+00:34:44,296 --> 00:34:45,712
+Je ne sais plus qui j'ai de disponible, Russell.
+
+597
+00:34:45,718 --> 00:34:47,550
+Szura a aussi infiltré mon département.
+
+598
+00:34:47,565 --> 00:34:49,843
+- Ils ne peuvent pas tous être des hybrides.
+- Vargas l'était ?
+
+599
+00:34:50,436 --> 00:34:52,793
+Quand les gens ont peur, ils suivraient n'importe qui.
+
+600
+00:34:53,256 --> 00:34:54,333
+Je ne sais plus à qui je peux faire confiance,
+
+601
+00:34:54,336 --> 00:34:55,963
+mais on a pas le temps pour le découvrir.
+
+602
+00:34:56,377 --> 00:34:58,760
+- Tu sais ce qu'on doit faire.
+- Tom !
+
+603
+00:34:59,627 --> 00:35:00,713
+On est prêt à partir.
+
+604
+00:35:03,976 --> 00:35:05,003
+C'est la seule façon, Russ.
+
+605
+00:35:09,556 --> 00:35:12,350
+- Okay, chérie. Carlita va bien ?
+- Oui.
+
+606
+00:35:12,378 --> 00:35:13,562
+Ok, je veux juste que tu ailles à l'arrière.
+
+607
+00:35:13,566 --> 00:35:16,803
+- Mariel, quelle voiture ?
+- La mienne !
+
+608
+00:35:17,778 --> 00:35:18,523
+On se dépêche !
+
+609
+00:35:19,105 --> 00:35:19,962
+Merci.
+
+610
+00:35:21,378 --> 00:35:22,143
+Hé, maman.
+
+611
+00:35:23,876 --> 00:35:25,352
+Je suis content qu'on y aille ensemble.
+
+612
+00:35:30,728 --> 00:35:31,510
+Moi aussi.
+
+613
+00:35:34,696 --> 00:35:36,730
+- Tu dois venir avec nous.
+- Non.
+
+614
+00:35:36,846 --> 00:35:37,811
+Personne me recherche, ok ?
+
+615
+00:35:37,815 --> 00:35:39,602
+Je vais rester ici, tout enregistrer
+sur cette cassette.
+
+616
+00:35:39,606 --> 00:35:42,013
+- Je vais prouver au monde que je ne suis pas fou.
+- Tu pourrais mourir !
+
+617
+00:35:43,526 --> 00:35:44,373
+On pourrait tous mourir.
+
+618
+00:35:46,185 --> 00:35:48,112
+Mais je pourrais aussi sauver votre maison
+
+619
+00:35:48,367 --> 00:35:51,840
+et peut-être la civilisation pendant que j'y suis, ok ?
+
+620
+00:35:51,846 --> 00:35:53,692
+Alors laisse-moi seul, tu veux ?
+
+621
+00:35:53,765 --> 00:35:55,082
+Je reste, point final.
+
+622
+00:35:56,347 --> 00:35:58,833
+Larkin, hé. Allons-y.
+
+623
+00:35:58,836 --> 00:36:00,380
+J'ai protégé presque tout l'arrière.
+
+624
+00:36:00,388 --> 00:36:02,053
+J'essayerai de protéger le devant
+avant la Tombée de la nuit, d'accord ?
+
+625
+00:36:02,065 --> 00:36:02,851
+Merci, Dave.
+
+626
+00:36:03,657 --> 00:36:04,652
+Je ne veux pas le laisser.
+
+627
+00:36:05,137 --> 00:36:06,560
+Il ira bien. Il peut prendre soin de lui-même.
+
+628
+00:36:06,567 --> 00:36:08,613
+Non, il ne peut pas.
+
+629
+00:36:11,376 --> 00:36:13,203
+<i>Allez, chérie. On doit y aller.</i>
+
+630
+00:36:14,325 --> 00:36:15,202
+Allez.
+
+631
+00:36:15,547 --> 00:36:16,301
+D'accord.
+
+632
+00:36:20,285 --> 00:36:22,123
+Depuis que Larkin a tout raconté à la télé,
+il y aura plus de gens
+
+633
+00:36:22,125 --> 00:36:24,093
+sur l'autoroute qu'avant.
+
+634
+00:36:24,195 --> 00:36:25,222
+Si les routes pour y accéder ne sont pas bloquées,
+
+635
+00:36:25,226 --> 00:36:26,311
+je peux nous faire traverser par les clairières.
+
+636
+00:36:26,328 --> 00:36:28,311
+- Du moins jusqu'à l'allée des alligators.
+- On te suit.
+
+637
+00:36:28,546 --> 00:36:29,343
+Très bien.
+
+638
+00:36:39,315 --> 00:36:41,160
+- Hé, Dave !
+- Oui ?
+
+639
+00:36:45,507 --> 00:36:46,730
+On se voit bientôt.
+
+640
+00:37:32,935 --> 00:37:34,092
+Pourquoi on s'arrête ?
+
+641
+00:37:35,388 --> 00:37:36,773
+Parce qu'on sort.
+
+642
+00:37:41,297 --> 00:37:43,030
+Combien de temps jusqu'à l'allée des alligators ?
+
+643
+00:37:43,038 --> 00:37:44,333
+Environ 1h30.
+
+644
+00:37:44,666 --> 00:37:45,973
+Si elles restent sur cette route,
+
+645
+00:37:46,437 --> 00:37:48,163
+une fois arrivées, elles n'auront pas de problème.
+
+646
+00:37:48,175 --> 00:37:49,723
+Qui n'aura pas de problème ?
+De quoi vous parlez ?
+
+647
+00:37:50,318 --> 00:37:52,893
+Larkin, on ne vient pas avec vous.
+
+648
+00:37:52,948 --> 00:37:55,123
+- Quoi?
+- Tom et moi devons faire demi-tour.
+
+649
+00:37:55,495 --> 00:37:56,411
+Y retourner ?
+
+650
+00:37:56,998 --> 00:37:58,981
+Tu n'y retourne pas. Szura vous tuera.
+Tous les 2.
+
+651
+00:37:59,646 --> 00:38:00,511
+Non, on en a parlé,
+
+652
+00:38:00,516 --> 00:38:03,313
+et c'est la seule façon.
+On devait vous faire partir.
+
+653
+00:38:03,478 --> 00:38:05,163
+On devait s'assurer que vous passiez les barrages,
+
+654
+00:38:05,168 --> 00:38:06,522
+et que vous soyiez en sécurité,
+mais on y retourne.
+
+655
+00:38:06,528 --> 00:38:09,451
+Connard, je ne te laisse pas nous faire ça.
+
+656
+00:38:09,787 --> 00:38:12,132
+Je ne vous laisserai pas faire.
+Vous n'êtes que 2 hommes.
+
+657
+00:38:12,138 --> 00:38:15,262
+Chérie, écoute-moi, c'est la seule façon, ok ?
+
+658
+00:38:15,566 --> 00:38:17,962
+Pour toi, pour les enfants, pour notre bébé,
+c'est la seule façon.
+
+659
+00:38:17,965 --> 00:38:19,452
+Non, ce n'est pas la seule façon.
+
+660
+00:38:19,728 --> 00:38:20,913
+Vous auriez pu nous dire la vérité.
+
+661
+00:38:21,728 --> 00:38:22,672
+Vous seriez parties ?
+
+662
+00:38:32,758 --> 00:38:34,162
+Qu'est-ce qu'on dit aux enfants ?
+
+663
+00:38:36,118 --> 00:38:37,311
+Dis-leur qu'on les aime...
+
+664
+00:38:37,938 --> 00:38:39,873
+et on vous aime. C'est pourquoi on fait ça.
+
+665
+00:38:43,638 --> 00:38:44,590
+On reviendra.
+
+666
+00:38:48,667 --> 00:38:49,961
+Vous devez y aller.
+
+667
+00:38:50,316 --> 00:38:51,181
+Allez.
+
+668
+00:39:06,585 --> 00:39:07,813
+Très bien, allons-y !
+

@@ -1,0 +1,3309 @@
+1
+00:00:00,165 --> 00:00:01,979
+Précédemment dans NCIS.
+
+2
+00:00:02,089 --> 00:00:04,041
+Galib, est-ce que les membres d'Abu ont infiltré le "SeaLift" ?
+
+3
+00:00:04,468 --> 00:00:05,495
+Ils sont sur le point.
+
+4
+00:00:05,666 --> 00:00:07,693
+Notre radio, Pinpin Pula,
+
+5
+00:00:08,189 --> 00:00:09,342
+fait partie d'Abu Sayyaf.
+
+6
+00:00:09,416 --> 00:00:11,163
+Il projette de faire sauter le "Cap Fear".
+
+7
+00:00:11,451 --> 00:00:13,289
+Ce serait aussi terrible que le 11 septembre.
+
+8
+00:00:14,788 --> 00:00:17,031
+Alors vous ne le connaissiez pas quand il a été blessé pendant "Tempête du désert" ?
+
+9
+00:00:17,103 --> 00:00:17,779
+Non.
+
+10
+00:00:18,055 --> 00:00:19,920
+Il semble répéter ce traumatisme.
+
+11
+00:00:20,041 --> 00:00:21,806
+Un coma dont il ne veut pas se réveiller.
+
+12
+00:00:21,819 --> 00:00:22,715
+Si Galib
+
+13
+00:00:22,966 --> 00:00:24,207
+avait des renseignements sur les plans d'Abu Sayyaf,
+
+14
+00:00:24,249 --> 00:00:25,603
+est-ce qu'il a eu le temps d'en parler à Gibbs ?
+
+15
+00:00:26,156 --> 00:00:26,770
+Peut-être.
+
+16
+00:00:26,845 --> 00:00:28,372
+Ils étaient ensemble quand la bombe a explosé.
+
+17
+00:00:28,456 --> 00:00:30,373
+Espérons que Gibbs sorte du coma
+
+18
+00:00:30,418 --> 00:00:31,201
+à temps.
+
+19
+00:00:31,576 --> 00:00:34,271
+Eh bien, Jethro ne parle pas beaucoup de son passé.
+
+20
+00:00:34,345 --> 00:00:37,643
+Je sais très peu de choses de sa vie avant que nous nous rencontrions.
+
+21
+00:01:00,008 --> 00:01:01,352
+Bon retour parmi nous, Jethro.
+
+22
+00:01:01,386 --> 00:01:02,632
+Vous avez été pris dans une explosion.
+
+23
+00:01:03,068 --> 00:01:04,070
+Je m'en souviens.
+
+24
+00:01:05,958 --> 00:01:06,950
+Je ne le connais pas.
+
+25
+00:01:14,636 --> 00:01:17,320
+NCIS -- Season 3 Episode 24 Hiatus (Part 2)
+www.forom.com www.team-ncis.com
+
+26
+00:01:17,428 --> 00:01:22,952
+Merci à toutes les personnes qui ont contribué aux ST
+de la saison 3 pendant toute l'année.
+
+27
+00:01:23,037 --> 00:01:33,001
+je citerais donc : BadGOne, Cyclop, g.snake, hugues, Isa, Max, Shal, samylo,
+Shadow, TheKind, Moustou, Mickey, T|T| et Marmotte.
+
+28
+00:01:34,157 --> 00:01:43,993
+Merci à tous ceux qui sont venu chercher les ST chez nous et
+n'hésitez pas à passer nous voir cet été sur www.team-ncis.com
+
+29
+00:01:59,308 --> 00:02:01,022
+Vous ne connaissez pas le Dr. Mallard ?
+
+30
+00:02:01,418 --> 00:02:01,920
+Ducky.
+
+31
+00:02:02,877 --> 00:02:04,760
+Ducky. Vous connaissez Ducky ?
+
+32
+00:02:06,936 --> 00:02:09,052
+Je suis déçu, Jethro.
+
+33
+00:02:09,548 --> 00:02:12,331
+La dernière fois que quelqu'un m'a oublié, j'étais un bébé.
+
+34
+00:02:12,758 --> 00:02:14,632
+Ma mère m'avait laissé sur le ferry
+
+35
+00:02:14,676 --> 00:02:15,981
+de Orkney, le John O'Groat.
+
+36
+00:02:16,036 --> 00:02:18,040
+Elle était dans un bus, à mi-chemin vers Thurso,
+
+37
+00:02:18,075 --> 00:02:19,003
+avant de se rendre compte qu'elle m'avait oublié.
+
+38
+00:02:19,798 --> 00:02:21,652
+Je me demande souvent si je n'ai pas inspiré
+
+39
+00:02:21,708 --> 00:02:23,910
+ce T-shirt humoristique.
+
+40
+00:02:24,148 --> 00:02:25,671
+"Oh, mon dieu ! J'ai laissé mon bébé dans le bus !"
+
+41
+00:02:25,886 --> 00:02:26,510
+Exact.
+
+42
+00:02:27,147 --> 00:02:29,603
+Tu te souviens que je t'ai raconté çà, Jethro ?
+
+43
+00:02:32,965 --> 00:02:34,461
+Je me souviens du T-shirt.
+
+44
+00:02:35,117 --> 00:02:36,371
+Mais pas de moi ?
+
+45
+00:02:38,828 --> 00:02:40,130
+Pas d'inquiétudes.
+
+46
+00:02:41,096 --> 00:02:41,840
+Ca viendra.
+
+47
+00:02:41,915 --> 00:02:43,743
+Absolument. Une perte temporaire de mémoire
+
+48
+00:02:43,797 --> 00:02:45,743
+était à prévoir. Ne vous inquiétez pas pour ça.
+
+49
+00:02:47,077 --> 00:02:48,183
+Vous respirez bien ?
+
+50
+00:02:50,536 --> 00:02:52,112
+Bonne nouvelle.
+
+51
+00:02:52,146 --> 00:02:54,121
+Posez-lui une canule nasale, Maria.
+
+52
+00:02:54,567 --> 00:02:55,560
+Vous vous en tirez bien.
+
+53
+00:02:59,715 --> 00:03:01,590
+Très bien, je vais juste vous enlever ça.
+
+54
+00:03:01,958 --> 00:03:03,940
+La plupart des blessures traumatiques à la tête conduisent
+
+55
+00:03:03,987 --> 00:03:06,082
+à des amnésies rétrogrades à court terme.
+
+56
+00:03:06,327 --> 00:03:08,483
+Mais pour effacer des années de mémoire,
+
+57
+00:03:08,728 --> 00:03:09,861
+son lobe temporal médian ou
+
+58
+00:03:09,885 --> 00:03:11,411
+l'hippocampe doit être endommagé.
+
+59
+00:03:11,477 --> 00:03:13,831
+Non, son scanner et l'EEG* sont normaux.
+[*EEG = électroencéphalogramme]
+
+60
+00:03:13,868 --> 00:03:15,093
+Et il se souvient de l'explosion,
+
+61
+00:03:15,125 --> 00:03:18,490
+je n'ai jamais eu de patient souffrant d'amnésie rétrograde se souvenant du traumatisme.
+
+62
+00:03:19,488 --> 00:03:19,932
+Jamais.
+
+63
+00:03:21,496 --> 00:03:22,500
+Très bien, allez-y.
+
+64
+00:03:27,428 --> 00:03:29,010
+Je ne pense pas que ce soit une amnésie rétrograde.
+
+65
+00:03:29,628 --> 00:03:30,842
+Je pense que c'est une dissociation.
+
+66
+00:03:31,205 --> 00:03:33,682
+Une répression émotionnelle de la mémoire ?
+
+67
+00:03:33,816 --> 00:03:35,252
+Sans dommages physiques au cerveau,
+
+68
+00:03:35,298 --> 00:03:37,343
+ce doit être psychologique.
+
+69
+00:03:37,396 --> 00:03:40,182
+Docteur, vous disiez que Gibbs ne parle pas de son passé.
+
+70
+00:03:40,226 --> 00:03:41,392
+Presque jamais.
+
+71
+00:03:41,605 --> 00:03:42,801
+Peut-être que cela lui est trop douloureux.
+
+72
+00:03:43,155 --> 00:03:45,983
+Ça pourrait expliquer le coma prolongé en 1991.
+
+73
+00:03:46,115 --> 00:03:48,433
+Mais ce coma-ci est le résultat d'une explosion.
+
+74
+00:03:48,477 --> 00:03:50,381
+Comment pourrait-il être psychologique ?
+
+75
+00:03:51,008 --> 00:03:52,971
+Et si ce coma avait provoqué une rechute ?
+
+76
+00:04:02,106 --> 00:04:02,913
+Alors comment vous sentez-vous ?
+
+77
+00:04:06,318 --> 00:04:07,142
+Désorienté.
+
+78
+00:04:07,805 --> 00:04:09,943
+Voyons voir si nous pouvons vous aider à combler les manques.
+
+79
+00:04:11,295 --> 00:04:12,530
+Vous vous souvenez de l'explosion ?
+
+80
+00:04:13,166 --> 00:04:14,010
+Oui.
+
+81
+00:04:14,866 --> 00:04:16,343
+Où étiez-vous quand c'est arrivé ?
+
+82
+00:04:18,438 --> 00:04:19,211
+Au Koweït.
+
+83
+00:04:23,886 --> 00:04:25,231
+J'ai de bonnes nouvelles.
+
+84
+00:04:26,108 --> 00:04:27,530
+Gibbs a repris connaissance.
+
+85
+00:04:27,568 --> 00:04:29,352
+Oui ! C'est génial !
+
+86
+00:04:29,775 --> 00:04:31,271
+Cependant, il y a aussi un problème.
+
+87
+00:04:32,766 --> 00:04:34,790
+Il a des pertes de mémoire.
+
+88
+00:04:35,267 --> 00:04:36,981
+Une amnésie rétrograde est tout à fait
+
+89
+00:04:37,025 --> 00:04:38,623
+normale après un traumatisme sévère.
+
+90
+00:04:38,667 --> 00:04:40,830
+Ça m'arrive à chaque fois que le patron me claque derrière la tête.
+
+91
+00:04:40,917 --> 00:04:43,012
+J'ai eu une amnésie après mon accident de voiture.
+
+92
+00:04:43,066 --> 00:04:45,240
+Ton auto-tamponneuse s'est fait rentré dedans à Legoland, bizut ?
+
+93
+00:04:45,286 --> 00:04:46,311
+Non Tony. Je t'ai déjà raconté
+
+94
+00:04:46,376 --> 00:04:48,271
+quand j'ai explosé ma Camaro à 16 ans.
+
+95
+00:04:48,296 --> 00:04:49,922
+Je ne me souviens toujours pas de ce jour-là.
+
+96
+00:04:50,445 --> 00:04:53,161
+Eh bien, l'amnésie de Gibbs remonte aux 15 dernières années.
+
+97
+00:04:54,727 --> 00:04:56,643
+Pour lui, c'est 1991,
+
+98
+00:04:56,747 --> 00:04:59,931
+et il est un sergent artilleur de la marine blessé pendant "Tempête du Désert".
+
+99
+00:05:00,898 --> 00:05:03,352
+Il ne sait pas qu'il est un agent spécial du NCIS ?
+
+100
+00:05:03,665 --> 00:05:04,682
+J'en doute.
+
+101
+00:05:05,258 --> 00:05:06,712
+Il n'a pas reconnu Ducky.
+
+102
+00:05:08,025 --> 00:05:09,151
+Attendez...
+
+103
+00:05:09,225 --> 00:05:11,960
+- S'il ne sait pas qui est Ducky...
+- Il ne se rappelle pas de nous.
+
+104
+00:05:12,056 --> 00:05:13,941
+Je suis sûre que c'est un état temporaire.
+
+105
+00:05:13,986 --> 00:05:15,121
+En attendant,
+
+106
+00:05:15,206 --> 00:05:18,173
+nous avons un terroriste d'Abu Sayyaf à appréhender.
+
+107
+00:05:20,967 --> 00:05:23,032
+Je ne sais vraiment rien de plus, Abby.
+
+108
+00:05:23,138 --> 00:05:24,370
+Est-ce que je peux aller le voir ?
+
+109
+00:05:25,275 --> 00:05:26,880
+Non, pas encore.
+
+110
+00:05:26,997 --> 00:05:30,233
+Son neurologue, le capitaine Gelfand, nous fera savoir quand il sera prêt.
+
+111
+00:05:30,976 --> 00:05:33,031
+Hum, est-ce que je peux courir aux toilettes ?
+
+112
+00:05:33,055 --> 00:05:34,852
+Je reviens tout de suite.
+
+113
+00:05:35,385 --> 00:05:38,282
+Si quelqu'un d'autre a besoin d'une pause pipi,
+
+114
+00:05:38,488 --> 00:05:39,630
+c'est le moment pour le faire.
+
+115
+00:05:39,687 --> 00:05:41,410
+Rendez-vous à 17:10.
+
+116
+00:05:44,566 --> 00:05:45,661
+Tu sais ce que ça signifie ?
+
+117
+00:05:46,268 --> 00:05:48,101
+La directrice prend le contrôle de l'enquête.
+
+118
+00:05:48,148 --> 00:05:50,082
+Probablement. Mais je pensais que si Gibbs
+
+119
+00:05:50,206 --> 00:05:52,173
+ne se souvient pas des 15 dernières années,
+
+120
+00:05:52,655 --> 00:05:53,642
+il sera un bizut.
+
+121
+00:05:54,656 --> 00:05:56,341
+Gibbs ne la laisserait jamais prendre le contrôle.
+
+122
+00:05:56,826 --> 00:05:57,943
+Pas l'ancien Gibbs.
+
+123
+00:05:59,245 --> 00:06:00,240
+Mais Gibbs le bizut... ?
+
+124
+00:06:03,285 --> 00:06:05,210
+- Directeur Sheppard...
+- Oui, Dinozzo ?
+
+125
+00:06:05,415 --> 00:06:07,350
+Je veux que vous compreniez que, en l'absence de Gibbs,
+
+126
+00:06:07,407 --> 00:06:10,462
+en tant qu'agent spécial senior de l'équipe, cette enquête est la mienne.
+
+127
+00:06:10,516 --> 00:06:11,950
+- Vraiment ?
+- Oui, elle l'est, madame.
+
+128
+00:06:12,136 --> 00:06:14,380
+Et si je contestais ce point ?
+
+129
+00:06:14,426 --> 00:06:16,050
+Alors vous seriez une idiote.
+
+130
+00:06:16,245 --> 00:06:17,911
+Et vous ne l'êtes pas, directeur.
+
+131
+00:06:19,035 --> 00:06:20,720
+Ce sera une longue
+
+132
+00:06:20,907 --> 00:06:22,500
+et difficile enquête.
+
+133
+00:06:22,908 --> 00:06:25,562
+Vous êtes surchargée de travail et personne ne connaît cette équipe
+
+134
+00:06:26,005 --> 00:06:26,793
+mieux que moi,
+
+135
+00:06:27,136 --> 00:06:28,521
+à part le patron.
+
+136
+00:06:29,077 --> 00:06:31,131
+Que, à l'évidence, je ne suis pas.
+
+137
+00:06:31,227 --> 00:06:34,380
+Je parlais, bien sûr, du patron de l'équipe, Gibbs.
+
+138
+00:06:35,188 --> 00:06:37,783
+Vous êtes le... Patron de l'agence.
+
+139
+00:06:39,265 --> 00:06:41,952
+Pas si vous continuez à me dire ce que je peux faire et ne pas faire.
+
+140
+00:06:42,388 --> 00:06:43,521
+Je ne ferais jamais ça, madame.
+
+141
+00:06:43,707 --> 00:06:46,100
+Alors... Qu'êtes-vous en train de me dire ?
+
+142
+00:06:47,665 --> 00:06:49,210
+Vous vous occupez de la trame générale
+
+143
+00:06:49,305 --> 00:06:51,210
+et vous me laissez m'occuper des détails.
+
+144
+00:06:54,031 --> 00:06:55,736
+J'en ai toujours eu l'intention, Tony.
+
+145
+00:06:57,199 --> 00:06:57,675
+Alors,
+
+146
+00:06:58,886 --> 00:07:01,227
+pourquoi m'avez-vous laissé vous dire tout ça à l'instant ?
+
+147
+00:07:01,349 --> 00:07:03,851
+Je voulais juste voir si vous aviez autant de tripes que Gibbs.
+
+148
+00:07:11,197 --> 00:07:13,551
+Quelle est la première chose dont vous vous souvenez après l'explosion ?
+
+149
+00:07:27,175 --> 00:07:29,893
+Est-ce que vous saviez que, quand Jethro était marié, il a eu une fille ?
+
+150
+00:07:30,555 --> 00:07:31,952
+Non, c'est impossible.
+
+151
+00:07:32,655 --> 00:07:34,992
+Je connais les trois ex-femmes de Jethro.
+
+152
+00:07:35,117 --> 00:07:36,500
+Elles n'ont pas eu d'enfants.
+
+153
+00:07:36,875 --> 00:07:39,381
+Avec sa première épouse, Shannon, il en a eu un.
+
+154
+00:07:42,146 --> 00:07:43,582
+Ils se sont mariés en 1982
+
+155
+00:07:43,638 --> 00:07:45,322
+et ont eu une fille, Kelly,
+
+156
+00:07:45,385 --> 00:07:47,143
+qui est née en 1984.
+
+157
+00:07:51,167 --> 00:07:52,303
+Je ne peux pas le croire.
+
+158
+00:07:53,017 --> 00:07:54,011
+Il y a plus.
+
+159
+00:07:55,136 --> 00:07:56,312
+Elles ont été assassinées
+
+160
+00:07:56,395 --> 00:07:58,571
+quand Jethro combattait pendant "Tempête du Désert".
+
+161
+00:07:59,225 --> 00:08:01,590
+Shannon a été témoin du meurtre d'un marine
+
+162
+00:08:01,628 --> 00:08:02,840
+à Oceanside.
+
+163
+00:08:02,917 --> 00:08:06,353
+Elle a identifié le tueur comme étant Pedro Hernandez,
+
+164
+00:08:06,696 --> 00:08:09,422
+un dealer de drogue mexicain travaillant à Camp Pendleton.
+
+165
+00:08:09,795 --> 00:08:12,420
+Un agent du NIS a été assigné à sa protection.
+
+166
+00:08:12,586 --> 00:08:14,772
+Un sniper lui a tiré dans la tête
+
+167
+00:08:15,008 --> 00:08:16,770
+pendant qu'il conduisait leur voiture.
+
+168
+00:08:17,847 --> 00:08:19,253
+Il est mort sur le coup.
+
+169
+00:08:19,837 --> 00:08:20,730
+Shannon
+
+170
+00:08:21,128 --> 00:08:23,771
+et la fille de Jethro âgée de 8 ans, Kelly,
+
+171
+00:08:25,138 --> 00:08:26,612
+ont été tuées dans l'accident.
+
+172
+00:08:29,455 --> 00:08:31,483
+C'est vraiment abominable.
+
+173
+00:08:34,567 --> 00:08:36,990
+Kelly ressemblait beaucoup à Jethro, n'est-ce pas ?
+
+174
+00:08:37,337 --> 00:08:38,381
+Oui, un peu.
+
+175
+00:08:40,308 --> 00:08:41,702
+C'est une jolie petite fille.
+
+176
+00:08:42,258 --> 00:08:43,072
+Très.
+
+177
+00:08:45,677 --> 00:08:47,023
+Shannon l'était aussi.
+
+178
+00:08:48,387 --> 00:08:50,192
+Jethro a toujours aimé les rousses.
+
+179
+00:08:53,128 --> 00:08:54,832
+Hernandez a-t-il été attrapé ?
+
+180
+00:08:54,948 --> 00:08:55,640
+Non.
+
+181
+00:08:56,036 --> 00:08:57,602
+Il s'est réfugié au Mexique.
+
+182
+00:08:57,857 --> 00:08:59,603
+Le NIS a essayé de l'extrader,
+
+183
+00:08:59,966 --> 00:09:02,662
+mais les autorités mexicaines ont toujours prétendu ne pas le trouver.
+
+184
+00:09:03,428 --> 00:09:04,822
+C'est une de nos affaires non-classées.
+
+185
+00:09:05,736 --> 00:09:06,952
+Eh bien, vous pouvez la classer.
+
+186
+00:09:08,087 --> 00:09:09,032
+Que savez-vous ?
+
+187
+00:09:09,126 --> 00:09:10,933
+Jethro a dû poursuivre l'assassin de sa
+
+188
+00:09:10,976 --> 00:09:13,261
+femme et de sa fille jusqu'en enfer.
+
+189
+00:09:13,697 --> 00:09:15,751
+Jethro a eu sa vengeance.
+
+190
+00:09:16,865 --> 00:09:19,261
+Après avoir pratiqué l'autopsie,
+
+191
+00:09:19,385 --> 00:09:21,580
+Ducky est littéralement certain qu'Abog Galib
+
+192
+00:09:21,628 --> 00:09:24,740
+était dans le baril quand la bombe a explosé.
+
+193
+00:09:24,808 --> 00:09:26,732
+Et que faisait-il dans un baril à linge ?
+
+194
+00:09:26,886 --> 00:09:28,632
+Peut-être qu'il cherchait son linge.
+
+195
+00:09:28,857 --> 00:09:29,741
+C'est sérieux, Abby.
+
+196
+00:09:29,786 --> 00:09:32,090
+Oh. Écoutez un peu ça, c'est l'hôpital qui se fout de la charité.
+
+197
+00:09:33,047 --> 00:09:34,890
+- J'ai bon sur celle-là, pas vrai ?
+- Non.
+
+198
+00:09:35,385 --> 00:09:36,032
+Oui.
+
+199
+00:09:36,806 --> 00:09:37,463
+Bizut !
+
+200
+00:09:37,516 --> 00:09:40,230
+Pourquoi Galib était dans ce baril ?
+
+201
+00:09:40,325 --> 00:09:41,613
+Il se cachait ?
+
+202
+00:09:41,656 --> 00:09:42,540
+De qui ?
+
+203
+00:09:42,715 --> 00:09:44,293
+- Gibbs ?
+- Peut-être.
+
+204
+00:09:44,345 --> 00:09:46,793
+Il échappe à Gibbs, même si le plan indiquait qu'il
+
+205
+00:09:46,816 --> 00:09:48,530
+était supposé être arrêté devant l'équipage.
+
+206
+00:09:48,586 --> 00:09:49,531
+Une autre question :
+
+207
+00:09:49,546 --> 00:09:51,210
+Comment Pinpin Pula savait-il que
+
+208
+00:09:51,255 --> 00:09:53,573
+Gibbs et Galib seraient dans la buanderie du navire ?
+
+209
+00:09:53,637 --> 00:09:54,773
+C'est vrai, parce que
+
+210
+00:09:54,816 --> 00:09:57,680
+ils ont pu placer la bombe dans le baril
+
+211
+00:09:57,735 --> 00:09:58,901
+avant qu'ils n'arrivent.
+
+212
+00:09:59,108 --> 00:09:59,803
+Gibbs sait.
+
+213
+00:09:59,858 --> 00:10:01,933
+Gibbs pense aussi que les Giants viennent juste de gagner le Super Bowl
+
+214
+00:10:01,988 --> 00:10:04,683
+et que "Danse avec les loups"* est nominé aux Oscars.
+[* Film de 1990]
+
+215
+00:10:04,746 --> 00:10:06,460
+- J'adore ce film.
+- Moi aussi.
+
+216
+00:10:06,595 --> 00:10:08,601
+Ces autochtones américains étaient si virils dans leur...
+
+217
+00:10:08,637 --> 00:10:09,311
+Ça suffit !
+
+218
+00:10:10,265 --> 00:10:12,563
+Abby, je veux une simulation de l'explosion, ok ?
+
+219
+00:10:12,607 --> 00:10:13,883
+Utilise les photos de la scène de crime,
+
+220
+00:10:13,935 --> 00:10:15,291
+les mesures.
+
+221
+00:10:15,315 --> 00:10:16,611
+- Ce que Ducky...
+- ... A trouvé lors de l'autopsie.
+
+222
+00:10:16,658 --> 00:10:18,892
+Je sais comment faire une simulation informatique, Tony.
+
+223
+00:10:19,716 --> 00:10:20,162
+Ziva
+
+224
+00:10:20,225 --> 00:10:22,291
+qu'as-tu pu apprendre du cuisinier, euh, c'est quoi son nom ?
+
+225
+00:10:22,345 --> 00:10:23,321
+Alon Atu.
+
+226
+00:10:23,375 --> 00:10:26,430
+Du même village philippin de la province de Basilan que Pinpin.
+
+227
+00:10:26,887 --> 00:10:28,761
+C'est un fanatique d'Abu Sayyaf.
+
+228
+00:10:28,928 --> 00:10:30,831
+- Il ne parlera pas sans...
+- Pas de torture.
+
+229
+00:10:31,176 --> 00:10:32,270
+Il ne parlera pas.
+
+230
+00:10:32,878 --> 00:10:34,313
+- Essaye.
+- Ok.
+
+231
+00:10:34,456 --> 00:10:35,680
+Mais tu m'attaches les pieds
+
+232
+00:10:36,448 --> 00:10:38,220
+- Les mains
+- Elles aussi.
+
+233
+00:10:39,006 --> 00:10:41,222
+McGee, la photo de Pinpin a-t-elle été ajoutée à l'avis de recherche ?
+
+234
+00:10:41,246 --> 00:10:42,090
+Oui, Tony.
+
+235
+00:10:42,125 --> 00:10:43,482
+Le commandement de "SeaLift" l'a eu ?
+
+236
+00:10:43,526 --> 00:10:45,010
+Ils sont en train de le faxer aux 110 navires.
+
+237
+00:10:45,075 --> 00:10:46,883
+Il n'y a aucune chance pour qu'il infiltre "SeaLift".
+
+238
+00:10:46,925 --> 00:10:49,083
+Il a fait sauter Galib et a plongé Gibbs dans le coma.
+
+239
+00:10:49,166 --> 00:10:50,312
+Règle numéro 3 :
+
+240
+00:10:50,556 --> 00:10:52,142
+Ne jamais sous-estimer son adversaire.
+
+241
+00:10:52,187 --> 00:10:54,581
+- Non, à vrai dire, la règle numéro 3...
+- Celles de DiNozzo...
+
+242
+00:10:55,235 --> 00:10:57,221
+Règle numéro 3, bizut.
+
+243
+00:10:57,388 --> 00:10:58,212
+Compris.
+
+244
+00:10:59,288 --> 00:11:01,292
+Ne jamais sous-estimer son adversaire.
+
+245
+00:11:14,998 --> 00:11:16,900
+Avis de recherche
+Suspect recherché.
+
+246
+00:11:20,646 --> 00:11:21,632
+Hé, Galib.
+
+247
+00:11:31,505 --> 00:11:32,891
+Aujourd'hui, les actions technologiques...
+
+248
+00:11:32,938 --> 00:11:36,180
+Il essaye de rattraper 15 ans en regardant la télé.
+
+249
+00:11:36,476 --> 00:11:38,341
+Jethro déteste la télévision.
+
+250
+00:11:38,397 --> 00:11:40,710
+Il n'arrive pas à croire que nous sommes toujours en guerre en Irak.
+
+251
+00:11:40,755 --> 00:11:42,153
+Il n'est pas le seul.
+
+252
+00:11:42,497 --> 00:11:45,670
+Est-ce qu'il se souvient être un agent spécial du NCIS ?
+
+253
+00:11:45,875 --> 00:11:48,830
+Non. Le docteur Mallard est toujours un étranger pour lui.
+
+254
+00:11:48,968 --> 00:11:50,563
+Il ne me connait pas non plus, alors.
+
+255
+00:11:51,168 --> 00:11:53,392
+Ducky travaillait avec lui bien avant moi.
+
+256
+00:11:53,467 --> 00:11:55,653
+Les personnes dont les amnésiques se rappellent
+
+257
+00:11:55,878 --> 00:11:58,700
+dépendent de leurs relations passées.
+
+258
+00:12:00,747 --> 00:12:03,302
+Avez-vous trouvé des marines qui ont servi avec lui pendant l'opération "Tempête du Désert" ?
+
+259
+00:12:03,357 --> 00:12:04,602
+Deux, jusqu'ici.
+
+260
+00:12:05,067 --> 00:12:06,230
+Un décédé.
+
+261
+00:12:06,316 --> 00:12:08,463
+L'autre est commandant d'un régiment en Irak.
+
+262
+00:12:08,536 --> 00:12:11,022
+Eh bien, Gibbs se rappelle s'être rendu sur les tombes de sa femme et de sa fille,
+
+263
+00:12:11,067 --> 00:12:13,860
+donc sa mémoire remonte au moins jusqu'au mois de juin 1991,
+
+264
+00:12:13,908 --> 00:12:15,891
+quand il est sorti de Bethesda.
+
+265
+00:12:16,076 --> 00:12:18,413
+Il a rejoint le NIS au mois d'août de la même année.
+
+266
+00:12:18,485 --> 00:12:20,373
+Et ses relations au NIS ?
+
+267
+00:12:22,278 --> 00:12:24,583
+L'agent spécial Michael Franks
+
+268
+00:12:24,617 --> 00:12:26,363
+a dirigé l'enquête du meurtre.
+
+269
+00:12:26,388 --> 00:12:27,412
+Je commence par lui.
+
+270
+00:12:29,306 --> 00:12:30,021
+Merci, Todd.
+
+271
+00:12:30,105 --> 00:12:32,151
+Quand reviendrez-vous le voir ?
+
+272
+00:12:32,315 --> 00:12:33,383
+Demain.
+
+273
+00:12:35,486 --> 00:12:36,470
+Je serai là.
+
+274
+00:13:06,885 --> 00:13:10,320
+L'agent spécial Franks a pris sa retraite en 1996.
+
+275
+00:13:10,385 --> 00:13:13,111
+Il n'a laissé ni adresse de réexpédition ni numéro de téléphone.
+
+276
+00:13:14,285 --> 00:13:15,290
+Si, il l'a fait.
+
+277
+00:13:15,758 --> 00:13:16,700
+Il l'a fait ?
+
+278
+00:13:17,275 --> 00:13:20,142
+Trouvez où la caisse de retraite envoie ses chèques de pension.
+
+279
+00:13:25,407 --> 00:13:26,802
+Salut, Miguel !
+
+280
+00:13:27,976 --> 00:13:29,722
+Salut, ma belle.
+
+281
+00:13:35,907 --> 00:13:39,310
+Qu'est ce que tu as fait pour devenir un vieillard pareil ?
+
+282
+00:13:41,307 --> 00:13:42,503
+Un vieillard !
+
+283
+00:13:44,516 --> 00:13:48,501
+Viens à l'intérieur. Je vais te montrer si je suis un vieillard.
+
+284
+00:13:48,836 --> 00:13:51,370
+Tu ne peux pas t'offrir mes services.
+
+285
+00:13:52,527 --> 00:13:53,871
+Je viens d'être payé.
+
+286
+00:13:54,128 --> 00:13:56,382
+Ah ! Alors tu vas me payer les provisions.
+
+287
+00:13:56,437 --> 00:13:58,610
+Tu me dois 320 pesos.
+
+288
+00:14:05,706 --> 00:14:07,473
+Ta main est pleine de graisse.
+
+289
+00:14:09,287 --> 00:14:11,730
+- Qui appelles-tu ?
+- Je ne sais pas.
+
+290
+00:14:12,256 --> 00:14:14,780
+- Appel en PCV pour Miguel Franks.
+- Un instant, s'il vous plaît.
+
+291
+00:14:16,017 --> 00:14:17,411
+Ils t'ont appelé au restau.
+
+292
+00:14:17,476 --> 00:14:19,611
+- Qui m'a appelé ?
+- Je ne sais pas.
+
+293
+00:14:23,318 --> 00:14:24,801
+Bon sang qui c'est ?
+
+294
+00:14:25,007 --> 00:14:27,400
+L'assistante du directeur Shepard, M. Franks.
+
+295
+00:14:27,456 --> 00:14:28,840
+Directeur de quoi ?
+
+296
+00:14:28,916 --> 00:14:30,363
+NCIS, monsieur.
+
+297
+00:14:31,988 --> 00:14:34,001
+Pourquoi diable ne m'as-tu pas demandé mon avis ?
+
+298
+00:14:34,077 --> 00:14:36,373
+Ils ont dit que c'était très important.
+
+299
+00:14:36,807 --> 00:14:39,021
+Quel est le problème ? C'est gratuit.
+
+300
+00:14:39,825 --> 00:14:41,653
+Espèce de vieux con.
+
+301
+00:14:44,125 --> 00:14:45,110
+Parlez.
+
+302
+00:14:45,215 --> 00:14:47,771
+Un instant. Je vous mets en relation.
+
+303
+00:14:49,157 --> 00:14:50,533
+M. Franks ?
+
+304
+00:14:50,685 --> 00:14:54,000
+Combien de satanées assistantes a ce directeur ?
+
+305
+00:14:54,437 --> 00:14:56,931
+- Une seule.
+- Alors qui diable êtes-vous ?!
+
+306
+00:14:57,047 --> 00:14:59,201
+Directeur Shepard du NCIS.
+
+307
+00:15:04,945 --> 00:15:07,373
+- Charlene, c'est toi ?
+- Non.
+
+308
+00:15:07,485 --> 00:15:11,492
+Je m'appelle Jenny Shepard et je suis le directeur du NCIS.
+
+309
+00:15:12,665 --> 00:15:13,700
+Merci seigneur.
+
+310
+00:15:13,728 --> 00:15:15,163
+Ça veut dire que vous approuvez ?
+
+311
+00:15:15,275 --> 00:15:19,153
+Ça veut dire que toutes mes appréhensions sur le fait
+que la retraite anticipée soit une erreur...
+
+312
+00:15:20,166 --> 00:15:22,151
+Viennent de s'avérer infondées.
+
+313
+00:15:22,186 --> 00:15:25,902
+Je ne vous appelle pas pour connaitre votre opinion sur un directeur féminin.
+
+314
+00:15:25,987 --> 00:15:27,460
+Je m'en doute bien.
+
+315
+00:15:28,415 --> 00:15:29,792
+J'ai besoin de votre aide.
+
+316
+00:15:30,687 --> 00:15:32,453
+Agent spécial Franks.
+
+317
+00:15:32,715 --> 00:15:35,012
+Ça fait 11 ans que je ne le suis plus.
+
+318
+00:15:35,117 --> 00:15:36,463
+Au revoir, directeur.
+
+319
+00:15:36,527 --> 00:15:38,601
+Leroy Jethro Gibbs.
+
+320
+00:15:42,735 --> 00:15:44,520
+Peux-tu imaginer combien il est effrayant de ne plus se rappeler
+
+321
+00:15:44,586 --> 00:15:46,641
+des 15 dernières années de sa vie ?
+
+322
+00:15:46,818 --> 00:15:48,100
+- Mon Dieu.
+- Quoi ?
+
+323
+00:15:48,416 --> 00:15:49,661
+Je serais encore au lycée.
+
+324
+00:15:51,165 --> 00:15:53,492
+Les boutons, les bretelles, les hormones déchaînées.
+
+325
+00:15:53,538 --> 00:15:56,743
+Ouais. J'avais l'habitude de déambuler toute la journée avec mon cahier qui cachait mon...
+
+326
+00:15:58,527 --> 00:16:00,440
+Cachait quoi, McGee ?
+
+327
+00:16:02,926 --> 00:16:04,563
+La buanderie est trop petite.
+
+328
+00:16:04,638 --> 00:16:07,590
+En fait, elle devrait faire 3,962 mètres de largeur.
+
+329
+00:16:07,678 --> 00:16:09,130
+Pas 26.
+
+330
+00:16:11,237 --> 00:16:12,540
+- C'est mieux ?
+- Ouais.
+
+331
+00:16:12,958 --> 00:16:14,103
+On doit être précis.
+
+332
+00:16:15,146 --> 00:16:16,243
+Absolument.
+
+333
+00:16:16,625 --> 00:16:19,043
+Alors est-ce que c'était un des ces petits calepins à spirales
+
+334
+00:16:19,075 --> 00:16:23,030
+ou un de ces gros classeurs trois anneaux, Timmy ?
+
+335
+00:16:23,497 --> 00:16:25,550
+Et où étais-tu il y a 15 ans, Abby ?
+
+336
+00:16:25,617 --> 00:16:27,512
+Donc où as-tu trouvé Gibbs ?
+
+337
+00:16:27,947 --> 00:16:29,072
+J'ai peur de le découvrir...
+
+338
+00:16:29,446 --> 00:16:31,301
+- C’était pour quoi ça ?
+- M'avoir distrait.
+
+339
+00:16:31,346 --> 00:16:33,331
+- Je ne te distrayais pas.
+- Gibbs.
+
+340
+00:16:33,795 --> 00:16:35,862
+Entre le séchoir et la cloison.
+
+341
+00:16:37,115 --> 00:16:38,843
+Un peu plus près de la cloison.
+
+342
+00:16:40,237 --> 00:16:41,773
+Le rapport d'autopsie montre
+
+343
+00:16:41,788 --> 00:16:43,870
+que Galib était assis sur la bombe
+
+344
+00:16:43,907 --> 00:16:47,500
+qui était constituée de 113 grammes de Semtex.
+
+345
+00:16:47,615 --> 00:16:50,692
+Ouah. Tu peux rentrer les données sur le Semtex aussi précisément ?
+
+346
+00:16:50,745 --> 00:16:52,052
+Je suis une scientifique, McGee.
+
+347
+00:16:52,087 --> 00:16:54,012
+Je peux tout prendre en compte précisément,
+
+348
+00:16:54,035 --> 00:16:56,711
+y compris la taille du calepin nécessaire pour...
+
+349
+00:16:56,777 --> 00:16:57,551
+Stop.
+
+350
+00:16:58,347 --> 00:17:00,451
+Peux-tu faire exploser la bombe, s'il te plaît ?
+
+351
+00:17:04,775 --> 00:17:05,361
+Pardon.
+
+352
+00:17:05,468 --> 00:17:07,462
+J'ai oublié de te dire, j'ai ajouté du son.
+
+353
+00:17:08,317 --> 00:17:08,773
+Ouais.
+
+354
+00:17:09,427 --> 00:17:11,561
+On peut réessayer ça sans le son ?
+
+355
+00:17:11,636 --> 00:17:13,332
+Ouais, c'était un peu fort, hein ?
+
+356
+00:17:13,747 --> 00:17:14,041
+Ouais.
+
+357
+00:17:14,128 --> 00:17:16,602
+Et allons-y image par image pour voir ce qui s'est passé.
+
+358
+00:17:16,646 --> 00:17:17,372
+Bien sûr.
+
+359
+00:17:18,607 --> 00:17:20,191
+Durant la première microseconde,
+
+360
+00:17:20,258 --> 00:17:22,750
+moins que le temps qu'il te faut pour fermer tes yeux.
+
+361
+00:17:22,797 --> 00:17:26,313
+Le bas du baril et la partie inférieure du corps de Galib sont pulvérisés.
+
+362
+00:17:26,328 --> 00:17:28,082
+Le baril d'essence est désintégré
+
+363
+00:17:28,126 --> 00:17:30,130
+mais garde assez de consistance pour projeter ce qu'il
+
+364
+00:17:30,158 --> 00:17:32,310
+reste de Galib à la verticale.
+
+365
+00:17:32,385 --> 00:17:34,152
+Dans la microseconde suivante...
+
+366
+00:17:35,156 --> 00:17:37,343
+... le baril d'essence se désintègre
+
+367
+00:17:37,428 --> 00:17:39,501
+Galib est projeté au plafond.
+
+368
+00:17:39,545 --> 00:17:42,142
+et Gibbs... est...
+
+369
+00:17:45,335 --> 00:17:46,213
+- Mort.
+- Mort.
+
+370
+00:17:48,025 --> 00:17:50,223
+Si Gibbs se tenait là quand la bombe a explosé,
+
+371
+00:17:50,246 --> 00:17:53,093
+il aurait été écrasé sur la cloison et réduit en bouillie.
+
+372
+00:17:53,208 --> 00:17:55,580
+Gibbs a dû esquiver avant que la bombe n'explose.
+
+373
+00:17:55,656 --> 00:17:56,952
+- Il le savait.
+- Ouais.
+
+374
+00:17:57,047 --> 00:17:58,343
+Qu'est-ce qui ne va pas avec cette photo ?
+
+375
+00:17:58,468 --> 00:17:59,980
+Rien. McGee et moi avons vérifié trois fois
+
+376
+00:18:00,038 --> 00:18:02,180
+- tous les paramètres pour être sûr...
+- Pas la photo.
+
+377
+00:18:02,258 --> 00:18:03,862
+Ai-je fait une nouvelle erreur idiomatique ?
+
+378
+00:18:03,927 --> 00:18:04,932
+Non.
+
+379
+00:18:05,286 --> 00:18:07,412
+Tu veux dire quelque chose ne va pas dans ce que nous savons.
+
+380
+00:18:07,565 --> 00:18:09,933
+Exactement. On sait que Galib a couru.
+
+381
+00:18:10,148 --> 00:18:13,082
+On sait que Gibbs l'a poursuivi. On sait qu'ils sont allés dans la buanderie du bateau.
+
+382
+00:18:13,148 --> 00:18:16,273
+On sait que Galib s'est assis sur la bombe dans le baril d'essence.
+
+383
+00:18:16,328 --> 00:18:19,081
+Et, grâce à Abby et McGee, on sait que Gibbs savait
+
+384
+00:18:19,147 --> 00:18:20,372
+qu'une bombe allait exploser.
+
+385
+00:18:20,425 --> 00:18:22,302
+Oh, et on sait que Pinpin,
+
+386
+00:18:22,355 --> 00:18:24,052
+un homme d'équipage manquant sur le Kamir Bakir,
+
+387
+00:18:24,096 --> 00:18:26,211
+est un terroriste d'Abu Sayyaf,
+
+388
+00:18:26,275 --> 00:18:28,423
+probablement celui qui a placé la bombe non explosée.
+
+389
+00:18:28,455 --> 00:18:30,651
+Tu as oublié que "Pinpin Pula" signifie "digue de champ de riz",
+
+390
+00:18:30,697 --> 00:18:32,731
+Mais sans ça, très bon résumé, Ziva.
+
+391
+00:18:32,758 --> 00:18:33,452
+Merci.
+
+392
+00:18:33,517 --> 00:18:35,083
+Donc, comme l'a dit Ziva,
+
+393
+00:18:35,146 --> 00:18:37,070
+qu'est-ce qui ne va pas avec cette photo ?
+
+394
+00:18:37,266 --> 00:18:38,332
+Gibbs le sait.
+
+395
+00:18:39,275 --> 00:18:41,222
+Mais il ne se souvient pas.
+
+396
+00:18:46,067 --> 00:18:47,172
+Jethro ?
+
+397
+00:18:54,578 --> 00:18:55,571
+Shannon ?
+
+398
+00:18:56,125 --> 00:18:57,211
+Non, Jethro.
+
+399
+00:18:57,716 --> 00:18:59,102
+C'est moi, Jenny.
+
+400
+00:19:07,337 --> 00:19:09,033
+Tu ne te souviens toujours pas de moi ?
+
+401
+00:19:21,665 --> 00:19:22,611
+Peut-être
+
+402
+00:19:23,605 --> 00:19:24,683
+Je suis Jenny.
+
+403
+00:19:27,917 --> 00:19:29,633
+Nous étions partenaires.
+
+404
+00:19:31,418 --> 00:19:33,282
+Après la mort de Shannon.
+
+405
+00:19:33,767 --> 00:19:34,832
+Oui.
+
+406
+00:19:38,535 --> 00:19:39,992
+Je me suis remarié ?
+
+407
+00:19:40,567 --> 00:19:41,941
+Trois fois.
+
+408
+00:19:43,997 --> 00:19:47,083
+- Pas possible.
+- J'en ai bien peur.
+
+409
+00:19:51,896 --> 00:19:55,293
+- Vous êtes une de mes ex-femmes ?
+- Oh, mon Dieu, non.
+
+410
+00:19:57,857 --> 00:20:00,473
+Je suis le directeur du NCIS.
+
+411
+00:20:03,425 --> 00:20:05,991
+Pendant un moment, je vous ai pris pour quelqu'un d'autre.
+
+412
+00:20:12,085 --> 00:20:15,333
+Tu te souviens de nous faisant l'amour, n'est-ce pas, Jethro ?
+
+413
+00:20:30,276 --> 00:20:32,120
+Au moins c'est déjà çà.
+
+414
+00:20:44,106 --> 00:20:46,050
+Tu reconnais cet homme ?
+
+415
+00:21:01,608 --> 00:21:02,431
+C'est comme
+
+416
+00:21:03,237 --> 00:21:05,231
+avoir le nom sur le bout de la langue et je ne peux pas m'en souvenir.
+
+417
+00:21:05,317 --> 00:21:07,871
+- Calme-toi, ça viendra.
+- C'est important, n'est-ce pas ?
+
+418
+00:21:08,205 --> 00:21:09,341
+Oui. Très.
+
+419
+00:21:09,386 --> 00:21:10,482
+C'est une question de vie ou de mort, n'est-ce pas ?
+
+420
+00:21:10,526 --> 00:21:11,570
+Ne te fâche pas, Jethro,
+
+421
+00:21:11,618 --> 00:21:13,723
+- tu ne te souviendras pas.
+- Donne-moi un nom.
+
+422
+00:21:14,588 --> 00:21:16,083
+Pinpin Pula.
+
+423
+00:21:18,997 --> 00:21:20,263
+Ce n’est pas son nom.
+
+424
+00:21:21,446 --> 00:21:22,742
+Ça ne peut pas être son nom.
+
+425
+00:21:22,787 --> 00:21:23,953
+- Tu es sûr ?
+- Non !
+
+426
+00:21:24,006 --> 00:21:25,500
+Je ne suis pas sûr ! Je ne me souviens pas !
+
+427
+00:21:25,535 --> 00:21:27,110
+Comment puis-je être sûr ?
+
+428
+00:21:28,058 --> 00:21:28,680
+Qu'est-ce qui se passe ?
+
+429
+00:21:28,706 --> 00:21:29,982
+Je suis désolé. C'est ma faute.
+
+430
+00:21:30,016 --> 00:21:31,240
+10 milligrammes de morphine.
+
+431
+00:21:31,637 --> 00:21:33,093
+Agent Gibbs, votre pression sanguine
+
+432
+00:21:33,126 --> 00:21:34,383
+- monte en flèche.
+- Je ne suis pas l'agent Gibbs.
+
+433
+00:21:34,415 --> 00:21:35,822
+Je ne connais pas l'agent Gibbs.
+
+434
+00:21:35,866 --> 00:21:37,603
+Je ne veux pas connaître l'agent Gibbs.
+
+435
+00:21:38,488 --> 00:21:39,613
+Je veux ma famille.
+
+436
+00:21:39,677 --> 00:21:40,810
+Je veux Shannon.
+
+437
+00:21:42,026 --> 00:21:42,662
+Je veux...
+
+438
+00:21:44,145 --> 00:21:44,933
+Kelly...
+
+439
+00:21:48,106 --> 00:21:49,043
+Oh, elles me manquent.
+
+440
+00:21:50,367 --> 00:21:51,033
+Elles me manquent tellement.
+
+441
+00:21:59,697 --> 00:22:02,901
+Normalement, on vous aurait emmené dans une chambre normale, mais pour une fois,
+
+442
+00:22:03,107 --> 00:22:06,810
+l'hôpital est complet mais pas l'unité de soins intensifs.
+
+443
+00:22:07,765 --> 00:22:10,001
+Sans le son, ça ne va pas aider votre mémoire.
+
+444
+00:22:10,058 --> 00:22:11,000
+Rien de neuf.
+
+445
+00:22:11,126 --> 00:22:14,441
+Même guerre, mêmes crimes, mêmes politiciens.
+
+446
+00:22:14,966 --> 00:22:18,593
+Vous n'êtes pas surpris que le Terminator soit le gouverneur de Californie ?
+
+447
+00:22:18,705 --> 00:22:19,501
+Non.
+
+448
+00:22:19,806 --> 00:22:21,362
+Le Gipper* était président
+[*Gipper était le surnom de Ronald Reagan lorsqu'il était acteur]
+
+449
+00:22:22,575 --> 00:22:24,082
+Je reviens de suite avec votre dîner.
+
+450
+00:22:24,165 --> 00:22:26,141
+Pas cette nourriture pour bébé, ok ?
+
+451
+00:22:26,185 --> 00:22:27,993
+Un steak. Saignant serait parfait.
+
+452
+00:22:28,077 --> 00:22:29,553
+Et des frites, s'il vous plaît ?
+
+453
+00:22:29,608 --> 00:22:31,150
+Peut-être demain.
+
+454
+00:22:32,847 --> 00:22:33,871
+Demain
+
+455
+00:22:34,847 --> 00:22:36,240
+je ne serai pas là.
+
+456
+00:22:37,358 --> 00:22:38,820
+Salut, le bleu.
+
+457
+00:22:42,787 --> 00:22:45,571
+Mon frère et moi avons épousé la même femme deux fois.
+
+458
+00:22:46,205 --> 00:22:46,852
+Deux fois ?
+
+459
+00:22:47,345 --> 00:22:49,683
+C'était une sacrée femme, le bleu.
+
+460
+00:22:52,855 --> 00:22:54,323
+Hé, patron.
+
+461
+00:22:55,725 --> 00:22:56,522
+Mince !
+
+462
+00:22:56,638 --> 00:22:58,360
+Tu te fais vieux, marine.
+
+463
+00:22:58,415 --> 00:23:00,350
+Tu t'es regardé dans une glace récemment ?
+
+464
+00:23:02,805 --> 00:23:03,943
+Si tu n'avais pas
+
+465
+00:23:04,125 --> 00:23:05,901
+été dans le coma...
+
+466
+00:23:06,957 --> 00:23:08,671
+Elles sont mortes, Mike.
+
+467
+00:23:09,265 --> 00:23:11,190
+Shannon et Kelly,
+
+468
+00:23:11,897 --> 00:23:12,920
+elles sont mortes toutes les deux.
+
+469
+00:23:13,895 --> 00:23:15,250
+Je sais, Jethro.
+
+470
+00:23:19,078 --> 00:23:21,300
+Ça ne peut pas faire 15 ans.
+
+471
+00:23:23,908 --> 00:23:24,863
+N'est-ce pas ?
+
+472
+00:23:28,856 --> 00:23:32,503
+Mon Dieu. On dirait que je viens juste de l'apprendre au Koweït il y a quelques mois.
+
+473
+00:23:38,705 --> 00:23:41,260
+Tu as enquêté sur le meurtre de Shannon.
+
+474
+00:23:41,725 --> 00:23:43,473
+C'est comme ça que je t'ai rencontré.
+
+475
+00:23:44,336 --> 00:23:45,590
+Camp Pendleton.
+
+476
+00:23:47,406 --> 00:23:49,933
+Tu étais l'agent spécial en charge de l'enquête.
+
+477
+00:23:53,505 --> 00:23:54,352
+Ouais.
+
+478
+00:23:56,198 --> 00:23:58,192
+Je suis devenu un agent grâce à toi.
+
+479
+00:24:02,117 --> 00:24:05,231
+Tu as laissé le dossier du sniper sur ton bureau donc j'ai pu...
+
+480
+00:24:08,446 --> 00:24:09,872
+Donc j'ai pu rejoindre le NIS.
+
+481
+00:24:12,498 --> 00:24:14,273
+Je préfère la bleue, patron.
+
+482
+00:24:15,386 --> 00:24:18,281
+NCIS. La marine a changé le nom la même année.
+
+483
+00:24:18,356 --> 00:24:19,470
+19...
+
+484
+00:24:20,877 --> 00:24:22,821
+90... 90...?
+
+485
+00:24:24,075 --> 00:24:24,802
+Deux.
+
+486
+00:24:26,117 --> 00:24:28,011
+On enquêtait sur des scènes de crimes.
+
+487
+00:24:29,956 --> 00:24:32,262
+J'enquêtais sur des scènes de crimes.
+
+488
+00:24:32,377 --> 00:24:33,620
+Tu traînais.
+
+489
+00:24:34,115 --> 00:24:36,133
+Au Vietnam, je me trimballais deux fois ce que tu portes
+
+490
+00:24:36,175 --> 00:24:38,651
+à travers la boue de la mousson avec Charlie me shootant le cul
+
+491
+00:24:38,678 --> 00:24:41,573
+et j'allais quand même plus vite que toi.
+
+492
+00:24:44,377 --> 00:24:46,362
+Tu m'as appris à être un agent.
+
+493
+00:24:46,836 --> 00:24:47,612
+Nan.
+
+494
+00:24:47,976 --> 00:24:49,352
+Je ne t'ai pas appris.
+
+495
+00:24:49,798 --> 00:24:50,973
+Tu as observé.
+
+496
+00:25:02,045 --> 00:25:02,802
+Semper fi.
+
+497
+00:25:08,356 --> 00:25:09,602
+L'attentat à Khobar*.
+
+498
+00:25:09,606 --> 00:25:09,601
+[*] "Khobar" attentat attribué à Al-Qaida, un camion piégé d'essence
+explose à l'entrée de la base américaine de Khobar, près de Dahran,
+faisant 19 morts (tous américains) et près de 400 blessés.
+
+499
+00:25:14,108 --> 00:25:16,233
+Tu les as prévenus pour Ben Laden.
+
+500
+00:25:16,755 --> 00:25:18,130
+Ils ne t'ont pas écouté.
+
+501
+00:25:19,185 --> 00:25:20,331
+Et t'as démissionné.
+
+502
+00:25:21,165 --> 00:25:22,410
+Je n'ai pas démissionné.
+
+503
+00:25:24,106 --> 00:25:25,503
+J'ai pris ma retraite.
+
+504
+00:25:26,478 --> 00:25:28,913
+T'étais furieux qu'ils ne t'écoutent pas, Mike.
+
+505
+00:25:29,745 --> 00:25:32,292
+Furieux que tout ce qu'ait fait Clinton, c'est d'envoyer
+
+506
+00:25:32,345 --> 00:25:35,550
+quelques missiles de croisière sur un camp d'Al-Qaida en Afghanistan.
+
+507
+00:25:36,156 --> 00:25:37,922
+T'as démissionné, Mike.
+
+508
+00:25:40,297 --> 00:25:42,302
+Je ne me suis pas fait chier
+
+509
+00:25:42,356 --> 00:25:45,633
+à venir du Mexique pour me disputer, Jethro.
+
+510
+00:25:47,888 --> 00:25:48,850
+D'accord.
+
+511
+00:25:51,486 --> 00:25:53,323
+Tu as raison, désolé.
+
+512
+00:25:53,865 --> 00:25:56,002
+Ne jamais t'excuser.
+
+513
+00:25:56,508 --> 00:25:57,781
+C'est un signe de faiblesse.
+
+514
+00:25:57,865 --> 00:25:59,703
+Qu'est-ce que tu fais là, Mike ?
+
+515
+00:26:01,627 --> 00:26:03,390
+Ton "directeur" m'a appelé.
+
+516
+00:26:03,457 --> 00:26:04,940
+C'est quoi cette histoire
+
+517
+00:26:04,966 --> 00:26:07,810
+de femme directeur du NCIS ?
+
+518
+00:26:07,875 --> 00:26:09,970
+Aucune idée. Je me rappelle juste de Jenny quand...
+
+519
+00:26:10,036 --> 00:26:12,112
+- Jenny ?!
+- Ouais.
+
+520
+00:26:13,156 --> 00:26:15,443
+Jenny. Elle m'a dit qu'elle était ma partenaire.
+
+521
+00:26:15,877 --> 00:26:17,690
+Quel genre de partenaire ?
+
+522
+00:26:18,228 --> 00:26:20,271
+Vous ne pouvez pas fumer ici.
+
+523
+00:26:21,698 --> 00:26:23,862
+J'ai oublié que j'étais dans un hôpital.
+
+524
+00:26:23,956 --> 00:26:26,422
+C'est interdit par la loi de fumer dans tout bâtiment public.
+
+525
+00:26:26,476 --> 00:26:27,721
+Vous rigolez.
+
+526
+00:26:28,886 --> 00:26:31,920
+Une autre bonne raison d'être parti au Mexique.
+
+527
+00:26:36,147 --> 00:26:37,993
+Vous aviez raison, Dr Mallard.
+
+528
+00:26:38,085 --> 00:26:39,100
+Pour une fois ?
+
+529
+00:26:39,167 --> 00:26:42,323
+- Non, docteur, vous....
+- Sur quoi ai-je raison cette fois-ci ?
+
+530
+00:26:42,396 --> 00:26:43,842
+Galib et le baril d'essence.
+
+531
+00:26:43,908 --> 00:26:45,512
+La reconstitution d'Abby le représente
+
+532
+00:26:45,567 --> 00:26:47,801
+comme s'il avait été propulsé par un canon.
+
+533
+00:26:47,866 --> 00:26:50,173
+C'est effectivement une occupation risquée
+
+534
+00:26:50,217 --> 00:26:52,780
+même sans explosifs.
+
+535
+00:26:52,826 --> 00:26:55,433
+Ils n'utilisent pas d'explosif pour propulser des gens avec un canon ?
+
+536
+00:26:55,505 --> 00:26:57,712
+Un homme de votre âge et de votre éducation ?
+
+537
+00:26:57,786 --> 00:26:58,943
+Voyons, M. Palmer.
+
+538
+00:26:59,048 --> 00:27:01,892
+Je sais bien qu'ils n'utilisent pas d'explosifs puissants.
+
+539
+00:27:01,926 --> 00:27:04,221
+Je croyais qu'ils utilisaient... de la poudre à canon.
+
+540
+00:27:04,278 --> 00:27:07,581
+De l'air comprimé ou une catapulte à roulis
+
+541
+00:27:07,658 --> 00:27:11,021
+expulsait notre intrépide homme-canon dans les airs.
+
+542
+00:27:11,096 --> 00:27:13,430
+David "l'Homme canon" Smith
+
+543
+00:27:13,445 --> 00:27:14,413
+détient le record.
+
+544
+00:27:14,465 --> 00:27:17,120
+Oui, il a même été propulsé
+
+545
+00:27:17,175 --> 00:27:19,390
+de l'autre coté de la frontière mexicaine.
+
+546
+00:27:19,455 --> 00:27:21,102
+Il avait un passeport...
+
+547
+00:27:21,938 --> 00:27:24,812
+bien qu'aujourd'hui, on se demande pourquoi.
+
+548
+00:27:24,875 --> 00:27:26,321
+C'est triste de savoir
+
+549
+00:27:26,385 --> 00:27:29,553
+que 60% des hommes-canon
+
+550
+00:27:29,637 --> 00:27:31,080
+sont éventuellement tués.
+
+551
+00:27:31,135 --> 00:27:31,711
+Eh bien,
+
+552
+00:27:31,927 --> 00:27:34,901
+s'ils n'utilisent pas d'explosifs, pourquoi il en meurt tant ?
+
+553
+00:27:35,995 --> 00:27:39,421
+Ils manquent le filet, M. Palmer.
+
+554
+00:27:40,297 --> 00:27:42,670
+Ils manquent le... Ça alors !
+
+555
+00:27:43,166 --> 00:27:44,361
+Qu'y a-t-il, docteur ?
+
+556
+00:27:45,048 --> 00:27:48,142
+Galib n'était pas assis dans le baril.
+
+557
+00:27:48,387 --> 00:27:50,101
+Il y a été placé.
+
+558
+00:27:51,057 --> 00:27:51,751
+Regardez.
+
+559
+00:27:56,665 --> 00:27:58,111
+Nuque tranchée.
+
+560
+00:27:58,406 --> 00:28:01,581
+La vertèbre cervicale a été profondément entaillée.
+
+561
+00:28:01,808 --> 00:28:04,572
+On vous a égorgé d'une oreille à l'autre, n'est-ce pas ?
+
+562
+00:28:04,636 --> 00:28:06,591
+Une machette ou un couteau de boucher.
+
+563
+00:28:06,715 --> 00:28:09,903
+Il me semble que les Philippins appellent ça une "parang".
+
+564
+00:28:10,196 --> 00:28:12,421
+Quel que soit son nom, ça répond à une de nos questions.
+
+565
+00:28:12,507 --> 00:28:14,101
+Et nous en pose une autre.
+
+566
+00:28:14,338 --> 00:28:15,931
+Si Galib était mort...
+
+567
+00:28:16,156 --> 00:28:18,542
+Qui Gibbs a-t-il suivi jusque dans la laverie ?
+
+568
+00:28:19,378 --> 00:28:20,152
+- Dégagez.
+- Dégagez.
+
+569
+00:28:22,566 --> 00:28:23,270
+On a le pouls.
+
+570
+00:28:23,387 --> 00:28:25,661
+- Donnez-lui 1 mg d'atropine.
+- On l'a à 82/58.
+
+571
+00:28:25,718 --> 00:28:28,222
+Il va mieux mesdames. La pression sanguine augmente.
+
+572
+00:28:28,348 --> 00:28:30,570
+Pas de morts avec moi.
+
+573
+00:28:36,535 --> 00:28:39,233
+Vous n'avez pas touché à votre déjeuner, agent spécial Gibbs.
+
+574
+00:28:40,078 --> 00:28:43,101
+Pas de steak demain si vous ne mangez pas votre gelée aujourd'hui.
+
+575
+00:28:46,637 --> 00:28:48,150
+Tu as ton couteau, Mike ?
+
+576
+00:28:48,436 --> 00:28:50,570
+La sécurité l'a pris à l'aéroport.
+
+577
+00:28:50,728 --> 00:28:52,320
+Il fait plus de 10 cm ?
+
+578
+00:28:52,378 --> 00:28:54,660
+Ils ont changé cette loi depuis le 11 septembre.
+
+579
+00:28:55,607 --> 00:28:56,671
+Le 11 septembre ?
+
+580
+00:28:57,156 --> 00:28:58,660
+Le 11 septembre
+
+581
+00:28:58,925 --> 00:29:00,190
+En 2001.
+
+582
+00:29:00,265 --> 00:29:02,792
+Patron, pour moi on est en 96 et tu viens juste de...
+
+583
+00:29:03,857 --> 00:29:04,660
+prendre ta retraite.
+
+584
+00:29:06,537 --> 00:29:07,622
+Qu'est-ce que c'est bon.
+
+585
+00:29:08,938 --> 00:29:09,590
+Oh ouais.
+
+586
+00:29:10,836 --> 00:29:12,600
+Il y a dû avoir un piratage, hein ?
+
+587
+00:29:15,275 --> 00:29:18,362
+Ils ne changent jamais la sécurité jusqu'à ce qu'il soit trop tard.
+
+588
+00:29:28,067 --> 00:29:31,241
+Al-Qaida a piraté quatre long-courriers.
+
+589
+00:29:33,577 --> 00:29:36,172
+Deux d'entre eux se sont écrasés sur le World Trade Center,
+
+590
+00:29:36,216 --> 00:29:37,640
+un sur le Pentagone.
+
+591
+00:29:38,918 --> 00:29:41,012
+Le quatrième se dirigeait vers la Maison Blanche.
+
+592
+00:29:43,788 --> 00:29:46,380
+Quelques passagers courageux se sont rebellés.
+
+593
+00:29:46,995 --> 00:29:49,150
+Ils se sont écrasés en Pennsylvanie.
+
+594
+00:29:53,646 --> 00:29:55,410
+Les Twin Towers n'existent plus.
+
+595
+00:29:56,725 --> 00:29:58,212
+Le Pentagone a été réparé.
+
+596
+00:29:59,557 --> 00:30:01,770
+Environ 3 000 morts.
+
+597
+00:30:03,566 --> 00:30:05,552
+Et au moins autant de blessés.
+
+598
+00:30:12,805 --> 00:30:13,791
+Monsieur ?
+
+599
+00:30:16,516 --> 00:30:17,580
+Vous allez bien ?
+
+600
+00:30:17,705 --> 00:30:18,733
+Ça va.
+
+601
+00:30:19,276 --> 00:30:21,062
+Une mauvaise nouvelle.
+
+602
+00:30:34,105 --> 00:30:35,731
+L'infirmière a raison.
+
+603
+00:30:36,385 --> 00:30:38,423
+Je ne suis pas prêt pour manger un steak.
+
+604
+00:30:41,568 --> 00:30:45,132
+Dis-moi qu'on a fait plus que d'envoyer quelques missiles de croisière.
+
+605
+00:30:47,275 --> 00:30:48,342
+On a fait plus que ça.
+
+606
+00:30:48,636 --> 00:30:49,710
+Ben Laden ?
+
+607
+00:30:50,068 --> 00:30:52,840
+- Je ne sais pas.
+- Comment tu peux ne pas savoir ?
+
+608
+00:30:56,765 --> 00:31:00,313
+Tu te souviens de cette plage à Baja où on pêchait ?
+
+609
+00:31:02,037 --> 00:31:02,883
+Ouais.
+
+610
+00:31:03,105 --> 00:31:04,833
+Au sud d'El Rosario.
+
+611
+00:31:05,896 --> 00:31:07,802
+Je m'y suis fait une petite maison.
+
+612
+00:31:08,385 --> 00:31:10,550
+Pas de télé, pas de radio,
+
+613
+00:31:10,627 --> 00:31:12,031
+pas de journaux.
+
+614
+00:31:12,236 --> 00:31:14,673
+Je pêche, je bois des bières,
+
+615
+00:31:15,746 --> 00:31:17,952
+j'écoute des cassettes des années 80.
+
+616
+00:31:18,456 --> 00:31:20,200
+Je vais dans un petit restau
+
+617
+00:31:20,285 --> 00:31:22,691
+près de la côte quand je veux de la compagnie...
+
+618
+00:31:22,777 --> 00:31:24,301
+quand mon pick-up marche.
+
+619
+00:31:24,606 --> 00:31:28,172
+C'est la première fois que je viens au Nord
+
+620
+00:31:28,676 --> 00:31:30,290
+depuis 10 ans.
+
+621
+00:31:30,926 --> 00:31:33,621
+Ne me demande pas de rapport, Jethro.
+
+622
+00:31:33,715 --> 00:31:34,821
+J'en sais rien.
+
+623
+00:31:35,365 --> 00:31:36,671
+Tu ne veux pas savoir.
+
+624
+00:31:37,686 --> 00:31:39,411
+Tout à fait. Je n’ai pas envie de savoir.
+
+625
+00:31:39,485 --> 00:31:41,810
+Tu te sens coupable, parce que tu as démissionné.
+
+626
+00:31:42,587 --> 00:31:44,082
+Si t'avais pas démissionné,
+
+627
+00:31:44,205 --> 00:31:46,220
+tu aurais peut-être pu empêcher ça.
+
+628
+00:31:48,677 --> 00:31:50,011
+Toi tu n'avais pas démissionné.
+
+629
+00:32:22,076 --> 00:32:22,882
+Salut, Galib.
+
+630
+00:32:22,975 --> 00:32:24,081
+Qu'est-ce que tu fais de beau ?
+
+631
+00:32:24,317 --> 00:32:26,591
+Je me dégourdis les jambes et il y a trop de vent sur le pont.
+
+632
+00:32:26,647 --> 00:32:27,781
+Tu ne veux pas faire un poker ce soir ?
+
+633
+00:32:28,427 --> 00:32:30,220
+Tu ne quittes jamais cette satanée salle radio.
+
+634
+00:32:30,296 --> 00:32:32,673
+Je parle à des opérateurs de radioamateur la nuit.
+
+635
+00:32:32,738 --> 00:32:34,842
+Et tu préfères ça au poker ?
+
+636
+00:32:35,766 --> 00:32:36,793
+Ce sont toutes des filles.
+
+637
+00:32:36,986 --> 00:32:37,970
+C'est vrai.
+
+638
+00:32:49,807 --> 00:32:51,653
+Vous confirmez que c'est Pinpin Pula.
+
+639
+00:32:52,946 --> 00:32:54,432
+Je confirme, oui,
+
+640
+00:32:55,385 --> 00:32:58,341
+j'aime bien ce mot. Je confirme que c'est Pinpin.
+
+641
+00:32:58,928 --> 00:33:00,040
+Je ne vous crois pas.
+
+642
+00:33:00,818 --> 00:33:02,742
+Pourquoi mentir alors que vous menacez de me tuer ?
+
+643
+00:33:02,795 --> 00:33:04,861
+Ce n'est pas une menace. Je vais vous tuer
+
+644
+00:33:04,918 --> 00:33:06,701
+si vous mentez, capitaine.
+
+645
+00:33:06,957 --> 00:33:08,263
+Je vous crois.
+
+646
+00:33:08,428 --> 00:33:10,062
+C'est moi qui ai des doutes ici.
+
+647
+00:33:11,527 --> 00:33:14,093
+C'est Pinpin, je le jure.
+
+648
+00:33:17,227 --> 00:33:18,821
+Il n'est pas chargé, hein ?
+
+649
+00:33:19,647 --> 00:33:22,952
+Est-ce que Gibbs autoriserait Ziva à porter une arme chargée là-dedans ?
+
+650
+00:33:23,006 --> 00:33:23,842
+Non.
+
+651
+00:33:24,105 --> 00:33:25,741
+Et je ne suis pas Gibbs, hein ?
+
+652
+00:33:27,175 --> 00:33:28,712
+Donc, capitaine...
+
+653
+00:33:32,858 --> 00:33:34,000
+... vous êtes affirmatif ?
+
+654
+00:33:34,527 --> 00:33:35,692
+Je suis affirmatif,
+
+655
+00:33:35,766 --> 00:33:38,462
+absolument affirmatif. Combien de fois je vais devoir le dire ?
+
+656
+00:33:40,546 --> 00:33:41,300
+Une fois de plus.
+
+657
+00:33:43,327 --> 00:33:45,493
+- Regardez-le bien.
+- J'en ai pas besoin.
+
+658
+00:33:45,605 --> 00:33:47,711
+Il était sur mon bateau depuis des mois.
+
+659
+00:33:47,988 --> 00:33:49,700
+C'est Pinpin Pula.
+
+660
+00:33:49,766 --> 00:33:50,923
+Il est d'Abu Sayyaf ?
+
+661
+00:33:51,535 --> 00:33:53,572
+Oui, il fait partie d'Abu Sayyaf.
+
+662
+00:33:53,625 --> 00:33:56,723
+- Qui est passé par la douane ?
+- Oui, il a fui quand votre homme...
+
+663
+00:33:59,837 --> 00:34:03,091
+Vous saviez que c'était Pinpin et pas Galib aux douanes.
+
+664
+00:34:04,496 --> 00:34:06,521
+Qu'Allah m'aide !
+Oui, je savais.
+
+665
+00:34:06,605 --> 00:34:08,282
+Ils m'ont payé, j'étais discret.
+
+666
+00:34:08,366 --> 00:34:09,750
+Ils m'ont payé pour être discret.
+
+667
+00:34:09,965 --> 00:34:11,883
+Mais Pinpin ne m'a jamais dit qu'il y avait une bombe.
+
+668
+00:34:11,957 --> 00:34:14,381
+Je ne l'ai jamais su !
+
+669
+00:34:17,366 --> 00:34:19,220
+Voici la photo d'identité du NCIS
+
+670
+00:34:19,298 --> 00:34:21,221
+de l'agent spécial Abog Galib que j'ai montrée à Gibbs.
+
+671
+00:34:21,298 --> 00:34:24,073
+- Qu'y a-t-il, DiNozzo ?
+- Quelque chose d'effrayant, directeur.
+
+672
+00:34:25,128 --> 00:34:27,070
+Le capitaine Mahir a avoué à Ziva
+
+673
+00:34:27,167 --> 00:34:30,222
+que Pinpin s'est fait passer pour Galib lors du contrôle aux douanes.
+
+674
+00:34:30,267 --> 00:34:32,910
+Et vu que Gibbs s'attendait à ce que Galib change physiquement
+
+675
+00:34:32,957 --> 00:34:37,213
+en étant sous couverture, plus de cheveux,
+éventuellement une moustache, plus sale.
+
+676
+00:34:37,326 --> 00:34:40,711
+Donc quand il a montré le passeport de Galib, ça suffisait.
+
+677
+00:34:40,756 --> 00:34:42,791
+- Pour passer les militraires
+- Militaires, pas militraires.
+
+678
+00:34:42,826 --> 00:34:46,733
+Les papiers de Galib lui permettent de faire partie
+de n'importe quel équipage dans le monde.
+
+679
+00:34:46,798 --> 00:34:48,602
+Y compris celui du "Cape Fear" ou du "Cape Horn".
+
+680
+00:34:48,658 --> 00:34:50,761
+On a envoyé un autre avis de recherche avec la photo de Pinpin.
+
+681
+00:34:50,836 --> 00:34:52,580
+Les deux vaisseaux ont confirmé sa non-présence à bord.
+
+682
+00:34:52,628 --> 00:34:55,042
+On le renvoie avec la mention "Alias Abog Galib".
+
+683
+00:34:55,076 --> 00:34:56,842
+Récupère de la compagnie maritime la liste d'équipage.
+
+684
+00:34:56,886 --> 00:34:57,381
+Ok.
+
+685
+00:34:57,417 --> 00:34:58,643
+DiNozzo, appelle le MTAC.
+
+686
+00:34:58,706 --> 00:35:02,023
+Je veux la NSA, le Pentagone, le FBI, la CIA... bref,
+
+687
+00:35:02,067 --> 00:35:04,363
+tout le monde disponible, vite.
+
+688
+00:35:04,937 --> 00:35:06,930
+J'ai l'impression qu'on loupe quelque chose.
+
+689
+00:35:07,705 --> 00:35:08,501
+Gibbs ?
+
+690
+00:35:09,597 --> 00:35:11,513
+Ouais, Gibbs.
+
+691
+00:35:35,086 --> 00:35:35,850
+Ouais ?
+
+692
+00:35:36,835 --> 00:35:37,631
+Ziva.
+
+693
+00:35:41,117 --> 00:35:43,212
+- On travaille ensemble ?
+- Oui.
+
+694
+00:35:43,957 --> 00:35:46,551
+Je suis un agent du Mossad, attaché à ton équipe.
+
+695
+00:35:46,786 --> 00:35:48,190
+Mossad ?
+
+696
+00:35:48,287 --> 00:35:50,632
+- Ils ont commencé à faire ça quand ?
+- Ça fait 1 an.
+
+697
+00:35:53,638 --> 00:35:55,662
+Le prenez pas mal, je travaille avec ce légiste...
+
+698
+00:35:55,738 --> 00:35:58,292
+Ducky, 10 ans et tu ne te souviens pas de lui.
+
+699
+00:35:58,347 --> 00:36:01,691
+- Vous finissez toujours les phrases des autres ?
+- Seulement quand je suis pressée.
+
+700
+00:36:02,466 --> 00:36:05,833
+Abu Sayyaf planifie une attaque terroriste
+
+701
+00:36:05,955 --> 00:36:07,131
+sur la marine.
+
+702
+00:36:07,227 --> 00:36:09,651
+- Ça serait aussi grave que le...
+- 11 septembre.
+
+703
+00:36:10,496 --> 00:36:12,431
+Tu te souviens du 11 septembre ?
+
+704
+00:36:12,698 --> 00:36:13,542
+Mon patron me l'a dit.
+
+705
+00:36:14,028 --> 00:36:16,370
+- Le directeur Shepard ?
+- Non, mon patron.
+
+706
+00:36:16,507 --> 00:36:19,352
+Peu importe, qu'est-ce que je peux faire ?
+
+707
+00:36:19,867 --> 00:36:20,911
+Te souvenir.
+
+708
+00:36:21,588 --> 00:36:24,160
+j'ai essayé depuis que je me suis réveillé dans cette chambre.
+
+709
+00:36:24,235 --> 00:36:26,142
+Alors essaye plus fort.
+
+710
+00:36:27,516 --> 00:36:29,303
+Bien, c'est un début.
+
+711
+00:36:29,865 --> 00:36:32,051
+- De quoi ?
+- Le vieux regard de Gibbs.
+
+712
+00:36:32,117 --> 00:36:35,050
+Tu nous l'as tous donné :
+McGee, Tony, moi !
+
+713
+00:36:36,357 --> 00:36:38,302
+De qui vous parlez ?!
+
+714
+00:36:48,206 --> 00:36:49,152
+Ari...
+
+715
+00:36:50,736 --> 00:36:52,662
+Ari a tué Kate.
+
+716
+00:36:56,938 --> 00:36:57,880
+Et j'ai...
+
+717
+00:37:00,746 --> 00:37:02,572
+... j'ai tué Ari !
+
+718
+00:37:12,066 --> 00:37:13,202
+Ton frère.
+
+719
+00:37:14,368 --> 00:37:15,353
+Oui.
+
+720
+00:37:16,538 --> 00:37:17,801
+Tu as tué ton frère ?
+
+721
+00:37:21,207 --> 00:37:22,272
+Pour me sauver.
+
+722
+00:37:38,607 --> 00:37:40,472
+Je suis sûr qu'il se souvient de toi, Ducky.
+
+723
+00:37:41,175 --> 00:37:43,262
+Je ne sais pas, elle l'a peut-être braqué avec son arme.
+
+724
+00:37:43,287 --> 00:37:44,881
+Ziva le ramène directement jusqu'au NCIS.
+
+725
+00:37:44,926 --> 00:37:47,050
+Il est de retour, il se souviendra de vous, absolument.
+
+726
+00:37:47,138 --> 00:37:48,591
+- Il a insisté.
+- À tout moment.
+
+727
+00:37:50,117 --> 00:37:51,873
+- Patron !
+- McGee.
+
+728
+00:37:53,557 --> 00:37:55,323
+- Patron, c'est moi, McGee.
+- Gibbs !
+
+729
+00:37:56,357 --> 00:37:57,093
+Salut, Abby !
+
+730
+00:37:58,228 --> 00:37:59,720
+C'est bon de se souvenir de toi, Abs.
+
+731
+00:38:00,587 --> 00:38:01,053
+Ducky.
+
+732
+00:38:01,155 --> 00:38:03,041
+Comment j'ai pu oublier que ta mère t'a oublié dans un bus.
+
+733
+00:38:03,098 --> 00:38:04,793
+Je n’en ai aucune idée, Jethro.
+
+734
+00:38:04,897 --> 00:38:07,041
+- T'es sûr que tu devrais être dehors Gibbs ?
+- Pas le temps, Abs.
+
+735
+00:38:07,077 --> 00:38:08,273
+Je vous parlerai plus tard.
+
+736
+00:38:11,537 --> 00:38:13,613
+J'aurais dû savoir que ce n'était pas Galib.
+
+737
+00:38:13,706 --> 00:38:15,060
+Oh non. Patron,
+
+738
+00:38:15,136 --> 00:38:17,051
+j'aurais fait la même erreur.
+
+739
+00:38:17,178 --> 00:38:18,790
+Ouais DiNozzo, je sais.
+
+740
+00:38:18,865 --> 00:38:20,773
+C'est pour ça que je suis énervé.
+
+741
+00:38:21,227 --> 00:38:23,291
+Tu ne m'as pas oublié !
+
+742
+00:38:24,535 --> 00:38:27,423
+Le "Cape Fear" contient plus de 20 000 tonnes
+
+743
+00:38:27,477 --> 00:38:29,463
+de munitions, directeur adjoint Welsh
+
+744
+00:38:29,527 --> 00:38:31,883
+C'est la raison pour laquelle on ne peut l'autoriser à rejoindre Gibraltar
+
+745
+00:38:31,887 --> 00:38:33,502
+sans y envoyer une équipe de la marine.
+
+746
+00:38:33,575 --> 00:38:34,413
+Je suis d'accord.
+
+747
+00:38:34,478 --> 00:38:36,460
+Mais si cette frégate envoie un signal de coopération
+
+748
+00:38:36,538 --> 00:38:40,090
+avant abordage, Pinpin Pula fera exploser le "Cape Fear".
+
+749
+00:38:40,165 --> 00:38:41,353
+Personne ne survivra.
+
+750
+00:38:41,386 --> 00:38:44,033
+S'il est à bord et si c'est un kamikaze.
+
+751
+00:38:44,087 --> 00:38:47,590
+Vous risquez la vie de 19 civils, basé sur des "si", directeur Welsh.
+
+752
+00:38:47,705 --> 00:38:50,040
+En pleine Méditerranée, il pourrait exploser près d'un bateau de croisière.
+
+753
+00:38:50,108 --> 00:38:52,452
+19 serait alors une perte acceptable.
+
+754
+00:38:52,488 --> 00:38:54,720
+Aucune mort n'est acceptable, à moins d'être nécessaire.
+
+755
+00:38:54,758 --> 00:38:57,363
+Directeur adjoint Welsh voici l'agent spécial Gibbs.
+
+756
+00:38:58,348 --> 00:39:01,070
+Ce terroriste n'en veut pas à un bateau de croisière.
+
+757
+00:39:01,167 --> 00:39:02,973
+Les terroristes islamiques adorent ce genre de cible.
+
+758
+00:39:03,045 --> 00:39:04,921
+Non, il veut que la marine renvoie
+
+759
+00:39:04,998 --> 00:39:06,870
+le "Cape Fear" s'établir dans le Golfe.
+
+760
+00:39:06,915 --> 00:39:09,091
+Vous ne savez pas ce qu'il veut, c'est un terroriste.
+
+761
+00:39:09,145 --> 00:39:12,311
+- Un bateau de croisière, le Canal de Suez...
+- Il me l'a dit !
+
+762
+00:39:13,087 --> 00:39:14,270
+Il vous l'a dit ?
+
+763
+00:39:14,348 --> 00:39:16,480
+Pinpin Pula est un enfoiré arrogant !
+
+764
+00:39:16,537 --> 00:39:18,650
+Il croyait que sa bombe allait me tuer !
+
+765
+00:39:18,707 --> 00:39:20,731
+Il n'est donc pas kamikaze.
+
+766
+00:39:20,908 --> 00:39:23,920
+Pour l'amour de Dieu, ordonnez à cette frégate de se retirer !
+
+767
+00:39:25,848 --> 00:39:26,570
+Je ne peux pas.
+
+768
+00:39:27,887 --> 00:39:30,543
+Est-ce que tout le monde là haut, est aussi stupide que vous ?!
+
+769
+00:39:30,896 --> 00:39:33,450
+Pinpin Pula est sur le "Cape Fear".
+
+770
+00:39:33,525 --> 00:39:35,021
+C'est le radio !
+
+771
+00:39:35,088 --> 00:39:37,770
+Il intercepte chacun de nos avis de recherche en répondant,
+
+772
+00:39:37,876 --> 00:39:39,042
+"Pas de Pinpin sur le navire".
+
+773
+00:39:39,097 --> 00:39:41,382
+On a compris, agent spécial Gibbs.
+
+774
+00:39:41,457 --> 00:39:45,531
+C'est pour cette raison que nous n'avons pas communiqué avec le "Cape Fear" jusqu'à
+
+775
+00:39:45,726 --> 00:39:46,761
+maintenant.
+
+776
+00:39:47,247 --> 00:39:48,803
+Jeff, Dieu merci tu es là.
+
+777
+00:39:48,888 --> 00:39:51,350
+Tu peux envoyer tes SEALs à bord sans être vu ?
+
+778
+00:39:51,378 --> 00:39:53,753
+On peut exécuter une infiltration-exfiltration dans un délai de 10 heures.
+
+779
+00:39:53,827 --> 00:39:56,412
+Le "Cape Fear" serait en Méditerranée. C'est inacceptable.
+
+780
+00:39:56,457 --> 00:39:59,371
+Si quelque chose se produisait, ça serait sur une vidéo de touriste.
+
+781
+00:39:59,427 --> 00:40:02,141
+Les marins sur cette frégate ont des caméras !
+
+782
+00:40:02,196 --> 00:40:04,792
+Nous pouvons confisquer ces vidéos.
+
+783
+00:40:05,048 --> 00:40:05,792
+Quoi ?!
+
+784
+00:40:06,397 --> 00:40:08,691
+Vous ne voulez pas qu'on voie ça ?!
+
+785
+00:40:08,766 --> 00:40:10,383
+Un accident en mer
+
+786
+00:40:10,756 --> 00:40:12,673
+est mieux qu'un acte de terrorisme.
+
+787
+00:40:14,646 --> 00:40:15,710
+C'est trop tard !
+
+788
+00:40:16,006 --> 00:40:17,510
+"Cape Fear" répondez.
+
+789
+00:40:17,585 --> 00:40:19,701
+Préparez-vous à être abordé pour inspection.
+
+790
+00:40:24,386 --> 00:40:25,512
+Espèce d'enfoiré !
+
+791
+00:40:52,868 --> 00:40:53,940
+J'avais tort.
+
+792
+00:40:58,337 --> 00:40:59,573
+Non.
+
+793
+00:41:01,445 --> 00:41:02,922
+J'étais en colère contre Mike.
+
+794
+00:41:04,285 --> 00:41:06,652
+Je n'avais pas compris pourquoi il avait démissionné...
+
+795
+00:41:13,328 --> 00:41:14,702
+...jusqu'à aujourd'hui.
+
+796
+00:41:26,766 --> 00:41:28,003
+Je les ai, patron.
+
+797
+00:41:28,626 --> 00:41:31,390
+Je les ai récupérés des ambulanciers, quand ils t'ont pris.
+
+798
+00:41:32,927 --> 00:41:34,063
+Je te remercie.
+
+799
+00:41:39,996 --> 00:41:41,273
+Tu t'en occuperas.
+
+800
+00:41:48,886 --> 00:41:49,952
+C'est ton équipe à présent.
+
+801
+00:41:57,818 --> 00:42:00,270
+Tim, t'es un bon agent.
+
+802
+00:42:01,397 --> 00:42:03,411
+Ne le laisse pas te dire le contraire.
+
+803
+00:42:04,558 --> 00:42:05,801
+Promis, patron.
+
+804
+00:42:07,647 --> 00:42:08,823
+Gibbs ?
+
+805
+00:42:26,337 --> 00:42:28,312
+Je te suis redevable, Ziva.
+
+806
+00:42:29,626 --> 00:42:31,660
+Je te le rappellerai, Jethro.
+
+807
+00:42:35,448 --> 00:42:37,740
+- Ramène-moi chez moi, Duck.
+- Bien sûr.
+
+808
+00:42:50,637 --> 00:42:51,811
+Semper fi.
+
+809
+00:43:20,048 --> 00:43:25,102
+Transcript: Raceman. Synchro: BadGOne.
+Rdv en septembre pour la saison 4!!
+
+810
+00:43:25,107 --> 00:43:39,011
+Adaptation: BadGOne, Hugues, gsnake et Marmotte
+Relecture: Isabelle, Mickey.
+Resynchro HR HD 5.1: Loulox
+www.forom.com www.team-ncis.com
+

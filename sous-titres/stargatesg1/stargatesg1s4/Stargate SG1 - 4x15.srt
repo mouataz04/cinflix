@@ -1,0 +1,4218 @@
+1
+00:00:00,000 --> 00:00:11,447
+ 
+
+2
+00:00:11,447 --> 00:00:14,644
+- Que se passe-t-il?
+- Le SG-1 est attaqué.
+
+3
+00:00:14,644 --> 00:00:17,687
+ 
+
+4
+00:00:17,687 --> 00:00:21,157
+O'Neill, c'est le général Hammond.
+Votre situation.
+
+5
+00:00:21,157 --> 00:00:21,247
+ 
+
+6
+00:00:21,247 --> 00:00:23,442
+On est coincés.
+
+7
+00:00:23,442 --> 00:00:23,527
+ 
+
+8
+00:00:23,527 --> 00:00:28,282
+Carter a pu composer Ies coordonnées.
+On essaie de se dégager pour passer.
+
+9
+00:00:28,282 --> 00:00:28,367
+ 
+
+10
+00:00:28,367 --> 00:00:30,358
+Ouvrez l'iris.
+
+11
+00:00:30,358 --> 00:00:36,087
+ 
+
+12
+00:00:36,087 --> 00:00:38,078
+Evacuez la salle du Stargate.
+
+13
+00:00:38,078 --> 00:00:42,607
+ 
+
+14
+00:00:42,607 --> 00:00:45,804
+Colonel O'Neill,
+nous essuyons des tirs. A vous.
+
+15
+00:00:45,804 --> 00:00:50,047
+ 
+
+16
+00:00:50,047 --> 00:00:52,038
+Colonel O'Neill.
+
+17
+00:00:52,038 --> 00:00:54,087
+ 
+
+18
+00:00:54,087 --> 00:00:55,884
+Général?
+
+19
+00:00:55,884 --> 00:00:56,687
+ 
+
+20
+00:00:56,687 --> 00:00:58,837
+Donnez-leur plus de temps.
+
+21
+00:00:58,837 --> 00:01:19,967
+ 
+
+22
+00:01:19,967 --> 00:01:24,518
+Pour résumer, on est tombés dans
+une embuscade en revenant à la porte.
+
+23
+00:01:24,518 --> 00:01:24,607
+ 
+
+24
+00:01:24,607 --> 00:01:27,997
+- On a eu du mal à rentrer.
+- ll s'en est fallu de peu.
+
+25
+00:01:27,997 --> 00:01:28,087
+ 
+
+26
+00:01:28,087 --> 00:01:32,399
+- J'allais fermer l'iris.
+- Comme le SGC essuyait des tirs,
+
+27
+00:01:32,399 --> 00:01:32,487
+ 
+
+28
+00:01:32,487 --> 00:01:35,160
+on vous remercie d'avoir attendu.
+
+29
+00:01:35,160 --> 00:01:35,247
+ 
+
+30
+00:01:35,247 --> 00:01:40,082
+A strictement parler, si j'avais suivi
+la procédure, vous seriez tous morts.
+
+31
+00:01:40,082 --> 00:01:40,167
+ 
+
+32
+00:01:40,167 --> 00:01:43,876
+Quand on franchit le Stargate,
+c'est un risque calculé.
+
+33
+00:01:43,876 --> 00:01:43,967
+ 
+
+34
+00:01:43,967 --> 00:01:48,995
+Je sais. Mais j'en ai assez
+d'envoyer mes bons éléments là-bas,
+
+35
+00:01:48,995 --> 00:01:49,087
+ 
+
+36
+00:01:49,087 --> 00:01:52,204
+sans jamais savoir s'ils vont revenir.
+
+37
+00:01:52,204 --> 00:01:52,287
+ 
+
+38
+00:01:52,287 --> 00:01:54,164
+C'en est trop.
+
+39
+00:01:54,164 --> 00:01:55,367
+ 
+
+40
+00:01:55,367 --> 00:01:57,323
+Excusez-moi. Que dites-vous?
+
+41
+00:01:57,323 --> 00:01:58,687
+ 
+
+42
+00:01:58,687 --> 00:02:01,679
+Je voulais que vous soyez
+les premiers à savoir.
+
+43
+00:02:01,679 --> 00:02:01,767
+ 
+
+44
+00:02:01,767 --> 00:02:05,601
+Dès aujourd'hui, je quitte
+le commandement du SGC.
+
+45
+00:02:05,601 --> 00:03:22,887
+ 
+
+46
+00:03:22,887 --> 00:03:25,481
+Vous êtes venu me dire au revoir?
+
+47
+00:03:25,481 --> 00:03:25,567
+ 
+
+48
+00:03:25,567 --> 00:03:28,365
+Non. Je suis venu
+vous faire changer d'avis.
+
+49
+00:03:28,365 --> 00:03:29,167
+ 
+
+50
+00:03:29,167 --> 00:03:32,159
+- Merci. Vous finirez plus tard.
+- Bien, général.
+
+51
+00:03:32,159 --> 00:03:36,207
+ 
+
+52
+00:03:36,207 --> 00:03:39,722
+Vous n'avez pas entendu
+mon discours d'adieu?
+
+53
+00:03:39,722 --> 00:03:39,807
+ 
+
+54
+00:03:39,807 --> 00:03:42,196
+Si, évidemment. Vous le savez bien.
+
+55
+00:03:42,196 --> 00:03:43,407
+ 
+
+56
+00:03:43,407 --> 00:03:45,238
+Et c'était charmant, général.
+
+57
+00:03:45,238 --> 00:03:45,327
+ 
+
+58
+00:03:45,327 --> 00:03:51,118
+Mais vous voulez me faire croire que vous
+démissionnez parce qu'on a eu un pépin?
+
+59
+00:03:51,118 --> 00:03:51,207
+ 
+
+60
+00:03:51,207 --> 00:03:54,005
+On a été présumés morts plus d'une fois.
+
+61
+00:03:54,005 --> 00:03:55,567
+ 
+
+62
+00:03:55,567 --> 00:03:58,764
+Je n'ai pas à vous donner
+d'explications, colonel.
+
+63
+00:03:58,764 --> 00:03:59,727
+ 
+
+64
+00:03:59,727 --> 00:04:02,400
+Non, bien sûr.
+Vous êtes mon commandant.
+
+65
+00:04:02,400 --> 00:04:02,487
+ 
+
+66
+00:04:02,487 --> 00:04:05,081
+Mais pourriez-vous me mettre sur la voie?
+
+67
+00:04:05,081 --> 00:04:05,167
+ 
+
+68
+00:04:05,167 --> 00:04:07,476
+Jack, j'y ai mûrement réfléchi.
+
+69
+00:04:07,476 --> 00:04:07,567
+ 
+
+70
+00:04:07,567 --> 00:04:10,400
+Je vous demande
+de respecter ma décision.
+
+71
+00:04:10,400 --> 00:04:10,487
+ 
+
+72
+00:04:10,487 --> 00:04:13,524
+Quand je suis arrivé,
+le Stargate était inactif.
+
+73
+00:04:13,524 --> 00:04:13,607
+ 
+
+74
+00:04:13,607 --> 00:04:17,122
+ça devait être une mission
+facile avant ma retraite.
+
+75
+00:04:17,122 --> 00:04:17,207
+ 
+
+76
+00:04:17,207 --> 00:04:20,165
+Dois-je vous rappeler
+que j'étais retraité, moi?
+
+77
+00:04:20,165 --> 00:04:21,807
+ 
+
+78
+00:04:21,807 --> 00:04:25,004
+Certaines causes valent
+la peine de changer d'avis.
+
+79
+00:04:25,004 --> 00:04:25,687
+ 
+
+80
+00:04:25,687 --> 00:04:28,247
+J'en ai assez.
+
+81
+00:04:28,247 --> 00:04:37,087
+ 
+
+82
+00:04:37,087 --> 00:04:40,875
+Sachez que ça a été un plaisir
+de servir avec vous tous.
+
+83
+00:04:40,875 --> 00:04:41,927
+ 
+
+84
+00:04:41,927 --> 00:04:43,918
+Vous nous manquerez.
+
+85
+00:04:43,918 --> 00:04:50,407
+ 
+
+86
+00:04:50,407 --> 00:04:53,001
+Ce ne sera plus pareil sans vous.
+
+87
+00:04:53,001 --> 00:04:57,567
+ 
+
+88
+00:04:57,567 --> 00:05:01,799
+Sur Chulak, quand un guerrier quitte
+le combat, on chante une complainte.
+
+89
+00:05:01,799 --> 00:05:06,527
+ 
+
+90
+00:05:06,527 --> 00:05:08,518
+Par chance, nous sommes sur Terre.
+
+91
+00:05:08,518 --> 00:05:14,167
+ 
+
+92
+00:05:14,167 --> 00:05:16,158
+Prenez soin de vous.
+
+93
+00:05:16,158 --> 00:05:27,887
+ 
+
+94
+00:05:27,887 --> 00:05:30,481
+Qu'est-ce qu'on sait sur le nouveau chef?
+
+95
+00:05:30,481 --> 00:05:30,567
+ 
+
+96
+00:05:30,567 --> 00:05:31,682
+Pas grand-chose.
+
+97
+00:05:31,682 --> 00:05:31,767
+ 
+
+98
+00:05:31,767 --> 00:05:34,486
+J'espère que c'est pas
+un maniaque de l'ordre...
+
+99
+00:05:34,486 --> 00:05:34,567
+ 
+
+100
+00:05:34,567 --> 00:05:37,127
+- Un chieur?
+- J'allais y venir.
+
+101
+00:05:37,127 --> 00:05:37,207
+ 
+
+102
+00:05:37,207 --> 00:05:39,198
+Garde-à-vous.
+
+103
+00:05:39,198 --> 00:05:43,647
+ 
+
+104
+00:05:43,647 --> 00:05:46,286
+Je me présente: major général Bauer.
+
+105
+00:05:46,286 --> 00:05:46,367
+ 
+
+106
+00:05:46,367 --> 00:05:48,676
+Je suis votre nouveau commandant.
+
+107
+00:05:48,676 --> 00:05:48,767
+ 
+
+108
+00:05:48,767 --> 00:05:53,966
+Je dirai simplement que je me réjouis
+de travailler avec vous tous. Merci.
+
+109
+00:05:53,966 --> 00:06:04,407
+ 
+
+110
+00:06:04,407 --> 00:06:06,398
+Escadron, repos.
+
+111
+00:06:06,398 --> 00:06:10,407
+ 
+
+112
+00:06:10,407 --> 00:06:13,399
+ll veut ménager le suspense, j'imagine.
+
+113
+00:06:13,399 --> 00:06:16,287
+ 
+
+114
+00:06:16,287 --> 00:06:19,882
+Je m'attendais
+à quelqu'un de plus... stimulant.
+
+115
+00:06:19,882 --> 00:06:19,967
+ 
+
+116
+00:06:19,967 --> 00:06:23,084
+Au Pentagone,
+on devient vite un bureaucrate.
+
+117
+00:06:23,084 --> 00:06:23,167
+ 
+
+118
+00:06:23,167 --> 00:06:25,397
+Ou un politicien.
+
+119
+00:06:25,397 --> 00:06:26,767
+ 
+
+120
+00:06:26,767 --> 00:06:29,361
+Tout dépend des intérêts qu'on a.
+
+121
+00:06:29,361 --> 00:06:29,447
+ 
+
+122
+00:06:29,447 --> 00:06:32,325
+- Général, je...
+- Repos, commandant Carter.
+
+123
+00:06:32,325 --> 00:06:33,407
+ 
+
+124
+00:06:33,407 --> 00:06:38,197
+J'ai examiné vos recherches
+sur les réacteurs au naqahdah.
+
+125
+00:06:38,197 --> 00:06:38,287
+ 
+
+126
+00:06:38,287 --> 00:06:40,039
+Très impressionnant.
+
+127
+00:06:40,039 --> 00:06:40,127
+ 
+
+128
+00:06:40,127 --> 00:06:43,199
+L'application à grande
+échelle reste théorique,
+
+129
+00:06:43,199 --> 00:06:43,287
+ 
+
+130
+00:06:43,287 --> 00:06:46,165
+mais le minerai
+est une bonne source d'énergie.
+
+131
+00:06:46,165 --> 00:06:46,247
+ 
+
+132
+00:06:46,247 --> 00:06:50,923
+ll peut être utilisé de manière
+avantageuse avec l'arme nucléaire.
+
+133
+00:06:50,923 --> 00:06:52,967
+ 
+
+134
+00:06:52,967 --> 00:06:56,676
+ll tend à amplifier
+l'effet explosif. C'est vrai, général.
+
+135
+00:06:56,676 --> 00:06:57,607
+ 
+
+136
+00:06:57,607 --> 00:07:00,963
+Le Pentagone estime
+que le projet Stargate,
+
+137
+00:07:00,963 --> 00:07:01,047
+ 
+
+138
+00:07:01,047 --> 00:07:05,006
+qui met la Terre en danger,
+ne nous a encore rien apporté.
+
+139
+00:07:05,006 --> 00:07:05,087
+ 
+
+140
+00:07:05,087 --> 00:07:07,317
+Nous travaillons sur un appareil
+
+141
+00:07:07,317 --> 00:07:07,407
+ 
+
+142
+00:07:07,407 --> 00:07:10,604
+qui exploite l'effet
+amplificateur du naqahdah.
+
+143
+00:07:10,604 --> 00:07:10,687
+ 
+
+144
+00:07:10,687 --> 00:07:13,963
+J'aimerais que vous participiez
+à cette opération.
+
+145
+00:07:13,963 --> 00:07:14,367
+ 
+
+146
+00:07:14,367 --> 00:07:17,484
+- Et mes fonctions au SG-1?
+- Vous êtes réaffectée.
+
+147
+00:07:17,484 --> 00:07:17,567
+ 
+
+148
+00:07:17,567 --> 00:07:20,035
+- Quoi?
+- Tout comme vous, Dr Jackson.
+
+149
+00:07:20,035 --> 00:07:20,967
+ 
+
+150
+00:07:20,967 --> 00:07:23,640
+Un archéologue n'a pas sa place au front.
+
+151
+00:07:23,640 --> 00:07:23,727
+ 
+
+152
+00:07:23,727 --> 00:07:26,639
+Vous serez consultant,
+le plus souvent sur Terre.
+
+153
+00:07:26,639 --> 00:07:26,727
+ 
+
+154
+00:07:26,727 --> 00:07:30,720
+- Général Bauer...
+- Ma décision est prise, commandant.
+
+155
+00:07:30,720 --> 00:07:33,967
+ 
+
+156
+00:07:33,967 --> 00:07:35,559
+Mettez-vous au travail.
+
+157
+00:07:35,559 --> 00:07:47,247
+ 
+
+158
+00:07:47,247 --> 00:07:49,238
+Entrez.
+
+159
+00:07:49,238 --> 00:07:51,407
+ 
+
+160
+00:07:51,407 --> 00:07:53,716
+- Colonel O'Neill.
+- Général.
+
+161
+00:07:53,716 --> 00:07:54,847
+ 
+
+162
+00:07:54,847 --> 00:07:56,838
+Merci, Kim.
+
+163
+00:07:56,838 --> 00:07:58,047
+ 
+
+164
+00:07:58,047 --> 00:08:01,119
+Je viens de lire vos rapports de mission.
+
+165
+00:08:01,119 --> 00:08:03,807
+ 
+
+166
+00:08:03,807 --> 00:08:06,162
+- Oui?
+- lls sont satisfaisants.
+
+167
+00:08:06,162 --> 00:08:06,247
+ 
+
+168
+00:08:06,247 --> 00:08:09,842
+Vous pourriez ajouter
+des résumés sous forme de listes.
+
+169
+00:08:09,842 --> 00:08:09,927
+ 
+
+170
+00:08:09,927 --> 00:08:12,122
+ça facilite la lecture.
+
+171
+00:08:12,122 --> 00:08:14,367
+ 
+
+172
+00:08:14,367 --> 00:08:16,756
+Sous forme de listes?
+
+173
+00:08:16,756 --> 00:08:17,327
+ 
+
+174
+00:08:17,327 --> 00:08:19,716
+Cela vous pose-t-il un problème?
+
+175
+00:08:19,716 --> 00:08:20,607
+ 
+
+176
+00:08:20,607 --> 00:08:26,523
+Je sais que la mise en page de mes
+rapports est d'une importance capitale,
+
+177
+00:08:26,523 --> 00:08:26,607
+ 
+
+178
+00:08:26,607 --> 00:08:30,077
+et, si vous voulez,
+on discutera des marges un jour.
+
+179
+00:08:30,077 --> 00:08:30,167
+ 
+
+180
+00:08:30,167 --> 00:08:35,480
+Dites-moi d'abord pourquoi vous avez
+démantelé mon équipe sans mon accord.
+
+181
+00:08:35,480 --> 00:08:35,927
+ 
+
+182
+00:08:35,927 --> 00:08:39,806
+Le général Hammond vous laissait
+peut-être certaines libertés,
+
+183
+00:08:39,806 --> 00:08:39,887
+ 
+
+184
+00:08:39,887 --> 00:08:42,606
+mais il vous faudra
+changer de ton avec moi.
+
+185
+00:08:42,606 --> 00:08:44,767
+ 
+
+186
+00:08:44,767 --> 00:08:47,645
+Hammond avait une raison
+de maintenir l'équipe.
+
+187
+00:08:47,645 --> 00:08:47,727
+ 
+
+188
+00:08:47,727 --> 00:08:50,924
+En fait, si le SG-1 n'avait pas été là,
+
+189
+00:08:50,924 --> 00:08:51,007
+ 
+
+190
+00:08:51,007 --> 00:08:53,840
+vous auriez un serpent dans la tête,
+
+191
+00:08:53,840 --> 00:08:53,927
+ 
+
+192
+00:08:53,927 --> 00:08:57,363
+- au lieu de votre cervelle de m...
+- Colonel.
+
+193
+00:08:57,363 --> 00:08:59,607
+ 
+
+194
+00:08:59,607 --> 00:09:01,996
+Personne ici n'est irréprochable.
+
+195
+00:09:01,996 --> 00:09:02,367
+ 
+
+196
+00:09:02,367 --> 00:09:05,200
+Si vous continuez, je mettrai fin
+
+197
+00:09:05,200 --> 00:09:05,287
+ 
+
+198
+00:09:05,287 --> 00:09:10,441
+à votre incessante indiscipline
+rapidement et sans cérémonie.
+
+199
+00:09:10,441 --> 00:09:13,687
+ 
+
+200
+00:09:13,687 --> 00:09:18,807
+Je vous conseille
+de prendre le temps de réfléchir.
+
+201
+00:09:18,807 --> 00:09:20,047
+ 
+
+202
+00:09:20,047 --> 00:09:24,006
+Vous me direz si vous voulez
+toujours participer à l'opération.
+
+203
+00:09:24,006 --> 00:09:24,487
+ 
+
+204
+00:09:24,487 --> 00:09:26,159
+Rompez.
+
+205
+00:09:26,159 --> 00:09:48,767
+ 
+
+206
+00:09:48,767 --> 00:09:51,565
+- Bonjour, Jack. Entrez.
+- Général.
+
+207
+00:09:51,565 --> 00:09:54,367
+ 
+
+208
+00:09:54,367 --> 00:09:56,756
+Je vois que vous vous occupez.
+
+209
+00:09:56,756 --> 00:09:57,807
+ 
+
+210
+00:09:57,807 --> 00:09:59,798
+Prenez une chaise.
+
+211
+00:09:59,798 --> 00:10:01,087
+ 
+
+212
+00:10:01,087 --> 00:10:04,284
+- Que faites-vous?
+- Je suis en vacances.
+
+213
+00:10:04,284 --> 00:10:05,727
+ 
+
+214
+00:10:05,727 --> 00:10:11,085
+- Vous ne veniez pas de partir en congé?
+- Si. Mais là, je ne l'ai pas choisi.
+
+215
+00:10:11,085 --> 00:10:11,487
+ 
+
+216
+00:10:11,487 --> 00:10:14,365
+Mon remplaçant
+est moins indulgent que moi.
+
+217
+00:10:14,365 --> 00:10:17,847
+ 
+
+218
+00:10:17,847 --> 00:10:19,405
+Je suis venu pour ça.
+
+219
+00:10:19,405 --> 00:10:20,967
+ 
+
+220
+00:10:20,967 --> 00:10:24,960
+- L'adaptation est difficile?
+- Oh, non. Tout va très bien.
+
+221
+00:10:24,960 --> 00:10:26,047
+ 
+
+222
+00:10:26,047 --> 00:10:28,515
+Le SG-1 a été démantelé,
+
+223
+00:10:28,515 --> 00:10:28,607
+ 
+
+224
+00:10:28,607 --> 00:10:31,758
+Daniel a un travail de bureau,
+Teal'c est au SG-3,
+
+225
+00:10:31,758 --> 00:10:31,847
+ 
+
+226
+00:10:31,847 --> 00:10:36,284
+et Carter travaille sur une sorte
+de machine de mort. La routine.
+
+227
+00:10:36,284 --> 00:10:36,607
+ 
+
+228
+00:10:36,607 --> 00:10:39,599
+- Vous êtes sérieux?
+- Pour une fois, oui.
+
+229
+00:10:39,599 --> 00:10:41,207
+ 
+
+230
+00:10:41,207 --> 00:10:44,756
+Vous vous habituerez à cet homme.
+ll doit être compétent.
+
+231
+00:10:44,756 --> 00:10:44,847
+ 
+
+232
+00:10:44,847 --> 00:10:47,315
+Enfin, général.
+
+233
+00:10:47,315 --> 00:10:47,407
+ 
+
+234
+00:10:47,407 --> 00:10:50,922
+Personne n'aime
+son travail autant que vous.
+
+235
+00:10:50,922 --> 00:10:51,007
+ 
+
+236
+00:10:51,007 --> 00:10:53,202
+Et vous le faites bien. Très bien.
+
+237
+00:10:53,202 --> 00:10:54,447
+ 
+
+238
+00:10:54,447 --> 00:10:59,077
+Vous ne me convaincrez jamais que
+vous vous êtes lassé. Je ne marche pas.
+
+239
+00:10:59,077 --> 00:10:59,167
+ 
+
+240
+00:10:59,167 --> 00:11:01,806
+Désolé. ça ne dépend pas de moi.
+
+241
+00:11:01,806 --> 00:11:04,247
+ 
+
+242
+00:11:04,247 --> 00:11:07,239
+- Que dites-vous?
+- Je ne peux pas en parler.
+
+243
+00:11:07,239 --> 00:11:09,087
+ 
+
+244
+00:11:09,087 --> 00:11:10,600
+Général?
+
+245
+00:11:10,600 --> 00:11:13,127
+ 
+
+246
+00:11:13,127 --> 00:11:15,163
+Vous ne comprenez pas.
+
+247
+00:11:15,163 --> 00:11:15,247
+ 
+
+248
+00:11:15,247 --> 00:11:18,523
+ça ne risque pas,
+si vous ne m'expliquez rien.
+
+249
+00:11:18,523 --> 00:11:25,247
+ 
+
+250
+00:11:25,247 --> 00:11:29,684
+ll y a deux semaines, j'ai été
+contacté par un représentant de la NlD.
+
+251
+00:11:29,684 --> 00:11:29,767
+ 
+
+252
+00:11:29,767 --> 00:11:33,157
+ll m'a conseillé de mener
+des actions plus offensives.
+
+253
+00:11:33,157 --> 00:11:33,247
+ 
+
+254
+00:11:33,247 --> 00:11:35,238
+Ce n'est pas de leur compétence.
+
+255
+00:11:35,238 --> 00:11:35,327
+ 
+
+256
+00:11:35,327 --> 00:11:38,319
+lls convoitent
+les technologies extraterrestres,
+
+257
+00:11:38,319 --> 00:11:38,407
+ 
+
+258
+00:11:38,407 --> 00:11:42,082
+et n'y ont plus accès
+depuis qu'on a déjoué leurs plans.
+
+259
+00:11:42,082 --> 00:11:42,487
+ 
+
+260
+00:11:42,487 --> 00:11:44,876
+- Vous l'avez envoyé paître?
+- Bien sûr.
+
+261
+00:11:44,876 --> 00:11:44,967
+ 
+
+262
+00:11:44,967 --> 00:11:49,722
+ll m'a dit que si je refusais de coopérer,
+j'en paierais les conséquences.
+
+263
+00:11:49,722 --> 00:11:49,807
+ 
+
+264
+00:11:49,807 --> 00:11:52,526
+Le lendemain, deux hommes en civil,
+
+265
+00:11:52,526 --> 00:11:52,607
+ 
+
+266
+00:11:52,607 --> 00:11:57,727
+dans une voiture banalisée noire,
+ont pris mes petites-filles à l'école.
+
+267
+00:11:57,727 --> 00:11:58,767
+ 
+
+268
+00:11:58,767 --> 00:12:01,156
+- C'est pas vrai.
+- Après un petit tour,
+
+269
+00:12:01,156 --> 00:12:01,247
+ 
+
+270
+00:12:01,247 --> 00:12:05,525
+ils les ont ramenées. Saines et sauves,
+mais j'ai compris le message.
+
+271
+00:12:05,525 --> 00:12:07,087
+ 
+
+272
+00:12:07,087 --> 00:12:10,762
+C'est une organisation
+aussi puissante que la ClA.
+
+273
+00:12:10,762 --> 00:12:10,847
+ 
+
+274
+00:12:10,847 --> 00:12:16,046
+lls sont au-dessus des lois. Je ne peux
+pas protéger ma famille 24 heures sur 24.
+
+275
+00:12:16,046 --> 00:12:16,127
+ 
+
+276
+00:12:16,127 --> 00:12:18,118
+Je n'avais pas le choix.
+
+277
+00:12:18,118 --> 00:12:18,567
+ 
+
+278
+00:12:18,567 --> 00:12:20,558
+Bien sûr.
+
+279
+00:12:20,558 --> 00:12:24,767
+ 
+
+280
+00:12:24,767 --> 00:12:28,362
+Ne vous attirez pas d'ennuis
+avec cette histoire.
+
+281
+00:12:28,362 --> 00:12:31,047
+ 
+
+282
+00:12:31,047 --> 00:12:33,038
+Vous me connaissez, général.
+
+283
+00:12:33,038 --> 00:12:59,327
+ 
+
+284
+00:12:59,327 --> 00:13:01,318
+Jack O'Neill.
+
+285
+00:13:01,318 --> 00:13:02,127
+ 
+
+286
+00:13:02,127 --> 00:13:04,322
+Quelle agréable surprise.
+
+287
+00:13:04,322 --> 00:13:17,927
+ 
+
+288
+00:13:17,927 --> 00:13:19,918
+Repos.
+
+289
+00:13:19,918 --> 00:13:20,407
+ 
+
+290
+00:13:20,407 --> 00:13:22,637
+Le travail avance, commandant?
+
+291
+00:13:22,637 --> 00:13:22,727
+ 
+
+292
+00:13:22,727 --> 00:13:27,357
+Le matériel est bientôt prêt.
+C'est le naqahdah qui pose problème.
+
+293
+00:13:27,357 --> 00:13:27,447
+ 
+
+294
+00:13:27,447 --> 00:13:31,759
+Nous manquons de minerai
+de la qualité voulue pour finir la bombe.
+
+295
+00:13:31,759 --> 00:13:31,847
+ 
+
+296
+00:13:31,847 --> 00:13:35,556
+- Nous nous en procurerons.
+- ll nous faut du naqahdah pur.
+
+297
+00:13:35,556 --> 00:13:35,647
+ 
+
+298
+00:13:35,647 --> 00:13:38,957
+- C'est extrêmement rare.
+- Pas sur P3S-452.
+
+299
+00:13:38,957 --> 00:13:39,327
+ 
+
+300
+00:13:39,327 --> 00:13:42,842
+- C'est une place forte goa'uld.
+- Je sais.
+
+301
+00:13:42,842 --> 00:13:43,367
+ 
+
+302
+00:13:43,367 --> 00:13:47,565
+Je suis sûr qu'un commando
+bien armé peut réussir cette mission.
+
+303
+00:13:47,565 --> 00:13:53,127
+ 
+
+304
+00:13:53,127 --> 00:13:57,200
+C'est gentil d'être venu.
+Je n'ai pas beaucoup de visites.
+
+305
+00:13:57,200 --> 00:13:57,287
+ 
+
+306
+00:13:57,287 --> 00:14:01,280
+- J'ai du mal à le croire.
+- Dans ma branche,
+
+307
+00:14:01,280 --> 00:14:01,367
+ 
+
+308
+00:14:01,367 --> 00:14:04,200
+on n'est pas
+d'une fidélité à toute épreuve.
+
+309
+00:14:04,200 --> 00:14:04,287
+ 
+
+310
+00:14:04,287 --> 00:14:08,405
+Mes associés s'efforcent
+d'oublier qu'ils m'ont connu.
+
+311
+00:14:08,405 --> 00:14:09,527
+ 
+
+312
+00:14:09,527 --> 00:14:12,883
+Ce sont vos anciens associés
+qui m'amènent.
+
+313
+00:14:12,883 --> 00:14:12,967
+ 
+
+314
+00:14:12,967 --> 00:14:15,686
+lls causent des ennuis à un de mes amis.
+
+315
+00:14:15,686 --> 00:14:16,967
+ 
+
+316
+00:14:16,967 --> 00:14:18,480
+Le général Hammond.
+
+317
+00:14:18,480 --> 00:14:19,407
+ 
+
+318
+00:14:19,407 --> 00:14:22,479
+- Que savez-vous?
+- Pourquoi je vous le dirais?
+
+319
+00:14:22,479 --> 00:14:23,447
+ 
+
+320
+00:14:23,447 --> 00:14:25,199
+Parce que je peux vous aider.
+
+321
+00:14:25,199 --> 00:14:25,287
+ 
+
+322
+00:14:25,287 --> 00:14:29,041
+J'ai été déclaré coupable de trahison.
+Que pouvez-vous faire?
+
+323
+00:14:29,041 --> 00:14:30,567
+ 
+
+324
+00:14:30,567 --> 00:14:33,286
+Je suis bien vu à la Maison-Blanche.
+
+325
+00:14:33,286 --> 00:14:35,567
+ 
+
+326
+00:14:35,567 --> 00:14:39,082
+- Je vais devoir vous faire confiance.
+- Si vous le dites.
+
+327
+00:14:39,082 --> 00:14:39,607
+ 
+
+328
+00:14:39,607 --> 00:14:44,317
+C'est simple. Comme vous avez empêché
+la NlD d'utiliser la deuxième porte,
+
+329
+00:14:44,317 --> 00:14:44,407
+ 
+
+330
+00:14:44,407 --> 00:14:47,604
+elle n'a plus accès
+à la technologie extraterrestre.
+
+331
+00:14:47,604 --> 00:14:47,687
+ 
+
+332
+00:14:47,687 --> 00:14:49,678
+Vous avez fait appel aux Russes.
+
+333
+00:14:49,678 --> 00:14:49,767
+ 
+
+334
+00:14:49,767 --> 00:14:52,406
+Le Pentagone
+les a fait renoncer à leur porte
+
+335
+00:14:52,406 --> 00:14:52,487
+ 
+
+336
+00:14:52,487 --> 00:14:56,116
+en échange d'informations
+et de technologie.
+
+337
+00:14:56,116 --> 00:14:56,207
+ 
+
+338
+00:14:56,207 --> 00:14:59,005
+- Nous avons la seule porte.
+- Exact.
+
+339
+00:14:59,005 --> 00:14:59,087
+ 
+
+340
+00:14:59,087 --> 00:15:03,956
+La NlD trouve que Hammond mène
+le projet Stargate trop passivement.
+
+341
+00:15:03,956 --> 00:15:04,647
+ 
+
+342
+00:15:04,647 --> 00:15:06,638
+Ce Bauer est de chez eux?
+
+343
+00:15:06,638 --> 00:15:07,127
+ 
+
+344
+00:15:07,127 --> 00:15:11,564
+Franchement, je ne sais pas.
+Je suis hors du coup depuis un moment.
+
+345
+00:15:11,564 --> 00:15:11,647
+ 
+
+346
+00:15:11,647 --> 00:15:13,956
+C'est peut-être un bouc émissaire,
+
+347
+00:15:13,956 --> 00:15:14,047
+ 
+
+348
+00:15:14,047 --> 00:15:19,075
+qui est manipulé parce qu'il a
+la mentalité qu'il faut.
+
+349
+00:15:19,075 --> 00:15:19,167
+ 
+
+350
+00:15:19,167 --> 00:15:23,877
+- C'est magouille et compagnie.
+- Ce sont des forces spéciales.
+
+351
+00:15:23,877 --> 00:15:23,967
+ 
+
+352
+00:15:23,967 --> 00:15:26,037
+Vous vous prenez pour un saint?
+
+353
+00:15:26,037 --> 00:15:26,127
+ 
+
+354
+00:15:26,127 --> 00:15:30,996
+Hé. Je n'ai pas menacé un général à deux
+étoiles d'enlever ses petits-enfants.
+
+355
+00:15:30,996 --> 00:15:31,087
+ 
+
+356
+00:15:31,087 --> 00:15:33,681
+Ne faites pas semblant d'être naÏiÏf.
+
+357
+00:15:33,681 --> 00:15:38,807
+ 
+
+358
+00:15:38,807 --> 00:15:43,085
+- Comment je peux l'arrêter?
+- On veut jouer dans la cour des grands?
+
+359
+00:15:43,085 --> 00:15:43,727
+ 
+
+360
+00:15:43,727 --> 00:15:46,958
+- Dites-moi comment faire.
+- Donnant, donnant.
+
+361
+00:15:46,958 --> 00:15:50,007
+ 
+
+362
+00:15:50,007 --> 00:15:55,127
+Vous risquez la peine de mort.
+Je peux glisser un mot en votre faveur,
+
+363
+00:15:55,127 --> 00:15:55,207
+ 
+
+364
+00:15:55,207 --> 00:15:58,882
+pour qu'ils commuent la peine
+en condamnation à perpétuité.
+
+365
+00:15:58,882 --> 00:15:58,967
+ 
+
+366
+00:15:58,967 --> 00:16:01,242
+Vous devrez faire bien plus que ça.
+
+367
+00:16:01,242 --> 00:16:01,327
+ 
+
+368
+00:16:01,327 --> 00:16:03,795
+Vous aurez vos informations.
+
+369
+00:16:03,795 --> 00:16:03,887
+ 
+
+370
+00:16:03,887 --> 00:16:08,438
+Des noms. Des preuves que des gens
+influents sont impliqués dans la NlD.
+
+371
+00:16:08,438 --> 00:16:10,127
+ 
+
+372
+00:16:10,127 --> 00:16:12,641
+- Continuez.
+- Ma parole ne sert à rien.
+
+373
+00:16:12,641 --> 00:16:12,847
+ 
+
+374
+00:16:12,847 --> 00:16:17,682
+Si vous voulez des preuves solides,
+faites-moi sortir d'ici quelques jours.
+
+375
+00:16:17,682 --> 00:16:17,967
+ 
+
+376
+00:16:17,967 --> 00:16:19,844
+Vous êtes cinglé?
+
+377
+00:16:19,844 --> 00:16:19,927
+ 
+
+378
+00:16:19,927 --> 00:16:23,124
+Vous savez combien
+de personnes je devrais décider?
+
+379
+00:16:23,124 --> 00:16:23,207
+ 
+
+380
+00:16:23,207 --> 00:16:25,243
+Une seule mais de taille.
+
+381
+00:16:25,243 --> 00:16:25,327
+ 
+
+382
+00:16:25,327 --> 00:16:29,002
+Vous êtes prêt à le faire,
+sinon vous ne seriez pas là.
+
+383
+00:16:29,002 --> 00:16:29,087
+ 
+
+384
+00:16:29,087 --> 00:16:32,124
+lnutile de dire:
+''Vous pouvez avoir confiance.''
+
+385
+00:16:32,124 --> 00:16:41,887
+ 
+
+386
+00:16:41,887 --> 00:16:44,959
+Une communication.
+C'est le code d'iris du SG-3.
+
+387
+00:16:44,959 --> 00:16:45,047
+ 
+
+388
+00:16:45,047 --> 00:16:47,322
+Ouvrez l'iris.
+
+389
+00:16:47,322 --> 00:17:06,807
+ 
+
+390
+00:17:06,807 --> 00:17:09,082
+Où est le commandant Wade?
+
+391
+00:17:09,082 --> 00:17:09,607
+ 
+
+392
+00:17:09,607 --> 00:17:10,756
+ll est mort.
+
+393
+00:17:10,756 --> 00:17:11,407
+ 
+
+394
+00:17:11,407 --> 00:17:13,841
+- Comment?
+- lls ont résisté avec force.
+
+395
+00:17:13,841 --> 00:17:13,927
+ 
+
+396
+00:17:13,927 --> 00:17:18,205
+- Le lieutenant Morrison nous couvrait...
+- Et le naqahdah?
+
+397
+00:17:18,205 --> 00:17:18,287
+ 
+
+398
+00:17:18,287 --> 00:17:21,757
+- Je me suis procuré la quantité voulue.
+- Excellent.
+
+399
+00:17:21,757 --> 00:17:21,847
+ 
+
+400
+00:17:21,847 --> 00:17:24,645
+Vous me ferez
+un rapport complet plus tard.
+
+401
+00:17:24,645 --> 00:17:25,967
+ 
+
+402
+00:17:25,967 --> 00:17:29,084
+J'ai arrêté l'hémorragie. Emmenons-le.
+
+403
+00:17:29,084 --> 00:17:45,327
+ 
+
+404
+00:17:45,327 --> 00:17:47,477
+Vous avez entendu parler d'lKEA?
+
+405
+00:17:47,477 --> 00:17:47,567
+ 
+
+406
+00:17:47,567 --> 00:17:52,960
+Vous devriez être flatté. Personne,
+pas même la NlD, ne connaît cet endroit.
+
+407
+00:17:52,960 --> 00:17:55,527
+ 
+
+408
+00:17:55,527 --> 00:17:57,677
+''Charles Bliss''?
+
+409
+00:17:57,677 --> 00:17:57,767
+ 
+
+410
+00:17:57,767 --> 00:18:00,122
+J'utilise une centaine de noms.
+
+411
+00:18:00,122 --> 00:18:03,247
+ 
+
+412
+00:18:03,247 --> 00:18:07,240
+Vous êtes au régime bière
+et moutarde. ça vous réussit?
+
+413
+00:18:07,240 --> 00:18:07,327
+ 
+
+414
+00:18:07,327 --> 00:18:09,318
+Non, merci.
+
+415
+00:18:09,318 --> 00:18:19,527
+ 
+
+416
+00:18:19,527 --> 00:18:24,920
+Si quelqu'un essaie de lancer l'ordinateur
+sans cette disquette, tout grille.
+
+417
+00:18:24,920 --> 00:18:30,847
+ 
+
+418
+00:18:30,847 --> 00:18:34,396
+- Que cherchez-vous?
+- Les fichiers de la NlD sur lnternet.
+
+419
+00:18:34,396 --> 00:18:35,927
+ 
+
+420
+00:18:35,927 --> 00:18:39,442
+- Sur lnternet?
+- L'organisation est formée de cellules.
+
+421
+00:18:39,442 --> 00:18:39,527
+ 
+
+422
+00:18:39,527 --> 00:18:43,281
+lls communiquent grâce
+à des kiosques électroniques en ligne.
+
+423
+00:18:43,281 --> 00:18:43,367
+ 
+
+424
+00:18:43,367 --> 00:18:47,599
+Les informations arrivent sur des serveurs
+protégés par des pare-feu,
+
+425
+00:18:47,599 --> 00:18:47,687
+ 
+
+426
+00:18:47,687 --> 00:18:50,679
+un logiciel de décodage
+et des mots de passe.
+
+427
+00:18:50,679 --> 00:18:50,767
+ 
+
+428
+00:18:50,767 --> 00:18:53,759
+Blablabla. Pourquoi vous deviez venir ici?
+
+429
+00:18:53,759 --> 00:18:53,847
+ 
+
+430
+00:18:53,847 --> 00:18:57,886
+Parce que le logiciel
+de décodage est sur cet ordinateur.
+
+431
+00:18:57,886 --> 00:19:00,927
+ 
+
+432
+00:19:00,927 --> 00:19:03,395
+ACCES REFUSE
+ESSAYEZ A NOUVEAU
+
+433
+00:19:03,395 --> 00:19:03,487
+ 
+
+434
+00:19:03,487 --> 00:19:07,605
+- lls ont désactivé mon mot de passe.
+- Quelle catastrophe.
+
+435
+00:19:07,605 --> 00:19:07,687
+ 
+
+436
+00:19:07,687 --> 00:19:10,485
+J'essaie d'entrer par la porte de derrière.
+
+437
+00:19:10,485 --> 00:19:12,607
+ 
+
+438
+00:19:12,607 --> 00:19:17,965
+Le naqahdah de P3S-452 a été
+incorporé dans l'appareil avec succès.
+
+439
+00:19:17,965 --> 00:19:18,047
+ 
+
+440
+00:19:18,047 --> 00:19:20,038
+Vous m'en voyez ravi.
+
+441
+00:19:20,038 --> 00:19:20,887
+ 
+
+442
+00:19:20,887 --> 00:19:23,082
+Voici le site d'essai.
+
+443
+00:19:23,082 --> 00:19:30,847
+ 
+
+444
+00:19:30,847 --> 00:19:33,998
+- Cette planète a une faune et une flore.
+- Oui.
+
+445
+00:19:33,998 --> 00:19:35,167
+ 
+
+446
+00:19:35,167 --> 00:19:40,002
+Mais la photo aérienne ne montre
+aucune habitation sur un rayon de 80 km.
+
+447
+00:19:40,002 --> 00:19:40,087
+ 
+
+448
+00:19:40,087 --> 00:19:42,521
+Ce n'est pas une preuve suffisante.
+
+449
+00:19:42,521 --> 00:19:42,927
+ 
+
+450
+00:19:42,927 --> 00:19:45,600
+Je dois effectuer des simulations.
+
+451
+00:19:45,600 --> 00:19:46,487
+ 
+
+452
+00:19:46,487 --> 00:19:51,277
+Je ne connais pas encore
+la portée destructrice de l'appareil.
+
+453
+00:19:51,277 --> 00:19:51,367
+ 
+
+454
+00:19:51,367 --> 00:19:55,326
+Commandant, le but
+de cette expérience est de déterminer
+
+455
+00:19:55,326 --> 00:19:55,407
+ 
+
+456
+00:19:55,407 --> 00:19:58,205
+la portée destructrice de l'appareil.
+
+457
+00:19:58,205 --> 00:19:59,127
+ 
+
+458
+00:19:59,127 --> 00:20:01,482
+Demande rejetée.
+
+459
+00:20:01,482 --> 00:20:01,967
+ 
+
+460
+00:20:01,967 --> 00:20:04,959
+- Mais général...
+- Continuez les préparations.
+
+461
+00:20:04,959 --> 00:20:06,087
+ 
+
+462
+00:20:06,087 --> 00:20:08,078
+Bien, général.
+
+463
+00:20:08,078 --> 00:20:08,847
+ 
+
+464
+00:20:08,847 --> 00:20:10,439
+Jack...
+
+465
+00:20:10,439 --> 00:20:10,527
+ 
+
+466
+00:20:10,527 --> 00:20:14,998
+Quand vous aurez les noms
+des gens impliqués, que ferez-vous?
+
+467
+00:20:14,998 --> 00:20:16,087
+ 
+
+468
+00:20:16,087 --> 00:20:19,124
+- A votre avis?
+- Vous informerez le Pentagone
+
+469
+00:20:19,124 --> 00:20:19,207
+ 
+
+470
+00:20:19,207 --> 00:20:22,358
+en espérant
+que ça tombe en de bonnes mains.
+
+471
+00:20:22,358 --> 00:20:25,967
+ 
+
+472
+00:20:25,967 --> 00:20:30,518
+- Où voulez-vous en venir, Harry?
+- Vous ne pouvez pas démanteler la NlD.
+
+473
+00:20:30,518 --> 00:20:30,607
+ 
+
+474
+00:20:30,607 --> 00:20:34,964
+- Et ils vous tueront si vous essayez.
+- Ce serait ennuyeux.
+
+475
+00:20:34,964 --> 00:20:35,047
+ 
+
+476
+00:20:35,047 --> 00:20:40,121
+Vous pourriez échanger vos preuves
+contre la réintégration de Hammond.
+
+477
+00:20:40,121 --> 00:20:42,327
+ 
+
+478
+00:20:42,327 --> 00:20:45,717
+- Alors je devrais garder le silence?
+- A vous de voir.
+
+479
+00:20:45,717 --> 00:20:45,807
+ 
+
+480
+00:20:45,807 --> 00:20:47,843
+NOM D'UTlLlSATEUR
+MOT DE PASSE
+
+481
+00:20:47,843 --> 00:20:47,927
+ 
+
+482
+00:20:47,927 --> 00:20:49,076
+ACCES REFUSE
+
+483
+00:20:49,076 --> 00:20:50,167
+ 
+
+484
+00:20:50,167 --> 00:20:51,316
+Bon sang.
+
+485
+00:20:51,316 --> 00:20:58,487
+ 
+
+486
+00:20:58,487 --> 00:21:02,685
+Je croyais que personne
+ne connaissait cet endroit.
+
+487
+00:21:02,685 --> 00:21:02,767
+ 
+
+488
+00:21:02,767 --> 00:21:06,043
+lls ont dû me repérer
+quand je me suis connecté.
+
+489
+00:21:06,043 --> 00:21:06,127
+ 
+
+490
+00:21:06,127 --> 00:21:09,039
+- ll y a une autre sortie?
+- Une seconde.
+
+491
+00:21:09,039 --> 00:21:09,127
+ 
+
+492
+00:21:09,127 --> 00:21:12,324
+- Que faites-vous?
+- Je détruis le disque dur.
+
+493
+00:21:12,324 --> 00:21:56,327
+ 
+
+494
+00:21:56,327 --> 00:21:57,476
+Bien joué.
+
+495
+00:21:57,476 --> 00:21:57,567
+ 
+
+496
+00:21:57,567 --> 00:21:59,762
+Et... bien essayé.
+
+497
+00:21:59,762 --> 00:22:08,167
+ 
+
+498
+00:22:08,167 --> 00:22:09,600
+Nous sommes prêts.
+
+499
+00:22:09,600 --> 00:22:13,767
+ 
+
+500
+00:22:13,767 --> 00:22:17,077
+La première sonde
+d'observation est en position.
+
+501
+00:22:17,077 --> 00:22:17,167
+ 
+
+502
+00:22:17,167 --> 00:22:19,635
+Préparez-vous à envoyer la bombe.
+
+503
+00:22:19,635 --> 00:22:20,727
+ 
+
+504
+00:22:20,727 --> 00:22:22,718
+Refermez-la.
+
+505
+00:22:22,718 --> 00:22:26,007
+ 
+
+506
+00:22:26,007 --> 00:22:28,282
+Salut, Daniel. Comment ça va au camp?
+
+507
+00:22:28,282 --> 00:22:29,287
+ 
+
+508
+00:22:29,287 --> 00:22:30,959
+Plutôt mal.
+
+509
+00:22:30,959 --> 00:22:31,047
+ 
+
+510
+00:22:31,047 --> 00:22:34,005
+Le général Bauer
+teste sa bombe au naqahdah.
+
+511
+00:22:34,005 --> 00:22:34,087
+ 
+
+512
+00:22:34,087 --> 00:22:37,204
+ll brûle les étapes
+et nous mène droit au désastre.
+
+513
+00:22:37,204 --> 00:22:37,287
+ 
+
+514
+00:22:37,287 --> 00:22:42,759
+Maybourne ignore si Bauer est de la NlD
+ou si c'est un bouc émissaire trop zélé.
+
+515
+00:22:42,759 --> 00:22:42,847
+ 
+
+516
+00:22:42,847 --> 00:22:44,678
+En tout cas, il est dangereux.
+
+517
+00:22:44,678 --> 00:22:44,767
+ 
+
+518
+00:22:44,767 --> 00:22:48,157
+Reste là-bas et fais
+ce que tu peux. Je te rappelle.
+
+519
+00:22:48,157 --> 00:22:55,287
+ 
+
+520
+00:22:55,287 --> 00:22:57,278
+Vous en voulez un?
+
+521
+00:22:57,278 --> 00:22:58,167
+ 
+
+522
+00:22:58,167 --> 00:23:01,921
+Non. ll y a quelque chose
+en vous qui me coupe l'appétit.
+
+523
+00:23:01,921 --> 00:23:02,007
+ 
+
+524
+00:23:02,007 --> 00:23:05,397
+Vous en avez dans le ventre.
+J'ai lu votre fichier.
+
+525
+00:23:05,397 --> 00:23:06,567
+ 
+
+526
+00:23:06,567 --> 00:23:09,035
+Vous pouvez me dire où est le rapport?
+
+527
+00:23:09,035 --> 00:23:09,127
+ 
+
+528
+00:23:09,127 --> 00:23:12,563
+Pour aider Hammond,
+il faudra vous salir les mains.
+
+529
+00:23:12,563 --> 00:23:12,647
+ 
+
+530
+00:23:12,647 --> 00:23:14,922
+Vous êtes prêt à aller jusqu'au bout?
+
+531
+00:23:14,922 --> 00:23:15,007
+ 
+
+532
+00:23:15,007 --> 00:23:18,636
+Autrement, je ne serais pas là
+à vous regarder manger.
+
+533
+00:23:18,636 --> 00:23:18,727
+ 
+
+534
+00:23:18,727 --> 00:23:23,039
+Eh bien, ça va devenir
+beaucoup plus risqué. On est repérés.
+
+535
+00:23:23,039 --> 00:23:23,127
+ 
+
+536
+00:23:23,127 --> 00:23:26,676
+Maintenant, il faut passer
+à une approche plus directe.
+
+537
+00:23:26,676 --> 00:23:26,767
+ 
+
+538
+00:23:26,767 --> 00:23:27,756
+C'est-à-dire?
+
+539
+00:23:27,756 --> 00:23:27,847
+ 
+
+540
+00:23:27,847 --> 00:23:31,522
+ll faut qu'on puisse
+se connecter aux sites en ligne.
+
+541
+00:23:31,522 --> 00:23:31,607
+ 
+
+542
+00:23:31,607 --> 00:23:36,601
+On ne peut le faire que par l'intermédiaire
+d'un personnage haut placé de la NlD.
+
+543
+00:23:36,601 --> 00:23:36,687
+ 
+
+544
+00:23:36,687 --> 00:23:38,643
+Qui avez-vous en tête?
+
+545
+00:23:38,643 --> 00:23:38,727
+ 
+
+546
+00:23:38,727 --> 00:23:40,718
+Un vieil ami.
+
+547
+00:23:40,718 --> 00:23:48,527
+ 
+
+548
+00:23:48,527 --> 00:23:50,995
+50 minutes avant lancement, général.
+
+549
+00:23:50,995 --> 00:23:53,807
+ 
+
+550
+00:23:53,807 --> 00:23:57,243
+- Nous devons arrêter l'essai.
+- Pourquoi ça?
+
+551
+00:23:57,243 --> 00:23:57,327
+ 
+
+552
+00:23:57,327 --> 00:24:00,160
+La photo aérienne
+révèle une mine goa'uld.
+
+553
+00:24:00,160 --> 00:24:00,247
+ 
+
+554
+00:24:00,247 --> 00:24:02,715
+Elle doit être fermée
+depuis une éternité
+
+555
+00:24:02,715 --> 00:24:02,807
+ 
+
+556
+00:24:02,807 --> 00:24:05,401
+mais il peut rester
+beaucoup de naqahdah.
+
+557
+00:24:05,401 --> 00:24:05,487
+ 
+
+558
+00:24:05,487 --> 00:24:08,126
+Nos analyses
+indiquent des traces infimes.
+
+559
+00:24:08,126 --> 00:24:08,207
+ 
+
+560
+00:24:08,207 --> 00:24:10,960
+L'étude géologique
+dit qu'il n'y en a aucune.
+
+561
+00:24:10,960 --> 00:24:11,047
+ 
+
+562
+00:24:11,047 --> 00:24:16,599
+- Nous n'arrêterons pas l'essai.
+- Vous n'imaginez pas les conséquences.
+
+563
+00:24:16,599 --> 00:24:17,247
+ 
+
+564
+00:24:17,247 --> 00:24:19,238
+Ou peut-être que si.
+
+565
+00:24:19,238 --> 00:24:22,007
+ 
+
+566
+00:24:22,007 --> 00:24:26,000
+- Est-ce une accusation?
+- Vous le saviez, n'est-ce pas?
+
+567
+00:24:26,000 --> 00:24:27,807
+ 
+
+568
+00:24:27,807 --> 00:24:31,641
+Vous vouliez que ce naqahdah
+provoque une réaction en chaîne.
+
+569
+00:24:31,641 --> 00:24:31,727
+ 
+
+570
+00:24:31,727 --> 00:24:36,926
+- La planète entière pourrait être détruite.
+- Cette possibilité a été envisagée.
+
+571
+00:24:36,926 --> 00:24:38,487
+ 
+
+572
+00:24:38,487 --> 00:24:41,524
+Les mondes goa'ulds
+sont riches en naqahdah.
+
+573
+00:24:41,524 --> 00:24:41,607
+ 
+
+574
+00:24:41,607 --> 00:24:44,758
+Ce pourrait être une arme
+très efficace contre eux.
+
+575
+00:24:44,758 --> 00:24:44,847
+ 
+
+576
+00:24:44,847 --> 00:24:47,680
+Mais il y a un problème.
+Quand la bombe sautera,
+
+577
+00:24:47,680 --> 00:24:47,767
+ 
+
+578
+00:24:47,767 --> 00:24:50,725
+on sera connectés
+à la planète par la porte.
+
+579
+00:24:50,725 --> 00:24:50,807
+ 
+
+580
+00:24:50,807 --> 00:24:55,801
+Les radiations et la gravitation peuvent
+revenir par un couloir espace-temps.
+
+581
+00:24:55,801 --> 00:24:55,887
+ 
+
+582
+00:24:55,887 --> 00:24:58,640
+On m'a dit
+qu'on obtiendrait assez de données
+
+583
+00:24:58,640 --> 00:24:58,727
+ 
+
+584
+00:24:58,727 --> 00:25:02,037
+avant que la porte saute
+et qu'on soit déconnectés.
+
+585
+00:25:02,037 --> 00:25:02,127
+ 
+
+586
+00:25:02,127 --> 00:25:05,802
+- D'où vient cette information?
+- ça ne vous regarde pas.
+
+587
+00:25:05,802 --> 00:25:05,887
+ 
+
+588
+00:25:05,887 --> 00:25:09,721
+Nous avons vu le Stargate
+résister à l'impact d'une météorite.
+
+589
+00:25:09,721 --> 00:25:09,807
+ 
+
+590
+00:25:09,807 --> 00:25:11,957
+Nous ignorons ce qui va se passer.
+
+591
+00:25:11,957 --> 00:25:12,047
+ 
+
+592
+00:25:12,047 --> 00:25:15,926
+Le risque a été évalué et jugé acceptable.
+
+593
+00:25:15,926 --> 00:25:16,007
+ 
+
+594
+00:25:16,007 --> 00:25:17,679
+Fin de la discussion.
+
+595
+00:25:17,679 --> 00:25:29,767
+ 
+
+596
+00:25:29,767 --> 00:25:32,964
+- Vous le connaissez depuis longtemps?
+- Des années.
+
+597
+00:25:32,964 --> 00:25:43,727
+ 
+
+598
+00:25:43,727 --> 00:25:45,718
+On dirait qu'il y a une fête.
+
+599
+00:25:45,718 --> 00:25:49,767
+ 
+
+600
+00:25:49,767 --> 00:25:51,758
+- Oui?
+- Dites au sénateur
+
+601
+00:25:51,758 --> 00:25:51,847
+ 
+
+602
+00:25:51,847 --> 00:25:54,998
+que le colonel Maybourne
+et le colonel O'Neill sont là.
+
+603
+00:25:54,998 --> 00:25:55,087
+ 
+
+604
+00:25:55,087 --> 00:25:58,363
+- ll a des invités.
+- ça lui en fera deux de plus.
+
+605
+00:25:58,363 --> 00:26:01,407
+ 
+
+606
+00:26:01,407 --> 00:26:06,561
+- Qu'est-ce que vous foutez là?
+- Nos invitations ont dû s'égarer.
+
+607
+00:26:06,561 --> 00:26:06,647
+ 
+
+608
+00:26:06,647 --> 00:26:08,046
+Vous tombez mal.
+
+609
+00:26:08,046 --> 00:26:08,127
+ 
+
+610
+00:26:08,127 --> 00:26:10,960
+- Qui est-ce, chéri?
+- Deux vieux amis.
+
+611
+00:26:10,960 --> 00:26:11,047
+ 
+
+612
+00:26:11,047 --> 00:26:15,723
+Bonjour, m'dame.
+Je suis M. Starsky. Et lui, c'est... Hutch.
+
+613
+00:26:15,723 --> 00:26:15,807
+ 
+
+614
+00:26:15,807 --> 00:26:17,798
+Eh bien, entrez, entrez.
+
+615
+00:26:17,798 --> 00:26:27,527
+ 
+
+616
+00:26:27,527 --> 00:26:30,519
+Nous donnons juste une petite fête.
+
+617
+00:26:30,519 --> 00:26:35,807
+ 
+
+618
+00:26:35,807 --> 00:26:37,763
+Oscar, couché.
+
+619
+00:26:37,763 --> 00:26:37,847
+ 
+
+620
+00:26:37,847 --> 00:26:39,838
+Laissez-le.
+
+621
+00:26:39,838 --> 00:26:41,167
+ 
+
+622
+00:26:41,167 --> 00:26:43,158
+ll vous aime bien, M. Starsky.
+
+623
+00:26:43,158 --> 00:26:43,247
+ 
+
+624
+00:26:43,247 --> 00:26:45,317
+Qui se ressemble s'assemble.
+
+625
+00:26:45,317 --> 00:26:45,407
+ 
+
+626
+00:26:45,407 --> 00:26:48,797
+Chérie, Starsky & Hutch
+est une vieille série télé.
+
+627
+00:26:48,797 --> 00:26:49,927
+ 
+
+628
+00:26:49,927 --> 00:26:52,521
+Vous êtes des acteurs, alors?
+
+629
+00:26:52,521 --> 00:26:54,687
+ 
+
+630
+00:26:54,687 --> 00:26:57,281
+Allons donc dans mon bureau.
+
+631
+00:26:57,281 --> 00:26:58,207
+ 
+
+632
+00:26:58,207 --> 00:27:00,038
+Ce ne sera pas long.
+
+633
+00:27:00,038 --> 00:27:12,207
+ 
+
+634
+00:27:12,207 --> 00:27:14,482
+L'arme est en position.
+
+635
+00:27:14,482 --> 00:27:29,287
+ 
+
+636
+00:27:29,287 --> 00:27:31,596
+- Un problème?
+- L'émission est coupée.
+
+637
+00:27:31,596 --> 00:27:32,087
+ 
+
+638
+00:27:32,087 --> 00:27:34,601
+La sonde d'observation a été détruite.
+
+639
+00:27:34,601 --> 00:27:36,647
+ 
+
+640
+00:27:36,647 --> 00:27:38,877
+Le couloir ne s'est pas déconnecté.
+
+641
+00:27:38,877 --> 00:27:38,967
+ 
+
+642
+00:27:38,967 --> 00:27:43,518
+Le niveau de radiation de la salle
+du Stargate ne cesse d'augmenter.
+
+643
+00:27:43,518 --> 00:27:44,127
+ 
+
+644
+00:27:44,127 --> 00:27:48,200
+- Des rayons gamma à haute fréquence.
+- Fermez la porte.
+
+645
+00:27:48,200 --> 00:27:50,807
+ 
+
+646
+00:27:50,807 --> 00:27:54,356
+Pas de réponse.
+Les radiations deviennent critiques.
+
+647
+00:27:54,356 --> 00:27:54,447
+ 
+
+648
+00:27:54,447 --> 00:27:56,438
+Fermez l'iris.
+
+649
+00:27:56,438 --> 00:28:00,487
+ 
+
+650
+00:28:00,487 --> 00:28:01,966
+Les radiations diminuent.
+
+651
+00:28:01,966 --> 00:28:02,047
+ 
+
+652
+00:28:02,047 --> 00:28:05,198
+Si l'iris perd son intégrité
+à cause de la chaleur,
+
+653
+00:28:05,198 --> 00:28:05,287
+ 
+
+654
+00:28:05,287 --> 00:28:09,405
+les radiations vont
+bombarder la base. ll faut évacuer.
+
+655
+00:28:09,405 --> 00:28:09,487
+ 
+
+656
+00:28:09,487 --> 00:28:11,762
+Cette porte devait être détruite.
+
+657
+00:28:11,762 --> 00:28:11,847
+ 
+
+658
+00:28:11,847 --> 00:28:13,917
+Général, il faut agir vite.
+
+659
+00:28:13,917 --> 00:28:21,287
+ 
+
+660
+00:28:21,287 --> 00:28:22,845
+Avis au personnel.
+
+661
+00:28:22,845 --> 00:28:22,927
+ 
+
+662
+00:28:22,927 --> 00:28:26,966
+Par ordre du général Bauer,
+évacuez immédiatement la base.
+
+663
+00:28:26,966 --> 00:28:27,047
+ 
+
+664
+00:28:27,047 --> 00:28:30,676
+lmmédiatement.
+Ce n'est pas un exercice.
+
+665
+00:28:30,676 --> 00:28:32,327
+ 
+
+666
+00:28:32,327 --> 00:28:36,605
+On peut contrôler la porte
+à partir de la station de sécurité.
+
+667
+00:28:36,605 --> 00:28:36,687
+ 
+
+668
+00:28:36,687 --> 00:28:40,123
+- Que va-t-il se passer?
+- Je n'en ai aucune idée.
+
+669
+00:28:40,123 --> 00:28:42,687
+ 
+
+670
+00:28:42,687 --> 00:28:45,884
+Votre évaluation
+des risques ne couvrait pas ça.
+
+671
+00:28:45,884 --> 00:28:55,167
+ 
+
+672
+00:28:55,167 --> 00:28:59,285
+J'ai le sous-secrétaire d'Etat,
+le gouverneur du Maryland
+
+673
+00:28:59,285 --> 00:28:59,367
+ 
+
+674
+00:28:59,367 --> 00:29:02,245
+et la moitié du Congrès dans mon salon.
+
+675
+00:29:02,245 --> 00:29:02,327
+ 
+
+676
+00:29:02,327 --> 00:29:04,318
+Alors faites vite.
+
+677
+00:29:04,318 --> 00:29:04,407
+ 
+
+678
+00:29:04,407 --> 00:29:07,638
+Nom d'un chien, que voulez-vous?
+
+679
+00:29:07,638 --> 00:29:07,727
+ 
+
+680
+00:29:07,727 --> 00:29:09,763
+Des informations sur la NlD.
+
+681
+00:29:09,763 --> 00:29:10,967
+ 
+
+682
+00:29:10,967 --> 00:29:12,195
+La NlD?
+
+683
+00:29:12,195 --> 00:29:13,687
+ 
+
+684
+00:29:13,687 --> 00:29:19,398
+Une agence du gouvernement impliquée
+dans toutes sortes d'opérations illégales.
+
+685
+00:29:19,398 --> 00:29:19,487
+ 
+
+686
+00:29:19,487 --> 00:29:22,285
+Comme faire du chantage à un général.
+
+687
+00:29:22,285 --> 00:29:23,887
+ 
+
+688
+00:29:23,887 --> 00:29:28,563
+J'ai de plus en plus
+l'impression de perdre mon temps,
+
+689
+00:29:28,563 --> 00:29:28,647
+ 
+
+690
+00:29:28,647 --> 00:29:30,239
+et ma patience.
+
+691
+00:29:30,239 --> 00:29:30,327
+ 
+
+692
+00:29:30,327 --> 00:29:34,240
+lls ont bien financé
+votre campagne de réélection?
+
+693
+00:29:34,240 --> 00:29:34,327
+ 
+
+694
+00:29:34,327 --> 00:29:39,037
+Si c'est cela qui vous intéresse,
+parlez-en à la commission des élections.
+
+695
+00:29:39,037 --> 00:29:39,127
+ 
+
+696
+00:29:39,127 --> 00:29:43,439
+- C'est la partie visible de l'iceberg.
+- Vous n'étiez pas en prison?
+
+697
+00:29:43,439 --> 00:29:43,527
+ 
+
+698
+00:29:43,527 --> 00:29:45,757
+Le colonel a demandé au président
+
+699
+00:29:45,757 --> 00:29:45,847
+ 
+
+700
+00:29:45,847 --> 00:29:50,238
+de m'aider à dénicher des informations
+sur mes anciens associés.
+
+701
+00:29:50,238 --> 00:29:51,647
+ 
+
+702
+00:29:51,647 --> 00:29:53,717
+Et vous avez confiance en lui?
+
+703
+00:29:53,717 --> 00:29:55,927
+ 
+
+704
+00:29:55,927 --> 00:29:57,804
+Non.
+
+705
+00:29:57,804 --> 00:29:57,887
+ 
+
+706
+00:29:57,887 --> 00:30:03,280
+Désolé, général, mais cette conversation
+ne m'amuse plus du tout.
+
+707
+00:30:03,280 --> 00:30:03,367
+ 
+
+708
+00:30:03,367 --> 00:30:06,279
+- Je suis attendu.
+- On ne bougera pas d'ici.
+
+709
+00:30:06,279 --> 00:30:08,287
+ 
+
+710
+00:30:08,287 --> 00:30:11,438
+- Pardon?
+- Tant qu'on n'aura pas eu ce qu'on veut.
+
+711
+00:30:11,438 --> 00:30:13,287
+ 
+
+712
+00:30:13,287 --> 00:30:15,596
+Et qu'est-ce que vous allez faire?
+
+713
+00:30:15,596 --> 00:30:16,767
+ 
+
+714
+00:30:16,767 --> 00:30:18,997
+J'envisageais de vous tuer.
+
+715
+00:30:18,997 --> 00:30:21,407
+ 
+
+716
+00:30:21,407 --> 00:30:24,558
+Jack, qu'est-ce qui vous prend?
+
+717
+00:30:24,558 --> 00:30:25,007
+ 
+
+718
+00:30:25,007 --> 00:30:27,567
+Vous trouvez que je me salis les mains?
+
+719
+00:30:27,567 --> 00:30:35,727
+ 
+
+720
+00:30:35,727 --> 00:30:37,922
+Connexion à la salle du Stargate.
+
+721
+00:30:37,922 --> 00:30:40,647
+ 
+
+722
+00:30:40,647 --> 00:30:43,207
+L'iris se maintient, mais il chauffe.
+
+723
+00:30:43,207 --> 00:30:43,287
+ 
+
+724
+00:30:43,287 --> 00:30:46,040
+- Combien de temps avons-nous?
+- Je l'ignore.
+
+725
+00:30:46,040 --> 00:30:46,127
+ 
+
+726
+00:30:46,127 --> 00:30:49,756
+On a peut-être créé
+une boule géante de plasma surchauffé.
+
+727
+00:30:49,756 --> 00:30:49,847
+ 
+
+728
+00:30:49,847 --> 00:30:52,520
+De quoi faire
+fonctionner la porte des mois.
+
+729
+00:30:52,520 --> 00:30:52,607
+ 
+
+730
+00:30:52,607 --> 00:30:55,997
+- Détruisons-la.
+- L'autre porte a résisté à l'explosion.
+
+731
+00:30:55,997 --> 00:30:56,087
+ 
+
+732
+00:30:56,087 --> 00:30:59,716
+- Pourquoi pas celle-ci?
+- Au moins, elle serait enterrée.
+
+733
+00:30:59,716 --> 00:30:59,807
+ 
+
+734
+00:30:59,807 --> 00:31:02,275
+Elle absorberait toujours les radiations.
+
+735
+00:31:02,275 --> 00:31:02,367
+ 
+
+736
+00:31:02,367 --> 00:31:06,565
+- La chaleur finira par faire fondre l'iris.
+- Que faut-il faire?
+
+737
+00:31:06,565 --> 00:31:07,887
+ 
+
+738
+00:31:07,887 --> 00:31:11,846
+ll y a une chance
+que la porte se ferme toute seule.
+
+739
+00:31:11,846 --> 00:31:11,927
+ 
+
+740
+00:31:11,927 --> 00:31:14,646
+- Le délai de 38 minutes.
+- Rien n'est sûr.
+
+741
+00:31:14,646 --> 00:31:14,727
+ 
+
+742
+00:31:14,727 --> 00:31:17,525
+Nous n'avons pas fait de simulations.
+
+743
+00:31:17,525 --> 00:31:18,607
+ 
+
+744
+00:31:18,607 --> 00:31:21,326
+La porte est ouverte depuis longtemps?
+
+745
+00:31:21,326 --> 00:31:23,007
+ 
+
+746
+00:31:23,007 --> 00:31:24,918
+ça va faire 21 minutes.
+
+747
+00:31:24,918 --> 00:31:30,167
+ 
+
+748
+00:31:30,167 --> 00:31:32,556
+Colonel, vous avez perdu la raison?
+
+749
+00:31:32,556 --> 00:31:32,647
+ 
+
+750
+00:31:32,647 --> 00:31:34,683
+Je serais avec Maybourne, sinon?
+
+751
+00:31:34,683 --> 00:31:34,767
+ 
+
+752
+00:31:34,767 --> 00:31:37,201
+Comment osez-vous
+brandir une arme ici?
+
+753
+00:31:37,201 --> 00:31:37,287
+ 
+
+754
+00:31:37,287 --> 00:31:40,040
+Je la pointe, nuance. Asseyez-vous.
+
+755
+00:31:40,040 --> 00:31:44,647
+ 
+
+756
+00:31:44,647 --> 00:31:48,117
+Vous faites
+la plus grosse erreur de votre vie.
+
+757
+00:31:48,117 --> 00:31:48,207
+ 
+
+758
+00:31:48,207 --> 00:31:51,358
+Vous regretterez
+le jour où vous m'avez rencontré.
+
+759
+00:31:51,358 --> 00:31:51,447
+ 
+
+760
+00:31:51,447 --> 00:31:53,597
+Ce jour est bien loin, sénateur.
+
+761
+00:31:53,597 --> 00:31:53,687
+ 
+
+762
+00:31:53,687 --> 00:31:57,043
+Si votre carrière
+vous est égale, pensez à vos amis.
+
+763
+00:31:57,043 --> 00:31:57,127
+ 
+
+764
+00:31:57,127 --> 00:31:59,277
+- Quoi?
+- Si vous me malmenez,
+
+765
+00:31:59,277 --> 00:31:59,367
+ 
+
+766
+00:31:59,367 --> 00:32:02,518
+le Dr Jackson sera exclu
+du SGC définitivement,
+
+767
+00:32:02,518 --> 00:32:02,607
+ 
+
+768
+00:32:02,607 --> 00:32:07,886
+et Carter nettoiera des toilettes
+dans une station météo en Alaska.
+
+769
+00:32:07,886 --> 00:32:07,967
+ 
+
+770
+00:32:07,967 --> 00:32:10,197
+Quant à l'extraterrestre, Teal'c...
+
+771
+00:32:10,197 --> 00:32:10,287
+ 
+
+772
+00:32:10,287 --> 00:32:13,996
+Je connais des bio-ingénieurs
+au ministère de la Défense
+
+773
+00:32:13,996 --> 00:32:14,087
+ 
+
+774
+00:32:14,087 --> 00:32:16,760
+qui seraient ravis d'avoir son symbiote.
+
+775
+00:32:16,760 --> 00:32:16,847
+ 
+
+776
+00:32:16,847 --> 00:32:19,236
+ça y est. ll me faut le mot de passe.
+
+777
+00:32:19,236 --> 00:32:22,767
+ 
+
+778
+00:32:22,767 --> 00:32:26,396
+Je vous laisse le choix:
+cervelle ou tripes?
+
+779
+00:32:26,396 --> 00:32:26,647
+ 
+
+780
+00:32:26,647 --> 00:32:29,525
+- Vous n'oseriez pas.
+- C'est souvent personnel,
+
+781
+00:32:29,525 --> 00:32:29,607
+ 
+
+782
+00:32:29,607 --> 00:32:32,167
+comme le nom de jeune fille de la femme.
+
+783
+00:32:32,167 --> 00:32:33,207
+ 
+
+784
+00:32:33,207 --> 00:32:36,279
+J'ai une femme,
+trois enfants, sept petits-enfants
+
+785
+00:32:36,279 --> 00:32:36,367
+ 
+
+786
+00:32:36,367 --> 00:32:39,359
+et un certain nombre de neveux et nièces.
+
+787
+00:32:39,359 --> 00:32:39,447
+ 
+
+788
+00:32:39,447 --> 00:32:41,438
+Bonne chance.
+
+789
+00:32:41,438 --> 00:32:50,167
+ 
+
+790
+00:32:50,167 --> 00:32:52,158
+Essayez ''Oscar''.
+
+791
+00:32:52,158 --> 00:32:56,687
+ 
+
+792
+00:32:56,687 --> 00:32:58,598
+C'est ça. On y est.
+
+793
+00:32:58,598 --> 00:32:59,807
+ 
+
+794
+00:32:59,807 --> 00:33:01,525
+Je télécharge les données.
+
+795
+00:33:01,525 --> 00:33:03,127
+ 
+
+796
+00:33:03,127 --> 00:33:09,396
+Les activités de Kinsey sont liées
+aux actions de la NlD depuis plus d'un an,
+
+797
+00:33:09,396 --> 00:33:09,727
+ 
+
+798
+00:33:09,727 --> 00:33:13,276
+notamment mon opération
+secrète dans la Zone 51 ,
+
+799
+00:33:13,276 --> 00:33:13,367
+ 
+
+800
+00:33:13,367 --> 00:33:16,359
+la collaboration avec les Russes,
+
+801
+00:33:16,359 --> 00:33:17,967
+ 
+
+802
+00:33:17,967 --> 00:33:19,878
+et les menaces contre Hammond.
+
+803
+00:33:19,878 --> 00:33:19,967
+ 
+
+804
+00:33:19,967 --> 00:33:22,162
+Vous êtes un sacré numéro, Kinsey.
+
+805
+00:33:22,162 --> 00:33:22,247
+ 
+
+806
+00:33:22,247 --> 00:33:24,283
+Vous tentez de liquider le SGC.
+
+807
+00:33:24,283 --> 00:33:25,127
+ 
+
+808
+00:33:25,127 --> 00:33:28,324
+Vous déclarez détester
+les organisations secrètes,
+
+809
+00:33:28,324 --> 00:33:28,407
+ 
+
+810
+00:33:28,407 --> 00:33:32,844
+- et vous fricotez avec la NlD.
+- La porte est une boîte de Pandore.
+
+811
+00:33:32,844 --> 00:33:32,927
+ 
+
+812
+00:33:32,927 --> 00:33:38,126
+Elle devrait être enterrée pour toujours.
+Mais tant qu'elle menacera la planète,
+
+813
+00:33:38,126 --> 00:33:38,207
+ 
+
+814
+00:33:38,207 --> 00:33:41,279
+je m'assurerai
+qu'elle est utilisée à bon escient:
+
+815
+00:33:41,279 --> 00:33:41,367
+ 
+
+816
+00:33:41,367 --> 00:33:43,278
+pour défendre l'oeuvre de Dieu.
+
+817
+00:33:43,278 --> 00:33:43,367
+ 
+
+818
+00:33:43,367 --> 00:33:46,962
+Gardez vos beaux discours pour d'autres.
+
+819
+00:33:46,962 --> 00:33:47,047
+ 
+
+820
+00:33:47,047 --> 00:33:52,280
+- Vous êtes un hypocrite avide de pouvoir.
+- Le pouvoir est la seule valeur, ici.
+
+821
+00:33:52,280 --> 00:33:52,367
+ 
+
+822
+00:33:52,367 --> 00:33:57,316
+Et si je dois pactiser avec le diable
+pour faire le travail du Seigneur,
+
+823
+00:33:57,316 --> 00:33:57,407
+ 
+
+824
+00:33:57,407 --> 00:34:00,479
+- ainsi soit-il.
+- Espèce de sale faux-cul.
+
+825
+00:34:00,479 --> 00:34:00,567
+ 
+
+826
+00:34:00,567 --> 00:34:04,276
+- Où allez-vous...
+- Ne jetez pas la première pierre.
+
+827
+00:34:04,276 --> 00:34:04,367
+ 
+
+828
+00:34:04,367 --> 00:34:06,722
+J'ai lu vos rapports de mission.
+
+829
+00:34:06,722 --> 00:34:06,807
+ 
+
+830
+00:34:06,807 --> 00:34:09,719
+Vous jouez avec le destin
+de cette planète.
+
+831
+00:34:09,719 --> 00:34:09,807
+ 
+
+832
+00:34:09,807 --> 00:34:12,685
+Je fais le travail dont on m'a chargé.
+
+833
+00:34:12,685 --> 00:34:12,767
+ 
+
+834
+00:34:12,767 --> 00:34:16,919
+Je doute fort que vos électeurs
+puissent en dire autant de vous.
+
+835
+00:34:16,919 --> 00:34:17,007
+ 
+
+836
+00:34:17,007 --> 00:34:21,797
+Je vous en prie. La moitié
+des Américains ne votent même pas.
+
+837
+00:34:21,797 --> 00:34:21,887
+ 
+
+838
+00:34:21,887 --> 00:34:25,277
+Les autres sont trop bêtes
+pour savoir ce qu'ils font.
+
+839
+00:34:25,277 --> 00:34:25,367
+ 
+
+840
+00:34:25,367 --> 00:34:27,927
+ça explique pourquoi ils vous ont élu.
+
+841
+00:34:27,927 --> 00:34:28,007
+ 
+
+842
+00:34:28,007 --> 00:34:33,400
+Pour me dénoncer, vous allez devoir
+compromettre la confidentialité du SGC.
+
+843
+00:34:33,400 --> 00:34:33,487
+ 
+
+844
+00:34:33,487 --> 00:34:35,478
+Etes-vous prêt à le faire?
+
+845
+00:34:35,478 --> 00:34:36,887
+ 
+
+846
+00:34:36,887 --> 00:34:38,479
+J'ai fini.
+
+847
+00:34:38,479 --> 00:34:43,607
+ 
+
+848
+00:34:43,607 --> 00:34:45,598
+Donnez-la-moi.
+
+849
+00:34:45,598 --> 00:34:46,247
+ 
+
+850
+00:34:46,247 --> 00:34:50,445
+Qu'allez-vous faire?
+Démanteler toute la NlD?
+
+851
+00:34:50,445 --> 00:34:50,887
+ 
+
+852
+00:34:50,887 --> 00:34:52,684
+Non.
+
+853
+00:34:52,684 --> 00:34:53,407
+ 
+
+854
+00:34:53,407 --> 00:34:55,398
+Voilà ce que je vous propose.
+
+855
+00:34:55,398 --> 00:34:56,607
+ 
+
+856
+00:34:56,607 --> 00:35:00,156
+Faites réintégrer Hammond,
+ou j'envoie ceci à la presse.
+
+857
+00:35:00,156 --> 00:35:00,247
+ 
+
+858
+00:35:00,247 --> 00:35:02,283
+Cette disquette n'ira pas loin.
+
+859
+00:35:02,283 --> 00:35:02,367
+ 
+
+860
+00:35:02,367 --> 00:35:07,964
+Vous non plus, si vos amis apprennent
+que vous êtes leur talon d'Achille.
+
+861
+00:35:07,964 --> 00:35:10,207
+ 
+
+862
+00:35:10,207 --> 00:35:13,404
+Vous avez vite appris
+la loi de la jungle, colonel.
+
+863
+00:35:13,404 --> 00:35:13,487
+ 
+
+864
+00:35:13,487 --> 00:35:15,717
+J'ai eu un bon professeur.
+
+865
+00:35:15,717 --> 00:35:15,807
+ 
+
+866
+00:35:15,807 --> 00:35:17,798
+On a de la visite, Jack.
+
+867
+00:35:17,798 --> 00:35:34,727
+ 
+
+868
+00:35:34,727 --> 00:35:36,604
+On approche des 38 minutes.
+
+869
+00:35:36,604 --> 00:35:46,927
+ 
+
+870
+00:35:46,927 --> 00:35:49,236
+Qui les a appelés? Votre femme?
+
+871
+00:35:49,236 --> 00:35:50,807
+ 
+
+872
+00:35:50,807 --> 00:35:55,835
+Donnez-moi la disquette,
+et vous sortirez peut-être d'ici vivant.
+
+873
+00:35:55,835 --> 00:35:56,847
+ 
+
+874
+00:35:56,847 --> 00:35:59,805
+lls ne monteront pas,
+vu le monde qui est en bas.
+
+875
+00:35:59,805 --> 00:35:59,887
+ 
+
+876
+00:35:59,887 --> 00:36:02,082
+Mais il faut bien qu'on sorte.
+
+877
+00:36:02,082 --> 00:36:22,927
+ 
+
+878
+00:36:22,927 --> 00:36:25,122
+- Elle est toujours ouverte?
+- Oui.
+
+879
+00:36:25,122 --> 00:36:30,327
+ 
+
+880
+00:36:30,327 --> 00:36:32,921
+Alors, inutile de rester ici.
+
+881
+00:36:32,921 --> 00:36:33,687
+ 
+
+882
+00:36:33,687 --> 00:36:36,121
+Je monte informer le président.
+
+883
+00:36:36,121 --> 00:36:37,967
+ 
+
+884
+00:36:37,967 --> 00:36:41,357
+Oui. Vous serez plus en sécurité là-haut.
+
+885
+00:36:41,357 --> 00:36:50,887
+ 
+
+886
+00:36:50,887 --> 00:36:51,956
+MlSE HORS FONCTlON
+
+887
+00:36:51,956 --> 00:36:52,047
+ 
+
+888
+00:36:52,047 --> 00:36:54,038
+Commandant Carter.
+
+889
+00:36:54,038 --> 00:37:06,207
+ 
+
+890
+00:37:06,207 --> 00:37:09,199
+- Que se passe-t-il?
+- La porte s'est fermée.
+
+891
+00:37:09,199 --> 00:37:10,407
+ 
+
+892
+00:37:10,407 --> 00:37:12,796
+- Vous êtes sûre?
+- C'est fini.
+
+893
+00:37:12,796 --> 00:37:20,047
+ 
+
+894
+00:37:20,047 --> 00:37:22,242
+Je sais que c'est dérisoire,
+
+895
+00:37:22,242 --> 00:37:23,767
+ 
+
+896
+00:37:23,767 --> 00:37:25,086
+mais je m'excuse.
+
+897
+00:37:25,086 --> 00:37:42,367
+ 
+
+898
+00:37:42,367 --> 00:37:44,756
+Charmante réception, Mme K. Merci.
+
+899
+00:37:44,756 --> 00:37:55,687
+ 
+
+900
+00:37:55,687 --> 00:37:58,121
+Sénateur Kinsey.
+
+901
+00:37:58,121 --> 00:37:58,887
+ 
+
+902
+00:37:58,887 --> 00:38:02,880
+ll paraît que vous
+vous présentez à la présidentielle.
+
+903
+00:38:02,880 --> 00:38:02,967
+ 
+
+904
+00:38:02,967 --> 00:38:06,004
+- Comment?
+- Vous annoncez votre candidature?
+
+905
+00:38:06,004 --> 00:38:08,807
+ 
+
+906
+00:38:08,807 --> 00:38:13,039
+Diane, je ne voulais pas
+que ça se sache comme ça.
+
+907
+00:38:13,039 --> 00:38:13,127
+ 
+
+908
+00:38:13,127 --> 00:38:15,322
+Alors c'est vrai, sénateur?
+
+909
+00:38:15,322 --> 00:38:15,967
+ 
+
+910
+00:38:15,967 --> 00:38:18,765
+Eh bien, puisque vous êtes tous là...
+
+911
+00:38:18,765 --> 00:38:20,007
+ 
+
+912
+00:38:20,007 --> 00:38:22,441
+Nous avons déjà parlé de mes objectifs.
+
+913
+00:38:22,441 --> 00:38:22,967
+ 
+
+914
+00:38:22,967 --> 00:38:27,518
+Est-ce que je crois que je ferais
+un bon président? Et comment.
+
+915
+00:38:27,518 --> 00:38:27,607
+ 
+
+916
+00:38:27,607 --> 00:38:31,520
+Vous savez ce que je pense.
+Vous savez que j'ai travaillé dur.
+
+917
+00:38:31,520 --> 00:38:31,607
+ 
+
+918
+00:38:31,607 --> 00:38:35,282
+Quand je vois
+les possibilités de notre peuple
+
+919
+00:38:35,282 --> 00:38:35,367
+ 
+
+920
+00:38:35,367 --> 00:38:38,677
+et la façon dont
+tant de dirigeants l'ont trompé,
+
+921
+00:38:38,677 --> 00:38:38,767
+ 
+
+922
+00:38:38,767 --> 00:38:41,759
+j'en ai les larmes aux yeux.
+
+923
+00:38:41,759 --> 00:38:41,847
+ 
+
+924
+00:38:41,847 --> 00:38:46,637
+Les solutions aux problèmes
+du gouvernement sont simples.
+
+925
+00:38:46,637 --> 00:38:48,327
+ 
+
+926
+00:38:48,327 --> 00:38:50,318
+ll suffit d'écouter les gens.
+
+927
+00:38:50,318 --> 00:39:14,607
+ 
+
+928
+00:39:14,607 --> 00:39:16,802
+- Jack, entrez.
+- Général.
+
+929
+00:39:16,802 --> 00:39:18,087
+ 
+
+930
+00:39:18,087 --> 00:39:20,476
+- Content de vous revoir ici.
+- Merci.
+
+931
+00:39:20,476 --> 00:39:20,567
+ 
+
+932
+00:39:20,567 --> 00:39:23,639
+ll paraît que ça a été
+mouvementé en mon absence.
+
+933
+00:39:23,639 --> 00:39:23,727
+ 
+
+934
+00:39:23,727 --> 00:39:28,005
+- ll faut demander ça à Carter.
+- J'ai hâte d'entendre son rapport.
+
+935
+00:39:28,005 --> 00:39:28,087
+ 
+
+936
+00:39:28,087 --> 00:39:29,725
+Et moi donc.
+
+937
+00:39:29,725 --> 00:39:30,487
+ 
+
+938
+00:39:30,487 --> 00:39:34,002
+Jack... comment puis-je vous remercier?
+
+939
+00:39:34,002 --> 00:39:35,447
+ 
+
+940
+00:39:35,447 --> 00:39:38,917
+En continuant à être tolérant,
+patient et compréhensif.
+
+941
+00:39:38,917 --> 00:39:39,007
+ 
+
+942
+00:39:39,007 --> 00:39:41,567
+Bref... soyez vous-même, général.
+
+943
+00:39:41,567 --> 00:39:45,367
+ 
+
+944
+00:39:45,367 --> 00:39:46,959
+Hammond.
+
+945
+00:39:46,959 --> 00:39:48,567
+ 
+
+946
+00:39:48,567 --> 00:39:50,637
+C'est pour vous.
+
+947
+00:39:50,637 --> 00:39:54,407
+ 
+
+948
+00:39:54,407 --> 00:39:56,716
+- Allô?
+- Salut, Jack.
+
+949
+00:39:56,716 --> 00:39:57,407
+ 
+
+950
+00:39:57,407 --> 00:39:59,204
+Maybourne.
+
+951
+00:39:59,204 --> 00:40:00,127
+ 
+
+952
+00:40:00,127 --> 00:40:03,642
+- Où êtes-vous?
+- Pas en taule, sans vouloir vous décevoir.
+
+953
+00:40:03,642 --> 00:40:06,967
+ 
+
+954
+00:40:06,967 --> 00:40:11,722
+Je me suis envoyé les preuves
+par e-mail quand j'ai copié la disquette.
+
+955
+00:40:11,722 --> 00:40:13,127
+ 
+
+956
+00:40:13,127 --> 00:40:13,923
+Je sais.
+
+957
+00:40:13,923 --> 00:40:14,007
+ 
+
+958
+00:40:14,007 --> 00:40:16,601
+Kinsey m'a envoyé
+dans une meiIIeure prison
+
+959
+00:40:16,601 --> 00:40:16,687
+ 
+
+960
+00:40:16,687 --> 00:40:18,962
+en attendant mon exécution.
+
+961
+00:40:18,962 --> 00:40:19,047
+ 
+
+962
+00:40:19,047 --> 00:40:21,163
+ça m'a facilité les choses.
+
+963
+00:40:21,163 --> 00:40:21,247
+ 
+
+964
+00:40:21,247 --> 00:40:23,807
+Pourquoi ne pas vous être sauvé plus tôt?
+
+965
+00:40:23,807 --> 00:40:23,887
+ 
+
+966
+00:40:23,887 --> 00:40:25,161
+AIIons, Jack.
+
+967
+00:40:25,161 --> 00:40:26,167
+ 
+
+968
+00:40:26,167 --> 00:40:29,398
+Vous me faisiez confiance.
+Le président aurait râlé.
+
+969
+00:40:29,398 --> 00:40:29,487
+ 
+
+970
+00:40:29,487 --> 00:40:32,877
+Et puis, je n'aurais pas
+réussi à vous échapper.
+
+971
+00:40:32,877 --> 00:40:33,687
+ 
+
+972
+00:40:33,687 --> 00:40:38,044
+- Qu'allez-vous faire?
+- D'abord, boire quelques margaritas.
+
+973
+00:40:38,044 --> 00:40:38,127
+ 
+
+974
+00:40:38,127 --> 00:40:42,166
+- Et après, qui sait?
+- Oui, je vois.
+
+975
+00:40:42,166 --> 00:40:42,527
+ 
+
+976
+00:40:42,527 --> 00:40:44,722
+Merci pour votre aide.
+
+977
+00:40:44,722 --> 00:40:49,847
+ 
+
+978
+00:40:49,847 --> 00:40:53,157
+Général, vous parliez de me remercier?
+
+979
+00:40:53,157 --> 00:40:53,807
+ 
+
+980
+00:40:53,807 --> 00:40:56,002
+Dites-moi ce que je peux faire.
+
+981
+00:40:56,002 --> 00:40:56,087
+ 
+
+982
+00:40:56,087 --> 00:40:58,920
+Rien pour l'instant, mais...
+
+983
+00:40:58,920 --> 00:40:59,007
+ 
+
+984
+00:40:59,007 --> 00:41:01,202
+je vous demanderai peut-être un jour...
+
+985
+00:41:01,202 --> 00:41:02,327
+ 
+
+986
+00:41:02,327 --> 00:41:04,477
+de racheter mon âme.

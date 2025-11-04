@@ -1,0 +1,4059 @@
+1
+00:00:00,000 --> 00:00:12,607
+ 
+
+2
+00:00:12,607 --> 00:00:14,484
+- Entrez.
+- Mon général.
+
+3
+00:00:14,484 --> 00:00:14,567
+ 
+
+4
+00:00:14,567 --> 00:00:17,479
+J'aimerais vous parler
+de notre prochaine mission.
+
+5
+00:00:17,479 --> 00:00:18,847
+ 
+
+6
+00:00:18,847 --> 00:00:21,486
+L'idée est un peu ridicule,
+vous ne trouvez pas?
+
+7
+00:00:21,486 --> 00:00:22,807
+ 
+
+8
+00:00:22,807 --> 00:00:24,798
+Vous connaissez le général Ryan?
+
+9
+00:00:24,798 --> 00:00:25,927
+ 
+
+10
+00:00:25,927 --> 00:00:27,918
+Bonjour, colonel.
+
+11
+00:00:27,918 --> 00:00:28,247
+ 
+
+12
+00:00:28,247 --> 00:00:30,442
+Le général Ryan? Le chef d'état-major?
+
+13
+00:00:30,442 --> 00:00:30,687
+ 
+
+14
+00:00:30,687 --> 00:00:32,678
+C'est bien moi.
+
+15
+00:00:32,678 --> 00:00:34,967
+ 
+
+16
+00:00:34,967 --> 00:00:36,958
+ll n'y a pas eu de note de service?
+
+17
+00:00:36,958 --> 00:00:37,327
+ 
+
+18
+00:00:37,327 --> 00:00:39,283
+Vous étiez en mission.
+
+19
+00:00:39,283 --> 00:00:39,367
+ 
+
+20
+00:00:39,367 --> 00:00:41,358
+C'est vrai.
+
+21
+00:00:41,358 --> 00:00:41,447
+ 
+
+22
+00:00:41,447 --> 00:00:45,042
+Alors, qu'est-ce qui vous amène
+dans notre petite base secrète?
+
+23
+00:00:45,042 --> 00:00:46,207
+ 
+
+24
+00:00:46,207 --> 00:00:49,597
+La mission ridicule à laquelle
+vous venez de faire allusion.
+
+25
+00:00:49,597 --> 00:00:52,247
+ 
+
+26
+00:00:52,247 --> 00:00:54,681
+- Bien sûr.
+- Je propose que M4C-862 devienne
+
+27
+00:00:54,681 --> 00:00:56,167
+ 
+
+28
+00:00:56,167 --> 00:00:59,284
+un poste de recherche permanent.
+Vous allez l'évaluer.
+
+29
+00:00:59,284 --> 00:00:59,567
+ 
+
+30
+00:00:59,567 --> 00:01:02,604
+- Le général Ryan?
+- J'ai lu beaucoup de choses sur vous.
+
+31
+00:01:02,604 --> 00:01:03,167
+ 
+
+32
+00:01:03,167 --> 00:01:05,283
+Dans les rapports du général Hammond.
+
+33
+00:01:05,283 --> 00:01:07,087
+ 
+
+34
+00:01:07,087 --> 00:01:10,397
+- Oui, mon général?
+- Jusqu'ici, nous aimons votre travail.
+
+35
+00:01:10,397 --> 00:01:11,767
+ 
+
+36
+00:01:11,767 --> 00:01:13,803
+Merci, mon général. J'aime le vôtre.
+
+37
+00:01:13,803 --> 00:01:14,247
+ 
+
+38
+00:01:14,247 --> 00:01:16,442
+Votre armée de l'air. L'armée de l'air.
+
+39
+00:01:16,442 --> 00:01:16,567
+ 
+
+40
+00:01:16,567 --> 00:01:18,558
+J'adore l'armée de l'air.
+
+41
+00:01:18,558 --> 00:01:18,847
+ 
+
+42
+00:01:18,847 --> 00:01:20,838
+Rien d'autre, colonel?
+
+43
+00:01:20,838 --> 00:01:21,327
+ 
+
+44
+00:01:21,327 --> 00:01:25,525
+Non. Enfin, je voudrais savoir comment
+Daniel et Carter ont échappé à cette
+
+45
+00:01:25,525 --> 00:01:27,047
+ 
+
+46
+00:01:27,047 --> 00:01:29,038
+mission de haute importance.
+
+47
+00:01:29,038 --> 00:01:29,367
+ 
+
+48
+00:01:29,367 --> 00:01:31,403
+Le Dr Jackson est parti avec le SG-1 1 .
+
+49
+00:01:31,403 --> 00:01:32,287
+ 
+
+50
+00:01:32,287 --> 00:01:36,485
+Le commandant Carter donne un cours
+d'astrophysique à l'école militaire.
+
+51
+00:01:36,485 --> 00:01:37,167
+ 
+
+52
+00:01:37,167 --> 00:01:39,158
+Si vous voulez prendre sa place...
+
+53
+00:01:39,158 --> 00:01:39,447
+ 
+
+54
+00:01:39,447 --> 00:01:41,438
+Non.
+
+55
+00:01:41,438 --> 00:01:41,767
+ 
+
+56
+00:01:41,767 --> 00:01:43,803
+- Alors rompez.
+- Merci, mon général.
+
+57
+00:01:43,803 --> 00:01:44,647
+ 
+
+58
+00:01:44,647 --> 00:01:46,638
+Mes généraux. Tous les deux.
+
+59
+00:01:46,638 --> 00:01:52,447
+ 
+
+60
+00:01:52,447 --> 00:01:55,439
+Vous ne devez pas
+vous ennuyer avec lui, hein, George?
+
+61
+00:01:55,439 --> 00:01:57,207
+ 
+
+62
+00:01:57,207 --> 00:01:59,243
+A cause de ces fonctions modulaires,
+
+63
+00:01:59,243 --> 00:01:59,807
+ 
+
+64
+00:01:59,807 --> 00:02:04,039
+les variables inutiles sont toujours
+exprimées en multiples de N moins dix.
+
+65
+00:02:04,039 --> 00:02:04,927
+ 
+
+66
+00:02:04,927 --> 00:02:08,522
+Si l'on admet qu'il existe
+dix dimensions dans l'espace-temps,
+
+67
+00:02:08,522 --> 00:02:08,807
+ 
+
+68
+00:02:08,807 --> 00:02:12,322
+les variables s'annulent
+et les calculs deviennent logiques.
+
+69
+00:02:12,322 --> 00:02:12,607
+ 
+
+70
+00:02:12,607 --> 00:02:15,804
+Excusez-moi, madame.
+J'ai bien entendu dix dimensions?
+
+71
+00:02:15,804 --> 00:02:17,247
+ 
+
+72
+00:02:17,247 --> 00:02:19,238
+Oui, vous avez bien entendu.
+
+73
+00:02:19,238 --> 00:02:20,207
+ 
+
+74
+00:02:20,207 --> 00:02:22,926
+Je me rends compte
+que ces concepts sont bizarres
+
+75
+00:02:22,926 --> 00:02:23,407
+ 
+
+76
+00:02:23,407 --> 00:02:25,602
+et que vous préféreriez être ailleurs:
+
+77
+00:02:25,602 --> 00:02:26,167
+ 
+
+78
+00:02:26,167 --> 00:02:29,079
+au cours de parachutisme, de pilotage...
+Je le sais.
+
+79
+00:02:29,079 --> 00:02:29,687
+ 
+
+80
+00:02:29,687 --> 00:02:33,396
+J'ai été à votre place et j'ai écouté
+les mêmes leçons assommantes.
+
+81
+00:02:33,396 --> 00:02:34,127
+ 
+
+82
+00:02:34,127 --> 00:02:36,436
+Sans vouloir vous offenser, professeur.
+
+83
+00:02:36,436 --> 00:02:38,487
+ 
+
+84
+00:02:38,487 --> 00:02:42,196
+Mais l'aérodynamique qui un jour
+vous permettra de piloter un F-22
+
+85
+00:02:42,196 --> 00:02:43,327
+ 
+
+86
+00:02:43,327 --> 00:02:46,046
+est partie de gribouillis
+semblables à ceux-ci.
+
+87
+00:02:46,046 --> 00:02:46,367
+ 
+
+88
+00:02:46,367 --> 00:02:49,484
+Ces calculs sont la clé
+qui ouvre l'univers tout entier.
+
+89
+00:02:49,484 --> 00:02:50,127
+ 
+
+90
+00:02:50,127 --> 00:02:53,642
+L'hyperespace est peut-être
+de la science-fiction pour vous,
+
+91
+00:02:53,642 --> 00:02:53,807
+ 
+
+92
+00:02:53,807 --> 00:02:57,800
+mais croyez-moi: l'avenir est
+bien plus proche que vous ne l'imaginez.
+
+93
+00:02:57,800 --> 00:03:17,727
+ 
+
+94
+00:03:17,727 --> 00:03:19,718
+ça ne s'est pas trop mal passé.
+
+95
+00:03:19,718 --> 00:03:20,087
+ 
+
+96
+00:03:20,087 --> 00:03:23,204
+Non, non. Avec vous,
+même la configuration topologique
+
+97
+00:03:23,204 --> 00:03:23,487
+ 
+
+98
+00:03:23,487 --> 00:03:26,206
+des dimensions multiples
+semble intéressante.
+
+99
+00:03:26,206 --> 00:03:27,727
+ 
+
+100
+00:03:27,727 --> 00:03:29,718
+C'est faux.
+
+101
+00:03:29,718 --> 00:03:31,487
+ 
+
+102
+00:03:31,487 --> 00:03:33,478
+Qu'avez-vous dit?
+
+103
+00:03:33,478 --> 00:03:34,327
+ 
+
+104
+00:03:34,327 --> 00:03:37,763
+Pardonnez-moi, monsieur,
+mais les calculs sont incorrects.
+
+105
+00:03:37,763 --> 00:03:38,607
+ 
+
+106
+00:03:38,607 --> 00:03:41,644
+J'apprécie votre zèle,
+mais attendez d'être diplômée
+
+107
+00:03:41,644 --> 00:03:42,047
+ 
+
+108
+00:03:42,047 --> 00:03:45,483
+pour critiquer le travail
+d'une sommité de l'astrophysique.
+
+109
+00:03:45,483 --> 00:03:45,967
+ 
+
+110
+00:03:45,967 --> 00:03:47,958
+Oui, monsieur, bien sûr.
+
+111
+00:03:47,958 --> 00:03:48,047
+ 
+
+112
+00:03:48,047 --> 00:03:50,038
+Toutes mes excuses, madame.
+
+113
+00:03:50,038 --> 00:03:58,087
+ 
+
+114
+00:03:58,087 --> 00:04:00,078
+Qui est-ce?
+
+115
+00:04:00,078 --> 00:04:00,287
+ 
+
+116
+00:04:00,287 --> 00:04:02,278
+Jennifer Hailey.
+
+117
+00:04:02,278 --> 00:04:02,407
+ 
+
+118
+00:04:02,407 --> 00:04:05,205
+Très intelligente,
+mais un caractère difficile.
+
+119
+00:04:05,205 --> 00:04:08,167
+ 
+
+120
+00:04:08,167 --> 00:04:10,158
+Eh bien, elle a raison.
+
+121
+00:04:10,158 --> 00:04:11,607
+ 
+
+122
+00:04:11,607 --> 00:04:14,644
+- Vraiment?
+- Ces variables devraient être inversées.
+
+123
+00:04:14,644 --> 00:04:16,647
+ 
+
+124
+00:04:16,647 --> 00:04:18,877
+- Je ne l'avais même pas vu.
+- Moi non plus.
+
+125
+00:04:18,877 --> 00:05:29,647
+ 
+
+126
+00:05:29,647 --> 00:05:31,877
+- Mon colonel.
+- Commandant. Votre rapport?
+
+127
+00:05:31,877 --> 00:05:33,007
+ 
+
+128
+00:05:33,007 --> 00:05:34,998
+ça a été une semaine palpitante.
+
+129
+00:05:34,998 --> 00:05:35,247
+ 
+
+130
+00:05:35,247 --> 00:05:38,045
+L'autre jour,
+le Dr Thompson a perdu ses lunettes,
+
+131
+00:05:38,045 --> 00:05:38,407
+ 
+
+132
+00:05:38,407 --> 00:05:41,843
+et ce matin même, le microscope
+électronique s'est détraqué.
+
+133
+00:05:41,843 --> 00:05:42,367
+ 
+
+134
+00:05:42,367 --> 00:05:44,358
+- Terrible.
+- Ouais.
+
+135
+00:05:44,358 --> 00:05:44,527
+ 
+
+136
+00:05:44,527 --> 00:05:46,518
+On n'a pas soufflé une minute.
+
+137
+00:05:46,518 --> 00:05:47,887
+ 
+
+138
+00:05:47,887 --> 00:05:50,082
+On prend la relève. Vous pouvez partir.
+
+139
+00:05:50,082 --> 00:05:50,647
+ 
+
+140
+00:05:50,647 --> 00:05:52,683
+- Bien, mon colonel.
+- Commandant Griff?
+
+141
+00:05:52,683 --> 00:05:54,207
+ 
+
+142
+00:05:54,207 --> 00:05:56,198
+Docteur Hamilton.
+
+143
+00:05:56,198 --> 00:05:57,007
+ 
+
+144
+00:05:57,007 --> 00:06:01,205
+Vous savez qu'on n'a toujours pas reçu
+les pièces du générateur de secours?
+
+145
+00:06:01,205 --> 00:06:01,927
+ 
+
+146
+00:06:01,927 --> 00:06:04,043
+J'ai fait la demande il y a trois jours.
+
+147
+00:06:04,043 --> 00:06:04,527
+ 
+
+148
+00:06:04,527 --> 00:06:06,518
+Eh bien, ça ne suffit pas.
+
+149
+00:06:06,518 --> 00:06:07,407
+ 
+
+150
+00:06:07,407 --> 00:06:10,524
+On doit discuter
+de la procédure d'approvisionnement.
+
+151
+00:06:10,524 --> 00:06:10,847
+ 
+
+152
+00:06:10,847 --> 00:06:14,237
+Malheureusement, docteur,
+je viens d'être relevé, mais...
+
+153
+00:06:14,237 --> 00:06:14,487
+ 
+
+154
+00:06:14,487 --> 00:06:18,116
+je suis sûr que le colonel O'Neill
+sera ravi d'en parler avec vous.
+
+155
+00:06:18,116 --> 00:06:20,567
+ 
+
+156
+00:06:20,567 --> 00:06:22,558
+Ravi, le mot est faible.
+
+157
+00:06:22,558 --> 00:06:22,647
+ 
+
+158
+00:06:22,647 --> 00:06:25,878
+Colonel O'Neill? Je ne sais pas
+si c'est la faute de l'armée
+
+159
+00:06:25,878 --> 00:06:26,687
+ 
+
+160
+00:06:26,687 --> 00:06:29,724
+ou de Griff, mais je n'obtiens
+jamais ce que je demande.
+
+161
+00:06:29,724 --> 00:06:38,287
+ 
+
+162
+00:06:38,287 --> 00:06:40,278
+Entrez.
+
+163
+00:06:40,278 --> 00:06:42,807
+ 
+
+164
+00:06:42,807 --> 00:06:45,002
+Samantha. Sam. Content de vous revoir.
+
+165
+00:06:45,002 --> 00:06:45,807
+ 
+
+166
+00:06:45,807 --> 00:06:48,002
+Entrez. Asseyez-vous, asseyez-vous.
+
+167
+00:06:48,002 --> 00:06:48,527
+ 
+
+168
+00:06:48,527 --> 00:06:50,916
+Contente de vous revoir,
+moi aussi. Merci.
+
+169
+00:06:50,916 --> 00:06:52,367
+ 
+
+170
+00:06:52,367 --> 00:06:55,404
+Bien, bien, bien.
+Alors, comment s'est passé le cours?
+
+171
+00:06:55,404 --> 00:06:57,567
+ 
+
+172
+00:06:57,567 --> 00:06:59,558
+Personne ne s'est endormi.
+
+173
+00:06:59,558 --> 00:06:59,687
+ 
+
+174
+00:06:59,687 --> 00:07:01,882
+- Félicitations.
+- Merci, mon général.
+
+175
+00:07:01,882 --> 00:07:02,167
+ 
+
+176
+00:07:02,167 --> 00:07:06,160
+J'ai fait une rencontre intéressante
+avec une élève. Jennifer Hailey.
+
+177
+00:07:06,160 --> 00:07:06,527
+ 
+
+178
+00:07:06,527 --> 00:07:08,916
+Vous l'avez remarquée?
+ça ne m'étonne pas.
+
+179
+00:07:08,916 --> 00:07:10,007
+ 
+
+180
+00:07:10,007 --> 00:07:13,397
+Elle a signalé une erreur
+très importante dans une équation.
+
+181
+00:07:13,397 --> 00:07:14,207
+ 
+
+182
+00:07:14,207 --> 00:07:16,846
+- Je n'en croyais pas mes yeux.
+- Tenez. Lisez ça.
+
+183
+00:07:16,846 --> 00:07:18,327
+ 
+
+184
+00:07:18,327 --> 00:07:20,363
+VERS UNE NOUVELLE COSMOLOGlE
+J. HAlLEY
+
+185
+00:07:20,363 --> 00:07:20,447
+ 
+
+186
+00:07:20,447 --> 00:07:22,438
+L'agressivité mise à part,
+
+187
+00:07:22,438 --> 00:07:23,087
+ 
+
+188
+00:07:23,087 --> 00:07:26,204
+elle me rappelle une élève
+très douée que nous avons eue.
+
+189
+00:07:26,204 --> 00:07:26,767
+ 
+
+190
+00:07:26,767 --> 00:07:28,962
+Je ne vois pas du tout de qui vous parlez.
+
+191
+00:07:28,962 --> 00:07:29,887
+ 
+
+192
+00:07:29,887 --> 00:07:32,117
+Jennifer Hailey est très intelligente.
+
+193
+00:07:32,117 --> 00:07:32,527
+ 
+
+194
+00:07:32,527 --> 00:07:35,246
+Au concours d'entrée,
+elle a fait mieux que vous.
+
+195
+00:07:35,246 --> 00:07:35,767
+ 
+
+196
+00:07:35,767 --> 00:07:38,565
+Mais son intelligence
+lui joue parfois des tours.
+
+197
+00:07:38,565 --> 00:07:39,247
+ 
+
+198
+00:07:39,247 --> 00:07:41,556
+M. Monroe dit qu'elle est indisciplinée.
+
+199
+00:07:41,556 --> 00:07:42,007
+ 
+
+200
+00:07:42,007 --> 00:07:46,000
+Elle s'ennuie. Elle est venue ici
+pour le défi, mais ça ne lui suffit pas.
+
+201
+00:07:46,000 --> 00:07:46,927
+ 
+
+202
+00:07:46,927 --> 00:07:49,236
+Quoi?
+Ce n'est que le début de sa carrière.
+
+203
+00:07:49,236 --> 00:07:49,847
+ 
+
+204
+00:07:49,847 --> 00:07:53,760
+- Comment saurait-elle ce qui l'attend?
+- Elle ne s'en rend pas compte.
+
+205
+00:07:53,760 --> 00:07:54,487
+ 
+
+206
+00:07:54,487 --> 00:07:56,921
+Comprenez-moi bien.
+Je vois son potentiel.
+
+207
+00:07:56,921 --> 00:07:57,127
+ 
+
+208
+00:07:57,127 --> 00:07:59,721
+Elle a des aptitudes
+physiques remarquables.
+
+209
+00:07:59,721 --> 00:07:59,967
+ 
+
+210
+00:07:59,967 --> 00:08:02,197
+Elle est excellente au tir, au pilotage.
+
+211
+00:08:02,197 --> 00:08:02,607
+ 
+
+212
+00:08:02,607 --> 00:08:04,643
+Mais un officier est bien plus que ça.
+
+213
+00:08:04,643 --> 00:08:05,127
+ 
+
+214
+00:08:05,127 --> 00:08:07,357
+Si elle continue à faire la forte tête...
+
+215
+00:08:07,357 --> 00:08:07,567
+ 
+
+216
+00:08:07,567 --> 00:08:09,603
+J'aimerais lui parler, mon général.
+
+217
+00:08:09,603 --> 00:08:14,207
+ 
+
+218
+00:08:14,207 --> 00:08:16,198
+J'espérais que vous diriez cela.
+
+219
+00:08:16,198 --> 00:08:19,647
+ 
+
+220
+00:08:19,647 --> 00:08:21,524
+- Qui a dit ça?
+- Lui.
+
+221
+00:08:21,524 --> 00:08:21,607
+ 
+
+222
+00:08:21,607 --> 00:08:23,598
+Oh non, c'est pas...
+
+223
+00:08:23,598 --> 00:08:25,487
+ 
+
+224
+00:08:25,487 --> 00:08:27,478
+Colonel O'Neill?
+
+225
+00:08:27,478 --> 00:08:29,167
+ 
+
+226
+00:08:29,167 --> 00:08:32,682
+Le Dr Lee m'a dit que vous refusiez
+que l'on explore les grottes.
+
+227
+00:08:32,682 --> 00:08:34,607
+ 
+
+228
+00:08:34,607 --> 00:08:37,917
+Non. Je lui ai juste demandé
+d'attendre que je les inspecte.
+
+229
+00:08:37,917 --> 00:08:38,487
+ 
+
+230
+00:08:38,487 --> 00:08:41,877
+- Sans faire aucun cas de notre planning.
+- Absolument aucun.
+
+231
+00:08:41,877 --> 00:08:42,767
+ 
+
+232
+00:08:42,767 --> 00:08:45,361
+Colonel,
+que croyez-vous trouver là-dedans?
+
+233
+00:08:45,361 --> 00:08:45,607
+ 
+
+234
+00:08:45,607 --> 00:08:48,405
+Ecoutez, docteur,
+c'est une toute autre planète.
+
+235
+00:08:48,405 --> 00:08:48,927
+ 
+
+236
+00:08:48,927 --> 00:08:52,124
+C'est une lune. Nous gravitons
+autour de ce géant gazeux.
+
+237
+00:08:52,124 --> 00:08:54,967
+ 
+
+238
+00:08:54,967 --> 00:08:56,958
+Oh, alors, si c'est une lune,
+
+239
+00:08:56,958 --> 00:08:57,807
+ 
+
+240
+00:08:57,807 --> 00:09:00,799
+allez-y, faites ce que vous voulez.
+Que risque-t-on?
+
+241
+00:09:00,799 --> 00:09:01,287
+ 
+
+242
+00:09:01,287 --> 00:09:04,324
+Cet avant-poste
+est opérationnel depuis six semaines
+
+243
+00:09:04,324 --> 00:09:04,567
+ 
+
+244
+00:09:04,567 --> 00:09:07,286
+et nous n'avons pas vu
+le moindre signe de danger.
+
+245
+00:09:07,286 --> 00:09:08,887
+ 
+
+246
+00:09:08,887 --> 00:09:12,197
+Vous explorerez les grottes
+quand je les aurai inspectées.
+
+247
+00:09:12,197 --> 00:09:13,887
+ 
+
+248
+00:09:13,887 --> 00:09:15,878
+Pas d'autre question urgente?
+
+249
+00:09:15,878 --> 00:09:17,647
+ 
+
+250
+00:09:17,647 --> 00:09:19,638
+Absolument aucune.
+
+251
+00:09:19,638 --> 00:09:25,007
+ 
+
+252
+00:09:25,007 --> 00:09:26,998
+Ah, tiens?
+
+253
+00:09:26,998 --> 00:09:49,807
+ 
+
+254
+00:09:49,807 --> 00:09:52,037
+- Magnifique, non?
+- Commandant Carter.
+
+255
+00:09:52,037 --> 00:09:52,447
+ 
+
+256
+00:09:52,447 --> 00:09:54,438
+Repos, élève Hailey.
+
+257
+00:09:54,438 --> 00:09:59,447
+ 
+
+258
+00:09:59,447 --> 00:10:01,677
+Vous travaillez au labo après les cours?
+
+259
+00:10:01,677 --> 00:10:02,087
+ 
+
+260
+00:10:02,087 --> 00:10:04,078
+Oui, commandant.
+
+261
+00:10:04,078 --> 00:10:04,367
+ 
+
+262
+00:10:04,367 --> 00:10:06,562
+Je voulais vous parler de votre devoir.
+
+263
+00:10:06,562 --> 00:10:07,767
+ 
+
+264
+00:10:07,767 --> 00:10:10,964
+''Vers une Nouvelle Cosmologie
+aux Réalités Multiples.''
+
+265
+00:10:10,964 --> 00:10:11,287
+ 
+
+266
+00:10:11,287 --> 00:10:14,085
+- C'est un sujet intéressant.
+- M. Monroe m'a mis D.
+
+267
+00:10:14,085 --> 00:10:15,007
+ 
+
+268
+00:10:15,007 --> 00:10:16,998
+Parce que c'était hors sujet.
+
+269
+00:10:16,998 --> 00:10:18,007
+ 
+
+270
+00:10:18,007 --> 00:10:20,202
+Vous me permettez de parler librement?
+
+271
+00:10:20,202 --> 00:10:21,687
+ 
+
+272
+00:10:21,687 --> 00:10:23,678
+Le sujet était médiocre.
+
+273
+00:10:23,678 --> 00:10:24,327
+ 
+
+274
+00:10:24,327 --> 00:10:26,318
+Peut-être, mais c'était le sujet.
+
+275
+00:10:26,318 --> 00:10:27,967
+ 
+
+276
+00:10:27,967 --> 00:10:30,606
+- Vous l'avez lu, au moins?
+- Oui, figurez-vous.
+
+277
+00:10:30,606 --> 00:10:31,527
+ 
+
+278
+00:10:31,527 --> 00:10:34,917
+- C'est intrigant.
+- C'est exactement ce qu'a dit M. Monroe.
+
+279
+00:10:34,917 --> 00:10:36,047
+ 
+
+280
+00:10:36,047 --> 00:10:39,835
+Peut-être parce que c'est
+précisément cela: une idée intrigante.
+
+281
+00:10:39,835 --> 00:10:40,607
+ 
+
+282
+00:10:40,607 --> 00:10:44,395
+Mais qui repose sur trop d'hypothèses
+pour être une théorie solide.
+
+283
+00:10:44,395 --> 00:10:44,847
+ 
+
+284
+00:10:44,847 --> 00:10:47,361
+Selon vous,
+on peut voyager dans les deux sens
+
+285
+00:10:47,361 --> 00:10:47,927
+ 
+
+286
+00:10:47,927 --> 00:10:49,724
+par un couloir espace-temps.
+
+287
+00:10:49,724 --> 00:10:49,807
+ 
+
+288
+00:10:49,807 --> 00:10:52,037
+- Et alors?
+- Et alors, qu'en savez-vous?
+
+289
+00:10:52,037 --> 00:10:53,167
+ 
+
+290
+00:10:53,167 --> 00:10:55,158
+Jusqu'à preuve du contraire...
+
+291
+00:10:55,158 --> 00:10:56,167
+ 
+
+292
+00:10:56,167 --> 00:10:59,159
+Là n'est pas la question.
+Vous ne faites que supposer.
+
+293
+00:10:59,159 --> 00:11:00,607
+ 
+
+294
+00:11:00,607 --> 00:11:02,598
+Et vous, vous ne supposez pas?
+
+295
+00:11:02,598 --> 00:11:04,447
+ 
+
+296
+00:11:04,447 --> 00:11:06,438
+Que vous avez raison et moi tort?
+
+297
+00:11:06,438 --> 00:11:06,727
+ 
+
+298
+00:11:06,727 --> 00:11:10,720
+Votre devoir dépasse de loin
+tout ce que l'on pourra vous enseigner ici.
+
+299
+00:11:10,720 --> 00:11:11,607
+ 
+
+300
+00:11:11,607 --> 00:11:14,519
+Si vous tenez à le savoir,
+on est tous impressionnés.
+
+301
+00:11:14,519 --> 00:11:14,967
+ 
+
+302
+00:11:14,967 --> 00:11:17,606
+Mais ça ne vous dispense pas
+de traiter le sujet.
+
+303
+00:11:17,606 --> 00:11:18,207
+ 
+
+304
+00:11:18,207 --> 00:11:20,198
+Je suis en retard pour mon cours.
+
+305
+00:11:20,198 --> 00:11:21,047
+ 
+
+306
+00:11:21,047 --> 00:11:23,038
+Puis-je me retirer?
+
+307
+00:11:23,038 --> 00:11:23,407
+ 
+
+308
+00:11:23,407 --> 00:11:25,398
+Oui.
+
+309
+00:11:25,398 --> 00:11:42,087
+ 
+
+310
+00:11:42,087 --> 00:11:44,078
+Hamilton.
+
+311
+00:11:44,078 --> 00:11:45,127
+ 
+
+312
+00:11:45,127 --> 00:11:47,846
+O'Neill.
+Comment avez-vous trouvé les grottes?
+
+313
+00:11:47,846 --> 00:11:49,287
+ 
+
+314
+00:11:49,287 --> 00:11:52,279
+- Sombres.
+- Pas de monstres souterrains, je parie?
+
+315
+00:11:52,279 --> 00:11:53,967
+ 
+
+316
+00:11:53,967 --> 00:11:55,958
+Pas cette fois.
+
+317
+00:11:55,958 --> 00:11:56,167
+ 
+
+318
+00:11:56,167 --> 00:11:58,158
+Vous pouvez les explorer.
+
+319
+00:11:58,158 --> 00:11:58,407
+ 
+
+320
+00:11:58,407 --> 00:12:00,398
+Je vous remercie.
+
+321
+00:12:00,398 --> 00:12:01,647
+ 
+
+322
+00:12:01,647 --> 00:12:06,038
+- Tu es déçu qu'il n'y ait rien.
+- Non, je voulais juste qu'il ait tort.
+
+323
+00:12:06,038 --> 00:12:07,967
+ 
+
+324
+00:12:07,967 --> 00:12:09,958
+Juste pour qu'il ait tort.
+
+325
+00:12:09,958 --> 00:12:11,327
+ 
+
+326
+00:12:11,327 --> 00:12:13,636
+Au moins, on aurait quelque chose à faire.
+
+327
+00:12:13,636 --> 00:12:14,047
+ 
+
+328
+00:12:14,047 --> 00:12:16,038
+Je vois.
+
+329
+00:12:16,038 --> 00:12:21,007
+ 
+
+330
+00:12:21,007 --> 00:12:22,998
+Tu as entendu quelque chose?
+
+331
+00:12:22,998 --> 00:12:24,927
+ 
+
+332
+00:12:24,927 --> 00:12:26,918
+En effet.
+
+333
+00:12:26,918 --> 00:13:05,647
+ 
+
+334
+00:13:05,647 --> 00:13:07,638
+Je n'ai jamais rien vu de tel.
+
+335
+00:13:07,638 --> 00:13:09,967
+ 
+
+336
+00:13:09,967 --> 00:13:11,958
+Super.
+
+337
+00:13:11,958 --> 00:13:19,487
+ 
+
+338
+00:13:19,487 --> 00:13:21,478
+Je croyais que vous étiez partie.
+
+339
+00:13:21,478 --> 00:13:21,727
+ 
+
+340
+00:13:21,727 --> 00:13:23,957
+Je viens vous parler du devoir de Hailey.
+
+341
+00:13:23,957 --> 00:13:24,367
+ 
+
+342
+00:13:24,367 --> 00:13:26,562
+- Sam...
+- Au début, je vous approuvais.
+
+343
+00:13:26,562 --> 00:13:26,967
+ 
+
+344
+00:13:26,967 --> 00:13:29,959
+ça ne collait pas.
+Mais quelque chose me travaillait.
+
+345
+00:13:29,959 --> 00:13:30,407
+ 
+
+346
+00:13:30,407 --> 00:13:32,443
+J'ai fini par trouver ce que c'était.
+
+347
+00:13:32,443 --> 00:13:32,927
+ 
+
+348
+00:13:32,927 --> 00:13:36,556
+Sa théorie marche si l'on admet
+que la vitesse de la lumière varie.
+
+349
+00:13:36,556 --> 00:13:37,247
+ 
+
+350
+00:13:37,247 --> 00:13:39,238
+Chacun sait qu'elle est constante.
+
+351
+00:13:39,238 --> 00:13:39,647
+ 
+
+352
+00:13:39,647 --> 00:13:42,161
+Pas si l'on a affaire
+à des univers multiples.
+
+353
+00:13:42,161 --> 00:13:43,127
+ 
+
+354
+00:13:43,127 --> 00:13:46,244
+Je reviens à ce devoir.
+Je crois que, sans même le savoir,
+
+355
+00:13:46,244 --> 00:13:47,047
+ 
+
+356
+00:13:47,047 --> 00:13:51,086
+Hailey a découvert une toute nouvelle
+manière d'aborder la cosmologie.
+
+357
+00:13:51,086 --> 00:13:51,607
+ 
+
+358
+00:13:51,607 --> 00:13:53,837
+Dans des circonstances particulières,
+
+359
+00:13:53,837 --> 00:13:54,247
+ 
+
+360
+00:13:54,247 --> 00:13:58,479
+ce que nous verrions normalement
+comme un effet précédant une cause
+
+361
+00:13:58,479 --> 00:14:02,167
+ 
+
+362
+00:14:02,167 --> 00:14:06,399
+serait au contraire un effet suivant
+une cause, dans une réalité parallèle.
+
+363
+00:14:06,399 --> 00:14:08,647
+ 
+
+364
+00:14:08,647 --> 00:14:11,480
+Si des réalités parallèles
+peuvent se chevaucher.
+
+365
+00:14:11,480 --> 00:14:12,407
+ 
+
+366
+00:14:12,407 --> 00:14:15,797
+- Je suis presque sûre que c'est le cas.
+- Vraiment? Pourquoi?
+
+367
+00:14:15,797 --> 00:14:17,207
+ 
+
+368
+00:14:17,207 --> 00:14:21,120
+Je sais que son cas vous préoccupe,
+mais vous vous imaginez des choses.
+
+369
+00:14:21,120 --> 00:14:22,407
+ 
+
+370
+00:14:22,407 --> 00:14:25,524
+D'accord. Mais même
+si sa théorie se révèle incorrecte,
+
+371
+00:14:25,524 --> 00:14:26,487
+ 
+
+372
+00:14:26,487 --> 00:14:29,126
+admettez que c'est
+une intuition remarquable.
+
+373
+00:14:29,126 --> 00:14:29,487
+ 
+
+374
+00:14:29,487 --> 00:14:31,921
+Jennifer Hailey n'est plus notre problème.
+
+375
+00:14:31,921 --> 00:14:34,727
+ 
+
+376
+00:14:34,727 --> 00:14:37,924
+- Que dites-vous?
+- Elle s'est battue avec un autre élève.
+
+377
+00:14:37,924 --> 00:14:39,647
+ 
+
+378
+00:14:39,647 --> 00:14:42,764
+Même si Kerrigan l'aime beaucoup,
+il devra la renvoyer.
+
+379
+00:14:42,764 --> 00:14:47,407
+ 
+
+380
+00:14:47,407 --> 00:14:50,444
+- On y va, vous êtes sûr?
+- Je n'ai pas traversé la galaxie
+
+381
+00:14:50,444 --> 00:14:51,247
+ 
+
+382
+00:14:51,247 --> 00:14:53,966
+- pour attendre des autorisations.
+- O'Neill...
+
+383
+00:14:53,966 --> 00:14:54,287
+ 
+
+384
+00:14:54,287 --> 00:14:56,278
+ll ne comprend rien à notre projet.
+
+385
+00:14:56,278 --> 00:14:57,087
+ 
+
+386
+00:14:57,087 --> 00:14:59,203
+ll est trop occupé à astiquer son M-16.
+
+387
+00:14:59,203 --> 00:15:00,167
+ 
+
+388
+00:15:00,167 --> 00:15:02,158
+En fait, c'est un P-90.
+
+389
+00:15:02,158 --> 00:15:08,247
+ 
+
+390
+00:15:08,247 --> 00:15:10,238
+Vous allez quelque part, les gars?
+
+391
+00:15:10,238 --> 00:15:11,287
+ 
+
+392
+00:15:11,287 --> 00:15:15,200
+Oui, on... on va voir si on trouve
+la créature que vous avez rencontrée.
+
+393
+00:15:15,200 --> 00:15:16,047
+ 
+
+394
+00:15:16,047 --> 00:15:18,038
+Je croyais pourtant vous avoir dit,
+
+395
+00:15:18,038 --> 00:15:18,767
+ 
+
+396
+00:15:18,767 --> 00:15:21,964
+en termes clairs et non équivoques:
+pas encore, bon sang.
+
+397
+00:15:21,964 --> 00:15:23,127
+ 
+
+398
+00:15:23,127 --> 00:15:26,244
+Vous savez,
+si votre description est correcte, cet être
+
+399
+00:15:26,244 --> 00:15:27,407
+ 
+
+400
+00:15:27,407 --> 00:15:29,398
+peut traverser des corps solides.
+
+401
+00:15:29,398 --> 00:15:29,607
+ 
+
+402
+00:15:29,607 --> 00:15:32,997
+Oui. Et donc, nous n'avons
+aucun moyen de défense contre lui.
+
+403
+00:15:32,997 --> 00:15:33,847
+ 
+
+404
+00:15:33,847 --> 00:15:35,644
+C'est typique des militaires.
+
+405
+00:15:35,644 --> 00:15:35,727
+ 
+
+406
+00:15:35,727 --> 00:15:39,959
+Si vous voyez quelque chose d'inconnu,
+vous présumez qu'il y a un danger.
+
+407
+00:15:39,959 --> 00:15:40,607
+ 
+
+408
+00:15:40,607 --> 00:15:43,440
+Jusqu'à ce que l'on prouve
+qu'il n'y a aucun danger,
+
+409
+00:15:43,440 --> 00:15:45,047
+ 
+
+410
+00:15:45,047 --> 00:15:47,038
+je présumerai qu'il y en a un.
+
+411
+00:15:47,038 --> 00:15:50,287
+ 
+
+412
+00:15:50,287 --> 00:15:53,882
+- ça vous pose un problème?
+- Avec tout le respect que je vous dois,
+
+413
+00:15:53,882 --> 00:15:55,927
+ 
+
+414
+00:15:55,927 --> 00:15:59,636
+quand j'ai accepté cette mission,
+je croyais être le responsable.
+
+415
+00:15:59,636 --> 00:16:00,167
+ 
+
+416
+00:16:00,167 --> 00:16:02,158
+Vous êtes le responsable.
+
+417
+00:16:02,158 --> 00:16:02,527
+ 
+
+418
+00:16:02,527 --> 00:16:04,518
+Des autres scientifiques.
+
+419
+00:16:04,518 --> 00:16:05,647
+ 
+
+420
+00:16:05,647 --> 00:16:09,037
+Si vous vous croyez qualifié
+pour décider de ce qu'on peut...
+
+421
+00:16:09,037 --> 00:16:09,367
+ 
+
+422
+00:16:09,367 --> 00:16:12,359
+Le colonel O'Neill est certes qualifié,
+Dr Hamilton:
+
+423
+00:16:12,359 --> 00:16:13,447
+ 
+
+424
+00:16:13,447 --> 00:16:17,565
+il croisait des espèces extraterrestres
+alors que vous n'étiez même pas né.
+
+425
+00:16:17,565 --> 00:16:18,647
+ 
+
+426
+00:16:18,647 --> 00:16:21,684
+Je ne saurais trop
+vous conseiller d'obéir au colonel.
+
+427
+00:16:21,684 --> 00:16:23,927
+ 
+
+428
+00:16:23,927 --> 00:16:25,918
+Merci, Rocco.
+
+429
+00:16:25,918 --> 00:16:28,607
+ 
+
+430
+00:16:28,607 --> 00:16:30,598
+On vous tient au courant.
+
+431
+00:16:30,598 --> 00:16:41,967
+ 
+
+432
+00:16:41,967 --> 00:16:45,755
+Hailey entraînait une élève de première
+année du nom de Chloe Brown,
+
+433
+00:16:45,755 --> 00:16:47,847
+ 
+
+434
+00:16:47,847 --> 00:16:50,486
+qui avait du mal avec
+ses tests d'aptitude physique.
+
+435
+00:16:50,486 --> 00:16:51,127
+ 
+
+436
+00:16:51,127 --> 00:16:54,039
+Un cadre a fait
+une remarque désobligeante sur elle.
+
+437
+00:16:54,039 --> 00:16:54,527
+ 
+
+438
+00:16:54,527 --> 00:16:57,325
+- Hailey lui a dit de se taire.
+- Et quand il a refusé?
+
+439
+00:16:57,325 --> 00:16:59,007
+ 
+
+440
+00:16:59,007 --> 00:17:00,998
+- Elle lui a cassé le nez.
+- Quoi?
+
+441
+00:17:00,998 --> 00:17:02,967
+ 
+
+442
+00:17:02,967 --> 00:17:05,356
+Je ne laisserai pas passer ça.
+Douée ou pas.
+
+443
+00:17:05,356 --> 00:17:06,047
+ 
+
+444
+00:17:06,047 --> 00:17:08,277
+- Elle défendait une camarade.
+- Je sais.
+
+445
+00:17:08,277 --> 00:17:09,847
+ 
+
+446
+00:17:09,847 --> 00:17:12,077
+Je ne demande pas qu'elle reste impunie,
+
+447
+00:17:12,077 --> 00:17:12,887
+ 
+
+448
+00:17:12,887 --> 00:17:16,277
+mais si elle est aussi douée
+que je le crois, il faut la garder.
+
+449
+00:17:16,277 --> 00:17:17,087
+ 
+
+450
+00:17:17,087 --> 00:17:20,523
+Nous devons défendre le pays,
+et non faire avancer la science.
+
+451
+00:17:20,523 --> 00:17:20,927
+ 
+
+452
+00:17:20,927 --> 00:17:24,636
+Je comprends, mais ces objectifs
+ne s'excluent pas mutuellement.
+
+453
+00:17:24,636 --> 00:17:26,047
+ 
+
+454
+00:17:26,047 --> 00:17:30,643
+Dois-je supposer que vous faites allusion
+à votre projet de la montagne Cheyenne?
+
+455
+00:17:30,643 --> 00:17:31,607
+ 
+
+456
+00:17:31,607 --> 00:17:34,201
+- En effet.
+- Des analyses radar dans l'espace?
+
+457
+00:17:34,201 --> 00:17:35,887
+ 
+
+458
+00:17:35,887 --> 00:17:37,878
+Quelque chose de ce genre, oui.
+
+459
+00:17:37,878 --> 00:17:40,487
+ 
+
+460
+00:17:40,487 --> 00:17:43,923
+Je ne sais pas ce que vous faites
+vraiment sous cette montagne,
+
+461
+00:17:43,923 --> 00:17:44,687
+ 
+
+462
+00:17:44,687 --> 00:17:48,726
+mais si vous travaillez là-bas,
+alors c'est un projet de haute priorité.
+
+463
+00:17:48,726 --> 00:17:49,407
+ 
+
+464
+00:17:49,407 --> 00:17:52,240
+Merci. C'est le cas.
+Et croyez-moi quand je vous dis
+
+465
+00:17:52,240 --> 00:17:52,767
+ 
+
+466
+00:17:52,767 --> 00:17:56,282
+que Hailey est exactement
+le genre de personne qu'il nous faut.
+
+467
+00:17:56,282 --> 00:17:57,767
+ 
+
+468
+00:17:57,767 --> 00:18:00,486
+- Elle sera punie.
+- Comme il se doit, mon général.
+
+469
+00:18:00,486 --> 00:18:01,447
+ 
+
+470
+00:18:01,447 --> 00:18:05,076
+Mais je doute qu'elle se mette
+à casser la figure à tous vos élèves.
+
+471
+00:18:05,076 --> 00:18:08,127
+ 
+
+472
+00:18:08,127 --> 00:18:10,118
+Faites-la entrer.
+
+473
+00:18:10,118 --> 00:18:18,967
+ 
+
+474
+00:18:18,967 --> 00:18:21,197
+Mon général. Elève Hailey, à vos ordres.
+
+475
+00:18:21,197 --> 00:18:23,207
+ 
+
+476
+00:18:23,207 --> 00:18:25,198
+Repos. Commandant Carter?
+
+477
+00:18:25,198 --> 00:18:26,687
+ 
+
+478
+00:18:26,687 --> 00:18:29,679
+J'ai quelques questions à vous poser.
+Soyez franche.
+
+479
+00:18:29,679 --> 00:18:30,287
+ 
+
+480
+00:18:30,287 --> 00:18:32,721
+- Bien, madame.
+- Pour qui vous prenez-vous?
+
+481
+00:18:32,721 --> 00:18:34,567
+ 
+
+482
+00:18:34,567 --> 00:18:35,443
+Madame?
+
+483
+00:18:35,443 --> 00:18:35,527
+ 
+
+484
+00:18:35,527 --> 00:18:38,325
+Vous vous croyez
+trop futée pour l'armée de l'air?
+
+485
+00:18:38,325 --> 00:18:39,007
+ 
+
+486
+00:18:39,007 --> 00:18:40,998
+- Non, madame.
+- Oh, allez.
+
+487
+00:18:40,998 --> 00:18:41,687
+ 
+
+488
+00:18:41,687 --> 00:18:45,077
+Toutes ces règles ne s'appliquent pas
+vraiment à vous, hein?
+
+489
+00:18:45,077 --> 00:18:45,487
+ 
+
+490
+00:18:45,487 --> 00:18:49,116
+Qu'avez-vous à faire de supérieurs
+moins intelligents que vous?
+
+491
+00:18:49,116 --> 00:18:49,647
+ 
+
+492
+00:18:49,647 --> 00:18:51,763
+- Je ne pense pas cela.
+- Je crois que si.
+
+493
+00:18:51,763 --> 00:18:52,567
+ 
+
+494
+00:18:52,567 --> 00:18:54,956
+Et je crois qu'au fond, vous voulez partir.
+
+495
+00:18:54,956 --> 00:18:55,407
+ 
+
+496
+00:18:55,407 --> 00:18:58,319
+Je vais vous rendre un service.
+La porte est ouverte.
+
+497
+00:18:58,319 --> 00:18:58,887
+ 
+
+498
+00:18:58,887 --> 00:19:01,924
+- Pourquoi vous ne partez pas?
+- Non. Je ne partirai pas.
+
+499
+00:19:01,924 --> 00:19:02,727
+ 
+
+500
+00:19:02,727 --> 00:19:05,958
+Je vous donne l'occasion
+de sortir avant d'être expulsée.
+
+501
+00:19:05,958 --> 00:19:06,767
+ 
+
+502
+00:19:06,767 --> 00:19:08,758
+Je ne partirai pas.
+
+503
+00:19:08,758 --> 00:19:10,727
+ 
+
+504
+00:19:10,727 --> 00:19:12,718
+Bien.
+
+505
+00:19:12,718 --> 00:19:16,247
+ 
+
+506
+00:19:16,247 --> 00:19:18,238
+Hailey, en ce qui me concerne,
+
+507
+00:19:18,238 --> 00:19:19,807
+ 
+
+508
+00:19:19,807 --> 00:19:22,401
+vous vous êtes montrée
+inapte à devenir membre
+
+509
+00:19:22,401 --> 00:19:23,247
+ 
+
+510
+00:19:23,247 --> 00:19:25,238
+de l'armée de l'air américaine.
+
+511
+00:19:25,238 --> 00:19:26,127
+ 
+
+512
+00:19:26,127 --> 00:19:30,439
+Mais le commandant Carter a des projets
+pour vous, et je respecte son opinion.
+
+513
+00:19:30,439 --> 00:19:32,207
+ 
+
+514
+00:19:32,207 --> 00:19:36,200
+Je maintiens vos autres punitions,
+mais je ne recommande pas le renvoi.
+
+515
+00:19:36,200 --> 00:19:37,167
+ 
+
+516
+00:19:37,167 --> 00:19:39,158
+- Merci, mon général.
+- Rompez.
+
+517
+00:19:39,158 --> 00:19:52,367
+ 
+
+518
+00:19:52,367 --> 00:19:54,358
+Bonne chance.
+
+519
+00:19:54,358 --> 00:20:02,527
+ 
+
+520
+00:20:02,527 --> 00:20:05,519
+A quoi vous pensiez
+quand vous avez frappé votre aîné?
+
+521
+00:20:05,519 --> 00:20:06,047
+ 
+
+522
+00:20:06,047 --> 00:20:08,038
+- A viser haut.
+- Ce n'est pas drôle.
+
+523
+00:20:08,038 --> 00:20:08,207
+ 
+
+524
+00:20:08,207 --> 00:20:10,004
+Non, commandant, pas pour vous.
+
+525
+00:20:10,004 --> 00:20:10,087
+ 
+
+526
+00:20:10,087 --> 00:20:12,396
+- Qu'est-ce que ça a à voir avec moi?
+- Tout.
+
+527
+00:20:12,396 --> 00:20:13,167
+ 
+
+528
+00:20:13,167 --> 00:20:16,762
+L'éminente Sam Carter. Vous savez
+qu'on ne parle que de vous ici?
+
+529
+00:20:16,762 --> 00:20:17,447
+ 
+
+530
+00:20:17,447 --> 00:20:20,678
+Vous avez eu la meilleure note
+partout, gagné chaque prix.
+
+531
+00:20:20,678 --> 00:20:21,567
+ 
+
+532
+00:20:21,567 --> 00:20:23,558
+On ne cesse de me comparer à vous,
+
+533
+00:20:23,558 --> 00:20:23,887
+ 
+
+534
+00:20:23,887 --> 00:20:26,196
+mais je ne fais jamais tout à fait le poids.
+
+535
+00:20:26,196 --> 00:20:27,247
+ 
+
+536
+00:20:27,247 --> 00:20:30,239
+C'est donc ça?
+Pour la première fois de votre vie,
+
+537
+00:20:30,239 --> 00:20:31,767
+ 
+
+538
+00:20:31,767 --> 00:20:36,204
+vous n'êtes pas automatiquement
+la plus intelligente et la meilleure partout?
+
+539
+00:20:36,204 --> 00:20:36,607
+ 
+
+540
+00:20:36,607 --> 00:20:38,598
+Allons, remettez-vous.
+
+541
+00:20:38,598 --> 00:20:39,287
+ 
+
+542
+00:20:39,287 --> 00:20:41,164
+ll y a plus important en jeu.
+
+543
+00:20:41,164 --> 00:20:41,247
+ 
+
+544
+00:20:41,247 --> 00:20:43,841
+Mon avenir est tout tracé
+tant que je reste ici?
+
+545
+00:20:43,841 --> 00:20:44,367
+ 
+
+546
+00:20:44,367 --> 00:20:46,801
+- Si vous êtes à la hauteur.
+- Pour faire quoi?
+
+547
+00:20:46,801 --> 00:20:47,207
+ 
+
+548
+00:20:47,207 --> 00:20:49,437
+Piloter un avion de transport, au mieux?
+
+549
+00:20:49,437 --> 00:20:50,367
+ 
+
+550
+00:20:50,367 --> 00:20:53,279
+Ce n'est pas ce que j'appelle
+un avenir passionnant.
+
+551
+00:20:53,279 --> 00:20:53,887
+ 
+
+552
+00:20:53,887 --> 00:20:57,482
+Vous verrez des choses que même vous
+n'auriez jamais imaginées.
+
+553
+00:20:57,482 --> 00:20:59,687
+ 
+
+554
+00:20:59,687 --> 00:21:01,678
+C'est ça, commandant.
+
+555
+00:21:01,678 --> 00:21:02,727
+ 
+
+556
+00:21:02,727 --> 00:21:04,718
+Hailey.
+
+557
+00:21:04,718 --> 00:21:06,887
+ 
+
+558
+00:21:06,887 --> 00:21:08,878
+Croyez-moi.
+
+559
+00:21:08,878 --> 00:21:26,087
+ 
+
+560
+00:21:26,087 --> 00:21:29,602
+La science doit remettre en question
+le statu quo, l'autorité.
+
+561
+00:21:29,602 --> 00:21:30,087
+ 
+
+562
+00:21:30,087 --> 00:21:33,397
+Comment faire ça
+si la plus grande découverte de l'histoire
+
+563
+00:21:33,397 --> 00:21:34,127
+ 
+
+564
+00:21:34,127 --> 00:21:36,641
+- est aux mains de l'armée de l'air?
+- ça alors.
+
+565
+00:21:36,641 --> 00:21:45,887
+ 
+
+566
+00:21:45,887 --> 00:21:47,878
+La caméra. Prenez la caméra.
+
+567
+00:21:47,878 --> 00:22:06,407
+ 
+
+568
+00:22:06,407 --> 00:22:08,398
+Venez.
+
+569
+00:22:08,398 --> 00:22:09,127
+ 
+
+570
+00:22:09,127 --> 00:22:11,118
+- Colonel O'Neill.
+- A vous.
+
+571
+00:22:11,118 --> 00:22:11,487
+ 
+
+572
+00:22:11,487 --> 00:22:14,479
+On a aperçu une des créatures.
+On Ia suit dans Ia forêt.
+
+573
+00:22:14,479 --> 00:22:15,527
+ 
+
+574
+00:22:15,527 --> 00:22:17,518
+Allons-y.
+
+575
+00:22:17,518 --> 00:22:24,847
+ 
+
+576
+00:22:24,847 --> 00:22:26,838
+lncroyable.
+
+577
+00:22:26,838 --> 00:22:42,887
+ 
+
+578
+00:22:42,887 --> 00:22:44,878
+Hamilton, que faites-vous?
+
+579
+00:22:44,878 --> 00:22:46,487
+ 
+
+580
+00:22:46,487 --> 00:22:48,921
+Vous voyez, colonel? lls sont inoffensifs.
+
+581
+00:22:48,921 --> 00:23:14,647
+ 
+
+582
+00:23:14,647 --> 00:23:17,764
+- C'est une zone de haute sécurité.
+- J'en ai conscience.
+
+583
+00:23:17,764 --> 00:23:18,527
+ 
+
+584
+00:23:18,527 --> 00:23:21,439
+Mais elle a signé
+le formulaire de confidentialité.
+
+585
+00:23:21,439 --> 00:23:22,287
+ 
+
+586
+00:23:22,287 --> 00:23:24,517
+Que lui avez-vous dit que nous faisions?
+
+587
+00:23:24,517 --> 00:23:25,047
+ 
+
+588
+00:23:25,047 --> 00:23:27,163
+Des télémesures radar dans l'espace.
+
+589
+00:23:27,163 --> 00:23:27,607
+ 
+
+590
+00:23:27,607 --> 00:23:31,725
+- Vous êtes vraiment sûre de vous?
+- C'est une candidate idéale pour le SGC.
+
+591
+00:23:31,725 --> 00:23:32,407
+ 
+
+592
+00:23:32,407 --> 00:23:34,398
+Pas d'après son dossier.
+
+593
+00:23:34,398 --> 00:23:34,727
+ 
+
+594
+00:23:34,727 --> 00:23:36,718
+Je lui ai parlé. Elle est brillante.
+
+595
+00:23:36,718 --> 00:23:39,727
+ 
+
+596
+00:23:39,727 --> 00:23:42,241
+Tout le monde n'a pas
+l'étoffe d'un officier.
+
+597
+00:23:42,241 --> 00:23:42,807
+ 
+
+598
+00:23:42,807 --> 00:23:44,843
+Mon général, si on lui donne un aperçu
+
+599
+00:23:44,843 --> 00:23:45,647
+ 
+
+600
+00:23:45,647 --> 00:23:48,639
+de ce qui l'attend,
+elle sera première de sa promotion
+
+601
+00:23:48,639 --> 00:23:49,127
+ 
+
+602
+00:23:49,127 --> 00:23:52,836
+et deviendra un officier digne de servir
+sous votre commandement.
+
+603
+00:23:52,836 --> 00:23:56,047
+ 
+
+604
+00:23:56,047 --> 00:23:58,038
+Je suis vraiment sûre de moi.
+
+605
+00:23:58,038 --> 00:24:05,367
+ 
+
+606
+00:24:05,367 --> 00:24:07,562
+On est sous terre. Où on peut bien aller?
+
+607
+00:24:07,562 --> 00:24:08,207
+ 
+
+608
+00:24:08,207 --> 00:24:11,995
+Vous verrez. Vous allez découvrir
+le secret le mieux gardé au monde.
+
+609
+00:24:11,995 --> 00:24:12,967
+ 
+
+610
+00:24:12,967 --> 00:24:14,958
+- Vous me faites peur.
+- Tant mieux.
+
+611
+00:24:14,958 --> 00:24:15,367
+ 
+
+612
+00:24:15,367 --> 00:24:17,881
+Tout ce que vous pensiez
+savoir sur l'univers
+
+613
+00:24:17,881 --> 00:24:18,727
+ 
+
+614
+00:24:18,727 --> 00:24:21,036
+va être complètement bouleversé. Prête?
+
+615
+00:24:21,036 --> 00:24:40,687
+ 
+
+616
+00:24:40,687 --> 00:24:43,121
+- Qu'est-ce que c'est?
+- C'est votre avenir.
+
+617
+00:24:43,121 --> 00:24:44,207
+ 
+
+618
+00:24:44,207 --> 00:24:47,244
+- ça s'appelle un Stargate.
+- Chevron sept verrouiIIé.
+
+619
+00:24:47,244 --> 00:24:59,967
+ 
+
+620
+00:24:59,967 --> 00:25:02,356
+Ce couloir espace-temps relie le Stargate
+
+621
+00:25:02,356 --> 00:25:03,047
+ 
+
+622
+00:25:03,047 --> 00:25:06,244
+à un autre monde situé
+à 42 000 années-lumière de la Terre.
+
+623
+00:25:06,244 --> 00:25:07,687
+ 
+
+624
+00:25:07,687 --> 00:25:09,678
+- C'est là que nous allons?
+- Exact.
+
+625
+00:25:09,678 --> 00:25:10,327
+ 
+
+626
+00:25:10,327 --> 00:25:12,363
+- Comment?
+- ça, c'est le plus facile.
+
+627
+00:25:12,363 --> 00:25:13,167
+ 
+
+628
+00:25:13,167 --> 00:25:15,158
+Venez.
+
+629
+00:25:15,158 --> 00:25:27,847
+ 
+
+630
+00:25:27,847 --> 00:25:29,803
+Qu'est-ce qui s'est passé?
+
+631
+00:25:29,803 --> 00:25:29,887
+ 
+
+632
+00:25:29,887 --> 00:25:32,401
+Votre corps a été
+désintégré puis recomposé.
+
+633
+00:25:32,401 --> 00:25:33,127
+ 
+
+634
+00:25:33,127 --> 00:25:35,561
+- On est sur une autre planète?
+- Sur une lune.
+
+635
+00:25:35,561 --> 00:25:36,327
+ 
+
+636
+00:25:36,327 --> 00:25:38,318
+ça ressemble beaucoup à chez nous.
+
+637
+00:25:38,318 --> 00:25:38,607
+ 
+
+638
+00:25:38,607 --> 00:25:41,599
+Qui dit oxygène,
+dit en général plantes, arbres, eau.
+
+639
+00:25:41,599 --> 00:25:42,367
+ 
+
+640
+00:25:42,367 --> 00:25:44,597
+ll y a quand même de petites différences.
+
+641
+00:25:44,597 --> 00:25:51,247
+ 
+
+642
+00:25:51,247 --> 00:25:53,238
+Salut, Carter.
+
+643
+00:25:53,238 --> 00:25:54,127
+ 
+
+644
+00:25:54,127 --> 00:25:56,322
+Je suis venu faire le comité d'accueil.
+
+645
+00:25:56,322 --> 00:25:57,327
+ 
+
+646
+00:25:57,327 --> 00:26:00,842
+- Merci. Comment allez-vous?
+- J'ai le dos en compote.
+
+647
+00:26:00,842 --> 00:26:01,407
+ 
+
+648
+00:26:01,407 --> 00:26:04,843
+- Et mes genoux...
+- Mon colonel, voici l'élève Hailey.
+
+649
+00:26:04,843 --> 00:26:07,047
+ 
+
+650
+00:26:07,047 --> 00:26:09,038
+Enchanté. Bienvenue sur 862.
+
+651
+00:26:09,038 --> 00:26:10,727
+ 
+
+652
+00:26:10,727 --> 00:26:12,718
+Comment s'est passé le voyage?
+
+653
+00:26:12,718 --> 00:26:12,807
+ 
+
+654
+00:26:12,807 --> 00:26:15,002
+ça a été un... un sacré voyage, colonel.
+
+655
+00:26:15,002 --> 00:26:18,807
+ 
+
+656
+00:26:18,807 --> 00:26:20,798
+C'est toujours comme ça.
+
+657
+00:26:20,798 --> 00:26:21,327
+ 
+
+658
+00:26:21,327 --> 00:26:23,318
+J'ai quelque chose à vous montrer.
+
+659
+00:26:23,318 --> 00:26:39,847
+ 
+
+660
+00:26:39,847 --> 00:26:42,281
+- Qu'est-ce que c'est?
+- On n'en est pas sûrs,
+
+661
+00:26:42,281 --> 00:26:42,647
+ 
+
+662
+00:26:42,647 --> 00:26:45,559
+mais on pense que c'est
+une forme de vie énergétique.
+
+663
+00:26:45,559 --> 00:26:46,527
+ 
+
+664
+00:26:46,527 --> 00:26:49,564
+- C'est impossible.
+- L'une nous a conduits aux autres,
+
+665
+00:26:49,564 --> 00:26:50,087
+ 
+
+666
+00:26:50,087 --> 00:26:52,681
+elles sont donc
+organisées et intelligentes.
+
+667
+00:26:52,681 --> 00:26:53,367
+ 
+
+668
+00:26:53,367 --> 00:26:56,165
+Elles peuvent aussi
+traverser des corps solides.
+
+669
+00:26:56,165 --> 00:26:56,527
+ 
+
+670
+00:26:56,527 --> 00:26:58,643
+On en a vu une foncer à travers un arbre.
+
+671
+00:26:58,643 --> 00:26:59,527
+ 
+
+672
+00:26:59,527 --> 00:27:01,916
+- ça ne l'a même pas ralentie.
+- C'est super.
+
+673
+00:27:01,916 --> 00:27:02,447
+ 
+
+674
+00:27:02,447 --> 00:27:04,961
+C'est exactement ce que j'ai dit.
+J'ai dit ça.
+
+675
+00:27:04,961 --> 00:27:05,727
+ 
+
+676
+00:27:05,727 --> 00:27:08,116
+Alors pourquoi reste-t-elle dans ce tube?
+
+677
+00:27:08,116 --> 00:27:08,687
+ 
+
+678
+00:27:08,687 --> 00:27:11,281
+Une idée du Dr Lee.
+Les bords sont électrifiés.
+
+679
+00:27:11,281 --> 00:27:12,007
+ 
+
+680
+00:27:12,007 --> 00:27:13,998
+Le champ magnétique la retient.
+
+681
+00:27:13,998 --> 00:27:15,527
+ 
+
+682
+00:27:15,527 --> 00:27:17,518
+Vous ne lui faites pas de mal?
+
+683
+00:27:17,518 --> 00:27:18,007
+ 
+
+684
+00:27:18,007 --> 00:27:21,920
+Elle n'a pas d'organisme.
+Je doute qu'elle soit sensible à la douleur.
+
+685
+00:27:21,920 --> 00:27:22,607
+ 
+
+686
+00:27:22,607 --> 00:27:25,997
+Si elle est intelligente,
+elle ne doit pas aimer être en cage.
+
+687
+00:27:25,997 --> 00:27:26,527
+ 
+
+688
+00:27:26,527 --> 00:27:28,518
+ll est temps de la libérer.
+
+689
+00:27:28,518 --> 00:27:28,687
+ 
+
+690
+00:27:28,687 --> 00:27:30,723
+Non, pas ça. Nous devons l'examiner.
+
+691
+00:27:30,723 --> 00:27:31,207
+ 
+
+692
+00:27:31,207 --> 00:27:33,198
+Trouvez un autre moyen.
+
+693
+00:27:33,198 --> 00:27:48,487
+ 
+
+694
+00:27:48,487 --> 00:27:50,876
+BiII, réponds. Aucun signe des créatures?
+
+695
+00:27:50,876 --> 00:27:52,167
+ 
+
+696
+00:27:52,167 --> 00:27:54,283
+Rien. On dirait qu'elles ont disparu.
+
+697
+00:27:54,283 --> 00:28:02,647
+ 
+
+698
+00:28:02,647 --> 00:28:06,845
+Elles sont forcément par là. Regarde
+s'il y a des pointes à haute fréquence.
+
+699
+00:28:06,845 --> 00:28:08,487
+ 
+
+700
+00:28:08,487 --> 00:28:10,478
+Entendu.
+
+701
+00:28:10,478 --> 00:28:20,527
+ 
+
+702
+00:28:20,527 --> 00:28:22,518
+Salut, toi.
+
+703
+00:28:22,518 --> 00:28:22,967
+ 
+
+704
+00:28:22,967 --> 00:28:24,958
+Où sont tes copains?
+
+705
+00:28:24,958 --> 00:28:25,167
+ 
+
+706
+00:28:25,167 --> 00:28:27,078
+Attention, attention.
+
+707
+00:28:27,078 --> 00:28:27,167
+ 
+
+708
+00:28:27,167 --> 00:28:29,397
+Doucement. Je ne vais pas te faire de mal.
+
+709
+00:28:29,397 --> 00:28:32,167
+ 
+
+710
+00:28:32,167 --> 00:28:35,204
+Bill, tu as quelque chose
+sur la haute fréquence? Bill?
+
+711
+00:28:35,204 --> 00:28:48,127
+ 
+
+712
+00:28:48,127 --> 00:28:50,118
+Bill, réponds.
+
+713
+00:28:50,118 --> 00:28:59,807
+ 
+
+714
+00:28:59,807 --> 00:29:01,798
+Nom d'un chien. Colonel...
+
+715
+00:29:01,798 --> 00:29:32,087
+ 
+
+716
+00:29:32,087 --> 00:29:34,078
+Teal'c?
+
+717
+00:29:34,078 --> 00:29:34,327
+ 
+
+718
+00:29:34,327 --> 00:29:36,318
+Je peux vous appeler Teal'c?
+
+719
+00:29:36,318 --> 00:29:37,887
+ 
+
+720
+00:29:37,887 --> 00:29:39,878
+Je n'ai pas d'autre nom.
+
+721
+00:29:39,878 --> 00:29:40,527
+ 
+
+722
+00:29:40,527 --> 00:29:42,643
+Alors je devine que vous n'êtes pas...
+
+723
+00:29:42,643 --> 00:29:43,967
+ 
+
+724
+00:29:43,967 --> 00:29:45,958
+Humain.
+
+725
+00:29:45,958 --> 00:29:46,287
+ 
+
+726
+00:29:46,287 --> 00:29:49,882
+- Vous avez deviné juste.
+- C'est ici, votre planète? Votre lune.
+
+727
+00:29:49,882 --> 00:29:51,287
+ 
+
+728
+00:29:51,287 --> 00:29:53,721
+Non.
+Mon monde d'origine s'appelle Chulak.
+
+729
+00:29:53,721 --> 00:29:54,687
+ 
+
+730
+00:29:54,687 --> 00:29:58,202
+Votre monde? Attendez.
+Le Stargate mène à combien d'endroits?
+
+731
+00:29:58,202 --> 00:29:58,647
+ 
+
+732
+00:29:58,647 --> 00:30:01,957
+Le réseau de portes comprend
+un très grand nombre de mondes.
+
+733
+00:30:01,957 --> 00:30:02,527
+ 
+
+734
+00:30:02,527 --> 00:30:04,722
+- Vous êtes sérieux?
+- Colonel O'Neill.
+
+735
+00:30:04,722 --> 00:30:07,487
+ 
+
+736
+00:30:07,487 --> 00:30:09,478
+A l'aide, colonel O'Neill.
+
+737
+00:30:09,478 --> 00:30:10,887
+ 
+
+738
+00:30:10,887 --> 00:30:12,878
+- Quoi?
+- C'est le Dr Thompson.
+
+739
+00:30:12,878 --> 00:30:13,607
+ 
+
+740
+00:30:13,607 --> 00:30:16,121
+- Ces choses sont en train de l'attaquer.
+- Où?
+
+741
+00:30:16,121 --> 00:30:16,607
+ 
+
+742
+00:30:16,607 --> 00:30:18,643
+Dans la clairière où elles sont apparues.
+
+743
+00:30:18,643 --> 00:30:19,087
+ 
+
+744
+00:30:19,087 --> 00:30:21,920
+Carter, emmenez-le à l'intérieur.
+Teal'c, viens.
+
+745
+00:30:21,920 --> 00:30:23,767
+ 
+
+746
+00:30:23,767 --> 00:30:25,758
+Allez, allez.
+
+747
+00:30:25,758 --> 00:31:00,647
+ 
+
+748
+00:31:00,647 --> 00:31:03,036
+Mon message radio
+n'était pas assez clair?
+
+749
+00:31:03,036 --> 00:31:03,807
+ 
+
+750
+00:31:03,807 --> 00:31:05,798
+- Allons-y.
+- Je termine.
+
+751
+00:31:05,798 --> 00:31:05,887
+ 
+
+752
+00:31:05,887 --> 00:31:09,004
+- Qu'est-il arrivé au Dr Thompson?
+- ll est mort. Filons.
+
+753
+00:31:09,004 --> 00:31:11,967
+ 
+
+754
+00:31:11,967 --> 00:31:14,800
+On ne sait rien.
+C'est peut-être un incident isolé.
+
+755
+00:31:14,800 --> 00:31:15,927
+ 
+
+756
+00:31:15,927 --> 00:31:19,363
+- ll les a peut-être provoquées.
+- Peut-être. Mais dites-moi.
+
+757
+00:31:19,363 --> 00:31:19,887
+ 
+
+758
+00:31:19,887 --> 00:31:22,003
+- Doit-on courir le risque?
+- O'Neill.
+
+759
+00:31:22,003 --> 00:31:29,407
+ 
+
+760
+00:31:29,407 --> 00:31:31,398
+Tout le monde à l'intérieur.
+
+761
+00:31:31,398 --> 00:31:44,247
+ 
+
+762
+00:31:44,247 --> 00:31:47,159
+- Ces murs ne nous protégeront pas.
+- On a 15 secondes.
+
+763
+00:31:47,159 --> 00:31:47,767
+ 
+
+764
+00:31:47,767 --> 00:31:50,565
+- Je ne sais pas. Les zats, peut-être.
+- Peut-être?
+
+765
+00:31:50,565 --> 00:31:51,207
+ 
+
+766
+00:31:51,207 --> 00:31:53,516
+Les zats créent une décharge électrique.
+
+767
+00:31:53,516 --> 00:31:54,127
+ 
+
+768
+00:31:54,127 --> 00:31:57,244
+C'est la seule arme que je vois
+qui puisse être efficace.
+
+769
+00:31:57,244 --> 00:31:57,687
+ 
+
+770
+00:31:57,687 --> 00:31:59,678
+Bon, tout le monde à terre.
+
+771
+00:31:59,678 --> 00:32:57,087
+ 
+
+772
+00:32:57,087 --> 00:32:59,203
+On a électrifié les murs en aluminium.
+
+773
+00:32:59,203 --> 00:32:59,527
+ 
+
+774
+00:32:59,527 --> 00:33:02,246
+Quand on mettra le courant,
+ça peut les éloigner,
+
+775
+00:33:02,246 --> 00:33:02,847
+ 
+
+776
+00:33:02,847 --> 00:33:06,078
+de la même manière
+que l'éprouvette du Dr Lee les retenait.
+
+777
+00:33:06,078 --> 00:33:12,847
+ 
+
+778
+00:33:12,847 --> 00:33:15,077
+- Elles reviennent.
+- Mettez le courant.
+
+779
+00:33:15,077 --> 00:33:17,807
+ 
+
+780
+00:33:17,807 --> 00:33:19,798
+Ne vous approchez pas des murs.
+
+781
+00:33:19,798 --> 00:33:31,127
+ 
+
+782
+00:33:31,127 --> 00:33:33,925
+- ça marche.
+- Tant qu'on a du courant, tout va bien.
+
+783
+00:33:33,925 --> 00:33:34,527
+ 
+
+784
+00:33:34,527 --> 00:33:36,722
+Le générateur peut tourner longtemps?
+
+785
+00:33:36,722 --> 00:33:37,087
+ 
+
+786
+00:33:37,087 --> 00:33:39,078
+Je... je ne sais pas trop.
+
+787
+00:33:39,078 --> 00:33:42,087
+ 
+
+788
+00:33:42,087 --> 00:33:44,078
+Vous ne savez pas trop?
+
+789
+00:33:44,078 --> 00:33:44,367
+ 
+
+790
+00:33:44,367 --> 00:33:46,358
+- Qui l'a alimenté?
+- Le Dr Thompson.
+
+791
+00:33:46,358 --> 00:33:48,247
+ 
+
+792
+00:33:48,247 --> 00:33:51,284
+- Je suis sûr qu'il l'a fait ce matin.
+- On n'en sait rien.
+
+793
+00:33:51,284 --> 00:33:52,687
+ 
+
+794
+00:33:52,687 --> 00:33:54,803
+ça nous donnerait encore huit heures.
+
+795
+00:33:54,803 --> 00:33:55,407
+ 
+
+796
+00:33:55,407 --> 00:33:57,398
+- Mais ce n'est pas certain.
+- Non.
+
+797
+00:33:57,398 --> 00:33:58,047
+ 
+
+798
+00:33:58,047 --> 00:34:00,038
+Très bien, où est-il?
+
+799
+00:34:00,038 --> 00:34:00,247
+ 
+
+800
+00:34:00,247 --> 00:34:02,477
+Derrière l'enceinte, près du ruisseau.
+
+801
+00:34:02,477 --> 00:34:02,967
+ 
+
+802
+00:34:02,967 --> 00:34:05,003
+ll pourrait s'arrêter à tout moment.
+
+803
+00:34:05,003 --> 00:34:13,087
+ 
+
+804
+00:34:13,087 --> 00:34:15,885
+- Carter?
+- J'ai peut-être une solution, mon colonel.
+
+805
+00:34:15,885 --> 00:34:17,327
+ 
+
+806
+00:34:17,327 --> 00:34:21,115
+Les créatures sont repoussées
+par le champ magnétique du bâtiment.
+
+807
+00:34:21,115 --> 00:34:21,687
+ 
+
+808
+00:34:21,687 --> 00:34:25,726
+Nous devons créer un champ assez grand
+pour les éloigner de toute la zone.
+
+809
+00:34:25,726 --> 00:34:26,447
+ 
+
+810
+00:34:26,447 --> 00:34:28,438
+- Oui?
+- Le Stargate, colonel.
+
+811
+00:34:28,438 --> 00:34:28,967
+ 
+
+812
+00:34:28,967 --> 00:34:32,960
+C'est un supraconducteur géant.
+ll crée un champ largement suffisant.
+
+813
+00:34:32,960 --> 00:34:33,327
+ 
+
+814
+00:34:33,327 --> 00:34:35,318
+Quelqu'un doit activer la porte.
+
+815
+00:34:35,318 --> 00:34:35,447
+ 
+
+816
+00:34:35,447 --> 00:34:37,836
+Quiconque essaie de l'atteindre sera tué.
+
+817
+00:34:37,836 --> 00:34:38,207
+ 
+
+818
+00:34:38,207 --> 00:34:41,722
+Pas forcément. Le corps humain
+est doté d'un champ électrique.
+
+819
+00:34:41,722 --> 00:34:42,527
+ 
+
+820
+00:34:42,527 --> 00:34:46,315
+Vous avez vu ce qui s'est passé
+quand Hamilton a été touché par le zat?
+
+821
+00:34:46,315 --> 00:34:47,007
+ 
+
+822
+00:34:47,007 --> 00:34:51,319
+Les créatures se sont éloignées parce que
+son champ magnétique a été modifié.
+
+823
+00:34:51,319 --> 00:34:52,527
+ 
+
+824
+00:34:52,527 --> 00:34:54,916
+- Combien de temps ça durera?
+- Je l'ignore.
+
+825
+00:34:54,916 --> 00:34:55,887
+ 
+
+826
+00:34:55,887 --> 00:34:59,323
+- Retirez-lui dessus.
+- Le deuxième coup d'un zat'n'ktel tue.
+
+827
+00:34:59,323 --> 00:35:04,247
+ 
+
+828
+00:35:04,247 --> 00:35:08,365
+C'est une supposition. J'ignore
+si vous seriez protégé jusqu'à la porte.
+
+829
+00:35:08,365 --> 00:35:09,847
+ 
+
+830
+00:35:09,847 --> 00:35:11,883
+Au fait, pourquoi elles ont attaqué?
+
+831
+00:35:11,883 --> 00:35:12,647
+ 
+
+832
+00:35:12,647 --> 00:35:15,286
+Peut-être pour venger
+celle qui a été capturée.
+
+833
+00:35:15,286 --> 00:35:16,007
+ 
+
+834
+00:35:16,007 --> 00:35:17,998
+- Ce n'est pas ça.
+- Pardon?
+
+835
+00:35:17,998 --> 00:35:19,167
+ 
+
+836
+00:35:19,167 --> 00:35:21,397
+J'ai lu les observations du Dr Thompson.
+
+837
+00:35:21,397 --> 00:35:22,247
+ 
+
+838
+00:35:22,247 --> 00:35:26,035
+Savez-vous que cette lune
+n'est pas issue d'un disque d'accrétion?
+
+839
+00:35:26,035 --> 00:35:26,447
+ 
+
+840
+00:35:26,447 --> 00:35:28,438
+Non. Mais je m'en doutais.
+
+841
+00:35:28,438 --> 00:35:30,887
+ 
+
+842
+00:35:30,887 --> 00:35:34,926
+C'est une anomalie qui a été attirée
+dans un orbite solaire excentrique.
+
+843
+00:35:34,926 --> 00:35:35,687
+ 
+
+844
+00:35:35,687 --> 00:35:39,123
+Le champ magnétique émane
+des pôles, où il est le plus intense.
+
+845
+00:35:39,123 --> 00:35:39,887
+ 
+
+846
+00:35:39,887 --> 00:35:43,402
+On est entrés dans la phase polaire
+de l'orbite il y a deux jours,
+
+847
+00:35:43,402 --> 00:35:44,087
+ 
+
+848
+00:35:44,087 --> 00:35:46,078
+quand les créatures sont apparues.
+
+849
+00:35:46,078 --> 00:35:46,527
+ 
+
+850
+00:35:46,527 --> 00:35:50,315
+Elles sont devenues violentes
+alors qu'on était au-dessus du pôle.
+
+851
+00:35:50,315 --> 00:35:50,927
+ 
+
+852
+00:35:50,927 --> 00:35:52,918
+C'est possible, mon colonel.
+
+853
+00:35:52,918 --> 00:35:53,367
+ 
+
+854
+00:35:53,367 --> 00:35:56,404
+- Continuez.
+- On a passé la zone d'intensité maximum.
+
+855
+00:35:56,404 --> 00:35:57,487
+ 
+
+856
+00:35:57,487 --> 00:36:00,524
+Bientôt,
+les créatures redeviendront inoffensives.
+
+857
+00:36:00,524 --> 00:36:00,727
+ 
+
+858
+00:36:00,727 --> 00:36:03,844
+- Dans combien de temps?
+- Deux ou trois heures. Pas plus.
+
+859
+00:36:03,844 --> 00:36:04,447
+ 
+
+860
+00:36:04,447 --> 00:36:06,756
+Le générateur risque de s'arrêter avant.
+
+861
+00:36:06,756 --> 00:36:07,207
+ 
+
+862
+00:36:07,207 --> 00:36:10,005
+On les repoussera
+avec vos espèces de déphaseurs.
+
+863
+00:36:10,005 --> 00:36:12,447
+ 
+
+864
+00:36:12,447 --> 00:36:14,961
+- Qu'en pensez-vous?
+- Eh bien, si j'ai raison
+
+865
+00:36:14,961 --> 00:36:15,847
+ 
+
+866
+00:36:15,847 --> 00:36:20,045
+et qu'elles agissent par vengeance,
+attendre ne fera qu'empirer les choses.
+
+867
+00:36:20,045 --> 00:36:20,847
+ 
+
+868
+00:36:20,847 --> 00:36:23,759
+- Non. C'est moi qui ai raison.
+- Vous n'en savez rien.
+
+869
+00:36:23,759 --> 00:36:24,767
+ 
+
+870
+00:36:24,767 --> 00:36:27,076
+Les créatures craignent l'électricité.
+
+871
+00:36:27,076 --> 00:36:27,167
+ 
+
+872
+00:36:27,167 --> 00:36:30,398
+C'est un hasard
+si elles s'excitent quand on passe le pôle?
+
+873
+00:36:30,398 --> 00:36:30,727
+ 
+
+874
+00:36:30,727 --> 00:36:34,356
+C'est un hasard si elles attaquent
+quand on capture une des leurs?
+
+875
+00:36:34,356 --> 00:36:39,807
+ 
+
+876
+00:36:39,807 --> 00:36:43,402
+L'une de nous se trompe.
+Nos théories s'excluent mutuellement.
+
+877
+00:36:43,402 --> 00:36:44,247
+ 
+
+878
+00:36:44,247 --> 00:36:47,478
+Nos preuves ne permettent pas
+d'arriver à une conclusion.
+
+879
+00:36:47,478 --> 00:36:47,967
+ 
+
+880
+00:36:47,967 --> 00:36:50,276
+Ne croyez pas a priori qu'elle ait raison.
+
+881
+00:36:50,276 --> 00:36:50,847
+ 
+
+882
+00:36:50,847 --> 00:36:52,838
+Peu importe qui a raison.
+
+883
+00:36:52,838 --> 00:36:54,527
+ 
+
+884
+00:36:54,527 --> 00:36:57,246
+Colonel,
+vous allez risquer votre vie pour rien.
+
+885
+00:36:57,246 --> 00:36:59,247
+ 
+
+886
+00:36:59,247 --> 00:37:01,238
+Ma décision est prise.
+
+887
+00:37:01,238 --> 00:37:02,327
+ 
+
+888
+00:37:02,327 --> 00:37:04,522
+Comment ça, ''peu importe qui a raison''?
+
+889
+00:37:04,522 --> 00:37:05,927
+ 
+
+890
+00:37:05,927 --> 00:37:08,725
+S'il tente d'atteindre la porte,
+il risque sa vie.
+
+891
+00:37:08,725 --> 00:37:09,287
+ 
+
+892
+00:37:09,287 --> 00:37:11,482
+S'il attend, il risque notre vie à tous.
+
+893
+00:37:11,482 --> 00:37:11,967
+ 
+
+894
+00:37:11,967 --> 00:37:13,958
+ll ne peut pas faire ça.
+
+895
+00:37:13,958 --> 00:37:21,687
+ 
+
+896
+00:37:21,687 --> 00:37:24,076
+Dès que j'aurai ouvert la porte, accourez.
+
+897
+00:37:24,076 --> 00:37:24,487
+ 
+
+898
+00:37:24,487 --> 00:37:27,604
+- N'emportez rien.
+- On ne va pas laisser nos recherches.
+
+899
+00:37:27,604 --> 00:37:28,207
+ 
+
+900
+00:37:28,207 --> 00:37:31,802
+Carter, s'il apporte
+ne serait-ce qu'un classeur, abattez-le.
+
+901
+00:37:31,802 --> 00:37:32,447
+ 
+
+902
+00:37:32,447 --> 00:37:34,438
+Bien, mon colonel.
+
+903
+00:37:34,438 --> 00:37:36,487
+ 
+
+904
+00:37:36,487 --> 00:37:38,478
+- Es-tu prêt, O'Neill?
+- Non.
+
+905
+00:37:38,478 --> 00:37:39,487
+ 
+
+906
+00:37:39,487 --> 00:37:41,478
+Donne-moi un avertissement.
+
+907
+00:37:41,478 --> 00:37:42,167
+ 
+
+908
+00:37:42,167 --> 00:37:44,158
+Je vais te tirer dessus.
+
+909
+00:37:44,158 --> 00:37:45,127
+ 
+
+910
+00:37:45,127 --> 00:37:47,846
+Je pensais à quelque chose
+du genre: ''A trois...''
+
+911
+00:37:47,846 --> 00:37:49,367
+ 
+
+912
+00:37:49,367 --> 00:37:51,358
+Un...
+
+913
+00:37:51,358 --> 00:37:55,447
+ 
+
+914
+00:37:55,447 --> 00:37:57,438
+Deux.
+
+915
+00:37:57,438 --> 00:37:57,687
+ 
+
+916
+00:37:57,687 --> 00:37:59,678
+Bon sang. J'avais dit: ''A trois.''
+
+917
+00:37:59,678 --> 00:38:02,127
+ 
+
+918
+00:38:02,127 --> 00:38:04,118
+Bon sang.
+
+919
+00:38:04,118 --> 00:38:05,487
+ 
+
+920
+00:38:05,487 --> 00:38:08,081
+- Bonne chance.
+- Souhaitez-moi bonne chance.
+
+921
+00:38:08,081 --> 00:38:08,407
+ 
+
+922
+00:38:08,407 --> 00:38:10,398
+Bonne chance, mon colonel.
+
+923
+00:38:10,398 --> 00:38:11,287
+ 
+
+924
+00:38:11,287 --> 00:38:13,278
+Merci.
+
+925
+00:38:13,278 --> 00:38:14,607
+ 
+
+926
+00:38:14,607 --> 00:38:16,598
+C'est parti.
+
+927
+00:38:16,598 --> 00:39:17,647
+ 
+
+928
+00:39:17,647 --> 00:39:19,683
+Je suis à la porte. Je vais l'activer.
+
+929
+00:39:19,683 --> 00:39:49,767
+ 
+
+930
+00:39:49,767 --> 00:39:51,758
+CoIoneI? CoIoneI.
+
+931
+00:39:51,758 --> 00:39:57,567
+ 
+
+932
+00:39:57,567 --> 00:39:59,558
+Vite, O'Neill.
+
+933
+00:39:59,558 --> 00:40:17,967
+ 
+
+934
+00:40:17,967 --> 00:40:20,561
+Je ne me plaindrai
+plus jamais des moustiques.
+
+935
+00:40:20,561 --> 00:40:37,767
+ 
+
+936
+00:40:37,767 --> 00:40:40,076
+Nous vous devons un grand merci,
+colonel.
+
+937
+00:40:40,076 --> 00:40:40,407
+ 
+
+938
+00:40:40,407 --> 00:40:42,398
+Je suppose.
+
+939
+00:40:42,398 --> 00:40:43,527
+ 
+
+940
+00:40:43,527 --> 00:40:45,518
+Et moi, je vous dois des excuses.
+
+941
+00:40:45,518 --> 00:40:48,447
+ 
+
+942
+00:40:48,447 --> 00:40:50,438
+Je suppose, en effet.
+
+943
+00:40:50,438 --> 00:40:54,487
+ 
+
+944
+00:40:54,487 --> 00:40:57,877
+- C'est toujours comme ça?
+- Non. Parfois, ça barde vraiment.
+
+945
+00:40:57,877 --> 00:40:58,407
+ 
+
+946
+00:40:58,407 --> 00:41:00,398
+Je saurai un jour qui avait raison?
+
+947
+00:41:00,398 --> 00:41:01,007
+ 
+
+948
+00:41:01,007 --> 00:41:04,716
+Si vous restez par là, peut-être.
+Et puis, il y a d'autres planètes.
+
+949
+00:41:04,716 --> 00:41:05,247
+ 
+
+950
+00:41:05,247 --> 00:41:08,045
+- C'est une lune.
+- D'accord. Là, vous avez raison.

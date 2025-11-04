@@ -1,0 +1,470 @@
+{140}{245}GOODLAND, FLORIDE
+{255}{287}Evan!
+{350}{412}Evan! Où es-tu?
+{627}{730}- Evan! Dépêche-toi!|- II y a rien qui sort!
+{852}{1012}La nouvelle du jour: la tempête tropicale|LeRoy est maintenant l'ouragan LeRoy.
+{1140}{1185}Bon sang.
+{1285}{1342}Papa va s'en sortir?
+{1345}{1442}M'man! Et papa?
+{1445}{1510}Il nous faut de l'eau, Evan. Tout de suite.
+{1625}{1685}- M'man!|- Fais ce que je te dis!
+{1687}{1800}Aide-moi à bouger le lave-linge.|S'il te pla îti, Evan, aide-moi.
+{1800}{1885}- M'man, Lenny est là.|- T'occupe pas de ce chat!
+{1887}{1967}Débranche la machine.
+{2005}{2070}Enlève ce tuyau du mur.
+{2072}{2167}Je vais tirer. Mets-toi|derrière la machine et pousse.
+{2192}{2275}Il faut que tu pousses.|On va la faire basculer.
+{2277}{2372}Il faut évacuer l'eau.|Allez, mon chéri, pousse!
+{2415}{2472}Pousse, Evan!
+{2610}{2687}Pousse! Tu pousses?
+{2777}{2855}Evan! Réponds-moi!
+{2952}{2980}M'man!
+{3120}{3190}Lâchez-le!
+{3247}{3345}Lâchez-le!
+{3422}{3472}Lâchez-le!
+{3942}{4010}ACTIVITE PARANORMALE
+{4127}{4190}LE GOUVERNEMENT NOUS MENT
+{4597}{4655}LA VERITE EST AILLEURS
+{4732}{4837}Vous êtes bien chez Fox Mulder.|Laissez votre message après le bip.
+{4840}{4940}Agent Mulder, ici, Arthur Dales.|Je vous appelle de Floride.
+{4942}{5075}Je ne sais pas si vous avez vu les infos,|mais on va déguster dans les 24 h à venir.
+{5075}{5162}Les ouragans, je les connais,|et par leur petit nom.
+{5165}{5280}Mais j'ai reçu un appel de détresse|terrifiant venant d'un voisin.
+{5280}{5337}Ca ne vous laisse pas trop de temps,
+{5340}{5475}mais si vous êtes l'homme des affaires NC|que vous prétendez être, alors magnez-vous.
+{5525}{5652}L'équipe des secours du comté de Collier|recommande de ne pas emprunter les routes
+{5655}{5675}et d'attendre la fin de la tempête|dans un endroit sûr ou un refuge.
+{5675}{5777}et d'attendre la fin de la tempête|dans un endroit sûr ou un refuge.
+{5780}{5860}L'ouragan LeRoy est à 30 km des côtes,
+{5862}{5957}envoyant des vents|et de fortes pluies sur les régions côtières.
+{5960}{6035}Une terrible menace plane donc toujours
+{6037}{6115}sur une population inquiète,|de Naples à Fort Myers.
+{6117}{6235}L'ouragan LeRoy devrait atteindre|nos côtes d'ici trois à quatre heures.
+{6237}{6330}On se retrouve dans quelques minutes...
+{6332}{6415}Rien à signaler à la résidence de la pointe.
+{6417}{6475}Tout est bien barricadé. Terminé.
+{6477}{6572}Bien reçu. Les occupants|ont peut-être évacué les lieux. Terminé.
+{6575}{6675}C'est les Shipley. Un voisin nous a dit|qu'ils n'ont pas pu aller loin
+{6677}{6780}sans leur seul véhicule,|qui est toujours devant chez eux. Terminé.
+{6780}{6800}sans leur seul véhicule,|qui est toujours devant chez eux. Terminé.
+{6800}{6930}- Un vrai mystère, pas vrai?|- Tu l'as dit, abruti.
+{7100}{7240}CAMP DE CARAVANING|DE LA TIERRA NUEVA - GOODLAND
+{7420}{7507}Il y avait encore de la place dans les avions?
+{7520}{7597}Les gens ne raffolent|peut-être pas des ouragans.
+{7600}{7667}L'ouragan est à 30 km des côtes.
+{7700}{7782}- M. Dales, on peut entrer?|- Entrez.
+{7880}{7962}- Qui c'est?|- Agent spécial Dana Scully.
+{7965}{8017}- Scully?|- C'est ma coéquipière.
+{8020}{8117}Ne prenez pas trop vos aises.|Vous allez devoir y retourner.
+{8120}{8177}Où ça?
+{8180}{8235}Vous lui avez dit ce que je vous ai dit?
+{8237}{8340}Oui. Mais elle n'est pas du genre|à se laisser convaincre facilement.
+{8365}{8410}C'est vrai?
+{8412}{8475}Si j'entends une histoire de monstre marin,
+{8475}{8565}je n'y crois pas d'emblée dur comme fer.
+{8565}{8607}Pourquoi l'avoir amenée?
+{8610}{8682}Elle conna îti votre réputation, votre travail
+{8685}{8805}- et elle va au fond des choses.|- Je ne suis pas la seule, apparemment.
+{8805}{8925}Heureusement que j'ai une réputation,|sinon, comment pourrait-elle être salie?
+{8925}{9005}Je suis sûre que votre inquiétude est fondée.
+{9005}{9075}J'ai écouté le message au sujet de vos amis.
+{9077}{9170}Les Shipley. Un couple et leur fils.|Ils vivent sur la pointe.
+{9172}{9237}Sara m'a appelé, paniquée.
+{9247}{9355}Elle a dit que quelque chose|avait attrapé Jack, son mari.
+{9357}{9430}- Dans la salle de bains?|- Oui, bizarrement.
+{9432}{9540}C'est votre description|qui a fait douter l'agent Scully.
+{9542}{9625}Ce n'est pas la mienne. Mais celle de Sara.
+{9627}{9815}Elle a dit que la chose avait des tentacules|qui enserraient son mari et l'étranglaient.
+{9825}{9895}Vous n'avez aucune raison|de douter de ses dires?
+{9895}{9995}Non. Sara et Jack|sont tous les deux océanographes.
+{10030}{10080}Du moins, ils l'étaient.
+{10125}{10175}Je crains le pire.
+{10177}{10230}Elle a disparu, elle aussi?
+{10230}{10270}Oui.
+{10272}{10420}J'ai contacté les autorités locales,|mais ce ne sont vraiment pas des flèches.
+{10437}{10512}J'y serais allé si ma hanche avait été en état.
+{10515}{10587}Il ne fait bon sortir pour personne, cette nuit.
+{10590}{10642}On n'a pas vraiment le choix.
+{10727}{10830}S'il y a quelqu'un qui désire|aller au fond de cette histoire.
+{10987}{11107}Qu'est-ce qui vous a amené ici, M. Dales?
+{11115}{11162}Le climat.
+{11210}{11325}Ne raillez pas les mystères|des profondeurs, jeune femme.
+{11327}{11500}Le fond de l'océan est|aussi profond et obscur que l'imagination.
+{11795}{11870}RESIDENCE DES SHIPLEY|21H14
+{12200}{12240}Y a quelqu'un?
+{12285}{12335}Mme Shipley?
+{12407}{12540}Au moins, ils ont eu la présence d'esprit|de se préparer pour l'ouragan.
+{12575}{12697}C'est barricadé de l'intérieur.|C'est à se demander comment ils sont sortis.
+{12760}{12802}Y a quelqu'un?
+{12822}{12872}Mme Shipley?
+{13895}{13967}Mulder? II n'y a aucun signe de vie.
+{14000}{14100}Y a quelque chose sur le tuyau|d'écoulement. Je peux pas m'en défaire.
+{14420}{14515}Je ne sais pas si c'est un revolver|ou un harpon qu'il me faut.
+{14935}{15010}Comment un chat|peut-il entrer dans un lave-linge?
+{15010}{15120}Il a peut-être fait trempette|après avoir barricadé les fenêtres.
+{15570}{15655}- Tu crois que ça mène où?|- A la salle de bains.
+{15675}{15795}La femme a dit à Dale que son mari|s'était fait prendre dans la salle de bains.
+{15807}{15890}- M. Shipley?|- Donne-moi un coup de main.
+{15892}{15950}Salutas!
+{15952}{16077}Oui, c'est bien. Je veux voir vos mains.
+{16080}{16150}Qui êtes-vous|et qu'est-ce que vous fichez ici?
+{16185}{16232}Tout doux.
+{16235}{16295}Baissez votre arme. On est du FBI.
+{16312}{16365}Tous les toqués échouent en Floride.
+{16367}{16425}On est les agents Scully et Mulder...
+{16427}{16500}Ici, l'adjoint Greer.|Je suis sur la pointe de sable.
+{16502}{16612}Je tiens 2 suspects chez les Shipley.|Il y a effraction, peut-être meurtre.
+{16615}{16660}On est avec vous. On est...
+{16662}{16745}- Pas de renforts disponibles.|- Bien reçu.
+{16747}{16815}- Je vous arrête.|- On cherche les Shipley.
+{16815}{16882}- Vous pouvez garder le silence.|- Dales a appelé.
+{16885}{16995}Tout ce que vous direz pourra être retenu|contre vous. Vous avez droit à un avocat.
+{16997}{17050}Vous connaissez Arthur Dales?
+{17050}{17150}Je connais Dales. Il m'a appelé.|Soûl comme un âne. Et alors?
+{17152}{17232}Qu'est-ce qu'on ferait ici|par une nuit pareille?
+{17235}{17345}Vous pourriez être des pillards.|Ou des adeptes de Charles Manson.
+{17345}{17355}Vous pourriez être des pillards.|Ou des adeptes de Charles Manson.
+{17552}{17625}- Vous allez me tuer.|- Non, mais j'aimerais bien.
+{17627}{17677}M. le shérif adjoint?
+{17695}{17745}Le FBI? Pour de vrai?
+{17772}{17822}Je vais dans la voiture.
+{17937}{17982}Il faut que je fasse un rapport.
+{17985}{18062}Aidez-moi d'abord à finir|ce que vous avez interrompu.
+{18065}{18115}Oui. Je peux avoir mon revolver?
+{18255}{18295}Merci.
+{18307}{18332}Venez.
+{18400}{18472}Oui. Non... Merci.
+{18612}{18720}Personne dans la salle de bains.|Il m'a aidé à enlever le contre-plaqué.
+{18722}{18837}Rien à signaler, hormis encore ce truc gluant|et 8 cm d'eau par terre.
+{18840}{18932}Comme si on avait laissé couler|les robinets avant de barrer la porte.
+{18935}{19055}Super. Ils menacent de fermer l'aéroport.|On ferait mieux de partir d'ici.
+{19057}{19180}- Tu veux pas savoir ce qui leur est arrivé?|- Si, mais je me méfie.
+{19182}{19290}Je crois que l'histoire de M. Dales|est le fruit de plus que son imagination
+{19292}{19347}et pas plus insondable qu'un bock.
+{19350}{19435}Pas si vite. Il a découvert|les affaires NC, il y a 40 ans.
+{19435}{19490}Il a vu des choses que je n'ai que lues.
+{19492}{19587}Car les monstres marins,|c'est que dans les livres. Ca n'existe pas.
+{19590}{19695}Si la mer est le berceau de la vie,|l'endroit d'où sont sortis nos ancêtres,
+{19697}{19820}qui sait quelle forme de vie peut bien|se développer dans les abysses inexplorées?
+{19850}{19935}Finalement, t'es peut-être|un adepte de Charles Manson.
+{19935}{19995}On n'a plus rien à faire ici.
+{19997}{20070}Les autorités locales|ne peuvent rien pour nous.
+{20072}{20140}Ces gens ont disparu.|On a cherché là où il fallait.
+{20142}{20255}Je me suis acquittée de mon devoir|envers M. Dales. Ma conscience est en paix.
+{20255}{20302}Pas la tienne?
+{20305}{20435}On devrait au moins lui dire|qu'on abandonne. Tu penses pas?
+{20667}{20802}Des monstres marins, des agents du FBI...|C'est moi qui aurais besoin de m'en jeter un.
+{22120}{22175}SHIPLEY
+{22455}{22577}Salutas. Il va falloir faire demi-tour|et vous trouver un lit au sec.
+{22580}{22655}- Quel est le problème?|- La route est impraticable.
+{22655}{22695}C'est une urgence.
+{22697}{22797}A moins que votre voiture ne vole,|vous ne passerez pas.
+{22800}{22862}Et l'aéroport? Comment on peuty aller?
+{22865}{22970}L'aéroport? Pas ce soir.|L'ouragan est en train de s'abattre sur nous.
+{22970}{23050}Les arbres sont arrachés,|des lignes électriques coupées.
+{23050}{23150}Vous ne devriez pas être là.|Allez vite vous mettre à l'abri.
+{23150}{23217}On doit quitter les lieux, c'est important.
+{23220}{23317}On est des agents du FBl,|il faut vraiment qu'on passe.
+{23320}{23377}Tous les toqués échouent en Floride.
+{23380}{23480}- Je peux vous montrer ma carte.|- Merci de vous faire du souci pour nous.
+{23617}{23705}C'était juste un "salutas" de trop.
+{23795}{23895}COMPLEXE DES BRISANTS|22H42
+{23987}{24072}Voiture 54, au rapport.
+{24075}{24160}Ici, la voiture 54.|Je suis à Nance Road. Terminé.
+{24160}{24225}Nous vous demandons de ne pas circuler,
+{24225}{24317}en raison des prévisions météo|pour les quatre heures à venir,
+{24320}{24457}parmi lesquelles un avis de crue subite|effectif dans le comté de Collier. Terminé.
+{24460}{24535}Bien reçu. Je m'arrête deux minutes|au complexe des Brisants.
+{24535}{24560}Bien reçu. Je m'arrête deux minutes|au complexe des Brisants.
+{24562}{24652}On dirait qu'ils n'ont plus|de courant, ici. Terminé.
+{25290}{25405}Adjoint Greer, police du comté.|Si vous êtes chez vous, ouvrez-moi.
+{25447}{25522}Si vous m'entendez|mais ne pouvez pas m'ouvrir,
+{25525}{25597}appelez le SAMU, demandez-leur de l'aide.
+{25600}{25640}Y a quelqu'un?
+{25660}{25725}Adjoint Greer, police du comté.
+{25747}{25812}Si vous êtes chez vous, ouvrez-moi.
+{25855}{25980}Si vous m'entendez mais ne pouvez m'ouvrir,|appelez le SAMU. Demandez-leur de l'aide.
+{26005}{26047}Ohé!
+{26215}{26270}Y a quelqu'un?
+{26380}{26420}Monsieur?
+{26460}{26505}Madame?
+{28070}{28095}Y a quelqu'un?
+{28097}{28215}Ce qu'il y a de bien avec la visibilité nulle,|c'est que ça ne peut pas empirer.
+{28215}{28285}Le shérif du comté de Collier?
+{28287}{28387}Oui. Bonsoir. Nous roulons sur...
+{28390}{28457}Nance Road. N-a-n-c-e Road.
+{28460}{28512}Nance Road.
+{28557}{28615}C'est pas très intelligent, en effet.
+{28655}{28730}Oui, ce ne serait pas de refus.
+{28757}{28845}Il va nous guider jusqu'au prochain refuge.
+{28847}{28902}Ce n'est pas trop tôt.
+{28905}{28935}Allô?
+{28977}{29012}Allô...
+{29060}{29110}Ca ne passe plus.
+{29150}{29295}Tu sais, un jour,|on rira de toute cette histoire.
+{29297}{29392}On verra ça comme un épisode du type|"l'homme se mesure aux éléments".
+{29395}{29515}- Dis-toi que ton courage est mis à l'épreuve.|- II n'a pas besoin de l'être.
+{29582}{29675}- C'était quoi?|- Une branche. Ca commence à voler.
+{29675}{29767}Il faut se ranger et attendre|que ça se calme loin des arbres.
+{29770}{29870}On peut pas les esquiver à l'arrêt.|Si on roule, on est une cible mouvante.
+{29870}{29965}On ne sait ni où on est, ni où on va.
+{29985}{30080}Il y a quelqu'un.|On va bientôt avoir des indications.
+{30092}{30190}Qui a dit que les flics étaient jamais là|quand on avait besoin d'eux?
+{30745}{30817}- Ce serait pas...?|- Forrest Gump.
+{30912}{30955}Monsieur l'adjoint?
+{30965}{31027}Y a quelqu'un...?
+{31075}{31125}Il est ici.
+{31260}{31315}Vous pouvez parler?
+{31382}{31447}Vous avez du mal à respirer?
+{31580}{31667}Il faut lui faire une trachéotomie,|sinon il va mourir.
+{32132}{32212}J'ai entendu parler|du temps de transit, mais là...
+{32487}{32567}Il faut que tu maintiennes bien sa tête.
+{32725}{32770}Essayez de vous détendre.
+{32792}{32855}Allez, on y va.
+{33055}{33132}On dirait qu'on l'a attaqué ou piqué.|C'est quoi ça?
+{33135}{33242}Je sais pas, mais il fait une réaction|affectant son système neurovégétatif.
+{33245}{33342}Je sais pas ce que c'était,|mais c'est arrivé par les canalisations.
+{33345}{33405}Il faut le faire évacuer au plus vite.
+{33405}{33505}Si c'est dans la tuyauterie,|assurons-nous qu'on est les seuls ici.
+{33680}{33782}Ici, l'agent spécial Dana Scully, du FBI.
+{33785}{33855}Envoyez-moi le SAMU de toute urgence.
+{33887}{33987}Un policier est blessé,|il a besoin d'une aide médicale d'urgence.
+{33990}{34042}- Redites-moi votre nom.|- Dana Scully. Je suis médecin...
+{34042}{34092}- Redites-moi votre nom.|- Dana Scully. Je suis médecin...
+{34095}{34155}Scully! Mon Dieu...
+{34157}{34225}... un adjoint du shérif est blessé.
+{34252}{34302}Un adjoint est touché?
+{34305}{34415}Oui. Il a été attaqué par quelque chose|que l'on n'a pas encore identifié.
+{34415}{34495}- Pas identifié? Mon cul!|- C'est grave?
+{34495}{34600}Il est faible et en état de choc.|Il faut le transporter à l'hôpital.
+{34755}{34832}Excusez-moi.|Tout va bien dans votre appartement?
+{34835}{34885}Oui. Pas de problème.
+{34887}{34937}Vous voulez que je vous aide...
+{34955}{35007}à porter votre télé?
+{35010}{35102}Je pensais avoir entendu des voix.|Ouf! On pensait voir personne.
+{35105}{35167}- Vous êtes le médecin?|- II vous en faut un?
+{35170}{35272}Oui. On a appelé le SAMU, mais personne|n'est venu, et les autres ont été évacués.
+{35275}{35330}On a pas de voiture.|Y a plus de téléphone.
+{35330}{35400}- C'est qui "on"?|- Ma femme et moi.
+{35400}{35462}Elle est enceinte, de neuf mois passés.
+{35465}{35490}- J'espère que vous avez une voiture.|- Vous le connaissez, M...?
+{35490}{35552}- J'espère que vous avez une voiture.|- Vous le connaissez, M...?
+{35555}{35617}Suarez. Walter Suarez.
+{35680}{35735}Non. Il n'est pas avec vous?
+{35760}{35842}- Je vais la remettre.|- Et videz vos poches.
+{35860}{35925}Elle est par là.
+{35980}{36045}- Angela? C'est monsieur...|- Mulder.
+{36045}{36135}Restez là, Mme Suarez.|Votre bébé arrivera sans encombre.
+{36137}{36235}Merci, mais je ne suis pas en travail.|Et je ne m'appelle pas Suarez.
+{36237}{36357}Mais Villareal. Il dit à tout le monde|que je suis sa femme. C'est un vrai macho!
+{36360}{36472}Walter, Angela, vous allez venir avec moi.
+{36475}{36527}Pourquoi? Vous avez une voiture?
+{36530}{36607}Walter n'a pas de voiture. Ni de boulot.
+{36615}{36682}Je veux juste vous mettre à l'abri.
+{36690}{36717}A l'abri de quoi?
+{36720}{36792}Je ne sais pas,|mais cette chose a attaqué un policier.
+{36795}{36820}Où ça?
+{36822}{36927}Dans l'appartement du concierge.|Elle pourrait être dans la tuyauterie.
+{36935}{37040}Super. Je dois aller aux toilettes|toutes les dix secondes.
+{37120}{37160}Ce petit sera un battant.
+{37162}{37225}- Qui d'autre est dans le complexe?|- Personne.
+{37227}{37275}Ah, si. George.
+{37277}{37345}George Vincent. Il vit au premier.
+{37347}{37417}Je lui ai demandé de l'aide,|et il a crié: "Dégagez!"
+{37420}{37490}- II écoute jamais personne.|- II m'écoutera.
+{37490}{37530}Walter!
+{37532}{37580}- Fauty aller.|- C'est pour vous.
+{37620}{37690}M. Vincent! George Vincent!
+{37720}{37772}Arrêtez de marteler cette porte!
+{37800}{37880}Je suis un agent fédéral. Ouvrez la porte.
+{37880}{37940}Demandez toujours, puis tirez-vous!
+{37980}{38087}Vous mettez votre vie en danger|en restant dans votre appartement.
+{38097}{38185}Vous mettez votre vie en danger|en continuant de me harceler.
+{38187}{38237}Je suis armé et dans mon bon droit.
+{38240}{38327}Très bien, mais vous n'êtes|peut-être pas armé contre tout.
+{38347}{38410}C'est-à-dire?
+{38412}{38520}Ca m'est égal. Je suis armé contre tout.|La junte, Cuba et Castro.
+{38520}{38605}Je céderai pas mon appart|à des révolutionnaires sans lutter.
+{38607}{38685}Vous en avez d'autres? Je vous attends.
+{38750}{38817}Tous les toqués échouent en Floride.
+{38950}{39022}Un organisme étranger lui a été inoculé.
+{39025}{39085}- Son état s'aggrave.|- C'est clair.
+{39087}{39177}- Qu'est-ce qui a mis son cou dans cet état?|- Je ne sais pas.
+{39180}{39242}Peut-être un parasite d'origine hydrique.
+{39245}{39300}Tu vois ce qui arrive dans les taudis?
+{39300}{39350}Où est Harry?
+{39367}{39450}- Je ne sais pas qui c'est.|- Le proprio de ce trou.
+{39452}{39502}- II a dû évacuer les lieux.|- Harry?
+{39505}{39562}Et moi, je suis enceinte de Jésus-Christ.
+{39565}{39627}Ses jambes sont nases.|Il utilise des béquilles.
+{39630}{39757}Il a pas de voiture. Personne ne l'aime|parce qu'il en fout pas une dans sa turne.
+{39835}{39907}Scully, je peux te parler une seconde?
+{40010}{40060}- Vous êtes qui?|- Personne.
+{40062}{40165}Personne? Quel plaisir|d'avoir autant de héros autour de soi!
+{40165}{40175}Personne? Quel plaisir|d'avoir autant de héros autour de soi!
+{40205}{40267}- II faut partir au plus vite.|- lmpossible.
+{40270}{40342}Mets l'adjoint dans sa voiture|et mène-le à l'hôpital.
+{40345}{40437}Il ne prendront pas le risque|d'envoyer des secours.
+{40440}{40530}Les routes sont impraticables,|et l'adjoint pas en état de bouger.
+{40532}{40617}- Donc on est coincés ici?|- Jusqu'à ce que le temps change.
+{40835}{40900}Les agents fédéraux. Des fascistes.
+{40902}{41015}Ils ne cherchent qu'à piétiner les droits|du citoyen lambda! Pas besoin d'eux!
+{41055}{41142}La violence dans la quête|de la liberté n'est pas un mal...
+{41527}{41610}Je ne pense pas que ce soient|des morsures ou des piqûres.
+{41612}{41675}Il y a quelque chose sous la peau.
+{41710}{41760}Pince.
+{41795}{41857}Quelle est sa température?
+{41935}{42065}Soit il n'a pas de température,|soit il est sur le point de fondre.
+{42125}{42205}Tu n'es pas loin de la vérité: 41.
+{42207}{42330}Remplissez la baignoire d'eau froide|et trouvez-moi autant de glace que possible.
+{42332}{42397}Mais ce truc est dans les canalisations.
+{42400}{42495}Possible, mais si on ne fait pas|baisser sa température, il y passera.
+{42497}{42547}Alors, magnez-vous.
+{42895}{43012}Je veux un récipient. Mulder, soulève-le.|Il faut le mettre dans la baignoire.
+{44030}{44055}M. Vincent?
+{44572}{44615}Lâchez votre arme!
+{44615}{44655}Par terre!
+{44655}{44777}Il faudra bien plus que ça|pour tuer le truc que je viens de voir.
+{44820}{44880}Je sais pas ce que c'était,|mais c'est sorti de là.
+{44882}{44915}Vous l'avez pas vu?
+{44915}{45025}Du coin de l'oeil,|mais ce truc a fondu sur moi.
+{45027}{45120}- C'est juste un tuyau qui a pété.|- Non. Ce truc a fondu sur moi.
+{45120}{45175}C'est le gros tuyau d'évacuation du 2e.
+{45177}{45305}En tout cas, ce truc n'est pas juste|tombé du plafond, il a déboulé par ce tuyau.
+{45307}{45332}Où est-il parti?
+{45335}{45425}Il doit être dans l'immeuble.|Dans le système d'écoulement.
+{45425}{45470}Il sera peut-être évacué.
+{45470}{45530}Ou viendra via les gogs|te choper par les burnes.
+{45532}{45587}Quelqu'un le tient déjà par les burnes.
+{45590}{45700}On ne peut pas affirmer que cette chose|essaiera de tuer qui que ce soit.
+{45702}{45745}Et le type dans la baignoire?
+{45747}{45837}Il peut très bien s'en sortir|s'il passe la tempête.
+{45840}{45905}Et nous aussi, si on reste calmes.
+{45905}{46017}Rester calme? J'ai tellement envie de pisser|que mes dents du fond baignent.
+{46532}{46582}Victoire.
+{46635}{46662}SEL D'EPSOM
+{46800}{46875}- Comment va-t-il?|- Bien.
+{46910}{47022}- Le supertanker arrive.|- Angela, tu ne peux pas aller là-dedans.
+{47025}{47110}Ma vessie est en train|de compresser ton futur enfant.
+{47112}{47192}- II va avoir une tête de tortilla.|- Ce truc est dans les tuyaux!
+{47195}{47285}Seuls les liquides|pourront le renvoyer à la mer.
+{47300}{47350}C'est comme ça qu'il est arrivé ici.
+{47352}{47442}L'ouragan est au large,|et il drague Dieu sait quoi.
+{47445}{47570}Ce truc a dû arriver dans le système|d'assainissement par un déversoir.
+{47585}{47657}Puis il est passé|dans les égouts de l'immeuble.
+{47660}{47732}- On vous attend dehors.|- Merci.
+{48110}{48207}Vous m'entendez probablement pas,|mais n'écoutez pas, OK?
+{48365}{48460}Quelque chose est remonté|des profondeurs inexplorées de l'océan.
+{48462}{48532}Et ça y était,|sans qu'on le sache, depuis des lustres.
+{48535}{48605}Il n'y a aucune preuve|pour étayer cette théorie.
+{48605}{48690}Ce ne sont peut-être|que des parasites d'origine hydrique.
+{48692}{48765}Ce ne sont pas des créatures à la Jules Verne.
+{48865}{48980}Je l'ai vu dans le bain, avec l'adjoint!|Ca avait des bras géants, comme une pieuvre.
+{50067}{50117}Alors?
+{50147}{50185}Il est parti.
+{50187}{50255}- C'est parti?|- Non.
+{50257}{50305}L'adjoint du shérif est parti.
+{50327}{50357}C'est-à-dire?
+{50360}{50452}Je crois que l'adjoint|est parti avec l'eau du bain.
+{50465}{50515}Il était là avec ce truc?
+{50517}{50590}- Non, je ne pense pas.|- Elle a dit l'avoir vu.
+{50590}{50692}J'en doute pas. Je crois savoir|pourquoi personne n'a jamais vu ce truc.
+{50695}{50795}Ca ne vit pas dans l'eau, c'est l'eau,|ne prenant forme que pour attaquer,
+{50797}{50880}comme quand l'eau de mer|a reflué dans les canalisations.
+{50882}{50945}C'était quasiment invisible avant ça.
+{50965}{51035}Si c'était le cas, ceci ne serait pas visible.
+{51037}{51125}En fait, cela nous montre|que l'eau essaie de tuer cette chose.
+{51127}{51190}Tu as dû entraver son processus reproductif.
+{51192}{51260}Ca prend peut-être du temps,|comme avec les Shipley.
+{51260}{51307}Ils n'étaient même pas chez eux.
+{51310}{51405}Ils y étaient au moment de l'attaque,|tout comme l'adjoint était ici.
+{51407}{51460}Il s'est reproduit dans leurs corps,
+{51462}{51552}il a utilisé l'eau de leurs corps|pour s'autoreproduire.
+{51555}{51620}- Le flic s'est transformé?|- II y en a d'autres?
+{51622}{51677}- II faut partir d'ici.|- En plein ouragan.
+{51680}{51772}- II faut aller ailleurs.|- lmpossible de transporter tout le monde.
+{51775}{51887}On peut prendre la voiture de police.|On est combien? Deux, quatre...
+{51930}{51985}L'enfoiré.
+{52062}{52112}Le voleur?
+{52590}{52670}- Mulder?|- Oui?
+{52672}{52745}Si on doit partir, autant le faire maintenant.
+{53382}{53437}Mulder, ça va?
+{53770}{53832}Attendez. Qu'est-ce que vous faites?
+{53835}{53867}- Je nous sauve la vie.|- C'est mon coéquipier!
+{53867}{53902}- Je nous sauve la vie.|- C'est mon coéquipier!
+{53905}{53972}- II a pas répondu.|- Vous pouvez pas faire ça!
+{53975}{54022}- II rentrera pas.|- II va mourir!
+{54025}{54095}- Vous pouvez faire quoi?|- L'aider à respirer.
+{54095}{54145}Vous avez pas sauvé l'autre.
+{54147}{54205}Je veux au moins essayer. Je suis médecin.
+{54207}{54272}Tant mieux, je viens de perdre les eaux.
+{54780}{54867}- Ca va aller.|- C'est facile à dire.
+{54925}{55000}Vous avez pas vraiment le choix, pas vrai?
+{55085}{55140}Il nous faut de l'eau.
+{55157}{55247}Je vais procéder à l'accouchement,|vous pouvez baisser votre arme.
+{55307}{55377}- On sait pas si vous êtes un vrai médecin?|- En effet.
+{55380}{55445}A vrai dire, c'est une première pour moi.
+{55447}{55545}Alors bougez ou rendez-vous utile,|mais écartez-vous de mon chemin.
+{56017}{56077}- Respire bien profondément.|- C'est bien.
+{56080}{56165}Respirez... Angela,|je veux que vous poussiez.
+{56167}{56272}Il faut que vous m'aidiez à vous aider.|Allez, on pousse.
+{56372}{56445}C'est bien. Vous êtes sur la bonne voie.
+{56447}{56505}Des serviettes, s'il vous pla îti .
+{56615}{56672}Il me faut des serviettes.
+{56855}{56970}C'est bien. C'est bien. Allez, encore.
+{56972}{57020}Poussez.
+{57915}{57977}Je sens qu'il est là-haut!
+{57980}{58085}- Elle le sent là-haut!|- Allez. Poussez!
+{58115}{58185}Bien. Vous y êtes. Oui...
+{58247}{58297}Le voilà.
+{58300}{58367}Le voilà. Ca vient!
+{58370}{58402}Bien.
+{58532}{58590}Qu'est-ce qu'il y a?
+{58612}{58667}- C'est l'eau.|- Quoi?
+{58670}{58725}- C'est l'eau!|- Ca y est!
+{58787}{58840}- Ca y est!|- Oui!
+{58842}{58867}Ca y est!
+{58870}{58925}- Poussez!|- Ca y est!
+{59035}{59095}Vite! Poussez!
+{59102}{59130}Oui!
+{59185}{59252}- Prenez le revolver.|- A l'aide!
+{59285}{59335}Prenez le revolver!
+{59405}{59495}Tirez sur l'extincteur automatique!|Visez et tirez!
+{59835}{59892}Je m'appelle Dana Scully.
+{59932}{59965}Oui.
+{59992}{60042}Merci.
+{60190}{60235}Oui. Oh, mon Dieu.
+{60237}{60287}C'est impressionnant.
+{60305}{60385}C'est officiel. 4 kilos de vie et d'énergie.
+{60385}{60435}<i>El niño grande.</i>
+{60437}{60547}LeRoy Walter Villareal Suarez junior.
+{60550}{60602}- Oh, non.|- Oh, si.
+{60605}{60677}C'est étonnant. Vraiment étonnant.
+{60685}{60715}Quoi donc?
+{60717}{60847}Vous venez ici en plein ouragan,|à la poursuite d'un monstre marin,
+{60850}{60955}et vous vous retrouvez en train|de mettre au monde un nouvel être.
+{60965}{61022}Puis vous tuez le monstre,
+{61025}{61147}et sauvez la vie de notre ami alors que|ses espoirs sont littéralement à l'eau.
+{61150}{61272}- Elle ne m'a pas vraiment sauvé la vie.|- Si. Et sous la menace d'une arme.
+{61275}{61335}Tu ne serais pas allé sous la pluie
+{61335}{61435}si je ne t'avais pas fait remarquer|que l'eau douce tuait cet organisme.
+{61437}{61485}Non, j'ai vu le chat des Shipley.
+{61487}{61532}J'y crois pas.
+{61535}{61642}J'ai vu le chat, il avait été sauvé,|et il était resté dans le lave-linge.
+{61645}{61745}Les Shipley s'étaient barricadés,|donc ils n'avaient pu dispara îti re
+{61745}{61865}que si la créature était entrée|avec l'eau de mer par les canalisations.
+{61865}{61947}Et l'adjoint a disparu|dans un bain plein de sel d'Epsom...
+{61950}{62007}Si Scully n'avait pas été là,
+{62010}{62065}j'ose à peine imaginer|ce qui vous serait arrivé.
+{62065}{62090}j'ose à peine imaginer|ce qui vous serait arrivé.
+{62092}{62157}Vous lui devez la vie.
+{62192}{62280}Il faut avoir de l'expérience|pour dire ça, mais...
+{62312}{62442}si j'avais eu|quelqu'un d'aussi calé à mes côtés
+{62465}{62535}quand je travaillais sur les affaires NC,
+{62552}{62620}je ne serais peut-être pas parti.
+{62665}{62760}Je suggère que nous portions un toast|à votre bonne fortune,
+{62760}{62820}et j'insiste pour que nous le fassions.
+{62820}{62887}Alors, qu'est-ce que ce sera?
+{63042}{63112}- Quelqu'un veut de l'eau?|- Non!
+{63520}{63562}Sous-titrage Visiontext: Stéphane Zamparo
+{64102}{64152}FRENCH

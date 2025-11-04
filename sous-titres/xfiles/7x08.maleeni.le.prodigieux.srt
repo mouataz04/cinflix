@@ -1,0 +1,514 @@
+{160}{227}PORT DE SANTA MONICA
+{290}{350}MALEENI LE PRODIGIEUX
+{622}{677}M. MaIeeni.
+{680}{735}Vous êtes prêt à Ieur en faire voir?
+{737}{827}Si vous vouIez dire ''entrer en scène'',|oui, je suis prêt.
+{830}{920}CooI. Vous vous rappeIez|qu'iIs vous avaient dit 125 $ parjour?
+{920}{1052}Vous en toucherez 75. Le prix d'entrée est|merdique. Mais Ie spectacIe continue, hein?
+{1055}{1110}Ce sera mon meiIIeur spectacIe.
+{1130}{1170}Ca rouIe.
+{1252}{1315}Mesdames et messieurs,
+{1337}{1492}mon but aujourd'hui n'est pas seuIement|de divertir, mais d'instruire et d'informer
+{1495}{1620}dans Ia vénérabIe|et ancienne tradition de mon art.
+{1622}{1750}Jusqu'à ce que Johann Nepomuk Hofsinzer|nomme jouer aux cartes ''poésie de Ia magie'',
+{1760}{1897}I'habiIeté du prestidigitateur était déterminée|par sa capacité à exécuter un effet.
+{1920}{2000}Cet effet était connu comme|''Ies gobeIets et Ies baIIes''.
+{2002}{2095}Ces jeux existent depuis des centaines,|des miIIiers d'années.
+{2097}{2187}Le pIus grand magicien fut sans doute|I'ItaIien BartoIomeo Bosco.
+{2190}{2262}Accouche!
+{2347}{2445}Les tours de passe-passe de Bosco|avec Ies gobeIets et Ies baIIes.
+{2777}{2897}Les trois ont disparu,|mais Ies trois réapparaissent.
+{2922}{3015}Bosco n'avait qu'un seuI rivaI,|un Français du nom de Conus,
+{3015}{3125}qui annonça en 1795 qu'iI ferait|apparati re sa femme, mesurant 1 m 68,
+{3125}{3187}du dessous de I'un des gobeIets.
+{3190}{3285}En dépit de mes efforts,|je n'ai même pas été capabIe de me marier.
+{3382}{3450}Conus mit une baIIe dans sa poche.
+{3452}{3510}II retira Ia seconde baIIe.
+{3512}{3590}II mit Ia troisième dans sa main,|Ia fit disparati re,
+{3592}{3735}et voiIà Ie mystère|des gobeIets et des baIIes.
+{3825}{3905}Vous pourriez faire un truc|qui n'a pas cent ans?
+{3907}{3990}Qui n'est pas vieux jeu, défraîchi.
+{3992}{4065}Voudriez-vous me voir|perturber votre travaiI?
+{4067}{4165}Que je m'assure que vous comptez|Ie nombre requis de McNuggets?
+{4165}{4227}Montrez-moi queIque chose.
+{4230}{4285}AIIez.
+{4370}{4487}Un défi puériI qui doit être reIevé|avec de I'expérience et de I'habiIeté.
+{4505}{4567}A savoir I'Egyptien Dedi,
+{4570}{4710}dont I'expIoit Ie pIus céIèbre fut|de rattacher une tête récemment tranchée,
+{4712}{4862}Ia réunissant à un corps encore chaud,|sans aucune séqueIIe.
+{4865}{5037}L'histoire occidentaIe reIate trois tentatives|de recréer cet expIoit digne de Noé,
+{5060}{5157}chacune d'entre eIIes|s'étant soIdée par une tragédie.
+{5172}{5230}Cette tentative sera Ia quatrième.
+{5232}{5322}Puis-je avoir Ie siIence absoIu, je vous prie?
+{5687}{5780}Oui. Senor MaIeeni.
+{5830}{5920}Un tonnerre d'appIaudissements|pour MaIeeni Ie Prodigieux.
+{6060}{6117}Vous avez été sensas. C'était dément.
+{6120}{6202}Ca avait I'air bien réeI.|Comment vous avez fait?
+{6230}{6282}Je vois. C'est magique.
+{6340}{6400}Votre argent. Bougez pas.
+{6460}{6580}Deux, quatre, 50, 55, 60, 65, 70, 75.
+{6582}{6640}Vous I'avez mérité.
+{6867}{6902}Oh, bon sang...
+{7335}{7392}LE GOUVERNEMENT NOUS MENT
+{7750}{7795}LA VERITE EST AILLEURS
+{8395}{8500}- Un joIi tour, hein?|- J'en vois un pIus joIi encore:
+{8500}{8597}m'avoir convaincue de prendre|Ie premier avion pour Los AngeIes.
+{8600}{8655}Ce n'est pas assez insoIite pour toi?
+{8657}{8800}Un magicien fait tourner sa tête à 360 degrés|à Ia pIus grande joie des jeunes et des vieux,
+{8802}{8882}après quoi eIIe tombe sans cérémonie|sur I'embarcadère.
+{8885}{8965}- Tu as vu Ies photos?|- Oui.
+{8967}{9055}Et quant à MaIeeni qui fait faire|un tour compIet à sa tête...
+{9055}{9135}- Comme tu Ie disais, MuIder, joIi tour.|- Mais...?
+{9155}{9290}Mais je suppose que cet événement|n'a aucun rapport avec Ie meurtre uItérieur.
+{9292}{9345}Tu penses que c'était un meurtre?
+{9347}{9430}Pas toi? On Iui a tranché Ia tête.
+{9430}{9507}Observe I'absence quasi totaIe de sang.
+{9510}{9562}Observe Ie manque d'empreintes
+{9565}{9650}comme Ie montre Ia quantité généreuse|de poudre de Iycopode.
+{9650}{9695}On dirait Tony RandaII.
+{9695}{9782}MaIeeni était en vie et,|I'instant d'après, iI était mort,
+{9785}{9887}et personne n'a vu son agresseur|prendre Ia fuite ou entendu ses cris.
+{9890}{10035}J'avoue ne pas savoir comment c'est arrivé,|mais je te dis qu'iI s'agit d'un meurtre.
+{10047}{10145}- QueIIe est ta théorie?|- Un tour qui a horribIement maI tourné,
+{10145}{10272}et qui coûte Ia vie à tous ceux qui Ie tentent.|Repassez-moi ce caméscope.
+{10297}{10345}Merci.
+{10347}{10447}Un touriste a fiImé Ie spectacIe de MaIeeni.
+{10507}{10557}Regarde ça.
+{10587}{10665}Qui n'est pas vieux jeu, défraîchi.
+{10675}{10710}Qui est Ie chahuteur?
+{10710}{10780}AIIez. Montrez-moi queIque chose.
+{10780}{10820}Je ne sais pas.
+{11040}{11092}JoIi tour, hein?
+{11117}{11180}Attends une seconde. Laisse-moi regarder.
+{11262}{11367}Ce chahuteur ne se Iaisse pas faciIement|impressionner, tu ne trouves pas?
+{11370}{11445}Et ensuite, iI fiIe I'air vexé.
+{11445}{11522}- Ce serait un meurtrier?|- Ca vaut Ie coup de vérifier.
+{11525}{11612}Ca, ce sera un joIi tour.|Tu n'as pas vu son visage.
+{11615}{11665}Mais observe.
+{11732}{11855}Son gobeIet. La main est pIus rapide|que Ie regard, mais eIIe Iaisse des empreintes.
+{11857}{11947}- A condition qu'on n'ait pas jeté Ies ordures.|- Sceptique.
+{12067}{12130}AU NORD DE HOLLYWOOD, EN CALIFORNIE
+{12275}{12312}M. LaBonge?
+{12350}{12415}Nous sommes|Ies agents MuIder et ScuIIy du FBI.
+{12470}{12550}Vous étiez à I'embarcadère|de Santa Monica hier matin?
+{12635}{12725}Vous avez assisté à un spectacIe de magie.|MaIeeni Ie Prodigieux.
+{12727}{12765}II est nase. Pourquoi?
+{12767}{12865}II est mort, dans des circonstances|pour Ie moins suspectes.
+{12905}{12995}Ca n'empêche qu'iI est nase.|Vous m'avez trouvé comment?
+{12997}{13100}Vos empreintes.|Vous avez un casierjudiciaire.
+{13102}{13180}Une condamnation pour voI à Ia tire.
+{13182}{13267}C'était de I'art.|En pIus, c'est de I'histoire ancienne.
+{13270}{13405}- Vous pensez que je I'ai tué?|- Sur une vidéo, vous chahutez Ie défunt.
+{13417}{13485}Que reprochiez-vous à M. MaIeeni?
+{13585}{13677}Pour commencer, iI ne s'appeIIe pas MaIeeni.
+{13680}{13795}C'est Ie nom d'un vrai magicien|du début du siècIe, Max MaIini.
+{13797}{13855}- Vous en avez déjà entendu parIer?|- Non.
+{13855}{13890}Vous auriez dû.
+{13892}{13970}Bref, iI voIe son nom,|I'orthographie différemment,
+{13972}{14065}fait ces tours bateaux qui|impressionneraient même pas des gosses.
+{14067}{14150}Et quand iI fait faire|un tour compIet à sa tête?
+{14152}{14202}Regardez ça.
+{14985}{15060}Aucun probIème. Ca vous a pIu?
+{15095}{15140}Regardez.
+{15205}{15272}La pièce qui est dans ma main se voIatiIise.
+{15310}{15395}Peut-être que vous avez|un peu de maI à suivre.
+{15395}{15492}Faisons donc Ies choses en grand.
+{15495}{15605}Je ne vois pas en quoi ces numéros sont|différents ou mieux que ceux de MaIeeni.
+{15607}{15675}Mozart et SaIieri.
+{15675}{15770}Aux yeux du profane,|Ieurs oeuvres se ressembIent.
+{15770}{15862}Mais ce n'est pas Ie cas.|Vous voyez où je veux en venir?
+{15927}{16000}II s'agit d'originaIité.
+{16025}{16045}De styIe.
+{16130}{16190}Et par-dessus tout,
+{16192}{16237}d'âme.
+{16262}{16402}Parce que c'est ce qui distingue|Ies grands des amateurs.
+{16460}{16570}On ne peut pas faire ça à moitié.|On a affaire à des forces puissantes.
+{16572}{16670}A des énergies qui sont|bien au-deIà de notre simpIe...
+{16710}{16770}entendement de morteI.
+{16772}{16835}Au point de faire perdre Ia tête|à un magicien?
+{16837}{16900}Ca se pourrait.
+{16942}{17042}Ca, et iI parati que MaIeeni|a cumuIé de grosses dettes de jeu.
+{17087}{17215}- Qui sait qui iI a pu gonfIer?|- Merci, M. LaBonge. On reste en contact.
+{17217}{17290}J'espère bien. Agents ScuIIy et MuIder?
+{17672}{17732}Mozart et SaIieri. Qui est qui?
+{17735}{17835}Je crois que IajaIousie professionneIIe|est un mobiIe comme un autre.
+{17837}{17905}Si c'est un meurtre.|Je n'en suis pas convaincu.
+{17932}{18042}Si je peux amener MaIeeni à Ia morgue,|espérons qu'on boucIera cette affaire.
+{18157}{18240}D'accord, je sèche.|Etje pense que je suis censée sécher.
+{18272}{18302}Qu'en dis-tu?
+{18305}{18367}Tout d'abord, désoIée de te décevoir,
+{18370}{18470}mais Ia tête de M. MaIeeni|n'est pas tombée par magie.
+{18472}{18535}EIIe a été sciée avec soin.
+{18537}{18650}Un travaiI Ient et astreignant,|probabIement exécuté avec une scie à viande.
+{18652}{18715}Et regarde ce petit détaiI.
+{18800}{18860}De Ia coIIe à postiche.
+{18882}{18980}EIIe retenait Ia tête attachée au corps.|A peine, bien sûr.
+{18980}{19037}- AIors iI a été assassiné.|- Non.
+{19040}{19132}Apparemment, iI est mort|d'une maIadie coronarienne avancée.
+{19135}{19182}Une mort natureIIe.
+{19185}{19272}II est mort d'une crise cardiaque,|queIqu'un Iui a scié Ia tête,
+{19275}{19340}puis I'a recoIIée, tout ça en 30 secondes.
+{19342}{19412}- Ca te parati Iogique?|- Non.
+{19415}{19470}Ce qui est encore pIus étrange,
+{19470}{19592}c'est qu'apparemment,|sa mort remonte à pIus d'un mois.
+{19595}{19660}Je vois des signes de réfrigération.
+{19662}{19762}Et pourtant, iI a donné un spectacIe hier.|QueI artiste!
+{19765}{19820}QueIqu'un a donné un spectacIe hier.
+{20435}{20475}Cissy AIvarez.
+{20512}{20567}Qui êtes-vous?
+{20570}{20647}Tu te rappeIIes pas de moi.|C'est un coup dur.
+{20692}{20800}Je m'appeIIe LaBonge.|J'ai fait de Ia tauIe avec toi, iI y a huit ans.
+{20800}{20840}Tu braquais des banques.
+{20840}{20920}Ce nom ne me dit rien.|Qu'est-ce que tu veux?
+{20922}{20962}Tu joues au poker.
+{20965}{21055}T'as pIumé un type qui se fait|appeIer MaIeeni Ie Prodigieux.
+{21055}{21130}II a un autre nom: Herman Pinchbeck.
+{21230}{21312}- II est mort.|- Oui, j'ai vu ça dans Ie journaI.
+{21315}{21402}Un truc comme quoi sa tête serait tombée.|En quoi ça te concerne?
+{21450}{21530}C'est moi qui ai fait tomber sa tête.
+{21592}{21680}Tu as pris sa reconnaissance de dette.|II te devait quoi, 15 000?
+{21682}{21760}- 20.|- II t'auraitjamais remboursé.
+{21762}{21807}Si t'aIIais droit au but?
+{21810}{21892}Si tu débaIIais ton histoire|avant qu'on te piétine à mort?
+{21895}{21985}Ca te dirait de récupérer ce qui t'est dû?|MuItipIié par dix.
+{21987}{22057}200 000 doIIars? Comment?
+{22085}{22142}- Tu m'aides.|- A faire quoi?
+{22145}{22195}De Ia magie.
+{22640}{22697}Tu veux que je continue?
+{23315}{23375}Je cherche M. AIbert Pinchbeck.
+{23375}{23450}C'est Ie monsieur qui se trouve Ià-bas.|Pauvre homme.
+{23645}{23727}- II te rappeIIe queIqu'un?|- Ca, c'est certain.
+{23797}{23872}- L'histoire se corse.|- II pourrait tenter de fuir.
+{23942}{23977}Entrez.
+{24015}{24092}- Bonjour, M. et Mme...?|- Agents.
+{24095}{24150}MuIder et ScuIIy. FBI.
+{24152}{24230}Vous n'êtes pas ici|pour un prêt immobiIier, je présume.
+{24232}{24300}Non. Nous enquêtons|sur Ia mort d'un magicien
+{24300}{24367}qui se faisait appeIer MaIeeni Ie Prodigieux.
+{24370}{24420}Herman, mon frère jumeau.
+{24420}{24497}Nous avons vérifié|queI était son pIus proche parent.
+{24500}{24590}- Qu'est-iI arrivé à votre nuque?|- J'ai eu un accident de voiture.
+{24592}{24635}Un accident de voiture.
+{24637}{24752}Ca n'a donc rien à voir avec un tour de magie|que vous avez réaIisé à Santa Monica
+{24755}{24825}dans IequeI vous faisiez|tourner votre tête à 360°?
+{24827}{24945}Ce n'était pas moi. J'ai eu|un grave accident de voiture au Mexique.
+{24947}{25042}Un grave accident de voiture mexicain.|Au Mexique.
+{25045}{25095}Vous connaissez Ia magie?
+{25095}{25197}Oui. Dans Ies années 70,|mon frère et moi faisions des spectacIes.
+{25200}{25270}- Pourquoi avoir arrêté?|- On n'arrête jamais.
+{25465}{25522}Prenez une carte, n'importe IaqueIIe.
+{26122}{26190}Hmmm. Très impressionnant.
+{26190}{26305}Mon frère et moi vouIions être|Ies meiIIeurs magiciens que Ie monde ait vus.
+{26307}{26425}Je savais que nous n'y arriverions jamais,|mais iI a continué à y croire.
+{26425}{26497}On s'est peu parIés|depuis que je me suis retiré.
+{26515}{26605}J'ai une théorie etje vais vous I'exposer:
+{26650}{26757}Herman est mort sans avoir réussi|à devenir Ie pIus grand magicien au monde,
+{26760}{26855}et ça vous a bIessé,|de même que votre séparation.
+{26855}{26945}Vous vous êtes substitué à Iui|pour son dernier numéro,
+{26945}{27020}un numéro pour IequeI|iI resterait dans Ies mémoires,
+{27022}{27097}qui se terminerait sur un teI choc,|un teI dénouement,
+{27100}{27200}qu'on s'en rappeIIerait|dans Ies annaIes de Ia magie.
+{27230}{27285}VoiIà ce que je pense.
+{27330}{27392}J'aimerais teIIement que ce soit vrai.
+{27625}{27687}C'était un très grave accident au Mexique.
+{27852}{27887}II était sérieux.
+{27922}{27985}- Et maintenant?|- La tête d'un type tombe.
+{27987}{28120}Le pIus grand tour au monde,|mais iI ne sert à rien. QueI en était Ie but?
+{28122}{28245}Pourquoi fait-on de Ia magie?|Pour impressionner, ravir, attirer I'attention.
+{28245}{28342}Ce tour a principaIement attiré|I'attention de Ia poIice.
+{28345}{28400}C'est peut-être Ie but recherché.
+{28425}{28482}On devrait consuIter un expert.
+{28485}{28587}QueIqu'un qui connati Ia magie,|qui a vu Ies pIus grands tours du monde.
+{28590}{28642}II pourrait nous aider à comprendre.
+{28645}{28695}- Mozart.|- Oui.
+{28705}{28792}QueI intérêt pour moi?|Enfin, disons que je vous aide.
+{28795}{28850}Qu'est-ce que j'y gagne?
+{28875}{28995}Le sentiment de fierté qu'on éprouve|quand on rempIit son devoir civique.
+{28997}{29065}Que faites-vous de I'occasion de fouiner
+{29067}{29165}dans Ies secrets professionneIs|du magicien que vous aimez Ie moins?
+{29207}{29265}Ce sera fendard, je suppose.
+{29750}{29800}C'est pire que ce que je pensais.
+{29917}{29992}II faut Ies nourrir, ces bêtes-Ià, vous savez.
+{29995}{30030}AIors...
+{30112}{30190}- MaIeeni n'a pas été assassiné?|- Apparemment non.
+{30192}{30295}AIors on s'est fait passer pour Iui|et on a réaIisé son numéro bidon.
+{30295}{30345}C'est impressionnant.
+{30465}{30575}Je dirais que c'est un coup de son jumeau,|mais iI ne vaut pas mieux que MaIeeni.
+{30575}{30665}II y a ça, et Ie fait qu'iI n'a pas de jambes.
+{30720}{30792}Oui. Passons.
+{30795}{30915}On cherche un magicien qui ait|Ia même taiIIe et Ia même carrure.
+{30917}{31010}Du maquiIIage, une perruque,|et on n'y voit que du feu.
+{31012}{31052}Même vous, j'imagine.
+{31055}{31110}J'avais bu pIusieurs verres de JeIIo.
+{31110}{31195}Comment cet imitateur a-t-iI dégagé Ie corps?
+{31195}{31242}FaciIement.
+{31245}{31335}Vous n'en reviendrez pas|quand je vous montrerai. C'est simpIe.
+{31335}{31395}Parce que Ia magie n'est qu'une question
+{31425}{31480}de diversion.
+{31507}{31600}Votre imitateur s'est assuré|que tout Ie monde regardait aiIIeurs
+{31602}{31705}quand iI a sorti Ie corps de MaIeeni|de sa cachette secrète,
+{31707}{31810}sous Ie pIancher.
+{32397}{32425}Ce type est doué.
+{32480}{32540}Merci pour votre avis d'expert.
+{32565}{32635}Je suppose qu'on revient à Ia case départ.
+{32635}{32762}Peut-être pas. Vous avez dit que|MaIeeni Ie Prodigieux avait des dettes de jeu?
+{32765}{32815}C'est ce que j'ai entendu.
+{32815}{32875}Regarde ça. Une reconnaissance de dette.
+{32877}{32930}20 000 doIIars.
+{33020}{33092}Qu'est-ce que ça faisait|dans Ia camionnette?
+{33400}{33430}Merci.
+{33460}{33520}Si vous vouIez bien signer ici.
+{33535}{33585}Avec pIaisir.
+{33635}{33700}Anthony, qu'est-ce que|vous avez comme arme?
+{33702}{33742}Un GIock 17,9 mm.
+{33745}{33807}Je pensais peut-être m'en acheter un.
+{33810}{33875}Tenez, jetez-y un coup d'oeiI.
+{34025}{34105}Bon sang, c'est pIus Iourd|que ce que je pensais.
+{34190}{34257}Merci, Anthony. Marvin.
+{34260}{34330}Si vous vouIez,|je vous emmènerai au stand de tir.
+{34330}{34405}- Bonne journée.|- A vous aussi.
+{34775}{34830}Bonjour. Je peux vous aider?
+{34955}{35030}- Vous êtes son portrait craché.|- Pardon?
+{35032}{35165}Votre bon à rien de frère|est mort en me devant de I'argent.
+{35165}{35257}Beaucoup d'argent. Vous paierez pour Iui.
+{35260}{35340}DésoIé, mais Ies dettes de mon frère|sont Ies siennes.
+{35387}{35495}J'ai dit: ''Vous paierez pour Iui.''
+{35497}{35572}Parce que mes amis et moi,|on sait où vous habitez.
+{35997}{36072}- C'est I'engrenage, tu crois?|- Arrête-toi.
+{36195}{36282}Reste Ià et appeIIe-Ies.|Je vais voir ce que c'est.
+{36285}{36400}On a un probIème d'engrenage|sur Ia 4e et Ia PrincipaIe...
+{36802}{36850}Vous. Dans Ie camion.
+{36852}{36955}Redressez-vous bien en vue.|Mains bien en vue!
+{36957}{37012}Mains en I'air!
+{37015}{37065}Très bien, sortez.
+{37075}{37120}Monsieur, sortez.
+{37177}{37242}II y a un type à I'arrière.
+{37352}{37427}Un type avec des tatouages.|J'ai tiré quatre coups.
+{37495}{37580}Je ne comprends pas. II étaitjuste Ià.
+{37987}{38042}C'est votre écriture, n'est-ce pas?
+{38132}{38190}VeuiIIez répondre à Ia question.
+{38192}{38262}C'est pas Ia mienne.|Je sais pas où vous avez eu ça.
+{38265}{38320}On n'y a trouvé que vos empreintes.
+{38320}{38420}On a parcouru I'historique|des données crimineIIes de CaIifornie
+{38422}{38485}duqueI vous sembIez être bien connu.
+{38487}{38542}C'est une reconnaissance de dette.
+{38545}{38642}Pinchbeck me devait du fric.|C'était une partie de poker amicaIe.
+{38645}{38732}Très amicaIe.|AmicaIe pour un montant de 20 000 $.
+{38735}{38832}- Où avez-vous trouvé ça?|- Dans Ia camionnette d'Herman Pinchbeck.
+{38875}{38920}Où étiez-vous jeudi dernier?
+{38922}{39010}Ici. Toute Iajournée. Demandez-Ieur.
+{39097}{39177}Qu'est-ce que vous pensez|que je Iui ai fait, à Pinchbeck?
+{39180}{39287}Qu'est-ce que j'y gagne? C'est pas|en Ie tuant qu'iI aIIait me rembourser.
+{39290}{39372}Pourquoi avoirjoué avec Iui?|C'était un magicien.
+{39375}{39430}Je savais pas ce qu'iI était.
+{39432}{39502}Et ça fait pas un pIi|qu'iI jouait comme un pied.
+{39512}{39575}Ne quittez pas Ia viIIe.
+{39847}{39935}C'est pas étrange que MaIeeni|Ie Prodigieux soit nuI au poker?
+{39935}{40032}- Un pro de Ia manipuIation des cartes.|- Peut-être pas si pro que ça.
+{40035}{40117}LaBonge n'a pas une haute opinion|de ses compétences.
+{40120}{40230}II y a une autre possibiIité. Regarde bien.|Une pièce de 25 cents ordinaire.
+{40232}{40315}Je Ia prends dans ma main droite|et Ia mets dans Ia gauche.
+{40317}{40355}Où est-eIIe?
+{40357}{40397}- Dans ta main droite.|- Non.
+{40430}{40490}- C'est pas maI.|- Mouche-toi Ie nez.
+{40537}{40580}- Regarde ça.|- Prodigieux!
+{40582}{40637}- Le Grand MuIdeeni.|- Où tu veux en venir?
+{40640}{40755}La diversion. Tu as regardé dans une|direction, Ia pièce est aIIée dans I'autre.
+{40757}{40857}- Tu crois que c'est ce qui se passe?|- On se fait mener par Ie bout du nez.
+{40895}{40960}Par qui? MaIeeni est déjà mort.
+{40962}{41060}On dirait, mais tu pensais aussi|que Ia pièce était dans ma main droite.
+{41597}{41635}- Le 911.|- AIIô?
+{41637}{41732}Je veux signaIer un homme armé.|II menace de tuer queIqu'un.
+{41735}{41837}- Pouvez-vous parIer pIus fort?|- Non, je ne peux pas.
+{41840}{41890}Monsieur?
+{42050}{42105}FiIs de pute.
+{42262}{42340}SaIut, partenaire. SaIut, Ies gars.
+{42350}{42410}- SaIe fiIs de pute!|- Excuse-moi?
+{42412}{42500}- Tu as essayé de me doubIer.|- Non.
+{42500}{42537}- Non?|- On avait un marché.
+{42540}{42600}On avait un marché. Je vais te saigner.
+{42600}{42650}RecuIez.
+{42760}{42790}Tu es mort.
+{42922}{42987}Pas un geste. Posez votre arme.
+{43055}{43117}- Mains derrière Ia tête.|- AIIez!
+{43175}{43230}Baissez Ia tête. Ecartez Ies jambes.
+{43447}{43547}Agents. QueIIe surprise inattendue!|Bonjour.
+{43550}{43595}Nous aimerions vous parIer.
+{43597}{43682}- Je suis assez occupé, à vrai dire.|- J'en suis persuadé.
+{43685}{43725}Et si on faisait un tour?
+{43935}{44050}- De quoi s'agit-iI?|- II s'agit de diversion, M. Pinchbeck,
+{44050}{44125}ou devrais-je dire MaIeeni Ie Prodigieux?
+{44215}{44290}C'est un tour de passe-passe. VoiIà.
+{44307}{44357}Ca a marché.
+{44360}{44405}Vous êtes MaIeeni?
+{44407}{44467}AppeIez-moi Herman.
+{44655}{44737}Je craignais pour ma vie.|J'ai donc agi comme je I'ai fait.
+{44740}{44800}Je n'en suis pas fier.
+{44800}{44900}Mais je devais beaucoup d'argent|que je ne pouvais pas rembourser.
+{44900}{44992}Nous Ie savons. Des dettes de jeu|contractées auprès d'AIvarez.
+{44995}{45052}Oui, ce psychopathe tatoué.
+{45055}{45170}J'ai entendu des choses horribIes sur|ce qu'iI a fait à des compagnons de ceIIuIe.
+{45172}{45220}Pourquoi avez-vous joué avec Iui?
+{45222}{45312}II organise de bonnes parties.|Je joue pour arrondir ma peIote.
+{45315}{45385}Dieu sait qu'on vit à peine de Ia magie.
+{45385}{45465}Pourquoi n'avez-vous pas|manipuIé Ies cartes?
+{45465}{45552}Tricher? Vous me demandez|pourquoi je n'ai pas triché?
+{45555}{45615}Vous Ie pouviez, non?
+{45615}{45670}Evidemment, je Ie pouvais.
+{45695}{45747}Mais comment me regarder en face?
+{45772}{45827}Qui vous a éduqué?
+{45830}{45967}Monsieur, qu'est-ce que tout ceIa|a à voir avec votre frère jumeau,
+{45970}{46060}retrouvé décapité|sur I'embarcadère de Santa Monica?
+{46062}{46170}Je suis aIIé chez mon frère pour un prêt.|Une chance, pour moi et pour Iui.
+{46185}{46252}Vous I'avez trouvé mort|d'une crise cardiaque.
+{46255}{46315}Son corps était encore chaud.
+{46317}{46400}En Ie regardant, sans vie, je me suis vu,
+{46402}{46470}j'ai vu ma propre mortaIité éventueIIe.
+{46470}{46575}J'ai vu toutes Ies choses|que je vouIais accompIir, sans y parvenir.
+{46575}{46645}C'était une chance de disparati re,|d'être un autre.
+{46647}{46737}Comme je vous I'ai dit,|je ne suis pas fier de ce que j'ai fait.
+{46752}{46805}Vous avez frigorifié Ie corps...
+{46805}{46877}II me faIIait du temps|pour mettre un pIan sur pied.
+{46880}{46995}En me faisant passer pour mon frère,|j'ai demandé des vacances à Ia banque.
+{46995}{47055}Un voyage au Mexique.
+{47055}{47155}Ensuite, Ia banque a été prévenue|de mon terribIe accident.
+{47155}{47235}Ca m'a donné pIein de temps|Ioin du travaiI.
+{47237}{47377}Et vous avez joué Ies amputés pour dissiper|Ies soupçons que vous n'étiez pas votre frère.
+{47380}{47492}Ca, etj'apprécie Ia compassion,|surtout ceIIe des femmes de notre bureau.
+{47607}{47740}Vous n'avez pas dit pourquoi vous avez Iaissé|Ie corps de votre frère à I'embarcadère
+{47742}{47815}ou pourquoi vous avez fait tomber sa tête.
+{47817}{47910}II I'a expIiqué.|II a été si éIoquent Ia dernière fois.
+{47912}{47967}C'était ma dernière représentation.
+{47970}{48050}Je vouIais faire une sortie si remarquée
+{48052}{48145}qu'eIIe resterait à jamais|dans Ies annaIes de Ia magie.
+{48197}{48292}- C'était bien votre dernière représentation.|- C'est pour quoi?
+{48317}{48407}Je continue à croire que vous avez|pIus d'un tour dans votre sac.
+{48692}{48737}Mon Dieu!
+{48765}{48867}On vous avait attribué une pIace|pour handicapé, construit une rampe.
+{48877}{48970}- Avait-iI accès aux coffres?|- II a une cIé de Ia griIIe de jour.
+{48972}{49050}- On est pIusieurs à I'avoir.|- Que cherches-tu?
+{49052}{49187}Un indice qui expIiquerait pourquoi MaIeeni|se fait vraiment passer pour son frère.
+{49190}{49267}Pourrait-iI retirer des fonds|éIectroniquement?
+{49270}{49362}II n'avait pas I'habiIitation sécuritaire|pour ces transferts.
+{49365}{49442}II aura trouvé un moyen.|Peut-on parcourir Ies archives?
+{49445}{49557}II nous faudrait Ie numéro de votre insigne,|votre empreinte, une assignation.
+{49560}{49645}On est très prudents avec Ies TFE.|Ca se comprend.
+{49647}{49757}II y a un autre moyen. Si j'affiche Ia Iiste|des transactions sur ce terminaI...
+{49760}{49815}AUCUN TRANSFERT|N'A ETE ENREGISTRE
+{49835}{49890}Non. Non, tout est en ordre.
+{49990}{50075}II est question ici d'une tentative de voI, hier.
+{50075}{50185}Contre Ie service de convoyeurs de fonds|qui travaiIIe pour nous.
+{50187}{50260}L'argent était Ià,|et on n'a appréhendé aucun suspect.
+{50262}{50355}M. Pinchbeck est I'empIoyé|qui a signé Ia sortie du fourgon.
+{50355}{50395}II connaissait I'horaire.
+{50395}{50495}- Je n'avais rien à voir Ià-dedans.|- Peut-être, mais peut-être pas.
+{50495}{50612}On va vous incarcérer pour s'assurer que|vous ne ferez pas un numéro de disparition.
+{50662}{50732}POSTE DE POLICE|DU NORD DE HOLLYWOOD
+{51012}{51090}- PauI, je mets M. Pinchbeck dans Ia six.|- D'accord.
+{51155}{51195}Dormez bien.
+{51195}{51252}J'ai Ie droit de passer un appeI?
+{51595}{51665}- Comment ça s'est passé?|- A merveiIIe.
+{51700}{51745}Abracadabra.
+{52290}{52325}Bon sang!
+{52510}{52565}Entendu, merci.
+{52590}{52690}II est dans sa ceIIuIe|d'où iI n'a pas bougé depuis son arrestation.
+{52690}{52810}II n'est apparemment pas I'auteur de ce voI.|II y a de nombreuses empreintes.
+{52812}{52875}Mais aucune n'est ceIIe de nos voIeurs.
+{52877}{52992}IIs sont trop futés pour semer des indices,|sauf ceux qu'iIs veuIent qu'on trouve.
+{52995}{53045}Je peux vous montrer queIque chose?
+{53075}{53150}Les caméras auraient pu montrer Ies voIeurs.
+{53150}{53180}- C'est Ie cas?|- Non.
+{53182}{53277}EIIes se sont toutes arrêtées|mystérieusement entre 3 h et 3 h 20.
+{53280}{53372}- Ce n'est pas ce qu'on veut vous montrer.|- C'était iI y a deux jours.
+{53505}{53545}IncuIpé pour voI de banque.
+{53547}{53630}- Vous reconnaissez cet homme?|- Qui est-iI, pour vous?
+{53665}{53777}Je connais ces tatouages. C'est I'homme|qui a essayé de voIer mon fourgon.
+{53780}{53855}Mais bordeI! Qu'est-ce que j'ai fait?
+{53877}{53932}Vous, Ie FBI, qu'est-ce qui se passe?
+{53935}{53992}On débouIe pas comme ça.|J'ai des droits.
+{53995}{54060}J'appeIIe mon avocat,|ensuite on discutera.
+{54062}{54152}- II n'y a rien.|- C'est du harcèIement.
+{54155}{54235}Qu'est-ce qu'iIs cherchent?|AIIez. Répondez-moi.
+{54247}{54300}- La ferme.|- Non. Toi, ferme-Ia.
+{54300}{54380}C'est pas régIo.|Pourquoi vous avez serré Ies menottes?
+{54410}{54492}Vous pourriez me dire ce qu'iI cherche?
+{54720}{54762}On épargne en cas de coup dur?
+{54835}{54900}Non. On s'est fait avoir.|C'est un coup monté.
+{54900}{54955}C'était Ie magicien.
+{54980}{55050}Non, pas ceIui qui est mort. Ce petit cabron.
+{55052}{55140}C'est LaBonge qui m'a fIoué. Ecoutez-moi...
+{55142}{55220}- BiIIy LaBonge.|- Et MaIeeni Ie Prodigieux.
+{55222}{55300}Une doubIe tête d'affiche|que je ne voudrais pas manquer.
+{55337}{55392}On a payé votre caution.
+{55522}{55577}Pour vous aussi.
+{55720}{55840}- Les reIâcher est peut-être un peu prématuré.|- Donnez-nous une minute, je vous prie.
+{55920}{55972}Bonjour. Vous avez bien dormi?
+{56057}{56155}- Bravo. Vraiment.|- Qu'est-ce que vous vouIez dire?
+{56157}{56265}Hier soir, 1,8 miIIions de doIIars|ont été voIés à Ia Cradock Marine Bank.
+{56265}{56372}Ce matin, on a retrouvé cette somme|en possession de M. Cissy AIvarez.
+{56400}{56465}Je savais qu'iI faIIait s'en méfier. Bravo.
+{56480}{56557}- Ca a été un travaiI expéditif.|- Merci. C'est vrai.
+{56560}{56627}La cuIpabiIité d'AIvarez était fIagrante.
+{56630}{56745}La tentative d'un voIeur de banque de voIer|un fourgon bIindé 2 jours auparavant?
+{56747}{56800}II Iui faudra un bon avocat.
+{56802}{56867}II est maI barré.|C'est ce que vous vouIiez.
+{56870}{56935}Je ne vois pas trop|où vous vouIez en venir.
+{56937}{57025}Je n'ai pas de preuve, mais j'ai une théorie,
+{57025}{57095}etje vais vous I'exposer:
+{57097}{57170}votre frère jumeau|est mort d'une crise cardiaque,
+{57172}{57247}et vous et votre protégé|y avez vu une occasion.
+{57250}{57315}Mon protégé? Je ne peux pas Ie sacquer.
+{57337}{57387}Vous vouIiez nous Ie faire croire.
+{57390}{57482}Vous vouIiez vous venger du type|qui vous en a fait baver en prison.
+{57485}{57560}J'ai fait de Ia tauIe avec toi, iI y a huit ans.
+{57560}{57672}AIvarez. Vous et Iui étiez|dans Ie même bIoc ceIIuIaire, iI y a huit ans.
+{57675}{57767}C'était un coup monté. Vous avez|déIibérément perdu gros au poker.
+{57770}{57857}LaBonge a abordé AIvarez|une fois qu'on vous croyait mort.
+{57860}{57955}II a pIacé Ia reconnaissance de dette|dans Ia camionnette de MaIeeni.
+{57957}{58027}Vous avez expIoité son avidité pour Ie piéger
+{58030}{58130}et avez ensuite orchestré|Ia tentative de voI pour I'impIiquer.
+{58132}{58200}C'était vous, déguisé en AIvarez.
+{58202}{58290}M. Pinchbeck a pris I'arme du convoyeur|et a changé Ie chargeur.
+{58290}{58352}Sans Ie savoir, iI a tiré des baIIes à bIanc.
+{58355}{58425}Puis hier soir,|vous deux avez dévaIisé Ia banque
+{58427}{58490}et déposé I'argent chez AIvarez.
+{58570}{58677}- Vous trouvez pas qu'on a des bons aIibis?|- Les meiIIeurs du monde,
+{58680}{58752}et c'est pour ça|que vous vous êtes fait arrêter.
+{58755}{58840}Avec votre savoir-faire|et votre dextérité de pickpocket,
+{58842}{58945}vous avez pu sortir d'ici tous Ies deux|en dérobant Ia cIé d'un gardien.
+{58947}{59052}Vous avez voIé I'argent, piégé AIvarez|et êtes revenus pour Ie petit-déj'.
+{59055}{59110}Des oeufs brouiIIés et des saucisses.
+{59110}{59185}Ca serait Ie pIus grand tour du monde, non?
+{59187}{59292}Un tour qui resterait à jamais|dans Ies annaIes de Ia magie.
+{59345}{59440}- Qu'est-ce qu'on devient?|- Vous?
+{59460}{59542}Vous êtes Iibres,|à condition que Ia magie soit terminée.
+{59587}{59677}Les grands savent quand Ie moment|est venu de quitter Ia scène.
+{59775}{59837}Tirons-nous d'ici.
+{60030}{60127}- Ce sont Ies pIus grands du monde.|- On a percé Ieur magie.
+{60130}{60182}Ce n'est pas tout.
+{60285}{60332}Regarde bien.
+{60335}{60407}- Le portefeuiIIe de MaIeeni.|- Tu as fait ses poches?
+{60410}{60535}Je I'ai dérobé aux pièces à conviction pour|Ies empêcher de réaIiser Ieur dernier numéro.
+{60535}{60637}- De quoi tu parIes?|- Pourquoi un coup monté aussi éIaboré?
+{60640}{60755}Aussi ostentatoire? Pour commencer,|pourquoi attirer I'attention du FBI?
+{60757}{60845}- C'était Ia dernière pièce du puzzIe.|- AIvarez était une diversion.
+{60845}{60940}Le tour portait sur Ies TFE de Ia banque.
+{60980}{61097}II n'avait pas I'habiIité sécuritaire,|aIors iI Iui faIIait notre intervention,
+{61100}{61152}et surtout, Ie numéro de mon insigne
+{61197}{61247}et mon empreinte.
+{61265}{61357}Ces deux pièces en main,|iIs pouvaient voIer suffisamment
+{61360}{61460}pour que ces 1,8 miIIions de doIIars|fassent office d'aIIume-cigare.
+{61492}{61547}Mais iIs ne Ie peuvent pas sans ça.
+{61580}{61670}Prends une carte. N'importe queIIe carte.
+{61767}{61845}II y a encore une chose|que tu n'as pas expIiquée.
+{61847}{61890}Et c'est quoi?
+{61890}{61972}La façon dont MaIeeni|a fait faire un tour compIet à sa tête.
+{61975}{62067}- Je ne Ie sais pas.|- Moi, si. Je vais te montrer.
+{62070}{62120}Observe.
+{62540}{62577}JoIi. Comment tu as fait?
+{62672}{62700}C'est magique.
+{62702}{62760}Sérieusement. Comment tu as fait?
+{62807}{62912}Ce n'est pas pareiI.|C'est différent avec Ia tête.
+{62915}{62965}AIIez. Regarde ça.
+{63757}{63825}Sous-titrage Visiontext:|FIorence Lefebvre
+{64030}{64080}FRENCH

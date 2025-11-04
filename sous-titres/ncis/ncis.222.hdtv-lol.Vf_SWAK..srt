@@ -1,0 +1,3690 @@
+1
+00:00:02,257 --> 00:00:04,588
+ Wow. Qu’est-ce qui t’arrives, t’as passé la nuit à te faire des « sake-bombing »?
+
+2
+00:00:05,130 --> 00:00:06,286
+ C’est juste un rhume, Tony.
+
+3
+00:00:06,525 --> 00:00:08,270
+« sake-bombing »?
+
+4
+00:00:08,562 --> 00:00:11,424
+ Oh, allez, Kate, ne me dis pas que tu n’as jamais entendu parler des « sake-bombing »
+
+5
+00:00:11,776 --> 00:00:13,019
+ Tu peux me dire...?
+
+6
+00:00:13,450 --> 00:00:14,230
+ Oublie ça.
+
+7
+00:00:14,678 --> 00:00:15,497
+Je ne veux pas savoir.
+
+8
+00:00:16,055 --> 00:00:20,140
+ Tu prends un verre de sake très fort, tu le mélanges à une bière, tu secoues, et...
+
+9
+00:00:22,478 --> 00:00:23,705
+ « sake-bombing »
+
+10
+00:00:23,977 --> 00:00:25,000
+ Génial pour les coups de froid.
+
+11
+00:00:25,301 --> 00:00:27,276
+ Je vais plutôt opter pour le miel et le thé chaud, merci.
+
+12
+00:00:27,429 --> 00:00:29,645
+ McGee, Kate n’a jamais fait des « sake-bombing »
+
+13
+00:00:30,526 --> 00:00:31,547
+ Ouais, je ne pense pas en avoir fait non plus.
+
+14
+00:00:31,889 --> 00:00:33,311
+ Je travaille avec une paire d’incultes.
+
+15
+00:00:33,596 --> 00:00:35,212
+ Avec toi, ça fait trois, DiNozzo.
+
+16
+00:00:35,386 --> 00:00:35,911
+ Bonjour, patron.
+
+17
+00:00:36,097 --> 00:00:36,802
+Bonbour.
+
+18
+00:00:39,077 --> 00:00:39,781
+Rhume ou grippe?
+
+19
+00:00:40,126 --> 00:00:41,202
+ Juste un rhume.
+
+20
+00:00:41,585 --> 00:00:43,881
+ Ne t’inquiètes pas, j’éternuerai que dans mes mouchoirs...
+
+21
+00:00:44,656 --> 00:00:45,732
+ pas comme certaines personnes.
+
+22
+00:00:45,807 --> 00:00:46,723
+ J’ai des allergies, Kate.
+
+23
+00:00:46,865 --> 00:00:47,821
+Jamais eu d’allergies.
+
+24
+00:00:48,135 --> 00:00:48,842
+ Jamais pris froid.
+
+25
+00:00:49,887 --> 00:00:50,703
+ Jamais pris froid?
+
+26
+00:00:50,926 --> 00:00:52,863
+ Non. Jamais eu la grippe non plus.
+
+27
+00:00:54,425 --> 00:00:55,250
+ Pourquoi le croirais-je?
+
+28
+00:00:55,626 --> 00:00:57,261
+Si t’étais un virus, tu t’attaquerais à Gibbs?
+
+29
+00:00:58,678 --> 00:00:59,802
+ J’ai une lettre.
+
+30
+00:01:00,038 --> 00:01:00,882
+ Mais, bien sûr que t’en as une, Bizut.
+
+31
+00:01:02,197 --> 00:01:04,332
+ Il y a juste écrit "NCIS Spécial Agent"
+
+32
+00:01:05,518 --> 00:01:06,571
+ Je pense que c’est pour moi, McGee.
+
+33
+00:01:07,376 --> 00:01:07,980
+ Huh? Comment le sais-tu?
+
+34
+00:01:09,675 --> 00:01:11,131
+ Je reconnais les lèvres.
+
+35
+00:01:11,725 --> 00:01:12,650
+ Et le parfum.
+
+36
+00:01:13,028 --> 00:01:13,903
+ De bonbon ?
+
+36
+00:01:30,026 --> 00:01:40,903
+NCIS saison 2 - Episode 22 "SWAK"
+
+Team NCIS pour WWW.FOROM.COM
+
+
+37
+00:02:17,735 --> 00:02:19,951
+ Nous avons ouvert une lettre avec de la poudre blanche à l’intérieur.
+
+38
+00:02:20,905 --> 00:02:23,280
+ Utilisez le couloir sud-est comme zone de quarantaine.
+
+39
+00:02:23,428 --> 00:02:24,573
+ Vous connaissez tous la marche à suivre.
+
+40
+00:02:24,756 --> 00:02:25,102
+ Tony.
+
+41
+00:02:27,896 --> 00:02:31,970
+ Une lettre ouverte au bureau de l’Agent Spécial Gibbs a libéré une fine poudre blanche.
+
+42
+00:02:32,135 --> 00:02:34,111
+ On commence les procédures d’attaques bio-terroristes.
+
+43
+00:02:34,315 --> 00:02:35,590
+ Le troisième étage est évacué.
+
+44
+00:02:35,847 --> 00:02:37,112
+ McGee, tu connais les procédures?
+
+45
+00:02:37,256 --> 00:02:40,442
+ Ouais, on, euh, on se douche, brûle nos vêtements, et on fait des analyses de sang.
+
+46
+00:02:40,557 --> 00:02:43,230
+ Personne ne quitte le batiment jusqu’à ce qu’on ait identifié la substance excepté...
+
+47
+00:02:43,908 --> 00:02:45,252
+Je suis le plus chanceux...
+
+48
+00:02:45,346 --> 00:02:49,402
+J’ai gagné un voyage gratuit jusqu’à l’hôpital de Bethesda pour être piqué comme une pelote à épingle.
+
+49
+00:02:51,576 --> 00:02:52,492
+Ils ont éteint l’air conditionné.
+
+50
+00:02:52,835 --> 00:02:54,101
+ Va allumer les douches, Tony.
+
+51
+00:02:55,186 --> 00:02:56,191
+ Je pensais tu ne l’aurais jamais demandé.
+
+52
+00:02:57,316 --> 00:02:58,001
+ Pardon, patron.
+
+53
+00:03:10,835 --> 00:03:12,710
+ Qui aurait pu m’envoyer une lettre avec de l’anthrax?
+
+54
+00:03:12,998 --> 00:03:15,373
+ Choisis une fille , Tony, n’importe quelle fille.
+
+55
+00:03:15,625 --> 00:03:16,652
+ Ce n’est pas drôle, Kate.
+
+56
+00:03:16,835 --> 00:03:17,763
+ Ouais, je sais.
+
+57
+00:03:17,946 --> 00:03:18,783
+ C’est sérieux.
+
+58
+00:03:18,976 --> 00:03:20,883
+ Je sais, Tony; je suis désolé.
+
+59
+00:03:21,276 --> 00:03:26,620
+ A cet instant même, quelqu’un est en train de brûler mon costume d’Ermenegildo Zegna,
+
+60
+00:03:27,006 --> 00:03:31,921
+ ma cravate Armani, ma chemise Dolce Gabbana et mes chaussures Gucci.
+
+61
+00:03:32,235 --> 00:03:34,352
+ Hé, tu sais, ce n’est peut-être pas l’anthrax.
+
+62
+00:03:34,427 --> 00:03:35,483
+ J’aime entendre ça, Bizut
+
+63
+00:03:35,806 --> 00:03:39,643
+ Ouais , ça peut être la variole, la peste bubonique, le choléra...
+
+64
+00:03:39,906 --> 00:03:40,491
+Bizut!
+
+65
+00:03:41,168 --> 00:03:44,052
+ ...de la poudre pour les pieds, pour le visage, du talc...
+
+66
+00:03:44,446 --> 00:03:45,802
+ De la « Honey dust »! [Crème parfum miel pour le corps]
+
+67
+00:03:45,956 --> 00:03:46,740
+« Honey dust » ? [Crème parfum miel pour le corps]
+
+68
+00:03:46,828 --> 00:03:47,581
+« Honey dust » 
+
+69
+00:03:48,056 --> 00:03:48,803
+ J’en ai offert à des filles.
+
+70
+00:03:49,937 --> 00:03:51,260
+ Femmes-- pardon, Kate.
+
+71
+00:03:51,485 --> 00:03:53,400
+ J’en ai offert à des femmes à l’époque de Noël.
+
+72
+00:03:53,518 --> 00:03:54,513
+ Très sensuel.
+
+73
+00:03:54,956 --> 00:03:56,313
+ Tu l’appliques avec une plume.
+
+74
+00:03:56,388 --> 00:03:58,361
+ Tu n’utilises pas le produit sur les poulets?
+
+75
+00:03:58,778 --> 00:04:00,003
+Je n’ai jamais entendu parler de « Honey dust » 
+
+76
+00:04:00,145 --> 00:04:02,760
+ Ouais, c’est parce que t’as mère t’as élevé dans le respect des femmes, McGee.
+
+77
+00:04:03,035 --> 00:04:06,012
+Ca rend la peau des femmes soyeuses.
+
+78
+00:04:06,947 --> 00:04:08,871
+Quand on l’embrasse, elle a le goût du miel.
+
+79
+00:04:10,677 --> 00:04:12,622
+ J’ai reçu une boite de « Honey dust » à Noël dernier.
+
+80
+00:04:13,338 --> 00:04:14,262
+ Pas de carte.
+
+81
+00:04:19,325 --> 00:04:20,762
+ La poste a dû se tromper, patron.
+
+82
+00:04:21,567 --> 00:04:23,810
+ Quelqu’un d’autre aurait reçu ta bouteille de Whisky et tu as eu sa...
+
+83
+00:04:23,905 --> 00:04:26,593
+ Le bureau de poste n’est pas censé irradié notre courrier?
+
+84
+00:04:26,866 --> 00:04:27,640
+ Ouais, c’est vrai!
+
+85
+00:04:27,975 --> 00:04:31,193
+ Tout le courrier Fédéral passe dans un faisceau à ion. 
+
+86
+00:04:31,318 --> 00:04:32,710
+A Bridgeport, New Jersey.
+
+87
+00:04:32,805 --> 00:04:34,080
+S’il y a de l’ADN, celui-ci meurt.
+
+88
+00:04:34,538 --> 00:04:37,882
+ Les maladies que tu as citées, elles ont de l’ADN?
+
+89
+00:04:38,215 --> 00:04:38,853
+ Elles en ont.
+
+90
+00:04:39,146 --> 00:04:40,590
+ Oh, t’aurais du le laisser se tortiller.
+
+91
+00:04:41,185 --> 00:04:43,600
+ Maintenant, il n’y a plus d’inquiétudes!
+
+92
+00:04:44,067 --> 00:04:46,603
+ A moins que le bureau de poste ne se soit encore trompé.
+
+93
+00:05:23,626 --> 00:05:25,263
+ Tu aurais dû me donner la lettre, McGee. 
+
+94
+00:05:26,128 --> 00:05:26,933
+ Je sais, boss.
+
+95
+00:05:28,388 --> 00:05:29,233
+ Ce n’est pas la faute de McGee.
+
+96
+00:05:29,616 --> 00:05:31,320
+Tony lui a pris des mains.
+
+97
+00:05:31,646 --> 00:05:32,520
+Ce n’est pas vrai.
+
+98
+00:05:32,645 --> 00:05:34,040
+ Tu l'as pris, Tony.
+
+99
+00:05:34,307 --> 00:05:35,272
+ Excuse boiteuse, Probit. 
+
+100
+00:05:35,355 --> 00:05:36,332
+ Tu aurais dû m'arrêter.
+
+101
+00:05:37,607 --> 00:05:38,522
+ Ou vas tu?
+
+102
+00:05:38,698 --> 00:05:39,760
+ Découvrir qui a envoyé la lettre.
+
+103
+00:05:39,855 --> 00:05:42,792
+ Tu ne peux pas partir de la salle d'autopsie!
+
+104
+00:05:42,915 --> 00:05:45,730
+Il faut pressurisé la pièce ainsi les cellules pathogènes 
+
+105
+00:05:45,838 --> 00:05:47,713
+ne pourront pas souiller le reste du bâtiment.
+
+106
+00:05:47,818 --> 00:05:50,422
+Ducky, je suis nettoyé, aseptisé...
+
+107
+00:05:50,588 --> 00:05:52,180
+ Pour autant que je sache, je suis stérilisé. 
+
+108
+00:05:52,538 --> 00:05:54,031
+J’ai une enquête à ouvrir. 
+
+109
+00:05:54,387 --> 00:05:56,830
+J'ai une contamination possible à contenir.
+
+110
+00:05:57,795 --> 00:06:02,890
+Jusqu’à ce que ton analyse de sang te blanchisse, tu ne peux quitter cette pièce. 
+
+111
+00:06:07,396 --> 00:06:08,210
+ Qui a ouvert l'enveloppe?
+
+112
+00:06:08,005 --> 00:06:09,000
+ C’est lui.
+
+113
+00:06:10,067 --> 00:06:11,262
+ Non, non, non... ce n’est pas moi!
+
+114
+00:06:11,367 --> 00:06:12,062
+ Je plaisante.
+
+115
+00:06:12,456 --> 00:06:13,612
+ Je suis votre cobaye.
+	
+116
+00:06:13,997 --> 00:06:15,391
+ Avez-vous inhalé de la poudre ? 
+
+117
+00:06:16,486 --> 00:06:17,280
+ Ça se pourrait.
+
+118
+00:06:17,365 --> 00:06:18,553
+ Nous avons pris son sang.	
+
+119
+00:06:18,808 --> 00:06:19,301
+ Jimmy.
+
+120
+00:06:19,735 --> 00:06:21,601
+ J’ai quatre fioles de sang dans la glace, allez.
+
+121
+00:06:25,747 --> 00:06:29,220
+ C’est un rhume que j'ai depuis que je suis rentré ce matin. 
+
+122
+00:06:29,517 --> 00:06:32,312
+ Ce qui vous rend bien plus « faible » aux microbes pathogènes.
+
+123
+00:06:32,448 --> 00:06:34,272
+Vous devez aller à l'hôpital, aussi. 
+
+124
+00:06:34,608 --> 00:06:35,750
+ Non
+
+125
+00:06:35,825 --> 00:06:36,901
+ Kate, vas-y. 
+
+126
+00:06:36,985 --> 00:06:37,570
+ Avec Tony.
+
+127
+00:06:38,575 --> 00:06:39,303
+ C'est sûr?
+
+128
+00:06:45,107 --> 00:06:47,713
+ Combien de temps devons-nous rester en isolation?
+
+129
+00:06:47,837 --> 00:06:48,940
+ Au moins cette nuit.
+
+130
+00:06:49,078 --> 00:06:52,082
+Avez vous des lits qui se baissent tous seuls quand on pousse...
+
+131
+00:06:52,186 --> 00:06:55,100
+ Si tu étais contaminé par l’anthrax, comment te sentirais-tu ?
+
+132
+00:06:55,518 --> 00:06:56,720
+Pas aussi mal que toi, DiNozzo.
+
+133
+00:06:57,255 --> 00:06:57,951
+On est parti.
+
+134
+00:06:58,715 --> 00:06:59,541
+Je t’ai prévenu, DiNozzo.
+
+135
+00:06:59,706 --> 00:07:01,052
+Je me sens bien. 
+
+136
+00:07:01,185 --> 00:07:02,111
+ Tu as besoin de te relaxer..
+
+137
+00:07:02,196 --> 00:07:02,922
+ Tu as besoin d’un massage des pieds.
+
+138
+00:07:03,017 --> 00:07:04,171
+ Je ne veux pas que tu t’approches de mes pieds.
+
+139
+00:07:04,467 --> 00:07:05,440
+Tu es vraiment nul.
+
+140
+00:07:05,676 --> 00:07:07,472
+Je ne veux pas que tu me touches.
+
+141
+00:07:07,585 --> 00:07:09,171
+ Si ça ne te faites pas de bien... 
+
+142
+00:07:42,785 --> 00:07:44,990
+Alors combien de temps pour aller à Atlanta?
+
+143
+00:07:45,277 --> 00:07:46,540
+ Um, moins d'une heure. 
+
+144
+00:07:49,251 --> 00:07:50,086
+ Votre musique est cool.
+
+145
+00:07:50,969 --> 00:07:54,065
+ Et toi alors... ooh!
+
+146
+00:07:57,116 --> 00:07:57,837
+ Parle à Maman.
+
+147
+00:08:05,119 --> 00:08:07,150
+ Je ne t’ai pas embauché comme majorette, Abby. 
+
+148
+00:08:07,276 --> 00:08:07,782
+ Oh, je n’en suis pas une.
+
+149
+00:08:08,076 --> 00:08:08,902
+Grammy m'a enseigné ça.
+
+150
+00:08:09,396 --> 00:08:10,392
+ C’était une nageuse Olympique.
+
+151
+00:08:10,666 --> 00:08:12,970
+ Elle a gagné l'argent au 200 mètres papillon.
+
+152
+00:08:13,665 --> 00:08:15,461
+ Qu’est ce que la natation a à voire la roue?
+	
+153
+00:08:16,067 --> 00:08:16,883
+ Rien.
+
+154
+00:08:18,165 --> 00:08:18,921
+Je ne comprends pas.
+
+155
+00:08:19,317 --> 00:08:21,451
+ On ne peut pas penser logiquement avec Abby. 
+
+156
+00:08:21,666 --> 00:08:23,261
+ Son esprit fonctionne comme une machine. 
+
+157
+00:08:23,587 --> 00:08:24,593
+Comment est cette poudre, Abby? 
+
+158
+00:08:24,976 --> 00:08:25,551
+ Blanche.
+
+159
+00:08:25,965 --> 00:08:27,103
+ Avec une allusion au bronzage.
+
+160
+00:08:27,497 --> 00:08:28,071
+ Abs...
+
+161
+00:08:28,447 --> 00:08:30,223
+C’est tout ce que je sais jusqu'à ce que mon bébé parle.
+
+162
+00:08:30,325 --> 00:08:33,533
+ Je suis en prélèvement auto pour l'anthrax, botulisme, peste, choléra...
+
+163
+00:08:33,886 --> 00:08:35,383
+Toutes ces méchantes petites bactéries.
+
+164
+00:08:35,556 --> 00:08:36,113
+Combien de temps?
+
+165
+00:08:36,576 --> 00:08:37,290
+ Quelques heures.
+
+166
+00:08:37,537 --> 00:08:39,251
+ Je croyais que tu m’avais dit que ces essais étaient rapides.
+
+167
+00:08:39,495 --> 00:08:40,961
+ Ce n'est pas un test de grossesse, Gibbs. 
+
+168
+00:08:43,617 --> 00:08:44,632
+ Tu devrais boire plus d’eau.
+
+169
+00:08:45,075 --> 00:08:45,700
+ Tony!
+
+170
+00:08:46,327 --> 00:08:47,153
+ Ton urine est trop sombre.
+
+171
+00:08:47,646 --> 00:08:48,431
+ Je suis enrhumé. 
+
+172
+00:08:49,106 --> 00:08:50,753
+ Je n’arrive pas à croire que tu parle de mon... ew ! 
+
+173
+00:08:50,927 --> 00:08:52,021
+ Ce n’est pas moi aussi.
+
+174
+00:08:52,746 --> 00:08:53,603
+ Dr. Brad Pitt.
+
+175
+00:08:54,528 --> 00:08:56,542
+Oui, c'est mon vrai nom et non, nous n’avons aucuns liens. 
+
+176
+00:08:56,705 --> 00:08:58,523
+ Si nous en avions... j’aimerais rencontre Angelina Jolie.
+
+177
+00:09:00,798 --> 00:09:02,112
+ Si je t’avais dis ce qu’il a dis, tu m’aurais...
+
+178
+00:09:02,195 --> 00:09:03,492
+ ...pendu.
+
+179
+00:09:04,885 --> 00:09:07,430
+ Ce n'est pas le grand luxe, mais espérons que vous n'êtes ici pas pour longtemps.
+
+180
+00:09:21,388 --> 00:09:22,073
+Pressurisée?
+
+181	
+00:09:22,167 --> 00:09:22,700
+ Mm-hmm.
+
+182
+00:09:22,786 --> 00:09:24,053
+ L’air peut entrer, mais pas sortir. 
+	
+183
+00:09:27,465 --> 00:09:30,772
+ J’aimerais vous présenter le Lieutenant Emma Ingham, votre infirmière pour ce soir. 
+
+184
+00:09:31,306 --> 00:09:32,560
+Salut. Comment allez vous ?	
+
+185
+00:09:32,708 --> 00:09:35,541
+Comme indiqué, je commence votre prophylaxie avec de la streptomycine.
+
+186
+00:09:39,286 --> 00:09:42,141
+ La prophylaxie est prise comme moyen préventif, Tony.
+
+187
+00:09:42,996 --> 00:09:44,023
+ C'est pourquoi je l’utilise. 
+
+188
+00:09:45,207 --> 00:09:46,222
+ Ah, vous n’allez pas l'encourager.
+
+189
+00:09:46,345 --> 00:09:47,380
+ Désolé.
+
+190
+00:09:47,815 --> 00:09:49,640
+ Prenez le lit que vous voulez.
+
+191
+00:09:50,458 --> 00:09:51,482
+ Merci, Emma l’infirmière.
+
+192
+00:09:54,008 --> 00:09:58,323
+ Mais c'est plus prudent de garder une distance au cas où l’un de vous serait infecté. 
+
+193
+00:09:58,446 --> 00:09:59,063
+ Merci, Docteur.
+
+194
+00:09:59,625 --> 00:10:01,382	
+ Brad. Nous sommes informel ici.
+
+195
+00:10:01,695 --> 00:10:02,232
+ Kate.
+
+196
+00:10:06,328 --> 00:10:07,242
+ Et l'utilisation de lampes...
+
+197
+00:10:07,367 --> 00:10:07,953
+ Brad?
+
+198
+00:10:08,498 --> 00:10:10,043
+ ...UV tue les bactéries dans l'air...
+
+199
+00:10:10,156 --> 00:10:12,740
+Je peux vous arranger les lampes comme vous le souhaitez
+
+200
+00:10:12,906 --> 00:10:13,943
+ Oh, pas pour moi.
+
+201
+00:10:14,526 --> 00:10:15,301
+ C'est pour Kate.
+
+202
+00:10:15,627 --> 00:10:16,592
+ Quoi?
+
+203
+00:10:16,928 --> 00:10:19,550
+Ouais, prendre un bain de soleil nue pourrait te débarrasser de ces
+traces de bronzage. 
+
+204
+00:10:20,396 --> 00:10:22,382
+ Docteur, pourriez-vous le faire dormir ? Svp.
+
+205
+00:10:23,136 --> 00:10:23,931
+ Bye, Infirmière Emma.
+
+206
+00:10:24,106 --> 00:10:24,652
+ Bye.
+
+207
+00:10:28,328 --> 00:10:29,130
+ SWAK?
+
+208
+00:10:29,557 --> 00:10:31,580
+ C'est pour "Sealed With a Kiss", Gibbs. [Scellé avec un baiser]
+
+209
+00:10:31,648 --> 00:10:32,931
+N'a tu jamais reçu une lettre d'amour?
+
+210
+00:10:34,425 --> 00:10:35,770
+ Avec une "cher John" ?
+
+211
+00:10:38,005 --> 00:10:39,312
+Je suis désolé pour toi, Gibbs.
+
+212
+00:10:39,505 --> 00:10:40,693
+ Il y a l'adresse de l'expéditeur?
+
+213
+00:10:41,187 --> 00:10:46,501
+ "27 Old Mill Bottom Road, Annapolis, Maryland."
+
+214
+00:10:46,655 --> 00:10:47,233
+ McGee, tu l'as?
+
+215
+00:10:47,586 --> 00:10:48,052
+Ca marche.
+
+216
+00:10:48,298 --> 00:10:49,433
+J'aimerais avoir mon PDA.
+
+217
+00:10:49,655 --> 00:10:50,262
+ Utilise celui de Ducky.
+
+218
+00:10:50,526 --> 00:10:52,373
+ Ah... Agent Gibbs, Monsieur...
+
+219
+00:10:52,478 --> 00:10:54,213
+ Dr. Mallard n'a pas de....
+
+220
+00:10:54,297 --> 00:10:56,643
+Réquisition des téléphones et des armes 
+de mon équipe. Allez !
+
+221
+00:10:57,387 --> 00:10:58,000
+Des pistolets ?
+
+222
+00:10:58,347 --> 00:11:01,222
+ Well, non, Palmer, des arbalètes, si tu penses qu'elles seront plus efficaces.
+
+223
+00:11:02,757 --> 00:11:03,781
+ Une date sur le timbre ?
+
+224
+00:11:04,068 --> 00:11:05,220
+Hier midi, Annapolis.
+
+225
+00:11:05,567 --> 00:11:06,090
+Ouvre-la.
+
+226
+00:11:07,537 --> 00:11:09,093
+Normalement j'attendais un s'il te plait.
+
+227
+00:11:09,467 --> 00:11:10,891
+Mais en reconsidérant la situation...
+
+228
+00:11:11,337 --> 00:11:13,053
+Patron, je ne trouve pas le PDA de Ducky.
+
+229
+00:11:13,277 --> 00:11:15,321
+ McGee, c'est un bloc note et un stylo!!
+
+230
+00:11:19,656 --> 00:11:22,581
+ Ah, magnifique calligraphie.
+
+231
+00:11:23,057 --> 00:11:24,002
+ Très jolie papier.
+
+232
+00:11:24,707 --> 00:11:27,422
+Cela doit être du 120g/m².
+
+233
+00:11:27,528 --> 00:11:29,210
+Abby, Est-ce que cela signifie que tu peux remonter la piste ?
+
+234
+00:11:29,527 --> 00:11:31,703
+Le filigrane m'indiquera où il a été fait,
+
+235
+00:11:31,758 --> 00:11:33,112
+Quand il a été fait et qui l'a vendu.
+
+236
+00:11:33,437 --> 00:11:35,711
+La personne qui a envoyé ceci a pu aussi bien l'avoir signé.
+
+237
+00:11:35,885 --> 00:11:38,400
+Tu sais, il y avait un temps où on apprenait 
+
+238
+00:11:38,526 --> 00:11:39,642
+la calligraphie à chaque jeune femme.
+
+239
+00:11:39,976 --> 00:11:42,480
+Ma mère essaye toujours, mais ses tremblements l'en empêchent.
+
+240
+00:11:42,627 --> 00:11:45,521
+Alors je ne peux même pas lire toutes ses proses.
+
+241
+00:11:45,845 --> 00:11:48,501
+Peux tu lire cette prose, Ducky?
+
+242
+00:11:48,787 --> 00:11:49,370
+ Oh, oui.
+
+243
+00:11:49,495 --> 00:11:50,432
+ C'est parfaitement lisible.
+
+244
+00:11:53,758 --> 00:11:55,440
+ Je pense qu'il veut que tu lises à haute voix.
+
+
+245
+00:11:55,617 --> 00:11:56,272
+ Oh, désolé.
+
+246
+00:11:56,418 --> 00:11:56,902
+ Bien sûr.
+
+247
+00:11:57,457 --> 00:12:01,022
+ Uh... "Si vous lisez ceci et que vous n'avez pas lancé"
+
+248
+00:12:01,105 --> 00:12:05,893
+ "la procédure attaque à l'arme biologique", "je vous suggère de le faire immédiatement,"
+
+249
+00:12:06,097 --> 00:12:09,613
+ "à partir du moment où la poudre s'est dispersé en ouvrant cette enveloppe"
+
+250
+00:12:09,716 --> 00:12:11,632
+ "qui contient une bactérie génétiquement modifié...
+
+251
+00:12:14,807 --> 00:12:17,703
+ ...Y. pestis!" [Yersinia pestis = bacille de Yersin]
+
+252
+00:12:18,267 --> 00:12:19,531
+ C'est du latin pour...?
+
+253
+00:12:23,838 --> 00:12:24,223
+La Peste.
+
+254
+00:12:35,877 --> 00:12:38,462
+ La poudre dans l'enveloppe contient de la peste bubonique?
+
+255
+00:12:38,558 --> 00:12:40,291
+La pulmonaire est tout aussi probable.
+
+256
+00:12:40,998 --> 00:12:42,393
+ Il y a plusieurs types de peste différente?
+
+257
+00:12:42,505 --> 00:12:43,440
+ Oh, en fait il y en a trois.
+
+258
+00:12:44,008 --> 00:12:46,602
+ Mais la pulmonaire est de loin la plus dangereuse du moment qu'elle est répandue,
+
+259
+00:12:46,727 --> 00:12:49,121
+ Elle se transmet simplement par la respiration de bactéries de Y. Pestis.
+
+260
+00:12:50,418 --> 00:12:51,910
+ Tony a du sûrement en respirer.
+
+261
+00:12:52,077 --> 00:12:53,191
+ La bactérie ne peut plus être en vie.
+
+262
+00:12:53,426 --> 00:12:57,272
+Le Y. Pestis a besoin d'un hôte ou d'humidité pour survivre plus que quelques heures.
+
+263
+00:12:57,486 --> 00:13:00,012
+En plus, il a été irradié quand il est passé par le courrier, le patron.
+
+264
+00:13:00,057 --> 00:13:01,622
+ J'ai eu de la "Honey Dust" pour Noël, McGee!
+
+265
+00:13:01,816 --> 00:13:04,512
+Je me fierai qu'à mon test sur la peste pulmonaire.
+
+266
+00:13:04,625 --> 00:13:07,930
+ Si je peux isoler l'infection, donc l’hôpital naval de Bethesda
+ 
+267
+00:13:07,947 --> 00:13:09,690
+ pourra le combattre avec un antibiotique spécifique.
+
+268
+00:13:09,915 --> 00:13:11,600
+ Ouais, bien, cela ne nous aidera pas.
+
+269
+00:13:11,986 --> 00:13:15,912
+C'est écrit ici, "J'ai modifié génétiquement le Yersinia pestis
+
+270
+00:13:15,996 --> 00:13:19,723
+ pour le rendre résistant aux antibiotique"
+
+271
+00:13:20,496 --> 00:13:21,451
+La salope!
+
+272
+00:13:22,328 --> 00:13:25,261
+Elle a crée une bactérie que les antibiotiques ne savent pas combattre!
+
+273
+00:13:25,435 --> 00:13:26,901
+ Ducky, informe l'hôpital naval de Bethesda de cela.
+
+274
+00:13:27,065 --> 00:13:27,470
+ OK.
+
+275
+00:13:28,317 --> 00:13:32,151
+Un SWAK ne signifie pas forcément que cette salope ne peut pas être un salaud.
+
+276
+00:13:32,305 --> 00:13:33,982
+Tu as raison, Gibbs.
+
+277
+00:13:34,228 --> 00:13:35,940
+ J'ai cet ami qui est un travesti.
+
+278
+00:13:36,118 --> 00:13:38,633
+Ses lèvres pouvaient faire un SWAK encore plus gros que Angelina Jolie.
+
+279
+00:13:39,026 --> 00:13:39,831
+Tu t'en rappel, McGee?
+
+280
+00:13:39,917 --> 00:13:41,073
+ Tu l'avais rencontré à mon anniversaire.
+
+281
+00:13:42,127 --> 00:13:44,493
+Ouais. La, uh, minijupe rouge avec le corps en plastique...
+
+282
+00:13:44,807 --> 00:13:46,190
+ Je t'ai vu, Gibbs!
+
+283
+00:13:47,447 --> 00:13:48,662
+ Lis, où cela va mal se passer!
+
+284
+00:13:49,416 --> 00:13:50,552
+Pas tant que tu seras en bas.
+
+285
+00:13:50,867 --> 00:13:51,361
+ Quoi?
+
+286
+00:13:51,657 --> 00:13:53,712
+"Cependant, il y a un antidote. "
+
+287
+00:13:53,858 --> 00:13:55,191
+c'est un coup de maitre!
+
+288
+00:13:55,477 --> 00:13:59,942
+ "...qui, si administré dans les 32 heures suivant l'infection, éradiquera la maladie".
+
+289
+00:14:00,367 --> 00:14:04,530
+ "Pour se procurer l'antidote, le NCIS doit rendre publique les vrais résultats"
+
+290
+00:14:04,648 --> 00:14:07,682
+ " du rapport d'enquête R-0377."
+
+291
+00:14:07,837 --> 00:14:08,561
+ McGee, retrouve le dossier.
+
+292
+00:14:08,728 --> 00:14:10,162
+ Ouais. Romeo 0377.
+
+293
+00:14:10,276 --> 00:14:10,860
+C'est parti, boss!
+
+294
+00:14:11,038 --> 00:14:11,540
+C'est tout?
+
+295
+00:14:11,697 --> 00:14:12,851
+ C'est tout ce qu'elle a écrit.
+
+296
+00:14:16,648 --> 00:14:17,892
+C’est doré à l'intérieur.
+
+297
+00:14:18,405 --> 00:14:20,270
+Je peux voir le SWAK à travers...
+
+298
+00:14:25,835 --> 00:14:27,121
+Nous avons une bande humide dedans!
+
+299
+00:14:27,406 --> 00:14:29,712
+ Ouais, maintenant la bactérie étais vivante jusqu'à ce que la lettre soit ouverte.
+
+300
+00:14:29,895 --> 00:14:30,561
+J'en ai peur, Gibbs.
+
+301
+00:14:30,777 --> 00:14:32,131
+Vérifie la date du timbre, Abs!
+
+302
+00:14:32,528 --> 00:14:36,773
+ Dans un premier temps, regarde si l'irridiation du courrier bureau de poste a bien été efficace!
+
+303
+00:14:39,025 --> 00:14:40,991
+ Je-je parle avec un certain Docteur Brad Pitt.
+
+304
+00:14:41,235 --> 00:14:41,982
+Tu plaisantes.
+
+305
+00:14:42,307 --> 00:14:43,080
+ Non, c'est son nom.
+
+306
+00:14:43,256 --> 00:14:46,481
+ Il a fait signifier qu'il n'avait aucun lien de quelque façon avec l'acteur.
+			
+307
+00:14:46,935 --> 00:14:49,371
+Hé, vous avez su que, Brad et Jennifer se sont séparés...
+
+308
+00:14:49,517 --> 00:14:49,921
+ Abby!
+
+309
+00:14:50,386 --> 00:14:53,193
+ Gibbs, Je ne peux pas jusqu'à ce que je puisse mettre ceci sous un microscope.
+
+310
+00:14:53,345 --> 00:14:56,702
+Et je ne peux pas faire jusqu'à le NCIS me donne l'approbation pour l'irradier.
+
+311
+00:14:55,918 --> 00:14:58,343
+ Ok. C'est pour quand?
+
+312
+00:14:58,546 --> 00:15:00,550
+ La Marine envoie un échantillon à Atlanta.
+
+313
+00:15:00,676 --> 00:15:01,511
+ Il devrait être là bas...
+
+314
+00:15:02,516 --> 00:15:03,781
+ Heu, maintenant.
+
+315
+00:15:04,085 --> 00:15:06,302
+ Et cela prendra 12 heures pour la confirmation ADN.
+
+316
+00:15:06,537 --> 00:15:07,972
+ Duck, Quel est la durée de l'incubation?
+
+317
+00:15:08,245 --> 00:15:09,230
+Un jour au mieux.
+
+318
+00:15:09,716 --> 00:15:10,920
+En combien de temps cela tue?
+
+319
+00:15:11,287 --> 00:15:12,721
+ Oh, j’ai peur que cela soit rapide.
+
+320
+00:15:13,157 --> 00:15:18,753
+Au quatorzième siècle, le romancier Boccaccio a écrit que les victimes
+
+321
+00:15:18,836 --> 00:15:20,971
+ de cette peste déjeunaient avec leur amis et dînaient 
+
+322
+00:15:21,066 --> 00:15:23,263
+ avec leur ancêtre au paradis.
+
+323
+00:15:25,027 --> 00:15:25,690
+ McGee, Ou est ce dossier?
+
+324
+00:15:25,908 --> 00:15:26,941
+ Boss, je ne peux pas y accéder...
+
+325
+00:15:27,116 --> 00:15:28,431
+ Ducky, nous arrivons!
+
+326
+00:15:28,715 --> 00:15:30,273
+ Non, on en a déjà parlé, Gibbs.
+
+327
+00:15:30,386 --> 00:15:30,951
+ Vous ne devez pas!
+
+328
+00:15:35,455 --> 00:15:37,200
+Tu sais comme qui je me sens?
+
+329
+00:15:38,606 --> 00:15:39,913
+ J'ai peur demander.
+
+330
+00:15:40,517 --> 00:15:41,763
+ Comme le "King of Cool".
+
+331
+00:15:42,468 --> 00:15:43,092
+ Elvis?
+
+332
+00:15:43,896 --> 00:15:45,742
+ Elvis étais le "King of Rock and Roll".
+
+333
+00:15:45,846 --> 00:15:48,493
+ Travolta est le "King of Cool".
+
+334
+00:15:48,738 --> 00:15:50,721
+ Bien, merci pour ton éclaircissement.
+
+335
+00:15:51,797 --> 00:15:54,060
+ Et sais tu pourquoi je me sens comme Travolta?
+
+336
+00:15:55,105 --> 00:15:56,582
+Je me sens comme dans un film.
+
+337
+00:15:57,825 --> 00:15:59,711
+ "Le Garçon dans la Bulle en Plastique".
+
+338
+00:16:00,705 --> 00:16:03,291
+Travolta joue ce garçon né avec une déficience immunitaire.
+
+339
+00:16:03,557 --> 00:16:04,783
+ C’était avant le SIDA.
+
+340
+00:16:05,835 --> 00:16:08,323
+Il vie dans cette bulle en plastique géante.
+
+341
+00:16:08,956 --> 00:16:09,641
+ Tony...
+
+342
+00:16:11,076 --> 00:16:12,112
+ Tony, s'il te plait.
+
+343
+00:16:12,525 --> 00:16:13,943
+Nous sommes coincés ici ensemble.
+
+344
+00:16:14,608 --> 00:16:15,661
+Pouvons nous juste faire un marché?
+
+345
+00:16:16,748 --> 00:16:20,920
+ Jusqu'à ce que nous soyons dehors, je ne me moquerais plus des stupidités que tu sors,
+			
+346
+00:16:21,696 --> 00:16:24,230
+et toi tu ne me racontes plus de scénarios de film.
+
+347
+00:16:24,996 --> 00:16:25,563
+ Marché conclu?
+
+348
+00:16:25,895 --> 00:16:26,593
+Marché conclu.
+
+349
+00:16:27,108 --> 00:16:28,000
+Merci.
+
+350
+00:16:29,998 --> 00:16:30,903
+ Emma.
+
+351
+00:16:31,126 --> 00:16:31,640
+ Oui?
+
+352
+00:16:31,856 --> 00:16:33,383
+ Vous allez trouvez ceci intéressant.
+
+353
+00:16:33,637 --> 00:16:35,142
+Vous êtes très jolies sans masque, d'ailleurs.
+
+354
+00:16:35,355 --> 00:16:37,061
+ Ralph Bellamy joue le docteur.
+
+355
+00:16:37,156 --> 00:16:39,460
+Maintenant, Ralph Bellamy était ce vieux grand acteur.
+
+356
+00:16:39,558 --> 00:16:41,853
+Il était dans "His Girl Friday" avec Cary Grant et Rosalind Russell.
+
+357
+00:16:42,045 --> 00:16:45,140
+ Je ne peux pas croire que Gibbs casse le protocole!
+
+358
+00:16:47,515 --> 00:16:49,052
+Il ne l'a pas fait.
+
+359
+00:16:49,346 --> 00:16:50,101
+Il a quitté la salle d'autopsie.
+
+360
+00:16:50,517 --> 00:16:51,782
+Mais pas l'isolation.
+
+361
+00:16:51,888 --> 00:16:55,731
+ McGee.
+
+362
+00:16:55,976 --> 00:16:56,410
+Ouais?
+
+363
+00:16:56,525 --> 00:16:59,462
+Tu utilises l'ordinateur de Abby pour accéder à ce dossier.
+
+364
+00:16:59,657 --> 00:17:00,012
+ Ca marche.
+
+365
+00:17:00,186 --> 00:17:00,571
+ Ok.
+
+366
+00:17:07,827 --> 00:17:08,430
+ Abby.
+
+367
+00:17:08,505 --> 00:17:09,732
+Met la surveillance vidéo de la salle principale.
+
+368
+00:17:09,826 --> 00:17:12,172
+Tout depuis 23h00 hier soir, quand je suis parti,
+
+369
+00:17:12,257 --> 00:17:13,580
+jusqu'à ce que McGee arrive ce matin.
+
+370
+00:17:13,827 --> 00:17:15,182
+Tu as le droit vivre [life], Gibbs.
+
+371
+00:17:15,968 --> 00:17:17,621
+La dernière chose dont j'ai besoin c'est d'une femme [wife]
+
+372
+00:17:18,305 --> 00:17:20,193
+ Vivre [Life]. Tu as le droit de vivre.
+
+373
+00:17:24,738 --> 00:17:27,280
+Patron! Patron, j'ai trouvé le dossier.
+
+374
+00:17:27,387 --> 00:17:28,073
+C'est une affaire de viol.
+
+375
+00:17:28,307 --> 00:17:30,382
+ Fais venir l'agent responsable de l'enquête ici.
+
+376
+00:17:30,536 --> 00:17:32,703
+Je-je ne peux pas. C'était Pacci.
+
+377
+00:17:41,548 --> 00:17:43,071
+ Affiche tout sur le plasma, McGee.
+
+378
+00:17:43,228 --> 00:17:43,642
+ Ok.
+
+379
+00:17:48,018 --> 00:17:49,971
+ Sarah Lowell, âgé de 21 ans.
+
+380
+00:17:50,145 --> 00:17:51,300
+Premier maître à Vassar.
+
+381
+00:17:51,596 --> 00:17:55,500
+Violé le 10 Février 2001, à l' "Admiral's Bay Hotel" à Annapolis.
+
+382
+00:17:55,655 --> 00:17:57,273
+ Tu te rappels sûrement de cette affaire, Jethro.
+
+383
+00:17:57,766 --> 00:18:00,530
+La bonne a trouvé la pauvre fille nue, attaché au lit
+
+384
+00:18:00,635 --> 00:18:02,362
+Deux jours après qu'elle a été violée.
+
+385
+00:18:02,705 --> 00:18:04,712
+ Duck, appel Cassie Yates à Norfolk.
+
+386
+00:18:04,886 --> 00:18:05,800
+ Dis lui ce qu'il passe.
+
+387
+00:18:06,056 --> 00:18:06,782
+ J'ai besoin de son aide.
+
+388
+00:18:07,048 --> 00:18:07,782
+ Ouais, bonne idée.
+
+389
+00:18:08,297 --> 00:18:11,813
+ Gibbs, Je pensais que Cassie travaillait à la suppression de narcotiques ?
+		
+390
+00:18:12,116 --> 00:18:15,072
+Il y a 4 ans, Cassie était la bizut de Pacci.
+
+391
+00:18:15,395 --> 00:18:18,402
+La victime visitait Annapolis pour s'inscrire
+
+392
+00:18:18,436 --> 00:18:21,051
+ à un programme d'étude avancé à Saint John's.
+
+393
+00:18:21,415 --> 00:18:24,612
+ La police a eu l'affaire entre les mains pendant trois jours avant qu'elle nous ait appelé.
+
+394
+00:18:24,828 --> 00:18:26,112
+Ils trouvèrent un suspect appartenant à la Marine.
+
+395
+00:18:26,645 --> 00:18:30,023
+ Une douzaine d'entre eux, des anciens de la première guerre mondiale, était à l'hotel la nuit du drame.
+			
+396
+00:18:30,287 --> 00:18:31,621
+ "Des anciens"?
+
+397
+00:18:31,908 --> 00:18:32,951
+ Academy seniors.
+
+398
+00:18:33,417 --> 00:18:35,401
+ Ils ont juste recçu des médailles...
+
+399
+00:18:35,547 --> 00:18:36,810
+ Es tu entrain de visionner?
+
+400
+00:18:37,005 --> 00:18:38,902
+ Gibbs, je peux faire plusieurs choses à la fois: je peux t'écouter,
+
+401
+00:18:38,937 --> 00:18:41,063
+Je peux visionner la vidéo, Je peux me frotter le ventre...
+
+402
+00:18:41,158 --> 00:18:42,653
+ Les tests ADN les ont tous blanchis.
+
+403
+00:18:43,007 --> 00:18:44,160
+Ce qui stoppa notre enquête.
+
+404
+00:18:44,398 --> 00:18:45,832
+Mais quelqu'un veut la rouvrir.
+
+405
+00:18:45,996 --> 00:18:47,950
+ McGee!
+
+406
+00:18:49,357 --> 00:18:50,360
+Appel la police de Annapolis.
+
+407
+00:18:50,715 --> 00:18:52,183
+Je veux leur dossier sur cette affaire.
+
+408
+00:18:52,586 --> 00:18:53,463
+J'ai parlé à Cassie.
+
+409
+00:18:53,616 --> 00:18:54,670
+Elle se souvient de l'affaire.
+
+410
+00:18:54,835 --> 00:18:56,400
+Elle sera là dans 15 minutes.
+
+411
+00:18:56,578 --> 00:18:57,411
+De Norfolk?
+
+412
+00:18:57,607 --> 00:18:58,583
+Non, Anacostia.
+
+413
+00:18:58,725 --> 00:19:00,122
+Elle travaille sous couverture dans un réseau de drogue.
+
+414
+00:19:00,395 --> 00:19:02,060
+ Patron... Patron, je ne peux pas appeler.
+
+415
+00:19:02,147 --> 00:19:03,593
+Ils ne vont pas pouvoir m'entendre.
+
+416
+00:19:06,176 --> 00:19:07,333
+Je vais utiliser l'ordinateur.
+
+417
+00:19:07,467 --> 00:19:08,050
+ Gibbs!
+
+418
+00:19:10,328 --> 00:19:11,470
+Regardez qui d'autre n'a pas de vie.
+
+419
+00:19:13,088 --> 00:19:14,423
+ Tony est revenu autour de minuit.
+
+420
+00:19:14,795 --> 00:19:18,682
+ Il fait son meilleur travail la nuit.
+
+421
+00:19:19,878 --> 00:19:21,370
+C'est ce qu'il nous a dit.
+
+422
+00:19:21,717 --> 00:19:22,621
+Voici le départ de Tony.
+
+423
+00:19:27,397 --> 00:19:28,611
+ Ca c'est Ben, le coursier.
+
+424
+00:19:29,427 --> 00:19:30,190
+Il n'a pas pu le faire.
+
+425
+00:19:30,585 --> 00:19:31,182
+Pourquoi?
+
+426
+00:19:31,188 --> 00:19:33,002
+C'est un vegan.[ Association pour la protection des animaux]
+
+427
+00:19:33,036 --> 00:19:34,230
+ Hitler était un vegan.
+
+428
+00:19:34,485 --> 00:19:35,922
+ Hitler était végétarien.
+
+429
+00:19:36,135 --> 00:19:37,230
+Grosse différence.
+
+430
+00:19:38,386 --> 00:19:41,542
+Les Vegans sont contre la cruauté animal, ils n'emploieront pas même
+des produits de beauté expérimenté sur les animaux.
+ 
+431
+00:19:41,905 --> 00:19:42,680
+ Abigail?
+
+432
+00:19:42,886 --> 00:19:44,053
+Peut-être...
+
+433
+00:19:44,635 --> 00:19:48,982
+ La Y. Pestis modifié peut-elle résister aux irradiations?
+
+434
+00:19:49,257 --> 00:19:49,710
+ Aucune chance.
+
+435
+00:19:49,976 --> 00:19:52,062
+ Modifié ou pas, cela reste un organisme vivant.
+
+436
+00:19:52,345 --> 00:19:55,390
+ La dorure dans l'enveloppe a-t-elle pu la protéger?
+
+437
+00:19:55,915 --> 00:19:58,183
+Elle aurait du être beaucoup plus épaisse pour cela.
+
+438
+00:19:58,625 --> 00:19:59,763
+C'est à peine un...
+
+439
+00:20:03,448 --> 00:20:06,023
+ Abby, Abby, je ne veux plus entendre d'uh-ohs.
+
+440
+00:20:06,357 --> 00:20:06,943
+ Désolé.
+
+441
+00:20:07,345 --> 00:20:09,111
+Mais ce SWAK n'est pas passé à travers.
+
+442
+00:20:10,096 --> 00:20:11,333
+ Il y en a un autre à l'intérieur.
+
+443
+00:20:11,456 --> 00:20:13,461
+Sors cette lettre d'ici afin de l'examiner!!
+ Get that letter out here where you can examine it!
+
+444
+00:20:13,617 --> 00:20:15,953
+ Gibbs, Je te l'ai dis, je dois attendre d'Atlanta les ...
+
+445
+00:20:16,047 --> 00:20:17,913
+Un seul doute sur le fait que cela soit la peste pulmonaire?
+
+446
+00:20:18,216 --> 00:20:18,883
+ Non, mais...
+
+447
+00:20:19,136 --> 00:20:20,803
+Alors pas de mais, ok?
+
+448
+00:20:21,267 --> 00:20:22,292
+On perd du temps.
+
+449
+00:20:23,526 --> 00:20:24,602
+Tue cette bactérie!
+
+450
+00:20:27,347 --> 00:20:27,983
+Maintenant!
+
+451
+00:20:32,536 --> 00:20:33,880
+ Penses tu vraiment qu'ils tue les bactéries?
+
+452
+00:20:34,786 --> 00:20:36,350
+Quoi?
+
+453
+00:20:36,938 --> 00:20:38,072
+Ces "blue lights". [Lumière noir ou Ultraviolet]
+
+454
+00:20:38,745 --> 00:20:39,571
+Es tu sérieux?
+
+455
+00:20:41,235 --> 00:20:42,810
+Jamais entendu parler d'un placebo, Kate?
+
+456
+00:20:46,175 --> 00:20:47,172
+ Tony...
+
+457
+00:20:48,178 --> 00:20:50,732
+Les placebos sont administrés pour un effet psychologique.
+
+458
+00:20:51,745 --> 00:20:53,442
+Avec précision. Comment sais-tu que ces lampes
+
+459
+00:20:53,536 --> 00:20:57,332
+ ne sont là que pour nous faire penser elles vont nous aider, hmm?
+
+460
+00:20:57,925 --> 00:21:02,671
+Peut-être parce que elles sont là pour tuer les bactéries que nous respirons.
+
+461
+00:21:06,635 --> 00:21:07,543
+Tu marques un point.
+
+462
+00:21:10,185 --> 00:21:11,272
+Tu as peur, n'est-ce pas ?
+
+463
+00:21:13,937 --> 00:21:14,790
+Kate, allons.
+
+464
+00:21:15,988 --> 00:21:17,280
+Moi, peur ?
+
+465
+00:21:18,475 --> 00:21:19,491
+Tu m'as déjà vu avoir peur ?
+
+466
+00:21:20,606 --> 00:21:22,783
+Eh bien, pas quand c'est un danger 
+que l'on peut affronter.
+
+467
+00:21:26,186 --> 00:21:31,510
+Mais tout ce qu'on peut faire ici est 
+espérer qu'on n'est pas infecté..
+
+468
+00:21:33,835 --> 00:21:34,910
+Qui a peur maintenant ?
+
+469
+00:21:36,318 --> 00:21:37,470
+Quiconque possède une moitié de cerveau.
+
+470
+00:21:38,727 --> 00:21:40,943
+Je retire ça.
+
+471
+00:21:41,645 --> 00:21:43,101
+Tu n'as pas peur.
+
+472
+00:21:52,078 --> 00:21:55,992
+Toutes les analyses de sang sont négatives 
+sauf pour l'Agent Spécial DiNozzo.
+
+473
+00:21:59,208 --> 00:22:00,863
+Il est infecté par Y. Pestis. [La peste]
+
+474
+00:22:33,795 --> 00:22:34,543
+Bon sang, Abby.
+
+475
+00:22:34,615 --> 00:22:35,340
+Combien de temps ?
+
+476
+00:22:35,486 --> 00:22:36,000
+Gibbs.
+
+477
+00:22:36,256 --> 00:22:38,383
+La patience n'est pas ta vertu, hein ?
+
+478
+00:22:37,835 --> 00:22:39,420
+Regarde sur l'écran plasma.
+
+479
+00:22:45,377 --> 00:22:46,240
+Du pain moisi ?
+
+480
+00:22:46,825 --> 00:22:49,170
+C'est un microbe de Y. pestis venant 
+de la poudre dans la lettre.
+
+481
+00:22:49,598 --> 00:22:51,931
+Voici Y. Pestis telle qu'on la connait,
+
+482
+00:22:52,026 --> 00:22:54,941
+Celle qui est traitée par nos antibiotiques depuis un demi millénaire.
+
+483
+00:22:55,575 --> 00:22:56,873
+Celle de la lettre a un bout bleu.
+
+484
+00:22:57,157 --> 00:22:59,693
+Elle a été génétiquement modifiée pour résister aux antibiotiques.
+
+485
+00:23:00,128 --> 00:23:02,003
+Tu attrapes ça, tu reviens au Moyen-Âge,
+
+486
+00:23:02,087 --> 00:23:05,232
+Ce qui ne me dérangerait pas personnellement, jusqu’à ce que ça me tue.
+
+487
+00:23:05,478 --> 00:23:07,720
+Ça ne sort pas d'un petit labo de medecine.
+
+488
+00:23:07,976 --> 00:23:10,671
+Non, ça nécessite un biologiste moléculaire
+
+489
+00:23:10,775 --> 00:23:13,180
+et un gros labo friqué pour faire ce type d'arme biologique.
+
+490
+00:23:13,348 --> 00:23:15,061
+Oh, mon bébé m'appelle.
+
+491
+00:23:15,698 --> 00:23:17,400
+J'ai passé le SWAK au spectromètre de masse.
+
+492
+00:23:19,385 --> 00:23:21,392
+Tu analyses le rouge à lèvres et pas la lettre ?
+
+493
+00:23:21,656 --> 00:23:25,443
+Ben, j'ai pensé qu'une personne qui fait de la calligraphie utiliserait un rouge à lèvres ésotérique.
+
+494
+00:23:25,455 --> 00:23:27,991
+Et depuis que tous les rouges à lèvres sont testés par la FDA... [Food and Drug administration = agence qui contrôle les produits pharmaceutiques]
+
+495
+00:23:28,196 --> 00:23:29,122
+Tu vas identifier la marque.
+
+496
+00:23:29,325 --> 00:23:32,350
+Ouais. Si c'est aussi rare que je le pense, je peux trouver qui l'a vendu.
+
+497
+00:23:32,617 --> 00:23:33,920
+Oh oui, c'est bien pensé, Abbs.
+
+498
+00:23:34,356 --> 00:23:34,763
+Quoi ?
+
+499
+00:23:34,937 --> 00:23:35,920
+Bien pensé, Abby !
+
+500
+00:23:36,347 --> 00:23:37,713
+Je ne sais pas, Gibbs, je ne peux pas t'entendre.
+
+501
+00:23:37,756 --> 00:23:38,460
+C'est sûrement ton casque.
+
+502
+00:23:38,547 --> 00:23:39,361
+Bien pensé.
+
+503
+00:23:39,398 --> 00:23:40,720
+Pas gentil, Gibbs.
+
+504
+00:23:41,027 --> 00:23:41,632
+Pas gentil.
+
+505
+00:23:43,655 --> 00:23:44,380
+C'est bizarre.
+
+506
+00:23:45,208 --> 00:23:48,282
+Tous les ingrédients de base sont là : 
+cire, huile, colorant à l'éosine,
+
+507
+00:23:48,426 --> 00:23:52,023
+dioxyde de titanium, mais à des niveaux si bas...
+
+508
+00:23:53,885 --> 00:23:54,273
+Whoa.
+
+509
+00:23:54,366 --> 00:23:54,842
+Qu'est-ce que c'est ?
+
+510
+00:23:55,375 --> 00:23:59,103
+La raison pour laquelle la Y. Pestis a survécu à l'irradiation du courrier.
+
+511
+00:23:59,797 --> 00:24:02,993
+72% du rouge à lèvres est fait de plomb pur.
+
+512
+00:24:07,048 --> 00:24:09,740
+Un SWAK en plomb à l'extérieur de l'enveloppe.
+
+513
+00:24:09,925 --> 00:24:11,591
+Un autre à l'intérieur.
+
+514
+00:24:11,948 --> 00:24:12,790
+Entre les deux ?
+
+515
+00:24:13,506 --> 00:24:15,901
+Le Y. pestis sur un tampon humide.
+
+516
+00:24:17,265 --> 00:24:19,013
+C'est une sacrée garce.
+
+517
+00:24:19,265 --> 00:24:20,721
+Tu as fini avec tes vulgarités !
+
+518
+00:24:21,486 --> 00:24:22,143
+Cassie.
+
+519
+00:24:23,566 --> 00:24:26,331
+Eh bien, tu combats la drogue où tu la vends ?
+
+520
+00:24:26,436 --> 00:24:27,382
+Travail sous couverture.
+
+521
+00:24:27,636 --> 00:24:28,790
+Tout ce que je porte a été confisqué,
+
+522
+00:24:28,877 --> 00:24:30,021
+même les sous-vêtements La Perla.
+
+523
+00:24:30,138 --> 00:24:30,703
+Chouette.
+
+524
+00:24:30,848 --> 00:24:32,673
+Gibbs, c'est toi qui joues les Teletubbies ?
+
+525
+00:24:34,145 --> 00:24:34,950
+C'est la lettre à l'anthrax ?
+
+526
+00:24:35,098 --> 00:24:36,801
+Ce n'est pas de l'anthrax, c'est la peste.
+
+527
+00:24:37,088 --> 00:24:37,863
+Dieu merci.
+
+528
+00:24:37,968 --> 00:24:39,670
+L'Anthrax me fiche une trouille bleue. Je peux ?
+
+529
+00:24:39,788 --> 00:24:40,181
+Ouais.
+
+530
+00:24:43,916 --> 00:24:44,902
+Je connais l'adresse de l'expediteur.
+
+531
+00:24:45,287 --> 00:24:48,772
+Je l'ai remonté jusqu'à l'hôtel Admiral's Bay à Annapolis, où la fille a été violée.
+
+532
+00:24:48,958 --> 00:24:49,742
+Gibbs. Gibbs.
+
+533
+00:24:49,886 --> 00:24:52,473
+Tous les tests sanguins sont négatifs sauf...
+
+534
+00:24:52,677 --> 00:24:53,140
+Tony.
+
+535
+00:24:53,335 --> 00:24:54,050
+Ouais.
+
+536
+00:24:54,427 --> 00:24:55,583
+Lâche le morceau, Duck.
+
+537
+00:24:57,385 --> 00:24:58,023
+Il est déjà malade ?
+
+538
+00:24:58,386 --> 00:25:01,342
+Pas visiblement, mais le médecin dit que sa température montait.
+
+539
+00:25:01,507 --> 00:25:03,882
+Le Y. pestis attaque son système pulmonaire.
+
+540
+00:25:04,608 --> 00:25:05,261
+Salut, Cassie.
+
+541
+00:25:05,515 --> 00:25:05,923
+Salut, Ducky.
+
+542
+00:25:06,195 --> 00:25:07,951
+On en est où de notre fenêtre de 32 heures ?
+
+543
+00:25:08,157 --> 00:25:08,782
+Trop loin.
+
+544
+00:25:08,948 --> 00:25:10,483
+Tony va commencer à tousser bientôt.
+
+545
+00:25:10,557 --> 00:25:13,540
+Quand il crachera du sang, il ne lui restera que quelques heures à vivre.
+
+546
+00:25:13,658 --> 00:25:15,152
+Abby, sors cette foutue lettre de là-dedans.
+
+547
+00:25:15,385 --> 00:25:15,963
+Je suis en train de le faire.
+
+548
+00:25:21,137 --> 00:25:22,803
+C'est trop facile, Gibbs.
+
+549
+00:25:24,075 --> 00:25:25,843
+Une calligraphie et un papier personnalisé faciles à pister.
+
+550
+00:25:26,146 --> 00:25:27,410
+Un agent biologique génétiquement modifié.
+
+551
+00:25:28,976 --> 00:25:29,673
+Tu sais qui l'a envoyée.
+
+552
+00:25:29,958 --> 00:25:30,583
+Non.
+
+553
+00:25:31,157 --> 00:25:32,621
+Mais je sais qui ils veulent que nous suspections.
+
+554
+00:25:34,156 --> 00:25:35,153
+Même en nocturne, Brad ?
+
+555
+00:25:35,556 --> 00:25:38,861
+L'intraveineuse augmente l'efficacité de la streptomycine.
+
+556
+00:25:39,316 --> 00:25:41,283
+Ils vous ont appris à être efficaces à Harvard ?
+
+557
+00:25:41,575 --> 00:25:42,293
+Michigan.
+
+558
+00:25:45,917 --> 00:25:46,483
+Pas possible.
+
+559
+00:25:47,385 --> 00:25:48,043
+C'est trop bizarre.
+
+560
+00:25:48,366 --> 00:25:49,791
+Pourquoi, vous êtes un « Wolverine », aussi ? [Glouton]
+
+561
+00:25:49,807 --> 00:25:50,983
+« Buckeye » [Oeil du mâle].
+
+562
+00:25:53,647 --> 00:25:54,540
+Attendez.
+
+563
+00:25:54,635 --> 00:25:55,380
+Vous êtes ce DiNozzo ?
+
+564
+00:25:55,975 --> 00:25:57,133
+1992. Columbus.
+
+565
+00:25:57,555 --> 00:25:58,572
+On a embrassé nos soeurs.
+
+566
+00:25:58,865 --> 00:26:00,180
+Egalité 13 à 13.
+
+567
+00:26:00,358 --> 00:26:01,692
+Vous vous êtes cassé la jambe dans le 4ème quart.
+
+568
+00:26:01,898 --> 00:26:03,693
+Vous m'avez cassé la jambe dans le 4ème quart.
+
+569
+00:26:03,985 --> 00:26:04,941
+Oh, Mon Dieu.
+
+570
+00:26:06,027 --> 00:26:07,663
+Ils vont faire péter les bières bientôt.
+
+571
+00:26:09,317 --> 00:26:10,790
+Je ne crois pas.
+
+572
+00:26:11,285 --> 00:26:12,833
+Oh non, vous ne connaissez pas Tony.
+
+573
+00:26:13,128 --> 00:26:14,842
+Il est resté en deuxième année de fac.
+
+574
+00:26:15,426 --> 00:26:17,233
+Son test sanguin est revenu positif.
+
+575
+00:26:23,218 --> 00:26:23,932
+Positif...
+
+576
+00:26:24,317 --> 00:26:24,810
+Vous allez bien.
+
+577
+00:26:25,215 --> 00:26:26,513
+Il est le seul infecté.
+
+578
+00:26:27,938 --> 00:26:29,013
+Alors, vous ne vous sentez pas comme un vieil homme en vacances de printemps ?
+
+579
+00:26:29,425 --> 00:26:30,220
+Vous plaisantez ?
+
+580
+00:26:32,275 --> 00:26:37,743
+Les étudiantes adorent les hommes matures qui peuvent 
+s'enfiler une bière en moins de 6 sec.
+
+581
+00:26:39,035 --> 00:26:40,211
+Je suis hors course.
+
+582
+00:26:44,446 --> 00:26:46,052
+Alors dites-moi, Doc, qu'est-ce que j'ai ?
+
+583
+00:26:49,987 --> 00:26:50,743
+La peste pulmonaire.
+
+584
+00:26:51,525 --> 00:26:53,450
+La peste ?
+
+585
+00:26:57,658 --> 00:26:59,001
+La peste.
+
+586
+00:26:59,235 --> 00:27:00,081
+Ouais, Tony, la peste.
+
+587
+00:27:00,527 --> 00:27:03,031
+Parce qu'il n'y a que toi pour attraper une maladie du moyen-âge.
+
+588
+00:27:03,526 --> 00:27:05,162
+Je n'ai pas mis la peste dans la lettre.
+
+589
+00:27:05,295 --> 00:27:05,740
+Tu l'as ouverte.
+
+590
+00:27:06,045 --> 00:27:07,213
+Ouais, je l'ai ouverte.
+
+591
+00:27:07,335 --> 00:27:08,621
+Qu'est-ce qui t'énerve à ce point ?
+
+592
+00:27:08,808 --> 00:27:09,670
+On croirait que toi aussi...
+
+593
+00:27:12,346 --> 00:27:13,060
+Ouais.
+
+594
+00:27:13,157 --> 00:27:14,093
+C'est vrai, Travolta.
+
+595
+00:27:15,657 --> 00:27:16,793
+Je suis infectée aussi.
+
+596
+00:27:20,968 --> 00:27:22,103
+Oh, Kate, je suis désolé.
+
+597
+00:27:22,816 --> 00:27:23,682
+Ben, tu vas être encore plus désolé.
+
+598
+00:27:24,466 --> 00:27:26,891
+Non. Ne me dis pas que Gibbs l'a aussi ?
+
+599
+00:27:27,055 --> 00:27:28,620
+Non, non. Seulement nous.
+
+600
+00:27:29,047 --> 00:27:31,432
+Mais je vais faire de ta vie un enfer.
+
+601
+00:27:32,086 --> 00:27:33,522
+Comment ? Tu ne peux pas être pire que avec la peste.
+
+602
+00:27:35,277 --> 00:27:35,891
+Peut-être que tu peux.
+
+603
+00:27:36,607 --> 00:27:37,312
+Peut-être qu'elle peut.
+
+604
+00:27:37,715 --> 00:27:38,613
+Je te préviens, DiNozzo.
+
+605
+00:27:39,145 --> 00:27:43,271
+Tu sais, je me rappelle un ou deux trucs sur la peste.
+
+606
+00:27:43,635 --> 00:27:45,173
+Je vais dire à Emma tous tes trucs de drague.
+
+607
+00:27:45,407 --> 00:27:47,620
+Je pense à « La Chair Et Le Sang ».
+
+608
+00:27:47,765 --> 00:27:48,882
+Réalisé par Paul Verhoeven.
+
+609
+00:27:48,957 --> 00:27:50,010
+Avec Rutger Hauer.
+
+610
+00:27:50,205 --> 00:27:52,443
+Tony pense que parler en italien rend les femmes dingues.
+
+611
+00:27:52,538 --> 00:27:55,150
+Apparemment, tu n'as jamais vu Jamie Lee Curtis 
+dans « Un Poisson Nommé Wanda ».
+
+612
+00:27:55,367 --> 00:27:55,700
+Kate...
+
+613
+00:27:56,188 --> 00:27:56,701
+Je sais.
+
+614
+00:27:57,365 --> 00:27:58,273
+Vous voulez poser mon intraveineuse.
+
+615
+00:27:59,088 --> 00:28:02,790
+Si j'attrape ton rhume, je vais être très fâché.
+
+616
+00:28:07,528 --> 00:28:08,521
+Elle va aller bien, n'est-ce pas ?
+
+617
+00:28:14,518 --> 00:28:14,992
+Hé, McGee.
+
+618
+00:28:15,076 --> 00:28:15,890
+Ouais ?!
+
+619
+00:28:16,058 --> 00:28:17,490
+L'agent Spécial Yates a besoin de ton ordinateur.
+
+620
+00:28:17,996 --> 00:28:18,550
+Cassie.
+
+621
+00:28:18,668 --> 00:28:19,240
+Hé, McGee.
+
+622
+00:28:19,326 --> 00:28:19,860
+Je peux m'asseoir ?
+
+623
+00:28:20,037 --> 00:28:20,833
+Ouais, ouais, ouais, bien sûr.
+
+624
+00:28:21,616 --> 00:28:22,070
+Patron...
+
+625
+00:28:22,397 --> 00:28:25,030
+Cassie et moi avions des places de parking côte à côte à Norfolk.
+
+626
+00:28:25,405 --> 00:28:26,660
+Pourquoi tu me hurles dessus, McGee ?
+
+627
+00:28:27,337 --> 00:28:29,971
+Pour que vous puissiez m'entendre 
+à travers votre... casque.
+
+628
+00:28:30,578 --> 00:28:31,983
+Les tests sanguins sont négatifs.
+
+629
+00:28:35,065 --> 00:28:35,661
+Cool.
+
+630
+00:28:35,977 --> 00:28:36,770
+Pas pour DiNozzo.
+
+631
+00:28:37,385 --> 00:28:38,533
+Positif ?
+
+632
+00:28:40,357 --> 00:28:41,171
+Il va s'en sortir ?
+
+633
+00:28:41,997 --> 00:28:44,063
+Oui, ou il devra en répondre.
+
+634
+00:28:46,865 --> 00:28:47,513
+J'y suis presque.
+
+635
+00:28:47,946 --> 00:28:51,500
+Non, Cassie, J'ai déjà téléchargé le rapport du NCIS sur l'affaire de viol.
+
+636
+00:28:51,747 --> 00:28:53,271
+Mes notes sont dans mon profil.
+
+637
+00:28:54,026 --> 00:28:56,201
+J'étais juste un bizut, mais Pacci m'a laissée interroger Sarah.
+
+638
+00:28:56,348 --> 00:28:58,571
+Ouais, tu es une femme sensiblement du même âge.
+
+639
+00:28:58,997 --> 00:29:00,800
+Plus facile de te parler qu'à un homme.
+
+640
+00:29:01,327 --> 00:29:01,900
+Ça n'a pas marché.
+
+641
+00:29:02,017 --> 00:29:02,921
+Elle ne se rappelait de rien.
+
+642
+00:29:04,505 --> 00:29:05,213
+Amnésie traumatique.
+
+643
+00:29:05,487 --> 00:29:06,703
+Pas inhabituel chez les victimes de viol.
+
+644
+00:29:06,848 --> 00:29:09,800
+Si elle était amnésique, qui a accusé les marins ?
+
+645
+00:29:10,066 --> 00:29:11,292
+Sa mère.
+
+646
+00:29:12,715 --> 00:29:13,141
+Tu la reconnais ?
+
+647
+00:29:13,475 --> 00:29:14,771
+Elle m’est vaguement familière.
+
+648
+00:29:15,328 --> 00:29:16,590
+Et sur cette photo ?
+
+649
+00:29:17,687 --> 00:29:18,550
+Bon Dieu, oui.
+
+650
+00:29:18,666 --> 00:29:20,992
+Cette photo a fait la une de tous les journaux.
+
+651
+00:29:21,235 --> 00:29:23,403
+Elle était plus célèbre que Hanoi Jane.
+
+652
+00:29:24,007 --> 00:29:24,522
+Agrandis ça.
+
+653
+00:29:25,635 --> 00:29:26,821
+Rapproche-toi du bandeau.
+
+654
+00:29:29,195 --> 00:29:30,340
+Oh, Mon Dieu, c'est un SWAK.
+
+655
+00:29:30,825 --> 00:29:31,892
+Elle est microbiologiste ?
+
+656
+00:29:33,156 --> 00:29:35,142
+Non. Mais le meilleur du monde travaille pour elle.
+
+657
+00:29:36,296 --> 00:29:38,533
+Il est chercheur chez « Lowell Pharmaceuticals ».
+
+658
+00:29:38,755 --> 00:29:40,292
+McGee, je veux un mandat de perquisition.
+
+659
+00:29:40,595 --> 00:29:41,093
+Je m'en occupe, patron.
+
+660
+00:29:41,596 --> 00:29:43,460
+Attrape des fringues et retrouve-moi en bas dans 5 minutes.
+
+661
+00:29:44,337 --> 00:29:46,553
+Va à l’hôpital de Bethesda, tiens-moi informé de l'état de Tony.
+
+662
+00:29:46,736 --> 00:29:47,201
+Bien sûr.
+
+663
+00:29:47,726 --> 00:29:49,321
+Trouve pourquoi Kate n'est pas rentrée.
+
+664
+00:29:49,517 --> 00:29:49,973
+Ça marche.
+
+665
+00:29:51,926 --> 00:29:54,850
+J'ai les téléphones, mais ils ne m'ont pas 
+fait confiance pour l'arme.
+
+666
+00:29:55,235 --> 00:29:56,191
+Moi non plus, Jimmy.
+
+667
+00:30:02,346 --> 00:30:04,853
+C'est le téléphone de l'Agent DiNozzo, monsieur.
+
+668
+00:30:05,716 --> 00:30:06,152
+Gibbs.
+
+669
+00:30:10,948 --> 00:30:12,010
+Pourquoi faites-vous ça, Kate ?
+
+670
+00:30:14,457 --> 00:30:15,421
+Le diable si je le sais.
+
+671
+00:30:16,745 --> 00:30:18,163
+Mais je le fais.
+
+672
+00:30:18,275 --> 00:30:18,773
+Vous n'allez pas le dire à Tony.
+
+673
+00:30:19,227 --> 00:30:21,583
+Et bien, j'ai déjà informé le Dr Mallard 
+que vous n'êtes pas infectée.
+
+674
+00:30:22,008 --> 00:30:23,000
+Ducky comprendra.
+
+675
+00:30:24,198 --> 00:30:25,480
+Gibbs posera problème.
+
+676
+00:30:25,726 --> 00:30:27,650
+Non, le problème est que Tony peut vous infecter.
+
+677
+00:30:29,568 --> 00:30:31,551
+Quoi, avec toutes ces lampes UV et ces filtres à air...
+
+678
+00:30:32,135 --> 00:30:33,620
+ou ils sont juste là pour le moral des patients ?
+
+679
+00:30:33,795 --> 00:30:34,932
+Je ne peux pas vous autoriser à rester.
+
+680
+00:30:35,346 --> 00:30:38,471
+Ce spécimen a été génétiquement modifié pour résister aux antibiotiques.
+
+681
+00:30:38,748 --> 00:30:40,192
+Vous réalisez ce que ça veut dire ?
+
+682
+00:30:41,496 --> 00:30:43,762
+Que l'intraveineuse de Tony est inutile.
+
+683
+00:30:45,537 --> 00:30:46,322
+Alors pourquoi le faire ?
+
+684
+00:30:46,545 --> 00:30:47,292
+Eh bien, ça ne peut pas faire de mal.
+
+685
+00:30:48,275 --> 00:30:49,813
+Et ça lui donne...
+
+686
+00:30:50,425 --> 00:30:51,091
+De l'espoir ?
+
+687
+00:30:52,107 --> 00:30:52,823
+Ouais.
+
+688
+00:30:52,876 --> 00:30:53,320
+Kate.
+
+689
+00:30:53,646 --> 00:30:57,262
+Raconte au Dr Brad ce concours de tee-shirt que tu as gagné.
+
+690
+00:30:58,286 --> 00:31:00,832
+Raconte à Emma ce transsexuel que tu as embrassé.
+
+690
+00:31:01,767 --> 00:31:02,453
+Ce n'est jamais arrivé.
+
+691
+00:31:02,725 --> 00:31:04,093
+Ca n'est jamais arrivé...
+
+692
+00:31:15,457 --> 00:31:16,980
+Merci de m'avoir passé ton rhume, Kate.
+
+693
+00:31:36,107 --> 00:31:36,831
+Comment voulez-vous gérer ça?
+
+694
+00:31:37,366 --> 00:31:38,083
+L'approche subtile.
+
+695
+00:31:38,205 --> 00:31:38,860
+Vous délivrez le mandat.
+
+696
+00:31:39,685 --> 00:31:40,801
+Je lui mettrai mon flingue sur la tempe.
+
+697
+00:31:41,247 --> 00:31:44,103
+Gibbs, Hanna Lowell a été arrêté lors
+de plus manifestations que Jesse Jackson.
+
+698
+00:31:44,277 --> 00:31:45,100
+Elle ne sera pas intimidée.
+
+699
+00:31:46,087 --> 00:31:49,222
+Ok, alors je lui tirerai dessus et je retrouverai
+celui qui a créé ce putain de virus pour elle.
+
+700
+00:31:49,428 --> 00:31:50,471
+Vous ne la tuerez pas.
+
+701
+00:31:50,676 --> 00:31:51,681
+J'ai dit tirer, pas tuer.
+
+702
+00:31:52,145 --> 00:31:54,252
+Il y a des douzaines de microbiologistes ici.
+
+703
+00:31:54,296 --> 00:31:55,780
+Il faudrait des jours pour les interroger.
+
+704
+00:31:55,898 --> 00:31:56,691
+Tony ne vivra pas autant de temps.
+
+705
+00:31:56,847 --> 00:31:59,201
+Vous savez où est son bureau,
+ou dois-je le demander à la réceptionniste?
+
+706
+00:31:59,536 --> 00:32:00,873
+Le patron a toujours son bureau au dernier étage.
+
+707
+00:32:05,175 --> 00:32:06,173
+Excusez-moi. Excusez-moi!
+
+708
+00:32:07,405 --> 00:32:09,043
+Vous devez vous présenter à l'accueil.
+
+709
+00:32:09,108 --> 00:32:09,722
+Avez-vous un rendez-vous?
+
+710
+00:32:09,888 --> 00:32:11,221
+Non. Nous avons un mandat fédéral.
+
+711
+00:32:11,428 --> 00:32:11,981
+Alerte sécurité.
+
+712
+00:32:12,096 --> 00:32:12,982
+Des agents fédéraux montent...
+
+713
+00:32:15,215 --> 00:32:15,753
+Ils sont là.
+
+714
+00:32:16,508 --> 00:32:16,970
+Ok.
+
+715
+00:32:22,748 --> 00:32:23,810
+Il était temps que vous arriviez.
+
+716
+00:32:25,606 --> 00:32:27,272
+J'ai laissé suffisamment de miettes de gâteau.
+
+717
+00:32:27,935 --> 00:32:29,561
+Vous avez laissé plus que
+des miettes de gâteau, madame.
+
+718
+00:32:30,416 --> 00:32:32,772
+Je regrette d'avoir eu recours à un tel acte dramatique,
+
+719
+00:32:33,386 --> 00:32:36,932
+Mais le NCIS ne m'a pas laissé le choix
+quand il a menti pour protéger l'Academy.
+
+720
+00:32:38,017 --> 00:32:42,291
+Admettez qu'un matelot a violé ma fille et tout sera terminé.
+
+721
+00:32:43,147 --> 00:32:44,353
+Le test ADN a innocenté...
+
+722
+00:32:44,475 --> 00:32:45,021
+Oh, arrêtez.
+
+723
+00:32:45,445 --> 00:32:47,532
+Je sais comme il est simple de falsifier un test ADN.
+
+724
+00:32:47,998 --> 00:32:49,050
+Vous aimez les actes dramatiques.
+
+725
+00:32:49,396 --> 00:32:50,570
+Ils peuvent être très efficaces.
+
+726
+00:32:50,985 --> 00:32:53,540
+L'effet de cet acte va vous condamner à la prison à vie.
+
+727
+00:32:53,848 --> 00:32:57,162
+Aussi longtemps, hein?
+
+728
+00:33:01,146 --> 00:33:01,853
+Vous allez mourir.
+
+729
+00:33:02,275 --> 00:33:03,581
+Plutôt rapidement.
+
+730
+00:33:04,735 --> 00:33:07,352
+Ce qui rend l'incarcération très improbable.
+
+731
+00:33:08,465 --> 00:33:11,211
+D'après ce que je vois, vous voulez
+protéger toutes les choses vivantes
+
+732
+00:33:11,325 --> 00:33:13,390
+sur la planète à part les agents fédéraux.
+
+733
+00:33:14,198 --> 00:33:17,860
+Ma fille ne s'est jamais remise
+des horreurs de ce week-end.
+
+734
+00:33:18,405 --> 00:33:20,202
+La vérité aidera sa guérison.
+
+735
+00:33:20,475 --> 00:33:22,981
+Svp, donnez-lui.
+
+736
+00:33:25,557 --> 00:33:29,361
+Vous n'aurez pas l'antidote tant que ce matelot...
+
+737
+00:33:29,448 --> 00:33:29,980
+On n'en a pas besoin.
+
+738
+00:33:30,227 --> 00:33:31,893
+Le service postal a détruit votre peste.
+
+739
+00:33:32,375 --> 00:33:33,870
+Ils l'ont supprimée malgré le plomb.
+
+740
+00:33:34,357 --> 00:33:35,240
+Personne n'a été infecté.
+
+741
+00:33:35,716 --> 00:33:36,820
+Je ne vous crois pas.
+
+742
+00:33:36,997 --> 00:33:39,643
+Je me fous que vous me croyiez ou non.
+
+743
+00:33:39,955 --> 00:33:43,761
+Vous êtes en état d'arrestation pour
+attaque biologique sur une agence fédéral.
+
+744
+00:33:44,056 --> 00:33:44,872
+Emmenez-la pour l'interroger.
+
+745
+00:33:45,226 --> 00:33:46,612
+Je vais attendre ici la police
+
+746
+00:33:46,665 --> 00:33:47,303
+pour arrêter les autres.
+
+747
+00:33:47,678 --> 00:33:48,850
+Vous avez le droit de garder le silence.
+
+748
+00:33:49,008 --> 00:33:49,742
+Si vous abandonnez ce droit...
+
+749
+00:33:49,896 --> 00:33:50,560
+Il n'y a personne d'autre.
+
+750
+00:33:50,705 --> 00:33:52,221
+J'ai agi seule.
+
+751
+00:33:52,377 --> 00:33:53,811
+Vous n'êtes pas microbiologiste.
+
+752
+00:33:53,987 --> 00:33:55,281
+J'ai volé le Y. pestis!
+
+753
+00:33:57,677 --> 00:33:59,263
+Le Dr Pandy ne sait même pas que cela a disparu.
+
+754
+00:34:00,908 --> 00:34:01,410
+Le Dr Pandy.
+
+755
+00:34:01,606 --> 00:34:01,960
+Quoi?
+
+756
+00:34:02,118 --> 00:34:03,242
+Où est le laboratoire du Dr Pandy?
+
+757
+00:34:03,556 --> 00:34:07,462
+Aile nord, RDC, BL-Alpha.
+
+758
+00:34:07,868 --> 00:34:10,372
+Mais vous avez besoin d'une autorisation
+pour pénétrer dans l'aile nord.
+
+759
+00:34:10,546 --> 00:34:12,301
+Quelqu'un a été infecté.
+
+760
+00:34:13,536 --> 00:34:14,802
+J'espère que c'est Westmoreland.
+
+761
+00:34:18,936 --> 00:34:19,591
+Allongez-vous, Tony.
+
+762
+00:34:27,326 --> 00:34:28,981
+Très bien, tout le monde derrière l'écran de protection.
+
+763
+00:34:29,385 --> 00:34:31,521
+Tony, vous aller devoir inspirer profondément
+et retenir votre respiration.
+
+764
+00:34:31,868 --> 00:34:33,012
+Je ne crois pas que je vais y arriver, Brad.
+
+765
+00:34:37,035 --> 00:34:38,511
+Emma peut peut-être le faire à ma place.
+
+766
+00:34:40,286 --> 00:34:41,793
+Vous avez des poumons très sains, Emma.
+
+767
+00:34:43,278 --> 00:34:44,150
+Il est toujours comme ça?
+
+768
+00:34:44,546 --> 00:34:45,430
+Malheureusement.
+
+769
+00:34:45,888 --> 00:34:50,352
+L'humour de Tony est toujours sexiste, juvénile, vulgaire.
+
+770
+00:34:50,747 --> 00:34:51,653
+Drôle.
+
+771
+00:34:52,977 --> 00:34:56,441
+Il est parfois drôle.
+
+772
+00:34:57,436 --> 00:34:58,372
+Il n'y a pas d'antidote.
+
+773
+00:34:59,238 --> 00:35:01,602
+J'ai développé un vaccin, pas un antidote.
+
+774
+00:35:01,857 --> 00:35:03,831
+C'est inutile une fois qu'une victime est infectée.
+
+775
+00:35:04,078 --> 00:35:05,441
+Hanna a mal compris.
+
+776
+00:35:05,568 --> 00:35:06,163
+Elle a bien compris.
+
+777
+00:35:06,358 --> 00:35:08,131
+Non, c'est la tumeur au cerveau.
+
+778
+00:35:08,475 --> 00:35:09,330
+C'est ce qui est en train de la tuer?
+
+779
+00:35:09,707 --> 00:35:12,091
+C'est inopérable, et visiblement, cela affecte son esprit.
+
+780
+00:35:12,287 --> 00:35:15,351
+Pourquoi une femme qui s'est battue pour
+l'interdiction des armes biologiques en utiliserait-elle?
+
+781
+00:35:15,556 --> 00:35:16,091
+Je ne sais pas.
+
+782
+00:35:16,336 --> 00:35:18,420
+Pourquoi Lowell Pharmaceutical en fabrique t-il?
+
+783
+00:35:18,796 --> 00:35:19,432
+Nous n'en fabriquons pas.
+
+784
+00:35:19,808 --> 00:35:21,220
+Vous n'avez pas créé cette chose?
+
+785
+00:35:21,516 --> 00:35:24,643
+Si, mais seulement pour développer une défense.
+
+786
+00:35:24,875 --> 00:35:28,083
+Les maladies résistantes aux antibiotiques
+sont des armes biologiques potentielles.
+
+787
+00:35:28,385 --> 00:35:30,611
+Ce n'est pas un terroriste qui est en train
+de tuer mon agent, c'est vous!
+
+788
+00:35:30,836 --> 00:35:32,371
+Je comprends votre colère.
+
+789
+00:35:32,606 --> 00:35:33,353
+Non, c'est faux.
+
+790
+00:35:34,156 --> 00:35:36,250
+Mais si vous ne le sauvez pas, vous la comprendrez.
+
+791
+00:35:36,538 --> 00:35:39,422
+Le virus a un gène suicide qui l'empêche de se répliquer
+
+792
+00:35:39,565 --> 00:35:41,983
+après 32 heures, c'est une précaution.
+
+793
+00:35:42,257 --> 00:35:42,862
+Le virus meurt?
+
+794
+00:35:43,165 --> 00:35:44,000
+Oui.
+
+795
+00:35:44,456 --> 00:35:45,382
+Il est mort à présent?
+
+796
+00:35:46,046 --> 00:35:48,862
+S'il y a plus de 32 heures que le spécimen a été infecté,
+
+797
+00:35:49,086 --> 00:35:51,103
+tout le Y. pestis est mort.
+
+798
+00:35:54,155 --> 00:35:57,380
+Cependant, les dommages auront déjà été faits.
+
+799
+00:35:57,597 --> 00:35:59,323
+Le spécimen va mourir?
+
+800
+00:35:59,526 --> 00:36:01,590
+Non. Non, pas nécessairement.
+
+801
+00:36:02,158 --> 00:36:05,480
+Il a les mêmes chances de survie que ceux
+qui étaient infectés par la peste dans le passé.
+
+802
+00:36:05,806 --> 00:36:08,330
+Probablement de meilleures chances
+s'il est en bonne santé et jeune.
+
+803
+00:36:08,357 --> 00:36:10,163
+Quel était le taux de survie dans le passé?
+
+804
+00:36:10,497 --> 00:36:14,820
+Les gens étaient affaiblis par
+les faibles récoltes, la malnutrition.
+
+805
+00:36:14,917 --> 00:36:15,292
+Putain!
+
+806
+00:36:15,377 --> 00:36:16,540
+Quel était le taux de survie?!
+
+807
+00:36:17,635 --> 00:36:19,320
+15%.
+
+808
+00:36:23,918 --> 00:36:24,621
+Ca ressemble à une pneumonie.
+
+809
+00:36:25,135 --> 00:36:25,852
+C'est pire, j'en ai peur.
+
+810
+00:36:26,425 --> 00:36:27,622
+Il montre des signes de cyanose.
+
+811
+00:36:27,776 --> 00:36:29,152
+Ses ongles et ses lèvres deviennent bleus.
+
+812
+00:36:29,987 --> 00:36:33,333
+La Y. pestis prive son corps d'oxygène.
+
+813
+00:36:34,987 --> 00:36:37,530
+Il est trop tard pour une amélioration, n'est-ce pas?
+
+814
+00:36:38,288 --> 00:36:38,902
+Il n'est jamais trop tard.
+
+815
+00:36:40,125 --> 00:36:40,990
+Jusqu'à ce qu'on m'amène le corps.
+
+816
+00:36:56,715 --> 00:36:59,462
+Je suis désolé de t'avoir taquinée
+avec tout ces films, Kate.
+
+817
+00:36:59,616 --> 00:36:59,973
+Taquinée?
+
+818
+00:37:00,138 --> 00:37:01,050
+Tu m'as torturée.
+
+819
+00:37:01,448 --> 00:37:05,830
+Pendant deux ans, je n'ai entendu parler que
+de John Wayne, Clint Eastwood, James Bond.
+
+820
+00:37:06,217 --> 00:37:09,141
+James Bond est un personnage...
+
+821
+00:37:09,598 --> 00:37:16,112
+...interprété par Sean Connery, George Lazenby,
+Roger Moore et Pierce Brosnan.
+
+822
+00:37:16,618 --> 00:37:22,191
+Pourquoi tu portes un masque?
+
+823
+00:37:25,925 --> 00:37:26,750
+Parce que j'ai un rhume.
+
+824
+00:37:28,866 --> 00:37:29,661
+Pourquoi n'es-tu pas malade?
+
+825
+00:37:32,036 --> 00:37:33,440
+Parce que je suis plus forte que toi, Tony.
+
+826
+00:37:33,876 --> 00:37:35,120
+Non, c'est faux.
+
+827
+00:37:35,555 --> 00:37:36,350
+Si.
+
+828
+00:37:41,366 --> 00:37:42,022
+Tony, Tony, redresse-toi.
+
+829
+00:37:42,207 --> 00:37:47,661
+Kate, vous devriez sortir. Maintenant.
+
+830
+00:38:01,228 --> 00:38:01,423
+Oh, mon Dieu!
+
+831
+00:38:05,355 --> 00:38:06,990
+C'était courageux de rester avec lui, Kate.
+
+832
+00:38:08,475 --> 00:38:09,671
+Il est en train de mourir, Ducky!
+
+833
+00:38:10,955 --> 00:38:11,863
+Ah, tu parles!
+
+834
+00:38:12,638 --> 00:38:15,252
+Whoa, whoa, whoa.
+
+835
+00:38:15,518 --> 00:38:16,100
+Qui êtes-vous?
+
+836
+00:38:16,275 --> 00:38:16,601
+Son patron.
+
+837
+00:38:17,286 --> 00:38:18,343
+Le virus a un gène suicide.
+
+838
+00:38:18,705 --> 00:38:19,280
+Il est mort.
+
+839
+00:38:19,866 --> 00:38:21,020
+Depuis plus d'une heure.
+
+840
+00:38:22,516 --> 00:38:23,790
+Il n'est plus contagieux.
+
+841
+00:38:30,735 --> 00:38:33,203
+Tony, écoute-moi.
+
+842
+00:38:37,256 --> 00:38:37,852
+Tu écoutes?
+
+843
+00:38:40,736 --> 00:38:42,093
+J'écou...
+
+844
+00:38:42,545 --> 00:38:43,761
+J'écoute, patron.
+
+845
+00:38:47,127 --> 00:38:50,342
+Tu ne mourras pas, t'as compris?
+
+846
+00:38:58,995 --> 00:39:04,181
+J'ai dit que tu ne mourras pas.
+
+847
+00:39:08,736 --> 00:39:09,673
+J'ai compris, patron.
+
+848
+00:39:12,088 --> 00:39:13,493
+Bien.
+
+849
+00:39:16,818 --> 00:39:17,351
+Maintenant...
+
+850
+00:39:18,645 --> 00:39:22,021
+C'est ton nouveau portable.
+
+851
+00:39:22,166 --> 00:39:25,231
+Je changerai le numéro si j'étais toi.
+
+852
+00:39:27,086 --> 00:39:28,800
+Des femmes n'arrêtent pas d'appeler
+et demandent "Spanky".
+
+853
+00:39:43,226 --> 00:39:45,073
+Dr O'Dell, Orthorpédie.
+
+854
+00:39:48,138 --> 00:39:48,910
+Excusez-moi.
+
+855
+00:39:50,588 --> 00:39:51,152
+Comment va Tony?
+
+856
+00:39:51,827 --> 00:39:52,702
+Il s'en sortira.
+
+857
+00:39:53,685 --> 00:39:54,380
+Que s'est-il passé?
+
+858
+00:39:55,095 --> 00:39:56,270
+Hanna a perdu la raison dans la voiture.
+
+859
+00:39:56,827 --> 00:39:58,581
+Elle a commencé à divaguer, à s'exhiber.
+
+860
+00:39:59,037 --> 00:40:00,350
+Quand elle a commencé à montrer
+ses seins et à crier,
+
+861
+00:40:00,466 --> 00:40:02,080
+"Faites l'amour, pas la guerre",
+je suis directement venu ici.
+
+862
+00:40:02,567 --> 00:40:03,523
+Vous êtes sûre que ce n'était pas un acte?
+
+863
+00:40:04,008 --> 00:40:05,583
+Son neurologiste dit que c'est la tumeur.
+
+864
+00:40:06,565 --> 00:40:07,292
+Il vient de partir.
+
+865
+00:40:07,397 --> 00:40:08,613
+Il veut qu'on la relâche et
+qu'elle soit sous sa surveillance.
+
+866
+00:40:09,887 --> 00:40:10,601
+C'est peu probable.
+
+867
+00:40:11,547 --> 00:40:13,040
+Il peut la voir ici autant qu'il veut.
+
+868
+00:40:13,798 --> 00:40:14,450
+C'est Sarah?
+
+869
+00:40:14,725 --> 00:40:16,311
+Dans le même état qu'il y a quatre ans.
+
+870
+00:40:17,346 --> 00:40:19,171
+Sarah, voici l'agent spécial Gibbs.
+
+871
+00:40:20,745 --> 00:40:21,760
+Je suis vraiment désolée.
+
+872
+00:40:23,256 --> 00:40:26,241
+Je ne peux pas le croire.
+
+873
+00:40:29,267 --> 00:40:31,663
+Je savais qu'un jour ma mère
+ferait quelque chose de terrible.
+
+874
+00:40:35,526 --> 00:40:37,561
+Je lui avais dit, mais elle ne m'a pas cru.
+
+875
+00:40:38,957 --> 00:40:39,791
+Vous lui aviez dit?
+
+876
+00:40:41,676 --> 00:40:43,030
+Que ce n'était pas un matelot.
+
+877
+00:40:46,037 --> 00:40:47,990
+Vous vous rappelez qui vous a agressé alors?
+
+878
+00:40:49,586 --> 00:40:50,293
+Non.
+
+879
+00:40:52,115 --> 00:40:53,611
+Comment savez-vous que ce n'était pas un matelot?
+
+880
+00:40:55,505 --> 00:40:57,090
+Ils ont tous été innocentés.
+
+881
+00:41:01,465 --> 00:41:02,573
+Vous êtes certaine de ne pas vous en souvenir?
+
+882
+00:41:03,808 --> 00:41:08,602
+Oui.
+
+883
+00:41:12,577 --> 00:41:14,221
+Vous savez qui vous a violé, n'est-ce pas, Sarah?
+
+884
+00:41:19,437 --> 00:41:19,983
+Sarah?
+
+885
+00:41:28,578 --> 00:41:29,960
+Je n'ai pas été violé.
+
+886
+00:41:32,758 --> 00:41:34,100
+On trouvait tous ça marrant...
+
+887
+00:41:36,118 --> 00:41:37,472
+de m'attacher au lit.
+
+888
+00:41:38,558 --> 00:41:41,850
+J'avais dit que les matelots étaient
+mignons dans leur uniforme.
+
+889
+00:41:42,615 --> 00:41:43,281
+Je rigolais!
+
+890
+00:41:43,875 --> 00:41:49,541
+Alors, quand il est parti chercher
+à manger, il m'a attachée.
+
+891
+00:41:51,437 --> 00:41:52,810
+Personne ne te dérangera.
+
+892
+00:41:53,598 --> 00:41:54,280
+A l'aide!
+
+893
+00:41:54,648 --> 00:41:56,863
+Comme ça, je ne pouvais pas partir
+avec un autre matelot.
+
+894
+00:41:58,425 --> 00:41:59,821
+C'était seulement une blague.
+
+895
+00:42:01,606 --> 00:42:07,231
+Et puis quand il n'est pas revenu,
+j'ai commencé à devenir folle.
+
+896
+00:42:08,106 --> 00:42:12,703
+Au début on se demande pourquoi,
+et après, et après...
+
+897
+00:42:12,876 --> 00:42:15,340
+on veut être trouvé.
+
+898
+00:42:16,678 --> 00:42:17,580
+Que lui est-il arrivé?
+
+899
+00:42:20,708 --> 00:42:24,421
+Il a été tué par un chauffard en traversant la rue.
+
+900
+00:42:26,335 --> 00:42:27,813
+Pourquoi avoir dit que vous aviez été violée?
+
+901
+00:42:29,448 --> 00:42:31,313
+J'étais attachée nue à un lit.
+
+902
+00:42:32,807 --> 00:42:34,492
+Que pouvais-je dire d'autre à ma mère?
+
+903
+00:42:47,556 --> 00:42:48,652
+Je peux dormir ici?
+
+904
+00:42:49,595 --> 00:42:50,962
+Tant que vous ne refiler pas ce rhume à Tony.
+
+905
+00:42:56,757 --> 00:42:57,420
+Il dort.
+
+906
+00:42:57,708 --> 00:42:58,140
+Merci.
+
+907
+00:43:28,316 --> 00:43:31,180
+Ca me rappelle la fin d'Alien.
+
+911
+00:43:33,006 --> 00:43:45,000
+Synchro par Relaxx, transcript RaceMan
+traduction : Nath,Jordanas, Gaillots, Shadow, Zikos.
+Relecture : Gaillots.
+       www.forom.com
+

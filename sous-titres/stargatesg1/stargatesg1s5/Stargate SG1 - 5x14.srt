@@ -1,0 +1,2381 @@
+1
+00:00:30,708 --> 00:00:32,426
+En avant.
+
+2
+00:00:57,708 --> 00:00:59,699
+Partons.
+
+3
+00:01:38,108 --> 00:01:40,099
+Oû est Teal'c?
+
+4
+00:01:41,148 --> 00:01:42,945
+J'en sais rien, mon général.
+
+5
+00:01:43,028 --> 00:01:45,496
+ll était juste derrière moi.
+
+6
+00:02:47,748 --> 00:02:50,262
+48 HEURES DE DELAl
+
+7
+00:02:50,348 --> 00:02:53,704
+- Colonel, ça va?
+- On doit y retourner.
+
+8
+00:02:54,628 --> 00:02:56,266
+Quelle était la situation?
+
+9
+00:02:56,348 --> 00:02:59,226
+Des planeurs et un al-kesh
+nous pourchassaient.
+
+10
+00:02:59,308 --> 00:03:01,663
+Teal'c était avec moi. ll doit être en vie.
+
+11
+00:03:01,988 --> 00:03:05,139
+Composez le code de P3X-1 16.
+Contactons-le par radio.
+
+12
+00:03:10,188 --> 00:03:14,181
+- Chevron un encodé.
+- ll faut un MALP prêt à décoller.
+
+13
+00:03:14,468 --> 00:03:16,186
+- Occupez-vous-en.
+- Oui.
+
+14
+00:03:17,068 --> 00:03:19,024
+Chevron deux encodé.
+
+15
+00:03:19,628 --> 00:03:22,540
+On a un message d'erreur non identifiée.
+
+16
+00:03:24,908 --> 00:03:26,739
+- Je l'ignore?
+- Commandant?
+
+17
+00:03:26,908 --> 00:03:30,821
+Le système détecte une anomalie
+dans le Stargate,
+
+18
+00:03:30,908 --> 00:03:32,944
+pas dans l'ordinateur.
+
+19
+00:03:33,028 --> 00:03:35,622
+- Chevron quatre encodé.
+- Ce serait quoi?
+
+20
+00:03:35,708 --> 00:03:39,621
+Je l'ignore. Quelque chose
+que notre ordinateur n'identifie pas.
+
+21
+00:03:40,908 --> 00:03:43,183
+Colonel, que s'est-il passé?
+
+22
+00:03:43,268 --> 00:03:47,307
+- Le vaisseau se dirigeait sur nous.
+- Pourrait-il avoir modifié le Stargate?
+
+23
+00:03:47,388 --> 00:03:49,379
+Et si c'est le cas?
+
+24
+00:03:50,148 --> 00:03:54,983
+Si le couloir espace-temps
+s'est refermé sur Teal'c, je crains que...
+
+25
+00:03:55,068 --> 00:03:57,980
+Chevron six encodé.
+Même message d'erreur.
+
+26
+00:03:58,068 --> 00:03:59,660
+On devrait tout arrêter.
+
+27
+00:03:59,788 --> 00:04:04,464
+- Annulez la procédure.
+- Séquence de composition annulée.
+
+28
+00:04:12,548 --> 00:04:17,668
+Les Tok'ras ont dit vrai. Les Goa'ulds
+comptent monter une base sur P3X-1 16.
+
+29
+00:04:18,588 --> 00:04:22,422
+On dirait bien. Mais ils n'ont pas précisé
+qu'il s'agissait de Tanith.
+
+30
+00:04:22,508 --> 00:04:26,660
+On l'a repéré au sol près de son al-kesh
+en compagnie d'un groupe de Jaffas.
+
+31
+00:04:26,748 --> 00:04:29,546
+- C'est lui qui vous a poursuivis?
+- Comme vous le savez,
+
+32
+00:04:29,628 --> 00:04:32,745
+Teal'c et lui ont ce truc entre eux, alors...
+
+33
+00:04:32,828 --> 00:04:36,025
+Je pense savoir
+quel est le problème. On doit faire vite.
+
+34
+00:04:36,108 --> 00:04:37,541
+De quoi s'agit-il?
+
+35
+00:04:37,628 --> 00:04:39,698
+Le Stargate réduit la matière en énergie
+
+36
+00:04:39,788 --> 00:04:42,700
+qu'il transmet ensuite
+par un couloir espace-temps.
+
+37
+00:04:42,788 --> 00:04:44,585
+C'est le b.a.-ba du Stargate.
+
+38
+00:04:44,668 --> 00:04:47,785
+La porte de destination
+traduit la signature énergétique
+
+39
+00:04:47,868 --> 00:04:50,826
+et la reconvertit en sa forme originale.
+
+40
+00:04:50,908 --> 00:04:55,299
+Le Stargate a une capacité de mémoire
+énorme. Comme une mémoire tampon.
+
+41
+00:04:55,388 --> 00:04:59,540
+ll peut stocker des empreintes d'énergie
+avant de les reconvertir en matière.
+
+42
+00:04:59,628 --> 00:05:03,462
+Cela garantit qu'il a toute les données
+avant de reconstituer un objet
+
+43
+00:05:03,548 --> 00:05:06,187
+ou, en l'occurrence, une personne.
+
+44
+00:05:06,268 --> 00:05:08,498
+L'erreur que nous transmet la porte
+
+45
+00:05:08,588 --> 00:05:12,627
+indique qu'une signature énergétique
+est stockée dans la mémoire tampon.
+
+46
+00:05:13,508 --> 00:05:17,296
+- Teal'c.
+- Si l'al-kesh a percuté le composeur,
+
+47
+00:05:17,388 --> 00:05:21,666
+la liaison avec la porte de destination
+a été perturbée et le couloir endommagé.
+
+48
+00:05:21,748 --> 00:05:26,185
+Si Teal'c était encore
+sous forme de signature énergétique...
+
+49
+00:05:26,268 --> 00:05:30,625
+- ll est dans notre Stargate.
+- En tout cas, sa signature énergétique.
+
+50
+00:05:32,548 --> 00:05:36,018
+- Sortons-le de là.
+- Je ne suis pas sûre de savoir comment.
+
+51
+00:05:39,388 --> 00:05:42,186
+- Mais il y a plus grave.
+- ll y a plus grave.
+
+52
+00:05:42,268 --> 00:05:44,259
+Les protocoles de sécurité du Stargate
+
+53
+00:05:44,348 --> 00:05:47,420
+visent à empêcher un mélange
+des signatures énergétiques.
+
+54
+00:05:47,508 --> 00:05:52,024
+La mémoire tampon est effacée à chaque
+fois qu'on ouvre un couloir espace-temps.
+
+55
+00:05:52,668 --> 00:05:55,057
+Comme une réinitialisation du système.
+
+56
+00:05:55,148 --> 00:05:59,619
+Si on compose de notre porte
+ou que quelqu'un tente de la traverser...
+
+57
+00:05:59,708 --> 00:06:03,940
+- On a huit équipes en mission.
+- La signature de Teal'c s'effacera.
+
+58
+00:06:04,028 --> 00:06:06,064
+De façon permanente.
+
+59
+00:06:06,548 --> 00:06:09,346
+- Comment empêcher une arrivée?
+- Pour le moment,
+
+60
+00:06:09,428 --> 00:06:13,103
+l'iris est au même niveau que le plan
+oû commence l'horizon du trou noir.
+
+61
+00:06:13,188 --> 00:06:15,941
+Mais en le désaxant légèrement,
+
+62
+00:06:16,028 --> 00:06:18,337
+le couloir espace-temps
+ne se formerait pas.
+
+63
+00:06:18,428 --> 00:06:20,862
+Ce serait comme enterrer notre porte.
+
+64
+00:06:20,948 --> 00:06:23,416
+L'équipe de Siler
+peut faire ça en une heure.
+
+65
+00:06:23,508 --> 00:06:26,147
+Comment fait-on rentrer nos équipes?
+
+66
+00:06:26,228 --> 00:06:30,426
+Quand les Russes ont activé leur porte,
+elle est devenue la première sur Terre.
+
+67
+00:06:30,508 --> 00:06:33,944
+Les couloirs espace-temps
+s'ouvraient tous sur leur Stargate.
+
+68
+00:06:34,028 --> 00:06:38,419
+- J'appelle le Pentagone.
+- Je vérifie l'heure d'arrivée des équipes.
+
+69
+00:06:51,628 --> 00:06:54,506
+On doit faire rentrer huit équipes.
+
+70
+00:06:54,588 --> 00:06:59,059
+C'est une situation
+que nous comptons régler au plus vite.
+
+71
+00:07:00,468 --> 00:07:04,746
+Merci. J'envoie mon officier
+le plus compétent par le premier avion.
+
+72
+00:07:07,428 --> 00:07:11,501
+La prochaine arrivée est celle du SG-5.
+lls seront là à 16H00.
+
+73
+00:07:11,588 --> 00:07:14,546
+Soit dans moins de quatre heures.
+L'iris sera en place?
+
+74
+00:07:14,628 --> 00:07:17,142
+lls font au plus vite.
+
+75
+00:07:17,228 --> 00:07:19,617
+L'homme le plus compétent, c'est vous.
+
+76
+00:07:19,708 --> 00:07:23,223
+Quelqu'un doit faire la liaison
+en Russie pour assurer nos intérêts.
+
+77
+00:07:23,308 --> 00:07:25,902
+Préparez-vous.
+Vous partez dans une demi-heure.
+
+78
+00:07:38,308 --> 00:07:39,582
+Carter.
+
+79
+00:07:39,668 --> 00:07:41,659
+Vous vous sentez comment?
+
+80
+00:07:42,708 --> 00:07:46,986
+Points de suture, commotion,
+nausées, vertige. Comme d'habitude.
+
+81
+00:07:51,188 --> 00:07:53,986
+Pourquoi Teal'c
+est-il toujours dans la porte?
+
+82
+00:07:54,708 --> 00:07:57,097
+Hé bien, c'est très compliqué.
+
+83
+00:07:57,868 --> 00:08:00,462
+Je peux vous aider?
+
+84
+00:08:02,628 --> 00:08:07,543
+On a dû créer une vraie interface
+entre la porte et notre ordinateur.
+
+85
+00:08:07,628 --> 00:08:12,179
+Pour activer la porte, on a transmis
+des instructions en pulsions électriques.
+
+86
+00:08:12,268 --> 00:08:15,863
+ll nous a fallu beaucoup d'essais
+pour tomber sur les bonnes.
+
+87
+00:08:15,948 --> 00:08:21,306
+ll s'agit de trouver celles qui ordonneront
+à la porte d'ignorer une fonction première.
+
+88
+00:08:26,868 --> 00:08:29,143
+Vous voulez un café?
+
+89
+00:08:31,548 --> 00:08:35,905
+Pour être franche, la porte pourrait
+ne pas répondre à cette instruction.
+
+90
+00:08:35,988 --> 00:08:37,740
+Qui consiste en quoi?
+
+91
+00:08:37,828 --> 00:08:40,422
+Reprendre une réintégration interrompue.
+
+92
+00:08:40,508 --> 00:08:42,578
+Carter, ma tête.
+
+93
+00:08:42,668 --> 00:08:45,102
+Je suis désolée mais plus j'y réfléchis,
+
+94
+00:08:45,188 --> 00:08:49,864
+plus je me demande
+si nous pourrons faire revenir Teal'c.
+
+95
+00:09:27,948 --> 00:09:29,666
+- Commandant Davis.
+- Mon colonel.
+
+96
+00:09:29,748 --> 00:09:31,466
+- Dr Jackson.
+- Mon colonel.
+
+97
+00:09:31,548 --> 00:09:34,745
+- Bon voyage?
+- Vu les circonstances, oui.
+
+98
+00:09:34,828 --> 00:09:38,343
+Quel incident malencontreux.
+Je vous en prie, asseyez-vous.
+
+99
+00:09:40,828 --> 00:09:45,856
+On ne m'a communiqué que de vagues
+détails mais il semblerait que...
+
+100
+00:09:47,548 --> 00:09:52,542
+dû à un problème technique, un de
+vos hommes soit prisonnier du Stargate.
+
+101
+00:09:52,628 --> 00:09:55,745
+On n'en sait guère plus pour le moment.
+
+102
+00:09:55,828 --> 00:09:58,820
+Donc nous ne sommes pas les seuls
+à ne pas pouvoir maîtriser
+
+103
+00:09:58,908 --> 00:10:02,344
+tous les problèmes
+survenant avec le Stargate.
+
+104
+00:10:02,428 --> 00:10:07,138
+- Le statut des équipes en mission?
+- On les a toutes contactées.
+
+105
+00:10:07,228 --> 00:10:12,666
+- SG-5 et SG-8 sont bien arrivés.
+- On apprécie ce que vous faites.
+
+106
+00:10:12,868 --> 00:10:17,737
+Malgré les apparences,
+on ne vous aide pas de gaieté de coeur.
+
+107
+00:10:17,828 --> 00:10:21,343
+L'armée russe n'est pas là
+pour obéir à votre volonté.
+
+108
+00:10:21,428 --> 00:10:23,259
+Je n'ai pas dit que c'était le cas.
+
+109
+00:10:23,348 --> 00:10:28,217
+Votre gouvernement pense pouvoir dicter
+le protocole technologique du Stargate.
+
+110
+00:10:28,308 --> 00:10:30,583
+Nos gouvernements ont passé un accord.
+
+111
+00:10:30,668 --> 00:10:34,297
+Que les deux parties ne font qu'ignorer,
+vous ne croyez pas?
+
+112
+00:10:34,388 --> 00:10:39,223
+C'est impossible d'avoir deux
+programmes de Stargate simultanés.
+
+113
+00:10:40,868 --> 00:10:43,940
+ll semblerait plutôt
+que l'inverse soit impossible.
+
+114
+00:11:02,348 --> 00:11:04,145
+Colonel?
+
+115
+00:11:10,748 --> 00:11:13,023
+Rentrez chez vous.
+
+116
+00:11:15,428 --> 00:11:17,942
+Je vais bien, mon général.
+
+117
+00:11:18,028 --> 00:11:20,747
+C'étaient cinq minutes
+de sommeil réparateur.
+
+118
+00:11:23,268 --> 00:11:26,146
+On a fait tout ce qu'on pouvait.
+
+119
+00:11:29,028 --> 00:11:33,146
+Vous savez, on n'en serait pas là
+s'il avait suivi les ordres.
+
+120
+00:11:33,228 --> 00:11:36,459
+C'est cette sale histoire
+de vengeance jaffa.
+
+121
+00:11:37,428 --> 00:11:40,704
+Reposez-vous. C'est un ordre.
+
+122
+00:11:53,668 --> 00:11:55,659
+Colonel Simmons.
+
+123
+00:11:57,308 --> 00:12:01,779
+Bonjour, mon général. Je présentais
+le commandant Carter au Dr McKay.
+
+124
+00:12:02,148 --> 00:12:06,824
+Le docteur a étudié le programme
+du Stargate hors de la zone 51 .
+
+125
+00:12:07,628 --> 00:12:09,744
+Sans avoir accès à une porte active.
+
+126
+00:12:09,828 --> 00:12:13,184
+J'en avais un modèle virtuel,
+copié sur la seconde porte.
+
+127
+00:12:13,268 --> 00:12:16,578
+Vous devez être tout impatient
+de voir la vraie.
+
+128
+00:12:17,708 --> 00:12:19,824
+Pas vraiment, non.
+
+129
+00:12:19,908 --> 00:12:23,821
+Selon le Pentagone, le Dr McKay est
+l'expert mondial en matière de Stargate.
+
+130
+00:12:23,908 --> 00:12:27,423
+- Après le commandant Carter.
+- Sauf votre respect, commandant,
+
+131
+00:12:27,508 --> 00:12:31,296
+- vous êtes surtout sur le terrain.
+- Elle a étudié la porte pendant 2 ans
+
+132
+00:12:31,388 --> 00:12:34,698
+avant d'effectuer
+cinq ans de service pour le SGC.
+
+133
+00:12:34,788 --> 00:12:37,177
+C'est elle qui a rendu
+ce programme possible.
+
+134
+00:12:37,268 --> 00:12:40,738
+En fait, l'interface qu'elle a élaborée
+est truffée d'erreurs.
+
+135
+00:12:40,828 --> 00:12:42,978
+Elle n'est pas parfaite, mais...
+
+136
+00:12:43,068 --> 00:12:46,617
+A cause de cette interface,
+on a plusieurs fois frôlé la catastrophe.
+
+137
+00:12:46,708 --> 00:12:50,303
+Ca ne doit pas se reproduire.
+Voilà pourquoi le docteur est là.
+
+138
+00:12:50,388 --> 00:12:53,061
+Bien. ll sera sous les ordres
+du commandant Carter.
+
+139
+00:12:53,148 --> 00:12:57,141
+lls pourront peut-être résoudre
+ce problème ensemble et ramener Teal'c -
+
+140
+00:12:57,228 --> 00:12:59,139
+dans les délais accordés.
+
+141
+00:12:59,228 --> 00:13:01,378
+Pardon? Dans les délais accordés?
+
+142
+00:13:03,028 --> 00:13:05,019
+- 48 heures.
+- Mon général.
+
+143
+00:13:06,508 --> 00:13:09,102
+Suivez-moi.
+
+144
+00:13:14,908 --> 00:13:19,186
+Peu importe votre rang, vous n'avez pas
+à me dire quelle procédure adopter.
+
+145
+00:13:19,268 --> 00:13:23,227
+Ne tirez pas sur le messager.
+Je ne fais que transmettre les ordres.
+
+146
+00:13:23,308 --> 00:13:27,745
+Teal'c est un élément précieux. Sans lui,
+vous ne seriez peut-être pas assis là,
+
+147
+00:13:27,828 --> 00:13:30,058
+à soi-disant représenter votre pays.
+
+148
+00:13:30,148 --> 00:13:34,983
+On est conscients du rôle qu'il a joué,
+ainsi que de ses alliances douteuses.
+
+149
+00:13:35,988 --> 00:13:38,343
+De loyaux citoyens américains ont péri.
+
+150
+00:13:38,428 --> 00:13:42,103
+Ne me dites pas que la vie de Teal'c
+a plus de prix que celle des nôtres?
+
+151
+00:13:42,188 --> 00:13:45,498
+Teal'c est l'un des nôtres,
+et on peut encore lui sauver la vie.
+
+152
+00:13:45,588 --> 00:13:50,503
+Peut-être pas, mais on m'a rapporté que
+toutes les équipes étaient bien rentrées.
+
+153
+00:13:50,588 --> 00:13:54,581
+Le Pentagone ne souhaite pas collaborer
+avec les Russes trop longtemps.
+
+154
+00:13:54,668 --> 00:13:57,262
+Et par le passé,
+vous avez vous-même insisté
+
+155
+00:13:57,348 --> 00:14:01,899
+pour que le SGC continue à opérer et ce,
+à n'importe quel prix. Et on vous soutient.
+
+156
+00:14:02,948 --> 00:14:06,304
+S'ils ne trouvent pas une solution
+d'ici deux jours,
+
+157
+00:14:06,388 --> 00:14:10,461
+on vous donnera l'ordre d'envoyer
+à nouveau des équipes par le Stargate.
+
+158
+00:14:13,268 --> 00:14:16,943
+Vos équipes sont saines et sauves.
+On a rempli notre contrat.
+
+159
+00:14:17,028 --> 00:14:20,304
+On doit envoyer une équipe
+en mission d'enquête.
+
+160
+00:14:20,388 --> 00:14:22,856
+Nos alliés extraterrestres nous aideront.
+
+161
+00:14:22,948 --> 00:14:25,587
+- Vos alliés extraterrestres?
+- Ceux de la Terre.
+
+162
+00:14:25,668 --> 00:14:28,136
+Tant que la porte est active,
+
+163
+00:14:28,228 --> 00:14:30,947
+le peuple russe
+est vulnérable à toute attaque.
+
+164
+00:14:31,028 --> 00:14:35,704
+Nous sommes ici pour vérifier que
+les ordres de nos dirigeants sont suivis.
+
+165
+00:14:35,788 --> 00:14:37,779
+Nous ne sommes pas là pour négocier.
+
+166
+00:14:37,868 --> 00:14:40,940
+Au contraire, c'est exactement
+ce pourquoi vous êtes là.
+
+167
+00:14:41,028 --> 00:14:43,303
+Selon cet accord regrettable,
+
+168
+00:14:43,388 --> 00:14:46,221
+nous devons cesser d'activer le Stargate,
+
+169
+00:14:46,308 --> 00:14:49,345
+pas le mettre à votre disposition
+dès que vous le jugez bon.
+
+170
+00:14:49,428 --> 00:14:51,180
+Pour utiliser notre technologie,
+
+171
+00:14:51,268 --> 00:14:55,147
+vous devez nous offrir
+quelque chose de valeur en échange.
+
+172
+00:14:59,548 --> 00:15:01,539
+Salut, Jack.
+
+173
+00:15:02,508 --> 00:15:04,499
+Espèce de salaud.
+
+174
+00:15:05,908 --> 00:15:08,058
+- Du calme.
+- Tu vas voir.
+
+175
+00:15:08,148 --> 00:15:09,740
+On nous regarde.
+
+176
+00:15:09,828 --> 00:15:13,503
+- Je m'en fous.
+- Ce n'est pas moi qui t'ai tiré dessus.
+
+177
+00:15:13,588 --> 00:15:17,297
+- Je te faisais confiance.
+- Je viendrais ici si c'était moi?
+
+178
+00:15:17,388 --> 00:15:20,186
+- Possible.
+- Je te le jure.
+
+179
+00:15:20,268 --> 00:15:22,782
+- Alors qui m'a tiré dessus?
+- Je l'ignore.
+
+180
+00:15:22,868 --> 00:15:26,099
+- Que sais-tu?
+- Ce qui figure dans les dossiers du NlD.
+
+181
+00:15:26,188 --> 00:15:28,986
+On t'a tiré dessus
+et le Goa'uld s'est échappé.
+
+182
+00:15:29,068 --> 00:15:33,380
+Tu es revenu à Colorado Springs
+pour me dire que ce n'est pas toi?
+
+183
+00:15:33,708 --> 00:15:37,747
+Sinon, tu ne m'aurais pas cru.
+Et je voulais te mettre en garde.
+
+184
+00:15:37,828 --> 00:15:40,820
+- A quel propos?
+- Je suis au courant pour Teal'c.
+
+185
+00:15:40,908 --> 00:15:43,581
+- Et?
+- J'espère que vous le récupérerez.
+
+186
+00:15:44,868 --> 00:15:47,507
+- Et la mise en garde?
+- Méfie-toi de Frank Simmons.
+
+187
+00:15:47,588 --> 00:15:50,261
+Encore lui. C'est quoi votre problème?
+
+188
+00:15:50,348 --> 00:15:53,067
+On se connaît bien.
+Je ne sais pas ce qu'il mijote,
+
+189
+00:15:53,148 --> 00:15:57,460
+mais je peux t'assurer que ça ne présage
+rien de bon pour Teal'c ou le SGC.
+
+190
+00:15:57,548 --> 00:16:00,187
+- Super.
+- Je reste en ville pour quelques jours.
+
+191
+00:16:00,268 --> 00:16:05,388
+Je veux voir la suite. Je suis
+à l'hôtel Accent, au nom de Cassidy.
+
+192
+00:16:05,468 --> 00:16:07,823
+David ou Shaun?
+
+193
+00:16:07,908 --> 00:16:10,024
+Butch.
+
+194
+00:16:10,628 --> 00:16:15,179
+Simmons dit que c'est toi
+qui as terni le nom du NlD.
+
+195
+00:16:17,268 --> 00:16:19,259
+Et tu le crois?
+
+196
+00:16:24,788 --> 00:16:27,018
+Fais-moi confiance. Je le connais.
+
+197
+00:16:27,108 --> 00:16:29,576
+C'est moi qui l'ai recruté.
+
+198
+00:16:37,828 --> 00:16:39,022
+Merci.
+
+199
+00:16:39,108 --> 00:16:40,860
+Commandant.
+
+200
+00:16:42,028 --> 00:16:45,384
+- Docteur.
+- On a pris un mauvais départ.
+
+201
+00:16:45,468 --> 00:16:48,699
+Quel facteur de probabilité
+vous a permis d'en arriver là?
+
+202
+00:16:48,788 --> 00:16:51,780
+Sachez que je ne travaille pas
+pour le colonel Simmons.
+
+203
+00:16:51,868 --> 00:16:56,225
+- Qu'est-ce que ça change?
+- J'ai senti une légère tension.
+
+204
+00:16:56,308 --> 00:16:59,106
+Etant dans l'armée de l'air,
+j'obéis au major général.
+
+205
+00:16:59,188 --> 00:17:01,099
+Ca change tout.
+
+206
+00:17:01,188 --> 00:17:04,578
+Je voulais juste vous offrir
+mon analyse en toute bonne foi.
+
+207
+00:17:04,668 --> 00:17:08,456
+On perd son temps
+si on pense avoir raison sur tout.
+
+208
+00:17:08,548 --> 00:17:11,858
+Le temps gagné vous permet
+de vous consacrer à votre fan-club.
+
+209
+00:17:12,388 --> 00:17:15,186
+La porte ne devrait pas
+fonctionner sans composeur.
+
+210
+00:17:15,268 --> 00:17:18,704
+Votre ordinateur ignore
+220 des 400 signaux de contre-réaction
+
+211
+00:17:18,788 --> 00:17:21,177
+émis par la porte quand vous composez.
+
+212
+00:17:21,268 --> 00:17:23,862
+Vous avez eu
+le message d'erreur par pur hasard.
+
+213
+00:17:23,948 --> 00:17:28,385
+D'ailleurs, je suis surpris que vous ayez
+annulé la procédure malgré ce message.
+
+214
+00:17:28,468 --> 00:17:30,459
+Qu'est-ce que vous insinuez?
+
+215
+00:17:30,548 --> 00:17:35,576
+J'ai lu les rapports. Vous avez souvent
+ignoré les protocoles de composition.
+
+216
+00:17:35,668 --> 00:17:39,263
+Je présente les risques,
+je ne décide pas si on les prend.
+
+217
+00:17:39,348 --> 00:17:43,466
+Mais si vous avez une remarque positive
+à faire, allez-y. Sinon, sortez.
+
+218
+00:17:46,988 --> 00:17:50,344
+Sam, les Russes ont accepté
+de laisser sortir une équipe.
+
+219
+00:17:50,428 --> 00:17:53,738
+- Le SG-5 a contacté les Tok'ras.
+- Qu'ont-ils dit?
+
+220
+00:17:53,828 --> 00:17:56,945
+Que ce problème vient du fait
+qu'on n'a pas de composeur.
+
+221
+00:17:57,028 --> 00:17:59,861
+Un composeur aurait compensé
+pour la perte d'énergie
+
+222
+00:17:59,948 --> 00:18:02,178
+et la porte aurait achevé la réintégration.
+
+223
+00:18:02,268 --> 00:18:06,784
+Si un composeur peut empêcher
+ce problème, il peut peut-être y remédier.
+
+224
+00:18:06,868 --> 00:18:10,065
+Les Russes sont-ils prêts
+à nous prêter leur composeur?
+
+225
+00:18:10,388 --> 00:18:12,697
+Pour le moment, c'est impossible.
+
+226
+00:18:12,788 --> 00:18:16,906
+- Sauf si on leur rend l'Alaska.
+- A ce point?
+
+227
+00:18:16,988 --> 00:18:19,343
+D'après les Tok'ras,
+même avec un composeur,
+
+228
+00:18:19,428 --> 00:18:21,578
+ça pourrait ne pas marcher.
+
+229
+00:18:21,668 --> 00:18:24,978
+Ca risquerait de lancer
+le protocole de réinitialisation.
+
+230
+00:18:25,068 --> 00:18:27,536
+Qu'ont-ils suggéré, alors?
+
+231
+00:18:27,628 --> 00:18:31,940
+Rien. lls vont y réfléchir mais ils ne savent
+pas combien de temps ça prendra.
+
+232
+00:18:32,028 --> 00:18:35,145
+- Désolé pour ces mauvaises nouvelles.
+- Moi aussi.
+
+233
+00:18:35,228 --> 00:18:37,298
+Merci, Daniel. Au revoir.
+
+234
+00:18:44,028 --> 00:18:46,019
+Merci. Je n'y manquerai pas.
+
+235
+00:18:47,668 --> 00:18:50,057
+- Puis-je entrer?
+- Ai-je le choix?
+
+236
+00:18:54,828 --> 00:18:58,104
+Le temps presse.
+ll vous reste à peine 32 heures.
+
+237
+00:18:58,868 --> 00:19:01,860
+Vous n'avez pas fermé la porte
+pour me dire ça, si?
+
+238
+00:19:01,948 --> 00:19:05,384
+On dirait que malgré
+leur puissance intellectuelle couplée,
+
+239
+00:19:05,468 --> 00:19:09,143
+le commandant Carter et le Dr McKay
+n'arriveront à rien dans les temps.
+
+240
+00:19:09,228 --> 00:19:12,026
+J'essaie d'allonger le délai.
+
+241
+00:19:14,548 --> 00:19:16,982
+Pourquoi êtes-vous ici, colonel?
+
+242
+00:19:20,708 --> 00:19:25,224
+Je peux vous fournir les informations
+qui permettront de sauver Teal'c.
+
+243
+00:19:25,588 --> 00:19:27,465
+- D'oû les avez-vous?
+- Peu importe.
+
+244
+00:19:27,588 --> 00:19:32,139
+- Bien au contraire.
+- L'important, c'est qu'elles sont payantes.
+
+245
+00:19:33,428 --> 00:19:37,057
+Vous parlez au nom du NlD?
+Je n'en crois pas mes oreilles.
+
+246
+00:19:37,148 --> 00:19:38,979
+Ne nous égarons pas.
+
+247
+00:19:39,068 --> 00:19:43,744
+Je me demande combien d'infractions
+vous êtes en train de commettre.
+
+248
+00:19:43,828 --> 00:19:45,819
+Mon général, vous avez deux options.
+
+249
+00:19:45,908 --> 00:19:47,899
+Soit vous me donnez ce que je veux -
+
+250
+00:19:47,988 --> 00:19:51,344
+un bien petit geste vu l'enjeu,
+au moins à vos yeux -
+
+251
+00:19:51,428 --> 00:19:55,740
+soit vous appelez vos supérieurs
+et leur rapportez cette conversation.
+
+252
+00:19:55,828 --> 00:19:58,945
+Auquel cas je nierai tout.
+
+253
+00:19:59,028 --> 00:20:02,179
+Je songe plutôt
+à vous faire arrêter sur-le-champ.
+
+254
+00:20:03,428 --> 00:20:09,298
+Allez-y. Et je vous garantis
+que vous ne reverrez jamais Teal'c.
+
+255
+00:20:38,708 --> 00:20:40,858
+Je pourrais m'occuper de lui.
+
+256
+00:20:40,948 --> 00:20:42,939
+- Quoi?
+- Simmons.
+
+257
+00:20:43,028 --> 00:20:47,704
+Et m'assurer qu'il ne pose plus problème.
+On me recherche déjà pour trahison.
+
+258
+00:20:47,788 --> 00:20:50,461
+Faisons comme si
+tu n'avais jamais dit ça.
+
+259
+00:20:50,548 --> 00:20:53,016
+Je parie que c'est lui qui t'a tiré dessus.
+
+260
+00:20:55,828 --> 00:21:00,379
+Ce salaud est allé trouver Hammond
+et a osé le faire chanter?
+
+261
+00:21:01,508 --> 00:21:03,260
+Chapeau bas, quand même.
+
+262
+00:21:03,348 --> 00:21:05,384
+Qu'a-t-il demandé en échange?
+
+263
+00:21:05,468 --> 00:21:07,936
+Une arme de poing goa'uld.
+
+264
+00:21:08,028 --> 00:21:11,225
+Autant avouer qu'ils ont
+le Goa'uld qui s'est échappé.
+
+265
+00:21:11,308 --> 00:21:13,697
+- C'est ce qu'on espère.
+- Pourquoi?
+
+266
+00:21:13,788 --> 00:21:17,497
+- ll nous dirait ce qu'il a dit à Simmons.
+- ll faut d'abord le trouver.
+
+267
+00:21:23,108 --> 00:21:25,622
+C'est inacceptable.
+
+268
+00:21:27,028 --> 00:21:29,781
+On a fait en sorte
+que vos équipes puissent rentrer.
+
+269
+00:21:30,108 --> 00:21:34,101
+Vous avez même pu envoyer une équipe
+en mission de reconnaissance.
+
+270
+00:21:34,188 --> 00:21:37,385
+En échange, on vous somme
+de répondre à toutes ces demandes.
+
+271
+00:21:37,468 --> 00:21:40,983
+Votre gouvernement a accepté
+qu'on utilise votre porte.
+
+272
+00:21:41,068 --> 00:21:43,423
+ll n'était pas question d'exigences.
+
+273
+00:21:43,508 --> 00:21:48,946
+La Russie ne vous laissera pas mener
+un programme sans notre participation.
+
+274
+00:21:49,028 --> 00:21:52,577
+Une équipe russe devra être postée
+en permanence à votre base,
+
+275
+00:21:52,788 --> 00:21:55,700
+elle devra avoir
+accès aux rapports de mission,
+
+276
+00:21:55,788 --> 00:21:58,302
+et toute technologie développée
+
+277
+00:21:58,388 --> 00:22:02,700
+grâce à l'utilisation présente, passée
+et future du Stargate devra être partagée.
+
+278
+00:22:04,188 --> 00:22:05,940
+Sinon?
+
+279
+00:22:06,028 --> 00:22:10,180
+Votre gouvernement n'a aucun intérêt
+à mener son propre programme.
+
+280
+00:22:10,268 --> 00:22:13,499
+Le vent politique tourne, commandant.
+Et n'oubliez pas,
+
+281
+00:22:13,588 --> 00:22:18,104
+un composeur nous permettra de faire
+de notre base la porte principale.
+
+282
+00:22:18,708 --> 00:22:21,586
+Vous réalisez sûrement
+
+283
+00:22:21,668 --> 00:22:24,546
+que vos propos ressemblent
+à une déclaration de guerre.
+
+284
+00:22:25,068 --> 00:22:30,062
+Comment les USA s'engageraient-ils dans
+une guerre dont son peuple ignore tout?
+
+285
+00:22:30,188 --> 00:22:32,656
+Ce ne serait pas la première fois,
+mon colonel.
+
+286
+00:22:33,268 --> 00:22:36,180
+Que faut-il pour que
+vous nous donniez ce composeur?
+
+287
+00:22:37,708 --> 00:22:40,176
+Je suis sérieux. Jouons cartes sur table.
+
+288
+00:22:41,628 --> 00:22:45,303
+Pour vous, le composeur est le moyen
+de marchander mais tout se paye
+
+289
+00:22:45,388 --> 00:22:49,461
+et on ne sait toujours pas
+quel prix vous satisferait.
+
+290
+00:22:49,548 --> 00:22:53,223
+- Dr Jackson...
+- Non. ll a raison.
+
+291
+00:22:53,308 --> 00:22:55,299
+Le problème,
+
+292
+00:22:55,388 --> 00:23:00,143
+c'est que tant que l'on ne sait pas ce que
+le SGC possède comme technologie,
+
+293
+00:23:00,948 --> 00:23:03,940
+il est impossible
+de fixer un prix raisonnable.
+
+294
+00:23:13,348 --> 00:23:16,977
+Le NlD t'a repéré la dernière fois
+que tu as fait ça, non?
+
+295
+00:23:17,468 --> 00:23:21,256
+La liaison que j'utilise
+rebondit sur cinq satellites.
+
+296
+00:23:21,348 --> 00:23:24,340
+S'ils repèrent un signal,
+ils auront du mal à le pister.
+
+297
+00:23:24,428 --> 00:23:29,183
+- On épluche quoi?
+- Les bases d'opérations spéciales du NlD.
+
+298
+00:23:29,268 --> 00:23:31,338
+On les appelle des abris.
+
+299
+00:23:31,828 --> 00:23:33,944
+Organisation légitime...
+
+300
+00:23:34,068 --> 00:23:36,662
+C'est le seul moyen
+de retrouver ce Goa'uld.
+
+301
+00:23:38,188 --> 00:23:41,737
+- Comment ça?
+- En vérifiant les opérations légitimes.
+
+302
+00:23:42,388 --> 00:23:46,097
+Les opérations non-officielles
+ne sont pas répertoriées,
+
+303
+00:23:46,188 --> 00:23:51,501
+mais les actions officielles du NlD
+doivent l'être auprès du Pentagone.
+
+304
+00:23:51,588 --> 00:23:54,739
+Si Simmons a utilisé un avion du NlD
+pour aller voir M. Serpent,
+
+305
+00:23:54,828 --> 00:23:57,217
+le plan de vol a été enregistré.
+
+306
+00:23:57,308 --> 00:23:59,663
+Ce serait stupide, non?
+
+307
+00:23:59,748 --> 00:24:02,865
+Simmons a saisi
+l'opportunité de la situation
+
+308
+00:24:02,948 --> 00:24:05,826
+mais le délai du Pentagone
+était assez bref.
+
+309
+00:24:05,908 --> 00:24:08,342
+Les plans de vol
+du NlD sont confidentiels
+
+310
+00:24:08,428 --> 00:24:12,660
+et il y a peu de personnes qui savent
+oû sont tous les abris du NlD.
+
+311
+00:24:12,748 --> 00:24:14,818
+LlAlSON EN COURS
+
+312
+00:24:14,908 --> 00:24:17,217
+ACCES AUTORlSE
+
+313
+00:24:17,308 --> 00:24:21,301
+Tu as la chance d'en connaître une.
+
+314
+00:24:23,468 --> 00:24:25,106
+REGlSTRE DE VOL DU NlD
+
+315
+00:24:25,188 --> 00:24:28,737
+ll est passé par Minot
+pour aller à Colorado Springs?
+
+316
+00:24:28,828 --> 00:24:31,422
+Le Dakota du Nord
+n'est pas vraiment sur le chemin.
+
+317
+00:24:33,468 --> 00:24:35,106
+ll n'y a pas d'interrupteur.
+
+318
+00:24:35,188 --> 00:24:39,943
+Le vortex instable d'un couloir
+espace-temps nettoie les cristaux.
+
+319
+00:24:41,708 --> 00:24:46,259
+Vous avez une idée de l'excès d'énergie
+dégagé par une des ces explosions?
+
+320
+00:24:47,628 --> 00:24:49,619
+Figurez-vous que oui.
+
+321
+00:24:49,708 --> 00:24:53,018
+ll faut établir un horizon du trou noir
+sans le vortex.
+
+322
+00:24:53,108 --> 00:24:54,860
+- lmpossible.
+- Ca s'est déjà fait.
+
+323
+00:24:54,948 --> 00:24:58,020
+Avec une baguette magique?
+ll y a du citron sur le poulet?
+
+324
+00:24:58,108 --> 00:25:00,099
+C'est du poulet au citron.
+
+325
+00:25:00,908 --> 00:25:03,547
+Je suis mortellement
+allergique aux agrumes.
+
+326
+00:25:03,628 --> 00:25:07,382
+Une goutte de citron et je pourrais mourir.
+Je vais prendre ce truc.
+
+327
+00:25:12,908 --> 00:25:15,547
+Je dois faire attention.
+
+328
+00:25:20,988 --> 00:25:26,301
+Et à quoi serait-il connecté,
+cet horizon du trou noir fictif?
+
+329
+00:25:27,348 --> 00:25:28,542
+Vous avez faim?
+
+330
+00:25:29,628 --> 00:25:31,425
+Je meurs de faim.
+
+331
+00:25:31,508 --> 00:25:35,626
+C'est encore pire que ça en a l'air
+mais ça pare à l'hypoglycémie.
+
+332
+00:25:38,268 --> 00:25:42,181
+L'horizon du trou noir vous envoie
+dans le couloir espace-temps.
+
+333
+00:25:42,268 --> 00:25:46,307
+On peut peut-être avoir un horizon
+du trou noir sans couloir espace-temps.
+
+334
+00:25:46,388 --> 00:25:49,186
+Peut-être, éventuellement, possiblement.
+
+335
+00:25:49,268 --> 00:25:51,941
+ll faut juste relancer la rematérialisation.
+
+336
+00:25:52,028 --> 00:25:53,586
+Commandant,
+
+337
+00:25:53,668 --> 00:25:57,900
+même si on obtenait un horizon du trou
+noir viable sans couloir espace-temps,
+
+338
+00:25:57,988 --> 00:26:00,582
+- Teal'c ne serait pas réintégré.
+- Pourquoi pas?
+
+339
+00:26:00,668 --> 00:26:04,547
+Les cristaux qui gardent la signature
+énergétique avant la réintégration,
+
+340
+00:26:04,628 --> 00:26:06,983
+ce ne sont pas
+des disques durs magnétiques.
+
+341
+00:26:07,068 --> 00:26:08,706
+Je sais. Ce sont des cristaux.
+
+342
+00:26:09,188 --> 00:26:11,782
+Vous faites fi des lois
+de la thermodynamique.
+
+343
+00:26:11,868 --> 00:26:14,905
+L'entropie veut que les cristaux
+ne gardent pas l'énergie.
+
+344
+00:26:14,988 --> 00:26:18,537
+Je l'ai mesurée.
+On peut parler de ''preuve quantitative''.
+
+345
+00:26:18,628 --> 00:26:22,507
+Je pense que l'énergie importe peu
+une fois imprimée sur les cristaux.
+
+346
+00:26:22,588 --> 00:26:24,738
+Et cette affabulation est basée sur...?
+
+347
+00:26:26,268 --> 00:26:30,944
+La porte doit stocker ses zéro et ses un
+à un niveau subatomique des cristaux.
+
+348
+00:26:31,028 --> 00:26:35,465
+Même si elle se dégrade, l'énergie
+stockée le plus récemment existe encore.
+
+349
+00:26:35,548 --> 00:26:37,300
+C'est ce que vous pensez.
+
+350
+00:26:37,388 --> 00:26:40,425
+ll s'agit de physique quantique
+qui nous dépasse.
+
+351
+00:26:40,508 --> 00:26:44,786
+Plus d'un tiers de l'énergie requise
+pour réintégrer Teal'c a disparu.
+
+352
+00:26:44,868 --> 00:26:48,383
+- Ca m'étonnerait.
+- Encore une de vos hypothèses.
+
+353
+00:26:48,468 --> 00:26:52,700
+Vous arriverez peut-être à amener la porte
+à réintégrer ce qu'elle a en mémoire,
+
+354
+00:26:52,788 --> 00:26:55,177
+- mais vous n'aimerez pas le résultat.
+- A voir.
+
+355
+00:26:55,268 --> 00:26:58,385
+Teal'c est mort et cette polémique
+est une perte de temps.
+
+356
+00:26:58,468 --> 00:27:03,098
+Le Pentagone va ordonner à Hammond de
+reprendre les opérations dans 16 heures.
+
+357
+00:27:03,628 --> 00:27:06,540
+Voilà pourquoi ils ont opté
+pour un délai de 48 heures.
+
+358
+00:27:06,628 --> 00:27:08,983
+Vous leur avez dit
+que Teal'c serait déjà mort.
+
+359
+00:27:09,068 --> 00:27:11,582
+ll vous a fallu du temps.
+
+360
+00:27:12,068 --> 00:27:15,424
+- Pauvre crétin.
+- Si seulement vous n'étiez pas si jolie.
+
+361
+00:27:16,868 --> 00:27:20,099
+J'ai toujours eu un faible
+pour les blondes écervelées.
+
+362
+00:27:21,348 --> 00:27:23,464
+Allez donc sucer un citron.
+
+363
+00:27:24,068 --> 00:27:26,866
+Très sexy.
+
+364
+00:28:01,268 --> 00:28:04,419
+Quelqu'un s'est introduit
+par effraction. Section R9.
+
+365
+00:28:04,508 --> 00:28:06,897
+Sûrement ce maudit écureuil.
+
+366
+00:28:06,988 --> 00:28:09,377
+Emmène des renforts, Joe.
+
+367
+00:28:11,628 --> 00:28:13,141
+Fais-moi un rapport.
+
+368
+00:28:19,868 --> 00:28:22,940
+- Paul, va voir ce qui se passe. Avec Peter.
+- On y va.
+
+369
+00:28:25,748 --> 00:28:28,501
+Coupure de courant à l'unité centrale.
+
+370
+00:28:28,588 --> 00:28:30,977
+Je branche le générateur de secours.
+
+371
+00:28:35,708 --> 00:28:40,657
+Alerte rouge. Le générateur ne marche
+pas. Le système n'est pas opérationnel.
+
+372
+00:28:40,748 --> 00:28:42,943
+Je répète, système non opérationnel.
+
+373
+00:28:43,028 --> 00:28:45,747
+Ron, va voir ce qui se passe
+avec le générateur.
+
+374
+00:28:45,828 --> 00:28:48,103
+Paul, Peter, que se passe-t-il?
+
+375
+00:28:48,188 --> 00:28:50,179
+Qu'est-ce qui se passe?
+
+376
+00:29:09,308 --> 00:29:11,697
+Jack, je suis entré. Rebranche-le.
+
+377
+00:29:26,308 --> 00:29:29,106
+ll reste deux types qui gardent le Goa'uld.
+
+378
+00:29:51,028 --> 00:29:53,019
+Comme on se retrouve.
+
+379
+00:29:54,108 --> 00:29:55,507
+Qu'est-ce que vous voulez?
+
+380
+00:29:55,588 --> 00:29:58,421
+Vous allez me dire ce que je veux savoir.
+
+381
+00:30:11,708 --> 00:30:14,347
+lls ont fait ce qu'on
+leur a demandé de bon gré.
+
+382
+00:30:14,428 --> 00:30:17,738
+lls veulent juste qu'on leur donne
+ce qu'on leur avait promis.
+
+383
+00:30:17,828 --> 00:30:20,388
+- Vous avez perdu la tête?
+- On peut en discuter ici?
+
+384
+00:30:20,468 --> 00:30:24,017
+La pièce est sur écoute
+mais ils savent déjà tout ça.
+
+385
+00:30:24,108 --> 00:30:26,668
+Autant qu'ils sachent que jamais
+
+386
+00:30:26,748 --> 00:30:29,342
+nous ne leur donnerons
+de naqahdah raffiné.
+
+387
+00:30:29,428 --> 00:30:33,467
+Je parle d'un générateur au naqahdah,
+soit une source d'énergie sans danger.
+
+388
+00:30:33,548 --> 00:30:36,346
+Qui fonctionne au naqahdah.
+
+389
+00:30:36,428 --> 00:30:39,500
+Vous savez plus que tous
+quelle est sa force d'explosion.
+
+390
+00:30:39,588 --> 00:30:44,218
+lls pourraient nous faire sauter 200 fois
+au lieu de 100? Quelle différence?
+
+391
+00:30:44,868 --> 00:30:46,426
+La différence,
+
+392
+00:30:46,508 --> 00:30:50,296
+c'est qu'une seule bombe suffirait
+à traverser le bouclier défensif.
+
+393
+00:30:50,388 --> 00:30:55,257
+Le fait est que vous leur devez déjà
+la technologie du générateur.
+
+394
+00:30:55,348 --> 00:30:59,899
+Le fait est qu'on ne la leur donne pas et
+qu'ils ne nous donnent pas le composeur.
+
+395
+00:30:59,988 --> 00:31:03,981
+On pourrait surveiller l'utilisation
+du naqahdah. Et eux, la porte.
+
+396
+00:31:04,068 --> 00:31:06,536
+Là n'est pas la question.
+
+397
+00:31:09,068 --> 00:31:12,299
+N'est-ce pas mieux pour tous
+que l'économie russe soit stable?
+
+398
+00:31:12,388 --> 00:31:15,539
+On ignore à qui
+ils vendront la technologie.
+
+399
+00:31:15,628 --> 00:31:18,586
+Tout ce temps passé à utiliser
+la porte pour sauver le monde
+
+400
+00:31:18,668 --> 00:31:20,863
+n'a en fait servi qu'à sauver les USA.
+
+401
+00:31:20,948 --> 00:31:24,861
+Bon sang, mais on ignore
+si le composeur suffira à sauver Teal'c.
+
+402
+00:31:24,948 --> 00:31:29,658
+La technologie du générateur à naqahdah
+ne sera pas maîtrisée avant des années.
+
+403
+00:31:29,748 --> 00:31:31,739
+En attendant, on obtient le composeur
+
+404
+00:31:31,828 --> 00:31:36,424
+et on fait en sorte que les Russes ne
+puissent jamais plus contrôler la porte.
+
+405
+00:31:37,428 --> 00:31:40,704
+Voilà pourquoi ils n'accepteront jamais.
+
+406
+00:31:42,228 --> 00:31:44,617
+Demandons-leur.
+
+407
+00:31:52,588 --> 00:31:55,022
+- Laisse-moi entrer.
+- Sois prudent, Jack.
+
+408
+00:31:55,108 --> 00:31:57,099
+Fais ce que je te dis.
+
+409
+00:32:06,508 --> 00:32:10,103
+Bon, répétez
+ce que vous avez dit à Simmons.
+
+410
+00:32:16,988 --> 00:32:19,866
+De quoi parlez-vous précisément?
+
+411
+00:32:19,948 --> 00:32:22,746
+- Comment sauver Teal'c?
+- Pourquoi vous le dirais-je?
+
+412
+00:32:22,828 --> 00:32:26,503
+- Parce que sinon, je vous tue.
+- J'en doute.
+
+413
+00:32:32,348 --> 00:32:36,057
+Pourquoi votre vie m'importerait-elle?
+
+414
+00:32:36,148 --> 00:32:37,661
+Et l'hôte?
+
+415
+00:32:37,748 --> 00:32:42,060
+ll a essayé de tuer un ami pour sauver
+sa peau, alors sa vie m'importe peu.
+
+416
+00:32:42,148 --> 00:32:44,946
+Si vous me tuez, Teal'c mourra.
+
+417
+00:32:59,948 --> 00:33:02,587
+Offrez-moi une autre option.
+
+418
+00:33:06,428 --> 00:33:08,384
+Laissez-moi partir.
+
+419
+00:33:08,468 --> 00:33:11,824
+Une fois libre,
+je vous contacterai avec l'information.
+
+420
+00:33:11,908 --> 00:33:14,183
+Teal'c préférerait que je vous descende.
+
+421
+00:33:14,268 --> 00:33:16,259
+Allez-y.
+
+422
+00:33:16,348 --> 00:33:21,183
+Vous savez, le colonel Simmons
+était meilleur que vous à ce jeu-là.
+
+423
+00:33:21,268 --> 00:33:25,864
+Au moins, il m'a offert quelque chose
+de valable pour mes révélations.
+
+424
+00:33:33,428 --> 00:33:35,419
+Merci.
+
+425
+00:33:48,708 --> 00:33:50,699
+Je ne comprends pas.
+
+426
+00:33:51,148 --> 00:33:53,616
+ll y a une caméra dans la cellule.
+
+427
+00:33:56,548 --> 00:33:59,108
+Ca remonte à deux jours.
+
+428
+00:34:01,908 --> 00:34:03,899
+Je l'ai.
+
+429
+00:34:17,508 --> 00:34:20,102
+- C'est ce que vous voulez.
+- Pas exactement.
+
+430
+00:34:20,428 --> 00:34:24,865
+Et nous admettons que les deux parties
+n'ont pas respecté l'accord antérieur.
+
+431
+00:34:24,948 --> 00:34:29,100
+Nous voulons dire que nous sommes
+prêts à collaborer pour que ça marche.
+
+432
+00:34:29,188 --> 00:34:33,545
+Laissez-nous accéder à votre base
+et aux informations relatives au Stargate.
+
+433
+00:34:33,628 --> 00:34:36,586
+Au bout d'un mois,
+nous verrons si nous vous le donnons.
+
+434
+00:34:36,828 --> 00:34:39,501
+Attendez, ça ne va pas.
+
+435
+00:34:39,588 --> 00:34:42,102
+On ne négocie pas.
+On le veut tout de suite.
+
+436
+00:34:42,188 --> 00:34:46,625
+La vie d'un homme, d'un ami, est en jeu.
+Ce composeur pourrait le sauver.
+
+437
+00:34:46,708 --> 00:34:51,498
+Quand votre équipe a disparu, le SG-1 ,
+avec cet ami, est venu à sa rescousse.
+
+438
+00:34:51,628 --> 00:34:54,825
+Et au cours de l'opération,
+trois soldats russes ont péri.
+
+439
+00:34:54,908 --> 00:34:56,546
+Ce n'est pas notre faute.
+
+440
+00:34:56,628 --> 00:35:00,223
+Le colonel Zukov était un ami
+et il est mort, docteur.
+
+441
+00:35:00,308 --> 00:35:03,027
+Alors vous devez savoir
+ce que je ressens.
+
+442
+00:35:05,788 --> 00:35:09,303
+Ecoutez, prêtez-nous votre composeur.
+
+443
+00:35:13,628 --> 00:35:16,062
+Vous pouvez venir, si vous voulez.
+
+444
+00:35:17,148 --> 00:35:19,264
+Je vous en prie.
+
+445
+00:35:20,308 --> 00:35:22,299
+Mon général, Daniel vient d'appeler.
+
+446
+00:35:22,388 --> 00:35:25,539
+Les Russes acceptent
+de nous prêter le composeur.
+
+447
+00:35:25,628 --> 00:35:28,506
+- Ca changera quelque chose?
+- Ca pourrait.
+
+448
+00:35:28,588 --> 00:35:32,103
+Le président m'a ordonné de reprendre
+le cours des opérations.
+
+449
+00:35:32,188 --> 00:35:34,941
+- Mon général...
+- SG-2 va partir en reconnaissance
+
+450
+00:35:35,028 --> 00:35:37,019
+sur P4C-796.
+
+451
+00:35:37,108 --> 00:35:39,622
+- ll me faut plus de temps.
+- J'ai reçu un ordre.
+
+452
+00:35:39,708 --> 00:35:43,303
+Ca m'est égal. Si vous activez la porte,
+vous assassinez Teal'c.
+
+453
+00:35:43,388 --> 00:35:46,061
+La seule option que j'ai
+serait de démissionner.
+
+454
+00:35:46,708 --> 00:35:51,623
+Dans ce cas, je n'aurai plus aucun
+contrôle sur cette base dans une heure.
+
+455
+00:35:52,508 --> 00:35:54,897
+Ca vous suffit?
+
+456
+00:35:58,788 --> 00:36:01,586
+Que puis-je faire d'autre?
+
+457
+00:36:02,668 --> 00:36:04,659
+Rien, mon général.
+
+458
+00:36:15,588 --> 00:36:17,579
+Activez la porte.
+
+459
+00:36:39,428 --> 00:36:42,420
+Le colonel O'Neill veut vous parler.
+C'est urgent.
+
+460
+00:36:42,508 --> 00:36:44,624
+Merci.
+
+461
+00:36:46,508 --> 00:36:48,499
+Chevron cinq encodé.
+
+462
+00:36:49,028 --> 00:36:51,588
+- ll faut tout arrêter.
+- Disposez.
+
+463
+00:36:51,668 --> 00:36:54,705
+Le colonel O'Neill
+sait comment sauver Teal'c.
+
+464
+00:36:54,788 --> 00:36:56,301
+Chevron six encodé.
+
+465
+00:36:56,388 --> 00:36:59,983
+Et il possède des preuves
+incriminant le colonel Simmons.
+
+466
+00:37:00,148 --> 00:37:02,742
+- Elle ment.
+- Annulez la séquence de composition.
+
+467
+00:37:02,828 --> 00:37:05,706
+- Arrêtez le colonel Simmons.
+- C'est grotesque.
+
+468
+00:37:05,788 --> 00:37:08,097
+Emmenez-le. S'il résiste, abattez-le.
+
+469
+00:37:17,588 --> 00:37:22,582
+Avant de connecter le composeur,
+enlevez le cristal de contrôle.
+
+470
+00:37:22,668 --> 00:37:25,136
+Sinon, l'empreinte sera effacée.
+
+471
+00:37:26,948 --> 00:37:29,416
+C'était une plaisanterie. ll plaisantait.
+
+472
+00:37:30,188 --> 00:37:32,144
+- Commandant?
+- Théoriquement...
+
+473
+00:37:32,228 --> 00:37:35,777
+Vous êtes folle? C'est un Goa'uld.
+ll veut votre destruction.
+
+474
+00:37:35,948 --> 00:37:40,703
+Si vous ôtez le cristal de contrôle,
+rien ne régulera la distribution d'énergie.
+
+475
+00:37:40,788 --> 00:37:42,824
+La porte pourrait exploser.
+
+476
+00:37:42,908 --> 00:37:45,706
+- C'est vrai?
+- C'est techniquement possible.
+
+477
+00:37:45,788 --> 00:37:49,986
+La porte est un supraconducteur puissant.
+Mais on peut s'assurer que...
+
+478
+00:37:50,068 --> 00:37:54,505
+Vous êtes barjo. Vous aussi si vous
+l'écoutez. Ce n'est qu'une hypothèse.
+
+479
+00:37:54,588 --> 00:37:58,786
+Ses sentiments altèrent son jugement.
+Teal'c est foutu. ll appartient au passé.
+
+480
+00:37:58,868 --> 00:38:01,428
+On pourrait minimiser
+le risque au maximum.
+
+481
+00:38:01,508 --> 00:38:05,626
+Essayez donc, et vous allez sauter
+pour rien. Je reste pas dans le coin.
+
+482
+00:38:05,708 --> 00:38:08,541
+Votre avion décolle
+pour la Russie dans une heure.
+
+483
+00:38:08,628 --> 00:38:11,062
+Pour la Russie?
+
+484
+00:38:11,228 --> 00:38:16,427
+Votre nouvelle mission: superviser le
+programme de générateur au naqahdah.
+
+485
+00:38:16,508 --> 00:38:20,057
+Je ne vais pas en Russie. Vous savez
+comment est la bouffe, là-bas?
+
+486
+00:38:20,148 --> 00:38:24,699
+- Je suis un civil. Je n'ai pas à obéir.
+- Dépendant de l'armée de l'air...
+
+487
+00:38:26,428 --> 00:38:27,907
+C'est...
+
+488
+00:38:31,868 --> 00:38:34,018
+C'est dégueulasse.
+
+489
+00:38:36,028 --> 00:38:38,747
+Faites ce que vous avez à faire.
+
+490
+00:38:38,828 --> 00:38:40,819
+Oui, mon général.
+
+491
+00:38:50,708 --> 00:38:52,699
+Tenez, mon commandant.
+
+492
+00:38:53,708 --> 00:38:59,021
+Le cristal de contrôle a été enlevé.
+On peut connecter le composeur.
+
+493
+00:38:59,108 --> 00:39:03,499
+La base a été évacuée.
+Poursuivez, commandant.
+
+494
+00:39:03,588 --> 00:39:04,782
+Bien, mon général.
+
+495
+00:39:07,388 --> 00:39:09,663
+Vous êtes sûre de vouloir rester là?
+
+496
+00:39:09,748 --> 00:39:11,739
+Pas vraiment, mon colonel.
+
+497
+00:39:12,748 --> 00:39:14,739
+Je vous parlais pas à vous.
+
+498
+00:39:16,108 --> 00:39:20,181
+Si la porte explose,
+peu importe oû on se trouve dans la base.
+
+499
+00:39:21,188 --> 00:39:22,860
+Bien.
+
+500
+00:39:22,948 --> 00:39:25,940
+Vous pouvez encore
+changer d'avis et partir.
+
+501
+00:39:26,868 --> 00:39:29,223
+Je reste.
+
+502
+00:39:30,108 --> 00:39:32,019
+Allez-y.
+
+503
+00:40:21,948 --> 00:40:25,418
+Ca n'est jamais arrivé
+au cours d'une simulation.
+
+504
+00:40:29,508 --> 00:40:31,897
+Remettez-vous, Volti.
+
+505
+00:40:33,108 --> 00:40:37,340
+- Teal'c, mon pote, tu vas bien?
+- Très bien.
+
+506
+00:40:37,428 --> 00:40:39,988
+Teal'c, que vient-il de se passer?
+
+507
+00:40:41,148 --> 00:40:43,423
+J'ai assouvi ma vengeance.
+
+508
+00:40:43,508 --> 00:40:45,817
+Tanith est mort.
+
+509
+00:40:47,028 --> 00:40:49,383
+C'est bien. Content pour toi.
+
+510
+00:40:51,348 --> 00:40:54,226
+C'est bon de te voir en un seul morceau.
+
+511
+00:40:55,668 --> 00:40:58,057
+On croyait encore t'avoir perdu.
+
+512
+00:40:58,148 --> 00:41:00,457
+Tu es sûr que tu te sens bien?
+
+513
+00:41:00,548 --> 00:41:03,699
+Oui. Qu'est-il arrivé ici?
+
+514
+00:41:03,828 --> 00:41:07,218
+Crois-moi si tu veux:
+c'est un Goa'uld qui t'a sauvé la vie.
+
+515
+00:41:08,028 --> 00:41:09,620
+Jamais de la vie.
+
+516
+00:41:25,028 --> 00:41:27,542
+Sous-titrage Visiontext:
+Raphaëlle Masseaut
+

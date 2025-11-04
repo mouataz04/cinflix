@@ -1,0 +1,386 @@
+{187}{307}COMTE DE JASPER, MISSISSIPPI
+{340}{420}CENTRE PENITENTIAIRE
+{1087}{1165}Ces planches ne supporteront pas|une tornade.
+{1165}{1240}- Faut creuser un trou.|- Whaley!
+{1242}{1330}Un grand trou. Faudrait des pelles.
+{1330}{1430}Toute cette foutue prison va s'envoler.|Ca sert à rien.
+{1475}{1552}- Aide-moi, au moins.|- Ferme-la et tiens ça.
+{1595}{1650}C'est à moi que tu parles?
+{1710}{1787}T'es un dur, pas vrai?
+{1790}{1897}Monsieur le grand criminel. Le dur à cuire.
+{1935}{1995}T'es qu'une petite salope.
+{2005}{2102}T'as pas de fric. T'as rien.
+{2152}{2215}Je la tiens.
+{2282}{2347}Ca ira comme ça?
+{2510}{2565}Pose le marteau, Rawls!
+{2762}{2862}- II a amoché ce vieux Whaley?|- II y a été franco.
+{2865}{2952}- Pourquoi t'as fait ça?|- II m'a emmerdé, chef.
+{2955}{3032}Comme tout le monde. Au mitard.
+{3055}{3125}Vous pouvez pas. La tempête arrive.
+{3125}{3190}Fallaity penser avant de frapper Whaley.
+{3190}{3257}J'emmerde Whaley. Vous pouvez pas faire ça.
+{3260}{3350}Me mettez pas là-dedans.
+{3367}{3460}C'est pas possible. Vous allez me tuer.
+{3462}{3600}- Les tornades ravagent tout le comté.|- Je suis pas responsable des actes de Dieu.
+{3765}{3857}- Bonne chance.|- Laissez-moi sortir!
+{3955}{4005}Ouvrez-moi!
+{4007}{4045}Au secours!
+{4047}{4135}Je vous en prie. Aidez-moi.
+{4552}{4602}Nom de Dieu.
+{4702}{4765}Chef?
+{5220}{5270}Mon Dieu.
+{5985}{6055}ACTIVITE PARANORMALE
+{6177}{6227}LE GOUVERNEMENT NOUS MENT
+{6640}{6697}LA VERITE EST AILLEURS
+{6787}{6877}MORGUE DU COMTE DE HINDS|JACKSON, MISSISSIPPI
+{7180}{7310}- Faut arrêter David Copperfield?|- Oui, mais pas pour ça.
+{7312}{7355}Il s'agit de Raybert Fellowes,
+{7357}{7445}directeur du centre de détention|numéro 6 du Mississippi.
+{7447}{7547}Un surveillant l'a trouvé dans son bureau.|Il n'y avait pas une goutte de sang.
+{7550}{7607}On l'a peut-être tué ailleurs.
+{7610}{7725}Je ne crois pas.|Ca a pris 40 minutes en pleine tornade.
+{7727}{7787}Qu'en penses-tu?
+{7790}{7850}Je ne sais pas.
+{7852}{7965}Il n'est pas juste coupé en deux.|Il manque une partie de l'abdomen.
+{7967}{8050}On dirait une brûlure, mais c'est trop localisé.
+{8052}{8102}Un acide industriel?
+{8130}{8220}On n'a pas trouvé d'acide.
+{8335}{8387}Combustion spontanée.
+{8445}{8527}- Tu y penses, non?|- "Cher journal, aujourd'hui j'ai frémi
+{8530}{8607}quand l'agent Scully|a parlé de combustion spontanée."
+{8610}{8700}Il y a un ou deux cas bien documentés.
+{8767}{8830}Mulder, la ferme.
+{8830}{8910}- Qu'en dis-tu?|- Je n'ai pas de théorie.
+{8955}{8995}Je sais qui en a une.
+{8997}{9125}C'est Pinker Rawls qui a fait le coup,|mais allez savoir comment.
+{9125}{9180}- Qui est Pinker Rawls?|- Un détenu.
+{9180}{9212}C'est pas un enfant de choeur.
+{9215}{9345}Il est censé être mort dans la tornade|qui a précédé le meurtre de Fellowes.
+{9347}{9415}Ce serait l'oeuvre d'un fantôme?
+{9417}{9475}Moi, je ne pense rien. C'est votre boulot.
+{9477}{9535}Je dis juste que Rawls le détestait.
+{9537}{9627}Le chef l'a enfermé dans la cabane|au début de la tempête. Il a pas aimé.
+{9630}{9727}On a retrouvé la cabane|en morceaux grands comme ça,
+{9730}{9782}à 5 km d'ici.
+{9785}{9870}Ici, tout était fermé à clé et barricadé.
+{9870}{9920}Personne n'a pu entrer.
+{9975}{10025}C'est tout ce que je dis.
+{10082}{10135}On cherche un homme mort?
+{10135}{10220}Pas d'accord.|Pour moi, Rawls est encore vivant.
+{10220}{10285}On n'a pas trouvé son corps.
+{10287}{10405}Au risque d'être encore ridicule,|ce n'est pas forcément un meurtre.
+{10407}{10520}D'après ce que je sais,|dans la combustion spontanée,
+{10520}{10580}les conditions climatiques|jouent un grand rôle.
+{10582}{10657}Une tornade peut concorder.
+{10690}{10710}Eclairs, charge statique|avec un fort potentiel électrique.
+{10710}{10787}Eclairs, charge statique|avec un fort potentiel électrique.
+{10805}{10890}Je n'ai rien à redire,|mais pour moi, c'est un meurtre.
+{10912}{10987}Comment a-t-il fait?
+{11025}{11097}Le bureau était fermé à clé.
+{11100}{11172}Le cadavre était derrière la porte.
+{11715}{11760}Des termites?
+{11807}{11870}Il n'avait que ça près de son lit.
+{11920}{11982}Wilson Pinker Rawls, 34 ans.
+{11985}{12085}Huit ans sur une peine de 30|pour un braquage à Bay Saint Louis.
+{12087}{12150}On n'a jamais retrouvé|les 90 000 $ qu'il a volés.
+{12152}{12220}Ils sont pas là.
+{12220}{12267}Regarde.
+{12382}{12435}Il a un casier depuis 1978.
+{12437}{12527}Des petits délits. Il a toujours été violent.
+{12630}{12887}Qui est-ce?
+{12890}{12940}Merci, beauté.
+{12942}{13035}- Tu as sorti la porcelaine.|- On le mérite bien.
+{13130}{13165}Robert?
+{13167}{13245}Je peux te montrer un truc|pour que tu y réfléchisses?
+{13245}{13302}Ils parlent de la tornade.
+{13352}{13397}Regardez ces images.
+{13400}{13475}L'endroit le plus touché|est un pénitencier près de Stringer.
+{13477}{13540}La tempête y a fait deux morts.
+{13542}{13675}Un tourbillon avec des vents|à 220 km/h a traversé le camp
+{13677}{13760}et a frôlé un bâtiment|plein de prisonniers effrayés.
+{13762}{13850}L'une des victimes|est Raybert Fellowes, le directeur,
+{13852}{13925}dans l'administration pénitentiaire|depuis 28 ans.
+{13927}{14060}L'autre est un détenu:|Wilson P. Rawls, 34 ans.
+{14087}{14162}- Excuse-moi.|- Ca va, June?
+{14210}{14265}Il aurait été emporté par les vents violents.
+{14267}{14362}Son corps n'a pas été retrouvé,|mais il n'a pas pu survivre.
+{14467}{14517}22H54
+{15480}{15560}Je suis armé. N'essayez pas de fuir.
+{15575}{15632}Je ne bouge pas.
+{15752}{15822}C'est pas à vous. Enlevez-les.
+{15840}{15925}C'est tellement agréable,|des chaussettes neuves.
+{15927}{15995}- Je ne sais pas pourquoi.|- Enlevez-les, j'ai dit.
+{16105}{16185}C'est ma taille, non?
+{16277}{16370}- Je serai pas serré.|- Vous vous la jouez sacrément.
+{16372}{16422}Venez.
+{16455}{16515}Tournez-vous, les mains derrière.
+{16895}{16940}Ici Bobby, de la sécurité.
+{16940}{17055}J'ai arrêté un intrus|au Value Mart sur la route 60.
+{17057}{17150}Il n'a pas forcé la serrure.|Je ne sais pas comment il est entré.
+{17215}{17300}Il est derrière. J'attends.
+{17690}{17810}- C'est lui?|- Possible. Il faisait sombre.
+{17812}{17877}- Comment s'est-il enfui?|- Qui que ce soit.
+{17880}{17932}Mystère. Un vrai Houdini.
+{17935}{18010}Le temps de me retourner, il avait disparu.
+{18032}{18117}Il était menotté ici.
+{18120}{18175}Je peux voir vos menottes?
+{18492}{18560}Tu as la dernière adresse de Pinker Rawls?
+{19170}{19237}Y a quelqu'un?
+{19425}{19515}- Alors?|- Tu passes à la télé.
+{19517}{19567}Ils disent que tu es mort.
+{19570}{19660}- Elle est où?|- June? Partie.
+{19670}{19745}Ca fait quatre ans qu'elle m'a quitté.
+{19785}{19850}Ca t'énerve qu'on se soit mis ensemble?
+{19885}{19927}Je suis désolé, mon pote.
+{19932}{19997}Je veux ce qui est à moi.
+{20035}{20092}J'ai peut-être son adresse.
+{20432}{20495}Tu as surtout ton flingue.
+{20532}{20600}Sors de chez moi.
+{20602}{20657}Bo, tu vas me descendre?
+{20932}{20982}Fais quelque chose.
+{21697}{21750}La dernière adresse connue de Rawls.
+{21750}{21805}La voiture du gardien.
+{22925}{23022}Arme au poing.|Glissière ouverte. Des douilles partout.
+{23025}{23102}Je ne vois aucun impact de balle, Mulder.
+{23177}{23260}Je le reconnais pas. Et toi?
+{23297}{23362}Bo Merkle. C'est chez lui.
+{23365}{23460}Rawls vivait ici et il est revenu|chercher quelque chose.
+{23462}{23512}90 000 dollars.
+{23537}{23630}Le braquage, il y a huit ans.|On n'a jamais retrouvé le fric.
+{23632}{23682}Il n'a pas dû le dépenser en prison.
+{23685}{23755}M. Merkle non plus, à en juger par la déco.
+{23795}{23862}Elle est peut-être au courant.|La photo a été prise ici.
+{23865}{23897}Oui.
+{23915}{24010}- Je peux faire une recherche.|- Je parie que Rawls la cherche.
+{24202}{24282}Ici l'agent spécial Dana Scully du FBI.
+{24285}{24405}Nous avons un meurtre|au 922, Washington Avenue à Jackson.
+{24407}{24495}Envoyez une équipe le plus vite possible.
+{24992}{25092}J'ai le nom de la fille. June Gurwitch.
+{25095}{25192}Pas d'adresse. Aucune trace depuis 1996.
+{25195}{25252}Elle a pu changer de nom.
+{25285}{25365}Elle avait peut-être peur de finir comme ça.
+{25367}{25420}Les flics ont lancé|un avis de recherche pour Rawls.
+{25422}{25527}Faudrait leur dire de ne pas tirer.|Ca a l'air de l'énerver.
+{25530}{25595}- Même si ce sont des balles...|- C'est le cas.
+{25595}{25705}Leur composition a changé,|comme les menottes et le mur de la prison.
+{25707}{25810}Elles n'auraient pas pu transpercer|le corps de Rawls comme tu le dis.
+{25810}{25890}On l'aurait forcément retrouvé mort.
+{25892}{25985}Je crois qu'il a été transpercé.|Comme il a cassé les menottes.
+{25987}{26085}- Comme il a traversé le mur.|- II traverse des objets solides.
+{26085}{26165}Ce qui change leur composition.|L'acier devient friable.
+{26167}{26232}- Les balles se transforment en poudre.|- La chair en carbone.
+{26235}{26302}Sinon, comment expliquer|ce qui est arrivé à Fellowes
+{26305}{26372}ou à ce pauvre Merkle qui n'a plus de visage?
+{26375}{26440}Ce n'est plus de la science,|mais de l'alchimie.
+{26442}{26545}Il y a sûrement une explication scientifique.|Peut-être la tornade.
+{26547}{26687}Tu l'as dit toi-même: les conditions|climatiques, le potentiel électrique.
+{26690}{26745}Désolée d'avoir évoqué le sujet.
+{26765}{26847}On sait qui on doit chercher?
+{26850}{26920}Comment savoir où retrouver June Gurwitch?
+{26920}{27007}Elle a une soeur, Jackie. J'ai son adresse.
+{27150}{27240}- C'est moi. Je tombe mal?|- Tu tombes toujours mal.
+{27242}{27310}La police de Jackson vient de m'appeler.
+{27312}{27370}Ils te cherchent.
+{27372}{27420}- Tu leur as dit quoi?|- Rien.
+{27420}{27517}Ils ont parlé de Pinker|et de ce qu'il pouvait te vouloir.
+{27520}{27572}Pinker est mort. Ils l'ont dit aux infos.
+{27575}{27680}Tu devrais peut-être les appeler, au cas où.
+{27720}{27757}Je dois te laisser.
+{28842}{28892}Salut, Jackie.
+{29200}{29275}C'est pas très sympa.
+{29510}{29567}Dis-moi où elle est.
+{29570}{29627}Je ne te dirai rien.
+{30092}{30142}FBI.
+{30945}{31070}JE VEUX CE QUI EST A MOI
+{31360}{31410}Il est où?
+{31492}{31530}Parti.
+{31630}{31700}Son fils est chez un ami.|Elle va les rejoindre.
+{31702}{31782}Elle n'a pas dit à Rawls où était sa soeur.
+{31820}{31920}Mulder, elle dit qu'il a traversé un mur.
+{31970}{32045}La bagnole de Merkle est là.|C'est comme ça qu'il est venu.
+{32047}{32135}- J'ignore comment il est parti.|- A pied. Ou il a volé une autre voiture.
+{32135}{32200}Pourquoi partir sans son renseignement?
+{32202}{32337}Il est peut-être encore dans les parages.|Les flics verront ça. Il fauty aller.
+{32347}{32390}- Où ça?|- A Meridian.
+{32390}{32500}C'est là que vit June Gurwitch.|June Burdett, maintenant.
+{33012}{33065}06H12
+{33452}{33507}Nous cherchons June Gurwitch.
+{33510}{33560}Alias June Burdett.
+{33562}{33615}Alias...
+{33677}{33710}C'est à quel sujet?
+{33712}{33785}Un détenu évadé|du nom de Wilson Pinker Rawls.
+{33787}{33905}Il se peut qu'il cherche Mlle Gurwitch|pour lui faire du mal.
+{33905}{33960}Je ne comprends pas.
+{34220}{34285}Pinker est vivant, c'est ça?
+{34587}{34645}Jackie et son fils?
+{34647}{34715}Ils vont bien.
+{34715}{34840}- Qui est Rawls pour vous?|- Une grosse erreur de parcours.
+{34880}{34940}On a vécu ensemble.
+{34997}{35062}Vous savez à qui vous avez affaire?
+{35095}{35160}Un jour, un type a fait|une queue de poisson à Pinker.
+{35160}{35245}Ca arrive à tout le monde tous les jours.
+{35247}{35352}Il l'a suivi sur 100 km|jusque dans l'Etat voisin.
+{35355}{35405}Je le suppliais d'arrêter.
+{35405}{35490}Il l'a suivi jusque chez lui.|L'autre savait pas ce qui l'attendait.
+{35490}{35510}Il l'a suivi jusque chez lui.|L'autre savait pas ce qui l'attendait.
+{35512}{35647}Pinker a arraché un piquet|à une barrière et lui a fendu le crâne.
+{35665}{35710}Il n'a pas changé.
+{35712}{35762}Qu'est-ce qu'il veut?
+{35800}{35860}Le fric?
+{35870}{35927}Les 90 000 dollars du braquage?
+{35930}{36015}Je n'étais pas au courant|jusqu'à ce qu'on vienne l'arrêter.
+{36015}{36100}Pinker était déjà en prison|quand j'ai trouvé l'argent.
+{36180}{36240}Par hasard.
+{36262}{36320}Vous l'avez pris.
+{36322}{36372}En fin de compte, oui.
+{36405}{36467}J'y ai réfléchi une semaine ou deux.
+{36470}{36520}Où est l'argent?
+{36520}{36577}J'ai acheté cette maison.
+{36580}{36720}J'ai acheté des canapés,|des rideaux, un ordinateur.
+{36970}{37042}Je voulais une autre chance.
+{37295}{37407}J'ai un travail, des responsabilités.|Je ne peux pas dispara îti re comme ça.
+{37410}{37512}Il vaut mieux qu'on assure|votre protection jusqu'à ce qu'on l'attrape.
+{37515}{37580}- Pour votre sécurité.|- Sa sécurité à elle.
+{37582}{37665}Ce n'est pas moi qu'il cherche.|C'est elle qui a pris le fric.
+{37667}{37712}- Désolé...|- Tu permets?
+{37750}{37842}J'ai mon propre logement.|Je ne mettrai plus les pieds ici.
+{37845}{37895}Ca vous va?
+{37897}{38010}Je veux partir. Je n'ai rien fait d'illégal.
+{38135}{38195}Ne parlez de ceci à personne, M. Werther.
+{38197}{38265}Je suis en train de tout oublier.
+{38872}{38927}Donnez-moi vos clés.
+{38930}{39002}Emmenez-la. Faites-la surveiller.
+{39005}{39087}- Rawls était dans le coffre?|- On l'a conduit où il voulait aller.
+{40742}{40850}JE VEUX CE QUI EST A MOI
+{41030}{41090}Il veut nous dire quelque chose?
+{41530}{41570}Scully, regarde ça.
+{41572}{41670}Il a dû écrire ça avec son doigt.|Mais regarde ça.
+{41700}{41765}- II s'est arrêté au miroir.|- Ou alors, le miroir l'a arrêté.
+{41767}{41820}Pourquoi un objet est-il solide?
+{41820}{41915}Qu'est-ce qui empêche un objet solide|d'en traverser un autre?
+{41917}{42040}La répulsion électrostatique.|Les électrons se repoussent.
+{42042}{42115}Et si ce que fait Rawls|est une question d'électricité?
+{42117}{42175}Qu'est-ce qui pourrait l'arrêter?
+{42177}{42312}Une résistance au courant électrique.|Un bon isolant. Du caoutchouc. Du verre.
+{42315}{42382}Exactement. Il ne passerait pas à travers ça.
+{42417}{42532}Si ta théorie tient la route,|s'il traverse des murs,
+{42535}{42607}pourquoi faire tout ça pour un butin pareil?
+{42610}{42685}Il peut trouver 90 000 dollars facilement.
+{42712}{42800}Ce n'est pas une histoire de fric.
+{42802}{42890}Pourtant il a retourné tout l'appartement.
+{42892}{42955}C'est en rapport avec ça.
+{42957}{43097}C'est un recouvrement|pour une facture d'hôpital de 1992.
+{43100}{43160}Pour June Gurvitch.
+{43162}{43280}ICD-9, c'est un code hospitalier.
+{43280}{43335}- Celui-ci indique...|- Une grossesse.
+{43337}{43400}Une césarienne, précisément.
+{43437}{43585}C'était il y a sept ans.|Quelque mois après, il était incarcéré.
+{43597}{43697}"Je veux ce qui est à moi."|Cet homme cherche son enfant.
+{43742}{43830}...il assistera aux réunions des Nations Unies.
+{43830}{43955}Dans tout l'Etat, on recherche|Wilson Pinker Rawls, un détenu en fuite.
+{43955}{44030}On le croyait victime de la tempête de mardi,
+{44032}{44070}or il fuit la police.
+{44072}{44160}Il est vraisemblablement armé|et très dangereux.
+{44210}{44292}- J'aimerais appeler ma soeur.|- Désolé. Pas d'appels.
+{44800}{44860}C'est interdit, madame.
+{45665}{45760}Collins a résisté, on dirait. Pas suffisamment.
+{45762}{45845}Je ne peux pas dire comment Rawls est entré.
+{45847}{45915}Mais il a emmené la femme.
+{45917}{45982}- Où?|- II a volé un break.
+{45985}{46040}Ils se dirigent vers le sud.
+{46255}{46325}Il veut que June le mène à son enfant.
+{46327}{46370}- Faut arriver avant lui.|- On n'a pas de nom, pas d'adresse.
+{46370}{46420}- Faut arriver avant lui.|- On n'a pas de nom, pas d'adresse.
+{46422}{46522}Peut-être que June non plus,|si l'enfant a été adopté.
+{46565}{46685}Le mieux, c'est de consulter les archives|locales, mais ça prendra du temps.
+{46710}{46785}On a besoin de matériel.|Cas de force majeure.
+{46947}{47005}Pinker, je suis désolée.
+{47082}{47162}J'ai vraiment peur. Parle-moi.
+{47240}{47310}Dis-moi quelque chose.
+{47440}{47502}Je m'excuse pour l'argent.
+{47505}{47615}Il était à toi. Je n'aurais pas dû.|C'était mal de ma part.
+{47667}{47730}Pinker, je te rembourserai.
+{47915}{47980}Tu as eu quoi?
+{48037}{48100}Pauvre conne. Tu comprends rien.
+{48102}{48175}C'était quoi? Un garçon ou une fille?
+{48235}{48292}Un garçon.
+{48412}{48465}Il s'appelle comment?
+{48507}{48570}Tu connais son nom.
+{48640}{48710}- Trevor Andrew.|- Trevor quoi?
+{48827}{48902}Trevor Andrew... Rawls.
+{49037}{49112}Tu ne me l'aurais jamais dit.
+{49115}{49182}Je serais mort sans savoir.
+{49235}{49350}Mais des années après, par hasard,
+{49352}{49430}j'apprends tout d'un type|qui tenait ça d'un autre type.
+{49430}{49490}Tu vois ce que ça veut dire?
+{49630}{49692}Dieu voulait que je le sache.
+{49755}{49810}Il a tout fait pour.
+{49812}{49885}Puis il m'a permis de sortir.
+{49940}{50005}Et me voilà.
+{50005}{50065}C'est Sa volonté.
+{50150}{50215}Que veux-tu au petit?
+{50215}{50277}C'est mon fils.
+{50390}{50450}Tu vas me conduire à lui.
+{50520}{50585}Vérifie son pseudo. Burdett.
+{50587}{50675}Le bébé était viable.|C'est tout ce que vous avez?
+{50677}{50732}Oui. Vous pouvez vérifier?
+{50750}{50825}- C'est ce que vous cherchez?|- Oui. Merci.
+{50892}{50955}Parfait. Merci beaucoup.
+{50972}{51027}Rien pour Burdett ou Gurwitch.
+{51030}{51090}Des balles en caoutchouc.
+{51215}{51245}Merci.
+{51245}{51322}- C'était un garçon.|- Pas d'accès au dossier?
+{51325}{51370}Il n'y a pas de dossier.
+{51372}{51452}Pas de parents adoptifs.|Ni en Alabama ni dans le Mississippi.
+{51455}{51520}Elle a pu éviter la voie officielle.
+{51520}{51605}Le gosse est peut-être|chez une amie ou une parente.
+{51780}{51840}Allez, Trevor.
+{51842}{51930}Range tes jouets. Le dîner est presque prêt.
+{51985}{52057}- Je réponds.|- Non, va te laver les mains.
+{52215}{52242}Ici l'agent Mulder...
+{52427}{52482}Je suis désolée.
+{52522}{52572}T'aurais pu m'éviter de la route.
+{52620}{52685}Où est-il?
+{52685}{52735}Où est mon fils?
+{53077}{53132}J'apprécie ce que tu as fait.
+{53165}{53215}Tu t'en es occupée.
+{53270}{53320}Tu es une bonne mère.
+{53370}{53420}Meilleure que d'autres.
+{54005}{54070}Ca sent bon ici.
+{54072}{54145}Qu'est-ce que tu manges?
+{54147}{54207}Salut, tante June.
+{54210}{54237}Salut, mon poussin.
+{54500}{54590}Mets-le à table et donne-lui à manger.
+{54640}{54685}C'est pas grave.
+{54687}{54775}Tout va bien. Ne t'inquiète pas.
+{54787}{54852}Je ne suis pas en colère.
+{54855}{54912}Ca va, Trevor. Maman est là.
+{55040}{55097}Je ne vais pas te faire de mal.
+{55100}{55202}Tout va bien. Viens me voir.
+{55205}{55255}Qu'on parle entre hommes.
+{55257}{55365}On va parler gentiment, toi et moi.
+{55420}{55505}Tu t'appelles Trevor.
+{55522}{55597}C'est ton nom. Moi, c'est Pinker.
+{55625}{55695}Mais tu peux m'appeler Pinky.
+{55860}{55977}Toi et moi, on va partir en voyage.
+{56085}{56140}Ferme-la.
+{56255}{56370}Tu veux emmener des affaires? Des jouets?
+{56600}{56675}Va prendre tes affaires.
+{56947}{57005}C'est un brave gosse.
+{57200}{57250}Trevor, cours!
+{57710}{57760}Petit!
+{58210}{58280}Emmène-le, Scully. Ne me forcez pas à tirer.
+{58357}{58405}Ne me forcez pas à tirer.
+{59510}{59615}Tout va s'arranger.|On va te mettre en sécurité.
+{60457}{60520}Viens. Cours.
+{60562}{60630}Entre.
+{60810}{60870}C'est mon fils.
+{60910}{60962}Donnez-moi mon fils.
+{61090}{61142}Tout de suite.
+{63332}{63395}Je n'avais pas le choix.
+{63435}{63492}Il lui aurait fait du mal.
+{63525}{63585}Dieu seul sait ce qu'il imaginait.
+{63745}{63805}Que voulait-il?
+{63827}{63880}Peut-être une autre chance.
+{64730}{64770}Sous-titrage Visiontext:|Anne Kosossey
+{65280}{65330}FRENCH

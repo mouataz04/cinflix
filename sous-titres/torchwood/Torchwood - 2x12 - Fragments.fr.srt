@@ -1,0 +1,2918 @@
+1
+00:00:02,250 --> 00:00:03,961
+Torchwood.
+
+2
+00:00:04,390 --> 00:00:07,180
+Au delà du gouvernement
+et de la police.
+
+3
+00:00:07,190 --> 00:00:10,650
+Ils se battent pour le futur
+de l'humanité.
+
+4
+00:00:10,770 --> 00:00:14,450
+C'est au 21ème siècle que tout bascule.
+
+5
+00:00:14,570 --> 00:00:16,810
+Et Torchwood est prêt
+
+6
+00:00:39,890 --> 00:00:41,940
+Gwen, on vient de t'envoyer
+les coordonnées.
+
+7
+00:00:41,950 --> 00:00:45,180
+On reçoit 4 ou 5 signes de vie,
+définitivement non humains.
+
+8
+00:00:45,190 --> 00:00:46,250
+Rejoins-nous dès que possible.
+
+9
+00:00:46,270 --> 00:00:47,720
+Tu es sûr que ce ne sont pas
+des Weevils ?
+
+10
+00:00:47,730 --> 00:00:52,550
+Je ne pense pas. Structure différente,
+ça ne ressemble à rien de connu.
+
+11
+00:00:52,560 --> 00:00:54,930
+Ce n'est pas une espèce
+qu'on a déjà rencontrée.
+
+12
+00:00:54,940 --> 00:00:56,150
+Espérons qu'ils sont amicaux.
+
+13
+00:00:56,160 --> 00:00:58,700
+Owen, Ianto, couvrez l'autre côté
+du bâtiment et les étages supérieurs.
+
+14
+00:00:58,710 --> 00:01:00,750
+Toshiko, avec moi.
+
+15
+00:01:06,350 --> 00:01:07,118
+OK ?
+
+16
+00:01:08,433 --> 00:01:09,114
+On y va.
+
+17
+00:01:17,340 --> 00:01:20,400
+Je reçois des signaux identiques
+sur chaque étage.
+
+18
+00:01:21,330 --> 00:01:24,750
+Une créature à chaque bout du bâtiment.
+
+19
+00:01:24,760 --> 00:01:26,838
+Toshiko, on se sépare.
+
+20
+00:01:36,700 --> 00:01:39,870
+Ces créatures sont très silencieuses.
+
+21
+00:01:40,370 --> 00:01:42,512
+Elles dorment peut-être.
+
+22
+00:01:43,230 --> 00:01:44,854
+Ou elles incubent.
+
+23
+00:01:50,050 --> 00:01:53,950
+Ou bien ce ne sont peut-être
+pas du tout des créatures.
+
+24
+00:01:57,610 --> 00:01:59,568
+Juste des explosifs.
+
+25
+00:02:03,160 --> 00:02:03,899
+Bam.
+
+26
+00:02:12,565 --> 00:02:14,217
+Torchwood - 2x12
+Fragments
+
+27
+00:02:14,337 --> 00:02:17,779
+Traduction par Kowaio, Plumedephenix.
+Synchronisation par Firehawk.
+
+28
+00:02:17,899 --> 00:02:19,623
+Relecture par Cybelia.
+
+29
+00:02:19,743 --> 00:02:21,379
+~ Harkness Team ~
+~ www.seriessub.com ~
+
+30
+00:02:26,440 --> 00:02:27,366
+Merde.
+
+31
+00:02:32,140 --> 00:02:33,810
+<i>Vous avez un nouveau message.</i>
+
+32
+00:02:33,820 --> 00:02:36,110
+<i>Gwen, on vient de t'envoyer
+les coordonnées.</i>
+
+33
+00:02:36,120 --> 00:02:39,040
+- On reçoit 4 ou 5 signes de vie.
+- Merde.
+
+34
+00:02:56,450 --> 00:02:59,470
+<i>1392 morts plus tôt.</i>
+
+35
+00:03:02,390 --> 00:03:04,184
+Oh, pas encore...
+
+36
+00:03:22,900 --> 00:03:23,951
+Mesdames.
+
+37
+00:03:25,190 --> 00:03:28,379
+Torse de fer, tant de choses à faire.
+
+38
+00:03:28,770 --> 00:03:30,211
+Des preneuses ?
+
+39
+00:03:33,220 --> 00:03:35,890
+Bataille de bar, ça a un peu dérapé.
+
+40
+00:03:35,900 --> 00:03:37,580
+Blessure superficielle.
+
+41
+00:03:38,690 --> 00:03:41,275
+Toujours pas l'habitude de...
+
+42
+00:03:42,280 --> 00:03:44,150
+Ces gueules de bois.
+
+43
+00:03:46,240 --> 00:03:47,830
+Capitaine Jack Harkness.
+
+44
+00:03:47,840 --> 00:03:49,450
+Depuis quand êtes-vous là ?
+
+45
+00:03:49,460 --> 00:03:51,580
+Silencieuses ? Ça me va.
+
+46
+00:03:51,590 --> 00:03:54,290
+Je suis sorti avec un mec sans bouche.
+
+47
+00:03:54,300 --> 00:03:56,203
+Extrêmement créatif.
+
+48
+00:03:59,910 --> 00:04:02,430
+Il suffisait de demander.
+
+49
+00:04:02,440 --> 00:04:04,860
+On pourrait prendre une chambre ?
+
+50
+00:04:18,350 --> 00:04:21,640
+Quand je parlais d'une chambre,
+j'entendais avec du linge.
+
+51
+00:04:27,550 --> 00:04:31,450
+Il fut un temps où des électrodes sur
+les tétons étaient un bon début de nuit.
+
+52
+00:04:44,580 --> 00:04:47,240
+Charge maximale, il respire toujours.
+
+53
+00:04:47,250 --> 00:04:49,460
+Vous avez là un équipement
+plutôt avancé.
+
+54
+00:04:49,470 --> 00:04:52,340
+Vous êtes en avance sur votre temps.
+
+55
+00:04:52,350 --> 00:04:53,743
+Où suis-je ?
+
+56
+00:04:56,360 --> 00:04:58,760
+Baissez-ça avant que quelqu'un ne...
+
+57
+00:05:02,940 --> 00:05:04,040
+Pourquoi n'êtes-vous pas mort ?
+
+58
+00:05:04,050 --> 00:05:05,550
+Je me le demande souvent.
+
+59
+00:05:05,560 --> 00:05:07,070
+Nous vous surveillions.
+
+60
+00:05:07,080 --> 00:05:10,410
+Vous avez été tué 14 fois
+ces 6 derniers mois.
+
+61
+00:05:10,420 --> 00:05:11,370
+J'aurais dit plus.
+
+62
+00:05:11,380 --> 00:05:12,670
+Qui est le Docteur ?
+
+63
+00:05:12,690 --> 00:05:13,831
+Aucune idée.
+
+64
+00:05:14,190 --> 00:05:16,820
+"Le Docteur, il saura me guérir."
+
+65
+00:05:16,830 --> 00:05:20,130
+"Quand le Docteur arrivera,
+il remettra tout en ordre."
+
+66
+00:05:20,140 --> 00:05:22,330
+"Attendez que je vois le Docteur."
+
+67
+00:05:22,340 --> 00:05:26,010
+"D'abord, je l'embrasserai.
+Ensuite, je le tuerai."
+
+68
+00:05:26,020 --> 00:05:31,450
+Extraits de vos conversations avec
+des étrangers dans diverses tanières
+
+69
+00:05:31,460 --> 00:05:35,120
+depuis que vous avez attiré
+notre attention.
+
+70
+00:05:35,130 --> 00:05:37,320
+Personne n'aime les Miss "Je sais tout".
+
+71
+00:05:37,330 --> 00:05:39,850
+Dites-nous où il est
+et nous vous relâcherons.
+
+72
+00:05:39,860 --> 00:05:40,460
+Pourquoi ça vous intéresse ?
+
+73
+00:05:40,470 --> 00:05:43,110
+Vous êtes à Torchwood, Cardiff.
+
+74
+00:05:43,120 --> 00:05:48,300
+L'Institut Torchwood a été créé pour
+combattre la menace du Docteur,
+
+75
+00:05:48,310 --> 00:05:50,701
+et autres fantasmagories.
+
+76
+00:05:52,800 --> 00:05:54,280
+Il n'est pas une menace.
+
+77
+00:05:54,290 --> 00:05:58,970
+C'est le Docteur qui vous sauvera
+de vos fantasmatrucs.
+
+78
+00:05:58,980 --> 00:06:00,210
+Dites-nous où il se trouve.
+
+79
+00:06:00,220 --> 00:06:02,173
+Je ne sais pas !
+
+80
+00:06:05,010 --> 00:06:06,940
+Il est parti sans moi.
+
+81
+00:06:06,950 --> 00:06:09,660
+Je suis venu ici le trouver.
+
+82
+00:06:10,120 --> 00:06:14,290
+Il fait le plein grâce à votre brèche.
+
+83
+00:06:14,300 --> 00:06:18,430
+J'espérais le trouver en restant
+ici assez longtemps.
+
+84
+00:06:19,390 --> 00:06:22,670
+Maintenant, je peux partir ?
+
+85
+00:06:22,680 --> 00:06:23,430
+Non.
+
+86
+00:06:23,440 --> 00:06:24,300
+Vous ne pouvez pas me garder.
+
+87
+00:06:24,310 --> 00:06:26,051
+Oh, si.
+
+88
+00:06:26,740 --> 00:06:29,170
+- A moins que...
+- Oui.
+
+89
+00:06:29,180 --> 00:06:30,450
+A moins que...
+
+90
+00:06:30,460 --> 00:06:31,360
+A moins que quoi ?
+
+91
+00:06:31,370 --> 00:06:33,010
+Il y a des opportunités ici.
+
+92
+00:06:33,020 --> 00:06:34,430
+Avec l'Institut.
+
+93
+00:06:34,440 --> 00:06:35,400
+Je ne cherche pas de travail.
+
+94
+00:06:35,410 --> 00:06:38,150
+Il va vous falloir de l'argent.
+
+95
+00:06:41,490 --> 00:06:42,390
+Quelle est ma mission ?
+
+96
+00:06:42,400 --> 00:06:43,530
+Une personne disparue.
+
+97
+00:06:43,550 --> 00:06:46,300
+Enfin, quand on dit personne...
+
+98
+00:06:48,930 --> 00:06:50,150
+Je n'ai rien fait !
+
+99
+00:06:50,160 --> 00:06:54,090
+4 cambriolages, un vol de cheval
+et calèche, 7 cas de vols dans la rue.
+
+100
+00:06:54,100 --> 00:06:56,860
+Consommation de nourriture
+sans payer à 24 reprises.
+
+101
+00:06:56,870 --> 00:06:58,910
+C'est une vraie addiction
+chez votre espèce.
+
+102
+00:06:58,920 --> 00:07:01,340
+Je me rattraperai, promis.
+
+103
+00:07:01,350 --> 00:07:02,590
+Trop tard.
+
+104
+00:07:02,600 --> 00:07:04,230
+C'est juste pour m'amuser.
+
+105
+00:07:04,240 --> 00:07:08,130
+Cette planète est à un siècle du
+premier contact extraterrestre officiel.
+
+106
+00:07:08,140 --> 00:07:09,940
+Vous perturbez le planning.
+
+107
+00:07:09,950 --> 00:07:11,510
+Qui êtes-vous ?
+
+108
+00:07:12,960 --> 00:07:14,809
+Je suis Torchwood.
+
+109
+00:07:16,190 --> 00:07:17,330
+Je me suis excusé !
+
+110
+00:07:17,340 --> 00:07:18,730
+Vous ne pouvez pas m'enfermer.
+
+111
+00:07:18,740 --> 00:07:20,820
+Ce n'est qu'un enfant.
+Renvoyez-le de là où il vient.
+
+112
+00:07:20,830 --> 00:07:21,990
+Si seulement.
+
+113
+00:07:22,000 --> 00:07:22,995
+La brèche ne marche que dans un sens.
+
+114
+00:07:23,115 --> 00:07:23,720
+Alors que faites-vous ?
+
+115
+00:07:23,840 --> 00:07:27,380
+Observation de l'espèce avant transfert
+vers un lieu de séjour à long terme ?
+
+116
+00:07:31,370 --> 00:07:32,240
+Pourquoi ?
+
+117
+00:07:32,250 --> 00:07:33,470
+Il constituait une menace
+pour l'Empire.
+
+118
+00:07:33,480 --> 00:07:34,685
+Comme moi ?
+
+119
+00:07:35,450 --> 00:07:37,690
+Vous êtes maintenant notre allié.
+
+120
+00:07:51,020 --> 00:07:53,190
+Si vous n'en voulez pas...
+
+121
+00:07:59,780 --> 00:08:01,890
+Votre prochaine mission.
+
+122
+00:08:01,900 --> 00:08:02,679
+Non.
+
+123
+00:08:03,110 --> 00:08:04,030
+J'en ai fini avec vous.
+
+124
+00:08:04,040 --> 00:08:06,600
+Votre liberté est soumise
+à notre décision.
+
+125
+00:08:06,620 --> 00:08:08,950
+Travaillez pour nous,
+et vous assistez l'Empire.
+
+126
+00:08:08,960 --> 00:08:11,890
+Coupez ce lien,
+et vous devenez une menace.
+
+127
+00:08:11,900 --> 00:08:13,820
+Et vous avez vu
+ce que nous en faisons.
+
+128
+00:08:13,840 --> 00:08:15,770
+C'est beaucoup d'argent, Capitaine.
+
+129
+00:08:15,780 --> 00:08:18,860
+Comment en gagnerez-vous autrement ?
+
+130
+00:08:31,970 --> 00:08:33,792
+Repensez-y.
+
+131
+00:08:40,060 --> 00:08:41,579
+Il est mignon.
+
+132
+00:08:42,200 --> 00:08:44,420
+Mais tu l'es davantage.
+
+133
+00:09:00,050 --> 00:09:02,354
+Je vous lis vos cartes ?
+
+134
+00:09:03,080 --> 00:09:04,239
+Non merci.
+
+135
+00:09:08,720 --> 00:09:10,107
+Non, vraiment.
+
+136
+00:09:20,790 --> 00:09:22,060
+Il arrive.
+
+137
+00:09:22,070 --> 00:09:24,347
+Celui que vous cherchez.
+
+138
+00:09:30,350 --> 00:09:34,910
+Mais le siècle changera deux fois
+avant que vous ne vous trouviez.
+
+139
+00:09:35,510 --> 00:09:37,056
+Tu es réelle ?
+
+140
+00:09:41,050 --> 00:09:44,260
+Tu veux dire que je dois attendre
+encore 100 ans avant de le trouver ?
+
+141
+00:09:47,130 --> 00:09:49,730
+Qu'est-ce que je vais faire
+entre temps ?
+
+142
+00:10:40,940 --> 00:10:42,156
+<i>Réveillon du Nouvel An 1999</i>
+
+143
+00:10:42,276 --> 00:10:45,360
+<i>Certaines parties du monde ont
+déjà célébré la nouvelle année.</i>
+
+144
+00:10:45,370 --> 00:10:49,600
+<i>Nos caméras, bien sûr, sont de
+sortie dans tout le Royaume-Uni.</i>
+
+145
+00:10:49,610 --> 00:10:52,260
+<i>Voyons d'abord Cardiff.</i>
+
+146
+00:10:54,890 --> 00:10:57,830
+Quand vous plaisantiez à propos
+du Bug du Millénaire,
+
+147
+00:10:57,840 --> 00:11:01,590
+je pensais pas que ça serait vraiment
+un insecte aux 18 pattes empoisonnées.
+
+148
+00:11:01,600 --> 00:11:03,410
+Il y a quelqu'un ?
+
+149
+00:11:03,420 --> 00:11:06,350
+Vous savez qu'on est censés
+faire la fête comme...
+
+150
+00:11:25,750 --> 00:11:26,662
+Alex ?
+
+151
+00:11:27,100 --> 00:11:27,992
+Jack !
+
+152
+00:11:28,720 --> 00:11:30,258
+Juste à temps.
+
+153
+00:11:31,740 --> 00:11:35,020
+Alex, que s'est-il passé ?
+Qui a fait ça ?
+
+154
+00:11:35,710 --> 00:11:36,411
+Moi.
+
+155
+00:11:37,180 --> 00:11:38,040
+Quoi ?
+
+156
+00:11:41,540 --> 00:11:42,666
+Pourquoi ?
+
+157
+00:11:43,280 --> 00:11:45,072
+On s'est trompés, Jack.
+
+158
+00:11:45,580 --> 00:11:48,070
+On croyait pouvoir contrôler
+ce qu'on trouvait.
+
+159
+00:11:48,080 --> 00:11:50,080
+Et qu'est-ce que ça nous a apporté ?
+
+160
+00:11:50,090 --> 00:11:51,539
+Que de morts.
+
+161
+00:11:52,630 --> 00:11:54,720
+Que leur est-il arrivé ?
+
+162
+00:11:54,730 --> 00:11:57,060
+C'est bien que tu sois là.
+
+163
+00:11:57,070 --> 00:11:59,710
+Tu as toujours eu un bon timing.
+
+164
+00:11:59,830 --> 00:12:01,134
+Cet endroit,
+
+165
+00:12:01,773 --> 00:12:03,183
+Il est à toi.
+
+166
+00:12:03,651 --> 00:12:04,954
+Torchwood Trois,
+
+167
+00:12:06,031 --> 00:12:07,268
+Mon cadeau pour toi.
+
+168
+00:12:07,388 --> 00:12:09,770
+Pour un siècle de service,
+Comme agent de terrain
+
+169
+00:12:09,890 --> 00:12:12,290
+Donne à cet endroit un but.
+
+170
+00:12:12,300 --> 00:12:15,080
+Avant que ce ne soit trop tard.
+S'il te plaît.
+
+171
+00:12:15,200 --> 00:12:16,245
+Alex, écoute
+
+172
+00:12:16,824 --> 00:12:18,120
+Ça va aller.
+
+173
+00:12:18,240 --> 00:12:19,852
+Non. Pas du tout.
+
+174
+00:12:21,810 --> 00:12:23,166
+Vraiment pas.
+
+175
+00:12:25,730 --> 00:12:28,011
+J'ai regardé à l'intérieur.
+
+176
+00:12:29,510 --> 00:12:31,496
+Ça m'a montré le futur.
+
+177
+00:12:32,700 --> 00:12:35,290
+C'était des meurtres préventifs.
+
+178
+00:12:36,070 --> 00:12:39,060
+C'était la meilleure chose
+que je puisse faire.
+
+179
+00:12:39,070 --> 00:12:42,260
+Pour qu'aucun de nous
+ne voie la tempête.
+
+180
+00:12:43,210 --> 00:12:47,100
+Désolé de ne pas pouvoir
+en faire autant pour toi.
+
+181
+00:12:48,810 --> 00:12:52,342
+Le 21ème siècle, Jack.
+Tout va changer.
+
+182
+00:12:55,710 --> 00:12:58,790
+- Et on n'est pas prêts.
+- Alex !
+
+183
+00:13:07,270 --> 00:13:08,520
+Il était mort !
+
+184
+00:13:08,530 --> 00:13:10,924
+- Il n'avait plus de pouls !
+- C'est bon !
+
+185
+00:13:11,820 --> 00:13:14,150
+Jack, que s'est-il passé ?
+Où sont les autres ?
+
+186
+00:13:14,160 --> 00:13:14,930
+Que fait-il ici ?
+
+187
+00:13:14,940 --> 00:13:18,040
+J'étais en retard.
+Il m'a amenée. Ça va ?
+
+188
+00:13:18,820 --> 00:13:19,920
+Toshiko.
+
+189
+00:13:19,930 --> 00:13:21,960
+Elle est partie de l'autre côté.
+
+190
+00:13:45,770 --> 00:13:47,398
+<i>5 ans plus tôt.</i>
+
+191
+00:13:57,640 --> 00:14:02,240
+Je n'aurais jamais pensé dire ça ici,
+mais vous travaillez trop dur.
+
+192
+00:14:02,250 --> 00:14:04,230
+Encore une heure et j'aurai fini.
+
+193
+00:14:04,240 --> 00:14:06,150
+Si seulement ils pensaient tous
+comme vous.
+
+194
+00:14:06,160 --> 00:14:09,110
+Cinq heure et quart, ils se ruent
+hors d'ici comme des moutons.
+
+195
+00:14:09,120 --> 00:14:10,920
+Passez une bonne soirée, monsieur.
+
+196
+00:14:10,930 --> 00:14:12,184
+Ça m'étonnerait.
+
+197
+00:16:36,550 --> 00:16:39,110
+Vous finissez encore tard, Miss Sato.
+
+198
+00:16:39,120 --> 00:16:40,640
+Vous me connaissez bien, George.
+
+199
+00:16:40,650 --> 00:16:41,710
+Mariée à mon boulot.
+
+200
+00:16:41,720 --> 00:16:43,880
+Quand me laisserez-vous
+vous délivrer de tout ça ?
+
+201
+00:16:43,890 --> 00:16:46,440
+Dès que vous en aurez parlé
+à votre femme et petits-enfants.
+
+202
+00:16:46,450 --> 00:16:48,260
+Toujours une excuse.
+
+203
+00:16:48,270 --> 00:16:49,850
+Prenez soin de vous.
+
+204
+00:16:49,860 --> 00:16:51,780
+Bonne nuit, George.
+
+205
+00:16:59,820 --> 00:17:03,370
+LODMOOR RESEARCH FACILITY
+
+206
+00:18:07,480 --> 00:18:09,350
+- Je l'ai.
+- Entrez.
+
+207
+00:18:18,840 --> 00:18:20,490
+Je veux voir ma mère.
+
+208
+00:18:20,500 --> 00:18:23,580
+Je veux être sûre qu'elle est en vie.
+Maintenant.
+
+209
+00:18:25,290 --> 00:18:27,380
+Montrez-moi l'objet.
+
+210
+00:18:34,570 --> 00:18:36,280
+Magnifique.
+
+211
+00:18:36,290 --> 00:18:38,240
+Un parfait modulateur sonique.
+
+212
+00:18:38,250 --> 00:18:40,900
+Toshiko, vous avez été parfaite.
+
+213
+00:18:40,910 --> 00:18:42,420
+Toshiko !
+
+214
+00:18:45,050 --> 00:18:46,540
+Vous avez ce que vous voulez.
+
+215
+00:18:46,550 --> 00:18:47,740
+Laissez-la partir.
+
+216
+00:18:47,750 --> 00:18:50,670
+Mais vous êtes maintenant
+victime de votre propre succès.
+
+217
+00:18:50,680 --> 00:18:53,580
+En parfaite position,
+capacités prouvées.
+
+218
+00:18:53,590 --> 00:18:55,770
+Vous pouvez nous apporter
+tant de choses.
+
+219
+00:18:59,430 --> 00:19:00,900
+Et si je refuse ?
+
+220
+00:19:00,910 --> 00:19:03,262
+Votre mère restera avec nous.
+
+221
+00:19:03,750 --> 00:19:07,640
+Et votre intelligence sera utilisée
+contre elle.
+
+222
+00:19:08,940 --> 00:19:10,941
+- Comme ça.
+- Non !
+
+223
+00:19:34,480 --> 00:19:38,050
+Eteignez-ça !
+
+224
+00:19:42,460 --> 00:19:43,614
+Ma mère !
+
+225
+00:19:44,930 --> 00:19:46,805
+Comment va-t-elle ?
+
+226
+00:20:00,560 --> 00:20:02,540
+<i>Vous êtes dans un bâtiment UNIT.</i>
+
+227
+00:20:02,550 --> 00:20:05,340
+<i>Vos droits en tant que citoyen
+ont été révoqués.</i>
+
+228
+00:20:05,350 --> 00:20:07,410
+<i>Vous serez retenue ici indéfiniment.</i>
+
+229
+00:20:07,420 --> 00:20:11,130
+<i>Nous n'avons pas à vous fournir
+de représentation légale.</i>
+
+230
+00:20:11,140 --> 00:20:13,820
+<i>Tout ce que vous direz sera enregistré.</i>
+
+231
+00:20:13,830 --> 00:20:17,140
+<i>Vous n'aurez droit à aucun
+contact avec des personnes</i>
+
+232
+00:20:17,150 --> 00:20:20,380
+<i>ou organisations en dehors
+de ce bâtiment.</i>
+
+233
+00:20:20,390 --> 00:20:22,870
+<i>Vous ne pouvez faire appel.</i>
+
+234
+00:20:22,880 --> 00:20:27,510
+<i>Si vous ne vous pliez pas aux règles,
+nous sommes autorisés à vous dresser.</i>
+
+235
+00:20:27,520 --> 00:20:28,710
+Est-ce que ma mère est en sécurité ?
+
+236
+00:20:28,720 --> 00:20:32,670
+<i>Nous ne pouvons vous
+fournir cette information.</i>
+
+237
+00:21:19,970 --> 00:21:22,645
+<i>Prisonnier Sato. Inspection.</i>
+
+238
+00:21:23,740 --> 00:21:25,048
+A quoi bon ?
+
+239
+00:21:25,420 --> 00:21:27,909
+<i>Préparez vous à l'inspection.</i>
+
+240
+00:21:55,290 --> 00:21:58,060
+La nourriture est aussi mauvaise
+qu'ils le disent ?
+
+241
+00:22:05,470 --> 00:22:07,370
+- Où est ma mère ?
+- En sécurité.
+
+242
+00:22:07,380 --> 00:22:08,540
+Elle ne se rappellera pas
+de son enlèvement.
+
+243
+00:22:08,550 --> 00:22:10,690
+Je l'ai effacé de sa mémoire.
+
+244
+00:22:10,700 --> 00:22:12,230
+J'espère que ça ne vous dérange pas.
+
+245
+00:22:12,240 --> 00:22:13,420
+Vous avez fait quoi ?
+
+246
+00:22:13,430 --> 00:22:15,658
+C'est juste une pilule.
+
+247
+00:22:16,640 --> 00:22:19,004
+Elle ne s'en rappellera pas.
+
+248
+00:22:19,350 --> 00:22:21,530
+- Qui êtes-vous ?
+- Personne.
+
+249
+00:22:22,070 --> 00:22:23,766
+Je n'existe pas.
+
+250
+00:22:25,890 --> 00:22:30,170
+Et pour un homme de mon charisme,
+c'est un bel exploit.
+
+251
+00:22:30,180 --> 00:22:31,430
+Vous êtes avocat ?
+
+252
+00:22:31,440 --> 00:22:33,788
+Je ressemble à un avocat ?
+
+253
+00:22:36,390 --> 00:22:38,358
+Ils vont vous prendre pour exemple.
+
+254
+00:22:38,670 --> 00:22:41,370
+Voler des documents top secrets,
+vu le climat de nos jours...
+
+255
+00:22:41,490 --> 00:22:44,796
+Ils vont vous garder ici
+sans charge.
+
+256
+00:22:47,650 --> 00:22:49,175
+Pour toujours.
+
+257
+00:22:50,390 --> 00:22:53,310
+- Ils ne peuvent pas...
+- Ils ne vous libéreront jamais.
+
+258
+00:22:56,280 --> 00:22:57,779
+Je suis désolé.
+
+259
+00:23:04,370 --> 00:23:06,990
+Vous avez fabriqué ceci, non ?
+
+260
+00:23:08,500 --> 00:23:10,010
+Je n'ai fait que suivre les plans.
+
+261
+00:23:10,040 --> 00:23:12,500
+Oui, en quelque sorte.
+
+262
+00:23:12,510 --> 00:23:17,270
+Vous avez d'abord dû comprendre
+le concept d'un modulateur sonique.
+
+263
+00:23:17,550 --> 00:23:19,570
+La plupart des gens
+auraient du mal avec ça.
+
+264
+00:23:19,580 --> 00:23:21,041
+Et autre chose...
+
+265
+00:23:21,450 --> 00:23:23,610
+Les plans ne marchent pas.
+
+266
+00:23:23,620 --> 00:23:24,547
+Quoi ?
+
+267
+00:23:25,040 --> 00:23:28,420
+Les plans techniques que
+vous avez suivis étaient faux.
+
+268
+00:23:28,450 --> 00:23:29,530
+Ils contenaient des erreurs.
+
+269
+00:23:29,540 --> 00:23:32,980
+C'est pourquoi ils avaient
+abandonné ces plans.
+
+270
+00:23:34,137 --> 00:23:37,595
+Mais vous, Toshiko Sato,
+
+271
+00:23:37,982 --> 00:23:40,900
+Vous avez automatiquement
+réparé ces erreurs
+
+272
+00:23:41,780 --> 00:23:44,195
+Ce que je veux dire, c'est...
+
+273
+00:23:45,420 --> 00:23:48,105
+Oh, ma belle, vous êtes forte.
+
+274
+00:23:48,500 --> 00:23:50,769
+Vous êtes forte maintenant.
+
+275
+00:23:51,290 --> 00:23:55,260
+Imaginez ce que ça serait
+avec un peu d'entraînement.
+
+276
+00:23:59,770 --> 00:24:03,740
+Dommage que vous soyez enfermée
+pour si longtemps.
+
+277
+00:24:03,750 --> 00:24:06,500
+- Vous devez me faire sortir.
+- Si...
+
+278
+00:24:07,140 --> 00:24:10,840
+vous venez travailler pour moi.
+
+279
+00:24:10,850 --> 00:24:12,086
+Vraiment ?
+
+280
+00:24:12,540 --> 00:24:16,785
+Offrez-moi 5 ans.
+Je leur ferai effacer votre dossier.
+
+281
+00:24:17,380 --> 00:24:20,023
+Ils me doivent quelques services.
+
+282
+00:24:22,980 --> 00:24:24,626
+Que faites-vous ?
+
+283
+00:24:24,930 --> 00:24:26,498
+Je protège les gens.
+
+284
+00:24:27,090 --> 00:24:28,770
+Enfin, c'est mon but.
+
+285
+00:24:28,780 --> 00:24:32,010
+C'est un travail en cours, si l'on veut.
+
+286
+00:24:32,020 --> 00:24:34,040
+- Et ma mère ?
+- Contact limité.
+
+287
+00:24:34,050 --> 00:24:36,730
+Vous pourrez lui envoyer
+des cartes postales.
+
+288
+00:24:38,290 --> 00:24:39,960
+Qu'en dites-vous ?
+
+289
+00:24:44,094 --> 00:24:46,413
+Pourquoi me faire confiance ?
+
+290
+00:24:47,020 --> 00:24:48,247
+L'instinct.
+
+291
+00:24:51,280 --> 00:24:53,352
+Ça va être dangereux.
+
+292
+00:24:54,140 --> 00:24:56,710
+Vous pourrez supporter
+un peu de danger ?
+
+293
+00:24:58,230 --> 00:24:59,950
+Arrêtez !
+
+294
+00:24:59,960 --> 00:25:01,250
+Tosh, ça va ?
+
+295
+00:25:01,260 --> 00:25:02,770
+Vous empirez les choses.
+
+296
+00:25:03,780 --> 00:25:06,110
+Ça s'affaisse encore plus.
+
+297
+00:25:06,550 --> 00:25:08,230
+Je crois que j'ai le bras cassé.
+
+298
+00:25:08,240 --> 00:25:09,120
+- Gwen.
+- Oui ?
+
+299
+00:25:09,130 --> 00:25:11,960
+Si ce pilier s'affaisse encore,
+il m'écrasera.
+
+300
+00:25:11,970 --> 00:25:13,190
+Ça ne sert à rien, Gwen.
+
+301
+00:25:13,200 --> 00:25:14,150
+Il nous faut de l'aide.
+
+302
+00:25:14,160 --> 00:25:16,610
+Jack est parti trouver Owen et Ianto.
+
+303
+00:25:16,620 --> 00:25:19,230
+Ça va aller, ma chérie. Ça va aller.
+
+304
+00:25:19,240 --> 00:25:21,440
+Dépêche-toi, s'il te plaît.
+
+305
+00:25:21,450 --> 00:25:22,490
+Va aider Jack. Je reste là.
+
+306
+00:25:22,500 --> 00:25:23,260
+- Sûr ?
+- Oui.
+
+307
+00:25:23,270 --> 00:25:25,160
+Je reviens te voir, chérie.
+Ça va aller.
+
+308
+00:25:25,170 --> 00:25:26,580
+Ça va aller.
+
+309
+00:25:28,620 --> 00:25:31,330
+Gwen, ça aurait pu être toi ?
+Si tu n'avais pas été en retard.
+
+310
+00:25:31,340 --> 00:25:35,490
+C'est pas le moment, Rhys.
+Je dois trouver les autres.
+
+311
+00:25:55,540 --> 00:25:57,730
+Ianto !
+
+312
+00:25:58,130 --> 00:25:59,450
+Ianto !
+
+313
+00:25:59,460 --> 00:26:01,454
+<i>21 mois plus tôt.</i>
+
+314
+00:26:48,280 --> 00:26:49,130
+Merci.
+
+315
+00:26:49,970 --> 00:26:51,771
+Non, merci à vous.
+
+316
+00:26:53,130 --> 00:26:54,700
+Et vous êtes ?
+
+317
+00:26:55,410 --> 00:26:58,480
+Jones, Ianto Jones.
+
+318
+00:26:58,490 --> 00:27:01,300
+Ravi de vous rencontrer,
+Jones, Ianto Jones.
+
+319
+00:27:01,310 --> 00:27:03,730
+Capitaine Jack Harkness.
+
+320
+00:27:03,740 --> 00:27:04,860
+Belle évasion.
+
+321
+00:27:04,870 --> 00:27:06,650
+Je contrôlais la situation.
+
+322
+00:27:06,660 --> 00:27:07,881
+Vraiment ?
+
+323
+00:27:08,900 --> 00:27:11,170
+Ça semblait assez brutal.
+
+324
+00:27:12,260 --> 00:27:13,306
+Vous...
+
+325
+00:27:15,730 --> 00:27:18,070
+Vous étiez ouvert.
+
+326
+00:27:18,080 --> 00:27:20,295
+J'ai vu pire en me rasant.
+
+327
+00:27:20,800 --> 00:27:23,167
+On dirait bien un Weevil.
+
+328
+00:27:23,670 --> 00:27:26,910
+Je ne sais pas du tout
+de quoi vous parlez.
+
+329
+00:27:29,370 --> 00:27:32,030
+Je m'en occupe.
+
+330
+00:27:38,650 --> 00:27:40,790
+Merci pour votre aide.
+
+331
+00:27:41,220 --> 00:27:43,061
+Quand vous voulez.
+
+332
+00:27:45,040 --> 00:27:48,000
+Au fait, j'adore votre manteau.
+
+333
+00:27:57,790 --> 00:27:58,999
+Bonjour !
+
+334
+00:28:01,550 --> 00:28:02,730
+Du café ?
+
+335
+00:28:14,310 --> 00:28:16,170
+- Je veux travailler pour vous.
+- Désolé, pas de poste libre.
+
+336
+00:28:16,180 --> 00:28:17,340
+Laissez-moi vous parler de moi.
+
+337
+00:28:17,350 --> 00:28:20,590
+Ianto Jones, né le 19 Août 1983.
+
+338
+00:28:20,710 --> 00:28:22,758
+Etudiant capable mais pas exceptionnel
+
+339
+00:28:22,878 --> 00:28:25,560
+Une condamnation mineure pour vol
+à l'étalage durant l'adolescence.
+
+340
+00:28:25,680 --> 00:28:28,200
+Un bon nombre de petits jobs,
+vous bougiez beaucoup,
+
+341
+00:28:28,210 --> 00:28:31,380
+jusqu'à ce que vous rejoigniez il y a
+2 ans l'Institut Torchwood à Londres.
+
+342
+00:28:31,390 --> 00:28:32,480
+Apprenti chercheur.
+
+343
+00:28:32,490 --> 00:28:34,150
+- Petite amie, Lisa Hallett.
+- Décédée.
+
+344
+00:28:34,160 --> 00:28:35,060
+Désolé.
+
+345
+00:28:35,070 --> 00:28:37,833
+Vous vous êtes renseigné sur moi.
+
+346
+00:28:38,190 --> 00:28:40,050
+Vous saviez ce qu'est un Weevil.
+
+347
+00:28:40,060 --> 00:28:41,950
+Je pensais devoir m'occuper de vous.
+
+348
+00:28:41,960 --> 00:28:44,060
+Et vous avez vu que je suis
+qualifié pour ce boulot.
+
+349
+00:28:44,070 --> 00:28:45,410
+Il n'y a pas de boulot.
+
+350
+00:28:45,420 --> 00:28:47,830
+Nous n'avons rien à voir
+avec Torchwood Londres.
+
+351
+00:28:47,840 --> 00:28:49,750
+J'ai coupé tout lien.
+
+352
+00:28:49,760 --> 00:28:53,680
+Mais quand ça a brûlé,
+2 d'entre vous ont parcouru les ruines.
+
+353
+00:28:53,690 --> 00:28:56,180
+On ne voulait pas que l'équipement
+tombe entre de mauvaises mains.
+
+354
+00:28:56,190 --> 00:28:58,270
+Et vous êtes les bonnes mains ?
+
+355
+00:28:58,280 --> 00:28:59,590
+Période d'essai, 3 mois.
+
+356
+00:28:59,600 --> 00:29:00,320
+Non.
+
+357
+00:29:00,330 --> 00:29:02,930
+3 semaines. 3 jours.
+
+358
+00:29:02,940 --> 00:29:03,880
+Laissez-moi faire mes preuves.
+
+359
+00:29:03,890 --> 00:29:05,877
+- Je travaillerai à l'oeil.
+- Non.
+
+360
+00:29:06,450 --> 00:29:09,290
+J'ai vu ce qu'ils ont fait
+à Canary Wharf.
+
+361
+00:29:10,180 --> 00:29:11,570
+Qu'est-ce que je suis censé
+faire de ces souvenirs ?
+
+362
+00:29:11,580 --> 00:29:14,340
+Vous n'êtes pas ma responsabilité.
+
+363
+00:29:14,350 --> 00:29:16,716
+Et on ne recherche personne.
+
+364
+00:29:17,140 --> 00:29:18,890
+Même heure demain, dans ce cas.
+
+365
+00:29:18,900 --> 00:29:22,450
+Il n'y a pas de travail pour vous ici,
+et il n'y en aura jamais.
+
+366
+00:29:22,930 --> 00:29:25,199
+J'aime vraiment ce manteau.
+
+367
+00:29:28,790 --> 00:29:30,850
+Toshiko, essaye de déchiffrer
+ces hiéroglyphes.
+
+368
+00:29:30,860 --> 00:29:31,560
+Je suis dessus.
+
+369
+00:29:31,580 --> 00:29:34,110
+Owen, prends une section transversale
+du cerveau paramédical,
+
+370
+00:29:34,120 --> 00:29:35,820
+compare-la à la liste
+d'agents chimiques.
+
+371
+00:29:35,830 --> 00:29:36,420
+C'est comme fait.
+
+372
+00:29:36,430 --> 00:29:38,670
+Susie, il va falloir remonter
+le réservoir.
+
+373
+00:29:38,680 --> 00:29:41,260
+Essaye de trouver l'autre moitié.
+
+374
+00:29:45,610 --> 00:29:46,880
+Bien, ça doit s'arrêter.
+
+375
+00:29:46,890 --> 00:29:47,740
+Non, écoutez-moi.
+
+376
+00:29:47,750 --> 00:29:49,620
+Je n'ai pas le temps pour ça.
+
+377
+00:29:49,740 --> 00:29:51,923
+Je me fiche de vos problèmes,
+
+378
+00:29:52,043 --> 00:29:53,700
+je vous veux hors de la ville
+au lever du soleil
+
+379
+00:29:53,820 --> 00:29:55,280
+Vous n'avez pas de place ici.
+
+380
+00:29:55,300 --> 00:29:57,500
+Retournez à Londres et
+trouvez-vous une autre vie.
+
+381
+00:29:57,510 --> 00:29:59,240
+Si vous continuez à me harceler,
+j'effacerai votre mémoire.
+
+382
+00:29:59,250 --> 00:29:59,970
+Non, c'est juste que...
+
+383
+00:29:59,980 --> 00:30:04,076
+Toute conversation entre nous,
+quel qu'en soit le sujet, est finie.
+
+384
+00:30:04,196 --> 00:30:05,840
+Kaput ! Pour toujours.
+
+385
+00:30:05,960 --> 00:30:09,040
+Je retourne au volant de cette voiture,
+et si vous êtes toujours sur la route,
+
+386
+00:30:09,160 --> 00:30:11,200
+je vous foncerai dedans.
+
+387
+00:30:11,650 --> 00:30:14,680
+Donc vous n'allez pas m'aider
+à attraper ce ptérodactyle ?
+
+388
+00:30:17,550 --> 00:30:20,020
+Vous n'avez que ça comme
+équipement spécial ?
+
+389
+00:30:20,030 --> 00:30:23,080
+Oui, bien sûr je garde les filets
+à dinosaures dans le coffre du SUV.
+
+390
+00:30:23,090 --> 00:30:25,270
+Torchwood Londres l'aurait fait.
+
+391
+00:30:36,750 --> 00:30:37,660
+Comment l'avez-vous trouvé ?
+
+392
+00:30:37,670 --> 00:30:39,190
+Localisateur d'activité de la brèche.
+
+393
+00:30:39,200 --> 00:30:39,970
+Torchwood Londres.
+
+394
+00:30:39,980 --> 00:30:41,320
+Matériel de qualité.
+
+395
+00:30:41,330 --> 00:30:43,330
+Il s'excite facilement.
+
+396
+00:30:43,340 --> 00:30:44,810
+Ça doit être votre après-rasage.
+
+397
+00:30:44,820 --> 00:30:45,970
+Je n'en mets jamais.
+
+398
+00:30:45,980 --> 00:30:47,060
+Vous sentez comme ça naturellement ?
+
+399
+00:30:47,070 --> 00:30:49,270
+Phéromones du 51ème siècle.
+
+400
+00:30:49,280 --> 00:30:52,040
+Vous n'avez aucune idée...
+
+401
+00:30:52,050 --> 00:30:53,220
+Prêt pour un autre essai ?
+
+402
+00:30:53,230 --> 00:30:54,030
+Je le suis si vous l'êtes.
+
+403
+00:30:54,040 --> 00:30:56,070
+3, 2, 1...
+
+404
+00:30:59,070 --> 00:31:00,537
+On se sépare !
+
+405
+00:31:09,540 --> 00:31:11,680
+On ne va pas te faire de mal.
+
+406
+00:31:11,690 --> 00:31:13,680
+Tu ne peux pas rester ici.
+
+407
+00:31:13,700 --> 00:31:15,710
+Viens avec moi.
+
+408
+00:31:15,720 --> 00:31:18,800
+J'ai un bel endroit, assez grand
+pour que tu voles tranquille.
+
+409
+00:31:18,810 --> 00:31:21,010
+Donc vous prenez le ptérodactyle
+et pas moi !
+
+410
+00:31:21,030 --> 00:31:22,370
+Il nous faut un chien de chasse.
+
+411
+00:31:22,390 --> 00:31:23,880
+Je peux en être un !
+
+412
+00:31:23,890 --> 00:31:26,080
+Une sorte de réceptionniste.
+
+413
+00:31:26,200 --> 00:31:29,158
+Entretien des locaux,
+nourriture et boissons
+
+414
+00:31:29,750 --> 00:31:30,860
+Je peux même faire la lessive
+
+415
+00:31:30,980 --> 00:31:33,260
+Votre manteau doit en prendre un coup.
+
+416
+00:31:33,270 --> 00:31:34,670
+Majordome,
+je pourrais être un majordome.
+
+417
+00:31:34,680 --> 00:31:35,770
+On n'a pas besoin de majordome.
+
+418
+00:31:35,790 --> 00:31:37,610
+Excusez-moi, vous avez
+de l'oeuf séché sur le col.
+
+419
+00:31:37,620 --> 00:31:38,910
+La semaine a été bien remplie.
+
+420
+00:31:38,920 --> 00:31:40,907
+Quel est votre plan ?
+
+421
+00:31:42,540 --> 00:31:43,920
+Je vais faire l'appât.
+
+422
+00:31:43,930 --> 00:31:45,990
+Et il vous réduira en miettes.
+
+423
+00:31:46,010 --> 00:31:47,290
+Un dinosaure ?
+
+424
+00:31:47,300 --> 00:31:48,680
+J'en ai déjà mangé au petit-déj.
+
+425
+00:31:48,690 --> 00:31:53,100
+Pas le choix, seule source de nourriture
+déjà morte après un crash d'astéroïde.
+
+426
+00:31:53,680 --> 00:31:56,291
+Longue histoire. Tenez.
+
+427
+00:31:56,870 --> 00:31:59,470
+Une injection dans le
+cortex du centre nerveux.
+
+428
+00:31:59,480 --> 00:32:01,660
+Je l'occupe. Bougez.
+
+429
+00:32:01,670 --> 00:32:03,170
+- Non.
+- Quoi ?
+
+430
+00:32:03,180 --> 00:32:05,770
+Il me connaît.
+Je ferai un meilleur appât.
+
+431
+00:32:05,780 --> 00:32:06,670
+Non, bien trop dangereux.
+
+432
+00:32:06,680 --> 00:32:09,290
+J'ai une arme secrète. Du chocolat.
+
+433
+00:32:09,300 --> 00:32:11,180
+Noir de préférence.
+
+434
+00:32:19,670 --> 00:32:21,920
+C'est ton préféré, oui.
+
+435
+00:32:33,090 --> 00:32:36,060
+C'est bon pour ton taux de sérotonine.
+
+436
+00:32:36,070 --> 00:32:40,770
+Si tu as un taux de sérotonine.
+
+437
+00:32:46,950 --> 00:32:48,307
+Ianto !
+
+438
+00:33:05,720 --> 00:33:06,794
+Désolé !
+
+439
+00:33:19,540 --> 00:33:21,440
+Je ferais mieux d'y aller.
+
+440
+00:33:29,800 --> 00:33:32,310
+Présentez-vous au travail
+demain à la première heure.
+
+441
+00:33:38,110 --> 00:33:40,690
+J'aime beaucoup votre costume, au fait.
+
+442
+00:33:47,260 --> 00:33:52,930
+Prêt ? 1, 2, 3... Allez !
+
+443
+00:33:56,740 --> 00:33:58,570
+- Ça va ?
+- Mon épaule.
+
+444
+00:33:58,830 --> 00:34:00,160
+Je crois qu'elle est démise.
+
+445
+00:34:00,170 --> 00:34:01,950
+- Tu peux encaisser ?
+- Oui.
+
+446
+00:34:01,960 --> 00:34:03,560
+Respire un grand coup.
+
+447
+00:34:10,010 --> 00:34:10,630
+Où sont les autres ?
+
+448
+00:34:10,640 --> 00:34:12,300
+On a besoin de ton aide
+pour dégager Toshiko.
+
+449
+00:34:12,310 --> 00:34:14,010
+- Owen ?
+- Aucun signe pour l'instant.
+
+450
+00:34:14,020 --> 00:34:15,820
+S'il lui arrive quelque chose,
+il ne pourra pas s'en remettre.
+
+451
+00:34:15,830 --> 00:34:17,320
+Bien sûr, il ne peut pas cicatriser.
+
+452
+00:34:17,330 --> 00:34:19,190
+OK. On va aider Rhys avec Toshiko.
+
+453
+00:34:19,200 --> 00:34:20,410
+Préviens-nous dès que tu trouves Owen.
+
+454
+00:34:20,420 --> 00:34:22,540
+- Et sois prudente.
+- OK.
+
+455
+00:34:23,530 --> 00:34:25,980
+Ça va ?
+
+456
+00:34:47,010 --> 00:34:49,786
+<i>4 ans plus tôt.</i>
+
+457
+00:34:50,620 --> 00:34:53,210
+Oh, vas-y, s'il te plaît !
+
+458
+00:34:53,330 --> 00:34:54,955
+Non, tu ne l'aimes plus
+
+459
+00:34:55,075 --> 00:34:56,870
+Depuis qu'elle est partie sans payer
+sa part de restau à Leicester
+
+460
+00:34:56,990 --> 00:34:59,790
+Mais on veut que Julia vienne, et on
+ne peut pas inviter l'une sans l'autre.
+
+461
+00:34:59,800 --> 00:35:02,920
+Mon dieu, aidez-moi !
+
+462
+00:35:02,930 --> 00:35:05,612
+3 tables de faites.
+Encore 9 !
+
+463
+00:35:06,460 --> 00:35:08,150
+Tu veux annuler ?
+
+464
+00:35:08,160 --> 00:35:10,264
+C'est pas trop tard.
+
+465
+00:35:11,270 --> 00:35:17,190
+Ecoute, je t'épouserai même
+si ça doit me tuer, d'accord ?
+
+466
+00:35:22,860 --> 00:35:23,755
+Bien.
+
+467
+00:35:25,370 --> 00:35:27,590
+Tu veux une tasse de thé ?
+
+468
+00:35:28,530 --> 00:35:30,620
+Oui, je vais en faire une.
+
+469
+00:35:30,630 --> 00:35:32,880
+Je pense pouvoir y arriver.
+
+470
+00:35:42,270 --> 00:35:44,760
+- Katie.
+- Oui ?
+
+471
+00:35:48,010 --> 00:35:51,320
+- De l'eau.
+- Oui.
+
+472
+00:35:53,670 --> 00:35:56,120
+Celle de la bouilloire.
+
+473
+00:36:07,500 --> 00:36:08,300
+Du lait.
+
+474
+00:36:08,310 --> 00:36:10,050
+Arrête de m'embêter !
+Je veux pas de lait.
+
+475
+00:36:10,060 --> 00:36:13,170
+Je n'ai jamais aimé ça.
+Je veux boire mon...
+
+476
+00:36:16,010 --> 00:36:17,340
+Thé.
+
+477
+00:36:17,350 --> 00:36:20,250
+Je veux boire mon thé sans...
+
+478
+00:36:22,540 --> 00:36:23,630
+Lait.
+
+479
+00:36:23,650 --> 00:36:26,240
+Mon thé sans lait.
+
+480
+00:36:32,910 --> 00:36:36,170
+Chérie, ça va...
+
+481
+00:36:39,010 --> 00:36:41,440
+J'ai reçu votre invitation.
+
+482
+00:36:41,450 --> 00:36:42,990
+Vous le faites quand même ?
+
+483
+00:36:43,000 --> 00:36:44,790
+Je lui ai promis un mariage en été.
+
+484
+00:36:44,810 --> 00:36:46,910
+Avant tout ça.
+
+485
+00:36:46,920 --> 00:36:48,240
+Ça ne change rien.
+
+486
+00:36:48,250 --> 00:36:50,653
+Owen, ça va tout changer.
+
+487
+00:36:52,080 --> 00:36:53,780
+Tu ne peux pas en être sûr.
+
+488
+00:36:53,790 --> 00:36:57,690
+On a étudié les résultats de Kate
+plus que ceux de n'importe quel patient.
+
+489
+00:36:57,700 --> 00:36:59,920
+Tu les as étudiés toi-même.
+
+490
+00:36:59,930 --> 00:37:03,570
+Tout mène à penser qu'elle a
+un Alzheimer précoce.
+
+491
+00:37:03,580 --> 00:37:05,490
+Le plus jeune cas dans
+l'histoire de la médecine.
+
+492
+00:37:05,510 --> 00:37:07,270
+Ça ne veut pas dire qu'on a tort.
+
+493
+00:37:07,280 --> 00:37:10,680
+Je t'en prie... Fais d'autres tests.
+
+494
+00:37:10,690 --> 00:37:12,930
+Essayons un dernier IRM.
+
+495
+00:37:12,940 --> 00:37:14,660
+Un IRM ne changera rien.
+
+496
+00:37:14,670 --> 00:37:15,600
+Tu n'en sais rien.
+
+497
+00:37:15,610 --> 00:37:18,830
+Tu dis toi-même que
+tu n'as jamais vu de cas pareil.
+
+498
+00:37:18,840 --> 00:37:20,550
+- Tu as peut-être loupé quelque chose.
+- Owen...
+
+499
+00:37:20,560 --> 00:37:23,360
+Tu ne comprends pas, Jim.
+
+500
+00:37:23,370 --> 00:37:27,310
+Elle allait bien, parfaite mémoire,
+et du jour au lendemain, plus rien.
+
+501
+00:37:27,430 --> 00:37:28,880
+Sa mémoire est vierge.
+
+502
+00:37:29,000 --> 00:37:33,480
+Je suis en train de la perdre,
+et je ne sais pas quoi faire.
+
+503
+00:37:33,490 --> 00:37:35,890
+Alors je t'en prie.
+
+504
+00:37:36,420 --> 00:37:40,570
+A quoi bon faire ce boulot si je ne
+peux même pas aider ma fiancée ?
+
+505
+00:37:40,850 --> 00:37:43,470
+Je vais voir ce que je peux faire.
+
+506
+00:37:43,480 --> 00:37:44,986
+Merci, Jim.
+
+507
+00:38:34,544 --> 00:38:35,655
+C'est comme...
+
+508
+00:38:36,844 --> 00:38:40,630
+être perdue dans un endroit bien
+familier, sans trouver tes repères.
+
+509
+00:38:41,310 --> 00:38:44,410
+Parfois ça te revient.
+Et parfois...
+
+510
+00:38:45,425 --> 00:38:47,339
+Je suis désolée, Owen.
+
+511
+00:38:47,930 --> 00:38:49,154
+Pourquoi ?
+
+512
+00:38:51,890 --> 00:38:54,905
+Je ne veux pas te faire subir ça.
+
+513
+00:38:56,180 --> 00:38:58,850
+Hier soir, j'ai rêvé que tu me quittais.
+
+514
+00:38:59,432 --> 00:39:01,170
+Viens là...
+
+515
+00:39:01,180 --> 00:39:03,600
+Personne ne quitte personne.
+
+516
+00:39:10,600 --> 00:39:12,240
+Comment est-ce possible ?
+
+517
+00:39:12,250 --> 00:39:13,300
+Je ne sais pas.
+
+518
+00:39:13,420 --> 00:39:15,270
+Je n'ai jamais rien vu de tel.
+
+519
+00:39:15,280 --> 00:39:16,860
+Ce n'est pas le cerveau
+qui se détériore.
+
+520
+00:39:16,870 --> 00:39:18,670
+C'est une tumeur bien physique.
+
+521
+00:39:18,790 --> 00:39:20,040
+Qui n'était pas là il y a une semaine ?
+
+522
+00:39:20,060 --> 00:39:21,882
+On ne l'a pas vue.
+
+523
+00:39:23,130 --> 00:39:26,420
+Tu as eu raison de demander
+un nouveau scanner.
+
+524
+00:39:26,430 --> 00:39:28,210
+Alors, que fait-on ?
+
+525
+00:39:28,230 --> 00:39:30,220
+Nous devons voir ça
+comme une bonne nouvelle.
+
+526
+00:39:30,340 --> 00:39:35,040
+Katie, on doit te faire opérer
+dès que possible et enlever la tumeur.
+
+527
+00:39:36,630 --> 00:39:38,029
+Tu comprends ?
+
+528
+00:39:40,110 --> 00:39:41,048
+Katie.
+
+529
+00:39:42,480 --> 00:39:45,293
+Je ne me rappelle pas ton nom.
+
+530
+00:39:53,430 --> 00:39:55,170
+Tu es sûr qu'elle est prête ?
+
+531
+00:39:55,180 --> 00:39:57,463
+On va faire tout notre possible.
+
+532
+00:40:21,980 --> 00:40:23,340
+Je suis désolé.
+
+533
+00:40:23,350 --> 00:40:24,470
+Qui êtes-vous ?
+
+534
+00:40:24,480 --> 00:40:26,370
+J'ai tenté de les prévenir.
+Préparez-vous au pire.
+
+535
+00:40:26,380 --> 00:40:28,940
+Non, vous ne pouvez pas entrer !
+
+536
+00:40:34,450 --> 00:40:35,838
+Oh mon dieu !
+
+537
+00:40:37,690 --> 00:40:38,623
+Katie.
+
+538
+00:40:43,980 --> 00:40:45,060
+Qu'est-ce que c'est ?
+
+539
+00:40:45,070 --> 00:40:48,080
+Désolé. J'ai essayé de les arrêter.
+
+540
+00:40:48,090 --> 00:40:50,130
+Elle est morte.
+
+541
+00:40:52,360 --> 00:40:55,820
+Cette chose dans sa tête est
+une forme de vie extraterrestre.
+
+542
+00:40:55,830 --> 00:41:00,950
+Elle incube dans le cerveau,
+bouleversant sa forme et ses fonctions.
+
+543
+00:41:00,960 --> 00:41:05,350
+Quand elle est attaquée ou menacée,
+elle émet un gaz toxique mortel.
+
+544
+00:41:05,360 --> 00:41:07,110
+Il se dissipe assez vite.
+
+545
+00:41:07,130 --> 00:41:09,570
+Elle ne peut pas être morte.
+
+546
+00:41:09,580 --> 00:41:11,110
+J'appelle la police.
+
+547
+00:41:11,120 --> 00:41:13,810
+Dites-leur que Torchwood est déjà
+sur place et s'occupe de tout.
+
+548
+00:41:13,820 --> 00:41:16,100
+Ça leur évitera un déploiement inutile.
+
+549
+00:41:16,110 --> 00:41:17,580
+Je dois emporter son cerveau avec moi.
+
+550
+00:41:17,590 --> 00:41:20,360
+Ne la touchez pas !
+
+551
+00:41:38,250 --> 00:41:39,840
+- Comment vous sentez-vous ?
+- Où est-elle ?
+
+552
+00:41:39,850 --> 00:41:41,300
+- Qui ?
+- Katie.
+
+553
+00:41:41,310 --> 00:41:44,290
+Katie Russell, elle est interne ici.
+On allait se marier.
+
+554
+00:41:44,300 --> 00:41:47,160
+- Retournez dans votre lit.
+- Lâchez-moi.
+
+555
+00:41:47,170 --> 00:41:48,570
+Où est-elle ?
+
+556
+00:41:48,580 --> 00:41:49,920
+Où est-elle ?
+
+557
+00:41:52,520 --> 00:41:55,280
+Il portait un uniforme militaire.
+
+558
+00:41:55,290 --> 00:41:57,450
+Il avait un accent américain.
+
+559
+00:41:57,460 --> 00:42:00,430
+Je vous assure. On a vérifié
+toutes les vidéos de sécurité.
+
+560
+00:42:00,440 --> 00:42:01,640
+Cet homme n'y apparaît pas.
+
+561
+00:42:01,650 --> 00:42:05,100
+Jim Garrett a été empoisonné
+par un poison alien, un...
+
+562
+00:42:05,110 --> 00:42:07,120
+Jim Garrett est mort dans
+un accident de voiture.
+
+563
+00:42:07,130 --> 00:42:10,470
+L'américain a dit qu'il lui fallait
+son cerveau, qu'il y avait une...
+
+564
+00:42:10,480 --> 00:42:13,195
+créature extraterrestre ou...
+
+565
+00:42:14,020 --> 00:42:15,700
+C'est la vérité, d'accord ?
+
+566
+00:42:15,710 --> 00:42:20,310
+Ce n'est pas un trauma ou du chagrin à
+retardement ou quoi que vous écriviez.
+
+567
+00:42:21,770 --> 00:42:23,930
+La tumeur de Katie était inopérable.
+
+568
+00:42:23,940 --> 00:42:26,140
+Personne n'aurait rien pu faire.
+
+569
+00:42:26,150 --> 00:42:29,000
+C'est faux.
+
+570
+00:42:29,640 --> 00:42:32,430
+Je vous prescris 3 mois de repos.
+
+571
+00:42:32,440 --> 00:42:34,476
+Ne venez pas travailler.
+
+572
+00:42:35,060 --> 00:42:36,261
+C'est ça !
+
+573
+00:42:42,700 --> 00:42:44,650
+Ce n'est pas normal.
+
+574
+00:42:44,660 --> 00:42:46,007
+Il était là.
+
+575
+00:42:48,910 --> 00:42:50,530
+Il n'y avait pas que moi.
+
+576
+00:42:50,540 --> 00:42:52,080
+Il était là aussi.
+
+577
+00:42:52,960 --> 00:42:55,570
+Ce n'est pas ce qui s'est passé !
+
+578
+00:42:55,650 --> 00:42:58,620
+Ce n'est pas ce qui s'est passé.
+
+579
+00:43:38,027 --> 00:43:38,960
+Vous !
+
+580
+00:43:44,660 --> 00:43:46,230
+Vous auriez pu la sauver.
+
+581
+00:43:46,240 --> 00:43:48,650
+Vous auriez pu la sauver.
+
+582
+00:43:49,650 --> 00:43:52,084
+Vous auriez pu la sauver !
+
+583
+00:43:57,100 --> 00:43:57,871
+Non.
+
+584
+00:43:58,400 --> 00:43:59,494
+Vraiment.
+
+585
+00:44:08,100 --> 00:44:10,530
+Si vous n'êtes pas un fragment
+de mon imagination,
+
+586
+00:44:11,008 --> 00:44:12,860
+Je ne sais vraiment pas ce qui m'arrive.
+
+587
+00:44:12,980 --> 00:44:14,700
+Peut-être que c'est...
+
+588
+00:44:14,730 --> 00:44:17,420
+Ce à quoi ressemble
+une dépression nerveuse.
+
+589
+00:44:17,430 --> 00:44:18,730
+Vous allez bien.
+
+590
+00:44:18,740 --> 00:44:22,100
+C'est le reste du monde qui est
+dans l'illusion.
+
+591
+00:44:23,180 --> 00:44:24,679
+Pourquoi elle ?
+
+592
+00:44:26,030 --> 00:44:28,048
+Il n'y a aucune raison.
+
+593
+00:44:28,550 --> 00:44:31,440
+Votre vie ne finit pas avec sa mort.
+
+594
+00:44:32,590 --> 00:44:34,180
+Qu'allez-vous faire ?
+
+595
+00:44:34,190 --> 00:44:37,660
+Retourner travailler ? Voir des échos
+d'elle dans chaque couloir ?
+
+596
+00:44:37,670 --> 00:44:39,280
+Il vous faut un but.
+
+597
+00:44:39,290 --> 00:44:41,190
+Je mets en place quelque chose.
+
+598
+00:44:41,200 --> 00:44:43,306
+J'ai besoin d'un médecin.
+
+599
+00:44:43,740 --> 00:44:45,660
+Et vous me voulez moi ?
+
+600
+00:44:46,000 --> 00:44:47,880
+Vous leur avez demandé
+d'autres scanners.
+
+601
+00:44:48,000 --> 00:44:50,330
+Vous m'avez cherché partout.
+
+602
+00:44:50,340 --> 00:44:51,980
+Vous n'abandonnez pas facilement.
+
+603
+00:44:52,000 --> 00:44:54,950
+J'ai besoin de quelqu'un comme ça
+pour travailler avec moi à Cardiff.
+
+604
+00:44:54,960 --> 00:44:56,890
+Pour combattre les extra-terrestres.
+
+605
+00:44:56,900 --> 00:44:58,225
+Tout à fait.
+
+606
+00:44:59,860 --> 00:45:01,039
+Ecoutez...
+
+607
+00:45:01,860 --> 00:45:03,923
+Je ne sais pas ce qui est arrivé à Katie
+
+608
+00:45:04,043 --> 00:45:06,165
+je ne sais pas qui vous êtes.
+
+609
+00:45:07,130 --> 00:45:09,490
+Mais les extra-terrestres
+n'existent pas.
+
+610
+00:45:09,510 --> 00:45:10,735
+Vous croyez ?
+
+611
+00:45:13,460 --> 00:45:16,790
+Je fais une dépression.
+
+612
+00:45:16,800 --> 00:45:19,088
+Effondrement psychologique.
+
+613
+00:45:21,850 --> 00:45:22,969
+Owen,
+
+614
+00:45:23,838 --> 00:45:26,428
+Pourquoi êtes-vous devenu médecin ?
+
+615
+00:45:27,360 --> 00:45:29,701
+Je pensais que si je pouvais
+sauver une vie,
+
+616
+00:45:30,107 --> 00:45:31,846
+la mienne vaudrait le coup
+
+617
+00:45:33,430 --> 00:45:34,894
+Mais on en sauve une...
+
+618
+00:45:35,014 --> 00:45:37,155
+Et il y en a une autre, et une autre.
+
+619
+00:45:37,780 --> 00:45:41,140
+Qui s'agrippent à vous,
+demandant à être sauvées.
+
+620
+00:45:41,960 --> 00:45:47,150
+Et même si l'on réussit,
+on ne peut jamais en sauver assez.
+
+621
+00:45:50,060 --> 00:45:52,590
+Vous le pourrez peut-être ici.
+
+622
+00:45:58,790 --> 00:46:00,220
+- Comment vont les autres ?
+- Ça va.
+
+623
+00:46:00,230 --> 00:46:01,471
+Attention !
+
+624
+00:46:02,440 --> 00:46:03,590
+Si ça tombe...
+
+625
+00:46:03,600 --> 00:46:05,629
+Ça ne va pas tomber.
+
+626
+00:46:08,700 --> 00:46:10,180
+- OK.
+- Fais très attention.
+
+627
+00:46:10,190 --> 00:46:12,450
+D'accord.
+On va te sortir de là.
+
+628
+00:46:12,460 --> 00:46:13,989
+Celle-là ?
+
+629
+00:46:15,800 --> 00:46:18,630
+- Si tu y vas très très doucement...
+- OK.
+
+630
+00:46:18,940 --> 00:46:21,090
+Ça ne va pas te tomber dessus.
+
+631
+00:46:22,670 --> 00:46:24,720
+- Du calme.
+- Désolé.
+
+632
+00:46:24,730 --> 00:46:26,200
+Je vais faire aussi vite que possible.
+
+633
+00:46:26,210 --> 00:46:28,630
+Ecoute-moi. Je vais te sortir de là.
+
+634
+00:46:28,640 --> 00:46:30,500
+Regarde-moi. Fais-moi confiance.
+
+635
+00:46:30,510 --> 00:46:32,340
+- Prends mes mains.
+- Désolé.
+
+636
+00:46:32,350 --> 00:46:34,155
+Prends mes mains !
+
+637
+00:46:38,500 --> 00:46:39,499
+Ça va ?
+
+638
+00:46:41,280 --> 00:46:42,770
+Tout va bien ?
+
+639
+00:46:42,780 --> 00:46:43,580
+Tosh, qu'est-ce que tu as ?
+
+640
+00:46:43,590 --> 00:46:48,460
+Bras cassé, côtes fêlées. Quelques cm
+de plus et une poutre m'écrasait.
+
+641
+00:46:48,970 --> 00:46:50,520
+- Tu as eu de la chance.
+- On en a tous eu.
+
+642
+00:46:50,530 --> 00:46:52,300
+Jack, qui a fait ça ?
+
+643
+00:46:52,310 --> 00:46:54,081
+Et où est le SUV?
+
+644
+00:46:56,520 --> 00:46:57,520
+Oh, non.
+
+645
+00:46:57,530 --> 00:46:58,890
+Jack, que veut-il ?
+
+646
+00:46:58,900 --> 00:47:00,689
+Oh, déjà-vu !
+
+647
+00:47:01,270 --> 00:47:02,740
+Ou aurais-je déjà dit ça ?
+
+648
+00:47:02,750 --> 00:47:03,980
+Salut les copains.
+
+649
+00:47:04,000 --> 00:47:07,510
+Enfin, vous pourriez être
+réduits en nombre, maintenant.
+
+650
+00:47:07,520 --> 00:47:09,900
+J'espère que vous avez aimé
+mon petit cadeau.
+
+651
+00:47:09,910 --> 00:47:12,130
+Evidemment, toi tu ne peux pas mourir.
+
+652
+00:47:13,330 --> 00:47:18,350
+Et avec toute cette vie, tout ce temps,
+tu n'en trouves aucun pour moi.
+
+653
+00:47:20,910 --> 00:47:22,920
+Dis bonjour à ta famille.
+
+654
+00:47:24,470 --> 00:47:26,020
+Non... Impossible.
+
+655
+00:47:26,030 --> 00:47:29,320
+Ça fait un moment que tu n'as
+pas vu ton frère, Jack !
+
+656
+00:47:29,980 --> 00:47:30,962
+Gray ?
+
+657
+00:47:31,780 --> 00:47:34,430
+Voilà ce qui va se passer.
+
+658
+00:47:34,440 --> 00:47:38,550
+Tout ce que tu aimes,
+tout ce que tu chéris mourra.
+
+659
+00:47:38,560 --> 00:47:41,780
+Je vais déchirer ton petit monde,
+
+660
+00:47:41,790 --> 00:47:45,820
+Capitaine Jack Harkness,
+morceau après morceau.
+
+661
+00:47:45,830 --> 00:47:47,462
+Dès maintenant.
+
+662
+00:47:47,810 --> 00:47:51,210
+Peut-être que tu voudras passer
+du temps avec moi, comme ça.
+
+663
+00:47:59,060 --> 00:48:00,850
+C'était une attaque ciblée.
+
+664
+00:48:00,860 --> 00:48:03,700
+La bête a tué les 4 agents
+les plus âgés.
+
+665
+00:48:03,710 --> 00:48:06,510
+Si ça sort d'ici, on aura un vent
+de panique sur toute la ville.
+
+666
+00:48:06,520 --> 00:48:08,430
+Allons trouver une bonne vue.
+
+667
+00:48:09,690 --> 00:48:10,520
+Qu'as-tu fait ?
+
+668
+00:48:10,530 --> 00:48:14,320
+On va remettre cette ville en ordre,
+trouver Jack...
+
+669
+00:48:14,630 --> 00:48:16,270
+et punir John.
+
+670
+00:48:16,280 --> 00:48:18,330
+Il nous a totalement handicapés.
+
+671
+00:48:18,340 --> 00:48:19,970
+Vous êtes pas drôles !
+
+672
+00:48:19,980 --> 00:48:21,610
+Owen, sors de là.
+
+673
+00:48:21,940 --> 00:48:23,110
+Qu'as-tu fait de mon frère ?
+
+674
+00:48:23,120 --> 00:48:25,657
+Ça va mal finir.
+
+675
+00:48:26,930 --> 00:48:28,868
+Et si c'était comme ça que ça finit ?
+
+676
+00:48:29,206 --> 00:48:33,329
+~ Harkness Team ~
+~ www.seriessub.com ~
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

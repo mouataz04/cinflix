@@ -1,0 +1,431 @@
+{135}{195}NEW YORK
+{5267}{5325}LE GOUVERNEMENT NOUS MENT
+{5685}{5727}LA VERITE EST AILLEURS
+{5787}{5880}SIEGE DU FBI|WASHINGTON
+{5887}{5942}Simple enquête de routine.
+{5945}{6065}A votre connaissance, M. Wisnowski|prenait-il des substances illégales?
+{6067}{6105}Quel genre de drogues?
+{6105}{6200}Lorsque vous travailliez|avec Mme Ermentrout,
+{6202}{6295}la trouviez-vous digne de confiance?
+{6345}{6420}Ponctuelle? Ca, c'est bien.
+{6422}{6515}Non, madame. Simple enquête de routine.
+{6515}{6620}M. Garber n'a pas de problème avec la justice.
+{6660}{6735}D'accord. Merci beaucoup.
+{6790}{6880}Si on a du pot, on aura le droit|de nettoyer les toilettes.
+{6882}{6927}- Tu vas démissionner?|- Non.
+{6930}{7017}Ca ferait trop plaisir à bien trop de gens.
+{7075}{7117}Scully.
+{7155}{7200}J'arrive.
+{7260}{7350}Kersh me demande. Moi seule.
+{7360}{7405}Toi seule?
+{7460}{7510}Prends ton balai à chiotte.
+{7510}{7575}Non, madame, pas vous.
+{7720}{7770}- Agent Scully.|- Monsieur.
+{7810}{7920}Dana Scully, voici l'agent Peyton Ritter,|du bureau de New York.
+{7922}{7960}- Agent Ritter.|- Salut.
+{8015}{8130}- Montrez-lui.|- Nous mettons à jour nos archives.
+{8132}{8240}En numérisant de vieilles photos de crimes,
+{8240}{8295}j'ai trouvé ceci.
+{8417}{8467}Margareta Stoller. 57 ans.
+{8470}{8527}Morte d'une overdose de somnifère.
+{8590}{8645}Regardez l'heure où on l'a trouvée.
+{8647}{8715}Un voisin a appelé la police à 23 h 14.
+{8717}{8785}Qu'est-ce qui cloche?
+{8875}{8975}Le réveil indique qu'il est 45 mn plus tôt.|Un réveil peut retarder.
+{8977}{9065}Bien sûr. J'ai regardé|dans le journal du lendemain.
+{9065}{9125}Voici les photos qu'ils publiaient.
+{9200}{9245}Presque 1 h et demie plus tard.
+{9260}{9330}Deux négatifs différents,|le même photographe.
+{9330}{9430}Il s'appelle Alfred Fellig.|Il traîne à Manhattan depuis des années.
+{9432}{9540}Il est correspondant de presse|et photographe pour la police.
+{9540}{9647}Vous soupçonnez ce M. Fellig?|Pour vous, ce n'était pas un suicide?
+{9670}{9730}Ce type aime prendre des photos.
+{9760}{9847}Alors il a peut-être empoisonné cette femme,
+{9850}{9875}puis il a pris des photos,
+{9875}{9910}puis il a pris des photos,
+{9910}{9987}et il est revenu|sur les lieux une heure plus tard,
+{9990}{10057}appelé par le poste pour prendre les photos.
+{10085}{10122}Jolie théorie.
+{10125}{10215}Oui. Et il a pu faire le coup|à d'autres occasions.
+{10215}{10292}J'ai examiné environ 2000|de ses photos pour la police.
+{10295}{10362}Celles-ci comportent des ombres solaires.
+{10365}{10455}- Comme on conna îti l'endroit...|- On conna îti l'heure d'après les ombres.
+{10457}{10560}Exact. Et elles sont aussi louches|les unes que les autres.
+{10560}{10647}Un autre suicide, une crise cardiaque|et un meurtre évident
+{10650}{10712}pour lequel un homme a été condamné.
+{10715}{10830}- II n'y a pas de logique.|- Rien n'est logique.
+{10872}{10927}J'aimerais votre aide.
+{10995}{11080}- Agent, vous pouvez nous laisser?|- Bien sûr.
+{11300}{11365}Il a de l'avenir.
+{11387}{11452}Comme vous, autrefois.
+{11530}{11645}Vos connaissances en pathologie|seraient un atout dans cette affaire.
+{11647}{11722}C'est plus motivant|que les enquêtes de routine.
+{11725}{11777}L'agent Mulder et moi sommes prêts.
+{11780}{11867}Mulder est irrécupérable.|Je prends le pari que vous, non.
+{11870}{11945}C'est vous et Ritter. Ne me décevez pas.
+{14172}{14220}Mulder?
+{14317}{14365}- Tu fais quoi?|- Je fouine.
+{14387}{14450}Je suis dégoûté. C'est une affaire NC.
+{14450}{14515}- Pas du tout.|- Ca y ressemble.
+{14515}{14602}Ca m'évoque la télékinésie.|Ou un rituel lié au chamanisme.
+{14605}{14655}Ou la croyance musulmane|que photographier, c'est voler l'âme.
+{14655}{14700}Ou la croyance musulmane|que photographier, c'est voler l'âme.
+{14702}{14757}Merci. Ca m'aide beaucoup.
+{14790}{14852}Ils nous séparent, hein?
+{14855}{14922}Non. C'est que pour cette fois.
+{14925}{15017}Si tu fais du bon boulot,|ils te remettront plus ici.
+{15077}{15115}N'est-ce pas?
+{15257}{15310}Agent Scully, tout est prêt.
+{15310}{15365}Peyton Ritter, voici Fox Mulder.
+{15367}{15465}- Enchanté, Fox.|- Moi de même, Peyton.
+{15492}{15555}- Fauty aller.|- En route pour New York.
+{15727}{15785}15EME DISTRICT, MANHATTAN
+{15815}{15885}Alfred Fellig. Que savez-vous de lui?
+{15920}{16035}C'est l'un des 10 000 connards|qui a le droit d'emmerder les gens.
+{16037}{16115}C'est aussi le photographe|de la police dans ce district.
+{16115}{16177}Il vient, il prend la photo.
+{16180}{16215}Il parle à personne.
+{16217}{16290}Votre fiche a peu|d'informations personnelles.
+{16292}{16367}C'est pas le but.|C'est un renouvellement annuel.
+{16370}{16470}Vous savez quand l'enquête|a été faite sur lui?
+{16507}{16650}Encore un renouvellement, qui date|de janvier 1970. Mais pas d'original.
+{16652}{16702}Je crois que je l'ai.
+{16720}{16775}1964.
+{16795}{16832}C'est pas un jeunot.
+{16835}{16895}- Intéressant?|- Peut-être.
+{17292}{17357}- Qu'est-ce que vous faites?|- Regardez.
+{17432}{17472}1996.
+{17497}{17595}1987. 1985. 1973.
+{17760}{17807}Ce type ne vieillit jamais.
+{17830}{17975}A part savoir qu'il a toujours été|un vieux schnock, on est dans l'impasse.
+{18015}{18090}JEROME AVENUE, LE BRONX|02H19
+{18107}{18202}A l'aide! Appelez la police.
+{18205}{18267}Que voulez-vous? Vous êtes fou?
+{18270}{18350}Aidez-moi, madame.
+{18457}{18527}Qu'est-ce que tu veux? Non!
+{21060}{21110}Ce sont les empreintes de Fellig.
+{21130}{21210}Exactement les mêmes|que celles de sa fiche de 1964.
+{21212}{21275}Je les ai passées dans la base de données,
+{21277}{21345}ce matin. Et boum! Elles sont sorties.
+{21347}{21405}D'après vous, ce serait Fellig?
+{21405}{21470}Le couteau est l'arme du crime.
+{21472}{21555}- II devient négligent avec l'âge.|- C'est quoi?
+{21557}{21632}- Une flaque de sang.|- Oui, je vois ça.
+{21675}{21770}- II a fait une autre victime.|- Où est le corps?
+{21795}{21835}- lls ont trouvé Fellig.|- Où?
+{21837}{21910}Chez lui, devant la télé.|Ils l'emmènent au poste.
+{21980}{22017}Test.
+{22020}{22085}Le 4 janvier, à 11 h 36.
+{22085}{22152}15ème District, Manhattan.
+{22155}{22230}Agents présents:|Dana Scully et Peyton Ritter.
+{22230}{22280}Premier interrogatoire de...
+{22305}{22352}Alfred Fellig.
+{22622}{22660}Bonjour.
+{22712}{22767}Vous êtes photographe.
+{22795}{22935}J'ai vu certaines de vos photos.|Vos sujets sont plutôt macabres.
+{22957}{23075}Vous côtoyez souvent la mort.|Elle semble vous fasciner.
+{23112}{23180}Je vous ennuie, M. Fellig?
+{23182}{23220}Posez-moi donc une question.
+{23247}{23290}Très bien.
+{23290}{23392}Pourquoi êtes-vous toujours|pile à l'endroit où quelqu'un meurt?
+{23395}{23467}Vous êtes là avec votre appareil. Comment?
+{23470}{23560}Instinct de journaliste.
+{23587}{23707}On a trouvé vos empreintes|sur l'arme d'un crime.
+{23710}{23805}Pouvez-vous nous donner|votre emploi du temps d'hier soir?
+{23807}{23890}Le Bronx. Sur un boulot.
+{23892}{23992}J'ai vu un voyou qui piquait|les tennis d'un gamin.
+{23995}{24057}Il m'a poursuivi. Et il s'est enfui.
+{24060}{24110}Il s'est enfui?
+{24122}{24217}- Un mystérieux assassin?|- Je pourrais l'identifier.
+{24232}{24307}On a trouvé vos empreintes sur le couteau.
+{24337}{24387}Comment ça se fait?
+{24480}{24600}Il a oublié son couteau.|J'ai dû le toucher brièvement.
+{24600}{24650}Pourquoi ça?
+{24755}{24807}Etiez-vous blessé?
+{24860}{24930}Vous semblez souffrir.
+{24930}{25002}Il vous a attaqué?
+{25017}{25082}On a trouvé le sang de quelqu'un d'autre.
+{25085}{25202}Après analyse, je me demande|si on ne verra pas que c'est le vôtre.
+{25230}{25315}- J'ai été blessé.|- On peut voir?
+{25515}{25552}Je peux vous aider?
+{25552}{25565}Je peux vous aider?
+{25950}{26025}Emmenez M. Fellig faire une prise de sang.
+{26045}{26105}Et photographiez son dos.
+{26310}{26427}Je ne comprends pas. Je pensais|qu'on voulait le coffrer, pas le relâcher.
+{26430}{26492}Je pensais qu'on cherchait la vérité.
+{26717}{26785}- Scully.|- Je m'appelle Fox Mulder.
+{26785}{26865}On était assis côte à côte au FBI.
+{26885}{26925}Alors, ton affaire NC?
+{26927}{26980}Ce n'est pas...
+{27080}{27130}On n'a pas beaucoup avancé.
+{27132}{27210}On a arrêté Alfred Fellig et on l'a relâché.
+{27212}{27287}- Et ses blessures?|- Comment tu sais ça?
+{27290}{27352}Je t'ai dit, je fouine. Pourquoi le relâcher?
+{27355}{27427}Il y a d'autres empreintes sur le couteau.
+{27430}{27510}Celles d'un meurtrier reconnu|du nom de Malcolm Wiggins.
+{27545}{27677}Vu que le sang de Fellig a été retrouvé|sur les lieux, son histoire colle.
+{27680}{27760}Au moins, cette histoire-ci.
+{27760}{27820}Mais tu penses que c'est un meurtrier?
+{27837}{27887}Je ne sais pas quoi penser.
+{27957}{28005}Il est...
+{28045}{28075}bizarre.
+{28077}{28160}Parce qu'il cicatrise plus vite que son ombre?
+{28160}{28285}- D'où tu sais tout ça?|- Ritter envoie des rapports à Kersh.
+{28287}{28355}Mon ordinateur les a interceptés|par inadvertance.
+{28357}{28467}Il dit des choses gentilles|sur toi. Le plus souvent.
+{28515}{28590}Si tu me laissais faire une enquête sur Fellig?
+{28592}{28655}- Mulder...|- C'est mon rayon. Je deviens imbattable.
+{28655}{28677}- Mulder...|- C'est mon rayon. Je deviens imbattable.
+{28730}{28815}DEAN STREET, BROOKL YN|01H53
+{29297}{29347}Je suis garée au coin.
+{29417}{29510}Fellig dort. Ca fait|quatre heures qu'il a pas bougé.
+{29587}{29637}Passez une bonne soirée.
+{30690}{30745}M. Fellig, ouvrez.
+{30802}{30852}Expliquez-moi ça.
+{30865}{30957}- Quoi?|- Prise avant l'arrivée de la police.
+{30960}{31052}Vous avez dissimulé cela|en reprenant une photo plus tard.
+{31055}{31115}Je ne m'en souviens pas.
+{31117}{31185}Vous avez l'habitude troublante|d'être le premier sur le lieu de la mort.
+{31185}{31257}Vous avez l'habitude troublante|d'être le premier sur le lieu de la mort.
+{31260}{31350}Vous avez aussi pour habitude|de dissimuler ce fait. Pourquoi?
+{31352}{31407}Suis-je en état d'arrestation?
+{31410}{31460}Êtes-vous un assassin?
+{31497}{31547}Alors, expliquez-vous.
+{31550}{31640}Tant que vous ne l'aurez pas fait,|on ne vous laissera pas en paix.
+{31837}{31902}Vous voulez venir faire un tour?
+{31925}{31992}Venez. Je vous montrerai.
+{32195}{32240}Ca fait une heure.
+{32242}{32352}- On va rouler toute la nuit?|- Oui. C'est ça.
+{32355}{32415}C'est ce que je fais.
+{32417}{32470}Je cherche la photo.
+{32487}{32547}- Quelle photo?|- La photo.
+{32780}{32815}Elle.
+{32840}{32897}Elle va mourir.
+{32960}{33000}Qu'est-ce que vous racontez?
+{33000}{33140}Dans une minute ou dans une heure,|mais elle va mourir, c'est clair.
+{33177}{33217}Ecoutez...
+{33237}{33352}J'ignore ce que vous mijotez,|mais personne ne va mourir.
+{33362}{33427}Je ne mijote rien.
+{33430}{33515}Je vous dis seulement ce qui va se passer.
+{33580}{33640}Cette femme va être assassinée?
+{33640}{33777}Je n'ai pas dit "assassinée".|Elle fume. Ce sera peut-être un cancer.
+{33780}{33852}Je ne sais jamais comment.
+{33877}{33927}Je sais seulement quand.
+{33942}{33992}Je suis censée croire ça?
+{34080}{34137}Qu'est-ce que tu fais ici?
+{34192}{34257}Dehors par ce froid?
+{34382}{34475}- Ca va?|- Fous-moi la paix. Lâche-moi.
+{34620}{34667}Je veux pas de ton fric.
+{34667}{34682}Je veux pas de ton fric.
+{34712}{34780}Salaud. Dégage. Lâche-moi.
+{34977}{35027}FBI. Ne bougez plus.
+{35030}{35090}- D'où vous sortez?|- La ferme.
+{35115}{35165}A terre. Reculez.
+{35167}{35232}On fait moins le malin, maintenant.
+{35440}{35487}Le flingue est pas à moi.
+{35545}{35595}- Ca va?|- Je me tire.
+{36265}{36327}Dana! C'est quoi, ce bordel?
+{36330}{36420}Agression et possession|d'une arme non-répertoriée.
+{36422}{36487}- Pourquoi vous m'avez pas appelé?|- Désolée.
+{36505}{36555}Vous avez foiré la filature?
+{36650}{36717}Elle était foirée avant que j'arrive.
+{36720}{36807}Vous l'avez foirée|pour partir en goguette avec lui?
+{36810}{36950}J'ai questionné Fellig sur son rôle|dans les décès qu'il photographie. D'accord?
+{36952}{37037}- II a dit quoi?|- Qu'il sait quand les gens vont mourir.
+{37060}{37135}S'il existe une loi|contre les bons samaritains, OK.
+{37135}{37197}Mais on le coincera pas pour meurtre.
+{37200}{37250}Erreur. Regardez ceci.
+{37375}{37485}On a ramassé Higgins hier soir.|Il dit que c'est Fellig, l'assassin.
+{37485}{37597}- Lui, il passait seulement par là.|- Un assassin notoire plus jeune que Fellig.
+{37600}{37685}Il dit qu'il avait peur qu'on ne le croie pas.
+{37685}{37722}A raison.
+{37725}{37800}On l'a aidé à fabriquer cette histoire?
+{37802}{37870}Fellig est un assassin.
+{37872}{37985}Qu'il ait commis ce meurtre ou un autre,|peu importe. Au moins, je le tiens.
+{37987}{38110}- Vous n'aurez jamais un mandat pour ça.|- Je connais le juge. On l'aura à midi.
+{38110}{38120}- Vous n'aurez jamais un mandat pour ça.|- Je connais le juge. On l'aura à midi.
+{38185}{38267}- Kersh m'a parlé de vous.|- Ah oui?
+{38270}{38375}Vous et votre acolyte, dont la réputation|n'est plus à faire. J'étais prévenu.
+{38375}{38485}Si vous sabotez mon enquête,|Kersh le saura. C'est clair, Dana?
+{38487}{38527}Scully.
+{38530}{38600}Cette conversation est terminée.
+{38672}{38722}- Oui.|- Scully.
+{38725}{38807}Alors, ton affaire NC?|Avant de jurer que ç'en est pas une...
+{38810}{38880}- C'en est une.|- Pourquoi tu dis ça?
+{38880}{38960}Alfred Fellig en sait très long sur la mort.
+{38962}{39095}Pas étonnant, vu qu'il a atteint|l'âge vénérable de 149 ans.
+{39107}{39185}- Pardon?|- J'ai fait ma petite enquête.
+{39187}{39257}Que des vieilleries pas informatisées.
+{39260}{39387}Alfred Fellig n'existe pas avant 1964,|mais il y a un certain Henry Strand.
+{39390}{39492}Il a demandé une carte de presse|à la police en 1939, à l'âge de 53 ans.
+{39495}{39547}Mêmes empreintes que Fellig.
+{39550}{39605}Il doity avoir une erreur.
+{39607}{39722}Tu crois? Ce Henry Strand|n'existe pas avant 1939.
+{39725}{39900}Mais un certain LH Rice a passé|l'examen de la fonction publique.
+{39900}{40030}Je ne sais pas s'il l'a réussi.|Mais ses empreintes? Celles de Fellig.
+{40075}{40142}Et la date de naissance de Rice?
+{40145}{40212}4 avril 1849.
+{40215}{40312}Je suis pas bon en maths,|mais ça fait pas mal de bougies.
+{40315}{40432}Je l'ai vu de près,|il ne peut pas avoir plus de 65 ans.
+{40435}{40490}C'est ce qu'il veut te faire croire.
+{40505}{40615}C'est un type pour qui "prison à vie"|a une signification particulière.
+{40617}{40727}Arrête-le avant qu'il ne disparaisse|sous une autre identité.
+{41440}{41590}Vous allez être arrêté, M. Fellig,|d'ici deux heures. Pour meurtre.
+{41597}{41687}Cette fois, changer de nom ne suffira pas.
+{41690}{41790}Je vous ai montré hier soir.|Je ne prends que des photos.
+{41792}{41945}Ce que vous m'avez montré,|c'est un manque criant de compassion.
+{41945}{42017}Et que vous tirez profit de la mort des gens.
+{42037}{42097}C'est assez pour aller en prison.
+{42100}{42160}Vous voulez que je pleure?
+{42160}{42245}Que je fasse semblant|de m'apitoyer sur leur sort?
+{42245}{42295}Ce n'est pas le cas.
+{42320}{42367}Sales veinards.
+{42400}{42472}- Tous sans exception.|- Veinards?
+{42500}{42550}Je viens prendre une photo.
+{42552}{42622}Je ne prends pas les gens. C'est elle.
+{42625}{42675}Qui, "elle"?
+{43450}{43505}La voilà.
+{43507}{43557}C'est elle qui prend les gens.
+{43570}{43640}Vous dites que c'est une photo|de la mort elle-même?
+{43642}{43707}Un aperçu.
+{43725}{43787}C'est le meilleur depuis...
+{43790}{43855}Je ne sais plus combien d'années...
+{43855}{43927}C'est ça, la photo dont vous parliez. Celle...
+{43970}{44025}que vous cherchez.
+{44117}{44240}Vous vous y connaissez|mieux que moi en photo.
+{44280}{44357}Mais ceci n'est qu'un reflet.
+{44360}{44450}C'est vrai. Je m'y connais|mieux que vous en photo.
+{44577}{44627}D'accord.
+{44695}{44800}En admettant que ce soit vrai,|pourquoi vous donner tout ce mal?
+{44802}{44900}Pourquoi photographier la mort?
+{44900}{44985}Pour pouvoir la regarder en face.
+{44985}{45040}Pour pouvoir mourir.
+{45060}{45110}Les cachets ne marchent pas.
+{45157}{45225}Ni les rasoirs, le gaz ou les ponts.
+{45225}{45335}J'ai sauté d'un nombre incalculable|de ponts. Je ne fais que me mouiller.
+{45410}{45472}J'ai été oublié.
+{45475}{45525}Je ne veux plus rester ici-bas.
+{45527}{45595}Je n'ai jamais voulu y être.
+{45647}{45697}C'est...
+{45712}{45792}C'est tout ce que je peux faire.
+{45867}{45910}Je ne vous crois pas.
+{45912}{45947}Si.
+{45992}{46052}Sinon, vous ne seriez pas ici.
+{46570}{46667}Comment pouvez-vous savoir|que les gens vont mourir?
+{46775}{46845}A force d'essayer, ça m'est venu.
+{46940}{46997}LOUIS BRADY PHOTOG. 1928
+{47125}{47162}Excusez-moi.
+{47575}{47600}Mulder.
+{47600}{47640}- C'est moi.|- Salut.
+{47642}{47750}Les deux autres noms pris par Fellig,|c'était bien Strand et Rice?
+{47765}{47820}Henry Strand et LH Rice.
+{47820}{47880}Pas de Louis Brady?
+{47900}{47957}Non. Mais il y a un trou avant 1939.
+{47957}{48007}Non. Mais il y a un trou avant 1939.
+{48025}{48082}Tu pourrais vérifier ça?
+{48097}{48172}Je ne bouge pas d'ici|pour qu'il ne m'échappe pas.
+{48190}{48240}Louis Brady, Mulder.
+{48242}{48290}Dis-moi ce que tu trouves.
+{48675}{48727}M. Fellig?
+{48805}{48925}Excusez-moi. J'ai un tirage en cours.|Une petite seconde.
+{49272}{49365}ARCHIVES DU FBI|09H32
+{49945}{50010}Criminel recherché par le FBI|Brady, Louis Robert
+{50105}{50155}Double meurtre, 21 juillet 1929|Arrêté le 2 août 1929
+{50265}{50315}- Ritter.|- lci l'agent Mulder.
+{50315}{50420}- L'agent Scully est avec vous?|- Non. Elle est introuvable.
+{50420}{50487}Son portable est éteint.
+{50490}{50557}- Que puis-je pour vous?|- La trouver.
+{50560}{50695}- Je pars arrêter Fellig.|- Bien. Je crois qu'elle est là-bas.
+{50695}{50780}Fellig est bien un assassin,|sous le nom de Louis Brady.
+{50780}{50895}Il a étouffé 2 patients dans un hôpital,|soi-disant pour rattraper la mort.
+{50895}{50967}Après sa condamnation,|il s'est échappé de prison.
+{50970}{51025}La chasse à l'homme n'a jamais cessé.
+{51025}{51080}- C'était quand?|- En 1929.
+{51082}{51185}- Quand ça?|- Vous prenez pas la tête. C'est lui.
+{51187}{51280}- Filez là-bas et trouvez Scully.|- D'accord.
+{51400}{51470}Les gens rêvent plutôt d'immortalité.
+{51472}{51597}Les gens sont stupides.|Moi, je ne veux surtout pas de ça.
+{51600}{51650}Vous avez tort.
+{51690}{51747}La vie n'est jamais trop longue.
+{51797}{51872}Il y a tant à apprendre, tant à faire.
+{51875}{51955}75 ans, ça suffit.
+{51985}{52050}Croyez-moi.
+{52052}{52162}En étant immortel, on se dit|qu'on rate une chose cruciale,
+{52165}{52260}dont tout le monde fait|l'expérience, sauf vous.
+{52287}{52372}- Et l'amour?|- II serait éternel?
+{52425}{52555}Il y a 40 ans, je suis allé à la mairie,
+{52557}{52607}au service des registres.
+{52610}{52735}A l'état civil. Je voulais voir|les documents concernant ma femme.
+{52735}{52860}Je n'ai pas réussi à me rappeler son nom.
+{52915}{53037}L'amour dure 75 ans, au mieux.
+{53070}{53142}On n'a pas envie de survivre à sa disparition.
+{53537}{53597}Estimez-vous heureuse.
+{53925}{53980}Pourquoi êtes-vous comme ça?
+{54015}{54135}Si vous dites la vérité,|donnez-moi une preuve,
+{54157}{54232}un fait scientifique à quoi me raccrocher.
+{54235}{54307}La science n'a rien à voir là-dedans.
+{54310}{54400}- Quelqu'un a pris ma place.|- Votre place?
+{54425}{54475}Je ne sais pas son nom.
+{54510}{54570}Je ne l'ai jamais su.
+{54572}{54702}J'ai eu la fièvre jaune,|durant la grande épidémie à New York.
+{54767}{54865}Le parc de Washington Square|servait de fosse commune.
+{54890}{54940}On enterrait à peine les morts.
+{54942}{55075}On les enveloppait dans des draps jaunes|qui affleuraient sous la boue.
+{55075}{55160}J'étais en quarantaine dans un hôpital.
+{55162}{55265}Ma tête explosait de fièvre,|je devenais fou. Et je l'ai vue.
+{55265}{55315}J'ai vu la mort.
+{55315}{55365}Mais j'avais pas d'appareil photo.
+{55367}{55507}Au début, je l'ai aperçue du coin de l'oeil.
+{55510}{55595}Puis elle s'est enhardie|et s'est déplacée dans la pièce
+{55597}{55670}pour prendre une personne, puis une autre.
+{55675}{55752}Je n'ai pas vu son visage.|Je ne voulais pas le voir.
+{55755}{55842}Je pensais qu'alors, elle me prendrait aussi.
+{55882}{55935}- Mais elle ne l'a pas fait.|- Non.
+{55937}{56002}Il y avait une infirmière.
+{56005}{56062}Elle faisait de son mieux.
+{56065}{56117}A l'époque,
+{56120}{56257}la médecine était...|Ils y connaissaient que dalle.
+{56260}{56395}Mais l'infirmière faisait de son mieux.|Elle était là, à me tenir la main...
+{56395}{56465}J'étais sur mon lit de mort.
+{56467}{56547}Et "elle" est venue me chercher.|Je ne l'ai pas regardée.
+{56550}{56625}J'ai fermé les yeux et tourné la tête.
+{56627}{56722}Je n'ai pas prévenu l'infirmière.|Je voulais qu'elle la regarde.
+{56725}{56827}Je voulais que ce soit l'infirmière, et pas moi.
+{56882}{56950}Je me suis réveillé, ma fièvre est tombée.
+{56985}{57072}Ils ont enveloppé l'infirmière|dans un drap jaune.
+{57125}{57220}Depuis, je sais qu'il faut|faire attention à ce qu'on souhaite.
+{57250}{57312}J'ai raté ma chance.
+{57335}{57400}Vous avez de la chance, vous savez?
+{57402}{57457}Que voulez-vous dire?
+{57550}{57587}Attendez voir.
+{57637}{57732}Dites-le franchement.|La même chance que tous les autres?
+{57735}{57850}- Je serais sur le point de mourir?|- Je veux simplement prendre la photo.
+{57852}{57905}Vous m'avez photographiée hier soir.
+{57907}{57960}- C'est pour ça?|- C'était pas pareil.
+{57960}{58017}Je ne vais pas mourir.
+{58057}{58120}- Eteignez ce flash.|- Non.
+{58130}{58247}- Eteignez-le. Posez cet appareil.|- II n'y a rien à faire.
+{58530}{58635}- Pourquoi avoir pris mon téléphone?|- Je vous en prie. Laissez-moi faire.
+{58637}{58720}- Que voulez-vous me cacher?|- Elle arrive.
+{58720}{58790}- Vous devriez vous préparer.|- Taisez-vous!
+{58907}{58947}Elle est là.
+{59507}{59557}Agent Scully?
+{59760}{59815}Mon Dieu. Non!
+{59960}{60020}Allez, merde.
+{60080}{60145}J'appelle les secours.
+{61027}{61077}Vous la voyez?
+{61270}{61320}Ne regardez pas.
+{61342}{61385}Fermez les yeux.
+{62272}{62337}HÔPITAL DE NEW YORK|UNE SEMAINE PLUS TARD
+{62780}{62840}Vous avez de la veine.
+{63210}{63327}Le médecin légiste dit que Fellig|est mort à la suite d'un coup de feu.
+{63330}{63387}Rien de plus.
+{63420}{63542}J'ai parlé au chirurgien.|Il est content de tes progrès.
+{63545}{63620}Il n'a jamais vu quelqu'un|se rétablir aussi vite.
+{63667}{63765}Comment ai-je pu envisager cette idée?
+{63822}{63872}Personne n'est immortel.
+{63875}{63947}Lui aurait pu l'être.
+{63965}{64042}La mort ne vient te chercher
+{64085}{64152}que quand tu cherches à la fuir.
+{64737}{64780}Sous-titrage Visiontext: Hélène Monsché
+{65305}{65355}FRENCH

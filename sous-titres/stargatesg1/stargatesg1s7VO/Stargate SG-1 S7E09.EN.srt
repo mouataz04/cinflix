@@ -1,0 +1,2359 @@
+1
+00:00:05,327 --> 00:00:08,558
+Previously on "Stargate SG1":
+
+2
+00:00:08,647 --> 00:00:13,277
+They are so cool.
+Savour the moment, gentlemen.
+
+3
+00:00:15,567 --> 00:00:16,636
+They're in trouble.
+
+4
+00:00:16,727 --> 00:00:20,083
+- What would O'Neill do if he was here?
+- You want me to shoot you?
+
+5
+00:00:22,607 --> 00:00:26,646
+- We're here to rescue you.
+- We allowed ourselves to be captured...
+
+6
+00:00:26,727 --> 00:00:27,876
+on purpose.
+
+7
+00:00:27,967 --> 00:00:32,483
+This is great. Sneakin' around with you
+in a Goa'uld pyramid on an alien planet.
+
+8
+00:00:32,567 --> 00:00:34,876
+The one thing missing
+is some Jaffa chasing us.
+
+9
+00:00:38,127 --> 00:00:40,402
+Felger? Jay?
+
+10
+00:00:41,127 --> 00:00:42,924
+- What?
+- Snap out of it.
+
+11
+00:00:43,007 --> 00:00:45,919
+- Sorry.
+- Calibration scales for the power source?
+
+12
+00:00:46,007 --> 00:00:49,397
+Right there. Right... there.
+
+13
+00:01:02,327 --> 00:01:03,396
+What time is it?
+
+14
+00:01:03,487 --> 00:01:06,559
+It's two minutes past
+the last time you asked me.
+
+15
+00:01:06,647 --> 00:01:10,083
+- She should be here any second.
+- Relax, Jay.
+
+16
+00:01:10,167 --> 00:01:14,080
+Relax? We are on the verge of
+a major scientific breakthrough.
+
+17
+00:01:14,167 --> 00:01:17,796
+This weapon could be the key factor
+in our fight against the Goa'uld!
+
+18
+00:01:17,887 --> 00:01:21,846
+Is it defeating the Goa'uld you're worried
+about or impressing Major Carter?
+
+19
+00:01:21,927 --> 00:01:25,966
+Unlike some people in this room, I've seen
+what the Goa'uld can do first-hand.
+
+20
+00:01:26,047 --> 00:01:28,277
+I know. You've told me a thousand times.
+
+21
+00:01:28,367 --> 00:01:32,042
+You rescued SG-1
+from the evil Lord Whatshisname.
+
+22
+00:01:32,127 --> 00:01:35,119
+Her'ak. He wasn't an evil lord.
+He was a first prime.
+
+23
+00:01:35,207 --> 00:01:40,076
+Jay, you're a brilliant scientist.
+Some day you'll win the Nobel prize.
+
+24
+00:01:40,167 --> 00:01:43,125
+What do you care
+what these military types think of you?
+
+25
+00:01:43,207 --> 00:01:48,520
+You don't get it. When you've stood side
+by side with someone and faced death,
+
+26
+00:01:48,607 --> 00:01:50,802
+it creates an unspoken bond.
+
+27
+00:01:50,887 --> 00:01:54,641
+An understanding
+that transcends simple friendship.
+
+28
+00:01:54,727 --> 00:01:57,958
+Colonel O'Neill and I
+have been to hell and back together.
+
+29
+00:01:58,047 --> 00:02:00,959
+When the mission was over,
+you know what he said? He said...
+
+30
+00:02:01,047 --> 00:02:03,402
+Is this gonna take long?
+
+31
+00:02:04,567 --> 00:02:07,035
+- Colonel O'Neill.
+- Folger.
+
+32
+00:02:07,127 --> 00:02:10,802
+- Felger. I wasn't expecting you, sir.
+- Yes.
+
+33
+00:02:10,927 --> 00:02:13,600
+Well, Major Carter said this was important.
+
+34
+00:02:13,687 --> 00:02:18,602
+D-d-d-d-don't touch it, please.
+This is a finely calibrated device.
+
+35
+00:02:18,687 --> 00:02:22,600
+It fires a focused plasma pulse.
+Whoo...
+
+36
+00:02:22,687 --> 00:02:24,484
+boom!
+
+37
+00:02:28,447 --> 00:02:34,079
+It's an energy-based weapon, sir. It could
+perhaps replace the missiles on the X-303.
+
+38
+00:02:34,167 --> 00:02:37,159
+- Phaser?
+- More like a photon torpedo.
+
+39
+00:02:37,247 --> 00:02:39,158
+My assistant Chloe.
+
+40
+00:02:40,167 --> 00:02:42,442
+There you are.
+
+41
+00:02:42,527 --> 00:02:45,917
+- Chloe.
+- This is all based on a Goa'uld design.
+
+42
+00:02:47,967 --> 00:02:54,202
+If you'll join me to the rear of the weapon,
+we'll proceed with the demonstration.
+
+43
+00:02:59,207 --> 00:03:01,880
+My friends, I present to you...
+
+44
+00:03:03,647 --> 00:03:05,842
+...the 22nd century!
+
+45
+00:03:34,487 --> 00:03:37,559
+That wasn't supposed to happen.
+
+46
+00:04:42,287 --> 00:04:47,202
+I am really sorry, General. I assure you
+nothing like this will ever happen again.
+
+47
+00:04:47,287 --> 00:04:50,165
+It won't, because I'm pulling
+the plug on your research.
+
+48
+00:04:50,247 --> 00:04:54,957
+No, please, General. It was a minor glitch.
+We are so close to a working prototype.
+
+49
+00:04:55,047 --> 00:04:59,837
+You've said that for the last six months.
+In fact, I've reviewed your records.
+
+50
+00:04:59,927 --> 00:05:03,476
+Most of the projects you've overseen
+during your tenure here
+
+51
+00:05:03,567 --> 00:05:07,196
+have been similarly
+long on promise and short on results.
+
+52
+00:05:07,287 --> 00:05:09,403
+What exactly are you saying?
+
+53
+00:05:09,487 --> 00:05:13,526
+I'm saying it may be time for the Air Force
+to rethink your position here.
+
+54
+00:05:13,607 --> 00:05:19,318
+That'd be a mistake. It just so happens
+that I'm working on a line of research,
+
+55
+00:05:19,407 --> 00:05:23,525
+and it's... Well, I'm on the verge
+of a major breakthrough, really.
+
+56
+00:05:23,607 --> 00:05:27,395
+- Really?
+- Really, yes, yes. It's gonna be huge!
+
+57
+00:05:27,487 --> 00:05:31,366
+It's gonna make the plasma weapon
+look like a squirt gun, sir.
+
+58
+00:05:31,447 --> 00:05:32,641
+- What is it?
+- Hm?
+
+59
+00:05:32,727 --> 00:05:37,801
+- What is it?
+- Well, I'm not ready for a presentation yet.
+
+60
+00:05:37,887 --> 00:05:41,323
+I still gotta crunch a few numbers
+and dot a few i's.
+
+61
+00:05:41,407 --> 00:05:44,843
+I could probably have something ready
+by the end of next week.
+
+62
+00:05:44,927 --> 00:05:48,203
+- You have 24 hours.
+- More than enough time.
+
+63
+00:05:48,287 --> 00:05:50,482
+- Dismissed.
+- Thank you.
+
+64
+00:05:54,407 --> 00:05:57,001
+- What were you thinking?
+- I don't know!
+
+65
+00:05:57,087 --> 00:06:00,124
+I had to say something.
+They were gonna fire me.
+
+66
+00:06:00,207 --> 00:06:02,721
+Besides, all we have to do
+is think of something
+
+67
+00:06:02,807 --> 00:06:05,879
+to change the balance of power
+in the galaxy by noon tomorrow.
+
+68
+00:06:05,967 --> 00:06:08,561
+You have anything in mind?
+
+69
+00:06:10,847 --> 00:06:13,441
+As a matter of fact I do - Avenger.
+
+70
+00:06:13,527 --> 00:06:17,042
+You gotta be kidding.
+It's nowhere near ready. It's just an idea.
+
+71
+00:06:17,127 --> 00:06:20,119
+- We can make it work.
+- Jay, this is exactly your problem.
+
+72
+00:06:20,207 --> 00:06:25,281
+You try so hard to impress people, you
+always bite off more than you can chew.
+
+73
+00:06:25,367 --> 00:06:30,566
+OK, yes, you're right. I have to start
+setting more realistic goals for myself.
+
+74
+00:06:30,647 --> 00:06:33,115
+Right after this project, OK?
+
+75
+00:06:37,807 --> 00:06:42,562
+- A computer virus?
+- The gate system's just linked computers.
+
+76
+00:06:42,647 --> 00:06:46,879
+Delivering the virus is as easy as dialling
+the target gate, uploading the program.
+
+77
+00:06:46,967 --> 00:06:49,606
+The virus would scramble
+the DHD's coordinates.
+
+78
+00:06:49,687 --> 00:06:54,283
+So the symbols no longer
+correspond with the proper coordinates.
+
+79
+00:06:54,367 --> 00:06:59,361
+- And the target gate would be useless.
+- The Goa'uld rely heavily on gate travel.
+
+80
+00:06:59,447 --> 00:07:02,439
+It would be a tactical advantage for us,
+don't you think?
+
+81
+00:07:02,527 --> 00:07:04,916
+- It's interesting.
+- Really?
+
+82
+00:07:05,007 --> 00:07:07,157
+But you don't have a finished program.
+
+83
+00:07:07,247 --> 00:07:11,399
+Uh, well, not "finished" per se, no.
+I really still have to...
+
+84
+00:07:11,487 --> 00:07:14,524
+- Crunch a few numbers, dot a few i's.
+- Exactly, yeah.
+
+85
+00:07:14,607 --> 00:07:17,963
+I'll look at it. If it shows promise,
+I'll take it to Hammond.
+
+86
+00:07:18,047 --> 00:07:20,766
+- Oh, yes, OK!
+- Whoa, whoa.
+
+87
+00:07:20,847 --> 00:07:25,967
+- Don't celebrate yet. It's not a done deal.
+- Of course not. Of course not.
+
+88
+00:07:31,167 --> 00:07:33,158
+Yes! Yes!
+
+89
+00:07:35,207 --> 00:07:37,926
+Where am I?
+How did she get me here?
+
+90
+00:07:44,807 --> 00:07:48,880
+You'd rather stay and geek out
+a computer program than come with us?
+
+91
+00:07:48,967 --> 00:07:52,277
+Don't take it personally, sir.
+This research shows promise.
+
+92
+00:07:52,367 --> 00:07:53,959
+It's Felger.
+
+93
+00:07:54,047 --> 00:07:57,517
+- He did save our lives, Colonel.
+- Yeah, don't remind me.
+
+94
+00:07:57,607 --> 00:08:03,159
+The ability to disable any gate we choose
+is a valuable weapon against the Goa'uld.
+
+95
+00:08:03,247 --> 00:08:07,718
+- If it works.
+- That's what I intend to find out.
+
+96
+00:08:07,807 --> 00:08:10,560
+Don't forget your safety glasses.
+
+97
+00:08:10,647 --> 00:08:13,605
+Marines, thanks for joining us.
+
+98
+00:08:13,687 --> 00:08:15,678
+Let's move out.
+
+99
+00:08:17,567 --> 00:08:21,685
+To be honest, Major, I share
+some of the colonel's scepticism.
+
+100
+00:08:21,767 --> 00:08:26,477
+I know Dr Felger's record is a little
+sketchy, but I think he shows potential.
+
+101
+00:08:26,567 --> 00:08:29,240
+All he needs is a little support.
+
+102
+00:08:44,647 --> 00:08:46,638
+Just a minute.
+
+103
+00:08:58,207 --> 00:09:00,198
+Oh, jeez.
+
+104
+00:09:01,687 --> 00:09:06,556
+I'll be with you in a second.
+Just, you know, putting the dogs out.
+
+105
+00:09:10,487 --> 00:09:14,162
+- Oh, Major Carter.
+- I was in the neighbourhood.
+
+106
+00:09:15,607 --> 00:09:19,316
+- This isn't a bad time, is it?
+- Oh, no, no. Please, come in, come in.
+
+107
+00:09:19,407 --> 00:09:23,764
+Just, you know, just, uh,
+really wasn't, uh, expecting anyone.
+
+108
+00:09:23,847 --> 00:09:25,439
+Sorry.
+
+109
+00:09:25,527 --> 00:09:29,202
+- Nice place.
+- Oh, thank you. I was having it fumigated.
+
+110
+00:09:29,287 --> 00:09:32,518
+- Can I offer you anything?
+- No, no, I'm fine.
+
+111
+00:09:32,607 --> 00:09:34,598
+Oh, all righty.
+
+112
+00:09:35,527 --> 00:09:37,324
+Please, please.
+
+113
+00:09:42,887 --> 00:09:46,516
+Uh, what, uh, what brings you by?
+
+114
+00:09:46,607 --> 00:09:49,565
+I took your proposal
+to General Hammond.
+
+115
+00:09:49,647 --> 00:09:52,241
+- And?
+- He's agreed to give you another chance.
+
+116
+00:09:52,327 --> 00:09:55,524
+Oh, thank God. Oh, thank God.
+That's great. That's great.
+
+117
+00:09:55,607 --> 00:09:59,361
+Cos I thought I was so done for
+after that little incident thing.
+
+118
+00:09:59,447 --> 00:10:01,881
+- There is one condition.
+- Sure. OK.
+
+119
+00:10:01,967 --> 00:10:04,800
+He wants me to work
+on the project with you.
+
+120
+00:10:08,407 --> 00:10:10,398
+That'd be, uh, you?
+
+121
+00:10:10,487 --> 00:10:14,446
+- Yeah. That's not a problem, is it?
+- No, no, no. God, no, no.
+
+122
+00:10:14,527 --> 00:10:15,926
+What about SG-1?
+
+123
+00:10:16,007 --> 00:10:20,444
+- Daniel's working on a relocation project.
+- The moon in the decaying orbit?
+
+124
+00:10:20,527 --> 00:10:24,725
+They're experiencing severe seismic
+disturbances and weather anomalies.
+
+125
+00:10:24,807 --> 00:10:26,877
+What about Colonel O'Neill? Teal'c?
+
+126
+00:10:26,967 --> 00:10:30,243
+They've some negotiations
+with the rebel Jaffa leaders.
+
+127
+00:10:30,327 --> 00:10:36,243
+- There's been some infighting, rivalries.
+- Well, they have to settle that. Yeah, yeah.
+
+128
+00:10:36,327 --> 00:10:38,795
+I guess that means
+you get stuck with me, then.
+
+129
+00:10:38,887 --> 00:10:41,447
+No, no, I wouldn't put it that way.
+
+130
+00:10:41,527 --> 00:10:46,203
+I think the basic idea behind the virus
+is actually quite brilliant.
+
+131
+00:10:46,287 --> 00:10:47,879
+No...
+
+132
+00:10:48,807 --> 00:10:50,843
+- Really?
+- Yeah.
+
+133
+00:11:02,567 --> 00:11:05,479
+- A tie?
+- I wear ties.
+
+134
+00:11:05,567 --> 00:11:07,364
+And cologne?
+
+135
+00:11:07,447 --> 00:11:12,316
+There is nothing wrong with a man taking
+pride in his appearance... and smell.
+
+136
+00:11:12,407 --> 00:11:15,717
+This wouldn't have anything
+to do with Major Carter, would it?
+
+137
+00:11:15,807 --> 00:11:19,083
+- Don't be ridiculous.
+- Here. Let me.
+
+138
+00:11:20,647 --> 00:11:22,638
+Of course, you do have to admit
+
+139
+00:11:22,727 --> 00:11:28,040
+she possesses one of the most
+brilliant scientific minds of our generation.
+
+140
+00:11:28,127 --> 00:11:30,436
+And a pair of legs that won't quit...
+Agh!
+
+141
+00:11:30,527 --> 00:11:32,722
+- OK. OK.
+- Sorry.
+
+142
+00:11:32,807 --> 00:11:37,642
+Well, anyway, what chance has
+a guy like me got with a woman like that?
+
+143
+00:11:37,727 --> 00:11:39,877
+She barely notices me.
+Know what that's like?
+
+144
+00:11:39,967 --> 00:11:41,241
+A little.
+
+145
+00:11:41,327 --> 00:11:43,921
+- Morning.
+- Oh, hi. Hi.
+
+146
+00:11:46,167 --> 00:11:48,158
+- Nice tie.
+- Oh, thanks.
+
+147
+00:13:14,367 --> 00:13:16,164
+We think the virus is ready.
+
+148
+00:13:16,247 --> 00:13:20,763
+Of course, there's no real way to test it,
+except on another gate.
+
+149
+00:13:20,847 --> 00:13:23,805
+- Do you have a target in mind?
+- P5S-117.
+
+150
+00:13:23,887 --> 00:13:26,082
+Ba'al's main naqahdah mining site.
+
+151
+00:13:26,167 --> 00:13:29,477
+If we can disable the gate,
+we'd disrupt his supply network.
+
+152
+00:13:29,567 --> 00:13:31,717
+How will we know if it's successful?
+
+153
+00:13:31,807 --> 00:13:37,518
+A Tok'ra operative there can relay the
+results via their communication network.
+
+154
+00:13:37,607 --> 00:13:39,404
+Send the virus.
+
+155
+00:13:39,487 --> 00:13:41,478
+Yes, sir.
+
+156
+00:13:45,287 --> 00:13:47,278
+You'll wear a hole in the floor.
+
+157
+00:13:47,367 --> 00:13:50,086
+Those Tok'ra are taking their sweet time.
+
+158
+00:13:50,167 --> 00:13:52,442
+We should've heard something by now.
+
+159
+00:13:52,527 --> 00:13:56,884
+Major Carter to the control
+room. Major Carter to the control room.
+
+160
+00:13:56,967 --> 00:13:58,958
+That's it.
+
+161
+00:14:13,767 --> 00:14:16,839
+Chevron seven locked.
+
+162
+00:14:17,847 --> 00:14:19,997
+- What are you doing here?
+- What's going on?
+
+163
+00:14:20,087 --> 00:14:23,523
+Colonel O'Neill and Teal'c
+missed a scheduled radio contact.
+
+164
+00:14:23,607 --> 00:14:26,041
+Getting a video signal, sir.
+
+165
+00:14:26,127 --> 00:14:28,880
+Colonel O'Neill, this is Hammond.
+Do you read?
+
+166
+00:14:28,967 --> 00:14:32,164
+- Nice to hear from you, General.
+- What's your status?
+
+167
+00:14:32,247 --> 00:14:36,604
+The mission was going according to plan,
+then we hit a little snag.
+
+168
+00:14:36,687 --> 00:14:38,678
+We can't dial the gate.
+
+169
+00:14:39,727 --> 00:14:43,800
+- Say again?
+- We cannot get an outgoing wormhole.
+
+170
+00:14:43,887 --> 00:14:47,118
+We've tried all kinds of addresses,
+but we can't get a lock.
+
+171
+00:14:47,207 --> 00:14:49,323
+Stand by, Colonel.
+
+172
+00:14:49,847 --> 00:14:53,522
+Whoa, whoa, whoa, whoa.
+This is just a coincidence.
+
+173
+00:14:53,607 --> 00:14:57,122
+There's no way this could have
+anything to do with my virus. No...
+
+174
+00:14:57,207 --> 00:14:59,198
+Could it?
+
+175
+00:15:07,127 --> 00:15:10,722
+There's no way Avenger
+could have anything to do with this.
+
+176
+00:15:10,807 --> 00:15:14,243
+- Avenger?
+- That's what I call the virus.
+
+177
+00:15:14,327 --> 00:15:18,878
+It's named after a comic book I read
+when I was a kid. The Amazing Avenger?
+
+178
+00:15:18,967 --> 00:15:22,164
+Green tights, purple cape.
+He was super strong, super fast.
+
+179
+00:15:22,247 --> 00:15:24,841
+Not as fast as The Flash.
+That would be ridiculous.
+
+180
+00:15:26,607 --> 00:15:30,998
+Of course, this isn't ringing any bells
+with anybody, is it?
+
+181
+00:15:32,127 --> 00:15:36,518
+- Could we have sent it to the wrong gate?
+- No, sir. We double-checked.
+
+182
+00:15:36,607 --> 00:15:39,997
+The virus was sent here - P5S-117.
+
+183
+00:15:40,087 --> 00:15:43,159
+Colonel O'Neill is on P3C-249,
+which is here.
+
+184
+00:15:43,247 --> 00:15:49,322
+Within the gate systems the planets
+are close together - about 400 light years -
+
+185
+00:15:49,407 --> 00:15:51,398
+but that doesn't mean anything.
+
+186
+00:15:51,487 --> 00:15:57,244
+- And until we hear back from the Tok'ra...
+- Unscheduled offworld activation.
+
+187
+00:16:04,967 --> 00:16:08,403
+Sir, we're receiving an audio
+transmission. It's the Tok'ra.
+
+188
+00:16:08,487 --> 00:16:12,605
+- This is Theless of the Tok'ra.
+- This is Hammond of Stargate Command.
+
+189
+00:16:12,687 --> 00:16:18,364
+General, I'm afraid I have to report a
+series of malfunctions in the gate system.
+
+190
+00:16:18,447 --> 00:16:20,244
+Malfunctions?
+
+191
+00:16:20,327 --> 00:16:23,683
+Several gates have gone offline.
+As yet, we have no idea why.
+
+192
+00:16:23,767 --> 00:16:25,758
+We are gathering information.
+
+193
+00:16:25,847 --> 00:16:31,524
+This is Major Carter. Do you have any data
+on a planet we've designated P5S-117?
+
+194
+00:16:31,607 --> 00:16:33,598
+One moment, please.
+
+195
+00:16:35,687 --> 00:16:38,724
+We're still waiting for
+a sub-space transmission.
+
+196
+00:16:38,807 --> 00:16:42,880
+- Can you send us any data you do have?
+- Affirmative.
+
+197
+00:16:46,487 --> 00:16:48,682
+Transmission received.
+
+198
+00:16:50,807 --> 00:16:53,480
+Sir, I'll need a few minutes to analyse this.
+
+199
+00:16:53,567 --> 00:16:55,364
+Go.
+
+200
+00:17:03,207 --> 00:17:05,437
+I'll go help.
+
+201
+00:17:07,487 --> 00:17:09,478
+There it is.
+
+202
+00:17:10,567 --> 00:17:14,799
+- I still don't see how this is possible.
+- Automatic correlative updates.
+
+203
+00:17:14,887 --> 00:17:17,481
+I thought those happened
+once every 200 years.
+
+204
+00:17:17,567 --> 00:17:19,364
+That was the theory.
+
+205
+00:17:20,847 --> 00:17:23,600
+Major Carter, report.
+
+206
+00:17:23,687 --> 00:17:27,965
+Sir, first I recommend you recall
+all of our offworld teams immediately.
+
+207
+00:17:28,047 --> 00:17:31,835
+It's already being done. The mining team
+from P4F-221 is coming through now.
+
+208
+00:17:31,927 --> 00:17:36,921
+- You might wanna tell them to hurry it up.
+- What have you got?
+
+209
+00:17:42,087 --> 00:17:47,115
+This is the original target gate.
+This is Colonel O'Neill's position.
+
+210
+00:17:47,207 --> 00:17:51,041
+These are the gates
+first reported offline by the Tok'ra.
+
+211
+00:17:52,887 --> 00:17:55,685
+A few minutes later... several more.
+
+212
+00:17:55,767 --> 00:17:58,520
+They're spreading out
+from the original gate.
+
+213
+00:17:58,607 --> 00:18:00,006
+Yes, sir.
+
+214
+00:18:00,847 --> 00:18:04,203
+You still think this is a coincidence?
+
+215
+00:18:04,287 --> 00:18:07,836
+Well, sir, we think
+we may have an explanation.
+
+216
+00:18:07,927 --> 00:18:11,602
+We know the gate network
+undergoes periodic correlative updates
+
+217
+00:18:11,687 --> 00:18:13,882
+to compensate for stellar drift.
+
+218
+00:18:13,967 --> 00:18:18,597
+We've never witnessed it, but we believe
+the gates dial each other automatically
+
+219
+00:18:18,687 --> 00:18:21,326
+to transmit
+the new coordinates that apply.
+
+220
+00:18:21,407 --> 00:18:25,764
+And you believe Dr Felger's virus
+initiated one of these updates?
+
+221
+00:18:25,847 --> 00:18:30,841
+It may have triggered
+an automatic internal protocol in the DHD.
+
+222
+00:18:30,927 --> 00:18:32,997
+Before adapting the new coordinates,
+
+223
+00:18:33,087 --> 00:18:36,602
+it dialled out and transmitted them
+to a few neighbouring gates,
+
+224
+00:18:36,687 --> 00:18:39,724
+who then transmitted to a few more,
+and so on and so on...
+
+225
+00:18:39,807 --> 00:18:43,277
+- And so on.
+- Is there any way we can stop it?
+
+226
+00:18:43,367 --> 00:18:48,566
+No time, sir. If each gate only dials two
+others before adapting to the new system,
+
+227
+00:18:48,647 --> 00:18:52,037
+the entire network will be infected
+in less than two hours.
+
+228
+00:18:52,127 --> 00:18:57,155
+We need to focus on getting
+as many people back as possible, sir.
+
+229
+00:19:01,927 --> 00:19:04,122
+He's really mad, isn't he?
+
+230
+00:19:08,447 --> 00:19:10,642
+That's the last of the miners, sir.
+
+231
+00:19:10,727 --> 00:19:12,718
+Shut it down.
+
+232
+00:19:16,367 --> 00:19:18,358
+What's next?
+
+233
+00:19:19,407 --> 00:19:21,841
+P3L-997.
+
+234
+00:19:21,927 --> 00:19:25,363
+- That's Daniel's team, sir.
+- Dial it.
+
+235
+00:19:30,927 --> 00:19:33,725
+OK, breathe. Everything's gonna be fine.
+
+236
+00:19:33,807 --> 00:19:35,957
+- Grover Cleveland High School.
+- What?
+
+237
+00:19:36,047 --> 00:19:39,437
+Chemistry 201.
+I had an incident with my midterm lab.
+
+238
+00:19:39,527 --> 00:19:44,647
+They got the fire under control, but poor
+Mr Hoffman's eyebrows never grew back.
+
+239
+00:19:44,727 --> 00:19:48,925
+I should have got out of science right then
+and saved everybody the trouble.
+
+240
+00:19:49,007 --> 00:19:52,682
+This is SGC. You wouldn't be here
+if you weren't good at what you do.
+
+241
+00:19:52,767 --> 00:19:54,997
+You tell that to Colonel O'Neill!
+
+242
+00:19:57,327 --> 00:19:59,795
+- How many teams came back?
+- Three.
+
+243
+00:19:59,887 --> 00:20:02,924
+- Out of how many?
+- 15. The rest are stranded.
+
+244
+00:20:03,007 --> 00:20:07,080
+- And Dr Jackson?
+- His team's still offworld.
+
+245
+00:20:07,167 --> 00:20:08,600
+Oh, this is awful.
+
+246
+00:20:08,687 --> 00:20:12,646
+The flood waters are rising,
+but they're safe for the time being.
+
+247
+00:20:15,607 --> 00:20:17,518
+Carter.
+
+248
+00:20:17,607 --> 00:20:19,518
+- General.
+- General Hammond.
+
+249
+00:20:19,607 --> 00:20:22,997
+Yes, sir. I understand.
+
+250
+00:20:25,967 --> 00:20:28,083
+We contacted the Tok'ra.
+
+251
+00:20:28,167 --> 00:20:32,160
+According to their intelligence,
+the entire gate network is down.
+
+252
+00:20:44,807 --> 00:20:47,446
+Colonel O'Neill, report.
+
+253
+00:20:47,527 --> 00:20:49,836
+The mission's been compromised, sir.
+
+254
+00:20:49,927 --> 00:20:53,806
+Looks like one of the Jaffa
+commanders sold us out. Go figure/
+
+255
+00:20:53,887 --> 00:20:58,085
+- What happened?
+- The negotiations were going just fine,
+
+256
+00:20:58,167 --> 00:21:00,317
+then the gate broke down.
+
+257
+00:21:00,407 --> 00:21:05,720
+After that, they all started accusing each
+other of sabotage and all hell broke loose.
+
+258
+00:21:05,807 --> 00:21:10,722
+Sir, we think we know what caused
+your gate to malfunction. It was the virus.
+
+259
+00:21:10,807 --> 00:21:12,399
+Felger's virus? /
+
+260
+00:21:12,487 --> 00:21:15,638
+It created a new coordinate system
+that spread to all DHDs.
+
+261
+00:21:15,727 --> 00:21:20,118
+But, since we don't have a DHD,
+we have the only gate that can dial out.
+
+262
+00:21:20,207 --> 00:21:24,837
+I told you not to trust
+that brown-nosing little weasel/
+
+263
+00:21:24,927 --> 00:21:27,680
+He doesn't know
+I'm standing here, does he?
+
+264
+00:21:27,767 --> 00:21:31,680
+- Sir, I'm as responsible as anyone else.
+- O'Neill.
+
+265
+00:21:31,767 --> 00:21:34,565
+We've got incoming, sir. It's Alkesh/
+
+266
+00:21:36,847 --> 00:21:39,042
+- We lost video.
+- Must have hit the MALP.
+
+267
+00:21:39,127 --> 00:21:43,996
+- He was just standing a few feet from it.
+- What's your situation? Please respond.
+
+268
+00:21:51,527 --> 00:21:53,961
+- We're still in one piece, sir.
+- Oh, thank God.
+
+269
+00:21:54,047 --> 00:21:56,322
+We're gonna take cover, sir.
+
+270
+00:21:56,407 --> 00:21:58,841
+Sir, we could send reinforcements.
+
+271
+00:21:58,927 --> 00:22:03,921
+They'd be stranded too. I can't send
+anyone until we fix this problem.
+
+272
+00:22:05,807 --> 00:22:08,116
+Let's think this through logically.
+
+273
+00:22:08,207 --> 00:22:11,563
+The entire gate network is paralysed,
+but we can still dial out.
+
+274
+00:22:11,647 --> 00:22:15,640
+We think the virus was spread due to
+correlative updates initiated by the DHDs.
+
+275
+00:22:15,727 --> 00:22:18,036
+We have no DHD,
+so our gate was unaffected.
+
+276
+00:22:18,127 --> 00:22:22,882
+Right. It also means another change might
+result in another system-wide update.
+
+277
+00:22:22,967 --> 00:22:27,404
+So if we can get just one DHD converted
+back to the old coordinate system,
+
+278
+00:22:27,487 --> 00:22:30,126
+the gate network would spread it for us.
+
+279
+00:22:30,207 --> 00:22:34,166
+How, when the new one is
+based on a completely random principle?
+
+280
+00:22:34,247 --> 00:22:38,638
+There still must be a pattern. If we can get
+one DHD to establish a lock with one gate,
+
+281
+00:22:38,727 --> 00:22:43,357
+all we gotta do is compare the addresses
+and extrapolate a translation program.
+
+282
+00:22:43,447 --> 00:22:45,597
+That would mean random dialling.
+
+283
+00:22:45,687 --> 00:22:49,077
+Seven symbols chosen from
+a pool of 38 non-repeating candidates?
+
+284
+00:22:49,167 --> 00:22:53,240
+That's about 63 billion
+possible combinations.
+
+285
+00:22:56,087 --> 00:22:58,555
+She's good with numbers.
+
+286
+00:22:58,647 --> 00:23:01,320
+I was gonna get her to do my taxes.
+
+287
+00:23:10,527 --> 00:23:16,204
+- Any word from Colonel O'Neill, sir?
+- No. We hope he's just out of range.
+
+288
+00:23:16,287 --> 00:23:17,276
+Yes, sir.
+
+289
+00:23:17,367 --> 00:23:21,883
+According to our latest report, Ba'al is
+trying to take advantage of the situation.
+
+290
+00:23:21,967 --> 00:23:25,084
+- How so?
+- At the moment he has the largest fleet.
+
+291
+00:23:25,167 --> 00:23:28,000
+So with the gate system down
+he has the advantage.
+
+292
+00:23:28,087 --> 00:23:32,160
+He's attacking the other System Lords
+on several fronts, and he's winning.
+
+293
+00:23:55,127 --> 00:23:57,960
+Stargate Command, Felger speaking.
+
+294
+00:23:58,047 --> 00:24:01,403
+Mom, Mom, no, no, no.
+I told you not to call me here.
+
+295
+00:24:01,487 --> 00:24:03,921
+You're not supposed to have this number.
+
+296
+00:24:04,007 --> 00:24:07,602
+I'm sorry I didn't call.
+I had to work late. Something came up.
+
+297
+00:24:09,167 --> 00:24:12,955
+If you must know, Mom,
+I screwed up again.
+
+298
+00:24:14,127 --> 00:24:17,563
+Yeah, and I think this is the worst one yet.
+
+299
+00:24:17,647 --> 00:24:20,320
+No, no, it's worse than that one.
+
+300
+00:24:22,087 --> 00:24:24,760
+No, worse than that one too, Mom.
+
+301
+00:24:25,287 --> 00:24:30,202
+Mom, Mom, Mom, I don't need a list
+of my personal failures right now, OK?
+
+302
+00:24:30,287 --> 00:24:33,404
+To tell you the truth,
+I don't know if I can fix this one...
+
+303
+00:24:35,367 --> 00:24:40,600
+I'll have to get back to you on that,
+Simon, OK? All righty, bye-bye... friend.
+
+304
+00:24:42,607 --> 00:24:44,598
+It's Coombs. He says hi.
+
+305
+00:24:45,927 --> 00:24:50,398
+- Jay, I know you feel bad about this.
+- What's to feel bad about?
+
+306
+00:24:50,487 --> 00:24:55,641
+It took the Ancients 1,000 years to build
+the gate system, and I wrecked it in a day.
+
+307
+00:24:55,727 --> 00:24:59,925
+I've also isolated us from all the resources
+we'll need to defend ourselves,
+
+308
+00:25:00,007 --> 00:25:04,956
+leaving us sitting ducks for
+the next Goa'uld attack. But who cares?
+
+309
+00:25:05,047 --> 00:25:09,279
+I need you to get past feeling guilty
+and focus on finding a solution.
+
+310
+00:25:09,367 --> 00:25:12,439
+- But you never make mistakes.
+- I don't?
+
+311
+00:25:12,527 --> 00:25:16,759
+- You're perfect. Everybody knows that.
+- Jay, I'm not perfect.
+
+312
+00:25:16,847 --> 00:25:19,839
+You have to say that
+because you're modest,
+
+313
+00:25:19,927 --> 00:25:22,725
+which is just another aspect
+of your perfection.
+
+314
+00:25:22,807 --> 00:25:26,561
+- Ever heard of a planet called K'Tau?
+- That wasn't your fault.
+
+315
+00:25:26,647 --> 00:25:31,437
+I bypassed dialling protocols that made
+the wormhole pass through K'Tau's sun.
+
+316
+00:25:31,527 --> 00:25:34,519
+It could have led to the deaths
+of everyone on that planet.
+
+317
+00:25:34,607 --> 00:25:38,520
+- That's it! Even your mistakes are perfect.
+- What are you talking about?
+
+318
+00:25:38,607 --> 00:25:42,486
+You bypassed a security protocol
+because you created a dialling program.
+
+319
+00:25:42,567 --> 00:25:44,797
+- So?
+- So we can do that here.
+
+320
+00:25:44,887 --> 00:25:47,720
+Instead of restoring the DHD program
+to its original form,
+
+321
+00:25:47,807 --> 00:25:50,640
+why not upload everything
+from our dialling computer?
+
+322
+00:25:50,727 --> 00:25:56,165
+Our program is not as sophisticated
+as the one that exists in the DHDs.
+
+323
+00:25:56,247 --> 00:25:59,284
+It doesn't have to be perfect, just accurate.
+
+324
+00:25:59,367 --> 00:26:02,564
+The DHD will automatically
+make all necessary adjustments.
+
+325
+00:26:02,647 --> 00:26:05,684
+- How do you know that?
+- Well, it's...
+
+326
+00:26:05,767 --> 00:26:10,079
+OK, I don't, I don't. But the fact that
+Avenger triggered a correlative update
+
+327
+00:26:10,167 --> 00:26:14,479
+seems to indicate that the DHD program
+is adaptive by its very nature.
+
+328
+00:26:14,567 --> 00:26:16,956
+Plus, we have nothing else.
+
+329
+00:26:18,367 --> 00:26:20,722
+Trust me, Major, this is gonna work!
+
+330
+00:26:21,567 --> 00:26:26,004
+Yeah, sorry to rain on your parade, guys,
+but it didn't work.
+
+331
+00:26:26,087 --> 00:26:27,520
+It should have worked.
+
+332
+00:26:27,607 --> 00:26:31,236
+We tried dialling Earth,
+but we couldn't get a lock.
+
+333
+00:26:31,327 --> 00:26:36,082
+Maybe there's something wrong with
+the upload. You can upload better, huh?
+
+334
+00:26:36,167 --> 00:26:40,285
+If you've got any other bright ideas,
+now would be a very good time.
+
+335
+00:26:40,367 --> 00:26:44,485
+- What's your status, Doctor?
+- Flood water's rising pretty fast,
+
+336
+00:26:44,567 --> 00:26:47,081
+seismic activity is causing rogue waves.
+
+337
+00:26:47,167 --> 00:26:51,365
+We estimate that within 48 hours
+the entire city will be under water.
+
+338
+00:26:58,327 --> 00:27:00,318
+It should have worked!
+
+339
+00:27:08,327 --> 00:27:11,524
+Have you and Dr Felger
+made any progress?
+
+340
+00:27:11,607 --> 00:27:13,677
+- I can't find him.
+- Excuse me?
+
+341
+00:27:13,767 --> 00:27:17,282
+Apparently he left the base.
+The pressure was getting to him.
+
+342
+00:27:17,367 --> 00:27:22,395
+- You said all he needed was support.
+- I may have been wrong about that.
+
+343
+00:27:24,327 --> 00:27:26,795
+OK, I admit it.
+He's a complete screw-up.
+
+344
+00:27:26,887 --> 00:27:31,005
+He makes rash decisions based on
+sketchy evidence, he's clumsy in the lab
+
+345
+00:27:31,087 --> 00:27:34,045
+and it wouldn't kill him
+to ease up on the aftershave,
+
+346
+00:27:34,127 --> 00:27:39,884
+but the fact is he's at Stargate Command
+because he's a brilliant scientist.
+
+347
+00:27:39,967 --> 00:27:43,198
+No one understands that virus
+better than he does.
+
+348
+00:27:43,287 --> 00:27:45,926
+Then I suggest you get him back.
+
+349
+00:27:46,007 --> 00:27:47,201
+Yes, sir.
+
+350
+00:28:02,527 --> 00:28:05,405
+Jay, what're you doing here?
+We've got work to do.
+
+351
+00:28:05,487 --> 00:28:08,684
+- How did you find me here?
+- I called your mother.
+
+352
+00:28:08,767 --> 00:28:12,316
+She told me this is where you come
+when you need to think.
+
+353
+00:28:12,407 --> 00:28:19,165
+I stood here when I figured out how to
+recombine epsilon particles in a matrix.
+
+354
+00:28:19,247 --> 00:28:22,364
+Then I got mugged by some teenagers.
+
+355
+00:28:22,447 --> 00:28:25,439
+Still, it's a nice spot, though.
+
+356
+00:28:27,887 --> 00:28:30,003
+What are you doing?
+
+357
+00:28:30,087 --> 00:28:32,078
+Feeding the ducks.
+
+358
+00:28:36,607 --> 00:28:40,566
+I need you to come back
+to Stargate Command.
+
+359
+00:28:40,647 --> 00:28:43,798
+Before I joined SGC,
+my idea of a high-pressure situation
+
+360
+00:28:43,887 --> 00:28:47,641
+was defending a mathematical thesis
+in front of a roomful of balding men.
+
+361
+00:28:47,727 --> 00:28:50,844
+I don't do well when the fate
+of the universe hangs in the balance.
+
+362
+00:28:50,927 --> 00:28:55,717
+Jay, you designed the virus.
+You're the man for the job.
+
+363
+00:28:55,807 --> 00:28:59,402
+Forget about the big picture for a second,
+and the consequences.
+
+364
+00:28:59,487 --> 00:29:02,081
+Just focus on the problem.
+
+365
+00:29:02,167 --> 00:29:07,002
+- Why didn't the upload work?
+- I don't know. It should've.
+
+366
+00:29:07,087 --> 00:29:12,559
+Every gate in the galaxy should be
+back online, except for P5S-117.
+
+367
+00:29:13,727 --> 00:29:15,718
+What do you mean?
+
+368
+00:29:15,807 --> 00:29:18,526
+Avenger's resistant
+to that type of tampering.
+
+369
+00:29:18,607 --> 00:29:23,476
+I didn't think it made a difference, since
+P5S-117 was sabotaged in the first place.
+
+370
+00:29:23,567 --> 00:29:29,164
+Jay, what if the virus replicated itself and
+then travelled along to the other DHDs?
+
+371
+00:29:29,247 --> 00:29:31,477
+No, it wasn't designed to do that.
+
+372
+00:29:31,567 --> 00:29:34,684
+It wasn't designed
+to trigger a correlative update either.
+
+373
+00:29:34,767 --> 00:29:39,363
+You said it yourself, Jay.
+The DHD program is adaptive.
+
+374
+00:29:42,247 --> 00:29:45,557
+- Sir, we may have found a solution.
+- Let's hear it.
+
+375
+00:29:47,807 --> 00:29:51,402
+- You want me to tell it?
+- It's your project.
+
+376
+00:29:53,207 --> 00:29:58,361
+We think we know why we can't upload
+our dialling program into the gate system.
+
+377
+00:29:58,447 --> 00:30:02,679
+It now looks like the virus itself somehow
+transmitted, with the new coordinates,
+
+378
+00:30:02,767 --> 00:30:05,645
+to the entire DHD network.
+
+379
+00:30:05,727 --> 00:30:08,685
+- The virus is blocking the upload.
+- That's right.
+
+380
+00:30:08,767 --> 00:30:13,283
+We need to neutralise it first,
+but in order to do that, we have to find it.
+
+381
+00:30:13,367 --> 00:30:15,358
+I don't understand.
+
+382
+00:30:15,447 --> 00:30:19,998
+Well, the truth is, we don't know
+how the virus was transmitted.
+
+383
+00:30:20,087 --> 00:30:25,115
+If it piggybacked with the automatic
+update, it's in the dialling program itself.
+
+384
+00:30:25,207 --> 00:30:28,995
+Could be thousands of lines of code -
+like looking for a needle in a haystack.
+
+385
+00:30:29,087 --> 00:30:35,879
+But it exists within a specific sub-routine
+in the original target DHD on P5S-117.
+
+386
+00:30:35,967 --> 00:30:39,482
+The catch is, to make this work,
+we have to reboot the system,
+
+387
+00:30:39,567 --> 00:30:42,127
+which means
+removing the control crystal.
+
+388
+00:30:42,207 --> 00:30:45,005
+Someone's gonna
+have to go to the planet, sir.
+
+389
+00:30:45,087 --> 00:30:48,796
+- P5S-117 is controlled by Ba'al.
+- Yes, sir.
+
+390
+00:30:48,887 --> 00:30:52,323
+General, I'd like to volunteer.
+
+391
+00:30:53,967 --> 00:30:57,198
+Major Carter has the experience
+required for this mission.
+
+392
+00:30:57,287 --> 00:31:00,882
+Come on, I've got offworld experience.
+I battled the Goa'uld.
+
+393
+00:31:00,967 --> 00:31:02,559
+I zatted a Jaffa.
+
+394
+00:31:02,647 --> 00:31:06,845
+- Sir, it would be better if we both went.
+- Major Carter's right.
+
+395
+00:31:06,927 --> 00:31:09,361
+Nobody knows more
+about Avenger than me.
+
+396
+00:31:16,847 --> 00:31:20,840
+- Jay, this is crazy.
+- I caused this problem. I'm gonna fix it.
+
+397
+00:31:20,927 --> 00:31:23,760
+You're a research scientist,
+not a field operative.
+
+398
+00:31:23,847 --> 00:31:28,921
+Did that stop me from infiltrating
+a Goa'uld mothership? I think not.
+
+399
+00:31:29,367 --> 00:31:32,837
+They've sent the MALP.
+The gate's not even being guarded.
+
+400
+00:31:32,927 --> 00:31:37,842
+Probably cos it doesn't work any more,
+but don't worry about me.
+
+401
+00:31:37,927 --> 00:31:39,997
+I know what I'm doing, OK?
+
+402
+00:31:40,487 --> 00:31:42,478
+- Jay?
+- Mm?
+
+403
+00:31:42,567 --> 00:31:44,842
+The antivirus.
+
+404
+00:31:44,927 --> 00:31:49,000
+OK, yeah, yeah,
+I'm gonna need that. All righty.
+
+405
+00:31:49,087 --> 00:31:50,884
+What?
+
+406
+00:32:00,447 --> 00:32:02,039
+Wh-what was that for?
+
+407
+00:32:02,127 --> 00:32:04,322
+Good luck.
+
+408
+00:32:04,407 --> 00:32:06,398
+Oh, right.
+
+409
+00:32:39,687 --> 00:32:41,837
+You get set up. I'll be back soon.
+
+410
+00:32:41,927 --> 00:32:44,964
+- Where are you going?
+- I'm gonna check out the area.
+
+411
+00:32:45,047 --> 00:32:48,960
+Shouldn't we stick together,
+in case you need backup or something?
+
+412
+00:32:49,047 --> 00:32:51,481
+I'll be fine.
+
+413
+00:32:51,567 --> 00:32:53,364
+OK.
+
+414
+00:32:55,327 --> 00:32:57,318
+I'm good too!
+
+415
+00:33:12,647 --> 00:33:18,244
+Jaffa landed the Alkesh. Teal'c
+and I have organised a counterattack.
+
+416
+00:33:18,327 --> 00:33:22,400
+Be advised, Colonel.
+Major Carter has gone to P5S-117.
+
+417
+00:33:22,487 --> 00:33:25,240
+She's attempting to get
+the gate system back online.
+
+418
+00:33:25,327 --> 00:33:28,558
+- That's occupied territory, sir.
+- Yes, it is.
+
+419
+00:33:28,647 --> 00:33:30,444
+What team did she take?
+
+420
+00:33:30,527 --> 00:33:33,405
+She didn't want to risk
+stranding anyone else.
+
+421
+00:33:33,487 --> 00:33:36,081
+- She went alone?
+- Not entirely.
+
+422
+00:33:36,167 --> 00:33:38,158
+Dr Felger's with her.
+
+423
+00:33:38,247 --> 00:33:41,159
+I'm inspired with confidence.
+
+424
+00:33:50,047 --> 00:33:54,120
+There's no sign of
+any Jaffa activity in the area.
+
+425
+00:33:54,847 --> 00:33:56,519
+I'm in. I'm in.
+
+426
+00:33:56,607 --> 00:33:58,404
+Whoo!
+
+427
+00:34:00,847 --> 00:34:03,042
+Just a sec, just a sec.
+
+428
+00:34:04,647 --> 00:34:07,002
+- OK, something's wrong.
+- What?
+
+429
+00:34:07,087 --> 00:34:10,796
+This isn't Avenger.
+I mean, it is, but something's hinky.
+
+430
+00:34:10,887 --> 00:34:14,197
+- Hinky?
+- Point is, this isn't the program I wrote.
+
+431
+00:34:14,287 --> 00:34:16,801
+It's been tampered with since it was sent.
+
+432
+00:34:20,127 --> 00:34:22,721
+- Maybe it was Ba'al.
+- Ba'al?
+
+433
+00:34:22,807 --> 00:34:25,526
+Think about it. He stood the most to gain.
+
+434
+00:34:25,607 --> 00:34:29,680
+He took your idea and modified it
+to bring down the entire gate network,
+
+435
+00:34:29,767 --> 00:34:34,238
+- knowing it would give him an advantage.
+- That means none of this is my fault.
+
+436
+00:34:34,327 --> 00:34:37,285
+Avenger wasn't designed
+to cause a correlative update.
+
+437
+00:34:37,367 --> 00:34:40,962
+I wouldn't get too excited.
+It also means our antivirus won't work.
+
+438
+00:34:41,047 --> 00:34:44,801
+That's right.
+It's designed for the original program.
+
+439
+00:34:44,887 --> 00:34:49,881
+Which means that we are now stranded
+on a Goa'uld-occupied world.
+
+440
+00:34:49,967 --> 00:34:54,597
+So it's kind of
+a "good news, bad news" situation.
+
+441
+00:35:06,767 --> 00:35:11,238
+The Jaffa aren't as protective of the gate
+as they once were, but there'll be a patrol.
+
+442
+00:35:11,327 --> 00:35:15,525
+- We have to do something.
+- Well, I'm open to suggestions here.
+
+443
+00:35:15,647 --> 00:35:20,163
+You said the virus was modified. So we
+need to modify the antivirus to match it.
+
+444
+00:35:20,247 --> 00:35:22,761
+- Go for it.
+- I was hoping you could handle it.
+
+445
+00:35:22,847 --> 00:35:25,884
+- I was afraid you'd say that!
+- You wanna do this instead?
+
+446
+00:35:25,967 --> 00:35:30,438
+Do you know how many variations I went
+through before I got the antivirus right?
+
+447
+00:35:30,527 --> 00:35:34,042
+- This could take days.
+- Then you'd better get started.
+
+448
+00:35:37,927 --> 00:35:39,519
+Yep.
+
+449
+00:35:40,887 --> 00:35:42,684
+Oh, yeah.
+
+450
+00:35:42,767 --> 00:35:45,520
+Still no word from Sam?
+
+451
+00:35:45,607 --> 00:35:49,600
+To be honest,
+we should've heard back by now.
+
+452
+00:35:49,687 --> 00:35:53,566
+We're gonna have to abandon
+the Stargate and move to higher ground.
+
+453
+00:35:53,647 --> 00:35:56,445
+Very well. Good luck, Dr Jackson.
+
+454
+00:36:04,967 --> 00:36:07,561
+- How's it coming?
+- We're getting there.
+
+455
+00:36:07,647 --> 00:36:09,797
+It's pretty cool, us working together.
+
+456
+00:36:09,887 --> 00:36:14,165
+We're sort of like the intellectual
+Butch and Sundance of the SGC.
+
+457
+00:36:14,247 --> 00:36:18,843
+Butch and Sundance got cornered
+and killed by the Bolivian army.
+
+458
+00:36:18,927 --> 00:36:20,918
+That's a good point, yeah.
+
+459
+00:36:24,487 --> 00:36:26,603
+What? What? What?
+
+460
+00:36:26,687 --> 00:36:28,882
+- We got trouble.
+- What kind of trouble?
+
+461
+00:36:28,967 --> 00:36:31,845
+- Think Bolivia.
+- Oh! Jaffa?
+
+462
+00:36:33,527 --> 00:36:36,724
+They made our position. Keep working.
+
+463
+00:36:44,167 --> 00:36:45,395
+Oh.
+
+464
+00:36:51,807 --> 00:36:55,277
+Concentrate, Jay. Concentrate.
+Just background noise.
+
+465
+00:37:02,567 --> 00:37:03,556
+Argh!
+
+466
+00:37:07,807 --> 00:37:10,162
+How's it coming?
+
+467
+00:37:10,247 --> 00:37:12,238
+I'm feeling a little rushed. Oh!
+
+468
+00:37:15,367 --> 00:37:17,801
+There's not enough time.
+There's not enough time.
+
+469
+00:37:55,087 --> 00:37:56,281
+Argh!
+
+470
+00:38:16,407 --> 00:38:18,204
+Whoa, whoa, whoa!
+
+471
+00:38:29,407 --> 00:38:34,003
+O'Neill! It's Colonel O'Neill!
+Thank God! Oh, you would not believe...
+
+472
+00:38:34,087 --> 00:38:38,080
+Felger. Felger. Felger!
+What did I say about touching?
+
+473
+00:38:38,167 --> 00:38:41,477
+Absolutely. It's just that
+we were over there, they came,
+
+474
+00:38:41,567 --> 00:38:44,365
+then you... over there,
+but now you're here.
+
+475
+00:38:44,447 --> 00:38:48,042
+- Nice work.
+- How'd you manage this one, sir?
+
+476
+00:38:48,127 --> 00:38:51,119
+We got tired of waiting.
+
+477
+00:39:02,127 --> 00:39:05,483
+- Major, Doctor, welcome back.
+- Sir.
+
+478
+00:39:05,567 --> 00:39:08,843
+I trust the solution you found
+is of a permanent nature?
+
+479
+00:39:08,927 --> 00:39:15,400
+Yes, General. I modified the antivirus to
+neutralise the altered version of Avenger.
+
+480
+00:39:15,487 --> 00:39:17,762
+But I also added a patch to ensure...
+
+481
+00:39:17,847 --> 00:39:21,601
+The problem is solved, sir. Permanently.
+
+482
+00:39:21,687 --> 00:39:25,839
+Dr Jackson managed to get the remaining
+inhabitants of 997 to the Alpha site.
+
+483
+00:39:25,927 --> 00:39:30,000
+- Good to hear it, sir.
+- What about Colonel O'Neill and Teal'c?
+
+484
+00:39:30,087 --> 00:39:33,682
+They found an alternate means
+of transport.
+
+485
+00:39:33,767 --> 00:39:38,921
+I promised the colonel I wouldn't say
+anything. He wants it to be a surprise.
+
+486
+00:39:50,487 --> 00:39:52,955
+- I was so worried about you.
+- It was no big deal.
+
+487
+00:39:53,047 --> 00:39:55,880
+Those Jaffa, they could have killed you.
+
+488
+00:39:55,967 --> 00:39:57,958
+Not a chance, baby.
+
+489
+00:40:06,767 --> 00:40:08,405
+What is this?
+
+490
+00:40:08,487 --> 00:40:10,079
+Oh...
+
+491
+00:40:10,167 --> 00:40:11,964
+Hi, guys.
+
+492
+00:40:12,047 --> 00:40:17,485
+I know we're not really
+supposed to be fraternising, but, hey.
+
+493
+00:40:17,567 --> 00:40:22,322
+I turn my back for two seconds
+and you take up with this... trollop?
+
+494
+00:40:22,407 --> 00:40:24,204
+Oooh.
+
+495
+00:40:24,287 --> 00:40:29,077
+Don't blame me just because you were
+never woman enough to satisfy him.
+
+496
+00:40:29,167 --> 00:40:30,646
+Ohh!
+
+497
+00:40:30,727 --> 00:40:32,319
+That is it.
+
+498
+00:40:40,607 --> 00:40:43,804
+- Ladies, this isn't necessary...
+- Sh!
+
+499
+00:40:43,887 --> 00:40:46,162
+Don't talk.
+
+500
+00:40:46,247 --> 00:40:47,965
+Jay?
+
+501
+00:40:48,047 --> 00:40:50,038
+Jay?
+
+502
+00:40:52,207 --> 00:40:55,119
+Jay. Jay!
+
+503
+00:40:55,207 --> 00:40:58,882
+- What? What?
+- What were you thinking about?
+
+504
+00:41:01,607 --> 00:41:03,598
+Nothing.
+
+505
+00:41:55,847 --> 00:41:58,566
+Visiontext Subtitles: Natasha Cohn
+
+506
+00:42:07,247 --> 00:42:09,238
+ENHOH
+

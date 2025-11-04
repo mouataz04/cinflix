@@ -1,0 +1,3223 @@
+1
+00:00:01,330 --> 00:00:05,080
+Baltimore Maryland
+
+2
+00:00:15,190 --> 00:00:16,850
+Let's go.
+
+3
+00:01:08,420 --> 00:01:10,100
+F.B.I., Behavioral Analysis Unit Quantico,Virginia
+
+4
+00:01:10,330 --> 00:01:11,700
+Excuse me, agent.
+
+5
+00:01:11,820 --> 00:01:14,370
+I need to speak to Agent Prentiss and one of her superiors.
+
+6
+00:01:14,440 --> 00:01:16,360
+Uh, she's in a briefing.
+
+7
+00:01:16,480 --> 00:01:19,070
+Yes, well, it's extremely important.
+
+8
+00:01:22,680 --> 00:01:24,220
+Mother?
+
+9
+00:01:28,620 --> 00:01:30,960
+I found my father's car last night
+
+10
+00:01:31,080 --> 00:01:32,480
+when I took out the garbage.
+
+11
+00:01:32,600 --> 00:01:34,660
+The door was open,and his bag was on the ground,
+
+12
+00:01:34,740 --> 00:01:35,850
+but he was gone.
+
+13
+00:01:35,930 --> 00:01:36,800
+Gone?
+
+14
+00:01:36,880 --> 00:01:37,660
+He's been kidnapped.
+
+15
+00:01:37,750 --> 00:01:38,560
+Are you sure?
+
+16
+00:01:38,670 --> 00:01:39,560
+Yes.
+
+17
+00:01:39,630 --> 00:01:40,660
+Have you been to the police?
+
+18
+00:01:40,740 --> 00:01:42,030
+They came directly to me.
+
+19
+00:01:42,150 --> 00:01:44,270
+As I think you can understand, agent,
+
+20
+00:01:44,350 --> 00:01:46,480
+they don't easily trust the authorities.
+
+21
+00:01:46,590 --> 00:01:49,260
+There are protocols,Ambassador Prentiss,the local police.
+
+22
+00:01:49,340 --> 00:01:50,570
+There's an FBI office in Baltimore.
+
+23
+00:01:50,680 --> 00:01:52,870
+Yes, but you do handle kidnapping cases,don't you?
+
+24
+00:01:52,990 --> 00:01:55,020
+- Yes. - The B.A.U.? 
+I'm--it is your mandate.
+
+25
+00:01:55,100 --> 00:01:56,390
+Yes, when necessary.
+
+26
+00:01:56,470 --> 00:01:58,870
+Mrs. Chernus' brother,Natalya's uncle,
+
+27
+00:01:58,980 --> 00:02:01,660
+worked for me at the embassy in the Ukraine.
+
+28
+00:02:01,770 --> 00:02:04,570
+Be that as it may, there are channels 
+these cases must go through,
+
+29
+00:02:04,690 --> 00:02:06,770
+and if our particular expertise is required..
+
+30
+00:02:06,870 --> 00:02:08,610
+(speaking in Russian)
+
+31
+00:02:08,680 --> 00:02:10,130
+Please.
+We don't have time.
+
+32
+00:02:10,210 --> 00:02:12,330
+It's just not something that's up to us.
+
+33
+00:02:12,450 --> 00:02:15,200
+I told you they wouldn't help.
+
+34
+00:02:15,280 --> 00:02:16,740
+- Mama. 
+- Officials are the same everywhere.
+
+35
+00:02:16,810 --> 00:02:19,100
+Please.It's already 8:15 in the morning.
+
+36
+00:02:19,210 --> 00:02:21,530
+The kidnappers left a note demanding $100,000
+
+37
+00:02:21,600 --> 00:02:24,900
+be wired to a bank account in Moscow by noon today.
+
+38
+00:02:24,980 --> 00:02:26,530
+That's less than 4 hours.
+
+39
+00:02:26,610 --> 00:02:29,400
+They say if we don't,they'll send another...
+
+40
+00:02:29,510 --> 00:02:31,790
+piece every 6 hours after.
+
+41
+00:02:31,940 --> 00:02:33,260
+Another piece?
+
+42
+00:02:39,160 --> 00:02:41,330
+That's my father's wedding ring.
+
+43
+00:02:43,690 --> 00:02:45,510
+Please help him.
+
+44
+00:02:53,570 --> 00:02:56,640
+---www.opensubtitles.org---
+
+45
+00:02:59,610 --> 00:03:08,840
+---Criminal Minds S02E20---
+"Honor Among Thieves"
+
+46
+00:03:09,560 --> 00:03:26,000
+---Sync: opensubtitles.org - jenilim---
+
+47
+00:03:28,000 --> 00:03:29,900
+An old russian proverb reminds us,
+
+48
+00:03:30,710 --> 00:03:34,760
+<i>"There can be no good without evil."</i>
+
+49
+00:03:38,400 --> 00:03:39,410
+Where are you taking that?
+
+50
+00:03:40,000 --> 00:03:41,740
+We need to process it.
+
+51
+00:03:42,000 --> 00:03:44,510
+Nyet. Pazhalusta...
+
+52
+00:03:49,660 --> 00:03:50,980
+She wants his wedding ring.
+
+53
+00:03:55,860 --> 00:03:56,910
+Please, let us hold the cooler.
+
+54
+00:03:57,300 --> 00:03:58,200
+It'll be here if you need it.
+
+55
+00:03:58,520 --> 00:04:00,300
+Agent, it's fine for now.You can leave it.
+
+56
+00:04:00,350 --> 00:04:02,900
+Yes, sir.
+
+57
+00:04:06,800 --> 00:04:08,900
+This note's in russian.
+
+58
+00:04:08,920 --> 00:04:10,870
+I need to know the exact text.
+
+59
+00:04:11,050 --> 00:04:13,620
+"Wire $100,000 to nadka bank account,
+
+60
+00:04:14,000 --> 00:04:19,390
+"number 155293846729 by tomorrow noon.
+
+61
+00:04:20,000 --> 00:04:22,240
+"If you don't--
+
+62
+00:04:23,010 --> 00:04:25,660
+if you don't,you'll receive "another body piece
+
+63
+00:04:25,740 --> 00:04:27,100
+then and every 6 hours after."
+
+64
+00:04:27,300 --> 00:04:28,540
+That's it exactly?
+
+65
+00:04:28,720 --> 00:04:31,000
+Exactly.I'll never forget it.
+
+66
+00:04:31,750 --> 00:04:33,900
+There's no personalization,no salutation?
+
+67
+00:04:34,000 --> 00:04:35,860
+It's not addressed to anyone?
+
+68
+00:04:35,700 --> 00:04:37,000
+Your father's name isn't mentioned specifically?
+
+69
+00:04:37,300 --> 00:04:38,500
+No.
+
+70
+00:04:39,200 --> 00:04:39,910
+That's odd.
+
+71
+00:04:40,000 --> 00:04:41,870
+Most ransom notes are personalized.
+
+72
+00:04:42,300 --> 00:04:43,500
+Frightens the families to know that they've
+
+73
+00:04:44,000 --> 00:04:45,800
+been specifically chosen,watched for a time.
+
+74
+00:04:46,560 --> 00:04:47,900
+It doesn't even say not to call the police.
+
+75
+00:04:48,200 --> 00:04:49,700
+Russian expats don't have the greatest
+
+76
+00:04:49,900 --> 00:04:51,150
+experience with their home government.
+
+77
+00:04:51,230 --> 00:04:52,200
+They tend not to trust officials.
+
+78
+00:04:53,000 --> 00:04:55,000
+Well, there's another reason 
+they aren't worried.
+
+79
+00:04:55,500 --> 00:04:58,900
+According to the note,they aren't 
+planning on contacting them again.
+
+80
+00:04:59,000 --> 00:05:00,000
+It's completely self-contained.
+
+81
+00:05:00,300 --> 00:05:01,500
+They expect their instructions to be followed.
+
+82
+00:05:02,000 --> 00:05:03,960
+We don't have $100,000.
+
+83
+00:05:04,090 --> 00:05:05,800
+They seem to think that you do.
+
+84
+00:05:06,100 --> 00:05:07,800
+Garcia, can you get any information on the account?
+
+85
+00:05:08,000 --> 00:05:09,900
+I'm already checking.
+
+86
+00:05:10,000 --> 00:05:11,200
+The account number does seem to 
+correspond with that bank.
+
+87
+00:05:12,000 --> 00:05:13,190
+Can you get the account holder's name?
+
+88
+00:05:13,600 --> 00:05:16,000
+I have no idea how russian banks store their data,
+
+89
+00:05:16,100 --> 00:05:17,600
+how their servers are structured.
+
+90
+00:05:18,000 --> 00:05:20,220
+- We'd have to call the bank directly. 
+
+91
+00:05:20,500 --> 00:05:23,000
+- No way.
+There's no way a russian bank is gonna
+
+92
+00:05:23,600 --> 00:05:25,620
+give information on personal accounts.
+
+93
+00:05:26,400 --> 00:05:27,800
+Well, I could try to go through the embassy in Moscow.
+
+94
+00:05:28,200 --> 00:05:31,300
+Wh--and say what? The FBI is looking for information
+
+95
+00:05:31,350 --> 00:05:33,120
+on russian citizens' bank accounts?
+
+96
+00:05:33,500 --> 00:05:34,500
+I mean, if we were lucky,
+
+97
+00:05:35,200 --> 00:05:37,000
+we'd spend the next 6 years 
+drowning in red tape.
+
+98
+00:05:37,800 --> 00:05:38,960
+I can make some calls.
+
+99
+00:05:39,000 --> 00:05:41,400
+I may still have some friends in 
+the eastern countries.
+
+100
+00:05:41,900 --> 00:05:43,000
+That would be a great help,Ambassador.
+
+101
+00:05:43,440 --> 00:05:44,590
+If you'll excuse me.
+
+102
+00:05:45,200 --> 00:05:47,200
+We don't have much time.
+We need a division of labor.
+
+103
+00:05:47,400 --> 00:05:49,330
+Um, morgan, somebody needs 
+to go to the Chernus house
+
+104
+00:05:49,400 --> 00:05:51,780
+in baltimore in case they are contacted again.
+
+105
+00:05:51,800 --> 00:05:52,550
+We got it.
+
+106
+00:05:52,600 --> 00:05:53,200
+I wanna be there.
+
+107
+00:05:56,800 --> 00:05:57,850
+That's a good idea.
+
+108
+00:05:58,000 --> 00:05:59,000
+Are you fluent enough to stay with the mother
+
+109
+00:05:59,100 --> 00:06:00,800
+until we get a translator up here?
+
+110
+00:06:01,000 --> 00:06:02,200
+I'm passable.
+
+111
+00:06:02,250 --> 00:06:04,000
+Then Mrs. Chernus should stay with us.
+
+112
+00:06:04,050 --> 00:06:04,900
+I'll meet with Agent Cramer in Baltimore...
+
+113
+00:06:05,100 --> 00:06:06,000
+ok.
+
+114
+00:06:06,500 --> 00:06:08,510
+See if he has similar open cases.
+
+115
+00:06:10,500 --> 00:06:12,250
+Baltimore Maryland
+
+116
+00:06:12,550 --> 00:06:13,800
+We're landing already?
+
+117
+00:06:14,000 --> 00:06:17,060
+25-minute flight.
+
+118
+00:06:17,200 --> 00:06:18,340
+Never knew 25 minutes could feel so long.
+
+119
+00:06:18,800 --> 00:06:22,700
+And 3 hours could feel so short.
+
+120
+00:06:22,800 --> 00:06:24,500
+She doesn't look scared.
+
+121
+00:06:24,600 --> 00:06:26,500
+She looks determined.
+
+122
+00:06:26,900 --> 00:06:27,430
+She's a tough girl.
+
+123
+00:06:28,740 --> 00:06:31,100
+When we get to the house,take her inside.
+
+124
+00:06:31,200 --> 00:06:33,000
+Profile the rooms while you profile her.
+
+125
+00:06:33,200 --> 00:06:34,780
+What am I lookin' for?
+
+126
+00:06:34,950 --> 00:06:37,790
+Anything that helps.
+
+127
+00:06:49,000 --> 00:06:52,670
+Can I get you something, Mrs.Chernus?
+
+128
+00:06:52,950 --> 00:06:53,500
+ - Water?
+
+129
+00:07:01,000 --> 00:07:01,880
+Thanks.
+
+130
+00:07:06,230 --> 00:07:08,040
+Your mother's got feelers out.
+
+131
+00:07:08,110 --> 00:07:09,230
+She's confident she can get results.
+
+132
+00:07:10,000 --> 00:07:11,950
+Well, if anybody can,
+it's Ambassador Prentiss.
+
+133
+00:07:12,030 --> 00:07:12,500
+How's she doing?
+
+134
+00:07:13,000 --> 00:07:14,300
+How would you be?
+
+135
+00:07:14,500 --> 00:07:15,000
+Right.
+
+136
+00:07:15,900 --> 00:07:18,500
+Uh, Agent Cramer is meeting Gideon 
+and Reid at the Chernus house.
+
+137
+00:07:18,610 --> 00:07:20,600
+This is the translator.I've already briefed her.
+
+138
+00:07:20,850 --> 00:07:22,510
+Will you introduce her to Mrs. Chernus?
+
+139
+00:07:23,000 --> 00:07:24,940
+Come on.
+Right this way.
+
+140
+00:07:25,070 --> 00:07:28,420
+Thank god.
+I'm really not very good at russian.
+
+141
+00:07:28,800 --> 00:07:30,000
+Oh. Uh, if it would be all right,
+
+142
+00:07:30,200 --> 00:07:31,800
+I would like to go help my mother.
+
+143
+00:07:31,910 --> 00:07:33,500
+All right.
+Keep me up to date.
+
+144
+00:07:38,960 --> 00:07:41,000
+Baltimore Maryland
+
+145
+00:07:49,850 --> 00:07:51,700
+Agent Gideon.
+Long time, no see.
+
+146
+00:07:52,000 --> 00:07:53,300
+Agent Cramer.
+Remember Dr. Reid?
+
+147
+00:07:53,910 --> 00:07:54,410
+Absolutely.
+
+148
+00:07:54,530 --> 00:07:56,530
+Been briefed on the case?
+
+149
+00:07:56,600 --> 00:07:57,040
+Didn't need to be.
+
+150
+00:07:57,110 --> 00:07:59,260
+Been working these mutilation 
+kidnappings for over a year.
+
+151
+00:07:59,380 --> 00:08:00,510
+Really?
+
+152
+00:08:00,600 --> 00:08:01,310
+Yeah, and I got zipped.
+
+153
+00:08:01,700 --> 00:08:02,500
+No one cooperates.
+
+154
+00:08:02,600 --> 00:08:04,120
+Families don't.
+The witnesses don't.
+
+155
+00:08:04,300 --> 00:08:05,800
+Hell, even the victims aren't talking.
+
+156
+00:08:05,850 --> 00:08:08,600
+I must have a dozen guys walking around 
+with missing ring fingers.
+
+157
+00:08:08,700 --> 00:08:08,999
+Why?
+
+158
+00:08:09,000 --> 00:08:10,500
+'Cause we're dealing with criminals.
+
+159
+00:08:11,000 --> 00:08:12,800
+Obviously.
+
+160
+00:08:13,000 --> 00:08:13,800
+Not just the kidnappers,genius.
+
+161
+00:08:13,850 --> 00:08:16,000
+I'm talkin' about the victims, too.
+
+162
+00:08:16,200 --> 00:08:18,290
+These are russian criminals kidnapping 
+other russian criminals.
+
+163
+00:08:18,500 --> 00:08:19,170
+Are you sure?
+
+164
+00:08:19,240 --> 00:08:20,340
+It's the russian mob.
+
+165
+00:08:20,520 --> 00:08:22,000
+These guys are bold,efficient.
+
+166
+00:08:22,050 --> 00:08:24,440
+There's no regard for leaving evidence,
+and let me guess.
+
+167
+00:08:24,560 --> 00:08:28,480
+In the note, there's no warning not to go to the police.
+
+168
+00:08:28,600 --> 00:08:30,210
+There's a clear assumption that they won't.
+
+169
+00:08:30,500 --> 00:08:34,550
+So you think the chernus family's 
+involved in organized crime.
+
+170
+00:08:34,600 --> 00:08:36,050
+Well, these guys are ruthless,
+
+171
+00:08:36,200 --> 00:08:38,320
+but they don't normally kidnap civilians.
+
+172
+00:08:38,400 --> 00:08:39,930
+They target people they know have money
+
+173
+00:08:40,010 --> 00:08:41,500
+they snuck into the country--
+
+174
+00:08:41,600 --> 00:08:43,900
+other mobsters, other criminals.
+
+175
+00:08:43,920 --> 00:08:45,180
+They won't go the police,
+
+176
+00:08:45,290 --> 00:08:47,500
+because they have something to hide themselves.
+
+177
+00:08:47,600 --> 00:08:48,780
+Only, this family did come to us.
+
+178
+00:08:48,900 --> 00:08:49,930
+And they don't have any money.
+
+179
+00:08:50,300 --> 00:08:51,600
+Well, they all say that.
+
+180
+00:08:51,650 --> 00:08:53,240
+Get garcia on the horn.
+
+181
+00:08:57,280 --> 00:08:59,000
+Your friendly neighbourhood oracle of all things
+
+182
+00:08:59,080 --> 00:09:01,500
+knowable and unknowable at your service.
+
+183
+00:09:01,520 --> 00:09:03,000
+Garcia, I need you to do a background search
+
+184
+00:09:03,010 --> 00:09:03,700
+on the entire chernus family.
+
+185
+00:09:03,750 --> 00:09:05,200
+The victims?
+
+186
+00:09:05,750 --> 00:09:06,500
+Yeah, get us everything you can on them--
+
+187
+00:09:06,600 --> 00:09:08,800
+financial records, employment,
+immigration status.
+
+188
+00:09:08,900 --> 00:09:09,900
+We need that as soon as possible.
+
+189
+00:09:10,500 --> 00:09:13,000
+I know. I know. 
+We're on the clock.
+
+190
+00:09:13,200 --> 00:09:16,700
+I will compile and reconnect forthwith, 
+junior G-man.Oracle out.
+
+191
+00:09:16,750 --> 00:09:18,000
+Junior G-man?
+
+192
+00:09:18,570 --> 00:09:21,000
+If the chernuses are hiding anything,
+Garcia'll get it to us.
+
+193
+00:09:21,050 --> 00:09:22,820
+Alright.
+
+194
+00:09:24,000 --> 00:09:25,230
+Why are they just standing around?
+
+195
+00:09:25,810 --> 00:09:27,730
+Natalya, that's the head of the 
+local office out there.
+
+196
+00:09:28,000 --> 00:09:29,700
+It wouldn't do us any good to go running around
+
+197
+00:09:29,710 --> 00:09:31,500
+without any information.
+
+198
+00:09:31,550 --> 00:09:34,100
+What kind of information do you need?
+
+199
+00:09:34,400 --> 00:09:36,300
+Sometimes that's not clear until we actually find it.
+
+200
+00:09:36,650 --> 00:09:38,600
+Just the three of you living here?
+
+201
+00:09:39,000 --> 00:09:40,000
+I had 2 brothers,
+
+202
+00:09:40,100 --> 00:09:44,000
+but they died of diphtheria when 
+we were children.
+
+203
+00:09:44,100 --> 00:09:44,810
+I'm sorry.
+
+204
+00:09:44,890 --> 00:09:46,880
+It was a long time ago.
+
+205
+00:09:50,500 --> 00:09:53,500
+Andrei was 4.Sergei was 6. 
+I was 5.
+
+206
+00:09:57,700 --> 00:09:59,000
+That must have been terrible.
+
+207
+00:09:59,800 --> 00:10:00,530
+It was hard on my parents.
+
+1
+00:10:03,400 --> 00:10:05,500
+It was never really the same after.
+
+2
+00:10:08,300 --> 00:10:09,240
+How do you mean?
+
+3
+00:10:09,260 --> 00:10:13,580
+They never smiled again,
+neither of them,ever...
+
+4
+00:10:15,370 --> 00:10:17,090
+Who's this?
+
+5
+00:10:18,580 --> 00:10:20,320
+It's my grandfather.
+
+6
+00:10:20,340 --> 00:10:23,300
+He held a party job in the former government.
+
+7
+00:10:23,560 --> 00:10:26,070
+When communism fell,
+he was arrested.
+
+8
+00:10:27,640 --> 00:10:30,600
+Arrested?
+He was a criminal?
+
+9
+00:10:32,500 --> 00:10:33,910
+In the new russia.
+
+10
+00:10:33,930 --> 00:10:36,220
+He died a year later in prison.
+
+11
+00:10:36,240 --> 00:10:38,790
+We were already here for 3 years by then.
+
+12
+00:10:38,830 --> 00:10:40,700
+We fled in 1988.
+
+13
+00:10:40,720 --> 00:10:42,120
+You fled?
+
+14
+00:10:42,600 --> 00:10:45,030
+We were smuggled out in delivery trucks.
+
+15
+00:10:50,500 --> 00:10:52,560
+My father never really believed,
+
+16
+00:10:52,580 --> 00:10:55,810
+even with democracy,
+russia could ever change.
+
+17
+00:10:55,860 --> 00:10:57,200
+He was right.
+
+18
+00:10:58,010 --> 00:10:59,120
+What he didn't expect was that
+
+19
+00:10:59,140 --> 00:11:02,030
+it would allow criminals to follow.
+
+20
+00:11:06,320 --> 00:11:09,640
+In america,they can only hurt 
+you if you're afraid to ask for help.
+
+21
+00:11:10,670 --> 00:11:12,420
+Is that really true?
+
+22
+00:11:14,070 --> 00:11:15,510
+Most of the time.
+
+23
+00:11:17,090 --> 00:11:20,010
+I hope,for my father's sake 
+this is one of those times.
+
+24
+00:11:30,060 --> 00:11:32,800
+What are you doing?
+You'll kill him!
+
+25
+00:11:33,410 --> 00:11:35,400
+Then he dies.
+
+26
+00:11:35,500 --> 00:11:36,630
+So What?
+
+27
+00:11:37,050 --> 00:11:38,440
+I...you...please...
+
+28
+00:11:38,870 --> 00:11:39,950
+The money.
+
+29
+00:11:50,410 --> 00:11:54,480
+I am going to love cutting you to pieces...
+
+30
+00:11:54,890 --> 00:11:56,710
+...old man!
+
+31
+00:11:57,880 --> 00:12:00,950
+We have no money.
+
+32
+00:12:02,320 --> 00:12:04,080
+Soon.
+
+33
+00:12:06,350 --> 00:12:09,830
+It's okey.They will send the money.
+
+34
+00:12:11,050 --> 00:12:13,670
+We--we--we--we have no money.
+
+35
+00:12:13,690 --> 00:12:17,540
+They'll send it.They always do.
+
+36
+00:12:31,780 --> 00:12:33,420
+This all involves the russian mafia.
+
+37
+00:12:33,440 --> 00:12:35,940
+It's really beefed up around here the last 10 years or so.
+
+38
+00:12:35,960 --> 00:12:37,740
+Started off mainly new york and L.A.
+
+39
+00:12:37,760 --> 00:12:40,000
+But they send lieutenants from the old country
+
+40
+00:12:40,020 --> 00:12:43,260
+pakhans they call them to open branch offices in other cities.
+
+41
+00:12:43,280 --> 00:12:44,260
+Like baltimore.
+
+42
+00:12:44,280 --> 00:12:47,930
+St. Louis,chicago,dallas...List goes on.
+
+43
+00:12:47,970 --> 00:12:49,860
+They're mainly offshoots of the odessa mafia
+
+44
+00:12:49,880 --> 00:12:52,670
+and they're especially tough to crack from the law enforcement standpoint.
+
+45
+00:12:52,690 --> 00:12:56,160
+I mean,besides being well organized with sophisticated technical equipment
+
+46
+00:12:56,180 --> 00:12:58,610
+there's vory v zakone to contend with.
+
+47
+00:12:58,630 --> 00:12:59,960
+-The thieves code. -Yeah.
+
+48
+00:12:59,980 --> 00:13:01,370
+18 principles they live by.
+
+49
+00:13:01,390 --> 00:13:03,200
+It's like a bible to these guys.
+
+50
+00:13:03,220 --> 00:13:05,110
+Stepping outside of it means certain death.
+
+51
+00:13:05,130 --> 00:13:07,990
+We're not gonna be turning any of them informer anytime soon.
+
+52
+00:13:08,010 --> 00:13:09,610
+Then we need a witness who'll talk.
+
+53
+00:13:09,630 --> 00:13:11,610
+There's not much chance of that.
+
+54
+00:13:12,190 --> 00:13:14,030
+-Gideon? -Wait here.
+
+55
+00:13:25,230 --> 00:13:27,050
+Mr. Gorban?
+
+56
+00:13:28,440 --> 00:13:30,740
+Your name's right here on the mailbox.
+
+57
+00:13:31,520 --> 00:13:33,920
+Mr. Gorban,please.
+
+58
+00:13:38,290 --> 00:13:39,800
+Who are you?
+
+59
+00:13:40,910 --> 00:13:43,000
+I'm with the FBI.
+
+60
+00:13:43,920 --> 00:13:45,670
+Please,sir.
+
+61
+00:13:46,030 --> 00:13:48,210
+Your neighbors have had some trouble.
+
+62
+00:13:48,230 --> 00:13:50,340
+This has nothing to do with me.
+
+63
+00:13:50,360 --> 00:13:52,490
+You all live in the same community.
+
+64
+00:13:52,510 --> 00:13:54,570
+I mind my own business.
+
+65
+00:13:54,760 --> 00:13:57,040
+Been watching us since we got here.
+
+66
+00:13:58,680 --> 00:14:00,720
+Mr. Gorban,last night
+
+67
+00:14:00,740 --> 00:14:03,200
+somebody grabbed Mr. Chernus right off the street.
+
+68
+00:14:03,220 --> 00:14:05,590
+They would've had to have had a vehicle to do it
+
+69
+00:14:05,640 --> 00:14:08,210
+large vehicle,a van
+
+70
+00:14:08,250 --> 00:14:10,390
+did you see anything like that?
+
+71
+00:14:12,150 --> 00:14:13,780
+Something you can describe for me?
+
+72
+00:14:13,820 --> 00:14:16,280
+I saw nothing.Get off my porch.
+
+73
+00:14:16,315 --> 00:14:18,320
+Mr. Gorban.Mr. Gorban.
+
+74
+00:14:30,470 --> 00:14:31,500
+Guess who.
+
+75
+00:14:31,520 --> 00:14:33,240
+You know these guys?
+
+76
+00:14:33,260 --> 00:14:34,870
+Oh,yeah.
+
+77
+00:14:36,570 --> 00:14:38,890
+Arseny lysowsky.
+
+78
+00:14:38,910 --> 00:14:42,150
+Agent,uh,cramer how are you?
+
+79
+00:14:42,190 --> 00:14:44,240
+What brings you out,lysowsky?
+
+80
+00:14:44,260 --> 00:14:46,570
+I heard chernuses had problems.
+
+81
+00:14:46,590 --> 00:14:48,590
+How did you hear that?
+
+82
+00:14:50,950 --> 00:14:52,590
+And you are?
+
+83
+00:14:52,610 --> 00:14:55,170
+Chernuses said they hadn't told anyone.
+
+84
+00:14:55,190 --> 00:14:57,830
+This is a small community.Word gets out.
+
+85
+00:14:59,120 --> 00:15:00,940
+Are you a friend of gorban's?
+
+86
+00:15:00,960 --> 00:15:02,960
+Mr. Gorban wouldn't talk to me.
+
+87
+00:15:04,750 --> 00:15:07,790
+Would you like me to talk to him for you?
+
+88
+00:15:07,820 --> 00:15:09,890
+-I can't promise something will come of it--
+-You!
+
+89
+00:15:10,540 --> 00:15:11,630
+Where's my father?!
+
+90
+00:15:12,230 --> 00:15:12,930
+Take it easy,buddy.
+
+91
+00:15:12,980 --> 00:15:14,300
+-Wait. Wait.
+-Where's my father?!
+
+92
+00:15:14,320 --> 00:15:14,980
+Wait a minute!
+
+93
+00:15:15,430 --> 00:15:16,880
+Do you know he has your father?
+
+94
+00:15:16,900 --> 00:15:18,090
+He's responsible for all this
+
+95
+00:15:18,110 --> 00:15:20,610
+why everyone's afraid him and his animals.
+
+96
+00:15:20,630 --> 00:15:22,390
+I'm only here to help.
+
+97
+00:15:22,410 --> 00:15:24,660
+Help?You're a dog!
+
+98
+00:15:25,030 --> 00:15:26,720
+Natalya...
+
+99
+00:15:26,790 --> 00:15:28,230
+How exactly can you help?
+
+100
+00:15:28,250 --> 00:15:31,080
+In any way they'd like me to.
+
+101
+00:15:31,120 --> 00:15:33,780
+As I said,this is a small community.
+
+102
+00:15:34,240 --> 00:15:38,140
+If one is in pain,we're all in pain.
+
+103
+00:15:39,800 --> 00:15:41,260
+Natalya...
+
+104
+00:15:42,240 --> 00:15:45,590
+You didn't have to bring outsiders.
+
+105
+00:15:45,610 --> 00:15:47,620
+Let me help you.
+
+106
+00:15:48,700 --> 00:15:52,490
+My family will never come to you for help.
+
+107
+00:15:53,640 --> 00:15:55,120
+Get away from my house!
+
+108
+00:15:55,140 --> 00:15:56,890
+You are not right,Natalya.
+
+109
+00:15:57,860 --> 00:16:00,640
+You have made the wrong decision.
+
+110
+00:16:09,030 --> 00:16:10,640
+What did he say?
+
+111
+00:16:10,660 --> 00:16:12,640
+Did he threaten you,natalya?
+
+112
+00:16:12,670 --> 00:16:14,050
+Talk to us,and we can do something about it.
+
+113
+00:16:14,070 --> 00:16:15,060
+What did he say?
+
+114
+00:16:15,080 --> 00:16:17,720
+He said I made the wrong decision.
+
+115
+00:16:17,740 --> 00:16:20,320
+I hope I didn'T.
+
+116
+00:16:38,320 --> 00:16:40,630
+Time's up.Old man.
+
+117
+00:16:40,650 --> 00:16:42,940
+But they still have more than two hours.
+
+118
+00:16:42,960 --> 00:16:44,020
+Give me the knife.
+
+119
+00:16:44,040 --> 00:16:46,170
+No...please...
+
+120
+00:16:47,050 --> 00:16:49,630
+Give it to me!
+
+121
+00:16:53,080 --> 00:16:56,000
+Just tell me.Why are you doing this?
+
+122
+00:16:56,020 --> 00:16:58,300
+Because the FBI has come into this.
+
+123
+00:16:58,320 --> 00:17:00,020
+Please...
+
+124
+00:17:09,140 --> 00:17:10,780
+Natalya.
+
+125
+00:17:14,190 --> 00:17:16,420
+Natalya.
+
+126
+00:17:19,640 --> 00:17:20,700
+You all right?
+
+127
+00:17:20,720 --> 00:17:23,180
+In 2 hours,if we don't send someone money we don't have
+
+128
+00:17:23,200 --> 00:17:24,630
+my father will be mutilated again,
+
+129
+00:17:24,650 --> 00:17:26,710
+so,no,I'm not really all right.
+
+130
+00:17:30,070 --> 00:17:31,430
+We're workin' on it.
+
+131
+00:17:31,450 --> 00:17:33,370
+You're working on it? You're standing right here with me.
+
+132
+00:17:33,390 --> 00:17:35,260
+The rest of you are standing in front of the house.
+
+133
+00:17:35,280 --> 00:17:36,790
+What exactly are you doing?
+
+134
+00:17:36,810 --> 00:17:38,690
+We collect details.
+
+135
+00:17:38,710 --> 00:17:40,340
+There are things that people may not even realize
+
+136
+00:17:40,360 --> 00:17:42,640
+but they help tell us who we're looking for.
+
+137
+00:17:44,740 --> 00:17:46,270
+I look around.
+
+138
+00:17:46,290 --> 00:17:48,870
+I see no family pictures after your brothers died
+
+139
+00:17:49,240 --> 00:17:51,460
+no pictures of you at all after that day.
+
+140
+00:17:51,870 --> 00:17:54,110
+You had to graduate high school here,yeah?
+
+141
+00:17:55,840 --> 00:17:59,510
+There's nothing to commemorate it anywhere.
+
+142
+00:17:59,700 --> 00:18:00,840
+You don't have a family room
+
+143
+00:18:00,860 --> 00:18:03,610
+so this should be the center of your home 
+but look at your furniture.
+
+144
+00:18:03,630 --> 00:18:06,340
+Sure,they may be old antiques,
+but they look new.
+
+145
+00:18:07,040 --> 00:18:09,190
+They're hardly ever used.
+Nobody sits here.
+
+146
+00:18:09,210 --> 00:18:12,090
+You have 2 chairs at your dining table  
+but 3 people live here
+
+147
+00:18:12,430 --> 00:18:14,550
+so obviously you don't eat together.
+
+148
+00:18:17,350 --> 00:18:19,390
+Your shoes,they may look like prada
+
+149
+00:18:19,410 --> 00:18:21,670
+but they're knockoffs.
+
+150
+00:18:21,710 --> 00:18:25,320
+Your bag, it's a fake designer bag.
+
+151
+00:18:25,840 --> 00:18:27,110
+I mean no disrespect,Natalya
+
+152
+00:18:27,130 --> 00:18:29,410
+but you're trying to look like 
+something you aren't.
+
+153
+00:18:29,430 --> 00:18:30,550
+That tells me that you have no money
+
+154
+00:18:30,570 --> 00:18:32,860
+and you just don't want anybody to know.
+
+155
+00:18:34,550 --> 00:18:36,610
+Why'd you need to know all this?
+
+156
+00:18:37,340 --> 00:18:41,710
+It's what we call victimology 
+and it's very important.
+
+157
+00:18:42,700 --> 00:18:46,360
+We need to know why these people 
+chose your family to victimize.
+
+158
+00:18:47,780 --> 00:18:50,140
+You have any information on 
+Lysowsky at your field office?
+
+159
+00:18:50,160 --> 00:18:52,650
+Got a lot about the organization 
+less about him personally.
+
+160
+00:18:52,670 --> 00:18:54,340
+I'll get Garcia on it.
+
+161
+00:18:54,360 --> 00:18:56,310
+You have other kidnapping mutilation case files?
+
+162
+00:18:56,330 --> 00:18:57,790
+Thin ones.
+
+163
+00:18:57,810 --> 00:18:59,440
+2 hours,14 minutes.
+
+164
+00:18:59,460 --> 00:19:01,430
+Before you call garcia,give Morgan the keys to the suburban.
+
+165
+00:19:01,450 --> 00:19:03,160
+We're goin' to Agent Cramer's office.
+
+166
+00:19:03,180 --> 00:19:06,240
+I can give you a crash course on everything 
+you need to know about these people.
+
+167
+00:19:08,700 --> 00:19:11,590
+How are you enjoying your assignment to the B.A.U.?
+
+168
+00:19:13,180 --> 00:19:15,840
+Well,enjoying is an odd description.
+
+169
+00:19:15,860 --> 00:19:16,830
+Is it?
+
+170
+00:19:16,850 --> 00:19:19,940
+Well,we,um,deal with some pretty horrible things.
+
+171
+00:19:19,960 --> 00:19:22,210
+I thought that was where you wanted to be.
+
+172
+00:19:22,220 --> 00:19:23,900
+It is,definitely.
+
+173
+00:19:23,920 --> 00:19:25,120
+Then you do enjoy it.
+
+174
+00:19:25,140 --> 00:19:28,790
+All I'm saying is "enjoy" feels wrong.
+
+175
+00:19:28,810 --> 00:19:30,720
+All right.
+What would you call it?
+
+176
+00:19:30,740 --> 00:19:33,370
+Why do we have to end up in an interrogation?
+
+177
+00:19:34,100 --> 00:19:35,520
+-Ambassador.
+-Yes?
+
+178
+00:19:35,540 --> 00:19:37,210
+Gregor Popovich returning.
+
+179
+00:19:37,230 --> 00:19:38,780
+Thank you.
+
+180
+00:19:39,000 --> 00:19:40,030
+Gregor.
+
+181
+00:19:40,050 --> 00:19:42,390
+My daughter Em's in the room with me.
+
+182
+00:19:42,410 --> 00:19:43,780
+Little Emily?
+
+183
+00:19:43,800 --> 00:19:45,950
+You have some good news for me,I hope.
+
+184
+00:19:45,970 --> 00:19:47,370
+I'm afraid not.
+
+185
+00:19:47,390 --> 00:19:50,510
+No one in the russian government is 
+going to officially give you permission
+
+186
+00:19:50,530 --> 00:19:53,490
+to look into the account holder information in this bank.
+
+187
+00:19:53,510 --> 00:19:55,930
+Do they understand this is an emergency?
+
+188
+00:19:55,950 --> 00:19:57,710
+They were not impressed.
+
+189
+00:19:57,730 --> 00:19:59,880
+Uh,thank you for trying,Gregor.
+
+190
+00:19:59,900 --> 00:20:01,850
+I wish I could have done more.
+
+191
+00:20:01,870 --> 00:20:03,850
+-Good-bye,Emily.
+-Good-bye,sir.
+
+192
+00:20:06,230 --> 00:20:08,980
+I really thought he could do this.
+
+193
+00:20:09,660 --> 00:20:12,210
+Um,I should head back to the office 
+and let them know.
+
+194
+00:20:12,230 --> 00:20:15,520
+Yeah. 
+Please tell Agent Hotchner I'm sorry.
+
+195
+00:20:16,760 --> 00:20:19,100
+Right.
+
+196
+00:20:23,630 --> 00:20:26,260
+These tattoos are amazingly detailed.
+
+197
+00:20:26,280 --> 00:20:28,160
+It's a form of communication.
+
+198
+00:20:28,180 --> 00:20:29,970
+Each tattoo has meaning.
+
+199
+00:20:29,990 --> 00:20:33,390
+Symbols tells the other criminals 
+who the counterfeiters are
+
+200
+00:20:33,410 --> 00:20:35,250
+the murderers,the armed robbers.
+
+201
+00:20:35,270 --> 00:20:37,850
+There's a guide in that folder right there.
+
+202
+00:20:37,870 --> 00:20:39,840
+You said they were very organized.
+
+203
+00:20:39,860 --> 00:20:43,320
+A boss called a pakhan,or a head thief in law
+
+204
+00:20:43,340 --> 00:20:44,910
+controls 4 criminal cells.
+
+205
+00:20:44,930 --> 00:20:47,770
+Now, Lysowsky is the Pakhan in this area.
+
+206
+00:20:47,790 --> 00:20:51,070
+The Pakhan employs 2 underbosses to watch over the brigadiers.
+
+207
+00:20:51,090 --> 00:20:52,870
+You saw them today with Lysowsky.
+
+208
+00:20:52,890 --> 00:20:55,000
+Uh,what's that circle over there to the right?
+
+209
+00:20:55,020 --> 00:20:56,010
+The Obochek.
+
+210
+00:20:56,030 --> 00:20:58,670
+It's a pooled monetary fund the groups use for bribes
+
+211
+00:20:58,690 --> 00:20:59,820
+and other types of support.
+
+212
+00:20:59,840 --> 00:21:01,530
+And where does that money come from?
+
+213
+00:21:01,550 --> 00:21:02,750
+Nobody really knows.
+
+214
+00:21:02,770 --> 00:21:06,120
+I'd guess it comes from any number of sources,
+above and below.
+
+215
+00:21:06,140 --> 00:21:08,860
+It really is just an open pool of cash
+
+216
+00:21:08,880 --> 00:21:12,080
+that any Pakhan can use almost 
+without question.
+
+217
+00:21:13,860 --> 00:21:15,450
+Excuse me.Cramer.
+
+218
+00:21:15,470 --> 00:21:17,490
+Penelope Garcia from Quantico.
+
+219
+00:21:17,510 --> 00:21:19,220
+Put her through.
+
+220
+00:21:19,240 --> 00:21:20,230
+What do you have,Garcia?
+
+221
+00:21:20,250 --> 00:21:23,890
+Ok,finding information on this man
+not as easy as you think.
+
+222
+00:21:23,910 --> 00:21:28,040
+Arseny Lysowsky,born 1940 in Dolgoprudniy.
+
+223
+00:21:28,060 --> 00:21:29,270
+Seems to be a lifelong criminal.
+
+224
+00:21:29,290 --> 00:21:31,370
+I have no employment records of him at all.
+
+225
+00:21:31,390 --> 00:21:33,330
+Married Katya Fulenko in 1960.
+
+226
+00:21:33,350 --> 00:21:35,340
+She died 2 years later.
+
+227
+00:21:35,360 --> 00:21:40,510
+He served 23 years in 4 remote prisons in perm.
+
+228
+00:21:40,530 --> 00:21:42,940
+That's a remote region of the northern Ural mountains,
+
+229
+00:21:42,960 --> 00:21:44,800
+for those of you playing the home game.
+
+230
+00:21:45,360 --> 00:21:47,630
+He seems to be in America legally
+
+231
+00:21:47,650 --> 00:21:51,390
+and I have searched every nook and cranny of 
+the Chernuses' lives
+
+232
+00:21:51,410 --> 00:21:54,660
+and I have found nothing even remotely untoward.
+
+233
+00:21:54,680 --> 00:21:57,930
+They're law-abiding, taxpaying american citizens.
+
+234
+00:21:57,950 --> 00:21:58,790
+Thank you,Garcia.
+
+235
+00:21:59,460 --> 00:22:01,130
+Vory v zakone.
+
+236
+00:22:01,150 --> 00:22:02,880
+The thieves code.
+
+237
+00:22:02,900 --> 00:22:05,930
+Breaking any of those tenets is punishable by death.
+
+238
+00:22:06,750 --> 00:22:10,460
+"Forsake all relatives,mother,father,brother,sister."
+
+239
+00:22:11,020 --> 00:22:13,060
+"Not have a family of his own."
+
+240
+00:22:13,520 --> 00:22:15,100
+"No wife. No children."
+
+241
+00:22:15,120 --> 00:22:17,090
+Family makes you vulnerable.
+
+242
+00:22:17,560 --> 00:22:19,740
+Lysowsky owns a restaurant called little kiev.
+
+243
+00:22:19,760 --> 00:22:21,890
+Well,you're not gonna find too many 
+civilians eating there.
+
+244
+00:22:21,910 --> 00:22:24,720
+But it doesn't say anything in here 
+about helping a nonthief.
+
+245
+00:22:24,740 --> 00:22:25,610
+No,sir.
+
+246
+00:22:25,630 --> 00:22:27,400
+Well,why would he offer to help the chernuses?
+
+247
+00:22:27,420 --> 00:22:29,930
+Well,the chernuses are probably fellow criminals.
+
+248
+00:22:29,950 --> 00:22:31,370
+Why--why do you kidnap the father,
+
+249
+00:22:31,390 --> 00:22:33,470
+and then you offer to help get him back?
+
+250
+00:22:35,580 --> 00:22:38,090
+If I understand this man,it ju--
+
+251
+00:22:38,680 --> 00:22:40,550
+just doesn't make any sense.
+
+252
+00:22:40,570 --> 00:22:42,100
+Where would he be right now?
+
+253
+00:22:42,120 --> 00:22:43,690
+Probably where he always is,
+
+254
+00:22:43,710 --> 00:22:45,600
+in little kiev restaurant.
+
+255
+00:22:49,760 --> 00:22:52,990
+-Anything? 
+-Her contacts fell through.
+
+256
+00:22:53,420 --> 00:22:54,500
+Really?
+
+257
+00:22:54,520 --> 00:22:56,990
+Apparently she's not infallible.
+
+258
+00:23:00,600 --> 00:23:02,650
+Was there something else?
+
+259
+00:23:02,990 --> 00:23:07,410
+No. Uh,I just wish there was something 
+more we could be doing for this family.
+
+260
+00:23:07,920 --> 00:23:09,480
+We still have over an hour.
+
+261
+00:23:10,350 --> 00:23:12,560
+Yeah.
+
+262
+00:23:19,340 --> 00:23:21,750
+Are you hungry?I can make something.
+
+263
+00:23:21,780 --> 00:23:23,230
+Oh,no. No.
+
+264
+00:23:23,250 --> 00:23:25,030
+Thanks. I'm fine.
+
+265
+00:23:30,670 --> 00:23:33,250
+I guess I'm like my mother.
+When she's upset,she cooks.
+
+266
+00:23:33,310 --> 00:23:35,430
+Heh. Really?
+
+267
+00:23:35,810 --> 00:23:39,790
+Yeah,mine does,too.I think that's just a,
+uh,mom thing.
+
+268
+00:23:42,840 --> 00:23:45,470
+-Where is your mother?
+-Chicago.
+
+269
+00:23:45,500 --> 00:23:47,210
+That's where I'm from.
+
+270
+00:23:47,230 --> 00:23:50,550
+I'm from Dolgoprudniy,
+just north of Moscow.
+
+271
+00:23:54,510 --> 00:23:56,530
+-You expecting someone?
+-No.
+
+272
+00:24:04,100 --> 00:24:06,410
+It's uri.
+Lives down the street.
+
+273
+00:24:07,660 --> 00:24:09,510
+Go ahead.
+
+274
+00:24:14,630 --> 00:24:16,910
+-A man said to give this to you.
+-What?
+
+275
+00:24:16,940 --> 00:24:19,630
+He said you needed it right away.
+
+276
+00:24:26,020 --> 00:24:27,650
+Get in the house.Get in the house.
+
+277
+00:24:40,650 --> 00:24:42,800
+Welcome to little kiev.
+
+278
+00:24:42,820 --> 00:24:45,000
+These tattoos are like books on their skin
+
+279
+00:24:45,020 --> 00:24:46,190
+gives their whole life story.
+
+280
+00:24:46,210 --> 00:24:48,890
+Well,these guys are nothing if not dedicated.
+
+281
+00:24:49,270 --> 00:24:51,590
+This all the information you have on 
+additional kidnappings?
+
+282
+00:24:51,610 --> 00:24:53,760
+Like I said,no one cooperates.
+
+283
+00:24:53,780 --> 00:24:56,210
+Most of those pictures,the guys 
+with the missing ring fingers
+
+284
+00:24:56,240 --> 00:24:58,400
+we had to take 'em from surveillance vehicles
+
+285
+00:24:58,420 --> 00:25:02,060
+even when we confronted them and 
+asked them about the obviously fresh wounds,
+
+286
+00:25:02,080 --> 00:25:03,470
+none of 'em would talk.
+
+287
+00:25:03,490 --> 00:25:06,910
+-Vory v zakone.
+-So they're all criminals?
+
+288
+00:25:06,950 --> 00:25:09,030
+They were kidnapped,and they aren't dead.
+
+289
+00:25:09,050 --> 00:25:11,030
+So they're payin'.
+
+290
+00:25:13,300 --> 00:25:14,050
+Gideon.
+
+291
+00:25:14,070 --> 00:25:15,490
+They didn't wait,man.
+
+292
+00:25:15,520 --> 00:25:16,330
+What?
+
+293
+00:25:16,350 --> 00:25:17,840
+They didn't wait until noon.
+
+294
+00:25:17,860 --> 00:25:18,910
+What are you talkin' about?
+
+295
+00:25:18,930 --> 00:25:21,110
+A kid just came to the door,and he had--
+
+296
+00:25:22,490 --> 00:25:24,480
+they cut off Mr. Chernus' ear.
+
+297
+00:25:24,500 --> 00:25:26,850
+But the--they got more than an hour left.
+
+298
+00:25:26,870 --> 00:25:29,240
+They had the kid deliver it in a box with a handwritten note
+
+299
+00:25:29,260 --> 00:25:33,580
+and it says,"we now want $500,000,and you have until 1:00."
+
+300
+00:25:34,580 --> 00:25:35,950
+Raised the ransom.
+
+301
+00:25:36,100 --> 00:25:36,790
+Why? Why?
+
+302
+00:25:37,230 --> 00:25:39,670
+Well,it also says,"say hello to the fbi."
+
+303
+00:25:39,880 --> 00:25:41,130
+Ok.
+
+304
+00:25:41,150 --> 00:25:42,090
+What do you want me to do?
+
+305
+00:25:42,110 --> 00:25:43,410
+Let hotch know what happened.
+
+306
+00:25:43,430 --> 00:25:45,000
+Where's natalya?
+
+307
+00:25:45,020 --> 00:25:47,360
+In the bathroom,and she's hysterical.
+
+308
+00:25:47,710 --> 00:25:49,410
+Let her know we're gonna bring her father home.
+
+309
+00:25:49,430 --> 00:25:51,730
+-Are we?
+-Yes.
+
+310
+00:25:51,750 --> 00:25:53,230
+They didn't wait?
+
+311
+00:25:53,490 --> 00:25:54,240
+They cut off his ear.
+
+312
+00:25:54,260 --> 00:25:56,120
+They increased the ransom to half a million.
+
+313
+00:25:56,140 --> 00:25:58,190
+How much money do they think the Chernuses have?
+
+314
+00:25:58,210 --> 00:26:01,440
+Agent cramer,I'm gonna have to ask you to wait outside while we talk to lysowsky.
+
+315
+00:26:01,460 --> 00:26:02,720
+-Why?
+-He knows you.
+
+316
+00:26:02,740 --> 00:26:04,040
+He deals with you on a regular basis.
+
+317
+00:26:04,060 --> 00:26:05,410
+You're someone he needs to save face with.
+
+318
+00:26:05,430 --> 00:26:07,640
+I don't want him posturing.
+
+319
+00:26:21,780 --> 00:26:23,760
+Natalya.
+
+320
+00:26:24,750 --> 00:26:26,670
+Listen,I know it feels like it may be too late
+
+321
+00:26:26,690 --> 00:26:29,000
+but gideon thinks we may be onto something.
+
+322
+00:26:31,850 --> 00:26:35,880
+Natalya.Natalya?
+
+323
+00:26:47,540 --> 00:26:49,390
+Damn!
+
+324
+00:26:54,190 --> 00:26:56,440
+There is nothing for you here.
+
+325
+00:26:59,060 --> 00:27:01,360
+No,it's all--it's all right,alexander.
+
+326
+00:27:01,380 --> 00:27:02,930
+Allow the gentlemen in.
+
+327
+00:27:12,160 --> 00:27:14,170
+Would you like something to eat?
+
+328
+00:27:14,190 --> 00:27:15,860
+This borscht is exquisite.
+
+329
+00:27:15,880 --> 00:27:18,990
+It's my mother's old country recipe.
+
+330
+00:27:19,010 --> 00:27:22,740
+Didn't you forsake all your relatives when 
+you swore the thieves code?
+
+331
+00:27:22,760 --> 00:27:25,200
+I didn't forsake her recipes.
+
+332
+00:27:25,320 --> 00:27:26,570
+Borscht?
+
+333
+00:27:27,160 --> 00:27:28,010
+No,thanks.
+
+334
+00:27:28,030 --> 00:27:29,670
+I'd love a taste.
+
+335
+00:27:31,120 --> 00:27:32,940
+You know,you should take some home.
+
+336
+00:27:32,960 --> 00:27:34,560
+You will not regret.
+
+337
+00:27:35,340 --> 00:27:37,370
+We need to talk,arseny.
+
+338
+00:27:37,610 --> 00:27:39,900
+We are on a first-name basis?
+
+339
+00:27:39,920 --> 00:27:43,130
+I still don't even know who you are.
+
+340
+00:27:43,460 --> 00:27:45,850
+I think I understand something about this.
+
+341
+00:27:47,410 --> 00:27:48,900
+You have a problem.
+
+342
+00:27:48,920 --> 00:27:50,200
+Thank you.
+
+343
+00:27:50,220 --> 00:27:51,440
+I do?
+
+344
+00:27:51,460 --> 00:27:53,920
+That's why you came to the chernuses' house this morning.
+
+345
+00:27:54,440 --> 00:27:57,020
+I went there to offer my help.
+
+346
+00:27:58,100 --> 00:28:02,200
+There's no reason I can see for a man like you to 
+help a family like the chernuses.
+
+347
+00:28:05,240 --> 00:28:06,900
+Man like me?
+
+348
+00:28:06,920 --> 00:28:10,570
+4 watchtowers and a convict signifies a stay in prison.
+
+349
+00:28:10,590 --> 00:28:13,460
+Each one of those crosses represents 
+an individual sentence.
+
+350
+00:28:13,480 --> 00:28:16,390
+23 years in prison in the ural mountains...
+
+351
+00:28:17,480 --> 00:28:20,750
+doesn't breed a compassionate friend.
+
+352
+00:28:22,500 --> 00:28:25,620
+You think you know russian prison life?
+
+353
+00:28:25,640 --> 00:28:27,550
+I know human behavior.
+
+354
+00:28:28,700 --> 00:28:30,690
+You haven't where you've gotten in this organization
+
+355
+00:28:30,710 --> 00:28:34,010
+by rching out to civilian families in need.
+
+356
+00:28:35,180 --> 00:28:38,320
+No,sir. You have a problem,arseny.
+
+357
+00:28:39,140 --> 00:28:42,100
+Someone in your organization's out of control.
+
+358
+00:28:42,630 --> 00:28:45,460
+You may know american behavior...
+
+359
+00:28:46,420 --> 00:28:49,080
+but you don't understand us.
+
+360
+00:28:49,140 --> 00:28:51,780
+Don't forget your borscht on the way out.
+
+361
+00:28:51,830 --> 00:28:54,890
+If anyone in odessa learns you have a maverick
+
+362
+00:28:55,690 --> 00:28:57,620
+you lose everything.
+
+363
+00:28:57,640 --> 00:28:59,370
+Good-bye.
+
+364
+00:28:59,390 --> 00:29:01,730
+They might even kill you.
+
+365
+00:29:03,620 --> 00:29:05,900
+I am in control.
+
+366
+00:29:07,690 --> 00:29:09,270
+You know tattoos?
+
+367
+00:29:10,210 --> 00:29:13,260
+Then you'll know what this means.
+
+368
+00:29:16,210 --> 00:29:18,760
+You're a thief in law,the boss.
+
+369
+00:29:18,780 --> 00:29:22,150
+In my world,there is no such a thing as a control problem.
+
+370
+00:29:22,460 --> 00:29:26,350
+There is controlled... and there is dead.
+
+371
+00:29:27,280 --> 00:29:30,490
+Mr. Lysowsky...you said you could help me.
+
+372
+00:29:30,510 --> 00:29:32,650
+Don't you already have help?
+
+373
+00:29:33,470 --> 00:29:35,250
+I made a mistake.
+
+374
+00:29:35,270 --> 00:29:37,020
+I talked to my father on the phone.
+
+375
+00:29:37,340 --> 00:29:39,290
+-He's fine.
+-What?
+
+376
+00:29:39,900 --> 00:29:42,280
+Thank you for coming,but I don't need your help.
+
+377
+00:29:53,530 --> 00:29:55,480
+Has something happened?
+
+378
+00:29:56,040 --> 00:29:59,260
+Yes. The kidnappers didn't wait until noon.
+
+379
+00:29:59,280 --> 00:30:01,810
+They cut off Mr. Chernus' ear 
+and sent it to his daughter.
+
+380
+00:30:01,830 --> 00:30:03,040
+Oh,god.
+
+381
+00:30:03,640 --> 00:30:04,140
+Is he--
+
+382
+00:30:04,160 --> 00:30:05,880
+no. We don't think so.
+
+383
+00:30:05,890 --> 00:30:09,210
+But they've given us a new deadline 
+and increased the ransom demand.
+
+384
+00:30:09,580 --> 00:30:11,710
+You still think I enjoy all of this?
+
+385
+00:30:13,110 --> 00:30:16,560
+Are they still instructed to wire the money 
+to the same bank in moscow?
+
+386
+00:30:16,580 --> 00:30:18,150
+Yes. I think so.
+
+387
+00:30:18,170 --> 00:30:21,140
+Something your computer expert said this morning about
+
+388
+00:30:21,160 --> 00:30:24,480
+if she understood how russian banks hold their data
+
+389
+00:30:24,500 --> 00:30:26,680
+she could get information about account holders.
+
+390
+00:30:26,700 --> 00:30:27,560
+Right.
+
+391
+00:30:27,580 --> 00:30:30,030
+After you left,I called gregor back.
+
+392
+00:30:30,150 --> 00:30:33,190
+He made some calls,gave me this.
+
+393
+00:30:33,210 --> 00:30:36,960
+He said she would understand it.
+
+394
+00:30:43,220 --> 00:30:44,320
+Natalya!
+
+395
+00:30:44,340 --> 00:30:45,890
+Natalya,wait a minute!
+
+396
+00:30:45,910 --> 00:30:47,860
+Natalya!
+
+397
+00:30:51,570 --> 00:30:52,850
+What are we doin'?
+
+398
+00:30:52,870 --> 00:30:54,350
+We're just gonna let her go with him?
+
+399
+00:30:54,370 --> 00:30:55,640
+What choice do we have,man?
+
+400
+00:30:55,660 --> 00:30:56,290
+Oh,so what?
+
+401
+00:30:56,310 --> 00:30:57,190
+What,we get on a plane,
+
+402
+00:30:57,210 --> 00:30:58,880
+we go home and pretend none of this happened?
+
+403
+00:30:58,900 --> 00:31:01,120
+We have a victim who claims the 
+crime never occurred.
+
+404
+00:31:01,140 --> 00:31:03,890
+No. We have a daughter of a victim who 
+claims the crime never occurred.
+
+405
+00:31:03,910 --> 00:31:05,470
+Well,if she says that she talks to him and he's ok,
+
+406
+00:31:05,490 --> 00:31:07,750
+then what proof do we have it even happened?
+
+407
+00:31:07,770 --> 00:31:09,440
+The body parts.
+
+408
+00:31:11,340 --> 00:31:13,680
+Where's the ear?
+
+409
+00:31:15,650 --> 00:31:18,220
+Natalya's got it.
+
+410
+00:31:22,210 --> 00:31:23,540
+-J.J.
+-Yeah,morgan.
+
+411
+00:31:23,560 --> 00:31:25,270
+Look in the cooler.
+
+412
+00:31:25,290 --> 00:31:29,270
+Mrs. Chernus,I need to look inside the cooler.
+
+413
+00:31:29,290 --> 00:31:30,350
+What?
+
+414
+00:31:30,370 --> 00:31:32,380
+It's for morgan.
+
+415
+00:31:33,200 --> 00:31:35,000
+Tell her I-I'm not gonna take anything.
+
+416
+00:31:35,020 --> 00:31:36,650
+I just need to look inside.
+
+417
+00:31:49,350 --> 00:31:51,430
+The finger's gone,too.
+
+418
+00:32:13,460 --> 00:32:16,440
+Natalya.Natalya!
+
+419
+00:32:38,280 --> 00:32:39,750
+She's not here,
+
+420
+00:32:39,770 --> 00:32:41,540
+and the garbage was never taken out.
+
+421
+00:32:41,560 --> 00:32:42,080
+What?
+
+422
+00:32:42,100 --> 00:32:43,580
+When hotch first talked to her,
+
+423
+00:32:43,600 --> 00:32:46,920
+he said she noticed her father's car in the driveway 
+when she took the garbage out.
+
+424
+00:32:46,940 --> 00:32:47,580
+Right.
+
+425
+00:32:47,600 --> 00:32:49,290
+Garbage can in the kitchen is completely full.
+
+426
+00:32:49,310 --> 00:32:51,460
+-She never took it out.
+-She lied.
+
+427
+00:32:51,480 --> 00:32:53,690
+She could halfway to dogo-wherever by now.
+
+428
+00:32:53,710 --> 00:32:55,340
+-Dolgoprudniy?
+-Yeah.
+
+429
+00:32:55,360 --> 00:32:56,800
+It's the town she's from in russia.
+
+430
+00:32:56,820 --> 00:32:58,920
+Isn't that where lysowsky's from?
+
+431
+00:33:00,810 --> 00:33:02,660
+It's bread crumbs.
+
+432
+00:33:02,680 --> 00:33:03,720
+I'm sorry.
+
+433
+00:33:03,740 --> 00:33:09,790
+It's a set of address strings and 
+passwords a path. See?
+
+434
+00:33:09,800 --> 00:33:13,200
+I'm jumping from site to site,country to country
+
+435
+00:33:13,220 --> 00:33:16,280
+and each time I get a cursor
+
+436
+00:33:16,320 --> 00:33:20,880
+I put in the next address and password.
+
+437
+00:33:21,270 --> 00:33:23,760
+It's the equivalent of bread crumbs 
+to hansel and gretel.
+
+438
+00:33:29,930 --> 00:33:32,520
+What is that?
+
+439
+00:33:33,320 --> 00:33:38,700
+It's downloading the structure of nadka 
+bank's server to me.
+
+440
+00:33:38,760 --> 00:33:39,770
+Are you kidding?
+
+441
+00:33:39,790 --> 00:33:41,910
+Whoever gave these instructions is really good.
+
+442
+00:33:41,930 --> 00:33:44,350
+So you can get the account information noW.
+
+443
+00:33:44,370 --> 00:33:46,410
+If I can figure this out.
+
+444
+00:33:48,960 --> 00:33:51,500
+So we have a daughter who lied about how 
+she discovered the crime
+
+445
+00:33:51,520 --> 00:33:54,300
+none of the missing body parts to 
+prove anything actually happened
+
+446
+00:33:54,320 --> 00:33:56,810
+and a generic ransom note that 
+mentions no names.
+
+447
+00:33:56,830 --> 00:33:58,510
+So what are we sayin'?
+
+448
+00:33:58,890 --> 00:34:00,900
+Natalya was a part of this.
+
+449
+00:34:00,940 --> 00:34:02,310
+How did I not see this comin'?
+
+450
+00:34:02,340 --> 00:34:03,420
+How could any of us,man?
+
+451
+00:34:03,440 --> 00:34:04,410
+She sought us out.
+
+452
+00:34:04,420 --> 00:34:06,770
+We were so blinded by the fact that she trusted us
+
+453
+00:34:06,790 --> 00:34:09,100
+that we never considered not trusting her.
+
+454
+00:34:11,730 --> 00:34:13,870
+-I'm in.
+-You're kidding.
+
+455
+00:34:13,890 --> 00:34:16,530
+It's a pretty archaic system once the 
+parameters are understood.
+
+456
+00:34:16,550 --> 00:34:17,290
+Account number,please?
+
+457
+00:34:17,310 --> 00:34:24,780
+-Ok.
+-155293846729.
+
+458
+00:34:34,710 --> 00:34:36,330
+Why?
+
+459
+00:34:36,350 --> 00:34:38,770
+Why would she even bring us into this?
+
+460
+00:34:41,890 --> 00:34:43,850
+Yeah. What?
+
+461
+00:34:44,220 --> 00:34:46,770
+You're sure?
+
+462
+00:34:48,380 --> 00:34:50,450
+Ok. Thanks.
+
+463
+00:34:50,620 --> 00:34:52,090
+Garcia just got into the bank's system.
+
+464
+00:34:52,110 --> 00:34:54,730
+Somebody wired $500,000 into the account 10 minutes ago.
+
+465
+00:34:54,750 --> 00:34:55,390
+Who wired it?
+
+466
+00:34:55,410 --> 00:34:56,400
+She didn't say where it came from,
+
+467
+00:34:56,420 --> 00:34:58,410
+but the name on the account is lyov fulenko.
+
+468
+00:34:58,430 --> 00:35:01,950
+She says that's Lysowsky's wife's 
+maiden name,fulenko.
+
+469
+00:35:01,970 --> 00:35:04,690
+Why did she need to bring us in?
+
+470
+00:35:06,060 --> 00:35:08,790
+'Cause she needed to put pressure on the other victim.
+
+471
+00:35:09,390 --> 00:35:11,200
+Other victim?
+
+472
+00:35:24,810 --> 00:35:26,960
+Money. 500,000.
+
+473
+00:35:26,980 --> 00:35:28,560
+It's all here.
+
+474
+00:35:28,920 --> 00:35:30,470
+You see,old man.
+
+475
+00:35:30,490 --> 00:35:32,630
+I told you they'd pay money.
+
+476
+00:35:32,650 --> 00:35:33,650
+We're finished.
+
+477
+00:35:38,440 --> 00:35:40,540
+Yes,fyodor.
+
+478
+00:35:40,575 --> 00:35:42,440
+We are finished.
+
+479
+00:35:51,590 --> 00:35:54,150
+Mr. Gorban,I'm not gonna ask you anything official.
+
+480
+00:35:54,170 --> 00:35:56,110
+Just have a simple question.
+
+481
+00:35:56,130 --> 00:35:57,920
+I don't have anything to say.
+
+482
+00:35:57,940 --> 00:36:00,280
+You were kidnapped once,Mr. Gorban?
+
+483
+00:36:02,460 --> 00:36:06,100
+When the men kidnapped you,who paid your ransom?
+
+484
+00:36:06,460 --> 00:36:09,030
+Mr. Gorban,your house,the way you're dressed,
+
+485
+00:36:09,390 --> 00:36:11,680
+you don't have any tattoos--you're not a criminal.
+
+486
+00:36:11,700 --> 00:36:12,680
+No.
+
+487
+00:36:12,700 --> 00:36:15,460
+Well,how could your family have paid a ransom for you?
+
+488
+00:36:17,050 --> 00:36:19,180
+Was arseny lysowsky,wasn't it?
+
+489
+00:36:23,690 --> 00:36:25,770
+Thanks,mr. Gorban.
+
+490
+00:36:29,870 --> 00:36:32,180
+Paid the ransom already.
+
+491
+00:36:32,660 --> 00:36:34,750
+Paid all the ransoms.
+
+492
+00:36:35,100 --> 00:36:36,730
+SiT.
+
+493
+00:36:36,750 --> 00:36:38,830
+Are they gonna kill mr. Chernus?
+
+494
+00:36:41,350 --> 00:36:43,800
+No.
+
+495
+00:36:45,500 --> 00:36:47,960
+Why are you paying these ransoms?
+
+496
+00:36:48,260 --> 00:36:50,690
+-What's goin' on here?
+-I think I know.
+
+497
+00:36:50,710 --> 00:36:53,240
+The account is in the name of lyov fulenko.
+
+498
+00:36:53,260 --> 00:36:56,630
+Lyov's a man's name,a son's name.
+
+499
+00:36:56,650 --> 00:36:58,460
+Vory v zakone.
+
+500
+00:36:58,480 --> 00:37:02,150
+Never have a family of your own. 
+No wife.No children.
+
+501
+00:37:03,160 --> 00:37:07,010
+"Lyov." You know what it means?
+
+502
+00:37:12,660 --> 00:37:14,480
+Time's up,old man.
+
+503
+00:37:14,500 --> 00:37:16,670
+No.
+
+504
+00:37:16,690 --> 00:37:19,280
+Na-natalya?
+
+505
+00:37:29,240 --> 00:37:31,050
+When we started this a year ago,
+
+506
+00:37:31,070 --> 00:37:34,340
+we agreed there would be no witnesses.
+
+507
+00:37:35,910 --> 00:37:38,160
+Where we're going,witnesses won't matter.
+
+508
+00:37:38,180 --> 00:37:41,620
+No,my love.That is sloppy.
+
+509
+00:37:41,990 --> 00:37:44,350
+If he tells my father who did this,
+
+510
+00:37:44,370 --> 00:37:47,340
+everything we've done will fall.
+
+511
+00:37:47,880 --> 00:37:48,830
+He'll hunt us down.
+
+512
+00:37:52,120 --> 00:37:54,090
+Let me say good-bye to him.
+
+513
+00:38:00,760 --> 00:38:03,800
+I'm sorry,papa.
+
+514
+00:38:04,820 --> 00:38:07,140
+I couldn't do it anymore...
+
+515
+00:38:08,330 --> 00:38:14,360
+Living in that house with my brothers 
+hanging over everything...
+
+516
+00:38:16,630 --> 00:38:19,090
+the--the sadness and the struggle.
+
+517
+00:38:19,110 --> 00:38:21,560
+You brought us here so we could have
+things and we have nothinG.
+
+518
+00:38:21,580 --> 00:38:25,430
+We're nothing. I need more.
+
+519
+00:38:29,140 --> 00:38:34,680
+I'm gonna go away,gonna live my life happy.
+
+520
+00:38:37,030 --> 00:38:40,040
+I'm sorry.
+
+521
+00:38:44,820 --> 00:38:47,210
+I knew when the first man was taken.
+
+522
+00:38:47,230 --> 00:38:49,720
+I knew who had done it.
+
+523
+00:38:49,740 --> 00:38:54,850
+No one else would be so bold and so stupid.
+
+524
+00:38:54,870 --> 00:38:57,320
+Tell me where mr. Chernus is.
+
+525
+00:38:57,340 --> 00:38:58,850
+At first,it didn't mean much.
+
+526
+00:38:58,870 --> 00:39:02,080
+It was a way of letting him earn his own money.
+
+527
+00:39:02,100 --> 00:39:03,090
+I could afford it.
+
+528
+00:39:03,110 --> 00:39:04,990
+It came from the fund,and...
+
+529
+00:39:07,060 --> 00:39:10,660
+no one questions the use of the fund.
+
+530
+00:39:10,680 --> 00:39:11,680
+Where is he?
+
+531
+00:39:12,150 --> 00:39:14,220
+What else could I do?
+
+532
+00:39:14,300 --> 00:39:19,230
+I couldn't admit that i wasn't blessing the kidnappings.
+
+533
+00:39:19,250 --> 00:39:22,550
+I couldn't even admit that my son existed.
+
+534
+00:39:27,130 --> 00:39:29,710
+Chernus will be home in a few minutes.
+
+535
+00:39:29,730 --> 00:39:30,660
+You should be there.
+
+536
+00:39:30,680 --> 00:39:33,090
+He's going to need medical attention.
+
+537
+00:39:33,110 --> 00:39:35,170
+Go. Go.
+
+538
+00:39:41,120 --> 00:39:43,010
+What are you gonna do?
+
+539
+00:39:45,040 --> 00:39:47,170
+Vory v zakonE.
+
+540
+00:39:48,390 --> 00:39:52,100
+We take care of our own troubles.
+
+541
+00:39:57,130 --> 00:39:59,590
+I'll wait outside.
+
+542
+00:40:01,320 --> 00:40:04,050
+Put the knife down,lyov.
+
+543
+00:40:11,850 --> 00:40:14,230
+It's time to pay.
+
+544
+00:41:14,660 --> 00:41:17,310
+"Happy families are all alike.
+
+545
+00:41:17,320 --> 00:41:21,160
+Every unhappy family is unhappy in its own way."
+
+546
+00:41:21,730 --> 00:41:23,560
+Leo tolstoY.
+
+547
+00:41:31,000 --> 00:41:32,660
+We got him.
+
+548
+00:41:32,680 --> 00:41:33,980
+Mr. Chernus is safe now.
+
+549
+00:41:34,000 --> 00:41:35,680
+Oh. Good.
+
+550
+00:41:35,700 --> 00:41:37,020
+We couldn't've done it without you.
+
+551
+00:41:37,040 --> 00:41:40,140
+Ah. Well,I'm sure that isn't true.
+
+552
+00:41:40,160 --> 00:41:42,280
+Agent hotchner wanted me to 
+say thank you for him.
+
+553
+00:41:42,300 --> 00:41:45,910
+Well,tell him I'm glad I could help.
+
+554
+00:41:46,330 --> 00:41:50,070
+Anyway,I thought you would wanna 
+know how it all came out.
+
+555
+00:41:50,100 --> 00:41:52,770
+It was nice to feel needed again.
+
+556
+00:41:53,450 --> 00:41:54,970
+What--what did you say?
+
+557
+00:41:54,990 --> 00:41:59,840
+Well,I don't mean to be overly dramatic,but...
+
+558
+00:42:00,470 --> 00:42:04,170
+I am an ambassador without an assignment.
+
+559
+00:42:04,740 --> 00:42:06,910
+You--you've been without assignments before.
+
+560
+00:42:06,930 --> 00:42:08,990
+Yeah,but never for this long,
+
+561
+00:42:09,010 --> 00:42:12,120
+and one does begin to wonder.
+
+562
+00:42:13,250 --> 00:42:15,960
+What? Did I say something wrong?
+
+563
+00:42:15,980 --> 00:42:19,070
+I don't think I've ever seen you 
+doubt yourself before.
+
+564
+00:42:19,110 --> 00:42:23,440
+I doubt myself all the time,emily.
+
+565
+00:42:23,460 --> 00:42:25,980
+It's just not showing it.
+
+566
+00:42:26,000 --> 00:42:29,180
+That's what being a diplomat's all about.
+
+567
+00:42:33,270 --> 00:42:36,160
+Would you like to go to dinner?
+
+568
+00:42:39,020 --> 00:42:41,800
+-My treat?
+-Definitely.
+
+569
+00:42:41,870 --> 00:42:44,040
+Yeah.
+
+570
+00:42:44,090 --> 00:42:46,440
+Yeah. Think I would.
+
+571
+00:42:46,530 --> 00:42:52,910
+---www.opensubtitles.org---
+sync: jenilim 

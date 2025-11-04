@@ -1,0 +1,1878 @@
+1
+00:00:00,521 --> 00:00:03,393
+Episode 10x05
+"A Million Little Fibers"
+
+2
+00:00:30,865 --> 00:00:32,739
+Bonjour, bienvenue Chez Chang.
+
+3
+00:00:32,799 --> 00:00:35,649
+Vous voulez votre sauce Chang très épicée ?
+
+4
+00:00:35,682 --> 00:00:38,208
+Chris, il faut l'addition pour la 3.
+
+5
+00:00:38,252 --> 00:00:39,766
+Je sais. Je suis débordé.
+
+6
+00:00:39,795 --> 00:00:41,239
+On ne m'aide pas.
+
+7
+00:00:41,270 --> 00:00:42,536
+Et le nouveau serveur ?
+
+8
+00:00:42,537 --> 00:00:44,284
+Il est inutile.
+
+9
+00:00:44,285 --> 00:00:45,926
+Et je crois qu'il se drogue.
+
+10
+00:00:47,215 --> 00:00:50,263
+Vous voulez votre sauce Chang très épicée ?
+
+11
+00:00:50,622 --> 00:00:52,567
+Vous pourriez juste passer notre commande ?
+
+12
+00:00:52,560 --> 00:00:55,868
+Mec, je comprends rien à ce qui se passe.
+
+13
+00:00:55,889 --> 00:00:57,254
+Tout va bien ?
+
+14
+00:00:57,298 --> 00:01:01,263
+Très bien, sauf que cette serviette
+mélange la sauce depuis 15 minutes.
+
+15
+00:01:01,277 --> 00:01:02,441
+Il est à l'ouest ! 
+
+16
+00:01:02,477 --> 00:01:05,363
+Ne dis pas que je suis à l'ouest !
+Tu es à l'ouest ! 
+
+17
+00:01:05,376 --> 00:01:06,863
+Mais toi, tu es une serviette !
+
+18
+00:01:06,866 --> 00:01:07,983
+C'est toi la serviette !
+
+19
+00:01:08,028 --> 00:01:10,232
+Ca suffit ! Sors d'ici !
+Tu es viré !
+
+20
+00:01:10,236 --> 00:01:11,343
+Ouais !
+
+21
+00:01:11,346 --> 00:01:12,890
+Pas lui, toi !
+
+22
+00:01:16,356 --> 00:01:19,553
+J'ai vraiment déconné cette fois.
+
+23
+00:01:19,566 --> 00:01:23,003
+Je dois payer le loyer et je n'ai pas d'argent.
+
+24
+00:01:23,038 --> 00:01:25,952
+Je dois me reprendre et trouver un boulot.
+
+25
+00:01:26,046 --> 00:01:29,633
+Mais avant, je vais me fumer un petit pétard.
+
+26
+00:01:34,408 --> 00:01:38,700
+Attends. Voila. Les idées arrivent.
+
+27
+00:01:38,795 --> 00:01:42,272
+Ouais ! Je pourrais être écrivain !
+
+28
+00:01:42,286 --> 00:01:44,613
+Si j'écris un bouquin sur ma vie,
+
+29
+00:01:44,618 --> 00:01:48,362
+je serais publié et j'aurais
+plein de pognon pour le loyer.
+
+30
+00:01:49,078 --> 00:01:53,033
+Je parie que les gens sont
+impatients de lire mes mémoires.
+
+31
+00:01:53,327 --> 00:01:53,473
+U
+
+32
+00:01:53,477 --> 00:01:53,632
+UN
+
+33
+00:01:53,638 --> 00:01:53,781
+UN M
+
+34
+00:01:53,788 --> 00:01:53,943
+UN MI
+
+35
+00:01:53,947 --> 00:01:54,090
+UN MIL
+
+36
+00:01:54,095 --> 00:01:54,252
+UN MILL
+
+37
+00:01:54,258 --> 00:01:54,401
+UN MILLI
+
+38
+00:01:54,407 --> 00:01:54,562
+UN MILLIO
+
+39
+00:01:54,565 --> 00:01:54,713
+UN MILLION
+
+40
+00:01:54,715 --> 00:01:54,872
+UN MILLION D
+
+41
+00:01:54,875 --> 00:01:55,021
+UN MILLION DE
+
+42
+00:01:55,028 --> 00:01:55,180
+UN MILLION DE P
+
+43
+00:01:55,185 --> 00:01:55,331
+UN MILLION DE PE
+
+44
+00:01:55,335 --> 00:01:55,491
+UN MILLION DE PET
+
+45
+00:01:55,497 --> 00:01:55,640
+UN MILLION DE PETI
+
+46
+00:01:55,646 --> 00:01:55,803
+UN MILLION DE PETIT
+
+47
+00:01:55,808 --> 00:01:55,952
+UN MILLION DE PETITE
+
+48
+00:01:55,955 --> 00:01:56,113
+UN MILLION DE PETITES
+
+49
+00:01:56,115 --> 00:01:56,260
+UN MILLION DE PETITES F
+
+50
+00:01:56,267 --> 00:01:56,422
+UN MILLION DE PETITES FI
+
+51
+00:01:56,428 --> 00:01:56,572
+UN MILLION DE PETITES FIB
+
+52
+00:01:56,576 --> 00:01:56,733
+UN MILLION DE PETITES FIBR
+
+53
+00:01:56,738 --> 00:01:56,882
+UN MILLION DE PETITES FIBRE
+
+54
+00:01:56,886 --> 00:01:57,653
+UN MILLION DE PETITES FIBRES
+
+55
+00:01:57,806 --> 00:02:01,061
+Par Towelie.
+
+56
+00:02:02,446 --> 00:02:05,570
+C'est une super idée.
+
+57
+00:02:15,317 --> 00:02:16,570
+Oui, je vois.
+
+58
+00:02:16,595 --> 00:02:19,153
+Une histoire fascinante,
+
+59
+00:02:19,186 --> 00:02:23,903
+une serviette avec un processeur
+pour détecter si l'on est sec.
+
+60
+00:02:23,925 --> 00:02:25,951
+Ouais et tout est vrai.
+
+61
+00:02:25,978 --> 00:02:30,893
+Les chapitres 4 à 8 ne parlent
+que de Doritos et de Chips.
+
+62
+00:02:30,945 --> 00:02:34,811
+Je suppose qu'on peut faire des coupes.
+
+63
+00:02:34,848 --> 00:02:35,771
+Pas la peine.
+
+64
+00:02:35,816 --> 00:02:37,601
+Je suis désolé de vous dire ça,
+
+65
+00:02:37,607 --> 00:02:40,070
+mais personne ne publiera vos mémoires.
+
+66
+00:02:40,145 --> 00:02:41,972
+Pourquoi ?
+
+67
+00:02:42,025 --> 00:02:44,091
+C'est juste un détail...
+
+68
+00:02:44,098 --> 00:02:47,971
+les gens ne s'intéressent pas aux
+autobiographies de serviettes.
+
+69
+00:02:47,975 --> 00:02:50,710
+Mais les gens peuvent lire mes mémoires
+
+70
+00:02:50,716 --> 00:02:54,010
+et appliquer les leçons
+dans leur propre vie.
+
+71
+00:02:54,045 --> 00:02:57,120
+Non. Parce que ce sont des gens.
+
+72
+00:02:57,138 --> 00:02:58,791
+Et que vous êtes une serviette.
+
+73
+00:02:59,115 --> 00:03:00,682
+C'est toi la serviette !
+
+74
+00:03:00,695 --> 00:03:05,853
+Non, je suis un gros éditeur qui n'est pas
+intéressé par vos mémoires de drogué.
+
+75
+00:03:05,857 --> 00:03:07,321
+Vous êtes une serviette.
+
+76
+00:03:11,485 --> 00:03:13,112
+Que vais-je faire ?
+
+77
+00:03:13,126 --> 00:03:17,410
+Je dois payer le loyer et j'ai passé
+3 semaines à écrire mes mémoires.
+
+78
+00:03:17,417 --> 00:03:21,121
+Il faut que j'arrête d'être irresponsable.
+
+79
+00:03:21,125 --> 00:03:25,631
+Je dois me reprendre et
+trouver de vraies solutions.
+
+80
+00:03:25,695 --> 00:03:27,983
+Je ferais bien de m'en fumer un petit.
+
+81
+00:03:28,828 --> 00:03:30,303
+Peut-être pas.
+
+82
+00:03:30,408 --> 00:03:32,340
+Mais tu dois réfléchir vite,
+
+83
+00:03:32,395 --> 00:03:35,072
+et  planer te rend plus malin.
+
+84
+00:03:35,077 --> 00:03:40,202
+Je vais utiliser mes super pouvoirs
+de défoncé une fois de plus.
+
+85
+00:03:45,915 --> 00:03:48,661
+Attends un peu, bien sûr !
+
+86
+00:03:48,668 --> 00:03:51,803
+C'est ça ! Pourquoi je n'y ai
+pas pensé plus tôt !
+
+87
+00:03:56,455 --> 00:04:00,520
+<i>Toute ma vie j'ai été une serviette irresponsable.</i>
+
+88
+00:04:00,535 --> 00:04:02,923
+<i>"une personne"</i>
+
+89
+00:04:03,145 --> 00:04:07,731
+<i>Je pensais que j'étais plus fort
+que les autres serviettes.</i>
+
+90
+00:04:08,815 --> 00:04:11,251
+<i>"gens"</i>
+
+91
+00:04:11,436 --> 00:04:14,472
+C'est une super idée.
+
+92
+00:04:18,695 --> 00:04:19,723
+Mon Dieu.
+
+93
+00:04:19,805 --> 00:04:24,203
+Je ne peux croire qu'un être humain
+ait pu vivre cette vie, M. euh...
+
+94
+00:04:24,257 --> 00:04:27,110
+Mc Towelie. Steven Mc Towelie.
+
+95
+00:04:27,135 --> 00:04:29,861
+Certains passages brisent le coeur, comme:
+
+96
+00:04:29,876 --> 00:04:34,750
+<i>"Je suis une personne qui est souvent
+suspendu pour sécher tout autour de moi."</i>
+
+97
+00:04:34,755 --> 00:04:37,350
+Notre compagnie serait honorée de publier ce livre.
+
+98
+00:04:37,397 --> 00:04:39,760
+J'ai juste une petite question.
+
+99
+00:04:39,765 --> 00:04:42,561
+Vous n'êtes pas une serviette ?
+
+100
+00:04:43,745 --> 00:04:48,350
+Non, si j'étais une serviette,
+pourquoi porterais-je un chapeau ?
+
+101
+00:04:48,356 --> 00:04:49,771
+Et une fausse moustache ?
+
+102
+00:04:49,788 --> 00:04:51,401
+Oui désolé.
+
+103
+00:04:51,417 --> 00:04:55,243
+Bien Steven, si ça vous convient,
+je vais téléphoner aux avocats.
+
+104
+00:04:55,275 --> 00:04:56,523
+On fait affaire, Monsieur.
+
+105
+00:04:56,576 --> 00:04:57,673
+Super !
+
+106
+00:05:03,605 --> 00:05:05,100
+Merci beaucoup.
+
+107
+00:05:06,508 --> 00:05:10,571
+Parfois, je tombe sur un livre si honnête
+
+108
+00:05:10,575 --> 00:05:14,401
+et si touchant, qu'il change ma vie.
+
+109
+00:05:14,445 --> 00:05:18,842
+"Un Million De Petites Fibres" est l'histoire vraie d'un homme,
+
+110
+00:05:18,865 --> 00:05:21,502
+né dans un laboratoire.
+
+111
+00:05:21,535 --> 00:05:25,573
+Veuillez accueillir l'auteur Steven Mc Towelie.
+
+112
+00:05:29,406 --> 00:05:32,640
+Steven, quand j'ai lu votre livre, j'ai pensé :
+
+113
+00:05:32,646 --> 00:05:38,350
+Comment un être humain peut-il
+traverser tout ça et s'en sortir ?
+
+114
+00:05:38,356 --> 00:05:42,382
+Je suppose que je suis une serv...
+une personne spéciale.
+
+115
+00:05:42,386 --> 00:05:46,733
+Vous dîtes dans votre livre que vous
+passiez des journées suspendu à un cintre
+
+116
+00:05:46,786 --> 00:05:49,173
+Comment avez-vous vécu ça ?
+
+117
+00:05:49,177 --> 00:05:55,413
+Vous avez tellement souffert, et je
+pense que toute l'Amérique...
+
+118
+00:05:55,468 --> 00:05:57,242
+Bon Dieu, c'est reparti.
+
+119
+00:05:57,245 --> 00:06:00,251
+Elle parle de la vie des autres
+et ne s'arrête plus.
+
+120
+00:06:00,255 --> 00:06:03,143
+Elle ne s'est pas occupée de moi depuis des années.
+
+121
+00:06:03,146 --> 00:06:06,430
+...une vie qui est remontée dès qu'elle touchait le fond...
+
+122
+00:06:06,436 --> 00:06:08,810
+Personne ne sait ce que c'est d'être la chatte d'Oprah.
+
+123
+00:06:08,817 --> 00:06:10,331
+Elle ne fait que travailler.
+
+124
+00:06:10,335 --> 00:06:13,140
+Elle ne frotte jamais la bonne vieille
+chatte de temps à autres.
+
+125
+00:06:13,146 --> 00:06:14,691
+Une chatte a besoin d'attention.
+
+126
+00:06:14,707 --> 00:06:16,920
+Au moins la gratter de temps en temps.
+
+127
+00:06:17,016 --> 00:06:19,603
+Steven,  votre livre ne s'est pas encore bien vendu,
+
+128
+00:06:19,607 --> 00:06:22,061
+mais j'ai de bonnes nouvelles pour vous !
+
+129
+00:06:22,066 --> 00:06:25,113
+Fut un temps, Oprah jouait avec moi jour et nuit.
+
+130
+00:06:25,136 --> 00:06:27,620
+Elle me caressait pendant des heures avec tous ses doigts.
+
+131
+00:06:27,627 --> 00:06:30,251
+Maintenant, je reste là dans le noir,
+
+132
+00:06:30,255 --> 00:06:32,392
+je ne vois plus un doigt !
+
+133
+00:06:32,397 --> 00:06:33,482
+Je devrais écrire un livre.
+
+134
+00:06:33,487 --> 00:06:35,653
+Il serait plus déprimant que le sien.
+
+135
+00:06:35,668 --> 00:06:41,432
+Steven, votre livre est officiellement mon Livre Du Mois !
+
+136
+00:06:41,457 --> 00:06:42,700
+Vraiment ?
+
+137
+00:06:43,516 --> 00:06:47,342
+Je vais devenir super riche !
+
+138
+00:07:11,255 --> 00:07:15,750
+OK. Ecoutez, on peut peut-être l'inviter le 19.
+
+139
+00:07:15,758 --> 00:07:19,233
+John Travolta est libre la semaine d'après ?
+
+140
+00:07:19,276 --> 00:07:22,400
+Ca sera mieux, c'est la semaine des audiences.
+
+141
+00:07:22,407 --> 00:07:23,843
+J'en peux plus.
+
+142
+00:07:23,846 --> 00:07:26,213
+Elle ne fait que travailler, travailler, travailler,
+
+143
+00:07:26,288 --> 00:07:28,270
+et elle ne s'occupe plus de la vieille chatte.
+
+144
+00:07:28,272 --> 00:07:30,997
+Toujours piégé dans ce pantalon.
+
+145
+00:07:30,990 --> 00:07:33,648
+Je veux de l'attention !
+Je me fais chier !
+
+146
+00:07:33,649 --> 00:07:37,274
+Arrête de te plaindre !
+J'essaie de dormir !
+
+147
+00:07:37,306 --> 00:07:39,360
+C'est toi Gary ?
+
+148
+00:07:39,378 --> 00:07:40,501
+Oui, c'est moi.
+
+149
+00:07:40,566 --> 00:07:42,132
+Tu n'as pas à te plaindre.
+
+150
+00:07:42,137 --> 00:07:45,110
+Oprah ne s'est pas occupée
+de moi depuis des années.
+
+151
+00:07:45,118 --> 00:07:47,771
+Qu'est-ce que ça peut faire ?
+Tu es un trou du cul.
+
+152
+00:07:47,787 --> 00:07:50,793
+Je suis un vagin !
+J'ai besoin de stimulation.
+
+153
+00:07:50,797 --> 00:07:53,660
+Les trous du cul ont besoin de stimulation aussi, enfoiré !
+
+154
+00:07:53,665 --> 00:07:55,991
+Je veux voyager. Je veux voir Paris.
+
+155
+00:07:56,007 --> 00:07:58,261
+Je pensais que ça irait mieux,
+
+156
+00:07:58,288 --> 00:07:59,931
+mais Oprah est toujours occupée.
+
+157
+00:07:59,938 --> 00:08:02,750
+Toujours du travail, au régime puis plus au régime.
+
+158
+00:08:02,756 --> 00:08:06,481
+J'ai vomi des tonnes de gâteau au 
+chocolat et de mauvaises herbes.
+
+159
+00:08:06,486 --> 00:08:07,711
+Elle est accroc au travail.
+
+160
+00:08:07,717 --> 00:08:12,433
+Il faut qu'elle arrête de travailler
+pour qu'on ait de l'attention.
+
+161
+00:08:12,455 --> 00:08:13,761
+Ca n'arrivera jamais.
+
+162
+00:08:13,768 --> 00:08:15,511
+A moins qu'elle soit virée.
+
+163
+00:08:15,546 --> 00:08:18,451
+Virée ? Tu as un plan ?
+
+164
+00:08:18,458 --> 00:08:20,573
+Ce gars de l'émission d'aujourd'hui,
+
+165
+00:08:20,598 --> 00:08:24,310
+Celui qu'elle soutenait. Ce n’est pas un gars.
+
+166
+00:08:24,368 --> 00:08:26,013
+C'est une serviette.
+
+167
+00:08:26,017 --> 00:08:27,561
+Comment tu sais ça ?
+
+168
+00:08:27,567 --> 00:08:30,422
+Je suis un vagin. Les vagins reconnaissent
+les serviettes quand ils en voient.
+
+169
+00:08:30,426 --> 00:08:33,692
+Si on prouve que le champion d'Oprah est une serviette,
+
+170
+00:08:33,705 --> 00:08:35,163
+elle sera ridicule.
+
+171
+00:08:35,206 --> 00:08:38,062
+Ses fans la quitteront par millions.
+
+172
+00:08:38,085 --> 00:08:39,343
+Comment va-t-on faire ?
+
+173
+00:08:39,345 --> 00:08:40,873
+Quelqu'un le fera pour nous.
+
+174
+00:08:40,876 --> 00:08:44,093
+Le plus grand journaliste d'investigation de notre temps.
+
+175
+00:08:46,208 --> 00:08:47,111
+M. Rivera.
+
+176
+00:08:47,176 --> 00:08:48,352
+Qu'y a-t-il, Dimitri ?
+
+177
+00:08:48,358 --> 00:08:50,233
+Il y a quelqu'un au téléphone pour vous.
+
+178
+00:08:50,246 --> 00:08:53,730
+Il dit avoir une information pour discréditer Oprah Winfrey.
+
+179
+00:08:56,287 --> 00:08:57,953
+Allo, c'est Geraldo.
+
+180
+00:08:57,958 --> 00:08:59,261
+Bonjour Geraldo.
+
+181
+00:08:59,265 --> 00:09:02,410
+J'ai des infos pour vous.
+
+182
+00:09:02,448 --> 00:09:05,551
+Ca pourrait ridiculiser Oprah Winfrey.
+
+183
+00:09:05,568 --> 00:09:06,781
+Qui est à l'appareil ?
+
+184
+00:09:06,798 --> 00:09:08,831
+Il veut savoir à qui il parle.
+
+185
+00:09:08,838 --> 00:09:12,161
+Disons que je suis un proche d'Oprah.
+
+186
+00:09:12,165 --> 00:09:14,581
+Vous aimeriez la discréditer, n'est-ce pas ?
+
+187
+00:09:14,587 --> 00:09:16,091
+Quelles informations avez-vous ?
+
+188
+00:09:16,116 --> 00:09:17,123
+Qu'est-ce qu'il a dit ?
+
+189
+00:09:17,185 --> 00:09:19,492
+Il veut savoir ce que l'on sait.
+
+190
+00:09:19,498 --> 00:09:22,783
+Dis-moi ce qu'il te dit !
+N'attends pas que je te le demande !
+
+191
+00:09:22,785 --> 00:09:24,541
+Tu me fais perdre du temps !
+
+192
+00:09:24,557 --> 00:09:26,232
+Ne  sois pas arrogant avec moi !
+
+193
+00:09:26,247 --> 00:09:29,472
+Ce n’est pas moi qui ai parlé, c'est Geraldo !
+
+194
+00:09:29,477 --> 00:09:30,861
+Que se passe-t-il ?
+
+195
+00:09:30,867 --> 00:09:32,710
+Gary, ça ne marche pas. On échange.
+
+196
+00:09:32,728 --> 00:09:33,973
+J'écoute et tu parles.
+
+197
+00:09:35,836 --> 00:09:37,122
+Allo ?
+
+198
+00:09:37,257 --> 00:09:38,433
+Qui est-ce ?
+
+199
+00:09:38,465 --> 00:09:39,520
+Gary.
+
+200
+00:09:39,528 --> 00:09:41,411
+Gary comment ? Quel est votre nom ?
+
+201
+00:09:41,418 --> 00:09:42,813
+Ne le lui dis pas.
+
+202
+00:09:42,818 --> 00:09:44,162
+Personne ne doit savoir qui nous sommes.
+
+203
+00:09:44,166 --> 00:09:48,590
+Vous avez juste besoin de savoir
+que je ne suis pas le trou du cul d'Oprah.
+
+204
+00:09:48,597 --> 00:09:50,061
+Abruti !
+
+205
+00:09:50,065 --> 00:09:52,042
+Ne me traitez pas d'abruti, Geraldo !
+
+206
+00:09:52,056 --> 00:09:54,021
+Ce  n'est pas lui, c'est moi !
+
+207
+00:09:54,076 --> 00:09:55,541
+Dis le lui, c'est tout.
+
+208
+00:09:56,106 --> 00:10:01,281
+L'auteur  du Livre du Mois d'Oprah est un menteur.
+
+209
+00:10:01,286 --> 00:10:04,383
+Ce n'est pas une personne,
+c'est une serviette.
+
+210
+00:10:04,405 --> 00:10:08,610
+Une serviette, qui parle ?
+Ca n'a aucun sens.
+
+211
+00:10:08,618 --> 00:10:11,000
+Dis lui qu'il serait surpris des choses qui peuvent parler.
+
+212
+00:10:11,015 --> 00:10:13,640
+Vous seriez surpris des choses qui peuvent parler.
+
+213
+00:10:13,647 --> 00:10:15,873
+Avez-vous des preuves ?
+
+214
+00:10:15,886 --> 00:10:19,080
+Enquêtez sur l'auteur d'Un
+Million de Petites Fibres,
+
+215
+00:10:19,097 --> 00:10:20,933
+et vous découvrirez la vérité.
+
+216
+00:10:20,955 --> 00:10:22,512
+Comment vais-je faire ?
+
+217
+00:10:23,155 --> 00:10:25,642
+Allo ? Allo ?
+
+218
+00:10:26,206 --> 00:10:28,711
+En direct avec Larry King.
+
+219
+00:10:28,727 --> 00:10:31,561
+Mon invité est Steven Mc Towelie,
+
+220
+00:10:31,565 --> 00:10:34,231
+auteur du livre, "Un Million de Petites Fibres"
+
+221
+00:10:34,278 --> 00:10:35,980
+Comment allez-vous Steven ?
+
+222
+00:10:35,986 --> 00:10:38,693
+Et bien Larry, je suis un peu défoncé.
+
+223
+00:10:38,705 --> 00:10:41,280
+Votre livre a aidé beaucoup de gens
+à vaincre leur addiction.
+
+224
+00:10:41,286 --> 00:10:42,271
+Pourquoi l'avez-vous écrit ?
+
+225
+00:10:42,277 --> 00:10:46,253
+J'ai juste écrit mes mémoires et...
+
+226
+00:10:46,256 --> 00:10:48,712
+Quoi ? Excusez-moi Steven.
+
+227
+00:10:48,737 --> 00:10:51,011
+Nous avons un reportage spécial.
+
+228
+00:10:51,047 --> 00:10:54,671
+En direct d'Afghanistan, Geraldo Rivera.
+
+229
+00:10:55,477 --> 00:10:58,633
+Larry ? Vous me recevez ?
+
+230
+00:10:58,706 --> 00:11:01,111
+Oui. Nous sommes en direct, Geraldo.
+
+231
+00:11:01,117 --> 00:11:04,993
+Larry, ce courageux reporter a enquêté pendant des jours,
+
+232
+00:11:05,028 --> 00:11:08,063
+et j'ai découvert
+l'horrible vérité qui
+
+233
+00:11:08,068 --> 00:11:10,943
+va trouer le cul
+du monde littéraire.
+
+234
+00:11:10,985 --> 00:11:14,262
+Steven Mc Towelie, auteur d'Un Million de Petites Fibres
+
+235
+00:11:14,267 --> 00:11:16,140
+est une serviette !
+
+236
+00:11:16,208 --> 00:11:18,532
+C'est toi la serviette !
+
+237
+00:11:18,588 --> 00:11:20,702
+Non, c'est vous la serviette.
+
+238
+00:11:20,718 --> 00:11:22,672
+Vous êtes une saloperie de serviette mexicaine !
+
+239
+00:11:22,677 --> 00:11:23,793
+Qu'avez-vous dit ?
+
+240
+00:11:23,807 --> 00:11:26,091
+Désolé, je suis défoncé.
+
+241
+00:11:26,107 --> 00:11:28,002
+Ca se présente mal.
+
+242
+00:11:28,105 --> 00:11:31,113
+Vos fans pensent que vous savez tout et voyez tout,
+
+243
+00:11:31,117 --> 00:11:34,601
+et vous venez de passer 2 semaines
+à supporter une serviette raciste.
+
+244
+00:11:34,618 --> 00:11:38,081
+Il a réussi ! Geraldo a la preuve !
+
+245
+00:11:38,086 --> 00:11:41,773
+Oprah est salie !
+Elle va devoir démissionner !
+
+246
+00:11:41,825 --> 00:11:43,853
+C'est le début d'une nouvelle vie, Gary.
+
+247
+00:11:43,855 --> 00:11:47,580
+Sans sa carrière à gérer, Oprah va voyager dans le monde !
+
+248
+00:11:47,786 --> 00:11:49,550
+Elle va profiter de la vie !
+
+249
+00:11:49,557 --> 00:11:52,720
+Elle va passer des heures à jouer avec sa chatte !
+
+250
+00:11:52,777 --> 00:11:54,531
+Et avec son Gary ?
+
+251
+00:11:54,535 --> 00:11:57,311
+Bien sûr.
+On a réussi, mon petit pote !
+
+252
+00:11:57,317 --> 00:11:59,630
+Oprah, on doit faire quelque chose.
+
+253
+00:11:59,676 --> 00:12:00,703
+Où est le problème ?
+
+254
+00:12:00,728 --> 00:12:02,251
+Son livre a aidé des gens.
+
+255
+00:12:02,288 --> 00:12:04,360
+Ca n'est pas grave si il a inventé des choses.
+
+256
+00:12:04,368 --> 00:12:06,700
+Les gens ne vont pas être si en colère.
+
+257
+00:12:12,938 --> 00:12:15,152
+Ton livre m'a fait arrêter de boire,
+
+258
+00:12:15,157 --> 00:12:17,132
+mais je croyais que tu étais une personne !
+
+259
+00:12:17,676 --> 00:12:20,110
+Rembourse-nous, sale serviette !
+
+260
+00:12:21,355 --> 00:12:25,983
+¡No insultar Mexicanos! ¿Oye?
+
+261
+00:12:25,998 --> 00:12:29,090
+Je suis vraiment dans le pétrin.
+
+262
+00:12:30,928 --> 00:12:32,010
+Allo ?
+
+263
+00:12:32,288 --> 00:12:33,870
+Steven, c'est Oprah.
+
+264
+00:12:33,917 --> 00:12:36,091
+Peux-tu venir dans mon émission demain ?
+
+265
+00:12:36,207 --> 00:12:37,231
+Pourquoi ?
+
+266
+00:12:37,325 --> 00:12:39,293
+On doit dire au public
+pourquoi vous avez
+
+267
+00:12:39,297 --> 00:12:41,221
+changé certains faits
+dans votre livre,
+
+268
+00:12:41,225 --> 00:12:42,670
+que vous pensiez que
+c'était nécessaire
+
+269
+00:12:42,675 --> 00:12:43,893
+pour améliorer
+certaines choses,
+
+270
+00:12:43,916 --> 00:12:46,662
+pour que le livre touche plus les gens.
+
+271
+00:12:47,185 --> 00:12:48,771
+Ouais.
+
+272
+00:12:48,906 --> 00:12:51,923
+Venez à l'émission et expliquez la tête haute
+
+273
+00:12:51,925 --> 00:12:55,931
+pourquoi changer quelques faits
+n'est pas grave si ça aide les gens.
+
+274
+00:12:55,988 --> 00:12:57,070
+OK.
+
+275
+00:12:57,076 --> 00:13:00,012
+Merci Oprah, tu es une vraie amie.
+
+276
+00:13:00,128 --> 00:13:01,390
+A demain.
+
+277
+00:13:01,405 --> 00:13:04,453
+C'est ma chance.
+
+278
+00:13:04,457 --> 00:13:07,003
+Je dois me concentrer et
+trouver ce que je vais dire.
+
+279
+00:13:07,006 --> 00:13:08,880
+Je devrais me fumer un petit joint.
+
+280
+00:13:08,916 --> 00:13:10,741
+Non ! Attends un peu !
+
+281
+00:13:10,747 --> 00:13:12,551
+Je ne vais pas me défoncer cette fois.
+
+282
+00:13:12,555 --> 00:13:17,320
+Allez, tu dois avoir des idées pour parler à Oprah.
+
+283
+00:13:17,366 --> 00:13:21,101
+Les idées que j'ai quand je suis défoncé
+ne m'apportent que des ennuis.
+
+284
+00:13:21,117 --> 00:13:25,392
+C'est pour ça qu'il faut que
+tu sois un peu défoncé seulement.
+
+285
+00:13:25,397 --> 00:13:28,433
+Ouais, juste planer un peu.
+
+286
+00:13:32,978 --> 00:13:35,900
+Aujourd'hui, mon invité est encore Steven Mc Towelie,
+
+287
+00:13:35,908 --> 00:13:37,950
+dont nombre d'entre vous
+ont acheté les mémoires
+
+288
+00:13:37,968 --> 00:13:39,872
+après que j'en ai
+fait le Livre du mois.
+
+289
+00:13:42,185 --> 00:13:44,742
+Tu entends, Gary ? Personne n'applaudit.
+
+290
+00:13:44,755 --> 00:13:47,750
+Ils sont tous en colère. Super !
+
+291
+00:13:47,828 --> 00:13:52,491
+Votre nom n'est pas Steven
+mais Towelie, n'est-ce pas ?
+
+292
+00:13:52,495 --> 00:13:53,461
+Ouais.
+
+293
+00:13:53,506 --> 00:13:55,041
+Et vous êtes une serviette.
+
+294
+00:13:55,048 --> 00:13:57,843
+Oui, je suis plus ou moins une serviette.
+
+295
+00:13:57,885 --> 00:14:01,760
+Pouvez-vous expliquer au public
+pourquoi avoir caché ça ?
+
+296
+00:14:01,825 --> 00:14:08,400
+Bien Oprah, euh.. c'est comme pour... euh...
+
+297
+00:14:08,447 --> 00:14:10,630
+Pensiez-vous qu'embellir
+les choses n'étaient
+
+298
+00:14:10,635 --> 00:14:12,450
+pas grave si vous
+aidiez les gens ?
+
+299
+00:14:12,477 --> 00:14:14,610
+Ouais, c'est ça.
+
+300
+00:14:14,658 --> 00:14:16,133
+Vous savez ce que je pense, Towelie ?
+
+301
+00:14:16,136 --> 00:14:19,503
+Je pense que vous êtes un sac à merde de menteur !
+
+302
+00:14:21,508 --> 00:14:24,201
+Vous avez menti à ces gens et pour quoi ?
+
+303
+00:14:24,266 --> 00:14:25,813
+Pour l'argent !
+
+304
+00:14:25,846 --> 00:14:28,580
+Ils ont acheté votre livre en pensant que c'était vrai !
+
+305
+00:14:28,596 --> 00:14:30,240
+- C'est vrai !
+- Ouais !
+
+306
+00:14:30,265 --> 00:14:31,261
+Mais je croyais que...
+
+307
+00:14:31,275 --> 00:14:34,960
+Comment osez-vous me mentir et me ridiculiser ?
+
+308
+00:14:34,965 --> 00:14:36,901
+Qu'est-ce qu'elle fait ?
+
+309
+00:14:36,907 --> 00:14:39,150
+Je ne comprends pas.
+
+310
+00:14:39,155 --> 00:14:41,700
+Vous pensez qu'écrire c'est une blague,
+stupide serviette !
+
+311
+00:14:41,707 --> 00:14:43,451
+Achève-le Oprah !
+
+312
+00:14:44,545 --> 00:14:46,643
+Vous ne vous en tirerez pas.
+
+313
+00:14:46,667 --> 00:14:48,642
+Elle ramène tout le monde dans son camp.
+
+314
+00:14:48,647 --> 00:14:50,373
+Maligne, la grosse vache.
+
+315
+00:14:50,376 --> 00:14:51,900
+Vous m'avez menti, Towelie !
+
+316
+00:14:51,916 --> 00:14:54,622
+Et donc vous avez menti à l'Amérique !
+
+317
+00:14:54,626 --> 00:14:57,291
+Et on va se révolter !
+
+318
+00:14:58,547 --> 00:15:02,703
+Le public est-il prêt pour un bon lynchage à l'ancienne ?
+
+319
+00:15:02,717 --> 00:15:04,271
+Ouais !
+
+320
+00:15:05,316 --> 00:15:10,410
+Public, regardez sous vos sièges,
+vous y trouverez vos torches.
+
+321
+00:15:13,176 --> 00:15:16,532
+Vagin, on va devoir attendre pour aller à Paris ?
+
+322
+00:15:16,535 --> 00:15:19,420
+Il n'y aura pas de Paris !
+Tu ne comprends pas, Gary ?
+
+323
+00:15:19,436 --> 00:15:22,150
+La grosse vache a retourné tout le monde !
+
+324
+00:15:22,165 --> 00:15:23,982
+Elle va travailler encore plus !
+
+325
+00:15:23,987 --> 00:15:25,330
+Notre plan est foutu !
+
+326
+00:15:25,335 --> 00:15:26,301
+Non !
+
+327
+00:15:26,377 --> 00:15:30,243
+On vous donne 5 secondes d'avance. 1... 2...
+
+328
+00:15:31,257 --> 00:15:32,522
+Rattrapons-le !
+
+329
+00:15:33,158 --> 00:15:36,140
+Brûlez-le ! Brûlez la serviette !
+
+330
+00:15:36,146 --> 00:15:38,640
+Brûlez ce qui ment à Oprah !
+
+331
+00:15:49,308 --> 00:15:51,831
+On dirait que ton heure est venue, Towelie !
+
+332
+00:15:51,835 --> 00:15:54,583
+J'ai mené mon armée de fans à toi !
+
+333
+00:15:54,707 --> 00:15:56,753
+Bien joué Oprah !
+
+334
+00:15:57,657 --> 00:15:59,642
+J'ai montré à mes fans que...
+
+335
+00:16:00,786 --> 00:16:02,352
+Quoi ?
+
+336
+00:16:03,345 --> 00:16:05,763
+Très bien ! Tout le monde recule !
+
+337
+00:16:05,766 --> 00:16:07,203
+On recule, j'ai dit !
+
+338
+00:16:11,637 --> 00:16:13,451
+Bordel, c'est quoi ça ?
+
+339
+00:16:13,495 --> 00:16:15,741
+Personne ne bouge,
+personne ne sera blessé.
+
+340
+00:16:15,748 --> 00:16:17,842
+Vagin, que fais-tu ?
+
+341
+00:16:17,846 --> 00:16:20,230
+Je nous sors de là Gary.
+D'une façon ou d'une autre !
+
+342
+00:16:21,535 --> 00:16:23,581
+Que se passe-t-il ?
+
+343
+00:16:23,586 --> 00:16:28,360
+La ferme, misérable vieille vache !
+Ou je t'explose le crâne !
+
+344
+00:16:28,365 --> 00:16:32,873
+Je veux un hélico !
+Compris ? Et un jet à l'aéroport !
+
+345
+00:16:32,875 --> 00:16:35,541
+Tu as perdu la tête !
+
+346
+00:16:35,546 --> 00:16:38,821
+Allons, Gary. Tu as toujours voulu voir Paris.
+
+347
+00:16:38,825 --> 00:16:42,620
+Pas comme ça, vagin, pas comme ça.
+
+348
+00:16:42,716 --> 00:16:44,042
+C'est fini maintenant.
+
+349
+00:16:44,048 --> 00:16:45,422
+Baisse ton arme.
+
+350
+00:16:45,518 --> 00:16:46,852
+Reste là, mon pote !
+
+351
+00:16:46,878 --> 00:16:48,312
+Lâche le flingue et écarte-toi.
+
+352
+00:16:48,316 --> 00:16:49,710
+Je te préviens...
+
+353
+00:16:49,748 --> 00:16:51,100
+Baisse ton...
+
+354
+00:16:53,548 --> 00:16:56,620
+Bon dieu. Tu l'as tué !
+
+355
+00:16:56,746 --> 00:16:58,532
+Tu lui as tiré dessus !
+
+356
+00:16:58,536 --> 00:17:00,332
+C'est le point de non-retour, Gary.
+
+357
+00:17:00,458 --> 00:17:03,342
+Je vais être malade.
+
+358
+00:17:03,387 --> 00:17:04,432
+Retiens-toi, Gary.
+
+359
+00:17:04,458 --> 00:17:07,563
+Je ne peux pas, je vais vomir.
+
+360
+00:17:10,246 --> 00:17:11,740
+Ca sent mauvais.
+
+361
+00:17:11,746 --> 00:17:13,772
+Je vais vomir aussi.
+
+362
+00:17:17,205 --> 00:17:19,600
+Essaie de partir et je te tue aussi !
+
+363
+00:17:19,608 --> 00:17:22,910
+Vous n'allez nulle part avant qu'on ait eu ce qu'on veut.
+
+364
+00:17:23,018 --> 00:17:24,922
+Que va-t-on faire ?
+
+365
+00:17:24,968 --> 00:17:27,263
+Tu nous as entraîné là-dedans, serviette.
+Pense à quelque chose.
+
+366
+00:17:27,276 --> 00:17:29,692
+Ok, je vais m'en fumer un petit.
+
+367
+00:17:31,037 --> 00:17:33,883
+Non ! Je ne vais pas me défoncer !
+
+368
+00:17:33,887 --> 00:17:36,023
+Chaque fois que je
+plane, j'ai des idées
+
+369
+00:17:36,028 --> 00:17:38,101
+qui me mettent encore
+plus dans le pétrin.
+
+370
+00:17:38,105 --> 00:17:40,483
+Je ne vais pas me défoncer.
+
+371
+00:17:45,655 --> 00:17:49,142
+Je suis dans le quartier d'affaire de Chicago,
+
+372
+00:17:49,155 --> 00:17:52,040
+où le vagin d'Oprah a tué un officier de police
+
+373
+00:17:52,048 --> 00:17:53,940
+et a pris plusieurs personnes en otage.
+
+374
+00:17:53,956 --> 00:17:56,303
+C'est à confirmer
+mais il est possible
+
+375
+00:17:56,307 --> 00:17:58,831
+que le trou du cul
+d'Oprah soit complice.
+
+376
+00:18:01,185 --> 00:18:03,521
+J'ai le talkie-walkie.
+
+377
+00:18:03,635 --> 00:18:04,910
+Mettez-le sous moi.
+
+378
+00:18:05,287 --> 00:18:07,523
+Doucement, mon pote, doucement.
+
+379
+00:18:08,086 --> 00:18:09,630
+Recule.
+
+380
+00:18:11,218 --> 00:18:13,460
+Appuie sur le bouton Gary.
+
+381
+00:18:14,045 --> 00:18:15,451
+Ici, la chatte d'Oprah.
+
+382
+00:18:15,778 --> 00:18:18,411
+Je suis le Lieutenant Nelson.
+Quelles sont vos demandes ?
+
+383
+00:18:18,437 --> 00:18:22,541
+Je veux un hélico, et un jet à l'aéroport
+pour nous emmener en France.
+
+384
+00:18:22,547 --> 00:18:24,613
+Et on a besoin d'un slip propre d'urgence.
+
+385
+00:18:24,617 --> 00:18:27,953
+Ok, les sous vêtements propres contre un otage.
+
+386
+00:18:27,955 --> 00:18:29,773
+On ne joue pas, mon pote.
+
+387
+00:18:29,776 --> 00:18:31,682
+Gary se noie dans son vomi.
+
+388
+00:18:31,686 --> 00:18:34,462
+On y travaille. Ne faites rien de stupide.
+
+389
+00:18:34,496 --> 00:18:37,710
+On a peu de temps, c'est le vagin le
+plus instable auquel j'ai parlé.
+
+390
+00:18:37,717 --> 00:18:39,101
+O'Reilly, vous avez un angle de tir ?
+
+391
+00:18:39,116 --> 00:18:40,281
+Oui.
+
+392
+00:18:41,807 --> 00:18:44,491
+Pas avec les otages si proches !
+C'est trop risqué.
+
+393
+00:18:44,546 --> 00:18:46,592
+Lâche le flingue, Vagin.
+
+394
+00:18:46,596 --> 00:18:48,362
+Ils  seront peut-être sympas avec nous.
+
+395
+00:18:48,377 --> 00:18:51,223
+Ne soit pas stupide, Gary.
+J'ai tué un flic.
+
+396
+00:18:51,286 --> 00:18:54,030
+Ils vont me faire frire et ils t'enfermeront à vie.
+
+397
+00:18:54,076 --> 00:18:56,851
+Vagin... J'ai peur.
+
+398
+00:18:56,908 --> 00:18:59,213
+On va s'en sortir, mon pote.
+Laisse-moi faire.
+
+399
+00:18:59,216 --> 00:19:01,652
+Le vagin d'Oprah, c'est votre dernier avertissement !
+
+400
+00:19:01,655 --> 00:19:02,912
+Lâchez votre arme.
+
+401
+00:19:02,945 --> 00:19:05,931
+Si l'hélico n'est pas là dans 2 minutes, je tue un otage.
+
+402
+00:19:06,978 --> 00:19:08,690
+Attends un peu.
+
+403
+00:19:20,157 --> 00:19:23,913
+Je suis sérieux ! Les otages vont
+mourir si vous n'écoutez pas.
+
+404
+00:19:26,126 --> 00:19:27,463
+Les otages sont libres.
+
+405
+00:19:27,546 --> 00:19:29,292
+C'est bon, tire !
+
+406
+00:19:30,828 --> 00:19:31,730
+Qu'est-ce que...
+
+407
+00:19:31,787 --> 00:19:34,591
+Vous m'avez manqué, abrutis !
+
+408
+00:19:34,617 --> 00:19:36,960
+Tu vois, Gary ?
+Ils ne savent pas viser !
+
+409
+00:19:37,025 --> 00:19:40,201
+Vagin...
+
+410
+00:19:40,205 --> 00:19:41,600
+Gary, qu'est-ce qu'il y a ?
+
+411
+00:19:41,607 --> 00:19:43,132
+Ils m'ont eu, Vagin.
+
+412
+00:19:43,197 --> 00:19:45,011
+Non !
+
+413
+00:19:45,077 --> 00:19:49,832
+Ils m'ont bien eu. Ce sang...
+
+414
+00:19:49,847 --> 00:19:51,081
+Accroche-toi, Gary.
+
+415
+00:19:51,127 --> 00:19:53,381
+Je ne vois plus rien Vagin...
+
+416
+00:19:53,388 --> 00:19:56,012
+Dans quoi t'ai-je entraîné ?
+
+417
+00:19:56,085 --> 00:20:00,922
+Je vois ma vie défiler devant mes yeux. Vagin...
+
+418
+00:20:00,927 --> 00:20:02,063
+Je suis là Gary.
+
+419
+00:20:02,087 --> 00:20:06,151
+Où sommes-nous vagin ? A Paris ?
+
+420
+00:20:06,218 --> 00:20:09,540
+Ouais, on est à Paris, mon pote.
+
+421
+00:20:09,545 --> 00:20:12,660
+C'est aussi merveilleux que je l'espérais ?
+
+422
+00:20:12,667 --> 00:20:15,483
+C'est magnifique. On a réussi.
+
+423
+00:20:15,507 --> 00:20:17,313
+Dis-moi ce que tu vois, Vagin.
+
+424
+00:20:17,516 --> 00:20:20,603
+Il y a... la Tour Eiffel devant nous.
+
+425
+00:20:20,648 --> 00:20:22,933
+Le Louvre, juste derrière toi.
+
+426
+00:20:22,937 --> 00:20:25,443
+Et des baguettes fraîches partout.
+
+427
+00:20:26,807 --> 00:20:28,551
+Je peux les sentir Vagin.
+
+428
+00:20:28,616 --> 00:20:33,593
+Au moins j'aurais vu Paris avant de...
+
+429
+00:20:35,616 --> 00:20:38,153
+Gary, dis quelque chose.
+
+430
+00:20:39,548 --> 00:20:41,870
+Vous l'avez tué, espèce d'enfoirés !
+
+431
+00:20:41,878 --> 00:20:43,963
+Il ne voulait même pas faire partie de ça.
+
+432
+00:20:43,968 --> 00:20:46,172
+C'est ta faute grosse vache !
+
+433
+00:20:46,178 --> 00:20:49,572
+Tu ne t'es jamais occupé de Gary
+et maintenant il est parti !
+
+434
+00:20:49,587 --> 00:20:51,991
+La vie ne vaut plus le coup.
+
+435
+00:20:51,997 --> 00:20:55,301
+Ca ne sert à rien. Je te rejoins Gary.
+
+436
+00:20:55,305 --> 00:20:56,870
+Je viens te voir.
+
+437
+00:20:56,885 --> 00:20:58,640
+Non ! Pas ça !
+
+438
+00:21:07,996 --> 00:21:10,070
+Oprah va s'en sortir.
+
+439
+00:21:10,075 --> 00:21:13,441
+J'aimerais en dire autant de son vagin et de son trou du cul.
+
+440
+00:21:13,455 --> 00:21:17,013
+C'était une bonne idée d'emmener
+les otages dans la banque.
+
+441
+00:21:17,016 --> 00:21:18,170
+Oui, c'est sûr.
+
+442
+00:21:18,178 --> 00:21:20,520
+On est désolé d'avoir voulu te brûler et tuer avant.
+
+443
+00:21:20,638 --> 00:21:22,021
+C'est rien.
+
+444
+00:21:22,025 --> 00:21:24,023
+Tout ça c'est de ma faute.
+
+445
+00:21:24,027 --> 00:21:28,881
+J'ai appris que je ne devrais pas
+me défoncer pour avoir des idées.
+
+446
+00:21:29,017 --> 00:21:33,522
+Je devrais avoir des idées puis
+me défoncer pour me récompenser.
+
+447
+00:21:33,886 --> 00:21:36,041
+Bien dit.
+
+448
+00:21:37,037 --> 00:21:39,323
+Transcripts: www.spscriptorium.com
+Trad/Synchro: Fuck
+Corrections : Eyedol
+

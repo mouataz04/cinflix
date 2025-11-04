@@ -1,0 +1,1515 @@
+1
+00:00:04,453 --> 00:00:07,650  X1:208 X2:507 Y1:444 Y2:523
+This kitty is Mittens.
+This one is Fitzhugh.
+
+2
+00:00:07,813 --> 00:00:10,611  X1:167 X2:548 Y1:448 Y2:523
+And this little guy
+in the cat condo is Jinkies.
+
+3
+00:00:13,093 --> 00:00:15,891  X1:152 X2:563 Y1:482 Y2:523
+That's a lot of cats, Jo Lynn.
+
+4
+00:00:16,053 --> 00:00:17,122  X1:238 X2:478 Y1:482 Y2:523
+Single, are you?
+
+5
+00:00:19,933 --> 00:00:20,922  X1:249 X2:466 Y1:482 Y2:523
+Chandler Bing.
+
+6
+00:00:21,093 --> 00:00:24,563  X1:091 X2:625 Y1:444 Y2:523
+How come you're answering your own
+phone? Where's your crazy assistant?
+
+7
+00:00:28,253 --> 00:00:29,242  X1:236 X2:480 Y1:482 Y2:523
+What's up, Joe?
+
+8
+00:00:29,453 --> 00:00:31,489  X1:148 X2:568 Y1:444 Y2:523
+What have we always wanted
+to do together?
+
+9
+00:00:32,253 --> 00:00:35,165  X1:123 X2:594 Y1:448 Y2:523
+Braid each other's hair
+and ride horseback on the beach?
+
+10
+00:00:35,333 --> 00:00:37,642  X1:131 X2:587 Y1:444 Y2:523
+No. No. No. When you get home
+tomorrow night...
+
+11
+00:00:37,813 --> 00:00:41,044  X1:088 X2:627 Y1:444 Y2:523
+...you and I are gonna be
+at the Wizards-Knicks game, courtside!
+
+12
+00:00:41,253 --> 00:00:42,652  X1:182 X2:533 Y1:448 Y2:523
+-Courtside? Oh, my God!
+-Yeah!
+
+13
+00:00:42,853 --> 00:00:46,482  X1:078 X2:637 Y1:444 Y2:523
+Maybe Michael Jordan will dive for
+the ball and break my jaw with his knee!
+
+14
+00:00:46,733 --> 00:00:48,883  X1:103 X2:611 Y1:486 Y2:523
+That is so cool. I'll let Monica know.
+
+15
+00:00:52,453 --> 00:00:53,852  X1:233 X2:483 Y1:444 Y2:523
+-Hello?
+-Joey just called.
+
+16
+00:00:54,013 --> 00:00:56,925  X1:129 X2:588 Y1:442 Y2:523
+He's got courtside Knicks tickets
+for him and me tomorrow night.
+
+17
+00:00:57,133 --> 00:01:00,364  X1:111 X2:607 Y1:442 Y2:523
+But tomorrow night's the only night
+I get off from the restaurant.
+
+18
+00:01:00,533 --> 00:01:03,001  X1:160 X2:555 Y1:442 Y2:523
+If you go, we won't have
+a night together for a week.
+
+19
+00:01:03,173 --> 00:01:07,246  X1:124 X2:592 Y1:442 Y2:523
+But honey, it's courtside!
+The cheerleaders will be right in--
+
+20
+00:01:07,853 --> 00:01:10,162  X1:105 X2:609 Y1:482 Y2:523
+That's not the way to convince you.
+
+21
+00:01:10,333 --> 00:01:12,403  X1:178 X2:536 Y1:442 Y2:523
+I don't wanna be one
+of those wives that says:
+
+22
+00:01:12,573 --> 00:01:15,371  X1:120 X2:595 Y1:442 Y2:523
+"You can't go to the game.
+You have to spend time with me."
+
+23
+00:01:15,533 --> 00:01:17,808  X1:170 X2:547 Y1:444 Y2:523
+So if you could just realize
+it on your own....
+
+24
+00:01:18,853 --> 00:01:21,845  X1:206 X2:509 Y1:442 Y2:523
+I know. You're right.
+I wanna see you too.
+
+25
+00:01:22,013 --> 00:01:25,050  X1:107 X2:609 Y1:444 Y2:523
+I gotta figure out a way to tell Joey.
+He's looking forward to it.
+
+26
+00:01:25,213 --> 00:01:27,602  X1:178 X2:541 Y1:444 Y2:523
+Tell him you haven't seen
+your wife in a long time.
+
+27
+00:01:27,813 --> 00:01:31,488  X1:110 X2:606 Y1:444 Y2:523
+Tell him that having a long-distance
+relationship is really difficult.
+
+28
+00:01:31,653 --> 00:01:35,612  X1:150 X2:565 Y1:444 Y2:523
+Tell him that what little time
+we have together is precious.
+
+29
+00:01:36,933 --> 00:01:38,332  X1:197 X2:519 Y1:482 Y2:523
+I'll think of something.
+
+30
+00:01:41,013 --> 00:01:42,969  X1:095 X2:623 Y1:486 Y2:523
+The One With Rachel's Phone Number
+
+31
+00:02:22,653 --> 00:02:25,121  X1:266 X2:448 Y1:054 Y2:089
+You look....
+
+32
+00:02:26,213 --> 00:02:30,252  X1:222 X2:494 Y1:054 Y2:129
+I mean, it's just....
+That dress....
+
+33
+00:02:30,653 --> 00:02:33,247  X1:153 X2:561 Y1:054 Y2:133
+Well, I hope the ends
+of these sentences are good.
+
+34
+00:02:33,413 --> 00:02:36,485  X1:110 X2:606 Y1:054 Y2:134
+They're good. It's just been a while
+since I've seen you like this.
+
+35
+00:02:36,653 --> 00:02:38,564  X1:216 X2:498 Y1:054 Y2:094
+You clean up good.
+
+36
+00:02:39,293 --> 00:02:41,682  X1:186 X2:529 Y1:482 Y2:523
+Really? Well, thank you.
+
+37
+00:02:45,733 --> 00:02:47,530  X1:118 X2:597 Y1:054 Y2:094
+Okay, stop looking at me like that.
+
+38
+00:02:47,733 --> 00:02:50,486  X1:074 X2:642 Y1:444 Y2:523
+-Last time that happened, that happened.
+-Right, right.
+
+39
+00:02:55,853 --> 00:02:59,562  X1:123 X2:594 Y1:054 Y2:133
+So are you excited about
+your first night away from Emma?
+
+40
+00:02:59,733 --> 00:03:02,122  X1:152 X2:562 Y1:444 Y2:523
+Yeah, yeah. Phoebe and I
+are gonna have so much fun.
+
+41
+00:03:02,293 --> 00:03:05,091  X1:118 X2:598 Y1:054 Y2:128
+-Thank you for watching the baby.
+-It's fine.
+
+42
+00:03:05,253 --> 00:03:07,289  X1:155 X2:559 Y1:054 Y2:094
+Actually, I invited Mike over.
+
+43
+00:03:07,453 --> 00:03:08,442  X1:238 X2:480 Y1:054 Y2:129
+-Phoebe's Mike?
+-Yeah.
+
+44
+00:03:08,733 --> 00:03:10,644  X1:156 X2:559 Y1:448 Y2:523
+-I didn't know you hung out.
+-We don't...
+
+45
+00:03:10,853 --> 00:03:12,571  X1:126 X2:591 Y1:054 Y2:095
+...but I'd like to get to know him.
+
+46
+00:03:12,733 --> 00:03:15,566  X1:171 X2:546 Y1:054 Y2:130
+Maybe have a little dinner,
+drinks, conversation.
+
+47
+00:03:15,773 --> 00:03:18,367  X1:169 X2:547 Y1:054 Y2:129
+That's so cute.
+Ross and Mike's first date.
+
+48
+00:03:20,293 --> 00:03:22,807  X1:134 X2:582 Y1:444 Y2:523
+Will that be awkward?
+What are you gonna talk about?
+
+49
+00:03:23,013 --> 00:03:26,164  X1:097 X2:621 Y1:442 Y2:523
+I don't know. But you know, we have
+a lot in common, you know?
+
+50
+00:03:26,333 --> 00:03:29,245  X1:150 X2:565 Y1:444 Y2:523
+He plays piano.
+I played keyboards in college.
+
+51
+00:03:30,933 --> 00:03:34,369  X1:107 X2:609 Y1:442 Y2:523
+He's been divorced.
+I have some experience in that area.
+
+52
+00:03:36,453 --> 00:03:38,569  X1:300 X2:417 Y1:448 Y2:523
+-Yeah?
+-Hi!
+
+53
+00:03:41,333 --> 00:03:44,166  X1:193 X2:521 Y1:482 Y2:523
+Girl's night out indeed.
+
+54
+00:03:44,333 --> 00:03:46,688  X1:161 X2:557 Y1:444 Y2:523
+So I think Emma is probably
+down for the night...
+
+55
+00:03:46,853 --> 00:03:48,969  X1:155 X2:563 Y1:448 Y2:523
+-...but if you need anything--
+-We'll be fine.
+
+56
+00:03:49,133 --> 00:03:50,964  X1:227 X2:489 Y1:444 Y2:523
+-You go have fun.
+-Okay, you too.
+
+57
+00:03:51,133 --> 00:03:53,408  X1:194 X2:521 Y1:444 Y2:523
+-Thanks.
+-And I hope you score.
+
+58
+00:03:53,733 --> 00:03:56,042  X1:268 X2:447 Y1:444 Y2:523
+-Okay. Bye.
+-Bye.
+
+59
+00:03:56,213 --> 00:03:58,681  X1:254 X2:460 Y1:486 Y2:523
+So, welcome.
+
+60
+00:03:59,253 --> 00:04:02,484  X1:178 X2:537 Y1:444 Y2:523
+-I got beer.
+-I got bottled breast milk.
+
+61
+00:04:04,453 --> 00:04:07,126  X1:116 X2:599 Y1:442 Y2:523
+-Why don't we start with the beer.
+-Okay.
+
+62
+00:04:10,253 --> 00:04:14,724  X1:110 X2:606 Y1:448 Y2:523
+-So Phoebe tells me you play piano.
+-Yeah.
+
+63
+00:04:14,893 --> 00:04:17,566  X1:108 X2:608 Y1:444 Y2:523
+You know, I used to play keyboards
+in college.
+
+64
+00:04:18,053 --> 00:04:19,372  X1:194 X2:523 Y1:482 Y2:523
+Do you have one here?
+
+65
+00:04:20,933 --> 00:04:22,446  X1:322 X2:394 Y1:488 Y2:523
+No.
+
+66
+00:04:23,333 --> 00:04:25,449  X1:307 X2:409 Y1:482 Y2:523
+Okay.
+
+67
+00:04:41,733 --> 00:04:45,328  X1:183 X2:532 Y1:484 Y2:523
+You know, I'm divorced.
+
+68
+00:04:46,053 --> 00:04:48,567  X1:145 X2:572 Y1:448 Y2:523
+Phoebe-- Phoebe says you're--
+You've been divorced?
+
+69
+00:04:48,733 --> 00:04:50,849  X1:266 X2:449 Y1:482 Y2:523
+Yeah, yeah.
+
+70
+00:04:51,053 --> 00:04:53,806  X1:124 X2:593 Y1:448 Y2:523
+Yeah, I'm sorry. I don't really like
+to talk about it.
+
+71
+00:04:57,053 --> 00:05:00,443  X1:154 X2:564 Y1:442 Y2:523
+That's okay. We'll talk about
+something else.
+
+72
+00:05:08,933 --> 00:05:11,288  X1:122 X2:596 Y1:448 Y2:523
+-So you're a paleontologist, right?
+-Yeah.
+
+73
+00:05:11,453 --> 00:05:13,364  X1:153 X2:563 Y1:482 Y2:523
+My cousin's a paleontologist.
+
+74
+00:05:17,973 --> 00:05:21,852  X1:112 X2:604 Y1:448 Y2:523
+Well, he and I would probably have
+a lot to talk about.
+
+75
+00:05:27,013 --> 00:05:29,288  X1:223 X2:492 Y1:444 Y2:523
+-Welcome home.
+-Well, look at you.
+
+76
+00:05:29,453 --> 00:05:31,045  X1:174 X2:543 Y1:482 Y2:523
+Yeah. What do you think?
+
+77
+00:05:31,453 --> 00:05:33,364  X1:150 X2:566 Y1:482 Y2:523
+Well, it looks great. It's just--
+
+78
+00:05:33,533 --> 00:05:36,684  X1:166 X2:550 Y1:446 Y2:523
+I'm wearing the same thing
+underneath, so....
+
+79
+00:05:37,053 --> 00:05:39,248  X1:199 X2:518 Y1:488 Y2:523
+You see what I mean?
+
+80
+00:05:40,373 --> 00:05:43,683  X1:108 X2:610 Y1:482 Y2:523
+Hey! How come your door's locked?
+
+81
+00:05:43,853 --> 00:05:45,730  X1:243 X2:472 Y1:446 Y2:523
+-Just a second!
+-No, no, no!
+
+82
+00:05:45,893 --> 00:05:47,485  X1:167 X2:548 Y1:442 Y2:523
+-Joey can't know I'm here.
+-Why not?
+
+83
+00:05:47,653 --> 00:05:49,962  X1:163 X2:552 Y1:442 Y2:523
+I didn't want to say
+I couldn't go to the game...
+
+84
+00:05:50,133 --> 00:05:53,205  X1:094 X2:621 Y1:444 Y2:523
+-...so I told him I had to stay in Tulsa.
+-So you lied to him?
+
+85
+00:05:53,413 --> 00:05:57,042  X1:106 X2:611 Y1:442 Y2:523
+It's always better to lie than to have
+the complicated discussion.
+
+86
+00:05:58,653 --> 00:06:00,245  X1:234 X2:481 Y1:482 Y2:523
+Except with you.
+
+87
+00:06:01,613 --> 00:06:05,049  X1:094 X2:623 Y1:482 Y2:523
+Hey, open the door! What's going on?
+
+88
+00:06:08,533 --> 00:06:09,966  X1:235 X2:483 Y1:448 Y2:523
+-What are you--?
+-Hi.
+
+89
+00:06:10,133 --> 00:06:12,647  X1:141 X2:575 Y1:482 Y2:523
+Why are you dressed like that?
+
+90
+00:06:13,453 --> 00:06:16,206  X1:112 X2:606 Y1:442 Y2:523
+Because Chandler's gonna be home
+in a couple of days...
+
+91
+00:06:16,373 --> 00:06:20,048  X1:091 X2:626 Y1:444 Y2:523
+...so I thought I would just, you know,
+practice the art of seduction.
+
+92
+00:06:20,373 --> 00:06:22,284  X1:089 X2:627 Y1:482 Y2:523
+I thought I heard a man's voice before.
+
+93
+00:06:22,453 --> 00:06:25,092  X1:108 X2:610 Y1:448 Y2:523
+No, I was just doing Chandler's side
+of the conversation.
+
+94
+00:06:25,253 --> 00:06:27,483  X1:103 X2:612 Y1:484 Y2:523
+You know, like, "Hi, how do I look?"
+
+95
+00:06:27,653 --> 00:06:31,771  X1:124 X2:595 Y1:448 Y2:523
+"Really sexy. Could I be any more
+turned on?" You know?
+
+96
+00:06:32,333 --> 00:06:33,971  X1:206 X2:509 Y1:482 Y2:523
+Okay. Wait a minute.
+
+97
+00:06:34,133 --> 00:06:36,010  X1:169 X2:547 Y1:448 Y2:523
+Why are there two glasses
+of wine out?
+
+98
+00:06:36,533 --> 00:06:38,444  X1:135 X2:580 Y1:482 Y2:523
+Because one of them is for you!
+
+99
+00:06:42,773 --> 00:06:45,526  X1:191 X2:524 Y1:482 Y2:523
+Cheers! Okay, bye-bye.
+
+100
+00:06:47,133 --> 00:06:51,729  X1:095 X2:620 Y1:442 Y2:523
+You know, it's funny. I've been
+practicing the art of seduction myself.
+
+101
+00:06:54,453 --> 00:06:56,364  X1:117 X2:599 Y1:448 Y2:523
+-You might wanna keep practicing.
+-Yeah.
+
+102
+00:06:58,333 --> 00:07:01,086  X1:278 X2:438 Y1:448 Y2:523
+-It's Joey.
+-What?
+
+103
+00:07:01,253 --> 00:07:04,131  X1:217 X2:499 Y1:446 Y2:523
+-Hey, Joe.
+-Dude, come home!
+
+104
+00:07:05,653 --> 00:07:09,168  X1:257 X2:460 Y1:448 Y2:523
+-What? Why?
+-Come home!
+
+105
+00:07:09,373 --> 00:07:11,125  X1:137 X2:581 Y1:482 Y2:523
+Look, I can't. What's going on?
+
+106
+00:07:11,333 --> 00:07:14,962  X1:099 X2:616 Y1:442 Y2:523
+I don't know how to tell you this,
+but I think Monica's cheating on you!
+
+107
+00:07:15,133 --> 00:07:17,966  X1:095 X2:622 Y1:442 Y2:523
+I told you, you shouldn't have married
+someone hotter than you!
+
+108
+00:07:21,093 --> 00:07:23,288  X1:171 X2:546 Y1:442 Y2:523
+If you can't deal with this,
+then I'm gonna.
+
+109
+00:07:23,493 --> 00:07:25,723  X1:233 X2:483 Y1:444 Y2:523
+-No!
+-I just heard him!
+
+110
+00:07:27,053 --> 00:07:29,487  X1:190 X2:527 Y1:482 Y2:523
+Can you hear him now?
+
+111
+00:07:31,733 --> 00:07:33,849  X1:173 X2:543 Y1:482 Y2:523
+No. All right, I'm going in.
+
+112
+00:07:34,053 --> 00:07:35,566  X1:222 X2:494 Y1:444 Y2:523
+-No, wait!
+-I heard him again!
+
+113
+00:07:38,933 --> 00:07:41,083  X1:183 X2:531 Y1:444 Y2:523
+All right, just stay there.
+I'm coming home.
+
+114
+00:07:41,293 --> 00:07:42,726  X1:141 X2:575 Y1:482 Y2:523
+I'll see you when you get here.
+
+115
+00:07:42,893 --> 00:07:45,043  X1:199 X2:516 Y1:448 Y2:523
+I'll wait out in the hall
+in case he comes out.
+
+116
+00:07:45,733 --> 00:07:48,566  X1:137 X2:579 Y1:444 Y2:523
+-Is that really necessary?
+-Absolutely. You'd do it for me.
+
+117
+00:07:48,733 --> 00:07:53,170  X1:075 X2:641 Y1:444 Y2:523
+Not that you ever have to, because
+I know how to keep my women satisfied.
+
+118
+00:08:04,333 --> 00:08:06,563  X1:105 X2:612 Y1:482 Y2:523
+Shouldn't the pizza be here by now?
+
+119
+00:08:06,733 --> 00:08:12,126  X1:101 X2:614 Y1:444 Y2:523
+I mean, they said 30 minutes or less.
+Well, how long has it been?
+
+120
+00:08:13,253 --> 00:08:15,528  X1:242 X2:474 Y1:488 Y2:523
+Eleven minutes.
+
+121
+00:08:21,333 --> 00:08:23,722  X1:258 X2:457 Y1:488 Y2:523
+And now 12.
+
+122
+00:08:26,813 --> 00:08:30,692  X1:201 X2:516 Y1:448 Y2:523
+-So you like the beer?
+-I do. I do.
+
+123
+00:08:30,853 --> 00:08:34,448  X1:145 X2:569 Y1:482 Y2:523
+Although, it's actually a lager.
+
+124
+00:08:37,373 --> 00:08:39,409  X1:184 X2:533 Y1:442 Y2:523
+What's the difference
+between beer and lager?
+
+125
+00:08:39,613 --> 00:08:42,047  X1:256 X2:459 Y1:486 Y2:523
+I don't know.
+
+126
+00:08:43,653 --> 00:08:44,847  X1:211 X2:504 Y1:482 Y2:523
+We could look it up.
+
+127
+00:08:46,653 --> 00:08:49,850  X1:154 X2:561 Y1:482 Y2:523
+Things are about to get wild.
+
+128
+00:08:55,053 --> 00:08:57,487  X1:110 X2:608 Y1:448 Y2:523
+Oh, God, remember the girls' nights
+we used to have...
+
+129
+00:08:57,653 --> 00:08:59,689  X1:193 X2:525 Y1:444 Y2:523
+...sitting around talking
+about you and Ross?
+
+130
+00:08:59,853 --> 00:09:02,162  X1:115 X2:601 Y1:482 Y2:523
+Oh, God! It seems like forever ago.
+
+131
+00:09:02,333 --> 00:09:03,322  X1:295 X2:420 Y1:488 Y2:523
+I know.
+
+132
+00:09:04,653 --> 00:09:06,962  X1:211 X2:506 Y1:442 Y2:523
+So, what's going on
+with you and Ross?
+
+133
+00:09:07,733 --> 00:09:12,568  X1:164 X2:552 Y1:442 Y2:523
+Well, I don't know. I mean,
+for a long time, nothing.
+
+134
+00:09:12,733 --> 00:09:16,362  X1:133 X2:582 Y1:444 Y2:523
+But you know, actually,
+right before you picked me up...
+
+135
+00:09:16,533 --> 00:09:18,967  X1:145 X2:571 Y1:482 Y2:523
+...Ross and I had a little thing.
+
+136
+00:09:19,173 --> 00:09:22,006  X1:171 X2:544 Y1:444 Y2:523
+Oh, my God! I love things!
+What happened?
+
+137
+00:09:22,213 --> 00:09:25,364  X1:200 X2:516 Y1:448 Y2:523
+Well, first he told me
+he liked how I looked.
+
+138
+00:09:25,533 --> 00:09:29,242  X1:171 X2:544 Y1:488 Y2:523
+And then we had a little...
+
+139
+00:09:30,333 --> 00:09:32,483  X1:249 X2:467 Y1:484 Y2:523
+...eye contact.
+
+140
+00:09:33,853 --> 00:09:35,002  X1:261 X2:457 Y1:482 Y2:523
+Eye contact?
+
+141
+00:09:35,213 --> 00:09:36,885  X1:124 X2:592 Y1:482 Y2:523
+I hope you were using protection.
+
+142
+00:09:38,733 --> 00:09:44,251  X1:076 X2:638 Y1:444 Y2:523
+Excuse me, these are from
+the two gentlemen at the end of the bar.
+
+143
+00:09:44,653 --> 00:09:48,089  X1:088 X2:628 Y1:444 Y2:523
+Should we send them something back?
+Let's send them mashed potatoes!
+
+144
+00:09:48,293 --> 00:09:49,567  X1:187 X2:528 Y1:484 Y2:523
+No, wait! Don't do that!
+
+145
+00:09:49,733 --> 00:09:51,644  X1:189 X2:527 Y1:442 Y2:523
+That'll make them think
+they can come over.
+
+146
+00:09:51,853 --> 00:09:53,081  X1:210 X2:507 Y1:482 Y2:523
+So, what if they do?
+
+147
+00:09:53,293 --> 00:09:58,492  X1:085 X2:631 Y1:442 Y2:523
+We're not here to meet guys. You have
+a boyfriend. I have a baby and a Ross.
+
+148
+00:09:59,253 --> 00:10:03,041  X1:124 X2:590 Y1:444 Y2:523
+Yeah, but nothing has to happen.
+We're just having fun.
+
+149
+00:10:03,213 --> 00:10:07,092  X1:108 X2:608 Y1:444 Y2:523
+You know, not everything has to go
+as far as eye contact.
+
+150
+00:10:09,013 --> 00:10:11,573  X1:140 X2:578 Y1:444 Y2:523
+Chandler, you have to tell Joey
+you're not in Tulsa.
+
+151
+00:10:11,773 --> 00:10:14,367  X1:127 X2:587 Y1:442 Y2:523
+Isn't it better for him
+to think you're cheating on me...
+
+152
+00:10:14,533 --> 00:10:17,252  X1:196 X2:523 Y1:444 Y2:523
+...than for him to think
+I'm cheating on him?
+
+153
+00:10:17,453 --> 00:10:19,171  X1:281 X2:435 Y1:488 Y2:523
+I heard it.
+
+154
+00:10:19,653 --> 00:10:22,008  X1:181 X2:536 Y1:442 Y2:523
+I don't want him to think
+I'm having an affair.
+
+155
+00:10:22,733 --> 00:10:25,327  X1:155 X2:562 Y1:442 Y2:523
+All right, I've got a plan.
+I'll go down the fire escape--
+
+156
+00:10:25,533 --> 00:10:28,570  X1:123 X2:594 Y1:444 Y2:523
+Because all good plans start with,
+"I'll go down the fire escape."
+
+157
+00:10:28,773 --> 00:10:30,092  X1:203 X2:512 Y1:486 Y2:523
+Hear me out, woman!
+
+158
+00:10:31,813 --> 00:10:33,804  X1:099 X2:616 Y1:482 Y2:523
+I'll go down the fire escape and wait.
+
+159
+00:10:34,013 --> 00:10:36,402  X1:139 X2:577 Y1:448 Y2:523
+Then it'll be like I just got back
+from Tulsa.
+
+160
+00:10:36,573 --> 00:10:39,451  X1:108 X2:606 Y1:444 Y2:523
+Joey and I will come in
+and see that there's no guy in here.
+
+161
+00:10:39,653 --> 00:10:42,929  X1:155 X2:562 Y1:442 Y2:523
+Aren't you afraid that Joey's
+gonna figure all this out?
+
+162
+00:10:46,053 --> 00:10:47,532  X1:281 X2:435 Y1:488 Y2:523
+I heard it.
+
+163
+00:10:55,053 --> 00:10:57,009  X1:173 X2:544 Y1:442 Y2:523
+-I'm gonna wait.
+-The scary pigeon's back?
+
+164
+00:10:57,213 --> 00:10:59,204  X1:282 X2:434 Y1:482 Y2:523
+It's huge.
+
+165
+00:11:31,213 --> 00:11:34,922  X1:089 X2:626 Y1:442 Y2:523
+I can't believe you live in that building.
+My grandmother lives in that building!
+
+166
+00:11:35,093 --> 00:11:37,402  X1:203 X2:515 Y1:444 Y2:523
+Ida Greene? No sense
+of personal space...
+
+167
+00:11:37,573 --> 00:11:39,962  X1:154 X2:564 Y1:444 Y2:523
+...kind of smells like chicken,
+looks like a potato.
+
+168
+00:11:40,173 --> 00:11:42,767  X1:143 X2:575 Y1:442 Y2:523
+-"Spuds" is your grandmother?
+-That's my bubbe!
+
+169
+00:11:45,933 --> 00:11:48,766  X1:199 X2:516 Y1:442 Y2:523
+So we're on our way
+to a couple of parties.
+
+170
+00:11:48,933 --> 00:11:52,084  X1:119 X2:599 Y1:444 Y2:523
+Maybe we could get your numbers
+and call if we find something fun?
+
+171
+00:11:52,853 --> 00:11:55,970  X1:120 X2:597 Y1:442 Y2:523
+Yeah. I'm sorry, we weren't really
+looking for anything to happen...
+
+172
+00:11:56,133 --> 00:11:58,567  X1:106 X2:611 Y1:482 Y2:523
+...with you guys. I have a boyfriend.
+
+173
+00:11:58,853 --> 00:12:00,809  X1:236 X2:479 Y1:444 Y2:523
+-All right.
+-It's no big deal.
+
+174
+00:12:02,733 --> 00:12:07,045  X1:188 X2:526 Y1:444 Y2:523
+So she has a boyfriend.
+What is your situation?
+
+175
+00:12:07,453 --> 00:12:10,843  X1:092 X2:626 Y1:442 Y2:523
+Well, it's complicated.
+I don't actually have a boyfriend, but--
+
+176
+00:12:11,053 --> 00:12:13,442  X1:145 X2:571 Y1:482 Y2:523
+Then can I have your number?
+
+177
+00:12:14,053 --> 00:12:15,691  X1:255 X2:460 Y1:482 Y2:523
+I'm sorry, no.
+
+178
+00:12:16,133 --> 00:12:17,168  X1:307 X2:409 Y1:482 Y2:523
+Okay.
+
+179
+00:12:17,653 --> 00:12:19,848  X1:284 X2:432 Y1:486 Y2:523
+Oh, sure!
+
+180
+00:12:21,213 --> 00:12:24,330  X1:172 X2:545 Y1:442 Y2:523
+Oh, my God, you're giving
+your real number!
+
+181
+00:12:25,933 --> 00:12:28,288  X1:173 X2:545 Y1:442 Y2:523
+Okay, thanks. I'll give you
+a call later tonight.
+
+182
+00:12:28,493 --> 00:12:30,290  X1:299 X2:416 Y1:444 Y2:523
+-Great.
+-Bye.
+
+183
+00:12:30,453 --> 00:12:31,647  X1:316 X2:400 Y1:482 Y2:523
+Bye.
+
+184
+00:12:33,533 --> 00:12:35,171  X1:241 X2:474 Y1:482 Y2:523
+So that's great.
+
+185
+00:12:35,333 --> 00:12:38,882  X1:151 X2:565 Y1:444 Y2:523
+You, Bill, Ross and Emma are
+gonna be so happy together.
+
+186
+00:12:39,053 --> 00:12:40,406  X1:181 X2:536 Y1:482 Y2:523
+What were you thinking?
+
+187
+00:12:40,613 --> 00:12:43,889  X1:111 X2:604 Y1:442 Y2:523
+I don't know. He was cute,
+and he liked me. It was an impulse.
+
+188
+00:12:44,053 --> 00:12:46,203  X1:171 X2:546 Y1:444 Y2:523
+But what about Ross?
+What about your moment?
+
+189
+00:12:46,373 --> 00:12:48,329  X1:083 X2:634 Y1:448 Y2:523
+-Don't you wanna talk to Ross about it?
+-No.
+
+190
+00:12:48,493 --> 00:12:51,485  X1:121 X2:594 Y1:444 Y2:523
+No, because I know exactly
+how the conversation's gonna go.
+
+191
+00:12:51,653 --> 00:12:54,565  X1:148 X2:570 Y1:448 Y2:523
+"Hey, Ross, you know, I think
+we had a moment before."
+
+192
+00:12:54,733 --> 00:12:57,884  X1:239 X2:478 Y1:486 Y2:523
+"Yeah. Me too."
+
+193
+00:12:58,053 --> 00:13:01,284  X1:110 X2:610 Y1:442 Y2:523
+"Well, but I'm not sure I really want
+to do anything about it."
+
+194
+00:13:01,453 --> 00:13:04,490  X1:215 X2:501 Y1:486 Y2:523
+"Yeah. Me neither."
+
+195
+00:13:04,653 --> 00:13:06,245  X1:140 X2:576 Y1:482 Y2:523
+"Should we just live together...
+
+196
+00:13:06,413 --> 00:13:08,483  X1:182 X2:537 Y1:444 Y2:523
+...and not tell each other
+how we're feeling?"
+
+197
+00:13:08,653 --> 00:13:11,451  X1:168 X2:549 Y1:484 Y2:523
+"Yeah, that works for me."
+
+198
+00:13:13,133 --> 00:13:14,964  X1:160 X2:554 Y1:482 Y2:523
+Yeah, I see what you mean.
+
+199
+00:13:15,133 --> 00:13:18,284  X1:133 X2:582 Y1:482 Y2:523
+By the way, nice Ross imitation.
+
+200
+00:13:18,453 --> 00:13:19,932  X1:115 X2:599 Y1:482 Y2:523
+Your Rachel wasn't whiny enough.
+
+201
+00:13:20,133 --> 00:13:21,532  X1:267 X2:449 Y1:448 Y2:523
+-Well-- Hey!
+-Better.
+
+202
+00:13:24,053 --> 00:13:27,887  X1:086 X2:628 Y1:444 Y2:523
+The point is maybe I should just stop
+waiting around for moments with Ross.
+
+203
+00:13:28,053 --> 00:13:31,125  X1:147 X2:570 Y1:444 Y2:523
+You know? I should just move
+on with my life.
+
+204
+00:13:31,333 --> 00:13:34,086  X1:086 X2:631 Y1:482 Y2:523
+So really, you're moving on from Ross?
+
+205
+00:13:34,253 --> 00:13:36,483  X1:143 X2:574 Y1:442 Y2:523
+I don't know.
+Do I have to decide right now?
+
+206
+00:13:36,653 --> 00:13:39,486  X1:115 X2:600 Y1:444 Y2:523
+You kind of just did.
+That guy is gonna call you tonight.
+
+207
+00:13:39,653 --> 00:13:42,531  X1:120 X2:595 Y1:444 Y2:523
+Ross will pick up the phone,
+and that's a pretty clear message.
+
+208
+00:13:42,733 --> 00:13:44,371  X1:220 X2:495 Y1:482 Y2:523
+Oh, my God, Ross!
+
+209
+00:13:44,533 --> 00:13:46,569  X1:126 X2:590 Y1:482 Y2:523
+Ross is gonna pick up the phone.
+
+210
+00:13:46,733 --> 00:13:49,645  X1:144 X2:572 Y1:444 Y2:523
+I have to get my number back.
+Oh, my God, he's gone!
+
+211
+00:13:49,853 --> 00:13:53,209  X1:110 X2:607 Y1:442 Y2:523
+"Oh, I have to get my number back!
+Oh, my God! He's gone!" Dead on.
+
+212
+00:14:07,453 --> 00:14:10,684  X1:139 X2:577 Y1:448 Y2:523
+-You know, I'm gonna take off.
+-So soon?
+
+213
+00:14:10,853 --> 00:14:12,172  X1:302 X2:414 Y1:444 Y2:523
+-Yeah.
+-Okay.
+
+214
+00:14:12,333 --> 00:14:14,767  X1:114 X2:600 Y1:486 Y2:523
+Well, thanks-- Thanks for the beer.
+
+215
+00:14:14,933 --> 00:14:18,448  X1:219 X2:497 Y1:448 Y2:523
+-You mean lager?
+-Yeah. Good times.
+
+216
+00:14:31,453 --> 00:14:33,603  X1:215 X2:501 Y1:444 Y2:523
+-Hello?
+-Hey, Mike, it's me.
+
+217
+00:14:33,773 --> 00:14:35,604  X1:155 X2:563 Y1:482 Y2:523
+Listen, is-- Is Ross near you?
+
+218
+00:14:35,813 --> 00:14:37,292  X1:253 X2:462 Y1:482 Y2:523
+No, I just left.
+
+219
+00:14:37,493 --> 00:14:39,165  X1:150 X2:564 Y1:482 Y2:523
+Well, you have to go back in.
+
+220
+00:14:39,933 --> 00:14:44,370  X1:158 X2:558 Y1:448 Y2:523
+What? Go back? To the land
+where time stands still?
+
+221
+00:14:45,053 --> 00:14:46,611  X1:176 X2:541 Y1:482 Y2:523
+I'm so sorry, honey, but--
+
+222
+00:14:46,773 --> 00:14:48,684  X1:166 X2:552 Y1:448 Y2:523
+Okay, Rachel gave this guy
+her number...
+
+223
+00:14:48,853 --> 00:14:51,083  X1:153 X2:566 Y1:442 Y2:523
+...and she doesn't want Ross
+to answer the phone.
+
+224
+00:14:51,253 --> 00:14:53,164  X1:100 X2:614 Y1:482 Y2:523
+So you have to intercept all his calls.
+
+225
+00:14:53,733 --> 00:14:54,802  X1:246 X2:470 Y1:486 Y2:523
+I can't do that!
+
+226
+00:14:55,013 --> 00:14:57,891  X1:173 X2:542 Y1:442 Y2:523
+-He says he can't do that.
+-Give me the phone.
+
+227
+00:14:58,053 --> 00:15:01,568  X1:110 X2:607 Y1:444 Y2:523
+Hi, Mike. Hi, listen, I know that this
+is a lot to ask, but you know what?
+
+228
+00:15:01,733 --> 00:15:06,887  X1:152 X2:565 Y1:444 Y2:523
+If you do this, Phoebe will do
+anything you want.
+
+229
+00:15:07,053 --> 00:15:11,092  X1:128 X2:588 Y1:442 Y2:523
+-Seriously, I'm talking dirty stuff.
+-All right. Thank you. Hello?
+
+230
+00:15:11,253 --> 00:15:14,962  X1:085 X2:629 Y1:442 Y2:523
+Hi, I'm sorry about her. But actually,
+she wasn't wrong about the dirty stuff.
+
+231
+00:15:16,933 --> 00:15:18,412  X1:226 X2:488 Y1:482 Y2:523
+All right, I'll do it.
+
+232
+00:15:19,333 --> 00:15:23,087  X1:163 X2:555 Y1:444 Y2:523
+But really, how much dirtier
+can it get?
+
+233
+00:15:24,333 --> 00:15:26,642  X1:281 X2:435 Y1:486 Y2:523
+Oh, Mike.
+
+234
+00:15:27,253 --> 00:15:29,448  X1:316 X2:400 Y1:482 Y2:523
+Bye.
+
+235
+00:15:33,253 --> 00:15:34,971  X1:265 X2:450 Y1:482 Y2:523
+Hey, buddy.
+
+236
+00:15:37,453 --> 00:15:38,932  X1:326 X2:389 Y1:488 Y2:523
+Hi.
+
+237
+00:15:39,253 --> 00:15:41,972  X1:207 X2:511 Y1:444 Y2:523
+-Can I come back in?
+-Why?
+
+238
+00:15:43,333 --> 00:15:48,726  X1:087 X2:628 Y1:448 Y2:523
+Well, I was just thinking about
+how much more we have to talk about.
+
+239
+00:15:49,253 --> 00:15:52,131  X1:263 X2:452 Y1:482 Y2:523
+But you left.
+
+240
+00:15:56,453 --> 00:15:58,011  X1:202 X2:513 Y1:482 Y2:523
+That didn't take long.
+
+241
+00:15:58,213 --> 00:16:01,649  X1:150 X2:566 Y1:444 Y2:523
+I thought you said Tulsa was,
+like, a three-hour flight?
+
+242
+00:16:02,453 --> 00:16:06,002  X1:174 X2:540 Y1:448 Y2:523
+Well, you're forgetting
+about the time difference.
+
+243
+00:16:13,853 --> 00:16:15,844  X1:306 X2:408 Y1:488 Y2:523
+Yeah.
+
+244
+00:16:16,733 --> 00:16:18,052  X1:191 X2:524 Y1:482 Y2:523
+Chandler, you're home!
+
+245
+00:16:18,213 --> 00:16:22,650  X1:111 X2:603 Y1:442 Y2:523
+That's right! Your husband's home!
+So now the sex can stop!
+
+246
+00:16:27,733 --> 00:16:28,848  X1:202 X2:514 Y1:482 Y2:523
+What are you saying?
+
+247
+00:16:29,053 --> 00:16:30,805  X1:202 X2:514 Y1:448 Y2:523
+Joey said you're here
+with another man!
+
+248
+00:16:31,013 --> 00:16:34,608  X1:126 X2:589 Y1:442 Y2:523
+There's no man in here!
+How dare you accuse me of that!
+
+249
+00:16:37,053 --> 00:16:42,446  X1:085 X2:630 Y1:442 Y2:523
+All right. Then maybe you won't mind
+if me and my friend take a look around.
+
+250
+00:16:45,653 --> 00:16:46,642  X1:229 X2:487 Y1:482 Y2:523
+What's he doing?
+
+251
+00:16:46,853 --> 00:16:50,243  X1:115 X2:602 Y1:444 Y2:523
+I arranged some pillows on the bed
+to look like a guy.
+
+252
+00:16:51,933 --> 00:16:56,449  X1:102 X2:617 Y1:442 Y2:523
+Bedroom's clear. Although you might
+need some new pillows.
+
+253
+00:16:56,733 --> 00:16:59,645  X1:187 X2:530 Y1:442 Y2:523
+All right, well, I'll check
+the guest room.
+
+254
+00:17:07,013 --> 00:17:09,129  X1:140 X2:577 Y1:482 Y2:523
+Why do I smell men's cologne?
+
+255
+00:17:11,253 --> 00:17:13,323  X1:227 X2:488 Y1:482 Y2:523
+I think that's you.
+
+256
+00:17:15,733 --> 00:17:19,646  X1:145 X2:573 Y1:444 Y2:523
+Oh, yeah. I rubbed a magazine
+on myself earlier.
+
+257
+00:17:20,733 --> 00:17:22,325  X1:171 X2:543 Y1:482 Y2:523
+There's nobody here, Joe.
+
+258
+00:17:23,093 --> 00:17:24,082  X1:267 X2:449 Y1:482 Y2:523
+I guess not.
+
+259
+00:17:24,453 --> 00:17:28,685  X1:116 X2:598 Y1:442 Y2:523
+I can't believe you thought I was
+cheating. You owe me an apology.
+
+260
+00:17:29,133 --> 00:17:31,693  X1:169 X2:546 Y1:448 Y2:523
+-You're right. I'm so sorry.
+-It's an honest mistake.
+
+261
+00:17:31,853 --> 00:17:33,889  X1:098 X2:617 Y1:482 Y2:523
+It could happen to anybody. See you.
+
+262
+00:17:34,053 --> 00:17:36,362  X1:149 X2:565 Y1:486 Y2:523
+Wait a minute, wait a minute.
+
+263
+00:17:36,533 --> 00:17:40,526  X1:099 X2:618 Y1:444 Y2:523
+If you just got back from Tulsa,
+how did your suitcase beat you here?
+
+264
+00:17:44,053 --> 00:17:47,284  X1:104 X2:612 Y1:444 Y2:523
+I climbed down the fire escape,
+and you can't put that in the closet?
+
+265
+00:17:51,213 --> 00:17:53,886  X1:148 X2:566 Y1:444 Y2:523
+So, with the exception
+of the fermentation process...
+
+266
+00:17:54,053 --> 00:17:57,329  X1:182 X2:533 Y1:444 Y2:523
+...beer and ale are
+basically the same thing.
+
+267
+00:17:58,253 --> 00:18:00,767  X1:212 X2:505 Y1:482 Y2:523
+Fascinating, isn't it?
+
+268
+00:18:00,933 --> 00:18:04,243  X1:078 X2:637 Y1:482 Y2:523
+Maybe you should look up "fascinating."
+
+269
+00:18:05,453 --> 00:18:07,330  X1:284 X2:431 Y1:482 Y2:523
+I'll get it!
+
+270
+00:18:12,213 --> 00:18:16,047  X1:118 X2:598 Y1:482 Y2:523
+Hello? Ross' place. Mike speaking.
+
+271
+00:18:17,853 --> 00:18:19,206  X1:267 X2:449 Y1:482 Y2:523
+It's for you.
+
+272
+00:18:23,053 --> 00:18:26,170  X1:177 X2:537 Y1:442 Y2:523
+I don't understand
+what just happened here.
+
+273
+00:18:28,453 --> 00:18:30,091  X1:229 X2:488 Y1:482 Y2:523
+What's going on?
+
+274
+00:18:30,253 --> 00:18:31,322  X1:281 X2:434 Y1:482 Y2:523
+I'm sorry.
+
+275
+00:18:31,493 --> 00:18:35,452  X1:072 X2:643 Y1:444 Y2:523
+I told you I was in Tulsa because I
+wanted to spend the night with Monica...
+
+276
+00:18:35,613 --> 00:18:39,288  X1:137 X2:578 Y1:442 Y2:523
+...and I didn't know--
+I didn't think you'd understand.
+
+277
+00:18:40,333 --> 00:18:43,962  X1:094 X2:621 Y1:448 Y2:523
+You think I'm too dumb to understand
+a husband needs to be with his wife?
+
+278
+00:18:44,133 --> 00:18:47,125  X1:204 X2:511 Y1:484 Y2:523
+You think I'm, like....
+
+279
+00:18:49,453 --> 00:18:52,047  X1:302 X2:416 Y1:448 Y2:523
+-Joey?
+-Yeah.
+
+280
+00:18:52,413 --> 00:18:55,450  X1:142 X2:572 Y1:442 Y2:523
+I don't know what to say.
+We shouldn't have lied to you.
+
+281
+00:18:55,613 --> 00:18:58,764  X1:144 X2:573 Y1:444 Y2:523
+I feel so bad. Is there anything
+I can do to make it up to you?
+
+282
+00:19:01,133 --> 00:19:04,364  X1:112 X2:603 Y1:444 Y2:523
+You could go to the game with me.
+Even though you said you couldn't.
+
+283
+00:19:04,533 --> 00:19:08,811  X1:090 X2:628 Y1:444 Y2:523
+But then you lied to me and tricked me
+and gave me a bump on the head.
+
+284
+00:19:09,053 --> 00:19:12,728  X1:100 X2:618 Y1:442 Y2:523
+I'm sorry, that's the one thing I can't
+do. I promised I'd be with Monica.
+
+285
+00:19:13,333 --> 00:19:14,561  X1:287 X2:428 Y1:482 Y2:523
+All right.
+
+286
+00:19:15,293 --> 00:19:17,011  X1:260 X2:455 Y1:448 Y2:523
+-You can go.
+-What?
+
+287
+00:19:17,173 --> 00:19:19,892  X1:162 X2:553 Y1:444 Y2:523
+You should go to the game.
+It's okay. I want you to.
+
+288
+00:19:20,333 --> 00:19:22,893  X1:156 X2:561 Y1:446 Y2:523
+-Really? You gonna be okay?
+-Yeah, I'll be fine.
+
+289
+00:19:23,213 --> 00:19:26,728  X1:125 X2:590 Y1:442 Y2:523
+You know, maybe I'll stay here
+and practice the art of seduction.
+
+290
+00:19:26,973 --> 00:19:31,330  X1:082 X2:633 Y1:442 Y2:523
+-You're gonna put sweats on and clean.
+-It's gonna be so hot!
+
+291
+00:19:31,733 --> 00:19:32,882  X1:311 X2:405 Y1:444 Y2:523
+-Bye.
+-Bye.
+
+292
+00:19:33,053 --> 00:19:34,168  X1:292 X2:423 Y1:488 Y2:523
+Thanks.
+
+293
+00:19:35,053 --> 00:19:36,406  X1:223 X2:492 Y1:482 Y2:523
+Here's your ticket.
+
+294
+00:19:36,573 --> 00:19:38,689  X1:203 X2:512 Y1:482 Y2:523
+Thanks. Hey, listen...
+
+295
+00:19:38,853 --> 00:19:41,367  X1:205 X2:513 Y1:442 Y2:523
+...l'm never gonna lie
+to you again, okay?
+
+296
+00:19:41,573 --> 00:19:44,690  X1:126 X2:589 Y1:444 Y2:523
+And I want you to know
+that nobody thinks you're stupid.
+
+297
+00:19:45,333 --> 00:19:46,482  X1:255 X2:460 Y1:486 Y2:523
+Thanks, man.
+
+298
+00:19:49,653 --> 00:19:52,850  X1:148 X2:567 Y1:444 Y2:523
+-Where you going?
+-Game's tomorrow night, Joe.
+
+299
+00:19:59,373 --> 00:20:00,726  X1:285 X2:430 Y1:486 Y2:523
+Oh, God!
+
+300
+00:20:00,893 --> 00:20:03,646  X1:208 X2:507 Y1:482 Y2:523
+So glad you're back!
+
+301
+00:20:04,733 --> 00:20:06,291  X1:168 X2:549 Y1:482 Y2:523
+So, what did you guys do?
+
+302
+00:20:06,493 --> 00:20:09,166  X1:103 X2:612 Y1:482 Y2:523
+You know, we just drank some beer.
+
+303
+00:20:09,333 --> 00:20:11,927  X1:133 X2:585 Y1:448 Y2:523
+Mike played with the boundaries
+of normal social conduct.
+
+304
+00:20:13,133 --> 00:20:15,852  X1:249 X2:466 Y1:484 Y2:523
+It's true, I did.
+
+305
+00:20:16,693 --> 00:20:17,682  X1:241 X2:474 Y1:444 Y2:523
+-Well, goodbye.
+-Okay.
+
+306
+00:20:17,893 --> 00:20:20,361  X1:159 X2:557 Y1:448 Y2:523
+-Bye. That was fun, Pheebs.
+-I know. It was fun.
+
+307
+00:20:20,533 --> 00:20:22,251  X1:245 X2:469 Y1:482 Y2:523
+See you, guys.
+
+308
+00:20:22,413 --> 00:20:24,529  X1:182 X2:533 Y1:444 Y2:523
+Lock the door!
+Lock the door, seriously.
+
+309
+00:20:26,133 --> 00:20:28,693  X1:149 X2:567 Y1:448 Y2:523
+Shoot, I forgot to pay Phoebe
+for the drinks.
+
+310
+00:20:30,653 --> 00:20:33,884  X1:150 X2:568 Y1:444 Y2:523
+Wait, wait. Wait, sorry.
+Did he call? Did that guy call?
+
+311
+00:20:34,053 --> 00:20:35,486  X1:229 X2:487 Y1:482 Y2:523
+No, just his mom.
+
+312
+00:20:35,693 --> 00:20:36,842  X1:254 X2:463 Y1:488 Y2:523
+Around 8:30?
+
+313
+00:20:37,053 --> 00:20:38,566  X1:208 X2:510 Y1:444 Y2:523
+-Yeah.
+-Then again at 9:00?
+
+314
+00:20:39,053 --> 00:20:40,884  X1:306 X2:408 Y1:488 Y2:523
+Yeah.
+
+315
+00:20:46,133 --> 00:20:48,124  X1:305 X2:412 Y1:488 Y2:523
+Hello?
+
+316
+00:20:48,453 --> 00:20:51,650  X1:151 X2:564 Y1:442 Y2:523
+No, she's not here right now.
+Can I take a message?
+
+317
+00:20:52,453 --> 00:20:55,251  X1:233 X2:485 Y1:488 Y2:523
+Bill from the bar?
+
+318
+00:20:56,453 --> 00:21:01,652  X1:105 X2:610 Y1:444 Y2:523
+Okay, Bill from the bar,
+I'll make sure she gets your number.
+
+319
+00:21:12,333 --> 00:21:14,563  X1:200 X2:516 Y1:488 Y2:523
+So.... So how was it?
+
+320
+00:21:14,733 --> 00:21:16,769  X1:158 X2:558 Y1:444 Y2:523
+Did you guys--?
+You guys have a good time?
+
+321
+00:21:16,933 --> 00:21:21,245  X1:183 X2:533 Y1:444 Y2:523
+We had so much fun.
+It felt so good to be out.
+
+322
+00:21:23,933 --> 00:21:25,491  X1:305 X2:412 Y1:488 Y2:523
+Rach?
+
+323
+00:21:25,653 --> 00:21:27,644  X1:304 X2:412 Y1:488 Y2:523
+Yeah?
+
+324
+00:21:30,333 --> 00:21:31,448  X1:266 X2:449 Y1:488 Y2:523
+Never mind.
+
+325
+00:21:38,853 --> 00:21:41,367  X1:241 X2:475 Y1:054 Y2:133
+-Hey, you guys.
+-Hey!
+
+326
+00:21:41,533 --> 00:21:44,923  X1:166 X2:549 Y1:054 Y2:134
+I'll be right back.
+I gotta go to the bathroom.
+
+327
+00:21:58,933 --> 00:22:01,208  X1:157 X2:558 Y1:054 Y2:090
+Stout. That's a kind of beer.
+
+328
+00:22:10,333 --> 00:22:11,322  X1:233 X2:483 Y1:054 Y2:133
+Subtitles by
+SDI Media Group
+
+329
+00:22:11,493 --> 00:22:12,482
+ripped by Bozoleclown
+for www.friendsnet.fr.fm
+

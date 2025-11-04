@@ -1,0 +1,384 @@
+{272}{382}MER DES SARGASSES|64°OUEST SUD-OUEST
+{2317}{2390}LE GOUVERNEMENT NOUS MENT
+{2925}{2977}Doucement.
+{2980}{3032}On y est presque.
+{3035}{3100}C'est ça, tirez bien.
+{3102}{3222}Hissez-le à bord. Tirez de toutes vos forces.
+{3397}{3447}Soulevez-le. Réveillez-vous.
+{3485}{3537}Voilà, il est bien vivant.
+{3540}{3622}Tant mieux pour vous.|Vous vous en sortez bien.
+{3625}{3725}- II a peut-être nagé longtemps.|- Ou il est tombé du ciel.
+{3725}{3827}- Vous êtes aviateur?|- II n'a pas la tenue.
+{3830}{3895}C'est quoi, cet uniforme?
+{3945}{4025}On devrait le remettre à l'eau.
+{4027}{4110}Balançons-le par-dessus bord.
+{4225}{4295}Tu veux piquer une petite tête? Sale Fritz.
+{4297}{4360}Les requins n'en voudront pas.
+{4362}{4445}Tu veux parler, Fritz, avant de replonger?
+{4447}{4520}- Je ne m'appelle pas Fritz.|- Quoi?
+{4522}{4575}Je m'appelle Fox Mulder.
+{4577}{4672}- C'est un nom, ça?|- J'ai mes papiers.
+{4772}{4850}"Fox Mulder, F.B.I."
+{4852}{4912}Désolé. J'en ai jamais entendu parler.
+{4915}{5025}- Tu vas voir ce qu'on va faire de toi.|- Vous ne connaissez pas le F.B.I.?
+{5025}{5125}- Ferme-la un peu.|- Vous m'emmenez où?
+{5125}{5230}- C'est quoi, cet accent?|- Des services secrets du Führer.
+{5232}{5267}Comment ça?
+{5270}{5395}Coupons-le en deux pour voir|ce qu'il a dans le ventre.
+{5465}{5515}Attendez.
+{5517}{5595}Mets-la en veilleuse, tu veux?
+{5655}{5675}CAPITAINE Y. HARBURG
+{5675}{5742}CAPITAINE Y. HARBURG
+{5767}{5892}- Que se passe-t-il?|- On l'a repêché.
+{5895}{5967}Moi, je dis que c'est un Allemand.
+{5970}{6035}Amenez-le dans ma cabine.
+{6187}{6237}Ami? Ennemi?
+{6267}{6355}- Quoi?|- Quel pays servez-vous?
+{6357}{6427}Je crains qu'il n'y ait une méprise.
+{6430}{6490}De ma part, je crois.
+{6515}{6570}- Dites la vérité.|- C'est le <i>Queen Anne?</i>
+{6572}{6622}- Oui.|- Ca suffit.
+{6625}{6710}- Je cherchais ce navire.|- Parlez, capitaine.
+{6710}{6780}- Je peux vous expliquer.|- C'est une ruse.
+{6780}{6797}- Je peux vous expliquer.|- C'est une ruse.
+{6800}{6890}- Quelle est notre position?|- Crevons-le.
+{6892}{6975}Deux degrés au-dessus du 30ème parallèle.
+{6977}{7040}Au nord du tropique du Cancer.
+{7042}{7127}A 64° ouest, sud-ouest,|près du banc Plantagenet,
+{7130}{7247}à 90 km au sud sud-est des Bermudes.|Comment l'aurais-je su si j'étais à l'eau?
+{7250}{7385}C'est une bonne question, mon gars.|Et j'attends une bonne réponse.
+{7385}{7515}Je me trompe ou vous avez du mal|à conna îti re votre position exacte?
+{7517}{7630}Vous êtes pris dans ce qu'on appelle|le triangle du Diable. Regardez.
+{7632}{7752}Ca va des Bermudes à Porto Rico|et ça remonte vers la Floride.
+{7755}{7815}Le <i>Queen Anne</i> est à l'est de la zone.
+{7817}{7912}Vous avez fait un bon en avant dans le temps
+{7915}{7985}et vous êtes maintenant en 1998.
+{7985}{8040}- 1998?|- Cet homme est fou.
+{8042}{8157}- Qu'il en parle aux poissons.|- Assez plaisanté. On est en guerre.
+{8160}{8292}Je ne veux pas me rendre malade, ni perdre|mon navire pour un chacal comme vous.
+{8295}{8370}Détendez-vous. Le monde est en paix.
+{8370}{8470}Notre président ma îti rise mal ses pulsions,|mais ça lui passera.
+{8472}{8560}En paix? On est le 3 septembre 1939.
+{8562}{8667}Hitler a envahi la Pologne.|Ses vandales de soldats sont sur mon navire.
+{8670}{8740}Alors, la paix, parlez-en|au gouvernement anglais.
+{8742}{8825}On n'est pas le 3 septembre,|mais le 16 novembre.
+{8825}{8880}- Excusez-moi.|- Oui.
+{8882}{8962}Les Allemands ont pris la passerelle.
+{8965}{9022}Ils veulent rallier l'Allemagne.
+{9025}{9107}Pas tant que le capitaine Harburg est là.
+{9110}{9175}Enfermez le prisonnier.
+{9177}{9242}La guerre est finie.
+{9255}{9340}Allez en Allemagne.|Ils font de belles voitures.
+{9425}{9475}C'est incroyable.
+{9725}{9810}S.O.S. Ici, l'agent Mulder du F.B.I.
+{9812}{9877}Je suis à bord du <i>Queen Anne.</i>
+{9907}{9965}Navire en perdition.
+{9965}{10072}Notre ambassadeur à Berlin a lancé|un ultimatum au gouvernement allemand.
+{10075}{10172}Sans un signe de leur part|indiquant qu'ils sont prêts
+{10175}{10290}à retirer leurs troupes de Pologne,|l'Angleterre leur déclarera la guerre.
+{10292}{10352}Nous n'avons rien reçu.
+{10355}{10502}Donc, à compter de ce jour,|nous sommes en guerre avec l'Allemagne.
+{10655}{10710}Allô?
+{10710}{10720}Allô?
+{10882}{10955}...ferme les lieux de distraction.
+{10957}{11102}Les cinémas et les théâtres|seront fermés immédiatement
+{11105}{11155}jusqu'à nouvel ordre.
+{11290}{11410}L'évacuation des enfants britanniques|se fait dans le calme.
+{11412}{11462}Le ministère de la Santé déclare...
+{11965}{12025}Que se passe-t-il?
+{12027}{12077}Spender?
+{15645}{15695}Excusez-moi.
+{15710}{15750}Scully.
+{15752}{15825}Enlevez vos salles pattes de nazi.
+{15825}{15887}- C'est moi. Mulder|- Vous parlez anglais?
+{15890}{15970}- Je vous montre les étoiles du drapeau?|- Je ne suis pas un nazi.
+{15970}{16082}- Vous leur ressemblez, c'est tout.|- J'ai volé cet uniforme. Scully...
+{16275}{16340}Il a dit: "Les mains en l'air."
+{16360}{16420}Je vous l'avais dit.
+{16530}{16600}Faites les malins,|mais attendez d'arriver en Russie.
+{16602}{16667}J'espère que vous aimez le froid.
+{17525}{17575}Ne bougez pas.
+{17855}{17905}Toi-même, Adolf.
+{18705}{18770}Je ne me rendrai pas.
+{18842}{18905}Vous pouvez m'abattre.
+{18907}{19002}Je ne lâcherai pas la barre.|Rendez-vous en enfer.
+{19597}{19637}Vous.
+{19952}{19997}Pas parler.
+{20037}{20087}Je ne parle pas le nazi.
+{20165}{20217}Pourquoi me tuer?
+{20220}{20285}Qu'est-ce que j'ai fait?
+{20287}{20370}Je ne comprends pas la question.
+{20842}{20902}Skinner? Où est-ce qu'ils m'emmènent?
+{20905}{20955}A l'aide.
+{20977}{21072}SIEGE DU F.B.I.|WASHINGTON
+{21090}{21175}- Que faites-vous là?|- Mulder a des ennuis.
+{21177}{21245}- Comment ça?|- Marchons un peu.
+{21247}{21300}Où est-ce qu'on va?
+{21302}{21397}- Les murs ont des oreilles.|- Moi aussi. Qu'y a-t-il?
+{21432}{21485}- Mulder a disparu.|- Où ça?
+{21487}{21647}Sur l'image du satellite radar|du Bureau de reconnaissance.
+{21685}{21752}- Je regarde quoi?|- On ne voit rien du tout.
+{21755}{21815}On l'a vu il y a 45 minutes.
+{21817}{21925}On a reçu l'image d'un navire|qui est apparu dans l'Atlantique.
+{21927}{22015}Le <i>Queen Anne,</i> disparu il y a 60 ans.
+{22017}{22115}Un paquebot de luxe torpillé|par un sous-marin allemand.
+{22117}{22165}- C'est une théorie.|- Y en a d'autres?
+{22167}{22245}Sa position était secrète|par peur des espions,
+{22247}{22362}mais il a disparu|au sud du banc Plantagenet.
+{22365}{22427}Par moins de 20 m de fond.|On ne l'a pas retrouvé.
+{22430}{22505}- II a disparu?|- Dans le triangle des Bermudes.
+{22505}{22585}Il est réapparu aujourd'hui,|à 6 h 49, heure de New York.
+{22587}{22605}Impossible.
+{22607}{22657}- Le satellite ne ment pas.|- II n'y a rien.
+{22660}{22740}On a donné les images à Mulder|pour le guider.
+{22740}{22780}- II était pressé.|- II allait où?
+{22782}{22865}- Chercher le <i>Queen Anne.</i>|- II est allé là-bas?
+{22867}{22980}Il a loué un bateau aux Bermudes.|On l'a suivi par satellite.
+{22982}{23035}Jusqu'à la tempête.
+{23037}{23090}- C'est ce qu'on a.|- Qu'est-il arrivé?
+{23092}{23185}On a besoin d'informations.|On est venus pour ça.
+{23187}{23270}- Sinon, on ne peut qu'espérer.|- Et s'attendre au pire.
+{23272}{23317}Il faut trouver de l'aide.
+{23320}{23447}- Une aiguille dans une meule de foin.|- Vous avez besoin de quoi?
+{23450}{23565}Un AWACS de la marine|avec un radar SLAR ou SAR 100k.
+{23567}{23655}On a besoin du Pentagone.
+{23655}{23715}Attendez-moi en bas.
+{23890}{23950}- Je dois lui parler.|- Asseyez-vous.
+{23952}{23985}- II est là?|- Oui.
+{23987}{24045}Ca ne peut pas attendre.
+{24047}{24085}Monsieur?
+{24085}{24150}Un instant. Qu'y a-t-il agent Scully?
+{24152}{24270}J'ai des informations perturbantes.|J'ai besoin de votre aide.
+{24272}{24337}Je vous rappelle.
+{24380}{24475}- N'entrez pas comme ça.|- C'était trop pressé.
+{24477}{24535}- Pourquoi est-ce si urgent?|- Mulder a fait une bêtise.
+{24535}{24567}- Pourquoi est-ce si urgent?|- Mulder a fait une bêtise.
+{24570}{24627}- Je ne peux pas.|- II est perdu en mer.
+{24630}{24672}- Je ne peux pas.|- Pas quoi?
+{24675}{24767}- Je ne peux pas vous aider.|- C'est pour Mulder.
+{24770}{24832}Impossible. Je ne suis plus votre supérieur.
+{24835}{24935}- Vous ne voulez rien savoir?|- Rien du tout.
+{24937}{25090}- La vie d'un homme est en jeu.|- Je n'ai pas le droit de vous voir.
+{25092}{25157}Je n'ai pas pu l'arrêter.
+{25222}{25302}- Vous dépassez les bornes.|- Moi non, mais vous si.
+{25305}{25410}J'ai besoin d'aide.|Je n'ai personne vers qui me tourner.
+{25412}{25540}J'espérais que vous auriez|la politesse et la décence
+{25542}{25602}de m'écouter.
+{25605}{25662}J'ai besoin d'informations.
+{25665}{25735}Vous n'avez rien d'autre à faire.
+{25810}{25965}Un contact au service des renseignements|de la marine m'aiderait beaucoup.
+{26052}{26182}Je risque mon poste, ma retraite|ou même un procès.
+{26277}{26362}Réfléchissez. Sauvez votre peau.
+{26395}{26495}Sauvez donc la vôtre.|Vous sauverez aussi votre tête.
+{27482}{27532}Excusez-moi.
+{27977}{28050}Je prends les dossiers et j'appelle.
+{28050}{28122}- Je dois voir Kersh.|- II est occupé.
+{28125}{28190}Vous m'accordez un instant?
+{28192}{28282}- Un instant pour quoi?|- Je peux? Merci.
+{28360}{28442}J'ai besoin d'informations.
+{28445}{28575}Je ne peux pas vous dire pour quoi,|mais c'est capital.
+{28635}{28685}- Oui?|- Je...
+{28705}{28785}Je n'aurais pas dû venir sans prévenir.
+{28815}{28902}Je peux voir|ce que vous vouliez me montrer?
+{28960}{29010}Ce n'est rien.
+{29030}{29080}Vraiment.
+{29097}{29147}Tant mieux.
+{29600}{29665}Où ai-je la tête?
+{29745}{29795}Pardon.
+{30022}{30077}Allez.
+{30080}{30135}Réponds, Mulder.
+{30300}{30380}L'abonné est injoignable.
+{30382}{30432}Zut.
+{30570}{30700}Rendez-moi service. Sans discuter.|Faites-le ou je vous tue.
+{30740}{30800}- Ca va?|- Non, je suis à bout.
+{30800}{30870}Ne me cherchez pas.|N'essayez pas de me doubler.
+{30872}{30922}De quoi avez-vous besoin?
+{30947}{31077}D'un AWACS avec SLAR 100k.
+{31080}{31150}Au sud sud-est des Bermudes.
+{31150}{31260}Je cherche un paquebot de luxe. 1939.
+{31262}{31345}Ne posez pas trop de questions.|Débrouillez-vous.
+{31347}{31420}J'ai besoin de ces informations. Compris?
+{31422}{31457}Parfaitement.
+{31460}{31592}Revenez vite, sinon je vous retrouverai|et que Dieu me vienne en aide...
+{31595}{31645}C'est ça.
+{31952}{32025}- Allô?|- Agent Fowley?
+{32025}{32050}Oui.
+{32052}{32102}Je cherchais l'agent Spender.
+{32105}{32195}Je suis désolée, il n'est pas là.|Je peux peut-être vous aider.
+{32197}{32285}L'agent Scully a donné|au directeur adjoint un papier
+{32285}{32357}avec le nom d'un système de renseignement.
+{32380}{32430}Oui?
+{32447}{32512}- Monsieur?|- Qui êtes-vous?
+{32815}{32930}- Agent Scully. Je viens vous chercher.|- J'attendais l'agent Spender.
+{32932}{32987}Je devais prendre une livraison.
+{32990}{33070}Spender est avec le directeur adjoint Kersh.
+{33072}{33122}Le sale rat.
+{33347}{33397}Quelle idiote.
+{33425}{33475}Scully.
+{33515}{33565}Mulder, c'est toi?
+{33635}{33707}Non. Je suis dans un ascenseur.
+{33710}{33775}Je descends dans une s...
+{33777}{33827}Attends.
+{34002}{34042}- Allô?|- Scully?
+{34042}{34055}- Allô?|- Scully?
+{34130}{34195}Je n'y comprends rien.
+{34265}{34307}- C'était vous?|- Là, c'est vous?
+{34310}{34410}Je vous cherchais. J'ai reçu les informations.
+{34442}{34495}- Comment?|- Ne me demandez pas.
+{34497}{34557}Ce que vous avez fait...
+{34560}{34642}- ...pourrait bien sauver Mulder.|- Merci.
+{34645}{34787}Faites-moi contrevenir au règlement|et je vous ferai virer du F.B.I.
+{34790}{34840}Bien, monsieur.
+{34910}{34960}Oui.
+{35505}{35570}- C'est bon?|- Oui.
+{35895}{35957}Américain? Je vous ai sauvé la vie.
+{35960}{36027}Les Boches veulent pas vous voir en guerre.
+{36030}{36105}- Deux mots: Pearl Harbor.|- Quoi?
+{36107}{36210}Hitler va envahir le Danemark,|les Pays-Bas et la France.
+{36210}{36292}La France s'en remet à nous,|l'ltalie profite de la situation
+{36295}{36367}et le Japon les prend par surprise.
+{36370}{36460}- Une histoire sanglante qui finit bien.|- On va gagner?
+{36460}{36530}Vous vous en sortirez avec notre aide.
+{36532}{36655}Vous n'aurez à rougir de rien pendant 50 ans,|à part peut-être des Spice Girls.
+{36890}{37002}Notre hôte dit que ce sont|nos nouveaux quartiers.
+{37005}{37065}Vous les comprenez. Qu'ont-ils crié?
+{37067}{37157}Ils croient|qu'on emmène des armes en Angleterre.
+{37160}{37270}- C'est le cas?|- On a un tirant d'eau de 5 mètres.
+{37272}{37332}On va à 21 noeuds en pleine puissance.
+{37335}{37415}Si on a des munitions,|elles ne pèsent pas bien lourd.
+{37417}{37497}Le capitaine savait un truc.|Il est resté à la barre.
+{37500}{37590}Les nazis ont intercepté un appel radio.
+{37592}{37657}Ils parlent sans cesse d'un code.
+{37660}{37755}Le marteau de Thor. C'est quoi?
+{37757}{37830}Qui va là?
+{37855}{37920}Montrez-vous ou on vous défigure.
+{37920}{37995}Posez vos armes. Ils sont des nôtres.
+{37997}{38052}- Que faites-vous là?|- On prend le thé.
+{38055}{38147}- A ton avis, gros balourd?|- Qui est à la barre?
+{38150}{38230}Des types qui réagissent à: "Heil Hitler".
+{38232}{38345}Tu connais l'Allemagne?|lls vont t'adorer là-bas.
+{38347}{38415}Ce navire ne peuty aller.
+{38415}{38475}- Décidez-vous.|- C'est impossible.
+{38475}{38552}Vous avez un truc|plus dangereux que des armes.
+{38555}{38617}- Le Marteau de Thor.|- Un homme. Pas une arme.
+{38620}{38707}Il conçoit une bombe|qui permettra de gagner la guerre.
+{38710}{38830}- II est à bord?|- Je l'ai vu dans la salle de bal.
+{39150}{39200}<i>Auf Wiedersehen,</i> les gars.
+{39230}{39317}Qu'est-ce qui te prend?|II y a des espions partout.
+{39320}{39380}Ne fais confiance à personne.
+{39380}{39450}Il faut arrêter ce navire.
+{39655}{39725}Qui s'occupe de la salle des machines?
+{39802}{39902}Je vous parle. Arrêtez les moteurs.|Faut qu'on se saborde.
+{39905}{39985}- Remplissez les cales d'eau.|- Coupez les moteurs.
+{39987}{40107}- On peut pas faire autrement.|- Comme ça, on n'ira pas en Allemagne.
+{40110}{40165}Pas question. On rentre au bercail.
+{40165}{40172}Pas question. On rentre au bercail.
+{40175}{40260}C'est pas le chemin de l'Angleterre.
+{40370}{40452}Faut ramener le navire à son port de départ.
+{40455}{40565}Vous n'arriverez pas en Angleterre.
+{40710}{40832}Ce n'est pas possible non plus.|Les Allemands vous trouveront.
+{40835}{40907}Et qui êtes-vous donc?
+{40910}{40972}- Mulder.|- II veut rentrer en Amérique.
+{40975}{41090}Non, je veux que vous rebroussiez chemin.
+{41090}{41182}- On est à mi-route.|- II faut faire demi-tour.
+{41185}{41260}- Qu'y a-t-il dans cette direction?|- L'avenir.
+{41260}{41320}Le passé, en fait.
+{41322}{41402}- J'en suis convaincu.|- Je peux vous expliquer.
+{41565}{41635}Faites demi-tour sinon Hitler va gagner
+{41637}{41737}et vos enfants ne conna îti ront pas la liberté.
+{43630}{43680}Debout.
+{44210}{44335}Il y a un savant à bord qui peut|fabriquer une bombe. Qui est-ce?
+{44337}{44387}Je l'ignore.
+{44695}{44825}Répondez, sinon|nous allons abattre des passagers.
+{44825}{44890}Lequel est le savant?
+{44910}{44960}Je ne sais pas.
+{45837}{45925}Combien de vies voulez-vous sacrifier?
+{45985}{46040}Aucune.
+{46042}{46107}Vous avez la réponse?
+{46480}{46532}Arrêtez.
+{46535}{46640}Vous tuez des innocents|pour apprendre qu'il ne sait rien.
+{46642}{46755}- Fermez-la et poussez-vous.|- Ecoutez, espèce de fouine.
+{47177}{47240}Répondez.
+{47240}{47305}Je vais vous répondre.
+{47520}{47585}C'est lui, le savant.
+{47950}{48060}Scully, tu ne vas pas y croire. Viens voir.
+{48062}{48112}Quoi?
+{48147}{48232}Le ciel s'est éclairci et il était là.
+{48235}{48290}C'est bien le <i>Queen Anne?</i>
+{48292}{48342}Oui.
+{48385}{48467}- Je n'y crois pas.|- Pourtant, c'est lui.
+{48557}{48622}Quelle puissance.
+{48645}{48707}Mulder est peut-être à bord.
+{48710}{48775}Espérons-le.
+{48805}{48857}- Vous mentez.|- II dit la vérité.
+{48860}{48910}La ferme. Qui est le savant?
+{48912}{48975}Je vous l'ai dit. C'est lui.
+{49257}{49307}Il s'appelle comment?
+{49340}{49440}Tartempion. Mêlez-vous de vos oignons.
+{49442}{49465}Son nom.
+{49465}{49532}Clafoutis et paupiettes. Je répète?
+{49535}{49682}Ne tirez pas. C'est moi.
+{49685}{49780}Cet homme ment. C'est moi.
+{49782}{49875}- La vérité, avant qu'un autre ne meure.|- Je ne le connais pas.
+{49877}{50015}Elle assure ma protection.|Elle travaille pour les services secrets.
+{50155}{50195}Formidable.
+{50197}{50262}Vous n'avez pas fait mieux.
+{50617}{50677}Qu'a-t-il dit?
+{50757}{50832}- Je crois que j'ai compris.|- Vous apprenez vite.
+{51145}{51215}- Que se passe-t-il?|- Les moteurs s'arrêtent.
+{53177}{53220}- Quoi?|- Viens avec moi.
+{53220}{53320}- Pourquoi?|- Toi seule peux sauver le navire.
+{53895}{53945}Viens.
+{54287}{54337}On fait quoi, Einstein?
+{54680}{54765}Dieu bénisse l'Amérique. Filez.
+{55275}{55325}Byers?
+{55345}{55395}Langly?
+{55425}{55475}Frohike?
+{55760}{55820}Allez, viens.
+{56012}{56072}Vous voilà.
+{57617}{57690}- Que faites-vous?|- Je te dis comment sauver le navire.
+{57690}{57745}Je dois reprendre le cours de l'histoire.
+{57747}{57815}- Quoi?|- Tu dois le sauver.
+{57817}{57935}Il est pris dans le triangle du Diable,|une distorsion spatiotemporelle.
+{57937}{58032}- Vous êtes fou?|- Einstein voit une possibilité théorique.
+{58035}{58100}Et une bombe atomique|qui détruirait le monde.
+{58102}{58150}Oui, et alors?
+{58150}{58262}Si tu ne forces pas l'équipage à rentrer|dans le triangle du Diable,
+{58265}{58410}les prédictions d'Einstein se réaliseront.|Sauf les conséquences historiques.
+{58410}{58480}Si je ne fais pas demi-tour...
+{58495}{58565}Je n'existerai sûrement pas.
+{58595}{58655}Et toi non plus.
+{58687}{58757}Si on se revoit jamais...
+{59210}{59275}J'attendais le gauche.
+{60912}{60962}Mulder, c'est moi.
+{60992}{61070}- Où suis-je?|- Dans un hôpital.
+{61070}{61155}- Ne bouge pas.|- Je me sens pas bien du tout.
+{61170}{61252}C'est normal. Tu as dû|passer un sale quart d'heure.
+{61255}{61367}- Que m'est-il arrivé?|- Tu as fait un truc vraiment idiot.
+{61387}{61475}- J'ai fait quoi?|- Tu as cherché un navire.
+{61522}{61587}Dans le triangle des Bermudes.
+{61605}{61677}- Tu peux répéter?|- Le naufragé se réveille.
+{61707}{61815}- Tu y étais, Scully.|- II délire.
+{61817}{61890}- Et lui aussi.|- Moi et mon chien, Toto.
+{61890}{61985}- Vous étiez avec les nazis.|- Calme-toi. C'est un ordre.
+{61987}{62065}- II ne suit pas les ordres.|- Tu as sauvé le monde, Scully.
+{62065}{62075}- II ne suit pas les ordres.|- Tu as sauvé le monde, Scully.
+{62077}{62160}- C'est vrai. Tu as raison.|- Quelles drogues prend-il?
+{62162}{62220}- J'en veux.|- Le <i>Queen Anne.</i> Je l'ai trouvé.
+{62222}{62330}Toi, le Marteau de Thor.|Je t'ai dit de repartir et j'ai sauté.
+{62332}{62457}Ca, je n'en doute pas.|Ce navire a été réduit en miettes.
+{62460}{62567}Quant au <i>Queen Anne,</i>|ce n'était qu'un vaisseau fantôme.
+{62570}{62712}On était sur ce navire, Scully. En 1939.
+{62750}{62882}Repose-toi parce qu'à ta sortie,|je vais te botter le cul.
+{62957}{63025}Je ne t'aurais jamais revue.
+{63025}{63090}Tu m'as cru.
+{63132}{63182}Tu as rêvé.
+{63217}{63290}Mulder, ferme les yeux
+{63290}{63410}et dis-toi qu'il est bon de rentrer chez soi.
+{63477}{63527}Scully.
+{63615}{63617}Oui?
+{63617}{63665}Oui?
+{63765}{63817}Je t'aime.
+{63820}{63870}Mon Dieu.
+{64677}{64717}Sous-titrage Visiontext: Anne Kosossey
+{65192}{65242}FRENCH

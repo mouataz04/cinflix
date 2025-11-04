@@ -1,0 +1,404 @@
+{46}{126}"En 3 jours, j'ai convaincu|Elliot de virer son petit ami,
+{127}{189}"pour lui dire finalement|que je ne l'aime pas.
+{190}{329}"Nous sommes toujours bons amis,|surtout si je la laisse
+tranquille.
+{330}{415}"Mais, comme la famille de|Turk est ici pour le mariage
+{416}{465}"je dois habiter chez elle."
+{484}{511}On doit y aller.
+{579}{658}Je saigne ! Un mouchoir, s'il te plaît ?
+{718}{786}Vous en pensez quoi ?|On dirait un serveur, non  ?
+{797}{849}Imbécile
+{859}{951}T'inquiète pas Rowdy,|j'épouse leur soeur.
+{964}{1077}Chérie !|Regarde ce que j'ai fait avec Rowdy !
+{1080}{1167}Tu ne dois pas me voir le jour|du mariage, espèce d'idiot !
+{1187}{1236}Elle répète un peu.
+{1250}{1285}Je viens de comprendre.
+{1287}{1374}C'est un reality-show oô notre soeur|doit nous faire
+accepter
+{1375}{1419}qu'elle va épouser un immonde...
+{1457}{1585}Nous n'avons pas été présentés.|Je suis la maman de Turk.
+{1586}{1625}Comment ça va ?
+{1626}{1689}Ça doit faire mal.
+{1697}{1766}Je veux que tout se|passe bien aujourd'hui !
+{1781}{1809}Tu peux crever.
+{1810}{1838}Elliot !
+{1839}{1872}Après le mariage.
+{1873}{1905}Merci !
+{1906}{1972}Elliot. Tu m'aides à|m'épiler les sourcils ?
+{1973}{2006}Okie-dokie.
+{2011}{2126}"Je le veux".|Le baiser distingué...
+{2156}{2190}Ou bien sexy...
+{2242}{2294}Ou de cochonne...
+{2355}{2408}Ça a l'air sympa.|Un coup de main ?
+{2441}{2472}Brosse-toi.
+{2472}{2537}Tu devrais faire|attention à ce que tu fais.
+{2537}{2556}Vraiment ?
+{2667}{2739}Tu les voulais... épilés comment ?
+{2898}{2928}Turk et moi on va y aller.
+{2960}{3015}"Turk et moi avons fait un pacte."
+{3039}{3087}"Le jour ou l'un de|nous deux se marie,
+{3088}{3203}"nous devons jouer une dernière partie|de golf-tennis sur
+le parking."
+{3236}{3289}Mates ça, Champion !
+{3296}{3336}- Bien joué.|- Je veux.
+{3349}{3449}"Au fait... Celui qui se marie,|doit faire le caddie tout
+nu."
+{3554}{3585}Il s'en remettra.
+{3625}{3712}J'arrive pas à croire que|tu vas vraiment te marier.
+{3713}{3752}Moi non plus, mon pote.
+{3764}{3827}Oô est le cache de mon bois n°1 ?
+{3828}{3866}Sur mon bois n°9.
+{3870}{3956}Oohh ! Mon pote !|C'est ma mère qui l'a fait !
+{3968}{4039}Enfin, je suis content pour toi.
+{4040}{4082}Moi aussi.
+{4118}{4190}Scrubs 3x22|Le mariage de mon meilleur ami
+{4190}{4297}Traduction : Lgy.|Synchro et finalisation: foromuser10
+{4611}{4691}Génial. Je vais avoir un bouton.
+{4731}{4763}Ça se voit ?
+{4843}{4884}Je demanderai à quelqu'un d'autre.
+{4903}{4961}Cachez la mariée ! Je l'ai trouvé !
+{4978}{5058}Turk, on va à St John.
+{5059}{5096}Je croyais que vous vous|mariez à la Sainte Trinité ?
+{5097}{5127}St John est moins cher.
+{5128}{5183}En plus, le prêtre|ressemble au Capitaine Solo.
+{5184}{5233}Non, c'est le prêtre de la Trinité.
+{5234}{5294}Je voulais être marié par Solo !
+{5295}{5356}Tu viens avec nous, oui ou non ?
+{5357}{5400}Si je fais cette garde,
+{5401}{5461}je peux gratter deux jours|pour la lune de miel.
+{5462}{5510}- "Gratter" est bien choisi.|- Merci.
+{5518}{5608}Je sors d'ici à 4 h, la cérémonie|ne démarre pas avant 5 h.
+{5609}{5677}Au pire, je suis un peu|en retard au mariage.
+{5680}{5708}Allez y !
+{5753}{5812}Tu es face à une fiancée|à bout de nerfs,
+{5812}{5884}une femme humiliée et|2 soeurs avec 3 sourcils.
+{5888}{5924}On se voit à 5 heures !
+{6043}{6115}Comment tu t'en sors|de l'histoire avec JD ?
+{6167}{6264}Tu t'inquiètes pour moi|un jour comme aujourd'hui ?
+{6288}{6333}Tu es vraiment une amie géniale.
+{6334}{6385}Arrête tout de suite,|Elliot.
+{6385}{6471}Je me suis promis de ne pas pleurer|avant d'avoir fait les
+photos.
+{6485}{6542}Je t'aime tellement.
+{6556}{6621}Moi aussi !
+{6647}{6719}Même si j'ai arraché|le sourcil de ta soeur ?
+{6720}{6774}C'est pas grave...
+{6774}{6864}En plus ce matin, elle a dit|qu'elle serait plus jolie que
+moi !
+{6870}{6913}Plus maintenant !
+{7002}{7089}Carla, un homme nous filme.
+{7116}{7211}Il fait la vidéo du mariage.|Salut, Anthony.
+{7212}{7242}Ça va, beauté.
+{7302}{7359}Dans quelques heures,|tu seras mariée !
+{7372}{7439}Rien ne sera comme avant.
+{7473}{7542}Tu ne feras l'amour que|quand tu le voudras vraiment.
+{7545}{7574}Je sais !!!
+{7662}{7711}Efface la dernière partie.
+{7791}{7871}Alors... Prêt pour|votre appendicectomie ?
+{7872}{7948}Vous faîtes quoi de l'appendice|quand vous l'avez retiré ?
+{7949}{7993}Des marionnettes à doigt.
+{8011}{8054}Ne faites pas attention|au Dr Turk.
+{8055}{8140}Il est surexcité parce qu'il|se marie cet après-midi.
+{8143}{8255}Je suis la seule personne de tout|l'hôpital à ne pas être
+invitée.
+{8312}{8387}C'est une cérémonie intime,|vous êtes un patron génial
+{8387}{8448}et je me sens mal|à propos de tout ça...
+{8484}{8610}On fait un brunch demain|avec la famille et les amis
+proches...
+{8628}{8680}Nous adorerions que vous soyez là.
+{8696}{8744}Ça me touche profondément !
+{8774}{8835}Je ne pensais pas que vous|diriez oui. Il n'y a pas de
+brunch.
+{8907}{8946}Ça va me coûter cher.
+{9017}{9080}Lève toi. Nous allons à un mariage.
+{9131}{9251}Ma mère garde Jack,|la maison est vide...
+{9252}{9317}Il n'y a que toi et moi...
+{9354}{9384}Faisons la sieste !
+{9385}{9470}On dort jusqu'à la cérémonie et|on arrive pour la réception.
+{9474}{9535}Peut-on au moins faire l'amour ?
+{9536}{9575}Fais ce qui te chante.
+{9596}{9635}Ne me réveille pas.
+{9897}{9945}C'est une église !
+{9946}{10007}On fait surtout des Bar Mitzvahs.
+{10008}{10055}Salut, J.Z.
+{10056}{10076}Holla.
+{10077}{10149}Apparement, cette femme souhaite|que tu sois son cavalier.
+{10160}{10216}Qu'est-ce que tu fais là ?
+{10217}{10266}On était invités avant de rompre...
+{10267}{10329}Tu ne bousilleras pas le|mariage de mon meilleur ami !
+{10330}{10379}Je mets des sous dans la cagnotte.
+{10380}{10411}Par ici, s'il te plaît.
+{10564}{10632}Ce que tu m'as appris pour|emballer les petites hispanos
+{10633}{10662}ça ne marche pas terrible.
+{10662}{10710}Tu dois mal prononcer. Vas-y.
+{10730}{10808}J'ai un herpès génital...
+{10809}{10875}pour toi.
+{10875}{10934}Non. C'est bon. Essaye encore.
+{10969}{11055}Beaucoup d'herpès ! Énorme !
+{11097}{11203}Je suis d'accord avec Chet.|Turk, Carla, vous êtes
+géniaux !
+{11204}{11308}C'est un mariage... génial,|je passe un moment génial
+{11309}{11372}et tous les deux, vous|aller avoir une vie géniale !
+{11412}{11453}Génial !
+{11454}{11493}Tu tiens mon chewing-gum ?
+{11604}{11662}Donnez-moi cet appendice !
+{11666}{11731}Refermons ce mec|et je me barre d'ici !
+{11732}{11806}Attendez. Regardez ces|lésions sur le péritoine.
+{11807}{11848}Oh non.
+{11850}{11947}Dr Turk... Que devrions-nous faire ?
+{11948}{12005}Laissez un post-it pour|le chirurgien suivant ?
+{12006}{12034}Essayez encore.
+{12041}{12140}Faire une laparo exploratoire.|Apportez-moi un téléphone !
+{12224}{12269}Nous allons commencer bientôt.
+{12270}{12353}Veuillez éteindre|vos téléphones portables.
+{12541}{12577}Le Todd à l'écoute...
+{12623}{12687}Je peux pas te parler.|Je suis à ton mariage.
+{12688}{12729}Donne moi ça !
+{12800}{12849}Carla, c'est Turk.
+{12872}{12908}Allo ?
+{12935}{12986}Où sont les autres|demoiselles d'honneur ?
+{13001}{13048}Parties acheter un sourcil.
+{13056}{13172}Mince. Le samedi, Sourcil,|Sourcil et Sourcil sont fermés.
+{13173}{13242}Il faut traverser toute la ville|pour aller au Palais du
+Sourcil.
+{13312}{13394}Dis-moi ce que tu veux|que je fasse et je le fais.
+{13395}{13430}Revenir en arrière et
+{13431}{13489}m'empêcher de foutre|ma vie en l'air pour toi.
+{13546}{13657}"Et je sus comment tout arranger|si j'en avais encore le
+temps."
+{13658}{13712}Comment ça, "tu vas être en retard" ?
+{13713}{13762}Super !
+{13762}{13791}Tu as dit quoi ?
+{13791}{13817}Rien !
+{13818}{13840}Hein ?
+{13895}{13935}Un message pour les mariés ?
+{13954}{13994}Les enfants...
+{13995}{14090}Je veux simplement vous|souhaiter bonne chance, parce que,
+{14091}{14157}la clé d'un mariage...
+{14181}{14204}Regardez !
+{14370}{14425}Ted ! J'ai l'air prête ?
+{14428}{14470}Désolé.
+{14474}{14536}Asseyez-vous, tout le|monde ! Fermez les yeux !
+{14586}{14681}Turk est encore au bloc et
+{14682}{14783}si vous patientez encore un peu,|ce sera parfait.
+{14789}{14884}Ne regardez pas ! |Je reviens dans une minute !
+{14901}{14976}Je savais que cet imbécile|foutrait tout en l'air !
+{14990}{15055}Tu insultes mon ami Turk ?
+{15056}{15098}Et tu vas faire quoi, tête de pioche ?
+{15099}{15202}Mon pote, je vais te ridiculiser !
+{15310}{15372}Ça commence à chauffer.
+{15393}{15477}"Je me demande comment Sean a|réagit quand Elliot l'a
+largué ?"
+{15514}{15598}Par hasard, vous sauriez pas|si Sean Kelly habite ici ?
+{15599}{15643}Salut J.D.
+{15692}{15739}Merci pour la pièce.
+{15946}{16027}Chérie... Tu te réveilles ?
+{16028}{16083}Pourquoi es-tu si pressé ?
+{16111}{16154}Je ne suis pas pressé du tout !
+{16276}{16325}Tu m'as habillée ?
+{16326}{16403}Bon. Carla me fait peur.
+{16414}{16498}Elle est peut-être petite,|mais elle a des jambes très
+musclées.
+{16499}{16571}Écoute, petite nature. Dès|qu'on arrive à la réception,
+{16572}{16685}tu diras que la cérémonie était|très belle et ça fera
+l'affaire.
+{16686}{16763}Crois-moi ! On ne rate rien du tout !
+{16772}{16840}Beauté, un message aux mariés ?
+{16849}{16929}J'ai jamais vu un mariage aussi génial !
+{16941}{17017}-Je m'amuse tellement. Il y a plein de mecs mignons ici
+!|(-Hey, tu joues à quoi ? C'est ma copine !)
+{17026}{17073}J'veux dire que|je m'amuse tellement.
+{17074}{17151}Ces mecs embrassent vraiment bien.
+{17152}{17211}J'aime bien les vêtements|que portent les invités...
+{17212}{17319}Et je sais que...ça|n'a pas été simple...
+{17320}{17369}mais on est comme des amis.
+{17528}{17576}Ted ! Je vais vous tuer !
+{17576}{17615}Ça n'arrivera plus.
+{17616}{17662}Vous connaissez les consignes !
+{17735}{17766}Ecoutez, Melle Espinoza...
+{17767}{17823}malheureusement, il y a un|autre mariage programmé...
+{17824}{17873}Attendez, Mon Père. Il va arriver.
+{17961}{18003}Je peux ?
+{18020}{18096}Allez-y. Je finis.
+{18097}{18133}Merci !!
+{18202}{18296}Sean... Tu as l'air...|moutonneux ?...
+{18322}{18388}Depuis qu'Elliot m'a quitté,|ma vie s'est effondrée.
+{18389}{18441} Ça fait 4 jours, Sean.
+{18441}{18528} Ça rend ta barbe encore|plus impressionnante, d'ailleurs.
+{18546}{18585}J'ai du sang Hongrois.
+{18617}{18700}- Tu veux quoi, J.D. ?|- Je ne t'ai pas volé Elliot !
+{18701}{18775}Elle a paniqué parce que|vous emménagiez ensemble.
+{18784}{18814}Je sais pas...
+{18815}{18924}Si tu avais du courage,|tu irais à ce mariage,
+{18925}{19009}tu la prendrais|dans tes bras... velus
+{19010}{19052}et tu lui dirais de revenir !
+{19121}{19187}Mais, prends une douche d'abord.
+{19240}{19302}C'est incroyable qu'il|ne soit pas encore là !
+{19303}{19343}Tout baigne, j'ai assuré !
+{19361}{19421}Je ne parle pas de toi !!
+{19422}{19470}Ils ont couché avant le mariage.
+{19471}{19568}Si votre fiancé n'est pas|là dans les 30 secondes,
+{19569}{19626}je vais devoir passer à la suite.
+{19643}{19700}Les femmes ne vous manquent jamais ?
+{19700}{19753}- Parfois.|- Ce serait pareil pour moi.
+{19797}{19839}Tu es loin ?
+{19840}{19943}J'y suis ! Commencez !|Je te retrouve à l'autel !
+{20183}{20257}C'est pour de bon, cette fois !
+{20792}{20817}Carla !
+{21010}{21069}Je peux vous aider, jeune homme ?
+{21074}{21125}Mr Solo ?
+{21132}{21179}Non, mon fils.
+{21305}{21407}Chérie, je me suis gouré.|C'est bon si je fonce ?
+{21419}{21454}Non
+{21846}{21898}Alors bébé, la fête est comment ?
+{21965}{22077}Je vais rester ici|et me taire un moment.
+{22088}{22145}Un soda s'il vous plaît, je conduis.
+{22146}{22187}C'est boisson à volonté, mon chou.
+{22188}{22233}Donnez-moi une barrique de scotch.
+{22275}{22338}Mon vieux, prenez ces clés et dégagez.
+{22365}{22463}"La voilà ! Fais un truc sympa."
+{22464}{22552}Elliot, regarde. Kelso m'a|donné ses clés de voiture.
+{22604}{22663}Mais qu'est-ce que tu fais ?!
+{22664}{22728}Je... J'essaye juste|d'arranger un peu les choses !
+{22729}{22781}Oublie le lancer|de clés dans la figure !
+{22781}{22893}Honnêtement J.D., il n'y a rien à faire.
+{22917}{22940}Salut, Elliot.
+{23159}{23209}Désolé, c'est l'émotion.
+{23232}{23285}Comment ça, un désastre ?
+{23286}{23358}Chérie, ce mariage est incroyable !
+{23358}{23443}Je sais ce que tu vas dire...|En fait, on n'est pas
+mariés.
+{23444}{23539}Mais ce soir, on va arranger ça.
+{23539}{23607}On attrape un avion pour les Bahamas
+{23607}{23712}et on se marie au milieu|des poissons et des sirènes.
+{23731}{23795}Pour la dernière fois,|les sirènes n'existent pas !
+{23796}{23838}Je sais ce que j'ai vu !
+{23870}{23917}Pourquoi l'orchestre ne joue pas ?
+{23918}{24053}Pourquoi ? Les crevettes.|Avariées.
+{24067}{24191}Le groupe les a mangées pendant|qu'on poireautait pour
+Monsieur.
+{24192}{24269}Ma puce, ta robe est superbe.
+{24291}{24344}Pas de musique.
+{24346}{24446}Je te jure que je vais craquer !
+{24461}{24495}Carla ?
+{24507}{24530}Vas-y.
+{24531}{24576}Je voulais vous dire que...
+{24590}{24671}c'était une des plus belles|cérémonies auxquelles j'ai
+assisté.
+{24691}{24746}Vous trouvez ça drôle ?
+{24765}{24837}Pourquoi vouloir me faire mal ?
+{24884}{24941}Vous devriez avoir honte !
+{24995}{25034}Boisson à volonté ?
+{25123}{25179}Filez tant que vous pouvez !
+{25202}{25244}Je suis heureux.
+{25308}{25345}Joyeux mariage, morveux.
+{25345}{25385}Poursuis ton chemin, dragon.
+{25531}{25564}Comment va ?
+{25565}{25632}Vous portez votre|blouse à un mariage ?
+{25633}{25694}Je ne suis pas invité.
+{25695}{25753}Je travaille ici le week-end.
+{25787}{25846}- C'est qui ?|- Mon rencard.
+{25879}{25983}Les fourchettes ! Frannie ! |Les fourchettes !
+{25984}{26030}Les fourchettes ça rapporte bien ?
+{26031}{26085}Fourchettes et les louches.
+{26116}{26159}Alors, tu as fait quoi ?
+{26160}{26232}J'ai fait le docteur. Et toi ?
+{26258}{26292}J'ai beaucoup pleuré...
+{26295}{26356}puis, je suis devenu|totalement hébété.
+{26381}{26456}Ce matin, j'ai enfoncé deux|couverts à salade dans ma
+cuisse
+{26457}{26508}pour voir si je sentais|encore la douleur.
+{26517}{26541}Et alors ?
+{26542}{26567}Oui, toujours.
+{26572}{26593}Tant mieux.
+{26617}{26661}Tu veux partir d'ici ?
+{26680}{26769}Écoute, Sean, je ne sais pas|ce que J.D. t'a dit, mais...
+{26780}{26944}je n'ai pas rompu parce que j'ai|flippé à l'idée de vivre
+avec toi.
+{26993}{27077}Il y a eu cette histoire|entre J.D. et moi...
+{27078}{27152}je croyais qu'il était le bon...
+{27153}{27232}Mais, je viens juste d'avoir|le coeur brisé.
+{27284}{27324}Ça fait mal, hein ?
+{27494}{27530}Carla ?
+{27578}{27689}Je m'excuse. Je suis un rustre.
+{27768}{27814}Ce n'est pas vous.
+{27825}{27877}C'est tout le reste !
+{27891}{27933}Depuis que je suis petite,
+{27934}{28012}j'ai toujours imaginé le mariage|comme un conte de fée.
+{28013}{28098}Et je finissais toujours mariée !
+{28099}{28183}Allez... le mariage, c'est surfait.
+{28188}{28262}Jordan et moi ne sommes pas|mariés et tout va bien.
+{28283}{28382}Perry, coucher avec un|inconnu, c'est tromper ?
+{28383}{28466}Techniquement non, si ça ne|dure pas plus de 10 secondes.
+{28473}{28516}Ça vaut pas la peine.
+{28631}{28689}Vous et Turk êtes fait|l'un pour l'autre.
+{28690}{28747}C'est votre destin|et vous le savez.
+{28772}{28820}Merci.
+{29196}{29273}- Je ne devrais pas boire.|- Je sais. Je sais.
+{29402}{29501}Carla est au bord du suicide.|On n'a pas de groupe, pas
+de DJ.
+{29502}{29581}Tu es mon témoin... Brainstorming.
+{29603}{29693}Tu te souviens de cette fête au|lycée quand la sono a
+rendu l'âme
+{29694}{29756}et que j'ai fini avec cette|étudiante brésilienne ?
+{29760}{29785}Et alors ?
+{29786}{29838}C'était génial.
+{29839}{29910}Tu as couché avec une naine.
+{29926}{29965}Je la croyais à genoux.
+{29966}{30075}Ted, vous pouvez jouer |un peu de musique ?
+{30076}{30175}Ça vous coûtera deux fois le|prix de la prestation à
+l'église.
+{30186}{30222}Voilà 20 dollars.
+{30239}{30315}Je vous rends 4...
+{30358}{30441}Ça vous va si on démarre|avec du TuPac ?
+{30442}{30474}Allez-y...
+{30484}{30560}C'est partiii.
+{30647}{30682}Bien, heu...
+{30696}{30778}Appelle moi si tu veux te|saouler et faire l'amour.
+{30802}{30840}Au revoir, Sean.
+{30855}{30877}Salut.
+{30885}{30965}- Tu me raccompagnes ?|- Heu... Hé bien...
+{30969}{31005} Bien sûr.
+{31152}{31218}Tu ne peux pas le|laisser faire ça !
+{31218}{31271}Son "merci" était... cochon !
+{31314}{31349}Arrête de rêver.
+{31349}{31389}Si Sean et moi devions être ensemble,
+{31390}{31490}je ne t'aurais pas laissé saboter|ce que j'avais
+construis avec lui.
+{31532}{31588}Toi et moi, ça va aller ?
+{31630}{31670}Qu'est-ce que tu crois ?
+{31716}{31757}Sans doute pas.
+{31808}{31841}Elliot !
+{31871}{31925}Dis-moi quand ça ira.
+{31939}{31986}Ne sois pas trop pressé.
+{32318}{32389}Dr Turkleton !
+{32390}{32465}En fait, c'est Turk, Monsieur.
+{32466}{32520}Ça, c'est votre prénom.
+{32527}{32606}Vous croyez que|je m'appelle Turk Turkleton ?
+{32618}{32758}Et Mme Turkleton ! Les Turkletons !
+{32835}{32894}Je peux avoir un scotch ?
+{32895}{32923}Chéri.
+{32940}{33012}Je suis tellement désolé|d'avoir tout gâché.
+{33023}{33077}C'est pas grave.
+{33118}{33164}Dansons.
+{33231}{33281}Chauffe, Ted.
+{33305}{33357}Heu, salut.
+{33385}{33470}Nous n'avons pas joué|depuis longtemps
+{33471}{33557}alors, soyez sympas si|on est un peu rouillés...
+{35386}{35502}"Après tout, les choses fonctionnent|rarement comme vous
+le souhaitez."
+{35579}{35631}Notre avion décolle dans une heure.
+{35632}{35691}Je sais, mais il faut|que je vois un patient.
+{35783}{35837}Comment allez-vous Mr Fitzpatrick ?
+{35838}{35905}"Parfois, la chance est de votre côté."
+{35906}{36007}En fait... c'est Père Fitzpatrick.
+{36015}{36101}Pourriez-vous nous|rendre un petit service ?
+{36116}{36233}"Et parfois, vous signez|votre propre perte."
+{36428}{36567}"Quoi qu'il en soit, vous devez croire|que, ce qui doit
+arriver, arrive."
+{36746}{36789}"D'une façon ou d'une autre,
+{36809}{36878}"on doit toujours finir avec|la personne qui vous est
+destinée."
+{36879}{36977}Un, deux et trois...
+{37059}{37113}Merci pour le coup de main.
+{37118}{37194}Je ne vais pas plus|loin que le container.

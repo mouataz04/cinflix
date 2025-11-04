@@ -1,0 +1,659 @@
+{002299}{002334}Les Soprano
+{002340}{002365}Deuxième avis
+{002418}{002490}Comptez à rebours à partir de 1 0.
+{002691}{002750}M. Soprano ? Une visite.
+{002837}{002877}Vous m'emmerdez même ici ?
+{002883}{002968}On vient vous faire une offre.
+{002975}{003042}Vous nous aidez|à faire tomber votre neveu Tony.
+{003048}{003109}- Contre ?|- La guérison.
+{003114}{003194}- Plus de cancer ?|- Plus une cellule malade.
+{003224}{003291}Soprano est libre :|il inculpe son neveu
+{003296}{003372}Le témoin clé|épouse Angie Dickinson
+{003528}{003590}Tu en as mis du temps.
+{003617}{003651}J'aime pas ça.
+{003656}{003703}Ne laisse pas les gens|te marcher dessus.
+{003708}{003762}Je plaisante pas !
+{003807}{003937}Docteur Kennedy ? Ici, le docteur Enloe.|J'ai les résultats de la section gelée.
+{003942}{004048}Dépêchons-nous,|j'ai une thyroïde à 1 0h30.
+{004053}{004122}Au vu des résultats antérieurs|de la section gelée. . .
+{004127}{004207}on attend les résultats du labo,|mais. . .
+{004212}{004318}- C'est propre ou non ?|- Oui, c'est propre.
+{004329}{004368}Referme, Miles.
+{004379}{004453}Sa tension est remontée,|mais il faut se dépêcher.
+{004458}{004493}Prends exemple sur moi.
+{004758}{004800}Alors ?
+{004866}{004946}Votre oncle|est quelqu'un de très costaud.
+{004951}{005007}Il s'en est bien sorti, tout va bien.
+{005012}{005067}- Formidable.|- Le cancer a. . .
+{005072}{005158}Disparu ? Oui. J'ai enlevé une tumeur|grosse comme un poing.
+{005192}{005283}Excusez-moi, on m'attend.
+{005308}{005414}Cheryl, assurez-vous|que Marty a son traitement. . .
+{005419}{005483}Je voudrais vous remercier.
+{005488}{005596}Mon oncle vous adore.|Si je peux vous être utile. . .
+{005601}{005680}Vous rendre un service. . .|Dites-le-moi.
+{005686}{005763}Je m'en souviendrai.
+{005872}{005931}Et de trois.
+{005970}{006039}- Mes 60 dollars !|- Tu peux rêver.
+{006045}{006109}J'ai gagné, Paulie.|Tu dois me payer.
+{006113}{006166}- Le reste, aussi.|- Quoi, par exemple ?
+{006172}{006281}Le Dom Pérignon pour les invités|de la tribune d'honneur.
+{006286}{006333}Au moment de payer,|t'avais disparu.
+{006339}{006395}Ne t'inquiète pas|de ce que je te donne. . .
+{006400}{006444}mais de ce que tu me donnes.
+{006450}{006582}- Fais pas suer avec ta morale.|- T'as un micro ?
+{006601}{006630}T'es cinglé !
+{006636}{006706}- Fouille-le.|- S'il me touche. . .
+{006711}{006824}Laisse-toi faire.|Et déshabille-toi.
+{006829}{006964}New York a rouvert les paris,|mais ils ont émis des clauses.
+{006969}{007054}"Période d'essai. " De mon temps,|ils ne faisaient pas ça aux nouveaux.
+{007058}{007110}Mais trop de gens|ont fait des conneries.
+{007116}{007167}Toi, par exemple ?
+{007196}{007267}Fais-moi plaisir,|ne te sens pas visé.
+{007589}{007638}- Enlève tout.|- Va te faire voir.
+{007647}{007734}Avant, j'étais emmerdant,|là, fais gaffe.
+{008066}{008130}lmpressionnant !
+{008284}{008348}Tu iras,|c'est pas la peine de discuter.
+{008353}{008454}- Jason n'y va pas.|- Tony, tu t'en mêles ?
+{008577}{008646}- Quoi ?|- Le voyage à Washington.
+{008651}{008715}Tu prends le car, demain.
+{008719}{008763}Ton sac est prêt, on a payé. . .
+{008768}{008819}et tu tâcheras d'apprendre|quelque chose.
+{008825}{008873}On va au siège du FBl.
+{008920}{008964}Et alors ?
+{009205}{009304}Qu'as-tu mis dans ta salade ?|Elle est délicieuse.
+{009309}{009341}Vinaigre balsamique.
+{009346}{009466}Ils jurent tous par ça, de nos jours.|Le vinaigre balsamique !
+{009471}{009528}Ma mère connaissait même pas.
+{009533}{009624}- Je file. Problème au boulot.|- On est dimanche.
+{009629}{009738}Je sais. J'ai pas le choix.|Hugh, à bientôt.
+{009819}{009892}- Je peux sortir de table ?|- Non.
+{009897}{010000}Il a des devoirs à finir|avant de partir. Vas-y.
+{010033}{010091}Bel exemple pour son fils !
+{010135}{010234}Il a deux modes d'action : la déprime|et les gueulantes. Quand il est là.
+{010241}{010363}- Son oncle a un cancer.|- Ils se parlaient plus.
+{010368}{010468}Si ça peut vous rassurer,|Tony va un peu mieux.
+{010555}{010637}On va chez sa psy ensemble.
+{010901}{010944}C'est pas Angelo Stamford.
+{010950}{011028}- Quoi ?|- Angelo voulait t'épouser. . .
+{011034}{011099}et aujourd'hui,|il a plein de pharmacies.
+{011105}{011190}Donc, il a pas besoin d'un psy ?|Il se prescrit ses calmants ?
+{011195}{011229}Ne sois pas si susceptible.
+{011234}{011306}Tu vas me bassiner souvent|avec ce mec ?
+{011527}{011613}- Je voulais dire. . .|- J'ai très bien compris.
+{011618}{011673}Hugh, apporte ton assiette.
+{011678}{011789}Tu ne devrais pas dramatiser comme ça.|On s'inquiète pour toi.
+{011794}{011891}C'est pas la peine.|Je n'aime pas ton comportement.
+{011896}{012022}Tu as oublié que papa aurait jamais|ouvert ses magasins sans l'aide de Tony.
+{012027}{012068}- N'importe quoi !|- Ah oui ?
+{012074}{012147}Ta boîte a été choisie pour réparer|les dégâts des ouragans.
+{012152}{012198}Les autres entrepreneurs|étaient pris ?
+{012203}{012235}Arrête, tu me fais pleurer.
+{012240}{012309}Tu n'as pas que des portes ouvertes|devant toi ?
+{012314}{012380}Si, mais c'est normal.|Vous, c'est cadeau.
+{013084}{013132}Enfin bref. . .|Quatre dollars la livre.
+{013226}{013369}- Qui a apporté ce truc ?|- Georgie. C'est tordant, hein ?
+{013489}{013545}C'est un jardin d'enfants, derrière ?
+{013570}{013669}Des jouets !|C'est un bureau, bordel !
+{013674}{013750}- Je l'ai acheté chez Rite-Aid.|- Quoi ?
+{013847}{013913}C'est pour ça|que je te paie ?
+{014726}{014800}Vous aviez l'air tendue|au téléphone.
+{014860}{014940}Je voulais m'assurer|que je pouvais venir seule.
+{014945}{015030}Tony ne pouvait pas venir.
+{015201}{015281}J'aime bien vos tableaux. . .|Jolis paysages.
+{015351}{015420}La statue, par contre,|pas trop.
+{015659}{015793}C'est différent quand Tony est là.|Vous ne vous taisez pas.
+{015798}{015871}Vous pensez|que je me tais volontairement ?
+{015946}{015999}Dites-moi|pourquoi vous êtes là.
+{016054}{016173}Je m'inquiète pour mon mari.|Ses sautes d'humeur.
+{016179}{016287}J'ai cru qu'une fois|que sa mère serait morte. . .
+{016340}{016438}Souvent, il ne me parle pas.
+{016443}{016544}Vous l'avez vu, le jour|où il n'a pas ouvert la bouche.
+{016549}{016638}C'est votre patient,|je ne suis que sa femme. . .
+{016643}{016726}mais essayez de vivre comme ça|24h sur 24, pour voir.
+{016737}{016801}- Je comprends.|- Ah oui ?
+{016805}{016886}Figurez-vous|que je ne suis pas la seule.
+{016891}{016982}Tony était pas d'humeur,|il n'a pas eu envie de venir.
+{016987}{017030}"Ras le bol de ces conneries. "
+{017037}{017117}C'est ce qui se passe|quand on touche un point faible.
+{017138}{017276}Il était perturbé par la mort de ce|jeune homme dans le broyeur d'ordures.
+{017281}{017393}Il n'a pas employé ce terme, si ?
+{017426}{017455}Vous voyez !
+{017460}{017525}- Qu'en pensez-vous ?|- Vous connaissez son travail.
+{017531}{017647}Un club de strip-tease !|A quoi passe-t-il ses journées ?
+{018056}{018115}Excusez-moi. Je suis frustrée.
+{018120}{018239}Tony est bizarre depuis trop|longtemps, et je ne peux pas l'aider.
+{018244}{018368}L'accompagner à ses séances a réveillé|beaucoup de sentiments en vous. . .
+{018373}{018433}parlez-en à quelqu'un.
+{018438}{018516}C'est pas la peine.|Je suis juste un peu à cran.
+{018521}{018653}J'aimerais vous aider,|mais votre mari est mon patient.
+{018665}{018797}Je n'ai pas besoin d'une thérapie,|je voulais juste parler.
+{018835}{018911}Si vous changez d'avis. . .
+{018916}{019029}je vous donne le numéro|d'un collègue à Livingston.
+{019212}{019259}C'était mon professeur.
+{019284}{019399}Ce ne sera pas nécessaire,|mais merci quand même.
+{019433}{019497}Merci de votre écoute.
+{019796}{019894}- Ce sont vos photos ?|- J'ai vécu dans ce village.
+{019899}{019952}Envoyez-les au National Geographic.
+{019983}{020099}J'ai reçu la pathologie|et les résultats de l'opération.
+{020104}{020172}- Je me sens très bien.|- Tant mieux.
+{020177}{020339}Il est possible que nous ayons|laissé des cellules malignes.
+{020344}{020386}Quand on opère. . .
+{020391}{020553}on doit décider où couper dans|les tissus sains autour de la tumeur.
+{020558}{020633}Les marges|n'étaient pas assez larges.
+{020650}{020701}On a prélevé|un échantillon de la tumeur.
+{020706}{020819}Au vu des résultats,|on a décelé la trace d'un nodule.
+{020824}{020909}Vous n'y êtes pour rien.|Qu'est-ce qu'on fait ?
+{020915}{021036}- On réopère.|- Oh non, encore me charcuter ?
+{021053}{021123}- Mme Brody est là.|- Allez-y.
+{021132}{021169}Je suis un peu débordé.
+{021174}{021291}Je marque l'opération pour mardi à 6h.|Vous serez admis dès lundi soir.
+{021318}{021404}- Des questions ?|- Quand pourra-t-il manger normalement ?
+{021411}{021461}D'ici deux semaines.
+{021466}{021596}Remplissez cette décharge|et signez-la. Comme ça, ça sera fait.
+{021603}{021637}Prenez le temps de lire.
+{021642}{021691}Pas la peine.|Je signe, si vous me le dites.
+{021696}{021755}Demandez-moi|de chier sur le Queen Mary...
+{021760}{021868}une heure après, ils auront|tout nettoyé. Je vous dois tout.
+{021874}{021930}Comment je peux savoir|ce qu'est un nodule ?
+{021935}{022052}T'as pas écouté ? Il y avait un numéro|spécial sur les vieux et la santé.
+{022057}{022163}"Faites-vous accompagner chez le médecin|par quelqu'un qui posera des questions. "
+{022169}{022230}T'as posé une question débile.
+{022767}{022802}Angie ?
+{022879}{022980}- Quelle surprise !|- Tu fais tes courses ici ?
+{022985}{023087}Ils ont des promotions.|Chaque centime compte.
+{023104}{023177}Comment ca va ?|Sans Pussy ?
+{023182}{023256}Cuisiner pour une personne,|c'est pas drôle.
+{023262}{023371}Viens dîner à la maison.|Meadow est à la fac et A.J. en voyage.
+{023378}{023464}Avec un peu de chance,|Tony sera pas là.
+{023562}{023626}Coco va trop mal,|je peux pas la laisser.
+{023630}{023687}Un chien ne remplace pas|les contacts humains.
+{023692}{023768}C'est tout ce que Sal m'a laissé.
+{023773}{023849}Après 24 ans, il disparaît,|me laissant avec un chien malade.
+{023855}{023952}Le véto veut la faire piquer,|mais je préfère la faire opérer.
+{023957}{024037}Sal faisait le maximum|pour cette chienne.
+{024042}{024121}Où je vais trouver 1 200 dollars ?
+{024126}{024257}Tony m'aide, Dieu merci,|ça couvre l'essentiel, mais. . .
+{024262}{024322}je ne peux pas faire d'extras.
+{024327}{024415}Je suis désolée.|Ca doit être dur.
+{024597}{024706}Y a-t-il une personne qui aime les mots|"Chaussures Jimmy Choo" ?
+{024711}{024769}Tu déconnes !
+{024867}{024943}Elles sont magnifiques.
+{024948}{025084}La demoiselle préfère peut-être|quelque chose de doré ?
+{025089}{025213}J'ai là une jolie paire de. . .|Je sais pas le nom.
+{025340}{025459}C'est tout pour toi. De la saison|prochaine, introuvables pour le moment.
+{025568}{025610}- C'est quelle taille ?|- Du 41 .
+{025615}{025733}Mais c'est n'importe quoi.|Je fais du 39.
+{025738}{025807}Merde !|Pourquoi j'ai cru que c'était 41 ?
+{025813}{025858}Ouais, pourquoi ?
+{025908}{026009}Tu les remplaceras toutes ?
+{026015}{026117}Temporairement.|Je t'en apporterai demain.
+{026121}{026209}- Toutes ? Tu promets ?|- Plus, même.
+{026321}{026455}Depuis que tu es "dans" le clan,|tu nous ramènes plein de trucs.
+{026460}{026497}C'est génial.
+{026502}{026617}A part ce con de Paulie.|Lui et son coupé de merde.
+{026623}{026684}Il dit que tu l'arnaques ?
+{026689}{026743}Comme si j'allais lui donner|toute sa part !
+{026892}{026937}Qu'est-ce qu'on dit ?
+{026958}{027061}- Je t'aime, mon coeur.|- T'as intérêt !
+{027365}{027456}Tu aurais pu appeler.|C'est froid, maintenant.
+{027461}{027565}On a inventé les micro-ondes|pour ça. Pour les méchants maris.
+{027617}{027711}Puisqu'on est deux,|ce serait sympa de dîner ensemble.
+{027715}{027795}Me fais pas suer,|j'ai des soucis.
+{027965}{028073}C'est vachement bon.|C'est du pecorino ?
+{028077}{028117}Oui.
+{028121}{028223}C'est même pas la peine|de réchauffer.
+{028260}{028304}Pour une fois|que tu es content.
+{028388}{028440}Tu es un cordon bleu.
+{028445}{028528}Je déjeune avec le recteur|de notre fille. Tu ne viens pas ?
+{028558}{028598}Il ne veut que notre fric.
+{028635}{028704}- On file déjà 40 000 par an.|- De l'argent bien placé.
+{028708}{028777}Elle apprend, elle s'émancipe,|et si elle nous dépasse. . .
+{028782}{028849}Elle le fait|depuis qu'elle a 1 4 ans.
+{028854}{028921}Tu souhaites pas ça|à tes enfants ?
+{028926}{029030}Je veux qu'ils soient idiots|et ne foutent rien.
+{029037}{029158}C'est pour ça que j'irai pas déjeuner|avec un crétin qui veut me plumer.
+{029164}{029241}Très bien. Ne viens pas.
+{029319}{029407}Devine qui j'ai croisé|au supermarché, aujourd'hui ?
+{029413}{029475}Angie Bonpensiero.
+{029527}{029566}Ah oui ?
+{029593}{029633}Comment elle va ?
+{029639}{029686}Son chien est malade.
+{029690}{029775}Son espèce de caniche|débile et moche ?
+{029812}{029839}Qu'est-ce qu'il a ?
+{029844}{029935}Elle a de l'ostéoporose.|Angie a besoin d'argent.
+{029983}{030025}Qu'elle demande à Pussy.
+{030030}{030111}Faut le trouver,|là où les fédés l'ont mis.
+{030115}{030253}Je verrais bien l'Arizona, là où il y a|sa chaîne de restos préférée.
+{030258}{030312}Angie paie les pots cassés,|c'est pas bien.
+{030330}{030428}Ces salauds de fédés|et leurs fausses valeurs familiales. . .
+{030433}{030501}- l'ont séparé de sa femme.|- Le programme ?
+{030507}{030626}C'est ca. Il nous a laissés en carafe.|C'est tout.
+{030632}{030709}Je veux plus entendre parler|de lui ou de sa conne de femme.
+{030719}{030783}Sa quoi ?
+{030869}{031019}- Quelle a été ta plus vieille ?|- Facile. La mère de Chuckie Periccio.
+{031024}{031185}- Tu déconnes ! T'as couché avec elle ?|- Pendant tout un été.
+{031226}{031339}A moi.|Ton plus célèbre ?
+{031344}{031463}Bobby DiTillio compte pas,|il est connu qu'au New Jersey.
+{031474}{031562}Tu connais Penn et Teller,|les magiciens ?
+{031567}{031597}T'as couché avec eux ?
+{031602}{031685}Penn. Je lui ai taillé une pipe.
+{031690}{031744}- C'est lequel ?|- Le grand.
+{031749}{031813}Je les ai vus jouer,|ils étaient drôles.
+{031817}{031896}J'étais avec Georgette,|il m'a suivie aux toilettes. . .
+{031901}{031971}Pute de bas étage !|Je veux plus te voir.
+{031976}{032081}- Salaud !|- Dans les toilettes !
+{032320}{032448}- C'est qui ?|- Le FBl. Ouvre, crétin.
+{032496}{032550}Il est 2h du mat' .
+{032555}{032603}Je sais. C'est scandaleux.
+{032657}{032688}Adriana, t'es là ?
+{032717}{032807}Désolé de la visite.|Habille-toi et viens là.
+{032812}{032857}T'as pas le droit.
+{032862}{032957}Ah non ?|T'as pas lu le nouveau règlement.
+{032962}{033027}Et range ton flingue.
+{033035}{033094}C'est quoi ?
+{033099}{033210}Les frères Berezovsky|ont intercepté un bateau de Milan.
+{033215}{033301}- C'est pour Ade.|- Joli. Ma nana fait du 41 .
+{033306}{033438}Embarque des paires.|Ça te dérange pas, si je me sers ?
+{033444}{033492}Il peut pas les prendre.
+{033497}{033606}Asseyez-vous.|On va fouiller un peu.
+{033661}{033800}- J'en aurai d'autres ?|- Je sais pas. Faudra que je paie.
+{033931}{034046}- Ca craint vraiment.|- Tu vois ce qu'ils me font subir ?
+{034285}{034357}- Enfoiré !|- Quoi ?
+{034362}{034404}Rien.
+{035708}{035777}Laisse. C'est beau.
+{036442}{036481}Meadow ?
+{036506}{036539}T'as pas entendu frapper ?
+{036557}{036639}Je dormais.|J'ai cru que c'était Vanessa.
+{036828}{036892}Tu n'ouvres pas à tes amis ?
+{036898}{036994}Ils m'empêchent de bosser.|J'ai pas cours avant 1 4h.
+{036999}{037105}J'ai ton linge.|Et des pâtes aux saucisses.
+{037110}{037177}J'ai super faim.
+{037197}{037278}Ça pue la cigarette ici.|Tu fumes ?
+{037289}{037339}Caitlin.
+{037411}{037541}J'espère que tu profites des avantages.|Regarde, on m'a donné ça.
+{037546}{037654}"Un séminaire sur la ClA|et la guerre froide culturelle. "
+{037751}{037789}Ca a l'air intéressant.
+{037846}{037958}- C'est basique, on est au-delà de ça.|- Je lis le dernier Barbara Kingsolver.
+{037975}{038033}J'aimerais avoir le temps|de bouquiner.
+{038095}{038196}Comment va ma tragédienne ?
+{038202}{038261}Bien. J'ai pas envie d'en parler.
+{038266}{038322}J'y mets de la bonne volonté.|Je peux partir.
+{038327}{038405}J'ai une heure|avant de déjeuner avec le recteur.
+{038410}{038490}- Avec le recteur ?|- J'ai pas envie d'en parler.
+{038496}{038573}Sa secrétaire m'a appelée|pour m'inviter.
+{038603}{038700}- Pour quoi ?|- Pour parler d'argent.
+{038706}{038759}- Une subvention.|- C'est pourri.
+{038809}{038909}Je viens m'assurer|que tu as digéré l'épisode Noah.
+{038914}{038972}J'ai peur que ça affecte tes notes.
+{038977}{039068}Perdre un super mec à cause de papa,|c'est un "épisode" ?
+{039074}{039112}C'est ce qui s'est passé ?
+{039119}{039225}Tu as continué à le fréquenter|bien après l'incident avec ton père.
+{039230}{039350}Ne cherche pas à me faire avaler|le compromis bidon décidé avec papa.
+{039357}{039431}Tu as lu ça quelque part ?
+{039563}{039665}Vas-y, quelle est ta théorie|sur papa et moi ?
+{039670}{039750}Je n'aborderai pas ce sujet.
+{040500}{040577}Qu'est-ce que tu fais ?
+{040586}{040648}Les fédés t'ont vu entrer ?
+{040653}{040806}Je retournerai pas dans un hosto|de la sûreté pour me choper des morbacs.
+{040813}{040933}Ils ne sont pas dehors|et je suis entré par la cave.
+{040938}{041004}Où est Bacala ?|Il est censé s'occuper de toi.
+{041009}{041092}Je l'ai envoyé à la pharmacie.
+{041179}{041298}Tu vas mieux, c'est le principal.|T'as meilleure mine.
+{041303}{041394}Quitte à mentir, dis qu'une nana|attend pour me faire une gâterie.
+{041399}{041470}Je peux appeler, c'est facile.
+{041529}{041617}- T'en veux ?|- Je dois me nourrir.
+{041622}{041723}Kennedy me fait manger|avec une paille.
+{041909}{041984}T'as un souci avec Ralphie,|Bacala m'a dit ?
+{041990}{042064}T'en as pas assez sur ton assiette ?|Dans ton robot ?
+{042069}{042143}Occupe-toi de tes problèmes.
+{042188}{042228}Quand mangeras-tu ?
+{042234}{042294}Kennedy veut me réopérer.
+{042323}{042449}Attends. . . Encore ? Consulte un autre|médecin, pour un 2ème diagnostic.
+{042454}{042496}La chimio, j'en veux pas.
+{042501}{042619}Kennedy ouvre, enlève,|et recoud. Il a des mains d'ange.
+{042624}{042660}Et puis un nom !
+{042665}{042748}Je m'extasie|parce qu'il s'appelle John Kennedy ?
+{042753}{042849}Tous les cathos|ont appelé leur fils comme lui.
+{042854}{042989}J'adorais cet homme.|Il était plus âgé que moi.
+{043015}{043075}C'était long.|T'as bouffé des hamburgers ?
+{043081}{043172}- Non, juré.|- Ca se sent.
+{043201}{043277}J'appelle Cusomano.|Il connaît des médecins à New York.
+{043284}{043368}Il en a trouvé un pour la mère|de Silvio. Je peux toujours l'appeler.
+{043374}{043491}- Les New-Yorkais viennent chez Kennedy.|- Comme ça, on sera seuls sur la route.
+{043499}{043554}Tu sais que j'ai raison.
+{043632}{043732}D'accord. Tu t'en occupes|et tu m'accompagnes.
+{043737}{043818}Pour écouter et questionner.
+{043840}{043905}Je te tiens au courant.
+{044212}{044264}Mon neveu veut un 2ème diagnostic.
+{044269}{044331}Il ne veut pas|qu'on me réopère.
+{044355}{044381}Il a peut-être raison.
+{044386}{044476}Ecoutez-moi l'expert.|Ecoute, M. Hamburger. . .
+{044491}{044571}Anthony est à 2 doigts de posséder|le nord de l'Etat.
+{044585}{044630}C'est moi qui l'en empêche.
+{044635}{044739}Il a quelque chose en tête,|à part ma guérison.
+{044750}{044837}Tu es trop cynique,|c'est pas bon pour ta santé.
+{044952}{045037}Giorgio, une bouteille de Classico.
+{045085}{045152}- Vous parlez italien ?|- Deuxième génération.
+{045157}{045205}- Vous vous appelez Ross.|- Rosetti.
+{045218}{045314}Des siècles de fierté détruits|en un instant à Ellis lsland.
+{045319}{045344}Un compatriote.
+{045349}{045403}Et on est voisins,|je suis à New Brunswick.
+{045408}{045428}C'est pas vrai !
+{045433}{045521}Si j'ai réussi, c'est grâce|aux super écoles du New Jersey.
+{045527}{045585}- Et la fac ?|- Rutgers.
+{045591}{045681}- Moi, Montclair.|- Qu'y avez-vous étudié ?
+{045686}{045744}La gestion.
+{045749}{045842}A Meadow Soprano,|une valeur sûre de Columbia.
+{045847}{045912}- Vous le pensez ?|- Bien sûr.
+{045918}{045982}Ses professeurs me l'ont dit.
+{045988}{046122}Elle est attentive, curieuse, elle fait|son travail et participe oralement.
+{046128}{046237}Je suis contente de l'entendre.|Je me demandais si elle s'adaptait.
+{046244}{046341}Ne lui dites rien,|ça la rendrait trop sûre d'elle.
+{046346}{046428}- Elle dort beaucoup.|- C'est normal.
+{047025}{047075}Qu'est-ce qui te prend ?
+{047106}{047237}En venant, je me demandais|comment j'allais réagir.
+{047243}{047398}J'ai travaillé sur ma colère, récemment,|et j'ai décidé de te dire calmement. . .
+{047403}{047523}que si tu as des problèmes, financiers|ou non, tu m'en parles directement.
+{047528}{047613}Ne mêle pas Carmela à tout ça.|Tu vois, quoi.
+{047618}{047700}- Bien sûr.|- Puis, j'ai vu la Cadillac.
+{047707}{047824}Tu l'as payée avec mon fric,|et t'en veux encore plus ?
+{047831}{047889}Ça a foutu mon plan en l'air.
+{048087}{048131}Un petit conseil. . .
+{048137}{048201}Avec ma femme,|parle de produits ménagers. . .
+{048225}{048261}pour le reste, tu viens me voir.
+{048267}{048324}Mais réfléchis bien avant.
+{048329}{048471}Pense à ton enfoiré de mari|et à ce qu'il t'a fait. Lui. . . pas moi.
+{048543}{048598}Coco, arrête !
+{048610}{048655}Comment ça va, toi ?
+{048661}{048721}Pardon Tony, repousse-la.
+{048728}{048843}Non, ça va. Gentille chienne.
+{048878}{048946}- Elle a pas l'air malade.|- Ça va, ça vient.
+{049076}{049138}Vos enfants|ne manquent pas d'espace ?
+{049143}{049232}On sort beaucoup.|On a fait du kayak sur l'Hudson.
+{049239}{049277}Tous ensemble ?
+{049292}{049388}Les enfants|se débrouillent mieux que moi.
+{049394}{049444}- Un peu de vin ?|- Pourquoi pas.
+{049450}{049520}Je passe la moitié de mon temps|à m'occuper des problèmes.
+{049526}{049592}Et voilà comment je passe|l'autre moitié.
+{049605}{049637}Déjeuners avec les parents ?
+{049642}{049682}Le développement.
+{049687}{049768}Un mot sophistiqué|pour "collecte de fonds" .
+{049775}{049846}Le centre pour étudiants,|innové l'automne prochain.
+{049864}{049924}Vous voyez le mur de marbre|à l'entrée ?
+{049952}{050063}- On y inscrira le nom des donateurs.|- Tous les donateurs y seront ?
+{050068}{050153}Seulement ceux qui auront donné|plus de 50 000 dollars.
+{050199}{050268}On pense que c'est dans vos moyens.
+{050275}{050348}Vu votre générosité|envers l'école Verbum Dei.
+{050354}{050411}Vous savez|combien on leur a donné ?
+{050416}{050461}Ça fait partie de mon travail.
+{050503}{050580}Toutes les informations,|et même les avantages fiscaux. . .
+{050585}{050636}sont inscrits là-dedans.
+{050662}{050726}Je dois en parler à mon mari.
+{050732}{050803}50 plaques ?|Tu te fous de moi.
+{050808}{050912}Il m'a répété que Meadow devait|avoir une super expérience à la fac.
+{050917}{050999}- Ces sales juifs l'ont en otage.|- Il est italien.
+{051004}{051044}Des juifs qui bouffent mieux.
+{051050}{051097}On était généreux à Verbum.
+{051125}{051202}On donnait 5 bâtons par an.
+{051207}{051307}Là, c'est la fac, New York.|5 000, c'est une injure pour eux.
+{051312}{051372}Tant pis.
+{051649}{051705}Il y a 5 000.
+{051712}{051766}Mets-les sur ton compte|et fais un chèque.
+{051772}{051833}Je te donnerai pas un sou de plus.
+{051984}{052062}Un traitement de 5 perfusions,|une par semaine.
+{052073}{052109}C'est ce que je préconise.
+{052114}{052178}Tu as compris ?
+{052226}{052346}A peu près.|La chimio au lieu de l'opération ?
+{052352}{052436}Je ne peux rien garantir.|Il faudra voir comment il réagit.
+{052442}{052526}Si ça se trouve, je ferai de la chimio,|je vomirai sans arrêt. . .
+{052530}{052629}je perdrai mes 6 cheveux,|et je repasserai sur le billard.
+{052634}{052663}C'est une possibilité.
+{052668}{052734}Avec Kennedy,|il n'y a pas ces possibilités.
+{052739}{052823}- Il y a une 2ème opération.|- C'est un excellent chirurgien.
+{052829}{052871}Vous pouvez pas|accorder vos violons ?
+{052876}{052951}- En convoquant la commission.|- Quoi ?
+{052955}{053058}Une réunion de médecins oncologues,|et d'autres spécialistes. . .
+{053063}{053127}qui atteindront un consensus.
+{053134}{053265}- Et là, tu entendras leur avis.|- Votre oncle ne sera pas présent.
+{053271}{053388}Ils nous feront part de leur décision.|Ensuite, vous aurez le choix.
+{053395}{053489}- Kennedy y sera ?|- Aucun chirurgien ne manquerait ça.
+{053496}{053574}Il m'inspire pas confiance.
+{053588}{053639}C'est pas Kennedy.
+{053643}{053751}Tu choisis entre la vie et la mort|sur un nom ?
+{053755}{053873}Sloan-Kettering est le meilleur|centre de lutte contre le cancer.
+{054072}{054176}Explique-moi un peu|ton adoration pour JFK.
+{054180}{054260}Et Hoffa et les camionneurs ?
+{054265}{054323}C'était son frère.
+{054552}{054588}Docteur Krakower ?
+{054592}{054734}Merci de me rappeler. Je vous appelle|de la part du Dr Melfi.
+{054739}{054820}Dites-moi quand ça vous arrange.
+{054825}{054958}C'est parfait. Grove Avenue, d'accord.|Je vous remercie.
+{055014}{055046}C'était qui ?
+{055051}{055146}L'entreprise de dallage.|Je pense faire refaire l'allée.
+{055151}{055243}- Tu fumes ?|- C'est un crime ?
+{055248}{055328}- C'est écrit : "avec pulpe" .|- C'est ce que tu aimes.
+{055335}{055421}Je préfère quand c'est :|"avec un peu de pulpe" .
+{055489}{055584}- Pourquoi t'as fait ça ?|- Je te ferai une liste.
+{055743}{055858}Tu m'as tellement manqué.
+{055915}{056012}C'est la 1 ère fois|qu'on était séparés si longtemps.
+{056017}{056084}- Je t'ai manqué ?|- Oui.
+{056093}{056158}Quelqu'un l'a fait tomber ?
+{056197}{056258}C'était comment ?
+{056264}{056349}Pas mal. Ils avaient|la Playstation 2 à l'hôtel.
+{056354}{056395}Et après ?
+{056457}{056545}C'est ce que tu as retenu|de ton voyage à la capitale ?
+{056550}{056585}Faut croire.
+{056763}{056866}Excuse-moi. Le jus d'orange,|c'est toujours bon.
+{056872}{057005}- Je m'en fous.|- Qu'est-ce qu'il y a ?
+{057012}{057154}Tout ce fric que tu donnes à Angie,|et à je ne sais combien d'autres veuves.
+{057160}{057193}C'est des frais généraux !
+{057199}{057275}Et tu ne fais rien|pour que ta fille soit protégée.
+{057305}{057408}Je ne paierai pas.|C'est de l'extorsion.
+{057487}{057530}Il te suit de près.
+{057536}{057638}Je m'en fous pas mal.|C'est le reste qui me déplait.
+{057642}{057745}Il déboule chez moi en pleine nuit|et me fout la honte devant Adriana.
+{057751}{057798}Il t'a fait foutre à poil ?
+{057813}{057949}Je ne plaisante pas. C'est un malade.|Il a reniflé sa culotte.
+{057982}{058030}Tu m'as entendu.
+{058105}{058237}Je suis d'accord, Paulie est un peu|bizarre. Il l'a toujours été.
+{058276}{058352}Tu grimpes très vite.|Pourquoi ?
+{058357}{058485}- Parce que je suis ton neveu ?|- Sois gentil, digère vite fait.
+{058588}{058688}Le patient : Soprano, Corrado,|mâle, blanc de peau, 72 ans. . .
+{058692}{058792}s'est présenté, il y a 3 mois,|très amaigri et sans appétit.
+{058797}{058910}On l'a examiné, et détecté une masse|de 4 mm dans son estomac.
+{058915}{058987}Un scanner n'a révélé aucune trace|de métastase.
+{058992}{059031}Le docteur Kennedy a été consulté. . .
+{059036}{059095}il a recommandé|une excision gastrique.
+{059100}{059169}Là, aucune surprise.|J'ai cru que c'était fini. . .
+{059174}{059234}et que les marges étaient bonnes.
+{059239}{059336}Souvent, trop peu de tissu sain|est prélevé autour de la tumeur. . .
+{059341}{059421}ce qui laisse la possibilité,|comme ici, d'une erreur.
+{059426}{059465}Vous voulez lui enlever|tout l'estomac ?
+{059470}{059534}S'il y a eu un problème,|on en parlera au conseil.
+{059539}{059582}Que comptez-vous faire ?
+{059587}{059701}Il est en danger. Sa tension a chuté|pendant 8 minutes au bloc.
+{059707}{059767}L'incision est récente,|ce sera plus rapide.
+{059772}{059865}- Si on n'opère pas, c'est la chimio.|- Ca marche sur un adénocarcinome ?
+{059879}{059903}Pas vraiment.
+{059917}{059967}C'est pour ça qu'on a pensé|le réopérer.
+{060001}{060027}Que dire à Mehta ?
+{060032}{060107}Le docteur Mehta du centre|Sloan-Kettering ?
+{060112}{060186}Votre patient l'a consulté.
+{060191}{060331}Je laisse tomber. Je n'opérerai pas|avec ce petit con sur le dos.
+{060339}{060435}Je le lui dirai.|Il viendra.
+{060536}{060570}Ne m'épargne pas.
+{060604}{060692}Concentrez-vous sur votre|respiration, ce sera plus facile.
+{060697}{060783}La fille a dit qu'elle avait|bipé Kennedy. Où est-il ?
+{060788}{060874}Je reviens dans 20 minutes.
+{061058}{061147}- T'es trop gentil avec lui.|- Peut-être.
+{061152}{061270}Si mon neveu n'était pas mort,|je ferais pareil.
+{061323}{061389}T'as senti sa culotte ?
+{061393}{061486}Il te l'a dit ?|Quel bébé !
+{061491}{061591}- Tu dois t'excuser.|- Jamais.
+{061596}{061677}T'as dépassé les bornes.|C'est sa future épouse.
+{061682}{061812}Jusqu'au mariage, tout ce qui concerne|sa foufoune est à tout le monde.
+{061972}{062029}Tu as tout vomi ?
+{062088}{062136}Bientôt, il y en aura plus.
+{062232}{062296}Tu y mets tout ton coeur.
+{062301}{062375}Ca t'amuse de me voir souffrir ?
+{062379}{062488}Tu m'as vu rire ?|Je t'ai apporté un milk-shake.
+{062526}{062654}Tout ça, c'est ta faute.|Je vomis nuit et jour depuis la chimio.
+{062659}{062715}C'est moi|qui t'ai filé un cancer ?
+{062749}{062880}Tu ne te rends pas compte.|Je n'y arriverai pas.
+{062885}{062955}- Kennedy avait raison.|- Qu'en dit-il ?
+{062977}{063039}Il est injoignable.|Les infirmières me le passent pas.
+{063045}{063071}Pourquoi pas ?
+{063076}{063155}Je laisse des messages à l'hosto,|au cabinet. . .
+{063160}{063198}je lui ai fait porter des Cohiba.
+{063205}{063254}Je les ai laissés|à l'accueil.
+{063259}{063323}- Il ne t'a pas rappelé ?|- Ils lui ont peut-être pas dit.
+{063328}{063407}Hier soir, le répondeur disait :|"En cas d'urgence, appuyez sur 6" .
+{063412}{063532}J'ai appuyé, et 24h après,|toujours rien. Il doit être débordé.
+{063562}{063636}Certainement.
+{063690}{063746}T'as son numéro ?
+{063867}{063968}Encore trois semaines.
+{064125}{064154}C'est le répondeur.
+{064161}{064248}Il n'y a rien à faire. C'est pas|comme les médecins de la télé.
+{064268}{064381}Docteur Kennedy, ici Tony Soprano,|le neveu de Corrado Soprano.
+{064386}{064482}Mon numéro de portable :|91 7 555 01 57.
+{064502}{064598}Rappelez-moi n'importe quand,|c'est important.
+{064671}{064718}C'est reparti.
+{065523}{065575}- Quoi ?|- Monte.
+{065762}{065852}T'es même pas marié|et tu te fais déjà des putes ?
+{065857}{065909}Ça me coûte rien, je paie pas.
+{065996}{066032}Comment tu m'as trouvé ?
+{066037}{066134}Sois plus prudent.|Ta fiancée aussi peut te trouver.
+{066141}{066248}Il y a un règlement qui doit me dire|qui baiser ? Tu veux plus de godasses ?
+{066254}{066344}Le plus drôle,|c'est qu'elles lui vont pas.
+{066365}{066419}Pourquoi j'ai pensé|qu'elle faisait du 41 ?
+{066430}{066526}- Aucune idée.|- Ecoute-moi bien.
+{066543}{066646}Si tu te plains encore au chef|d'un problème qui nous concerne. . .
+{066652}{066720}ça se passera mal.
+{067103}{067160}Tu connais ?
+{067171}{067202}C'est quoi ?
+{067207}{067293}Un cadeau de mon filleul.|On en voit partout.
+{067298}{067374}Il faut en mettre un au club.
+{067923}{067985}Prends exemple sur moi.
+{068256}{068280}Que faites-vous ?
+{068285}{068352}Bonjour. Tony,|le neveu de Corrado Soprano.
+{068357}{068400}Vous êtes membre du club ?
+{068405}{068536}- Non, je suis venu vous voir.|- Appelez mon cabinet.
+{068542}{068626}Votre secrétaire|garde vos messages.
+{068693}{068732}Cadeau.
+{068737}{068845}Du titane ! J'ai le même. Depuis,|mes drives ont 1 0 mètres de plus.
+{068851}{068937}- Merci, mais je ne peux pas accepter.|- Pour mon oncle.
+{068993}{069113}J'en ai déjà un,|et M. Williams ne joue pas.
+{069119}{069215}- N'est-ce pas ?|- C'est un sport débile.
+{069232}{069303}- J'en fais quoi ?|- Que se passe-t-il ?
+{069308}{069372}Il arrive.
+{069483}{069598}- Si ça me permet des coups plus longs.|- C'est toujours ça.
+{069614}{069712}Mon oncle ne va pas très bien.|Il réagit mal à la chimio.
+{069719}{069795}C'est normal,|je ne peux rien faire.
+{069801}{069908}Il peut arriver aux gens|bien pire qu'un cancer.
+{069915}{069982}Mon oncle pense qu'il va mourir.|Il en est convaincu.
+{070000}{070074}Les vieux sont superstitieux.
+{070079}{070129}Et il a douté de vous.
+{070365}{070425}Je n'étais que son chirurgien.
+{070441}{070495}Vous avez une abeille.
+{070547}{070656}Montrez-lui|le respect qu'il mérite.
+{070686}{070759}Répondez à ses appels.
+{070993}{071099}Cheryl,|donnez rendez-vous à M. Soprano. . .
+{071105}{071161}Ne l'oubliez pas, c'est tout.
+{071405}{071508}- Tous les couples ont des problèmes.|- Il a une liaison ?
+{071513}{071591}Il en a plusieurs, même.
+{071598}{071663}Je ferme les yeux.|Je veux l'aider.
+{071669}{071745}Ah oui ?|Vous m'avez parlé de divorce.
+{071751}{071802}J'y pense, oui.
+{071865}{071964}Je suis peut-être indiscrète,|mais vous êtes juif, non ?
+{071970}{072023}Y a-t-il un rapport ?
+{072029}{072170}Les catholiques voient en la famille|quelque chose de sacré.
+{072178}{072297}- Je ne sais pas si chez vous. . .|- Je suis marié depuis 31 ans.
+{072303}{072413}Dans ce cas, vous savez que parfois,|c'est difficile.
+{072418}{072479}C'est un homme droit,|un bon père. . .
+{072484}{072584}Vous m'avez dit : "criminel déprimé,|enclin à la colère. . .
+{072589}{072645}et constamment infidèle" .
+{072650}{072733}C'est votre définition|d'un "homme droit" ?
+{072744}{072816}Je croyais que les psys|ne portaient pas de jugements.
+{072823}{072905}Les patients cherchent à excuser|leurs difficultés présentes. . .
+{072910}{072985}par des traumatismes d'enfance.
+{072992}{073069}C'est ce qu'est devenue|la psychiatrie aux USA.
+{073074}{073161}Allez dans les centres commerciaux|ou des manifestations ethniques. . .
+{073167}{073204}vous en verrez le résultat.
+{073285}{073398}- Ce qu'on dit ici reste entre nous ?|- Selon le code éthique et la loi.
+{073404}{073453}Ses crimes. . .
+{073459}{073574}sont des crimes organisés.
+{073585}{073623}La Mafia ?
+{073807}{073833}Et après ?
+{073854}{073929}Il me trompe chaque semaine|avec des prostituées.
+{073936}{073976}Le moins grave|de ses méfaits.
+{074049}{074124}Vous pouvez partir|ou rester pour m'écouter.
+{074223}{074305}- Le prix sera le même.|- Vous ne me paierez pas.
+{074312}{074339}C'est nouveau, ça.
+{074346}{074456}Faites confiance à votre instinct|et quittez-le.
+{074461}{074520}Vous ne vous sentirez|jamais en paix. . .
+{074525}{074617}vous ne réprimerez pas les sentiments|de culpabilité, de honte. . .
+{074632}{074680}dont vous avez parlé. . .
+{074685}{074749}si vous restez sa complice.
+{074754}{074834}- Je ne suis pas sa complice.|- Vous êtes sûre ?
+{074840}{074941}Je ne fais que ranger ses habits|et cuisiner ses repas.
+{074947}{075062}Vous rendez les choses possibles,|sans être sa complice.
+{075067}{075129}Excusez-moi.
+{075208}{075351}Est-ce que je devrais définir|mes limites plus clairement. . .
+{075356}{075435}garder une certaine distance,|sans intérioriser mes. . .
+{075440}{075485}Qu'est-ce que je vous ai dit ?
+{075528}{075562}De le quitter.
+{075577}{075649}Prenez les enfants,|ce qu'il en reste, et partez.
+{075676}{075763}Mon prêtre me dit|de l'aider à être meilleur.
+{075770}{075827}Et ca marche ?
+{075954}{076047}Avez-vous lu Crime et châtiment|de Dostoïevski ?
+{076063}{076151}Ça parle de culpabilité|et de rédemption.
+{076158}{076269}Si votre mari se dénonçait,|lisait ce livre. . .
+{076274}{076379}et repensait à ses crimes, chaque jour,|pendant 7 ans, dans sa cellule. . .
+{076386}{076424}il serait racheté.
+{076430}{076509}Il faudra que je prenne un avocat. . .
+{076514}{076615}trouve un appartement,|demande une pension alimentaire. . .
+{076621}{076681}Vous n'écoutez pas.
+{076687}{076770}Je ne vous fais pas payer,|je ne veux pas d'argent sale.
+{076775}{076818}Vous devriez faire pareil.
+{076874}{076951}Vous ne pourrez pas dire. . .
+{076956}{077037}que vous n'étiez pas prévenue.
+{077075}{077129}Je vois.
+{077150}{077188}Vous avez raison.
+{077297}{077399}Vous m'empoisonnez.|Je ne supporterai pas ça longtemps.
+{077405}{077449}Vous soignez bien ce jeune homme ?
+{077492}{077569}Comment ca va ?|J'ai été débordé. Ca va ?
+{077579}{077699}Ne me racontez pas d'histoires.|Ça va marcher ou il faut me réopérer ?
+{077705}{077751}- C'est un pro.|- Lui ?
+{077757}{077799}J'irais le voir en cas d'urgence.
+{077848}{077921}Ce qui compte, c'est de rester fort|et de vous battre.
+{077939}{078016}Mon numéro chez moi.|Si vous vous sentez mal, appelez-moi.
+{078057}{078141}Je vous verrai mercredi.|Soignez-le bien.
+{078723}{078784}- Carm ?|- Quoi ?
+{078824}{078872}T'es malade ?
+{078877}{078963}Toute ma famille dort la journée,|pourquoi pas moi ?
+{078999}{079042}T'es. . .
+{079049}{079096}déprimée ?
+{079101}{079136}Ou quoi ?
+{079159}{079270}Dans la répartition des tâches,|ça, c'est ton boulot.
+{079642}{079741}Si tu veux voir un psy|de ton côté. . .
+{079827}{079885}Tu es tendue en ce moment.
+{079890}{079958}C'est trop beau.|Tu m'envoies chez un psy ?
+{080045}{080109}J'ai pas le temps.
+{080187}{080274}Je t'accompagnerai|chez la tienne.
+{080338}{080408}Comme tu veux.
+{080415}{080510}- Le recteur a appelé.|- Dommage.
+{080522}{080581}Je lui ai dit|qu'on donnerait 50 000.
+{080617}{080685}Je t'ai donné 5 000.
+{080690}{080818}Je peux rallonger de 5 000|ou de 1 0 000, mais pas plus.
+{080902}{081012}Tu dois être gentil avec moi,|aujourd'hui.
+{081017}{081103}C'est ce que je veux.|Fais-le.
+{081108}{081141}C'est bon, 1 0 000.
+{081172}{081231}Mais ça leur suffira,|à ces gangsters.
+{081239}{081281}Je lui ai dit 50.
+{081561}{081603}50 bâtons ?
+{082009}{082102}Je te dispense|de cuisiner, ce soir.
+{082109}{082150}Si on dînait dehors ?
+{085246}{085270}Traduction :|Isabelle Juhasz
+{085275}{085299}Sous-titrage :|TVS - TITRA FILM
+{085304}{085328}Adapté par :|SDI Media Group
+{085333}{085357}[FRENCH]

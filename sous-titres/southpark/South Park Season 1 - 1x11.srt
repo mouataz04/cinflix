@@ -1,0 +1,869 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:03.71,00:00:08.01
+That was a hoot and a holler![br]Did you like that, South Parketeers?
+
+00:00:08.21,00:00:12.67
+You'll love this next episode.[br]It's our favorite. "Tom's Rhinoplasty."
+
+00:00:12.85,00:00:14.75
+Mr. Garrison gets a nose job...
+
+00:00:14.92,00:00:17.72
+...a substitute teacher comes[br]to South Park...
+
+00:00:17.89,00:00:20.19
+...and our boys learn[br]how to lick carpet.
+
+00:00:20.36,00:00:24.76
+It's our favorite episode because[br]we got Natasha Henstridge...
+
+00:00:24.93,00:00:30.03
+...to be the voice of the substitute[br]teacher. She was in the movie Species.
+
+00:00:30.20,00:00:31.64
+We loved her acting.
+
+00:00:31.80,00:00:35.83
+We used to freeze-frame[br]a lot of her acting on the VCR...
+
+00:00:36.01,00:00:40.21
+...and play with ourselves.[br]We'd play "I'm Natasha Henstridge."
+
+00:00:40.38,00:00:43.94
+I'd close my eyes[br]and pretend Matt was Natasha...
+
+00:00:44.12,00:00:47.35
+...then Matt would pretend[br]I was Natasha.
+
+00:00:47.52,00:00:52.39
+But remember, if you play "I'm Natasha[br]Henstridge" with your friends...
+
+00:00:52.56,00:00:54.53
+...play it safe.
+
+00:00:54.69,00:00:57.69
+Look, it's our friend[br]Indian Companion.
+
+00:00:57.86,00:01:00.46
+Say hi to Indian Companion, kids.
+
+00:01:00.63,00:01:04.07
+What's happening, Indian Companion?[br]Someone coming?
+
+00:01:04.24,00:01:07.43
+- Someone coming.[br]- Someone coming. Great.
+
+00:01:07.61,00:01:08.83
+Thanks.
+
+00:01:09.01,00:01:13.21
+- Go build a tepee.[br]- You'll be Natasha Henstridge tonight.
+
+00:01:13.38,00:01:17.37
+So sit back, relax and have[br]a rootin'-tootin' good time...
+
+00:01:17.55,00:01:21.32
+...with "Tom's Rhinoplasty." Yee-haw!
+
+00:01:21.49,00:01:23.28
+Ready?
+
+00:01:57.12,00:01:59.06
+Tom's Rhinoplasty
+
+00:02:01.46,00:02:05.33
+- Stan, it's almost Valentine's Day.[br]- I know.
+
+00:02:05.53,00:02:09.06
+- We should go on a cruise.[br]- I can't afford a cruise.
+
+00:02:09.27,00:02:15.33
+We can make a little boat out of[br]cardboard and pretend it's a cruise.
+
+00:02:18.74,00:02:21.18
+Shut up, Cartman.
+
+00:02:21.81,00:02:24.81
+That is so lame!
+
+00:02:30.29,00:02:34.92
+Then we could dress up in costumes[br]and pretend we're getting married.
+
+00:02:38.16,00:02:41.39
+Stop this. You're killing me!
+
+00:02:41.57,00:02:44.30
+Children, I have[br]some difficult news.
+
+00:02:44.50,00:02:50.81
+Mr. Garrison won't be teaching[br]for a while. He has to have surgery.
+
+00:02:50.98,00:02:54.91
+So you're going to have[br]a substitute teacher.
+
+00:02:55.11,00:03:00.92
+I want you to show the substitute the[br]same respect you show Mr. Garrison.
+
+00:03:01.12,00:03:05.11
+- Yes, little boy?[br]- We don't respect Mr. Garrison.
+
+00:03:05.89,00:03:10.73
+Anyhoo, I want you all to meet[br]your new substitute, Miss Ellen.
+
+00:03:10.93,00:03:13.56
+Hello, children.
+
+00:03:14.00,00:03:16.47
+Wow, she's pretty.
+
+00:03:17.64,00:03:20.04
+You can say that again.
+
+00:03:20.57,00:03:24.91
+Good luck. If they get out of control,[br]just use this tear gas.
+
+00:03:25.08,00:03:28.07
+Thank you. I'm sure I'll be fine.
+
+00:03:28.28,00:03:32.84
+I know you must be very upset[br]about your teacher having surgery.
+
+00:03:33.05,00:03:37.11
+But I'll try to make things as easy[br]as possible for all of us.
+
+00:03:37.29,00:03:39.66
+Stan? Stan?
+
+00:03:39.86,00:03:42.79
+Now let me try and learn your names.
+
+00:03:42.99,00:03:46.12
+- You are Eric Cartman?[br]- Yes, ma'am!
+
+00:03:46.33,00:03:49.70
+Okay, and you must be Stan Marsh.
+
+00:03:51.04,00:03:53.20
+Do you need to go to the nurse?
+
+00:03:53.41,00:03:57.17
+- No, he pukes when he's in love.[br]- I'll kick your ass!
+
+00:03:57.38,00:03:59.14
+So you're all right?
+
+00:04:00.38,00:04:02.35
+You had waffles for breakfast.
+
+00:04:05.88,00:04:09.05
+I'm embarrassed about[br]getting a nose job, Tom.
+
+00:04:09.25,00:04:12.05
+I told the people at school[br]I had herpes.
+
+00:04:12.39,00:04:16.22
+Mr. Garrison, people have[br]cosmetic surgery all the time.
+
+00:04:16.43,00:04:21.30
+This computer can help you pick[br]what kind of nose you want.
+
+00:04:21.50,00:04:25.60
+- Isn't that amazing, Mr. Hat?[br]- It sure is, Mr. Garrison.
+
+00:04:25.80,00:04:30.83
+We could go with something smaller,[br]which would make you look like this:
+
+00:04:31.78,00:04:35.80
+Or we could straighten out the bridge,[br]like this:
+
+00:04:36.01,00:04:39.14
+- That's not bad.[br]- We could narrow the bridge...
+
+00:04:39.32,00:04:42.48
+...which would make you[br]look more like this:
+
+00:04:43.46,00:04:47.59
+- That's it, that's the nose I want![br]- Alrighty then.
+
+00:04:47.76,00:04:50.85
+Now, I must warn you, there are risks.
+
+00:04:51.06,00:04:56.16
+You could wind up a hideous creature,[br]forced to live in the sewers...
+
+00:04:56.37,00:05:00.46
+...only emerging at night[br]to hunt for scraps of food.
+
+00:05:00.64,00:05:03.90
+- I can live with that.[br]- Then let's get started.
+
+00:05:05.94,00:05:11.18
+- She was looking at me, not you.[br]- How could she help it, fat-ass?
+
+00:05:11.38,00:05:15.05
+- She was checking me out.[br]- Until you puked on her.
+
+00:05:15.25,00:05:19.21
+Hello, children.[br]What's all this about a new teacher?
+
+00:05:19.42,00:05:23.69
+- Miss Ellen. She's beautiful.[br]- Is she Vanessa Williams beautiful...
+
+00:05:23.90,00:05:28.39
+...or Toni Braxton beautiful?[br]Or Pamela Anderson beautiful?
+
+00:05:28.60,00:05:32.26
+Or is she Erin Gray of Buck Rogers[br]beautiful?
+
+00:05:32.47,00:05:35.34
+- Yeah, that one.[br]- I gotta meet this woman.
+
+00:05:35.81,00:05:40.24
+Didn't you notice how her left arm[br]is longer than the right one?
+
+00:05:40.45,00:05:42.00
+- No.[br]- Well, it is!
+
+00:05:42.21,00:05:47.21
+You know what they say about women[br]with one arm longer than the other.
+
+00:05:47.79,00:05:48.95
+Right.
+
+00:05:49.12,00:05:52.85
+Did you notice that mole on her neck[br]with hair growing out of it?
+
+00:05:53.02,00:05:58.62
+That's okay. You know what they say[br]about women with moles on their necks.
+
+00:06:01.53,00:06:05.03
+- We're still valentines, right?[br]- Sure, whatever.
+
+00:06:05.20,00:06:09.07
+- We should buy Miss Ellen presents.[br]- We'll go to the mall tonight.
+
+00:06:09.24,00:06:14.58
+I'm gonna buy her a vacuum cleaner.[br]Chicks love vacuum cleaners.
+
+00:07:13.14,00:07:16.73
+Goodness. Would anybody[br]mind cleaning my erasers?
+
+00:07:16.94,00:07:18.10
+Me, me, me!
+
+00:07:18.28,00:07:20.84
+You're so immature![br]Act like 8-year-olds.
+
+00:07:21.01,00:07:24.57
+- Stan, how about you?[br]- I'd love to.
+
+00:07:24.75,00:07:28.05
+Now, let's review[br]our multiplication tables.
+
+00:07:28.72,00:07:31.52
+- Cartman?[br]- What's a multiplication table?
+
+00:07:31.72,00:07:35.52
+Didn't Mr. Garrison[br]teach multiplication?
+
+00:07:35.69,00:07:37.32
+Where did he leave off?
+
+00:07:37.53,00:07:42.73
+We were learning about how Yasmine[br]Bleeth is dating Richard Grieco...
+
+00:07:42.93,00:07:46.80
+...that guy who used to be[br]on 2 1 Jump Street.
+
+00:07:47.01,00:07:49.03
+- Hello.[br]- Can I help you?
+
+00:07:49.24,00:07:51.57
+- I'm Chef.[br]- And...?
+
+00:07:51.74,00:07:55.98
+I stopped by because Kyle forgot[br]his detergent on the playground.
+
+00:07:56.15,00:07:58.14
+- My detergent?[br]- That's not...
+
+00:07:58.35,00:08:01.29
+Crazy cracker's always[br]leaving detergent.
+
+00:08:01.49,00:08:04.89
+- What was your name?[br]- Chef's moving in on Miss Ellen.
+
+00:08:05.09,00:08:09.25
+- I'm the substitute.[br]- Well, there's no substitute for you.
+
+00:08:09.46,00:08:13.23
+That's very nice, Mr. Chef.[br]Now, if you're finished...
+
+00:08:50.20,00:08:51.90
+We've got to learn that.
+
+00:08:52.10,00:08:55.60
+That was enthralling.[br]Could I get back to teaching?
+
+00:08:55.81,00:09:00.30
+- Lf we could have dinner tonight.[br]- Fine, just let me do my job.
+
+00:09:00.51,00:09:03.95
+- Chef's gonna make love to Miss Ellen![br]- What?
+
+00:09:05.55,00:09:10.49
+- Mr. Garrison? Mr. Garrison?[br]- Where am I?
+
+00:09:10.69,00:09:15.68
+- The operation is over, Mr. Garrison.[br]- I feel weak. How do I look?
+
+00:09:15.89,00:09:19.80
+- You look great.[br]- I feel kind of nauseous.
+
+00:09:20.00,00:09:23.66
+That's to be expected.[br]We did major reconstruction...
+
+00:09:23.87,00:09:27.57
+...sawed through some bone,[br]snapped some cartilage.
+
+00:09:27.77,00:09:33.47
+All the blood and mucus, the sound[br]of bone and sinew coming apart...
+
+00:09:34.65,00:09:38.58
+By the way, did you ever[br]see that movie Contact?
+
+00:09:42.95,00:09:47.15
+- Stop! That movie was terrible![br]- I'm sorry, Mr. Garrison.
+
+00:09:47.33,00:09:51.66
+Why don't you get some rest?[br]I'll check on you a little later.
+
+00:09:52.80,00:09:57.26
+I waited through that movie to see[br]the alien, and it was her father!
+
+00:09:59.87,00:10:03.67
+Remember your homework.[br]We have a lot of catching up.
+
+00:10:03.88,00:10:06.84
+- Goodbye, Miss Ellen.[br]- Stop kissing ass.
+
+00:10:07.05,00:10:11.28
+- I'm not kissing ass, you slut![br]- Miss Ellen, can I talk to you?
+
+00:10:11.48,00:10:12.95
+Of course, Wendy.
+
+00:10:13.15,00:10:17.59
+I couldn't help but notice you've[br]taken a liking to my boyfriend, Stan.
+
+00:10:17.76,00:10:22.78
+I've taken a liking to all of you.[br]You're all so cute and full of life.
+
+00:10:22.99,00:10:27.76
+- Can I tell you something, Miss Ellen?[br]- Of course, Wendy.
+
+00:10:27.93,00:10:31.16
+- Don't f* * * with me![br]- What?
+
+00:10:31.37,00:10:34.00
+Stay away from my man, bitch...
+
+00:10:34.17,00:10:38.04
+...or I'll whup your sorry ass[br]back to last year!
+
+00:10:38.84,00:10:40.87
+Bye, Miss Ellen!
+
+00:10:43.58,00:10:48.58
+I want to thank all you children[br]for the presents you bought me.
+
+00:10:50.16,00:10:53.59
+What a delightful scarf![br]Thank you, Kyle.
+
+00:10:53.79,00:10:57.32
+- Loser gift, loser gift.[br]- And here's one from Kenny.
+
+00:10:57.80,00:11:03.73
+Thank you very much, Kenny. This is[br]a very scrumptious-Iooking sausage.
+
+00:11:05.00,00:11:09.46
+And what a nice alarm clock![br]Thank you, Stan.
+
+00:11:09.94,00:11:13.31
+And here's another present,[br]from Wendy.
+
+00:11:13.51,00:11:17.04
+Why, it's a dead animal.[br]Thank you, Wendy.
+
+00:11:18.08,00:11:21.42
+- She liked mine the best.[br]- Where's yours, Cartman?
+
+00:11:21.62,00:11:25.82
+I got Miss Ellen a chocolate pie,[br]but I left it at home.
+
+00:11:26.02,00:11:29.39
+Okay, kids, we're gonna take[br]a spelling test now.
+
+00:11:29.59,00:11:31.56
+But as an extra incentive...
+
+00:11:31.73,00:11:35.76
+...I'm gonna take whoever gets[br]the highest score to dinner.
+
+00:11:35.97,00:11:39.60
+- I wish I knew how to spell.[br]- Are there any questions?
+
+00:11:40.00,00:11:43.34
+- Yes, Wendy?[br]- When someone gets as old as you...
+
+00:11:43.51,00:11:47.14
+...do they have to wear[br]Depend undergarments?
+
+00:11:51.35,00:11:54.38
+I aced that test.[br]I'm gonna win that dinner.
+
+00:11:54.59,00:11:56.11
+No, you're not.
+
+00:11:56.39,00:11:58.69
+- Hi, Stan.[br]- I bet I scored 1 00.
+
+00:11:58.89,00:12:01.19
+- Hi, Stan![br]- Oh, hi, Wendy.
+
+00:12:01.39,00:12:06.73
+Miss Ellen was just in the bathroom[br]taking the biggest dump I've ever seen.
+
+00:12:06.93,00:12:08.73
+- No, she wasn't.[br]- She was!
+
+00:12:08.93,00:12:12.60
+- That's impossible.[br]- And she has horrible gas too.
+
+00:12:12.80,00:12:15.36
+She says she can't control it.
+
+00:12:15.57,00:12:19.34
+It smelled like a dead calf[br]rotting in the hot sun.
+
+00:12:19.54,00:12:22.91
+Wendy, you need to stop[br]with this jealousy thing.
+
+00:12:23.11,00:12:28.52
+- Yeah, you're acting like a freak.[br]- No, I'm not acting like a freak!
+
+00:12:33.63,00:12:36.56
+Someone's gotta pull that monkey[br]out of her ass.
+
+00:12:36.73,00:12:38.46
+- Hello there.[br]- Hey, Chef.
+
+00:12:38.66,00:12:41.19
+- How did your date go?[br]- Not too good.
+
+00:12:41.40,00:12:45.86
+- Didn't you make sweet love to her?[br]- No, she's not like that.
+
+00:12:46.07,00:12:48.47
+How do I put this?
+
+00:12:48.67,00:12:52.54
+Miss Ellen doesn't exactly play[br]for the right team.
+
+00:12:53.28,00:12:55.11
+In other words, children...
+
+00:12:55.61,00:13:00.74
+...she's not a member[br]of the heterosexual persuasion.
+
+00:13:00.92,00:13:03.89
+- Understand? She's a lesbian.[br]- A what-bian?
+
+00:13:04.09,00:13:07.65
+- A plebeian?[br]- You don't know what a lesbian is?
+
+00:13:07.86,00:13:09.62
+Kenny?
+
+00:13:10.13,00:13:12.96
+- No, explain it to us, Chef.[br]- That's okay.
+
+00:13:13.13,00:13:16.19
+All you need to know[br]is Miss Ellen's a lesbian...
+
+00:13:16.37,00:13:19.20
+...and she only likes other lesbians.
+
+00:13:19.40,00:13:21.37
+Now move along, children.
+
+00:13:21.57,00:13:23.90
+Weak! She only likes lesbians?
+
+00:13:24.11,00:13:28.64
+If she only likes other lesbians,[br]then we gotta become lesbians too.
+
+00:13:28.81,00:13:32.27
+My grandma was Dutch-Irish[br]and my grandpa was lesbian.
+
+00:13:32.45,00:13:35.39
+- I'm a quarter lesbian.[br]- You're just saying that.
+
+00:13:35.55,00:13:37.68
+- You're not a lesbian.[br]- I am too!
+
+00:13:38.52,00:13:41.89
+- Okay, only a few more bandages to go.[br]- Well?
+
+00:13:42.36,00:13:45.12
+Take a look for yourself.
+
+00:13:46.06,00:13:50.23
+Wow, that's a pretty good nose job.[br]What do you think, Mr. Hat?
+
+00:13:50.44,00:13:52.03
+I think it looks great.
+
+00:13:52.24,00:13:55.36
+And without the swelling,[br]you'll really notice.
+
+00:13:59.88,00:14:04.61
+- What the hell are you doing?[br]- My mom said lesbians lick carpet.
+
+00:14:04.82,00:14:07.15
+- Really?[br]- I got an Indiglo Girls CD.
+
+00:14:07.35,00:14:12.31
+- The record store guy said to get it.[br]- I got these killer Birkenstocks.
+
+00:14:16.73,00:14:21.06
+I've been licking carpet for 3 hours,[br]and I don't feel like a lesbian!
+
+00:14:32.51,00:14:37.11
+- Hi, Mrs. Kimball.[br]- Howdy, Mr. Garrison.
+
+00:14:37.32,00:14:40.08
+Say, honey, you look[br]kind of different.
+
+00:14:40.28,00:14:43.25
+- Really?[br]- Did you get a haircut?
+
+00:14:43.45,00:14:46.62
+No, but thanks for asking.
+
+00:14:47.13,00:14:49.69
+Call me. I'm in the book.
+
+00:14:49.89,00:14:52.92
+Having a nose job is better[br]than I thought.
+
+00:14:53.13,00:14:56.03
+A whole world of opportunity[br]is opening up.
+
+00:14:57.44,00:14:59.84
+- Thanks for coming.[br]- That's okay.
+
+00:15:00.04,00:15:03.17
+I brought my makeup kit.[br]What are we doing?
+
+00:15:03.37,00:15:07.50
+That substitute won't stop[br]until she takes everything from me.
+
+00:15:07.71,00:15:09.84
+- Really?[br]- What I'd like to do...
+
+00:15:10.05,00:15:14.71
+...is load her into a rocket[br]and have her shot into the sun.
+
+00:15:14.89,00:15:17.45
+Instead, I'll just get Stan[br]to notice me.
+
+00:15:17.66,00:15:20.22
+- Bebe, I need a makeover.[br]- Cool.
+
+00:15:22.56,00:15:25.19
+Wait until she sees[br]what a lesbian I am.
+
+00:15:25.40,00:15:28.59
+- I'm a bigger lesbian.[br]- You're a fatter lesbian.
+
+00:15:28.80,00:15:33.93
+- Screw you guys, I'm king lesbian.[br]- Is that Wendy Testaburger?
+
+00:15:39.21,00:15:40.47
+Hi, what's up?
+
+00:15:40.68,00:15:44.27
+Wendy looks like that chick[br]from Grease, Elton John.
+
+00:15:44.48,00:15:47.54
+- Wow. Hi, Wendy.[br]- Hi, Stan.
+
+00:15:48.09,00:15:50.35
+- I think it worked, Bebe.[br]- Yeah.
+
+00:15:50.56,00:15:54.58
+- Good morning, children.[br]- Wow!
+
+00:15:58.16,00:16:01.76
+Wendy, you wore black leather too.
+
+00:16:01.97,00:16:05.09
+- We're like sisters.[br]- Die!
+
+00:16:05.27,00:16:07.20
+I finished grading your papers.
+
+00:16:07.37,00:16:11.71
+- The person with the highest score is...[br]- Hello there, children.
+
+00:16:16.65,00:16:19.34
+- Oh, no, Mr. Garrison's back.[br]- Weak!
+
+00:16:19.55,00:16:25.32
+Hooray! Hooray for Mr. Garrison![br]He's back. Mr. Garrison is back!
+
+00:16:25.52,00:16:29.43
+So long, don't let the door[br]hit your ass on the way out.
+
+00:16:29.63,00:16:35.62
+I have a very important announcement.[br]I'm quitting my job as a teacher.
+
+00:16:36.13,00:16:39.86
+- What?[br]- Suddenly I feel really confident.
+
+00:16:40.07,00:16:43.73
+I've decided to quit and do[br]what I've always dreamed of:
+
+00:16:43.94,00:16:47.81
+- Hang out and screw hot chicks.[br]- You can't.
+
+00:16:48.01,00:16:51.54
+The good new is,[br]I've talked to Principal Victoria...
+
+00:16:51.75,00:16:55.98
+...and Miss Ellen can stay on[br]as your permanent teacher.
+
+00:16:57.12,00:17:00.25
+- Really?[br]- That's right. Will you stay?
+
+00:17:00.46,00:17:04.52
+- Well, sure.[br]- No! No!
+
+00:17:04.73,00:17:08.32
+And the person who scored highest[br]on the quiz...
+
+00:17:08.53,00:17:12.20
+...and gets to have dinner on me[br]is Stan.
+
+00:17:12.40,00:17:15.43
+- Kick-ass.[br]- No! No!
+
+00:17:15.64,00:17:21.37
+Wendy, we just got a call[br]in the office. Your grandma just died.
+
+00:17:22.35,00:17:24.21
+My, what an exciting day.
+
+00:17:30.05,00:17:33.85
+- You're looking great.[br]- I'm a lady-killer, Mr. Hat.
+
+00:17:34.06,00:17:39.59
+- You can say that again, Mr. Garrison.[br]- Just a few hundred more shots.
+
+00:17:39.80,00:17:43.10
+- A few hundred?[br]- That's the life of a model, baby.
+
+00:17:43.30,00:17:47.74
+- I'm gonna need some more smack.[br]- You got it!
+
+00:17:51.44,00:17:57.51
+I'm very glad we could have dinner.[br]I really care about your education.
+
+00:17:57.68,00:18:00.08
+- Are we making love now?[br]- Excuse me?
+
+00:18:00.25,00:18:03.85
+There's no fireplace.[br]We shouldn't be making love yet.
+
+00:18:04.02,00:18:06.35
+Chef says you have[br]to make love by the fire.
+
+00:18:06.52,00:18:10.05
+I'm your teacher. We're only friends.
+
+00:18:10.26,00:18:13.03
+- But why?[br]- First of all, you're 8.
+
+00:18:13.23,00:18:16.10
+- It's because I'm not a lesbian.[br]- Oh, boy.
+
+00:18:19.17,00:18:22.90
+It's over. I give up.
+
+00:18:27.68,00:18:33.05
+Boy, Mr. Hat, being hot and sexy is fun[br]for a while, but it does get boring.
+
+00:18:33.22,00:18:36.31
+You can say that again, Mr. Garrison.
+
+00:18:36.49,00:18:38.46
+What the...?
+
+00:18:38.96,00:18:41.79
+Whoa! Hey, wait, wait!
+
+00:18:42.79,00:18:44.73
+Mr. Hat, save yourself!
+
+00:18:46.36,00:18:48.49
+- How'd it go?[br]- Did you make love?
+
+00:18:48.70,00:18:50.69
+- I think so.[br]- No way!
+
+00:18:50.90,00:18:52.27
+Down by the fire?
+
+00:18:54.71,00:18:57.57
+- Did I what?[br]- Good morning, children.
+
+00:18:57.78,00:19:02.54
+- Miss Ellen, can I talk to you?[br]- Can it wait till after class?
+
+00:19:02.75,00:19:06.41
+No, I have to apologize[br]for the way I've been acting.
+
+00:19:06.62,00:19:09.31
+- That's okay, Wendy.[br]- No, it's not.
+
+00:19:09.52,00:19:12.61
+Since you're staying,[br]I hope we can be friends.
+
+00:19:12.82,00:19:18.96
+- Well, I would love that, Wendy.[br]- And I want to apologize to everybody.
+
+00:19:19.13,00:19:22.79
+The way I acted was wrong,[br]and I've learned from it.
+
+00:19:23.00,00:19:28.13
+I just wish Stan and Miss Ellen[br]all the happiness in the world.
+
+00:19:28.41,00:19:33.97
+- There's nothing between me and Stan.[br]- That's not what we just heard.
+
+00:19:35.51,00:19:41.21
+Mr. Hat, I hate this.[br]I wish I'd never had a nose job.
+
+00:19:41.89,00:19:46.41
+Damn this beautiful face of mine.[br]Damn it to hell!
+
+00:19:46.62,00:19:51.89
+We have to get the surgery again,[br]Mr. Hat. I wanna be the old me again.
+
+00:19:55.33,00:19:59.13
+Okay, let's catch up[br]on our cursive handwriting.
+
+00:19:59.34,00:20:02.93
+- Down! Down! Everybody down![br]- What the hell?
+
+00:20:04.01,00:20:08.07
+- So we meet again, Miss Ellen.[br]- Just what is going on here?
+
+00:20:08.28,00:20:11.25
+I am Hakeem Kurashki[br]of the nation of Iraq.
+
+00:20:11.45,00:20:13.68
+- She is a traitor.[br]- It's a lie!
+
+00:20:13.85,00:20:16.79
+She has killed thousands[br]and will kill again.
+
+00:20:16.95,00:20:19.65
+- Miss Ellen, is this true?[br]- No!
+
+00:20:19.82,00:20:21.69
+We must take her back to Iraq!
+
+00:20:21.86,00:20:24.95
+- Cool![br]- Principal Victoria, please.
+
+00:20:25.16,00:20:30.12
+Here is Miss Ellen and our leader.[br]Her name is Makesh Alaq Makarakesh.
+
+00:20:30.50,00:20:35.00
+Well, you certainly tried to put one[br]over on us, boy howdy.
+
+00:20:35.21,00:20:40.11
+- Take her away![br]- No, get away from me!
+
+00:20:44.42,00:20:48.68
+- Oh, my God, she killed Kenny![br]- You bastard!
+
+00:20:49.99,00:20:52.32
+Wow, what incredible irony.
+
+00:20:54.02,00:20:56.86
+I can't believe she was[br]a criminal Iraqi fugitive.
+
+00:20:57.06,00:21:01.76
+- Yeah, you just never know.[br]- I guess I'm sorry I was ignoring you.
+
+00:21:01.97,00:21:05.93
+Happy Valentine's Day, Stan.
+
+00:21:10.94,00:21:13.60
+- Sorry.[br]- No, it's okay, Stan.
+
+00:21:13.81,00:21:18.18
+- Everything's okay.[br]- Are you still trying to be a lesbian?
+
+00:21:18.38,00:21:21.94
+My mom says all I have to do[br]is chow on this box.
+
+00:21:27.46,00:21:32.23
+For crimes against this country,[br]you are to be shot into the sun.
+
+00:21:32.40,00:21:37.03
+This is all a mistake.[br]This can't be happening.
+
+00:21:38.20,00:21:43.37
+- Please, for the love of God![br]- Shut up!
+
+00:21:48.58,00:21:50.24
+Great party, Wendy.
+
+00:21:50.41,00:21:54.71
+Thanks, Mrs. Kimball.[br]Thanks for getting Mr. Garrison back.
+
+00:21:54.92,00:21:58.12
+- Anything for you, sugar pie.[br]- Hi, Kyle.
+
+00:21:58.32,00:22:02.28
+- This whole outcome is pretty strange.[br]- Excuse me.
+
+00:22:11.87,00:22:14.84
+How was Miss Ellen[br]suddenly arrested for...?
+
+00:22:15.04,00:22:18.67
+It's time to whip out[br]the eclipse shoeboxes!
+
+00:22:23.41,00:22:27.25
+- Bye-bye, Miss Ellen.[br]- Wendy, you didn't!
+
+00:22:27.45,00:22:29.42
+I told her...
+
+00:22:29.62,00:22:35.25
+...don't f* * * with Wendy Testaburger!

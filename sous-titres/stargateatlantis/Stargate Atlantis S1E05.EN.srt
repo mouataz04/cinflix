@@ -1,0 +1,2191 @@
+1
+00:00:05,363 --> 00:00:07,274
+<i>Previously on</i> Stargate Atlantis...
+
+2
+00:00:07,443 --> 00:00:10,321
+Major Sheppard,
+who are all these people?
+
+3
+00:00:10,483 --> 00:00:12,872
+I am Teyla Emmagan,
+Daughter of Tagan.
+
+4
+00:00:13,043 --> 00:00:16,115
+If the Wraith haven't touched your world,
+you should go back.
+
+5
+00:00:16,283 --> 00:00:17,875
+We'd like to, but we can't.
+
+6
+00:00:18,043 --> 00:00:21,274
+I don't see a life form like this
+dying of natural ageing.
+
+7
+00:00:21,443 --> 00:00:26,153
+You trespassed upon our feeding ground.
+You don't know what you have done.
+
+8
+00:00:39,403 --> 00:00:42,839
+- It's Major Sheppard's IDC.
+- They've only been gone a few hours.
+
+9
+00:00:43,003 --> 00:00:46,393
+<i>Atlantis, this is Sheppard</i>.
+<i>We're coming in hot</i>.
+
+10
+00:00:47,723 --> 00:00:49,714
+Lower the shield.
+
+11
+00:01:12,963 --> 00:01:15,238
+Raise the shield.
+
+12
+00:01:15,403 --> 00:01:17,871
+McKay!
+
+13
+00:01:22,443 --> 00:01:24,798
+Medical team to the gate room!
+
+14
+00:01:24,963 --> 00:01:27,431
+I got a pulse.
+
+15
+00:01:39,123 --> 00:01:40,920
+How you feeling?
+
+16
+00:01:41,083 --> 00:01:44,200
+I can't feel anything. I can't talk.
+
+17
+00:01:44,363 --> 00:01:47,241
+- You can't talk either.
+- That's what I said.
+
+18
+00:01:47,403 --> 00:01:51,396
+Your body experienced an overload
+to its sensory and motor nervous system.
+
+19
+00:01:51,563 --> 00:01:53,201
+What?
+
+20
+00:01:53,363 --> 00:01:56,196
+You took one of those Wraith stunners
+in the face.
+
+21
+00:01:56,363 --> 00:01:58,160
+It's quite fascinating, actually.
+
+22
+00:01:58,323 --> 00:02:01,121
+The Wraith weapon
+impedes a fire of neurons...
+
+23
+00:02:01,283 --> 00:02:05,401
+- I'm paralysed?
+- The paralysis is only temporary.
+
+24
+00:02:05,563 --> 00:02:08,282
+Don't worry.
+You'll be up and about in no time.
+
+25
+00:02:08,443 --> 00:02:12,721
+Good thing that Wraith weapon is only
+designed to incapacitate, or he'd be dead.
+
+26
+00:02:12,883 --> 00:02:15,158
+What?
+
+27
+00:02:15,323 --> 00:02:17,678
+Major, could I see you for a second?
+
+28
+00:02:22,443 --> 00:02:25,879
+Hello? Hello?
+
+29
+00:02:26,043 --> 00:02:28,477
+- He's gonna be fine.
+- I've heard.
+
+30
+00:02:30,163 --> 00:02:33,553
+- I want to know what happened out there.
+- The same old thing.
+
+31
+00:02:33,723 --> 00:02:37,079
+Which makes it the fifth time
+your teams encountered the Wraith
+
+32
+00:02:37,243 --> 00:02:39,757
+out of how many missions?
+
+33
+00:02:39,923 --> 00:02:44,439
+Nine. So probably not a coincidence.
+
+34
+00:02:44,603 --> 00:02:49,961
+I think it's pretty damn obvious now.
+We've got a spy in Atlantis.
+
+35
+00:03:59,563 --> 00:04:01,679
+Could you please not do that here?
+
+36
+00:04:01,843 --> 00:04:04,073
+My foot is still numb, if you'll excuse me.
+
+37
+00:04:04,243 --> 00:04:06,598
+At least your mouth still works fine.
+
+38
+00:04:09,563 --> 00:04:11,554
+All right, let's get started.
+
+39
+00:04:19,203 --> 00:04:22,752
+- Shouldn't we wait for Teyla?
+- Teyla wasn't invited.
+
+40
+00:04:22,923 --> 00:04:24,515
+She's a member of my team.
+
+41
+00:04:24,683 --> 00:04:26,594
+- She's also an Athosian, sir.
+- So?
+
+42
+00:04:26,763 --> 00:04:29,800
+If we've been compromised,
+as indications suggest,
+
+43
+00:04:29,963 --> 00:04:31,954
+one of them is probably responsible.
+
+44
+00:04:32,123 --> 00:04:34,114
+We're talking about Teyla.
+
+45
+00:04:34,283 --> 00:04:36,274
+- I don't like it either...
+- Good.
+
+46
+00:04:36,443 --> 00:04:40,322
+..but the safety of this base
+and its personnel are my main concern.
+
+47
+00:04:40,483 --> 00:04:43,236
+As they should be yours.
+
+48
+00:04:43,403 --> 00:04:47,362
+The Wraith have shown up on five
+of the nine planets your team has visited,
+
+49
+00:04:47,523 --> 00:04:50,356
+and given that
+two of those worlds were unpopulated,
+
+50
+00:04:50,523 --> 00:04:54,596
+we can assume they have been alerted
+to your missions by someone on this base.
+
+51
+00:04:54,763 --> 00:04:57,835
+If that is so,
+then why hasn't Atlantis been attacked?
+
+52
+00:04:58,803 --> 00:05:00,122
+Good point.
+
+53
+00:05:00,283 --> 00:05:03,081
+Maybe we should stop
+using the Stargate indefinitely.
+
+54
+00:05:03,243 --> 00:05:04,756
+- We can't do that.
+- Why not?
+
+55
+00:05:04,923 --> 00:05:08,359
+- We need ZPMs to power this place.
+- They seem to be running fine.
+
+56
+00:05:08,523 --> 00:05:12,562
+When the Wraith do show up, and
+they will, how do we defend ourselves?
+
+57
+00:05:12,723 --> 00:05:14,156
+Or get back to Earth?
+
+58
+00:05:14,323 --> 00:05:17,599
+This is the only Stargate in the galaxy
+that can reach Earth.
+
+59
+00:05:17,763 --> 00:05:21,517
+We'll have to use the self-destruct
+before the Wraith take the city.
+
+60
+00:05:22,683 --> 00:05:25,038
+Bottom line, we need to use the gate.
+
+61
+00:05:25,203 --> 00:05:27,717
+We've got to find out
+who's responsible ASAP.
+
+62
+00:05:27,883 --> 00:05:32,434
+We should confine all non-base personnel
+to the south side of the complex.
+
+63
+00:05:32,603 --> 00:05:34,833
+- Are you kidding?
+- That's the minimum.
+
+64
+00:05:35,003 --> 00:05:37,642
+- If Colonel Sumner was still...
+- He's not.
+
+65
+00:05:39,523 --> 00:05:42,560
+- I am.
+- Yes, sir.
+
+66
+00:05:43,883 --> 00:05:46,875
+We're not gonna start
+treating anyone like prisoners.
+
+67
+00:05:47,043 --> 00:05:48,556
+Well, that's good.
+
+68
+00:05:48,723 --> 00:05:54,992
+But steps should be taken to safeguard
+the more sensitive areas of this facility.
+
+69
+00:05:55,163 --> 00:05:56,960
+It's only reasonable.
+
+70
+00:05:57,123 --> 00:05:59,762
+No-go zones should start
+with Stargate operations.
+
+71
+00:05:59,923 --> 00:06:02,073
+Labs, power generation
+and the jumper bay.
+
+72
+00:06:02,243 --> 00:06:04,996
+I'd like to meet
+with every Athosian on this base.
+
+73
+00:06:05,163 --> 00:06:07,313
+I only know a handful by name.
+
+74
+00:06:07,483 --> 00:06:09,951
+I'll set up interviews
+when we're done here.
+
+75
+00:06:10,123 --> 00:06:15,595
+In the meantime, all gate travel
+is suspended until further notice.
+
+76
+00:06:25,003 --> 00:06:28,313
+- Sorry, you can't come up.
+- I'm on my way to see Dr Weir.
+
+77
+00:06:28,483 --> 00:06:32,715
+- That area's off limits.
+- Since when?
+
+78
+00:06:34,883 --> 00:06:37,761
+I believe there's been a misunderstanding.
+
+79
+00:06:37,923 --> 00:06:41,472
+I was unaware a meeting had been called.
+
+80
+00:06:41,643 --> 00:06:44,157
+Let's take a walk.
+
+81
+00:06:46,443 --> 00:06:50,482
+- What is happening?
+- There may be a security leak on Atlantis.
+
+82
+00:06:50,643 --> 00:06:54,556
+- Are you certain?
+- Not certain certain, but pretty certain.
+
+83
+00:06:54,723 --> 00:06:58,238
+- We have to take temporary precautions.
+- Such as?
+
+84
+00:06:58,403 --> 00:07:01,873
+Like suspending gate travel,
+tightening security...
+
+85
+00:07:03,163 --> 00:07:05,631
+getting to know your people a little better.
+
+86
+00:07:06,563 --> 00:07:08,713
+You suspect an Athosian?
+
+87
+00:07:08,883 --> 00:07:11,443
+Dr Weir wants to meet them.
+It's not personal.
+
+88
+00:07:11,603 --> 00:07:14,800
+It is in the sense that
+she wants to meet them personally...
+
+89
+00:07:14,963 --> 00:07:18,558
+You know the horrors my people
+have faced at the hands of the Wraith,
+
+90
+00:07:18,723 --> 00:07:20,520
+yet you question their loyalty?
+
+91
+00:07:20,683 --> 00:07:24,961
+Teyla, that's not fair. People are running
+around Atlantis that she's never met.
+
+92
+00:07:25,123 --> 00:07:28,638
+I know each one of them.
+I would stake my life on their innocence.
+
+93
+00:07:28,803 --> 00:07:33,035
+Perhaps you've noticed that
+every time we step through the Stargate,
+
+94
+00:07:33,203 --> 00:07:35,353
+bad guys try to kill us.
+
+95
+00:07:35,523 --> 00:07:39,311
+- I'm getting tired of it. How about you?
+- That does not mean...
+
+96
+00:07:39,483 --> 00:07:45,001
+Look, all we're asking for
+is a little cooperation, that's all.
+
+97
+00:07:52,723 --> 00:07:55,157
+You shall have it.
+
+98
+00:07:55,323 --> 00:07:58,235
+Halling, how's Jinto?
+
+99
+00:07:59,883 --> 00:08:03,114
+Well enough for a boy
+confined to his living quarters.
+
+100
+00:08:03,283 --> 00:08:08,482
+I'm sorry. It's temporary,
+but it is a necessary precaution.
+
+101
+00:08:09,483 --> 00:08:12,043
+So I've heard.
+
+102
+00:08:12,203 --> 00:08:15,559
+Then I assume you know
+why we've arranged these meetings?
+
+103
+00:08:15,723 --> 00:08:19,602
+The same reason my people cannot
+go offworld or enter parts of the city.
+
+104
+00:08:19,763 --> 00:08:24,791
+- You no longer trust us.
+- The truth... We don't know who to trust.
+
+105
+00:08:25,923 --> 00:08:30,280
+Information about offworld excursions
+has obviously found its way to the Wraith.
+
+106
+00:08:30,443 --> 00:08:34,641
+- Obviously?
+- They can't be lying in wait everywhere.
+
+107
+00:08:34,803 --> 00:08:38,239
+They are tracking our movements
+and we need to find out how.
+
+108
+00:08:38,403 --> 00:08:40,917
+Your help would be greatly appreciated.
+
+109
+00:08:42,883 --> 00:08:45,761
+Then by all means.
+How can I be of assistance?
+
+110
+00:08:45,923 --> 00:08:47,242
+Thank you.
+
+111
+00:08:47,403 --> 00:08:49,792
+You've been offworld three times?
+
+112
+00:08:49,963 --> 00:08:53,717
+I've been a guide for Sergeant
+Stackhouse's reconnaissance team,
+
+113
+00:08:53,883 --> 00:08:58,513
+helping establish relations between your
+people and our former trading partners.
+
+114
+00:08:58,683 --> 00:09:02,517
+Stackhouse reported he lost track of you
+on a couple of these outings.
+
+115
+00:09:02,683 --> 00:09:04,992
+I did visit some close friends.
+
+116
+00:09:05,163 --> 00:09:10,191
+Interesting. Two of your visits predated
+Wraith attacks by approximately a day.
+
+117
+00:09:10,363 --> 00:09:12,831
+- What are you suggesting?
+- Nothing.
+
+118
+00:09:13,003 --> 00:09:16,473
+You think I would betray my own people?
+Jeopardise my son's life?
+
+119
+00:09:16,643 --> 00:09:19,840
+- No one is making accusations.
+- I disagree.
+
+120
+00:09:20,003 --> 00:09:22,563
+You have concluded
+an Athosian is responsible.
+
+121
+00:09:22,723 --> 00:09:25,601
+Because it can't possibly
+be one of our own people.
+
+122
+00:09:25,763 --> 00:09:27,913
+No?
+
+123
+00:09:30,003 --> 00:09:32,358
+We just need to clarify a few things.
+
+124
+00:09:34,003 --> 00:09:35,994
+Then allow me.
+
+125
+00:09:36,163 --> 00:09:40,441
+I lost my closest friend in the Wraith attack
+that forced us from our home world.
+
+126
+00:09:41,803 --> 00:09:44,920
+Selana, the woman you just spoke to,
+lost both her parents.
+
+127
+00:09:45,083 --> 00:09:47,278
+You'd be hard pressed to find an Athosian
+
+128
+00:09:47,443 --> 00:09:51,356
+who has not experienced loss
+at the hands of the Wraith.
+
+129
+00:09:52,563 --> 00:09:54,519
+These are the people you accuse.
+
+130
+00:09:57,083 --> 00:09:59,074
+We are not accusing anyone.
+
+131
+00:09:59,243 --> 00:10:01,632
+I came here expecting an interview.
+
+132
+00:10:05,763 --> 00:10:08,914
+Not an interrogation.
+
+133
+00:10:21,323 --> 00:10:24,121
+- I don't think it's too much to ask.
+- What is it?
+
+134
+00:10:29,003 --> 00:10:32,200
+- Buck up. I'm trying to run a diagnostic.
+- Sorry.
+
+135
+00:10:32,363 --> 00:10:36,322
+We are stranded
+with limited resources in another galaxy.
+
+136
+00:10:36,483 --> 00:10:39,555
+The nearest Bob's Big Boy
+is 300 million light years away.
+
+137
+00:10:39,723 --> 00:10:42,999
+If you have to eat my favourite food
+twice in a row, so be it.
+
+138
+00:10:43,163 --> 00:10:46,872
+- You enjoy military rations?
+- I know, it's weird. Hospital food, too.
+
+139
+00:10:47,043 --> 00:10:50,399
+I don't like airplane food
+because you can't get seconds...
+
+140
+00:10:50,563 --> 00:10:52,155
+Hello.
+
+141
+00:10:53,563 --> 00:10:56,236
+- What is it?
+- A new command subroutine.
+
+142
+00:10:57,523 --> 00:10:59,320
+What is its function?
+
+143
+00:10:59,483 --> 00:11:02,793
+I don't know
+because I've never seen it before.
+
+144
+00:11:02,963 --> 00:11:06,512
+I'm gonna cross-reference this
+with the Ancient database.
+
+145
+00:11:06,683 --> 00:11:09,243
+I'm gonna grab the...
+
+146
+00:11:09,403 --> 00:11:11,200
+- What did you touch?
+- Nothing.
+
+147
+00:11:11,363 --> 00:11:14,002
+No, I...
+
+148
+00:11:35,043 --> 00:11:38,956
+- I had no idea the roof could do that.
+- Neither did I.
+
+149
+00:11:44,083 --> 00:11:46,597
+The gate room has been closed to us.
+
+150
+00:11:46,763 --> 00:11:50,278
+We no longer have access
+to the medical facility without escort.
+
+151
+00:11:50,443 --> 00:11:53,196
+We're under constant surveillance.
+
+152
+00:11:53,363 --> 00:11:57,276
+- How long must we put up with this?
+- It's already been too long.
+
+153
+00:12:01,443 --> 00:12:03,593
+I'd have expected
+to be included in this.
+
+154
+00:12:03,763 --> 00:12:06,482
+As we would have expected you
+to take a stand for us.
+
+155
+00:12:06,643 --> 00:12:10,477
+They will protect everyone on this base.
+That includes all of you.
+
+156
+00:12:10,643 --> 00:12:13,282
+A Wraith collaborator threatens us all.
+
+157
+00:12:13,443 --> 00:12:18,437
+- You support the decision to confine us?
+- Halling, we are their guests.
+
+158
+00:12:18,603 --> 00:12:24,075
+We're more like their prisoners, but
+unlike prisoners we can choose to leave.
+
+159
+00:12:24,243 --> 00:12:27,758
+- Where would you go?
+- Do you not mean, where would <i>we</i> go?
+
+160
+00:12:30,283 --> 00:12:32,797
+Our friends in other worlds
+would take us in.
+
+161
+00:12:32,963 --> 00:12:36,842
+For how long? Good trading partners
+do not necessarily make good hosts.
+
+162
+00:12:37,003 --> 00:12:40,040
+- There are many worlds.
+- No world is safe.
+
+163
+00:12:40,203 --> 00:12:44,196
+Nor is it safe to remain. They will
+continue until they find someone to blame.
+
+164
+00:12:44,363 --> 00:12:47,002
+You know none of our people
+could be responsible.
+
+165
+00:12:47,163 --> 00:12:51,076
+- Of course.
+- Then we have nothing to fear.
+
+166
+00:12:54,003 --> 00:12:57,393
+- You trust Dr Weir that much?
+- I do.
+
+167
+00:12:57,563 --> 00:12:59,952
+- More than you trust your own people?
+- No.
+
+168
+00:13:00,123 --> 00:13:02,956
+I understand her responsibility.
+
+169
+00:13:03,123 --> 00:13:09,153
+Halling, we have met with the Wraith
+offworld so often and so quickly,
+
+170
+00:13:09,323 --> 00:13:12,201
+there must be a reason
+beyond coincidence.
+
+171
+00:13:12,363 --> 00:13:14,877
+Give them a chance to find it.
+
+172
+00:13:25,563 --> 00:13:28,031
+I do not approve
+of some of their measures,
+
+173
+00:13:28,203 --> 00:13:32,116
+but I do know that in the end
+they will help to prove our innocence.
+
+174
+00:13:32,283 --> 00:13:35,355
+Atlantis is far more than shelter. It is hope.
+
+175
+00:13:35,523 --> 00:13:39,152
+Not only for us, but for everyone
+who would stand against the Wraith.
+
+176
+00:13:40,923 --> 00:13:43,437
+We must not abandon that hope.
+
+177
+00:13:45,923 --> 00:13:47,914
+They may reside here, Teyla,
+
+178
+00:13:48,083 --> 00:13:50,074
+but they are not the Ancestors,
+
+179
+00:13:50,243 --> 00:13:52,803
+no matter how much
+you wish them to be.
+
+180
+00:13:59,283 --> 00:14:01,717
+- Sir?
+- Ford.
+
+181
+00:14:01,883 --> 00:14:04,192
+They got the sunroof open
+on the jumper bay.
+
+182
+00:14:04,363 --> 00:14:06,923
+- Yep.
+- You're planning to take a jumper out.
+
+183
+00:14:07,083 --> 00:14:09,722
+I figure that's what
+the door on the roof is for.
+
+184
+00:14:09,883 --> 00:14:12,113
+Anyone else call shotgun?
+
+185
+00:14:12,283 --> 00:14:15,036
+Just gonna drive around the planet,
+check it out.
+
+186
+00:14:15,203 --> 00:14:18,878
+You're just checking out the planet?
+Never mind. That's cool.
+
+187
+00:14:19,043 --> 00:14:24,197
+I got better things to do than
+cruise around the planet in a spaceship.
+
+188
+00:14:24,363 --> 00:14:27,036
+- You're like a kid, you know that?
+- Yes, sir.
+
+189
+00:14:27,203 --> 00:14:29,763
+- I brought something to eat on the ride.
+- What?
+
+190
+00:14:29,923 --> 00:14:32,153
+How about a nice turkey sandwich?
+
+191
+00:14:34,003 --> 00:14:35,994
+Let's go.
+
+192
+00:14:38,803 --> 00:14:40,873
+Send in whoever's next, please.
+
+193
+00:14:50,683 --> 00:14:53,755
+Teyla. I wasn't expecting you.
+
+194
+00:14:53,923 --> 00:14:56,960
+I was surprised to be left off your list.
+
+195
+00:14:57,123 --> 00:15:00,115
+I didn't feel it was necessary in your case.
+
+196
+00:15:01,563 --> 00:15:05,238
+On the contrary.
+You should have spoken to me first.
+
+197
+00:15:11,443 --> 00:15:13,274
+You're right. I should have.
+
+198
+00:15:13,443 --> 00:15:16,674
+I can tell you anything
+you need to know about my people.
+
+199
+00:15:16,843 --> 00:15:19,994
+Is it possible you don't know them all
+as well as you think?
+
+200
+00:15:23,563 --> 00:15:25,360
+I empathise with you, Dr Weir.
+
+201
+00:15:25,523 --> 00:15:28,435
+As leaders, we often
+have to make difficult decisions
+
+202
+00:15:28,603 --> 00:15:30,434
+in the interests of those we serve,
+
+203
+00:15:30,603 --> 00:15:34,642
+but many of my fellow Athosians
+are not so understanding.
+
+204
+00:15:34,803 --> 00:15:38,318
+I know. But there's nothing
+I can do about that now.
+
+205
+00:15:38,483 --> 00:15:41,953
+People can suspect my motives
+for these meetings all they want.
+
+206
+00:15:42,123 --> 00:15:44,637
+You and I need to agree
+that we have a problem.
+
+207
+00:15:46,043 --> 00:15:48,034
+I have to do what I can to solve it,
+
+208
+00:15:48,203 --> 00:15:51,559
+and right now that means
+talking with every single person here.
+
+209
+00:15:51,723 --> 00:15:54,840
+You should know
+there is talk of leaving Atlantis.
+
+210
+00:16:01,243 --> 00:16:03,279
+I hope it doesn't come to that.
+
+211
+00:16:07,803 --> 00:16:10,158
+Not all change is for the worse.
+
+212
+00:16:25,603 --> 00:16:28,117
+This is Jumper Three.
+We are go for bay launch.
+
+213
+00:16:33,043 --> 00:16:35,432
+<i>Jumper Three, you are good to go</i>.
+
+214
+00:16:35,603 --> 00:16:37,400
+Yes, we are.
+
+215
+00:16:48,043 --> 00:16:50,034
+It's strange not pulling any Gs.
+
+216
+00:16:50,203 --> 00:16:52,592
+Yeah. Kinda miss it.
+
+217
+00:16:52,763 --> 00:16:55,835
+Although at this rate of acceleration,
+we'd be dead by now.
+
+218
+00:16:56,003 --> 00:16:57,402
+- Yeah?
+- Oh, yeah.
+
+219
+00:16:57,563 --> 00:17:01,715
+Without inertial dampening, we'd be hit
+by so many Gs our eyes would pop,
+
+220
+00:17:01,883 --> 00:17:05,842
+skin would come off our faces,
+our brains would hit the back of our skulls
+
+221
+00:17:06,003 --> 00:17:09,996
+and our internal organs
+would be crushed into these chairs.
+
+222
+00:17:11,003 --> 00:17:13,471
+What about that sandwich?
+
+223
+00:17:18,043 --> 00:17:21,831
+We're orbiting the planet. We'll advise
+when we're back in radio range.
+
+224
+00:17:22,003 --> 00:17:24,801
+<i>Copy that, Jumper Three. Good luck</i>.
+
+225
+00:17:24,963 --> 00:17:29,195
+- We still haven't named the planet.
+- I'm sure the Ancients have a name for it.
+
+226
+00:17:29,363 --> 00:17:32,560
+How about Atlantica,
+something like that?
+
+227
+00:17:32,723 --> 00:17:36,033
+Didn't we agree you weren't
+gonna name anything any more?
+
+228
+00:17:39,523 --> 00:17:41,514
+Sir...
+
+229
+00:17:42,803 --> 00:17:45,112
+Is that... land?
+
+230
+00:17:47,403 --> 00:17:50,440
+Yes, it is.
+
+231
+00:17:50,603 --> 00:17:53,322
+I wonder how big it is.
+
+232
+00:17:53,483 --> 00:17:55,997
+- Big.
+- Really big.
+
+233
+00:17:56,163 --> 00:17:58,233
+- It's huge.
+- Define huge.
+
+234
+00:17:58,403 --> 00:18:03,033
+15 million square miles. Well, give or take.
+
+235
+00:18:03,203 --> 00:18:07,594
+That would make it the size of...
+I have no idea, but it sounds huge...
+
+236
+00:18:07,763 --> 00:18:11,392
+- How long would it take us to get there?
+- 25 minutes by jumper.
+
+237
+00:18:11,563 --> 00:18:13,918
+I saw some sweet breakers
+on the south tip.
+
+238
+00:18:14,083 --> 00:18:15,960
+There may be surfing in our future.
+
+239
+00:18:16,123 --> 00:18:18,432
+We should get soil and water samples.
+
+240
+00:18:18,603 --> 00:18:21,640
+Arable land could solve
+our food-production problems.
+
+241
+00:18:21,803 --> 00:18:24,476
+- I was thinking of something else.
+- Not surfing?
+
+242
+00:18:24,643 --> 00:18:28,795
+No. We can't resume offworld missions
+while the Athosians remain in the city.
+
+243
+00:18:28,963 --> 00:18:30,840
+You want to dump them
+on the mainland?
+
+244
+00:18:31,003 --> 00:18:33,995
+- We're not sending them to die.
+- How would you know?
+
+245
+00:18:34,163 --> 00:18:36,631
+- It looked wild.
+- Just now we were going surfing.
+
+246
+00:18:36,803 --> 00:18:42,673
+That was after we check for monsters
+and bugs and other space-related things.
+
+247
+00:18:42,843 --> 00:18:45,311
+I can't imagine it's worse than their home.
+
+248
+00:18:45,483 --> 00:18:47,201
+That may be failure of imagination.
+
+249
+00:18:47,363 --> 00:18:50,161
+A survey would tell us
+what we need to know.
+
+250
+00:18:53,563 --> 00:18:56,157
+You're not seriously thinking about this?
+
+251
+00:18:57,683 --> 00:19:00,402
+We're the reason
+they had to leave their planet.
+
+252
+00:19:01,283 --> 00:19:04,355
+- This is a complicated situation.
+- What does that mean?
+
+253
+00:19:04,523 --> 00:19:09,074
+It means I'm not about to rule anything out
+at this point.
+
+254
+00:19:15,923 --> 00:19:21,759
+Dr Weir. Is it true
+you've discovered land on this world?
+
+255
+00:19:21,923 --> 00:19:24,153
+Yes, it is.
+
+256
+00:19:24,323 --> 00:19:29,795
+- My people wish to explore it.
+- You would?
+
+257
+00:19:29,963 --> 00:19:32,238
+- We're not welcome here.
+- That's not true.
+
+258
+00:19:32,403 --> 00:19:35,918
+It will make us useful as long as
+we have no access to the gate.
+
+259
+00:19:36,083 --> 00:19:39,359
+- We don't even know if it's safe.
+- We can determine that...
+
+260
+00:19:40,083 --> 00:19:42,074
+for both our people.
+
+261
+00:19:43,043 --> 00:19:46,433
+Up until now you've been insisting
+on access to the Stargate.
+
+262
+00:19:46,603 --> 00:19:49,356
+Now you're proposing
+to cut yourself off from it?
+
+263
+00:19:50,363 --> 00:19:53,878
+We cannot leave... and we cannot stay.
+
+264
+00:19:55,403 --> 00:19:59,112
+- The mainland gives us a third option.
+- I see.
+
+265
+00:19:59,283 --> 00:20:01,717
+- You said this was a temporary measure.
+- Yes.
+
+266
+00:20:01,883 --> 00:20:06,195
+You have the means to assure us passage
+between Atlantis and the mainland
+
+267
+00:20:06,363 --> 00:20:08,923
+when you decide
+to resume use of the gate.
+
+268
+00:20:09,083 --> 00:20:11,517
+If we resume our missions
+through the Stargate
+
+269
+00:20:11,683 --> 00:20:14,800
+and stop encountering
+the Wraith at every turn,
+
+270
+00:20:14,963 --> 00:20:17,397
+it will prove
+that there is an Athosian spy.
+
+271
+00:20:17,563 --> 00:20:21,476
+And when you continue to encounter
+the Wraith at every turn,
+
+272
+00:20:21,643 --> 00:20:24,032
+it will only prove our innocence.
+
+273
+00:20:25,203 --> 00:20:27,876
+Have you discussed this with Teyla?
+
+274
+00:20:29,203 --> 00:20:31,797
+Teyla has made her decision.
+
+275
+00:21:00,003 --> 00:21:03,552
+I understand you're not coming with us.
+
+276
+00:21:17,403 --> 00:21:21,237
+Dr Weir has arranged for communications
+between Atlantis and the mainland.
+
+277
+00:21:21,403 --> 00:21:23,234
+Should you ever need assistance...
+
+278
+00:21:23,403 --> 00:21:25,394
+Thank her for us.
+
+279
+00:21:28,083 --> 00:21:31,519
+I hope...
+I don't want anyone to believe that I'm...
+
+280
+00:21:31,683 --> 00:21:33,674
+Teyla.
+
+281
+00:21:38,883 --> 00:21:40,919
+The time has come.
+
+282
+00:21:57,163 --> 00:21:59,154
+Go safely.
+
+283
+00:22:00,163 --> 00:22:02,154
+And you.
+
+284
+00:22:22,523 --> 00:22:25,833
+I've never been separated
+from my people before.
+
+285
+00:22:26,003 --> 00:22:29,234
+It must be hard,
+but you know you'll see them again.
+
+286
+00:22:31,163 --> 00:22:33,631
+Do you doubt
+you will one day return to Earth?
+
+287
+00:22:33,803 --> 00:22:35,873
+I can't afford to have doubts.
+
+288
+00:22:38,923 --> 00:22:41,642
+You mean you cannot afford
+to let them show.
+
+289
+00:22:43,963 --> 00:22:45,760
+You're still a leader, Teyla.
+
+290
+00:22:45,923 --> 00:22:49,996
+You're doing this
+for your people and for their future.
+
+291
+00:22:50,163 --> 00:22:52,074
+They know that.
+
+292
+00:23:11,243 --> 00:23:13,359
+Anxious to step through the gate again?
+
+293
+00:23:13,523 --> 00:23:15,320
+- Yes, I am.
+- We all are.
+
+294
+00:23:15,483 --> 00:23:17,758
+- Like us to bring back anything?
+- No.
+
+295
+00:23:17,923 --> 00:23:23,714
+- Groceries? A new outfit?
+- No, just yourselves in one piece, please.
+
+296
+00:23:23,883 --> 00:23:26,033
+Dial it up.
+
+297
+00:23:26,203 --> 00:23:28,194
+Be safe.
+
+298
+00:23:52,083 --> 00:23:53,880
+Well, good stuff?
+
+299
+00:23:54,043 --> 00:23:56,603
+I can't begin to tell you
+how fascinating this is.
+
+300
+00:23:56,763 --> 00:23:59,323
+Anthropologist fascinating
+or actual fascinating?
+
+301
+00:23:59,483 --> 00:24:01,553
+Maybe fascinating isn't the right word.
+
+302
+00:24:01,723 --> 00:24:03,520
+Maybe not. How much longer?
+
+303
+00:24:04,203 --> 00:24:07,798
+We'll probably need to come back.
+There's just so much here.
+
+304
+00:24:07,963 --> 00:24:11,035
+I can see that.
+Is there any way to speed things up?
+
+305
+00:24:11,203 --> 00:24:14,240
+Sure. Find me someone
+to translate some of the runes.
+
+306
+00:24:15,643 --> 00:24:18,715
+- Did you say there were natives here?
+- They are very shy.
+
+307
+00:24:18,883 --> 00:24:21,272
+They've probably gone into hiding.
+
+308
+00:24:21,443 --> 00:24:24,355
+Can you coax them out,
+have them give us a hand?
+
+309
+00:24:24,523 --> 00:24:26,957
+It is unlikely, but I could try.
+
+310
+00:24:27,123 --> 00:24:29,762
+Lieutenant, go with her.
+
+311
+00:24:29,923 --> 00:24:35,475
+- It would be better if I went alone.
+- You will be alone. With Ford.
+
+312
+00:25:07,483 --> 00:25:09,474
+Maybe they're not around.
+
+313
+00:25:11,723 --> 00:25:15,955
+They are near,
+but you are a stranger to them.
+
+314
+00:25:16,123 --> 00:25:18,637
+They will not come out if you are with me.
+
+315
+00:25:20,163 --> 00:25:24,122
+They are not a dangerous people,
+Lieutenant. I will be fine.
+
+316
+00:25:28,243 --> 00:25:30,393
+All right. I'll wait here.
+
+317
+00:25:37,483 --> 00:25:39,917
+Call me on the radio if you need me.
+
+318
+00:26:01,523 --> 00:26:04,754
+Wraith! Get back to the gate now!
+
+319
+00:26:22,003 --> 00:26:23,880
+Teyla!
+
+320
+00:26:24,043 --> 00:26:25,681
+Major, what's the situation?
+
+321
+00:26:25,843 --> 00:26:30,712
+We're taking fire. You'll have to
+circle around to get back to the gate.
+
+322
+00:26:30,883 --> 00:26:34,000
+- Teyla's not with me. She went to...
+- Find her. Get back.
+
+323
+00:26:38,683 --> 00:26:40,674
+Move out!
+
+324
+00:26:56,243 --> 00:26:58,393
+Argh!
+
+325
+00:27:01,963 --> 00:27:04,352
+Yamato! McKay! Grab the major.
+
+326
+00:27:05,843 --> 00:27:08,641
+- What about Teyla and Ford?
+- Now!
+
+327
+00:27:17,803 --> 00:27:20,681
+Shut it down.
+They're right behind us.
+
+328
+00:27:26,683 --> 00:27:29,914
+OK. On three. One, two, three.
+
+329
+00:27:32,403 --> 00:27:35,952
+- We have to go back.
+- Teyla? Lieutenant Ford?
+
+330
+00:27:36,123 --> 00:27:38,921
+- Still there.
+- You have Wraith all over the gate.
+
+331
+00:27:39,083 --> 00:27:40,960
+We can't just leave them there.
+
+332
+00:27:45,123 --> 00:27:47,796
+- How many?
+- It's hard to say.
+
+333
+00:27:47,963 --> 00:27:49,954
+We need to mount a rescue operation.
+
+334
+00:27:50,123 --> 00:27:54,036
+I am not gonna send anyone
+through that gate until I have all the facts.
+
+335
+00:27:54,203 --> 00:27:56,558
+How did Teyla and Ford get separated?
+
+336
+00:27:56,723 --> 00:27:59,078
+They went to make contact
+with the natives.
+
+337
+00:27:59,243 --> 00:28:04,271
+- And whose idea was that?
+- Mine. She was following my orders.
+
+338
+00:28:04,443 --> 00:28:09,563
+- Shouldn't you be back in the infirmary?
+- No, I'm fine. I didn't take a full blast.
+
+339
+00:28:09,723 --> 00:28:14,399
+- Why didn't you go with them, Major?
+- The natives are easily spooked.
+
+340
+00:28:14,563 --> 00:28:16,713
+Teyla thought we'd scare 'em off.
+
+341
+00:28:16,883 --> 00:28:19,317
+- Teyla did.
+- What's that, Sergeant?
+
+342
+00:28:19,483 --> 00:28:21,713
+She was absent during the ambush.
+
+343
+00:28:21,883 --> 00:28:25,239
+- So was Ford. Maybe it was him.
+- I'm just stating a fact.
+
+344
+00:28:25,403 --> 00:28:28,713
+Sergeant, I am only
+gonna say this once.
+
+345
+00:28:28,883 --> 00:28:31,522
+With all due respect,
+reprimand me if you wish,
+
+346
+00:28:31,683 --> 00:28:34,595
+but it's been six times
+your team's been compromised.
+
+347
+00:28:34,763 --> 00:28:38,153
+Only one Athosian
+knew about this last mission.
+
+348
+00:28:40,283 --> 00:28:43,434
+Unscheduled offworld activation.
+
+349
+00:28:44,443 --> 00:28:47,833
+It's Teyla's IDC.
+Receiving a radio transmission.
+
+350
+00:28:48,003 --> 00:28:50,801
+<i>This is Teyla</i>.
+<i>Lieutenant Ford has been wounded</i>.
+
+351
+00:28:50,963 --> 00:28:53,318
+<i>The Wraith are closing in on our position</i>.
+
+352
+00:28:53,483 --> 00:28:56,555
+Put down that shield
+and we could have a Wraith attack.
+
+353
+00:28:56,723 --> 00:28:59,112
+<i>Atlantis, please let us through</i>.
+
+354
+00:29:08,243 --> 00:29:10,598
+Lieutenant, can you confirm the situation?
+
+355
+00:29:10,763 --> 00:29:13,323
+<i>He is unconscious</i>.
+<i>Our situation grows desperate</i>.
+
+356
+00:29:13,483 --> 00:29:16,043
+<i>We have no choice</i>
+<i>but to go through the Stargate</i>.
+
+357
+00:29:16,203 --> 00:29:19,081
+Who knows what
+she'll bring through that gate with her.
+
+358
+00:29:21,563 --> 00:29:24,680
+Open up the damn gate!
+
+359
+00:29:32,243 --> 00:29:35,315
+Lower the shield.
+
+360
+00:29:53,363 --> 00:29:56,799
+If she were helping the Wraith,
+why bother bringing Ford back?
+
+361
+00:29:56,963 --> 00:29:59,079
+In fact, why bother coming back at all?
+
+362
+00:29:59,243 --> 00:30:03,236
+She's of more use to them in Atlantis.
+As for apparently rescuing Ford...
+
+363
+00:30:03,403 --> 00:30:05,917
+She carried him through the damn gate!
+
+364
+00:30:06,083 --> 00:30:09,234
+- We still don't know what happened.
+- Oh, that's enough.
+
+365
+00:30:09,403 --> 00:30:12,600
+- It's my job to express concerns.
+- I've heard enough.
+
+366
+00:30:12,763 --> 00:30:15,880
+I believe you're putting
+your personal feelings...
+
+367
+00:30:16,043 --> 00:30:17,999
+You're dismissed.
+
+368
+00:30:25,003 --> 00:30:27,233
+Yes, sir.
+
+369
+00:30:43,443 --> 00:30:47,482
+- What?
+- I put him in charge of security.
+
+370
+00:30:47,643 --> 00:30:52,353
+Yes, you did, and if you want
+to dismiss me, go ahead.
+
+371
+00:30:54,083 --> 00:30:57,553
+Why don't you go and see
+how Lieutenant Ford is doing?
+
+372
+00:31:18,523 --> 00:31:20,559
+You want me to go through her stuff?
+
+373
+00:31:22,443 --> 00:31:25,799
+We're looking for weapons,
+transmitters, recording devices.
+
+374
+00:31:25,963 --> 00:31:28,921
+Anything beyond
+the Athosians' level of technology.
+
+375
+00:31:29,083 --> 00:31:31,358
+And then we move on to a strip search?
+
+376
+00:31:32,323 --> 00:31:34,553
+Just do it.
+
+377
+00:31:42,443 --> 00:31:46,118
+We were on our way back when
+we came under fire. Didn't even see them.
+
+378
+00:31:46,283 --> 00:31:49,639
+We returned fire then broke for the gate.
+I was hit from behind.
+
+379
+00:31:49,803 --> 00:31:52,078
+- She saved my ass.
+- Of course she did.
+
+380
+00:31:52,243 --> 00:31:55,440
+Major... Ford, how are you feeling?
+Pins and needles all over?
+
+381
+00:31:55,603 --> 00:31:56,922
+Welcome to the club.
+
+382
+00:31:57,083 --> 00:32:00,120
+No, I managed to dive out of the way
+of the stunner blast.
+
+383
+00:32:00,283 --> 00:32:02,843
+- I hit my head on the way down.
+- Hit your head?
+
+384
+00:32:03,003 --> 00:32:05,198
+Major, I need you to see something.
+
+385
+00:32:07,723 --> 00:32:09,839
+I'll be fine.
+
+386
+00:32:19,163 --> 00:32:22,553
+- What the hell is this?
+- It was a request from Sergeant Bates.
+
+387
+00:32:22,723 --> 00:32:25,681
+I'm gonna bust him.
+Teyla has nothing to do with this.
+
+388
+00:32:25,843 --> 00:32:27,720
+The thing is, he was right.
+
+389
+00:32:30,043 --> 00:32:33,752
+- Bates was right?
+- I was as surprised as you are. Look.
+
+390
+00:32:36,003 --> 00:32:40,713
+It's her locket. It's a transmitter.
+It's been broadcasting a signal.
+
+391
+00:32:40,883 --> 00:32:44,000
+- I wouldn't even have noticed...
+- I found it.
+
+392
+00:32:44,163 --> 00:32:46,836
+- What?
+- Back on her planet the first time we met.
+
+393
+00:32:47,003 --> 00:32:51,793
+Teyla took me to the old ruins.
+That was half-buried in dirt. I gave it to her.
+
+394
+00:32:55,083 --> 00:32:57,722
+I lost this years ago.
+
+395
+00:32:57,883 --> 00:33:02,035
+The locket isn't powerful enough
+to send a signal far through subspace.
+
+396
+00:33:02,203 --> 00:33:05,036
+My guess is there are relay devices
+on certain planets
+
+397
+00:33:05,203 --> 00:33:07,922
+that pick up the transmission
+and alert a hive ship.
+
+398
+00:33:08,083 --> 00:33:11,758
+- The planets where we were attacked.
+- We owe a few people an apology.
+
+399
+00:33:12,963 --> 00:33:15,875
+Teyla had no idea
+she was giving away your position?
+
+400
+00:33:16,043 --> 00:33:19,399
+It was a present from her father.
+She lost it when she was a kid.
+
+401
+00:33:19,563 --> 00:33:22,282
+It was dormant
+until Major Sheppard picked it up.
+
+402
+00:33:22,443 --> 00:33:24,877
+How come they weren't attacked
+back then?
+
+403
+00:33:25,043 --> 00:33:28,160
+- I said it was dormant.
+- But if it was activated by touch?
+
+404
+00:33:28,323 --> 00:33:31,554
+You're not listening.
+I said Major Sheppard activated it.
+
+405
+00:33:31,723 --> 00:33:35,079
+To the Wraith,
+Teyla is just another human being.
+
+406
+00:33:35,243 --> 00:33:37,916
+They have no interest in her.
+Now, Major Sheppard...
+
+407
+00:33:38,083 --> 00:33:40,472
+- Has the Ancient gene.
+- Exactly.
+
+408
+00:33:40,643 --> 00:33:43,441
+At one point the Wraiths
+and the Ancients were at war.
+
+409
+00:33:43,603 --> 00:33:45,958
+The Wraiths made a device
+to detect Ancients.
+
+410
+00:33:46,123 --> 00:33:49,911
+Some Athosian thought
+this would make a nice little necklace?
+
+411
+00:33:50,083 --> 00:33:53,041
+How could I know that?
+What am I, Answer Man?
+
+412
+00:33:53,203 --> 00:33:56,752
+It wasn't Teyla.
+Or any other Athosian, for that matter.
+
+413
+00:33:56,923 --> 00:33:59,312
+If that's the case...
+
+414
+00:34:01,683 --> 00:34:03,992
+we can use it against 'em.
+
+415
+00:34:11,643 --> 00:34:13,998
+- You seem nervous.
+- No, I'm doing this.
+
+416
+00:34:14,163 --> 00:34:16,882
+Yes, you are.
+I just said you seemed nervous.
+
+417
+00:34:17,043 --> 00:34:19,682
+I thought you said,
+"You don't have to do this."
+
+418
+00:34:19,843 --> 00:34:24,155
+I'm doing this, despite the fact that feeling
+hasn't returned to my extremities.
+
+419
+00:34:27,763 --> 00:34:31,756
+- You're late.
+- Sorry.
+
+420
+00:34:33,003 --> 00:34:35,836
+Now, given the Wraiths'
+regenerative abilities,
+
+421
+00:34:36,003 --> 00:34:38,278
+killing one
+requires some amount of effort.
+
+422
+00:34:38,443 --> 00:34:40,399
+Capturing one live is another deal.
+
+423
+00:34:40,563 --> 00:34:43,760
+For these options to work,
+your Wraith must be on the ground.
+
+424
+00:34:43,923 --> 00:34:48,792
+The ruins around the Stargate should
+force the Wraith to come through on foot.
+
+425
+00:34:48,963 --> 00:34:52,672
+In which case...
+you'll be able to use these.
+
+426
+00:34:55,923 --> 00:34:57,402
+This is a stun grenade.
+
+427
+00:34:57,563 --> 00:34:59,679
+It contains aluminium
+and potassium perchlorate
+
+428
+00:34:59,843 --> 00:35:02,403
+that, when ignited,
+produces a high-pressure wave
+
+429
+00:35:02,563 --> 00:35:06,078
+that will overwhelm the target
+with intense light and sound.
+
+430
+00:35:06,923 --> 00:35:12,077
+If that doesn't get his head ringing,
+in addition... you've got your taser.
+
+431
+00:35:13,083 --> 00:35:15,153
+<i>With a range of 15 to 20 feet,</i>
+
+432
+00:35:15,323 --> 00:35:17,234
+<i>it delivers a high-voltage charge</i>
+
+433
+00:35:17,403 --> 00:35:22,397
+<i>that limits the body's electrical signals,</i>
+<i>temporarily paralysing the victim</i>.
+
+434
+00:35:22,563 --> 00:35:24,554
+<i>Major, this is Ford</i>.
+
+435
+00:35:24,723 --> 00:35:27,476
+What you got, Lieutenant?
+
+436
+00:35:29,403 --> 00:35:31,837
+We got company.
+
+437
+00:35:33,003 --> 00:35:34,482
+Four of them.
+
+438
+00:35:39,643 --> 00:35:42,840
+- All right, then. We go as planned.
+- Yes, sir.
+
+439
+00:35:50,363 --> 00:35:53,719
+- You still seem nervous...
+- No, no. It's good. All good.
+
+440
+00:36:17,203 --> 00:36:19,922
+Teyla.
+
+441
+00:36:57,563 --> 00:37:00,123
+This one's ours, boys. Tasers!
+
+442
+00:37:36,603 --> 00:37:39,834
+Self-destruct. Take cover!
+
+443
+00:37:49,723 --> 00:37:52,999
+Major! Dr McKay!
+
+444
+00:37:57,923 --> 00:38:01,996
+- You OK?
+- I'm fine. This is... This is fun for me.
+
+445
+00:38:24,763 --> 00:38:27,880
+Easy. Don't go blowing yourself up.
+
+446
+00:38:40,763 --> 00:38:43,038
+Teyla. Excuse me.
+
+447
+00:38:43,203 --> 00:38:46,320
+I hoped to catch you
+before you headed back to the mainland.
+
+448
+00:38:46,483 --> 00:38:48,553
+- I hear they're doing well.
+- Very well.
+
+449
+00:38:48,723 --> 00:38:51,715
+Halling says they're planting crops
+for the next harvest.
+
+450
+00:38:51,883 --> 00:38:55,478
+- I'm glad to hear it.
+- I will tell them what has happened.
+
+451
+00:38:55,643 --> 00:38:59,113
+Hopefully we will be able
+to put the past week's events behind us.
+
+452
+00:38:59,283 --> 00:39:04,960
+Yes. I am aware that the last few days
+have been particularly difficult for you.
+
+453
+00:39:05,123 --> 00:39:10,880
+I believe, Dr Weir, that in your place
+I would have done the same.
+
+454
+00:39:12,283 --> 00:39:14,478
+Thank you.
+
+455
+00:39:44,723 --> 00:39:48,557
+Again? Your kind is persistent.
+
+456
+00:39:48,723 --> 00:39:51,191
+I would have thought
+you'd given up by now.
+
+457
+00:39:52,603 --> 00:39:57,836
+Hell, I've got all the time in the world.
+Now, you, on the other hand...
+
+458
+00:40:02,003 --> 00:40:04,961
+The Ancients were pretty good at shields,
+weren't they?
+
+459
+00:40:07,163 --> 00:40:10,200
+I give you a week. Maybe two, tops.
+
+460
+00:40:10,363 --> 00:40:15,312
+You waste your time.
+I will provide you with no information.
+
+461
+00:40:15,483 --> 00:40:18,839
+I wonder what hurts more:
+the gunshot wound or the hunger?
+
+462
+00:40:19,003 --> 00:40:22,791
+Because I'd love to help out,
+but how did McKay put it?
+
+463
+00:40:24,843 --> 00:40:28,040
+We can't meet your dietary requirements.
+
+464
+00:40:30,203 --> 00:40:35,277
+When I am free,
+you will be the first that I feed upon.
+
+465
+00:40:35,443 --> 00:40:37,434
+Okey-dokey.
+
+466
+00:40:37,603 --> 00:40:40,720
+I'm gonna go make myself a sandwich.
+
+467
+00:40:40,883 --> 00:40:43,716
+Human.
+
+468
+00:40:45,603 --> 00:40:48,800
+You think you've won a victory
+by my capture,
+
+469
+00:40:48,963 --> 00:40:53,514
+but by bringing me here
+you've only hastened your own doom.
+
+470
+00:40:53,683 --> 00:40:58,882
+It's only a matter of time before
+the others of my kind come to rescue me,
+
+471
+00:40:59,963 --> 00:41:05,560
+and when they do, there'll be
+nowhere in this world you can hide.
+
+472
+00:41:10,443 --> 00:41:12,513
+Stay positive, now.
+
+473
+00:41:37,963 --> 00:41:39,999
+Subtitles by Lecavalier
+
+474
+00:41:45,323 --> 00:41:47,314
+For the BST
+

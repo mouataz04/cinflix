@@ -1,0 +1,472 @@
+{417}{495}Je m'appelle John Fitzgerald Byers.
+{497}{585}Comme notre 35e président.
+{587}{655}Je fais souvent un rêve magnifique.
+{710}{847}Dans mon rêve, les événements|du 22 novembre 1963 n'ont jamais eu lieu.
+{875}{952}Mon homonyme n'a jamais été assassiné.
+{1015}{1100}D'autres choses aussi sont différentes.
+{1102}{1215}Mon pays est optimiste, pur.|Il retrouve sa jeunesse.
+{1215}{1280}Sa jeunesse d'esprit.
+{1282}{1357}Mes concitoyens ont confiance en leurs élus,
+{1360}{1440}qui ne les ont jamais trahis.
+{1442}{1570}Le gouvernement est celui du peuple,|élu par le peuple, pour le peuple.
+{1600}{1730}Tous mes espoirs pour mon pays|et pour moi-même sont comblés.
+{1732}{1797}J'ai tout ce dont un homme peut rêver.
+{1800}{1870}Une maison et une famille.
+{1870}{1920}Et l'amour.
+{1992}{2067}Tout ce qui est important dans la vie...
+{2115}{2165}je l'ai.
+{2295}{2367}Mais la fin du rêve est toujours la même.
+{2510}{2560}Je perds tout.
+{3195}{3255}LE GOUVERNEMENT NOUS MENT
+{3612}{3657}LA VERITE EST AILLEURS
+{3705}{3820}LAS VEGAS, NEVADA
+{3822}{3942}DEF-CON 1999|BIENVENUE A LA DEFENSE
+{4230}{4290}On joue au Texas Hold'Em, messieurs.
+{4322}{4385}Tu as emmené ta femme?
+{4387}{4460}Tu crois que je serais là en ce moment?
+{4460}{4510}Guignol a emmené la sienne.
+{4512}{4572}C'est moi l'homme.|Je joue au poker si je veux.
+{4575}{4667}Pendant ce temps,|ta femme s'envoie le facteur à Plano.
+{4670}{4810}- Comment tu t'appelles déjà?|- Stewart Funston. Enchanté.
+{4810}{4880}Tu as emmené ta femme?
+{4880}{4945}- Je ne suis pas marié.|- T'as bien raison.
+{4960}{5017}Cent.
+{5020}{5090}Vous venez au Def-Con tous les ans?
+{5092}{5155}Tous les ans. Je me couche.
+{5157}{5230}- Je raterais pas ça.|- Je passe.
+{5232}{5317}Vous travaillez sur un projet intéressant?
+{5355}{5437}Toujours les mêmes opés merdiques.|Tu connais.
+{5440}{5510}On bosse sur une bombe à neutrons.
+{5512}{5627}On peut faire cuire un cerveau|dans un crâne, comme un oeuf dur.
+{5655}{5675}- C'est cool!|- En parlant de merdes... Je me couche.
+{5675}{5775}- C'est cool!|- En parlant de merdes... Je me couche.
+{5910}{5960}Merci.
+{5962}{6012}Nous avons là un homme distingué.
+{6115}{6182}- Tu me suis?|- Oui.
+{6235}{6315}Il n'y a plus que toi et moi.
+{6445}{6510}Je remets 200.
+{6510}{6557}Je suis tes 200
+{6570}{6655}et je relance à 1 000.
+{6715}{6780}- II bluffe.|- Trois trèfles en vue.
+{6780}{6790}- II bluffe.|- Trois trèfles en vue.
+{6805}{6860}Peut-être un flush.
+{6885}{6935}1 000...
+{6990}{7045}et je relance à 1 000.
+{7045}{7100}Il en a.
+{7220}{7272}Tu travailles pour le Conglomérat.
+{7275}{7337}Vous faites un super AE-135.
+{7402}{7537}Merde. Panique pas.|Je suis dessus... AE-135.
+{7562}{7592}Je cherche...
+{7595}{7717}Bingo. 442J/AE-135.|Climatisation pour bombardiers B-2.
+{7720}{7865}- Parle de climatiseurs.|- L'AE-135 est extra.
+{7865}{7957}Il garde les B-2 au frais. On gèlerait presque.
+{7960}{8055}Comment tu t'es débarrassé des bogues?
+{8057}{8145}- C'est top secret.|- Allez.
+{8147}{8210}On est entre amis.
+{8210}{8300}Sérieusement,|comment tu as géré la délamination?
+{8300}{8352}Délamination.
+{8375}{8437}- Je cherche.|- Désolé.
+{8440}{8492}Je suis tes 1 000
+{8547}{8597}et...
+{8647}{8737}je te relance... tout ce que tu as.
+{8812}{8875}Test, température de l'air... rien.
+{8877}{8925}Gagne du temps. Et couche-toi.
+{8960}{9047}Vous voulez savoir|comment on a réglé le problème?
+{9122}{9192}On a sous-traité aux Japonais
+{9195}{9292}et on a triplé la facture|du gouvernement. Comme d'hab.
+{9462}{9532}Flush à la reine.
+{9602}{9657}Flush royal.
+{9760}{9867}Appelle la sécurité. Qu'on arrête M. Funston.
+{9870}{9985}- Et son associé.|- Délamination... C'est une invention.
+{9985}{10095}Un conseil, Stewart, ou qui que tu sois...
+{10120}{10170}Tu n'es pas doué au poker.
+{10287}{10357}Tu veux te battre? Allons-y!
+{10460}{10592}3 000 $. Je t'ai dit de te coucher.|J'aurais dû y aller à ta place.
+{10595}{10677}- Pourquoi on a envoyé Byers?|- Parce qu'on n'est pas à Woodstock.
+{10680}{10710}On a des empreintes sur les verres?
+{10710}{10740}On a des empreintes sur les verres?
+{10742}{10845}Tu plaisantes? J'ai dû tout laisser là-bas.
+{10847}{10915}- On peut sauver l'affaire?|- Aucune chance.
+{10917}{10967}Ce congrès est un fiasco.
+{10970}{11050}Cinq jours, 3 000 $ d'investis|et on n'a que dalle.
+{11052}{11155}Qui était ce joueur?|II ne portait pas le badge du congrès.
+{11157}{11217}- Personne n'a dit son nom.|- II faut se renseigner.
+{11500}{11562}CIA! Ouvrez!
+{11642}{11687}Jimmy et Timmy.
+{11690}{11747}Où étiez-vous passés?
+{11750}{11837}- On était dans le coin.|- Vous cherchiez des tuyaux?
+{11840}{11897}- En planque?|- Peut-être bien.
+{11900}{11965}- Nous aussi.|- Peut-être qu'on a trouvé des tuyaux.
+{11967}{12017}Peut-être que nous aussi.
+{12132}{12245}On n'a que dalle.|Juste des mecs de la Défense trop coincés.
+{12247}{12355}Je tente le tout pour le tout|et je dis: "C'est le T-shirt".
+{12357}{12447}Vous devriez en porter un chacun:|"Je suis avec Stupide."
+{12450}{12542}Vous ne comprenez rien.|Ca veut dire que je suis des leurs.
+{12555}{12650}Et que je comprends|comment fonctionne le pouvoir militaire.
+{12652}{12762}Il ne s'agit que de ça.|De crimes politiques douteux.
+{12765}{12830}- C'est le thème de cette année.|- D'où tu tiens ça?
+{12830}{12905}Je ne vais pas dévoiler mes sources.
+{12905}{13002}Je dirai juste qu'une nouvelle|technologie furtive d'élimination
+{13005}{13135}est sur le point d'être révélée.|Et je serai là, au premier rang.
+{13165}{13240}- En attendant, on va au resto.|- Buffet de homard.
+{13240}{13337}Spectacle gratuit, nibards à la clé.|Vous venez?
+{13340}{13390}Sans moi.
+{13447}{13497}Je vous rejoins.
+{13560}{13665}- T'es vraiment pas un cadeau.|- Arrête avec le poker.
+{13667}{13745}Je ne parle pas de ça.
+{13745}{13840}C'est toi qui insistes toujours|pour qu'on vienne au congrès.
+{13842}{13902}Et une fois ici, tu te défiles.
+{13925}{13990}Tu la cherches encore?
+{13992}{14065}- Susanne Modeski.|- On l'a rencontrée à un congrès.
+{14065}{14125}Il y a dix ans, à Baltimore.
+{14160}{14225}Et on sait ce qui lui est arrivé.
+{14292}{14392}- Elle est sûrement morte.|- Non. C'était une grande scientifique.
+{14395}{14485}- Indispensable au gouvernement.|- Quoi qu'il en soit,
+{14487}{14587}on espère tous les deux|qu'elle est ailleurs qu'à Las Vegas.
+{14620}{14682}Viens. Homard à volonté.
+{14682}{14690}Viens. Homard à volonté.
+{14787}{14880}- J'ai failli gagner.|- Comme tout le monde.
+{14880}{14950}Regarde ça. C'est mon jour de chance.
+{15427}{15477}- C'est impossible.|- Quoi?
+{16030}{16080}Je suis désolé.
+{16165}{16215}Qu'est-ce qui se passe?
+{16570}{16652}- Scully.|- C'est moi.
+{16655}{16732}- Mulder. Quelle heure est-il?|- 2 h 34.
+{16765}{16890}- Prends le prochain vol pour Las Vegas.|- Pourquoi?
+{16890}{16977}Les Bandits Solitaires|sont sur un gros coup.
+{16980}{17115}- Quoi exactement?|- C'est important. Fais-moi confiance.
+{17117}{17227}Je ne me méfie pas de toi,|mais des trois comparses.
+{17230}{17345}Je ne peux rien dire au téléphone.|Viens vite. C'est urgent.
+{17345}{17380}Je ne peux rien dire au téléphone.|Viens vite. C'est urgent.
+{17425}{17460}D'accord.
+{17585}{17687}- Et si elle le rappelle?|- Ca sonnera ici.
+{17690}{17770}Elle va te tuer.|Pourquoi tu as besoin de Scully?
+{17772}{17850}On combat des agents du gouvernement.|Il nous faut le nôtre.
+{17852}{17942}Oui, Mulder! Pourquoi seulement Scully?
+{17945}{18017}- Elle va te tuer.|- Mulder est repéré.
+{18020}{18100}Il est trop connu|des kidnappeurs de Susanne.
+{18102}{18230}J'ai piraté les ordinateurs des hôtels.|Susanne Modeski n'est nulle part.
+{18232}{18335}Tu es sûr que c'était elle?|Tu en es absolument sûr?
+{18337}{18420}C'était elle. Elle est ici. Je dois la trouver.
+{18422}{18495}Tu dois trouver de la glace.|Un verre te ferait du bien.
+{19840}{19925}- Byers essaie de se tuer.|- Arrête d'essayer de te tuer.
+{19927}{20012}C'est pas assez profond. Regarde ce qu'on a.
+{20015}{20097}La 1066 est au nom|de notre mystérieux joueur de poker.
+{20100}{20185}Un certain Grant Ellis,|immatriculé au Nouveau-Mexique.
+{20185}{20275}Sa voiture appartient|au ministère de la Défense.
+{20275}{20342}- Provenance...|- Whitestone, Nouveau-Mexique.
+{20345}{20450}La base de recherche sur l'armement|où travaillait Susanne.
+{20452}{20535}Les frais d'Ellis|sont payés par l'administration.
+{20537}{20620}On dirait une pseudo-huile|du gouvernement fantôme.
+{20622}{20685}Il lui a lavé le cerveau.
+{20685}{20775}C'est leur méthode!|Elle a mis au point un gaz histaminique.
+{20777}{20850}Guerre psychologique|ou modification du comportement,
+{20852}{20935}il s'agit de contrôler l'esprit humain.
+{20937}{21030}Le procédé a dû être approfondi|depuis dix ans.
+{21032}{21125}Elle s'est enfuie|pour ne pas prendre part à leurs tests,
+{21125}{21195}à leurs crimes contre le peuple américain.
+{21197}{21310}Elle n'aurait jamais accepté|de travailler pour eux, pour ce type,
+{21310}{21360}de l'embrasser.
+{21377}{21440}Il lui a lavé le cerveau.
+{21462}{21532}Je sais comment en être sûr.
+{22312}{22407}Je ne peux pas entrer.|Celui qui m'a foutu dehors est à la porte.
+{22410}{22460}Laisse-moi y aller.
+{22487}{22532}CIA! On ne bouge plus!
+{22582}{22635}De plus en plus drôle.
+{22637}{22697}- Où est ta copine Timmy?|- Dans le désert.
+{22700}{22807}Une fille nue lui apprend à utiliser|une mitrailleuse. Ca coûte 200 sacs.
+{22810}{22865}Je l'ai traité de couillon.
+{22865}{22950}Qu'est-ce qui t'arrive? Ton chien est mort?
+{22952}{23007}Qu'est-ce que tu as?
+{23010}{23075}On essaie d'entrer dans la salle Saguaro.
+{23077}{23150}Bonne chance.|Autant chercher le Saint-Graal.
+{23150}{23250}La sécurité du casino est dehors,|celle de l'Etat à l'intérieur. Rien à faire.
+{23252}{23350}J'y arriverai, quand ce sera le moment.
+{23352}{23452}- C'est bon de rêver.|- Va te coiffer, Michael Bolton.
+{23455}{23525}Il y a une faille dans la sécurité.|Je la trouverai.
+{23527}{23645}Ils ne révèlent leur nouvelle|technologie d'élimination que demain.
+{23645}{23715}Il remet ça.
+{23717}{23842}Je dois entrer|et savoir ce qui va se dire aujourd'hui.
+{23845}{23915}Si tu es capable d'entrer, prouve-le.
+{24037}{24212}Les applications concrètes sont|toujours nécessaires dans l'armement.
+{24215}{24305}Une arme ne peut en aucun cas
+{24305}{24445}être ajoutée à l'arsenal militaire|avant que son efficacité ne soit prouvée.
+{24447}{24535}Si vous regardez les taux|de productivité qu'on vous a fournis,
+{24535}{24565}Si vous regardez les taux|de productivité qu'on vous a fournis,
+{24565}{24655}à la page 22, vous constaterez|que nous avons testé...
+{24680}{24740}Voici ta poule fasciste, Byers.
+{24742}{24830}...et le 2e quart de l'année dernière.
+{24832}{24955}Mais avant de crier victoire,|il ne faut pas oublier...
+{24957}{25007}Timmy?
+{25047}{25122}Le coût premier de ces opérations...
+{25125}{25175}Merde.
+{25437}{25487}Attendez!
+{25650}{25700}Tu es l'un deux.
+{25790}{25870}Tu as vraiment tout foutu en l'air.
+{25872}{25952}- On avait de grands projets pour toi.|- Lesquels?
+{26047}{26165}Les crimes politiques.|J'avais raison depuis le début.
+{26167}{26250}Tout projet a besoin d'un cobaye.
+{26327}{26370}Non!
+{26465}{26525}Montez ça dans ma chambre.
+{26575}{26640}Où est Mulder? Je n'arrive pas à le joindre.
+{26642}{26747}- Son téléphone déconne.|- II va être difficile à joindre.
+{26750}{26825}Il veut qu'on travaille avec vous,|qu'on vous mette au parfum.
+{26827}{26895}Tiens donc. Me mettre au parfum.
+{26895}{26995}- Qui est le blessé?|- James Belmont. Terminé.
+{26997}{27055}- Par ici.|- Merde. Jimmy.
+{27200}{27265}Il a sauté! Sans prévenir.
+{27267}{27330}Il l'a fait sous mes yeux.
+{27332}{27410}- C'est bien Jimmy.|- J'y suis pour rien.
+{27412}{27507}Il était là et il s'est jeté sous le bus!
+{27510}{27580}- Ce n'était pas un suicide.|- Vous le connaissez?
+{27640}{27690}Qu'est-ce qui se passe ici?
+{30155}{30210}Susanne.
+{30212}{30262}Tu te souviens de moi?
+{30287}{30350}John, que fais-tu ici?
+{30352}{30407}Je suis venu te sauver.
+{30410}{30515}- De quoi?|- Tu n'es pas toi-même.
+{30515}{30620}Tu as été maltraitée|et tu ne sais plus qui tu es.
+{30622}{30732}J'ai peur que tes croyances,|tes opinions ne soient plus les tiennes.
+{30735}{30785}Comme un lavage de cerveau?
+{30840}{30912}Je ne sais pas quoi te dire.|Ce n'est pas le cas.
+{30945}{31070}Ta vie est peut-être en danger.|Un de mes amis vient d'être assassiné.
+{31072}{31142}- Quoi?|- Et l'homme qui t'accompagne?
+{31145}{31200}Mon fiancé?
+{31225}{31322}- Tu ferais mieux de partir.|- Non. Attends!
+{31325}{31447}Il y a dix ans,|on t'a kidnappée sous mes yeux.
+{31450}{31505}Ca ne s'est jamais passé?
+{31507}{31572}Je l'ai rêvé?
+{31605}{31655}Ca s'est bien passé.
+{31690}{31702}Mais tout s'est arrangé.
+{31702}{31750}Mais tout s'est arrangé.
+{32450}{32500}Désolé, vieux.
+{32650}{32700}Susanne a beaucoup de succès.
+{32790}{32930}- Vous êtes sûr de vouloir rester?|- Aucun problème.
+{32930}{33000}Voyons voir ce qui l'a tué.
+{33002}{33047}Très bien.
+{33195}{33275}James Belmont, 29 ans.
+{33277}{33400}L'examen visuel montre des blessures|liées à un traumatisme important.
+{33450}{33592}Nombreuses fractures des côtes|et hémorragie interne et externe.
+{33595}{33692}La colonne vertébrale est brisée|et en partie visible.
+{33732}{33812}Et s'ils lui avaient fait quelque chose?
+{33815}{33905}- Pour qu'il se fasse écraser?|- Qui "ils"?
+{33925}{33995}Vous savez. Eux.
+{33997}{34042}Je fais une incision en Y.
+{34812}{34895}Vous voulez bien|me passer la scie circulaire?
+{34897}{34992}Elle est sur la table. Merci.
+{35277}{35327}Ca va?
+{36485}{36560}Réveillez-vous. Ca va?
+{36562}{36615}Qu'est-ce qui s'est passé?
+{36615}{36680}Vous avez dû faire un malaise.
+{36682}{36745}La vue du sang en incommode certains.
+{36745}{36835}Oui, je suppose.
+{36837}{36887}Ca va aller?
+{36922}{36972}Bien sûr, coco.
+{37090}{37147}Vous avez fini avec Jimmy?
+{37175}{37227}Fini, fini.
+{37345}{37395}Comment ça marche, ce truc?
+{37467}{37522}De quoi est-il mort?
+{37572}{37622}Mon opinion médicale?
+{37810}{37925}- C'est tout ce que vous avez trouvé?|- C'est tout ce que je sais.
+{38150}{38217}- Qu'as-tu découvert?|- L'autopsie n'a rien donné.
+{38220}{38330}- Jimmy s'est fait rouler dessus.|- Où est la charmante agent Scully?
+{38332}{38460}Elle avait quelque chose à faire.|Le décalage horaire l'a sonnée.
+{38462}{38550}- Tu as déjà quelque chose?|- Non. On a été plus rapide que moi.
+{38565}{38687}Encore attendre!|J'ai l'impression qu'on nous surveille.
+{38690}{38750}Tu t'inquiètes trop, chérie.
+{38750}{38852}On est dans les temps.|Tout se déroule comme prévu.
+{38930}{38995}On a travaillé tellement dur.
+{39065}{39175}Ce n'est pas elle. Ils la manipulent.
+{39187}{39285}Je vais te dire quelque chose sur les femmes.
+{39287}{39397}Tu ne peux jamais leur forcer la main.
+{39400}{39515}- Elle n'aurait jamais épousé cet homme.|- Tu ne le connais pas.
+{39517}{39577}Qu'est-ce que vous faites ici?
+{39580}{39640}On a laissé ça dans ma chambre.
+{39685}{39772}Grant Ellis m'a sauvé la vie,|comme à des milliers d'autres.
+{39825}{39927}Il faut que je te parle. Que je t'explique tout.
+{39930}{39982}On va faire une partie.
+{40032}{40082}Sois prudent.
+{40127}{40165}Mata Hari.
+{40165}{40177}Mata Hari.
+{40255}{40337}Tu as dit qu'un des tes amis a été assassiné.
+{40340}{40390}Je n'ai pas de preuves.
+{40390}{40515}Mais il a dû en voir un peu trop|à votre conférence.
+{40515}{40622}- Tu es peut-être en danger.|- Je le suis... en permanence.
+{40625}{40675}Comme Grant.
+{40795}{40870}J'ai souvent imaginé ce moment.
+{40905}{40995}Tout ce que je te dirais si je te revoyais.
+{41050}{41130}Et soudain tu étais là, à ma porte.
+{41130}{41180}Et je...
+{41295}{41347}Ils m'ont enlevée il y a dix ans.
+{41400}{41455}Ils m'ont fait subir des choses.
+{41472}{41540}C'était comme me noyer chaque jour.
+{41542}{41607}J'étais sous l'eau et je luttais pour respirer.
+{41632}{41737}Un jour, une main m'a attrapée|et m'a remontée à la surface.
+{41785}{41840}Je voulais que ce soit toi.
+{41870}{41940}C'était Grant.
+{41942}{42007}Il travaillait pour eux sur le projet.
+{42022}{42090}Des années, je me suis méfiée de lui.
+{42092}{42190}Jusqu'à ce que je comprenne|qu'il oeuvrait contre eux à sa manière.
+{42192}{42260}Il sabotait leurs expériences.
+{42317}{42367}Il me faisait penser à toi.
+{42440}{42505}- Heureusement que j'ai une conscience.|- Pourquoi?
+{42507}{42592}Si je me lâchais vraiment,|je ferais exploser la banque.
+{42595}{42685}Et tu te retrouverais|six pieds sous terre dans le désert.
+{42740}{42800}Désolé pour Jimmy.
+{42800}{42912}Les gars jouent|à "Donjons et dragons" dans ma chambre,
+{42915}{42967}en l'honneur de Jimmy.
+{42970}{43030}Lord Manhammer sera là.
+{43085}{43200}- Je vais jouer en souvenir de lui.|- Comme c'est touchant.
+{43982}{44057}Ca fait un bail!
+{44105}{44177}Ce n'est pas gentil. J'aime bien Hike.
+{44337}{44397}Cigarette?
+{44540}{44595}Vous ne fumez pas.
+{44622}{44692}Quelqu'un a du feu?
+{44792}{44900}Je ne sais pas encore qui va m'enflammer.
+{44950}{45080}Ca suffit, mes princes.|Voici l'agent spécial Dana Scully du FBI.
+{45082}{45170}Le simple fait de la toucher est un délit.
+{45172}{45237}Allez.
+{45240}{45295}On serait montés au 7e ciel.
+{45297}{45347}Peut-être la prochaine fois.
+{45512}{45612}J'espère que tu as ton portefeuille.|Ca a beau être un hommage...
+{45615}{45695}- Qu'est-ce que ça veut dire?|- On a un jeu pour toi.
+{45770}{45837}Fais-moi confiance. Ca va marcher.
+{45875}{45925}- Tu n'as pas enregistré?|- Non.
+{45955}{46070}Ils nous surveillent. Ils connaissent|nos plans et sont au courant de tout.
+{46072}{46152}- Quel est votre plan?|- Nous échapper.
+{46155}{46270}On voulait s'enfuir le dernier jour|et faire éclater la vérité
+{46272}{46322}sur nos recherches en armement.
+{46362}{46370}Ca pouvait marcher cette fois.
+{46370}{46430}Ca pouvait marcher cette fois.
+{46432}{46500}On avait assez de preuves.
+{46502}{46582}Le monde était prêt à nous croire,|plus que jamais.
+{46635}{46685}Ils sont au courant de tout.
+{46710}{46792}Ils nous tueront, Grant et moi.
+{46895}{46945}Calmez-vous.
+{46967}{47062}L'agent Scully Golightly|jouait les stars au bar.
+{47065}{47115}Je ne l'ai jamais vue soûle.
+{47155}{47205}C'est pas vrai.
+{47235}{47285}Faites que ce ne soit pas ça.
+{47350}{47410}Elle n'est pas soûle. Regardez.
+{47435}{47487}C'est un pistolet à injection.
+{47490}{47555}Qu'est-ce qu'on lui a injecté?
+{47577}{47730}C'est un dérivé du gaz E-H.|Histamine anoétique. Ma dernière invention.
+{47732}{47800}J'aurais pu le mettre au point|il y a des années.
+{47800}{47897}Mais je ne voulais pas le donner|aux salauds pour qui je travaille.
+{47900}{47992}Grant pensait que si on en produisait|avant de détruire les notes,
+{47995}{48072}on aurait la preuve nécessaire|pour dévoiler la vérité
+{48075}{48125}et une arme pour les combattre.
+{48127}{48195}Qui d'autre a accès à ce gaz?
+{48197}{48270}Grant et moi sommes les deux seuls...
+{48367}{48440}à avoir les échantillons.
+{48530}{48610}Ceci anéantira les effets du gaz.
+{48610}{48650}Salut, ma belle.
+{48727}{48777}Une petite piqûre.
+{48897}{48970}- Un peu dans le gaz?|- Ca va aller.
+{48972}{49040}- II faut qu'elle dorme.|- Je ne comprends pas.
+{49040}{49110}Pourquoi l'Etat|transformerait Scully en bimbo?
+{49112}{49245}Ce n'est qu'un effet secondaire.|Le gaz décuple les fonctions cérébrales.
+{49245}{49335}- II développe la suggestibilité.|- Un lavage de cerveau.
+{49337}{49422}Ils ont poussé Jimmy à se suicider.
+{49425}{49540}Et ils ont fait oublier à Scully|les résultats de l'autopsie.
+{49542}{49610}Dans quel but?
+{49612}{49662}Quels sont leurs plans?
+{49702}{49777}Mieux vaut le découvrir au plus vite.
+{50040}{50090}Juste à l'heure.
+{50215}{50265}Voici ton arme.
+{50267}{50327}Tu n'auras qu'à appuyer sur la gâchette.
+{50365}{50445}Tu entreras dans la salle Saguaro à 10 h 05.
+{50447}{50525}Ce badge est une autorisation d'entrée.
+{50525}{50605}Assieds-toi au fond et attends.
+{50607}{50742}A 10 h 15, il y aura une pause.|Tu tireras trois fois sur la cible.
+{50772}{50837}J'en arrive aux risques encourus.
+{50840}{50932}Bien sûr, il y a un risque lié à l'exposition
+{50935}{51040}pendant l'utilisation|et l'évaluation qui suit le projet.
+{51040}{51220}Sur un terrain d'entraînement sécurisé,|le nôtre, l'opération a été un succès.
+{51262}{51452}Les utilisations extraterritoriales|présentent un risque plus important.
+{51455}{51562}Une bonne évaluation de la cible|contribue à la diminution des risques.
+{51565}{51687}L'instabilité politique et le manque|d'infrastructures offrent une zone cible
+{51690}{51790}proche du risque zéro.
+{51835}{51925}- L'entrée est réservée.|- Je suis agent du FBI.
+{51925}{51970}L'entrée est réservée.
+{52017}{52150}Le facteur risque va de paire|avec une préparation efficace.
+{52152}{52230}C'est le sujet qu'il nous reste|à aborder aujourd'hui.
+{52232}{52307}Si on faisait une petite pause?
+{52347}{52442}Prenez cinq minutes.|Pause-cigarette pour les fumeurs.
+{53650}{53700}Mon Dieu.
+{53745}{53815}Aidez-la!
+{53837}{53867}Agent fédéral.
+{53867}{53887}Agent fédéral.
+{53940}{54007}- Demandez de l'aide.|- II faut une ambulance.
+{54010}{54067}Une femme est gravement blessée.
+{54070}{54120}On arrive.
+{54170}{54272}- Qui a fait ça?|- Le tireur s'est enfui.
+{54275}{54350}Emmenez-le. Faites-le sortir d'ici.
+{54425}{54490}Beau travail, coquine.
+{55377}{55445}Je m'occupe de lui.
+{55447}{55515}Où m'emmenez-vous?
+{56202}{56275}Peut-on être seuls un moment?
+{56302}{56377}- Ca va aller.|- On sera dans le hall.
+{56500}{56550}Merci pour le pourboire.
+{56632}{56690}Belle surprise.
+{56690}{56800}- Tu as programmé mon ami pour me tuer.|- Ce n'était pas mon idée.
+{56800}{56892}Tu étais au courant. Tu leur as donné
+{56895}{56957}le gaz histaminique?
+{56960}{57075}Si je n'avais pas fouillé Langly,|si je ne lui avais pas donné l'antidote...
+{57215}{57265}Je ne comprends pas.
+{57330}{57425}Pourquoi me sauver la vie|pour me tuer ensuite?
+{57427}{57497}- Tu le sais.|- Tu en avais fini avec moi.
+{57532}{57622}- Tu avais ce que tu voulais.|- Eux, pas moi.
+{57625}{57677}Le projet était terminé.
+{57680}{57755}Je te jure que ce n'était pas mon idée.
+{57770}{57840}Toutes ces années à gagner ma confiance.
+{57872}{57930}Tu as fait semblant de m'aimer.
+{57932}{58010}Qu'ont-ils bien pu te donner pour ça?
+{58010}{58115}Quelle valeur avais-je à tes yeux?|Quel a été ton prix?
+{58115}{58165}Qu'as-tu obtenu?
+{58192}{58280}Ma vie. Ils m'auraient tué.
+{58365}{58430}Bonjour.
+{58490}{58540}Je suis désolé.
+{58705}{58775}Voici les décès et la fiscalité de l'Etat.
+{58775}{58840}Et la preuve que la morgue a égaré le corps.
+{58842}{58955}<i>Jawohl, Herr Kommandant.</i> Et faites-moi|donc un lavage de cerveau tant qu'on y est.
+{58957}{59030}Bonne idée: on le forcera|à se couper les cheveux.
+{59032}{59130}- Tu vas ouvrir?|- Pourquoi moi? C'est ta chérie.
+{59150}{59200}Dépêche-toi. Allez.
+{59265}{59315}Entrez, Mata Hari.
+{59345}{59400}CIA. On ne bouge plus.
+{59445}{59515}- Laisse-la.|- D'accord.
+{59517}{59567}Non!
+{59640}{59707}Vous savez pourquoi|je suis content de vous tuer?
+{59710}{59792}Je n'aurai plus à m'habiller comme vous.
+{59927}{59980}Virez-le de là!
+{60035}{60085}Salut, beauté.
+{60132}{60192}Qu'est-ce que tu veux en faire?
+{60220}{60270}La police a confirmé l'arrestation.
+{60270}{60337}Timothy Landau, d'Alamogordo,|au Nouveau-Mexique,
+{60340}{60460}a avoué les meurtres|de Grant Ellis et Susanne Modeski.
+{60462}{60537}Mulder? Tu m'entends?
+{60572}{60662}Je suis à l'hôtel. Où es-tu?
+{60665}{60725}Comment ça, quel hôtel? A Las Vegas.
+{60725}{60790}Je suis à Las Vegas. Pas toi?
+{60790}{60850}Tu m'as appelée.
+{60852}{60905}Comment ça, tu ne m'as pas appelée?
+{60962}{61060}Bon sang. Je vais les tuer.
+{61062}{61115}Susanne Modeski est morte.
+{61117}{61227}Les ordinateurs de chaque Etat|et de chaque bureau fédéral le savent.
+{61250}{61300}Voici ta nouvelle identité.
+{61450}{61500}Viens avec moi.
+{61725}{61830}- Tu seras plus en sécurité sans moi.|- Quelle différence? Je vais tout dire.
+{61832}{61887}Oh, non.
+{61890}{61985}Tu en as fait plus qu'assez. Laisse-nous faire.
+{61987}{62042}C'est notre boulot.
+{62170}{62220}Elle était pour Grant.
+{62240}{62307}Je veux que tu la portes.
+{62642}{62677}Un jour.
+{63337}{63387}On va faire une partie?
+{63440}{63537}C'est pas si mal de vieillir avec nous.
+{63540}{63617}Tais-toi. Tu veux vraiment qu'il se suicide?
+{63617}{63635}Tais-toi. Tu veux vraiment qu'il se suicide?
+{63635}{63685}Tu as des jetons?
+{64102}{64142}Sous-titrage Visiontext: Julie Dutertre
+{64667}{64717}FRENCH

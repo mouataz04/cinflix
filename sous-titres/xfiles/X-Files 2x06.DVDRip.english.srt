@@ -1,0 +1,1748 @@
+1
+00:00:13,960 --> 00:00:15,951
+<i>(tape rewinding)</i>
+
+2
+00:00:17,800 --> 00:00:22,271
+<i>(Scully) Mulder, it's me. I just had something</i>
+<i>incredibly strange happen.</i>
+
+3
+00:00:23,640 --> 00:00:27,758
+<i>This piece of metal that they took out of</i>
+<i>Duane Barry, it has some kind of a code on it.</i>
+
+4
+00:00:27,840 --> 00:00:31,389
+<i>I ran it through a scanner</i>
+<i>and some kind of a serial number came up.</i>
+
+5
+00:00:31,480 --> 00:00:34,597
+<i>What the hell is this thing, Mulder?</i>
+<i>It's almost as if...</i>
+
+6
+00:00:34,680 --> 00:00:38,070
+<i>It's almost as if somebody</i>
+<i>was using it to catalogue him.</i>
+
+7
+00:00:41,440 --> 00:00:43,431
+<i>(Scully gasps, glass smashes)</i>
+
+8
+00:00:45,040 --> 00:00:48,555
+- <i>(man) Come on!</i>
+- <i>(Scully) Mulder! I need your help! Mulder!</i>
+
+9
+00:01:40,040 --> 00:01:42,873
+<i>(man)</i> They're taking that
+down to the lab now.
+
+10
+00:02:01,360 --> 00:02:03,237
+- Mulder!
+- Lady...
+
+11
+00:02:03,720 --> 00:02:06,314
+I need your help! Mulder!
+
+12
+00:02:14,840 --> 00:02:16,831
+Mulder!
+
+13
+00:02:17,480 --> 00:02:21,155
+- <i>(man)</i> You can't disturb the crime scene.
+- It's my daughter's apartment.
+
+14
+00:02:21,240 --> 00:02:24,789
+Just let me go. I have to get through.
+I have to get in!
+
+15
+00:02:24,880 --> 00:02:27,075
+Mrs Scully?
+
+16
+00:02:30,240 --> 00:02:32,231
+She's not in there.
+
+17
+00:02:33,400 --> 00:02:35,391
+Where is she?
+
+18
+00:02:36,920 --> 00:02:38,911
+Where <i>is</i> she?
+
+19
+00:03:28,560 --> 00:03:30,551
+<i>(police radios)</i>
+
+20
+00:03:33,520 --> 00:03:38,036
+<i>Holly Reardon reporting live. Police have</i>
+<i>refused to identify the kidnapping victim.</i>
+
+21
+00:03:38,120 --> 00:03:40,236
+<i>We have received unconfirmed...</i>
+
+22
+00:03:40,320 --> 00:03:43,551
+<i>(Mrs Scully)</i> I knew it would happen this way.
+
+23
+00:03:43,640 --> 00:03:46,791
+I had this dream
+about Dana being taken away.
+
+24
+00:03:48,560 --> 00:03:50,551
+It's so strange.
+
+25
+00:03:54,960 --> 00:03:58,509
+I, uh... I was gonna call her...
+
+26
+00:03:59,160 --> 00:04:01,993
+...but I was afraid I was gonna scare her.
+
+27
+00:04:08,640 --> 00:04:10,790
+She would've laughed at me, anyway.
+
+28
+00:04:13,120 --> 00:04:16,715
+She doesn't believe in
+that kind of thing, you know.
+
+29
+00:04:22,960 --> 00:04:28,159
+According to the reports, Agent Scully states
+that Duane Barry's propensity for violence...
+
+30
+00:04:28,240 --> 00:04:31,789
+...is due to brain damage
+from a bullet wound in the head.
+
+31
+00:04:31,880 --> 00:04:34,474
+Is this the operational opinion?
+
+32
+00:04:35,080 --> 00:04:37,071
+Yes, sir.
+
+33
+00:04:37,160 --> 00:04:38,832
+Is there another?
+
+34
+00:04:38,920 --> 00:04:42,708
+He's convinced he's going to be
+abducted by aliens.
+
+35
+00:04:42,800 --> 00:04:47,510
+That by taking someone to the abduction site,
+he won't be abducted himself.
+
+36
+00:04:49,600 --> 00:04:53,593
+That he's following orders
+from alien voices in his head?
+
+37
+00:04:54,120 --> 00:04:55,394
+<i>(Krycek)</i> Yes.
+
+38
+00:04:55,480 --> 00:04:59,189
+Well, that's an interesting spin
+on the Nuremberg defence.
+
+39
+00:04:59,920 --> 00:05:03,629
+Which explanation do you
+subscribe to, Agent Mulder?
+
+40
+00:05:03,720 --> 00:05:06,393
+There's a question of
+how he could've gotten to her.
+
+41
+00:05:06,480 --> 00:05:08,914
+And you think these alien voices told him?
+
+42
+00:05:09,000 --> 00:05:13,232
+Scully was carrying a piece of metal that
+was removed from Duane Barry's abdomen.
+
+43
+00:05:13,320 --> 00:05:15,515
+He described it as a tracking device.
+
+44
+00:05:15,600 --> 00:05:20,310
+Agent Scully... thought that
+you had made a miscalculation...
+
+45
+00:05:20,400 --> 00:05:22,755
+...in Duane Barry's psychosis. Is that true?
+
+46
+00:05:22,840 --> 00:05:27,072
+Yes. But that still doesn't explain
+how he could have found her.
+
+47
+00:05:27,160 --> 00:05:30,470
+- Where would he be taking her?
+- <i>(Mulder)</i> I don't know.
+
+48
+00:05:30,560 --> 00:05:34,030
+He talked about a mountain.
+He wasn't specific about the location.
+
+49
+00:05:34,120 --> 00:05:38,159
+Well, however he got to her,
+he took Agent Scully's car and her weapon.
+
+50
+00:05:38,240 --> 00:05:42,756
+We all understand the seriousness of this
+matter and should proceed ahead quickly.
+
+51
+00:05:42,840 --> 00:05:45,991
+- Turn over your files to HRT.
+- I'd like to brief them myself.
+
+52
+00:05:46,080 --> 00:05:49,709
+- Go home. You've been up all night.
+- Sir, I know Duane Barry.
+
+53
+00:05:49,800 --> 00:05:54,237
+- I've been in his head. I know how he thinks.
+- You're too close to this case!
+
+54
+00:05:54,320 --> 00:05:56,959
+If we can use you, we will.
+
+55
+00:05:57,040 --> 00:05:59,474
+- Sir...
+- That's an order, Agent Mulder.
+
+56
+00:06:00,680 --> 00:06:02,796
+Make sure he gets home safely.
+
+57
+00:06:26,400 --> 00:06:28,834
+<i>(car radio) § You'll see him in your nightmares</i>
+
+58
+00:06:28,920 --> 00:06:31,673
+<i>§ You'll see him in your dreams</i>
+
+59
+00:06:34,200 --> 00:06:37,272
+<i>§ He'll appear out of nowhere</i>
+
+60
+00:06:37,360 --> 00:06:41,035
+<i>§ And he ain't what he seems</i>
+
+61
+00:06:42,440 --> 00:06:44,635
+<i>§ You'll see him in your head</i>
+
+62
+00:06:44,720 --> 00:06:46,711
+<i>§ On the TVscreen</i>
+
+63
+00:06:46,800 --> 00:06:50,349
+<i>§ Hey, buddy, I'm warning you to turn it off</i>
+
+64
+00:06:50,440 --> 00:06:52,556
+<i>§ He's a ghost, he's a god</i>
+
+65
+00:06:52,640 --> 00:06:55,279
+<i>§ He's a man, he's a guru</i>
+
+66
+00:06:57,320 --> 00:07:01,757
+<i>§ You're one microscopic cog</i>
+<i>in his catastrophic plan</i>
+
+67
+00:07:01,840 --> 00:07:05,799
+<i>§ Designed and directed by his red right hand</i>
+
+68
+00:07:08,400 --> 00:07:10,391
+<i>(siren)</i>
+
+69
+00:07:49,520 --> 00:07:52,318
+Sir, could you turn off your radio?
+
+70
+00:07:53,160 --> 00:07:55,435
+I would, Officer, but I gotta keep going.
+
+71
+00:07:55,520 --> 00:07:59,308
+<i>An FBI ABP has been issued for a suspect</i>
+<i>in the abduction of an FBI agent.</i>
+
+72
+00:07:59,600 --> 00:08:02,717
+Sir, I asked if you mind turning that off.
+
+73
+00:08:04,720 --> 00:08:11,319
+OK. But could you just give me the ticket
+now so I can go? I gotta be someplace.
+
+74
+00:08:11,960 --> 00:08:13,951
+Where?
+
+75
+00:08:14,560 --> 00:08:17,552
+I'm not sure,
+but... they'll tell me when I get there.
+
+76
+00:08:25,920 --> 00:08:30,038
+Sir, put your hands on
+the steering wheel where I can see 'em.
+
+77
+00:08:31,000 --> 00:08:32,991
+You don't understand.
+
+78
+00:08:34,520 --> 00:08:37,512
+They're waiting for me. I can't be late.
+
+79
+00:08:39,840 --> 00:08:43,230
+Put your hands up and exit the vehicle.
+
+80
+00:08:43,320 --> 00:08:45,515
+No, I gotta keep moving.
+
+81
+00:08:47,560 --> 00:08:49,551
+Please.
+
+82
+00:08:50,440 --> 00:08:52,635
+For your own sake.
+
+83
+00:08:54,160 --> 00:08:56,469
+Don't stop Duane Barry.
+
+84
+00:08:59,160 --> 00:09:01,310
+Sir, put your hands up.
+
+85
+00:09:02,360 --> 00:09:04,954
+<i>(gunshot)</i>
+
+86
+00:09:08,840 --> 00:09:10,831
+<i>(car door opens and shuts)</i>
+
+87
+00:09:12,400 --> 00:09:14,391
+<i>(footsteps)</i>
+
+88
+00:09:24,760 --> 00:09:26,751
+Right there.
+
+89
+00:09:29,200 --> 00:09:31,589
+Back it up a few frames.
+
+90
+00:09:35,040 --> 00:09:37,508
+OK, now magnify this area.
+
+91
+00:09:49,040 --> 00:09:51,998
+- Oh, my God.
+- She's still alive.
+
+92
+00:09:52,080 --> 00:09:54,071
+Print this up.
+
+93
+00:10:00,280 --> 00:10:04,034
+- <i>(Barry) I just wanna go back to the place.</i>
+- <i>(Mulder) What place?</i>
+
+94
+00:10:04,120 --> 00:10:06,759
+<i>Where it started.</i>
+<i>Where they first came and got me.</i>
+
+95
+00:10:06,840 --> 00:10:09,115
+<i>(Mulder) Where is that?</i>
+
+96
+00:10:09,200 --> 00:10:11,191
+<i>A mountain.</i>
+
+97
+00:10:13,160 --> 00:10:17,676
+<i>We went, uh... up and... up.</i>
+
+98
+00:10:19,040 --> 00:10:21,031
+<i>Ascending...</i>
+
+99
+00:10:21,840 --> 00:10:24,035
+<i>... ascending to the stars.</i>
+
+100
+00:10:27,640 --> 00:10:29,870
+<i>Ascending...</i>
+
+101
+00:10:29,960 --> 00:10:32,520
+- <i>... ascending to the stars.</i>
+- Coffee?
+
+102
+00:10:32,600 --> 00:10:34,591
+Yeah.
+
+103
+00:10:35,600 --> 00:10:37,431
+Thanks.
+
+104
+00:10:38,720 --> 00:10:40,915
+- How'd you sleep?
+- I didn't.
+
+105
+00:10:43,800 --> 00:10:46,792
+<i>(Barry) They're not taking Duane Barry again.</i>
+
+106
+00:10:49,080 --> 00:10:51,071
+<i>A mountain.</i>
+
+107
+00:10:52,920 --> 00:10:58,153
+<i>We went, uh... up and... up.</i>
+
+108
+00:10:58,840 --> 00:11:00,831
+<i>Ascending...</i>
+
+109
+00:11:01,640 --> 00:11:04,074
+<i>... ascending to the stars.</i>
+
+110
+00:11:06,560 --> 00:11:09,358
+- <i>... ascending to the stars.</i>
+- What is it?
+
+111
+00:11:10,680 --> 00:11:15,435
+- Where was that patrolman killed again?
+- Rixeyville, Virginia. Route 229.
+
+112
+00:11:15,520 --> 00:11:19,308
+- Doesn't it lead to the Blue Ridge Parkway?
+- I don't know.
+
+113
+00:11:27,040 --> 00:11:29,031
+What?
+
+114
+00:11:37,960 --> 00:11:41,316
+"Ascend to the Stars. Skyland Mountain."
+
+115
+00:11:42,120 --> 00:11:45,192
+- You know where he's goin'?
+- Get your car. Meet me downstairs.
+
+116
+00:11:45,280 --> 00:11:47,032
+- Where are we going?
+- Get your car.
+
+117
+00:11:47,120 --> 00:11:50,192
+- What about Skinner?
+- I'll deal with Skinner.
+
+118
+00:11:55,320 --> 00:12:00,952
+He thinks Scully's been taken to Skyland
+Mountain. I'll hold him off till they locate her.
+
+119
+00:12:01,040 --> 00:12:03,634
+Wait, here he comes. I'll be in touch.
+
+120
+00:12:06,560 --> 00:12:08,551
+Come on, let's go.
+
+121
+00:12:50,280 --> 00:12:51,474
+<i>(truck horn)</i>
+
+122
+00:12:51,560 --> 00:12:53,198
+Hey!
+
+123
+00:12:57,440 --> 00:13:01,069
+- You're dozing off. Maybe I should drive.
+- I'm fine.
+
+124
+00:13:01,160 --> 00:13:04,755
+- Well, you haven't slept yet. I have.
+- I said I'm fine.
+
+125
+00:13:13,200 --> 00:13:16,590
+You know, Chernobyl, Exxon Valdez,
+Three Mile Island...
+
+126
+00:13:16,680 --> 00:13:19,797
+...they were all linked to sleep deprivation.
+
+127
+00:13:21,040 --> 00:13:25,158
+The department of transportation estimates
+that over 190,000 fatal car crashes...
+
+128
+00:13:25,240 --> 00:13:27,959
+...every year are caused by sleepiness.
+
+129
+00:13:28,040 --> 00:13:32,795
+Did they estimate how many people are
+put to sleep listening to their statistics?
+
+130
+00:13:32,880 --> 00:13:35,269
+I'm just trying to keep you awake.
+
+131
+00:13:41,280 --> 00:13:46,400
+Look, if Skinner sends in the whole cavalry,
+Duane Barry might go over the edge.
+
+132
+00:13:46,480 --> 00:13:47,674
+You're right.
+
+133
+00:13:47,840 --> 00:13:51,037
+If we find him first,
+we'll notify the Bureau. All right?
+
+134
+00:13:51,120 --> 00:13:55,432
+Yeah. You really think
+he tracked her down with that implant?
+
+135
+00:13:55,520 --> 00:13:58,114
+Well, that's the easiest explanation.
+
+136
+00:13:59,520 --> 00:14:02,956
+- It's also the most implausible.
+- Is there another possibility?
+
+137
+00:14:03,040 --> 00:14:07,192
+Somebody could've given him her address.
+I don't know who.
+
+138
+00:14:11,200 --> 00:14:13,589
+There's our turn-off.
+
+139
+00:14:16,600 --> 00:14:19,068
+- Have you seen this guy?
+- Yeah, he was here.
+
+140
+00:14:19,160 --> 00:14:23,199
+He's wanted for kidnapping a federal agent.
+Did you let him go up on the tram?
+
+141
+00:14:23,280 --> 00:14:26,352
+It's shut down in the summer.
+I told him to take the back road.
+
+142
+00:14:26,440 --> 00:14:28,192
+- How long ago?
+- 45 minutes.
+
+143
+00:14:28,280 --> 00:14:30,236
+- Did he have a woman with him?
+- No.
+
+144
+00:14:30,320 --> 00:14:32,914
+- How long does it take to drive?
+- Over an hour.
+
+145
+00:14:33,000 --> 00:14:35,389
+- You gotta get me up there.
+- No. No way.
+
+146
+00:14:35,480 --> 00:14:39,837
+We just got done refitting the cable.
+It hasn't been tested with passengers yet.
+
+147
+00:14:39,920 --> 00:14:41,797
+- You have to drive.
+- I don't have time.
+
+148
+00:14:41,880 --> 00:14:45,156
+- You don't have a choice.
+- No. <i>You</i> don't have a choice.
+
+149
+00:14:53,080 --> 00:14:55,389
+I can't stop you from going up there.
+
+150
+00:14:55,480 --> 00:14:58,870
+But if there's a problem with the cable,
+I'm shutting this thing down.
+
+151
+00:14:58,960 --> 00:15:02,077
+I'm not gonna be responsible for your death.
+
+152
+00:15:09,280 --> 00:15:10,429
+What are you doing?
+
+153
+00:15:10,520 --> 00:15:13,751
+Stay here. And whatever happens,
+don't let him stop the tram.
+
+154
+00:15:13,840 --> 00:15:16,513
+You hit your "run" and "up" button
+on the panel.
+
+155
+00:15:16,600 --> 00:15:21,037
+"Speed indicator" controls your ascent.
+Now, when you wanna slow down...
+
+156
+00:15:21,120 --> 00:15:23,509
+Don't crank it faster than 15!
+
+157
+00:15:56,520 --> 00:16:01,913
+What the hell's he doing? I told him not
+to go that fast. Base to car one. Pick up.
+
+158
+00:16:02,000 --> 00:16:04,639
+- <i>(machinery whirs)</i>
+- D'you hear that sound?
+
+159
+00:16:04,720 --> 00:16:07,393
+At this speed the cable can't hold.
+
+160
+00:16:26,640 --> 00:16:29,950
+<i>This is base. Please pick up the handset.</i>
+
+161
+00:16:30,040 --> 00:16:34,318
+<i>Can you hear me?</i>
+<i>Slow it to 15 or I'll shut this thing down.</i>
+
+162
+00:16:35,000 --> 00:16:36,991
+Base to car one. Pick up.
+
+163
+00:16:39,440 --> 00:16:41,795
+- <i>Base to...</i>
+- Go ahead.
+
+164
+00:16:41,880 --> 00:16:44,633
+- Slow it down.
+- You're breaking up.
+
+165
+00:16:44,720 --> 00:16:47,837
+Slow it down or the cable will jump the tower.
+
+166
+00:17:08,360 --> 00:17:10,555
+<i>Second tower's coming up.</i>
+
+167
+00:17:13,800 --> 00:17:15,995
+Slow it through the next tower.
+
+168
+00:17:27,360 --> 00:17:31,035
+- How close is he?
+- He should be up top in a minute.
+
+169
+00:17:33,960 --> 00:17:35,951
+There he is.
+
+170
+00:18:04,320 --> 00:18:06,914
+What are you doing? Turn us back on.
+
+171
+00:18:07,280 --> 00:18:10,716
+Krycek, what's happening down there?
+Krycek, do you read me?
+
+172
+00:18:10,800 --> 00:18:15,316
+<i>Tell the operator to restart the tram.</i>
+<i>Hello?</i>
+
+173
+00:18:15,400 --> 00:18:19,598
+I've got him stalled up there.
+I'll hold until you advise.
+
+174
+00:18:43,680 --> 00:18:47,275
+Is there an emergency system on board?
+Can you read me down there?
+
+175
+00:18:47,360 --> 00:18:49,555
+Can anyone read me?
+
+176
+00:20:21,560 --> 00:20:25,519
+<i>(car radio)... with scattered rain</i>
+<i>and intermittent thunder showers.</i>
+
+177
+00:20:25,600 --> 00:20:30,833
+<i>Look for highs tomorrow around 65 degrees,</i>
+<i>with tonight's low dipping to 48 degrees.</i>
+
+178
+00:20:30,920 --> 00:20:36,790
+<i>That high-pressure ridge has moved</i>
+<i>east now. There will be unstable activity.</i>
+
+179
+00:20:36,880 --> 00:20:39,872
+<i>Joining me now for</i>
+<i>the business report is Susan Roberts.</i>
+
+180
+00:20:39,960 --> 00:20:44,829
+<i>The dollar turned on the foreign exchange</i>
+<i>markets, while closing stronger here.</i>
+
+181
+00:20:44,920 --> 00:20:50,119
+<i>Gold dropped almost two dollars, in spite of</i>
+<i>the speculation about inflationary trends.</i>
+
+182
+00:20:50,200 --> 00:20:52,236
+<i>Silver was down 80 cents.</i>
+
+183
+00:20:52,320 --> 00:20:54,311
+<i>(news report continues)</i>
+
+184
+00:21:30,360 --> 00:21:32,476
+<i>(man laughing)</i>
+
+185
+00:21:34,800 --> 00:21:36,677
+Yes!
+
+186
+00:21:40,760 --> 00:21:43,149
+- Federal agent!
+- Yes!
+
+187
+00:21:43,720 --> 00:21:45,711
+Yes! Yes! Yes!
+
+188
+00:21:45,800 --> 00:21:47,074
+- Freeze!
+- Yes!
+
+189
+00:21:47,160 --> 00:21:49,628
+I said freeze! Where is she?
+
+190
+00:21:49,720 --> 00:21:52,598
+I'm free, you son of a bitches!
+
+191
+00:21:52,680 --> 00:21:55,638
+You can't touch Duane Barry any more!
+
+192
+00:21:55,720 --> 00:21:58,393
+Don't move! Don't move!
+
+193
+00:21:58,480 --> 00:22:02,075
+- I'm not going anywhere.
+- Where is she? Where'd you leave her?
+
+194
+00:22:02,160 --> 00:22:03,798
+- They took her.
+- Who?
+
+195
+00:22:03,880 --> 00:22:08,351
+Them! I told you they were gonna
+take somebody else.
+
+196
+00:22:08,920 --> 00:22:10,911
+They did!
+
+197
+00:22:12,880 --> 00:22:15,394
+No! No! No!
+
+198
+00:22:15,880 --> 00:22:17,871
+No! No!
+
+199
+00:22:18,280 --> 00:22:20,271
+No! No!
+
+200
+00:22:21,160 --> 00:22:23,549
+No! No!
+
+201
+00:22:24,160 --> 00:22:27,197
+No! No!
+
+202
+00:22:28,280 --> 00:22:30,271
+No!
+
+203
+00:22:34,560 --> 00:22:37,677
+<i>(man) A search and rescue chopper</i>
+<i>has found them on the mountain.</i>
+
+204
+00:22:37,760 --> 00:22:41,958
+<i>We've sent out five teams to search for</i>
+<i>that missing federal agent.</i>
+
+205
+00:22:48,000 --> 00:22:49,991
+Some water?
+
+206
+00:22:56,640 --> 00:22:58,631
+You can wait outside.
+
+207
+00:23:29,480 --> 00:23:33,189
+Now what happened after
+you took her out of the trunk?
+
+208
+00:23:33,280 --> 00:23:37,273
+We walked a little ways
+up to the top of the mountain.
+
+209
+00:23:37,360 --> 00:23:39,954
+Right where you found me.
+
+210
+00:23:41,960 --> 00:23:44,838
+- Then where'd you take her?
+- I didn't.
+
+211
+00:23:45,840 --> 00:23:47,831
+<i>They</i> did.
+
+212
+00:23:49,680 --> 00:23:54,117
+That was the deal. Her instead of me.
+
+213
+00:24:07,080 --> 00:24:09,674
+- Did you kill her?
+- No.
+
+214
+00:24:13,520 --> 00:24:16,080
+I swear.
+
+215
+00:24:16,160 --> 00:24:18,799
+- How'd you get this?
+- From the ship.
+
+216
+00:24:20,080 --> 00:24:21,718
+- What ship?
+- You saw it.
+
+217
+00:24:21,800 --> 00:24:24,553
+- I saw a helicopter.
+- They were here!
+
+218
+00:24:24,640 --> 00:24:26,756
+I'm not lying to ya!
+
+219
+00:24:27,000 --> 00:24:30,675
+There they are! Ask them.
+They know what happened.
+
+220
+00:24:30,760 --> 00:24:33,911
+- Sit down, Duane.
+- No! You've gotta stop 'em!
+
+221
+00:24:34,000 --> 00:24:38,312
+Hurry! Hurry! They were just out there!
+They were right outside! They...
+
+222
+00:24:38,400 --> 00:24:41,073
+- Duane, settle down!
+- No!
+
+223
+00:24:41,160 --> 00:24:46,553
+They'll tell you where she is!
+The military's in on it. Just ask 'em!
+
+224
+00:24:52,480 --> 00:24:55,199
+Did you hurt her? Did you hurt her?!
+
+225
+00:24:55,280 --> 00:24:57,669
+- No!
+- What is this?
+
+226
+00:25:13,240 --> 00:25:15,231
+<i>(coughing)</i>
+
+227
+00:25:35,920 --> 00:25:38,115
+I'm sorry.
+
+228
+00:25:41,320 --> 00:25:43,709
+They had to take her.
+
+229
+00:25:48,520 --> 00:25:53,548
+I hope they're not hurting her...
+too much with the tests.
+
+230
+00:25:56,680 --> 00:25:58,671
+I'm sorry.
+
+231
+00:26:11,680 --> 00:26:13,955
+- Hey.
+- Yeah?
+
+232
+00:26:14,560 --> 00:26:19,236
+- What's the matter? What did he say to you?
+- He's given me nothing.
+
+233
+00:26:20,040 --> 00:26:22,076
+Were you out here alone?
+
+234
+00:26:22,160 --> 00:26:24,151
+Yeah. Why?
+
+235
+00:26:24,800 --> 00:26:26,916
+Nobody goes in or out of that room.
+
+236
+00:26:27,000 --> 00:26:28,991
+Hey, Mulder...
+
+237
+00:26:58,080 --> 00:27:00,514
+<i>(high-pitched whine)</i>
+
+238
+00:27:36,840 --> 00:27:38,831
+<i>(man)</i> Rescue two...
+
+239
+00:27:59,600 --> 00:28:01,591
+- What are you doing?
+- I heard him...
+
+240
+00:28:01,680 --> 00:28:03,671
+Come here. Come here.
+
+241
+00:28:04,920 --> 00:28:07,354
+I heard him gagging. He couldn't breathe.
+
+242
+00:28:07,440 --> 00:28:11,638
+- He said you choked him.
+- No one is to interrogate the suspect.
+
+243
+00:28:11,720 --> 00:28:13,756
+- Except you?
+- Except me.
+
+244
+00:28:13,840 --> 00:28:16,479
+- Did you ask him about Scully?
+- Yeah.
+
+245
+00:28:16,560 --> 00:28:20,792
+- What did he say?
+- He started whistling "Stairway to Heaven".
+
+246
+00:28:31,440 --> 00:28:33,431
+- Keep an eye on him.
+- OK.
+
+247
+00:28:36,400 --> 00:28:38,789
+- You've got Duane Barry?
+- Yes, sir.
+
+248
+00:28:41,800 --> 00:28:45,429
+Agent Mulder,
+you disobeyed my direct order.
+
+249
+00:28:47,480 --> 00:28:49,994
+<i>(man)</i> Call the paramedics!
+
+250
+00:28:51,800 --> 00:28:54,030
+- What happened?
+- He was gagging.
+
+251
+00:28:54,120 --> 00:28:56,588
+Duane. Duane.
+
+252
+00:28:59,560 --> 00:29:01,551
+Duane.
+
+253
+00:29:05,440 --> 00:29:07,829
+<i>(paramedic)</i> Coming through!
+
+254
+00:29:11,640 --> 00:29:13,835
+- Respiration?
+- Nothing.
+
+255
+00:29:14,640 --> 00:29:16,631
+Start CPR.
+
+256
+00:29:22,400 --> 00:29:23,389
+Ready?
+
+257
+00:29:23,480 --> 00:29:26,278
+One, two, three, four, five.
+
+258
+00:29:29,320 --> 00:29:31,311
+One, two, three...
+
+259
+00:29:51,040 --> 00:29:52,996
+Excuse me?
+
+260
+00:29:53,080 --> 00:29:56,390
+I'm Agent Mulder. I'd like a copy
+of this man's autopsy report.
+
+261
+00:29:56,480 --> 00:29:58,516
+I'm sorry. It's still incomplete.
+
+262
+00:29:58,600 --> 00:30:00,716
+- Are you the pathologist?
+- Yes.
+
+263
+00:30:00,800 --> 00:30:04,509
+Can I ask what your preliminary findings are?
+
+264
+00:30:04,600 --> 00:30:10,197
+Um... second-degree burns on the face,
+contusions about the neck, bruised larynx.
+
+265
+00:30:10,280 --> 00:30:14,478
+If I had to list cause of death at this point,
+I'd have to say asphyxiation.
+
+266
+00:30:14,560 --> 00:30:17,154
+Were you expecting something else?
+
+267
+00:30:17,560 --> 00:30:21,235
+- You haven't run a toxicological yet?
+- They should be finished shortly.
+
+268
+00:30:21,320 --> 00:30:24,676
+I'd be interested to see what you find.
+When will it be on file?
+
+269
+00:30:24,760 --> 00:30:27,797
+- Later this morning.
+- I'd like a copy as soon as possible.
+
+270
+00:30:27,880 --> 00:30:31,998
+Well, I'm sorry. You'll have to go
+through regular military channels.
+
+271
+00:30:32,080 --> 00:30:34,548
+What do you mean, "military"?
+
+272
+00:30:34,640 --> 00:30:38,155
+- You're not FBI?
+- Quantico's under military jurisdiction.
+
+273
+00:30:38,240 --> 00:30:41,994
+There wasn't an FBI pathologist
+available this morning.
+
+274
+00:31:11,800 --> 00:31:15,759
+Skinner's expecting my report on the
+Duane Barry incident. What do I tell him?
+
+275
+00:31:15,840 --> 00:31:18,229
+The truth.
+
+276
+00:31:18,320 --> 00:31:21,551
+- What do you mean?
+- Confirm Mulder's version of events.
+
+277
+00:31:21,640 --> 00:31:24,200
+You've earned his trust.
+You have to preserve it.
+
+278
+00:31:24,280 --> 00:31:28,353
+- For how much longer?
+- Until your assignment is completed.
+
+279
+00:31:28,680 --> 00:31:31,433
+If Mulder's such a threat,
+why not eliminate him?
+
+280
+00:31:31,520 --> 00:31:34,159
+- That's not policy.
+- It's not?
+
+281
+00:31:36,560 --> 00:31:38,949
+After what you had <i>me</i> do?
+
+282
+00:31:39,680 --> 00:31:43,798
+Kill Mulder and you risk turning
+one man's religion into a crusade.
+
+283
+00:31:43,880 --> 00:31:46,474
+- What about Scully?
+- We've taken care of that.
+
+284
+00:31:46,560 --> 00:31:48,835
+How?
+
+285
+00:31:48,920 --> 00:31:51,718
+- We tell you what you need to know.
+- I've a right to know.
+
+286
+00:31:51,800 --> 00:31:55,588
+You have no rights,
+only orders to be carried out.
+
+287
+00:31:57,040 --> 00:32:00,828
+If you have a problem with that,
+we'll make other arrangements.
+
+288
+00:32:10,080 --> 00:32:13,595
+The victim appears to have expired
+from prolonged hypoxemia...
+
+289
+00:32:13,680 --> 00:32:18,708
+...secondary to asphyxiation. Of several
+etiologies, the most likely is strangulation...
+
+290
+00:32:18,800 --> 00:32:22,110
+...due to the presence
+of contusions and a bruised larynx.
+
+291
+00:32:22,200 --> 00:32:26,079
+- Do you want to speak, Agent Mulder?
+- I didn't kill him, if that's what you mean.
+
+292
+00:32:26,160 --> 00:32:30,438
+- But you attacked him?
+- I was interrogating him about Agent Scully.
+
+293
+00:32:30,520 --> 00:32:34,479
+- He wasn't cooperating, so I pushed him.
+- And you lost control.
+
+294
+00:32:34,560 --> 00:32:37,552
+Momentarily. But then I left the room.
+
+295
+00:32:37,640 --> 00:32:41,155
+He was very much alive. I spoke to him.
+Agent Krycek spoke to him.
+
+296
+00:32:41,240 --> 00:32:45,756
+Agent Krycek says he entered the room
+because the suspect was gagging.
+
+297
+00:32:45,840 --> 00:32:48,513
+Is Agent Krycek asserting
+that I killed him too?
+
+298
+00:32:48,600 --> 00:32:54,436
+No. He corroborates your story. But the fact
+is we've got a dead suspect, Agent Mulder...
+
+299
+00:32:54,520 --> 00:32:57,239
+...and no other plausible cause of death.
+
+300
+00:32:57,320 --> 00:33:02,599
+OPC wants both of you to take a lie-detector
+test. You're to report there immediately.
+
+301
+00:33:06,120 --> 00:33:09,635
+There is another plausible cause of death.
+
+302
+00:33:09,720 --> 00:33:13,508
+- Which is?
+- Poisoning by injection or ingestion.
+
+303
+00:33:14,320 --> 00:33:15,514
+Poisoning?
+
+304
+00:33:15,600 --> 00:33:19,479
+You won't find that
+on the Navy pathologist's report.
+
+305
+00:33:19,560 --> 00:33:22,791
+- What are you saying?
+- That the autopsy is incomplete.
+
+306
+00:33:22,880 --> 00:33:25,838
+That the military covered up
+the toxicological findings.
+
+307
+00:33:25,920 --> 00:33:29,879
+- And why would they do that?
+- Because <i>they</i> know where Scully is.
+
+308
+00:33:29,960 --> 00:33:32,633
+Why are you so paranoid, Mulder?
+
+309
+00:33:32,720 --> 00:33:37,714
+Oh, I don't know... Maybe it's because
+I find it hard to trust anybody.
+
+310
+00:33:43,920 --> 00:33:48,311
+- Alex? Alex? Can I borrow your car keys?
+- Why? Where are going?
+
+311
+00:33:48,400 --> 00:33:51,073
+- There's somebody I gotta see.
+- We're scheduled...
+
+312
+00:33:51,160 --> 00:33:53,754
+I know. Just give me the keys. Please.
+
+313
+00:33:54,960 --> 00:33:56,951
+Thanks.
+
+314
+00:34:10,760 --> 00:34:15,197
+You wasted a trip, Mr Mulder. There's
+nothing the senator can do for you now.
+
+315
+00:34:15,280 --> 00:34:18,397
+- What?
+- Not without committing political suicide.
+
+316
+00:34:18,480 --> 00:34:22,029
+Why? Do they have something on him?
+
+317
+00:34:22,120 --> 00:34:26,989
+They have something on everyone, Mr
+Mulder. The question is when they'll use it.
+
+318
+00:34:27,280 --> 00:34:29,953
+- I need his help.
+- No one can help you now.
+
+319
+00:34:30,040 --> 00:34:32,873
+Your channels of appeal
+and recourse are closed.
+
+320
+00:34:32,960 --> 00:34:35,758
+Your predecessor could've helped me.
+
+321
+00:34:40,120 --> 00:34:42,111
+You know, don't you?
+
+322
+00:34:46,240 --> 00:34:50,836
+- You know what's happened to her.
+- This reaches beyond any of us, Mr Mulder.
+
+323
+00:34:50,920 --> 00:34:54,310
+- Even my predecessor.
+- I want an answer!
+
+324
+00:34:56,240 --> 00:34:59,630
+Why kill Duane Barry
+if there was nothing to hide?
+
+325
+00:34:59,720 --> 00:35:04,430
+- You mean the government?
+- There are no answers for you, Mr Mulder.
+
+326
+00:35:04,520 --> 00:35:06,909
+They only have one policy:
+
+327
+00:35:08,760 --> 00:35:10,751
+Deny everything.
+
+328
+00:36:26,360 --> 00:36:31,480
+- This is a serious allegation, Agent Mulder.
+- Only so far as it is true.
+
+329
+00:36:33,360 --> 00:36:37,672
+"Agent Krycek was hired by an outside
+agency to impede a federal investigation...
+
+330
+00:36:37,760 --> 00:36:42,151
+...and may be responsible for the death
+of a suspect in a capital murder case."
+
+331
+00:36:42,240 --> 00:36:44,595
+It goes on.
+
+332
+00:36:44,680 --> 00:36:48,992
+"And the possible murder of
+the tram operator at Skyland Mountain."
+
+333
+00:36:49,520 --> 00:36:54,640
+There's a lot of blood on this document. Are
+you standing behind this going on record?
+
+334
+00:36:54,720 --> 00:36:55,675
+Yes, sir.
+
+335
+00:36:55,760 --> 00:36:59,435
+Then you damn well better
+have the facts to back it up.
+
+336
+00:37:00,400 --> 00:37:03,472
+I need to see Agent Krycek, immediately.
+
+337
+00:37:13,640 --> 00:37:16,234
+I can't protect you, Agent Mulder.
+
+338
+00:37:17,360 --> 00:37:21,114
+Past a point, this will become
+a larger Bureau matter.
+
+339
+00:37:28,200 --> 00:37:30,589
+All right, what have you got?
+
+340
+00:37:31,280 --> 00:37:35,876
+I found this in Agent Krycek's car.
+He doesn't smoke.
+
+341
+00:37:36,360 --> 00:37:39,670
+Agent Krycek was the last person
+with Duane Barry before he died.
+
+342
+00:37:39,760 --> 00:37:43,594
+He was also the last person to see
+the tram operator before he disappeared.
+
+343
+00:37:43,680 --> 00:37:48,196
+When I got to the top of Skyland Mountain,
+I saw an unmarked helicopter in the area.
+
+344
+00:37:48,280 --> 00:37:52,068
+I believe Krycek gave away
+the whereabouts of Duane Barry and Scully...
+
+345
+00:37:52,160 --> 00:37:54,151
+...to whoever he's working with.
+
+346
+00:37:54,240 --> 00:37:56,310
+- And who is that?
+- I don't know.
+
+347
+00:37:56,400 --> 00:37:59,915
+The military? Some covert organisation
+within the government?
+
+348
+00:38:00,000 --> 00:38:02,992
+Whoever the man who smokes
+those cigarettes works for.
+
+349
+00:38:03,080 --> 00:38:03,990
+Why?
+
+350
+00:38:04,080 --> 00:38:07,550
+Because Agent Scully got too close
+to whatever they're trying to deny.
+
+351
+00:38:07,640 --> 00:38:13,112
+Because she had hard and damning evidence
+- that metallic implant - in her possession.
+
+352
+00:38:13,200 --> 00:38:18,433
+Or because her termination would prevent
+further involvement with me and my work.
+
+353
+00:38:23,320 --> 00:38:25,788
+Do you think Agent Scully's dead?
+
+354
+00:38:26,440 --> 00:38:28,431
+I don't know.
+
+355
+00:38:29,360 --> 00:38:31,749
+How far do you think they'd go?
+
+356
+00:38:33,640 --> 00:38:35,676
+What do you know about Krycek?
+
+357
+00:38:35,760 --> 00:38:39,196
+- I didn't give him the assignment. I only...
+- <i>(phone)</i>
+
+358
+00:38:47,880 --> 00:38:49,438
+Yes.
+
+359
+00:38:49,520 --> 00:38:51,511
+Thank you.
+
+360
+00:38:56,360 --> 00:39:00,194
+Agent Krycek didn't show up
+for work this morning.
+
+361
+00:39:00,480 --> 00:39:03,278
+His home number has been disconnected.
+
+362
+00:39:05,560 --> 00:39:09,872
+That's it? He's gone?
+He just disappears into the woodwork?
+
+363
+00:39:09,960 --> 00:39:11,154
+So it would appear.
+
+364
+00:39:11,240 --> 00:39:15,279
+Who are these people who can murder with
+impunity and we can't do anything about it?
+
+365
+00:39:15,360 --> 00:39:17,271
+- Let it go.
+- Like hell!
+
+366
+00:39:17,360 --> 00:39:20,670
+- There's nothing you can do.
+- What can <i>you</i> do about it?
+
+367
+00:39:23,480 --> 00:39:26,790
+There's only one thing that I <i>can</i> do,
+Agent Mulder.
+
+368
+00:39:27,600 --> 00:39:30,797
+As of right now, I'm reopening the X-Files.
+
+369
+00:39:32,960 --> 00:39:35,758
+That's what they fear the most.
+
+370
+00:40:03,080 --> 00:40:06,311
+Agent Mulder? Thank you for calling me.
+
+371
+00:40:06,400 --> 00:40:10,552
+- Sorry I don't have better news.
+- Do you know something? Is Dana OK?
+
+372
+00:40:11,000 --> 00:40:13,594
+I don't know anything more about it.
+
+373
+00:40:15,920 --> 00:40:18,514
+I know you're doing all you can.
+
+374
+00:40:31,320 --> 00:40:35,598
+I had that dream again last night,
+about Dana being taken away.
+
+375
+00:40:36,080 --> 00:40:38,469
+I can't tell you how it scares me.
+
+376
+00:40:40,680 --> 00:40:44,434
+It's probably scarier
+when you <i>stop</i> having the dream.
+
+377
+00:40:46,400 --> 00:40:48,516
+Don't you think?
+
+378
+00:41:08,480 --> 00:41:10,277
+I found this.
+
+379
+00:41:12,560 --> 00:41:15,950
+It's something I...
+I never considered about her.
+
+380
+00:41:16,760 --> 00:41:20,389
+If she was... if she was such a sceptic...
+
+381
+00:41:21,960 --> 00:41:24,349
+...why did she wear that?
+
+382
+00:41:27,120 --> 00:41:29,839
+I gave it to her on her 15th birthday.
+
+383
+00:41:38,320 --> 00:41:40,709
+Don't you want to keep it?
+
+384
+00:41:50,680 --> 00:41:53,274
+When you find her, you give it to her.
+
+385
+00:43:00,440 --> 00:43:01,793
+Subtitles by Visiontext
+
+386
+00:43:13,760 --> 00:43:15,478
+<i>(child) I made this!</i>
+
+387
+00:43:15,840 --> 00:43:17,831
+ENGLISH HOH
+

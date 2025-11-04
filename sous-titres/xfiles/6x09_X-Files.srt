@@ -1,0 +1,385 @@
+{165}{235}HÔPITAL GENERAL DE WASHINGTON|21H29
+{300}{347}- Dr Cabrera.|- Où est-il?
+{350}{417}- En traumato.|- Qui l'a sorti de l'USI?
+{420}{532}Moi. Il a fait une crise en phase|préparatoire de plasmaphérèse.
+{535}{570}- Fonctions vitales?|- Bof.
+{572}{650}Pouls à 40, pression artérielle à 50, G-CSFà 6.
+{652}{755}Appelez le FBI. Il faut prévenir l'agent Scully.
+{757}{805}- Le FBI?|- Ce patient est un agent du FBI.
+{807}{895}- Qu'est-ce qu'il a?|- II va mourir.
+{1412}{1467}Vous m'entendez?
+{1470}{1515}M. Skinner?
+{1612}{1707}Je ne comprends pas.|Pouvez-vous parler plus fort?
+{1820}{1882}- II a dit quoi?|- Un nom.
+{1955}{2005}Il nous fait un arrêt cardiaque.
+{2127}{2167}Dégagez.
+{2355}{2412}Laissez-le.
+{2882}{2950}LE GOUVERNEMENT NOUS MENT
+{3310}{3355}LA VERITE EST AILLEURS
+{3415}{3482}Chaque minute qui passe|nous met devant un choix:
+{3485}{3557}qui nous sommes, qui pardonner,
+{3560}{3620}qui défendre et protéger.
+{3622}{3705}Choisir son camp ou la conformité.
+{3707}{3752}Le compromis.
+{3755}{3862}Ne pas trancher|entre ce qui est et ce qui devrait être.
+{3865}{3920}C'est cette voie que j'ai suivie.
+{3922}{4017}A essayer de trouver l'équilibre|improbable entre différents intérêts,
+{4020}{4140}à choisir sans choisir,|à se replier dans une modération intenable,
+{4180}{4230}la mort a fini par choisir pour moi.
+{4312}{4392}GYMNASE DE SOUTH STREET|24 HEURES PLUS TÔT
+{4472}{4590}Vas-y mollo, cogneur.|C'est lui qui doit fermer le gymnase.
+{5045}{5170}On voit trop clair dans ton jeu, Dre.|Stevie Wonder l'aurait vu venir!
+{5172}{5257}Tu te bats contre le FBI. Un peu de jugeote.
+{5360}{5385}Du nerf!
+{6380}{6430}Ca va?
+{6430}{6500}Tu m'entends?
+{6502}{6575}Parle-moi. Ca va?
+{6802}{6852}Vous revenez parmi nous?
+{6900}{7030}- Vous vous rappelez ce qui s'est passé?|- J'ai dû prendre un pain à la boxe.
+{7030}{7067}Effectivement. Mais au moins,|on ne vous a pas mangé l'oreille.
+{7067}{7155}Effectivement. Mais au moins,|on ne vous a pas mangé l'oreille.
+{7157}{7222}Le docteur Plant arrive.
+{7827}{7862}Allô?
+{7865}{7932}Walter Skinner.
+{7935}{7960}Qui est-ce?
+{7962}{8055}Avez-vous entendu la nouvelle?
+{8055}{8135}C'est en vous.
+{8137}{8165}Que dites-vous?
+{8165}{8310}Il vous reste 24 heures à vivre.
+{8312}{8365}Que voulez-vous?
+{8367}{8440}Vous êtes...
+{8442}{8492}déjà mort.
+{8665}{8770}Je ne pensais pas vous voir debout.|Vous devez vous sentir mieux.
+{8825}{8900}Asseyez-vous, je vous prie.
+{9037}{9132}Je suis le Dr Plant.|Je me suis occupé de vous.
+{9152}{9205}- Vous ne vous en souvenez pas?|- Non.
+{9207}{9295}Bonne nouvelle:|vos pupilles ne sont plus dilatées.
+{9297}{9380}En plus, vous avez encore vos deux oreilles.
+{9380}{9432}On me l'a déjà faite.
+{9435}{9540}Je vous libère. Mais calmez-vous sur la boxe.
+{9540}{9610}Vous n'avez plus vingt ans.
+{9612}{9665}Je n'ai rien?
+{9665}{9717}Vous avez vu des chandelles,
+{9720}{9785}mais sinon, vous êtes en pleine forme.
+{9787}{9840}On peut vous donner de la glace pour le bleu.
+{9842}{9875}Quel bleu?
+{9982}{10022}Celui-ci.
+{10025}{10125}- Comment je me suis fait ça?|- Un mauvais coup dans les côtes.
+{10127}{10265}Mais pas de casse.|Pas d'hémorragie interne. Vous vivrez.
+{10312}{10345}Merci.
+{10407}{10480}SIEGE DU FBI|22H21
+{11052}{11110}Qu'y a-t-il, agent Mulder?
+{11145}{11237}J'ai eu envie de passer faire "coucou".
+{11265}{11295}Coucou.
+{11420}{11505}- Vous faites un petit somme?|- Non, j'ai mal aux yeux.
+{11507}{11635}- Je préfère éviter de conduire.|- Ca va aller?
+{11812}{11870}23H09
+{12030}{12090}Il va te dire qu'il va bien.
+{12090}{12180}- Je vais bien.|- J'aurais du mal à le savoir.
+{12182}{12267}- Pourquoi les lumières sont éteintes?|- II a mal aux yeux.
+{12270}{12340}Et il a un méchant bleu sur les côtes.
+{12382}{12442}- Comment avez-vous fait?|- C'est rien.
+{12550}{12575}D'après qui?
+{12575}{12672}D'après le docteur qui m'a laissé sortir.
+{12732}{12817}Ca, c'est le second avis médical.|Le premier est tout autre.
+{12820}{12940}On l'a appelé à l'hôpital pour lui dire|qu'il n'avait plus que 24 heures à vivre.
+{12942}{13052}Une mauvaise farce.|Le docteur m'a dit que je me portais bien.
+{13120}{13232}Ces 2 derniers jours, avez-vous mangé|ou bu quelque chose de bizarre au goût?
+{13235}{13285}On m'aurait empoisonné?
+{13320}{13420}- Le docteur a pris votre sang?|- Oui, et il l'a analysé.
+{13420}{13532}- II n'a peut-être pas pensé au poison.|- Pourquoi m'appeler à l'hôpital?
+{13535}{13612}Pour vous faire peur.|Et voir qui vous contacteriez.
+{13670}{13745}- Ca vous concerne donc.|- Ou les affaires non classées.
+{13875}{13940}Vous, si. Vous en restez le superviseur.
+{13980}{14042}Il ne s'est rien passé de spécial aujourd'hui?
+{14045}{14087}Je ne veux pas jouer à ce jeu-là.
+{14090}{14202}Ca peut être n'importe quoi,|une simple poignée de main.
+{14205}{14280}- Vous vous êtes réveillé...|- Je me suis réveillé.
+{14280}{14362}- Seul?|- Oui. Seul.
+{14365}{14465}- Comment êtes-vous venu au bureau?|- Comme d'habitude, en voiture.
+{14467}{14540}- Et ensuite?|- Rien. Des réunions, le gymnase
+{14542}{14610}- et l'hôpital. Voilà.|- Doucement.
+{14610}{14655}Comment êtes-vous allé|du parking à votre bureau?
+{14655}{14717}Comment êtes-vous allé|du parking à votre bureau?
+{14720}{14777}- Par l'ascenseur.|- Et ensuite?
+{14830}{14965}J'ai pris le couloir. J'ai croisé|les gens que je croise chaque matin.
+{15015}{15075}J'ai gagné mon bureau.
+{15077}{15142}J'ai dit bonjour à ma secrétaire.
+{15165}{15225}Et elle m'a dit bonjour.
+{15227}{15310}J'ai téléphoné, fait des papiers|et je suis resté là jusqu'au soir.
+{15312}{15375}Réfléchissez. Il y a forcément quelque chose.
+{15605}{15665}Dans le couloir, il y avait un homme.
+{15690}{15760}Il m'a arrêté pour savoir l'heure.
+{15825}{15875}Vous a-t-il touché?
+{15987}{16085}Il m'a agrippé. Par le poignet droit.
+{16100}{16245}Il n'y a pas forcément de marque.|Certains poisons pénètrent par la peau.
+{16265}{16312}Quelle heure était-il?
+{16365}{16392}Vous voilà.
+{16435}{16505}C'est lui. Là.
+{16565}{16622}Attends, retourne en arrière.
+{16712}{16770}Incroyable.
+{16772}{16902}C'est Kenneth Orgel, conseiller au Sénat|pour l'éthique des nouvelles technologies.
+{16905}{16962}- Un scientifique?|- Un physicien.
+{16965}{17050}Très connu, dans son milieu en tout cas.
+{17052}{17155}Il est venu comme visiteur au bureau|du directeur Walter Skinner.
+{17157}{17260}- Pourquoi viendrait-il vous voir?|- Je vais lui demander moi-même.
+{17260}{17355}Si on vous a empoisonné, vous devez|vous faire soigner par un médecin.
+{17357}{17485}Je vais lui mettre un flingue|sur la tempe et lui demander comment guérir.
+{17500}{17575}- A quel hôpital était-il?|- A Ste-Katherine.
+{17705}{17777}CHEVY CHASE, MARYLAND|23H32
+{18090}{18152}- Oui?|- Dr Orgel?
+{18155}{18195}- Kenneth Orgel?|- Oui.
+{18215}{18267}Vous me connaissez?
+{18270}{18307}Non.
+{18310}{18402}Je m'appelle Walter Skinner,|directeur adjoint au FBI.
+{18405}{18500}Vous êtes venu au FBI ce matin|pour voir M. Skinner.
+{18502}{18572}Non. Vous devez faire erreur.
+{18595}{18670}Désolé. Il faudra revenir une autre fois.
+{18770}{18830}- Passez par-derrière.|- Quoi?
+{19057}{19105}Vous me dérangez.
+{19305}{19350}Agent fédéral!
+{19675}{19690}Courez!
+{19690}{19707}Courez!
+{20397}{20442}Lâchez votre arme.
+{20445}{20495}Lâchez-la!
+{21507}{21570}Toi-même.
+{21590}{21635}Fermez-la!
+{21905}{21952}- Laissez-le partir.|- Quoi?
+{21955}{22055}Il a des papiers diplomatiques.|Désolés. Vous pouvez partir.
+{22055}{22105}Laissez-le.
+{22217}{22342}Rentrez. La police va arriver|et je n'ai pas le temps pour un interrogatoire.
+{22345}{22480}Alexander Lazreg, attaché culturel|à la mission tunisienne de Washington.
+{22482}{22582}- Voyez ce que vous pouvez trouver.|- Vous devez aller à l'hôpital.
+{22585}{22645}J'aimerais autant éviter.
+{22822}{22920}- Le boxeur. FBI.|- Vous l'avez laissé partir ce matin.
+{22922}{22992}- II a un problème?|- C'est la raison de ma présence.
+{22995}{23110}- II a peut-être été empoisonné.|- Vous plaisantez. Par qui?
+{23110}{23205}Je l'ignore. En fait, je ne sais pas|exactement ce que je cherche.
+{23207}{23292}Heureusement que le gouvernement|couvre ses soins de santé.
+{23295}{23397}- On n'a pas touché à ses échantillons.|- Ce sont ceux-là?
+{23415}{23547}Vous n'êtes pas censée les manipuler.|Pas sans la permission du patient.
+{23550}{23612}Le temps nous est compté.
+{23615}{23677}Le temps lui est compté.
+{23680}{23815}- Rien n'indiquait l'empoisonnement.|- Vous êtes sûr qu'on n'y a pas touché?
+{23815}{23905}Pas totalement,|mais ça m'étonnerait vraiment.
+{24032}{24097}02H33
+{24425}{24535}- Vous n'avez pas le droit.|- Qu'est-on censé faire?
+{24535}{24655}Les biens du Dr Orgel doivent rester intacts,|de même que les preuves.
+{24657}{24750}Je me soucierais plutôt|de garder le Dr Orgel intact.
+{25052}{25102}Salut, sénateur.
+{25365}{25417}C'est du carbone.
+{25457}{25552}Du carbone pur. Comment diable|est-il arrivé dans son sang?
+{25552}{25595}Du carbone pur. Comment diable|est-il arrivé dans son sang?
+{25597}{25700}- Et pourquoi agit-il comme un poison?|- Ca dépasse l'entendement.
+{25937}{26015}Regardez comme ça s'agite dans la solution.
+{26015}{26065}Vraiment curieux.
+{26105}{26165}- Vous avez vu?|- Vous avez touché quelque chose?
+{26167}{26217}Non.
+{26240}{26295}Ils se multiplient. Regardez.
+{26342}{26397}Et encore.
+{26400}{26445}On va zoomer.
+{26657}{26705}Qu'est-ce que c'est que ça?
+{26865}{26932}04H01
+{26985}{27035}Attendez ici, je vous prie.
+{27492}{27580}Je ne vous dirai pas qu'il est tard.
+{27615}{27685}Je suppose que ça ne vous importe guère.
+{27687}{27787}Le temps est la seule chose|qui m'importe, sénateur.
+{27790}{27840}Ceci date d'il y a trois jours:
+{27842}{27922}vous et le Dr Kenneth Orgel|tenant une résolution du Sénat.
+{27925}{27992}La 819. En quoi consiste-t-elle?
+{27995}{28065}Une loi de financement.|Où voulez-vous en venir?
+{28067}{28150}Un ami est sur le point de mourir|à cause de cette résolution.
+{28152}{28235}Je ne sais ni comment ni pourquoi.
+{28237}{28300}- Mais vous, je parie que oui.|- De quoi parlez-vous?
+{28302}{28387}C'est encore flou.|Pour l'instant, j'ai un diplomate tunisien,
+{28390}{28477}le Dr Kenneth Orgel et cette loi sur la santé
+{28480}{28582}qui semblent s'être ligués pour tuer|un directeur du FBI. Ca tient debout?
+{28585}{28655}Cette loi va financer et approvisionner|l'Organisation mondiale de la santé,
+{28655}{28727}Cette loi va financer et approvisionner|l'Organisation mondiale de la santé,
+{28730}{28802}aider les pays du tiers-monde|sur le plan médical.
+{28832}{28930}Dans le passé, je vous ai donné|des informations et des conseils.
+{28930}{28997}Mon conseil du jour est d'abandonner
+{29000}{29145}et de ne jamais laisser penser à quiconque|que je suis impliqué dans une telle affaire.
+{29147}{29195}- Vu?|- Cet homme risque de mourir.
+{29197}{29337}- II ne lui reste que quelques heures.|- Mon but est de sauver des vies.
+{29362}{29425}Mais je ne peux pas sauver la sienne.
+{29467}{29542}Bonne nuit. Prudence sur la route.
+{29805}{29872}PARKING DE L'AMBASSADE|05H10
+{33627}{33705}06H14|15 HEURES, 21 MINUTES RESTANTES
+{33835}{33945}- Qu'y a-t-il?|- J'ai trouvé ce que fait le carbone.
+{33980}{34080}Il se reproduit|mais il a aussi un comportement spécifique.
+{34082}{34210}Il crée une structure,|qui est stimulée par la circulation sanguine.
+{34212}{34320}Il se multiplie|puis se solidifie de façon méthodique.
+{34350}{34430}Il construit des barrages|dans le système vasculaire.
+{34432}{34507}Il construit un arrêt cardiaque.
+{34510}{34595}Vous analysez le sang|d'un certain Walter Skinner?
+{34597}{34630}Oui.
+{34632}{34667}Des ambulanciers ont trouvé|un Walter Skinner dans un parking.
+{34667}{34722}Des ambulanciers ont trouvé|un Walter Skinner dans un parking.
+{34725}{34790}- Où l'emmènent-ils?|- A l'hôpital de Washington.
+{34925}{35060}Vous voyez ça?|L'activité vasculaire est tout à fait anormale.
+{35135}{35247}- Comment peut-il vivre encore?|- On enlève d'abord le bras gauche.
+{35322}{35377}Marquez-le au-dessus du biceps.
+{35440}{35517}- On y va.|- Je prends ce côté.
+{35545}{35610}- Dehors!|- Je connais cet homme.
+{35612}{35695}- C'est un bloc opératoire stérile.|- Faites-les sortir.
+{35697}{35805}Désolée. Mais on a observé sa maladie.|Qu'est-ce que vous faites?
+{35807}{35907}- S'il veut vivre, ce sera sans ce bras.|- Ca ne le sauvera pas. C'est son sang.
+{35910}{35972}- Qui est donc cette femme?|- Elle est médecin.
+{35975}{36115}Il faut utiliser un oscillomètre.|C'est la seule solution.
+{36117}{36212}Si vous voulez sauver cet homme,|écoutez-moi.
+{36507}{36557}Ca va aller.
+{36560}{36587}Recouchez-vous.
+{36660}{36725}On vous transporte dans une autre chambre.
+{36750}{36800}Qui m'a fait ça?
+{36800}{36872}C'est ce que Mulder essaie de découvrir.
+{36875}{36965}On va bien s'occuper de vous. Promis.
+{36967}{37022}On va faire notre maximum.
+{37270}{37335}Je n'arrive pas à me souvenir.
+{37602}{37660}08H58
+{37860}{37935}Monsieur? C'est vous?
+{38007}{38082}- Agent Mulder?|- Avez-vous les clés de ce bureau?
+{38085}{38110}- Que faites-vous?|- Skinner est à l'hôpital.
+{38110}{38147}- Que faites-vous?|- Skinner est à l'hôpital.
+{38150}{38200}- On l'a empoisonné.|- Pourquoi?
+{38200}{38277}- Pour avoir fait son travail.|- Je ne comprends pas.
+{38280}{38360}Je cherche quelque chose|en rapport avec la résolution 819.
+{38362}{38422}Si vous voulez lui sauver la vie,|ouvrez ce bureau.
+{38425}{38535}- Je n'ai pas la clé.|- Quelque chose qui ferait office de clé?
+{38625}{38675}Il va s'en sortir?
+{39262}{39347}- Son état?|- Stationnaire, mais pas bon.
+{39350}{39420}Trauma et distension vasculaire.
+{39422}{39510}Son sang agit comme une arme contre lui.
+{39510}{39572}- Peut-on lutter contre ça?|- On ignore ce que c'est.
+{39575}{39665}Le mieux à faire, c'est de déboucher|ses artères au laser.
+{39665}{39760}Mais ça nous fera seulement|gagner du temps.
+{39762}{39907}On ne peut pas détruire assez vite|les murs érigés dans ses vaisseaux.
+{39910}{39970}On n'a pas la technologie.
+{39972}{40035}- Peut-être que si.|- C'est quoi?
+{40037}{40177}C'était dans le courrier de Skinner.|Il vérifiait la conformité d'une loi
+{40180}{40272}d'exportation de technologies sensibles.
+{40275}{40330}Mais c'est une procédure banale.
+{40332}{40417}- Le FBI fait ça très souvent.|- La loi devait être votée au Sénat.
+{40420}{40555}Elle n'attendait que l'aval de Skinner|et l'analyse du Dr Kenneth Orgel.
+{40555}{40650}Le Dr Orgel aurait empoisonné Skinner|pour protéger son analyse?
+{40652}{40757}Il n'a empoisonné personne.|Il voulait avertir Skinner
+{40760}{40875}d'une grave violation des lois|d'exportation des nouvelles technologies.
+{40900}{40982}- Des nouvelles technologies?|- Tu sais ce que c'est?
+{41040}{41090}Je crois que oui.
+{41135}{41182}Ce n'est pas le mien.
+{41185}{41257}Vous prenez? II était dans sa poche.
+{41300}{41377}Vous devriez abandonner.
+{41380}{41450}- Qui est-ce?|- Une voix de synthèse.
+{41452}{41550}Vous ne pouvez pas l'arrêter.
+{41552}{41617}Quelqu'un qui sait qu'il est ici.
+{41647}{41682}Votre temps...
+{41685}{41755}VOTRE TEMPS EST PRESQUE ECOULE
+{42162}{42237}Agent fédéral! Arrêtez-vous!
+{44805}{44867}La loi est en danger, sénateur.
+{44870}{44945}- II y a une nouvelle menace.|- Vous ne deviez pas m'appeler.
+{44947}{45055}- Vous aurez du sang sur les mains.|- Vous ne m'impressionnez pas.
+{45085}{45147}Le Dr Orgel, si. Demandez-le-lui.
+{45150}{45215}Qu'avez-vous fait de lui?
+{45272}{45332}Je peux vous dire où le trouver.
+{45390}{45432}FOURRIERE DU FBI|12H11
+{45435}{45540}La voiture était louée à une société|qui fournit le corps diplomatique.
+{45542}{45625}- Des indices?|- Pas grand-chose à l'extérieur.
+{45625}{45745}Normal, vu l'état du véhicule.|Mais on a trouvé des cheveux à l'intérieur.
+{45745}{45815}Humains. D'une perruque de luxe.
+{45887}{45967}Jolie prise. Quoi d'autre?
+{45970}{46067}On a analysé les pneus. Il y a un truc bizarre.
+{46070}{46175}C'est plein de biphényle polychloré,|du BPC. Plus de 500 parties par million.
+{46177}{46292}Un seuil interdit par l'Agence de protection|de l'environnement depuis les années 70.
+{46295}{46440}- Ca vient d'où?|- On en trouve dans la terre glaise.
+{46442}{46525}Ca vient d'un chantier de déconstruction|ou d'une vieille usine.
+{46637}{46707}14H04
+{48470}{48520}Qui est là?
+{48572}{48622}Il y a quelqu'un?
+{48712}{48775}Sénateur, laissez-moi partir.
+{48815}{48882}J'ai soif.
+{48920}{49015}- Qui vous a fait ça?|- Vite. Je vous en prie.
+{49017}{49070}Ca me tue.
+{49070}{49157}Ils pensent que vous les avez dénoncés|au FBI. A Walter Skinner.
+{49160}{49235}Je n'ai rien dit au FBI. Je n'ai rien dit.
+{49237}{49305}Pitié. Je ne dénoncerai personne.
+{49900}{49980}17H32|3 HEURES, 56 MINUTES RESTANTES
+{50365}{50445}Je voudrais essayer quelque chose.
+{50445}{50527}Une plasmaphérèse thérapeutique.
+{50530}{50625}Ca demande de filtrer tout votre sang.
+{50627}{50757}Le procédé est radical,|votre corps risque de ne pas le supporter.
+{50812}{50862}Je m'en remets à vous.
+{50960}{51035}Je vous dois des excuses.
+{51105}{51170}- A vous et à Mulder.|- Monsieur?
+{51200}{51260}J'ai eu le temps de réfléchir.
+{51330}{51380}Votre quête...
+{51427}{51507}- Aurait dû être la mienne.|- Comment ça?
+{51585}{51652}Ma mort sera vaine.
+{51742}{51817}Je n'aurai servi à rien.
+{51860}{51905}Ma vie non plus.
+{51907}{51967}Vous savez que c'est faux.
+{51970}{52020}Non.
+{52112}{52175}Je m'en rends compte...
+{52175}{52235}J'ai joué la sécurité.
+{52260}{52325}Sans prendre parti.
+{52352}{52402}Je ne vous ai pas laissés...
+{52442}{52487}M'entraîner.
+{52535}{52630}Vous avez bien des fois été notre allié.
+{52725}{52800}Pas celui que j'aurais pu être.
+{53157}{53220}- Je m'en souviens maintenant.|- De quoi?
+{53382}{53457}- Son visage est flou. Il était barbu.|- Faites un effort.
+{53550}{53600}Il était au gymnase.
+{53710}{53760}A l'hôpital.
+{53800}{53850}Il a tué cet homme.
+{53930}{54000}Il était au FBI quand Orgel est venu me voir.
+{54027}{54097}Il vous suivait?
+{54100}{54180}Il est sur la vidéo de surveillance.
+{54367}{54432}17H56
+{55685}{55762}Ca doit vous étonner de me voir ici.
+{55935}{56060}- Je ne suis pas celui que vous cherchez.|- Où est Orgel?
+{56062}{56130}- Orgel est mort.|- Je ne vous crois pas.
+{56132}{56202}Vous m'avez menti ce matin,|vous me mentez maintenant.
+{56205}{56262}- Laissez tomber.|- Où est Orgel?
+{56265}{56362}Je dois savoir ce qu'il sait. Mon ami se meurt.
+{56365}{56465}Ils l'ont tué.|Ce qu'Orgel savait est mort avec lui.
+{56465}{56575}Alors dites-moi ce que vous savez.|C'est la résolution 819, c'est ça?
+{56575}{56702}- Qu'ont-ils fait à Skinner?|- Vous devez avoir une idée.
+{56792}{56862}C'est la technologie|que la 819 compte exporter.
+{56865}{56957}Une technologie que tout le monde|croit purement théorique.
+{56995}{57110}La nanotechnologie.|Des machines de taille atomique.
+{57155}{57240}- On peut arrêter les machines.|- Votre ami est déjà mort.
+{57242}{57330}- Je ne crois pas.|- Si vous continuez, ils vous tueront.
+{57330}{57405}Pas avant que je parle de vous|et de votre rôle là-dedans.
+{57407}{57477}Mon rôle? Je suis une victime.
+{57480}{57552}Vous ne comprenez pas? Je lutte pour ma|vie.
+{57555}{57627}- J'arrêterai tout ça.|- C'est trop tard.
+{58052}{58102}Il nous fait un arrêt cardiaque.
+{58150}{58202}Dégagez!
+{58317}{58367}Laissez-le.
+{58495}{58557}Heure du décès... 21 h 33.
+{59950}{60022}TROIS SEMAINES PLUS TARD
+{60035}{60140}Les docteurs vous trouvent en parfaite santé.
+{60142}{60212}Ce qui vous a infecté semble endormi.
+{60215}{60307}Votre guérison tient du véritable miracle.
+{60310}{60385}Votre empoisonneur était au FBI ce jour-là.
+{60387}{60502}Scully a tiré ces photos|de la vidéo de surveillance.
+{60505}{60632}Ca vous rafraîchira la mémoire.|Vous pouvez peut-être l'identifier.
+{60677}{60715}Non, désolé.
+{60790}{60917}La résolution 819 a été retirée|la nuit dernière, sans plus d'explication.
+{60955}{61055}- Bien. Cet homme a donc perdu.|- Si là était son véritable but.
+{61095}{61175}S'il vous a empoisonné|pour vous empêcher d'enquêter sur la 819,
+{61175}{61240}pourquoi vous prévenir?
+{61262}{61355}Il travaillait pour le gouvernement|censé recevoir cette technologie.
+{61355}{61415}Il a tué l'un des siens pour vous sauver.
+{61480}{61575}Vous persistez à penser|que ça concernait les affaires NC?
+{61575}{61675}Oui, et j'ai une idée sur ceux|qui sont derrière tout ça.
+{61677}{61772}Mais vous devez m'autoriser|à poursuivre l'enquête.
+{61897}{62035}Je n'en ai ni le pouvoir ni l'envie.
+{62072}{62165}Vous suivrez les instructions de Kersh|et uniquement les siennes.
+{62167}{62215}Monsieur?
+{62217}{62305}Affaire classée. C'est clair?
+{63260}{63335}Je m'attendais à vous voir surgir.
+{63452}{63525}Je peux appuyer sur le bouton à tout|moment.
+{63527}{63605}Que voulez-vous de moi? Qu'y a-t-il, Krycek?
+{63702}{63752}Chaque chose en son temps.
+{64852}{64890}Sous-titrage Visiontext: Chloé Leleu
+{65395}{65445}FRENCH

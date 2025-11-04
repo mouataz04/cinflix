@@ -1,0 +1,2038 @@
+1
+00:00:05,327 --> 00:00:08,160
+Previously on "Stargate SG-1":
+
+2
+00:00:10,527 --> 00:00:13,200
+- Do you not recognise us, Daniel?
+- I'm sorry.
+
+3
+00:00:13,287 --> 00:00:16,836
+You were a member of my team, SG-1.
+You're a friend of mine.
+
+4
+00:00:16,927 --> 00:00:21,045
+- We are in position to ambush Anubis...
+- Do not question me. Do as I say!
+
+5
+00:00:21,127 --> 00:00:24,403
+Activating hyperdrive.
+
+6
+00:00:28,727 --> 00:00:31,719
+Target is locked. Fox 4-2.
+
+7
+00:00:36,887 --> 00:00:41,005
+- You will suffer gravely.
+- I won't tell you anything.
+
+8
+00:00:41,087 --> 00:00:43,123
+Yes, you will.
+
+9
+00:00:53,647 --> 00:00:57,640
+- Receiving IDC, sir. It's SG-1.
+- Open the iris.
+
+10
+00:01:07,927 --> 00:01:09,918
+Colonel. Major.
+
+11
+00:01:10,007 --> 00:01:13,761
+Our mission was a success. Anubis's
+new weapon has been neutralised.
+
+12
+00:01:13,847 --> 00:01:15,246
+Well done.
+
+13
+00:01:15,327 --> 00:01:18,319
+- What about Jonas and Dr Jackson?
+- Still on the ship.
+
+14
+00:01:18,407 --> 00:01:22,559
+- Anubis went into hyperspace.
+- Do we have any idea where they went?
+
+15
+00:01:22,647 --> 00:01:24,842
+No, sir.
+
+16
+00:01:36,007 --> 00:01:39,795
+You appear to be unharmed
+by the mind probe.
+
+17
+00:01:39,887 --> 00:01:42,162
+I appreciate the concern.
+
+18
+00:01:42,247 --> 00:01:46,035
+You seem calm,
+considering some lowly humans
+
+19
+00:01:46,127 --> 00:01:50,678
+just put a serious crimp
+in your plans for galactic domination.
+
+20
+00:01:50,767 --> 00:01:53,645
+Your insolence amuses me.
+
+21
+00:01:53,727 --> 00:01:57,083
+I've learnt many valuable things
+from you, Jonas Quinn.
+
+22
+00:01:57,167 --> 00:02:01,604
+I now know Dr Jackson
+accompanied you aboard this ship.
+
+23
+00:02:01,687 --> 00:02:06,477
+- Do you know where he is?
+- He continues to elude our sensors,
+
+24
+00:02:06,567 --> 00:02:08,876
+but his time is running out.
+
+25
+00:02:08,967 --> 00:02:14,803
+- Nothing you learnt from me'll help you.
+- Oh, we will see about that.
+
+26
+00:02:14,887 --> 00:02:17,276
+Have a look out the window.
+
+27
+00:02:23,887 --> 00:02:26,606
+We dropped out of hyperspace.
+
+28
+00:02:26,687 --> 00:02:30,999
+I'm eager to find out more about
+this powerful variation of naqahdah
+
+29
+00:02:31,087 --> 00:02:33,521
+discovered on your planet.
+
+30
+00:02:33,607 --> 00:02:36,280
+I believe you call it "Naquadria".
+
+31
+00:02:37,807 --> 00:02:39,399
+Where are we?
+
+32
+00:02:39,487 --> 00:02:42,684
+Welcome home, Jonas Quinn.
+
+33
+00:04:00,767 --> 00:04:06,205
+I just got a report from the Tok'ra. They've
+no news on the location of Anubis's ship.
+
+34
+00:04:06,287 --> 00:04:10,997
+- What about Teal'c?
+- We can only assume he's with Yu's fleet.
+
+35
+00:04:11,087 --> 00:04:13,442
+Any idea why they didn't show?
+
+36
+00:04:13,527 --> 00:04:16,837
+- I could make a guess.
+- You think Yu hung us out to dry?
+
+37
+00:04:16,927 --> 00:04:19,236
+I'm not gonna touch that, sir.
+
+38
+00:04:19,327 --> 00:04:24,196
+- I don't think he made a deal with Anubis.
+- Trust a Goa'uld, this is what you get.
+
+39
+00:04:24,287 --> 00:04:27,199
+I understand how you feel,
+but I approved this operation
+
+40
+00:04:27,287 --> 00:04:31,724
+because I believed it was our best chance
+to deal Anubis a crippling blow.
+
+41
+00:04:31,807 --> 00:04:36,278
+- Yes, sir.
+- Unscheduled offworld activation.
+
+42
+00:04:44,847 --> 00:04:47,759
+Receiving a radio signal, sir.
+
+43
+00:04:47,847 --> 00:04:50,839
+This is Ambassador Dreylock
+of the Kelownan High Council.
+
+44
+00:04:50,927 --> 00:04:53,316
+General Hammond of Stargate Command.
+
+45
+00:04:53,407 --> 00:04:56,444
+We request immediate assistance.
+We are under attack.
+
+46
+00:04:56,527 --> 00:05:01,317
+We've been over this. We can't interfere
+in the internal affairs of your planet.
+
+47
+00:05:01,407 --> 00:05:07,403
+You don't understand. We are under
+attack from a Goa'uld called Anubis.
+
+48
+00:05:31,527 --> 00:05:33,597
+Why have I been detained?
+
+49
+00:05:36,687 --> 00:05:38,484
+Lord Yu is without honour.
+
+50
+00:05:38,567 --> 00:05:40,762
+- Shol'va!
+- Jaffa!
+
+51
+00:05:41,807 --> 00:05:43,798
+Kree jel-na.
+
+52
+00:05:53,607 --> 00:05:55,404
+We had an agreement.
+
+53
+00:05:55,487 --> 00:05:58,081
+You have not been betrayed.
+
+54
+00:05:58,887 --> 00:06:00,878
+Not deliberately.
+
+55
+00:06:01,967 --> 00:06:04,162
+I do not understand.
+
+56
+00:06:06,887 --> 00:06:09,276
+My master is not well.
+
+57
+00:06:10,247 --> 00:06:14,001
+He spends most of his time
+in the sarcophagus. He is there even now.
+
+58
+00:06:14,087 --> 00:06:16,317
+Why does he not take another host?
+
+59
+00:06:16,407 --> 00:06:19,604
+I believe he has reached the point
+where he is incapable.
+
+60
+00:06:21,247 --> 00:06:24,398
+Lord Yu is the oldest of the System Lords.
+
+61
+00:06:24,487 --> 00:06:27,365
+He has reigned for countless centuries,
+
+62
+00:06:27,447 --> 00:06:31,599
+but now I'm beginning to fear
+that even gods cannot live forever.
+
+63
+00:06:31,687 --> 00:06:33,643
+Lord Yu is not a god.
+
+64
+00:06:36,847 --> 00:06:40,726
+Once I would have struck you down
+for speaking those words.
+
+65
+00:06:40,807 --> 00:06:42,798
+But now?
+
+66
+00:06:45,247 --> 00:06:49,081
+He was convinced that Anubis
+was in the Chodawa system.
+
+67
+00:06:51,607 --> 00:06:56,283
+And even though I knew this was
+not the case, I could not contradict him.
+
+68
+00:06:56,367 --> 00:06:59,882
+But you have seen that
+Lord Yu can make mistakes.
+
+69
+00:06:59,967 --> 00:07:03,323
+He has become increasingly
+paranoid and confused.
+
+70
+00:07:03,407 --> 00:07:07,036
+He speaks to himself,
+but his words make no sense.
+
+71
+00:07:07,127 --> 00:07:14,283
+He forgets key details of our attack plans,
+and grows angry when I remind him.
+
+72
+00:07:14,367 --> 00:07:19,236
+If what you say is true,
+you and your Jaffa are in grave danger.
+
+73
+00:07:19,327 --> 00:07:23,605
+- You must do something.
+- I cannot betray him.
+
+74
+00:07:23,687 --> 00:07:25,882
+I have devoted my life to his service.
+
+75
+00:07:25,967 --> 00:07:29,562
+If this continues,
+Lord Yu's empire will fall.
+
+76
+00:07:29,647 --> 00:07:32,241
+Millions of Jaffa will die.
+
+77
+00:07:32,327 --> 00:07:35,797
+Lord Yu will be remembered as a fool.
+
+78
+00:07:35,887 --> 00:07:39,084
+What meaning will your life have then?
+
+79
+00:07:59,007 --> 00:08:02,238
+- Have they agreed to help us?
+- Not yet.
+
+80
+00:08:09,847 --> 00:08:12,805
+Colonel O'Neill. Major Carter.
+
+81
+00:08:12,887 --> 00:08:15,481
+- Ambassador. Commander.
+- Thank you for coming.
+
+82
+00:08:15,567 --> 00:08:19,082
+- What's going on, kids?
+- A ship is hovering over the city.
+
+83
+00:08:19,207 --> 00:08:22,882
+Alien troops have taken
+the capitol building and other positions.
+
+84
+00:08:22,967 --> 00:08:24,366
+Where are we?
+
+85
+00:08:24,447 --> 00:08:29,237
+This bunker is several hundred feet below
+an army base on the outskirts of the city.
+
+86
+00:08:29,327 --> 00:08:32,763
+The communicator should work.
+It can transmit from Tok'ra tunnels.
+
+87
+00:08:32,847 --> 00:08:37,284
+- I don't understand.
+- Two of our people may be on that ship,
+
+88
+00:08:37,367 --> 00:08:39,358
+one being Jonas Quinn.
+
+89
+00:08:41,847 --> 00:08:43,326
+Daniel?
+
+90
+00:08:43,407 --> 00:08:45,796
+Daniel, come in. It's O'Neill.
+
+91
+00:08:47,447 --> 00:08:49,438
+Daniel?
+
+92
+00:08:50,767 --> 00:08:53,565
+- Jack?
+- What's your situation?
+
+93
+00:08:56,607 --> 00:09:00,361
+- I'm hiding. What's yours?
+- Carter and I are on the planet.
+
+94
+00:09:00,447 --> 00:09:03,962
+Be more specific. I haven't had
+a chance to look out a window.
+
+95
+00:09:04,047 --> 00:09:07,835
+- You're hovering over Jonas's home.
+- Why?
+
+96
+00:09:07,927 --> 00:09:10,680
+I wish I knew.
+Are you in any immediate danger?
+
+97
+00:09:10,767 --> 00:09:13,201
+Depends on what you mean
+by "immediate".
+
+98
+00:09:13,287 --> 00:09:15,437
+- Daniel.
+- I'm fine.
+
+99
+00:09:15,527 --> 00:09:20,203
+I got a location on Jonas's cell,
+but first I've got a couple of problems.
+
+100
+00:09:20,287 --> 00:09:21,925
+Like what?
+
+101
+00:09:22,007 --> 00:09:26,478
+I'm not sure how to shut off
+the force field protecting his cell yet.
+
+102
+00:09:26,567 --> 00:09:28,478
+You said a couple?
+
+103
+00:09:28,567 --> 00:09:33,561
+Yeah, actually, I'm a little lost.
+And I've only got about three hours left
+
+104
+00:09:33,647 --> 00:09:37,356
+before the Tok'ra isotope wears off
+and I'm visible to the sensors.
+
+105
+00:09:37,447 --> 00:09:41,281
+- So business as usual then, huh?
+- I don't know. Is it?
+
+106
+00:09:43,247 --> 00:09:49,083
+- Yes, we do this kind of thing all the time.
+- Oh, well, good. That's comforting then.
+
+107
+00:09:52,967 --> 00:09:55,640
+This is a mistake.
+
+108
+00:09:55,727 --> 00:10:00,403
+Lord Yu can no longer be permitted
+to command the opposition to Anubis.
+
+109
+00:10:00,487 --> 00:10:03,718
+His Jaffa will follow your orders
+in his name, but others will not.
+
+110
+00:10:03,807 --> 00:10:06,196
+We need the combined force
+of the System Lords.
+
+111
+00:10:06,287 --> 00:10:10,439
+- None of them can be trusted.
+- Nonetheless, one must be chosen.
+
+112
+00:10:12,807 --> 00:10:15,401
+The signal is coming through.
+
+113
+00:10:21,967 --> 00:10:24,242
+- What is the meaning of this?
+- Lord Baal...
+
+114
+00:10:24,327 --> 00:10:28,559
+Where is your master? Why do you
+allow this shol'va to appear before me?
+
+115
+00:10:28,647 --> 00:10:32,401
+- I am here to present an offer.
+- I will not listen to a traitor.
+
+116
+00:10:32,487 --> 00:10:38,164
+Then you will miss an opportunity
+to rid yourself of Anubis forever.
+
+117
+00:10:40,287 --> 00:10:44,519
+When the ship appeared,
+we were caught completely off guard.
+
+118
+00:10:44,607 --> 00:10:48,282
+There was widespread panic.
+Before we knew what was happening,
+
+119
+00:10:48,367 --> 00:10:52,440
+most of the High Council
+had been taken hostage.
+
+120
+00:10:52,527 --> 00:10:57,043
+When we wouldn't give in to his demands,
+Anubis had the First Minister executed.
+
+121
+00:10:57,127 --> 00:11:00,642
+He also fired a volley
+into our industrial sector,
+
+122
+00:11:00,727 --> 00:11:06,404
+destroying several factories
+and killing many innocent citizens.
+
+123
+00:11:07,327 --> 00:11:11,115
+After that, we gave him what he wanted.
+
+124
+00:11:12,407 --> 00:11:14,967
+- Which was?
+- Naquadria.
+
+125
+00:11:15,047 --> 00:11:17,436
+Our entire stockpile.
+
+126
+00:11:18,527 --> 00:11:23,237
+Commander. We're receiving
+a transmission from the surface.
+
+127
+00:11:23,327 --> 00:11:25,318
+Excuse me a moment.
+
+128
+00:11:29,087 --> 00:11:33,922
+Anubis must've used that mind probe on
+Jonas and found out about the Naquadria.
+
+129
+00:11:34,007 --> 00:11:36,601
+Then he knows the stuff
+only works half the time.
+
+130
+00:11:36,687 --> 00:11:41,681
+Just cos we can't establish a stable power
+output doesn't mean he won't. If he does...
+
+131
+00:11:41,767 --> 00:11:44,645
+Tadada-dah, ta-dah!
+
+132
+00:11:53,567 --> 00:11:58,436
+The truth is my master is no longer fit
+to lead the forces of the System Lords.
+
+133
+00:11:58,527 --> 00:12:01,280
+How dare you judge your god?
+
+134
+00:12:01,367 --> 00:12:04,200
+The shol'va has poisoned your mind.
+
+135
+00:12:04,287 --> 00:12:06,482
+Clearly, Lord Baal is not interested.
+
+136
+00:12:06,567 --> 00:12:11,595
+- We should contact another System Lord.
+- Hm. Perhaps Bastet.
+
+137
+00:12:11,687 --> 00:12:16,807
+If I assume command, how can I be
+assured of the loyalty of Yu's troops?
+
+138
+00:12:16,887 --> 00:12:19,355
+They will follow me in his name.
+
+139
+00:12:19,447 --> 00:12:21,039
+And will you obey me?
+
+140
+00:12:21,127 --> 00:12:24,563
+The destruction of Anubis
+is in my master's best interest.
+
+141
+00:12:24,647 --> 00:12:29,198
+I will support any action
+that leads to this goal.
+
+142
+00:12:29,287 --> 00:12:33,997
+If you are in agreement, I must contact
+the Tauri to make the final arrangements.
+
+143
+00:12:34,087 --> 00:12:36,203
+Then do so.
+
+144
+00:12:37,607 --> 00:12:40,405
+Take me to the nearest Stargate.
+
+145
+00:12:59,367 --> 00:13:04,839
+Commander, you said you gave Anubis
+your entire stockpile of Naquadria.
+
+146
+00:13:04,927 --> 00:13:06,519
+That's correct.
+
+147
+00:13:06,607 --> 00:13:09,075
+So if he got what he wanted,
+why is he still here?
+
+148
+00:13:09,167 --> 00:13:10,759
+I have no idea.
+
+149
+00:13:10,847 --> 00:13:14,840
+His men have rounded up archaeologists
+from the Academy of Sciences.
+
+150
+00:13:14,927 --> 00:13:18,124
+- He may be looking for the Stargate.
+- How secure is this place?
+
+151
+00:13:18,207 --> 00:13:20,198
+It's top secret.
+
+152
+00:13:20,287 --> 00:13:24,599
+We had the gate moved here after the
+Tiranians and Andaris began air strikes.
+
+153
+00:13:24,687 --> 00:13:26,484
+So you did go to war?
+
+154
+00:13:26,567 --> 00:13:30,116
+Yes, but we managed
+to negotiate a cease-fire.
+
+155
+00:13:30,207 --> 00:13:33,119
+I thought you were
+outgunned and outmanned.
+
+156
+00:13:36,207 --> 00:13:39,324
+We used the Naquadria bomb.
+
+157
+00:13:39,407 --> 00:13:41,637
+On people?
+
+158
+00:13:41,727 --> 00:13:46,801
+We instantly regretted it. The devastation
+was beyond anything we'd imagined.
+
+159
+00:13:46,887 --> 00:13:51,165
+As many Kelownans
+would have died had we done nothing.
+
+160
+00:13:51,247 --> 00:13:54,842
+We were faced with our own destruction
+and you refused to help us.
+
+161
+00:13:54,927 --> 00:13:59,205
+And, as awful as it was, it managed to
+bring Tiranians and Andaris to the table.
+
+162
+00:13:59,287 --> 00:14:02,359
+Delegates had just arrived
+in the city for peace talks.
+
+163
+00:14:02,447 --> 00:14:05,086
+- Do they know about the Stargate?
+- No.
+
+164
+00:14:05,167 --> 00:14:09,319
+They may have noticed
+the rather large ship floating in the sky.
+
+165
+00:14:09,407 --> 00:14:14,037
+- You might as well tell them the rest.
+- We were hoping it wouldn't come to that.
+
+166
+00:14:14,127 --> 00:14:18,166
+Anubis has everything he came for.
+He may just leave.
+
+167
+00:14:18,247 --> 00:14:22,160
+If Anubis can figure out how to overcome
+the instability of the Naquadria,
+
+168
+00:14:22,247 --> 00:14:25,523
+it will give him a significant advantage
+over all his enemies.
+
+169
+00:14:25,607 --> 00:14:29,919
+- He's gonna want more.
+- There is no more. The mine is dry.
+
+170
+00:14:30,007 --> 00:14:32,441
+You think he'll take your word for it?
+
+171
+00:14:32,527 --> 00:14:36,759
+He will occupy this planet and
+enslave your people. We've seen it before.
+
+172
+00:14:36,847 --> 00:14:39,042
+What can we do?
+
+173
+00:14:42,007 --> 00:14:45,044
+If you want to fight, we'll help you.
+
+174
+00:14:45,127 --> 00:14:50,724
+But we need the cooperation
+of the other major powers on this world.
+
+175
+00:15:01,447 --> 00:15:05,486
+My lord, I have completed
+a preliminary analysis of the Naquadria.
+
+176
+00:15:05,567 --> 00:15:09,276
+The potential energy output
+is greater than that of regular naqahdah.
+
+177
+00:15:09,367 --> 00:15:11,835
+It will be hard
+to maintain a stable reaction.
+
+178
+00:15:11,927 --> 00:15:17,206
+This ship must have full power again.
+I will not accept failure.
+
+179
+00:15:18,167 --> 00:15:23,480
+My lord, we've already learnt all we can
+from Jonas Quinn. Why keep him alive?
+
+180
+00:15:23,567 --> 00:15:27,924
+His physiology merits
+further experimentation.
+
+181
+00:15:28,007 --> 00:15:31,761
+He may still prove to be very useful.
+
+182
+00:16:14,847 --> 00:16:16,724
+Jonas.
+
+183
+00:16:16,807 --> 00:16:19,196
+Jonas, are you there?
+
+184
+00:16:19,287 --> 00:16:22,120
+- Daniel?
+- Yeah. Are you all right?
+
+185
+00:16:22,207 --> 00:16:25,324
+Yeah, I'm fine. Where are you?
+
+186
+00:16:26,167 --> 00:16:31,161
+I'm in a storage room
+about 20 feet from your current position.
+
+187
+00:16:31,247 --> 00:16:34,762
+- Can you get me out of here?
+- I'm working on it.
+
+188
+00:16:39,087 --> 00:16:40,964
+Colonel O'Neill, Major Carter,
+
+189
+00:16:41,047 --> 00:16:44,960
+may I present the leaders of the
+Tiranian and Andari peace delegations.
+
+190
+00:16:45,047 --> 00:16:47,561
+Ambassador Sevaarin
+and Ambassador Noor.
+
+191
+00:16:47,647 --> 00:16:51,322
+Colonel O'Neill and Major Carter
+represent a planet called Earth.
+
+192
+00:16:51,407 --> 00:16:53,796
+They don't look very alien.
+
+193
+00:16:54,687 --> 00:16:56,086
+We get that a lot.
+
+194
+00:16:58,127 --> 00:17:01,437
+And this, of course, is the Stargate.
+
+195
+00:17:02,207 --> 00:17:04,596
+- How does it work?
+- Let's have a look.
+
+196
+00:17:10,047 --> 00:17:11,844
+Something like that.
+
+197
+00:17:11,927 --> 00:17:15,761
+- Incredible.
+- Isn't it?
+
+198
+00:17:19,047 --> 00:17:21,322
+He is one of the enemy soldiers.
+
+199
+00:17:21,407 --> 00:17:23,716
+Relax. He's one of ours.
+
+200
+00:17:27,607 --> 00:17:31,361
+- It is good to see you both again.
+- We got your message from Hammond.
+
+201
+00:17:31,447 --> 00:17:35,918
+- Are you nuts?
+- I believe it to be our only choice, O'Neill.
+
+202
+00:17:39,407 --> 00:17:45,357
+I don't know quite how to tell you this, but
+Anubis has taken the ship to your home.
+
+203
+00:17:45,447 --> 00:17:47,597
+We're above the Kelownan capital.
+
+204
+00:17:47,687 --> 00:17:53,000
+I know. He wants Naquadria. If it wasn't
+for me, he'd never have found out about it.
+
+205
+00:17:53,087 --> 00:17:58,115
+- Don't blame yourself.
+- The point is I joined Stargate Command
+
+206
+00:17:58,207 --> 00:18:01,517
+so maybe one day I could
+protect my planet from the Goa'uld.
+
+207
+00:18:01,607 --> 00:18:04,838
+- Instead, I brought them right to it.
+- We'll find a way out.
+
+208
+00:18:04,927 --> 00:18:08,397
+- Yeah?
+- Apparently.
+
+209
+00:18:09,927 --> 00:18:13,363
+We already trusted one Goa'uld.
+Look where it got us.
+
+210
+00:18:13,447 --> 00:18:15,836
+I do not trust Baal, O'Neill,
+
+211
+00:18:15,927 --> 00:18:21,206
+but I believe, at least for the moment,
+his goal is the same as ours.
+
+212
+00:18:23,527 --> 00:18:26,121
+All right. Have at it.
+
+213
+00:18:27,047 --> 00:18:29,641
+Oh, yes, you do the talking.
+
+214
+00:18:37,687 --> 00:18:41,077
+We have made an agreement
+with another System Lord named Baal.
+
+215
+00:18:41,167 --> 00:18:44,876
+If we give him your location,
+he will bring a fleet and destroy Anubis.
+
+216
+00:18:44,967 --> 00:18:48,243
+You propose to bring
+more of these Goa'uld to our world?
+
+217
+00:18:48,327 --> 00:18:50,443
+For now, Anubis is vulnerable.
+
+218
+00:18:50,527 --> 00:18:54,679
+He has but one ship and is preoccupied,
+but believes his position to be secure
+
+219
+00:18:54,767 --> 00:18:57,964
+because he knows the other lords
+are unaware of this place.
+
+220
+00:18:58,047 --> 00:19:02,518
+And if Anubis is destroyed, how
+do we know this Baal will leave us alone?
+
+221
+00:19:02,607 --> 00:19:04,757
+That is part of the agreement.
+
+222
+00:19:06,807 --> 00:19:12,006
+You say we cannot negotiate with Anubis
+and these Goa'uld cannot be trusted.
+
+223
+00:19:12,087 --> 00:19:14,601
+And yet you ask us to trust another?
+
+224
+00:19:14,687 --> 00:19:18,760
+- Your world faces an imminent threat.
+- Kelowna faces the threat.
+
+225
+00:19:18,847 --> 00:19:23,079
+There are no alien ships
+in the skies above Tirania.
+
+226
+00:19:23,167 --> 00:19:25,840
+See what we have to deal with?
+
+227
+00:19:25,927 --> 00:19:31,638
+Haven't you guys ever heard the story
+of the dog and the dancing monkeys?
+
+228
+00:19:31,727 --> 00:19:36,847
+Has something to do with
+getting along and... dancing.
+
+229
+00:19:40,967 --> 00:19:43,162
+Carter.
+
+230
+00:19:43,247 --> 00:19:45,556
+With all due respect, Mr Ambassador,
+
+231
+00:19:45,647 --> 00:19:50,038
+when Anubis comes looking for more
+Naquadria, he won't respect any borders.
+
+232
+00:19:50,127 --> 00:19:53,642
+He will tear this planet apart
+piece by piece if he has to.
+
+233
+00:19:53,727 --> 00:20:00,041
+I won't approve any plan unless I have
+unanimous agreement from all parties.
+
+234
+00:20:07,127 --> 00:20:08,321
+My lord.
+
+235
+00:20:08,407 --> 00:20:11,763
+Have you found a way
+to overcome the Naquadria's instability?
+
+236
+00:20:11,847 --> 00:20:13,439
+I believe I have.
+
+237
+00:20:13,527 --> 00:20:19,602
+Then use it to power one of the ship's
+weapons arrays. I want it tested now.
+
+238
+00:20:19,687 --> 00:20:24,363
+- We will need to select a target.
+- How fortunate there is a city before us.
+
+239
+00:20:24,447 --> 00:20:27,086
+I am unsure of the power of this weapon.
+
+240
+00:20:27,167 --> 00:20:30,842
+The blast radius from one shot
+could encompass the entire city.
+
+241
+00:20:30,927 --> 00:20:33,236
+If it does,
+
+242
+00:20:33,327 --> 00:20:36,637
+you will have my congratulations.
+
+243
+00:20:47,727 --> 00:20:50,116
+Daniel, this is Sam. Come in.
+
+244
+00:20:50,767 --> 00:20:52,758
+- Go ahead.
+- Did you find Jonas?
+
+245
+00:20:52,847 --> 00:20:55,964
+Yeah. I'm still having trouble
+with the force field.
+
+246
+00:20:56,047 --> 00:20:58,845
+You're gonna have
+to find a way to cut the power.
+
+247
+00:20:58,927 --> 00:21:03,079
+- How do I do that?
+- Unsure. We've two hours to figure it out.
+
+248
+00:21:03,167 --> 00:21:06,125
+- What happens then?
+- Baal's fleet arrives.
+
+249
+00:21:07,207 --> 00:21:11,485
+I've got 15 minutes till this isotope wears
+out and I'm visible to the ship's sensors.
+
+250
+00:21:11,567 --> 00:21:15,355
+I'll have to get back to you.
+I've got company.
+
+251
+00:21:19,047 --> 00:21:21,038
+Kel nor shol ak'ra.
+
+252
+00:21:22,767 --> 00:21:24,405
+Reltac.
+
+253
+00:21:24,487 --> 00:21:27,559
+Tel shek anfar, tel nor moklan n'ral.
+
+254
+00:21:33,487 --> 00:21:35,478
+Jaffa!
+
+255
+00:21:37,727 --> 00:21:39,558
+Sarit.
+
+256
+00:21:44,647 --> 00:21:48,003
+Naquadria generator is online.
+We are ready.
+
+257
+00:21:48,087 --> 00:21:49,679
+Charge the weapon.
+
+258
+00:22:20,287 --> 00:22:23,962
+- My lord, the generator is overloading.
+- Abort the test.
+
+259
+00:22:26,047 --> 00:22:27,958
+I cannot abate the overload.
+
+260
+00:22:35,407 --> 00:22:37,398
+Jaffa, kree!
+
+261
+00:22:53,967 --> 00:22:57,516
+This makes no sense.
+I compensated for the instability.
+
+262
+00:22:59,087 --> 00:23:01,078
+Kill him!
+
+263
+00:23:14,607 --> 00:23:16,837
+Jonas!
+
+264
+00:23:16,927 --> 00:23:18,997
+- What happened?
+- I don't know.
+
+265
+00:23:19,087 --> 00:23:24,161
+Whatever it was, there's not enough
+power to maintain the force fields.
+
+266
+00:23:24,247 --> 00:23:25,839
+Agh!
+
+267
+00:23:25,927 --> 00:23:28,122
+- You OK?
+- That hurt.
+
+268
+00:23:28,207 --> 00:23:30,596
+- Your arm?
+- A little numb.
+
+269
+00:23:32,087 --> 00:23:33,281
+I think I can make it.
+
+270
+00:23:33,367 --> 00:23:38,043
+You better. I don't want to have to
+take you out of here in a dustpan.
+
+271
+00:23:42,127 --> 00:23:43,924
+Nice.
+
+272
+00:23:44,007 --> 00:23:46,805
+- How do we get off this thing?
+- Cargo ship.
+
+273
+00:23:46,887 --> 00:23:50,562
+- Which way?
+- Uh... this way.
+
+274
+00:23:50,647 --> 00:23:51,875
+- You sure?
+- No.
+
+275
+00:23:51,967 --> 00:23:53,161
+Right.
+
+276
+00:23:59,087 --> 00:24:01,237
+- Report.
+- We're in position,
+
+277
+00:24:01,327 --> 00:24:05,559
+but the Kelownans want more troops
+to deal with the Jaffa on the ground.
+
+278
+00:24:05,647 --> 00:24:08,605
+I can't authorise that
+without Pentagon approval.
+
+279
+00:24:08,687 --> 00:24:15,206
+Yes, sir, but I was thinking maybe I could
+take SGs 15 and 11 as technical advisors.
+
+280
+00:24:15,287 --> 00:24:19,439
+- What if Baal doesn't show up?
+- Could get a little screwy.
+
+281
+00:24:19,527 --> 00:24:23,440
+But we talked these folks into this.
+The least we can do is back 'em up.
+
+282
+00:24:23,527 --> 00:24:26,439
+- Agreed. Put your teams together.
+- Sir.
+
+283
+00:24:26,527 --> 00:24:28,324
+Anubis has superior shields,
+
+284
+00:24:28,407 --> 00:24:33,322
+but our intelligence says they're less than
+40% effective in a planet's atmosphere.
+
+285
+00:24:33,407 --> 00:24:36,160
+If Baal attacks while Anubis is weak,
+he has a chance.
+
+286
+00:24:36,247 --> 00:24:38,044
+That's not very reassuring.
+
+287
+00:24:38,127 --> 00:24:42,086
+We just heard Anubis's men
+are ransacking the Museum of Antiquities.
+
+288
+00:24:42,167 --> 00:24:46,206
+- Why would they do that?
+- They may still be looking for the gate.
+
+289
+00:24:46,287 --> 00:24:50,997
+No. Anubis is smart enough to know
+that it wouldn't be in a public place.
+
+290
+00:24:51,087 --> 00:24:53,078
+- What was in the museum?
+- Nothing.
+
+291
+00:24:53,167 --> 00:24:55,840
+The exhibit was put into storage
+when the war began.
+
+292
+00:24:55,927 --> 00:25:01,001
+- OK, what was in the exhibit?
+- Trinkets from the original Goa'uld sites -
+
+293
+00:25:01,087 --> 00:25:04,557
+- pottery, statues.
+- What about tablets?
+
+294
+00:25:05,487 --> 00:25:07,637
+Those were classified top secret
+
+295
+00:25:07,727 --> 00:25:11,276
+and given to the scientists
+working on our Naquadria project.
+
+296
+00:25:11,367 --> 00:25:13,722
+I'd like to see a list of exhibit objects.
+
+297
+00:25:13,807 --> 00:25:16,560
+Anubis is looking for something.
+I wanna know what.
+
+298
+00:25:19,407 --> 00:25:22,319
+Cargo bay should be down the next hall.
+How's your arm?
+
+299
+00:25:22,407 --> 00:25:24,398
+I can wiggle my fingers.
+
+300
+00:25:29,487 --> 00:25:34,880
+Those were all the Jaffa going into
+the cargo bay, which is just down the hall.
+
+301
+00:25:43,527 --> 00:25:45,518
+Eight men!
+
+302
+00:25:46,727 --> 00:25:49,116
+That's all you brought?
+
+303
+00:25:50,967 --> 00:25:52,639
+Eight good men.
+
+304
+00:25:52,727 --> 00:25:56,322
+There are over 1,000 alien soldiers
+in the city.
+
+305
+00:25:56,407 --> 00:26:00,605
+Their weapons are more powerful
+than anything our forces have ever seen.
+
+306
+00:26:00,687 --> 00:26:04,726
+- We don't stand a chance.
+- The main problem is the ship.
+
+307
+00:26:04,807 --> 00:26:07,640
+Once that's taken out,
+we can deal with the Jaffa.
+
+308
+00:26:07,727 --> 00:26:11,481
+Sir, I think I know
+why Anubis hasn't left yet.
+
+309
+00:26:11,567 --> 00:26:14,206
+He's looking for a crystal.
+
+310
+00:26:14,287 --> 00:26:18,200
+The Kelownan archaeologists found it,
+but they didn't know what it was.
+
+311
+00:26:18,287 --> 00:26:21,916
+They classified it as a decorative object
+and put it in the museum.
+
+312
+00:26:22,007 --> 00:26:24,123
+I don't understand. What is it?
+
+313
+00:26:24,207 --> 00:26:26,801
+The Goa'uld use crystals
+to store information.
+
+314
+00:26:26,887 --> 00:26:28,718
+What information?
+
+315
+00:26:28,807 --> 00:26:33,927
+The original Goa'uld who occupied this
+planet was experimenting with Naquadria,
+
+316
+00:26:34,007 --> 00:26:37,477
+but there are no details -
+no lab notes, no test results.
+
+317
+00:26:37,567 --> 00:26:41,116
+- You think that's what's on the crystal?
+- It makes sense.
+
+318
+00:26:41,207 --> 00:26:45,644
+Your people, not knowing its importance,
+never included it with the other material.
+
+319
+00:26:45,727 --> 00:26:47,843
+That's why Jonas never knew of it.
+
+320
+00:26:47,927 --> 00:26:53,240
+Sir, if Anubis gets ahold of this crystal, he
+could use it to make the Naquadria work.
+
+321
+00:26:53,327 --> 00:26:56,080
+Yeah, I get it.
+
+322
+00:26:56,167 --> 00:27:00,763
+- Where is it?
+- Everything was moved to a warehouse.
+
+323
+00:27:00,847 --> 00:27:03,441
+- I can take you there.
+- Wait!
+
+324
+00:27:04,007 --> 00:27:08,956
+If this is as important as you say, let me
+send a contingent to secure the building.
+
+325
+00:27:09,047 --> 00:27:12,926
+We don't want to draw
+any unnecessary attention to the place.
+
+326
+00:27:13,007 --> 00:27:15,680
+I'll go, sir. I know what to look for.
+
+327
+00:27:15,767 --> 00:27:17,758
+All right. Take Teal'c.
+
+328
+00:28:03,647 --> 00:28:05,922
+Looks like patrols are closing in.
+
+329
+00:28:06,007 --> 00:28:10,478
+And we've got one minute
+before the isotope wears off.
+
+330
+00:28:12,487 --> 00:28:17,481
+That planet you guys found me on was
+nice - people were simple, life was quiet.
+
+331
+00:28:17,567 --> 00:28:21,446
+- Why didn't you stay?
+- I couldn't remember what this was like.
+
+332
+00:28:21,527 --> 00:28:23,279
+It's fun, isn't it?
+
+333
+00:28:23,367 --> 00:28:25,358
+Yeah.
+
+334
+00:28:25,927 --> 00:28:29,158
+- If we get out of this...
+- You can keep the office.
+
+335
+00:28:29,247 --> 00:28:31,715
+Actually, I was talking about SG-1.
+
+336
+00:28:32,567 --> 00:28:36,082
+You took the position cos
+you felt guilty about what happened to me
+
+337
+00:28:36,167 --> 00:28:38,886
+and thought you'd make up for it
+by finishing my work...
+
+338
+00:28:38,967 --> 00:28:43,119
+- I love the job.
+- Who'd argue? Bad hours, constant peril.
+
+339
+00:28:43,207 --> 00:28:47,246
+On the bright side,
+you do get to travel a lot.
+
+340
+00:28:49,207 --> 00:28:51,596
+- You're very up.
+- Yeah.
+
+341
+00:28:53,327 --> 00:28:59,357
+Truth is, I don't think that Colonel O'Neill
+was very comfortable having me around.
+
+342
+00:28:59,447 --> 00:29:02,564
+That's not what he told me.
+He said you were a good man.
+
+343
+00:29:02,647 --> 00:29:07,721
+- Really? He said that?
+- Yeah. You're shocked he never let on?
+
+344
+00:29:09,727 --> 00:29:12,366
+Anyway, now that you're back...
+
+345
+00:29:12,447 --> 00:29:15,757
+Let's worry about getting out of here first.
+
+346
+00:29:15,847 --> 00:29:19,396
+- Rings?
+- What good's that? Nowhere to ring to.
+
+347
+00:29:19,487 --> 00:29:22,081
+We found a ring platform
+when we found the gate.
+
+348
+00:29:22,167 --> 00:29:28,242
+- So it hasn't been used in 2,000 years.
+- Well, let's see if it still works.
+
+349
+00:29:51,367 --> 00:29:53,756
+Looks like we got here first.
+
+350
+00:30:02,607 --> 00:30:03,801
+Jaffa, kree!
+
+351
+00:30:03,887 --> 00:30:10,156
+Two unauthorised personnel detected
+on sensors approaching your sector.
+
+352
+00:30:25,047 --> 00:30:28,835
+- This is hopeless.
+- It has to be here somewhere.
+
+353
+00:30:32,967 --> 00:30:34,559
+Major Carter.
+
+354
+00:30:37,607 --> 00:30:39,757
+Bingo.
+
+355
+00:30:42,327 --> 00:30:44,318
+Jaffa, kree!
+
+356
+00:30:48,767 --> 00:30:50,519
+Shel-norak.
+
+357
+00:31:00,327 --> 00:31:04,206
+- Do we know where it is we're going?
+- Not a clue.
+
+358
+00:31:10,927 --> 00:31:12,918
+Gal a'quel.
+
+359
+00:31:17,327 --> 00:31:18,726
+Argh!
+
+360
+00:31:34,247 --> 00:31:36,238
+- Nice timing.
+- Thanks.
+
+361
+00:31:36,327 --> 00:31:39,444
+- Jonas Quinn.
+- Ambassador.
+
+362
+00:31:39,527 --> 00:31:41,119
+- Where are we?
+- Warehouse,
+
+363
+00:31:41,207 --> 00:31:44,756
+where they keep Goa'uld artefacts,
+including a ring platform.
+
+364
+00:31:44,847 --> 00:31:49,841
+- And a crystal.
+- Let's go. There's more Jaffa on our tails.
+
+365
+00:31:53,887 --> 00:31:58,836
+Perimeter's clear. We've a visual on Major
+Robbin's position across the square.
+
+366
+00:31:58,927 --> 00:32:02,124
+OK, Sergeant. Sit tight. O'Neill out.
+
+367
+00:32:03,007 --> 00:32:05,202
+- Colonel.
+- Hey.
+
+368
+00:32:07,087 --> 00:32:11,080
+- Where'd you find them?
+- They dropped into the warehouse.
+
+369
+00:32:11,167 --> 00:32:14,637
+- Nice. The crystal?
+- Right here.
+
+370
+00:32:14,727 --> 00:32:16,843
+I'll take that.
+
+371
+00:32:16,927 --> 00:32:22,524
+- I think it'd be better if we held onto it.
+- I'm afraid I must insist.
+
+372
+00:32:44,847 --> 00:32:46,838
+What is this?
+
+373
+00:32:46,927 --> 00:32:49,361
+I've made a separate arrangement.
+
+374
+00:32:53,727 --> 00:32:59,563
+Put down your weapons, Colonel,
+or I will be forced to destroy these people.
+
+375
+00:33:15,247 --> 00:33:17,238
+The crystal.
+
+376
+00:33:20,207 --> 00:33:22,516
+You're an idiot, you know that?
+
+377
+00:33:22,607 --> 00:33:27,237
+In exchange for this, Anubis has agreed
+to leave Kelownan territory untouched.
+
+378
+00:33:27,327 --> 00:33:30,399
+Thus confirming my last statement.
+
+379
+00:33:30,487 --> 00:33:33,479
+He knows our Naquadria supplies
+are depleted,
+
+380
+00:33:33,567 --> 00:33:37,116
+but I believe he may find
+another mine on Tiranian territory.
+
+381
+00:33:37,207 --> 00:33:39,198
+That's a lie.
+
+382
+00:33:39,287 --> 00:33:41,926
+One of your scientists is a Kelownan spy.
+
+383
+00:33:42,007 --> 00:33:45,397
+You've been trying to build a bomb
+for the last three years.
+
+384
+00:33:45,487 --> 00:33:49,639
+But we didn't mine the Naquadria.
+We stole it from the Andaris.
+
+385
+00:33:49,727 --> 00:33:51,126
+What?
+
+386
+00:33:51,207 --> 00:33:54,438
+Don't you see what's happening here?
+
+387
+00:33:54,527 --> 00:33:56,882
+- He's using you against each other.
+- Enough!
+
+388
+00:33:56,967 --> 00:34:01,438
+You can't afford to fight. This planet
+is a target, not just Kelowna or Tirania.
+
+389
+00:34:01,527 --> 00:34:05,281
+- You have to stand together.
+- I said enough!
+
+390
+00:34:12,847 --> 00:34:16,806
+You've gotta start trusting each other,
+or you're all gonna become slaves.
+
+391
+00:34:16,887 --> 00:34:18,923
+If you're lucky.
+
+392
+00:34:22,287 --> 00:34:24,278
+The crystal.
+
+393
+00:34:28,447 --> 00:34:30,722
+Thank you.
+
+394
+00:34:49,407 --> 00:34:51,875
+As for the rest of you,
+
+395
+00:34:51,967 --> 00:34:58,645
+you'll be publicly executed, as an example
+to all those who would defy their god.
+
+396
+00:35:01,367 --> 00:35:04,359
+Does it have to be publicly?
+
+397
+00:35:09,407 --> 00:35:11,398
+I could kill you now.
+
+398
+00:35:13,087 --> 00:35:15,078
+Publicly's fine.
+
+399
+00:35:17,447 --> 00:35:19,438
+Jaffa!
+
+400
+00:35:52,447 --> 00:35:54,483
+Aargh!
+
+401
+00:36:02,607 --> 00:36:04,598
+Tel nor, hatak mal shee.
+
+402
+00:36:34,887 --> 00:36:38,243
+Your ship is at my mercy.
+You are defeated.
+
+403
+00:36:38,327 --> 00:36:40,318
+Surrender now.
+
+404
+00:36:55,527 --> 00:36:57,802
+Jaffa, kree!
+
+405
+00:36:57,887 --> 00:36:59,718
+Daniel!
+
+406
+00:37:02,167 --> 00:37:03,566
+Argh!
+
+407
+00:37:16,207 --> 00:37:18,198
+Jonas!
+
+408
+00:37:21,287 --> 00:37:23,084
+Agh!
+
+409
+00:37:24,367 --> 00:37:26,483
+I owe you one.
+
+410
+00:37:26,567 --> 00:37:29,001
+We'll call it even.
+
+411
+00:37:46,487 --> 00:37:50,162
+The last time you returned to Kelowna,
+you were considered a traitor.
+
+412
+00:37:50,247 --> 00:37:53,842
+- That will not be the case this time.
+- Are you sure?
+
+413
+00:37:53,927 --> 00:37:57,681
+The Andaris and Tiranians
+only participated in a joint ruling council
+
+414
+00:37:57,767 --> 00:38:00,520
+on condition you were
+the Kelownan representative.
+
+415
+00:38:00,607 --> 00:38:07,160
+Your year's experiences will be vital to our
+planet facing what awaits in our future.
+
+416
+00:38:07,247 --> 00:38:09,238
+We need you, Jonas.
+
+417
+00:38:10,687 --> 00:38:14,475
+Got everything packed?
+Toothbrush, slippers, hair gel?
+
+418
+00:38:15,207 --> 00:38:17,198
+Yes.
+
+419
+00:38:22,087 --> 00:38:23,600
+Sir.
+
+420
+00:38:23,687 --> 00:38:26,804
+- It was an honour, son.
+- Yes, it was.
+
+421
+00:38:30,607 --> 00:38:36,045
+When we first met you told me that
+the issues between my planet's nations
+
+422
+00:38:36,127 --> 00:38:41,599
+would seem insignificant once I found out
+what was really going on up there.
+
+423
+00:38:41,687 --> 00:38:43,917
+- Yeah, I remember that.
+- You do?
+
+424
+00:38:44,007 --> 00:38:45,804
+- Yeah.
+- That's great.
+
+425
+00:38:45,887 --> 00:38:48,447
+It's all kind of coming back.
+
+426
+00:38:48,527 --> 00:38:52,361
+- I'm glad I had the chance to find out.
+- Me, too.
+
+427
+00:38:58,447 --> 00:39:02,122
+You have the heart of a warrior,
+Jonas Quinn.
+
+428
+00:39:03,767 --> 00:39:05,598
+Continue to fight well.
+
+429
+00:39:11,207 --> 00:39:13,198
+Keep in touch.
+
+430
+00:39:18,247 --> 00:39:19,236
+Uh...
+
+431
+00:39:19,327 --> 00:39:21,522
+You earned it.
+
+432
+00:39:28,367 --> 00:39:30,358
+Thanks.
+
+433
+00:39:36,607 --> 00:39:38,598
+Hey, Daniel.
+
+434
+00:39:38,687 --> 00:39:40,678
+Feed my fish?
+
+435
+00:40:16,647 --> 00:40:19,036
+- You all right?
+- Yeah.
+
+436
+00:40:21,087 --> 00:40:23,601
+Well, dinner's at seven. Don't be late.
+
+437
+00:40:23,687 --> 00:40:28,477
+Teal'c gets a little cranky
+when his blood sugar gets low.
+
+438
+00:40:28,567 --> 00:40:31,365
+- Jack.
+- Yeah?
+
+439
+00:40:31,447 --> 00:40:36,601
+It's not that I mind rejoining SG-1
+and exploring the galaxy,
+
+440
+00:40:36,687 --> 00:40:42,523
+meeting new cultures, jeopardy,
+saving the world - that kind of thing.
+
+441
+00:40:42,607 --> 00:40:45,201
+We get paid for this, right?
+
+442
+00:40:49,407 --> 00:40:51,796
+Welcome back.
+
+443
+00:41:09,607 --> 00:41:14,203
+Visiontext Subtitles: Natasha Cohn
+
+444
+00:42:05,127 --> 00:42:07,118
+ENHOH – Rippé par BoRiF
+

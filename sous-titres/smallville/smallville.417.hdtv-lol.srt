@@ -1,0 +1,2603 @@
+1
+00:00:04,957 --> 00:00:07,603
+Etes-vous sûr d'avoir corrigé
+le problème, Dr. Sinclair ?
+
+2
+00:00:07,639 --> 00:00:09,487
+Absolument, M. Luthor.
+
+3
+00:00:10,252 --> 00:00:14,618
+Jusqu'ici, toutes les simulations ont été positives.
+L'augmentation progressive de la température à 98%
+
+4
+00:00:14,646 --> 00:00:17,624
+devrait éliminer les impuretés.
+
+5
+00:00:18,073 --> 00:00:20,918
+Six mois là-dessus, et tout ce qu'il fallait faire
+c'était de monter la température ?
+
+6
+00:00:22,279 --> 00:00:25,182
+Eh bien, ce n'est pas si simple, M. Luthor.
+
+7
+00:00:25,211 --> 00:00:28,462
+La composition de ces météorites
+est vraiment inhabituelle.
+
+8
+00:00:28,491 --> 00:00:31,013
+Calculer la température exacte a été un challenge.
+
+9
+00:00:31,032 --> 00:00:32,726
+Et j'espère que vous l'avez réussi.
+
+10
+00:00:32,748 --> 00:00:35,907
+Si ça fonctionne, je laisserai une marque
+sur le monde que personne n'oubliera jamais.
+
+11
+00:00:36,450 --> 00:00:38,648
+Ca ne fera pas de mal
+à votre compte bancaire, non plus.
+
+12
+00:00:42,597 --> 00:00:44,572
+Initialisation de la séquence.
+
+13
+00:00:46,697 --> 00:00:48,974
+Séquence thermique initialisée.
+
+14
+00:00:55,345 --> 00:00:56,990
+Rendement thermique croissant.
+
+15
+00:00:57,539 --> 00:00:58,898
+70%.
+
+16
+00:00:59,399 --> 00:01:00,874
+Allez, allez...
+
+17
+00:01:00,902 --> 00:01:03,776
+On approche de la température de réaction optimale.
+
+18
+00:01:03,795 --> 00:01:06,733
+Ouverture des échantillons à irradier.
+
+19
+00:01:12,101 --> 00:01:15,457
+Les graines test sont exposées aux radiations.
+
+20
+00:01:15,599 --> 00:01:16,714
+90%.
+
+21
+00:01:17,319 --> 00:01:19,427
+Le niveau d'absorption est comme prévu.
+
+22
+00:01:20,663 --> 00:01:24,614
+Les graines test sont soumises à une
+stimulation moléculaire irrégulière..
+
+23
+00:01:24,643 --> 00:01:26,240
+95%.
+
+24
+00:01:27,119 --> 00:01:30,196
+98%. L'objectif de puissance à été atteint.
+
+25
+00:01:30,668 --> 00:01:33,512
+L'activité moléculaire
+dépasse le modèle de référence.
+
+26
+00:01:33,559 --> 00:01:36,196
+Le niveau de température continue d'augmenter.
+
+27
+00:01:36,225 --> 00:01:38,738
+- Le niveau de température dépasse les paramètres de sécurité.
+- Que se passe-t'il ?
+
+28
+00:01:38,766 --> 00:01:41,564
+La température est en train de grimper,
+elle dépasse l'objectif ciblé.
+
+29
+00:01:41,593 --> 00:01:42,442
+Eteignez le.
+
+30
+00:01:42,461 --> 00:01:43,548
+J'essaye, monsieur.
+J'essaye.
+
+31
+00:01:43,576 --> 00:01:46,667
+Le niveau de température
+dépasse les paramètres de sécurité.
+
+32
+00:01:47,150 --> 00:01:48,465
+Sortez d'ici !
+
+33
+00:02:20,391 --> 00:02:21,732
+Doc, vous allez bien ?
+
+34
+00:02:29,935 --> 00:02:31,664
+J'appelle ça un échec.
+
+35
+00:02:32,364 --> 00:02:34,888
+Venez Dr. Sinclair,
+je vous conduis dans un hôpital.
+
+36
+00:02:53,538 --> 00:02:58,968
+Smallville - Saison 4 Episode 17
+"Onyx"
+
+37
+00:02:59,000 --> 00:03:04,508
+Traduction par Windcharger, Nicow et Bara
+Synchro par Kiff
+
+38
+00:03:04,547 --> 00:03:10,005
+Merci à Malone
+
+39
+00:03:10,064 --> 00:03:15,515
+www.forom.com
+
+40
+00:03:44,609 --> 00:03:45,701
+Lex, tu vas bien ?
+
+41
+00:03:45,724 --> 00:03:46,535
+Clark,
+
+42
+00:03:46,909 --> 00:03:48,089
+Je vais bien.
+
+43
+00:03:48,277 --> 00:03:49,817
+Comment savais-tu que j'étais ici ?
+
+44
+00:03:49,996 --> 00:03:53,922
+Une des tes infirmières est une amie à moi.
+Elle a dit qu'il y avait eu une explosion à Luthorcorp ?
+
+45
+00:03:53,940 --> 00:03:54,813
+Que s'est-il passé ?
+
+46
+00:03:56,006 --> 00:03:57,857
+Nous étions en train de mener une expérience.
+
+47
+00:03:57,894 --> 00:03:59,463
+Eh bien, je suppose que
+ça ne s'est pas bien passé.
+
+48
+00:03:59,491 --> 00:04:02,664
+Pas exactement comme je l'espèrais,
+Mais ça valait le coup d'être tenté.
+
+49
+00:04:02,843 --> 00:04:04,411
+Je suis sûre que ça l'était...
+
+50
+00:04:05,163 --> 00:04:07,239
+pour les comptes de Luthorcorp.
+
+51
+00:04:07,567 --> 00:04:08,973
+Pour le monde , Chloé.
+
+52
+00:04:09,894 --> 00:04:11,722
+Ecoutez, pourquoi ne viendriez vous pas
+tous les deux avec moi au labo,
+
+53
+00:04:11,758 --> 00:04:14,640
+et je vous montrerais sur quoi le Dr. Sinclair
+et moi étions en train de travailler ?
+
+54
+00:04:19,315 --> 00:04:21,325
+Je pense vraiment que vous allez aimer ça.
+
+55
+00:04:24,622 --> 00:04:26,044
+Très bien, allons-y.
+
+56
+00:04:26,392 --> 00:04:31,229
+Clark, attends, je ne prends aucune histoire d'un Luthor
+pour argent comptant sans confirmation.
+
+57
+00:04:31,257 --> 00:04:35,192
+Donc, je vais aller parler au Dr. Sinclair
+et voir ce qu'il a à dire là-dessus.
+
+58
+00:04:35,251 --> 00:04:37,740
+Ok. Je vais aller vérifier le labo avec Lex.
+
+59
+00:04:37,787 --> 00:04:41,521
+Fais attention, ok ?
+Je veux dire, qu'importe ce qu'il dit,
+
+60
+00:04:41,556 --> 00:04:44,220
+les expériences de Luthorcorp
+ne finissent jamais bien.
+
+61
+00:04:56,505 --> 00:04:57,557
+Waouh...
+
+62
+00:04:58,613 --> 00:05:00,562
+On dirait que ça fait mal.
+
+63
+00:05:01,771 --> 00:05:03,286
+Que s'est il passé ?
+
+64
+00:05:04,472 --> 00:05:06,869
+Eh bien, j'espérais que
+vous pourriez me le dire.
+
+65
+00:05:07,785 --> 00:05:09,793
+Il y a eu une explosion.
+
+66
+00:05:09,922 --> 00:05:12,928
+Vous vous souvenez de
+quelque chose après l'accident ?
+
+67
+00:05:13,292 --> 00:05:15,179
+Rien d'inhabituel ?
+
+68
+00:05:15,547 --> 00:05:17,743
+Comme quoi ?
+
+69
+00:05:18,541 --> 00:05:20,479
+Comme voir deux "moi" ?
+
+70
+00:05:22,404 --> 00:05:23,529
+Quoi ?
+
+71
+00:05:23,588 --> 00:05:28,120
+Je pense que l'explosion a causé
+une sorte de séparation...
+
+72
+00:05:28,707 --> 00:05:31,948
+une division au niveau moléculaire.
+Je ne sais pas, mais...
+
+73
+00:05:32,112 --> 00:05:34,730
+je me suis vu, Docteur.
+
+74
+00:05:35,904 --> 00:05:38,781
+J'ai vu un autre Lex Luthor.
+
+75
+00:05:40,871 --> 00:05:42,127
+Mon Dieu.
+
+76
+00:05:43,501 --> 00:05:45,580
+Et pour renverser le processus ?
+
+77
+00:05:46,222 --> 00:05:49,440
+Y a-t'il un moyen de forcer
+les deux "moi" à revenir ensemble ?
+
+78
+00:05:49,733 --> 00:05:53,361
+Mes notes de recherche
+sont dans le laboratoire. Si...
+
+79
+00:05:53,441 --> 00:05:55,790
+si je les avais,
+
+80
+00:05:55,825 --> 00:06:00,134
+je pourrais peut-être trouver un moyen
+de renverser le processus.
+
+81
+00:06:04,764 --> 00:06:06,689
+Je vais retourner au labo
+
+82
+00:06:07,523 --> 00:06:09,331
+chercher les notes.
+
+83
+00:06:14,110 --> 00:06:15,532
+Pendant ce temps,
+
+84
+00:06:18,702 --> 00:06:20,710
+pourquoi ne prendriez-vous pas
+un peu de repos ?
+
+85
+00:06:42,721 --> 00:06:43,636
+Lex ?
+
+86
+00:06:44,726 --> 00:06:45,421
+Chloé.
+
+87
+00:06:45,456 --> 00:06:47,497
+Je pensais que tu retournais au labo avec Clark.
+
+88
+00:06:47,626 --> 00:06:50,385
+Eh bien , je voulais juste voir
+le Dr. sinclair d'abord.
+
+89
+00:06:50,420 --> 00:06:52,111
+Hum. Il allait bien ?
+
+90
+00:06:52,616 --> 00:06:54,201
+Il ne sent rien.
+
+91
+00:06:54,964 --> 00:06:57,615
+Eh bien, j'espérais que
+je pourrais peut-être lui parler.
+
+92
+00:06:57,979 --> 00:07:00,668
+Eh bien, il dort maintenant.
+
+93
+00:07:02,288 --> 00:07:06,091
+Peut-être que tu devrais revenir plus tard...
+Quand il se sentira un peu plus "vivant".
+
+94
+00:07:06,100 --> 00:07:06,700
+Ok.
+
+95
+00:07:06,723 --> 00:07:11,116
+Code bleu, chambre 213.
+Code bleu, chambre 213.
+
+96
+00:07:20,264 --> 00:07:22,435
+Il est en arrêt cardiaque.
+Défibrillateur.
+
+97
+00:07:34,582 --> 00:07:37,717
+C'est sur ça que portent tes
+expérimentations secrètes... le jardinage ?
+
+98
+00:07:37,752 --> 00:07:38,950
+Non, Clark,
+
+99
+00:07:39,114 --> 00:07:40,852
+C'est à propos du futur.
+
+100
+00:07:41,251 --> 00:07:43,200
+Celles-ci ont grandi dans du sable,
+
+101
+00:07:43,247 --> 00:07:45,640
+avec seulement quelques
+gouttes d'eau pour l'irrigation.
+
+102
+00:07:47,307 --> 00:07:50,935
+Si  mon père plantait un peu de ça,
+il n'aurait plus jamais à s'inquièter de la moisson.
+
+103
+00:07:50,971 --> 00:07:52,873
+Avant  qu'elle n'arrive sur ta table.
+
+104
+00:07:54,278 --> 00:07:55,194
+Goûte la.
+
+105
+00:07:57,225 --> 00:07:59,879
+Elles ont poussé à partir de graines irradiées.
+
+106
+00:08:02,028 --> 00:08:04,362
+- Quelque chose ne va pas. Elle a une goût de...
+- ...pourri ?
+
+107
+00:08:04,632 --> 00:08:06,194
+Et  c'est contre ça que nous avons lutté.
+
+108
+00:08:06,229 --> 00:08:09,493
+Tu  vois, nous avons réussi à détruire les gènes
+qui rendaient cette plante faible,
+
+109
+00:08:09,526 --> 00:08:12,462
+en lui donnant la capacité de se développer
+dans les conditions les plus difficiles.
+
+110
+00:08:12,521 --> 00:08:16,207
+Mais le processus affecte aussi les fruits
+qu'il porte, et pas pour le mieux.
+
+111
+00:08:17,476 --> 00:08:20,074
+C'est ça que vous tentiez de résoudre
+quand l'explosion est arrivée ?
+
+112
+00:08:20,637 --> 00:08:25,146
+Dr. Sinclair pensait qu'augmenter la température
+de la réaction résoudrait le problème.
+
+113
+00:08:25,639 --> 00:08:29,690
+Nous l'avons poussée plus loin que nous ne l'avions jamais fait,
+Clark, mais la météorite est devenue instable.
+
+114
+00:08:29,732 --> 00:08:31,704
+Quoi, tu travailles encore sur les météorites ?
+
+115
+00:08:31,751 --> 00:08:34,251
+Si je peux trouver un moyen
+pour que ça marche,
+
+116
+00:08:34,286 --> 00:08:37,762
+Luthorcorp pourra mettre un terme
+à la faim et à la famine pour toujours.
+
+117
+00:08:38,032 --> 00:08:42,333
+J'espère qu'il y a quelque chose dans les notes du Dr. Sinclair
+qui pourrait expliquer exactement ce qui n'allait pas.
+
+118
+00:08:50,975 --> 00:08:52,243
+Clark, tu vas bien ?
+
+119
+00:08:52,572 --> 00:08:53,413
+Ouais, euh...
+
+120
+00:08:54,047 --> 00:08:56,889
+Je ne pense pas que cette pomme passe
+vraiment bien. Je vais t'attendre dehors.
+
+121
+00:09:15,178 --> 00:09:16,047
+Lex.
+
+122
+00:09:17,573 --> 00:09:19,968
+Je n'ai pas oublié.
+Je sais que je...
+
+123
+00:09:20,074 --> 00:09:23,747
+je ne suis pas le bienvenu ici, mais j'ai entendu
+qu'il y avait eu un accident à Luthorcorp,
+
+124
+00:09:23,794 --> 00:09:26,213
+et j'ai voulu être sûr que tu allais bien.
+
+125
+00:09:26,295 --> 00:09:27,774
+Je vais bien, papa.
+
+126
+00:09:28,432 --> 00:09:30,308
+Merci de t'en inquièter.
+
+127
+00:09:32,058 --> 00:09:33,373
+Eh bien, je suis...
+
+128
+00:09:34,770 --> 00:09:37,682
+Je  suis content que tu sois
+en un seul morceau.
+
+129
+00:09:38,929 --> 00:09:41,501
+Désolé, je suis navré pour l'intrusion.
+
+130
+00:09:41,571 --> 00:09:42,593
+Papa...
+
+131
+00:09:45,798 --> 00:09:47,900
+Tu prévois toujours ton...
+
+132
+00:09:47,935 --> 00:09:49,977
+gala de charité samedi ?
+
+133
+00:09:50,012 --> 00:09:50,869
+Oui.
+
+134
+00:09:51,785 --> 00:09:55,836
+Je dois dire que c'est
+un défi intéressant d'essayer...
+
+135
+00:09:55,871 --> 00:10:00,542
+de réunir de riches donateurs devant un buffet
+de salades et de poulet au gingembre.
+
+136
+00:10:01,106 --> 00:10:04,593
+Ca pourrait aider si le patron de Luthorcorp
+promettait de faire une apparition ?
+
+137
+00:10:05,556 --> 00:10:06,469
+Vraiment  ?
+
+138
+00:10:06,750 --> 00:10:08,065
+Tu ferais ça ?
+
+139
+00:10:08,876 --> 00:10:10,602
+A une condition.
+
+140
+00:10:11,369 --> 00:10:12,456
+Oh.
+
+141
+00:10:13,713 --> 00:10:18,595
+Tu organises l'évènement au dernier étage
+du Luthorcorp Plaza à Métropolis.
+
+142
+00:10:19,793 --> 00:10:23,879
+J'irai même parler avec quelques
+riches donateurs réticents.
+
+143
+00:10:24,384 --> 00:10:26,938
+C'est très généreux de ta part.
+
+144
+00:10:27,450 --> 00:10:29,768
+Oh, tu dois te moquer de moi.
+
+145
+00:10:33,517 --> 00:10:38,032
+J'admets que j'avais quelques doutes à propos
+des motifs de ta philanthropie soudaine,
+
+146
+00:10:38,437 --> 00:10:42,514
+mais je peux voir la joie que te procure
+le fait d'aider les moins fortunés.
+
+147
+00:10:43,074 --> 00:10:44,107
+Papa, je suis...
+
+148
+00:10:46,160 --> 00:10:47,698
+Je suis fier de toi.
+
+149
+00:10:54,526 --> 00:10:56,358
+Merci, Lex.
+
+150
+00:10:58,166 --> 00:10:59,892
+Je te suis vraiment reconnaissant.
+
+151
+00:11:02,322 --> 00:11:03,690
+Pour tout.
+
+152
+00:11:29,180 --> 00:11:31,399
+Un travail étonnant, n'est-ce pas ?
+
+153
+00:11:33,700 --> 00:11:34,874
+Bonjour, moi.
+
+154
+00:11:40,155 --> 00:11:41,998
+Rencontre avec ton vrai toi.
+
+155
+00:12:02,300 --> 00:12:05,224
+Eh bien, je ne peux pas
+te laisser libre, n'est-ce pas ?
+
+156
+00:12:05,811 --> 00:12:07,021
+Qui êtes-vous ?
+
+157
+00:12:07,232 --> 00:12:11,341
+Eh bien, c'est la question avec laquelle
+je me bats depuis des années.
+
+158
+00:12:11,834 --> 00:12:14,570
+Hé, tu te souviens de la dernière fois
+que nous étions dans cette pièce ?
+
+159
+00:12:15,439 --> 00:12:19,466
+Papa nous avait dit de ne pas jouer ici, mais
+je t'ai murmuré à l'oreille de le faire quand même ?
+
+160
+00:12:19,877 --> 00:12:21,665
+La porte s'est claquée,
+
+161
+00:12:23,144 --> 00:12:25,305
+m'enfermant ici.
+Personne ne pouvait m'entendre.
+
+162
+00:12:25,457 --> 00:12:27,888
+Tu avais si peur.
+
+163
+00:12:29,379 --> 00:12:30,865
+un enfant peureux,
+
+164
+00:12:31,053 --> 00:12:33,108
+et tremblant.
+
+165
+00:12:34,270 --> 00:12:36,278
+Je t'ai détesté pour ça.
+
+166
+00:12:36,501 --> 00:12:37,781
+Mon Dieu...
+
+167
+00:12:38,239 --> 00:12:39,481
+Tu es moi.
+
+168
+00:12:39,516 --> 00:12:41,372
+Non, Lex.
+
+169
+00:12:41,571 --> 00:12:43,614
+Je suis plus, beaucoup plus.
+
+170
+00:12:52,234 --> 00:12:54,007
+l'explosion dans le labo...
+
+171
+00:12:54,042 --> 00:12:55,792
+...m'a libéré de ta faiblesse.
+
+172
+00:12:56,343 --> 00:12:59,157
+Enfin, je peux accomplir ma vraie destinée.
+
+173
+00:13:03,454 --> 00:13:06,202
+Ouais ! Allez ! Allez !
+Tu peux le faire !
+
+174
+00:13:06,460 --> 00:13:08,386
+Arrête moi !
+Allez !
+
+175
+00:13:12,833 --> 00:13:14,383
+Tu me déçois.
+
+176
+00:13:16,919 --> 00:13:18,363
+Comme toujours.
+
+177
+00:13:18,809 --> 00:13:21,252
+Si je suis un tel fardeau,
+pourquoi ne pas juste me tuer ?
+
+178
+00:13:22,687 --> 00:13:24,824
+Rien ne me rendrait plus heureux.
+
+179
+00:13:25,235 --> 00:13:28,839
+Malheureusement, je ne sais pas
+ce qui m'arriverait si tu mourrais.
+
+180
+00:13:28,966 --> 00:13:31,255
+Sommes-nous d'une façon ou d'une autre
+toujours connectés ?
+
+181
+00:13:31,526 --> 00:13:36,011
+Ou je cesserai d'exister
+quand tu pousseras ton dernier souffle ?
+
+182
+00:13:38,747 --> 00:13:41,029
+Je ne suis pas pressé de tenter ma chance.
+
+183
+00:13:41,605 --> 00:13:43,965
+Tu ne peux pas me garder
+enfermé ici pour toujours.
+
+184
+00:13:44,000 --> 00:13:44,975
+Pourquoi ?
+
+185
+00:13:46,114 --> 00:13:48,920
+Personne n'entendait nos cris
+quand nous étions enfant.
+
+186
+00:13:48,967 --> 00:13:50,914
+Personne ne pourra entendre
+les tiens maintenant.
+
+187
+00:13:52,170 --> 00:13:54,154
+Comme dans cette histoire
+d'Alexandre Dumas.
+
+188
+00:13:54,201 --> 00:13:56,832
+Ca a toujours été une
+de nos favorites, n'est-ce pas ?
+
+189
+00:13:56,890 --> 00:14:00,358
+Le roi Louis XIV emprisonne
+son frère jumeau dans la Bastille,
+
+190
+00:14:00,393 --> 00:14:03,540
+le forçant à vivre jusqu'à la fin de ses jours
+
+191
+00:14:04,315 --> 00:14:06,640
+derrière un masque de fer.
+
+192
+00:14:07,908 --> 00:14:08,648
+Non.
+
+193
+00:14:10,221 --> 00:14:13,755
+Tu vois, la plupart des gens pensent que Louis XIV a fait ça
+pour cacher la vraie identité de son frère, mais...
+
+194
+00:14:13,791 --> 00:14:15,188
+nous savons bien.
+
+195
+00:14:16,961 --> 00:14:22,482
+Il l'a fait parce qu'il ne pouvait pas rester à regarder
+un si pâle reflet de sa propre grandeur.
+
+196
+00:14:22,531 --> 00:14:23,863
+Ne fais pas ça...
+
+197
+00:14:25,865 --> 00:14:27,351
+Non ! Non !
+
+198
+00:14:36,349 --> 00:14:37,910
+Sch, sch, sch...
+
+199
+00:14:39,918 --> 00:14:42,334
+C'est bon d'être le roi.
+
+200
+00:14:52,211 --> 00:14:55,698
+Je pense qu'il est temps pour moi de montrer
+au monde le vrai Lex Luthor.
+
+201
+00:15:11,352 --> 00:15:12,162
+Chloé.
+
+202
+00:15:12,326 --> 00:15:13,207
+Salut.
+
+203
+00:15:13,442 --> 00:15:15,943
+Il était temps...
+Plutôt lent pour un quarterback !
+
+204
+00:15:15,978 --> 00:15:18,937
+Ex-quarterback. Qu'est-ce qui se passe ?
+
+205
+00:15:19,160 --> 00:15:20,416
+Le docteur Sinclair.
+
+206
+00:15:20,522 --> 00:15:23,150
+Il a dit quelque chose
+sur l'explosion à Luthorcorp ?
+
+207
+00:15:23,373 --> 00:15:24,559
+Il n'a pas pu.
+
+208
+00:15:25,263 --> 00:15:26,649
+Il est mort, Clark.
+
+209
+00:15:26,801 --> 00:15:28,643
+Quoi ? Qu'est-ce qui s'est passé ?
+
+210
+00:15:28,678 --> 00:15:29,923
+Arrêt cardiaque.
+
+211
+00:15:29,958 --> 00:15:32,987
+Chez un homme sans aucun antécédent cardiaque.
+
+212
+00:15:34,020 --> 00:15:35,500
+Eh bien, je ferai mieux d'aller en parler à Lex.
+
+213
+00:15:35,532 --> 00:15:38,116
+Je pense qu'il est déjà au courant.
+
+214
+00:15:38,280 --> 00:15:42,131
+Je lui suis rentrée dedans quand il sortait de la chambre
+du docteur Sinclair, juste avant qu'il meure.
+
+215
+00:15:42,296 --> 00:15:43,352
+Quand ?
+
+216
+00:15:44,022 --> 00:15:45,800
+Juste après ton départ pour le labo.
+
+217
+00:15:46,446 --> 00:15:48,900
+Qu... Chloé, j'étais avec Lex.
+
+218
+00:15:49,052 --> 00:15:51,271
+On est allés au labo ensemble.
+
+219
+00:15:51,976 --> 00:15:56,258
+C'est-à-dire au moment où je parlais à Lex
+devant la chambre du docteur Sinclair.
+
+220
+00:15:56,293 --> 00:15:57,585
+Mais c'est impossible.
+
+221
+00:15:57,620 --> 00:16:01,154
+Pas à Smallville. Tu devrais le savoir
+mieux que quiconque.
+
+222
+00:16:02,716 --> 00:16:03,702
+Tu sais...
+
+223
+00:16:04,207 --> 00:16:06,757
+Avec tous les trucs bizarres que tu as vus.
+
+224
+00:16:08,307 --> 00:16:10,291
+Il doit y avoir un moyen de remettre les choses en ordre.
+
+225
+00:16:10,336 --> 00:16:13,306
+Oui, l'hôpital de Smallville a un système de surveillance
+
+226
+00:16:13,342 --> 00:16:17,850
+qu'à  ta connaissance, je n'ai jamais piraté,
+parce que ce serait mal.
+
+227
+00:16:18,461 --> 00:16:20,149
+Ca prendra un petit moment.
+
+228
+00:16:20,349 --> 00:16:21,934
+Appelle-moi si tu trouves quoi que ce soit.
+
+229
+00:16:34,969 --> 00:16:35,838
+Lex.
+
+230
+00:16:37,447 --> 00:16:39,406
+Qu'est-ce que tu fais ici ?
+
+231
+00:16:40,779 --> 00:16:43,961
+Je viens de recevoir un texto
+qui disait que tu voulais me voir.
+
+232
+00:16:44,466 --> 00:16:47,284
+Donc tu es entré sans frapper ?
+
+233
+00:16:47,496 --> 00:16:48,679
+Désolé...
+
+234
+00:16:49,266 --> 00:16:51,098
+Tu veux que je parte ?
+
+235
+00:16:51,673 --> 00:16:56,041
+Non, non, euh, c'est bon,
+tu m'as juste un peu surprise.
+
+236
+00:16:56,605 --> 00:16:59,151
+Je fais ça à beaucoup de gens.
+
+237
+00:17:02,344 --> 00:17:04,693
+Alors, qu'est-ce que je peux faire
+pour Mlle Lang cet après-midi ?
+
+238
+00:17:04,716 --> 00:17:06,768
+Je voulais te parler de Jason.
+
+239
+00:17:08,084 --> 00:17:08,917
+Oh.
+
+240
+00:17:09,680 --> 00:17:10,538
+Lui.
+
+241
+00:17:12,181 --> 00:17:17,693
+Je, euh, j'apprécie vraiment tout ce que tu m'as
+déjà dit à propos de Jason et sa mère,
+
+242
+00:17:17,716 --> 00:17:18,667
+euh,
+
+243
+00:17:18,738 --> 00:17:20,640
+mais tu penses vraiment...
+
+244
+00:17:20,675 --> 00:17:22,319
+Ce que je pense, Lana,
+
+245
+00:17:23,341 --> 00:17:25,337
+c'est que tu mérites mieux.
+
+246
+00:17:28,124 --> 00:17:31,388
+Tu mérites d'être avec quelqu'un qui
+
+247
+00:17:31,693 --> 00:17:35,685
+comprenne vraiment combien tu es extraordinaire.
+
+248
+00:17:43,971 --> 00:17:45,944
+Lex, qu'est-ce que tu fais ?
+
+249
+00:17:47,623 --> 00:17:49,745
+Ce que j'ai toujours voulu faire.
+
+250
+00:17:55,828 --> 00:17:58,035
+J'aime les filles qui ont du cran.
+
+251
+00:17:58,223 --> 00:18:00,524
+Sors de mon appartement.
+
+252
+00:18:01,510 --> 00:18:03,589
+Si c'est comme ça que tu veux que ça se passe.
+
+253
+00:18:04,951 --> 00:18:07,710
+Oh, à propos, je vais fermer le Talon.
+
+254
+00:18:08,033 --> 00:18:08,949
+Quoi ?
+
+255
+00:18:09,301 --> 00:18:11,051
+Tu ne peux pas faire ça.
+
+256
+00:18:12,037 --> 00:18:14,902
+Hmm... Je pense que si.
+
+257
+00:18:15,372 --> 00:18:18,331
+Lex, c'est ma maison. Où veux-tu que j'aille ?
+
+258
+00:18:18,367 --> 00:18:20,281
+Ca, c'est à toi de voir, non ?
+
+259
+00:18:21,161 --> 00:18:24,408
+Lana, tu pourrais avoir
+une vie de reine à mes côtés,
+
+260
+00:18:24,466 --> 00:18:27,619
+ou bien finir avec les ordures...
+
+261
+00:18:28,700 --> 00:18:30,321
+Pourquoi tu n'y réfléchis pas un peu ?
+
+262
+00:18:36,743 --> 00:18:38,434
+Moi, en tout cas, je vais le faire.
+
+263
+00:18:59,558 --> 00:19:00,263
+Lex,
+
+264
+00:19:00,826 --> 00:19:03,034
+Qu'est-ce qui se passe ?
+Qu'est-ce que tu fais ?
+
+265
+00:19:03,057 --> 00:19:05,065
+Je saisis le moment présent, papa.
+
+266
+00:19:07,707 --> 00:19:09,291
+Comme tu me l'as appris.
+
+267
+00:19:10,747 --> 00:19:12,602
+Demain, même heure ?
+
+268
+00:19:22,407 --> 00:19:25,284
+Bon, quel problème je te cause
+cette fois, vieil homme ?
+
+269
+00:19:25,319 --> 00:19:28,919
+C'était ton idée de tenir une collecte de fonds
+sur la place Luthorcorp,
+
+270
+00:19:28,973 --> 00:19:32,581
+ensuite tu annules tout le projet dans mon dos.
+Pourquoi ferais-tu ça ?
+
+271
+00:19:32,633 --> 00:19:37,945
+"Parce qu'aider ceux qui refusent de s'aider eux-mêmes
+c'est une perte de temps et d'argent, fils !"
+
+272
+00:19:38,555 --> 00:19:41,444
+N'est-ce  pas ce que l'ancien Lionel Luthor aimait dire ?
+
+273
+00:19:41,491 --> 00:19:44,579
+J'ai changé. Les gens changent, Lex...
+
+274
+00:19:44,708 --> 00:19:48,321
+Ils ne changent pas, ils se ramollissent... comme toi.
+
+275
+00:19:48,730 --> 00:19:50,303
+D'accord, papa,
+
+276
+00:19:50,655 --> 00:19:54,084
+je te laisse tenir ta petite soirée de charité.
+
+277
+00:19:54,190 --> 00:19:56,103
+Je ferai même une généreuse contribution.
+
+278
+00:19:56,139 --> 00:19:59,486
+Et qu'est-ce que je devrai faire en échange
+de cette contribution, hein ?
+
+279
+00:20:05,873 --> 00:20:06,484
+Ah...
+
+280
+00:20:11,782 --> 00:20:14,401
+Je  veux que tu prouves
+que tu mérites toujours d'être mon père.
+
+281
+00:20:14,424 --> 00:20:15,998
+Tu es devenu fou ? Lex...
+
+282
+00:20:16,021 --> 00:20:18,523
+Non. Juste curieux.
+
+283
+00:20:18,558 --> 00:20:20,296
+Je ne me battrai pas avec toi...
+
+284
+00:20:20,930 --> 00:20:23,548
+Lex ! Arrête !
+Lex ! Arrête !
+
+285
+00:20:25,873 --> 00:20:29,545
+Cette transformation miraculeuse en homme de bien
+est-elle vraiment sincère,
+
+286
+00:20:29,592 --> 00:20:31,048
+ou est-ce seulement de la comédie ?
+
+287
+00:20:31,084 --> 00:20:34,559
+Lex, arrête ! Arrête tout de suite !
+Lex ! Arrête !
+
+288
+00:20:35,968 --> 00:20:39,429
+Est-ce qu'au moins tu connais la réponse à cette question,
+ou est-ce que tu as peur de te la poser ?
+
+289
+00:20:39,465 --> 00:20:43,539
+Qu'as-tu en tête, papa ? Seulement des petits chiots
+et des câlins, ou y a-t-il quelque chose d'autre
+
+290
+00:20:43,574 --> 00:20:46,906
+qui bout dans tes entrailles,
+languissant d'être à nouveau libre ?
+
+291
+00:20:56,343 --> 00:20:58,947
+Je savais bien que tu étais toujours là
+quelque part, père.
+
+292
+00:21:13,435 --> 00:21:15,467
+Tu aurais du rester en prison.
+
+293
+00:21:17,063 --> 00:21:19,115
+Tu étais plus à l'abri là-bas.
+
+294
+00:21:48,171 --> 00:21:49,040
+Lana ?
+
+295
+00:21:52,973 --> 00:21:54,030
+Est-ce que ça va ?
+
+296
+00:21:54,699 --> 00:21:55,474
+Ouais.
+
+297
+00:21:59,587 --> 00:22:00,479
+Non.
+
+298
+00:22:01,031 --> 00:22:01,912
+Euh,
+
+299
+00:22:03,321 --> 00:22:06,491
+tu savais que Lex allait faire fermer le Talon ?
+
+300
+00:22:06,843 --> 00:22:07,771
+Non.
+
+301
+00:22:09,027 --> 00:22:10,357
+Qui t'a dit ça ?
+
+302
+00:22:10,392 --> 00:22:11,613
+Lui-même.
+
+303
+00:22:11,930 --> 00:22:14,161
+Je l'ai vu hier soir. Il n'en a pas parlé du tout.
+
+304
+00:22:14,196 --> 00:22:18,045
+Clark, quand je, euh... quand je suis rentrée,
+il était dans mon appartement.
+
+305
+00:22:18,679 --> 00:22:19,912
+La manière dont il agissait...
+C'était...
+
+306
+00:22:20,475 --> 00:22:22,648
+c'était comme s'il était quelqu'un d'autre.
+
+307
+00:22:23,340 --> 00:22:24,982
+Peut-être que c'était le cas.
+
+308
+00:22:26,073 --> 00:22:29,244
+Tu penses qu'il a encore
+des problèmes psychologiques ?
+
+309
+00:22:30,876 --> 00:22:33,048
+C'est plus compliqué que ça.
+
+310
+00:22:35,197 --> 00:22:36,900
+Ca l'est toujours, non ?
+
+311
+00:22:38,192 --> 00:22:40,188
+Tu penses connaître quelqu'un,
+
+312
+00:22:40,223 --> 00:22:43,029
+mais il a toujours un côté que tu ne vois jamais...
+
+313
+00:22:44,818 --> 00:22:46,391
+jusqu'à ce qu'il soit trop tard.
+
+314
+00:22:53,401 --> 00:22:55,841
+Eh bien, tu as certainement déjà vu le pire de moi-même.
+
+315
+00:22:56,815 --> 00:22:58,530
+Et le meilleur.
+
+316
+00:23:01,756 --> 00:23:02,651
+Lana...
+
+317
+00:23:07,521 --> 00:23:08,402
+Allo ?
+
+318
+00:23:08,449 --> 00:23:09,330
+Clark,
+
+319
+00:23:09,582 --> 00:23:12,245
+J'ai trouvé des vidéos de surveillance avec Lex et moi
+
+320
+00:23:12,280 --> 00:23:14,957
+discutant  devant la chambre du docteur Sinclair.
+
+321
+00:23:15,239 --> 00:23:16,472
+Et...
+
+322
+00:23:17,458 --> 00:23:20,065
+de toi et Lex quittant l'hôpital.
+
+323
+00:23:20,253 --> 00:23:21,767
+Et l'heure de ces vidéos ?
+
+324
+00:23:24,984 --> 00:23:26,358
+C'est la même.
+
+325
+00:23:27,767 --> 00:23:31,501
+Il semblerait que notre milliardaire préféré
+ait une espèce de double personnalité.
+
+326
+00:23:31,787 --> 00:23:32,691
+Ouais.
+
+327
+00:23:33,502 --> 00:23:34,547
+Merci.
+
+328
+00:23:45,952 --> 00:23:46,821
+Lex.
+
+329
+00:23:48,793 --> 00:23:49,979
+Je dois te parler.
+
+330
+00:23:51,541 --> 00:23:53,079
+C'est important.
+
+331
+00:23:55,260 --> 00:23:57,819
+J'ai toujours un peu de temps pour un ami, Clark.
+
+332
+00:23:58,160 --> 00:23:59,545
+Qu'est-ce qui te tracasse ?
+
+333
+00:24:01,283 --> 00:24:02,892
+De quoi avons nous parlé hier soir ?
+
+334
+00:24:04,310 --> 00:24:06,581
+De beaucoup de choses...
+
+335
+00:24:06,898 --> 00:24:08,167
+le futur...
+
+336
+00:24:10,034 --> 00:24:11,932
+changer le monde...
+
+337
+00:24:11,979 --> 00:24:14,562
+le remodeler en un endroit meilleur.
+
+338
+00:24:16,487 --> 00:24:18,601
+Ensuite tu as eu un malaise.
+
+339
+00:24:19,517 --> 00:24:20,961
+Tu as dit que ça venait de la pomme.
+
+340
+00:24:22,491 --> 00:24:23,653
+C'est vrai.
+
+341
+00:24:25,579 --> 00:24:27,586
+Clark, quel est le problème ?
+
+342
+00:24:28,432 --> 00:24:30,745
+Il fallait que je sois sûr
+de la personne à qui je parle.
+
+343
+00:24:32,714 --> 00:24:33,583
+Quoi ?
+
+344
+00:24:34,956 --> 00:24:38,714
+Lex, le docteur Sinclair est mort.
+Quelqu'un l'a assassiné.
+
+345
+00:24:42,342 --> 00:24:44,729
+Clark, qui oserait faire une chose pareille ?
+
+346
+00:24:44,905 --> 00:24:46,114
+Eh bien, toi.
+
+347
+00:24:47,852 --> 00:24:49,003
+Enfin, je veux dire...
+
+348
+00:24:50,330 --> 00:24:52,222
+quelqu'un qui te ressemble.
+
+349
+00:24:58,880 --> 00:25:00,418
+Où as-tu eu ça ?
+
+350
+00:25:00,755 --> 00:25:04,289
+Chloé les a extraites du système
+de surveillance de l'hôpital.
+
+351
+00:25:04,335 --> 00:25:06,456
+Elle t'a vu sortir de la chambre du docteur Sinclair
+
+352
+00:25:06,519 --> 00:25:08,712
+au même moment où nous partions pour Luthorcorp.
+
+353
+00:25:08,757 --> 00:25:10,660
+Comment est-ce possible ?
+
+354
+00:25:11,249 --> 00:25:14,784
+Quelque chose a dû se passer quand la météorite
+a explosé au cours de ton expérience.
+
+355
+00:25:14,837 --> 00:25:16,269
+Qu'est-ce que tu veux dire...
+
+356
+00:25:16,342 --> 00:25:19,079
+Cet autre Lex est une espèce de clone ?
+
+357
+00:25:19,151 --> 00:25:21,707
+Je pense que c'est une partie de toi qui s'est séparée.
+
+358
+00:25:22,922 --> 00:25:26,507
+Je vais réunir l'équipe de sécurité.
+Va chercher Chloé, et retrouvez-moi au labo.
+
+359
+00:25:26,580 --> 00:25:28,302
+Comment saurai-je que c'est toi ?
+
+360
+00:25:30,858 --> 00:25:33,827
+On peut toujours essayer une poignée de main secrête.
+
+361
+00:25:34,044 --> 00:25:37,543
+Mais j'aime à penser que tu me connais mieux
+que quiconque après toutes ces années.
+
+362
+00:25:38,359 --> 00:25:40,824
+Clark, toute cette histoire est de ma faute.
+
+363
+00:25:40,987 --> 00:25:43,180
+Mais j'y mettrai un terme ce soir.
+
+364
+00:25:47,038 --> 00:25:49,576
+Je tiens à vous remercier tous les deux
+pour m'avoir informé de tout ceci.
+
+365
+00:25:49,612 --> 00:25:52,067
+Mon équipe de sécurité se charge déjà
+de contenir la situation.
+
+366
+00:25:52,095 --> 00:25:53,587
+Est-ce qu'on peut t'aider ?
+
+367
+00:25:53,615 --> 00:25:54,351
+Excusez-moi.
+
+368
+00:25:55,173 --> 00:25:56,022
+Allo ?
+
+369
+00:25:57,504 --> 00:25:58,845
+J'arrive dans une minute.
+
+370
+00:25:59,704 --> 00:26:01,535
+Ca pourrait bien être ce que j'espérais.
+
+371
+00:26:01,582 --> 00:26:04,653
+Je reviens tout de suite.
+Ne vous en faites pas, tout ceci sera bientôt fini.
+
+372
+00:26:05,899 --> 00:26:08,344
+Gardez un oeil ouvert,
+pour mon équipe de sécurité.
+
+373
+00:26:11,863 --> 00:26:13,061
+Chloé, qu'est-ce que tu fais ?
+
+374
+00:26:13,297 --> 00:26:15,232
+Je  fouine dans les affaires des autres.
+
+375
+00:26:15,273 --> 00:26:17,026
+Je pense même faire carrière là-dedans.
+
+376
+00:26:17,057 --> 00:26:18,888
+Lex a dit qu'il revenait tout de suite.
+
+377
+00:26:18,926 --> 00:26:20,729
+Comment peux-tu être certain que c'était vraiment lui ?
+
+378
+00:26:21,805 --> 00:26:24,559
+J'ai été prudent. De plus,
+j'estime que je connais mon ami, Chloé.
+
+379
+00:26:24,588 --> 00:26:29,487
+Clark, combien de fois ton ami a-t-il fait des choses
+en douce auxquelles tu ne t'attendais pas ?
+
+380
+00:26:29,836 --> 00:26:33,441
+Les gens ont beaucoup de personnalités différentes,
+et parfois, ils les cachent,
+
+381
+00:26:33,469 --> 00:26:35,234
+même à ceux qu'ils aiment.
+
+382
+00:26:37,207 --> 00:26:39,897
+Parfois on y est forcé,
+même si ce n'est pas ce que l'on veut.
+
+383
+00:26:39,926 --> 00:26:43,997
+Oui, mais tôt ou tard on doit trouver quelqu'un
+en qui on a assez confiance pour lui dire.
+
+384
+00:26:44,035 --> 00:26:46,829
+Sinon, on risque de passer sa vie seul.
+
+385
+00:27:07,663 --> 00:27:08,361
+Clark.
+
+386
+00:27:09,249 --> 00:27:10,127
+Clark.
+
+387
+00:27:11,083 --> 00:27:12,395
+Qu'est-ce que tu as trouvé ?
+
+388
+00:27:29,273 --> 00:27:31,078
+Situation maîtrisée.
+
+389
+00:27:49,430 --> 00:27:50,327
+Chloé.
+
+390
+00:27:50,834 --> 00:27:51,814
+Chloé ?
+
+391
+00:28:05,804 --> 00:28:07,881
+Tu devrais aller à l'hôpital.
+
+392
+00:28:07,928 --> 00:28:11,121
+C'est ça, ça a vraiment bien
+fonctionné pour le Dr. Sinclair.
+
+393
+00:28:11,157 --> 00:28:13,977
+Clark, je vais bien, ok ?
+Cependant,
+
+394
+00:28:14,225 --> 00:28:17,977
+je ne comprends toujours pas
+comment j'ai survécu au ciel me tombant sur la tête,
+
+395
+00:28:18,012 --> 00:28:18,992
+et toi ?
+
+396
+00:28:20,750 --> 00:28:25,293
+La dernière chose dont je me souvienne c'est de
+t'avoir attrapée, puis de nous être jetés sous la table.
+
+397
+00:28:26,520 --> 00:28:28,774
+Elle a du nous protéger des débris.
+
+398
+00:28:30,355 --> 00:28:33,101
+Heureusement que notre
+ex-quarterback est si rapide.
+
+399
+00:28:33,856 --> 00:28:35,803
+Oui, mais pas assez rapide.
+
+400
+00:28:37,396 --> 00:28:38,258
+Clark,
+
+401
+00:28:38,871 --> 00:28:42,659
+Je peux vivre avec quelques bleus,
+considérant la situation.
+
+402
+00:28:44,532 --> 00:28:46,998
+Tu as toujours été là
+quand j'étais en danger, Clark.
+
+403
+00:28:48,284 --> 00:28:51,045
+J'espère qu'un jour je pourrai
+faire la même chose pour toi.
+
+404
+00:28:52,146 --> 00:28:54,435
+Maintenant je veux être sûr que tu sois en sécurité.
+
+405
+00:28:56,217 --> 00:28:59,614
+Je peux... Je peux rester avec Lois
+au campement militaire.
+
+406
+00:28:59,649 --> 00:29:01,714
+Parfait. Bien que,
+
+407
+00:29:01,750 --> 00:29:04,345
+restant entre elle et le général
+pendant qu'ils se réconcilient
+
+408
+00:29:04,385 --> 00:29:06,462
+peut être aussi dangereux.
+
+409
+00:29:06,981 --> 00:29:08,515
+Fait attention, ok ?
+
+410
+00:29:08,668 --> 00:29:12,379
+Lex peut être encore imité. On ne sait pas
+ce que ce mauvais jumeau est capable de faire.
+
+411
+00:29:12,414 --> 00:29:13,535
+Joins moi sur mon portable.
+
+412
+00:29:19,305 --> 00:29:21,440
+Ok. Mais si tu le vois, appelle moi.
+
+413
+00:29:21,479 --> 00:29:22,683
+Et fais attention à toi.
+
+414
+00:29:23,202 --> 00:29:24,948
+Lex n'est pas vraiment lui-même.
+
+415
+00:29:24,984 --> 00:29:27,898
+Il est plus dangereux que nous le pensions.
+Merci, lana.
+
+416
+00:29:28,323 --> 00:29:30,439
+C'est ce que tu penses de moi, clark ?
+
+417
+00:29:30,922 --> 00:29:32,138
+Je suis blessé.
+
+418
+00:29:32,633 --> 00:29:34,179
+Je pensais que nous étions amis.
+
+419
+00:29:36,397 --> 00:29:37,616
+Où est Lex ?
+
+420
+00:29:41,262 --> 00:29:43,114
+Il se tient juste devant toi.
+
+421
+00:29:43,162 --> 00:29:44,566
+Non, tu n'es pas lui.
+
+422
+00:29:44,955 --> 00:29:47,771
+Le vrai Lex n'essayerait jamais
+de me tuer moi, ou Chloé.
+
+423
+00:29:47,807 --> 00:29:50,119
+Et bien, tu as probablement raison.
+
+424
+00:29:50,155 --> 00:29:52,019
+Mais il y a pensé.
+
+425
+00:29:53,541 --> 00:29:57,909
+Toutes les fois où tu t'es mêlé de ses plans...
+déraillé ses ambitions.
+
+426
+00:29:57,957 --> 00:30:01,532
+Il a pensé à tous vous tuer,
+il n'a jamais eu le cran de le reconnaître.
+
+427
+00:30:01,838 --> 00:30:02,994
+Qu'est-ce que tu es ?
+
+428
+00:30:03,891 --> 00:30:06,688
+J'allais justement te poser la question.
+
+429
+00:30:09,626 --> 00:30:13,130
+J'ai fait tomber la moitié du labo
+sur toi et Miss Sullivan, et pourtant,
+
+430
+00:30:13,590 --> 00:30:15,073
+tu es la.
+
+431
+00:30:15,647 --> 00:30:16,874
+J'ai eu de la chance.
+
+432
+00:30:18,077 --> 00:30:21,664
+Ne sois pas modeste, Clark.
+Nous savons tous les deux que tu es plus que ça.
+
+433
+00:30:23,930 --> 00:30:26,045
+Tout prend un sens maintenant.
+
+434
+00:30:26,340 --> 00:30:29,266
+Ce premier jour sur le pont
+quand on s'est rencontré...
+
+435
+00:30:29,313 --> 00:30:32,759
+Comment as-tu été capable de me sauver
+alors que ma voiture fonçait dans la rivière.
+
+436
+00:30:33,148 --> 00:30:35,865
+Et toutes les miraculeuses fois où tu es apparu
+
+437
+00:30:35,913 --> 00:30:38,839
+juste au bon endroit et
+juste au bon moment...
+
+438
+00:30:39,146 --> 00:30:43,799
+presque comme si tu possèdais des pouvoirs et
+des capacités que n'importe quel mortel n'a pas.
+
+439
+00:30:46,229 --> 00:30:48,624
+Tu m'as menti pendant des années, Clark.
+
+440
+00:30:51,216 --> 00:30:53,316
+Mais maintenant, je connais ton secret.
+
+441
+00:30:54,968 --> 00:30:56,455
+Je ne sais pas de quoi tu parles.
+
+442
+00:30:56,490 --> 00:30:57,473
+Ne dis pas ça !
+
+443
+00:30:58,771 --> 00:31:01,402
+Je t'ai vu après l'explosion.
+
+444
+00:31:01,461 --> 00:31:05,060
+Tu as soulevé la moitié d'une tonne de béton
+comme si ce n'était rien.
+
+445
+00:31:06,924 --> 00:31:09,811
+J'aurais dû m'en apercevoir depuis longtemps.
+
+446
+00:31:10,236 --> 00:31:12,773
+Toutes les pièces étaient là.
+J'étais juste...
+
+447
+00:31:13,138 --> 00:31:15,097
+aveuglé par l'amitié.
+
+448
+00:31:15,239 --> 00:31:18,063
+Un facteur qui est à retirer de l'équation.
+
+449
+00:31:18,900 --> 00:31:20,588
+Quoi que tu sois,
+
+450
+00:31:21,496 --> 00:31:23,585
+quoi que tu aies prévu, je t'arrêterai.
+
+451
+00:31:23,715 --> 00:31:25,512
+Non, tu n'en feras rien.
+
+452
+00:31:26,267 --> 00:31:28,191
+Tu vas te joindre à moi.
+
+453
+00:31:28,226 --> 00:31:29,040
+Quoi ?
+
+454
+00:31:29,193 --> 00:31:30,763
+Penses-y, Clark.
+
+455
+00:31:30,810 --> 00:31:33,087
+Mon intelligence, tes pouvoirs.
+
+456
+00:31:33,123 --> 00:31:35,439
+Ensemble, nous pouvons contrôler le monde.
+
+457
+00:31:35,687 --> 00:31:38,436
+Nous marcherons comme
+des dieux parmi les hommes.
+
+458
+00:31:38,920 --> 00:31:41,445
+Tu n'es pas un dieu. Je ne suis
+même pas sûr que tu sois humain.
+
+459
+00:31:42,271 --> 00:31:43,176
+L'es-tu ?
+
+460
+00:31:45,878 --> 00:31:47,542
+Est-ce que le vrai Lex est toujours vivant ?
+
+461
+00:31:47,577 --> 00:31:50,079
+Oh... tu n'as toujours pas saisi, non ?
+
+462
+00:31:50,126 --> 00:31:52,037
+Je suis le vrai Lex !
+
+463
+00:31:52,073 --> 00:31:53,654
+Est-il toujours vivant ?
+
+464
+00:31:54,018 --> 00:31:55,128
+En quelque sorte.
+
+465
+00:31:57,499 --> 00:32:01,594
+Je veux dire que je ne suis pas sûr
+de ce qu'il se passera si je le tue, donc...
+
+466
+00:32:01,629 --> 00:32:03,977
+Je l'ai caché quelque part
+où je peux garder un oeil sur lui.
+
+467
+00:32:04,130 --> 00:32:06,954
+Peut-être le torturer un peu
+quand je me sentirai triste.
+
+468
+00:32:08,629 --> 00:32:09,774
+Où est-il ?
+
+469
+00:32:10,104 --> 00:32:11,260
+Où est-il ?
+
+470
+00:32:15,362 --> 00:32:17,037
+Qu'est-ce qu'il y a, Clark ?
+
+471
+00:32:18,394 --> 00:32:20,093
+Tu m'as l'air un peu malade.
+
+472
+00:32:21,444 --> 00:32:24,689
+Comme dans le labo
+quand tu étais avec l'autre moi...
+
+473
+00:32:25,291 --> 00:32:28,229
+quand il a ouvert la porte sécurisée
+et t'a exposé...
+
+474
+00:32:28,878 --> 00:32:30,200
+aux météorites.
+
+475
+00:32:39,841 --> 00:32:42,555
+Chaque homme a ses faiblesses, Clark...
+
+476
+00:32:43,403 --> 00:32:45,975
+tout comme les surhumains, je suppose.
+
+477
+00:32:46,424 --> 00:32:48,300
+Je vais accomplir ma destinée.
+
+478
+00:32:49,244 --> 00:32:51,238
+Maintenant accomplis la tienne.
+
+479
+00:32:51,462 --> 00:32:54,023
+Nous pourrons forger
+un nouveau futur ensemble.
+
+480
+00:32:54,542 --> 00:32:55,934
+Je ne me joindrai jamais à toi.
+
+481
+00:32:55,996 --> 00:32:57,625
+Si, tu le feras.
+
+482
+00:32:57,861 --> 00:33:00,834
+Sinon, chaque personne que tu aimes souffrira !
+
+483
+00:33:12,655 --> 00:33:13,576
+Clark !
+
+484
+00:33:13,764 --> 00:33:14,697
+Maman !
+
+485
+00:33:14,897 --> 00:33:15,868
+Fiston !
+
+486
+00:33:17,603 --> 00:33:18,476
+Papa !
+
+487
+00:33:18,511 --> 00:33:19,726
+Oh, mon dieu, Clark !
+
+488
+00:33:21,603 --> 00:33:22,842
+Tu saignes !
+
+489
+00:33:23,491 --> 00:33:26,126
+Je pense que ça ne doit pas
+arriver très souvent.
+
+490
+00:33:26,173 --> 00:33:27,247
+Lex...
+
+491
+00:33:28,710 --> 00:33:30,079
+Qu'est-ce que tu as fait ?
+
+492
+00:33:32,556 --> 00:33:34,253
+Je dois tenir ça de vous, les gars.
+
+493
+00:33:34,301 --> 00:33:36,837
+Je veux dire, garder des secrets.
+
+494
+00:33:37,003 --> 00:33:40,637
+Ca doit demander une impressionnante
+capacité pour voiler la vérité.
+
+495
+00:33:41,522 --> 00:33:44,688
+Peut-être que les Kent et les Luthor
+ont quelque chose en commun après tout.
+
+496
+00:33:48,617 --> 00:33:49,538
+Ouais !
+
+497
+00:33:50,187 --> 00:33:52,535
+Je suis au courant à propos
+des météorites vertes.
+
+498
+00:33:52,724 --> 00:33:54,830
+et des dons de Clark.
+
+499
+00:33:54,877 --> 00:33:56,022
+Qu'est-ce que tu veux ?
+
+500
+00:33:56,057 --> 00:33:58,062
+Le monde, Mme. Kent.
+
+501
+00:33:58,134 --> 00:34:00,494
+Et votre fils m'aidera à le mettre à genoux.
+
+502
+00:34:00,528 --> 00:34:03,939
+Maintenant parlez lui dans ce sens avant que
+quelque chose de malheureux n'arrive !
+
+503
+00:34:06,134 --> 00:34:07,161
+Comme ça.
+
+504
+00:34:07,326 --> 00:34:08,435
+Papa ?
+
+505
+00:34:17,339 --> 00:34:19,876
+Vous aviez raison à mon sujet
+depuis le début, M. Kent.
+
+506
+00:34:22,778 --> 00:34:25,177
+Je suis le méchant de l'histoire.
+
+507
+00:34:32,667 --> 00:34:34,118
+Deux Lex ?
+
+508
+00:34:34,708 --> 00:34:36,885
+Mais comment c'est arrivé ?
+
+509
+00:34:37,339 --> 00:34:41,021
+Il y a eu un accident à Luthorcorp,
+et je pense que Lex a été infecté...
+
+510
+00:34:42,071 --> 00:34:43,817
+par de la kryptonite noire.
+
+511
+00:34:44,396 --> 00:34:46,697
+Comment Lex a t-il réussi
+à obtenir la kryptonite noire ?
+
+512
+00:34:46,733 --> 00:34:50,272
+Je pense qu'il ne sait rien à propos de la kryptonite noire,
+je pense qu'il l'a accidentellement créée,
+
+513
+00:34:50,308 --> 00:34:52,503
+quand il expérimentait les météorites.
+
+514
+00:34:53,105 --> 00:34:55,642
+C'est comme ça que je pourrai
+rassembler les deux Lex.
+
+515
+00:34:55,677 --> 00:34:56,515
+Comment ?
+
+516
+00:34:57,412 --> 00:35:00,244
+La copie de Lex dans la grange,
+il a dit qu'il gardait le vrai Lex en vie,
+
+517
+00:35:00,279 --> 00:35:03,111
+enfermé quelque part en sécurité...
+et si je peux le trouver...
+
+518
+00:35:03,276 --> 00:35:04,259
+Clark !
+
+519
+00:35:23,743 --> 00:35:24,604
+Lex.
+
+520
+00:35:39,395 --> 00:35:40,268
+Clark...
+
+521
+00:35:40,304 --> 00:35:41,425
+N'essaye pas de parler.
+
+522
+00:35:41,460 --> 00:35:42,203
+Vas-t'en.
+
+523
+00:35:42,239 --> 00:35:44,127
+Non, ça va aller, d'accord ?
+
+524
+00:35:45,377 --> 00:35:46,357
+Vas-t'en.
+
+525
+00:35:52,107 --> 00:35:54,302
+Le héros vient au secours.
+
+526
+00:35:54,727 --> 00:35:56,591
+Etait-ce prévisible ?
+
+527
+00:35:57,417 --> 00:35:59,061
+Laisse le partir.
+
+528
+00:35:59,686 --> 00:36:02,447
+Je commence vraiment à détester
+le son de ma propre voix.
+
+529
+00:36:04,913 --> 00:36:08,551
+Je t'offre une chance,
+et c'est ce que tu en fais ?
+
+530
+00:36:10,663 --> 00:36:12,603
+Je veux que tu te souviennes de ce jour, Clark.
+
+531
+00:36:12,778 --> 00:36:15,318
+Je veux que tu te souviennes
+qu'en dépit de tous tes fabuleux pouvoirs,
+
+532
+00:36:15,373 --> 00:36:17,363
+il y a un homme qui t'a battu .
+
+533
+00:36:29,082 --> 00:36:31,253
+Peut-être que c'était notre destinée.
+
+534
+00:36:31,832 --> 00:36:32,952
+Comme c'est triste.
+
+535
+00:36:34,894 --> 00:36:37,426
+Voyons ce qui m'arrive si tu meurs !
+
+536
+00:36:41,596 --> 00:36:43,319
+Tu ne peux pas me tuer !
+
+537
+00:36:44,381 --> 00:36:45,780
+Je te commande !
+
+538
+00:36:46,700 --> 00:36:48,376
+Je donne un sens à ta vie.
+
+539
+00:36:49,367 --> 00:36:52,683
+Je suis ton âme, tu es faible,
+pathétique, petit homme !
+
+540
+00:36:52,730 --> 00:36:55,011
+Je suis le vrai Lex Luthor !
+
+541
+00:37:19,896 --> 00:37:20,793
+Lex !
+
+542
+00:37:24,318 --> 00:37:25,191
+Lex.
+
+543
+00:37:29,731 --> 00:37:31,394
+C'est bon. C'est passé maintenant.
+
+544
+00:37:50,424 --> 00:37:52,605
+Plus grand chose à voir, non ?
+
+545
+00:37:54,493 --> 00:37:56,759
+Les rêves sont rarement brisés.
+
+546
+00:37:59,201 --> 00:38:00,074
+Clark...
+
+547
+00:38:01,871 --> 00:38:04,632
+Je veux te remercier pour
+m'avoir sauvé la vie, mais...
+
+548
+00:38:05,541 --> 00:38:07,511
+les mots semblent trop petits.
+
+549
+00:38:08,597 --> 00:38:10,667
+Sans toi, je serais sûrement perdu.
+
+550
+00:38:11,540 --> 00:38:13,050
+Tu es un véritable ami.
+
+551
+00:38:14,147 --> 00:38:16,555
+Dommage que ton autre moitié
+ne le pense pas.
+
+552
+00:38:17,475 --> 00:38:19,449
+Je suis désolé pour ce que j'ai...
+
+553
+00:38:19,945 --> 00:38:21,514
+ce qu'il a fait.
+
+554
+00:38:23,461 --> 00:38:25,573
+De quoi tu te souviens ?
+
+555
+00:38:26,293 --> 00:38:27,791
+Rien, vraiment.
+
+556
+00:38:28,384 --> 00:38:31,145
+Depuis notre division, nous étions
+des personnes différentes.
+
+557
+00:38:31,971 --> 00:38:34,684
+Eh bien, tu peux aller parler à Lana
+tant que tu as une chance.
+
+558
+00:38:35,656 --> 00:38:37,245
+Il ne l'a pas blessée, non ?
+
+559
+00:38:37,284 --> 00:38:39,290
+Eh bien, je ne suis pas sûr
+de ce qui s'est passé, mais...
+
+560
+00:38:39,762 --> 00:38:41,461
+elle semble vraiment fâchée.
+
+561
+00:38:44,145 --> 00:38:46,900
+Ne sois pas si dur avec toi même.
+Ce n'était pas vraiment toi.
+
+562
+00:38:48,230 --> 00:38:51,251
+C'est pourquoi je restais ici
+à tenter de comprendre.
+
+563
+00:38:52,824 --> 00:38:56,057
+Est-ce que cet accident
+a créé un nouveau Lex...
+
+564
+00:38:57,827 --> 00:39:00,222
+ou c'est ce qu'il y a
+à l'intérieur de moi ?
+
+565
+00:39:08,380 --> 00:39:09,136
+Salut.
+
+566
+00:39:11,047 --> 00:39:11,806
+Salut.
+
+567
+00:39:18,071 --> 00:39:21,612
+De toutes mes maladresses,
+celle-ci est définitivement mémorable.
+
+568
+00:39:27,877 --> 00:39:30,060
+Chloé a comblé les trous
+à propos de ce qui s'est passé.
+
+569
+00:39:34,217 --> 00:39:37,191
+J'aimerais pouvoir me souvenir exactement
+de ce que mon autre moitié a fait,
+
+570
+00:39:37,238 --> 00:39:39,503
+alors je pourrais m'excuser correctement.
+
+571
+00:39:41,073 --> 00:39:44,522
+J'espère juste que ce n'est pas quelque chose
+que nous ne pourrons pas surmonter.
+
+572
+00:39:45,383 --> 00:39:48,888
+Aussi longtemps que tu ne fermes pas
+le Talon et que tu ne me vires pas...
+
+573
+00:39:50,433 --> 00:39:51,613
+J'ai dit ça ?
+
+574
+00:39:54,032 --> 00:39:57,277
+Ainsi que tu as exprimé certains...
+
+575
+00:39:57,631 --> 00:39:58,823
+désirs.
+
+576
+00:40:01,360 --> 00:40:03,415
+Lana, je suis désolé.
+
+577
+00:40:04,406 --> 00:40:06,766
+- Ce n'était pas moi.
+- Es-tu sûr ?
+
+578
+00:40:09,916 --> 00:40:12,146
+Quels que soient mes sentiments,
+
+579
+00:40:13,301 --> 00:40:16,475
+je n'ai jamais rien fait
+pour mettre en péril notre amitié.
+
+580
+00:40:19,743 --> 00:40:20,652
+Je sais.
+
+581
+00:40:35,305 --> 00:40:37,087
+Je suis vraiment désolé.
+
+582
+00:40:50,271 --> 00:40:51,463
+Et moi donc.
+
+583
+00:40:58,820 --> 00:41:01,027
+En train de planifier
+ta future attaque, mon fils ?
+
+584
+00:41:01,416 --> 00:41:02,278
+Papa...
+
+585
+00:41:02,596 --> 00:41:03,670
+ta joue...
+
+586
+00:41:03,788 --> 00:41:04,550
+Eh bien,
+
+587
+00:41:04,845 --> 00:41:07,830
+C'est l'appel du réveil, et je t'en suis reconnaissant.
+
+588
+00:41:08,550 --> 00:41:09,482
+Ecoute,
+
+589
+00:41:10,107 --> 00:41:12,562
+Quoi que j'aie fait ces derniers jours...
+
+590
+00:41:12,601 --> 00:41:16,129
+S'il te plait, pas besoin d'excuses.
+Ne t'inquiète pas.
+
+591
+00:41:23,275 --> 00:41:27,227
+Je dois dire que tu as finalement prouvé
+par toi-même que tu es le fils que je cherchais.
+
+592
+00:41:27,499 --> 00:41:32,266
+Et je te remercie de m'avoir clairement
+montré l'erreur de mes choix.
+
+593
+00:41:34,468 --> 00:41:36,368
+De quoi tu parles ?
+
+594
+00:41:40,958 --> 00:41:43,766
+Je ferme la fondation immédiatement.
+
+595
+00:41:44,580 --> 00:41:45,376
+Quoi ?
+
+596
+00:41:47,229 --> 00:41:49,624
+Tu ne peux pas.
+La charité, c'est ta vie.
+
+597
+00:41:49,660 --> 00:41:52,845
+Ha, ha, ha !
+Juste un rêve imprudent.
+
+598
+00:41:52,893 --> 00:41:54,371
+Je suis réveillé maintenant.
+
+599
+00:41:59,209 --> 00:42:02,755
+Un homme ne peut dénier
+sa veritable nature, n'est-ce pas Lex ?
+
+600
+00:42:06,932 --> 00:42:08,088
+Non...
+
+601
+00:42:08,654 --> 00:42:10,082
+nous sommes des Luthor.
+
+602
+00:42:17,532 --> 00:42:19,018
+Nous sommes des Luthor.
+

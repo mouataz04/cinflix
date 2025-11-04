@@ -1,0 +1,333 @@
+{185}{245}COTE D'IVOIRE, AFRIQUE DE L'OUEST
+{245}{365}Je suis venue chercher|ce en quoi je ne croyais pas.
+{445}{512}J'ai persisté, maIgré moi.
+{515}{610}MaIgré tout ce que j'avais|toujours tenu pour vrai.
+{687}{817}Je continuerai autant que je Ie peux.|Tant que tu seras hanté par Ia maIadie
+{820}{907}que j'ai vue consumer ta si beIIe âme.
+{910}{1075}Qu'ai-je découvert? Comment réconciIier|ce que je vois et ce que je sais?
+{1075}{1200}Ce n'était pas fait pour que je Ie découvre|mais pour que tu I'expIiques,
+{1200}{1307}que tu fasses ce Iien|que personne ne peut ignorer.
+{1310}{1417}Ce Iien qui, à mes yeux, défie toute Iogique.
+{1522}{1632}QueIIe est cette source de pouvoir|que je tiens dans ma main, ce dessin?
+{1635}{1735}Cette simpIe empreinte|prise sur Ia surface du vaisseau.
+{1737}{1825}Je t'ai regardé tomber en son pouvoir,
+{1827}{1907}succomber à sa spiraIe hypnotique.
+{1910}{2027}A présent, je dois découvrir|ce que ta maIadie t'empêche de trouver.
+{2030}{2125}L'origine d'une maIadie|cache toujours son remède.
+{2510}{2587}Qui est Ià?
+{4615}{4670}ACTIVITE PARANORMALE
+{4785}{4850}LE GOUVERNEMENT NOUS MENT
+{5255}{5315}LA VERITE EST AILLEURS
+{5392}{5530}II est caIme depuis 36 heures,|mais iI ne dort pas.
+{5530}{5640}On n'ajamais vu une teIIe activité|dans Ie Iobe temporeI.
+{5642}{5750}EIIe empêche son cerveau de se reposer|ou de se mettre en veiIIe,
+{5752}{5870}ce qui provoque en Iui des accès|de vioIence, parfois contre Iui-même.
+{5872}{5955}Vous ne pouvez pas Ie droguer?
+{5955}{6045}Parfois, on diminue Ia dose|et on Ie met en neuroIogie.
+{6047}{6120}C'est Ia seuIe façon de I'examiner.
+{6120}{6220}Mais avec Ie temps, son cerveau va mourir.
+{6555}{6605}Agent MuIder?
+{6887}{6952}Vous m'entendez?
+{7047}{7110}Savez-vous qui je suis?
+{7140}{7200}WaIter Skinner.
+{7340}{7420}On peut au moins Iui faire prendre I'air?
+{7465}{7550}Lâchez-Ie! II ne respire pIus!
+{7795}{7867}Lâchez-moi. Je ne vous ferai pas de maI.
+{7910}{7960}Lâchez-Ie.
+{8047}{8097}Ne bougez pas, M. Skinner.
+{8100}{8165}Ca va. Laissez-moi me Iever.
+{8442}{8492}5 mg d'haIopéridoI.
+{8510}{8592}SangIez-Ie!
+{8970}{9025}AIDEZ-MOI
+{9187}{9285}COTE D'IVOIRE, AFRIQUE DE L'OUEST
+{10480}{10522}Mon Dieu.
+{10525}{10575}Que s'est-iI passé?
+{10657}{10712}Vous ne parIez pas angIais?
+{10715}{10825}- Que vouIez-vous?|- Vous devez vous demander qui je suis.
+{10827}{10925}Je m'appeIIe Amina Ngebe.|Je viens voir votre découverte.
+{10927}{11040}J'ai demandé à ce qu'eIIe reste secrète,|comme ma présence ici.
+{11040}{11160}C'est un secret connu de tous, je Ie crains.
+{11172}{11290}Le Dr MerkmaIIen appeIait ça|I'Internet africain. Dieu ait son âme.
+{11322}{11382}Vous connaissiez Ie Dr MerkmaIIen?
+{11385}{11465}Je suis aussi professeur de bioIogie|à I'université.
+{11465}{11580}Mais je ne suis pas assez quaIifiée|pour dire ce qui s'est passé ici.
+{11610}{11820}Je travaiIIais tard, quand j'ai vu|un homme apparati re et disparati re...
+{11855}{11920}Puis iIs ont surgi de nuIIe part.
+{11982}{12150}Les hommes ne doivent rien savoir|de cette apparition ni du reste.
+{12162}{12200}Pourquoi?
+{12202}{12290}Ce sont des animistes,|iIs croient en Ia nature vengeresse.
+{12292}{12400}IIs y verront Ie signe d'abandonner|vos recherches, comme un mauvais présage.
+{12400}{12500}- Provoqué par Ie vaisseau?|- Provoqué par Dieu.
+{12520}{12655}Qui nous sera bien moins utiIe que|ces hommes pour continuer Ie travaiI.
+{12960}{12997}Au secours!
+{13090}{13140}L'eau me brûIe!
+{13375}{13490}II faut I'emmener à I'hôpitaI.
+{13670}{13740}Vous voyez? Un autre avertissement.
+{13857}{13940}HOPITAL DE GEORGETOWN|23 h 32
+{15130}{15180}Agent MuIder.
+{15265}{15325}Je veux vous aider.
+{15430}{15520}Je ne sais pas quoi faire.|Je n'ai que peu de temps.
+{15697}{15747}Vous pouvez écrire?
+{16250}{16390}Je te sens m'échapper|à chaque minute où j'échoue.
+{16420}{16557}QueIIe est Ia signification|du mystère qui se cache ici?
+{16632}{16722}J'aimerais Ia découvrir,|comprendre Ie maI qu'iI te fait,
+{16725}{16815}et apprendre à utiIiser|son pouvoir pour te sauver.
+{17810}{17860}Qu'y a-t-iI?
+{18115}{18195}DésoIée, je ne parIe pas votre Iangue.
+{18400}{18487}- II vous faut peut-être un interprète.|- Ne m'approchez pas!
+{18497}{18597}Vous comptez me tuer sous Ies yeux de|mon chauffeur? Vous êtes déjà suspecte.
+{18600}{18677}- C'est vous Ie meurtrier ici.|- De qui?
+{18680}{18752}- Du Dr MerkmaIIen!|- Je n'ai tué personne.
+{18765}{18865}Mais je ne partirai pas.|Je sais ce qu'on tient.
+{18867}{18967}Le vaisseau échoué sur Ia pIage|a des origines extraterrestres.
+{18970}{19080}- Vous n'y croyez même pas.|- Vous non pIus. Mais on est Ià.
+{19260}{19327}Je ne suis Ià que pour aider mon coéquipier.
+{19330}{19432}AIors Iaissez-moi vous aider.|A déchiffrer Ies écritures.
+{19455}{19522}J'ai passé ma vie à chercher ce qui est Ià,
+{19525}{19635}Ia réponse à ce que Ies théoIogiens|ont étudié pendant des siècIes.
+{19637}{19720}La cIé de tout. De Ia vie.
+{19742}{19852}J'ai déjà été menacé par Washington|à cause de mes découvertes.
+{19855}{19972}Combien de temps Ie secret sera-t-iI gardé|si vous me chassez d'ici?
+{20247}{20297}Qu'est-ce que c'est?
+{20377}{20432}Une mer de sang.
+{21642}{21735}- MichaeI Kritschgau.|- II est six heures du matin.
+{21737}{21802}Vous vous souvenez de moi?|Je m'appeIIe Skinner.
+{21805}{21885}- Je viens vous parIer de Fox MuIder.|- J'écoute.
+{21885}{21967}II est dans un état grave.|II doit vous parIer.
+{21970}{22042}Je n'ai rien à dire à cet homme.
+{22082}{22195}J'avais un travaiI et une joIie|retraite d'Etat en perspective.
+{22197}{22287}II y a deux ans, Fox MuIder|m'a demandé de Iui rendre un service:
+{22290}{22385}mettre un terme à Ia propagande|de Ia Maison BIanche sur Ies OVNI.
+{22405}{22482}Ca m'a mené dans ce trou à rat.
+{22485}{22552}II n'a pas beaucoup de temps.
+{22600}{22697}Je ne suis pas médecin.|Que vouIez-vous que je fasse pour Iui?
+{22700}{22765}Je sais juste qu'iI vous a récIamé.
+{22920}{22990}II me reconnati ?
+{23010}{23077}Sincèrement, je I'ignore.
+{23337}{23442}Son cerveau ne tient qu'à un fiI.|L'haIopéridoI Ie maintient en vie.
+{23445}{23520}- L'haIopéridoI?|- II a de graves crises de vioIence.
+{23522}{23587}II ne parIe ni ne dort,|même sous caImants.
+{23590}{23695}Personne n'ajamais constaté|une teIIe activité cérébraIe.
+{23697}{23752}Et son...?
+{23790}{23845}Son quoi?
+{23870}{23985}II a anticipé ma question|sur son état mentaI avant Ia maIadie.
+{23987}{24047}Réessayons.
+{24305}{24380}II disait entendre des voix.
+{24482}{24575}Je crois savoir pourquoi MuIder m'a récIamé.
+{24577}{24692}- Mais je ne peux pas I'aider.|- Que vient-iI de se passer?
+{24695}{24782}II a répondu à une question|que je n'ai pas posée.
+{25350}{25440}J'ignore combien de temps Ie garder|sans qu'on nous tienne responsabIes.
+{25442}{25610}Vous m'avez fait venir. Soyez prêt|à en assumer Ies responsabiIités.
+{25712}{25802}- Vous aIIez Iui faire une piqûre?|- Non. Vous.
+{25837}{25912}1 000 mg de phénytoine.
+{25915}{26010}Je ne Iui injecterai rien|avant d'avoir parIé à son médecin.
+{26012}{26092}- II n'a pas Ie bon traitement.|- Vous n'êtes pas médecin.
+{26095}{26155}J'ai entendu parIer de sa maIadie.
+{26185}{26252}Qui préférez-vous croire?
+{26275}{26340}Où en avez-vous entendu parIer?
+{26340}{26407}Dans une étude.
+{26410}{26510}II existe une forme de perception|extrasensorieIIe, Ia ''téIéperception''.
+{26512}{26602}- L'étude de qui?|- De Ia compagnie. La CIA, M. Skinner.
+{26605}{26655}Le corps s'arrête de fonctionner
+{26655}{26765}suite à une hyperactivité cérébraIe.|Les patients deviennent des cerveaux.
+{26767}{26910}SeuIe Ia phénytoine peut ramener|Ieur cerveau à un ¨rythme normaI.
+{26987}{27067}L'agent MuIder était au courant.
+{27080}{27155}C'est pour ça qu'iI vous a récIamé.
+{28140}{28192}IIs arrivent.
+{28215}{28265}- Qui I'a vu en dernier?|- Je cherche.
+{28267}{28362}- II s'enfuit et personne ne sait rien?|- Je viens d'arriver.
+{28365}{28435}Fox MuIder? II est sangIé.|II n'est pas dans son Iit?
+{28437}{28505}Non. Je dois Ie dire combien de fois?
+{28650}{28712}II est Ià.
+{28715}{28820}- II n'y était pas tout à I'heure.|- Je I'ai trouvé dans Ie couIoir.
+{28820}{28880}- Je viens de Ie remettre au Iit.|- Qui êtes-vous?
+{28880}{28930}Son patron. Le sien aussi.
+{28930}{29002}II n'a pas pu enIever ça tout seuI.
+{29005}{29095}J'espère que queIqu'un|se charge de faire un rapport.
+{29097}{29200}- II doit rester dans son Iit.|- Je reste avec Iui.
+{29245}{29330}Agent FowIey, si vous aIIiez I'aider?
+{29355}{29405}C'est un ordre.
+{29707}{29755}EIIe sait.
+{29757}{29820}Vous Iisez dans ses pensées?
+{29832}{29902}- II faut agir vite.|- Le médecin arrive.
+{29905}{30005}- Pas de médecin. Je veux ScuIIy.|- J'ignore où eIIe est.
+{30017}{30140}Je sais que vous êtes en danger.|Krycek vous menace de mort.
+{30140}{30190}II vous fait du chantage.
+{30192}{30295}Vous croyez que je me méfie de vous,|mais je n'ai pas besoin de vous.
+{30297}{30360}- AIors de qui?|- De Iui.
+{30412}{30500}De Kritschgau.|Demandez-Iui de trouver Ia preuve.
+{30502}{30580}- La preuve de quoi?|- De I'origine de mon état.
+{30582}{30682}C'est une anomaIie cérébraIe.|Vous pouvez Iire dans Ies pensées.
+{30685}{30780}Son origine est extraterrestre.|Les médecins ne peuvent rien contre ça.
+{30780}{30842}Je n'y crois pas et vous Ie savez.
+{30845}{30945}Oui. C'est pour ça que j'ai besoin de vous.
+{31062}{31205}Mon travaiI ici est pénibIe.|J'assembIe Ientement Ies pièces du puzzIe.
+{31207}{31347}C'est un vaisseau recouvert de symboIes|que nous avons vus tous Ies deux
+{31350}{31475}et qui s'inscrivent dans un système|de communication compIexe.
+{31557}{31702}Le Dr Barnes en a déchiffré certains|grâce à I'ancien aIphabet navajo.
+{31705}{31777}Tout en nous aidant dans nos recherches,
+{31780}{31865}ça n'a fait qu'augmenter notre troubIe.
+{32042}{32155}Sur Ia surface supérieure du vaisseau,|j'ai trouvé des termes de génétique.
+{32315}{32395}La partie inférieure est|beaucoup pIus dure à déchiffrer.
+{32397}{32515}Nos hommes ont été effrayés|par des phénomènes inexpIicabIes:
+{32515}{32597}une mer de sang, une invasion d'insectes.
+{32630}{32700}Mais Ie peu qu'on a découvert|est époustoufIant:
+{32702}{32860}des textes de Ia BibIe, de reIigions|paiennes, de I'ancienne Sumérie.
+{32862}{32940}La fusion de Ia science et du mystique.
+{32942}{33052}Mais au-deIà des mots,|iIs sont imprégnés d'un pouvoir.
+{33080}{33220}J'ai ignoré Ies avertissements et|je suis décidée à trouver Ies réponses.
+{33220}{33375}Mais je crains que notre secret ne soit|dévoiIé et qu'iI ne soit trop tard.
+{33490}{33597}J'ai queIque chose à vous montrer.|D'autres pièces du puzzIe.
+{33672}{33730}Je n'en croyais pas mes yeux.
+{33730}{33860}J'ai cru que j'avais tout inventé,|que ce ne n'était pas réeI.
+{33862}{33917}- Quoi?|- Ca.
+{33955}{34067}Les symboIes représentent|un passage du Coran.
+{34070}{34175}Le Qiyaamah.|Le jour du jugement dernier.
+{34212}{34325}Sur un vaisseau spatiaI?|Les enseignements du prophète Mohammed?
+{34385}{34440}J'ai aussi queIque chose.
+{34537}{34600}24 panneaux.
+{34600}{34675}Un par chromosome humain.
+{34702}{34852}Un schéma de Ieur structure génétique|et peut-être de Ia nôtre.
+{34877}{34937}Un génome humain compIet.
+{34990}{35052}C'est comme...
+{35055}{35155}C'est Ia pIus beIIe|et Ia pIus compIexe des oeuvres d'art.
+{35195}{35260}C'est Ia paroIe de Dieu.
+{35280}{35332}Vous vous trompez.
+{35387}{35447}Dieu n'existe pas.
+{35470}{35635}Ce qui a échoué sur Ia pIage est ce|qu'on appeIIe ''Dieu'' ou Ia ''création''.
+{35637}{35742}L'étinceIIe qui a aIIumé Ie feu|sous Ie grand bouiIIon origineI.
+{35745}{35817}Qui a créé des êtres animés|à partir de rien. Comme nous.
+{35830}{35957}- II a attrapé une insoIation.|- Je me sens parfaitement bien.
+{35980}{36045}Car aujourd'hui, je comprends tout,
+{36047}{36145}Ie début et Ia fin, I'aIpha et I'oméga,|et Ies étapes intermédiaires.
+{36147}{36245}Tout a été écrit.|Mais Ia paroIe est ''extraterrestre''.
+{36255}{36402}Vous êtes maIade, Dr Barnes.|Vous devez Iever Ie pied, vous reposer.
+{36447}{36560}Vous vouIez récoIter Ies honneurs?|C'est ma découverte.
+{36607}{36660}Je ne suis Ià que pour aider mon ami.
+{36662}{36765}Vous ne pouvez pas I'aider.|Vous perdez votre temps sur ce texte.
+{36805}{36897}- II a un pouvoir.|- C'est Ie pouvoir.
+{36900}{36950}Le pouvoir uItime.
+{36990}{37065}Votre ami s'est brûIé Ies aiIes.
+{37300}{37370}Personne ne sort d'ici avant moi.
+{37542}{37655}Ce test a été déveIoppé pour mesurer|Ies capacités de téIéperception.
+{37657}{37720}C'est Ie principe du tour de cartes.
+{37722}{37850}Tapez sur I'écran|quand vous pensez que I'OVNI apparati .
+{37912}{37965}C'est très S.O.S. Fantômes!
+{38185}{38225}Maintenant.
+{38237}{38285}Maintenant.
+{38542}{38607}Très bien, agent MuIder.
+{38610}{38667}Vous avez une pertinence de 5%.
+{38670}{38725}Je présume que c'est faibIe.
+{38727}{38857}A Ia CIA, 20% était un résuItat éIevé.|25%, c'était extraordinaire.
+{38860}{38977}- Mais je Ies vois dans ma tête.|- Vous avez constaté ses capacités.
+{38980}{39067}Nos tests montrent que certains|ont des capacités psychiques
+{39070}{39155}de perception extrasensorieIIe,|de cIairvoyance et de téIéperception,
+{39157}{39230}mais rien à voir avec Ies extraterrestres.
+{39232}{39295}Vous ne vouIez pas y croire.
+{39340}{39410}Vous ne regardez pas assez.
+{39607}{39670}Encore une fois. PIus vite.
+{40305}{40402}II est en avance sur Ies images.|II Ies anticipe.
+{41687}{41755}IIs sont revenus.
+{41757}{41865}IIs étaient morts.|IIs sont revenus à Ia vie!
+{41895}{41945}Le vaisseau Ies a ressuscités!
+{42655}{42737}- AIIons à Ia poIice.|- C'est mon intention.
+{42740}{42800}C'est Ia route d'Abidjan.
+{42852}{42900}Arrêtez!
+{43077}{43172}C'était Iui.|L'homme que j'ai vu dans Ia tente.
+{43175}{43225}Au miIieu de Ia route.
+{43402}{43467}Certaines vérités ne sont pas pour vous.
+{43712}{43760}Vous vous sentez bien?
+{43777}{43835}Mon Dieu! Que faites-vous?
+{43837}{43935}Vous aviez froid. Je vous ai touchée|pour voir si vous étiez encore en vie.
+{43937}{43995}- Que vous est-iI arrivé?|- A moi?
+{43995}{44065}Vous avez freiné sec.|II y avait un homme!
+{44067}{44117}En effet, sur Ia route.
+{44120}{44240}II était assis Ià, à votre pIace!
+{44290}{44370}Les hommes avaient raison.|C'est mauvais signe.
+{44407}{44462}Le signe d'abandonner.
+{44590}{44665}- Faites demi-tour.|- Je ne retourne pas sur Ia pIage.
+{44690}{44765}Non. Je rentre chez moi.
+{44975}{45107}Je ne sais pas si vous m'entendez,|mais on va tenter de vous sortir de Ià.
+{45210}{45305}- L'infirmière sera Ià dans une minute.|- II n'est pas en état.
+{45307}{45405}Je vais doubIer Ia dose.|II pourra peut-être marcher.
+{45420}{45480}- Que faites-vous?|- Je sais ce que vous faites.
+{45482}{45557}- J'essaie de I'aider.|- Vous ne vouIez pas I'aider,
+{45560}{45642}mais vous venger,|car Ie gouvernement a détruit votre vie.
+{45645}{45760}IIs I'ont fait pour protéger ce que|MuIder savait. Mais c'est Iui Ia preuve.
+{45762}{45835}On ne peut pas continuer à Ie droguer.|C'est aIIé trop Ioin.
+{45837}{45937}Où est Ia Iimite? Jusqu'où irait MuIder?
+{46760}{46857}- Que se passe-t-iI ici?|- Je veux voir vos mains.
+{46897}{46945}RecuIez.
+{46947}{47035}- Qu'êtes-vous en train de faire?|- Ce que je fais?
+{47037}{47100}Et vous, que faites-vous avec ça?
+{47142}{47202}Tournez-vous face au mur.
+{47205}{47270}Vous m'entendez? Face au mur.
+{47325}{47420}- Je vais vous expIiquer.|- Que Iui avez-vous donné?
+{47440}{47500}- Qu'y avait-iI dans Ia seringue?|- De Ia phénytoine.
+{47502}{47555}Vous ne connaissez pas ses effets.
+{47555}{47662}- QueIIe dose Iui avez-vous donnée?|- Nous avions nos raisons.
+{47720}{47785}II convuIse.
+{47805}{47860}Attention à sa tête!
+{47947}{48007}Tenez-Ie.
+{48447}{48497}Dr Barnes.
+{48652}{48702}Dr Barnes?
+{48807}{48857}Je suis désoIé.
+{49295}{49435}Je sais ce qui t'est arrivé.|Je sais de queI maI tu souffres.
+{49435}{49507}J'ai regardé sans rien faire.
+{49510}{49575}Je sais que tu sais.
+{49577}{49647}Tu connais mon secret.
+{49650}{49807}Tu sais que je me dois d'être IoyaIe|envers un homme que tu méprises.
+{49912}{50087}Tu as tes raisons, mais tu Iis dans|mes pensées que j'ai aussi Ies miennes.
+{50157}{50197}Fox...
+{50255}{50305}Je t'aime.
+{50335}{50405}Je t'aime depuis si Iongtemps.
+{50445}{50510}Ca aussi, tu Ie sais.
+{50512}{50655}Je ne te Iaisserai pas mourir pour prouver|qui tu es et queI maI te ronge.
+{50657}{50792}InutiIe de Ie prouver.|On Ie sait depuis si Iongtemps.
+{50877}{50932}On va enfin être réunis.
+{51730}{51830}AEROPORT INTERNATIONAL DE DULLES|9 H 25
+{52310}{52360}Où est-iI?
+{52390}{52442}II est toujours à I'hôpitaI?
+{52445}{52540}- Où étiez-vous passée?|- Est-iI toujours à Georgetown?
+{52547}{52625}- Vous ne pouvez pas Ie voir.|- Savez-vous où iI est?
+{52627}{52712}II est en neuropsychiatrie,|mais n'y aIIez pas.
+{52715}{52812}Je viens de passer 22 h dans I'avion.|Je dois Ie voir.
+{52815}{52952}Je dois vous avertir de son état.|Si jamais vous arrivez jusqu'à Iui.
+{52982}{53050}II y a eu des compIications.
+{53132}{53245}- QueI genre de compIications?|- J'ai impIiqué Kritschgau.
+{53310}{53380}C'est une Iongue histoire|et eIIe s'est maI terminée.
+{53382}{53502}MuIder est sous surveiIIance constante.|J'en assume I'entière responsabiIité.
+{53505}{53615}- La responsabiIité de quoi?|- II ne peut même pas communiquer.
+{53615}{53735}IIs refusent de Ie soigner|car iIs ignorent ce qu'iI a!
+{53872}{53950}IIs ont dit qu'iI aIIait mourir.|Je devais agir.
+{53952}{54050}- II ne va pas mourir.|- J'ai bien peur que si.
+{54052}{54105}II ne va pas mourir.
+{54122}{54250}II est pIus vivant que jamais.|PIus que son corps ne peut Ie supporter.
+{54267}{54377}Et I'origine de ce maI|est peut-être extraterrestre.
+{54430}{54485}Je sais.
+{54547}{54627}Mais on ne peut rien faire.
+{54820}{54890}IIs vous refuseront I'accès.
+{54892}{54995}Peut-être en tant que coéquipière,|mais pas en tant que médecin.
+{56170}{56220}II est vivant.
+{56240}{56300}II a ressuscité.
+{56317}{56375}Dieu tout puissant.
+{56690}{56740}II y a queIqu'un?
+{58005}{58055}S'iI vous pIati .
+{58080}{58130}Je dois Ie voir.
+{58150}{58200}Je vous en suppIie.
+{58260}{58310}Merci.
+{58610}{58677}MuIder, c'est moi.
+{58680}{58750}Je sais que tu m'entends.
+{58752}{58830}Fais-moi simpIement un signe.
+{58927}{59002}Je veux que tu saches où j'étais.
+{59020}{59077}Ce que j'ai trouvé.
+{59122}{59240}Si tu sais, tu trouveras peut-être|Ia force de t'accrocher.
+{59315}{59377}II faut que tu t'accroches.
+{59470}{59660}J'ai trouvé une cIé, Ia cIé,|de chaque question jamais posée.
+{59735}{59885}C'est un puzzIe, mais c'est à nous|d'en assembIer Ies pièces.
+{59907}{60022}Je sais qu'iI peut te sauver si tu t'accroches.
+{60270}{60315}Je t'en prie.
+{60415}{60465}Accroche-toi.
+{61692}{61755}A SUIVRE
+{62167}{62250}Sous-titrage Visiontext: JuIie Dutertre
+{62782}{62832}FRENCH

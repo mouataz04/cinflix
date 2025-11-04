@@ -1,0 +1,401 @@
+{70}{115}LES CASCADES D'ARCADIE
+{117}{190}COMTE DE SAN DIEGO, CALIFORNIE
+{297}{410}Bienvenue aux Cascades.|Veuillez entrer votre code.
+{625}{677}Bienvenue à la maison, M. Kline.
+{1505}{1545}LES KLINE
+{1585}{1660}Zut. Vous vous êtes sali, Dave?
+{1662}{1745}Je voulais juste vous éviter une amende,|en bon voisin.
+{1772}{1825}Vous connaissez le règlement.
+{2250}{2310}Shroeder peint notre bo îti e à lettres.
+{2312}{2445}Tu sais ce que je vais faire?|Je vais peindre toute la maison en rose.
+{2445}{2587}Elle va ressembler à une maison de poupée.|Ca leur apprendra, à ces nazis.
+{2590}{2672}Chéri, calme-toi. C'est le règlement.
+{2675}{2790}On repeint notre bo îti e parce qu'elle est|coquille d'oeuf et pas coquille de noix!
+{2792}{2895}- Ce type est vraiment pas net.|- C'est quoi, ce paquet?
+{2917}{2987}Je sais pas.|Le nom de l'expéditeur n'est pas écrit.
+{3300}{3350}Charmant.
+{3365}{3440}Ca ne plairait pas à nos voisins.
+{4125}{4175}Chéri? Qu'y a-t-il?
+{4322}{4382}Reste ici.
+{5645}{5675}Dave? Chéri?
+{5675}{5707}Dave? Chéri?
+{6382}{6445}ACTIVITE PARANORMALE
+{6575}{6630}LE GOUVERNEMENT NOUS MENT
+{7035}{7095}LA VERITE EST AILLEURS
+{7165}{7232}SEPT MOIS PLUS TARD
+{7270}{7332}BIENVENUE CHERS VOISINS
+{7377}{7450}LES PETRIE
+{7705}{7772}Regarde un peu ça!
+{7812}{7892}Qu'en dis-tu, chérie?|Cet endroit est fait pour nous, non?
+{7925}{7990}Vous devez être les Pétrié. Bienvenue.
+{7992}{8050}Bienvenue aux Cascades.
+{8050}{8127}Rob. Et voici ma charmante épouse, Laura.
+{8140}{8217}- Rob et Laura Pétrié.|- C'est "Pétrie", en fait.
+{8247}{8287}Comme la bo îti e.
+{8290}{8387}Ravie de vous rencontrer.|Pat Verlander. J'habite au bout de la rue.
+{8390}{8470}- Je suis le comité d'accueil.|- Enchantée.
+{8470}{8577}Il est déjà 17 h 10.|Je doute que vous y arriviez.
+{8580}{8630}- Pardon?|- A finir avant 18 h.
+{8650}{8725}Il faut finir d'emménager avant 18 h.
+{8752}{8847}C'est dans le cahier des charges.|C'est une de nos règles.
+{8987}{9055}Les photos ne lui rendaient pas justice.
+{9057}{9107}Dépêchez-vous!
+{9140}{9190}C'est vraiment impeccable.
+{9192}{9242}Que faites-vous dans la vie, M. Pétrie?
+{9245}{9345}- C'est bien ça?|- Oui. Je travaille à la maison.
+{9345}{9430}Laura adore ça,|parce qu'elle m'a pour elle toute seule.
+{9487}{9532}Cette maison est immaculée.
+{9535}{9612}J'aimerais remercier les anciens propriétaires.
+{9615}{9685}C'est gentil. Bien.
+{9950}{10025}Allez! On se dépêche.
+{10222}{10287}- Rob et Laura Pétrié.|- Pétrie.
+{10290}{10387}- Win Shroeder, votre voisin. Bienvenue.|- Enchanté.
+{10390}{10485}Ne vous inquiétez pas.|On aura fini à 18 h. L'heure?
+{10485}{10547}- 17 h 19.|- Pardon, voisin.
+{10587}{10662}- Pardon.|- Merci.
+{10760}{10800}Merci.
+{10840}{10890}Attendez!
+{10892}{10972}- Je m'en occupe.|- Non, c'est lourd. Laissez.
+{11090}{11140}Je suis vraiment désolé.
+{11142}{11230}Mike, ça ira. Allez aider Gordy.
+{11232}{11320}Envoyez-moi la facture. Je suis navré.
+{11352}{11415}Cami Shroeder. Je suis la femme de Win.
+{11430}{11485}Enchantée. Je suis Laura.
+{11485}{11552}- Où ça va?|- Devant le garage.
+{11555}{11625}Attendez. Discutons.
+{11645}{11697}Vous êtes fan de basket, c'est ça?
+{11700}{11802}Ca n'ira pas. Ca va jurer dans votre jardin.
+{11805}{11930}- Jurer?|- Ce ne sera pas très esthétique.
+{11975}{12055}Vous pourrez demander|une exemption à M. Gogolak,
+{12057}{12132}il dirige l'association des résidents.
+{12135}{12225}Mais en attendant, mettons ça dans le garage.
+{12282}{12332}Mettez-le dans le garage.
+{12335}{12410}Bon, dépêchons-nous de décharger.
+{12412}{12462}Allez!
+{12730}{12795}Tout para îti normal, par ici.
+{12825}{12930}Attends, je ne t'ai pas portée|pour franchir le seuil.
+{12955}{13020}- Prêt?|- Quand tu veux, ma chérie.
+{13040}{13095}Bon.
+{13375}{13505}Grâce à nos gentils voisins, on ne fera|pas de mise en évidence de taches de sang.
+{13542}{13600}Ca ne changera pas grand-chose.
+{13600}{13682}C'est aussi propre qu'une salle d'opération.
+{13685}{13730}Bon.
+{13750}{13860}18 h 01, le 24 février.
+{13862}{13912}Agents Scully et Mulder
+{13915}{13997}dans l'ancienne résidence|de David et Nancy Kline,
+{14000}{14077}qui ont disparu|sans laisser de trace en juillet.
+{14080}{14170}Les Kline sont le 3ème couple|à avoir ainsi disparu
+{14172}{14262}depuis la construction|du lotissement en 1991.
+{14265}{14370}Il s'agissait apparemment|de personnes stables,
+{14372}{14500}sans antécédents de violence,|problèmes conjugaux ou maladie mentale.
+{14502}{14650}C'est un membre de la famille ou un employé|qui a remarqué leur disparition.
+{14652}{14682}Disparus également|leur voiture et des effets personnels.
+{14682}{14740}Disparus également|leur voiture et des effets personnels.
+{14742}{14832}Dans chaque affaire, la police n'a rien trouvé,
+{14835}{14885}si ce n'est des maisons impeccables
+{14885}{15000}et des voisins qui prétendaient ignorer|que quiconque avait disparu.
+{15002}{15115}C'est surprenant, étant donné à quel point|ils sont obsédés par le bon voisinage.
+{15120}{15202}La police locale a abouti à une impasse
+{15205}{15275}et s'est tournée vers le FBI.
+{15275}{15342}En nous confiant cette affaire,
+{15345}{15442}Skinner a pensé|qu'il serait utile pour l'enquête
+{15445}{15547}que nous nous fassions passer|pour des acheteurs potentiels.
+{15550}{15657}En effet, cette communauté semble cacher
+{15660}{15740}une conspiration du silence|peut-être meurtrière.
+{15742}{15820}On filme notre lune de miel, maintenant?
+{15822}{15885}- Rob et Laura Pétrié?|- Pétrie.
+{15885}{15970}Si on doit prendre une autre couverture,|je choisirai nos noms.
+{15972}{16020}D'accord.
+{16022}{16137}- Tu ne prends pas ça au sérieux.|- Si, mais je ne vois pas ce qu'on fait là.
+{16140}{16212}Ca n'a rien d'une affaire non classée, en fait.
+{16215}{16260}Si. C'est inexpliqué.
+{16262}{16352}Tu veux quoi? Des extraterrestres?|Des soucoupes volantes?
+{16355}{16385}Ca alors!
+{16407}{16465}Tu veux jouer au papa et à la maman!
+{16507}{16597}Femme, reviens me faire un sandwich!
+{16720}{16767}Tu as entendu?
+{16892}{16930}Bonjour.
+{16930}{16987}Ce n'était pas la peine.
+{16990}{17135}Je n'ai pas besoin de toute cette vaisselle.|Je n'utilise qu'une seule assiette.
+{17205}{17345}Mike Raskub. Dit "Big Mike",|vous voyez pourquoi. J'habite la rue voisine.
+{17345}{17360}Mike Raskub. Dit "Big Mike",|vous voyez pourquoi. J'habite la rue voisine.
+{17420}{17575}- C'est un caducée. Vous êtes médecin?|- Non, je suis vétérinaire.
+{17577}{17710}Si vous voulez un animal domestique,|je peux me renseigner. Gratuitement.
+{17710}{17830}Mais il ne devra pas excéder 7 kg.|C'est dans le cahier des charges.
+{17830}{17875}C'est gentil.
+{17877}{17987}Quel sens de l'hospitalité! Je me demande|pourquoi les Kline sont partis.
+{17990}{18070}C'était bien ça, leur nom?
+{18072}{18112}Je dois y aller.
+{18335}{18415}- Mulder.|- Mon nom, c'est Rob.
+{18567}{18617}Qu'est-ce que c'est?
+{18647}{18730}Quelqu'un a oublié de nettoyer ça, on dirait.
+{18755}{18810}Tu crois que c'est du sang?
+{18875}{18925}Comment c'est arrivé là-haut?
+{18970}{19057}RESIDENCE GOGOLAK,|19H49
+{19070}{19145}Je n'ai pas appris grand-chose.
+{19167}{19262}Il travaille à la maison,|donc elle doit avoir de l'argent.
+{19302}{19352}Ils semblent charmants.
+{19355}{19447}Oui, c'est vrai. Ils sont gentils.
+{19450}{19497}Qu'en pensez-vous, Gene?
+{19500}{19575}Mesdames, à tout à l'heure.
+{19577}{19627}Cami, Sissy?
+{19965}{20060}- Ces Pétrié, ils vont coopérer?|- "Pétrie".
+{20060}{20125}Pour l'instant, ça va. Je les ai à l'oeil.
+{20145}{20187}M. Gogolak.
+{20247}{20390}Vous ne croyez pas que, cette fois,|ce serait mieux si on leur disait?
+{20442}{20510}Nous avons déjà discuté de ça.
+{20512}{20612}- On ignore si on peut leur faire confiance.|- C'est juste que...
+{20637}{20705}Il y a tellement de règles.
+{20747}{20842}Je pense qu'ils pourraient mieux les respecter
+{20845}{20915}s'ils savaient ce qu'ils risquent.
+{21050}{21105}C'est la moindre des choses.
+{21270}{21332}Il faudrait leur dire.
+{21357}{21430}Mon grand, à vous l'honneur.
+{21480}{21520}Merci.
+{21557}{21647}- Où sont les...|- Deuxième porte à gauche.
+{21650}{21702}Le désodorisant est sous le lavabo.
+{21787}{21855}Gordy, assurez-vous qu'il le trouve.
+{22075}{22140}Gene, je peux le dissuader.
+{22140}{22230}Mike est un maillon faible.
+{22232}{22320}Une chaîne solide ne doit pas|avoir de maillon faible.
+{22635}{22725}...est instinctif et nécessaire à sa survie.
+{22727}{22842}Ne pas se conformer à la structure|de la tribu peut être fatal.
+{22845}{22940}Quand les anciens soupçonnent|qu'il y a un tel paria parmi eux,
+{22942}{23040}les membres de la tribu se réunissent|en cercle et entonnent un chant,
+{23042}{23135}persuadés que cela démasquera le coupable...
+{23222}{23250}Oh, non!
+{24045}{24125}Non! Je l'ai réparé!
+{24125}{24190}BIENVENUE CHEZ MIKE
+{24477}{24515}Bonjour.
+{24532}{24535}Rob, Laura, désolé.
+{24535}{24595}Rob, Laura, désolé.
+{24597}{24647}Bonjour!
+{24650}{24700}La première nuit a été paisible?
+{24702}{24787}Formidable. On a dormi comme des bébés.
+{24790}{24865}- N'est-ce pas, mon coeur?|- Oui, mon lapin rose.
+{24867}{24937}C'est bien la maison de Big Mike, non?
+{24940}{25050}Oui. Je l'aide un peu.|Mike est parti en voyage d'affaires.
+{25052}{25140}Quel genre d'affaires? II est vétérinaire.
+{25172}{25285}Des affaires de vétérinaire, j'imagine.|Parfois, il s'absente des semaines.
+{25295}{25370}- Je vais laisser ça là.|- Je les prends.
+{25370}{25455}Il vaut mieux éviter|de les laisser sur le porche.
+{25490}{25575}- Ce ne serait pas très esthétique.|- Exactement.
+{25587}{25697}Voulez-vous dîner avec nous, ce soir?|Vers 18 h. Nous dînons tôt.
+{25700}{25770}- Ce serait sympa. Merci.|- Super.
+{25892}{26020}Vous m'avez dit que je pourrais m'adresser|à quelqu'un, pour mon panier de basket.
+{26022}{26075}C'était qui, déjà?
+{26075}{26122}M. Gogolak, c'est ça?
+{26125}{26247}Alors, voyons...|Panneau et panier de basket-ball.
+{26312}{26375}Non, désolé. Ce n'est pas autorisé.
+{26377}{26442}- Vous plaisantez.|- Hélas, non.
+{26445}{26492}C'est le règlement.
+{26495}{26577}Ca n'a peut-être l'air de rien,|un panier de basket.
+{26580}{26715}Mais il n'y a qu'un pas entre ça|et des nains de jardin ou un bateau de pêche.
+{26715}{26762}L'anarchie, en gros.
+{26785}{26885}Ca peut sembler dur, mais ça fonctionne.
+{26920}{27110}C'est pourquoi les Cascades est l'une|des communautés les mieux cotées de l'Etat.
+{27112}{27210}La plupart des propriétaires|sont ici depuis le début.
+{27250}{27327}J'adore la décoration, M. Gogolak.
+{27330}{27412}Ca vient d'Asie?
+{27415}{27542}Du Népal et du Tibet, essentiellement.|J'y vais deux fois par an pour mon travail.
+{27545}{27602}Je fais de l'import-export.
+{27605}{27677}Je peux vous faire des prix|sur les meubles en rotin.
+{27680}{27810}Mais ils sont interdits dans le jardin.|C'est dans le cahier des charges.
+{27880}{27947}RESIDENCE SHROEDER,|18H37
+{27962}{28012}Non, Scruffy. Va-t'en.
+{28050}{28125}C'est bien du thon pêché|sans risques pour les dauphins?
+{28127}{28205}- Oui, chéri.|- On ne prend que celui-là.
+{28207}{28317}Vous devez adorer les dauphins.|C'est vrai que c'est bon aussi.
+{28425}{28475}Où vous êtes-vous connus?
+{28522}{28635}- A une conférence d'ufologie.|- Les ovnis? Intéressant.
+{28670}{28750}Je ne vous imaginais pas là-dedans.
+{28750}{28825}C'est surtout Laura.|C'est une adepte du New Age.
+{28825}{28930}Elle aime les bracelets magnétiques,|les bagues qui changent selon l'humeur.
+{28932}{29010}Elle adore ce genre de trucs.
+{29050}{29110}Je n'aurais pas cru. Et toi?
+{29122}{29180}Sans blague?
+{29180}{29335}Vous savez, ce matin, vous m'avez dit|que Big Mike était en voyage d'affaires.
+{29360}{29410}Je crois que c'est faux.
+{29425}{29477}Vraiment?
+{29480}{29585}- On a appelé son cabinet, pas vrai?|- Oui.
+{29645}{29752}On envisage d'avoir un chien.|On voulait lui demander son avis.
+{29755}{29880}- On voulait savoir où le joindre.|- Mais personne ne sait où il est.
+{29965}{30030}Savez-vous où il est, Win?
+{30062}{30142}Je n'en ai aucune idée.
+{30155}{30302}Il doit cacher un truc pas net, pour mentir.|Il a peut-être une double vie, en fait.
+{30367}{30467}Mais chaque communauté|a sa brebis galeuse, n'est-ce pas?
+{30492}{30557}Il n'y en a pas ici.
+{30602}{30715}En ce qui me concerne, cette communauté|représente le rêve américain.
+{30735}{30865}Excusez-moi. J'avais oublié:|il faut que je sorte Scruffy.
+{30867}{30945}- Je vous accompagne?|- D'accord.
+{31265}{31317}Alors, c'est le rêve américain?
+{31360}{31410}Ici?
+{31470}{31612}Le quartier est agréable. Les gens veulent|ce qu'il y a de mieux pour leur famille.
+{31632}{31680}Ce n'est pas votre rêve.
+{31777}{31915}J'ai remarqué qu'on est passées|deux fois devant la maison de Mike.
+{31940}{32040}- Vous vous inquiétez pour lui?|- Non. J'ignore de quoi vous parlez.
+{32090}{32145}Scruffy, viens ici.
+{32147}{32202}Scruffy, non!
+{32210}{32277}Viens ici, Scruffy.
+{32280}{32330}Sors de là!
+{32442}{32497}- Attendez.|- Vous le voyez?
+{32947}{33022}Scruffy, tout va bien.
+{33025}{33142}- Qu'est-ce que tu as sur le museau?|- Ca va aller. On a eu chaud, hein?
+{33162}{33247}Laisse-moi t'essuyer.
+{33285}{33335}Allez, on rentre.
+{33760}{33812}- D'accord, lieutenant.|- Clés.
+{33815}{33865}Merci.
+{33950}{33997}La police n'a rien trouvé
+{34025}{34042}sur Mike Raskub.
+{34042}{34072}sur Mike Raskub.
+{34075}{34180}Pas de dépenses avec sa carte,|aucun signe de sa voiture.
+{34180}{34240}Aucun signe de lui chez lui.
+{34242}{34310}Et je ne l'ai pas vu dans les égouts.
+{34325}{34395}- II doit être mort, Scully.|- "Laura."
+{34422}{34522}- Tu crois que c'est Win Shroeder?|- Win a peut-être fait le ménage.
+{34555}{34605}Pour le compte de qui?
+{34637}{34750}En parlant de ménage, tu n'as jamais|appris à te servir d'un tube de dentifrice?
+{34775}{34820}On sait quoi là-dessus?
+{34822}{34927}Je vais à San Diego demain|pour le faire analyser.
+{34930}{35002}Lunette des WC: 3ème avertissement.
+{35117}{35170}Pourquoi tuer Big Mike?
+{35172}{35237}Il manque un mobile.
+{35240}{35290}Qu'est-ce que ça peut être?
+{35335}{35405}Trop ordonné, ou trop désordonné?
+{35407}{35490}Tu as remarqué que tout le monde|est obsédé par le règlement, ici?
+{35490}{35522}Tu as remarqué que tout le monde|est obsédé par le règlement, ici?
+{35530}{35620}- Tu vas t'intégrer très vite.|- Pas toi.
+{35630}{35747}J'ai un moyen infaillible|de tester ma théorie, demain.
+{35835}{35932}Viens, Laura. On est mariés, maintenant.
+{35940}{36035}"Scully", Mulder. Bonne nuit.
+{36155}{36205}La magie a disparu.
+{36535}{36582}Je vous attends.
+{39882}{39947}SOYEZ COMME LES AUTRES|AVANT LA TOMBEE DE LA NUIT
+{40067}{40117}22H37
+{40310}{40375}- Reste ici.|- Arrête-le, Win!
+{40525}{40570}On fait une partie?
+{40625}{40692}- Que faites-vous?|- Ce que je fais?
+{40707}{40780}- Et vous, que faites-vous?|- Aidez-moi à rentrer ça.
+{40780}{40872}- Sinon que se passera-t-il?|- Bon. C'est ce que vous voulez?
+{41127}{41195}- On vous aura prévenu.|- De quoi?
+{41425}{41462}Arrêtez!
+{41820}{41880}Cami, ça va?
+{43210}{43260}Mulder?
+{43345}{43392}Mulder, c'est toi?
+{45577}{45615}Désolée.
+{45675}{45737}- II y avait quelqu'un.|- Qui rangeait.
+{45740}{45787}Il a rentré mon panier de basket.
+{45790}{45860}Quelqu'un nous protège et ce n'est pas si mal.
+{45862}{45932}- Comment ça?|- J'ai vu ce qui effraie les gens.
+{45935}{45995}Finalement, c'est une affaire NC.
+{46310}{46360}Comment va Cami?
+{46427}{46495}Qu'avons-nous fait de mal?
+{46495}{46562}Notre paillasson ne vous plaisait pas?
+{46565}{46655}J'ai enroulé mon tuyau d'arrosage|dans le mauvais sens?
+{46657}{46707}On se calme.
+{46745}{46805}Vous pensez que je suis responsable?
+{46807}{46927}Qui d'autre ferait ça?|C'est ce que vous m'avez fait faire à Mike.
+{46930}{47007}Mon grand, vous allez reprendre votre souffle
+{47037}{47090}et revoir votre théorie.
+{47285}{47355}C'est votre voisin.
+{47362}{47445}C'est un agitateur. Un fauteur de troubles.
+{47467}{47595}Et on sait qu'il suffit d'une pomme pourrie|pour que les autres pourrissent.
+{47757}{47800}Voilà.
+{47920}{48015}Je pense qu'il y en a un dans chaque jardin.
+{48015}{48100}C'est par là que cette chose se déplace.|C'est là qu'elle vit.
+{48125}{48180}Dans le sol?
+{48180}{48255}Cette créature que tu crois avoir vue?
+{48375}{48470}Oublions la créature.|Veux-tu savoir ce que je pense?
+{48495}{48545}J'en meurs d'envie.
+{48705}{48775}Voilà les résultats du labo|de la police de San Diego.
+{48777}{48895}Le sang séché et les cheveux|qu'on a trouvés sur le ventilateur
+{48895}{49000}n'en sont pas. Le "sang" est un mélange|de ketchup et de liquide de freins.
+{49000}{49080}Les "cheveux"|sont les poils d'un balai-brosse.
+{49082}{49195}Même chose pour ce qu'il y avait|sur le museau du chien.
+{49227}{49312}Du café, des coquilles d'oeuf|et de l'huile de moteur,
+{49315}{49417}avec 50 autres composants|et du mercurochrome pour la couleur.
+{49420}{49510}En d'autres termes, des ordures.|Ce qui est tout à fait logique
+{49512}{49605}car ce lotissement a été bâti|sur un ensevelissement de déchets.
+{49607}{49652}Des déchets?
+{49655}{49762}On a trouvé ça parce qu'il y en a partout.|C'est juste sous la terre.
+{49765}{49890}La bosse dans le jardin est peut-être|due à un dégagement de méthane.
+{49920}{50025}Mais je ne vois pas ce que ça a|à voir avec ces disparitions.
+{50027}{50125}Et pourtant, ça doit être lié. Les Kline.
+{50127}{50242}- Et s'ils étaient toujours là?|- Enterrés dans le jardin?
+{50260}{50345}Si on fait une excavation,|on peut dire adieu à notre couverture.
+{50615}{50675}Qu'est-ce que vous fabriquez?
+{50742}{50850}- On fait une piscine.|- Devant la maison? Vous êtes dingue?
+{50852}{50945}Le cahier des charges interdit les piscines.
+{50947}{51067}Ce n'est pas pour nager. C'est pour méditer.|J'ai vérifié dans le règlement.
+{51070}{51157}Les piscines de méditation|ne sont pas interdites.
+{51160}{51215}C'est très calme. Ca vous plaira.
+{51457}{51535}Laissez-le creuser sa tombe.
+{52160}{52215}Les Kline ne sont pas là.
+{52252}{52320}Tu devrais rentrer, maintenant.
+{52885}{52935}Charmant, non?
+{53007}{53067}FABRIQUE EN MALAISIE
+{53080}{53122}Gogolak.
+{53125}{53220}Tu peux faire venir une équipe d'excavation?|II faut continuer à creuser.
+{53222}{53310}- Où vas-tu?|- Enquêter sur des meubles en rotin.
+{54455}{54510}Ici l'agent Dana Scully.
+{54510}{54592}J'ai besoin d'une équipe|au 450 Autumn Terrace.
+{54667}{54717}Non, pas demain. Ce soir.
+{54765}{54815}Excusez-moi. Je vous rappelle.
+{55485}{55557}Il est venu vous chercher.|Ne faites pas de bruit.
+{55640}{55717}Mike. Que vous est-il arrivé?
+{55720}{55780}- Vous devez partir.|- Pourquoi?
+{55840}{55900}Qui est en bas?
+{55935}{56020}- Qui vous a fait ça?|- L'Ubermenscher.
+{56020}{56070}C'est notre faute.
+{56107}{56177}Nous, les premiers résidents. On l'a appelé.
+{56180}{56255}- On ne peut plus l'arrêter.|- Arrêter quoi?
+{56380}{56450}J'ai essayé de faire|la même chose à Shroeder,
+{56452}{56505}un prêté pour un rendu.
+{56507}{56615}Ecoutez, calmez-vous.|Donnez-moi mon arme. Je suis du FBI.
+{56615}{56725}L'Ubermenscher vous veut.|Votre mari n'a pas respecté le règlement.
+{56727}{56795}J'étais dans les égouts. Je l'ai prévenu.
+{56870}{56920}Donnez-moi cette arme.
+{57567}{57652}- Le FBI? Pourquoi?|- Commençons par les Kline.
+{57655}{57735}Ils sont en petits morceaux dans mon jardin.
+{57737}{57790}Vous leur avez donné un objet.
+{57790}{57827}- Une girouette.|- Oui.
+{57830}{57935}Voyant, donc contre le règlement.|Ca a signé leur arrêt de mort.
+{57937}{57995}Vous direz ça au tribunal?
+{57997}{58117}Quand le juge demandera qui a tué|les Kline, que lui répondrez-vous?
+{58187}{58237}Un Tulpa.
+{58277}{58335}Une forme de pensée tibétaine.
+{58337}{58457}C'est une créature qui prend vie lorsque|celui qui en a la faculté décide de l'appeler.
+{58460}{58585}Vous avez acquis cette faculté|au cours de vos voyages en Extrême-Orient.
+{58587}{58625}Pourquoi?
+{58627}{58732}C'est si important que toutes les bo îti es|à lettres soient de la même couleur?
+{58735}{58792}C'est important de s'intégrer.
+{58825}{58945}Vous ignoriez ce qui vous attendait.|Vous pouvez le faire appara îti re,
+{58947}{59017}lui donner vie, mais vous ne le contrôlez pas.
+{59020}{59072}Vous pouvez juste l'éviter.
+{59075}{59187}Mon grand, mes avocats vont|tellement vous ridiculiser
+{59190}{59270}que je ne verrai jamais|l'intérieur d'une cellule,
+{59272}{59362}et que votre paie ira|directement dans ma poche.
+{60035}{60070}Gene?
+{60095}{60127}Win.
+{60162}{60255}Vos voisins sont deux agents du FBI.
+{60257}{60310}Mais ça ne durera pas.
+{61235}{61285}Attends.
+{61337}{61390}Venez m'aider.
+{61405}{61467}Venez ici.
+{61537}{61580}Attends. Non.
+{61665}{61715}Il mérite ce qui lui arrive.
+{61802}{61860}Mulder, il était là.
+{62062}{62065}Mulder.
+{62065}{62115}Mulder.
+{63410}{63507}Plusieurs résidents ont parlé|et ont rejeté la responsabilité de ces morts
+{63510}{63592}sur le président de l'association|des résidents, Gene Gogolak.
+{63595}{63617}Ces résidents nient l'allégation|de l'agent Mulder,
+{63617}{63660}Ces résidents nient l'allégation|de l'agent Mulder,
+{63662}{63772}à savoir qu'ils étaient tous|responsables de la mort de Gogolak.
+{63775}{63850}Ils disent ignorer la cause de sa mort.
+{63850}{63970}Le code de silence qui cache les péchés|de cette communauté a survécu
+{63972}{64057}et a fait de son créateur sa dernière victime.
+{64060}{64120}"Les Cascades d'Arcadie" restent cependant
+{64122}{64242}l'une des communautés les mieux cotées|de Californie depuis six ans.
+{64750}{64787}Sous-titrage Visiontext:|Karine Rybaka
+{65277}{65327}FRENCH

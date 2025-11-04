@@ -1,0 +1,603 @@
+{002303}{002334}Les Soprano
+{002338}{002370}L'enfer Blanc
+{003935}{003981}Tony est là ?
+{003985}{004042}Non, désolée.
+{004046}{004071}De la part de qui ?
+{004075}{004183}Mme Washington,|du lycée d'Anthony.
+{004231}{004285}Le lycée de ton fils.
+{004434}{004506}Tony, c'est moi.|Excuse-moi de t'appeler.
+{004515}{004614}Je sais qu'on s'est quittés,|mais ma médaille religieuse...
+{004618}{004707}Je ne la trouve plus.|Elle doit être sur Le Stugots.
+{004750}{004800}Qui est avec toi ?
+{004805}{004894}Je vous recontacterai. Merci.
+{004915}{004978}- Ton fils va bien ?|- Conneries d'intendance.
+{004982}{005039}Je suis partie deux semaines...|tu m'embrasses ?
+{005054}{005095}Excuse-moi.
+{005212}{005292}- Alors, le Maroc ?|- Super.
+{005499}{005612}Le coup de fil,|c'était une ex.
+{005616}{005707}C'était pas le lycée ?|Elle était très crédible.
+{005722}{005810}- Je veux être sincère avec toi.|- Pourquoi t'as menti, alors ?
+{005814}{005882}- Pour pas t'énerver.|- Tu penses à toi d'abord.
+{005886}{005952}Je ne voulais pas|te faire de peine.
+{005956}{006089}Tu as dit que tu ne voulais pas|m'énerver, pour pas avoir à gérer ça.
+{006093}{006214}Tu penses plus à t'éviter|des ennuis qu'à me protéger.
+{006460}{006505}Joyeux Noël.
+{006669}{006737}Mettez-moi une couche satinée.
+{006769}{006811}Excusez-moi.
+{006932}{006968}C'est moi.
+{006972}{007057}Tu connais le Russe, Valery,|qui bosse pour Slava ?
+{007061}{007104}Il doit 5 000 $ à Sil.
+{007108}{007184}Pour l'autre truc.|Va les récupérer demain.
+{007188}{007276}- Envoie Silvio.|- Il rentre chez lui, il a la grippe.
+{007280}{007362}- J'ai pas entendu.|- Il est malade !
+{007366}{007438}Je dois emmener ma mère|à la Sécurité sociale, demain.
+{007442}{007581}Vas-y après. Il habite à Fair Lawn, 327|Dexter Avenue, appartement numéro 6.
+{007585}{007659}- Pourquoi on bosse avec eux ?|- Devine.
+{007663}{007696}Ils nous rapportent du fric.
+{007759}{007806}La famille va bien ?
+{007825}{007915}- Je me soucie pour notre fille.|- Pourquoi ?
+{007919}{007967}Elle sort avec un garçon.
+{007971}{008059}Le fils d'amis de la famille,|d'ailleurs.
+{008063}{008212}Je vous en ai parlé. Je ne suis plus|aussi ravi que je l'ai été.
+{008216}{008299}Elle fréquentait un autre garçon,|un Afro-Américain.
+{008307}{008376}Ils ont rompu.|En fait, c'est lui qui a rompu.
+{008380}{008406}Bizarre, non ?
+{008410}{008457}Tu ne lui as pas laissé le choix.
+{008461}{008517}C'est ma faute|si elle sort avec Jackie ?
+{008522}{008594}Si t'avais pas été|aussi méchant avec l'autre...
+{008598}{008668}elle ne serait|peut-être pas avec lui.
+{008834}{008939}Je trouve intéressant le fait|que vous en parliez sans rancoeur.
+{009028}{009111}En ce moment,|on se dispute très rarement.
+{009115}{009212}C'est grâce à la thérapie.|On apprend à communiquer.
+{009251}{009358}1 8, mot compte double, ça fait 36.
+{009362}{009396}Pas d'espagnol.
+{009426}{009482}- De l'espagnol ?|- "Oblique" ?
+{009486}{009526}Oblique...
+{009530}{009640}indirect, pas droit.|T'es à la fac, quand même !
+{009653}{009714}J'étudie pas l'anglais.
+{010009}{010043}CUL
+{010071}{010169}- Et si on s'envoyait en l'air ?|- Jackie, je suis malade.
+{010178}{010245}Je sais. Je plaisantais.
+{010339}{010387}A moins que t'en aies envie.
+{010418}{010463}Je plaisante.
+{010707}{010779}- Tu veux de l'ecsta ?|- Je prends du Sudafed.
+{010896}{010968}- T'es fatigué ?|- Ouais, je suis cassé.
+{010972}{011003}On finit demain ?
+{011139}{011172}T'es brûlante.
+{011176}{011252}Je passerai demain soir.
+{011261}{011306}Tu t'en vas ?
+{011328}{011388}Je te laisse dormir.
+{011554}{011613}Les Russes ne sont pas tous nuls.
+{011617}{011666}Et la crise nucléaire à Cuba ?
+{011670}{011766}Ces connards ont mis des ogives|nucléaires pointées sur nous.
+{011770}{011882}J'ai vu le film,|j'ai cru que c'était bidon.
+{011940}{012000}- Qui est là ?|- Le KGB.
+{012004}{012041}Ouvre !
+{012273}{012329}On t'a réveillé ?
+{012335}{012404}Ou les trente mecs|qui habitent avec toi...
+{012435}{012506}- Vous voulez ?|- C'est un peu tôt.
+{012640}{012767}Mate-moi ce matos.|Télé, chaîne hi-fi, DVD...
+{012910}{012972}- Et ça, c'est quoi ?|- Un zappeur universel.
+{012976}{013027}Un zappeur universel !
+{013034}{013135}Dire que tu te torchais à la main|avant de débarquer chez nous !
+{013139}{013232}- Tu as le fric de Silvio ?|- Enfoiré de Silvio !
+{013241}{013271}Attention, camarade !
+{013284}{013348}L'argent est|sur le coin divertissement.
+{013477}{013585}- C'est pas des roubles, j'espère.|- Remets le zappeur à sa place.
+{013616}{013674}Le zappeur universel.
+{013691}{013757}Remets-le à sa place.
+{013764}{013835}Ce con nous donne des ordres !
+{013839}{013906}T'es sacrément gonflé.
+{014001}{014052}J'ai pas fait exprès.
+{014083}{014177}Tu viens foutre le bordel, enfoiré !|Chez moi...
+{014181}{014227}Comment tu m'as appelé ?
+{014453}{014521}Paulie, viens m'aider !
+{015317}{015426}- Putain ! Pourquoi ?|- J'avais pas le choix.
+{015493}{015518}Il va mourir.
+{015526}{015594}Je lui ai écrasé la trachée,|il est foutu.
+{015598}{015649}T'es médecin, maintenant ?
+{015683}{015733}Va chercher la bagnole.
+{016238}{016279}Je me sens bêêêête
+{016465}{016515}A propos de l'autre jour...
+{016522}{016589}Je n'aurais pas dû|répondre au téléphone.
+{016623}{016660}C'est pas grave.
+{016678}{016727}Désolé d'avoir menti.
+{016739}{016774}Tu l'ouvres ?
+{017230}{017317}- Magnifique !|- Ca vient du Maroc.
+{017376}{017450}Je me sens con,|j'ai rien pour toi.
+{017913}{017986}Tu te trompes. Je dois voir qui c'est.
+{018186}{018230}Il faut que je réponde.
+{018278}{018316}Tony, c'est moi.
+{018327}{018431}On a vu le mec,|il y a eu un problème. Ça a dégénéré.
+{018460}{018534}Tu devais ramasser le blé.
+{018538}{018661}Il nous a fait chier,|et il m'a frappé.
+{018665}{018691}Quitte pas.
+{018725}{018762}Ne quitte pas.
+{018883}{018924}Où tu es ?
+{018933}{018996}Sur une aire de repos.
+{019063}{019095}Et le mec ?
+{019099}{019159}- Dans le coffre.|- Tu te fous de moi ?
+{019182}{019291}- Je t'entends plus.|- J'ai dit : "Tu te fous de moi ?"
+{019295}{019343}On n'a pas eu le choix.
+{019347}{019426}Quand je verrai Slava,|qu'est-ce que je lui dirai ?
+{019430}{019503}C'est bon. Personne nous a vus.
+{019518}{019563}On fait quoi ?
+{019654}{019758}A toi de voir, mais surtout,|je ne veux pas y être mêlé.
+{019794}{019843}Quel connard !
+{019880}{019978}- T'as usé trop d'eau.|- J'ai un ennui au boulot.
+{020079}{020129}Tu veux aller déjeuner ?
+{020146}{020195}C'est toi, mon déjeuner.
+{020211}{020257}Je dois retourner bosser.
+{020271}{020316}On dîne ensemble ?
+{020320}{020376}Qu'est-ce que tu suggères ?
+{020392}{020498}21 h, chez moi.|Tu aimes le steak ?
+{020674}{020798}- On peut le jeter à la mer.|- Il fait jour. Attendons.
+{020830}{020946}- On va chez Roy Rogers ? T'as faim ?|- Chaque chose en son temps.
+{020950}{021019}J'ai pas pris de petit-déjeuner.
+{021023}{021072}C'est le repas le plus important.
+{021153}{021178}Bonjour !
+{021245}{021322}- On va l'emmener à Pine Barrens.|- C'est dans le sud.
+{021326}{021416}C'est parfait.|Il n'y a jamais personne là-bas.
+{021420}{021497}On l'emmène dans les bois,|on creuse un trou, et basta.
+{021501}{021599}Il y a de la neige,|ça va être dur.
+{021603}{021685}J'ai une pelle dans la voiture.
+{021689}{021763}Le plus beau, c'est qu'on sera|à 20 minutes d'Atlantic City.
+{021767}{021836}On prend une piaule, on se douche,|et on va jouer.
+{021840}{021877}D'abord, on bouffe.
+{021881}{021924}On ira manger un steak chez Morton.
+{021943}{022017}Histoire de pas foutre en l'air|la journée.
+{022099}{022174}On dirait que ça va bien|entre Carmela et vous.
+{022202}{022248}C'est la thérapie.
+{022490}{022558}Bon, je vais être honnête.
+{022615}{022662}J'ai une amie.
+{022699}{022743}Une de vos patientes.
+{022798}{022844}Gloria Trillo.
+{022876}{022904}Pourquoi Gloria ?
+{022908}{023005}Pourquoi pas ?|Elle est intelligente, sexy, italienne.
+{023009}{023103}- Italienne ?|- Je suis fidèle à ma race.
+{023119}{023183}C'est West Side Story ?
+{023219}{023307}L'avoir rencontrée en thérapie,|ça veut dire quelque chose ?
+{023311}{023362}Elle me fait penser à vous.
+{023368}{023403}Très bien.
+{023413}{023441}En quoi ?
+{023445}{023525}Intelligente, sexy, italienne.
+{023591}{023657}Elle n'est pas comme vous.
+{023668}{023698}Ou...
+{023734}{023768}juste un peu.
+{023776}{023834}- Qui d'autre ?|- Vous avez de belles jambes.
+{023838}{023906}- Continuez à plaisanter.|- Ne soyez pas jalouse.
+{023910}{023950}On s'est rencontrés chez vous !
+{023974}{024016}Le jour où vous vous êtes croisés ?
+{024020}{024099}Le truc,|c'est qu'elle me rend heureux.
+{024176}{024224}Elle vous semble heureuse ?
+{024230}{024371}Quand elle est avec moi, oui.|Et vous savez quoi ? Moi aussi.
+{024470}{024582}Mentir à Carmela pendant une séance|va aider vos crises d'angoisse ?
+{024586}{024659}Ça va bien entre elle et moi,|vous l'avez dit.
+{024663}{024705}Tout ça est basé sur un mensonge.
+{024709}{024839}Basez-le sur mes fesses, je m'en fous.|Je suis satisfait et détendu.
+{024843}{024927}Et donc, meilleur mari et père.
+{024945}{025033}Si vous voulez la vérité,|j'adore ma femme...
+{025037}{025102}mais être avec Gloria,|c'est mieux...
+{025106}{025206}que Prozac et thérapie mélangés.
+{026201}{026290}- Qu'est-ce que t'en penses ?|- On aurait dû manger.
+{026404}{026457}Ce salopard est vivant !
+{026501}{026579}T'as vu ça ?|Il a bouffé le scotch.
+{026586}{026617}Putain de merde !
+{026624}{026719}- Continue à gueuler et je te bute.|- Je t'emmerde !
+{026797}{026853}Prends la pelle.
+{027389}{027423}Ca caille !
+{027427}{027549}Tu t'habilles en pyjama|en plein hiver, toi ?
+{027625}{027705}- C'est assez loin ?|- Ca ira.
+{027748}{027846}- Qu'est-ce que tu fous ?|- C'est pas nous qui allons creuser.
+{027850}{027930}Vas-y, connard. Bosse !
+{027934}{028036}Je sais que c'est dur,|mais active ta force sibérienne.
+{028040}{028088}Je vous tuerai !
+{028110}{028169}Vous croyez que le froid me dérange ?
+{028240}{028295}Je me lave les couilles à l'eau glacée.
+{028299}{028381}Ça, c'est chaud.
+{028385}{028436}Connards d'Américains !
+{028465}{028525}- Qu'est-ce qu'il dit ?|- On s'en fout.
+{028532}{028575}Creuse !
+{028588}{028718}Quand on a débarqué chez toi,|on pensait pas te buter.
+{028739}{028851}Il va falloir que t'apprennes|à fermer ta grande gueule.
+{028863}{028926}On est loin d'Atlantic City ?
+{029976}{030001}Je l'ai eu, non ?
+{030048}{030100}Il est peut-être assommé.
+{030463}{030526}- C'est moche ?|- Faudra recoudre.
+{030530}{030635}On l'achève et on le recouvre de neige.|Il est parti par où ?
+{030639}{030743}Il peut pas être loin,|sa tête doit pendre à moitié.
+{030747}{030809}Il y a du sang.
+{030958}{031038}Où il est, ce con ?|Je l'ai eu à la tête ?
+{031042}{031099}J'en suis sûr.
+{031103}{031216}Je vois plus de sang.|La trace s'arrête net.
+{031643}{031678}Tu dînes avec nous ?
+{031735}{031797}Je vais faire les courses.
+{031864}{031968}C'est comme les poulets|qui courent sans leur tête.
+{032054}{032102}C'est dingue !
+{032148}{032171}Où vous êtes ?
+{032175}{032246}- A Pine Barrens.|- Vous l'avez emballé ?
+{032256}{032352}Pas encore, on allait le faire,|mais on a eu un problème.
+{032356}{032395}Quel problème ?
+{032403}{032471}Le paquet a frappé Chris|avec un outil et il a filé.
+{032475}{032500}Filé ?
+{032513}{032563}Je croyais qu'il était...
+{032567}{032663}On le croyait aussi.|C'est compliqué. On le cherche.
+{032667}{032767}- Je t'entends plus.|- On le cherche !
+{032812}{032837}Il peut survivre ?
+{032841}{032879}Le paquet ?
+{032905}{032947}Le paquet pourrait survivre ?
+{032968}{033043}Est-ce que le paquet|pourrait survivre ?
+{033047}{033087}Non, c'est impossible.
+{033180}{033210}L'enfoiré !
+{033233}{033345}J'ai rendez-vous avec Slava.|Autant entrer dans une bétonnière.
+{033470}{033517}- Qu'est-ce qu'il dit ?|- Je sais pas.
+{033521}{033588}Il s'inquiète à cause de ce con|de Slava.
+{033592}{033692}Je sais qu'on bosse avec lui,|mais on se demande ce que fait Tony.
+{033696}{033805}- Ça nous regarde pas.|- Je suis capitaine !
+{033816}{033874}T'as du feu ?|Mon briquet est dans la bagnole.
+{033879}{033917}Le mien aussi.
+{033991}{034058}Je suis pas assez couvert.
+{034093}{034193}- Il doit être mort.|- C'est évident.
+{034208}{034321}Et merde, on se casse.|Les écureuils le boufferont.
+{034325}{034417}- On est garés où ?|- Par là-bas, à un kilomètre.
+{034421}{034485}Je crois qu'on a tourné|à un moment.
+{034489}{034629}J'ai fait quatre ans dans l'armée.|On va suivre nos traces de pas.
+{035029}{035178}Attends ! On tourne en rond,|comment ça se fait ?
+{035182}{035251}Voyons ça intelligemment.
+{035255}{035326}On allait vers le sud|et le soleil se couche là.
+{035330}{035404}- Ça nous avance à quoi ?|- On sait quelle direction on prend.
+{035408}{035543}- On est quand même paumés.|- On n'est pas paumés, fais pas chier.
+{035699}{035731}Slava ?
+{035787}{035845}Entre.
+{035869}{035943}Ma fille, Ilana.|Dis bonjour à M. Soprano.
+{035995}{036064}Va t'acheter des bonbons.
+{036177}{036219}Très jolie fille.
+{036223}{036329}Elle est brillante. Un jour,|elle ira à Harvard, Massachusetts...
+{036333}{036371}peut-être.
+{036525}{036556}La famille...
+{036571}{036618}C'est le plus important.
+{036622}{036679}C'est pour ça qu'il faut prévoir.
+{036683}{036721}Il y a 200.
+{036782}{036917}Même manoeuvre.|A l'île de Man. Quatre jours, propre.
+{036948}{036980}On boit.
+{037204}{037289}Où est ton copain ?
+{037297}{037326}Valery ?
+{037349}{037386}Aucune idée.
+{037401}{037472}Il a donné l'argent à Silvio|comme je le lui ai demandé ?
+{037476}{037512}Je sais pas, j'y étais pas.
+{037756}{037807}C'est toi et lui ?
+{037942}{037992}C'était comme un frère.
+{038022}{038075}Plus proche, même.
+{038117}{038167}Mais là, il est foutu.
+{038176}{038274}- Comment ça ?|- L'alcool. La drogue.
+{038278}{038342}Il fait honte à sa famille.
+{038354}{038403}Ca me brise le coeur.
+{038494}{038562}Et les Alcooliques Anonymes ?
+{038612}{038695}En Tchétchénie,|il m'a sauvé la vie.
+{038877}{038905}Tu es...
+{038943}{038978}très émotif.
+{039082}{039148}Je ferais tout pour lui.
+{039281}{039335}T'inquiète pas,|on va la trouver.
+{039339}{039428}J'ai mal au coeur et à la tête.
+{039510}{039560}La connexion est mauvaise,|je parle vite.
+{039565}{039643}Le type que vous cherchez|est un ex-commando.
+{039647}{039703}Il a tué 1 6 rebelles tchétchènes|tout seul.
+{039707}{039776}T, c'est toi ?
+{039792}{039827}Et merde !
+{039843}{039921}- J'ai pas entendu.|- Je parle vite.
+{039925}{040033}Le type est un ex-commando.|Il a tué 1 6 rebelles tchétchènes.
+{040037}{040113}- Arrête tes conneries !|- C'est sympa, non ?
+{040117}{040233}Au ministère de l'Intérieur.|C'est un genre de béret vert russe.
+{040237}{040362}Il ne faut pas qu'il revienne|tout raconter. Tu me comprends ?
+{040368}{040405}Très bien.
+{040453}{040518}Tony, t'es là ?
+{040583}{040625}Rappelle-moi !
+{040707}{040814}Tu vas pas le croire.|Il a tué 1 6 Tchèques.
+{040818}{040892}Il décorait des intérieurs.
+{040910}{040972}Sa maison est minable.
+{041293}{041374}T'as pas entendu|un craquement de brindilles ?
+{041378}{041434}Tu m'as dit que|je l'avais touché à la tête.
+{041444}{041518}C'est un vrai Raspoutine, ce mec.
+{041612}{041643}Tu l'as vu ?
+{041685}{041735}Il court.
+{042072}{042097}Putain de merde !
+{042305}{042368}Je crois que je l'ai eu.
+{042636}{042715}On aurait voulu le faire exprès...
+{042739}{042791}J'ai perdu ma godasse.
+{043094}{043122}Comment ça va ?
+{043126}{043234}- Très mal. Tu vas venir ?|- Je fais réviser la bagnole de maman.
+{043248}{043271}Le soir ?
+{043275}{043353}Mon pote garagiste|a pas le temps sinon.
+{043357}{043455}- Ça m'agace, j'ai envie de te voir.|- Fais-le demain.
+{043459}{043574}Impossible. Ma mère a besoin|de la voiture et j'ai des trucs à virer.
+{043578}{043636}Je te rappelle.
+{043932}{043967}CACA
+{043999}{044037}CUL
+{044075}{044113}LE
+{044473}{044567}C'est vraiment grave.|Je risque de perdre mon pied.
+{044571}{044659}- Tu le sens plus ?|- A ton avis !
+{044716}{044810}Comment on a fait pour se paumer ?|On est dans le New Jersey.
+{044814}{044864}Oui, mais dans le sud.
+{044909}{044972}- Si on mangeait ces baies ?|- T'es dingue.
+{044976}{045086}Et si c'est du poison ?
+{045186}{045217}C'est quoi, là-bas ?
+{045270}{045313}On dirait une camionnette.
+{045430}{045505}Il y a du gravier sous la neige.
+{045547}{045603}Il manque les roues arrière.
+{045829}{045867}Merci, mon Dieu.
+{045871}{045929}Mes oreilles sont givrées.
+{045933}{046037}Je m'en fous !|Trouve-moi un truc pour mon pied.
+{046227}{046303}Ce salaud m'a bien amoché.
+{046330}{046430}Je vais m'asseoir,|le pied sous ma cuisse.
+{046438}{046535}Je vais me servir|de ma chaleur corporelle.
+{046696}{046768}- Et s'il est pas mort ?|- Il est mort !
+{046772}{046832}Je sais, mais 1 6 Tchèques...
+{046836}{046927}Il est formé pour ça.|C'est comme Piège de cristal.
+{047014}{047078}Il paraît qu'il va reneiger.
+{047082}{047169}- Quel temps fait-il au Mexique ?|- Soleil et sombrero.
+{047173}{047214}Tu la connais ?
+{047227}{047257}C'est une vieille blague.
+{047261}{047330}Egon a dit qu'il l'avait inventée.
+{047495}{047603}- T'as pas faim ?|- J'ai déjeuné tard.
+{047988}{048058}Et s'il nous traquait ?
+{048062}{048114}Avec quoi ? Sa queue ?
+{048118}{048247}Réfléchis un peu. Même s'il est vivant,|il est pas armé et il pisse le sang.
+{048251}{048362}Il est en pyjama dans les bois.|C'est le Yukon, dehors.
+{048366}{048466}- Il pense qu'on est partis.|- S'il est vivant, et c'est pas le cas.
+{048663}{048717}- C'est quoi ?|- Un sac en papier.
+{048721}{048783}Il y a plein de ketchup !
+{048787}{048855}- Ils sont propres ?|- Je sais pas, ils étaient dans le sac.
+{048859}{048927}Ils sont un peu givrés.
+{048931}{048964}File !
+{049282}{049369}Pas mauvais,|mélange avec la vinaigrette.
+{049419}{049470}C'est mamie et papy.
+{049501}{049543}Quelle surprise !
+{049547}{049686}- Trois heures chez l'ophtalmo.|- Un glaucome. Il va falloir m'opérer.
+{049757}{049803}Asseyez-vous.
+{049810}{049898}- Vous avez faim ?|- Manger après une telle nouvelle ?
+{049902}{049954}Je vais faire du café.
+{050085}{050128}C'est moi.
+{050132}{050172}T'es où ?
+{050210}{050250}On est toujours là.
+{050266}{050300}Et ?
+{050309}{050373}- C'est pas bon.|- Putain, c'est le pied !
+{050377}{050435}Il est obligé d'être grossier ?
+{050439}{050498}On est carrément perdus.
+{050503}{050552}On a marché pendant des heures...
+{050568}{050654}j'ai perdu une chaussure,|on a trouvé une camionnette.
+{050658}{050729}Une camionnette ?|Qu'est-ce que tu racontes ?
+{050733}{050781}- Aide-nous.|- Quoi ?
+{050785}{050821}Donne-nous un conseil.
+{050825}{050902}Restez jusqu'au matin|et retrouvez le mec.
+{050906}{050932}On essaie.
+{050936}{051019}- Putain de téléphone !|- Merci, Tony. Vraiment.
+{051034}{051076}Je devrais être content ?
+{051147}{051266}Ton neveu réfléchit|pas toujours avant d'agir. C'est tout.
+{051270}{051343}- Le connard t'a pas frappé, toi ?|- Mais si.
+{051410}{051456}On se rappelle.
+{051686}{051732}Tu veux un café ?
+{051800}{051864}Mon père a un glaucome.
+{052027}{052095}Ici, Jackie, laissez un message.
+{052128}{052175}C'est encore moi.
+{052183}{052291}Tu devais me rappeler.|Où es-tu passé ?
+{052466}{052584}Désolée, mais j'aimerais|emprunter ta voiture.
+{053071}{053157}Si je voulais être dédaignée,|je me marierais.
+{053161}{053195}Excuse-moi.
+{053231}{053326}- J'ai eu un imprévu.|- Le dîner est foutu.
+{053409}{053457}On ira au resto.
+{053529}{053576}Où tu veux.
+{053624}{053678}Ne réagis pas comme ça.
+{053682}{053730}Tu ne me respectes pas.
+{053740}{053788}J'ai dit pardon.
+{053858}{053901}Une connerie de famille...
+{053938}{053984}J'ai pas pu l'éviter.
+{054037}{054089}Laisse-moi me faire pardonner.
+{054108}{054199}Tu as trois heures de retard.
+{054212}{054322}Je sais. Maintenant, je suis là.
+{055099}{055161}C'est n'importe quoi !
+{055165}{055265}C'était le fric de Silvio,|à lui de s'en occuper.
+{055286}{055375}Cet enfoiré a la crève,|et on se retrouve coincés ici.
+{055379}{055477}- T'aurais pas dû le frapper.|- J'ai rien à foutre ici !
+{055516}{055579}Il s'est foutu de ma gueule,|ton oncle.
+{055583}{055631}C'est de sa faute maintenant.
+{055639}{055732}Tu aurais dû l'entendre|me parler comme à un gosse.
+{055755}{055817}Tu sais combien|je lui ai rapporté ?
+{055821}{055874}Et avant lui, à son père ?
+{055878}{055938}Il vit comme un roi.
+{055942}{056046}Et il ne jure plus que|par cette enflure de Ralphie.
+{056053}{056142}Je veux dormir,|file-moi du tapis.
+{056330}{056373}J'ai réfléchi à un plan.
+{056411}{056436}Un plan ?
+{056443}{056477}On est dans une camionnette.
+{056481}{056557}Elle est arrivée jusqu'ici,|il y a forcément une route.
+{056565}{056613}Elle s'arrête aux arbres.
+{056622}{056678}File-moi tes godasses,|je vais chercher de l'aide.
+{056682}{056739}Tu me laisseras pas seul ici.
+{056743}{056801}- Tu me fais pas confiance ?|- Il fait nuit noire.
+{056805}{056863}Ton plan,|c'est bouffer du ketchup ?
+{056867}{056948}- Fallait aller chez Roy Rogers !|- Fallait baiser Dale Evans !
+{057115}{057171}- Qu'est-ce que tu fais ?|- Je rappelle Tony.
+{057175}{057270}- Tu vas l'énerver.|- Je m'en fous. On va crever, nous !
+{057641}{057673}C'est moi.
+{057677}{057717}Qu'est-ce qu'il y a encore ?
+{057724}{057801}Chris saigne de la tête|et je vais mourir de froid.
+{057805}{057830}Calme-toi !
+{057834}{057908}J'en ai marre de me calmer.|On crève de faim !
+{057917}{057983}- Qu'est-ce que je peux faire ?|- Viens nous chercher.
+{058002}{058082}- Tu sais pas où vous êtes.|- Sortie 12.
+{058086}{058133}- Quoi ?|- Sortie 1 2 !
+{058137}{058209}- Pike's Hollow.|- Pike's Hollow.
+{058213}{058263}Il y a un chemin de terre|à l'embranchement.
+{058267}{058327}On s'est garés à 1 km de là.
+{058331}{058428}- Et quand j'aurai trouvé ?|- Je sais pas. Crie.
+{058433}{058540}On est dans une camionnette.|On est peut-être sur le même chemin.
+{058544}{058598}Passe-moi mon neveu.
+{058714}{058782}- Comment ça va ?|- J'ai mal à la tête.
+{058786}{058867}- Je t'entends pas.|- Je crois que j'ai une commotion.
+{058884}{058945}Surtout, restez tranquilles.
+{058949}{059032}- Apporte-nous à bouffer.|- Et des godasses !
+{059038}{059101}Ne bougez pas.
+{059198}{059233}J'y vais.
+{059276}{059357}- Tu te fous de moi ?|- Il y a une urgence.
+{059386}{059463}- T'attends quoi de moi ?|- Tu me prends pour une pute ?
+{059467}{059496}Calme-toi.
+{059500}{059557}Tu viens simplement|pour me sauter ?
+{059561}{059612}J'ai pas le temps|pour ces conneries.
+{059616}{059693}Tu t'en vas ? Espèce de merdeux.
+{059697}{059750}Emporte ton dîner !
+{060101}{060167}Je te déteste !
+{060487}{060531}Je sais qu'il me trompe.
+{060543}{060596}Je l'ai compris à sa voix.
+{060601}{060684}Réviser une bagnole ?|N'importe quoi.
+{060811}{060852}Et si je me trompais ?
+{060865}{060979}Je serais à son niveau.|On devrait s'en aller.
+{061196}{061231}Désolé de t'avoir réveillé.
+{061256}{061311}A cause de la chimio,|je vomis toute la nuit.
+{061382}{061460}- T'as appelé Bobby ?|- Il arrive.
+{061505}{061539}T'as mangé du steak ?
+{061594}{061626}Je sais pas.
+{061648}{061696}Prête-moi une chemise.
+{061700}{061730}Tu veux du thé ?
+{062191}{062232}Va te faire foutre !
+{062248}{062296}Où tu vas ?
+{062304}{062424}Tu me réveilles en pleine nuit,|et en plus, on se fout de ma gueule ?
+{062428}{062506}Va avec mon neveu, et obéis-lui.
+{062592}{062645}Je change de chemise.
+{062712}{062774}Moi aussi, j'ai des limites.
+{062902}{062941}Sois forte.
+{063348}{063414}-Tu as osé me faire ça !|- Toi, ici ?
+{063418}{063479}- Je t'aimais.|- T'es qui ?
+{063483}{063529}- Va te faire voir !|- Pardon ?
+{063533}{063601}- Ne m'appelle plus jamais.|- Meadow, attends.
+{063677}{063733}Casse-toi, salope !
+{063826}{063900}T'es dingue ou quoi ?|C'est la fille de Tony Soprano.
+{063904}{063954}J'en ai rien à faire.
+{064151}{064277}Tu t'y connais ?|Tu connais les bois et la chasse ?
+{064281}{064356}J'y allais chaque année|avec mon père.
+{064387}{064454}Excuse-moi d'avoir rigolé.
+{064464}{064504}C'est pas grave.
+{064539}{064607}Une fois, on est allés chasser...
+{064629}{064736}et on a vu écrit :|"Attention aux ours». On est repartis.
+{064896}{064978}Je te remercie|de t'occuper de mon oncle.
+{065077}{065160}- Il t'aime, tu sais.|- Ce vieux couillon ?
+{065164}{065250}Je t'assure.|Il parle de toi tout le temps.
+{065254}{065343}T'as eu du mal parfois,|mais...je sais pas.
+{065383}{065454}J'aimerais qu'il soit mon oncle.
+{065774}{065813}Quelle heure ?
+{065919}{065958}4 h 30.
+{066053}{066106}Où il est ?
+{066156}{066266}- C'est des tic-tac ?|- Je savais pas que j'en avais.
+{066270}{066315}Tu les avais sur toi ? Donne.
+{066323}{066412}- J'ai tout bouffé.|- Sale égoïste ! Je vais mourir, moi.
+{066416}{066466}Qu'est-ce que t'attends ?
+{066470}{066541}- Où tu vas ? Ne sors pas.|- Je vais manger les baies.
+{066545}{066595}- C'est du poison.|- Je m'en fous.
+{066600}{066659}Au moins, je mourrai pas de faim.
+{067198}{067233}T'es sûr que c'est là ?
+{067237}{067311}Pike's Hollow.|1 km après, près des tables.
+{067318}{067383}Où est leur voiture ?|Ils sont peut-être partis.
+{067387}{067456}Ils m'auraient d'abord appelé.
+{067460}{067502}Je l'appelle.
+{067860}{067913}Je t'entends pas.
+{067971}{068037}Putain de merde !
+{068050}{068108}C'était Tony ? Il a dit quoi ?
+{068134}{068171}J'en sais rien.
+{068424}{068487}Pisse de ton côté,|merci pour l'odeur.
+{068491}{068519}Va te faire foutre !
+{068523}{068564}- Qu'est-ce que t'as dit ?|- T'as entendu.
+{068571}{068617}Tu me dois le respect.
+{068627}{068763}Capitaine ou pas, on est deux cons|perdus dans les bois.
+{068767}{068835}Rends-toi service, et rendors-toi.
+{068839}{068869}Pour que tu m'étrangles ?
+{068902}{068941}Tu crois que je suis con ?
+{068945}{069032}Je t'ai entendu dire|que c'était ma faute.
+{069036}{069063}Qu'est-ce que tu dis ?
+{069067}{069145}T'as merdé avec le Russe|et t'as peur de Tony.
+{069149}{069236}Tu veux m'étrangler|pour lui donner ta version.
+{069240}{069299}Je t'étrangle tout de suite.
+{069303}{069365}Je te laisse ici,|connard à une godasse.
+{069369}{069400}Baisse ça.
+{069404}{069488}Tu sais que je cours vite.|Je te laisse dans la poussière.
+{069492}{069575}Après tout ce qu'on a vécu,|tu penses que je vais te tuer ?
+{069579}{069620}Ouais.
+{070076}{070128}Promets que tu me laisseras pas.
+{070183}{070237}Je te laisserai pas.
+{070608}{070668}Qu'est-ce qu'on fait ?
+{070672}{070809}On peut rien faire. On attend|que le jour se lève et on y va.
+{071064}{071169}40. On va te soigner,|puis te renvoyer chez toi.
+{071232}{071291}C'est pas vrai. Tu vas bien ?
+{071295}{071376}Elle a pas dormi de la nuit.
+{071380}{071419}C'est fini.
+{071433}{071476}Il me trompait.
+{071528}{071610}On est allés dans le New Jersey|et je les ai vus ensemble.
+{071614}{071662}Une vraie traînée, la fille.
+{071711}{071742}C'est affreux.
+{071772}{071846}C'est de ma faute,|je le lâchais pas.
+{071850}{071904}Tu seras mieux sans lui.
+{071908}{071979}Il était mignon,|mais vraiment ennuyeux.
+{071983}{072082}Tu le connaissais pas comme moi,|tu sais pas où on a grandi.
+{072086}{072217}- Peu importe. C'était une lavette.|- C'est pas vrai. Il était génial !
+{072672}{072719}T'as des pompes de styliste.
+{073268}{073329}De quel côté, tu penses ?
+{073333}{073444}Je m'en fous. On s'arrêtera pas|avant de trouver une route.
+{073753}{073841}Des tas de gens bizarres|vivaient dans ces bois.
+{073851}{073963}Tu te souviens des albinos ?
+{074182}{074232}En premier, je vais chez Denny's.
+{074239}{074358}T'as raison. On prendra|5 de leurs super petits-déjeuners.
+{074529}{074572}Ça va pas ?
+{074576}{074645}Ça tient pas, mon truc.
+{075110}{075194}Arrête !|Et si on a besoin de balles ?
+{075207}{075263}C'est pas un chasseur.
+{075588}{075648}Par ici !
+{075729}{075759}Où vous êtes ?
+{076202}{076243}Merci, mon Dieu !
+{076247}{076289}Tout va bien ?
+{076326}{076421}- Pourquoi t'as tiré ?|- Laisse tomber.
+{076425}{076543}- Dans quel état vous êtes !|- Toute la nuit dans ce fourgon.
+{076705}{076733}Doucement.
+{077069}{077193}- C'est là ?|- Oui, mais ma bagnole a disparu.
+{077197}{077282}- Tu es sûr que c'était ici ?|- Sûr et certain.
+{077286}{077334}Il y a du chauffage ?
+{077579}{077619}Je sens plus mes orteils.
+{077623}{077684}- T'as des couvertures ?|- Non, désolé.
+{077688}{077735}Allume le chauffage.
+{077824}{077909}Ca me tue !|J'adorais ma caisse.
+{077913}{077978}- C'est sûrement des gamins.|- Et si c'était le mec ?
+{078050}{078080}T'as le fric ?
+{078122}{078164}Il était dans la bagnole.
+{078193}{078293}- C'est tout ce que je te demandais.|- Excuse-moi, mais on n'a rien pu faire.
+{078297}{078347}Le gars nous est tombé dessus.
+{078494}{078535}Je sais que j'ai merdé...
+{078539}{078618}C'est pas grave, n'y pense plus.
+{078692}{078763}A ton avis...|On le cherche ?
+{078775}{078836}Dis-moi si ça en vaut la peine.
+{078840}{078913}Je l'ai touché à la tête,|je l'ai bien vu.
+{078965}{079045}- Il a pu sortir d'ici vivant ?|- C'est dur à savoir.
+{079049}{079120}Une simple blessure, peut-être,|mais à la tête...
+{079124}{079190}Enfin, tout est possible.
+{079327}{079412}Tu es capitaine, tu décides.
+{079685}{079736}On se casse.
+{079767}{079800}D'accord.
+{079827}{079893}Mais soyons clairs.
+{079897}{079984}Si ce connard refait surface,|tu t'en occuperas sans moi.
+{079988}{080096}Tu parleras à Slava, tu te feras|engueuler, tu paieras les pots cassés.
+{080191}{080228}Très bien.
+{080898}{080960}T'as de la mayonnaise.
+{080996}{081051}De la mayonnaise !
+{081805}{081849}Elle a un problème.
+{081853}{081944}Tout va bien et tout d'un coup,|elle pète un câble.
+{081956}{082057}Je vous ai demandé|si vous la trouviez heureuse.
+{082061}{082156}J'aurais dû deviner qu'elle|me lancerait un steak à la figure ?
+{082183}{082277}Lisez entre les lignes|à votre manière.
+{082417}{082486}Pourquoi tout est si dur ?
+{082521}{082641}Je dis pas que je suis parfait,|mais je suis réglo avec ma famille.
+{082686}{082747}Ça compte pour du beurre ?
+{082827}{082947}Il faudrait parler|de ce qui vous a attiré chez Gloria.
+{082951}{083013}On en a déjà parlé.
+{083017}{083079}Et Irina avant elle.
+{083092}{083249}Personnalité dépressive,|instable, impossible à satisfaire...
+{083313}{083404}Est-ce que ça ne vous rappelle pas|une autre femme ?
+{085883}{085908}Traduction :|Isabelle Juhasz
+{085912}{085937}Sous-titrage :|TVS - TITRA Film
+{085941}{085966}Adapté par :|SDI Media Group
+{085970}{085995}[FRENCH]

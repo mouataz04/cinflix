@@ -1,0 +1,2791 @@
+1
+00:00:20,739 --> 00:00:21,707
+Puis-je me joindre à vous ?
+
+2
+00:00:32,386 --> 00:00:33,961
+Ca s'appelle les échecs.
+
+3
+00:00:34,170 --> 00:00:35,274
+C'est un jeu.
+
+4
+00:00:36,302 --> 00:00:38,800
+Ils sont assis comme ça depuis que je suis arrivé.
+
+5
+00:00:38,801 --> 00:00:41,454
+C'est deux là ? Ils jouent tous les jours.
+
+6
+00:00:41,753 --> 00:00:43,320
+Ni l'un ni l'autre n'a encore cligné des yeux.
+
+7
+00:00:43,506 --> 00:00:46,895
+Ce n'est pas vraiment un jeu d'action.
+
+8
+00:00:47,650 --> 00:00:49,182
+J'avais remarqué.
+
+9
+00:00:50,318 --> 00:00:51,910
+Il est surtout question de stratégie.
+
+10
+00:00:52,093 --> 00:00:57,515
+Il pense à son prochain mouvement et au mouvement suivant
+et au mouvement encore après.
+
+11
+00:00:58,481 --> 00:01:00,328
+Vous autres faites beaucoup ça par ici.
+
+12
+00:01:01,042 --> 00:01:02,074
+Oui c'est vrai.
+
+13
+00:01:03,217 --> 00:01:05,753
+Je comprends que ce ne soit pas comme ça que vous préférez faire les choses.
+
+14
+00:01:06,965 --> 00:01:07,995
+Non.
+
+15
+00:01:07,996 --> 00:01:09,265
+Je m'en vais.
+
+16
+00:01:09,266 --> 00:01:10,976
+Hé! Ronon. Attendez !
+
+17
+00:01:10,977 --> 00:01:14,464
+Ce n'est pas parce que vous faites les choses différemment,
+que nous ne pouvons pas apprendre l'un de l'autre.
+
+18
+00:01:14,659 --> 00:01:18,583
+Et le colonel Sheppard a déjà dépensé énormément
+de temps et d'énergie...
+
+19
+00:01:18,584 --> 00:01:20,762
+...à faire en sorte que vous fassiez
+partie intégrante de son équipe.
+
+20
+00:01:22,451 --> 00:01:24,477
+Je veux juste dire que je quitte la table.
+
+21
+00:01:27,521 --> 00:01:28,148
+Oh!
+
+22
+00:01:28,149 --> 00:01:29,024
+Vous allez bien ?
+
+23
+00:01:29,025 --> 00:01:31,651
+Oui bien sur, Je suis désolé. Je pensais que…
+
+24
+00:01:31,652 --> 00:01:32,900
+<i>Dr Weir ?</i>
+
+25
+00:01:33,171 --> 00:01:34,554
+Rodney, qu'est ce qui se passe ?
+
+26
+00:01:34,730 --> 00:01:36,281
+Quelque chose que vous devriez voir ici !
+
+27
+00:01:37,411 --> 00:01:38,908
+Je suis en chemin.
+
+28
+00:01:42,835 --> 00:01:44,530
+Je m'en vais aussi.
+
+29
+00:01:44,531 --> 00:01:45,629
+Ok
+
+30
+00:01:45,805 --> 00:01:47,140
+Ok
+
+31
+00:01:48,472 --> 00:01:49,656
+Qu'est ce que c'est ?
+
+32
+00:01:50,048 --> 00:01:53,432
+C'est la signature d'un vaisseau des anciens appelé Aurora.
+
+33
+00:01:53,750 --> 00:01:57,629
+Avec un ZPM qui alimente maintenant la cité,
+nous avons réactivé les systèmes endormis.
+
+34
+00:01:57,630 --> 00:02:00,612
+Il a repéré l'endroit des vaisseaux des anciens
+pendant la guerre.
+
+35
+00:02:00,830 --> 00:02:01,830
+Un vaisseau de guerre..
+
+36
+00:02:02,005 --> 00:02:07,259
+Voyez, regardez ses yeux, Ils brillent encore.
+Il est pavlovien. J'ai contre vérifié les notations.
+
+37
+00:02:07,500 --> 00:02:09,313
+Ils étaient sur une mission de reconnaissance.
+
+38
+00:02:09,600 --> 00:02:15,532
+Quand nous avons activé le ZPM, la cité a du envoyer
+une sorte de balise automatique dans le sous-espace,
+les rappellants sur Atlantis.
+
+39
+00:02:15,533 --> 00:02:16,993
+Combien de temps avant qu'il n'arrive ici ?
+
+40
+00:02:17,202 --> 00:02:20,601
+Bien, étant donné qu'il est au bord de la galaxie de Pegase...
+
+41
+00:02:20,602 --> 00:02:25,264
+...je retiens 4
+...42.000.000 années.
+
+42
+00:02:25,265 --> 00:02:26,946
+Devons-nous attendre sous le porche ?
+
+43
+00:02:27,333 --> 00:02:30,081
+Donc on part en Jumper par la porte
+la plus proches et on vérifie..
+
+44
+00:02:30,082 --> 00:02:32,223
+Intelligent, mais faux.
+
+45
+00:02:32,224 --> 00:02:33,711
+Il n'y a pas de porte à proximité.
+
+46
+00:02:33,712 --> 00:02:35,566
+Et pas à portée de Jumper
+
+47
+00:02:35,796 --> 00:02:38,563
+Ce qui ne nous laisse qu'un seul moyen pour y arriver.
+
+48
+00:02:41,915 --> 00:02:45,278
+S'il vous plait, ne me forcez pas à vous rappeler que
+j'ai le pouvoir d'utiliser en toute discrétion le deadalus.
+
+49
+00:02:45,279 --> 00:02:49,158
+Je suis au courant de vos pouvoirs Dr Weir,
+mais ils s'arrêtent à la porte de ce vaisseau.
+
+50
+00:02:49,783 --> 00:02:51,921
+- Colonel, devons nous vraiment ?
+- Détendez vous Docteur, je suis d'accord.
+
+51
+00:02:51,922 --> 00:02:55,880
+La valeur d'un vaisseau de guerre des anciens
+entre nos mains, au lieu de celles des Wraith,
+est plus qu'une incitation pour moi.
+
+52
+00:02:55,881 --> 00:02:56,600
+Bien.
+
+53
+00:02:56,700 --> 00:02:58,378
+L'équipe du Colonel Sheppard est prête à partir.
+
+54
+00:02:58,379 --> 00:03:00,044
+Mon équipage peut s'en sortir.
+
+55
+00:03:00,414 --> 00:03:02,975
+Mon equipe est bien plus expérimentée
+sur la téchnologie des anciens.
+
+56
+00:03:02,976 --> 00:03:06,765
+Mes hommes ne pourront obtenir ce type
+d'expérience que sur ce genre de mission.
+
+57
+00:03:06,941 --> 00:03:08,143
+Pas cette mission.
+
+58
+00:03:08,144 --> 00:03:12,393
+Nous l'avons découvert. Nous vérifierons.
+Votre équipage se fera les dents sur quelque chose d'autre.
+
+59
+00:03:12,394 --> 00:03:13,522
+Très bien !
+
+60
+00:03:13,808 --> 00:03:15,863
+L'équipe du Colonel Sheppard devra être prête dans l'heure.
+
+61
+00:03:16,900 --> 00:03:18,886
+Ils sont déjà prêt.
+
+62
+00:03:27,291 --> 00:03:30,143
+Stargate Atlantis
+Saison 2  Episode 09
+
+63
+00:03:30,178 --> 00:03:32,732
+"Aurora"
+
+64
+00:03:32,767 --> 00:03:34,556
+Traduction : Kyoshiro
+
+65
+00:03:34,591 --> 00:03:37,068
+Synchronisation : Soukasays
+
+66
+00:03:37,103 --> 00:03:39,350
+Relecture : Ccad, Soukasays
+
+67
+00:03:39,385 --> 00:03:43,030
+Projet-SG :
+http://projet-sg.aerofrance.net/
+
+68
+00:04:35,070 --> 00:04:36,622
+On devrait avoir le visuel bientôt.
+
+69
+00:04:46,176 --> 00:04:48,958
+Monsieur !
+Nous détectons un deuxième Vaisseau !
+
+70
+00:04:53,330 --> 00:04:54,520
+Poussez-vous !
+
+71
+00:04:56,550 --> 00:04:57,700
+Ca ressemble à un petit vaisseau Wraith.
+
+72
+00:04:57,701 --> 00:04:58,421
+Un Dart ?
+
+73
+00:04:58,422 --> 00:05:01,200
+Non, plus grand. Une sorte de vaisseau de reconnaissance.
+Probablement la même chose que nous.
+
+74
+00:05:01,201 --> 00:05:03,440
+Il change de trajectoire. Il vient droit sur nous.
+
+75
+00:05:03,665 --> 00:05:05,557
+Il a du nous voir sortir de l'hyper-espace
+
+76
+00:05:05,558 --> 00:05:06,744
+A porté de Tir ?
+
+77
+00:05:06,897 --> 00:05:08,064
+5 secondes.
+
+78
+00:05:15,177 --> 00:05:16,076
+La cible est verrouillée !
+
+79
+00:05:16,077 --> 00:05:17,077
+Feu !
+
+80
+00:05:24,113 --> 00:05:25,768
+La cible est détruite.
+
+81
+00:05:26,595 --> 00:05:29,100
+Toutes ces années et c'est seulement maintenant
+que les Wraith découvrent ce vaisseau?
+
+82
+00:05:29,101 --> 00:05:31,316
+Durant toutes ces années, l'Aurora était en sommeil.
+
+83
+00:05:31,317 --> 00:05:35,000
+Le signal venant d'Atlantis l'a réveillé,
+le rendant visible pour les Wraiths comme pour nous.
+
+84
+00:05:37,301 --> 00:05:38,620
+Est-ce lui ?
+
+85
+00:05:52,236 --> 00:05:54,795
+Il semble qu'il se soit trouvé au cœur d'un combat acharné.
+
+86
+00:05:54,982 --> 00:05:56,692
+Et qu'il ait perdu.
+
+87
+00:05:57,026 --> 00:05:57,693
+Des signes de vie ?
+
+88
+00:05:57,694 --> 00:05:59,900
+Non Monsieur.
+
+89
+00:05:59,901 --> 00:06:01,898
+Apparemment vous aller devoir vous habiller colonel.
+
+90
+00:06:01,899 --> 00:06:03,882
+On y va.
+
+91
+00:06:13,131 --> 00:06:15,289
+On doit être juste à l'entrée de la passerelle.
+
+92
+00:06:37,150 --> 00:06:39,631
+Vous voulez dire, ce qui était la passerelle.
+
+93
+00:06:41,990 --> 00:06:43,470
+Colonel Sheppard ?
+
+94
+00:07:13,704 --> 00:07:15,326
+Des modules de stase.
+
+95
+00:07:15,930 --> 00:07:17,496
+Ils sont toujours alimentés.
+
+96
+00:07:17,996 --> 00:07:19,039
+Stase ?
+
+97
+00:07:19,400 --> 00:07:21,713
+Nous avons découvert un module similaire sur Atlantis.
+
+98
+00:07:21,800 --> 00:07:24,953
+Ca garde une personne en vie pendant très lontemps
+
+99
+00:07:24,954 --> 00:07:26,496
+dans une sorte d'hibernation cryogénique.
+
+100
+00:07:26,497 --> 00:07:28,219
+Ouais, et vous appelez ça vivre.
+
+101
+00:07:28,220 --> 00:07:31,248
+L'uniforme de celui-ci est différent des autres.
+Peut être le capitaine ?
+
+102
+00:07:31,248 --> 00:07:33,227
+Ou le Maître des morts.
+
+103
+00:07:34,143 --> 00:07:36,368
+D'après les indicateurs ils sont toujours en vie.
+
+104
+00:07:36,916 --> 00:07:41,955
+Ces capsules doivent avoir une sorte de bouclier.
+C'est pourquoi les capteurs du Daedalus
+ne pouvaient pas les détecter.
+
+105
+00:07:42,470 --> 00:07:44,140
+Regardez tout ça.
+
+106
+00:07:47,100 --> 00:07:51,892
+C'est juste sur cette plate-forme.
+Qui sait combien il y en a   sur ce Vaisseau.
+
+107
+00:07:52,500 --> 00:07:55,935
+Ecoutez, l'autonomie des scaphandres est limitée.
+Pouvez-vous remettre les systèmes vitaux en service ?
+
+108
+00:07:55,936 --> 00:07:57,147
+Je suis dessus.
+
+109
+00:08:16,200 --> 00:08:17,751
+Ils sont tous en vie ?
+
+110
+00:08:19,000 --> 00:08:20,301
+L'équipage au complet ?
+
+111
+00:08:20,466 --> 00:08:25,121
+Et bien, ils sont dans une sorte de vie suspendue.
+
+112
+00:08:26,213 --> 00:08:28,763
+Cependant, pas entièrement suspendue.
+
+113
+00:08:28,764 --> 00:08:33,524
+Le module a ralenti leur vieillissement considérablement,
+mais les corps sont pratiquement moribonds.
+
+114
+00:08:33,525 --> 00:08:37,642
+Teyla et Ronon cherchent sur le reste du vaisseau.
+Mais à mon avis, ils sont une centaine.
+
+115
+00:08:38,131 --> 00:08:39,788
+Y a-t-il quelque chose que nous puissions faire pour eux ?
+
+116
+00:08:39,789 --> 00:08:44,588
+Et bien, les réanimer est hors de question. Ecoutez,
+ces modules sont la seule chose les maintiennent en vie.
+
+117
+00:08:44,800 --> 00:08:46,935
+Qu'est ce qu'on va bien pouvoir faire avec eux ?
+
+118
+00:08:49,342 --> 00:08:50,605
+Attendez !
+
+119
+00:08:50,606 --> 00:08:51,606
+Quoi ?
+
+120
+00:08:54,100 --> 00:08:55,515
+Il se passe quelque chose !
+
+121
+00:08:56,500 --> 00:08:58,733
+Ce module est protégé magnétiquement !
+
+122
+00:08:58,993 --> 00:09:00,395
+Je capte des signaux corticaux.
+
+123
+00:09:00,396 --> 00:09:01,396
+Ce qui veut dire ?
+
+124
+00:09:01,673 --> 00:09:07,157
+Ce module est équipé d'une interface neurale.
+Il indique une activité cérébrale comme si
+ils étaient parfaitement conscients.
+
+125
+00:09:09,100 --> 00:09:14,551
+Si tous ces modules sont interconnectés, il est possible
+que ces gens. soient en train de communiquer entre eux.
+
+126
+00:09:14,839 --> 00:09:17,054
+Et ça à duré 10 000 ans ?
+
+127
+00:09:17,055 --> 00:09:18,051
+Possible,
+
+128
+00:09:18,052 --> 00:09:20,881
+C'est un moyen de garder leurs esprits occupés
+le temps que les secours arrivent.
+
+129
+00:09:21,239 --> 00:09:22,900
+Une Longue conversation.
+
+130
+00:09:22,901 --> 00:09:27,468
+Ouais bien, il est plus probable que l'interface ait été réactivée
+quand la balise de rappel d'Atlantis a été reçue.
+
+131
+00:09:27,600 --> 00:09:30,184
+D'une manière ou d'une autre,
+la boucle de rétroaction neurale s'est mise en activité.
+
+132
+00:09:30,185 --> 00:09:31,958
+Il y a un moyen de savoir ce qu'ils disent ?
+
+133
+00:09:32,402 --> 00:09:34,105
+Oui bien sur, c'est écrit ici !
+
+134
+00:09:34,106 --> 00:09:38,106
+Pourquoi les petits génies doivent-ils
+s'arrêter pour répondre à de telles questions ?
+
+135
+00:09:38,570 --> 00:09:40,191
+C'est une question censée docteur.
+
+136
+00:09:40,365 --> 00:09:41,966
+Bien sur qu'elle l'est !
+
+137
+00:09:41,967 --> 00:09:45,562
+Être capable de communiquer avec un ancien encore en vie
+est l'opportunité de toute une vie.
+
+138
+00:09:45,563 --> 00:09:49,418
+Mais ce système est un système
+hautement complexe auquel je devrai..
+
+139
+00:09:50,200 --> 00:09:50,927
+Attendez une minute.
+
+140
+00:09:50,928 --> 00:09:51,878
+Quoi ?
+
+141
+00:09:51,929 --> 00:09:53,168
+La réponse à votre question.
+
+142
+00:09:53,299 --> 00:09:55,821
+Teyla !
+Avez-vous trouvez encore d'autre modules ?
+
+143
+00:09:55,822 --> 00:09:59,149
+Oui, beaucoup. Et il y a encore beaucoup
+de plates-formes que nous n'avons pas vérifiées.
+
+144
+00:09:59,150 --> 00:10:01,050
+Y a-t-il des modules vides ?
+
+145
+00:10:01,051 --> 00:10:02,051
+Quelques uns.
+
+146
+00:10:02,800 --> 00:10:04,142
+Parfait.
+
+147
+00:10:10,006 --> 00:10:11,846
+Vous êtes sur que c'est une bonne idée ?
+
+148
+00:10:12,000 --> 00:10:13,431
+Quel est le problème colonel ?
+
+149
+00:10:13,432 --> 00:10:14,797
+Vous n'avez pas confiance en moi ?
+
+150
+00:10:15,215 --> 00:10:16,527
+Non.
+
+151
+00:10:17,122 --> 00:10:18,098
+Très bien !
+
+152
+00:10:18,300 --> 00:10:21,388
+Vous proposez de vous congelez dans l'un de ces modules ?
+
+153
+00:10:21,389 --> 00:10:25,564
+Je devrais pouvoir le brancher sur le réseau neural
+sans vraiment initialiser la stase.
+
+154
+00:10:25,565 --> 00:10:28,394
+<i>Ecoutez, ça ne prendra pas longtemps.
+Je serai dedans et dehors.</i>
+
+155
+00:10:31,652 --> 00:10:36,961
+Ecoutez le moyen le plus rapide de savoir ce qui se passe
+est de se brancher sur le système
+et de communiquer directement avec le capitaine.
+
+156
+00:10:37,187 --> 00:10:39,932
+Dois-je vous rappeler la valeur évidente de tout ça.
+
+157
+00:10:39,933 --> 00:10:41,549
+Mais est ce sans risque ?
+
+158
+00:10:41,550 --> 00:10:44,376
+Est-ce que je serais volontaire pour y aller
+si ça ne l'était pas ?
+
+159
+00:10:44,805 --> 00:10:45,806
+Non.
+
+160
+00:10:46,000 --> 00:10:49,031
+Ce qui me fait dire que c'est suffisamment sur
+pour que j'y aille.
+
+161
+00:10:49,407 --> 00:10:49,823
+Quoi ?
+
+162
+00:10:49,824 --> 00:10:52,011
+- Il est préférable de vous garder au dehors
+si jamais quelque chose tourne mal.
+
+163
+00:10:52,012 --> 00:10:52,700
+Ca n'arrivera pas !
+
+164
+00:10:52,701 --> 00:10:53,774
+Mais si ça arrive ?
+
+165
+00:10:53,775 --> 00:10:55,874
+- Ca n'arrivera pas !  Combien de fois devrais-je le dire ?
+- Rodney !
+
+166
+00:10:55,875 --> 00:11:00,299
+Entre vous deux, si quelque chose se passait mal ?
+Quelle serait la plus grande perte ?
+
+167
+00:11:00,300 --> 00:11:02,741
+Ben, je n'ai pas pensé à ça de cette façon là mais….
+
+168
+00:11:03,036 --> 00:11:05,532
+Euh elle a raison ! Vous devriez y aller.
+
+169
+00:11:13,763 --> 00:11:14,916
+Maintenant, souvenez vous.
+
+170
+00:11:14,917 --> 00:11:19,260
+Le système crée une boucle de rétroaction directe entre
+le processeur et vos ondes cérébrales, donc..
+
+171
+00:11:19,261 --> 00:11:22,904
+quand vous voudrez vous déconnecter,
+vous aurez besoin d'euh.., d'être vraiment bien concentré.
+
+172
+00:11:22,905 --> 00:11:24,172
+Vous voulez dire d'y penser.
+
+173
+00:11:24,173 --> 00:11:28,200
+Je pense qu'il vous faudra un peu plus que ça. Autrement,
+vous sortirez à chaque fois que ça vous viendra à l'esprit.
+
+174
+00:11:28,201 --> 00:11:30,941
+Donc, Il n'y a pas d'entrée comme dans maison ?
+
+175
+00:11:30,942 --> 00:11:32,450
+Si ça vous fait plaisir.
+
+176
+00:11:32,794 --> 00:11:35,370
+Je devrais être capable de surveiller vos Modèles EEG, donc
+
+177
+00:11:35,371 --> 00:11:40,401
+..au cas où quelque chose d'anormal se produirait,
+je devrai être capable de vous..
+
+178
+00:11:40,402 --> 00:11:42,252
+..Déconnecter manuellement.
+-Bien.
+
+179
+00:11:42,600 --> 00:11:44,521
+Sans aucun dommage cérébral permanent.
+
+180
+00:11:45,535 --> 00:11:49,649
+Rodney ?
+- Bien, l'opportunité de parler à un ancien vivant
+vaut la peine de prendre le risque ?
+
+181
+00:11:49,650 --> 00:11:54,349
+Maintenant, quand je fermerai le couvercle,
+le système du module devrait s'activer. Prêt ?
+
+182
+00:11:54,740 --> 00:11:56,219
+Je l'étais.
+
+183
+00:11:56,400 --> 00:11:57,500
+Bien.
+
+184
+00:12:16,500 --> 00:12:18,386
+C'est bizarre.
+
+185
+00:12:31,211 --> 00:12:32,456
+Qui êtes vous ?
+
+186
+00:12:32,457 --> 00:12:36,374
+Lieutenant Colonel John Sheppard.
+Faisant partie de l'expédition…
+
+187
+00:12:36,375 --> 00:12:39,667
+L'accès à ce pont est restreint.
+Comment êtes vous arrivé ici ?
+
+188
+00:12:39,668 --> 00:12:42,054
+Mon équipe a découvert votre vaisseau.
+
+189
+00:12:42,150 --> 00:12:44,554
+Votre équipage était dans les modules de stase.
+Nous avons décidé de nous brancher dessus…
+
+190
+00:12:44,555 --> 00:12:47,403
+Restez où vous êtes. Sécurité à l'ingénierie.
+
+191
+00:12:47,716 --> 00:12:51,123
+- Vous n'avez pas besoin d'appeler la sécurité.
+- Restez où vous êtes.
+
+192
+00:13:13,366 --> 00:13:16,510
+Nous commencons les modifications de l'hyper propulsion Monsieur.
+
+193
+00:13:16,511 --> 00:13:20,092
+Assurez-vous que les équations sont entrées
+correctement.
+
+194
+00:13:20,093 --> 00:13:21,984
+Pour ne pas surcharger le circuit de commande.
+
+195
+00:13:21,985 --> 00:13:23,005
+Oui monsieur.
+
+196
+00:13:24,080 --> 00:13:24,863
+Est-ce lui ?
+
+197
+00:13:25,090 --> 00:13:26,090
+Oui monsieur.
+
+198
+00:13:27,800 --> 00:13:31,267
+Vous portez l'uniforme de mon équipage
+mais je ne vous connais pas.
+
+199
+00:13:31,419 --> 00:13:33,742
+Je suis le Lieutenant Colonel John Sheppard.
+
+200
+00:13:33,743 --> 00:13:35,161
+Nous avons découvert votre vaisseau.
+
+201
+00:13:35,382 --> 00:13:38,071
+On a vous a trouvé vous et votre équipage
+dans les modules de stases.
+
+202
+00:13:38,072 --> 00:13:41,608
+et on a décidé de nous brancher à votre système
+afin de communiquer avec vous.
+
+203
+00:13:45,529 --> 00:13:46,545
+Système ?
+
+204
+00:13:48,687 --> 00:13:53,692
+Ca !
+Cette...réalité Virtuelle
+
+205
+00:13:57,364 --> 00:14:00,203
+Vous savez que c'est un peu, simulé ?
+
+206
+00:14:10,000 --> 00:14:13,111
+Il y a-t-il un endroit un peu plus privé
+où nous pourrons discuter ?
+
+207
+00:14:16,846 --> 00:14:19,156
+Ce n'est pas vraiment ce que je voulais dire par Privé
+
+208
+00:14:19,370 --> 00:14:21,928
+Je voudrais savoir qui vous êtes
+et comment vous êtes monté à bord de mon vaisseau ?
+
+209
+00:14:22,030 --> 00:14:25,372
+Je vous l'ai dit.
+Mon nom est  lt Col John Sheppard. Membre de l'expédition..
+
+210
+00:14:25,373 --> 00:14:27,187
+Quelle expédition ?
+
+211
+00:14:27,515 --> 00:14:29,374
+Laissez moi vous donner la ligne de base.
+
+212
+00:14:29,375 --> 00:14:31,395
+Nous venons d'Atlantis.
+
+213
+00:14:31,810 --> 00:14:36,568
+Seulement ce n'est pas l'Atlantis dont vous vous souvenez.
+10 000 ans ont passé depuis que vous êtes parti.
+
+214
+00:14:36,569 --> 00:14:40,334
+Ecoutez, je sais que tout ça vous semble bizarre,
+mais je vous dit la vérité.
+
+215
+00:14:40,335 --> 00:14:44,388
+Là maintenant, nous sommes tous
+dans des modules de stase à bord de l'Aurora.
+
+216
+00:14:44,389 --> 00:14:47,213
+Le vaisseau a dérivé pendant des siècles.
+Rien de tout ceci n'est réel.
+
+217
+00:14:47,214 --> 00:14:48,595
+Je supposais que vous le saviez.
+
+218
+00:14:48,596 --> 00:14:54,642
+Vous n'avez pas le temps de vous tracasser avec
+ce non-sens. Les modifications de l'hyper propulsion
+sont bien plus pressantes, monsieur.
+
+219
+00:14:54,643 --> 00:14:57,074
+Quelles sortent de modification d'hyper propulsion ?
+
+220
+00:14:57,738 --> 00:15:02,487
+Nous essayons de modifier notre propulsion,
+dans le but de retourner sur Atlantis plus rapidement.
+
+221
+00:15:02,488 --> 00:15:04,803
+Et alors nous verrons si vous nous dites la vérité.
+
+222
+00:15:05,100 --> 00:15:09,351
+Oh, écoutez. L'Atlantis que vous connaissez n'existe plus.
+
+223
+00:15:09,500 --> 00:15:12,076
+Ils étaient en guerre avec les Wraiths.
+La cité a été évacuée vers la terre.
+
+224
+00:15:12,077 --> 00:15:14,062
+Evacuée ? Pourquoi aurions nous fait ça?
+
+225
+00:15:14,063 --> 00:15:17,182
+La guerre était perdue.
+
+226
+00:15:17,350 --> 00:15:20,356
+Rien n'est perdu. Pas encore !
+
+227
+00:15:20,357 --> 00:15:26,518
+J'ai des informations vitales concernant une faiblesse dans la technologie des Wraiths et quand je donnerai cette information,
+
+228
+00:15:26,944 --> 00:15:28,980
+Les choses tourneront en notre faveur.
+
+229
+00:15:28,981 --> 00:15:30,012
+C'est vrai ?
+
+230
+00:15:30,505 --> 00:15:33,064
+Le rapport de mission sur Atlantis disait que vous étiez
+en mission de reconnaissance. Quel ? Quel..
+
+231
+00:15:33,065 --> 00:15:36,240
+De quel genre de faiblesse parlons nous ?
+
+232
+00:15:36,241 --> 00:15:38,468
+Cette information est réservée au conseil.
+
+233
+00:15:38,469 --> 00:15:40,316
+Il n'y a plus aucun conseil désormais.
+
+234
+00:15:40,317 --> 00:15:41,993
+Monsieur, nous devrions retourner sur la passerelle.
+
+235
+00:15:41,994 --> 00:15:44,840
+Attendez ! Selon les journaux,
+
+236
+00:15:44,841 --> 00:15:51,313
+L'Aurora a quitté l'espace durant le Siège. Ce qui
+veut dire que la citée était déjà noyée au fond de l'océan.
+
+237
+00:15:52,082 --> 00:15:54,553
+Vous vous demandez comment je peux bien savoir ça ?
+
+238
+00:15:54,800 --> 00:15:57,882
+- Oui.
+- Parce que c'est là qu'elle était lorsque
+nous l'avons découverte !
+
+239
+00:15:57,883 --> 00:16:02,022
+Nous perdons du temps, Monsieur.
+Vous devez vous occuper de l'hyper propulsion.
+
+240
+00:16:03,567 --> 00:16:04,590
+Attendez !
+
+241
+00:16:05,000 --> 00:16:10,468
+Cette information pourrait être
+extrêmement précieuse pour nous.
+
+242
+00:16:36,507 --> 00:16:37,507
+Alors ?
+
+243
+00:16:37,900 --> 00:16:38,460
+Ca marche.
+
+244
+00:16:38,461 --> 00:16:40,249
+Bien sur que ça marche !
+
+245
+00:16:40,901 --> 00:16:43,956
+Ah, pendant une minute,
+j'ai cru que j'allais resté coincé là.
+
+246
+00:16:43,854 --> 00:16:45,055
+Où sont Teyla et Ronon ?
+
+247
+00:16:45,056 --> 00:16:47,012
+Bien, Caldwell les a envoyé rechercher
+l'armurerie du vaisseau
+
+248
+00:16:47,100 --> 00:16:49,555
+- Et ?
+- Non. Malheureusement, il ne reste plus de drones.
+
+249
+00:16:49,556 --> 00:16:51,626
+Donc que s'est il passé ?
+Avez vous pu communiquer avec le capitaine ?
+
+250
+00:16:51,627 --> 00:16:56,342
+En face à face. C'est très impressionnant là-dedans,
+il y a toute une réalité virtuelle.
+
+251
+00:16:56,343 --> 00:16:59,097
+- En fait, le terme correct est environnement virtuel.
+- Ouais, peu importe.
+
+252
+00:16:59,100 --> 00:17:00,252
+Donc, qu'avez-vous découvert ?
+
+253
+00:17:00,253 --> 00:17:02,944
+Pour commencer je dois y retourner.
+
+254
+00:17:03,400 --> 00:17:05,167
+Que voulez vous dire par y retourner ?
+
+255
+00:17:05,168 --> 00:17:07,037
+L'Aurora était en mission de reconnaissance.
+
+256
+00:17:07,100 --> 00:17:09,627
+Le Capitaine a un communiqué pour Atlantis.
+
+257
+00:17:09,628 --> 00:17:13,116
+Dedans se trouve une information vitale
+sur une faiblesse dans la technologie des Wraiths
+
+258
+00:17:13,300 --> 00:17:14,375
+Quelle genre de faiblesse ?
+
+259
+00:17:14,376 --> 00:17:16,441
+Bien, c'est justement ce pourquoi je dois y retourner.
+Il ne me l'a pas dit.
+
+260
+00:17:16,442 --> 00:17:20,290
+Il essaye de modifier l'hyper propulsion,
+afin de rejoindre Atlantis plus rapidement, pour la leur donner.
+
+261
+00:17:20,256 --> 00:17:23,449
+Bien, avez-vous mentionné que c'était impossible, étant donné
+qu'ils vivent dans un environnement virtuel ?
+
+262
+00:17:23,502 --> 00:17:25,354
+Non, Rodney, ça m'est pas venu à l'esprit.
+
+263
+00:17:25,513 --> 00:17:28,610
+- Bien, J'avais pensé que c'était la première chose à...
+- Bien sùr que je l'ai mentionné !
+
+264
+00:17:28,610 --> 00:17:31,700
+Ils ne souviennent pas s'être mit en stase.
+Par conséquent,
+
+265
+00:17:31,701 --> 00:17:34,878
+ils n'ont aucune idée de qui je suis
+et de comment je suis arrivé là.
+
+266
+00:17:34,900 --> 00:17:36,163
+Mais, pourquoi les modules feraient ça ?
+
+267
+00:17:36,164 --> 00:17:40,172
+C'est une bonne question et encore une raison pour que
+j'y retourne. Qu'en pensez vous Colonel ?
+
+268
+00:17:40,990 --> 00:17:41,983
+Allez-y !
+
+269
+00:17:50,564 --> 00:17:51,819
+Hé..Ho...
+
+270
+00:17:52,990 --> 00:17:54,849
+Il y a quelqu'un ?
+
+271
+00:17:56,748 --> 00:17:57,863
+Salut.
+
+272
+00:17:57,864 --> 00:18:00,655
+Je dois vraiment parler au Capitaine.
+
+273
+00:18:01,028 --> 00:18:02,046
+Pourquoi ?
+
+274
+00:18:03,534 --> 00:18:06,526
+Dites lui que je vais faire des aveux complets.
+
+275
+00:18:18,000 --> 00:18:19,172
+Docteur McKay ?
+
+276
+00:18:19,173 --> 00:18:19,757
+Allez y !
+
+277
+00:18:19,800 --> 00:18:22,671
+Les capteurs longue portée viennent juste de détecter
+2 croiseurs Wraiths se dirigeant vers nous.
+
+278
+00:18:22,672 --> 00:18:25,689
+Il ne fait aucun doute qu'ils viennent enquêter
+sur la destruction de leur éclaireur.
+
+279
+00:18:25,760 --> 00:18:26,400
+Quel est le temps d'interception ?
+
+280
+00:18:26,402 --> 00:18:29,986
+Un peu plus d'une heure mais je prévois d'être
+déjà loin à ce moment là. Ou en êtes vous ?
+
+281
+00:18:29,987 --> 00:18:32,082
+J'ai réussi à déchiffrer une grande partie du programme.
+
+282
+00:18:32,083 --> 00:18:36,297
+Je suis actuellement en train de lire les signatures neurales
+de l'équipage entier durant leur parcours dans l'...
+
+283
+00:18:36,298 --> 00:18:38,217
+Je voulais parler de l'état du colonel Sheppard ?
+
+284
+00:18:38,218 --> 00:18:39,649
+Oh lui ! Euh ouais ben,
+
+285
+00:18:39,650 --> 00:18:41,944
+il est toujours dans le module.
+
+286
+00:18:41,995 --> 00:18:46,410
+<i>Compris. Soyez bien conscient que le temps nous est limité
+avec l'approche des vaisseaux Wraiths.
+Nous ne pouvons prendre le risque d'être découvert.</i>
+
+287
+00:18:46,415 --> 00:18:48,385
+Oui, oui, oui, oui, oui L'aiguille tourne. Autre chose ?
+
+288
+00:18:48,386 --> 00:18:52,311
+Si il n'est pas sorti dans les 30 minutes
+déconnectez le manuellement.
+
+289
+00:18:53,565 --> 00:18:54,991
+D'accord.
+
+290
+00:19:02,800 --> 00:19:05,479
+- Où est le capitaine ?
+- Il a des priorités plus pressantes en ce moment.
+
+291
+00:19:05,479 --> 00:19:07,481
+Il m'a envoyé à sa place.
+
+292
+00:19:08,792 --> 00:19:11,195
+J'ai cru comprendre que vous étiez prêt
+à faire des aveux complets ?
+
+293
+00:19:11,200 --> 00:19:14,363
+Ouais ben, non.
+
+294
+00:19:14,666 --> 00:19:20,735
+En fait, je voulais juste lui parler et essayer de le
+convaincre que nous sommes dans le même camp.
+
+295
+00:19:20,888 --> 00:19:25,061
+Peut-être auriez vous plus de succès
+si votre histoire n'était pas aussi absurde.
+
+296
+00:19:25,062 --> 00:19:27,241
+Ce n'est pas absurde.
+
+297
+00:19:27,250 --> 00:19:29,090
+Vous dites que vous venez d'Atlantis.
+
+298
+00:19:29,091 --> 00:19:32,703
+- Oui
+- Et vous avez dit aussi qu'Atlantis a été évacué.
+
+299
+00:19:32,704 --> 00:19:36,374
+Oui. Bien, c'était..
+
+300
+00:19:36,375 --> 00:19:40,700
+..il y a 10 000 ans.
+Ecoutez, nous l'avons découverte il y a un an.
+
+301
+00:19:40,790 --> 00:19:42,556
+Vous l'avez découverte ?
+
+302
+00:19:42,558 --> 00:19:43,652
+Nous venons de la terre.
+
+303
+00:19:43,653 --> 00:19:47,622
+Nous avons trouvé la cité deserte. Nous en avons fait
+notre base et nous y vivons depuis.
+C'est comme ça que nous vous avons trouvé.
+
+304
+00:19:47,623 --> 00:19:50,911
+Nous avons vu l'Aurora sur les détecteurs
+longue portée de la cité.
+
+305
+00:19:50,912 --> 00:19:53,978
+Et après toutes ces années les Wraiths
+causent toujours des problèmes.
+
+306
+00:19:53,979 --> 00:20:00,308
+Nous sommes parvenus à les retenir
+du moins pour le moment, mais nous pourrions utiliser
+ces informations sur leur faiblesse technologique.
+
+307
+00:20:00,309 --> 00:20:03,920
+- Seul le capitaine peut accéder à cette information.
+- Bien donc, laissez moi lui parler.
+
+308
+00:20:03,921 --> 00:20:06,079
+Je peux transmettre le message moi-même.
+
+309
+00:20:06,080 --> 00:20:08,969
+Plus vite il sera sur Atlantis,
+mieux ce sera pour nous tous.
+
+310
+00:20:10,227 --> 00:20:13,687
+- Vous semblez sincère.
+- Oui je le suis.
+
+311
+00:20:14,688 --> 00:20:16,027
+Très sincère.
+
+312
+00:20:16,800 --> 00:20:21,511
+J'en serais très très reconnaissant.
+
+313
+00:20:25,350 --> 00:20:27,797
+Je lui parlerai en votre nom.
+
+314
+00:20:35,313 --> 00:20:36,929
+Aïe
+
+315
+00:20:43,900 --> 00:20:45,150
+Encore d'autres..
+
+316
+00:20:47,575 --> 00:20:50,710
+Je compte, je ne veux pas perdre mon compte.
+
+317
+00:20:50,711 --> 00:20:56,201
+J'en ai compté 376. Non attendez ! 398.
+
+318
+00:20:56,474 --> 00:20:59,496
+J'ai oublier l'infirmerie, il y en avais 22 là-bas
+ou bien 23 ?
+
+319
+00:20:59,800 --> 00:21:01,105
+Désolé.
+
+320
+00:21:09,685 --> 00:21:11,628
+D'où vient elle ?
+
+321
+00:21:25,410 --> 00:21:27,400
+Oh non !
+
+322
+00:21:28,139 --> 00:21:29,419
+<i>Dr McKay ?</i>
+
+323
+00:21:29,420 --> 00:21:30,512
+Je suis toujours là.
+
+324
+00:21:30,513 --> 00:21:33,667
+Il y a quelque chose que vous devriez venir voir.
+Nous sommes 2 passerelles en dessous de vous
+
+325
+00:21:33,710 --> 00:21:36,728
+- Ca peut attendre ?
+- Non !
+
+326
+00:21:44,555 --> 00:21:46,174
+Gardes !
+
+327
+00:21:51,137 --> 00:21:53,694
+Je dois parler au 1er officier.
+
+328
+00:21:53,695 --> 00:21:54,864
+Elle a donné des ordres pour
+ne pas être dérangée.
+
+329
+00:21:54,865 --> 00:21:58,320
+C'est OK !
+Elle a dit qu'elle allait parler au capitaine pour moi.
+
+330
+00:21:58,321 --> 00:22:01,050
+Elle a aussi donné l'ordre d'ignorer
+tout ce que vous direz.
+
+331
+00:22:03,481 --> 00:22:07,003
+Donc pourquoi êtes vous en train
+de me parler là maintenant ?
+
+332
+00:22:10,795 --> 00:22:13,044
+Je dois voir le Capitaine !
+
+333
+00:22:25,188 --> 00:22:27,860
+Très bien, ça doit faire juste assez de temps.
+
+334
+00:22:38,694 --> 00:22:40,542
+Donnez moi ça.
+
+335
+00:22:45,077 --> 00:22:47,237
+Je n'aime vraiment pas être ignoré.
+
+336
+00:22:54,000 --> 00:22:54,585
+Qu'est ce que c'est ?
+
+337
+00:22:54,586 --> 00:22:56,085
+Regardez.
+
+338
+00:23:01,613 --> 00:23:05,699
+C'est un bloc Wraith,
+et il a été installé ici récemment.
+
+339
+00:23:06,241 --> 00:23:07,881
+Il y a une raison à cela.
+
+340
+00:23:20,400 --> 00:23:24,085
+- Il y en a d'autres ?
+- Bien, c'est difficile à dire vu que vous nous avez fait revenir
+à la seconde où vous l'avez entendu.
+
+341
+00:23:24,086 --> 00:23:27,212
+Ronon et moi avons cherché sur tout le vaisseau.
+Je suis certaine qu'il n'y en a qu'un.
+
+342
+00:23:27,213 --> 00:23:31,329
+Le Wraith est lié par la même rétroaction neurale
+que l'équipage et le colonel Sheppard.
+
+343
+00:23:31,330 --> 00:23:34,755
+et à le voir, ils ont du trouver l'Aurora
+il y a longtemps.
+
+344
+00:23:34,756 --> 00:23:37,756
+Assez longtemps pour découvrir comment accéder
+et reconfigurer le systeme.
+
+345
+00:23:37,757 --> 00:23:40,251
+Etant donnée leur capacité psychique,
+
+346
+00:23:40,252 --> 00:23:43,340
+est il possible que les Wraith en chemin soient
+en communication avec le Wraith de l'Aurora ?
+
+347
+00:23:43,341 --> 00:23:44,900
+Non. Ils doivent être plus proches.
+
+348
+00:23:44,901 --> 00:23:48,311
+Elle a raison. Nous avons déjà déterminé que la portée
+des capacités psychiques des Wraith était limitée
+
+349
+00:23:48,312 --> 00:23:50,681
+Donc nous ne devons pas risquer que
+ces vaisseaux soient proche de cette portée.
+
+350
+00:23:50,722 --> 00:23:52,822
+- Je dis que nous devons y retourner et le tuer.
+- Je suis d'accord.
+
+351
+00:23:52,823 --> 00:23:55,176
+Whoa, whoa, whoa, whoa, whoa, whoa. Stop !
+
+352
+00:23:55,600 --> 00:23:59,759
+Ne sautons pas de joie. Nous n'avons aucune idée
+de ce que le Wraith manipule dans le système !
+
+353
+00:23:59,760 --> 00:24:02,702
+Nous devons trouver ce qui se passe
+avant de commencer à tirer dans le tas !
+
+354
+00:24:02,703 --> 00:24:04,200
+D'après ce que nous savons
+ça pourrait bien tuer Sheppard
+
+355
+00:24:04,201 --> 00:24:05,568
+Que fait-il encore ?
+
+356
+00:24:05,569 --> 00:24:08,280
+Il peut sortir quand il veut.
+Il doit y avoir une bonne raison.
+
+357
+00:24:08,281 --> 00:24:11,700
+Connaissant Sheppard, Il ne voudra pas partir
+sans avoir cette information.
+
+358
+00:24:11,701 --> 00:24:12,697
+Je n'aime pas ça.
+
+359
+00:24:12,698 --> 00:24:15,676
+Le Wraith ne peut pas le blesser
+physiquement une fois à l'intérieur, n'est ce pas ?
+
+360
+00:24:15,677 --> 00:24:16,806
+Non !
+
+361
+00:24:18,447 --> 00:24:19,777
+Je ne pense pas !
+
+362
+00:24:19,780 --> 00:24:23,755
+Je ne sais pas, mais je sais que je devrais y
+retourner afin de découvrir ce que fait le Wraith.
+
+363
+00:24:23,756 --> 00:24:25,923
+Vous avez 15 minutes pour le découvrir Docteur.
+
+364
+00:24:25,924 --> 00:24:27,423
+15 ?
+
+365
+00:24:27,424 --> 00:24:30,072
+D'où sortez vous ces chiffres arbitraires ?
+
+366
+00:24:30,073 --> 00:24:32,739
+C'est le temps qu'il vous faut pour apprendre ce dont vous avez besoin.
+
+367
+00:24:32,740 --> 00:24:37,111
+- Pourquoi ?
+- Parce que je compte détruire l'Aurora
+avant que ces vaisseaux Wraiths soient là.
+
+368
+00:24:39,200 --> 00:24:40,200
+Ok.
+
+369
+00:24:56,400 --> 00:24:58,535
+Bonjour c'est encore moi.
+
+370
+00:24:58,536 --> 00:25:02,945
+Attendez, attendez, s'il vous plait. Écoutez.
+
+371
+00:25:02,946 --> 00:25:06,849
+Je ne suis pas ici pour blesser quelqu'un.
+Je veux vous aider.
+
+372
+00:25:06,850 --> 00:25:08,466
+Nous aidez tous.
+
+373
+00:25:09,142 --> 00:25:13,870
+Je sais que tout ceci semble étrange, mais donnez-moi
+une chance de prouver que ce que je dis...
+
+374
+00:25:15,401 --> 00:25:16,545
+Vous allez bien, Monsieur ?
+
+375
+00:25:16,546 --> 00:25:18,087
+Oui je vais bien.
+
+376
+00:25:18,088 --> 00:25:19,088
+Ramenez le en prison.
+
+377
+00:25:25,879 --> 00:25:30,407
+Il s'est échappé seulement un moment.
+Je vais faire en sorte qu'il ne vous dérange plus dorénavant.
+
+378
+00:25:30,711 --> 00:25:33,022
+Et s'il disait la vérité ?
+
+379
+00:25:36,987 --> 00:25:40,489
+Vous ne le sentez pas vous aussi ?
+
+380
+00:25:40,700 --> 00:25:42,516
+Que quelque chose ne tourne pas rond ?
+
+381
+00:25:43,246 --> 00:25:45,197
+Vous êtes épuisé, Monsieur.
+
+382
+00:25:46,000 --> 00:25:47,364
+Exact.
+
+383
+00:25:48,746 --> 00:25:50,888
+J'ai besoin de me reposer.
+
+384
+00:25:54,210 --> 00:25:56,778
+Mais mon équipage l'est plus encore.
+
+385
+00:25:57,337 --> 00:26:00,760
+Se reposer est un luxe que
+nous ne pouvons nous permettre.
+
+386
+00:26:00,761 --> 00:26:04,360
+L'Aurora est un très bon vaisseau mais
+il n'a jamais été conçu pour la vitesse.
+
+387
+00:26:04,361 --> 00:26:08,260
+Sans la modification de la propulsion, il nous
+faudrait des mois pour retourner sur Atlantis.
+
+388
+00:26:08,261 --> 00:26:14,298
+Si nous voulons utiliser ces nouvelles découvertes
+à notre avantage, nous devons rejoindre la cité
+dans les jours qui viennent.
+
+389
+00:26:15,000 --> 00:26:17,054
+Et alors nous aurons le temps de nous reposer.
+
+390
+00:26:17,055 --> 00:26:18,485
+Oui Monsieur.
+
+391
+00:26:30,680 --> 00:26:32,047
+Qu'est ce qui ne vas pas ?
+
+392
+00:26:32,380 --> 00:26:34,513
+- Ses ondes Delta ?
+- Qu'est ce que c'est ?
+
+393
+00:26:34,674 --> 00:26:37,113
+Dr McKay. Est vous prêt à être téléporté à bord ?
+
+394
+00:26:37,114 --> 00:26:39,335
+Il ne s'est pas passé 5 minutes !
+
+395
+00:26:39,336 --> 00:26:41,670
+Le Dr McKay a découvert un problème.
+
+396
+00:26:41,671 --> 00:26:42,671
+Quel genre de problème ?
+
+397
+00:26:42,672 --> 00:26:44,928
+Les fréquences de l'EEG
+du Colonel Sheppard sont en baisse.
+
+398
+00:26:44,929 --> 00:26:48,966
+Ses ondes delta indiquent qu'il est
+inconscient dans l'environnement virtuel.
+
+399
+00:26:48,967 --> 00:26:51,203
+Je ne sais pas ce qui est arrivé, mais
+quelque chose ne tourne pas rond là-dedans.
+
+400
+00:26:51,204 --> 00:26:52,700
+Encore une autre raison pour le faire sortir.
+
+401
+00:26:52,701 --> 00:26:54,579
+Ce serait une erreur !
+
+402
+00:26:54,580 --> 00:26:58,859
+Ecoutez, les données additionnelles que j'ai été capable
+de déchiffrer du récepteur biométrique Wraith,
+
+403
+00:26:58,860 --> 00:27:01,127
+montrent des manipulations significatives
+de la boucle de rétroaction.
+
+404
+00:27:01,128 --> 00:27:03,550
+Ce dont nous n'étions pas au courant
+lorsque Sheppard y est entré.
+
+405
+00:27:03,551 --> 00:27:06,359
+Nous sommes aussi sur et certain
+que 2 croiseurs Wraith sont en approche.
+
+406
+00:27:06,360 --> 00:27:07,081
+Colonel !
+
+407
+00:27:07,082 --> 00:27:10,522
+Ce Wraith contrôle le programme,
+ce qui veut dire qu'il peut aussi l'avoir piégé.
+
+408
+00:27:10,523 --> 00:27:12,269
+Nous parlons de la vie de Sheppard ici.
+
+409
+00:27:12,270 --> 00:27:18,360
+Et je parle des vies de toutes les personnes à bord
+de ce vaisseau et à Atlantis, quand les Wraith
+découvriront qu'elle n'a pas été détruite.
+
+410
+00:27:18,361 --> 00:27:20,731
+<i>Je suis bien conscient de ce qui
+est en jeu ici, Docteur.</i>
+
+411
+00:27:20,732 --> 00:27:25,027
+<i>Sortez-le de ce module, ou mes hommes le feront.
+Caldwell Terminé.</i>
+
+412
+00:27:29,211 --> 00:27:30,475
+J'y vais.
+
+413
+00:27:30,742 --> 00:27:33,695
+Doucement Caldwell, laissez moi du temps. Juste quelques minutes au maximum
+
+414
+00:27:33,696 --> 00:27:35,400
+Que se passera t'il si vous ne pouvez pas
+vous déconnecter ?
+
+415
+00:27:35,401 --> 00:27:37,786
+Caldwell détruira ce vaisseau
+que vous soyez dedans ou pas.
+
+416
+00:27:37,787 --> 00:27:44,201
+Vous voyez c'est que
+le Colonel Sheppard et moi avons pris l'habitude
+de nous sauver la vie l'un l'autre, et c'est mon tour.
+
+417
+00:27:45,547 --> 00:27:46,818
+Ca pourrait être votre tour après.
+
+418
+00:27:46,819 --> 00:27:48,159
+Regardez,
+
+419
+00:27:49,270 --> 00:27:51,665
+Pressez ici pour me déconnecter manuellement.
+
+420
+00:27:51,666 --> 00:27:55,001
+Si je ne reprends pas conscience partez
+devant et ouvrez le module du Colonel Sheppard.
+
+421
+00:27:55,002 --> 00:27:59,585
+Téléportez nous directement sur le Daedalus
+et assurez vous qu'il y ait une équipe médicale en attente.
+
+422
+00:28:01,450 --> 00:28:03,033
+Etes vous sûre de vouloir faire ça ?
+
+423
+00:28:03,034 --> 00:28:05,185
+Je suis sûr que je ne le suis pas.
+
+424
+00:28:05,911 --> 00:28:07,141
+OK.
+
+425
+00:28:09,448 --> 00:28:10,929
+Très bien,
+
+426
+00:28:11,360 --> 00:28:13,369
+Il y a assez d'air là-dedans ?
+
+427
+00:28:13,370 --> 00:28:16,848
+L'équipage est enfermé dans ces choses
+depuis des centaines d'années.
+
+428
+00:28:16,849 --> 00:28:21,384
+- Vous allez bien ?
+- Ouais. C'est juste ma claustrophobie, ça ira...j'espère.
+
+429
+00:28:21,419 --> 00:28:22,582
+Maintenant !
+
+430
+00:28:22,871 --> 00:28:24,691
+Le système va démarrer une fois que
+vous m'y aurez envoyé.
+
+431
+00:28:24,994 --> 00:28:26,388
+- Très bien.
+- Bien.
+
+432
+00:28:31,200 --> 00:28:33,340
+- Alors ? Allez y.
+- Oh oui.
+
+433
+00:28:33,341 --> 00:28:36,078
+Bonne chance.
+
+434
+00:28:48,223 --> 00:28:50,700
+Où m'emmenez vous ? Je vous ai dit,
+je suis avec le Colonel Sheppard !
+
+435
+00:28:50,701 --> 00:28:59,719
+Je suis un membre de son équipe. Le colonel John Sheppard.
+Il est à peu près grand comme ça. Il a les cheveux brun,
+un peu musculeux. On peut dire élancé.
+
+436
+00:28:59,720 --> 00:29:01,285
+McKay !
+
+437
+00:29:01,286 --> 00:29:02,604
+Qu'est ce que vous foutez là ?
+
+438
+00:29:02,605 --> 00:29:04,635
+J'allais vous poser la même question.
+
+439
+00:29:04,636 --> 00:29:08,649
+- Je suis venu pour vous aider.
+- Je me sens déjà mieux.
+
+440
+00:29:23,222 --> 00:29:27,827
+10 000 ans à bord de l'un de ces trucs ?
+Gardé en vie uniquement par le support vital.
+
+441
+00:29:27,828 --> 00:29:29,481
+Je ne pourrai vivre comme ça.
+
+442
+00:29:29,666 --> 00:29:30,817
+Moi non plus.
+
+443
+00:29:30,818 --> 00:29:32,947
+<i>Dr McKay, où en êtes vous ?</i>
+
+444
+00:29:34,275 --> 00:29:37,582
+Le dr McKay n'est....pas là.
+
+445
+00:29:37,583 --> 00:29:38,759
+<i>Quoi ?</i>
+
+446
+00:29:38,760 --> 00:29:39,623
+Il a du...
+
+447
+00:29:39,654 --> 00:29:42,190
+Il a du vérifier quelque chose
+dans le module du Wraith.
+
+448
+00:29:42,466 --> 00:29:44,249
+Oui. Le module du Wraith.
+
+449
+00:29:44,250 --> 00:29:50,418
+Il a du vérifié les récepteurs biomédicaux, pour confirmer
+les fréquences de la boucle de rétroaction neurale.
+
+450
+00:29:50,419 --> 00:29:52,161
+<i>Pourquoi n'est il pas sur sa radio ?</i>
+
+451
+00:29:52,610 --> 00:29:56,785
+Bien actuellement nous avons des problèmes
+pour nous contacter nous même.
+
+452
+00:29:56,786 --> 00:30:01,422
+Je pense que ça a quelque chose à voir
+avec les interférences venants des…
+
+453
+00:30:03,000 --> 00:30:05,451
+..boucliers magnétiques des Modules.
+
+454
+00:30:05,452 --> 00:30:06,640
+Oui, les Boucliers.
+
+455
+00:30:06,641 --> 00:30:10,288
+Ronon était en train de partir pour vérifier.
+Voir pourquoi il met tant de temps.
+
+456
+00:30:10,289 --> 00:30:13,232
+Bien, mettez lui le feu au cul.
+
+457
+00:30:13,975 --> 00:30:14,852
+Tout de suite.
+
+458
+00:30:14,853 --> 00:30:18,573
+Je veux un rapport de la situation dès que sa radio
+sera en marche. Caldwell terminé.
+
+459
+00:30:19,061 --> 00:30:21,899
+Vous vous en êtes bien sortie.
+
+460
+00:30:22,309 --> 00:30:24,630
+Etes vous incapable de vous
+déconnecter du système ?
+
+461
+00:30:24,665 --> 00:30:27,324
+Non. Je suis toujours en train d'essayer
+d'obtenir l'information dans ce rapport.
+
+462
+00:30:27,500 --> 00:30:30,069
+Oh Bien. On pensait que peut être il vous
+empêchait de sortir du programme.
+
+463
+00:30:30,104 --> 00:30:31,092
+Il ?
+
+464
+00:30:32,008 --> 00:30:34,700
+Nous avons trouvé un Wraith
+dans l'un des modules de stase.
+
+465
+00:30:34,701 --> 00:30:38,106
+Il est en train de manipuler le programme de
+rétroaction neurale. Votre EEG était irrégulier…
+
+466
+00:30:38,100 --> 00:30:39,253
+Vous ne plaisentez pas ?
+
+467
+00:30:39,254 --> 00:30:41,483
+Je ne voulais pas vous sortir tant
+que je n'en savais pas plus.
+
+468
+00:30:41,484 --> 00:30:42,961
+Le 1er officier.
+
+469
+00:30:42,962 --> 00:30:43,606
+Qu'est ce qu'il a ?
+
+470
+00:30:43,607 --> 00:30:50,300
+ELLE est un Wraith, ça doit être elle. Il y a quelque chose
+d'étrange chez elle, elle m'empêche de parler au capitaine.
+
+471
+00:30:50,301 --> 00:30:54,673
+Le Wraith que nous avons trouvé est un male.
+Le 1er Officer devait être une femme. Il a pris sa place.
+
+472
+00:30:54,674 --> 00:30:57,898
+Elle sait que je veux cette information
+et le capitaine est le seul à pouvoir y accéder.
+
+473
+00:30:57,899 --> 00:31:01,612
+Non, nous n'avons pas besoin du capitaine. J'ai réussi à
+déchiffrer assez du programme pour passer le protocole.
+
+474
+00:31:01,613 --> 00:31:04,386
+Tout ce que j'ai à faire c'est accéder
+à un terminal dans cet environnement virtuel
+
+475
+00:31:04,387 --> 00:31:06,887
+et je pourrai accéder à n'importe quel fichier
+stocké dans la base de donnée.
+
+476
+00:31:06,888 --> 00:31:08,618
+Donc nous devons juste nous sortir d'ici.
+
+477
+00:31:08,619 --> 00:31:10,213
+Gardez ça à l'esprit.
+
+478
+00:31:18,400 --> 00:31:19,158
+Qu'est-ce qu'il se passe ?
+
+479
+00:31:19,159 --> 00:31:23,080
+Donnez moi cette tablette,
+Le dispositif de donnée juste là ! Juste là, Merci.
+
+480
+00:31:23,201 --> 00:31:24,200
+C'est bon.
+
+481
+00:31:27,800 --> 00:31:30,784
+Gardons le rythme, Gardons le rythme.
+
+482
+00:31:53,608 --> 00:31:54,553
+Salut !
+
+483
+00:31:54,554 --> 00:31:55,377
+Salut.
+
+484
+00:31:55,378 --> 00:31:56,626
+Bien.
+
+485
+00:32:03,600 --> 00:32:05,129
+Il doit se trouver dans le prochain couloir.
+
+486
+00:32:13,826 --> 00:32:15,121
+C'est elle.
+
+487
+00:32:15,483 --> 00:32:17,067
+- C'est le Wraith ?
+- Ouais.
+
+488
+00:32:19,787 --> 00:32:21,636
+Elle est sexy !
+
+489
+00:32:21,812 --> 00:32:25,832
+- Je veux dire, sérieusement sexy !
+- Rodney, Vous fantasmez sur une Wraith.
+
+490
+00:32:26,271 --> 00:32:28,905
+Je sais. Je me dégoûte moi-même parfois.
+
+491
+00:32:52,350 --> 00:32:54,602
+- Où sont le Dr McKay et le Colonel Sheppard ?
+- Pourquoi vous nous avez téléportés ?
+
+492
+00:32:54,603 --> 00:32:57,644
+Parce que j'étais sur le point de tirer
+un missile sur le flanc de ce vaisseau.
+
+493
+00:32:58,397 --> 00:33:00,071
+Ils sont dans les modules.
+
+494
+00:33:04,400 --> 00:33:06,704
+Ils y sont tous les 2 maintenant ?
+
+495
+00:33:07,000 --> 00:33:08,139
+Oui.
+
+496
+00:33:08,400 --> 00:33:13,987
+Le dr McKay y est allé pour voir si le Wraith empéchait
+le Colonel Sheppard de sortir du système.
+
+497
+00:33:13,988 --> 00:33:15,545
+Je veux qu'une équipe se prépare
+
+498
+00:33:15,580 --> 00:33:19,041
+et soit prête à être téléportée sur l'Aurora pour
+déconnecter le Dr McKay et le Colonel Sheppard.
+
+499
+00:33:19,042 --> 00:33:23,455
+Non, attendez !
+S'il vous plait juste quelques minutes de plus.
+
+500
+00:33:23,456 --> 00:33:25,182
+Temps d'inteception des Vaisseaux Wraith ?
+
+501
+00:33:25,183 --> 00:33:26,123
+11 minutes.
+
+502
+00:33:26,124 --> 00:33:28,041
+Je suis sûre qu'il va sortir.
+
+503
+00:33:28,042 --> 00:33:31,658
+Et si il a réussit, il saura si il faut
+déconnecter le Colonel Sheppard.
+
+504
+00:33:31,659 --> 00:33:33,296
+Et si il n'en sort pas ?
+
+505
+00:33:33,447 --> 00:33:35,605
+Alors nous les déconnecterons tous les 2.
+
+506
+00:33:36,725 --> 00:33:40,687
+Il serait sage d'avoir une équipe médicale en attente pour tous les deux.
+
+507
+00:33:45,400 --> 00:33:49,001
+Alertez l'infirmerie.
+Je veux une équipe médicale en attente.
+
+508
+00:33:52,975 --> 00:33:54,657
+Le rapport a été effacé.
+
+509
+00:33:55,496 --> 00:33:57,392
+Pourquoi le Wraith a t-il fait ça ?
+
+510
+00:33:57,393 --> 00:34:01,875
+C'est tout ce qu'il y a. Le Wraith a effacé cette information
+importante pour nous empêcher de la voir.
+
+511
+00:34:01,876 --> 00:34:04,515
+Évidemment qu'il l'a fait pour
+nous empêcher de la voir,
+
+512
+00:34:04,519 --> 00:34:08,570
+Mais pourquoi n'a-t-il pas terminé ce fichu programme ?
+Quelle est la raison pour laquelle il continue ?
+
+513
+00:34:08,571 --> 00:34:10,091
+Oh non !
+
+514
+00:34:10,319 --> 00:34:11,301
+Quoi ?
+
+515
+00:34:12,474 --> 00:34:15,039
+Vous disiez qu'ils étaient en train
+de modifier l'hyper propulsion.
+
+516
+00:34:15,040 --> 00:34:17,056
+Pour être plus vite sur Atlantis.
+
+517
+00:34:17,057 --> 00:34:21,557
+Bien, selon la base de donnée d'Atlantis,
+il y a 2 types d'hyper propulsion Anciens.
+
+518
+00:34:21,558 --> 00:34:24,279
+Il y a le plus basic, l'interstellaire,
+comme celui de l'Aurora
+
+519
+00:34:24,280 --> 00:34:27,186
+et aussi le type intergalactique plus puissant.
+
+520
+00:34:27,187 --> 00:34:29,724
+Semblable à celui que les Asgard
+nous ont fournis pour le Daedalus.
+
+521
+00:34:29,725 --> 00:34:32,453
+Pourquoi le Wraith voudrait améliorer
+l'hyper propulsion de l'Aurora ?
+
+522
+00:34:32,454 --> 00:34:36,350
+Parce que les hyper propulsion des Wraith
+ne sont pas aussi avancées que celles des anciens.
+
+523
+00:34:36,351 --> 00:34:38,497
+Mon Dieu, cette technologie, le capitaine
+lui enseigne en ce moment même
+
+524
+00:34:38,498 --> 00:34:43,030
+Elle apprend comment modifier une hyper propulsion
+interstellaire en intergalactique..
+
+525
+00:34:43,300 --> 00:34:44,850
+Ce qui veut dire qu'ils pourront atteindre la terre.
+
+526
+00:34:44,851 --> 00:34:50,411
+C'est pour ça qu'ils le font. Leur nouveau garde
+manger. Et ils n'en sont qu'au premier pas.
+
+527
+00:34:50,837 --> 00:34:57,004
+Même si elle n'a pas toutes les informations dont
+elle a besoin, nous devons l'empêcher d'envoyer ce qu'elle
+a appris aux vaisseaux Wraiths qui sont en chemin.
+
+528
+00:34:57,005 --> 00:34:59,908
+Il y a des vaisseaux Wraith en chemin ?
+
+529
+00:34:59,909 --> 00:35:01,134
+Je suis, Je suis sur de l'avoir mentionné.
+
+530
+00:35:01,135 --> 00:35:03,022
+Non vous ne l'avez pas fait.
+
+531
+00:35:03,612 --> 00:35:04,892
+Bien, ça...
+
+532
+00:35:04,893 --> 00:35:06,812
+Ca m'a échappée quand elle était si sexy.
+
+533
+00:35:06,813 --> 00:35:08,004
+Combien de vaisseaux ?
+
+534
+00:35:08,570 --> 00:35:09,819
+Deux croiseurs.
+
+535
+00:35:11,600 --> 00:35:13,440
+Pouvez vous la déconnecter ?
+
+536
+00:35:13,441 --> 00:35:14,384
+LE déconnecter.
+
+537
+00:35:15,301 --> 00:35:17,112
+Pas depuis l'intérieur, non.
+
+538
+00:35:17,269 --> 00:35:19,473
+Je devrais pouvoir neutraliser l'interface
+du module depuis l'extérieur.
+
+539
+00:35:19,474 --> 00:35:22,741
+- Alors pourquoi ne l'avez-vous pas fait ?
+- Parce que je ne savais pas ce que ça vous aurait fait à vous.
+
+540
+00:35:22,742 --> 00:35:25,700
+Bien vous avez bien fait, mais maintenant
+elle sait tout sur Atlantis.
+
+541
+00:35:25,701 --> 00:35:27,220
+Vous lui avez dit ?
+
+542
+00:35:27,611 --> 00:35:28,770
+Pourquoi ?
+
+543
+00:35:30,675 --> 00:35:33,984
+Parce que j'étais en train de les convaincre...
+
+544
+00:35:34,410 --> 00:35:37,662
+Allez débrancher le Wraith, pendant temps là,
+je parlerai avec le Capitaine.
+
+545
+00:35:37,663 --> 00:35:38,663
+Le rapport est vide !
+
+546
+00:35:38,664 --> 00:35:41,449
+Ouais, mais il doit avoir encore quelques
+infos sur la faiblesse des Wraiths.
+
+547
+00:35:41,450 --> 00:35:44,975
+Maintenant Rodney, est-ce qu'il y a encore
+quelque chose que vous devez me dire ?
+
+548
+00:35:46,250 --> 00:35:50,054
+Juste que Caldwell va probablement détruire ce vaisseau.
+
+549
+00:35:51,227 --> 00:35:52,234
+Allez !!
+
+550
+00:35:52,378 --> 00:35:53,497
+Allez !!
+
+551
+00:36:04,219 --> 00:36:07,338
+Teyla ? Ronon ?
+
+552
+00:36:07,339 --> 00:36:11,496
+Oh, Je ne le crois pas. 2 minutes
+dans le module et je suis abandonné.
+
+553
+00:36:11,792 --> 00:36:16,335
+Mais je suis prêt, En avant. En Avant.
+En Avant. Allez Ok.
+
+554
+00:36:34,050 --> 00:36:35,607
+Allez McKay !
+
+555
+00:36:35,608 --> 00:36:38,992
+Les modifications des commandes d'hyper propulsion
+ont été entrées avec succès.
+
+556
+00:36:38,993 --> 00:36:40,813
+La puissance auxiliaire est désormais en ligne.
+
+557
+00:36:40,814 --> 00:36:43,433
+Très bien, préparez vous à démarrer la propulsion.
+
+558
+00:36:43,434 --> 00:36:44,973
+Stop !
+
+559
+00:36:44,974 --> 00:36:47,200
+Votre premier officier est un Wraith.
+Elle vous utilise.
+
+560
+00:36:47,201 --> 00:36:48,725
+Sécurité à la passerelle.
+
+561
+00:36:48,726 --> 00:36:53,307
+Elle a accédé à l'environnement virtuel,
+en tuant votre 1er officier et en prenant sa place.
+
+562
+00:36:53,380 --> 00:36:56,500
+Elle vous oblige à modifier votre hyper propulsion, ainsi
+elle pourra améliorer les hyper propulsions des Wraith.
+
+563
+00:36:56,501 --> 00:36:57,800
+Ne l'écoutez pas.
+
+564
+00:36:57,801 --> 00:37:00,280
+Ils doivent modifier leur Hyper propulsion
+pour pouvoir aller sur ma planète, la Terre.
+
+565
+00:37:00,281 --> 00:37:01,710
+Et je préfèrerai qu'ils ne le fasse pas.
+
+566
+00:37:01,711 --> 00:37:02,839
+C'est un Non-sens.
+
+567
+00:37:02,840 --> 00:37:03,861
+Je vous dis que c'est une Wraith.
+
+568
+00:37:03,862 --> 00:37:07,081
+L'officier Trevell m'a servi pendant de nombreuses années.
+Je ne peux pas croire qu'elle…
+
+569
+00:37:07,082 --> 00:37:09,409
+Monsieur, avec votre permission,
+j'aimerai le jeter….
+
+570
+00:37:15,617 --> 00:37:19,402
+Allez !!!  Arrête toi !!!!
+
+571
+00:37:37,686 --> 00:37:39,933
+J'espère que c'est une preuve suffisante.
+
+572
+00:37:40,200 --> 00:37:41,193
+Ha !
+
+573
+00:37:46,500 --> 00:37:48,052
+Oh non !
+
+574
+00:38:20,119 --> 00:38:22,199
+Allez, allez !
+
+575
+00:38:29,550 --> 00:38:32,245
+Pendant tout ce temps, j'ai pensé
+que nous avions écarté l'ennemi.
+
+576
+00:38:32,246 --> 00:38:34,313
+Au lieu de ça, pendant tout ce temps,
+je les avais inconsciemment aidés.
+
+577
+00:38:34,314 --> 00:38:40,806
+Non monsieur, elle n'a pas réussi et si vous me donnez l'information du rapport, nous serons peut être capable de vaincre les Wraiths une fois pour toute.
+
+578
+00:38:40,807 --> 00:38:44,000
+L'information est dans les ordinateurs du vaisseaux.
+Je peux vous donner mes codes d'accès.
+
+579
+00:38:44,001 --> 00:38:46,705
+Nous avons vérifié, tout à été effacé.
+Pouvez vous me le dire vous même ?
+
+580
+00:38:46,706 --> 00:38:50,147
+Non. J'en ai peur, je n'ai jamais été mis au courant
+de son contenu, Colonel Sheppard.
+
+581
+00:38:50,182 --> 00:38:53,513
+Le Conseil craignait la possibilité de notre capture.
+
+582
+00:38:53,524 --> 00:38:57,009
+L'information dans ce rapport a disparu.
+
+583
+00:38:59,897 --> 00:39:01,897
+10 000 ans...
+
+584
+00:39:02,500 --> 00:39:08,350
+- Même en stase, nos corps physiques doivent être....
+-Très Vieux. Trop vieux.
+
+585
+00:39:14,000 --> 00:39:15,453
+Mon équipage mérite de savoir.
+
+586
+00:39:15,454 --> 00:39:16,581
+Oui je pense.
+
+587
+00:39:16,582 --> 00:39:21,805
+Et j'aimerais vous laisser tout votre temps
+pour leur dire, mais en ce moment,
+il y a 2 vaisseaux Wraiths en chemin.
+
+588
+00:39:21,926 --> 00:39:26,053
+Tout ce que nous désirons,
+c'est retourner sur Atlantis.
+
+589
+00:39:26,350 --> 00:39:29,644
+Pour porter un toast à notre maison
+et à la victoire.
+
+590
+00:39:31,776 --> 00:39:37,065
+Nous ne pouvons pas retourner à la maison, mais nous ferons
+tout ce que nous pourrons pour assurer cette victoire.
+
+591
+00:39:37,066 --> 00:39:39,041
+Pour ça j'aurai besoin de votre aide.
+
+592
+00:39:43,458 --> 00:39:46,674
+C'est presque la fin du compte à rebours !  Que faisiez vous ?
+Vous jouiez au golf ? Nous avons de sérieux problème.
+
+593
+00:39:46,675 --> 00:39:49,986
+Qu'est-ce qu'il s'est passé ? Bougez de là !!!
+
+594
+00:39:53,282 --> 00:39:54,579
+Ah ah !
+
+595
+00:39:55,903 --> 00:39:58,065
+Plus du tout sexy maintenant.
+
+596
+00:39:58,768 --> 00:40:00,860
+Nos vaisseaux arrivent.
+
+597
+00:40:00,861 --> 00:40:07,008
+Ils retrouveront ce que j'ai appris.
+La Terre sera bientôt à nous.
+
+598
+00:40:07,009 --> 00:40:08,990
+Pas si je peux l'empêcher.
+
+599
+00:40:14,224 --> 00:40:17,673
+<i>Colonel Sheppard, Nous avons 2 signes de vie.
+J'espère que ça veut dire ce que je pense que ça veut dire.</i>
+
+600
+00:40:17,674 --> 00:40:18,936
+Donnez moi encore une minute.
+
+601
+00:40:18,937 --> 00:40:21,441
+Nous manquons de temps, Sheppard.
+Les vaisseaux Wraith sont presque là.
+
+602
+00:40:21,442 --> 00:40:24,366
+<i>Une fichue minute et je pourrais
+résoudre ce problème.</i>
+
+603
+00:40:26,791 --> 00:40:30,862
+Les croiseurs Wraiths viennent juste de sortir de
+l'hyperespace, Monsieur. Ils nous ont détecté.
+
+604
+00:40:30,863 --> 00:40:32,217
+A vos postes de Combats !
+
+605
+00:40:32,218 --> 00:40:34,185
+Il semble que nous allons devoir combattre ces types.
+
+606
+00:40:34,186 --> 00:40:36,184
+Mettez les mitrailleuses en service.
+
+607
+00:40:36,185 --> 00:40:38,116
+<i>Daedalus, c'est Sheppard. Nous sommes prêt.</i>
+
+608
+00:40:38,117 --> 00:40:39,827
+Téléportez les directement sur la passerelle.
+
+609
+00:40:46,088 --> 00:40:47,156
+Les cibles sont à portées.
+
+610
+00:40:47,157 --> 00:40:48,372
+Monsieur, nous devons partir d'ici.
+
+611
+00:40:48,373 --> 00:40:51,828
+- Non, nous devons éliminer ces croiseurs. L'information…
+- Non, non, nous devons partir très loin.
+
+612
+00:40:51,829 --> 00:40:52,363
+Quoi ?
+
+613
+00:40:52,364 --> 00:40:56,963
+Le capitaine m'a donné le code d'autodestruction
+de l'Aurora. Il m'a assuré que ça détruirait aussi
+les vaisseaux Wraith, mais
+
+614
+00:40:56,964 --> 00:40:57,802
+nous devons être hors de portée.
+
+615
+00:40:57,803 --> 00:40:59,957
+Passez les moteurs subliminiques
+en poussée maximum.
+
+616
+00:40:59,958 --> 00:41:01,278
+Poussée maximum.
+
+617
+00:41:08,850 --> 00:41:13,184
+Je n'ai jamais été aussi fier que je le suis en ce moment.
+
+618
+00:41:13,603 --> 00:41:17,210
+Ce fût un honneur de servir avec vous.
+
+619
+00:41:17,211 --> 00:41:20,533
+Et bien que nous ne puissions retourner à Atlantis,
+
+620
+00:41:20,534 --> 00:41:26,142
+Soyez assuré qu'on se souviendra de l'Aurora.
+
+621
+00:41:49,764 --> 00:41:53,400
+Nous avons surveillé toutes les transmissions
+depuis les croiseurs Wraith avant l'explosion.
+
+622
+00:41:53,401 --> 00:41:57,765
+Ils n'ont eu aucune chance de mettre un pied sur l'Aurora
+ni de télécharger une partie des informations des anciens.
+
+623
+00:41:57,766 --> 00:41:59,866
+Les deux croiseurs on été détruits dans l'explosion.
+
+624
+00:41:59,867 --> 00:42:02,236
+C'est dommage que vous n'ayez pu
+découvrir la faiblesse des Wraiths.
+
+625
+00:42:02,237 --> 00:42:04,389
+Au moins, nous avons découvert qu'ils en avait une.
+
+626
+00:42:04,390 --> 00:42:07,513
+Bon travail, merci à tous.
+
+627
+00:42:07,514 --> 00:42:11,999
+Avant que nous nous levions la séance,
+il y a quelque chose que j'aimerais faire.
+
+628
+00:42:12,000 --> 00:42:16,056
+Ca peut sembler un peu étrange, mais j'ai promis de
+le faire quand nous serions rentrés.
+
+629
+00:42:40,900 --> 00:42:43,131
+A l'équipage de l'Aurora.
+
+630
+00:43:00,075 --> 00:43:05,491
+<b>Rapidité / Efficacité - Projet SG
+http://projet-sg.aerofrance.net</b>
+

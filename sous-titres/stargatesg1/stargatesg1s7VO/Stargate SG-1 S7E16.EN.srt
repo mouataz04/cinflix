@@ -1,0 +1,1915 @@
+1
+00:00:05,887 --> 00:00:08,401
+Previously on "Stargate SG-1":
+
+2
+00:00:08,487 --> 00:00:12,036
+This is the base of the Tauri.
+Why are there Jaffa?
+
+3
+00:00:12,127 --> 00:00:15,961
+- Rebel warriors.
+- Jaffa who've turned against the Goa'uld.
+
+4
+00:00:16,047 --> 00:00:19,756
+- Is that going to be a problem?
+- Not for us.
+
+5
+00:00:22,247 --> 00:00:26,160
+Somebody want to tell me
+what's going on here?
+
+6
+00:00:26,247 --> 00:00:27,282
+It's history.
+
+7
+00:00:27,367 --> 00:00:32,680
+For 2,000 years, every time a Tok'ra died
+by a staff weapon, a Jaffa was holding it.
+
+8
+00:00:33,647 --> 00:00:37,242
+This was obviously intended
+to be a new form of foot soldier.
+
+9
+00:00:37,327 --> 00:00:41,081
+I serve Anubis.
+
+10
+00:00:41,167 --> 00:00:44,523
+He's got the strength
+and healing powers of a normal Goa'uld,
+
+11
+00:00:44,607 --> 00:00:46,916
+but none of the normal personality traits.
+
+12
+00:00:47,007 --> 00:00:51,205
+This being was not alive
+when it was first grown.
+
+13
+00:00:51,287 --> 00:00:52,925
+Frankenstein's monster.
+
+14
+00:00:53,007 --> 00:00:57,478
+Thousands of years ago Goa'uld
+found a device created by the Ancients.
+
+15
+00:00:57,567 --> 00:01:03,642
+With it, maybe we can devise a weapon
+to counteract its life-giving energy.
+
+16
+00:01:22,287 --> 00:01:24,926
+- Where's the matrix crystal?
+- By the primaries.
+
+17
+00:01:25,007 --> 00:01:28,477
+I can't find anything in here.
+I had a system at the Alpha site.
+
+18
+00:01:28,567 --> 00:01:32,401
+Its location was compromised when
+Anubis used his mind probe on Jonas.
+
+19
+00:01:32,487 --> 00:01:37,356
+- Did you really want to hang around?
+- I want to work as efficiently as possible.
+
+20
+00:01:37,447 --> 00:01:41,076
+Anubis' drones are kicking the crap
+out of the System Lords. We're next.
+
+21
+00:01:41,167 --> 00:01:43,635
+This prototype should've
+been done weeks ago.
+
+22
+00:01:43,727 --> 00:01:49,165
+- It's done. It's just not... finished.
+- Interesting distinction.
+
+23
+00:01:49,247 --> 00:01:53,604
+We just got Telchak's device. I'm amazed
+we came up with something so quickly.
+
+24
+00:01:53,687 --> 00:01:58,807
+In this form, it's only 70% effective
+in countering the reanimation technology.
+
+25
+00:01:58,887 --> 00:02:03,438
+That's because your power unit hasn't
+been properly calibrated. This'll be better.
+
+26
+00:02:03,527 --> 00:02:05,882
+Maybe.
+
+27
+00:02:05,967 --> 00:02:09,437
+Have you not had
+your coffee this morning?
+
+28
+00:02:10,887 --> 00:02:13,606
+Selmak doesn't like coffee.
+
+29
+00:02:13,687 --> 00:02:17,157
+You gave up coffee for your symbiote?
+
+30
+00:02:18,207 --> 00:02:21,279
+- I didn't know that.
+- We never talk any more, Sam.
+
+31
+00:02:26,007 --> 00:02:28,123
+- What's happening?
+- We're under attack.
+
+32
+00:02:28,207 --> 00:02:32,564
+Goa'uld ships entering the atmosphere.
+Colonel Riley's ordered evac to Beta.
+
+33
+00:02:32,647 --> 00:02:34,956
+We're bugging out right now.
+
+34
+00:03:49,167 --> 00:03:50,885
+What happened?
+
+35
+00:03:50,967 --> 00:03:54,118
+Approximately 20 minutes ago,
+the approach of Goa'uld ships
+
+36
+00:03:54,207 --> 00:03:58,325
+- prompted evacuation of the Alpha site.
+- Sam was doing research there.
+
+37
+00:03:58,767 --> 00:04:02,965
+She and Jacob were working on a weapon
+to neutralise Anubis' new soldiers.
+
+38
+00:04:03,047 --> 00:04:05,607
+We have no idea what
+happened to either of them.
+
+39
+00:04:05,687 --> 00:04:09,646
+- How many people got out?
+- Casualty reports are still coming in,
+
+40
+00:04:09,727 --> 00:04:13,436
+but 90 are still missing, including
+the base commander, Colonel Riley.
+
+41
+00:04:13,527 --> 00:04:16,405
+I thought the location
+of the Alpha site was secret.
+
+42
+00:04:16,487 --> 00:04:18,682
+It's a completely new address.
+
+43
+00:04:18,767 --> 00:04:21,725
+Evidently the Goa'uld
+have discovered its whereabouts.
+
+44
+00:04:21,807 --> 00:04:24,002
+Chevron seven locked.
+
+45
+00:04:28,927 --> 00:04:32,715
+Wormhole stable, sir.
+No radio chatter.
+
+46
+00:04:33,487 --> 00:04:36,957
+- Send the MALP.
+- Yes, sir.
+
+47
+00:04:46,927 --> 00:04:49,521
+MALP is en route.
+
+48
+00:04:49,887 --> 00:04:52,276
+Receiving MALP telemetry.
+
+49
+00:04:54,127 --> 00:04:56,561
+My instruments say
+the MALP is on its side.
+
+50
+00:04:56,647 --> 00:05:00,162
+- You still have camera control?
+- Yes, sir.
+
+51
+00:05:08,487 --> 00:05:13,561
+If the Stargate fell over and it's face down,
+the event horizon would've dug a cavity.
+
+52
+00:05:13,647 --> 00:05:16,081
+When the MALP came through
+it fell into the hole.
+
+53
+00:05:16,167 --> 00:05:18,761
+There's no way to know
+if the DHD survived.
+
+54
+00:05:18,847 --> 00:05:21,725
+- If we had another power source...
+- We can dial out manually.
+
+55
+00:05:21,807 --> 00:05:25,402
+- Possibly under enemy fire.
+- We'll be fine, sir.
+
+56
+00:05:25,487 --> 00:05:28,399
+The gate dug the perfect foxhole.
+
+57
+00:05:29,247 --> 00:05:33,445
+- You have a go. Good luck, Colonel.
+- Thank you, sir.
+
+58
+00:06:12,127 --> 00:06:13,799
+Wow.
+
+59
+00:06:13,887 --> 00:06:17,163
+This destruction does not
+appear to be from aerial assault.
+
+60
+00:06:17,247 --> 00:06:19,203
+Single-radius blast.
+
+61
+00:06:19,287 --> 00:06:22,006
+Quite possibly the self-destruct...
+
+62
+00:06:22,687 --> 00:06:26,680
+to prevent the Alpha site
+from falling into enemy hands.
+
+63
+00:06:33,207 --> 00:06:39,203
+- So, we'll split up, search for survivors.
+- Who could've survived this?
+
+64
+00:06:40,647 --> 00:06:44,003
+- Start with the tree line there.
+- Copy.
+
+65
+00:06:44,767 --> 00:06:46,758
+Move out.
+
+66
+00:07:23,927 --> 00:07:25,724
+O'Neill?
+
+67
+00:07:30,647 --> 00:07:32,842
+What do you got?
+
+68
+00:07:38,047 --> 00:07:41,722
+This is the armour
+of one of Anubis' drones.
+
+69
+00:07:47,487 --> 00:07:48,556
+Reynolds?
+
+70
+00:07:52,727 --> 00:07:56,356
+- Go ahead.
+- Be advised. We may not be alone here.
+
+71
+00:07:56,447 --> 00:08:00,804
+At least one of Anubis' goons might
+have been on the planet when it blew.
+
+72
+00:08:00,887 --> 00:08:03,117
+Use extreme caution.
+
+73
+00:08:03,207 --> 00:08:05,198
+Understood.
+
+74
+00:08:23,607 --> 00:08:25,325
+Colonel.
+
+75
+00:08:26,687 --> 00:08:28,882
+Major Green. You all right?
+
+76
+00:08:28,967 --> 00:08:32,926
+I'm fine, sir.
+We got some serious injuries here.
+
+77
+00:08:35,247 --> 00:08:40,037
+- Any other survivors in the area?
+- As far as I know, we're the only ones, sir.
+
+78
+00:08:40,567 --> 00:08:44,401
+- O'Neill?
+- Go ahead.
+
+79
+00:08:44,487 --> 00:08:47,923
+- Found 12, but they're not in good shape.
+- How bad?
+
+80
+00:08:48,007 --> 00:08:51,238
+Some can walk, but most need
+immediate medical treatment.
+
+81
+00:08:51,327 --> 00:08:53,602
+Major Carter with 'em?
+
+82
+00:08:57,407 --> 00:08:59,398
+I'm afraid not.
+
+83
+00:09:03,687 --> 00:09:06,724
+SG-3's gonna need help
+to get the gate back up.
+
+84
+00:09:06,807 --> 00:09:11,676
+SGs 11 and 21 are assembling now.
+I'll be sending them through momentarily.
+
+85
+00:09:11,767 --> 00:09:16,557
+However, that means a delay before I can
+send any other resources to help search.
+
+86
+00:09:16,647 --> 00:09:18,922
+Getting the wounded out is our priority.
+
+87
+00:09:19,007 --> 00:09:22,920
+Agreed, but if there are any other
+survivors they may not have a lot of time.
+
+88
+00:09:23,007 --> 00:09:25,396
+Understood, sir. We'll keep trying.
+
+89
+00:09:31,487 --> 00:09:33,284
+Jacob!
+
+90
+00:09:43,687 --> 00:09:46,963
+- Anubis' drones.
+- We know.
+
+91
+00:09:47,047 --> 00:09:51,518
+Take this. It's not 100%,
+but it's all we've got.
+
+92
+00:09:52,647 --> 00:09:55,445
+It only has a few more shots.
+
+93
+00:09:56,967 --> 00:09:59,322
+Sam has a fully-charged power unit.
+
+94
+00:09:59,407 --> 00:10:01,716
+- Where is she?
+- I don't know.
+
+95
+00:10:03,847 --> 00:10:06,839
+I don't even know if she's still alive.
+
+96
+00:10:31,007 --> 00:10:34,795
+- How are you doing?
+- It's nothing Selmak can't handle.
+
+97
+00:10:34,887 --> 00:10:37,355
+We need to know what happened.
+
+98
+00:10:37,447 --> 00:10:40,359
+How did Anubis get the location
+to the new Alpha site?
+
+99
+00:10:40,447 --> 00:10:42,722
+I have no idea.
+
+100
+00:10:42,807 --> 00:10:46,004
+I was with Sam when
+the self-destruct went off.
+
+101
+00:10:46,087 --> 00:10:50,080
+One of the drones was
+chasing us into the forest.
+
+102
+00:10:50,167 --> 00:10:56,117
+George, if I survived the blast,
+you know that thing survived as well.
+
+103
+00:10:58,807 --> 00:11:02,482
+- What about the prototype weapon?
+- I gave it to Colonel O'Neill.
+
+104
+00:11:02,567 --> 00:11:06,355
+But it's only semieffective
+in its current configuration.
+
+105
+00:11:06,447 --> 00:11:08,677
+The upgraded power unit was with Sam.
+
+106
+00:11:08,767 --> 00:11:12,203
+- And we have no idea where she is?
+- She's still missing.
+
+107
+00:11:12,287 --> 00:11:16,166
+Is there anything else we can use
+against these drones?
+
+108
+00:11:16,247 --> 00:11:19,876
+Their armour is impervious
+to energy weapons and regular firearms.
+
+109
+00:11:19,967 --> 00:11:22,276
+What about the drones killed in the blast?
+
+110
+00:11:22,367 --> 00:11:26,406
+Kinetic energy, an explosion of that size...
+They can't ignore physics.
+
+111
+00:11:26,487 --> 00:11:31,197
+- So with enough kinetic energy...
+- It would have to be a lot.
+
+112
+00:11:31,287 --> 00:11:36,725
+- How about a missile?
+- That might do it, if you get close enough.
+
+113
+00:11:36,807 --> 00:11:38,684
+Sergeant Siler.
+
+114
+00:11:41,167 --> 00:11:45,206
+- Prepare a UAV with UCAV specs.
+- Yes, sir.
+
+115
+00:11:55,127 --> 00:11:56,845
+Am I in trouble, sir?
+
+116
+00:11:56,927 --> 00:12:02,399
+The Alpha site has been compromised,
+indicating we've got a security breach.
+
+117
+00:12:02,487 --> 00:12:06,958
+The Pentagon is demanding
+I launch a formal inquiry immediately.
+
+118
+00:12:07,047 --> 00:12:09,163
+Just tell me what happened, son.
+
+119
+00:12:09,247 --> 00:12:14,162
+To tell you the truth, I'm not entirely sure. I
+was still at chow when the alarm went off.
+
+120
+00:12:14,247 --> 00:12:18,399
+By the time I got to the command centre,
+Colonel Riley had ordered the evacuation.
+
+121
+00:12:18,487 --> 00:12:21,763
+- What about the Stargate?
+- It was hit by an Alkesh bomber.
+
+122
+00:12:21,847 --> 00:12:25,317
+We were cut off. That's when
+the drones landed in scout ships.
+
+123
+00:12:25,407 --> 00:12:27,921
+They took all we threw at them
+and just kept coming.
+
+124
+00:12:28,007 --> 00:12:30,521
+So Colonel Riley
+ordered the self-destruct?
+
+125
+00:12:30,607 --> 00:12:33,167
+He knew there was
+sensitive material on the base.
+
+126
+00:12:33,247 --> 00:12:36,956
+He stayed with the device
+so the enemy couldn't disarm it.
+
+127
+00:12:37,047 --> 00:12:42,644
+He told the rest of us that we had
+one minute to make it to the tree line.
+
+128
+00:12:43,567 --> 00:12:49,039
+- I should've stayed with him.
+- You were following orders, Major.
+
+129
+00:12:50,167 --> 00:12:51,964
+Yes, sir.
+
+130
+00:12:52,047 --> 00:12:56,598
+Was there any unusual activity
+at the Alpha site in the last few days?
+
+131
+00:12:56,687 --> 00:13:00,680
+Any unscheduled gate activations
+or unexplained signals?
+
+132
+00:13:00,767 --> 00:13:05,158
+- No, sir.
+- What about the Jaffa and the Tok'ra?
+
+133
+00:13:06,167 --> 00:13:10,604
+They haven't been getting along very well,
+but there's nothing unusual about that.
+
+134
+00:13:10,687 --> 00:13:14,157
+I want a list of all personnel -
+human, Tok'ra and Jaffa -
+
+135
+00:13:14,247 --> 00:13:17,444
+who've used the Alpha site gate
+in the last 48 hours.
+
+136
+00:13:17,927 --> 00:13:19,519
+Yes, sir.
+
+137
+00:13:24,847 --> 00:13:26,405
+Footprints.
+
+138
+00:13:34,327 --> 00:13:36,397
+Standard issue from the SGC.
+
+139
+00:13:36,487 --> 00:13:41,322
+Indeed. The depth of the impression
+is consistent with Major Carter's size.
+
+140
+00:13:41,407 --> 00:13:44,717
+- There's another set over there.
+- Someone much larger.
+
+141
+00:13:44,807 --> 00:13:46,399
+Perhaps a drone.
+
+142
+00:13:47,967 --> 00:13:49,002
+Yeah.
+
+143
+00:13:50,647 --> 00:13:55,084
+Do you believe this prototype weapon
+will be effective against it?
+
+144
+00:13:55,167 --> 00:13:58,762
+We'll jump off that bridge
+when we come to it.
+
+145
+00:14:02,407 --> 00:14:06,685
+- So how's the leg?
+- Getting there, slowly but surely.
+
+146
+00:14:06,767 --> 00:14:09,964
+Yeah, slowly. The way you heal,
+it'll probably take a day.
+
+147
+00:14:10,047 --> 00:14:13,596
+You didn't come here
+to ask me about my leg.
+
+148
+00:14:13,687 --> 00:14:16,884
+You want to know what happened to Sam.
+
+149
+00:14:16,967 --> 00:14:18,002
+Yeah.
+
+150
+00:14:21,807 --> 00:14:27,803
+The base was under attack. We could
+hear the explosions getting closer,
+
+151
+00:14:27,887 --> 00:14:31,357
+and the sound
+of scout ships approaching.
+
+152
+00:14:32,167 --> 00:14:34,965
+- We have to leave now!
+- Just gimme a second!
+
+153
+00:14:35,047 --> 00:14:39,086
+But we had to download the
+weapon design into the matrix crystal
+
+154
+00:14:39,167 --> 00:14:40,998
+and wipe the computer memory.
+
+155
+00:14:41,087 --> 00:14:46,161
+- You have the prototype!
+- We can't leave this data for them to find.
+
+156
+00:14:46,247 --> 00:14:49,239
+- How much longer?
+- Finished!
+
+157
+00:15:05,727 --> 00:15:07,718
+It worked.
+
+158
+00:15:10,247 --> 00:15:12,363
+Not good enough.
+
+159
+00:15:15,687 --> 00:15:18,645
+Let's get the hell out of here.
+
+160
+00:15:18,727 --> 00:15:20,922
+The Stargate was hit.
+
+161
+00:15:21,007 --> 00:15:24,158
+We couldn't get out...
+
+162
+00:15:24,247 --> 00:15:26,966
+so we ran for the hills.
+
+163
+00:15:27,407 --> 00:15:29,875
+The drone followed us.
+
+164
+00:15:31,727 --> 00:15:35,845
+If Sam is still alive, it's still after her.
+
+165
+00:15:37,047 --> 00:15:40,403
+Maybe it was just hiding,
+waiting to go back through the gate.
+
+166
+00:15:40,487 --> 00:15:46,483
+Out of all the rooms on that base,
+why did it come to that lab?
+
+167
+00:15:48,087 --> 00:15:51,443
+And why did it chase us,
+as opposed to anyone else?
+
+168
+00:15:51,527 --> 00:15:55,281
+You think it knew about the prototype?
+
+169
+00:15:55,367 --> 00:15:59,599
+I think that was
+the whole reason for the attack.
+
+170
+00:15:59,687 --> 00:16:06,286
+Anubis knows we have the only weapon
+in the galaxy able to stop his soldiers.
+
+171
+00:16:06,367 --> 00:16:08,722
+And Sam has the design.
+
+172
+00:16:09,287 --> 00:16:12,882
+That thing won't stop until it finds her.
+
+173
+00:16:21,967 --> 00:16:24,527
+- Sergeant Siler, report.
+- It's ready to go.
+
+174
+00:16:24,607 --> 00:16:27,679
+- Well done. I want it airborne now.
+- Yes, sir.
+
+175
+00:16:27,767 --> 00:16:31,726
+General, the leader of the Jaffa survivors
+is cleared for debriefing.
+
+176
+00:16:31,807 --> 00:16:35,686
+- I want to speak to him immediately.
+- Yes, sir.
+
+177
+00:16:39,327 --> 00:16:43,559
+- I do not know why I'm being questioned.
+- We need to determine what happened.
+
+178
+00:16:43,647 --> 00:16:47,720
+If you wish to know who betrayed
+your base, I suggest you ask the Tok'ra.
+
+179
+00:16:47,807 --> 00:16:50,640
+- Why do you say that?
+- They are without honour.
+
+180
+00:16:50,727 --> 00:16:53,560
+- They're your allies.
+- Then why will they not help us?
+
+181
+00:16:53,647 --> 00:16:55,683
+- What do you mean?
+- Even as we speak,
+
+182
+00:16:55,767 --> 00:16:58,600
+Anubis is moving against
+the System Lord Olokun.
+
+183
+00:16:58,687 --> 00:17:01,281
+Drones slaughter Jaffa
+that stand against them.
+
+184
+00:17:01,367 --> 00:17:04,996
+- They are dying for a hopeless cause.
+- What's that got to do with the Tok'ra?
+
+185
+00:17:05,087 --> 00:17:09,842
+We believe they have a spy in Olokun's
+higher ranks, close enough to kill him.
+
+186
+00:17:09,927 --> 00:17:12,441
+The Tok'ra inform us of their operations.
+
+187
+00:17:12,527 --> 00:17:16,361
+I have no knowledge
+of any spy in Olokun's ranks.
+
+188
+00:17:16,447 --> 00:17:20,440
+Then they are lying to you too. With their
+master dead, the siege would be over
+
+189
+00:17:20,527 --> 00:17:23,405
+and Olokun's Jaffa would be
+free to join our movement.
+
+190
+00:17:23,487 --> 00:17:30,120
+Our logs show that a group of Jaffa left the
+site less than 24 hours before the attack.
+
+191
+00:17:30,207 --> 00:17:33,040
+- You sent your own people, didn't you?
+- Yes.
+
+192
+00:17:33,127 --> 00:17:36,597
+- Have they reported back?
+- They have not.
+
+193
+00:17:36,687 --> 00:17:40,123
+- If they were captured by Anubis...
+- No Jaffa would yield to torture.
+
+194
+00:17:40,207 --> 00:17:42,516
+Anubis doesn't have to resort to torture.
+
+195
+00:17:42,607 --> 00:17:47,158
+He has technology that allows him
+to simply read a prisoner's mind.
+
+196
+00:17:47,247 --> 00:17:52,116
+When Heru-ur was killed, I was forced
+to pledge allegiance to Apophis.
+
+197
+00:17:52,207 --> 00:17:54,846
+The slayer of my master
+became my master.
+
+198
+00:17:54,927 --> 00:17:57,760
+So it has been for all Jaffa
+for thousands of years.
+
+199
+00:17:57,847 --> 00:18:01,806
+But now we can choose to fight our
+oppressors. We can choose to be free.
+
+200
+00:18:01,887 --> 00:18:07,598
+I ask only that the Jaffa who serve Olokun
+be given that same choice.
+
+201
+00:18:08,327 --> 00:18:11,763
+If you let me go to the Beta site
+to speak to the other survivors,
+
+202
+00:18:11,847 --> 00:18:16,443
+I may be able to discover
+what happened to the Jaffa we sent.
+
+203
+00:18:17,407 --> 00:18:19,363
+Very well.
+
+204
+00:18:22,327 --> 00:18:25,319
+- Colonel O'Neill?
+- General.
+
+205
+00:18:25,407 --> 00:18:27,125
+Status report.
+
+206
+00:18:27,207 --> 00:18:30,836
+We found tracks, sir.
+They could be Carter's.
+
+207
+00:18:30,927 --> 00:18:33,885
+- What direction?
+- East, up into the hills.
+
+208
+00:18:33,967 --> 00:18:36,356
+The high ground
+is a more defensible position.
+
+209
+00:18:36,447 --> 00:18:41,805
+Understood. I'll have the UAV fly a
+search pattern in that area. Hammond out.
+
+210
+00:19:39,887 --> 00:19:41,605
+Jacob.
+
+211
+00:19:42,527 --> 00:19:45,758
+- Any news on Sam?
+- Not yet.
+
+212
+00:19:45,847 --> 00:19:50,125
+We have a UAV airborne
+and all available SG teams are searching.
+
+213
+00:19:50,647 --> 00:19:56,643
+I don't know anyone tougher or more
+resourceful. She'll find a way out of this.
+
+214
+00:19:58,687 --> 00:20:00,882
+How's the investigation going?
+
+215
+00:20:00,967 --> 00:20:03,356
+I've been meaning
+to talk to you about that.
+
+216
+00:20:03,447 --> 00:20:07,520
+Do you know anything about
+a Tok'ra operative within Olokun's ranks?
+
+217
+00:20:07,607 --> 00:20:08,676
+No.
+
+218
+00:20:08,767 --> 00:20:11,440
+The Jaffa say
+you have a spy in his inner circle.
+
+219
+00:20:11,527 --> 00:20:13,119
+They're mistaken.
+
+220
+00:20:13,207 --> 00:20:16,404
+Unscheduled offworld activation.
+
+221
+00:20:25,167 --> 00:20:28,523
+Did you learn anything at the Beta site?
+
+222
+00:20:28,607 --> 00:20:32,964
+Of the Jaffa sent to recruit rebels from
+Olokun's army, only one has returned.
+
+223
+00:20:33,047 --> 00:20:37,245
+The fate of the others is unknown.
+Anubis has won a major victory.
+
+224
+00:20:37,327 --> 00:20:42,003
+Thousands of Jaffa have been killed, and
+many of Olokun's commanders captured.
+
+225
+00:20:42,087 --> 00:20:44,806
+- The Tok'ra spy among them.
+- That's impossible.
+
+226
+00:20:44,887 --> 00:20:49,085
+If we had someone on the inside,
+I would've known about it.
+
+227
+00:20:49,167 --> 00:20:51,158
+Are you sure?
+
+228
+00:22:20,687 --> 00:22:23,440
+Thank you for
+your cooperation in this, Delek.
+
+229
+00:22:23,527 --> 00:22:26,917
+I do not see the need
+to continue this investigation, General.
+
+230
+00:22:27,007 --> 00:22:29,646
+The Jaffa have as much as
+admitted responsibility.
+
+231
+00:22:29,727 --> 00:22:36,041
+All we know is that some of the men
+they sent to recruit rebels didn't return.
+
+232
+00:22:36,127 --> 00:22:41,121
+They were captured in Anubis' latest
+offensive. It is the logical explanation.
+
+233
+00:22:41,207 --> 00:22:44,802
+According to the Jaffa,
+a Tok'ra spy was also captured.
+
+234
+00:22:45,607 --> 00:22:49,646
+We both know Jaffa intelligence
+is not always as reliable as it should be.
+
+235
+00:22:49,727 --> 00:22:54,403
+So you're saying you had
+no operative in Olokun's ranks?
+
+236
+00:22:55,407 --> 00:22:58,205
+I am unable to discuss
+such matters at present.
+
+237
+00:22:58,287 --> 00:23:01,438
+The terms of our alliance
+dictate full disclosure.
+
+238
+00:23:01,527 --> 00:23:03,119
+In matters of joint concern.
+
+239
+00:23:03,207 --> 00:23:06,165
+Security of the Alpha site
+is a matter of joint concern.
+
+240
+00:23:06,247 --> 00:23:11,560
+The disposition of our operatives has no
+bearing on the security of the Alpha site.
+
+241
+00:23:11,647 --> 00:23:14,320
+So you claim.
+
+242
+00:23:14,407 --> 00:23:17,080
+You have allies amongst
+the other nations of Earth.
+
+243
+00:23:17,167 --> 00:23:18,282
+Of course.
+
+244
+00:23:18,367 --> 00:23:21,518
+Do you always practise
+full disclosure with them?
+
+245
+00:23:21,607 --> 00:23:24,917
+We gave you shelter
+when you had nowhere else to go.
+
+246
+00:23:25,007 --> 00:23:29,637
+Because you needed us. Just as you
+brought us Telchak's reanimation device
+
+247
+00:23:29,727 --> 00:23:34,482
+because you needed our help to develop
+a weapon against Anubis' drones.
+
+248
+00:23:34,567 --> 00:23:37,479
+But you are not always so forthcoming.
+
+249
+00:23:37,567 --> 00:23:44,120
+For example, your programme to build
+hybrid ships using Goa'uld technologies.
+
+250
+00:23:45,247 --> 00:23:47,886
+A programme the Tok'ra feel
+is extremely unwise.
+
+251
+00:23:47,967 --> 00:23:50,765
+We need those ships
+for the defence of Earth.
+
+252
+00:23:50,847 --> 00:23:53,236
+And so you feel it is
+none of our concern.
+
+253
+00:23:53,327 --> 00:23:56,603
+You see, General, it works both ways.
+You ask us to trust
+
+254
+00:23:56,687 --> 00:24:02,159
+that your headlong pursuit of technologies
+that you don't understand poses no threat.
+
+255
+00:24:02,247 --> 00:24:07,196
+But you fail to offer similar consideration
+with our policy on using covert operatives.
+
+256
+00:24:07,967 --> 00:24:10,162
+Let me ask you something.
+
+257
+00:24:10,247 --> 00:24:15,196
+How many Tok'ra from the Alpha site
+are still unaccounted for?
+
+258
+00:24:15,287 --> 00:24:18,120
+- Five.
+- Do you know how many I'm missing?
+
+259
+00:24:18,207 --> 00:24:20,596
+64.
+
+260
+00:24:21,167 --> 00:24:27,356
+Believe me, I'm going to get to the bottom
+of this, with or without your help.
+
+261
+00:25:18,607 --> 00:25:21,075
+I've been expecting you.
+
+262
+00:25:22,567 --> 00:25:26,242
+No doubt you've spoken
+to General Hammond.
+
+263
+00:25:29,007 --> 00:25:32,841
+He says he asked you
+if we had a spy in Olokun's inner circle.
+
+264
+00:25:32,927 --> 00:25:34,406
+Yes, he did.
+
+265
+00:25:34,487 --> 00:25:39,277
+He asked me the same question.
+Of course I told him no,
+
+266
+00:25:39,367 --> 00:25:43,246
+because only the High Council
+could make a decision like that,
+
+267
+00:25:43,327 --> 00:25:48,481
+and since I'm on the High Council,
+I would know about it. Wouldn't I?
+
+268
+00:25:50,167 --> 00:25:51,919
+Got something to tell me?
+
+269
+00:25:52,007 --> 00:25:55,841
+If you have a concern, you can
+take it up with the Council yourself.
+
+270
+00:25:57,847 --> 00:26:01,237
+- Who do you think you're talking to?
+- An interesting question.
+
+271
+00:26:01,327 --> 00:26:04,319
+It seems I am talking to a human host.
+
+272
+00:26:09,367 --> 00:26:11,562
+Make no mistake, Delek.
+
+273
+00:26:11,647 --> 00:26:17,483
+I am still Selmak, and I was a leader of the
+Tok'ra before you had even taken a host.
+
+274
+00:26:17,567 --> 00:26:20,286
+Maybe you've been a leader too long.
+
+275
+00:26:20,367 --> 00:26:22,756
+The Tauri are unlike
+other humans in the galaxy.
+
+276
+00:26:22,847 --> 00:26:26,726
+Their will has not been eroded
+by thousands of years of slavery.
+
+277
+00:26:26,807 --> 00:26:31,164
+This can be a valuable asset,
+but it can also make them dangerous.
+
+278
+00:26:31,247 --> 00:26:32,965
+Particularly as hosts.
+
+279
+00:26:33,047 --> 00:26:36,881
+Jacob Carter has had no more
+influence on me than any other host.
+
+280
+00:26:36,967 --> 00:26:39,117
+There are those of us
+who would disagree.
+
+281
+00:26:39,207 --> 00:26:42,483
+You have allowed yourself
+to get too close to these people.
+
+282
+00:26:42,567 --> 00:26:45,639
+Your true loyalties are in question.
+
+283
+00:26:47,047 --> 00:26:50,642
+You speak for the entire Council?
+
+284
+00:26:50,727 --> 00:26:56,359
+You still have your defenders,
+although their numbers are diminishing.
+
+285
+00:26:56,447 --> 00:27:00,918
+So you did meet without me.
+And you did send an operative.
+
+286
+00:27:01,007 --> 00:27:04,716
+And if you had known,
+would you have told General Hammond?
+
+287
+00:27:04,807 --> 00:27:07,799
+They have a right to know.
+
+288
+00:27:07,887 --> 00:27:13,837
+We knew you would feel that way, which
+is precisely why you were not informed.
+
+289
+00:27:21,407 --> 00:27:24,479
+So Delek admits that
+this spy has gone missing.
+
+290
+00:27:24,567 --> 00:27:25,556
+Yes.
+
+291
+00:27:25,647 --> 00:27:30,482
+But the Tok'ra will never acknowledge
+that he could have been responsible.
+
+292
+00:27:30,567 --> 00:27:34,242
+Tok'ra operatives have orders
+never to be taken alive.
+
+293
+00:27:34,327 --> 00:27:36,045
+What about a sarcophagus?
+
+294
+00:27:36,127 --> 00:27:42,157
+They take precautions to ensure the brain
+is not left intact. No revival is possible.
+
+295
+00:27:42,247 --> 00:27:45,205
+This is all assuming
+the man wasn't taken unawares.
+
+296
+00:27:45,287 --> 00:27:49,200
+The system isn't foolproof,
+but they won't admit that.
+
+297
+00:27:49,287 --> 00:27:54,725
+The truth is, I don't think you'll ever
+find out who was responsible for the leak.
+
+298
+00:27:55,247 --> 00:28:00,037
+It could've been the Tok'ra or the Jaffa.
+It could've been both. Look...
+
+299
+00:28:00,127 --> 00:28:05,918
+I've helped as much as I can with this, but
+now I'd like to get back to join the search.
+
+300
+00:28:06,007 --> 00:28:09,443
+- I need you here.
+- I already told you, I'm out of the loop.
+
+301
+00:28:09,527 --> 00:28:13,645
+They don't trust me any more. They think
+my emotions are clouding my judgment.
+
+302
+00:28:13,727 --> 00:28:19,677
+Ironic, considering I'm wasting time while
+my daughter is being hunted by that thing.
+
+303
+00:28:19,767 --> 00:28:22,839
+We have our best people on this.
+They will find her.
+
+304
+00:28:22,927 --> 00:28:26,158
+- What do I do until then?
+- I just got a report from the Beta site.
+
+305
+00:28:26,247 --> 00:28:31,082
+The Jaffa are blaming the Tok'ra for what
+happened. There have been altercations.
+
+306
+00:28:31,167 --> 00:28:35,604
+If I can't get the situation under control,
+I have orders to expel them all.
+
+307
+00:28:35,687 --> 00:28:38,565
+Our alliance is falling apart.
+
+308
+00:28:39,487 --> 00:28:43,844
+I need someone to bridge the gap,
+someone to be the voice of reason.
+
+309
+00:28:43,927 --> 00:28:46,043
+I need you.
+
+310
+00:29:32,407 --> 00:29:34,796
+- O'Neill?
+- Go ahead.
+
+311
+00:29:34,887 --> 00:29:37,560
+The UAV has been
+shot down in your area.
+
+312
+00:29:37,647 --> 00:29:44,439
+It's four clicks away on a heading of
+320 degrees from your present location.
+
+313
+00:29:45,327 --> 00:29:47,079
+We're on it.
+
+314
+00:29:57,127 --> 00:29:59,766
+Why have you asked me here?
+
+315
+00:30:03,727 --> 00:30:06,241
+- You know what's happening at Beta site.
+- I do.
+
+316
+00:30:06,327 --> 00:30:09,763
+We need your help to put a stop to it
+before it gets out of hand.
+
+317
+00:30:09,847 --> 00:30:13,396
+You're a leader amongst the Jaffa.
+They'll listen to you.
+
+318
+00:30:15,127 --> 00:30:20,121
+What should I say? They must continue
+to bear the arrogance of the Tok'ra?
+
+319
+00:30:20,207 --> 00:30:25,645
+They must be subservient to those who
+had sacrificed so many of their brothers?
+
+320
+00:30:27,727 --> 00:30:31,083
+The Jaffa have always been
+dependent on the Goa'uld
+
+321
+00:30:31,167 --> 00:30:34,284
+because they need symbiotes
+to sustain them.
+
+322
+00:30:34,367 --> 00:30:36,835
+But now there is
+a substance called tretonin,
+
+323
+00:30:36,927 --> 00:30:39,646
+which can free the Jaffa
+from this dependence.
+
+324
+00:30:39,727 --> 00:30:41,763
+I am aware of its significance.
+
+325
+00:30:41,847 --> 00:30:47,638
+Are you also aware that millions of
+Tok'ra symbiotes died in its development,
+
+326
+00:30:47,727 --> 00:30:50,685
+including our beloved Queen Egeria,
+
+327
+00:30:50,767 --> 00:30:54,760
+the queen from whom
+all our lineage can be traced?
+
+328
+00:30:55,767 --> 00:30:58,235
+- I was not.
+- For the first time,
+
+329
+00:30:58,327 --> 00:31:04,800
+the Tok'ra have fought alongside the Jaffa
+and the Tauri, and it's made a difference.
+
+330
+00:31:04,887 --> 00:31:11,360
+More System Lords have fallen in the past
+seven years than in the 700 years before.
+
+331
+00:31:11,447 --> 00:31:14,439
+It is true that together we are strong.
+
+332
+00:31:14,527 --> 00:31:17,439
+And, divided, we will die.
+
+333
+00:31:26,967 --> 00:31:29,356
+We cannot let our alliance end.
+
+334
+00:31:29,847 --> 00:31:32,361
+Your words are wise,
+
+335
+00:31:32,447 --> 00:31:36,884
+but my time at the Alpha site
+has taught me some bitter lessons.
+
+336
+00:31:36,967 --> 00:31:41,040
+I suspect that you
+do not speak for all the Tok'ra.
+
+337
+00:31:44,047 --> 00:31:45,082
+No.
+
+338
+00:31:46,047 --> 00:31:51,280
+Until the others feel as you do,
+reconciliation may not be possible.
+
+339
+00:32:52,767 --> 00:32:58,797
+Gentlemen, we need your help to keep the
+situation at Beta from getting out of hand.
+
+340
+00:32:58,887 --> 00:33:03,836
+I'm not sure what you expect of the
+Tok'ra. We've had unprovoked assaults.
+
+341
+00:33:03,927 --> 00:33:08,205
+Unprovoked? You refused to help us
+and thousands of Jaffa died needlessly.
+
+342
+00:33:08,287 --> 00:33:12,917
+- Assassinating Olokun was not an option.
+- Why not?
+
+343
+00:33:13,007 --> 00:33:16,079
+We didn't know how many Jaffa
+would join the rebels.
+
+344
+00:33:16,167 --> 00:33:18,840
+We could have delivered
+an army into Anubis' hands.
+
+345
+00:33:18,927 --> 00:33:22,442
+They deserved the right to choose.
+Instead, they were slaughtered.
+
+346
+00:33:22,527 --> 00:33:25,121
+We have fought the Goa'uld
+for thousands of years.
+
+347
+00:33:25,207 --> 00:33:27,482
+You have no right
+to question our methods.
+
+348
+00:33:27,567 --> 00:33:30,035
+You were alone.
+You have allies now.
+
+349
+00:33:30,127 --> 00:33:31,924
+What good has it done us?
+
+350
+00:33:32,007 --> 00:33:36,717
+Since we have been allies, your tendency
+to provoke confrontation with the Goa'uld
+
+351
+00:33:36,807 --> 00:33:40,595
+has resulted in the deaths of more Tok'ra
+than in the previous hundred years.
+
+352
+00:33:40,687 --> 00:33:43,360
+I hate to admit it,
+but he's got a point.
+
+353
+00:33:43,447 --> 00:33:48,202
+When a human or a Jaffa dies,
+more are born to take their place.
+
+354
+00:33:48,287 --> 00:33:50,084
+Not so for the Tok'ra.
+
+355
+00:33:50,167 --> 00:33:54,797
+Our Queen Egeria, from whom
+all Tok'ra have spawned, is dead.
+
+356
+00:33:54,887 --> 00:33:57,355
+Our numbers are dwindling.
+
+357
+00:33:57,447 --> 00:34:01,679
+This alliance may simply
+be something we cannot afford.
+
+358
+00:36:10,327 --> 00:36:13,160
+Carter, I need the...
+
+359
+00:36:13,247 --> 00:36:15,636
+Thanks.
+
+360
+00:36:35,967 --> 00:36:38,197
+Cover him.
+
+361
+00:36:39,007 --> 00:36:40,884
+Is it...
+
+362
+00:36:42,247 --> 00:36:44,477
+Yeah, he's dead.
+
+363
+00:36:47,447 --> 00:36:49,915
+Right, Teal'c? He's dead?
+
+364
+00:36:51,767 --> 00:36:53,758
+Yeah, he's dead.
+
+365
+00:37:00,967 --> 00:37:03,162
+Wanna get up?
+
+366
+00:37:03,247 --> 00:37:05,841
+I just need to rest for a minute.
+
+367
+00:37:23,447 --> 00:37:25,802
+Come here.
+
+368
+00:37:53,367 --> 00:37:57,280
+First of all, we'd like to congratulate
+you on the recovery of Major Carter.
+
+369
+00:37:57,367 --> 00:38:00,165
+- We are glad to know that she is safe.
+- Thank you.
+
+370
+00:38:00,247 --> 00:38:04,559
+I have spoken to the High Council with
+regard to the situation at the Beta site.
+
+371
+00:38:04,647 --> 00:38:09,437
+- They believe the best solution is to leave.
+- Is that really necessary?
+
+372
+00:38:09,527 --> 00:38:11,916
+If this partnership were to continue,
+
+373
+00:38:12,007 --> 00:38:15,238
+you would insist on full disclosure
+of our covert operations.
+
+374
+00:38:15,327 --> 00:38:17,602
+I'm afraid that's non-negotiable.
+
+375
+00:38:17,687 --> 00:38:19,882
+In that case, we must refuse.
+
+376
+00:38:19,967 --> 00:38:24,006
+Secrecy is our only weapon.
+It's all we've ever known.
+
+377
+00:38:24,087 --> 00:38:26,123
+The Jaffa, too, will be leaving.
+
+378
+00:38:26,207 --> 00:38:30,758
+- But with the Tok'ra gone...
+- We are not leaving because of them.
+
+379
+00:38:30,847 --> 00:38:33,156
+We are leaving because
+it is what we must do.
+
+380
+00:38:33,247 --> 00:38:38,002
+On your base, you dictate the terms. We
+must consult you before we take action.
+
+381
+00:38:38,087 --> 00:38:41,875
+There are those among us who feel
+we simply traded one master for another.
+
+382
+00:38:41,967 --> 00:38:46,597
+We're not trying to tell you what to do. We
+simply think it's vital to coordinate efforts.
+
+383
+00:38:46,687 --> 00:38:51,283
+Unlike the Tauri or the Tok'ra, the Jaffa
+are still learning what it means to be free.
+
+384
+00:38:51,367 --> 00:38:56,077
+To do this, we must have our own bases,
+our own leaders, our own communities.
+
+385
+00:38:56,167 --> 00:39:00,046
+We must do this for ourselves,
+or it would have no meaning.
+
+386
+00:39:00,127 --> 00:39:02,800
+Only then can we be
+equal partners in any alliance.
+
+387
+00:39:02,887 --> 00:39:05,276
+I'm sorry, this is nuts.
+
+388
+00:39:05,367 --> 00:39:09,599
+My friend almost died so we could get
+a weapon able to stop Anubis' soldiers.
+
+389
+00:39:09,687 --> 00:39:13,680
+Now we're finally able to really make
+a difference, and you want to walk away?
+
+390
+00:39:13,767 --> 00:39:15,803
+I'm sorry, Dr Jackson.
+
+391
+00:39:15,887 --> 00:39:18,276
+This is how it must be.
+
+392
+00:39:36,887 --> 00:39:38,878
+Hiya, kid.
+
+393
+00:39:40,167 --> 00:39:42,761
+You were asleep for a long time.
+
+394
+00:39:43,527 --> 00:39:45,597
+You gave me quite a scare.
+
+395
+00:39:45,687 --> 00:39:47,245
+Sorry.
+
+396
+00:39:47,927 --> 00:39:51,044
+Jack told me what happened.
+
+397
+00:39:51,127 --> 00:39:53,322
+I'm proud of you.
+
+398
+00:39:55,687 --> 00:40:01,637
+Look, Sam... I may not be able to come
+around as much for the next little while.
+
+399
+00:40:02,927 --> 00:40:07,000
+- What do you mean?
+- Things kind of got screwed up.
+
+400
+00:40:08,167 --> 00:40:10,397
+The alliance is in trouble.
+
+401
+00:40:10,487 --> 00:40:14,162
+- I don't understand.
+- You don't need to know the details.
+
+402
+00:40:14,247 --> 00:40:18,843
+Let's just say we're going
+our separate ways for a while.
+
+403
+00:40:19,807 --> 00:40:24,835
+If I stay with the Tok'ra,
+I can at least try to mend some fences.
+
+404
+00:40:26,847 --> 00:40:28,883
+Are you sure?
+
+405
+00:40:28,967 --> 00:40:32,084
+I'm not ready to give up on this just yet.
+
+406
+00:40:40,687 --> 00:40:43,838
+Don't worry, I'll be back eventually.
+
+407
+00:40:45,887 --> 00:40:48,037
+I'll miss you.
+
+408
+00:40:48,127 --> 00:40:50,357
+I'll miss you, too.
+
+409
+00:41:24,127 --> 00:41:28,484
+Visiontext Subtitles: Katherine Appleby
+
+410
+00:41:53,247 --> 00:41:55,238
+ENHOH – Rippé par BoRiF
+

@@ -1,0 +1,403 @@
+{315}{365}Trois.
+{802}{852}Donne-m'en deux.
+{937}{970}Deux.
+{1272}{1335}Je peux en avoir cinq?
+{1367}{1430}Cinq? Vous êtes sérieux?
+{1442}{1505}C'est quatre maxi. Montrez voir.
+{1507}{1572}Si M. Weems en veut cinq,
+{1595}{1655}donnes-en-Iui cinq.
+{1862}{1915}Le donneur en prend deux.
+{2012}{2047}Quatre.
+{2380}{2480}- II faut mettre combien?|- Au moins 4 000 $.
+{2480}{2547}Cinq cartes neuves!
+{2635}{2685}VoiIà 4 000.
+{2732}{2777}4 000 de pIus.
+{2872}{2987}Et si on passait aux choses sérieuses?|Je mise 15 000 $ de pIus.
+{3035}{3122}C'est inutiIe. J'ai pas besoin de pIus.
+{3180}{3265}Vous aIIez vous faire dessus|en voyant mes cartes.
+{3507}{3565}On Ies montre?
+{3872}{3932}FuII aux rois.
+{4017}{4100}C'est une quinte, n'est-ce pas?
+{4280}{4342}Un coup de boI!
+{4395}{4477}- Vous faites quoi, Ià?|- Je rentre.
+{4480}{4535}Pas si vite.
+{4570}{4660}Laissez-nous I'occasion|d'en récupérer une partie.
+{4740}{4807}II y a un peu pIus de 100 000 $.
+{4810}{4885}Justement!
+{4970}{5062}J'ai besoin de tout ça. DésoIé.
+{5095}{5170}Je me suis bien amusé, en tout cas.
+{5180}{5247}On encaisse où?
+{5510}{5595}Les gars, on était censés descendre.
+{5740}{5775}Les gars?
+{5842}{5925}C'est pas ce que j'entendais par ''encaisser''.
+{7500}{7580}ACTIVITE PARANORMALE
+{7695}{7755}LE GOUVERNEMENT NOUS MENT
+{8160}{8220}LA VERITE EST AILLEURS
+{8965}{8990}AIIô?
+{8992}{9055}MuIder, c'est moi. Je fais quoi?
+{9057}{9115}- T'es à Chicago?|- Oui.
+{9117}{9210}Je suis à I'angIe nord-ouest de Ia 7e rue|et de Hunter, comme convenu.
+{9212}{9295}Mais tu n'es pas Ià. T'es où?
+{9312}{9372}- Dans Ie coin.|- Mais encore?
+{9375}{9430}JoIi taiIIeur!
+{9565}{9590}Y a quoi, en bas?
+{9592}{9657}Avant d'aIIer voir en bas, regarde en haut.
+{9710}{9815}Les deux derniers étages sont Ioués|par Jimmy Cutrona. Tu connais?
+{9815}{9945}L'as du crime organisé. Le FBI Ie traque|pour des escroqueries en tout genre:
+{9947}{9987}extorsions, assassinats...
+{9990}{10075}Deux agents étaient postés Ià|hier soir et ont vu
+{10077}{10160}un homme se faire baIancer|du toit de Cutrona à 22 h 40.
+{10162}{10305}II est tombé de 30 étages|et a traversé cette cage d'ascenseur.
+{10307}{10365}Comme ça, direct.
+{10367}{10400}Aie!
+{10402}{10462}C'est ce qu'iI a dû dire.
+{10465}{10582}Après s'être reIevé, être sorti de Ià|et avoir disparu dans Ia nuit.
+{10730}{10812}C'est qui, cet homme, au juste?
+{10815}{10922}Aucune idée. II s'est enfui.|Les agents ne I'ont pas rattrapé.
+{10925}{10990}Le sous-soI a été fouiIIé?
+{10990}{11065}Tomber de 90 m et s'en sortir|n'est pas un crime.
+{11067}{11115}T'en dis quoi?
+{11115}{11185}II a peut-être des pouvoirs.
+{11187}{11345}Une prédisposition à Ia guérison rapide|ou à Ia régénération des tissus.
+{11365}{11477}En gros, autant rechercher|Bip Bip Ie coyote?
+{11480}{11585}Tu penses qu'iI est invuInérabIe, c'est ça?
+{11587}{11717}En 1998, un soIdat dont Ie parachute|est resté fermé a chuté de 1 400 m.
+{11720}{11790}II s'en est sorti avec une côte cassée.
+{11822}{11850}Que veux-tu dire?
+{11852}{11972}Un coup de vent bien orienté|ou un courant d'air ascendant
+{11975}{12065}ont pu I'aider à bien atterrir.
+{12067}{12117}C'est un coup de boI.
+{12120}{12252}Si c'est vraiment un coup de chance,|c'est comme ça que tu I'expIiques?
+{12255}{12360}Combien de variabIes doivent|converger pour que ça marche?
+{12362}{12430}- Je ne sais pas.|- Des miIIiers!
+{12455}{12500}MuIder?
+{12500}{12550}Regarde.
+{12575}{12680}Si ce chariot était Ià quand iI est tombé,|ça expIique I'état des roues.
+{12682}{12760}Et si eIIes avaient amorti sa chute?
+{12760}{12862}- Retrouvons-Ie et demandons-Iui.|- Oui.
+{13367}{13460}On dirait qu'on a déjà trouvé|une partie de Iui.
+{13757}{13812}Je te trouve bien confiant.
+{13815}{13897}II doit y avoir 600 personnes|avec un oeiI de verre!
+{13900}{14037}SeuI Henry Weems a pris rendez-vous|ce matin pour en commander un autre.
+{14070}{14127}II ne doit pas trouver Ia porte.
+{14247}{14317}Viens, ScuIIy. La chance me sourit.
+{14600}{14670}Aidez-moi! C'est une urgence.
+{14875}{14937}- On n'est pas pIombiers.|- Je sais.
+{14940}{15005}Mais je dois aIIer travaiIIer.
+{15007}{15110}Vous êtes pIus costaud que moi.|Le robinet est sous I'évier.
+{15235}{15305}Henry Weems, Ie gardien, n'est pas Ià?
+{15307}{15400}M. Efficacité?|Autant attendre Ie père NoëI.
+{15522}{15582}C'est dans I'autre sens.
+{15585}{15657}- Richie, va te coucher, chéri.|- Mais maman...
+{15660}{15752}II n'y a pas de ''mais'' qui tienne.|Va te coucher.
+{15755}{15815}II a raison. Vers Ia droite.
+{15817}{15872}Je sais.
+{15885}{15920}Vers Ia droite.
+{16417}{16467}Ca va, MuIder?
+{16477}{16565}Oui. Mes fesses ont amorti Ia chute!
+{16567}{16617}Devine qui j'ai trouvé.
+{16635}{16700}Henry Weems, j'imagine?
+{16995}{17085}La prochaine fois, Iaissez|Ia pIomberie à un professionneI.
+{17230}{17305}Vous vouIez essayer ça, CendriIIon?
+{17485}{17577}M. Weems, pourquoi vous cachiez-vous|dans un appartement vide?
+{17580}{17630}Je me cache pas. Je me dérobe.
+{17632}{17700}- A qui?|- Vous.
+{17702}{17757}Finissons-en:
+{17760}{17835}je ne témoignerai pas contre Jimmy Cutrona.
+{17837}{17942}La nuit dernière, Cutrona vous ajeté|du toit du 1107 Hunter Avenue.
+{17945}{17995}- Exact?|- Je n'ai rien dit.
+{17995}{18112}Je ne veux pas qu'on m'envoie au fin fond|de I'Indiana pour me protéger.
+{18115}{18235}Vous avez survécu à une chute de 90 m|et en êtes ressorti indemne.
+{18310}{18455}Le vent devait souffIer dans Ie bon sens|etje suis tombé sur un tas de serviettes.
+{18455}{18520}- Rien de terribIe.|- Vous êtes chanceux.
+{18520}{18625}J'ai quand même un saIe bIeu.
+{18740}{18810}Et puis, j'ai perdu mes gains de poker.
+{18810}{18867}Vous jouiez au poker hier?
+{18870}{19002}Cutrona a cru que je trichais.|Une fois de pIus, je vous ai rien dit.
+{19005}{19100}L'enjeu devait être énorme.|Vous avez gagné beaucoup d'argent?
+{19100}{19155}Je ne sais pas.
+{19157}{19207}Un peu.
+{19305}{19375}C'est quoi? C'est vous qui I'avez fait?
+{19455}{19522}C'est un hobby.
+{19525}{19565}Je peux?
+{20190}{20260}C'est du travaiI d'artiste! Ca veut dire quoi?
+{20262}{20357}Comment ça? Ca veut rien dire du tout.
+{20360}{20415}C'estjuste... Je sais pas.
+{20417}{20482}C'est un rapport de cause à effet.
+{20510}{20550}Vous avez terminé?
+{20552}{20655}M. Weems, vous ne vouIez vraiment pas|témoigner contre Cutrona?
+{20657}{20750}- Non.|- Ce serait dans votre intérêt.
+{20752}{20820}II a déjà essayé de vous tuer,|iI recommencera.
+{20822}{20887}On vous protégera.
+{20890}{20950}Je suis conscient du risque.
+{21087}{21150}VoiIà mon pIan:
+{21150}{21222}on parIe de Weems au bureau de Chicago,
+{21225}{21292}qui prend Ie reIais.
+{21295}{21345}Tu te changes.
+{21347}{21445}On atterrit à Washington|au coucher du soIeiI, et Ia vie est beIIe!
+{21447}{21530}Tu veux partir aIors que|ça devient intéressant?
+{21532}{21640}Ca I'était quand on recherchait|Bip Bip Ie coyote.
+{21642}{21747}Ce type ajuste eu du boI!|C'est pas une affaire non cIassée.
+{21750}{21810}Et si I'affaire NC était Ia chance?
+{21895}{21937}On prend Ies escaIiers.
+{22425}{22465}Quoi?
+{22500}{22582}Les cIés de Ia voiture.|J'ai dû Ies perdre en tombant.
+{23622}{23687}Vous voyez ça souvent?
+{23830}{23972}J'ai fouiIIé tout I'immeubIe:|pas de trace d'Henry Weems.
+{23975}{24032}II est en fuite.
+{24035}{24127}La victime est AngeIo BeIIini,|dit Angie Ia brute.
+{24130}{24245}II sert Ia famiIIe Cutrona.|Je ne pense pas qu'iI passait dire bonjour.
+{24245}{24315}Tu penses à Ia Iégitime défense?
+{24317}{24427}Un maigrichon qui n'y voit rien|contre un gars qu'on surnomme Ia brute?
+{24430}{24500}Je ne crois pas. Weems n'a tué personne.
+{24502}{24600}On n'était pas partis depuis 2 mn.|II n'a pas une seuIe égratignure.
+{24602}{24667}Je pense à un infarctus.
+{24720}{24782}Que s'est-iI passé?
+{24785}{24837}Un rapport de cause à effet.
+{24845}{24925}- C'est-à-dire?|- Imagine.
+{24955}{25065}BeIIini défonce Ia porte, prêt à tuer Weems.
+{25067}{25145}II va tirer, mais un bruit Ie surprend.
+{25147}{25222}C'est quand j'ai sonné.
+{25225}{25310}II tire, mais en ayant perdu sa cibIe.
+{25312}{25407}II atteint Ia Iampe, qui tombe|et entraîne Ia pIanche à repasser.
+{25410}{25480}La baIIe ricoche et Weems|pIonge derrière Ie canapé.
+{25480}{25555}BeIIini s'éIance vers Iui,|trébuche sur Ia tabIe,
+{25557}{25697}et rebondit sur Ia chaise.|Son Iacet se prend dans Ie ventiIateur.
+{25792}{25925}Un rapport de cause à effet.|Des événements sans rapport apparent,
+{25925}{26000}qui sembIent être I'oeuvre du hasard,
+{26002}{26095}mais s'enchaînent|dans I'intérêt d'Henry Weems.
+{26110}{26190}- SimpIe chance?|- Tout porte à Ie croire.
+{26190}{26322}II gagne au poker. II survit à une chute|du haut d'un gratte-cieI, et puis ça.
+{26440}{26482}Attends-moi.
+{26527}{26572}C'est Richie, non?
+{26575}{26625}- Moi, c'est Dana.|- Bonjour.
+{26627}{26750}On retourne dans ta chambre.|C'est ce que voudrait ta maman.
+{26957}{27027}T'aimes Ie sport, on dirait.
+{27085}{27135}C'est IequeI, ton préféré?
+{27135}{27205}Avant, c'était Ie basket,
+{27235}{27325}mais Ies BuIIs sont nuIs,|aIors pIutôt Ie base-baII.
+{27337}{27397}Moi aussi, j'aime bien.
+{27567}{27620}C'est Henry qui a fait ça?
+{28065}{28115}C'est chouette!
+{28117}{28205}II me I'a fait quand j'étais à I'hôpitaI.
+{28222}{28347}II dit que tout arrive|pour une raison précise.
+{28387}{28465}Même si, parfois, on ne s'en rend pas compte.
+{28505}{28582}Tu es aIIé à I'hôpitaI à cause de ton foie?
+{28585}{28637}II marche pas bien.
+{28750}{28815}La poIice cherche Henry?
+{28852}{28912}IIs veuIentjuste Iui parIer.
+{28940}{29040}Tu sais où iI aurait pu aIIer?
+{29067}{29135}Depuis ma maIadie, iI sort presque pIus.
+{29212}{29300}- T'as une piste?|- II ne sait rien.
+{29325}{29382}A propos de ta théorie...
+{29400}{29562}Pourquoi I'homme Ie pIus chanceux|du monde serait gardien d'immeubIe?
+{29565}{29705}Pourquoi iI ne jouerait pas au Ioto|vu qu'iI gagnerait automatiquement?
+{29980}{30050}- Comment tu te sens?|- Ca va.
+{30085}{30165}La poIice te cherche.
+{30180}{30235}Pourquoi?
+{30302}{30400}Tu bricoIes chez un ami|pour qu'iI reçoive Ie câbIe gratuitement...
+{30440}{30492}T'inquiète pas.
+{30495}{30565}Je peux te Iaisser un petit moment?
+{30620}{30692}Tu vas où?
+{30707}{30790}J'ai queIque chose à faire.
+{30845}{30902}Repose-toi.
+{31007}{31080}C'est tout? Vous n'avez rien d'autre?
+{31145}{31195}Merci.
+{31300}{31352}Henry Weems n'a pas de casier?
+{31355}{31477}II n'a rien du tout. II ne gagne pas assez|pour avoir un avis d'imposition.
+{31480}{31560}II n'a pas de compte en banque,|pas d'assurance.
+{31560}{31680}Pas de carte de vidéocIub.|II n'a même pas son permis!
+{31680}{31765}On dirait qu'iI cherche à passer inaperçu.
+{31765}{31827}Qu'iI s'est retiré du monde.
+{31830}{31885}Depuis décembre 1989.
+{31927}{32037}Un avion s'est abîmé dans Ie Iac Michigan|avec 21 personnes à bord.
+{32040}{32092}- II y a eu un rescapé.|- Henry.
+{32095}{32190}C'est Ià qu'iI a perdu son oeiI.|II neigeait, c'était NoëI.
+{32190}{32315}II a Iaissé passer trois voIs avant|qu'on Iui trouve une pIace sur ceIui-Ià.
+{32317}{32397}- Devine son numéro de siège.|- 13?
+{32400}{32462}- Sur Ie voI 7.|- Encore de Ia chance?
+{32465}{32530}Chance ou maIchance,|tout a peut-être commencé Ià.
+{32530}{32617}II s'est transformé après Ia catastrophe.
+{32620}{32707}Son destin a changé du tout au tout.
+{32710}{32812}Avant 1989, Henry travaiIIait|depuis 9 ans dans une gare de triage.
+{32815}{32915}Après I'accident,|iI s'est IittéraIement voIatiIisé.
+{32915}{33012}II a coupé Ies ponts avec ses amis|et a emménagé à MeIrose Park.
+{33015}{33110}Et s'iI avait fait ça parce qu'iI se sentait|coupabIe d'être Ie seuI rescapé?
+{33110}{33195}Henry Weems a vouIu disparati re
+{33197}{33252}parce qu'iI avait de Ia chance?
+{33255}{33322}Et pourquoi revient-iI
+{33325}{33420}et décide-t-iI soudain|d'utiIiser sa chance comme ça?
+{33520}{33602}- Au revoir.|- A bientôt.
+{33742}{33825}- Le gros Iot est à combien?|- 28 miIIions.
+{33827}{33925}- Je veux pas tout ça.|- Vous vouIez combien, RockefeIIer?
+{33925}{33992}Dans Ies 100 000 $.
+{34092}{34140}Tenez! Un doIIar.
+{34355}{34405}C'est nuI, ce truc.
+{34622}{34730}Le gardien d'un immeubIe de MeIrose Park|est recherché pour être interrogé
+{34732}{34835}sur un règIement de compte|particuIièrement sordide.
+{34837}{34920}Vous avez gagné. Vous avez gagné 100 000 $!
+{34990}{35080}- Je vais chercher I'argent où?|- IIs vous I'enverront.
+{35082}{35170}8 200 $ par mois pendant 12 mois.
+{35172}{35225}C'est trop Iong.
+{35320}{35452}- Je ne vous conseiIIe pas de faire ça.|- C'est trop beau!
+{35455}{35525}La poubeIIe est au magasin.
+{35525}{35610}- Vous I'avez dans I'os!|- Jetez ce biIIet.
+{35612}{35670}Ca va maI se terminer.
+{35672}{35725}SaIut, bande d'imbéciIes.
+{35727}{35790}J'ai gagné au Ioto!
+{35790}{35857}100 000 doIIars!
+{36062}{36132}A trois. Un, deux, trois.
+{36157}{36227}Je récapituIe.
+{36230}{36310}Au départ, c'est cet homme qui a gagné.
+{36330}{36492}Vous vous êtes assurés que Ia victime|était en vie, puis iI est parti à pied.
+{36525}{36657}Ensuite, Ia victime|vous a remis son biIIet et a dit:
+{36660}{36755}''Maurice, je te Ie donne.''
+{36860}{36950}Merci, M. AIbert. Je crois que c'est tout.
+{36985}{37102}II est peut-être chanceux, mais beaucoup|de tuiIes arrivent autour de Iui.
+{37105}{37235}C'est peut-être Ia condition.|II ne peut pas avoir I'un sans I'autre.
+{37237}{37357}Henry Weems est venu acheter|un biIIet de Ioterie. Pourquoi?
+{37385}{37525}T'avais raison quand tu t'es demandé|pourquoi iI ne jouait pas au Ioto.
+{37552}{37695}En fait, iI a fait exactement|ce que tu as dit iI y a une heure.
+{38072}{38162}II n'est ni chez Iui, ni avec Richie.
+{38187}{38295}- Tu crois qu'iI se cache?|- II ne se cache pas, iI se dérobe.
+{38305}{38377}Et iI y arrive bien, je dois dire.
+{38390}{38475}Ce truc doit traverser tout I'immeubIe.
+{38477}{38577}Je commence par Ie toit et toi par Ia cave.
+{40880}{40945}Doucement!
+{40945}{41002}Vous êtes difficiIe à trouver.
+{41005}{41057}Je travaiIIe.
+{41067}{41175}On va discuter un peu.|Asseyez-vous et ne bougez pas.
+{41177}{41230}Vous êtes un dur.
+{41342}{41395}Non, c'est pas vrai!
+{42270}{42340}On I'emmène en saIIe d'opération 40.
+{42340}{42405}Attention! Pardon.
+{42677}{42742}- Ca fait maI?|- Ca pique un peu.
+{42775}{42835}Mais je m'en remettrai.
+{42852}{42942}Venez, Henry.|Je veux essayer queIque chose.
+{42945}{43022}- Vous aIIez faire quoi?|- J'en sais rien.
+{43430}{43480}Neuf de trèfIe. A vous.
+{43492}{43547}- Pour quoi faire?|- Vous Ie savez bien.
+{43645}{43727}Gagné. Quitte ou doubIe.
+{43860}{43905}C'est dur à battre.
+{44090}{44160}- Encore gagné.|- Ca prouve quoi?
+{44162}{44272}Si on faisait ça 10 000 fois,|iI gagnerait 10 000 fois.
+{44275}{44340}II ne peut pas perdre.
+{44365}{44480}Ca fait quoi d'être I'homme|Ie pIus chanceux du monde, Henry?
+{44550}{44635}C'est un cauchemar. Vous n'imaginez pas.
+{44635}{44682}Je comprends.
+{44685}{44875}Quand vous avez de Ia chance, queIqu'un|de votre entourage souffre. Je me trompe?
+{44877}{44942}C'est pour I'équiIibre.
+{44945}{45045}Quand j'ai de Ia chance, queIqu'un trinque.
+{45047}{45167}C'est pourquoi vous restez chez vous.|Mais, récemment vous êtes sorti.
+{45170}{45285}- Vous êtes aIIé jouer au poker.|- IIs pouvaient se permettre de perdre.
+{45287}{45370}C'est des ordures. IIs sont atteints.
+{45372}{45447}Vous vous fichez des crimineIs,
+{45450}{45530}mais pourquoi avoirjoué au Ioto?
+{45532}{45612}J'aurais pas dû, mais j'avais besoin d'argent.
+{45615}{45650}Pourquoi?
+{45712}{45765}Pour Richie?
+{46050}{46132}C'est à cause de son hépatite.
+{46135}{46265}II est sur Ies Iistes de dons d'organes,|mais son groupe sanguin est rare:
+{46265}{46310}B rhésus négatif.
+{46312}{46380}II faut un donneur CN...
+{46382}{46452}CMV négatif. A cause du cytomégaIovirus.
+{46455}{46545}IIs ne trouveront pas de donneur à temps.
+{46577}{46645}Les AngIais ont un traitement.
+{46647}{46697}Avec 100 000 $, iI en bénéficie.
+{46700}{46802}C'est expérimentaI,|mais c'est sa dernière chance.
+{46910}{46967}Vous m'arrêtez?
+{46970}{47060}Mais on doit vous protéger|contre Cutrona et ses hommes.
+{47242}{47312}C'est eux qui ont besoin de protection.
+{47400}{47465}Tu es irresponsabIe.
+{47485}{47602}Tu cautionnes Ie déIire d'un homme|qui a subi 3 tentatives d'assassinat.
+{47605}{47685}II faIIait qu'iI accepte Ia protection poIicière.
+{47687}{47780}Je serais d'accord avec toi|si sa vie était en danger.
+{47825}{47932}Mais iI fait un meiIIeur bouIot|contre Cutrona que Ie FBI.
+{47935}{47995}On devrait I'engager.
+{47997}{48125}Tu crois aveugIément|au hasard et à Ia chance.
+{48125}{48195}Tu joues avec Ia vie d'un homme.
+{48195}{48272}Même s'iI y a des coups heureux du sort,
+{48275}{48345}iIs ne durent pas toujours.
+{48605}{48670}L'homme Ie pIus chanceux du monde?
+{48685}{48740}Je I'ai battu.
+{48850}{48910}- MuIder?|- Viens, ScuIIy.
+{49087}{49117}Henry!
+{49845}{49927}- Tu es censé te reposer.|- C'est ce que je fais.
+{49930}{50000}Tu joues.
+{50067}{50172}- Tu ne te Iasses jamais de ça?|- Henry dit que c'est éducatif.
+{50175}{50275}Ne crois pas tout ce que dit Henry.
+{50297}{50385}- La poIice Ie cherche.|- II a dit que c'était rien.
+{50387}{50440}Quand as-tu vu...?
+{50442}{50482}Maman.
+{50485}{50525}Quoi?
+{50762}{50887}- Comment va-t-iI?|- II a une côte abîmée et un coquard.
+{50890}{50982}Ca aurait pu être pire.|Et ne dis pas qu'iI a eu de Ia chance!
+{50985}{51035}Jamais de Ia vie.
+{51037}{51172}T'avais peut-être raison.|La chance ne dure pas toujours.
+{51175}{51295}Sans vouIoir parati re crueIIe,|ça I'a peut-être ramené à Ia raison.
+{51295}{51365}II va témoigner contre Cutrona.
+{51440}{51525}- Quoi?|- Le type au ministère a appeIé.
+{51527}{51602}IIs ont Iancé un mandat d'arrêt.|Je croyais que Weems...
+{51605}{51675}Etait apIati comme une crêpe?
+{51675}{51737}Oui! Je comprends pas.
+{51750}{51805}II a peut-être un don.
+{51807}{51902}Peut-être qu'iI ne sent pas Ia douIeur.
+{51905}{52010}ImpossibIe de I'approcher.|Y a des fIics dans tout I'hôpitaI.
+{52010}{52075}Pas besoin de I'approcher.
+{52092}{52187}Je voudrais Ie jouet d'Henry.|Tu peux aIIer me Ie chercher?
+{52215}{52257}Bien sûr, chéri.
+{52260}{52330}- Faut y aIIer.|- D'accord. Je vais Ie chercher.
+{52332}{52435}Je fais vite. Je te retrouve à I'hôpitaI.
+{53885}{53947}Vous I'avez retrouvée?
+{53950}{54015}Cutrona veut m'empêcher de témoigner.
+{54017}{54120}II n'y a pas de preuve d'enIèvement,|pas de demande de rançon.
+{54122}{54212}- II est rusé.|- Dur d'obtenir un mandat de perquisition.
+{54215}{54270}- Mais on y arrivera.|- Quand?
+{54280}{54330}Demain? La semaine prochaine?
+{54375}{54435}- Vous restez Ià?|- Attendez.
+{54437}{54567}Et si je m'étais trompé,|si votre chance n'avait pas tourné?
+{54570}{54625}Tout arrive pour une raison.
+{54627}{54695}L'enIèvement de Maggie est une chance?
+{54697}{54830}Non, mais ce qui sembIe être de Ia maIchance|n'en est peut-être pas.
+{54832}{54950}On n'est pas en mesure de Ie dire.|Les arbres cachent Ia forêt.
+{55200}{55250}Comment va-t-iI?
+{55267}{55377}MaI. S'iIs ne trouvent pas de donneur|dans Ies prochaines heures...
+{55452}{55537}Et si tous ceux qui côtoyaient Henry
+{55540}{55635}jouaient un rôIe dans son rapport|à Ia chance, y compris toi et moi?
+{55650}{55792}Tu parIes comme si on était pris|dans un de ses jouets.
+{55822}{55917}- Tu fais quoi?|- Je cherche Maggie Lupone.
+{56045}{56120}On est sous Ie signe de Ia chance.
+{56122}{56187}Autant Iui faire confiance.
+{56225}{56305}GARDERIE MUHAYMIN|NOUS ELEVONS LES ENFANTS DE L'ISLAM
+{56307}{56382}C'est un coup pour rien.
+{56437}{56497}BLANCHISSAGE GRAYSON
+{56770}{56822}Regarde qui est Ià!
+{56920}{57007}Je vouIais vous dire|que je ne vous en veux pas.
+{57010}{57080}Je ne témoignerai pas contre vous.
+{57097}{57165}ReIâchez juste Maggie Lupone.
+{57212}{57315}Maggie? Je ne connais pas de Maggie.
+{57340}{57395}Tu connais une Maggie?
+{57435}{57490}Arrêtez de me chercher des noises.
+{57490}{57540}On te cherche des noises?
+{57562}{57655}Tu m'arnaques presque de 100 000 $,|tu tues Angie,
+{57655}{57742}tu bIesses SaI, et c'est moi|qui te cherche des noises?
+{57807}{57875}C'est pas ce que je vouIais dire.
+{57875}{57945}Laissez-Ia partir.
+{57945}{58010}Son fiIs est très maIade.
+{58047}{58102}Faites-moi ce que vous vouIez.
+{58105}{58155}T'en es sûr?
+{58175}{58290}Quand j'en aurai fini avec toi,|tu ne diras pIus ça.
+{58562}{58632}Henry! Richie... comment va-t-iI?
+{58722}{58795}Pas ceIui-Ià. Le petit.
+{59427}{59490}Laissez-Ie, saIaud!
+{59490}{59545}Fais-Ia taire!
+{60315}{60362}SERVICE PEDIATRIQUE|R.I. CHILDES
+{61315}{61380}B RHESUS NEGATIF
+{61547}{61660}QueIIe était Ia probabiIité pour que Cutrona|soit Ie donneur idéaI? 1 sur 1 000 000?
+{61662}{61712}Peut-être moins.
+{61747}{61837}Peut-être que tout arrive|vraiment pour une raison précise.
+{61855}{61905}Parfois on ne Ie sait pas.
+{62045}{62122}Peut-être que votre chance|est en train de tourner.
+{62125}{62160}Peut-être.
+{63027}{63105}Sous-titrage Visiontext: NathaIie Diu
+{63597}{63647}FRENCH

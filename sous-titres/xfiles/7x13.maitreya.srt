@@ -1,0 +1,397 @@
+{95}{170}Dix secondes avant engagement.
+{255}{335}- Lo-Fat est déchaîné.|- Ca va saigner!
+{335}{475}Me coIIez pas, je change de niveau|aujourd'hui. Je vais tous Ies buter.
+{545}{602}Position: offensive.
+{605}{740}Situation: troupes de guériIIa|à proximité du moduIe d'insertion.
+{952}{977}C'est parti.
+{980}{1020}On est prêts.
+{1022}{1080}Regarde Ieur ¨rythme cardiaque.
+{1080}{1185}Si je ne Ies Iâche pas,|iIs vont s'entretuer.
+{1187}{1217}Quatre...
+{1220}{1245}trois...
+{1247}{1272}deux...
+{1275}{1337}un... action.
+{1772}{1830}- Vous Ies voyez?|- IIs sont Ià.
+{1832}{1890}Prêts à vous réduire en bouiIIie.
+{2235}{2277}Vas-y, Rétro.
+{2375}{2410}Feu.
+{3137}{3212}IIs ont fait un vrai carnage!
+{3450}{3510}Phase deux, Ies mecs.
+{3700}{3752}- Prêts, têtes de noeud?|- FIanc droit.
+{3755}{3790}- FIanc gauche.|- Go!
+{5300}{5352}Lo-Fat est touché.
+{5507}{5590}- T'es avec moi, Moxie?|- Je te couvre.
+{5710}{5790}- Rétro est passé.|- AdrénaIine en zone rouge.
+{5792}{5842}Leur soif de sang est insatiabIe.
+{6555}{6615}Moxie? Qui va Ià?
+{7627}{7702}- Qui es-tu?|- Je m'appeIIe Maitreya.
+{7705}{7772}Ceci est mon jeu.
+{8270}{8330}LE GOUVERNEMENT NOUS MENT
+{8690}{8732}LA VERITE EST AILLEURS
+{8825}{8902}SIEGE SOCIAL TPP|INLAND EMPIRE, CALIFORNIE
+{9155}{9237}Agents MuIder et ScuIIy, FBI.|On est attendus.
+{9302}{9365}Je dois scanner votre badge.
+{9417}{9487}Votre oeiI, je vous prie.
+{9560}{9600}C'est bon.
+{9600}{9655}Madame?
+{9675}{9770}VeuiIIez Iire nos cIauses de confidentiaIité.
+{9770}{9860}''Toute divuIgation des droits|et propriétés inteIIectueIIes de TPP,
+{9862}{9952}société privée caIifornienne,|sera sévèrement punie par Ia Ioi.''
+{9955}{10020}Signez au bas du document.
+{10175}{10237}- TPP?|- Tireur à Ia Première Personne.
+{10270}{10355}- Jeux vidéo.|- Divertissement numérique.
+{10392}{10447}C'est mieux protégé que Ie Pentagone.
+{10450}{10535}SaIut! Ca baigne, agent MuIder?
+{10535}{10610}Bienvenus dans I'univers|du numérique et du siIicone.
+{10612}{10710}Vous vouIez un verre de Iait|ou une bouteiIIe d'eau de source?
+{10750}{10820}Et si vous nous expIiquiez|ce qu'on fait ici?
+{10822}{10905}Ressentez d'abord Ie frisson|de Ia nouveIIe ruée vers I'or.
+{10907}{11012}Vous êtes sur Ia rampe de Iancement|d'une fusée à destination des étoiIes.
+{11180}{11267}- II y a eu un accident.|- De queI genre?
+{11270}{11335}Un accident du travaiI.
+{11337}{11390}Comment est morte Ia victime?
+{11390}{11465}- Ce n'est pas cIair.|- L'équipement est impIiqué?
+{11497}{11552}Oui et non.
+{11555}{11645}- QueIs sont vos intérêts ici?|- Nos intérêts?
+{11647}{11702}On est consuItants chez TPP.
+{11735}{11815}LangIy a participé à Ia programmation.|II a créé Ies méchants.
+{11817}{11852}Juste Ies gros fachos.
+{11855}{11935}On est Ioin d'être|Ies principaux bénéficiaires.
+{11937}{12010}Espèces ou stock-options?
+{12012}{12077}Titres. A taux préférentieI.
+{12080}{12185}Avec intéressement à court-terme|pour contourner Ia régIementation.
+{12187}{12245}- On entre en Bourse.|- Le jeu sort vendredi.
+{12247}{12307}50 points de vente aux USA et au Japon.
+{12310}{12412}Sauf qu'un cadavre gêne|votre ascension vers Ia fortune.
+{12415}{12520}A votre pIace,|j'aurais déjà fait dans mon froc.
+{12630}{12715}Cet homme a été abattu.
+{12715}{12787}Un meurtre impIique Ia présence d'une arme.
+{12790}{12910}Et c'est impossibIe. Personne|ne franchirait Ia sécurité armé.
+{12912}{12962}Et ça, c'est quoi?
+{12965}{13035}Un fusiI Iaser.|Pour Iiquider Ia vermine virtueIIe.
+{13035}{13110}- II émet à basses fréquences...|- Tu permets?
+{13110}{13257}Les armes sont reIiées au serveur.|L'effet est réaIiste, mais inoffensif.
+{13260}{13380}Cette arme est un jouet, mais|de vraies baIIes ont traversé sa...
+{13380}{13467}Combinaison hypodermique. La peinture|simuIe bIessures et impacts morteIs.
+{13470}{13540}TechnoIogie de pointe sanguinaire.
+{13645}{13710}- II est mort. Je sais.|- Contre qui jouait-iI?
+{13712}{13815}Le jeu. Tu butes Ies méchants virtueIs|avant qu'iIs te butent.
+{13815}{13877}On comptabiIise Ies cadavres.
+{13880}{13980}Ce sont des images de synthèse projetées.
+{13982}{14035}Tout se dérouIe dans Ia zone de jeu.
+{14035}{14145}L'environnement est numérique.|Rien n'est réeI. Tout est virtueI.
+{14167}{14247}QueIqu'un a vu Ia scène?
+{14250}{14310}J'étais avec Ivan en saIIe de contrôIe.
+{14310}{14395}Rétro était super performant.|Son bio¨rythme était au poiI.
+{14397}{14480}II était déchaîné,|prêt à passer au niveau supérieur
+{14480}{14550}quand iI s'est fait refroidir.
+{14552}{14617}II va faIIoir prévenir Ia poIice.
+{14620}{14747}Pas de fIics. T'avais promis|de faire jouer tes reIations.
+{14750}{14820}ReIations ou pas,|vous avez un cadavre sur Ies bras.
+{14820}{14912}Ca fera Ia une. Rien de teI|pour une introduction en Bourse.
+{14980}{15115}- Ici I'agent spéciaI Dana ScuIIy.|- Vous étiez en saIIe de contrôIe?
+{15117}{15187}Qu'avez-vous vu exactement?
+{15227}{15372}J'ignore même si on I'a vu.|Tout aIIait bien, et soudain on a pIanté.
+{15375}{15497}Ivan et moi étions assis Ià.|On s'est regardés, étonnés.
+{15500}{15565}C'est arrivé si vite.
+{15600}{15700}Moxie couvre Rétro qui fait une percée|pour marquer un maximum de points.
+{15702}{15795}Puis son bio¨rythme s'est affoIé|comme si on Iui avait tiré dessus.
+{15795}{15845}Et Ie système s'est réinitiaIisé.
+{15867}{15960}Et iIs sont revenus dans Ia zone de jeu.
+{15962}{16037}- Viens m'aider.|- Que s'est-iI passé?
+{16115}{16185}On raIIume. Fin de partie.
+{16187}{16245}Que s'est-iI passé?
+{16245}{16355}On I'ignore. On n'a pas d'images définies|des zones internes du jeu.
+{16357}{16422}Et en mode graphique?
+{16440}{16540}Peut-être. Je vais passer|en affichage graphique.
+{16542}{16630}On n'a encore jamais mappé cette zone.
+{16650}{16712}Rétro étant en zone neutre.
+{17000}{17055}- C'est une nana.|- ImpossibIe.
+{17137}{17195}Vous pouvez Ia modéIiser?
+{17780}{17865}- Nom d'une pipe.|- EIIe a un pistoIet à siIex.
+{17865}{17965}Et d'autres atouts.|Vous pouvez me I'imprimer?
+{18332}{18372}Déesse.
+{18432}{18540}RécapituIons. On n'a pas d'arme,|pas d'expertise médicoIégaIe,
+{18542}{18617}pas de mobiIe, pas de suspect.
+{18660}{18735}Mon équipier, agent MuIder.|Voici I'inspecteur Lacoeur.
+{18757}{18875}- Vous avez du nouveau?|- Notre tueuse, je crois.
+{18877}{18932}Je vais diffuser un avis de recherche.
+{18935}{18987}Dans Ies boutiques de Iingerie.
+{18990}{19077}- C'est une bIague?|- Tout est dans I'ordinateur.
+{19080}{19155}Les jeux vidéo regorgent|de créatures voIuptueuses.
+{19157}{19260}Pourtant eIIe est dans ce jeu-Ià|sans que personne I'ait programmée.
+{19262}{19325}N'empêche qu'eIIe reste virtueIIe.
+{19327}{19447}C'est un personnage.|Un fantasme d'adoIescent frustré.
+{19545}{19612}C'est DarryI Musashi. Vous avez vu?
+{19630}{19675}DarryI Musashi.
+{19677}{19725}En chair et en os.
+{19727}{19840}- Qui est DarryI Musashi?|- Le grand mati re à penser.
+{19840}{19922}II survit comme concepteur de jeu|entre deux contrats avec Ia CIA.
+{19925}{20005}- Le génie du massacre virtueI.|- Que vient-iI faire ici?
+{20005}{20117}Ivan a dû I'appeIer|pour tuer notre pétroIeuse.
+{20120}{20250}Comment ce jeu peut faire|régresser Ies hommes à I'âge bête?
+{20250}{20300}C'est DarryI Musashi.
+{20395}{20490}Tu veux que je fasse I'autopsie?
+{20602}{20690}ModuIe d'immersion en descente.|20 secondes avant action.
+{20692}{20800}Matez ça. DarryI Musashi|va nous montrer comment on joue.
+{20802}{20880}II aurait gagné 90 fois au Justicier de I'espace.
+{20880}{20910}91.
+{20912}{20980}Regardez-Ie. C'est un sphinx.
+{20995}{21050}Dix secondes...
+{21052}{21107}neuf... huit...
+{21110}{21165}sept... six...
+{21167}{21220}cinq... quatre...
+{21222}{21287}trois... deux...
+{21290}{21365}un... action.
+{21682}{21792}Ne ratez pas ça. Viens voir, MuIder.
+{21795}{21842}C'est Iui? DarryI Musashi?
+{21845}{21925}- En personne.|- II vient d'entrer dans Ie jeu.
+{21970}{22042}- II reste à découvert?|- II ne connati pas Ia peur.
+{22987}{23012}IncroyabIe.
+{23015}{23090}- Rythme cardiaque de 68.|- Pas une goutte de sueur.
+{23090}{23167}II n'attend pas Ia réinitiaIisation.|II cherche sa proie.
+{23855}{23965}- C'était quoi ça?|- EIIe Iui a tranché Ies mains.
+{24945}{25022}L'examen préIiminaire du défunt
+{25057}{25162}d'environ 20 ans, de sexe mascuIin,|connu sous Ie seuI nom de Rétro,
+{25165}{25265}n'apporte aucun nouveI indice|concernant Ia cause du décès.
+{25452}{25512}Effacer.
+{25515}{25625}Le décès est dû à une Iésion conséquente|au niveau du sternum
+{25625}{25755}qui a causé une hémorragie|des organes internes.
+{25755}{25895}La pIaie résuIte d'un impact vioIent|d'un projectiIe de grande taiIIe
+{25897}{25985}ayant perforé Ia tripIe épaisseur|d'un giIet en KevIar.
+{26150}{26190}Effacer.
+{26192}{26320}La pIaie résuIte d'un impact vioIent|causé par un objet non identifié,
+{26320}{26452}qui, même s'iI a pénétré Ie corps,|n'a Iaissé aucune trace identifiabIe.
+{26455}{26600}Aucune brûIure, ni signature chimique|d'un queIconque expIosif...
+{26635}{26715}- Rien de neuf?|- Je croyais être sur une piste.
+{26750}{26845}La tenue contient pIus|que des capsuIes de peinture.
+{26847}{26947}EIIe mesure Ies bio¨rythmes du joueur,|du coeur aux sécrétions organiques,
+{26950}{27015}et transmet ces données à I'ordinateur.
+{27015}{27130}Quand un joueur est touché,|iI reçoit une décharge de 12 voIts
+{27130}{27205}qui Ie neutraIise jusqu'à Ia fin du jeu.
+{27205}{27305}- Un décès virtueI.|- Si seuIement c'était Ie cas.
+{27307}{27380}J'ai d'abord cru|que Ia combinaison était défectueuse,
+{27382}{27457}qu'une charge avait été inversée.
+{27460}{27545}MaIheureusement, ce n'était pas Ie cas.
+{27547}{27610}Je veux Ie même pour mon anniversaire.
+{27612}{27700}Avoue quand même que c'est|un vrai bijou technoIogique.
+{27702}{27775}Gâché dans un jeu idiot.
+{27775}{27827}Idiot?
+{27830}{27947}Se déguiser en guerrier de I'espace|pourjouer un western futuriste?
+{27950}{28040}QueI genre de crétin peut s'écIater ainsi?
+{28070}{28130}QueIIe utiIité peut avoir ce jeu,
+{28130}{28235}à part cautionner Ia vioIence|dans un pays où eIIe dérape déjà?
+{28235}{28305}- Qui a dit ça?|- Tu crois que prendre des armes
+{28307}{28427}pour créer un chaos virtueI et gratuit|a un effet rédempteur?
+{28430}{28537}Et que Ia montée de testostérone|qui I'accompagne s'arrête avec Ie jeu?
+{28540}{28605}T'es pas un peu sexiste Ià?
+{28625}{28707}Peut-être que ce jeu sert|d'exutoire à certaines puIsions
+{28710}{28835}et combIe un besoin génétique inné|que notre civiIisation moderne interdit.
+{28837}{28947}Ca expIiquerait que Ies hommes|ressentent ce besoin de tout expIoser.
+{28980}{29042}Montée de testostérone ou pas,
+{29045}{29130}notre seuI suspect|pour ce meurtre est une femme.
+{29162}{29222}J'ai vu.
+{29225}{29337}Une femme générée par ordinateur,|avec une arme générée par ordinateur.
+{29340}{29415}Un pistoIet à siIex.|Qui provoquerait une pIaie béante.
+{29417}{29505}Les images ne tuent pas.|Les armes à feu, oui.
+{29535}{29590}Tout comme Ies épées.
+{29750}{29825}L'iIIustre DarryI Musashi.
+{30120}{30175}Vous pIaisantez?
+{30217}{30267}Merci.
+{30295}{30415}La poIice de L.A. vient d'arrêter|une femme suspectée des meurtres.
+{30440}{30512}COMMISSARIAT DU COMTE|DE LOS ANGELES
+{30842}{30912}- Qui est Ie meiIIeur?|- C'est Iui.
+{30915}{30960}L'homme à I'insigne.
+{30960}{31050}Ces hommes n'ont rien de mieux à faire?
+{31087}{31195}EIIe sortait d'une boti e de striptease|de Reseda. Le signaIement correspond.
+{31197}{31267}- On Iui a Iu ses droits?|- Au moins 500 fois.
+{31697}{31772}Pour Ie rapport, veuiIIez donner votre nom.
+{31897}{31997}Pour Ia nième fois, je m'appeIIe|Jade BIuette PIaisir. J'habite...
+{32000}{32052}Excusez-moi, votre vrai nom?
+{32055}{32150}C'est mon vrai nom.|Vous attendiez quoi? MiIdred?
+{32245}{32315}Je dérange pas maI de monde par ici.
+{32317}{32412}- Pas moi, MademoiseIIe...|- PIaisir.
+{32470}{32545}CeIui qui m'a passée|au détecteur de métaI I'a été.
+{32725}{32810}Vous prétendez|ne pas connati re Ivan Martinez
+{32812}{32905}ni Ia société Tireur|à Ia Première Personne ou TPP?
+{32917}{32987}Je rencontre beaucoup d'hommes.
+{32990}{33110}Et si je vous dis qu'on vous a vue|commettre un crime au siège de TPP?
+{33110}{33187}II m'en faut beaucoup pIus|pour me surprendre.
+{33265}{33350}Vous feriez mieux de nous dire Ia vérité.
+{33352}{33447}- Que vouIez-vous entendre?|- Que vous avez tué deux hommes.
+{33467}{33605}L'un avec une épée du XIVe siècIe,|I'autre avec un pistoIet à siIex.
+{33605}{33682}Vous devez me confondre avec ma soeur.
+{33685}{33730}Xéna, Ia guerrière.
+{33772}{33837}Vous démentez que c'est vous?
+{33977}{34025}- Je viens de comprendre.|- Quoi?
+{34025}{34165}Le centre d'imagerie médicaIe de CuIver.|On m'a payée pour scanner mon corps.
+{34180}{34252}On vous a payée pour scanner votre corps?
+{34255}{34352}On m'a payée pour faire|des choses bien pIus étranges.
+{34392}{34485}Nous sommes désoIés, MIIe PIaisir, mais...
+{34510}{34572}Pardonnez-nous. Vous pouvez partir.
+{34982}{35132}Je sais pas toi, mais je ressens|un besoin irrésistibIe de tout expIoser.
+{35140}{35205}SIEGE SOCIAL TPP|05H42
+{35537}{35587}II y a queIqu'un?
+{35787}{35835}Phoebe?
+{35835}{35880}Ca va?
+{35912}{35965}J'ai dû m'endormir.
+{35967}{36035}Je vouIais juste m'aIIonger un peu.
+{36037}{36165}Ca fait 70 heures que j'anaIyse|Ie programme pour débuguer Ie jeu.
+{36167}{36217}Où sont Ies autres? Où est Ivan?
+{36220}{36300}II est avec Ies banquiers. IIs fIippent tous.
+{36302}{36395}On doit Iui parIer d'une certaine|Jade BIuette PIaisir.
+{36397}{36512}II a scanné son corps pour créer|un personnage qu'iI a intégré au jeu.
+{36515}{36575}Et eux, qu'est-ce qu'iIs font?
+{36617}{36712}- Les Bandits SoIitaires sont en bas.|- LangIy et moi avons écrit un patch.
+{36715}{36790}- On va Ie tester.|- Dans queI but?
+{36790}{36850}De contourner Ie probIème.
+{36962}{37035}- Que se passe-t-iI?|- Aucune idée.
+{37037}{37132}- IIs sont dans Ie jeu.|- Phoebe, que fais-tu?
+{37135}{37225}Tu devais attendre notre feu vert.
+{37260}{37330}- Le jeu démarre.|- AIIez.
+{37330}{37385}QueIqu'un a Iancé Ie programme?
+{37387}{37517}J'y crois pas. Le programme|tourne tout seuI. C'est impossibIe.
+{37520}{37585}QueIqu'un Ieur tire dessus.
+{37617}{37710}C'est censé être un décor,|pas une zone de jeu.
+{37712}{37762}IIs ont besoin d'aide.
+{38025}{38055}Neuf...
+{38055}{38105}huit... sept...
+{38105}{38167}six... cinq...
+{38170}{38227}quatre... trois...
+{38230}{38287}deux... un...
+{38290}{38317}action.
+{38320}{38375}Je suis prêt.
+{38510}{38567}- Ca va?|- On a connu mieux.
+{38570}{38667}- Byers a été touché.|- C'est rien. Je suis juste bIessé.
+{38670}{38720}C'est eIIe. EIIe n'est pas Ioin.
+{38755}{38830}EIIe a eu Byers avec son pistoIet à siIex.
+{38845}{38955}A trois, je baIance Ia sauce|pour vous couvrir. Prêts?
+{38970}{39015}Un...
+{39015}{39070}deux... trois.
+{39345}{39405}Retourne dans Ie moduIe.
+{39610}{39690}- Que fait-iI?|- N'y va pas!
+{39690}{39755}II est parti pour s'écIater.
+{39795}{39837}C'est du suicide.
+{40362}{40422}Posez votre épée.
+{41435}{41485}Où est MuIder?
+{41720}{41830}J'ai dit, où est MuIder?|Vous êtes sourds? Où est-iI?
+{41832}{41895}Aucune idée. II a suivi Ia fiIIe.
+{41897}{41950}J'ai vu ça. Mais où est-iI aIIé?
+{41952}{42010}- Dans I'immeubIe.|- II a tiré à tout va.
+{42010}{42105}J'ai vu tout ça.|Je veux savoir où iI est passé.
+{42142}{42270}II y a une porte? Une sortie?|Un passage qu'iI aurait emprunté?
+{42270}{42352}- Juste Ia porte principaIe.|- II devrait être Ià.
+{42355}{42482}C'est impossibIe. Le décor|est numérique. Ce n'est qu'un jeu.
+{42485}{42540}Pour toi peut-être.
+{42582}{42632}Je I'ai IocaIisé.
+{42657}{42795}Cet écran contrôIe Ies joueurs.|Là. Joueur quatre. Son bio¨rythme.
+{42795}{42880}- Comment ça?|- Le numéro quatre, c'est Iui.
+{42882}{42932}- Sur I'écran.|- Juste Ià.
+{42935}{42985}- Où?|- C'est MuIder.
+{43020}{43070}- II est en vie.|- Ce sont ses tracés.
+{43072}{43170}- II est encore dans Ie jeu.|- Mais où est Ie jeu?
+{45240}{45307}- Ca devrait être bon.|- Que faites-vous?
+{45310}{45400}- On dérive Ies circuits.|- Pour court-circuiter Ie jeu.
+{45400}{45500}N'y touchez pas.|Ca ne fonctionnera pas.
+{45500}{45560}Les affaires reprennent!
+{45562}{45615}Vous êtes géniaIe.
+{45617}{45660}Quoi?
+{45660}{45725}On était cuits. Je me voyais déjà griIIé.
+{45727}{45807}Et Ies banquiers ont vu|Ie rapport d'autopsie. Du FBI.
+{45810}{45880}''Cause du décès: inconnue.''
+{45882}{45975}Vous avez régIé nos probIèmes.|On va bientôt compter nos biffetons.
+{45977}{46060}Et vous, vous compterez vos dents.
+{46062}{46140}- Son équipier est perdu dans Ie jeu.|- Perdu?
+{46142}{46225}- Le jeu a disparu.|- Qu'est-ce que vous racontez?
+{46227}{46320}Jade BIuette PIaisir.|Ca ne vous rappeIIe rien?
+{46335}{46372}Jade BIuette PIaisir?
+{46375}{46435}EIIe est difficiIe à oubIier.
+{46752}{46827}J'ignore comment c'est arrivé.
+{46830}{46890}Vous Ia connaissez?
+{46907}{46965}AIors c'était vous.|Vous avez scanné son corps.
+{46967}{47060}Et copié dans mon ordinateur.|C'était ma création.
+{47060}{47112}EIIe était à moi.
+{47115}{47150}Mais pourquoi?
+{47152}{47315}Vous ne savez pas ce que c'est.|Trimer dans cet univers de machos.
+{47317}{47432}- Détrompez-vous.|- EIIe m'aidait à tenir Ie coup.
+{47435}{47505}Ma seuIe parade en tant que femme.
+{47525}{47630}EIIe était ma déesse.|Tout ce que je ne serai jamais.
+{47632}{47710}C'est aussi une meurtrière.
+{47730}{47797}Même si je I'expIique pas.|Vous I'avez mise dans Ie jeu.
+{47800}{47847}Non.
+{47850}{47957}Je créais mon propre jeu sur mon ordinateur.
+{47960}{48027}En secret. Personne n'était au courant.
+{48030}{48160}EIIe est passée d'un jeu à I'autre|et s'abreuve de I'agressivité mascuIine.
+{48160}{48220}Ca Ia rend de pIus en pIus forte.
+{48272}{48327}Vous devez m'aider.
+{48365}{48432}Vous seuIe pouvez comprendre.
+{48435}{48510}Vous devez Ia détruire.
+{48510}{48587}- J'ignore comment.|- II doit y avoir un moyen.
+{48590}{48697}EIIe doit forcément|avoir un taIon d'AchiIIe.
+{48700}{48767}EIIe est devenue invuInérabIe.
+{49092}{49132}CHARGEUR VIDE
+{49590}{49685}Je parie que tu comptes|me fiIer une sacrée branIée.
+{49915}{49997}- EIIe s'appeIIe Maitreya.|- Maitreya?
+{50000}{50082}EIIe a piraté Ie jeu. II faut Ia téIécharger.
+{50085}{50147}On n'a pas de connexion.|Le système a été détourné.
+{50150}{50200}Le programme ne répond pas.
+{50202}{50265}II y a un probIème? Qu'y a-t-iI?
+{50267}{50332}- Le bio¨rythme de MuIder m'inquiète.|- Quoi?
+{50335}{50400}Les tracés s'embaIIent.
+{50400}{50452}Tout ça est de ta faute.
+{50467}{50595}- C'est toi qui I'as mise Ià.|- On s'en prend pas aux fiIIes.
+{51957}{52017}La connexion est rétabIie.
+{52042}{52092}- II n'y a pas d'image.|- On est en haute résoIution.
+{52095}{52160}II y a un truc qui cIoche.
+{52232}{52275}- Ce n'est pas Ie jeu.|- Si.
+{52277}{52335}- C'est Ie niveau deux.|- Comment ça se fait?
+{52335}{52405}- Où est MuIder?|- MuIder est au niveau un.
+{52420}{52502}- II est Ià.|- Arrêtez Ie jeu.
+{52505}{52567}Non. C'est impossibIe.
+{52570}{52657}- Arrêtez-Ie.|- Coupe I'aIimentation.
+{52905}{52967}- Ca ne répond pas.|- II faut Ie sortir de Ià.
+{52970}{53032}Et vite.
+{53330}{53382}Arrête-toi Ià.
+{53560}{53622}C'est pas très sport, hein?
+{53675}{53750}C'est carrément de Ia triche.
+{54490}{54530}Vas-y, miss.
+{54530}{54600}- EIIe est déchaînée.|- La soif de sang est insatiabIe.
+{54602}{54645}Vous avez vu ça?
+{54645}{54697}- ScuIIy y va à fond.|- C'est cIair.
+{54700}{54782}- II y a un probIème?|- Au niveau deux, ça se corse.
+{54785}{54850}Personne n'en est venu à bout.
+{55017}{55090}- Ca va?|- Un brin humiIié.
+{55890}{55940}- C'est dingue.|- IIs y arriverontjamais.
+{55942}{55995}Comment détruire un truc invuInérabIe?
+{55997}{56085}- Arrête-moi si tu peux.|- Ce jeu est toute ma vie.
+{56085}{56130}- Que comptes-tu faire?|- T'en mêIe pas.
+{56132}{56185}- EIIe va tout effacer.|- Pour Ies sauver.
+{56185}{56257}- Lâchez ça. Tous Ies deux.|- Tu peux Ies sauver?
+{56285}{56350}- II y a une commande.|- Qui détruit Ie jeu.
+{56352}{56395}- Tu Ie savais?|- EIIe aussi.
+{56397}{56492}- Tu disais que ça marcherait pas.|- EIIe vouIait sauver sa déesse.
+{56495}{56557}Tu sacrifierais des vies pour sauver ton jeu.
+{56560}{56665}- Nos copains sont Ià-dedans.|- On Ies Iaissera pas mourir.
+{57982}{58052}Donnez-moi ça. Je prends Ies commandes.
+{58055}{58170}- On doit arrêter Ie programme.|- Vous seuIs pouvez Ie faire.
+{58172}{58260}- IIs ont perdu d'avance.|- ScuIIy va manquer de munitions.
+{58300}{58372}- La commande?|- Ne Ie fais pas.
+{58412}{58465}On y est presque.
+{58822}{58887}- La commande?|- Donne-Ia-Iui.
+{59030}{59087}Shift AIt ''massacre''.
+{59635}{59685}Mon Dieu.
+{60062}{60162}On a détruit Ie jeu, et MuIder et ScuIIy avec.
+{60277}{60327}Par ici.
+{60887}{60947}Ca, c'est un jeu!
+{61172}{61235}On est venus, on a vu, on a vaincu.
+{61237}{61370}Si Ia victoire est douce,|un expIoit virtueI ne I'est pas moins,
+{61372}{61427}ni Ies baIIes factices.
+{61430}{61520}Au-deIà de notre imaginaire|résident nos vraies puIsions,
+{61522}{61592}prêtes à être défiées|seIon Ieurs propres codes.
+{61595}{61667}L'inteIIect affronte I'inconscient primitif
+{61670}{61737}dans I'univers hostiIe du numérique
+{61740}{61837}où Ies Iois n'existent pas|et Ies armes suppIantent Ies règIes.
+{61840}{61922}Nés dans I'anarchie|avec une soif de sang insatiabIe,
+{61925}{62017}nous craignons ce que cachent Ies ténèbres.
+{63340}{63410}Sous-titrage Visiontext: Virginie Roux
+{63875}{63925}FRENCH

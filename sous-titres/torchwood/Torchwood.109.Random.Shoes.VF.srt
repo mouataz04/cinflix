@@ -1,0 +1,3267 @@
+1
+00:00:01,673 --> 00:00:02,725
+Torchwood.
+
+2
+00:00:03,336 --> 00:00:05,441
+Indépendant du Gouvernement,
+externe à la police.
+
+3
+00:00:06,371 --> 00:00:08,410
+Pistant toute vie
+extraterrestre sur terre,
+
+4
+00:00:08,579 --> 00:00:10,705
+armant la race humaine contre le futur.
+
+5
+00:00:11,473 --> 00:00:13,839
+Le 21ème siècle est un
+tournant de l'Histoire,
+
+6
+00:00:14,713 --> 00:00:16,263
+et vous devez être prêts.
+
+7
+00:00:26,924 --> 00:00:34,576
+La vitesse de la lumière est de
+299 792 458 mètres par seconde.
+
+8
+00:00:35,346 --> 00:00:38,705
+La douleur se propage dans le corps
+à 106 mètres par seconde.
+
+9
+00:00:39,782 --> 00:00:42,770
+Même un éternuement peut
+atteindre 160 km/h.
+
+10
+00:00:43,513 --> 00:00:45,169
+Et pour ce qui est de la vie,
+
+11
+00:00:45,410 --> 00:00:48,530
+et bien, elle file à une putain d'allure.
+
+12
+00:00:52,419 --> 00:00:55,969
+Alors, me voilà.
+
+13
+00:00:56,224 --> 00:00:58,427
+Eugène Jones.
+
+14
+00:01:26,358 --> 00:01:30,210
+Salut, Gwen. Jack ! Euh, Tosh...
+
+15
+00:01:30,220 --> 00:01:32,645
+On m'a laissé passer
+la sécurité, alors...
+
+16
+00:01:32,646 --> 00:01:34,341
+Je dirais au moins 80 km/h.
+
+17
+00:01:34,359 --> 00:01:38,480
+Passe sur le capot, rebondit,
+roule sûrement, s'écrase par terre.
+
+18
+00:01:38,701 --> 00:01:43,860
+Hé ? Hum, désolé, mais
+ça me ressemble beaucoup.
+
+19
+00:01:44,921 --> 00:01:47,438
+Il pouvait même pas traverser
+la rue correctement.
+
+20
+00:01:47,832 --> 00:01:50,416
+Pas de sac, rien.
+Qu'est-ce qu'il faisait là ?
+
+21
+00:01:51,638 --> 00:01:53,217
+On l'a peut-être renversé exprès ?
+
+22
+00:01:53,339 --> 00:01:55,270
+Peut-être qu'il avait vraiment
+quelque chose d'important.
+
+23
+00:01:55,598 --> 00:01:56,172
+Comme quoi ?
+
+24
+00:01:56,209 --> 00:01:59,459
+Je sais pas. Il essayait toujours de
+nous parler, nous montrer des trucs.
+
+25
+00:01:59,631 --> 00:02:00,960
+On aurait peut-être dû...
+
+26
+00:02:00,981 --> 00:02:02,987
+Gwen, je pense que c'est un
+AVP ordinaire.
+
+27
+00:02:03,034 --> 00:02:06,761
+C'était une voiture rouge. Il y a
+de la peinture rouge sous ses ongles.
+
+28
+00:02:07,221 --> 00:02:08,781
+Je suis mort ?
+
+29
+00:02:16,808 --> 00:02:18,720
+Je suis mort ?
+
+30
+00:02:20,892 --> 00:02:22,224
+Je suis mort ?
+
+31
+00:02:22,885 --> 00:02:25,873
+Torchwood - Saison 1
+Episode 9 - Random Shoes
+
+32
+00:02:25,874 --> 00:02:27,879
+Traduction par Plumedephenix
+
+33
+00:02:27,880 --> 00:02:29,872
+Resynchro par LauCass / Kowaio
+Relecture par Cybelia
+
+34
+00:02:29,873 --> 00:02:32,517
+~ Harkness Team ~
+~ www.seriessub.com ~
+
+35
+00:02:39,912 --> 00:02:40,241
+Oui ?
+
+36
+00:02:40,242 --> 00:02:42,820
+Mon chéri, je reviens des courses,
+j'ai oublié d'acheter du thé.
+
+37
+00:02:45,860 --> 00:02:46,646
+Allô... ?
+
+38
+00:02:46,975 --> 00:02:49,710
+- Eugène ?
+- Bonjour, Mme Jones.
+
+39
+00:02:50,584 --> 00:02:52,971
+Il s'est passé quelque chose.
+Il faut qu'on vous parle.
+
+40
+00:02:53,159 --> 00:02:55,959
+Qu'est-ce qui s'est passé ?
+Comment j'ai fini là ?
+
+41
+00:02:55,984 --> 00:02:58,295
+Je suis mort, mais je suis pas mort.
+
+42
+00:02:58,296 --> 00:03:00,444
+Alors... Merde !
+
+43
+00:03:00,538 --> 00:03:04,494
+Alors, je suis un fantôme
+ou un zombie ?
+
+44
+00:03:04,495 --> 00:03:06,909
+Oh, mon Dieu. Calme toi.
+
+45
+00:03:07,435 --> 00:03:08,534
+Reste avec l'équipe.
+
+46
+00:03:08,571 --> 00:03:09,960
+Quoi ? Tu conduis.
+
+47
+00:03:09,961 --> 00:03:13,552
+C'est Torchwood, ça va aller.
+
+48
+00:03:15,854 --> 00:03:18,701
+Quoi ? ! Bien sûr, je suis invisible.
+
+49
+00:03:19,000 --> 00:03:20,159
+Pourquoi je suis invisible ?
+
+50
+00:03:21,772 --> 00:03:23,680
+Rien sur son téléphone
+datant d'aujourd'hui ?
+
+51
+00:03:23,792 --> 00:03:26,020
+Juste des photos de différentes chaussures.
+
+52
+00:03:28,529 --> 00:03:30,906
+Ça me semble familier.
+
+53
+00:03:31,799 --> 00:03:37,520
+Quoi qu'il se soit passé, au moins
+je suis là où j'ai toujours voulu être.
+
+54
+00:03:41,375 --> 00:03:42,826
+Revenons un peu en arrière.
+
+55
+00:03:42,882 --> 00:03:46,500
+Chaque histoire a son début.
+
+56
+00:03:47,064 --> 00:03:49,291
+Je crois que la mienne commence là...
+
+57
+00:03:52,011 --> 00:03:56,004
+La finale de la compétition
+inter-écoles de maths, en 1992.
+
+58
+00:03:56,343 --> 00:03:59,975
+J'étais une tête en maths. Code binaire,
+topologie, équations du 2nd degrés...
+
+59
+00:04:00,007 --> 00:04:01,671
+J'adorais ces trucs là.
+
+60
+00:04:02,376 --> 00:04:04,177
+Et j'étais supposé être très bon.
+
+61
+00:04:04,214 --> 00:04:07,599
+Et un total de 42 pour Rushmore...
+
+62
+00:04:11,019 --> 00:04:13,559
+On félicite l'équipe gagnante, Rushmore...
+
+63
+00:04:13,762 --> 00:04:18,759
+Papa avait pris sa journée pour venir
+me voir, mais au moment tant attendu,
+
+64
+00:04:19,459 --> 00:04:20,600
+j'ai séché,
+
+65
+00:04:21,227 --> 00:04:22,700
+j'ai laissé tomber,
+
+66
+00:04:23,275 --> 00:04:25,039
+j'ai tout fait foirer.
+
+67
+00:04:28,431 --> 00:04:31,080
+Pour tout le monde, on avait
+perdu la finale par ma faute.
+
+68
+00:04:33,055 --> 00:04:37,759
+..mais c'est sûrement avec ce qui s'est
+passé après que tout ça a commencé.
+
+69
+00:04:43,587 --> 00:04:45,644
+As-tu déjà regardé
+attentivement ma collection ?
+
+70
+00:04:45,645 --> 00:04:47,239
+Non, monsieur.
+
+71
+00:04:48,039 --> 00:04:50,835
+- Ça te plairait ?
+- Non, monsieur.
+
+72
+00:04:50,910 --> 00:04:52,200
+Je joue au golf.
+
+73
+00:04:53,294 --> 00:04:54,346
+Oh. C'est bien, monsieur.
+
+74
+00:04:54,347 --> 00:04:57,839
+Un jour
+où je jouais très mal...
+
+75
+00:04:57,870 --> 00:05:01,739
+J'étais coincé à la première fosse,
+pataugeant dans le sable...
+
+76
+00:05:03,625 --> 00:05:08,802
+..et cette chose est tombée du ciel,
+et a atterri : plop !  A côté de moi.
+
+77
+00:05:08,868 --> 00:05:11,059
+- Du ciel ?
+- Oui.
+
+78
+00:05:11,537 --> 00:05:15,579
+On dirait un peu une balle de golf, alors
+je l'ai ramassée et mise dans ma poche.
+
+79
+00:05:15,637 --> 00:05:18,719
+Mais quand je l'ai bien regardée,
+plus tard... Tiens.
+
+80
+00:05:19,095 --> 00:05:20,960
+J'ai réalisé que c'était un oeil.
+
+81
+00:05:21,635 --> 00:05:23,039
+Et je me suis dit,
+
+82
+00:05:23,966 --> 00:05:25,979
+"D'où ça a bien pu venir ?"
+
+83
+00:05:26,587 --> 00:05:29,740
+C'est tombé du ciel.
+C'est étonnant, non ?
+
+84
+00:05:33,012 --> 00:05:34,525
+Prends-le.
+
+85
+00:05:39,920 --> 00:05:41,660
+Où est-ce que t'étais, bon sang ? !
+
+86
+00:05:41,790 --> 00:05:44,861
+- Bonsoir...
+- Bonsoir.
+
+87
+00:05:46,348 --> 00:05:47,494
+Viens, Eugène.
+
+88
+00:05:49,919 --> 00:05:51,320
+Tu as tout pris ?
+
+89
+00:05:52,920 --> 00:05:55,440
+Oui. Merci, monsieur.
+
+90
+00:05:57,793 --> 00:05:59,701
+Je suis allé à l'école, non ! ?
+
+91
+00:05:59,748 --> 00:06:02,160
+Papa m'en voulait
+d'avoir perdu la finale.
+
+92
+00:06:03,642 --> 00:06:05,240
+Mais maintenant, j'avais l'oeil.
+
+93
+00:06:05,940 --> 00:06:11,579
+Et j'ai réalisé que, s'il est
+tombé du ciel, peut-être... Non...
+
+94
+00:06:12,635 --> 00:06:16,959
+Non, j'étais presque
+certain qu'il était à un alien.
+
+95
+00:06:33,756 --> 00:06:36,293
+C'est la nuit où Papa est parti.
+
+96
+00:06:38,533 --> 00:06:43,579
+Mais c'était bon, j'avais l'oeil, et
+la possibilité de rencontrer un alien.
+
+97
+00:06:44,218 --> 00:06:48,513
+Je veux dire, si t'oublies quelque chose
+d'important, tu reviens le chercher.
+
+98
+00:06:49,114 --> 00:06:50,019
+Non ?
+
+99
+00:06:52,422 --> 00:06:56,952
+Je voulais que cet alien revienne
+réclamer son oeil plus que tout au monde.
+
+100
+00:06:57,375 --> 00:07:00,379
+J'ai établi les provenances possibles,
+forme de vie et galaxie,
+
+101
+00:07:01,049 --> 00:07:03,633
+vitesse de libération planétaire,
+fenêtre de lancement,
+
+102
+00:07:03,634 --> 00:07:05,619
+quantité de fuel nécessaire,
+
+103
+00:07:05,819 --> 00:07:08,055
+et puis, j'ai attendu.
+
+104
+00:07:08,130 --> 00:07:13,019
+<i>There's a star man
+waiting in the sky</i>
+
+105
+00:07:13,119 --> 00:07:17,579
+<i>He'd like to come and meet us
+but he thinks he'll blow our minds</i>
+
+106
+00:07:17,679 --> 00:07:22,392
+<i>There's a star man
+waiting in the sky</i>
+
+107
+00:07:22,439 --> 00:07:23,800
+<i>He's told us not to...</i>
+
+108
+00:07:24,300 --> 00:07:26,220
+Mon père n'est jamais revenu.
+
+109
+00:07:27,420 --> 00:07:30,454
+En grandissant, je me suis
+interessé aux OVNI,
+
+110
+00:07:30,455 --> 00:07:31,940
+collectionnant des artefacts aliens,
+
+111
+00:07:31,949 --> 00:07:35,099
+regardant les étoiles,
+en attendant seul mon alien.
+
+112
+00:07:36,199 --> 00:07:37,280
+Et puis,
+
+113
+00:07:38,276 --> 00:07:41,239
+Je t'ai trouvée, Gwen Cooper.
+
+114
+00:07:41,339 --> 00:07:45,839
+Salut, je suis Eugène Jones, je suis...
+très intéressé par ton travail et...
+
+115
+00:07:45,900 --> 00:07:49,237
+J'ai quelque chose à...
+Je voudrais te montrer...
+
+116
+00:07:49,238 --> 00:07:49,900
+Salut.
+
+117
+00:07:50,046 --> 00:07:54,586
+- Salut. Voilà c'est...
+- Ecoute... je dois y aller.
+
+118
+00:07:59,608 --> 00:08:01,779
+Mais je n'arrivais pas vraiment
+à établir le contact.
+
+119
+00:08:05,303 --> 00:08:07,079
+Hmm, encore toi.
+
+120
+00:08:07,089 --> 00:08:09,899
+Gwen, il y a quelque chose
+que je dois vraiment te montrer.
+
+121
+00:08:10,299 --> 00:08:12,480
+Désolé, je voulais pas...
+
+122
+00:08:14,469 --> 00:08:19,340
+Mais je n'arrivais pas à t'intéresser
+à l'oeil, malgré tous mes efforts.
+
+123
+00:08:22,718 --> 00:08:24,319
+Vous êtes sûrs que c'est mon Eugène ?
+
+124
+00:08:28,901 --> 00:08:30,120
+Oui, Mme Jones.
+
+125
+00:08:30,520 --> 00:08:34,199
+Vous n'avez peut-être pas pu
+bien l'identifier.
+
+126
+00:08:34,799 --> 00:08:36,080
+Si.
+
+127
+00:08:40,375 --> 00:08:42,132
+C'est son thé là.
+
+128
+00:08:51,100 --> 00:08:52,220
+Merde !
+
+129
+00:08:58,224 --> 00:08:59,965
+Qu'est-ce qu'on fait là ?
+
+130
+00:09:01,184 --> 00:09:02,690
+Regarde ça.
+
+131
+00:09:08,253 --> 00:09:10,300
+Tu comprends ce qui est
+arrivé à ton frère, Terry ?
+
+132
+00:09:10,301 --> 00:09:10,846
+Ouais.
+
+133
+00:09:11,034 --> 00:09:11,823
+Quoi ?
+
+134
+00:09:12,124 --> 00:09:14,830
+Il est allé sur la route
+et quelqu'un l'a renversé.
+
+135
+00:09:19,764 --> 00:09:21,092
+Où est ton père ?
+
+136
+00:09:21,093 --> 00:09:22,820
+Il bosse pour une grosse
+société aux Etats-Unis.
+
+137
+00:09:23,733 --> 00:09:24,880
+Gwen ?
+
+138
+00:09:33,241 --> 00:09:36,004
+C'est de la monnaie pre-Gorgon
+Pilurian. Je les ai fait authentifier.
+
+139
+00:09:36,018 --> 00:09:37,206
+Ce sont des pièces romaines ?
+
+140
+00:09:37,253 --> 00:09:41,879
+Hé, regarde, Rice Krispies.
+Mec, y'a du gros dossier par ici.
+
+141
+00:09:42,179 --> 00:09:45,100
+Oh, attendez, il manque
+quelque chose ici.
+
+142
+00:09:46,424 --> 00:09:48,719
+Mme Jones, vous savez ce qui manque
+dans la collection d'Eugène ?
+
+143
+00:09:49,609 --> 00:09:51,010
+Pourquoi ne se sont-ils pas arrêtés ?
+
+144
+00:09:51,011 --> 00:09:54,820
+Ils ont tué mon garçon
+et continué leur route...
+
+145
+00:09:57,363 --> 00:09:58,659
+Pardon.
+
+146
+00:10:07,106 --> 00:10:09,042
+Je suis désolée, Mme Jones.
+
+147
+00:10:11,520 --> 00:10:14,200
+Je suis désolé, Maman. Mais...
+
+148
+00:10:15,601 --> 00:10:19,021
+On a la meilleure des équipes sur le
+coup. Torchwood, moi, les meilleurs !
+
+149
+00:10:19,160 --> 00:10:21,248
+On classera l'affaire, Maman.
+
+150
+00:10:21,662 --> 00:10:25,339
+Je pense qu'il y a eu une erreur.
+
+151
+00:10:25,639 --> 00:10:27,339
+Alors...
+
+152
+00:10:28,711 --> 00:10:30,393
+Je dois y aller.
+
+153
+00:10:42,654 --> 00:10:45,417
+Je veux savoir la dernière chose
+qu'il a mangé, où il a été...
+
+154
+00:10:46,028 --> 00:10:47,000
+Oh, ouah !
+
+155
+00:10:47,990 --> 00:10:50,540
+C'est... c'est...
+
+156
+00:10:50,940 --> 00:10:52,491
+Je suis totalement...
+
+157
+00:10:52,651 --> 00:10:56,024
+Dieu tout puissant !
+Une tête de Vexor 11.
+
+158
+00:10:56,175 --> 00:10:57,940
+Incroyable !
+
+159
+00:10:58,298 --> 00:11:00,281
+Et... ouah !
+
+160
+00:11:00,910 --> 00:11:03,551
+Une main... dans un bocal.
+
+161
+00:11:03,701 --> 00:11:05,336
+Qu'est-ce qu'il
+faisait sur cette route ?
+
+162
+00:11:05,571 --> 00:11:09,657
+J'en sais foutre rien. Il comptait
+les chevrons. C'était un geek.
+
+163
+00:11:10,310 --> 00:11:14,041
+C'est vraiment légendaire.
+
+164
+00:11:14,275 --> 00:11:16,935
+Gwen, il avait un truc pour toi,
+maintenant tu te sens coupable.
+
+165
+00:11:17,818 --> 00:11:18,975
+Va te faire foutre, Owen.
+
+166
+00:11:20,329 --> 00:11:23,223
+- Fais-le, alors.
+- Faire quoi ? L'autopsie ?
+
+167
+00:11:23,261 --> 00:11:26,568
+- Oui. J'ai de la paperasse à faire.
+- Ok, d'accord.
+
+168
+00:11:26,587 --> 00:11:27,903
+- Tu es sûre ?
+- Oui.
+
+169
+00:11:28,138 --> 00:11:29,353
+- Vraiment ?
+- Oui.
+
+170
+00:11:30,396 --> 00:11:32,219
+Je suis au paradis.
+
+171
+00:11:34,249 --> 00:11:35,565
+J'y suis ?
+
+172
+00:11:37,284 --> 00:11:38,859
+Est-ce que... ?
+
+173
+00:11:40,754 --> 00:11:44,465
+Lame numéro 3.
+Part du sternum. Du gâteau.
+
+174
+00:11:46,091 --> 00:11:47,783
+Ok, c'est parti.
+
+175
+00:11:48,065 --> 00:11:52,652
+C'est nouveau pour moi, mais
+dans une enquête comme ça...
+
+176
+00:11:58,374 --> 00:11:59,145
+D'accord.
+
+177
+00:11:59,164 --> 00:12:01,439
+Une Opel rouge a été arrêtée
+près de Caernarfon.
+
+178
+00:12:01,975 --> 00:12:05,451
+L'homme, totalement saoul, a avoué
+avoir renversé quelqu'un près de Cardiff.
+
+179
+00:12:05,536 --> 00:12:06,946
+Correspond à Eugène.
+
+180
+00:12:07,030 --> 00:12:10,347
+Il dit qu'il pensait qu'il
+allait bien, alors il a continué.
+
+181
+00:12:10,488 --> 00:12:12,503
+C'était un mec charmant.
+C'est très triste.
+
+182
+00:12:13,404 --> 00:12:16,359
+Bon, on se met au travail,
+s'il te plaît ?
+
+183
+00:12:18,939 --> 00:12:23,760
+<i>Hope there's someone
+who'll take care of me</i>
+
+184
+00:12:23,797 --> 00:12:26,860
+<i>When I die</i>
+
+185
+00:12:26,870 --> 00:12:29,699
+<i>Will I go ?</i>
+
+186
+00:12:31,841 --> 00:12:36,279
+<i>Hope there's someone
+who'll set my heart free</i>
+
+187
+00:12:36,447 --> 00:12:41,679
+<i>Nice to hold when I'm tired</i>
+
+188
+00:12:43,967 --> 00:12:48,099
+<i>There's a ghost on the horizon</i>
+
+189
+00:12:48,440 --> 00:12:53,320
+<i>When I go to bed</i>
+
+190
+00:12:55,868 --> 00:13:00,399
+<i>How can I fall asleep at night ?</i>
+
+191
+00:13:00,400 --> 00:13:06,319
+<i>How will I rest my head ?</i>
+
+192
+00:13:08,079 --> 00:13:12,019
+<i>I'm scared of the middle place</i>
+
+193
+00:13:12,198 --> 00:13:17,340
+<i>Or paralyse in light</i>
+
+194
+00:13:19,338 --> 00:13:24,019
+<i>And godsend I don't want to go... </i>
+
+195
+00:13:25,434 --> 00:13:27,559
+Vous pensez qu'Eugène s'est suicidé ?
+
+196
+00:13:28,572 --> 00:13:30,460
+C'était un accident de voiture,
+sans implication extra-terrestre.
+
+197
+00:13:30,546 --> 00:13:35,414
+J'en suis pas si sûre, il y
+a quelque chose qui cloche.
+
+198
+00:13:35,846 --> 00:13:37,319
+Je veux dire, je...
+
+199
+00:13:38,119 --> 00:13:41,779
+je sens qu'il se passe quelque chose.
+
+200
+00:13:42,324 --> 00:13:46,300
+Génial. Merci pour ce moment
+Disney. Qui prépare le thé ?
+
+201
+00:13:46,684 --> 00:13:50,293
+Je suppose qu'Eugène est un peu bizarre,
+et fait amateur à tes yeux.
+
+202
+00:13:50,349 --> 00:13:55,499
+Pourquoi seule Gwen a l'air d'avoir
+un coeur ? On est tous humains,
+
+203
+00:13:55,699 --> 00:13:58,367
+et pourtant on sait faire
+la part des choses.
+
+204
+00:13:58,368 --> 00:13:58,990
+C'est bon, vous deux.
+
+205
+00:13:59,017 --> 00:14:01,122
+Ok, c'est bon, oublie.
+
+206
+00:14:02,823 --> 00:14:03,856
+Moi j'ai oublié.
+
+207
+00:14:21,441 --> 00:14:23,264
+C'est le DVD d'Eugène ?
+
+208
+00:14:23,621 --> 00:14:24,599
+Non.
+
+209
+00:14:26,020 --> 00:14:27,020
+Si !
+
+210
+00:14:27,051 --> 00:14:30,617
+- Il l'avait emprunté au vidéo club.
+- Tu lui as piqué ses affaires ?
+
+211
+00:14:30,814 --> 00:14:32,158
+J'allais le rapporter.
+
+212
+00:14:33,990 --> 00:14:36,715
+- Je vais le faire.
+- Ça me va.
+
+213
+00:14:36,950 --> 00:14:38,319
+Il faudra payer.
+
+214
+00:14:55,999 --> 00:14:57,299
+Je vais manger un bout.
+
+215
+00:14:57,799 --> 00:14:58,919
+D'accord.
+
+216
+00:15:06,652 --> 00:15:10,054
+Bonjour. Vous savez quand le
+vidéo club au coin de la rue ouvre ?
+
+217
+00:15:10,080 --> 00:15:13,812
+- Non, il n'a pas d'horaires précises.
+- Gwen ! Qu'est-ce que tu fais là ?
+
+218
+00:15:13,841 --> 00:15:16,162
+C'est mon café du midi. C'est...
+
+219
+00:15:16,163 --> 00:15:18,022
+Vous connaissez un certain
+Eugène Jones ?
+
+220
+00:15:18,098 --> 00:15:19,432
+C'est moi !
+
+221
+00:15:19,456 --> 00:15:21,795
+Taille moyenne, cheveux blond.
+Apparence ordinaire...
+
+222
+00:15:21,796 --> 00:15:22,820
+Non. Que puis-je faire pour vous ?
+
+223
+00:15:22,829 --> 00:15:25,423
+Je viens ici tous les jours.
+Deux oeufs, jambon et frites.
+
+224
+00:15:25,424 --> 00:15:27,108
+Deux oeufs, jambon et frites,
+s'il vous plaît.
+
+225
+00:15:29,440 --> 00:15:30,259
+Alors...
+
+226
+00:15:30,416 --> 00:15:31,600
+Alors...
+
+227
+00:15:31,888 --> 00:15:36,099
+C'est vraiment bizarre.
+Avant, c'était moi qui te suivais.
+
+228
+00:15:37,159 --> 00:15:38,680
+Maintenant c'est toi qui me suis !
+
+229
+00:15:40,448 --> 00:15:41,460
+Ouais.
+
+230
+00:15:47,603 --> 00:15:49,539
+Je sais pas à qui elles sont.
+
+231
+00:15:51,841 --> 00:15:54,355
+Je ne me rappelle rien, sauf..
+
+232
+00:15:55,821 --> 00:15:57,819
+Appelle Gary.
+Il saura peut-être quelque chose.
+
+233
+00:15:58,066 --> 00:16:00,600
+Appelle Gary, appelle Gary...
+
+234
+00:16:07,476 --> 00:16:09,544
+"Bonjour, c'est Gary.
+Laissez un message, s'il vous plaît."
+
+235
+00:16:09,600 --> 00:16:15,498
+Bonjour, je suis Gwen Cooper.
+J'ai de mauvaises nouvelles, Gary.
+
+236
+00:16:19,285 --> 00:16:21,155
+Je rappellerai plus tard.
+
+237
+00:16:21,765 --> 00:16:23,598
+C'est magnifique.
+
+238
+00:16:39,022 --> 00:16:40,197
+Bonjour.
+
+239
+00:16:41,024 --> 00:16:43,175
+Salut, ma belle.
+Tu veux emprunter un rêve ?
+
+240
+00:16:43,176 --> 00:16:43,909
+Non, merci.
+
+241
+00:16:43,918 --> 00:16:46,737
+Je viens rendre des DVD au nom
+d'une personne décédée.
+
+242
+00:16:46,840 --> 00:16:49,707
+Décédée ? Merde alors.
+C'est radical.
+
+243
+00:16:49,708 --> 00:16:50,874
+Eugène Jones.
+
+244
+00:16:53,636 --> 00:16:57,433
+Oui, il venait souvent ici,
+avec un pote.
+
+245
+00:16:57,734 --> 00:17:00,094
+- Un peu rêveur... plutôt...
+- Irrésistible ?
+
+246
+00:17:00,122 --> 00:17:03,325
+- d'apparence ordinaire.
+- Oui. Tué dans un accident de la route.
+
+247
+00:17:03,326 --> 00:17:05,572
+C'est dommage. Un garçon sympa.
+
+248
+00:17:05,995 --> 00:17:09,040
+- 50 €, s'il te plaît.
+- 50 € ?
+
+249
+00:17:09,106 --> 00:17:14,311
+Oui, désolé, il les a gardés des lustres.
+Je ne l'avais pas vu depuis des mois.
+
+250
+00:17:14,527 --> 00:17:17,590
+Je pense pas pouvoir enfreindre
+les règles, juste parce qu'il est mort.
+
+251
+00:17:17,684 --> 00:17:20,060
+- Quel bâtard. Désolé, Gwen.
+- C'est bon.
+
+252
+00:17:22,172 --> 00:17:24,371
+Est-ce qu'il... ?
+
+253
+00:17:25,452 --> 00:17:28,027
+Est-ce qu'il est allé sur la route
+de lui-même ?
+
+254
+00:17:29,126 --> 00:17:30,864
+Beaucoup de gens viennent ici.
+
+255
+00:17:30,865 --> 00:17:33,860
+Ils ne veulent plus être
+eux-mêmes, mais quelqu'un d'autre.
+
+256
+00:17:33,861 --> 00:17:35,925
+Ils veulent que je les fasse voyager.
+
+257
+00:17:36,320 --> 00:17:38,237
+- Et toi, bébé ?
+- Laisse-la.
+
+258
+00:17:38,238 --> 00:17:39,726
+Ça va, merci.
+
+259
+00:17:40,037 --> 00:17:41,779
+- Et vous ?
+- Moi ?
+
+260
+00:17:42,423 --> 00:17:46,906
+Je me casse d'ici. J'emménage à
+Londres dans quelque mois, tu vois ?
+
+261
+00:17:47,479 --> 00:17:53,419
+Sans être irrespectueux, Eugène
+avait "perdant" écrit sur le front.
+
+262
+00:17:53,588 --> 00:17:57,720
+Peut-être qu'il ne
+supportait plus... son échec.
+
+263
+00:17:59,799 --> 00:18:01,540
+Tu payes par chèque ?
+
+264
+00:18:03,358 --> 00:18:04,476
+Echec ?
+
+265
+00:18:04,834 --> 00:18:08,611
+Est-ce vrai ? Ma vie n'a-t-elle
+été qu'un grand échec ?
+
+266
+00:18:08,837 --> 00:18:11,973
+J'ai peut-être pas utilisé mon
+potentiel de génie en maths,
+
+267
+00:18:12,010 --> 00:18:17,329
+mais j'attendais que l'alien vienne
+récupérer son oeil et change ma vie.
+
+268
+00:18:18,654 --> 00:18:22,320
+Et en l'attendant, j'ai rejoint
+les ventes par téléphone Passmore.
+
+269
+00:18:23,671 --> 00:18:27,534
+Oh, oui. Tout ça est bien trop familier.
+
+270
+00:18:28,267 --> 00:18:30,835
+Vendre des cuisines, des assurances vie,
+des barbecues.
+
+271
+00:18:30,882 --> 00:18:34,180
+Vendre de la vie et...
+continuer à attendre.
+
+272
+00:18:35,525 --> 00:18:36,502
+Jason !
+
+273
+00:18:36,925 --> 00:18:41,201
+Kevin ! Le mec aux problèmes
+d'hygiène personnelle !
+
+274
+00:18:41,986 --> 00:18:43,537
+Rien ne change.
+
+275
+00:18:44,239 --> 00:18:45,489
+Salut, Morag.
+
+276
+00:18:45,820 --> 00:18:47,427
+Je suis sorti avec Morag.
+
+277
+00:18:48,536 --> 00:18:52,607
+Je me rappelle de détails de ma
+passionnante vie quotidienne,
+
+278
+00:18:52,814 --> 00:18:55,276
+alors pourquoi les quelques heures
+vitales précédant ma mort,
+
+279
+00:18:55,304 --> 00:18:57,333
+sont toujours un mystère complet ?
+
+280
+00:18:57,334 --> 00:18:58,630
+Vous êtes Gary ?
+
+281
+00:18:58,677 --> 00:19:01,140
+Oui, oui. Comment vous... ?
+
+282
+00:19:01,374 --> 00:19:01,824
+Vous êtes...
+
+283
+00:19:01,825 --> 00:19:06,199
+Gwen, oui. Avez-vous vu
+Eugène le jour de sa mort ?
+
+284
+00:19:06,561 --> 00:19:08,356
+Non. Désolé.
+
+285
+00:19:08,807 --> 00:19:10,790
+On écrit une carte, vous savez...
+
+286
+00:19:12,256 --> 00:19:14,745
+"Bonne chance pour ton
+nouveau boulot" ?! Il est mort.
+
+287
+00:19:14,746 --> 00:19:16,513
+Non ! C'est pour qui, alors ?
+
+288
+00:19:16,560 --> 00:19:19,059
+- Sa mère, espèce d'idiot !
+- Merde !
+
+289
+00:19:19,247 --> 00:19:22,098
+- Tu peux l'effacer ?
+- C'est du stylo !
+
+290
+00:19:22,408 --> 00:19:26,779
+- Les gens ne comprennent rien.
+- T'inquiète pas, c'est bon.
+
+291
+00:19:27,155 --> 00:19:28,564
+C'est vrai ?
+
+292
+00:19:29,138 --> 00:19:31,419
+- Il s'est fait renverser ?
+- Oui.
+
+293
+00:19:32,455 --> 00:19:33,648
+Oh, mon Dieu.
+
+294
+00:19:33,959 --> 00:19:38,124
+Désolée. Je suis Linda.
+Je suis employée du mois.
+
+295
+00:19:39,759 --> 00:19:41,431
+Il suffit d'y croire, vous savez.
+
+296
+00:19:41,760 --> 00:19:44,871
+S'il le faut, je suis
+"Cuisines pour une Vie".
+
+297
+00:19:45,670 --> 00:19:47,756
+Eugène n'était jamais que lui-même.
+
+298
+00:19:48,781 --> 00:19:50,519
+C'était pas le meilleur vendeur, alors ?
+
+299
+00:19:50,538 --> 00:19:54,480
+Non. Je crois que Craig le gardait
+par bonté de coeur.
+
+300
+00:19:55,490 --> 00:19:59,098
+- Vous avez rencontré Craig ?
+- C'est votre patron ?
+
+301
+00:19:59,164 --> 00:20:00,076
+Vous êtes ensemble ?
+
+302
+00:20:00,179 --> 00:20:02,359
+Un baiser dans les toilettes des
+femmes à la fête de Noël.
+
+303
+00:20:02,378 --> 00:20:07,086
+Mais je ne peux pas en parler
+ici à cause de sa... position.
+
+304
+00:20:07,481 --> 00:20:09,320
+Vous voulez qu'on en parle
+devant un déjeuner ?
+
+305
+00:20:10,807 --> 00:20:13,429
+Ok. Où Gary s'assoit-il ?
+
+306
+00:20:13,439 --> 00:20:17,239
+- Numéro 50.
+- Ok, merci.
+
+307
+00:20:28,943 --> 00:20:29,267
+Owen ?
+
+308
+00:20:29,302 --> 00:20:30,633
+<i>Gwen, Jack veut savoir où tu es.</i>
+
+309
+00:20:30,652 --> 00:20:32,324
+Oui, désolée.
+
+310
+00:20:32,644 --> 00:20:35,650
+J'avais des trucs à régler.
+Je reviens plus tard.
+
+311
+00:20:35,651 --> 00:20:37,033
+<i>Ok, dépêche toi.
+
+312
+00:20:41,525 --> 00:20:44,243
+Un jour, Eugène est arrivé,
+plutôt abattu.
+
+313
+00:20:44,244 --> 00:20:45,681
+Pourquoi ? Qu'est-ce qu'il avait ?
+
+314
+00:20:45,780 --> 00:20:47,939
+Il ne voulait pas en parler.
+
+315
+00:20:48,139 --> 00:20:51,120
+Enfin, j'étais aussi énervée car
+Craig avait...
+
+316
+00:20:51,235 --> 00:20:52,234
+Enfin bref,
+
+317
+00:20:52,347 --> 00:20:55,627
+j'ai dit que j'adorerais m'éloigner
+de tout ça et partir en Australie.
+
+318
+00:20:55,862 --> 00:21:00,382
+Eugène est devenu très enthousiaste,
+il m'a dit "Oui ! Tu dois y aller !"
+
+319
+00:21:00,485 --> 00:21:02,590
+Je lui ai dit "Mais je n'ai pas l'argent",
+
+320
+00:21:03,003 --> 00:21:04,788
+et il a dit qu'il me le trouverait.
+
+321
+00:21:05,032 --> 00:21:08,086
+Il allait vous payer un billet
+pour partir en Australie avec vous ?
+
+322
+00:21:08,199 --> 00:21:09,129
+Il était amoureux de vous ?
+
+323
+00:21:09,138 --> 00:21:12,600
+Oh, non ! Il disait aimer quelqu'un
+qu'il ne pouvait pas atteindre.
+
+324
+00:21:14,818 --> 00:21:17,372
+Il voulait juste s'occuper de moi.
+
+325
+00:21:17,663 --> 00:21:18,668
+Il m'a dit,
+
+326
+00:21:19,054 --> 00:21:23,104
+"Ne reste pas ici à gâcher ta vie, attendant
+ce qui n'arrivera peut-être jamais."
+
+327
+00:21:24,523 --> 00:21:27,128
+- Où comptait-il trouver l'argent ?
+- Justement.
+
+328
+00:21:27,157 --> 00:21:29,224
+Tu m'as dit "Tu n'as même pas
+acheté de chaussettes en six ans."
+
+329
+00:21:29,234 --> 00:21:32,363
+Je lui ai dit "Tu n'as même pas acheté
+de nouvelles chaussettes en six ans."
+
+330
+00:21:32,429 --> 00:21:35,774
+Il s'est levé, et a dit :
+C'est votre téléphone.
+
+331
+00:21:38,180 --> 00:21:40,482
+- Oui, il a dit ?
+- Il a dit
+
+332
+00:21:40,999 --> 00:21:42,465
+"Je vais le vendre"
+
+333
+00:21:43,320 --> 00:21:44,673
+J'ai dit "Quoi ?"
+
+334
+00:21:45,350 --> 00:21:47,594
+Il a dit, "Mon artefact alien."
+
+335
+00:21:47,961 --> 00:21:48,938
+- Et ?
+- Et ?
+
+336
+00:21:48,985 --> 00:21:50,756
+Et il l'a amené au boulot.
+
+337
+00:21:57,387 --> 00:22:00,600
+- C'est un oeil en plastique.
+- C'est une partie d'un corps d'alien,
+
+338
+00:22:01,202 --> 00:22:02,781
+et je vais le vendre sur eBay.
+
+339
+00:22:02,818 --> 00:22:07,628
+C'est vraiment gentil, mais je pense
+pas qu'il me payerait un ticket de bus,
+
+340
+00:22:07,816 --> 00:22:09,535
+encore moins un vol pour Sydney.
+
+341
+00:22:12,148 --> 00:22:17,870
+Certains ont ri. Mais il l'a fait, et
+bien-sûr, il n'y avait pas d'enchères.
+
+342
+00:22:17,871 --> 00:22:20,493
+Elle m'a conseillé de mettre une
+photo, un peu plus de description.
+
+343
+00:22:20,512 --> 00:22:23,518
+Et puis, sorti de nulle part, 4 €.
+
+344
+00:22:23,519 --> 00:22:24,815
+Un gamin de Birmingham.
+
+345
+00:22:24,915 --> 00:22:25,947
+Et puis...
+
+346
+00:22:26,350 --> 00:22:27,811
+Eugène, t'as quelques
+nouvelles enchères.
+
+347
+00:22:30,044 --> 00:22:31,683
+Bon sang, 100 € !
+
+348
+00:22:32,950 --> 00:22:34,124
+C'était juste le début.
+
+349
+00:22:34,594 --> 00:22:37,253
+300... 450...
+
+350
+00:22:37,620 --> 00:22:41,164
+1500... Ça continuait à monter.
+
+351
+00:22:42,387 --> 00:22:46,023
+4500 € ! Pour un oeil de rechange.
+
+352
+00:22:46,493 --> 00:22:50,299
+Pete dit qu'on peut avoir une salle de
+bain avec une célébrité pour moins que ça.
+
+353
+00:22:50,590 --> 00:22:52,225
+Et puis un jour, ça a...
+
+354
+00:22:52,986 --> 00:22:54,288
+sauté.
+
+355
+00:22:56,910 --> 00:22:59,410
+Oh mon Dieu, Eugène, tu es riche !
+
+356
+00:23:02,633 --> 00:23:05,884
+22 050,50 €.
+
+357
+00:23:05,919 --> 00:23:07,864
+- Qui l'a acheté ?
+- Qui l'a acheté ?
+
+358
+00:23:07,911 --> 00:23:11,294
+Aucune idée. Tout est de ma faute ?
+
+359
+00:23:11,692 --> 00:23:13,562
+Bien sûr que non !
+
+360
+00:23:14,934 --> 00:23:15,939
+Excusez-moi.
+
+361
+00:23:16,940 --> 00:23:19,419
+- Allô ?
+- Bonjour, c'est la mère d'Eugène.
+
+362
+00:23:19,421 --> 00:23:21,827
+- Mme Jones ?
+- J'ai quelque chose à vous montrer.
+
+363
+00:23:22,088 --> 00:23:24,392
+Ok, je vais passer.
+
+364
+00:23:25,510 --> 00:23:28,040
+C'était la mère d'Eugène.
+Désolée, je vais devoir y aller.
+
+365
+00:23:28,599 --> 00:23:29,544
+Désolée.
+
+366
+00:23:36,624 --> 00:23:41,886
+<I>Le voilà... mon fils, à la finale inter
+scolaire de maths. Un grand moment.
+
+367
+00:23:42,243 --> 00:23:44,639
+<i>Le plus jeune participant
+du pays de Galles.
+
+368
+00:23:44,912 --> 00:23:48,916
+<i>Nous y voilà, dernière question
+qui clôturera la finale.
+
+369
+00:23:50,425 --> 00:23:55,133
+<i>Quelle courbe est représentée par
+y au carré = 4ax ?
+
+370
+00:23:57,012 --> 00:24:01,614
+<i>T'as le cerveau de la taille du Grand
+Parc de Cardiff ! C'est quoi le problème ! ?
+
+371
+00:24:01,624 --> 00:24:05,129
+<i>Quelle courbe est représentée
+par y au carré = 4ax ?
+
+372
+00:24:05,138 --> 00:24:06,369
+<i> Me fait pas ça.
+
+373
+00:24:06,877 --> 00:24:09,381
+<i>Me laisse pas tomber, fiston.
+
+374
+00:24:09,588 --> 00:24:10,819
+<i>Non ?
+
+375
+00:24:11,261 --> 00:24:13,776
+<i>Temps écoulé.
+Pas de points additionnels.
+
+376
+00:24:14,736 --> 00:24:16,653
+<i>Le score final est de...
+
+377
+00:24:17,273 --> 00:24:20,638
+Je ne comprend pas. Quelqu'un lui
+a donné l'oeil pour le consoler ?
+
+378
+00:24:21,042 --> 00:24:24,378
+Oui, ce M. Garrett, le 
+professeur de sciences.
+
+379
+00:24:25,355 --> 00:24:26,746
+Un oeil en plastique !
+
+380
+00:24:27,253 --> 00:24:28,942
+Comme prix de consolation !
+
+381
+00:24:28,980 --> 00:24:32,645
+- Enfin, le trésor d'Eugène.
+- C'est la nuit où Papa est parti.
+
+382
+00:24:33,002 --> 00:24:33,819
+En voyage.
+
+383
+00:24:34,778 --> 00:24:36,591
+- Tu peux arrêter maintenant, Maman.
+- Comment ça ?
+
+384
+00:24:36,704 --> 00:24:37,616
+Il est mort.
+
+385
+00:24:37,617 --> 00:24:39,588
+Il pouvait calculer la racine
+carré d'une racine,
+
+386
+00:24:39,589 --> 00:24:40,920
+mais pas traverser la route !
+
+387
+00:24:40,921 --> 00:24:43,009
+S'il te plaît !
+
+388
+00:24:44,419 --> 00:24:45,941
+Il a vendu l'oeil sur internet.
+
+389
+00:24:46,100 --> 00:24:48,121
+Quelque chose a dû se passer.
+
+390
+00:24:48,243 --> 00:24:51,562
+Papa est parti quand il a vu qu'Eugène
+était un raté. C'est ce qu'Eugène a dit.
+
+391
+00:24:51,608 --> 00:24:54,987
+C'est pas vrai. Rien de ça ne l'est.
+
+392
+00:24:55,843 --> 00:24:57,215
+Il est parti pour son boulot.
+
+393
+00:24:57,985 --> 00:24:59,611
+Il a un boulot très important.
+
+394
+00:25:00,109 --> 00:25:01,913
+Est-ce que M. Jones sait pour Eugène ?
+
+395
+00:25:03,144 --> 00:25:08,402
+En fait, il travaille pour
+une grosse société en Amérique.
+
+396
+00:25:08,459 --> 00:25:11,513
+Arrête de nous dire n'imp !
+C'est pas superman, Maman !
+
+397
+00:25:11,532 --> 00:25:13,712
+Il travaille dans un garage sur Filey.
+
+398
+00:25:14,261 --> 00:25:17,296
+Eugene l'a trouvé il y a deux semaines !
+Il l'a trouvé sur internet.
+
+399
+00:25:17,305 --> 00:25:19,232
+Il est caissier. Il travaille de nuit.
+
+400
+00:25:25,900 --> 00:25:29,504
+Oh, mon dieu, je me rappelle
+pourquoi j'ai vendu l'oeil.
+
+401
+00:25:35,401 --> 00:25:37,445
+La vie peut vraiment être vache.
+
+402
+00:25:37,717 --> 00:25:41,636
+Toutes ces années, j'ai cru que mon père
+était en Amérique car j'étais un raté.
+
+403
+00:25:41,673 --> 00:25:47,120
+Et il était là, à faire son travail secret
+super important sur Filey, à Cardiff.
+
+404
+00:25:48,473 --> 00:25:52,182
+Quand je l'ai trouvé, je ne pouvais
+même pas supporter de lui dire bonjour.
+
+405
+00:25:52,276 --> 00:25:55,763
+J'avais passé ma vie à croire en des
+histoires ridicules, des fantaisies.
+
+406
+00:25:56,082 --> 00:25:57,717
+J'avais gâché ma vie.
+
+407
+00:25:58,892 --> 00:26:02,265
+Maintenant que je l'avais vu là,
+tous mes rêves ne valaient plus rien.
+
+408
+00:26:02,350 --> 00:26:05,816
+Juste un tas de merde, y compris l'oeil.
+
+409
+00:26:07,639 --> 00:26:09,267
+Alors pourquoi pas le vendre ?
+
+410
+00:26:10,082 --> 00:26:13,378
+Avec le traitement anti-cafard
+et les isolants pour grenier,
+
+411
+00:26:13,484 --> 00:26:15,998
+et toutes les autres merdes
+qui flottent dans notre monde.
+
+412
+00:26:17,679 --> 00:26:19,578
+Linda avait bien besoin d'argent.
+
+413
+00:26:20,170 --> 00:26:22,107
+Non ! NON ! Fais pas ça, Gwen !
+
+414
+00:26:27,201 --> 00:26:28,963
+Je ne veux rien avoir à faire avec lui.
+
+415
+00:26:34,474 --> 00:26:35,452
+Désolé.
+
+416
+00:26:36,799 --> 00:26:38,085
+C'est bon.
+
+417
+00:26:58,751 --> 00:27:00,236
+Tu as éteint ton portable.
+
+418
+00:27:01,805 --> 00:27:03,487
+C'était Eugène.
+
+419
+00:27:05,414 --> 00:27:07,422
+Il n'avait pas compris
+pourquoi son père était parti.
+
+420
+00:27:08,236 --> 00:27:09,637
+Il a juste besoin d'un peu d'aide.
+
+421
+00:27:09,740 --> 00:27:12,691
+- Pour faire quoi ? Il est mort !
+- Oui, Jack, je sais qu'il est mort, mais...
+
+422
+00:27:13,292 --> 00:27:14,880
+Ça ne sonne pas bien, Gwen.
+
+423
+00:27:16,064 --> 00:27:18,028
+- J'ai du travail.
+- D'accord.
+
+424
+00:27:18,404 --> 00:27:20,105
+Eh ? Non, tu peux pas t'arrêter.
+
+425
+00:27:20,303 --> 00:27:23,356
+Et les 22 000 € ?
+Gwen ? Gwen !
+
+426
+00:27:23,357 --> 00:27:24,578
+Ok. Ecoute ça.
+
+427
+00:27:24,597 --> 00:27:28,375
+Eugène avait un oeil alien dans sa
+collection. Il l'a vendu sur internet.
+
+428
+00:27:28,459 --> 00:27:29,812
+Quoi, comme un sixième oeil ?
+
+429
+00:27:31,328 --> 00:27:33,028
+Un sixième oeil de Dogon ?
+
+430
+00:27:33,075 --> 00:27:34,405
+Peut-être.
+
+431
+00:27:35,697 --> 00:27:38,723
+C'est possible. Il y en avait
+un commerce.
+
+432
+00:27:38,808 --> 00:27:39,464
+Qui l'a ?
+
+433
+00:27:39,465 --> 00:27:41,786
+Je sais pas, mais je m'en approche.
+
+434
+00:27:42,294 --> 00:27:45,320
+Qu'est-ce que c'est, un
+sixième oeil ? Exactement ?
+
+435
+00:27:45,357 --> 00:27:48,834
+Un oeil dans le dos. Ca te permet de
+voir derrière toi, là d'où tu viens.
+
+436
+00:27:49,454 --> 00:27:51,316
+Ça met un peu les choses en perspective.
+
+437
+00:27:52,101 --> 00:27:54,017
+C'est utile, marrant, assez terrifiant,
+
+438
+00:27:54,018 --> 00:27:55,136
+c'est pour ça qu'ils
+étaient très demandés.
+
+439
+00:27:55,137 --> 00:27:58,481
+- Tu vois ? Je te l'avais dit.
+- Je peux te le récupérer.
+
+440
+00:27:59,740 --> 00:28:00,793
+Mon alien...
+
+441
+00:28:00,821 --> 00:28:02,103
+Tu vois ?
+
+442
+00:28:02,748 --> 00:28:04,261
+Ok, je te laisse le week-end.
+
+443
+00:28:05,153 --> 00:28:06,723
+Mais laisse ton portable allumé.
+
+444
+00:28:06,940 --> 00:28:10,084
+Bon sang, tu es géniale.
+
+445
+00:28:10,491 --> 00:28:11,860
+Et je suis génial aussi.
+
+446
+00:28:12,392 --> 00:28:17,268
+Oui, bien sûr, j'allais aller à la
+conférence à Abertystwyth avec Gary.
+
+447
+00:28:18,547 --> 00:28:22,423
+Les trous noirs et l'anti-matière étaient
+très importants pour Gary et moi, mais
+
+448
+00:28:22,507 --> 00:28:26,114
+si je dois passer une nuit en bord de
+mer, je sais avec qui je préfère être.
+
+449
+00:28:27,693 --> 00:28:29,341
+Je laisserais ma vie entre tes mains
+
+450
+00:28:29,600 --> 00:28:32,366
+tu sais, si... j'en avais encore une.
+
+451
+00:29:07,893 --> 00:29:09,142
+Gary ?
+
+452
+00:29:20,790 --> 00:29:22,437
+Je ne suis pas fier
+de ce que j'ai fait.
+
+453
+00:29:24,802 --> 00:29:29,197
+- Tu as augmenté les enchères ?
+- J'ai créé 3 ou 4 comptes différents,
+
+454
+00:29:29,198 --> 00:29:31,208
+pour faire augmenter le prix.
+
+455
+00:29:31,527 --> 00:29:32,777
+Mais pourquoi ?
+
+456
+00:29:33,463 --> 00:29:36,921
+Au début, pour lui remonter le
+moral. Il était vraiment déprimé.
+
+457
+00:29:37,466 --> 00:29:39,846
+Mais ensuite les enchères se sont
+envolées et on a été...
+
+458
+00:29:39,950 --> 00:29:42,793
+Je veux dire, j'étais impliqué au départ,
+
+459
+00:29:43,028 --> 00:29:46,119
+J'aidais juste Eugène à se faire
+de l'argent, et puis un matin...
+
+460
+00:29:48,050 --> 00:29:49,008
+Gary !
+
+461
+00:29:50,615 --> 00:29:51,564
+Gary...
+
+462
+00:29:53,491 --> 00:29:54,317
+je crois que c'est lui.
+
+463
+00:29:54,468 --> 00:29:56,058
+- Qui ?
+- L'alien.
+
+464
+00:29:56,399 --> 00:29:57,536
+Mon alien.
+
+465
+00:29:58,165 --> 00:30:00,383
+Je pense qu'il est revenu
+réclamer ce qui lui revient de droit.
+
+466
+00:30:01,539 --> 00:30:05,599
+Gary, j'avais cessé de croire en lui,
+je croyais que j'étais juste un nul.
+
+467
+00:30:05,721 --> 00:30:08,559
+Mais qui d'autre parierait autant
+d'argent pour un oeil prothétique ?
+
+468
+00:30:10,278 --> 00:30:11,829
+Il n'a pas pu me contacter autrement.
+
+469
+00:30:11,848 --> 00:30:14,263
+- Alors il a choisi eBay ?
+- Le Cyber espace.
+
+470
+00:30:14,620 --> 00:30:18,253
+Même une vente aux enchères sur le net
+a une certaine symétrie élégante.
+
+471
+00:30:20,161 --> 00:30:21,805
+Je crois que je vais finalement
+le rencontrer.
+
+472
+00:30:23,672 --> 00:30:27,902
+Je doutais pas mal, au début, mais
+tout à coup, sorti de nulle part, bam !
+
+473
+00:30:27,949 --> 00:30:32,207
+22 000. L'enchère a sauté à
+un putain de 22 000.
+
+474
+00:30:32,245 --> 00:30:34,691
+Oui, oui, je me rappelle
+de notre conversation.
+
+475
+00:30:34,758 --> 00:30:37,769
+Je croyais que c'était 22050,50 €.
+
+476
+00:30:37,863 --> 00:30:39,245
+Oui, ça l'était.
+
+477
+00:30:39,246 --> 00:30:43,004
+Je dépenserai pas tout mon argent,
+à moins que ce ne soit une propre
+
+478
+00:30:43,032 --> 00:30:46,118
+partie de mon corps. Vous le feriez ?
+
+479
+00:30:46,146 --> 00:30:46,822
+Non.
+
+480
+00:30:46,823 --> 00:30:50,146
+Pas question !
+Je m'en rappelle, oui.
+
+481
+00:30:50,277 --> 00:30:53,975
+J'ai attendu quelques jours puis j'ai
+eu un mail pour un rendez-vous dans...
+
+482
+00:30:54,003 --> 00:30:55,553
+un restaurant.
+
+483
+00:30:56,867 --> 00:30:59,113
+Vous avez vu Eugène le
+jour de sa mort, non ?
+
+484
+00:30:59,226 --> 00:31:02,749
+Oui, on s'est vus avant qu'il
+aille rencontrer l'alien.
+
+485
+00:31:02,984 --> 00:31:05,055
+On a pris un café.
+Il avait peur.
+
+486
+00:31:05,111 --> 00:31:06,234
+Ah bon ? Bien sûr que je l'étais.
+
+487
+00:31:06,252 --> 00:31:10,490
+Il est donc allé faire l'échange:
+22050,50 € pour l'oeil, c'est ça ?
+
+488
+00:31:10,727 --> 00:31:13,770
+- Et c'était près de l'A48 ?
+- Ou pas.
+
+489
+00:31:13,779 --> 00:31:14,760
+Ou pas ?
+
+490
+00:31:14,892 --> 00:31:16,273
+Eugène était très secret.
+
+491
+00:31:16,649 --> 00:31:18,434
+- C'était peut- être à Splott ?
+- Splott ?
+
+492
+00:31:19,459 --> 00:31:20,943
+Ça sonne pas bien, mec.
+
+493
+00:31:21,047 --> 00:31:22,599
+Qui étaient ces autres gens, Gary ?
+
+494
+00:31:25,769 --> 00:31:28,297
+Pourquoi Eugène prendrait-il
+une photo de vos chaussures ?
+
+495
+00:31:28,334 --> 00:31:30,533
+Et à qui sont les autres ?
+
+496
+00:31:30,659 --> 00:31:32,732
+Ce sont juste des chaussures
+comme ça, je pense.
+
+497
+00:31:35,175 --> 00:31:36,152
+Il me manque.
+
+498
+00:31:54,049 --> 00:32:00,072
+Oui, je m'en rappelle ! J'ai appelé un
+taxi, et j'ai mis l'oeil dans un sac congel
+
+499
+00:32:00,363 --> 00:32:05,609
+Et puis... Oui ! Je marchais
+le long de la route vers...
+
+500
+00:32:06,344 --> 00:32:09,388
+un immeuble brillant avec...
+
+501
+00:32:09,566 --> 00:32:12,015
+une grande porte qui parlait de...
+
+502
+00:32:12,523 --> 00:32:14,113
+de...
+
+503
+00:32:16,272 --> 00:32:17,825
+Bonheur.
+
+504
+00:32:18,520 --> 00:32:19,626
+Bonheur.
+
+505
+00:32:25,795 --> 00:32:27,609
+Je ne veux pas que tu découvres
+ce qui s'est passé.
+
+506
+00:32:29,140 --> 00:32:30,705
+Je ne veux pas que ça s'arrête.
+
+507
+00:32:34,529 --> 00:32:35,581
+Je t'aime.
+
+508
+00:32:36,004 --> 00:32:37,056
+Je t'aime.
+
+509
+00:33:27,341 --> 00:33:28,845
+Je croyais qu'on était en vacances.
+
+510
+00:33:41,183 --> 00:33:41,897
+Oui.
+
+511
+00:33:42,480 --> 00:33:44,256
+Oui... c'est ça.
+
+512
+00:33:45,468 --> 00:33:48,577
+J'ai remonté la colline, et il
+était là ! Le...
+
+513
+00:33:52,280 --> 00:33:53,962
+Le Bonheur de la Cuisine.
+
+514
+00:34:10,452 --> 00:34:15,348
+Oui, j'ai marché vers la porte,
+me demandant qui j'allais rencontrer
+
+515
+00:34:15,385 --> 00:34:19,285
+assez excité, plutôt stressé,
+franchement mort de peur.
+
+516
+00:34:20,129 --> 00:34:21,650
+J'ai ouvert la porte...
+
+517
+00:34:22,742 --> 00:34:24,314
+Je suis entré...
+
+518
+00:34:24,997 --> 00:34:25,966
+et j'ai vu...
+
+519
+00:34:26,079 --> 00:34:28,193
+Je cherche des chaussures
+comme ça depuis des lustres.
+
+520
+00:34:28,212 --> 00:34:29,894
+Et j'ai vu...
+
+521
+00:34:31,557 --> 00:34:34,527
+Et j'ai vu... mes potes.
+
+522
+00:34:50,100 --> 00:34:51,714
+Salut les mecs. Content de vous voir.
+
+523
+00:34:51,752 --> 00:34:52,522
+Mais...
+
+524
+00:34:53,199 --> 00:34:54,844
+j'ai rendez-vous.
+
+525
+00:34:55,706 --> 00:34:56,693
+C'est nous.
+
+526
+00:34:56,871 --> 00:34:59,305
+Je sais mais...
+il ne voudra pas trop de monde.
+
+527
+00:35:00,863 --> 00:35:02,244
+Je rencontre l'acheteur.
+
+528
+00:35:02,827 --> 00:35:06,971
+- Je rencontre l'alien.
+- On est l'alien, mec.
+
+529
+00:35:07,234 --> 00:35:08,465
+On l'a acheté.
+
+530
+00:35:08,559 --> 00:35:10,138
+- Quoi ?
+- Voilà.
+
+531
+00:35:11,378 --> 00:35:13,079
+Que prendrez vous ?
+
+532
+00:35:13,201 --> 00:35:15,944
+Un milk-shake, s'il vous plaît. Banane.
+
+533
+00:35:16,763 --> 00:35:20,130
+Oui. On est les acheteurs officiels.
+
+534
+00:35:21,010 --> 00:35:23,585
+Peut-on voir la marchandise ?
+
+535
+00:35:32,800 --> 00:35:34,777
+Je ne comprend pas trop ce
+que vous essayez de me dire.
+
+536
+00:35:34,805 --> 00:35:36,600
+C'était une blague pour
+te remonter le moral.
+
+537
+00:35:37,051 --> 00:35:38,752
+On ne pensait pas qu'on serait les acheteurs.
+
+538
+00:35:38,799 --> 00:35:43,096
+Puis il a dit que tu croyais que
+c'était l'alien, et on s'est dit...
+
+539
+00:35:44,426 --> 00:35:45,892
+c'est drôle, non ?
+
+540
+00:35:45,893 --> 00:35:48,542
+Allez, Eugène, redescend sur terre.
+
+541
+00:35:48,570 --> 00:35:50,967
+Et puis on s'est dit
+"Laisse le rêver, mec."
+
+542
+00:35:51,051 --> 00:35:54,669
+"La vie est courte
+est vraiment chiante."
+
+543
+00:35:54,792 --> 00:35:58,156
+On a continué à enchérir et...
+
+544
+00:35:58,287 --> 00:36:00,326
+Vous avez mis 22 000 pour l'oeil ?
+
+545
+00:36:00,392 --> 00:36:02,732
+Pas nous. Non. Sûrement pas.
+
+546
+00:36:03,108 --> 00:36:05,092
+Quelqu'un était vraiment intéressé.
+
+547
+00:36:05,157 --> 00:36:08,213
+Quelqu'un d'autre a parié les
+22 000, mais il a été gourmand.
+
+548
+00:36:08,242 --> 00:36:09,199
+Ketchup, s'il te plaît.
+
+549
+00:36:09,200 --> 00:36:11,164
+ Il n'a pas pu résister à
+enchérir un tout petit peu.
+
+550
+00:36:11,165 --> 00:36:14,763
+22050,50 €. Et puis, rien.
+
+551
+00:36:15,183 --> 00:36:16,778
+Nada. Finito.
+
+552
+00:36:16,909 --> 00:36:19,370
+Ok, ferme-la, Gary.
+
+553
+00:36:20,709 --> 00:36:23,064
+Donc, on l'a acheté.
+
+554
+00:36:23,424 --> 00:36:24,984
+On est les acheteurs.
+
+555
+00:36:25,609 --> 00:36:26,690
+Ta-dah !
+
+556
+00:36:28,193 --> 00:36:31,679
+Alors vous avez 22050,50 € sur vous ?
+
+557
+00:36:32,407 --> 00:36:33,817
+On a 50 €.
+
+558
+00:36:34,183 --> 00:36:37,895
+50 €, Eugène. C'est mieux que rien.
+
+559
+00:36:38,741 --> 00:36:40,047
+J'appelle un taxi.
+
+560
+00:36:40,244 --> 00:36:42,312
+Hé, calme toi.
+
+561
+00:36:46,468 --> 00:36:48,497
+- Milk-shake à la banane ?
+- Merci.
+
+562
+00:36:51,655 --> 00:36:54,047
+Si c'était qu'une mauvaise blague,
+alors pourquoi vous le voulez ?
+
+563
+00:36:54,075 --> 00:36:56,679
+J'ai un ami déficient visuel.
+
+564
+00:36:58,877 --> 00:37:00,662
+Vous allez le re-vendre en ligne, non ?
+
+565
+00:37:00,690 --> 00:37:03,349
+Bande de petits connards.
+Vous savez qu'il est là.
+
+566
+00:37:03,350 --> 00:37:04,619
+- Qui ?
+- L'alien,
+
+567
+00:37:04,769 --> 00:37:07,052
+et il payerait n'importe quel prix.
+
+568
+00:37:07,053 --> 00:37:11,192
+Eugène, je ne suis pas totalement
+fermé à la science-fiction, mais...
+
+569
+00:37:11,963 --> 00:37:13,936
+Un vieux mec vert à six yeux ?
+
+570
+00:37:14,040 --> 00:37:17,075
+Redescend sur terre, mec.
+J'ai vérifié l'historique des enchères.
+
+571
+00:37:17,112 --> 00:37:21,756
+M. C Blackstaff est collectionneur
+d'objets alien et de souvenirs Nazi.
+
+572
+00:37:22,882 --> 00:37:24,762
+Et de jouets pour bébés.
+
+573
+00:37:25,006 --> 00:37:28,204
+Un tout petit peu dérangé,
+mais extrêmement riche.
+
+574
+00:37:28,880 --> 00:37:31,609
+Et si il veut bien payer 22 000...
+
+575
+00:37:37,132 --> 00:37:38,251
+Hé !
+
+576
+00:37:38,495 --> 00:37:40,835
+Alors ils ont commencé
+à déranger les clients.
+
+577
+00:37:40,901 --> 00:37:43,673
+- Vous êtes intervenue ?
+- J'ai essayé.
+
+578
+00:37:46,417 --> 00:37:48,744
+Je ne savais plus vraiment
+ce qu'était l'oeil...
+
+579
+00:37:51,719 --> 00:37:56,360
+..mais jamais je ne le laisserai pour
+50 € et un milk-shake à la banane.
+
+580
+00:38:04,587 --> 00:38:06,926
+Heimlich ! Heimlich !
+
+581
+00:38:07,002 --> 00:38:07,978
+Qu'est-ce que tu fous ?
+
+582
+00:38:07,979 --> 00:38:10,400
+Je reprend notre bien, idiot !
+Apporte le milk-shake.
+
+583
+00:38:15,307 --> 00:38:17,628
+Ce n'est pas un comportement acceptable.
+
+584
+00:38:17,769 --> 00:38:22,280
+Pas au Bonheur de la Cuisine. Ils
+se donnaient totalement en spectacle.
+
+585
+00:38:27,216 --> 00:38:30,187
+Et c'est tout, il a pris la porte, parti.
+
+586
+00:38:30,691 --> 00:38:33,087
+Oh mon Dieu ! C'est vraiment bizarre !
+
+587
+00:38:33,144 --> 00:38:35,286
+Bande de bâtards ! Vous êtes morts !
+
+588
+00:38:35,296 --> 00:38:38,650
+Je veux dire, Josh, t'es qu'une tête
+de cul, mais Gary...
+
+589
+00:38:38,763 --> 00:38:40,378
+- On était... on était amis.
+- Salut poupée.
+
+590
+00:38:40,472 --> 00:38:41,777
+C'est à moi que tu parles ?
+
+591
+00:38:41,778 --> 00:38:42,394
+Oui.
+
+592
+00:38:42,634 --> 00:38:46,222
+Désolé. Tu te rappelle de nous,
+la semaine dernière ?
+
+593
+00:38:46,223 --> 00:38:46,759
+Oui.
+
+594
+00:38:46,881 --> 00:38:50,729
+Bon, voilà le truc, des gens pourraient
+venir poser des questions.
+
+595
+00:38:50,747 --> 00:38:53,254
+Une femme, spécialement.
+Et je pense...
+
+596
+00:38:53,255 --> 00:38:53,753
+Josh.
+
+597
+00:38:53,783 --> 00:38:56,807
+- Qu'il serait dans ton intérêt...
+- Ferme-la, Josh.
+
+598
+00:38:56,816 --> 00:38:58,607
+La nana coopère, mec !
+
+599
+00:39:02,034 --> 00:39:02,833
+D'accord.
+
+600
+00:39:04,148 --> 00:39:05,060
+Génial.
+
+601
+00:39:08,086 --> 00:39:10,518
+Pourquoi t'as fait ça, sale con ?
+
+602
+00:39:10,594 --> 00:39:11,966
+Il me manque !
+
+603
+00:39:21,016 --> 00:39:23,467
+Il est sorti en courant et vous l'avez
+poursuivi, tous les deux ?
+
+
+604
+00:39:23,468 --> 00:39:23,891
+Oui.
+
+605
+00:39:23,910 --> 00:39:25,132
+A travers le parking.
+
+606
+00:39:25,151 --> 00:39:26,552
+Mais Eugène allait vite.
+
+607
+00:39:26,590 --> 00:39:28,376
+Josh avait de nouvelles chaussures,
+il faisait des histoires...
+
+608
+00:39:28,385 --> 00:39:30,368
+Hé, hé, c'est toi qui est en surpoids.
+
+609
+00:39:30,396 --> 00:39:32,838
+Il a foncé vers la route, et on l'a perdu.
+
+610
+00:39:33,478 --> 00:39:34,568
+Je dis la vérité.
+
+611
+00:39:35,950 --> 00:39:36,694
+Ok.
+
+612
+00:39:38,018 --> 00:39:39,015
+C'est tout.
+
+613
+00:39:40,518 --> 00:39:41,251
+Ok.
+
+614
+00:39:43,130 --> 00:39:46,479
+Toutes ces voitures. Toutes
+ces vies bougeant dans l'espace.
+
+615
+00:39:47,472 --> 00:39:52,382
+Bonjour. Pouvez vous me donner le
+numéro du Garage Filey, à Cardiff ?
+
+616
+00:39:52,538 --> 00:39:57,610
+Toutes cette humanité bourdonnant,
+dans une frénésie de frites et hamburgers,
+
+617
+00:39:58,023 --> 00:40:02,186
+du bonheur des vacances, de pneus
+crevés, de cris d'enfants...
+
+618
+00:40:02,327 --> 00:40:04,751
+- et de soudaines crises cardiaques.
+- Passez-le moi, merci.
+
+619
+00:40:08,320 --> 00:40:09,758
+M. Jones ?
+
+620
+00:40:10,381 --> 00:40:14,055
+Vous ne me connaissez pas, mais
+je suis une amie de votre fils Eugène.
+
+621
+00:40:15,719 --> 00:40:17,730
+J'ai bien peur d'avoir de
+mauvaises nouvelles.
+
+622
+00:40:18,416 --> 00:40:19,935
+Maintenant, je me rappelle.
+
+623
+00:40:20,782 --> 00:40:24,223
+A part un bruit dans l'oreille, car
+Josh m'avait frappé, je me sentais bien.
+
+624
+00:40:24,231 --> 00:40:26,631
+Je courrais dans un
+champ en un Samedi matin.
+
+625
+00:40:26,646 --> 00:40:29,336
+L'odeur d'échappement et de
+milk-shake à la banane,
+
+626
+00:40:29,337 --> 00:40:33,004
+une légère nausée, le coeur battant
+trop vite car je ne suis pas sportif...
+
+627
+00:40:33,032 --> 00:40:36,109
+tout ce qui vous montre
+que vous êtes en vie...
+
+628
+00:40:45,965 --> 00:40:48,327
+Logiquement, j'aurais dû être
+vraiment énervé.
+
+629
+00:40:49,132 --> 00:40:50,559
+Mes potes m'avaient menti,
+
+630
+00:40:50,578 --> 00:40:52,706
+je n'avais rencontré aucun alien,
+
+631
+00:40:53,026 --> 00:40:56,474
+mais j'ai réalisé, en avalant l'oeil
+au Bonheur de la Cuisine,
+
+632
+00:40:56,686 --> 00:40:59,984
+qu'on me donnait une chance
+de regarder ma vie
+
+633
+00:40:59,985 --> 00:41:02,000
+et de la voir pour ce
+qu'elle était vraiment.
+
+634
+00:41:03,618 --> 00:41:06,462
+Gary, tu vas me manquer.
+
+635
+00:41:08,683 --> 00:41:12,094
+C'est pas la meilleure fin possible,
+mais quand même.
+
+636
+00:41:13,342 --> 00:41:14,761
+J'aimerais pouvoir...
+
+637
+00:41:15,372 --> 00:41:18,352
+Mon Dieu, Gwen, j'aimerais
+pouvoir te remercier.
+
+638
+00:41:20,920 --> 00:41:22,272
+Et le voilà...
+
+639
+00:41:24,458 --> 00:41:25,670
+mon père,
+
+640
+00:41:26,112 --> 00:41:28,151
+avec seulement 14 ans de retard.
+
+641
+00:41:39,659 --> 00:41:42,856
+Je sais maintenant qu'il n'est
+pas parti à cause de moi,
+
+642
+00:41:43,730 --> 00:41:46,089
+et bien sûr, qu'il n'était pas Superman,
+
+643
+00:41:46,502 --> 00:41:48,147
+ni un alien.
+
+644
+00:41:49,472 --> 00:41:51,680
+Juste un mec ordinaire.
+
+645
+00:41:54,258 --> 00:41:55,405
+Eugène...
+
+646
+00:41:59,511 --> 00:42:00,723
+C'était un bon garçon,
+
+647
+00:42:01,870 --> 00:42:03,073
+mais je ne sais comment...
+
+648
+00:42:03,636 --> 00:42:05,167
+les choses ont mal tourné.
+
+649
+00:42:05,815 --> 00:42:07,281
+Je n'ai pas été là.
+
+650
+00:42:09,100 --> 00:42:11,641
+J'aurais aimé le voir... avant...
+
+651
+00:42:15,315 --> 00:42:18,641
+Un mec ordinaire qui avait foiré.
+
+652
+00:42:20,925 --> 00:42:23,584
+<i>Oh, Danny Boy</i>
+
+653
+00:42:25,040 --> 00:42:28,871
+<i>The pipes, the pipes are calling</i>
+
+654
+00:42:29,327 --> 00:42:35,848
+<i>From glen to glen and
+down the mountainside</i>
+
+655
+00:42:36,650 --> 00:42:43,016
+<i>The summer's gone and
+all the flowers dying</i>
+
+656
+00:42:43,240 --> 00:42:49,367
+<i>Tis you must go and I must stay behind</i>
+
+657
+00:42:50,668 --> 00:42:53,455
+<i>But come ye back</i>
+
+658
+00:42:53,910 --> 00:42:58,623
+<i>When summer's in the meadow</i>
+
+659
+00:42:59,032 --> 00:43:02,689
+<i>Or when the valley's</i>
+
+660
+00:43:02,718 --> 00:43:06,297
+<i>Hushed and white with snow</i>
+
+661
+00:43:07,219 --> 00:43:10,119
+<i>And I'll be there</i>
+
+662
+00:43:10,120 --> 00:43:12,494
+<i>In sunshine</i>
+
+663
+00:43:12,685 --> 00:43:15,112
+<i>And in shadow...</i>
+
+664
+00:43:18,295 --> 00:43:19,291
+Non !
+
+665
+00:43:21,274 --> 00:43:22,799
+Pas encore.
+
+666
+00:43:23,134 --> 00:43:26,810
+Papa avait tout foiré et était parti.
+
+667
+00:43:27,041 --> 00:43:30,355
+Et c'est vraiment honteux,
+terriblement dommage,
+
+668
+00:43:31,279 --> 00:43:33,506
+parce qu'on s'est manqués.
+
+669
+00:43:35,292 --> 00:43:36,674
+Totalement.
+
+670
+00:43:49,759 --> 00:43:51,948
+Tu sais, 28 est un de
+ses nombres parfaits,
+
+671
+00:43:51,986 --> 00:43:54,217
+égale à la somme de ses diviseurs.
+
+672
+00:43:55,613 --> 00:43:56,863
+J'ai 28 ans.
+
+673
+00:43:57,878 --> 00:43:59,099
+J'avais 28 ans.
+
+674
+00:44:02,120 --> 00:44:04,130
+Je crois que je vais bientôt
+devoir partir, Gwen.
+
+675
+00:44:04,790 --> 00:44:06,265
+Oh, mon Dieu.
+
+676
+00:44:06,499 --> 00:44:07,600
+Ouais.
+
+677
+00:44:10,579 --> 00:44:14,625
+28 centimètres par seconde est aussi
+la vitesse maximum d'un homard.
+
+678
+00:44:15,959 --> 00:44:17,172
+Oh, bonjour.
+
+679
+00:44:17,829 --> 00:44:20,650
+Merci. Désolée de vous
+avoir demandé ça.
+
+680
+00:44:20,714 --> 00:44:22,133
+Pas de problème.
+
+681
+00:44:32,600 --> 00:44:35,193
+Si c'est l'oeil qui me gardait ici,
+
+682
+00:44:35,299 --> 00:44:39,842
+maintenant qu'il n'est plus en moi,
+pourquoi suis-je toujours là ?
+
+683
+00:44:44,805 --> 00:44:45,942
+Eugène ?
+
+684
+00:44:49,889 --> 00:44:52,893
+L'oeil est dans un sac,
+maintenant, plutôt qu'en toi.
+
+685
+00:44:53,678 --> 00:44:55,238
+Est-ce que... ?
+
+686
+00:45:04,798 --> 00:45:07,876
+- Salut, étrangère ! Tu l'as ?
+- Oui, je l'ai.
+
+687
+00:45:10,653 --> 00:45:12,119
+Impressionnant.
+
+688
+00:45:12,222 --> 00:45:14,271
+On a pas encore fait les tests, alors...
+
+689
+00:45:14,374 --> 00:45:16,605
+Viens. On doit y aller.
+
+690
+00:45:16,902 --> 00:45:18,498
+Jack, tu peux me
+laisser cinq minutes ?
+
+691
+00:45:18,499 --> 00:45:19,138
+Oui.
+
+692
+00:45:39,089 --> 00:45:43,703
+En un temps de vie moyen, le coeur
+humain bats 2 millions de fois.
+
+693
+00:45:43,904 --> 00:45:49,478
+On produit plus de 8000 gallons
+de salive et 550 km de cheveux.
+
+694
+00:45:51,393 --> 00:45:54,767
+On mange l'équivalent du
+poids de six éléphants.
+
+695
+00:45:55,001 --> 00:45:58,529
+Oh, la vie n'est- elle
+pas géniale ! Gwen !
+
+696
+00:45:59,262 --> 00:46:00,587
+GWEN !
+
+697
+00:46:01,508 --> 00:46:02,805
+GWEN !
+
+698
+00:46:19,705 --> 00:46:20,861
+Salut.
+
+699
+00:46:21,462 --> 00:46:22,909
+Oh mon Dieu.
+
+700
+00:46:23,952 --> 00:46:26,118
+- Eugène !
+- Ça va ?
+
+701
+00:46:26,668 --> 00:46:28,720
+Ça fait du bien de te voir.
+
+702
+00:46:29,265 --> 00:46:30,721
+Eugène, tu es sur ma jambe.
+
+703
+00:46:30,722 --> 00:46:33,982
+- Désolé ! Désolé.
+- Non, non, c'est bon.
+
+704
+00:46:34,255 --> 00:46:36,500
+C'est bon. C'est bon. C'est bon.
+
+705
+00:46:38,694 --> 00:46:40,009
+Il peut me voir ?
+
+706
+00:46:40,329 --> 00:46:42,619
+- Eugène...
+- Il peut me voir !
+
+707
+00:46:47,367 --> 00:46:48,213
+Merci.
+
+708
+00:46:48,214 --> 00:46:52,528
+Non, merci à toi. Merci. Tu
+viens de me sauver la vie.
+
+709
+00:46:52,697 --> 00:46:54,106
+C'est bon.
+
+710
+00:46:56,359 --> 00:47:00,100
+C'est incroyable. C'est
+totalement incroyable.
+
+711
+00:47:00,889 --> 00:47:02,111
+Oh, mon Dieu...
+
+712
+00:47:02,112 --> 00:47:03,795
+Je crois que ça y est.
+
+713
+00:47:13,119 --> 00:47:14,533
+Adieu, Gwen.
+
+714
+00:47:19,199 --> 00:47:21,022
+Ne pars pas maintenant, Eugène.
+
+715
+00:47:22,752 --> 00:47:24,969
+Eugène, ne pars pas
+maintenant, s'il te plaît.
+
+716
+00:47:26,708 --> 00:47:28,540
+Eugène, s'il te plaît...
+
+717
+00:47:30,865 --> 00:47:32,124
+S'il te plaît !
+
+718
+00:47:32,152 --> 00:47:35,488
+Une vie moyenne est pleine de buts
+manqués et de réussites absolues,
+
+719
+00:47:35,563 --> 00:47:37,875
+de grand amour et de petits désastres.
+
+720
+00:47:38,117 --> 00:47:41,175
+C'est fait de milk-shakes à la
+banane, d'isolement de grenier
+
+721
+00:47:41,176 --> 00:47:42,555
+et de chaussures aléatoires.
+
+722
+00:47:42,743 --> 00:47:45,983
+C'est totalement ordinaire,
+et vraiment, vraiment génial.
+
+723
+00:47:46,502 --> 00:47:49,396
+Vous devez réaliser que
+tout est là, maintenant.
+
+724
+00:47:49,443 --> 00:47:51,472
+Alors respirez profondément
+et avalez tout ça.
+
+725
+00:47:51,519 --> 00:47:57,316
+Parce que croyez moi, la vie ne fait que
+passer, et puis, tout à coup, c'est...
+
+726
+00:48:00,558 --> 00:48:02,871
+Au moins c'était pas un
+vaisseau plein d'aliens.
+
+727
+00:48:03,424 --> 00:48:04,918
+Quelle année ? Je dois savoir.
+
+728
+00:48:04,919 --> 00:48:06,238
+1953.
+
+729
+00:48:06,339 --> 00:48:10,380
+Juste trois personnes perdues, qui
+sont devenues notre responsabilité.
+
+730
+00:48:10,483 --> 00:48:14,649
+Un homme comme vous, hors
+de son temps, seul et apeuré.
+
+731
+00:48:14,762 --> 00:48:17,519
+Je déteste cet endroit puant !
+
+732
+00:48:17,726 --> 00:48:21,259
+- Je suis mort une fois.
+- C'est comme deux mondes séparés.
+
+733
+00:48:21,500 --> 00:48:24,838
+Il y a Torchwood... et puis la vraie vie.
+
+734
+00:48:26,804 --> 00:48:28,743
+J'ai peur.
+
+735
+00:48:30,592 --> 00:48:34,111
+~ Harkness Team ~
+Plumedephenix, Kowaio, LauCass, Cybelia
+
+736
+00:48:34,759 --> 00:48:37,176
+~ www.seriessub.com ~
+

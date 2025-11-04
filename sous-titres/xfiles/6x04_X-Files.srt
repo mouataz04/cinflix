@@ -1,0 +1,384 @@
+{87}{172}ROUTE 375|NEVADA RURAL 23H17
+{210}{280}ATTENTION!|INSTALLATIONS MILITAIRES
+{282}{355}ZONE INTERDITE
+{367}{467}Avant-poste 134. Encore 3 km.
+{470}{535}Je meurs d'impatience.
+{600}{690}Qui sait si cet informateur
+{692}{837}n'est pas un désaxé|incollable sur les extraterrestres
+{840}{937}grâce aux rediffusions de <i>Star Trek?</i>
+{940}{1050}Non, ce désaxé travaille à Groom Lake.
+{1050}{1120}Zone 51. C'est là que l'armée fait...
+{1120}{1210}Depuis 50 ans,|des tests classés secret-défense
+{1210}{1280}avec des technologies extraterrestres.
+{1282}{1422}C'est la preuve|que nous n'avons pas encore trouvée.
+{1425}{1545}Le vague espoir de la trouver|nous a condamnés à passer en voiture
+{1545}{1667}un nombre de nuits incalculable|et à faire des milliers de kilomètres
+{1670}{1732}à travers des quartiers, des villes
+{1735}{1800}où des gens ont des familles, des maisons,
+{1800}{1885}et jouent avec leurs enfants|et leurs chiens et...
+{1885}{1950}Bref, ils vivent leur vie
+{1952}{2035}pendant qu'on roule.
+{2050}{2155}- Et alors?|- Tu n'as jamais envie de t'arrêter?
+{2155}{2285}De descendre de voiture|et de mener une vie à peu près normale?
+{2287}{2345}On a une vie normale.
+{2760}{2875}On ne va peut-être pas voir notre désaxé.
+{3035}{3115}Sortez, monsieur.
+{3157}{3202}Madame.
+{3742}{3822}Vous avez vos papiers?
+{3922}{3985}F.B.I.
+{3985}{4067}- Passez votre chemin.|- C'est une route publique.
+{4070}{4152}Elle longe|une zone d'expérimentation militaire.
+{4155}{4212}Que faites-vous ici?
+{4240}{4335}- Que faites-vous ici de nuit?|- Et vous?
+{4337}{4405}Vous cachez des essais aériens?
+{4407}{4477}Des technologies extraterrestres?
+{4500}{4545}Des soucoupes volantes.
+{4572}{4642}Je vais vous dire un secret.
+{4645}{4715}Les soucoupes volantes, ça n'existe pas.
+{4767}{4817}Allez, Mulder...
+{5700}{5760}Viens. On s'en va.
+{6500}{6567}LE GOUVERNEMENT NOUS MENT
+{6927}{6972}LA VERITE EST AILLEURS
+{7302}{7382}- On tire?|- Non. Laissez-les partir.
+{7432}{7477}Monsieur?
+{7565}{7615}Vos ordres?
+{7727}{7785}Je veux partir d'ici.
+{8000}{8045}Morris.
+{8195}{8255}Qu'est-ce que tu fous?
+{8315}{8365}Pourquoi les avoir relâchés?
+{8417}{8472}Ils ne savaient rien.
+{8475}{8595}Des agents du F.B.I. Ils venaient|sûrement rencontrer un informateur.
+{8595}{8755}- Et on ne saura pas qui c'est.|- lmpossible de les neutraliser.
+{8757}{8890}Leur hiérarchie s'en occupera.|C'est ce qu'a pensé Morris.
+{8902}{8952}Allons-y.
+{9060}{9165}BASE MILITAIRE D'ESSAIS, ZONE 51|GROOM LAKE, NEVADA
+{9937}{9985}Monsieur.
+{10000}{10030}Oui?
+{10030}{10087}Vos papiers.
+{10180}{10240}Vous avez vos papiers?
+{10272}{10317}Oui.
+{10432}{10490}MAJESTIC|FLETCHER, MORRIS
+{11135}{11170}Non.
+{11170}{11280}- Qu'est-ce que Wegman fait là?|- II arrive bien tard.
+{11282}{11352}Il se passe quelque chose. Je vais voir.
+{11417}{11470}Lèche-cul.
+{12737}{12802}Scully.
+{13225}{13330}- Ca va, Mulder?|- De quoi tu parles?
+{13330}{13440}Tu ne dis rien. Ca ne va pas?
+{13442}{13492}Si. Le réservoir est de ton côté.
+{13627}{13687}Tu n'es pas obligé d'en parler.
+{13992}{14040}Mulder.
+{14132}{14200}Réponds, Scully.
+{14227}{14277}Salaud.
+{14300}{14345}Allô?
+{14525}{14635}Achète-moi un paquet de Morley.
+{14667}{14682}Tu fumes, toi?
+{14682}{14740}Tu fumes, toi?
+{14742}{14832}Ne joue pas les nazis.
+{14890}{15025}J'ai vérifié les appels sortants.|Il y a une fuite.
+{15027}{15150}Il a appelé le F.B.I. ce matin|du bureau de Wegman.
+{15185}{15247}- Wegman?|- La fuite.
+{15250}{15340}Il a utilisé le téléphone réservé aux visiteurs.
+{15342}{15412}- II cherche à nous narguer.|- Comment ça?
+{15415}{15480}En montrant qu'il travaille ici.
+{15482}{15580}Il a accès à tout. A tous nos dossiers.
+{15582}{15652}On ne sait pas qui c'est.
+{15737}{15777}- Morris?|- Oui?
+{15827}{15882}Tu réponds?
+{15985}{16062}- Allô?|- Qu'est-ce que tu fais?
+{16115}{16225}- Je me le demande.|- II est minuit. Je t'attends.
+{16225}{16295}- Je l'ignorais.|- Comment?
+{16295}{16345}Tu devais m'appeler...
+{16347}{16402}- J'ai oublié.|- Comme d'habitude.
+{16405}{16470}N'oublie pas le lait.
+{16587}{16625}Ta femme?
+{16685}{16745}Rentrons à la maison.
+{17117}{17205}- Voilà, Morry.|- C'est là?
+{17237}{17310}C'est bon de rentrer.
+{17310}{17345}Bonsoir, Jeff.
+{17345}{17365}Bonsoir, Jeff.
+{18220}{18270}Ici le standard.
+{18315}{18392}Vous voulez appeler l'extérieur?
+{18395}{18470}Non merci. Bonsoir.
+{20047}{20105}2H04
+{20945}{21082}C'était un vol de routine. Il a perdu|de l'altitude à 23 h 17 au-dessus de la 375.
+{21085}{21135}- Que s'est-il passé?|- On l'ignore.
+{21137}{21227}On a retrouvé la bo îti e noire et les pilotes.
+{21230}{21275}Vivants?
+{21297}{21360}On a trouvé le copilote par ici.
+{21702}{21732}Mon Dieu.
+{21797}{21902}- L'autre est vivant, mais...|- Mais quoi?
+{21905}{21955}On ne sait pas.
+{22425}{22477}Que s'est-il passé?
+{22895}{22987}SIEGE DU F.B.I.|WASHINGTON, 9H42
+{23225}{23277}Il doit être en route.
+{23575}{23627}Salut. Ca va?
+{23630}{23775}- Mulder, où étais-tu?|- Je me suis égaré en venant.
+{23775}{23885}- Egaré?|- Je suis juste un peu perdu.
+{23902}{23970}- Oui.|- C'est un jour sans.
+{23982}{24055}Bonjour. Ca va ce matin?
+{24057}{24165}- Le directeur adjoint attend.|- Super. Allons-y.
+{24325}{24375}Mes pigeons voyageurs.
+{24410}{24475}Vous étiez dans le Nevada hier.
+{24477}{24535}On a déjà parlé deux ou trois fois|de ce genre d'incidents.
+{24535}{24620}On a déjà parlé deux ou trois fois|de ce genre d'incidents.
+{24622}{24685}Ce matin, on m'a appelé du Pentagone
+{24687}{24822}pour que je vous réprimande. Vous étiez|dans une zone militaire top secret.
+{24825}{24920}- Que faisiez-vous là-bas?|- On suivait une piste.
+{24922}{25042}Ca fait partie de vos dossiers?|C'est bien régulier?
+{25045}{25115}Un informateur nous a contactés.
+{25115}{25210}- Quel informateur?|- Si je le savais, je vous le dirais.
+{25212}{25317}Un mouchard qui travaille|dans la fameuse zone 51.
+{25320}{25397}Il avait soi-disant des infos détonantes.
+{25400}{25492}C'était une erreur grossière de notre part.
+{25495}{25632}Vous aviez reçu l'ordre d'éviter|d'enquêter sur toute affaire non classée.
+{25635}{25687}Vous avez entièrement raison.
+{25690}{25822}On s'excuse de vous avoir désobéi.
+{25825}{25935}Vous avez notre parole.|On ne recommencera jamais.
+{26330}{26357}Quoi?
+{26360}{26432}- Tu joues à quoi?|- Comment ça?
+{26435}{26512}"Si je le savais, je vous le dirais."
+{26515}{26602}On est censé protéger|nos contacts et notre travail.
+{26605}{26680}Il a posé la question. Attends.
+{27040}{27112}Bon...
+{27125}{27195}- Quoi?|- Qu'est-ce qui t'arrive?
+{27197}{27260}N'essaie pas de provoquer une dispute.
+{27262}{27315}Mulder, tu es bizarre.
+{27370}{27425}Jalouse?
+{27550}{27605}Ca ne me dérange pas.
+{27707}{27780}On n'a pas trop le temps.
+{27847}{27910}- Scully?|- C'est dingue.
+{28002}{28080}Je n'y crois pas. Qui est Scully?
+{28100}{28125}Bonjour.
+{28125}{28207}Tu aurais au moins pu dormir avec moi.
+{28210}{28315}Et si Chris ou Terry te voyaient si dépravé?
+{28315}{28380}Tu y as déjà pensé?
+{28522}{28572}Chérie, j'ai besoin...
+{28605}{28680}Tu as vu mes clés de voiture?
+{28682}{28745}- Je les avais laissées...|- Bonjour papa.
+{28747}{28790}Bonjour, Terry.
+{28827}{28877}Mon Dieu.
+{28915}{28972}Qu'as-tu fait à Chris?
+{29035}{29082}Où sont mes clés?
+{29110}{29180}- Salut papa.|- Bonjour, Terry.
+{29182}{29235}Pas Terry.
+{29265}{29337}- Chris?|- Terence. Terry, ça fait lavette.
+{29380}{29430}Et Terence, non?
+{29432}{29552}Terence, si tu aidais|ton vieux père à trouver ses clés?
+{29767}{29817}Pas de lait.
+{30022}{30120}- Je prends le monospace.|- J'ai pas de voiture?
+{30122}{30220}Chris, tu as rendu les clés à ton père?
+{30367}{30427}Bon, passez tous...
+{30452}{30522}une bonne journée à vos divers...
+{30570}{30610}Très bien.
+{30612}{30690}- Maman!|- Morris. Et Chris?
+{30750}{30825}- Chris?|- Tu m'avais promis une réponse.
+{30827}{30915}Tu devais lui donner|une réponse pour son nez.
+{31115}{31222}Elle est un peu jeune|pour de la chirurgie esthétique, non?
+{31225}{31325}Voyons, Morris.|Elle veut se faire percer le nez.
+{31350}{31417}Je te déteste. Crève!
+{31575}{31662}J'ai fait mon boulot. Bonne journée.
+{31845}{31897}Tu veux divorcer, pas vrai?
+{31900}{32007}- Dis-le: "Joanne, je veux divorcer."|- Joanne? Non...
+{32010}{32115}Je ne te laisserai pas|aller et venir comme un étranger.
+{32117}{32255}- C'est peut-être mieux si...|- Je ne suis plus moi-même.
+{32255}{32290}Morris...
+{32320}{32395}Tu portes le même costume qu'hier.
+{32625}{32725}Mesdames, messieurs, M. Johnny Cash.
+{34477}{34540}Qu'est-ce que tu fais?
+{34625}{34675}C'est pour toi.
+{34757}{34792}Merci.
+{34935}{34985}Mul... Morris.
+{34985}{35077}- C'est Jeff. Où es-tu?|- Je suis un peu en retard.
+{35080}{35155}Dépêche-toi. Il se passe des trucs graves.
+{35157}{35270}- C'est-à-dire?|- Pas au téléphone. Grouille-toi.
+{35465}{35490}- Vous savez ce qu'il dit?|- On dirait qu'il prie.
+{35490}{35582}- Vous savez ce qu'il dit?|- On dirait qu'il prie.
+{35585}{35675}Il parle un dialecte indien, le hopi.
+{35675}{35760}Le pilote s'appelle Robert McDonough.
+{35762}{35840}Né dans le Montana.|Aucun don pour les langues.
+{35842}{35957}Il se prend pour Lana Chee,|une Indienne hopi de 75 ans
+{35960}{36047}de la réserve Moapa,|située à environ 60 km d'ici.
+{36050}{36110}Une psychose traumatique?
+{36112}{36175}On ne dirait pas.
+{36277}{36330}Voici Mme Lana Chee.
+{36362}{36450}On l'a amenée|de la réserve indienne ce matin.
+{36535}{36580}Repos.
+{36597}{36670}- Qui êtes-vous?|- Capitaine Robert McDonough.
+{36672}{36820}Veuillez excuser mon état|et mon absence d'uniforme.
+{36820}{36907}Savez-vous ce qui s'est passé hier soir?
+{36910}{37007}On a décollé à 23 h 00 en direction du sud.
+{37010}{37137}Vers 23 h 15, on a perdu|la puissance du quadrant arrière droit.
+{37140}{37235}Connaissez-vous l'origine de la panne?
+{37237}{37367}Aucun voyant ne s'est allumé.|Les vérifications d'usages avaient eu lieu.
+{37390}{37470}L'appareil n'avait pas envie de voler.
+{37572}{37625}Allez, petite, dans le trou.
+{37687}{37745}Mulder.
+{37745}{37795}J'ai fait un birdie.
+{37910}{37977}- Scully.|- Ouf! Scully, c'est moi.
+{38010}{38080}- Pardon. Qui est-ce?|- C'est Mulder.
+{38095}{38137}Mulder.
+{38140}{38270}Je n'ai pas pu appeler. Il y a eu|un truc bizarre quand l'ovni est passé.
+{38272}{38342}- L'ovni?|- Tu as oublié?
+{38370}{38405}Tu as oublié.
+{38407}{38532}Tu n'es pas avec moi, mais avec|Morris Fletcher, un employé de la zone 51.
+{38547}{38607}- Morris Fletcher.|- C'est ça.
+{38610}{38685}On me prend pour lui, mais c'est une erreur.
+{38742}{38845}Tant qu'on me prend pour lui,|je peux appeler, mais tu dois m'aider.
+{38847}{38905}- C'était quoi?|- Quoi ça?
+{38907}{39015}- On est peut-être sur écoute.|- Mulder, où es-tu?
+{39017}{39112}Je préfère me taire.|Viens le plus vite possible.
+{39115}{39212}- Comment puis-je te joindre?|- C'est moi qui t'appellerai.
+{39345}{39460}- C'était qui, à ton avis?|- C'était pas ton informateur?
+{39462}{39525}Je vais voir d'où ça venait.
+{39525}{39620}On devrait en parler directement au boss.
+{39620}{39697}Inutile de se faire à nouveau engueuler.
+{39700}{39757}Mulder.
+{39760}{39837}C'est bien la meilleure chose à faire?
+{39840}{39955}Ma petite, faut te remettre les idées en place.
+{39957}{40027}On doit suivre le règlement.
+{40222}{40280}Un dollar et 89 cents.
+{40300}{40347}11 cents de monnaie.
+{40375}{40470}- Gardez-les.|- Super, je vais fermer plus tôt.
+{42582}{42635}Demi-tour. Y a un problème.
+{43692}{43755}Reculez. Y a de l'essence.
+{43790}{43832}Monsieur.
+{43835}{43867}Fletcher.
+{43870}{43932}Qu'est-ce qu'il fout?
+{44072}{44172}- Que fais-tu?|- II y avait un employé.
+{44435}{44490}Sacré nom de...
+{44525}{44590}- Ca s'est reproduit.|- Quoi?
+{44592}{44675}- Fichons le camp.|- II faut aider cet homme.
+{44677}{44770}Occupons-nous de nous.|Ce qui a causé ça peut revenir.
+{44772}{44870}- On ne va pas le laisser.|- Qu'est-ce qui te prend?
+{44872}{44970}- On part et c'est tout.|- II lui faut un docteur.
+{45075}{45125}Plus maintenant.
+{45290}{45332}Brûlez tout.
+{45335}{45395}Dégagez un périmètre de 60 mètres.
+{45397}{45465}C'est parti. Reculez.
+{45507}{45607}Viens, Morris. Il était déjà mort.
+{46517}{46567}Agent Scully.
+{46765}{46845}- T'en veux encore?|- C'est moi.
+{46885}{46960}- Salut, Dana.|- Qu'est-ce que tu fabriques?
+{46962}{47050}C'est ma pause déjeuner. Pourquoi?
+{47190}{47260}On a trouvé l'origine du coup de fil.
+{47260}{47347}Une station-service sur la route 375,
+{47350}{47417}à 5 km à l'est de Groom Lake.
+{47420}{47470}Et alors?
+{47470}{47597}Je crois que c'était ton contact,|mais pourquoi t'imiterait-il?
+{47600}{47640}Admettons.
+{47642}{47740}Tu ne crois pas|que c'est une piste à suivre?
+{47742}{47825}- Tu es folle?|- Moi, folle?
+{47850}{47960}C'est toi qui es fou. Qu'est-ce que tu as?
+{47962}{48082}J'ai envie de te faire examiner|pour maladie mentale ou usage de drogue.
+{48085}{48147}Ou choc violent à la tête.
+{48150}{48200}C'est une affaire NC.
+{48220}{48285}La croisade de ta vie.
+{48300}{48377}Si j'ai bien compris, on n'est plus dessus.
+{48727}{48765}Garce.
+{48810}{48880}On a amené ça chez le vétérinaire.
+{48882}{48997}Un gamin l'a trouvé dans le désert|à 16 km de la station-service.
+{49035}{49085}Montrez-moi.
+{49177}{49277}- Juste là.|- C'est là qu'était l'employé?
+{49280}{49402}Le pilote était sur le lieu de l'accident|et l'lndienne était là.
+{49405}{49497}- Là, c'est quoi?|- Sûrement la zone d'impact.
+{49522}{49632}La bo îti e noire risque de confirmer|la distorsion spatiotemporelle.
+{49635}{49687}- Distorsion.|- Téléporte-moi, Scotty.
+{49710}{49825}Une déchirure dans le continuum|espace-temps, un disfonctionnement
+{49825}{49942}du mode antigravifique|avant la chute de l'appareil.
+{49967}{50075}Ces vols existent depuis 1953.|J'ai jamais entendu parler de ça.
+{50075}{50137}En physique quantique, c'est possible.
+{50140}{50232}La propulsion antigravifique na îti|d'une distorsion spatiotemporelle.
+{50235}{50355}Une modification subite de la trajectoire|peut créer cette distorsion.
+{50357}{50425}Un lézard et une pierre|dans le même espace-temps.
+{50427}{50555}Si cette distorsion avait eu lieu,|on l'aurait tous vu.
+{50557}{50665}On interceptait|deux agents du F.B.I. sur la route 375.
+{50667}{50760}Le fait qu'on ne s'en souvient pas|corrobore ma théorie.
+{50760}{50807}- Comment?|- Le temps disparu.
+{50835}{50927}Ca indique la proximité d'appareils|à propulsion antigravifique.
+{50930}{50995}Pourquoi nos têtes|ne sont pas dans un rocher?
+{50995}{51065}Je n'ai pas de réponse.
+{51065}{51167}On a peut-être des séquelles|dont on n'a pas conscience.
+{51170}{51295}- Qu'est-ce qu'on fait?|- C'est ton domaine.
+{51297}{51375}Pas de fuites. Faites dispara îti re les témoins.
+{51377}{51432}Comment faire machine arrière?
+{51435}{51502}Pour sortir le lézard du rocher?
+{51505}{51560}C'est pas gagné.
+{51592}{51675}ROUTE 375|22H12
+{53412}{53492}C'est une parodie de vie de couple.
+{53495}{53575}- Quoi?|- Je ne te plais plus.
+{53575}{53650}- Je te dégoûte, hein?|- Non.
+{53652}{53777}Tu n'es pas dégoûtante.|C'est juste que...
+{53780}{53850}Tu ne veux plus me faire l'amour.
+{53850}{53867}Tu parles de Scully en dormant.
+{53867}{53915}Tu parles de Scully en dormant.
+{53917}{54010}Qui est Scully? C'est une autre femme?
+{54012}{54070}C'est un nom de femme, d'après toi?
+{54070}{54122}Dis-moi qui c'est.
+{54145}{54300}Tu sais que je ne peux pas te parler|de certains aspects de mon travail.
+{54302}{54377}Cette fois, ça ne marchera pas.
+{54380}{54472}Tu ignores beaucoup de choses sur moi.
+{54475}{54570}J'étais sous pression ces derniers temps.
+{54572}{54645}Tout est bouleversé.|Je ne sais plus où j'en suis.
+{54647}{54740}Je ne sais plus qui je suis vraiment.
+{54765}{54860}Je ne suis pas l'homme que tu as épousé.
+{54880}{54975}Tu m'en vois sincèrement désolé.
+{55025}{55112}Morris, je ne savais pas.
+{55162}{55222}Il existe un médicament.
+{55335}{55465}On va s'en sortir.|L'intimité, ce n'est pas que ça.
+{55465}{55525}Quelqu'un a sonné.
+{55565}{55620}On va trouver une solution.
+{55815}{55872}- Oui?|- Je m'appelle Dana Scully.
+{55875}{55937}Je cherche Morris Fletcher.
+{56130}{56180}Salaud.
+{56200}{56305}- Désolée. Morris Fletcher?|- Scully, c'est moi, Mulder.
+{56415}{56505}Vous êtes l'homme de l'autre soir.|De la zone 51.
+{56505}{56557}Menteur.
+{56560}{56662}- Vous m'avez appelée. Pourquoi?|- Je suis Mulder.
+{56665}{56730}Je suis dans le corps de Fletcher.
+{56730}{56805}Lui, il est dans le mien, mais il n'est pas moi.
+{56845}{56925}Tu ne me crois pas. C'est normal.
+{56927}{56980}Tu es Dana Katherine Scully.
+{56982}{57055}Ton matricule... Je sais pas.
+{57057}{57165}Ta mère, c'est Margaret|et ton frère, Bill Junior. Il me hait.
+{57180}{57290}Tu manges des yaourts|auxquels tu ajoutes du pollen
+{57292}{57417}parce que tu es dans un trip pollen.|Je trouve ça ridicule.
+{57435}{57492}Tra îti re.
+{57495}{57600}N'importe qui|pourrait trouver ces informations.
+{57602}{57665}Même le coup du yaourt?
+{57665}{57780}Ca, c'est bien toi.|Tu n'as pas changé. C'est rassurant.
+{57782}{57860}- Ca rime à quoi, tout ça?|- Je peux te le prouver.
+{57862}{57947}Non, mais vous pouvez parler.
+{57950}{58100}J'ai la preuve scientifique|de ce qui nous est arrivé. Ca te va?
+{58102}{58152}J'appelle la police.
+{58197}{58257}Au revoir, M. Fletcher.
+{58260}{58327}Je te le prouverai, Scully.
+{58330}{58457}Ce soir. Je vais tout prouver.
+{59102}{59150}- Howard Grodin.|- M. Grodin?
+{59152}{59247}Ici l'agent spécial Mulder du F.B.I.|Comment ça va?
+{59250}{59342}- Comment avez-vous eu ce numéro?|- C'est de ça que je veux parler.
+{59345}{59452}Je suis obligé de vous dire qu'il y a une fuite.
+{59455}{59550}Un de vos collaborateurs|a appelé mon bureau
+{59550}{59630}pour me proposer|des informations secrètes.
+{59630}{59705}Vous connaissez son identité?
+{59705}{59765}Tout à fait.
+{60365}{60437}BOÎTE NOIRE
+{61290}{61380}- Scully.|- Vous êtes dans le Nevada?
+{61382}{61465}- Monsieur...|- Taisez-vous. Ecoutez.
+{61467}{61560}Votre collègue m'a rapporté|sa conversation avec les militaires.
+{61562}{61665}Il veut vous éviter|une erreur fatale pour votre carrière.
+{61677}{61750}Suivez mes instructions à la lettre.
+{61752}{61882}- J'ignore ce qu'a dit Mulder...|- Suivez mes instructions à la lettre.
+{61885}{61975}Sinon, ne rentrez pas du Nevada.
+{62075}{62190}STATION-SERVICE AHERN|COMTE DE LINCOLN, NEVADA
+{62555}{62605}Je peux vous aider?
+{62685}{62760}Scully, j'ai la preuve.
+{63400}{63482}- Désolée.|- C'est toi?
+{63627}{63685}- Merde, Morris.|- Espèce de salaud.
+{63687}{63780}Vous avez tout manigancé.|Ce n'est pas moi, Scully.
+{63782}{63880}Moi, je ferais ça?
+{63890}{63950}Dites-lui la vérité, ordure.
+{63952}{64027}Ce n'est pas moi.
+{64182}{64250}A SUIVRE
+{64980}{65062}Sous-titrage Visiontext:|Anne Kosossey
+{65240}{65290}FRENCH

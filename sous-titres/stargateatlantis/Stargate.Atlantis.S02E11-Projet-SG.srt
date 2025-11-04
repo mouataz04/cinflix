@@ -1,0 +1,2707 @@
+1
+00:00:02,220 --> 00:00:04,180
+<i>Précédemment dans Stargate Atlantis.</i>
+
+2
+00:00:04,620 --> 00:00:05,559
+Ford ?
+
+3
+00:00:05,560 --> 00:00:07,259
+Vous pensiez que j'étais mort, n'est-ce pas Sheppard ?
+
+4
+00:00:07,260 --> 00:00:09,540
+Jace, ici présent, sait très bien préparer l'enzyme.
+
+5
+00:00:09,541 --> 00:00:11,729
+Nous sommes devenus si bons que nous
+pouvons l'incorporer à la nourriture...
+
+6
+00:00:11,730 --> 00:00:15,379
+Félicitations. Vous venez de prendre votre première dose.
+
+7
+00:00:15,380 --> 00:00:16,909
+Vous allez nous aider.
+
+8
+00:00:16,910 --> 00:00:19,039
+Détruire un vaisseau ruche Wraith.
+
+9
+00:00:19,040 --> 00:00:21,169
+Il y a eu un léger changement de plan.
+
+10
+00:00:21,170 --> 00:00:23,709
+McKay va rester ici, pendant toute l'opération.
+
+11
+00:00:23,710 --> 00:00:27,270
+<i>Ici Sheppard, je pense que je peux éteindre l'alarme.</i>
+
+12
+00:00:32,300 --> 00:00:33,699
+Que voulez-vous ?
+
+13
+00:00:33,700 --> 00:00:36,270
+Celui qui pilotait le vaisseau !
+
+14
+00:00:43,360 --> 00:00:47,345
+À genoux, genoux genoux genoux...
+
+15
+00:00:51,010 --> 00:00:52,320
+<i>Et maintenant la conclusion.</i>
+
+16
+00:00:57,150 --> 00:00:58,370
+Le vaisseau...
+
+17
+00:01:04,180 --> 00:01:06,633
+Où l'avez-vous eu ?
+
+18
+00:01:09,280 --> 00:01:11,569
+Vous voulez parler du Dart ?
+
+19
+00:01:11,570 --> 00:01:13,640
+Nous l'appelons Dart car il est si pointu.
+
+20
+00:01:13,641 --> 00:01:17,100
+Dites-moi... Où ?
+
+21
+00:01:19,150 --> 00:01:21,420
+Je ne veux vraiment pas le dire.
+
+22
+00:01:35,980 --> 00:01:38,180
+Je ne connais même pas votre nom.
+
+23
+00:01:41,440 --> 00:01:43,110
+En temps voulu...
+
+24
+00:01:44,000 --> 00:01:47,339
+Vous me direz tout...
+
+25
+00:01:49,270 --> 00:01:50,909
+Vous dire quoi ?
+
+26
+00:01:50,910 --> 00:01:53,220
+Qu'est ce qui ne va pas ?
+
+27
+00:01:53,230 --> 00:01:55,310
+Elle ne m'a même pas dit son nom.
+
+28
+00:02:13,990 --> 00:02:15,270
+Colonel ?
+
+29
+00:02:28,110 --> 00:02:29,669
+Êtes-vous indemne ?
+
+30
+00:02:29,670 --> 00:02:31,549
+Ouais...
+
+31
+00:02:31,550 --> 00:02:33,417
+Où vous ont-ils emmené ?
+
+32
+00:02:35,060 --> 00:02:37,629
+Un peu de question et réponse avec la reine de la ruche.
+
+33
+00:02:37,630 --> 00:02:39,429
+Que lui avez vous dit ?
+
+34
+00:02:39,430 --> 00:02:41,749
+Une conversation courte, mais elle est partie.
+
+35
+00:02:41,750 --> 00:02:42,849
+Pourquoi ?
+
+36
+00:02:42,850 --> 00:02:44,789
+Peut-être qu'elle était en retard pour une réunion.
+
+37
+00:02:44,790 --> 00:02:45,190
+Non.
+
+38
+00:02:45,800 --> 00:02:47,069
+Il y a quelque chose d'autre.
+
+39
+00:02:47,070 --> 00:02:48,889
+Je la sens agitée...
+
+40
+00:02:48,890 --> 00:02:50,679
+Même en colère.
+
+41
+00:02:50,680 --> 00:02:51,190
+Pourquoi ?
+
+42
+00:02:59,910 --> 00:03:02,280
+Un autre vaisseau ruche vient d'arriver.
+
+43
+00:03:15,200 --> 00:03:19,200
+Stargate Atlantis - Saison 2 épisode 11
+The Hive (La Ruche)
+
+44
+00:03:21,200 --> 00:03:25,200
+Traduction : Kyoshiro.
+
+45
+00:03:27,200 --> 00:03:31,200
+Synchro/Relecture : Aeropad, Kyoshiro, Niko, Soukasays.
+
+46
+00:03:49,400 --> 00:03:49,500
+h
+
+47
+00:03:49,500 --> 00:03:49,600
+ht
+
+48
+00:03:49,600 --> 00:03:49,700
+htt
+
+49
+00:03:49,700 --> 00:03:49,800
+http
+
+50
+00:03:49,800 --> 00:03:49,900
+http:
+
+51
+00:03:49,900 --> 00:03:50,000
+http:/
+
+52
+00:03:50,000 --> 00:03:50,100
+http://
+
+53
+00:03:50,100 --> 00:03:50,200
+http://p
+
+54
+00:03:50,200 --> 00:03:50,300
+http://pr
+
+55
+00:03:50,300 --> 00:03:50,400
+http://pro
+
+56
+00:03:50,410 --> 00:03:50,510
+http://proj
+
+57
+00:03:50,510 --> 00:03:50,610
+http://proje
+
+58
+00:03:50,610 --> 00:03:50,710
+http://projet
+
+59
+00:03:50,710 --> 00:03:50,810
+http://projet-
+
+60
+00:03:50,810 --> 00:03:50,910
+http://projet-s
+
+61
+00:03:50,910 --> 00:03:51,010
+http://projet-sg
+
+62
+00:03:51,010 --> 00:03:51,110
+http://projet-sg.
+
+63
+00:03:51,110 --> 00:03:51,210
+http://projet-sg.a
+
+64
+00:03:51,210 --> 00:03:51,310
+http://projet-sg.ae
+
+65
+00:03:51,310 --> 00:03:51,410
+http://projet-sg.aer
+
+66
+00:03:51,420 --> 00:03:51,520
+http://projet-sg.aero
+
+67
+00:03:51,520 --> 00:03:51,620
+http://projet-sg.aerof
+
+68
+00:03:51,620 --> 00:03:51,720
+http://projet-sg.aerofr
+
+69
+00:03:51,720 --> 00:03:51,820
+http://projet-sg.aerofra
+
+70
+00:03:51,820 --> 00:03:51,920
+http://projet-sg.aerofran
+
+71
+00:03:51,920 --> 00:03:52,020
+http://projet-sg.aerofranc
+
+72
+00:03:52,020 --> 00:03:52,120
+http://projet-sg.aerofrance
+
+73
+00:03:52,120 --> 00:03:52,220
+http://projet-sg.aerofrance.
+
+74
+00:03:52,220 --> 00:03:52,320
+http://projet-sg.aerofrance.n
+
+75
+00:03:52,320 --> 00:03:52,420
+http://projet-sg.aerofrance.ne
+
+76
+00:03:52,430 --> 00:03:53,430
+http://projet-sg.aerofrance.net
+
+77
+00:03:53,430 --> 00:03:54,430
+http://projet-sg.aerofrance.net
+
+78
+00:03:54,430 --> 00:03:55,430
+http://projet-sg.aerofrance.net
+
+79
+00:03:55,430 --> 00:03:56,430
+http://projet-sg.aerofrance.net
+
+80
+00:03:56,430 --> 00:03:57,430
+http://projet-sg.aerofrance.net
+
+81
+00:03:57,430 --> 00:03:58,430
+http://projet-sg.aerofrance.net
+
+82
+00:03:58,430 --> 00:04:04,550
+http://projet-sg.aerofrance.net
+
+83
+00:04:12,860 --> 00:04:16,159
+Etes-vous sûre qu'il y a un autre vaisseau ?
+
+84
+00:04:16,160 --> 00:04:19,320
+Je le sens près de nous.
+
+85
+00:04:19,320 --> 00:04:22,109
+Peut-être qu'ils ont planifié
+ensemble une récolte sur une planète ?
+
+86
+00:04:22,110 --> 00:04:23,300
+Je peux me battre contre...
+
+87
+00:04:23,301 --> 00:04:28,009
+D'autre part, la planète est à quelques jours de voyage,
+donc nous avons pas beaucoup de temps pour les arréter.
+
+88
+00:04:28,010 --> 00:04:30,240
+Chaque chose en son temps, premièrement comment on sort ?
+
+89
+00:04:30,240 --> 00:04:31,950
+Une chance ?
+
+90
+00:04:31,950 --> 00:04:33,860
+Pas encore.
+
+91
+00:04:33,940 --> 00:04:36,510
+Ne vous inquiétez pas, je trouverai un moyen.
+
+92
+00:04:36,600 --> 00:04:39,550
+J'avais peur que vous disiez ça.
+
+93
+00:04:39,630 --> 00:04:42,740
+Ok, ils devraient vraiment être déjà
+revenus maintenant, sérieusement...
+
+94
+00:04:42,770 --> 00:04:45,900
+...suis-je le seul à penser que
+le plan ne s'est pas bien déroulé.
+
+95
+00:04:45,900 --> 00:04:46,950
+Oui.
+
+96
+00:04:46,980 --> 00:04:49,810
+Ok, mais nous ne pouvons pas rester assis,
+nous... nous devons faire quelque chose.
+
+97
+00:04:49,820 --> 00:04:51,960
+- Comme Quoi ?
+- Comme allez chercher de l'aide.
+
+98
+00:04:51,960 --> 00:04:54,710
+Ok, nous pouvons retourner vers
+Atlantis où nous avons un vaisseau.
+
+99
+00:04:54,710 --> 00:04:59,110
+Un vaisseau rapide avec des boucliers. Nous
+pourrons voler vers la ruche et les sauver.
+
+100
+00:04:59,120 --> 00:05:02,790
+On ne peut pas composer d'adresses. Souvenez-vous,
+Ford à retiré les cristaux permettant de composer.
+
+101
+00:05:02,790 --> 00:05:07,540
+Oui je le sais, mais voici la bonne
+nouvelle, vous êtes ceux qui les gardez.
+
+102
+00:05:07,540 --> 00:05:10,110
+Ecoutez, vous n'avez qu'à me donner
+les cristaux. Je réparerais le DHD.
+
+103
+00:05:10,120 --> 00:05:13,830
+Et, ... et écoutez, on quitte cette pièce et on s'en va.
+
+104
+00:05:13,830 --> 00:05:18,820
+- Nous ne vous donnerons rien.
+- Donc je ne peux pas connecter la porte.
+
+105
+00:05:18,820 --> 00:05:19,840
+C'est ce que j'ai dit.
+
+106
+00:05:19,890 --> 00:05:24,300
+Mais que voulez vous qu'il se passe...
+Donnez moi ces foutus cristaux.
+
+107
+00:05:26,870 --> 00:05:30,410
+Si vous voulez les cristaux, il
+vous faudra nous passer sur le corps.
+
+108
+00:05:32,140 --> 00:05:34,720
+Incroyable !
+
+109
+00:05:41,860 --> 00:05:48,410
+La dernière fois que nous étions dans l'un
+de ces vaisseaux, McKay a réussi à ouvrir
+la porte en coupant le faisceau du  mur...
+
+110
+00:05:48,410 --> 00:05:50,130
+Vous pensez qu'avec un couteau...
+
+111
+00:05:50,130 --> 00:05:54,430
+- Vous avez un couteau?
+- Un qu'ils trouvent et un qu'on garde,
+tout le monde sait ça.
+
+112
+00:05:54,430 --> 00:05:59,750
+- Bien, j'ai oublié cette règle...
+- Une chance que je sois là.
+
+113
+00:05:59,750 --> 00:06:04,230
+Bien, maintenant, prenez votre temps et ...
+
+114
+00:06:05,590 --> 00:06:07,460
+J'ai dit prenez votre temps...
+
+115
+00:06:07,460 --> 00:06:09,210
+J'ai touché exactement là où vous pointiez.
+
+116
+00:06:09,270 --> 00:06:11,590
+Ouais... ouais quelqu'un d'autre à un couteau ?
+
+117
+00:06:22,130 --> 00:06:24,350
+Ca se rapproche.
+
+118
+00:06:25,610 --> 00:06:27,320
+Combien en avez vous ?
+
+119
+00:06:27,330 --> 00:06:29,050
+Combien vous en faut-il ?
+
+120
+00:06:55,350 --> 00:07:00,390
+Ok, tu peux te les faire, c'est facile,
+c'est juste quelques... oh svp...
+
+121
+00:07:00,400 --> 00:07:07,260
+Quelques prises de Karaté, et
+c'est fait. C'est du gateau, c'est...
+
+122
+00:07:07,260 --> 00:07:10,260
+Très bien tu es un idiot...
+
+123
+00:07:17,130 --> 00:07:21,700
+A temps désespérés, mesures désespérées.
+
+124
+00:07:30,580 --> 00:07:34,180
+C'est l'enfer pour une prise de Karaté.
+
+125
+00:07:41,030 --> 00:07:44,210
+Je me demande le temps qu'il vous faudrait à l'aéroport.
+
+126
+00:07:49,550 --> 00:07:52,280
+Ford, bordel qu'est ce que vous foutez ?
+
+127
+00:07:52,280 --> 00:07:54,110
+- C'est la dernière.
+- Et pour nous ?
+
+128
+00:07:54,110 --> 00:07:57,010
+- Vous n'en avez pas besoin.
+- Vous ne le savez pas.
+
+129
+00:07:57,790 --> 00:08:04,490
+On se rend au hangar à Darts, on
+reste ensembles et silencieux.
+
+130
+00:08:19,070 --> 00:08:20,810
+Viser et Tirer.
+
+131
+00:08:37,160 --> 00:08:41,350
+C'est ce qui se passe quand vous poussez
+un brilliant scientifique à ses limites.
+
+132
+00:08:49,060 --> 00:08:52,550
+Concentre-toi, concentre...
+
+133
+00:08:55,540 --> 00:08:57,550
+Les cristaux de contrôle.
+
+134
+00:09:11,060 --> 00:09:13,020
+Attendez !
+
+135
+00:09:13,020 --> 00:09:15,190
+Ils arrivent.
+
+136
+00:09:15,190 --> 00:09:18,040
+- Je m'en charge.
+- Ford !
+
+137
+00:09:26,340 --> 00:09:29,530
+- D'autres arrivent.
+- Par içi.
+
+138
+00:09:36,170 --> 00:09:39,920
+Grosse dose !  Grosse, grosse dose !
+Mais tu as eu besoin de ca...
+
+139
+00:09:39,921 --> 00:09:43,500
+Tu as eu besoin de ça pour obtenir
+ces cristaux, idiot !
+
+140
+00:09:43,501 --> 00:09:56,300
+Tu as voulu les cristaux comme du beurre,
+comme un couteau dans du beurre...
+Stp fonctionne, stp marche...
+
+141
+00:10:03,150 --> 00:10:05,140
+Ok, on rentre à la maison.
+
+142
+00:10:24,770 --> 00:10:25,580
+Aidez nous.
+
+143
+00:10:26,970 --> 00:10:30,570
+S'il vous plait aidez nous....
+
+144
+00:10:30,700 --> 00:10:31,900
+Elle est en vie.
+
+145
+00:10:32,360 --> 00:10:33,210
+Tout comme celle là.
+
+146
+00:10:33,770 --> 00:10:34,950
+Sortons les de là.
+
+147
+00:10:36,490 --> 00:10:39,600
+On a pas le temps de s'arrêter,
+ça ne fait pas partie de la mission.
+
+148
+00:10:39,600 --> 00:10:42,920
+Il n'y a pas de mission Ford,
+il y a juste votre stupide plan.
+
+149
+00:10:43,060 --> 00:10:43,920
+Si vous n'aviez pas fait foirer...
+
+150
+00:10:43,920 --> 00:10:48,920
+Quoi ! Si vous arrêtiez de vous énerver contre moi, je
+sauverai ces gens et nous partirions rapidement d'içi.
+
+151
+00:10:53,640 --> 00:10:56,590
+Activation de la porte.
+
+152
+00:10:58,070 --> 00:10:59,190
+Code d'identification du Dr. McKay.
+
+153
+00:10:59,490 --> 00:11:00,350
+Désactivez le bouclier.
+
+154
+00:11:03,480 --> 00:11:04,960
+Je sais ce qu'on doit faire.
+
+155
+00:11:05,470 --> 00:11:07,460
+Rodney, que s'est il passé ?
+
+156
+00:11:07,460 --> 00:11:08,820
+Hey, où est le reste de.... ?
+
+157
+00:11:08,820 --> 00:11:10,190
+On n'a pas le temps, pas le temps.
+
+158
+00:11:10,190 --> 00:11:13,760
+Sur une autre planète, Ford est celui qui commande,
+nous devons y aller, nous n'avons pas assez de temps.
+
+159
+00:11:13,800 --> 00:11:15,060
+J'ai été capable de m'échapper par moi même.
+
+160
+00:11:15,170 --> 00:11:19,650
+Quand je me suis occupé des gardes, oh vous auriez du me
+voir, j'étais extraordinaire, j'aurai aimé qu'on le filme...
+
+161
+00:11:19,650 --> 00:11:22,640
+Rodney, calmez vous. Est-ce que vous allez bien?
+
+162
+00:11:22,630 --> 00:11:25,920
+Oui, oui, je veux dire.... euh je sais pas.
+
+163
+00:11:26,000 --> 00:11:28,960
+Je veux dire, je me suis chargé des gardes,
+ils étaient grands, idiots et stupides.
+
+164
+00:11:28,960 --> 00:11:29,630
+Quels gardes ?
+
+165
+00:11:29,630 --> 00:11:30,950
+Les gardes de Ford, ai-je mentionné Ford.
+
+166
+00:11:30,950 --> 00:11:33,970
+Non vous ne l'avez pas fait, vous n'avez
+même pas mentionné Sheppard, Teyla, Ronon...
+
+167
+00:11:33,980 --> 00:11:39,050
+Oui ils y etaient aussi, et il y avait 2
+gardes, grands, massifs et drogués à l'enzyme.
+
+168
+00:11:39,050 --> 00:11:41,020
+- Vous avez pris de l'enzyme
+- Non non non...
+
+169
+00:11:41,020 --> 00:11:46,600
+Je n'ai pas pris de l'enzyme j'ai pris beaucoup d'enzyme.
+Parce que je devais me charger des gardes, ce que
+j'ai fait et vous auriez du me voir j'étais incroyable !
+
+170
+00:11:46,600 --> 00:11:47,520
+Etes vous fou ?
+
+171
+00:11:47,520 --> 00:11:49,470
+Oui, non j'ai pris de l'enzyme, oui!
+
+172
+00:11:49,470 --> 00:11:52,940
+Rodney, concentrez vous. Où est le colonel Sheppard ?
+
+173
+00:11:52,940 --> 00:11:56,320
+Non non non, j'ai pris de l'enzyme
+car je devais m'occuper des gardes.
+
+174
+00:11:56,320 --> 00:12:00,690
+Mais ce n'est pas important, l'important c'est que nous
+n'avons pas le temps, nous devons empecher
+le vaisseau d'aller là où il doit aller.
+
+175
+00:12:00,690 --> 00:12:02,870
+- Allons, nous allons marcher vers l'infirmerie.
+- je vais...
+
+176
+00:12:02,870 --> 00:12:05,500
+Non non non non je ne veux pas aller à l'infirmerie.
+
+177
+00:12:05,500 --> 00:12:08,360
+Je veux aller à ...
+
+178
+00:12:09,800 --> 00:12:12,140
+Dr. Beckett, nous avons une urgence, nous vous rejoignons.
+
+179
+00:12:26,880 --> 00:12:28,500
+Ford!
+
+180
+00:13:28,690 --> 00:13:30,260
+Vous allez bien ?
+
+181
+00:13:31,710 --> 00:13:33,810
+Je le pense.
+
+182
+00:13:34,490 --> 00:13:36,510
+Vous avez été touchés par un étourdisseur Wraith.
+
+183
+00:13:36,510 --> 00:13:38,480
+Vous êtes tombés assez rapidement.
+
+184
+00:13:38,920 --> 00:13:41,240
+L'effet de l'enzyme doit s'atténuer...
+
+185
+00:13:42,630 --> 00:13:44,020
+Où sont les autres ?
+
+186
+00:13:53,090 --> 00:13:54,540
+Vous vous sentez mieux ?
+
+187
+00:13:59,960 --> 00:14:02,000
+Son nom est Neera.
+
+188
+00:14:02,360 --> 00:14:04,810
+Lieutenant colonel John Sheppard.
+
+189
+00:14:06,260 --> 00:14:08,300
+Salut.
+
+190
+00:14:09,780 --> 00:14:11,330
+Où sont les autres ?
+
+191
+00:14:11,330 --> 00:14:13,600
+Disséminés dans d'autre cellules.
+
+192
+00:14:13,600 --> 00:14:18,040
+Les Wraiths pensent que nous mettre dans des cellules
+différentes rendra une évasion plus difficile.
+
+193
+00:14:18,510 --> 00:14:19,660
+On aurait pas dû s'arrêter.
+
+194
+00:14:19,660 --> 00:14:20,920
+Ce qui est fait est fait lieutenant.
+
+195
+00:14:20,920 --> 00:14:22,290
+Non.
+
+196
+00:14:23,120 --> 00:14:28,260
+Premièrement, vous déclenchez l'alarme, puis vous arrêtez
+pour sauver des gens alors que vous saviez
+que les Wraiths étaient sur nos talons.
+
+197
+00:14:29,040 --> 00:14:31,880
+C'est comme si vous sabotiez délibéremment cette mission.
+
+198
+00:14:32,350 --> 00:14:34,390
+Vous détestez me voir réussir dans ce que je fais.
+
+199
+00:14:34,390 --> 00:14:37,030
+Vous avez beaucoup de haine en vous Ford.
+
+200
+00:14:40,230 --> 00:14:43,480
+Teyla et Ronon sont tombés trop
+vite quand ils ont été touchés.
+
+201
+00:14:44,100 --> 00:14:46,000
+L'enzyme perd en efficacité.
+
+202
+00:14:46,800 --> 00:14:49,250
+Vous le ressentez déjà ?
+
+203
+00:14:51,300 --> 00:14:53,090
+Pas encore.
+
+204
+00:14:55,130 --> 00:14:57,150
+Mais ça viendra.
+
+205
+00:14:58,700 --> 00:15:01,630
+C'est déjà arrivé avant lorsque je manquais d'enzyme.
+
+206
+00:15:03,880 --> 00:15:05,880
+C'est plutôt mauvais.
+
+207
+00:15:08,000 --> 00:15:10,260
+Donc nous devons trouver comment sortir d'içi.
+
+208
+00:15:11,800 --> 00:15:14,590
+Et plus d'arrêts inutiles.
+
+209
+00:15:30,130 --> 00:15:33,150
+Colonel Caldwell, je pensais que vous
+ne seriez pas là avant plusieurs jours
+
+210
+00:15:33,150 --> 00:15:37,410
+Le Dr. Weir a demandé que nous rejoignions les recherches
+de son équipe donc nous avons poussé les moteurs à fond.
+
+211
+00:15:37,900 --> 00:15:39,310
+Comment va t-il ?
+
+212
+00:15:39,310 --> 00:15:44,540
+Je l'ai sédaté et lui ai administré un beta bloquant
+pour rétablir sa pression sanguine à un niveau convenable.
+
+213
+00:15:44,540 --> 00:15:46,450
+C'est un miracle qu'il n'ai pas souffert du choc.
+
+214
+00:15:46,550 --> 00:15:49,740
+A t'il mentionné quelques indices sur la
+localisation du Colonel Sheppard et son équipe ?
+
+215
+00:15:49,740 --> 00:15:51,680
+Rien de cohérent, j'en ai peur.
+
+216
+00:15:51,680 --> 00:15:55,760
+Mais lorsqu'il est arrivé içi, il était en
+hyperventilation, et avait un rythme extrèmement rapide.
+
+217
+00:15:55,760 --> 00:15:59,480
+Il pouvait difficilemment dire un mot, bien que connaissant Rodney...
+
+218
+00:15:59,630 --> 00:16:01,710
+...il a surement essayé.
+
+219
+00:16:02,740 --> 00:16:04,460
+Combien d'enzyme a t'il prit ?
+
+220
+00:16:04,460 --> 00:16:08,670
+Un très grosse dose j'en ai peur, j'ai trouvé
+un taux significatif dans son organisme.
+
+221
+00:16:08,680 --> 00:16:10,540
+Presque plus que pour le lieutenant Ford.
+
+222
+00:16:12,420 --> 00:16:14,310
+Très bien, pouvez vous le sevrer ?
+
+223
+00:16:14,310 --> 00:16:20,140
+Je souhaiterai le pouvoir. Malheureusement, le Lt Ford a pris
+le dernier approvisionnement d'enzyme en quittant Atlantis.
+
+224
+00:16:20,140 --> 00:16:22,410
+Donc un sevrage lent est hors de question.
+
+225
+00:16:22,410 --> 00:16:24,160
+À moins que nous récupérions plus d'enzyme.
+
+226
+00:16:24,290 --> 00:16:29,190
+Non, non, le temps que quelqu'un aille en collecter,
+l'enzyme sera déjà épuisé de son organisme.
+
+227
+00:16:29,190 --> 00:16:31,760
+Non, j'ai peur pour Rodney, mais le seul choix est..
+
+228
+00:16:31,760 --> 00:16:32,920
+...un arrêt radical.
+
+229
+00:16:32,920 --> 00:16:35,140
+Oui, tout repose sur lui.
+
+230
+00:16:35,170 --> 00:16:39,760
+Je peux lui donner des drogues pour faciliter le
+processus, tel que des anti nauseux, et des anti douleurs.
+
+231
+00:16:39,800 --> 00:16:44,060
+"pento-diazepine" pour l'inquiétude puis une injection
+de multi-vitamine pour soutenir le système immunitaire.
+
+232
+00:16:44,060 --> 00:16:44,710
+Bien.
+
+233
+00:16:44,710 --> 00:16:47,640
+Mais il n'y a rien à faire en vérité, ce sera difficile...
+
+234
+00:16:47,640 --> 00:16:49,710
+...et peut être mortel.
+
+235
+00:17:07,950 --> 00:17:09,210
+Est-ce que ça va ?
+
+236
+00:17:09,710 --> 00:17:12,140
+Je suis juste fatigué.
+
+237
+00:17:15,490 --> 00:17:17,140
+Non.
+
+238
+00:17:17,650 --> 00:17:21,060
+L'enzyme quitte vos corps.
+
+239
+00:17:21,520 --> 00:17:23,800
+Le mien aussi.
+
+240
+00:17:31,090 --> 00:17:33,020
+Est ce que ça va empirer ?
+
+241
+00:17:33,610 --> 00:17:35,590
+Oui.
+
+242
+00:17:35,590 --> 00:17:40,600
+Peut-être pas pour vous, vous
+êtes sous enzyme depuis peu de temps.
+
+243
+00:17:41,400 --> 00:17:44,190
+Mais moi....
+
+244
+00:17:55,170 --> 00:17:56,960
+Merci.
+
+245
+00:17:59,850 --> 00:18:02,220
+Allez-vous mieux lieutenant ?
+
+246
+00:18:02,880 --> 00:18:04,330
+Ca va.
+
+247
+00:18:04,810 --> 00:18:07,600
+Faut que je mette la main sur plus d'enzyme.
+
+248
+00:18:08,140 --> 00:18:10,430
+Ainsi je serai capable de nous sortir d'ici.
+
+249
+00:18:10,750 --> 00:18:15,790
+Nous le ferons ensemble, avec ou sans enzyme,
+nous sommes une équipe vous vous souvenez.
+
+250
+00:18:17,360 --> 00:18:19,370
+Je m'en souviens.
+
+251
+00:18:21,520 --> 00:18:23,260
+Donnez moi plus d'enzyme.
+
+252
+00:18:23,430 --> 00:18:24,550
+Nous n'en avons plus.
+
+253
+00:18:24,560 --> 00:18:29,270
+Dans la grotte... la grotte de Ford... il en a... il en a un
+coffret entier lui.  Il y a là des douzaines de fioles.
+
+254
+00:18:30,430 --> 00:18:33,080
+Connaissez vous l'adresse ?
+
+255
+00:18:35,660 --> 00:18:37,150
+Non.
+
+256
+00:18:38,390 --> 00:18:39,460
+Je suis désolé Rodney.
+
+257
+00:18:39,460 --> 00:18:41,170
+Ne me criez pas dessus.
+
+258
+00:18:41,180 --> 00:18:44,040
+- Je ne crie pas.
+- C'est drôle pour vous de me regarder comme ça.
+
+259
+00:18:44,050 --> 00:18:47,230
+- Je vous assure que non.
+- Qu'est ce que c'est vous êtes jaloux?!
+
+260
+00:18:47,230 --> 00:18:50,440
+Jaloux du fait que je sois vital pour cette mission...
+
+261
+00:18:50,700 --> 00:18:56,020
+Jaloux, que je parte sur d'autres mondes et que vous restiez
+coincé ici dans ce stupide et pathétique hopital.
+
+262
+00:18:56,020 --> 00:18:56,990
+Vous savez que ça n'est pas vrai.
+
+263
+00:18:56,990 --> 00:18:58,730
+Jaloux que j'obtienne toutes les femmes et vous pas !
+
+264
+00:18:58,730 --> 00:19:00,110
+Excusez moi ?
+
+265
+00:19:00,640 --> 00:19:03,570
+Svp, donnez moi juste un peu d'enzyme, juste
+assez pour me soulager. Je suis mourrant là.
+
+266
+00:19:03,570 --> 00:19:04,570
+Je vous ai dit que nous n'en avions pas.
+
+267
+00:19:04,580 --> 00:19:06,000
+Vous pensez que je ne sais pas que vous mentez ?
+
+268
+00:19:06,000 --> 00:19:08,420
+- Je ne mens pas.
+- Si ! Vous pensez que je ne le pense pas mais vous mentez !
+
+269
+00:19:08,410 --> 00:19:09,820
+Et ne pensez pas que je ne l'oublierai pas...
+
+270
+00:19:11,280 --> 00:19:12,280
+Quoi ?
+
+271
+00:19:12,280 --> 00:19:15,160
+Je ne sais pas... Oh Jésus tuez moi...
+
+272
+00:19:15,160 --> 00:19:16,130
+"Miséricorde" (en gaelic)
+
+273
+00:19:16,130 --> 00:19:18,990
+- Aidez nous.
+- Ne criez pas je suis juste là.
+
+274
+00:19:19,040 --> 00:19:21,150
+Peut être devrions nous l'emmenez
+dans une zone un peu plus sécurisé.
+
+275
+00:19:21,150 --> 00:19:24,380
+Quoi, vous voulez me mettre au rebus
+et me planter un couteau dans le dos.
+
+276
+00:19:24,380 --> 00:19:28,320
+Rodney, personne n'essaie de vous tuer.
+
+277
+00:19:29,240 --> 00:19:32,600
+Vous n'avez aucune idée de l'agonie par laquelle je passe.
+
+278
+00:19:33,110 --> 00:19:36,080
+J'en ai une idée.
+
+279
+00:19:36,700 --> 00:19:39,070
+Kanayo soyez fort.
+
+280
+00:19:39,070 --> 00:19:40,650
+Battez vous!
+
+281
+00:19:43,400 --> 00:19:45,220
+Vous savez ce qu'on pourrait faire pour lui ?
+
+282
+00:19:45,220 --> 00:19:47,090
+C'est la seule chose que nous pouvons faire.
+
+283
+00:20:04,440 --> 00:20:06,440
+Kanayo.
+
+284
+00:20:11,950 --> 00:20:13,950
+Il est mort.
+
+285
+00:20:16,180 --> 00:20:18,300
+C'est ce qui va nous arriver ?
+
+286
+00:20:39,650 --> 00:20:41,650
+Un de moins pour vous alimenter.
+
+287
+00:21:00,940 --> 00:21:02,900
+Prenez le !
+
+288
+00:21:30,800 --> 00:21:32,600
+Comment va t-il ?
+
+289
+00:21:34,550 --> 00:21:39,000
+Il dort finalement, et nécessairement.
+
+290
+00:21:41,270 --> 00:21:43,470
+A t'il mentionnné quelque chose sur Sheppard ou les autres ?
+
+291
+00:21:43,480 --> 00:21:49,300
+Non pas encore, notre
+conversation était d'une autre sorte.
+
+292
+00:21:49,500 --> 00:21:55,280
+Je me sens un peu comme le prêtre dans “L'Exorciste”.
+
+293
+00:21:57,900 --> 00:22:04,020
+Le pire est passé, les nausées sont passées,
+son rythme est redevenu normal.
+
+294
+00:22:04,020 --> 00:22:09,220
+Ainsi que sa pression sanguine considerant
+son hypertension avant qu'il prenne de l'enzyme.
+
+295
+00:22:09,220 --> 00:22:10,220
+Bien.
+
+296
+00:22:10,670 --> 00:22:14,740
+Je déteste le dire, mais c'est
+son obstination qui l'a sauvé.
+
+297
+00:22:17,300 --> 00:22:18,980
+Nous ne lui dirons pas.
+
+298
+00:22:18,980 --> 00:22:20,860
+Oui, on ne doit pas nourrir la bête.
+
+299
+00:22:21,830 --> 00:22:22,590
+Non.
+
+300
+00:22:24,380 --> 00:22:27,400
+Prenez un peu de repos vous semblez epuisé.
+
+301
+00:22:27,600 --> 00:22:30,290
+Je resterai avec lui encore un petit peu plus longtemps.
+
+302
+00:22:30,480 --> 00:22:31,920
+Juste pour m'assurer qu'il est sorti d'affaire.
+
+303
+00:22:35,090 --> 00:22:36,290
+Carson.
+
+304
+00:22:37,540 --> 00:22:39,330
+Beau travail.
+
+305
+00:22:39,340 --> 00:22:41,150
+Merci Elisabeth.
+
+306
+00:22:46,050 --> 00:22:48,390
+Allez mon pote, tiens le coup et ne nous laisse pas.
+
+307
+00:22:50,480 --> 00:22:51,600
+Désolé Monsieur.
+
+308
+00:22:51,980 --> 00:22:53,130
+Non non pas de ça.
+
+309
+00:22:53,130 --> 00:22:57,170
+La mission n'est pas finie, souvenez vous que la mission
+n'est pas finie, nous devons encore trouver le moyen
+de sortir d'ici. Vous m'entendez ?
+
+310
+00:22:57,170 --> 00:23:01,360
+- Oui Monsieur
+- Aiden, vous pouvez vous en sortir.
+
+311
+00:23:06,090 --> 00:23:07,080
+Ecartez vous de lui.
+
+312
+00:23:09,960 --> 00:23:12,240
+- Qu'allez vous faire de lui ?
+- Ecartez-vous.
+
+313
+00:23:12,250 --> 00:23:16,350
+- Il est malade.
+- C'est pourquoi nous le prenons.
+
+314
+00:23:26,640 --> 00:23:29,700
+Où ? Où l'emmenez vous ?
+
+315
+00:23:30,820 --> 00:23:32,800
+A un cocon...
+
+316
+00:23:34,040 --> 00:23:37,460
+Pour le preserver, l'empêcher de mourrir.
+
+317
+00:23:39,440 --> 00:23:42,130
+Afin de se nourrir.
+
+318
+00:23:57,820 --> 00:24:00,000
+Je suis désolée.
+
+319
+00:24:01,450 --> 00:24:05,400
+C'est de ma faute si vous avez été pris, je
+n'aurais pas dû vous demander de vous arrêter.
+
+320
+00:24:06,410 --> 00:24:12,240
+C'est pas grave, Vous étiez prisonnière de l'un de ces
+cocons donc il est normal que vous vouliez en sortir.
+
+321
+00:24:12,240 --> 00:24:14,920
+Maintenant votre ami est en train de prendre ma place.
+
+322
+00:24:14,920 --> 00:24:17,900
+Pas pour longtemps, je vais me battre pour l'aider.
+
+323
+00:24:20,040 --> 00:24:22,070
+Comment allez vous nous sortir de là ?
+
+324
+00:24:23,470 --> 00:24:28,440
+Ok, je n'ai pas encore reflechi à cette partie,
+mais ce que je ferais sera très impressionnant.
+
+325
+00:24:28,440 --> 00:24:30,950
+Les Wraiths ne nous autoriseront pas à nous échapper.
+
+326
+00:24:31,110 --> 00:24:35,090
+Oh, laissez moi essayer avant de dire si je peux ou pas.
+
+327
+00:24:35,100 --> 00:24:37,180
+Ils ne vous font pas peur ?
+
+328
+00:24:37,180 --> 00:24:39,940
+Les Wraiths, non...
+
+329
+00:24:40,370 --> 00:24:44,820
+Les clowns oui, c'est une
+autre histoire, assez effrayante.
+
+330
+00:24:51,130 --> 00:24:52,090
+Je vous attendais.
+
+331
+00:24:52,120 --> 00:24:56,000
+Ah, oui probablement, pour se moquer de l'idiot.
+
+332
+00:24:56,000 --> 00:24:57,550
+Vous nous avez vraiment effrayé.
+
+333
+00:24:57,550 --> 00:25:02,990
+Ah c'est très étrange, pendant tout le temps où j'étais sous
+l'influence de l'enzyme, je pensais que j'étais
+totalement lucide, même éloquent.
+
+334
+00:25:02,990 --> 00:25:08,170
+Que c'était vous qui ne compreniez pas ce
+que je disais ou que vous ne vouliez pas
+m'entendre. C'est très particulier.
+
+335
+00:25:08,170 --> 00:25:11,260
+Je pense que je peux comprendre
+comment Ford est resté comme ça.
+
+336
+00:25:11,260 --> 00:25:16,560
+Rodney, que s'est il passé là-bas et où sont les autres ?
+
+337
+00:25:16,560 --> 00:25:19,500
+Je ne sais pas exactement mais
+je pense que je peux le découvrir.
+
+338
+00:25:19,500 --> 00:25:20,550
+J'ai dit que Ford était en vie.
+
+339
+00:25:20,580 --> 00:25:21,860
+Vous l'avez dit mais je ne vous ai pas cru.
+
+340
+00:25:21,870 --> 00:25:28,370
+Il est très résistant. Il a été occupé aussi,
+il a monté un gang et les a tous dopés à l'enzyme.
+
+341
+00:25:28,370 --> 00:25:34,240
+Et il nous a capturés, drogués et forcés Sheppard, Teyla
+et Ronon à le rejoindre pour détruire un vaisseau ruche.
+
+342
+00:25:34,240 --> 00:25:36,440
+Un vaisseau ruche ?
+
+343
+00:25:36,440 --> 00:25:39,700
+Il a même volé un Dart, quand je
+vous disais qu'il a été occupé...
+
+344
+00:25:39,700 --> 00:25:42,570
+Mais quand ils ne sont pas revenus de la mission
+j'ai réalisé que quelque chose ne tournait pas rond.
+
+345
+00:25:42,570 --> 00:25:46,400
+Maintenant, j'ai les coordonnées de la planète
+où le vaisseau ruche doit faire sa récolte.
+
+346
+00:25:46,400 --> 00:25:51,270
+Donc l'équipe est encore en vie, surement capturée dans
+le vaisseau, il y a une chance que nous les secourions.
+
+347
+00:25:51,270 --> 00:25:53,650
+Si on atteint la planète avant la fin de la récolte.
+
+348
+00:25:53,720 --> 00:25:55,200
+Je vais prévenir le colonel Caldwell.
+
+349
+00:25:55,240 --> 00:25:56,110
+Très bien.
+
+350
+00:26:04,000 --> 00:26:05,800
+Comment vous sentez-vous?
+
+351
+00:26:09,840 --> 00:26:11,340
+Mieux.
+
+352
+00:26:12,250 --> 00:26:13,750
+Et vous?
+
+353
+00:26:14,640 --> 00:26:16,140
+Prêt à m'échapper.
+
+354
+00:26:18,800 --> 00:26:21,680
+Avez vous trouvé une manière pour nous échapper ?
+
+355
+00:26:22,640 --> 00:26:25,810
+Je pense que notre seule chance c'est
+d'essayer de créer une diversion...
+
+356
+00:26:25,810 --> 00:26:29,160
+...pour les maitriser la prochaine fois qu'ils viennent içi.
+
+357
+00:26:32,970 --> 00:26:35,480
+Avez vous pensé au Lieutenant Ford ?
+
+358
+00:26:36,390 --> 00:26:40,200
+Si son sevrage est aussi sévère que pour Kanayo ?
+
+359
+00:26:42,760 --> 00:26:47,170
+Si il vous distrait, sortez vous le de l'esprit.
+
+360
+00:26:47,170 --> 00:26:52,010
+Si il vous remplit de colère, utilisez là.
+
+361
+00:26:57,400 --> 00:27:02,170
+Avez vous quelque chose de coupant, couteau, épingle
+à cheveux, n'importe quoi qui permettrait
+de piquer la peau de ces murs ?
+
+362
+00:27:02,170 --> 00:27:03,170
+Non.
+
+363
+00:27:03,890 --> 00:27:06,950
+Comme tout le monde dans ma vie semblait en avoir donc...
+
+364
+00:27:06,950 --> 00:27:09,880
+Vos hommes ont aussi été pris par les Wraiths.
+
+365
+00:27:10,760 --> 00:27:12,230
+Je le sens.
+
+366
+00:27:12,910 --> 00:27:18,120
+Mon monde d'origine a été détruit,
+mon peuple enlevé et envoyé içi.
+
+367
+00:27:18,870 --> 00:27:22,630
+Je les ai vus, ma mère et mon frère les ont nourris.
+
+368
+00:27:24,240 --> 00:27:26,160
+Désolé d'entendre ça.
+
+369
+00:27:26,160 --> 00:27:30,850
+Nous n'avions aucun moyen de combattre les
+Wraiths, nous n'étions que des gens simples et pacifiques.
+
+370
+00:27:30,850 --> 00:27:36,020
+Nous sommes pacifiques aussi, mais la bonne nouvelle c'est
+que nous avons les moyens de nous lever et nous battre.
+
+371
+00:27:36,020 --> 00:27:38,270
+Vous les avez déjà combattus ?
+
+372
+00:27:38,271 --> 00:27:46,290
+Plusieurs fois, nous avons gagné des batailles
+et perdu d'autres. La guerre sera longue
+mais nous parvenons à résister.
+
+373
+00:27:47,150 --> 00:27:51,490
+- Et les clowns ?
+- Les Clowns ?! Ah oui les Clowns.
+
+374
+00:27:51,490 --> 00:27:53,280
+Nous les combattons aussi.
+
+375
+00:27:53,750 --> 00:27:56,750
+Des armées entières qu'ils nous envoient par wagons.
+
+376
+00:27:57,580 --> 00:28:03,800
+Nous faisons de notre mieux pour les
+combattre mais ils continuent d'arriver.
+
+377
+00:28:07,110 --> 00:28:10,110
+Selon les rapports de Ford, la
+planète doit avoir une porte Spatiale.
+
+378
+00:28:10,110 --> 00:28:14,070
+Si nous nous y rendons rapidement en Jumper, nous serons
+tout juste capables de les prevenir de la récolte imminente.
+
+379
+00:28:14,070 --> 00:28:15,410
+- Avons nous assez de temps?
+- Oui.
+
+380
+00:28:15,410 --> 00:28:17,260
+- Nous pensons. - Nous
+devrions. - Nous esperons...
+
+381
+00:28:17,261 --> 00:28:21,910
+Ce sera juste oui mais en utilisant le Daedalus, nous
+pourrons avoir un repérage radio des membres de
+l'équipe de Sheppard dans le vaisseau ruche.
+
+382
+00:28:21,910 --> 00:28:24,250
+Si ils sont toujours en vie nous pourrons les téléporter.
+
+383
+00:28:24,260 --> 00:28:26,600
+Très bien, on décolle.
+
+384
+00:28:26,600 --> 00:28:30,190
+- Vous venez avec nous?
+- Euh non... non...
+
+385
+00:28:33,200 --> 00:28:34,700
+Très bien...
+
+386
+00:28:44,490 --> 00:28:46,530
+Pour la chaleur.
+
+387
+00:28:51,330 --> 00:28:52,830
+Ok...
+
+388
+00:28:54,690 --> 00:28:59,000
+- Comme ça c'est mieux ?
+- Oui merci.
+
+389
+00:29:02,220 --> 00:29:04,830
+Combien de temps vont-ils nous garder ici?
+
+390
+00:29:04,830 --> 00:29:07,700
+C'est une très bonne question...
+
+391
+00:29:09,080 --> 00:29:13,070
+Si vous êtes capable de vous échapper, où irai je ?
+
+392
+00:29:14,100 --> 00:29:16,420
+Partout où vous voulez...
+
+393
+00:29:18,870 --> 00:29:21,610
+Puis-je aller avec vous sur votre monde ?
+
+394
+00:29:23,150 --> 00:29:28,580
+Bien sûr, pourquoi pas, je suis sûr que nous
+pourrons trouver une chambre disponible.
+
+395
+00:29:30,300 --> 00:29:32,250
+J'aimerais ça.
+
+396
+00:29:34,780 --> 00:29:38,230
+A quoi ça ressemble, votre monde ?
+
+397
+00:29:40,690 --> 00:29:46,110
+Il est beau, confortable, bon climat.
+
+398
+00:29:47,140 --> 00:29:49,350
+Dites moi à quoi il ressemble.
+
+399
+00:29:50,130 --> 00:29:52,850
+Un peu comme les autres mondes je suppose.
+
+400
+00:29:52,850 --> 00:29:59,430
+Arbres, eau, montagnes,
+StarBucks (restos) dans tous les coins.
+
+401
+00:30:00,470 --> 00:30:02,160
+Comment s'appelle t'il?
+
+402
+00:30:07,080 --> 00:30:10,970
+Euh, nous avons à faire donc nous ferions mieux de dormir.
+
+403
+00:30:11,680 --> 00:30:16,400
+Oui, bien sûr.
+
+404
+00:30:37,900 --> 00:30:39,400
+Qu'est ce que c'est ?
+
+405
+00:30:39,400 --> 00:30:44,280
+Je ne sais pas, nous avons dû sortir de l'hyperespace.
+
+406
+00:30:45,070 --> 00:30:47,300
+Peut-être qu'ils sont prêts pour la récolte.
+
+407
+00:30:49,490 --> 00:30:51,020
+Prenez le.
+
+408
+00:31:15,950 --> 00:31:18,220
+Pouvons nous parler maintenant ?
+
+409
+00:31:18,660 --> 00:31:20,100
+A propos de ?
+
+410
+00:31:21,160 --> 00:31:25,330
+- Vous êtes tétu ?
+- Oui je le suis.
+
+411
+00:31:25,330 --> 00:31:28,850
+Et elle est plutot jolie d'ailleurs...
+
+412
+00:31:32,090 --> 00:31:38,620
+Neyra, la fille que vous avez mise dans le cocon, afin que
+nous la libérions quand vous nous avez laissé nous échapper.
+
+413
+00:31:39,000 --> 00:31:41,780
+Je suppose qu'elle devait obtenir des informations de moi.
+
+414
+00:31:42,280 --> 00:31:44,250
+Mais ce n'est pas arrivé.
+
+415
+00:31:51,470 --> 00:31:56,960
+On sort de l'hyperespace, de l'autre coté de la planète
+qui nous sert de bouclier contre le vaisseau ruche
+et on prend contact avec le colonel Sheppard.
+
+416
+00:31:56,960 --> 00:31:59,060
+Nous ne pourrons établir de contact
+radio au travers de la planète.
+
+417
+00:31:59,090 --> 00:32:05,340
+C'est pourquoi, vous et le major allez prendre un Jumper
+furtif et vous approchez du vaisseau afin de déterminer
+si le Cl. sheppard et son équipe sont toujours
+à bord du vaisseau. Et si ils le sont...
+
+418
+00:32:05,350 --> 00:32:08,590
+... nous bougerons de l'autre coté
+de la planète et les téléporterons.
+
+419
+00:32:08,580 --> 00:32:09,530
+Et si il n'y sont pas ?
+
+420
+00:32:10,290 --> 00:32:12,690
+On téléporte une tête Nucléaire
+dans le vaisseau et on le détruit.
+
+421
+00:32:12,990 --> 00:32:14,880
+Et si ils nous brouillent comme ils l'ont déjà fait ?
+
+422
+00:32:14,910 --> 00:32:20,530
+Docteur, vous vous occupez de sortir le Cl sheppard
+et son équipe hors de ce vaisseau, et je m'occupe
+de sa destruction, OK ?
+
+423
+00:32:31,150 --> 00:32:35,840
+Ah vous voilà, c'est une chambre que
+je récupère mais très bel essai dans la cellule.
+
+424
+00:32:36,990 --> 00:32:41,350
+Je me doutais qu'il y avait une bonne raison qui vous a
+poussé à nous séparer, mais c'était bien joué.
+
+425
+00:32:41,860 --> 00:32:43,290
+Où l'avez vous trouvée ?
+
+426
+00:32:43,740 --> 00:32:46,970
+Elle fait partie des  plusieurs
+milliers qui sont venus nous servir.
+
+427
+00:32:48,380 --> 00:32:51,950
+Même nous vénérer.
+
+428
+00:32:54,680 --> 00:32:56,080
+Ils font ce que je désire...
+
+429
+00:33:00,330 --> 00:33:02,820
+...et je les laisse vivre.
+
+430
+00:33:04,280 --> 00:33:06,920
+Des vénérateurs de Wraiths ? ouahh...
+
+431
+00:33:07,520 --> 00:33:12,060
+La prophétie du grand réveil vient du
+passé, depuis la nuit des temps et au delà.
+
+432
+00:33:12,080 --> 00:33:16,380
+Ouais, ouais je sais déjà tout ça car je suis des votre aussi.
+
+433
+00:33:16,770 --> 00:33:21,000
+Mais dans mon cas ce n'est pas pour le culte mais
+pour des relations d'affaires que je suis venu.
+
+434
+00:33:21,010 --> 00:33:24,990
+- Vous mentez
+- OK, dites moi alors...
+
+435
+00:33:25,000 --> 00:33:27,750
+... comment aurais je pu me procurer un dart ?
+
+436
+00:33:27,720 --> 00:33:32,510
+Et qui aurait pu me donner les instructions
+spécifiques pour infiltrer votre ruche et la détruire ?
+
+437
+00:33:33,620 --> 00:33:37,970
+- De quelle reine parlez vous ?
+- Vous avez déja bien une idée n'est ce pas ?
+
+438
+00:33:38,090 --> 00:33:40,380
+Regardez...
+
+439
+00:33:40,380 --> 00:33:42,980
+L'autre ruche qui vous a rejoint pour la récolte.
+
+440
+00:33:43,890 --> 00:33:46,480
+Toujours autant de gens pour
+se nourrir mais il faut partager.
+
+441
+00:33:47,020 --> 00:33:48,930
+Je vais lui parler de cela.
+
+442
+00:33:48,930 --> 00:33:51,820
+Vous ne pensez pas vraiment qu'elle
+admettrait avoir essayé de vous faire tuer?
+
+443
+00:33:52,110 --> 00:33:54,060
+Assez !
+
+444
+00:33:58,560 --> 00:34:01,500
+Je vais savourer votre défiance.
+
+445
+00:34:18,380 --> 00:34:19,960
+Comment avez vous recupéré nos armes ?
+
+446
+00:34:19,960 --> 00:34:23,830
+C'était le plus facile, mais
+trouver plus d'enzyme fut très dur.
+
+447
+00:34:27,880 --> 00:34:30,020
+Vous êtes qu'un sale Fils de Pute.
+
+448
+00:34:30,610 --> 00:34:31,460
+Que faites vous ?
+
+449
+00:34:32,120 --> 00:34:36,790
+Prenez ce hall, 50m, tournez à gauche en
+direction de la cellule de Teyla et Ronon.
+
+450
+00:34:36,820 --> 00:34:39,360
+- Je retiens les Wraiths pour vous.
+- Vous venez avec moi.
+
+451
+00:34:40,300 --> 00:34:43,280
+Je retiens les Wraiths Patron,
+Maintenant allez y ça ira.
+
+452
+00:34:43,281 --> 00:34:45,020
+Pas sans vous lieutenant.
+
+453
+00:34:45,030 --> 00:34:50,910
+- John, je vous rattrape. Maintenant allez-y.
+- Ford. Bordel.
+
+454
+00:34:55,190 --> 00:34:56,700
+Tu es prête ?
+
+455
+00:35:03,920 --> 00:35:04,330
+Hey.
+
+456
+00:35:04,690 --> 00:35:07,640
+- Que diriez vous que je vous fasse sortir d'ici ?
+- Si ça ne vous dérange pas.
+
+457
+00:35:12,100 --> 00:35:13,760
+Je dois mettre la main sur l'un d'eux.
+
+458
+00:35:14,400 --> 00:35:18,060
+- Où est Kanayo?
+- Il est mort. Ford?
+
+459
+00:35:18,060 --> 00:35:20,570
+J'en suis désolé mais il est resté derrière moi.
+
+460
+00:35:31,390 --> 00:35:33,190
+Jumper  1 : vous avez l'autorisation.
+
+461
+00:35:33,190 --> 00:35:36,460
+On y va;  Furtivité engagée.
+
+462
+00:35:50,300 --> 00:35:53,250
+Oh non, ils sont deux.
+
+463
+00:35:53,250 --> 00:35:55,270
+- Vous aviez dit qu'il n'y en aurai qu'un !
+- Il n'y en avait qu'un !
+
+464
+00:35:55,270 --> 00:35:57,370
+- Maintenant ils sont deux !
+- Je peux le voir !
+
+465
+00:35:58,060 --> 00:35:59,930
+Essayez de contacter le Cl. Sheppard.
+
+466
+00:36:08,080 --> 00:36:09,300
+La récolte commence.
+
+467
+00:36:10,150 --> 00:36:12,200
+- On doit l'arrêter.
+- Comment ?
+
+468
+00:36:12,260 --> 00:36:15,640
+Restez içi, et quand je vous donne
+mon signal, vous sortez dans l'entrée.
+
+469
+00:36:21,640 --> 00:36:23,470
+Jumper 1 : quel est votre état ?
+
+470
+00:36:23,470 --> 00:36:28,070
+Nous n'avons pu établir le contact avec le
+Cl. Sheppard et son équipe dans aucun des vaisseaux.
+
+471
+00:36:28,070 --> 00:36:32,730
+Ce qui ne veut pas nécessairement dire qu'il ne sont pas
+dans un des vaisseaux, on a pu leur prendre leur radio.
+
+472
+00:36:32,720 --> 00:36:35,350
+Nous ne pouvons pas faire de suppositions.
+Revenez sur le Daedalus immédiatement.
+
+473
+00:36:36,360 --> 00:36:38,030
+On y est presque maintenant.
+
+474
+00:36:38,030 --> 00:36:41,200
+Bien, nous devons nous charger
+de ces vaisseaux avant la récolte.
+
+475
+00:36:52,930 --> 00:36:54,360
+Est-ce que c'est le signal ?
+
+476
+00:36:54,370 --> 00:36:56,020
+Ca à intérêt.
+
+477
+00:37:05,560 --> 00:37:08,420
+Ah je suis sûr que ça va marcher.
+
+478
+00:37:37,170 --> 00:37:38,510
+Puissance maximum sur les boucliers.
+
+479
+00:37:39,690 --> 00:37:41,660
+- Sommes nous à distance de transport ?
+- Oui monsieur.
+
+480
+00:37:41,680 --> 00:37:44,400
+Nous avons une arme verrouillée à
+l'intérieur du premier vaisseau ennemi.
+
+481
+00:37:44,420 --> 00:37:46,290
+Prêt à tirer.
+
+482
+00:37:47,630 --> 00:37:50,240
+L'ennemi a mit en place des contres
+mesures pour bloquer notre transport.
+
+483
+00:37:50,300 --> 00:37:51,310
+Ils nous brouillent encore.
+
+484
+00:37:52,200 --> 00:37:55,820
+- On est sous le feu.
+- En position, pour répliquer.
+
+485
+00:38:05,350 --> 00:38:07,020
+Ce n'est pas bon.
+
+486
+00:38:07,660 --> 00:38:09,720
+Pas bon, pas bon.
+
+487
+00:38:21,000 --> 00:38:22,090
+A combien en sont les boucliers ?
+
+488
+00:38:22,090 --> 00:38:24,380
+Pas beaucoup, on en est déjà à 20%.
+
+489
+00:38:26,100 --> 00:38:28,000
+Nos hommes ont été aux mains des Wraiths trop longtemps.
+
+490
+00:38:28,000 --> 00:38:32,420
+On doit supposer que nous avons été compromis,
+et que les Wraiths savent qu'Atlantis n'a pas
+été détruite, nous devons gagner.
+
+491
+00:38:49,340 --> 00:38:51,220
+Regardez ! Vous voyez ça ?
+
+492
+00:38:51,380 --> 00:38:51,900
+Quoi ?
+
+493
+00:38:51,900 --> 00:38:53,690
+C'est un Dart qui s'attaque au vaisseau ruche.
+
+494
+00:38:53,740 --> 00:38:54,750
+Pourquoi ?
+
+495
+00:38:56,000 --> 00:38:57,470
+Sheppard !
+
+496
+00:39:19,200 --> 00:39:20,840
+Je n'en crois pas mes yeux.
+
+497
+00:39:21,360 --> 00:39:24,650
+Il attaque les vaisseaux, c'est
+pour les pousser à se tirer dessus.
+
+498
+00:40:01,390 --> 00:40:04,620
+Tout a été détruit dans un rayon de 15 000 mètres.
+
+499
+00:40:04,790 --> 00:40:06,760
+Y a t-il des Darts survivants ?
+
+500
+00:40:06,940 --> 00:40:07,760
+Négatif Monsieur.
+
+501
+00:40:24,550 --> 00:40:26,770
+Bien reçu, Atlantis terminé.
+
+502
+00:40:26,870 --> 00:40:27,770
+Dr. Weir !
+
+503
+00:40:32,670 --> 00:40:37,660
+Nous avons reçu ceci du Daedalus. Ils disent
+qu'ils seront de retour sur Atlantis dans 19h.
+
+504
+00:40:37,650 --> 00:40:39,550
+Ils parlent des recherches?
+
+505
+00:40:39,550 --> 00:40:42,090
+Ils disent qu'ils n'y avait rien à chercher.
+
+506
+00:40:44,180 --> 00:40:45,880
+Merci.
+
+507
+00:40:56,900 --> 00:40:58,640
+Activation extérieure de la porte.
+
+508
+00:40:59,990 --> 00:41:01,000
+Qui est-ce ?
+
+509
+00:41:01,140 --> 00:41:02,660
+On a un code d'authentification.
+
+510
+00:41:02,660 --> 00:41:03,880
+Le code du Colonel Sheppard.
+
+511
+00:41:03,880 --> 00:41:05,100
+Laissez le entrer.
+
+512
+00:41:17,030 --> 00:41:18,870
+Désolé nous sommes en retard.
+
+513
+00:41:39,200 --> 00:41:41,410
+Vous allez bien, vous pouvez y aller.
+
+514
+00:41:42,340 --> 00:41:43,730
+Pourquoi vous n'êtes pas morts ?
+
+515
+00:41:43,740 --> 00:41:45,130
+Heureux de vous revoir aussi Rodney.
+
+516
+00:41:45,170 --> 00:41:48,580
+Non non, ce que je veux dire, vous savez ce que
+je veux dire, pourquoi n'êtes vous pas morts ?
+
+517
+00:41:49,200 --> 00:41:51,060
+Bien quand j'ai vu que les vaisseaux se tiraient dessus,
+
+518
+00:41:51,060 --> 00:41:53,940
+j'ai compris que ce ne serait plus qu'une
+question de temps avant qu'ils n'explosent.
+
+519
+00:41:53,950 --> 00:41:58,180
+donc je suis entré en orbite et j'ai composé
+une adresse où je pouvais attérir en sécurité.
+
+520
+00:41:58,170 --> 00:41:59,990
+Je ne pensais pas que le Dart aurait pu passer notre porte.
+
+521
+00:42:00,790 --> 00:42:05,110
+Le colonel a été assez gentil pour nous
+rematérialiser et nous sommes rentrés à la maison.
+
+522
+00:42:05,110 --> 00:42:08,060
+Je suis curieux Sheppard, comment saviez
+vous que les Wraiths se tireraient dessus?
+
+523
+00:42:08,060 --> 00:42:13,380
+Euh, les renseignements que j'ai eu de
+Ford et une discussion avec leur reine.
+
+524
+00:42:13,480 --> 00:42:17,290
+Il est apparru que les Wraiths sont encore
+plus territoriaux que nous le pensions.
+
+525
+00:42:17,290 --> 00:42:20,050
+Il y a un moyen de les monter les uns contre les autres.
+
+526
+00:42:20,320 --> 00:42:21,580
+C'est bon pour nous.
+
+527
+00:42:21,580 --> 00:42:26,640
+Sûrement que oui, cela nous ouvre à de
+nouvelles stratégies pour les combattre.
+
+528
+00:42:30,000 --> 00:42:32,480
+Et où est Ford ?
+
+529
+00:42:33,780 --> 00:42:36,430
+Il était à bord du vaisseau quand il a explosé.
+
+530
+00:42:36,470 --> 00:42:39,970
+Il a été vu la dernière fois à bord du vaisseau ruche.
+
+531
+00:42:40,200 --> 00:42:41,710
+Qu'est-ce que ça veut dire ?
+
+532
+00:42:42,600 --> 00:42:44,150
+Vous connaissez Ford.
+
+533
+00:42:44,900 --> 00:42:47,840
+Je ne serais pas surpris si un jour on retombe sur lui.
+
+534
+00:42:54,990 --> 00:42:56,990
+Rapidité / Efficacité - Projet SG
+
+535
+00:42:57,000 --> 00:42:57,060
+h
+
+536
+00:42:57,060 --> 00:42:57,120
+ht
+
+537
+00:42:57,120 --> 00:42:57,190
+htt
+
+538
+00:42:57,190 --> 00:42:57,250
+http
+
+539
+00:42:57,250 --> 00:42:57,320
+http:
+
+540
+00:42:57,320 --> 00:42:57,380
+http:/
+
+541
+00:42:57,380 --> 00:42:57,440
+http://
+
+542
+00:42:57,440 --> 00:42:57,510
+http://p
+
+543
+00:42:57,510 --> 00:42:57,570
+http://pr
+
+544
+00:42:57,570 --> 00:42:57,640
+http://pro
+
+545
+00:42:57,640 --> 00:42:57,700
+http://proj
+
+546
+00:42:57,700 --> 00:42:57,760
+http://proje
+
+547
+00:42:57,760 --> 00:42:57,830
+http://projet
+
+548
+00:42:57,830 --> 00:42:57,890
+http://projet-
+
+549
+00:42:57,890 --> 00:42:57,960
+http://projet-s
+
+550
+00:42:57,960 --> 00:42:58,020
+http://projet-sg
+
+551
+00:42:58,020 --> 00:42:58,080
+http://projet-sg.
+
+552
+00:42:58,080 --> 00:42:58,150
+http://projet-sg.a
+
+553
+00:42:58,150 --> 00:42:58,210
+http://projet-sg.ae
+
+554
+00:42:58,210 --> 00:42:58,280
+http://projet-sg.aer
+
+555
+00:42:58,280 --> 00:42:58,340
+http://projet-sg.aero
+
+556
+00:42:58,340 --> 00:42:58,400
+http://projet-sg.aerof
+
+557
+00:42:58,400 --> 00:42:58,470
+http://projet-sg.aerofr
+
+558
+00:42:58,470 --> 00:42:58,530
+http://projet-sg.aerofra
+
+559
+00:42:58,530 --> 00:42:58,600
+http://projet-sg.aerofran
+
+560
+00:42:58,600 --> 00:42:58,660
+http://projet-sg.aerofranc
+
+561
+00:42:58,660 --> 00:42:58,720
+http://projet-sg.aerofrance
+
+562
+00:42:58,720 --> 00:42:58,790
+http://projet-sg.aerofrance.
+
+563
+00:42:58,790 --> 00:42:58,850
+http://projet-sg.aerofrance.n
+
+564
+00:42:58,850 --> 00:42:58,920
+http://projet-sg.aerofrance.ne
+
+565
+00:42:58,920 --> 00:42:58,990
+http://projet-sg.aerofrance.net
+
+566
+00:42:59,000 --> 00:42:59,600
+http://projet-sg.aerofrance.net
+
+567
+00:43:00,200 --> 00:43:00,700
+http://projet-sg.aerofrance.net
+
+568
+00:43:01,200 --> 00:43:01,600
+http://projet-sg.aerofrance.net
+
+569
+00:43:02,000 --> 00:43:02,300
+http://projet-sg.aerofrance.net
+
+570
+00:43:02,600 --> 00:43:02,800
+http://projet-sg.aerofrance.net
+
+571
+00:43:03,000 --> 00:43:03,100
+http://projet-sg.aerofrance.net
+
+572
+00:43:03,200 --> 00:43:03,260
+http://projet-sg.aerofrance.net
+
+573
+00:43:03,260 --> 00:43:03,330
+http://projet-sg.aerofrance.ne
+
+574
+00:43:03,330 --> 00:43:03,390
+http://projet-sg.aerofrance.n
+
+575
+00:43:03,390 --> 00:43:03,460
+http://projet-sg.aerofrance.
+
+576
+00:43:03,460 --> 00:43:03,520
+http://projet-sg.aerofrance
+
+577
+00:43:03,520 --> 00:43:03,590
+http://projet-sg.aerofranc
+
+578
+00:43:03,590 --> 00:43:03,650
+http://projet-sg.aerofran
+
+579
+00:43:03,650 --> 00:43:03,720
+http://projet-sg.aerofra
+
+580
+00:43:03,720 --> 00:43:03,780
+http://projet-sg.aerofr
+
+581
+00:43:03,780 --> 00:43:03,850
+http://projet-sg.aerof
+
+582
+00:43:03,850 --> 00:43:03,910
+http://projet-sg.aero
+
+583
+00:43:03,910 --> 00:43:03,980
+http://projet-sg.aer
+
+584
+00:43:03,980 --> 00:43:04,040
+http://projet-sg.ae
+
+585
+00:43:04,040 --> 00:43:04,110
+http://projet-sg.a
+
+586
+00:43:04,110 --> 00:43:04,170
+http://projet-sg.
+
+587
+00:43:04,170 --> 00:43:04,240
+http://projet-sg
+
+588
+00:43:04,240 --> 00:43:04,300
+http://projet-s
+
+589
+00:43:04,300 --> 00:43:04,370
+http://projet-
+
+590
+00:43:04,370 --> 00:43:04,430
+http://projet
+
+591
+00:43:04,430 --> 00:43:04,500
+http://proje
+
+592
+00:43:04,500 --> 00:43:04,560
+http://proj
+
+593
+00:43:04,560 --> 00:43:04,630
+http://pro
+
+594
+00:43:04,630 --> 00:43:04,690
+http://pr
+
+595
+00:43:04,690 --> 00:43:04,760
+http://p
+
+596
+00:43:04,760 --> 00:43:04,820
+http://
+
+597
+00:43:04,820 --> 00:43:04,890
+http:/
+
+598
+00:43:04,890 --> 00:43:04,950
+http:
+
+599
+00:43:04,950 --> 00:43:05,020
+http
+
+600
+00:43:05,020 --> 00:43:05,080
+htt
+
+601
+00:43:05,080 --> 00:43:05,150
+ht
+
+602
+00:43:05,150 --> 00:43:05,200
+h
+
+603
+00:43:05,300 --> 00:43:05,520
+P
+
+604
+00:43:05,520 --> 00:43:05,740
+Pr
+
+605
+00:43:05,740 --> 00:43:05,960
+Pro
+
+606
+00:43:05,960 --> 00:43:06,180
+Proj
+
+607
+00:43:06,180 --> 00:43:06,410
+Proje
+
+608
+00:43:06,410 --> 00:43:06,630
+Projet
+
+609
+00:43:06,630 --> 00:43:06,850
+Projet-
+
+610
+00:43:06,850 --> 00:43:07,070
+Projet-S
+
+611
+00:43:07,070 --> 00:43:07,300
+Projet-SG
+
+612
+00:43:07,400 --> 00:43:07,900
+Projet
+
+613
+00:43:08,000 --> 00:43:08,500
+SG
+
+614
+00:43:08,600 --> 00:43:09,100
+Projet
+
+615
+00:43:09,200 --> 00:43:09,700
+SG
+
+616
+00:43:09,800 --> 00:43:10,300
+Projet
+
+617
+00:43:10,400 --> 00:43:10,900
+SG
+
+618
+00:43:11,000 --> 00:43:11,250
+Projet-SG
+
+619
+00:43:11,350 --> 00:43:11,600
+Projet-SG
+
+620
+00:43:11,700 --> 00:43:11,950
+Projet-SG
+
+621
+00:43:12,050 --> 00:43:12,300
+Projet-SG
+
+622
+00:43:12,400 --> 00:43:12,650
+-
+
+623
+00:43:12,750 --> 00:43:13,000
+Projet SG
+
+624
+00:43:13,100 --> 00:43:13,350
+-
+
+625
+00:43:13,450 --> 00:43:13,700
+Projet-SG
+
+626
+00:43:13,800 --> 00:43:14,020
+Projet-SG
+
+627
+00:43:14,020 --> 00:43:14,240
+Projet-S
+
+628
+00:43:14,240 --> 00:43:14,460
+Projet-
+
+629
+00:43:14,460 --> 00:43:14,680
+Projet
+
+630
+00:43:14,680 --> 00:43:14,910
+Proje
+
+631
+00:43:14,910 --> 00:43:15,130
+Proj
+
+632
+00:43:15,130 --> 00:43:15,350
+Pro
+
+633
+00:43:15,350 --> 00:43:15,570
+Pr
+
+634
+00:43:15,570 --> 00:43:15,800
+P
+

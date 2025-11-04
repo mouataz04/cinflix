@@ -1,0 +1,425 @@
+{60}{95}BUREAU FEDERAL D'INVESTIGATION
+{95}{220}Il était une fois un type|au nom improbable de Fox Mulder.
+{235}{312}Il avait eu un début de vie|relativement heureux.
+{315}{385}Des parents aimants,|une petite soeur adorable.
+{387}{500}Il avait un toit, il était vacciné,|II n'avait pas de malformations.
+{502}{560}A part le fait de s'appeler Fox,
+{560}{655}ce qui l'avait sûrement obligé|à savoir se battre,
+{657}{715}sa vie était assez normale.
+{725}{842}Mais le pire coup que prit|le petit Fox fut, de loin,
+{845}{900}ce qui arriva à sa soeur.
+{900}{1000}Un jour, elle disparut.
+{1032}{1087}Fox se mit à étudier comme un forcené.
+{1090}{1210}Il fut major de sa promotion à Oxford|puis à l'école du F.B.I.
+{1212}{1275}Mais ça ne ramena pas sa soeur.
+{1277}{1347}C'était un moyen de faire abstraction.
+{1350}{1440}A mon avis, ça l'a rendu fou
+{1440}{1492}et il l'est encore aujourd'hui.
+{1495}{1555}Fox Mulder a saboté sa brillante carrière
+{1555}{1622}et perdu le respect|de ses supérieurs et de ses amis.
+{1625}{1680}Il menace le ciel du poing
+{1682}{1767}et parle de complots à qui veut l'entendre.
+{1770}{1897}Il est à deux doigts de trimballer|des bo îti es de conserves dans une poussette.
+{1900}{1965}Mais tout ça va changer.
+{2282}{2345}LE GOUVERNEMENT NOUS MENT
+{2705}{2750}LA VERITE EST AILLEURS
+{2780}{2845}Dis-leur la vérité, espèce de menteur.
+{2847}{2910}Ce n'est pas moi.
+{3272}{3325}Tu me détestes, hein?
+{3352}{3420}Je suis désolé d'avoir mouchardé, mais...
+{3442}{3507}J'ai eu peur que tu perdes ton poste.
+{3510}{3575}Tu as bien fait, Mulder.
+{3575}{3632}C'est vrai?
+{3635}{3740}Ca fait des années que je te dis|de suivre le règlement, pas vrai?
+{3770}{3820}Je suis un homme nouveau.
+{4472}{4512}Les gars, prenez... Mais...
+{4525}{4567}Allez, les gars.
+{4685}{4737}Tu n'iras nulle part.
+{4770}{4867}On est officiellement portés disparus.
+{5067}{5120}On est dans la panade.
+{5180}{5272}- Qui êtes-vous?|- Nom de code: Maverick.
+{5275}{5370}Enfin, je ne vais pas|piloter d'avion de si tôt.
+{5370}{5505}- Ca va, madame?|- Je t'emmerde, espèce de gratte-papier.
+{5595}{5657}SIEGE DU F.B.I.|WASHINGTON
+{5882}{5932}Je suis Tiger Woods.
+{6052}{6125}Qu'a dit Kersh?
+{6137}{6200}Il a dit que j'étais têtue,
+{6237}{6307}insoumise et que je jouais perso.
+{6350}{6435}Et que les agents du F.B.I.|doivent avoir l'esprit d'équipe.
+{6437}{6495}Quel con. Et alors?
+{6512}{6605}- 15 jours de mise à pied.|- Tu plaisantes?
+{6640}{6705}Il se prend pour qui?
+{6730}{6780}A dans 15 jours.
+{6895}{7002}Si je te prépare un bon dîner,|ça fera passer un peu la pilule?
+{7005}{7055}Chez moi? A 20 h 00?
+{7470}{7535}Je crois que je lui plais.
+{7552}{7675}Donc, j'étais avec un petit bleu|qui s'occupe des radars
+{7680}{7797}et j'ai eu envie de lui faire conna îti re|des sensations fortes.
+{7825}{7875}J'ai mis les gaz,
+{7877}{7970}j'ai mis la pression à mon chef Buzzsaw.
+{7970}{8017}- Bon...|- Vous pourriez...
+{8020}{8120}Attends. Buzzsaw se met à me coller au cul.
+{8135}{8200}Et quand il te colle au cul, lui...
+{8200}{8270}C'est comme une tique.
+{8270}{8342}Impossible de s'en débarrasser.
+{8345}{8430}Mamie Top Gun, ferme-la, tu veux!
+{8555}{8617}Ici, tu es à ma botte, gringalet.
+{8877}{8940}Le général Wegman veut vous voir.
+{9120}{9235}Vous en avez dans la culotte.
+{9237}{9340}On n'a rien vu. Pourquoi ne pas|nous avoir prévenus dès le début?
+{9365}{9430}- C'est-à-dire?|- C'est pas la bonne.
+{9460}{9537}Vous avez changé la bo îti e noire.|Celle-ci vient d'un...
+{9540}{9605}D'un F-111 qui est à la casse.
+{9615}{9690}Vous avez donné la mauvaise bo îti e au F.B.I.|Pourquoi?
+{9695}{9832}Si tu voulais rouler le F.B.I.,|pourquoi tu ne nous as rien dit?
+{9887}{9955}Comment vous faire confiance?
+{9990}{10095}Il y a des fuites. Comment savoir si|ça ne venait pas de l'un d'entre vous?
+{10095}{10205}J'ai contacté discrètement Scully|pour conna îti re le nom de son contact.
+{10207}{10330}Hélas, son collègue Mulder|a tout foutu en l'air.
+{10332}{10382}Pourquoi ne nous avoir rien dit?
+{10385}{10497}Je savais que vous ne me croiriez pas|avant d'avoir tout compris.
+{10525}{10660}- La bo îti e noire est en sécurité?|- Tout à fait.
+{10660}{10710}- Et vous la ramènerez?|- Bien sûr.
+{10710}{10787}- Et vous la ramènerez?|- Bien sûr.
+{10800}{10860}Vous n'avez pas froid aux yeux.
+{10902}{10970}J'aimerais pouvoir en dire|autant de vos collègues
+{10972}{11045}qui répandent des rumeurs
+{11047}{11150}- et lancent des accusations.|- Le comportement de Morris...
+{11152}{11235}Vous vous en expliquerez|au comité de révision à Washington.
+{11237}{11355}Je leur ai déjà demandé|de prendre des sanctions.
+{11365}{11452}Vous avez de la chance|de ne pas être au bloc.
+{12202}{12267}Des bougies pour la chambre.
+{12350}{12400}Pas de chambre?
+{12792}{12862}Ce type n'a pas tiré un coup depuis dix ans.
+{12960}{13035}RESIDENCE FLETCHER|RACHEL, NEVADA
+{13630}{13715}J'aime bien ton truc dans le nez.
+{13862}{13967}Terry. Terence. Pardon. Ca va?
+{13970}{14055}Maman dit que la justice|va t'interdire de revenir.
+{14632}{14682}- Qu'est-ce que tu fais là?|- Joanne...
+{14682}{14705}- Qu'est-ce que tu fais là?|- Joanne...
+{14710}{14810}- Tes affaires sont dehors. Va-t'en.|- Faut qu'on parle.
+{14812}{14875}J'en ai assez entendu pour toute une vie.
+{14875}{14947}Va en parler à cette traînée de Scully.
+{14950}{15010}L'agent spécial Dana Scully.
+{15012}{15075}- La traînée spéciale Scully.|- On est collègues.
+{15077}{15175}- Tu es censé être avec moi.|- Je ne suis pas Morris Fletcher.
+{15175}{15272}Je suis l'agent spécial Fox Mulder du F.B.I.
+{15275}{15395}Dana Scully est ma collègue.|Je ne suis pas votre mari.
+{15395}{15500}Nous ne nous connaissons pas.|J'essaie de retrouver mon autre vie.
+{15502}{15582}Souvent, quand les hommes|font leur crise de la quarantaine,
+{15585}{15637}ils achètent une voiture de sport.
+{15640}{15702}Ils ne prétendent pas s'appeler Fox.
+{15720}{15835}Regardez par la fenêtre avec moi.|Vous voulez bien?
+{15882}{15937}Vous voyez la voiture?
+{15950}{16020}Et les deux hommes dedans?|lls me surveillent.
+{16022}{16075}Ils m'espionnent.
+{16077}{16217}Morris a un boulot dangereux.|Ces hommes me prennent pour lui.
+{16220}{16265}Ils ne me font pas confiance.
+{16265}{16365}Un faux pas et je suis fini. Votre mari aussi
+{16367}{16472}parce que je ne peux pas rentrer|pour arranger les choses.
+{16550}{16610}Vous me suivez?
+{16660}{16780}Tu n'aimes pas ce que tu es devenu.|Je te comprends.
+{16792}{16872}Mais fuir la réalité n'est pas une solution.
+{16905}{16990}Accepte-toi comme tu es,|même si ça t'écoeure.
+{17207}{17265}Le timing est parfait.
+{17267}{17340}- Bienvenue.|- Ouah!
+{17342}{17345}Ca te pla îti?
+{17345}{17387}Ca te pla îti?
+{17417}{17517}Il était temps que j'arrête|de vivre comme un étudiant.
+{17520}{17572}Viens visiter.
+{17675}{17720}Par ici.
+{17897}{17947}J'ignorais que tu avais une chambre.
+{18012}{18127}Faut bien un endroit où je puisse paresser|et lire le <i>New York Times</i> du dimanche.
+{18165}{18240}- Ca ira, merci.|- Sérieux, essaie.
+{18267}{18317}Sérieux.
+{18505}{18605}Peut-être que je lis le journal à l'envers.
+{18620}{18670}Tu détestes?
+{18705}{18757}Non.
+{18760}{18815}Très bien.
+{18830}{18880}Ne bouge pas.
+{19035}{19160}Prenons du bon temps
+{19282}{19372}C'est ce soir où jamais
+{19675}{19765}- Tu sais ce qui serait sympa?|- Quoi?
+{19940}{20000}- Moi d'abord?|- Toi d'abord.
+{20137}{20192}C'est la première fois.
+{20335}{20385}Et maintenant?
+{20387}{20445}- Vous n'êtes pas Mulder.|- Quoi?
+{20495}{20517}Chérie...
+{20520}{20590}Continuez si vous voulez pisser|dans un cathéter.
+{20590}{20682}Vous êtes M. Fletcher.|C'est Mulder qu'on a arrêté dans le désert.
+{20685}{20745}Il disait la vérité.
+{20747}{20817}Comment revenir à la normale?
+{20912}{21010}Même si je le savais, je ne le ferais pas.
+{21012}{21070}Avec la femme que j'ai, c'est normal, non?
+{21072}{21150}Mes gosses me tueraient|pour toucher l'assurance vie.
+{21150}{21240}J'ai un emprunt de 400 000 $|pour une maison qui en vaut 226 000.
+{21240}{21372}Sans parler du boulot. Je ne passe pas|mon temps à envoûter des gens.
+{21375}{21442}- Y a surtout de la paperasse.|- Vous avez fini?
+{21467}{21545}Pour moi, cette histoire est une bénédiction.
+{21580}{21662}Personne ne vous croira.|Faudra vous habituer à ma présence.
+{21665}{21742}Alors, je te tue. Chéri.
+{21745}{21822}Je ne sais pas comment revenir en arrière.
+{21825}{21902}Et l'informateur|que Mulder devait rencontrer?
+{21905}{21960}Vous savez comment le trouver?
+{21962}{22060}Je n'en ai aucune idée. Pas de chance.
+{22115}{22215}Allô, j'ai une invitée.
+{22217}{22290}Laissez-moi un message. Je vous rappellerai.
+{22292}{22350}Pour la dernière fois,
+{22352}{22460}ce que je peux vous révéler vous intéresse?
+{22460}{22540}Décrochez si vous êtes là.
+{22542}{22640}- Mulder.|- Agent Mulder, écoutez-moi bien.
+{22645}{22732}RESIDENCE FLETCHER|16H47
+{22927}{23020}Les voisins vont avoir de quoi cancaner.
+{23085}{23200}Tu mourrais d'envie de me quitter|et voilà que tu ne veux plus partir.
+{23262}{23315}Où peut-on aller?
+{23335}{23402}- Comment ça?|- Vous avez raison.
+{23405}{23487}On devrait sortir.|Aller dans un endroit où il y a du monde.
+{23490}{23565}Où il y a du monde?
+{23567}{23655}- A Rachel, dans le Nevada?|- Alors?
+{23705}{23775}CHEZ LE PETIT HOMME VERT|TERRIENS BIENVENUS
+{23960}{24015}Reprenons une dernière fois.
+{24017}{24075}J'entre seul, comme vous me l'avez dit.
+{24077}{24165}Il porte une casquette des Buffalo Bills.
+{24170}{24195}Ensuite?
+{24217}{24317}Et si j'essaie de sortir par derrière, blablabla...
+{24320}{24400}- Allez.|- On repart à zéro?
+{24402}{24495}Avec les menottes?|C'est sûrement pas votre truc.
+{25510}{25585}- Tu attends quelqu'un?|- Personne.
+{25587}{25660}Parce que si c'est le cas, dis-le.
+{25662}{25715}Je divorcerai et je garderai la maison.
+{25730}{25795}Reprenez du vin blanc.
+{25985}{26037}C'est vous, le type?
+{26077}{26127}Asseyez-vous.
+{26180}{26237}Ca alors.
+{26325}{26420}La bière, c'est radical. Faut que... Je reviens.
+{26422}{26512}- Vous avez saboté un ovni.|- Moins fort.
+{26537}{26610}Ce n'était pas mon intention.
+{26612}{26695}Je voulais désactiver le mode furtif|pour que vous le voyiez.
+{27107}{27205}- C'est vraiment toi?|- Que fais-tu là?
+{27227}{27285}Je cherche un moyen de t'aider.
+{27470}{27580}- Vous êtes désagréable.|- Pourtant je ne travaille pas à la poste.
+{27595}{27675}Ce que vous cherchez est à vos pieds.
+{29335}{29377}Comment ça va?
+{29380}{29487}- Vous avez vu Morris?|- Ca, oui.
+{29675}{29730}Doucement.
+{29735}{29825}- C'était quoi?|- Je suis un mari minable.
+{29882}{29942}Je vais lui parler.
+{30512}{30567}Alors c'est vous qui voulez ma vie?
+{30632}{30712}Coups de pied au cul compris?
+{30730}{30782}- Ne faites pas ça.|- Si.
+{30785}{30820}- Jeff est ici.|- Et alors?
+{30820}{30877}S'il nous voit ensemble, on est morts.
+{30880}{30945}Surtout s'il voit ça.
+{31090}{31130}Emmenez ça à Scully.
+{31142}{31242}Vous avez les oreilles bouchées. Jeff est là.
+{31245}{31340}Je ne sortirai pas tant qu'il est là.|Sortez discrètement.
+{31342}{31395}- Vous êtes son pote.|- Son pote?
+{31397}{31465}Il ne me fait aucune confiance.
+{31637}{31685}Mince.
+{32520}{32555}- Jeff.|- Général Wegman.
+{32557}{32610}Vous, venez avec moi.
+{32787}{32895}- Qu'est-ce qu'on...|- Retenez cet homme.
+{32962}{33012}Arrêtez.
+{33075}{33115}Salut, les gars.
+{33210}{33340}- C'est quoi?|- De la bière.
+{33342}{33427}- Ce ne serait pas une bo îti e noire?|- C'est de la bière.
+{34075}{34120}Les cons.
+{34300}{34350}Des oeufs à la mexicaine.
+{34545}{34595}Ouvrez.
+{34985}{35050}J'aurais dû faire plus de sauce.
+{35052}{35127}- On a besoin de vous.|- Qui s'est écrasé?
+{35130}{35272}Qui, quoi, pourquoi. On doit savoir|tout ce que révèlera la bo îti e noire.
+{35305}{35412}Elle ressemble à celles des FDR et des SR-71.
+{35467}{35490}Ca, par contre, c'est pas ordinaire.
+{35490}{35542}Ca, par contre, c'est pas ordinaire.
+{35595}{35682}- Vous l'avez trouvée où?|- Groom Lake. Près de la zone 51.
+{35685}{35750}- Dreamland.|- L'avion espion Aurora.
+{35780}{35890}- C'est quoi?|- Un projet top secret.
+{35892}{36007}C'est un appareil hypersonique mû|par de l'hydrogène au point de fusion.
+{36010}{36070}Le méthylcyclohexane.
+{36200}{36275}- Qu'est-ce qu'il a?|- Le nom vous pla îti?
+{36275}{36350}J'hésitais entre "Aurora" et "Borealis".
+{36405}{36477}Qu'est-ce qu'il raconte?
+{36480}{36525}Ce n'est pas Mulder.
+{36630}{36752}Nous pensons|que l'accident de cet appareil-là
+{36755}{36800}a donné lieu à...
+{36970}{37060}Je m'appelle Morris Fletcher.|Je travaille en zone 51.
+{37062}{37155}J'ai pris l'identité de Mulder|lors d'une distorsion espace-temps.
+{37457}{37522}Croyez-moi, je ne suis pas lui.
+{37560}{37650}Je vous aime bien. Les Bandits Solitaires.
+{37652}{37720}Vous êtes mes héros.|Vous en publiez des conneries.
+{37722}{37772}- Nous révélons la vérité.|- La vérité?
+{37775}{37827}C'est pour ça que vous êtes géniaux.
+{37830}{37930}Non seulement vous croyez à ces conneries,|mais en plus vous les publiez.
+{37932}{37955}Regardez.
+{37990}{38037}Saddam Hussein n'existe pas.
+{38077}{38165}C'est John Gillnitz.|Il faisait du café-théâtre dans l'Oklahoma.
+{38167}{38250}Il a fait <i>Le roi et moi.</i> Il joue bien les basanés.
+{38250}{38310}Saddam est une invention du gouvernement?
+{38312}{38410}Je l'ai inventé. On l'a mis en place en 1979.
+{38412}{38495}Il agite son sabre|quand on a besoin de faire diversion.
+{38520}{38617}Si vous saviez le nombre d'histoires|que j'ai inventées aux toilettes.
+{38625}{38707}- Quelles histoires?|- Désolé. Secret-défense.
+{38710}{38780}Je m'appelle Frohike.|Qu'avez-vous fait de Mulder?
+{38782}{38825}Fermez-la tous.
+{38827}{38905}Si vous voulez Mulder,|trouvez-moi des résultats.
+{38935}{38987}Ouah.
+{39077}{39137}Qui est-ce?
+{39140}{39165}Entrez.
+{39237}{39325}Il ne faut plus qu'on nous voit ensemble.
+{39327}{39445}- Fletcher, Mulder, peu importe.|- J'espère qu'on ne se reverra pas.
+{39447}{39550}L'agent Scully va ramener|les résultats de l'analyse de la bo îti e noire.
+{39550}{39610}Ce sera trop tard pour me sauver.
+{39610}{39667}Morris sait que la fuite vient de vous.
+{39670}{39802}Dès votre retour, si vous rentrez,|il me fera dispara îti re.
+{39805}{39900}S'il ne le fait pas,|ses collègues comprendront vite.
+{39902}{40000}- J'ai saboté l'appareil.|- Pourquoi?
+{40000}{40105}Je ne voulais pas qu'il s'écrase.|Juste vous le montrer.
+{40157}{40165}Pourquoi?
+{40165}{40197}Pourquoi?
+{40247}{40377}Parfois on regarde|en arrière plutôt qu'en avant.
+{40380}{40442}On fait le bilan de sa vie.
+{40445}{40527}Toute ma carrière,|j'ai caché la vérité aux gens.
+{40530}{40610}En un sens, j'ai détruit|ce que j'avais de plus précieux.
+{40622}{40667}Quelle est la vérité?
+{40715}{40845}- Vous ne savez pas?|- Je ne sais pas quoi?
+{40847}{40935}La vérité. Ce qui se passe en zone 51.
+{40937}{40995}Ce que sont ces projets occultes?
+{41020}{41085}On fait voler ces appareils.|On ne sait pas comment.
+{41087}{41147}Ils sont conçus dans l'Utah.
+{41227}{41310}Pourquoi m'avoir appelé, alors?
+{41310}{41430}J'ai vu votre dossier.|Vous chassez les ovnis depuis des lustres.
+{41520}{41600}Les extraterrestres existent?
+{41740}{41810}- On a quelque chose.|- C'est bon.
+{41850}{41910}- Quoi?|- On a cassé le code.
+{41912}{42020}On a la télémétrie de 28 systèmes.|Vitesse relative, torsion du fuselage.
+{42022}{42105}Rien d'inhabituel. Mais ça, c'est quoi?
+{42107}{42195}"Flux de tachyons.|Déplacement gravitationnel."
+{42210}{42307}Aurora, mon cul. C'est quoi, cet engin?
+{42310}{42370}Analysez-moi ces données.
+{42422}{42480}- Ca, c'est de moi.|- Bougez-vous le cul.
+{42482}{42542}- Je vais vous manquer.|- Ca m'étonnerait.
+{42545}{42607}- Du calme, Atchoum.|- Ca suffit.
+{42645}{42707}Appelez-moi quand vous aurez des réponses.
+{42752}{42800}Trop fort.
+{42802}{42845}PRES DE LAZONE 51|21H28
+{42847}{42960}- La bo îti e à lettres noire.|- Elle est blanche.
+{42962}{43102}Ils l'ont repeinte pour la cacher. Elle est noire.
+{43105}{43237}D'ici, on a la meilleure vue|de Freedom Mountain et Dreamland.
+{43245}{43382}Un mec en a vu cinq la même nuit.|Ils dansaient dans le ciel.
+{43470}{43525}Vous avez entendu?
+{43570}{43630}Qu'est-ce que...
+{43792}{43850}C'est cool.
+{43885}{43935}Vous avez vu?
+{45160}{45215}T'as pas l'air ravi.
+{45237}{45330}Il va falloir|que je paie les études de deux gosses.
+{45362}{45435}C'est bien toi, hein?
+{45575}{45680}J'étais au téléphone avec Frohike.
+{45742}{45830}Ils ont réussi à analyser|les données de la bo îti e noire.
+{45832}{45905}Il s'est effectivement|passé quelque chose d'anormal.
+{45907}{45985}- Comment je fais, moi?|- Parlons-en.
+{46027}{46140}C'est une question de moments aléatoires|et d'une série de variables
+{46142}{46192}près de l'horizon des événements.
+{46195}{46285}Même si on pouvait recréer cet instant,
+{46287}{46357}si on sabotait un autre appareil...
+{46382}{46450}Si on se trompait...
+{46452}{46557}S'il y avait une milliseconde d'écart...
+{46562}{46640}Je me retrouverais la tête dans un rocher.
+{46672}{46732}C'est possible.
+{47012}{47135}Et lui? Je veux dire moi. Enfin, peu importe.
+{47137}{47215}Mulder est devenu le chouchou de Kersh.
+{47252}{47387}On l'a chargé de ramener la bo îti e noire volée.
+{47407}{47535}Ce qu'il a raconté à Kersh,|je ne le dirais même pas à un prêtre.
+{47540}{47645}- Je viens pour la balade.|- Comment ça: "Pour la balade"?
+{47667}{47717}Je ne suis plus au F.B.I.
+{47752}{47817}On m'a mise à pied.
+{47820}{47930}Raconte-leur ce que tu m'as dit.|Tu as les données.
+{47932}{48015}Tu peux leur expliquer et récupérer ta place.
+{48147}{48205}Je t'embrasserais si tu étais moins laid.
+{48370}{48435}Prenez une photo. Ca se garde.
+{48462}{48595}Si je le tue, c'est un meurtre ou un suicide?
+{48625}{48675}Ni l'un ni l'autre si je m'y colle.
+{50207}{50272}Arrêtez.
+{50275}{50370}Aidez-moi. Ouvrez la fenêtre.
+{50372}{50450}Je dois vous parler.|Je vous en prie, j'ai besoin d'aide.
+{50452}{50532}C'était comme une vague.
+{50535}{50600}C'était tout ondulé.
+{50635}{50725}Leurs visages se sont collés.
+{50725}{50832}Son bras a traversé sa poitrine à lui.
+{50920}{51007}Sam, t'étais où? C'est qui ce type?
+{51062}{51137}Ils étaient dans un sale état.
+{51190}{51242}Je vous crois.
+{51505}{51575}Le type du motel voulait du liquide.
+{51577}{51685}Alors je lui montre mon badge:|"Fox Mulder, F.B.I."
+{51710}{51807}Je lui dis qu'on fait une enquête|sur les motels minables
+{51810}{51865}et qu'il devrait faire gaffe.
+{51865}{51975}Il ne m'a pas fait payer|et il m'a donné un pack de bière.
+{51977}{52035}J'adore ce boulot.
+{52160}{52232}Quand on aura rendu la bo îti e noire,
+{52235}{52340}je pourrais peut-être voir avec le patron|pour qu'il vous reprenne.
+{52345}{52440}On s'amuserait bien,|si vous me connaissiez mieux.
+{52442}{52522}- C'est vrai.|- J'ai toujours mon arme.
+{52535}{52585}Bon, d'accord.
+{52597}{52655}Attendez un instant.
+{52657}{52687}- Reculez.|- Pourquoi?
+{52690}{52725}Reculez.
+{53362}{53415}Je peux vous aider?
+{53475}{53555}Je ne comprends pas. Cet endroit a brûlé.
+{53560}{53617}Ca m'étonnerait.
+{53662}{53712}Il y a deux jours.
+{53715}{53775}Je m'en rappellerais.
+{54357}{54407}Que se passe-t-il?
+{54722}{54820}- Que faites-vous là?|- II s'est passé quelque chose.
+{54822}{54895}N'oublie pas ton fauteuil.
+{54895}{54970}Tu seras heureux avec elle.
+{55075}{55135}Terence, rentre.
+{55215}{55260}Quel culot vous avez.
+{55262}{55330}Je ne suis pas votre mari. C'est lui.
+{55332}{55455}Vous observez ma famille se déchirer?|Ca vous amuse?
+{55480}{55530}Je dois te parler en privé.
+{55545}{55602}Briseuse de ménage.
+{55917}{56000}- Tu vas t'endommager les poumons.|- Laissez-moi.
+{56075}{56187}C'est vrai, je suis ton mari.
+{56202}{56252}Sortez de chez moi.
+{56297}{56440}On s'est mariés le 13 juin 1978. Il pleuvait.
+{56440}{56557}Tu t'es énervée quand j'ai dit|que ton gros cul cachait le gâteau.
+{56682}{56800}Tu te souviens de notre appartement minable|au Pentagone?
+{56802}{56887}L'air conditionné|faisait disjoncter le compteur.
+{56905}{57010}Quand tu étais enceinte,|je te chatouillais les genoux.
+{57037}{57112}Tu te souviens de la nuit où Chris est née?
+{57155}{57232}Elle était toute rouge|et elle hurlait dans mes bras.
+{57235}{57315}C'est la seule fois où je t'ai vu pleurer.
+{57362}{57417}Mon Dieu.
+{57477}{57527}C'est toi?
+{57547}{57577}On y va.
+{57580}{57647}Comment ça? Où l'emmenez-vous?
+{57650}{57775}Il se peut que le phénomène|soit en train de s'inverser.
+{57777}{57860}On doit retourner où tout a commencé.
+{57862}{57910}C'est peut-être notre seule chance.
+{58225}{58290}Un tra îti re reste un tra îti re.
+{58300}{58360}- Ce n'est pas ce que tu crois.|- Je l'ai.
+{58497}{58580}INSTALLATIONS MILITAIRES|ZONE INTERDITE
+{58767}{58802}Monsieur.
+{59192}{59242}- Que faites-vous?|- Le ménage.
+{59245}{59325}- Qu'est-ce que vous dites?|- J'ai remis McDonough et Mme Chee
+{59327}{59390}à leur place. Maintenant, c'est leur tour.
+{59390}{59462}La distorsion fonctionne|comme un élastique.
+{59465}{59535}Il faut qu'on soit sur sa trajectoire.
+{59612}{59645}Pourquoi faites-vous ça?
+{59667}{59750}Jusque là, mon parcours était parfait.|Je veux que ça continue.
+{59750}{59827}Le temps revient comme un élastique?
+{59830}{59935}Ce sera comme si rien ne s'était passé.|Vous aurez tout oublié.
+{59937}{60010}Donc, tout est vrai.
+{60255}{60310}Allons-y.
+{60312}{60352}Allons-y.
+{61230}{61260}C'est moi.
+{61260}{61355}On a échappé à la surveillance de Kersh.
+{61357}{61425}Notre escapade dans le Nevada|est passée inaperçue.
+{61457}{61495}Mulder...
+{61495}{61575}Je suis désolée que ton informateur|n'ait pas assuré.
+{61577}{61675}Tu avais raison. C'est un désaxé|qui a trop regardé <i>Star Trek.</i>
+{61720}{61780}Bonsoir.
+{61795}{61900}Je sais que c'est pas une vie.|Merci de m'avoir accompagné.
+{61925}{61975}De rien.
+{63172}{63212}Sous-titrage Visiontext:|Anne Kosossey
+{63745}{63795}FRENCH

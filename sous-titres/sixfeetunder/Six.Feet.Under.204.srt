@@ -1,0 +1,761 @@
+{1}{1}29.971
+{396}{513}Episode 2x04|DRIVING MR MOSSBACK
+{3199}{3278}Le marché de Pike Place a été instauré en 1907
+{3289}{3368}par des habitants outragés par le prix élevé des produits,
+{3379}{3445}quand le conseiller municipal de Seattle, Thomas Revelle,
+{3453}{3530}a proposé une rue marchande.
+{3544}{3632}Le jour de l'ouverture, le 7 août 1907,
+{3648}{3755}8 fermiers ont amené leurs charrettes à l'angle de la 1e et de Pike,
+{3771}{3890}et ont été pris d'assaut par environ 10000 clients impatients.
+{3882}{3988}A 11h, ils avaient absolument tout vendu.
+{4020}{4103}Voilà qui conclut la première moitié de notre visite du matin.
+{4103}{4151}Je vous le rappelle, je m'appelle Karen,
+{4167}{4221}et vous avez été un super groupe ce matin.
+{4241}{4314}On se retrouve ici au bus à 13h30.
+{4401}{4486}Je ne sais pas toi, mais j'ai besoin d'une putain de cigarette.
+{4633}{4715}Au revoir.
+{4825}{4869}Excusez-moi, monsieur.
+{4939}{5087}Monsieur, c'est l'heure de déjeuner. Vous pouvez descendre|du bus maintenant, on est au marché de Pike Place.
+{5113}{5145}Monsieur ?
+{5398}{5443}Merde.
+{5478}{5571}On a un autre mort à l'arrière, Larry.
+{5993}{6058}Tu as raté les trois dernières séances.
+{6067}{6187}Parfois venir ici vous parler de ma vie|, ça me la pourrit.
+{6237}{6283}Alors pourquoi t'enquiquines-tu à venir aujourd'hui ?
+{6311}{6356}Parce qu'ils ont envoyé une lettre à ma mère
+{6362}{6414}menaçant de me virer si je ne venais pas.
+{6488}{6552}Je pensais que tu voudrais peut-être parler de quelque chose.
+{6561}{6608}Avec vous ?|Mais oui, bien sûr.
+{6681}{6715}Tu es furieuse contre moi ?
+{6755}{6807}Ca vous étonne ?
+{6862}{6974}J'ai été obligé de coopérer avec la police, Claire.|C'est mon boulot.
+{6987}{7058}Et, si tu veux tout savoir, j'étais là pour toi,|pas pour eux.
+{7073}{7117}Ils voulaient t'interroger seule.
+{7147}{7282}Et ils ne l'ont pas encore trouvé,|au cas où tu te le demanderais.
+{7285}{7326}Je ne me le demande pas.
+{7404}{7443}Tu as eu de ses nouvelles ?
+{7448}{7464}Putain, non !
+{7472}{7513}Et si c'était le cas,|je ne vous le dirais pas.
+{7545}{7617}Je tiens à dire que tu as fait ce qu'il fallait|en appelant la police l'autre nuit, Claire.
+{7623}{7671}Je sais que j'ai fait ce qu'il fallait.
+{7678}{7749}La question n'est pas de savoir si j'ai fait|ou non ce qu'il fallait, bordel !
+{7756}{7871}Vu les circonstances, il est parfaitement compréhensible|que tu éprouves de la colère, Claire.
+{7889}{7992}Si vous n'arrêtez pas de dire mon nom|à la fin de chaque phrase, je vais...
+{8004}{8029}Quoi ?
+{8044}{8068}Je ne sais pas.
+{8120}{8167}Mais arrêtez.
+{8187}{8226}D'accord ?
+{8389}{8430}Tu as envie de jeter un truc ?
+{8471}{8504}Pardon ?
+{8525}{8627}Tu pourrais, tu sais, juste choisir un truc|sur mon bureau et le balancer.
+{8646}{8727}Je ne suis pas sûre que vous me laissiez|foutre le bazar sur votre bureau.
+{8737}{8801}Si tu penses que ça puisse te faire du bien,|pas de problème.
+{9148}{9188}Non, merci.
+{9273}{9320}Tu es furieuse contre Gabe.
+{9337}{9364}Tu as peur,
+{9375}{9406}parce que tu ne sais pas ce qui va lui arriver.
+{9476}{9553}Maintenant, je n'en ai rien à foutre de lui.
+{9597}{9649}Ce n'est pas vraiment ce que tu éprouves,|n'est-ce pas ?
+{9719}{9749}Non.
+{10350}{10389}Je me sens mieux, merci.
+{10488}{10514}Il faisait
+{10524}{10600}un de ces voyages organisés en car.
+{10612}{10713}Il en faisait beaucoup, trois ou quatre par an,|depuis le décès de ma mère.
+{10720}{10774}Parfois il partait avec son ami, Pete.
+{10805}{10841}Cette fois, il était seul.
+{10865}{10956}Ils pensent que son coeur a lâché.
+{11003}{11049}Toutes mes condoléances.
+{11067}{11135}Et où est votre père maintenant ?
+{11141}{11208}Il est resté à Seattle.
+{11239}{11375}Les pompes funèbres Columbia le gardent pour nous.|C'est sur l'avenue Rainer.
+{11395}{11498}Pas de problème. Nous pouvons prendre des dispositions|pour le ramener par avion à L.A.
+{11607}{11668}- Par avion ?|- Oui.
+{11674}{11715}Papa ne prend jamais l'avion.
+{11749}{11819}Ca a toujours été sujet à discorde avec maman.
+{11827}{11896}Elle voulait voyager,|mais papa, casanier, refusait.
+{11906}{12049}Et ensuite, après sa mort,|il a commencé à faire tous ces circuits en bus.
+{12055}{12091}Il a...
+{12110}{12177}Il avait un problème avec l'avion.
+{12182}{12220}Il ne l'a jamais pris.
+{12238}{12294}Je suis sûr que, vu les circonstances...
+{12298}{12359}Non, ce n'est pas ce qu'il aurait voulu.
+{12383}{12426}N'y a-t-il pas un autre moyen ?
+{12490}{12538}Nous pouvons prendre des dispositions|pour le ramener par bateau,
+{12560}{12589}train ou par transporteur.
+{12663}{12704}Comme Fed-Ex ?
+{12724}{12753}Vous pouvez faire ça ?
+{12764}{12794}C'est très courant.
+{12824}{12965}On a ramené Abraham Lincoln dans son Illinois natal,|en faisant tout le trajet depuis Washington dans de la glace.
+{13179}{13224}Ca ne devrait pas poser de problème.
+{13308}{13410}Bon, Keith, je reviens dès que ton père est sur pieds.
+{13437}{13482}Et si papy meurt ?
+{13521}{13634}Le frère de mon amie Neisha a été opéré,|et il est mort.
+{13645}{13773}Je te l'ai dit, Taylor. Ce n'est qu'une hernie.|Il n'y a aucune raison de t'en inquiéter.
+{13792}{13850}J'aimerais savoir où est Karla, bon sang.
+{13876}{13936}Elle est toujours à Oakland avec Derrick ?
+{14020}{14090}A-t-elle seulement proposé de rentrer ici|pour s'occuper de son enfant
+{14095}{14147}quand tu lui as dit que tu partais ?
+{14206}{14239}Nous n'avons pas de nouvelles.
+{14391}{14445}Je croyais que tu avais son numéro.
+{14500}{14571}- La ligne a été coupée.|- Merde !
+{14580}{14695}Je t'ai déjà dit, Keith.|Etouffe ce genre de mots devant ta nièce !
+{14729}{14793}Peut-être devrais-je emmener l'enfant avec moi.
+{14815}{14861}Elle sera dans de bonnes mains, d'accord ?
+{14869}{14962}Mon nouvel appartement a une chambre d'amis,|et, entre Eddie et moi, nous nous assurerons qu'elle...
+{14963}{14994}Je ne veux pas aller avec toi !
+{15046}{15088}Pourquoi tu ne peux pas rester ici ?
+{15099}{15143}Parce que mes affaires sont chez moi.
+{15149}{15185}Et mes affaires à moi ?
+{15191}{15218}Tu peux les apporter.
+{15225}{15279}Tu pourrais les voler.
+{15329}{15362}C'est mon taxi.
+{15387}{15421}Taylor, viens, mon ange.
+{15434}{15470}Embrasse ta mamie.
+{15671}{15698}Je t'aime, mamie.
+{15738}{15844}Sois sage, et surveille oncle Keith.
+{15917}{15982}J'essaierai de revenir aussi vite que possible.
+{16328}{16407}Je connais beaucoup de mots pires que "merde", tu sais.
+{16428}{16463}Moi aussi.
+{16645}{16700}Alors ? Comment s'est passée l'admission de Mossback ?
+{16721}{16825}Il faut que l'on trouve un moyen de transporter un corps|depuis ton ancien trou perdu.
+{16836}{16919}Pourquoi pas par avion ?|C'est ce que votre père faisait toujours.
+{16927}{17005}Le défunt avait, semble-t-il, peur de l'avion.
+{17010}{17061}Je crois qu'il s'en fout maintenant, David.
+{17079}{17132}La famille ne veut pas d'avion.
+{17151}{17206}Par route ou par train, les transporteurs|sont complets jusqu'à la semaine prochaine,
+{17216}{17297}et Amtrak ne peut le ramener avant mardi prochain.
+{17317}{17348}Pas de problème.
+{17373}{17462}J'y vais en avion, loue un camion|frigorifique et le ramène.
+{17469}{17569}Tu n'as pas besoin d'un camion frigorifique,|juste d'un camion que tu puisses rendre ici.
+{17570}{17612}Il a déjà été embaumé.
+{17615}{17685}- Encore plus simple.|- Tu ferais ça ?
+{17695}{17767}Prendre l'avion, faire demi-tour|et rentrer en camion ?
+{17772}{17906}Bien sûr. Je n'y suis pas allé depuis Noël.|Je peux voir
+{17919}{18008}Je pense que nous pourrions augmenter le prix du transport|pour couvrir ton voyage.
+{18014}{18051}Quand veux-tu que je parte ?
+{18056}{18110}- Demain ?|- Parfait.
+{18291}{18365}As-tu rencontré récemment homme charmant, David ?
+{18455}{18501}Aucun dont il vaille la peine de parler.
+{18515}{18582}J'aimerais que tu te mettes plus en avant.
+{18587}{18660}La porte de ta maison s'ouvre seulement|de l'intérieur, tu sais.
+{18766}{18855}Nous n'avons pas vu ton ami, Gabriel, ces derniers temps, Claire.
+{18889}{18921}Et alors ?
+{18929}{18987}Tu ne le vois plus aussi souvent ?
+{18997}{19031}Non, en effet.
+{19041}{19094}Vous avez rompu tous les deux ?
+{19102}{19181}Ouais, Gabe a rejoint les Hare Krishna, d'accord ?
+{19188}{19273}Ces gens en robe orange avec des tambourins ?
+{19284}{19371}Et qui essaient de te vendre des livres à l'aéroport.|Ouais, ce sont eux.
+{19387}{19455}Mon Dieu !
+{19504}{19563}Il ne m'avait jamais semblé intéressé par la religion.
+{19569}{19625}Eh bien, à présent, c'est le cas, à plein temps.
+{19631}{19660}A-t-il rasé son crâne ?
+{19665}{19717}Oui, il a rasé son crâne.
+{19722}{19784}Pouvons-nous parler d'autre chose, s'il te plaît ?
+{19848}{19919}Claire, tu veux venir à Seattle avec moi ?
+{19996}{20064}Tu me demandes de venir avec toi à Seattle ?
+{20070}{20116}Oui, pourquoi pas ?
+{20122}{20207}Je ne suis pas sûr de pouvoir coller aux Mossback|un autre billet d'avion, Nate.
+{20212}{20265}- Je le lui paierai.|- C'est vrai ?
+{20270}{20390}Oui. Ecoute, tu me tiendrais compagnie, et en plus,|tu pourrais m'aider en conduisant un peu au retour.
+{20395}{20425}Elle va rater l'école.
+{20429}{20521}Nous ne faisons rien d'important en classe,|et je peux emmener mes devoirs avec moi.
+{20524}{20562}Ce n'est que pour deux jours.
+{20657}{20699}Bon.
+{20707}{20793}Je suis fatiguée d'être l'architecte de cette famille.
+{20802}{20885}Il est grand temps que vous dessiniez vos propres schémas.
+{21160}{21235}Est-ce que quelqu'un comprends ce qu'elle barjote ?
+{21349}{21369}Nate !
+{21373}{21394}Quoi ?
+{21592}{21683}Au fait, je m'envole demain pour Seattle.
+{21701}{21722}Ah oui ?
+{21808}{21876}Je vais chercher un corps et le ramène à David.
+{21897}{21943}Je vais prendre Claire avec moi.
+{21952}{21989}Ca semble sympa.
+{22056}{22106}Tu ne m'en veux pas de ne pas te l'avoir demandé ?
+{22112}{22140}Demandé quoi ?
+{22153}{22196}De venir avec moi.
+{22239}{22324}- Pas le moins du monde.|- Tant mieux.
+{22406}{22423}Tu es sûre ?
+{22476}{22588}Nate, j'essaie de lire,|et tu sais que je déteste te voir
+{22668}{22686}Désolé.
+{22813}{22880}C'est bizarre que je ne t'aie pas demandé|de venir à Seattle avec moi ?
+{22884}{22963}Non, pourquoi ça le serait ?
+{22980}{23044}Je ne sais pas.|Je trouve ça juste un peu bizarre.
+{23053}{23117}D'accord, maintenant c'est un peu bizarre,
+{23123}{23196}mais seulement parce que c'est toi qui le rends un peu bizarre.
+{23201}{23265}- Mais ça ne te contrarie pas ?|- Pas du tout.
+{23289}{23377}Je crois que ça te fait du bien de passer|un peu de temps avec ta soeur.
+{23384}{23435}C'est ce que je crois.
+{23817}{23849}Tu es sûre que ce n'est pas trop bizarre ?
+{23859}{23924}Mon Dieu, Nate, arrête un peu.
+{23994}{24046}- Bonne nuit, Bren.|- Bonne nuit.
+{24898}{24988}Cool ! Sleater Kinney passe ce soir|dans un endroit du nom de Showbox.
+{25011}{25105}Désolé de briser ton élan,|mais le Showbox est interdit aux moins de 18 ans.
+{25144}{25213}Qu'est-ce qui te fait croire que|je n'ai pas une fausse carte d'identité ?
+{25243}{25290}Tu as une fausse carte ?
+{25304}{25394}Tu ne vas pas me ressortir toutes|ces conneries pseudo-paternelles.
+{25404}{25484}Non. J'avais une fausse carte moi aussi.
+{25497}{25569}Je t'accompagnerai peut-être.
+{25590}{25677}- Je n'ai pas besoin d'un baby-sitter, Nate.|- J'adore Sleater Kinney.
+{25703}{25754}Tu adores Sleater Kinney ?
+{25834}{25948}Pourrais-tu essayer pendant une seconde d'admettre|que je puisse être ton ami et ton frère ?
+{26121}{26214}Est-ce tu m'emmènes avec toi en voyage|parce que tu pensais que j'avais besoin d'un peu de distraction ?
+{26238}{26369}Non, je t'ai invitée parce que je pensais que ce serait sympa|de voyager avec toi, mais maintenant j'ai des doutes.
+{26410}{26464}- D'accord.|- Vraiment ?
+{26481}{26533}Je te crois.
+{26647}{26749}- Au fait, où allons-nous dormir ?|- Chez mon amie, Lisa.
+{26758}{26797}C'est ton ex ?
+{26804}{26825}Non.
+{26854}{26889}Non, pas du tout.
+{26925}{26994}Nous étions colocataires, au sens strict, rien de plus.
+{27020}{27063}On travaillait tous les deux à la coopérative.
+{27127}{27295}Elle est plutôt baba cool, toujours le sac au dos,|et dans le grunge ?
+{27307}{27479}Baba cool, peut-être un peu.|Toujours prête à partir, c'est sûr.
+{27484}{27525}Le grunge, pas question.
+{27536}{27608}Le grunge est mort bien avant Kurt Cobain.
+{27623}{27653}En plus, Lisa...
+{27746}{27788}Elle n'est pas facile à cataloguer.
+{27882}{27933}Vous deux, vous l'avez quand même fait une ou deux fois, non ?
+{27939}{28009}- On ne parle pas de ça.|- D'accord.
+{28571}{28599}C'est là.
+{28649}{28695}Charmant.
+{29753}{29849}- Nate !|- Salut, Lisa !
+{29870}{29975}- C'est tellement bon de te ravoir à la maison !|- C'est aussi bon de revenir.
+{30090}{30126}Lisa, voici ma soeur, Claire.
+{30144}{30165}Claire !
+{30383}{30400}Entrez.
+{30986}{31023}Allô, Hiram ?
+{31060}{31090}C'est moi, Ruth.
+{31129}{31168}Je vais bien, et toi ?
+{31211}{31311}Ecoute, la raison de mon appel est que...
+{31396}{31528}Je voulais juste de faire savoir que j'avais|dessiné un nouveau schéma pour moi-même.
+{31580}{31617}Non, pas pour la maison.
+{31654}{31697}Enfin, si, c'est pour la maison, ma maison.
+{31707}{31868}Je veux dire, pas la vraie,|la structure physique où je vis avec ma famille.
+{31883}{31989}Je parle plutôt de la structure affective dans laquelle|j'ai choisi de vivre ma vie.
+{32056}{32084}Non.
+{32096}{32155}Je n'ai certainement pas bu.
+{32195}{32267}J'essaie juste de te dire, Hiram,
+{32284}{32355}que je n'ai aucun ressentiment à ton égard, et...
+{32409}{32486}Non ! Je ne veux pas qu'on se remette ensemble !
+{32513}{32542}Quelle prétention !
+{32622}{32658}Tu sais quoi, Hiram ?
+{32666}{32693}Va te faire foutre !
+{32836}{32898}Amélia ? C'est Ruth.
+{32932}{32998}Je sais qu'on ne s'est pas vues depuis un moment.
+{33009}{33078}Et c'est un peu drôle de dire ça à ton répondeur.
+{33107}{33160}Mais je voulais juste que tu saches
+{33183}{33261}que j'avais dessiné un nouveau schéma pour moi-même,
+{33289}{33386}et si jamais tu cherches une occasion de renouer avec notre amitié,
+{33410}{33457}ma porte t'est ouverte.
+{33504}{33613}C'est tout ce que je voulais dire.|Tu peux me rappeler si tu le veux, d'accord ?
+{33638}{33665}Salut !
+{33780}{33814}Sarah ?
+{33828}{33862}Sarah, tu es là ?
+{33896}{33936}Si tu es là, décroche.
+{34012}{34041}Bon, d'accord.
+{34063}{34116}Je sais que nous ne nous sommes pas parlé|depuis vraiment longtemps,
+{34121}{34169}mais je t'ai laissé trois messages|au cours des 15 derniers jours,
+{34182}{34235}et tu ne m'as pas rappelée.
+{34242}{34305}Je commence à croire que tu ne veux même plus me parler,
+{34311}{34402}et si c'est le cas, eh bien, nous devons vraiment parler !
+{34430}{34544}Je voudrais te parler des fissures dans mes fondations,
+{34553}{34628}et de ton rôle pour m'aider à les réparer.
+{34665}{34693}Ta soeur, Ruth.
+{35112}{35149}Comment ça, tu ne peux pas ?
+{35164}{35238}Eddie, il faut que tu ailles chercher Taylor à l'école à ma place.
+{35264}{35300}Je comprends que tu es occupé...
+{35348}{35397}Tu ne peux pas demander à quelqu'un de te couvrir ?
+{35437}{35569}Putain, je suis coincé ici, dans une pourriture d'endroit.|J'ai besoin que tu fasses cela pour moi.
+{35628}{35687}D'accord, pas grave, et merde.
+{35698}{35736}Quelle connerie d'être là !
+{35746}{35809}J'espère que le gars va la descendre,|histoire d'en finir !
+{35814}{35861}J'ai des places pour les Dodgers ce soir.
+{35934}{35971}Qu'est-ce que j'ai dit ?
+{36152}{36197}- David Fisher.|- David ?
+{36247}{36273}Keith ?
+{36282}{36372}Oui, écoute, j'ai un gros service à te demander.
+{36383}{36407}Qu'est-ce que c'est ?
+{36428}{36472}Je suis coincé à Koreatown.
+{36486}{36558}Un type retient sa belle-mère en otage.
+{36565}{36641}Il prétend qu'elle a jeté sa télécommande|dans le broyeur d'ordures.
+{36652}{36693}Je ne sais pas quand je vais pouvoir partir.
+{36698}{36739}Eddie est très pris au boulot.
+{36761}{36816}Ca ne me plaît pas de te le demander mais...
+{36830}{36956}mais est-ce que tu aurais la possibilité d'aller|chercher Taylor à l'école de Bridgebrook à 15h ?
+{36970}{37022}Oui, certainement. Volontiers.
+{37067}{37096}Tu es sûr ?
+{37101}{37136}Oui, bien sûr.
+{37159}{37203}D'accord, merci.
+{37223}{37318}Je vais appeler l'école pour qu'on sache que tu passes.
+{37344}{37420}- Je passerai prendre Taylor chez toi plus tard.|- Parfait.
+{37485}{37528}Merci. Je te le revaudrai.
+{37537}{37550}Pas de problème.
+{38054}{38084}Qu'est-ce que c'est ?
+{38094}{38171}Un steak au tofu. C'est complètement végétalien.
+{38179}{38250}Ni beurre, ni oeuf.|Aucun ingrédient produit par un animal.
+{38293}{38358}- Pas de viande.|- Pas la moindre.
+{38428}{38471}Alors pourquoi appelles-tu ça un "steak" ?
+{38533}{38591}Tu es une enquiquineuse,|tout comme ton frère, pas vrai ?
+{38629}{38674}C'était son plat favori.
+{38692}{38725}C'est délicieux, Lisa.
+{38792}{38831}Je n'ai pas mis trop d'ail ?
+{38837}{38877}- Pas pour moi.|- Pas du tout.
+{38900}{38947}L'ail est une plante miracle.
+{38981}{39167}Ca aide à diminuer le cholestérol et la tension, ça stimule le système immunitaire, |et empêche la croissance des parasites dans les intestins.
+{39277}{39316}Alors comment ça se passe à la coopérative ?
+{39332}{39392}On a 15% de membres de plus depuis ton départ.
+{39404}{39474}Malgré le fait que les plus grosses entreprises|nous fassent sentir leur poids.
+{39484}{39528}Les choses semblent vraiment bien se passer.
+{39553}{39585}Tu nous manques.
+{39598}{39651}Tu devrais passer pour faire "coucou"|pendant que tu es là.
+{39699}{39809}- Alors ? Comment se passe ton retour à L.A. ?|- Tu sais, ça va.
+{39850}{39910}Qu'est-ce que je peux dire ?|J'ai enfin trouvé un truc où je suis bon.
+{39951}{40051}- J'ai toujours su que tu aurais une vocation spirituelle.|- Mais bien sûr.
+{40134}{40252}Quoi ? Etre directeur de pompes funèbres,|c'est un signe de vocation spirituelle ?
+{40272}{40341}Ce n'est pas exactement ce que j'imaginais pour Nate mais...
+{40363}{40405}ça ne me surprend pas vraiment.
+{40481}{40541}Rien ne te surprend jamais, Lisa.
+{40648}{40682}C'est vrai.
+{40804}{40914}Donc la dernière fois que nous avons parlé,|c'était en janvier, je crois,
+{40920}{40985}tu avais rencontré quelqu'un.
+{40997}{41039}- Brenda.|- Ah oui.
+{41077}{41117}Où tu en es ?
+{41176}{41220}Nous sommes toujours ensemble.
+{41251}{41360}8 mois !|Tu as battu tous tes records, Nate !
+{41401}{41436}On dirait.
+{41452}{41497}Ca me semble une vraie relation.
+{41536}{41666}Comment dire ?|C'est ce que c'est.
+{41710}{41801}Ce que je veux dire, c'est que pour moi,|maintenant, c'est une bonne chose.
+{41831}{41914}- C'est parfait.|- Oui, ça l'est... C'est...
+{41973}{42021}surtout, tu vois,
+{42078}{42101}parfait.
+{42149}{42200}Je suis vraiment contente pour toi, Nate.
+{42288}{42354}Tu sais, on m'a offert un travail à L.A.
+{42423}{42438}C'est vrai ?
+{42456}{42531}Oui, une grosse productrice de passage, pour tourner un film.
+{42545}{42621}Elle cherchait une cuisinière végétalienne,|et m'a offert le poste.
+{42645}{42674}Vraiment ? Quel film ?
+{42721}{42790}Je ne me souviens jamais des titres.|Je ne vais pas au cinéma.
+{42817}{42889}La pellicule est recouverte de gélatine, et cette gélatine vient des sabots des chevaux.
+{42935}{42969}Je ne le savais pas.
+{42976}{43063}Comme la plupart des gens,|d'où l'esclavage des animaux..
+{43195}{43239}Tu as envisagé d'accepter cette offre ?
+{43245}{43353}Je ne sais pas.|L.A. est une ville impie.
+{43390}{43473}En plus, j'ai une vie très remplie ici.
+{43575}{43614}Je peux aller aux toilettes ?
+{43628}{43705}Oui. C'est au fond du couloir,|deuxième porte à gauche.
+{43826}{43867}Elle te ressemble beaucoup.
+{43877}{43902}Tu trouves ?
+{43997}{44053}Mon Dieu. Tu m'as manqué, Nate.
+{44114}{44154}Tu m'as manqué toi aussi.
+{44187}{44250}"Si c'est jaune, laisse.|Si c'est marron, tire la chasse".
+{44329}{44372}Elle ne s'arrête jamais ?
+{45227}{45305}Je crois que vous avez totalement dégagé mes sinus.
+{45347}{45385}Ce n'est pas trop brusque ?
+{45413}{45501}Certains de mes clients me trouvent un peu trop fougueuse.
+{45519}{45568}Non, pas du tout.
+{45619}{45653}J'adore.
+{45685}{45735}Je me sens si bien.
+{45873}{45920}Je dois dire que vous êtes bien détendue.
+{45929}{45999}Peu de tensions aux endroits habituels.
+{46139}{46204}Je suis curieuse. Mélissa, que faites-vous dans la vie ?
+{46226}{46358}Je vous pose la question car je pense changer de métier,
+{46375}{46410}et je suis curieuse.
+{46443}{46496}Je me prostitue.
+{46596}{46628}Sans déconner ?
+{46745}{46782}Sans déconner.
+{46927}{46948}Cool.
+{47211}{47259}J'allais me faire une tasse de thé.|Vous en voulez une ?
+{47282}{47379}J'aimerais bien,|mais je dois retourner au travail.
+{47469}{47522}- A la même heure la semaine prochaine ?|- Pas de problème.
+{47602}{47627}A bientôt.
+{47832}{47849}Allô ?
+{47856}{47897}Bren, bonjour, chérie, c'est maman.
+{47913}{48001}Je suis au Tranquility Spa.|Tu dois me rejoindre ici.
+{48012}{48130}- Pourquoi ?|- Mon coeur, c'est une urgence. Il faut que tu viennes, s'il te plaît.
+{48136}{48243}- Que s'est-il passé ?|- Je suis au Tranquility Spa, Brenda, dans La Caniada.
+{48249}{48323}Je ne te le demanderais pas si ce n'était pas important.
+{48453}{48474}Brenda !
+{48485}{48518}N'entre pas !
+{48530}{48593}Maman ! Lâche mon bras, bordel !|Tu me fais mal.
+{48599}{48710}- C'est la voiture de ton père !|- Donc papa est ici. Et alors ?
+{48717}{48790}Il n'est pas ici ! Il est au travail, j'ai vérifié.
+{48837}{48865}Regarde le tableau de bord.
+{48976}{49030}Ton père ne fume pas de Virginia Slims.
+{49077}{49126}Regarde le levier de vitesses.
+{49252}{49318}Un chouchou !|La belle affaire !
+{49333}{49434}Ton père n'a pas assez de cheveux|pour utiliser un chouchou comme en 1975.
+{49442}{49513}- Alors tu penses que papa a une poule.|- Bingo !
+{49517}{49556}Oh mon Dieu, et c'est tout ?
+{49610}{49690}Je croyais que tu m'appelais depuis l'hôpital,|que quelque chose était arrivé à Billy.
+{49697}{49763}Arrête de tout dramatiser, Brenda.
+{49987}{50104}Bon, Taylor, je dois travailler un peu en bas.|Tu as tout ce qu'il te faut ?
+{50138}{50190}Est-ce que je peux avoir du lait chocolaté ?
+{50218}{50289}Je suis désolé, nous n'avons pas de lait chocolaté.
+{50304}{50366}Je veux du lait chocolaté, bon sang !
+{50415}{50493}Eh bien, je suis désolé, nous n'avons que du lait sans arôme.
+{50545}{50609}Tu n'as pas d'autres cookies que ceux-là ?
+{50634}{50673}Ce sont les seuls que nous ayons.
+{50678}{50750}Je n'aime pas cette marque.|Ils ont un goût de merde.
+{50761}{50879}Alors contente-toi de faire du coloriage,|et je reviens dans un moment.
+{50884}{50925}Je n'aime pas les albums de coloriage.
+{51010}{51104}- Tu les as choisis toi-même au magasin.|- Tu m'as dit d'en prendre.
+{51110}{51165}- Je pensais que tu aimais le coloriage.|- Ce n'est pas le cas.
+{51176}{51213}Je t'ai dit que j'aimais dessiner.
+{51217}{51251}Alors dessine.
+{51362}{51434}Ceci est un album de coloriage.
+{51450}{51587}On ne peut pas dessiner sur un album de coloriage,|parce que les dessins sont déjà faits.
+{51592}{51663}On peut seulement colorier sur les albums de coloriage.
+{51669}{51729}C'est pourquoi on appelle cela des albums de coloriage.
+{51998}{52057}- Tu veux regarder la télé ?|- D'accord.
+{52199}{52232}Tu sais t'en servir ?
+{52258}{52324}- Quoi ? Tu me prends pour une imbécile ?|- Je ne t'ai pas traitée d'imbécile.
+{52330}{52435}- Putain, je sais utiliser une télécommande.|- Tant mieux, amuse-toi.
+{52498}{52519}Bouffon !
+{52599}{52667}Je meurs de faim, un cheeseburger.
+{52679}{52777}Je veux quelque chose qui a marché sur terre,|avec la garniture.
+{52787}{52822}J'en veux un double.
+{52869}{52928}Je croyais que tu aimais le steak sans viande.
+{52978}{53030}- J'ai menti.|- Sans déc'.
+{53109}{53243}Et c'est quoi ce "c'est ce que c'est",|cette connerie délibérément vague au sujet de Brenda et toi ?
+{53291}{53338}Je ne voulais pas blesser Lisa, d'accord ,
+{53399}{53459}C'est clair, vous avez couché ensemble.
+{53541}{53576}Bon, d'accord.
+{53628}{53713}Ca nous est arrivé quelquefois,|mais c'était sur les bases d'une véritable amitié.
+{53756}{53800}Des amis qui baisent ensemble ?
+{53849}{53919}Ouais. Et rien de plus.
+{53961}{54010}Est-ce que Lisa le sait ?
+{54065}{54091}Tu sais quoi ?
+{54131}{54248}A chaque fois que nous avons fait l'amour,|et je parle de 5 ou peut-être 6 fois seulement,
+{54282}{54395}j'ai été très honnête avec elle sur ce que cela signifiait et ce que cela ne signifiait pas.
+{54471}{54579}- Elle a craqué sur toi.|- J'ai toujours été honnête avec Lisa.
+{54587}{54608}Si tu le dis...
+{54628}{54721}- Qu'est-ce que tu veux ?|- Je veux un chubby cheese complet,
+{54765}{54787}une frite moyenne, et un coca.
+{54868}{54974}Mon Dieu ! Est-ce que tu sens cette odeur ?
+{54996}{55040}Quoi ? Celle des burgers et des frites ?
+{55047}{55107}Non, on dirait de l'oeuf pourri. Bon sang !
+{55161}{55218}Ca a putain d'air de déjà vu.
+{55259}{55323}{Y:i}Bienvenue au Chubby.|Je prends votre commande ?
+{55334}{55482}Je prendrai un double-double... un chubby,|un double chubby, un chubby-chubby
+{55488}{55669}un double-double, un double chubby, un chubby-chubby,|un chub, un dou... je prendrai un double chubby cheeseburger.
+{55668}{55688}Putain !
+{55737}{55857}{Y:i}D'accord, monsieur, mais c'était un ou deux double cheeseburgers ?|- Mon Dieu !  Ma tête !
+{55864}{55915}- Nate...|- Putain !
+{55982}{55998}Nate !
+{56281}{56308}Nate, ça va ?
+{56632}{56696}{Y:i}Monsieur, je n'ai pas compris.|Je peux prendre votre commande ?
+{56911}{56934}{Y:i}Monsieur ?
+{57180}{57208}Tu conduis.
+{57222}{57336}Je vais... Je vais prendre l'air et passer un appel.
+{57360}{57368}D'accord.
+{57858}{57943}{Y:i}- Monsieur, je n'ai pas compris. Je peux prendre votre commande ?|- Ferme-la.
+{58203}{58238}Est-ce que le Dr Di Paolo est là ?
+{58369}{58431}Oui, c'est vraiment une urgence !
+{58441}{58502}{Y:i}- Monsieur, je peux prendre votre commande, s'il vous plaît ?|- Ta gueule, putain .
+{58519}{58574}{Y:i}Bon, je vais devoir contacter le directeur.
+{58649}{58703}Je n'arrive pas à croire que je fasse ça.
+{58749}{58801}Ne peut-on pas au moins entrer ?
+{58808}{58876}Je pourrais avoir un masque aux algues|pendant que je ferais semblant de t'écouter.
+{58932}{59016}- Ca ne peut pas être elle !|- Je mange ta barre de protéines.
+{59070}{59101}Peut-être que oui !
+{59234}{59278}Ca a un goût de tapisserie.
+{59358}{59385}Je le savais.
+{59418}{59493}Avec son cul tombant, Bern ne pourrait|pas sauter une fille aussi belle
+{59709}{59835}Je croyais que papa et toi aviez un accord|pour ce genre de choses.
+{59871}{59933}On en avait un.|On l'a toujours.
+{59955}{60038}Mais cette fois il a enfreint l'une des règles.|Il ne m'en a pas parlé avant.
+{60077}{60162}D'accord, tu n'es pas contrariée|parce que papa couche avec quelqu'un.
+{60169}{60222}Tu es contrariée parce qu'il ne t'a pas|dit qu'il couchait avec quelqu'un.
+{60235}{60256}Exactement.
+{60278}{60361}La règle, c'est que si on sort|des liens sacrés du mariage,
+{60376}{60433}il faut d'abord le dire à sa femme.
+{60492}{60556}De façon à ce qu'elle se trouve|un jeune canon pour elle !
+{60824}{60872}Un juste retour de choses, j'imagine.
+{60937}{60972}Vous avez d'autres règles ?
+{61003}{61054}Oui, tout un tas.
+{61072}{61133}Vas-y, dis-les-moi, je suis curieuse.
+{61305}{61378}Tu ne peux pas baiser avec mes amies,|et inversement.
+{61399}{61453}Pas de sexe avec nos amis communs.
+{61468}{61505}Jamais à Hawaï.
+{61517}{61606}Jamais dans un hôtel à plus de 300 $ la nuit.
+{61620}{61694}Et jamais dans un hôtel à moins de 75 $ la nuit.
+{61817}{61847}Pas en vacances.
+{61891}{61972}Et il y en a d'autres, mais je n'arrive|pas à toutes me les rappeler maintenant.
+{62035}{62139}Est-ce qu'il y a "Ne pas baiser quelqu'un devant les enfants" ?
+{62150}{62288}J'imagine que non, puisque je t'ai vue une fois|dans le jacuzzi avec ce vieux au dos poilu.
+{62294}{62343}Chérie, ton père était là.
+{62360}{62457}Et il n'y a eu aucune pénétration, je t'assure.
+{62478}{62567}- Ouais, je parierais que tu aurais voulu.|- Et tu étais censée être au lit.
+{62688}{62750}Je ne suis parti que deux heures, Rico.
+{62781}{62867}Pour chaque heure où tu pars,|c'est une heure de plus que je dois faire.
+{62882}{62954}Je suis désolé pour la gosse de ton ami,|mais moi aussi j'ai des enfants chez moi.
+{62962}{63047}C'est à cause du prêt pour la maison|que l'on ne t'a pas fait ?
+{63055}{63139}Parce qu'avant, tu ne te plaignais pas|de faire des heures sup.
+{63177}{63299}C'est à cause du fait que je ne veux pas|être exploité par mes employeurs.
+{63300}{63430}- On est plus que tes employeurs, Rico.|- C'est des conneries, David, et tu le sais.
+{63433}{63545}Quand ça vous arrange, je suis de la famille,|sinon, je ne suis qu'un employé,
+{63552}{63608}et toi et Nate, mes patrons.
+{63652}{63687}Bonjour, petite demoiselle.
+{63759}{63832}Taylor ? Je t'ai dit d'attendre à l'étage.
+{63846}{63882}J'ai mal au ventre.
+{63933}{63964}Cet homme est mort ?
+{64099}{64144}Cet homme était vraiment mort.
+{64297}{64346}Oui, cet homme était vraiment mort.
+{64406}{64436}Tu l'as tué ?
+{64464}{64485}Non !
+{64516}{64559}C'est l'autre homme en bas qui l'a tué ?
+{64565}{64583}Non.
+{64611}{64672}Non, il est mort de façon naturelle.
+{64725}{64827}Mon amie Renée a dit que tôt ou tard,|on serait tous morts.
+{64919}{64951}C'est vrai.
+{64979}{65051}Alors un jour je serai morte, couchée sur une table comme celle-là ?
+{65052}{65152}Pas avant un très, très long moment.
+{65161}{65274}Maman dit que pour elle,|papa pourrait aussi bien être mort.
+{65344}{65540}Oui, mais c'est sa façon d'exprimer sa colère|parce qu'il n'est pas là.
+{65585}{65670}Parfois ma maman dit aussi qu'elle|regrette de ne pas être
+{65714}{65815}C'est juste ce que les gens disent|quand ils sont contrariés.
+{65884}{65937}Cet homme là-bas, il avait des enfants ?
+{65990}{66112}Oui, il avait une femme, trois enfants,|et cinq petits-enfants.
+{66172}{66216}Je voudrais ne jamais mourir.
+{66260}{66291}Moi aussi.
+{66509}{66604}Ca s'appelle une malformation artério-veineuse,|une A.M.V. en plus court.
+{66657}{66724}Beaucoup de gens l'ont toute|leur vie sans même le savoir.
+{66746}{66775}Et les pilules ?
+{66839}{66890}C'est une prescription pour éviter les attaques.
+{66967}{67050}- Alors ce qui t'est arrivé, c'était une attaque ?|- Plus ou moins.
+{67079}{67143}- Plus ou moins ?|- C'était une petite attaque.
+{67237}{67288}- Est-ce que David est au courant ?|- Oui.
+{67320}{67410}Mais je ne veux pas que maman le sache,|parce que ça la ferait flipper. D'accord ?
+{67411}{67452}Ce n'est pas grave, je te le promets.
+{67535}{67677}Tu sais, les gens ne perdent pas leur contrôle|et ne dégueulent pas sur leurs chaussures sans une bonne raison, Nate !
+{67694}{67767}Trois mots: "steak au tofu".
+{67845}{67924}Ecoute, maintenant j'ai ces cachets.|C'est parfaitement sous contrôle.
+{67966}{68027}- Tu le jures ?|- Je te le jure.
+{68042}{68144}Je dois simplement les prendre|jusqu'à la fin de ma vie.
+{68219}{68253}Je ne te crois pas.
+{68262}{68331}Rends-moi service,|et ne parle pas à David de ça, d'accord ?
+{68620}{68693}Alors j'ai cette cliente qui se prostitue...
+{68698}{68772}- Et c'est censé me choquer ?|- Quoi ?
+{68810}{68915}Mon dieu, tout ne tourne pas autour de toi !
+{68925}{68986}Tu es vraiment l'archétype de la narcissique.
+{69003}{69112}Brenda, ce n'est pas parce que tes parents sont psys|que tu sais tout de la psychologie.
+{69118}{69217}Oui, et ce n'est pas parce que tu es psy|que tu n'es pas complètement cinglée.
+{69310}{69415}Tu sais, j'ai traité plusieurs cas de prostituées|au cours des années,
+{69426}{69479}et elles ne sont pas aussi différentes que tu...
+{69596}{69626}C'est elle.
+{69678}{69710}Elle a ton âge !
+{69758}{69831}- Je dois lui parler.|- Maman, non. S'il te plaît, non.
+{69831}{69919}Non, non, attends, je ne suis pas en colère.
+{69924}{69958}Je ne vais pas faire une scène.
+{69963}{70079}J'ai juste besoin de personnaliser l'expérience|et d'humaniser la situation.
+{70097}{70167}- C'est dans notre intérêt à tous.|- Tu vas le regretter !
+{70241}{70294}Mademoiselle !|Eh ! La demoiselle !
+{70339}{70403}Bonjour, je m'appelle Margaret,|je suis la femme de Bern.
+{70419}{70508}Vous savez, Bern et moi avons vraiment|une relation très ouverte.
+{70518}{70599}Et je veux juste vous dire qu'il n'y a pas de problème de mon côté.
+{70611}{70696}Vous savez, j'adorerais bavarder,|mais je dois retrouver Bern pour déjeuner.
+{70889}{70978}Descends, pétasse !|Je n'arrive pas à le croire.
+{71101}{71126}Salope !
+{71155}{71200}Je te verrai en enfer !
+{71300}{71352}J'espère que tu aimes l'herpès !
+{71795}{71853}Tu sais, j'aurais cru qu'elle serait moins primitive.
+{71885}{71912}Primitive ?!
+{71919}{72002}Maman, tu viens d'attaquer cette femme ! Plusieurs fois !
+{72026}{72072}Elle pourrait t'envoyer en prison.
+{72082}{72114}J'en doute fort.
+{72233}{72262}Tu as faim ?
+{72340}{72390}Pourquoi suis-je ici ?
+{72408}{72504}Pourquoi était-il nécessaire|que je sois ici avec toi pour ça ?
+{72541}{72608}Parce que tu avais besoin d'un putain de public !
+{72672}{72720}Tout ne tourne pas autour de toi, Brenda.
+{72729}{72819}Regarde maman ! Maman n'est-elle pas belle ?
+{72824}{72907}Fabuleuse, ouverte d'esprit,
+{72912}{72943}et sans inhibitions ?
+{72947}{73045}Assumez votre mère, les enfants,|parce qu'elle est incapable de le faire elle-même.
+{73055}{73132}Pas étonnant que Billy ait fini dans un hôpital|psychiatrique. Tu t'en fous.
+{73137}{73249}Pour ton information, Mademoiselle l'Arrogante,|c'est la vie.
+{73267}{73311}Les gens ont des crises.
+{73315}{73404}Ils se poussent à bout, ils se font du mal,
+{73447}{73589}et une fois, quand la lune est bleue,|ils montrent ce qu'ils ont de meilleur.
+{73628}{73684}Mais la plupart du temps,|ils montrent leurs défauts.
+{73768}{73846}- Tu es pathétique.|- Comment oses-tu me juger ?
+{73853}{74024}Tu crois que tu es le parangon de la santé mentale|parce que tu sors avec le même homme depuis quelques mois ?
+{74033}{74131}C'est beaucoup comparé à ton père et moi ?
+{74143}{74176}Tu es simplement jalouse.
+{74207}{74216}De quoi ?
+{74244}{74375}Que je ne t'ai pas laissée détruire complètement ma vie|comme tu l'as fait avec celle des autres.
+{74381}{74410}Quelle vie ?
+{74444}{74580}Tu as passé 32 ans à être la nounou de ton petit frère...
+{74586}{74604}Va te faire foutre !
+{74609}{74686}...pour éviter d'avoir ta propre vie sentimentale.
+{74763}{74813}Et maintenant qu'il est interné,
+{74835}{74923}tu vas devoir faire face à tes propres démons, et, ma chérie,
+{74953}{74982}ils sont légions.
+{75251}{75286}Sors de ma voiture.
+{75395}{75428}Avec joie.
+{75888}{75949}J'espère que tu aime le rôti de porc et la purée ?
+{75973}{76001}Ca va.
+{76061}{76102}Où vas-tu, ma chérie ?
+{76120}{76157}Regarder la télé.
+{76179}{76244}Dans cette maison, nous dînons à table.
+{76277}{76331}Vous ne regardez pas la télé pendant le repas ?
+{76338}{76355}Non.
+{76392}{76466}Peut-être que nous la regarderons un peu|quand nous aurons fini de manger.
+{76674}{76752}- Tu es en quelle classe, Taylor ?|- CM1.
+{76848}{76897}David a été au CM1.
+{76982}{77001}C'est vrai.
+{77077}{77157}Vous saviez que David a été le petit|copain de mon oncle Keith ?
+{77246}{77278}Oui, je le savais.
+{77376}{77551}Parfois ma maman traite mon oncle Keith de pauvre enculé|parce qu'il préfère les hommes aux femmes.
+{77579}{77663}J'imagine que ça fait aussi de toi|un pauvre enculé, non ?
+{77689}{77783}Nous n'utilisons pas ce genre de mots à cette table.
+{77809}{77880}- En fait, nous n'utilisons pas du tout ce genre de mots.|- Pourquoi ?
+{77914}{78049}- Parce que ces mots sont...|- Haineux. Ce sont des mots détestables.
+{78057}{78104}Quels mots utilisez-vous alors ?
+{78221}{78260}Homosexuel.
+{78402}{78453}Mon oncle Keith a un nouveau copain.
+{78466}{78497}Il s'appelle Eddie.
+{78504}{78579}Il conduit une ambulance,|mais je ne l'aime pas trop.
+{78625}{78644}Pourquoi ?
+{78672}{78781}Il se regarde beaucoup dans le miroir,|et il me parle comme si j'étais stupide.
+{78804}{78843}Je suis sûr que c'est faux.
+{78864}{78895}Si, c'est vrai.
+{78951}{78979}C'est vrai.
+{79044}{79120}Certaines personnes ne savent simplement|pas comment parler aux enfants.
+{79141}{79174}J'en sais quelque chose.
+{79444}{79494}Je crois que je vais commencer la vaisselle.
+{79955}{80051}Il est temps que vous partiez maintenant. Allez !
+{80154}{80175}Allez !
+{80476}{80511}Tout va bien ?
+{80523}{80583}Claire, je pensais que tu faisais un petit somme.
+{80592}{80637}Je lisais.
+{80681}{80712}Où est Nate ?
+{80721}{80770}Il est dehors, au téléphone.
+{80864}{80904}A qui parlais-tu ?
+{80962}{80997}Aux fourmis.
+{81019}{81065}Je suis envahie.
+{81080}{81181}Au début j'ai essayé de mettre un peu de nourriture|près de la porte.
+{81191}{81271}Puis j'ai essayé de les attirer à l'extérieur|avec de l'huile d'agrumes.
+{81289}{81326}Et maintenant j'essaie de les raisonner.
+{81416}{81521}Chez moi, mon père les aspergeait avec|de l'essence à briquet et les enflammait.
+{81686}{81746}Je ne suis plus amoureuse de ton frère,
+{81752}{81787}si c'est ce que tu penses.
+{81808}{81862}En fait, ce n'était pas ce que je pensais.
+{81953}{81991}Je l'ai été.
+{82038}{82130}Je pensais avant qu'un jour il réaliserait|que j'étais là pour lui.
+{82139}{82177}Il ne l'a jamais demandé.
+{82259}{82300}Tu crois qu'un jour il le fera ?
+{82383}{82450}Ce n'est pas à moi qu'il faut poser la question.
+{82503}{82606}C'est mon frère, mais à vrai dire,|je commence à peine à le
+{82680}{82740}C'est un bourreau des coeurs, en tout cas.
+{82755}{82889}Il y a une douzaine de femmes à Seattle qui flipperaient|si elles savaient qu'il est de retour ici.
+{82941}{83008}- Tu dois me trouver si bête.|- Non.
+{83108}{83135}Tu as un copain ?
+{83182}{83203}Non.
+{83254}{83280}Plus maintenant.
+{83329}{83361}On a rompu.
+{83430}{83476}Tu es mieux seule, crois-moi.
+{83556}{83583}Putain de fourmis.
+{83641}{83689}Je voulais juste savoir|comment s'était passée ta journée.
+{83725}{83819}Ma mère s'est presque battue|avec une femme sur un parking,
+{83830}{83872}mais à part ça, je vais bien.
+{83887}{84029}- Comment ça se passe à Seattle ?|- Ca va. C'est quoi cette histoire de ta mère se battant avec quelqu'un ?
+{84046}{84143}Je n'ai pas vraiment|envie de revivre ça maintenant.
+{84168}{84213}Comment ça se passe avec Claire ?
+{84223}{84279}Bien. On s'entend bien.
+{84365}{84403}Tu as un problème ?
+{84462}{84524}Non, j'ai juste mal à la tête.
+{84588}{84654}On reprend la route très tôt demain matin.
+{84683}{84753}- D'accord, alors on se voit bientôt.|- Ouais.
+{84809}{84901}Ecoute, Nate. Je venais juste de faire couler un bain,|et il est en train de se refroidir alors...
+{84953}{84986}Tu me manques.
+{85080}{85112}Tu me manques aussi.
+{86424}{86498}- Salut.|- Bonsoir.
+{86583}{86618}Tu ne m'as pas appelé.
+{86694}{86751}Comment as-tu su où j'habitais ?
+{86827}{86868}Ce n'est pas vraiment important.
+{86967}{87006}Je crois que ça peut l'être.
+{87106}{87160}Tu veux savoir ce qui est vraiment important ?
+{87279}{87315}Montre-moi.
+{88639}{88669}Elle t'a donné du mal ?
+{88733}{88759}Pas vraiment.
+{88848}{88910}Laisse-moi la prendre, et on s'en va.
+{89181}{89205}Encore merci.
+{89229}{89261}Pas de problème.
+{89271}{89362}C'est... C'est une gamine extra, Keith.|Vraiment.
+{89376}{89450}Vu tout ce qu'elle a vécu, c'est plutôt miraculeux.
+{89514}{89555}Bon, on devrait y aller.
+{89762}{89791}Ah oui...
+{89906}{89957}- Bonne nuit, David.|- Bonne nuit.
+{90725}{90781}J'ai pensé que tu pourrais|avoir besoin d'un édredon en plus.
+{90834}{90880}Il fait froid dans cette pièce.
+{90913}{90931}Merci, Lis.
+{91099}{91122}Ca va ?
+{91143}{91228}Oui, je vais bien.
+{91236}{91282}- Tu en es sûr ?|- Oui.
+{91396}{91439}Tu ne peux pas me tromper, Nate.
+{91458}{91493}Je te connais trop bien.
+{91569}{91596}Je vais bien.
+{92106}{92133}Mon pauvre amour.
+{92169}{92259}Ca va. Je suis là.
+{92295}{92403}Je reste là. Ca va.
+{92887}{93001}- Tu es sûre de ne pas vouloir petit-déjeuner ?|- Non, ça va, je n'en prends jamais.
+{93053}{93114}Lisa, tu as vu ma vieille chemise en flanelle marron ?
+{93125}{93222}Je crois que tu l'as donnée à la vente de la coopérative.
+{93233}{93314}Non, la voilà.
+{93378}{93469}J'adore cette chemise.|C'est tellement toi.
+{93569}{93598}Pourquoi ne pas la garder ?
+{93615}{93648}Non, je ne peux pas.
+{93671}{93712}Non, allez, je veux que tu la gardes.
+{93719}{93756}C'est ta chemise, pourquoi je voudrais la garder ?
+{93761}{93793}Contente-toi de la garder.
+{93899}{93988}Nous devrions être déjà en route.|On va chercher M. Mossback.
+{94009}{94029}D'accord.
+{94131}{94228}Lisa, comme toujours, c'était super...
+{94263}{94333}- de te voir.|- Prends soin de toi, Nate.
+{94365}{94377}Toi aussi.
+{94444}{94470}Ravie de t'avoir rencontrée.
+{94508}{94538}Moi aussi, Claire.
+{95118}{95138}Bonjour, maman.
+{95185}{95277}C'est horriblement calme ici depuis|que Claire et Nate sont partis.
+{95306}{95336}Je crois aussi.
+{95408}{95496}A quelle heure ton ami est passé|récupérer sa nièce ?
+{95559}{95594}A 1h30.
+{95617}{95684}C'est terriblement tard|pour une enfant de son âge.
+{95697}{95748}Elle s'est endormie dans la véranda.
+{95969}{96022}Tu as quelque chose à me dire, maman ?
+{96035}{96056}Non.
+{96128}{96172}Et puis oui.
+{96240}{96277}Je suis tout ouïe.
+{96342}{96407}Ton père me le disait tout le temps:
+{96416}{96447}"Je suis tout ouïe".
+{96486}{96538}Parfois, tu me le rappelles.
+{96595}{96636}Où veux-tu en venir ?
+{96747}{96825}On doit être prudents avec les enfants, David,
+{96860}{96996}parce que ce sont les adultes de leur vie|qui dessinent leur schéma, et cette fillette...
+{97086}{97237}Il me semble que ses fondations sont probablement|assez instables, sans ajouter ta...
+{97306}{97329}Ma quoi ?
+{97410}{97567}Ta relation avec son oncle, tu dois admettre|qu'elle peut un peu perturber quelqu'un de son âge.
+{97617}{97643}Maman...
+{97750}{97828}Je suis heureux pour toi que toute cette histoire de Plan
+{97838}{97923}t'ait permis de "dessiner ton propre schéma"
+{97944}{98020}ou de "boucher quelques-unes des fissures dans tes fondations",
+{98047}{98170}mais, de toi à moi, tu commences à parler comme une folle.
+{98226}{98277}Et je crois qu'il est temps|de garder toutes ces merdes pour toi
+{98283}{98328}et de t'occuper de tes propres affaires.
+{99125}{99154}Merci.
+{99566}{99659}C'est un peu bizarre de conduire un mort à L.A.
+{99665}{99718}C'est bizarre seulement si tu rends ça bizarre.
+{99819}{99855}C'est un peu bizarre.
+{99885}{99912}Non.
+{100052}{100120}Tu sais, Nate, je ne sais pas pourquoi mais
+{100134}{100223}c'est réconfortant de savoir que tu es aussi|cinglé que nous autres.
+{100230}{100310}Je suis loin d'être aussi cinglé que vous.
+{100314}{100352}- Tu l'es.|- Non.
+{100385}{100430}Oui, tu l'es.
+{100440}{100474}Tais-toi et conduis.
+{101498}{101591}Synchro: Chris81x|Traduction: Haynee
+

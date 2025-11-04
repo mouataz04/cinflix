@@ -1,0 +1,3448 @@
+1
+00:00:13,509 --> 00:00:14,757
+Hé, tu as entendu ça ?
+
+2
+00:00:14,758 --> 00:00:17,227
+Oui, j'ai toujours été fan des années 80.
+
+3
+00:00:19,786 --> 00:00:21,485
+Hé, remets la musique !
+
+4
+00:00:21,486 --> 00:00:23,011
+Taisez-vous, taisez-vous tous !
+
+5
+00:00:27,450 --> 00:00:28,793
+Tu as entendu ?
+
+6
+00:00:28,794 --> 00:00:30,629
+On dirait des feux d'artifice.
+
+7
+00:00:31,091 --> 00:00:32,673
+Je n'en vois pas.
+
+8
+00:00:33,196 --> 00:00:34,725
+Ce sont des coups de feu.
+
+9
+00:00:39,765 --> 00:00:42,666
+Bien, quoi que ce soit, c'est fini maintenant.
+
+10
+00:00:43,865 --> 00:00:45,349
+Pas encore !
+
+11
+00:00:46,261 --> 00:00:47,603
+Attention !
+
+12
+00:00:56,664 --> 00:00:58,021
+Il n'y a personne dedans.
+
+13
+00:01:02,644 --> 00:01:04,584
+Des feux d'artifice, mon cul.
+
+14
+00:01:05,261 --> 00:01:06,714
+C'est criblé de balles.
+
+15
+00:01:15,978 --> 00:01:20,510
+NCIS 1x03 {\b1}Seadog{\b0}
+
+16
+00:01:21,000 --> 00:01:24,787
+{\a5}{\u1}Adaptation:{\u0} Arcarum,
+BadGOne, byskote, Marmotte et Zepoulp.
+
+17
+00:01:27,128 --> 00:01:30,699
+{\a5}{\u1}Relecture:{\u0} BadGOne, Mickey
+
+18
+00:01:35,276 --> 00:01:38,328
+{\a5}{\u1}Synchro:{\u0} Club nate
+
+19
+00:01:41,228 --> 00:01:50,547
+www.team-ncis.com 
+
+20
+00:01:58,910 --> 00:01:59,851
+Salut.
+
+21
+00:02:00,251 --> 00:02:01,070
+Bonjour.
+
+22
+00:02:01,071 --> 00:02:02,545
+- Alors, comment était ton week-end ?
+- Qu'est-ce qu'on a ?
+
+23
+00:02:02,546 --> 00:02:03,755
+Trop pour une petite conversation.
+
+24
+00:02:03,756 --> 00:02:06,196
+Accident de voiture à Quantico, la nuit dernière.
+Pas de victimes.
+
+25
+00:02:06,207 --> 00:02:06,807
+Suivant.
+
+26
+00:02:06,811 --> 00:02:09,073
+Un sous-officier pris pour vol à l'étalage à Bloomingdale.
+
+27
+00:02:09,074 --> 00:02:12,192
+Y'a-t-il quelque chose valant plus de 50000 dollars dans
+ce magasin, Dinozzo ?
+
+28
+00:02:12,193 --> 00:02:13,144
+Je ne le pense pas.
+
+29
+00:02:13,145 --> 00:02:15,303
+Alors pourquoi devrait-on s'en occuper ?
+Suivant.
+
+30
+00:02:15,303 --> 00:02:15,304
+[*] Camp Lejeune. Camp d'entraînement des Marines,
+près de Jackson Ville, en Caroline du Nord.
+
+31
+00:02:15,304 --> 00:02:18,031
+Hum, j'ai entendu une rumeur sur un réseau
+d'ecstasy à Lejeune*.
+
+32
+00:02:18,032 --> 00:02:19,425
+Tu as entendu une rumeur ?
+
+33
+00:02:19,426 --> 00:02:23,690
+Il n'arrête pas de chercher une affaire, n'importe
+laquelle, depuis que je suis arrivée.
+
+34
+00:02:23,691 --> 00:02:25,795
+Tous les agents qui ne sont pas en
+service actif doivent
+
+35
+00:02:25,796 --> 00:02:27,432
+assister à une conférence sur le
+harcèlement sexuel,
+
+36
+00:02:27,433 --> 00:02:31,482
+au centre d'entraînement des ressources humaines
+du NCIS à 9h30 ce matin.
+
+37
+00:02:31,483 --> 00:02:33,182
+Je ne peux plus assister à l'une de ces conférences.
+
+38
+00:02:33,183 --> 00:02:34,507
+Je me tirerais une balle.
+
+39
+00:02:34,508 --> 00:02:38,214
+Tu veux dire qu'ils vous entraînent, vous des hommes,
+à harceler ?
+
+40
+00:02:39,495 --> 00:02:40,692
+Hé, je plaisante.
+
+41
+00:02:40,693 --> 00:02:41,808
+Excepté pour Tony.
+
+42
+00:02:41,809 --> 00:02:44,245
+Pour la dernière fois Kate, j'essayais de mettre ma ceinture.
+
+43
+00:02:44,246 --> 00:02:46,320
+C'est ça. Ta ceinture.
+
+44
+00:02:48,287 --> 00:02:49,843
+Oui. Gibbs.
+
+45
+00:02:52,601 --> 00:02:54,069
+Ok, on s'en occupe.
+
+46
+00:02:54,070 --> 00:02:56,906
+Un capitaine de frégate vient d'être découvert sur une plage de Virginie du Nord.
+
+47
+00:02:56,907 --> 00:02:57,780
+Trop bon !
+
+48
+00:02:59,303 --> 00:03:00,229
+Obsédé.
+
+49
+00:03:00,230 --> 00:03:01,909
+Je déteste quand elle fait ça.
+
+50
+00:03:10,261 --> 00:03:12,882
+Sergent Linn. L-I-... ?
+
+51
+00:03:12,883 --> 00:03:15,391
+L-I-N-N. Pas de E.
+
+52
+00:03:15,597 --> 00:03:17,538
+Gibbs. NCIS.
+
+53
+00:03:17,539 --> 00:03:19,739
+Eh bien, vous en avez mis du temps à rappliquer.
+
+54
+00:03:19,740 --> 00:03:23,821
+On a passé la nuit à courir entre le
+bateau et le corps.
+
+55
+00:03:24,199 --> 00:03:28,674
+Le bateau
+s'est écrasé en plein milieu d'une
+petite fête sur la plage.
+
+56
+00:03:29,492 --> 00:03:31,188
+Dur à croire...
+
+57
+00:03:31,378 --> 00:03:34,822
+qu'un officier de la marine soit impliqué dans une sale affaire comme celle-ci.
+
+58
+00:03:34,823 --> 00:03:36,349
+Quelle sale affaire ?
+
+59
+00:03:36,350 --> 00:03:37,752
+Trafic de drogues.
+
+60
+00:03:37,831 --> 00:03:39,912
+La DEA enquête sur deux trafiquants
+retrouvés morts.
+
+61
+00:03:39,913 --> 00:03:42,538
+À cinq kilomètres plus au nord.
+
+62
+00:03:42,539 --> 00:03:45,228
+Cinq km plus haut sur la plage, et vous
+pensez qu'il y a un lien ?
+
+63
+00:03:45,229 --> 00:03:46,487
+Ils ont tous été mitraillés.
+
+64
+00:03:46,488 --> 00:03:47,813
+Comme son bateau.
+
+65
+00:03:47,814 --> 00:03:49,759
+Il doit y avoir un rapport.
+
+66
+00:03:54,997 --> 00:03:56,394
+Et vous êtes ?
+
+67
+00:03:56,395 --> 00:03:59,068
+Diane Fontaine, reporter sur WXEK.
+
+68
+00:03:59,069 --> 00:04:01,843
+- J'aimerais vous poser quelques questions...
+- Dinozzo !
+
+69
+00:04:01,844 --> 00:04:02,755
+Oui.
+
+70
+00:04:03,677 --> 00:04:07,189
+Escorte Mlle Fontaine en dehors du lieu
+du crime, s'il te plaît.
+
+71
+00:04:07,190 --> 00:04:08,265
+Mlle Fontaine.
+
+72
+00:04:10,325 --> 00:04:11,706
+On y va, les gars.
+
+73
+00:04:11,707 --> 00:04:15,583
+Sergent, Linn, c'est ça ?
+
+74
+00:04:15,849 --> 00:04:19,509
+Avez-vous l'habitude de condamner les gens
+avant que l'enquête ne commence ?
+
+75
+00:04:19,510 --> 00:04:22,462
+- Quoi ? Euh... non, je...
+- Qu'avons-nous, Gibbs ?
+
+76
+00:04:22,463 --> 00:04:25,163
+Le portefeuille du capitaine avec plein
+d'empreintes de ce sergent.
+
+77
+00:04:25,164 --> 00:04:26,993
+Vous avez pris le portefeuille d'un corps
+
+78
+00:04:26,994 --> 00:04:28,431
+sans utiliser de gants ?
+
+79
+00:04:28,432 --> 00:04:29,942
+Je devais savoir le nom du macchabée.
+
+80
+00:04:29,943 --> 00:04:31,304
+Ce n'est pas un macchabée.
+
+81
+00:04:31,305 --> 00:04:32,875
+C'est une victime.
+
+82
+00:04:33,127 --> 00:04:35,110
+Où avez-vous appris les procédures en
+cas de crime,
+
+83
+00:04:35,117 --> 00:04:36,851
+en regardant les rediffusions de Kojak ?
+
+84
+00:04:36,880 --> 00:04:38,579
+Voyons, n'allez pas sur ce chemin. Je...
+
+85
+00:04:38,580 --> 00:04:41,237
+- Duck, on se rejoint sur la scène du crime.
+- Et qu'avez-vous fait d'autre à mon corps ?
+
+86
+00:04:41,238 --> 00:04:43,296
+Très bien, commençons par le
+commencement.
+
+87
+00:04:43,297 --> 00:04:46,838
+Maintenant dites-moi ce que vous avez
+fait quand vous êtes arrivé, depuis le début.
+
+88
+00:05:03,705 --> 00:05:05,923
+On dirait qu'un troupeau d'éléphants
+est passé par là.
+
+89
+00:05:05,924 --> 00:05:08,501
+En fait, seulement un gros flic du coin.
+
+90
+00:05:08,502 --> 00:05:10,702
+Tiens, Kate, mets ça sous scellé.
+Je ferai les photos.
+
+91
+00:05:10,703 --> 00:05:12,576
+Tony m'a dit de faire ça.
+
+92
+00:05:12,577 --> 00:05:15,145
+Tony ne te dit pas quoi faire. Moi si.
+
+93
+00:05:17,174 --> 00:05:20,205
+Ton éléphant a dit qu'on avait tiré sur le bateau du capitaine.
+
+94
+00:05:20,206 --> 00:05:22,769
+Pourquoi ne pas prendre un autre kit
+dans le camion et faire des relevés ?
+
+95
+00:05:22,770 --> 00:05:24,070
+Toute seule ?
+
+96
+00:05:24,071 --> 00:05:25,228
+Tu as besoin d'aide ?
+
+97
+00:05:25,229 --> 00:05:27,029
+Non. Je m'en charge.
+
+98
+00:05:32,027 --> 00:05:34,669
+Hé, remorque le bateau au garage quand
+tu auras fini.
+
+99
+00:05:34,670 --> 00:05:37,627
+Et prends les témoignages pendant que
+tu y es.
+
+100
+00:05:37,628 --> 00:05:39,931
+J'ai besoin de davantage de missions comme celle-ci, patron.
+
+101
+00:05:39,932 --> 00:05:40,843
+Tu as son numéro ?
+
+102
+00:05:40,844 --> 00:05:42,005
+Oh, oui.
+
+103
+00:05:42,938 --> 00:05:45,456
+Tu crois qu'on lui a tiré dessus ou qu'il s'est noyé ?
+
+104
+00:05:45,457 --> 00:05:47,868
+Eh bien, l'un ou l'autre, il est mort.
+
+105
+00:05:48,139 --> 00:05:49,264
+C'est dommage.
+
+106
+00:05:49,265 --> 00:05:50,452
+Un bon gars.
+
+107
+00:05:50,755 --> 00:05:53,970
+Il t'a sauvé de cette conférence sur le harcèlement sexuel.
+
+108
+00:05:54,175 --> 00:05:56,230
+J'aurais préféré être à la conférence.
+
+109
+00:05:56,231 --> 00:05:58,437
+Cet homme est un idiot fini.
+
+110
+00:05:58,438 --> 00:06:02,604
+Il ne devrait même pas faire traverser des écoliers.
+Pousse-toi.
+
+111
+00:06:03,013 --> 00:06:03,903
+Je ne t'ai pas entendu aussi en colère
+
+112
+00:06:03,904 --> 00:06:06,178
+depuis que tu as poussé ce policier
+français d'une falaise, Duck.
+
+113
+00:06:06,179 --> 00:06:08,457
+Quoi, tu as poussé un policier français
+d'une falaise ?
+
+114
+00:06:08,458 --> 00:06:10,258
+Il y avait un lac en dessous.
+
+115
+00:06:10,259 --> 00:06:12,452
+18 mètres en contrebas.
+
+116
+00:06:12,785 --> 00:06:15,333
+Duck, cette scène est un foutoir.
+Pouvons- nous bouger le corps ?
+
+117
+00:06:15,334 --> 00:06:16,444
+Pourquoi pas ?
+
+118
+00:06:16,445 --> 00:06:19,001
+Cet idiot l'a manifestement déjà fait.
+
+119
+00:06:19,002 --> 00:06:21,988
+Retournons-le pour voir si on lui a
+tiré dans le dos.
+
+120
+00:06:27,274 --> 00:06:30,338
+Faut croire que l'on peut exclure la noyade accidentelle.
+
+121
+00:06:31,588 --> 00:06:33,431
+Oh, mon ami,
+
+122
+00:06:33,748 --> 00:06:36,328
+même si vous aviez survécu aux eaux,
+
+123
+00:06:36,329 --> 00:06:38,744
+vous n'auriez jamais pu remarcher.
+
+124
+00:06:40,053 --> 00:06:41,637
+La DEA a trouvé deux corps, plus haut
+
+125
+00:06:41,638 --> 00:06:43,311
+qui pourraient être reliés à celui-ci.
+
+126
+00:06:43,312 --> 00:06:46,916
+Au moins, ils savent comment ne pas
+souiller une scène de crime.
+
+127
+00:06:48,023 --> 00:06:52,562
+Hé, vous deux, nettoyez-moi tout ça,
+emballez-le
+
+128
+00:06:52,563 --> 00:06:54,181
+et rejoignez-nous là-bas.
+
+129
+00:06:55,180 --> 00:06:57,616
+Bien, ça réchauffe vraiment le cœur, n'est-ce pas ?
+
+130
+00:06:57,617 --> 00:06:58,419
+De quoi ?
+
+131
+00:06:58,420 --> 00:07:02,290
+De savoir que Gibbs nous confie une
+scène de crime contaminée.
+
+132
+00:07:03,392 --> 00:07:06,304
+Allez, on l'embarque.
+
+133
+00:07:16,188 --> 00:07:17,784
+Ça doit être lui.
+
+134
+00:07:18,717 --> 00:07:20,109
+Agent spécial Gibbs ?
+
+135
+00:07:20,110 --> 00:07:20,918
+Oui.
+
+136
+00:07:21,324 --> 00:07:23,237
+Le Sergent Linn m'a prévenu de votre arrivée.
+
+137
+00:07:23,238 --> 00:07:25,265
+- Agent Ken Fuller, DEA.
+- Ça va ?
+
+138
+00:07:25,266 --> 00:07:27,426
+Voici le capitaine Bradstone, enquêteur
+de l'armée.
+
+139
+00:07:27,427 --> 00:07:29,166
+Notre légiste, Dr Mallard.
+
+140
+00:07:29,167 --> 00:07:31,188
+Agent Fuller, capitaine.
+
+141
+00:07:31,665 --> 00:07:34,482
+On dirait que votre gars de la Marine
+avait de mauvaises fréquentations.
+
+142
+00:07:34,483 --> 00:07:38,279
+Gibbs, cette scène est bien préservée.
+
+143
+00:07:38,280 --> 00:07:39,822
+Nous ne sommes pas des amateurs.
+
+144
+00:07:40,365 --> 00:07:42,165
+Qui a dit qu'ils étaient reliés ?
+
+145
+00:07:42,166 --> 00:07:45,186
+Vous connaissez beaucoup de personnes
+qui sortent pêcher au milieu de la nuit ?
+
+146
+00:07:45,187 --> 00:07:46,251
+Je le fais.
+
+147
+00:07:46,671 --> 00:07:49,246
+Eh bien je vous le garantis, ces deux-là
+ne le faisaient pas.
+
+148
+00:07:49,247 --> 00:07:52,369
+Ils rejoignent des cargos au large,
+pour rapporter la coke.
+
+149
+00:07:52,370 --> 00:07:53,751
+Où est leur bateau ?
+
+150
+00:07:54,387 --> 00:07:55,994
+C'est la guerre entre les trafiquants.
+
+151
+00:07:55,995 --> 00:07:58,175
+J'imagine qu'on leur a volé leur bateau
+et la coke.
+
+152
+00:07:58,176 --> 00:08:00,152
+Capitaine, votre service travaille sur
+cette scène ?
+
+153
+00:08:00,153 --> 00:08:02,015
+Notre légiste n'est pas disponible avant demain.
+
+154
+00:08:02,016 --> 00:08:05,978
+Et il semble que cela ait un rapport
+avec votre officier.
+
+155
+00:08:05,979 --> 00:08:09,327
+Donc l'armée ne voit aucune objection à ce que le NCIS
+et la DEA s'en chargent.
+
+156
+00:08:09,328 --> 00:08:12,266
+- Envoyez-nous juste tous vos rapports.
+- Ouais. Merci, capitaine.
+
+157
+00:08:13,849 --> 00:08:16,014
+On peut toucher, Duck ?
+
+158
+00:08:16,015 --> 00:08:18,138
+Tu as ma permission.
+
+159
+00:08:30,616 --> 00:08:35,418
+Vous connaissez beaucoup de dealers qui
+abandonnent les corps ET l'argent ?
+
+160
+00:08:39,910 --> 00:08:41,121
+Merci de m'avoir attendue, les gars.
+
+161
+00:08:41,122 --> 00:08:42,371
+C'est la règle, Kate.
+
+162
+00:08:42,372 --> 00:08:43,591
+Tu devais rester avec le bateau.
+
+163
+00:08:43,592 --> 00:08:44,893
+Je ne suis pas stupide, Gibbs.
+
+164
+00:08:44,894 --> 00:08:45,913
+J'ai jamais dit ça.
+
+165
+00:08:45,914 --> 00:08:49,206
+Je n'avais pas besoin de faire le trajet en camion
+avec ce bateau.
+
+166
+00:08:49,207 --> 00:08:51,469
+Vous faites ça avec tous les nouveaux
+ou juste les femmes ?
+
+167
+00:08:51,470 --> 00:08:53,112
+Est-ce qu'on ressemble à des sexistes ?
+
+168
+00:08:53,112 --> 00:08:53,113
+[*] "Grant's tomb", mausolée commémorant la mémoire
+de Ulysses S. Grant, Général durant la Guerre Civile
+Américaine, et 18ème président des États-Unis d'Amérique.
+
+169
+00:08:53,113 --> 00:08:55,822
+Demande-moi qui est enterré dans la
+tombe de Grant*. C'est une question bien plus difficile.
+
+170
+00:08:55,823 --> 00:08:56,958
+Ok, Ok, la plaisanterie est terminée.
+
+171
+00:08:56,959 --> 00:08:58,085
+Donne-moi les grandes lignes.
+
+172
+00:08:58,086 --> 00:09:00,949
+Neuf étudiants de l'université de Virginie étaient à une fête
+sur la plage.
+
+173
+00:09:00,950 --> 00:09:03,077
+Vers 2h30, ils entendent ce qu'ils prennent d'abord
+
+174
+00:09:03,078 --> 00:09:04,577
+pour un feu d'artifice au large.
+
+175
+00:09:04,578 --> 00:09:05,826
+Une fusillade.
+
+176
+00:09:05,827 --> 00:09:07,142
+Bien vu, Tony.
+
+177
+00:09:07,143 --> 00:09:10,429
+Le canot a 6 trous dans la poupe,
+2 dans le compartiment moteur.
+
+178
+00:09:10,430 --> 00:09:11,478
+Le capitaine s'enfuyait.
+
+179
+00:09:11,479 --> 00:09:14,581
+Probablement d'un plus gros bateau, ils ont entendu
+une course poursuite sur la côte.
+
+180
+00:09:14,582 --> 00:09:16,097
+Environ 15 secondes plus tard,
+
+181
+00:09:16,098 --> 00:09:18,995
+le "Mary Celeste" sort de l'obscurité
+et s'échoue sur la plage.
+
+182
+00:09:18,996 --> 00:09:21,052
+- Leur fichant une peur bleue.
+- Qu'as-tu trouvé sur le bateau ?
+
+183
+00:09:21,053 --> 00:09:24,210
+Équipement de pêche, appâts, un thermos
+avec café, un sandwich au jambon.
+
+184
+00:09:24,211 --> 00:09:26,079
+J'ai tout enregistré et envoyé à Abby.
+
+185
+00:09:26,080 --> 00:09:27,317
+Pas de drogue ?
+
+186
+00:09:27,512 --> 00:09:28,567
+Non.
+
+187
+00:09:28,568 --> 00:09:30,198
+C'est relié à un trafic de drogue ?
+
+188
+00:09:30,199 --> 00:09:32,073
+La DEA le pense.
+
+189
+00:09:32,074 --> 00:09:34,630
+Deux dealers se sont échoués sur la
+plage la nuit dernière à Fort Story.
+
+190
+00:09:34,631 --> 00:09:35,838
+Transpercés de partout.
+
+191
+00:09:35,839 --> 00:09:37,363
+Eh bien, il n'y avait pas de drogue sur le canot.
+
+192
+00:09:37,364 --> 00:09:38,592
+T'es sûre ?
+
+193
+00:09:38,593 --> 00:09:42,442
+J'ai connu une grand-mère à Baltimore qui avait caché un kilo d'herbe dans le rectum de son cheval.
+
+194
+00:09:42,443 --> 00:09:44,997
+Il n'y avait pas de cheval sur le bateau, Tony.
+
+195
+00:09:45,233 --> 00:09:47,454
+On travaille en coopération avec la DEA ?
+
+196
+00:09:47,455 --> 00:09:49,573
+Ouais. Ducky a trois corps en salle d'autopsie.
+
+197
+00:09:49,574 --> 00:09:51,240
+- Et Abby sèche l'argent.
+- L'argent ?
+
+198
+00:09:51,241 --> 00:09:54,614
+Les dealers ont été trouvés avec des sacs
+pleins de billets mouillés.
+
+199
+00:09:54,615 --> 00:09:56,115
+Je dois voir ces billets.
+
+200
+00:09:56,116 --> 00:09:57,153
+Pourquoi ?
+
+201
+00:09:57,349 --> 00:09:59,219
+Je travaillais pour les Services Secrets.
+
+202
+00:09:59,220 --> 00:10:02,433
+On a tendance à être tous excités quand
+on entend parler de grosses sommes d'argent.
+
+203
+00:10:02,434 --> 00:10:04,199
+Et est-ce que ça t'excite toi ?
+
+204
+00:10:04,865 --> 00:10:06,657
+Ce qui m'excite, Tony,
+
+205
+00:10:06,658 --> 00:10:08,612
+restera un mystère que tu ne résoudras jamais.
+
+206
+00:10:08,613 --> 00:10:10,268
+Je connais la réponse.
+
+207
+00:10:10,737 --> 00:10:12,995
+Grant.
+[Hugh Grant ou le fric 1 Grant = 1G = 1000 $]
+
+208
+00:10:13,036 --> 00:10:15,316
+Pourquoi ai-je l'impression d'être un proviseur de lycée ?
+
+209
+00:10:15,317 --> 00:10:16,318
+Aucune idée, patron.
+
+210
+00:10:16,319 --> 00:10:17,379
+Si ces étudiants ont raison
+
+211
+00:10:17,380 --> 00:10:19,310
+celui qui a tiré sur le capitaine
+
+212
+00:10:19,311 --> 00:10:22,510
+a filé par le Chesapeake ou a remonté
+les côtes du Maryland.
+
+213
+00:10:22,511 --> 00:10:23,657
+Trouve lequel.
+
+214
+00:10:23,658 --> 00:10:24,937
+Je suis dessus.
+
+215
+00:10:26,903 --> 00:10:29,545
+Le Pacifique Sud a un certain nombre
+de rafraîchissements.
+
+216
+00:10:29,546 --> 00:10:31,870
+Je me souviens d'un... où était-ce ?
+
+217
+00:10:31,871 --> 00:10:34,885
+Nouvelle Guinée ou Timor ? Peu importe,
+
+218
+00:10:34,886 --> 00:10:38,353
+Les autochtones avaient cette excellente
+boisson rafraîchissante.
+
+219
+00:10:38,354 --> 00:10:40,301
+C'était peu de temps avant que je découvre
+
+220
+00:10:40,302 --> 00:10:43,611
+que c'était fait à partir d'une mixture de rhum
+
+221
+00:10:43,612 --> 00:10:47,022
+et d'urine de buffle d'eau.
+
+222
+00:10:47,767 --> 00:10:50,930
+Pour Abby, s'il te plaît, Gérald.
+
+223
+00:10:51,391 --> 00:10:55,299
+Ils n'avaient jamais vu de blanc, et ma vie était en danger
+jusqu'à ce que...
+
+224
+00:10:55,300 --> 00:10:57,445
+J'ai un rapport à faire.
+
+225
+00:10:57,446 --> 00:11:00,616
+Oh, il y a téléphone juste ici.
+
+226
+00:11:02,338 --> 00:11:03,328
+Oh, d'accord.
+
+227
+00:11:03,709 --> 00:11:06,580
+Oh, vous allez aimer ça, capitaine.
+
+228
+00:11:07,344 --> 00:11:08,644
+Comme je disais,
+
+229
+00:11:08,645 --> 00:11:09,954
+ma vie était en danger
+
+230
+00:11:09,955 --> 00:11:13,864
+jusqu'à ce que je soigne la femme du chef
+d'une terrible infection bactérienne.
+
+231
+00:11:13,865 --> 00:11:16,588
+Je vois pourquoi vous parlez aussi peu.
+
+232
+00:11:17,556 --> 00:11:19,838
+Excusez-moi. Vous disiez ?
+
+233
+00:11:22,414 --> 00:11:27,150
+<i>Le capitaine Farrell, instructeur des réservistes
+de la Marine à Hampton Roads,</i>
+
+234
+00:11:27,151 --> 00:11:29,725
+<i>a été découvert sur une plage de Virginiedu Nord
+ce matin,</i>
+
+235
+00:11:29,726 --> 00:11:32,766
+<i>près des corps de deux prétendus dealers.</i>
+
+236
+00:11:32,767 --> 00:11:36,004
+<i>Le capitaine Farrell, un des fondateurs
+de "Urban Lights",</i>
+
+237
+00:11:36,016 --> 00:11:38,747
+<i>un programme anti-drogue de basket-ball
+nocturne,</i>
+
+238
+00:11:38,748 --> 00:11:40,779
+<i>était peut-être impliqué dans de la contrebande</i>
+
+239
+00:11:40,780 --> 00:11:43,631
+<i>de drogue dans la région de Norfolk.</i>
+
+240
+00:11:43,632 --> 00:11:45,920
+<i>Choqué et outré,</i>
+
+241
+00:11:45,921 --> 00:11:47,963
+<i>le porte-parole du centre a annoncé</i>
+
+242
+00:11:47,964 --> 00:11:50,973
+<i>que le programme de basket-ball
+"Urban Lights" serait <i>suspendu sur tous les terrains de Norfolk.</i>
+
+243
+00:12:06,088 --> 00:12:07,952
+Vous allez nous foutre dehors ?
+
+244
+00:12:07,953 --> 00:12:08,971
+Non.
+
+245
+00:12:08,972 --> 00:12:10,679
+Vous êtes un flic, hein ?
+
+246
+00:12:10,906 --> 00:12:11,956
+En quelque sorte.
+
+247
+00:12:11,957 --> 00:12:13,281
+En quelque sorte ?
+
+248
+00:12:14,208 --> 00:12:17,091
+Ouais, c'est ça, je renifle le poulet.
+
+249
+00:12:17,654 --> 00:12:19,399
+Pas facile à escalader.
+
+250
+00:12:19,400 --> 00:12:21,253
+Pas si vous savez sauter.
+
+251
+00:12:21,254 --> 00:12:23,029
+Qu'est-ce que vous voulez ?
+
+252
+00:12:24,229 --> 00:12:26,289
+Enlever ce cadenas de la grille.
+
+253
+00:12:26,512 --> 00:12:29,051
+On ne devrait pas avoir à sauter une barrière
+pour jouer au basket-ball.
+
+254
+00:12:29,052 --> 00:12:30,796
+Vous êtes chaud pour essayer ?
+
+255
+00:12:30,797 --> 00:12:32,460
+Si vous l'avez fait.
+
+256
+00:12:32,712 --> 00:12:34,088
+On l'a fait.
+
+257
+00:12:36,311 --> 00:12:38,010
+Ouais.
+
+258
+00:12:38,011 --> 00:12:40,278
+Ce serait mieux avec de la lumière.
+
+259
+00:12:42,476 --> 00:12:44,396
+Répondez à une question.
+
+260
+00:12:44,397 --> 00:12:46,047
+Donnez la bonne réponse,
+
+261
+00:12:46,289 --> 00:12:49,522
+et vous avez ma parole que la lumière
+reviendra sur le terrain.
+
+262
+00:12:49,523 --> 00:12:51,065
+Vas-y, le poulet.
+
+263
+00:12:51,066 --> 00:12:52,464
+Woh, doucement, Bobby.
+
+264
+00:12:52,465 --> 00:12:54,887
+Qu'est-ce que vous voulez dire par "bonne réponse" ?
+
+265
+00:12:54,888 --> 00:12:56,504
+Donnez-moi la mauvaise réponse
+
+266
+00:12:56,505 --> 00:12:58,076
+et je ne peux pas vous aider.
+
+267
+00:12:58,334 --> 00:13:00,216
+Dégage de là, le flic.
+
+268
+00:13:00,473 --> 00:13:01,768
+Qu'est-ce que tu fous, mec ?
+
+269
+00:13:01,769 --> 00:13:03,053
+Il bosse aux narcotiques, mec.
+
+270
+00:13:03,054 --> 00:13:04,996
+Il essaye de nous faire dire que "Seadog" trafiquait.
+
+271
+00:13:04,997 --> 00:13:06,590
+Alors, dis au flic ce qu'il veut entendre
+
+272
+00:13:06,591 --> 00:13:08,025
+si ça peut nous faire revenir les lumières.
+
+273
+00:13:08,026 --> 00:13:09,453
+Je balancerai pas sur "Seadog".
+
+274
+00:13:09,454 --> 00:13:11,071
+Mec, il est six pieds sous terre.
+
+275
+00:13:11,072 --> 00:13:13,117
+- Il en saura rien.
+- Yo, mais moi oui.
+
+276
+00:13:19,288 --> 00:13:20,428
+Mec...
+
+277
+00:13:20,743 --> 00:13:22,997
+t'es trop vieux pour sauter si haut.
+
+278
+00:13:23,379 --> 00:13:24,949
+Vous voulez la question ?
+
+279
+00:13:26,093 --> 00:13:27,673
+Je connais la question.
+
+280
+00:13:28,232 --> 00:13:29,805
+Vous allez pas aimer la réponse.
+
+281
+00:13:29,806 --> 00:13:31,242
+Si, si c'est la vérité.
+
+282
+00:13:31,243 --> 00:13:33,198
+Yo, on pourrait mentir.
+
+283
+00:13:33,199 --> 00:13:35,050
+Comment vous saurez, le flic ?
+
+284
+00:13:36,194 --> 00:13:37,717
+Je saurai.
+
+285
+00:13:44,012 --> 00:13:46,146
+Dans les séries des années 90 à 96,
+
+286
+00:13:46,147 --> 00:13:48,018
+le trésor a introduit des micro-impressions
+
+287
+00:13:48,019 --> 00:13:51,024
+pour lutter contre les contrefaçons
+par ordinateurs et photocopieuses.
+
+288
+00:13:51,025 --> 00:13:52,438
+Suffisant pour arrêter les lycéens
+
+289
+00:13:52,439 --> 00:13:56,752
+mais pas les états voyous et quelques-uns
+des meilleurs faussaires au monde.
+
+290
+00:13:59,683 --> 00:14:02,123
+Il y a un petit défaut.
+
+291
+00:14:02,483 --> 00:14:03,845
+Bon sang.
+
+292
+00:14:03,846 --> 00:14:04,745
+Quoi ?
+
+293
+00:14:04,746 --> 00:14:08,309
+Je pensais qu'un homme qui a trouvé de l'héroïne
+dans le derrière d'un cheval pouvait trouver ça.
+
+294
+00:14:08,310 --> 00:14:10,234
+Vous avez fouillé le derrière d'un cheval ?
+
+295
+00:14:10,235 --> 00:14:12,046
+J'avais un gant.
+
+296
+00:14:14,054 --> 00:14:16,587
+"United States"
+Qu'est-ce qui ne va pas ?
+
+297
+00:14:17,101 --> 00:14:18,542
+Lis-le encore.
+
+298
+00:14:21,918 --> 00:14:25,428
+"Untied States"
+Oh, donc le faussaire était dyslexique.
+
+299
+00:14:25,429 --> 00:14:27,276
+Pas seulement le faussaire.
+
+300
+00:14:28,593 --> 00:14:30,599
+Qui paierait une livraison de drogue
+avec de la fausse monnaie ?
+
+301
+00:14:30,600 --> 00:14:31,895
+Je sais que vous ne voulez pas entendre ça, Gibbs,
+
+302
+00:14:31,896 --> 00:14:34,593
+mais votre capitaine a pu vouloir l'acheter avec
+ces faux billets.
+
+303
+00:14:34,594 --> 00:14:36,246
+C'est pourquoi ils l'ont tué.
+
+304
+00:14:36,247 --> 00:14:39,713
+Le commandant Farrell n'était pas un trafiquant de drogue.
+
+305
+00:14:39,714 --> 00:14:42,313
+Tony, tu as trouvé où se dirigeait leur bateau
+
+306
+00:14:42,314 --> 00:14:43,512
+quand ils ont jeté ces deux corps à la mer ?
+
+307
+00:14:43,513 --> 00:14:45,016
+Et bien, d'après la carte des courants,
+
+308
+00:14:45,017 --> 00:14:46,803
+comme les corps se sont échoués à Fort Story,
+
+309
+00:14:46,804 --> 00:14:49,419
+le bateau devait entrer dans la baie.
+
+310
+00:14:49,420 --> 00:14:51,461
+Bien, ça réduit les recherches.
+
+311
+00:14:51,673 --> 00:14:52,945
+Même si nous connaissions la marina
+
+312
+00:14:52,946 --> 00:14:55,828
+nous n'avons pas encore de nom ou de description du bateau.
+
+313
+00:14:55,829 --> 00:14:57,514
+Eh bien, on a qu'à parler à quelqu'un qui les connaît.
+
+314
+00:14:57,515 --> 00:15:00,269
+Vous pouvez m'amener le patron des deux trafiquants tués.
+
+315
+00:15:00,270 --> 00:15:01,662
+Trujillo ?
+
+316
+00:15:01,663 --> 00:15:04,493
+Bien sûr, juste le temps qu'il fasse venir ses avocats.
+
+317
+00:15:04,494 --> 00:15:07,411
+Ramenez aussi l'enfoiré qui dirige la bande rivale.
+
+318
+00:15:07,412 --> 00:15:10,221
+Ce n'est pas une paire de matelots qui a acheté
+un peu d'herbe.
+
+319
+00:15:10,222 --> 00:15:12,582
+Ce sont des pros. Ils ne vous diraient
+pas le nom de leur mère.
+
+320
+00:15:12,583 --> 00:15:17,273
+Prenez-le bien, mais peut-être que vous
+n'employez pas le ton qu'il faut avec eux.
+
+321
+00:15:17,274 --> 00:15:18,823
+Amenez-les ici.
+
+322
+00:15:24,252 --> 00:15:26,663
+Tu as confiance en quelqu'un dans ton ancienne agence ?
+
+323
+00:15:26,664 --> 00:15:27,973
+Confiance pour quoi ?
+
+324
+00:15:27,974 --> 00:15:30,549
+Trouve qui a contrefait ces billets
+et où ils ont pu circuler.
+
+325
+00:15:30,550 --> 00:15:31,818
+Ça ne devrait pas être un problème.
+
+326
+00:15:31,819 --> 00:15:34,151
+Sans qu'il le dise à son patron.
+
+327
+00:15:36,037 --> 00:15:37,584
+Il y a un problème ?
+
+328
+00:15:37,585 --> 00:15:40,413
+Non, pourquoi ce serait un problème ?
+
+329
+00:15:50,733 --> 00:15:52,697
+- Super.
+- Qu'est-ce que vous faites ?
+
+330
+00:15:53,058 --> 00:15:54,070
+On communique.
+
+331
+00:15:54,071 --> 00:15:55,150
+Abby connaît ce langage ?
+
+332
+00:15:55,151 --> 00:15:57,803
+Oui. Oui, ses parents étaient sourds.
+
+333
+00:15:57,804 --> 00:15:59,707
+Où as-tu appris ?
+
+334
+00:16:00,445 --> 00:16:03,595
+Elle dit que la balle de AK-47 qui a tué le capitaine
+
+335
+00:16:03,596 --> 00:16:06,600
+provient de la même arme qui a tué
+nos deux trafiquants de drogue.
+
+336
+00:16:06,601 --> 00:16:09,646
+Oui, et pourquoi elle n'est pas sortie pour nous le dire ?
+
+337
+00:16:11,356 --> 00:16:12,689
+Hé, merci.
+
+338
+00:16:12,690 --> 00:16:15,248
+C'était sympa Gibbs. T'as rien perdu.
+
+339
+00:16:15,782 --> 00:16:17,827
+Oh, elle a plus.
+
+340
+00:16:17,828 --> 00:16:20,194
+J'ai prélevé des résidus de poudre sur les mains des dealers.
+
+341
+00:16:20,195 --> 00:16:22,128
+Leurs armes avaient fait feu très récemment.
+
+342
+00:16:22,129 --> 00:16:24,011
+Celles du commandant étaient propres.
+
+343
+00:16:27,473 --> 00:16:30,181
+Ils ont dit que Seadog ne dealait pas.
+
+344
+00:16:30,561 --> 00:16:32,280
+Seadog ?
+
+345
+00:16:39,552 --> 00:16:40,303
+Qui est Seadog ?
+
+346
+00:16:40,304 --> 00:16:42,921
+Tu as le numéro de cette journaliste ?
+Ou c'était du bluff ?
+
+347
+00:16:42,922 --> 00:16:44,204
+Gibbs.
+
+348
+00:16:44,953 --> 00:16:46,299
+Vois si elle est libre pour déjeuner.
+
+349
+00:16:46,300 --> 00:16:47,468
+Avec plaisir. Je pourrai dépenser ?
+
+350
+00:16:47,469 --> 00:16:49,467
+Non. Mais je le ferai.
+
+351
+00:16:49,808 --> 00:16:52,647
+Comment on signe "j'aurais dû le savoir".
+
+352
+00:17:01,547 --> 00:17:06,056
+Vous me chassez de la plage et
+maintenant vous jouez le gentleman.
+
+353
+00:17:06,057 --> 00:17:08,996
+- Vous devez vouloir quelque chose de vraiment mauvais.
+- Oh, Ouais.
+
+354
+00:17:08,997 --> 00:17:10,117
+Des bulles ça va ?
+
+355
+00:17:10,118 --> 00:17:11,201
+Parfait.
+
+356
+00:17:15,531 --> 00:17:17,287
+Le pain ici me rappelle Naples.
+
+357
+00:17:17,288 --> 00:17:18,672
+Ah, pas de pain.
+
+358
+00:17:18,673 --> 00:17:20,286
+Je bosse à la télé, vous vous rappelez ?
+
+359
+00:17:20,287 --> 00:17:22,728
+Alors c'est vrai que la caméra vous fait prendre 10 livres ?
+
+360
+00:17:22,729 --> 00:17:25,142
+5 dans mon cas.
+
+361
+00:17:25,822 --> 00:17:27,635
+Que voulez-vous agent Gibbs ?
+
+362
+00:17:27,636 --> 00:17:28,875
+Jethro.
+
+363
+00:17:29,216 --> 00:17:30,018
+Vous plaisantez.
+
+364
+00:17:30,019 --> 00:17:30,846
+Non.
+
+365
+00:17:32,364 --> 00:17:33,391
+Euh...
+
+366
+00:17:34,242 --> 00:17:35,625
+Avoir un bon déjeuner.
+
+367
+00:17:35,626 --> 00:17:38,072
+- Vous connaître un peu.
+- Ah, on y vient.
+
+368
+00:17:38,073 --> 00:17:40,253
+Vous raconter une histoire.
+
+369
+00:17:41,774 --> 00:17:43,126
+Jethro.
+
+370
+00:17:43,444 --> 00:17:45,190
+Le capitaine de frégate Farrell est une vieille histoire.
+
+371
+00:17:45,191 --> 00:17:47,359
+Je suis sur des cadavres plus frais.
+
+372
+00:17:47,360 --> 00:17:49,385
+Ça ne vous intéresse pas de dire la vérité ?
+
+373
+00:17:49,386 --> 00:17:51,922
+Moi oui. Mon producteur non.
+
+374
+00:17:51,923 --> 00:17:53,710
+Il s'intéresse au taux d'audience.
+
+375
+00:17:53,711 --> 00:17:55,957
+Au prix de la réputation d'un homme ?
+
+376
+00:17:55,958 --> 00:17:58,983
+Je n'ai rien rapporté d'autre que ce qui m'a été dit
+par la police.
+
+377
+00:17:58,984 --> 00:18:00,457
+Vous n'avez pas assez creusé.
+
+378
+00:18:00,458 --> 00:18:01,467
+Je n'ai pas pu.
+
+379
+00:18:01,468 --> 00:18:03,881
+Vous m'avez jetée dehors.
+
+380
+00:18:06,392 --> 00:18:08,898
+Et si je vous laissais revenir ?
+
+381
+00:18:14,097 --> 00:18:15,386
+Comment était le déjeuner ?
+
+382
+00:18:17,656 --> 00:18:18,868
+Ils sont là ?
+
+383
+00:18:18,869 --> 00:18:20,407
+Ils attendent au sous-sol.
+
+384
+00:18:23,385 --> 00:18:26,148
+Tu ne vas rien me dire au sujet du déjeuner,
+n'est-ce pas ?
+
+385
+00:18:26,574 --> 00:18:27,714
+Non.
+
+386
+00:18:30,173 --> 00:18:33,449
+Tu devrais te laver les mains avec du savon
+pour avoir dit ça.
+
+387
+00:18:37,659 --> 00:18:39,015
+Agent spécial Gibbs.
+
+388
+00:18:39,016 --> 00:18:43,109
+Frank Trujillo et Darryl Wilkins
+comme vous le vouliez.
+
+389
+00:18:43,731 --> 00:18:45,219
+Par ici.
+
+390
+00:19:03,356 --> 00:19:06,934
+C'était une lueur de reconnaissance que je viens de voir ?
+
+391
+00:19:06,935 --> 00:19:09,380
+Il semblerait qu'ils travaillaient pour vous.
+
+392
+00:19:10,088 --> 00:19:11,876
+Bien. Je peux me casser maintenant ?
+
+393
+00:19:11,877 --> 00:19:13,881
+Pas si vous les avez tués.
+
+394
+00:19:14,794 --> 00:19:17,895
+Je n'ai jamais descendu quelqu'un de ma vie.
+
+395
+00:19:18,174 --> 00:19:22,401
+Je suis le seul ici à ne pas trouver ça drôle ici.
+Et vous savez pourquoi ?
+
+396
+00:19:24,568 --> 00:19:26,070
+Ce capitaine de frégate
+
+397
+00:19:26,071 --> 00:19:30,434
+n'est pas mort de mort naturelle ou en combattant
+pour son pays.
+
+398
+00:19:30,435 --> 00:19:34,400
+Il est mort dans un feu croisé entre vos sbires.
+
+399
+00:19:34,668 --> 00:19:36,878
+Je veux mon avocat.
+
+400
+00:19:40,817 --> 00:19:42,921
+Ceci a été trouvé sur les 2 gars dans le frigo.
+
+401
+00:19:42,922 --> 00:19:44,314
+Des contrefaçons.
+
+402
+00:19:44,315 --> 00:19:48,346
+Ils proviennent d'un gouvernement étranger connu
+pour son soutien aux terroristes.
+
+403
+00:19:49,320 --> 00:19:51,583
+Ce qui fait de vous deux des traîtres suspectés
+
+404
+00:19:51,584 --> 00:19:55,934
+d'être des combattants terroristes.
+
+405
+00:19:56,909 --> 00:19:59,448
+Tony, lis leur leurs droits.
+
+406
+00:19:59,449 --> 00:20:02,544
+Mets-les dans le premier transport pour Guantanamo.
+
+407
+00:20:02,545 --> 00:20:04,876
+Vous n'avez pas le droit de garder le silence.
+
+408
+00:20:04,877 --> 00:20:07,098
+Vous n'avez pas le droit à un avocat.
+
+409
+00:20:07,099 --> 00:20:10,050
+Gibbs, nous ne savons pas qui a contrefait cet argent.
+
+410
+00:20:10,051 --> 00:20:12,703
+Même s'il provient d'un pays allié au terrorisme,
+
+411
+00:20:12,704 --> 00:20:14,570
+vous ne pouvez pas les envoyer à Guantanamo.
+
+412
+00:20:14,571 --> 00:20:16,337
+Ce sont des citoyens américains.
+
+413
+00:20:16,338 --> 00:20:20,292
+Comprenez-vous les droits que vous n'avez pas ?
+
+414
+00:20:23,649 --> 00:20:25,116
+Regardez-moi.
+
+415
+00:20:32,964 --> 00:20:34,978
+Votre bluff a fonctionné.
+
+416
+00:20:35,489 --> 00:20:37,449
+Trujillo veut parler.
+
+417
+00:20:37,450 --> 00:20:40,616
+Il croyait réellement que vous alliez l'envoyer
+à Guantanamo.
+
+418
+00:20:43,341 --> 00:20:45,957
+Le secret d'un bon bluff, agent Fuller.
+
+419
+00:20:45,958 --> 00:20:47,710
+C'est de ne pas bluffer.
+
+420
+00:20:48,440 --> 00:20:51,975
+Les deux gars refroidis sont frères.
+
+421
+00:20:51,976 --> 00:20:55,321
+Jésus et Carlos Garcia.
+Ils utilisaient deux de mes bateaux.
+
+422
+00:20:55,322 --> 00:20:57,769
+La pêche a été maigre ces temps-ci à cause de...
+
+423
+00:20:57,770 --> 00:21:00,144
+braconniers dans mes eaux.
+
+424
+00:21:00,145 --> 00:21:01,256
+Vos eaux ?
+
+425
+00:21:01,257 --> 00:21:03,194
+Vous possédez l'océan, Frank ?
+
+426
+00:21:04,870 --> 00:21:06,881
+Donc, je laisse mes bateaux à quai
+
+427
+00:21:06,882 --> 00:21:09,911
+et ce jusqu'à ce que notre, euh... petite dispute...
+
+428
+00:21:11,086 --> 00:21:13,009
+soit apaisée.
+
+429
+00:21:13,110 --> 00:21:16,307
+Je peux vous indiquer un médiateur fédéral.
+
+430
+00:21:16,308 --> 00:21:19,003
+Désolé, je n'ai pas pu m'empêcher. Vous disiez...
+
+431
+00:21:19,384 --> 00:21:21,409
+Hier, j'ai appris que les frères Garcia
+
+432
+00:21:21,410 --> 00:21:23,976
+ont pris un de mes bateaux dimanche soir,
+
+433
+00:21:23,977 --> 00:21:26,066
+et ne sont jamais revenus.
+
+434
+00:21:26,067 --> 00:21:28,741
+Sans votre permission, Jefe ?
+
+435
+00:21:28,960 --> 00:21:31,113
+<i>Oui. Sans mon autorisation.</i>
+
+436
+00:21:33,317 --> 00:21:36,114
+Tu sors plus ton flingue quand tes hommes
+te doublent, Frank.
+
+437
+00:21:36,115 --> 00:21:37,395
+<i>La ferme idiot, ok ?</i>
+
+438
+00:21:37,396 --> 00:21:40,889
+Tu peux remballer ton blabla à la sauce salsa, ok ?
+
+439
+00:21:42,494 --> 00:21:43,958
+Vous y croyez, Darryl ?
+
+440
+00:21:43,959 --> 00:21:46,933
+Pas moyen qu'il pisse sur ma grille.
+
+441
+00:21:46,934 --> 00:21:48,864
+"Pisser sur ma grille".
+
+442
+00:21:48,865 --> 00:21:50,542
+Il faut que je m'en souvienne de celle-là.
+
+443
+00:21:50,543 --> 00:21:51,879
+Vous savez à quoi ça me fait penser ?
+
+444
+00:21:51,880 --> 00:21:53,210
+Vous étiez concerné,
+
+445
+00:21:53,211 --> 00:21:55,124
+ce bateau appartenait à Trujillo,
+
+446
+00:21:55,125 --> 00:21:56,579
+il pêchait en eaux mitigées.
+
+447
+00:21:56,580 --> 00:21:59,144
+En fait, je n'étais pas au courant avant
+que ce stup ne m'ait traîné ici.
+
+448
+00:21:59,145 --> 00:22:00,921
+Je l'jure sur mes gosses, ok ?
+
+449
+00:22:00,922 --> 00:22:02,792
+On les a pas butés.
+
+450
+00:22:03,645 --> 00:22:05,995
+Il ne vous ment pas.
+
+451
+00:22:05,996 --> 00:22:07,641
+Il ne les a pas tués.
+
+452
+00:22:08,559 --> 00:22:10,428
+Ouais, c'est bon, Tony.
+
+453
+00:22:10,429 --> 00:22:11,775
+Oh, c'est bon.
+
+454
+00:22:11,776 --> 00:22:16,300
+On a deux enfoirés rivaux qui
+témoignent l'un pour l'autre.
+
+455
+00:22:16,301 --> 00:22:18,042
+Tu penses que Garcia a affrété le bateau
+de Franck
+
+456
+00:22:18,043 --> 00:22:19,863
+pour quelques pêcheurs sportifs de l'Iowa ?
+
+457
+00:22:19,864 --> 00:22:21,727
+Ils voulaient faire quelque chose de légal ?
+
+458
+00:22:21,728 --> 00:22:23,232
+Non, non.
+
+459
+00:22:23,233 --> 00:22:25,394
+Ils pêchaient certainement des
+trafiquants de drogues.
+
+460
+00:22:25,395 --> 00:22:26,401
+Ou des clandestins.
+
+461
+00:22:26,402 --> 00:22:28,288
+Ou des trafiquants d'armes.
+
+462
+00:22:29,203 --> 00:22:31,368
+On a oublié un délit plus grave ?
+
+463
+00:22:31,369 --> 00:22:34,202
+Je vous ai dit tout ce que je savais.
+
+464
+00:22:34,752 --> 00:22:36,504
+Puis-je y aller maintenant...
+
+465
+00:22:36,505 --> 00:22:38,677
+<i>S'il vous plaît</i>
+
+466
+00:22:40,267 --> 00:22:41,591
+Oui, bien sûr...
+
+467
+00:22:43,242 --> 00:22:45,409
+Une fois qu'on aura le bateau.
+
+468
+00:22:49,789 --> 00:22:51,999
+Aidez-moi, Darryl.
+
+469
+00:22:53,348 --> 00:22:58,205
+Il a des GPS dans tous ses bateaux.
+
+470
+00:22:58,406 --> 00:23:02,260
+Mais, pourquoi tu nous as pas dit ça, Franck ?
+
+471
+00:23:03,111 --> 00:23:05,441
+J'aime gérer mes propres problèmes.
+
+472
+00:23:05,442 --> 00:23:06,961
+Pas cette fois.
+
+473
+00:23:06,962 --> 00:23:09,505
+Celui-là est à nous.
+
+474
+00:23:13,172 --> 00:23:15,120
+Puis-je utiliser votre téléphone ?
+
+475
+00:23:15,121 --> 00:23:16,165
+Oui.
+
+476
+00:23:20,254 --> 00:23:22,371
+Quel est le nom du bateau ?
+
+477
+00:23:28,312 --> 00:23:30,482
+Tony peut-il renifler la drogue, maintenant ?
+
+478
+00:23:30,483 --> 00:23:31,672
+Tony ?
+
+479
+00:23:32,679 --> 00:23:34,858
+Quelle coïncidence, hein ?
+
+480
+00:23:35,403 --> 00:23:38,354
+Le pont a été lavé, mais il y a des traces de sang.
+
+481
+00:23:38,946 --> 00:23:42,136
+Rapporte-moi des serpillères, Dinozzo.
+Je commence par la cabine.
+
+482
+00:23:42,137 --> 00:23:44,033
+C'est un vrai tombeur.
+
+483
+00:23:45,387 --> 00:23:46,992
+Il est castré.
+
+484
+00:24:36,312 --> 00:24:38,337
+Oh, bon sang !
+
+485
+00:24:40,157 --> 00:24:42,129
+Quel genre de moteur il y a dans ce truc ?
+
+486
+00:24:42,130 --> 00:24:46,693
+Spécial trafiquant.
+Un Blown 502 développant 800 Cv.
+
+487
+00:24:49,803 --> 00:24:51,544
+La cabine principale est un vrai chantier.
+
+488
+00:24:51,545 --> 00:24:53,207
+Taches de sang, impacts de balles...
+
+489
+00:24:53,208 --> 00:24:54,759
+J'ai trouvé des bandages pleins de sang sur la banquette.
+
+490
+00:24:54,760 --> 00:24:55,696
+L'un d'eux a été blessé.
+
+491
+00:24:55,697 --> 00:24:57,113
+Je peux chercher de la drogue ?
+
+492
+00:24:57,114 --> 00:24:59,014
+Nous ne faisons que commencer.
+
+493
+00:24:59,015 --> 00:25:01,213
+Ce que vous pouvez faire, c'est vérifier avec la capitainerie.
+
+494
+00:25:01,214 --> 00:25:02,829
+Voir s'ils ont payé la taxe d'amarrage.
+
+495
+00:25:02,830 --> 00:25:03,790
+Attaquez déjà avec ça,
+
+496
+00:25:03,791 --> 00:25:05,709
+faites le tour de la marina et trouvez quelqu'un...
+
+497
+00:25:05,710 --> 00:25:09,373
+Gibbs, je suis un agent fédéral.
+Je sais quoi demander et à qui.
+
+498
+00:25:10,952 --> 00:25:13,226
+J'oublie tout le temps que vous n'êtes pas
+un promeneur de chien.
+
+499
+00:25:13,227 --> 00:25:15,921
+Oh... Très drôle.
+
+500
+00:25:16,921 --> 00:25:18,332
+Allez, Tony.
+
+501
+00:25:26,322 --> 00:25:27,543
+Ouha.
+
+502
+00:25:28,355 --> 00:25:30,494
+Ils auraient dû passer le balai ici.
+
+503
+00:25:30,495 --> 00:25:34,242
+Ils en ont fait juste assez pour ne pas
+attirer l'attention des passants.
+
+504
+00:25:34,243 --> 00:25:37,097
+On va passer des heures à tout collecter
+et enregistrer.
+
+505
+00:25:56,408 --> 00:25:59,181
+Si j'avais quelques heures.
+
+506
+00:26:03,253 --> 00:26:05,217
+- Quoi ?
+- Tu as l'heure ?
+
+507
+00:26:05,218 --> 00:26:07,405
+Ma montre retarde.
+
+508
+00:26:08,335 --> 00:26:09,994
+Tu vas quelque part, Dinozzo ?
+
+509
+00:26:09,995 --> 00:26:11,083
+Ouais.
+
+510
+00:26:11,337 --> 00:26:12,813
+Au boulot.
+
+511
+00:26:26,193 --> 00:26:27,368
+Caitlin.
+
+512
+00:26:33,531 --> 00:26:35,806
+Je suis contente que tu aies pu te libérer, Marcy.
+
+513
+00:26:37,683 --> 00:26:40,247
+Je ne suis pas passée du côté obscur.
+
+514
+00:26:40,248 --> 00:26:41,377
+Désolée.
+
+515
+00:26:41,604 --> 00:26:44,259
+Alors, ça fait quoi de ne plus porter un tailleur ?
+
+516
+00:26:44,809 --> 00:26:48,452
+Je me sens un peu comme ma mère quand
+elle a brûlé son soutien-gorge.
+
+517
+00:26:50,514 --> 00:26:53,457
+Où as-tu eu ces numéros de série, Kate ?
+
+518
+00:26:53,458 --> 00:26:57,292
+Je suis tombée sur de faux billets lors
+d'une affaire de drogue.
+
+519
+00:26:57,293 --> 00:27:00,254
+Ah. Le capitaine de frégate qui dealait
+à des gamins de "Urban Lights" ?
+
+520
+00:27:00,255 --> 00:27:02,483
+En fait, nous ne pensons pas qu'il dealait, Marcy.
+
+521
+00:27:02,484 --> 00:27:04,431
+Ça m'apprendra à croire aux infos.
+
+522
+00:27:04,432 --> 00:27:06,541
+Le NCIS a en sa possession les faux billets ?
+
+523
+00:27:06,542 --> 00:27:08,552
+Au moins 65000 dollars.
+
+524
+00:27:08,553 --> 00:27:09,868
+Tu es capable de les suivre ?
+
+525
+00:27:09,869 --> 00:27:11,810
+Oui, nous l'étions.
+
+526
+00:27:11,811 --> 00:27:13,270
+Nous ?
+
+527
+00:27:13,664 --> 00:27:14,834
+Désolée, Kate.
+
+528
+00:27:14,835 --> 00:27:19,141
+Tu sais bien que je n'aurais pas pu garder
+une info pareille.
+
+529
+00:27:19,142 --> 00:27:21,579
+Nous avons dû informer le FBI.
+
+530
+00:27:25,120 --> 00:27:26,559
+Agent Todd,
+
+531
+00:27:26,560 --> 00:27:30,003
+je vois que vous avez rejoint les cow-boys.
+
+532
+00:27:31,469 --> 00:27:33,281
+Rien à la capitainerie,
+
+533
+00:27:33,282 --> 00:27:35,877
+mais Jenny et Nancy m'ont été d'une aide
+très précieuse.
+
+534
+00:27:35,878 --> 00:27:37,528
+Jenny et Nancy ?
+
+535
+00:27:37,771 --> 00:27:40,291
+Les filles sur le voilier là-bas.
+
+536
+00:27:40,847 --> 00:27:42,689
+Elles barrent cette beauté tout le long
+
+537
+00:27:42,690 --> 00:27:45,341
+de l'intra costal jusqu'à Miami pour
+son propriétaire.
+
+538
+00:27:45,342 --> 00:27:47,471
+Jusqu'à Miami...
+
+539
+00:27:47,472 --> 00:27:51,812
+Elles y seront que tu ne m'auras pas dit en quoi
+elles t'ont aidé.
+
+540
+00:27:52,644 --> 00:27:55,117
+Lorsqu'elles se sont amarrées hier, il y avait quelqu'un
+sur ce bateau.
+
+541
+00:27:55,118 --> 00:27:56,428
+Tu as une description ?
+
+542
+00:27:56,429 --> 00:27:59,105
+La petite trentaine, lunettes, cheveux courts.
+
+543
+00:27:59,106 --> 00:28:01,727
+Homo ou léger en testostérone.
+Elles sont restées floues.
+
+544
+00:28:01,728 --> 00:28:02,919
+- Il les a ignorées.
+- Impossible.
+
+545
+00:28:02,920 --> 00:28:04,169
+C'est ce que j'ai dit.
+
+546
+00:28:04,170 --> 00:28:06,435
+Qu'ont-elles dit ?
+
+547
+00:28:06,436 --> 00:28:07,535
+Le type avait 2 portables.
+
+548
+00:28:07,536 --> 00:28:09,921
+Lorsqu'il ne téléphonait pas, il travaillait avec
+un ordinateur portable...
+
+549
+00:28:09,922 --> 00:28:12,593
+Puis, vers 13h, Jenny a commencé à faire griller
+des crevettes.
+
+550
+00:28:12,594 --> 00:28:14,302
+Au fait, elles sont australiennes.
+
+551
+00:28:14,303 --> 00:28:17,111
+Australiennes, j'adore les aus...
+
+552
+00:28:17,658 --> 00:28:20,466
+Donc, Jenny faisait griller des crevettes ?
+
+553
+00:28:20,867 --> 00:28:22,807
+Elle a vu un van blanc qui s'est pointé ici.
+
+554
+00:28:22,808 --> 00:28:26,429
+Le type aux lunettes était très content
+de voir le conducteur.
+
+555
+00:28:26,647 --> 00:28:28,429
+Elle a dit qu'ils se sont faits une accolade.
+
+556
+00:28:28,430 --> 00:28:29,376
+Homo.
+
+557
+00:28:29,377 --> 00:28:30,922
+Description du conducteur ?
+
+558
+00:28:30,923 --> 00:28:33,139
+Le même look que celui avec les lunettes,
+sans les lunettes.
+
+559
+00:28:33,140 --> 00:28:36,432
+Ils ont transporté des grosses valises
+depuis le bateau jusqu'au van,
+
+560
+00:28:36,433 --> 00:28:39,774
+puis ils ont aidé à porter un troisième
+type avec une jambe bandée jusqu'au van.
+
+561
+00:28:39,775 --> 00:28:41,959
+Il devait être dans la cabine durant
+tout ce temps.
+
+562
+00:28:41,960 --> 00:28:43,337
+Puis ils sont partis.
+
+563
+00:28:43,338 --> 00:28:45,373
+Rien d'autre sur le van à part sa couleur ?
+
+564
+00:28:45,374 --> 00:28:46,561
+Non. J'ai essayé.
+
+565
+00:28:46,562 --> 00:28:49,238
+Tout ce dont elles se souvenaient était qu'il était blanc.
+
+566
+00:28:51,369 --> 00:28:53,253
+Est-ce que Tony peut renifler le bateau, maintenant ?
+
+567
+00:28:53,254 --> 00:28:55,046
+Il est tout à vous.
+
+568
+00:28:56,232 --> 00:28:57,705
+C'est sûr.
+
+569
+00:28:59,817 --> 00:29:01,068
+C'est quoi ça ?
+
+570
+00:29:02,039 --> 00:29:04,427
+Un avis de confiscation du capital.
+
+571
+00:29:05,234 --> 00:29:06,897
+Ne devez-vous pas d'abord trouver de la drogue ?
+
+572
+00:29:06,898 --> 00:29:08,684
+J'avais l'habitude de me préoccuper de ce genre
+de règles auparavant.
+
+573
+00:29:08,685 --> 00:29:09,921
+Puis je vous ai rencontrés, les gars.
+
+574
+00:29:09,922 --> 00:29:11,187
+Allez, Tony, monte.
+
+575
+00:29:11,188 --> 00:29:13,073
+Très bien, bon garçon. Attends.
+
+576
+00:29:13,460 --> 00:29:14,719
+Je te le dis, patron...
+
+577
+00:29:14,720 --> 00:29:17,612
+les nanas australiennes sont réellement
+différentes des américaines.
+
+578
+00:29:17,613 --> 00:29:20,275
+Un gars doit même les approcher différemment.
+
+579
+00:29:20,276 --> 00:29:22,813
+Je pourrais en tirer plus d'elles que la couleur du van.
+
+580
+00:29:22,814 --> 00:29:25,888
+Je sais que je vais le regretter, Dinozzo...
+
+581
+00:29:27,208 --> 00:29:30,558
+mais poursuis l'interrogatoire de Fuller.
+
+582
+00:29:36,910 --> 00:29:37,903
+Hé.
+
+583
+00:29:37,904 --> 00:29:39,458
+Quelque chose de ton amie ?
+
+584
+00:29:39,459 --> 00:29:40,479
+Ouaip.
+
+585
+00:29:42,278 --> 00:29:45,119
+Tu me déçois, Kate.
+
+586
+00:29:45,120 --> 00:29:46,465
+Moi aussi, Gibbs.
+
+587
+00:29:46,466 --> 00:29:49,673
+Je pensais qu'elle savait mieux manigancer que ça.
+
+588
+00:29:51,136 --> 00:29:52,168
+Oh.
+
+589
+00:29:52,651 --> 00:29:54,307
+C'est le vôtre.
+
+590
+00:30:05,506 --> 00:30:09,193
+Tu devrais sérieusement revoir ta définition du mot "ami".
+
+591
+00:30:09,194 --> 00:30:11,732
+Si j'étais à la place de Marcy, j'aurais fait la même chose.
+
+592
+00:30:11,733 --> 00:30:13,201
+Attention, agent Todd.
+
+593
+00:30:13,202 --> 00:30:15,625
+Vous allez être à court d'offres d'emplois.
+
+594
+00:30:16,054 --> 00:30:19,479
+Puisque j'ai la chance d'être à nouveau
+en votre compagnie, agent Fornell,
+
+595
+00:30:19,480 --> 00:30:23,139
+c'est que c'est plus grave que des billets
+bidons et des vendeurs de drogue morts.
+
+596
+00:30:23,140 --> 00:30:24,869
+Bien plus.
+
+597
+00:30:24,870 --> 00:30:26,278
+Les numéros de série correspondaient
+
+598
+00:30:26,279 --> 00:30:30,053
+aux faux billets passés par des pirates
+du 11 septembre.
+
+599
+00:30:30,774 --> 00:30:33,502
+Vos tueurs ne sont pas des dealers.
+
+600
+00:30:33,503 --> 00:30:36,268
+Ce sont des terroristes.
+
+601
+00:30:42,564 --> 00:30:44,806
+<i>Depuis le 11 septembre, le FBI a établi</i>
+
+602
+00:30:44,807 --> 00:30:47,045
+<i>une base de données mondiale</i>
+
+603
+00:30:47,046 --> 00:30:50,817
+<i>comportant des fichiers de plus de 70
+services secrets étrangers.</i>
+
+604
+00:30:50,818 --> 00:30:56,561
+<i>Toutes les empreintes relevées sur le bateau
+correspondant à des terroristes seront identifiées.</i>
+
+605
+00:30:56,562 --> 00:31:00,057
+Pourquoi n'avons-nous pas accès à cette base de données, Charlie ?
+
+606
+00:31:00,058 --> 00:31:01,646
+<i>Vous n'aviez qu'à demander, Tom.</i>
+
+607
+00:31:01,647 --> 00:31:04,968
+Si votre agent Fornell n'avait pas été là pour nous en informer,
+
+608
+00:31:04,969 --> 00:31:07,045
+j'ai l'impression qu'on demanderait encore.
+
+609
+00:31:07,046 --> 00:31:09,182
+<i>Je devrais peut-être le laisser chez vous ?</i>
+
+610
+00:31:09,897 --> 00:31:12,043
+Je ne crois pas que ça soit nécessaire, Charlie.
+
+611
+00:31:12,044 --> 00:31:15,527
+Laissez-nous seulement nous connecter
+à cette base de données terroristes.
+
+612
+00:31:15,528 --> 00:31:19,053
+<i>Désolé, Tom. Nous aimons contrôler ceux
+qui ont accès à nos données.</i>
+
+613
+00:31:19,054 --> 00:31:21,921
+C'est comment de garder une telle liste pour vous seuls,
+Charlie ?
+
+614
+00:31:21,922 --> 00:31:25,623
+Je suis sûr que quand nos collègues à la tête
+des autres agences apprendront ça,
+
+615
+00:31:25,624 --> 00:31:28,618
+ils ne vont pas arrêter de marteler votre porte.
+
+616
+00:31:29,814 --> 00:31:31,401
+<i>Oh, et puis zut, pourquoi pas ?</i>
+
+617
+00:31:31,402 --> 00:31:34,399
+<i>On est tous du même côté.
+Mais Tom...</i>
+
+618
+00:31:34,400 --> 00:31:37,287
+<i>si un de nos collègues apprend ça,</i>
+
+619
+00:31:37,288 --> 00:31:38,680
+<i>je vous déconnecterai,</i>
+
+620
+00:31:38,681 --> 00:31:44,575
+<i>et le NCIS aura la même priorité que
+les pompiers de Sandusky dans l'Ohio.</i>
+
+621
+00:31:44,799 --> 00:31:46,376
+Compris.
+
+622
+00:31:46,377 --> 00:31:48,192
+Merci, Charlie.
+
+623
+00:31:49,055 --> 00:31:50,327
+Bonne chance.
+
+624
+00:31:51,989 --> 00:31:53,838
+Je vois d'où vous tenez votre aplomb.
+
+625
+00:31:53,839 --> 00:31:56,056
+Combien de temps pour scanner la base de données entière ?
+
+626
+00:31:56,057 --> 00:31:57,236
+Aucune idée.
+
+627
+00:31:57,237 --> 00:31:58,984
+Personne ne l'a jamais fait.
+
+628
+00:32:10,029 --> 00:32:13,317
+Rien ne vaut des crevettes au barbecue.
+
+629
+00:32:13,318 --> 00:32:15,922
+Seul un amerloque les appellerait des crevettes.
+Ce sont des gambas.
+
+630
+00:32:15,925 --> 00:32:17,443
+Des gambas.
+
+631
+00:32:18,132 --> 00:32:20,466
+On dirait un vrai petit raton-laveur, n'est-ce pas Jen ?
+
+632
+00:32:20,467 --> 00:32:21,680
+J'avoue.
+
+633
+00:32:21,681 --> 00:32:22,756
+Raton-laveur ?
+
+634
+00:32:22,757 --> 00:32:25,090
+Qui creuse son trou.
+
+635
+00:32:25,091 --> 00:32:26,544
+J'ai besoin d'un traducteur.
+
+636
+00:32:26,545 --> 00:32:28,613
+Vous savez y faire.
+
+637
+00:32:28,614 --> 00:32:30,185
+Vous ne buvez pas, Tony ?
+
+638
+00:32:30,186 --> 00:32:32,334
+J'adorerais, mais...
+
+639
+00:32:32,335 --> 00:32:34,056
+Je suis en service.
+
+640
+00:32:34,057 --> 00:32:35,633
+Faites comme si je n'étais pas là.
+
+641
+00:32:35,634 --> 00:32:37,636
+Je sais, c'est dur.
+
+642
+00:32:37,977 --> 00:32:39,294
+Vous sirotiez du vin
+
+643
+00:32:39,295 --> 00:32:42,925
+et grilliez des cre... gambas.
+
+644
+00:32:42,926 --> 00:32:45,092
+Quand le van est-il arrivé ?
+
+645
+00:32:45,438 --> 00:32:47,242
+Oh, c'est inutile.
+
+646
+00:32:47,243 --> 00:32:49,965
+Re-créer la scène peut réactiver votre mémoire,
+
+647
+00:32:49,966 --> 00:32:51,449
+particulièrement avec les odeurs.
+
+648
+00:32:51,450 --> 00:32:53,196
+Allons, Nanc'.
+
+649
+00:32:53,487 --> 00:32:54,906
+On va essayer.
+
+650
+00:32:57,483 --> 00:33:00,140
+On a mis les gambas sur le barbec.
+
+651
+00:33:01,060 --> 00:33:03,002
+On a trinqué.
+
+652
+00:33:03,389 --> 00:33:05,307
+Cheers.
+
+653
+00:33:32,147 --> 00:33:33,876
+- Tu le connais ?
+- Non.
+
+654
+00:33:33,877 --> 00:33:35,199
+Il est saoudien.
+
+655
+00:33:35,200 --> 00:33:37,769
+- Comme la plupart des pirates du 11 septembre.
+- C'est quoi l'étoile rouge ?
+
+656
+00:33:37,770 --> 00:33:40,448
+Affaire en cours avec priorité élevée.
+
+657
+00:33:42,428 --> 00:33:45,924
+Il est l'un des terroristes étrangers recherchés
+pour l'attentat des Nations Unies à Bagdad.
+
+658
+00:33:45,925 --> 00:33:48,694
+On pense qu'il est parti d'Irak en
+passant par la Syrie il y a 3 semaines.
+
+659
+00:33:48,695 --> 00:33:49,881
+Destination inconnue.
+
+660
+00:33:49,882 --> 00:33:51,215
+Plus maintenant.
+
+661
+00:33:55,181 --> 00:33:56,107
+<i>Ça a marché !</i>
+
+662
+00:33:56,108 --> 00:33:57,808
+J'ai grillé des gambas avec Jenny et Nancy.
+
+663
+00:33:57,809 --> 00:33:59,406
+Ils n'appellent pas ça des crevettes en Australie.
+
+664
+00:33:59,407 --> 00:34:01,781
+J'ai goûté un excellent Chardonnay avec un superbe bouquet.
+
+665
+00:34:01,782 --> 00:34:03,375
+Je n'ai pas bu...
+
+666
+00:34:03,376 --> 00:34:05,072
+juste reniflé.
+
+667
+00:34:05,073 --> 00:34:07,194
+- Qu'est-ce qu'il débloque ?
+- J'aurais dû le savoir.
+
+668
+00:34:07,195 --> 00:34:08,594
+Non, non, non.
+
+669
+00:34:08,595 --> 00:34:10,381
+Patron, je sais exactement ce qu'elles faisaient
+
+670
+00:34:10,382 --> 00:34:12,461
+quand le van blanc est arrivé...
+
+671
+00:34:12,462 --> 00:34:14,456
+pour rafraîchir leur mémoire. Ça a
+marché !
+
+672
+00:34:14,457 --> 00:34:16,638
+Elles se sont souvenues que le
+conducteur portait un uniforme.
+
+673
+00:34:16,639 --> 00:34:18,057
+Compagnie des eaux ? Du téléphone ?
+
+674
+00:34:18,058 --> 00:34:19,787
+Électricité ? Le câble ?
+
+675
+00:34:19,788 --> 00:34:21,431
+Livreur de lait ? De pain ?
+
+676
+00:34:21,432 --> 00:34:23,125
+Bon sang, ce van pourait venir de n'importe quelle
+
+677
+00:34:23,126 --> 00:34:25,311
+compagnie, ou service public.
+
+678
+00:34:25,312 --> 00:34:26,573
+C'est déjà ça.
+
+679
+00:34:26,574 --> 00:34:28,093
+Je n'ai pas fini.
+
+680
+00:34:28,094 --> 00:34:30,074
+J'ai récupéré l'enregistrement des
+caméras de sécurité
+
+681
+00:34:30,075 --> 00:34:32,792
+de la station service à l'entrée de la marina.
+
+682
+00:34:32,793 --> 00:34:35,358
+C'est très malin, Tony.
+
+683
+00:34:35,359 --> 00:34:36,887
+N'importe quel gars l'aurait fait.
+
+684
+00:34:36,888 --> 00:34:37,783
+Gars ?
+
+685
+00:34:37,784 --> 00:34:40,288
+Tu devrais la fermer un peu.
+
+686
+00:34:40,558 --> 00:34:42,090
+À quelle heure elles disent avoir vu le van ?
+
+687
+00:34:42,091 --> 00:34:44,722
+Aux environs de 13 h.
+
+688
+00:34:46,290 --> 00:34:46,291
+[*] "Sundance Film Festival" plus important événement
+du film indépendant aux États-Unis.
+
+689
+00:34:46,291 --> 00:34:48,560
+On va se présenter au festival du cinéma
+de Sundance* ?
+
+690
+00:34:48,561 --> 00:34:50,557
+Catégorie du meilleur film terroriste.
+
+691
+00:34:50,558 --> 00:34:52,068
+Super.
+
+692
+00:34:52,257 --> 00:34:53,657
+Au fait, si ça intéresse quelqu'un,
+
+693
+00:34:53,658 --> 00:34:56,380
+les seules empreintes que j'ai trouvées sur le bateau,
+sont celles des deux dealers dans le réfrigérateur.
+
+694
+00:34:56,381 --> 00:34:57,271
+Pas celles du capitaine ?
+
+695
+00:34:57,272 --> 00:34:58,638
+Négatif.
+["Négatif-non" jargon militaire]
+
+696
+00:34:58,639 --> 00:35:00,174
+On a identifié un des terroristes.
+
+697
+00:35:00,175 --> 00:35:01,413
+Vous ne me l'avez pas dit.
+
+698
+00:35:01,414 --> 00:35:02,526
+Qui pouvait en placer une ?
+
+699
+00:35:02,527 --> 00:35:04,454
+J'ai comparé ces empreintes avec celles du FBI.
+[J'ai passé ces empreintes par le bureau (pour FBI)]
+
+700
+00:35:04,455 --> 00:35:05,509
+Nada.
+
+701
+00:35:05,510 --> 00:35:09,145
+Tu n'avais pas accès à la totalité de la base de données.
+
+702
+00:35:09,343 --> 00:35:10,890
+Vous nous cachez des choses.
+
+703
+00:35:10,891 --> 00:35:12,816
+C'est pas sympa.
+
+704
+00:35:14,030 --> 00:35:15,573
+- Hé, le voilà.
+- Ouais.
+
+705
+00:35:15,574 --> 00:35:16,736
+Rembobine.
+
+706
+00:35:20,052 --> 00:35:22,306
+Jefferson Électricité.
+
+707
+00:35:25,991 --> 00:35:28,044
+Bon sang. Quelqu'un arrive à lire ce numéro ?
+
+708
+00:35:28,045 --> 00:35:29,232
+Huit, trois, un.
+
+709
+00:35:29,233 --> 00:35:31,183
+Ils vont s'en prendre à une centrale électrique.
+
+710
+00:35:31,184 --> 00:35:33,630
+J'ai trouvé des traces de C-4 dans vos échantillons
+pris sur le bateau.
+
+711
+00:35:33,631 --> 00:35:34,643
+Bon Dieu.
+
+712
+00:35:34,644 --> 00:35:37,148
+Ils vont essayer de faire exploser quelque chose.
+
+713
+00:35:39,016 --> 00:35:41,076
+On a découvert que des terroristes avaient piraté
+
+714
+00:35:41,077 --> 00:35:43,105
+notre système de distribution d'électricité.
+
+715
+00:35:43,106 --> 00:35:44,411
+Ça pourrait priver de courant la moitié du pays.
+
+716
+00:35:44,412 --> 00:35:46,571
+Le C-4 indique une cible importante,
+
+717
+00:35:46,572 --> 00:35:49,592
+une centrale, un transformateur, un nœud répartiteur,
+
+718
+00:35:49,593 --> 00:35:51,432
+qui sont tous sous haute sécurité.
+
+719
+00:35:51,433 --> 00:35:53,095
+Ils ont dû trouver une faille.
+
+720
+00:35:53,096 --> 00:35:55,553
+Il y a de grandes chances que le conducteur travaille
+pour Jefferson Électricité.
+
+721
+00:35:55,554 --> 00:35:57,917
+Je l'espère bien.
+On l'aura avant le crépuscule.
+
+722
+00:35:57,918 --> 00:35:58,798
+Alerte terroriste.
+
+723
+00:35:58,799 --> 00:36:02,444
+Avis de recherche sur un van numéro 8-3-1
+de la compagnie Jefferson Électricité.
+
+724
+00:36:02,445 --> 00:36:03,713
+Je veux savoir où il est,
+
+725
+00:36:03,714 --> 00:36:06,754
+qui le conduit et je veux ça dans 5 minutes.
+
+726
+00:36:06,755 --> 00:36:08,130
+Merci.
+
+727
+00:36:09,467 --> 00:36:11,784
+Vous avez tous fait un travail fantastique.
+
+728
+00:36:13,124 --> 00:36:14,916
+Je me sens comme si j'avais embrassé ma sœur.
+
+729
+00:36:14,917 --> 00:36:16,779
+Je ne savais pas que t'avais une sœur, Tony.
+
+730
+00:36:16,780 --> 00:36:18,899
+J'en ai pas. Je fantasmais.
+
+731
+00:36:18,900 --> 00:36:21,004
+J'ai besoin de musique pour faire ça.
+
+732
+00:36:24,071 --> 00:36:26,200
+Fornell fait une fixation sur la cible.
+
+733
+00:36:26,201 --> 00:36:27,317
+Redis-moi ça ?
+
+734
+00:36:27,318 --> 00:36:31,447
+Quand un pilote de chasse est trop fixé
+sur sa cible, il fonce droit dedans.
+
+735
+00:36:31,448 --> 00:36:34,866
+Ah, comme toi avec les femmes ?
+
+736
+00:36:36,210 --> 00:36:38,546
+La grande panne d'août a été provoquée par un arbre
+
+737
+00:36:38,547 --> 00:36:40,844
+tombé sur une ligne à haute tension, non ?
+
+738
+00:36:40,845 --> 00:36:42,602
+Quelque chose comme ça.
+
+739
+00:36:42,827 --> 00:36:47,696
+Enfin, bon sang, ces types n'ont pas besoin de C-4.
+Une hache suffirait.
+
+740
+00:36:48,748 --> 00:36:51,328
+Ok, voilà le déroulement de la panne du 15 août.
+
+741
+00:36:51,329 --> 00:36:53,264
+Mets-le sur le plasma, Kate.
+
+742
+00:36:54,584 --> 00:36:57,637
+Ça a commencé à Eastlake dans l'Ohio, à 14 h 00,
+
+743
+00:36:57,638 --> 00:36:59,914
+et quand ça a atteint la centrale Indian Point à Buchanan,
+dans l'État de New York,
+
+744
+00:36:59,915 --> 00:37:03,668
+tout le Nord-Est et la majeure partie du Canada
+étaient dans l'obscurité.
+
+745
+00:37:03,912 --> 00:37:07,283
+Tu peux chercher le plan du réseau de l'État sur internet ?
+
+746
+00:37:11,526 --> 00:37:13,469
+Oh ! Regardez-ça !
+
+747
+00:37:14,346 --> 00:37:17,059
+Ils disent que trois coupures bien placées
+en Virginie pourraient
+
+748
+00:37:17,060 --> 00:37:19,394
+provoquer une panne d'ici jusqu'aux Rocheuses.
+
+749
+00:37:19,395 --> 00:37:22,779
+Ouais, ils font plus que le dire,
+ils montrent comment.
+
+750
+00:37:23,046 --> 00:37:25,846
+Attendez, coupez en même les 3 postes qui clignotent,
+
+751
+00:37:25,847 --> 00:37:29,288
+et vous détruisez le réseau électrique
+entier de la côte Est.
+
+752
+00:37:29,983 --> 00:37:32,789
+Tout ce qu'on a à faire c'est de les empêcher
+d'en détruire un ?
+
+753
+00:37:32,790 --> 00:37:34,115
+On dirait bien.
+
+754
+00:37:34,116 --> 00:37:35,881
+Je veux dire, s'il y en a deux qui cèdent en même temps,
+
+755
+00:37:35,882 --> 00:37:37,315
+la perte peut être compensée.
+
+756
+00:37:37,316 --> 00:37:39,808
+Il y aura des coupures, mais pas d'effet en cascade.
+
+757
+00:37:39,809 --> 00:37:42,554
+- Alors lequel va-t-on choisir ?
+- Le plus proche.
+
+758
+00:37:43,197 --> 00:37:44,530
+Ici.
+
+759
+00:37:55,871 --> 00:37:58,574
+L'agent Fornell a regroupé ses agents
+sur les trois postes clés.
+
+760
+00:37:58,575 --> 00:38:00,388
+Il m'a également envoyé une photo du conducteur.
+
+761
+00:38:00,389 --> 00:38:01,472
+Ça a été vite..
+
+762
+00:38:01,473 --> 00:38:02,900
+Ils avaient le numéro du van.
+
+763
+00:38:02,901 --> 00:38:04,749
+Le voilà, regardez.
+
+764
+00:38:05,383 --> 00:38:06,907
+C'est un faux nom. Que fait-il ?
+
+765
+00:38:06,908 --> 00:38:09,020
+Inspecteur des lignes haute-tension.
+
+766
+00:38:18,556 --> 00:38:20,811
+Est-ce que notre poste clé est au bout de cette ligne ?
+
+767
+00:38:20,812 --> 00:38:23,304
+Oui, environ 4 km à l'ouest.
+
+768
+00:38:24,824 --> 00:38:26,181
+Prends cette route.
+
+769
+00:38:33,255 --> 00:38:36,347
+- Pas pensé que tu voudrais qu'on s'arrête pour l'ouvrir.
+- Bon Dieu, non.
+
+770
+00:38:36,348 --> 00:38:38,073
+Ils n'ont pas besoin de détruire les transformateurs.
+
+771
+00:38:38,074 --> 00:38:38,971
+Ce gars sait qu'en détruisant
+
+772
+00:38:38,972 --> 00:38:41,074
+trois tours émettrices bien précises
+ils arriveront au même résultat.
+
+773
+00:38:41,075 --> 00:38:42,648
+Comment sait-on que cette ligne en fait partie ?
+
+774
+00:38:42,649 --> 00:38:44,255
+Elle rejoint le transformateur, non ?
+
+775
+00:38:44,256 --> 00:38:46,236
+Deux lignes le rejoignent et en repartent.
+
+776
+00:38:46,237 --> 00:38:49,416
+Ça fait quatre endroits sur 2 km
+où il peut faire sauter une tour.
+
+777
+00:38:49,417 --> 00:38:50,916
+On aura peut-être de la chance.
+
+778
+00:38:50,917 --> 00:38:52,288
+Personne n'a autant de chance.
+
+779
+00:38:52,289 --> 00:38:54,711
+Hum ! Nous si.
+
+780
+00:39:01,440 --> 00:39:04,550
+Ça pourrait être un employé qui fait son boulot.
+
+781
+00:39:07,876 --> 00:39:10,448
+Non, je ne le pense pas !
+
+782
+00:39:26,955 --> 00:39:28,153
+Fixe !
+
+783
+00:39:43,656 --> 00:39:45,869
+Le téléphone est sur des détonateurs.
+
+784
+00:39:53,769 --> 00:39:56,987
+On dirait que les deux autres
+ont la même configuration.
+
+785
+00:39:56,988 --> 00:40:00,500
+Les trois téléphones doivent tous êtres
+sur le même numéro.
+
+786
+00:40:00,501 --> 00:40:02,429
+Combien de chiffres avait-il tapés ?
+
+787
+00:40:02,430 --> 00:40:03,598
+Six.
+
+788
+00:40:04,482 --> 00:40:07,452
+Un de plus et c'était le grand badaboum.
+
+789
+00:40:07,453 --> 00:40:09,515
+Heureusement que ce n'était pas un as du téléphone.
+
+790
+00:40:09,516 --> 00:40:12,003
+Assez fûté pour connecter trois téléphones
+sur le même numéro.
+
+791
+00:40:12,004 --> 00:40:12,898
+Ouais.
+
+792
+00:40:13,232 --> 00:40:15,839
+Et s'il avait enregistré le numéro ?
+
+793
+00:40:22,990 --> 00:40:25,182
+Ouais, ouais, ouais !
+
+794
+00:40:28,309 --> 00:40:31,679
+Les lumières sont de retour cette nuit
+sur les terrains du centre communautaire
+
+795
+00:40:31,680 --> 00:40:34,285
+depuis que le capitaine de la marine Brian Farrell,
+
+796
+00:40:34,286 --> 00:40:35,929
+fondateur de "Urban lights",
+
+797
+00:40:35,930 --> 00:40:39,157
+a été blanchi de toute connexion avec
+la guerre de la drogue
+
+798
+00:40:39,158 --> 00:40:41,613
+qui lui a coûté la vie dimanche dernier.
+
+799
+00:40:41,614 --> 00:40:45,058
+Le porte-parole du centre communautaire
+a présenté ses excuses
+
+800
+00:40:45,059 --> 00:40:46,792
+et a annoncé qu'une plaque commémorative serait
+
+801
+00:40:46,793 --> 00:40:49,783
+placée en mémoire de "Seadog",
+
+802
+00:40:49,784 --> 00:40:53,292
+tel que le capitaine Farrell était affectueusement
+surnommé par les jeunes
+
+803
+00:40:53,293 --> 00:40:56,378
+qu'il a aidés à avoir une meilleure vie.
+
+804
+00:40:56,379 --> 00:41:00,113
+C'était Diane Fontaine, pour les nouvelles de WXEK.
+
+805
+00:41:00,114 --> 00:41:01,552
+Je rends l'antenne.
+
+806
+00:41:03,941 --> 00:41:07,387
+Doug, j'ai besoin de plans sur les gars.
+
+807
+00:41:13,586 --> 00:41:15,380
+Comment c'était ?
+
+808
+00:41:15,685 --> 00:41:17,534
+Très bien.
+
+809
+00:41:17,780 --> 00:41:20,213
+Je ne vous promets pas que mon
+producteur le diffusera.
+
+810
+00:41:20,214 --> 00:41:21,564
+Au moins vous essayez.
+
+811
+00:41:21,565 --> 00:41:22,937
+C'est un début.
+
+812
+00:41:27,776 --> 00:41:29,788
+Merci, Diane.
+
+813
+00:41:30,936 --> 00:41:33,721
+Je vous en prie, Jethro.
+
+814
+00:41:49,823 --> 00:41:50,647
+Salut.
+
+815
+00:42:06,253 --> 00:42:12,397
+www.team-ncis.com www.forom.com
+

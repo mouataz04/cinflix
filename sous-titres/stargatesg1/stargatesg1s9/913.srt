@@ -1,0 +1,2744 @@
+1
+00:00:02,050 --> 00:00:04,439
+<i>Activation de monde non planifiée.</i>
+
+2
+00:00:16,530 --> 00:00:18,122
+C'était quoi, ça?
+
+3
+00:00:18,850 --> 00:00:20,442
+Je l'ignore.
+
+4
+00:00:21,250 --> 00:00:22,808
+Code d'identification SG-1.
+
+5
+00:00:23,210 --> 00:00:26,247
+Ils reviennent tôt. Ouvrez l'Iris.
+
+6
+00:00:40,530 --> 00:00:41,929
+Vous n'avez rien vu?
+
+7
+00:00:42,090 --> 00:00:44,684
+Rien qui explique
+ce que nous avons entendu?
+
+8
+00:00:45,010 --> 00:00:46,602
+Non, la routine.
+
+9
+00:00:46,810 --> 00:00:48,607
+Nous sommes passés par la porte.
+
+10
+00:00:48,770 --> 00:00:50,761
+Le diagnostic ne révèle
+pas d'irrégularité.
+
+11
+00:00:50,970 --> 00:00:53,359
+Revérifiez les données
+quand on aura fini ici.
+
+12
+00:00:53,530 --> 00:00:54,804
+A vos ordres.
+
+13
+00:00:54,970 --> 00:00:56,244
+Parlez-moi de la planète.
+
+14
+00:00:56,730 --> 00:01:00,166
+Ils ont eu la visite d'un Prieur
+il y a deux semaines.
+
+15
+00:01:00,330 --> 00:01:02,890
+Il a accompli les miracles habituels.
+
+16
+00:01:03,050 --> 00:01:06,486
+Guéri les malades, les aveugles,
+distribué la littérature habituelle.
+
+17
+00:01:06,650 --> 00:01:08,049
+Ils sont faciles à berner.
+
+18
+00:01:08,210 --> 00:01:10,849
+Ils se sentent abandonnés
+par le dieu Amaterasu.
+
+19
+00:01:11,010 --> 00:01:12,443
+Ba'al.
+
+20
+00:01:12,610 --> 00:01:15,363
+- Pardon?
+- Vous avez dit Amaterasu.
+
+21
+00:01:15,530 --> 00:01:20,604
+Selon les derniers rapports,
+P4R était sous le contrôle de Ba'al.
+
+22
+00:01:20,770 --> 00:01:27,209
+P4R? Nous étions sur PX7455.
+Ce n'est pas le bon rapport.
+
+23
+00:01:28,370 --> 00:01:30,804
+Les Tok'ra contrôlent
+les incursions
+
+24
+00:01:30,970 --> 00:01:33,768
+faites par les Ori
+depuis un bon bout de temps.
+
+25
+00:01:33,930 --> 00:01:36,524
+Selon Selmak,
+ils profitent de...
+
+26
+00:01:36,730 --> 00:01:37,924
+Selmak?
+
+27
+00:01:39,930 --> 00:01:40,919
+Oui.
+
+28
+00:01:41,090 --> 00:01:43,160
+Teal'c. Selmak est mort.
+
+29
+00:01:46,810 --> 00:01:48,687
+Mon général.
+
+30
+00:01:48,890 --> 00:01:50,926
+Selmak et Jacob sont en vie.
+
+31
+00:01:51,130 --> 00:01:53,519
+<i>Activation de monde terminée.</i>
+
+32
+00:02:00,570 --> 00:02:03,368
+- Chef?
+- Code d'identification SG-1.
+
+33
+00:02:03,530 --> 00:02:06,124
+C'est l'heure
+qui était planifiée pour le retour.
+
+34
+00:02:06,290 --> 00:02:08,201
+Equipes de défense en alerte.
+
+35
+00:02:10,810 --> 00:02:12,084
+Ouvrez l'Iris.
+
+36
+00:03:41,210 --> 00:03:44,964
+Selon le test, il y a deux SG-1
+identiques en tout point.
+
+37
+00:03:45,130 --> 00:03:46,404
+Comment est-ce possible?
+
+38
+00:03:46,570 --> 00:03:49,164
+Ba'al sait reproduire
+des clones de lui-même.
+
+39
+00:03:49,330 --> 00:03:52,367
+Il pourrait faire la même chose
+des nôtres selon leur ADN.
+
+40
+00:03:52,530 --> 00:03:55,169
+Et le code d'identification?
+
+41
+00:03:55,330 --> 00:03:59,084
+S'ils sont assez bons pour avoir
+des informations aussi secrètes,
+
+42
+00:03:59,250 --> 00:04:01,161
+comment ne savaient-ils pas
+pour Selmak?
+
+43
+00:04:01,370 --> 00:04:03,679
+Ils se sont trompés
+sur les trucs faciles.
+
+44
+00:04:03,890 --> 00:04:05,482
+Ba'al aurait mieux réussi.
+
+45
+00:04:05,690 --> 00:04:09,444
+La 1re équipe a raconté
+des histoires insensées du passé.
+
+46
+00:04:10,850 --> 00:04:13,569
+Alors que la 2e est revenue
+de la bonne planète
+
+47
+00:04:13,730 --> 00:04:15,482
+à l'heure prévue.
+
+48
+00:04:15,650 --> 00:04:18,881
+Nous pouvons supposer
+qu'il s'agit de la vraie SG-1.
+
+49
+00:04:19,050 --> 00:04:22,486
+Qui est l'autre équipe,
+et pourquoi sont-ils là?
+
+50
+00:04:22,650 --> 00:04:24,481
+Exactement.
+
+51
+00:04:25,010 --> 00:04:28,207
+On a tout vérifié. On est allés
+sur PX7445, où ils disent
+
+52
+00:04:28,370 --> 00:04:31,680
+être allés. Les natifs jurent
+ne nous avoir jamais vus.
+
+53
+00:04:31,850 --> 00:04:35,286
+Donc, l'autre équipe ment?
+
+54
+00:04:35,450 --> 00:04:39,238
+Pas nécessairement.
+Ils peuvent arriver de PX7,
+
+55
+00:04:39,410 --> 00:04:41,366
+mais pas celle qu'on connaît.
+
+56
+00:04:41,570 --> 00:04:43,845
+La physique quantique suppose
+
+57
+00:04:44,010 --> 00:04:45,807
+l'existence d'univers parallèles.
+
+58
+00:04:45,970 --> 00:04:48,564
+Un nombre infini
+de réalités alternatives
+
+59
+00:04:48,730 --> 00:04:50,288
+qui existeraient en parallèle.
+
+60
+00:04:50,490 --> 00:04:53,129
+Tout ce qui peut arriver
+arrive forcément
+
+61
+00:04:53,330 --> 00:04:55,241
+dans notre réalité,
+ou dans une autre.
+
+62
+00:04:55,450 --> 00:04:58,760
+Donc, quelque part,
+dans une autre dimension,
+
+63
+00:04:58,930 --> 00:05:01,603
+je serais parvenu à mes fins
+avec Amy Vanderberg?
+
+64
+00:05:02,490 --> 00:05:05,323
+Oui, en théorie.
+
+65
+00:05:05,810 --> 00:05:07,926
+Ca fait réfléchir, non?
+
+66
+00:05:08,610 --> 00:05:11,443
+Nous faisons partie d'un méta-univers
+où les sous-univers
+
+67
+00:05:11,610 --> 00:05:13,566
+se génèrent perpétuellement.
+
+68
+00:05:13,730 --> 00:05:16,449
+Notre expérience
+avec le miroir quantique le prouve.
+
+69
+00:05:16,650 --> 00:05:19,960
+Une réalité peut exister
+où nous n'avons pas battu les Goa'uld
+
+70
+00:05:20,130 --> 00:05:21,768
+et où Stargate est public.
+
+71
+00:05:21,970 --> 00:05:23,608
+Et Selmak en vie.
+
+72
+00:05:23,810 --> 00:05:25,084
+Exactement.
+
+73
+00:05:25,250 --> 00:05:27,206
+Bien que ça semble être le cas,
+
+74
+00:05:27,370 --> 00:05:29,884
+le trajet entre les portes
+n'est pas instantané.
+
+75
+00:05:30,090 --> 00:05:33,048
+Il prend environ 0,3 secondes.
+
+76
+00:05:33,210 --> 00:05:35,246
+Selon le diagnostic de la porte,
+
+77
+00:05:35,410 --> 00:05:39,005
+le temps de trajet pour l'autre SG-1
+a pris 3,4 secondes,
+
+78
+00:05:39,170 --> 00:05:41,240
+suggérant un trajet bien plus long.
+
+79
+00:05:41,450 --> 00:05:43,202
+Si nous acceptons l'hypothèse
+
+80
+00:05:43,370 --> 00:05:46,362
+qu'il s'agisse d'une SG-1 alternative
+
+81
+00:05:46,530 --> 00:05:48,600
+d'un univers parallèle,
+
+82
+00:05:48,770 --> 00:05:51,330
+comment sont-il arrivés jusqu'ici?
+
+83
+00:05:55,690 --> 00:05:57,408
+Aucune idée.
+
+84
+00:05:58,050 --> 00:05:59,563
+Pour le moment.
+
+85
+00:06:04,370 --> 00:06:05,962
+Sumatra Mandheling.
+
+86
+00:06:06,130 --> 00:06:08,246
+Lait, deux sucres.
+
+87
+00:06:10,930 --> 00:06:12,204
+J'ai deviné.
+
+88
+00:06:12,370 --> 00:06:14,884
+Je préfère l'instantané.
+
+89
+00:06:18,370 --> 00:06:20,930
+Tu te sens rentré chez toi, j'imagine?
+
+90
+00:06:21,130 --> 00:06:22,927
+Presque, oui.
+
+91
+00:06:23,090 --> 00:06:25,763
+Mais si c'était le cas,
+
+92
+00:06:25,930 --> 00:06:30,481
+je serais à ta place
+et toi à la mienne, et tu dirais:
+
+93
+00:06:30,650 --> 00:06:34,484
+"J'aimerais t'aider,
+mais je ne sais pas comment."
+
+94
+00:06:35,850 --> 00:06:38,842
+Il y a deux scénarios possibles.
+
+95
+00:06:39,010 --> 00:06:42,366
+A, Carter a raison,
+vous venez d'un univers alternatif,
+
+96
+00:06:42,570 --> 00:06:46,085
+auquel cas, nous ferons notre possible
+pour vous renvoyer chez vous.
+
+97
+00:06:46,370 --> 00:06:48,930
+B, vous n'êtes pas qui vous dites être.
+
+98
+00:06:50,610 --> 00:06:53,761
+Ce qui veut dire que
+nous devons découvrir votre but.
+
+99
+00:06:55,130 --> 00:06:57,928
+Il existe un autre scénario.
+
+100
+00:06:58,090 --> 00:07:02,083
+C, vous n'êtes pas ce que vous dites
+
+101
+00:07:02,250 --> 00:07:06,038
+et c'est à nous
+de découvrir votre but.
+
+102
+00:07:13,690 --> 00:07:15,601
+Je comprends
+ce manque de confiance,
+
+103
+00:07:15,770 --> 00:07:19,206
+mais nous désirons autant que vous
+trouver la vérité.
+
+104
+00:07:19,410 --> 00:07:23,005
+Je ne suis pas convaincu
+par la théorie de l'univers parallèle.
+
+105
+00:07:23,170 --> 00:07:26,640
+Il n'y avait aucun indice dans ce sens
+lors de la mission à PX7.
+
+106
+00:07:26,810 --> 00:07:29,040
+Pas de miroir quantique,
+d'objets aliens.
+
+107
+00:07:29,210 --> 00:07:30,563
+De la pure routine.
+
+108
+00:07:30,770 --> 00:07:34,206
+Vous suggérez que la porte
+
+109
+00:07:34,690 --> 00:07:36,681
+nous aurait envoyés
+dans un autre univers.
+
+110
+00:07:36,850 --> 00:07:38,681
+Mais ça ne marche pas ainsi.
+
+111
+00:07:38,890 --> 00:07:42,405
+- Mais vous êtes là.
+- Si nous sommes bien au SGC.
+
+112
+00:07:43,410 --> 00:07:45,719
+SG-1, il y a six ans.
+
+113
+00:07:45,890 --> 00:07:49,519
+Ils se sont réveillés au SGC,
+mais en fait, ils n'étaient pas sur Terre,
+
+114
+00:07:49,690 --> 00:07:52,727
+et ce n'était qu'un scénario Goa'uld.
+
+115
+00:07:53,770 --> 00:07:56,887
+La Galaxie Pégase. L'an dernier.
+
+116
+00:07:57,050 --> 00:08:01,168
+Une équipe d'Atlantis arrive au SGC.
+
+117
+00:08:01,330 --> 00:08:03,605
+Il se révèle
+qu'ils ne sont pas sur Terre,
+
+118
+00:08:03,770 --> 00:08:07,319
+mais sur une autre planète, et
+qu'ils sont manipulés par des aliens.
+
+119
+00:08:07,530 --> 00:08:10,363
+Ayez confiance.
+Nous ne sommes ni les Goa'uld,
+
+120
+00:08:10,530 --> 00:08:12,486
+ni des aliens manipulateurs.
+
+121
+00:08:13,490 --> 00:08:15,879
+Excusez-moi
+de ne pas vous croire sur parole.
+
+122
+00:08:16,930 --> 00:08:19,444
+Nous avons gagné notre liberté
+à Dakara.
+
+123
+00:08:19,610 --> 00:08:22,522
+Ce jour-là, nous avons battu Ba'al
+et les réplicateurs,
+
+124
+00:08:22,690 --> 00:08:25,807
+et vous vous êtes assurés
+qu'Anubis ne nous menacerait plus.
+
+125
+00:08:26,010 --> 00:08:29,286
+Puis les Jaffa se sont unis
+sous les ordres de Bra'tac.
+
+126
+00:08:29,890 --> 00:08:31,482
+Bra'tac?
+
+127
+00:08:31,930 --> 00:08:35,286
+Ah bon?
+Ce n'est pas encore arrivé, ici.
+
+128
+00:08:35,490 --> 00:08:37,958
+Avec la nouvelle menace,
+je suis revenu à SG-1.
+
+129
+00:08:38,410 --> 00:08:41,243
+Avec le colonel Mitchell,
+puis le colonel Carter,
+
+130
+00:08:41,410 --> 00:08:43,401
+- après...
+- Son mariage.
+
+131
+00:08:45,090 --> 00:08:46,523
+Quoi?
+
+132
+00:08:47,370 --> 00:08:50,442
+Non, après son séjour
+sur le <i>Prometheus</i>.
+
+133
+00:08:50,650 --> 00:08:53,483
+- Mariage?
+- Absolument.
+
+134
+00:09:04,090 --> 00:09:07,446
+On n'a pu empêcher les Ori
+d'établir une 2e tête de pont.
+
+135
+00:09:07,610 --> 00:09:11,319
+Quand nous l'avons compris,
+ils avaient déjà envoyé leurs troupes.
+
+136
+00:09:11,490 --> 00:09:13,128
+Si c'est arrivé
+dans notre réalité...
+
+137
+00:09:13,290 --> 00:09:15,724
+Ca pourrait aussi arriver dans la nôtre.
+
+138
+00:09:15,890 --> 00:09:18,688
+Chulak, Dakara, la plupart
+des fiefs Jaffa sont détruits.
+
+139
+00:09:18,850 --> 00:09:21,239
+Ils s'attaqueront bientôt à la Terre.
+
+140
+00:09:21,410 --> 00:09:23,970
+- Vous devez nous renvoyer.
+- J'y travaille.
+
+141
+00:09:24,130 --> 00:09:26,166
+- J'ai examiné les diagnostics.
+- Et?
+
+142
+00:09:26,330 --> 00:09:29,402
+Un surcroît d'énergie inexpliqué
+a précédé votre arrivée.
+
+143
+00:09:29,570 --> 00:09:33,449
+Certainement lié au son entendu,
+j'analyse encore les données.
+
+144
+00:09:33,610 --> 00:09:37,000
+Nous avons collecté des données
+sur PX7 pendant plus de 24 h.
+
+145
+00:09:37,170 --> 00:09:40,401
+Quand nous y sommes retournés,
+ils ne nous ont pas reconnus.
+
+146
+00:09:40,570 --> 00:09:44,529
+Ce qui suggère que notre point
+de départ était dans notre univers.
+
+147
+00:09:44,690 --> 00:09:45,964
+Quoiqu'il soit arrivé...
+
+148
+00:09:46,170 --> 00:09:48,809
+C'est arrivé entre le départ
+de votre univers
+
+149
+00:09:48,970 --> 00:09:51,040
+et votre arrivée dans le nôtre.
+
+150
+00:09:51,210 --> 00:09:54,407
+Mais la porte n'est pas conçue
+pour le passage entre univers.
+
+151
+00:09:54,570 --> 00:09:58,085
+Ni pour remonter le temps,
+mais c'est déjà arrivé.
+
+152
+00:09:58,250 --> 00:09:59,649
+As-tu remarqué des...
+
+153
+00:09:59,810 --> 00:10:03,485
+Aucune activité météo ou solaire
+inhabituelle, non.
+
+154
+00:10:03,650 --> 00:10:06,847
+Est-il concevable qu'autre chose
+ait affecté le vortex?
+
+155
+00:10:07,010 --> 00:10:09,319
+Qu'est-ce qui pourrait avoir
+cette influence
+
+156
+00:10:09,490 --> 00:10:11,560
+sur un flot de matière subspatiale?
+
+157
+00:10:11,730 --> 00:10:13,482
+Un trou noir.
+
+158
+00:10:16,370 --> 00:10:19,442
+En discutant, nous avons vu
+que nous pouvions attribuer
+
+159
+00:10:19,610 --> 00:10:21,441
+ce phénomène à un créneau précis.
+
+160
+00:10:21,610 --> 00:10:24,283
+A savoir le voyage
+entre les deux portes.
+
+161
+00:10:24,450 --> 00:10:26,486
+- Elle a bien dit " nous"?
+- Pardon?
+
+162
+00:10:26,690 --> 00:10:28,362
+Tu as bien dit " nous"?
+
+163
+00:10:28,570 --> 00:10:33,405
+Moi et moi-même.
+L'autre Samantha Carter.
+
+164
+00:10:33,610 --> 00:10:36,078
+Tu as enfin trouvé quelqu'un
+à ta pointure?
+
+165
+00:10:37,850 --> 00:10:41,638
+Voilà PX7455,
+leur point de départ.
+
+166
+00:10:41,810 --> 00:10:44,244
+Et voici la Terre, l'arrivée.
+
+167
+00:10:44,570 --> 00:10:47,687
+Le vortex qui les a amenés
+passe par cette section
+
+168
+00:10:47,850 --> 00:10:49,249
+divisant sa singularité.
+
+169
+00:10:49,410 --> 00:10:51,970
+Le trou noir créé en détruisant
+la tête de pont Ori.
+
+170
+00:10:52,170 --> 00:10:56,083
+Exactement. En divisant la singularité,
+le subespace a été rompu,
+
+171
+00:10:56,250 --> 00:10:59,560
+créant une trouée
+dans le continuum espace-temps
+
+172
+00:10:59,730 --> 00:11:02,085
+qui les a amenés
+dans notre univers.
+
+173
+00:11:02,290 --> 00:11:05,487
+On a déjà eu des équipes venues
+de l'autre côté du trou noir.
+
+174
+00:11:05,650 --> 00:11:07,925
+Pourquoi n'ont-elles pas
+été affectées?
+
+175
+00:11:08,090 --> 00:11:10,160
+Encore une question stupide.
+
+176
+00:11:10,330 --> 00:11:13,606
+La vôtre était très bien.
+Seule la mienne est stupide.
+
+177
+00:11:13,770 --> 00:11:16,603
+Pourquoi on n'est pas allés
+sur la PX7 alternative
+
+178
+00:11:16,770 --> 00:11:19,523
+- pour vérifier leur histoire?
+- Pas de réponse.
+
+179
+00:11:19,690 --> 00:11:21,920
+La déviation a fonctionné
+dans un sens,
+
+180
+00:11:22,090 --> 00:11:23,921
+spécifique à ce vortex.
+
+181
+00:11:24,090 --> 00:11:26,968
+Pour plus de sécurité,
+je suggère que nous retracions
+
+182
+00:11:27,130 --> 00:11:29,963
+le trajet autour de cette singularité
+pour le moment.
+
+183
+00:11:30,130 --> 00:11:32,963
+<i>Activation de monde non planifiée.</i>
+
+184
+00:11:37,610 --> 00:11:39,009
+Qu'avons-nous cette fois?
+
+185
+00:11:39,170 --> 00:11:42,242
+Encore un code d'identification SG-1.
+
+186
+00:11:42,690 --> 00:11:44,123
+Je confirme?
+
+187
+00:11:44,330 --> 00:11:46,969
+Si une autre équipe arrive,
+ils resteront coincés.
+
+188
+00:11:47,170 --> 00:11:48,922
+Transmission radio.
+
+189
+00:11:49,130 --> 00:11:51,769
+- Ecoutons.
+- <i>Ici Mitchell. Ouvrez vite.</i>
+
+190
+00:11:51,970 --> 00:11:53,562
+<i>Nous avons un problème.</i>
+
+191
+00:11:53,770 --> 00:11:58,241
+- Si nous n'ouvrons pas...
+<i>- Vous me recevez?</i>
+
+192
+00:11:58,410 --> 00:11:59,684
+Les équipes de défense.
+
+193
+00:12:03,370 --> 00:12:05,088
+Ouvrez l'Iris.
+
+194
+00:12:20,250 --> 00:12:22,639
+Que diable se passe-t-il ici?
+
+195
+00:12:35,450 --> 00:12:38,806
+Le phénomène serait limité
+à un seul vortex, hein?
+
+196
+00:12:38,970 --> 00:12:41,086
+J'ai pu sous-estimer son influence.
+
+197
+00:12:41,250 --> 00:12:44,481
+La déchirure spatiale a peut-être
+causé des répercussions
+
+198
+00:12:44,650 --> 00:12:47,847
+dans plusieurs réalités, transformant
+une zone du sous-espace
+
+199
+00:12:48,010 --> 00:12:51,639
+en un entonnoir redirigeant
+leur parcours dans cet univers.
+
+200
+00:12:51,810 --> 00:12:54,244
+Tout vortex passant
+assez près du trou noir
+
+201
+00:12:54,410 --> 00:12:57,129
+est attiré dans la singularité
+et redirigé ici.
+
+202
+00:12:57,290 --> 00:13:00,487
+- Nous serions au centre?
+- Oui, un point de convergence.
+
+203
+00:13:00,650 --> 00:13:03,960
+Ca peut expliquer pourquoi
+nos trajets n'ont pas été affectés.
+
+204
+00:13:04,130 --> 00:13:05,882
+- Ah oui? Colonel Mitchell.
+- Oui.
+
+205
+00:13:06,050 --> 00:13:08,848
+Ordonnez aux équipes
+de se rendre au site Alpha.
+
+206
+00:13:09,010 --> 00:13:12,241
+Jusqu'à nouvel ordre,
+tout voyage du Stargate Command
+
+207
+00:13:12,410 --> 00:13:15,766
+- est suspendu.
+- Et s'il arrive d'autres équipes?
+
+208
+00:13:15,930 --> 00:13:19,127
+Je peux accepter quelques exceptions,
+mais je refuse
+
+209
+00:13:19,290 --> 00:13:22,441
+de transformer cette base
+en Gare Centrale Universelle.
+
+210
+00:13:22,610 --> 00:13:24,282
+Rompez.
+
+211
+00:13:29,090 --> 00:13:31,888
+Pourquoi toutes les équipes
+arrivées jusqu'ici
+
+212
+00:13:32,050 --> 00:13:34,325
+sont exclusivement
+des SG-1 alternatives?
+
+213
+00:13:34,490 --> 00:13:37,766
+Pourquoi pas des SG-2 ou SG-3?
+
+214
+00:13:37,930 --> 00:13:41,889
+SG-1 est l'équipe de front, ce sont eux
+qui ont le plus souvent des ennuis.
+
+215
+00:13:42,090 --> 00:13:44,729
+Résultat, nous sommes plus
+susceptibles de passer.
+
+216
+00:13:44,930 --> 00:13:46,204
+- Bien.
+- Jusqu'ici,
+
+217
+00:13:46,370 --> 00:13:49,487
+nous avons refusé plus de 50 équipes,
+pas toutes des SG-1.
+
+218
+00:13:49,650 --> 00:13:52,801
+Chaque équipe de chaque réalité
+
+219
+00:13:52,970 --> 00:13:56,167
+est arrivée d'un point de départ
+différent. Aucune répétition.
+
+220
+00:13:56,370 --> 00:13:59,089
+Tous d'un couloir d'espace
+démarrant sur Terre,
+
+221
+00:13:59,250 --> 00:14:01,605
+passant à quelques degrés
+de la singularité.
+
+222
+00:14:01,810 --> 00:14:04,961
+Et la signature énergétique
+supplémentaire?
+
+223
+00:14:05,130 --> 00:14:08,839
+- C'est arrivé d'autres fois?
+- Non, pas depuis la 1re équipe.
+
+224
+00:14:09,050 --> 00:14:11,769
+- Des idées?
+- Je n'en suis pas sûre.
+
+225
+00:14:11,930 --> 00:14:14,728
+- Ca me rappelle l'incident sur...
+- K'Tau.
+
+226
+00:14:15,610 --> 00:14:18,647
+Nous avons dû introduire
+un élément super-lourd instable
+
+227
+00:14:18,810 --> 00:14:20,528
+dans la réaction nucléaire solaire.
+
+228
+00:14:20,690 --> 00:14:23,762
+Quand le vortex l'a traversée.
+
+229
+00:14:23,930 --> 00:14:26,649
+Dans ce cas,
+il passe par un trou noir.
+
+230
+00:14:26,810 --> 00:14:28,880
+Dieu sait quel effet ça peut avoir.
+
+231
+00:14:29,970 --> 00:14:32,120
+Son aide peut nous être utile.
+
+232
+00:14:34,410 --> 00:14:37,083
+Deux têtes valent mieux qu'une.
+
+233
+00:14:37,250 --> 00:14:40,401
+<i>Activation de monde non planifiée.</i>
+
+234
+00:14:41,050 --> 00:14:42,881
+Au travail.
+
+235
+00:14:50,010 --> 00:14:51,284
+Mon général.
+
+236
+00:14:51,450 --> 00:14:54,442
+Oh, je vous cherchais.
+
+237
+00:14:55,210 --> 00:14:57,360
+J'ai contacté Bra'tac sur Dakara.
+
+238
+00:14:57,530 --> 00:15:00,249
+Il a envoyé un vaisseau mère
+à l'endroit indiqué
+
+239
+00:15:00,410 --> 00:15:03,049
+- par l'autre colonel Carter.
+- Si les Ori tentent
+
+240
+00:15:03,210 --> 00:15:06,282
+d'établir une autre tête de pont,
+les Jaffa nous préviendront.
+
+241
+00:15:06,450 --> 00:15:09,283
+Si ça se passe de la même façon
+dans les deux univers.
+
+242
+00:15:09,450 --> 00:15:13,363
+Jusqu'ici, les spécificités
+des autres univers sont semblables.
+
+243
+00:15:13,530 --> 00:15:16,203
+C'est ce dont je suis venu vous parler.
+
+244
+00:15:16,410 --> 00:15:18,480
+Une autre SG-1 est passée il y a 20 mn.
+
+245
+00:15:18,650 --> 00:15:21,528
+Ce qui fait 12,
+sans vous compter.
+
+246
+00:15:21,690 --> 00:15:23,169
+On est en bonne compagnie.
+
+247
+00:15:23,330 --> 00:15:26,049
+La dernière est différente,
+en termes de personnel.
+
+248
+00:15:26,210 --> 00:15:27,484
+Ah bon?
+
+249
+00:15:27,650 --> 00:15:30,562
+Il y a quelqu'un
+à qui vous aimerez parler.
+
+250
+00:15:39,410 --> 00:15:42,163
+Daniel, Teal'c,
+où est le général O'Neill?
+
+251
+00:15:44,010 --> 00:15:47,082
+Je suis sûr que vous devez
+avoir des choses à vous dire.
+
+252
+00:15:52,850 --> 00:15:54,249
+Janet.
+
+253
+00:15:55,970 --> 00:15:57,926
+Dr Frasier.
+
+254
+00:15:58,330 --> 00:15:59,604
+Que se passe-t-il?
+
+255
+00:16:01,130 --> 00:16:03,928
+Tu crois que tu es rentrée,
+ce n'est pas le cas.
+
+256
+00:16:04,370 --> 00:16:07,885
+Ce n'est pas ton Stargate. Nous
+ne sommes pas tes Daniel et Teal'c.
+
+257
+00:16:08,090 --> 00:16:11,002
+Toi et ton équipe êtes
+dans une réalité parallèle.
+
+258
+00:16:11,210 --> 00:16:13,440
+Une SGC alternative,
+une Terre alternative
+
+259
+00:16:13,610 --> 00:16:15,328
+dans un univers alternatif.
+
+260
+00:16:15,530 --> 00:16:19,125
+Dans notre réalité, Janet Fraiser
+est morte il y a deux ans.
+
+261
+00:16:21,810 --> 00:16:26,361
+Seize SG-1 différentes.
+Seize points d'origine différents.
+
+262
+00:16:26,530 --> 00:16:30,159
+Un seul point de convergence. Etant
+donné que les voyages précédents
+
+263
+00:16:30,330 --> 00:16:33,845
+n'ont pas causé de déchirure
+dans la structure du subespace...
+
+264
+00:16:34,050 --> 00:16:37,247
+Peut-être pas, mais il est possible
+que ces trajets
+
+265
+00:16:37,410 --> 00:16:41,244
+aient contribué à détériorer
+la structure de l'espace-temps
+
+266
+00:16:41,450 --> 00:16:44,044
+qui, affaibli, a fini par céder
+à la singularité,
+
+267
+00:16:44,210 --> 00:16:46,087
+créant ce pont entre les réalités.
+
+268
+00:16:46,250 --> 00:16:49,560
+La proximité de ces réalités
+explique peut-être
+
+269
+00:16:49,730 --> 00:16:52,722
+l'absence d'échec entropique
+en cascade.
+
+270
+00:16:52,890 --> 00:16:55,358
+Ca nous aide pas
+pour le problème principal.
+
+271
+00:16:55,570 --> 00:16:57,447
+Comment inverser le processus?
+
+272
+00:16:57,650 --> 00:16:59,129
+Je ne sais pas.
+
+273
+00:16:59,290 --> 00:17:03,681
+Sans quoi, on n'en serait pas là.
+
+274
+00:17:03,850 --> 00:17:06,569
+- Café?
+- Non, merci.
+
+275
+00:17:06,730 --> 00:17:10,006
+Je crois que tout ça serait plus facile
+
+276
+00:17:10,170 --> 00:17:13,003
+si Hammond n'avait pas détruit
+le miroir quantique.
+
+277
+00:17:13,170 --> 00:17:17,083
+On aurait pu s'en servir
+pour les renvoyer à leur réalité.
+
+278
+00:17:17,250 --> 00:17:18,603
+Comment?
+
+279
+00:17:18,770 --> 00:17:22,046
+Il y a un nombre quasi infini
+d'univers parallèles.
+
+280
+00:17:22,210 --> 00:17:24,599
+Les chances de retrouver le bon
+
+281
+00:17:24,770 --> 00:17:27,204
+pour une seule des équipes
+sont presque nulles.
+
+282
+00:17:27,370 --> 00:17:29,361
+Excusez-moi, colonel Carter.
+
+283
+00:17:31,330 --> 00:17:33,969
+La mienne.
+
+284
+00:17:34,730 --> 00:17:36,004
+Ici, mon général.
+
+285
+00:17:36,930 --> 00:17:40,320
+J'ai un volontaire
+qui souhaite nous aider.
+
+286
+00:17:49,530 --> 00:17:51,282
+Martouf.
+
+287
+00:17:53,170 --> 00:17:54,489
+Bonjour, Samantha.
+
+288
+00:18:00,970 --> 00:18:03,086
+Je me rappelle la mission sur P3X.
+
+289
+00:18:03,250 --> 00:18:05,923
+Je soignais un pilote.
+On nous a tiré dessus.
+
+290
+00:18:06,090 --> 00:18:08,843
+Tu m'as aidée
+et tu nous as sortis de là.
+
+291
+00:18:09,010 --> 00:18:10,682
+Non. Je n'ai pas pu.
+
+292
+00:18:10,850 --> 00:18:13,967
+Tu as été touchée par une balle
+perdue et tuée sur le coup.
+
+293
+00:18:15,730 --> 00:18:17,766
+Tu as eu des funérailles de héros.
+
+294
+00:18:18,650 --> 00:18:20,129
+Quelle chance!
+
+295
+00:18:23,530 --> 00:18:25,964
+J'espère que tu pourras bientôt rentrer.
+
+296
+00:18:26,130 --> 00:18:28,166
+- Tu espères?
+- Pour le moment,
+
+297
+00:18:28,330 --> 00:18:30,844
+- il ne s'agit que d'un aller simple.
+- Non.
+
+298
+00:18:31,010 --> 00:18:33,843
+Nous devons rentrer dès que possible.
+
+299
+00:18:34,050 --> 00:18:35,642
+Sam et le Dr Lee y travaillent.
+
+300
+00:18:35,810 --> 00:18:39,280
+Vous ne comprenez pas.
+On est menacés par les Ori.
+
+301
+00:18:39,450 --> 00:18:41,042
+La peste nous ravage.
+
+302
+00:18:41,210 --> 00:18:44,122
+Des centaines de milliers de gens
+sont contaminés.
+
+303
+00:18:44,490 --> 00:18:48,927
+Sans traitement,
+la planète sera annihilée.
+
+304
+00:18:55,970 --> 00:19:00,122
+- Comment ça va dans ton univers?
+- Entre nous, tu veux dire?
+
+305
+00:19:01,290 --> 00:19:02,564
+Je suis curieuse.
+
+306
+00:19:04,090 --> 00:19:05,489
+Les choses ont évolué.
+
+307
+00:19:05,650 --> 00:19:08,767
+Comme tu es
+de l'autre côté de la galaxie,
+
+308
+00:19:08,930 --> 00:19:11,763
+les relations à longue distance
+sont difficiles.
+
+309
+00:19:12,610 --> 00:19:15,727
+J'ai rejoint Stargate
+pour me rapprocher de toi.
+
+310
+00:19:15,930 --> 00:19:19,445
+On a travaillé et même
+vécu ensemble un temps.
+
+311
+00:19:19,610 --> 00:19:22,408
+Mais finalement, ça n'a pas fonctionné.
+
+312
+00:19:22,570 --> 00:19:24,686
+Tu es avec quelqu'un d'autre,
+maintenant.
+
+313
+00:19:25,090 --> 00:19:27,843
+- Qui?
+- J'ai trouvé quelque chose.
+
+314
+00:19:31,970 --> 00:19:35,724
+C'est l'analyse post-mortem
+de l'incident de P3W-451.
+
+315
+00:19:35,930 --> 00:19:39,127
+Une planète dont l'orbite
+est passée trop près d'un trou noir.
+
+316
+00:19:39,290 --> 00:19:41,884
+Une des équipes tentait de revenir
+au même moment.
+
+317
+00:19:42,050 --> 00:19:45,486
+Résultat, SGC n'a pas pu
+fermer la porte de ce côté-ci.
+
+318
+00:19:46,970 --> 00:19:49,404
+- Je ne...
+- On n'a pas pu couper la connexion.
+
+319
+00:19:49,570 --> 00:19:53,006
+Le SGC était restée connectée au champ
+gravitationnel de la singularité
+
+320
+00:19:53,170 --> 00:19:54,603
+par la porte ouverte.
+
+321
+00:19:54,930 --> 00:19:56,045
+Mais nous n'essayons...
+
+322
+00:19:56,210 --> 00:19:59,282
+On a utilisé un explosif pour
+créer un surcroît d'énergie
+
+323
+00:19:59,450 --> 00:20:02,487
+à la matière, la forçant à
+se diriger vers une autre porte,
+
+324
+00:20:02,650 --> 00:20:04,322
+coupant ainsi la connexion.
+
+325
+00:20:04,490 --> 00:20:06,287
+Ce qui pourrait expliquer ce son.
+
+326
+00:20:06,450 --> 00:20:09,283
+Et la signature de l'énergie
+avec le flot de la matière
+
+327
+00:20:09,450 --> 00:20:11,680
+du premier vortex.
+Une sorte de...
+
+328
+00:20:11,850 --> 00:20:14,762
+De supernova ou d'explosion
+de rayon gamma émise
+
+329
+00:20:14,930 --> 00:20:18,764
+à la milliseconde où le vortex
+est passé par cette singularité.
+
+330
+00:20:18,930 --> 00:20:20,886
+Il y a une chance sur un milliard
+
+331
+00:20:21,050 --> 00:20:23,962
+que ça ait rompu le subespace
+et crée le point de confluence
+
+332
+00:20:24,130 --> 00:20:26,041
+qui attire les autres réalités ici.
+
+333
+00:20:26,450 --> 00:20:30,045
+Pour sceller le pont, il faut donc
+cibler le point de confluence.
+
+334
+00:20:30,210 --> 00:20:33,441
+Recréer les circonstances
+qui ont créé la rupture.
+
+335
+00:20:33,650 --> 00:20:34,924
+Comment est-ce possible?
+
+336
+00:20:35,090 --> 00:20:37,968
+Tu l'as dit.
+Il y avait une chance sur un milliard.
+
+337
+00:20:38,130 --> 00:20:39,961
+Ces chances augmenteraient beaucoup
+
+338
+00:20:40,130 --> 00:20:43,167
+si nous retirions le vortex
+de l'équation.
+
+339
+00:20:43,970 --> 00:20:45,642
+Que nous arriverait-t-il alors?
+
+340
+00:20:45,810 --> 00:20:47,084
+Nous serions coincés ici.
+
+341
+00:20:50,490 --> 00:20:52,287
+J'ai pensé ne rien vous dire.
+
+342
+00:20:52,490 --> 00:20:54,765
+Je comprends,
+mais c'est la bonne décision.
+
+343
+00:20:54,970 --> 00:20:58,042
+En scellant la brèche,
+aucune autre équipe n'atterrirait ici.
+
+344
+00:20:58,210 --> 00:21:00,041
+Si ça fonctionne.
+
+345
+00:21:00,250 --> 00:21:02,810
+Il reste un obstacle majeur.
+
+346
+00:21:03,010 --> 00:21:05,922
+Comment envoyer un explosif
+dans la singularité?
+
+347
+00:21:09,090 --> 00:21:10,682
+On demande de l'aide à un ami.
+
+348
+00:21:10,890 --> 00:21:13,882
+Thor s'excuse de ne pas pouvoir
+être ici en personne.
+
+349
+00:21:14,050 --> 00:21:16,644
+Mais lui et Heimdall
+sont dans une galaxie voisine
+
+350
+00:21:16,810 --> 00:21:19,165
+pour gérer
+un problème très délicat.
+
+351
+00:21:19,330 --> 00:21:23,448
+J'ai amené l'outil de dilatation
+de temps demandé.
+
+352
+00:21:23,650 --> 00:21:26,039
+Nous apprécions
+votre réaction rapide, Kvasir.
+
+353
+00:21:26,250 --> 00:21:28,081
+Qu'en pensez-vous?
+Ca marchera?
+
+354
+00:21:28,290 --> 00:21:30,326
+Je préfère ne pas faire de pronostic.
+
+355
+00:21:30,770 --> 00:21:33,762
+Dites-nous juste vos intuitions, alors.
+
+356
+00:21:34,450 --> 00:21:37,840
+Spéculer sur la matière ne servirait
+aucun but, en pratique.
+
+357
+00:21:38,490 --> 00:21:41,402
+Seigneur!
+Quelles sont nos chances?
+
+358
+00:21:41,610 --> 00:21:45,239
+Moins de 12 pour cent. Si vous
+arrivez à réaliser votre plan
+
+359
+00:21:45,410 --> 00:21:48,163
+avant que la gravité du trou
+noir ne vous détruise.
+
+360
+00:21:48,890 --> 00:21:50,164
+C'est clair et net.
+
+361
+00:21:50,370 --> 00:21:53,362
+Colonel Mitchell, colonel Carter,
+vous avez le feu vert.
+
+362
+00:21:53,530 --> 00:21:55,600
+Fermez cette chose.
+
+363
+00:21:56,570 --> 00:22:01,644
+J'ai lu tous les rapports de missions
+sur les Asgards.
+
+364
+00:22:01,810 --> 00:22:03,687
+Ce n'est pas ce que j'attendais.
+
+365
+00:22:03,850 --> 00:22:06,125
+A quoi t'attendais-tu?
+
+366
+00:22:06,290 --> 00:22:09,805
+Au moins un pantalon.
+
+367
+00:22:14,810 --> 00:22:17,722
+La distance entre le lancement
+et la cible est cruciale.
+
+368
+00:22:17,890 --> 00:22:20,120
+Vos calculs doivent
+être très précis.
+
+369
+00:22:20,450 --> 00:22:21,565
+Je sais.
+
+370
+00:22:21,730 --> 00:22:24,642
+La moindre erreur
+de timing de l'explosion
+
+371
+00:22:24,810 --> 00:22:27,278
+ou de la proximité du vaisseau
+à la singularité
+
+372
+00:22:27,450 --> 00:22:32,285
+peut déboucher sur un échec au mieux,
+une mort certaine au pire.
+
+373
+00:22:33,690 --> 00:22:36,158
+Désolée.
+J'ai du mal à me concentrer.
+
+374
+00:22:36,330 --> 00:22:39,049
+Je comprends. Vous êtes fatiguée.
+
+375
+00:22:39,210 --> 00:22:42,680
+Permettez-moi
+de terminer le calibrage.
+
+376
+00:22:43,090 --> 00:22:45,081
+Allez-y.
+
+377
+00:22:50,290 --> 00:22:52,599
+Maintes fois on a sauvé
+la Terre et ses alliés
+
+378
+00:22:52,770 --> 00:22:54,806
+des menaces les plus extrêmes.
+
+379
+00:22:57,050 --> 00:23:00,725
+De situations quasi insurmontables,
+
+380
+00:23:00,890 --> 00:23:04,599
+que nous avons toujours réussi
+à surpasser.
+
+381
+00:23:04,810 --> 00:23:06,482
+Je suis désolée.
+
+382
+00:23:06,810 --> 00:23:10,405
+J'aimerais pouvoir vous renvoyer
+chez vous ou retarder la mission...
+
+383
+00:23:10,570 --> 00:23:13,323
+Tu n'as pas d'autre choix
+que de protéger ton monde.
+
+384
+00:23:13,650 --> 00:23:16,289
+Vous n'êtes pas la seule équipe
+dans votre réalité
+
+385
+00:23:16,450 --> 00:23:19,123
+qui cherche un traitement
+pour la peste?
+
+386
+00:23:19,290 --> 00:23:20,439
+Non.
+
+387
+00:23:20,610 --> 00:23:23,443
+Et j'ai l'impression
+que ta Samantha Carter, là-bas,
+
+388
+00:23:23,610 --> 00:23:24,884
+travaille au problème.
+
+389
+00:23:25,090 --> 00:23:28,480
+Ce n'est plus ma Samantha
+depuis longtemps.
+
+390
+00:23:29,610 --> 00:23:31,248
+Tu m'as manqué.
+
+391
+00:23:46,330 --> 00:23:49,402
+Les calibrages sont faits.
+
+392
+00:23:50,370 --> 00:23:52,804
+Merci, Kvasir.
+
+393
+00:24:04,690 --> 00:24:08,000
+Mon général, puis-je vous parler?
+
+394
+00:24:08,210 --> 00:24:10,121
+Bien entendu, docteur, entrez.
+
+395
+00:24:16,090 --> 00:24:19,207
+J'ai une requête
+de la part de toutes les équipes
+
+396
+00:24:19,370 --> 00:24:20,769
+coincées dans cette réalité.
+
+397
+00:24:20,930 --> 00:24:24,366
+Reportez cette mission,
+le temps que nous rentrions chez nous.
+
+398
+00:24:24,530 --> 00:24:29,126
+Je ne peux pas. Nous devons collecter
+des données sur la menace Ori
+
+399
+00:24:29,330 --> 00:24:31,161
+au lieu de rester là sans bouger
+
+400
+00:24:31,370 --> 00:24:34,123
+en attendant que les opérations
+puissent reprendre.
+
+401
+00:24:34,290 --> 00:24:36,850
+C'est impossible
+avant que ce problème soit réglé.
+
+402
+00:24:37,010 --> 00:24:39,126
+Je compatis, mais il me semble
+
+403
+00:24:39,290 --> 00:24:41,884
+qu'il ne faut pas perdre
+de vue l'ensemble.
+
+404
+00:24:42,050 --> 00:24:46,680
+Ceci est au-delà de ce monde,
+cette galaxie, cet univers.
+
+405
+00:24:46,850 --> 00:24:49,887
+Des centaines de milliards
+de vies sont en jeu.
+
+406
+00:24:50,050 --> 00:24:52,439
+Leur survie peut dépendre
+de notre retour
+
+407
+00:24:52,610 --> 00:24:55,283
+et de celui de toutes les SG-1
+coincées ici.
+
+408
+00:24:55,490 --> 00:24:59,085
+Dans mon univers, la Terre souffre
+d'une épidémie mondiale.
+
+409
+00:24:59,250 --> 00:25:02,162
+Une que votre planète
+a déjà subie et vaincue.
+
+410
+00:25:02,330 --> 00:25:04,161
+Vous avez le traitement
+qu'il nous faut.
+
+411
+00:25:04,330 --> 00:25:06,400
+Je n'ai qu'à le leur apporter.
+
+412
+00:25:06,610 --> 00:25:10,489
+Je compatis, mais au risque
+de paraître insensible,
+
+413
+00:25:10,650 --> 00:25:13,483
+mes priorités sont ici.
+
+414
+00:25:13,650 --> 00:25:18,007
+Comment accorder la priorité à la vie
+d'un groupe plutôt qu'un autre?
+
+415
+00:25:18,210 --> 00:25:20,678
+Ma Terre est-elle
+moins importante que la vôtre?
+
+416
+00:25:20,890 --> 00:25:23,085
+Les esprits les plus fins
+de 18 univers
+
+417
+00:25:23,250 --> 00:25:24,922
+cherchent à vous renvoyer.
+
+418
+00:25:25,570 --> 00:25:27,606
+Espérons qu'ils trouvent une solution
+
+419
+00:25:27,770 --> 00:25:30,967
+avant la fin de cette mission.
+Sinon...
+
+420
+00:25:31,410 --> 00:25:32,684
+j'en serais désolé.
+
+421
+00:25:43,370 --> 00:25:46,487
+L'ogive est dans le générateur
+de dilatation de temps.
+
+422
+00:25:46,650 --> 00:25:50,006
+Une fois les contrôles finis,
+on sera prêts.
+
+423
+00:25:52,810 --> 00:25:55,563
+- Où est l'équipe?
+- Ici même.
+
+424
+00:25:55,730 --> 00:25:59,120
+Vu les dangers, il a été décidé
+que nous partirions seuls.
+
+425
+00:25:59,290 --> 00:26:02,202
+Si ce plan échoue,
+on sera les seuls à se planter.
+
+426
+00:26:02,370 --> 00:26:05,043
+Il y en a d'autres comme nous,
+là d'où on vient.
+
+427
+00:26:06,210 --> 00:26:09,361
+Les périls de la mission
+ne peuvent être pris à la légère.
+
+428
+00:26:09,530 --> 00:26:12,647
+Il est possible
+que le <i>Prometheus</i> n'y survive pas.
+
+429
+00:26:13,250 --> 00:26:17,562
+Courage et résolution
+seront des atouts précieux
+
+430
+00:26:17,730 --> 00:26:19,766
+dans cette entreprise.
+
+431
+00:26:21,410 --> 00:26:24,129
+Bonne chance à vous.
+
+432
+00:26:27,210 --> 00:26:29,166
+Thor me manque.
+
+433
+00:26:34,370 --> 00:26:36,679
+Le temps de boire ce jus d'orange,
+
+434
+00:26:36,850 --> 00:26:40,081
+il était resté au frigo pendant quoi,
+un mois?
+
+435
+00:26:40,570 --> 00:26:42,765
+Il avait si soif
+qu'il a tout avalé.
+
+436
+00:26:42,930 --> 00:26:44,807
+Il a pris son souffle, et là...
+
+437
+00:26:44,970 --> 00:26:47,882
+Le champion de tous les crachats.
+
+438
+00:26:48,050 --> 00:26:50,564
+Il y avait du jus sur la table,
+les chaises...
+
+439
+00:26:50,770 --> 00:26:52,601
+- Sur tante Emma.
+- Tante Emma.
+
+440
+00:26:52,810 --> 00:26:55,529
+La grosse vieille Emma
+assise juste en face.
+
+441
+00:26:55,730 --> 00:26:59,166
+Des bouts de bacon sur le visage
+et du jus d'orange sur le nez.
+
+442
+00:26:59,770 --> 00:27:01,044
+Souvenir du bon temps?
+
+443
+00:27:01,490 --> 00:27:03,799
+Je peux lui parler toute la journée.
+
+444
+00:27:04,290 --> 00:27:06,440
+- J'imagine.
+- Tu as terminé?
+
+445
+00:27:06,650 --> 00:27:08,766
+Oui, je suis crevée,
+je vais me coucher.
+
+446
+00:27:09,410 --> 00:27:12,447
+Mon heure de coucher est passée.
+
+447
+00:27:12,610 --> 00:27:14,089
+Dormir est bon pour le teint.
+
+448
+00:27:14,290 --> 00:27:16,167
+Tu peux parler.
+
+449
+00:27:22,530 --> 00:27:23,599
+Alors?
+
+450
+00:27:23,770 --> 00:27:26,967
+J'ai détourné les protocoles
+de sécurité. C'est prêt.
+
+451
+00:27:27,130 --> 00:27:28,529
+Parfait.
+
+452
+00:27:28,690 --> 00:27:33,718
+Le temps qu'ils s'en rendent compte,
+ce sera trop tard.
+
+453
+00:27:50,410 --> 00:27:52,048
+C'est l'heure.
+
+454
+00:27:59,010 --> 00:28:01,160
+Nous approchons la singularité.
+
+455
+00:28:07,890 --> 00:28:11,485
+Calcul de la distance minimale
+au lancement de l'ogive.
+
+456
+00:28:17,610 --> 00:28:19,248
+ARMURERIE 6
+
+457
+00:28:31,530 --> 00:28:32,599
+Allez, Carter.
+
+458
+00:28:54,730 --> 00:28:57,244
+C'est bon.
+Transmission de l'information.
+
+459
+00:28:58,690 --> 00:29:00,169
+Bien reçu.
+
+460
+00:29:00,330 --> 00:29:03,766
+Moteurs en route. Nous nous rendons
+aux coordonnées.
+
+461
+00:29:08,170 --> 00:29:09,603
+Nous avons atteint la cible.
+
+462
+00:29:10,850 --> 00:29:11,839
+J'ai entendu.
+
+463
+00:29:12,050 --> 00:29:14,564
+Ils cherchent à se garer, je crois.
+
+464
+00:29:30,250 --> 00:29:31,968
+Je te préviens.
+
+465
+00:29:32,130 --> 00:29:35,645
+Je me suis entraîné
+avec ces prises Sodan.
+
+466
+00:29:37,810 --> 00:29:39,482
+Je t'avais prévenu.
+
+467
+00:29:41,970 --> 00:29:44,006
+C'était plus facile de le zater, non?
+
+468
+00:29:44,170 --> 00:29:48,288
+Oui, mais moins satisfaisant.
+
+469
+00:29:50,810 --> 00:29:53,085
+Il m'a insulté, ou quoi?
+
+470
+00:29:59,650 --> 00:30:01,368
+Que se passe-t-il?
+
+471
+00:30:03,250 --> 00:30:05,047
+Le plan de vol a été modifié.
+
+472
+00:30:29,570 --> 00:30:32,130
+Que se passe-t-il?
+
+473
+00:30:32,290 --> 00:30:34,201
+Nous faisons un petit détour.
+
+474
+00:30:34,370 --> 00:30:37,726
+Et ça nous détournera
+de combien de temps?
+
+475
+00:30:37,890 --> 00:30:39,767
+Environ trois semaines.
+
+476
+00:30:40,490 --> 00:30:42,720
+Vous voulez vous rendre sur Atlantis.
+
+477
+00:30:43,570 --> 00:30:45,561
+Vu les parallèles entre nos réalités,
+
+478
+00:30:45,730 --> 00:30:47,322
+je ne vois pas d'autre endroit.
+
+479
+00:30:47,490 --> 00:30:49,082
+Dès la fin de notre mission,
+
+480
+00:30:49,250 --> 00:30:51,559
+on vous lâchera
+sur la 1re planète habitable.
+
+481
+00:30:51,730 --> 00:30:53,448
+Jusque là,
+
+482
+00:30:53,610 --> 00:30:55,328
+amusez-vous bien.
+
+483
+00:30:58,210 --> 00:31:02,806
+Ca nous laisse le temps
+de trouver une solution.
+
+484
+00:31:03,250 --> 00:31:04,729
+Quelqu'un a une idée?
+
+485
+00:31:04,890 --> 00:31:07,279
+Vu la situation unique
+où nous nous trouvons,
+
+486
+00:31:07,450 --> 00:31:10,442
+il est possible d'anticiper
+leurs actes et réactions.
+
+487
+00:31:10,610 --> 00:31:13,443
+Nous n'avons
+qu'à nous mettre à leur place.
+
+488
+00:31:13,610 --> 00:31:15,646
+Ca ne devrait pas être dur.
+
+489
+00:31:33,130 --> 00:31:36,440
+L'autre colonel Mitchell
+veut te parler.
+
+490
+00:31:39,610 --> 00:31:42,329
+Tu vas l'ignorer
+pendant trois semaines?
+
+491
+00:31:53,970 --> 00:31:56,962
+Vous vous comportez
+de façon raisonnable.
+
+492
+00:31:57,130 --> 00:31:58,802
+Vous ne nous avez pas blessés...
+
+493
+00:31:58,970 --> 00:32:00,801
+trop.
+
+494
+00:32:01,650 --> 00:32:05,438
+Vous n'êtes pas barbus, donc pas
+d'un univers de jumeaux diaboliques.
+
+495
+00:32:05,850 --> 00:32:07,169
+Bon.
+
+496
+00:32:07,450 --> 00:32:10,408
+Donc, si je me connais
+comme je le crois,
+
+497
+00:32:10,570 --> 00:32:13,130
+j'ai une bonne raison
+de faire ce que vous faites.
+
+498
+00:32:13,290 --> 00:32:16,088
+Je le comprends mieux que quiconque,
+en fait.
+
+499
+00:32:16,250 --> 00:32:17,649
+Sois franc avec moi.
+
+500
+00:32:17,810 --> 00:32:19,243
+Que se passe-t-il?
+
+501
+00:32:19,410 --> 00:32:21,241
+Je vais te demander un truc.
+
+502
+00:32:21,410 --> 00:32:25,926
+Jusqu'où irais-tu
+pour sauver la vie sur Terre?
+
+503
+00:32:26,770 --> 00:32:28,761
+Pas la peine, je connais la réponse.
+
+504
+00:32:28,930 --> 00:32:33,208
+- Tu ferais exactement pareil.
+- Pour chercher du ZPM?
+
+505
+00:32:34,570 --> 00:32:36,925
+Pourquoi aller sur Atlantis, sinon.
+
+506
+00:32:37,090 --> 00:32:40,162
+Nous n'avons plus de ZPM.
+
+507
+00:32:40,530 --> 00:32:43,761
+Il nous faut le vôtre pour l'arme
+des Anciens en Antarctique.
+
+508
+00:32:43,970 --> 00:32:45,528
+Notre Terre contre la vôtre.
+
+509
+00:32:45,730 --> 00:32:47,482
+Ce que permet le ZPM,
+
+510
+00:32:47,650 --> 00:32:51,086
+c'est un aller simple
+de la galaxie Pégase à la Terre.
+
+511
+00:32:51,250 --> 00:32:55,528
+Les millions de vies en danger
+valent plus que l'inconvénient
+
+512
+00:32:55,730 --> 00:32:57,766
+de ces aller-retour sur le <i>Daedalus</i>.
+
+513
+00:32:57,930 --> 00:32:59,761
+On en a besoin
+pour cacher Atlantis.
+
+514
+00:32:59,930 --> 00:33:02,683
+S'ils découvrent
+que la ville n'est pas détruite,
+
+515
+00:33:02,850 --> 00:33:04,920
+ils lanceront une autre attaque.
+
+516
+00:33:05,130 --> 00:33:07,086
+Si Atlantis chute,
+
+517
+00:33:07,250 --> 00:33:09,286
+cette galaxie sera leur prochaine cible.
+
+518
+00:33:09,890 --> 00:33:12,040
+Si les Wraith reviennent.
+
+519
+00:33:12,250 --> 00:33:14,241
+S'ils attaquent.
+
+520
+00:33:14,410 --> 00:33:16,605
+Si la ville est détruite.
+
+521
+00:33:16,770 --> 00:33:19,045
+Ce qui nous menace est plus immédiat.
+
+522
+00:33:19,210 --> 00:33:21,770
+Ca ne vous donne pas le droit
+de faire ça.
+
+523
+00:33:23,130 --> 00:33:25,360
+Disons que ça marche.
+
+524
+00:33:25,530 --> 00:33:29,159
+Que vous puissiez
+prendre le ZPM d'Atlantis.
+
+525
+00:33:29,330 --> 00:33:32,720
+Comment le ramener chez vous?
+
+526
+00:33:38,170 --> 00:33:39,569
+Vous connaissez la solution.
+
+527
+00:33:44,290 --> 00:33:45,769
+Vous aviez tout prévu.
+
+528
+00:34:09,970 --> 00:34:13,565
+On avait raison. Ils veulent le ZPM.
+
+529
+00:34:19,930 --> 00:34:21,682
+Tu es sûre que tu peux ouvrir?
+
+530
+00:34:21,850 --> 00:34:25,525
+J'ai aidé à construire ce truc.
+Ouvrir ne sera pas le plus dur.
+
+531
+00:34:25,690 --> 00:34:28,488
+Reprendre le contrôle du vaisseau,
+par contre...
+
+532
+00:34:37,690 --> 00:34:40,523
+- L'armurerie est par là.
+- Va au prochain niveau.
+
+533
+00:34:40,690 --> 00:34:42,282
+Tu risques moins d'être repéré.
+
+534
+00:34:42,450 --> 00:34:45,248
+On va prendre le cristal de contrôle
+à la salle des machines.
+
+535
+00:34:45,410 --> 00:34:48,368
+Quand ils enquêteront, on attaquera.
+
+536
+00:34:48,530 --> 00:34:50,202
+Très bien.
+
+537
+00:34:59,530 --> 00:35:00,519
+ARMURERIE 5
+
+538
+00:35:16,530 --> 00:35:19,886
+Il fallait bien essayer.
+J'aurais fait pareil.
+
+539
+00:35:22,370 --> 00:35:24,440
+Nous savons comment
+vous êtes sortis,
+
+540
+00:35:24,610 --> 00:35:27,602
+il nous reste à nous assurer
+que ça n'arrive plus.
+
+541
+00:35:31,890 --> 00:35:33,528
+On ne frappe pas.
+
+542
+00:35:36,330 --> 00:35:38,048
+Donc, pendant qu'on était là...
+
+543
+00:35:38,250 --> 00:35:41,447
+On était à l'autre niveau
+dans l'autre armurerie.
+
+544
+00:35:42,730 --> 00:35:44,448
+Sûr que je suis pas le bon Mitchell?
+
+545
+00:35:44,650 --> 00:35:47,608
+Oui, car on aurait fait la même chose
+à ta place.
+
+546
+00:35:47,970 --> 00:35:49,085
+Soyons clairs.
+
+547
+00:35:49,250 --> 00:35:52,481
+On savait ce que vous feriez,
+on a donc préparé ce piège,
+
+548
+00:35:52,650 --> 00:35:57,007
+sans réaliser que vous sauriez qu'on
+saurait, que vous nous piégeriez.
+
+549
+00:36:01,730 --> 00:36:04,688
+- En effet.
+- Tu nous emmènes au bon Mitchell?
+
+550
+00:36:18,410 --> 00:36:23,120
+Sam a déconnecté le relais,
+n'essayez même pas.
+
+551
+00:36:31,850 --> 00:36:33,920
+Quelqu'un a une idée?
+
+552
+00:36:38,890 --> 00:36:41,450
+- Walter.
+- Une communication
+
+553
+00:36:41,610 --> 00:36:43,407
+- du <i>Prometheus</i>.
+- Ecoutons.
+
+554
+00:36:43,570 --> 00:36:45,526
+- Oui.
+<i>- Ici le colonel Carter.</i>
+
+555
+00:36:45,690 --> 00:36:46,725
+J'en suis heureux.
+
+556
+00:36:46,890 --> 00:36:48,528
+La mission a donc réussi?
+
+557
+00:36:48,730 --> 00:36:51,847
+Non, nous annulons la mission
+et rentrons immédiatement.
+
+558
+00:36:52,010 --> 00:36:53,284
+<i>Colonel?</i>
+
+559
+00:36:53,450 --> 00:36:57,648
+J'ai trouvé comment renvoyer
+ces équipes à leurs réalités.
+
+560
+00:36:57,810 --> 00:36:59,084
+<i>Comment?</i>
+
+561
+00:36:59,250 --> 00:37:03,607
+En faisant la même chose
+que la 1re pour arriver chez nous.
+
+562
+00:37:05,650 --> 00:37:07,800
+Ils avaient tout prévu?
+
+563
+00:37:07,970 --> 00:37:10,882
+Ce qui explique le bruit,
+et l'énergie supplémentaire
+
+564
+00:37:11,050 --> 00:37:13,518
+relevés par le diagnostic
+du flot de matière.
+
+565
+00:37:13,690 --> 00:37:15,965
+Ils ont ouvert le vortex
+par le trou noir,
+
+566
+00:37:16,130 --> 00:37:18,325
+puis jeté un pont vers cet univers.
+
+567
+00:37:18,490 --> 00:37:20,082
+C'est ça qu'a dit Carter?
+
+568
+00:37:20,250 --> 00:37:24,163
+Je me rappelle juste:
+"Vortex, trou noir, jeté."
+
+569
+00:37:27,770 --> 00:37:29,567
+Attention.
+
+570
+00:37:39,050 --> 00:37:40,608
+Colonel Carter.
+
+571
+00:37:40,770 --> 00:37:44,001
+Nous avons établi un vortex
+vers PX7455.
+
+572
+00:37:44,210 --> 00:37:45,802
+Dès que le sergent Siler a fini,
+
+573
+00:37:45,970 --> 00:37:48,359
+nous tirerons avec l'arme à énergie.
+
+574
+00:37:48,530 --> 00:37:50,805
+Ca inversera la brèche
+dans l'espace-temps
+
+575
+00:37:50,970 --> 00:37:52,961
+et l'effet de convergence.
+
+576
+00:37:53,130 --> 00:37:55,360
+Chaque équipe vient
+d'un point différent.
+
+577
+00:37:55,530 --> 00:38:00,001
+Une fois l'effet inversé,
+on créera des vortex
+
+578
+00:38:00,170 --> 00:38:03,287
+qui retraceront le trajet initial...
+
+579
+00:38:03,450 --> 00:38:05,247
+Compris. Ils retournent chez eux.
+
+580
+00:38:09,890 --> 00:38:13,166
+- Prêt quand vous voulez.
+- Dégagez la salle de la porte.
+
+581
+00:38:14,690 --> 00:38:17,648
+J'aurais besoin de l'arme,
+une fois le travail accompli.
+
+582
+00:38:17,810 --> 00:38:22,042
+Ce n'est qu'un prêt temporaire.
+
+583
+00:38:22,210 --> 00:38:24,201
+Je sais. On vous la rendra.
+
+584
+00:38:24,410 --> 00:38:26,002
+Abaissez la protection.
+
+585
+00:38:30,050 --> 00:38:31,927
+Tirez.
+
+586
+00:38:42,450 --> 00:38:45,362
+Nous avons un vortex stable,
+3,4 s. Ca a marché.
+
+587
+00:38:45,570 --> 00:38:47,208
+Ouvrez. Amenez-les.
+
+588
+00:39:06,850 --> 00:39:08,727
+Hé, Mitchell.
+
+589
+00:39:09,450 --> 00:39:11,327
+Quand ça sera le moment,
+
+590
+00:39:11,490 --> 00:39:13,162
+coupe le vert.
+
+591
+00:39:25,850 --> 00:39:27,488
+Que diable veut-il dire?
+
+592
+00:39:27,690 --> 00:39:29,408
+Je ne sais pas.
+
+593
+00:39:30,410 --> 00:39:33,004
+J'ai l'impression
+que tu le sauras un jour.
+
+594
+00:39:51,330 --> 00:39:54,322
+- Les autres sont partis?
+- Vous êtes les derniers.
+
+595
+00:39:54,490 --> 00:39:57,084
+J'ai aimé travailler de nouveau
+avec toi, Sam.
+
+596
+00:39:58,210 --> 00:40:00,770
+Tu nous as vraiment manqué.
+
+597
+00:40:01,090 --> 00:40:04,127
+Par curiosité, où suis-je allée?
+
+598
+00:40:06,250 --> 00:40:08,366
+Congé maternité.
+
+599
+00:40:13,890 --> 00:40:16,040
+On a quelque chose pour vous.
+
+600
+00:40:18,090 --> 00:40:19,762
+Le traitement contre la peste.
+
+601
+00:40:21,450 --> 00:40:23,122
+Merci, mon général.
+
+602
+00:40:29,210 --> 00:40:31,929
+- C'était bon de te revoir.
+- Toi aussi.
+
+603
+00:40:40,730 --> 00:40:43,244
+Pourvu que ça ne soit pas
+la dernière fois.
+
+604
+00:40:47,290 --> 00:40:52,444
+C'est pas qu'on s'embête,
+mais on a une planète à sauver.
+
+605
+00:40:55,770 --> 00:40:57,249
+Au revoir.
+

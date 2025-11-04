@@ -1,0 +1,2858 @@
+1
+00:00:01,680 --> 00:00:03,716
+<i>Précédemment...</i>
+
+2
+00:00:03,960 --> 00:00:07,032
+Tout ce que vous avez à faire,
+c'est le piquer une fois.
+
+3
+00:00:07,240 --> 00:00:10,949
+L'effet sera immédiat. Il vous prendra
+pour son esclave, Jarren.
+
+4
+00:00:11,200 --> 00:00:14,112
+- Pas de violence.
+- Votre nom ?
+
+5
+00:00:14,360 --> 00:00:16,476
+Cam Mitchell.
+Chasseur de primes.
+
+6
+00:00:19,440 --> 00:00:22,876
+Ne vous inquiétez pas à propos
+de SG-1 ou de la Terre.
+
+7
+00:00:23,560 --> 00:00:26,074
+Ils sont insignifiants.
+
+8
+00:00:32,920 --> 00:00:34,797
+Nous approchons des coordonnées.
+
+9
+00:00:35,000 --> 00:00:37,719
+Sortez-nous de l'hyperespace.
+Boucliers au maximum.
+
+10
+00:00:43,720 --> 00:00:45,153
+Mon colonel ?
+
+11
+00:00:45,520 --> 00:00:47,670
+Nous devrions l'avoir en visuel.
+
+12
+00:00:49,760 --> 00:00:52,513
+Si la seconde superporte est là,
+nous devrions la voir.
+
+13
+00:00:52,720 --> 00:00:53,994
+Quelque chose
+sur les capteurs ?
+
+14
+00:00:54,200 --> 00:00:57,351
+Il semble y avoir un puissant
+champ gravitationnel à proximité.
+
+15
+00:00:57,560 --> 00:01:00,233
+Les superportes sont alimentées
+par des trous noirs.
+
+16
+00:01:00,440 --> 00:01:03,159
+Ca n'est pas un trou noir.
+C'est une étoile à neutrons.
+
+17
+00:01:03,360 --> 00:01:06,875
+Le champ est assez puissant
+pour affaiblir nos boucliers et...
+
+18
+00:01:09,800 --> 00:01:11,119
+Rapport sur les dommages.
+
+19
+00:01:11,360 --> 00:01:13,157
+Dommages sur la coque
+des ponts 2 et 7.
+
+20
+00:01:13,400 --> 00:01:15,834
+Des stations de combat !
+Sortez-nous de là, Major.
+
+21
+00:01:16,040 --> 00:01:19,032
+- L'hypernavigation ne s'enclenche pas.
+- La coque ne tient pas !
+
+22
+00:01:19,240 --> 00:01:21,629
+- Mais qui nous tire dessus ?
+- Impossible à dire.
+
+23
+00:01:22,080 --> 00:01:25,470
+- Je détecte trois vaisseaux.
+- Ori ?
+
+24
+00:01:25,680 --> 00:01:28,035
+Vu la taille, je dirais
+des vaisseaux mères Goa'uld.
+
+25
+00:01:28,240 --> 00:01:30,117
+Leurs boucliers devraient
+aussi être affaiblis.
+
+26
+00:01:30,360 --> 00:01:32,874
+Tirez avec les canons d'avant.
+Armez les missiles.
+
+27
+00:01:33,080 --> 00:01:35,719
+Transférez la puissance auxiliaire
+aux moteurs hyperluminiques
+
+28
+00:01:35,920 --> 00:01:38,195
+et définissez une trajectoire
+à tribord.
+
+29
+00:01:46,480 --> 00:01:49,950
+Monsieur, je détecte plusieurs
+petits objets droit devant.
+
+30
+00:01:50,400 --> 00:01:52,072
+Oh, mon Dieu !
+
+31
+00:01:54,960 --> 00:01:57,269
+- Un champ de mines.
+- Inversez la poussée !
+
+32
+00:02:10,560 --> 00:02:12,471
+Rapport sur les dommages !
+
+33
+00:02:13,760 --> 00:02:15,478
+Marks.
+
+34
+00:02:21,920 --> 00:02:24,150
+Communication subspatiale
+urgente de l'<i>Odyssée</i>.
+
+35
+00:02:24,360 --> 00:02:25,588
+Passez-la sur l'écran.
+
+36
+00:02:25,800 --> 00:02:28,030
+<i>SGC, ici le Colonel Paul Emerson</i>.
+
+37
+00:02:28,280 --> 00:02:30,475
+<i>Code d'authentification</i>
+<i>Delta-6-Alpha-5.</i>
+
+38
+00:02:30,680 --> 00:02:33,672
+<i>Nous sommes attaqués.</i>
+<i>Les dommages sont importants.</i>
+
+39
+00:02:33,880 --> 00:02:35,836
+<i>L'info sur la 2e superporte</i>
+<i>était bidon.</i>
+
+40
+00:02:36,040 --> 00:02:38,793
+<i>Nous avons été piégés</i>
+<i>par 3 vaisseaux mères Goa'uld.</i>
+
+41
+00:02:39,000 --> 00:02:40,752
+<i>Plus d'hyperpropulsion,</i>
+<i>boucliers HS.</i>
+
+42
+00:02:40,960 --> 00:02:42,837
+<i>Des ponts n'ont plus</i>
+<i>d'équipement de survie.</i>
+
+43
+00:02:43,040 --> 00:02:44,951
+<i>Ils montent à bord.</i>
+
+44
+00:02:47,480 --> 00:02:49,710
+C'est tout ce que nous avons,
+mon général.
+
+45
+00:03:51,600 --> 00:03:54,398
+Nous avons commencé à recevoir
+la télémétrie du transpondeur d'urgence
+
+46
+00:03:54,600 --> 00:03:57,637
+environ 30 mn après
+l'arrivée de l'appel de détresse.
+
+47
+00:03:57,840 --> 00:04:00,070
+Ca ne nous dit rien
+sur l'état du vaisseau...
+
+48
+00:04:00,280 --> 00:04:01,315
+ou de l'équipage.
+
+49
+00:04:01,520 --> 00:04:02,999
+Il est gravement endommagé.
+
+50
+00:04:03,200 --> 00:04:05,236
+Une idée sur qui
+pourrait être derrière ça ?
+
+51
+00:04:05,440 --> 00:04:09,797
+Nous nous basions sur une info
+soit-disant fiable des Jaffa.
+
+52
+00:04:10,280 --> 00:04:13,158
+Bra'tac enquête sur la source
+de l'info bidon.
+
+53
+00:04:13,360 --> 00:04:15,078
+Mais la nation Jaffa est en désordre
+
+54
+00:04:15,320 --> 00:04:17,880
+et bon nombre ont retrouvé
+d'anciennes factions.
+
+55
+00:04:18,080 --> 00:04:20,514
+Remonter jusqu'à cette trahison
+pourrait être impossible.
+
+56
+00:04:20,720 --> 00:04:22,119
+Il doit y avoir pas mal de Jaffa
+
+57
+00:04:22,320 --> 00:04:24,834
+plutôt en colère après
+la destruction de Dakara.
+
+58
+00:04:25,040 --> 00:04:26,598
+Les Ori en sont responsables.
+
+59
+00:04:26,800 --> 00:04:29,268
+Beaucoup pensent que
+nous les avons menés là-bas.
+
+60
+00:04:29,480 --> 00:04:33,268
+Assez pour monter une embuscade ?
+Dans quel but ? La vengeance ?
+
+61
+00:04:33,520 --> 00:04:35,272
+Nous avons un signal.
+Vérifions.
+
+62
+00:04:35,480 --> 00:04:37,436
+Il y a juste un petit souci.
+
+63
+00:04:37,640 --> 00:04:41,474
+- Nous n'avons pas de vaisseau.
+- Le <i>Dédale</i> est en route vers Pégase.
+
+64
+00:04:41,680 --> 00:04:44,433
+Il faudra des jours avant d'avoir
+un vaisseau Jaffa disponible.
+
+65
+00:04:44,680 --> 00:04:45,908
+Il vous suffit de demander.
+
+66
+00:04:46,680 --> 00:04:50,275
+Vous devriez savoir que je peux
+vous obtenir pratiquement tout.
+
+67
+00:04:50,720 --> 00:04:52,517
+Mais ça a un prix.
+
+68
+00:04:52,760 --> 00:04:54,830
+On n'a rien pour rien, Daniel.
+
+69
+00:04:55,040 --> 00:04:57,554
+Normalement, je devrais renoncer
+à mes honoraires,
+
+70
+00:04:58,120 --> 00:05:00,634
+mais j'aurai besoin d'une avance,
+pour ainsi dire.
+
+71
+00:05:00,840 --> 00:05:03,991
+Soyez prudents. Nous ignorons
+toujours qui est derrière ça.
+
+72
+00:05:24,560 --> 00:05:27,632
+Heureux de vous voir réveillée.
+Comment va la tête ?
+
+73
+00:05:27,960 --> 00:05:30,315
+Bien, mon colonel.
+Où en est-on ?
+
+74
+00:05:30,520 --> 00:05:32,078
+Ils nous ont sortis
+du champ de mines.
+
+75
+00:05:32,280 --> 00:05:35,317
+Pratiquement tout l'équipage est là.
+Il en manque toujours trois.
+
+76
+00:05:37,400 --> 00:05:39,356
+Qui est le Colonel
+Samantha Carter ?
+
+77
+00:05:40,560 --> 00:05:42,869
+Colonel Paul Emerson,
+commandant de ce vaisseau.
+
+78
+00:05:43,120 --> 00:05:45,236
+Si vous avez des questions,
+demandez-moi...
+
+79
+00:05:45,440 --> 00:05:47,510
+Si vous essayez d'être des héros,
+je vous jure
+
+80
+00:05:47,720 --> 00:05:51,599
+que mon commandant sera heureux de
+vider cette cellule de son atmosphère.
+
+81
+00:05:52,400 --> 00:05:54,994
+Je ne le redemanderai pas.
+
+82
+00:05:55,280 --> 00:05:57,032
+C'est moi.
+
+83
+00:06:00,400 --> 00:06:01,753
+Amenez-la.
+
+84
+00:06:01,960 --> 00:06:03,678
+Lui aussi.
+
+85
+00:06:14,400 --> 00:06:15,799
+Colonel Carter.
+
+86
+00:06:18,120 --> 00:06:19,838
+On m'a dit que vous étiez jolie.
+
+87
+00:06:20,040 --> 00:06:22,554
+Je suis le Colonel Paul Emerson,
+commandant du vaisseau.
+
+88
+00:06:22,760 --> 00:06:26,196
+- Que voulez-vous ?
+- Rien que vous ne puissiez faire.
+
+89
+00:06:28,200 --> 00:06:30,919
+En revanche, Colonel Carter...
+
+90
+00:06:31,560 --> 00:06:34,518
+- Puis-je vous appeler Samantha ?
+- Non.
+
+91
+00:06:35,240 --> 00:06:37,435
+Vous êtes de l'Alliance lucienne.
+
+92
+00:06:38,440 --> 00:06:39,714
+L'uniforme.
+
+93
+00:06:39,960 --> 00:06:41,313
+Pitoyable, n'est-ce pas ?
+
+94
+00:06:41,520 --> 00:06:44,432
+Prétendre être
+ce que l'on n'est pas.
+
+95
+00:06:45,400 --> 00:06:50,793
+Mon nom est Anateo et je ne fais
+partie d'aucune alliance qui soit.
+
+96
+00:06:52,640 --> 00:06:54,676
+Nous ne savons pas grand-chose
+sur ce vaisseau
+
+97
+00:06:54,880 --> 00:07:00,557
+mais nous avons trouvé une balise
+qui donne notre position.
+
+98
+00:07:00,760 --> 00:07:03,320
+Vous devez la désactiver.
+
+99
+00:07:04,040 --> 00:07:05,917
+Je ne vous aiderai pas.
+
+100
+00:07:06,120 --> 00:07:08,759
+Je ne crois pas
+que vous ayez le choix.
+
+101
+00:07:11,240 --> 00:07:15,791
+Vous ferez tout ce que je veux
+que vous fassiez.
+
+102
+00:07:16,040 --> 00:07:17,917
+Ne le faites pas, Sam.
+
+103
+00:07:19,960 --> 00:07:24,431
+Je suggère que vous le fassiez, Sam.
+
+104
+00:07:33,600 --> 00:07:35,716
+Ca n'est pas conçu
+pour être éteint.
+
+105
+00:07:35,920 --> 00:07:37,956
+Ca s'active et ça reste allumé.
+
+106
+00:07:38,160 --> 00:07:39,559
+Alors enlevez-la.
+
+107
+00:07:39,800 --> 00:07:42,075
+Ne les aidez pas, mon colonel.
+C'est un ordre.
+
+108
+00:07:50,120 --> 00:07:51,758
+Je pense que cela fait
+maintenant de vous
+
+109
+00:07:51,960 --> 00:07:54,315
+l'officier de plus haut rang ici,
+Colonel Carter.
+
+110
+00:07:54,520 --> 00:07:56,112
+Je suggère de vous mettre
+au travail
+
+111
+00:07:56,320 --> 00:07:59,676
+à moins qu'il n'y ait autre chose
+que vous préfériez faire.
+
+112
+00:08:08,000 --> 00:08:09,479
+Ouais, une vraie beauté.
+
+113
+00:08:09,680 --> 00:08:11,830
+Les stabilisateurs
+sont un peu déglingués.
+
+114
+00:08:12,040 --> 00:08:14,679
+Ca secoue un peu,
+mais c'est sans danger.
+
+115
+00:08:14,880 --> 00:08:16,438
+Vraiment ?
+
+116
+00:08:19,360 --> 00:08:20,588
+Pas tout à fait.
+
+117
+00:08:20,800 --> 00:08:23,109
+Nous t'avons donné autant
+de naquadah brut qu'il fallait
+
+118
+00:08:23,320 --> 00:08:25,595
+et tout ce que tu ramènes,
+c'est cette poubelle ?
+
+119
+00:08:25,800 --> 00:08:27,074
+Des vies sont en jeu.
+
+120
+00:08:27,320 --> 00:08:31,438
+Tu crois que j'ai lésiné sur le vaisseau
+et empoché la différence ?
+
+121
+00:08:32,840 --> 00:08:34,068
+C'est quoi ça ?
+
+122
+00:08:34,320 --> 00:08:36,629
+On dirait que
+les systèmes de survie lâchent.
+
+123
+00:08:38,560 --> 00:08:39,788
+Tu prends les commandes ?
+
+124
+00:08:51,000 --> 00:08:53,230
+Bien, vous avez réparé ça.
+Et les stabilisateurs ?
+
+125
+00:08:53,440 --> 00:08:55,829
+Je n'ai rien réparé.
+J'ai désactivé cette fichue alarme.
+
+126
+00:08:56,440 --> 00:08:57,998
+Nos détecteurs longue portée
+indiquent
+
+127
+00:08:58,200 --> 00:09:01,351
+que le signal du transpondeur
+de l'<i>Odyssée</i> change de place.
+
+128
+00:09:01,600 --> 00:09:03,556
+- Il bouge ?
+- Il semble se déplacer
+
+129
+00:09:03,760 --> 00:09:06,479
+moins vite que la lumière
+Je vais l'intercepter.
+
+130
+00:09:11,080 --> 00:09:13,275
+- Nous sommes en furtif ?
+- J'essaye.
+
+131
+00:09:13,520 --> 00:09:15,636
+On dirait que le camouflage
+ne répond pas.
+
+132
+00:09:27,000 --> 00:09:30,549
+Le signal semble provenir
+de cette planète maintenant.
+
+133
+00:09:31,360 --> 00:09:33,316
+Les détecteurs captent
+des signes de vie.
+
+134
+00:09:33,560 --> 00:09:37,030
+Si les systèmes étaient touchés,
+ils auraient atterri pour réparer.
+
+135
+00:09:37,240 --> 00:09:39,515
+Ils ne répondent pas à nos appels.
+
+136
+00:09:40,600 --> 00:09:43,717
+Il semble y avoir une petite
+civilisation à la surface.
+
+137
+00:09:44,240 --> 00:09:45,878
+Je savais que je connaissais.
+
+138
+00:09:46,640 --> 00:09:47,868
+D'autres amis à vous ?
+
+139
+00:09:48,120 --> 00:09:50,190
+Les Goa'uld avaient un chantier
+de construction ici.
+
+140
+00:09:50,400 --> 00:09:53,278
+Elle a été récupérée par
+d'anciens esclaves humains.
+
+141
+00:09:53,520 --> 00:09:57,069
+D'après ce que je sais, ils ont
+des liens avec l'Alliance lucienne.
+
+142
+00:09:57,320 --> 00:10:00,039
+Ca ne présage rien de bon.
+Il y a des pièces détachées ?
+
+143
+00:10:00,480 --> 00:10:03,313
+J'ai un contact. Il va
+s'énerver si on se montre tous.
+
+144
+00:10:03,520 --> 00:10:05,556
+Il vaudrait mieux
+que j'y aille seule.
+
+145
+00:10:06,400 --> 00:10:08,789
+Ca pourrait être un piège.
+
+146
+00:10:09,040 --> 00:10:11,270
+Raison de plus
+pour ne pas y aller tous.
+
+147
+00:10:11,480 --> 00:10:14,074
+S'il sait quelque chose,
+j'arriverai à le faire parler,
+
+148
+00:10:14,280 --> 00:10:19,673
+mais le but, c'est d'être aussi
+discret et inoffensif que possible.
+
+149
+00:10:21,440 --> 00:10:23,396
+Si vous voulez, je prends Daniel.
+
+150
+00:10:30,600 --> 00:10:33,114
+Mon colonel, que s'est-il passé ?
+
+151
+00:10:33,320 --> 00:10:35,356
+Vous êtes partie depuis des heures.
+
+152
+00:10:36,000 --> 00:10:38,230
+Où est le Colonel Emerson ?
+
+153
+00:10:43,680 --> 00:10:44,999
+Vala Mal Doran.
+
+154
+00:10:45,200 --> 00:10:47,794
+Je n'aurais jamais cru que
+tu te repointerais par ici.
+
+155
+00:10:48,000 --> 00:10:50,434
+Borzin, espèce de trafiquant
+visqueux et hypocrite.
+
+156
+00:10:52,480 --> 00:10:53,799
+Allez, on se fait un câlin.
+
+157
+00:10:55,880 --> 00:10:58,758
+Et quel pauvre raté as-tu recruté,
+cette fois ?
+
+158
+00:10:58,960 --> 00:11:01,428
+Ca c'est mon apprenti, Shamus.
+
+159
+00:11:01,640 --> 00:11:04,916
+- Tu dois apprendre pas mal.
+- Plus que je n'aimerais.
+
+160
+00:11:05,120 --> 00:11:08,510
+En fait, je l'ai eu suite à un pari.
+Il est mentalement limité.
+
+161
+00:11:09,040 --> 00:11:13,238
+<i>Ne la croyez pas. Elle vous vendra</i>
+<i>pour rien à la première occasion.</i>
+
+162
+00:11:13,480 --> 00:11:15,835
+- Je sais.
+- Il m'aime bien.
+
+163
+00:11:16,400 --> 00:11:17,628
+C'est pas mignon ?
+
+164
+00:11:17,880 --> 00:11:22,237
+Vala, que veux-tu que
+tu ne m'aies pas encore volé ?
+
+165
+00:11:22,440 --> 00:11:24,112
+Nous voudrions des informations.
+
+166
+00:11:24,400 --> 00:11:26,914
+Sur un vaisseau Tauri
+attaqué non loin d'ici.
+
+167
+00:11:27,120 --> 00:11:28,599
+Tout ce que vous saurez.
+
+168
+00:11:28,840 --> 00:11:31,673
+D'accord, mon ami.
+
+169
+00:11:32,400 --> 00:11:33,833
+Voilà les choses.
+
+170
+00:11:34,040 --> 00:11:35,359
+Il n'est pas mon apprenti.
+
+171
+00:11:35,600 --> 00:11:37,192
+- C'est un pigeon.
+- Non.
+
+172
+00:11:37,400 --> 00:11:40,517
+Du genre riche, très crédule et
+qui me mange dans la main.
+
+173
+00:11:40,720 --> 00:11:41,948
+Donne-nous n'importe quoi.
+
+174
+00:11:42,160 --> 00:11:44,037
+Il te récompensera largement.
+
+175
+00:11:44,240 --> 00:11:46,879
+- J'ai déjà entendu ça.
+- Très bien, écoute ça.
+
+176
+00:11:47,080 --> 00:11:51,312
+Nous avons suivi le signal
+de détresse du vaisseau jusqu'ici.
+
+177
+00:11:51,520 --> 00:11:53,670
+Je sais que tu ne peux pas
+avoir tout le vaisseau,
+
+178
+00:11:53,880 --> 00:11:57,395
+mais tu dois avoir
+des pièces détachées.
+
+179
+00:11:57,760 --> 00:12:01,230
+Borzin, je ne sais pas ce qui se passe,
+mais tu vises trop haut.
+
+180
+00:12:02,080 --> 00:12:03,513
+Récemment, j'ai noué des contacts
+
+181
+00:12:03,720 --> 00:12:06,393
+en haut de l'Alliance lucienne
+qui voudraient savoir
+
+182
+00:12:06,600 --> 00:12:09,273
+combien tu as pu
+tirer de cette opération.
+
+183
+00:12:09,520 --> 00:12:13,229
+Une offre qui ne se refuse pas.
+
+184
+00:12:13,440 --> 00:12:15,158
+Par ici.
+
+185
+00:12:17,640 --> 00:12:20,473
+Tant qu'on y est, qu'il donne
+des pièces de notre vaisseau.
+
+186
+00:12:20,680 --> 00:12:22,477
+Chaque chose en son temps.
+
+187
+00:12:22,800 --> 00:12:24,791
+C'est ce que vous cherchez ?
+
+188
+00:12:26,400 --> 00:12:29,870
+C'est la boîte noire de l'<i>Odyssée</i>.
+Le transpondeur émet encore.
+
+189
+00:12:30,080 --> 00:12:33,117
+- Où l'as-tu eue ?
+- On me l'a amenée il y a peu.
+
+190
+00:12:33,680 --> 00:12:37,309
+Le type disait que ça pourrait
+me rapporter un bon prix.
+
+191
+00:12:37,800 --> 00:12:43,238
+<i>Mon nom est Anateo et je ne fais</i>
+<i>partie d'aucune alliance qui soit.</i>
+
+192
+00:12:45,040 --> 00:12:46,837
+<i>Ca n'est pas conçu</i>
+<i>pour être éteint.</i>
+
+193
+00:12:47,080 --> 00:12:50,277
+<i>- Ca s'active et ça reste allumé.</i>
+<i>- Alors enlevez-la.</i>
+
+194
+00:12:50,480 --> 00:12:53,040
+<i>Ne les aidez pas, mon colonel.</i>
+<i>C'est un ordre.</i>
+
+195
+00:12:55,840 --> 00:12:58,513
+Montrez votre naquadah
+si vous en voulez plus.
+
+196
+00:12:58,760 --> 00:13:02,116
+Cette chose m'est inutile à moins
+que je ne sache qui vous l'a donnée.
+
+197
+00:13:02,320 --> 00:13:05,392
+La synchro est excellente.
+Lui.
+
+198
+00:13:16,840 --> 00:13:19,115
+Jackson ? Vala ?
+
+199
+00:13:20,680 --> 00:13:22,671
+Jackson, au rapport.
+
+200
+00:13:25,360 --> 00:13:27,032
+Merde.
+
+201
+00:13:29,000 --> 00:13:31,150
+<i>Montrez votre naquadah</i>
+<i>si vous en voulez plus.</i>
+
+202
+00:13:31,360 --> 00:13:34,511
+<i>Cette chose m'est inutile à moins</i>
+<i>que je ne sache qui vous l'a donnée.</i>
+
+203
+00:13:34,720 --> 00:13:37,393
+<i>La synchro est excellente.</i>
+<i>Lui.</i>
+
+204
+00:13:39,800 --> 00:13:42,030
+Nous avons pensé que ça pouvait
+être une embuscade.
+
+205
+00:13:42,240 --> 00:13:44,151
+Ils en avaient après vous ?
+
+206
+00:13:44,360 --> 00:13:46,555
+Ils savaient que nous
+suivrions le signal.
+
+207
+00:13:46,760 --> 00:13:47,988
+Pourquoi ça ?
+
+208
+00:13:48,200 --> 00:13:50,589
+Peut-être essayaient-ils de
+nous détourner de l'<i>Odyssée</i>.
+
+209
+00:13:50,800 --> 00:13:53,155
+Moi, je pense
+qu'ils ne nous aiment pas.
+
+210
+00:13:53,360 --> 00:13:55,669
+Je pense voir pourquoi
+ils ne sont pas des admirateurs.
+
+211
+00:13:55,880 --> 00:13:58,633
+Quoi qu'il en soit, il n'y avait pas
+d'autre moyen d'avoir l'info.
+
+212
+00:13:58,840 --> 00:14:00,876
+Nous pouvons penser
+que l'<i>Odyssée</i> n'est pas détruit
+
+213
+00:14:01,080 --> 00:14:03,116
+mais est aux mains
+de l'Alliance lucienne.
+
+214
+00:14:03,320 --> 00:14:05,436
+Malheureusement,
+c'est tout ce que nous avons.
+
+215
+00:14:05,680 --> 00:14:07,716
+Borzin a disparu
+avec Daniel et Vala.
+
+216
+00:14:07,920 --> 00:14:10,115
+Ceux à qui nous avons parlé
+ne savent rien.
+
+217
+00:14:10,520 --> 00:14:12,317
+Teal'c, faites passer le mot
+chez les Jaffa.
+
+218
+00:14:12,520 --> 00:14:16,274
+Faites savoir que je veux parler
+au chef de l'Alliance lucienne.
+
+219
+00:14:23,440 --> 00:14:27,228
+J'ai toujours pensé qu'une civilisation
+pouvait être jugée sur deux points :
+
+220
+00:14:27,440 --> 00:14:31,115
+Sa nourriture et ses femmes.
+
+221
+00:14:31,440 --> 00:14:33,670
+La vôtre n'en est qu'à mi-chemin.
+
+222
+00:14:38,800 --> 00:14:40,518
+Je ne vous en veux pas.
+
+223
+00:14:41,240 --> 00:14:42,912
+Mais vous devez garder des forces.
+
+224
+00:14:45,240 --> 00:14:46,753
+Vous avez un vaisseau à réparer.
+
+225
+00:14:46,960 --> 00:14:48,996
+Vous savez,
+je pourrais y passer ma vie.
+
+226
+00:14:49,200 --> 00:14:54,911
+Qu'elle soit longue ou douloureusement
+courte ne dépend que de vous.
+
+227
+00:14:57,960 --> 00:14:59,996
+- Daniel, Vala.
+- Salut, Sam.
+
+228
+00:15:00,200 --> 00:15:01,918
+On s'est dit qu'on te manquait.
+
+229
+00:15:02,320 --> 00:15:03,753
+Où sont les autres ?
+
+230
+00:15:05,560 --> 00:15:07,630
+Ecoutez,
+si on reparlait de mes honoraires ?
+
+231
+00:15:07,880 --> 00:15:09,916
+Bien entendu.
+
+232
+00:15:10,120 --> 00:15:12,111
+Moitié prix pour la moitié du SG-1.
+
+233
+00:15:12,800 --> 00:15:14,711
+Deux cinquièmes, en fait.
+
+234
+00:15:14,920 --> 00:15:17,309
+- C'est un petit détail, mais...
+- Ne m'aidez pas.
+
+235
+00:15:18,240 --> 00:15:21,198
+Ca n'est pas de ma faute
+si seulement deux sont venus.
+
+236
+00:15:22,400 --> 00:15:24,277
+Bien sûr.
+
+237
+00:15:25,440 --> 00:15:27,271
+Occupez-vous de lui.
+
+238
+00:15:30,400 --> 00:15:35,428
+Désolé, mais je ne crois pas
+qu'on se reverra.
+
+239
+00:15:36,560 --> 00:15:38,437
+Non, je ne crois pas.
+
+240
+00:15:38,680 --> 00:15:40,272
+Mettez-les dans la cellule.
+
+241
+00:15:40,520 --> 00:15:43,398
+Ne t'en fais pas, Sam.
+Ca fait partie du plan.
+
+242
+00:15:51,680 --> 00:15:54,353
+Chaque secteur du territoire
+de l'Alliance est contrôlé
+
+243
+00:15:54,560 --> 00:15:57,393
+par un lieutenant de Netan,
+un second comme on l'appelle.
+
+244
+00:15:57,600 --> 00:15:59,830
+20 de ces individus
+supervisent les opérations
+
+245
+00:16:00,040 --> 00:16:03,919
+comme la contrebande, l'extorsion,
+le racket et le trafic de kassa.
+
+246
+00:16:04,160 --> 00:16:07,232
+Y a t-il du nouveau ? Ca ressemble
+à du déjà vu pour moi.
+
+247
+00:16:07,440 --> 00:16:11,035
+Nous avons suivi les rumeurs
+de mutinerie parmi les seconds.
+
+248
+00:16:11,240 --> 00:16:13,913
+Il semble y avoir des dissensions
+au sujet du commandement de Netan.
+
+249
+00:16:14,160 --> 00:16:16,435
+C'est bien,
+mais comment ça va nous aider ?
+
+250
+00:16:16,680 --> 00:16:19,319
+Kefflin. L'un des seconds
+de Netan les plus loyaux.
+
+251
+00:16:19,520 --> 00:16:21,715
+Il supervise une importante
+production de kassa
+
+252
+00:16:21,920 --> 00:16:24,275
+sur des planètes isolées
+aux confins de la galaxie.
+
+253
+00:16:24,480 --> 00:16:25,959
+Qu'est-ce qu'il a ?
+
+254
+00:16:26,160 --> 00:16:28,913
+En plus d'être un tueur
+au tempérament assez nerveux...
+
+255
+00:16:29,120 --> 00:16:30,872
+On ne le connaît
+que de réputation.
+
+256
+00:16:31,080 --> 00:16:34,311
+Il vit reclus et quitte rarement
+son vaisseau de commandement.
+
+257
+00:16:34,520 --> 00:16:37,557
+Très peu l'ont rencontré
+parmi les proches de Netan.
+
+258
+00:16:37,760 --> 00:16:40,513
+Kefflin serait derrière la disparition
+de l'<i>Odyssée ?</i>
+
+259
+00:16:40,720 --> 00:16:43,792
+Non. Je crois qu'il est la personne
+idéale dont on peut usurper l'identité.
+
+260
+00:16:44,640 --> 00:16:45,993
+Pardon ?
+
+261
+00:16:48,320 --> 00:16:51,596
+Je suggère que je puisse infiltrer
+l'Alliance lucienne.
+
+262
+00:16:51,800 --> 00:16:54,268
+C'est la seule façon d'avoir
+des informations sur l'<i>Odyssée.</i>
+
+263
+00:16:54,480 --> 00:16:56,072
+Vous n'avez même pas sa photo.
+
+264
+00:16:56,280 --> 00:16:58,748
+C'est ce qui en fait
+la personne idéale.
+
+265
+00:17:00,160 --> 00:17:01,388
+Du produit chimique Reole.
+
+266
+00:17:01,600 --> 00:17:05,070
+Le Dr Jackson s'en est servi pour
+infiltrer un sommet des Grands Maîtres.
+
+267
+00:17:05,280 --> 00:17:07,874
+Une injection et Netan croira
+que je suis qui je prétends
+
+268
+00:17:08,080 --> 00:17:10,833
+quelle que soit mon apparence.
+Personne ne posera de question
+
+269
+00:17:11,040 --> 00:17:13,952
+- parce qu'on ne l'a jamais vu.
+- C'est ce que vous croyez.
+
+270
+00:17:15,760 --> 00:17:18,593
+Je ne dis pas que c'est sans danger,
+mon général.
+
+271
+00:17:18,800 --> 00:17:21,189
+Je dis qu'il nous faut agir.
+
+272
+00:17:27,560 --> 00:17:28,788
+Vous tenez le ralenti ?
+
+273
+00:17:29,000 --> 00:17:30,877
+Je vais doucement,
+mais ne peux pas continuer.
+
+274
+00:17:31,080 --> 00:17:34,072
+Une idée de ce qu'il veulent
+faire du vaisseau ?
+
+275
+00:17:34,280 --> 00:17:37,590
+Non, mais sans transpondeur,
+SGC ne pourra pas nous trouver.
+
+276
+00:17:38,080 --> 00:17:40,116
+Notre seule chance
+est de reprendre le vaisseau.
+
+277
+00:17:40,360 --> 00:17:42,999
+J'ai bien une idée,
+mais c'est plutôt risqué.
+
+278
+00:17:43,240 --> 00:17:44,912
+C'est probablement mieux
+que notre plan.
+
+279
+00:17:45,120 --> 00:17:46,792
+- Quel est votre plan ?
+- On n'en a pas.
+
+280
+00:17:58,560 --> 00:18:01,870
+Ils nous ont détectés, Colonel Mitchell.
+Etes-vous prêt ?
+
+281
+00:18:02,080 --> 00:18:04,150
+Plus que jamais.
+
+282
+00:18:06,240 --> 00:18:08,549
+<i>- Indiquez votre but.</i>
+- Je suis Kefflin.
+
+283
+00:18:08,800 --> 00:18:10,358
+Je viens voir Netan.
+
+284
+00:18:10,600 --> 00:18:13,717
+- On ne vous attend pas.
+<i>- Je n'ai pas à être attendu.</i>
+
+285
+00:18:14,360 --> 00:18:16,078
+<i>Donnez-moi l'autorisation</i>
+<i>de me téléporter</i>
+
+286
+00:18:16,280 --> 00:18:18,840
+<i>ou je ferai de votre tête</i>
+<i>une décoration pour mon vaisseau.</i>
+
+287
+00:18:19,040 --> 00:18:21,395
+J'informe Netan de votre arrivée.
+
+288
+00:18:26,440 --> 00:18:27,873
+Où est Netan ?
+
+289
+00:18:28,120 --> 00:18:29,348
+Je vous mène à lui.
+
+290
+00:18:29,880 --> 00:18:31,438
+Bien. Allons-y.
+
+291
+00:18:31,640 --> 00:18:33,551
+Vous devez vous soumettre
+à une fouille.
+
+292
+00:18:35,240 --> 00:18:37,071
+Je ne crois pas.
+
+293
+00:18:43,280 --> 00:18:45,510
+J'ai demandé
+qu'on ne me dérange pas.
+
+294
+00:18:45,760 --> 00:18:48,718
+Pardon, Netan,
+mais il y a eu un incident.
+
+295
+00:19:00,440 --> 00:19:02,590
+J'ai essayé de lui dire qui j'étais,
+
+296
+00:19:02,800 --> 00:19:06,156
+mais le nom de Kefflin ne semble
+rien dire à personne ici.
+
+297
+00:19:08,720 --> 00:19:10,358
+J'en suis désolé.
+
+298
+00:19:10,600 --> 00:19:15,151
+La bague est un cadeau
+de ma dernière conquête.
+
+299
+00:19:21,360 --> 00:19:24,193
+Mon cher ami Kefflin est là
+et on ne m'en a pas informé ?
+
+300
+00:19:24,680 --> 00:19:26,636
+Pardon, maître.
+
+301
+00:19:26,920 --> 00:19:28,399
+Vous ne vouliez pas
+être dérangé.
+
+302
+00:19:28,640 --> 00:19:29,993
+Alors vous l'avez frappé.
+
+303
+00:19:30,200 --> 00:19:33,636
+Comme tu vois,
+il est tombé sur du répondant.
+
+304
+00:19:36,280 --> 00:19:37,599
+Je n'en doute pas.
+
+305
+00:19:39,080 --> 00:19:40,832
+Laissez-nous.
+
+306
+00:19:47,120 --> 00:19:48,553
+Quoi ?
+
+307
+00:19:49,520 --> 00:19:52,592
+Il n'est pas trop tard pour rendre
+ce vaisseau à Netan.
+
+308
+00:19:52,800 --> 00:19:54,153
+Tu serais un héros.
+
+309
+00:19:54,360 --> 00:19:56,999
+Tu sais que je ne peux
+pas faire ça.
+
+310
+00:19:57,560 --> 00:20:00,028
+Netan a trahi l'Alliance
+
+311
+00:20:00,240 --> 00:20:04,597
+et son poste de chef ne tient
+qu'à un mince fil.
+
+312
+00:20:04,960 --> 00:20:07,679
+Il sait que je suis son rival
+le plus important.
+
+313
+00:20:07,880 --> 00:20:11,350
+Mais il aurait du mal à me tuer
+de sang froid,
+
+314
+00:20:11,560 --> 00:20:13,790
+donc il nous a envoyé
+dans une quête insensée.
+
+315
+00:20:14,040 --> 00:20:15,917
+Mais nous avons réussi.
+
+316
+00:20:16,120 --> 00:20:17,712
+Oui.
+
+317
+00:20:17,920 --> 00:20:21,754
+Ceci va marquer la chute de Netan.
+
+318
+00:20:22,320 --> 00:20:25,790
+Mais pourquoi était-il aussi nécessaire
+de tendre un piège à SG-1 ?
+
+319
+00:20:26,000 --> 00:20:29,151
+Parce que chacun sait
+qu'ils nous ont causé plus de tort
+
+320
+00:20:29,360 --> 00:20:32,033
+que n'importe quel autre adversaire,
+même les Ori.
+
+321
+00:20:32,880 --> 00:20:36,077
+Tous les seconds, moi y compris,
+ont supplié Netan de les poursuivre,
+
+322
+00:20:36,280 --> 00:20:37,952
+mais il a refusé.
+
+323
+00:20:38,160 --> 00:20:43,678
+C'est un lâche qui préfère se cacher
+que de faire face à la colère des Tauri.
+
+324
+00:20:43,880 --> 00:20:45,472
+Et pas nous ?
+
+325
+00:20:45,760 --> 00:20:47,830
+Nous avons mis leur vaisseau
+de combat à genoux.
+
+326
+00:20:48,040 --> 00:20:50,349
+Que vont-ils faire ?
+
+327
+00:20:50,560 --> 00:20:55,873
+Quand j'aurai offert
+l'<i>Odyssée</i> et le SG-1 aux autres,
+
+328
+00:20:56,080 --> 00:21:00,756
+le corps empaillé de Netan
+sera un trophée sur mon mur
+
+329
+00:21:00,960 --> 00:21:05,112
+et le contrôle de l'Alliance lucienne
+sera pour moi.
+
+330
+00:21:06,520 --> 00:21:09,159
+La saison a été décevante,
+mon ami.
+
+331
+00:21:09,840 --> 00:21:14,072
+Sécheresse et inondations
+ont ravagé nos plantations de kassa.
+
+332
+00:21:14,840 --> 00:21:17,229
+Les armées des Ori
+continuent à usurper les planètes
+
+333
+00:21:17,440 --> 00:21:19,829
+avec lesquelles nous commerçons.
+
+334
+00:21:20,560 --> 00:21:23,677
+- Et il y a les Tauri, bien entendu.
+- Oui.
+
+335
+00:21:23,880 --> 00:21:27,350
+Engager nos vaisseaux dans la bataille
+contre l'incursion Ori
+
+336
+00:21:27,560 --> 00:21:29,630
+a été une erreur de stratégie.
+
+337
+00:21:32,920 --> 00:21:35,957
+Tu as toujours apprécié mon
+honnêteté, par le passé.
+
+338
+00:21:38,280 --> 00:21:39,998
+C'est vrai.
+
+339
+00:21:40,400 --> 00:21:41,992
+Tu es le patron.
+
+340
+00:21:42,200 --> 00:21:45,272
+Je ne te blâme pas,
+mais d'autres si.
+
+341
+00:21:45,720 --> 00:21:47,438
+Je sais.
+
+342
+00:21:48,840 --> 00:21:50,193
+<i>Est-ce pour ça que tu es là ?</i>
+
+343
+00:21:50,400 --> 00:21:53,551
+<i>Le Kefflin que je connais ne se</i>
+<i>déplacerait pas sans raison valable.</i>
+
+344
+00:21:53,760 --> 00:21:55,990
+<i>En fait, c'est l'</i>Odyssée.
+
+345
+00:22:02,240 --> 00:22:03,639
+Le vaisseau Tauri.
+
+346
+00:22:03,840 --> 00:22:07,150
+On m'a dit que tu venais de le capturer.
+Je voulais connaître tes plans.
+
+347
+00:22:07,360 --> 00:22:09,112
+Sa téléportation
+et son hyperpropulsion
+
+348
+00:22:09,320 --> 00:22:12,153
+pourraient être un grand avantage
+pour transporter mes récoltes.
+
+349
+00:22:12,360 --> 00:22:14,794
+- Où as-tu entendu ça ?
+- Les endroits habituels.
+
+350
+00:22:15,040 --> 00:22:18,350
+On dit que l'<i>Odyssée</i> a été détruit
+lors d'une bataille contre les Ori.
+
+351
+00:22:18,560 --> 00:22:20,755
+Rien n'a encore été confirmé.
+
+352
+00:22:20,960 --> 00:22:23,520
+Je n'ai rien à voir avec ça.
+
+353
+00:22:23,800 --> 00:22:26,837
+Netan, un vaisseau a été
+détecté à proximité.
+
+354
+00:22:27,160 --> 00:22:29,390
+Nous allons l'intercepter.
+
+355
+00:22:46,920 --> 00:22:48,638
+Teal'c.
+
+356
+00:22:49,000 --> 00:22:51,992
+Je commence à croire que
+vous aimez être mon prisonnier.
+
+357
+00:23:09,320 --> 00:23:10,878
+Pardon.
+
+358
+00:23:11,080 --> 00:23:13,913
+J'ai accidentellement surchargé
+un couplage électrique.
+
+359
+00:23:37,320 --> 00:23:40,676
+Où est le reste de votre équipe ?
+
+360
+00:23:55,640 --> 00:23:57,835
+Cet homme ne connaît rien
+à la torture.
+
+361
+00:23:59,640 --> 00:24:01,039
+Je trouverai ce qu'il nous faut.
+
+362
+00:24:01,240 --> 00:24:04,277
+Je me demandais combien de temps
+tu allais pouvoir résister.
+
+363
+00:24:04,520 --> 00:24:06,795
+Si ça ne te fait rien,
+
+364
+00:24:07,280 --> 00:24:09,919
+je vais avoir besoin de temps
+seul avec lui.
+
+365
+00:24:28,080 --> 00:24:30,071
+Nous devons trouver
+comment te sortir d'ici.
+
+366
+00:24:30,280 --> 00:24:31,554
+Tu as trouvé l'<i>Odyssée ?</i>
+
+367
+00:24:31,760 --> 00:24:34,228
+Pas encore et je ne crois pas
+que Netan le sache non plus.
+
+368
+00:24:34,440 --> 00:24:36,590
+Il a des ennuis avec ses seconds,
+c'est certain.
+
+369
+00:24:36,800 --> 00:24:40,076
+- Tu dois maintenir cette ruse.
+- Non, pas à tes dépends.
+
+370
+00:24:40,280 --> 00:24:42,840
+D'autres vies sont en jeu, Mitchell.
+
+371
+00:24:45,600 --> 00:24:47,079
+Bien.
+
+372
+00:24:47,280 --> 00:24:51,432
+Souviens-toi que je suis
+un expert en tortures.
+
+373
+00:25:05,440 --> 00:25:07,351
+Il se passe quelque chose
+dans la cellule.
+
+374
+00:25:07,560 --> 00:25:09,596
+Allez faire l'appel.
+
+375
+00:25:22,880 --> 00:25:24,996
+Vashin, faites place.
+
+376
+00:25:27,760 --> 00:25:29,671
+Voici Kefflin.
+
+377
+00:25:31,400 --> 00:25:35,712
+Je croyais que vous n'aimiez pas
+vous montrer.
+
+378
+00:25:37,440 --> 00:25:39,078
+Je vois un psy.
+
+379
+00:25:39,960 --> 00:25:42,520
+Voici Gavos, Slaviash.
+
+380
+00:25:43,000 --> 00:25:45,753
+Karug, Millic, Rameris.
+
+381
+00:25:46,200 --> 00:25:49,954
+- Qu'avez-vous appris du Jaffa ?
+- Les rumeurs semblent fondées.
+
+382
+00:25:50,160 --> 00:25:53,596
+L'<i>Odyssée</i> est toujours là,
+entre les mains d'Anateo.
+
+383
+00:25:54,600 --> 00:25:56,955
+Les Tauri sont en possession
+d'un enregistrement audio
+
+384
+00:25:57,160 --> 00:25:59,628
+qui indique qu'il en a le contrôle.
+
+385
+00:26:05,640 --> 00:26:07,835
+J'ai ordonné l'attaque
+contre l'<i>Odyssée</i>.
+
+386
+00:26:08,320 --> 00:26:10,709
+Il est temps
+d'envoyer un message aux Tauri.
+
+387
+00:26:10,920 --> 00:26:13,434
+Où est le vaisseau ?
+
+388
+00:26:13,800 --> 00:26:15,358
+Je n'en sais rien.
+
+389
+00:26:16,240 --> 00:26:17,673
+Anateo nous a trahis.
+
+390
+00:26:17,880 --> 00:26:21,429
+Voulez-vous dire qu'il a réussi
+à capturer le vaisseau ?
+
+391
+00:26:23,200 --> 00:26:27,113
+- Il ne s'est pas encore présenté.
+- Le vaisseau Tauri est très puissant.
+
+392
+00:26:27,360 --> 00:26:30,636
+Vous ne pouviez pas vous attendre
+à ce qu'il survive.
+
+393
+00:26:31,120 --> 00:26:34,317
+Je lui ai donné une stratégie
+qui a amélioré ses chances.
+
+394
+00:26:35,880 --> 00:26:40,271
+Il y a quelques mois, il est venu
+me réclamer plus de territoires,
+
+395
+00:26:40,880 --> 00:26:44,077
+car ses planètes avaient été
+prises par les armées Ori.
+
+396
+00:26:44,280 --> 00:26:47,113
+Il a suggéré de t'éliminer toi,
+Karug.
+
+397
+00:26:48,000 --> 00:26:50,150
+Pour récupérer tes planètes.
+
+398
+00:26:52,000 --> 00:26:54,434
+Anateo n'a pas seulement
+capturé l'<i>Odyssée</i>.
+
+399
+00:26:54,680 --> 00:26:56,955
+Il l'utilise pour
+tendre un piège à SG-1.
+
+400
+00:26:57,200 --> 00:27:01,079
+Il a perdu la tête. Les Tauri vont
+nous déclarer une guerre totale.
+
+401
+00:27:01,520 --> 00:27:05,035
+Tu aurais dû nous consulter, Netan.
+
+402
+00:27:07,360 --> 00:27:10,636
+Je n'ai pas besoin de consulter
+qui que ce soit !
+
+403
+00:27:14,320 --> 00:27:17,596
+Maintenant, y a-t-il quelqu'un
+d'autre qui veuille me défier ?
+
+404
+00:27:18,960 --> 00:27:23,715
+Anateo nous a tous trahis
+et il va payer.
+
+405
+00:27:23,920 --> 00:27:25,148
+Quant aux Tauri,
+
+406
+00:27:25,360 --> 00:27:28,193
+ils étaient déjà en guerre contre
+nous et nous contre eux
+
+407
+00:27:28,400 --> 00:27:31,551
+et je ne vais pas trembler de peur.
+
+408
+00:27:31,760 --> 00:27:33,751
+Répétez ce que j'ai dit.
+
+409
+00:27:34,000 --> 00:27:35,831
+Envoyez tous les vaisseaux
+disponibles.
+
+410
+00:27:36,040 --> 00:27:38,998
+Je veux qu'on retrouve l'<i>Odyssée</i>.
+
+411
+00:27:39,200 --> 00:27:40,679
+Tout de suite !
+
+412
+00:27:47,400 --> 00:27:49,152
+Kefflin.
+
+413
+00:27:52,880 --> 00:27:56,236
+Etait-il nécessaire
+de m'embarrasser ainsi ?
+
+414
+00:27:56,440 --> 00:27:59,512
+Des bruits on couru concernant
+la force de ton commandement.
+
+415
+00:27:59,720 --> 00:28:03,110
+Je suppose que ces bruits
+vont cesser maintenant.
+
+416
+00:28:05,200 --> 00:28:07,031
+Pour le moment.
+
+417
+00:28:07,280 --> 00:28:09,714
+Il te faudra quelqu'un pour
+superviser le territoire de Gavos.
+
+418
+00:28:13,400 --> 00:28:15,550
+Ta part sera de 20%.
+
+419
+00:28:22,000 --> 00:28:22,989
+Allez !
+
+420
+00:28:23,200 --> 00:28:24,838
+- Je travaille...
+- Tu as volé le <i>Prométhée</i>.
+
+421
+00:28:25,040 --> 00:28:27,508
+- Les systèmes sont nouveaux.
+- Tu as dit pouvoir le faire.
+
+422
+00:28:27,720 --> 00:28:30,154
+Sam nous a prévenus
+que c'était endommagé.
+
+423
+00:28:30,360 --> 00:28:33,238
+Même avec des balises, téléporter
+une personne d'une pièce à une autre
+
+424
+00:28:33,440 --> 00:28:34,953
+dans le vaisseau est très risqué.
+
+425
+00:28:35,160 --> 00:28:38,311
+Tu veux qu'ils se rematérialisent
+entre les ponts ?
+
+426
+00:28:38,840 --> 00:28:41,195
+<i>Teresh, ici Anateo.</i>
+
+427
+00:28:41,400 --> 00:28:44,836
+<i>Tu as manqué le pointage.</i>
+<i>Au rapport.</i>
+
+428
+00:28:48,040 --> 00:28:49,678
+Poussez-vous !
+
+429
+00:28:49,880 --> 00:28:51,029
+Où sont-ils ?
+
+430
+00:28:51,240 --> 00:28:53,800
+Le Dr Jackson et Vala.
+
+431
+00:28:59,400 --> 00:29:02,756
+Anateo, on a un problème.
+
+432
+00:29:10,040 --> 00:29:12,076
+Dr Jackson, Vala.
+
+433
+00:29:13,440 --> 00:29:14,793
+<i>Je voulais juste vous dire</i>
+
+434
+00:29:15,000 --> 00:29:18,515
+<i>que votre duplicité a déjà</i>
+<i>coûté la vie du Colonel Carter.</i>
+
+435
+00:29:18,720 --> 00:29:22,235
+<i>A moins que vous ne vous rendiez,</i>
+<i>le reste de l'équipage suivra.</i>
+
+436
+00:29:29,200 --> 00:29:31,668
+- Je ne peux pas être sûre.
+- Fais-le quand même.
+
+437
+00:29:34,920 --> 00:29:36,512
+Personne d'autre ne le réparera.
+
+438
+00:29:36,720 --> 00:29:39,632
+Je pense qu'il est clair
+que vous avez juste temporisé
+
+439
+00:29:39,880 --> 00:29:43,509
+et que vous n'allez pas le réparer
+pour moi de toute façon.
+
+440
+00:29:44,280 --> 00:29:48,068
+Je vais juste devoir
+me débrouiller moi même.
+
+441
+00:29:52,320 --> 00:29:53,548
+Juste à temps.
+
+442
+00:30:01,360 --> 00:30:02,713
+Où est-elle ?
+
+443
+00:30:02,920 --> 00:30:06,310
+Je l'ignorais, alors j'ai téléporté
+l'autre signe de vie dans la pièce.
+
+444
+00:30:06,560 --> 00:30:08,551
+Bon, où est-il ?
+
+445
+00:30:14,560 --> 00:30:17,154
+Sam disait que c'était risqué.
+
+446
+00:30:25,280 --> 00:30:27,555
+Quand elle a raison,
+elle a raison.
+
+447
+00:30:35,360 --> 00:30:37,954
+Seulement 50% des émetteurs
+du bouclier répondent.
+
+448
+00:30:38,160 --> 00:30:39,354
+Il faut les remettre en service
+
+449
+00:30:39,560 --> 00:30:43,348
+et restaurer l'intégrité de la coque.
+L'hyperpropulsion est notre priorité.
+
+450
+00:30:43,560 --> 00:30:45,755
+Nous pensons avoir la plupart
+des hommes d'Anateo.
+
+451
+00:30:45,960 --> 00:30:46,915
+La plupart ?
+
+452
+00:30:47,120 --> 00:30:49,714
+On a balayé le vaisseau, rassemblé
+14 hommes, mais pas Solek.
+
+453
+00:30:49,920 --> 00:30:51,672
+Vala a dû le téléporter
+hors de la cellule,
+
+454
+00:30:51,880 --> 00:30:54,110
+donc nous ignorons où il a fini.
+
+455
+00:30:54,320 --> 00:30:57,630
+- Avez-vous vérifié le réservoir ?
+- Rien. Comment ça va ici ?
+
+456
+00:30:57,840 --> 00:30:59,956
+Pas de bouclier, pas d'arme,
+pas de communication,
+
+457
+00:31:00,160 --> 00:31:03,038
+et au moins une journée
+pour rétablir l'hyperpropulsion.
+
+458
+00:31:03,240 --> 00:31:05,708
+Nous sommes donc une cible facile.
+
+459
+00:31:07,960 --> 00:31:09,188
+Kefflin, que fais-tu ?
+
+460
+00:31:11,200 --> 00:31:13,430
+J'interroge le prisonnier.
+
+461
+00:31:14,920 --> 00:31:16,148
+Et qu'as-tu appris ?
+
+462
+00:31:17,680 --> 00:31:19,113
+Pas grand-chose encore.
+
+463
+00:31:20,640 --> 00:31:22,835
+Bien.
+Alors on pourra le tuer ensemble.
+
+464
+00:31:25,720 --> 00:31:27,950
+- Le tuer ?
+- On sait tout ce dont on a besoin.
+
+465
+00:31:28,200 --> 00:31:30,839
+Anateo ne nous laisse pas le choix.
+
+466
+00:31:31,040 --> 00:31:33,838
+Je suis résolu à
+envoyer un message aux Tauri.
+
+467
+00:31:34,080 --> 00:31:36,548
+Netan, je dois admettre
+
+468
+00:31:36,760 --> 00:31:39,718
+que je commençais à m'amuser
+avec celui-ci.
+
+469
+00:31:43,080 --> 00:31:44,513
+Désolé, mon vieil ami.
+
+470
+00:31:45,440 --> 00:31:47,192
+Tu as fini de jouer.
+
+471
+00:31:49,560 --> 00:31:51,391
+Netan !
+
+472
+00:31:52,240 --> 00:31:54,356
+On a retrouvé l'<i>Odyssée</i>.
+
+473
+00:32:04,000 --> 00:32:06,036
+Tenat, sois le bienvenu.
+
+474
+00:32:06,240 --> 00:32:08,151
+Voici mon vieil ami Kefflin.
+
+475
+00:32:12,320 --> 00:32:13,833
+Enchanté.
+
+476
+00:32:14,040 --> 00:32:16,838
+J'ai beaucoup entendu
+parler de toi, Kefflin.
+
+477
+00:32:17,080 --> 00:32:18,433
+Oui, c'est réciproque.
+
+478
+00:32:19,560 --> 00:32:24,076
+Dis-moi ce que tu sais, Tenat.
+J'épargnerai peut-être ta petite vie.
+
+479
+00:32:24,280 --> 00:32:26,635
+Toujours aussi drôle, Netan.
+
+480
+00:32:26,840 --> 00:32:29,832
+Comme tu le pensais,
+l'<i>Odyssée</i> n'a jamais été détruit.
+
+481
+00:32:30,080 --> 00:32:33,436
+Anateo t'a trahi
+pour le garder pour lui.
+
+482
+00:32:33,640 --> 00:32:36,552
+- Où est-il ?
+- A une demi-journée, peut-être moins.
+
+483
+00:32:36,760 --> 00:32:39,558
+J'ai transmis les coordonnées
+à ta passerelle.
+
+484
+00:32:39,760 --> 00:32:43,196
+- Nous partons ensemble.
+- Bien sûr.
+
+485
+00:32:45,080 --> 00:32:46,638
+Attendez juste un moment.
+
+486
+00:32:46,840 --> 00:32:49,070
+Cam Mitchell.
+
+487
+00:32:53,840 --> 00:32:55,558
+J'ignore pour qui
+vous me prenez...
+
+488
+00:32:55,760 --> 00:32:58,638
+Vous êtes Cam Mitchell,
+le chasseur de primes.
+
+489
+00:32:58,840 --> 00:33:01,673
+Vous nous avez doublés,
+moi et mon associé, Jup.
+
+490
+00:33:08,760 --> 00:33:09,988
+Que voulez-vous ?
+
+491
+00:33:10,200 --> 00:33:13,397
+Je ne sais pas comment vous l'avez
+convaincu que vous étiez Kefflin,
+
+492
+00:33:13,640 --> 00:33:16,393
+mais vous êtes là pour
+quelque chose d'important.
+
+493
+00:33:16,600 --> 00:33:17,953
+J'en prends la moitié.
+
+494
+00:33:18,200 --> 00:33:20,270
+Et votre loyauté envers Netan ?
+
+495
+00:33:20,480 --> 00:33:23,677
+Il me tuera dès que
+je ne lui serai plus d'aucune utilité.
+
+496
+00:33:24,600 --> 00:33:28,559
+- Et Jup, où est-il ?
+- Il travaille ailleurs en ce moment.
+
+497
+00:33:28,760 --> 00:33:30,591
+Il n'entre pas en compte
+pour le partage.
+
+498
+00:33:31,000 --> 00:33:33,833
+Bien, 10%.
+Ca sera gros, croyez-moi.
+
+499
+00:33:34,040 --> 00:33:37,715
+30% ou je dis à Netan que
+vous n'êtes pas qui vous prétendez.
+
+500
+00:33:37,960 --> 00:33:39,996
+25%, pas plus.
+
+501
+00:33:40,200 --> 00:33:41,553
+Je me téléporte sur votre vaisseau
+
+502
+00:33:41,760 --> 00:33:45,196
+avant qu'il passe en hyperespace
+et je vous donne les détails.
+
+503
+00:33:50,200 --> 00:33:53,317
+Détachez le prisonnier.
+Il vient avec moi.
+
+504
+00:34:10,800 --> 00:34:13,394
+Teal'c ! Teal'c !
+
+505
+00:34:16,320 --> 00:34:19,039
+Je me suis lassé de cette torture,
+Colonel Mitchell.
+
+506
+00:34:19,240 --> 00:34:25,509
+C'est plutôt évident,
+mais maintenant il faut partir.
+
+507
+00:34:37,760 --> 00:34:39,193
+Tu te souviens de Tenat ?
+
+508
+00:34:39,680 --> 00:34:41,511
+Oui, Jup et Tenat.
+
+509
+00:34:41,720 --> 00:34:44,314
+Il a réussi à commander
+un vaisseau mère de l'Alliance.
+
+510
+00:34:44,520 --> 00:34:49,196
+Et devinez quoi :
+Cette andouille a trouvé l'<i>Odyssée</i>.
+
+511
+00:34:49,400 --> 00:34:50,628
+- Il t'a vu ?
+- Oui.
+
+512
+00:34:50,840 --> 00:34:52,990
+Il m'a reconnu,
+mais il va fermer son clapet.
+
+513
+00:34:53,200 --> 00:34:56,272
+Il croit que je berne Netan,
+et il veut sa part du pactole.
+
+514
+00:34:56,480 --> 00:34:59,313
+Il faut aller sur son vaisseau
+avant qu'il ne passe en hyperespace.
+
+515
+00:34:59,520 --> 00:35:01,192
+Quel est ton plan ?
+
+516
+00:35:01,520 --> 00:35:04,239
+Il se construit au fur et à mesure.
+
+517
+00:35:09,480 --> 00:35:12,870
+- Tenat, Netan vient vous voir.
+- Quoi ?
+
+518
+00:35:16,120 --> 00:35:17,348
+Netan.
+
+519
+00:35:17,560 --> 00:35:20,074
+- Je sais que tu veux me trahir.
+- Comment...
+
+520
+00:35:20,280 --> 00:35:22,840
+Je savais que le Colonel Mitchell
+se faisait passer pour Kefflin.
+
+521
+00:35:23,080 --> 00:35:26,197
+- Le Colonel Mitchell ?
+- De SG-1.
+
+522
+00:35:26,400 --> 00:35:28,550
+Je l'ai pris avec Teal'c en tentant
+de quitter mon vaisseau.
+
+523
+00:35:28,800 --> 00:35:31,075
+Non, Netan, tu te trompes.
+
+524
+00:35:31,280 --> 00:35:33,635
+C'est vrai.
+Je savais que ça n'était pas Kefflin.
+
+525
+00:35:33,840 --> 00:35:39,392
+Mais j'essayais simplement
+de l'attirer ici pour te le livrer.
+
+526
+00:35:39,720 --> 00:35:42,439
+C'est la chose la plus stupide
+que j'aie jamais entendue.
+
+527
+00:35:43,280 --> 00:35:46,113
+S'il te plaît, ne me tue pas.
+
+528
+00:35:47,840 --> 00:35:51,992
+Debout, pitoyable semblant de...
+quoi que tu sois.
+
+529
+00:35:52,200 --> 00:35:55,112
+- Que vas-tu faire de moi ?
+- Rien pour l'instant.
+
+530
+00:35:55,320 --> 00:35:57,311
+Je te remercie.
+
+531
+00:35:57,560 --> 00:36:01,872
+Tu es un homme généreux et indulgent.
+Je le dis tout le temps, pas vrai ?
+
+532
+00:36:02,400 --> 00:36:05,073
+Dites-lui que vous êtes honorés
+de le rencontrer en personne...
+
+533
+00:36:05,320 --> 00:36:06,548
+Arrête de pleurnicher.
+
+534
+00:36:13,240 --> 00:36:15,196
+Dr Jackson ?
+
+535
+00:36:18,200 --> 00:36:20,430
+Si ces détecteurs
+fonctionnent correctement,
+
+536
+00:36:20,680 --> 00:36:24,195
+deux vaisseaux Goa'uld sont sortis
+d'hyperespace et se rapprochent.
+
+537
+00:36:39,400 --> 00:36:40,913
+- Sam ?
+<i>- Allez-y.</i>
+
+538
+00:36:41,120 --> 00:36:43,588
+On va avoir besoin d'hyperpropulsion
+plus tôt que prévu.
+
+539
+00:36:44,280 --> 00:36:45,599
+Plus tôt que prévu ?
+
+540
+00:36:45,800 --> 00:36:48,189
+<i>Dans 10 secondes ça serait bien.</i>
+<i>On a de la compagnie.</i>
+
+541
+00:36:48,400 --> 00:36:50,118
+Il nous faut du temps.
+C'est possible ?
+
+542
+00:36:50,720 --> 00:36:53,871
+Nous allons le savoir.
+Comment va le bouclier ?
+
+543
+00:36:54,120 --> 00:36:55,838
+- Moins de 30%.
+- Les armes ?
+
+544
+00:36:56,040 --> 00:36:59,350
+Les canons fonctionnent,
+mais nous n'avons pas de missile.
+
+545
+00:36:59,920 --> 00:37:02,195
+L'un des vaisseaux nous contacte.
+
+546
+00:37:06,440 --> 00:37:08,237
+En visuel.
+
+547
+00:37:10,360 --> 00:37:12,635
+<i>- Dr Jackson.</i>
+- Ah, d'accord.
+
+548
+00:37:12,840 --> 00:37:14,956
+Bonjour. Comment allez-vous ?
+
+549
+00:37:15,160 --> 00:37:16,718
+<i>Je m'attendais à Anateo.</i>
+
+550
+00:37:16,920 --> 00:37:20,469
+Oui, il a été ici un moment,
+mais il a dû partir.
+
+551
+00:37:20,680 --> 00:37:23,752
+<i>Mes scanners me disent que</i>
+<i>vos boucliers sont faibles.</i>
+
+552
+00:37:23,960 --> 00:37:26,474
+<i>Si vous aviez l'hyperpropulsion,</i>
+<i>vous seriez déjà partis.</i>
+
+553
+00:37:26,680 --> 00:37:29,148
+<i>Vous vous rendez</i>
+<i>ou nous vous détruisons.</i>
+
+554
+00:37:29,800 --> 00:37:31,028
+Bien.
+
+555
+00:37:31,240 --> 00:37:33,071
+OK, d'ac.
+
+556
+00:37:33,840 --> 00:37:36,479
+- On se rend.
+<i>- Préparez-vous à l'abordage.</i>
+
+557
+00:37:36,680 --> 00:37:38,830
+C'est là que vous allez avoir
+un léger problème.
+
+558
+00:37:39,080 --> 00:37:40,752
+Vous voyez, nos anneaux
+sont endommagés
+
+559
+00:37:40,960 --> 00:37:43,872
+et, comme vous l'avez remarqué,
+nos boucliers sont en panne,
+
+560
+00:37:44,080 --> 00:37:47,595
+ce qui veut dire qu'on ne peut pas
+maintenir l'atmosphère en 302.
+
+561
+00:37:48,640 --> 00:37:51,677
+Je ne vois pas comment nous allons
+faire monter vos hommes ici,
+
+562
+00:37:51,880 --> 00:37:54,792
+à moins que vous vouliez
+que je vous téléporte ici.
+
+563
+00:37:58,880 --> 00:38:00,108
+Ils font chauffer les armes.
+
+564
+00:38:01,400 --> 00:38:03,277
+Sam, j'ai ralenti autant
+que je pouvais.
+
+565
+00:38:04,000 --> 00:38:06,070
+- Il nous faut encore du temps.
+<i>- Trop tard.</i>
+
+566
+00:38:08,280 --> 00:38:10,510
+Tu devrais te préparer
+à répondre.
+
+567
+00:38:11,800 --> 00:38:14,314
+Pour info :
+Je suis toujours prêt.
+
+568
+00:38:15,680 --> 00:38:17,989
+J'ai juste à appuyer
+sur ce bouton, là.
+
+569
+00:38:18,880 --> 00:38:21,348
+Bon, je pensais que c'est
+ce qu'on est censé dire...
+
+570
+00:38:21,560 --> 00:38:22,959
+Je comprends.
+
+571
+00:38:23,720 --> 00:38:25,836
+- Ouvre le feu sur l'autre Ha'tak.
+- Quoi ?
+
+572
+00:38:26,040 --> 00:38:27,871
+- Tu m'as entendu.
+- Mais...
+
+573
+00:38:28,080 --> 00:38:29,798
+Tu mets en doute ma stratégie ?
+
+574
+00:38:30,000 --> 00:38:32,468
+C'est un vaisseau rempli de traîtres
+qui veulent me destituer
+
+575
+00:38:32,680 --> 00:38:34,955
+comme chef de l'Alliance lucienne.
+Tire de suite !
+
+576
+00:38:35,160 --> 00:38:39,233
+On va grassement te récompenser
+par de vastes territoires à commander.
+
+577
+00:38:39,760 --> 00:38:43,196
+Tire sur l'autre Ha'tak.
+
+578
+00:38:49,800 --> 00:38:52,360
+L'un des vaisseaux mères
+tire sur l'autre.
+
+579
+00:38:52,560 --> 00:38:54,391
+Nous recevons un signal radio.
+
+580
+00:38:54,600 --> 00:38:58,149
+- Odyssée<i>, ici Teal'c. Vous m'entendez ?</i>
+- Teal'c ?
+
+581
+00:38:58,360 --> 00:39:00,999
+<i>Daniel Jackson,</i>
+<i>c'est bon de t'entendre.</i>
+
+582
+00:39:01,200 --> 00:39:03,794
+<i>Le Colonel Mitchell et moi sommes</i>
+<i>sur un des vaisseaux mères.</i>
+
+583
+00:39:04,000 --> 00:39:06,719
+<i>Demandons téléportation</i>
+<i>immédiate à bord de l'</i>Odyssée.
+
+584
+00:39:06,920 --> 00:39:10,117
+- Oui.
+- Verrouillage sur leurs balises.
+
+585
+00:39:10,360 --> 00:39:12,112
+<i>Que faites-vous ?</i>
+
+586
+00:39:12,360 --> 00:39:14,237
+Netan ? Quoi ?
+
+587
+00:39:14,480 --> 00:39:16,072
+Comment ?
+
+588
+00:39:16,280 --> 00:39:18,953
+Je croyais que c'était lui Netan.
+
+589
+00:39:27,680 --> 00:39:29,398
+Jackson.
+
+590
+00:39:29,880 --> 00:39:32,553
+- Que fais-tu, assis là ?
+- Qu'est-ce que tu portes ?
+
+591
+00:39:32,760 --> 00:39:34,557
+C'est une longue histoire.
+
+592
+00:39:34,800 --> 00:39:37,872
+<i>Tu es la pire andouille</i>
+<i>de ces deux galaxies !</i>
+
+593
+00:39:38,080 --> 00:39:40,833
+Mais, Netan, je...
+
+594
+00:39:41,920 --> 00:39:44,195
+Je me suis planté.
+
+595
+00:39:46,440 --> 00:39:48,431
+C'est pas le bon.
+Tu ne peux pas le bloquer.
+
+596
+00:39:52,680 --> 00:39:54,671
+- Comment as-tu fait ?
+- Franchement ?
+
+597
+00:39:54,920 --> 00:39:57,229
+Je ne sais pas.
+Ca ne fonctionne jamais.
+
+598
+00:39:58,400 --> 00:39:59,833
+Daniel, essaye maintenant.
+
+599
+00:40:07,000 --> 00:40:09,468
+Le bouclier va bientôt céder.
+
+600
+00:40:10,680 --> 00:40:14,673
+Soyez maudit, Cam Mitchell.
+
+601
+00:40:25,960 --> 00:40:28,190
+Tu as de la chance
+que personne sur la passerelle
+
+602
+00:40:28,400 --> 00:40:29,799
+n'ait su à quoi ressemblait Netan.
+
+603
+00:40:30,000 --> 00:40:32,355
+Oui, c'était osé, mais je me suis dit
+que si j'étais pris
+
+604
+00:40:32,560 --> 00:40:35,632
+ou si l'injection ne fonctionnait pas
+sur Tenat après 1/2 heure,
+
+605
+00:40:35,840 --> 00:40:38,149
+je prendrais la passerelle de force.
+
+606
+00:40:38,360 --> 00:40:41,193
+J'avais un Jaffa en rogne
+qui n'attendait que de m'aider.
+
+607
+00:40:42,160 --> 00:40:44,674
+- Où est Teal'c ?
+- Il est à l'infirmerie.
+
+608
+00:40:44,880 --> 00:40:47,917
+- Notre grand garçon a été malmené.
+- Que s'est-il passé ?
+
+609
+00:40:48,120 --> 00:40:50,714
+Comment les as-tu fait
+se tirer dessus ?
+
+610
+00:40:50,920 --> 00:40:52,558
+- Ca va te plaire.
+- Avant ça.
+
+611
+00:40:52,800 --> 00:40:54,438
+J'ai remis en service
+la communication
+
+612
+00:40:54,640 --> 00:40:57,598
+et envoyé un message sur Terre
+pour dire qu'on rentrait.
+
+613
+00:40:57,840 --> 00:40:59,353
+Il aurait fallu ajouter
+
+614
+00:40:59,600 --> 00:41:02,353
+que nous avons déclaré la guerre
+à l'Alliance lucienne.
+
+615
+00:41:04,920 --> 00:41:06,512
+C'est fait.
+
+616
+00:41:37,040 --> 00:41:38,996
+<i>Traduction:</i>
+Patrick Panifous
+
+617
+00:41:39,200 --> 00:41:41,156
+<i>Sous-titrage:</i>
+SDI Media Group
+
+618
+00:41:41,360 --> 00:41:43,316
+[FRENCH]
+

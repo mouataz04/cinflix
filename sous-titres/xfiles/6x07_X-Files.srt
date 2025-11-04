@@ -1,0 +1,453 @@
+{75}{197}Sachez que le sonogramme|n'est pas une science exacte.
+{200}{280}Je ne veux pas vous inquiéter|ni vous faire cogiter,
+{280}{365}car on ne saurait pas|l'expliquer nous-mêmes.
+{365}{417}Mais je ne vois rien.
+{420}{497}Vous le savez,|ce diagnostic est un peu prématuré.
+{500}{602}Ce n'est peut-être|qu'une étape du développement.
+{632}{682}Mais il y a un problème.
+{700}{752}On aperçoit une évolution.
+{755}{852}Une formation osseuse anormale|sur les vertèbres supérieures
+{855}{937}et une excroissance ici sur les os du crâne.
+{997}{1040}Wayne?
+{1227}{1280}Mon chéri?
+{1392}{1442}Ce n'est peut-être rien.
+{1472}{1572}Ecoute. Le Dr Couvillion|veut attendre encore un peu.
+{1645}{1740}Je veux juste qu'il soit normal.
+{1862}{1922}Rentrons.
+{1935}{1985}Viens.
+{2080}{2167}HOLLINS, VIRGINIE
+{2760}{2795}Merci.
+{3165}{3215}Je t'aime, Laura.
+{3257}{3307}Quoiqu'il arrive.
+{3342}{3392}Tu le sais?
+{3412}{3462}Choupinette?
+{3510}{3560}Je sais.
+{3665}{3715}Bonne nuit.
+{3755}{3805}Bonne nuit, Laura.
+{3882}{3932}Fais de beaux rêves.
+{4670}{4727}Pitié!
+{4750}{4802}Que faites-vous?
+{4855}{4905}Arrêtez!
+{4905}{4970}Wayne! Où es-tu?
+{5050}{5162}Arrête-le! Pitié, ne me prenez pas mon bébé!
+{5380}{5477}- Mon bébé!|- Ce n'est rien. Juste un rêve.
+{5540}{5607}- C'était horrible.|- C'est fini.
+{5710}{5800}Il essayait de voler notre bébé.
+{6620}{6670}ACTIVITE PARANORMALE
+{6797}{6855}LE GOUVERNEMENT NOUS MENT
+{7270}{7330}LA VERITE EST AILLEURS
+{7382}{7440}SIEGE DU FBI|WASHINGTON DC
+{7455}{7560}Face à une telle affaire,|je me suis senti un peu désarmé.
+{7562}{7650}A Hollins, on a bien notre lot d'excentriques.
+{7650}{7722}Mais c'est une petite ville comme les autres.
+{7725}{7835}Il y a des cambriolages, des casses.|Rien de trop méchant.
+{7860}{8000}Mais vu la déposition de la victime,|avec tous ces détails...
+{8002}{8115}J'ai dû croire Laura sur parole|qu'on avait enlevé son bébé.
+{8115}{8260}- C'est votre spécialité, dit-on.|- Vous avez frappé à la bonne porte,
+{8260}{8350}Stevens. Dites-moi,|cette femme est votre soeur?
+{8352}{8482}Oui. Laura Weinsider. Je sais|ce que les gens racontent sur elle.
+{8485}{8540}Pas en face de moi bien sûr, mais...
+{8542}{8660}des horreurs comme quoi|Laura y serait pour quelque chose.
+{8662}{8777}La veille, un médecin a décelé|des malformations à l'échographie?
+{8780}{8880}En effet, mais ce n'est pas|confirmé, vous savez.
+{8882}{8937}Je vois.
+{8940}{9062}Bien. Nous allons faire|passer ce dossier en priorité.
+{9065}{9205}Je vous remercie. Laura a hâte|de parler à quelqu'un de compétent.
+{9880}{9982}Malgré le caractère prioritaire,|vous avez fait bien vite, agent...
+{9985}{10085}Mulder, Fox Mulder.|Mais j'aimerais que ça reste entre nous.
+{10085}{10165}Le FBI tient à garder|nos missions confidentielles.
+{10167}{10247}Bien sûr. Mais j'aimerais|remercier l'agent Spender.
+{10250}{10302}Non.
+{10305}{10390}Je le ferai pour vous|car je dois le tenir au courant.
+{10392}{10482}- Pourvu qu'il y ait de quoi.|- J'espère aussi.
+{10667}{10710}Ce n'était qu'un cauchemar,|mais combien deviennent réels?
+{10710}{10805}Ce n'était qu'un cauchemar,|mais combien deviennent réels?
+{10807}{10857}Pas beaucoup.
+{10887}{10957}En tout cas,|pas comme le vôtre, Mme Weinsider.
+{10960}{11010}Dans mon cauchemar,
+{11045}{11110}tout paraissait si réel.
+{11112}{11250}Vous avez parlé d'un feu|dans la chambre, et aussi
+{11280}{11352}d'un démon qui tenait vos jambes.
+{11355}{11410}Pour qu'il puisse prendre le bébé.
+{11412}{11510}Mais d'après votre déposition,|votre bébé n'était pas normal.
+{11510}{11597}Non. C'était une sorte de monstre
+{11630}{11710}avec des cornes et une queue.
+{11762}{11825}Je vous prie de m'excuser.
+{12027}{12097}Elle a l'air forte, mais elle est très affectée
+{12100}{12185}depuis que le médecin|nous a parlé des complications.
+{12267}{12410}Vous étiez couché à côté d'elle|tout ce temps, M. Weinsider?
+{12410}{12457}Wayne. Oui, je l'ai réveillée.
+{12460}{12560}Mais d'après les dires de votre femme,
+{12562}{12670}à un moment donné,|elle a tendu le bras vers vous
+{12670}{12737}et vous n'étiez pas là.
+{12790}{12860}C'était un rêve.
+{12900}{12972}Je peux utiliser votre téléphone... Wayne?
+{13015}{13047}Bien sûr.
+{13070}{13195}Votre sincérité est importante,|et en tant que futur employé fédéral,
+{13197}{13300}vous devez me répondre aussi|honnêtement que possible. D'accord?
+{13302}{13365}Bien. Je vous écoute.
+{13365}{13432}Avez-vous déjà fumé de la marijuana?
+{13435}{13495}Non, sûrement pas.
+{13565}{13660}Avez-vous fréquenté|des gens qui en fument?
+{13687}{13787}Non. Ca m'étonnerait.
+{14020}{14087}- Scully.|- C'est moi.
+{14090}{14142}Vous me laissez?
+{14145}{14237}Mulder, où es-tu?|Je t'ai attendu 45 minutes ce matin.
+{14240}{14347}Avant de te répondre,|promets-moi d'oublier tes préjugés.
+{14370}{14422}- Une affaire NC?|- Appelle ça ainsi.
+{14425}{14495}A Roanoke, on l'appelle|le démon voleur de bébés.
+{14497}{14580}- Tu es en Virginie?|- Je veux ton avis sur une échographie.
+{14582}{14682}On a détecté d'étranges difformités|in utero. Je t'envoie un coursier.
+{14685}{14805}On doit vérifier des antécédents,|pas traquer d'affaires NC.
+{14807}{14870}Spender l'a fait passer à la trappe.
+{14872}{14965}- C'est insensé.|- Et fouiller sa poubelle ne l'est pas?
+{14967}{15025}C'est pas pire que notre mission.
+{15025}{15122}Notre mission? Je me la tape toute seule!
+{15125}{15207}C'est le cas classique du démon géniteur.
+{15210}{15275}Ce qu'on appelait|au Moyen âge: "atum nocturnem".
+{15277}{15375}La fécondation par Satan|d'une femme à son insu.
+{15375}{15430}Comme hôte de sa semence démoniaque.
+{15432}{15482}Exactement.
+{15485}{15545}J'ai vu <i>Rosemary's baby</i> sur le câble.
+{15547}{15640}Là, c'est pour de vrai.|Tu trouveras des preuves concrètes.
+{15642}{15715}Jette un oeil sur l'échographie.|Fais-moi plaisir.
+{15717}{15825}Etudie son dossier médical.|Il devrait confirmer ma théorie.
+{15930}{16000}22H56
+{16052}{16110}Tu as vu ma chemise de nuit?
+{16135}{16185}Je ne la trouve pas.
+{18530}{18562}Que fais-tu là?
+{18565}{18635}- Et toi?|- Je brûle des feuilles.
+{18672}{18732}A cette heure-ci?
+{18735}{18795}Tu m'as demandé de le faire.
+{18815}{18875}C'était sur la liste des priorités.
+{18925}{19000}Arrête. Tu me mets mal à l'aise.
+{19050}{19165}- Viens te coucher.|- Oui, chérie. Je voulais...
+{19195}{19325}Je voulais te faire la surprise|demain matin. J'arrive.
+{20455}{20517}6H57
+{20762}{20815}Je pense avoir trouvé ce que tu cherchais.
+{20817}{20915}J'ai passé la nuit à étudier|les dossiers du bébé Weinsider.
+{20917}{20952}Et qu'as-tu trouvé?
+{20955}{21085}Les anomalies dont tu parlais|sont bien là, mais elles sont infimes.
+{21085}{21195}- Décris-les-moi.|- De petites déformations osseuses.
+{21195}{21277}Il y a des saillies sur le dessus de l'omoplate
+{21280}{21380}et des protubérances sur le crâne|près de la suture coronaire.
+{21382}{21502}- Des protubérances? Comme des cornes?|- Ce pourrait être un gène récessif,
+{21505}{21575}comme l'atrophie|d'une morphologie primitive
+{21577}{21670}ou une anomalie de croissance|comme la craniosynostose.
+{21672}{21735}Ca aurait pu être transmis par le père?
+{21735}{21855}Le père ne me semble pas être|démoniaque. Ce serait plutôt la mère.
+{21857}{21980}En Virginie, la loi sur l'avortement|au 3ème trimestre t'oblige à l'arrêter.
+{21982}{22055}- De quoi tu parles?|- L'accouchement a été provoqué.
+{22057}{22180}Le sang de la mère contenait|des traces d'une plante, la mandragore.
+{22180}{22260}C'est un poison connu|pour provoquer un avortement.
+{22262}{22287}De la mandragore?
+{22290}{22360}Elle a aussi des propriétés hallucinogènes.
+{22362}{22425}Mme Weinsider|aurait fait de l'automédication?
+{22425}{22557}J'ai appelé le médecin qui m'a dit|que la nouvelle avait affecté le père
+{22560}{22645}alors que la mère était restée impassible.
+{22645}{22697}Je vais te faxer ces informations
+{22700}{22795}pour que tu les présentes|au procureur de Roanoke.
+{22797}{22882}Je crois qu'on tient|ton voleur de bébés. Mulder?
+{22902}{22947}Oui. Quoi? Oui.
+{22950}{23005}Je te conseille d'être diplomate.
+{23007}{23090}Ca risque de bouleverser les proches.
+{23090}{23140}Merci.
+{23765}{23835}- Que fais-tu?|- Désolé, j'ai oublié ma clé.
+{23835}{23872}Où étais-tu?
+{23875}{23975}Tu savais que j'étais en déplacement|jusqu'à mardi... ma choupinette.
+{23992}{24060}J'étais si inquiète, Wayne.
+{24062}{24112}On arrive bientôt à terme.
+{24130}{24180}Chérie...
+{24182}{24255}Je t'assure qu'il n'arrivera rien.
+{24257}{24317}Pas à notre petit bout de chou.
+{24457}{24515}Je vais vous dire qui se drogue ici.
+{24517}{24535}Elle n'a pas pris de poison.|Ma soeur n'a jamais entendu parler de ce truc.
+{24535}{24625}Elle n'a pas pris de poison.|Ma soeur n'a jamais entendu parler de ce truc.
+{24625}{24665}De la mandragore.
+{24665}{24750}- Où en aurait-elle trouvé?|- J'ai bu des tisanes pour dormir.
+{24752}{24865}- Rien ne t'oblige à parler.|- Au contraire, on y verrait plus clair.
+{24865}{24922}- Pas sans avocat.|- Elle n'est pas inculpée.
+{24925}{25047}Heureusement! Je ne vous ai pas|fait venir pour confirmer les rumeurs.
+{25050}{25115}Ma soeur n'est pas une infanticide!
+{25197}{25222}Que se passe-t-il?
+{25225}{25295}Ils m'accusent d'avoir tué notre bébé.
+{25295}{25345}- Qui t'accuse?|- A ton avis?
+{25347}{25452}J'ignore où tu étais mais je suis|le seul à faire face à la meute ici.
+{25455}{25510}Il faut bien gagner sa croûte.
+{25542}{25612}Je ne souhaite pas arrêter Laura.
+{25615}{25722}Mais vous seriez diablement|contrarié si ça arrivait.
+{25765}{25790}Sans aucun doute.
+{25792}{25865}Dites à Stevens que vous acceptez une fouille
+{25867}{25980}afin de clarifier tout malentendu|concernant les récents événements.
+{25982}{26032}Bien sûr.
+{26255}{26305}Tu peux venir?
+{26412}{26515}Je sais déjà que personne|n'a de problème de transit ici.
+{26725}{26845}Je sais qu'ils ne trouveront rien,|mais je me sens coupable.
+{26845}{26940}Je dois t'avouer quelque chose à ce sujet.
+{26942}{27045}J'ai préféré ne pas t'en parler,|tu comprendras vite pourquoi.
+{27047}{27107}De quoi tu parles?
+{27125}{27185}Je ne sais pas comment te le dire,
+{27187}{27265}mais je suis sûr que ça te fera|autant de mal qu'à moi.
+{27267}{27310}Parle.
+{27357}{27407}La nuit...
+{27470}{27547}la nuit où tu as perdu le bébé,
+{27550}{27632}je me suis levé car je n'arrivais pas à dormir.
+{27635}{27705}Quand je suis revenu me coucher, tu étais...
+{27775}{27817}tu tenais...
+{27845}{27910}notre bébé dans les bras.
+{27910}{27995}Tu étais en transe.|Je n'arrivais pas à te réveiller.
+{27997}{28160}Tu déclamais sans arrêt:|"Zazas, zazas, nastanada, zazas..."
+{28192}{28312}Alors j'ai pris notre petit garçon, notre bébé,
+{28315}{28402}et je l'ai enveloppé pour que|personne n'apprenne la vérité.
+{28405}{28442}Mon Dieu!
+{28445}{28490}Et l'autre nuit,
+{28542}{28650}quand tu m'as vu dehors brûler les feuilles...
+{28650}{28727}Non!
+{28730}{28782}Je l'ai fait pour te protéger.
+{28785}{28875}Je savais que je ne pourrais|jamais ramener notre fils,
+{28877}{28942}notre cher petit Wayne Junior.
+{28945}{29010}Mais je n'aurais pas supporté de te perdre.
+{29135}{29202}Venez voir ça!
+{29527}{29597}Je ne sais pas quoi vous dire.
+{29625}{29765}Je ne pensais plus qu'à une chose|quand j'ai appris la situation,
+{29767}{29847}qu'il y avait un problème,
+{29850}{29955}c'est que cette chose|qui poussait en moi était un monstre.
+{30012}{30147}Que j'avais dû commettre une faute|et que c'était ma punition.
+{30197}{30282}J'ai dit à Wayne que ça allait s'arranger.
+{30362}{30425}Mais je mentais.
+{30425}{30520}Tu dois me croire, Arky.|Je ne voulais pas le tuer.
+{30585}{30655}Je ne savais pas ce que je faisais.
+{30677}{30737}C'était les herbes médicinales.
+{30740}{30790}Je ne vois que ça...
+{30855}{30910}Je te conseille de ne plus rien dire.
+{30977}{31042}Je vais devoir te lire tes droits.
+{31077}{31200}On va aller au poste pour finir les formalités.
+{31225}{31262}Je suis désolé.
+{31642}{31702}Ne t'inquiète pas.|Je te trouverai un bon avocat.
+{31702}{31745}Ne t'inquiète pas.|Je te trouverai un bon avocat.
+{31917}{31977}Je sais ce que vous êtes.
+{32520}{32570}- Allô?|- Salut, Betsy. C'est moi.
+{32572}{32647}- Où es-tu?|- En route pour la maison.
+{32650}{32725}- J'allais partir.|- Je veux t'accompagner.
+{32727}{32815}Je ne veux rater|aucune étape de ta grossesse.
+{32815}{32907}Tu en as déjà raté plein.|Et ce n'est qu'un sonogramme.
+{32910}{33015}Pas seulement. C'est une image|représentant le fruit de notre amour.
+{33017}{33095}- Tu as fumé la moquette?|- Je suis dans le quartier.
+{33095}{33177}Je serais devant la maison|dans moins de cinq minutes.
+{33180}{33255}- Je t'attends.|- Cinq minutes.
+{33257}{33325}- Où allez-vous?|- Comment?
+{33325}{33395}- A qui parlez-vous?|- A qui tu parles?
+{33397}{33462}Vous avez l'air très pressé.
+{33465}{33532}- Je suis en retard pour un rendez-vous.|- Avec qui?
+{33535}{33610}- Un client.|- Je raccroche.
+{33612}{33705}Vous êtes dans les assurances.|Vous devez vous déplacer souvent.
+{33707}{33785}Je suis spécialiste auprès d'une mutuelle.
+{33785}{33870}Où est notre rendez-vous? C'est loin d'ici?
+{33872}{33930}- Quoi?|- On fait la course.
+{34310}{34387}Bonjour, Mme Britton.|Wayne Weinsider. Vous me remettez?
+{34390}{34467}De la mutuelle Harmonie?|Je viens pour la prise de sang.
+{34470}{34525}C'était prévu pour mardi prochain.
+{34527}{34590}Je sais, Kim. Je peux vous appeler Kim?
+{34592}{34642}J'étais dans le quartier et...
+{34645}{34745}mieux vaut être assurée|maintenant que dans une semaine.
+{35102}{35140}Qu'en faites-vous?
+{35142}{35230}On l'analyse pour savoir|si vous êtes "à risques".
+{35260}{35317}Du calme, petits monstres.
+{35410}{35467}- Ce sont vos enfants?|- Oui.
+{35470}{35490}J'adore les enfants.|Ma femme va avoir un bébé.
+{35490}{35555}J'adore les enfants.|Ma femme va avoir un bébé.
+{35580}{35640}Ca fait une éternité que j'essaie.
+{35662}{35710}Pliez le bras.
+{35810}{35882}Ce sont de beaux garçons.
+{35895}{35975}Vous ne savez pas la chance que vous avez.
+{35977}{36095}Deux cellules, beaucoup de hasard,|et les voilà. Parfaits.
+{36485}{36577}- Ca va? Pas de sensation de malaise?|- Non, ça va.
+{36790}{36827}Je peux téléphoner?
+{36945}{37000}Virez ces gosses de ma voiture!
+{37002}{37112}Bon, les pilotes de course.|La leçon de conduite est finie.
+{37142}{37200}Vous vous amusez bien?
+{37202}{37225}Oui.
+{37227}{37270}- T'es dans la merde.|- Quoi?
+{37272}{37340}Le directeur adjoint Kersh|m'a passé un savon.
+{37340}{37467}Il a reçu un appel de Weinsider|qui prétend que tu le harcèles.
+{37470}{37510}Fichez-moi la paix.
+{37595}{37682}Il attend une explication.|Que veux-tu que je lui dise?
+{37685}{37772}Que je suis venu ici vérifier|les antécédents de quelqu'un.
+{37890}{37960}PRISON CENTRALE DE ROANOKE
+{38362}{38447}Il para îti que tu voulais me voir?
+{38475}{38510}J'ai peur.
+{38540}{38667}J'ai vu des avocats et,|vu les circonstances et ton état,
+{38670}{38760}ils misent sur un acquittement,|si c'est ça qui t'inquiète.
+{38760}{38840}Non. J'ai beaucoup réfléchi.
+{38850}{38927}Réfléchi? A quoi?
+{38930}{38975}A ton histoire.
+{39030}{39087}Elle ne tient pas debout.
+{39090}{39175}Tu as dit avoir enveloppé|le bébé pour le cacher,
+{39177}{39227}mais ce qu'on a trouvé dans les cendres
+{39230}{39342}était enroulé dans la chemise de nuit|que je portais à mon réveil.
+{39370}{39455}C'est impossible. Tu dois te tromper.
+{39497}{39555}Et je n'arrête pas de penser
+{39557}{39692}au visage de cette horrible|créature au pied du lit,
+{39695}{39815}et je me souviens d'un détail|dont que je n'ai parlé à personne.
+{39857}{39912}Pas même à toi.
+{39915}{39972}Tu me fais peur.
+{39975}{40067}Que tu me croies ou pas,|je veux juste te protéger
+{40070}{40135}et vite passer à autre chose.
+{40397}{40457}Pourquoi as-tu fait ça?
+{40497}{40562}Sache que je t'aime.
+{40602}{40707}J'aurais aimé que tu sois l'élue.
+{40747}{40792}Lâche-moi.
+{41225}{41350}- Son rythme cardiaque?|- Toujours en Fv. Electrodes à 200.
+{41367}{41437}- Que s'est-il passé?|- Elle s'est écroulée.
+{41457}{41497}Dégagez!
+{41515}{41580}Electrodes chargées. Attention.
+{41582}{41635}C'était comme...
+{41637}{41710}Comme si elle mourait dans mes bras.
+{41710}{41765}On recommence. Dégagez.
+{41885}{41945}- On a un battement.|- Quoi?
+{41977}{42060}Tu m'entends?
+{42117}{42235}Je dois la transporter à l'hôpital.|Prévenez un neurologue urgentiste.
+{43220}{43295}- Cinq minutes bien longues!|- Je peux t'expliquer.
+{43295}{43380}Je t'en prie. Je connais tes excuses par coeur.
+{43382}{43452}Ca s'est bien passé sans toi.|Comme toujours.
+{43455}{43510}- Tu as fait le sonogramme?|- Oui.
+{43512}{43562}Tu l'as ramené?
+{43675}{43762}- II y a un problème?|- Le médecin a vu une anomalie.
+{43787}{43895}C'est trop tôt, mais il y a une excroissance|sur la colonne et le crâne.
+{43895}{44012}Ce n'est peut-être qu'une étape|du développement. Elle veut attendre.
+{44392}{44455}D'accord.
+{44617}{44737}Quoi qu'il arrive, je t'aime. Sans condition.
+{44752}{44857}Ah oui? Je me demande parfois|ce que tu penses vraiment.
+{44880}{44945}Que du positif.
+{44945}{45015}Toi et le bébé représentez|mes espoirs et mes rêves.
+{45055}{45105}Les miens aussi.
+{45150}{45242}Je te prépare un lait chaud|et on va se coucher?
+{45245}{45275}D'accord.
+{45505}{45567}CENTRE MEDICAL DE ROANOKE|22H02
+{45570}{45637}Tu me demandes de venir|et après, tu es introuvable.
+{45640}{45715}Je faisais une vérification|d'antécédents à la mairie.
+{45782}{45850}Pas à moi. Ca, c'est la version officielle.
+{45850}{45930}Je reconstituais le passé de celui qui a fait ça.
+{45932}{46040}C'est pour ça que je te cherchais.|Personne ne lui a rien fait.
+{46042}{46135}Il n'y a aucune trace de violences,|d'overdose, de suffocation
+{46135}{46212}ni quoi que ce soit|qui expliquerait son coma.
+{46215}{46300}- Parfait.|- Tu ne m'as pas bien écoutée.
+{46302}{46370}J'ai fait un bilan complet|comme tu le voulais.
+{46375}{46485}Il n'y a pas la moindre preuve|pour inculper le mari ou quiconque.
+{46487}{46620}C'est exactement ce que je voulais|que tu me dises. Regarde ça.
+{46705}{46807}"lvan Veles, né en Tchécoslovaquie en 1956."
+{46810}{46920}"Marié et veuf deux fois, pas d'enfant.|Inculpé pour le meurtre de ses femmes."
+{46920}{46992}"Acquitté pour absence de preuves."|Qui est lvan Veles?
+{46995}{47110}Wayne Weinsider.|D'origine tchèque, émigré en 1994.
+{47112}{47212}Aussi connu sous le nom|de Bud Hasselhoff et Gordy Boytano.
+{47215}{47282}- Gordy Boytano?|- C'est pas fini. Continue.
+{47295}{47402}"Dans les sociétés slaves,|le nom Veles était synonyme...
+{47405}{47460}de diable."
+{47460}{47595}"Du mot lituanien "vele", un démon|cornu qui inhale l'âme des innocents.
+{47635}{47732}Tu n'insinues quand même pas|que c'est un démon?
+{47735}{47820}Je n'insinue rien.|Les faits parlent d'eux-mêmes.
+{47822}{47940}Je veux bien croire qu'un homme puisse|être démoniaque, ressembler au diable.
+{47940}{48012}Mais pourquoi un démon,|si toutefois ça existe,
+{48015}{48125}se donnerait la peine de jouer au mari|pour tuer sa femme et son futur bébé?
+{48125}{48182}J'en sais rien. Je ne suis pas psy,
+{48185}{48280}mais c'est la meilleure explication|pour le "comment" pour l'instant.
+{49175}{49245}Avec ça, tu vas t'endormir sur un nuage...
+{49272}{49335}où tous les problèmes s'évaporent.
+{49367}{49432}Parfois je sais pourquoi je t'ai épousé.
+{50002}{50065}C'est très dur.
+{50067}{50117}Passe-moi la pioche.
+{50207}{50277}Notre matériel est très sophistiqué.
+{50280}{50380}On a des détecteurs de la police|de Richmond. Mais on trouve que dalle.
+{50380}{50430}Par ici!
+{50560}{50620}Venez nous éclairer.
+{50692}{50772}Tu trouveras des difformités|sur les vertèbres supérieures.
+{50775}{50907}Deux protubérances entre les lobes|pariétaux et occipitaux du crâne.
+{51075}{51157}- Doux Jésus.|- Lancez un avis pour votre beau-frère.
+{51160}{51210}- Comment ça?|- Trouvez-le-moi.
+{51212}{51252}Tu veux bien m'expliquer?
+{51255}{51335}Il a refait la même chose|qu'en Tchécoslovaquie.
+{51337}{51432}On a dû déterrer le bébé|d'une des femmes de Wayne.
+{51435}{51497}Donc il essaierait de se reproduire?
+{51500}{51622}Il exerce sa prérogative biologique.|Il fera tout pour arriver à ses fins.
+{51625}{51675}C'est insensé. S'il veut se reproduire,
+{51677}{51762}pourquoi tuer ses bébés|et les enterrer dans son jardin?
+{51765}{51860}Parce que ce sont des démons|et qu'il veut un enfant normal.
+{52320}{52355}Non!
+{52422}{52465}Qu'est-ce que tu fais?
+{52495}{52620}Tu m'entends? J'ai dit, qu'est-ce que tu fais?
+{52937}{53050}C'est à Cave Spring.|Dans la banlieue ouest de Roanoke.
+{53052}{53122}Merci beaucoup pour votre aide.
+{53175}{53210}Accroche-toi.
+{53415}{53445}Où allons-nous?
+{53447}{53542}La mutuelle Harmonie m'a donné|une autre adresse pour Wayne Weinsider,
+{53545}{53617}dans la banlieue à l'autre bout de la ville.
+{53620}{53685}- II aurait une deuxième femme?|- Réfléchis.
+{53687}{53752}Il rencontre des femmes grâce à son travail.
+{53755}{53855}Il a choisi ce pays pour son pool|génétique varié, l'embarras du choix.
+{53855}{53867}Alors il dépose un maximum de semences.
+{53867}{53917}Alors il dépose un maximum de semences.
+{53945}{54050}J'espère juste qu'il n'en a pas|fécondé beaucoup d'autres.
+{54427}{54477}Aidez-moi.
+{54672}{54755}Il a pris mon bébé!
+{54802}{54870}- Ca va aller.|- Wayne.
+{54870}{54940}Wayne. Il a pris mon bébé.
+{55635}{55660}Maman?
+{55662}{55745}Arrête, pas la peine|de dramatiser les choses.
+{55772}{55887}- Tu ne l'as pas fait exprès?|- Je te jure que non, papa.
+{55890}{55975}- Je veux bien te croire.|- Merci, papa.
+{55977}{56045}- Ca va?|- Elle va mourir?
+{56047}{56117}Mais non. On ne meurt pas de la varicelle.
+{56120}{56195}- Tu l'as eue?|- Oui. Et toi?
+{56195}{56280}- Je ne sais plus.|- Tu le sauras assez vite.
+{56280}{56377}C'est ce qui m'inquiète.|J'arrive dans une minute.
+{56380}{56452}- Je crois qu'elle va mourir.|- Ne dis pas ça.
+{56760}{56810}C'est fini.
+{56830}{56950}Une vie normale, une famille.|C'est tout ce que je voulais.
+{56952}{57012}Où est le bébé?
+{57062}{57132}Comment elle a pu leur faire ça?
+{57135}{57225}Posez la pelle. Vos mensonges|ne berneront plus personne.
+{57225}{57302}Mes mensonges? Et les siens?
+{57305}{57405}Quelle que soit la vérité,|vous ne l'enterrez pas.
+{57450}{57560}Je n'enterre rien du tout. Je déterre.
+{57575}{57625}Où est le bébé?
+{57657}{57745}Vous n'avez pas compris? C'est Betsy qui l'a!
+{57747}{57835}Hors de question de l'accuser, comme Laura.
+{57872}{57935}Mais vous ne voyez donc pas?
+{57937}{57990}Betsy n'est pas comme Laura.
+{58015}{58045}Betsy est...
+{58250}{58300}Faites venir l'équipe médicale!
+{58475}{58537}J'avais les mêmes désirs que tout le monde.
+{58905}{59025}Pas question de le laisser là.|Il faut l'éloigner de ma soeur.
+{59027}{59085}- II sort du bloc.|- On va voir.
+{59087}{59152}Mettez-la en veilleuse.|Vous êtes déjà en sursis.
+{59155}{59265}Vous n'allez pas aggraver votre cas|en remettant sa vie en danger?
+{59267}{59355}Ce salopard a intérêt à survivre|pour que je lui arrache la vérité.
+{59357}{59435}Qu'il avoue pourquoi et comment il a fait ça.
+{59437}{59522}Je crois que le "pourquoi"|est directement lié au "comment".
+{59525}{59597}Comment ça? Que voulez-vous dire?
+{59635}{59700}Allons parler à son autre femme, Betsy.
+{59700}{59750}Je sais pas.
+{61140}{61180}Son coeur s'est arrêté.
+{61180}{61240}Bipez le Dr Nyland!
+{61240}{61352}Respirez profondément,|Mme Weinsider. Respirez!
+{61797}{61847}Combien?
+{61875}{61965}Quatre, en tout.|Tous enterrés depuis un moment.
+{61992}{62065}Peut-être des années.|Mais ils sont tous normaux.
+{62065}{62080}Peut-être des années.|Mais ils sont tous normaux.
+{62080}{62155}Aucune difformité ostéologique.
+{62157}{62280}Aucune trace du bébé de Betsy.|Il n'y a pas de tombe récente.
+{62282}{62317}Je sais.
+{62350}{62430}- Qu'a-t-il pu en faire?|- Rien du tout.
+{62432}{62547}Mais elle était enceinte.|J'ai vu les sonogrammes dans la maison.
+{62550}{62642}Avec les mêmes anomalies.|Ce n'étaient pas les bébés de Wayne.
+{62672}{62715}Alors, de qui étaient-ils?
+{62717}{62795}Wayne a compris une chose hier soir.
+{62797}{62897}Qu'il avait rencontré quelqu'un|d'encore plus diabolique que lui,
+{62900}{63002}prêt à sacrifier|ce qu'il désirait le plus au monde.
+{63005}{63027}Betsy?
+{63030}{63152}On ne l'a pas croisée par hasard.|Elle nous a manipulés, comme Wayne.
+{63155}{63220}Elle était prête à tout pour arriver à ses fins
+{63220}{63295}et était encore plus motivée que lui.
+{63297}{63380}- Pour quoi?|- Avoir ce que seul Wayne lui donnerait.
+{64740}{64785}Sous-titrage Visiontext: Virginie Roux
+{65327}{65377}FRENCH

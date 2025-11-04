@@ -1,0 +1,3900 @@
+1
+00:00:00,165 --> 00:00:01,915
+La Mini Team présente...
+
+2
+00:00:02,138 --> 00:00:04,201
+Ne m’oblige pas à
+te ligoter, Plume Rouge.
+
+3
+00:00:04,201 --> 00:00:06,139
+Rends-toi sans faire d'histoire.
+
+4
+00:00:06,367 --> 00:00:08,609
+Nous te scalperons avant, Homme Blanc.
+
+5
+00:00:21,610 --> 00:00:25,610
+"You're the nearest thing to heaven"
+interprétée par Johnny Cash.
+
+6
+00:00:28,684 --> 00:00:29,353
+Regardez.
+
+7
+00:00:31,764 --> 00:00:32,784
+Sœur Vivian.
+
+8
+00:00:32,784 --> 00:00:33,633
+Sœur Grace.
+
+9
+00:00:33,951 --> 00:00:34,815
+Il est revenu.
+
+10
+00:00:45,023 --> 00:00:46,849
+Le shérif est de retour, messieurs.
+
+11
+00:01:49,750 --> 00:01:52,550
+"Inconnu de race blanche"
+
+12
+00:01:53,528 --> 00:01:54,572
+Je suis désolé.
+
+13
+00:01:56,640 --> 00:01:57,644
+Je suis désolé.
+
+14
+00:01:59,767 --> 00:02:01,133
+Je sais que tu fais des efforts.
+
+15
+00:02:02,697 --> 00:02:03,935
+Ouais, tu me manques aussi.
+
+16
+00:02:07,828 --> 00:02:09,061
+Le chef a quelque chose.
+
+17
+00:02:09,061 --> 00:02:10,097
+Ouais, bien.
+
+18
+00:02:10,097 --> 00:02:11,590
+Oh, je dois filer, Elisa.
+
+19
+00:02:11,590 --> 00:02:12,890
+J’essaierai de venir
+ce week-end.
+
+20
+00:02:12,890 --> 00:02:15,701
+Je ne peux rien te promettre
+mais je ferai mon possible. Salut.
+
+21
+00:02:16,507 --> 00:02:20,190
+Quelqu’un a déposé ça,
+sur les marches de l’église St Emilien.
+
+22
+00:02:22,699 --> 00:02:25,085
+"Enfant inconnu découvert
+dans un carton."
+
+23
+00:02:25,085 --> 00:02:27,686
+"6 Avril 1958."
+
+24
+00:02:27,686 --> 00:02:29,624
+Will, regarde ça.
+
+25
+00:02:29,624 --> 00:02:30,890
+Oh, cette vieille affaire.
+
+26
+00:02:31,794 --> 00:02:32,885
+Le garçon dans le carton.
+
+27
+00:02:32,885 --> 00:02:34,275
+Même moi je la connais.
+
+28
+00:02:34,275 --> 00:02:36,503
+L’affaire non résolue
+la plus célèbre de la ville.
+
+29
+00:02:36,503 --> 00:02:38,342
+J’ai vu ça dans le bureau
+du divisionnaire.
+
+30
+00:02:38,342 --> 00:02:39,690
+La bête noire des chefs.
+
+31
+00:02:39,690 --> 00:02:41,711
+Ils n’ont même pas réussi
+à identifier ce garçon.
+
+32
+00:02:41,711 --> 00:02:43,305
+Tout Philly savait
+pour cet enfant.
+
+33
+00:02:43,305 --> 00:02:44,418
+"Le petit inconnu."
+
+34
+00:02:44,418 --> 00:02:45,479
+Pourtant semaine après semaine,
+
+35
+00:02:45,479 --> 00:02:47,935
+personne ne l'a signalé disparu,
+et personne ne le connaissait.
+
+36
+00:02:47,935 --> 00:02:49,070
+Où son corps a-t-il fini ?
+
+37
+00:02:49,070 --> 00:02:51,528
+Au carré des indigents... avec
+les pauvres et les prisonniers.
+
+38
+00:02:51,779 --> 00:02:53,629
+- Aucune étiquette ?
+- Non.
+
+39
+00:02:56,171 --> 00:02:59,776
+Vous croyez que notre inconnu
+pourrait être ce petit cow-boy ?
+
+40
+00:02:59,776 --> 00:03:02,328
+Lil, il y a quelque chose au dos.
+
+41
+00:03:04,311 --> 00:03:06,267
+"Il s’appelait Arnold."
+
+42
+00:03:09,355 --> 00:03:13,437
+Cold Case
+1x14
+
+43
+00:03:15,666 --> 00:03:18,722
+Transcript VO : club.nate.com
+
+44
+00:03:34,140 --> 00:03:37,988
+"Les orphelins"
+
+45
+00:03:40,181 --> 00:03:42,917
+"Inconnu de race blanche, 1958."
+
+46
+00:03:42,917 --> 00:03:44,493
+"Abandonné dans Fox Chase."
+
+47
+00:03:44,493 --> 00:03:46,398
+"Mieux connu sous le nom
+de l’enfant dans le carton."
+
+48
+00:03:46,398 --> 00:03:48,808
+400 000 avis
+de recherches distribués
+
+49
+00:03:48,809 --> 00:03:51,109
+dans Philadelphie
+et le comté de Bucks.
+
+50
+00:03:51,208 --> 00:03:52,977
+Des centaines de pistes,
+aucun résultat.
+
+51
+00:03:52,977 --> 00:03:55,644
+Le petit a été trouvé dans un bois
+dans un carton de jus de fruit.
+
+52
+00:03:55,644 --> 00:03:56,928
+Ils ont essayé de retrouver
+l'origine du carton
+
+53
+00:03:56,929 --> 00:03:58,029
+dans les écoles
+et les restaurants.
+
+54
+00:03:58,128 --> 00:03:58,863
+Cela n’a rien donné.
+
+55
+00:03:58,863 --> 00:03:59,964
+Les causes de la mort ?
+
+56
+00:03:59,964 --> 00:04:01,389
+Indéterminées.
+
+57
+00:04:01,389 --> 00:04:02,765
+Regarde les blessures
+à la tête.
+
+58
+00:04:02,765 --> 00:04:04,338
+Et les cheveux.
+
+59
+00:04:04,338 --> 00:04:05,332
+C’est quoi ce binz ?
+
+60
+00:04:05,332 --> 00:04:06,936
+Un enquêteur pensait
+qu'il avait été tué
+
+61
+00:04:06,937 --> 00:04:08,237
+pendant qu’on lui
+coupait les cheveux.
+
+62
+00:04:08,336 --> 00:04:11,139
+Le coiffeur meurtrier ?
+C’est n’importe quoi.
+
+63
+00:04:14,361 --> 00:04:15,535
+Regardez ça.
+
+64
+00:04:16,391 --> 00:04:19,183
+Les flics ont habillé le cadavre
+et l’ont assis,
+
+65
+00:04:19,183 --> 00:04:21,608
+pensant que ça le rendrait
+plus reconnaissable.
+
+66
+00:04:21,608 --> 00:04:24,494
+- Flippant.
+- Ils ne pensaient pas ainsi en 58.
+
+67
+00:04:24,494 --> 00:04:26,714
+Non pas que j’étais
+dans la police à l'époque.
+
+68
+00:04:26,714 --> 00:04:28,967
+Loin de nous cette idée, papy.
+
+69
+00:04:30,154 --> 00:04:31,794
+L’étudiant qui a trouvé
+le carton était devenu
+
+70
+00:04:31,795 --> 00:04:32,995
+un habitué de la criminelle.
+
+71
+00:04:33,094 --> 00:04:36,408
+Il est passé à 16 reprises
+au sujet de cette affaire.
+
+72
+00:04:36,408 --> 00:04:37,355
+Elle l’obsédait ?
+
+73
+00:04:37,355 --> 00:04:38,775
+Ou il se sentait coupable
+de quelque chose.
+
+74
+00:04:38,775 --> 00:04:41,596
+Il est temps d’organiser
+sa 17eme visite.
+
+75
+00:04:41,596 --> 00:04:43,434
+Alors une idée sur qui
+a pu laisser la valise ?
+
+76
+00:04:43,434 --> 00:04:45,802
+Quelqu’un qui garde un secret
+depuis très longtemps.
+
+77
+00:04:45,802 --> 00:04:47,348
+Voyons si on peut y relever
+des empreintes.
+
+78
+00:04:49,092 --> 00:04:50,758
+Nous avons le prénom "Arnold",
+
+79
+00:04:50,758 --> 00:04:52,151
+et nous avons ceci.
+
+80
+00:04:55,689 --> 00:04:58,291
+Peut-être quelqu’un avec
+des yeux plus jeunes
+
+81
+00:04:58,291 --> 00:04:59,898
+pourrait lire le nom
+sur l’autocar ?
+
+82
+00:05:03,836 --> 00:05:06,180
+"Foyer Fernwood pour orphelins."
+
+83
+00:05:09,641 --> 00:05:12,208
+Les sœurs Vivian Dole
+et Grace Ashley
+
+84
+00:05:12,209 --> 00:05:14,309
+dirigeaient le foyer
+Fernwood en 1958.
+
+85
+00:05:14,408 --> 00:05:15,708
+Il y a encore
+des orphelinats à Philly ?
+
+86
+00:05:15,708 --> 00:05:19,199
+Non, le système des familles d’accueil
+les a remplacés.
+
+87
+00:05:21,560 --> 00:05:23,513
+- Les bonnes sœurs.
+- Quoi les bonnes sœurs ?
+
+88
+00:05:23,513 --> 00:05:24,610
+Des peaux de vache.
+
+89
+00:05:24,610 --> 00:05:25,683
+Celles qui m’ont éduqué
+du moins.
+
+90
+00:05:30,052 --> 00:05:34,035
+Sœur Grace est décédée récemment.
+
+91
+00:05:34,411 --> 00:05:35,339
+Mes condoléances.
+
+92
+00:05:36,815 --> 00:05:38,921
+Elle a consacré
+50 années à l’église.
+
+93
+00:05:39,222 --> 00:05:40,922
+C'est une vie bien remplie.
+
+94
+00:05:41,021 --> 00:05:44,360
+Elle et vous dirigiez
+l’orphelinat Fernwood en 1958 ?
+
+95
+00:05:44,360 --> 00:05:45,714
+De 52 à 70.
+
+96
+00:05:45,714 --> 00:05:48,632
+Nous avions jusqu'à 60 garçons
+et filles en même temps.
+
+97
+00:05:48,632 --> 00:05:50,508
+Vous devez connaître
+ces enfants, alors.
+
+98
+00:05:53,811 --> 00:05:55,973
+On dirait bien des enfants
+de Fernwood.
+
+99
+00:05:55,973 --> 00:05:57,807
+Mais je ne saurais
+vous dire leur nom.
+
+100
+00:05:57,807 --> 00:06:00,309
+Et un garçon prénommé Arnold ?
+Vous vous rappelez ?
+
+101
+00:06:00,309 --> 00:06:01,698
+Il portait un chapeau
+de cow-boy ?
+
+102
+00:06:01,698 --> 00:06:03,351
+C’est possible.
+
+103
+00:06:03,351 --> 00:06:05,979
+J’ai vu tellement d’enfants
+aller et venir, je...
+
+104
+00:06:06,179 --> 00:06:08,956
+Je ne saurais
+me les rappeler tous.
+
+105
+00:06:11,422 --> 00:06:15,379
+Vous aviez entendu parler de l’enfant
+dans le carton en 58 ?
+
+106
+00:06:15,379 --> 00:06:17,157
+Je ne pense pas.
+
+107
+00:06:17,157 --> 00:06:19,546
+Un enfant découvert
+dans Fox Chase ?
+
+108
+00:06:19,546 --> 00:06:21,406
+Toute la ville en a parlé.
+
+109
+00:06:21,406 --> 00:06:23,418
+Nous menons une vie
+très retirée ici.
+
+110
+00:06:24,312 --> 00:06:26,334
+Nous lisons les prières quotidiennes,
+
+111
+00:06:26,735 --> 00:06:28,035
+pas les journaux quotidiens.
+
+112
+00:06:31,345 --> 00:06:32,971
+Nous savons que
+l’orphelinat a fermé
+
+113
+00:06:32,971 --> 00:06:36,142
+mais il doit y avoir des archives
+de Fernwood quelque part.
+
+114
+00:06:36,142 --> 00:06:38,203
+Je crois qu'elles sont
+au sous-sol.
+
+115
+00:06:38,848 --> 00:06:40,609
+Mais je suis sûre que
+vous ne voulez pas
+
+116
+00:06:40,610 --> 00:06:41,810
+éplucher ces vieux dossiers.
+
+117
+00:06:41,909 --> 00:06:44,282
+En réalité, nous adorons faire ça.
+
+118
+00:06:44,282 --> 00:06:46,180
+Bien, ne vous gênez pas.
+
+119
+00:06:49,379 --> 00:06:51,759
+Il n’y a qu’un seul Arnold
+à Fernwood cette année là,
+
+120
+00:06:51,759 --> 00:06:53,895
+Arnold Culliver.
+Agé de six ans.
+
+121
+00:06:53,895 --> 00:06:55,823
+Alors, l’enfant dans le carton
+a un nom.
+
+122
+00:06:55,823 --> 00:06:57,923
+Nous avons ses dossiers
+d’admission et d’adoption.
+
+123
+00:06:57,923 --> 00:06:59,004
+Qui l’a adopté ?
+
+124
+00:06:59,004 --> 00:07:01,552
+Rubin et Lila Hanson,
+le 4 avril.
+
+125
+00:07:01,552 --> 00:07:03,442
+Deux jours avant qu’on ne le retrouve
+dans le bois.
+
+126
+00:07:03,442 --> 00:07:04,931
+Il était mieux à l’orphelinat.
+
+127
+00:07:04,931 --> 00:07:06,832
+Ses parents devront s’expliquer.
+
+128
+00:07:06,832 --> 00:07:09,328
+Nous allons les retrouver.
+Je veux les interroger.
+
+129
+00:07:09,328 --> 00:07:13,109
+Arnold est arrivé à Fernwood
+en 53 avec sa sœur, Gretchen.
+
+130
+00:07:13,109 --> 00:07:14,499
+Qu’est-elle devenue ?
+
+131
+00:07:14,500 --> 00:07:17,100
+Il y a une Gretchen Culliver
+enregistrée à...
+
+132
+00:07:17,801 --> 00:07:18,801
+Roxborough.
+
+133
+00:07:18,956 --> 00:07:20,627
+Elle travaille à la
+bibliothèque municipale.
+
+134
+00:07:20,627 --> 00:07:22,921
+Vous avez les noms
+des autres enfants de Fernwood.
+
+135
+00:07:22,921 --> 00:07:25,451
+Nous pourrions essayer
+de les retrouver.
+
+136
+00:07:25,451 --> 00:07:27,033
+Peut-être que si sa sœur
+donne son ADN,
+
+137
+00:07:27,033 --> 00:07:29,508
+nous pourrions exhumer le corps
+et l’identifier de façon précise.
+
+138
+00:07:29,508 --> 00:07:31,199
+Nous avons besoin de l’aide
+
+139
+00:07:31,200 --> 00:07:33,000
+d’un substitut du procureur
+pour ça, hein ?
+
+140
+00:07:33,705 --> 00:07:35,071
+Vous en connaissez un ?
+
+141
+00:07:36,433 --> 00:07:38,309
+- Tu viens interroger Gretchen ?
+- Bien sûr.
+
+142
+00:07:43,179 --> 00:07:47,787
+Arnold Culliver était bien mon frère,
+mais ce n’est pas lui.
+
+143
+00:07:49,211 --> 00:07:50,691
+Je sais que c'est pénible
+à regarder.
+
+144
+00:07:50,691 --> 00:07:52,732
+Non, ce n’est pas mon frère.
+
+145
+00:07:53,133 --> 00:07:55,633
+Arnold avait des boucles,
+des boucles blondes.
+
+146
+00:07:56,435 --> 00:07:58,258
+Est-ce que c’est un
+de ces enfants, Gretchen ?
+
+147
+00:07:59,519 --> 00:08:02,497
+Oui, c’est lui avec
+ses amis du club de sciences.
+
+148
+00:08:03,671 --> 00:08:05,232
+Où avez-vous eu cela ?
+
+149
+00:08:06,414 --> 00:08:10,163
+Quelqu’un l’a laissé
+avec cet avis de recherches.
+
+150
+00:08:10,163 --> 00:08:12,634
+Eh bien, ce mort ne peut pas
+être Arnold.
+
+151
+00:08:12,634 --> 00:08:14,809
+Il a été adopté en 1958.
+
+152
+00:08:16,960 --> 00:08:20,654
+Sœur Vivian dit qu’un couple
+va venir adopter un petit garçon.
+
+153
+00:08:20,654 --> 00:08:22,519
+Ça ne sera pas moi.
+
+154
+00:08:22,519 --> 00:08:24,558
+Dommage qu'ils ne veuillent pas
+une fille, aussi.
+
+155
+00:08:25,982 --> 00:08:28,340
+- Je ne partirai pas, Gretch.
+- Il le faut.
+
+156
+00:08:28,340 --> 00:08:31,419
+Même si nous sommes séparés.
+Tu connais notre plan, pas vrai ?
+
+157
+00:08:31,419 --> 00:08:33,004
+Rendez-vous à l'enclos
+des chevaux.
+
+158
+00:08:33,004 --> 00:08:33,821
+Quand ?
+
+159
+00:08:33,821 --> 00:08:35,401
+À mon 18eme anniversaire.
+
+160
+00:08:35,401 --> 00:08:38,715
+À la Foire aux chevaux de Bryer,
+rendez-vous devant l'enclos.
+
+161
+00:08:38,715 --> 00:08:39,961
+N’oublie pas.
+
+162
+00:08:39,961 --> 00:08:41,953
+Je ne te quitterai pas, Gretch.
+
+163
+00:08:42,054 --> 00:08:44,854
+"All I have to do is dream..."
+interprétée par Everly Brothers.
+
+164
+00:08:46,921 --> 00:08:49,044
+Mais un matin, il était parti,
+
+165
+00:08:49,044 --> 00:08:51,089
+adopté la veille au soir.
+
+166
+00:08:51,089 --> 00:08:53,163
+Je ne lui ai jamais dit
+au revoir.
+
+167
+00:08:54,672 --> 00:08:59,299
+Est-ce que vous l’avez attendu
+à la foire aux chevaux ?
+
+168
+00:08:59,299 --> 00:09:00,711
+Oui effectivement.
+
+169
+00:09:01,387 --> 00:09:03,262
+Il n’est pas venu.
+
+170
+00:09:04,201 --> 00:09:06,307
+Arnold a eu de la chance
+de trouver une maison.
+
+171
+00:09:06,307 --> 00:09:07,820
+Il était turbulent.
+
+172
+00:09:08,071 --> 00:09:10,954
+Deux familles l’avaient pris
+avant celle-ci puis l’avaient ramené.
+
+173
+00:09:10,954 --> 00:09:12,857
+A cause de son comportement ?
+
+174
+00:09:13,255 --> 00:09:15,736
+Et quand vous étiez trop âgé,
+on ne vous adoptait plus.
+
+175
+00:09:15,736 --> 00:09:17,413
+Vous étiez coincé à Fernwood.
+
+176
+00:09:17,413 --> 00:09:19,160
+C’est ce qui vous est arrivée ?
+
+177
+00:09:19,657 --> 00:09:21,181
+Oui, j’ai grandi là-bas.
+
+178
+00:09:21,745 --> 00:09:23,680
+Vous savez où Arnold
+est parti vivre ?
+
+179
+00:09:23,680 --> 00:09:26,427
+Oh, ils ne nous disaient jamais
+ces choses là.
+
+180
+00:09:26,427 --> 00:09:29,255
+Je l’ai toujours imaginé
+avec une gentille famille,
+
+181
+00:09:29,256 --> 00:09:31,056
+qui aurait un haras
+quelque part.
+
+182
+00:09:31,155 --> 00:09:34,111
+Si gentille,
+qu’il en oublierait Fernwood.
+
+183
+00:09:34,111 --> 00:09:35,693
+Il était très jeune
+quand il est parti.
+
+184
+00:09:35,693 --> 00:09:36,444
+Gretchen,
+
+185
+00:09:36,444 --> 00:09:38,271
+vous seriez prête
+à nous donner un échantillon d'ADN,
+
+186
+00:09:38,271 --> 00:09:40,227
+afin qu’on puisse le comparer
+à celui de ce garçon ?
+
+187
+00:09:40,227 --> 00:09:44,341
+Pas de problème, mais je sais
+que ce n’est pas mon frère.
+
+188
+00:09:48,217 --> 00:09:50,244
+Je vous offrirais bien
+un rafraichissement, mais
+
+189
+00:09:50,445 --> 00:09:52,345
+on n’a pas grand chose
+à la maison.
+
+190
+00:09:52,444 --> 00:09:53,850
+Ce n'est pas grave.
+
+191
+00:09:55,110 --> 00:09:57,484
+Alors, c’est à quel sujet ?
+
+192
+00:09:57,484 --> 00:10:00,214
+Nous avons eu votre nom par
+Gretchen Culliver, Roger.
+
+193
+00:10:01,252 --> 00:10:03,173
+De l’orphelinat de Fernwood ?
+
+194
+00:10:03,173 --> 00:10:05,031
+Gretchen...
+
+195
+00:10:05,031 --> 00:10:06,709
+C’était une des grandes ?
+
+196
+00:10:06,709 --> 00:10:10,253
+Ouais. Son frère Arnold,
+avait votre âge.
+
+197
+00:10:11,105 --> 00:10:12,753
+Oh, bien sûr.
+
+198
+00:10:13,655 --> 00:10:15,973
+C’est la bande
+du club de sciences.
+
+199
+00:10:17,588 --> 00:10:19,234
+Arnold était un sacré numéro.
+
+200
+00:10:19,535 --> 00:10:20,435
+Ouais ?
+
+201
+00:10:20,534 --> 00:10:22,124
+Le chef de bande, vous voyez ?
+
+202
+00:10:22,124 --> 00:10:24,996
+Il rendait les sœurs
+complètement cinglées.
+
+203
+00:10:30,037 --> 00:10:31,615
+On va former un détachement.
+
+204
+00:10:31,615 --> 00:10:33,873
+On va trouver cette vieille carne
+et la ramener.
+
+205
+00:10:33,873 --> 00:10:34,920
+J’ai la corde.
+
+206
+00:10:34,920 --> 00:10:38,475
+- Freddy, t’as mis tes éperons ?
+- Je les ai, shérif.
+
+207
+00:10:42,444 --> 00:10:43,854
+Qu’est-ce que vous faites ?
+
+208
+00:10:43,854 --> 00:10:45,572
+On va faire un tour
+dans les bois.
+
+209
+00:10:45,572 --> 00:10:47,138
+Vous devriez être au lit
+depuis une heure.
+
+210
+00:10:47,138 --> 00:10:49,445
+Il faut qu’on attrape une vache
+au lasso, sœur Vivian.
+
+211
+00:10:49,445 --> 00:10:53,491
+- Il n’y a pas de vache dans les bois.
+- C’est ce que vous croyez.
+
+212
+00:10:53,892 --> 00:10:57,292
+"Walkin' after midnight"
+interprétée par Patsy Cline.
+
+213
+00:10:58,631 --> 00:11:02,559
+Ouais, il était un peu
+la sainte terreur de Fernwood,
+
+214
+00:11:02,559 --> 00:11:05,756
+alors, bien sûr...eh bien,
+nous l’aimions tous.
+
+215
+00:11:07,030 --> 00:11:09,081
+Pourquoi vous me parlez de lui ?
+
+216
+00:11:09,081 --> 00:11:12,368
+Nous enquêtons sur un meurtre
+de 1958.
+
+217
+00:11:12,368 --> 00:11:15,596
+Nous pensons que la victime
+est probablement Arnold.
+
+218
+00:11:15,596 --> 00:11:17,036
+Oh, non.
+
+219
+00:11:17,505 --> 00:11:20,135
+Vous voulez bien regarder
+une photo ?
+
+220
+00:11:24,366 --> 00:11:27,019
+Pensez-vous que ce pourrait
+être Arnold ?
+
+221
+00:11:30,241 --> 00:11:32,048
+Arnold avait les cheveux blonds...
+
+222
+00:11:32,449 --> 00:11:33,849
+bouclés.
+
+223
+00:11:33,948 --> 00:11:36,098
+Et si ses cheveux
+avaient été coupés ?
+
+224
+00:11:36,975 --> 00:11:38,914
+Je ne pourrais pas
+l'affirmer mais...
+
+225
+00:11:39,315 --> 00:11:41,315
+je ne pourrais pas dire
+le contraire non plus.
+
+226
+00:11:41,716 --> 00:11:42,916
+Avez-vous des enfants ?
+
+227
+00:11:43,014 --> 00:11:45,716
+J’ai deux garçons.
+Adoptés.
+
+228
+00:11:49,296 --> 00:11:51,304
+Hé. Du nouveau
+sur la valise ?
+
+229
+00:11:51,304 --> 00:11:53,684
+Juste qu’elle a été achetée
+chez Wannamaker en 54.
+
+230
+00:11:53,684 --> 00:11:55,969
+Rien que le plus grand
+magasin de la ville.
+
+231
+00:11:55,969 --> 00:11:58,152
+C'était avant les cartes de crédit,
+donc aucun reçu.
+
+232
+00:11:58,152 --> 00:11:59,385
+Ni empreinte non plus.
+
+233
+00:11:59,385 --> 00:12:01,788
+Le tribunal nous autorise
+à exhumer le corps de l’enfant.
+
+234
+00:12:01,788 --> 00:12:03,097
+Est-ce que sa sœur
+va accepter le prélèvement ?
+
+235
+00:12:03,097 --> 00:12:05,817
+Elle est plutôt convaincue que
+ce garçon n’est pas Arnold, chef.
+
+236
+00:12:05,817 --> 00:12:07,150
+Elle ferait mieux d’être convaincue
+du contraire.
+
+237
+00:12:07,150 --> 00:12:09,398
+Boucles blondes ou pas,
+c’est le même gamin.
+
+238
+00:12:09,398 --> 00:12:11,318
+Avez-vous retrouvé
+les autres enfants de la photo ?
+
+239
+00:12:11,318 --> 00:12:14,024
+Deux sont décédés
+en plus d'Arnold.
+
+240
+00:12:14,024 --> 00:12:15,880
+- On vient d’en interroger un.
+- Ouais.
+
+241
+00:12:15,880 --> 00:12:18,480
+Il dit qu’Arnold était
+un enfant à problèmes.
+
+242
+00:12:18,480 --> 00:12:19,786
+Si deux familles différentes
+l’ont pris,
+
+243
+00:12:19,786 --> 00:12:21,471
+puis ont changé d’avis,
+il fallait bien.
+
+244
+00:12:21,471 --> 00:12:23,705
+Donc Lila et Rubin
+le ramène à la maison,
+
+245
+00:12:23,706 --> 00:12:25,006
+il pique une crise.
+
+246
+00:12:25,105 --> 00:12:28,377
+Rubin lui donne une raclée ou
+le secoue trop fort, il meurt.
+
+247
+00:12:28,377 --> 00:12:32,162
+Que voulez-vous faire d’un gamin mort
+à part le déposer dans un bois ?
+
+248
+00:12:32,162 --> 00:12:34,033
+Peut-être est-ce la raison
+pour laquelle ils sont durs à localiser.
+
+249
+00:12:34,033 --> 00:12:35,037
+Vous ne les retrouvez pas ?
+
+250
+00:12:35,037 --> 00:12:36,664
+Aucune trace dans toute
+la Pennsylvanie.
+
+251
+00:12:36,664 --> 00:12:39,452
+On interroge le fichier
+national en ce moment.
+
+252
+00:12:41,612 --> 00:12:43,968
+Dingo à douze heures.
+
+253
+00:12:43,968 --> 00:12:45,629
+Ça doit être le type au lapin.
+
+254
+00:12:46,257 --> 00:12:47,455
+Bonne chance.
+
+255
+00:12:49,366 --> 00:12:51,536
+Inspecteurs Rush et Valens.
+
+256
+00:12:51,536 --> 00:12:54,744
+Walter Rafferty. C’est moi qui
+ait trouvé le garçon dans le carton.
+
+257
+00:12:56,400 --> 00:12:57,636
+Merci d’être venu.
+
+258
+00:12:57,636 --> 00:12:59,564
+Vous avez du nouveau
+sur cette affaire ?
+
+259
+00:13:00,622 --> 00:13:01,728
+Peut-être.
+
+260
+00:13:04,337 --> 00:13:05,939
+Il devait avoir six ans.
+
+261
+00:13:05,939 --> 00:13:07,819
+Enveloppé dans une
+couverture bleue.
+
+262
+00:13:08,355 --> 00:13:10,468
+C’était un dimanche à midi,
+
+263
+00:13:10,468 --> 00:13:12,558
+et je suivais un
+lièvre dans les buissons
+
+264
+00:13:12,558 --> 00:13:14,104
+et je suis tombé sur une boîte,
+
+265
+00:13:14,104 --> 00:13:17,268
+un carton de jus de fruits,
+
+266
+00:13:17,768 --> 00:13:19,158
+et il y avait un gamin.
+
+267
+00:13:19,158 --> 00:13:20,249
+À l’intérieur.
+
+268
+00:13:20,249 --> 00:13:21,502
+Vous ne le connaissiez pas ?
+
+269
+00:13:21,502 --> 00:13:23,105
+Non. Absolument pas.
+
+270
+00:13:23,105 --> 00:13:24,992
+Vous n'avez pas de rapport
+avec sa mort ?
+
+271
+00:13:24,992 --> 00:13:28,295
+Absolument pas.
+Je suis passé au détecteur en 1958.
+
+272
+00:13:28,295 --> 00:13:29,345
+Nous le savons.
+
+273
+00:13:29,345 --> 00:13:30,417
+Je suis prêt à le repasser.
+
+274
+00:13:30,417 --> 00:13:32,380
+J'ai dit la vérité aux flics.
+
+275
+00:13:32,380 --> 00:13:34,255
+Vous avez mené
+votre propre enquête ?
+
+276
+00:13:34,255 --> 00:13:38,068
+En fait, je retourne
+sur les lieux chaque année le 6 avril
+
+277
+00:13:38,068 --> 00:13:38,949
+et je ne suis pas le seul.
+
+278
+00:13:38,949 --> 00:13:40,226
+Il y a une femme
+qui vient là aussi.
+
+279
+00:13:40,226 --> 00:13:41,192
+Je...
+
+280
+00:13:41,493 --> 00:13:42,793
+je la vois depuis des années.
+
+281
+00:13:42,892 --> 00:13:45,626
+Oui. Nous avons votre courrier
+à ce sujet.
+
+282
+00:13:45,626 --> 00:13:47,535
+Elle vient avec
+des roses blanches,
+
+283
+00:13:48,036 --> 00:13:50,436
+vêtue d'un manteau
+vert écossais.
+
+284
+00:14:02,246 --> 00:14:04,174
+Vous n’avez jamais parlé
+à cette femme ?
+
+285
+00:14:04,675 --> 00:14:06,654
+J’ai essayé plusieurs fois.
+
+286
+00:14:06,654 --> 00:14:07,809
+Elle n'a jamais répondu.
+
+287
+00:14:07,809 --> 00:14:09,988
+Pourquoi cette affaire
+tient une place
+
+288
+00:14:09,989 --> 00:14:12,489
+aussi importante
+dans votre vie Walter ?
+
+289
+00:14:13,435 --> 00:14:16,157
+Je suppose que vous avez vu
+beaucoup de cadavres.
+
+290
+00:14:16,157 --> 00:14:17,925
+Cela ne vous dérange pas ?
+
+291
+00:14:18,269 --> 00:14:21,130
+Eh bien, je ne suis pas
+taillé comme ça.
+
+292
+00:14:21,773 --> 00:14:22,610
+Ça...
+
+293
+00:14:23,311 --> 00:14:24,811
+ça m’a démoli.
+
+294
+00:14:27,471 --> 00:14:29,800
+J’aurai préféré ne jamais voir
+ce lapin.
+
+295
+00:14:35,299 --> 00:14:37,581
+Je pense que ce Walter
+est réglo, chef.
+
+296
+00:14:37,581 --> 00:14:39,818
+Ça l’a juste fichu en l’air
+de trouver le corps.
+
+297
+00:14:39,818 --> 00:14:42,660
+Que pensez-vous de son histoire
+de dame au manteau écossais ?
+
+298
+00:14:42,660 --> 00:14:43,891
+50-50.
+
+299
+00:14:43,891 --> 00:14:45,802
+Même si elle est vraie,
+qu’est-ce ce que ça signifie ?
+
+300
+00:14:45,802 --> 00:14:47,926
+Elle pourrait juste être obsédée
+comme lui.
+
+301
+00:14:47,926 --> 00:14:49,297
+Combien de temps
+ça va prendre ?
+
+302
+00:14:49,297 --> 00:14:50,764
+Une de tes copines t’attend ?
+
+303
+00:14:50,764 --> 00:14:52,055
+Qu’est-ce que
+je ne donnerais pas
+
+304
+00:14:52,056 --> 00:14:53,756
+pour jeter un œil
+à son carnet d’adresses ?
+
+305
+00:14:53,855 --> 00:14:57,164
+Vous savez quoi ? Laissez tomber.
+J’irai demain.
+
+306
+00:14:58,060 --> 00:14:59,745
+Vous ne vouliez pas manquer
+le spectacle, hein ?
+
+307
+00:14:59,745 --> 00:15:02,266
+On a finalement retrouvé la trace
+de Rubin et Lila Hanson.
+
+308
+00:15:02,266 --> 00:15:03,369
+Et ?
+
+309
+00:15:03,369 --> 00:15:05,665
+Eh bien, on sait pourquoi
+ça été si difficile de les trouver.
+
+310
+00:15:05,665 --> 00:15:07,987
+Ils sont morts en 1887.
+
+311
+00:15:08,632 --> 00:15:10,928
+Les parents adoptifs d’Arnold
+n’existent pas.
+
+312
+00:15:18,254 --> 00:15:21,899
+Rubin et Lila Hanson sont morts
+à la fin du 19eme siècle.
+
+313
+00:15:21,899 --> 00:15:24,025
+Ils sont enterrés au cimetière
+de St Emilien.
+
+314
+00:15:24,025 --> 00:15:25,959
+La même église où
+la valise a fait son apparition.
+
+315
+00:15:25,959 --> 00:15:28,048
+Donc les papiers d'adoption
+sont faux.
+
+316
+00:15:28,048 --> 00:15:31,064
+Alors que s’est-il passé la nuit
+où Arnold est supposé avoir été adopté.
+
+317
+00:15:31,064 --> 00:15:32,575
+Peut-être qu’il est mort
+à l’orphelinat.
+
+318
+00:15:32,575 --> 00:15:35,262
+Quelqu'un de l'intérieur l’a
+camouflé sous une procédure d’adoption.
+
+319
+00:15:35,262 --> 00:15:36,397
+Voici une couche de plus.
+
+320
+00:15:37,148 --> 00:15:40,121
+L’autopsie a confirmé de façon formelle
+le corps comme celui d’Arnold Culliver,
+
+321
+00:15:40,121 --> 00:15:42,251
+grâce à son dossier
+dentaire, mais...
+
+322
+00:15:42,651 --> 00:15:44,093
+l’ADN d’Arnold...
+
+323
+00:15:44,193 --> 00:15:45,969
+ne correspond pas
+à celui de Gretchen.
+
+324
+00:15:45,969 --> 00:15:47,513
+Donc ils ne sont pas
+frère et sœur ?
+
+325
+00:15:47,513 --> 00:15:50,399
+Alors les papiers d’admission d'Arnold
+ont aussi été falsifiés.
+
+326
+00:15:50,399 --> 00:15:53,163
+Donc ce gosse est arrivé de
+nulle part et est allé nulle part.
+
+327
+00:15:53,163 --> 00:15:54,297
+Qui a signé ces dossiers ?
+
+328
+00:15:54,297 --> 00:15:55,432
+Sœur Vivian.
+
+329
+00:15:55,432 --> 00:15:57,421
+Et devinez qui joue
+les muettes maintenant ?
+
+330
+00:15:57,421 --> 00:15:58,917
+Sœur Vivian.
+
+331
+00:15:59,490 --> 00:16:01,051
+En retraite isolée.
+
+332
+00:16:01,664 --> 00:16:03,432
+Sœur silence.
+
+333
+00:16:04,490 --> 00:16:06,473
+Vous avez déjà assiégé
+un couvent ?
+
+334
+00:16:06,473 --> 00:16:08,092
+Je suis ouverte à tout.
+
+335
+00:16:08,092 --> 00:16:10,341
+- Gretchen va recevoir un choc.
+- Ouais.
+
+336
+00:16:10,341 --> 00:16:13,634
+Comment lui annoncer non seulement
+que son frère est mort il y a 46 ans,
+
+337
+00:16:13,634 --> 00:16:14,981
+mais qu’en plus
+
+338
+00:16:15,882 --> 00:16:17,582
+il n’était pas son frère.
+
+339
+00:16:18,089 --> 00:16:20,175
+Ce doit être une erreur.
+
+340
+00:16:20,175 --> 00:16:23,447
+Non. Non, je suis désolé.
+
+341
+00:16:23,447 --> 00:16:25,263
+Arnold et moi sommes arrivés
+ensemble à Fernwood.
+
+342
+00:16:25,263 --> 00:16:27,070
+Nos parents ont été tués
+dans un accident de train.
+
+343
+00:16:27,070 --> 00:16:30,002
+Vous n’aviez pas les mêmes
+parents, Gretchen.
+
+344
+00:16:32,961 --> 00:16:35,306
+Sœurs Vivian et Grace
+le savaient ?
+
+345
+00:16:35,306 --> 00:16:37,088
+Je pense oui.
+
+346
+00:16:37,088 --> 00:16:39,104
+Et pendant tout ce temps,
+elles m’ont caché la vérité.
+
+347
+00:16:39,104 --> 00:16:40,073
+Vous étiez jeune.
+
+348
+00:16:40,073 --> 00:16:41,457
+Peut-être qu’elles voulaient
+vous protéger.
+
+349
+00:16:41,457 --> 00:16:44,730
+Gretchen, nous savons maintenant
+qu’Arnold n’a jamais été adopté.
+
+350
+00:16:44,730 --> 00:16:47,429
+Il n'y avait aucune famille qui
+soit venue et l'ait emmené.
+
+351
+00:16:47,429 --> 00:16:49,054
+Et en fait ce soir là,
+
+352
+00:16:49,054 --> 00:16:50,467
+quelqu’un lui a fait du mal,
+
+353
+00:16:50,668 --> 00:16:53,468
+au point qu’il en est mort.
+
+354
+00:16:53,567 --> 00:16:57,901
+À ce stade, la meilleure explication
+est qu’il soit mort à Fernwood.
+
+355
+00:16:58,570 --> 00:17:00,829
+Nous avons besoin
+de votre aide pour savoir
+
+356
+00:17:01,130 --> 00:17:02,630
+qui aurait pu
+lui faire du mal.
+
+357
+00:17:02,729 --> 00:17:04,779
+Je ne sais pas.
+
+358
+00:17:04,779 --> 00:17:08,700
+Quelqu’un était violent
+avec Arnold ?
+
+359
+00:17:08,934 --> 00:17:10,760
+Freddy Baker.
+
+360
+00:17:10,760 --> 00:17:12,988
+Il est sur la photo
+que vous avez.
+
+361
+00:17:12,988 --> 00:17:15,279
+Il a tabassé Arnold une fois.
+
+362
+00:17:15,668 --> 00:17:17,142
+Quelqu’un d’autre ?
+
+363
+00:17:19,255 --> 00:17:21,765
+Arnold était beaucoup puni.
+
+364
+00:17:21,765 --> 00:17:23,194
+Par qui ?
+
+365
+00:17:23,902 --> 00:17:25,858
+Sœur Vivian.
+
+366
+00:17:26,759 --> 00:17:28,099
+Pourquoi t’es revenu ?
+
+367
+00:17:28,099 --> 00:17:30,607
+Je n’aimais pas cette famille
+et elle ne m’aimait pas.
+
+368
+00:17:30,607 --> 00:17:31,705
+Ils t’ont jeté dehors ?
+
+369
+00:17:31,705 --> 00:17:34,784
+Je me suis enfui.
+Il n’y avait personne avec qui jouer.
+
+370
+00:17:34,784 --> 00:17:35,915
+Eh bien, Arnold...
+
+371
+00:17:36,216 --> 00:17:38,016
+qu'as-tu à dire
+pour ta défense ?
+
+372
+00:17:38,115 --> 00:17:39,392
+C’est bon d’être
+à la maison.
+
+373
+00:17:41,232 --> 00:17:43,413
+T’es content de toi, hein ?
+
+374
+00:17:43,413 --> 00:17:44,966
+Même pas mal.
+
+375
+00:17:45,739 --> 00:17:48,196
+Arnold vient dans
+mon bureau.
+
+376
+00:17:48,196 --> 00:17:49,852
+Non, sœur Vivian.
+
+377
+00:17:56,572 --> 00:17:59,348
+Je n’ai jamais su ce qu’elle
+lui faisait dans son bureau,
+
+378
+00:17:59,348 --> 00:18:01,683
+mais il en ressortait
+couvert de bleus.
+
+379
+00:18:02,590 --> 00:18:04,129
+Est-ce que sœur Grace
+le punissait aussi ?
+
+380
+00:18:04,129 --> 00:18:06,024
+C’était toujours sœur Vivian.
+
+381
+00:18:07,163 --> 00:18:08,666
+Interrogez Freddy Baker.
+
+382
+00:18:08,867 --> 00:18:10,667
+Lui aussi, il se retrouvait
+souvent dans son bureau.
+
+383
+00:18:16,826 --> 00:18:19,464
+Fernwood.
+
+384
+00:18:19,464 --> 00:18:20,586
+Mauvais souvenirs ?
+
+385
+00:18:20,586 --> 00:18:22,288
+Les pires.
+
+386
+00:18:22,288 --> 00:18:26,125
+Désolé de les réveiller
+mais il s’agit d’une enquête criminelle.
+
+387
+00:18:27,098 --> 00:18:28,326
+Qui est mort ?
+
+388
+00:18:28,326 --> 00:18:30,637
+Un garçon du nom
+d’Arnold Culliver.
+
+389
+00:18:30,930 --> 00:18:32,171
+Arnold ?
+
+390
+00:18:32,171 --> 00:18:33,128
+Merde.
+
+391
+00:18:33,128 --> 00:18:35,015
+C'était un des seuls gosses
+que j’aimais bien.
+
+392
+00:18:35,015 --> 00:18:35,895
+À ce qu’on raconte, Fred,
+
+393
+00:18:35,895 --> 00:18:37,969
+vous étiez la petite brute
+de Fernwood.
+
+394
+00:18:38,901 --> 00:18:42,384
+Ouais, je tombais sur les gars
+qui me regardaient de travers.
+
+395
+00:18:42,384 --> 00:18:43,736
+Un gosse adorable, vous voyez ?
+
+396
+00:18:43,736 --> 00:18:45,692
+Avez-vous frappé Arnold ?
+
+397
+00:18:45,692 --> 00:18:47,160
+Une fois.
+
+398
+00:18:47,628 --> 00:18:50,500
+Mais je le laissais tranquille
+car il avait du cran, vous voyez ?
+
+399
+00:18:50,500 --> 00:18:51,956
+Il emmerdait les sœurs.
+
+400
+00:18:51,956 --> 00:18:53,547
+Il était populaire, hein ?
+
+401
+00:18:53,547 --> 00:18:55,519
+Avec les gosses, ouais.
+
+402
+00:18:56,059 --> 00:18:58,630
+Mais le plus drôle
+c’est qu’il adorait Fernwood.
+
+403
+00:18:58,630 --> 00:19:01,394
+Tout le monde voulait foutre le camp,
+et il n’arrêtait pas de revenir.
+
+404
+00:19:03,139 --> 00:19:05,381
+Quels sont vos souvenirs
+de sœur Vivian ?
+
+405
+00:19:06,022 --> 00:19:08,055
+Une vieille mégère.
+
+406
+00:19:08,055 --> 00:19:09,741
+C'est à cause d'elle
+que j’ai pas envoyé
+
+407
+00:19:09,742 --> 00:19:11,142
+mes gamins à l’école catholique.
+
+408
+00:19:11,241 --> 00:19:14,502
+Elle vous tabassait assez
+pour laisser des marques ?
+
+409
+00:19:14,502 --> 00:19:16,028
+Bien sûr.
+
+410
+00:19:16,933 --> 00:19:18,683
+Elle était sadique.
+
+411
+00:19:18,683 --> 00:19:20,740
+Alors pensez-vous qu’elle puisse
+avoir frappé Arnold
+
+412
+00:19:20,741 --> 00:19:21,941
+assez fort pour le tuer.
+
+413
+00:19:22,040 --> 00:19:24,063
+Arnold serait mort
+à Fernwood ?
+
+414
+00:19:24,063 --> 00:19:25,217
+Nous n’en sommes pas
+encore sûrs.
+
+415
+00:19:25,217 --> 00:19:27,396
+- Je pensais qu'il avait été adopté.
+- Non.
+
+416
+00:19:29,406 --> 00:19:32,348
+Sœur Vivian était
+plutôt cruelle.
+
+417
+00:19:33,259 --> 00:19:34,535
+Mais un meurtre ?
+
+418
+00:19:34,535 --> 00:19:36,173
+Cela aurait pu
+être accidentel.
+
+419
+00:19:41,093 --> 00:19:42,988
+Elle n'y allait pas
+de main morte.
+
+420
+00:19:44,088 --> 00:19:45,796
+J’ai toujours des cicatrices
+sur mon dos
+
+421
+00:19:45,797 --> 00:19:47,597
+des coups de ceinture
+qu’elle m’a donnés.
+
+422
+00:19:47,696 --> 00:19:49,593
+Elle utilisait
+une ceinture, hein ?
+
+423
+00:19:49,593 --> 00:19:51,147
+Avec moi.
+
+424
+00:19:51,147 --> 00:19:53,093
+J’ai eu droit à tout.
+
+425
+00:19:53,093 --> 00:19:55,546
+Spatules, martinet...
+
+426
+00:19:55,546 --> 00:19:57,473
+Il y avait de tout
+dans son sac.
+
+427
+00:19:58,584 --> 00:20:00,867
+Ça me fait de la peine
+que ce gosse soit mort.
+
+428
+00:20:08,510 --> 00:20:09,814
+Sœur Vivian.
+
+429
+00:20:10,945 --> 00:20:13,315
+Vous êtes difficile
+à joindre.
+
+430
+00:20:14,044 --> 00:20:15,586
+Je suis en retraite isolée.
+
+431
+00:20:15,587 --> 00:20:16,987
+Ça ne prendra que
+quelques minutes.
+
+432
+00:20:17,086 --> 00:20:18,506
+Cela me met mal à l’aise.
+
+433
+00:20:18,506 --> 00:20:20,697
+Vous savez, moi aussi je suis
+très mal à l’aise avec certaines choses.
+
+434
+00:20:20,697 --> 00:20:24,150
+Comme les dossiers d’admission
+et d’adoption falsifiés d’Arnold.
+
+435
+00:20:24,150 --> 00:20:25,328
+Je ne sais rien à ce sujet.
+
+436
+00:20:25,328 --> 00:20:29,112
+Et le fait que ses prétendus parents
+soient morts au 19eme siècle.
+
+437
+00:20:29,893 --> 00:20:32,182
+Je suis aussi mal à l’aise
+avec ce que j’ai entendu
+
+438
+00:20:32,183 --> 00:20:33,683
+au sujet des châtiments
+corporels
+
+439
+00:20:33,782 --> 00:20:36,095
+que vous pratiquiez
+à Fernwood.
+
+440
+00:20:36,095 --> 00:20:38,667
+L’éducation des enfants
+implique de la discipline.
+
+441
+00:20:38,667 --> 00:20:42,402
+Vous étiez extrêmement sévère
+avec Arnold Culliver.
+
+442
+00:20:43,153 --> 00:20:45,652
+Il avait de graves problèmes
+de comportement.
+
+443
+00:20:45,652 --> 00:20:46,933
+Oh, à présent vous vous
+souvenez de lui ?
+
+444
+00:20:46,933 --> 00:20:49,147
+Parce que l’autre fois
+vous ne le remettiez pas du tout.
+
+445
+00:20:49,147 --> 00:20:51,060
+Oui, je me souviens d’Arnold.
+
+446
+00:20:53,148 --> 00:20:54,204
+C’était un enfant turbulent.
+
+447
+00:20:54,204 --> 00:20:56,810
+Et vous n'avez pas eu envie d’en parler
+à mon équipier et à moi avant ?
+
+448
+00:20:56,810 --> 00:20:59,289
+Nous menons des vies retirées ici
+et je crois à la discrétion.
+
+449
+00:20:59,289 --> 00:21:00,948
+Et je n’aime pas
+les personnes curieuses.
+
+450
+00:21:00,948 --> 00:21:02,408
+Parce qu’elles pourraient découvrir
+ce que vous avez fait.
+
+451
+00:21:02,408 --> 00:21:04,974
+Je n’ai rien fait à ces enfants
+qui sorte de l’ordinaire.
+
+452
+00:21:04,974 --> 00:21:08,206
+Vous avez laissé à ces gosses
+des cicatrices indélébiles.
+
+453
+00:21:08,206 --> 00:21:10,906
+Peut-être que ça semble
+scandaleux aujourd’hui,
+
+454
+00:21:10,906 --> 00:21:13,084
+mais c’était la routine
+en 1958.
+
+455
+00:21:14,484 --> 00:21:17,822
+Alors peut-être qu’une nuit
+lors d’un tabassage de routine,
+
+456
+00:21:17,822 --> 00:21:20,585
+Arnold aurait perdu connaissance
+à la suite d’un de vos coups.
+
+457
+00:21:20,585 --> 00:21:22,635
+Et serait mort en fait.
+
+458
+00:21:22,635 --> 00:21:24,903
+Voulant rester discrète
+sur cet évènement,
+
+459
+00:21:24,903 --> 00:21:27,132
+vous auriez alors coupé
+ses boucles blondes
+
+460
+00:21:27,132 --> 00:21:28,621
+ainsi personne n’aurait pu
+l’identifier,
+
+461
+00:21:28,622 --> 00:21:29,922
+l'aurait mis dans un carton
+
+462
+00:21:30,021 --> 00:21:34,680
+et discrètement emmené
+dans un bois et balancé.
+
+463
+00:21:36,049 --> 00:21:40,006
+C'est une chose étonnante
+à dire à une servante de Dieu.
+
+464
+00:21:40,006 --> 00:21:41,383
+C’est la vérité ?
+
+465
+00:21:42,648 --> 00:21:43,754
+Non.
+
+466
+00:21:44,439 --> 00:21:47,147
+Pourquoi avez-vous falsifié les dossiers
+d’admission et d’adoption d’Arnold ?
+
+467
+00:21:47,147 --> 00:21:48,082
+Je ne l‘ai pas fait.
+
+468
+00:21:48,082 --> 00:21:50,608
+Votre signature est
+sur ces deux documents.
+
+469
+00:21:50,608 --> 00:21:52,303
+Sœur Grace a rempli
+les formulaires
+
+470
+00:21:52,303 --> 00:21:54,833
+et moi, en tant que
+sœur supérieure à Fernwood,
+
+471
+00:21:54,834 --> 00:21:56,234
+j’ai signé les documents.
+
+472
+00:21:56,333 --> 00:21:57,979
+Est-ce que sœur Grace
+avait comme vous,
+
+473
+00:21:57,980 --> 00:21:59,480
+un faible pour les
+châtiments corporels ?
+
+474
+00:21:59,579 --> 00:22:00,853
+Je ne dis pas du mal
+des morts.
+
+475
+00:22:00,854 --> 00:22:02,154
+Pourquoi a-t-elle falsifié
+les documents ?
+
+476
+00:22:02,253 --> 00:22:05,560
+Pourquoi faisait-elle toutes
+ces choses stupides qu’elle faisait ?
+
+477
+00:22:05,560 --> 00:22:07,170
+Sœur Grace était
+une paumée.
+
+478
+00:22:07,170 --> 00:22:09,200
+Elle était velléitaire,
+et peu fiable,
+
+479
+00:22:09,200 --> 00:22:11,677
+et elle ne pouvait pas
+se faire obéir des enfants,
+
+480
+00:22:11,677 --> 00:22:13,428
+et c’est pour ça
+que je devais le faire.
+
+481
+00:22:16,690 --> 00:22:18,116
+Comment tu t’appelles ?
+
+482
+00:22:19,045 --> 00:22:20,314
+C’est Arnold.
+
+483
+00:22:21,820 --> 00:22:23,564
+Est-ce que tu aimes
+la piscine, Arnold ?
+
+484
+00:22:24,844 --> 00:22:26,903
+J’aime les chevaux.
+
+485
+00:22:26,903 --> 00:22:28,372
+J’ai peur que
+nous n’en n’ayons pas,
+
+486
+00:22:28,372 --> 00:22:31,466
+mais nous avons un abonnement
+à la piscine d’Haverford.
+
+487
+00:22:33,318 --> 00:22:34,980
+Ça n'a pas l'air amusant ?
+
+488
+00:22:41,223 --> 00:22:43,054
+Pan, pan, pan, pan !
+
+489
+00:22:49,931 --> 00:22:52,204
+Ne discutez pas autant
+avec les parents.
+
+490
+00:22:52,204 --> 00:22:53,452
+Je suis désolée.
+
+491
+00:22:54,003 --> 00:22:56,172
+Arnold vient juste
+de pousser une dame.
+
+492
+00:22:56,172 --> 00:22:58,820
+Je lui avais dit
+de bien se comporter.
+
+493
+00:23:01,686 --> 00:23:03,982
+Nous devons le mater, Grace.
+
+494
+00:23:03,982 --> 00:23:06,225
+Il ne trouvera jamais
+de famille sinon.
+
+495
+00:23:07,026 --> 00:23:10,426
+"Poor little fool"
+interprétée par Rick Nelson.
+
+496
+00:23:12,287 --> 00:23:13,813
+Grace aurait-elle pu
+blesser Arnold ?
+
+497
+00:23:13,813 --> 00:23:15,129
+Grace...
+
+498
+00:23:18,977 --> 00:23:21,278
+Certaines histoires ne peuvent
+être racontées.
+
+499
+00:23:24,598 --> 00:23:27,548
+Vivian a prétendu que c’était Grâce
+qui a trafiqué les dossiers.
+
+500
+00:23:27,548 --> 00:23:28,918
+Elle en a donné une raison ?
+
+501
+00:23:28,918 --> 00:23:30,788
+Elle n’a rien voulu dire
+sur le sujet.
+
+502
+00:23:30,788 --> 00:23:33,501
+Et c’est commode,
+Grace est morte.
+
+503
+00:23:33,501 --> 00:23:35,276
+Comment ça a été
+avec Fred la brute ?
+
+504
+00:23:35,276 --> 00:23:36,663
+C’est un type bien.
+
+505
+00:23:36,663 --> 00:23:38,686
+Il a adopté des jumeaux
+de Roumanie.
+
+506
+00:23:38,686 --> 00:23:39,917
+Il aurait tué Arnold ?
+
+507
+00:23:39,917 --> 00:23:42,912
+Non, mais il confirme que
+sœur Vivian était bel et bien violente.
+
+508
+00:23:42,912 --> 00:23:45,724
+J’ai trouvé le dernier gamin
+de la photo, Paul Evans.
+
+509
+00:23:45,724 --> 00:23:47,103
+Il ajoute quelque chose
+au tableau ?
+
+510
+00:23:47,103 --> 00:23:48,235
+La même chose.
+
+511
+00:23:48,235 --> 00:23:50,948
+Il adorait Arnold,
+était terrifié par sœur Vivian.
+
+512
+00:23:50,948 --> 00:23:52,422
+Une chose nous
+a frappés, cependant.
+
+513
+00:23:52,422 --> 00:23:54,228
+Il a dit qu’il ne pouvait pas
+avoir d’enfant.
+
+514
+00:23:54,228 --> 00:23:56,977
+Ouais. Le 1er qu’on a
+retrouvé, Roger...
+
+515
+00:23:57,477 --> 00:23:58,683
+il a adopté ses gamins.
+
+516
+00:23:58,683 --> 00:24:00,129
+Fred a adopté
+les siens aussi.
+
+517
+00:24:00,129 --> 00:24:01,386
+C’est de ça qu'on parle.
+
+518
+00:24:01,386 --> 00:24:05,830
+Trois des six garçons sur cette photo
+n’ont pas eu d’enfant à eux.
+
+519
+00:24:05,830 --> 00:24:07,589
+Peut-être les orphelins
+sont plus enclins
+
+520
+00:24:07,590 --> 00:24:08,890
+à l’adoption en grandissant.
+
+521
+00:24:08,989 --> 00:24:10,271
+Trois sur six, Lil ?
+
+522
+00:24:10,271 --> 00:24:12,200
+C’est trop pour être
+une coïncidence.
+
+523
+00:24:13,452 --> 00:24:14,910
+Gretchen a dit que
+c’était une photo
+
+524
+00:24:14,911 --> 00:24:16,411
+des gamins du club
+de sciences, pas vrai ?
+
+525
+00:24:16,510 --> 00:24:17,221
+C’est ça.
+
+526
+00:24:17,221 --> 00:24:20,712
+Peut-être devrions-nous découvrir
+ce qu’il faisait dans ce club.
+
+527
+00:24:24,416 --> 00:24:27,296
+Les garçons allaient
+au club de sciences les vendredis,
+
+528
+00:24:27,296 --> 00:24:29,305
+pendant que les autres
+avaient cours de musique.
+
+529
+00:24:29,305 --> 00:24:31,303
+Le club de sciences
+n’était pas à Fernwood ?
+
+530
+00:24:31,303 --> 00:24:33,189
+Non, ils allaient
+quelque part ailleurs.
+
+531
+00:24:33,190 --> 00:24:34,490
+Donc, ils prenaient cet autocar.
+
+532
+00:24:34,589 --> 00:24:37,326
+- Tous seuls ?
+- Sœur Grace allait avec eux.
+
+533
+00:24:37,327 --> 00:24:38,627
+Vous savez ce
+qu'ils y faisaient ?
+
+534
+00:24:38,628 --> 00:24:40,591
+Non. C’était seulement
+pour les garçons.
+
+535
+00:24:40,591 --> 00:24:42,735
+Et vous ne savez pas
+où c’était.
+
+536
+00:24:42,735 --> 00:24:44,207
+Non, mais je crois que la photo
+que vous avez
+
+537
+00:24:44,207 --> 00:24:47,104
+a été prise à l’endroit
+où le club se tenait.
+
+538
+00:24:47,104 --> 00:24:48,109
+Vous croyez ?
+
+539
+00:24:48,558 --> 00:24:50,661
+Ce n’est pas un bâtiment
+de Fernwood.
+
+540
+00:24:53,862 --> 00:24:55,775
+Peut-être qu'on devrait
+l’agrandir ?
+
+541
+00:24:56,782 --> 00:24:58,612
+Le club de sciences était juste
+
+542
+00:24:58,613 --> 00:25:00,213
+une sortie éducative
+hebdomadaire.
+
+543
+00:25:00,312 --> 00:25:01,328
+Où ça ?
+
+544
+00:25:01,890 --> 00:25:04,612
+Un bâtiment genre hôpital.
+
+545
+00:25:05,413 --> 00:25:07,956
+Quelle genre de choses
+y faisiez-vous ?
+
+546
+00:25:08,467 --> 00:25:10,257
+C’était différent
+à chaque fois.
+
+547
+00:25:10,533 --> 00:25:12,643
+Pourriez-vous nous
+donner un exemple ?
+
+548
+00:25:14,408 --> 00:25:17,172
+Un jour on a eu
+un petit déjeuner l’après-midi.
+
+549
+00:25:22,073 --> 00:25:25,673
+"Catch a falling star"
+interprétée par Perry Como.
+
+550
+00:25:28,165 --> 00:25:30,836
+- Bonjour, Docteur.
+- Sœur Grace.
+
+551
+00:25:37,081 --> 00:25:38,336
+Bonjour, les garçons.
+
+552
+00:25:38,336 --> 00:25:40,643
+On doit donner notre sang
+aujourd’hui Dr. Thayer ?
+
+553
+00:25:40,643 --> 00:25:43,662
+Non. Aujourd’hui vous devez juste
+manger des cornflakes.
+
+554
+00:25:43,662 --> 00:25:45,053
+Mais on a déjà déjeuné !
+
+555
+00:25:45,053 --> 00:25:46,808
+J’espère que vous avez faim.
+
+556
+00:25:52,384 --> 00:25:53,785
+C’était marrant.
+
+557
+00:25:53,785 --> 00:25:55,194
+Pas de quoi être effrayé.
+
+558
+00:25:55,194 --> 00:25:57,466
+Vous connaissez le prénom
+du Dr. Thayer ?
+
+559
+00:25:57,466 --> 00:25:59,449
+Non, désolé.
+
+560
+00:26:00,180 --> 00:26:02,275
+Roger, nous devons vous poser
+une question intime.
+
+561
+00:26:02,276 --> 00:26:03,276
+D’accord.
+
+562
+00:26:04,558 --> 00:26:06,267
+Avez-vous adopté
+des enfants
+
+563
+00:26:06,268 --> 00:26:08,268
+parce que vous ne
+pouviez pas en avoir ?
+
+564
+00:26:08,481 --> 00:26:09,887
+Ouais.
+
+565
+00:26:09,887 --> 00:26:11,694
+Ça venait de vous,
+
+566
+00:26:11,694 --> 00:26:13,314
+pas de votre femme.
+
+567
+00:26:14,098 --> 00:26:15,578
+Comment vous le savez ?
+
+568
+00:26:16,035 --> 00:26:18,403
+Les trois hommes toujours
+en vie du club de Sciences
+
+569
+00:26:18,404 --> 00:26:20,104
+ont confirmé
+qu’ils étaient stériles.
+
+570
+00:26:20,203 --> 00:26:21,745
+Comment ça peut venir
+des cornflakes ?
+
+571
+00:26:21,745 --> 00:26:22,417
+Je ne sais pas.
+
+572
+00:26:22,417 --> 00:26:23,945
+Et je ne sais pas non plus
+quel rapport ça a
+
+573
+00:26:23,946 --> 00:26:24,846
+avec les blessures d'Arnold.
+
+574
+00:26:24,945 --> 00:26:27,189
+Nous devons découvrir ce qui se passait
+dans cet endroit, Lil.
+
+575
+00:26:27,189 --> 00:26:28,910
+J’ai un bout du nom
+du bâtiment.
+
+576
+00:26:28,910 --> 00:26:32,307
+H-O-quelque chose,
+I-N-S-quelque chose.
+
+577
+00:26:32,307 --> 00:26:35,000
+Quelque chose... Institut ?
+
+578
+00:26:35,000 --> 00:26:36,786
+Institut Hoover,
+à Fairmount.
+
+579
+00:26:36,786 --> 00:26:38,938
+Recherchons tous ceux
+qui travaillaient là en 58,
+
+580
+00:26:38,938 --> 00:26:40,507
+en commençant
+par le Dr. Thayer.
+
+581
+00:26:42,457 --> 00:26:44,570
+Je dois faire un truc, Lil.
+
+582
+00:26:44,570 --> 00:26:45,953
+Bien.
+
+583
+00:26:46,456 --> 00:26:47,921
+Tu sais quoi, je peux
+y aller demain.
+
+584
+00:26:47,921 --> 00:26:50,440
+Vous dites ça tous les jours, Scotty,
+mais vous n’y allez jamais.
+
+585
+00:26:50,440 --> 00:26:51,546
+Ouais.
+
+586
+00:26:52,236 --> 00:26:54,094
+Je te retrouve
+demain matin Scotty.
+
+587
+00:26:54,289 --> 00:26:55,176
+À la première heure ?
+
+588
+00:26:55,176 --> 00:26:56,294
+À la première heure.
+
+589
+00:27:00,387 --> 00:27:02,174
+Très bien, vous voulez que je cherche
+ce Thayer sur le réseau ?
+
+590
+00:27:02,174 --> 00:27:04,536
+Vous devriez peut-être
+me laisser faire, chef.
+
+591
+00:27:04,536 --> 00:27:07,621
+Non, il faut que j’apprenne tôt au tard,
+à me servir de cet ordinateur, Lil.
+
+592
+00:27:08,626 --> 00:27:10,279
+Il est allumé ?
+
+593
+00:27:24,761 --> 00:27:26,175
+Désolé, je suis en retard.
+
+594
+00:27:27,131 --> 00:27:29,353
+L’autocar était garé
+juste devant.
+
+595
+00:27:30,031 --> 00:27:31,903
+On sait ce qu’ils faisaient
+ici dans les années 50 ?
+
+596
+00:27:31,903 --> 00:27:33,493
+Des recherches
+pour le gouvernement.
+
+597
+00:27:33,493 --> 00:27:35,828
+Le Dr. Milton Thayer
+se servait de volontaires,
+
+598
+00:27:35,828 --> 00:27:38,009
+dont les enfants
+de Fernwood,
+
+599
+00:27:38,009 --> 00:27:39,762
+comme cobayes.
+
+600
+00:27:40,237 --> 00:27:42,192
+Qu’est-ce que Fernwood
+recevait en échange ?
+
+601
+00:27:42,192 --> 00:27:45,194
+Ils touchaient une commission
+pour chaque garçon emmené.
+
+602
+00:27:45,194 --> 00:27:46,611
+J’ai les contrats.
+
+603
+00:27:46,611 --> 00:27:48,184
+Sœur Vivian avait mis
+ça sur pied ?
+
+604
+00:27:48,184 --> 00:27:49,476
+Non.
+
+605
+00:27:49,743 --> 00:27:51,625
+Sœur Grace.
+
+606
+00:27:53,024 --> 00:27:54,432
+De quel genre de tests
+s’agit- il ?
+
+607
+00:27:54,432 --> 00:27:56,512
+C’est ce qu’on doit demander
+au Dr. Thayer.
+
+608
+00:27:56,512 --> 00:27:58,774
+Il est chercheur honoraire ici.
+
+609
+00:27:58,774 --> 00:28:00,939
+Ouais, je me souviens
+des garçons de Fernwood.
+
+610
+00:28:01,631 --> 00:28:04,993
+Ils avaient été l’objet
+d’une série de tests sur les radiations.
+
+611
+00:28:04,993 --> 00:28:07,523
+- Radiation.
+- C’est ça.
+
+612
+00:28:07,523 --> 00:28:10,745
+Nous avons entendu
+parler de cornflakes.
+
+613
+00:28:10,745 --> 00:28:12,689
+C’était une des méthodes.
+
+614
+00:28:12,689 --> 00:28:14,227
+Comment ça fonctionnait ?
+
+615
+00:28:14,227 --> 00:28:16,598
+Le lait était irradié.
+
+616
+00:28:16,598 --> 00:28:19,293
+Vous donniez du lait radioactif
+à des enfants de six ans ?
+
+617
+00:28:19,293 --> 00:28:20,401
+À très faible dose.
+
+618
+00:28:20,401 --> 00:28:22,606
+Nous le mettions aussi
+dans le dentifrice
+
+619
+00:28:22,607 --> 00:28:24,607
+et on les faisait se brosser
+les dents avec.
+
+620
+00:28:24,706 --> 00:28:26,779
+C’était financé
+par le gouvernement ?
+
+621
+00:28:27,294 --> 00:28:29,452
+Vous avez quoi, 30 ans ?
+
+622
+00:28:29,452 --> 00:28:30,169
+Ouais.
+
+623
+00:28:30,169 --> 00:28:32,382
+Donc, vous ne vous rappelez pas
+la guerre froide.
+
+624
+00:28:32,382 --> 00:28:33,333
+Quel rapport ?
+
+625
+00:28:33,333 --> 00:28:35,236
+Nous vivions dans la peur
+de la bombe.
+
+626
+00:28:35,236 --> 00:28:37,726
+Les recherches sur la radiation
+étaient considérées comme nécessaires.
+
+627
+00:28:37,726 --> 00:28:39,252
+Et même patriotiques.
+
+628
+00:28:39,252 --> 00:28:42,193
+Saviez-vous que vos tests
+avaient rendu trois hommes stériles ?
+
+629
+00:28:43,397 --> 00:28:45,056
+Nous ne voulions faire
+de mal à personne,
+
+630
+00:28:45,056 --> 00:28:47,859
+mais à l’époque, nous agissions
+pour la bonne cause.
+
+631
+00:28:47,859 --> 00:28:50,112
+Donc vous ne regrettez pas
+ces tests ?
+
+632
+00:28:50,112 --> 00:28:52,455
+Nous travaillions dans les limites
+de nos connaissances.
+
+633
+00:28:52,455 --> 00:28:55,388
+Dans les années 50, nous pensions
+que ces essais seraient utiles.
+
+634
+00:28:55,388 --> 00:28:56,936
+Nous avons aussi pratiqué
+des lobotomies
+
+635
+00:28:56,937 --> 00:28:58,337
+que nous trouvons
+aujourd’hui barbares,
+
+636
+00:28:58,436 --> 00:29:01,445
+mais qui à l’époque étaient considérées
+comme de la médecine de pointe.
+
+637
+00:29:05,963 --> 00:29:08,102
+On doit vivre avec son temps.
+
+638
+00:29:09,458 --> 00:29:13,742
+Alors sœur Grace organisait
+les visites à l’institut.
+
+639
+00:29:13,742 --> 00:29:15,451
+Vous croyez qu’elle savait
+ce qu’elle faisait à ces gamins ?
+
+640
+00:29:15,451 --> 00:29:17,890
+Elle était bonne sœur,
+pas docteur.
+
+641
+00:29:18,107 --> 00:29:19,340
+Et en 58,
+
+642
+00:29:19,340 --> 00:29:21,276
+on pensait que les docteurs
+ne pouvaient pas se tromper.
+
+643
+00:29:21,276 --> 00:29:22,406
+On ne les remettait pas
+en question.
+
+644
+00:29:22,406 --> 00:29:24,379
+On ne remettait pas non plus
+l’Etat en question.
+
+645
+00:29:24,379 --> 00:29:26,056
+Il finançait ces tests.
+
+646
+00:29:26,056 --> 00:29:27,507
+J’ai regardé
+ce qu’ils faisaient d’autre,
+
+647
+00:29:27,507 --> 00:29:29,693
+à l’institut Hoover en 58.
+
+648
+00:29:29,693 --> 00:29:31,466
+Un tas de recherches
+comportementales.
+
+649
+00:29:31,466 --> 00:29:32,542
+C’est à dire ?
+
+650
+00:29:32,542 --> 00:29:33,882
+Ils essayaient de maîtriser
+des psychotiques,
+
+651
+00:29:33,882 --> 00:29:35,883
+à l’aide de traitements
+à base d’insuline,
+
+652
+00:29:35,884 --> 00:29:37,784
+de caissons d’isolement
+et d’électrochocs.
+
+653
+00:29:37,883 --> 00:29:39,544
+Oh, Seigneur.
+
+654
+00:29:39,544 --> 00:29:42,325
+Dites-moi qu’ils n’ont pas essayé ça
+sur les orphelins.
+
+655
+00:29:42,325 --> 00:29:44,368
+Cela expliquerait les blessures
+à la tête d’Arnold.
+
+656
+00:29:44,368 --> 00:29:46,960
+J’ai retrouvé une ancienne infirmière
+qui travaillait en Comportemental.
+
+657
+00:29:46,960 --> 00:29:48,138
+Toujours à  Philly ?
+
+658
+00:29:48,138 --> 00:29:50,789
+Sally Thurber,
+une vieille dame à présent,
+
+659
+00:29:50,789 --> 00:29:53,053
+elle se la coule douce
+dans une maison de retraite.
+
+660
+00:29:53,861 --> 00:29:56,135
+Je me souviens de cette affaire
+du garçon dans le carton.
+
+661
+00:29:56,135 --> 00:29:58,770
+Je n’avais jamais fait le lien
+avec Fernwood.
+
+662
+00:29:58,770 --> 00:30:00,452
+Personne ne l’a fait.
+
+663
+00:30:00,452 --> 00:30:03,029
+Ces enfants étaient
+des amours.
+
+664
+00:30:03,029 --> 00:30:04,679
+Est-ce que vous
+les connaissiez ?
+
+665
+00:30:04,680 --> 00:30:06,080
+Peut-être faisaient-ils
+l’objet de recherches ?
+
+666
+00:30:06,179 --> 00:30:08,838
+Oh, non pas chez nous. Non.
+
+667
+00:30:08,838 --> 00:30:12,321
+Je les voyais juste dans l’institut
+avec leurs...
+
+668
+00:30:12,722 --> 00:30:14,622
+petits uniformes gris.
+
+669
+00:30:14,721 --> 00:30:18,805
+Je parlais parfois avec la sœur
+qui les emmenait.
+
+670
+00:30:18,805 --> 00:30:20,233
+Sœur Grace ?
+
+671
+00:30:20,233 --> 00:30:23,395
+Elle descendait en Comportemental
+de temps à autre.
+
+672
+00:30:23,395 --> 00:30:25,510
+Ouais ? Pourquoi faire ?
+
+673
+00:30:25,897 --> 00:30:26,944
+Bien...
+
+674
+00:30:27,144 --> 00:30:30,053
+je suppose qu’ils sont
+tous morts à présent,
+
+675
+00:30:30,053 --> 00:30:33,307
+donc je peux parler.
+
+676
+00:30:33,307 --> 00:30:34,684
+Je vous en prie.
+
+677
+00:30:35,713 --> 00:30:38,373
+Elle venait rendre
+visite à Clayton...
+
+678
+00:30:38,932 --> 00:30:41,581
+un assistant de notre labo,
+
+679
+00:30:41,881 --> 00:30:44,117
+un étudiant en médecine,
+
+680
+00:30:44,117 --> 00:30:47,108
+et ils étaient amis.
+
+681
+00:30:47,636 --> 00:30:48,939
+Amis comment ?
+
+682
+00:30:48,939 --> 00:30:52,107
+Plus amis qu’une bonne sœur
+ne devrait l’être
+
+683
+00:30:52,108 --> 00:30:54,308
+avec un jeune homme,
+à mon avis.
+
+684
+00:30:55,175 --> 00:30:58,318
+C’est un bon garçon dans le fond,
+mais il se comporte difficilement.
+
+685
+00:30:59,544 --> 00:31:01,608
+Tu es belle, Grace.
+
+686
+00:31:01,608 --> 00:31:05,096
+- Je ne peux pas le dire ?
+- Clay, il a besoin d’une famille.
+
+687
+00:31:05,096 --> 00:31:08,259
+J’ai peur qu’il n’en trouve jamais
+s’il ne change pas.
+
+688
+00:31:08,259 --> 00:31:09,801
+Ça va lui passer.
+
+689
+00:31:09,801 --> 00:31:12,099
+Non. Ça empire.
+
+690
+00:31:12,486 --> 00:31:14,664
+Je t’en prie, aide-le.
+
+691
+00:31:15,461 --> 00:31:17,349
+Je ne comprends pas
+ce que tu me demandes.
+
+692
+00:31:17,929 --> 00:31:19,844
+Le traitement que vous donnez
+aux patients ici…
+
+693
+00:31:19,844 --> 00:31:22,994
+- Ce n’est pas pour les enfants.
+- Ça ne marche pas ?
+
+694
+00:31:23,643 --> 00:31:25,540
+C’est très efficace.
+
+695
+00:31:25,540 --> 00:31:27,384
+Ça les calme, c’est ça ?
+
+696
+00:31:27,384 --> 00:31:28,685
+Oui.
+
+697
+00:31:28,685 --> 00:31:30,821
+Je sais que ça pourrait l’aider.
+
+698
+00:31:30,821 --> 00:31:31,774
+Grace...
+
+699
+00:31:31,774 --> 00:31:34,052
+Il y a une journée
+d’adoption demain.
+
+700
+00:31:34,052 --> 00:31:37,290
+S’il te plaît. Pour moi, Clay ?
+
+701
+00:31:38,291 --> 00:31:40,891
+"Lonesome town"
+interprétée par Rick Nelson.
+
+702
+00:31:41,323 --> 00:31:43,600
+Est-ce que vous avez vu
+l’enfant dont ils parlaient ?
+
+703
+00:31:43,600 --> 00:31:45,702
+Le soir même – je partais,
+
+704
+00:31:45,702 --> 00:31:49,848
+j’ai revu Grace tenant
+ce petit garçon par la main.
+
+705
+00:31:49,848 --> 00:31:51,218
+Où allaient-ils ?
+
+706
+00:31:51,218 --> 00:31:53,299
+Je suppose voir Clayton,
+
+707
+00:31:53,900 --> 00:31:56,000
+pour obtenir le traitement
+qu’elle avait demandé.
+
+708
+00:31:56,099 --> 00:31:58,026
+C’était quoi ce traitement ?
+
+709
+00:31:58,026 --> 00:31:59,139
+ECT.
+
+710
+00:31:59,139 --> 00:32:00,731
+Des électrochocs.
+
+711
+00:32:01,602 --> 00:32:05,218
+Je me rappelle de ce soir là
+car c’est la seule fois
+
+712
+00:32:05,218 --> 00:32:08,213
+que j’ai vu Grace sans
+son habit de religieuse.
+
+713
+00:32:08,213 --> 00:32:11,031
+Je ne savais même pas
+qu’elle était blonde.
+
+714
+00:32:11,031 --> 00:32:12,884
+Que portait-elle ce soir là ?
+
+715
+00:32:14,635 --> 00:32:17,123
+Un manteau écossais.
+
+716
+00:32:18,234 --> 00:32:20,755
+Un manteau écossais vert.
+
+717
+00:32:25,509 --> 00:32:28,821
+Il semble que sœur Grâce et Clayton
+fricotaient ensemble.
+
+718
+00:32:28,821 --> 00:32:30,544
+Et qu’il savait pratiquer
+des électrochocs,
+
+719
+00:32:30,544 --> 00:32:32,709
+qui étaient supposés maîtriser
+les comportements violents.
+
+720
+00:32:32,709 --> 00:32:35,571
+Et elle voulait mater le petit
+avant de le faire adopter.
+
+721
+00:32:35,571 --> 00:32:38,283
+Il y avait une journée portes ouvertes
+à Fernwood le 5 avril.
+
+722
+00:32:38,283 --> 00:32:39,963
+La veille de la découverte
+d’Arnold.
+
+723
+00:32:39,963 --> 00:32:41,199
+Alors, peut-être que le 4 avril,
+
+724
+00:32:41,199 --> 00:32:43,792
+Grace et Arnold vont
+en douce à l’institut.
+
+725
+00:32:43,792 --> 00:32:46,260
+Elle porte des vêtements civils
+donc personne ne la reconnaît…
+
+726
+00:32:46,260 --> 00:32:47,821
+À l’exception de Sally
+la fouineuse.
+
+727
+00:32:47,821 --> 00:32:49,250
+Elle porte un manteau
+écossais vert,
+
+728
+00:32:49,250 --> 00:32:51,067
+comme celui de la femme
+que le type au lapin
+
+729
+00:32:51,068 --> 00:32:52,768
+a vu dans le bois
+pendant des années.
+
+730
+00:32:52,867 --> 00:32:53,945
+Sans doute Grace.
+
+731
+00:32:53,945 --> 00:32:55,349
+Et avant de faire
+les électrochocs,
+
+732
+00:32:55,350 --> 00:32:56,850
+on coupe les cheveux
+du patient.
+
+733
+00:32:56,949 --> 00:32:59,048
+Grace a gardé son manteau
+pendant toutes ces années ?
+
+734
+00:32:59,048 --> 00:33:00,921
+Combien de manteaux
+a une sœur ?
+
+735
+00:33:00,921 --> 00:33:03,361
+Pourquoi s’est-elle donnée
+autant de mal pour ce gosse
+
+736
+00:33:03,361 --> 00:33:05,110
+quand elle en avait soixante
+qui avait besoin d’aide ?
+
+737
+00:33:05,110 --> 00:33:06,254
+Ouais. Pourquoi Arnold ?
+
+738
+00:33:06,254 --> 00:33:09,476
+Sally laisse entendre que
+Grace et Clayton avaient une relation.
+
+739
+00:33:09,476 --> 00:33:10,312
+Ah ouais ?
+
+740
+00:33:11,149 --> 00:33:13,427
+Nous ne savons toujours pas qui
+étaient les parents d'Arnold.
+
+741
+00:33:14,571 --> 00:33:17,651
+Et pourquoi Grace avait trafiqué
+ces rapports d’admission.
+
+742
+00:33:17,651 --> 00:33:19,338
+C’est sacrilège.
+
+743
+00:33:19,338 --> 00:33:20,998
+Lil, elle était bonne sœur.
+
+744
+00:33:20,998 --> 00:33:22,522
+Elle était aussi humaine.
+
+745
+00:33:29,436 --> 00:33:30,835
+Nous pouvons discuter ici.
+
+746
+00:33:30,835 --> 00:33:32,688
+Vous ne voulez
+probablement pas
+
+747
+00:33:32,689 --> 00:33:34,589
+que les sœurs entendent
+cette conversation.
+
+748
+00:33:34,688 --> 00:33:36,198
+De quoi s’agit-il encore ?
+
+749
+00:33:36,198 --> 00:33:38,613
+Nous pensons savoir
+qui était la mère d’Arnold.
+
+750
+00:33:55,910 --> 00:33:58,911
+Je ne voulais pas révéler
+l’histoire de Grace.
+
+751
+00:33:58,911 --> 00:34:00,719
+Je comprends cela.
+
+752
+00:34:01,433 --> 00:34:03,346
+Mais un petit garçon
+est mort, Vivian.
+
+753
+00:34:03,346 --> 00:34:05,070
+Son petit garçon.
+
+754
+00:34:08,783 --> 00:34:10,669
+Grace n'était...
+
+755
+00:34:10,970 --> 00:34:12,270
+pas une bonne religieuse.
+
+756
+00:34:12,369 --> 00:34:13,591
+Sans rire.
+
+757
+00:34:13,591 --> 00:34:16,625
+Elle était rêveuse. Faible.
+
+758
+00:34:16,625 --> 00:34:19,019
+Elle avait de bonnes intentions,
+
+759
+00:34:19,019 --> 00:34:21,495
+mais elle ne savait pas
+se maîtriser.
+
+760
+00:34:23,048 --> 00:34:25,060
+Vous connaissez
+Clayton Waters ?
+
+761
+00:34:26,435 --> 00:34:28,025
+Il a causé la perte
+de Grace.
+
+762
+00:34:28,025 --> 00:34:29,812
+Elle était amoureuse
+de lui ?
+
+763
+00:34:29,812 --> 00:34:31,518
+Jusqu’au jour de sa mort.
+
+764
+00:34:32,221 --> 00:34:34,889
+Quand elle avait 18 ans,
+elle est venue me voir,
+
+765
+00:34:34,889 --> 00:34:36,679
+et m’a dit qu’elle
+était enceinte.
+
+766
+00:34:37,503 --> 00:34:39,677
+J’aurais mieux fait
+de le dire à la mère supérieure,
+
+767
+00:34:39,677 --> 00:34:41,237
+mais au lieu de cela
+
+768
+00:34:41,238 --> 00:34:43,938
+je l’ai aidée à s’éloigner
+pendant quelques mois.
+
+769
+00:34:45,423 --> 00:34:47,297
+Grace et vous, étiez proches ?
+
+770
+00:34:47,781 --> 00:34:49,587
+Comme des sœurs de sang.
+
+771
+00:34:50,409 --> 00:34:53,031
+Elle avait  promis de confier le bébé
+dans un orphelinat de Pittsburgh.
+
+772
+00:34:53,031 --> 00:34:54,769
+Mais elle n’a
+simplement pas pu,
+
+773
+00:34:54,770 --> 00:34:56,470
+et l’a donc ramené
+à Fernwood.
+
+774
+00:34:56,569 --> 00:34:59,847
+Et l’a fait passer
+pour le frère de Gretchen.
+
+775
+00:35:00,786 --> 00:35:03,589
+Il est devenu notre croix.
+
+776
+00:35:03,589 --> 00:35:05,697
+Indiscipliné tout le temps.
+
+777
+00:35:05,697 --> 00:35:06,943
+N’acceptant aucune famille.
+
+778
+00:35:06,943 --> 00:35:09,635
+Et plus il vieillissait,
+et moins il était adoptable.
+
+779
+00:35:11,401 --> 00:35:13,927
+Savait-il que Grace
+était sa mère ?
+
+780
+00:35:16,249 --> 00:35:18,329
+Nous ne lui avons
+jamais dit...
+
+781
+00:35:24,959 --> 00:35:26,836
+mais je pense
+qu’au fond de lui,
+
+782
+00:35:27,537 --> 00:35:29,737
+il savait que sa place
+était auprès de Grace.
+
+783
+00:35:29,836 --> 00:35:31,624
+C’est pour ça qu’il revenait.
+
+784
+00:35:33,748 --> 00:35:37,083
+Alors qu’est-il arrivé
+à Arnold le 4 avril ?
+
+785
+00:35:37,083 --> 00:35:39,758
+Oh, le 4 avril... eh bien...
+
+786
+00:35:40,233 --> 00:35:43,520
+Le 4 avril, Grace était prête à tout
+pour qu’il trouve un foyer.
+
+787
+00:35:44,567 --> 00:35:45,763
+Oui.
+
+788
+00:35:46,349 --> 00:35:47,538
+Avant que je ne vous
+dise la suite,
+
+789
+00:35:47,538 --> 00:35:49,558
+je veux que vous sachiez
+que ce que Grace a fait,
+
+790
+00:35:49,558 --> 00:35:51,582
+elle l’a fait par amour.
+
+791
+00:35:55,196 --> 00:35:57,497
+Vivian. Vivian !
+
+792
+00:35:59,664 --> 00:36:01,054
+Comment es-tu habillée ?
+
+793
+00:36:01,054 --> 00:36:02,623
+Arnold est malade.
+
+794
+00:36:07,694 --> 00:36:09,842
+Qu’est-il arrivé ?
+
+795
+00:36:09,842 --> 00:36:11,677
+Clayton lui a fait
+un traitement.
+
+796
+00:36:11,878 --> 00:36:13,478
+Pour l’aider dans
+son comportement.
+
+797
+00:36:14,859 --> 00:36:17,432
+Tu n’étais pas supposée
+voir Clayton.
+
+798
+00:36:17,432 --> 00:36:20,059
+Nous avons dû lui couper
+ses cheveux,
+
+799
+00:36:20,059 --> 00:36:22,892
+ses beaux cheveux...
+
+800
+00:36:22,892 --> 00:36:25,340
+Est-ce que Clayton a dit
+qu’il serait si malade ?
+
+801
+00:36:25,340 --> 00:36:27,597
+Il a dit qu'il pourrait
+être fatigué, mais...
+
+802
+00:36:28,298 --> 00:36:30,098
+Vivian, il a une telle fièvre.
+
+803
+00:36:33,869 --> 00:36:35,364
+Nous allons prier pour lui.
+
+804
+00:36:37,207 --> 00:36:38,898
+J'ai pensé que ça l’aiderait.
+
+805
+00:36:39,834 --> 00:36:42,653
+Il se comporterait mieux et
+ensuite un couple voudrait de lui
+
+806
+00:36:42,654 --> 00:36:44,054
+et le garderait.
+
+807
+00:36:44,153 --> 00:36:46,226
+Prie, Grace.
+
+808
+00:36:50,247 --> 00:36:53,039
+C’était supposé le calmer,
+
+809
+00:36:53,039 --> 00:36:54,694
+le mater.
+
+810
+00:36:56,340 --> 00:36:59,687
+Grace n'a jamais imaginé
+que ça pourrait être néfaste.
+
+811
+00:37:00,316 --> 00:37:03,165
+Est-ce qu’Arnold a pu aller
+à la journée d’adoption ?
+
+812
+00:37:03,584 --> 00:37:04,960
+Non.
+
+813
+00:37:05,677 --> 00:37:08,528
+Non, la fièvre a empiré.
+
+814
+00:37:14,727 --> 00:37:16,887
+Il n’y a plus de jus
+de fruits, sœur Vivian.
+
+815
+00:37:17,593 --> 00:37:21,166
+Il y a un carton
+plein dans la cuisine.
+
+816
+00:37:21,166 --> 00:37:22,779
+Où est Arnold ?
+
+817
+00:37:23,558 --> 00:37:25,552
+Il ne va pas tarder
+à descendre.
+
+818
+00:37:27,194 --> 00:37:28,824
+Va rencontrer les gens.
+
+819
+00:37:46,518 --> 00:37:48,257
+Il agonise, Vivian.
+
+820
+00:37:49,201 --> 00:37:52,008
+Rendez.....vous…
+
+821
+00:37:53,159 --> 00:37:55,837
+Oh, Arnold...
+
+822
+00:37:56,411 --> 00:37:59,120
+J’espère que tu sais
+que je t’aimais.
+
+823
+00:37:59,120 --> 00:38:02,135
+Rendez....vous....
+
+824
+00:38:03,136 --> 00:38:05,536
+devant l'enclos....aux chevaux.
+
+825
+00:38:44,407 --> 00:38:46,088
+Qu’est-ce que vous faites ?
+
+826
+00:38:47,269 --> 00:38:48,897
+Nettoie la chambre.
+
+827
+00:38:49,397 --> 00:38:52,118
+- Je viens avec vous.
+- Grace !
+
+828
+00:38:52,118 --> 00:38:55,224
+Ce n’est pas une
+de tes petites bêtises.
+
+829
+00:38:55,543 --> 00:38:57,915
+C’est très sérieux.
+
+830
+00:39:26,204 --> 00:39:27,586
+Je viens aussi.
+
+831
+00:39:58,575 --> 00:40:02,181
+"Sweeter Than You"
+interprétée par Rick Nelson.
+
+832
+00:40:02,529 --> 00:40:07,897
+* Je ne pourrai jamais être aimé *
+
+833
+00:40:08,298 --> 00:40:13,498
+* par personne de plus doux que toi *
+
+834
+00:40:13,597 --> 00:40:18,459
+* Et je ne pourrais jamais appartenir *
+
+835
+00:40:19,260 --> 00:40:24,260
+* à personne, de plus doux que toi *
+
+836
+00:40:24,659 --> 00:40:30,179
+* Avec toi à mes côtés *
+
+837
+00:40:30,179 --> 00:40:36,016
+* Je ne serai jamais seul *
+
+838
+00:40:36,016 --> 00:40:41,447
+*  Et ce que je désire le plus *
+
+839
+00:40:41,447 --> 00:40:48,241
+* c’est de t'avoir pour moi seul *
+
+840
+00:40:48,241 --> 00:40:52,254
+* Mon seul désir *
+
+841
+00:40:53,655 --> 00:40:58,555
+* est de t'aimer éternellement *
+
+842
+00:40:58,654 --> 00:41:03,585
+* Pour qu'aucune autre  *
+
+843
+00:41:04,486 --> 00:41:09,486
+* ne puisse jamais compter
+autant à mes yeux  *
+
+844
+00:41:09,585 --> 00:41:16,783
+* Alors, si tu me dis que
+tu m'aimes pour toujours *
+
+845
+00:41:16,783 --> 00:41:21,021
+* Je te crois *
+
+846
+00:41:21,021 --> 00:41:26,564
+* Et ce que je désire le plus *
+
+847
+00:41:26,564 --> 00:41:33,254
+* c’est vivre ma vie avec toi *
+
+848
+00:41:33,254 --> 00:41:37,473
+* Je ne pourrai jamais être aimé *
+
+849
+00:41:38,374 --> 00:41:43,874
+* par personne de plus doux que toi *
+
+850
+00:41:43,973 --> 00:41:48,822
+* Et je ne pourrai jamais appartenir *
+
+851
+00:41:50,323 --> 00:41:55,223
+* à personne, de plus doux que toi *
+
+852
+00:42:05,273 --> 00:42:09,521
+Traduction et Relecture : La Mini Team
+- coldcase.free.fr -
+

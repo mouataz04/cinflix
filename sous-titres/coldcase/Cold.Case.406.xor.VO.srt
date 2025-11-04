@@ -1,0 +1,2662 @@
+1
+00:00:17,950 --> 00:00:21,030
+Hawk,will you play"summertime blues"for us tonight?
+
+2
+00:00:21,600 --> 00:00:23,270
+I think I can fit that in.
+
+3
+00:00:24,630 --> 00:00:27,690
+you know,I listen to you in bed before I go to sleep.
+
+4
+00:00:27,950 --> 00:00:32,460
+Your voice feels so close.Like you're in bed with me.
+
+5
+00:00:32,840 --> 00:00:34,260
+What's your name,darlin'?
+
+6
+00:00:34,370 --> 00:00:35,590
+Gloria.
+
+7
+00:00:40,350 --> 00:00:42,440
+I hope you have sweet dreams tonight,gloria.
+
+8
+00:00:49,740 --> 00:00:51,100
+mic's starting to pick that up, bones.
+
+9
+00:00:51,110 --> 00:00:53,340
+Yeah,I called maintenance 50 times.
+
+10
+00:00:53,350 --> 00:00:54,810
+Sorry,about that, hawk. I'm on it.
+
+11
+00:00:54,820 --> 00:00:57,460
+All right. You got something for me?
+
+12
+00:00:59,950 --> 00:01:02,240
+Check out the latest roy hamilton single.
+
+13
+00:01:02,420 --> 00:01:03,880
+Sounds like it's in 3-D.
+
+14
+00:01:04,090 --> 00:01:06,470
+Yeah,heard about that. New thing called stereo.
+
+15
+00:01:06,480 --> 00:01:07,300
+You gonna play it,hawk?
+
+16
+00:01:07,310 --> 00:01:08,600
+Only if I like it.
+
+17
+00:01:09,290 --> 00:01:10,580
+Aw,it's smokin',hawk. 
+
+18
+00:01:10,720 --> 00:01:13,700
+Someday,I'm gonna buy a gibson guitar just like the one on that song.
+
+19
+00:01:14,000 --> 00:01:16,310
+Hold on,elvis. Let's get to work.
+
+20
+00:01:23,890 --> 00:01:27,890
+Hey,hey,philly.It's your cool rockin' daddy the hawk,
+
+21
+00:01:27,900 --> 00:01:30,510
+comin' at you live on wixa.
+
+22
+00:01:30,550 --> 00:01:33,900
+Can you hear the sound,philly? I heard it last night at the locust club.
+
+23
+00:01:33,910 --> 00:01:36,250
+It was doing funny things to the people.
+
+24
+00:01:36,260 --> 00:01:38,470
+It made their bodies sweat, made their hips shake.
+
+25
+00:01:38,480 --> 00:01:40,520
+I want you to turn it up, philly!
+
+26
+00:01:41,000 --> 00:01:44,610
+I want you to turn up that rock and roll music!
+
+27
+00:01:44,620 --> 00:01:49,970
+You're dialed into the hawk and this is gene vincent with "say mama!"
+
+28
+00:02:21,670 --> 00:02:26,540
+Let's slow it down for a sec for a little ballad called "scarlet rose."
+
+29
+00:03:41,680 --> 00:03:45,690
+a filmmaker doing a documentary on '50s rock dj john hawkins.
+
+30
+00:03:45,700 --> 00:03:46,940
+Oh,the hawk?
+
+31
+00:03:47,610 --> 00:03:49,760
+My mom used to go to his sock hops.
+
+32
+00:03:49,880 --> 00:03:51,400
+Said he was pretty wild.
+
+33
+00:03:51,410 --> 00:03:53,660
+Late '50s were a crazy time to be a kid.
+
+34
+00:03:53,950 --> 00:03:55,480
+You a rocker,boss?
+
+35
+00:03:55,600 --> 00:03:56,690
+I had a radio.
+
+36
+00:03:56,880 --> 00:03:59,030
+Detective rush, this is tom bergin.
+
+37
+00:03:59,820 --> 00:04:03,310
+Tom's been looking at a tape recording that began seconds after hawkins died.
+
+38
+00:04:03,320 --> 00:04:04,500
+Didn't hawkins...
+
+39
+00:04:04,510 --> 00:04:06,720
+yeah,comb his hair with a .38 live on the air?
+
+40
+00:04:06,730 --> 00:04:09,370
+So they thought. Apparently,as hawkins slumped over,
+
+41
+00:04:09,380 --> 00:04:12,720
+his hand hit a control that started an in-studio tape recorder.
+
+42
+00:04:12,730 --> 00:04:13,930
+He taped his shows?
+
+43
+00:04:13,940 --> 00:04:14,990
+Yeah,for reruns.
+
+44
+00:04:15,000 --> 00:04:16,710
+And no one's heard this before?
+
+45
+00:04:16,720 --> 00:04:19,400
+Years ago,but no one's heard what I've heard.
+
+46
+00:04:19,410 --> 00:04:21,050
+No one had this equipment.
+
+47
+00:04:21,160 --> 00:04:22,120
+This thing ready yet?
+
+48
+00:04:22,130 --> 00:04:25,420
+One sec.First I had the tape transferred on m-audio,
+
+49
+00:04:25,430 --> 00:04:26,960
+and then I flipped it to logic pro 
+
+50
+00:04:26,970 --> 00:04:29,800
+because it totally leverages the new mac pci-dsp card.
+
+51
+00:04:29,810 --> 00:04:31,250
+Hey,guy.
+
+52
+00:04:32,000 --> 00:04:33,990
+No one understands a word you're saying.
+
+53
+00:04:34,960 --> 00:04:38,740
+Right,right. Here we go.
+
+54
+00:04:39,180 --> 00:04:43,820
+this is right after the gunshot.I'm gonna lower the sound of the record.
+
+55
+00:04:43,830 --> 00:04:46,850
+All you'll hear is the ambience in the dj booth.
+
+56
+00:04:54,060 --> 00:04:55,330
+footsteps?
+
+57
+00:04:56,100 --> 00:04:57,920
+Hawkins wasn't in there alone.
+
+58
+00:04:59,930 --> 00:05:01,770
+could be a door, someone leaving.
+
+59
+00:05:02,470 --> 00:05:05,850
+Then it's quiet for 30 minutes until the janitor rain.
+
+60
+00:05:07,850 --> 00:05:10,960
+So either hawkins woke from the dead and walked out of there...
+
+61
+00:05:10,970 --> 00:05:13,180
+or his murderer did.
+
+62
+00:05:18,150 --> 00:05:22,790
+<font color=#38B0DE>-=www.ydy.com/bbs=
+- Proudly Presents</font>
+
+63
+00:05:23,880 --> 00:05:27,710
+<font color=#38B0DE>Sync: YTET-小野人王 
+-=www.ydy.com/bbs=-</font>
+
+64
+00:05:28,700 --> 00:05:32,170
+<font color=#38B0DE>Cold.Case 
+Season 4 Episode 6</font>
+
+65
+00:05:55,960 --> 00:05:58,300
+hawkins got top billing over the musicians?
+
+66
+00:05:58,310 --> 00:06:00,880
+Radio djs were as big as the rock stars.
+
+67
+00:06:00,890 --> 00:06:04,010
+Alan freed in new york, wolfman jack in L.A.
+
+68
+00:06:04,020 --> 00:06:05,490
+And the hawk here in philly.
+
+69
+00:06:05,500 --> 00:06:07,740
+Can't even name a dj on the air now.
+
+70
+00:06:07,820 --> 00:06:09,980
+Back then they were the tastemakers,scotty.
+
+71
+00:06:09,990 --> 00:06:12,630
+They picked the songs, made or broke careers.
+
+72
+00:06:13,360 --> 00:06:16,260
+Hawk could've been the target of some wannabe rock star.
+
+73
+00:06:16,700 --> 00:06:19,910
+Or some record company suit. That was the time of payola.
+
+74
+00:06:20,120 --> 00:06:23,680
+Dj's taking bribes from record companies to play songs.
+
+75
+00:06:23,730 --> 00:06:26,550
+Far as we know,hawk never took any payouts.
+
+76
+00:06:26,720 --> 00:06:30,580
+Real fan of the music.Wasn't afraid to play black artists to white teens.
+
+77
+00:06:30,590 --> 00:06:31,680
+You a fan?
+
+78
+00:06:31,880 --> 00:06:34,210
+Nah. I like country music.
+
+79
+00:06:35,280 --> 00:06:36,650
+Country?
+
+80
+00:06:37,420 --> 00:06:39,380
+Yeah,I dj'd in college.
+
+81
+00:06:39,590 --> 00:06:41,940
+This is will jeffries coming at you live.
+
+82
+00:06:41,950 --> 00:06:46,310
+Here's hank williams with "my son calls another man daddy."
+
+83
+00:06:47,740 --> 00:06:49,720
+just when you think you know someone.
+
+84
+00:06:52,450 --> 00:06:55,870
+the '58 theory was suicide. Looked self-inflicted.
+
+85
+00:06:55,880 --> 00:06:58,050
+They didn't have our forensics back then.
+
+86
+00:06:58,140 --> 00:07:01,990
+Divorced at 24. Ex-wife inherited his money.
+
+87
+00:07:02,000 --> 00:07:04,700
+Good motive,except that he was broke.
+
+88
+00:07:04,900 --> 00:07:06,320
+Maybe she found out after the fact.
+
+89
+00:07:06,330 --> 00:07:09,630
+Even if she's not the doer,first wives know all the dirt.
+
+90
+00:07:11,630 --> 00:07:12,460
+Excuse me.
+
+91
+00:07:19,950 --> 00:07:21,770
+Hey,ally, everything okay?
+
+92
+00:07:22,560 --> 00:07:24,800
+I don't know. It's your brother.
+
+93
+00:07:25,480 --> 00:07:26,920
+He stopped going to work.
+
+94
+00:07:26,930 --> 00:07:27,680
+What?
+
+95
+00:07:27,690 --> 00:07:29,610
+Mike's been in bed for three days straight.
+
+96
+00:07:29,620 --> 00:07:30,950
+So he's sick?
+
+97
+00:07:30,960 --> 00:07:32,990
+Not according to the doctor.
+
+98
+00:07:34,980 --> 00:07:37,940
+He hasn't been the same since that day you came over.
+
+99
+00:07:38,390 --> 00:07:39,470
+What are you talking about?
+
+100
+00:07:39,480 --> 00:07:40,660
+What'd you say to him,scotty?
+
+101
+00:07:40,670 --> 00:07:43,130
+Nothing.We were just talking.
+
+102
+00:07:46,360 --> 00:07:48,200
+I'm scared,okay?
+
+103
+00:07:48,690 --> 00:07:52,170
+he sleeps all day.At night,he wanders around the house like a ghost.
+
+104
+00:07:52,180 --> 00:07:56,160
+Okay,listen... I'll stop by today.
+
+105
+00:07:56,420 --> 00:07:57,200
+Okay.
+
+106
+00:07:57,210 --> 00:07:58,930
+Mike will be fine.
+
+107
+00:08:07,210 --> 00:08:10,500
+We married young. He was a free spirit.
+
+108
+00:08:10,530 --> 00:08:14,890
+I wanted kids,a simple,quiet life,and he wanted...
+
+109
+00:08:14,900 --> 00:08:16,560
+to rock and roll?
+
+110
+00:08:17,460 --> 00:08:19,360
+my father was a musician.
+
+111
+00:08:19,370 --> 00:08:22,550
+I knew firsthand how tough a show business life could be.
+
+112
+00:08:22,830 --> 00:08:25,190
+Did you stay in touch with your ex-husband much?
+
+113
+00:08:25,200 --> 00:08:26,830
+Oh,goodness,no.
+
+114
+00:08:27,400 --> 00:08:32,530
+I remarried,started a family.I didn't want the likes of john around.
+
+115
+00:08:32,910 --> 00:08:34,960
+Where were you the night he was shot,dottie?
+
+116
+00:08:35,430 --> 00:08:38,060
+Oh,really,now. I was at home with my family.
+
+117
+00:08:38,340 --> 00:08:40,080
+When did you last see john?
+
+118
+00:08:41,270 --> 00:08:43,090
+a month before he died.
+
+119
+00:08:43,620 --> 00:08:46,160
+13 years since I'd last seen him.
+
+120
+00:08:46,170 --> 00:08:47,510
+I was selling our house.
+
+121
+00:08:47,520 --> 00:08:48,660
+He agree to that?
+
+122
+00:08:49,930 --> 00:08:52,130
+It was bought with my money,but back then
+
+123
+00:08:52,140 --> 00:08:55,710
+a woman could only get a loan if a man cosigned.
+
+124
+00:08:56,280 --> 00:08:57,750
+Different times.
+
+125
+00:08:57,820 --> 00:08:59,710
+How was john when you saw him?
+
+126
+00:09:01,590 --> 00:09:05,420
+Same as always.In the middle of a mess.
+
+127
+00:09:06,280 --> 00:09:09,170
+asthat's right,kids,zip toothpaste!
+
+128
+00:09:09,350 --> 00:09:10,880
+Keep your smile hip.
+
+129
+00:09:13,100 --> 00:09:14,150
+brush with zip.
+
+130
+00:09:22,760 --> 00:09:23,750
+How you been,dot?
+
+131
+00:09:23,760 --> 00:09:24,880
+Good.
+
+132
+00:09:25,510 --> 00:09:27,750
+- When you called,I thought... 
+- just sign the bottom,john.
+
+133
+00:09:35,130 --> 00:09:36,060
+How's the family?
+
+134
+00:09:36,070 --> 00:09:37,390
+Everyone's fine.
+
+135
+00:09:41,140 --> 00:09:43,350
+You know,I heard a record by your dad the other day.
+
+136
+00:09:44,650 --> 00:09:46,470
+he sound like a drunken fool?
+
+137
+00:09:47,080 --> 00:09:49,210
+No,sounded like a great bass player.
+
+138
+00:09:49,650 --> 00:09:53,020
+You promised to play the song i wrote,hawk! What the hell happened?
+
+139
+00:09:53,030 --> 00:09:53,810
+You been drinking?
+
+140
+00:09:53,820 --> 00:09:58,440
+I had a bunch of friends and this girl sally from the roller rink.
+
+141
+00:09:58,680 --> 00:10:02,000
+They were all at the drive-in tuned into the show,waiting to hear my song.
+
+142
+00:10:02,010 --> 00:10:03,030
+"Belly button rock"?
+
+143
+00:10:03,040 --> 00:10:05,610
+Yeah,that's it. What happened?
+
+144
+00:10:05,620 --> 00:10:06,980
+I listened to it.
+
+145
+00:10:06,980 --> 00:10:07,750
+And?
+
+146
+00:10:07,760 --> 00:10:09,200
+It's not so hot,bones.
+
+147
+00:10:09,850 --> 00:10:11,360
+You saying I got no talent?
+
+148
+00:10:11,370 --> 00:10:13,480
+No. I'm saying I only play what I like.
+
+149
+00:10:13,490 --> 00:10:15,010
+Baloney sandwich,hawk.
+
+150
+00:10:15,020 --> 00:10:17,480
+You play whatever the record company pays you to play.
+
+151
+00:10:17,490 --> 00:10:18,880
+You know that is not true.
+
+152
+00:10:20,380 --> 00:10:24,610
+How 'bout i get my dad to buy you one of them new skylarks,huh?
+
+153
+00:10:25,320 --> 00:10:26,320
+You play my song then?
+
+154
+00:10:26,330 --> 00:10:28,460
+I'm not for sale. I never was. I never will be.
+
+155
+00:10:28,470 --> 00:10:30,310
+I'm sorry you had to see this,donna.
+
+156
+00:10:30,580 --> 00:10:33,340
+But I told sally I'd be on the radio.
+
+157
+00:10:33,350 --> 00:10:35,370
+I'd do anything for you,bones,anything to help you,
+
+158
+00:10:35,380 --> 00:10:38,530
+but you know how I am about the music,right?
+
+159
+00:10:39,820 --> 00:10:41,390
+All right,then. Go on,now.
+
+160
+00:10:41,650 --> 00:10:44,050
+Sally will still dig you.Rock 'n' roll star or not.
+
+161
+00:10:51,630 --> 00:10:53,280
+Better lock up that gun of yours,hawk.
+
+162
+00:10:53,290 --> 00:10:53,920
+Excuse me?
+
+163
+00:10:53,930 --> 00:10:55,420
+You never know who could get to it.
+
+164
+00:10:55,430 --> 00:10:56,940
+Is that a threat,buddy?
+
+165
+00:10:57,810 --> 00:11:01,610
+You can't keep stomping on people's dreams all the time and get away with it.
+
+166
+00:11:06,620 --> 00:11:07,890
+Whose gun was that?
+
+167
+00:11:08,030 --> 00:11:10,930
+John'S. Always kept it at work.
+
+168
+00:11:11,180 --> 00:11:13,510
+So many crazies out there.
+
+169
+00:11:14,690 --> 00:11:16,650
+Sounds like bones was one of them.
+
+170
+00:11:28,440 --> 00:11:30,910
+Heard you had a meltdown with your boss,the hawk.
+
+171
+00:11:32,250 --> 00:11:33,450
+I had dreams.
+
+172
+00:11:34,110 --> 00:11:36,810
+Thought hawk didn't appreciate the next elvis.
+
+173
+00:11:37,210 --> 00:11:39,040
+Well,maybe you found his gun,
+
+174
+00:11:39,950 --> 00:11:41,510
+made him appreciate you.
+
+175
+00:11:42,260 --> 00:11:45,710
+came back the next day,hat in hand,and hawk forgave me.
+
+176
+00:11:45,720 --> 00:11:47,780
+You were at the station the night he was killed. 
+
+177
+00:11:47,790 --> 00:11:50,840
+I was,uh,djing a party that night,so I left.
+
+178
+00:11:51,340 --> 00:11:52,920
+Plenty of witnesses.
+
+179
+00:11:53,070 --> 00:11:58,500
+Well,the truth is,his career advice saved me from years of futility.
+
+180
+00:11:58,510 --> 00:12:00,130
+Your songs were that bad?
+
+181
+00:12:00,540 --> 00:12:01,610
+terrible.
+
+182
+00:12:02,590 --> 00:12:05,260
+But I could still recognize talent in others.
+
+183
+00:12:05,270 --> 00:12:06,650
+Built a career on that.
+
+184
+00:12:06,800 --> 00:12:08,280
+Congratulations.
+
+185
+00:12:08,710 --> 00:12:12,050
+Yeah. I learned what music really was from the hawk.
+
+186
+00:12:12,630 --> 00:12:14,840
+one in a million,that guy.
+
+187
+00:12:15,370 --> 00:12:16,990
+Think of anyone who'd want to hurt him?
+
+188
+00:12:18,160 --> 00:12:22,100
+Well... lot of people didn't care for him,sure,
+
+189
+00:12:23,290 --> 00:12:27,940
+but one guy had more than a garden-variety beef with him.
+
+190
+00:12:34,230 --> 00:12:37,880
+Grab your partner grab your gal and rock...
+
+191
+00:12:38,980 --> 00:12:40,520
+you feel that beat?
+
+192
+00:12:41,090 --> 00:12:42,830
+Now when this song kicks in,
+
+193
+00:12:42,840 --> 00:12:45,980
+I want you kids to shake it.
+
+194
+00:12:47,450 --> 00:12:48,830
+can you shake it?
+
+195
+00:12:51,360 --> 00:12:55,550
+I don't think you heard me.I said,can you shake it?!
+
+196
+00:12:57,440 --> 00:13:00,120
+Well,all right! Let's go!
+
+197
+00:13:31,290 --> 00:13:32,570
+hey,hawkins?
+
+198
+00:13:34,520 --> 00:13:35,940
+Your mama colored?
+
+199
+00:13:36,360 --> 00:13:37,010
+Come again?
+
+200
+00:13:37,020 --> 00:13:40,870
+I figure she must be,you like playing this jumpity-squawk so much.
+
+201
+00:13:40,880 --> 00:13:41,750
+It's rock and roll.
+
+202
+00:13:41,760 --> 00:13:44,320
+Why don't you take the stick out of your tail and enjoy the beat?
+
+203
+00:13:44,470 --> 00:13:45,910
+Carli chester?
+
+204
+00:13:46,000 --> 00:13:47,080
+You recall that name?
+
+205
+00:13:47,090 --> 00:13:49,110
+No. Should I?
+
+206
+00:13:49,120 --> 00:13:52,170
+She's one of the girls you got out there dancing like a whore.
+
+207
+00:13:52,190 --> 00:13:55,630
+Take a look,mister.Those kids are alive,cause they can feel the music.
+
+208
+00:13:55,640 --> 00:13:57,800
+Carli is 16 years old.
+
+209
+00:13:58,280 --> 00:14:01,090
+She's my little girl,and she's in trouble.
+
+210
+00:14:01,720 --> 00:14:02,750
+Trouble?
+
+211
+00:14:02,760 --> 00:14:05,240
+Month ago she went to one of your sock hops.
+
+212
+00:14:05,450 --> 00:14:07,740
+Says she met you at a party afterwards.
+
+213
+00:14:07,750 --> 00:14:09,380
+I meet a lot of fans.
+
+214
+00:14:09,390 --> 00:14:11,540
+You did more than meet my daughter.
+
+215
+00:14:12,080 --> 00:14:14,090
+I'm afraid you've been misinformed.
+
+216
+00:14:14,350 --> 00:14:16,460
+You're calling my little girl a liar,sir?
+
+217
+00:14:16,470 --> 00:14:18,000
+No,but I'm not the father.
+
+218
+00:14:18,010 --> 00:14:19,990
+You either take responsibility,
+
+219
+00:14:20,460 --> 00:14:22,900
+or I'm gonna fit you for a pine-jacket.
+
+220
+00:14:23,040 --> 00:14:24,670
+Understand me,buster?
+
+221
+00:14:28,720 --> 00:14:30,060
+turn it up,bones. 
+
+222
+00:14:30,650 --> 00:14:31,480
+You got it,hawk!
+
+223
+00:14:36,040 --> 00:14:38,810
+teeny-boppers always did love the hawk.
+
+224
+00:14:38,820 --> 00:14:41,070
+Sounds like he did some lovin' back.
+
+225
+00:14:41,840 --> 00:14:43,650
+Kind that gets you arrested.
+
+226
+00:14:43,660 --> 00:14:45,360
+Or shot in the head with a .38.
+
+227
+00:14:55,440 --> 00:14:58,850
+You recall a rock dj known as the hawk,lloyd?
+
+228
+00:14:58,870 --> 00:15:00,830
+Never did care for that kind of music.
+
+229
+00:15:00,840 --> 00:15:03,770
+He got your daughter pregnant back in '58.
+
+230
+00:15:04,360 --> 00:15:05,860
+I was wrong about that.
+
+231
+00:15:05,870 --> 00:15:06,750
+How so?
+
+232
+00:15:06,760 --> 00:15:08,180
+My daughter lied.
+
+233
+00:15:09,150 --> 00:15:13,400
+It was her moron boyfriend who's now my moron son-in-law.
+
+234
+00:15:15,350 --> 00:15:17,470
+Thought hawkins killed himself.
+
+235
+00:15:18,030 --> 00:15:19,800
+He was murdered.
+
+236
+00:15:20,550 --> 00:15:21,580
+Not surprised to hear it.
+
+237
+00:15:21,590 --> 00:15:22,920
+That right?
+
+238
+00:15:22,930 --> 00:15:25,730
+I saw him in a neighborhood diner time to time.
+
+239
+00:15:26,000 --> 00:15:28,040
+Two ships passing in the night.
+
+240
+00:15:28,120 --> 00:15:29,560
+You want to elaborate?
+
+241
+00:15:30,770 --> 00:15:32,940
+A few months before he died,
+
+242
+00:15:33,420 --> 00:15:37,280
+I took my family to breakfast before sunday services.
+
+243
+00:15:37,680 --> 00:15:39,060
+He was there.
+
+244
+00:15:39,130 --> 00:15:40,770
+Coming off of a late night?
+
+245
+00:15:41,130 --> 00:15:43,390
+And getting into trouble with a young girl again.
+
+246
+00:15:59,280 --> 00:16:01,080
+You know what they say about a racetrack?
+
+247
+00:16:01,740 --> 00:16:03,650
+It's a place where windows clean people.
+
+248
+00:16:03,760 --> 00:16:05,000
+That right?
+
+249
+00:16:06,890 --> 00:16:08,660
+You look familiar. Have we met?
+
+250
+00:16:08,790 --> 00:16:10,010
+On the radio.
+
+251
+00:16:10,620 --> 00:16:13,170
+I'm your #1 fan. You can call me jenny.
+
+252
+00:16:13,950 --> 00:16:16,440
+Jenny. It's a nice name.
+
+253
+00:16:18,100 --> 00:16:20,710
+People said you come here a lot.I hope I'm not bothering you.
+
+254
+00:16:20,760 --> 00:16:22,070
+Not at all,kid.
+
+255
+00:16:22,800 --> 00:16:25,010
+Will you play "my kind of dream" for me tonight?
+
+256
+00:16:25,440 --> 00:16:26,270
+Sure.
+
+257
+00:16:29,580 --> 00:16:31,110
+what's your kind of dream,jenny?
+
+258
+00:16:31,350 --> 00:16:32,520
+Gettin' out of this town.
+
+259
+00:16:32,530 --> 00:16:33,250
+Goin' where?
+
+260
+00:16:33,260 --> 00:16:34,210
+Anywhere.
+
+261
+00:16:34,220 --> 00:16:37,160
+It's a nice place-  anywhere.I've been there myself many times.
+
+262
+00:16:37,170 --> 00:16:39,480
+It's got to be better than secretarial school.
+
+263
+00:16:41,000 --> 00:16:42,310
+That so bad?
+
+264
+00:16:42,680 --> 00:16:44,390
+It's a train ride to squaresville.
+
+265
+00:16:45,180 --> 00:16:46,920
+see,I wt to be a singer.
+
+266
+00:16:47,770 --> 00:16:49,620
+Get in line. That's a hard dream.
+
+267
+00:16:49,630 --> 00:16:52,420
+But it's mine.People in line aren't my problem.
+
+268
+00:16:52,430 --> 00:16:54,010
+You sure are feisty,jenny.
+
+269
+00:16:54,060 --> 00:16:55,220
+Born that way.
+
+270
+00:16:59,200 --> 00:17:00,480
+what the hell you doing with gramps?
+
+271
+00:17:00,490 --> 00:17:01,950
+None of your business,skiz.
+
+272
+00:17:02,050 --> 00:17:02,780
+We're going now.
+
+273
+00:17:02,790 --> 00:17:03,660
+Get off of me!
+
+274
+00:17:03,670 --> 00:17:05,940
+Why don't you take a walk? Cool off.
+
+275
+00:17:07,950 --> 00:17:10,800
+Why don't you keep your nose out of it,old man,before I break it for you?
+
+276
+00:17:12,070 --> 00:17:14,150
+Kid,you rode in here on a bicycle.
+
+277
+00:17:14,990 --> 00:17:16,600
+I'm quaking in my boots.
+
+278
+00:17:20,160 --> 00:17:23,480
+I'm staying,skiz,so scat.
+
+279
+00:17:23,650 --> 00:17:24,870
+Woot de do.
+
+280
+00:17:38,230 --> 00:17:40,820
+This skiz clown-- know his real name?
+
+281
+00:17:40,830 --> 00:17:42,340
+Scott sienkovic.
+
+282
+00:17:42,790 --> 00:17:47,180
+I remember because he made the front page of the papers a few months later.
+
+283
+00:17:47,190 --> 00:17:48,890
+Boy scout of the year?
+
+284
+00:17:49,940 --> 00:17:51,490
+Armed robbery.
+
+285
+00:17:52,020 --> 00:17:53,510
+Shot a bank teller.
+
+286
+00:17:58,690 --> 00:18:01,410
+Had it out for hawkins big time,skiz.
+
+287
+00:18:02,770 --> 00:18:04,400
+And we know you're not shy with a firearm.
+
+288
+00:18:04,410 --> 00:18:07,280
+Grown man going after a girl half his age.
+
+289
+00:18:07,550 --> 00:18:09,130
+Guy deserved to get shot.
+
+290
+00:18:09,460 --> 00:18:11,690
+You want to tell us where you were the night he died?
+
+291
+00:18:11,910 --> 00:18:16,970
+Bowling at the thunderbird lanes.Me and 100 other kids heard that needle skip.
+
+292
+00:18:17,350 --> 00:18:18,900
+we'll check that out,skiz.
+
+293
+00:18:18,910 --> 00:18:20,410
+Woot de do.
+
+294
+00:18:21,060 --> 00:18:23,630
+This jenny-- she your girlfriend long?
+
+295
+00:18:23,780 --> 00:18:27,280
+Couple of months,before she got all obsessed with hawkins.
+
+296
+00:18:27,290 --> 00:18:28,250
+How obsessed?
+
+297
+00:18:28,260 --> 00:18:30,060
+She kept calling the radio,
+
+298
+00:18:30,070 --> 00:18:31,200
+writing him letters,
+
+299
+00:18:31,210 --> 00:18:32,770
+talking about him nonstop.
+
+300
+00:18:32,780 --> 00:18:34,430
+You know,real psycho stuff.
+
+301
+00:18:34,440 --> 00:18:35,680
+You think they had an affair?
+
+302
+00:18:35,690 --> 00:18:37,180
+Must have.
+
+303
+00:18:37,190 --> 00:18:40,790
+Why else would she give two pennies about that loser?
+
+304
+00:18:40,800 --> 00:18:42,730
+Sounds like it was a one-way street.
+
+305
+00:18:42,790 --> 00:18:45,510
+She got crazier and crazier over it.
+
+306
+00:18:45,530 --> 00:18:48,870
+One night we were in front of a real rock star,
+
+307
+00:18:48,880 --> 00:18:51,900
+and as usual,all she cared about was the hawk.
+
+308
+00:18:53,980 --> 00:18:57,120
+All right! Now here's the one you've been waiting for--
+
+309
+00:18:57,330 --> 00:19:00,150
+little richard!
+
+310
+00:19:20,730 --> 00:19:22,370
+skiz,you got to help me get to the hawk.
+
+311
+00:19:22,380 --> 00:19:23,500
+Stop acting nutso,jenny.
+
+312
+00:19:23,510 --> 00:19:25,160
+I got to see him. You don't understand!
+
+313
+00:19:25,170 --> 00:19:26,330
+He's an old coot. Why do you care?
+
+314
+00:19:26,340 --> 00:19:28,330
+Don't talk about him like that!
+
+315
+00:19:28,660 --> 00:19:30,770
+You're on your own,dollface.
+
+316
+00:19:33,640 --> 00:19:36,130
+do this,we'll go park later.
+
+317
+00:19:37,650 --> 00:19:38,530
+Promise?
+
+318
+00:19:38,540 --> 00:19:40,440
+You helping me get to him or not?
+
+319
+00:19:40,930 --> 00:19:41,820
+Woot de do.
+
+320
+00:19:49,330 --> 00:19:50,620
+We got to talk to the hawk.
+
+321
+00:19:51,110 --> 00:19:52,870
+Yeah,and I got a date with jayne mansfield.
+
+322
+00:19:52,890 --> 00:19:53,670
+You think you're funny?
+
+323
+00:19:53,680 --> 00:19:54,480
+Hawk!
+
+324
+00:19:58,370 --> 00:20:00,750
+hey! Why'd you stop taking my calls?
+
+325
+00:20:00,760 --> 00:20:01,730
+I've been busy,jenny.
+
+326
+00:20:01,740 --> 00:20:03,340
+You shouldn't even be back here,all right? 
+
+327
+00:20:03,350 --> 00:20:04,830
+I just...I just want to talk.
+
+328
+00:20:05,580 --> 00:20:06,760
+About what?
+
+329
+00:20:06,770 --> 00:20:07,690
+Us.
+
+330
+00:20:07,700 --> 00:20:08,750
+Us?
+
+331
+00:20:08,760 --> 00:20:11,400
+Jenny,there is no us.
+
+332
+00:20:15,200 --> 00:20:16,680
+I made it for you.
+
+333
+00:20:22,770 --> 00:20:25,910
+play it. You'll understand everything.
+
+334
+00:20:29,430 --> 00:20:31,050
+I'll never forget you.
+
+335
+00:20:39,490 --> 00:20:40,670
+"Scarlet rose."
+
+336
+00:20:41,120 --> 00:20:44,090
+Same song hawk was playing on the radio when he was killed.
+
+337
+00:20:45,020 --> 00:20:46,600
+Know where we can find this jenny?
+
+338
+00:20:46,620 --> 00:20:49,820
+Ran into her after I got out of jail.
+
+339
+00:20:50,320 --> 00:20:52,840
+All married.Mrs. Jenny monahan.
+
+340
+00:20:52,850 --> 00:20:55,350
+Pretended like she didn't know me.
+
+341
+00:20:55,780 --> 00:20:57,280
+That's a surprise.
+
+342
+00:20:58,590 --> 00:20:59,680
+Can I get out of here?
+
+343
+00:20:59,690 --> 00:21:00,950
+Yeah.
+
+344
+00:21:04,080 --> 00:21:06,310
+Sounds like we got a groupie gone wild.
+
+345
+00:21:06,970 --> 00:21:09,840
+At 17,you think your first love's your last.
+
+346
+00:21:09,880 --> 00:21:12,610
+Yeah. Every fan knew where the hawk broadcast.
+
+347
+00:21:12,620 --> 00:21:14,410
+I wonder if jenny found her way there.
+
+348
+00:21:14,420 --> 00:21:16,220
+And found the hawk's gun.
+
+349
+00:21:30,470 --> 00:21:31,890
+what's going on,mike?
+
+350
+00:21:32,440 --> 00:21:33,530
+What do you mean?
+
+351
+00:21:34,820 --> 00:21:35,930
+This.
+
+352
+00:21:37,960 --> 00:21:40,090
+It's got to be be some kind of virus.
+
+353
+00:21:40,200 --> 00:21:41,670
+Think I can afford to miss work?
+
+354
+00:21:41,680 --> 00:21:43,250
+The doc says you're okay physically.
+
+355
+00:21:43,260 --> 00:21:45,720
+Oh,he's just pissed I'm late with his bills.
+
+356
+00:21:55,100 --> 00:21:57,790
+da called me again.
+
+357
+00:21:58,620 --> 00:22:01,010
+Yeah,this coach fitzpatrick thing. 
+
+358
+00:22:04,190 --> 00:22:07,520
+The case is... falling apart.
+
+359
+00:22:09,200 --> 00:22:14,330
+The only guy who agreed to testify is getting scared.
+
+360
+00:22:14,940 --> 00:22:17,250
+He might go south on the stand.
+
+361
+00:22:19,720 --> 00:22:21,390
+Judge could toss it.
+
+362
+00:22:25,330 --> 00:22:27,270
+- You sure you don't remember anything?  
+- No way.
+
+363
+00:22:27,280 --> 00:22:28,900
+I ask because...
+
+364
+00:22:30,440 --> 00:22:33,210
+there was this one night you came home from practice.
+
+365
+00:22:33,220 --> 00:22:35,170
+Oh,god,scotty,that was a long time ago.
+
+366
+00:22:35,180 --> 00:22:40,550
+Yeah,but I remember,'cause... you were pretty messed up.
+
+367
+00:22:41,700 --> 00:22:43,500
+You slept in your clothes. 
+
+368
+00:22:51,470 --> 00:22:52,680
+you okay,mike?
+
+369
+00:22:54,100 --> 00:22:55,320
+I'm fine.
+
+370
+00:22:55,800 --> 00:22:57,120
+Go to sleep.
+
+371
+00:22:58,630 --> 00:23:00,620
+Something happen at practice?
+
+372
+00:23:01,850 --> 00:23:03,050
+No.
+
+373
+00:23:05,640 --> 00:23:07,050
+Hey,why are you being so quiet?
+
+374
+00:23:07,060 --> 00:23:09,130
+Just don't go there no more,okay?
+
+375
+00:23:09,430 --> 00:23:11,100
+Don't go near the coach.
+
+376
+00:23:12,330 --> 00:23:13,550
+Why?
+
+377
+00:23:18,940 --> 00:23:19,960
+You want to play guess?
+
+378
+00:23:23,460 --> 00:23:24,860
+Come on.
+
+379
+00:23:25,250 --> 00:23:26,550
+Guess this song.
+
+380
+00:23:37,710 --> 00:23:39,110
+you got it?
+
+381
+00:23:40,450 --> 00:23:43,610
+Scotty,I'm too tired,okay?
+
+382
+00:23:45,310 --> 00:23:46,590
+Okay.
+
+383
+00:23:46,970 --> 00:23:48,510
+We'll play tomorrow night.
+
+384
+00:23:50,340 --> 00:23:52,190
+All right. Night,mikey.
+
+385
+00:23:54,060 --> 00:23:54,790
+Night.
+
+386
+00:24:11,620 --> 00:24:13,190
+I don't remember that night.
+
+387
+00:24:14,630 --> 00:24:16,010
+Well,what about that song?
+
+388
+00:24:16,800 --> 00:24:18,040
+No.
+
+389
+00:24:18,970 --> 00:24:20,090
+You're sure?
+
+390
+00:24:20,140 --> 00:24:21,080
+I'm tired,scotty.
+
+391
+00:24:21,090 --> 00:24:24,340
+That was the only time I ever saw you get so... bummed out.
+
+392
+00:24:24,350 --> 00:24:26,270
+I mean,you were crying...
+
+393
+00:24:26,480 --> 00:24:30,350
+if I was bawling,it was probably because that weasel jay shortz cheap-shotted me.
+
+394
+00:24:32,750 --> 00:24:35,940
+Yeah. Probably.
+
+395
+00:24:36,080 --> 00:24:38,860
+We'll talk later,all right? I'm just beat.
+
+396
+00:24:43,510 --> 00:24:44,680
+Okay.
+
+397
+00:24:52,260 --> 00:24:55,140
+you don't get better soon,I'm going to pound you.
+
+398
+00:24:55,150 --> 00:24:57,140
+Oh,yeah,that'll be the day.
+
+399
+00:25:34,530 --> 00:25:35,460
+How about a little music?
+
+400
+00:25:35,470 --> 00:25:36,700
+May I?
+
+401
+00:26:22,390 --> 00:26:24,730
+interesting lyrics you wrote for the hawk.
+
+402
+00:26:24,760 --> 00:26:26,190
+How'd you get that record?
+
+403
+00:26:26,510 --> 00:26:28,520
+Bones kept all of hawk's stuff,
+
+404
+00:26:28,960 --> 00:26:30,980
+including the song he was playing when you killed him.
+
+405
+00:26:31,170 --> 00:26:33,630
+Me? Oh,you're joking,right?
+
+406
+00:26:33,660 --> 00:26:36,340
+Back then it was called a teenage crush.
+
+407
+00:26:36,350 --> 00:26:37,930
+Now we call it stalking.
+
+408
+00:26:37,940 --> 00:26:41,330
+I was a lonely,confused kid, not a murderer.
+
+409
+00:26:41,340 --> 00:26:43,240
+Can't just take your word for it,jenny.
+
+410
+00:26:43,250 --> 00:26:45,740
+I was at home that night with my sisters.
+
+411
+00:26:46,330 --> 00:26:50,560
+Believe me,hawk had bigger problems than a lovesick teenybopper.
+
+412
+00:26:50,570 --> 00:26:52,230
+What kind of problems we talking?
+
+413
+00:26:54,370 --> 00:26:59,370
+One night... I snuck into the station to see him.
+
+414
+00:26:59,960 --> 00:27:01,920
+I got an idea of what he was up against.
+
+415
+00:27:01,930 --> 00:27:02,710
+Meaning what?
+
+416
+00:27:02,720 --> 00:27:04,650
+The record companies.
+
+417
+00:27:04,910 --> 00:27:06,900
+They were always trying to make him take payola.
+
+418
+00:27:06,910 --> 00:27:09,870
+Hawk doesn't sound like the kind of dj that would take money to play a song.
+
+419
+00:27:09,880 --> 00:27:12,260
+Well,that didn't stop them from trying.
+
+420
+00:27:20,140 --> 00:27:21,150
+Thanks,ben.
+
+421
+00:27:21,620 --> 00:27:22,740
+Didn't know you were buying dinner tonight.
+
+422
+00:27:22,750 --> 00:27:26,820
+I sent you a record last week,expected it on the air by now.
+
+423
+00:27:27,920 --> 00:27:28,710
+I'm not for sale.
+
+424
+00:27:28,720 --> 00:27:30,270
+Everyone's for sale.
+
+425
+00:27:31,140 --> 00:27:33,110
+Funny,I heard you play one of my groups today.
+
+426
+00:27:33,460 --> 00:27:35,180
+Hey,I got nothing against your label.
+
+427
+00:27:35,190 --> 00:27:37,340
+Was it that new warner mack tune? That's pretty hot.
+
+428
+00:27:37,420 --> 00:27:39,430
+No,the darts,"square town."
+
+429
+00:27:39,440 --> 00:27:41,330
+Oh,bones picked that one.
+
+430
+00:27:41,740 --> 00:27:43,180
+I give him a pick each day.
+
+431
+00:27:43,190 --> 00:27:44,630
+And he chose mine.
+
+432
+00:27:50,840 --> 00:27:53,000
+are you saying that bones took money to play a song?
+
+433
+00:27:53,010 --> 00:27:55,310
+Bones understands the game.
+
+434
+00:27:55,890 --> 00:27:57,770
+Djs like you are dinosaurs.
+
+435
+00:27:58,010 --> 00:27:59,050
+That right?
+
+436
+00:27:59,700 --> 00:28:01,740
+We've got the money,the artists,the control.
+
+437
+00:28:01,750 --> 00:28:04,960
+Radio is just my personal handshake to the buying public.
+
+438
+00:28:04,970 --> 00:28:06,590
+And if the buying public doesn't want it?
+
+439
+00:28:06,600 --> 00:28:10,220
+One choice of entree you eat, what's on the plate. 
+
+440
+00:28:10,230 --> 00:28:13,280
+You know what?People like you take everything that is real and good
+
+441
+00:28:13,290 --> 00:28:15,930
+and you turn it into tinsel.
+
+442
+00:28:15,940 --> 00:28:17,500
+But the worst part...
+
+443
+00:28:17,960 --> 00:28:22,520
+tinsel-man...  is that you don't even know it.
+
+444
+00:28:23,070 --> 00:28:25,600
+Oh,so you're the big shot celebrity with all the answers,that it?
+
+445
+00:28:25,610 --> 00:28:27,300
+No,I'm just like the kids.
+
+446
+00:28:27,310 --> 00:28:30,000
+I'm a fan. I'm a damned fan of the music.
+
+447
+00:28:30,010 --> 00:28:33,630
+Now,if you will excuse me,I have to sell some toothpaste.
+
+448
+00:28:33,640 --> 00:28:34,960
+You give my best to bones.
+
+449
+00:28:35,550 --> 00:28:37,840
+That's right! Zip toothpaste!
+
+450
+00:28:38,270 --> 00:28:40,050
+If you want to keep your smile hip,
+
+451
+00:28:40,060 --> 00:28:42,140
+you'd better brush with some zip!
+
+452
+00:28:50,770 --> 00:28:53,340
+Gave up the singing career then and there.
+
+453
+00:28:53,350 --> 00:28:55,310
+Saw how cutthroat it was.
+
+454
+00:28:55,520 --> 00:28:57,410
+That the last time you saw the hawk?
+
+455
+00:28:58,240 --> 00:29:00,070
+He looked crushed.
+
+456
+00:29:00,080 --> 00:29:02,160
+So the hawk knew bones was on the take.
+
+457
+00:29:02,170 --> 00:29:04,930
+And maybe hawk was going to do something about it.
+
+458
+00:29:08,200 --> 00:29:13,280
+Your career is over if authorities knew you were taking payola,right,bones?
+
+459
+00:29:13,340 --> 00:29:17,320
+Fcc was cracking down,lot of people's lives ruined over that.
+
+460
+00:29:18,230 --> 00:29:19,480
+You can't prove I took money.
+
+461
+00:29:19,490 --> 00:29:21,090
+We don't care about payola in '58.
+
+462
+00:29:21,100 --> 00:29:23,490
+We care about who killed john hawkins.
+
+463
+00:29:23,900 --> 00:29:25,640
+Hawk confront you on what you did?
+
+464
+00:29:25,740 --> 00:29:27,470
+The same night he found out.
+
+465
+00:29:27,650 --> 00:29:28,810
+Keep talking.
+
+466
+00:29:29,460 --> 00:29:31,350
+I never meant to betray him.
+
+467
+00:29:32,280 --> 00:29:33,780
+But you did,bones.
+
+468
+00:29:34,410 --> 00:29:35,810
+It didn't matter.
+
+469
+00:29:36,780 --> 00:29:39,050
+Something had already changed in him.
+
+470
+00:29:42,120 --> 00:29:43,550
+If I get my own show,
+
+471
+00:29:43,960 --> 00:29:46,380
+you girls are my first guests.
+
+472
+00:29:53,040 --> 00:29:55,040
+Bones,we got to talk.
+
+473
+00:29:55,050 --> 00:29:56,970
+Hawk! Have a seat.
+
+474
+00:29:57,250 --> 00:30:02,270
+This is,uh,this is gigi,and this is lulu.
+
+475
+00:30:02,490 --> 00:30:04,190
+Gilugilu.
+
+476
+00:30:04,200 --> 00:30:05,440
+You mind,girls?
+
+477
+00:30:06,200 --> 00:30:07,330
+We need some privacy.
+
+478
+00:30:15,400 --> 00:30:16,290
+hurry back.
+
+479
+00:30:18,330 --> 00:30:19,730
+What are you doing here,bones?
+
+480
+00:30:19,790 --> 00:30:22,680
+Mr. Ockley invited me.This is some shindig,huh?
+
+481
+00:30:22,690 --> 00:30:25,630
+I got two chicks after me. Can you believe that?
+
+482
+00:30:25,640 --> 00:30:27,380
+They're hookers,bones.
+
+483
+00:30:29,090 --> 00:30:30,360
+Wh-what?
+
+484
+00:30:30,790 --> 00:30:34,190
+No,lulu's A dance student, and gigi's A...
+
+485
+00:30:34,200 --> 00:30:35,160
+stripper.
+
+486
+00:30:35,900 --> 00:30:37,800
+I've seen her act,umbrellas.
+
+487
+00:30:39,640 --> 00:30:40,270
+you're fooling.
+
+488
+00:30:40,280 --> 00:30:42,920
+I know you took money to play that darts song.
+
+489
+00:30:46,960 --> 00:30:48,660
+It was just one song.
+
+490
+00:30:48,670 --> 00:30:51,480
+That one song means that they've got me over a barrel.
+
+491
+00:30:51,660 --> 00:30:52,560
+I don't understand...
+
+492
+00:30:52,570 --> 00:30:54,290
+I could go to jail...
+
+493
+00:30:56,580 --> 00:30:58,270
+because of what you did.
+
+494
+00:30:58,590 --> 00:31:01,840
+Mr. Ockley says it's how the game's played.
+
+495
+00:31:01,850 --> 00:31:03,980
+You know what the game is,bones?
+
+496
+00:31:03,990 --> 00:31:07,690
+It's the music and the fans who love it.
+
+497
+00:31:07,700 --> 00:31:09,770
+And then there's all this.
+
+498
+00:31:09,780 --> 00:31:13,630
+The dealmakers,the sellouts,the price of your soul.
+
+499
+00:31:14,640 --> 00:31:16,470
+I'm sorry,hawk.
+
+500
+00:31:17,350 --> 00:31:18,910
+I'm so sorry.
+
+501
+00:31:23,070 --> 00:31:24,570
+What are you gonna do?
+
+502
+00:31:25,170 --> 00:31:26,620
+I don't know,maybe leave philly for a while.
+
+503
+00:31:26,630 --> 00:31:27,530
+What about your show?
+
+504
+00:31:27,540 --> 00:31:29,060
+Aw,to hell with it.
+
+505
+00:31:29,690 --> 00:31:31,070
+To hell with all of this.
+
+506
+00:31:31,860 --> 00:31:34,170
+I got something more important in my life now.
+
+507
+00:31:35,390 --> 00:31:36,520
+Jenny.
+
+508
+00:31:38,620 --> 00:31:39,820
+but she's just a fan.
+
+509
+00:31:39,830 --> 00:31:41,270
+No.
+
+510
+00:31:42,250 --> 00:31:43,930
+She's more than that.
+
+511
+00:31:44,980 --> 00:31:47,420
+Me and her gonna take a little trip out west.
+
+512
+00:31:49,500 --> 00:31:50,590
+Hawk...
+
+513
+00:31:53,450 --> 00:31:55,380
+I just wanted to be a winner. 
+
+514
+00:31:56,900 --> 00:31:58,640
+Like you.
+
+515
+00:31:59,020 --> 00:32:00,460
+You always were,kid.
+
+516
+00:32:14,970 --> 00:32:16,840
+Steep price. We all paid.
+
+517
+00:32:17,040 --> 00:32:18,650
+Some more than others.
+
+518
+00:32:19,110 --> 00:32:21,980
+So jenny and hawk were going away together?
+
+519
+00:32:21,990 --> 00:32:23,630
+That was the plan.
+
+520
+00:32:25,160 --> 00:32:27,120
+But,the next night, hawk was dead.
+
+521
+00:32:29,820 --> 00:32:32,690
+Funny how jenny failed to mention her travel plans with hawk.
+
+522
+00:32:32,700 --> 00:32:34,280
+Failed to mention a lot more than that.
+
+523
+00:32:34,610 --> 00:32:38,400
+Follow me.That documentary dude? He's got nothing on me.
+
+524
+00:32:38,740 --> 00:32:39,590
+Check it out.
+
+525
+00:32:41,890 --> 00:32:43,790
+Lyrics to "scarlet rose."
+
+526
+00:32:44,390 --> 00:32:47,210
+See,the way jenny reacted to that song got me thinking.
+
+527
+00:32:47,220 --> 00:32:48,780
+We already heard the lyrics,nick.
+
+528
+00:32:48,790 --> 00:32:50,710
+Well,I've been on the phone with ascap all day.
+
+529
+00:32:50,720 --> 00:32:51,360
+What's that?
+
+530
+00:32:51,370 --> 00:32:53,310
+The american society of composers.
+
+531
+00:32:53,320 --> 00:32:56,340
+And it turns out there were some lyrics that jenny didn't record.
+
+532
+00:32:56,790 --> 00:32:57,340
+Really?
+
+533
+00:32:58,120 --> 00:33:00,380
+Like that elton john song "daniel"? You know what that's about?
+
+534
+00:33:00,390 --> 00:33:01,930
+A guy missing his brother daniel.
+
+535
+00:33:02,170 --> 00:33:06,450
+Yeah,but you never know the reason why 'cause of the verses he left out about vietnam.
+
+536
+00:33:06,690 --> 00:33:08,360
+"Daniel's" about vietnam?
+
+537
+00:33:08,930 --> 00:33:09,650
+How do you know that?
+
+538
+00:33:09,660 --> 00:33:12,840
+The ascap chick told me.See,changes the entire meaning.
+
+539
+00:33:13,180 --> 00:33:15,700
+So look at the lyrics that jenny didn't record.
+
+540
+00:33:16,070 --> 00:33:19,850
+So dream your sweet little dreams,and I will kiss your tiny cheek
+
+541
+00:33:19,860 --> 00:33:23,500
+and though I must leave now know,that you'll always be with me
+
+542
+00:33:23,510 --> 00:33:26,550
+I offer up this prayer,that everywhere she goes,
+
+543
+00:33:26,560 --> 00:33:31,150
+please protect my baby,my sweet,sweet scarlet rose.
+
+544
+00:33:31,160 --> 00:33:33,740
+Song is registered under the name john hawkins.
+
+545
+00:33:34,120 --> 00:33:35,520
+Circa 1942.
+
+546
+00:33:35,530 --> 00:33:37,820
+So the hawk wrote it,not jenny?
+
+547
+00:33:38,060 --> 00:33:39,530
+Sounds like a lullaby.
+
+548
+00:33:40,550 --> 00:33:42,600
+Well,maybe jenny wasn't his girlfriend.
+
+549
+00:33:43,000 --> 00:33:45,620
+My money says she's his daughter.
+
+550
+00:33:52,060 --> 00:33:55,330
+john hawkins was your father, not your heartthrob.
+
+551
+00:33:55,340 --> 00:33:57,640
+He divorced dottie when you were four.
+
+552
+00:33:58,110 --> 00:33:59,720
+Why keep that secret,jenny?
+
+553
+00:33:59,750 --> 00:34:03,320
+I never considered him my father.He left. I never saw him again.
+
+554
+00:34:03,330 --> 00:34:04,840
+So whyrack him down?
+
+555
+00:34:04,850 --> 00:34:07,980
+Maybe cause you wanted to tell hawk what it felt like to be abandoned?
+
+556
+00:34:07,990 --> 00:34:10,440
+And maybe he rejected you again.
+
+557
+00:34:10,440 --> 00:34:12,790
+So you start sneaking into the station.
+
+558
+00:34:12,800 --> 00:34:14,230
+You're wrong.It wasn't like that...
+
+559
+00:34:14,240 --> 00:34:16,760
+come on,jenny.Your father let you down once,then twice.
+
+560
+00:34:16,770 --> 00:34:17,590
+So you made him pay...
+
+561
+00:34:17,600 --> 00:34:18,740
+no!
+
+562
+00:34:22,580 --> 00:34:25,290
+Finding him was the best thing that ever happened to me.
+
+563
+00:34:26,730 --> 00:34:27,890
+When did you tell him who you were?
+
+564
+00:34:27,900 --> 00:34:31,380
+The night little richard played When I gave him my record.
+
+565
+00:34:33,000 --> 00:34:35,470
+I couldn't leave. I had to find him.
+
+566
+00:35:00,210 --> 00:35:04,470
+I used to play this song for...a little girl I knew.
+
+567
+00:35:06,230 --> 00:35:10,670
+I used to sit her up right next to me like a princess.
+
+568
+00:35:11,400 --> 00:35:13,360
+Was her middle name rosemary?
+
+569
+00:35:14,580 --> 00:35:16,660
+Jennifer rosemary hawkins.
+
+570
+00:35:17,430 --> 00:35:21,950
+I used to tell her that scarlet roses were the prettiest in the world.
+
+571
+00:35:24,710 --> 00:35:26,270
+Just like his little girl.
+
+572
+00:35:26,660 --> 00:35:28,140
+Your scarlet rose.
+
+573
+00:35:29,740 --> 00:35:31,620
+I was so afraid to tell you.
+
+574
+00:35:32,680 --> 00:35:34,450
+So you did it in a song.
+
+575
+00:35:34,560 --> 00:35:35,740
+You listened to it?
+
+576
+00:35:36,900 --> 00:35:38,180
+It's beautiful.
+
+577
+00:35:40,740 --> 00:35:43,900
+Six months ago I found some old photos mom hid away.
+
+578
+00:35:44,850 --> 00:35:46,480
+When we were a family.
+
+579
+00:35:49,370 --> 00:35:50,450
+You remembered me at all?
+
+580
+00:35:50,460 --> 00:35:52,260
+I never forgot you
+
+581
+00:35:54,920 --> 00:35:58,350
+I want you to understand why I had to leave.
+
+582
+00:35:58,360 --> 00:35:59,220
+It doesn't matter now.
+
+583
+00:35:59,230 --> 00:36:03,180
+No.I was living for myself.I was constantly on the move.
+
+584
+00:36:03,190 --> 00:36:06,760
+One year in new york,next year in L.A. 
+
+585
+00:36:07,320 --> 00:36:10,100
+Lots of cigarettes and booze  and...
+
+586
+00:36:13,030 --> 00:36:14,430
+lots of static.
+
+587
+00:36:15,900 --> 00:36:18,270
+Dottie was right. It was...it was no place for a kid.
+
+588
+00:36:18,280 --> 00:36:20,150
+I wouldn't have cared.
+
+589
+00:36:26,950 --> 00:36:30,900
+How 'bout we take that trip to anywhere?
+
+590
+00:36:33,160 --> 00:36:35,050
+Let me make up for lost time.
+
+591
+00:36:37,070 --> 00:36:38,690
+What about your show?
+
+592
+00:36:38,700 --> 00:36:43,560
+I told 'em I was going to take a little time off to spend with my family.
+
+593
+00:36:51,870 --> 00:36:53,230
+We talked about leaving in a couple of weeks.
+
+594
+00:36:54,240 --> 00:36:57,700
+He said I could sing backup with a band in california.
+
+595
+00:36:58,020 --> 00:37:01,210
+But all I cared about was having my dad back.
+
+596
+00:37:03,130 --> 00:37:05,870
+Well,how'd your mom take the news?
+
+597
+00:37:05,880 --> 00:37:07,340
+I never told her.
+
+598
+00:37:07,860 --> 00:37:09,070
+You sure?
+
+599
+00:37:09,760 --> 00:37:11,220
+Might get her upset.
+
+600
+00:37:11,230 --> 00:37:14,410
+That might even go talk to the hawk.
+
+601
+00:37:15,670 --> 00:37:17,150
+Try to stop him.
+
+602
+00:37:19,740 --> 00:37:23,450
+Everything my mom did was because she loved me.
+
+603
+00:37:28,390 --> 00:37:31,770
+I understand you and hawk had a daughter?
+
+604
+00:37:33,170 --> 00:37:36,230
+Jenny was legally adopted by my second husband.
+
+605
+00:37:38,050 --> 00:37:42,690
+Still. It's,uh...strange how you left that out.
+
+606
+00:37:43,040 --> 00:37:46,690
+John was never much of a father. So,uh,it didn't matter.
+
+607
+00:37:48,680 --> 00:37:50,420
+What about your own father?
+
+608
+00:37:52,510 --> 00:37:53,790
+What does he have to do with this?
+
+609
+00:37:53,800 --> 00:37:57,970
+Your mom died young,and your father raised you.
+
+610
+00:37:59,110 --> 00:38:00,730
+The musician?
+
+611
+00:38:01,340 --> 00:38:05,360
+If you can call playing at holiday inns along route 1 being a musician.
+
+612
+00:38:05,370 --> 00:38:08,520
+Died on the road at age 43.
+
+613
+00:38:10,170 --> 00:38:11,150
+Suicide.
+
+614
+00:38:12,930 --> 00:38:17,050
+I can see how jenny wanting to be a singer was upsetting.
+
+615
+00:38:18,180 --> 00:38:19,260
+She wouldn't listen to me.
+
+616
+00:38:19,270 --> 00:38:22,540
+She thought her passion was enough to give it a try.
+
+617
+00:38:22,550 --> 00:38:24,700
+Passion is for fools.
+
+618
+00:38:25,430 --> 00:38:30,180
+Passion is a fifth grade girl finding her dad hanging dead in a motel bathroom.
+
+619
+00:38:30,190 --> 00:38:32,500
+You'd do anything to keep jenny from ending up like that.
+
+620
+00:38:32,510 --> 00:38:34,320
+I was trying to protect her.
+
+621
+00:38:34,330 --> 00:38:36,300
+But she was determined.
+
+622
+00:38:36,310 --> 00:38:40,120
+And she wanted her real dad to help make her dreams come true.
+
+623
+00:38:40,130 --> 00:38:41,680
+And what does he do?
+
+624
+00:38:42,190 --> 00:38:46,000
+He encourages her. Invites her to california to sing.
+
+625
+00:38:46,010 --> 00:38:47,330
+My god.
+
+626
+00:38:49,990 --> 00:38:52,840
+You went to the studio that night,didn't you,dottie?
+
+627
+00:38:55,150 --> 00:38:56,350
+To stop him.
+
+628
+00:39:02,030 --> 00:39:03,700
+I went there to talk.
+
+629
+00:39:04,580 --> 00:39:09,080
+I swear,just to talk.
+
+630
+00:39:23,530 --> 00:39:25,190
+Jenny told me everything.
+
+631
+00:39:26,450 --> 00:39:27,900
+You stay away from her.
+
+632
+00:39:27,910 --> 00:39:29,700
+She's my daughter,too,dottie.
+
+633
+00:39:30,530 --> 00:39:31,550
+No.
+
+634
+00:39:32,440 --> 00:39:35,760
+A daughter is someone you raise.
+
+635
+00:39:36,510 --> 00:39:38,690
+Someone you take to girl scouts,
+
+636
+00:39:38,700 --> 00:39:41,750
+someone you make dinner for every night,
+
+637
+00:39:41,760 --> 00:39:43,580
+whose tears you wipe when she cries.
+
+638
+00:39:43,590 --> 00:39:44,620
+I want to be there for her now.
+
+639
+00:39:44,630 --> 00:39:46,610
+You just want to fill her head with nonsense.
+
+640
+00:39:46,620 --> 00:39:50,990
+No,I want her to dream.Or to at least try,dottie,don't take away her dreams.
+
+641
+00:39:51,000 --> 00:39:52,790
+You abandoned us.
+
+642
+00:39:52,800 --> 00:39:55,080
+You're a selfish son of a bitch,and you always will be.
+
+643
+00:39:55,090 --> 00:39:56,910
+I'm not that man anymore.
+
+644
+00:39:57,290 --> 00:39:58,920
+You will ruin her life
+
+645
+00:39:59,290 --> 00:40:01,260
+Poison her with silly notions of singing.
+
+646
+00:40:01,270 --> 00:40:04,820
+She is good,dottie. She is really good.
+
+647
+00:40:04,830 --> 00:40:05,530
+I've heard enough...
+
+648
+00:40:05,540 --> 00:40:07,280
+no,I want you to hear this,all right.
+
+649
+00:40:07,290 --> 00:40:10,480
+She's got talent, She's got real talent.
+
+650
+00:40:14,100 --> 00:40:17,530
+Let's slow it down for a sec for a little ballad called
+
+651
+00:40:17,540 --> 00:40:19,170
+"scarlet rose."
+
+652
+00:40:36,430 --> 00:40:37,220
+dottie.
+
+653
+00:40:37,760 --> 00:40:39,310
+I can't lose her,john.
+
+654
+00:40:40,680 --> 00:40:42,120
+Take it easy,dottie.
+
+655
+00:40:42,870 --> 00:40:44,070
+Take it easy.
+
+656
+00:40:44,690 --> 00:40:46,540
+Don't fill her with dreams.
+
+657
+00:40:47,940 --> 00:40:50,480
+Dreams just break your heart.
+
+658
+00:40:50,870 --> 00:40:52,530
+Gimme that thing,dottie.
+
+659
+00:40:53,500 --> 00:40:55,730
+Come on now,sweetheart,come on.
+
+660
+00:40:56,890 --> 00:40:59,650
+That's right.Okay.
+
+661
+00:41:04,850 --> 00:41:08,300
+Scarlet rose... scarlet rose...
+
+662
+00:42:22,950 --> 00:42:27,080
+<font color=#38B0DE>-=www.ydy.com/bbs=-
+Proudly Presents</font>
+
+663
+00:42:28,740 --> 00:42:33,180
+<font color=#38B0DE>Sync: YTET-小野人王
+-=www.ydy.com/bbs=-</font>
+
+
+
+

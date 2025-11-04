@@ -1,0 +1,1876 @@
+1
+00:00:05,363 --> 00:00:07,479
+<i>Previously on</i> Stargate Atlantis...
+
+2
+00:00:07,643 --> 00:00:11,192
+The hive ships will be in range
+of the satellite in 49 hours.
+
+3
+00:00:11,363 --> 00:00:14,639
+That's the only thing standing
+between the Wraith and Atlantis.
+
+4
+00:00:14,803 --> 00:00:16,873
+You think it can take out a hive ship?
+
+5
+00:00:17,043 --> 00:00:19,796
+It should take out all three
+when fully charged.
+
+6
+00:00:19,963 --> 00:00:23,956
+This is bad, very bad!
+I'm not sure I can fix this.
+
+7
+00:00:24,123 --> 00:00:28,116
+They do not want to destroy
+Atlantis. They want to get to Earth.
+
+8
+00:00:28,283 --> 00:00:31,241
+Which is why we have
+a self-destruct in place.
+
+9
+00:00:31,403 --> 00:00:33,678
+Having trouble docking with the satellite.
+
+10
+00:00:33,843 --> 00:00:36,676
+There isn't time. Get to a safe distance.
+
+11
+00:00:36,843 --> 00:00:40,631
+Come get me once the satellite
+has taken care of the Wraith ships.
+
+12
+00:00:42,763 --> 00:00:44,833
+We have a kill.
+
+13
+00:00:45,003 --> 00:00:48,200
+There's no time! Get the hell out of here!
+
+14
+00:00:49,283 --> 00:00:52,116
+This is McKay. We have lost the satellite.
+
+15
+00:00:52,283 --> 00:00:56,162
+- Did you take out any more ships?
+- <i>Negative. Two are intact</i>.
+
+16
+00:00:56,323 --> 00:01:00,316
+<i>You can't do any more out there,</i>
+<i>Rodney. Return to Atlantis</i>.
+
+17
+00:01:07,683 --> 00:01:09,878
+- Welcome back, Rodney.
+- Where are we?
+
+18
+00:01:10,043 --> 00:01:14,116
+Our scanners show the hive ships are
+moving, though their pace has slowed.
+
+19
+00:01:14,283 --> 00:01:16,433
+You gave them something to think about.
+
+20
+00:01:16,603 --> 00:01:19,037
+If they get here in two hours or two days,
+
+21
+00:01:19,203 --> 00:01:21,922
+it doesn't change the fact
+that we're out of options.
+
+22
+00:01:22,083 --> 00:01:27,794
+We can't hope to fight them, so unless
+either of you have any more ideas...
+
+23
+00:01:30,123 --> 00:01:33,593
+The last group is assembled
+and ready for evac.
+
+24
+00:01:33,763 --> 00:01:36,835
+All right, then. Let's get this done.
+
+25
+00:01:41,363 --> 00:01:42,682
+Ready?
+
+26
+00:01:56,883 --> 00:01:58,874
+Self-destruct is armed.
+
+27
+00:01:59,763 --> 00:02:03,119
+Prepare to load the virus
+into the Ancient mainframe.
+
+28
+00:02:03,283 --> 00:02:06,798
+- Rodney, dial the Alpha site.
+- Dialling.
+
+29
+00:02:16,883 --> 00:02:18,919
+We got an incoming wormhole.
+
+30
+00:02:24,203 --> 00:02:27,081
+- Receiving an IDC.
+- Who is it?
+
+31
+00:02:27,243 --> 00:02:29,996
+- Stargate Command.
+- Are you sure?
+
+32
+00:02:30,163 --> 00:02:31,482
+Positive.
+
+33
+00:02:31,643 --> 00:02:33,634
+Lower the shields.
+
+34
+00:02:48,323 --> 00:02:50,393
+- Dr Weir.
+- Yes.
+
+35
+00:02:50,563 --> 00:02:53,760
+- Colonel Everett, US Marine Corps.
+- You should know...
+
+36
+00:02:53,923 --> 00:02:59,839
+General O'Neill sends his compliments
+on a job well done. You are relieved.
+
+37
+00:03:00,003 --> 00:03:03,359
+- We're about to evacuate.
+- Without a fight?
+
+38
+00:03:03,523 --> 00:03:05,798
+- Yes, sir.
+- On my order.
+
+39
+00:03:05,963 --> 00:03:08,477
+That evacuation order's rescinded.
+
+40
+00:03:08,643 --> 00:03:11,077
+I assume you've armed
+the self-destruct device.
+
+41
+00:03:11,243 --> 00:03:15,122
+- Yes, but as Dr Weir was...
+- I need you to disarm it immediately.
+
+42
+00:03:15,283 --> 00:03:18,355
+I don't think
+you fully grasp our situation.
+
+43
+00:03:18,523 --> 00:03:22,482
+Three hive ships are bearing down,
+and you've nothing to defend yourself.
+
+44
+00:03:22,643 --> 00:03:25,919
+- That about sum it up?
+- You got our message.
+
+45
+00:03:26,083 --> 00:03:29,758
+- We got your message.
+- It's two hive ships. We destroyed one.
+
+46
+00:03:29,923 --> 00:03:33,040
+Good for you.
+That should make my job easier.
+
+47
+00:03:33,203 --> 00:03:37,082
+- What exactly is your job, sir?
+- Is that not obvious?
+
+48
+00:03:37,243 --> 00:03:40,519
+We are going to defend Atlantis
+at all costs.
+
+49
+00:04:43,763 --> 00:04:47,233
+- Colonel...
+- Signed by General O'Neill.
+
+50
+00:04:52,763 --> 00:04:56,836
+We appreciate the thought,
+but if you had read the report,
+
+51
+00:04:57,003 --> 00:04:59,278
+you'd know there's not much we can do.
+
+52
+00:04:59,443 --> 00:05:02,594
+I read your report
+cover to cover, Major.
+
+53
+00:05:02,763 --> 00:05:05,800
+You must've found a ZPM
+to dial in from Earth.
+
+54
+00:05:05,963 --> 00:05:08,477
+Archaeologists
+discovered it in Egypt.
+
+55
+00:05:08,643 --> 00:05:11,157
+It's been under our noses
+the whole time.
+
+56
+00:05:11,323 --> 00:05:16,192
+Fantastic.
+Wait, how did you bring the ZPM here?
+
+57
+00:05:16,363 --> 00:05:20,356
+It is being transported up
+to the <i>Daedalus</i>, our new battle cruiser.
+
+58
+00:05:20,523 --> 00:05:22,559
+I didn't know it was finished.
+
+59
+00:05:22,723 --> 00:05:26,716
+With a ZPM boosting her engine,
+she should be here inside four days.
+
+60
+00:05:26,883 --> 00:05:29,716
+That is how long
+we have to hold this base.
+
+61
+00:05:29,883 --> 00:05:32,955
+Dial Pegasus Alpha site.
+Recall all military personnel.
+
+62
+00:05:33,123 --> 00:05:37,913
+As well, any civilians who'd like to help
+in damage control are welcome.
+
+63
+00:05:38,083 --> 00:05:42,713
+When you've done that, please join me
+to discuss our tactical position.
+
+64
+00:05:42,883 --> 00:05:47,274
+Colonel Everett! Fine, you're in charge,
+but I should be at that briefing.
+
+65
+00:05:47,443 --> 00:05:53,518
+Any other aspect, I'll include you.
+We're talking about our tactical position.
+
+66
+00:05:53,683 --> 00:05:55,674
+- I understand that...
+- Good.
+
+67
+00:05:55,843 --> 00:06:00,075
+Somebody wanna please
+turn off that self-destructor?
+
+68
+00:06:01,923 --> 00:06:05,836
+This schematic is based
+on your information. Is it accurate?
+
+69
+00:06:06,003 --> 00:06:08,995
+- Yes, sir.
+- Deploy Alpha 2.
+
+70
+00:06:09,163 --> 00:06:11,074
+Sergeant, Alpha 2.
+
+71
+00:06:11,243 --> 00:06:15,122
+- Deploy what exactly?
+- We brought along some rail guns.
+
+72
+00:06:15,283 --> 00:06:18,992
+They were originally slated
+for <i>Prometheus</i> on the next re-fit.
+
+73
+00:06:19,163 --> 00:06:22,951
+They will deliver an impact velocity
+of Mach 5 at 250 miles.
+
+74
+00:06:23,123 --> 00:06:26,115
+A standard magazine will hold
+10,000 rounds.
+
+75
+00:06:26,283 --> 00:06:29,514
+- Self-destruct has been aborted.
+- Thank you.
+
+76
+00:06:29,683 --> 00:06:32,243
+Did you contact the Alpha site?
+
+77
+00:06:33,603 --> 00:06:36,595
+I asked him to wait
+until I had a talk with you.
+
+78
+00:06:36,763 --> 00:06:38,594
+- Is that a fact?
+- Yes, sir.
+
+79
+00:06:38,763 --> 00:06:41,641
+Major, dial the Alpha site.
+
+80
+00:06:41,803 --> 00:06:44,271
+Colonel, you've been here five minutes.
+
+81
+00:06:44,443 --> 00:06:49,836
+I have been responsible for people's lives
+on this base for several months.
+
+82
+00:06:50,883 --> 00:06:54,956
+I won't put them in jeopardy
+until I know how you'll defend this city.
+
+83
+00:06:55,123 --> 00:06:59,355
+I don't need to explain myself to you,
+and I don't need your cooperation.
+
+84
+00:06:59,523 --> 00:07:02,993
+But you could probably use mine... sir.
+
+85
+00:07:03,163 --> 00:07:06,473
+So please answer Dr Weir's question.
+
+86
+00:07:06,643 --> 00:07:08,838
+- Is that a threat, Major?
+- No, sir.
+
+87
+00:07:09,003 --> 00:07:13,713
+You need a clear chain of command,
+but if you cut Dr Weir out of the loop,
+
+88
+00:07:13,883 --> 00:07:16,841
+you'll alienate the people
+whose trust she's earned,
+
+89
+00:07:17,003 --> 00:07:20,393
+which is everyone on the base,
+including me.
+
+90
+00:07:20,563 --> 00:07:22,679
+Is that a fact?
+
+91
+00:07:27,683 --> 00:07:29,878
+Have a seat.
+
+92
+00:07:36,083 --> 00:07:40,042
+I should be in that meeting.
+I am the expert on defence capabilities.
+
+93
+00:07:40,203 --> 00:07:43,593
+When the military steps in,
+scientists take a back seat.
+
+94
+00:07:43,763 --> 00:07:48,393
+Till they need us. They don't think
+they need us, till they need us!
+
+95
+00:07:48,563 --> 00:07:50,633
+Then they need us.
+
+96
+00:07:50,803 --> 00:07:52,953
+Take a look at this.
+
+97
+00:07:59,363 --> 00:08:02,719
+Six naqahdah-enhanced
+nuclear warheads.
+
+98
+00:08:02,883 --> 00:08:06,319
+They emit almost zero EM
+and are invisible to radar.
+
+99
+00:08:06,483 --> 00:08:09,793
+Once deployed,
+they will detonate by proximity fuse.
+
+100
+00:08:09,963 --> 00:08:11,954
+- Space mines?
+- Right.
+
+101
+00:08:12,123 --> 00:08:16,002
+We use jumpers in stealth mode
+between the armada and Atlantis.
+
+102
+00:08:16,163 --> 00:08:20,634
+- We hoped you could help us with that.
+- Yes, but keep some in reserve.
+
+103
+00:08:20,803 --> 00:08:24,239
+- Negative. We only get one shot.
+- Consider the possibility...
+
+104
+00:08:24,403 --> 00:08:27,634
+Four of my men are pilots
+with the gene inoculation.
+
+105
+00:08:27,803 --> 00:08:32,240
+Familiarise them with the jumpers
+and they'll become our fighter screen.
+
+106
+00:08:32,403 --> 00:08:34,837
+- Along with me.
+- I've another job for you.
+
+107
+00:08:35,003 --> 00:08:38,359
+This base is equipped
+with a chair weapons-platform
+
+108
+00:08:38,523 --> 00:08:40,753
+like the one we found in Antarctica.
+
+109
+00:08:40,923 --> 00:08:43,995
+- Yes, but we've no way of powering it.
+- We do now.
+
+110
+00:08:44,163 --> 00:08:46,279
+We brought a Mark Il
+naqahdah generator.
+
+111
+00:08:46,443 --> 00:08:49,321
+We can increase power output by 600%.
+
+112
+00:08:49,483 --> 00:08:52,953
+It should be able to power the chair
+for as long as we need it.
+
+113
+00:08:53,123 --> 00:08:57,753
+- It's beginning to sound like a plan.
+- I'm glad you approve.
+
+114
+00:08:57,923 --> 00:09:02,758
+This is a long shot, but we have
+to hold out until the <i>Daedalus</i> gets here.
+
+115
+00:09:02,923 --> 00:09:06,757
+Then we can use the ZPM
+to power the city shield.
+
+116
+00:09:07,283 --> 00:09:09,478
+Any questions?
+
+117
+00:09:13,243 --> 00:09:14,562
+All right, then.
+
+118
+00:09:14,723 --> 00:09:17,521
+Now that Dr Weir's
+been informed of our plans,
+
+119
+00:09:17,683 --> 00:09:21,881
+I would greatly appreciate it
+if you'd execute my order
+
+120
+00:09:22,043 --> 00:09:24,876
+and contact the Alpha site.
+
+121
+00:09:25,043 --> 00:09:26,840
+Yes, sir.
+
+122
+00:09:29,723 --> 00:09:31,998
+And Major!
+
+123
+00:09:32,163 --> 00:09:36,634
+This is the last time
+I give you an order twice.
+
+124
+00:09:36,803 --> 00:09:38,282
+Understood.
+
+125
+00:11:12,283 --> 00:11:14,274
+You must be Teyla.
+
+126
+00:11:26,843 --> 00:11:28,834
+And you are Colonel Everett.
+
+127
+00:11:29,003 --> 00:11:31,801
+Major Sheppard spoke highly of you
+in his report.
+
+128
+00:11:31,963 --> 00:11:35,717
+Of course, a more recent report
+has me a little concerned.
+
+129
+00:11:35,883 --> 00:11:38,522
+That I may fall under the influence
+of the Wraith?
+
+130
+00:11:38,683 --> 00:11:43,837
+He assures me that won't happen,
+but I need you to stay out of the way.
+
+131
+00:11:44,003 --> 00:11:47,882
+Do you not need every able body
+to help defend Atlantis?
+
+132
+00:11:48,043 --> 00:11:50,841
+I think we can handle it.
+
+133
+00:11:55,043 --> 00:11:58,240
+- He's not even trying.
+- We've tried a dozen times.
+
+134
+00:11:58,403 --> 00:12:01,281
+- Never with this power.
+- Major Sheppard's your man.
+
+135
+00:12:01,443 --> 00:12:05,436
+Of course, but he's training pilots,
+so we're stuck with you.
+
+136
+00:12:05,603 --> 00:12:09,881
+Listen carefully, do what I tell you
+and no one'll get hurt.
+
+137
+00:12:10,043 --> 00:12:11,840
+There must be someone else.
+
+138
+00:12:12,003 --> 00:12:15,757
+Concentrate on powering up the chair.
+Nothing else, nothing but!
+
+139
+00:12:15,923 --> 00:12:19,233
+- Don't think...
+- Don't tell me, or I'll think about it!
+
+140
+00:12:19,403 --> 00:12:21,678
+Please power it up.
+
+141
+00:12:25,163 --> 00:12:26,835
+Good.
+
+142
+00:12:27,003 --> 00:12:28,800
+Good.
+
+143
+00:12:28,963 --> 00:12:30,362
+Good.
+
+144
+00:12:30,523 --> 00:12:34,675
+- And... Oh, no.
+- What? Did I do something wrong?
+
+145
+00:12:39,963 --> 00:12:42,841
+So, see? Nothing to worry about.
+
+146
+00:12:43,923 --> 00:12:45,914
+Get him out of the chair.
+
+147
+00:12:52,403 --> 00:12:57,033
+Elizabeth. I've hooked up the generator
+and the chair platform is operational.
+
+148
+00:12:57,203 --> 00:12:59,194
+- That's good news.
+- Not so much.
+
+149
+00:12:59,363 --> 00:13:02,082
+- What's wrong?
+- We're down to a few dozen drones.
+
+150
+00:13:02,243 --> 00:13:03,881
+You just found this out?
+
+151
+00:13:04,043 --> 00:13:08,321
+There was no way of determining that
+until the chair was initialised.
+
+152
+00:13:08,483 --> 00:13:11,441
+The chair in Antarctica controlled
+thousands of them.
+
+153
+00:13:11,603 --> 00:13:15,960
+I know. They were probably used
+against the first Wraith attack.
+
+154
+00:13:16,123 --> 00:13:19,195
+Even a few dozen
+will help us keep them at bay.
+
+155
+00:13:19,363 --> 00:13:21,160
+What is it?
+
+156
+00:13:21,323 --> 00:13:25,919
+- Incoming. They appeared all of a sudden.
+- What's going on?
+
+157
+00:13:26,083 --> 00:13:28,802
+We just detected objects
+approaching the planet.
+
+158
+00:13:28,963 --> 00:13:30,555
+- How many?
+- Hundred plus.
+
+159
+00:13:30,723 --> 00:13:34,238
+How come they weren't detected
+by the long-range sensors?
+
+160
+00:13:34,403 --> 00:13:36,871
+Because they're rocks. Asteroids.
+
+161
+00:13:37,043 --> 00:13:41,002
+The Wraith must've harvested them
+and accelerated them at us.
+
+162
+00:13:41,163 --> 00:13:43,313
+The mainframe's just seen a threat.
+
+163
+00:13:43,483 --> 00:13:48,352
+- Can they do much damage?
+- Yeah. But that's not why they're doing it.
+
+164
+00:13:48,523 --> 00:13:52,277
+- They're headed to the mines.
+- Can they be deactivated?
+
+165
+00:13:52,443 --> 00:13:54,081
+No.
+
+166
+00:14:06,323 --> 00:14:09,235
+Well... that's that.
+
+167
+00:14:09,403 --> 00:14:13,521
+Your mines make one hell of a bang.
+I'm sure the Wraith's ears are ringing.
+
+168
+00:14:13,683 --> 00:14:15,480
+Status of the hive ships?
+
+169
+00:14:15,643 --> 00:14:18,635
+No way of knowing.
+Detonation overloaded the sensors.
+
+170
+00:14:18,803 --> 00:14:23,240
+- How long till they're back up?
+- There's a lot of residual radiation.
+
+171
+00:14:23,403 --> 00:14:26,793
+- It'll keep us blind for hours.
+- They're still out there.
+
+172
+00:14:26,963 --> 00:14:30,353
+We just lost our primary line of defence.
+
+173
+00:14:41,323 --> 00:14:43,314
+You wanted to see me, Colonel?
+
+174
+00:14:43,483 --> 00:14:47,317
+I was told I could learn
+a lot about Atlantis history in this room.
+
+175
+00:14:47,483 --> 00:14:49,951
+We don't use it
+because of the power required.
+
+176
+00:14:50,123 --> 00:14:53,672
+I'd like to see how the Ancients
+lost the first time,
+
+177
+00:14:53,843 --> 00:14:56,311
+try to avoid their mistakes.
+
+178
+00:14:56,483 --> 00:14:59,122
+Yes, sir. We could do that.
+
+179
+00:15:07,443 --> 00:15:10,435
+This is the status of the Pegasus Galaxy
+
+180
+00:15:10,603 --> 00:15:14,039
+before the Ancients
+encountered the Wraith.
+
+181
+00:15:14,203 --> 00:15:19,675
+The blue stars represent systems
+inhabited or protected by the Ancients.
+
+182
+00:15:19,843 --> 00:15:24,121
+Then... this is how it looked,
+
+183
+00:15:24,283 --> 00:15:27,320
+after they fought for almost 100 years.
+
+184
+00:15:27,483 --> 00:15:30,759
+- Until Atlantis was all that was left.
+- Yes, sir.
+
+185
+00:15:30,923 --> 00:15:33,596
+That's when the siege began.
+
+186
+00:15:35,363 --> 00:15:38,594
+For several years,
+the Atlanteans held off their attackers,
+
+187
+00:15:38,763 --> 00:15:43,553
+relying on the city shield and superior
+weaponry, including the satellite system.
+
+188
+00:15:43,723 --> 00:15:48,194
+No matter how many Wraith ships
+they destroyed, more kept coming.
+
+189
+00:15:48,363 --> 00:15:53,357
+They could win almost every battle
+but they saw no way to win the war.
+
+190
+00:15:53,523 --> 00:15:57,436
+So... they submerged the city and left.
+
+191
+00:16:00,803 --> 00:16:05,831
+That's it. That's the story.
+But the picture is pretty clear.
+
+192
+00:16:06,003 --> 00:16:09,154
+- You think this is a no-win situation?
+- No, sir.
+
+193
+00:16:09,323 --> 00:16:14,192
+What I mean is, even if we beat them
+this time, they'll come back.
+
+194
+00:16:18,363 --> 00:16:24,677
+Major, I think i should tell you,
+Colonel Sumner was a friend of mine.
+
+195
+00:16:24,843 --> 00:16:27,403
+We served together a lot of years.
+
+196
+00:16:28,683 --> 00:16:33,199
+I cannot figure how you could go
+as far as you did and not save him.
+
+197
+00:16:33,363 --> 00:16:36,161
+- That close...
+- By the time I reached him...
+
+198
+00:16:36,323 --> 00:16:39,599
+Worse, you admit to firing
+the shot that killed him.
+
+199
+00:16:39,763 --> 00:16:44,041
+Because I believe
+that's what he wanted me to do.
+
+200
+00:16:44,203 --> 00:16:49,072
+- You knew him that well, did you?
+- You weren't there, sir.
+
+201
+00:16:53,683 --> 00:16:56,356
+I wish for his sake I was.
+
+202
+00:17:01,803 --> 00:17:08,197
+There isn't a night where that moment
+doesn't play in my head. When it does...
+
+203
+00:17:08,363 --> 00:17:10,672
+Control room.
+
+204
+00:17:12,043 --> 00:17:16,912
+- This is Colonel Everett reporting.
+- <i>We've detected a wave of darts inbound</i>.
+
+205
+00:17:17,083 --> 00:17:21,554
+I'm on my way. Back to the chair.
+We'll finish this later.
+
+206
+00:17:24,203 --> 00:17:27,479
+- What's happening?
+- Multiple signals, closing fast.
+
+207
+00:17:27,643 --> 00:17:32,080
+The nukes damaged the sensors.
+We couldn't see them.
+
+208
+00:17:32,243 --> 00:17:33,801
+- Gunners in position?
+- Yes.
+
+209
+00:17:33,963 --> 00:17:36,318
+- Damage-control portals?
+- In position.
+
+210
+00:17:36,483 --> 00:17:39,441
+All right. Darken the city.
+
+211
+00:17:50,843 --> 00:17:54,199
+Remember, short and steady bursts!
+
+212
+00:17:56,243 --> 00:17:57,756
+Positions!
+
+213
+00:18:01,123 --> 00:18:03,273
+Here they come!
+
+214
+00:18:48,123 --> 00:18:51,115
+- OK, fire it up.
+- It'll take a minute.
+
+215
+00:18:51,283 --> 00:18:56,516
+- We don't have a minute.
+- It operates in barely controlled overload.
+
+216
+00:18:56,683 --> 00:18:59,800
+- Just get the damn thing working.
+- I'm trying.
+
+217
+00:19:05,283 --> 00:19:07,751
+- Colonel, it's Radner.
+- Go ahead.
+
+218
+00:19:07,923 --> 00:19:11,677
+<i>Looks like some of them</i>
+<i>are starting to make kamikaze runs</i>.
+
+219
+00:19:15,363 --> 00:19:18,594
+- What happened?
+- We lost primary systems.
+
+220
+00:19:20,483 --> 00:19:21,962
+Go, go!
+
+221
+00:19:48,123 --> 00:19:52,435
+One of our gun positions is dark.
+Ferrell, why aren't you firing?
+
+222
+00:19:55,683 --> 00:20:01,041
+- Ferrell, report!
+- This is Ford, near Ferrell's position.
+
+223
+00:20:01,203 --> 00:20:03,000
+I'm on it.
+
+224
+00:20:05,803 --> 00:20:08,192
+You got power. Go!
+
+225
+00:21:42,003 --> 00:21:46,076
+The long-range scanners and the sensors
+are down, but we're working on it.
+
+226
+00:21:46,243 --> 00:21:50,759
+- I want the status of those hive ships.
+- They're coming!
+
+227
+00:21:50,923 --> 00:21:55,758
+Tomorrow, the day after, the day
+after that... Eventually they'll get here.
+
+228
+00:21:55,923 --> 00:21:59,518
+The chair is out of drones.
+How do we handle the next wave?
+
+229
+00:21:59,683 --> 00:22:02,197
+- I'm open to suggestions.
+- Really?
+
+230
+00:22:05,083 --> 00:22:07,802
+- We target the hive ships.
+- With what?
+
+231
+00:22:07,963 --> 00:22:10,318
+Fly the puddle jumper
+down their throats.
+
+232
+00:22:10,483 --> 00:22:16,831
+- Volunteering for a suicide mission?
+- Not if we remote-control the jumpers.
+
+233
+00:22:18,483 --> 00:22:22,237
+- Can you do it?
+- I knew this would happen.
+
+234
+00:22:22,403 --> 00:22:26,442
+You show up with your guns,
+but when it comes to saving the city,
+
+235
+00:22:26,603 --> 00:22:29,595
+you turn to the scientists
+and ask the impossible.
+
+236
+00:22:29,763 --> 00:22:31,799
+When was the last time you slept?
+
+237
+00:22:31,963 --> 00:22:33,555
+- I have an idea.
+- The chair.
+
+238
+00:22:33,723 --> 00:22:36,476
+Of course. How do we tie
+in the jumper systems?
+
+239
+00:22:36,643 --> 00:22:41,034
+- Without overloading the generators?
+- Using the drones as propulsion.
+
+240
+00:22:41,203 --> 00:22:45,719
+- While maximising the dampening.
+- Possibly, possibly...
+
+241
+00:22:45,883 --> 00:22:48,351
+- Is that a yes?
+- No, it's a "possibly".
+
+242
+00:22:48,523 --> 00:22:50,673
+How much damage
+can a puddle jumper do?
+
+243
+00:22:50,843 --> 00:22:56,156
+I got an idea about that, too. I think
+I know where we can get another nuke.
+
+244
+00:22:58,083 --> 00:23:00,995
+I don't know how sympathetic
+the Genii will be.
+
+245
+00:23:01,163 --> 00:23:04,678
+- The Genii?
+- Now's their chance to test their weapon.
+
+246
+00:23:04,843 --> 00:23:06,913
+Let me past!
+
+247
+00:23:08,283 --> 00:23:10,672
+I need to talk to Dr Weir!
+
+248
+00:23:10,843 --> 00:23:13,915
+Teyla? What's the matter?
+
+249
+00:23:14,083 --> 00:23:16,916
+The Wraith. They are in Atlantis.
+
+250
+00:23:26,763 --> 00:23:30,438
+The Wraith piloting the kamikaze
+ships beam in before they hit.
+
+251
+00:23:30,603 --> 00:23:34,073
+- They're trying to take the city intact.
+- How many crashed?
+
+252
+00:23:34,243 --> 00:23:37,758
+Between 20 and 30.
+Internal sensors are still down.
+
+253
+00:23:37,923 --> 00:23:39,993
+Well, we have this.
+
+254
+00:23:40,163 --> 00:23:43,599
+We can't differentiate
+between Wraith and human,
+
+255
+00:23:43,763 --> 00:23:47,881
+but the blips that show up out of bounds
+will be the likely targets.
+
+256
+00:23:48,043 --> 00:23:51,672
+- Let me see that.
+- No good. You need the gene.
+
+257
+00:23:53,123 --> 00:23:55,921
+I got the gene therapy, too.
+
+258
+00:23:57,163 --> 00:23:59,233
+We wish to help.
+
+259
+00:24:00,883 --> 00:24:05,399
+This is a large city. You need
+as many people searching as possible.
+
+260
+00:24:05,563 --> 00:24:09,920
+She is the one who sensed
+the Wraith presence in the first place.
+
+261
+00:24:10,083 --> 00:24:11,675
+Captain...
+
+262
+00:24:13,843 --> 00:24:18,234
+- ...get some weapons for these people.
+- Yes, sir.
+
+263
+00:24:26,803 --> 00:24:29,317
+There are other people
+that possess the gene.
+
+264
+00:24:29,483 --> 00:24:32,680
+Dr Kusanagi would relish
+the opportunity to help.
+
+265
+00:24:32,843 --> 00:24:35,198
+I am exhausted and starving,
+so sit down.
+
+266
+00:24:35,363 --> 00:24:39,515
+It's out of drones. You couldn't do
+any damage if you wanted to.
+
+267
+00:24:39,683 --> 00:24:41,799
+Thank you. We're in business.
+
+268
+00:24:41,963 --> 00:24:45,956
+Head down to the jumper bay.
+Radio me when you get there.
+
+269
+00:26:15,003 --> 00:26:17,233
+- You OK?
+- Yeah.
+
+270
+00:26:17,403 --> 00:26:20,156
+How about next time
+you can be the bait?
+
+271
+00:26:20,323 --> 00:26:22,598
+Yeah, maybe. Next time.
+
+272
+00:26:23,483 --> 00:26:25,997
+Right, this way.
+
+273
+00:26:30,003 --> 00:26:33,996
+- We received a response from the Genii.
+- Let's hear it.
+
+274
+00:26:36,203 --> 00:26:38,398
+<i>This is Prenim of the Genii</i>.
+
+275
+00:26:38,563 --> 00:26:42,476
+<i>We welcome the opportunity to open</i>
+<i>a dialogue between our two people</i>.
+
+276
+00:26:42,643 --> 00:26:45,874
+<i>Send your representative</i>.
+<i>One person, unarmed</i>.
+
+277
+00:26:46,043 --> 00:26:48,193
+- Is that all?
+- Yes, ma'am.
+
+278
+00:26:48,363 --> 00:26:52,402
+Colonel Everett, the Genii have
+asked us to send a representative.
+
+279
+00:26:52,563 --> 00:26:56,954
+- I'm set to go.
+- I can't imagine anyone more qualified.
+
+280
+00:26:57,123 --> 00:27:00,832
+- Pull this off, I'll buy you a drink.
+- You got a deal.
+
+281
+00:27:01,003 --> 00:27:02,800
+Dial the gate.
+
+282
+00:27:37,563 --> 00:27:39,394
+Dr Weir.
+
+283
+00:27:39,563 --> 00:27:42,123
+I am Prenim of the Genii.
+
+284
+00:27:42,283 --> 00:27:45,400
+I'm rather surprised, no, astonished,
+
+285
+00:27:45,563 --> 00:27:48,031
+that you would have the audacity
+to come here.
+
+286
+00:27:48,203 --> 00:27:51,195
+You heard our message.
+The Wraith are at our doorstep.
+
+287
+00:27:51,363 --> 00:27:56,073
+And we are understandably delighted
+at the prospect of your demise.
+
+288
+00:27:56,243 --> 00:27:58,040
+That may be so.
+
+289
+00:27:58,203 --> 00:28:01,639
+But still, we have something
+that you want.
+
+290
+00:28:01,803 --> 00:28:04,397
+- C4.
+- More than that.
+
+291
+00:28:05,403 --> 00:28:08,440
+We have an opportunity
+for you to test your weapon
+
+292
+00:28:08,603 --> 00:28:13,472
+at no risk to yourselves,
+and a chance to strike at the Wraith.
+
+293
+00:28:13,643 --> 00:28:19,036
+- You have no idea how close they are.
+- The Wraith have come, Doctor.
+
+294
+00:28:23,563 --> 00:28:25,679
+Six days ago.
+
+295
+00:28:26,883 --> 00:28:32,196
+Fortunately, we detected their approach
+and shut down our reactors in time.
+
+296
+00:28:32,363 --> 00:28:34,877
+Hundreds of lives
+were lost on the surface.
+
+297
+00:28:35,043 --> 00:28:39,116
+But thousands were saved because our
+underground complex went undetected.
+
+298
+00:28:39,283 --> 00:28:44,152
+So, you see, the threat to the Genii
+has come and gone.
+
+299
+00:28:45,963 --> 00:28:52,198
+So far as the Wraith are concerned,
+this planet is no longer of interest.
+
+300
+00:28:52,363 --> 00:28:55,480
+We have the design that
+Dr McKay provided for us,
+
+301
+00:28:55,643 --> 00:28:59,875
+and our prototype bombs
+are nearly complete.
+
+302
+00:29:00,043 --> 00:29:03,001
+So why would you ask me
+to come here?
+
+303
+00:29:03,163 --> 00:29:08,191
+So that we may trade the C4
+for your life.
+
+304
+00:29:48,163 --> 00:29:49,562
+Damn it.
+
+305
+00:29:59,923 --> 00:30:03,882
+This is Everett. The Wraith just
+took out one of our generators.
+
+306
+00:30:04,043 --> 00:30:08,241
+- What's the nearest generator station?
+- Number 3. Teyla's closer.
+
+307
+00:30:08,403 --> 00:30:10,200
+- Teyla?
+- Already on our way!
+
+308
+00:30:10,363 --> 00:30:11,921
+Meet you there.
+
+309
+00:30:12,083 --> 00:30:17,111
+- I have already offered you the C4.
+- You want our weapons in exchange.
+
+310
+00:30:17,283 --> 00:30:22,198
+- That's not a bargain for the Genii.
+- What would you do with the C4?
+
+311
+00:30:22,363 --> 00:30:24,877
+Incorporate it into your weapons
+and test them?
+
+312
+00:30:25,043 --> 00:30:27,432
+Of course.
+
+313
+00:30:27,603 --> 00:30:32,518
+I am offering you the chance to test your
+weapon design on a Wraith hive ship,
+
+314
+00:30:32,683 --> 00:30:37,677
+at no risk to your own people,
+and still have enough to build more.
+
+315
+00:30:37,843 --> 00:30:40,232
+- If you're too proud or stupid...
+- Careful.
+
+316
+00:30:40,403 --> 00:30:44,999
+I am way past careful! You know
+what the deal is and it's a good one.
+
+317
+00:30:45,163 --> 00:30:47,631
+So, take it or leave it.
+
+318
+00:30:59,443 --> 00:31:03,834
+- Yeah, that's it.
+- OK. Let's give it a test.
+
+319
+00:31:04,003 --> 00:31:06,073
+<i>Standing by</i>.
+
+320
+00:31:09,123 --> 00:31:12,877
+Carson, clear your mind
+and think about the puddle jumper.
+
+321
+00:31:13,043 --> 00:31:15,796
+Think about bringing it online.
+
+322
+00:31:16,683 --> 00:31:20,517
+Come on, come on, come on.
+Any time now.
+
+323
+00:31:20,683 --> 00:31:26,235
+Carson, I know you can do this.
+Just activate the puddle jumper.
+
+324
+00:31:33,563 --> 00:31:34,882
+Yes!
+
+325
+00:31:35,043 --> 00:31:38,240
+Yes, yes! Rodney, it works.
+
+326
+00:31:38,403 --> 00:31:40,394
+Thank God.
+
+327
+00:31:49,643 --> 00:31:51,474
+Give me a radio.
+
+328
+00:31:52,083 --> 00:31:53,402
+Thank you.
+
+329
+00:31:55,003 --> 00:31:58,712
+This is Weir. I've got the prototypes.
+
+330
+00:31:58,883 --> 00:32:00,999
+Prototypes. Right.
+
+331
+00:32:31,803 --> 00:32:34,954
+Well, that should be the last of them.
+
+332
+00:32:38,683 --> 00:32:40,913
+- Colonel.
+- Well done, Doctor.
+
+333
+00:32:41,083 --> 00:32:43,995
+I have to admit it, I'm impressed.
+
+334
+00:32:44,803 --> 00:32:47,954
+Well, maybe there's hope for me yet.
+
+335
+00:32:48,123 --> 00:32:51,195
+- I'm in your chair.
+- Thought it was your chair.
+
+336
+00:32:51,363 --> 00:32:55,402
+Well, I... I don't sit much.
+I was just going over the...
+
+337
+00:32:56,603 --> 00:32:59,800
+- We have a problem.
+- We have a lot of problems.
+
+338
+00:32:59,963 --> 00:33:03,922
+The Genii nuclear devices are
+incomplete. It'll take time to finish.
+
+339
+00:33:04,083 --> 00:33:06,233
+- How much time?
+- About a day.
+
+340
+00:33:06,403 --> 00:33:12,160
+- We don't have a day, Doctor.
+- Like I said, we have a problem.
+
+341
+00:33:25,323 --> 00:33:28,235
+- You want to see me?
+- I need to keep awake.
+
+342
+00:33:28,403 --> 00:33:30,963
+- I gave you something.
+- We're building bombs.
+
+343
+00:33:31,123 --> 00:33:35,514
+- Staying awake is a prerequisite.
+- Snappy. I'll get you another stimulant.
+
+344
+00:33:35,683 --> 00:33:38,516
+- Carry on.
+- Thank you.
+
+345
+00:33:46,123 --> 00:33:49,911
+- I'm sorry you lost some of your people.
+- Many have died, Colonel.
+
+346
+00:33:50,083 --> 00:33:53,280
+<i>This is Jumper Four</i>.
+<i>We have a visual on the hive ships</i>.
+
+347
+00:33:53,443 --> 00:33:58,642
+This is Everett. The Wraith hive ships
+are approaching the planet.
+
+348
+00:33:58,803 --> 00:34:02,113
+Defence team, to your positions.
+
+349
+00:34:02,763 --> 00:34:04,082
+Doctor...
+
+350
+00:34:04,243 --> 00:34:06,962
+- Defence team moving.
+- Let's prepare.
+
+351
+00:34:07,123 --> 00:34:08,442
+Thank you.
+
+352
+00:34:10,883 --> 00:34:12,680
+This is Weir.
+
+353
+00:34:13,843 --> 00:34:16,562
+I know how tired you all are
+
+354
+00:34:16,723 --> 00:34:20,033
+and how much we've asked of you
+these past few days.
+
+355
+00:34:20,203 --> 00:34:26,153
+<i>Hopefully, the</i> Daedalus <i>will arrive soon</i>.
+<i>Until then, our fate is in our own hands</i>.
+
+356
+00:34:26,323 --> 00:34:31,875
+<i>If during this battle our mission fails,</i>
+<i>I will give the order to evacuate</i>.
+
+357
+00:34:32,803 --> 00:34:35,681
+We all hope it won't come to that.
+
+358
+00:34:35,843 --> 00:34:39,233
+But if it does, don't hesitate.
+
+359
+00:34:41,443 --> 00:34:43,240
+That is all.
+
+360
+00:34:48,203 --> 00:34:51,673
+- Time's up.
+- What a coincidence. We're done.
+
+361
+00:34:57,563 --> 00:34:59,793
+So... chair room?
+
+362
+00:35:01,363 --> 00:35:02,682
+Right.
+
+363
+00:35:04,963 --> 00:35:08,558
+Colonel, we're heading to the bay
+to load up the jumpers.
+
+364
+00:35:08,723 --> 00:35:10,156
+<i>Understood</i>.
+
+365
+00:35:17,163 --> 00:35:20,678
+Remember... I owe you that drink.
+
+366
+00:35:33,283 --> 00:35:36,002
+Slow, slow, slow. Right here.
+
+367
+00:35:47,003 --> 00:35:49,756
+Sheppard, are you ready?
+
+368
+00:35:55,883 --> 00:35:59,762
+- Rodney...
+- The generator's not powering up.
+
+369
+00:36:33,483 --> 00:36:38,113
+They're sending in another wave.
+Major, we need to go.
+
+370
+00:37:08,923 --> 00:37:11,835
+- McKay.
+- Power levels are dropping.
+
+371
+00:37:17,363 --> 00:37:20,002
+Rodney, nothing is happening.
+
+372
+00:37:26,363 --> 00:37:31,198
+- Why are there no jumpers in the air?
+- We must've exhausted the energy.
+
+373
+00:37:31,363 --> 00:37:34,958
+- So long, Rodney.
+- There's gotta be a way to...
+
+374
+00:37:35,123 --> 00:37:36,442
+Major!
+
+375
+00:37:47,163 --> 00:37:50,155
+Heads up, people. They're in the base.
+
+376
+00:37:52,483 --> 00:37:56,237
+- Colonel, we have a problem.
+- What is it?
+
+377
+00:37:56,403 --> 00:37:58,917
+We may need
+to give the order to evacuate.
+
+378
+00:37:59,083 --> 00:38:01,039
+Elizabeth, wait!
+
+379
+00:38:02,323 --> 00:38:06,282
+- You can't!
+- I have to, and you know it.
+
+380
+00:38:06,443 --> 00:38:08,195
+John...
+
+381
+00:38:12,763 --> 00:38:14,719
+Go.
+
+382
+00:38:25,363 --> 00:38:28,958
+What's the status on that damn jumper?
+
+383
+00:38:29,123 --> 00:38:30,954
+It's on its way.
+
+384
+00:38:53,763 --> 00:38:58,200
+- <i>Sheppard is taking the jumper</i>.
+- I'm aware of that.
+
+385
+00:38:58,363 --> 00:39:00,877
+Start prepping Jumper Two.
+
+386
+00:39:03,003 --> 00:39:05,597
+Teyla, I'm hearing gunfire.
+What's your status?
+
+387
+00:39:06,643 --> 00:39:09,111
+<i>Teyla, do you hear me?</i>
+
+388
+00:39:09,283 --> 00:39:10,602
+<i>Teyla?</i>
+
+389
+00:39:29,883 --> 00:39:33,876
+Hopefully, if I take this one out,
+the other one will back off.
+
+390
+00:39:35,363 --> 00:39:37,240
+Go, go, go!
+
+391
+00:39:41,323 --> 00:39:44,872
+- We can't stay here.
+- They're beaming in all over the place.
+
+392
+00:39:45,043 --> 00:39:47,273
+We're not going anywhere.
+
+393
+00:39:47,443 --> 00:39:49,240
+Not yet.
+
+394
+00:39:58,163 --> 00:40:02,361
+You know, if this works,
+somebody might have to do it again.
+
+395
+00:40:02,523 --> 00:40:03,842
+Understood.
+
+396
+00:40:04,643 --> 00:40:07,237
+Come on, keep up!
+
+397
+00:40:08,963 --> 00:40:10,601
+Over there!
+
+398
+00:40:24,723 --> 00:40:27,795
+You let Sheppard fly that jumper?
+
+399
+00:40:30,963 --> 00:40:34,194
+Help me arm the self-destruct
+in case this fails.
+
+400
+00:40:57,563 --> 00:41:00,361
+They haven't detected my approach.
+
+401
+00:41:01,643 --> 00:41:04,441
+Weapon is armed and ready.
+
+402
+00:41:07,523 --> 00:41:09,320
+I'm going in.
+
+403
+00:41:37,523 --> 00:41:39,639
+Subtitles by Lecavalier
+
+404
+00:41:45,323 --> 00:41:47,314
+For the BST
+

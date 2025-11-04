@@ -1,0 +1,2318 @@
+1
+00:00:12,560 --> 00:00:14,471
+Ce vaisseau n'a pas de billard.
+
+2
+00:00:14,720 --> 00:00:16,711
+Je parlais de la variété des paris.
+
+3
+00:00:21,880 --> 00:00:25,190
+- Je ne veux pas spéculer.
+- C'est important, c'est tout.
+
+4
+00:00:25,400 --> 00:00:28,472
+- Tu n'es pas du tout curieux ?
+- Si.
+
+5
+00:00:28,680 --> 00:00:30,272
+Mais je ne risque pas de mise.
+
+6
+00:00:35,680 --> 00:00:38,558
+Surprise !
+
+7
+00:00:40,560 --> 00:00:42,312
+Ce n'est pas mon anniversaire.
+
+8
+00:00:46,640 --> 00:00:49,677
+Hé, on a fait
+une drôle de piñata.
+
+9
+00:00:49,880 --> 00:00:53,668
+J'ai dit de t'amuser, toi.
+Pas l'équipage ou moi.
+
+10
+00:00:54,080 --> 00:00:55,877
+Ils ne croiront pas
+à mon anniversaire.
+
+11
+00:00:56,080 --> 00:00:57,832
+- Encore.
+- Pas mon problème.
+
+12
+00:00:58,840 --> 00:01:01,798
+C'est pire d'être coincée
+sur ce vaisseau qu'au SGC.
+
+13
+00:01:02,000 --> 00:01:05,072
+Quand je m'ennuie,
+je prends des otages.
+
+14
+00:01:05,280 --> 00:01:06,838
+J'en ai déjà fait partie.
+
+15
+00:01:09,320 --> 00:01:12,517
+- Major ?
+- On s'approche des coordonnées.
+
+16
+00:01:12,720 --> 00:01:14,039
+Faites-nous sortir.
+
+17
+00:01:20,320 --> 00:01:22,993
+On nous salue.
+Les Asgard demandent l'autorisation
+
+18
+00:01:23,200 --> 00:01:24,349
+d'être téléportés.
+
+19
+00:01:24,560 --> 00:01:25,959
+Accordez-la-leur.
+
+20
+00:01:29,640 --> 00:01:32,029
+Bonjour, et bienvenue sur Orilla.
+
+21
+00:01:32,440 --> 00:01:33,668
+Thor.
+
+22
+00:01:33,880 --> 00:01:35,996
+Colonel Carter,
+c'est bon de vous voir.
+
+23
+00:01:36,440 --> 00:01:38,670
+Par curiosité,
+comment les distinguer ?
+
+24
+00:01:38,880 --> 00:01:41,474
+- La voix.
+- Ca me fait plaisir aussi, Thor.
+
+25
+00:01:41,680 --> 00:01:44,274
+Le Général Landry,
+le Colonel Mitchell et Vala.
+
+26
+00:01:44,480 --> 00:01:46,835
+- Bonjour.
+- Alors, comment allez-vous ?
+
+27
+00:01:47,080 --> 00:01:49,878
+- Nous avons été sans nouvelles.
+- Je suis navré.
+
+28
+00:01:50,120 --> 00:01:52,190
+J'étais occupé à d'autres activités.
+
+29
+00:01:52,600 --> 00:01:54,750
+Comme mentionné dans notre message,
+
+30
+00:01:54,960 --> 00:01:58,555
+le Haut Conseil désire vous voir
+pour vous informer davantage,
+
+31
+00:01:58,760 --> 00:02:00,990
+mais le temps nous est compté.
+
+32
+00:02:01,200 --> 00:02:03,668
+Général, avec votre permission,
+
+33
+00:02:03,880 --> 00:02:06,872
+certains Asgard sont prêts
+à être téléportés immédiatement
+
+34
+00:02:07,080 --> 00:02:10,152
+pour installer des mises à niveau
+technologiques sur ce vaisseau.
+
+35
+00:02:10,360 --> 00:02:13,193
+Des pistolets laser, j'espère.
+J'en ai eu au billard.
+
+36
+00:02:13,400 --> 00:02:15,391
+Que prévoyez-vous de nous donner ?
+
+37
+00:02:15,640 --> 00:02:17,756
+Tout ce que nous possédons et savons.
+
+38
+00:02:19,080 --> 00:02:20,991
+- C'est-à-dire ?
+- Tout.
+
+39
+00:02:21,200 --> 00:02:22,838
+Toute notre technologie actuelle.
+
+40
+00:02:23,480 --> 00:02:24,879
+Tout notre savoir.
+
+41
+00:02:27,240 --> 00:02:29,435
+Désolé.
+On est juste un peu surpris.
+
+42
+00:02:29,640 --> 00:02:33,349
+Enfin, pourquoi ?
+Vous avez toujours résisté.
+
+43
+00:02:33,560 --> 00:02:35,118
+On n'était pas prêts.
+
+44
+00:02:35,360 --> 00:02:38,272
+C'est exact.
+Beaucoup d'Asgard le croient encore.
+
+45
+00:02:38,840 --> 00:02:40,637
+Alors, qu'est-ce qui a changé ?
+
+46
+00:02:41,080 --> 00:02:43,719
+Notre race se meurt.
+
+47
+00:02:43,920 --> 00:02:47,833
+Bientôt, nous ne serons plus.
+
+48
+00:03:59,160 --> 00:04:02,869
+Notre processeur a sa propre
+source d'énergie.
+
+49
+00:04:03,080 --> 00:04:05,719
+Elle n'empiétera pas sur votre EPPZ.
+
+50
+00:04:05,920 --> 00:04:08,309
+Toutefois,
+à l'issue des mises à niveau,
+
+51
+00:04:08,520 --> 00:04:11,273
+le processeur s'intègrera complètement
+à vos systèmes.
+
+52
+00:04:11,480 --> 00:04:13,277
+Vous devez pouvoir faire plus.
+
+53
+00:04:13,520 --> 00:04:17,149
+Je vous assure, nous vous fournissons
+la dernière technologie Asgard
+
+54
+00:04:17,360 --> 00:04:20,511
+et la base de connaissances
+de notre histoire entière.
+
+55
+00:04:20,720 --> 00:04:22,312
+Je ne parlais pas de ça.
+
+56
+00:04:22,560 --> 00:04:25,632
+Tout ce qui pouvait être fait
+a été fait.
+
+57
+00:04:26,360 --> 00:04:29,909
+La dernière tentative de guérir
+notre dégénération physiologique
+
+58
+00:04:30,120 --> 00:04:32,953
+nous a laissé une maladie
+progressant rapidement.
+
+59
+00:04:33,600 --> 00:04:35,192
+Ils n'ont pas eu le choix.
+
+60
+00:04:35,440 --> 00:04:38,830
+Ils avaient choisi de prolonger
+leur vie par la science.
+
+61
+00:04:39,040 --> 00:04:42,749
+Une évolution physiologique
+était nécessaire pour y parvenir.
+
+62
+00:04:42,960 --> 00:04:46,714
+Ils mettront fin à leurs jours
+avant que la dégénérescence
+
+63
+00:04:46,920 --> 00:04:48,672
+- aille trop loin.
+- Un suicide ?
+
+64
+00:04:48,880 --> 00:04:51,713
+Pour que leur savoir
+reste entre de bonnes mains.
+
+65
+00:04:51,960 --> 00:04:53,712
+Ils voulaient qu'on soit témoins.
+
+66
+00:04:54,160 --> 00:04:56,230
+Donc, tout ce qu'ils ont
+installé ici...
+
+67
+00:04:56,480 --> 00:04:57,708
+Sera leur héritage.
+
+68
+00:05:03,000 --> 00:05:05,673
+Vous pourrez vous connecter
+au processeur
+
+69
+00:05:05,880 --> 00:05:07,916
+grâce à mon hologramme
+
+70
+00:05:08,120 --> 00:05:10,588
+ou celui d'un Asgard
+enregistré dans la base.
+
+71
+00:05:10,800 --> 00:05:12,677
+Oui, mais ce ne sera pas pareil.
+
+72
+00:05:12,920 --> 00:05:16,117
+J'y ai travaillé une bonne partie
+de l'année, Colonel Carter.
+
+73
+00:05:16,320 --> 00:05:17,958
+Nous l'apprécions, vraiment.
+
+74
+00:05:18,160 --> 00:05:19,878
+Beaucoup se sont opposés
+
+75
+00:05:20,080 --> 00:05:22,036
+au partage de telles avancées.
+
+76
+00:05:22,240 --> 00:05:24,629
+Nous ferons tout
+pour être à la hauteur.
+
+77
+00:05:25,120 --> 00:05:27,156
+Vous êtes la cinquième race.
+
+78
+00:05:27,920 --> 00:05:30,070
+Votre rôle est clair.
+
+79
+00:05:30,320 --> 00:05:32,675
+S'il existe un espoir
+de préserver l'avenir,
+
+80
+00:05:32,880 --> 00:05:35,997
+il appartient à votre peuple.
+
+81
+00:05:36,760 --> 00:05:38,557
+Pas de pression, hein ?
+
+82
+00:05:38,760 --> 00:05:40,273
+Vous avez gagné mon respect
+
+83
+00:05:40,960 --> 00:05:42,791
+et mon amitié.
+
+84
+00:05:44,600 --> 00:05:46,079
+Eh bien, c'est réciproque.
+
+85
+00:05:47,240 --> 00:05:48,639
+Ne soyez pas triste.
+
+86
+00:05:49,480 --> 00:05:52,199
+La fin de mon peuple
+a mis longtemps à venir.
+
+87
+00:05:52,440 --> 00:05:55,796
+Notre évolution a connu
+trop d'erreurs irréversibles.
+
+88
+00:05:56,000 --> 00:05:58,036
+Pourvu que vous en tiriez la leçon.
+
+89
+00:05:58,840 --> 00:06:01,718
+Mon seul regret
+est que notre faiblesse physique
+
+90
+00:06:01,920 --> 00:06:04,115
+nous empêche de vous aider plus.
+
+91
+00:06:12,440 --> 00:06:15,113
+Trois vaisseaux mères Ori
+ont quitté l'hyperespace
+
+92
+00:06:15,320 --> 00:06:17,231
+et s'approchent de la planète.
+
+93
+00:06:19,000 --> 00:06:21,514
+<i>Mon colonel, c'est le pont.</i>
+<i>Trois contacts.</i>
+
+94
+00:06:21,720 --> 00:06:23,631
+<i>Des vaisseaux Ori viennent sur nous.</i>
+
+95
+00:06:23,880 --> 00:06:27,190
+Hyperdrive toujours coupé.
+Déviez l'énergie sur les boucliers.
+
+96
+00:06:27,400 --> 00:06:28,992
+Vous devez partir.
+
+97
+00:06:33,800 --> 00:06:35,791
+Les Asgard viennent de débarquer.
+
+98
+00:06:36,040 --> 00:06:38,429
+Je prends le temps
+d'activer l'hyperdrive.
+
+99
+00:06:38,640 --> 00:06:41,359
+Puissance subluminique maximum.
+Eloignons-nous.
+
+100
+00:06:50,600 --> 00:06:53,751
+- Boucliers à 83%.
+- Comment nous ont-ils trouvés ?
+
+101
+00:06:56,400 --> 00:06:58,436
+On ne saute pas dans l'hyperespace ?
+
+102
+00:06:58,640 --> 00:06:59,755
+Carter s'y emploie.
+
+103
+00:06:59,960 --> 00:07:03,953
+Formation massive d'énergie détectée
+en provenance de la planète.
+
+104
+00:07:04,200 --> 00:07:06,509
+Accrochez-vous.
+
+105
+00:07:19,840 --> 00:07:21,990
+- Boucliers à 50%.
+- Colonel ?
+
+106
+00:07:22,200 --> 00:07:24,953
+<i>Hyperdrive connecté,</i>
+<i>nous devons écarter la radiation</i>
+
+107
+00:07:25,200 --> 00:07:28,078
+causée par l'explosion
+pour sauter en sécurité.
+
+108
+00:07:28,320 --> 00:07:31,756
+- Les armes énergétiques Asgard ?
+- Elles n'ont pas été testées.
+
+109
+00:07:35,640 --> 00:07:37,312
+Boucliers à 28%.
+
+110
+00:07:37,560 --> 00:07:39,676
+A la puissance maximum,
+47 secondes pour s'éloigner.
+
+111
+00:07:40,120 --> 00:07:41,189
+On n'y arrivera pas.
+
+112
+00:07:41,440 --> 00:07:43,715
+Voyons la composition
+des mises à niveau.
+
+113
+00:07:43,960 --> 00:07:45,678
+Virez.
+
+114
+00:07:51,880 --> 00:07:54,155
+Activez les armes énergétiques.
+
+115
+00:07:54,360 --> 00:07:56,794
+Armes énergétiques activées.
+
+116
+00:07:57,120 --> 00:07:58,792
+Feu.
+
+117
+00:08:02,400 --> 00:08:05,233
+- Les boucliers tremblent.
+- Continuez à tirer.
+
+118
+00:08:12,640 --> 00:08:13,868
+Incroyable.
+
+119
+00:08:15,000 --> 00:08:16,877
+Nous les avons eus.
+
+120
+00:08:17,840 --> 00:08:20,991
+- Emmenez-nous dans l'hyperespace.
+- Bien, mon général.
+
+121
+00:08:28,520 --> 00:08:30,351
+Faites un autre diagnostic.
+
+122
+00:08:30,560 --> 00:08:32,391
+Colonel, et ce rapport ?
+
+123
+00:08:32,600 --> 00:08:35,398
+Je dois briefer le président
+dès notre retour.
+
+124
+00:08:35,600 --> 00:08:39,070
+Il voudra savoir comment copier
+si vite un armement Asgard.
+
+125
+00:08:39,280 --> 00:08:42,192
+J'y travaille, mon général,
+mais il y a autre chose.
+
+126
+00:08:42,400 --> 00:08:45,915
+Le diagnostic de l'hyperdrive
+recrache des données sur moi.
+
+127
+00:08:46,120 --> 00:08:48,111
+Certains dégâts posent problème ?
+
+128
+00:08:48,320 --> 00:08:51,278
+Nous devrions sortir
+et faire des tests pour être sûrs.
+
+129
+00:08:57,840 --> 00:09:00,308
+Deux contacts apparaissent
+sur les détecteurs.
+
+130
+00:09:00,520 --> 00:09:01,748
+Des vaisseaux mères Ori.
+
+131
+00:09:01,960 --> 00:09:03,598
+Ils se rapprochent vite.
+
+132
+00:09:09,840 --> 00:09:13,628
+Vu les dégâts actuels, je préfère
+éviter les autres vaisseaux.
+
+133
+00:09:19,360 --> 00:09:21,032
+<i>L'hyperdrive est reconnecté.</i>
+
+134
+00:09:21,280 --> 00:09:23,669
+- Retournons dans l'hyperespace.
+- Bien.
+
+135
+00:09:27,640 --> 00:09:29,392
+Drôle de coïncidence, non ?
+
+136
+00:09:29,600 --> 00:09:32,558
+Sauf s'ils nous suivaient
+et attendaient que nous sortions.
+
+137
+00:09:32,760 --> 00:09:34,830
+C'est impossible dans l'hyperespace.
+
+138
+00:09:35,040 --> 00:09:37,554
+Sauf si les Ori eux-mêmes
+ont averti les Prieurs.
+
+139
+00:09:37,760 --> 00:09:40,354
+Retour dans la Voie Lactée.
+Autant qu'on sache,
+
+140
+00:09:40,560 --> 00:09:44,109
+ça déplaît encore aux Anciens
+que les Ori utilisent l'Ascension.
+
+141
+00:09:44,320 --> 00:09:45,389
+Autant qu'on sache.
+
+142
+00:09:45,640 --> 00:09:48,074
+Nos armes peuvent détruire
+un vaisseau Ori.
+
+143
+00:09:48,280 --> 00:09:50,999
+Ce n'est pas bon pour nous
+s'ils nous suivent partout.
+
+144
+00:09:51,200 --> 00:09:54,033
+L'<i>Odyssée</i> va affronter
+plus qu'il ne le peut.
+
+145
+00:09:54,240 --> 00:09:56,629
+Les Prieurs détectent peut-être
+la nouvelle technologie
+
+146
+00:09:56,840 --> 00:09:59,400
+offerte par les Asgard
+sans l'aide des Ori ?
+
+147
+00:09:59,640 --> 00:10:01,437
+La nouvelle source d'énergie
+pourrait émettre
+
+148
+00:10:01,640 --> 00:10:04,518
+une signature énergétique
+détectable depuis le sous-espace.
+
+149
+00:10:04,760 --> 00:10:08,116
+Le meilleur moyen de le savoir
+est encore de la couper
+
+150
+00:10:08,320 --> 00:10:09,833
+et de voir si elle arrête les Ori.
+
+151
+00:10:10,080 --> 00:10:12,355
+- Allez-y.
+- Il y a un problème.
+
+152
+00:10:12,560 --> 00:10:16,189
+Le nouveau processeur Asgard est
+relié aux systèmes du vaisseau.
+
+153
+00:10:16,440 --> 00:10:19,512
+Il faut sortir de l'hyperespace
+et isoler le processeur
+
+154
+00:10:19,720 --> 00:10:22,871
+des commandes de l'hyperdrive.
+Ca peut être long.
+
+155
+00:10:29,880 --> 00:10:31,836
+Deux contacts apparaissent
+sur les détecteurs.
+
+156
+00:10:32,040 --> 00:10:33,519
+Merde.
+
+157
+00:10:36,320 --> 00:10:37,719
+Boucliers à 53%.
+
+158
+00:10:37,960 --> 00:10:41,350
+Rapport des dégâts avant et arrière.
+Niveaux 2, 6 et 10.
+
+159
+00:10:41,560 --> 00:10:43,118
+Manœuvres dilatoires. Feu à volonté.
+
+160
+00:10:43,320 --> 00:10:46,232
+On a déjà eu un vaisseau.
+Pourquoi deux autres ?
+
+161
+00:10:48,680 --> 00:10:51,558
+Colonel, j'ai besoin de l'hyperdrive
+maintenant.
+
+162
+00:10:54,160 --> 00:10:55,832
+Allez-y. Hyperdrive connecté.
+
+163
+00:11:07,120 --> 00:11:08,678
+Il faut au moins une demi-heure
+
+164
+00:11:08,920 --> 00:11:11,434
+pour séparer l'hyperdrive
+du processeur.
+
+165
+00:11:11,640 --> 00:11:14,791
+Supposons que les Ori
+nous attaquent quand on s'arrête.
+
+166
+00:11:15,000 --> 00:11:17,275
+Sommes-nous proches d'une porte ?
+
+167
+00:11:21,240 --> 00:11:23,674
+Oui, mon général.
+Sur P3X-474.
+
+168
+00:11:23,920 --> 00:11:26,388
+Elle est inhabitée.
+Nous y serons dans une demi-heure.
+
+169
+00:11:26,600 --> 00:11:28,636
+Avant que l'hyperdrive
+tombe en panne.
+
+170
+00:11:28,840 --> 00:11:31,877
+- Ensuite ?
+- On rentre chez nous par la porte.
+
+171
+00:11:32,080 --> 00:11:34,071
+Ne laissons pas ce vaisseau
+aux ennemis.
+
+172
+00:11:34,320 --> 00:11:36,276
+L'autodestruction sert à ça.
+
+173
+00:11:36,520 --> 00:11:37,635
+Attendez une minute.
+
+174
+00:11:37,840 --> 00:11:40,229
+Vous parlez de détruire le vaisseau...
+
+175
+00:11:40,520 --> 00:11:42,875
+On ne peut sacrifier la base
+des Asgard.
+
+176
+00:11:43,080 --> 00:11:44,638
+Ils nous ont confié leur héritage.
+
+177
+00:11:44,840 --> 00:11:48,071
+Dr Jackson,
+je ne prends pas cela à la légère.
+
+178
+00:11:48,280 --> 00:11:50,316
+On ne peut rien emporter, j'imagine.
+
+179
+00:11:50,560 --> 00:11:52,710
+Non. Le processeur est trop gros.
+
+180
+00:11:52,960 --> 00:11:55,599
+Je veux rester me battre.
+Ca en vaut la peine.
+
+181
+00:11:55,800 --> 00:11:57,438
+Amenez-nous sur 474.
+
+182
+00:11:57,680 --> 00:11:59,716
+Téléportez l'équipe à la surface.
+
+183
+00:11:59,960 --> 00:12:03,555
+Pourvu qu'ils passent la porte
+avant l'attaque Ori.
+
+184
+00:12:03,760 --> 00:12:05,352
+Et après ?
+
+185
+00:12:05,920 --> 00:12:08,275
+Je l'ai dit,
+je me battrai jusqu'à la mort.
+
+186
+00:12:08,480 --> 00:12:12,314
+On a besoin d'un plan qui si possible,
+évite la partie "mort".
+
+187
+00:12:12,520 --> 00:12:14,556
+On a une heure
+pour en trouver un.
+
+188
+00:12:15,440 --> 00:12:18,432
+Je crois que j'ai un moyen
+de gagner un peu de temps.
+
+189
+00:12:36,920 --> 00:12:38,148
+Les voilà.
+
+190
+00:12:38,360 --> 00:12:40,316
+Boucliers au maximum.
+Manœuvres dilatoires.
+
+191
+00:12:40,520 --> 00:12:43,592
+Concentrez les tirs sur une cible.
+Une à la fois.
+
+192
+00:12:47,120 --> 00:12:50,908
+- OK, ce n'était pas bon.
+- Boucliers à 23%.
+
+193
+00:12:51,160 --> 00:12:53,594
+On les frappe avec tout ce qu'on a.
+
+194
+00:13:17,080 --> 00:13:19,878
+- Boucliers désactivés !
+- Encore un coup et on sort.
+
+195
+00:13:20,120 --> 00:13:21,075
+Colonel Carter !
+
+196
+00:13:50,040 --> 00:13:53,999
+La technologie Asgard crée
+une bulle de dilatation temporelle.
+
+197
+00:13:54,240 --> 00:13:57,038
+Le temps passe à une vitesse
+normale pour nous,
+
+198
+00:13:57,240 --> 00:13:58,992
+des années passent dans la bulle,
+
+199
+00:13:59,200 --> 00:14:01,668
+des fractions de seconde
+à l'extérieur du bouclier.
+
+200
+00:14:01,920 --> 00:14:04,195
+- Ce n'est pas nécessaire ?
+- Pourvu que non.
+
+201
+00:14:04,440 --> 00:14:07,113
+Je prévois les modifications
+nécessaires à l'<i>Odyssée</i>
+
+202
+00:14:07,320 --> 00:14:10,596
+pour le mettre hors phase.
+Nous stopperons ensuite la dilatation.
+
+203
+00:14:10,800 --> 00:14:12,438
+- L'explosion ne nous touchera pas.
+- Bien.
+
+204
+00:14:12,640 --> 00:14:17,350
+- J'aurais dû faire ça en premier.
+- Pour revenir au sujet du temps.
+
+205
+00:14:18,080 --> 00:14:21,834
+Le processeur a une technologie
+de champ de dilatation temporelle.
+
+206
+00:14:22,040 --> 00:14:24,395
+C'était une option simple et rapide.
+
+207
+00:14:24,600 --> 00:14:25,953
+Je vais devoir recréer
+
+208
+00:14:26,160 --> 00:14:28,833
+une partie de la technologie
+hors phase de Merlin
+
+209
+00:14:29,040 --> 00:14:30,473
+avec ce qu'on a à bord.
+
+210
+00:14:31,040 --> 00:14:32,678
+Ca peut prendre un moment.
+
+211
+00:14:32,880 --> 00:14:35,838
+Pour être sûr,
+combien c'est, "un moment" ?
+
+212
+00:14:36,080 --> 00:14:37,308
+Je n'en suis pas sûre.
+
+213
+00:14:37,520 --> 00:14:40,432
+Mais nous avons assez de vivres
+pour trois mois.
+
+214
+00:14:42,440 --> 00:14:44,795
+- Trois mois ?
+- Rationnez les provisions.
+
+215
+00:14:46,520 --> 00:14:49,592
+Je vais devenir folle
+et je t'emmène avec moi.
+
+216
+00:14:49,800 --> 00:14:55,796
+- Bien sûr, si ça se prolonge...
+- Plus de trois mois ?
+
+217
+00:14:56,280 --> 00:14:58,794
+Moralité, personne n'a d'excuse
+
+218
+00:14:59,000 --> 00:15:01,673
+pour être en retard
+dans sa paperasserie.
+
+219
+00:15:15,960 --> 00:15:18,872
+<i>Cette fonction est impossible.</i>
+
+220
+00:15:55,000 --> 00:15:56,877
+Les Ori auraient-ils pu
+trouver comment
+
+221
+00:15:57,080 --> 00:16:00,277
+traverser le champ de dilatation
+et monter à bord ?
+
+222
+00:16:00,480 --> 00:16:03,119
+- Non.
+- Parce que j'entends des choses.
+
+223
+00:16:03,320 --> 00:16:06,437
+- Et toi ?
+- J'essaie de ne rien entendre.
+
+224
+00:16:06,640 --> 00:16:10,519
+Ils savent comment,
+mais ils ne peuvent couper le champ,
+
+225
+00:16:10,720 --> 00:16:13,917
+alors ils veulent nous rendre fous,
+nous inciter à le couper.
+
+226
+00:16:15,560 --> 00:16:17,312
+Ce n'était pas une question.
+
+227
+00:16:22,440 --> 00:16:25,113
+Avant de construire la technologie
+de Merlin,
+
+228
+00:16:25,320 --> 00:16:27,675
+j'ai décidé de faire une simulation.
+
+229
+00:16:30,320 --> 00:16:33,596
+Deux semaines pour découvrir
+que ça ne marcherait pas ?
+
+230
+00:16:33,800 --> 00:16:35,870
+Désolée, je tente d'ajuster
+les paramètres.
+
+231
+00:16:36,080 --> 00:16:39,993
+Selon Thor, je ne pourrais pas
+mettre ce vaisseau hors phase
+
+232
+00:16:40,200 --> 00:16:41,633
+avant de couper le champ.
+
+233
+00:16:41,840 --> 00:16:44,035
+Une fois le champ
+de dilatation activé,
+
+234
+00:16:44,240 --> 00:16:46,959
+nous avons 0,86 secondes
+avant l'explosion.
+
+235
+00:16:47,200 --> 00:16:49,350
+Insuffisant pour le mettre hors phase.
+
+236
+00:16:49,560 --> 00:16:50,788
+OK, voyons le plan B.
+
+237
+00:16:51,000 --> 00:16:54,151
+J'ai fait cette simulation également.
+
+238
+00:16:54,840 --> 00:16:58,310
+Si on se téléporte
+dans la mémoire tampon vers la Terre
+
+239
+00:16:58,520 --> 00:17:01,990
+et qu'on règle le champ
+sur un minuteur pour la désactiver,
+
+240
+00:17:02,200 --> 00:17:04,634
+le flux de matière non plus
+n'a pas le temps
+
+241
+00:17:04,840 --> 00:17:07,400
+de sortir du tampon
+et d'éliminer l'explosion.
+
+242
+00:17:07,600 --> 00:17:10,592
+Plan C. On va dans les 302,
+comme pour le <i>Korolev.</i>
+
+243
+00:17:10,800 --> 00:17:11,789
+Autre simulation.
+
+244
+00:17:12,000 --> 00:17:15,231
+La façon dont l'<i>Odyssée</i>
+va être touché, comparé au <i>Korolev,</i>
+
+245
+00:17:15,440 --> 00:17:18,273
+- ça n'ira pas.
+- L'ordinateur se trompe.
+
+246
+00:17:18,640 --> 00:17:21,200
+Les deux derniers scénarios
+ne protègent ni le vaisseau
+
+247
+00:17:21,400 --> 00:17:23,516
+- ni le savoir Asgard.
+- Je sais.
+
+248
+00:17:23,720 --> 00:17:27,599
+- OK, juste deux semaines.
+- J'ai un souci avec le mot "juste".
+
+249
+00:17:27,840 --> 00:17:31,992
+Bonne nouvelle, les Asgard ont fourni
+une technologie incroyable.
+
+250
+00:17:32,240 --> 00:17:35,277
+- Rien pour sortir de ce bourbier.
+- On n'en sait rien.
+
+251
+00:17:35,520 --> 00:17:38,478
+En modifiant légèrement
+la technologie de téléportation,
+
+252
+00:17:38,680 --> 00:17:41,433
+on obtient un convertisseur
+de matière fabriquant
+
+253
+00:17:41,640 --> 00:17:43,949
+plus de nourriture, d'eau et d'oxygène
+
+254
+00:17:44,160 --> 00:17:47,869
+- que ce dont on a besoin.
+- Pas la sortie de ce vaisseau.
+
+255
+00:17:48,120 --> 00:17:49,678
+Vous avez donné votre avis.
+
+256
+00:17:49,920 --> 00:17:52,309
+Je doute beaucoup
+que le Colonel ait frôlé
+
+257
+00:17:52,520 --> 00:17:54,272
+la surface des possibilités.
+
+258
+00:17:54,480 --> 00:17:56,835
+Laissez-lui plus de temps.
+
+259
+00:19:01,040 --> 00:19:03,952
+Vivre plus longtemps,
+c'est tout ce qu'ils voulaient.
+
+260
+00:19:04,520 --> 00:19:06,078
+Nous ne sommes pas différents.
+
+261
+00:19:06,280 --> 00:19:08,635
+Séquencer l'ADN, guérir les maladies.
+
+262
+00:19:08,840 --> 00:19:12,469
+Une erreur fatale
+et ils condamnent leur race entière.
+
+263
+00:19:13,440 --> 00:19:16,193
+J'imagine que quoi qu'on fasse,
+à la fin des fins,
+
+264
+00:19:17,000 --> 00:19:19,195
+la vie est trop courte.
+
+265
+00:19:20,280 --> 00:19:21,713
+Tu as raison.
+
+266
+00:19:32,920 --> 00:19:35,309
+- Que fais-tu ?
+- Ce qu'on aurait dû faire
+
+267
+00:19:35,520 --> 00:19:37,192
+il y a longtemps.
+
+268
+00:19:38,400 --> 00:19:40,038
+- Ne fais pas ça.
+- Pourquoi pas ?
+
+269
+00:19:48,280 --> 00:19:50,157
+Ca fait trois mois qu'on est là.
+
+270
+00:19:50,400 --> 00:19:52,709
+Daniel, trois mois.
+
+271
+00:19:54,560 --> 00:19:57,028
+- Tu aimes les filles ?
+- Oui.
+
+272
+00:19:58,360 --> 00:20:02,512
+Eh bien, je ne vois pas beaucoup
+de choix par ici, n'est-ce pas ?
+
+273
+00:20:03,680 --> 00:20:09,437
+A moins que tu ne me trouves
+vraiment pas attirante.
+
+274
+00:20:10,520 --> 00:20:12,431
+Tu veux une réponse honnête
+à cette question ?
+
+275
+00:20:12,680 --> 00:20:14,875
+- Non.
+- Sérieusement. Tu as commencé.
+
+276
+00:20:15,080 --> 00:20:18,117
+- Tu veux une réponse honnête ?
+- Non, ne t'en fais pas.
+
+277
+00:20:18,320 --> 00:20:22,438
+Crois-tu que je pourrais éprouver
+des sentiments sérieux pour toi ?
+
+278
+00:20:25,200 --> 00:20:28,909
+Je ne parlais pas
+de sentiments sérieux.
+
+279
+00:20:29,280 --> 00:20:32,158
+Mais quoi ? On couche une fois
+ensemble, et alors ?
+
+280
+00:20:32,360 --> 00:20:33,679
+On travaille ensemble.
+
+281
+00:20:34,520 --> 00:20:37,273
+Tu sais, rien que le dire tout haut
+semble incroyable.
+
+282
+00:20:37,520 --> 00:20:38,919
+Je veux dire...
+
+283
+00:20:39,160 --> 00:20:43,631
+Je n'imagine pas à quoi ressemblerait
+une relation avec toi.
+
+284
+00:20:43,840 --> 00:20:48,356
+Tu as prouvé que tu étais fiable
+au niveau professionnel, oui.
+
+285
+00:20:48,560 --> 00:20:52,473
+Et pour ça, je suis très fier de toi.
+Mais au niveau personnel ?
+
+286
+00:20:52,680 --> 00:20:54,398
+Vala, allez, ça suffit.
+
+287
+00:20:55,240 --> 00:20:58,676
+Je veux dire, au mieux,
+tu es une loque émotive, instable.
+
+288
+00:20:58,880 --> 00:21:01,713
+Je ne prétends pas
+être beaucoup mieux.
+
+289
+00:21:01,920 --> 00:21:05,549
+A une époque, j'ai cru ne pas
+me remettre de la perte de ma femme.
+
+290
+00:21:05,920 --> 00:21:07,751
+Je veux dire, l'idée d'éprouver
+
+291
+00:21:08,240 --> 00:21:11,437
+à nouveau une telle souffrance.
+Mais j'y suis enfin arrivé.
+
+292
+00:21:11,640 --> 00:21:14,313
+Pour la première fois
+depuis longtemps, j'arrive à me dire
+
+293
+00:21:14,520 --> 00:21:17,273
+que je pourrais à nouveau
+me rapprocher de quelqu'un.
+
+294
+00:21:17,720 --> 00:21:19,312
+Mais jamais de la vie...
+
+295
+00:21:19,520 --> 00:21:24,958
+Jamais je ne pourrais considérer
+que cette personne, c'est toi.
+
+296
+00:21:25,160 --> 00:21:27,993
+Enfin, on est totalement
+
+297
+00:21:28,200 --> 00:21:31,590
+opposés et dépareillés.
+Ce n'est même pas drôle. Le pire...
+
+298
+00:21:31,800 --> 00:21:34,075
+Le pire c'est que tu le sais.
+
+299
+00:21:34,320 --> 00:21:37,278
+Et tous ces trucs sexy que tu fais,
+
+300
+00:21:37,480 --> 00:21:41,029
+c'est juste ta façon
+de rire à mes dépens.
+
+301
+00:21:41,280 --> 00:21:43,794
+Désolé si je ne suis pas
+plus reconnaissant que ça,
+
+302
+00:21:44,000 --> 00:21:49,120
+vraiment désolé que tu t'ennuies.
+Ne prétends pas que c'est autre chose.
+
+303
+00:21:56,240 --> 00:21:58,800
+Ne fais pas comme si
+tu étais blessée.
+
+304
+00:22:18,280 --> 00:22:20,396
+- Donne-moi une minute.
+- Hé.
+
+305
+00:22:21,840 --> 00:22:23,478
+Regarde-moi.
+
+306
+00:22:53,160 --> 00:22:54,912
+Tu n'as pas intérêt à m'embêter.
+
+307
+00:23:20,640 --> 00:23:22,198
+Mon général.
+
+308
+00:23:23,800 --> 00:23:26,712
+Nous devons saisir notre chance
+avec les F-302.
+
+309
+00:23:26,920 --> 00:23:29,070
+J'ai besoin d'une lampe solaire.
+
+310
+00:23:29,280 --> 00:23:32,556
+Cet oxygène converti,
+ce n'est vraiment pas pareil.
+
+311
+00:23:33,280 --> 00:23:36,955
+Pourquoi l'ironie de tout ça
+échappe à tout le monde sauf moi ?
+
+312
+00:23:37,160 --> 00:23:38,673
+Ce n'est pas le cas.
+
+313
+00:23:39,480 --> 00:23:41,948
+A ce stade, nous savons
+que ce sont les mises à niveau
+
+314
+00:23:42,160 --> 00:23:43,912
+qui permettent aux Ori de nous suivre.
+
+315
+00:23:44,160 --> 00:23:46,879
+Même en sauvant le vaisseau,
+on ne peut pas utiliser la technologie
+
+316
+00:23:47,080 --> 00:23:50,356
+car les Ori nous tomberont dessus
+comme des pierres.
+
+317
+00:23:51,000 --> 00:23:52,115
+Pour l'instant.
+
+318
+00:23:52,640 --> 00:23:55,279
+Mon général.
+C'est comme une mauvaise blague.
+
+319
+00:23:55,480 --> 00:23:59,314
+On s'est isolés ici pour sauver
+quelque chose d'inutilisable.
+
+320
+00:23:59,560 --> 00:24:02,757
+Je n'en reparlerai plus.
+
+321
+00:24:24,800 --> 00:24:26,392
+Je veux t'aider.
+
+322
+00:24:32,600 --> 00:24:34,750
+Le problème,
+c'est que le temps est insuffisant
+
+323
+00:24:34,960 --> 00:24:37,428
+pour couper le champ
+et débuter un nouveau processus.
+
+324
+00:24:37,680 --> 00:24:39,352
+- Je sais.
+- Je pense tout haut, là.
+
+325
+00:24:39,560 --> 00:24:42,154
+- Je sais.
+- Qu'est-ce que c'est ?
+
+326
+00:24:43,120 --> 00:24:44,155
+C'est un violoncelle.
+
+327
+00:24:44,400 --> 00:24:46,197
+J'ai toujours voulu apprendre
+à en jouer.
+
+328
+00:24:48,760 --> 00:24:51,832
+La dilatation peut-elle
+résoudre notre problème ?
+
+329
+00:24:52,040 --> 00:24:53,553
+- Comment ?
+- Eh bien.
+
+330
+00:24:54,360 --> 00:24:55,349
+Bien sûr, elle...
+
+331
+00:24:56,600 --> 00:24:59,797
+Désolée. Ce serait génial de pouvoir
+retourner dans le passé
+
+332
+00:25:00,000 --> 00:25:02,639
+et éviter cette situation
+d'abord.
+
+333
+00:25:03,200 --> 00:25:06,510
+Bien, ralentir le temps
+dans un champ localisé
+
+334
+00:25:06,720 --> 00:25:10,474
+n'est pas la même chose
+qu'inverser entièrement le temps.
+
+335
+00:25:11,040 --> 00:25:12,439
+C'est une bonne idée.
+
+336
+00:25:12,680 --> 00:25:18,835
+Tu vois, on a besoin que Superman
+vole autour du vaisseau très, très vite.
+
+337
+00:25:19,040 --> 00:25:21,076
+Oh, si tu savais
+comme c'était ridicule.
+
+338
+00:25:21,280 --> 00:25:23,919
+Non, ce n'est plus ridicule
+quand on se dit:
+
+339
+00:25:24,120 --> 00:25:29,114
+"Mon vaisseau est bloqué dans un champ
+de dilatation temporelle. "
+
+340
+00:26:31,040 --> 00:26:34,157
+<i>Cette fonction est impossible.</i>
+
+341
+00:26:36,360 --> 00:26:38,112
+Je hais ce vaisseau.
+
+342
+00:26:38,320 --> 00:26:40,276
+Tu es pilote. Tu adores voler.
+
+343
+00:26:40,480 --> 00:26:42,038
+Un chasseur ne vole pas.
+
+344
+00:26:42,240 --> 00:26:43,832
+Il reste immobile.
+
+345
+00:26:44,040 --> 00:26:46,600
+<i>La croisière s'amuse</i>
+sans buffet ni musique.
+
+346
+00:26:46,800 --> 00:26:50,554
+J'aimais ça car j'ignorais
+l'existence de la porte des étoiles.
+
+347
+00:27:38,400 --> 00:27:40,470
+<i>Cette fonction est impossible.</i>
+
+348
+00:28:29,120 --> 00:28:31,429
+Vingt ans aujourd'hui.
+
+349
+00:28:34,600 --> 00:28:37,114
+Tu penses encore
+que la vie est courte ?
+
+350
+00:29:33,720 --> 00:29:35,517
+Pourquoi fais-tu ça ?
+
+351
+00:29:35,920 --> 00:29:38,673
+Vu que ce que tu apprendras
+mourra avec toi ?
+
+352
+00:29:41,200 --> 00:29:43,953
+Je sais que vous me prenez tous
+pour un fou,
+
+353
+00:29:44,400 --> 00:29:48,837
+mais en vérité, c'est si j'arrête
+que je deviens fou.
+
+354
+00:29:49,960 --> 00:29:51,837
+D'ailleurs, tu n'as pas abandonné.
+
+355
+00:29:52,600 --> 00:29:54,113
+Si.
+
+356
+00:30:04,840 --> 00:30:06,751
+Arrêtez.
+
+357
+00:30:07,040 --> 00:30:10,555
+- Je ne peux pas. Je suis désolée.
+- Vous n'y êtes pour rien.
+
+358
+00:30:12,600 --> 00:30:18,072
+Nous serions morts depuis longtemps
+sans votre décision.
+
+359
+00:30:30,480 --> 00:30:31,879
+N'abandonnez pas.
+
+360
+00:31:33,680 --> 00:31:36,558
+Quand j'ai dit que je voulais
+rassembler l'équipe,
+
+361
+00:31:36,760 --> 00:31:39,558
+travailler avec vous,
+apprendre de vous,
+
+362
+00:31:42,240 --> 00:31:46,358
+je ne voulais pas dire chaque moment
+d'éveil des 50 années suivantes.
+
+363
+00:31:46,840 --> 00:31:48,353
+Tu as dit ça hier.
+
+364
+00:31:49,400 --> 00:31:50,753
+Vraiment ?
+
+365
+00:31:50,960 --> 00:31:52,678
+Et avant-hier.
+
+366
+00:31:52,920 --> 00:31:55,195
+Et avant avant-hier.
+
+367
+00:31:56,600 --> 00:32:00,912
+Excusez-moi, je me tais maintenant.
+
+368
+00:32:01,200 --> 00:32:03,509
+Non, pardon.
+Je n'aurais rien dû dire.
+
+369
+00:32:07,960 --> 00:32:09,188
+J'ai trouvé.
+
+370
+00:32:12,120 --> 00:32:13,872
+Trouvé quoi ?
+
+371
+00:32:14,200 --> 00:32:17,272
+Comment inverser le temps
+dans un champ localisé.
+
+372
+00:32:22,920 --> 00:32:24,273
+Quoi ?
+
+373
+00:32:26,440 --> 00:32:27,998
+Qu'est-ce qu'il y a ?
+
+374
+00:32:28,200 --> 00:32:30,873
+Maintenir le champ de dilatation
+tout ce temps
+
+375
+00:32:31,120 --> 00:32:33,873
+a pratiquement épuisé l'EPPZ
+
+376
+00:32:34,080 --> 00:32:36,230
+et la source d'énergie
+du processeur.
+
+377
+00:32:36,480 --> 00:32:38,755
+On n'a pas assez d'énergie
+pour le faire aller ?
+
+378
+00:32:38,960 --> 00:32:40,632
+De l'ironie de ta part ?
+
+379
+00:32:42,240 --> 00:32:44,470
+Je crée le champ
+pour gagner du temps,
+
+380
+00:32:44,680 --> 00:32:46,671
+je découvre enfin
+comment annuler tout ça
+
+381
+00:32:46,880 --> 00:32:49,792
+et ce temps supplémentaire
+est un obstacle.
+
+382
+00:32:50,000 --> 00:32:51,228
+En es-tu sûre ?
+
+383
+00:32:51,480 --> 00:32:54,199
+Si tu avais plus de temps,
+pourrais-tu...
+
+384
+00:32:54,920 --> 00:32:57,832
+- J'en suis sûre.
+- Hé, Sam.
+
+385
+00:32:58,720 --> 00:33:01,996
+Tu te souviens quand on était coincés
+hors phase ?
+
+386
+00:33:02,200 --> 00:33:04,953
+- Quand ?
+- Quand on t'a tiré dessus: Tu as cru
+
+387
+00:33:05,160 --> 00:33:08,232
+que tu allais mourir et que les Ori
+allaient détruire ce village.
+
+388
+00:33:08,440 --> 00:33:09,555
+Vaguement.
+
+389
+00:33:09,760 --> 00:33:13,196
+Tu m'as fait utiliser
+la source d'énergie d'une arme Ori
+
+390
+00:33:13,400 --> 00:33:15,834
+pour alimenter l'appareil de Merlin.
+
+391
+00:33:16,640 --> 00:33:19,518
+Nous n'avons rien qui puisse servir
+de source d'énergie
+
+392
+00:33:19,720 --> 00:33:22,678
+nécessaire à l'inversion
+du champ temporel
+
+393
+00:33:22,880 --> 00:33:24,393
+pendant assez longtemps.
+
+394
+00:33:25,520 --> 00:33:26,999
+Vraiment ?
+
+395
+00:33:30,440 --> 00:33:32,112
+Viens avec moi.
+
+396
+00:33:38,480 --> 00:33:40,516
+Et ça ?
+
+397
+00:33:47,520 --> 00:33:48,919
+Ca ?
+
+398
+00:33:49,160 --> 00:33:51,151
+Mais il est impossible de...
+
+399
+00:33:54,920 --> 00:33:56,592
+Impossible d'absorber l'explosion
+
+400
+00:33:56,800 --> 00:33:58,870
+et d'insérer l'énergie
+dans le processeur.
+
+401
+00:33:59,480 --> 00:34:00,674
+Sauf ?
+
+402
+00:34:00,880 --> 00:34:05,192
+Sauf si nous réacheminons l'énergie
+du vaisseau vers le processeur
+
+403
+00:34:05,400 --> 00:34:07,595
+et laissons l'explosion nous toucher.
+
+404
+00:34:07,800 --> 00:34:09,950
+- Le vaisseau va exploser.
+- Oui.
+
+405
+00:34:10,720 --> 00:34:12,836
+Pourvu que l'énergie
+de l'explosion suffise
+
+406
+00:34:13,040 --> 00:34:14,712
+pour être conduite au processeur
+
+407
+00:34:14,920 --> 00:34:17,275
+qui doit activer
+le champ temporel inversé
+
+408
+00:34:17,480 --> 00:34:19,357
+avant que tout ne soit détruit.
+
+409
+00:34:19,600 --> 00:34:20,999
+Mais nous serons morts.
+
+410
+00:34:21,200 --> 00:34:24,237
+Si ça marche,
+quelques millièmes de seconde.
+
+411
+00:34:24,800 --> 00:34:26,677
+Et le temps dans la bulle
+s'inversera,
+
+412
+00:34:26,880 --> 00:34:29,519
+nous serons vivants
+et le vaisseau intact.
+
+413
+00:34:29,760 --> 00:34:31,079
+Si ça marche.
+
+414
+00:34:31,320 --> 00:34:34,118
+Oui. Je ne promets rien.
+
+415
+00:34:34,360 --> 00:34:37,591
+D'accord, c'est un essai,
+je trouve qu'on doit le faire.
+
+416
+00:34:38,760 --> 00:34:41,194
+- Jusqu'où peut-on aller ?
+- Jusqu'au point
+
+417
+00:34:41,400 --> 00:34:43,675
+de formation du champ de dilatation.
+
+418
+00:34:43,880 --> 00:34:46,519
+On peut inverser le temps
+pour l'univers tout entier.
+
+419
+00:34:46,760 --> 00:34:48,478
+Si on retourne plus loin,
+
+420
+00:34:48,680 --> 00:34:50,830
+on se retrouve
+hors de l'espace/temps normal,
+
+421
+00:34:51,040 --> 00:34:54,077
+créant un paradoxe
+que la technologie ne peut gérer.
+
+422
+00:34:54,280 --> 00:34:55,793
+Est-ce que ce sera suffisant ?
+
+423
+00:34:56,440 --> 00:34:59,716
+Je devrais pouvoir obtenir
+plus de temps, peut-être une minute.
+
+424
+00:35:00,280 --> 00:35:01,759
+Mais...
+
+425
+00:35:03,280 --> 00:35:05,396
+L'un de nous doit rester vieux.
+
+426
+00:35:07,040 --> 00:35:10,191
+Nous parlons d'inverser le temps
+à l'intérieur du champ.
+
+427
+00:35:10,400 --> 00:35:14,996
+Tout. Notre âge, nos souvenirs,
+tout s'annulera.
+
+428
+00:35:15,200 --> 00:35:17,430
+Si ça marche, l'histoire se répètera.
+
+429
+00:35:17,640 --> 00:35:19,790
+Sauf si quelqu'un est isolé du champ
+
+430
+00:35:20,000 --> 00:35:22,036
+et oriente les événements
+vers une autre direction.
+
+431
+00:35:22,280 --> 00:35:25,636
+Tu as créé le champ de
+dilatation temporelle
+
+432
+00:35:25,840 --> 00:35:28,957
+pour éviter
+que l'explosion nous atteigne.
+
+433
+00:35:29,200 --> 00:35:31,475
+- Tu n'avais pas le choix.
+- Exact.
+
+434
+00:35:31,720 --> 00:35:35,679
+Nous devons sectionner le processeur
+des commandes de l'hyperdrive
+
+435
+00:35:35,880 --> 00:35:39,475
+ou les Ori nous suivront
+lors de notre saut dans l'hyperespace.
+
+436
+00:35:40,040 --> 00:35:44,079
+Il y a longtemps, au cas où
+je résoudrais le problème du temps,
+
+437
+00:35:44,280 --> 00:35:47,431
+j'ai créé un programme
+pour accomplir cela rapidement.
+
+438
+00:35:47,760 --> 00:35:49,751
+Je le chargerai sur un cristal.
+
+439
+00:35:50,000 --> 00:35:53,470
+Ainsi, quelques secondes suffiront
+pour couper le processeur
+
+440
+00:35:53,680 --> 00:35:56,717
+- et sauter dans l'hyperespace.
+- Pourquoi toi ?
+
+441
+00:35:58,200 --> 00:35:59,997
+Ca me paraît évident.
+
+442
+00:36:01,280 --> 00:36:02,872
+Je le ferai.
+
+443
+00:36:05,080 --> 00:36:07,435
+Teal'c, tu as perdu
+autant d'années que nous.
+
+444
+00:36:07,680 --> 00:36:08,999
+Quel âge as-tu, 130 ans ?
+
+445
+00:36:09,760 --> 00:36:12,399
+Il ne fait pas plus
+de 120 ans, selon moi.
+
+446
+00:36:12,640 --> 00:36:14,198
+J'ai bien plus d'années à vivre.
+
+447
+00:36:14,520 --> 00:36:16,511
+Je suis le seul choix logique.
+
+448
+00:36:16,960 --> 00:36:20,032
+- Teal'c.
+- Je n'ai qu'une question.
+
+449
+00:36:20,360 --> 00:36:21,713
+Si cela échoue ?
+
+450
+00:36:23,120 --> 00:36:24,997
+Alors, les boucliers céderont
+
+451
+00:36:25,200 --> 00:36:27,555
+et tu mourras avec nous.
+
+452
+00:36:31,480 --> 00:36:33,152
+Alors c'est réglé.
+
+453
+00:36:37,280 --> 00:36:39,350
+Je veux que tu saches,
+
+454
+00:36:39,560 --> 00:36:44,236
+même si tu l'oublies, que je n'ai pas
+passé toutes ces années avec toi
+
+455
+00:36:44,440 --> 00:36:49,070
+parce qu'on était coincés
+sur ce satané vaisseau.
+
+456
+00:36:49,960 --> 00:36:52,838
+- J'étais avec toi parce que...
+- Je sais.
+
+457
+00:36:54,240 --> 00:36:57,471
+- Et je veux que tu saches que je...
+- Je sais.
+
+458
+00:36:57,680 --> 00:36:59,352
+Je sais.
+
+459
+00:37:03,760 --> 00:37:04,954
+<i>Je suis prête.</i>
+
+460
+00:37:05,360 --> 00:37:06,793
+Vas-y, Sam.
+
+461
+00:37:52,400 --> 00:37:55,153
+- Boucliers déconnectés !
+- Encore un coup et on sort.
+
+462
+00:37:55,400 --> 00:37:56,879
+Colonel Carter !
+
+463
+00:38:01,120 --> 00:38:02,348
+Teal'c, que fais-tu ?
+
+464
+00:38:18,680 --> 00:38:21,319
+Oh, allez. Ca me rend folle.
+
+465
+00:38:21,520 --> 00:38:24,193
+Techniquement,
+créer un paradoxe temporel
+
+466
+00:38:24,400 --> 00:38:27,790
+serait sans danger, car nous avons
+déjà changé le futur.
+
+467
+00:38:28,000 --> 00:38:30,070
+Vous n'altéreriez pas le futur
+
+468
+00:38:30,280 --> 00:38:33,272
+en nous parlant
+de ce qui ne se produira plus.
+
+469
+00:38:33,480 --> 00:38:34,833
+Alors qu'importe ?
+
+470
+00:38:35,040 --> 00:38:37,508
+Cinquante ou soixante ans ?
+
+471
+00:38:37,760 --> 00:38:40,513
+Quelque chose d'intéressant
+a dû avoir lieu.
+
+472
+00:38:41,320 --> 00:38:43,550
+J'ai épousé quelqu'un, évidemment.
+
+473
+00:38:46,240 --> 00:38:48,117
+C'était toi, Muscles ?
+
+474
+00:38:50,720 --> 00:38:53,109
+Ca ne peut pas être Mitchell,
+n'est-ce pas ?
+
+475
+00:38:53,320 --> 00:38:55,470
+Le Général Landry ?
+
+476
+00:38:59,880 --> 00:39:02,713
+- Composez l'adresse, Walter.
+- Oui, mon général.
+
+477
+00:39:11,880 --> 00:39:13,632
+Chevron 1 encodé.
+
+478
+00:39:16,760 --> 00:39:20,230
+Voilà comment on est censé voyager
+à des années lumières,
+
+479
+00:39:20,480 --> 00:39:22,072
+vers d'autres planètes.
+
+480
+00:39:22,280 --> 00:39:23,918
+Chevron 2 encodé.
+
+481
+00:39:26,360 --> 00:39:28,430
+J'aimerais croire
+que je me suis maîtrisé,
+
+482
+00:39:28,640 --> 00:39:33,555
+mais je dois être devenu un peu fou,
+enfermé dans ce vaisseau si longtemps.
+
+483
+00:39:33,800 --> 00:39:35,074
+Chevron 3 encodé.
+
+484
+00:39:35,320 --> 00:39:37,197
+Teal'c m'a dit ce que j'ai tiré
+
+485
+00:39:37,400 --> 00:39:41,188
+- des connaissances Asgard.
+- Ah oui ? Quoi par exemple ?
+
+486
+00:39:41,400 --> 00:39:44,631
+- Oh, mon Dieu. C'était quoi ?
+<i>- Chevron 4 encodé.</i>
+
+487
+00:39:45,240 --> 00:39:46,593
+Nécessité fait loi.
+
+488
+00:39:47,200 --> 00:39:48,599
+Mieux vaut tard que jamais.
+
+489
+00:39:48,800 --> 00:39:50,518
+Il faut réfléchir avant d'agir.
+
+490
+00:39:50,720 --> 00:39:52,472
+L'argent ne fait pas le bonheur.
+
+491
+00:39:53,160 --> 00:39:55,913
+Laisse-moi deviner,
+la beauté est intérieure ?
+
+492
+00:39:56,120 --> 00:39:57,678
+Le silence est d'or.
+
+493
+00:39:58,800 --> 00:40:00,233
+Chevron
+5 encodé.
+
+494
+00:40:00,440 --> 00:40:02,271
+Propre à tout, bon à rien.
+
+495
+00:40:02,480 --> 00:40:04,630
+Qui ne tente rien n'a rien.
+
+496
+00:40:05,040 --> 00:40:06,519
+La vie est courte.
+
+497
+00:40:09,440 --> 00:40:11,158
+Chevron 6 encodé.
+
+498
+00:40:12,840 --> 00:40:15,513
+Tout vient à point
+à qui sait attendre.
+
+499
+00:40:16,760 --> 00:40:19,718
+Aussi dur que ce soit pour nous
+de ne pas savoir,
+
+500
+00:40:20,240 --> 00:40:23,198
+ce doit être une torture
+de ne pas nous raconter.
+
+501
+00:40:27,680 --> 00:40:28,908
+En effet.
+
+502
+00:40:33,760 --> 00:40:36,274
+Chevron 7 verrouillé.
+
+503
+00:40:41,400 --> 00:40:42,719
+Bonne chance, SG-1.
+
+504
+00:40:44,160 --> 00:40:47,197
+Rien qu'une mission de routine
+pour sauver la galaxie.
+
+505
+00:40:47,480 --> 00:40:49,675
+En effet.
+
+506
+00:41:37,200 --> 00:41:39,156
+<i>Traduction:</i>
+Silvia Pala
+
+507
+00:41:39,360 --> 00:41:41,316
+<i>Sous-titrage:</i>
+SDI Media Group
+
+508
+00:41:41,520 --> 00:41:43,476
+[FRENCH]
+

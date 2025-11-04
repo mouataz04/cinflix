@@ -1,0 +1,2337 @@
+1
+00:00:02,960 --> 00:00:05,110
+Je suis du genre
+verre à moitié plein.
+
+2
+00:00:05,320 --> 00:00:08,756
+La cure contre la peste des Prieurs
+a été fournie à ceux qui le désiraient.
+
+3
+00:00:08,920 --> 00:00:10,911
+Plus de nouveaux cas
+depuis un moment.
+
+4
+00:00:11,080 --> 00:00:14,436
+- Pour moi, c'est gagné.
+- Ne crions pas victoire.
+
+5
+00:00:14,600 --> 00:00:17,114
+On les a arrêtés,
+mais ils doivent déjà
+
+6
+00:00:17,280 --> 00:00:20,590
+fomenter d'autres moyens
+de répandre la peur et la destruction.
+
+7
+00:00:20,760 --> 00:00:22,557
+Normal, ce sont eux,
+les méchants.
+
+8
+00:00:22,720 --> 00:00:24,790
+Et ça ne va pas être du coton.
+
+9
+00:00:24,960 --> 00:00:27,349
+Les Prieurs commencent à parler
+de la fin des temps,
+
+10
+00:00:27,520 --> 00:00:30,432
+où nous verrons tous s'affronter
+la lumière et les ténèbres.
+
+11
+00:00:30,600 --> 00:00:33,068
+C'est comme Tyson-Holyfield,
+y a toujours une revanche.
+
+12
+00:00:37,080 --> 00:00:38,354
+Bon, allons-y.
+
+13
+00:00:38,520 --> 00:00:40,431
+On a de vieilles ruines à explorer.
+
+14
+00:00:40,600 --> 00:00:42,158
+<i>Attendez, SG-1.</i>
+
+15
+00:00:42,760 --> 00:00:44,079
+Fermez la porte.
+
+16
+00:00:44,240 --> 00:00:45,992
+Votre mission est annulée.
+
+17
+00:00:47,040 --> 00:00:49,713
+- Pourquoi?
+- On vous demande ailleurs.
+
+18
+00:00:58,320 --> 00:00:59,435
+Général, qu'y a-t-il?
+
+19
+00:00:59,600 --> 00:01:02,797
+Un groupe de délégués de l'IOA
+
+20
+00:01:02,960 --> 00:01:05,030
+va visiter le site Gamma.
+
+21
+00:01:05,200 --> 00:01:09,034
+Le Pentagone veut que SG-1
+soit leur escorte officielle.
+
+22
+00:01:09,200 --> 00:01:13,637
+- Drôle de demande.
+- C'est une première, pour l'IOA.
+
+23
+00:01:13,840 --> 00:01:16,479
+Le président veut
+que tout se passe bien.
+
+24
+00:01:16,680 --> 00:01:20,559
+C'est pour ça qu'il a choisi
+notre meilleure équipe.
+
+25
+00:01:21,040 --> 00:01:23,759
+- Général, sans vouloir me plaindre...
+- Je vous y autorise.
+
+26
+00:01:23,960 --> 00:01:25,678
+On va devoir jouer
+les baby-sitters?
+
+27
+00:01:25,840 --> 00:01:28,308
+Ne sous-estimez pas
+l'importance de cette mission.
+
+28
+00:01:28,840 --> 00:01:30,159
+Il s'agit de l'IOA.
+
+29
+00:01:30,360 --> 00:01:33,352
+Ils ont une grande influence
+sur le programme Stargate.
+
+30
+00:01:33,520 --> 00:01:36,671
+Qui le dirige, le finance...
+C'est un honneur qui vous est fait.
+
+31
+00:01:38,560 --> 00:01:41,518
+Mais couchez-les avant 22 h.
+
+32
+00:01:41,680 --> 00:01:45,912
+Et n'oubliez pas de leur lire
+une histoire avant de les border.
+
+33
+00:02:58,840 --> 00:03:00,831
+C'est...
+
+34
+00:03:01,040 --> 00:03:02,837
+C'est plus grand
+que je ne pensais.
+
+35
+00:03:03,040 --> 00:03:05,031
+On nous dit ça souvent.
+
+36
+00:03:08,520 --> 00:03:11,796
+Chapman, M. LaPierre, Mlle Shen.
+
+37
+00:03:11,960 --> 00:03:15,270
+Voici ceux qui vous escorteront
+sur le site Gamma.
+
+38
+00:03:15,440 --> 00:03:17,510
+Lieutenant colonel Cameron Mitchell.
+
+39
+00:03:18,800 --> 00:03:21,155
+Lieutenant colonel Samantha Carter.
+
+40
+00:03:21,320 --> 00:03:24,278
+- Teal'c.
+- Et le Dr Daniel Jackson.
+
+41
+00:03:24,480 --> 00:03:28,075
+Docteur en archéologie,
+anthropologie et philologie.
+
+42
+00:03:28,280 --> 00:03:30,475
+Il a résolu l'énigme
+de la Porte des Etoiles.
+
+43
+00:03:32,400 --> 00:03:35,039
+Shen Xiaoyi, diplômée
+de lettres étrangères à Pékin
+
+44
+00:03:35,200 --> 00:03:38,112
+et de l'école d'économie et
+de sciences politiques de Londres.
+
+45
+00:03:38,280 --> 00:03:41,477
+Ancienne attachée de l'ambassade
+de Chine aux Etats-Unis.
+
+46
+00:03:54,160 --> 00:03:55,479
+Ouais, très drôle.
+
+47
+00:03:58,600 --> 00:04:00,272
+<i>Septième chevron verrouillé.</i>
+
+48
+00:04:08,680 --> 00:04:12,309
+Le site Gamma se trouve
+à 24000 années-lumière d'ici.
+
+49
+00:04:12,520 --> 00:04:16,149
+Par l'horizon des événements,
+il est à moins d'une seconde.
+
+50
+00:04:16,880 --> 00:04:18,279
+Après vous.
+
+51
+00:04:31,560 --> 00:04:35,519
+Que je comprenne bien.
+Je vais être démolécularisé,
+
+52
+00:04:35,680 --> 00:04:38,797
+- et reconstitué de l'autre côté?
+- Exact.
+
+53
+00:04:38,960 --> 00:04:42,077
+Et quelles sont les chances
+d'être improprement reconstitué?
+
+54
+00:04:42,240 --> 00:04:44,117
+C'est très improbable.
+
+55
+00:04:48,880 --> 00:04:50,916
+Mais pas impossible?
+
+56
+00:04:51,080 --> 00:04:55,437
+J'ai cessé d'utiliser ce mot
+en rejoignant le programme Stargate.
+
+57
+00:05:09,720 --> 00:05:12,075
+Cette planète a été choisie
+pour plusieurs raisons
+
+58
+00:05:12,240 --> 00:05:13,832
+dont son ionosphère radioactive
+
+59
+00:05:14,000 --> 00:05:16,639
+qui rend la visée difficile en orbite.
+
+60
+00:05:16,800 --> 00:05:20,270
+- Pour ne pas se faire voler la porte?
+- On n'est jamais trop prudents.
+
+61
+00:05:20,440 --> 00:05:24,115
+Plus de 30 savants travaillent
+sur nos projets scientifiques.
+
+62
+00:05:24,280 --> 00:05:26,714
+Voici le Dr Myers,
+notre chef entomologiste.
+
+63
+00:05:26,880 --> 00:05:30,077
+Docteur, pouvez-vous
+nous parler de vos recherches?
+
+64
+00:05:30,240 --> 00:05:31,514
+Oui.
+
+65
+00:05:31,680 --> 00:05:34,990
+J'étudie un insecte asexué
+à reproduction rapide,
+
+66
+00:05:35,160 --> 00:05:38,994
+responsable de la destruction de
+nombreuses récoltes extraterrestres.
+
+67
+00:05:39,160 --> 00:05:42,948
+- Un insecte de l'espace.
+- C'est ça. Un insecte de l'espace.
+
+68
+00:05:43,120 --> 00:05:47,671
+Mais dans le cadre de mes recherches,
+je les appelle R75.
+
+69
+00:05:47,880 --> 00:05:52,317
+Le fait que ces insectes sont
+apparus sur des planètes
+
+70
+00:05:52,480 --> 00:05:56,359
+récemment visitées par les Prieurs
+rend leur analyse prioritaire.
+
+71
+00:05:56,560 --> 00:05:59,279
+Pas de preuve que c'est plus
+qu'une coïncidence?
+
+72
+00:05:59,440 --> 00:06:03,991
+Pas encore. Nos recherches initiales
+ont été rendues difficiles en raison
+
+73
+00:06:04,160 --> 00:06:07,789
+de la très courte durée de vie
+des spécimens qu'on avait,
+
+74
+00:06:07,960 --> 00:06:11,350
+jusqu'à ce qu'on parvienne
+à augmenter leur cycle de vie
+
+75
+00:06:11,520 --> 00:06:13,715
+en les privant de nourriture.
+
+76
+00:06:13,880 --> 00:06:16,678
+S'ils mangent, ils meurent
+en quelques heures.
+
+77
+00:06:16,880 --> 00:06:20,031
+Sans manger, ils survivent.
+Pour l'instant, ça fait trois jours.
+
+78
+00:06:20,240 --> 00:06:22,629
+Vous pouvez arrêter?
+
+79
+00:06:23,200 --> 00:06:24,792
+Un peu léthargiques, non?
+
+80
+00:06:33,320 --> 00:06:34,992
+Ils sont nocturnes.
+
+81
+00:06:35,160 --> 00:06:39,472
+Non, ils sont actifs la journée,
+mais ils préfèrent l'obscurité.
+
+82
+00:06:39,640 --> 00:06:42,074
+Ils sont la plupart
+du temps sous terre,
+
+83
+00:06:42,240 --> 00:06:43,958
+à consommer les récoltes.
+
+84
+00:06:44,520 --> 00:06:47,751
+R75 montre aussi un mécanisme
+de défense intéressant
+
+85
+00:06:47,920 --> 00:06:51,674
+que nous sommes encore
+en train d'étudier. Regardez.
+
+86
+00:06:57,600 --> 00:06:58,874
+Echolocation.
+
+87
+00:06:59,840 --> 00:07:01,114
+Exactement.
+
+88
+00:07:01,280 --> 00:07:05,273
+Ils doivent l'utiliser pour détecter
+un ennemi, les oiseaux, par exemple...
+
+89
+00:07:05,440 --> 00:07:08,079
+Bien. Merci, Dr Myers.
+
+90
+00:07:08,240 --> 00:07:10,515
+- Continuons.
+- Je n'ai pas fini.
+
+91
+00:07:10,680 --> 00:07:12,432
+On s'est fait une idée, merci.
+
+92
+00:07:12,640 --> 00:07:16,030
+Allons voir le Dr Sharma,
+notre botaniste en chef.
+
+93
+00:07:20,280 --> 00:07:21,998
+Mais que fait-on là?
+
+94
+00:07:22,160 --> 00:07:24,594
+Franchement? On est RP
+pour le programme Stargate.
+
+95
+00:07:24,760 --> 00:07:27,638
+Aujourd'hui, on escorte des délégués,
+
+96
+00:07:27,800 --> 00:07:30,189
+et demain, on fera
+des foires et supermarchés.
+
+97
+00:07:30,360 --> 00:07:32,828
+Si on parvient
+à rassurer l'IOA
+
+98
+00:07:33,000 --> 00:07:34,911
+sur les travaux
+du programme Stargate...
+
+99
+00:07:35,080 --> 00:07:37,150
+Daniel Jackson,
+le problème n'est pas l'IOA.
+
+100
+00:07:37,320 --> 00:07:39,515
+O.K., si on rassure
+le gouvernement chinois.
+
+101
+00:07:39,680 --> 00:07:41,716
+Ils veulent plus que ça.
+
+102
+00:07:41,880 --> 00:07:45,475
+Normal, non? On a promis de partager
+les technologies extraterrestres.
+
+103
+00:07:45,640 --> 00:07:48,677
+- De nature non militaire.
+- Ce n'était pas l'accord initial.
+
+104
+00:07:48,840 --> 00:07:51,354
+Je ne veux pas discuter de ça.
+J'ai raison.
+
+105
+00:07:51,520 --> 00:07:53,636
+Argument irrésistible.
+Teal'c, votre opinion?
+
+106
+00:07:53,800 --> 00:07:56,394
+J'aurais dû continuer
+la visite avec les autres.
+
+107
+00:07:56,600 --> 00:07:58,033
+Fini, la foire à la science.
+
+108
+00:07:58,200 --> 00:08:00,919
+Les études sur la résonance
+magnétique du Dr Toshiaki
+
+109
+00:08:01,080 --> 00:08:02,354
+ont eu leur préférence.
+
+110
+00:08:02,520 --> 00:08:04,556
+Je suis heureux pour lui.
+
+111
+00:08:06,080 --> 00:08:10,358
+- Qu'y a-t-il pour déjeuner?
+- C'est lundi, pain de viande.
+
+112
+00:08:10,520 --> 00:08:13,830
+- Ca vous embête, si j'y vais?
+- Prenez votre temps.
+
+113
+00:08:14,000 --> 00:08:15,991
+Je vais faire des expériences.
+
+114
+00:08:31,680 --> 00:08:33,398
+A table.
+
+115
+00:08:39,320 --> 00:08:41,197
+Vous n'avez pas faim?
+
+116
+00:09:08,120 --> 00:09:11,999
+Impossible que vous ayez
+envie de manger du...
+
+117
+00:09:16,920 --> 00:09:18,956
+du pain de viande?
+
+118
+00:09:35,840 --> 00:09:38,308
+Vous ne voulez pas
+vous joindre à nous?
+
+119
+00:09:38,480 --> 00:09:41,711
+- J'étais en train de...
+- O.K., ne vous dérangez pas pour moi.
+
+120
+00:09:46,640 --> 00:09:49,200
+Pardon, vous étiez occupée.
+
+121
+00:09:49,960 --> 00:09:54,795
+Je prends des notes sur ma visite
+avant d'en oublier les détails.
+
+122
+00:09:54,960 --> 00:09:57,872
+Cette visite m'a ouvert l'esprit
+sur les fastidieuses merveilles
+
+123
+00:09:58,040 --> 00:09:59,598
+de la recherche extraterrestre
+
+124
+00:09:59,760 --> 00:10:03,469
+et les repas de midi
+de votre site Gamma.
+
+125
+00:10:03,640 --> 00:10:06,154
+- C'est incroyable, mais...
+- C'est là que vous me dites
+
+126
+00:10:06,360 --> 00:10:08,794
+que le SGC n'a d'autre choix
+que celui de maintenir
+
+127
+00:10:08,960 --> 00:10:11,474
+le secret autour de ses opérations?
+
+128
+00:10:11,640 --> 00:10:15,030
+Qu'en tant qu'élément extérieur,
+je ne peux pas comprendre
+
+129
+00:10:15,200 --> 00:10:18,158
+votre travail,
+que vous sauvegardez la planète?
+
+130
+00:10:18,320 --> 00:10:21,278
+J'allais dire que
+le pain de viande était bon.
+
+131
+00:10:24,560 --> 00:10:28,235
+Depuis trois ans que nos pays ont
+signé le Traité de la Grande Alliance,
+
+132
+00:10:28,440 --> 00:10:30,749
+votre gouvernement
+a fait de grand progrès
+
+133
+00:10:30,920 --> 00:10:35,948
+dans le domaine des technologies
+militaires, mais ne nous a rien donné.
+
+134
+00:10:36,120 --> 00:10:40,238
+Je suis navré, mais tant
+que l'armée U.S. mènera la danse,
+
+135
+00:10:40,400 --> 00:10:43,870
+- ça sera comme ça.
+- Il est temps que ça change.
+
+136
+00:10:45,160 --> 00:10:48,675
+Jamais l'armée américaine ne cèdera
+le contrôle du programme.
+
+137
+00:10:48,880 --> 00:10:51,189
+Peut-être qu'elle n'aura pas le choix.
+
+138
+00:10:54,880 --> 00:10:56,996
+- Alors, cette expérience?
+- Je ne sais pas.
+
+139
+00:10:57,160 --> 00:10:59,469
+J'aidais Santiago à combattre
+les vers de farine.
+
+140
+00:10:59,640 --> 00:11:02,074
+Vous savez, Pullman,
+si je n'étais pas si patient...
+
+141
+00:11:02,240 --> 00:11:03,673
+Mon Dieu.
+
+142
+00:11:33,640 --> 00:11:35,312
+Tout va bien.
+
+143
+00:11:43,480 --> 00:11:45,630
+Cette saloperie m'a mordu.
+
+144
+00:12:02,000 --> 00:12:03,149
+Je dois dire, colonel,
+
+145
+00:12:03,360 --> 00:12:06,158
+que l'étendue de vos installations
+dépasse mes espérances.
+
+146
+00:12:06,320 --> 00:12:08,151
+C'est vraiment remarquable.
+
+147
+00:12:08,320 --> 00:12:10,311
+Je suis plutôt déçue.
+
+148
+00:12:10,480 --> 00:12:13,119
+J'espérais une visite
+plus approfondie.
+
+149
+00:12:13,320 --> 00:12:15,754
+Le site Gamma est une base militaire.
+
+150
+00:12:15,920 --> 00:12:19,799
+L'accès aux zones les plus sensibles
+est réglementé.
+
+151
+00:12:21,520 --> 00:12:23,829
+Dr Myers, ça va?
+
+152
+00:12:35,760 --> 00:12:40,151
+Les R75 se sont échappés, nous avons
+dû suivre le protocole d'élimination.
+
+153
+00:12:40,320 --> 00:12:43,357
+Le Dr Myers a été mordu.
+Il est allé à l'infirmerie.
+
+154
+00:12:43,520 --> 00:12:46,830
+- Ils n'ont rien trouvé.
+- Comment se sont-ils évadés?
+
+155
+00:12:47,040 --> 00:12:50,635
+Le Dr Myers pense avoir déclenché
+un cycle de reproduction massive
+
+156
+00:12:50,800 --> 00:12:53,314
+- en leur donnant du pain de viande.
+- Attendez.
+
+157
+00:12:53,840 --> 00:12:55,478
+R75 est omnivore?
+
+158
+00:12:56,000 --> 00:12:57,399
+Carnivore, plutôt.
+
+159
+00:12:57,560 --> 00:13:00,313
+Ils ont perdu leur goût
+pour les plantes.
+
+160
+00:13:00,480 --> 00:13:02,710
+Les délégués sont un peu inquiets.
+
+161
+00:13:02,880 --> 00:13:06,668
+J'insiste pour qu'ils repartent
+sur Terre comme c'était prévu.
+
+162
+00:13:06,840 --> 00:13:09,035
+Désolé, M. Woolsey.
+Personne ne part.
+
+163
+00:13:09,200 --> 00:13:13,990
+La base est fermée jusqu'à ce qu'on
+sache de quoi souffre le Dr Myers.
+
+164
+00:13:17,040 --> 00:13:18,473
+- Où va-t-il?
+- Sur Terre.
+
+165
+00:13:18,640 --> 00:13:21,359
+- Il sera mis en quarantaine.
+- Il retourne sur Terre?
+
+166
+00:13:21,520 --> 00:13:24,956
+Nous n'avons pas d'installations
+médicales. Il risque la mort.
+
+167
+00:13:25,120 --> 00:13:27,270
+C'est tout à fait inacceptable.
+
+168
+00:13:27,440 --> 00:13:30,034
+Le Pentagone va en entendre parler.
+
+169
+00:13:30,200 --> 00:13:32,395
+Votre nom sera cité, colonel.
+
+170
+00:13:43,560 --> 00:13:46,870
+- Carnivores.
+- Evacuation immédiate!
+
+171
+00:13:47,720 --> 00:13:48,789
+C'est un scandale.
+
+172
+00:13:48,960 --> 00:13:52,794
+M. Woolsey m'a assuré
+que nous repartirions à l'heure.
+
+173
+00:13:56,440 --> 00:13:58,351
+Retournez aux ascenseurs.
+On remonte.
+
+174
+00:13:58,520 --> 00:14:01,159
+- Que se passe-t-il?
+- Un problème avec les insectes.
+
+175
+00:14:01,320 --> 00:14:03,231
+Vous n'avez pas intérêt
+à traîner ici.
+
+176
+00:14:03,400 --> 00:14:05,311
+Je vous expliquerai.
+
+177
+00:14:08,040 --> 00:14:10,076
+Je ne saisis pas.
+Que lui est-il arrivé?
+
+178
+00:14:10,240 --> 00:14:14,233
+Je ne suis pas sûre,
+mais l'insecte a dû pondre en lui.
+
+179
+00:14:14,400 --> 00:14:17,039
+Ils ont incubé et quand ils ont éclos...
+
+180
+00:14:17,480 --> 00:14:19,755
+On sait qu'ils mangent de la viande.
+
+181
+00:14:19,920 --> 00:14:21,319
+Je retire ma question.
+
+182
+00:14:21,480 --> 00:14:23,277
+Il ne peut s'agir de coïncidences.
+
+183
+00:14:23,440 --> 00:14:26,637
+C'est la réponse des Prieurs
+à la destruction de leur virus.
+
+184
+00:14:26,800 --> 00:14:28,916
+Ils ont été conçus
+pour contourner toute tentative
+
+185
+00:14:29,080 --> 00:14:30,911
+de prévenir
+leur nature destructrice.
+
+186
+00:14:31,080 --> 00:14:34,390
+Privés de cultures, ils se sont adaptés
+à une nouvelle source de nourriture.
+
+187
+00:14:34,560 --> 00:14:37,120
+- Nous.
+- Colonel Pearson.
+
+188
+00:14:38,880 --> 00:14:40,996
+Colonel, me recevez-vous?
+
+189
+00:14:42,080 --> 00:14:44,958
+Ce n'est rien.
+Juste un petit problème de courant.
+
+190
+00:14:45,120 --> 00:14:46,872
+Inutile de s'inquiéter.
+
+191
+00:14:47,320 --> 00:14:49,675
+- Bon sang.
+- Ca suffit.
+
+192
+00:14:51,960 --> 00:14:53,359
+Colonel. La situation?
+
+193
+00:14:53,520 --> 00:14:56,159
+Ils étaient des milliers
+dans le sarcophage.
+
+194
+00:14:56,320 --> 00:14:58,390
+Ils ont eu un de mes hommes.
+
+195
+00:14:58,560 --> 00:15:00,551
+- Plus accès à la porte?
+- On le reprendra.
+
+196
+00:15:00,760 --> 00:15:02,637
+Ca, c'est un plan.
+
+197
+00:15:02,800 --> 00:15:07,157
+M. Woolsey, mes hommes
+vont vous escorter à la surface.
+
+198
+00:15:07,360 --> 00:15:08,873
+Pour vous mettre en sûreté.
+
+199
+00:15:09,040 --> 00:15:12,555
+Vous éloigner tant que
+la situation ne sera pas maîtrisée.
+
+200
+00:15:12,760 --> 00:15:14,079
+Je ne pense pas.
+
+201
+00:15:14,920 --> 00:15:16,194
+Pardon?
+
+202
+00:15:16,360 --> 00:15:20,273
+SG-1 nous escortera. Ils sont là pour
+assurer la sécurité de la délégation.
+
+203
+00:15:20,480 --> 00:15:23,552
+Personne ne part tant qu'on a pas
+repris contrôle de la Porte.
+
+204
+00:15:23,760 --> 00:15:27,958
+Je suis sûr que le colonel Pearson
+et ses hommes vont s'en occuper.
+
+205
+00:15:28,160 --> 00:15:30,594
+En attendant,
+vous nous conduirez à la surface.
+
+206
+00:15:31,160 --> 00:15:33,958
+Vous nous protégerez
+comme vous l'a ordonné le Pentagone.
+
+207
+00:15:34,840 --> 00:15:36,353
+Très bien.
+
+208
+00:15:36,520 --> 00:15:38,078
+Emmenez-les.
+
+209
+00:16:00,480 --> 00:16:01,913
+Excusez-moi.
+
+210
+00:16:03,760 --> 00:16:05,671
+On aurait pu y aller en jeep.
+
+211
+00:16:05,840 --> 00:16:07,876
+On va dans un labo inhabité.
+
+212
+00:16:08,040 --> 00:16:10,713
+A 10 km d'ici, en pleine forêt.
+
+213
+00:16:10,920 --> 00:16:13,388
+Est-ce vraiment nécessaire?
+
+214
+00:16:13,560 --> 00:16:16,791
+On pourrait attendre que
+le colonel nous donne le feu vert.
+
+215
+00:16:16,960 --> 00:16:20,873
+J'ai ordre de vous mener à la station.
+C'est là que nous allons.
+
+216
+00:16:27,200 --> 00:16:28,792
+Teal'c?
+
+217
+00:16:34,520 --> 00:16:37,432
+- C'est quoi, ça?
+- Les insectes.
+
+218
+00:16:39,080 --> 00:16:40,957
+Que se passe-t-il?
+
+219
+00:16:54,880 --> 00:16:56,950
+Filons d'ici. Vite!
+
+220
+00:17:03,560 --> 00:17:05,312
+Attendez!
+
+221
+00:17:05,480 --> 00:17:07,072
+Attendez.
+
+222
+00:17:08,200 --> 00:17:11,317
+On peut en déduire que les insectes
+sont sortis de la base.
+
+223
+00:17:11,480 --> 00:17:14,074
+Ils utilisent l'écholocation
+pour chasser leurs proies.
+
+224
+00:17:14,240 --> 00:17:15,753
+C'est-à-dire nous.
+
+225
+00:17:15,920 --> 00:17:19,037
+Où pouvons-nous aller?
+Ils se déplacent en sous-sol.
+
+226
+00:17:19,200 --> 00:17:22,112
+Il faut un terrain rocheux
+où ils auront du mal à bouger.
+
+227
+00:17:22,280 --> 00:17:25,238
+Essayons les grottes. Par là.
+
+228
+00:17:35,160 --> 00:17:36,991
+Faites-les entrer.
+
+229
+00:17:45,720 --> 00:17:47,233
+Ils arrivent.
+
+230
+00:17:47,400 --> 00:17:48,992
+Ils sont sensibles aux sons.
+
+231
+00:17:49,200 --> 00:17:52,510
+L'onde de choc de nos armes
+devrait suffire à les éloigner.
+
+232
+00:17:52,680 --> 00:17:54,352
+Vous êtes sérieuse?
+
+233
+00:17:55,080 --> 00:17:58,277
+- D'accord. On vise quoi?
+- Le sol.
+
+234
+00:18:13,920 --> 00:18:15,717
+Bien joué.
+
+235
+00:18:16,320 --> 00:18:18,390
+Ecoutez.
+On est entourés de roches,
+
+236
+00:18:18,560 --> 00:18:20,630
+ils ne pourront pas
+creuser jusqu'à nous.
+
+237
+00:18:21,240 --> 00:18:23,993
+On protège l'entrée.
+Tout va bien se passer.
+
+238
+00:18:29,280 --> 00:18:31,510
+Tant qu'on a des munitions.
+
+239
+00:18:33,040 --> 00:18:34,359
+- Des balles.
+- Ouais.
+
+240
+00:18:39,680 --> 00:18:41,113
+Quoi de neuf?
+
+241
+00:18:41,280 --> 00:18:44,795
+Impossible d'obtenir un contact vidéo
+des caméras de surveillance
+
+242
+00:18:44,960 --> 00:18:47,190
+de la salle de la porte
+du site Gamma,
+
+243
+00:18:47,360 --> 00:18:50,670
+mais j'ai réussi à capter
+des capteurs de mouvements.
+
+244
+00:18:58,960 --> 00:19:00,632
+Qu'avez-vous découvert?
+
+245
+00:19:00,800 --> 00:19:02,836
+Que les insectes me filent
+encore les jetons.
+
+246
+00:19:03,000 --> 00:19:06,356
+Ca a commencé au cours
+d'un pique-nique avec mes parents.
+
+247
+00:19:06,520 --> 00:19:08,158
+Un insecte a grimpé sur...
+
+248
+00:19:08,320 --> 00:19:10,629
+Peut-être une autre fois.
+
+249
+00:19:10,800 --> 00:19:12,438
+J'en doute.
+
+250
+00:19:14,120 --> 00:19:17,795
+Après avoir analysé les données
+télémétriques du site Gamma,
+
+251
+00:19:17,960 --> 00:19:21,714
+j'ai pu identifier votre coupable. R75.
+
+252
+00:19:21,880 --> 00:19:22,915
+L'insecte des Prieurs.
+
+253
+00:19:23,120 --> 00:19:25,236
+Cette connexion
+reste à déterminer.
+
+254
+00:19:25,400 --> 00:19:29,154
+On a commencé par étudier ce tueur
+de récoltes pour éradiquer
+
+255
+00:19:29,360 --> 00:19:32,875
+la drogue kassa produite
+par l'Alliance Lucian.
+
+256
+00:19:33,320 --> 00:19:37,871
+Les spécimens qu'on a récoltés
+sur différents sites étaient tous
+
+257
+00:19:38,040 --> 00:19:41,157
+tellement voraces
+qu'ils se mangeaient eux-mêmes.
+
+258
+00:19:41,320 --> 00:19:44,437
+Mais privés de nourriture,
+les insectes ont subi une...
+
+259
+00:19:44,600 --> 00:19:47,034
+Fascinant. Comment on les tue?
+
+260
+00:19:48,560 --> 00:19:51,677
+Grâce aux nouvelles données,
+je dois pouvoir trouver quelque chose.
+
+261
+00:19:52,320 --> 00:19:54,436
+Bien, en vertu du protocole CR91,
+
+262
+00:19:54,600 --> 00:19:58,434
+on va envoyer l'<i>Odyssée</i> qui lancera
+sa charge en orbite planétaire.
+
+263
+00:19:59,040 --> 00:20:01,110
+CR91, mon général?
+
+264
+00:20:02,000 --> 00:20:04,434
+Les toxines sont mortelles
+pour les humains.
+
+265
+00:20:04,600 --> 00:20:07,433
+Il faudra s'assurer
+que le site Gamma
+
+266
+00:20:07,600 --> 00:20:09,477
+est évacué avant de faire ça.
+
+267
+00:20:09,680 --> 00:20:12,194
+En assumant qu'il y a
+quelqu'un à évacuer.
+
+268
+00:20:36,040 --> 00:20:37,678
+Ce qui est bien,
+
+269
+00:20:37,840 --> 00:20:42,277
+c'est que je craignais que
+mon rapport soit ennuyeux à lire.
+
+270
+00:20:42,440 --> 00:20:47,514
+J'imagine que ce petit incident
+va nous coûter des points.
+
+271
+00:20:49,280 --> 00:20:52,431
+Honnêtement, mon rapport
+n'est qu'une simple formalité.
+
+272
+00:20:52,600 --> 00:20:55,910
+Il n'aura aucune incidence sur
+les décisions de mon gouvernement
+
+273
+00:20:56,120 --> 00:20:58,509
+à propos du programme Stargate.
+
+274
+00:20:59,840 --> 00:21:02,149
+Qu'attendez-vous, au juste?
+
+275
+00:21:02,920 --> 00:21:05,309
+- Dr Jackson...
+- Daniel.
+
+276
+00:21:06,760 --> 00:21:08,239
+Daniel.
+
+277
+00:21:08,400 --> 00:21:11,676
+Le moment est peut-être mal choisi
+pour en discuter.
+
+278
+00:21:12,600 --> 00:21:14,556
+Quand, alors?
+
+279
+00:21:15,480 --> 00:21:18,916
+Quand on sera de retour sur Terre
+
+280
+00:21:19,080 --> 00:21:23,392
+et qu'on ne risquera plus de se faire
+dévorer vivants par des insectes.
+
+281
+00:21:23,720 --> 00:21:27,235
+Je comprends les réticences
+de votre gouvernement,
+
+282
+00:21:27,400 --> 00:21:30,597
+mais vous ne pouvez nier
+ce qu'on a accompli, ni...
+
+283
+00:21:30,760 --> 00:21:32,432
+Ca n'a rien à voir.
+
+284
+00:21:33,800 --> 00:21:35,836
+Daniel, permettez-moi une question.
+
+285
+00:21:36,480 --> 00:21:41,554
+S'il y a neuf ans, ça avait été
+mon pays et non l'armée américaine
+
+286
+00:21:41,720 --> 00:21:45,918
+qui vous avait donné l'occasion
+d'aller dans les étoiles,
+
+287
+00:21:46,080 --> 00:21:47,798
+ça aurait fait une différence?
+
+288
+00:21:48,480 --> 00:21:51,313
+- Vous auriez refusé?
+- Bien sûr que non.
+
+289
+00:21:51,520 --> 00:21:54,956
+Tant que la priorité aurait été
+le bénéfice de la Terre,
+
+290
+00:21:55,120 --> 00:21:56,872
+j'aurais accepté avec joie.
+
+291
+00:21:57,720 --> 00:22:00,234
+Je vous rappellerai ça un jour.
+
+292
+00:22:11,000 --> 00:22:12,752
+Repos.
+
+293
+00:22:16,640 --> 00:22:18,915
+Colonel Pearson, répondez.
+
+294
+00:22:20,400 --> 00:22:22,516
+Pearson, répondez.
+
+295
+00:22:24,440 --> 00:22:26,874
+Site Gamma, me recevez-vous?
+
+296
+00:22:29,760 --> 00:22:31,910
+- Bon sang.
+- S'ils n'ont pas répondu...
+
+297
+00:22:32,080 --> 00:22:33,832
+Oui, je sais.
+
+298
+00:22:35,560 --> 00:22:36,959
+Ca va?
+
+299
+00:22:37,120 --> 00:22:41,591
+Oui, ça va. Juste un peu secoué.
+
+300
+00:23:06,880 --> 00:23:10,350
+On n'a pas de nouvelles
+du site Gamma depuis notre départ.
+
+301
+00:23:10,520 --> 00:23:12,909
+Je crains qu'il faille prévoir le pire.
+
+302
+00:23:13,080 --> 00:23:16,675
+- Je pensais la même chose.
+- On ne peut pas rester là indéfiniment.
+
+303
+00:23:16,840 --> 00:23:18,831
+Cette position finira
+par être investie.
+
+304
+00:23:19,040 --> 00:23:20,917
+On doit s'éloigner
+le plus possible.
+
+305
+00:23:21,080 --> 00:23:25,392
+A la vitesse où ils se multiplient,
+on ne pourra pas les semer à pied.
+
+306
+00:23:25,760 --> 00:23:27,478
+On doit aller chercher
+les F-302.
+
+307
+00:23:29,720 --> 00:23:31,676
+Il est parti!
+
+308
+00:23:34,400 --> 00:23:36,391
+- Walker a disparu.
+- Comment ça?
+
+309
+00:23:36,560 --> 00:23:38,676
+Je suis allé le voir.
+Il n'est plus là.
+
+310
+00:23:38,840 --> 00:23:40,831
+Il est peut-être sorti se soulager.
+
+311
+00:23:42,280 --> 00:23:44,157
+On revient.
+
+312
+00:23:54,520 --> 00:23:56,112
+Walker.
+
+313
+00:24:36,480 --> 00:24:37,754
+J'ai quelque chose.
+
+314
+00:24:37,960 --> 00:24:39,791
+J'arrive.
+
+315
+00:24:50,400 --> 00:24:52,152
+On arrive trop tard.
+
+316
+00:24:59,280 --> 00:25:00,793
+Walker.
+
+317
+00:25:01,800 --> 00:25:04,792
+Eh, doucement.
+
+318
+00:25:12,640 --> 00:25:13,709
+Attendez!
+
+319
+00:25:13,880 --> 00:25:15,711
+Ne bougez pas.
+
+320
+00:25:25,120 --> 00:25:26,348
+Jackson.
+
+321
+00:25:26,520 --> 00:25:27,794
+Retournez à la grotte.
+
+322
+00:25:27,960 --> 00:25:30,918
+Dites à Carter que
+Teal'c et moi allons chercher les 302.
+
+323
+00:25:31,080 --> 00:25:32,513
+Pour les poser où?
+
+324
+00:25:32,680 --> 00:25:34,910
+On trouvera un endroit d'en haut.
+
+325
+00:25:35,080 --> 00:25:38,117
+A notre retour, en emmènera
+tout le monde en lieu sûr.
+
+326
+00:25:38,280 --> 00:25:40,510
+C'est-à-dire?
+
+327
+00:25:40,680 --> 00:25:42,989
+Très loin d'ici.
+
+328
+00:25:43,600 --> 00:25:47,912
+Bon, d'accord. Bonne chance.
+
+329
+00:25:57,880 --> 00:25:59,996
+J'ai une question.
+
+330
+00:26:00,440 --> 00:26:03,034
+En combattant les Goa'uld,
+vous n'avez pas pensé:
+
+331
+00:26:03,200 --> 00:26:06,556
+"Tôt ou tard, on va finir
+par se prendre une raclée"?
+
+332
+00:26:06,720 --> 00:26:08,870
+- Jamais.
+- Jamais? Pas une fois?
+
+333
+00:26:09,040 --> 00:26:10,393
+En infériorité numérique,
+
+334
+00:26:10,560 --> 00:26:13,916
+contre un adversaire plus puissant
+et ayant une meilleure technologie?
+
+335
+00:26:14,080 --> 00:26:15,718
+Ils étaient mieux équipés
+
+336
+00:26:15,880 --> 00:26:17,916
+mais on avait
+quelque chose de mieux.
+
+337
+00:26:18,120 --> 00:26:21,317
+- Quoi donc?
+- Une juste cause.
+
+338
+00:26:21,480 --> 00:26:23,869
+Je n'ai jamais douté
+de la défaite des Goa'uld.
+
+339
+00:26:24,040 --> 00:26:27,430
+Peut-être pas de mon vivant.
+Mais ils allaient tomber, c'était sûr.
+
+340
+00:26:27,600 --> 00:26:30,592
+Et je suis sûr que c'est
+ce qui arrivera aux Ori.
+
+341
+00:26:30,760 --> 00:26:33,593
+C'est ce que j'aime chez vous.
+Toujours positif.
+
+342
+00:26:33,760 --> 00:26:36,228
+Vous devez déjà penser
+à ce que vous ferez
+
+343
+00:26:36,440 --> 00:26:39,432
+après cette histoire d'insectes,
+au film que vous verrez.
+
+344
+00:26:39,600 --> 00:26:41,909
+Je pensais voir <i>Old School</i>.
+
+345
+00:26:42,680 --> 00:26:44,875
+" My boy, Blue".
+
+346
+00:26:48,120 --> 00:26:51,237
+- C'était quoi, ça?
+- Attendez ici.
+
+347
+00:26:56,040 --> 00:26:58,076
+Teal'c, Cameron, ça va?
+
+348
+00:27:02,720 --> 00:27:04,119
+Tout va bien, Carter.
+
+349
+00:27:04,280 --> 00:27:05,793
+<i>Que s'est-il passé?</i>
+
+350
+00:27:06,480 --> 00:27:08,471
+La base s'est autodétruite.
+
+351
+00:27:11,160 --> 00:27:13,116
+Le site Gamma n'existe plus.
+
+352
+00:27:17,960 --> 00:27:20,349
+Comment a-t-elle pu s'autodétruire?
+
+353
+00:27:20,520 --> 00:27:22,431
+Les insectes ont dû
+pénétrer le système.
+
+354
+00:27:22,600 --> 00:27:25,797
+Ca change quoi, maintenant?
+La base est détruite!
+
+355
+00:27:26,000 --> 00:27:27,558
+Calmez-vous.
+
+356
+00:27:27,760 --> 00:27:30,991
+Ne me dites pas de me calmer!
+Si on nous avait laissé partir...
+
+357
+00:27:31,160 --> 00:27:33,594
+Baissez la voix, je vous prie.
+
+358
+00:27:33,760 --> 00:27:36,479
+Ca suffit de me dire
+ce que je dois faire.
+
+359
+00:27:36,680 --> 00:27:40,036
+Pourquoi devrais-je vous écouter?
+Ni aucun de nous?
+
+360
+00:27:40,240 --> 00:27:42,800
+Parce que vous révélez
+notre présence.
+
+361
+00:27:47,880 --> 00:27:50,348
+Colonel, un mot.
+
+362
+00:27:55,480 --> 00:27:58,517
+Je comprends que vous faites
+tout pour nous aider,
+
+363
+00:27:58,680 --> 00:28:02,070
+mais vous semblez ne pas
+vous soucier de nos besoins.
+
+364
+00:28:02,240 --> 00:28:05,152
+Je vous demande juste
+de les rassurer un peu.
+
+365
+00:28:05,360 --> 00:28:07,555
+Leur dire que
+tout va bien se passer.
+
+366
+00:28:07,720 --> 00:28:10,951
+Ce n'est pas trop demander,
+tout bien considéré.
+
+367
+00:28:11,760 --> 00:28:15,196
+M. Woolsey,
+si je pouvais remonter le temps,
+
+368
+00:28:15,360 --> 00:28:18,955
+ce qui est une chose
+qui m'est proposée à l'occasion,
+
+369
+00:28:19,120 --> 00:28:21,759
+je m'assurerais
+qu'on quitte la base à temps.
+
+370
+00:28:22,280 --> 00:28:24,999
+Mais la réalité est
+qu'on est coincés ici,
+
+371
+00:28:25,160 --> 00:28:27,435
+dans une grotte cernée
+par des prédateurs
+
+372
+00:28:27,600 --> 00:28:29,636
+et sans moyen de rejoindre la porte.
+
+373
+00:28:29,960 --> 00:28:31,359
+Alors, je suis désolée,
+
+374
+00:28:31,520 --> 00:28:35,115
+mais je vais avoir du mal à sortir
+un discours d'encouragement.
+
+375
+00:28:35,280 --> 00:28:36,633
+Tout bien considéré.
+
+376
+00:28:37,720 --> 00:28:39,312
+Je vois.
+
+377
+00:28:40,680 --> 00:28:42,432
+Je tiens à vous rappeler
+
+378
+00:28:42,600 --> 00:28:45,433
+que cette expédition de routine
+a tourné au désastre
+
+379
+00:28:45,880 --> 00:28:48,758
+et qu'il y aura des conséquences
+pour le programme Stargate.
+
+380
+00:28:48,960 --> 00:28:53,750
+Sauver nos vies serait un bon moyen
+de limiter les dégâts.
+
+381
+00:28:54,280 --> 00:28:56,111
+Je m'en souviendrai.
+
+382
+00:29:00,920 --> 00:29:04,276
+Pas d'inquiétudes. Elle a dit
+que tout allait bien se passer.
+
+383
+00:29:05,800 --> 00:29:08,997
+Je vous le dis, vous devriez
+prendre un appart.
+
+384
+00:29:09,280 --> 00:29:12,670
+J'ai essayé de vivre en dehors
+de la base, l'an passé.
+
+385
+00:29:12,840 --> 00:29:15,673
+J'ai même acheté un appartement.
+
+386
+00:29:15,840 --> 00:29:18,195
+Malheureusement, ça n'a pas marché.
+
+387
+00:29:18,400 --> 00:29:20,231
+Ouais, on vous a accusé de meurtre.
+
+388
+00:29:20,400 --> 00:29:23,233
+Une mauvaise expérience
+ne devrait pas vous arrêter.
+
+389
+00:29:23,400 --> 00:29:24,992
+Quand j'ai quitté la base,
+
+390
+00:29:25,160 --> 00:29:29,153
+j'ai habité à côté d'un type qui
+jouait de la batterie toute la nuit.
+
+391
+00:29:29,600 --> 00:29:32,319
+A notre retour, je vous aiderai
+à trouver un endroit.
+
+392
+00:29:32,480 --> 00:29:34,948
+- Inutile.
+- A quoi servent les amis?
+
+393
+00:29:35,120 --> 00:29:38,237
+A écouter quand on leur dit: " Inutile."
+
+394
+00:30:11,360 --> 00:30:13,157
+Qu'est-ce qu'ils fabriquent?
+
+395
+00:30:22,040 --> 00:30:25,828
+<i>- Où êtes-vous?</i>
+- On demande le silence radio.
+
+396
+00:30:44,720 --> 00:30:46,756
+Je crois qu'on est bons.
+
+397
+00:30:47,960 --> 00:30:51,430
+On devrait éviter
+les conversations inutiles.
+
+398
+00:31:07,400 --> 00:31:10,915
+Mon général, on a reçu
+une transmission de l'<i>Odyssée</i>.
+
+399
+00:31:11,080 --> 00:31:13,196
+Il arrivera dans cinq heures.
+
+400
+00:31:13,680 --> 00:31:17,275
+Et le Pentagone est sur la ligne 2.
+
+401
+00:31:17,600 --> 00:31:19,477
+Merci.
+
+402
+00:31:25,800 --> 00:31:27,233
+Ici Landry.
+
+403
+00:31:35,000 --> 00:31:37,560
+- Le plan B ne marche pas.
+- On fait quoi, alors?
+
+404
+00:31:38,600 --> 00:31:41,114
+La porte ensevelie,
+ils n'enverront pas de secours.
+
+405
+00:31:41,280 --> 00:31:44,511
+Ils vont envoyer l'<i>Odyssée</i>.
+Il est sûrement déjà en route.
+
+406
+00:31:44,680 --> 00:31:46,875
+On n'a plus qu'à attendre sagement.
+
+407
+00:31:47,040 --> 00:31:49,952
+- Tout va bien se passer.
+- Théoriquement.
+
+408
+00:31:52,840 --> 00:31:54,478
+Théoriquement?
+
+409
+00:31:54,640 --> 00:31:57,108
+Théoriquement, oui,
+l'<i>Odyssée</i> pourrait venir
+
+410
+00:31:57,280 --> 00:31:59,874
+- et nous téléporter hors d'ici.
+- Mais?
+
+411
+00:32:02,120 --> 00:32:05,317
+Je suis désolée mais c'est inutile
+de se voiler la face.
+
+412
+00:32:05,480 --> 00:32:08,472
+Si le commandement suppose
+que la base est perdue,
+
+413
+00:32:08,680 --> 00:32:10,875
+ils appliqueront le protocole CR91.
+
+414
+00:32:11,080 --> 00:32:12,718
+- C'est quoi?
+- Une fois en orbite,
+
+415
+00:32:12,920 --> 00:32:17,118
+l'<i>Odyssée</i> lancera un missile
+neurotoxique qui éradiquera R75.
+
+416
+00:32:17,720 --> 00:32:20,712
+Ca leur permettra d'organiser
+une opération de nettoyage.
+
+417
+00:32:21,240 --> 00:32:23,037
+Mais ils nous évacueront avant.
+
+418
+00:32:23,240 --> 00:32:25,913
+Nos émetteurs ne marcheront pas
+à cause des interférences.
+
+419
+00:32:26,080 --> 00:32:27,229
+Et nos signes vitaux?
+
+420
+00:32:28,200 --> 00:32:30,714
+Comme les insectes
+se multiplient rapidement
+
+421
+00:32:30,880 --> 00:32:33,235
+et qu'on est complètement encerclés,
+
+422
+00:32:33,440 --> 00:32:37,228
+ils ne pourront pas nous différencier
+des autres sources de vie.
+
+423
+00:32:37,440 --> 00:32:38,429
+Mon Dieu.
+
+424
+00:32:38,600 --> 00:32:40,989
+Vous dites qu'ils vont venir jusqu'ici,
+
+425
+00:32:41,160 --> 00:32:44,072
+mais qu'au lieu de nous sauver,
+ils vont nous empoisonner?
+
+426
+00:32:44,280 --> 00:32:46,794
+Ils ne peuvent pas savoir
+qu'on est encore là.
+
+427
+00:32:47,120 --> 00:32:50,715
+Alors, on va mourir sur cette planète,
+à 25000 années-lumière de la Terre.
+
+428
+00:32:50,920 --> 00:32:54,310
+Calmez-vous. D'ailleurs,
+ce n'est que 24000 années-lumière.
+
+429
+00:32:55,920 --> 00:32:57,990
+Quand l'<i>Odyssée</i> doit arriver?
+
+430
+00:32:58,160 --> 00:33:00,310
+On ignore quand ils sont partis,
+
+431
+00:33:01,480 --> 00:33:04,392
+mais étant donné le moment
+où ils ont perdu le contact
+
+432
+00:33:04,600 --> 00:33:06,716
+et le temps de fabrication
+de la toxine,
+
+433
+00:33:07,040 --> 00:33:08,439
+je dirais quelques heures.
+
+434
+00:33:10,640 --> 00:33:13,757
+On doit contacter l'<i>Odyssée</i>
+pour qu'ils sachent qu'on est en vie.
+
+435
+00:33:13,960 --> 00:33:17,157
+Sauf que notre seul moyen
+de communiquer vient d'exploser.
+
+436
+00:33:17,320 --> 00:33:19,197
+Peut-être pas.
+La station de recherche.
+
+437
+00:33:19,360 --> 00:33:22,796
+Il doit y avoir moyen de communiquer
+les données au site Gamma.
+
+438
+00:33:22,960 --> 00:33:25,155
+On pourra contacter
+un vaisseau en orbite?
+
+439
+00:33:25,360 --> 00:33:27,157
+Avec un peu de temps.
+
+440
+00:33:27,320 --> 00:33:29,470
+Il faut aller à la station de recherche.
+
+441
+00:33:29,640 --> 00:33:32,757
+Oui, et tout ce qui nous en sépare,
+
+442
+00:33:32,920 --> 00:33:35,036
+c'est 8 km de forêt et plein d'insectes.
+
+443
+00:33:39,520 --> 00:33:41,158
+Un jeu d'enfant.
+
+444
+00:33:56,960 --> 00:33:59,030
+- Continuez à marcher.
+- Je ne peux pas.
+
+445
+00:34:01,840 --> 00:34:04,991
+- On y est presque.
+- Vous n'arrêtez pas de dire ça.
+
+446
+00:34:07,160 --> 00:34:09,549
+Notre transmission
+permettra à l'<i>Odyssée</i>
+
+447
+00:34:09,720 --> 00:34:12,757
+de déterminer notre position
+et de relever nos signes vitaux.
+
+448
+00:34:12,920 --> 00:34:15,434
+Mais nous devons tous être
+dans la bonne zone.
+
+449
+00:34:15,600 --> 00:34:19,639
+- On marche depuis des heures.
+- Pas le temps de s'arrêter.
+
+450
+00:34:19,800 --> 00:34:22,155
+On n'est pas d'accord.
+
+451
+00:34:22,520 --> 00:34:24,556
+Vous savez quoi? Restez là.
+
+452
+00:34:25,120 --> 00:34:26,599
+Couvrez-nous.
+
+453
+00:34:26,800 --> 00:34:28,074
+Mais soyez vigilants.
+
+454
+00:34:28,240 --> 00:34:31,437
+Vous entendrez les insectes,
+mais pas les furets arboricoles.
+
+455
+00:34:32,160 --> 00:34:35,436
+- Les furets arboricoles?
+- Ouais, des sales bêtes.
+
+456
+00:34:35,920 --> 00:34:38,514
+Ils vous décapitent en un clin d'œil.
+
+457
+00:34:43,640 --> 00:34:44,914
+Vous mentez.
+
+458
+00:34:52,720 --> 00:34:54,039
+Attendez.
+
+459
+00:34:57,120 --> 00:35:00,032
+- On y est presque.
+- Cessez de dire ça.
+
+460
+00:35:08,840 --> 00:35:09,829
+On y est.
+
+461
+00:35:11,080 --> 00:35:13,275
+Dépêchons-nous.
+
+462
+00:35:36,680 --> 00:35:38,398
+Vite.
+
+463
+00:36:07,120 --> 00:36:08,917
+Attention, attention!
+
+464
+00:36:16,600 --> 00:36:17,874
+Vous y arrivez?
+
+465
+00:36:21,320 --> 00:36:24,915
+- Colonel, ça marche?
+- C'est trop tard.
+
+466
+00:36:25,880 --> 00:36:27,154
+On arrive trop tard.
+
+467
+00:36:27,320 --> 00:36:29,754
+- Ils sont juste dehors.
+- Ca va marcher?
+
+468
+00:36:29,920 --> 00:36:31,717
+- Vous allez y arriver?
+- Fermez-la.
+
+469
+00:36:31,920 --> 00:36:34,434
+Fermez-la! Laissez-la faire!
+
+470
+00:36:36,400 --> 00:36:40,279
+- Merci, M. Woolsey.
+- De rien.
+
+471
+00:36:52,200 --> 00:36:53,474
+Comment ça se passe?
+
+472
+00:36:53,640 --> 00:36:57,076
+Je dois augmenter la puissance du fait
+de la radioactivité de l'ionosphère.
+
+473
+00:36:57,640 --> 00:36:59,437
+Alors, mettez la gomme.
+
+474
+00:36:59,640 --> 00:37:01,710
+Bon, ça devrait aller.
+
+475
+00:37:17,200 --> 00:37:19,270
+Les vibrations générées
+par les transmissions
+
+476
+00:37:19,440 --> 00:37:21,715
+doivent les attirer.
+Vous pouvez les repousser?
+
+477
+00:37:21,920 --> 00:37:24,309
+On est presque à court de munitions.
+
+478
+00:37:34,520 --> 00:37:36,158
+Il va falloir improviser.
+
+479
+00:37:56,360 --> 00:37:57,679
+Bon, c'est parti.
+
+480
+00:37:58,720 --> 00:38:00,836
+Quand capteront-ils la transmission?
+
+481
+00:38:01,040 --> 00:38:02,871
+Dès qu'ils seront en orbite.
+
+482
+00:38:03,080 --> 00:38:05,992
+Mais on n'a aucun moyen
+de savoir quand ils arriveront.
+
+483
+00:38:06,160 --> 00:38:08,310
+Ils pourront retenir
+les insectes longtemps?
+
+484
+00:38:21,200 --> 00:38:23,509
+Ils arrivent par la droite.
+
+485
+00:38:24,160 --> 00:38:26,549
+Les détecteurs
+de mouvement fonctionnent.
+
+486
+00:38:30,440 --> 00:38:32,032
+Ca les repoussera un moment.
+
+487
+00:38:34,280 --> 00:38:35,918
+Par là.
+
+488
+00:39:02,880 --> 00:39:04,393
+C'est la dernière charge.
+
+489
+00:39:37,160 --> 00:39:39,037
+Mlle Shen a la cheville cassée
+
+490
+00:39:39,240 --> 00:39:41,549
+et est en congé
+pour une durée indéterminée.
+
+491
+00:39:41,720 --> 00:39:44,439
+M. LaPierre et M. Chapman
+
+492
+00:39:44,600 --> 00:39:47,273
+ont repris leur travail,
+plus de peur que de mal.
+
+493
+00:39:47,440 --> 00:39:50,477
+A quelle genre de conséquences
+devons-nous nous attendre?
+
+494
+00:39:50,640 --> 00:39:52,119
+Presque rien, étonnement.
+
+495
+00:39:52,280 --> 00:39:54,396
+Peut-être une réprimande officielle,
+
+496
+00:39:54,600 --> 00:39:58,513
+mais l'IOA reconnaît le caractère
+exceptionnel des événements.
+
+497
+00:39:59,120 --> 00:40:01,918
+Il pourrait sembler
+qu'ils se plaignent exagérément.
+
+498
+00:40:02,080 --> 00:40:03,718
+Mais officieusement,
+
+499
+00:40:04,040 --> 00:40:07,589
+l'IOA n'a que des louanges
+pour le travail que vous faites.
+
+500
+00:40:08,400 --> 00:40:09,913
+Ne prenez pas la grosse tête.
+
+501
+00:40:12,320 --> 00:40:14,788
+Je rentre à Washington.
+
+502
+00:40:15,560 --> 00:40:17,755
+Merci encore pour cette expédition.
+
+503
+00:40:17,920 --> 00:40:20,593
+Ca a été une expérience
+très instructive.
+
+504
+00:40:27,760 --> 00:40:31,150
+En votre absence, on a appris
+que deux autres planètes
+
+505
+00:40:31,360 --> 00:40:32,998
+ont été envahies par les insectes.
+
+506
+00:40:33,160 --> 00:40:36,277
+Nos savants cherchent des solutions
+pour tuer ces insectes
+
+507
+00:40:36,440 --> 00:40:38,874
+sans nuire aux plantes
+et aux autres animaux.
+
+508
+00:40:39,800 --> 00:40:41,153
+Je pensais vous avoir perdu.
+
+509
+00:40:43,800 --> 00:40:45,791
+Heureux de vous retrouver.
+
+510
+00:40:51,600 --> 00:40:54,114
+On va toujours au ciné ce soir?
+
+511
+00:40:54,320 --> 00:40:56,880
+- Ouais, pourquoi pas?
+- Super, j'ai déjà choisi.
+
+512
+00:40:57,040 --> 00:41:00,316
+- <i>Old School</i>?
+- <i>Starship Troopers</i>.
+
+513
+00:41:00,520 --> 00:41:03,478
+- C'est un film comique?
+- A souhait.
+

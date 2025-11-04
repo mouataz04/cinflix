@@ -1,0 +1,431 @@
+{745}{795}ACCES INTERDIT
+{1122}{1182}Max?
+{1185}{1235}Max, t'es Ià?
+{1442}{1492}T'es en retard.
+{1535}{1597}- Tu t'es perdu?|- DésoIé.
+{1600}{1690}- Ma mère décoIIait pas.|- D'habitude, iI dort à cette heure-Ià.
+{1750}{1810}II est pas fait pour ça.
+{1812}{1870}Fait pour quoi?
+{1872}{1955}Y a pas que des arbres, ici.
+{1955}{2010}Avant toute chose,
+{2012}{2095}tu ne devras jamais parIer de cet endroit.
+{2097}{2130}C'est promis.
+{2165}{2247}Une promesse, c'est important, Tony.|Ca se tient.
+{2250}{2312}Je Ia tiendrai!
+{2350}{2400}Quoi qu'iI arrive?
+{2427}{2500}Même si queIqu'un meurt?
+{3007}{3050}Anthony Reed.
+{3092}{3160}- Es-tu recherché par Ia poIice?|- Non!
+{3162}{3250}Je vais vérifier.|Mets tes mains sur Ie véhicuIe.
+{3250}{3322}Je me baIadais.
+{3325}{3400}En vioIant toutes Ies interdictions d'entrer?
+{3402}{3517}- Attends ici un instant.|- Voyons, j'ai rien fait!
+{3520}{3630}On devrait me payer à chaque fois|que je chope un gamin dans Ia forêt.
+{3632}{3700}Shérif Foster à centraI...
+{3785}{3867}Shérif Foster, répétez s'iI vous pIati .
+{3870}{3895}Monsieur?
+{3955}{4020}Je vous reçois maI.
+{4020}{4067}M. I'agent?
+{4190}{4267}CentraI à Foster. Vous me recevez?
+{4622}{4720}Shérif Foster, queIIe est votre position?
+{5250}{5325}ACTIVITE PARANORMALE
+{5440}{5505}LE GOUVERNEMENT NOUS MENT
+{5907}{5967}LA VERITE EST AILLEURS
+{6315}{6392}- Y avait des embouteiIIages?|- C'était dense.
+{6395}{6477}Du coup, j'ai Iu Ie rapport|de poIice que tu m'as faxé.
+{6480}{6585}C'est Ie rapport officieI.|II ne dit pas tout, Ioin de Ià.
+{6587}{6675}Le shérif adjoint est tué|pendant une patrouiIIe de routine.
+{6677}{6745}C'est triste, pas mystérieux.
+{6747}{6832}II aurait été battu à mort|par un assaiIIant invisibIe.
+{6835}{6902}Au dire du jeune accusé du meurtre.
+{6905}{6985}Tony Reed, accusé à tort seIon moi.
+{6987}{7090}Un exceIIent étudiant de PhiIadeIphie,|au comportement exempIaire.
+{7092}{7222}T'as autre chose que des résuItats|scoIaires pour prouver son innocence?
+{7225}{7302}Peut-être. Regarde Ie corps.
+{7575}{7637}Le shérif adjoint R. Foster.
+{7665}{7760}Tu es d'accord que Ie rapport de poIice|est un peu Iéger.
+{7762}{7837}On dirait qu'iI a reçu des coups de masse.
+{7840}{7932}On I'aurait frappé avec sa torche. Un coup.
+{8080}{8150}Les Iésions maxiIIo-faciaIes et crâniennes
+{8152}{8240}sont causées par des coups très vioIents.
+{8267}{8365}II avait pris un petit-déjeuner|énergétique, Tony!
+{8367}{8425}Regarde I'arrière de sa tête.
+{8695}{8732}Ses Iunettes.
+{8735}{8790}EIIes ont transpercé son crâne.
+{8790}{8865}Un joueur de base-baII|ne frapperait pas aussi fort!
+{8865}{8957}II avait peut-être pris du PCP|ou un autre excitant.
+{8960}{9002}Le test était négatif.
+{9005}{9100}La peur a pu décIencher|une poussée d'adrénaIine
+{9102}{9190}qui Iui aura fait acquérir|une force surhumaine.
+{9192}{9270}Agent MuIder?|Vous comptez rester ici Iongtemps?
+{9272}{9337}Shérif Harden,|voici mon associée, I'agent ScuIIy.
+{9340}{9437}Vous comptez rester Iongtemps?|J'aimerais que Ron repose en paix.
+{9440}{9530}II n'y a rien à voir. Le coupabIe a été arrêté.
+{9532}{9627}On ne remet rien de tout ça en doute.|On veutjuste aider.
+{9630}{9717}InutiIe. L'arme du crime est couverte de sang.
+{9720}{9830}Le Iabo confirmera que c'est ceIui|de Tony Reed et I'affaire sera cIassée.
+{9867}{9935}On a terminé,
+{9937}{10010}mais je voudrais interroger Tony Reed.
+{10010}{10135}Ca ne changera rien à I'enquête|et on connati ra ses raisons.
+{10167}{10235}BUREAU DU SHERIF DE PITTSFIELD
+{10420}{10470}Quoi?
+{10512}{10607}C'est Iajournée des visites!|Voici I'agent ScuIIy du FBI...
+{10610}{10672}Je ne dirai pIus rien.
+{10695}{10792}Ca risque d'aggraver ta situation|qui n'est déjà pas très reIuisante.
+{10810}{10905}Tu as décIaré que Ie shérif Foster|t'avait arrêté.
+{10907}{10962}Pourquoi?
+{11030}{11095}Tu fIânais.
+{11097}{11195}La vie dans une petite viIIe,|c'est pas drôIe tous Ies jours.
+{11197}{11312}J'ai grandi dans un trou où y avait|rien à faire que tourner en voiture.
+{11315}{11370}Y a combien de temps de ça?
+{11372}{11460}Je sais où vous vouIez en venir.
+{11460}{11572}Vous êtes Ie 10e fIic|qui essaie de me faire avouer.
+{11575}{11675}Si tu es innocent, autant cIarifier Ies choses.
+{11677}{11765}J'ai tout dit dans ma décIaration.
+{11765}{11845}Sois induIgent avec deux vieux cons.
+{11845}{11935}II s'est passé Iongtemps|entre Ie moment où tu as entendu Ie cri
+{11937}{12015}et où tu as trouvé Ie shérif?
+{12115}{12220}C'est I'interrogatoire Ie pIus IoyaI|auqueI tu auras droit.
+{12282}{12360}10 ou 15 secondes.
+{12407}{12520}Tu n'as vu personne près de Ia voiture|de poIice? Tu n'as rien entendu?
+{12522}{12635}Tu continues d'affirmer que tu étais seuI?
+{12880}{12945}Je retourne à ma ceIIuIe.
+{13182}{13277}16 ans et une vie gâchée|à moins qu'iI n'avoue.
+{13280}{13360}S'iI est coupabIe, comment expIiques-tu
+{13360}{13417}qu'iI n'ait pas d'aIibi?
+{13420}{13510}II aurait pu dire que des paysans du coin
+{13510}{13577}avaient tabassé Ie shérif puis s'étaient enfuis.
+{13580}{13630}Je ne I'accuse pas.
+{13630}{13710}Tony Reed est peut-être innocent,
+{13712}{13782}mais iI couvre Ies coupabIes.
+{13785}{13882}Et s'iI n'y avait pas d'assassin?|Si c'était I'oeuvre d'une force?
+{13885}{13915}QueI genre de force?
+{13917}{14012}Une entité spiritueIIe qui voudrait|défendre son territoire.
+{14015}{14132}Les esprits frappeurs sont vioIents|et aiment Iajeunesse,
+{14135}{14197}Ies tourments de I'adoIescence.
+{14200}{14250}MuIder...
+{14252}{14392}on peut oubIier Ies esprits un instant|et commencer par Ies amis de Tony?
+{14395}{14445}S'iI te pIati ?
+{14467}{14572}II y a une personne en particuIier|que j'aimerais bien interroger.
+{14597}{14692}Dépêchez-vous de finir.|II reste deux minutes.
+{15145}{15232}Ca va pIomber votre moyenne, Max.|Vous avez raté un examen cruciaI.
+{15235}{15295}J'ai encore Ie temps.
+{15332}{15415}- Une minute?|- J'ai étudié.
+{15512}{15632}Je me fiche de qui est votre père.|Si vous vous pIantez, c'est fini.
+{15635}{15717}J'ai intérêt à assurer, aIors.
+{15972}{16012}Asseyez-vous.
+{16115}{16150}FaciIe!
+{16180}{16235}Quand on répond au hasard...
+{16237}{16280}Corrigez-Ie.
+{16582}{16660}Peut-être que Ies gens me connaissent maI.
+{16915}{17012}Chastity Raines? Agent ScuIIy.|Voici I'agent MuIder. Nous sommes du FBI.
+{17015}{17057}Je vous reconnais.
+{17060}{17135}De quoi t'as parIé avec Tony, ce matin?
+{17135}{17235}- II a pas tué ce fIic.|- Qu'est-ce qui te fait dire ça?
+{17237}{17292}Tony ne ferait pas ça.
+{17295}{17325}Et toi?
+{17367}{17427}Tu étais Ià quand c'est arrivé?
+{17462}{17500}Je dois y aIIer.
+{17500}{17605}Tu es au courant que Tony|risque de finir sa vie en prison?
+{17625}{17722}Si tu sais queIque chose,|c'est Ie moment de parIer.
+{17742}{17857}- Sans mandat, t'es pas obIigée de répondre.|- Tu es son avocat?
+{17860}{17887}On y va.
+{17890}{17995}Ca ne te gêne pas de nous interrompre?|Que dirait ton père, Ie shérif?
+{17995}{18090}- Vous savez qui est mon père?|- Vous avez Ie même nom.
+{18110}{18200}Bien vu! Assez discuté. Viens, ma puce.
+{18202}{18285}Vous deviez être une beIIe petite à I'époque.
+{18332}{18370}Une beIIe petite?
+{18372}{18402}A I'époque.
+{18490}{18540}ScuIIy.
+{18570}{18625}L'arme du crime a quoi?
+{18642}{18745}On a mis Ia torche ici et eIIe n'y est pIus.
+{18745}{18805}EIIe s'est voIatiIisée!
+{18807}{18862}Qui a accès à cette pièce?
+{18865}{18992}- Les shérifs adjoints et moi.|- On voit quoi, sur Ie fiIm?
+{18995}{19092}Que seuIs des gens accrédités sont venus.
+{19095}{19125}C'était Ià, ça?
+{19152}{19195}Je ne sais pas.
+{19197}{19265}On peut voir Ia cassette?
+{19297}{19377}On voit que Ia torche a été mise en sécurité.
+{19380}{19477}Ne nous accusez pas d'incompétence.
+{19480}{19557}Loin de nous cette idée, shérif.
+{19560}{19692}Là, c'est quand Ia poIice fédéraIe|est venue Ia chercher. Ici, c'est moi.
+{19695}{19790}On ouvre Ie casier: pIus rien.
+{19825}{19960}Je vous ai accueiIIis froidement I'autre jour,|mais si vous avez une idée...
+{19960}{19995}Je peux?
+{19997}{20115}- Je I'ai regardée une douzaine de fois.|- Le magnétoscope a peut-être un probIème.
+{20115}{20190}II n'y a pas d'interruption temporeIIe.
+{20217}{20290}L'arme du crime était|notre seuIe pièce à conviction.
+{20292}{20345}Sans ça, on ne peut pIus rien.
+{20347}{20405}Vous savez ce que je dois faire?
+{20407}{20552}Je dois dire à Ia veuve de Ron Foster|que je vais Iibérer son assassin.
+{20742}{20805}ScuIIy, regarde ça.
+{20850}{20897}Quoi donc?
+{20900}{20950}Maintenant.
+{20962}{21070}Là, tu Ie vois. L'image d'après, tu Ie vois pIus.
+{21072}{21140}Tu crois que c'est quoi? Regarde encore.
+{21140}{21202}On Ie voit, ça disparati .
+{21285}{21372}MAISON DES REED|20H52
+{21605}{21657}J'attends Ia vérité.
+{21660}{21772}Laisse-moi tranquiIIe, maman.|Je suis crevé!
+{21812}{21917}C'est pIus grave qu'un mauvais buIIetin,|Anthony. Un homme est mort.
+{21957}{22012}J'y suis pour rien!
+{22015}{22097}Ce que tu dis n'a pas de sens.
+{22100}{22200}- II doit y avoir une expIication.|- Eh ben, non.
+{22240}{22290}Et tes copains?
+{22292}{22342}Max.
+{22395}{22465}- C'est mes seuIs amis.|- Tu Ies reverras pIus.
+{22467}{22592}- Tu Ies connais même pas!|- Si. J'ai eu ton âge, tu sais.
+{22645}{22735}Tony, on est venus ici|pour repartir sur de bonnes bases,
+{22737}{22867}fuir Ies mauvaises fréquentations.|Tu t'en sors bien, ici.
+{22870}{22942}Qu'est-ce que t'en sais? T'es jamais Ià.
+{23075}{23215}Tu crois que ça me pIati d'avoir deux bouIots?|Je Ie fais pour toi, Tony.
+{23245}{23345}Je voudrais dormir, c'est tout.
+{23385}{23490}T'as Ia possibiIité d'avoir|une vie agréabIe, un avenir.
+{23490}{23572}On n'est pas venus jusqu'ici|pour que tu gâches tout.
+{24482}{24582}T'entends? Cette voiture en a|dans Ie ventre. Comme toi.
+{24585}{24645}EIIe est à qui, Max?
+{24665}{24740}Chastity a dit que si tu Ia fermais,|tout irait bien.
+{24742}{24780}Je te féIicite!
+{24782}{24872}Arrête! On est dans une voiture voIée,|un fIic est mort.
+{24875}{24950}CaIme-toi. II fouinait partout. C'est bien fait.
+{24950}{25010}Ca veut dire quoi?
+{25012}{25102}- Qu'est-ce qui s'est passé?|- Pose pas de questions.
+{25167}{25255}RaIentis, merde! Tu me fais peur.
+{25255}{25300}T'as encore rien vu.
+{25335}{25380}Max, fais gaffe!
+{26190}{26250}Tu vas devenir I'un des nôtres.
+{26277}{26325}Mais c'est moi qui commande.
+{26327}{26385}Ne I'oubIie jamais.
+{26817}{26842}SaIut, Chuck.
+{26845}{26927}DésoIée de te faire pIancher aIors que|c'est sûrement une défaiIIance.
+{26930}{26995}- AIors?|- J'ai cru à un effet d'optique.
+{26995}{27087}Puis, Ie IogicieI d'imagerie a montré
+{27090}{27165}que c'était pas une défaiIIance.|C'est sur Ie fiIm.
+{27165}{27265}Accroche-toi. Chuck nous emmène|dans I'univers du paranormaI.
+{27267}{27310}Pas tout à fait.
+{27310}{27400}J'ai d'abord cru à une manifestation spectraIe,
+{27402}{27497}mais iI y aurait aIors des Iueurs, des auras,
+{27500}{27580}des perturbations atmosphériques,|des formes transIucides.
+{27580}{27647}C'est pas un fantôme.
+{27650}{27765}Les fantômes ne Iaissent pas de poIymères|synthétiques dans Ieur siIIage.
+{27765}{27897}- On a retrouvé un truc gIuant par terre.|- C'est un sacré mystère!
+{27922}{28000}J'ai I'impression que t'es paumé.
+{28000}{28057}J'ai comparé Ia forme
+{28060}{28157}à tous Ies objets de Ia base de données|de Ia bibIiothèque du Congrès.
+{28160}{28290}Le pIus ressembIant était|Ie sous-marin soviétique AkuIa.
+{28292}{28355}On peut I'éIiminer d'office.
+{28355}{28432}II y a un autre truc bizarre.
+{28435}{28580}La mise en évidence montre|un contour noir autour de I'anomaIie.
+{28580}{28642}- Une ombre.|- EIIe correspond à I'écIairage,
+{28645}{28727}or iI ne peut y avoir|d'ombre projetée que si c'est...
+{28730}{28765}Un objet soIide.
+{28767}{28850}ImpossibIe, ça apparati sur une seuIe image.
+{28850}{28915}Un trentième de seconde.
+{28917}{29027}Peut-être que Ie SCAG|donnera une meiIIeure image.
+{29055}{29137}C'est un générateur de couIeurs spectraIes.
+{29140}{29202}Je Ie teste pour Ie Jet PropuIsion Laboratory.
+{29205}{29350}C'est pas encore au point, mais I'idée|est que j'assigne des couIeurs connues
+{29352}{29430}à une image noir et bIanc.
+{29432}{29525}Le SCAG, Iui, assigne|des vaIeurs chromatiques à I'image.
+{29527}{29640}En fait, iI devine Ies autres couIeurs tout seuI.
+{29750}{29817}C'est pas encore ça.
+{29845}{29902}Quoi?
+{29905}{29982}Tu reconnais ces couIeurs, ScuIIy?
+{30075}{30137}LYCEE ADAMS|L'EQUIPE DES PANTHERES
+{30442}{30480}SaIut, Tony.
+{30482}{30545}On me prend pour un crimineI!
+{30547}{30620}Pas moi. AIors, cette baIade en voiture?
+{30632}{30705}C'était quoi? Comment iI a fait ça?
+{30705}{30740}Tu Ie découvriras.
+{30775}{30877}T'avais raison. Je suis pas fait pour ça.
+{30880}{30957}C'est trop tard pour Ies remords.
+{31012}{31072}Tu dragues ma copine?
+{31135}{31175}Sauvé par Ie gong!
+{31575}{31647}Tu veux regarder queIqu'un? Regarde-moi.
+{31690}{31807}J'ai corrigé vos examens|de miIieu de trimestre.
+{31810}{31905}A part queIques exceptions,|Ies résuItats sont mauvais.
+{31920}{32022}M. PembIeton, que s'est-iI passé?
+{32042}{32170}Bienvenue parmi nous, M. Reed.|Vous passerez I'examen demain.
+{32172}{32280}M. Harden, vous êtes à I'heure,|c'est une première.
+{32317}{32355}C'est quoi, ça?
+{32355}{32422}- Sans commentaire.|- J'ai toutjuste.
+{32425}{32530}- Vous ne connaissiez pas Ie cours.|- Vous pensez que j'ai triché? Comment?
+{32532}{32632}J'ignore comment, mais vous avez triché|et c'est inacceptabIe.
+{32825}{32932}On reprend. M. Guider. M. Baker.
+{32935}{32987}Je veux pIus être mêIé à ça.
+{33005}{33070}J'aimerais pouvoir t'aider.
+{33090}{33130}Je suis piégée, moi aussi.
+{33865}{33915}Babbitt.
+{34557}{34607}Mon Dieu!
+{34855}{34940}Excusez-moi. Merci.
+{34987}{35045}RecuIez.
+{35100}{35185}Je te soumets ma théorie|si tu me soumets Ia tienne.
+{35185}{35260}Etant donné Ies décIarations
+{35262}{35385}que j'ai recueiIIies, je dois admettre|pour I'instant que je n'en ai pas.
+{35387}{35500}- Et cette substance visqueuse?|- Comme dans Ia saIIe des preuves?
+{35502}{35567}Max va nous expIiquer.
+{35570}{35632}Tu crois que c'est Max?
+{35635}{35685}J'ai parIé à des éIèves.
+{35687}{35795}Max en vouIait à M. Babbitt|car iI I'avait recaIé. II avait un mobiIe.
+{35797}{35875}Peut-être, mais iI n'a pas eu I'occasion d'agir.
+{35877}{35990}- II n'a pas approché Ia victime.|- C'était peut-être pas nécessaire.
+{35992}{36027}J'ai récupéré son dossier.
+{36030}{36130}II a de pIus en pIus de probIèmes|de discipIine, mais regarde ça.
+{36132}{36222}PIus ça empire, meiIIeures sont ses notes.
+{36225}{36325}- Ce gamin change.|- C'est un ado. C'est normaI.
+{36325}{36427}Son corps et son esprit|sont compIètement chambouIés.
+{36430}{36495}La pression, Ia drogue...
+{36497}{36557}Ca peut affecter son comportement.
+{36560}{36652}Ca I'a peut-être doté de pouvoirs|psychocinétiques ou paranormaux
+{36655}{36750}qui Iui permettent de bIesser|queIqu'un sans Ie toucher?
+{36752}{36812}- C'est ça, ta théorie?|- Oui.
+{36815}{36882}Je te Ia démontre|dès que je retrouve Max.
+{36885}{36975}- Vous vouIiez voir Ie shérif?|- C'est à propos de son fiIs.
+{36975}{37062}Le shérif Ie conduit aux urgences.
+{37065}{37135}Max a fait un maIaise dans Ie parking.
+{37240}{37340}T'as entendu pour Max? Ca va? Tu vas où?
+{37340}{37435}Tony, moins t'en sauras, mieux ça vaudra.
+{37490}{37540}ACCES INTERDIT
+{40525}{40592}Ni chocoIats, ni fIeurs?
+{40595}{40700}Mon adjoint m'a dit pourquoi vous étiez Ià.|Repartez tout de suite.
+{40702}{40780}J'ignore ce qui s'est passé,|mais mon fiIs n'a rien fait.
+{40782}{40852}Nous voudrions I'interroger.
+{40855}{40925}II est maIade. Les médecins sont dubitatifs.
+{40927}{41022}Max peut Ies aider.|Tu sais d'où vient ce maIaise.
+{41025}{41072}C'est parce que je suis un ado!
+{41087}{41145}Ou un meurtrier.
+{41155}{41215}Vous vous prenez pour qui?
+{41215}{41275}Vous n'avez aucune preuve.
+{41275}{41345}T'as un probIème avec I'autorité.
+{41347}{41440}Commentj'aurais pu buter Babbitt?|Comme Carrie, c'est ça?
+{41440}{41505}Avec ma force mentaIe?
+{41505}{41622}Tu vas puiser dans une source|qui te donne des pouvoirs surhumains.
+{41625}{41725}Ca t'a servi pour Babbitt|et Ie shérif adjoint Foster.
+{41740}{41790}Vous divaguez grave!
+{41792}{41925}Température et pouIs éIevés, gIycémie faibIe,|Ies éIectroIytes révèIent une acidose.
+{41925}{42065}Ce sont Ies symptômes d'une extrême|fatigue et d'un état de manque.
+{42067}{42142}- De manque de quoi?|- D'énergie.
+{42145}{42205}CeIIe qui t'aide à bouger Ies meubIes,
+{42207}{42305}transformer une torche en marteau|et qui te fait pIaner.
+{42305}{42400}Si je peux faire tout ça,|pourquoi je Ie fais pas maintenant?
+{42402}{42537}Je sais pas. Peut-être qu'au bout|d'un moment, t'as besoin d'un fixe.
+{42540}{42610}Dès que je sors d'ici, je m'en fais un.
+{42612}{42722}Tu ne vas pas sortir de sitôt.|Ton état empire.
+{42725}{42832}On ne peut t'aider|que si tu nous dis ce qui se passe.
+{42865}{42990}C'est vrai tout ça, fiston?
+{42990}{43060}J'espère pour toi que non.
+{43100}{43167}On peut vous parIer?
+{43627}{43715}II n'est pas méchant.|II ajuste besoin de discipIine.
+{43717}{43807}Si votre fiIs a des ennuis,|vous voudriez Ie savoir, non?
+{43810}{43867}On peut fouiIIer votre maison?
+{43870}{43915}Hors de question.
+{43917}{44037}Je ne vais pas partir en croisade|contre mon fiIs et I'accuser de meurtre!
+{44145}{44227}II manque des résuItats d'anaIyses|sur sa feuiIIe de soins.
+{44230}{44292}On devrait Ies chercher.
+{44350}{44400}Merci.
+{44600}{44660}Et voiIà!
+{44662}{44720}C'est intéressant?
+{44722}{44795}- C'est impossibIe.|- Qu'est-ce qu'iI y a?
+{44820}{44880}C'est incroyabIe!
+{44880}{44925}Quoi?
+{44927}{45030}Des Iésions cérébraIes causées|par des commotions à répétition.
+{45052}{45137}De I'arthrite sur Ia coIonne|et Ies articuIations.
+{45152}{45215}Des fractures de fatigue.
+{45215}{45355}Des déchirures muscuIaires et Iigamentaires.
+{45355}{45467}- Ca vient de quoi?|- Chez un jeune? Aucune idée.
+{45470}{45540}Ca affecte Ies piIotes de course
+{45542}{45615}ou Ies joueurs de foot professionneIs.
+{45662}{45750}J'ignore ce que c'est,|mais c'est en train de Ie tuer.
+{45775}{45837}Je commence à comprendre.
+{46605}{46700}- Une jeune fiIIe est venue te voir?|- Si seuIement!
+{47040}{47110}Les effets personneIs de Max Harden.
+{47320}{47427}Tu sais, Ies amas gIuants qu'on a trouvés?|IIs viennent de ça.
+{47467}{47590}De Ia vitesse. Max Harden|se dépIace pIus vite que Ia Iumière.
+{47590}{47700}Ca expIique Ia mort de Babbitt et|Ia propuIsion de Ia chaise et de Ia tabIe
+{47702}{47817}avec autant de force. La force, c'est|Ia masse muItipIiée par I'accéIération.
+{47820}{47910}Sauf que Ie corps humain n'est pas|conçu pour se dépIacer comme ça.
+{47912}{48000}C'estjustement pour ça|qu'iI est en train de craquer.
+{48025}{48065}S'iI vous pIati ...
+{48582}{48650}Arrête! Tu peux encore recuIer.
+{48652}{48695}Bien sûr. Toi aussi.
+{48695}{48772}T'as bIessé assez de gens comme ça!
+{48775}{48897}C'est pas pour ça|que je t'ai aidé à sortir. Fuyons!
+{48900}{48965}- Pour quoi faire?|- Se faire aider.
+{48987}{49115}Quoi? C'est Ia meiIIeure chose|qui me soitjamais arrivée!
+{49117}{49245}Je ne peux pas retourner au monde|immobiIe d'avant. Toi non pIus, d'aiIIeurs.
+{49550}{49610}Qu'est-ce que tu fais Ià?
+{49612}{49672}T'es aIIé dans Ia grotte.
+{49675}{49740}T'aurais jamais dû faire ça.
+{49752}{49857}C'était géniaI de bouger aussi vite!
+{49860}{49955}Ne fais pas ça. Pas toi.|Comment t'as trouvé Ia grotte?
+{49957}{50042}Je t'ai suivie. Je m'inquiétais pour toi.
+{50075}{50110}C'est mignon.
+{50127}{50220}Si seuIement Ia situation était différente!
+{50222}{50340}EIIe peut I'être! Max est à I'hôpitaI,|on peut aIIer voir Ies fIics.
+{50407}{50442}II est sorti.
+{50857}{50895}ON SORT PAS VIVANT D'ICI
+{51975}{52015}Mon Dieu!
+{52287}{52337}Y a queIqu'un?
+{53122}{53170}Tu as tué Ron Foster.
+{53195}{53247}Oui.
+{53275}{53302}Pourquoi?
+{53305}{53385}Je sais pas. Tu veux une bonne raison?
+{53387}{53430}T'es qu'un saIaud...
+{53480}{53597}II se prenait pour queIqu'un|d'important, iI faisait sa Ioi.
+{53612}{53695}Comme Babbitt et toi.
+{53737}{53792}Tu ne me fais pIus peur.
+{53945}{54012}Je te Iaisserai pas faire ça, Max.
+{54390}{54440}ScuIIy!
+{54502}{54552}II va s'en sortir?
+{54555}{54640}On ne sait pas encore. II a perdu|connaissance, saigne beaucoup.
+{54642}{54755}- II a été frappé à I'abdomen.|- Avec ça.
+{54757}{54850}- L'arme de choix de Max.|- Pourquoi I'a-t-iI Iaissée?
+{54850}{54930}- Pour énerver Ia poIice?|- QueIqu'un a dû intervenir.
+{54932}{55030}C'est pour ça que Ie shérif est vivant|et que son arme a disparu.
+{55030}{55125}S'iI a Ies pouvoirs dont tu parIes,|qui a pu intervenir?
+{55125}{55210}QueIqu'un qui sait exactement|comment Max fonctionne...
+{55227}{55335}- ..et qui a fini par Iui tenir tête.|- Tony. Comment Ie retrouver?
+{55337}{55412}II doit être Ià où Max puise sa force.
+{55415}{55490}Près de I'endroit où I'adjoint a été tué.
+{55492}{55580}Tony n'ajamais avoué ce qu'iI faisait Ià-bas.
+{55580}{55707}Peut-être que I'adjoint a été tué|parce qu'iI en savait trop.
+{55777}{55875}On n'est pas obIigés de faire ça.|J'ai arrêté Max.
+{55877}{55972}- T'aurais pas dû te mêIer de ça.|- II aIIait tuer son père.
+{55975}{56077}Tu I'as arrêté parce qu'iI I'a bien vouIu.|II a raIenti. Prends-en de Ia graine.
+{56080}{56150}On doit arriver à Ia grotte avant Iui.
+{56677}{56712}AIIez!
+{56715}{56765}Je te rattrape.
+{57515}{57567}Chastity?
+{57570}{57622}Ca va?
+{57625}{57677}T'es en retard.
+{57710}{57827}- Qu'est-ce que tu Iui as fait?|- EIIe m'a frappé. T'y crois, toi?
+{57830}{57907}T'as mis Ia pagaiIIe partout.
+{58227}{58290}AIIez!
+{58290}{58360}Tu crois que t'as affaire à qui?
+{58472}{58565}Je vouIais juste être ton ami.
+{58567}{58640}Tu m'as pIanté un couteau dans Ie dos.
+{58640}{58680}Je vais te faire ta fête.
+{59047}{59142}Je suis désoIée, Tony.|Je ne peux pIus revenir en arrière.
+{60030}{60075}Chastity?
+{60660}{60707}T'as vu Ies géoIogues?
+{60710}{60822}IIs étaient 18, avec trois semi-remorques.|IIs ont anaIysé toute Ia grotte.
+{60825}{60897}- Et?|- IIs n'ont rien trouvé.
+{60900}{60967}Du guano et un champ magnétique normaI.
+{60970}{61042}Rien qui provoque un effet physioIogique.
+{61045}{61147}- T'espérais quoi?|- Peut-être un vortex, comme dans I'Oregon.
+{61150}{61240}Des aberrations gravitationneIIes, chimiques.
+{61240}{61340}Des reIiques indiquant|que c'était un site sacré.
+{61342}{61460}On y est aIIés et iI s'est rien passé.|On continue de Iambiner.
+{61490}{61547}Et si on était trop vieux?
+{61550}{61642}Les ados sont physioIogiquement|et chimiquement différents.
+{61645}{61697}Si ça n'affectait qu'eux?
+{61700}{61830}J'en doute, mais c'est une théorie de pIus.
+{61830}{61930}- On peut tenter de Ia démontrer.|- Ca ne sera pas possibIe.
+{61932}{62075}IIs ont bétonné et sceIIé Ia grotte|pour des raisons de sécurité.
+{62077}{62107}Ca restera un mystère.
+{62150}{62205}Comment va-t-iI?
+{62207}{62277}II a principaIement|des bIeus et des éIongations.
+{62280}{62372}Ce sera bientôt un gamin comme Ies autres.
+{63280}{63360}Sous-titrage Visiontext: NathaIie Diu
+{63917}{63967}FRENCH

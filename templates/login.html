@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>CINFLIX — Connexion</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/login.css') }}">
+</head>
+<body>
+
+<!-- Background -->
+<div class="bg" aria-hidden="true"></div>
+
+<!-- Splash -->
+<div id="splash" class="splash" role="dialog" aria-label="Intro CINFLIX">
+  <div class="splash-title">CINFLIX</div>
+  <div class="splash-sub">Votre univers séries — chargement…</div>
+  <canvas id="splash-canvas"></canvas>
+</div>
+
+<!-- Login -->
+<main class="login-wrap" id="loginWrap" aria-live="polite">
+  <div class="login-card" role="form" aria-labelledby="brand">
+    <div id="brand" class="brand">CINFLIX</div>
+    <div class="card-sub">Connectez-vous pour accéder à vos séries et votre liste.</div>
+
+    {% if errors %}
+      <div class="errors">
+        {% for e in errors %}
+          {{ e }}<br>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <form method="post" action="{{ url_for('login') }}" autocomplete="on" style="width:100%;">
+      <div class="field">
+        <label for="username" class="sr-only">Nom d'utilisateur</label>
+        <input id="username" name="username" type="text" placeholder="Nom d'utilisateur" required autofocus>
+      </div>
+      <div class="field">
+        <label for="password" class="sr-only">Mot de passe</label>
+        <input id="password" name="password" type="password" placeholder="Mot de passe" required>
+      </div>
+
+      <button type="submit" class="btn">Se connecter</button>
+
+      <div class="links">
+        <a href="{{ url_for('signup') }}">S'inscrire</a>
+        <a href="#">Mot de passe oublié ?</a>
+      </div>
+    </form>
+  </div>
+</main>
+
+<script>
+  // disparition du splash
+  window.addEventListener("load", () => {
+    const splash = document.getElementById("splash");
+    setTimeout(() => {
+      splash.classList.add("hide");
+    }, 1200);
+  });
+</script>
+</body>
+</html>

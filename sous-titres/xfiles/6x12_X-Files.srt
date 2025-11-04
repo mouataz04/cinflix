@@ -1,0 +1,435 @@
+{125}{190}Deux hommes jeunes, idéalistes,
+{192}{297}purs produits d'une génération|endurcie par la guerre.
+{300}{387}Deux pères qui allaient être pris|dans un autre conflit:
+{390}{500}une guerre invisible|entre un ennemi muet et un géant endormi,
+{500}{590}un conflit d'une ampleur jamais égalée.
+{592}{727}50 ans d'une guerre dont les champs|de bataille attendaient l'inévitable holocauste.
+{730}{790}Ils étaient à l'aube de l'apocalypse.
+{830}{915}Tandis que le monde assistait|sans le savoir au tumulte
+{917}{997}d'une lutte entre le ciel et la terre|depuis des décennies,
+{1000}{1072}certains s'étaient préparés à la fin
+{1075}{1165}et mesuraient la puissance de l'ennemi|et le choix qui se présentait.
+{1167}{1262}Lutter ou se soumettre|à la volonté d'un ennemi redoutable.
+{1310}{1380}Se rendre et collaborer,
+{1380}{1460}sauver sa peau et rester|à la merci de l'ennemi.
+{1462}{1535}Des hommes pour qui gagner|signifiait éviter la défaite,
+{1535}{1645}pour qui la survie|valait n'importe quel sacrifice.
+{2272}{2337}ACTIVITE PARANORMALE
+{2460}{2520}LE GOUVERNEMENT NOUS MENT
+{2925}{2985}LA VERITE EST AILLEURS
+{3005}{3050}Tuez-moi avant qu'il ne soit trop tard.
+{3052}{3092}- Mulder!|- Tirez.
+{3142}{3182}Qui êtes-vous?
+{3185}{3252}- Que se passe-t-il?|- Couchez-vous!
+{3255}{3300}Qui êtes-vous?
+{3365}{3395}Couchés!
+{3742}{3790}Qui êtes-vous?
+{3790}{3890}Le CDC, organisme sanitaire|de décontamination. Gardez votre calme.
+{3890}{3980}On va vous mettre en quarantaine sous peu.
+{3980}{4030}Pourquoi?
+{4050}{4107}Contagion.
+{4140}{4210}D'origine inconnue.
+{5515}{5602}Y a erreur. J'avais choisi|un soin aux huiles essentielles.
+{5605}{5705}On peut parler à quelqu'un|qui nous expliquera ce qui se passe?
+{6000}{6055}Tu crois qu'on est où?
+{6057}{6152}D'après la durée du trajet,|sûrement à Fort Marlene.
+{6155}{6230}Décontamination et quarantaine.
+{6382}{6495}Toutes mes excuses|pour la manière dont ça s'est passé.
+{6497}{6542}Je n'avais pas trop le choix.
+{6545}{6652}Je dois des excuses à vos voisins.|Ils ne pourront pas se réinstaller de sitôt.
+{6655}{6737}On maintient le niveau 4|de protection sanitaire.
+{6740}{6780}Sur quoi vous basez-vous?
+{6782}{6885}Cassandra Spender a contracté|un organisme vecteur hautement contagieux
+{6885}{6955}qui induit|une combustion cellulaire spontanée.
+{6957}{7045}- Quoi?|- C'est la seule survivante
+{7045}{7067}d'une expérience qui a causé|la mort de sept médecins
+{7067}{7140}d'une expérience qui a causé|la mort de sept médecins
+{7142}{7195}dans un incendie violent et inexpliqué.
+{7195}{7265}- Qui vous a prévenus?|- L'agent Spender.
+{7285}{7315}Où est Cassandra?
+{7317}{7412}On l'a isolée en attendant|de faire des examens complets.
+{7415}{7492}Elle a passé plusieurs jours|dans un hôpital ordinaire.
+{7495}{7575}On l'a rencontrée.|Pourquoi envoyer l'artillerie lourde?
+{7577}{7670}C'est injustifié. Votre motivation est|suspecte.
+{7670}{7730}Que remettez-vous en question?
+{7732}{7817}- L'isolement de Cassandra.|- Elle est contagieuse.
+{7820}{7885}Personne n'est malade ici.
+{7885}{7960}La preuve: vous êtes sur votre trente et un
+{7962}{8057}pour venir nous présenter|des pseudo-excuses.
+{8060}{8095}Je veux voir Cassandra.
+{8097}{8190}- Elle est en quarantaine.|- Et moi, je suis médecin.
+{8190}{8290}Vous avez été démise|de vos fonctions au FBI.
+{8750}{8845}- lls ont brûlé nos vêtements.|- Le gris est mode cette année.
+{8845}{8957}Ca pue, tout ça. Pas seulement|parce que je crois que cette femme est...
+{9007}{9107}- Tu sais ce que j'en pense.|- Non, tu caches bien tes sentiments.
+{9127}{9207}Spender aurait appelé|l'organisme de décontamination?
+{9210}{9302}Quelqu'un profite de son statut|pour mettre en scène un enlèvement.
+{9305}{9387}Non. Skinner était à l'hôpital|quand Cassandra a disparu.
+{9390}{9465}Il a entendu Spender|appeler le centre de décontamination.
+{9485}{9555}Elle n'était pas malade.
+{9557}{9620}Le truc, c'est qu'elle allait bien.
+{9622}{9695}Pourquoi m'a-t-elle demandé de la tuer?
+{9697}{9755}A cause de ce qu'on lui a fait.
+{9757}{9835}A cause des tests médicaux,|de ses implants dans le cou.
+{9835}{9875}J'ai subi la même chose.|Elle voulait que ça s'arrête.
+{9875}{9917}J'ai subi la même chose.|Elle voulait que ça s'arrête.
+{9920}{10020}Ils l'ont emmenée pour continuer.
+{10020}{10090}Ca ne continuera pas.|Ce n'est pas nécessaire.
+{10092}{10167}Elle sait ce qu'elle est.|C'est dangereux pour elle de vivre.
+{10170}{10257}C'est pour ça qu'elle voulait que je la tue.
+{10260}{10310}Elle est quoi?
+{10330}{10375}Je crois que c'est l'élue.
+{10442}{10522}J'ai tous les dossiers de l'hôpital.
+{10525}{10612}Les médecins qui l'ont examinée|avant son évasion disent
+{10615}{10750}que Cassandra est peut-être,|pour ce groupe, le fruit de 25 ans de travail.
+{10782}{10850}C'est pourquoi les rebelles ont frappé.|Pour la tuer.
+{10852}{10967}Ils ont tué tout le monde sauf elle.|Ils nous ont empêchés de la tuer.
+{10970}{11047}- Que veulent les rebelles?|- Nous détruire.
+{11050}{11170}Ils savent qu'avec Cassandra,|la colonisation extraterrestre va commencer.
+{11172}{11260}- II faut détruire Cassandra.|- Non.
+{11262}{11372}Que la colonisation commence.|Donnons-leur Cassandra.
+{11390}{11477}- Sauvons notre peau.|- Bill Mulder était contre.
+{11480}{11535}Il disait que ce serait une erreur tragique.
+{11537}{11650}Bill Mulder a sacrifié sa fille|car il savait que ce jour viendrait.
+{11652}{11715}Avons-nous le choix
+{11715}{11797}si nous voulons que nos proches vivent
+{11800}{11877}et retrouver ceux qui ont été sacrifiés?
+{11960}{12027}FORT MARLENE|CENTRE DE DECONTAMINATION 21H02
+{12030}{12065}Y a quelqu'un?
+{12175}{12267}Ces chaussures sont|trop petites de deux tailles.
+{12270}{12320}Je pourrais avoir une...
+{12352}{12402}une paire à ma taille?
+{13305}{13365}On ne doit pas nous voir ensemble.
+{13432}{13470}Marita?
+{13497}{13600}S'ils nous voient ensemble, ils me tueront.
+{13600}{13655}Qui?
+{13657}{13772}- L'homme à la cigarette. Son groupe.|- Que t'ont-ils fait?
+{13805}{13842}Des tests.
+{13880}{13942}Des tests terribles.
+{13945}{14002}Les mêmes que Cassandra Spender?
+{14005}{14037}Non.
+{14040}{14165}Elle relève d'un programme|en place depuis 25 ans.
+{14167}{14217}Qui vise à créer un hybride.
+{14262}{14310}Que t'ont-ils fait?
+{14310}{14395}On m'a inoculé un virus extraterrestre:|l'huile noire.
+{14435}{14505}Les tests, c'était pour trouver un vaccin.
+{14507}{14607}- Développé en secret.|- A l'insu des colons extraterrestres.
+{14610}{14655}Le programme hybride|était une collaboration,
+{14655}{14685}Le programme hybride|était une collaboration,
+{14687}{14805}mais les conspirateurs|ne comptaient pas faire aboutir le projet.
+{14807}{14915}- lls gagnaient du temps.|- Pour élaborer un vaccin et une arme.
+{14917}{14982}Mais il y a eu Cassandra Spender.
+{14985}{15100}Elle est le premier hybride réussi|entre un humain et un extraterrestre, hein?
+{15102}{15157}Si c'est le cas
+{15160}{15225}et que les extraterrestres l'apprennent,
+{15262}{15327}la colonisation débutera.
+{15355}{15405}Rien ne l'empêchera.
+{15667}{15722}Jeffrey.
+{15795}{15832}Maman.
+{15855}{15947}- Comment te sens-tu?|- Bien. Pourquoi suis-je ici?
+{15950}{16010}Pour ta protection.
+{16012}{16075}- Contre qui?|- Tu le sais. Mon père.
+{16077}{16125}Tu ne pourras pas me protéger.
+{16127}{16217}Si. On ne te fera plus de tests.
+{16220}{16275}Tu ne comprends pas.
+{16295}{16397}- Tu ne comprends pas mon rôle.|- Si. Je comprends tout.
+{16400}{16547}Tu ignores ce qui va t'arriver|s'ils me découvrent.
+{16550}{16640}- Laisse-moi partir.|- lls te feront à nouveau du mal.
+{16642}{16692}Il faut les laisser faire.
+{16725}{16770}Sinon, on mourra tous.
+{16790}{16845}Tous.
+{16945}{16997}Je t'en prie...
+{17672}{17757}- Très high-tech, ton système.|- Si ça suffit pas, il y a moi après.
+{17760}{17830}J'ai reçu un appel urgent de Scully.
+{17887}{17975}Ecoute-moi avant de soulever des objections.
+{17977}{18077}Je leur ai demandé|tout ce qu'ils avaient sur Diana Fowley.
+{18080}{18150}- Je n'ai pas le temps.|- Elle se moque de toi.
+{18152}{18205}Je la connais. Pas toi.
+{18205}{18257}Elle n'est plus la même.
+{18260}{18312}On peut te le prouver.
+{18315}{18440}Elle est entrée dans une unité|du contre-terrorisme au FBI en 1991.
+{18440}{18485}Sept ans en Europe.
+{18487}{18632}Pourtant il n'y a strictement rien|sur ses activités dans les dossiers du FBI.
+{18655}{18740}J'espère que tu as des accusations|plus sérieuses que ça.
+{18740}{18867}Ce sont des voyages en avion dont|le détail a été retiré des dossiers du FBI.
+{18870}{18940}Elle a sillonné tout l'ouest de l'Europe.
+{18942}{19072}- Voyages hebdomadaires en Tunisie.|- Dans quel but?
+{19075}{19162}On l'a découvert dans ces documents.
+{19165}{19237}- Du réseau d'observation des ovnis.|- Le MUFON.
+{19240}{19365}L'agent spécial Diana Fowley|se rendait dans chaque branche européenne
+{19367}{19437}pour s'informer sur les femmes enlevées.
+{19440}{19487}Elle recueillait des infos. Et alors?
+{19490}{19560}- Pour les cacher.|- Tu extrapoles.
+{19560}{19630}On m'a enlevée et mis une puce dans le cou.
+{19630}{19690}J'ai rencontré des femmes|qui avaient subi le même sort.
+{19690}{19737}J'ai rencontré des femmes|qui avaient subi le même sort.
+{19740}{19855}Tu sous-entends que Diana|est chargée du suivi de ces femmes?
+{19855}{19970}Tu affirmes que Cassandra|est leur cobaye privilégié,
+{19970}{20065}celle qui peut tout confirmer,|mais qui la surveille?
+{20067}{20157}Je peux confirmer ou infirmer tes dires.
+{20160}{20252}Mais pas si Diana Fowley|nous empêche même de la voir.
+{20255}{20350}Pourquoi n'a-t-on pas la moindre information
+{20352}{20407}sur l'agent spécial Diana Fowley?
+{20410}{20527}Pourquoi débarque-t-elle au moment|où tu es si près de la vérité?
+{20530}{20665}Tu me dis de ne me fier à personne|et tu lui fais une confiance aveugle.
+{20667}{20765}Je n'ai aucune raison de changer.
+{20835}{20902}Je ne peux plus rien pour toi.
+{20905}{20982}- Tu en fais une affaire personnelle.|- Parce que c'en est une.
+{20985}{21077}Sans le FBl, je ne peux avoir|qu'un intérêt personnel.
+{21080}{21185}Sinon, je n'ai aucune raison de continuer.
+{21265}{21345}APPARTEMENTS DU WATERGATE|19H04
+{21700}{21735}Diana?
+{23337}{23410}Désolé. Il n'y a personne.
+{23475}{23535}Que faites-vous là?
+{23560}{23677}- La porte était ouverte.|- Vous avez des amis intéressants.
+{23680}{23775}Pas autant que votre goût fétichiste|pour la lingerie.
+{23930}{24000}Vous êtes content de vous, CBG?
+{24000}{24065}Je connais votre nom.
+{24067}{24142}Je vois clair dans votre jeu.|Je n'ai rien à perdre.
+{24145}{24235}Vous avez déjà pointé votre arme sur moi.
+{24237}{24345}Vous n'avez pas pu tirer.|Pourquoi le feriez-vous maintenant?
+{24370}{24440}Je cherche mon fils.
+{24442}{24525}- Pourquoi?|- II m'a trahi.
+{24525}{24627}Il a choisi le mauvais côté|en embrassant votre cause.
+{24630}{24737}- Donc ma cause est mauvaise.|- Oui.
+{24740}{24810}Ce n'est pas moi qui me sers
+{24812}{24932}de femmes innocentes pour créer|un hybride mi-humain mi-extraterrestre
+{24935}{25030}et sauver ma peau,|le jour où ils débarqueront.
+{25032}{25120}- Ca vous amuse?|- Votre père était contre aussi.
+{25120}{25197}En 1973. L'opposant solitaire.
+{25200}{25285}Mais il s'est ressaisi|et il a sacrifié votre soeur Samantha.
+{25287}{25355}Il ne l'a pas sacrifiée. Vous l'y avez forcé.
+{25355}{25465}Vous ne pourriez pas|être plus loin de la vérité.
+{25467}{25527}Vous faites erreur depuis le début.
+{25572}{25647}Nous avons accepté|de travailler avec les colons
+{25660}{25767}suite à un vote majoritaire du groupe|dont votre père faisait aussi partie,
+{25770}{25915}un groupe formé au sein du gouvernement|autour d'un projet qui datait de Roswell.
+{25917}{26015}Mais le vote a tout changé.
+{26015}{26082}Nous n'étions plus liés au gouvernement.
+{26085}{26157}Le projet devenait une entreprise privée.
+{26177}{26315}Votre père était contre l'idée d'une alliance|avec les colons extraterrestres.
+{26325}{26430}- Qui n'aurait servi que vos intérêts.|- On a empêché l'invasion.
+{26432}{26520}- Vous l'avez reportée.|- On a sauvé des millions de vies.
+{26522}{26615}Vous avez mis des vies entre parenthèses|pour sauver votre peau.
+{26615}{26665}Pour sauver la vôtre.
+{26702}{26805}C'est ce que votre père n'a pas compris.
+{26807}{26870}Il nous a critiqués
+{26870}{26930}alors que le processus était lancé.
+{26965}{27052}Le groupe avait consenti au plus...
+{27077}{27135}pénible des sacrifices.
+{27152}{27260}Un sacrifice qu'on n'exigerait|jamais plus de personne.
+{27282}{27342}Vous leur avez donné vos enfants!
+{27370}{27430}Votre femme!
+{27450}{27500}Vous les avez donnés...
+{27520}{27570}comme des objets.
+{27577}{27667}C'était ce qu'il fallait faire.
+{27670}{27730}Vous leur avez fait subir des tests.
+{27730}{27837}On l'a fait pour qu'ils reviennent.|Vous ne comprenez pas?
+{27867}{27947}Ces choix n'ont pas été faits à la légère.
+{27987}{28072}C'était la décision la plus pénible de notre|vie.
+{28102}{28185}De voir les visages de nos proches.
+{28420}{28470}Vous mentez.
+{28542}{28640}Ma soeur a été enlevée à la maison,|sous mes yeux.
+{28642}{28655}Votre père a mis du temps|à comprendre qu'il devait
+{28655}{28742}Votre père a mis du temps|à comprendre qu'il devait
+{28745}{28840}lui aussi donner l'un de ses enfants|aux colons extraterrestres.
+{28840}{28900}Les extraterrestres ont insisté.
+{28900}{28997}Sinon, ils ne nous auraient pas donné|ce dont on avait besoin.
+{29017}{29105}Ce qui nous permettait d'avancer.
+{29135}{29260}Le foetus porteur du génome extraterrestre.
+{29262}{29352}L'ADN permettant|de fabriquer un hybride humain.
+{29390}{29440}Une race nouvelle.
+{29442}{29562}Un hybride capable|de survivre à l'holocauste.
+{29575}{29622}Pour que vous surviviez.
+{29655}{29700}Et que vous retrouviez votre soeur.
+{30045}{30095}Et vous avez réussi?
+{30227}{30310}Bien malgré nous.
+{30345}{30425}On voulait que ça traîne.
+{30475}{30530}Le temps de trouver un vaccin.
+{30532}{30600}C'était l'idée de votre père.
+{30602}{30695}Utiliser l'ADN extraterrestre pour le vaccin.
+{30695}{30777}Pour sauver le monde entier.
+{30780}{30862}Il était là pour ça. Mais c'est trop tard.
+{30905}{30955}La colonisation va commencer.
+{31022}{31092}Les événements vont s'enchaîner.
+{31115}{31172}Un état d'urgence sera déclaré
+{31175}{31185}à cause d'une épidémie du virus|transmis par des abeilles.
+{31185}{31270}à cause d'une épidémie du virus|transmis par des abeilles.
+{31290}{31355}Puis l'invasion débutera.
+{31395}{31450}Il suffirait de donner Cassandra.
+{31470}{31535}Vous ne pouvez pas.
+{31537}{31640}Les rebelles sans visages|ne nous ont pas laissé le choix.
+{31735}{31805}Arrêtez tout ou je m'en charge.
+{31807}{31925}Vous n'arrêterez rien|si vous tenez à revoir votre soeur.
+{31927}{32062}Arrêtez tout ou on mourra tous.
+{32065}{32097}Non.
+{32130}{32185}Je vivrai.
+{32185}{32345}Vous aussi, pour retrouver votre soeur.|Votre père l'avait compris.
+{32345}{32430}Vous le comprendrez, vous êtes son fils.
+{32532}{32642}Sinon, nous mourrons tous en vain.
+{32800}{32850}Sauvez-la.
+{32867}{32917}Sauvez-vous.
+{33542}{33617}46EME RUE EST|NEW YORK
+{33807}{33867}Vous cherchez votre père.
+{33935}{33990}Il est parti. Comme les autres.
+{33992}{34052}Mais ils vont revenir?
+{34055}{34155}Ils sont partis pour de bon.
+{34155}{34230}- Comment ça?|- lls ont abandonné ces bureaux.
+{34232}{34295}- lls sont là depuis 50 ans.|- Vous ne comprenez pas.
+{34297}{34360}- Où sont-ils partis?|- En Virginie occidentale.
+{34382}{34540}Ils seront emmenés par les colons|et préparés à recevoir les gènes hybrides.
+{34542}{34592}Sauf votre père.
+{34652}{34667}- II est parti chercher votre mère.|- Elle est en sécurité.
+{34667}{34730}- II est parti chercher votre mère.|- Elle est en sécurité.
+{34732}{34827}En sécurité? II l'a déjà|fait examiner par ses médecins.
+{34857}{34900}Je la fais surveiller.
+{34900}{34985}Ils doivent la préparer en ce moment même.
+{35215}{35287}- Que voulez-vous?|- Allongez-vous.
+{35290}{35345}Laissez-moi!
+{35345}{35415}Détendez-vous. Ce sera plus facile.
+{35417}{35475}Au secours. Lâchez-moi!
+{35475}{35520}Vous ne me droguerez pas.
+{35522}{35592}- Ne me droguez pas!|- Retournez-la.
+{35710}{35762}Allez au diable!
+{35765}{35815}- Ca y est.|- Salauds.
+{36090}{36162}Le plus salaud de tous.
+{36195}{36245}Laissez-nous quelques minutes.
+{36560}{36620}Ils ne remettent rien en question?
+{36642}{36732}- Quoi?|- Ton pouvoir. Ton autorité.
+{36770}{36842}Alors que tu n'es qu'un lâche.
+{36960}{37065}J'espérais que nous parlerions de l'avenir.
+{37105}{37162}Pas du passé.
+{37165}{37215}Je suis désavantagée.
+{37255}{37320}Tu m'as volé mon passé.
+{37332}{37382}Je ne me défendrai pas.
+{37437}{37487}Sauf pour dire que...
+{37557}{37662}si nous en sommes là,|c'est grâce à ce que j'ai fait.
+{37665}{37715}C'est grâce à ça.
+{37740}{37845}Je le sais maintenant.
+{37845}{37930}Mais pendant tant d'années,|je n'ai rien compris,
+{37980}{38070}malgré les enlèvements et les tests...
+{38070}{38110}C'était toi.
+{38110}{38120}C'était toi.
+{38187}{38310}Je donnais les ordres.|Mais je n'ai jamais voulu te faire du mal.
+{38362}{38412}Je voulais te sauver.
+{38440}{38490}Ainsi que Jeffrey.
+{38525}{38585}Tu ne sauveras jamais notre fils.
+{38637}{38687}Il sait ce que tu m'as fait.
+{38715}{38765}Je t'ai sauvée.
+{38827}{38935}Lui, il n'y a qu'une façon de le sauver.
+{38980}{39045}Il n'y a qu'une chose à faire.
+{39125}{39195}Je ne peux pas te faire ça.
+{39212}{39300}Je dois mourir. Sinon ils mourront tous.
+{39327}{39375}Non.
+{39630}{39722}- Mon Dieu.|- Je ne voulais pas t'effrayer.
+{39725}{39800}- Fox, que fais-tu?|- Rien.
+{39800}{39850}Rien du tout.
+{39992}{40072}- Je suis venu chercher des preuves.|- De quoi parles-tu?
+{40075}{40195}Tu m'as menti, tu ne travaillais pas|avec moi sur les affaires NC.
+{40197}{40300}Tu fais totalement fausse route.
+{40302}{40362}Je n'ai rien trouvé.
+{40455}{40510}- Mais j'ai été rattrapé.|- Par quoi?
+{40537}{40640}Par le destin.|Ce qui arrive quand on comprend
+{40640}{40740}que nos choix de vie sont faits d'avance.
+{40830}{40870}Que s'est-il passé ici?
+{40870}{40975}Tu as reçu la visite du père|du jeune Jeffrey Spender.
+{40977}{41135}L'homme à la cigarette cherchait|son fils qui a embrassé ma cause futile.
+{41135}{41192}- Contre son père.|- Pourquoi futile?
+{41195}{41250}Parce qu'on ne peut rien faire.
+{41252}{41360}Il faut se résoudre à accepter
+{41360}{41485}que pour que nos proches survivent,|il faut laisser tomber.
+{41745}{41797}C'est là que tout commence.
+{41837}{41922}On doit s'y rendre si on veut survivre.
+{42482}{42537}FORT MARLENE|22H13
+{43067}{43095}Aidez-moi.
+{43095}{43117}Aidez-moi.
+{43175}{43300}- lls vont me laisser ici.|- N'approchez pas. Je ne peux rien faire.
+{43300}{43412}Ils emballent tout. Ils ne reviendront pas.
+{43455}{43557}Je vous connais. Je peux vous aider.
+{43560}{43652}- Vous ne pouvez rien.|- Je sais où ils l'emmènent.
+{43745}{43805}Je sais comment.
+{43860}{43917}Faites-moi confiance.
+{44185}{44235}LABO CRYOGENIQUE|CONTRÔLE DE PURETE
+{44257}{44317}AZOTE
+{45155}{45227}Fermez la porte. Cette zone est dangereuse.
+{45240}{45355}Vous risquez la contamination.|Quittez cette pièce.
+{46052}{46145}- C'est moi.|- J'étais en train de t'appeler. Où es-tu?
+{46147}{46220}- Avec Diana.|- Je viens te chercher.
+{46237}{46297}Non, on arrive. Tu viens avec nous.
+{46300}{46375}Non, écoute-moi.|Je vais te mener à Cassandra.
+{46375}{46485}- C'est fini pour elle.|- Je sais où elle est.
+{46487}{46590}- C'est inutile.|- J'y vais avec ou sans toi.
+{46645}{46720}- Où ça?|- A la gare de triage.
+{46720}{46777}Ils l'emmènent en train.
+{46780}{46870}- D'où tiens-tu cette information?|- L'agent Spender m'a appelée.
+{46872}{46902}D'accord.
+{46905}{46955}- Vas-y.|- Qu'a-t-elle dit?
+{46955}{47020}C'est peut-être|notre seule chance de les arrêter.
+{47647}{47702}Demi-tour.
+{48497}{48527}C'est quoi?
+{49187}{49267}BASE AERIENNE EL RICO|23H21
+{49790}{49840}C'est lui.
+{50035}{50125}- Qu'est-ce qui se passe?|- On est en danger. Le temps est compté.
+{50127}{50215}- Vous n'avez rien dit au téléphone.|- Pour éviter une panique générale.
+{50217}{50290}- A cause de quoi?|- La base El Rico.
+{51627}{51742}- On attendait pour envoyer le message.|- On craignait un incident.
+{51745}{51805}- On nous a tiré dessus.|- Qui ça?
+{51825}{51875}Je l'ignore.
+{51995}{52045}Des gens ont disparu.
+{52112}{52152}Où estAlex Krycek?
+{53512}{53540}Krycek!
+{53642}{53697}- J'essaie de sortir.|- Quoi?
+{53700}{53805}La sécurité ne m'autorise pas|à faire sortir une patiente.
+{54050}{54120}C'est mon père qui a fait ça.|Elle veut témoigner.
+{54120}{54217}Pauvre con. Tu n'as rien compris.
+{54220}{54280}Tout est foutu.
+{54315}{54365}Les rebelles vont gagner.
+{54420}{54470}Ils l'ont pris.
+{54470}{54520}Quoi donc?
+{55612}{55677}- Qui a envoyé le message?|- Personne.
+{55820}{55875}Ce n'est pas ce qui était prévu.
+{56290}{56315}C'est quoi?
+{56317}{56367}Reculez.
+{57757}{57820}La façon dont ils sont morts...
+{57870}{57930}Ces vies perdues...
+{57947}{57997}C'est au-delà des mots.
+{58077}{58180}Ce doit être terrible pour vous|d'avoir perdu votre mère.
+{58210}{58307}Oui, monsieur. Mais ce n'est pas pour ça|que j'ai demandé cette réunion.
+{58337}{58375}Pourquoi alors?
+{58375}{58510}Parce que je suis largement responsable|de la mort de ces gens sur la base.
+{58512}{58577}En tout cas, je n'ai rien empêché.
+{58580}{58670}Donc vous pouvez me dire|comment ils sont morts.
+{58672}{58747}J'aimerais bien avoir une explication.
+{58750}{58802}L'agent Mulder peut en parler.
+{58805}{58927}L'agent Scully aussi. Ils ont|peut-être empêché ce que vous voyez là.
+{58930}{59000}Scully et Mulder ont été mis à pied par le FBI.
+{59002}{59080}- Ca aussi, c'est de ma faute.|- J'aimerais...
+{59082}{59140}Avant d'entendre que ça ne me regarde pas,
+{59140}{59227}je vous demande de les remettre|sur les affaires NC.
+{59230}{59292}Des choses plus terribles risquent d'arriver.
+{59295}{59337}C'est même sûr.
+{59515}{59582}- Où allez-vous?|- Vider mon bureau.
+{59620}{59660}Agent Spender!
+{59730}{59835}Vous avez des réponses?|Pourquoi ne suis-je pas au courant?
+{59835}{59920}- J'en ai depuis des années.|- Pourquoi ne pas en avoir parlé?
+{59920}{59982}- On ne m'écoutait pas.|- Qui a brûlé ces gens?
+{59985}{60050}Ils se sont brûlés eux-mêmes...
+{60050}{60135}à cause d'un choix fait par des conspirateurs
+{60137}{60220}qui pensaient pouvoir pactiser avec l'ennemi.
+{60242}{60297}Mais ils ont trouvé un autre ennemi.
+{60395}{60517}- Que voulez-vous dire?|- L'avenir est plus qu'incertain.
+{60550}{60632}Agent Scully, éclairez-moi.
+{60635}{60682}Il a raison.
+{60945}{61047}- Sors d'ici.|- Cette photo...
+{61050}{61162}Je ne l'ai pas vue depuis ta naissance.|Tu ignores qui est l'autre homme.
+{61165}{61240}- Je m'en fous. Va-t'en.|- C'est Bill Mulder.
+{61270}{61385}Le père de Fox. C'est fou, non?
+{61395}{61470}C'était un type bien. Un ami.
+{61545}{61595}Il a fini par me trahir.
+{61717}{61785}Ta mère avait raison.
+{61787}{61840}J'aurais voulu qu'elle se trompe.
+{62000}{62050}J'espérais que mon fils...
+{62085}{62135}me ferait honneur.
+{62177}{62227}Comme le fils de Bill Mulder.
+{63260}{63302}Sous-titrage Visiontext:|Anne Kosossey
+{63840}{63890}FRENCH

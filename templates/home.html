@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Flixer - Prototype</title>
+  <style>
+    :root{
+      --footer-color: #9D0208; 
+      --accent: #e11d26;
+      --bg: #000;
+      --text: #fff;
+      --input-bg: rgba(0,0,0,0.6); /* barre de recherche glasmorphisme */
+      --input-border: rgba(255,255,255,0.08);
+      --search-wrapper-bg: rgba(50,50,50,0.7); /* cadre derrière texte grisé */
+    }
+
+    *{ box-sizing: border-box; margin:0; padding:0; }
+    html,body{ height:100%; font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial; background:var(--bg); color:var(--text); }
+
+    .page{ min-height:100vh; display:flex; flex-direction:column; }
+
+    header{
+      display:flex; align-items:center; gap:20px;
+      padding:16px 40px; background: rgba(0,0,0,0.6);
+      position: sticky; top:0; z-index:60;
+    }
+    .logo{ color: var(--accent); font-weight:800; font-size:24px; letter-spacing:1px; }
+    nav{ flex:1; margin-left:28px; }
+    nav a{ color:var(--text); text-decoration:none; margin:0 14px; opacity:.95; font-size:15px; }
+    .login-btn{ background: var(--accent); color:#fff; padding:8px 14px; border-radius:8px; border:none; cursor:pointer; font-weight:700; }
+
+    /* HERO */
+    .hero{
+      position: relative; height:75vh; min-height:420px; display:flex; align-items:center; justify-content:center; text-align:center; overflow:hidden;
+    }
+    .hero-bg{
+      position:absolute; inset:0; 
+      background-size:cover; 
+      background-position:center; 
+      transition:background-image 1s ease-in-out; 
+      z-index:1; 
+      filter:none; /* images à 100% opacité */
+    }
+
+    /* cadre derrière texte + barre recherche */
+    .hero-content-wrapper{
+      position:relative; 
+      z-index:3; 
+      width:100%; 
+      max-width:1100px; 
+      padding:28px; 
+      background: var(--search-wrapper-bg); /* juste gris semi-transparent */
+      border-radius:16px;
+    }
+
+    .hero-content h1{ font-size:34px; margin-bottom:10px; text-shadow:0 6px 30px rgba(0,0,0,0.3); }
+    .hero-content p{ color: rgba(255,255,255,0.9); margin-bottom:18px; }
+
+    /* SEARCH */
+    .search-box{
+      display:flex; align-items:center; justify-content:center; gap:8px;
+      margin: 0 auto;
+    }
+    .search-wrapper{
+      position:relative;
+      width: min(820px, 88%);
+      display:flex;
+      align-items:center;
+      background: var(--input-bg); 
+      border-radius:12px;
+      backdrop-filter: blur(6px); /* glasmorphisme barre recherche */
+      padding:4px 8px;
+    }
+    .search-icon {
+      position:absolute; left:12px; top:50%; transform:translateY(-50%);
+      width:36px; height:36px; display:flex; align-items:center; justify-content:center;
+      border-radius:8px; background: transparent; color: rgba(255,255,255,0.7);
+      border: none; cursor: pointer; z-index:4;
+    }
+    .search-input{
+      width:100%;
+      padding:12px 44px 12px 48px;
+      background: transparent; /* transparent car wrapper a le fond */
+      border: none;
+      color: var(--text);
+      border-radius: 12px;
+      font-size:16px;
+      outline:none;
+    }
+    .search-input::placeholder{ color: rgba(255,255,255,0.5); }
+
+    .search-btn{
+      margin-left:10px;
+      padding:12px 18px;
+      border-radius: 10px;
+      background: var(--accent);
+      color:#fff;
+      border:none;
+      font-weight:700;
+      cursor:pointer;
+      transition: transform .12s;
+      box-shadow: 0 6px 18px rgba(157,2,8,0.12);
+    }
+    .search-btn:active{ transform: translateY(1px) scale(.998); }
+
+    /* SECTIONS */
+    .section{ padding:36px 48px; }
+    .section h2{ font-size:22px; margin-bottom:18px; }
+
+    .series-list{ display:flex; gap:16px; overflow-x:auto; padding-bottom:6px; }
+    .series-list::-webkit-scrollbar{ height:10px; }
+    .series-card{ flex:0 0 170px; border-radius:10px; overflow:hidden; background:#111; cursor:pointer; transition: transform .22s; }
+    .series-card img{ width:100%; height:260px; object-fit:cover; display:block; opacity:1; }
+    .series-card:hover{ transform: translateY(-8px) scale(1.03); }
+
+    /* FOOTER */
+    footer{
+      background: var(--footer-color);
+      color:#fff;
+      padding:26px 18px;
+      text-align:center;
+      font-size:14px;
+      border-top:4px solid #000;
+      margin-top:auto;
+    }
+
+    @media (max-width:720px){
+      .hero-content-wrapper{ padding:16px; }
+      .hero-content h1{ font-size:22px; }
+      .search-wrapper{ padding:4px 6px; }
+      .search-input{ padding-left:40px; }
+      .series-card{ flex:0 0 130px; }
+      .series-card img{ height:200px; }
+      header{ padding:12px 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <div class="logo">FLIXER</div>
+      <nav>
+        <a href="#">Accueil</a>
+        <a href="#">Séries TV</a>
+        <a href="#">Ma Liste</a>
+      </nav>
+      <button class="login-btn">Se connecter</button>
+    </header>a
+
+    <main>
+      <section class="hero" aria-label="Bannière principale">
+        <div class="hero-bg" id="heroBg"></div>
+
+        <div class="hero-content-wrapper">
+          <div class="hero-content">
+            <h1>Rechercher des séries TV</h1>
+            <p>Immersion totale — trouve ta prochaine série préférée.</p>
+
+            <div class="search-box" role="search" aria-label="Recherche de séries">
+              <div class="search-wrapper">
+                <button class="search-icon" id="searchIcon" aria-label="Icône recherche">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:inherit">
+                    <circle cx="11" cy="11" r="7"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                  </svg>
+                </button>
+                <input id="search" class="search-input" type="search" placeholder="Rechercher des séries, acteurs, genres..." aria-label="Recherche">
+              </div>
+              <button id="searchBtn" class="search-btn">Rechercher</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" aria-label="Séries tendance">
+        <h2>Séries tendance</h2>
+        <div class="series-list" id="trendingList">
+          <div class="series-card"><img src="https://m.media-amazon.com/images/I/81rRz1N35cL._AC_UF894,1000_QL80_.jpg" alt="Affiche série 1"></div>
+          <div class="series-card"><img src="https://fr.web.img6.acsta.net/pictures/23/09/05/09/59/1762066.jpg" alt="Affiche série 2"></div>
+          <div class="series-card"><img src="https://fr.web.img2.acsta.net/pictures/23/12/12/11/21/0794013.jpg" alt="Affiche série 3"></div>
+          <div class="series-card"><img src="https://upload.wikimedia.org/wikipedia/en/2/25/Futurama_Series.png" alt="Affiche série 4"></div>
+          <div class="series-card"><img src="https://fr.web.img6.acsta.net/pictures/22/11/11/09/51/1429732.jpg" alt="Affiche série 5"></div>
+          <div class="series-card"><img src="https://fr.web.img4.acsta.net/pictures/22/12/15/09/17/4243630.jpg" alt="Affiche série 6"></div>
+        </div>
+      </section>
+    </main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <p>© 2025 Flixer. Tous droits réservés.</p>
+    <p>Trinôme : Slith Doha, Baptiste Cha, Mouataz Lfarh</p>
+  </div>
+</footer>
+
+  </div>
+
+  <script>
+    const imgs = [
+      "https://wallpaperaccess.com/full/329583.jpg",
+      "https://wallpaperaccess.com/full/329580.jpg",
+      "https://wallpaperaccess.com/full/329578.jpg"
+    ];
+    let idx = 0;
+    const heroBg = document.getElementById("heroBg");
+    function setHeroImage(){
+      heroBg.style.backgroundImage = `url('${imgs[idx]}')`;
+      idx = (idx + 1) % imgs.length;
+    }
+    setHeroImage();
+    setInterval(setHeroImage, 5000);
+
+    const input = document.getElementById("search");
+    const btn = document.getElementById("searchBtn");
+    const icon = document.getElementById("searchIcon");
+
+    function doSearch(){
+      const q = input.value.trim();
+      if(!q){ input.focus(); return; }
+      alert("Recherche lancée pour : " + q);
+    }
+
+    input.addEventListener("keydown", (e)=>{ if(e.key === "Enter") doSearch(); });
+    btn.addEventListener("click", doSearch);
+    icon.addEventListener("click", ()=>{ input.focus(); });
+  </script>
+</body>
+</html>

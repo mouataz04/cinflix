@@ -1,0 +1,187 @@
+1
+00:00:14,053 --> 00:00:15,850  X1:268 X2:450 Y1:505 Y2:535
+C'est pas vrai!
+
+2
+00:00:16,733 --> 00:00:19,042  X1:148 X2:571 Y1:505 Y2:535
+Fais attention. Laisse-moi essayer.
+
+3
+00:00:19,093 --> 00:00:21,812  X1:092 X2:626 Y1:505 Y2:535
+C'est toi qui as fait tomber la cuiller. Merde!
+
+4
+00:00:21,853 --> 00:00:24,447  X1:184 X2:534 Y1:467 Y2:530
+- Le muesli devient tout mou.
+- Putain!
+
+5
+00:00:24,493 --> 00:00:27,963  X1:153 X2:564 Y1:467 Y2:535
+- Pas la peine de devenir agressif.
+- Tu me trouves agressif?
+
+6
+00:00:28,013 --> 00:00:32,165  X1:146 X2:571 Y1:467 Y2:536
+- Ce n'est qu'une cuiller.
+- Je sais, mais ça me prend la tête.
+
+7
+00:00:34,213 --> 00:00:36,010  X1:271 X2:447 Y1:505 Y2:534
+Oh, mon Dieu.
+
+8
+00:00:39,173 --> 00:00:41,164  X1:249 X2:467 Y1:505 Y2:535
+Agressif, mon cul.
+
+9
+00:01:12,744 --> 00:01:15,975  X1:181 X2:539 Y1:042 Y2:105
+On a vraiment besoin
+de tous ces fluides artériels?
+
+10
+00:01:16,024 --> 00:01:20,859  X1:097 X2:620 Y1:042 Y2:072
+Sustain, Patriot, Optimum, Power, Reliable.
+
+11
+00:01:20,904 --> 00:01:26,183  X1:111 X2:610 Y1:042 Y2:110
+Tu voudrais que j'embaume
+une victime de noyade avec du Sustain?
+
+12
+00:01:27,744 --> 00:01:29,735  X1:232 X2:485 Y1:042 Y2:072
+Je suppose que non.
+
+13
+00:01:38,824 --> 00:01:40,815  X1:236 X2:484 Y1:042 Y2:067
+C'est Mme Fastoe?
+
+14
+00:01:41,584 --> 00:01:43,973  X1:234 X2:484 Y1:042 Y2:067
+Oui. Cancer du sein.
+
+15
+00:01:46,584 --> 00:01:50,418  X1:131 X2:589 Y1:042 Y2:072
+Tu peux la faire belle, pour son mari?
+
+16
+00:01:51,384 --> 00:01:54,535  X1:202 X2:515 Y1:042 Y2:110
+C'est insultant.
+Je les fais toujours belles.
+
+17
+00:01:56,464 --> 00:02:00,503  X1:186 X2:531 Y1:042 Y2:105
+Vanessa m'emmêne
+à un cours de danse ce soir.
+
+18
+00:02:00,544 --> 00:02:04,617  X1:213 X2:504 Y1:042 Y2:106
+- Désolé.
+- Quoi? J'adore danser.
+
+19
+00:02:04,664 --> 00:02:06,575  X1:253 X2:465 Y1:042 Y2:067
+Tant mieux. Cool.
+
+20
+00:02:07,624 --> 00:02:09,580  X1:281 X2:436 Y1:042 Y2:110
+- Donc elle...
+- Super.
+
+21
+00:02:09,624 --> 00:02:14,140  X1:134 X2:587 Y1:042 Y2:110
+Le médecin lui a prescrit des cachets
+qui l'ont tirée d'affaire.
+
+22
+00:02:14,184 --> 00:02:16,140  X1:284 X2:434 Y1:042 Y2:072
+C'est génial.
+
+23
+00:02:17,224 --> 00:02:20,899  X1:140 X2:578 Y1:042 Y2:110
+- Comment ça va avec Lisa?
+- Elle est partie pour quelques jours.
+
+24
+00:02:20,944 --> 00:02:23,299  X1:139 X2:582 Y1:042 Y2:073
+Ça fait du bien un petit break, hein?
+
+25
+00:02:23,344 --> 00:02:25,938  X1:114 X2:603 Y1:042 Y2:072
+Tu sais, je croyais que ce serait le cas...
+
+26
+00:02:25,984 --> 00:02:29,897  X1:099 X2:618 Y1:042 Y2:110
+mais elle me manque déjà
+et elle n'est partie que depuis deux heures.
+
+27
+00:02:31,224 --> 00:02:33,533  X1:216 X2:505 Y1:042 Y2:072
+C'est bizarre, pas vrai?
+
+28
+00:03:00,252 --> 00:03:04,643  X1:126 X2:595 Y1:467 Y2:535
+J'ai appris qu'en surélevant les genoux
+d'une personne de grande taille
+
+29
+00:03:05,452 --> 00:03:10,970  X1:112 X2:608 Y1:467 Y2:535
+avant de l'embaumer, ceux-ci conservent
+une position légêrement fléchie.
+
+30
+00:03:12,292 --> 00:03:16,490  X1:093 X2:625 Y1:505 Y2:535
+Ce qui facilite le placement dans le cercueil.
+
+31
+00:03:18,492 --> 00:03:21,052  X1:298 X2:420 Y1:467 Y2:530
+- Pas mal.
+- Merci.
+
+32
+00:03:24,252 --> 00:03:27,483  X1:243 X2:474 Y1:505 Y2:530
+Avec les femmes...
+
+33
+00:03:27,532 --> 00:03:32,560  X1:151 X2:570 Y1:467 Y2:535
+un bout de scotch sur chaque sein
+les empêche de, tu sais...
+
+34
+00:03:32,612 --> 00:03:34,807  X1:243 X2:475 Y1:505 Y2:535
+partir sur les côtés.
+
+35
+00:03:34,852 --> 00:03:38,811  X1:119 X2:601 Y1:467 Y2:530
+C'est incroyable tout ce qu'on peut faire
+avec du scotch.
+
+36
+00:03:38,852 --> 00:03:42,970  X1:153 X2:565 Y1:467 Y2:530
+- N'est-ce pas?
+- Vous allez arrêter de chuchoter!
+
+37
+00:03:46,172 --> 00:03:48,242  X1:175 X2:542 Y1:505 Y2:535
+On ne voulait pas te déranger.
+
+38
+00:03:48,292 --> 00:03:51,125  X1:206 X2:514 Y1:505 Y2:536
+Parlez de façon normale!
+
+39
+00:03:51,172 --> 00:03:54,687  X1:141 X2:578 Y1:505 Y2:530
+Et arrêtez de marcher sur des œufs.
+
+40
+00:03:54,732 --> 00:03:57,121  X1:100 X2:619 Y1:505 Y2:535
+On se croirait dans une putain de morgue!
+
+41
+00:04:03,972 --> 00:04:08,523  X1:111 X2:606 Y1:467 Y2:535
+Je sais qu'il traverse une période difficile,
+mais il n'est pas le seul.
+
+42
+00:04:08,572 --> 00:04:09,163  X1:317 X2:403 Y1:505 Y2:530
+Rippé depuis le coffret francais par Ninjaw P.B.
+

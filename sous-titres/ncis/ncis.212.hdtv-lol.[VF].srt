@@ -1,0 +1,3580 @@
+1
+00:00:02,301 --> 00:00:05,340
+Bonjour, M. Poole, mon nom est Julie,
+et j'appelle de la part...
+
+2
+00:00:06,254 --> 00:00:09,242
+Bonjour, je m’appelle Allison, et j'aimerais vous parler
+d'un nouveau programme spécial...
+
+3
+00:00:10,336 --> 00:00:10,865
+Allo?
+
+4
+00:00:11,571 --> 00:00:12,779
+Bonjour, Quartier-maître Lambert.
+
+5
+00:00:13,015 --> 00:00:13,377
+Ouais?
+
+6
+00:00:13,545 --> 00:00:14,738
+Bonjour, mon nom est Roland Kesta.
+
+7
+00:00:14,891 --> 00:00:17,286
+J’appelle de la part de Thrifty Phone Services.
+
+8
+00:00:17,423 --> 00:00:19,816
+J’y ai déjà réfléchi et je ne pense pas vouloir
+changer d’opérateur
+
+9
+00:00:20,073 --> 00:00:22,119
+C'est ce que la plupart des gens disent
+jusqu'à ce qu'ils entendent
+
+10
+00:00:22,187 --> 00:00:23,970
+Combien nous pouvons leur faire économiser
+sur les appels longs distance.
+
+11
+00:00:24,101 --> 00:00:25,676
+Je ne fais pas d’appels long distance, ok?
+
+12
+00:00:26,259 --> 00:00:26,895
+Vous avez entendu?
+
+13
+00:00:27,456 --> 00:00:28,197
+Quoi?
+
+14
+00:00:28,589 --> 00:00:29,811
+Comme un bruit de verre cassé dans la cuisine.
+
+15
+00:00:30,108 --> 00:00:31,291
+Non.
+
+16
+00:00:32,005 --> 00:00:35,103
+Notre service de longue distance est
+exactement le même que AT&T,
+
+17
+00:00:35,588 --> 00:00:38,990
+-Sprint, SBC, sauf que nous pouvons vous faire économiser...
+-Qui est vous?
+
+18
+00:00:40,337 --> 00:00:44,180
+L'homme qui va vous faire économiser
+40% sur vos appels longue distance, monsieur.
+
+19
+00:00:51,056 --> 00:00:52,913
+Um, il n'y a pas de contrat à signer...
+
+20
+00:00:55,607 --> 00:00:57,942
+Uh, Quartier-maître Lambert?
+
+21
+00:01:41,137 --> 00:01:43,091
+C’est la dernière fois que je te le dis, Tony.
+
+22
+00:01:43,417 --> 00:01:47,012
+Ne répond plus à mon téléphone, n'utilise plus mon ordinateur,
+ne lis plus mon courrier,
+
+23
+00:01:47,327 --> 00:01:50,800
+Ne regarde plus dans mon portefeuille, ne touche plus,
+non plus, ni à mon PDA, ni à mon portable.
+
+24
+00:01:51,776 --> 00:01:53,530
+Et une portion de pommes de terre rissolées.
+
+25
+00:01:54,438 --> 00:01:56,970
+Soyons clairs, Kate, je n'ai fait aucune de ces choses.
+
+26
+00:01:57,238 --> 00:01:58,210
+Zéro. Zip. Nada.
+
+27
+00:01:58,728 --> 00:02:00,112
+Alors comment sais tu où je suis allé déjeuner ?
+
+28
+00:02:00,948 --> 00:02:02,783
+Le logo sur la tasse de café dans votre poubelle.
+
+29
+00:02:03,487 --> 00:02:05,193
+Quelqu'un t’as invité dans cette conversation, bizut ?
+
+30
+00:02:05,516 --> 00:02:06,540
+Tu regardes dans ma poubelle?
+
+31
+00:02:07,058 --> 00:02:09,040
+Tu n'as pas dit que je n'avais pas le droit...n'est-ce pas?
+
+32
+00:02:09,718 --> 00:02:10,912
+Pourquoi tu fais ça?
+
+33
+00:02:11,336 --> 00:02:12,950
+J’aiguise mes compétences d'investigation.
+
+34
+00:02:15,037 --> 00:02:16,773
+On décolle.
+
+35
+00:02:17,135 --> 00:02:18,583
+-C’est pour quoi?
+-Un Marines mort.
+
+36
+00:02:19,127 --> 00:02:20,321
+Nous n'avons pas été prévenus.
+
+37
+00:02:20,466 --> 00:02:21,701
+Tu l'a vu dans les journaux, hum, boss?
+
+38
+00:02:22,037 --> 00:02:24,071
+Hé, DiNozzo, pour une fois, tu as raison.
+
+39
+00:02:25,798 --> 00:02:26,873
+Allez. On y va.
+
+40
+00:02:41,108 --> 00:02:41,953
+Qui est le responsable ici?
+
+41
+00:02:42,197 --> 00:02:42,982
+Lieutenant Cheney, monsieur.
+
+42
+00:02:43,466 --> 00:02:44,170
+Nous finirons ceci dans dix minutes.
+
+43
+00:02:45,338 --> 00:02:46,062
+Lieutenant Cheney?
+
+44
+00:02:46,536 --> 00:02:47,862
+Agent spécial Gibbs, NCIS.
+
+45
+00:02:48,305 --> 00:02:49,173
+Vous devez être un voyant, Gibbs.
+
+46
+00:02:49,426 --> 00:02:50,542
+Je viens juste d’appeler le NCIS.
+
+47
+00:02:50,908 --> 00:02:51,540
+Pas un voyant.
+
+48
+00:02:51,807 --> 00:02:52,613
+J’ai seulement regardé les journaux.
+
+49
+00:02:52,957 --> 00:02:54,281
+Ils espionnent nos appels radio.
+
+50
+00:02:54,728 --> 00:02:56,702
+Le chef dit qu’il faut coopérer
+avec les medias d’information.
+
+51
+00:02:57,676 --> 00:02:58,672
+Le temps c'est de l'argent.
+
+52
+00:02:59,158 --> 00:02:59,771
+Vous avez raison.
+
+53
+00:03:00,715 --> 00:03:01,711
+Qu’avons-nous ?
+
+54
+00:03:02,478 --> 00:03:03,122
+Nous ne sommes pas sûrs.
+
+55
+00:03:03,788 --> 00:03:05,270
+Les nouvelles ont dit qu'un Marines a été assassiné.
+
+56
+00:03:05,477 --> 00:03:09,341
+Peut-être : la porte de cuisine est cassé,
+et à juger par le sang, ça pourrait être un meurtre.
+
+57
+00:03:09,796 --> 00:03:10,302
+Aucun corps.
+
+58
+00:03:10,735 --> 00:03:11,501
+Aucun corps.
+
+59
+00:03:15,335 --> 00:03:16,991
+-Miller.
+-Ouais, boss.
+
+60
+00:03:18,206 --> 00:03:19,430
+Tout de suite, boss.
+
+61
+00:03:20,108 --> 00:03:23,510
+Nous avons eu un appel d'urgence d’un televendeur.
+
+62
+00:03:23,908 --> 00:03:26,880
+Qui a dit qu’il parlait avec
+le Quartier-maître Dion Lambert.
+
+63
+00:03:27,105 --> 00:03:28,723
+Quand il a entendu une lutte et la ligne s’est coupée.
+
+64
+00:03:29,417 --> 00:03:30,323
+L'appel a été émis d'ici.
+
+65
+00:03:39,997 --> 00:03:42,361
+Lieutenant, votre ex-femme vient juste d’appeler.
+
+66
+00:03:42,775 --> 00:03:43,231
+La quelle?
+
+67
+00:03:43,486 --> 00:03:44,172
+La salope.
+
+68
+00:03:44,666 --> 00:03:45,831
+Tu vas devoir être plus spécifique.
+
+69
+00:03:46,528 --> 00:03:47,302
+C’est trop bizarre.
+
+70
+00:03:47,637 --> 00:03:48,222
+Sans aucun doute.
+
+71
+00:03:48,688 --> 00:03:49,321
+Bizarre.
+
+72
+00:03:49,678 --> 00:03:50,600
+Tu veux que je la rappelle
+
+73
+00:03:50,837 --> 00:03:52,991
+Non. La prochaine fois qu’une
+de mes ex appelle, demande son nom.
+
+74
+00:03:53,488 --> 00:03:53,840
+Lieutenant.
+
+75
+00:04:05,178 --> 00:04:06,502
+A moins que vous vous y opposiez,
+cette enquête est la vôtre.
+
+76
+00:04:07,427 --> 00:04:08,251
+Pas d’objections.
+
+77
+00:04:09,866 --> 00:04:10,472
+On s’est va, Rachel.
+
+78
+00:04:16,126 --> 00:04:16,992
+Hé, Rachel, je m’appelle Tony.
+
+79
+00:04:17,208 --> 00:04:19,151
+Si tu veux on peut se voir et comparer nos notes.
+
+80
+00:04:19,975 --> 00:04:21,433
+Quel est ta pointure?
+-12
+
+81
+00:04:22,977 --> 00:04:24,782
+Tu rêve.
+
+82
+00:04:25,548 --> 00:04:26,183
+Non, c’est vrai.
+
+83
+00:04:26,885 --> 00:04:27,512
+Ca l’est vraiment.
+
+84
+00:04:29,227 --> 00:04:30,343
+Tu peux les mesurer si tu veux.
+
+85
+00:04:30,595 --> 00:04:31,071
+DiNozzo.
+
+86
+00:04:31,296 --> 00:04:31,691
+Ouais, boss?
+
+87
+00:04:31,938 --> 00:04:33,072
+Les preuves, le sac et l'étiquette.
+
+88
+00:04:33,288 --> 00:04:34,342
+Kate, Prend des croquis et des photos de la scène
+
+89
+00:04:34,545 --> 00:04:36,350
+McGee, le portable et le répondeur.
+
+90
+00:04:36,485 --> 00:04:36,842
+Bien.
+
+91
+00:04:37,735 --> 00:04:39,313
+C’était vraiment bizarre.
+
+92
+00:04:39,737 --> 00:04:40,331
+Hmm. Quoi?
+
+93
+00:04:40,797 --> 00:04:42,880
+Bien, tu sais, je veux dire, comment toi et lui et...
+
+94
+00:04:47,106 --> 00:04:48,423
+Laisse tomber.
+
+95
+00:04:51,665 --> 00:04:53,951
+Tony, tu as vu mon calepin de croquis ?
+
+96
+00:04:54,407 --> 00:04:55,683
+Ouais, il est dans le camion sous mon fauteuil.
+
+97
+00:04:56,355 --> 00:04:57,231
+Sous ton fauteuil?
+
+98
+00:04:57,377 --> 00:04:57,993
+Comment est ce que...?
+
+99
+00:05:02,397 --> 00:05:03,301
+Comme ces pantalons.
+
+100
+00:05:12,965 --> 00:05:14,213
+Désolé.
+
+101
+00:05:15,367 --> 00:05:16,983
+Vous savez, vos yeux sont de la même couleur que ma Porsche.
+
+102
+00:05:18,138 --> 00:05:19,840
+Vous plaisantez ?
+
+103
+00:05:21,236 --> 00:05:22,250
+Que diriez-vous d'un dîner ?
+
+104
+00:05:24,405 --> 00:05:25,933
+Pourquoi s’embêter avec les préliminaires ?
+
+105
+00:05:26,646 --> 00:05:27,680
+Ah, maintenant qui plaisante?
+
+106
+00:05:29,786 --> 00:05:30,470
+Vous êtes sérieuse ?
+
+107
+00:05:31,208 --> 00:05:32,440
+Elle ne l’est pas, mais moi si.
+
+108
+00:05:34,096 --> 00:05:35,070
+Viens, Monteleone.
+
+109
+00:05:42,556 --> 00:05:43,072
+Pousse-toi.
+
+110
+00:05:46,477 --> 00:05:47,400
+Entre la voiture, bizut.
+
+111
+00:05:47,906 --> 00:05:48,793
+C’est du déjà vu.
+
+112
+00:05:50,598 --> 00:05:52,121
+Il n'y a pas de contrat à signer.
+
+113
+00:05:56,225 --> 00:05:57,221
+Uh, Quartier-maître Lambert?
+
+114
+00:06:01,947 --> 00:06:03,490
+Combien d'appels par jour vous faites?
+
+115
+00:06:04,436 --> 00:06:06,243
+Quelque chose comme entre 300 et 400.
+
+116
+00:06:06,928 --> 00:06:10,472
+Vous vous sentez jamais coupables de vous introduire
+dans la vie des gens?
+
+117
+00:06:11,066 --> 00:06:12,330
+Au début, un peu.
+
+118
+00:06:12,778 --> 00:06:15,710
+Quand vous vous faites maudire une centaine de fois,
+Ça vous passe au dessus.
+
+119
+00:06:16,408 --> 00:06:18,671
+Pourquoi continuer la vente quand vous avez su
+que quelque chose se passait ?
+
+120
+00:06:19,108 --> 00:06:21,920
+Mon patron veut que nous n'arrêtions
+la vente pour aucune raison.
+
+121
+00:06:23,258 --> 00:06:25,200
+Il n'a vraiment aucune compassion.
+
+122
+00:06:26,206 --> 00:06:28,903
+Comment avez-vous eu le numéro
+du Quartier-maître Lambert?
+
+123
+00:06:29,158 --> 00:06:30,050
+D'un courtier de listes.
+
+124
+00:06:30,518 --> 00:06:31,531
+Comment a t'il été inscrit sur la liste ?
+
+125
+00:06:31,835 --> 00:06:32,560
+Je ne sais pas.
+
+126
+00:06:33,018 --> 00:06:36,890
+Une souscription a une revue, une carte de garantie,
+réduction d’un supermarché.
+
+127
+00:06:38,056 --> 00:06:39,423
+Réduction d’un supermarché?
+
+128
+00:06:39,895 --> 00:06:41,322
+Pourquoi pensez vous qu'ils vous donnent ces petites
+
+129
+00:06:41,445 --> 00:06:43,240
+Étiquette qu’ils scrutent quand vous payez la note ?
+
+130
+00:06:43,526 --> 00:06:44,180
+Pour les réductions.
+
+131
+00:06:45,185 --> 00:06:47,541
+Ils recueillent des informations
+qu'ils vendent aux télévendeurs.
+
+132
+00:06:48,175 --> 00:06:50,821
+Quelle marque vous achetez, pour combien, combien de fois…
+
+133
+00:06:51,625 --> 00:06:53,130
+Ce n'est pas illégal?!
+
+134
+00:06:53,616 --> 00:06:55,772
+A chaque fois que vous notez votre nom, il va dans
+
+135
+00:06:55,868 --> 00:06:58,762
+Une base de données qui sera vendu à quelqu'un d'autre.
+
+136
+00:06:59,758 --> 00:07:05,523
+Ok, bien, je vais avoir besoin de vos coordonnées,
+portable et numéros fixe.
+
+137
+00:07:05,996 --> 00:07:06,532
+Bien.
+
+138
+00:07:06,916 --> 00:07:11,190
+Mais s'il vous plait n'appelez pas entre 6:00 et 8:00,
+parce que c'est d’habitude…
+
+139
+00:07:13,766 --> 00:07:15,480
+Vous avez dit entre 6:00 et 8:00 ?
+
+140
+00:07:21,856 --> 00:07:23,562
+Dis à Abby que je veux une analyse acoustique complète.
+
+141
+00:07:24,658 --> 00:07:27,812
+Euh... euh, boss, vous-vous savez
+qu’elle travaille sur le disque dur
+
+142
+00:07:27,927 --> 00:07:30,712
+le répondeur et toutes les preuves de la scène du crime
+du quartier-maître Lambert
+
+143
+00:07:30,976 --> 00:07:32,120
+Alors aide-la, McGee.
+
+144
+00:07:32,881 --> 00:07:33,716
+Oui, boss.
+
+145
+00:07:36,509 --> 00:07:38,705
+Tu penses vraiment que c'est une bonne idée
+pour le bizut d'être seul avec...
+
+146
+00:07:38,836 --> 00:07:41,687
+Je lisais les papiers de Lambert.
+
+147
+00:07:42,119 --> 00:07:43,102
+C’est quelque chose que tu sais bien faire.
+
+148
+00:07:43,207 --> 00:07:45,141
+Il y a un deuxième nom sur le bail :
+
+149
+00:07:45,345 --> 00:07:46,121
+George Mansur.
+
+150
+00:07:46,936 --> 00:07:49,023
+Il n'y a pas de signe d'un colocataire
+dans cette maison, Tony.
+
+151
+00:07:49,236 --> 00:07:50,422
+Bien, c’est un compagnon de chambre, Kate.
+
+152
+00:07:50,547 --> 00:07:51,973
+Il y a 16 mois, tu as eu un colocataire...
+
+153
+00:07:52,345 --> 00:07:52,823
+Tony.
+
+154
+00:07:53,036 --> 00:07:53,802
+Kate, viens avec moi.
+
+155
+00:07:54,325 --> 00:07:54,850
+Avec joie.
+
+156
+00:07:55,097 --> 00:07:56,651
+Tony, trouve Mansur.
+
+157
+00:07:57,017 --> 00:07:58,303
+Je suis dessus, boss.
+
+158
+00:08:14,645 --> 00:08:16,623
+Le seul type de sang sur place était du O+.
+
+159
+00:08:16,955 --> 00:08:18,513
+Le Quartier-maître Lambert est O+.
+
+160
+00:08:18,905 --> 00:08:20,441
+C'est le type de sang le plus commun.
+
+161
+00:08:20,686 --> 00:08:22,790
+J'ai envoyé un échantillon d'ADN à l'Armée.
+
+162
+00:08:23,086 --> 00:08:24,243
+Les empreintes digitales
+qu'on a relevé sont les siennes?
+
+163
+00:08:26,156 --> 00:08:29,211
+Ton cadavre disparu est le Quartier-maître Lambert.
+
+164
+00:08:29,487 --> 00:08:30,362
+Les empreintes non identifiées.
+
+165
+00:08:30,575 --> 00:08:33,162
+Je n'ai pas encore eu le temps
+de vérifier toutes les empreintes que tu m'as apportées.
+
+166
+00:08:33,355 --> 00:08:34,370
+Analyse du sang.
+
+167
+00:08:34,666 --> 00:08:36,680
+Ok, Gibbs, je sais que tu crois que je suis Super girl...
+
+168
+00:08:37,718 --> 00:08:40,162
+En fait, mes cheveux ressemblent plus à ceux de Wonder Woman.
+
+169
+00:08:40,366 --> 00:08:41,250
+Ou Isis.
+
+170
+00:08:41,428 --> 00:08:42,460
+Ou la Powerpuff girl.
+
+171
+00:08:42,918 --> 00:08:44,250
+J’ai toujours pensé que tu ressemblais à Xena.
+
+172
+00:08:44,807 --> 00:08:45,922
+Je ne connais rien sur elle.
+
+173
+00:08:46,176 --> 00:08:48,601
+Aucun super héros qui se respecte
+ne porte de chaussures ouvertes.
+
+174
+00:08:49,088 --> 00:08:49,993
+Oh, Je suis d’accord.
+
+175
+00:08:50,126 --> 00:08:51,160
+Il a effacé son disque dur.
+
+176
+00:08:51,695 --> 00:08:52,283
+Pas de problème.
+
+177
+00:08:52,845 --> 00:08:54,753
+Il a utilisé un programme d'effacement certifié par le DOD.
+[DOD: Département of Défense]
+
+178
+00:08:55,115 --> 00:08:57,711
+"Uh-oh" ça me semble mauvais.
+
+179
+00:08:57,787 --> 00:08:58,251
+Ca l’est.
+
+180
+00:08:58,545 --> 00:09:01,553
+Un prog certifié par le DOD non seulement efface,
+mais il réécrit sept fois.
+
+181
+00:09:01,896 --> 00:09:03,450
+Il n'y a aucun moyen de récupérer
+les informations, boss.
+
+182
+00:09:03,836 --> 00:09:05,483
+Pourquoi utiliser un truc pareil
+sur son Pc perso ?
+
+183
+00:09:05,957 --> 00:09:07,970
+Il est ingénieur système, ça peut être juste
+
+184
+00:09:08,138 --> 00:09:09,920
+une chose courante, ou il pouvait...
+
+185
+00:09:10,058 --> 00:09:10,700
+... cacher quelque chose.
+
+186
+00:09:12,306 --> 00:09:13,610
+Il a effacé son répondeur ?
+
+187
+00:09:13,817 --> 00:09:15,521
+Non, il y a deux appels.
+
+188
+00:09:16,096 --> 00:09:19,061
+Hier, un rappel du vidéoclub, pour le retour de
+
+189
+00:09:19,177 --> 00:09:22,720
+Happy Gilmore et un il y a deux jours de Thrifty Phone Services.
+
+190
+00:09:23,075 --> 00:09:23,860
+D'accord, écoutons celui-là.
+
+191
+00:09:24,596 --> 00:09:25,153
+Toi !
+
+192
+00:09:25,728 --> 00:09:26,721
+Les taches de sang !
+
+193
+00:09:28,806 --> 00:09:31,210
+Yo-ho, heave ho... [chantonne, intraduisible]
+
+194
+00:09:33,325 --> 00:09:34,081
+Quartier-maître Lambert,
+
+195
+00:09:34,185 --> 00:09:35,363
+Mon nom est Dennis Brough.
+
+196
+00:09:35,637 --> 00:09:37,693
+Je vous appelle au nom de Thrifty Phone Services.
+
+197
+00:09:37,897 --> 00:09:38,772
+Comment aimeriez-vous couper...
+
+198
+00:09:39,868 --> 00:09:41,190
+C'est tout ?
+
+199
+00:09:41,666 --> 00:09:42,480
+Il a dû décrocher.
+
+200
+00:09:42,967 --> 00:09:44,642
+Ils l'ont appelé il y a deux jours, pourquoi le rappeler ?
+
+201
+00:09:46,236 --> 00:09:47,133
+Dennis Brough, Kate.
+
+202
+00:09:48,236 --> 00:09:49,141
+Analyse acoustique.
+
+203
+00:09:49,516 --> 00:09:50,930
+Oui, étape suivante, boss...
+
+204
+00:10:31,208 --> 00:10:33,722
+Qui disait déjà : "Toujours prévoir l'imprévisible" ?
+
+205
+00:10:34,106 --> 00:10:34,542
+Moi.
+
+206
+00:10:35,276 --> 00:10:36,570
+Ben, tu as raison, encore.
+
+207
+00:10:36,995 --> 00:10:37,791
+C'est sûr, patron.
+
+208
+00:10:38,097 --> 00:10:40,181
+McGee, tu es sur le point d'interrompre
+des nouvelles incroyables.
+
+209
+00:10:40,365 --> 00:10:42,721
+Abby, crois-moi, mes nouvelles sont
+encore plus incroyable.
+
+210
+00:10:43,346 --> 00:10:44,470
+Gibbs, tu ne croiras jamais ce que j'ai trouvé.
+
+211
+00:10:44,707 --> 00:10:45,690
+Kate, attends une seconde.
+
+212
+00:10:54,308 --> 00:10:55,612
+Abby.
+
+213
+00:10:56,615 --> 00:11:01,863
+Ok, c'est la traînée de sang trouvée sur le sol
+de la cuisine du Quartier-maître Lambert.
+
+214
+00:11:03,257 --> 00:11:04,331
+Tu ne remarque rien de louche ?
+
+215
+00:11:04,746 --> 00:11:05,812
+Oui, ce sont des taches passives.
+
+216
+00:11:06,058 --> 00:11:06,730
+Exactement.
+
+217
+00:11:07,146 --> 00:11:09,260
+Créées par la gravité seulement.
+
+218
+00:11:09,398 --> 00:11:12,591
+Dans les traînées de sang, la forme des taches
+est affectée par la gravité et le mouvement.
+
+219
+00:11:13,018 --> 00:11:14,812
+La queue pointe toujours dans la direction du déplacement.
+
+220
+00:11:15,718 --> 00:11:18,460
+Il n'y avait aucun déplacement
+quand les gouttes de sang sont tombées.
+
+221
+00:11:18,867 --> 00:11:22,441
+Non. Quelqu'un s'est tenu là, a laissé tomber du sang,
+
+222
+00:11:22,688 --> 00:11:24,190
+fait un pas, laissé tomber du sang...
+
+223
+00:11:24,486 --> 00:11:26,252
+fait un pas, laissé tomber du sang...
+
+224
+00:11:26,425 --> 00:11:26,872
+McGee !
+
+225
+00:11:27,917 --> 00:11:29,883
+L'analyse acoustique de l'appel téléphonique
+
+226
+00:11:30,165 --> 00:11:33,132
+indique que les bruits de lutte sont unidirectionnels.
+
+227
+00:11:34,816 --> 00:11:36,661
+J'ai numérisé le schéma
+que Kate a fait de la scène du crime
+
+228
+00:11:36,756 --> 00:11:39,300
+et j'ai trouvé que la source est l'ordinateur
+du Quartier-maître Lambert.
+
+229
+00:11:40,005 --> 00:11:41,131
+Ce sont des effets sonores, patron.
+
+230
+00:11:41,666 --> 00:11:42,360
+Ok.
+
+231
+00:11:42,758 --> 00:11:43,213
+Kate.
+
+232
+00:11:43,555 --> 00:11:46,473
+J'ai parlé à Dennis Brough de Thrifty Phone Service.
+
+233
+00:11:46,605 --> 00:11:47,551
+Il est chez lui avec la grippe.
+
+234
+00:11:48,287 --> 00:11:50,681
+Le superviseur à donné les appels
+de Dennis à Roland Kesta.
+
+235
+00:11:51,445 --> 00:11:54,200
+Le quartier-maître Lambert a demandé
+à ce télévendeur de le rappeler.
+
+236
+00:11:54,836 --> 00:11:56,710
+Entre 8:00 et 12:00 hier soir.
+
+237
+00:12:00,495 --> 00:12:02,552
+Notre Quartier-maître a simulé son propre meurtre.
+
+238
+00:12:07,625 --> 00:12:09,181
+Nous avons un avantage sur le Quartier-maître Lambert :
+
+239
+00:12:09,328 --> 00:12:12,513
+Il ne sait pas que nous savons qu'il est encore en vie.
+
+240
+00:12:12,817 --> 00:12:15,072
+Je vais vérifier ses comptes: banque, crédits, ATM, E-mail.
+
+241
+00:12:15,275 --> 00:12:16,971
+Kate, ce mec a simulé sa propre mort.
+
+242
+00:12:17,376 --> 00:12:19,650
+Il a laissé son ordinateur, son portefeuille,
+son téléphone portable et sa voiture.
+
+243
+00:12:19,827 --> 00:12:21,390
+Tu crois vraiment qu'il va faire claquer
+
+244
+00:12:21,435 --> 00:12:22,883
+sa vieille carte de client au Drugs R'Us du coin ?
+
+245
+00:12:23,986 --> 00:12:26,411
+Tony a raison.
+
+246
+00:12:26,845 --> 00:12:27,512
+Merci, patron.
+
+247
+00:12:28,676 --> 00:12:29,531
+Tu vérifies quand même, Kate.
+
+248
+00:12:29,646 --> 00:12:30,312
+On ne sait jamais.
+
+249
+00:12:30,727 --> 00:12:33,533
+Si Tony trouve son ex-colocataire, vérifie ses comptes aussi.
+
+250
+00:12:34,507 --> 00:12:35,562
+Je suis focalisé sur lui.
+
+251
+00:12:35,875 --> 00:12:36,863
+Ouais ? Tu l'as localisé ?
+
+252
+00:12:37,047 --> 00:12:39,270
+Pas encore mais... j'ai son permis de conduire.
+
+253
+00:12:41,806 --> 00:12:43,202
+et sa déclaration d'impôt.
+
+254
+00:12:43,798 --> 00:12:45,060
+C'est un mordu d'ordinateur freelance.
+
+255
+00:12:45,916 --> 00:12:47,310
+L'année dernière, il a déclaré des revenus à 6 chiffres.
+
+256
+00:12:47,728 --> 00:12:49,300
+Tu voudrais être un mordu d'ordinateur, Tony ?
+
+257
+00:12:49,707 --> 00:12:51,533
+Je préfèrerais être un sans-abri qu'être toi, bizut.
+
+258
+00:12:55,428 --> 00:12:57,963
+C'est une vieille adresse : la même que le quartier-maître Lambert.
+
+259
+00:12:58,305 --> 00:13:00,241
+Il a déduit une Hyundai de 93 de ses impôts.
+
+260
+00:13:00,655 --> 00:13:02,091
+Comment peut-on déduire une voiture aussi vieille ?
+
+261
+00:13:02,407 --> 00:13:03,151
+Question plus importante :
+
+262
+00:13:03,357 --> 00:13:06,761
+Pourquoi un type qui déclare des revenus annuels à 6 chiffres
+conduit-il une voiture aussi vieille ?
+
+263
+00:13:07,446 --> 00:13:08,402
+Il n'y a qu'un moyen de le savoir.
+
+264
+00:13:08,716 --> 00:13:09,910
+Le trouver et lui parler.
+
+265
+00:13:10,118 --> 00:13:10,762
+Ce que j'essaie...
+
+266
+00:13:10,857 --> 00:13:13,741
+... je vais faire.
+
+267
+00:13:14,046 --> 00:13:14,731
+McGee, tu viens avec moi.
+
+268
+00:13:19,588 --> 00:13:20,621
+Où va-t-on, patron ?
+
+269
+00:13:20,916 --> 00:13:22,770
+Parler aux compagnons de bord du quartier-maître Lambert.
+
+270
+00:13:23,176 --> 00:13:24,203
+Mais il n'est pas sur un bateau, patron.
+
+271
+00:13:26,255 --> 00:13:29,053
+Oh, monsieur, vous utilisiez un euphémisme militaire.
+
+272
+00:13:29,677 --> 00:13:30,561
+Tu crois ?
+
+273
+00:13:31,458 --> 00:13:34,900
+Donc, euh, vous parlez du Centre Informatique de l'Hôpital Bethesda.
+
+274
+00:13:35,245 --> 00:13:36,272
+Tu parles leur langage.
+
+275
+00:13:37,905 --> 00:13:39,211
+Vous voulez dire que je vais les interroger ?
+
+276
+00:13:39,426 --> 00:13:40,132
+J'interroge.
+
+277
+00:13:40,485 --> 00:13:41,853
+Tu traduis. Viens.
+
+278
+00:13:49,005 --> 00:13:51,722
+Lambert est porté absent un jour et le NCIS enquête ?
+
+279
+00:13:52,317 --> 00:13:53,871
+Vous avez un problème avec ça, Quartier-maître Wilson ?
+
+280
+00:13:54,207 --> 00:13:55,002
+Non, monsieur.
+
+281
+00:13:56,955 --> 00:13:58,330
+Quel était le travail du Quartier-maître Lambert ?
+
+282
+00:13:59,016 --> 00:14:02,090
+Il développait une nouvelle base codée pour
+la planification des ressources d'entreprise.
+
+283
+00:14:02,638 --> 00:14:05,050
+La nouvelle application sera capable de supporter
+le multitraitement médical
+
+284
+00:14:05,218 --> 00:14:08,191
+sur une architecture en balancier
+jusqu'à 8 téraoctets de données.
+
+285
+00:14:08,576 --> 00:14:09,072
+Whow.
+
+286
+00:14:12,006 --> 00:14:15,582
+Il écrivait un nouveau programme machine
+étant une révision
+
+287
+00:14:15,737 --> 00:14:18,071
+et une mise à jour du Système
+Informatique Médical de la Marine.
+
+288
+00:14:19,086 --> 00:14:21,261
+Hum. Quelque chose de sensible ?
+
+289
+00:14:21,906 --> 00:14:24,032
+Le dossier médical d'une personne est
+quelque chose de très sensible, monsieur.
+
+290
+00:14:24,355 --> 00:14:26,322
+Sensible pour la Sécurité Nationale, Quartier-maître.
+
+291
+00:14:26,735 --> 00:14:28,301
+Nous avons une passerelle connectée, monsieur,
+qui applique
+
+292
+00:14:28,517 --> 00:14:32,971
+Un mécanisme de sécurité à chaque fois
+qu'une connexion USD-TCP est établie.
+
+293
+00:14:33,377 --> 00:14:35,810
+Une fois cette connexion faite,
+les paquets IP peuvent voyager
+
+294
+00:14:35,957 --> 00:14:37,433
+entre les postes clients sans autre vérification.
+
+295
+00:14:38,088 --> 00:14:39,573
+Non.
+
+296
+00:14:40,386 --> 00:14:44,280
+Le Quartier-maître Lambert avait
+des droits d'accès supérieurs, monsieur.
+
+297
+00:14:44,507 --> 00:14:45,820
+C'était juste un type normal.
+
+298
+00:14:46,137 --> 00:14:48,053
+Notre définition de "normal" pourrait être différente.
+
+299
+00:14:50,506 --> 00:14:52,861
+Le Linux d'un homme est l'OS/2 d'un autre.
+
+300
+00:14:55,067 --> 00:14:56,693
+- Je comprends.
+- Bien.
+
+301
+00:14:58,325 --> 00:14:58,793
+Désolé.
+
+302
+00:14:59,487 --> 00:15:02,413
+Des changements récents dans son comportement ?
+
+303
+00:15:02,896 --> 00:15:03,520
+Non, monsieur.
+
+304
+00:15:04,228 --> 00:15:05,200
+Attendez.
+
+305
+00:15:05,977 --> 00:15:07,321
+Il y a quelques jours, il semblait sur les nerfs.
+
+306
+00:15:07,776 --> 00:15:09,512
+Je lui ai tapé sur l'épaule pour lui parler
+
+307
+00:15:09,696 --> 00:15:11,633
+de la baisse de performance de la passerelle applicative,
+
+308
+00:15:11,808 --> 00:15:13,132
+et il a bondi de sa chaise.
+
+309
+00:15:13,955 --> 00:15:16,292
+Il était... nerveux.
+
+310
+00:15:16,527 --> 00:15:18,323
+Ouais, j'avais compris, McGee.
+
+311
+00:15:19,625 --> 00:15:20,031
+Ok.
+
+312
+00:15:20,115 --> 00:15:22,563
+Ouais, je vais avoir besoin, je vais avoir besoin des copies de tout son travail.
+
+313
+00:15:24,475 --> 00:15:27,121
+Euh, accès au code source, organigrammes,
+
+314
+00:15:27,306 --> 00:15:29,693
+et aux processus logiques impliqués dans l'application.
+
+315
+00:15:30,035 --> 00:15:30,903
+Pas de problème, monsieur.
+
+316
+00:15:32,168 --> 00:15:33,031
+Agent Spécial Gibbs.
+
+317
+00:15:33,916 --> 00:15:36,960
+Karen Wilkerson, superviseur du Quartier-maître Wilson.
+
+318
+00:15:37,695 --> 00:15:40,230
+Vous êtes en retard.
+
+319
+00:15:41,628 --> 00:15:43,632
+Nous effectuons une mise à jour de logiciel.
+
+320
+00:15:43,818 --> 00:15:44,500
+C'est dingue.
+
+321
+00:15:50,448 --> 00:15:52,822
+Prends les copies dont on a besoin, McGee.
+
+322
+00:15:53,167 --> 00:15:53,543
+Bien, patron.
+
+323
+00:15:54,688 --> 00:15:56,772
+Parlez-moi du Quartier-maître Lambert.
+
+324
+00:15:58,136 --> 00:15:59,280
+Pas beaucoup à dire.
+
+325
+00:15:59,996 --> 00:16:00,500
+Un garçon bien.
+
+326
+00:16:01,258 --> 00:16:01,830
+Gros travailleur.
+
+327
+00:16:03,085 --> 00:16:05,823
+Premier arrivé le matin, généralement le dernier parti.
+
+328
+00:16:06,315 --> 00:16:07,923
+Volontaire pour travailler les week-ends.
+
+329
+00:16:08,305 --> 00:16:09,393
+Vous travaillez le week-end ?
+
+330
+00:16:09,888 --> 00:16:12,260
+Pas si je peux l'éviter.
+
+331
+00:16:14,406 --> 00:16:18,182
+Pourquoi le NCIS enquête sur un marin
+qui a manqué un jour ?
+
+332
+00:16:18,568 --> 00:16:19,982
+Il est introuvable, Miss Wilkerson.
+
+333
+00:16:20,676 --> 00:16:22,190
+Ce n'est pas comme s'il avait raté un déploiement.
+
+334
+00:16:23,077 --> 00:16:26,483
+Le Quartier-maître Wilson dit
+qu'il était nerveux récemment.
+
+335
+00:16:27,516 --> 00:16:29,721
+Et bien, il est mieux placé que moi pour le savoir.
+
+336
+00:16:30,525 --> 00:16:33,971
+Le Quartier-maître Lambert et moi
+n'avions pas beaucoup de contacts quotidiens.
+
+337
+00:16:36,665 --> 00:16:40,571
+Vous, euh, travaillez le week-end, Agent Spécial Gibbs ?
+
+338
+00:16:43,906 --> 00:16:44,763
+Si c'est nécessaire.
+
+339
+00:16:46,335 --> 00:16:48,423
+Pourquoi ai-je l'impression que c'est souvent nécessaire ?
+
+340
+00:16:54,787 --> 00:16:55,560
+Autre chose ?
+
+341
+00:16:55,957 --> 00:16:57,011
+Je dois retourner travailler.
+
+342
+00:16:59,405 --> 00:17:00,221
+Pas pour le moment.
+
+343
+00:17:01,655 --> 00:17:04,623
+Bien, si nécessaire, je peux me libérer.
+
+344
+00:17:06,148 --> 00:17:07,403
+Même le week-end.
+
+345
+00:17:11,876 --> 00:17:13,761
+Oh, il se pourrait même que je sois à l'heure.
+
+346
+00:17:21,618 --> 00:17:23,502
+Assez, Tony.
+
+347
+00:17:23,698 --> 00:17:24,582
+Je n'ai rien à cacher.
+
+348
+00:17:24,806 --> 00:17:25,282
+Vraiment ?
+
+349
+00:17:25,868 --> 00:17:29,540
+Pour quelqu'un qui n'a rien à cacher,
+tu sembles affreusement ennuyée
+
+350
+00:17:29,647 --> 00:17:30,973
+de ce que les autres savent à ton propos.
+
+351
+00:17:31,478 --> 00:17:33,670
+Pourquoi, parce que je m'énerve quand tu fouilles
+dans mes affaires personnelles ?
+
+352
+00:17:34,205 --> 00:17:34,903
+Exactement.
+
+353
+00:17:35,435 --> 00:17:40,043
+Et bien, Tony, certaines personnes aiment avoir une vie privée.
+
+354
+00:17:40,777 --> 00:17:42,861
+Contrairement à toi, on ne court pas informer tout le monde
+
+355
+00:17:42,976 --> 00:17:44,822
+de nos nombreuses conquêtes.
+
+356
+00:17:46,106 --> 00:17:46,900
+Période creuse ?
+
+357
+00:17:51,695 --> 00:17:55,313
+Gibbs, Mansur a retiré $6,000 de son compte bancaire
+
+358
+00:17:55,466 --> 00:17:57,420
+une semaine avant de déménager.
+
+359
+00:17:57,537 --> 00:17:59,492
+Il a aussi déménagé trois fois dans les six dernières années.
+
+360
+00:18:00,326 --> 00:18:03,752
+Cette dernière fois il n'a pas fait de
+changement d'adresse à la Poste.
+
+361
+00:18:04,018 --> 00:18:04,472
+Merci
+
+362
+00:18:04,596 --> 00:18:06,352
+Quoi que ce soit, ils sont ensemble.
+
+363
+00:18:06,786 --> 00:18:08,352
+Ouais, mais ce qui est...
+
+364
+00:18:09,265 --> 00:18:10,112
+" Quoi que ce soit"?
+
+365
+00:18:10,517 --> 00:18:11,300
+Trouve Mansur...
+
+366
+00:18:11,605 --> 00:18:11,961
+Oui.
+
+367
+00:18:12,487 --> 00:18:13,393
+Et nous découvrirons tout.
+
+368
+00:18:13,566 --> 00:18:14,500
+Je sais, boss. Je vais essayer.
+
+369
+00:18:14,728 --> 00:18:15,281
+Essaie vraiment.
+
+370
+00:18:16,276 --> 00:18:16,962
+D'accord.
+
+371
+00:18:17,285 --> 00:18:18,643
+Tu sais, Gibbs, Peut être que Lambert
+
+372
+00:18:18,905 --> 00:18:21,002
+a truqué sa mort pour partir de l'armée.
+
+373
+00:18:21,388 --> 00:18:23,700
+Tu sais, a voulu prendre du bon temps.
+
+374
+00:18:23,938 --> 00:18:24,401
+Pas vraiment.
+
+375
+00:18:24,878 --> 00:18:26,321
+Il est dégagé de ses engagements dans 5 mois.
+
+376
+00:18:27,455 --> 00:18:27,961
+McGee!
+
+377
+00:18:28,226 --> 00:18:28,550
+Yeah, boss.
+
+378
+00:18:28,906 --> 00:18:29,512
+Fais le point avec Abby.
+
+379
+00:18:29,636 --> 00:18:31,163
+Vois comment elle s'en sort avec tout ce que tu lui as apporté
+
+380
+00:18:31,555 --> 00:18:32,091
+D'accord.
+
+381
+00:18:39,287 --> 00:18:40,753
+Ca va t'aider à te tenir éveiller.
+
+382
+00:18:41,246 --> 00:18:41,830
+Merci
+
+383
+00:18:44,195 --> 00:18:47,141
+J'ai lu 100 000 lignes de code.
+
+384
+00:18:47,937 --> 00:18:49,591
+Est-il possible de mourir d'ennui ?
+
+385
+00:18:50,207 --> 00:18:51,160
+Non.
+
+386
+00:18:51,767 --> 00:18:52,701
+Comment peux-tu en être sûr?
+
+387
+00:18:54,285 --> 00:18:59,343
+Bien, parce que j'ai eu le Professeur Bernbaum en économie.
+
+388
+00:18:59,935 --> 00:19:03,402
+Crois-moi, son cours se faisait devant un écran, vraiment passionnant.
+
+389
+00:19:04,068 --> 00:19:05,290
+Je ne sais pas.
+
+390
+00:19:06,386 --> 00:19:07,950
+C'est vraiment nul.
+
+391
+00:19:08,515 --> 00:19:09,413
+Je vais te dire ce qui est nul.
+
+392
+00:19:10,355 --> 00:19:13,081
+Travailler après l'école comme vendeur de frites
+
+393
+00:19:13,568 --> 00:19:14,433
+Tu as vraiment fais cela?
+
+394
+00:19:15,698 --> 00:19:18,061
+T'as déjà vu un étudiant sentant les frites?
+
+395
+00:19:19,097 --> 00:19:21,730
+Hmm. Maintenant que tu en parles
+
+396
+00:19:22,255 --> 00:19:25,682
+L'endroit était lugubre, respirant les odeurs de graisses,
+
+397
+00:19:26,197 --> 00:19:27,781
+regardant frire les patates une à une.
+
+398
+00:19:29,058 --> 00:19:32,641
+J'enlevais les cramés tout en essayant de ne pas me brûler.
+
+399
+00:19:34,248 --> 00:19:35,933
+Opérateur d'incinérateur.
+
+400
+00:19:36,458 --> 00:19:38,861
+Four à plus de 2.000 degrés.
+
+401
+00:19:38,898 --> 00:19:40,583
+Corps en morceau, corps en cendres.
+
+402
+00:19:41,948 --> 00:19:45,052
+L'été qui était entre ma fin de première année
+et mon début de seconde année.
+
+403
+00:19:45,706 --> 00:19:46,941
+Je fus laveur de vitre.
+
+404
+00:19:47,506 --> 00:19:49,272
+Ce fut l'été le plus chaud.
+
+405
+00:19:50,166 --> 00:19:51,930
+Opérateur de téléski-- Alberta.
+
+406
+00:19:52,208 --> 00:19:54,102
+-15°C
+
+407
+00:19:54,336 --> 00:19:55,390
+Nettoyeur d'amiante.
+
+408
+00:19:55,695 --> 00:19:56,703
+Collecteur d'animaux tués.
+
+409
+00:19:59,007 --> 00:20:01,693
+Vrai? Non? Ok.
+
+410
+00:20:01,535 --> 00:20:02,793
+Avant de rejoindre le NCIS...
+
+411
+00:20:05,288 --> 00:20:06,892
+Est-ce vraiment à quoi je pense?
+
+412
+00:20:12,176 --> 00:20:13,890
+Cela dépend. Que penses tu que c'est?
+
+413
+00:20:15,417 --> 00:20:19,051
+La raison pour laquelle le quartier-maître Lambert a simulé sa mort.
+
+414
+00:20:25,285 --> 00:20:27,273
+Le Quartier-maître Lambert faisait partie de l'équipe qui faisait
+
+415
+00:20:27,335 --> 00:20:28,403
+La mise à jour du système informatique de la médecine militaire.
+
+416
+00:20:28,506 --> 00:20:31,282
+Il travaillait dessus depuis presque deux ans.
+
+417
+00:20:31,506 --> 00:20:32,170
+Lui as-tu dit ?
+
+418
+00:20:32,566 --> 00:20:33,572
+Non. J'ai gardé le meilleur pour toi.
+
+419
+00:20:33,977 --> 00:20:34,762
+Oh, Merci, McGee.
+
+420
+00:20:35,096 --> 00:20:36,260
+Tu sais comme j'aime ces moments...
+
+421
+00:20:36,388 --> 00:20:37,930
+Arrêtez les remerciements et explique-moi, Abby.
+
+422
+00:20:38,286 --> 00:20:39,981
+Ok.Tout doux, Gibbs.
+
+423
+00:20:40,386 --> 00:20:41,851
+Il y a 5 mois, le Quartier-maître Lambert
+
+424
+00:20:41,997 --> 00:20:44,681
+a crée une commande simple dans le programme
+pour s'envoyer des médicaments.
+
+425
+00:20:44,997 --> 00:20:45,792
+Beaucoup de médicaments.
+
+426
+00:20:46,027 --> 00:20:46,460
+McGee!
+
+427
+00:20:46,606 --> 00:20:46,901
+Désolé.
+
+428
+00:20:47,795 --> 00:20:52,373
+Toutes les 337 prescriptions, une lui était adressée.
+
+429
+00:20:52,675 --> 00:20:54,251
+C'est simple et ingénieux.
+
+430
+00:20:54,715 --> 00:20:55,411
+Quel type de médocs?
+
+431
+00:20:55,837 --> 00:20:58,340
+Des calmants : Percocet, Vicodine, Oxycontine.
+
+432
+00:20:58,978 --> 00:21:01,031
+L'Oxycontine crée deux fois plus de dépendance que de l'héroïne.
+
+433
+00:21:01,345 --> 00:21:02,903
+Cela rend encore plus dépendant que des pistaches.
+
+434
+00:21:06,207 --> 00:21:08,061
+Bien, N'as-tu jamais mangé juste une pistache?
+
+435
+00:21:08,617 --> 00:21:09,483
+En fait, j'ai.
+
+436
+00:21:09,966 --> 00:21:11,352
+Uh, des chips, d'un coté...
+
+437
+00:21:15,027 --> 00:21:18,161
+Uh, uh, La Marine prescrit beaucoup de prescriptions,
+
+438
+00:21:18,367 --> 00:21:21,081
+Ainsi avec la quantité qu'il a récupérée,
+ce n'est sûrement pas pour un usage personnel.
+
+439
+00:21:21,306 --> 00:21:26,500
+Dans les 5 derniers mois, 18 000 doses d'Oxydation,
+12000 doses de Percocet, 9000 doses de Vicodine.
+
+440
+00:21:26,635 --> 00:21:29,581
+Le prix normal pour 80 milligrammes d’Oxycontine est de 6 dollars.
+
+441
+00:21:29,776 --> 00:21:31,320
+Dans la rue, cela va de $65 à $80.
+
+442
+00:21:31,585 --> 00:21:34,052
+Juste avec l'Oxycontine, il s'est fait des millions.
+
+443
+00:21:34,515 --> 00:21:35,141
+En liquide.
+
+444
+00:21:37,045 --> 00:21:38,161
+Le Quartier-maître Lambert est parti très loin.
+
+445
+00:21:39,327 --> 00:21:40,041
+C'est ce que je ferais.
+
+446
+00:21:47,848 --> 00:21:50,670
+Ces trois lignes de code lui ont rapporté des millions.
+
+447
+00:21:54,305 --> 00:21:55,623
+Je suis stupéfaite que vous les avez trouvés.
+
+448
+00:21:55,778 --> 00:21:56,920
+Ce n'est pas moi, en fait.
+
+449
+00:21:57,118 --> 00:21:58,290
+C'est Abby Sciuto.
+
+450
+00:21:58,628 --> 00:21:59,620
+Elle est accro aux codes.
+
+451
+00:21:59,756 --> 00:22:01,390
+Vous n'avez jamais suspecté le Quartier-maître Lambert
+
+452
+00:22:01,526 --> 00:22:03,672
+d'abuser des accès au système de contrôle
+des médicaments de la Marine
+
+453
+00:22:04,448 --> 00:22:05,570
+Pas jusqu'à maintenant.
+
+454
+00:22:06,448 --> 00:22:11,801
+Quand le NCIS enquête sur un Marine qui a disparu
+depuis 1 jour, il y a quelque chose qui ne va pas.
+
+455
+00:22:12,388 --> 00:22:16,070
+Après que vous soyez parti, j'ai mis l'officier Wilson
+sur l'ordinateur de Lambert.
+
+456
+00:22:16,366 --> 00:22:17,240
+Je n'ai pas réussi à le voir!!
+
+457
+00:22:17,865 --> 00:22:19,063
+Sciuto doit être bonne!
+
+458
+00:22:21,096 --> 00:22:23,202
+Qu'est-ce qui vous a rendu soupçonneux, Agent Gibbs?
+
+459
+00:22:25,278 --> 00:22:26,412
+Un meurtre qui ne s'est pas produit.
+
+460
+00:22:27,595 --> 00:22:29,393
+Votre quartier-maître a simulé sa mort.
+
+461
+00:22:30,028 --> 00:22:32,642
+Il voulait que nous recherchions son corps et non lui.
+
+462
+00:22:32,915 --> 00:22:35,752
+Nous l'aurions fait, aussi, si Abby n'avait pas trouvé la
+traînée suspecte de sang.
+
+463
+00:22:35,935 --> 00:22:38,453
+J'aimerais rencontrer cette nana.
+
+464
+00:22:40,538 --> 00:22:45,661
+Tu sais quoi, elle n'est probablement pas ton type de nana:
+piercings, maquillage sombre...
+
+465
+00:22:46,038 --> 00:22:46,510
+Une gothique?
+
+466
+00:22:46,758 --> 00:22:47,312
+Ouais.
+
+467
+00:22:47,635 --> 00:22:48,590
+J'aime les gothiques!
+
+468
+00:22:49,558 --> 00:22:51,190
+Les voleurs sont justes comme des joueurs.
+
+469
+00:22:51,478 --> 00:22:52,940
+Ils ne stoppent jamais tant qu'ils gagnent.
+
+470
+00:22:54,537 --> 00:22:55,821
+Pourquoi le quartier-maître a arrêté?
+
+471
+00:22:57,175 --> 00:23:00,390
+Dans 5 jours, le nouveau logiciel sera en ligne.
+
+472
+00:23:01,135 --> 00:23:02,863
+Il a dû avoir peur que l'on remarque ses manoeuvres.
+
+473
+00:23:03,078 --> 00:23:03,473
+Je l'ai.
+
+474
+00:23:04,747 --> 00:23:09,413
+Il a fait envoyer cette prescription à Box 781,
+Entreprise  de boites aux lettres, dans la quatorzième rue.
+
+475
+00:23:09,705 --> 00:23:12,001
+McGee, vous deux restez sur les scripts de Lambert.
+
+476
+00:23:12,347 --> 00:23:13,482
+Voyez s’il n’y a pas d'autres choses.
+
+477
+00:23:13,538 --> 00:23:14,130
+Content de le faire, boss.
+
+478
+00:23:14,685 --> 00:23:15,392
+Lieutenant Cheney.
+
+479
+00:23:15,686 --> 00:23:16,441
+Agent Spécial Gibbs.
+
+480
+00:23:16,746 --> 00:23:17,241
+Un moment.
+
+481
+00:23:22,186 --> 00:23:23,330
+Dis-moi en plus sur cette Abby.
+
+482
+00:23:24,536 --> 00:23:27,522
+Tu sais quoi? Je ne peux pas parler et travailler en même temps... ok?
+
+483
+00:23:29,948 --> 00:23:30,881
+Vous pensez que vous allez le trouver
+
+484
+00:23:31,445 --> 00:23:32,841
+C’est ce qu'on fait en général.
+
+485
+00:23:34,275 --> 00:23:36,061
+Hey, Cheney. C'est Gibbs.
+
+486
+00:23:36,808 --> 00:23:38,790
+Notre Quartier-maître disparu a piqué des tonnes
+
+487
+00:23:38,866 --> 00:23:40,121
+d'opiacée du programme des drogues de la Marines.
+
+488
+00:23:40,645 --> 00:23:41,491
+On s'est compris?
+
+489
+00:23:44,517 --> 00:23:46,363
+A mon bureau. Dans 1 heure.
+
+490
+00:23:48,686 --> 00:23:50,092
+Vous aimez les bateaux?
+
+491
+00:23:51,065 --> 00:23:52,073
+A moteur ou à voiles?
+
+492
+00:23:53,897 --> 00:23:54,673
+A voiles.
+
+493
+00:23:56,925 --> 00:23:57,732
+J'aime les bateaux à voiles.
+
+494
+00:23:58,785 --> 00:23:59,330
+Ce week-end?
+
+495
+00:23:59,965 --> 00:24:02,683
+Um... Je...
+
+496
+00:24:03,297 --> 00:24:04,392
+Je suis en train de le construire
+
+497
+00:24:05,705 --> 00:24:06,541
+Quelle marina?
+
+498
+00:24:07,957 --> 00:24:08,781
+Dans mon sous-sol.
+
+499
+00:24:09,307 --> 00:24:10,841
+Bien sûr.
+
+500
+00:24:13,858 --> 00:24:14,580
+Samedi?
+
+501
+00:24:16,778 --> 00:24:18,452
+Si j'arrive à trouver Lambert avant.
+
+502
+00:24:19,185 --> 00:24:22,180
+Bien... Alors que fait-vous ici, Agent Gibbs?
+
+503
+00:24:27,795 --> 00:24:29,740
+Jethro.
+
+504
+00:24:31,138 --> 00:24:31,913
+Jethro?!
+
+505
+00:24:42,208 --> 00:24:42,982
+Deux cafés noirs.
+
+506
+00:24:45,686 --> 00:24:49,550
+Et deux grands triples cafés à la vanille.
+
+507
+00:24:52,246 --> 00:24:54,300
+Le mien est celui avec l'extra de mousse.
+
+508
+00:24:54,608 --> 00:24:55,490
+Ah! Ah! Désolé.
+
+509
+00:24:59,965 --> 00:25:04,561
+Alors, Gibbs, je mets ma main à couper qu'il dealait
+
+510
+00:25:04,685 --> 00:25:08,141
+à ses amis proches accros aux calmants.
+
+511
+00:25:08,968 --> 00:25:09,801
+Bien, c'est possible.
+
+512
+00:25:10,615 --> 00:25:11,081
+Miller.
+
+513
+00:25:11,436 --> 00:25:11,883
+Ouais, boss.
+
+514
+00:25:15,087 --> 00:25:17,652
+-Juste une seconde.
+-Vous savez quoi? Là, Prenez-moi....
+
+515
+00:25:18,886 --> 00:25:19,340
+C'est ma faute.
+
+516
+00:25:19,506 --> 00:25:20,121
+Non, c'est la mienne.
+
+517
+00:25:20,445 --> 00:25:21,491
+Non, Je devrais faire plus attention.
+
+518
+00:25:21,666 --> 00:25:22,122
+Non, Pas de problème.
+
+519
+00:25:22,238 --> 00:25:22,622
+Pas de problème.
+
+520
+00:25:23,446 --> 00:25:24,552
+McGee! Miller!
+
+521
+00:25:25,566 --> 00:25:26,222
+Désolé, boss.
+
+522
+00:25:31,187 --> 00:25:32,323
+Aaron Alan Wright.
+
+523
+00:25:34,307 --> 00:25:34,921
+Déjà arrêter?
+
+524
+00:25:35,245 --> 00:25:35,681
+Un fois.
+
+525
+00:25:36,468 --> 00:25:38,392
+Deal à ses amis, à Syracuse.
+
+526
+00:25:38,478 --> 00:25:39,040
+Il est en probation.
+
+527
+00:25:39,445 --> 00:25:40,461
+Pourquoi ne l'arrêtez-vous pas?
+
+528
+00:25:40,737 --> 00:25:41,921
+Je veux tout le réseau.
+
+529
+00:25:42,496 --> 00:25:44,940
+Si je l'arrête, son supérieur trouvera quelqu'un d'autre pour dealer.
+
+530
+00:25:45,426 --> 00:25:46,172
+Il craquera.
+
+531
+00:25:47,085 --> 00:25:48,393
+Amenez-le-moi pour une petite discussion.
+
+532
+00:25:51,218 --> 00:25:53,162
+Prend Monteleone et Rand pour aller le chercher.
+
+533
+00:25:53,558 --> 00:25:54,222
+Amène-le ici.
+
+534
+00:25:54,577 --> 00:25:54,981
+Bien sûr, boss.
+
+535
+00:25:59,068 --> 00:26:00,041
+Est-ce le 7220?
+
+536
+00:26:00,338 --> 00:26:01,460
+C'est le 7230.
+
+537
+00:26:01,978 --> 00:26:02,712
+Cool.
+
+538
+00:26:03,038 --> 00:26:03,492
+Ouais.
+
+539
+00:26:09,976 --> 00:26:11,233
+Quartier-maître Dion Lambert.
+
+540
+00:26:11,518 --> 00:26:13,011
+Désolé.
+
+541
+00:26:13,308 --> 00:26:13,851
+Jamais entendu parler de lui.
+
+542
+00:26:15,206 --> 00:26:16,401
+Un petit informaticien de la Marine.
+
+543
+00:26:18,276 --> 00:26:19,901
+volant des calmants au gouvernement.
+
+544
+00:26:21,126 --> 00:26:23,922
+Qu'est-ce que ce minable voleur de calmant à avoir avec moi?
+
+545
+00:26:24,516 --> 00:26:27,073
+Il vous les a vendus, et vous les revendez à vos clients.
+
+546
+00:26:27,378 --> 00:26:29,003
+C'est vraiment une perte de temps.
+
+547
+00:26:29,786 --> 00:26:33,533
+J'ai averti mon client de ne pas répondre à vos questions, et il ne le fera pas.
+
+548
+00:26:33,828 --> 00:26:34,570
+C'est magnifique.
+
+549
+00:26:34,696 --> 00:26:37,142
+Une Franck Muller Conquistador.
+
+550
+00:26:38,536 --> 00:26:39,740
+$7,800 l'unité.
+
+551
+00:26:40,137 --> 00:26:42,530
+Ouais, tu sais que ce type paye en liquide.
+
+552
+00:26:42,716 --> 00:26:43,343
+Regardez-le.
+
+553
+00:26:44,827 --> 00:26:46,461
+Nous savons que vous dealez depuis des mois.
+
+554
+00:26:46,805 --> 00:26:47,553
+Vraiment.
+
+555
+00:26:48,766 --> 00:26:51,230
+Alors, uh, Pourquoi avez vous mis autant de temps pour m'interpeller?
+
+556
+00:26:52,355 --> 00:26:53,473
+Le lieutenant voulait la source du trafique.
+
+557
+00:26:53,946 --> 00:26:54,891
+Et je vais juste lui donner.
+
+558
+00:26:55,546 --> 00:26:56,773
+Et c'est ce Quartier-maître??
+
+559
+00:26:56,875 --> 00:26:57,522
+Quel est son nom déjà?
+
+560
+00:26:58,236 --> 00:26:59,801
+Dion Lambert.
+
+561
+00:27:00,935 --> 00:27:01,652
+Je cherche...
+
+562
+00:27:02,328 --> 00:27:03,410
+Non. Non rien du tout.
+
+563
+00:27:04,908 --> 00:27:06,982
+Ce n'est pas un jeu, Aaron.
+
+564
+00:27:07,305 --> 00:27:08,180
+C'est moment difficile.
+
+565
+00:27:08,826 --> 00:27:09,790
+Toutes les nuits...
+
+566
+00:27:10,655 --> 00:27:12,081
+sont très difficile.
+
+567
+00:27:13,197 --> 00:27:15,591
+Dites nous où est se cache le Quartier-maître Lambert.
+
+568
+00:27:17,676 --> 00:27:18,632
+Nous allons faire un marché.
+
+569
+00:27:19,037 --> 00:27:23,062
+Un temps minimum dans une prison fédéral avec des nuits entière.
+
+570
+00:27:24,227 --> 00:27:27,260
+Aaron, s'ils avaient la preuve que vous avez fait
+quelque chose d'illégal
+
+571
+00:27:27,946 --> 00:27:31,770
+Ce qu'ils n'ont pas, ils ne passeraient pas un marché.
+
+572
+00:27:32,378 --> 00:27:33,621
+Je préfère écouter mon avocat.
+
+573
+00:27:33,727 --> 00:27:34,841
+Il coûte très cher.
+
+574
+00:27:36,487 --> 00:27:38,662
+Quand je vais trouver le Quartier-maître Lambert...
+
+575
+00:27:38,705 --> 00:27:39,172
+Et il le fera.
+
+576
+00:27:39,457 --> 00:27:40,801
+...Il acceptera le marché.
+
+577
+00:27:41,107 --> 00:27:41,622
+Vraiment?
+
+578
+00:27:41,827 --> 00:27:42,112
+Ouais.
+
+579
+00:27:42,698 --> 00:27:43,622
+Vous voulez savoir pourquoi?
+
+580
+00:27:44,715 --> 00:27:45,881
+Parce qu'il va craquer.
+
+581
+00:27:47,615 --> 00:27:48,353
+Un peu comme vous.
+
+582
+00:27:49,096 --> 00:27:49,732
+Qu'est ce que c'est cela?
+
+583
+00:27:50,016 --> 00:27:51,353
+"Mauvais flic, Mauvais flic"?
+
+584
+00:27:52,417 --> 00:27:53,540
+Gibbs, nous avons mal calculé.
+
+585
+00:27:54,257 --> 00:27:55,113
+Vous pensez.
+
+586
+00:27:55,865 --> 00:27:57,613
+Notre ami ici à l'air de jouer
+
+587
+00:27:57,688 --> 00:28:00,030
+Au poker au Marion- - Mais sans cartes.
+
+588
+00:28:00,778 --> 00:28:02,163
+Ouais? Est-ce vrai...
+
+589
+00:28:03,105 --> 00:28:03,953
+Air-ron?
+
+590
+00:28:06,398 --> 00:28:08,743
+Inculpez mon client, ou on part.
+
+591
+00:28:09,677 --> 00:28:10,382
+Maintenant.
+
+592
+00:28:19,136 --> 00:28:19,703
+Enfoiré.
+
+593
+00:28:20,127 --> 00:28:21,440
+Aaron?
+
+594
+00:28:23,518 --> 00:28:25,133
+Vous ne passerez pas plus 48 heures au Marion.
+
+595
+00:28:25,617 --> 00:28:26,591
+Oh, Je pense 24h.
+
+596
+00:28:27,408 --> 00:28:28,142
+5 cafés.
+
+597
+00:28:28,898 --> 00:28:29,732
+J'tiens le pari.
+
+598
+00:28:33,496 --> 00:28:37,112
+Pourquoi ris-tu, DiNozzo?
+
+599
+00:28:38,366 --> 00:28:39,463
+Et vous, Monteleone?
+
+600
+00:28:41,166 --> 00:28:42,200
+Nous ne l'avons pas fait craquer !
+
+601
+00:28:44,938 --> 00:28:46,410
+Je pense qu'il s'est fait dessus.
+
+602
+00:28:46,528 --> 00:28:48,730
+Oh, oui.
+
+603
+00:28:56,515 --> 00:28:58,642
+J'attendrais jusqu'à ce que nous sortions.
+
+604
+00:29:01,797 --> 00:29:03,330
+Aaron.
+
+605
+00:29:11,368 --> 00:29:14,973
+Hé, Aimeriez-vous discuter cet interrogatoire en mangeant...
+
+606
+00:29:15,215 --> 00:29:16,880
+Chinois? Je ne pense pas.
+
+607
+00:29:17,508 --> 00:29:19,581
+-Yeah, Comment saviez vous que...?
+-Kate m'a tout dit.
+
+608
+00:29:20,445 --> 00:29:22,063
+En fait, Kate est juste un peu...
+
+609
+00:29:22,146 --> 00:29:22,543
+Jalouse
+
+610
+00:29:23,417 --> 00:29:24,701
+Elle vous a dis aussi que j'allais dire cela?
+
+611
+00:29:26,076 --> 00:29:31,221
+Tu n’a qu’une chose pour toi : tu es presque 
+aussi beau garçon que tu le penses.
+
+612
+00:29:40,537 --> 00:29:44,993
+Gibbs! George Mansur, l’ex colocataire de Lambert 
+vient d'être repérer!
+
+613
+00:29:45,245 --> 00:29:49,030
+-Ou?
+-J'ai récupéré son IP, dans un cybercafé de Georgetown.
+
+614
+00:29:49,136 --> 00:29:51,201
+Tony, McGee, Vous venez avec moi.
+
+615
+00:29:52,038 --> 00:29:52,750
+Kate, restes au téléphone.
+
+616
+00:29:53,046 --> 00:29:55,231
+Abby, continue sur l'ordinateur de Mansur.
+
+617
+00:29:56,337 --> 00:29:57,702
+Mais...
+
+618
+00:29:59,727 --> 00:30:00,662
+Les mecs sortent !
+
+619
+00:30:01,006 --> 00:30:02,342
+Ce qui veut dire que les filles restent !
+
+620
+00:30:03,137 --> 00:30:04,492
+Transfère tes appels dans mon labo.
+
+621
+00:30:12,645 --> 00:30:13,330
+C'est illégal !
+
+622
+00:30:13,446 --> 00:30:14,410
+Votre gars est sur mon ordinateur !
+
+623
+00:30:14,687 --> 00:30:15,412
+Ce n'est pas votre ordinateur.
+
+624
+00:30:15,596 --> 00:30:16,342
+C'est celui du cybercafé.
+
+625
+00:30:16,476 --> 00:30:17,351
+Oui, eh bien, j'y suis connecté !
+
+626
+00:30:17,507 --> 00:30:18,443
+Il peut voir toutes mes affaires.
+
+627
+00:30:18,475 --> 00:30:20,000
+C'est une intrusion dans ma vie privée !
+
+628
+00:30:22,277 --> 00:30:23,163
+En fait, il a raison, patron.
+
+629
+00:30:24,447 --> 00:30:27,521
+Alors... vous me laissez partir ?
+
+630
+00:30:28,235 --> 00:30:28,622
+Non.
+
+631
+00:30:29,788 --> 00:30:30,391
+A l'ai... !
+
+632
+00:30:30,826 --> 00:30:32,931
+Ne... criez pas.
+
+633
+00:30:34,148 --> 00:30:35,150
+Agents fédéraux.
+
+634
+00:30:35,678 --> 00:30:36,330
+Tout va bien.
+
+635
+00:30:37,137 --> 00:30:37,883
+Retournez à vos affaires.
+
+636
+00:30:39,816 --> 00:30:40,433
+Où est ton coloc ?
+
+637
+00:30:40,736 --> 00:30:41,751
+Je n'en ai pas.
+
+638
+00:30:42,007 --> 00:30:42,812
+Ex coloc.
+
+639
+00:30:43,165 --> 00:30:43,611
+Dion ?
+
+640
+00:30:44,067 --> 00:30:46,802
+Je ne sais pas. Je ne l'ai pas vu
+depuis que j'ai déménagé il y a deux semaines.
+
+641
+00:30:47,377 --> 00:30:48,041
+Pourquoi as-tu déménagé ?
+
+642
+00:30:48,876 --> 00:30:49,671
+Il a acheté l'appartement.
+
+643
+00:30:50,268 --> 00:30:51,382
+Il ne voulait plus de colocataire.
+
+644
+00:30:51,557 --> 00:30:52,853
+Tu n'as pas déclaré de changement d'adresse.
+
+645
+00:30:53,047 --> 00:30:53,981
+J'ai envoyé un courrier hier.
+
+646
+00:30:54,437 --> 00:30:55,303
+Dion et Toi êtes associés ?
+
+647
+00:30:55,887 --> 00:30:57,721
+Non. Il fait ses propres opérations.
+
+648
+00:30:58,127 --> 00:31:00,621
+Un quartier-maître qui fait des opérations boursières ?
+
+649
+00:31:01,565 --> 00:31:02,341
+Dion est malin.
+
+650
+00:31:02,848 --> 00:31:03,880
+C'est à propos de ça ?
+
+651
+00:31:04,167 --> 00:31:04,910
+Ses opérations de l'intérieur ?
+
+652
+00:31:05,458 --> 00:31:06,412
+Opérations de l'intérieur ?
+
+653
+00:31:07,057 --> 00:31:07,542
+C'est obligé.
+
+654
+00:31:07,967 --> 00:31:09,572
+Il se fait beaucoup plus d'argent que moi sur le marché.
+
+655
+00:31:10,046 --> 00:31:10,841
+Le marché des médicaments ?
+
+656
+00:31:12,128 --> 00:31:13,251
+Dion ne vendait pas de médicaments.
+
+657
+00:31:13,717 --> 00:31:14,363
+Je l'aurais su.
+
+658
+00:31:16,746 --> 00:31:18,321
+S'il en vendait, je ne savais pas, je le jure !
+
+659
+00:31:19,637 --> 00:31:20,503
+Où est Dion en ce moment ?
+
+660
+00:31:20,966 --> 00:31:21,651
+Je ne sais pas !
+
+661
+00:31:21,875 --> 00:31:22,591
+C'est un bourreau de travail.
+
+662
+00:31:22,675 --> 00:31:23,962
+S'il n'est pas chez lui, il est à son travail.
+
+663
+00:31:25,116 --> 00:31:26,841
+Oui. Gibbs.
+
+664
+00:31:30,078 --> 00:31:32,370
+C'est ta voiture, hein ?
+
+665
+00:31:32,456 --> 00:31:32,830
+Ok...
+
+666
+00:31:33,076 --> 00:31:35,232
+Tu te fais deux cent mille par an et tu conduis ça ?
+
+667
+00:31:35,936 --> 00:31:37,341
+Les voitures... ce n’est pas vraiment mon truc.
+
+668
+00:31:37,958 --> 00:31:38,753
+Les filles ne te bottent pas ?
+
+669
+00:31:39,237 --> 00:31:40,432
+D'accord. Entendu.
+
+670
+00:31:41,887 --> 00:31:44,653
+Dis à McGee et Abby de faire ce qu'ils font
+d'habitude quand ils sont "connectés".
+
+671
+00:31:47,237 --> 00:31:48,170
+Tu voulais dire sur internet.
+
+672
+00:31:48,365 --> 00:31:49,220
+Après tu l'emmènes avec toi.
+
+673
+00:31:49,486 --> 00:31:50,083
+Je n'ai rien...
+
+674
+00:31:50,317 --> 00:31:50,612
+Tais-toi !
+
+675
+00:31:51,337 --> 00:31:52,613
+Qu'est ce qui se passe ?
+
+676
+00:31:54,267 --> 00:31:56,772
+Le lieutenant Cheney a trouvé le quartier-maître Lambert.
+
+677
+00:31:57,418 --> 00:31:57,832
+Où ?
+
+678
+00:31:59,258 --> 00:32:01,042
+Dans un ravin à Rock Creek Park.
+
+679
+00:32:21,017 --> 00:32:23,410
+C'est l'officier qui mis en scène sa mort, Jethro ?
+
+680
+00:32:24,838 --> 00:32:27,561
+A moins que l'ADN prouve le contraire.
+
+681
+00:32:29,887 --> 00:32:31,250
+Eh bien, ce n'est plus une mise en scène maintenant.
+
+682
+00:32:31,925 --> 00:32:34,743
+Le tireur lui a mis une balle à l'arrière dans la tête.
+
+683
+00:32:35,575 --> 00:32:36,582
+Et ses cheveux sont brûlés.
+
+684
+00:32:37,288 --> 00:32:40,933
+Je pense que le canon était à moins
+de cinq centimètres de son crâne.
+
+685
+00:32:41,566 --> 00:32:44,390
+Aaron Wright n'a pas le cran d'appuyer
+sur une détente en te regardant dans les yeux.
+
+686
+00:32:44,725 --> 00:32:48,243
+George Mansur non plus,
+mais je parie que
+
+687
+00:32:48,407 --> 00:32:50,771
+Ducky va l'éliminer de la liste des suspects.
+
+688
+00:32:51,567 --> 00:32:52,641
+A quelle heure est-il mort, Duck ?
+
+689
+00:32:53,048 --> 00:32:54,032
+Patience, Jethro.
+
+690
+00:32:55,106 --> 00:32:58,691
+M. Palmer est chez lui avec la grippe,
+donc je suis mon propre assistant ce soir.
+
+691
+00:33:01,968 --> 00:33:04,541
+D'après la température ambiante, je dirais
+
+692
+00:33:04,718 --> 00:33:08,411
+qu'il est mort entre 18h et 21h.
+
+693
+00:33:09,148 --> 00:33:11,151
+As-tu gagné ton pari ?
+
+694
+00:33:12,005 --> 00:33:14,741
+Eh bien, on va voir ça.
+
+695
+00:33:15,986 --> 00:33:21,682
+Mansur a acheté Argente Cosmetics
+deux jours avant qu'il ne grimpe de 28 points.
+
+696
+00:33:22,047 --> 00:33:24,463
+Ce doit être quand la FDA a approuvé
+le rouge à lèvres androgène.
+
+697
+00:33:25,405 --> 00:33:26,803
+Ca augmente la libido des femmes.
+
+698
+00:33:27,567 --> 00:33:31,493
+Du Viagra pour les femmes ?
+
+699
+00:33:31,977 --> 00:33:33,403
+En quoi est-ce drôle, McGee ?
+
+700
+00:33:34,517 --> 00:33:35,613
+Ce n'est pas que c'est drôle.
+
+701
+00:33:36,196 --> 00:33:37,401
+C'est... c'est, tu sais, les femmes.
+
+702
+00:33:38,147 --> 00:33:38,701
+Les femmes...
+
+703
+00:33:39,267 --> 00:33:41,601
+n'ont pas besoin d'être excitées avant de commencer ?
+
+704
+00:33:44,005 --> 00:33:46,283
+Non, non, ce n’est pas ce que je veux dire, Abby.
+
+705
+00:33:47,777 --> 00:33:48,460
+Quoi ?!
+
+706
+00:33:48,717 --> 00:33:51,172
+Mince, Abby !
+
+707
+00:33:51,656 --> 00:33:52,913
+Qu'est-ce que McGee a fait cette fois ?
+
+708
+00:33:53,247 --> 00:33:56,941
+Il a trop ouvert sa bouche.
+
+709
+00:33:57,168 --> 00:33:59,540
+A quelle heure s'est connecté Mansur au cybercafé ?
+
+710
+00:34:00,166 --> 00:34:03,273
+16h56.
+
+711
+00:34:03,427 --> 00:34:05,251
+Quatre minutes avant que le marché de Tokyo ouvre.
+
+712
+00:34:05,737 --> 00:34:08,072
+Le plus long intervalle de temps
+sans opérations était de 8 minutes
+
+713
+00:34:08,305 --> 00:34:10,071
+jusqu'à ce que le primate prenne la relève.
+
+714
+00:34:10,508 --> 00:34:13,240
+Quand tu auras fini avec le primate,
+dis-lui de relâcher Mansur.
+
+715
+00:34:13,437 --> 00:34:16,240
+Ca pourrait prendre un moment, Gibbs.
+
+716
+00:34:18,965 --> 00:34:20,690
+Oh, non, attends une minute, attends une minute.
+
+717
+00:34:21,376 --> 00:34:23,021
+Je n'ai jamais payé pour ça de toute ma vie.
+
+718
+00:34:23,677 --> 00:34:28,793
+D'accord, j'avais 15 ans et mon cousin Anzio a payé Maggie O'Brian
+
+719
+00:34:28,885 --> 00:34:30,593
+pour tout les deux, mais ça ne compte pas.
+
+720
+00:34:30,906 --> 00:34:31,940
+Si ça compte, Tony.
+
+721
+00:34:32,748 --> 00:34:33,320
+Je m'appelle Primo.
+
+722
+00:34:35,216 --> 00:34:36,872
+Désolé. Je n'arrive pas à vous différencier.
+
+723
+00:34:39,998 --> 00:34:41,183
+Regarde ça.
+
+724
+00:34:43,456 --> 00:34:44,962
+Quelqu'un a fumé cigarette sur cigarette ici.
+
+725
+00:34:46,398 --> 00:34:49,282
+Vous fumez, Aaron ?
+
+726
+00:34:49,608 --> 00:34:50,760
+D'accord, vous m'avez eu, ok ?
+
+727
+00:34:50,856 --> 00:34:51,552
+J'ai fumé dans votre ascenseur.
+
+728
+00:34:51,896 --> 00:34:52,521
+Quel est le pro... ?
+
+729
+00:34:54,257 --> 00:34:54,841
+Oh, mon...
+
+730
+00:34:55,267 --> 00:34:55,952
+Ca avance comment, Ducky ?
+
+731
+00:34:56,228 --> 00:34:57,500
+Lentement, sans assistant.
+
+732
+00:34:58,168 --> 00:34:58,840
+C'est le tueur ?
+
+733
+00:34:59,317 --> 00:35:00,161
+Je n'ai tué personne.
+
+734
+00:35:00,267 --> 00:35:01,011
+Je n'ai même pas d'arme.
+
+735
+00:35:01,437 --> 00:35:03,353
+Vous voulez voir ce que votre balle a fait ?
+
+736
+00:35:03,645 --> 00:35:03,990
+Non.
+
+737
+00:35:04,478 --> 00:35:06,062
+Est-ce qu'Aaron vient de reconnaître qu'il a tiré ?
+
+738
+00:35:06,385 --> 00:35:07,231
+Ca m'en a eu l'air.
+
+739
+00:35:07,455 --> 00:35:08,362
+Non. Je ne veux pas voir ça.
+
+740
+00:35:08,766 --> 00:35:10,733
+Je peux vous assurer que ce sera très instructif.
+
+741
+00:35:11,198 --> 00:35:16,620
+Votre balle a pénétré dans le lobe occipital,
+ce qui l'a rendu aveugle immédiatement.
+
+742
+00:35:17,646 --> 00:35:19,873
+La mort a été si soudaine, bien sûr,
+que je doute qu'il s'en soit rendu compte.
+
+743
+00:35:20,406 --> 00:35:23,421
+Elle a ensuite pénétré le corps calleux.
+
+744
+00:35:23,547 --> 00:35:25,252
+Oh, mon dieu, arrêtez. Je dois dégueuler.
+
+745
+00:35:25,596 --> 00:35:29,842
+Pendant le 18ème siècle,
+on croyait que le corps calleux hébergeait l'âme.
+
+746
+00:35:30,407 --> 00:35:33,591
+Il a fallu attendre la moitié du 20ème siècle
+pour que les scientifiques déterminent
+
+747
+00:35:33,698 --> 00:35:37,413
+que c'était un épais paquet de fibres nerveuses
+permettant de transférer des informations
+
+748
+00:35:37,598 --> 00:35:40,583
+entre les hémisphères droit et gauche du cerveau.
+
+749
+00:35:42,385 --> 00:35:44,003
+Fascinant.
+
+750
+00:35:45,745 --> 00:35:46,670
+Je n'ai pas tué Dion.
+
+751
+00:35:47,107 --> 00:35:47,720
+Dion ?
+
+752
+00:35:48,068 --> 00:35:50,331
+Assurément un prénom qui lui est familier.
+
+753
+00:35:53,887 --> 00:35:56,492
+Le marché que vous m'avez offert
+est toujours sur la table ?
+
+754
+00:35:56,997 --> 00:35:57,611
+Oh non.
+
+755
+00:36:00,038 --> 00:36:00,920
+Je sais qui l'a tué.
+
+756
+00:36:06,008 --> 00:36:06,790
+C'est bon pour le marché ?
+
+757
+00:36:07,325 --> 00:36:08,312
+Pas si c'est vous.
+
+758
+00:36:11,436 --> 00:36:12,291
+Je peux vivre avec ça.
+
+759
+00:36:13,346 --> 00:36:16,281
+Je récupérais les médicaments dans une boîte aux lettres.
+
+760
+00:36:17,586 --> 00:36:18,830
+Je renvoyais l'argent par courrier.
+
+761
+00:36:20,257 --> 00:36:21,583
+La dernière expédition est arrivée il y a deux jours.
+
+762
+00:36:21,865 --> 00:36:23,852
+J'ai envoyé 50 000 dollars.
+
+763
+00:36:24,225 --> 00:36:26,642
+Il s'était fait un million et s'est fait dérouillé en attendant 50 000.
+
+764
+00:36:27,376 --> 00:36:28,720
+Les flics en rajoutent toujours.
+
+765
+00:36:29,117 --> 00:36:30,511
+Ils sont loin de s'être fait un million.
+
+766
+00:36:30,697 --> 00:36:31,092
+Ils ?
+
+767
+00:36:32,058 --> 00:36:33,083
+Dion et son associé.
+
+768
+00:36:33,227 --> 00:36:33,661
+Quel associé ?
+
+769
+00:36:33,968 --> 00:36:34,681
+Je ne connais pas son nom.
+
+770
+00:36:34,796 --> 00:36:35,680
+J'ai seulement travaillé avec Dion.
+
+771
+00:36:36,097 --> 00:36:36,772
+Eh, attendez, attendez.
+
+772
+00:36:37,025 --> 00:36:38,613
+Écoutez-moi. S'il vous plaît.
+
+773
+00:36:42,026 --> 00:36:44,931
+Son associé est...
+
+774
+00:36:44,977 --> 00:36:46,393
+un génie de l'informatique là où Dion travaille.
+
+775
+00:36:46,868 --> 00:36:48,652
+Il s'est aperçu de l'escroquerie et a menacé
+
+776
+00:36:48,757 --> 00:36:50,332
+de le dénoncer à moins que Dion ne lui donne la moitié.
+
+777
+00:36:51,168 --> 00:36:51,901
+Vous trouvez l'associé...
+
+778
+00:36:52,468 --> 00:36:53,840
+Vous trouvez son meurtrier.
+
+779
+00:36:57,157 --> 00:36:57,853
+Je ne le crois pas.
+
+780
+00:36:58,185 --> 00:37:00,442
+Si deux de mes hommes détournaient le système,
+
+781
+00:37:00,558 --> 00:37:01,931
+Je serai virée pour incompétence.
+
+782
+00:37:02,138 --> 00:37:03,452
+Ils ne le faisaient pas tous les deux.
+
+783
+00:37:03,556 --> 00:37:05,190
+Le quartier-maître Wilson s'est aperçu de l'escroquerie.
+
+784
+00:37:05,925 --> 00:37:07,821
+Eh bien, s'il s'en est aperçu,
+j'aurais dû moi aussi.
+
+785
+00:37:08,576 --> 00:37:09,941
+Ils étaient assis à côté l'un de l'autre.
+
+786
+00:37:11,517 --> 00:37:13,430
+Vous n'êtes pas trop initié à l'informatique,
+n'est-ce pas, Jethro ?
+
+787
+00:37:14,046 --> 00:37:14,760
+Patron ?
+
+788
+00:37:15,355 --> 00:37:18,081
+Il y a un cheval de Troie sur l'ordinateur
+du quartier-maître Lambert.
+
+789
+00:37:18,725 --> 00:37:19,832
+Il avait un accès à ses programmes.
+
+790
+00:37:20,607 --> 00:37:21,530
+Ce n'est pas moi qui l'a mis.
+
+791
+00:37:21,778 --> 00:37:25,903
+Juste une fois, patron,
+j'aimerais qu'un de ces types disent "Vous m'avez eu."
+
+792
+00:37:27,098 --> 00:37:27,740
+"Je l'ai fait."
+
+793
+00:37:28,067 --> 00:37:28,482
+McGee.
+
+794
+00:37:29,517 --> 00:37:30,071
+Désolé, mec.
+
+795
+00:37:30,436 --> 00:37:31,272
+Madame, vous me connaissez.
+
+796
+00:37:31,598 --> 00:37:32,411
+J'aime la Navy.
+
+797
+00:37:32,505 --> 00:37:33,451
+Je ne la volerais pas.
+
+798
+00:37:35,018 --> 00:37:35,972
+Je vous crois, Niles.
+
+799
+00:37:57,607 --> 00:37:58,691
+Comment j'ai pu rater ça hier ?
+
+800
+00:37:59,687 --> 00:38:01,842
+Personne ne fait tout parfaitement la première fois, McGee...
+
+801
+00:38:02,046 --> 00:38:02,813
+A part Gibbs.
+
+802
+00:38:03,108 --> 00:38:04,381
+Je ne peux pas croire que Niles a fait ça.
+
+803
+00:38:04,958 --> 00:38:05,620
+McGee, tu es si...
+
+804
+00:38:06,346 --> 00:38:07,660
+Confiant.
+
+805
+00:38:08,336 --> 00:38:08,973
+C'est un problème ?
+
+806
+00:38:09,345 --> 00:38:11,641
+Eh bien, c'est super dans une relation.
+
+807
+00:38:12,276 --> 00:38:13,902
+Ca craint plutôt pour une enquête.
+
+808
+00:38:16,346 --> 00:38:16,932
+Oh...
+
+809
+00:38:17,346 --> 00:38:18,072
+Pauvre bébé.
+
+810
+00:38:33,548 --> 00:38:36,212
+Vous connaissez cette nouvelle avancée technologique appelée...
+
+811
+00:38:36,688 --> 00:38:37,500
+Les outils électriques ?
+
+812
+00:38:38,256 --> 00:38:39,202
+Fermez vos yeux.
+
+813
+00:38:51,698 --> 00:38:52,620
+Vous sentez le bois ?
+
+814
+00:38:56,366 --> 00:38:58,822
+On ne ressent pas ça avec un outil électrique.
+
+815
+00:39:07,396 --> 00:39:09,683
+J'ai quelque chose de suspect, McGee.
+
+816
+00:39:11,025 --> 00:39:13,220
+Ca, ce sont les mégots que Kate
+a trouvé sur la scène ce crime.
+
+817
+00:39:14,985 --> 00:39:16,153
+On dirait de vrais jumeaux.
+
+818
+00:39:16,455 --> 00:39:17,213
+Tous viennent du même paquet.
+
+819
+00:39:18,426 --> 00:39:22,293
+Maintenant, ça, ce sont les Triboros
+d'Aaron Wright et du quartier-maître Wilson.
+
+820
+00:39:23,738 --> 00:39:26,963
+Jumeaux, mais des vrais
+car ils proviennent de différents paquets.
+
+821
+00:39:27,217 --> 00:39:29,072
+Correct...
+mais ce n’est pas là que je veux en venir.
+
+822
+00:39:32,305 --> 00:39:33,722
+Le tueur ne fumait pas de Triboros.
+
+823
+00:39:37,836 --> 00:39:40,050
+Kate a trouvé des mégots de Llamas.
+
+824
+00:39:40,477 --> 00:39:41,272
+Ok, je dois appeler Gibbs.
+
+825
+00:39:42,408 --> 00:39:44,513
+Tu viens de prouver que le
+quartier-maître Wilson n'est pas le tueur.
+
+826
+00:39:44,966 --> 00:39:45,911
+Ainsi qu'Aaron Wright ?
+
+827
+00:39:47,835 --> 00:39:49,261
+Tu as écarté les deux suspects.
+
+828
+00:39:49,466 --> 00:39:50,080
+Non.
+
+829
+00:39:50,646 --> 00:39:52,443
+Un des deux pourrait toujours être le tueur.
+
+830
+00:39:52,745 --> 00:39:55,920
+Tout ce que j'ai prouvé, c'est que quelqu'un
+a fumé des Llamas à Rock Creek Park.
+
+831
+00:40:13,767 --> 00:40:14,942
+Oui. Gibbs.
+
+832
+00:40:15,225 --> 00:40:15,920
+Patron, euh...
+
+833
+00:40:16,796 --> 00:40:18,472
+Je ne sais pas si c'est important ou pas.
+
+834
+00:40:18,728 --> 00:40:22,970
+McGee, tu as intérêt à ce que ce soit le plus
+important appel que tu ais jamais passé.
+
+835
+00:40:30,298 --> 00:40:31,761
+Oui.
+
+836
+00:40:45,735 --> 00:40:47,643
+- Tout va bien ?
+- Oui.
+
+837
+00:40:57,208 --> 00:40:58,073
+Allez, qu'est ce qui ne va pas ?
+
+838
+00:40:59,865 --> 00:41:02,363
+Votre quartier-maître n'admet aucune participation.
+
+839
+00:41:03,756 --> 00:41:05,453
+Je ne crois pas qu'il soit impliqué.
+
+840
+00:41:09,397 --> 00:41:10,133
+Vous fumez ?
+
+841
+00:41:13,328 --> 00:41:14,412
+Je suis surprise.
+
+842
+00:41:23,618 --> 00:41:24,942
+Merci.
+
+843
+00:41:27,035 --> 00:41:28,240
+Vous êtes déjà allé en Sicile ?
+
+844
+00:41:29,537 --> 00:41:30,671
+Enchaînement intéressant.
+
+845
+00:41:31,988 --> 00:41:32,651
+Non.
+
+846
+00:41:39,018 --> 00:41:40,741
+Capaci est une ville à coté Palerme.
+
+847
+00:41:42,315 --> 00:41:48,091
+En 91, il y avait un chef de la Mafia
+assis dans un verger
+
+848
+00:41:48,217 --> 00:41:51,173
+fumant cigarette sur cigarette,
+qui regardait la route plus basse.
+
+849
+00:41:52,965 --> 00:41:55,722
+Deux voitures en formation serrée
+passaient dans le virage.
+
+850
+00:41:57,847 --> 00:41:59,041
+Le chef a appuyé sur un bouton.
+
+851
+00:42:00,305 --> 00:42:02,401
+La route a explosé.
+
+852
+00:42:04,345 --> 00:42:06,053
+Cela a tué le magistrat
+
+853
+00:42:06,966 --> 00:42:10,730
+qui poursuivait la Mafia sicilienne,
+ainsi que sa femme et trois gardes du corps.
+
+854
+00:42:11,487 --> 00:42:15,393
+La police italienne a trouvé les mégots dans le verger.
+
+855
+00:42:15,647 --> 00:42:17,123
+Elle les a envoyés au FBI.
+
+856
+00:42:18,067 --> 00:42:23,850
+L'ADN de la salive récupérée sur les filtres
+correspondait au chef.
+
+857
+00:42:24,777 --> 00:42:29,693
+C'est la première fois que l'ADN a été utilisé
+avec succès pour condamner un tueur.
+
+858
+00:42:34,167 --> 00:42:35,821
+Vous êtes un homme très étrange.
+
+859
+00:42:36,296 --> 00:42:40,470
+Oui. Oui...
+
+860
+00:42:40,995 --> 00:42:42,121
+Ca va être encore plus étrange.
+
+861
+00:43:05,557 --> 00:43:06,163
+Karen.
+
+862
+00:43:07,206 --> 00:43:10,430
+J'espère que l'ADN sur cette cigarette ne correspond pas
+
+863
+00:43:10,676 --> 00:43:13,270
+à celui des mégots trouvés là où Dion a été tué.
+
+864
+00:43:16,957 --> 00:43:20,331
+Oh, j'espère vraiment.
+
+865
+00:43:22,007 --> 00:43:27,000
+Transcript: Raceman Synchro: Max.
+Trad: Chupa2a, Gaillots, Nath, Zikos, Shadow.
+Relect: Moustou
+Pour www.Forom.com
+
+

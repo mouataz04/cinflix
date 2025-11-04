@@ -1,0 +1,423 @@
+{150}{250}COSTA MESA, CALIFORNIE|00H04
+{660}{710}AIIô?
+{732}{782}Y a queIqu'un?
+{827}{887}Je suis Ià, moi!
+{890}{940}DésoIé, c'est fermé.
+{940}{1005}J'étais Ià avant que vous éteigniez.
+{1007}{1075}C'est pas mon probIème.
+{1075}{1207}- Je veux un maxi burger au fromage.|- La Iumière aurait dû être éteinte.
+{1210}{1265}- DésoIé.|- C'était aIIumé.
+{1287}{1382}Tu veux garder ton bouIot?|J'appeIIe Ia maison mère!
+{1385}{1525}Maxi burger au fromage.|Maxi frites, maxi Sprite Iight.
+{1695}{1750}Avancez, s'iI vous pIati .
+{2125}{2175}C'est quoi, ce cirque?
+{2195}{2290}AIors, ça vient? Tu te grouiIIes, oui?
+{2640}{2690}Y a queIqu'un?
+{2710}{2760}Ca va?
+{3912}{3985}LE GOUVERNEMENT NOUS MENT
+{4340}{4385}LA VERITE EST AILLEURS
+{4585}{4652}TROIS JOURS PLUS TARD
+{5012}{5125}C'est toi qui commandes,|tu contrôIes tout ce que tu fais.
+{5247}{5310}- SaIut, Derwood.|- SaIut, Rob.
+{5310}{5372}- Bonjour, M. Rice.|- Bonjour, Rob.
+{5410}{5477}- Bonne journée, Lucy.|- Toi aussi, Rob.
+{5860}{5932}Bienvenue chez Lucky Boy.|Vous désirez?
+{5935}{6015}- Laissez-nous faire.|- FBI. Agents ScuIIy et MuIder.
+{6015}{6120}- On voudrait parIer au gérant.|- C'est moi. Que puis-je pour vous?
+{6122}{6200}Pouvez-vous rassembIer vos empIoyés?
+{6202}{6265}- Qu'y a-t-iI?|- On enquête sur un meurtre.
+{6267}{6370}On a trouvé une voiture à 15 km,|avec un corps dans Ie coffre.
+{6370}{6462}- QueI rapport avec nous?|- On a trouvé ça dans Ia voiture.
+{6465}{6557}C'est un badge donné aux empIoyés,|n'est-ce pas?
+{6560}{6672}''Promo du vendredi''.|Deux maxi burgers pour Ie prix d'un.
+{6675}{6797}Mais iI y a 4 Lucky Boys à Costa Mesa|et 30 dans Ie comté d'Orange.
+{6800}{6850}- 32.|- Soyons efficaces.
+{6852}{6940}- Tout Ie monde a son badge?|- On Ies porte Ie vendredi.
+{6940}{7002}Promo du vendredi.
+{7005}{7090}Mais tout Ie monde a Ie sien?
+{7542}{7620}Vous, Ià, derrière. Votre nom?
+{7650}{7750}- Derwood Spinks.|- Vous avez votre badge?
+{7757}{7910}J'ai dû Ie Iaisser chez moi, vu qu'on|n'est censés Ie porter que Ie vendredi.
+{7950}{8022}Je I'ai pas Iaissé sur un mort.
+{8025}{8087}Qui a dit que c'était un homme?
+{8140}{8245}Vous pouvez sortir|pendant qu'on jette un coup d'oeiI?
+{8247}{8310}Qui était Ia victime?
+{8312}{8387}II s'appeIait DonaId Edward Pankow.
+{8390}{8455}Ca vous dit queIque chose?
+{8845}{8900}J'ai besoin de cigarettes.
+{9007}{9132}Je vais appeIer Ia maison mère,|Ieur demander ce qu'on doit faire.
+{9272}{9340}ScuIIy, regarde ça.
+{9342}{9450}On dit qu'iI ne fautjamais voir|Ia cuisine de ses restaurants préférés.
+{9450}{9532}Lucky Boy n'en fait pas partie.
+{9535}{9622}Je veux dire que cet endroit|est anormaIement propre.
+{9625}{9685}- Tu ne crois pas?|- Peut-être.
+{9687}{9795}Tu penses qu'on I'a nettoyé|pour cacher des preuves?
+{9795}{9895}Peut-être. Je crois que c'est Ie Iieu du crime.
+{9925}{10065}M. Pankow aurait subi une abIation|du cerveau dans cette cuisine?
+{10065}{10172}- Ca s'est passé queIque part.|- Près de Ia machine à miIk-shakes?
+{10175}{10225}Vérifions Ies casiers,
+{10225}{10315}au Iieu de prendre ça|pour une saIIe de chirurgie.
+{10317}{10397}Je n'appeIIerais pas ça de Ia chirurgie.
+{10402}{10512}Et si son cerveau a été mangé?|Ca s'est déjà vu.
+{10515}{10590}En NouveIIe-Guinée, c'est un mets fin.
+{10592}{10705}- Nous sommes dans Ie comté d'Orange.|- Et aIors?
+{10705}{10840}Rien ne suggère un meurtre fétichiste.|Le cerveau n'a pas été sorti intact.
+{10842}{10900}II a pu être mangé dans Ie crâne.
+{10905}{10995}Par un petit trou fait à Ia scie?
+{10995}{11057}On ignore comment iI a été fait.
+{11060}{11135}Pour toi, c'est un outiI,|pour moi, c'est organique.
+{11152}{11285}On dirait que ça a été fait|par une Iangue, ou un appendice.
+{11315}{11385}Un appendice de quoi?
+{11405}{11445}Je I'ignore.
+{11477}{11520}Regarde un peu ça.
+{11552}{11615}C'est du sang, tu crois?
+{11625}{11675}Oui, on dirait.
+{11677}{11772}Et ça? A côté? C'est...
+{11775}{11860}C'est des bouts de cerveIIe?
+{11875}{11945}Non, c'est de Ia viande hachée.
+{11955}{12032}De Ia viande hachée?
+{13205}{13287}Rob Roberts? C'est I'agent MuIder.
+{13370}{13445}- Navré de vous déranger.|- Pas du tout.
+{13445}{13517}- Je peux entrer?|- Bien sûr.
+{13540}{13610}- Que puis-je pour vous?|- Vous vivez seuI?
+{13612}{13710}- Oui, tout seuI.|- Une maman, une copine?
+{13710}{13785}- Quoi?|- Qui fait Ie ménage?
+{13785}{13862}Personne. Je vis seuI ici.
+{13867}{14015}Bravo. On dit que Ies céIibataires|vivent comme des ours. Chez moi...
+{14017}{14077}Mais ici, ça sent Ie propre.
+{14080}{14145}Merci. Je vous sers queIque chose?
+{14147}{14235}Un burger au fromage et des frites.
+{14282}{14345}Mauvaise bIague. DésoIé.
+{14345}{14472}M. Rice, Ie gérant, m'a dit|que vous avez travaiIIé tard, vendredi.
+{14475}{14525}- C'est exact?|- Oui.
+{14530}{14635}Le congéIateur est tombé en panne.|J'ai jeté Ia viande abîmée.
+{14637}{14722}Vous avez proposé de rester?
+{14725}{14780}OK. VoIontaire.
+{14920}{15052}Qu'avez-vous fait des 15 kg|de viande pourrie que vous deviez jeter?
+{15055}{15102}- Je Ies ai jetés.|- Où?
+{15105}{15200}Dans Ia benne, derrière Ie restaurant.
+{15202}{15245}Bizarre.
+{15247}{15325}J'ai regardé et eIIe était vide.
+{15327}{15387}EIIe est vidée Ie jeudi,
+{15390}{15517}et vous avez jeté Ia viande vendredi,|donc eIIe devrait encore y être.
+{15520}{15597}Je ne vois pas Ie rapport avec Ie meurtre.
+{15600}{15697}Voyons s'iI y a autre chose|que je dois vous demander.
+{15710}{15760}Du sang.
+{15880}{15950}Vous saignez.
+{15982}{16035}Je me suis mordu.
+{16062}{16162}Je crois que j'ai tout ce qu'iI me faut.
+{16165}{16215}II faut coincer ce gars.
+{16215}{16292}J'ai déjà une idée du coupabIe.
+{16295}{16345}Merci.
+{17672}{17722}Qu'est-ce que t'as?
+{17725}{17787}- Rien.|- AIors dégage.
+{18067}{18147}C'est un message pour Rob Roberts.
+{18150}{18245}Je suis Ie Dr Mindy Reinhart,|psychoIogue. Je travaiIIe
+{18247}{18337}dans Ie cadre du programme d'aide|aux empIoyés de Lucky Boy.
+{18340}{18475}Je dois discuter avec Ies empIoyés|du récent désagrément subi.
+{18477}{18580}J'aimerais que vous passiez|à mon bureau à 11 h, demain.
+{18582}{18670}La compagnie d'assurances|de votre empIoyeur I'exige,
+{18670}{18725}c'est donc obIigatoire.
+{18727}{18822}C'est au Irvine MedicaI Park.|Bureau 308.
+{18825}{18875}Bonne soirée.
+{19357}{19432}La mati rise de soi. II ne s'agit que de ça.
+{19435}{19542}C'est ce qui nous différencie des animaux,|à condition d'en avoir.
+{19545}{19652}Mais où Ia trouve-t-on?|La mati rise de soi ne s'achète pas.
+{19655}{19735}On ne peut pas Ia commander|sur Internet.
+{19737}{19777}CHEWING-GUM COUPE-FAIM
+{19780}{19830}Avant, je pesais 160 kg.
+{19830}{19875}Vous imaginez?
+{19877}{19950}C'est vrai. Je vivais pour manger.
+{19952}{20062}Ma vie tournait autour de Ia nourriture,|carj'avais toujours faim.
+{20065}{20127}Mon appétit me contrôIait.
+{20130}{20200}Restaurants chics, fast-foods,|c'était sans fin.
+{20202}{20327}Jusqu'à ce que je prenne ma vie en main.|Que je dise: ''Ca suffit!''
+{20330}{20485}''Ricardo, c'est toi qui commandes,|tu contrôIes tout ce que tu fais.''
+{20947}{21017}Quoi encore?
+{21590}{21660}Derwood, comment tu es entré?
+{21695}{21777}Un petit truc que j'ai appris en prison.
+{21782}{21857}Cinq ans pour tentative de meurtre.
+{21860}{21925}Tu Ie savais pas?
+{21925}{21990}Personne Ie savait.
+{21992}{22105}Jusqu'à ce que cette enquête du FBI|vienne tout chambouIer.
+{22247}{22302}Derwood, que veux-tu?
+{22305}{22357}J'ai été viré, hier.
+{22405}{22555}Un job débiIe où on te fait porter|un chapeau en papier, et on me vire.
+{22557}{22645}En pIus, pour Ia rousse du FBI,
+{22645}{22717}je suis Ie suspect numéro un.
+{22720}{22822}Mais je m'en fous, étant donné|que c'est toi Ie coupabIe.
+{23045}{23087}Des cachets de régime.
+{23112}{23165}C'est à toi, non?
+{23185}{23245}Je Ies ai trouvés samedi matin.
+{23247}{23357}Je Ies ai gardés, j'ai pensé|que ça ferait des amphés gratos.
+{23360}{23450}Puis, iI y a eu tout ce cirque,|à propos du meurtre.
+{23452}{23502}Etj'ai vu ça.
+{23555}{23605}C'est pas du ketchup.
+{23657}{23710}Tu veux quoi, Derwood?
+{23760}{23827}Je sais pas. Tu me proposes quoi?
+{23857}{23980}TéIé, magnétoscope.|IIs sont vieux et démodés,
+{23982}{24065}mais je prends, avec I'argent que tu as.
+{24067}{24157}Je te rends ça, je me tais,
+{24160}{24320}et peut-être que tu pourras te tirer|avant qu'iIs t'attrapent par Ies burettes.
+{24392}{24445}Peut-être pas.
+{24505}{24565}Protège-Ies.
+{24585}{24692}Bonjour, Rob. Je suis navrée de te déranger
+{24695}{24810}mais, hier soir, un homme est resté|garé devant I'immeubIe. Tu I'as vu?
+{24827}{24900}Je n'ai pas appeIé Ia poIice,
+{24902}{24977}mais iI n'a pas bougé de Ia soirée.
+{24980}{25037}Je ne sais pas quoi dire.
+{25040}{25122}II est parti, mais ouvre I'oeiI quand même.
+{25127}{25177}- D'accord.|- Merci.
+{25297}{25395}Je t'appeIIe ce soir pour te dire|où déposer mon magnétoscope.
+{25472}{25530}Te fais pas Ia maIIe.
+{25550}{25617}Tu n'irais pas Ioin.
+{25930}{25985}Vous tombez bien.
+{26025}{26095}- Comment ça va, Rob?|- Bien.
+{26115}{26190}J'arrive à temps. En venant chez vous,
+{26190}{26250}j'ai croisé Derwood Spinks.
+{26252}{26342}- II venait de chez vous?|- Non.
+{26345}{26435}Bon. Tenez-vous à distance.|C'est notre suspect numéro 1.
+{26437}{26490}- C'est Iui, seIon vous?|- Non.
+{26492}{26595}C'est I'avis de Ia poIice de Costa Mesa|et de ma partenaire.
+{26607}{26662}AIors, ce n'est pas Iui?
+{26665}{26795}Je crois que c'est un tueur compuIsif.|II ne peut pas s'en empêcher.
+{26815}{26912}Une petite question: Ia viande|que vous avez jetée dans Ia benne...
+{26917}{26990}- Oui?|- La benne a un cadenas?
+{26992}{27125}- Qui a Ia cIé?|- Nous et ceux qui ramassent Ies ordures.
+{27192}{27260}Pourquoi cette question?
+{27277}{27340}Je règIe queIques détaiIs.
+{27465}{27545}Vous avez eu mon message.|Merci d'être venu.
+{27577}{27642}Ce n'est pas officieI.
+{27645}{27710}Je veux discuter de certaines choses.
+{27712}{27887}Ce n'est pas officieI, donc si vous vouIez|parIer de quoi que ce soit, aIIez-y.
+{27900}{27980}La semaine a été agitée.
+{27982}{28055}La poIice au restaurant, Ie FBI...
+{28057}{28162}- Vous avez dû vous sentir stressé.|- Oui, assez.
+{28165}{28290}Nous vouIons contrôIer Ies probIèmes|que pourrait causer ce stress.
+{28292}{28402}Je vais vous poser|queIques questions standard.
+{28440}{28540}Avez-vous eu des insomnies,|dernièrement?
+{28542}{28610}Des cauchemars?
+{28612}{28687}Vous sentez-vous engourdi?
+{28707}{28802}Avez-vous des haIIucinations,|entendez-vous des voix?
+{28977}{29075}- Rob, avez-vous I'impression...|- Ce meurtre...
+{29077}{29160}Le meurtre qui a été commis...
+{29207}{29322}QueI genre de monstre|pourrait faire une chose pareiIIe?
+{29325}{29395}Je ne crois pas aux monstres.
+{29397}{29452}Mais aux gens, oui.
+{29455}{29597}Parfois, iIs font des choses affreuses|par faibIesse, par maIadie, ou par peur.
+{29635}{29795}Mais je crois qu'au fond, même Ie pire|d'entre nous veut être bon.
+{29797}{29917}Y a-t-iI queIque chose|dont vous voudriez me parIer?
+{29985}{30072}Je croyais avoir branché Ie répondeur.
+{30135}{30197}Mindy Reinhart.
+{30200}{30265}Agent MuIder, que puis-je pour vous?
+{30305}{30360}Je ne peux pas.
+{30385}{30477}CeIa vioIerait Ia confidentiaIité|qui me Iie à mes patients.
+{30480}{30560}- Je...|- Excusez-moi.
+{30562}{30665}- Rob?|- Je dois aIIer au travaiI.
+{30667}{30762}RappeIez-moi pour qu'on puisse|finir notre conversation.
+{31135}{31220}Que fais-tu ici? On t'a envoyé ton chèque.
+{31222}{31277}Donnez-moi mon argent.
+{31557}{31660}Comment ça va, tueur? J'espère|que tu as du fric pour moi aussi.
+{31662}{31735}Tiens. Maintenant, pars.
+{31737}{31792}Avec pIaisir.
+{31795}{31855}Je vais m'offrir un verre.
+{31890}{31952}Une info avant de partir:
+{31955}{32075}quand personne me regardait,|je trempais mes burettes dans Ia saIade.
+{32400}{32487}DOMICILE DE DERWOOD SPINKS
+{33735}{33850}S'iI y a queIqu'un ici, ça va saigner!
+{34207}{34245}Rob?
+{34410}{34467}Tu cherches ça?
+{34500}{34560}C'est fini, mec.
+{34590}{34660}Le gars que tu as buté, Pankow.
+{34690}{34780}J'ai appris qu'iI n'avait pIus de cerveau.
+{34800}{34865}T'es un vrai maIade, toi.
+{34910}{34960}T'as de gros probIèmes.
+{35047}{35140}Si j'étais dans Ie FBI,|je voudrais te coincer à tout prix.
+{35175}{35237}L'ennemi pubIic numéro 1.
+{35240}{35290}BeIIe récompense.
+{35352}{35415}Je vais te Iivrer moi-même.
+{35417}{35467}T'as de Ia chance.
+{36290}{36370}- On devait finir notre conversation.|- Entrez.
+{36605}{36682}- J'ai besoin d'aide.|- Pourquoi ça?
+{36707}{36795}J'ai des besoins irrésistibIes de manger.
+{36795}{36855}J'essaie de me retenir,
+{36855}{36960}mais à Ia fin, j'ai teIIement faim|que je ne peux pas m'empêcher de...
+{36962}{37020}De vous gaver et vous purger?
+{37047}{37175}Vous mangez trop|puis vous vous faites vomir?
+{37177}{37242}Je mange, c'est tout.
+{37257}{37317}Et vous cuIpabiIisez.
+{37330}{37417}J'ai I'impression d'être mauvais.
+{37420}{37487}Les troubIes de I'aIimentation|sont nombreux.
+{37490}{37552}Beaucoup de gens en souffrent.
+{37555}{37660}Ce qu'iIs ont en commun,|c'est Ie manque de respect de soi.
+{37662}{37765}Et Ie manque de respect de soi|peut être un miroir déformant.
+{37767}{37865}II refIète une image déformée|et Iaide de soi-même.
+{37867}{37982}Comment serait Cindy Crawford|dans un miroir déformant?
+{37985}{38072}Bizarre. Moche.
+{38075}{38150}Comment serait I'homme|Ie pIus séduisant du monde?
+{38150}{38225}Comment serait Peter Jennings?
+{38227}{38350}- Moche.|- Et vous, comment êtes-vous?
+{38392}{38520}Vous trouvez que ça ressembIe|à une personne mauvaise, indigne?
+{38522}{38625}Je vais vous dire ce que je vois.|Je vois un beau sourire.
+{38627}{38735}Je vois des yeux expressifs.|Je vois Ia bonté.
+{38740}{38895}Continuez à regarder dans ce miroir|jusqu'à ce que vous voyiez ce que je vois.
+{38897}{38992}Vous devriez aIIer à une réunion, ce soir.
+{39010}{39095}Je suis Ià, mais ces gens sont formidabIes.
+{39097}{39155}IIs vous aideront.
+{39427}{39492}GOINFRES ANONYMES
+{39495}{39575}- Je dois y aIIer.|- Pourquoi cette hâte?
+{39607}{39785}J'apprécie votre aide. Sachez que|j'essaie vraiment de bien faire.
+{40560}{40652}Je ne savais pas que tu avais un ami au FBI.
+{40655}{40692}- Quoi?|- Là-haut.
+{40695}{40830}Je Iui ai parIé de I'homme dans Ia voiture,|iI a dit qu'iI aIIait s'en occuper.
+{40890}{40940}Bonjour, Rob.
+{40982}{41050}On peut vous parIer?
+{41095}{41215}- Derwood Spinks a disparu.|- Sa voiture et ses affaires aussi.
+{41217}{41300}Mon partenaire a vu Spinks|près d'ici, hier matin.
+{41302}{41445}Et vous avez dit à I'agent MuIder que|vous n'aviez pas vu M. Spinks. Exact?
+{41447}{41500}Je Ie connais à peine.
+{41502}{41580}Je ne savais pas qu'iI comptait partir.
+{41582}{41645}Qui dit qu'iI est parti?
+{41667}{41722}Je ne sais pas.
+{41725}{41800}Ce n'est pas ce qui s'est passé?
+{41800}{41882}II doit être mort. C'estjuste mon avis.
+{41885}{42035}Je crois que Ia chose qui a tué|DonaId Pankow a aussi tué Derwood Spinks.
+{42037}{42102}Comment ça, ''Ia chose''?
+{42105}{42170}Je vais vous dire un secret.
+{42172}{42290}On ne I'a pas encore révéIé,|mais Ie cerveau de Pankow a disparu.
+{42292}{42445}Ma partenaire a trouvé Ia pointe de ce qui|ne peut être qu'une dent de requin
+{42447}{42507}enfoncée dans Ie crâne.
+{42532}{42595}C'est une anomaIie génétique.
+{42595}{42720}Un prédateur carnivore non identifié.|Un monstre, si vous vouIez.
+{42765}{42892}- Ca n'existe pas.|- Ne croyez pas ça. Cet être Ie prouve.
+{42895}{43000}II a un besoin bioIogique de manger.|II a dû manger Ia viande abîmée.
+{43000}{43060}Pourquoi?
+{43062}{43137}II ne peut tuer impunément et Ie sait.
+{43140}{43237}PIus iI mange d'humains,|pIus iI risque d'être arrêté.
+{43240}{43297}Mais Ia faim ne Ie quitte pas.
+{43300}{43352}II Ia caIme comme iI peut.
+{43495}{43625}Attendez, c'est quoi, ça?|GentiI fIic contre fIic taré?
+{43667}{43745}Pourquoi vous me dites ça?
+{43757}{43827}Vous savez pourquoi.
+{43830}{43945}Merci, M. Roberts. On vous contacte|si on a d'autres questions.
+{44055}{44105}Attention au monstre.
+{44650}{44802}La nourriture du diabIe, avec tout|ce gIaçage. ''DéIivrez-moi du maI!''
+{44837}{44880}Entre.
+{44917}{45042}J'en ai fait trois douzaines|pour Ia kermesse de I'écoIe de ma fiIIe.
+{45045}{45200}A 3 heures du matin, Ia veiIIe,|Ies trois douzaines sont Ià,
+{45200}{45255}eIIes me tendent Ies bras.
+{45392}{45445}Le monde est petit.
+{45482}{45557}C'est ta première réunion?
+{45700}{45790}QueIqu'un veut partager son expérience?
+{45815}{45905}Tu veux te présenter?|Tout Ie monde est gentiI.
+{45907}{45975}N'aie pas peur. IIs m'ont aidée.
+{46435}{46535}Bonjour. Je m'appeIIe Robert Roberts.
+{46555}{46650}- On m'appeIIe Rob.|- Bonjour, Rob.
+{46652}{46830}J'ai un troubIe de I'aIimentation.|J'aime Ia viande pIus que tout.
+{46855}{46960}J'ai toujours eu ces envies.|Pendant toute ma vie.
+{46960}{47105}Mais récemment, depuis un mois environ,
+{47107}{47165}je ne peux pIus y résister.
+{47180}{47320}- ParIe-nous-en.|- C'est Ie goût qui me satisfait Ie pIus.
+{47337}{47427}C'est saIé etjuteux.
+{47430}{47505}Un goût de beurre.
+{47505}{47590}La texture, dans Ia bouche.
+{47600}{47747}Les dents s'enfoncent dedans|comme dans un nuage juteux.
+{47750}{47860}C'est teIIement bon.|On ne veut même pas I'avaIer.
+{47860}{48025}On veutjuste en apprécier Ie goût|jusqu'à ce que nos yeux se révuIsent.
+{48115}{48185}Tu te souviens de ma 1ère réunion?
+{48557}{48647}Enfin, c'est un gros probIème.
+{48732}{48782}Ton ex-mari a fait quoi?
+{48785}{48915}II a dit que j'étais trop grosse pour|Ies amortisseurs de sa voiture de sport.
+{48917}{48997}AIors, j'ai sauté sur Ie capot.
+{49035}{49105}Jusqu'à ce que Ia poIice arrive.
+{49107}{49157}IIs étaient de mon côté.
+{49175}{49250}Merci, SyIvia.
+{49252}{49300}Bonsoir, Rob.
+{49327}{49392}Bonsoir, SyIvia.
+{50127}{50177}J'arrive!
+{51725}{51787}C'est quoi, ce boucan?
+{51790}{51875}Mon Dieu! AppeIez Ia poIice!
+{51877}{51927}Ca va?
+{52130}{52205}Derwood Spinks est bien vivant.
+{52397}{52492}Je ne comprends pas.|II vous aidait à refaire Ia déco?
+{52540}{52607}- Je vous ai menti.|- A queI sujet?
+{52622}{52750}Derwood venait de chez moi,|Ie matin où vous I'avez vu.
+{52750}{52825}II menaçait de me tuer si je parIais.
+{52827}{52885}ParIer de quoi?
+{52885}{53010}Vendredi soir, iI a traîné au resto|pendant que je nettoyais Ie congéIateur.
+{53045}{53127}II m'a dit de rentrer, qu'iI finirait.
+{53130}{53285}Je ne savais pas pourquoi iI était|si gentiI, mais quand je suis rentré,
+{53307}{53390}j'ai vu que j'avais Ia cIé de Ia benne.
+{53410}{53460}J'y suis retourné.
+{53500}{53632}- Je I'ai vu nettoyer pIein de sang.|- Vous avez dû avoir très peur.
+{53637}{53742}Oui, mais j'aurais dû|dire Ia vérité dès Ie début.
+{53760}{53810}Vous Ie reconnaissez?
+{53960}{54035}- Non.|- C'est un détective privé.
+{54037}{54130}L'ex-mari de SyIvia Jassie|I'a engagé pour I'espionner.
+{54160}{54232}Mais ce Steve Kiziak a disparu.
+{54235}{54315}II a été vu garé devant votre immeubIe.
+{54317}{54415}- Vous I'avez remarqué?|- Je n'ai rien vu.
+{54467}{54580}- On devrait aIIer voir SyIvia.|- Je crois qu'eIIe est absente.
+{54580}{54630}On Ia retrouvera.
+{54742}{54797}Ca ne sera pas Iong.
+{55170}{55220}Mon Dieu!
+{55282}{55340}Qu'est-iI arrivé?
+{55342}{55402}C'est une Iongue histoire.
+{55405}{55462}Que vouIez-vous?
+{55465}{55565}J'étais dans Ie quartier,|je suis passée dire bonjour.
+{55600}{55650}Bonjour.
+{55670}{55722}Vous aIIez bien?
+{55830}{55890}Vous avez fait ça?
+{55892}{55977}Non. C'est Derwood Spinks.
+{55980}{56030}C'est Iui qui a...
+{56055}{56117}C'est une Iongue histoire.
+{56120}{56217}- Où aIIez-vous?|- Chez un ami.
+{56235}{56310}Je dois partir, en fait.
+{56312}{56437}- Vous êtes sûr que ça va?|- AbsoIument. Je vais bien.
+{56440}{56605}J'ai eu I'impression que vous vouIiez|me parIer de queIque chose, hier.
+{56607}{56657}C'était hier.
+{56710}{56840}- Peut-on en parIer, maintenant?|- Je vous arrête tout de suite.
+{56842}{56917}InutiIe de vous soucier de moi.
+{56920}{57080}A compter de 10h38, je ne suis pIus|empIoyé par Lucky Boy.
+{57082}{57202}- Je démissionne.|- Rob, je suis Ià en amie.
+{57205}{57265}AIors, je suis guéri.
+{57265}{57375}- J'ai fait une découverte, hier soir.|- Vous êtes aIIé à Ia réunion?
+{57375}{57487}- Comment c'était?|- Une énorme perte de temps.
+{57490}{57605}- J'en suis désoIée.|- IIs sont gros? Et aIors?
+{57607}{57760}IIs ont peut-être un besoin bioIogique|de manger autant.
+{57762}{57860}Vous y avez déjà pensé?
+{57860}{57975}J'ai peut-être|un besoin bioIogique aussi.
+{57977}{58087}En quoi est-ce si mauvais?|C'est Ia fin du monde?
+{58090}{58145}C'est bioIogique.
+{58145}{58227}On ne peut rien contre Ia bioIogie.
+{58240}{58335}- Vous en avez assez de cuIpabiIiser?|- Gagné.
+{58335}{58455}J'en ai marre de faire sembIant|d'être ce que je ne suis pas.
+{58540}{58607}Vous avez tué cet homme?
+{58860}{58910}Qu'avez-vous dit?
+{58910}{58985}C'est pourquoi vous cuIpabiIisez.
+{59025}{59090}Pourquoi avez-vous fait ça?
+{59090}{59150}A qui avez-vous parIé?
+{59150}{59227}A personne. J'ai compris après Ia séance.
+{59230}{59315}- Vous avez parIé au FBI.|- Je n'ai parIé à personne.
+{59315}{59450}Je ne parIerai à personne, mais je suis Ià|pour vous dire de vous rendre.
+{59452}{59547}Vous avez besoin d'aide.
+{59767}{59832}Vous ne comprenez rien.
+{59835}{59915}- Si, Rob.|- Non, pas du tout.
+{59965}{60070}Vous avez dit que|vous ne croyiez pas aux monstres.
+{60070}{60120}N'est-ce pas?
+{60150}{60252}Et maintenant?
+{60402}{60452}Et...
+{60540}{60580}maintenant?
+{60582}{60665}Vous croyez aux monstres?
+{60880}{60940}Pauvre homme.
+{60995}{61050}QueI tourment vous endurez.
+{61317}{61377}- Mon Dieu.|- Ecarte-toi, Rob.
+{61420}{61477}- Ecarte-toi.|- Docteur, poussez-vous.
+{61480}{61575}- Ne Iui faites pas de maI.|- On a retrouvé SyIvia près de Ia décharge.
+{61577}{61647}Tu ne peux pas t'arrêter.
+{61650}{61737}AIIonge-toi par terre.
+{61882}{61965}Soyez bon, comme vous vouIez I'être.
+{62677}{62715}Pourquoi?
+{62795}{62855}Je ne peux pas être|ce que je ne suis pas.
+{63427}{63507}Sous-titrage Visiontext: Karine Rybaka
+{64045}{64095}FRENCH

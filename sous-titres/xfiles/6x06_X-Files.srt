@@ -1,0 +1,446 @@
+{107}{202}VEILLE DE NOËL|QUELQUE PART DANS LE MARYLAND
+{705}{767}- Je commençais à désespérer.|- Désolée.
+{770}{850}Les magasins battent des records d'affluence.
+{850}{975}Si j'avais dû supporter "Douce nuit"|une fois de plus, j'aurais pris des otages.
+{975}{1030}- Que fait-on là?|- On est en planque.
+{1032}{1087}- La veille de Noël?|- Une date importante.
+{1090}{1142}- Sans rire.|- Qui justifie notre présence.
+{1145}{1220}Arrête le moteur, je vais t'expliquer.
+{1222}{1347}J'ai des cadeaux à emballer.|Demain, c'est Noël.
+{1667}{1727}Je t'écoute.
+{1755}{1810}Si tu as des préparatifs à faire...
+{1812}{1897}Maintenant que je suis là,|autant savoir pourquoi.
+{1900}{1985}Je m'attendais à plus de curiosité.
+{1985}{2045}- Qui habite la maison?|- Personne.
+{2045}{2105}- On surveille qui?|- Les anciens occupants.
+{2107}{2172}- lls sont revenus?|- C'est la question.
+{2222}{2265}Je vois.
+{2282}{2440}Le vieux manoir gothique,|la brume dans le jardin en friche...
+{2470}{2565}Ecoute. C'est un chien|qui hurle dans la lande?
+{2567}{2635}Non, je me suis lâché.
+{2637}{2742}Ne me dis pas qu'on est là|pour chasser des fantômes?
+{2745}{2862}- Des apparitions.|- Si tu veux. Mais c'est les fêtes.
+{2865}{2965}Ma famille m'attend|devant l'arbre à 6 h du matin.
+{2967}{3060}Je serai bref.|Je te donne juste les grandes lignes.
+{3062}{3107}Noël 1917.
+{3110}{3175}C'était une époque très sombre.
+{3175}{3262}Nos soldats mouraient|dans une Europe en guerre,
+{3265}{3362}pendant que chez nous,|la grippe décimait la population.
+{3365}{3415}Le drame guettait chaque foyer.
+{3415}{3485}Le désespoir gagnait|hommes, femmes et enfants.
+{3487}{3542}C'était une époque très sombre.
+{3545}{3597}Tu te répètes.
+{3600}{3695}Mais ici, au 1501 Larkspur Lane,|pour un couple d'amants maudits,
+{3697}{3812}le drame ne vint pas de la guerre,|de la maladie ou des bombardiers,
+{3815}{3882}mais de leur propre initiative.
+{3930}{3970}- Continue.|- II s'appelait Maurice.
+{4065}{4160}une superbe femme|entourée d'une sorte d'aura.
+{4162}{4252}Ils ressemblaient à deux anges|que les dieux ne pouvaient protéger
+{4255}{4360}des calamités qui s'acharnaient|sur ce monde austère et glacial.
+{4360}{4405}Que leur est-il arrivé?
+{4407}{4520}Rongés par la peur d'être séparés,|ils conclurent un pacte d'amants
+{4522}{4585}afin d'être unis pour l'éternité
+{4585}{4650}et ne jamais être séparés à Noël.
+{4650}{4705}Ils se sont tués?
+{4707}{4810}Et leurs fantômes hantent|cette maison chaque Noël.
+{4845}{4900}Ca m'a donné des frissons.
+{4902}{5002}Belle histoire, bien racontée,|mais je suis sceptique.
+{5005}{5050}Tu ne crois pas aux fantômes?
+{5050}{5120}- Ca t'étonne?|- Ben, oui.
+{5120}{5172}Je pensais qu'on y croyait tous.
+{5175}{5252}Je me laisserais bien|convaincre un autre soir,
+{5255}{5315}mais c'est Noël et je dois y aller.
+{5440}{5520}- Mes amitiés à ta famille.|- Où vas-tu?
+{5555}{5657}- Personne ne t'attend?|- Je vais jeter un oeil.
+{5815}{5910}Je ne céderai pas.|C'est ma résolution de Nouvel An.
+{6745}{6780}- T'as changé d'avis?|- Tu as mes clés de voiture?
+{6780}{6822}- T'as changé d'avis?|- Tu as mes clés de voiture?
+{6825}{6840}Non.
+{6842}{6915}- Arrête de plaisanter.|- Pourquoi je les aurais?
+{6915}{7047}Tu les as peut-être prises par mégarde.
+{7050}{7095}C'était peut-être un fantôme.
+{7430}{7485}Quel courant d'air glacial.
+{7487}{7575}Il doity avoir une fenêtre ouverte là-haut.
+{7577}{7680}D'après la météo,|il y a 80 % de chances qu'il pleuve
+{7682}{7742}ou même qu'il neige pour Noël.
+{8395}{8462}ACTIVITE PARANORMALE
+{8592}{8645}LE GOUVERNEMENT NOUS MENT
+{9050}{9110}LA VERITE EST AILLEURS
+{9360}{9420}Les esprits sont parmi nous.
+{9430}{9512}Arrête tes enfantillages|et aide-moi à ouvrir la porte.
+{9515}{9587}On dirait qu'on marche à l'étage.
+{9600}{9645}Là. Tu entends?
+{9647}{9695}Je dois y aller.
+{9697}{9790}- Pas de raison d'avoir peur.|- Je n'ai pas peur, d'accord?
+{9790}{9855}Les fantômes sont des entités bienveillantes.
+{9880}{9932}En général.
+{9972}{10035}Tu ne m'effraies pas, Mulder.
+{10245}{10335}Je dois vraiment rentrer.
+{10607}{10710}- Qu'est-ce que c'était?|- Le fruit de notre imagination.
+{10712}{10805}Des clichés ancrés profondément|par tous ces films d'horreur.
+{10807}{10915}Chaque bruit nous fait sursauter.|On fantasme sur chaque ombre,
+{10917}{11022}alors qu'un être rationnel|n'en tiendrait pas compte.
+{11065}{11120}Le concept... Mulder?
+{11122}{11230}Le concept d'une entité bienveillante|en est l'exemple concret.
+{11232}{11290}Penser qu'un esprit se matérialise
+{11292}{11375}dans le seul but de se montrer est absurde.
+{11377}{11505}Ca démontre à quel point|c'est ridicule de croire à ça.
+{11507}{11615}On oublie les lois de la nature|concernant l'enveloppe charnelle,
+{11617}{11730}on imagine des esprits|dans des tenues ridicules,
+{11730}{11805}toujours coiffés à l'ancienne,
+{11807}{11900}ne vieillissant pas,|satisfaits du peu qu'ils ont...
+{11900}{11995}Ca en dit plus|sur les vivants que sur les morts.
+{11997}{12055}Pas besoin d'être psychologue
+{12057}{12185}pour comprendre que ces fantasmes|assouvissent notre inconscient.
+{12187}{12262}Le désir d'immortalité,
+{12265}{12340}l'espoir d'une vie après la mort,
+{12342}{12400}de ne jamais être séparé de nos proches...
+{12402}{12485}Ce sont des désirs viscéraux.
+{12485}{12632}L'essence même de notre humanité.|L'essence de Noël, en fait.
+{12747}{12825}Dis-moi que tu n'as pas peur.
+{12825}{12880}D'accord, j'ai peur.
+{12882}{12935}Mais ma peur est irrationnelle.
+{13195}{13265}- Je te couvre.|- Merci.
+{13620}{13740}Tu as envisagé que la maison|pourrait être habitée et non hantée?
+{13742}{13782}Personne ne vit ici.
+{13785}{13910}Mais quand on était dehors,|il n'y avait pas de lumière.
+{13910}{13960}Et regarde.
+{14632}{14682}Il a dû y avoir une surtension.
+{14682}{14697}Il a dû y avoir une surtension.
+{14700}{14807}As-tu remarqué que la pendule|en bas donne l'heure exacte?
+{14810}{14857}Vraiment?
+{14860}{14910}Et comment tu expliques ça?
+{15245}{15305}Le feu vient de s'éteindre.
+{15320}{15362}Oui.
+{15365}{15415}N'aie pas l'air si déçu.
+{15415}{15472}Qui voudrait vivre dans une maison damnée?
+{15475}{15542}Car elle serait hantée et damnée?
+{15545}{15615}Chaque couple l'ayant habitée|a eu une fin tragique.
+{15615}{15730}Trois doubles meurtres en 80 ans,|tous le soir de Noël.
+{15942}{16002}Encore ce même bruit.
+{17107}{17132}C'est pas drôle!
+{17135}{17210}Il doity avoir une cachette sous le plancher.
+{17212}{17300}- Que veux-tu faire?|- Quelqu'un y est peut-être enfermé.
+{17302}{17345}- Pas maintenant.|- Tu es armée, non?
+{17345}{17385}- Pas maintenant.|- Tu es armée, non?
+{17387}{17490}Avoue que tu as déjà fait face|à des situations plus dangereuses.
+{17827}{17875}J'avais à moitié raison.
+{17910}{17952}Mon Dieu.
+{18220}{18265}Hé, Scully.
+{18320}{18370}Regarde.
+{18480}{18530}C'est une femme.
+{18572}{18637}On dirait qu'on les a abattus.
+{18725}{18795}- C'est bizarre.|- Quoi?
+{18797}{18860}Elle est habillée comme moi.
+{18937}{18990}C'est gênant.
+{19015}{19092}Tu sais quoi? Lui aussi t'a copié.
+{19337}{19387}C'est nous.
+{19675}{19735}C'est la même pièce.
+{20445}{20487}D'accord.
+{20490}{20575}Je commence à comprendre.
+{20575}{20637}Tu passes par cette porte et je...
+{20660}{20725}Je devrais entrer par celle-là.
+{20727}{20770}C'est ça.
+{22277}{22340}Scully, tu m'entends?
+{22937}{23000}- Qui êtes-vous?|- Vous d'abord,
+{23000}{23070}car vous êtes ici chez moi.
+{23152}{23230}- C'est un cambriolage?|- Non.
+{23232}{23317}Bien. Je vous raccompagne à la porte?
+{23320}{23400}- Très drôle.|- Je ne plaisantais pas.
+{23402}{23480}- Vous avez vu cette porte?|- Oui, je la vois.
+{23480}{23530}Dites-moi ce que vous voyez.
+{23532}{23602}Qu'on a tiré sur la serrure.
+{23627}{23680}Vous rembourserez la réparation?
+{23695}{23777}Cette porte donne sur un mur de briques.
+{23780}{23835}Bien sûr.
+{23862}{23907}Vous me jouez des tours.
+{23910}{23987}Navré si c'est le cas,|mais je n'en connais pas.
+{23990}{24045}Ca, c'est typique d'un tour.
+{24047}{24120}Vous nous en jouez depuis notre arrivée.
+{24122}{24185}On ne serait donc pas seuls?
+{24215}{24285}Très drôle, venant d'un fantôme.
+{24447}{24535}Votre arme m'a trompé.|Vous êtes un chasseur de fantômes.
+{24535}{24577}Votre arme m'a trompé.|Vous êtes un chasseur de fantômes.
+{24580}{24640}Et vous croyez que j'en suis un.
+{24642}{24742}Des gens très bizarres sont déjà venus ici,
+{24745}{24797}avec des dispositifs très étranges,
+{24800}{24872}mais vous êtes le premier à venir armé.
+{24900}{24947}Des gens bizarres?
+{24950}{25007}Comme ceux sous le plancher...
+{25150}{25240}- Comment avez-vous fait?|- Je n'ai rien fait.
+{25240}{25355}Il y avait des cadavres|dissimulés sous les lattes.
+{25407}{25460}Asseyez-vous, fiston.
+{25697}{25760}- Vous buvez, vous prenez des cachets?|- Non.
+{25760}{25807}- Vous vous défoncez?|- Non.
+{25810}{25930}Ressentez-vous le besoin|que les autres vous croient?
+{26030}{26082}La santé mentale est mon domaine.
+{26085}{26160}Je m'intéresse aux troubles et aux manies
+{26162}{26275}du comportement pathologique|liés au paranormal.
+{26310}{26385}J'ignorais que ça existait.
+{26417}{26512}J'étudie ce que j'appelle|les prospecteurs d'âme,
+{26515}{26600}une classification|inter-axiale que j'ai codifiée
+{26602}{26710}grâce à une interaction approfondie|avec des visiteurs comme vous.
+{26712}{26842}J'ai remarqué que vous entrez tous|dans la même catégorie.
+{26845}{26887}Laquelle?
+{26890}{27005}Celle des égotistes narcissiques,|flagorneurs et suffisants.
+{27020}{27057}C'est une catégorie?
+{27060}{27147}Vous vous considérez|comme étant déterminé,
+{27150}{27227}mais vous êtes enclin|à un comportement maniaco-compulsif,
+{27230}{27315}au surmenage et à l'asociabilité.
+{27317}{27462}Le terrain idéal pour sombrer|dans la folie dépressive.
+{27465}{27527}Je ne pense pas que ça me définisse.
+{27530}{27650}Vraiment? Alors que|vous brandissez une arme chez moi?
+{27662}{27765}Et tenez des propos délirants|sur un mur de briques imaginaire?
+{27852}{27962}Vous êtes sûrement persuadé|d'avoir vu des extraterrestres.
+{27985}{28090}Vous savez pourquoi|vous croyez voir ces choses?
+{28120}{28200}Parce que je les ai vues?
+{28202}{28247}Parce que vous êtes seul.
+{28250}{28407}Un solitaire à la poursuite|de chimères para-masturbatoires
+{28410}{28495}qui d'après vous|donneront un sens à votre vie
+{28495}{28562}et que votre navrante inadaptation sociale
+{28565}{28645}vous empêche de trouver autrement.
+{28682}{28855}Vous devez vous croire passionné,|sincère, incompris. N'est-ce pas?
+{28892}{28945}Para-masturbatoire?
+{28945}{29047}En général, les gens ont plutôt|tendance à fuir votre compagnie.
+{29050}{29122}Ca suffit comme ça.
+{29125}{29202}- Vous passez toujours Noël seul?|- Je ne suis pas seul.
+{29230}{29305}- Encore de l'autosuggestion.|- Je suis venu avec ma collègue.
+{29307}{29402}- Elle est ici quelque part.|- Derrière le mur de briques?
+{29405}{29497}Vous avez volé ses clés|pour qu'elle vous accompagne?
+{29537}{29590}Vous savez pourquoi.
+{29592}{29685}Elle vous rabâche les mêmes rationalisations.
+{29710}{29810}Parce que vous avez peur.|Peur de la solitude.
+{29842}{29905}J'ai raison?
+{30017}{30077}J'aimerais juste retrouver ma collègue.
+{30095}{30157}Bien. Facile.
+{30205}{30255}Un jeu d'enfant.
+{30437}{30487}Mur de briques?
+{30525}{30575}Ou mur de briques?
+{30585}{30662}Allez-y. Changez votre vie.
+{31400}{31442}Non! Je ne vous veux aucun mal.
+{31445}{31502}- Agent fédéral! Je suis armée!|- Quoi?
+{31505}{31540}- Je suis armée!|- Vous avez dit...
+{31540}{31592}- Je suis armée!|- Agent fédéral?
+{31595}{31675}Je suis un peu à cran. N'approchez pas.
+{31677}{31702}Agent spécial Dana Scully.|Je peux vous montrer ma plaque.
+{31702}{31860}Agent spécial Dana Scully.|Je peux vous montrer ma plaque.
+{31872}{31955}Dieu soit loué.|Je vous ai prise pour un fantôme.
+{31955}{32057}Je suis bien réelle. Je me suis|perdue en cherchant mon collègue.
+{32060}{32140}Le grand distingué?
+{32142}{32205}- Vous l'avez vu?|- Avec vous dans l'entrée.
+{32205}{32260}Je l'ai aussi pris pour un fantôme.
+{32320}{32367}- C'était vous.|- Je suis somnambule.
+{32370}{32457}J'ai cru que je rêvais. Mais vous êtes bien là.
+{32460}{32515}Je suis désolée.
+{32532}{32665}Je ne voulais pas vous effrayer.|Mais on a trouvé des cadavres.
+{32665}{32712}Des cadavres? Où?
+{32715}{32757}Juste...
+{32912}{32972}On dirait que vous avez vu un fantôme.
+{32990}{33055}Cette maison est hantée, vous savez.
+{33187}{33232}Qui êtes-vous?
+{33252}{33320}J'habite ici, ne vous déplaise.
+{33320}{33410}- Où est mon collègue?|- Pourquoi braquez-vous cette arme?
+{33412}{33480}J'ai vu des cadavres sous le plancher!
+{33620}{33685}Les fantômes ont dû vous jouer un tour.
+{33687}{33745}Je ne crois pas aux fantômes.
+{33827}{33887}Alors que faites-vous là?
+{33915}{33962}Où est mon collègue?
+{33990}{34042}- II croit aux fantômes?|- Oui.
+{34042}{34082}- II croit aux fantômes?|- Oui.
+{34090}{34145}Ma pauvre.
+{34155}{34280}Votre vie doit être bien triste|si vous passez Noël avec lui
+{34282}{34350}à traquer ce à quoi vous ne croyez pas.
+{34352}{34410}Ne vous approchez pas.
+{34410}{34462}Je lis sur votre visage de la peur,
+{34465}{34530}des envies contradictoires,
+{34532}{34635}le désir inconscient|de trouver le bonheur grâce à l'autre.
+{34635}{34695}L'intimité par la dépendance mutuelle.
+{34697}{34722}Quoi?
+{34725}{34790}Vous refusez|la vraie raison de votre présence,
+{34792}{34855}en prétextant le devoir ou la loyauté,
+{34857}{34930}incapable d'admettre votre petit secret:
+{34932}{35000}vous adorez démontrer qu'il a tort.
+{35015}{35075}Vous ne me connaissez pas.
+{35077}{35142}Et vous n'habitez pas ici!
+{35145}{35207}Vous en êtes persuadée,|vu comme vous me traitez.
+{35210}{35285}- Et les meubles recouverts?|- On refait la déco.
+{35287}{35360}- Et l'arbre de Noël?|- Nous sommes Juifs. Hou!
+{35400}{35475}Pas un geste ou je tire!
+{35477}{35490}Restez où vous êtes!
+{35490}{35535}Restez où vous êtes!
+{35535}{35590}On les attire, pas vrai?
+{35625}{35687}- Où est Mulder?|- Mulder? C'est son nom?
+{35690}{35740}- Où est-il?|- II arrive.
+{35802}{35900}Mettez-vous là. Tous les deux, là!
+{35932}{35970}Allez!
+{35972}{36100}Vous bafouez nos droits. J'ai des amis|à la Ligue des droits de l'homme.
+{36102}{36155}Mains en l'air.
+{37022}{37122}Tu as vu à quoi on est réduits?|A des tours de pacotille.
+{37140}{37182}On était des ma îti res, avant.
+{37185}{37295}On avait des années pour les rendre fous.|Maintenant, on n'a qu'une nuit.
+{37295}{37385}Cette pseudo-psychologie est nulle.|Ca les énerve.
+{37387}{37485}- A quand remonte le dernier possédé?|- Ou le dernier double meurtre?
+{37487}{37540}A la condamnation de la maison.
+{37542}{37617}C'est gênant.|Du boulot d'amateur, de gamins.
+{37630}{37752}Si on perd notre réputation,|on sera rayés des guides touristiques.
+{37755}{37822}Déjà, l'année dernière, personne n'est venu.
+{37825}{37922}Pourquoi avoir choisi Noël et pas Halloween?
+{37925}{38035}Qui pourrait bien se sentir|désespéré ou inutile à Halloween?
+{38037}{38100}Noël n'a lieu qu'une fois par an.
+{38132}{38180}Tu as raison.
+{38205}{38290}Ces deux-là ont l'air bien malheureux.
+{38292}{38427}Montrons-leur à quel point|on peut se sentir seul à Noël.
+{38430}{38497}Ca, c'est le bon vieil esprit de Noël.
+{39235}{39325}- Vous êtes l'agent Mulder?|- Qui êtes-vous?
+{39327}{39387}Pourquoi grimper sur mon fauteuil?
+{39390}{39457}Pour sortir de cette pièce.
+{39460}{39535}- Excusez-moi.|- Vous ne sortirez pas par là.
+{39777}{39837}- Obsédé.|- Sorcière.
+{39900}{39990}J'ignore qui est une sorcière,|mais je n'apprécie guère
+{39990}{40102}d'être malmenée ou insultée.|Surtout pas à cette heure-ci.
+{40105}{40165}- Vous êtes un fantôme.|- Encore une insulte.
+{40165}{40175}- Vous êtes un fantôme.|- Encore une insulte.
+{40265}{40412}- Que sont devenus les amants maudits?|- L'amour est éphémère.
+{40415}{40460}C'est vous.
+{40485}{40555}Vous êtes Lyda. Et lui, c'était Maurice.
+{40587}{40632}Mais vous avez vieilli.
+{40635}{40730}J'espère que votre collègue|vous apprécie plus que moi.
+{40857}{40905}Voyons voir. Où est-il?
+{40947}{40992}Non, non, non...
+{41187}{41240}Le voilà.
+{41240}{41302}LES FANTÔMES QUI ONT VOLE NOËL
+{41305}{41385}Jadis, j'étais jeune et belle|comme votre collègue.
+{41597}{41665}Regardez-nous. Maurice était si beau.
+{41765}{41822}Il n'avait pas encore de bide.
+{41837}{41912}LA LEGENDE DES AMANTS MAUDITS
+{41932}{42010}N'espérez pas tirer|de gros avantages de tout ça.
+{42012}{42042}De quoi?
+{42045}{42112}Vous avez dû venir|avec des idées préconçues.
+{42115}{42180}- On est venus à votre recherche.|- Vraiment?
+{42180}{42252}Pas pour vous unir pour l'éternité?
+{42290}{42317}Non.
+{42320}{42415}En proie au désespoir|et à la mélancolie de Noël?
+{42417}{42465}Pourquoi?
+{42490}{42567}- Ce doit être votre collègue.|- Comment ça?
+{42575}{42652}- Vous saviez la maison hantée.|- Oui.
+{42655}{42755}Vous auriez dû parler|de vos sentiments avant de venir.
+{42757}{42805}Je parle par expérience.
+{42830}{42905}- Quelle expérience?|- Oublions la sémantique.
+{42905}{43027}- Un meurtre/suicide exige la confiance.|- Mais vous aviez fait un pacte.
+{43035}{43165}Lyrisme mis à part,|l'issue est toujours la même.
+{43210}{43292}- Je ne montre pas ce trou à tout le monde.|- Pourquoi à moi?
+{43295}{43392}Parce que vous n'allez pas|manger de bûche de Noël.
+{43410}{43475}Vous insinuez que Scully va me tuer?
+{43475}{43540}Elle ne fera jamais ça.
+{43542}{43655}D'accord. Mais si vous tirez,|elle vous imitera par confiance.
+{43657}{43720}- Je ne ferais pas ça.|- Elle se suicidera.
+{43722}{43772}Je l'en empêcherais.
+{43800}{43872}Les cadavres sous le plancher...
+{43875}{43962}C'était peut-être du symbolisme jungien.
+{43965}{44045}Ou c'est un pacte d'amants.
+{44075}{44120}Nous ne sommes pas amants.
+{44122}{44190}Ce n'est pas une science exacte.
+{44192}{44280}Mais vous êtes si séduisants.
+{44287}{44362}Vous aurez tout le temps de le devenir.
+{44365}{44430}Allez. Prenez-le.
+{44490}{44582}Dites-vous que c'est|votre dernier Noël tout seul.
+{45505}{45555}J'ai fermé la porte.
+{45607}{45685}- Pour votre sécurité.|- Ne m'approchez pas.
+{45710}{45770}Aidez-moi à sortir d'ici.
+{45772}{45855}- Je n'hésiterai pas à tirer.|- Ravi de l'apprendre.
+{45857}{45947}Votre collègue fou furieux|pourrait vous attaquer.
+{45950}{45995}Que lui avez-vous fait?
+{45997}{46100}Je l'ai protégé de ses pulsions.|En tout cas, pour l'instant.
+{46102}{46195}Vous savez pourquoi il vous a entraînée ici?
+{46197}{46292}Je sais juste que tout ça|est le fruit de mon imagination.
+{46295}{46370}Mais vous braquez votre arme|sur moi comme votre collègue.
+{46370}{46377}Mais vous braquez votre arme|sur moi comme votre collègue.
+{46475}{46580}Vous vous rendez compte|à quel point il est dérangé?
+{46582}{46695}Par désespoir et solitude?|De ce qu'il est capable?
+{46752}{46810}Vous voulez vos clés de voiture?
+{46882}{46920}Où les avez-vous trouvées?
+{46922}{47055}Il n'a aucun projet pour Noël,|ni personne avec qui le passer.
+{47057}{47155}Vous a-t-il parlé d'un certain pacte d'amants?
+{47182}{47227}Où les avez-vous trouvées?
+{47230}{47320}Il est poussé par un désir inconscient.
+{47320}{47405}L'angoisse profonde d'être seul.
+{47495}{47555}Scully, tu es là?
+{47555}{47632}- Je suis là.|- Ouvre la porte.
+{47722}{47772}Ouvrez la porte.
+{48097}{48205}J'ai déjà été témoin|de la même scène tant de fois.
+{48207}{48277}Je ne vous crois pas. Ouvrez la porte.
+{48300}{48355}Ouvrez la porte!
+{48617}{48667}- Où est Scully?|- Mulder.
+{48877}{48922}Que fais-tu?
+{49035}{49120}Il n'y a pas d'issue.|Pas de retour en arrière.
+{49165}{49275}Mulder, arrête.|N'approche pas. Tu me fais peur.
+{49277}{49330}- Baisse ton arme.|- Tu vas me tirer dessus?
+{49332}{49412}Je ne vais pas tirer. Je ne veux pas.
+{49415}{49525}C'est moi ou toi, toi ou moi.|L'un de nous doit le faire.
+{49525}{49602}Ecoute, personne nous y oblige.
+{49605}{49660}- Si!|- On peut partir d'ici.
+{49662}{49762}Même si c'était vrai, à quoi bon?|Pour se retrouver seuls?
+{49765}{49850}Faire 365 jours de shopping|avant encore plus de solitude?
+{49852}{49950}Je ne crois pas un mot de ce que tu dis.
+{50977}{51030}Joyeux Noël, Scully.
+{51210}{51270}Et bonne année.
+{51375}{51432}Lâchez-moi!
+{51435}{51525}- Reviens!|- Lâche-moi!
+{51597}{51632}Lâche-moi!
+{51932}{51982}C'est toi?
+{52037}{52107}- Qu'as-tu fait?|- Je ne le croyais pas.
+{52142}{52187}Tu ne croyais pas quoi?
+{52190}{52272}Que tu le ferais.
+{52275}{52322}Que je le ferais.
+{52385}{52475}- Joyeux Noël.|- Qu'est-ce que tu fais?
+{55302}{55365}Je ne m'en sortirai pas.
+{55367}{55417}Non, en effet.
+{55447}{55505}Pas sans moi.
+{55507}{55567}Tu as peur, Mulder?
+{55730}{55780}Moi, oui.
+{55835}{55880}Moi aussi.
+{56112}{56185}- Tu aurais dû y réfléchir.|- Non, c'est toi.
+{56185}{56285}- Tu as tiré la première!|- Faux. C'est toi.
+{56650}{56695}Scully?
+{56697}{56742}Quoi?
+{56850}{56895}Lève-toi.
+{56920}{56967}Je ne peux pas.
+{56970}{57030}Lève-toi. Tu n'es pas blessée.
+{57060}{57085}Quoi?
+{57085}{57155}C'est un tour. C'est dans ta tête.
+{58137}{58230}- Tu entends? C'est Noël.|- Une histoire de plus.
+{58257}{58357}- On a failli les avoir, non?|- Presque.
+{58382}{58445}Deux âmes si seules.
+{58447}{58530}Ne laissons pas nos échecs nous hanter.
+{58532}{58610}Je me demande|ce qu'ils cherchaient vraiment.
+{58612}{58695}Difficile à dire. De nos jours...
+{58697}{58790}Ce n'est qu'un autre jour triste de l'année.
+{58790}{58860}- Pas pour nous.|- Non.
+{58875}{58955}On n'a pas oublié ce que représente Noël.
+{59330}{59415}Je ne mérite pas tant de bonheur.
+{59477}{59530}Je n'y peux rien.
+{59587}{59647}Je n'y peux vraiment rien.
+{59667}{59800}Scrooge tint parole.|Il devint un excellent ami, ma îti re
+{59802}{59865}et le meilleur homme de toute la ville
+{59865}{59965}et même de toutes les villes|du monde entier.
+{59965}{60015}Et pour Tiny Tim...
+{60215}{60280}Je n'arrivais pas à dormir.
+{60295}{60340}J'étais...
+{60342}{60415}- Je peux entrer?|- Oui.
+{60415}{60512}Tu ne devrais pas être en train|d'ouvrir tes cadeaux en famille?
+{60515}{60630}Mulder... rien de tout ça|ne s'est vraiment passé ce soir.
+{60650}{60700}On a tout imaginé, n'est-ce pas?
+{60750}{60795}Faut croire.
+{60952}{61040}Je n'adore pas forcément|démontrer que tu as tort.
+{61057}{61110}Quand l'as-tu déjà fait?
+{61205}{61272}Sinon, pourquoi|m'aurais-tu entraînée là-bas?
+{61275}{61332}Tu ne voulais pas y aller?
+{61380}{61585}Mais c'est suffisant|et narcissique de dire ça, non?
+{61587}{61705}Non, peut-être|que je voulais y aller avec toi.
+{61907}{61982}Je sais qu'on avait dit pas de cadeaux,
+{61985}{62065}mais j'en ai un pour toi.
+{62065}{62122}mais j'en ai un pour toi.
+{62170}{62230}- Mulder...|- Joyeux Noël.
+{62270}{62340}Moi aussi, j'en ai pour toi.
+{63277}{63325}Sous-titrage Visiontext: Virginie Roux
+{63912}{63962}FRENCH

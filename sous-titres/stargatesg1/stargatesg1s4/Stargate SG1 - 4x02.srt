@@ -1,0 +1,4065 @@
+1
+00:00:00,000 --> 00:00:17,647
+ 
+
+2
+00:00:17,647 --> 00:00:20,525
+Activation d'origine indéterminée
+non programmée.
+
+3
+00:00:20,525 --> 00:00:21,247
+ 
+
+4
+00:00:21,247 --> 00:00:23,363
+Allez.
+
+5
+00:00:23,363 --> 00:00:36,647
+ 
+
+6
+00:00:36,647 --> 00:00:40,845
+Je ne saisis pas. Tentez d'éliminer
+les interférences des RF du sous-espace.
+
+7
+00:00:40,845 --> 00:00:40,927
+ 
+
+8
+00:00:40,927 --> 00:00:41,962
+Carter?
+
+9
+00:00:41,962 --> 00:00:42,047
+ 
+
+10
+00:00:42,047 --> 00:00:46,006
+Mon colonel. Le couloir espace-temps
+a été activé cinq fois en 90 mn.
+
+11
+00:00:46,006 --> 00:00:46,087
+ 
+
+12
+00:00:46,087 --> 00:00:49,875
+Très bien. J'ai deux heures d'avance.
+Et vous, quand êtes-vous arrivée?
+
+13
+00:00:49,875 --> 00:00:50,687
+ 
+
+14
+00:00:50,687 --> 00:00:52,518
+Je ne suis pas encore partie.
+
+15
+00:00:52,518 --> 00:00:52,607
+ 
+
+16
+00:00:52,607 --> 00:00:56,646
+- Je vous ai dit de changer d'air, non?
+- Oui, colonel, en effet, mais c'est...
+
+17
+00:00:56,646 --> 00:00:56,967
+ 
+
+18
+00:00:56,967 --> 00:00:59,037
+lls ont envoyé un signal radio cette fois?
+
+19
+00:00:59,037 --> 00:00:59,127
+ 
+
+20
+00:00:59,127 --> 00:01:02,881
+Oui, mais la fréquence est distordue
+au-delà de la portée du matériel.
+
+21
+00:01:02,881 --> 00:01:02,967
+ 
+
+22
+00:01:02,967 --> 00:01:05,606
+On essaye de faire
+les réglages nécessaires.
+
+23
+00:01:05,606 --> 00:01:06,847
+ 
+
+24
+00:01:06,847 --> 00:01:08,280
+Qu'est-ce tu fais là?
+
+25
+00:01:08,280 --> 00:01:08,367
+ 
+
+26
+00:01:08,367 --> 00:01:11,723
+On essaye de nous contacter.
+ça n'arrive pas tous les jours.
+
+27
+00:01:11,723 --> 00:01:11,807
+ 
+
+28
+00:01:11,807 --> 00:01:15,197
+- On a un signal, mon commandant.
+- Dirigez-le vers les haut-parleurs.
+
+29
+00:01:15,197 --> 00:01:15,287
+ 
+
+30
+00:01:15,287 --> 00:01:17,926
+Essayez de le calquer
+pour qu'on le renvoie.
+
+31
+00:01:17,926 --> 00:01:19,327
+ 
+
+32
+00:01:19,327 --> 00:01:23,240
+Je répète. Ici Ia base Euronda.
+Avez-vous atteint I'autre côté?
+
+33
+00:01:23,240 --> 00:01:23,327
+ 
+
+34
+00:01:23,327 --> 00:01:26,444
+- Oh, mon Dieu.
+- TraIan, répondez s'iI vous pIaît.
+
+35
+00:01:26,444 --> 00:01:26,527
+ 
+
+36
+00:01:26,527 --> 00:01:29,405
+lci le commandant Carter
+de l'armée de l'air américaine.
+
+37
+00:01:29,405 --> 00:01:29,487
+ 
+
+38
+00:01:29,487 --> 00:01:32,285
+N'envoyez personne d'autre par la porte.
+
+39
+00:01:32,285 --> 00:01:32,367
+ 
+
+40
+00:01:32,367 --> 00:01:34,597
+lls ne vous entendent pas encore.
+
+41
+00:01:34,597 --> 00:01:34,687
+ 
+
+42
+00:01:34,687 --> 00:01:38,999
+SeIon Ies historiens, Ie Stargate est
+une porte sur Ie monde de nos ancêtres.
+
+43
+00:01:38,999 --> 00:01:39,087
+ 
+
+44
+00:01:39,087 --> 00:01:44,161
+Vos sembIabIes sont assiégés par un
+ennemi puissant, sourd à toute raison.
+
+45
+00:01:44,161 --> 00:01:44,247
+ 
+
+46
+00:01:44,247 --> 00:01:48,445
+Nous n'avons pIus de réserves.
+Nos défenses sont sur Ie point de céder.
+
+47
+00:01:48,445 --> 00:01:48,527
+ 
+
+48
+00:01:48,527 --> 00:01:50,518
+Aidez-nous, s'iI vous pIaît.
+
+49
+00:01:50,518 --> 00:01:52,807
+ 
+
+50
+00:01:52,807 --> 00:01:54,399
+Mince.
+
+51
+00:01:54,399 --> 00:01:55,127
+ 
+
+52
+00:01:55,127 --> 00:01:58,961
+ll y a eu 4 activations
+d'origine indéterminée avant celle-ci
+
+53
+00:01:58,961 --> 00:01:59,047
+ 
+
+54
+00:01:59,047 --> 00:02:01,038
+et l'iris était fermé tout ce temps.
+
+55
+00:02:01,038 --> 00:02:01,127
+ 
+
+56
+00:02:01,127 --> 00:02:04,517
+L'ordinateur a enregistré
+combien de points d'impact?
+
+57
+00:02:04,517 --> 00:02:07,847
+ 
+
+58
+00:02:07,847 --> 00:02:09,644
+Trois.
+
+59
+00:02:09,644 --> 00:02:10,847
+ 
+
+60
+00:02:10,847 --> 00:02:13,042
+Trois morts, donc.
+
+61
+00:02:13,042 --> 00:02:14,207
+ 
+
+62
+00:02:14,207 --> 00:02:15,799
+Oui, colonel.
+
+63
+00:02:15,799 --> 00:02:15,887
+ 
+
+64
+00:02:15,887 --> 00:02:18,321
+Je vais aller voir Euronda.
+
+65
+00:02:18,321 --> 00:02:23,887
+ 
+
+66
+00:02:23,887 --> 00:02:27,118
+Vous n'y êtes pour rien, Carter.
+Ne vous en faites pas.
+
+67
+00:02:27,118 --> 00:02:29,967
+ 
+
+68
+00:02:29,967 --> 00:02:31,958
+Oui, colonel.
+
+69
+00:02:31,958 --> 00:03:40,847
+ 
+
+70
+00:03:40,847 --> 00:03:45,557
+Vos sembIabIes sont assiégés par
+un ennemi puissant, sourd à toute raison.
+
+71
+00:03:45,557 --> 00:03:45,967
+ 
+
+72
+00:03:45,967 --> 00:03:50,245
+Nous n'avons pIus de réserves.
+Nos défenses sont sur Ie point de céder.
+
+73
+00:03:50,245 --> 00:03:50,327
+ 
+
+74
+00:03:50,327 --> 00:03:52,397
+Aidez-nous, s'iI vous pIaît.
+
+75
+00:03:52,397 --> 00:03:53,127
+ 
+
+76
+00:03:53,127 --> 00:03:57,166
+Bien. Admettons qu'ils nous recontactent
+et nous donnent leurs coordonnées,
+
+77
+00:03:57,166 --> 00:03:57,247
+ 
+
+78
+00:03:57,247 --> 00:03:59,556
+quelle aide peut-on leur offrir?
+
+79
+00:03:59,556 --> 00:03:59,647
+ 
+
+80
+00:03:59,647 --> 00:04:01,956
+Vivres, vêtements, médicaments...
+
+81
+00:04:01,956 --> 00:04:02,287
+ 
+
+82
+00:04:02,287 --> 00:04:05,165
+lls semblent plutôt
+vouloir une aide militaire.
+
+83
+00:04:05,165 --> 00:04:05,247
+ 
+
+84
+00:04:05,247 --> 00:04:08,956
+- Dieu sait ce qu'ils endurent.
+- On pourrait avoir affaire à des Goa'ulds.
+
+85
+00:04:08,956 --> 00:04:09,047
+ 
+
+86
+00:04:09,047 --> 00:04:13,086
+- lls seraient capables d'une telle ruse.
+- ça m'étonnerait, Teal'c.
+
+87
+00:04:13,086 --> 00:04:13,167
+ 
+
+88
+00:04:13,167 --> 00:04:16,284
+lls se présentent
+comme étant nos ''semblables''.
+
+89
+00:04:16,284 --> 00:04:16,367
+ 
+
+90
+00:04:16,367 --> 00:04:19,120
+Certains d'entre eux
+ont déjà trouvé la mort sur l'iris.
+
+91
+00:04:19,120 --> 00:04:19,207
+ 
+
+92
+00:04:19,207 --> 00:04:23,723
+Ce n'est pas le meilleur climat dans lequel
+établir des relations diplomatiques.
+
+93
+00:04:23,723 --> 00:04:26,727
+ 
+
+94
+00:04:26,727 --> 00:04:29,878
+Monsieur, il y a une autre activation
+d'origine indéterminée.
+
+95
+00:04:29,878 --> 00:04:30,847
+ 
+
+96
+00:04:30,847 --> 00:04:32,917
+Les réglages sont faits,
+mon commandant.
+
+97
+00:04:32,917 --> 00:04:33,007
+ 
+
+98
+00:04:33,007 --> 00:04:35,601
+Une communication bilatérale
+devrait être aisée.
+
+99
+00:04:35,601 --> 00:04:35,687
+ 
+
+100
+00:04:35,687 --> 00:04:37,678
+Merci, sergent.
+
+101
+00:04:37,678 --> 00:04:41,007
+ 
+
+102
+00:04:41,007 --> 00:04:44,716
+Ici AIar de I'Etat-nation d'Euronda.
+Si vous m'entendez...
+
+103
+00:04:44,716 --> 00:04:44,807
+ 
+
+104
+00:04:44,807 --> 00:04:50,279
+Alar, ici le général Hammond, armée
+de l'air américaine. Vous m'entendez?
+
+105
+00:04:50,279 --> 00:04:50,367
+ 
+
+106
+00:04:50,367 --> 00:04:55,680
+Oui. Et puis-je vous dire, généraI,
+que votre voix exauce nos prières?
+
+107
+00:04:55,680 --> 00:04:55,767
+ 
+
+108
+00:04:55,767 --> 00:04:59,282
+Nous avons eu votre message
+et nous examinons votre demande d'aide.
+
+109
+00:04:59,282 --> 00:04:59,367
+ 
+
+110
+00:04:59,367 --> 00:05:02,359
+Je suis prêt à passer Ia porte
+immédiatement.
+
+111
+00:05:02,359 --> 00:05:02,447
+ 
+
+112
+00:05:02,447 --> 00:05:05,484
+- C'est impossible.
+- Puis-je savoir pourquoi?
+
+113
+00:05:05,484 --> 00:05:05,567
+ 
+
+114
+00:05:05,567 --> 00:05:10,482
+Un bouclier impénétrable - un iris -
+est actif et provoquerait votre mort.
+
+115
+00:05:10,482 --> 00:05:10,567
+ 
+
+116
+00:05:10,567 --> 00:05:14,321
+AIors... Ies trois voIontaires
+que nous avons envoyés...?
+
+117
+00:05:14,321 --> 00:05:15,727
+ 
+
+118
+00:05:15,727 --> 00:05:19,276
+Nous ne pouvions pas savoir
+s'ils étaient nos alliés ou nos ennemis.
+
+119
+00:05:19,276 --> 00:05:19,367
+ 
+
+120
+00:05:19,367 --> 00:05:21,483
+Je vois.
+
+121
+00:05:21,483 --> 00:05:21,567
+ 
+
+122
+00:05:21,567 --> 00:05:24,161
+Et c'est toujours Ie cas.
+
+123
+00:05:24,161 --> 00:05:25,407
+ 
+
+124
+00:05:25,407 --> 00:05:28,080
+Nous devons gagner votre confiiance.
+
+125
+00:05:28,080 --> 00:05:31,207
+ 
+
+126
+00:05:31,207 --> 00:05:32,959
+lls transmettent des images.
+
+127
+00:05:32,959 --> 00:05:33,047
+ 
+
+128
+00:05:33,047 --> 00:05:36,596
+Vous pouvez voir par vous-mêmes
+que nous sommes vos sembIabIes.
+
+129
+00:05:36,596 --> 00:05:36,687
+ 
+
+130
+00:05:36,687 --> 00:05:39,326
+- Effectivement.
+- Mon peupIe a beaucoup à offrir
+
+131
+00:05:39,326 --> 00:05:39,407
+ 
+
+132
+00:05:39,407 --> 00:05:43,320
+en échange de votre aide. Si je pouvais
+vous en parIer en personne...
+
+133
+00:05:43,320 --> 00:05:43,407
+ 
+
+134
+00:05:43,407 --> 00:05:46,524
+Nous devons en savoir plus
+sur l'ennemi qui vous attaque.
+
+135
+00:05:46,524 --> 00:05:46,887
+ 
+
+136
+00:05:46,887 --> 00:05:50,277
+Nous avons cohabité
+dans ce monde pendant des siècIes.
+
+137
+00:05:50,277 --> 00:05:50,367
+ 
+
+138
+00:05:50,367 --> 00:05:54,963
+IIs occupent désormais Ia majorité
+de Ia masse terrestre d'Euronda.
+
+139
+00:05:54,963 --> 00:05:56,127
+ 
+
+140
+00:05:56,127 --> 00:05:58,163
+ça élimine tout ceux qu'on connaît.
+
+141
+00:05:58,163 --> 00:05:58,247
+ 
+
+142
+00:05:58,247 --> 00:06:00,556
+Comment avez-vu pu survivre
+si longtemps?
+
+143
+00:06:00,556 --> 00:06:00,847
+ 
+
+144
+00:06:00,847 --> 00:06:06,365
+Nos infrastructures sont sous terre,
+protégées par un champ d'énergie
+
+145
+00:06:06,365 --> 00:06:06,447
+ 
+
+146
+00:06:06,447 --> 00:06:09,086
+et notre armement est
+technoIogiquement supérieur.
+
+147
+00:06:09,086 --> 00:06:09,167
+ 
+
+148
+00:06:09,167 --> 00:06:14,878
+Mais un ou deux bombardiers pénètrent
+notre espace aérien chaque jour.
+
+149
+00:06:14,878 --> 00:06:14,967
+ 
+
+150
+00:06:14,967 --> 00:06:18,755
+- Comment nous avez-vous trouvés?
+- Nous avons découvert Ie Stargate
+
+151
+00:06:18,755 --> 00:06:18,847
+ 
+
+152
+00:06:18,847 --> 00:06:21,600
+en perçant des tunneIs
+pour I'aménagement des défenses.
+
+153
+00:06:21,600 --> 00:06:21,687
+ 
+
+154
+00:06:21,687 --> 00:06:25,202
+II y avait des écritures
+sur Ia pierre ancienne qui Ie dissimuIait.
+
+155
+00:06:25,202 --> 00:06:27,567
+ 
+
+156
+00:06:27,567 --> 00:06:29,797
+Nous sommes attaqués.
+
+157
+00:06:29,797 --> 00:06:30,487
+ 
+
+158
+00:06:30,487 --> 00:06:33,206
+Je dois retourner à Ia saIIe de défense.
+
+159
+00:06:33,206 --> 00:06:35,487
+ 
+
+160
+00:06:35,487 --> 00:06:38,684
+Je vous en prie. Aidez-nous.
+
+161
+00:06:38,684 --> 00:06:45,327
+ 
+
+162
+00:06:45,327 --> 00:06:47,887
+Alors qu'est-ce qu'on fait?
+
+163
+00:06:47,887 --> 00:06:47,967
+ 
+
+164
+00:06:47,967 --> 00:06:51,596
+Rien, Daniel Jackson,
+tant que l'on ne connaît pas leur position.
+
+165
+00:06:51,596 --> 00:06:51,687
+ 
+
+166
+00:06:51,687 --> 00:06:53,996
+On l'a.
+
+167
+00:06:53,996 --> 00:06:54,087
+ 
+
+168
+00:06:54,087 --> 00:06:57,079
+ll l'a transmise avant de disparaître.
+
+169
+00:06:57,079 --> 00:07:02,607
+ 
+
+170
+00:07:02,607 --> 00:07:05,917
+OK, ça semble désespéré
+et trop de questions restent sans réponse
+
+171
+00:07:05,917 --> 00:07:06,007
+ 
+
+172
+00:07:06,007 --> 00:07:10,603
+mais c'est la première fois que des
+descendants de la Terre nous contactent.
+
+173
+00:07:10,603 --> 00:07:10,687
+ 
+
+174
+00:07:10,687 --> 00:07:14,521
+Enfin, soit on essaie de faire
+quelque chose soit ils meurent.
+
+175
+00:07:14,521 --> 00:07:17,887
+ 
+
+176
+00:07:17,887 --> 00:07:20,117
+La décision vous appartient, général.
+
+177
+00:07:20,117 --> 00:07:20,207
+ 
+
+178
+00:07:20,207 --> 00:07:22,198
+- Colonel...
+- Vous allez dire que...
+
+179
+00:07:22,198 --> 00:07:22,287
+ 
+
+180
+00:07:22,287 --> 00:07:25,484
+- Allez-y.
+- Mais d'un point de vue humanitaire...
+
+181
+00:07:25,484 --> 00:07:25,567
+ 
+
+182
+00:07:25,567 --> 00:07:26,602
+Quoi?
+
+183
+00:07:26,602 --> 00:07:26,687
+ 
+
+184
+00:07:26,687 --> 00:07:31,044
+Nous n'épuiserons pas nos ressources
+à l'enrayement d'une guerre mondiale.
+
+185
+00:07:31,044 --> 00:07:31,127
+ 
+
+186
+00:07:31,127 --> 00:07:35,803
+Cependant, comme l'a noté le Dr Jackson,
+il y a une question humanitaire.
+
+187
+00:07:35,803 --> 00:07:35,887
+ 
+
+188
+00:07:35,887 --> 00:07:40,039
+On commencera avec tous les vivres et
+médicaments que vous pourrez emporter.
+
+189
+00:07:40,039 --> 00:07:40,127
+ 
+
+190
+00:07:40,127 --> 00:07:43,085
+- Commandant, peut-être...
+- On s'y met, général.
+
+191
+00:07:43,085 --> 00:07:48,007
+ 
+
+192
+00:07:48,007 --> 00:07:50,202
+Colonel.
+
+193
+00:07:50,202 --> 00:07:50,287
+ 
+
+194
+00:07:50,287 --> 00:07:54,075
+Outre l'aspect humanitaire,
+c'est peut-être une civilisation avancée
+
+195
+00:07:54,075 --> 00:07:54,167
+ 
+
+196
+00:07:54,167 --> 00:07:57,603
+prête à partager sa technologie
+pour nous aider contre les Goa'ulds.
+
+197
+00:07:57,603 --> 00:07:57,687
+ 
+
+198
+00:07:57,687 --> 00:08:01,077
+- J'y pensais, général.
+- J'ai déjà parlé au président.
+
+199
+00:08:01,077 --> 00:08:01,167
+ 
+
+200
+00:08:01,167 --> 00:08:06,321
+Si le gouvernement d'Eurondan accepte,
+vous êtes autorisé à négocier.
+
+201
+00:08:06,321 --> 00:08:25,687
+ 
+
+202
+00:08:25,687 --> 00:08:28,326
+SG-1 , vous devez nous faire
+un rapport dans 24 heures.
+
+203
+00:08:28,326 --> 00:08:28,407
+ 
+
+204
+00:08:28,407 --> 00:08:31,399
+Si vous y manquez,
+votre GDO sera désactivé.
+
+205
+00:08:31,399 --> 00:08:34,407
+ 
+
+206
+00:08:34,407 --> 00:08:36,796
+Je connais ce regard.
+
+207
+00:08:36,796 --> 00:08:36,887
+ 
+
+208
+00:08:36,887 --> 00:08:39,037
+De quel regard parles-tu, O'Neill?
+
+209
+00:08:39,037 --> 00:08:39,127
+ 
+
+210
+00:08:39,127 --> 00:08:43,086
+De celui qui dit: ''J'ai des doutes, mais
+au fond, je sais que c'est le bon choix''?
+
+211
+00:08:43,086 --> 00:08:43,167
+ 
+
+212
+00:08:43,167 --> 00:08:45,886
+Non. L'autre.
+
+213
+00:08:45,886 --> 00:09:14,647
+ 
+
+214
+00:09:14,647 --> 00:09:16,638
+Vous êtes venus.
+
+215
+00:09:16,638 --> 00:09:16,727
+ 
+
+216
+00:09:16,727 --> 00:09:19,878
+C'est Alar, colonel.
+ll a besoin de soins médicaux.
+
+217
+00:09:19,878 --> 00:09:24,047
+ 
+
+218
+00:09:24,047 --> 00:09:26,038
+Teal'c, aide-moi.
+
+219
+00:09:26,038 --> 00:09:26,567
+ 
+
+220
+00:09:26,567 --> 00:09:28,603
+Halte.
+
+221
+00:09:28,603 --> 00:09:28,927
+ 
+
+222
+00:09:28,927 --> 00:09:30,758
+Déposez vos armes. Sur-le-champ.
+
+223
+00:09:30,758 --> 00:09:30,847
+ 
+
+224
+00:09:30,847 --> 00:09:34,237
+- D'où venez-vous?
+- Ce sont nos semblables de la Terre.
+
+225
+00:09:34,237 --> 00:09:34,327
+ 
+
+226
+00:09:34,327 --> 00:09:36,522
+lls sont venus pour nous sauver.
+
+227
+00:09:36,522 --> 00:09:52,207
+ 
+
+228
+00:09:52,207 --> 00:09:55,597
+Je me rendais au Stargate
+pour vous recontacter.
+
+229
+00:09:55,597 --> 00:09:55,687
+ 
+
+230
+00:09:55,687 --> 00:09:59,965
+Le champ d'énergie opère
+à la plus petite capacité possible.
+
+231
+00:09:59,965 --> 00:10:01,127
+ 
+
+232
+00:10:01,127 --> 00:10:04,642
+Je vous avais bien dit
+que nos semblables viendraient, Farrell.
+
+233
+00:10:04,642 --> 00:10:04,727
+ 
+
+234
+00:10:04,727 --> 00:10:07,924
+Vous aurez
+la médaille du Peuple pour cela.
+
+235
+00:10:07,924 --> 00:10:08,007
+ 
+
+236
+00:10:08,007 --> 00:10:10,726
+Les bombardements se sont calmés.
+
+237
+00:10:10,726 --> 00:10:10,807
+ 
+
+238
+00:10:10,807 --> 00:10:14,800
+Nous sommes beaucoup plus en sûreté
+ici, où le champ d'énergie est élevé,
+
+239
+00:10:14,800 --> 00:10:14,887
+ 
+
+240
+00:10:14,887 --> 00:10:18,880
+que dans les tunnels
+où nous avons découvert le Stargate.
+
+241
+00:10:18,880 --> 00:10:21,247
+ 
+
+242
+00:10:21,247 --> 00:10:23,602
+Comment va votre tête?
+
+243
+00:10:23,602 --> 00:10:23,687
+ 
+
+244
+00:10:23,687 --> 00:10:27,043
+Assez bien pour pouvoir vous montrer
+ce que vous êtes venus sauver.
+
+245
+00:10:27,043 --> 00:10:27,767
+ 
+
+246
+00:10:27,767 --> 00:10:29,803
+Mais vous pourriez avoir un traumatisme.
+
+247
+00:10:29,803 --> 00:10:29,887
+ 
+
+248
+00:10:29,887 --> 00:10:35,484
+Non, notre bêta-cantin assure
+une régénération immédiate.
+
+249
+00:10:35,484 --> 00:10:35,727
+ 
+
+250
+00:10:35,727 --> 00:10:37,922
+Je vais bien.
+
+251
+00:10:37,922 --> 00:10:38,447
+ 
+
+252
+00:10:38,447 --> 00:10:42,725
+- On est en train de distribuer des vivres.
+- Apparemment, ils ont besoin de tout.
+
+253
+00:10:42,725 --> 00:10:42,807
+ 
+
+254
+00:10:42,807 --> 00:10:45,799
+- Qui est-ce?
+- Alar, je vous présente Teal'c.
+
+255
+00:10:45,799 --> 00:10:48,287
+ 
+
+256
+00:10:48,287 --> 00:10:52,439
+- Vous n'êtes pas de leur espèce.
+- Effectivement, je suis un Jaffa.
+
+257
+00:10:52,439 --> 00:10:52,527
+ 
+
+258
+00:10:52,527 --> 00:10:55,519
+Tout comme les vôtres,
+mes ancêtres descendent des Tauris.
+
+259
+00:10:55,519 --> 00:10:55,607
+ 
+
+260
+00:10:55,607 --> 00:10:57,962
+Tauri est la Terre.
+
+261
+00:10:57,962 --> 00:10:59,247
+ 
+
+262
+00:10:59,247 --> 00:11:01,442
+ll fait partie de notre équipe.
+
+263
+00:11:01,442 --> 00:11:02,687
+ 
+
+264
+00:11:02,687 --> 00:11:04,678
+Vraiment?
+
+265
+00:11:04,678 --> 00:11:05,447
+ 
+
+266
+00:11:05,447 --> 00:11:07,358
+Dans ce cas... bienvenue.
+
+267
+00:11:07,358 --> 00:11:10,367
+ 
+
+268
+00:11:10,367 --> 00:11:12,358
+Venez.
+
+269
+00:11:12,358 --> 00:11:21,687
+ 
+
+270
+00:11:21,687 --> 00:11:23,757
+Vous semblez être un leader.
+
+271
+00:11:23,757 --> 00:11:23,847
+ 
+
+272
+00:11:23,847 --> 00:11:28,363
+On m'offre le même respect qu'à mon
+père, l'un des leaders au début du conflit.
+
+273
+00:11:28,363 --> 00:11:28,447
+ 
+
+274
+00:11:28,447 --> 00:11:31,678
+Nous sommes moins nombreux qu'avant
+et devons tous participer.
+
+275
+00:11:31,678 --> 00:11:31,767
+ 
+
+276
+00:11:31,767 --> 00:11:35,043
+Vous savez que le Stargate
+peut transporter votre peuple ailleurs?
+
+277
+00:11:35,043 --> 00:11:35,127
+ 
+
+278
+00:11:35,127 --> 00:11:36,321
+Oui.
+
+279
+00:11:36,321 --> 00:11:36,407
+ 
+
+280
+00:11:36,407 --> 00:11:41,640
+- Alors pourquoi ne pas avoir évacué?
+- A cause de ce que je vais vous montrer.
+
+281
+00:11:41,640 --> 00:12:04,687
+ 
+
+282
+00:12:04,687 --> 00:12:07,076
+lls sont en stase.
+
+283
+00:12:07,076 --> 00:12:08,687
+ 
+
+284
+00:12:08,687 --> 00:12:13,477
+Leurs fonctions sont régulées
+afin que le coeur batte très lentement.
+
+285
+00:12:13,477 --> 00:12:13,567
+ 
+
+286
+00:12:13,567 --> 00:12:18,436
+Nous avons été contraints de vivre
+sous terre avec des ressources limitées.
+
+287
+00:12:18,436 --> 00:12:18,527
+ 
+
+288
+00:12:18,527 --> 00:12:22,645
+C'était le seul moyen de préserver
+la génération de mon père.
+
+289
+00:12:22,645 --> 00:12:22,727
+ 
+
+290
+00:12:22,727 --> 00:12:24,877
+Pourra-t-on les ranimer?
+
+291
+00:12:24,877 --> 00:12:24,967
+ 
+
+292
+00:12:24,967 --> 00:12:27,686
+Pas avant d'avoir reconquis notre monde.
+
+293
+00:12:27,686 --> 00:12:28,167
+ 
+
+294
+00:12:28,167 --> 00:12:30,158
+lls sont combien?
+
+295
+00:12:30,158 --> 00:12:30,247
+ 
+
+296
+00:12:30,247 --> 00:12:35,367
+lci, des milliers. Et pareil
+dans une autre pièce comme celle-ci.
+
+297
+00:12:35,367 --> 00:12:38,367
+ 
+
+298
+00:12:38,367 --> 00:12:41,564
+A attendre la fin d'une guerre sans fin.
+
+299
+00:12:41,564 --> 00:13:04,327
+ 
+
+300
+00:13:04,327 --> 00:13:07,922
+Voici la salle d'où nous
+conduisons la défense nationale.
+
+301
+00:13:07,922 --> 00:13:08,007
+ 
+
+302
+00:13:08,007 --> 00:13:09,804
+- Pour tout Euronda?
+- Oui.
+
+303
+00:13:09,804 --> 00:13:09,887
+ 
+
+304
+00:13:09,887 --> 00:13:12,276
+Un drone de reconnaissance
+ennemi approche.
+
+305
+00:13:12,276 --> 00:13:12,567
+ 
+
+306
+00:13:12,567 --> 00:13:14,285
+Merci, contrôleur.
+
+307
+00:13:14,285 --> 00:13:14,367
+ 
+
+308
+00:13:14,367 --> 00:13:19,760
+De chaque station, on contrôle à distance
+une formation d'avions de chasse.
+
+309
+00:13:19,760 --> 00:13:23,087
+ 
+
+310
+00:13:23,087 --> 00:13:28,639
+Les bombardiers ennemis s'en sortent
+rarement grâce à ces hommes et femmes.
+
+311
+00:13:28,639 --> 00:13:29,687
+ 
+
+312
+00:13:29,687 --> 00:13:31,962
+Très impressionnant.
+
+313
+00:13:31,962 --> 00:13:32,047
+ 
+
+314
+00:13:32,047 --> 00:13:35,119
+- Et les attaques au sol?
+- Nos guerriers pourraient les parer
+
+315
+00:13:35,119 --> 00:13:35,207
+ 
+
+316
+00:13:35,207 --> 00:13:39,120
+mais nous n'avons pas eu à essuyer
+de telles attaques depuis des années.
+
+317
+00:13:39,120 --> 00:13:39,567
+ 
+
+318
+00:13:39,567 --> 00:13:42,798
+Pourquoi donc?
+Vous êtes moins nombreux et cernés.
+
+319
+00:13:42,798 --> 00:13:42,887
+ 
+
+320
+00:13:42,887 --> 00:13:44,639
+lls ne jouent pas de cet avantage?
+
+321
+00:13:44,639 --> 00:13:44,727
+ 
+
+322
+00:13:44,727 --> 00:13:49,278
+L'atmosphère d'Euronda est contaminée.
+La surface est inhabitable.
+
+323
+00:13:49,278 --> 00:13:51,007
+ 
+
+324
+00:13:51,007 --> 00:13:53,646
+Pardonnez-moi si je vous semble...
+
+325
+00:13:53,646 --> 00:13:54,167
+ 
+
+326
+00:13:54,167 --> 00:13:58,080
+- Que vous disputez-vous alors?
+- ll n'en sera pas toujours ainsi.
+
+327
+00:13:58,080 --> 00:13:58,687
+ 
+
+328
+00:13:58,687 --> 00:14:00,803
+Un vaisseau ennemi approche.
+
+329
+00:14:00,803 --> 00:14:00,887
+ 
+
+330
+00:14:00,887 --> 00:14:04,277
+L'un d'entre vous souhaiterait-il
+tenter de l'abattre?
+
+331
+00:14:04,277 --> 00:14:05,887
+ 
+
+332
+00:14:05,887 --> 00:14:10,802
+C'est un drone de reconnaissance
+automatisé qui évalue les dégâts.
+
+333
+00:14:10,802 --> 00:14:10,887
+ 
+
+334
+00:14:10,887 --> 00:14:14,357
+- Automatique?
+- Voyez ça comme une démonstration.
+
+335
+00:14:14,357 --> 00:14:14,447
+ 
+
+336
+00:14:14,447 --> 00:14:17,962
+Ne serez-vous pas
+plus enclins à nous aider
+
+337
+00:14:17,962 --> 00:14:18,047
+ 
+
+338
+00:14:18,047 --> 00:14:21,198
+si nous avons quelque chose
+à offrir en retour?
+
+339
+00:14:21,198 --> 00:14:23,487
+ 
+
+340
+00:14:23,487 --> 00:14:25,478
+D'accord.
+
+341
+00:14:25,478 --> 00:14:34,887
+ 
+
+342
+00:14:34,887 --> 00:14:37,685
+ll faut d'abord mettre un jeton ou...?
+
+343
+00:14:37,685 --> 00:14:43,287
+ 
+
+344
+00:14:43,287 --> 00:14:47,246
+Le système d'armes est très intuitif.
+Le contrôle manuel est secondaire.
+
+345
+00:14:47,246 --> 00:14:47,327
+ 
+
+346
+00:14:47,327 --> 00:14:52,355
+Le ciblage et la direction sont directement
+déterminés par l'interface neuronale.
+
+347
+00:14:52,355 --> 00:14:53,047
+ 
+
+348
+00:14:53,047 --> 00:14:54,082
+Carter?
+
+349
+00:14:54,082 --> 00:14:54,167
+ 
+
+350
+00:14:54,167 --> 00:14:57,125
+ll fera tout ce que veut votre esprit,
+colonel.
+
+351
+00:14:57,125 --> 00:15:01,927
+ 
+
+352
+00:15:01,927 --> 00:15:03,406
+Très rapide, ce truc.
+
+353
+00:15:03,406 --> 00:15:03,487
+ 
+
+354
+00:15:03,487 --> 00:15:07,844
+Vous pilotez simultanément
+plusieurs avions de chasse en formation.
+
+355
+00:15:07,844 --> 00:15:11,607
+ 
+
+356
+00:15:11,607 --> 00:15:13,677
+ça y est, je l'ai. A 1 1 heures.
+
+357
+00:15:13,677 --> 00:15:17,527
+ 
+
+358
+00:15:17,527 --> 00:15:19,722
+On dirait un biplan.
+
+359
+00:15:19,722 --> 00:15:30,647
+ 
+
+360
+00:15:30,647 --> 00:15:32,922
+Pas mal.
+
+361
+00:15:32,922 --> 00:15:37,047
+ 
+
+362
+00:15:37,047 --> 00:15:39,003
+Bravo.
+
+363
+00:15:39,003 --> 00:15:39,087
+ 
+
+364
+00:15:39,087 --> 00:15:41,840
+Ouais. Pas trop mal.
+
+365
+00:15:41,840 --> 00:15:43,247
+ 
+
+366
+00:15:43,247 --> 00:15:45,636
+Pas trop mal pour un vieux, hein?
+
+367
+00:15:45,636 --> 00:15:52,847
+ 
+
+368
+00:15:52,847 --> 00:15:56,203
+- Qu'est-ce qu'il a?
+- Ollan est l'un de nos meilleurs pilotes,
+
+369
+00:15:56,203 --> 00:15:56,287
+ 
+
+370
+00:15:56,287 --> 00:16:00,246
+mais il a passé la majeure
+partie de sa vie dans ce siège.
+
+371
+00:16:00,246 --> 00:16:00,327
+ 
+
+372
+00:16:00,327 --> 00:16:03,922
+Des années d'exposition
+à l'interface neuronale ont un effet nocif.
+
+373
+00:16:03,922 --> 00:16:04,007
+ 
+
+374
+00:16:04,007 --> 00:16:06,123
+Très peu d'entre nous, moi y compris,
+
+375
+00:16:06,123 --> 00:16:06,207
+ 
+
+376
+00:16:06,207 --> 00:16:10,405
+pourrons encore piloter sans risquer
+de subir la même chose qu'Ollan.
+
+377
+00:16:10,405 --> 00:16:10,487
+ 
+
+378
+00:16:10,487 --> 00:16:12,239
+Excusez-moi?
+
+379
+00:16:12,239 --> 00:16:12,327
+ 
+
+380
+00:16:12,327 --> 00:16:16,957
+Rassurez-vous, colonel, une brève
+exposition ne vous fera aucun mal.
+
+381
+00:16:16,957 --> 00:16:17,047
+ 
+
+382
+00:16:17,047 --> 00:16:20,756
+Mais venez.
+Allons fêter notre nouvelle alliance.
+
+383
+00:16:20,756 --> 00:16:36,127
+ 
+
+384
+00:16:36,127 --> 00:16:40,564
+J'avais l'intention de garder cette bouteille
+pour célébrer la fin de la guerre.
+
+385
+00:16:40,564 --> 00:16:40,647
+ 
+
+386
+00:16:40,647 --> 00:16:45,767
+Que l'amitié qui lie nos deux mondes
+soit une première étape vers la paix.
+
+387
+00:16:45,767 --> 00:16:46,407
+ 
+
+388
+00:16:46,407 --> 00:16:48,682
+A l'amitié.
+
+389
+00:16:48,682 --> 00:17:03,007
+ 
+
+390
+00:17:03,007 --> 00:17:05,646
+Vous n'avez pas pris part au toast.
+
+391
+00:17:05,646 --> 00:17:06,647
+ 
+
+392
+00:17:06,647 --> 00:17:09,036
+Je ne bois pas d'alcool.
+
+393
+00:17:09,036 --> 00:17:11,447
+ 
+
+394
+00:17:11,447 --> 00:17:13,642
+Avez-vous apprécié le système d'armes?
+
+395
+00:17:13,642 --> 00:17:13,727
+ 
+
+396
+00:17:13,727 --> 00:17:16,446
+Oh, oui. Nous en prendrons une douzaine.
+
+397
+00:17:16,446 --> 00:17:18,687
+ 
+
+398
+00:17:18,687 --> 00:17:21,121
+La nourriture
+que vous avez amenée est fameuse.
+
+399
+00:17:21,121 --> 00:17:21,207
+ 
+
+400
+00:17:21,207 --> 00:17:23,516
+On peut faire beaucoup mieux,
+croyez-moi.
+
+401
+00:17:23,516 --> 00:17:23,607
+ 
+
+402
+00:17:23,607 --> 00:17:28,317
+Depuis des années, nous ne mangeons
+que de la levure de culture hydroponique.
+
+403
+00:17:28,317 --> 00:17:28,407
+ 
+
+404
+00:17:28,407 --> 00:17:29,840
+C'en est?
+
+405
+00:17:29,840 --> 00:17:29,927
+ 
+
+406
+00:17:29,927 --> 00:17:32,839
+ll doit vous falloir générer
+énormément d'énergie.
+
+407
+00:17:32,839 --> 00:17:32,927
+ 
+
+408
+00:17:32,927 --> 00:17:36,283
+Vous n'utilisez pas
+la fusion contrôlée sur Terre?
+
+409
+00:17:36,283 --> 00:17:36,367
+ 
+
+410
+00:17:36,367 --> 00:17:38,358
+La fusion...?
+
+411
+00:17:38,358 --> 00:17:39,087
+ 
+
+412
+00:17:39,087 --> 00:17:42,841
+C'est la forme de production
+d'énergie la plus efficace.
+
+413
+00:17:42,841 --> 00:17:42,927
+ 
+
+414
+00:17:42,927 --> 00:17:47,603
+Seulement, l'oxyde de deutérium,
+le combustible utilisé pour nos réacteurs,
+
+415
+00:17:47,603 --> 00:17:47,687
+ 
+
+416
+00:17:47,687 --> 00:17:49,643
+est difficile à obtenir.
+
+417
+00:17:49,643 --> 00:17:49,727
+ 
+
+418
+00:17:49,727 --> 00:17:54,562
+De l'eau lourde. Comme de l'eau normale,
+sauf que le noyau d'hydrogène contient...
+
+419
+00:17:54,562 --> 00:17:54,647
+ 
+
+420
+00:17:54,647 --> 00:17:57,161
+Je sais ce que c'est de l'eau lourde,
+commandant.
+
+421
+00:17:57,161 --> 00:18:00,927
+ 
+
+422
+00:18:00,927 --> 00:18:05,125
+Et si c'est ce qui manque aux Eurondans,
+nous leur en fournirons avec plaisir.
+
+423
+00:18:05,125 --> 00:18:06,967
+ 
+
+424
+00:18:06,967 --> 00:18:12,360
+En échange, nous vous apprendrons
+à construire des systèmes d'armes.
+
+425
+00:18:12,360 --> 00:18:12,807
+ 
+
+426
+00:18:12,807 --> 00:18:16,641
+Avions de chasse, système
+de mise en stase, réacteurs à fusion...
+
+427
+00:18:16,641 --> 00:18:16,847
+ 
+
+428
+00:18:16,847 --> 00:18:18,803
+ça semble acceptable.
+
+429
+00:18:18,803 --> 00:18:20,247
+ 
+
+430
+00:18:20,247 --> 00:18:21,043
+Carter?
+
+431
+00:18:21,043 --> 00:18:21,127
+ 
+
+432
+00:18:21,127 --> 00:18:23,197
+- Traitement médical, colonel.
+- Ah oui.
+
+433
+00:18:23,197 --> 00:18:23,287
+ 
+
+434
+00:18:23,287 --> 00:18:27,997
+Nous avons été très impressionnés
+par ce bêta-caro... truc.
+
+435
+00:18:27,997 --> 00:18:28,807
+ 
+
+436
+00:18:28,807 --> 00:18:30,798
+Bêta-cantin. Bien sûr.
+
+437
+00:18:30,798 --> 00:18:30,887
+ 
+
+438
+00:18:30,887 --> 00:18:33,879
+- Jack?
+- Daniel.
+
+439
+00:18:33,879 --> 00:18:34,087
+ 
+
+440
+00:18:34,087 --> 00:18:36,362
+ll faut demander à quoi sert l'eau lourde,
+non?
+
+441
+00:18:36,362 --> 00:18:36,447
+ 
+
+442
+00:18:36,447 --> 00:18:39,644
+- Je ne crois pas, non.
+- L'énergie qu'elle aide à produire
+
+443
+00:18:39,644 --> 00:18:39,727
+ 
+
+444
+00:18:39,727 --> 00:18:43,640
+serait utilisée pour renforcer
+nos défenses, Dr Jackson.
+
+445
+00:18:43,640 --> 00:18:44,607
+ 
+
+446
+00:18:44,607 --> 00:18:46,598
+Daniel?
+
+447
+00:18:46,598 --> 00:18:47,287
+ 
+
+448
+00:18:47,287 --> 00:18:50,120
+Et, en temps voulu,
+pour riposter contre l'ennemi.
+
+449
+00:18:50,120 --> 00:18:52,647
+ 
+
+450
+00:18:52,647 --> 00:18:55,036
+- Jack?
+- Daniel,
+
+451
+00:18:55,036 --> 00:18:55,127
+ 
+
+452
+00:18:55,127 --> 00:18:57,322
+ne pourrait-on pas en discuter plus tard?
+
+453
+00:18:57,322 --> 00:18:57,407
+ 
+
+454
+00:18:57,407 --> 00:18:59,762
+Je ne crois pas, non.
+
+455
+00:18:59,762 --> 00:18:59,847
+ 
+
+456
+00:18:59,847 --> 00:19:04,125
+Vous comprenez notre désir de mettre fin
+à un conflit qui dure depuis si longtemps?
+
+457
+00:19:04,125 --> 00:19:04,327
+ 
+
+458
+00:19:04,327 --> 00:19:06,318
+Je comprends tout à fait, Alar.
+
+459
+00:19:06,318 --> 00:19:06,407
+ 
+
+460
+00:19:06,407 --> 00:19:11,401
+Mais le Stargate - puisqu'il peut
+transporter tout votre peuple ailleurs...
+
+461
+00:19:11,401 --> 00:19:11,487
+ 
+
+462
+00:19:11,487 --> 00:19:15,605
+Mais je vous l'ai dit -
+des milliers sont en stase.
+
+463
+00:19:15,605 --> 00:19:15,687
+ 
+
+464
+00:19:15,687 --> 00:19:17,917
+Ranimez-les et allez vivre ailleurs.
+
+465
+00:19:17,917 --> 00:19:18,007
+ 
+
+466
+00:19:18,007 --> 00:19:22,080
+Tout ça aurait servi à quoi, alors?
+C'est ici chez nous.
+
+467
+00:19:22,080 --> 00:19:22,167
+ 
+
+468
+00:19:22,167 --> 00:19:26,558
+Je ne comprends pas pourquoi continuer
+cette guerre alors que vous avez le choix.
+
+469
+00:19:26,558 --> 00:19:26,647
+ 
+
+470
+00:19:26,647 --> 00:19:29,525
+Daniel... Tu as entendu ce qu'il a dit.
+
+471
+00:19:29,525 --> 00:19:30,647
+ 
+
+472
+00:19:30,647 --> 00:19:35,641
+Vous avez dit que l'atmosphère était
+contaminée. Qu'avez-vous à gagner?
+
+473
+00:19:35,641 --> 00:19:42,887
+ 
+
+474
+00:19:42,887 --> 00:19:45,879
+Alar, des bombardiers ennemis
+ont pénétré le périmètre extérieur.
+
+475
+00:19:45,879 --> 00:19:45,967
+ 
+
+476
+00:19:45,967 --> 00:19:49,084
+- Aux stations de défense.
+- Veuillez nous excuser.
+
+477
+00:19:49,084 --> 00:19:49,167
+ 
+
+478
+00:19:49,167 --> 00:19:52,921
+Quand vous aurez pris une décision,
+rejoignez-nous dans la salle de défense.
+
+479
+00:19:52,921 --> 00:19:58,727
+ 
+
+480
+00:19:58,727 --> 00:20:01,605
+- Quand je te dis de te taire...
+- Je n'ai pas entendu.
+
+481
+00:20:01,605 --> 00:20:01,687
+ 
+
+482
+00:20:01,687 --> 00:20:04,155
+- Trop subtil pour toi?
+- Oui. Tu veux m'écouter?
+
+483
+00:20:04,155 --> 00:20:04,247
+ 
+
+484
+00:20:04,247 --> 00:20:06,158
+Carter?
+
+485
+00:20:06,158 --> 00:20:06,247
+ 
+
+486
+00:20:06,247 --> 00:20:08,522
+Quels sont les ordres constants?
+
+487
+00:20:08,522 --> 00:20:08,607
+ 
+
+488
+00:20:08,607 --> 00:20:13,283
+Trouver des alliés et des technologies
+qui permettent de combattre les Goa'ulds.
+
+489
+00:20:13,283 --> 00:20:13,367
+ 
+
+490
+00:20:13,367 --> 00:20:18,441
+- Et avons-nous exécuté ces ordres?
+- Nous sommes venus ici pour les aider.
+
+491
+00:20:18,441 --> 00:20:18,527
+ 
+
+492
+00:20:18,527 --> 00:20:21,599
+- Ce n'est pas ce qu'on fait?
+- Non.
+
+493
+00:20:21,599 --> 00:20:21,687
+ 
+
+494
+00:20:21,687 --> 00:20:25,441
+Leur monde est un brasier
+que nous ne faisons qu'attiser.
+
+495
+00:20:25,441 --> 00:20:25,527
+ 
+
+496
+00:20:25,527 --> 00:20:27,916
+- Mais on leur propose de l'eau.
+- Merci.
+
+497
+00:20:27,916 --> 00:20:28,007
+ 
+
+498
+00:20:28,007 --> 00:20:32,956
+- Je parlais en métaphore.
+- Arrête. Ce n'est pas sympa pour Teal'c.
+
+499
+00:20:32,956 --> 00:20:33,207
+ 
+
+500
+00:20:33,207 --> 00:20:35,516
+La décision est prise.
+
+501
+00:20:35,516 --> 00:20:36,127
+ 
+
+502
+00:20:36,127 --> 00:20:39,802
+Cette mission n'a pas pour but de les
+aider. Elle ne vise que notre intérêt.
+
+503
+00:20:39,802 --> 00:20:39,887
+ 
+
+504
+00:20:39,887 --> 00:20:43,482
+Carter, ramenez Daniel avec vous. Dites
+à Hammond qu'on a passé un accord.
+
+505
+00:20:43,482 --> 00:20:43,567
+ 
+
+506
+00:20:43,567 --> 00:20:48,402
+Vous vous en foutez pas mal d'eux.
+Vous profitez de leur situation.
+
+507
+00:20:48,402 --> 00:20:48,487
+ 
+
+508
+00:20:48,487 --> 00:20:50,443
+En effet, Daniel.
+
+509
+00:20:50,443 --> 00:20:50,527
+ 
+
+510
+00:20:50,527 --> 00:20:53,325
+lls ont ce qu'ils veulent.
+On a tout ce qu'on veut.
+
+511
+00:20:53,325 --> 00:20:53,407
+ 
+
+512
+00:20:53,407 --> 00:20:56,922
+- ça ne me pose aucun problème. Carter.
+- On y va, mon colonel.
+
+513
+00:20:56,922 --> 00:20:57,007
+ 
+
+514
+00:20:57,007 --> 00:20:59,805
+- Je n'ai pas fini.
+- Oui, bien sûr, Daniel.
+
+515
+00:20:59,805 --> 00:20:59,887
+ 
+
+516
+00:20:59,887 --> 00:21:03,596
+- Tu n'as jamais fini.
+- ça n'a rien à voir avec moi.
+
+517
+00:21:03,596 --> 00:21:03,687
+ 
+
+518
+00:21:03,687 --> 00:21:07,600
+- Tu te rends compte de ce qu'ils offrent?
+- A quel prix?
+
+519
+00:21:07,600 --> 00:21:08,407
+ 
+
+520
+00:21:08,407 --> 00:21:09,840
+Oh, pour l'amour du ciel.
+
+521
+00:21:09,840 --> 00:21:09,927
+ 
+
+522
+00:21:09,927 --> 00:21:13,283
+- Tu vas où?
+- Voir en quoi je peux aider.
+
+523
+00:21:13,283 --> 00:21:25,127
+ 
+
+524
+00:21:25,127 --> 00:21:27,687
+Je ne le défends pas.
+Je suis d'accord avec lui.
+
+525
+00:21:27,687 --> 00:21:27,767
+ 
+
+526
+00:21:27,767 --> 00:21:30,406
+Tu ne vois pas ce qu'on a fait?
+
+527
+00:21:30,406 --> 00:21:31,447
+ 
+
+528
+00:21:31,447 --> 00:21:33,881
+Commandant? Docteur?
+
+529
+00:21:33,881 --> 00:21:34,527
+ 
+
+530
+00:21:34,527 --> 00:21:40,363
+Le colonel O'Neill a négocié l'accès
+à toutes les technologies eurodans
+
+531
+00:21:40,363 --> 00:21:40,447
+ 
+
+532
+00:21:40,447 --> 00:21:43,200
+en échange
+d'une quantité indéterminée d'eau lourde.
+
+533
+00:21:43,200 --> 00:21:43,287
+ 
+
+534
+00:21:43,287 --> 00:21:45,164
+- C'est tout ce qu'ils veulent?
+- Oui.
+
+535
+00:21:45,164 --> 00:21:45,247
+ 
+
+536
+00:21:45,247 --> 00:21:49,365
+- Que veulent-ils en faire?
+- Merci de poser la question.
+
+537
+00:21:49,365 --> 00:21:49,447
+ 
+
+538
+00:21:49,447 --> 00:21:54,316
+- L'eau lourde contient du deutérium.
+- Qui sert à faire des armes nucléaires.
+
+539
+00:21:54,316 --> 00:21:54,407
+ 
+
+540
+00:21:54,407 --> 00:21:57,444
+Elle leur sert à alimenter
+des générateurs à fusion nucléaire.
+
+541
+00:21:57,444 --> 00:21:57,527
+ 
+
+542
+00:21:57,527 --> 00:21:58,357
+A fusion?
+
+543
+00:21:58,357 --> 00:21:58,447
+ 
+
+544
+00:21:58,447 --> 00:22:01,803
+Selon Alar, l'énergie additionnelle
+empêcherait la défaite.
+
+545
+00:22:01,803 --> 00:22:01,887
+ 
+
+546
+00:22:01,887 --> 00:22:05,277
+- lls partageront cette technologie?
+- Bien sûr. lls sont désespérés.
+
+547
+00:22:05,277 --> 00:22:05,367
+ 
+
+548
+00:22:05,367 --> 00:22:08,086
+Oui, mon général. Tout.
+Et c'est incroyable.
+
+549
+00:22:08,086 --> 00:22:08,167
+ 
+
+550
+00:22:08,167 --> 00:22:10,920
+lls ont au moins cent ans
+d'avance sur nous.
+
+551
+00:22:10,920 --> 00:22:11,007
+ 
+
+552
+00:22:11,007 --> 00:22:13,646
+Mais nous devons agir vite,
+ou ils seront vaincus.
+
+553
+00:22:13,646 --> 00:22:13,727
+ 
+
+554
+00:22:13,727 --> 00:22:17,083
+- Sergent Siler?
+- Je m'y mets tout de suite, mon général.
+
+555
+00:22:17,083 --> 00:22:18,807
+ 
+
+556
+00:22:18,807 --> 00:22:21,002
+Docteur, vous n'approuvez pas.
+
+557
+00:22:21,002 --> 00:22:21,967
+ 
+
+558
+00:22:21,967 --> 00:22:27,087
+Vous avez dit ne pas vouloir épuiser nos
+ressources pour remporter une guerre.
+
+559
+00:22:27,087 --> 00:22:27,167
+ 
+
+560
+00:22:27,167 --> 00:22:30,955
+Je parlais évidemment en termes de
+ressources militaires. De vies humaines.
+
+561
+00:22:30,955 --> 00:22:31,047
+ 
+
+562
+00:22:31,047 --> 00:22:33,515
+- Mais il y avait une question morale.
+- Oui.
+
+563
+00:22:33,515 --> 00:22:33,607
+ 
+
+564
+00:22:33,607 --> 00:22:39,603
+Mais si nous leur offrons de l'eau,
+la question morale s'évapore?
+
+565
+00:22:39,603 --> 00:22:42,367
+ 
+
+566
+00:22:42,367 --> 00:22:46,406
+Je ne devrais pas avoir à vous
+rappeler qu'Apophis est vivant,
+
+567
+00:22:46,406 --> 00:22:46,487
+ 
+
+568
+00:22:46,487 --> 00:22:51,083
+et capable de nous éliminer de la surface
+de la Terre comme bon lui semble.
+
+569
+00:22:51,083 --> 00:22:51,167
+ 
+
+570
+00:22:51,167 --> 00:22:54,921
+Cette organisation a reçu
+pour mandat d'empêcher une telle chose.
+
+571
+00:22:54,921 --> 00:22:55,007
+ 
+
+572
+00:22:55,007 --> 00:22:57,237
+Je comprends. Je comprends.
+
+573
+00:22:57,237 --> 00:23:03,527
+ 
+
+574
+00:23:03,527 --> 00:23:06,678
+Nous en savons peu.
+Pourquoi se battent-ils?
+
+575
+00:23:06,678 --> 00:23:06,767
+ 
+
+576
+00:23:06,767 --> 00:23:09,679
+- Pour leur vie.
+- Et j'étais pour qu'on leur sauve la vie.
+
+577
+00:23:09,679 --> 00:23:09,767
+ 
+
+578
+00:23:09,767 --> 00:23:13,043
+Mais nous sommes en train
+d'aller trop loin.
+
+579
+00:23:13,043 --> 00:23:13,127
+ 
+
+580
+00:23:13,127 --> 00:23:16,563
+Nous sommes sur le point d'enrayer
+une guerre dont nous ne savons rien,
+
+581
+00:23:16,563 --> 00:23:16,647
+ 
+
+582
+00:23:16,647 --> 00:23:19,480
+contre un ennemi
+qui nous est totalement inconnu.
+
+583
+00:23:19,480 --> 00:23:19,567
+ 
+
+584
+00:23:19,567 --> 00:23:25,085
+C'est certes le moyen d'apprendre
+des technologies. Mais est-ce moral?
+
+585
+00:23:25,085 --> 00:23:25,167
+ 
+
+586
+00:23:25,167 --> 00:23:27,123
+Bonne question, mon général.
+
+587
+00:23:27,123 --> 00:23:29,087
+ 
+
+588
+00:23:29,087 --> 00:23:31,647
+Oui.
+
+589
+00:23:31,647 --> 00:23:34,567
+ 
+
+590
+00:23:34,567 --> 00:23:39,687
+Envoyez une formation vers l'ouest. Des
+bombardiers se regroupent. Ce sera long?
+
+591
+00:23:39,687 --> 00:23:39,767
+ 
+
+592
+00:23:39,767 --> 00:23:42,201
+Carter and Jackson seront là au plus vite.
+
+593
+00:23:42,201 --> 00:23:42,287
+ 
+
+594
+00:23:42,287 --> 00:23:44,039
+lls sont trop nombreux.
+
+595
+00:23:44,039 --> 00:23:44,127
+ 
+
+596
+00:23:44,127 --> 00:23:46,641
+- Deux autres pilotes seraient utiles?
+- Oui.
+
+597
+00:23:46,641 --> 00:23:54,247
+ 
+
+598
+00:23:54,247 --> 00:23:57,398
+Escadrille de chasse,
+pont numéro 3. Cible.
+
+599
+00:23:57,398 --> 00:23:58,847
+ 
+
+600
+00:23:58,847 --> 00:24:01,919
+Bombardiers ennemis en vue,
+relèvement de zéro.
+
+601
+00:24:01,919 --> 00:24:02,007
+ 
+
+602
+00:24:02,007 --> 00:24:03,440
+Je les vois.
+
+603
+00:24:03,440 --> 00:24:10,967
+ 
+
+604
+00:24:10,967 --> 00:24:13,765
+- C'est tout ce que vous avez amené?
+- Au pied levé, oui.
+
+605
+00:24:13,765 --> 00:24:13,847
+ 
+
+606
+00:24:13,847 --> 00:24:16,122
+- ll n'y en a que pour un jour.
+- D'autre arrive.
+
+607
+00:24:16,122 --> 00:24:16,207
+ 
+
+608
+00:24:16,207 --> 00:24:18,596
+Nous avons amené
+ce que nous avons pu au plus vite.
+
+609
+00:24:18,596 --> 00:24:18,687
+ 
+
+610
+00:24:18,687 --> 00:24:21,884
+- ll y en aura d'autre, c'est sûr?
+- Beaucoup plus, oui.
+
+611
+00:24:21,884 --> 00:24:21,967
+ 
+
+612
+00:24:21,967 --> 00:24:25,198
+Alimentez les réacteurs.
+Poussez le champ d'énergie au maximum.
+
+613
+00:24:25,198 --> 00:24:25,287
+ 
+
+614
+00:24:25,287 --> 00:24:30,680
+Une démonstration pour l'ennemi. Qu'il
+voie que nous avons retrouvé notre force.
+
+615
+00:24:30,680 --> 00:24:32,847
+ 
+
+616
+00:24:32,847 --> 00:24:34,883
+Nous avons des questions.
+
+617
+00:24:34,883 --> 00:24:34,967
+ 
+
+618
+00:24:34,967 --> 00:24:40,360
+Oui. Dès que l'attaque est finie, nous vous
+donnons ce que nous vous avons promis.
+
+619
+00:24:40,360 --> 00:24:41,727
+ 
+
+620
+00:24:41,727 --> 00:24:44,082
+Venez. Nous ne sommes pas en sécurité.
+
+621
+00:24:44,082 --> 00:24:47,607
+ 
+
+622
+00:24:47,607 --> 00:24:50,360
+- Bombardiers sur la ville.
+- Teal'c, vise celui en tête.
+
+623
+00:24:50,360 --> 00:24:50,447
+ 
+
+624
+00:24:50,447 --> 00:24:53,200
+- Je m'occupe de l'autre.
+- Je l'ai, O'Neill.
+
+625
+00:24:53,200 --> 00:25:21,207
+ 
+
+626
+00:25:21,207 --> 00:25:24,597
+- ça semblait proche.
+- Au-dessus de nous, dans la vieille ville.
+
+627
+00:25:24,597 --> 00:25:24,687
+ 
+
+628
+00:25:24,687 --> 00:25:30,683
+Voyez une autre merveille que nous
+partagerons en signe de gratitude.
+
+629
+00:25:30,683 --> 00:25:31,047
+ 
+
+630
+00:25:31,047 --> 00:25:35,757
+Le générateur d'énergie peut repousser
+la force de bombes tel un bouclier géant.
+
+631
+00:25:35,757 --> 00:25:35,847
+ 
+
+632
+00:25:35,847 --> 00:25:40,318
+ll a sauvé mon peuple
+de la destruction toute ma vie durant.
+
+633
+00:25:40,318 --> 00:25:43,167
+ 
+
+634
+00:25:43,167 --> 00:25:47,604
+Vous voyez? Votre combustible
+a permis de le renforcer encore plus.
+
+635
+00:25:47,604 --> 00:25:48,447
+ 
+
+636
+00:25:48,447 --> 00:25:50,722
+ça durera combien de temps?
+
+637
+00:25:50,722 --> 00:25:50,807
+ 
+
+638
+00:25:50,807 --> 00:25:52,957
+Plusieurs heures.
+
+639
+00:25:52,957 --> 00:25:53,047
+ 
+
+640
+00:25:53,047 --> 00:25:56,926
+Je suis sûre que nous pourrons
+acheminer de l'eau dure d'ici là.
+
+641
+00:25:56,926 --> 00:26:01,567
+ 
+
+642
+00:26:01,567 --> 00:26:03,797
+Le mien part en rase-mottes.
+
+643
+00:26:03,797 --> 00:26:23,047
+ 
+
+644
+00:26:23,047 --> 00:26:25,038
+Nom de Dieu.
+
+645
+00:26:25,038 --> 00:26:27,327
+ 
+
+646
+00:26:27,327 --> 00:26:31,240
+- O'Neill, ça va?
+- Bombardier ennemi détruit.
+
+647
+00:26:31,240 --> 00:26:32,207
+ 
+
+648
+00:26:32,207 --> 00:26:33,481
+Qu'est-ce que c'était?
+
+649
+00:26:33,481 --> 00:26:33,567
+ 
+
+650
+00:26:33,567 --> 00:26:36,400
+Votre avion de chasse
+a percuté un bombardier de front.
+
+651
+00:26:36,400 --> 00:26:36,487
+ 
+
+652
+00:26:36,487 --> 00:26:40,560
+J'ai vu des gens là-dedans.
+Vous disiez qu'ils étaient automatisés.
+
+653
+00:26:40,560 --> 00:26:40,647
+ 
+
+654
+00:26:40,647 --> 00:26:43,366
+J'ai dit que le vaisseau
+de reconnaissance l'était.
+
+655
+00:26:43,366 --> 00:26:43,447
+ 
+
+656
+00:26:43,447 --> 00:26:46,678
+C'était une cible facile,
+idéale pour une démonstration.
+
+657
+00:26:46,678 --> 00:26:46,767
+ 
+
+658
+00:26:46,767 --> 00:26:49,076
+Mais leurs bombardiers sont pilotés.
+
+659
+00:26:49,076 --> 00:26:49,167
+ 
+
+660
+00:26:49,167 --> 00:26:53,957
+Vous avez abattu plusieurs ennemis,
+et nous vous en sommes reconnaissants.
+
+661
+00:26:53,957 --> 00:27:07,207
+ 
+
+662
+00:27:07,207 --> 00:27:09,437
+A sa mémoire.
+
+663
+00:27:09,437 --> 00:27:14,207
+ 
+
+664
+00:27:14,207 --> 00:27:17,165
+A la mémoire de qui portez-vous un toast?
+
+665
+00:27:17,165 --> 00:27:17,247
+ 
+
+666
+00:27:17,247 --> 00:27:21,877
+De mon père.
+Grâce à sa vision, notre nation a survécu.
+
+667
+00:27:21,877 --> 00:27:22,487
+ 
+
+668
+00:27:22,487 --> 00:27:24,955
+Je vois.
+
+669
+00:27:24,955 --> 00:27:28,207
+ 
+
+670
+00:27:28,207 --> 00:27:33,918
+ll est coutume pour nous de donner une
+formalité aux alliances comme la nôtre.
+
+671
+00:27:33,918 --> 00:27:35,047
+ 
+
+672
+00:27:35,047 --> 00:27:39,598
+En échange de nos connaissances,
+technologies, traitements médicaux,
+
+673
+00:27:39,598 --> 00:27:40,207
+ 
+
+674
+00:27:40,207 --> 00:27:42,277
+la Terre nous donnera
+
+675
+00:27:42,277 --> 00:27:42,367
+ 
+
+676
+00:27:42,367 --> 00:27:47,839
+autant d'eau lourde que nécessaire afin
+d'en finir pour de bon avec cette guerre.
+
+677
+00:27:47,839 --> 00:27:49,127
+ 
+
+678
+00:27:49,127 --> 00:27:53,803
+Ne vous inquiétez pas. ll ne faut que 3 ou
+4 fois ce que vous venez de nous donner,
+
+679
+00:27:53,803 --> 00:27:53,887
+ 
+
+680
+00:27:53,887 --> 00:27:55,878
+par jour.
+
+681
+00:27:55,878 --> 00:27:55,967
+ 
+
+682
+00:27:55,967 --> 00:27:58,527
+ça fait plusieurs tonnes par an,
+mon colonel.
+
+683
+00:27:58,527 --> 00:27:58,607
+ 
+
+684
+00:27:58,607 --> 00:28:02,316
+Qu'est-ce par rapport
+à ce que nous vous offrons?
+
+685
+00:28:02,316 --> 00:28:02,407
+ 
+
+686
+00:28:02,407 --> 00:28:04,398
+Alar, écoutez.
+
+687
+00:28:04,398 --> 00:28:09,767
+ 
+
+688
+00:28:09,767 --> 00:28:11,962
+- Quoi?
+- Le silence.
+
+689
+00:28:11,962 --> 00:28:13,407
+ 
+
+690
+00:28:13,407 --> 00:28:15,716
+J'ai du mal à l'entendre.
+
+691
+00:28:15,716 --> 00:28:15,807
+ 
+
+692
+00:28:15,807 --> 00:28:21,439
+A son maximum, le champ d'énergie nous
+protège autant que lorsque j'étais enfant.
+
+693
+00:28:21,439 --> 00:28:22,167
+ 
+
+694
+00:28:22,167 --> 00:28:26,797
+Je propose que nous mettions par écrit
+ce que nous partageons dans nos coeurs.
+
+695
+00:28:26,797 --> 00:28:27,527
+ 
+
+696
+00:28:27,527 --> 00:28:30,519
+Avant ça, j'aurais une question à poser.
+
+697
+00:28:30,519 --> 00:28:30,607
+ 
+
+698
+00:28:30,607 --> 00:28:32,837
+Le général Hammond aussi
+voudrait savoir.
+
+699
+00:28:32,837 --> 00:28:32,927
+ 
+
+700
+00:28:32,927 --> 00:28:35,487
+Aucun problème, colonel.
+ça ne me gêne pas.
+
+701
+00:28:35,487 --> 00:28:36,247
+ 
+
+702
+00:28:36,247 --> 00:28:38,442
+Comment cette guerre
+a-t-elle commencé?
+
+703
+00:28:38,442 --> 00:28:39,447
+ 
+
+704
+00:28:39,447 --> 00:28:44,282
+La première bombe ennemie
+a frappé Euronda par surprise.
+
+705
+00:28:44,282 --> 00:28:45,287
+ 
+
+706
+00:28:45,287 --> 00:28:49,280
+J'avais alors neuf ans.
+Je me souviens de cette nuit-là.
+
+707
+00:28:49,280 --> 00:28:49,527
+ 
+
+708
+00:28:49,527 --> 00:28:54,681
+Je me souviens que le sol de la pièce
+dans laquelle mon père m'avait cloîtré
+
+709
+00:28:54,681 --> 00:28:54,767
+ 
+
+710
+00:28:54,767 --> 00:28:56,883
+tremblait à chaque explosion.
+
+711
+00:28:56,883 --> 00:28:56,967
+ 
+
+712
+00:28:56,967 --> 00:29:01,677
+Je savais qu'à chaque fois
+qu'un bombardier parvenait à passer,
+
+713
+00:29:01,677 --> 00:29:01,967
+ 
+
+714
+00:29:01,967 --> 00:29:06,279
+un autre bâtiment, une autre demeure,
+
+715
+00:29:06,279 --> 00:29:07,327
+ 
+
+716
+00:29:07,327 --> 00:29:10,842
+une autre rue de la ville disparaissait.
+
+717
+00:29:10,842 --> 00:29:12,287
+ 
+
+718
+00:29:12,287 --> 00:29:16,075
+C'est ainsi que la guerre a commencé,
+docteur.
+
+719
+00:29:16,075 --> 00:29:16,807
+ 
+
+720
+00:29:16,807 --> 00:29:19,241
+Tout ce que l'on a, c'est votre parole.
+
+721
+00:29:19,241 --> 00:29:19,807
+ 
+
+722
+00:29:19,807 --> 00:29:25,564
+Trois de nos meilleurs hommes sont
+morts en essayant de rejoindre la Terre.
+
+723
+00:29:25,564 --> 00:29:25,647
+ 
+
+724
+00:29:25,647 --> 00:29:29,606
+- C'était un accident.
+- Nous n'avons que votre parole.
+
+725
+00:29:29,606 --> 00:29:35,487
+ 
+
+726
+00:29:35,487 --> 00:29:37,876
+D'autres questions, Daniel?
+
+727
+00:29:37,876 --> 00:29:38,167
+ 
+
+728
+00:29:38,167 --> 00:29:41,204
+Oui. J'aimerais
+en savoir plus sur votre ennemi.
+
+729
+00:29:41,204 --> 00:29:42,287
+ 
+
+730
+00:29:42,287 --> 00:29:45,643
+Est-ce ainsi que vous négociez, colonel?
+
+731
+00:29:45,643 --> 00:29:45,727
+ 
+
+732
+00:29:45,727 --> 00:29:46,842
+Normalement, non.
+
+733
+00:29:46,842 --> 00:29:46,927
+ 
+
+734
+00:29:46,927 --> 00:29:50,522
+Que pouvons-nous
+vous promettre de plus?
+
+735
+00:29:50,522 --> 00:29:50,767
+ 
+
+736
+00:29:50,767 --> 00:29:53,281
+Pourquoi ne pas répondre
+simplement à la question?
+
+737
+00:29:53,281 --> 00:29:53,367
+ 
+
+738
+00:29:53,367 --> 00:29:56,916
+- Colonel, avons-nous passé un accord?
+- Oui.
+
+739
+00:29:56,916 --> 00:29:57,007
+ 
+
+740
+00:29:57,007 --> 00:29:59,965
+- Jack.
+- Daniel... tais-toi.
+
+741
+00:29:59,965 --> 00:30:03,207
+ 
+
+742
+00:30:03,207 --> 00:30:05,402
+C'est assez clair?
+
+743
+00:30:05,402 --> 00:30:10,607
+ 
+
+744
+00:30:10,607 --> 00:30:15,158
+Monsieur, je souhaiterais jeter un oeil
+à leur technologie de la fusion.
+
+745
+00:30:15,158 --> 00:30:15,247
+ 
+
+746
+00:30:15,247 --> 00:30:16,885
+D'accord.
+
+747
+00:30:16,885 --> 00:30:16,967
+ 
+
+748
+00:30:16,967 --> 00:30:20,164
+C'est avec plaisir
+que je vous guiderai personnellement.
+
+749
+00:30:20,164 --> 00:30:30,127
+ 
+
+750
+00:30:30,127 --> 00:30:35,281
+On m'a dit que vous aviez abattu
+un bombardier ennemi, colonel. Bravo.
+
+751
+00:30:35,281 --> 00:30:35,367
+ 
+
+752
+00:30:35,367 --> 00:30:39,758
+- Peut-être recommencerez-vous.
+- Je ne crois pas.
+
+753
+00:30:39,758 --> 00:30:39,847
+ 
+
+754
+00:30:39,847 --> 00:30:45,399
+Si ce sont les victimes le problème,
+n'oubliez pas: ce sont vos ennemis aussi.
+
+755
+00:30:45,399 --> 00:30:46,727
+ 
+
+756
+00:30:46,727 --> 00:30:49,036
+J'attends votre retour avec impatience.
+
+757
+00:30:49,036 --> 00:30:49,967
+ 
+
+758
+00:30:49,967 --> 00:30:55,200
+ça me fait penser -
+ce serait mieux si le Jaffa ne revenait pas.
+
+759
+00:30:55,200 --> 00:30:56,247
+ 
+
+760
+00:30:56,247 --> 00:30:59,080
+Teal'c? Pourquoi? ll n'a pas dit un mot.
+
+761
+00:30:59,080 --> 00:30:59,847
+ 
+
+762
+00:30:59,847 --> 00:31:03,681
+Ce n'est pas ce qu'il dit. C'est ce qu'il est.
+
+763
+00:31:03,681 --> 00:31:05,207
+ 
+
+764
+00:31:05,207 --> 00:31:09,678
+- ll est différent. Je vous l'accorde.
+- Pas comme nous.
+
+765
+00:31:09,678 --> 00:31:14,087
+ 
+
+766
+00:31:14,087 --> 00:31:16,078
+Bien.
+
+767
+00:31:16,078 --> 00:31:17,247
+ 
+
+768
+00:31:17,247 --> 00:31:19,238
+Commandant Carter, après vous.
+
+769
+00:31:19,238 --> 00:31:28,647
+ 
+
+770
+00:31:28,647 --> 00:31:30,842
+Nous ne partons pas.
+
+771
+00:31:30,842 --> 00:31:31,847
+ 
+
+772
+00:31:31,847 --> 00:31:33,246
+Pourquoi?
+
+773
+00:31:33,246 --> 00:31:33,327
+ 
+
+774
+00:31:33,327 --> 00:31:36,239
+Teal'c et moi allons d'abord faire un tour.
+
+775
+00:31:36,239 --> 00:31:36,327
+ 
+
+776
+00:31:36,327 --> 00:31:39,000
+Toi, pose des questions.
+
+777
+00:31:39,000 --> 00:31:39,927
+ 
+
+778
+00:31:39,927 --> 00:31:42,885
+- Mais tu m'as dit de...
+- Je sais ce que j'ai dit, Daniel.
+
+779
+00:31:42,885 --> 00:31:42,967
+ 
+
+780
+00:31:42,967 --> 00:31:45,925
+C'était grossier, irréfléchi et je m'excuse.
+
+781
+00:31:45,925 --> 00:31:47,047
+ 
+
+782
+00:31:47,047 --> 00:31:49,561
+Hé bien, merci de l'admettre.
+
+783
+00:31:49,561 --> 00:31:49,647
+ 
+
+784
+00:31:49,647 --> 00:31:51,717
+Voilà ce que je dis maintenant.
+
+785
+00:31:51,717 --> 00:31:51,807
+ 
+
+786
+00:31:51,807 --> 00:31:55,482
+Va poser des questions.
+Des tas de questions.
+
+787
+00:31:55,482 --> 00:32:05,447
+ 
+
+788
+00:32:05,447 --> 00:32:10,726
+Un seul réacteur peut générer
+assez d'énergie pour toute l'infrastructure.
+
+789
+00:32:10,726 --> 00:32:10,807
+ 
+
+790
+00:32:10,807 --> 00:32:13,879
+Je suppose que vous extrayez
+le deutérium des eaux marines.
+
+791
+00:32:13,879 --> 00:32:14,087
+ 
+
+792
+00:32:14,087 --> 00:32:17,238
+Oui. Les océans couvrent 70 %/% de la Terre
+
+793
+00:32:17,238 --> 00:32:17,327
+ 
+
+794
+00:32:17,327 --> 00:32:21,036
+donc la production d'eau lourde
+ne devrait pas poser de problème.
+
+795
+00:32:21,036 --> 00:32:21,127
+ 
+
+796
+00:32:21,127 --> 00:32:25,996
+La mer d'où nous extrayions notre
+''eau lourde'', comme vous l'appelez,
+
+797
+00:32:25,996 --> 00:32:26,087
+ 
+
+798
+00:32:26,087 --> 00:32:29,841
+est désormais entre les mains de
+l'ennemi, à des kilomètres d'ici.
+
+799
+00:32:29,841 --> 00:32:30,527
+ 
+
+800
+00:32:30,527 --> 00:32:34,202
+Comme vous le voyez,
+les réservoirs sont presque vides.
+
+801
+00:32:34,202 --> 00:32:36,927
+ 
+
+802
+00:32:36,927 --> 00:32:41,079
+Vous devez avoir construit cet endroit
+bien avant le début de la guerre.
+
+803
+00:32:41,079 --> 00:32:41,167
+ 
+
+804
+00:32:41,167 --> 00:32:42,646
+La guerre était inévitable.
+
+805
+00:32:42,646 --> 00:32:42,727
+ 
+
+806
+00:32:42,727 --> 00:32:46,037
+Combien de temps pensiez-vous
+devoir rester sous terre?
+
+807
+00:32:46,037 --> 00:32:46,127
+ 
+
+808
+00:32:46,127 --> 00:32:48,800
+Jusqu'à ce que l'atmosphère
+ne soit plus contaminée.
+
+809
+00:32:48,800 --> 00:32:50,447
+ 
+
+810
+00:32:50,447 --> 00:32:52,438
+Excusez-moi.
+
+811
+00:32:52,438 --> 00:33:05,927
+ 
+
+812
+00:33:05,927 --> 00:33:10,125
+- Que penses-tu d'Alar?
+- ll cache quelque chose.
+
+813
+00:33:10,125 --> 00:33:10,207
+ 
+
+814
+00:33:10,207 --> 00:33:13,438
+- Comme quoi?
+- Je ne sais pas trop. Mais il le cache.
+
+815
+00:33:13,438 --> 00:33:44,687
+ 
+
+816
+00:33:44,687 --> 00:33:47,076
+Qu'est-ce que c'est, O'Neill?
+
+817
+00:33:47,076 --> 00:33:49,207
+ 
+
+818
+00:33:49,207 --> 00:33:51,402
+lls sont identiques.
+
+819
+00:33:51,402 --> 00:33:57,927
+ 
+
+820
+00:33:57,927 --> 00:34:00,282
+lls sont tous identiques.
+
+821
+00:34:00,282 --> 00:34:16,807
+ 
+
+822
+00:34:16,807 --> 00:34:19,367
+- Farrell.
+- Docteur.
+
+823
+00:34:19,367 --> 00:34:19,447
+ 
+
+824
+00:34:19,447 --> 00:34:22,166
+J'ai pensé que, puisqu'on va être alliés,
+
+825
+00:34:22,166 --> 00:34:22,247
+ 
+
+826
+00:34:22,247 --> 00:34:27,002
+on devrait en apprendre
+un peu plus sur notre nouvel ennemi.
+
+827
+00:34:27,002 --> 00:34:30,527
+ 
+
+828
+00:34:30,527 --> 00:34:31,801
+D'accord.
+
+829
+00:34:31,801 --> 00:34:32,887
+ 
+
+830
+00:34:32,887 --> 00:34:35,401
+Bon, vous les appelez ''l'ennemi''.
+
+831
+00:34:35,401 --> 00:34:36,727
+ 
+
+832
+00:34:36,727 --> 00:34:41,243
+C'est compréhensible - ils sont l'ennemi.
+Mais ils doivent bien avoir un nom.
+
+833
+00:34:41,243 --> 00:34:41,847
+ 
+
+834
+00:34:41,847 --> 00:34:44,520
+Moi, je suis américain.
+Mon grand-père, hollandais.
+
+835
+00:34:44,520 --> 00:34:44,607
+ 
+
+836
+00:34:44,607 --> 00:34:46,643
+Comment les appelez-vous?
+
+837
+00:34:46,643 --> 00:34:47,327
+ 
+
+838
+00:34:47,327 --> 00:34:49,716
+Parfois nous les appelons
+les ''reproducteurs''.
+
+839
+00:34:49,716 --> 00:34:49,807
+ 
+
+840
+00:34:49,807 --> 00:34:52,844
+- Les reproducteurs?
+- A cause de leur mode de reproduction.
+
+841
+00:34:52,844 --> 00:34:52,927
+ 
+
+842
+00:34:52,927 --> 00:34:56,840
+Sans discrimination.
+Au mépris de la pureté génétique.
+
+843
+00:34:56,840 --> 00:34:57,767
+ 
+
+844
+00:34:57,767 --> 00:35:01,442
+Vraiment? Donc en fait,
+ils ont différentes formes et tailles.
+
+845
+00:35:01,442 --> 00:35:01,767
+ 
+
+846
+00:35:01,767 --> 00:35:03,120
+Oui.
+
+847
+00:35:03,120 --> 00:35:03,327
+ 
+
+848
+00:35:03,327 --> 00:35:05,682
+- Et couleurs?
+- Oui.
+
+849
+00:35:05,682 --> 00:35:07,487
+ 
+
+850
+00:35:07,487 --> 00:35:09,478
+Vraiment?
+
+851
+00:35:09,478 --> 00:35:14,327
+ 
+
+852
+00:35:14,327 --> 00:35:18,240
+Ce cylindre de stockage contient des
+plans, des instructions et des formules
+
+853
+00:35:18,240 --> 00:35:18,327
+ 
+
+854
+00:35:18,327 --> 00:35:21,364
+sur lesquels est basée notre technologie.
+
+855
+00:35:21,364 --> 00:35:21,447
+ 
+
+856
+00:35:21,447 --> 00:35:25,440
+Nous trouverons ensemble le moyen
+de transférer tout ça sur vos ordinateurs.
+
+857
+00:35:25,440 --> 00:35:25,527
+ 
+
+858
+00:35:25,527 --> 00:35:29,839
+Alar, ces tuyaux partent du niveau
+le plus profond pour atteindre la surface.
+
+859
+00:35:29,839 --> 00:35:30,327
+ 
+
+860
+00:35:30,327 --> 00:35:31,680
+Oui.
+
+861
+00:35:31,680 --> 00:35:31,767
+ 
+
+862
+00:35:31,767 --> 00:35:35,919
+Mais vous avez dit que l'atmosphère
+était contaminée. ça ne tient pas debout.
+
+863
+00:35:35,919 --> 00:35:37,167
+ 
+
+864
+00:35:37,167 --> 00:35:40,716
+- Des bombardiers ennemis approchent.
+- Engagez le combat.
+
+865
+00:35:40,716 --> 00:35:49,927
+ 
+
+866
+00:35:49,927 --> 00:35:51,360
+- Jack.
+- Tu as trouvé quoi?
+
+867
+00:35:51,360 --> 00:35:51,447
+ 
+
+868
+00:35:51,447 --> 00:35:55,884
+C'est eux qui ont déclenché la guerre.
+Comment, je ne sais pas, mais c'est eux.
+
+869
+00:35:55,884 --> 00:36:00,687
+ 
+
+870
+00:36:00,687 --> 00:36:03,155
+- Où est le combustible?
+- ll y a du retard.
+
+871
+00:36:03,155 --> 00:36:03,247
+ 
+
+872
+00:36:03,247 --> 00:36:06,239
+L'ennemi attaque en force.
+ll nous faut ce combustible.
+
+873
+00:36:06,239 --> 00:36:06,327
+ 
+
+874
+00:36:06,327 --> 00:36:12,197
+ll faut gagner du temps. Teal'c et moi
+pouvons vous aider à les repousser.
+
+875
+00:36:12,197 --> 00:36:14,207
+ 
+
+876
+00:36:14,207 --> 00:36:16,198
+Allez-y.
+
+877
+00:36:16,198 --> 00:36:28,847
+ 
+
+878
+00:36:28,847 --> 00:36:30,838
+Reste à côté de moi, Teal'c.
+
+879
+00:36:30,838 --> 00:36:31,447
+ 
+
+880
+00:36:31,447 --> 00:36:35,156
+C'était une attaque préventive.
+Quand vos ennemis vous ont bombardés,
+
+881
+00:36:35,156 --> 00:36:35,247
+ 
+
+882
+00:36:35,247 --> 00:36:39,399
+- ils essayaient de vous arrêter.
+- Ce n'est pas le moment, commandant.
+
+883
+00:36:39,399 --> 00:36:40,807
+ 
+
+884
+00:36:40,807 --> 00:36:43,002
+Le champ d'énergie
+est au niveau minimal.
+
+885
+00:36:43,002 --> 00:36:43,087
+ 
+
+886
+00:36:43,087 --> 00:36:45,760
+Transférez l'énergie
+de la chambre de stase.
+
+887
+00:36:45,760 --> 00:36:48,967
+ 
+
+888
+00:36:48,967 --> 00:36:53,165
+lls ont construit cet endroit bien avant la
+guerre. lls avaient tout prévu dès le début.
+
+889
+00:36:53,165 --> 00:36:53,247
+ 
+
+890
+00:36:53,247 --> 00:36:55,283
+Mais comment gagner
+en étant sous terre?
+
+891
+00:36:55,283 --> 00:36:55,367
+ 
+
+892
+00:36:55,367 --> 00:36:59,360
+D'énormes tuyaux de gaz partent de
+réservoirs situés sous cette infrastructure
+
+893
+00:36:59,360 --> 00:36:59,447
+ 
+
+894
+00:36:59,447 --> 00:37:01,961
+- et arrivent à la surface.
+- Qui est contaminée.
+
+895
+00:37:01,961 --> 00:37:02,047
+ 
+
+896
+00:37:02,047 --> 00:37:05,164
+ll ne s'agit pas que d'une guerre.
+lls voulaient les exterminer.
+
+897
+00:37:05,164 --> 00:37:05,247
+ 
+
+898
+00:37:05,247 --> 00:37:07,124
+C'était sa vision.
+
+899
+00:37:07,124 --> 00:37:07,567
+ 
+
+900
+00:37:07,567 --> 00:37:13,039
+Mon père voyait que les reproducteurs
+se multipliaient comme une épidémie.
+
+901
+00:37:13,039 --> 00:37:13,127
+ 
+
+902
+00:37:13,127 --> 00:37:14,799
+Par millions.
+
+903
+00:37:14,799 --> 00:37:14,887
+ 
+
+904
+00:37:14,887 --> 00:37:17,765
+On ne sait comment
+ils survivent en si grand nombre.
+
+905
+00:37:17,765 --> 00:37:17,967
+ 
+
+906
+00:37:17,967 --> 00:37:21,039
+Mais ils y parviennent
+malgré tous nos efforts.
+
+907
+00:37:21,039 --> 00:37:22,207
+ 
+
+908
+00:37:22,207 --> 00:37:27,235
+Contactez votre général Hammond. ll
+nous faut ce combustible immédiatement.
+
+909
+00:37:27,235 --> 00:37:28,407
+ 
+
+910
+00:37:28,407 --> 00:37:30,398
+On ne va pas faire ça.
+
+911
+00:37:30,398 --> 00:37:31,287
+ 
+
+912
+00:37:31,287 --> 00:37:33,278
+Soldats.
+
+913
+00:37:33,278 --> 00:37:33,847
+ 
+
+914
+00:37:33,847 --> 00:37:36,281
+Contactez votre général Hammond.
+
+915
+00:37:36,281 --> 00:38:07,567
+ 
+
+916
+00:38:07,567 --> 00:38:09,637
+lls escortent les bombardiers ennemis.
+
+917
+00:38:09,637 --> 00:38:09,727
+ 
+
+918
+00:38:09,727 --> 00:38:12,799
+- ll attaque nos avions.
+- Arrêtez-le.
+
+919
+00:38:12,799 --> 00:39:08,167
+ 
+
+920
+00:39:08,167 --> 00:39:12,797
+- Vous auriez pu tout avoir.
+- Je ne nous suivrais pas si j'étais vous.
+
+921
+00:39:12,797 --> 00:39:35,407
+ 
+
+922
+00:39:35,407 --> 00:39:37,398
+Non.
+
+923
+00:39:37,398 --> 00:39:43,127
+ 
+
+924
+00:39:43,127 --> 00:39:45,118
+En avant.
+
+925
+00:39:45,118 --> 00:40:05,607
+ 
+
+926
+00:40:05,607 --> 00:40:07,598
+Attendez.
+
+927
+00:40:07,598 --> 00:40:10,087
+ 
+
+928
+00:40:10,087 --> 00:40:13,841
+Je peux vous apprendre tout ce que
+je sais. Laissez-moi vous accompagner.
+
+929
+00:40:13,841 --> 00:40:15,207
+ 
+
+930
+00:40:15,207 --> 00:40:17,084
+Je vous en prie.
+
+931
+00:40:17,084 --> 00:40:28,087
+ 
+
+932
+00:40:28,087 --> 00:40:30,476
+- Fermez l'iris.
+- Allez-y.
+
+933
+00:40:30,476 --> 00:40:42,967
+ 
+
+934
+00:40:42,967 --> 00:40:47,245
+Colonel, je suppose que vous n'avez pas
+pu obtenir les technologies eurondans.
+
+935
+00:40:47,245 --> 00:40:47,327
+ 
+
+936
+00:40:47,327 --> 00:40:49,318
+C'est exact, général.
+
+937
+00:40:49,318 --> 00:40:51,367
+ 
+
+938
+00:40:51,367 --> 00:40:53,358
+Je suis navré de l'apprendre.
+
+939
+00:40:53,358 --> 00:40:54,767
+ 
+
+940
+00:40:54,767 --> 00:40:56,758
+Ne le soyez pas.
+
+941
+00:40:56,758 --> 00:40:58,247
+ 
+
+942
+00:40:58,247 --> 00:41:01,922
+- Rapport de mission dans une heure.

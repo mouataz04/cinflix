@@ -1,0 +1,2934 @@
+1
+00:00:09,151 --> 00:00:12,352  X1:214 X2:505 Y1:344 Y2:415
+The prototype has
+passed every test, sir.
+
+2
+00:00:12,392 --> 00:00:14,025  X1:276 X2:443 Y1:380 Y2:415
+It's working.
+
+3
+00:00:14,065 --> 00:00:16,503  X1:208 X2:511 Y1:488 Y2:523
+I hardly think "working"
+
+4
+00:00:16,543 --> 00:00:18,107  X1:232 X2:485 Y1:488 Y2:523
+is the correct word.
+
+5
+00:00:20,581 --> 00:00:24,774  X1:136 X2:583 Y1:488 Y2:523
+That would apply only to machines.
+
+6
+00:00:24,814 --> 00:00:28,221  X1:140 X2:579 Y1:488 Y2:523
+I'm sorry. I should say "it's alive".
+
+7
+00:00:30,289 --> 00:00:32,808  X1:198 X2:521 Y1:452 Y2:523
+Can it hear me?
+It might still be in shock.
+
+8
+00:00:32,848 --> 00:00:35,925  X1:150 X2:569 Y1:452 Y2:523
+Bear in mind the brain has
+been welded to the exoskeleton.
+
+9
+00:00:35,965 --> 00:00:38,962  X1:254 X2:465 Y1:488 Y2:523
+Skin of metal. . .
+
+10
+00:00:42,480 --> 00:00:47,432  X1:194 X2:525 Y1:452 Y2:523
+. .and a body
+that will never age or die.
+
+11
+00:00:47,472 --> 00:00:51,384  X1:180 X2:539 Y1:488 Y2:523
+I envy it. Do you know me?
+
+12
+00:00:51,424 --> 00:00:53,345  X1:302 X2:417 Y1:488 Y2:523
+Answer.
+
+13
+00:00:53,385 --> 00:00:55,661  X1:242 X2:477 Y1:488 Y2:523
+Do you know me?
+
+14
+00:00:55,701 --> 00:00:58,983  X1:230 X2:489 Y1:488 Y2:523
+You are John Lumic.
+
+15
+00:01:00,498 --> 00:01:02,016  X1:296 X2:423 Y1:488 Y2:523
+My child.
+
+16
+00:01:02,056 --> 00:01:04,852  X1:184 X2:533 Y1:488 Y2:523
+Mark this day, Dr Kendrick.
+
+17
+00:01:04,892 --> 00:01:06,809  X1:252 X2:465 Y1:488 Y2:523
+We are blessed.
+
+18
+00:01:06,849 --> 00:01:10,447  X1:154 X2:565 Y1:452 Y2:523
+Well, it's not quite over yet, sir.
+We need Geneva's approval.
+
+19
+00:01:10,487 --> 00:01:15,284  X1:150 X2:567 Y1:416 Y2:523
+Technically, this is a new
+form of life, and that
+contravenes the Bio-Convention.
+
+20
+00:01:15,324 --> 00:01:18,797  X1:202 X2:517 Y1:452 Y2:523
+They need to ratify this.
+And they will refuse me.
+
+21
+00:01:18,837 --> 00:01:20,595  X1:132 X2:587 Y1:488 Y2:523
+Nonetheless, we need to tell them.
+
+22
+00:01:20,635 --> 00:01:24,871  X1:160 X2:559 Y1:452 Y2:523
+And if I don't? Well, I'm sorry,
+sir, but it's my duty.
+
+23
+00:01:24,911 --> 00:01:26,786  X1:180 X2:539 Y1:488 Y2:523
+I shall have to inform them.
+
+24
+00:01:26,826 --> 00:01:31,462  X1:202 X2:517 Y1:452 Y2:523
+And how will you do that
+from beyond the grave?
+
+25
+00:01:31,502 --> 00:01:33,822  X1:200 X2:519 Y1:488 Y2:523
+I don't quite understand.
+
+26
+00:01:33,862 --> 00:01:36,279  X1:300 X2:419 Y1:488 Y2:523
+Kill him.
+
+27
+00:01:45,049 --> 00:01:47,608  X1:238 X2:481 Y1:488 Y2:523
+Captain! Yes, sir?
+
+28
+00:01:47,648 --> 00:01:50,125  X1:254 X2:463 Y1:488 Y2:523
+Inform all staff,
+
+29
+00:01:50,165 --> 00:01:53,202  X1:186 X2:533 Y1:488 Y2:523
+we have a new destination.
+
+30
+00:01:53,242 --> 00:01:56,524  X1:200 X2:519 Y1:488 Y2:523
+Set sail for Great Britain!
+
+31
+00:02:33,278 --> 00:02:36,794  X1:124 X2:593 Y1:308 Y2:379
+The munchkin lady with the big eyes.
+Remember how she looked at you?
+
+32
+00:02:36,834 --> 00:02:38,672  X1:188 X2:529 Y1:308 Y2:379
+Then she opens her mouth
+and fire comes out!
+
+33
+00:02:38,712 --> 00:02:40,232  X1:140 X2:579 Y1:380 Y2:415
+I thought I was gonna get frazzled!
+
+34
+00:02:40,272 --> 00:02:43,787  X1:140 X2:579 Y1:308 Y2:379
+Yeah, one minute she's
+standing there, next minute, roar!
+
+35
+00:02:43,827 --> 00:02:45,623  X1:100 X2:619 Y1:488 Y2:523
+Where was that, then? What happened?
+
+36
+00:02:45,663 --> 00:02:48,141  X1:228 X2:491 Y1:488 Y2:523
+Oh, it was on this. . .
+
+37
+00:02:48,181 --> 00:02:51,617  X1:144 X2:573 Y1:452 Y2:523
+this planet thing, asteroid. It's
+a long story, you had to be there.
+
+38
+00:02:51,657 --> 00:02:54,055  X1:130 X2:589 Y1:488 Y2:523
+Um. . . What are you doing that for?
+
+39
+00:02:54,095 --> 00:02:55,614  X1:232 X2:487 Y1:488 Y2:523
+Cos you told me to.
+
+40
+00:02:55,654 --> 00:02:57,931  X1:254 X2:465 Y1:488 Y2:523
+When was that?
+
+41
+00:02:57,971 --> 00:02:59,809  X1:208 X2:511 Y1:488 Y2:523
+About half an hour ago.
+
+42
+00:02:59,849 --> 00:03:03,870  X1:186 X2:533 Y1:488 Y2:523
+Um. . . You can let go now.
+
+43
+00:03:05,485 --> 00:03:08,042  X1:196 X2:521 Y1:452 Y2:523
+Well, how long's it been
+since I could've stopped?
+
+44
+00:03:08,082 --> 00:03:10,919  X1:238 X2:479 Y1:488 Y2:523
+10 minutes. 20. . .
+
+45
+00:03:10,959 --> 00:03:12,677  X1:332 X2:387 Y1:488 Y2:523
+29.
+
+46
+00:03:12,717 --> 00:03:15,274  X1:146 X2:573 Y1:452 Y2:523
+You just forgot me!
+No, no, no, I was just. . . I was. . .
+
+47
+00:03:15,314 --> 00:03:18,994  X1:138 X2:579 Y1:452 Y2:523
+I was calibrating. I was just. . .
+No, I know exactly what I'm doing.
+
+48
+00:03:31,256 --> 00:03:33,933  X1:188 X2:531 Y1:452 Y2:523
+What's happened?
+The time vortex, it's gone!
+
+49
+00:03:33,973 --> 00:03:36,151  X1:150 X2:567 Y1:488 Y2:523
+That's impossible, it's just gone!
+
+50
+00:03:38,611 --> 00:03:40,909  X1:134 X2:585 Y1:488 Y2:523
+Brace yourself! We're gonna crash!
+
+51
+00:03:46,601 --> 00:03:49,598  X1:130 X2:589 Y1:488 Y2:523
+Everyone all right? Rose? Mickey?
+
+52
+00:03:49,638 --> 00:03:51,281  X1:166 X2:553 Y1:488 Y2:523
+I'm fine. I'm OK, sorry, yeah.
+
+53
+00:03:55,468 --> 00:03:56,992  X1:280 X2:439 Y1:488 Y2:523
+She's dead.
+
+54
+00:03:59,627 --> 00:04:02,023  X1:236 X2:483 Y1:488 Y2:523
+The Tardis is dead.
+
+55
+00:04:02,063 --> 00:04:03,900  X1:268 X2:451 Y1:488 Y2:523
+You can fix it.
+
+56
+00:04:03,940 --> 00:04:06,258  X1:216 X2:503 Y1:488 Y2:523
+There's nothing to fix.
+
+57
+00:04:06,298 --> 00:04:07,782  X1:258 X2:461 Y1:488 Y2:523
+She's perished.
+
+58
+00:04:10,654 --> 00:04:16,049  X1:162 X2:557 Y1:452 Y2:523
+The last Tardis in the universe,
+extinct.
+
+59
+00:04:16,089 --> 00:04:18,806  X1:206 X2:513 Y1:488 Y2:523
+We can get help, yeah?
+
+60
+00:04:18,846 --> 00:04:20,803  X1:270 X2:447 Y1:488 Y2:523
+Where from?
+
+61
+00:04:20,843 --> 00:04:24,244  X1:110 X2:607 Y1:452 Y2:523
+Well, we've landed, we've got to be
+somewhere. We fell out of the Vortex.
+
+62
+00:04:24,284 --> 00:04:26,087  X1:130 X2:589 Y1:488 Y2:523
+Through the Void, into nothingness.
+
+63
+00:04:27,596 --> 00:04:31,075  X1:156 X2:563 Y1:488 Y2:523
+We're in some sort of no-place.
+
+64
+00:04:31,115 --> 00:04:33,829  X1:242 X2:477 Y1:488 Y2:523
+The Silent Realm.
+
+65
+00:04:33,869 --> 00:04:36,741  X1:176 X2:543 Y1:452 Y2:523
+The Lost Dimension.
+Otherwise known as London.
+
+66
+00:04:40,382 --> 00:04:42,699  X1:202 X2:517 Y1:488 Y2:523
+London, England, Earth.
+
+67
+00:04:42,739 --> 00:04:44,223  X1:300 X2:419 Y1:488 Y2:523
+Hold on.
+
+68
+00:04:47,654 --> 00:04:49,254  X1:168 X2:549 Y1:488 Y2:523
+The 1st of February, this year.
+
+69
+00:04:49,294 --> 00:04:50,850  X1:186 X2:533 Y1:488 Y2:523
+Not exactly far flung, is it?
+
+70
+00:04:50,890 --> 00:04:52,655  X1:202 X2:515 Y1:488 Y2:523
+So this is London? Yup.
+
+71
+00:04:52,695 --> 00:04:56,047  X1:180 X2:537 Y1:452 Y2:523
+Your city? That's the one.
+Just as we left it? Bang on.
+
+72
+00:04:56,087 --> 00:04:58,140  X1:152 X2:567 Y1:488 Y2:523
+And that includes the zeppelins?
+
+73
+00:05:01,402 --> 00:05:03,199  X1:256 X2:463 Y1:488 Y2:523
+What the hell? !
+
+74
+00:05:03,239 --> 00:05:05,598  X1:252 X2:467 Y1:488 Y2:523
+That's beautiful.
+
+75
+00:05:05,638 --> 00:05:09,596  X1:162 X2:557 Y1:452 Y2:523
+OK, so it's London with a big
+International Zeppelin Festival.
+
+76
+00:05:09,636 --> 00:05:11,590  X1:216 X2:503 Y1:488 Y2:523
+This is not your world.
+
+77
+00:05:11,630 --> 00:05:14,784  X1:176 X2:543 Y1:488 Y2:523
+But if the date's the same. . .
+
+78
+00:05:14,824 --> 00:05:16,584  X1:236 X2:483 Y1:488 Y2:523
+It's parallel, right?
+
+79
+00:05:16,624 --> 00:05:18,664  X1:136 X2:583 Y1:452 Y2:523
+Am I right? Like a parallel
+Earth where they've got zeppelins?
+
+80
+00:05:18,704 --> 00:05:20,779  X1:160 X2:559 Y1:452 Y2:523
+Am I right? I'm right, aren't I?
+Must be.
+
+81
+00:05:20,819 --> 00:05:24,378  X1:142 X2:577 Y1:452 Y2:523
+So, a parallel world where. . . Oh,
+come on! You've seen it on films.
+
+82
+00:05:24,418 --> 00:05:27,732  X1:162 X2:555 Y1:416 Y2:523
+It's like an alternative to our
+world, where everything's the
+same, but a little bit different.
+
+83
+00:05:27,772 --> 00:05:32,897  X1:138 X2:581 Y1:416 Y2:523
+Like, I dunno, traffic lights are
+blue, Tony Blair never got elected.
+And he's still alive.
+
+84
+00:05:35,167 --> 00:05:37,909  X1:230 X2:489 Y1:452 Y2:523
+A parallel world and
+my dad's still alive.
+
+85
+00:05:39,960 --> 00:05:43,517  X1:140 X2:579 Y1:452 Y2:523
+Don't look at it, Rose. Don't even
+think about it. It's not your world.
+
+86
+00:05:43,557 --> 00:05:46,475  X1:200 X2:519 Y1:488 Y2:523
+But he's my dad. And. . .
+
+87
+00:05:46,515 --> 00:05:49,469  X1:240 X2:479 Y1:488 Y2:523
+'Trust me on this. '
+
+88
+00:05:49,509 --> 00:05:51,386  X1:248 X2:471 Y1:488 Y2:523
+Oh, that's weird.
+
+89
+00:05:51,426 --> 00:05:53,986  X1:138 X2:581 Y1:488 Y2:523
+But he's real. . . 'Trust me on this. '
+
+90
+00:05:54,026 --> 00:05:58,859  X1:138 X2:581 Y1:416 Y2:523
+He's a success. He was always
+planning these daft little schemes,
+health food drinks and stuff.
+
+91
+00:05:58,899 --> 00:06:00,661  X1:148 X2:571 Y1:488 Y2:523
+Everyone said they were useless.
+
+92
+00:06:00,701 --> 00:06:04,335  X1:134 X2:583 Y1:452 Y2:523
+But he did it. Rose. If you ever
+trusted me, then listen to me now.
+
+93
+00:06:04,375 --> 00:06:06,291  X1:228 X2:491 Y1:488 Y2:523
+Stop looking at him.
+
+94
+00:06:06,331 --> 00:06:10,647  X1:116 X2:601 Y1:416 Y2:523
+Your father's dead, he died
+when you were six months old. That's
+not your Pete, that is a Pete.
+
+95
+00:06:10,687 --> 00:06:14,485  X1:172 X2:547 Y1:452 Y2:523
+And for all we know he's got
+his own Jackie, his own Rose.
+
+96
+00:06:14,525 --> 00:06:17,242  X1:182 X2:537 Y1:452 Y2:523
+His own daughter, who's
+someone else, but not you.
+
+97
+00:06:17,282 --> 00:06:20,757  X1:172 X2:547 Y1:488 Y2:523
+You can't see him. Not ever.
+
+98
+00:06:20,797 --> 00:06:23,157  X1:368 X2:613 Y1:452 Y2:523
+'Trust me on this.
+Trust me on this. '
+
+99
+00:06:23,197 --> 00:06:26,069  X1:242 X2:475 Y1:452 Y2:523
+'Trust me on this.
+Trust me on this. '
+
+100
+00:06:52,367 --> 00:06:55,681  X1:224 X2:493 Y1:488 Y2:523
+Hello? Sweetheart?
+
+101
+00:06:55,721 --> 00:06:57,838  X1:296 X2:423 Y1:488 Y2:523
+Only me.
+
+102
+00:06:57,878 --> 00:07:00,632  X1:232 X2:487 Y1:452 Y2:523
+Oh, the bad penny.
+Was this your idea?
+
+103
+00:07:00,672 --> 00:07:03,839  X1:192 X2:527 Y1:452 Y2:523
+Don't deny it, it's got your
+fingerprints all over it.
+
+104
+00:07:03,879 --> 00:07:06,066  X1:174 X2:543 Y1:452 Y2:523
+"Trust me on this!"
+Oh, I can trust you, all right.
+
+105
+00:07:06,106 --> 00:07:10,207  X1:124 X2:595 Y1:452 Y2:523
+Trust you to cock it up!
+What have I done now? Have a look!
+
+106
+00:07:18,377 --> 00:07:20,774  X1:172 X2:547 Y1:488 Y2:523
+What's wrong with that? 40!
+
+107
+00:07:20,814 --> 00:07:23,131  X1:200 X2:519 Y1:488 Y2:523
+It says 40! You ARE 40.
+
+108
+00:07:23,171 --> 00:07:25,608  X1:216 X2:503 Y1:452 Y2:523
+I don't want the whole
+world telling, do I?
+
+109
+00:07:25,648 --> 00:07:28,245  X1:170 X2:549 Y1:452 Y2:523
+You're having a party tonight.
+My 39th!
+
+110
+00:07:28,285 --> 00:07:31,563  X1:154 X2:565 Y1:416 Y2:523
+My official biography
+says I was born on the same day
+as Cuba Gooding Junior,
+
+111
+00:07:31,603 --> 00:07:35,438  X1:128 X2:591 Y1:452 Y2:523
+and that makes
+me 39, thank you very much. Rose!
+
+112
+00:07:35,478 --> 00:07:38,681  X1:238 X2:481 Y1:488 Y2:523
+Come here! Rose!
+
+113
+00:07:38,721 --> 00:07:41,751  X1:236 X2:483 Y1:452 Y2:523
+These are from the
+girls in the office.
+
+114
+00:07:41,791 --> 00:07:44,387  X1:256 X2:463 Y1:488 Y2:523
+Happy birthday.
+
+115
+00:07:44,427 --> 00:07:49,582  X1:124 X2:593 Y1:416 Y2:523
+I've got hand-sculpted arrangements
+by Veronica of Reykjavik, and your
+secretary stopped off at a garage?
+
+116
+00:07:49,622 --> 00:07:53,179  X1:156 X2:563 Y1:416 Y2:523
+I don't think so.
+And if you're giving out
+presents, where's my zeppelin?
+
+117
+00:07:53,219 --> 00:07:55,816  X1:142 X2:577 Y1:488 Y2:523
+Everyone else has got one. Rose!
+
+118
+00:07:55,856 --> 00:07:57,456  X1:254 X2:465 Y1:488 Y2:523
+Come on, Rose!
+
+119
+00:07:57,496 --> 00:07:59,613  X1:174 X2:545 Y1:452 Y2:523
+Look, you didn't even notice,
+did you? Special delivery.
+
+120
+00:07:59,653 --> 00:08:02,049  X1:218 X2:501 Y1:488 Y2:523
+Got sent round today.
+
+121
+00:08:02,089 --> 00:08:08,444  X1:114 X2:605 Y1:416 Y2:523
+Birthday present from Mr Lumic.
+Latest model, diamond studded. They
+pick up signals from Venezuela.
+
+122
+00:08:08,484 --> 00:08:10,801  X1:182 X2:537 Y1:452 Y2:523
+Why would you want to pick
+up signals from Venezuela?
+
+123
+00:08:10,841 --> 00:08:13,558  X1:214 X2:505 Y1:452 Y2:523
+Well, I don't know!
+But now I can find out!
+
+124
+00:08:13,598 --> 00:08:16,242  X1:142 X2:575 Y1:452 Y2:523
+Oh, for God's sake, where is she?
+Rose!
+
+125
+00:08:16,282 --> 00:08:18,750  X1:138 X2:579 Y1:452 Y2:523
+She needs a good bath before
+tonight or she's gonna be honking.
+
+126
+00:08:18,790 --> 00:08:21,115  X1:132 X2:587 Y1:488 Y2:523
+Rose! Come to Mummy! Come on!
+
+127
+00:08:21,155 --> 00:08:23,746  X1:188 X2:531 Y1:488 Y2:523
+There you are, my darling!
+
+128
+00:08:23,786 --> 00:08:26,223  X1:078 X2:263 Y1:488 Y2:523
+PHONE RINGS
+
+129
+00:08:26,263 --> 00:08:31,058  X1:078 X2:513 Y1:452 Y2:523
+Mr Lumic! Jackie was just saying
+thank you, that's very kind of you.
+
+130
+00:08:31,098 --> 00:08:36,455  X1:078 X2:539 Y1:452 Y2:523
+Those ear pods are hand made. Tell
+her to take care. Course I will.
+
+131
+00:08:36,495 --> 00:08:41,368  X1:156 X2:561 Y1:416 Y2:523
+Um, I don't suppose you'll be
+joining us tonight for the party?
+We'd be very honoured.
+
+132
+00:08:41,408 --> 00:08:44,892  X1:178 X2:541 Y1:452 Y2:523
+The world below can party,
+some of us have work to do.
+
+133
+00:08:44,932 --> 00:08:49,640  X1:126 X2:593 Y1:452 Y2:523
+My plans have advanced, Peter. The
+President has promised a decision.
+
+134
+00:08:49,680 --> 00:08:54,111  X1:148 X2:571 Y1:452 Y2:523
+I'm flying in now. We'll be at the
+airstrip by five o'clock. Right.
+
+135
+00:08:54,151 --> 00:08:58,067  X1:176 X2:543 Y1:452 Y2:523
+It's just that I promised
+I'd help the wife out tonight.
+
+136
+00:08:58,107 --> 00:09:01,825  X1:160 X2:559 Y1:416 Y2:523
+If the President of Great Britain
+can make this meeting,
+then so can you.
+
+137
+00:09:01,865 --> 00:09:03,662  X1:200 X2:517 Y1:452 Y2:523
+I dunno, he's not
+married to Jackie, is he?
+
+138
+00:09:03,702 --> 00:09:05,939  X1:216 X2:503 Y1:488 Y2:523
+Five o'clock, Mr Tyler.
+
+139
+00:09:05,979 --> 00:09:07,497  X1:264 X2:455 Y1:488 Y2:523
+A famous day!
+
+140
+00:09:09,704 --> 00:09:14,774  X1:166 X2:553 Y1:488 Y2:523
+Voiceprint access, John Lumic.
+
+141
+00:09:14,814 --> 00:09:17,481  X1:200 X2:519 Y1:488 Y2:523
+Initiate ear pod override.
+
+142
+00:09:18,967 --> 00:09:21,720  X1:196 X2:523 Y1:488 Y2:523
+Subject, Jacqueline Tyler.
+
+143
+00:09:24,722 --> 00:09:26,246  X1:298 X2:421 Y1:488 Y2:523
+Activate.
+
+144
+00:09:27,834 --> 00:09:29,474  X1:288 X2:431 Y1:488 Y2:523
+Download.
+
+145
+00:09:29,514 --> 00:09:33,437  X1:170 X2:547 Y1:488 Y2:523
+Tyler residence, February 1st.
+
+146
+00:09:33,477 --> 00:09:36,430  X1:192 X2:525 Y1:452 Y2:523
+Give me security
+arrangements for tonight.
+
+147
+00:09:36,470 --> 00:09:39,547  X1:156 X2:563 Y1:488 Y2:523
+Passwords, encryption services.
+
+148
+00:09:48,535 --> 00:09:51,322  X1:274 X2:443 Y1:488 Y2:523
+And restore.
+
+149
+00:09:56,728 --> 00:09:58,901  X1:218 X2:501 Y1:488 Y2:523
+Thank you, Mrs Tyler.
+
+150
+00:10:00,486 --> 00:10:02,295  X1:230 X2:489 Y1:488 Y2:523
+Activate picturelink.
+
+151
+00:10:03,880 --> 00:10:06,834  X1:218 X2:499 Y1:488 Y2:523
+Mr Crane? Mr Lumic.
+
+152
+00:10:06,874 --> 00:10:10,398  X1:200 X2:517 Y1:452 Y2:523
+Events are moving
+faster than I anticipated.
+
+153
+00:10:10,438 --> 00:10:14,389  X1:142 X2:577 Y1:488 Y2:523
+I need extra staff. Very good, sir.
+
+154
+00:10:14,429 --> 00:10:16,357  X1:150 X2:567 Y1:488 Y2:523
+I shall go on a recruitment drive.
+
+155
+00:10:17,863 --> 00:10:19,512  X1:274 X2:443 Y1:488 Y2:523
+Back her up.
+
+156
+00:10:28,973 --> 00:10:31,291  X1:152 X2:567 Y1:488 Y2:523
+I told you to keep an eye on her!
+
+157
+00:10:31,331 --> 00:10:33,495  X1:204 X2:515 Y1:452 Y2:523
+She's all right.
+She goes wandering off!
+
+158
+00:10:33,535 --> 00:10:36,208  X1:196 X2:523 Y1:452 Y2:523
+A parallel world, it's
+like a gingerbread house!
+
+159
+00:10:36,248 --> 00:10:38,086  X1:140 X2:579 Y1:488 Y2:523
+All those temptations, calling her.
+
+160
+00:10:38,126 --> 00:10:40,601  X1:128 X2:589 Y1:452 Y2:523
+Oh, so it's just Rose, then? There's
+nothing out there to tempt me?
+
+161
+00:10:40,641 --> 00:10:45,599  X1:148 X2:569 Y1:416 Y2:523
+Well, I don't know, I
+can't worry about everything! If I
+could just get this thing to. . .
+
+162
+00:10:45,639 --> 00:10:48,033  X1:134 X2:583 Y1:488 Y2:523
+Did that help? Yes. Did that hurt?
+
+163
+00:10:48,073 --> 00:10:49,557  X1:292 X2:427 Y1:488 Y2:523
+Yes. Ow.
+
+164
+00:11:27,432 --> 00:11:31,785  X1:128 X2:589 Y1:416 Y2:523
+And it's good news for Great Britain,
+as John Lumic returns to the
+country of his birth.
+
+165
+00:11:31,825 --> 00:11:36,820  X1:132 X2:587 Y1:416 Y2:523
+Mr Lumic,
+the inventor of High Content Metal,
+has denied allegations of ill-health.
+
+166
+00:11:36,860 --> 00:11:38,500  X1:194 X2:525 Y1:488 Y2:523
+We're all flesh and blood.
+
+167
+00:11:38,540 --> 00:11:42,094  X1:196 X2:523 Y1:452 Y2:523
+But the brain
+is what makes us human.
+
+168
+00:11:42,134 --> 00:11:45,494  X1:186 X2:531 Y1:452 Y2:523
+And my mind
+is more creative than ever!
+
+169
+00:11:45,534 --> 00:11:48,975  X1:158 X2:561 Y1:452 Y2:523
+'With shares in Cybus Industries
+doubling in price, Mr Lumic. . . '
+
+170
+00:11:52,211 --> 00:11:58,635  X1:150 X2:569 Y1:416 Y2:523
+'In other news. . . The Torchwood
+Institute has published
+a study, claiming that male. . . '
+
+171
+00:11:58,675 --> 00:12:01,192  X1:178 X2:541 Y1:488 Y2:523
+We're not meant to be here.
+
+172
+00:12:01,232 --> 00:12:04,911  X1:190 X2:529 Y1:416 Y2:523
+The Tardis draws its power
+out of the universe, but
+it's the wrong universe.
+
+173
+00:12:04,951 --> 00:12:08,467  X1:150 X2:569 Y1:488 Y2:523
+It's like diesel in a petrol engine.
+
+174
+00:12:08,507 --> 00:12:13,822  X1:148 X2:571 Y1:416 Y2:523
+But I've seen it in comics, people
+go hopping from one alternative
+world to another. It's easy!
+
+175
+00:12:13,862 --> 00:12:15,426  X1:220 X2:499 Y1:488 Y2:523
+Not in the real world.
+
+176
+00:12:16,939 --> 00:12:19,375  X1:134 X2:585 Y1:452 Y2:523
+Used to be easy.
+When the Time Lords kept their eye
+
+177
+00:12:19,415 --> 00:12:23,893  X1:118 X2:601 Y1:452 Y2:523
+on everything, you could pop between
+realities, home in time for tea.
+
+178
+00:12:23,933 --> 00:12:26,350  X1:218 X2:499 Y1:452 Y2:523
+Then they died and
+took at all with them.
+
+179
+00:12:27,807 --> 00:12:30,924  X1:188 X2:531 Y1:452 Y2:523
+The walls of reality closed.
+The worlds were sealed.
+
+180
+00:12:30,964 --> 00:12:35,478  X1:146 X2:571 Y1:452 Y2:523
+Everything became that bit less
+kind. Then how did we get here?
+
+181
+00:12:35,518 --> 00:12:39,637  X1:204 X2:515 Y1:488 Y2:523
+I don't know. Accident?
+
+182
+00:12:39,677 --> 00:12:42,219  X1:182 X2:535 Y1:452 Y2:523
+Should've been impossible,
+now we're trapped.
+
+183
+00:12:46,225 --> 00:12:48,143  X1:274 X2:445 Y1:488 Y2:523
+What's that?
+
+184
+00:12:48,183 --> 00:12:49,744  X1:312 X2:407 Y1:488 Y2:523
+What?
+
+185
+00:12:49,784 --> 00:12:51,962  X1:148 X2:571 Y1:488 Y2:523
+That, there. Is that a reflection?
+
+186
+00:12:54,937 --> 00:12:58,574  X1:222 X2:497 Y1:452 Y2:523
+It's a light!
+Is it? Is that a light?
+
+187
+00:12:58,614 --> 00:13:02,934  X1:122 X2:595 Y1:452 Y2:523
+I think that's a light,
+that's all we need! We've got power!
+
+188
+00:13:02,974 --> 00:13:05,232  X1:166 X2:553 Y1:488 Y2:523
+Mickey, we've got power! Ha!
+
+189
+00:13:12,997 --> 00:13:14,517  X1:204 X2:515 Y1:488 Y2:523
+Gentlemen, gentlemen.
+
+190
+00:13:14,557 --> 00:13:20,352  X1:130 X2:587 Y1:452 Y2:523
+I beg your attention. Christmas
+has come early, so come and get it.
+
+191
+00:13:20,392 --> 00:13:23,267  X1:188 X2:531 Y1:488 Y2:523
+Oh, smell that, comrades.
+
+192
+00:13:23,307 --> 00:13:28,586  X1:112 X2:607 Y1:452 Y2:523
+Burgers and chips, sausage and beans,
+pork, chicken and hot sweet tea.
+
+193
+00:13:28,626 --> 00:13:30,419  X1:280 X2:439 Y1:488 Y2:523
+All for free!
+
+194
+00:13:30,459 --> 00:13:32,859  X1:184 X2:535 Y1:488 Y2:523
+Don't go! But there's food.
+
+195
+00:13:32,899 --> 00:13:35,056  X1:162 X2:557 Y1:488 Y2:523
+All you can eat, free of charge!
+
+196
+00:13:35,096 --> 00:13:38,615  X1:142 X2:577 Y1:452 Y2:523
+Don't just stand there,
+fill your faces with pasties, pies. . .
+
+197
+00:13:38,655 --> 00:13:40,575  X1:140 X2:577 Y1:488 Y2:523
+They're lying. Easy for you to say.
+
+198
+00:13:40,615 --> 00:13:42,647  X1:192 X2:525 Y1:488 Y2:523
+When did you last starve?
+
+199
+00:13:42,687 --> 00:13:45,488  X1:178 X2:541 Y1:452 Y2:523
+All those people,
+disappearing off the streets.
+
+200
+00:13:45,528 --> 00:13:47,604  X1:166 X2:553 Y1:488 Y2:523
+It's been going on for months.
+
+201
+00:13:47,644 --> 00:13:49,238  X1:292 X2:427 Y1:488 Y2:523
+It's them.
+
+202
+00:13:49,278 --> 00:13:52,519  X1:132 X2:587 Y1:488 Y2:523
+They're taking you away. What for?
+
+203
+00:13:52,559 --> 00:13:54,193  X1:270 X2:449 Y1:488 Y2:523
+Experiments.
+
+204
+00:13:54,233 --> 00:13:56,353  X1:130 X2:589 Y1:488 Y2:523
+But hurry now, charity can't sleep. . .
+
+205
+00:13:56,393 --> 00:13:58,509  X1:264 X2:455 Y1:488 Y2:523
+I'm so hungry.
+
+206
+00:13:58,549 --> 00:14:00,386  X1:144 X2:575 Y1:488 Y2:523
+So, come and get it while it's hot!
+
+207
+00:14:00,426 --> 00:14:04,822  X1:168 X2:551 Y1:452 Y2:523
+That's it, kind sir!
+Get in there and fill your face!
+
+208
+00:14:04,862 --> 00:14:06,940  X1:210 X2:507 Y1:488 Y2:523
+Feast yourself brother,
+
+209
+00:14:06,980 --> 00:14:08,941  X1:262 X2:455 Y1:488 Y2:523
+feast yourself.
+
+210
+00:14:08,981 --> 00:14:12,672  X1:078 X2:461 Y1:452 Y2:523
+SHRIEKS AND CRIES
+Take 'em away.
+
+211
+00:14:15,175 --> 00:14:17,973  X1:294 X2:423 Y1:488 Y2:523
+It's alive!
+
+212
+00:14:18,013 --> 00:14:20,849  X1:168 X2:549 Y1:452 Y2:523
+What is it? Nothing, it's tiny.
+It's one of those
+
+213
+00:14:20,889 --> 00:14:23,486  X1:154 X2:565 Y1:452 Y2:523
+insignificant little power cells
+that no-one ever bothers about.
+
+214
+00:14:23,526 --> 00:14:25,319  X1:190 X2:529 Y1:488 Y2:523
+And it's clinging on to life!
+
+215
+00:14:25,359 --> 00:14:28,160  X1:184 X2:535 Y1:452 Y2:523
+It's got one little ounce of
+reality, tucked away inside.
+
+216
+00:14:28,200 --> 00:14:32,034  X1:142 X2:577 Y1:488 Y2:523
+Enough to get us home? Not yet.
+
+217
+00:14:32,074 --> 00:14:33,638  X1:216 X2:503 Y1:488 Y2:523
+I need to charge it up.
+
+218
+00:14:35,151 --> 00:14:37,188  X1:174 X2:545 Y1:452 Y2:523
+We could go outside and lash
+it up to the National Grid.
+
+219
+00:14:37,228 --> 00:14:39,909  X1:138 X2:581 Y1:452 Y2:523
+Wrong sort of energy.
+It's got to come from our universe.
+
+220
+00:14:39,949 --> 00:14:42,525  X1:180 X2:537 Y1:452 Y2:523
+But we don't have anything.
+There's me.
+
+221
+00:14:50,937 --> 00:14:53,814  X1:228 X2:491 Y1:452 Y2:523
+I just gave away
+ten years of my life.
+
+222
+00:14:53,854 --> 00:14:56,146  X1:226 X2:493 Y1:488 Y2:523
+Worth every second.
+
+223
+00:15:05,319 --> 00:15:07,275  X1:192 X2:527 Y1:488 Y2:523
+It's going out, is that OK?
+
+224
+00:15:07,315 --> 00:15:09,275  X1:196 X2:523 Y1:488 Y2:523
+It's on a recharging cycle.
+
+225
+00:15:09,315 --> 00:15:12,949  X1:138 X2:581 Y1:452 Y2:523
+It'll loop round, power back up
+and be ready to take us home in. . .
+
+226
+00:15:12,989 --> 00:15:15,349  X1:258 X2:459 Y1:488 Y2:523
+Ooh, 24 hours.
+
+227
+00:15:15,389 --> 00:15:17,667  X1:194 X2:523 Y1:452 Y2:523
+So that gives us 24
+hours on a parallel world.
+
+228
+00:15:17,707 --> 00:15:21,064  X1:128 X2:591 Y1:452 Y2:523
+Shore leave. So long as we keep
+our heads down, easy. No problem.
+
+229
+00:15:21,104 --> 00:15:22,780  X1:224 X2:495 Y1:488 Y2:523
+Let's go and tell her.
+
+230
+00:15:22,820 --> 00:15:27,657  X1:178 X2:541 Y1:452 Y2:523
+There you are! It's all right,
+no applause, I fixed it.
+
+231
+00:15:27,697 --> 00:15:29,716  X1:204 X2:515 Y1:452 Y2:523
+24 hours and then we're
+flying back to reality.
+
+232
+00:15:33,171 --> 00:15:35,249  X1:286 X2:433 Y1:488 Y2:523
+What is it?
+
+233
+00:15:35,289 --> 00:15:37,125  X1:220 X2:497 Y1:488 Y2:523
+My phone connected.
+
+234
+00:15:37,165 --> 00:15:40,481  X1:182 X2:535 Y1:452 Y2:523
+There's this Cybus network,
+it finds your phone.
+
+235
+00:15:42,278 --> 00:15:44,917  X1:158 X2:561 Y1:488 Y2:523
+And it gave me internet access.
+
+236
+00:15:44,957 --> 00:15:49,271  X1:208 X2:511 Y1:452 Y2:523
+Rose, whatever it says,
+this is the wrong world.
+
+237
+00:15:49,311 --> 00:15:53,029  X1:144 X2:575 Y1:452 Y2:523
+I don't exist. What do you mean?
+There's no Rose Tyler.
+
+238
+00:15:53,069 --> 00:15:55,105  X1:246 X2:473 Y1:488 Y2:523
+I was never born.
+
+239
+00:15:55,145 --> 00:15:57,104  X1:144 X2:575 Y1:488 Y2:523
+There's Pete, my dad, and Jackie.
+
+240
+00:15:57,144 --> 00:16:01,279  X1:118 X2:599 Y1:452 Y2:523
+He still married Mum. But they never
+had kids. Give me that phone.
+
+241
+00:16:02,740 --> 00:16:04,340  X1:276 X2:443 Y1:488 Y2:523
+They're rich.
+
+242
+00:16:04,380 --> 00:16:08,390  X1:164 X2:555 Y1:452 Y2:523
+They've got a house and
+cars and everything they want.
+
+243
+00:16:10,211 --> 00:16:12,748  X1:198 X2:519 Y1:488 Y2:523
+But they haven't got me.
+
+244
+00:16:15,887 --> 00:16:19,119  X1:232 X2:487 Y1:488 Y2:523
+I've got to see 'em.
+
+245
+00:16:19,159 --> 00:16:24,236  X1:144 X2:575 Y1:416 Y2:523
+You can't. I just want to see 'em.
+I can't let you.
+You just said 24 hours!
+
+246
+00:16:24,276 --> 00:16:27,674  X1:138 X2:581 Y1:416 Y2:523
+You can't
+become their daughter, that's not
+the way it works. Mickey, tell her.
+
+247
+00:16:27,714 --> 00:16:31,308  X1:108 X2:609 Y1:452 Y2:523
+24 hours, yeah? Where are you going?
+Well, I can do what I want.
+
+248
+00:16:31,348 --> 00:16:34,024  X1:130 X2:587 Y1:452 Y2:523
+I've got the address and everything,
+Stay where you are, both of you!
+
+249
+00:16:34,064 --> 00:16:38,502  X1:118 X2:599 Y1:452 Y2:523
+Come back! Mickey, come back here,
+right now! I just want to see them.
+
+250
+00:16:38,542 --> 00:16:40,018  X1:176 X2:543 Y1:488 Y2:523
+I've got things to see an' all.
+
+251
+00:16:40,058 --> 00:16:43,056  X1:142 X2:575 Y1:452 Y2:523
+Like what? Well, you don't
+know anything about me, do you?
+
+252
+00:16:43,096 --> 00:16:45,214  X1:210 X2:509 Y1:452 Y2:523
+It's all about Rose.
+I'm just the spare part.
+
+253
+00:16:45,254 --> 00:16:48,047  X1:202 X2:517 Y1:488 Y2:523
+I'm sorry, I've got to go.
+
+254
+00:16:50,249 --> 00:16:52,886  X1:180 X2:537 Y1:452 Y2:523
+Go on then.
+There's no choice, is there?
+
+255
+00:16:52,926 --> 00:16:55,958  X1:138 X2:581 Y1:452 Y2:523
+You can only chase after one of us.
+It's never gonna be me, is it?
+
+256
+00:16:59,835 --> 00:17:03,674  X1:180 X2:539 Y1:488 Y2:523
+Back here, 24 hours. Yeah.
+
+257
+00:17:03,714 --> 00:17:05,767  X1:132 X2:585 Y1:488 Y2:523
+If I haven't found something better.
+
+258
+00:17:26,610 --> 00:17:31,641  X1:174 X2:545 Y1:416 Y2:523
+Mr Tyler, what's the matter?
+Couldn't wait until tonight?
+Mr President, honoured.
+
+259
+00:17:31,681 --> 00:17:33,521  X1:144 X2:575 Y1:488 Y2:523
+I'm on the fast-track programme.
+
+260
+00:17:33,561 --> 00:17:36,635  X1:182 X2:535 Y1:416 Y2:523
+Cybus Industries have
+bought up my company,
+so I'm part of the firm now.
+
+261
+00:17:36,675 --> 00:17:39,354  X1:200 X2:519 Y1:452 Y2:523
+Some people say they've
+bought my government.
+
+262
+00:17:39,394 --> 00:17:40,954  X1:142 X2:577 Y1:488 Y2:523
+I've never heard anybody say that.
+
+263
+00:17:40,994 --> 00:17:43,230  X1:310 X2:409 Y1:488 Y2:523
+Never.
+
+264
+00:17:43,270 --> 00:17:47,908  X1:142 X2:575 Y1:452 Y2:523
+You can trust me on this.
+I tried your drink, that Vitex stuff.
+
+265
+00:17:47,948 --> 00:17:50,665  X1:144 X2:575 Y1:488 Y2:523
+It tastes like pop. Well, it is pop.
+
+266
+00:17:50,705 --> 00:17:54,619  X1:130 X2:589 Y1:452 Y2:523
+You made money by selling a health
+food drink to a sick world.
+
+267
+00:17:54,659 --> 00:17:58,271  X1:186 X2:533 Y1:452 Y2:523
+Not quite the ordinary Joe
+you appear to be, are you?
+
+268
+00:18:00,333 --> 00:18:04,369  X1:156 X2:563 Y1:488 Y2:523
+He does like to keep us waiting.
+
+269
+00:18:04,409 --> 00:18:10,240  X1:126 X2:593 Y1:452 Y2:523
+But tell me, you've had a chance to
+observe John Lumic more than most.
+
+270
+00:18:10,280 --> 00:18:12,598  X1:222 X2:495 Y1:488 Y2:523
+What's your opinion?
+
+271
+00:18:12,638 --> 00:18:15,874  X1:204 X2:515 Y1:452 Y2:523
+He's very sharp, I'd say.
+Sharp as ever.
+
+272
+00:18:15,914 --> 00:18:18,872  X1:138 X2:579 Y1:488 Y2:523
+Very clever man. Brilliant, in fact.
+
+273
+00:18:18,912 --> 00:18:20,909  X1:146 X2:573 Y1:488 Y2:523
+Then you don't think he's insane?
+
+274
+00:18:20,949 --> 00:18:25,994  X1:192 X2:527 Y1:452 Y2:523
+It's not the word I
+would've used, no. I see.
+
+275
+00:18:34,938 --> 00:18:37,759  X1:190 X2:527 Y1:488 Y2:523
+Can I see your ID, please?
+
+276
+00:18:39,054 --> 00:18:42,740  X1:220 X2:499 Y1:488 Y2:523
+Yeah, that's in order.
+
+277
+00:18:47,603 --> 00:18:50,720  X1:192 X2:527 Y1:452 Y2:523
+Am I all right to get past?
+Yeah, no bother.
+
+278
+00:18:50,760 --> 00:18:52,520  X1:180 X2:539 Y1:488 Y2:523
+Curfew doesn't start till ten.
+
+279
+00:18:52,560 --> 00:18:55,194  X1:138 X2:581 Y1:488 Y2:523
+There's a curfew? Course there is.
+
+280
+00:18:55,234 --> 00:18:58,550  X1:148 X2:569 Y1:452 Y2:523
+Where've you been living, mate?
+Up there with the toffs?
+
+281
+00:19:01,908 --> 00:19:03,956  X1:312 X2:407 Y1:488 Y2:523
+I wish.
+
+282
+00:19:04,705 --> 00:19:07,037  X1:306 X2:413 Y1:488 Y2:523
+See ya.
+
+283
+00:19:16,293 --> 00:19:18,306  X1:148 X2:571 Y1:488 Y2:523
+Mickey's mum just couldn't cope.
+
+284
+00:19:20,250 --> 00:19:23,444  X1:128 X2:589 Y1:452 Y2:523
+His dad hung around for a while, but
+then he just sort of wandered off.
+
+285
+00:19:23,484 --> 00:19:26,241  X1:162 X2:557 Y1:488 Y2:523
+He was brought up by his gran.
+
+286
+00:19:26,281 --> 00:19:29,598  X1:170 X2:547 Y1:488 Y2:523
+She was such a great woman.
+
+287
+00:19:29,638 --> 00:19:32,793  X1:186 X2:533 Y1:488 Y2:523
+God, she used to slap him !
+
+288
+00:19:32,833 --> 00:19:34,513  X1:238 X2:481 Y1:488 Y2:523
+But then she died.
+
+289
+00:19:34,553 --> 00:19:36,870  X1:128 X2:589 Y1:488 Y2:523
+She tripped and fell down the stairs.
+
+290
+00:19:36,910 --> 00:19:40,867  X1:188 X2:529 Y1:452 Y2:523
+It was about five years ago
+now, I was still in school.
+
+291
+00:19:40,907 --> 00:19:43,944  X1:120 X2:599 Y1:452 Y2:523
+I never knew. Well, you never asked.
+You never said.
+
+292
+00:19:43,984 --> 00:19:46,220  X1:264 X2:455 Y1:488 Y2:523
+That's Mickey.
+
+293
+00:19:46,260 --> 00:19:47,818  X1:268 X2:449 Y1:488 Y2:523
+I suppose I. . .
+
+294
+00:19:47,858 --> 00:19:50,446  X1:172 X2:547 Y1:488 Y2:523
+We just take him for granted.
+
+295
+00:19:51,935 --> 00:19:54,892  X1:140 X2:579 Y1:452 Y2:523
+Do you think she's alive, his gran?
+Could be.
+
+296
+00:19:54,932 --> 00:19:57,809  X1:192 X2:527 Y1:452 Y2:523
+Like I said, parallel world,
+gingerbread house.
+
+297
+00:19:57,849 --> 00:20:00,003  X1:212 X2:507 Y1:452 Y2:523
+We need to get out
+here as fast as we can.
+
+298
+00:20:00,043 --> 00:20:02,710  X1:078 X2:317 Y1:488 Y2:523
+TWO-TONE BEEPS
+
+299
+00:20:06,757 --> 00:20:08,955  X1:202 X2:517 Y1:488 Y2:523
+What are they all doing?
+
+300
+00:20:08,995 --> 00:20:10,604  X1:248 X2:471 Y1:488 Y2:523
+They've stopped.
+
+301
+00:20:27,897 --> 00:20:29,865  X1:242 X2:477 Y1:488 Y2:523
+It's the earpieces.
+
+302
+00:20:31,414 --> 00:20:35,571  X1:154 X2:565 Y1:452 Y2:523
+Like Bluetooth attachments, but
+everyone's connected together.
+
+303
+00:20:35,611 --> 00:20:38,124  X1:078 X2:265 Y1:488 Y2:523
+PHONE BEEPS
+
+304
+00:20:38,164 --> 00:20:42,119  X1:136 X2:581 Y1:452 Y2:523
+It's on my phone. It's
+automatic, look. It's downloading.
+
+305
+00:20:42,159 --> 00:20:44,576  X1:158 X2:561 Y1:488 Y2:523
+Is that what they're all getting?
+
+306
+00:20:46,475 --> 00:20:51,233  X1:190 X2:529 Y1:452 Y2:523
+News, international news,
+sport, weather.
+
+307
+00:20:51,273 --> 00:20:53,470  X1:242 X2:475 Y1:488 Y2:523
+They get it direct.
+
+308
+00:20:53,510 --> 00:20:56,106  X1:140 X2:579 Y1:488 Y2:523
+Downloaded right into their heads.
+
+309
+00:20:56,146 --> 00:20:58,584  X1:158 X2:561 Y1:488 Y2:523
+TV schedules, lottery numbers.
+
+310
+00:20:58,624 --> 00:21:01,166  X1:228 X2:491 Y1:452 Y2:523
+Everyone shares the
+same information.
+
+311
+00:21:03,059 --> 00:21:05,926  X1:160 X2:559 Y1:452 Y2:523
+"The Daily Download,
+published by Cybus Industries. "
+
+312
+00:21:14,643 --> 00:21:17,763  X1:138 X2:581 Y1:452 Y2:523
+You lot, you're obsessed. You'll
+do anything for the latest upgrade.
+
+313
+00:21:17,803 --> 00:21:20,641  X1:178 X2:541 Y1:452 Y2:523
+Oi, they're not my lot.
+Different world, remember?
+
+314
+00:21:20,681 --> 00:21:23,718  X1:176 X2:543 Y1:452 Y2:523
+It's not so far off your world,
+this place is only parallel.
+
+315
+00:21:23,758 --> 00:21:25,398  X1:242 X2:477 Y1:488 Y2:523
+Ooh, look at that.
+
+316
+00:21:25,438 --> 00:21:30,351  X1:132 X2:587 Y1:416 Y2:523
+Cybus Industries,
+owners of just about every company
+in Britain, including Vitex.
+
+317
+00:21:30,391 --> 00:21:34,367  X1:130 X2:589 Y1:488 Y2:523
+Mr Pete Tyler's very well connected.
+
+318
+00:21:39,663 --> 00:21:42,689  X1:126 X2:591 Y1:488 Y2:523
+OK, I give up. Let's go and see him.
+
+319
+00:21:59,279 --> 00:22:02,555  X1:102 X2:337 Y1:488 Y2:523
+Who's that there?
+
+320
+00:22:04,313 --> 00:22:06,871  X1:158 X2:559 Y1:488 Y2:523
+Who is it? I know you're there.
+
+321
+00:22:06,911 --> 00:22:10,828  X1:134 X2:583 Y1:452 Y2:523
+Shame on you, tricking an old lady.
+I've got nothing worth stealing.
+
+322
+00:22:10,868 --> 00:22:14,504  X1:126 X2:593 Y1:452 Y2:523
+And don't think I'm gonna disappear,
+you're not gonna take me!
+
+323
+00:22:14,544 --> 00:22:15,983  X1:334 X2:385 Y1:488 Y2:523
+Hi.
+
+324
+00:22:17,739 --> 00:22:20,338  X1:278 X2:441 Y1:488 Y2:523
+Is that you?
+
+325
+00:22:20,378 --> 00:22:22,335  X1:212 X2:507 Y1:488 Y2:523
+It's me. I came home.
+
+326
+00:22:22,375 --> 00:22:24,053  X1:232 X2:485 Y1:488 Y2:523
+Ricky? It's Mickey.
+
+327
+00:22:24,093 --> 00:22:27,372  X1:148 X2:571 Y1:488 Y2:523
+I know my own grandson's name,
+
+328
+00:22:27,412 --> 00:22:30,773  X1:184 X2:535 Y1:488 Y2:523
+it's Ricky. Now come here.
+
+329
+00:22:34,240 --> 00:22:36,398  X1:260 X2:459 Y1:488 Y2:523
+OK. I'm Ricky.
+
+330
+00:22:36,438 --> 00:22:38,878  X1:162 X2:557 Y1:488 Y2:523
+Course I am. Ricky, that's me.
+
+331
+00:22:38,918 --> 00:22:41,556  X1:224 X2:495 Y1:452 Y2:523
+You stupid boy! Ow!
+Where've you been?
+
+332
+00:22:41,596 --> 00:22:43,311  X1:252 X2:467 Y1:488 Y2:523
+Stop hitting me!
+
+333
+00:22:43,351 --> 00:22:48,665  X1:138 X2:581 Y1:416 Y2:523
+It's been days and days!
+I keep hearing all these stories,
+people disappearing off the street.
+
+334
+00:22:48,705 --> 00:22:54,619  X1:170 X2:549 Y1:416 Y2:523
+There's nothing official on
+the download. But there's all
+these rumours and whispers.
+
+335
+00:22:54,659 --> 00:22:57,137  X1:220 X2:497 Y1:452 Y2:523
+I thought they'd gone
+and disappeared you!
+
+336
+00:22:57,177 --> 00:23:01,134  X1:134 X2:585 Y1:452 Y2:523
+That carpet on the stairs, I told
+you to get it fixed. You're gonna. . .
+
+337
+00:23:01,174 --> 00:23:04,331  X1:172 X2:545 Y1:452 Y2:523
+fall and break your neck.
+Well, you get it fixed for me!
+
+338
+00:23:04,371 --> 00:23:06,086  X1:182 X2:537 Y1:488 Y2:523
+I should've done, way back.
+
+339
+00:23:06,126 --> 00:23:09,842  X1:164 X2:555 Y1:452 Y2:523
+Guess I'm just kind of useless.
+Now, I never said that.
+
+340
+00:23:09,882 --> 00:23:11,880  X1:272 X2:445 Y1:488 Y2:523
+I am though.
+
+341
+00:23:11,920 --> 00:23:14,079  X1:142 X2:577 Y1:488 Y2:523
+And I'm sorry, Gran. I'm so sorry.
+
+342
+00:23:14,119 --> 00:23:17,714  X1:148 X2:571 Y1:452 Y2:523
+Don't talk like that. Do you know
+what you need?
+
+343
+00:23:17,754 --> 00:23:21,514  X1:152 X2:565 Y1:488 Y2:523
+A nice sit down and a cup of tea.
+
+344
+00:23:21,554 --> 00:23:25,147  X1:156 X2:563 Y1:452 Y2:523
+You got time? For you, I've got
+all the time in the world.
+
+345
+00:23:25,187 --> 00:23:28,705  X1:238 X2:479 Y1:452 Y2:523
+Oh, you say that,
+but you're all talk.
+
+346
+00:23:28,745 --> 00:23:32,819  X1:162 X2:557 Y1:452 Y2:523
+It's those new friends of yours,
+I don't trust them.
+
+347
+00:23:32,859 --> 00:23:35,699  X1:166 X2:551 Y1:452 Y2:523
+What friends are they?
+Don't pretend you don't know.
+
+348
+00:23:35,739 --> 00:23:38,416  X1:122 X2:597 Y1:488 Y2:523
+You've been seen, Mrs Chan told me.
+
+349
+00:23:38,456 --> 00:23:42,567  X1:138 X2:579 Y1:452 Y2:523
+Driving about, all helter-skelter
+in that van. What van's that then?
+
+350
+00:23:42,607 --> 00:23:44,407  X1:234 X2:483 Y1:488 Y2:523
+You know full well.
+
+351
+00:23:44,447 --> 00:23:47,808  X1:158 X2:559 Y1:452 Y2:523
+Don't play games with me, now
+get inside!
+
+352
+00:23:51,441 --> 00:23:54,387  X1:202 X2:517 Y1:452 Y2:523
+I've been looking for you
+everywhere! Ricky?
+
+353
+00:23:57,871 --> 00:24:00,590  X1:312 X2:407 Y1:488 Y2:523
+Ricky?
+
+354
+00:24:00,630 --> 00:24:02,549  X1:124 X2:593 Y1:488 Y2:523
+Ricky, you were the one who told us.
+
+355
+00:24:02,589 --> 00:24:05,147  X1:168 X2:551 Y1:452 Y2:523
+You don't contact your family,
+cos it puts them in danger.
+
+356
+00:24:05,187 --> 00:24:06,703  X1:214 X2:505 Y1:488 Y2:523
+Yeah. Ricky said that.
+
+357
+00:24:06,743 --> 00:24:08,223  X1:196 X2:523 Y1:488 Y2:523
+Course I did, just testing.
+
+358
+00:24:08,263 --> 00:24:10,420  X1:190 X2:527 Y1:488 Y2:523
+I saw them, I taped them.
+
+359
+00:24:10,460 --> 00:24:13,978  X1:176 X2:541 Y1:416 Y2:523
+They went round Blackfriars,
+gathering up the homeless
+like the Child Catcher.
+
+360
+00:24:14,018 --> 00:24:20,049  X1:120 X2:599 Y1:416 Y2:523
+They must have took four dozen.
+The vans were hired out to a company
+called International Electromatics.
+
+361
+00:24:20,089 --> 00:24:22,325  X1:186 X2:533 Y1:488 Y2:523
+But I did a protocol search.
+
+362
+00:24:22,365 --> 00:24:25,683  X1:122 X2:595 Y1:452 Y2:523
+Turns out that's a dummy
+company established by, guess who?
+
+363
+00:24:25,723 --> 00:24:27,523  X1:234 X2:485 Y1:488 Y2:523
+I don't know, who?
+
+364
+00:24:27,563 --> 00:24:29,520  X1:246 X2:471 Y1:488 Y2:523
+Cybus Industries!
+
+365
+00:24:29,560 --> 00:24:31,317  X1:164 X2:553 Y1:488 Y2:523
+Well, now we've got evidence!
+
+366
+00:24:31,357 --> 00:24:33,914  X1:224 X2:495 Y1:452 Y2:523
+Bad news is, they've
+arrested Thin Jimmy.
+
+367
+00:24:33,954 --> 00:24:35,554  X1:208 X2:511 Y1:488 Y2:523
+So that just leaves you.
+
+368
+00:24:35,594 --> 00:24:38,551  X1:132 X2:587 Y1:488 Y2:523
+Leaves me what? The number one.
+
+369
+00:24:38,591 --> 00:24:42,226  X1:210 X2:509 Y1:452 Y2:523
+Top of the list,
+London's most wanted.
+
+370
+00:24:42,266 --> 00:24:44,945  X1:294 X2:425 Y1:488 Y2:523
+OK, cool.
+
+371
+00:24:44,985 --> 00:24:46,942  X1:260 X2:459 Y1:488 Y2:523
+Say that again.
+
+372
+00:24:46,982 --> 00:24:51,297  X1:176 X2:543 Y1:416 Y2:523
+The most precious thing on
+this earth is the human brain
+and yet we allow it to die.
+
+373
+00:24:51,337 --> 00:24:55,249  X1:168 X2:551 Y1:452 Y2:523
+But now, Cybus Industries has
+perfected a way of sustaining
+
+374
+00:24:55,289 --> 00:25:00,008  X1:154 X2:565 Y1:452 Y2:523
+the brain indefinitely, within a
+cradle of copyrighted chemicals.
+
+375
+00:25:00,048 --> 00:25:05,959  X1:190 X2:529 Y1:416 Y2:523
+The latest advances
+in synapse research allows
+cyberkinetic impulses
+
+376
+00:25:05,999 --> 00:25:08,359  X1:190 X2:529 Y1:452 Y2:523
+to be bonded
+onto a metal exoskeleton.
+
+377
+00:25:08,399 --> 00:25:10,755  X1:174 X2:543 Y1:488 Y2:523
+This is the ultimate upgrade.
+
+378
+00:25:10,795 --> 00:25:14,592  X1:140 X2:579 Y1:452 Y2:523
+Our greatest step into cyberspace.
+I'm sorry,
+
+379
+00:25:14,632 --> 00:25:16,629  X1:214 X2:505 Y1:488 Y2:523
+could we stop at that?
+
+380
+00:25:16,669 --> 00:25:22,304  X1:178 X2:541 Y1:416 Y2:523
+I don't need the pitch.
+I think we all know what this
+ultimate upgrade entails.
+
+381
+00:25:22,344 --> 00:25:25,981  X1:164 X2:555 Y1:452 Y2:523
+And I'm here to tell you, John,
+the answer is no.
+
+382
+00:25:26,021 --> 00:25:30,375  X1:200 X2:519 Y1:452 Y2:523
+My government does not
+give you permission.
+
+383
+00:25:30,415 --> 00:25:32,972  X1:128 X2:591 Y1:488 Y2:523
+And I think no government ever will.
+
+384
+00:25:33,012 --> 00:25:35,929  X1:152 X2:567 Y1:452 Y2:523
+I've prepared a
+paper for the Ethical Committee.
+
+385
+00:25:35,969 --> 00:25:40,442  X1:124 X2:595 Y1:452 Y2:523
+Oh, come on! It's not just unethical,
+it's obscene.
+
+386
+00:25:40,482 --> 00:25:44,080  X1:156 X2:563 Y1:452 Y2:523
+Mr President,
+if I might make a personal plea.
+
+387
+00:25:44,120 --> 00:25:45,876  X1:258 X2:461 Y1:488 Y2:523
+I am dying, sir.
+
+388
+00:25:45,916 --> 00:25:47,795  X1:242 X2:477 Y1:488 Y2:523
+I'm aware of that.
+
+389
+00:25:47,835 --> 00:25:49,515  X1:236 X2:483 Y1:488 Y2:523
+And I'm very sorry.
+
+390
+00:25:49,555 --> 00:25:52,871  X1:194 X2:525 Y1:452 Y2:523
+Without this project,
+you have condemned me.
+
+391
+00:25:52,911 --> 00:25:57,386  X1:174 X2:545 Y1:452 Y2:523
+My inventions have advanced
+this whole planet.
+
+392
+00:25:57,426 --> 00:25:59,745  X1:158 X2:561 Y1:488 Y2:523
+Would you have all that perish?
+
+393
+00:25:59,785 --> 00:26:02,183  X1:150 X2:569 Y1:488 Y2:523
+You're a fine businessman, John.
+
+394
+00:26:02,223 --> 00:26:03,901  X1:232 X2:487 Y1:488 Y2:523
+But you're not God.
+
+395
+00:26:05,816 --> 00:26:09,263  X1:166 X2:551 Y1:452 Y2:523
+I'm really very sorry, but
+I think we should end it there.
+
+396
+00:26:11,371 --> 00:26:13,967  X1:172 X2:547 Y1:488 Y2:523
+Mr Tyler, I'll see you tonight.
+
+397
+00:26:14,007 --> 00:26:15,727  X1:138 X2:581 Y1:488 Y2:523
+I think we could all do with a drink.
+
+398
+00:26:15,767 --> 00:26:18,594  X1:290 X2:429 Y1:488 Y2:523
+Mr Lumic.
+
+399
+00:26:26,276 --> 00:26:31,430  X1:168 X2:549 Y1:416 Y2:523
+Still, it's not the
+only country in the world.
+There's always New Germany.
+
+400
+00:26:31,470 --> 00:26:33,027  X1:220 X2:499 Y1:488 Y2:523
+This is the homeland.
+
+401
+00:26:33,067 --> 00:26:35,467  X1:264 X2:455 Y1:488 Y2:523
+My birthplace.
+
+402
+00:26:35,507 --> 00:26:38,095  X1:158 X2:561 Y1:488 Y2:523
+You may leave. Thank you, sir.
+
+403
+00:26:43,498 --> 00:26:45,855  X1:292 X2:427 Y1:488 Y2:523
+Mr Crane!
+
+404
+00:26:45,895 --> 00:26:49,409  X1:210 X2:507 Y1:452 Y2:523
+Ready and waiting, sir.
+Did the override work?
+
+405
+00:26:49,449 --> 00:26:51,447  X1:156 X2:563 Y1:488 Y2:523
+Well, needs a bit of fine tuning.
+
+406
+00:26:51,487 --> 00:26:54,406  X1:148 X2:571 Y1:452 Y2:523
+We weren't exactly delicate,
+given the rush. But, yeah, yeah.
+
+407
+00:26:54,446 --> 00:26:56,963  X1:256 X2:461 Y1:488 Y2:523
+It's all working.
+
+408
+00:26:57,003 --> 00:26:59,306  X1:148 X2:571 Y1:488 Y2:523
+I've been testing the system, sir.
+
+409
+00:27:02,118 --> 00:27:05,554  X1:162 X2:557 Y1:452 Y2:523
+They've
+grafted on a treat, these have.
+
+410
+00:27:05,594 --> 00:27:07,871  X1:198 X2:519 Y1:488 Y2:523
+Given a little persuasion.
+
+411
+00:27:07,911 --> 00:27:09,884  X1:178 X2:541 Y1:488 Y2:523
+If you'd care to observe, sir.
+
+412
+00:27:12,266 --> 00:27:15,099  X1:186 X2:533 Y1:488 Y2:523
+A-a-and, turn to the right.
+
+413
+00:27:17,303 --> 00:27:19,540  X1:176 X2:543 Y1:488 Y2:523
+A-a-a-and, back to the left.
+
+414
+00:27:19,580 --> 00:27:22,457  X1:164 X2:553 Y1:488 Y2:523
+Are you having fun, Mr Crane?
+
+415
+00:27:22,497 --> 00:27:24,451  X1:184 X2:535 Y1:488 Y2:523
+No, no. Not at all, sir, no.
+
+416
+00:27:24,491 --> 00:27:27,212  X1:162 X2:557 Y1:488 Y2:523
+It's just. . .well, it's irresistible.
+
+417
+00:27:27,252 --> 00:27:30,604  X1:130 X2:589 Y1:488 Y2:523
+Then resist. And start the Upgrade.
+
+418
+00:27:30,644 --> 00:27:33,922  X1:112 X2:607 Y1:452 Y2:523
+Did we get permission? I am governed
+by greater laws, old friend.
+
+419
+00:27:33,962 --> 00:27:37,440  X1:170 X2:547 Y1:488 Y2:523
+The right of a man to survive.
+
+420
+00:27:37,480 --> 00:27:38,998  X1:282 X2:437 Y1:488 Y2:523
+Now begin.
+
+421
+00:27:40,916 --> 00:27:44,791  X1:228 X2:491 Y1:488 Y2:523
+And turn to the left.
+
+422
+00:27:44,831 --> 00:27:46,520  X1:256 X2:463 Y1:488 Y2:523
+Forward march.
+
+423
+00:27:50,107 --> 00:27:52,689  X1:078 X2:197 Y1:488 Y2:523
+SHRIEKS
+
+424
+00:27:53,861 --> 00:27:55,621  X1:196 X2:521 Y1:488 Y2:523
+Let's cover up that noise!
+
+425
+00:27:55,661 --> 00:27:57,421  X1:200 X2:517 Y1:488 Y2:523
+Give us track number 19.
+
+426
+00:27:57,461 --> 00:28:01,812  X1:078 X2:477 Y1:416 Y2:523
+MUSIC PLAYS:
+# In the jungle
+The mighty jungle
+
+427
+00:28:01,852 --> 00:28:05,009  X1:196 X2:523 Y1:488 Y2:523
+# The lion sleeps tonight
+
+428
+00:28:05,049 --> 00:28:09,124  X1:152 X2:567 Y1:488 Y2:523
+# In the jungle, the quiet jungle
+
+429
+00:28:09,164 --> 00:28:12,921  X1:196 X2:523 Y1:488 Y2:523
+# The lion sleeps tonight
+
+430
+00:28:12,961 --> 00:28:14,958  X1:252 X2:467 Y1:488 Y2:523
+# A wim-o-weh
+
+431
+00:28:14,998 --> 00:28:15,998  X1:252 X2:467 Y1:488 Y2:523
+# A wim-o-weh
+
+432
+00:28:16,038 --> 00:28:17,635  X1:252 X2:467 Y1:488 Y2:523
+# A wim-o-weh
+
+433
+00:28:17,675 --> 00:28:20,502  X1:252 X2:467 Y1:488 Y2:523
+# A wim-o-weh
+
+434
+00:28:21,871 --> 00:28:22,911  X1:312 X2:407 Y1:488 Y2:523
+# Ooh
+
+435
+00:28:22,951 --> 00:28:28,747  X1:162 X2:557 Y1:488 Y2:523
+# A wee-um-um-a-weh. . . #
+
+436
+00:28:28,787 --> 00:28:31,819  X1:078 X2:275 Y1:488 Y2:523
+MAN SCREAMS
+
+437
+00:28:35,260 --> 00:28:38,173  X1:146 X2:573 Y1:452 Y2:523
+There's a light on.
+There's someone inside the base.
+
+438
+00:28:38,213 --> 00:28:40,300  X1:164 X2:555 Y1:488 Y2:523
+Mrs Moore, we've got visitors.
+
+439
+00:28:44,649 --> 00:28:47,925  X1:248 X2:471 Y1:488 Y2:523
+One, two, three.
+
+440
+00:28:47,965 --> 00:28:49,764  X1:330 X2:389 Y1:488 Y2:523
+Go!
+
+441
+00:28:49,804 --> 00:28:53,519  X1:174 X2:545 Y1:488 Y2:523
+What the hell are you doing?
+
+442
+00:28:53,559 --> 00:28:55,116  X1:188 X2:529 Y1:488 Y2:523
+What are you doing there?
+
+443
+00:28:55,156 --> 00:28:57,903  X1:212 X2:507 Y1:488 Y2:523
+What am I doing here?
+
+444
+00:28:59,752 --> 00:29:01,606  X1:206 X2:511 Y1:488 Y2:523
+What am I doing there?
+
+445
+00:29:09,065 --> 00:29:10,942  X1:228 X2:491 Y1:488 Y2:523
+They've got visitors.
+
+446
+00:29:10,982 --> 00:29:14,893  X1:166 X2:553 Y1:488 Y2:523
+February 1st. Mum's birthday.
+
+447
+00:29:14,933 --> 00:29:18,293  X1:186 X2:533 Y1:452 Y2:523
+Even in a parallel universe,
+she still loves a party.
+
+448
+00:29:18,333 --> 00:29:21,450  X1:168 X2:551 Y1:452 Y2:523
+Well, given Pete Tyler's guest
+list, I wouldn't mind a look.
+
+449
+00:29:21,490 --> 00:29:23,967  X1:178 X2:541 Y1:452 Y2:523
+And there is one guaranteed
+way of getting inside.
+
+450
+00:29:24,007 --> 00:29:26,913  X1:108 X2:611 Y1:488 Y2:523
+Psychic paper! Who do you want to be?
+
+451
+00:29:39,430 --> 00:29:41,709  X1:192 X2:527 Y1:452 Y2:523
+We could've been anyone.
+It got us in, didn't it?
+
+452
+00:29:41,749 --> 00:29:45,623  X1:152 X2:567 Y1:452 Y2:523
+You're in charge of the psychic
+paper, we could've been guests.
+
+453
+00:29:45,663 --> 00:29:48,220  X1:134 X2:585 Y1:488 Y2:523
+Celebrities, Sir Doctor, Dame Rose.
+
+454
+00:29:48,260 --> 00:29:49,740  X1:234 X2:485 Y1:488 Y2:523
+We end up serving.
+
+455
+00:29:49,780 --> 00:29:52,094  X1:158 X2:561 Y1:488 Y2:523
+I did enough of this back home.
+
+456
+00:29:52,134 --> 00:29:55,245  X1:162 X2:557 Y1:452 Y2:523
+If you want to know what's
+going on, work in the kitchens.
+
+457
+00:29:58,968 --> 00:30:03,484  X1:130 X2:589 Y1:452 Y2:523
+According to Lucy,
+that man over there. . . Who's Lucy?
+
+458
+00:30:03,524 --> 00:30:06,523  X1:124 X2:595 Y1:488 Y2:523
+She's carrying the salmon pinwheels.
+
+459
+00:30:06,563 --> 00:30:08,519  X1:218 X2:501 Y1:488 Y2:523
+Oh, that's Lucy, is it?
+
+460
+00:30:08,559 --> 00:30:12,354  X1:154 X2:565 Y1:452 Y2:523
+Yeah. Lucy says, that
+is the President of Great Britain.
+
+461
+00:30:12,394 --> 00:30:15,830  X1:146 X2:573 Y1:452 Y2:523
+What, there's a President,
+not a Prime Minister? Seems so.
+
+462
+00:30:15,870 --> 00:30:18,788  X1:156 X2:563 Y1:488 Y2:523
+Or maybe Lucy's just a bit thick.
+
+463
+00:30:24,625 --> 00:30:27,142  X1:144 X2:573 Y1:488 Y2:523
+Excuse me, thank you very much.
+
+464
+00:30:27,182 --> 00:30:29,656  X1:192 X2:527 Y1:452 Y2:523
+Thank you. If I could have
+your attention, please.
+
+465
+00:30:29,696 --> 00:30:32,773  X1:162 X2:557 Y1:452 Y2:523
+Go on, Pete,
+about time you did some work!
+
+466
+00:30:32,813 --> 00:30:34,627  X1:160 X2:557 Y1:488 Y2:523
+I thought you liked 'em young?
+
+467
+00:30:36,127 --> 00:30:42,562  X1:146 X2:573 Y1:416 Y2:523
+I'd like to say thank you to you all
+for coming, on this
+very special occasion.
+
+468
+00:30:42,602 --> 00:30:45,201  X1:258 X2:461 Y1:488 Y2:523
+My wife's 39th.
+
+469
+00:30:45,241 --> 00:30:47,878  X1:212 X2:507 Y1:488 Y2:523
+Don't believe that one!
+
+470
+00:30:47,918 --> 00:30:50,156  X1:126 X2:593 Y1:488 Y2:523
+Trust me on this. Yeah, yeah, yeah.
+
+471
+00:30:50,196 --> 00:30:52,112  X1:202 X2:517 Y1:452 Y2:523
+So, without any
+further ado, here she is.
+
+472
+00:30:52,152 --> 00:30:57,550  X1:180 X2:539 Y1:452 Y2:523
+The birthday girl,
+my lovely wife, Jackie Tyler.
+
+473
+00:30:57,590 --> 00:31:00,337  X1:078 X2:425 Y1:488 Y2:523
+THEY APPLAUD AND CHEER
+
+474
+00:31:05,580 --> 00:31:09,571  X1:124 X2:595 Y1:452 Y2:523
+Now, I'm not giving a speech. That's
+what my parties are famous for.
+
+475
+00:31:09,611 --> 00:31:14,986  X1:136 X2:583 Y1:416 Y2:523
+No work, no politics,
+just a few good mates
+and plenty of black-market whisky.
+
+476
+00:31:16,490 --> 00:31:19,523  X1:124 X2:593 Y1:488 Y2:523
+Pardon me, Mr President! So, yeah.
+
+477
+00:31:19,563 --> 00:31:21,600  X1:180 X2:539 Y1:488 Y2:523
+Get on with it, enjoy, enjoy!
+
+478
+00:31:21,640 --> 00:31:25,411  X1:078 X2:421 Y1:452 Y2:523
+APPLAUSE
+CAMERA SHUTTERS WHIRR
+
+479
+00:31:25,477 --> 00:31:30,034  X1:164 X2:555 Y1:452 Y2:523
+You can't stay, even if there
+was some way of telling them.
+
+480
+00:31:30,074 --> 00:31:31,715  X1:248 X2:471 Y1:488 Y2:523
+Of course I can't.
+
+481
+00:31:31,755 --> 00:31:34,188  X1:204 X2:515 Y1:452 Y2:523
+I've still got Mum
+at home, my real mum.
+
+482
+00:31:34,228 --> 00:31:36,281  X1:148 X2:569 Y1:452 Y2:523
+I couldn't just leave her, could I?
+It's just. . .
+
+483
+00:31:38,225 --> 00:31:41,262  X1:208 X2:511 Y1:488 Y2:523
+They've got each other.
+
+484
+00:31:41,302 --> 00:31:45,107  X1:146 X2:573 Y1:452 Y2:523
+Mum's got no-one.
+She's got you, those two haven't.
+
+485
+00:31:46,534 --> 00:31:49,331  X1:172 X2:547 Y1:452 Y2:523
+All these different worlds,
+not one of them gets it right.
+
+486
+00:31:49,371 --> 00:31:52,732  X1:184 X2:535 Y1:488 Y2:523
+Rose! Here's my little girl!
+
+487
+00:31:52,772 --> 00:31:56,044  X1:130 X2:589 Y1:452 Y2:523
+Come to Mummy, come to Mummy!
+Good girl!
+
+488
+00:31:56,084 --> 00:31:58,467  X1:216 X2:501 Y1:488 Y2:523
+Good girl, aren't you?
+
+489
+00:32:02,599 --> 00:32:05,136  X1:314 X2:403 Y1:488 Y2:523
+Sorry.
+
+490
+00:32:08,590 --> 00:32:15,302  X1:152 X2:567 Y1:452 Y2:523
+'Platoon zero-two now boarding.
+Platoon zero-two now boarding. '
+
+491
+00:32:18,304 --> 00:32:20,858  X1:122 X2:595 Y1:488 Y2:523
+Stop staring. But what are they, sir?
+
+492
+00:32:20,898 --> 00:32:22,498  X1:188 X2:531 Y1:488 Y2:523
+I'm told they're the future.
+
+493
+00:32:22,538 --> 00:32:25,253  X1:180 X2:539 Y1:488 Y2:523
+Ain't technology wonderful?
+
+494
+00:32:25,293 --> 00:32:28,050  X1:134 X2:583 Y1:488 Y2:523
+Go on, get to the cab, start her up.
+
+495
+00:32:28,090 --> 00:32:31,966  X1:078 X2:389 Y1:452 Y2:523
+Sir.
+MOBILE RINGS
+
+496
+00:32:32,006 --> 00:32:34,683  X1:186 X2:533 Y1:488 Y2:523
+Mr Crane. . .are we mobile?
+
+497
+00:32:34,723 --> 00:32:37,680  X1:168 X2:551 Y1:452 Y2:523
+Just about to hit the road, sir.
+And yourself?
+
+498
+00:32:37,720 --> 00:32:39,637  X1:206 X2:513 Y1:488 Y2:523
+I am arriving, Mr Crane.
+
+499
+00:32:39,677 --> 00:32:42,555  X1:230 X2:489 Y1:488 Y2:523
+Prepare the factory.
+
+500
+00:32:42,595 --> 00:32:45,475  X1:148 X2:569 Y1:488 Y2:523
+Now send them forth, old friend.
+
+501
+00:32:45,515 --> 00:32:47,033  X1:198 X2:519 Y1:488 Y2:523
+Let the good work begin.
+
+502
+00:33:02,373 --> 00:33:04,330  X1:220 X2:499 Y1:488 Y2:523
+He's clean. No bugs.
+
+503
+00:33:04,370 --> 00:33:09,408  X1:144 X2:575 Y1:452 Y2:523
+This is off the scale. He's flesh
+and blood. How did that happen?
+
+504
+00:33:09,448 --> 00:33:12,801  X1:184 X2:535 Y1:452 Y2:523
+Well, it could be that Cybus
+Industries have perfected
+
+505
+00:33:12,841 --> 00:33:17,272  X1:168 X2:551 Y1:452 Y2:523
+the science of human cloning,
+or your father had a bike.
+
+506
+00:33:21,513 --> 00:33:24,433  X1:130 X2:589 Y1:488 Y2:523
+And your name's Mickey, not Ricky?
+
+507
+00:33:24,473 --> 00:33:25,911  X1:304 X2:415 Y1:488 Y2:523
+Mickey.
+
+508
+00:33:25,951 --> 00:33:29,508  X1:182 X2:537 Y1:416 Y2:523
+My dad was Jackson Smith,
+he used to work at the key
+cutter's on Clifton's Parade.
+
+509
+00:33:29,548 --> 00:33:31,112  X1:130 X2:587 Y1:488 Y2:523
+He went to Spain, never came back.
+
+510
+00:33:33,138 --> 00:33:34,947  X1:238 X2:481 Y1:488 Y2:523
+But that's my dad.
+
+511
+00:33:36,458 --> 00:33:39,535  X1:222 X2:495 Y1:488 Y2:523
+So. . .we're brothers?
+
+512
+00:33:39,575 --> 00:33:41,574  X1:166 X2:553 Y1:488 Y2:523
+Be fair, what else could it be?
+
+513
+00:33:41,614 --> 00:33:43,337  X1:260 X2:457 Y1:488 Y2:523
+I don't know. . .
+
+514
+00:33:44,847 --> 00:33:49,123  X1:180 X2:539 Y1:452 Y2:523
+But he doesn't just look like
+me, he is exactly the same.
+
+515
+00:33:49,163 --> 00:33:54,321  X1:148 X2:571 Y1:452 Y2:523
+Something else is going on here,
+Jake. So who are you lot? We. . .
+
+516
+00:33:54,361 --> 00:33:56,118  X1:216 X2:503 Y1:488 Y2:523
+We are the Preachers.
+
+517
+00:33:56,158 --> 00:33:58,034  X1:234 X2:483 Y1:488 Y2:523
+As in Gospel Truth.
+
+518
+00:33:58,074 --> 00:33:59,632  X1:294 X2:425 Y1:488 Y2:523
+You see?
+
+519
+00:33:59,672 --> 00:34:05,468  X1:124 X2:593 Y1:452 Y2:523
+No Ear Pods. While rest of the world
+downloads from Cybus Industries,
+
+520
+00:34:05,508 --> 00:34:11,361  X1:124 X2:593 Y1:452 Y2:523
+we have got freedom. You're talking
+to London's most wanted.
+
+521
+00:34:11,940 --> 00:34:16,613  X1:128 X2:591 Y1:452 Y2:523
+But target number one is Lumic,
+and we are going to bring him down.
+
+522
+00:34:16,653 --> 00:34:18,911  X1:232 X2:485 Y1:488 Y2:523
+From your kitchen?
+
+523
+00:34:21,808 --> 00:34:23,846  X1:140 X2:579 Y1:488 Y2:523
+Have you got a problem with that?
+
+524
+00:34:23,886 --> 00:34:25,859  X1:208 X2:511 Y1:488 Y2:523
+No, it's a good kitchen.
+
+525
+00:34:27,882 --> 00:34:29,720  X1:184 X2:535 Y1:488 Y2:523
+It's an upload from Gemini.
+
+526
+00:34:29,760 --> 00:34:32,120  X1:138 X2:581 Y1:488 Y2:523
+Who's Gemini? The vans are back.
+
+527
+00:34:32,160 --> 00:34:33,877  X1:150 X2:569 Y1:488 Y2:523
+They're moving out of Battersea.
+
+528
+00:34:33,917 --> 00:34:36,394  X1:168 X2:551 Y1:488 Y2:523
+It looks like Gemini was right,
+
+529
+00:34:36,434 --> 00:34:38,234  X1:162 X2:555 Y1:488 Y2:523
+Lumic's finally making a move.
+
+530
+00:34:38,274 --> 00:34:43,399  X1:168 X2:551 Y1:452 Y2:523
+Then we are right behind him.
+Pack up, we're leaving.
+
+531
+00:35:42,403 --> 00:35:44,451  X1:078 X2:247 Y1:488 Y2:523
+SHE LAUGHS
+
+532
+00:35:48,997 --> 00:35:53,554  X1:176 X2:543 Y1:452 Y2:523
+I remember her 21st,
+a pint of cider in the George.
+
+533
+00:35:53,594 --> 00:35:56,630  X1:226 X2:493 Y1:488 Y2:523
+Sorry. . .champagne?
+
+534
+00:35:56,670 --> 00:35:59,212  X1:158 X2:561 Y1:488 Y2:523
+Might as well, I'm paying for it.
+
+535
+00:36:00,746 --> 00:36:02,979  X1:234 X2:485 Y1:488 Y2:523
+A big night for you.
+
+536
+00:36:03,019 --> 00:36:04,980  X1:302 X2:415 Y1:488 Y2:523
+For her.
+
+537
+00:36:05,020 --> 00:36:07,216  X1:240 X2:477 Y1:488 Y2:523
+Still, she's happy.
+
+538
+00:36:07,256 --> 00:36:09,933  X1:178 X2:539 Y1:488 Y2:523
+She should be. Great party.
+
+539
+00:36:09,973 --> 00:36:12,170  X1:266 X2:451 Y1:488 Y2:523
+Do you think?
+
+540
+00:36:12,210 --> 00:36:14,090  X1:242 X2:477 Y1:488 Y2:523
+You can trust me!
+
+541
+00:36:14,130 --> 00:36:17,567  X1:184 X2:533 Y1:452 Y2:523
+"You can trust me on this!"
+That's it, sorry, yeah.
+
+542
+00:36:17,607 --> 00:36:21,802  X1:198 X2:521 Y1:452 Y2:523
+So, erm. . . how long have
+you two been married?
+
+543
+00:36:21,842 --> 00:36:23,721  X1:294 X2:425 Y1:488 Y2:523
+20 years.
+
+544
+00:36:23,761 --> 00:36:25,718  X1:264 X2:455 Y1:488 Y2:523
+No kids or. . . ?
+
+545
+00:36:25,758 --> 00:36:28,016  X1:216 X2:503 Y1:488 Y2:523
+We kept putting it off.
+
+546
+00:36:29,435 --> 00:36:31,892  X1:204 X2:515 Y1:452 Y2:523
+She said she didn't
+want to spoil her figure.
+
+547
+00:36:33,910 --> 00:36:37,187  X1:132 X2:587 Y1:488 Y2:523
+It's not too late, she's only 40. 39.
+
+548
+00:36:37,227 --> 00:36:38,905  X1:272 X2:447 Y1:488 Y2:523
+All right, 39.
+
+549
+00:36:41,342 --> 00:36:42,938  X1:248 X2:469 Y1:488 Y2:523
+It's still too late.
+
+550
+00:36:42,978 --> 00:36:46,135  X1:204 X2:515 Y1:488 Y2:523
+I moved out last month.
+
+551
+00:36:46,175 --> 00:36:48,968  X1:156 X2:561 Y1:452 Y2:523
+But we're gonna keep it quiet,
+you know, it's bad for business.
+
+552
+00:36:52,529 --> 00:36:56,487  X1:144 X2:575 Y1:452 Y2:523
+Why am I telling you all this?
+We haven't met before, have we?
+
+553
+00:36:56,527 --> 00:36:59,149  X1:210 X2:509 Y1:452 Y2:523
+I don't know, you just
+seem sort of. . . What?
+
+554
+00:37:01,080 --> 00:37:03,048  X1:184 X2:535 Y1:488 Y2:523
+I don't know, just sort of. . .
+
+555
+00:37:04,958 --> 00:37:06,846  X1:318 X2:401 Y1:488 Y2:523
+right.
+
+556
+00:37:08,872 --> 00:37:12,319  X1:172 X2:547 Y1:452 Y2:523
+Stevie, how's things?
+How's it going at Torchwood?
+
+557
+00:37:17,342 --> 00:37:20,817  X1:156 X2:563 Y1:452 Y2:523
+I don't what they're doing,
+but this seems to be the target.
+
+558
+00:37:20,857 --> 00:37:22,457  X1:176 X2:543 Y1:488 Y2:523
+Big house, fair bit of money.
+
+559
+00:37:22,497 --> 00:37:24,894  X1:220 X2:499 Y1:452 Y2:523
+Now we've got to find
+a way to get in there.
+
+560
+00:37:24,934 --> 00:37:26,931  X1:188 X2:531 Y1:488 Y2:523
+I've identified the address.
+
+561
+00:37:26,971 --> 00:37:32,287  X1:142 X2:575 Y1:452 Y2:523
+It belongs to Peter Tyler,
+the Vitex millionaire. Pete Tyler?
+
+562
+00:37:32,327 --> 00:37:36,428  X1:148 X2:569 Y1:452 Y2:523
+He's listed as one of Lumic's
+henchmen, a traitor to the state.
+
+563
+00:37:39,162 --> 00:37:42,029  X1:170 X2:549 Y1:416 Y2:523
+But. . . We gotta get in there!
+Shut it, duplicate,
+that's what I just said.
+
+564
+00:37:44,276 --> 00:37:46,733  X1:220 X2:499 Y1:488 Y2:523
+What are they doing?
+
+565
+00:37:50,070 --> 00:37:52,777  X1:078 X2:511 Y1:452 Y2:523
+What the hell are they?
+RHYTHMIC METALLIC BANGING
+
+566
+00:37:57,098 --> 00:38:03,162  X1:148 X2:571 Y1:452 Y2:523
+LUMIC: 'The most precious thing
+on this earth is the human brain. '
+
+567
+00:38:11,006 --> 00:38:15,041  X1:208 X2:509 Y1:452 Y2:523
+Mrs Tyler, is there
+anything I can get you?
+
+568
+00:38:15,081 --> 00:38:16,975  X1:210 X2:509 Y1:488 Y2:523
+The last 20 years back.
+
+569
+00:38:19,837 --> 00:38:22,635  X1:128 X2:589 Y1:488 Y2:523
+I can manage a glass of champagne,
+
+570
+00:38:22,675 --> 00:38:25,217  X1:226 X2:493 Y1:452 Y2:523
+or a nice cup of tea?
+Oh, that'd do me.
+
+571
+00:38:28,189 --> 00:38:31,664  X1:160 X2:559 Y1:416 Y2:523
+My mum loves that.
+End of a long night,
+she never goes straight to bed.
+
+572
+00:38:31,704 --> 00:38:35,580  X1:126 X2:593 Y1:452 Y2:523
+She always stays up just to have that
+last cup of tea. Oh, I'm the same.
+
+573
+00:38:35,620 --> 00:38:37,577  X1:218 X2:501 Y1:488 Y2:523
+Two sugars. And me.
+
+574
+00:38:37,617 --> 00:38:40,000  X1:124 X2:595 Y1:488 Y2:523
+And Pete always says, "You know. . . "
+
+575
+00:38:41,614 --> 00:38:43,536  X1:224 X2:493 Y1:488 Y2:523
+Ah, never mind him.
+
+576
+00:38:45,048 --> 00:38:46,889  X1:182 X2:535 Y1:488 Y2:523
+I was talking to him earlier.
+
+577
+00:38:46,929 --> 00:38:49,284  X1:250 X2:469 Y1:488 Y2:523
+He's a nice man.
+
+578
+00:38:49,324 --> 00:38:53,603  X1:124 X2:595 Y1:452 Y2:523
+You know, a bit of a Jack the lad,
+I suppose, even if he has got money,
+
+579
+00:38:53,643 --> 00:38:56,278  X1:214 X2:503 Y1:488 Y2:523
+but he's a good bloke.
+
+580
+00:38:56,318 --> 00:38:58,815  X1:242 X2:477 Y1:488 Y2:523
+Better than most.
+
+581
+00:39:00,713 --> 00:39:02,553  X1:178 X2:541 Y1:488 Y2:523
+He's worth a second chance.
+
+582
+00:39:02,593 --> 00:39:05,908  X1:116 X2:603 Y1:488 Y2:523
+Are you commenting on my marriage?
+
+583
+00:39:05,948 --> 00:39:09,186  X1:138 X2:581 Y1:452 Y2:523
+No, I was just. . .
+Who the hell do you think you are?
+
+584
+00:39:09,226 --> 00:39:13,818  X1:178 X2:539 Y1:416 Y2:523
+You're staff. You're nothing
+but staff, you're just the
+serving girl, for God's sake.
+
+585
+00:39:13,858 --> 00:39:19,142  X1:152 X2:567 Y1:452 Y2:523
+And you are certainly not getting
+paid. Don't you dare talk to me.
+
+586
+00:39:39,795 --> 00:39:45,587  X1:138 X2:579 Y1:452 Y2:523
+'This is the ultimate upgrade,
+our greatest step into cyberspace. '
+
+587
+00:39:45,627 --> 00:39:46,656  X1:312 X2:407 Y1:488 Y2:523
+Cybus!
+
+588
+00:40:12,960 --> 00:40:15,274  X1:224 X2:495 Y1:488 Y2:523
+It's happening again.
+
+589
+00:40:15,314 --> 00:40:17,393  X1:230 X2:489 Y1:488 Y2:523
+What do you mean?
+
+590
+00:40:17,433 --> 00:40:23,905  X1:184 X2:535 Y1:452 Y2:523
+I've seen them before.
+What are they? Cybermen!
+
+591
+00:40:23,945 --> 00:40:25,998  X1:078 X2:237 Y1:488 Y2:523
+SCREAMING
+
+592
+00:40:42,685 --> 00:40:47,001  X1:078 X2:429 Y1:452 Y2:523
+PHONE RINGS
+Mr Lumic.
+
+593
+00:40:47,041 --> 00:40:53,155  X1:140 X2:579 Y1:416 Y2:523
+Mr President. I suppose a
+remark about crashing the party
+would be appropriate at this point.
+
+594
+00:40:53,195 --> 00:40:54,716  X1:266 X2:453 Y1:488 Y2:523
+I forbade this.
+
+595
+00:40:54,756 --> 00:40:56,316  X1:186 X2:531 Y1:488 Y2:523
+These are my children, sir.
+
+596
+00:40:56,356 --> 00:40:58,627  X1:182 X2:537 Y1:488 Y2:523
+Would you deny my family?
+
+597
+00:40:58,667 --> 00:41:00,904  X1:208 X2:509 Y1:488 Y2:523
+What are they, robots?
+
+598
+00:41:00,944 --> 00:41:03,741  X1:200 X2:519 Y1:452 Y2:523
+Worse than that.
+Who were these people?
+
+599
+00:41:03,781 --> 00:41:06,418  X1:136 X2:583 Y1:488 Y2:523
+It doesn't matter. They're people?
+
+600
+00:41:06,458 --> 00:41:10,894  X1:166 X2:553 Y1:452 Y2:523
+They were - till they had
+all their humanity taken away.
+
+601
+00:41:10,934 --> 00:41:15,849  X1:198 X2:521 Y1:416 Y2:523
+It's a living brain jammed
+inside a cybernetic body,
+with a heart of steel,
+
+602
+00:41:15,889 --> 00:41:17,886  X1:212 X2:505 Y1:488 Y2:523
+all emotions removed.
+
+603
+00:41:17,926 --> 00:41:19,646  X1:238 X2:481 Y1:488 Y2:523
+Why no emotions?
+
+604
+00:41:19,686 --> 00:41:22,122  X1:248 X2:471 Y1:488 Y2:523
+Because it hurts.
+
+605
+00:41:22,162 --> 00:41:25,360  X1:162 X2:555 Y1:452 Y2:523
+I demand to know, Lumic!
+These people, who were they?
+
+606
+00:41:25,400 --> 00:41:27,717  X1:188 X2:531 Y1:452 Y2:523
+They were homeless
+and wretched and useless,
+
+607
+00:41:27,757 --> 00:41:32,155  X1:122 X2:595 Y1:452 Y2:523
+until I saved them and elevated them
+and gave them life eternal.
+
+608
+00:41:32,195 --> 00:41:36,065  X1:156 X2:563 Y1:452 Y2:523
+And now I leave you in their
+capable hands. Good night, sir.
+
+609
+00:41:36,105 --> 00:41:38,738  X1:192 X2:527 Y1:488 Y2:523
+Good night, Mr President.
+
+610
+00:41:40,222 --> 00:41:43,700  X1:138 X2:613 Y1:488 Y2:523
+We have been upgraded. Into what?
+
+611
+00:41:43,740 --> 00:41:48,334  X1:188 X2:531 Y1:452 Y2:523
+The next level of mankind.
+We are Human 0.2.
+
+612
+00:41:48,374 --> 00:41:53,648  X1:090 X2:519 Y1:452 Y2:523
+Every citizen will receive a free
+upgrade, you will become like us.
+
+613
+00:41:53,688 --> 00:41:56,168  X1:292 X2:427 Y1:488 Y2:523
+I'm sorry.
+
+614
+00:41:56,208 --> 00:41:59,565  X1:176 X2:543 Y1:452 Y2:523
+I'm so sorry
+for what's been done to you.
+
+615
+00:41:59,605 --> 00:42:01,801  X1:236 X2:483 Y1:488 Y2:523
+But listen to me. . .
+
+616
+00:42:01,841 --> 00:42:06,117  X1:156 X2:563 Y1:488 Y2:523
+This experiment ends! Tonight.
+
+617
+00:42:06,157 --> 00:42:08,836  X1:196 X2:523 Y1:488 Y2:523
+Upgrading is compulsory.
+
+618
+00:42:08,876 --> 00:42:10,753  X1:212 X2:507 Y1:488 Y2:523
+And if I refuse? Don't.
+
+619
+00:42:10,793 --> 00:42:12,666  X1:250 X2:469 Y1:488 Y2:523
+What if I refuse?
+
+620
+00:42:12,706 --> 00:42:14,186  X1:218 X2:501 Y1:488 Y2:523
+I'm telling you, don't!
+
+621
+00:42:14,226 --> 00:42:16,903  X1:194 X2:525 Y1:488 Y2:523
+What happens if I refuse?
+
+622
+00:42:16,943 --> 00:42:20,541  X1:172 X2:547 Y1:488 Y2:523
+Then you are not compatible.
+
+623
+00:42:20,581 --> 00:42:22,978  X1:226 X2:493 Y1:488 Y2:523
+What happens then?
+
+624
+00:42:23,018 --> 00:42:25,720  X1:228 X2:489 Y1:488 Y2:523
+You will be deleted.
+
+625
+00:42:30,292 --> 00:42:32,449  X1:078 X2:209 Y1:488 Y2:523
+SCREAMS
+
+626
+00:42:32,489 --> 00:42:34,542  X1:312 X2:407 Y1:488 Y2:523
+Jackie!
+
+627
+00:42:36,044 --> 00:42:37,773  X1:312 X2:407 Y1:488 Y2:523
+Jackie!
+
+628
+00:42:47,355 --> 00:42:49,628  X1:188 X2:531 Y1:488 Y2:523
+There's nothing we can do!
+
+629
+00:42:49,668 --> 00:42:52,950  X1:148 X2:569 Y1:452 Y2:523
+My mum's in there!
+She's not your mother, come on!
+
+630
+00:43:00,737 --> 00:43:03,160  X1:276 X2:441 Y1:488 Y2:523
+Pete! Pete!
+
+631
+00:43:30,865 --> 00:43:32,585  X1:196 X2:523 Y1:488 Y2:523
+Pete, is there a way out?
+
+632
+00:43:32,625 --> 00:43:34,261  X1:258 X2:461 Y1:488 Y2:523
+The side gates!
+
+633
+00:43:34,301 --> 00:43:37,173  X1:170 X2:549 Y1:416 Y2:523
+Who are you? How do you know so much?
+You wouldn't believe it in a million years.
+
+634
+00:43:43,336 --> 00:43:45,409  X1:278 X2:441 Y1:488 Y2:523
+Who's that?
+
+635
+00:43:45,449 --> 00:43:46,933  X1:256 X2:461 Y1:488 Y2:523
+Get behind me!
+
+636
+00:43:58,361 --> 00:43:59,996  X1:196 X2:523 Y1:488 Y2:523
+Oh, my God, look at you!
+
+637
+00:44:00,036 --> 00:44:03,316  X1:146 X2:573 Y1:488 Y2:523
+I thought I'd never see you again!
+
+638
+00:44:03,356 --> 00:44:07,821  X1:150 X2:567 Y1:452 Y2:523
+Yeah, no offence, sweetheart,
+but who the hell are you? Rose!
+
+639
+00:44:09,383 --> 00:44:12,423  X1:186 X2:533 Y1:452 Y2:523
+That's not me,
+that's like. . .the other one.
+
+640
+00:44:12,463 --> 00:44:15,061  X1:170 X2:549 Y1:452 Y2:523
+Oh, as if things weren't bad
+enough, there's two Mickeys!
+
+641
+00:44:15,101 --> 00:44:17,598  X1:190 X2:527 Y1:452 Y2:523
+It's Ricky.
+But there's more of them.
+
+642
+00:44:20,851 --> 00:44:25,127  X1:152 X2:565 Y1:452 Y2:523
+We're surrounded. Put the guns
+down, bullets won't stop them.
+
+643
+00:44:25,167 --> 00:44:28,966  X1:192 X2:527 Y1:488 Y2:523
+You! Stop shooting, now!
+
+644
+00:44:29,006 --> 00:44:31,322  X1:264 X2:455 Y1:488 Y2:523
+We surrender!
+
+645
+00:44:31,362 --> 00:44:34,400  X1:290 X2:429 Y1:488 Y2:523
+Hands up!
+
+646
+00:44:34,440 --> 00:44:36,797  X1:162 X2:557 Y1:488 Y2:523
+There's no need to damage us.
+
+647
+00:44:36,837 --> 00:44:41,511  X1:152 X2:567 Y1:452 Y2:523
+We're good stock. We volunteer
+for the upgrade programme.
+
+648
+00:44:41,551 --> 00:44:45,745  X1:148 X2:613 Y1:452 Y2:523
+Take us to be processed. You are
+rogue elements. But we surrender.
+
+649
+00:44:45,785 --> 00:44:49,421  X1:210 X2:507 Y1:452 Y2:523
+You are incompatible.
+But this is a surrender!
+
+650
+00:44:49,461 --> 00:44:51,899  X1:228 X2:489 Y1:488 Y2:523
+You will be deleted.
+
+651
+00:44:51,939 --> 00:44:53,896  X1:180 X2:539 Y1:452 Y2:523
+But we're surrendering!
+Listen to me, we surrender!
+
+652
+00:44:53,936 --> 00:44:55,616  X1:252 X2:467 Y1:488 Y2:523
+You are inferior.
+
+653
+00:44:55,656 --> 00:45:01,270  X1:150 X2:569 Y1:416 Y2:523
+Men will be reborn as Cybermen,
+but you will perish
+upon maximum deletion.
+
+654
+00:45:03,727 --> 00:45:07,254  X1:146 X2:573 Y1:488 Y2:523
+Delete! Delete! Delete! Delete!
+
+655
+00:45:20,947 --> 00:45:37,392  X1:112 X2:557 Y1:452 Y2:523
+Subtitles by Red Bee Media Ltd / BBC 2006
+Converted by reirei for the forom
+
+

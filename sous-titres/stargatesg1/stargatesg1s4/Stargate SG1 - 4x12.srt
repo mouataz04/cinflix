@@ -1,0 +1,4166 @@
+1
+00:00:00,000 --> 00:00:16,207
+ 
+
+2
+00:00:16,207 --> 00:00:19,563
+On a demandé à Teal'c d'y aller à fond.
+ll ne devrait pas tarder.
+
+3
+00:00:19,563 --> 00:00:19,647
+ 
+
+4
+00:00:19,647 --> 00:00:22,525
+Ce serait bien.
+
+5
+00:00:22,525 --> 00:00:22,847
+ 
+
+6
+00:00:22,847 --> 00:00:25,315
+Où pourrait-il aller?
+
+7
+00:00:25,315 --> 00:00:25,407
+ 
+
+8
+00:00:25,407 --> 00:00:28,046
+Bien vu.
+
+9
+00:00:28,046 --> 00:00:38,247
+ 
+
+10
+00:00:38,247 --> 00:00:40,636
+Voilà. C'est parti.
+
+11
+00:00:40,636 --> 00:01:00,967
+ 
+
+12
+00:01:00,967 --> 00:01:03,765
+- ll y a un problème, colonel?
+- Non, mon général. Aucun.
+
+13
+00:01:03,765 --> 00:01:03,847
+ 
+
+14
+00:01:03,847 --> 00:01:07,999
+Teal'c est certainement parti
+faire un petit tour... du monde.
+
+15
+00:01:07,999 --> 00:01:08,087
+ 
+
+16
+00:01:08,087 --> 00:01:11,045
+Voici quelqu'un qui aimerait
+rencontrer votre équipe.
+
+17
+00:01:11,045 --> 00:01:11,127
+ 
+
+18
+00:01:11,127 --> 00:01:14,642
+Colonel Jack O'Neill, commandant
+Samantha Carter, Dr Daniel Jackson,
+
+19
+00:01:14,642 --> 00:01:14,727
+ 
+
+20
+00:01:14,727 --> 00:01:17,446
+je vous présente
+le lieutenant général Vidrine.
+
+21
+00:01:17,446 --> 00:01:17,647
+ 
+
+22
+00:01:17,647 --> 00:01:18,716
+Colonel.
+
+23
+00:01:18,716 --> 00:01:18,807
+ 
+
+24
+00:01:18,807 --> 00:01:19,523
+Commandant.
+
+25
+00:01:19,523 --> 00:01:19,607
+ 
+
+26
+00:01:19,607 --> 00:01:21,325
+Docteur.
+
+27
+00:01:21,325 --> 00:01:21,407
+ 
+
+28
+00:01:21,407 --> 00:01:23,841
+Le général Hammond
+m'a beaucoup parlé de vous.
+
+29
+00:01:23,841 --> 00:01:23,927
+ 
+
+30
+00:01:23,927 --> 00:01:26,964
+Vraiment? Je suis sûr
+qu'il ne vous a pas tout dit.
+
+31
+00:01:26,964 --> 00:01:27,247
+ 
+
+32
+00:01:27,247 --> 00:01:29,442
+Comment ça?
+
+33
+00:01:29,442 --> 00:01:32,727
+ 
+
+34
+00:01:32,727 --> 00:01:37,039
+- Teal'c? Tu m'entends?
+- Regarde tout de suite au sud-ouest.
+
+35
+00:01:37,039 --> 00:01:52,167
+ 
+
+36
+00:01:52,167 --> 00:01:56,957
+- C'était quoi, ça?
+- ça, c'est l'intercepteur X301 .
+
+37
+00:01:56,957 --> 00:01:58,567
+ 
+
+38
+00:01:58,567 --> 00:02:01,718
+Joli, Teal'c.
+Recommence, plus bas et plus lentement.
+
+39
+00:02:01,718 --> 00:02:02,127
+ 
+
+40
+00:02:02,127 --> 00:02:04,516
+Tes désirs sont des ordres.
+
+41
+00:02:04,516 --> 00:02:08,647
+ 
+
+42
+00:02:08,647 --> 00:02:11,719
+C'est un hybride réalisé
+grâce au savoir-faire américain
+
+43
+00:02:11,719 --> 00:02:11,807
+ 
+
+44
+00:02:11,807 --> 00:02:15,163
+et à 2 planeurs de la mort goa'ulds
+dont le SG-1 s'est emparé.
+
+45
+00:02:15,163 --> 00:02:15,247
+ 
+
+46
+00:02:15,247 --> 00:02:18,762
+C'est sans doute l'avion
+le plus incroyable que j'aie jamais vu.
+
+47
+00:02:18,762 --> 00:02:18,847
+ 
+
+48
+00:02:18,847 --> 00:02:22,283
+C'est plus que ça. Jusqu'à présent,
+nous n'étions pas en mesure
+
+49
+00:02:22,283 --> 00:02:22,367
+ 
+
+50
+00:02:22,367 --> 00:02:24,483
+d'attaquer un appareil goa'uld.
+
+51
+00:02:24,483 --> 00:02:24,567
+ 
+
+52
+00:02:24,567 --> 00:02:26,956
+Maintenant, si.
+
+53
+00:02:26,956 --> 00:02:39,967
+ 
+
+54
+00:02:39,967 --> 00:02:43,357
+- Comment fonctionne-t-il?
+- C'est difficile à expliquer.
+
+55
+00:02:43,357 --> 00:02:43,447
+ 
+
+56
+00:02:43,447 --> 00:02:47,918
+La force de propulsion
+n'est pas soumise à la vitesse de gravité.
+
+57
+00:02:47,918 --> 00:02:48,007
+ 
+
+58
+00:02:48,007 --> 00:02:52,523
+Les pilotes ne ressentent pas
+les accélérations. On ne sait pas...
+
+59
+00:02:52,523 --> 00:02:52,607
+ 
+
+60
+00:02:52,607 --> 00:02:55,724
+Commandant, le principal, c'est qu'il vole.
+
+61
+00:02:55,724 --> 00:02:56,327
+ 
+
+62
+00:02:56,327 --> 00:02:58,318
+Oui, mon général.
+
+63
+00:02:58,318 --> 00:03:17,207
+ 
+
+64
+00:03:17,207 --> 00:03:19,675
+Pour voler, il vole.
+
+65
+00:03:19,675 --> 00:04:23,727
+ 
+
+66
+00:04:23,727 --> 00:04:27,197
+J'aime bien connaître l'avis du pilote.
+
+67
+00:04:27,197 --> 00:04:29,727
+ 
+
+68
+00:04:29,727 --> 00:04:33,356
+- Vos impressions, fiston?
+- Performance conforme aux prévisions.
+
+69
+00:04:33,356 --> 00:04:37,167
+ 
+
+70
+00:04:37,167 --> 00:04:41,683
+Désolé, mon général.
+L'enthousiasme de Teal'c est contagieux.
+
+71
+00:04:41,683 --> 00:04:42,687
+ 
+
+72
+00:04:42,687 --> 00:04:44,678
+Après les vols d'essai, nous espérons
+
+73
+00:04:44,678 --> 00:04:44,767
+ 
+
+74
+00:04:44,767 --> 00:04:48,919
+en faire un engin de défense orbital
+sous votre commandement.
+
+75
+00:04:48,919 --> 00:04:49,007
+ 
+
+76
+00:04:49,007 --> 00:04:51,077
+Plus sérieusement,
+
+77
+00:04:51,077 --> 00:04:51,167
+ 
+
+78
+00:04:51,167 --> 00:04:53,886
+si ça ne vous dérange pas, colonel,
+
+79
+00:04:53,886 --> 00:04:53,967
+ 
+
+80
+00:04:53,967 --> 00:04:58,643
+vous pensez qu'un seul de ces avions
+peut menacer la flotte goa'uld?
+
+81
+00:04:58,643 --> 00:04:58,727
+ 
+
+82
+00:04:58,727 --> 00:05:03,357
+- Les tests nous le diront.
+- Parfait. Quel est le programme?
+
+83
+00:05:03,357 --> 00:05:03,447
+ 
+
+84
+00:05:03,447 --> 00:05:06,484
+Je prends la place de copilote
+dans une simulation de combat.
+
+85
+00:05:06,484 --> 00:05:06,567
+ 
+
+86
+00:05:06,567 --> 00:05:09,479
+Notre base fera office
+de centre de contrôle.
+
+87
+00:05:09,479 --> 00:05:09,567
+ 
+
+88
+00:05:09,567 --> 00:05:12,286
+- Faites-moi une montée en chandelle.
+- Entendu.
+
+89
+00:05:12,286 --> 00:05:16,527
+ 
+
+90
+00:05:16,527 --> 00:05:19,803
+Le général Vidrine veut
+qu'on brûle un cierge pour lui?
+
+91
+00:05:19,803 --> 00:05:19,887
+ 
+
+92
+00:05:19,887 --> 00:05:21,957
+Oui. C'est tout à fait ça.
+
+93
+00:05:21,957 --> 00:05:40,047
+ 
+
+94
+00:05:40,047 --> 00:05:42,720
+Demandons permission
+pour commencer Ies essais.
+
+95
+00:05:42,720 --> 00:05:42,807
+ 
+
+96
+00:05:42,807 --> 00:05:44,559
+Permission accordée, Digger One.
+
+97
+00:05:44,559 --> 00:05:46,647
+ 
+
+98
+00:05:46,647 --> 00:05:50,879
+- On se dirige vers la cible.
+- Bien reçu. Engagez Ia phase 2.
+
+99
+00:05:50,879 --> 00:05:53,207
+ 
+
+100
+00:05:53,207 --> 00:05:55,323
+C'est eux?
+
+101
+00:05:55,323 --> 00:05:55,407
+ 
+
+102
+00:05:55,407 --> 00:05:57,398
+Le X301 est un avion furtif.
+
+103
+00:05:57,398 --> 00:05:57,487
+ 
+
+104
+00:05:57,487 --> 00:06:00,524
+ll est invisible au radar,
+on a donc installé un émetteur.
+
+105
+00:06:00,524 --> 00:06:00,607
+ 
+
+106
+00:06:00,607 --> 00:06:03,041
+Ces taches indiquent
+les cibles télépilotées.
+
+107
+00:06:03,041 --> 00:06:03,127
+ 
+
+108
+00:06:03,127 --> 00:06:06,756
+Le 301 transporte
+deux missiles air-air AlM-120A.
+
+109
+00:06:06,756 --> 00:06:07,127
+ 
+
+110
+00:06:07,127 --> 00:06:12,076
+Selon vous, un missile air-air
+détruirait un vaisseau mère goa'uld?
+
+111
+00:06:12,076 --> 00:06:12,167
+ 
+
+112
+00:06:12,167 --> 00:06:16,285
+S'il a une charge dopée au naqahdah
+et un modulateur de fréquence,
+
+113
+00:06:16,285 --> 00:06:16,367
+ 
+
+114
+00:06:16,367 --> 00:06:18,517
+alors, oui, mon général.
+
+115
+00:06:18,517 --> 00:06:26,047
+ 
+
+116
+00:06:26,047 --> 00:06:28,038
+Début de la simulation de combat.
+
+117
+00:06:28,038 --> 00:06:37,207
+ 
+
+118
+00:06:37,207 --> 00:06:39,846
+Digger One,
+vous allez manquer votre cible.
+
+119
+00:06:39,846 --> 00:06:41,567
+ 
+
+120
+00:06:41,567 --> 00:06:43,125
+PANNE DU SYSTEME DE POURSUlTE
+
+121
+00:06:43,125 --> 00:06:44,927
+ 
+
+122
+00:06:44,927 --> 00:06:47,885
+Teal'c... La cible est par là-bas.
+
+123
+00:06:47,885 --> 00:06:48,167
+ 
+
+124
+00:06:48,167 --> 00:06:51,239
+- Je n'ai plus le contrôle, O'Neill.
+- Pardon?
+
+125
+00:06:51,239 --> 00:06:51,327
+ 
+
+126
+00:06:51,327 --> 00:06:55,479
+Les commandes ne répondent plus.
+La puissance est au maximum.
+
+127
+00:06:55,479 --> 00:06:57,927
+ 
+
+128
+00:06:57,927 --> 00:07:01,124
+- C'est une urgence.
+- Le système d'éjection est en panne.
+
+129
+00:07:01,124 --> 00:07:01,207
+ 
+
+130
+00:07:01,207 --> 00:07:05,883
+On ne contrôle plus l'appareil.
+Le système d'éjection est en panne.
+
+131
+00:07:05,883 --> 00:07:05,967
+ 
+
+132
+00:07:05,967 --> 00:07:09,755
+- Attendons instructions.
+- Digger One, ici le contrôle.
+
+133
+00:07:09,755 --> 00:07:10,647
+ 
+
+134
+00:07:10,647 --> 00:07:14,322
+- Pas de réponse.
+- C'est l'interférence atmosphérique.
+
+135
+00:07:14,322 --> 00:07:14,407
+ 
+
+136
+00:07:14,407 --> 00:07:15,999
+Commandant Carter?
+
+137
+00:07:15,999 --> 00:07:16,087
+ 
+
+138
+00:07:16,087 --> 00:07:21,366
+Le planeur est parti à la verticale
+et a disparu de l'écran.
+
+139
+00:07:21,366 --> 00:07:21,447
+ 
+
+140
+00:07:21,447 --> 00:07:24,325
+- On essaie de le localiser.
+- lls sont en orbite?
+
+141
+00:07:24,325 --> 00:07:24,407
+ 
+
+142
+00:07:24,407 --> 00:07:28,195
+- lls se dirigent vers l'espace.
+- L'appareil peut y voler, non?
+
+143
+00:07:28,195 --> 00:07:28,287
+ 
+
+144
+00:07:28,287 --> 00:07:30,278
+Oui, mais ce n'était pas prévu.
+
+145
+00:07:30,278 --> 00:07:30,367
+ 
+
+146
+00:07:30,367 --> 00:07:32,517
+ll doit y avoir un problème.
+
+147
+00:07:32,517 --> 00:07:32,607
+ 
+
+148
+00:07:32,607 --> 00:07:36,759
+Une défaillance? Appelez le directeur de
+vol de la navette au centre des missions.
+
+149
+00:07:36,759 --> 00:07:36,847
+ 
+
+150
+00:07:36,847 --> 00:07:40,078
+La navette ne les atteindra pas,
+sauf s'ils rebroussent chemin.
+
+151
+00:07:40,078 --> 00:07:40,167
+ 
+
+152
+00:07:40,167 --> 00:07:41,566
+On n'a pas le choix.
+
+153
+00:07:41,566 --> 00:07:41,647
+ 
+
+154
+00:07:41,647 --> 00:07:45,196
+La NASA recherche le planeur
+dans l'espace lointain.
+
+155
+00:07:45,196 --> 00:07:45,287
+ 
+
+156
+00:07:45,287 --> 00:07:49,041
+Elle devrait trouver un moyen
+de rétablir la communication.
+
+157
+00:07:49,041 --> 00:07:52,807
+ 
+
+158
+00:07:52,807 --> 00:07:55,879
+Contrôle, ici Digger One.
+
+159
+00:07:55,879 --> 00:07:55,967
+ 
+
+160
+00:07:55,967 --> 00:07:58,356
+Cheyenne, nous avons un problème.
+
+161
+00:07:58,356 --> 00:08:00,407
+ 
+
+162
+00:08:00,407 --> 00:08:02,796
+Plus rien ne fonctionne.
+
+163
+00:08:02,796 --> 00:08:08,047
+ 
+
+164
+00:08:08,047 --> 00:08:09,765
+Teal'c...
+
+165
+00:08:09,765 --> 00:08:09,847
+ 
+
+166
+00:08:09,847 --> 00:08:12,839
+à 6 heures, tu vois ce que je vois?
+
+167
+00:08:12,839 --> 00:08:12,927
+ 
+
+168
+00:08:12,927 --> 00:08:15,521
+Si tu crois que c'est la Terre,
+tu as raison.
+
+169
+00:08:15,521 --> 00:08:16,567
+ 
+
+170
+00:08:16,567 --> 00:08:19,286
+- Elle rapetisse.
+- Sa taille est toujours la même.
+
+171
+00:08:19,286 --> 00:08:19,367
+ 
+
+172
+00:08:19,367 --> 00:08:23,326
+C'est nous qui nous en éloignons
+à grande vitesse.
+
+173
+00:08:23,326 --> 00:08:25,527
+ 
+
+174
+00:08:25,527 --> 00:08:28,166
+Le tableau de bord
+indique un arrêt des moteurs.
+
+175
+00:08:28,166 --> 00:08:28,247
+ 
+
+176
+00:08:28,247 --> 00:08:30,442
+Nous n'accélérons plus.
+
+177
+00:08:30,442 --> 00:08:32,967
+ 
+
+178
+00:08:32,967 --> 00:08:36,323
+- C'est bien.
+- Je vais tenter de redémarrer.
+
+179
+00:08:36,323 --> 00:08:40,007
+ 
+
+180
+00:08:40,007 --> 00:08:43,317
+Que ceux qui veuIent
+braver Ies dieux m'écoutent.
+
+181
+00:08:43,317 --> 00:08:43,407
+ 
+
+182
+00:08:43,407 --> 00:08:46,877
+Pour votre insoIence,
+vous périrez dans I'espace gIaciaI.
+
+183
+00:08:46,877 --> 00:08:46,967
+ 
+
+184
+00:08:46,967 --> 00:08:49,879
+Ce qui m'appartenait me reviendra.
+
+185
+00:08:49,879 --> 00:08:49,967
+ 
+
+186
+00:08:49,967 --> 00:08:54,995
+Tu crois que c'était qui tu sais?
+T'as entendu la même chose que moi?
+
+187
+00:08:54,995 --> 00:08:55,087
+ 
+
+188
+00:08:55,087 --> 00:08:58,318
+Si tu penses à Apophis
+et si tu as entendu que le planeur
+
+189
+00:08:58,318 --> 00:08:58,407
+ 
+
+190
+00:08:58,407 --> 00:09:03,162
+était programmé pour retourner
+d'où il vient, alors oui.
+
+191
+00:09:03,162 --> 00:09:03,447
+ 
+
+192
+00:09:03,447 --> 00:09:07,076
+ll a aussi employé le mot... périr.
+
+193
+00:09:07,076 --> 00:09:07,447
+ 
+
+194
+00:09:07,447 --> 00:09:10,280
+- Dans l'espace glacial.
+- C'est juste.
+
+195
+00:09:10,280 --> 00:09:13,927
+ 
+
+196
+00:09:13,927 --> 00:09:17,044
+ll n'a pas perdu le nord, le vieux.
+
+197
+00:09:17,044 --> 00:09:20,207
+ 
+
+198
+00:09:20,207 --> 00:09:22,562
+Digger One, répondez.
+
+199
+00:09:22,562 --> 00:09:22,647
+ 
+
+200
+00:09:22,647 --> 00:09:24,842
+Jack ou Teal'c, répondez.
+
+201
+00:09:24,842 --> 00:09:25,567
+ 
+
+202
+00:09:25,567 --> 00:09:29,480
+- Rien.
+- La NASA tente de retrouver le signal.
+
+203
+00:09:29,480 --> 00:09:29,567
+ 
+
+204
+00:09:29,567 --> 00:09:33,355
+Nous devrions contacter nos alliés
+qualifiés pour les vols spatiaux.
+
+205
+00:09:33,355 --> 00:09:33,447
+ 
+
+206
+00:09:33,447 --> 00:09:36,405
+Allez-y, docteur.
+Le SG-2 reste à votre disposition.
+
+207
+00:09:36,405 --> 00:09:37,087
+ 
+
+208
+00:09:37,087 --> 00:09:39,237
+A quelle vitesse se déplace le planeur?
+
+209
+00:09:39,237 --> 00:09:39,327
+ 
+
+210
+00:09:39,327 --> 00:09:42,046
+Environ 1 ,5 million de km/h.
+
+211
+00:09:42,046 --> 00:09:42,127
+ 
+
+212
+00:09:42,127 --> 00:09:44,721
+Au moins, il n'accélère plus.
+
+213
+00:09:44,721 --> 00:09:45,607
+ 
+
+214
+00:09:45,607 --> 00:09:48,838
+George, j'ai peut-être intérêt
+à retourner au Pentagone.
+
+215
+00:09:48,838 --> 00:09:48,927
+ 
+
+216
+00:09:48,927 --> 00:09:52,636
+Je vais voir
+ce qu'on peut faire pour les aider.
+
+217
+00:09:52,636 --> 00:09:52,727
+ 
+
+218
+00:09:52,727 --> 00:09:55,116
+- Ramenez-les à bon port.
+- Oui, mon général.
+
+219
+00:09:55,116 --> 00:09:56,887
+ 
+
+220
+00:09:56,887 --> 00:10:02,166
+J'ai une idée, mais son succès
+dépend de nombreux facteurs.
+
+221
+00:10:02,166 --> 00:10:05,967
+ 
+
+222
+00:10:05,967 --> 00:10:09,482
+- Cheyenne, nous avons un probIème.
+- Digger One, ici le contrôle.
+
+223
+00:10:09,482 --> 00:10:09,567
+ 
+
+224
+00:10:09,567 --> 00:10:11,842
+Je vous reçois 5 sur 5.
+
+225
+00:10:11,842 --> 00:10:15,007
+ 
+
+226
+00:10:15,007 --> 00:10:17,521
+- Pourquoi ne répondent-ils pas?
+- ll faut attendre.
+
+227
+00:10:17,521 --> 00:10:17,607
+ 
+
+228
+00:10:17,607 --> 00:10:23,045
+Le signal radio met du temps
+à atteindre le X301 et à revenir.
+
+229
+00:10:23,045 --> 00:10:23,887
+ 
+
+230
+00:10:23,887 --> 00:10:26,355
+Où en sont nos réserves?
+
+231
+00:10:26,355 --> 00:10:30,807
+ 
+
+232
+00:10:30,807 --> 00:10:34,959
+On a de la puissance et des équipements
+de vie pour quelques jours.
+
+233
+00:10:34,959 --> 00:10:35,047
+ 
+
+234
+00:10:35,047 --> 00:10:38,278
+Quelques jours? C'est déjà ça.
+
+235
+00:10:38,278 --> 00:10:40,407
+ 
+
+236
+00:10:40,407 --> 00:10:44,036
+Dans combien de temps
+atteindrons-nous notre but?
+
+237
+00:10:44,036 --> 00:10:44,127
+ 
+
+238
+00:10:44,127 --> 00:10:49,406
+Le dispositif étant programmé pour
+retourner au monde originel d'Apophis,
+
+239
+00:10:49,406 --> 00:10:49,487
+ 
+
+240
+00:10:49,487 --> 00:10:52,047
+ça prendra plusieurs centaines d'années.
+
+241
+00:10:52,047 --> 00:10:52,127
+ 
+
+242
+00:10:52,127 --> 00:10:54,766
+- Plusieurs centaines?
+- D'années.
+
+243
+00:10:54,766 --> 00:10:56,607
+ 
+
+244
+00:10:56,607 --> 00:10:59,075
+Attends...
+
+245
+00:10:59,075 --> 00:10:59,167
+ 
+
+246
+00:10:59,167 --> 00:11:01,317
+Laisse-moi faire quelques calculs.
+
+247
+00:11:01,317 --> 00:11:03,487
+ 
+
+248
+00:11:03,487 --> 00:11:05,682
+Je retiens 4...
+
+249
+00:11:05,682 --> 00:11:07,847
+ 
+
+250
+00:11:07,847 --> 00:11:12,477
+Ce dispositif a dû être installé
+après que j'ai trahi Apophis.
+
+251
+00:11:12,477 --> 00:11:12,567
+ 
+
+252
+00:11:12,567 --> 00:11:16,799
+Avant que je devienne un shol'va,
+cela aurait été inutile.
+
+253
+00:11:16,799 --> 00:11:17,607
+ 
+
+254
+00:11:17,607 --> 00:11:18,881
+Et alors?
+
+255
+00:11:18,881 --> 00:11:18,967
+ 
+
+256
+00:11:18,967 --> 00:11:23,643
+- C'est entièrement de ma faute.
+- Arrête. On va s'en sortir.
+
+257
+00:11:23,643 --> 00:11:23,727
+ 
+
+258
+00:11:23,727 --> 00:11:26,366
+Digger One, répondez.
+
+259
+00:11:26,366 --> 00:11:26,647
+ 
+
+260
+00:11:26,647 --> 00:11:29,798
+- Tiens. Tu vois?
+- Jack ou TeaI'c, répondez.
+
+261
+00:11:29,798 --> 00:11:31,047
+ 
+
+262
+00:11:31,047 --> 00:11:34,722
+lci, Digger One. On vous reçoit.
+On a perdu le contrôle de l'appareil
+
+263
+00:11:34,722 --> 00:11:34,807
+ 
+
+264
+00:11:34,807 --> 00:11:37,037
+à cause d'un dispositif de rappel
+
+265
+00:11:37,037 --> 00:11:37,127
+ 
+
+266
+00:11:37,127 --> 00:11:42,599
+que cette saleté de serpent,
+ce fourbe d'Apophis,
+
+267
+00:11:42,599 --> 00:11:42,687
+ 
+
+268
+00:11:42,687 --> 00:11:45,281
+aurait installé
+dans ses planeurs de la mort.
+
+269
+00:11:45,281 --> 00:11:49,647
+ 
+
+270
+00:11:49,647 --> 00:11:51,877
+Contrôle, vous me recevez?
+
+271
+00:11:51,877 --> 00:11:56,207
+ 
+
+272
+00:11:56,207 --> 00:12:00,166
+Je ne sais pas
+si vous m'entendez, mais...
+
+273
+00:12:00,166 --> 00:12:01,847
+ 
+
+274
+00:12:01,847 --> 00:12:04,236
+les commandes ne répondent plus.
+
+275
+00:12:04,236 --> 00:12:04,327
+ 
+
+276
+00:12:04,327 --> 00:12:07,603
+Ni les propulseurs,
+ni le système de pilotage par réaction.
+
+277
+00:12:07,603 --> 00:12:07,687
+ 
+
+278
+00:12:07,687 --> 00:12:10,838
+Notre trajectoire est... balistique.
+
+279
+00:12:10,838 --> 00:12:15,767
+ 
+
+280
+00:12:15,767 --> 00:12:18,235
+Terminé.
+
+281
+00:12:18,235 --> 00:12:18,327
+ 
+
+282
+00:12:18,327 --> 00:12:22,036
+Colonel, vous êtes si loin qu'il y a
+un décalage de plusieurs minutes.
+
+283
+00:12:22,036 --> 00:12:22,127
+ 
+
+284
+00:12:22,127 --> 00:12:24,561
+La communication va être difficile.
+
+285
+00:12:24,561 --> 00:12:24,647
+ 
+
+286
+00:12:24,647 --> 00:12:28,765
+Nous avons reçu les 1 ères données
+du réseau de poursuite de la NASA.
+
+287
+00:12:28,765 --> 00:12:28,847
+ 
+
+288
+00:12:28,847 --> 00:12:32,203
+Le planeur va passer près de Jupiter.
+
+289
+00:12:32,203 --> 00:12:32,287
+ 
+
+290
+00:12:32,287 --> 00:12:35,597
+Nous espérons qu'en déviant
+légèrement votre trajectoire,
+
+291
+00:12:35,597 --> 00:12:35,687
+ 
+
+292
+00:12:35,687 --> 00:12:38,918
+vous pourrez retrouver
+la direction de la Terre.
+
+293
+00:12:38,918 --> 00:12:39,007
+ 
+
+294
+00:12:39,007 --> 00:12:41,601
+Fin du message à 1 4:30 zulu.
+
+295
+00:12:41,601 --> 00:12:42,527
+ 
+
+296
+00:12:42,527 --> 00:12:44,802
+Le décalage.
+Bien vu, commandant.
+
+297
+00:12:44,802 --> 00:12:44,887
+ 
+
+298
+00:12:44,887 --> 00:12:49,278
+ll va falloir au moins 3 mn
+au signal pour les atteindre.
+
+299
+00:12:49,278 --> 00:12:49,367
+ 
+
+300
+00:12:49,367 --> 00:12:53,042
+Ici, Digger One. On vous reçoit.
+On a perdu Ie contrôIe de I'appareiI
+
+301
+00:12:53,042 --> 00:12:53,127
+ 
+
+302
+00:12:53,127 --> 00:12:57,996
+à cause d'un dispositif de rappeI
+
+303
+00:12:57,996 --> 00:12:58,087
+ 
+
+304
+00:12:58,087 --> 00:13:01,238
+qu'Apophis aurait instaIIé
+dans ses pIaneurs de Ia mort.
+
+305
+00:13:01,238 --> 00:13:02,927
+ 
+
+306
+00:13:02,927 --> 00:13:05,122
+ContrôIe, vous me recevez?
+
+307
+00:13:05,122 --> 00:13:07,127
+ 
+
+308
+00:13:07,127 --> 00:13:11,086
+Je ne sais pas
+si vous m'entendez, mais...
+
+309
+00:13:11,086 --> 00:13:12,807
+ 
+
+310
+00:13:12,807 --> 00:13:15,241
+Ies commandes ne répondent pIus.
+
+311
+00:13:15,241 --> 00:13:16,327
+ 
+
+312
+00:13:16,327 --> 00:13:19,842
+Ni Ies propuIseurs,
+ni Ie système de piIotage par réaction.
+
+313
+00:13:19,842 --> 00:13:19,927
+ 
+
+314
+00:13:19,927 --> 00:13:23,806
+- Notre trajectoire est... baIistique.
+- Bon sang.
+
+315
+00:13:23,806 --> 00:13:24,327
+ 
+
+316
+00:13:24,327 --> 00:13:27,637
+Je comptais
+sur leur capacité de manoeuvre.
+
+317
+00:13:27,637 --> 00:13:27,727
+ 
+
+318
+00:13:27,727 --> 00:13:32,721
+Comment contourner Jupiter
+sans système de pilotage par réaction?
+
+319
+00:13:32,721 --> 00:13:36,327
+ 
+
+320
+00:13:36,327 --> 00:13:39,603
+Nous espérons qu'en déviant
+Iégèrement votre trajectoire,
+
+321
+00:13:39,603 --> 00:13:39,687
+ 
+
+322
+00:13:39,687 --> 00:13:42,963
+vous pourrez retrouver
+Ia direction de Ia Terre.
+
+323
+00:13:42,963 --> 00:13:43,047
+ 
+
+324
+00:13:43,047 --> 00:13:45,880
+Fin du message à 14:30 zuIu.
+
+325
+00:13:45,880 --> 00:13:47,287
+ 
+
+326
+00:13:47,287 --> 00:13:50,359
+Message reçu à 1 4:33 zulu.
+
+327
+00:13:50,359 --> 00:13:52,087
+ 
+
+328
+00:13:52,087 --> 00:13:54,555
+- Comment on s'y prend?
+- Sans propulseurs,
+
+329
+00:13:54,555 --> 00:13:54,647
+ 
+
+330
+00:13:54,647 --> 00:13:56,956
+impossible de dévier notre trajectoire.
+
+331
+00:13:56,956 --> 00:13:57,727
+ 
+
+332
+00:13:57,727 --> 00:13:59,558
+OK.
+
+333
+00:13:59,558 --> 00:13:59,647
+ 
+
+334
+00:13:59,647 --> 00:14:06,359
+lci, Digger One.
+lmpossible de dévier notre trajectoire.
+
+335
+00:14:06,359 --> 00:14:12,087
+ 
+
+336
+00:14:12,087 --> 00:14:14,476
+Restez à l'écoute.
+
+337
+00:14:14,476 --> 00:14:15,847
+ 
+
+338
+00:14:15,847 --> 00:14:19,965
+Teal'c, les armes qu'on transporte
+ne devraient pas être concernées.
+
+339
+00:14:19,965 --> 00:14:20,047
+ 
+
+340
+00:14:20,047 --> 00:14:23,084
+- Qu'est-ce que tu envisages?
+- D'utiliser nos missiles.
+
+341
+00:14:23,084 --> 00:14:23,167
+ 
+
+342
+00:14:23,167 --> 00:14:27,240
+ll faudrait une sacrée propulsion
+pour dévier notre trajectoire.
+
+343
+00:14:27,240 --> 00:14:27,327
+ 
+
+344
+00:14:27,327 --> 00:14:29,602
+ll faut juste la dévier d'un chouÏiÏa.
+
+345
+00:14:29,602 --> 00:14:30,287
+ 
+
+346
+00:14:30,287 --> 00:14:33,085
+Je ne suis pas sûr
+de cette unité de mesure.
+
+347
+00:14:33,085 --> 00:14:34,967
+ 
+
+348
+00:14:34,967 --> 00:14:40,280
+On a 2 moteurs-fusées alpha AlM-120
+dont on pourrait peut-être,
+
+349
+00:14:40,280 --> 00:14:40,367
+ 
+
+350
+00:14:40,367 --> 00:14:42,927
+je dis bien ''peut-être'' se servir.
+
+351
+00:14:42,927 --> 00:14:43,767
+ 
+
+352
+00:14:43,767 --> 00:14:49,000
+On a 2 moteurs-fusées aIpha AIM-120
+dont on pourrait peut-être,
+
+353
+00:14:49,000 --> 00:14:49,087
+ 
+
+354
+00:14:49,087 --> 00:14:52,124
+je dis bien ''peut-être'' se servir.
+
+355
+00:14:52,124 --> 00:14:52,287
+ 
+
+356
+00:14:52,287 --> 00:14:56,883
+Peut-on annuIer Ie débrayage
+jusqu'à Ia fiin de Ia combustion?
+
+357
+00:14:56,883 --> 00:14:56,967
+ 
+
+358
+00:14:56,967 --> 00:15:01,279
+Si oui, on a besoin
+de données sur Ia combustion.
+
+359
+00:15:01,279 --> 00:15:01,367
+ 
+
+360
+00:15:01,367 --> 00:15:03,835
+Digger One, à 14:58 zuIu.
+
+361
+00:15:03,835 --> 00:15:04,687
+ 
+
+362
+00:15:04,687 --> 00:15:06,996
+Commandant Davis?
+
+363
+00:15:06,996 --> 00:15:07,087
+ 
+
+364
+00:15:07,087 --> 00:15:09,965
+- lls veulent allumer les missiles.
+- Pourquoi?
+
+365
+00:15:09,965 --> 00:15:10,047
+ 
+
+366
+00:15:10,047 --> 00:15:13,835
+Si la vitesse delta obtenue est suffisante,
+notre plan peut marcher.
+
+367
+00:15:13,835 --> 00:15:13,927
+ 
+
+368
+00:15:13,927 --> 00:15:17,317
+- Pouvez-vous annuler l'embrayage?
+- Oui. C'est simple.
+
+369
+00:15:17,317 --> 00:15:17,407
+ 
+
+370
+00:15:17,407 --> 00:15:21,878
+Donnez-leur les instructions.
+J'ai besoin de 30 mn pour les calculs.
+
+371
+00:15:21,878 --> 00:15:21,967
+ 
+
+372
+00:15:21,967 --> 00:15:24,879
+Commandant, ne le prenez pas mal,
+mais la marge d'erreur...
+
+373
+00:15:24,879 --> 00:15:24,967
+ 
+
+374
+00:15:24,967 --> 00:15:27,686
+- Le temps presse.
+- Je sais.
+
+375
+00:15:27,686 --> 00:15:27,767
+ 
+
+376
+00:15:27,767 --> 00:15:31,760
+- lls peuvent s'écraser sur Jupiter.
+- Si on n'agit pas, il sera trop tard.
+
+377
+00:15:31,760 --> 00:15:31,847
+ 
+
+378
+00:15:31,847 --> 00:15:34,236
+- Mon général?
+- Allez-y.
+
+379
+00:15:34,236 --> 00:15:39,247
+ 
+
+380
+00:15:39,247 --> 00:15:42,364
+Mettez Ie missiIe sur Ie mode AIM-120A.
+
+381
+00:15:42,364 --> 00:15:42,447
+ 
+
+382
+00:15:42,447 --> 00:15:45,086
+- Et Ie radar sur ''Iigne de visée''.
+- Pas si vite.
+
+383
+00:15:45,086 --> 00:15:45,167
+ 
+
+384
+00:15:45,167 --> 00:15:47,317
+Le message ''hors de portée'' apparaît.
+
+385
+00:15:47,317 --> 00:15:47,407
+ 
+
+386
+00:15:47,407 --> 00:15:52,242
+Tapez ''mise à jour'',
+puis entrez Ies chiffres de tout à I'heure.
+
+387
+00:15:52,242 --> 00:15:52,327
+ 
+
+388
+00:15:52,327 --> 00:15:56,605
+- Teal'c, tu suis?
+- Vous entendrez aIors une tonaIité.
+
+389
+00:15:56,605 --> 00:15:56,687
+ 
+
+390
+00:15:56,687 --> 00:16:00,760
+AIIumez Ie 2ème missiIe,
+puis Ie 1er à T + 10 secondes.
+
+391
+00:16:00,760 --> 00:16:00,847
+ 
+
+392
+00:16:00,847 --> 00:16:03,600
+Ca a I'air compIiqué,
+mais on n'a pas Ie choix.
+
+393
+00:16:03,600 --> 00:16:03,687
+ 
+
+394
+00:16:03,687 --> 00:16:07,441
+Vous pouvez commencer
+à partir de 16:22 zuIu.
+
+395
+00:16:07,441 --> 00:16:07,527
+ 
+
+396
+00:16:07,527 --> 00:16:10,121
+Ici Ie contrôIe, à 16:18 zuIu.
+
+397
+00:16:10,121 --> 00:16:10,207
+ 
+
+398
+00:16:10,207 --> 00:16:12,960
+On entame la procédure.
+
+399
+00:16:12,960 --> 00:16:13,047
+ 
+
+400
+00:16:13,047 --> 00:16:15,356
+Quand tu veux.
+
+401
+00:16:15,356 --> 00:16:17,087
+ 
+
+402
+00:16:17,087 --> 00:16:18,964
+Mode air-air: ligne de visée.
+
+403
+00:16:18,964 --> 00:16:19,047
+ 
+
+404
+00:16:19,047 --> 00:16:20,526
+HORS DE PORTEE
+
+405
+00:16:20,526 --> 00:16:20,607
+ 
+
+406
+00:16:20,607 --> 00:16:22,723
+- Mise à jour.
+- Mise à jour.
+
+407
+00:16:22,723 --> 00:16:22,807
+ 
+
+408
+00:16:22,807 --> 00:16:25,082
+MlSE A JOUR
+
+409
+00:16:25,082 --> 00:16:25,327
+ 
+
+410
+00:16:25,327 --> 00:16:26,555
+Prêt.
+
+411
+00:16:26,555 --> 00:16:26,647
+ 
+
+412
+00:16:26,647 --> 00:16:30,686
+lci, Digger One.
+On effectue la mise à jour et on allume.
+
+413
+00:16:30,686 --> 00:16:30,767
+ 
+
+414
+00:16:30,767 --> 00:16:33,201
+Sélection du missile numéro 2.
+
+415
+00:16:33,201 --> 00:16:35,487
+ 
+
+416
+00:16:35,487 --> 00:16:37,955
+C'est parti.
+
+417
+00:16:37,955 --> 00:16:41,087
+ 
+
+418
+00:16:41,087 --> 00:16:44,204
+Quatre, trois, deux, un.
+
+419
+00:16:44,204 --> 00:16:57,887
+ 
+
+420
+00:16:57,887 --> 00:16:59,843
+DEBRAYAGE
+
+421
+00:16:59,843 --> 00:17:00,167
+ 
+
+422
+00:17:00,167 --> 00:17:02,362
+Largage des missiles.
+
+423
+00:17:02,362 --> 00:17:06,807
+ 
+
+424
+00:17:06,807 --> 00:17:07,796
+Attention.
+
+425
+00:17:07,796 --> 00:17:10,487
+ 
+
+426
+00:17:10,487 --> 00:17:13,160
+Les premières données arrivent.
+
+427
+00:17:13,160 --> 00:17:29,687
+ 
+
+428
+00:17:29,687 --> 00:17:32,076
+Digger One, ici le contrôle.
+
+429
+00:17:32,076 --> 00:17:33,527
+ 
+
+430
+00:17:33,527 --> 00:17:35,643
+L'opération a échoué.
+
+431
+00:17:35,643 --> 00:17:37,247
+ 
+
+432
+00:17:37,247 --> 00:17:41,559
+Désolée, colonel. Les missiles
+n'avaient pas assez de puissance.
+
+433
+00:17:41,559 --> 00:17:41,647
+ 
+
+434
+00:17:41,647 --> 00:17:45,720
+Vous quittez le système solaire
+et vous dirigez vers le nuage Oort
+
+435
+00:17:45,720 --> 00:17:45,807
+ 
+
+436
+00:17:45,807 --> 00:17:48,002
+que vous devriez atteindre...
+
+437
+00:17:48,002 --> 00:17:48,727
+ 
+
+438
+00:17:48,727 --> 00:17:51,116
+dans quelques mois.
+
+439
+00:17:51,116 --> 00:17:51,847
+ 
+
+440
+00:17:51,847 --> 00:17:55,920
+Nous continuons à réfléchir.
+Ne baissez pas les bras.
+
+441
+00:17:55,920 --> 00:17:58,767
+ 
+
+442
+00:17:58,767 --> 00:18:01,076
+18:13 zulu.
+
+443
+00:18:01,076 --> 00:18:12,687
+ 
+
+444
+00:18:12,687 --> 00:18:16,760
+Nous continuons à réfléchir.
+Ne baissez pas Ies bras.
+
+445
+00:18:16,760 --> 00:18:17,567
+ 
+
+446
+00:18:17,567 --> 00:18:20,001
+18:13 zuIu.
+
+447
+00:18:20,001 --> 00:18:25,327
+ 
+
+448
+00:18:25,327 --> 00:18:28,046
+La pression de la cabine est constante.
+
+449
+00:18:28,046 --> 00:18:28,127
+ 
+
+450
+00:18:28,127 --> 00:18:30,516
+La cabine ne fuit pas.
+
+451
+00:18:30,516 --> 00:18:31,527
+ 
+
+452
+00:18:31,527 --> 00:18:33,802
+Moi, en revanche, c'est moins sûr.
+
+453
+00:18:33,802 --> 00:18:33,887
+ 
+
+454
+00:18:33,887 --> 00:18:37,323
+- Notre situation a empiré.
+- Tu crois?
+
+455
+00:18:37,323 --> 00:18:38,407
+ 
+
+456
+00:18:38,407 --> 00:18:42,446
+L'impact a endommagé le moteur
+et nos équipements de vie.
+
+457
+00:18:42,446 --> 00:18:42,807
+ 
+
+458
+00:18:42,807 --> 00:18:46,925
+J'ai toujours voulu voir le nuage Oort,
+c'est déjà ça.
+
+459
+00:18:46,925 --> 00:18:49,287
+ 
+
+460
+00:18:49,287 --> 00:18:52,165
+Contrôle, ici Digger One.
+
+461
+00:18:52,165 --> 00:18:52,247
+ 
+
+462
+00:18:52,247 --> 00:18:57,765
+L'allumage a endommagé
+le moteur et les équipements de vie.
+
+463
+00:18:57,765 --> 00:18:57,847
+ 
+
+464
+00:18:57,847 --> 00:19:00,919
+ll n'y a plus de propulsion.
+Les réserves sont limitées.
+
+465
+00:19:00,919 --> 00:19:01,007
+ 
+
+466
+00:19:01,007 --> 00:19:04,886
+La procédure a endommagé le moteur
+et les équipements de vie.
+
+467
+00:19:04,886 --> 00:19:04,967
+ 
+
+468
+00:19:04,967 --> 00:19:08,198
+Le plus sage est de couper
+tous les systèmes accessoires.
+
+469
+00:19:08,198 --> 00:19:08,287
+ 
+
+470
+00:19:08,287 --> 00:19:12,280
+Et s'ils déconnectaient le dispositif
+qui les a envoyés là-haut?
+
+471
+00:19:12,280 --> 00:19:12,367
+ 
+
+472
+00:19:12,367 --> 00:19:16,326
+- Bonne idée.
+- Non, mon général. J'en doute.
+
+473
+00:19:16,326 --> 00:19:16,407
+ 
+
+474
+00:19:16,407 --> 00:19:17,681
+Pourquoi pas?
+
+475
+00:19:17,681 --> 00:19:17,767
+ 
+
+476
+00:19:17,767 --> 00:19:22,716
+ll doit y avoir un mécanisme
+à sûreté intégrée qui les en empêchera.
+
+477
+00:19:22,716 --> 00:19:22,807
+ 
+
+478
+00:19:22,807 --> 00:19:25,367
+- Rien ne le prouve.
+- Ce serait logique.
+
+479
+00:19:25,367 --> 00:19:25,447
+ 
+
+480
+00:19:25,447 --> 00:19:29,520
+Je suggère qu'on fasse tout
+pour maintenir les équipements de vie.
+
+481
+00:19:29,520 --> 00:19:29,607
+ 
+
+482
+00:19:29,607 --> 00:19:32,201
+Les concepteurs du X301 sont au travail.
+
+483
+00:19:32,201 --> 00:19:32,287
+ 
+
+484
+00:19:32,287 --> 00:19:37,281
+lls peuvent extraire le CO2, mais l'O2
+et la puissance restent un problème.
+
+485
+00:19:37,281 --> 00:19:37,367
+ 
+
+486
+00:19:37,367 --> 00:19:39,756
+Ainsi que le froid.
+
+487
+00:19:39,756 --> 00:19:40,407
+ 
+
+488
+00:19:40,407 --> 00:19:41,522
+Dr Jackson?
+
+489
+00:19:41,522 --> 00:19:41,607
+ 
+
+490
+00:19:41,607 --> 00:19:46,237
+Les Tollans n'ont aucun vaisseau
+susceptible d'arriver à temps.
+
+491
+00:19:46,237 --> 00:19:46,327
+ 
+
+492
+00:19:46,327 --> 00:19:50,206
+- Et les Tok'ras?
+- J'ai parlé à Anise en personne.
+
+493
+00:19:50,206 --> 00:19:50,287
+ 
+
+494
+00:19:50,287 --> 00:19:54,041
+lls ont un avion éclaireur
+qui se trouve à un jour de la Terre,
+
+495
+00:19:54,041 --> 00:19:54,127
+ 
+
+496
+00:19:54,127 --> 00:19:57,164
+en mission secrète
+dans un monde occupé par les Goa'ulds.
+
+497
+00:19:57,164 --> 00:19:57,247
+ 
+
+498
+00:19:57,247 --> 00:20:01,126
+Le Haut Conseil refuse d'exposer
+le chargé de mission à un risque.
+
+499
+00:20:01,126 --> 00:20:01,207
+ 
+
+500
+00:20:01,207 --> 00:20:03,357
+Pourquoi vous en avoir dit autant, alors?
+
+501
+00:20:03,357 --> 00:20:03,447
+ 
+
+502
+00:20:03,447 --> 00:20:08,680
+Le chargé de mission pourrait
+avoir fini à temps pour nous aider.
+
+503
+00:20:08,680 --> 00:20:08,767
+ 
+
+504
+00:20:08,767 --> 00:20:12,840
+Je suppose qu'elle n'a dévoilé
+ni la nature, ni le lieu de la mission.
+
+505
+00:20:12,840 --> 00:20:13,047
+ 
+
+506
+00:20:13,047 --> 00:20:18,405
+Elle a dit que la vie du Tok'ra
+était également importante pour nous.
+
+507
+00:20:18,405 --> 00:20:18,487
+ 
+
+508
+00:20:18,487 --> 00:20:20,682
+Je me suis un peu énervé,
+
+509
+00:20:20,682 --> 00:20:20,767
+ 
+
+510
+00:20:20,767 --> 00:20:24,237
+mais elle a dit
+qu'elle en avait déjà trop dit.
+
+511
+00:20:24,237 --> 00:20:24,327
+ 
+
+512
+00:20:24,327 --> 00:20:26,238
+Peut-être bien.
+
+513
+00:20:26,238 --> 00:20:27,487
+ 
+
+514
+00:20:27,487 --> 00:20:30,638
+On connaît la vitesse d'un éclaireur
+depuis notre mission à Netu.
+
+515
+00:20:30,638 --> 00:20:30,727
+ 
+
+516
+00:20:30,727 --> 00:20:34,640
+Elle a évoqué la présence de Goa'ulds
+et la proximité de la Terre.
+
+517
+00:20:34,640 --> 00:20:34,727
+ 
+
+518
+00:20:34,727 --> 00:20:38,276
+- ça laisse peu de possibilités.
+- C'est vrai.
+
+519
+00:20:38,276 --> 00:20:38,367
+ 
+
+520
+00:20:38,367 --> 00:20:41,245
+- Avec votre permission...
+- Accordée.
+
+521
+00:20:41,245 --> 00:20:41,847
+ 
+
+522
+00:20:41,847 --> 00:20:43,997
+Système de navigation: coupé.
+
+523
+00:20:43,997 --> 00:20:44,087
+ 
+
+524
+00:20:44,087 --> 00:20:46,601
+Systèmes de contrôle
+de l'allumage: coupés.
+
+525
+00:20:46,601 --> 00:20:48,327
+ 
+
+526
+00:20:48,327 --> 00:20:50,716
+Système de visée: coupé.
+
+527
+00:20:50,716 --> 00:20:53,207
+ 
+
+528
+00:20:53,207 --> 00:20:55,767
+Eclairage en veille.
+
+529
+00:20:55,767 --> 00:21:03,567
+ 
+
+530
+00:21:03,567 --> 00:21:06,161
+C'est tout ce qu'on peut couper?
+
+531
+00:21:06,161 --> 00:21:08,647
+ 
+
+532
+00:21:08,647 --> 00:21:11,036
+La radio, O'Neill.
+
+533
+00:21:11,036 --> 00:21:13,527
+ 
+
+534
+00:21:13,527 --> 00:21:15,722
+Très bien.
+
+535
+00:21:15,722 --> 00:21:21,487
+ 
+
+536
+00:21:21,487 --> 00:21:26,436
+Contrôle, ici Digger One, à 19:52 zulu.
+
+537
+00:21:26,436 --> 00:21:28,607
+ 
+
+538
+00:21:28,607 --> 00:21:33,727
+On économise notre puissance.
+On va couper la liaison descendante.
+
+539
+00:21:33,727 --> 00:21:34,607
+ 
+
+540
+00:21:34,607 --> 00:21:39,397
+On établira une liaison radio
+5 mn avant et 5 mn après chaque heure.
+
+541
+00:21:39,397 --> 00:21:39,487
+ 
+
+542
+00:21:39,487 --> 00:21:44,436
+On va essayer de vous rejoindre
+grâce à un avion écIaireur tok'ra.
+
+543
+00:21:44,436 --> 00:21:44,527
+ 
+
+544
+00:21:44,527 --> 00:21:46,802
+Fin du message à...
+QueIIe heure est-iI?
+
+545
+00:21:46,802 --> 00:21:49,687
+ 
+
+546
+00:21:49,687 --> 00:21:52,565
+19:47 zuIu.
+
+547
+00:21:52,565 --> 00:21:52,647
+ 
+
+548
+00:21:52,647 --> 00:21:56,606
+Contrôle, ici Digger One.
+On voudrait se rendre utiles.
+
+549
+00:21:56,606 --> 00:21:56,687
+ 
+
+550
+00:21:56,687 --> 00:21:58,996
+Dites-nous comment réparer le problème.
+
+551
+00:21:58,996 --> 00:21:59,087
+ 
+
+552
+00:21:59,087 --> 00:22:03,399
+Si vous envisagez de déconnecter
+Ie dispositif de rappeI,
+
+553
+00:22:03,399 --> 00:22:03,487
+ 
+
+554
+00:22:03,487 --> 00:22:06,684
+Sam pense que ceIa
+ne ferait qu'empirer Ia situation.
+
+555
+00:22:06,684 --> 00:22:13,847
+ 
+
+556
+00:22:13,847 --> 00:22:16,281
+Voici P2C-257.
+
+557
+00:22:16,281 --> 00:22:16,367
+ 
+
+558
+00:22:16,367 --> 00:22:18,642
+C'est le seul monde
+occupé par les Goa'ulds
+
+559
+00:22:18,642 --> 00:22:18,727
+ 
+
+560
+00:22:18,727 --> 00:22:22,322
+que peut atteindre un éclaireur
+à vitesse maximale.
+
+561
+00:22:22,322 --> 00:22:22,407
+ 
+
+562
+00:22:22,407 --> 00:22:24,682
+Le chargé de mission tok'ra
+doit s'y trouver.
+
+563
+00:22:24,682 --> 00:22:24,767
+ 
+
+564
+00:22:24,767 --> 00:22:28,362
+- Quels sont les risques?
+- Le SG-1 4 a passé plusieurs jours
+
+565
+00:22:28,362 --> 00:22:28,447
+ 
+
+566
+00:22:28,447 --> 00:22:30,642
+à observer l'activité d'une mine goa'uld
+
+567
+00:22:30,642 --> 00:22:30,727
+ 
+
+568
+00:22:30,727 --> 00:22:33,878
+sans jamais être repéré.
+Faisons la même chose.
+
+569
+00:22:33,878 --> 00:22:33,967
+ 
+
+570
+00:22:33,967 --> 00:22:36,606
+ll reste à identifier
+le chargé de mission Tok'ra.
+
+571
+00:22:36,606 --> 00:22:36,687
+ 
+
+572
+00:22:36,687 --> 00:22:39,042
+Selon Anise, il est important pour nous.
+
+573
+00:22:39,042 --> 00:22:39,127
+ 
+
+574
+00:22:39,127 --> 00:22:42,961
+- On le connaît.
+- Enfin, c'est ce qu'on espère.
+
+575
+00:22:42,961 --> 00:22:43,047
+ 
+
+576
+00:22:43,047 --> 00:22:46,198
+On connaît les risques, mon général.
+On est prêts.
+
+577
+00:22:46,198 --> 00:22:46,767
+ 
+
+578
+00:22:46,767 --> 00:22:49,361
+Je vois ça. Allez-y.
+
+579
+00:22:49,361 --> 00:22:49,447
+ 
+
+580
+00:22:49,447 --> 00:22:51,438
+Merci, mon général.
+
+581
+00:22:51,438 --> 00:22:53,327
+ 
+
+582
+00:22:53,327 --> 00:22:56,319
+Dites-leur d'attendre.
+On y arrivera.
+
+583
+00:22:56,319 --> 00:23:07,327
+ 
+
+584
+00:23:07,327 --> 00:23:09,283
+Digger One, ici Hammond.
+
+585
+00:23:09,283 --> 00:23:09,367
+ 
+
+586
+00:23:09,367 --> 00:23:13,804
+Jackson et Carter vont se procurer
+un appareiI pour vous sauver,
+
+587
+00:23:13,804 --> 00:23:13,887
+ 
+
+588
+00:23:13,887 --> 00:23:17,675
+mais iI vous faudra attendre
+encore 24 heures.
+
+589
+00:23:17,675 --> 00:23:17,767
+ 
+
+590
+00:23:17,767 --> 00:23:20,235
+Je sais que ça a I'air Iong,
+
+591
+00:23:20,235 --> 00:23:20,327
+ 
+
+592
+00:23:20,327 --> 00:23:23,922
+et je sais que vous vouIez
+vous sortir de Ià vous-même,
+
+593
+00:23:23,922 --> 00:23:24,007
+ 
+
+594
+00:23:24,007 --> 00:23:26,919
+mais contentez-vous
+d'économiser votre énergie.
+
+595
+00:23:26,919 --> 00:23:27,007
+ 
+
+596
+00:23:27,007 --> 00:23:29,396
+Hammond, à 21:00.
+
+597
+00:23:29,396 --> 00:23:34,087
+ 
+
+598
+00:23:34,087 --> 00:23:35,486
+24 heures.
+
+599
+00:23:35,486 --> 00:23:35,567
+ 
+
+600
+00:23:35,567 --> 00:23:39,003
+Puissance et équipements de survie
+ne dureront pas plus de 12 h.
+
+601
+00:23:39,003 --> 00:23:41,207
+ 
+
+602
+00:23:41,207 --> 00:23:43,596
+Laisse-moi faire quelques calculs.
+
+603
+00:23:43,596 --> 00:24:25,687
+ 
+
+604
+00:24:25,687 --> 00:24:28,645
+On risque de devoir entrer dans la mine.
+
+605
+00:24:28,645 --> 00:24:28,727
+ 
+
+606
+00:24:28,727 --> 00:24:32,197
+Et si on contactait
+le chargé de mission par radio?
+
+607
+00:24:32,197 --> 00:24:58,167
+ 
+
+608
+00:24:58,167 --> 00:25:02,160
+Vous êtes fous?
+Qu'est-ce que vous faites ici?
+
+609
+00:25:02,160 --> 00:25:03,127
+ 
+
+610
+00:25:03,127 --> 00:25:06,199
+- On te cherchait.
+- Vous avez un bonne raison, j'espère.
+
+611
+00:25:06,199 --> 00:25:06,287
+ 
+
+612
+00:25:06,287 --> 00:25:10,326
+Je m'apprêtais à faire exploser
+une cargaison d'armes en naqahdah
+
+613
+00:25:10,326 --> 00:25:10,407
+ 
+
+614
+00:25:10,407 --> 00:25:14,241
+qui aurait atomisé
+un bon morceau de cette planète.
+
+615
+00:25:14,241 --> 00:25:14,367
+ 
+
+616
+00:25:14,367 --> 00:25:16,961
+Si je ne vous avais pas vus
+traverser le Stargate...
+
+617
+00:25:16,961 --> 00:25:17,047
+ 
+
+618
+00:25:17,047 --> 00:25:19,515
+- Tu nous as vus?
+- Oui. Le vaisseau était dissimulé.
+
+619
+00:25:19,515 --> 00:25:19,607
+ 
+
+620
+00:25:19,607 --> 00:25:23,202
+Je dis bien ''était'',
+car maintenant nous sommes repérés.
+
+621
+00:25:23,202 --> 00:25:23,287
+ 
+
+622
+00:25:23,287 --> 00:25:26,359
+Le colonel O'Neill et Teal'c
+ont besoin de ton aide.
+
+623
+00:25:26,359 --> 00:25:28,087
+ 
+
+624
+00:25:28,087 --> 00:25:29,156
+Que se passe-t-il?
+
+625
+00:25:29,156 --> 00:25:29,247
+ 
+
+626
+00:25:29,247 --> 00:25:32,239
+lls sont dans un planeur en perdition
+en route pour l'espace lointain.
+
+627
+00:25:32,239 --> 00:25:32,327
+ 
+
+628
+00:25:32,327 --> 00:25:34,636
+C'était le seul vaisseau
+dans les environs.
+
+629
+00:25:34,636 --> 00:25:36,167
+ 
+
+630
+00:25:36,167 --> 00:25:38,158
+C'est une raison suffisante.
+
+631
+00:25:38,158 --> 00:25:39,767
+ 
+
+632
+00:25:39,767 --> 00:25:41,758
+Allons-y.
+
+633
+00:25:41,758 --> 00:25:47,767
+ 
+
+634
+00:25:47,767 --> 00:25:49,962
+Qu'y a-t-il, commandant?
+
+635
+00:25:49,962 --> 00:25:52,967
+ 
+
+636
+00:25:52,967 --> 00:25:54,161
+Mon général...
+
+637
+00:25:54,161 --> 00:25:54,247
+ 
+
+638
+00:25:54,247 --> 00:25:57,637
+Le commandant Carter et le Dr Jackson
+sont à bord de l'éclaireur tok'ra
+
+639
+00:25:57,637 --> 00:25:57,727
+ 
+
+640
+00:25:57,727 --> 00:26:00,685
+piloté par le père de Carter.
+On l'a appelé Digger Two.
+
+641
+00:26:00,685 --> 00:26:00,767
+ 
+
+642
+00:26:00,767 --> 00:26:03,327
+Ce sont de bonnes nouvelles, non?
+
+643
+00:26:03,327 --> 00:26:03,407
+ 
+
+644
+00:26:03,407 --> 00:26:06,638
+On a reçu un seul message codé,
+mon général,
+
+645
+00:26:06,638 --> 00:26:06,727
+ 
+
+646
+00:26:06,727 --> 00:26:10,276
+depuis qu'ils ont rejoint l'hyperespace.
+D'après mes calculs,
+
+647
+00:26:10,276 --> 00:26:10,367
+ 
+
+648
+00:26:10,367 --> 00:26:13,086
+même si l'éclaireur
+va à sa vitesse maximum,
+
+649
+00:26:13,086 --> 00:26:14,047
+ 
+
+650
+00:26:14,047 --> 00:26:18,359
+le colonel O'Neill et Teal'c
+seront morts quand il arrivera.
+
+651
+00:26:18,359 --> 00:26:35,687
+ 
+
+652
+00:26:35,687 --> 00:26:37,962
+Si on montait le chauffage?
+
+653
+00:26:37,962 --> 00:26:38,967
+ 
+
+654
+00:26:38,967 --> 00:26:41,720
+On doit économiser notre énergie.
+
+655
+00:26:41,720 --> 00:26:42,527
+ 
+
+656
+00:26:42,527 --> 00:26:44,563
+Au fait, j'ai fait les calculs.
+
+657
+00:26:44,563 --> 00:26:45,807
+ 
+
+658
+00:26:45,807 --> 00:26:47,957
+Moi aussi.
+
+659
+00:26:47,957 --> 00:26:48,047
+ 
+
+660
+00:26:48,047 --> 00:26:52,006
+Raison de plus pour monter
+le chauffage. ll fait froid.
+
+661
+00:26:52,006 --> 00:26:52,087
+ 
+
+662
+00:26:52,087 --> 00:26:54,601
+Je sais.
+
+663
+00:26:54,601 --> 00:26:54,687
+ 
+
+664
+00:26:54,687 --> 00:26:58,760
+J'ai déjà frôlé la mort
+par un froid glacial.
+
+665
+00:26:58,760 --> 00:26:59,767
+ 
+
+666
+00:26:59,767 --> 00:27:02,884
+Ce n'est pas aussi agréable
+qu'on pourrait le croire.
+
+667
+00:27:02,884 --> 00:27:04,367
+ 
+
+668
+00:27:04,367 --> 00:27:06,756
+Alors, s'il n'y a aucune chance...
+
+669
+00:27:06,756 --> 00:27:06,847
+ 
+
+670
+00:27:06,847 --> 00:27:09,315
+- ll y a une chance, O'Neill.
+- 24 moins 12...
+
+671
+00:27:09,315 --> 00:27:09,407
+ 
+
+672
+00:27:09,407 --> 00:27:13,116
+Si je me mets
+dans un état profond de kelno'reem,
+
+673
+00:27:13,116 --> 00:27:13,207
+ 
+
+674
+00:27:13,207 --> 00:27:15,277
+mon rythme cardiaque ralentira
+
+675
+00:27:15,277 --> 00:27:15,367
+ 
+
+676
+00:27:15,367 --> 00:27:19,155
+et nos besoins en oxygène
+diminueront considérablement.
+
+677
+00:27:19,155 --> 00:27:22,927
+ 
+
+678
+00:27:22,927 --> 00:27:25,122
+A qui je vais parler?
+
+679
+00:27:25,122 --> 00:27:25,887
+ 
+
+680
+00:27:25,887 --> 00:27:28,685
+ll n'y a pas grand-chose à dire, O'Neill.
+
+681
+00:27:28,685 --> 00:27:28,767
+ 
+
+682
+00:27:28,767 --> 00:27:31,804
+On a souvent fait front ensemble
+dans l'adversité.
+
+683
+00:27:31,804 --> 00:27:32,487
+ 
+
+684
+00:27:32,487 --> 00:27:35,957
+J'ai été honoré
+de servir les Tauris à tes côtés.
+
+685
+00:27:35,957 --> 00:27:37,447
+ 
+
+686
+00:27:37,447 --> 00:27:39,836
+On est frères.
+
+687
+00:27:39,836 --> 00:27:43,047
+ 
+
+688
+00:27:43,047 --> 00:27:45,641
+Eh bien. C'est...
+
+689
+00:27:45,641 --> 00:27:47,207
+ 
+
+690
+00:27:47,207 --> 00:27:50,119
+Tu veux dire quelque chose, O'Neill?
+
+691
+00:27:50,119 --> 00:27:50,207
+ 
+
+692
+00:27:50,207 --> 00:27:52,926
+Que pourrais-je dire après ça?
+
+693
+00:27:52,926 --> 00:27:54,727
+ 
+
+694
+00:27:54,727 --> 00:27:57,002
+A toi.
+
+695
+00:27:57,002 --> 00:27:57,767
+ 
+
+696
+00:27:57,767 --> 00:28:01,237
+Si on meurt, ce sera en beauté.
+
+697
+00:28:01,237 --> 00:28:11,247
+ 
+
+698
+00:28:11,247 --> 00:28:13,636
+On pourrait mieux faire.
+
+699
+00:28:13,636 --> 00:28:26,447
+ 
+
+700
+00:28:26,447 --> 00:28:28,802
+- ll y a des vibrations.
+- Sans blague?
+
+701
+00:28:28,802 --> 00:28:28,887
+ 
+
+702
+00:28:28,887 --> 00:28:31,720
+On est à 132%/% de notre vitesse maximale.
+
+703
+00:28:31,720 --> 00:28:32,367
+ 
+
+704
+00:28:32,367 --> 00:28:35,803
+Si on ne se désintègre pas avant,
+on y arrivera.
+
+705
+00:28:35,803 --> 00:28:37,807
+ 
+
+706
+00:28:37,807 --> 00:28:40,321
+- Est-ce que c'est raisonnable?
+- Non.
+
+707
+00:28:40,321 --> 00:28:44,367
+ 
+
+708
+00:28:44,367 --> 00:28:47,040
+Vous ignoriez la présence
+de dispositifs de rappel?
+
+709
+00:28:47,040 --> 00:28:47,127
+ 
+
+710
+00:28:47,127 --> 00:28:51,598
+lls étaient inutiles avant la rébellion
+de Teal'c sur Chulak.
+
+711
+00:28:51,598 --> 00:28:51,687
+ 
+
+712
+00:28:51,687 --> 00:28:55,521
+- On n'en savait rien.
+- C'est nouveau, même pour les Tok'ras.
+
+713
+00:28:55,521 --> 00:28:55,607
+ 
+
+714
+00:28:55,607 --> 00:28:57,677
+Tu aurais pu nous en parler.
+
+715
+00:28:57,677 --> 00:28:57,767
+ 
+
+716
+00:28:57,767 --> 00:29:00,361
+Vous auriez pu
+nous informer de vos intentions.
+
+717
+00:29:00,361 --> 00:29:01,087
+ 
+
+718
+00:29:01,087 --> 00:29:03,476
+C'est vrai. Pourquoi on n'a rien dit?
+
+719
+00:29:03,476 --> 00:29:03,567
+ 
+
+720
+00:29:03,567 --> 00:29:06,764
+Vous aviez, comme nous,
+des raisons politiques.
+
+721
+00:29:06,764 --> 00:29:06,847
+ 
+
+722
+00:29:06,847 --> 00:29:09,407
+Comment comptez-vous
+les sortir du planeur?
+
+723
+00:29:09,407 --> 00:29:09,487
+ 
+
+724
+00:29:09,487 --> 00:29:11,876
+ll ne tiendra jamais dans la soute.
+
+725
+00:29:11,876 --> 00:29:11,967
+ 
+
+726
+00:29:11,967 --> 00:29:16,404
+On se disait
+que vous pourriez les téléporter.
+
+727
+00:29:16,404 --> 00:29:17,207
+ 
+
+728
+00:29:17,207 --> 00:29:19,641
+Les téléporter.
+Vous me prenez pour Scotty?
+
+729
+00:29:19,641 --> 00:29:23,687
+ 
+
+730
+00:29:23,687 --> 00:29:28,841
+J'ai une idée, papa, mais ils devront
+s'en remettre totalement à nous.
+
+731
+00:29:28,841 --> 00:29:53,607
+ 
+
+732
+00:29:53,607 --> 00:29:57,725
+lci, Digger One... à 10:1 1 zulu.
+
+733
+00:29:57,725 --> 00:30:01,047
+ 
+
+734
+00:30:01,047 --> 00:30:04,084
+Teal'c médite
+pour économiser de l'oxygène.
+
+735
+00:30:04,084 --> 00:30:06,247
+ 
+
+736
+00:30:06,247 --> 00:30:09,762
+J'essaie de dormir, mais c'est dur.
+
+737
+00:30:09,762 --> 00:30:14,727
+ 
+
+738
+00:30:14,727 --> 00:30:17,116
+Le taux de CO2 est élevé.
+
+739
+00:30:17,116 --> 00:30:18,407
+ 
+
+740
+00:30:18,407 --> 00:30:20,796
+Ma tête.
+
+741
+00:30:20,796 --> 00:30:22,687
+ 
+
+742
+00:30:22,687 --> 00:30:25,155
+J'ai mal.
+
+743
+00:30:25,155 --> 00:30:27,607
+ 
+
+744
+00:30:27,607 --> 00:30:29,996
+Envoyez de l'aspirine.
+
+745
+00:30:29,996 --> 00:30:33,127
+ 
+
+746
+00:30:33,127 --> 00:30:35,516
+Je nous donne 3 heures maximum.
+
+747
+00:30:35,516 --> 00:30:41,127
+ 
+
+748
+00:30:41,127 --> 00:30:43,516
+lci, Digger One.
+
+749
+00:30:43,516 --> 00:31:01,367
+ 
+
+750
+00:31:01,367 --> 00:31:04,086
+- Qu'est-ce qu'il y a?
+- Rien.
+
+751
+00:31:04,086 --> 00:31:04,167
+ 
+
+752
+00:31:04,167 --> 00:31:06,840
+- Pour l'instant.
+- Vous redoutez quelque chose?
+
+753
+00:31:06,840 --> 00:31:06,927
+ 
+
+754
+00:31:06,927 --> 00:31:09,316
+J'ai quelques petites réparations à faire,
+
+755
+00:31:09,316 --> 00:31:09,407
+ 
+
+756
+00:31:09,407 --> 00:31:13,286
+mais ce n'est pas
+un endroit très sûr pour s'arrêter.
+
+757
+00:31:13,286 --> 00:31:15,567
+ 
+
+758
+00:31:15,567 --> 00:31:18,320
+Quelle idée, cette mise à niveau
+d'un planeur de la mort.
+
+759
+00:31:18,320 --> 00:31:18,407
+ 
+
+760
+00:31:18,407 --> 00:31:23,197
+Vous auriez dû savoir que vous ne
+maîtrisiez pas cette technologie.
+
+761
+00:31:23,197 --> 00:31:23,287
+ 
+
+762
+00:31:23,287 --> 00:31:27,200
+C'est la remarque la plus arrogante...
+C'est toi qui dis ça?
+
+763
+00:31:27,200 --> 00:31:27,287
+ 
+
+764
+00:31:27,287 --> 00:31:29,926
+- C'est la vérité.
+- S'il y a bien quelqu'un...
+
+765
+00:31:29,926 --> 00:31:30,007
+ 
+
+766
+00:31:30,007 --> 00:31:33,966
+ll est temps de dénoncer
+l'infantilisme technologique des humains.
+
+767
+00:31:33,966 --> 00:31:34,047
+ 
+
+768
+00:31:34,047 --> 00:31:35,116
+L'infantilisme.
+
+769
+00:31:35,116 --> 00:31:35,207
+ 
+
+770
+00:31:35,207 --> 00:31:38,597
+Oui. Par rapport aux Goa'ulds
+et aux Tok'ras, vous êtes très jeunes.
+
+771
+00:31:38,597 --> 00:31:38,687
+ 
+
+772
+00:31:38,687 --> 00:31:41,076
+- Tu es si...
+- ll n'y a rien de mal à ça.
+
+773
+00:31:41,076 --> 00:31:41,167
+ 
+
+774
+00:31:41,167 --> 00:31:46,082
+Mais vous devez apprendre.
+C'est pas parce qu'on est l'US Air Force
+
+775
+00:31:46,082 --> 00:31:46,167
+ 
+
+776
+00:31:46,167 --> 00:31:49,364
+qu'on s'approprie un planeur de la mort.
+ll faut le mériter.
+
+777
+00:31:49,364 --> 00:31:49,447
+ 
+
+778
+00:31:49,447 --> 00:31:55,079
+Les Goa'ulds et les Tok'ras
+ont eux-mêmes volé leur technologie.
+
+779
+00:31:55,079 --> 00:31:55,167
+ 
+
+780
+00:31:55,167 --> 00:31:57,886
+- Exact.
+- Mais on pilotait déjà ces avions
+
+781
+00:31:57,886 --> 00:31:57,967
+ 
+
+782
+00:31:57,967 --> 00:32:02,165
+quand les humains croyaient encore
+que la Terre était plate.
+
+783
+00:32:02,165 --> 00:32:02,567
+ 
+
+784
+00:32:02,567 --> 00:32:05,764
+- Qu'est-ce qui se passe?
+- Exactement ce que je redoutais.
+
+785
+00:32:05,764 --> 00:32:05,847
+ 
+
+786
+00:32:05,847 --> 00:32:08,315
+On a poussé les moteurs trop loin.
+
+787
+00:32:08,315 --> 00:32:13,527
+ 
+
+788
+00:32:13,527 --> 00:32:17,202
+- Danger proche.
+- Décidément, c'est pas sûr, ici.
+
+789
+00:32:17,202 --> 00:32:17,287
+ 
+
+790
+00:32:17,287 --> 00:32:22,407
+On peut relancer les moteurs,
+mais ça va prendre quelques minutes.
+
+791
+00:32:22,407 --> 00:32:23,447
+ 
+
+792
+00:32:23,447 --> 00:32:26,086
+Excusez-moi. Vous voyez ce que je vois?
+
+793
+00:32:26,086 --> 00:32:41,567
+ 
+
+794
+00:32:41,567 --> 00:32:45,924
+- On peut dissimuler le vaisseau?
+- Non. Les commandes sont coupées.
+
+795
+00:32:45,924 --> 00:32:47,607
+ 
+
+796
+00:32:47,607 --> 00:32:51,395
+- Tu connais le dialecte goa'uld?
+- Je me débrouille.
+
+797
+00:32:51,395 --> 00:32:51,487
+ 
+
+798
+00:32:51,487 --> 00:32:56,322
+Parfait. Quand ils établiront
+la liaison, pose ta main là
+
+799
+00:32:56,322 --> 00:32:56,407
+ 
+
+800
+00:32:56,407 --> 00:32:58,716
+et fais preuve d'imagination.
+
+801
+00:32:58,716 --> 00:32:58,807
+ 
+
+802
+00:32:58,807 --> 00:33:02,004
+Retire ta main
+pour diffuser le message.
+
+803
+00:33:02,004 --> 00:33:02,407
+ 
+
+804
+00:33:02,407 --> 00:33:04,602
+Sam, viens m'aider.
+
+805
+00:33:04,602 --> 00:33:18,887
+ 
+
+806
+00:33:18,887 --> 00:33:22,163
+J'essaie de dormir, mais c'est dur.
+
+807
+00:33:22,163 --> 00:33:23,847
+ 
+
+808
+00:33:23,847 --> 00:33:26,042
+Le taux de CO2 est éIevé.
+
+809
+00:33:26,042 --> 00:33:26,887
+ 
+
+810
+00:33:26,887 --> 00:33:29,560
+Ma tête. J'ai maI.
+
+811
+00:33:29,560 --> 00:33:31,287
+ 
+
+812
+00:33:31,287 --> 00:33:33,847
+Envoyez de I'aspirine.
+
+813
+00:33:33,847 --> 00:33:33,927
+ 
+
+814
+00:33:33,927 --> 00:33:36,316
+Je nous donne 3 heures maximum.
+
+815
+00:33:36,316 --> 00:33:38,087
+ 
+
+816
+00:33:38,087 --> 00:33:40,476
+Ici, Digger One.
+
+817
+00:33:40,476 --> 00:33:42,567
+ 
+
+818
+00:33:42,567 --> 00:33:44,956
+Je réponds, mon général?
+
+819
+00:33:44,956 --> 00:33:46,447
+ 
+
+820
+00:33:46,447 --> 00:33:49,166
+A-t-on de nouvelles informations?
+
+821
+00:33:49,166 --> 00:33:49,927
+ 
+
+822
+00:33:49,927 --> 00:33:54,443
+Aucune depuis que le commandant Carter
+est à bord de l'avion éclaireur.
+
+823
+00:33:54,443 --> 00:33:56,487
+ 
+
+824
+00:33:56,487 --> 00:33:58,682
+Laissons-le trouver le sommeil.
+
+825
+00:33:58,682 --> 00:33:59,727
+ 
+
+826
+00:33:59,727 --> 00:34:01,638
+Oui, mon général.
+
+827
+00:34:01,638 --> 00:34:38,687
+ 
+
+828
+00:34:38,687 --> 00:34:43,636
+- Bien. Sam a presque terminé.
+- Tant mieux. J'étais pas crédible.
+
+829
+00:34:43,636 --> 00:34:43,727
+ 
+
+830
+00:34:43,727 --> 00:34:48,039
+- Pourquoi? Tu as dit quoi?
+- Que j'étais le magicien d'Oz.
+
+831
+00:34:48,039 --> 00:34:49,967
+ 
+
+832
+00:34:49,967 --> 00:34:52,242
+- Sam.
+- J'y suis presque.
+
+833
+00:34:52,242 --> 00:34:56,087
+ 
+
+834
+00:34:56,087 --> 00:34:58,476
+ll faut y aller.
+
+835
+00:34:58,476 --> 00:34:58,567
+ 
+
+836
+00:34:58,567 --> 00:35:00,762
+Vas-y.
+
+837
+00:35:00,762 --> 00:35:08,607
+ 
+
+838
+00:35:08,607 --> 00:35:10,996
+ça fait presque 3 heures.
+
+839
+00:35:10,996 --> 00:35:11,087
+ 
+
+840
+00:35:11,087 --> 00:35:14,284
+J'aimerais envoyer un dernier message
+au colonel O'Neill.
+
+841
+00:35:14,284 --> 00:35:15,847
+ 
+
+842
+00:35:15,847 --> 00:35:18,042
+Oui, mon général.
+
+843
+00:35:18,042 --> 00:35:18,127
+ 
+
+844
+00:35:18,127 --> 00:35:22,325
+ContrôIe, ici Digger Two.
+Nous sommes dans Ie système soIaire.
+
+845
+00:35:22,325 --> 00:35:22,407
+ 
+
+846
+00:35:22,407 --> 00:35:25,524
+Nous pensons pouvoir rejoindre
+Digger One dans 4 mn.
+
+847
+00:35:25,524 --> 00:35:25,607
+ 
+
+848
+00:35:25,607 --> 00:35:27,802
+Restez à I'écoute.
+
+849
+00:35:27,802 --> 00:35:30,327
+ 
+
+850
+00:35:30,327 --> 00:35:34,605
+On essaie de contacter Digger One.
+Sans succès, jusqu'à présent.
+
+851
+00:35:34,605 --> 00:35:46,327
+ 
+
+852
+00:35:46,327 --> 00:35:49,319
+Digger One, ici Carter.
+Vous me recevez?
+
+853
+00:35:49,319 --> 00:35:52,967
+ 
+
+854
+00:35:52,967 --> 00:35:56,039
+- C'est trop tard?
+- ll semblent avoir perdu connaissance.
+
+855
+00:35:56,039 --> 00:35:56,127
+ 
+
+856
+00:35:56,127 --> 00:35:58,721
+ll faut trouver un moyen
+de les réveiller.
+
+857
+00:35:58,721 --> 00:36:00,927
+ 
+
+858
+00:36:00,927 --> 00:36:05,557
+Bon sang, colonel. On n'a pas fait
+tout ce chemin pour rien. Debout.
+
+859
+00:36:05,557 --> 00:36:08,247
+ 
+
+860
+00:36:08,247 --> 00:36:10,636
+Je vais leur donner une légère secousse.
+
+861
+00:36:10,636 --> 00:36:25,367
+ 
+
+862
+00:36:25,367 --> 00:36:27,562
+Colonel O'Neill.
+
+863
+00:36:27,562 --> 00:36:32,287
+ 
+
+864
+00:36:32,287 --> 00:36:34,482
+Carter?
+
+865
+00:36:34,482 --> 00:36:38,927
+ 
+
+866
+00:36:38,927 --> 00:36:41,202
+Oui, mon colonel.
+
+867
+00:36:41,202 --> 00:36:42,087
+ 
+
+868
+00:36:42,087 --> 00:36:44,601
+- Salut.
+- Bonjour, mon colonel.
+
+869
+00:36:44,601 --> 00:36:45,327
+ 
+
+870
+00:36:45,327 --> 00:36:48,080
+On va trouver un moyen
+de vous ramener à la maison.
+
+871
+00:36:48,080 --> 00:36:48,167
+ 
+
+872
+00:36:48,167 --> 00:36:50,397
+Où en sont vos réserves d'oxygène?
+
+873
+00:36:50,397 --> 00:36:52,247
+ 
+
+874
+00:36:52,247 --> 00:36:54,715
+Je ne sais pas... Quoi?
+
+875
+00:36:54,715 --> 00:36:55,807
+ 
+
+876
+00:36:55,807 --> 00:36:58,685
+Où en sont vos réserves d'oxygène?
+
+877
+00:36:58,685 --> 00:37:00,567
+ 
+
+878
+00:37:00,567 --> 00:37:02,080
+Carter, c'est vous?
+
+879
+00:37:02,080 --> 00:37:02,167
+ 
+
+880
+00:37:02,167 --> 00:37:07,287
+On va vous ramener à la maison,
+mais vous devez me faire confiance.
+
+881
+00:37:07,287 --> 00:37:09,647
+ 
+
+882
+00:37:09,647 --> 00:37:13,435
+lls souffrent d'anoxie,
+un manque d'oxygène.
+
+883
+00:37:13,435 --> 00:37:13,527
+ 
+
+884
+00:37:13,527 --> 00:37:15,882
+Vous me faites confiance, mon colonel?
+
+885
+00:37:15,882 --> 00:37:17,447
+ 
+
+886
+00:37:17,447 --> 00:37:20,883
+- Bien sûr.
+- Bien. Teal'c est conscient?
+
+887
+00:37:20,883 --> 00:37:22,567
+ 
+
+888
+00:37:22,567 --> 00:37:24,956
+Teal'c?
+
+889
+00:37:24,956 --> 00:37:31,167
+ 
+
+890
+00:37:31,167 --> 00:37:34,284
+- O'Neill.
+- Regarde. C'est Carter.
+
+891
+00:37:34,284 --> 00:37:35,567
+ 
+
+892
+00:37:35,567 --> 00:37:37,762
+Elle veut te parler.
+
+893
+00:37:37,762 --> 00:37:39,327
+ 
+
+894
+00:37:39,327 --> 00:37:42,000
+Commandant Carter,
+il nous reste peu d'oxygène.
+
+895
+00:37:42,000 --> 00:37:42,087
+ 
+
+896
+00:37:42,087 --> 00:37:44,282
+Et la pression de la cabine?
+
+897
+00:37:44,282 --> 00:37:44,967
+ 
+
+898
+00:37:44,967 --> 00:37:47,322
+- Elle est aussi très faible.
+- D'accord.
+
+899
+00:37:47,322 --> 00:37:47,407
+ 
+
+900
+00:37:47,407 --> 00:37:50,001
+Suivez nos instructions à la lettre.
+
+901
+00:37:50,001 --> 00:37:50,407
+ 
+
+902
+00:37:50,407 --> 00:37:53,205
+Tout d'abord, détachez-vous.
+
+903
+00:37:53,205 --> 00:37:53,287
+ 
+
+904
+00:37:53,287 --> 00:37:57,075
+Ensuite, à mon signal,
+ouvrez la verrière et sortez.
+
+905
+00:37:57,075 --> 00:37:57,167
+ 
+
+906
+00:37:57,167 --> 00:37:58,964
+- On va mourir.
+- Négatif.
+
+907
+00:37:58,964 --> 00:37:59,047
+ 
+
+908
+00:37:59,047 --> 00:38:01,277
+ça ne durera que quelques secondes.
+
+909
+00:38:01,277 --> 00:38:01,367
+ 
+
+910
+00:38:01,367 --> 00:38:05,804
+La seule façon de vous embarquer,
+c'est avec les anneaux téléporteurs.
+
+911
+00:38:05,804 --> 00:38:06,087
+ 
+
+912
+00:38:06,087 --> 00:38:08,840
+ça veut dire
+que vous devez sortir du planeur.
+
+913
+00:38:08,840 --> 00:38:08,927
+ 
+
+914
+00:38:08,927 --> 00:38:11,964
+- Tu comprends?
+- Oui.
+
+915
+00:38:11,964 --> 00:38:12,047
+ 
+
+916
+00:38:12,047 --> 00:38:17,405
+Bien. Vous devez être à 5 m
+de l'avion éclaireur. A côté l'un de l'autre.
+
+917
+00:38:17,405 --> 00:38:17,487
+ 
+
+918
+00:38:17,487 --> 00:38:19,682
+Attendez qu'on soit en position.
+
+919
+00:38:19,682 --> 00:38:19,967
+ 
+
+920
+00:38:19,967 --> 00:38:22,117
+Jacob, c'est toi?
+
+921
+00:38:22,117 --> 00:38:22,207
+ 
+
+922
+00:38:22,207 --> 00:38:25,119
+Oui, Jack.
+Fais bien ce qu'on te dit.
+
+923
+00:38:25,119 --> 00:38:26,007
+ 
+
+924
+00:38:26,007 --> 00:38:28,441
+Ton vaisseau est plus gros que le nôtre.
+
+925
+00:38:28,441 --> 00:38:28,527
+ 
+
+926
+00:38:28,527 --> 00:38:31,041
+Concentrez-vous, mon colonel.
+
+927
+00:38:31,041 --> 00:38:36,967
+ 
+
+928
+00:38:36,967 --> 00:38:40,403
+- Ouvre la verrière.
+- A mon signal, pas avant.
+
+929
+00:38:40,403 --> 00:38:41,327
+ 
+
+930
+00:38:41,327 --> 00:38:43,397
+D'accord.
+
+931
+00:38:43,397 --> 00:38:43,487
+ 
+
+932
+00:38:43,487 --> 00:38:47,958
+Attachez bien vos casques
+et mettez l'oxygène sur 100%/%.
+
+933
+00:38:47,958 --> 00:38:48,647
+ 
+
+934
+00:38:48,647 --> 00:38:53,323
+Vous allez respirer l'oxygène restant,
+en prenant de grandes inspirations.
+
+935
+00:38:53,323 --> 00:38:53,567
+ 
+
+936
+00:38:53,567 --> 00:38:56,684
+Rallumez le système
+avant d'ouvrir la verrière.
+
+937
+00:38:56,684 --> 00:38:56,767
+ 
+
+938
+00:38:56,767 --> 00:39:01,283
+Puis déconnectez le cordon ombilical
+et expirez autant que vous pouvez.
+
+939
+00:39:01,283 --> 00:39:01,367
+ 
+
+940
+00:39:01,367 --> 00:39:03,722
+Tenez-vous prêts.
+
+941
+00:39:03,722 --> 00:39:22,287
+ 
+
+942
+00:39:22,287 --> 00:39:24,926
+ça y est. Mets-toi en position.
+
+943
+00:39:24,926 --> 00:39:25,967
+ 
+
+944
+00:39:25,967 --> 00:39:28,242
+Colonel, Teal'c, vous êtes prêts?
+
+945
+00:39:28,242 --> 00:39:29,567
+ 
+
+946
+00:39:29,567 --> 00:39:31,762
+Prêts.
+
+947
+00:39:31,762 --> 00:39:33,647
+ 
+
+948
+00:39:33,647 --> 00:39:36,844
+Trois, deux, un...
+
+949
+00:39:36,844 --> 00:39:37,247
+ 
+
+950
+00:39:37,247 --> 00:39:39,238
+Maintenant.
+
+951
+00:39:39,238 --> 00:40:12,047
+ 
+
+952
+00:40:12,047 --> 00:40:13,446
+lls sont sains et saufs.
+
+953
+00:40:13,446 --> 00:40:13,527
+ 
+
+954
+00:40:13,527 --> 00:40:17,566
+lci, Digger Two. Nous avons récupéré
+le colonel O'Neill et Teal'c.
+
+955
+00:40:17,566 --> 00:40:17,647
+ 
+
+956
+00:40:17,647 --> 00:40:20,081
+lls sont en vie.
+
+957
+00:40:20,081 --> 00:40:23,407
+ 
+
+958
+00:40:23,407 --> 00:40:25,716
+Bienvenue à bord.
+
+959
+00:40:25,716 --> 00:40:32,927
+ 
+
+960
+00:40:32,927 --> 00:40:34,918
+Jacob...
+
+961
+00:40:34,918 --> 00:40:36,007
+ 
+
+962
+00:40:36,007 --> 00:40:40,000
+- Merci d'être passé.
+- J'étais dans le coin.
+
+963
+00:40:40,000 --> 00:40:40,087
+ 
+
+964
+00:40:40,087 --> 00:40:42,396
+Je te raccompagne chez toi?
+
+965
+00:40:42,396 --> 00:40:42,487
+ 
+
+966
+00:40:42,487 --> 00:40:44,762
+Oui, mon général.
+
+967
+00:40:44,762 --> 00:40:44,847
+ 
+
+968
+00:40:44,847 --> 00:40:46,838
+Merci.
+
+969
+00:40:46,838 --> 00:40:57,847
+ 
+
+970
+00:40:57,847 --> 00:41:03,717
+Ici, Digger Two. Nous avons récupéré
+Ie coIoneI O'NeiII et TeaI'c.
+
+971
+00:41:03,717 --> 00:41:03,807
+ 
+
+972
+00:41:03,807 --> 00:41:06,196
+- IIs sont en vie.
+- Bravo.
+
+973
+00:41:06,196 --> 00:41:10,367
+ 
+
+974
+00:41:10,367 --> 00:41:14,360
+Bravo, Digger Two. Revenez-nous vite.

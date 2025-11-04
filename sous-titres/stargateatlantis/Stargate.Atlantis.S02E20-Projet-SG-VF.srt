@@ -1,0 +1,2974 @@
+1
+00:00:01,200 --> 00:00:03,300
+<i>Précédemment dans Stargate Atlantis.</i>
+
+2
+00:00:03,500 --> 00:00:05,200
+Bonjour Michael. Vous vous souvenez de moi ?
+
+3
+00:00:05,300 --> 00:00:07,100
+Je ne sais même pas qui je suis.
+
+4
+00:00:07,200 --> 00:00:08,700
+J'ai l'impression qu'ils savent quelque chose.
+
+5
+00:00:08,800 --> 00:00:10,200
+Quelque chose qu'ils ne me disent pas.
+
+6
+00:00:10,300 --> 00:00:12,200
+Il n'est pas humain !
+
+7
+00:00:14,200 --> 00:00:15,700
+Je suis un Wraith.
+
+8
+00:00:16,800 --> 00:00:18,500
+Je suis redevenu ce que j'était.
+
+9
+00:00:18,600 --> 00:00:20,000
+Il y a des Wraith par ici.
+
+10
+00:00:20,800 --> 00:00:22,400
+Non seulement notre cher lieutenant va rejoindre les siens,
+
+11
+00:00:22,500 --> 00:00:24,600
+mais il va leur dire qu'Atlantis existe toujours.
+
+12
+00:00:24,700 --> 00:00:26,600
+Ils vont envoyer une autre vague de vaisseaux ruches.
+
+13
+00:00:26,700 --> 00:00:28,600
+Nous avons trouvé un vaisseau
+identique à l'Aurora
+
+14
+00:00:28,900 --> 00:00:30,400
+appelé le... Orion.
+
+15
+00:00:30,700 --> 00:00:34,200
+Très bien, les mecs, remontez les tablettes,
+redressez vos sièges et attachez vos ceintures...
+
+16
+00:00:34,800 --> 00:00:38,300
+Sachez le, nous avons détecté
+un vaisseau ruche se dirigeant vers Atlantis.
+
+17
+00:00:42,900 --> 00:00:45,400
+Tous les miens ont été mis en sécurité dans la cité.
+
+18
+00:00:45,500 --> 00:00:46,600
+Tout s'est bien passé ?
+
+19
+00:00:46,700 --> 00:00:49,100
+Ouais, ils commencent à être assez habitués aux allers-retours.
+
+20
+00:00:49,200 --> 00:00:50,600
+Avez-vous détecté d'autres contacts ?
+
+21
+00:00:50,700 --> 00:00:51,500
+Sergent ?
+
+22
+00:00:51,800 --> 00:00:52,600
+Négatif, madame.
+
+23
+00:00:52,700 --> 00:00:53,900
+Les détecteurs ne détectent rien.
+
+24
+00:00:53,901 --> 00:00:55,530
+Il semble qu'il n'y ait que ce vaisseau ruche.
+
+25
+00:00:55,531 --> 00:00:56,608
+Et notre camouflage ?
+
+26
+00:00:56,609 --> 00:00:58,671
+Opérationnel et en fonctionnement.
+Tous les indicateurs sont verts.
+
+27
+00:00:58,972 --> 00:00:59,972
+Bien.
+
+28
+00:01:00,524 --> 00:01:02,499
+Colonel Caldwell,
+êtes-vous en position ?
+
+29
+00:01:02,700 --> 00:01:06,218
+Affirmatif. Nous sommes hors de portée des détecteurs
+et parés à prendre position à votre signal
+
+30
+00:01:06,219 --> 00:01:07,155
+Excellent.
+
+31
+00:01:07,356 --> 00:01:10,022
+Je voudrais juste dire que je continue à penser
+que nous devrions être en orbite autour d'Atlantis,
+
+32
+00:01:10,023 --> 00:01:13,132
+prêts à ouvrir le feu à la seconde où
+ce vaisseau ruche sort de l'hyperespace.
+
+33
+00:01:13,133 --> 00:01:16,771
+Ce n'est qu'un vaisseau Colonel, ce qui laisse penser
+qu'ils ne sont la que pour vérifier que nous sommes là.
+
+34
+00:01:16,771 --> 00:01:19,903
+Nous n'avons pas besoin de confirmer
+notre présence si nous n'avons pas à le faire.
+
+35
+00:01:20,306 --> 00:01:21,243
+Restez juste en position.
+
+36
+00:01:21,544 --> 00:01:22,544
+Nous attendons.
+
+37
+00:01:23,426 --> 00:01:25,603
+Colonel Sheppard, comment ça se passe de votre coté ?
+
+38
+00:01:26,231 --> 00:01:30,524
+Euh, nous sommes hors de portée
+des capteurs et tout ça, mais quoiqu'il en soit,
+que nous soyons prêts à combattre est une autre histoire
+
+39
+00:01:30,525 --> 00:01:33,640
+Ecoutez, avoir réparé et rendu opérationnel
+ce vaisseau en moins d'un mois est un miracle.
+
+40
+00:01:33,641 --> 00:01:36,211
+On commence la béatification maintenant ou plus tard ?
+
+41
+00:01:36,412 --> 00:01:40,050
+Rodney, si la ruche ouvre le feu sur
+nous, je veux les drones de l'Orion.
+
+42
+00:01:40,051 --> 00:01:42,852
+Ce qui signifie que nous allons avoir besoin
+de l'hyper propulsion pour nous mettre en position.
+
+43
+00:01:42,853 --> 00:01:45,461
+Ce qui signifie que nous avons besoin du
+bouclier, ce qui signifie que vous voulez tout !
+
+44
+00:01:45,462 --> 00:01:47,500
+J'aime tout ! On peut le faire ou pas ?
+
+45
+00:01:47,500 --> 00:01:48,685
+Bien, ne vous levez pas !
+
+46
+00:01:48,686 --> 00:01:49,986
+Boucliers ?
+
+47
+00:01:51,672 --> 00:01:52,726
+Oui.
+
+48
+00:01:52,878 --> 00:01:54,327
+Jumpers en position ?
+
+49
+00:01:55,834 --> 00:01:56,948
+Peut-être...
+
+50
+00:01:57,446 --> 00:01:59,050
+Lâcher les drones ?
+
+51
+00:02:00,604 --> 00:02:01,665
+Probablement pas.
+
+52
+00:02:01,886 --> 00:02:04,377
+Eh bien, c'est inutile d'être en position
+si nous ne pouvons pas tirer.
+
+53
+00:02:04,377 --> 00:02:09,339
+Vous savez, parlons-en encore
+quelques temps, ça aidera sûrement.
+
+54
+00:02:09,340 --> 00:02:12,529
+<i>Rodney fait tout ce qui est
+humainement possible pour être prêt.</i>
+
+55
+00:02:12,530 --> 00:02:14,030
+J'ai un contact.
+
+56
+00:02:23,147 --> 00:02:24,658
+<i>Atlantis, que se passe-t-il ?</i>
+
+57
+00:02:25,515 --> 00:02:30,080
+Il se place en orbite géostationnaire.
+Il n'a armé aucune de ses armes.
+
+58
+00:02:30,080 --> 00:02:33,675
+S'ils le font, je veux que vous passiez de camouflage
+à bouclier aussi rapidement que possible.
+
+59
+00:02:33,676 --> 00:02:34,699
+N'attendez pas mon ordre.
+
+60
+00:02:34,700 --> 00:02:36,226
+Bien madame.
+
+61
+00:02:36,973 --> 00:02:39,010
+Vous pourriez nous en dire plus, Elizabeth.
+
+62
+00:02:39,011 --> 00:02:41,594
+Je suis désolé. Nous attendons juste
+qu'ils fassent le premier mouvement.
+
+63
+00:02:41,595 --> 00:02:44,164
+Nous recevons un signal, juste audio.
+
+64
+00:02:44,835 --> 00:02:46,572
+Passez-le.
+
+65
+00:02:46,738 --> 00:02:51,095
+<i>Nous savons que vous êtes ici.
+Nous ne vous voulons aucun mal. Répondez svp.</i>
+
+66
+00:02:53,201 --> 00:02:54,916
+John, vous entendez ça ?
+
+67
+00:02:55,696 --> 00:02:56,949
+Ca se répète.
+
+68
+00:02:57,114 --> 00:02:59,190
+<i>Nous ne vous voulons aucun mal.</i>
+
+69
+00:03:00,186 --> 00:03:03,133
+<i>Ca ne sert à rien de se cacher Dr. Weir. </i>
+
+70
+00:03:03,318 --> 00:03:07,713
+<i>Nous savons que vous êtes ici.
+Nous ne vous voulons aucun mal. Répondez svp.</i>
+
+71
+00:03:08,493 --> 00:03:10,238
+Est-ce qui je pense que c'est ?
+
+72
+00:03:10,239 --> 00:03:12,560
+<i>Il s'adresse à moi par mon nom.</i>
+
+73
+00:03:12,561 --> 00:03:15,400
+Je pense qu'on peut supposer que c'est Michael.
+
+74
+00:03:29,020 --> 00:03:37,320
+Stargate Atlantis - Saison 2 Episode 20
+Allies (Alliés)
+
+75
+00:03:38,320 --> 00:03:43,320
+Traduction : Biknit
+
+76
+00:03:44,320 --> 00:03:49,320
+Synchronisation : Aeropad, Golgi, Halo, Niko.
+
+77
+00:03:50,320 --> 00:03:55,320
+Relecture : Golgi, Niko.
+
+78
+00:04:04,500 --> 00:04:04,600
+h
+
+79
+00:04:04,600 --> 00:04:04,700
+ht
+
+80
+00:04:04,700 --> 00:04:04,800
+htt
+
+81
+00:04:04,800 --> 00:04:04,900
+http
+
+82
+00:04:04,900 --> 00:04:05,000
+http:
+
+83
+00:04:05,000 --> 00:04:05,100
+http:/
+
+84
+00:04:05,100 --> 00:04:05,200
+http://
+
+85
+00:04:05,200 --> 00:04:05,300
+http://p
+
+86
+00:04:05,300 --> 00:04:05,400
+http://pr
+
+87
+00:04:05,400 --> 00:04:05,500
+http://pro
+
+88
+00:04:05,510 --> 00:04:05,610
+http://proj
+
+89
+00:04:05,610 --> 00:04:05,710
+http://proje
+
+90
+00:04:05,710 --> 00:04:05,810
+http://projet
+
+91
+00:04:05,810 --> 00:04:05,910
+http://projet-
+
+92
+00:04:05,910 --> 00:04:06,010
+http://projet-s
+
+93
+00:04:06,010 --> 00:04:06,110
+http://projet-sg
+
+94
+00:04:06,110 --> 00:04:06,210
+http://projet-sg.
+
+95
+00:04:06,210 --> 00:04:06,310
+http://projet-sg.a
+
+96
+00:04:06,310 --> 00:04:06,410
+http://projet-sg.ae
+
+97
+00:04:06,410 --> 00:04:06,510
+http://projet-sg.aer
+
+98
+00:04:06,520 --> 00:04:06,620
+http://projet-sg.aero
+
+99
+00:04:06,620 --> 00:04:06,720
+http://projet-sg.aerof
+
+100
+00:04:06,720 --> 00:04:06,820
+http://projet-sg.aerofr
+
+101
+00:04:06,820 --> 00:04:06,920
+http://projet-sg.aerofra
+
+102
+00:04:06,920 --> 00:04:07,020
+http://projet-sg.aerofran
+
+103
+00:04:07,020 --> 00:04:07,120
+http://projet-sg.aerofranc
+
+104
+00:04:07,120 --> 00:04:07,220
+http://projet-sg.aerofrance
+
+105
+00:04:07,220 --> 00:04:07,320
+http://projet-sg.aerofrance.
+
+106
+00:04:07,320 --> 00:04:07,420
+http://projet-sg.aerofrance.n
+
+107
+00:04:07,420 --> 00:04:07,520
+http://projet-sg.aerofrance.ne
+
+108
+00:04:07,530 --> 00:04:17,200
+http://projet-sg.aerofrance.net
+
+109
+00:04:22,236 --> 00:04:24,110
+Vous ne pensez pas sérieusement à répondre ?
+
+110
+00:04:24,110 --> 00:04:25,139
+<i>Pourquoi pas ?</i>
+
+111
+00:04:25,172 --> 00:04:26,624
+Par où voulez-vous que je commence ?
+
+112
+00:04:26,638 --> 00:04:29,333
+Je pense que nous pouvons dire avec
+certitude que notre couverture est tombée.
+
+113
+00:04:29,334 --> 00:04:30,967
+Je n'en viendrais pas à cette conclusion.
+
+114
+00:04:30,968 --> 00:04:33,622
+Le message est de Michael, Colonel.
+
+115
+00:04:33,623 --> 00:04:34,678
+Ils savent que nous sommes là.
+
+116
+00:04:34,679 --> 00:04:36,502
+<i>Mais ils ne savent pas où exactement.</i>
+
+117
+00:04:36,503 --> 00:04:40,674
+Il a raison. Répondez-leur et on a la garantie
+que le premier tir ne nous loupera pas.
+
+118
+00:04:41,851 --> 00:04:42,987
+Teyla ?
+
+119
+00:04:44,579 --> 00:04:50,903
+Toute tentative de connexion à Michael de ma part ne fera
+que confirmer notre position aussi sûrement que par radio.
+
+120
+00:04:51,553 --> 00:04:55,630
+Je vous recommande d'ouvrir un
+canal sécurisé vers la ruche via le Daedalus.
+
+121
+00:04:55,630 --> 00:04:57,796
+De telle sorte ils ne seront pas
+capables de localiser Atlantis.
+
+122
+00:04:57,797 --> 00:04:59,890
+Et nous pouvons toujours activer le bouclier.
+
+123
+00:04:59,891 --> 00:05:05,057
+Je pense que nous avons assez de puissance de feu
+pour venir à bout d'une ruche si nous le devions.
+
+124
+00:05:05,058 --> 00:05:08,280
+Avez-vous déjà entendu parler d'un Wraith
+se comportant comme ça ?
+
+125
+00:05:08,281 --> 00:05:09,502
+Non.
+
+126
+00:05:09,946 --> 00:05:11,533
+Moi non plus.
+
+127
+00:05:11,534 --> 00:05:13,142
+Bien.
+
+128
+00:05:13,316 --> 00:05:15,396
+Ecoutons ce qu'ils ont à dire.
+
+129
+00:05:22,626 --> 00:05:25,815
+Rodney et moi avons mis en place un relais
+sub-spatial pour passer par de Daedalus
+
+130
+00:05:25,815 --> 00:05:31,063
+et j'ai réussi à configurer nos systèmes
+pour avoir à la fois l'image et le son, donc ...
+
+131
+00:05:31,064 --> 00:05:34,134
+nous devrions pouvoir les voir et les entendre en direct.
+
+132
+00:05:34,135 --> 00:05:36,656
+Ils veulent savoir ce qui prend tant de temps.
+
+133
+00:05:39,050 --> 00:05:41,048
+Ouvrez le canal.
+
+134
+00:05:49,920 --> 00:05:50,952
+Bonjour Michael.
+
+135
+00:05:51,527 --> 00:05:53,388
+Pourquoi un délai si long ?
+
+136
+00:05:53,892 --> 00:05:59,662
+Nous devions prendre quelques précautions avant de
+vous contacter. Je suis sûre que vous comprenez pourquoi.
+
+137
+00:05:59,663 --> 00:06:01,959
+J'ai dit que nous ne voulions aucun mal.
+
+138
+00:06:01,960 --> 00:06:05,340
+Et bien, excusez-moi de ne pas vous prendre au mot.
+
+139
+00:06:05,341 --> 00:06:08,719
+Vous vouliez nous parler, allez-y, nous vous écoutons.
+
+140
+00:06:08,720 --> 00:06:17,121
+Il y a plus de deux ans, chaque vaisseau Wraith
+dans cette galaxie s'est réveillé prématurément.
+
+141
+00:06:17,121 --> 00:06:21,308
+Nous pensions qu'un nouveau
+garde-manger avait été découvert.
+
+142
+00:06:21,309 --> 00:06:22,611
+La Terre.
+
+143
+00:06:22,612 --> 00:06:26,070
+Malheureusement, localiser votre planète
+
+144
+00:06:26,070 --> 00:06:34,013
+et trouver un moyen de s'y rendre
+s'est révélé assez difficile.
+
+145
+00:06:34,014 --> 00:06:36,684
+Je ne peux pas dire que je sois triste de l'entendre.
+
+146
+00:06:36,685 --> 00:06:44,360
+Pour la première fois depuis le début de notre race, il y a
+trop peu d'humains pour nourrir les Wraith qui s'éveillent.
+
+147
+00:06:44,360 --> 00:06:52,032
+Cela a conduit à une guerre civile. Les ruches forment
+des alliances. Les forts attaquent les faibles.
+
+148
+00:06:53,821 --> 00:06:54,784
+Lequel êtes-vous ?
+
+149
+00:06:54,785 --> 00:06:58,322
+Nos objectifs ne sont pas différents, Dr. Weir.
+
+150
+00:06:58,392 --> 00:07:03,668
+Vous aimeriez éliminer les Wraith en
+tant que menace ? Je trouve ça dur à croire.
+
+151
+00:07:03,669 --> 00:07:07,552
+Nous souhaiterions que vous nous
+donniez le rétrovirus du Dr. Beckett.
+
+152
+00:07:07,553 --> 00:07:13,250
+Si nous étions capables de le répandre
+à travers les ruches rivales en quantité suffisante,
+
+153
+00:07:13,250 --> 00:07:19,520
+cela les rendrait à la fois sans défense et
+nous fournirait une autre source de nourriture.
+
+154
+00:07:19,521 --> 00:07:22,909
+Ces Wraith deviendraient des humains !
+
+155
+00:07:22,910 --> 00:07:28,397
+En apparence, peut-être. En gage de
+bonne volonté, je vous envoie nos codes de brouillage.
+
+156
+00:07:28,398 --> 00:07:36,397
+Ce programme a été établi et
+distribué avant que la guerre n'éclate, donc
+nous pensons que toutes les ruches l'utilisent encore.
+
+157
+00:07:36,398 --> 00:07:41,549
+En trouvant comment contourner ou désactiver ce programme,
+
+158
+00:07:41,550 --> 00:07:48,153
+vous pourriez téléporter vos armes nucléaires à bord
+de n'importe lequel de nos vaisseaux, quand vous voulez.
+
+159
+00:07:48,154 --> 00:07:52,929
+Nous souhaitons vous aider à réussir si vous nous aidez.
+
+160
+00:07:52,930 --> 00:07:54,832
+Ils envoient les données.
+
+161
+00:07:54,833 --> 00:07:57,758
+Téléchargez-les sur un ordinateur
+sécurisé et coupé du réseau.
+
+162
+00:07:57,759 --> 00:07:59,038
+Oui, madame.
+
+163
+00:07:59,039 --> 00:08:04,603
+Je suis sûr que vous voulez rappeler tous les vaisseaux que
+vous avez disposez pour nous et parler de ca entre vous.
+
+164
+00:08:04,604 --> 00:08:07,500
+Nous attendrons votre réponse,
+
+165
+00:08:07,501 --> 00:08:12,061
+mais, si vous tentez de nous détruire,
+
+166
+00:08:12,062 --> 00:08:19,029
+nous avertirons chaque Wraith
+dans cette galaxie qu'Atlantis est toujours là.
+
+167
+00:08:19,604 --> 00:08:22,043
+Je suis sûr que vous ne voulez pas ça.
+
+168
+00:08:27,200 --> 00:08:31,177
+Bien, Je pense qu'on peut dire que s'ils
+avaient voulu nous attaquer, il l'aurait déjà fait.
+
+169
+00:08:31,177 --> 00:08:33,379
+Ils ont laissé atterrir le Daedalus sans incidents.
+
+170
+00:08:33,380 --> 00:08:35,390
+Et vous êtes sûrs qu'ils ne savent pas pour l'Orion ?
+
+171
+00:08:35,390 --> 00:08:37,795
+J'ai ordonné à Lorne de le garer
+juste hors de portée de leurs détecteurs.
+
+172
+00:08:37,796 --> 00:08:41,087
+C'est... C'est incroyable !
+
+173
+00:08:41,088 --> 00:08:43,072
+Je n'arrive pas à croire qu'ils nous
+aient envoyé ça volontairement.
+
+174
+00:08:43,073 --> 00:08:46,714
+Je veux dire, si je peux trouver comment casser ce
+programme ce qui est, comme vous savez, assez probable,
+
+175
+00:08:46,715 --> 00:08:50,135
+nous pourrions détruire n'importe
+quel vaisseau ruche que nous croisons.
+
+176
+00:08:50,136 --> 00:08:51,168
+Ainsi que celui de Michael ?
+
+177
+00:08:51,169 --> 00:08:52,730
+En fait, ça pourrait nous prendre
+plusieurs essais la première fois.
+
+178
+00:08:52,730 --> 00:08:55,781
+Suffisament longtemps pour avertir
+le reste des Wraith que nous sommes toujours là.
+
+179
+00:08:55,782 --> 00:08:59,925
+S'ils veulent vraiment me laisser faire des
+tests sur leur vaisseau, je veux dire, c'est...
+
+180
+00:08:59,926 --> 00:09:02,035
+c'est une merveilleuse opportunité Elizabeth !
+
+181
+00:09:02,036 --> 00:09:03,656
+"Une merveilleuse opportunité."
+
+182
+00:09:03,657 --> 00:09:08,009
+Bien, n'oubliez pas... c'est essentiellement notre idée.
+
+183
+00:09:08,010 --> 00:09:12,805
+Nous avons créé le rétrovirus dans le but de faire
+exactement ce qu'ils proposent que nous fassions.
+
+184
+00:09:12,806 --> 00:09:14,010
+Quel est l'inconvénient ?
+
+185
+00:09:14,010 --> 00:09:16,954
+Je veux dire, à part le fait que nous
+allons collaborer avec des Wraith ?
+
+186
+00:09:16,955 --> 00:09:18,177
+N'est-ce pas assez ?
+
+187
+00:09:18,178 --> 00:09:22,005
+Cela signifierait au moins que quelque chose de positif
+est ressorti de notre expérience avec Michael.
+
+188
+00:09:22,006 --> 00:09:24,275
+Je ne suis pas sûre que nous ayons le choix.
+
+189
+00:09:24,276 --> 00:09:29,881
+Il semblerait qu’ils aient gardé notre existence
+secrète, mais si nous ne les aidons pas...
+
+190
+00:09:29,882 --> 00:09:32,545
+Et il y a ça...
+
+191
+00:09:32,546 --> 00:09:37,285
+Carson, je sais que vous avez travaillé sur
+la mise en arme du rétrovirus. Où en êtes vous ?
+
+192
+00:09:37,286 --> 00:09:42,086
+Nous en sommes proches. Ca nécessite
+encore du travail, mais nous en sommes proches.
+
+193
+00:09:48,208 --> 00:09:50,941
+Quoi ?
+
+194
+00:09:50,942 --> 00:09:53,090
+Qu'en pensez vous ?
+
+195
+00:09:53,091 --> 00:09:54,817
+Faisons le.
+
+196
+00:09:54,818 --> 00:09:55,750
+Vraiment ?
+
+197
+00:09:55,751 --> 00:09:58,645
+Sheppard l'a dit lui-même, c'est notre idée.
+
+198
+00:09:58,646 --> 00:09:59,963
+Je pensais juste que vous de toutes les personnes...
+
+199
+00:09:59,964 --> 00:10:04,365
+Hey, s'ils veulent notre aide pour tuer d'autres Wraith,
+c'est un genre d'aide que je serais heureux de fournir.
+
+200
+00:10:04,366 --> 00:10:06,546
+Ok.
+
+201
+00:10:06,547 --> 00:10:08,667
+Donc, nous allons le faire.
+
+202
+00:10:13,068 --> 00:10:14,418
+Je vais accepter l'offre.
+
+203
+00:10:19,127 --> 00:10:20,585
+Teyla.
+
+204
+00:10:20,876 --> 00:10:22,139
+Colonel.
+
+205
+00:10:22,667 --> 00:10:26,281
+Quelque chose me dit que vous
+ne pensez pas que c'est une si bonne idée.
+
+206
+00:10:26,281 --> 00:10:28,717
+Comme je l'ai dit, je ne pense pas que nous ayons le choix.
+
+207
+00:10:28,717 --> 00:10:31,170
+Mais une bonne idée reste une bonne idée.
+
+208
+00:10:31,170 --> 00:10:36,155
+J'ai énoncé ma préoccupation à propos de changer
+les Wraith en humains avant l'expérience sur Michael.
+
+209
+00:10:36,156 --> 00:10:37,569
+Ouais, et on vous a convaincue.
+
+210
+00:10:37,570 --> 00:10:44,421
+Non, Colonel. J'ai choisi d'avoir
+confiance en vous, c'est différent.
+
+211
+00:10:44,422 --> 00:10:47,271
+Ecoutez, ce n'est pas comme si nous
+cherchions à faire une troupe de Michael là.
+
+212
+00:10:47,272 --> 00:10:49,859
+Non, nous créerons une source de
+nourriture pour les autres Wraith.
+
+213
+00:10:49,860 --> 00:10:55,798
+Au lieu de nous, ce que j'apprécie.
+
+214
+00:10:55,799 --> 00:10:59,543
+Je suppose que je veux juste que vous aussi.
+
+215
+00:10:59,544 --> 00:11:04,452
+Si ceci est toute l'étendue de leur plan...
+
+216
+00:11:04,453 --> 00:11:08,317
+Que voulez-vous dire ?
+
+217
+00:11:08,318 --> 00:11:11,200
+Ce sont des Wraith.
+
+218
+00:11:21,972 --> 00:11:27,496
+<i>Ici Escorte 2, nous avons un visuel sur
+l'éclaireur Wraith et entrons en formation avec Escorte 5.</i>
+
+219
+00:11:32,710 --> 00:11:39,669
+Je dois vous dire, quand je me suis réveillé ce matin,
+je ne pensais vraiment pas que ceci pourrait arriver.
+
+220
+00:11:39,670 --> 00:11:41,806
+Mon Dieu, j'espère que nous faisons le bon choix.
+
+221
+00:12:07,779 --> 00:12:09,598
+A terre.
+
+222
+00:12:46,401 --> 00:12:51,124
+Je suis le Dr. Elizabeth Weir.
+Bienvenue à Atlantis.
+
+223
+00:13:09,449 --> 00:13:12,011
+Les miens voudraient travailler
+avec quelques-uns de vos scientifiques,
+
+224
+00:13:12,012 --> 00:13:16,903
+mais pas plus de 3 Wraith ne seront
+autorisés dans cette base à tout moment.
+
+225
+00:13:16,904 --> 00:13:21,568
+Vous serez soumis à d'intensives fouilles
+que nous effectuerons à des intervalles aléatoires
+
+226
+00:13:21,568 --> 00:13:25,318
+Si nous trouvons une quelconque arme sur vos, euh,
+
+227
+00:13:25,319 --> 00:13:30,848
+camarades Wraiths, nous considèrerons cela comme un acte
+d'agression et détruirons immédiatement votre vaisseau.
+
+228
+00:13:30,849 --> 00:13:33,991
+Nous surveillons aussi toutes vos transmissions.
+
+229
+00:13:33,992 --> 00:13:36,780
+Tout ce que nous voulons est le rétrovirus.
+
+230
+00:13:36,781 --> 00:13:40,896
+C'est la clé pour mettre fin à une guerre civile
+qui pourrait durer des centaines d'années.
+
+231
+00:13:40,897 --> 00:13:46,718
+Imposez toutes les conditions que vous voulez.
+
+232
+00:13:46,719 --> 00:13:48,793
+Commençons.
+
+233
+00:13:51,541 --> 00:14:01,973
+A part une petite amélioration depuis que nous
+l'avons essayé sur, euh, celui que nous appelons Michael...
+
+234
+00:14:01,974 --> 00:14:08,803
+Avez-vous des noms ? Comment dois-je
+vous appeler ? Comment dois-je l'appeler ?
+
+235
+00:14:08,804 --> 00:14:14,612
+Enfin, je suppose qu'en fait ca
+n'a pas grande importance, non ?
+
+236
+00:14:14,613 --> 00:14:17,075
+Ok, où en étions nous ?
+
+237
+00:14:17,076 --> 00:14:18,458
+Euh, nous arrivions à la dissémination.
+
+238
+00:14:18,459 --> 00:14:24,416
+Oui, oui, merci. Maintenant, en dispersant
+un aérosol tel que le rétrovirus,
+
+239
+00:14:24,417 --> 00:14:28,026
+on doit tenir compte de différents paramètres :
+
+240
+00:14:28,027 --> 00:14:34,023
+proximité avec le patient, taille des particules,
+type de ventilation, architecture des voies aériennes.
+
+241
+00:14:34,024 --> 00:14:35,742
+Vous l'avez mis sous forme de gaz.
+
+242
+00:14:35,743 --> 00:14:39,338
+Oui, un gaz aérosol.
+
+243
+00:14:41,106 --> 00:14:45,378
+Sur Terre, on utiliserait normalement une technique
+appelée dissémination aérodynamique...
+
+244
+00:14:45,379 --> 00:14:49,260
+mais à cause des problèmes pour faire ça dans,
+disons, comme dans un vaisseau ruche Wraith,
+
+245
+00:14:49,261 --> 00:14:52,401
+nous avons fait plusieurs essais
+de dissémination par phéromones.
+
+246
+00:14:52,402 --> 00:14:53,747
+Explosifs.
+
+247
+00:14:53,748 --> 00:14:59,599
+Explosifs, oui, oui. Euh, le problème d'un système
+explosif est que, du fait que la drogue est aérosol,
+
+248
+00:14:59,599 --> 00:15:03,463
+un tiers des tests ont enflammé
+le produit... le rendant inefficace.
+
+249
+00:15:03,464 --> 00:15:05,433
+- Ils appellent ça le "flashing".
+- Flashing!
+
+250
+00:15:05,434 --> 00:15:09,222
+Il y a bien longtemps nous avons
+experimenté des armes à gaz.
+
+251
+00:15:09,223 --> 00:15:13,800
+Nous les avons trouvé plus dures
+à utiliser en combat atmosphérique.
+
+252
+00:15:13,801 --> 00:15:21,864
+Lâchés dans un vaisseau ennemi, ces armes causaient des
+explosions décompressives dans les compartiments visés.
+
+253
+00:15:21,865 --> 00:15:24,248
+Nous y avons pensé, oui,
+
+254
+00:15:24,249 --> 00:15:33,141
+mais si vous voulez atteindre beaucoup de monde
+en même temps, un gaz aérosol est la seule solution.
+
+255
+00:15:33,142 --> 00:15:36,197
+Maintenant nous devons trouver un moyen de la
+placer dans le vaisseau ruche de votre ennemi.
+
+256
+00:15:36,198 --> 00:15:39,471
+Oui, nous trouverons.
+
+257
+00:15:43,698 --> 00:15:50,615
+Il y a des trucs plutôt intéressants,
+je crois que j'en ai appris plus sur les technologies
+Wraith en une heure que depuis les deux dernières années.
+
+258
+00:15:52,737 --> 00:15:58,432
+Oh, allez, je comprends que vous êtes un Asgard et tout,
+mais même vous devez ressentir un peu d'adrénaline.
+
+259
+00:15:58,433 --> 00:16:03,247
+Mon corps ne possède pas les glandes surrénales
+qui produit l'épinéphrine dans votre système.
+
+260
+00:16:03,248 --> 00:16:06,990
+Et même si il l’avait, je ne serais
+pas si facilement impressionné.
+
+261
+00:16:06,991 --> 00:16:10,933
+J'ai compris ! J'ai compris. Vous pensez être
+plus intelligent que moi. Vous êtes prêt ou pas ?
+
+262
+00:16:10,934 --> 00:16:14,976
+Je le suis depuis quelque temps.
+
+263
+00:16:16,433 --> 00:16:20,264
+Ici McKay. Ouvrez-moi un canal vers la ruche.
+
+264
+00:16:20,265 --> 00:16:24,257
+<i>Ils vous entendent. Allez y.</i>
+
+265
+00:16:24,258 --> 00:16:30,460
+Ici le Dr. Rodney McKay à bord du vaisseau terrien Daedalus.
+Nous souhaiterions, euh, avec votre permission,
+
+266
+00:16:30,461 --> 00:16:36,260
+commencer à tenter de téléporter un caisson inoffensif
+sur votre vaisseau pendant que vous brouillerez.
+
+267
+00:16:36,261 --> 00:16:42,809
+Nous espérons qu'avec des essais et des
+erreurs nous pourrons...doucement... désarmer ou, euh,
+
+268
+00:16:42,810 --> 00:16:46,728
+casser le code. Pouvons-nous procéder ?
+
+269
+00:16:49,794 --> 00:16:52,253
+Vous pouvez, Dr. McKay.
+
+270
+00:16:52,254 --> 00:16:55,729
+OK! Merci. Merci.
+
+271
+00:16:56,230 --> 00:16:59,739
+C'était bizarre. On y va ?
+
+272
+00:17:06,641 --> 00:17:09,609
+Bonjour Michael.
+
+273
+00:17:09,610 --> 00:17:20,210
+Il me semblait normal de revenir ici, et de vous voir.
+Merci d'être venue. Vous n'aviez pas besoin de lui.
+
+274
+00:17:20,211 --> 00:17:23,189
+J'ai insisté.
+
+275
+00:17:23,190 --> 00:17:28,354
+La dernière fois que je vous ai vue,
+j'allais vraiment me nourrir de vous,
+
+276
+00:17:28,355 --> 00:17:34,584
+mais ce n'était pas une question de choix. C'était... instinctif.
+
+277
+00:17:34,585 --> 00:17:38,349
+C'est pour dire ça que vous deviez venir ici ?
+
+278
+00:17:38,350 --> 00:17:43,860
+Vous m'avez donné un aperçu très rare chez les Wraith.
+
+279
+00:17:43,860 --> 00:17:51,768
+Très peu d'entre nous ont connu les humains
+avant de s'en nourrir comme un moyen de survie,
+
+280
+00:17:51,769 --> 00:17:57,981
+et pourtant, je ferai ce que j'ai à faire.
+
+281
+00:17:57,982 --> 00:18:00,358
+Mais ce que vous m'avez fait...
+
+282
+00:18:00,359 --> 00:18:03,050
+Nous avons fait de même, pour survivre.
+
+283
+00:18:03,051 --> 00:18:04,666
+Je pensais que vous vouliez m'aider.
+
+284
+00:18:04,667 --> 00:18:05,961
+Où voulez-vous en venir ?
+
+285
+00:18:05,962 --> 00:18:07,952
+Nous ne sommes pas si différents que vous le pensez.
+
+286
+00:18:07,953 --> 00:18:12,123
+Nous ne sommes pas comme vous.
+
+287
+00:18:13,074 --> 00:18:16,538
+Vous êtes beaucoup plus comme
+nous que vous ne l'acceptez.
+
+288
+00:18:16,539 --> 00:18:19,290
+Je n'argumenterai pas
+avec vous, Michael. C'est inutile.
+
+289
+00:18:19,291 --> 00:18:27,592
+Si nous voulons que cette alliance fonctionne, nous
+devons tous surpasser les instincts qui nous définissent.
+
+290
+00:18:30,974 --> 00:18:33,603
+Nous ne nous reverrons pas.
+
+291
+00:18:34,002 --> 00:18:35,807
+Au revoir.
+
+292
+00:18:37,108 --> 00:18:39,056
+Au revoir.
+
+293
+00:18:45,371 --> 00:18:48,137
+Vous prouvez que j'ai raison à l'instant.
+
+294
+00:18:48,137 --> 00:18:53,991
+Oh, chaque fibre de votre corps veut me tuer.
+
+295
+00:18:53,992 --> 00:18:59,445
+L'instinct est si dur à surmonter,
+mais qu'arriverait-il à notre alliance ?
+
+296
+00:18:59,446 --> 00:19:04,450
+Tous les vaisseaux Wraith dans cette galaxie
+arriveraient ici et détruiraient cette cité.
+
+297
+00:19:06,510 --> 00:19:07,955
+Est-ce que je le vaux, Ronon ?
+
+298
+00:19:07,956 --> 00:19:12,560
+- Si ca ne dépendait que de moi...
+- Mais ce n'est pas le cas !
+
+299
+00:19:31,400 --> 00:19:33,900
+Que va-t-il se passer une fois le gaz répandu ?
+
+300
+00:19:34,000 --> 00:19:36,400
+Nous ferons de même sur une autre ruche.
+
+301
+00:19:36,500 --> 00:19:37,300
+Et ensuite ?
+
+302
+00:19:37,900 --> 00:19:41,200
+Nous continuerons tant que nous
+n'aurons pas conquis tous nos ennemis.
+
+303
+00:19:41,800 --> 00:19:44,600
+Et vous pensez que notre rétrovirus peut faire tout ça ?
+
+304
+00:19:44,700 --> 00:19:45,799
+Oui.
+
+305
+00:19:45,800 --> 00:19:47,800
+Celui que nous allons gratuitement vous fournir.
+
+306
+00:19:49,000 --> 00:19:49,800
+Je vois.
+
+307
+00:19:52,300 --> 00:19:59,000
+Votre peuple ne sera pas blessé.
+Telle sera la nature de notre accord.
+
+308
+00:19:59,900 --> 00:20:01,300
+Et qu'en sera-t-il des autres humains,
+
+309
+00:20:01,600 --> 00:20:02,600
+sur les autres mondes ?
+
+310
+00:20:03,500 --> 00:20:05,600
+Une chance que vous arrêtiez de vous nourrir d'eux ?
+
+311
+00:20:05,800 --> 00:20:08,800
+Votre rétrovirus nous permettra de
+nous nourrir des Wraith ennemis.
+
+312
+00:20:10,200 --> 00:20:14,205
+Cependant, il viendra un temps,
+
+313
+00:20:14,205 --> 00:20:16,300
+où notre ennemi sera vaincu.
+
+314
+00:20:17,000 --> 00:20:20,500
+A ce moment vous en reviendrez
+à tuer les autres comme avant.
+
+315
+00:20:20,600 --> 00:20:23,000
+Cela prendra beaucoup plus de temps que votre courte vie.
+
+316
+00:20:23,300 --> 00:20:25,600
+Disons juste que je m'inquiète pour mes petits-enfants.
+
+317
+00:20:26,600 --> 00:20:28,300
+La technologie de cette cité,
+
+318
+00:20:28,900 --> 00:20:31,100
+cette cité que vous contrôlez maintenant,
+
+319
+00:20:31,900 --> 00:20:34,400
+est de loin plus puissante que celles des Wraith,
+
+320
+00:20:35,700 --> 00:20:38,500
+pourtant nous avons amené les Atlantes à leurs pieds.
+
+321
+00:20:40,100 --> 00:20:40,900
+Pourquoi ?
+
+322
+00:20:41,000 --> 00:20:42,300
+Plus grand nombre.
+
+323
+00:20:42,400 --> 00:20:45,300
+Nombre qui va être diminué grâce à votre rétrovirus.
+
+324
+00:20:46,400 --> 00:20:48,200
+L'équilibre sera restauré.
+
+325
+00:20:49,100 --> 00:20:52,300
+Je pense qu'autant vous que nous pouvons le souhaiter,
+
+326
+00:20:53,600 --> 00:20:54,500
+pas vous ?
+
+327
+00:20:58,700 --> 00:21:02,100
+Non ! Je suis désolé, un gaz est la seule solution !
+
+328
+00:21:04,300 --> 00:21:06,800
+Pas que je veuille vous énerver,
+
+329
+00:21:07,600 --> 00:21:10,600
+ou ne prendre aucunes de vos idées en considération.
+
+330
+00:21:11,400 --> 00:21:15,400
+C'est juste que, et bien, nous y avons
+travaillé depuis quelque temps maintenant.
+
+331
+00:21:16,900 --> 00:21:17,600
+Très bien.
+
+332
+00:21:18,800 --> 00:21:22,000
+Ne pouvez vous pas faire passer une
+bombe à gaz sur l'une des ruches ennemies ?
+
+333
+00:21:22,500 --> 00:21:28,420
+Un tel dispositif ne permettrait pas au gaz d'affecter
+tout le vaisseau en une durée suffisante.
+
+334
+00:21:29,000 --> 00:21:33,500
+Ils ouvriraient le feu sur notre vaisseau
+au moment où le gaz sera détecté.
+
+335
+00:21:33,700 --> 00:21:34,400
+Oui.
+
+336
+00:21:34,700 --> 00:21:38,700
+Vous devez atteindre tous les
+compartiments occupés simultanément.
+
+337
+00:21:40,600 --> 00:21:43,900
+Si nous pouvions répandre le gaz à travers les systèmes vitaux...
+
+338
+00:21:44,000 --> 00:21:46,100
+En combien de temps agit le gaz ?
+
+339
+00:21:47,000 --> 00:21:48,945
+Eh bien, théoriquement...
+
+340
+00:21:48,946 --> 00:21:49,946
+...nous n'en savons rien.
+
+341
+00:21:50,400 --> 00:21:51,300
+Oui, nous ne savons pas.
+
+342
+00:21:51,900 --> 00:21:52,800
+Il a raison.
+
+343
+00:21:53,100 --> 00:21:53,800
+Nous ne le savons pas.
+
+344
+00:21:56,000 --> 00:21:57,600
+Alors je vais devoir passer un arrangement.
+
+345
+00:22:28,900 --> 00:22:30,300
+Je veux y descendre.
+
+346
+00:22:32,400 --> 00:22:33,100
+Maintenant.
+
+347
+00:22:38,800 --> 00:22:40,300
+Ventilez le gaz de la pièce.
+
+348
+00:22:55,400 --> 00:22:58,700
+Ne vous inquiétez pas, il commencera à se
+retransformer seulement dans plusieurs jours
+
+349
+00:22:58,750 --> 00:23:00,700
+si nous ne commençons pas à administrer...
+
+350
+00:23:01,500 --> 00:23:02,200
+Colonel,
+
+351
+00:23:03,600 --> 00:23:05,500
+Nous savions que ça ferait parti du marché.
+
+352
+00:23:17,900 --> 00:23:19,200
+J'en ai assez vu.
+
+353
+00:23:33,600 --> 00:23:35,000
+Ca fonctionne.
+
+354
+00:23:42,700 --> 00:23:46,100
+Il y a un autre vaisseau ruche non loin de ce système.
+
+355
+00:23:46,300 --> 00:23:49,800
+Ils ont récemment tenté d'attaquer notre vaisseau.
+
+356
+00:23:50,700 --> 00:23:53,800
+Je voudrais tester le virus sur eux en premier.
+
+357
+00:23:55,600 --> 00:23:57,999
+Avec tout le respect que je vous dois, madame,
+
+358
+00:23:58,000 --> 00:23:59,900
+je ne pense pas que nous soyons prêts.
+
+359
+00:24:00,100 --> 00:24:02,700
+Nous avons travaillé avec votre
+scientifique sur un moyen efficace,
+
+360
+00:24:02,701 --> 00:24:04,400
+de répandre le virus en tant que gaz...
+
+361
+00:24:04,500 --> 00:24:06,700
+Et vous avez réussi.
+
+362
+00:24:06,800 --> 00:24:09,800
+Transformer un seul Wraith dans un environnement contrôlé,
+
+363
+00:24:09,900 --> 00:24:13,200
+et essayer d'infecter une ruche entière en un seul
+coup sont deux choses complètement différentes.
+
+364
+00:24:13,300 --> 00:24:17,800
+Nous avions prévu d'entrer dans leur
+ruche en prétendant négocier notre capitulation.
+
+365
+00:24:18,200 --> 00:24:22,900
+Une partie de la délégation partirait, déposant
+des petites bombonnes de gaz partout dans le vaisseau.
+
+366
+00:24:23,600 --> 00:24:27,100
+Nous avons juste besoin d'un
+système qui synchronise l'attaque.
+
+367
+00:24:27,400 --> 00:24:28,400
+Eh bien, nous pouvons faire ca.
+
+368
+00:24:28,900 --> 00:24:30,550
+Ecoutez, avons-nous le volume nécessaire ?
+
+369
+00:24:30,700 --> 00:24:31,200
+Oui.
+
+370
+00:24:31,300 --> 00:24:35,500
+Nos labos en ont produit depuis que nous
+avons conclu un accord avec nos amis ici présents.
+
+371
+00:24:36,400 --> 00:24:37,800
+Alors nous pouvons le faire ?
+
+372
+00:24:39,200 --> 00:24:39,800
+Et bien...
+
+373
+00:24:41,100 --> 00:24:42,200
+Ca ne dépend que d'eux.
+
+374
+00:24:44,100 --> 00:24:46,700
+Je voudrais que des miens
+y aillent aussi et observent.
+
+375
+00:24:47,300 --> 00:24:48,300
+Dans quel but ?
+
+376
+00:24:49,000 --> 00:24:50,700
+Pour être sûrs que vous vous en tenez au plan,
+
+377
+00:24:51,100 --> 00:24:53,300
+faire ce que vous dites que vous aller faire.
+
+378
+00:24:54,400 --> 00:24:55,600
+Très bien.
+
+379
+00:24:57,350 --> 00:24:58,200
+Bonne chance.
+
+380
+00:24:59,600 --> 00:25:00,600
+A nous tous...
+
+381
+00:25:13,700 --> 00:25:17,099
+Le Jumper 8 s'est dégagé de la soute, occulté
+et se dirige vers les deux vaisseaux ruches.
+
+382
+00:25:17,100 --> 00:25:19,000
+Nous évoluons silencieusement
+et hors de portée des détecteurs.
+
+383
+00:25:19,001 --> 00:25:19,900
+Merci Capitaine.
+
+384
+00:25:21,200 --> 00:25:22,500
+Je suppose que maintenant on attend.
+
+385
+00:25:23,300 --> 00:25:25,200
+Cet essai est un peu prématuré vous ne pensez pas ?
+
+386
+00:25:25,600 --> 00:25:28,600
+Je suppose que c'est ce qui arrive
+quand un Wraith est trop excité.
+
+387
+00:25:28,800 --> 00:25:30,700
+Et s'ils échouent ?
+
+388
+00:25:30,800 --> 00:25:33,800
+Peut-être qu'ils vont s'entretuer pour la
+suprématie et que nous pourrons rentrer à la maison.
+
+389
+00:25:34,100 --> 00:25:35,600
+Je pensais que nous voulions que ça marche ?
+
+390
+00:25:36,800 --> 00:25:38,500
+Je dis juste, si ça ne marche pas,
+
+391
+00:25:39,100 --> 00:25:42,100
+nous ne voulons pas qu'ils sachent
+que nous sommes impliqués.
+
+392
+00:25:46,263 --> 00:25:49,146
+- Carson.
+- Elizabeth.
+
+393
+00:25:50,200 --> 00:25:52,700
+Quand j'ai développé ce rétrovirus pour les Wraith,
+
+394
+00:25:52,800 --> 00:25:55,600
+c'était pour les libérer de ce que je trouvais un état non naturel.
+
+395
+00:25:56,500 --> 00:25:58,400
+Maintenant, au moment où ils prendront forme humaine,
+
+396
+00:25:58,401 --> 00:26:00,400
+ils feront face à une mort horriblement douloureuse.
+
+397
+00:26:00,900 --> 00:26:02,600
+Peu importe comment nous le voyons,
+
+398
+00:26:03,200 --> 00:26:05,200
+nous laissons quand même les Wraith tuer des humains.
+
+399
+00:26:05,500 --> 00:26:08,200
+Je suppose que ça dépend de comment on définit "humain".
+
+400
+00:26:08,900 --> 00:26:10,700
+Nous ne pouvons juger une race entière,
+
+401
+00:26:10,701 --> 00:26:13,500
+juste parce que l'expérience de Michael n'a pas marché.
+
+402
+00:26:13,600 --> 00:26:16,700
+Si vous me demandez si je peux toujours dormir ou pas...
+
+403
+00:26:20,700 --> 00:26:24,600
+eh bien je prend ces sédatifs que vous m'avez prescrit.
+
+404
+00:26:27,500 --> 00:26:29,850
+Nous recevons les rapports télémétriques
+du Jumper occulté monsieur.
+
+405
+00:26:29,950 --> 00:26:30,900
+C'est en place.
+
+406
+00:26:31,200 --> 00:26:31,900
+Voyons ça.
+
+407
+00:26:33,900 --> 00:26:35,300
+C'est notre ruche en bas à gauche.
+
+408
+00:26:36,300 --> 00:26:37,700
+Notre ruche...
+
+409
+00:26:37,900 --> 00:26:38,900
+ça fait bizarre.
+
+410
+00:26:43,300 --> 00:26:45,400
+La délégation est à bord. Nous attendons.
+
+411
+00:26:49,800 --> 00:26:51,400
+Ils n'ont pas besoin de vous sur le Daedalus ?
+
+412
+00:26:51,600 --> 00:26:56,500
+Le Colonel Caldwell a cru que je serais plus
+utile à désactiver leur code de brouillage.
+
+413
+00:26:56,700 --> 00:26:58,800
+Alors, ils peuvent faire voler ce vaisseau sans vous.
+
+414
+00:26:58,900 --> 00:26:59,600
+Oui.
+
+415
+00:26:59,700 --> 00:27:03,400
+Mais apparemment vous ne pouvez
+pas faire ces tests sans moi.
+
+416
+00:27:03,700 --> 00:27:05,950
+Je suis sûr que je m'en serais bien sorti.
+
+417
+00:27:06,300 --> 00:27:08,100
+Je n'en suis pas si sûr.
+
+418
+00:27:09,400 --> 00:27:10,000
+Vraiment ?
+
+419
+00:27:10,700 --> 00:27:11,550
+Eh bien...
+
+420
+00:27:15,800 --> 00:27:16,500
+Ok.
+
+421
+00:27:17,400 --> 00:27:18,300
+Essayez maintenant !
+
+422
+00:27:26,800 --> 00:27:28,350
+Bien, bien...
+
+423
+00:27:28,400 --> 00:27:30,600
+Il s'avère que l'être humain sait ce qu'il fait après tout.
+
+424
+00:27:30,800 --> 00:27:35,100
+En effet. Votre assistance à ce projet sera notée.
+
+425
+00:27:35,200 --> 00:27:36,300
+Mon "assistance" ?!
+
+426
+00:27:42,900 --> 00:27:46,000
+La délégation retourne au vaisseau ruche ami plus tôt que prévu.
+
+427
+00:27:52,200 --> 00:27:53,100
+C'était quoi ça ?
+
+428
+00:27:54,300 --> 00:27:55,600
+Le transporteur a été détruit.
+
+429
+00:27:56,300 --> 00:27:57,300
+C'est pas bon.
+
+430
+00:27:57,500 --> 00:28:00,150
+Monsieur, le Jumper Huit nous rapporte
+que la ruche ennemie a ouvert le feu.
+
+431
+00:28:00,300 --> 00:28:02,300
+La ruche amie subit d'importants dégâts.
+
+432
+00:28:02,600 --> 00:28:04,800
+Ils ont embarqués, et partent vers Atlantis.
+
+433
+00:28:04,800 --> 00:28:05,900
+Ils nous ont sûrement dénoncé.
+
+434
+00:28:06,100 --> 00:28:09,650
+En position, boucliers au maximum, armes prêtes,
+batteries de missiles opérationnelles.
+
+435
+00:28:09,700 --> 00:28:11,200
+Entrée sur le champ de bataille.
+
+436
+00:28:25,600 --> 00:28:26,850
+Rentrez ce Jumper au hangar !
+
+437
+00:28:26,851 --> 00:28:28,299
+Nous n'allons pas être capables de rester ici pendant longtemps.
+
+438
+00:28:28,300 --> 00:28:31,500
+- Vous pensez que nous leur donnerons
+assez de temps pour partir ?
+- Notre ruche entre en hyperespace.
+
+439
+00:28:40,000 --> 00:28:41,400
+Le Jumper Huit a été récupéré.
+
+440
+00:28:42,000 --> 00:28:43,900
+Direction Atlantis. Sortez-nous d'ici !
+
+441
+00:28:56,700 --> 00:28:58,550
+Notre délégation a été fouillée.
+
+442
+00:28:58,600 --> 00:29:02,000
+Ils ont été tués dès que vos bombonnes ont été découvertes.
+
+443
+00:29:02,100 --> 00:29:06,000
+Notre vaisseau de transport a tenté
+de s'échapper mais a été détruit.
+
+444
+00:29:06,700 --> 00:29:10,100
+Vous devez trouver un meilleur moyen de livraison.
+
+445
+00:29:10,100 --> 00:29:11,200
+Ou quoi ?
+
+446
+00:29:11,600 --> 00:29:14,800
+Ou nous révèlerons votre position aux autres Wraith.
+
+447
+00:29:15,700 --> 00:29:17,750
+Nous avons fait notre part du marché.
+
+448
+00:29:17,800 --> 00:29:19,300
+Nous vous avons donné le rétrovirus.
+
+449
+00:29:19,301 --> 00:29:22,200
+Et il est inutile sans un moyen de livraison efficace.
+
+450
+00:29:22,300 --> 00:29:24,500
+Donc nous devons tout faire ?!
+
+451
+00:29:30,400 --> 00:29:31,800
+Ok, Ok.
+
+452
+00:29:31,801 --> 00:29:33,500
+Je vais trouver quelque chose.
+
+453
+00:29:33,900 --> 00:29:36,800
+Mais plus de retenue. Je veux savoir tout ce
+qu'il y a savoir sur les vaisseaux ruches...
+
+454
+00:29:36,801 --> 00:29:39,500
+schémas, alimentation électrique,
+configuration des systèmes vitaux,
+
+455
+00:29:39,501 --> 00:29:40,500
+tout ce que vous avez.
+
+456
+00:29:40,501 --> 00:29:42,000
+Alors vous l'aurez.
+
+457
+00:29:43,100 --> 00:29:44,000
+Vraiment ?
+
+458
+00:29:48,200 --> 00:29:49,600
+Nous recevons une transmission.
+
+459
+00:29:50,200 --> 00:29:51,400
+Assurez-vous qu'elle soit sécurisée.
+
+460
+00:29:51,401 --> 00:29:53,100
+Ouais, nous sommes totalement sécurisés.
+
+461
+00:29:53,101 --> 00:29:54,100
+Laissez-moi voir ça.
+
+462
+00:29:58,300 --> 00:29:58,818
+Oh !
+
+463
+00:30:00,200 --> 00:30:01,200
+Elle l'a vraiment fait !
+
+464
+00:30:01,201 --> 00:30:02,550
+Je veux dire, c'est du petit lait !
+
+465
+00:30:02,800 --> 00:30:03,900
+Qu'est-ce, exactement ?
+
+466
+00:30:04,700 --> 00:30:09,700
+Seulement tout ce que nous avons
+toujours voulu savoir à propos des technologies
+Wraith mais que nous avions peur de demander.
+
+467
+00:30:10,900 --> 00:30:12,500
+Pourquoi faites-vous cela ?
+
+468
+00:30:12,800 --> 00:30:15,600
+Nous avons subit d'importants dégâts.
+
+469
+00:30:22,000 --> 00:30:24,000
+Nous pourrions vous aider.
+
+470
+00:30:25,200 --> 00:30:26,700
+Vous le feriez ?
+
+471
+00:30:26,701 --> 00:30:29,000
+Nous sommes supposés avoir une alliance non ?
+
+472
+00:30:30,300 --> 00:30:35,600
+Envoyer des informations sur les technologies Wraith
+était un remarquable acte, de bonne foi de votre part.
+
+473
+00:30:35,800 --> 00:30:39,900
+Votre aide serait... acceptable.
+
+474
+00:30:40,900 --> 00:30:42,100
+Entendu donc.
+
+475
+00:30:42,900 --> 00:30:44,100
+Nous avons un accord.
+
+476
+00:30:58,000 --> 00:31:00,500
+Je sais que vous tous en avez pas mal bavé, donc, euh...
+
+477
+00:31:00,600 --> 00:31:02,400
+Docteur Vogel vient juste d'aller nous en chercher.
+
+478
+00:31:02,401 --> 00:31:04,400
+- Merci.
+- Ouais, je viens de lui prendre en venant.
+
+479
+00:31:04,800 --> 00:31:05,800
+Comment ça se passe ?
+
+480
+00:31:06,442 --> 00:31:08,600
+Ah. Oh, c'est phénoménal.
+
+481
+00:31:08,601 --> 00:31:12,000
+C'est comme avoir reçu une encyclopédie Wraith.
+C'est dur de savoir où commencer.
+
+482
+00:31:12,000 --> 00:31:14,300
+Quand j'était un gamin et que
+j'ai eu ma première encyclopédie,
+
+483
+00:31:14,400 --> 00:31:16,000
+j'ai commencé à la lettre "S".
+
+484
+00:31:16,900 --> 00:31:19,700
+Oui, eh bien je suis sûr que
+la sexualité Wraith est intéressante.
+
+485
+00:31:20,100 --> 00:31:21,900
+Nous avons décidé de nous séparer en deux équipes.
+
+486
+00:31:22,100 --> 00:31:26,100
+L'équipe A ici essaye de trouver le ou
+les meilleurs endroits pour placer les bombonnes,
+
+487
+00:31:27,000 --> 00:31:32,600
+et l'équipe B là-bas essaye de réparer les avaries,
+que le vaisseau a subit durant son dernier combat.
+
+488
+00:31:32,700 --> 00:31:33,700
+Et vous ?
+
+489
+00:31:34,400 --> 00:31:35,900
+Um, je suis la plus part du temps juste à écumer l'index.
+
+490
+00:31:36,000 --> 00:31:37,100
+Des trucs intéressants ?
+
+491
+00:31:37,300 --> 00:31:37,800
+Oh, oui.
+
+492
+00:31:37,900 --> 00:31:38,500
+Comme ?
+
+493
+00:31:38,900 --> 00:31:42,500
+Les vaisseaux sont massifs, mais à cause
+de leur conception principalement organique,
+
+494
+00:31:42,501 --> 00:31:44,300
+ils ont pas mal de faiblesses externes.
+
+495
+00:31:44,400 --> 00:31:46,700
+J'ai un faible pour les faiblesses externes.
+
+496
+00:31:47,500 --> 00:31:48,799
+Des nouvelles de Rodney pour l'instant ?
+
+497
+00:31:48,800 --> 00:31:50,400
+Je suis sûr qu'il va bien.
+
+498
+00:31:57,100 --> 00:31:58,900
+La base organique de beaucoup de vos technologies...
+
+499
+00:31:58,901 --> 00:32:01,400
+c'est, euh, assez impressionnant.
+
+500
+00:32:01,500 --> 00:32:02,500
+Très, um,
+
+501
+00:32:03,000 --> 00:32:04,000
+résistant.
+
+502
+00:32:04,400 --> 00:32:07,600
+Beaucoup des problèmes que nous
+rencontrons se guérissent d'eux mêmes, oui,
+
+503
+00:32:07,700 --> 00:32:10,700
+mais il y a des problèmes plus petits et plus complexes.
+
+504
+00:32:10,800 --> 00:32:14,900
+Ah. Comme le code à programmer pour faire
+faire à vos vieux vaisseaux de nouvelles choses ?
+
+505
+00:32:14,900 --> 00:32:17,700
+Ou contourner les systèmes inopérants, oui.
+
+506
+00:32:18,400 --> 00:32:21,900
+Cela fait si longtemps que nous
+n'avions pas eu un "réel" combat.
+
+507
+00:32:22,900 --> 00:32:23,800
+Oui, et bien,
+
+508
+00:32:24,300 --> 00:32:27,000
+j'imagine que j'aurais aussi oublié
+pas mal de choses en 10 000 ans.
+
+509
+00:32:28,500 --> 00:32:32,900
+Avant la guerre civile, il y avait des
+responsables qui entretenaient la flotte entière,
+
+510
+00:32:32,901 --> 00:32:34,700
+mais ils ont choisi leurs camps.
+
+511
+00:32:34,701 --> 00:32:36,100
+Vous m'en voyez désolé.
+
+512
+00:32:36,400 --> 00:32:39,400
+Sans votre aide, ces dommages
+auraient pu être irréparables.
+
+513
+00:32:39,401 --> 00:32:41,500
+Ah, enfin une race alien qui m'apprécie !
+
+514
+00:32:41,900 --> 00:32:46,000
+Pensez-vous que nous serons en mesure de trouver
+un moyen adéquat de répandre le rétrovirus ?
+
+515
+00:32:46,900 --> 00:32:49,500
+Et bien, je sais que vous ne me connaissez pas,
+donc vous ne pouvez pas le savoir, mais...
+
+516
+00:32:49,600 --> 00:32:52,100
+La réponse courte est oui.
+
+517
+00:32:52,600 --> 00:32:53,600
+Par ici.
+
+518
+00:32:55,000 --> 00:32:56,100
+Ronon, vous êtes fou ?!
+
+519
+00:32:56,200 --> 00:32:57,300
+Vous voulez nous faire tuer ?
+
+520
+00:32:57,700 --> 00:32:58,800
+Vous ne le touchez pas.
+
+521
+00:32:59,100 --> 00:33:02,200
+Il me guidait à travers le hall, et ne
+me suçait pas la vie hors des épaules !
+
+522
+00:33:03,300 --> 00:33:04,300
+Nous sommes désolés.
+
+523
+00:33:04,900 --> 00:33:06,000
+Dites que vous êtes désolé.
+
+524
+00:33:06,100 --> 00:33:07,400
+Cela ne sera pas nécessaire.
+
+525
+00:33:08,000 --> 00:33:09,600
+Il protégeait son supérieur.
+
+526
+00:33:10,400 --> 00:33:11,500
+J'aurais fait de même.
+
+527
+00:33:11,600 --> 00:33:12,800
+Il n'est pas mon supérieur.
+
+528
+00:33:13,300 --> 00:33:15,900
+Certainement pas... dans tous les sens.
+
+529
+00:33:17,100 --> 00:33:18,000
+Toutes mes excuses.
+
+530
+00:33:19,000 --> 00:33:20,400
+Vous voulez nous emmener quelque part ?
+
+531
+00:33:20,800 --> 00:33:22,100
+S'il vous plait. Par ici.
+
+532
+00:33:30,200 --> 00:33:31,500
+C'est l'endroit idéal.
+
+533
+00:33:31,600 --> 00:33:34,500
+Cette chambre centrale transforme le
+CO2 de votre atmosphère artificielle,
+
+534
+00:33:34,600 --> 00:33:36,800
+et le redistribue en air respirable dans tout le vaisseau.
+
+535
+00:33:36,900 --> 00:33:40,100
+En plaçant une bombonne du rétrovirus
+suffisamment grande dans cette chambre,
+
+536
+00:33:40,200 --> 00:33:42,500
+et le vaisseau tout entier sera affecté simultanément.
+
+537
+00:33:42,600 --> 00:33:46,600
+S'y rendre sans attirer l'attention sera difficile.
+
+538
+00:33:47,400 --> 00:33:50,999
+J'en suis sûre, mais nous ne pouvons vous aider là-dessus.
+
+539
+00:33:51,000 --> 00:33:54,700
+Cependant le Colonel et moi avons trouvé
+comment tester cette théorie.
+
+540
+00:33:54,900 --> 00:33:55,800
+Etape 1,
+
+541
+00:33:56,700 --> 00:33:59,200
+nous trouvons une autre ruche ennemie et nous nous y rendons,
+
+542
+00:33:59,300 --> 00:34:00,900
+juste hors de portée de ses détecteurs.
+
+543
+00:34:01,000 --> 00:34:01,400
+Etape 2,
+
+544
+00:34:01,500 --> 00:34:08,099
+le Daedalus prend position à coté de votre ruche,
+fusionnant avec votre écho radar, le rendant
+pratiquement invisible aux capteurs ennemis.
+
+545
+00:34:08,100 --> 00:34:09,200
+Etape 3,
+
+546
+00:34:09,400 --> 00:34:12,999
+en utilisant les systèmes sub-luminiques,
+nos vaisseaux s'approchent de la ruche cible pour...
+
+547
+00:34:13,000 --> 00:34:14,899
+une quelconque raison, je suis sûr que
+vous pourrez trouver une excuse.
+
+548
+00:34:14,900 --> 00:34:15,500
+Etape 4,
+
+549
+00:34:15,600 --> 00:34:18,000
+maintenant que le Daedalus peut
+de nouveau utiliser la téléportation...
+
+550
+00:34:18,001 --> 00:34:19,300
+ce qui est grâce à...
+
+551
+00:34:20,200 --> 00:34:21,100
+Peu importe...
+
+552
+00:34:21,500 --> 00:34:27,499
+une fois à portée, nous pourrons téléporter
+la bombonne dans la chambre à CO2... et BOOM !
+
+553
+00:34:27,500 --> 00:34:29,600
+Un vaisseau ruche dé-wraithifié.
+
+554
+00:34:31,900 --> 00:34:33,000
+Inacceptable.
+
+555
+00:34:34,500 --> 00:34:35,500
+Pardon ?
+
+556
+00:34:36,100 --> 00:34:40,500
+Ce plan nous laisse complètement dépendants
+de vous pour disséminer le rétrovirus.
+
+557
+00:34:40,700 --> 00:34:44,199
+C'est supposé être un test, pour voir
+si le gaz fonctionne en premier lieu.
+
+558
+00:34:44,200 --> 00:34:48,800
+Si c'est le cas, vous pourrez trouver
+d'autres moyens de le délivrer.
+
+559
+00:34:53,100 --> 00:34:54,300
+Très bien.
+
+560
+00:34:55,800 --> 00:34:59,899
+Je transmettrai les coordonnées de notre nouvelle
+cible dès que je serai de retour sur la ruche.
+
+561
+00:34:59,900 --> 00:35:02,000
+Nous partirons dès que vous serez prêts.
+
+562
+00:35:09,800 --> 00:35:12,100
+Que fait une fille comme elle pour s'amuser ?
+
+563
+00:35:13,800 --> 00:35:16,800
+Je devrais être sur cette ruche quand nous le ferons.
+
+564
+00:35:17,200 --> 00:35:18,199
+Pardon ?!
+
+565
+00:35:18,200 --> 00:35:18,899
+Vraiment ?
+
+566
+00:35:18,900 --> 00:35:20,700
+Je sais que c'est inhabituellement brave,
+
+567
+00:35:20,800 --> 00:35:23,800
+mais j'ai hacké pas mal de leurs systèmes au lieu de les réparer.
+
+568
+00:35:23,900 --> 00:35:27,120
+Je les ai convaincus que je devrais être là pour
+surveiller leurs systèmes si quelque chose cloche.
+
+569
+00:35:27,120 --> 00:35:28,300
+Et ils étaient d'accord avec ca ?
+
+570
+00:35:28,400 --> 00:35:31,800
+Oui. En plus, maintenant nous pouvons librement
+téléporter des trucs depuis et vers leur vaisseau...
+
+571
+00:35:31,900 --> 00:35:34,100
+J'ai écrit un programme qui me téléportera,
+
+572
+00:35:34,200 --> 00:35:36,300
+à la seconde où j'activerai
+ce transpondeur d'urgence.
+
+573
+00:35:39,100 --> 00:35:40,499
+Vous êtes sûr de vouloir le faire ?
+
+574
+00:35:40,500 --> 00:35:42,399
+Bien sur que je ne veux pas !
+
+575
+00:35:42,400 --> 00:35:44,499
+C'est juste que... j’aie pensé que ça devait être fait.
+
+576
+00:35:44,500 --> 00:35:46,599
+Ronon ira avec lui.
+
+577
+00:35:46,600 --> 00:35:47,999
+Ca n'aurait pu en être autrement.
+
+578
+00:35:48,000 --> 00:35:49,699
+Et je vous préfère sur le Daedalus.
+
+579
+00:35:49,700 --> 00:35:50,935
+L'endroit où je préfèrerais être.
+
+580
+00:35:50,935 --> 00:35:53,499
+Ok, bien. Finissons-en.
+
+581
+00:35:53,500 --> 00:35:56,499
+J'attends avec impatience que nos invités s'en aillent.
+
+582
+00:36:09,000 --> 00:36:10,100
+Est-ce que votre terminal ... ?
+
+583
+00:36:13,600 --> 00:36:15,400
+Vous devez voir ça.
+
+584
+00:36:19,500 --> 00:36:20,200
+Oh non.
+
+585
+00:36:21,600 --> 00:36:23,500
+Dites-moi que le Daedalus n'est pas encore parti.
+
+586
+00:36:31,600 --> 00:36:32,700
+On y est ?
+
+587
+00:36:33,200 --> 00:36:35,499
+Avez-vous idée de comment ces manœuvres vont être difficiles ?
+
+588
+00:36:35,500 --> 00:36:37,100
+Je suppose... vraiment difficiles ?
+
+589
+00:36:37,200 --> 00:36:40,999
+Nous volerons si près du vaisseau ruche que
+vous serez capable de l'atteindre et de le toucher.
+
+590
+00:36:41,000 --> 00:36:43,799
+Je vais insister sur des manœuvres
+d'entraînement avant d'approcher l'ennemi.
+
+591
+00:36:43,800 --> 00:36:45,499
+Je suis sûr qu'ils seront d'accord.
+
+592
+00:36:45,500 --> 00:36:46,900
+Nous sortons de l'hyperespace.
+
+593
+00:36:48,700 --> 00:36:50,400
+Appeler McKay sur la radio. Je voudrais...
+
+594
+00:36:54,000 --> 00:36:55,499
+Boucliers au maximum !
+
+595
+00:36:55,500 --> 00:36:58,800
+Ponts 1 à 7 dans la section avant se sont dépressurisés.
+
+596
+00:36:58,801 --> 00:37:02,100
+Verrouillez ces sections. Envoyez-y
+une équipe de contrôle des dégâts.
+
+597
+00:37:03,400 --> 00:37:04,500
+Qui nous tire dessus ?
+
+598
+00:37:04,700 --> 00:37:07,000
+Deux vaisseaux ruche juste en
+dessous de notre position monsieur.
+
+599
+00:37:07,100 --> 00:37:08,400
+L'un d'entre eux est le vaisseau ami.
+
+600
+00:37:09,800 --> 00:37:10,800
+Pas si ami.
+
+601
+00:37:10,900 --> 00:37:12,790
+Armes principales : feu à volonté sur les deux vaisseaux.
+
+602
+00:37:12,790 --> 00:37:16,799
+<i>Hermiod : préparez vous à téléporter
+une ogive dans le vaisseau le plus proche.</i>
+
+603
+00:37:16,800 --> 00:37:18,299
+Ca n'a aucun sens.
+
+604
+00:37:18,300 --> 00:37:19,599
+Pourquoi rompre l'alliance maintenant ?
+
+605
+00:37:19,600 --> 00:37:21,699
+Ils n'ont même pas le gaz à bord, nous si.
+
+606
+00:37:21,700 --> 00:37:23,900
+Ca ne me concerne plus maintenant.
+
+607
+00:37:27,900 --> 00:37:31,700
+Colonel Caldwell. C'est Hermiod.
+Les ogives sont prêtes à être déployées.
+
+608
+00:37:31,800 --> 00:37:34,099
+Attendez que nous ayons atteint la portée optimale.
+
+609
+00:37:34,100 --> 00:37:36,400
+Vous allez donner à McKay et Ronon
+le temps de se téléporter à bord d'abord.
+
+610
+00:37:36,500 --> 00:37:38,799
+Ils l'ont jusqu'à ce que nous soyons
+à portée de déploiement des armes.
+
+611
+00:37:38,800 --> 00:37:42,500
+S'ils ne peuvent activer leurs transpondeurs,
+nous ne pouvons rien faire pour eux.
+
+612
+00:37:54,700 --> 00:37:55,500
+C'était quoi ?
+
+613
+00:37:56,200 --> 00:37:57,200
+Activez votre transpondeur.
+
+614
+00:37:59,000 --> 00:37:59,800
+Oh non!
+
+615
+00:38:05,700 --> 00:38:06,800
+Que faites-vous ?
+
+616
+00:38:06,900 --> 00:38:08,900
+Je suis désolé Dr McKay.
+
+617
+00:38:09,200 --> 00:38:10,499
+Il y a eu...
+
+618
+00:38:10,500 --> 00:38:12,900
+changement dans les plans.
+
+619
+00:38:18,200 --> 00:38:19,300
+C'est le moment.
+
+620
+00:38:20,000 --> 00:38:21,399
+Donnez leur encore quelques secondes.
+
+621
+00:38:21,400 --> 00:38:22,799
+Désolé Colonel, je ne peux pas faire ça.
+
+622
+00:38:22,800 --> 00:38:25,700
+Hermiod, déployez les ogives quand vous pouvez.
+
+623
+00:38:26,000 --> 00:38:30,199
+Colonel Caldwell, le code du Dr. McKay n'a pas
+réussi à casser les contre-mesures des Wraith.
+
+624
+00:38:30,200 --> 00:38:33,099
+Je suis en train de tenter une autre série de codes.
+
+625
+00:38:33,100 --> 00:38:36,100
+Travaillez aussi vite que vous le pouvez,
+ce bouclier ne va pas tenir éternellement.
+
+626
+00:38:37,000 --> 00:38:40,199
+Avec quelques 302, nous devrions être capables de supprimer
+l'hyperpropulsion, pour nous faire gagner du temps.
+
+627
+00:38:40,200 --> 00:38:40,800
+Faites le !
+
+628
+00:38:42,400 --> 00:38:43,900
+Boucliers à 60%.
+
+629
+00:38:51,600 --> 00:38:55,400
+Delta 2, à mon commandement.
+Visez et touchez leurs hyperpropulseurs.
+
+630
+00:38:55,500 --> 00:38:56,300
+<i>Chasseurs en approche.</i>
+
+631
+00:38:56,400 --> 00:38:59,000
+Deltas 3 et 4, essayez de virer
+ces Darts de derrière nous.
+
+632
+00:39:16,200 --> 00:39:18,900
+Whoa, attendez, nous étions supposés être alliés !
+
+633
+00:39:21,100 --> 00:39:24,500
+Je crains que l'alliance ne soit dissoute.
+
+634
+00:39:24,600 --> 00:39:27,000
+Avez-vous idée de la quantité
+de travail que j'ai mis dans tout ca ?
+
+635
+00:39:29,700 --> 00:39:31,400
+Je n'ai pas dormi depuis 36 heures !
+
+636
+00:39:32,800 --> 00:39:35,400
+Peut-être est-ce mieux que vous vous reposiez.
+
+637
+00:39:43,300 --> 00:39:44,700
+Boucliers à moins de 20%.
+
+638
+00:39:45,200 --> 00:39:46,500
+Hermiod, qu'avez-vous pour moi ?
+
+639
+00:39:46,501 --> 00:39:51,499
+Je ne peux pas garantir que je pourrais
+contourner les contre-mesures Wraith à temps.
+
+640
+00:39:51,500 --> 00:39:53,100
+Colonel Sheppard, retournez au vaisseau.
+
+641
+00:39:53,101 --> 00:39:55,100
+Nous avons besoin de partir d'ici au plus tôt.
+
+642
+00:39:56,600 --> 00:39:58,700
+<i>Deux minutes. Je peux descendre leurs hyperpropulseurs.</i>
+
+643
+00:39:59,700 --> 00:40:02,800
+A moins que vous puissiez détruire
+leurs canons, ça ne nous aidera pas beaucoup.
+
+644
+00:40:05,200 --> 00:40:06,000
+Bordel !
+
+645
+00:40:13,365 --> 00:40:14,100
+Sheppard ?
+
+646
+00:40:16,450 --> 00:40:16,800
+Sheppard ?
+
+647
+00:40:17,600 --> 00:40:19,200
+Je ne reçois rien monsieur.
+
+648
+00:40:20,800 --> 00:40:22,200
+Préparez-vous à partir à mon signal.
+
+649
+00:40:22,201 --> 00:40:24,800
+Monsieur ! Les ruches ouvrent des fenêtres hyperespaces.
+
+650
+00:40:42,300 --> 00:40:43,700
+Pourquoi diable feraient-ils ca ?
+
+651
+00:40:44,400 --> 00:40:47,699
+- Trois de nos 302 retournent à bord du Daedalus Monsieur.
+- Sheppard ?
+
+652
+00:40:47,700 --> 00:40:49,400
+Son chasseur n'est pas l'un d'entre eux.
+
+653
+00:40:49,500 --> 00:40:52,300
+Les seuls contacts que j'ai sur mon écran sont... des débris.
+
+654
+00:40:52,900 --> 00:40:54,400
+Et sa balise de détresse ?
+
+655
+00:40:54,800 --> 00:40:55,800
+Non, rien monsieur.
+
+656
+00:40:57,000 --> 00:40:58,000
+Il est juste parti.
+
+657
+00:41:01,200 --> 00:41:02,100
+Compris.
+
+658
+00:41:05,400 --> 00:41:06,800
+Nous retournons à Atlantis.
+
+659
+00:41:09,800 --> 00:41:10,800
+Nous nous sommes fait piratés.
+
+660
+00:41:11,200 --> 00:41:14,100
+A l'intérieur des schéma de la ruche
+était caché un virus de type ver.
+
+661
+00:41:14,200 --> 00:41:15,400
+Vous avez pourtant analysé les données.
+
+662
+00:41:15,401 --> 00:41:17,100
+Je sais. Nous pensions qu'il était clean,
+
+663
+00:41:17,200 --> 00:41:19,000
+mais ce virus était complètement différent.
+
+664
+00:41:19,600 --> 00:41:20,600
+Qu'a-t-il fait ?
+
+665
+00:41:20,700 --> 00:41:25,099
+Il a sondé très sélectivement nos
+systèmes, sans les modifier ni s'exposer.
+
+666
+00:41:25,100 --> 00:41:28,000
+Je ne comprends pas. Si vous n'avez rien trouvé
+et qu'il ne s'est pas révélé de lui même...
+
+667
+00:41:28,100 --> 00:41:30,100
+Une fois que la ruche a quitté Atlantis,
+
+668
+00:41:30,200 --> 00:41:33,100
+le ver a commencé à détruire toutes
+les données qu'ils nous avaient envoyé.
+
+669
+00:41:33,700 --> 00:41:35,600
+Alors c'était leur plan depuis le début.
+
+670
+00:41:37,800 --> 00:41:38,950
+Qu'ont-ils obtenus ?
+
+671
+00:41:39,000 --> 00:41:40,700
+C'est l'une des raisons pour laquelle nous ne l'avons pas détecté.
+
+672
+00:41:40,800 --> 00:41:43,599
+Ils ont seulement téléchargé deux choses :
+
+673
+00:41:43,600 --> 00:41:46,000
+Un, les rapports de la mission Aurora...
+
+674
+00:41:46,800 --> 00:41:47,600
+Ok.
+
+675
+00:41:47,800 --> 00:41:48,800
+et deux ?
+
+676
+00:41:51,700 --> 00:41:54,700
+La localisation de chaque monde
+dans notre base de donnée.
+
+677
+00:42:08,000 --> 00:42:09,000
+Vous allez bien ?
+
+678
+00:42:12,800 --> 00:42:13,400
+Non.
+
+679
+00:42:14,000 --> 00:42:17,800
+Non, je pense que je ne me suis jamais senti aussi mal.
+
+680
+00:42:19,700 --> 00:42:21,899
+Je vois que vous vous êtes réveillés.
+
+681
+00:42:21,900 --> 00:42:25,600
+Vraiment ? J'espérais en quelque sorte
+que ce n'était qu'un cauchemar.
+
+682
+00:42:26,100 --> 00:42:28,299
+Pourquoi ne sommes-nous pas morts ?
+
+683
+00:42:28,300 --> 00:42:33,200
+La Reine veut que vous viviez suffisamment
+longtemps pour voir les fruits de votre labeur.
+
+684
+00:42:33,800 --> 00:42:36,099
+Si vous n'aviez pas été là, Dr. McKay,
+
+685
+00:42:36,100 --> 00:42:38,800
+nous n'aurions jamais pu nous y rendre.
+
+686
+00:42:39,200 --> 00:42:41,400
+De quoi parlez-vous ? Aller où ?
+
+687
+00:42:43,400 --> 00:42:45,100
+La Terre.
+
+688
+00:42:52,200 --> 00:42:53,200
+-- Rapidité  --
+
+689
+00:42:53,200 --> 00:42:54,200
+-- Efficacité --
+
+690
+00:42:54,200 --> 00:42:55,200
+Notre devise.
+
+691
+00:42:55,200 --> 00:42:57,200
+-- Projet SG --
+
+692
+00:42:57,300 --> 00:43:01,000
+http://projet-sg.aerofrance.net
+

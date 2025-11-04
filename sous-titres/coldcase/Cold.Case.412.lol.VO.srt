@@ -1,0 +1,2935 @@
+1
+00:00:00,000 --> 00:00:03,200
+...
+
+2
+00:00:03,200 --> 00:00:04,930
+...
+
+3
+00:00:04,990 --> 00:00:07,760
+...
+
+4
+00:00:07,820 --> 00:00:10,130
+...
+
+5
+00:00:10,160 --> 00:00:12,410
+...
+
+6
+00:00:12,470 --> 00:00:15,840
+...
+
+7
+00:00:15,870 --> 00:00:18,410
+...
+
+8
+00:00:18,460 --> 00:00:20,290
+...
+
+9
+00:00:20,330 --> 00:00:21,550
+...
+
+10
+00:00:21,610 --> 00:00:23,420
+...
+
+11
+00:00:23,550 --> 00:00:25,350
+...
+
+12
+00:00:25,410 --> 00:00:27,200
+...
+
+13
+00:00:27,230 --> 00:00:28,550
+...
+
+14
+00:00:28,580 --> 00:00:30,810
+...
+
+15
+00:00:30,850 --> 00:00:32,790
+...
+
+16
+00:00:32,860 --> 00:00:36,110
+...
+
+17
+00:00:36,140 --> 00:00:37,420
+...
+
+18
+00:00:37,460 --> 00:00:38,600
+...
+
+19
+00:00:40,920 --> 00:00:43,390
+...
+
+20
+00:00:43,420 --> 00:00:47,140
+...
+
+21
+00:00:47,200 --> 00:00:49,060
+...
+
+22
+00:00:49,130 --> 00:00:50,890
+...
+
+23
+00:00:50,930 --> 00:00:52,630
+...
+
+24
+00:00:52,660 --> 00:00:54,060
+...
+
+25
+00:00:54,190 --> 00:00:57,630
+...
+
+26
+00:00:57,660 --> 00:01:00,880
+...
+
+27
+00:01:01,130 --> 00:01:03,140
+...
+
+28
+00:01:03,200 --> 00:01:05,140
+...
+
+29
+00:01:05,260 --> 00:01:07,800
+...
+
+30
+00:01:07,830 --> 00:01:09,610
+...
+
+31
+00:01:09,640 --> 00:01:12,240
+...
+
+32
+00:01:12,890 --> 00:01:14,380
+...
+
+33
+00:01:14,450 --> 00:01:15,830
+...
+
+34
+00:01:15,890 --> 00:01:16,960
+...
+
+35
+00:01:17,000 --> 00:01:18,490
+...
+
+36
+00:01:18,640 --> 00:01:20,170
+...
+
+37
+00:01:20,230 --> 00:01:23,890
+...
+
+38
+00:01:23,920 --> 00:01:25,440
+...
+
+39
+00:01:29,600 --> 00:01:31,500
+...
+
+40
+00:01:32,230 --> 00:01:33,980
+...
+
+41
+00:01:34,040 --> 00:01:36,280
+...
+
+42
+00:01:36,390 --> 00:01:39,740
+...
+
+43
+00:02:06,650 --> 00:02:08,830
+...
+
+44
+00:02:08,920 --> 00:02:11,290
+...
+
+45
+00:02:11,360 --> 00:02:12,500
+...
+
+46
+00:02:12,560 --> 00:02:15,540
+...
+
+47
+00:02:15,720 --> 00:02:17,500
+...
+
+48
+00:02:17,560 --> 00:02:20,500
+...
+
+49
+00:02:20,900 --> 00:02:24,140
+...
+
+50
+00:02:25,890 --> 00:02:27,300
+...
+
+51
+00:02:27,340 --> 00:02:31,200
+...
+
+52
+00:02:31,300 --> 00:02:32,360
+...
+
+53
+00:02:37,310 --> 00:02:38,770
+...
+
+54
+00:02:38,800 --> 00:02:39,950
+...
+
+55
+00:02:41,480 --> 00:02:43,160
+...
+
+56
+00:02:43,230 --> 00:02:44,700
+...
+
+57
+00:02:45,400 --> 00:02:46,750
+...
+
+58
+00:02:47,770 --> 00:02:49,440
+...
+
+59
+00:02:49,510 --> 00:02:51,360
+...
+
+60
+00:02:51,430 --> 00:02:53,620
+...
+
+61
+00:02:54,870 --> 00:02:55,840
+...
+
+62
+00:02:55,880 --> 00:02:57,740
+...
+
+63
+00:02:57,870 --> 00:02:59,540
+...
+
+64
+00:03:00,990 --> 00:03:02,820
+...
+
+65
+00:03:02,920 --> 00:03:04,620
+...
+
+66
+00:03:04,650 --> 00:03:06,290
+...
+
+67
+00:03:06,330 --> 00:03:09,570
+...
+
+68
+00:03:09,730 --> 00:03:10,800
+...
+
+69
+00:03:10,830 --> 00:03:14,020
+...
+
+70
+00:03:14,040 --> 00:03:15,450
+...
+
+71
+00:03:16,570 --> 00:03:18,510
+...
+
+72
+00:03:18,540 --> 00:03:19,760
+...
+
+73
+00:03:20,160 --> 00:03:22,220
+...
+
+74
+00:03:22,250 --> 00:03:24,270
+...
+
+75
+00:03:24,330 --> 00:03:26,630
+...
+
+76
+00:03:26,690 --> 00:03:28,170
+...
+
+77
+00:03:28,200 --> 00:03:32,920
+...
+
+78
+00:03:34,050 --> 00:03:36,900
+...
+
+79
+00:03:38,370 --> 00:03:40,050
+...
+
+80
+00:03:40,660 --> 00:03:41,950
+brunyers?
+
+81
+00:03:42,010 --> 00:03:44,950
+...
+
+82
+00:03:44,980 --> 00:03:45,780
+...
+
+83
+00:03:45,840 --> 00:03:50,250
+...
+
+84
+00:03:50,770 --> 00:03:53,560
+...
+
+85
+00:03:53,620 --> 00:03:57,200
+...
+
+86
+00:03:58,920 --> 00:04:06,400
+www.ydy.com
+proudly presents
+
+88
+00:04:21,590 --> 00:04:29,040
+www.ydy.com
+
+89
+00:04:45,560 --> 00:04:46,910
+Cold Case
+Season 4 Episode 12
+
+90
+00:04:47,780 --> 00:04:52,220
+All right.
+
+91
+00:04:52,460 --> 00:04:54,660
+Young adult male,body too decomposed to ake a proper ID.
+
+92
+00:04:54,950 --> 00:04:58,530
+Anything else in there to identify him?
+
+93
+00:05:02,260 --> 00:05:04,460
+A damaged cell phone,backpack at the bottom of the drum.
+
+94
+00:05:04,510 --> 00:05:06,470
+- What are they doing down there?
+- The sister is the one...
+
+95
+00:05:06,520 --> 00:05:08,860
+who put us on to the location.
+
+96
+00:05:08,910 --> 00:05:11,790
+The family can't see this.
+
+97
+00:05:11,860 --> 00:05:13,840
+Looks like multiple fractures base of the skull.
+
+98
+00:05:13,890 --> 00:05:15,090
+Kid was beaten to death.
+
+99
+00:05:15,140 --> 00:05:17,340
+Like in the video.
+
+100
+00:05:17,390 --> 00:05:20,590
+We'll take the drum, bag the hands,
+
+101
+00:05:20,690 --> 00:05:21,840
+check the fingernails for DNA, could have fought his assailant.
+
+102
+00:05:21,890 --> 00:05:24,490
+We have the cell number?
+
+103
+00:05:24,540 --> 00:05:27,360
+Well,Main Line PD already dumped his number after he went missing.
+
+104
+00:05:28,220 --> 00:05:32,200
+No calls after James left home.
+
+105
+00:05:32,250 --> 00:05:34,730
+Video assault was originally posted from
+inside Hanford Prep Academy.
+
+106
+00:05:34,780 --> 00:05:37,510
+The same high school the victim attended.
+
+107
+00:05:39,780 --> 00:05:41,550
+Looks like you're taking a trip out to the Main Line.
+
+108
+00:05:41,600 --> 00:05:43,440
+Want me to handle this one,boss?
+
+109
+00:05:48,010 --> 00:05:54,170
+No,I got it.
+
+110
+00:06:02,240 --> 00:06:04,060
+I got some bad news.No...stay still...
+
+111
+00:06:04,110 --> 00:06:05,930
+This a high school or a country club?
+
+112
+00:06:05,980 --> 00:06:08,030
+The place gives me the willies.
+
+113
+00:06:08,080 --> 00:06:10,670
+'Cause these kids drive better cars than we do?
+
+114
+00:06:10,720 --> 00:06:12,370
+No,'cause it's high school and you're the only female in sight.
+
+115
+00:06:12,420 --> 00:06:13,190
+Excuse me,officers.
+
+116
+00:06:13,240 --> 00:06:15,200
+Detectives.
+
+117
+00:06:15,300 --> 00:06:16,640
+Valens and Rush, Philly Homicide.
+
+118
+00:06:16,690 --> 00:06:18,320
+Gene Emmerick, Headmaster.
+
+119
+00:06:18,410 --> 00:06:19,750
+I wish you'd called ahead to tell me you were coming.
+
+120
+00:06:19,800 --> 00:06:21,630
+Computer labs this way?
+
+121
+00:06:21,680 --> 00:06:24,080
+Excuse me,did you say homicide?
+
+122
+00:06:24,120 --> 00:06:28,050
+Yeah,James Hoffman, he was a student here.
+
+123
+00:06:28,100 --> 00:06:29,970
+Oh,my God. I knew Jes.Top-notch student.
+
+124
+00:06:30,020 --> 00:06:32,360
+- That's terrible news.
+- We're gonna need to see...
+
+125
+00:06:32,410 --> 00:06:33,890
+any online records in the computer lab.
+
+126
+00:06:33,940 --> 00:06:36,480
+Whatever you need. We're an open book.
+
+127
+00:06:36,530 --> 00:06:38,730
+We'll need to talk to whoever monitors computer usage.
+
+128
+00:06:38,780 --> 00:06:40,360
+We use students to monitor the computer room.
+
+129
+00:06:40,420 --> 00:06:42,910
+Great,if you could get us a list of names.
+
+130
+00:06:43,190 --> 00:06:44,140
+Like,any who knew James Hoffman.
+
+131
+00:06:44,200 --> 00:06:45,080
+Not a problem.
+
+132
+00:06:45,130 --> 00:06:46,380
+I just need to get the written permission
+
+133
+00:06:46,430 --> 00:06:47,580
+of their parents before you talk to them.
+
+134
+00:06:47,630 --> 00:06:50,070
+Oh,that won't be necessary.
+
+135
+00:06:56,020 --> 00:06:57,790
+If you could just show me those logs,Mr. Emmerick.
+
+136
+00:06:59,790 --> 00:07:02,730
+Hey.
+
+137
+00:07:02,780 --> 00:07:03,980
+Hold up,sport.Name?
+
+138
+00:07:04,080 --> 00:07:05,800
+Lucas.
+
+139
+00:07:05,850 --> 00:07:07,670
+What's your hurry,Lucas?
+
+140
+00:07:07,960 --> 00:07:09,010
+I'm just late for my next class.
+
+141
+00:07:09,060 --> 00:07:11,260
+What,gym?
+
+142
+00:07:11,310 --> 00:07:13,320
+You don't look like a kid who hurries to P.E.
+
+143
+00:07:13,370 --> 00:07:14,810
+Calculus,a short cut.
+
+144
+00:07:14,870 --> 00:07:16,070
+Go ahead,I'll walk with you.
+
+145
+00:07:16,120 --> 00:07:17,930
+No,it's cool.
+
+146
+00:07:17,980 --> 00:07:20,050
+No,no,it's not.
+
+147
+00:07:20,150 --> 00:07:23,160
+You knew James Hoffman?
+
+148
+00:07:23,210 --> 00:07:26,480
+Sort of used to be friends,kind of.
+
+149
+00:07:27,160 --> 00:07:30,490
+Sort of,kind of want to tell me here or down at the station,Lucas?
+
+150
+00:07:30,590 --> 00:07:32,780
+We used to eat lunch in the computer lab together.
+
+151
+00:07:32,830 --> 00:07:35,080
+Compare ** scores.
+
+152
+00:07:35,130 --> 00:07:36,800
+He'd always ace me out.
+
+153
+00:07:36,850 --> 00:07:38,580
+Then he started tanking.
+
+154
+00:07:38,640 --> 00:07:41,520
+Tanking what?
+
+155
+00:07:41,950 --> 00:07:45,920
+His grades.His life.
+
+156
+00:07:46,260 --> 00:07:47,740
+He got all weird and angry.
+
+157
+00:07:47,790 --> 00:07:49,270
+We stopped talking.
+
+158
+00:07:49,560 --> 00:07:51,950
+When was that?
+
+159
+00:07:54,310 --> 00:07:57,180
+A couple months before he went missing.
+
+160
+00:07:57,230 --> 00:07:59,430
+All the Ivy's are getting rid of early decision.
+
+161
+00:07:59,480 --> 00:08:00,490
+There's no angle left unless you're a hook.
+
+162
+00:08:00,540 --> 00:08:05,950
+A hook?
+
+163
+00:08:06,270 --> 00:08:08,370
+Yeah,like a legacy,athlete,minority, special circumstance.
+
+164
+00:08:08,420 --> 00:08:10,140
+I think I got an uncle who's part Native American.
+
+165
+00:08:10,240 --> 00:08:12,060
+I'd look into it.
+
+166
+00:08:12,110 --> 00:08:15,570
+Pacific Islander's good,too.
+
+167
+00:08:15,620 --> 00:08:17,460
+Dude,my parents are all over me about the essay right now.
+
+168
+00:08:17,510 --> 00:08:19,000
+Yeah,you're supposed to write about your passion.
+
+169
+00:08:19,090 --> 00:08:21,870
+Whatever that means.
+
+170
+00:08:23,570 --> 00:08:24,710
+I'm passionate about Giselle Bundchen.
+
+171
+00:08:24,770 --> 00:08:28,110
+Tell me about it,man.
+
+172
+00:08:28,200 --> 00:08:29,210
+I stayed up all night last night and I only inked out a page.
+
+173
+00:08:29,260 --> 00:08:30,080
+Let me see.
+
+174
+00:08:30,170 --> 00:08:33,190
+No way.
+
+175
+00:08:34,240 --> 00:08:35,660
+Come on,Jay, you know I don't pirate.
+
+176
+00:08:35,850 --> 00:08:37,670
+All right,man.
+
+177
+00:08:38,250 --> 00:08:39,920
+Promise not to laugh.
+
+178
+00:08:40,350 --> 00:08:42,690
+Hey.***
+
+179
+00:08:43,510 --> 00:08:45,850
+Come on,man, give that back.
+
+180
+00:08:45,940 --> 00:08:48,000
+Hey,Tanner,what are you doing?
+
+181
+00:08:48,440 --> 00:08:50,590
+What are you doing?!
+
+182
+00:08:51,070 --> 00:08:53,360
+What did you do that for?
+
+183
+00:08:53,410 --> 00:08:55,560
+What the...?
+
+184
+00:08:56,380 --> 00:08:58,670
+Do something.
+
+185
+00:08:58,720 --> 00:09:00,250
+Do something,come on,hit me.
+
+186
+00:09:00,300 --> 00:09:02,360
+Come on,come on,hit me.
+
+187
+00:09:02,410 --> 00:09:04,040
+Come on, pretend I'm your dad.
+
+188
+00:09:04,140 --> 00:09:06,530
+What? You're an idiot.
+
+189
+00:09:06,580 --> 00:09:09,780
+Take your fist and take a swing,come on.
+
+190
+00:09:11,690 --> 00:09:14,080
+Tanner,leave him alone. He didn't do anything to you.
+
+191
+00:09:19,290 --> 00:09:21,690
+That's what I thought.
+
+192
+00:09:21,740 --> 00:09:22,880
+The tattoo on his left wrist?
+
+193
+00:09:22,930 --> 00:09:26,370
+You're sure about that?
+
+194
+00:09:26,420 --> 00:09:27,710
+Yeah.Like one of those little anarchy symbols.
+
+195
+00:09:27,760 --> 00:09:29,680
+Why?
+
+196
+00:09:30,300 --> 00:09:31,880
+Who was this clown?
+
+197
+00:09:31,930 --> 00:09:33,980
+Tanner Lennox.
+
+198
+00:09:34,040 --> 00:09:35,230
+But you didn't hear it from me.
+
+199
+00:09:35,330 --> 00:09:36,320
+He's untouchable.
+
+200
+00:09:36,370 --> 00:09:40,370
+Yeah,why's that?
+
+201
+00:09:43,420 --> 00:09:46,740
+His dad just donated the new science building, that's why.
+
+202
+00:09:56,810 --> 00:09:59,780
+Go on.You're going to be late for calculus.
+
+203
+00:09:59,970 --> 00:10:01,980
+You had a beef with James,Tanner?
+
+204
+00:10:02,600 --> 00:10:04,270
+It's nothing personal.
+
+205
+00:10:04,320 --> 00:10:05,430
+This interview is over.
+
+206
+00:10:05,520 --> 00:10:07,530
+I'm taking my son home.
+
+207
+00:10:07,580 --> 00:10:08,660
+We just need to ask Tanner a few questions,Mr. Lennox.
+
+208
+00:10:08,760 --> 00:10:10,440
+Not without my lawyer you're not.
+
+209
+00:10:10,490 --> 00:10:11,730
+Why,you got something to hide?
+
+210
+00:10:11,780 --> 00:10:14,170
+Come on,Tanner.
+
+211
+00:10:14,270 --> 00:10:15,720
+We have your son on videotape assaulting another student.
+
+212
+00:10:15,770 --> 00:10:18,500
+James Hoffman, whose body
+
+213
+00:10:18,550 --> 00:10:20,730
+turned up this morning, stuffed in drum down at The Bottom.
+
+214
+00:10:20,780 --> 00:10:22,090
+So either we talk to your son today,Mr. Lennox,
+
+215
+00:10:22,140 --> 00:10:25,480
+right here, real civil like...
+
+216
+00:10:25,530 --> 00:10:29,020
+Or we get a warrant for his arrest,and stick him in a holding cell all weekend...
+
+217
+00:10:30,510 --> 00:10:34,540
+Until his daddy's attorney gets him arraigned Monday morning.
+
+218
+00:10:34,880 --> 00:10:37,030
+You're on video?What the hell?
+
+219
+00:10:37,130 --> 00:10:41,190
+Tanner?
+
+220
+00:10:41,240 --> 00:10:46,110
+Yeah.Yeah,you're right, that was me...
+
+221
+00:11:18,640 --> 00:11:21,650
+pounding on James, but...it's not what you think.
+
+222
+00:11:35,690 --> 00:11:37,080
+Over! Over! Over! Over! Over!
+
+223
+00:11:37,120 --> 00:11:38,750
+How do you feel?
+
+224
+00:11:38,800 --> 00:11:41,600
+Alive.
+
+225
+00:11:41,650 --> 00:11:45,480
+Welcome to the world, young buck.
+
+226
+00:11:45,540 --> 00:11:49,170
+What'd I tell you? Yeah.
+
+227
+00:11:49,510 --> 00:11:51,860
+Next time, thumbs on the outside,
+unless you want to break them.
+
+228
+00:11:54,640 --> 00:11:57,410
+Thanks,Aries.
+
+229
+00:11:58,850 --> 00:12:02,190
+You,you,fight.
+
+230
+00:12:02,250 --> 00:12:03,590
+Bunch of rich kids throwing down in the hood?
+
+231
+00:12:03,680 --> 00:12:08,590
+It's a fight club.
+
+232
+00:12:08,690 --> 00:12:11,510
+Some people like to drink,do drugs.We like to fight.
+
+233
+00:12:11,810 --> 00:12:15,490
+What,you saying James was a part of this?
+
+234
+00:12:30,340 --> 00:12:32,440
+He took to battle like a caged amal.
+
+235
+00:12:33,920 --> 00:12:36,650
+Hey,neighbor.
+
+236
+00:12:36,700 --> 00:12:37,870
+I usually move the car before the street sweeper.
+
+237
+00:12:37,960 --> 00:12:39,810
+I just overslept.
+
+238
+00:12:39,860 --> 00:12:41,900
+Oh,give it to me, I'll take care of it.
+
+239
+00:12:41,950 --> 00:12:43,850
+Oh,no,that's okay.I'll just pay it.
+
+240
+00:12:43,900 --> 00:12:45,760
+Why? Just give it to me.
+
+241
+00:12:45,810 --> 00:12:47,920
+Well,I don't want to put you out.
+
+242
+00:12:48,370 --> 00:12:50,340
+It's no big deal, realreally.
+
+243
+00:12:50,390 --> 00:12:53,160
+Hey.Hey
+
+244
+00:12:53,210 --> 00:12:54,690
+Scotty,you remember my neighbor,Toni?
+
+245
+00:12:55,600 --> 00:12:57,370
+Yeah,how could I forget?
+
+246
+00:12:57,420 --> 00:12:59,430
+You,uh,follow up  my case?
+
+247
+00:12:59,480 --> 00:13:01,680
+The case of the missing basketball?
+
+248
+00:13:03,020 --> 00:13:06,600
+We got Encyclopedia Brown on it.
+
+249
+00:13:07,600 --> 00:13:10,640
+We,sorry,I got to go.I'm already late.
+
+250
+00:13:13,510 --> 00:13:15,420
+- Thanks.
+- Forget it.
+
+251
+00:13:15,470 --> 00:13:16,710
+Look at you,dawg.
+
+252
+00:13:16,760 --> 00:13:18,660
+What?
+
+253
+00:13:18,710 --> 00:13:20,290
+Trying to tap that.
+
+254
+00:13:20,340 --> 00:13:23,370
+Come on,she's a broke, single mom.
+
+255
+00:13:23,420 --> 00:13:24,440
+Yeah,you're just helping her out,
+big-shotting that ticket.
+
+256
+00:13:24,490 --> 00:13:25,740
+Justeing neighborly.
+
+257
+00:13:25,830 --> 00:13:27,830
+You know you can't fix it.
+
+258
+00:13:27,870 --> 00:13:29,080
+That's the biggest cop lie invented.
+
+259
+00:13:29,180 --> 00:13:30,140
+Think I'm working a favor?
+
+260
+00:13:30,230 --> 00:13:32,440
+I find that offensive.
+
+261
+00:13:32,490 --> 00:13:34,220
+Yeah,you're not interested, just let me know.I'll ask her out.
+
+262
+00:13:34,270 --> 00:13:38,690
+Back off,slick.
+
+263
+00:13:38,740 --> 00:13:42,760
+Anyway,they got a name on that kid was the ringleader of ts fight club.
+
+264
+00:13:42,810 --> 00:13:45,200
+He's Cole Palmer,senior, a.k.a. "Aries."
+
+265
+00:13:46,200 --> 00:13:49,820
+Aries was the Greek God of War.
+
+266
+00:13:49,870 --> 00:13:52,530
+Rawfodog spelled backwards?"God of War."
+
+267
+00:13:52,580 --> 00:13:54,540
+So the same kid posted the video.
+
+268
+00:13:54,590 --> 00:13:58,370
+Not bad,huh?
+
+269
+00:14:19,640 --> 00:14:22,510
+Yeah,dude.You really need a girlfriend.
+
+270
+00:14:23,180 --> 00:14:25,260
+Cole.Or should we call you Aries?
+
+271
+00:14:25,310 --> 00:14:27,840
+You could have just e-mailed me.
+
+272
+00:14:27,890 --> 00:14:31,130
+Why'd you post that video assault of James Hoffman?
+
+273
+00:14:31,180 --> 00:14:33,200
+Assault?That sounds criminal.
+
+274
+00:14:33,240 --> 00:14:36,070
+We know all about the little fight club you were running.
+
+275
+00:14:36,120 --> 00:14:37,940
+Yeah,you left James to rot in the drum down in The Bottom.
+
+276
+00:14:37,990 --> 00:14:39,420
+You're making it sound like I knew he was dead.
+
+277
+00:14:39,520 --> 00:14:41,820
+You were down there with him.
+
+278
+00:14:41,870 --> 00:14:43,590
+We moved on from that location a long time ago.
+
+279
+00:14:43,690 --> 00:14:45,000
+I got no idea who killed James.
+
+280
+00:14:45,050 --> 00:14:47,250
+We lock you up for inciting a riot,
+
+281
+00:14:47,300 --> 00:14:48,640
+maybe that'll jog your memory.
+
+282
+00:14:48,690 --> 00:14:51,840
+A riot?
+
+283
+00:14:51,890 --> 00:14:52,970
+What,like two kids lacing up the gloves in the backyard?
+
+284
+00:14:53,060 --> 00:14:55,280
+Your average hockey fight?
+
+285
+00:14:55,330 --> 00:14:56,620
+I used to box,kid.What you're doing ain't the same thing.
+
+286
+00:14:56,670 --> 00:14:58,970
+Oh,that's right.
+
+287
+00:14:59,020 --> 00:15:00,690
+Only cops get to beat the crap out of people.
+
+288
+00:15:00,790 --> 00:15:01,510
+This kid's really starting to bother me.
+
+289
+00:15:01,560 --> 00:15:04,060
+I wonder who'd win,
+
+290
+00:15:04,110 --> 00:15:05,830
+you two threw down,
+I bet you big boy here packs a whopper.
+
+291
+00:15:05,880 --> 00:15:08,370
+You think this is some kind of game,jackass?
+
+292
+00:15:14,010 --> 00:15:15,730
+Define assault for me again.
+
+293
+00:15:15,780 --> 00:15:19,990
+What happened to James?
+
+294
+00:15:20,040 --> 00:15:21,150
+James is just another domesticated dog on a leash headed down a path to misery.
+
+295
+00:15:21,220 --> 00:15:23,890
+What are you talking about?
+
+296
+00:15:23,940 --> 00:15:25,330
+Inside of every dog there is a wolf.
+
+297
+00:15:37,540 --> 00:15:38,830
+I just let 'em out.
+
+298
+00:15:38,880 --> 00:15:40,520
+Hey,is that my phone?
+
+299
+00:15:40,620 --> 00:15:42,860
+Yeah,that was your dad.
+
+300
+00:15:42,910 --> 00:15:45,500
+I told him you wet your pants.
+
+301
+00:15:45,600 --> 00:15:48,420
+Your old man calls you eight times a day?
+
+302
+00:15:48,510 --> 00:15:49,620
+Talk about an electronic umbilical cord.
+
+303
+00:15:49,670 --> 00:15:51,010
+What's he do anyway?
+
+304
+00:15:51,060 --> 00:15:53,910
+What does that have to do with anything?
+
+305
+00:15:54,010 --> 00:15:56,240
+Your father, does he got a life or is he too busy scheduling yours?
+
+306
+00:15:56,290 --> 00:15:59,440
+He's a computer programmer
+and he's plenty busy.
+
+307
+00:15:59,490 --> 00:16:01,410
+Hey,dyou want to make money? Yeah,sure,someday.
+
+308
+00:16:01,460 --> 00:16:05,760
+Well,my pop made a fortune on Wall Street
+
+309
+00:16:06,100 --> 00:16:08,060
+but that didn't stop his trophy wife from
+banging her personal trainer.
+
+310
+00:16:08,110 --> 00:16:10,790
+Can you just give me back my phone?
+
+311
+00:16:10,850 --> 00:16:11,940
+What are you taking all these AP exams for?
+
+312
+00:16:11,990 --> 00:16:13,380
+For college credit.What are you doing?
+
+313
+00:16:13,480 --> 00:16:15,820
+You're off to grad school.
+
+314
+00:16:15,870 --> 00:16:17,500
+Eventually. Med school,law school.
+
+315
+00:16:17,550 --> 00:16:18,820
+Which is it, lawyer,doctor,what?
+
+316
+00:16:18,870 --> 00:16:20,030
+I don't know yet,ay?
+
+317
+00:16:20,070 --> 00:16:21,610
+Did you ever read Jack London?
+
+318
+00:16:21,660 --> 00:16:24,300
+<i>The Call of The Wild, yeah. So what?</i>
+
+319
+00:16:24,360 --> 00:16:26,180
+So you lack inspiration,Buck.
+And you can't wait for it.
+
+320
+00:16:26,230 --> 00:16:27,330
+You have to go after it with a club.
+
+321
+00:16:27,430 --> 00:16:29,770
+What are you talking about?
+
+322
+00:16:29,820 --> 00:16:32,500
+You should know that man has only two primal passions:
+
+323
+00:16:32,600 --> 00:16:33,560
+to get and beget. Do you feel me,Buck?
+
+324
+00:16:33,660 --> 00:16:34,660
+My name's not Buck.
+
+325
+00:16:34,710 --> 00:16:37,010
+Do you ever wonder why
+
+326
+00:16:37,060 --> 00:16:38,400
+marginal students get into great colleges every year?
+
+327
+00:16:38,460 --> 00:16:40,020
+No,because they don't.
+
+328
+00:16:40,070 --> 00:16:41,650
+Yes,they do.
+
+329
+00:16:41,750 --> 00:16:43,140
+You want to change an F into a B,
+
+330
+00:16:43,190 --> 00:16:44,640
+you just put a three on top.
+
+331
+00:16:44,690 --> 00:16:45,840
+The system's rigged.
+
+332
+00:16:45,890 --> 00:16:49,270
+I know how the system works.
+
+333
+00:16:49,320 --> 00:16:52,430
+All you know is not to touch
+a hot stove or run with scissors.
+
+334
+00:16:52,480 --> 00:16:54,870
+When was the last time you did anything that you wanted to do?
+
+335
+00:16:56,980 --> 00:16:59,040
+Hey,at least I got a plan in life.
+
+336
+00:16:59,090 --> 00:17:03,050
+Well,guess what,Buck.
+
+337
+00:17:03,100 --> 00:17:04,450
+Everybody's got a plan until they get hit in the mouth.
+
+338
+00:17:04,500 --> 00:17:06,550
+Hey,pick it up! Yes.
+
+339
+00:17:06,600 --> 00:17:07,750
+Pick it up and give me back my damn phone!
+
+340
+00:17:07,810 --> 00:17:09,690
+Yes,that's what I want to see,Buck.
+
+341
+00:17:09,740 --> 00:17:11,130
+Stop calling me Buck! And this clenched fist,
+
+342
+00:17:11,180 --> 00:17:12,860
+<i>that's The Call of the Wild.</i>
+
+343
+00:17:12,910 --> 00:17:15,160
+And when you're ready to answer it,
+
+344
+00:17:25,050 --> 00:17:28,290
+you just give me a call.
+
+345
+00:17:28,340 --> 00:17:30,000
+Buck answered the call-- total transformation.
+
+346
+00:17:30,050 --> 00:17:33,930
+What did you mean,"The system's rigged"?
+
+347
+00:17:34,740 --> 00:17:38,240
+The headmaster helped kids like Tanner Lennox get over on the game.
+
+348
+00:17:38,530 --> 00:17:41,450
+He helped them cheat,fudged their scores.
+
+349
+00:17:41,500 --> 00:17:42,770
+Hanford Prep isn't totally merit-based.
+
+350
+00:17:42,820 --> 00:17:44,680
+What's that got to do with James?
+
+351
+00:17:44,830 --> 00:17:47,030
+James found out.
+
+352
+00:17:47,080 --> 00:17:49,040
+Blew a gasket, called the headmaster out.
+
+353
+00:17:49,090 --> 00:17:52,340
+So Emmerick killed James? Come on.
+
+354
+00:17:52,390 --> 00:17:55,360
+Or let some punk kid torpedo his career,maybe end up in jail?
+
+355
+00:18:10,590 --> 00:18:14,170
+You're right,that's insane.
+
+356
+00:18:14,360 --> 00:18:16,460
+You remember when Tanner Lennox took
+his AP Board test for college?
+
+357
+00:18:16,510 --> 00:18:19,530
+I think he may have taken them over. I'd have to check.
+
+358
+00:18:19,580 --> 00:18:21,310
+Oh,we already did, with the ETS Testing Service.
+
+359
+00:18:21,360 --> 00:18:22,750
+He took them twice.
+
+360
+00:18:22,800 --> 00:18:26,270
+Failed the first time.
+
+361
+00:18:26,410 --> 00:18:27,820
+But then you were the proctor in the room the second time around.
+
+362
+00:18:27,870 --> 00:18:28,920
+Near-perfect score.
+
+363
+00:18:28,970 --> 00:18:29,820
+Tell us.
+
+364
+00:18:29,870 --> 00:18:33,650
+Is it common practice
+
+365
+00:18:36,240 --> 00:18:39,200
+to allow students to have their cell phones on during the test?
+
+366
+00:18:39,300 --> 00:18:40,970
+You're accing me of helping students cheat on a college board exam?
+
+367
+00:18:41,020 --> 00:18:42,700
+The rich ones,yeah.
+
+368
+00:18:42,790 --> 00:18:47,240
+Is there a point to all this false conjecture?
+
+369
+00:18:51,160 --> 00:18:52,780
+James Hoffman called you out the same day he died.
+
+370
+00:18:52,830 --> 00:18:56,030
+James was a brilliant student,
+
+371
+00:18:56,080 --> 00:18:58,570
+but I've seen it before with kids under stress.
+
+372
+00:18:58,620 --> 00:19:00,010
+He became paranoid,volatile.
+
+373
+00:19:00,060 --> 00:19:02,260
+Volatile?
+
+374
+00:19:02,310 --> 00:19:05,720
+It's unfortate, but you can never predict
+
+375
+00:19:06,050 --> 00:19:08,820
+how a student will handle the admissions process.
+
+376
+00:19:08,870 --> 00:19:10,640
+Remember,you need to have three recommendations lined up:
+
+377
+00:19:10,690 --> 00:19:13,560
+two from teachers and preferably one
+
+378
+00:19:15,190 --> 00:19:15,690
+from an alumni of your first-choice school.
+
+379
+00:19:15,740 --> 00:19:18,700
+Excuse me.
+
+380
+00:19:18,980 --> 00:19:23,480
+Please,hold all questions till the end. Thank you.
+
+381
+00:19:23,530 --> 00:19:24,870
+No,I just,I just want to know
+which test date u'll be proctoring.
+
+382
+00:19:24,920 --> 00:19:29,630
+Why,Mr. Hoffman?
+
+383
+00:19:31,160 --> 00:19:33,980
+Because...I'll want to make sure to bring my cell phone,too.
+
+384
+00:19:34,080 --> 00:19:35,800
+Or does my dad need to donate a wing to the school for me
+
+385
+00:19:35,850 --> 00:19:37,340
+to g that sort of special attention?
+
+386
+00:19:37,390 --> 00:19:39,300
+Sit down,Mr. Hoffman.
+
+387
+00:19:39,350 --> 00:19:40,750
+No,no,I want to know.
+
+388
+00:19:40,800 --> 00:19:43,730
+Which of you here is claiming you're
+
+389
+00:19:44,210 --> 00:19:46,500
+one-eighth Native American on their applications?
+
+390
+00:19:46,740 --> 00:19:47,890
+I'm Eskimo,does that count?
+
+391
+00:19:47,990 --> 00:19:48,950
+Tell me.
+
+392
+00:19:49,040 --> 00:19:51,580
+How many hours flying over
+
+393
+00:19:51,630 --> 00:19:53,990
+Guatemala qualifies as community service?
+
+394
+00:19:54,230 --> 00:19:57,230
+James... No,seriously.
+
+395
+00:19:57,280 --> 00:19:59,080
+Is this process merit-based,
+or can we just make it all up?
+
+396
+00:19:59,130 --> 00:20:02,720
+That's enough,James.Sit down.
+
+397
+00:20:02,820 --> 00:20:04,870
+Look at you.You're like gerbils in a cage.
+
+398
+00:20:04,920 --> 00:20:07,080
+When was the last time any of you did anything
+
+399
+00:20:07,130 --> 00:20:10,330
+because you wanted to do it?
+
+400
+00:20:10,380 --> 00:20:12,200
+Not for your parents, not to get into college.
+
+401
+00:20:12,250 --> 00:20:15,360
+When was the last time you felt alive?
+
+402
+00:20:22,000 --> 00:20:23,670
+Son,you're bleeding.
+
+403
+00:20:23,720 --> 00:20:25,870
+How about that?
+
+404
+00:20:39,030 --> 00:20:41,460
+Looks like I found my passion.
+
+405
+00:20:41,510 --> 00:20:43,860
+This incident slip your mind when James went missing?
+
+406
+00:20:43,910 --> 00:20:48,180
+I had no reason to believe it was related.
+
+407
+00:20:48,710 --> 00:20:51,340
+Or you didn't want the world to know you had a price tag.
+
+408
+00:20:51,390 --> 00:20:54,780
+For the record,I did inform someone about what happened,
+
+409
+00:21:03,760 --> 00:21:09,350
+James's father.And he hit the roof.
+
+410
+00:21:09,400 --> 00:21:13,310
+One,two,nine,four,four, three,three,nine.
+
+411
+00:21:16,300 --> 00:21:17,730
+Yeah. Yeah.Expires 10-09. got to call you back.
+
+412
+00:21:17,780 --> 00:21:19,790
+Take care of that ticket yet?
+
+413
+00:21:23,730 --> 00:21:25,730
+Yeah,I just got to call in a favor.
+
+414
+00:21:26,070 --> 00:21:27,470
+What,you don't think I got the juice?
+
+415
+00:21:28,050 --> 00:21:30,110
+Juice?
+
+416
+00:21:30,160 --> 00:21:33,980
+No,I think you got a credit card.
+
+417
+00:21:34,030 --> 00:21:35,750
+You should have just skipped the favor BS and asked her out.
+
+418
+00:21:35,800 --> 00:21:40,560
+Save 40 bucks.
+
+419
+00:21:40,710 --> 00:21:42,380
+Yeah,single mom,neighbor, pain-in-the-ass kid,
+the whole package.
+
+420
+00:21:42,430 --> 00:21:44,730
+That sounds like me.
+
+421
+00:21:44,780 --> 00:21:46,840
+Except for the neighbor part.
+
+422
+00:21:46,890 --> 00:21:49,990
+No offense. None taken.
+
+423
+00:21:50,240 --> 00:21:52,200
+What makes you think I want an overweight, underpaid white man?
+
+424
+00:21:54,440 --> 00:21:55,450
+No offense.
+
+425
+00:21:55,500 --> 00:21:57,460
+See what you started?
+
+426
+00:21:57,510 --> 00:21:59,640
+Go squeeze some more juice out of that plastic.
+
+427
+00:22:00,170 --> 00:22:01,890
+Yeah.Got it.Thank you.
+
+428
+00:22:01,940 --> 00:22:04,280
+That was Franny.
+
+429
+00:22:04,330 --> 00:22:05,200
+Found skin under James' fingernails.
+
+430
+00:22:05,240 --> 00:22:11,140
+We got a match?
+
+431
+00:22:22,480 --> 00:22:24,300
+Yep.DNA was Jame's father.
+
+432
+00:22:24,350 --> 00:22:25,160
+Back this way, Mr. Hoffman.
+
+433
+00:22:25,260 --> 00:22:26,660
+Dad?
+
+434
+00:22:26,710 --> 00:22:28,820
+Why don't you wait here with me?
+
+435
+00:22:29,720 --> 00:22:31,060
+It's okay,Alexa. Go ahead.
+
+436
+00:22:31,110 --> 00:22:33,410
+Like a soda?
+
+437
+00:22:34,080 --> 00:22:37,660
+Anything? No,thanks.
+
+438
+00:22:37,930 --> 00:22:42,300
+Sohere's news about my brother's case?
+
+439
+00:22:42,350 --> 00:22:44,120
+Alexa,did you notice any changes with your brother,
+
+440
+00:22:44,170 --> 00:22:46,230
+justefore he went missing?
+
+441
+00:22:46,280 --> 00:22:48,600
+He was a little stressed out.
+
+442
+00:22:48,650 --> 00:22:50,560
+The college thing is a lot to handle.
+
+443
+00:22:52,380 --> 00:22:55,770
+Yeah,I guess.
+
+444
+00:22:55,820 --> 00:22:58,600
+You remember how he got that black eye?
+
+445
+00:22:58,700 --> 00:23:01,470
+No,not really.
+
+446
+00:23:01,520 --> 00:23:03,430
+Your dad had pretty high expectations for your brother.
+
+447
+00:23:03,480 --> 00:23:05,210
+My dad would never hurt my brother.
+
+448
+00:23:05,260 --> 00:23:06,790
+No?
+
+449
+00:23:06,840 --> 00:23:09,950
+He went through a lot.
+
+450
+00:23:10,290 --> 00:23:11,530
+Especially after my mom left.
+
+451
+00:23:11,580 --> 00:23:16,070
+What about you?
+
+452
+00:23:16,220 --> 00:23:18,950
+I just... I just want him to be proud of me,too.
+
+453
+00:23:21,440 --> 00:23:24,880
+like he was of James?
+
+454
+00:23:24,930 --> 00:23:28,040
+I admit James and I got into an argument.
+
+455
+00:23:28,090 --> 00:23:29,000
+You're skin was under his fingernails,Darryl.
+
+456
+00:23:29,050 --> 00:23:31,250
+Come on.
+
+457
+00:23:31,300 --> 00:23:32,350
+Well,something happened. I-I didn't understand.
+
+458
+00:23:32,400 --> 00:23:35,800
+That night?
+
+459
+00:23:35,850 --> 00:23:37,860
+The past few months, he'd been checking out,
+
+460
+00:23:37,910 --> 00:23:39,340
+coming home late at night,
+
+461
+00:23:39,390 --> 00:23:41,880
+out of pocket for hours at a time
+
+462
+00:23:41,930 --> 00:23:42,780
+like he... like he was on drugs or something.
+
+463
+00:23:42,830 --> 00:23:45,990
+You confronted him?
+
+464
+00:23:46,040 --> 00:23:48,480
+Well,after I got the phone call from the headmaster about Jam that day.
+
+465
+00:23:49,400 --> 00:23:51,980
+The incident at school th Emmerick?
+
+466
+00:23:52,180 --> 00:23:55,080
+I... I couldn't believe it.
+
+467
+00:23:55,180 --> 00:23:57,670
+All the tuition and the hard work,he...
+
+468
+00:24:05,930 --> 00:24:08,110
+He was just throwing it away.
+
+469
+00:24:08,400 --> 00:24:10,120
+What the hell is going on?
+
+470
+00:24:10,170 --> 00:24:12,290
+Trying to hit the chimney.
+
+471
+00:24:12,530 --> 00:24:14,780
+What is wrong with you,James?
+
+472
+00:24:14,830 --> 00:24:17,030
+Were you trying to get expelled?
+
+473
+00:24:17,080 --> 00:24:19,180
+Remember when me and Lex were kids and you used to
+
+474
+00:24:19,230 --> 00:24:21,860
+play with us in the snow for hours?
+
+475
+00:24:21,960 --> 00:24:23,650
+James,what are you talking about?
+
+476
+00:24:23,700 --> 00:24:25,370
+Then after Mom left,you just...
+
+477
+00:24:25,420 --> 00:24:27,890
+you just sort of stopped doing that.
+
+478
+00:24:27,940 --> 00:24:29,230
+Damn it,James, I am talking to you.
+
+479
+00:24:29,280 --> 00:24:31,770
+Is that what you call it?
+
+480
+00:24:31,820 --> 00:24:33,430
+I must have called youen times,lt you messages.
+
+481
+00:24:33,480 --> 00:24:36,970
+You don't even call back.
+
+482
+00:24:37,020 --> 00:24:38,890
+Oh,yeah,must have turned it off.
+
+483
+00:24:38,940 --> 00:24:43,780
+Well,why'd you turn off your phone?
+
+484
+00:24:43,920 --> 00:24:45,880
+More importantly,why do you have to call me...ten times a day?
+
+485
+00:24:45,930 --> 00:24:47,510
+I should have cut that cord a long time ago.
+
+486
+00:24:47,560 --> 00:24:49,050
+Are you on drugs? Nope.
+
+487
+00:24:49,100 --> 00:24:51,410
+Never been more clear-headed in my life.
+
+488
+00:24:51,460 --> 00:24:52,710
+So you are going to flush everything
+that we have worked for
+
+489
+00:24:52,760 --> 00:24:54,080
+down the drain, is that it?
+
+490
+00:24:54,130 --> 00:24:56,520
+Is that the plan,James?
+
+491
+00:24:56,580 --> 00:24:58,450
+We? The plan?
+
+492
+00:24:58,500 --> 00:25:00,250
+You know,all this time I've been busting my hump,
+
+493
+00:25:00,300 --> 00:25:03,020
+doing what you wanted me to do.
+
+494
+00:25:04,700 --> 00:25:06,430
+Then it occurred to me,why do I want to be like you?
+
+495
+00:25:06,480 --> 00:25:11,040
+What?You've been a miserable
+
+496
+00:25:11,090 --> 00:25:14,870
+suffocating jerk for so long,no wonder Mom left.
+
+497
+00:25:14,920 --> 00:25:16,440
+Your mother left because she couldn't handle raising two kids.
+
+498
+00:25:16,490 --> 00:25:16,930
+You're saying it's my fault?
+
+499
+00:25:16,980 --> 00:25:18,500
+No,damn it.That's not what I meant.
+
+500
+00:25:18,550 --> 00:25:20,620
+I don't wantto talk about...Hey,come back here.
+
+501
+00:25:26,110 --> 00:25:27,700
+Hey.
+
+502
+00:25:27,790 --> 00:25:29,220
+What has gotten into you?
+
+503
+00:25:29,270 --> 00:25:30,370
+You're the one who changed, dad.
+
+504
+00:25:30,420 --> 00:25:31,090
+Why can't it be more like before?
+
+505
+00:25:31,140 --> 00:25:31,950
+Before?
+
+506
+00:25:32,000 --> 00:25:35,390
+Yeah, before.
+
+507
+00:25:36,440 --> 00:25:38,020
+Before you cared so much about my scores, my grades.
+
+508
+00:25:38,070 --> 00:25:41,400
+I-I don't understand, james.
+
+509
+00:25:43,100 --> 00:25:45,480
+No, why can't you just be happy with me?
+
+510
+00:25:56,890 --> 00:25:59,410
+Get your own life, dad.
+
+511
+00:26:06,040 --> 00:26:10,430
+that was the last time I saw him.
+
+512
+00:26:11,450 --> 00:26:15,360
+It had to be tough, the past eight years, raising kids on your own.
+
+513
+00:26:15,410 --> 00:26:19,850
+I just wanted him to have every advantage,
+
+514
+00:26:22,610 --> 00:26:26,190
+be prepared for when life let you down.
+
+515
+00:26:26,240 --> 00:26:28,000
+Darryl, you're saying james destroyed his cell phone that night?
+
+516
+00:26:28,820 --> 00:26:31,820
+Yeah.
+
+517
+00:26:46,210 --> 00:26:48,070
+So whose phone was that in the oil drum?
+
+518
+00:26:48,270 --> 00:26:50,360
+Off to work?
+
+519
+00:26:50,410 --> 00:26:52,040
+Oh, late jump?
+
+520
+00:26:52,090 --> 00:26:54,470
+Late night.
+
+521
+00:26:54,520 --> 00:26:55,460
+Oh, by the way, I took care of that thing for you.
+
+522
+00:26:55,510 --> 00:26:56,650
+What thing?
+
+523
+00:26:56,700 --> 00:26:58,570
+Parking ticket.
+
+524
+00:26:58,620 --> 00:26:59,960
+Oh, oh, thanks.
+
+525
+00:27:00,010 --> 00:27:01,150
+Appreciate it.
+
+526
+00:27:04,360 --> 00:27:06,770
+It's nothing, really.
+
+527
+00:27:07,010 --> 00:27:09,680
+Something else you want to tell me?
+
+528
+00:27:10,170 --> 00:27:13,210
+Uh, no, uh...
+
+529
+00:27:13,260 --> 00:27:16,530
+I just realized how nice it is to talk to you without that damn ball bouncing.
+
+530
+00:27:16,580 --> 00:27:17,700
+Hmm.For a second there, I thought you were going to ask me out.
+
+531
+00:27:17,750 --> 00:27:19,180
+Me?
+
+532
+00:27:19,900 --> 00:27:21,610
+Were you?
+
+533
+00:27:24,050 --> 00:27:26,050
+Absolutely.
+
+534
+00:27:26,430 --> 00:27:28,390
+Let me think about it.
+
+535
+00:27:31,820 --> 00:27:34,540
+Think about it?
+
+536
+00:27:35,060 --> 00:27:37,880
+Sunday night, I'll buy.
+
+537
+00:27:40,430 --> 00:27:42,480
+Since you paid for the ticket.
+
+538
+00:27:59,840 --> 00:28:02,800
+Sunday night it is.
+
+539
+00:28:02,850 --> 00:28:04,280
+Hey, what you cramming for...
+lucas?
+
+540
+00:28:04,330 --> 00:28:05,190
+Ap chem.
+
+541
+00:28:05,240 --> 00:28:08,820
+Am I in trouble?
+
+542
+00:28:08,890 --> 00:28:10,130
+I tried to call you, but I guess we had an old cell number.
+
+543
+00:28:10,180 --> 00:28:11,430
+You switch phones in the last year?
+
+544
+00:28:11,480 --> 00:28:13,800
+Get a new number?
+
+545
+00:28:13,850 --> 00:28:14,590
+No.Maybe you lent it to somebody.
+
+546
+00:28:14,640 --> 00:28:16,720
+Not that I remember.
+
+547
+00:28:16,770 --> 00:28:18,010
+No?'Cause the cell phone we found with james's body,
+
+548
+00:28:18,060 --> 00:28:21,920
+we pulled the serial number.
+
+549
+00:28:25,070 --> 00:28:26,530
+Yeah, checked it with the service provider--  the phone was registered to you.
+
+550
+00:28:26,580 --> 00:28:28,200
+Stand up, lucas, let's go.
+
+551
+00:28:28,250 --> 00:28:28,880
+I lent my cell phone to james.
+
+552
+00:28:28,930 --> 00:28:31,460
+Why?
+
+553
+00:28:31,510 --> 00:28:34,360
+He called.
+Said he needed me to come pick him up.
+
+554
+00:28:34,410 --> 00:28:36,030
+From where?Uh, overbrook station.
+
+555
+00:28:38,180 --> 00:28:39,810
+When was this?
+
+556
+00:28:39,850 --> 00:28:43,290
+The night he disappeared.
+
+557
+00:29:01,420 --> 00:29:02,920
+He was in trouble.Big time.
+
+558
+00:29:02,970 --> 00:29:03,600
+you scared the hell out of me.
+
+559
+00:29:03,640 --> 00:29:04,290
+Let's get out of here.
+
+560
+00:29:04,380 --> 00:29:05,580
+What's up?
+
+561
+00:29:05,620 --> 00:29:08,710
+Just drive, man, just go!
+
+562
+00:29:09,940 --> 00:29:13,710
+Go where?What's going on, james?
+
+563
+00:29:13,950 --> 00:29:17,100
+Dude...dude, is that blood?
+
+564
+00:29:17,140 --> 00:29:18,960
+You're getting it all over my dad's leather seats.
+
+565
+00:29:19,010 --> 00:29:20,820
+I screwed everything up.
+
+566
+00:29:20,880 --> 00:29:23,760
+Let me just sit here, okay?
+
+567
+00:29:23,850 --> 00:29:25,530
+Let me...let me just sit here.
+
+568
+00:29:28,860 --> 00:29:31,200
+Okay.
+
+569
+00:29:31,300 --> 00:29:34,260
+I got so lost, you know?
+
+570
+00:29:35,510 --> 00:29:38,660
+Yeah...sure...
+
+571
+00:29:40,520 --> 00:29:45,090
+I thought he was right 'cause I was mad at my dad...
+
+572
+00:29:45,270 --> 00:29:46,650
+but then I just kind of lost sight again.
+
+573
+00:29:46,700 --> 00:29:48,660
+Of what?
+
+574
+00:29:55,700 --> 00:29:57,660
+Of me.
+
+575
+00:29:57,710 --> 00:29:58,630
+I got to make it right.
+
+576
+00:29:58,680 --> 00:29:59,300
+Give me your phone.
+
+577
+00:29:59,350 --> 00:30:01,820
+What?
+
+578
+00:30:07,840 --> 00:30:10,650
+I'll give it back later.Please.
+
+579
+00:30:14,230 --> 00:30:18,140
+Hey, what happened, james?
+
+580
+00:30:28,690 --> 00:30:30,270
+This guy, I think we killed him.
+
+581
+00:30:30,320 --> 00:30:33,320
+They killed someone?
+
+582
+00:30:33,850 --> 00:30:34,760
+I don't know, I guess.
+
+583
+00:30:34,810 --> 00:30:37,050
+Their fight club?
+
+584
+00:30:37,100 --> 00:30:40,350
+I'm not going to get in trouble, am I?
+
+585
+00:30:54,060 --> 00:30:56,160
+I mean, I'm waitting to hear from colleges.
+
+586
+00:30:56,250 --> 00:30:58,360
+I checked on this kid's story, boss.
+
+587
+00:30:58,410 --> 00:31:02,180
+There was an assault of an adult male, white,
+
+588
+00:31:03,760 --> 00:31:05,780
+that evening, a few blocks from mantua train station.
+
+589
+00:31:05,830 --> 00:31:09,880
+Martin jacobsen, 42.
+
+590
+00:31:09,930 --> 00:31:11,080
+Discovered unconscious with a critical head injury-- subdural hematoma.
+
+591
+00:31:11,130 --> 00:31:14,900
+Blood on the brain.
+
+592
+00:31:15,240 --> 00:31:17,000
+He died two days later, ruled a homicide.
+
+593
+00:31:17,050 --> 00:31:19,390
+The r-5 stops in mantua.
+
+594
+00:31:19,440 --> 00:31:21,300
+It's the same train james took to the bottom.
+
+595
+00:31:21,350 --> 00:31:23,100
+He was telling the truth about killing someone.
+
+596
+00:31:23,480 --> 00:31:26,200
+So, who'd he mean by "we"?
+
+597
+00:31:26,250 --> 00:31:29,620
+Got the dump back on lucas's cell phone that night.
+
+598
+00:31:29,640 --> 00:31:31,930
+Only one call made, to cole palmer.
+
+599
+00:31:31,980 --> 00:31:35,180
+The fight club leader.
+
+600
+00:31:35,230 --> 00:31:37,860
+If they killed a man, could be james went to meet cole later on.
+
+601
+00:31:37,900 --> 00:31:40,580
+To get their stories straight.
+
+602
+00:31:46,960 --> 00:31:50,010
+And cole cleaned up the loose end.
+
+603
+00:31:50,060 --> 00:31:53,570
+50 years homicide Here, cole.
+
+604
+00:31:53,950 --> 00:31:55,910
+No strangers to violence as a lure to young men.
+
+605
+00:31:56,010 --> 00:31:58,850
+Girls cut themselves, guys fight.
+
+606
+00:31:58,900 --> 00:32:00,860
+Show of strength, confused with power.
+
+607
+00:32:00,910 --> 00:32:04,280
+But it's always a dead end.
+
+608
+00:32:04,330 --> 00:32:08,060
+Because violence just begets more violence.
+
+609
+00:32:10,680 --> 00:32:11,970
+And someone...ends up dead.
+
+610
+00:32:12,020 --> 00:32:13,620
+That guy's dead?
+
+611
+00:32:13,670 --> 00:32:16,400
+You remember him?
+
+612
+00:32:16,450 --> 00:32:18,980
+His name was martin jacobsen.
+
+613
+00:32:19,030 --> 00:32:22,090
+He left a wife and a four-year-old boy.
+
+614
+00:32:23,230 --> 00:32:25,000
+Beaten to death.
+
+615
+00:32:26,140 --> 00:32:28,240
+Look at him.
+
+616
+00:32:30,870 --> 00:32:33,770
+Look at him.
+
+617
+00:32:34,060 --> 00:32:36,980
+You think you know everything, but you don'T.
+
+618
+00:32:37,460 --> 00:32:40,130
+Don't know what...buck?
+
+619
+00:32:40,370 --> 00:32:45,230
+Black eyes, bruises...
+
+620
+00:32:46,040 --> 00:32:48,360
+I show up like this every day at school, and all the adults are asleep at the wheel.
+
+621
+00:32:48,410 --> 00:32:51,220
+Nobody asks why.
+
+622
+00:32:51,370 --> 00:32:53,760
+So you do it for the attention?
+
+623
+00:32:54,140 --> 00:32:56,520
+No, to feel alive.
+
+624
+00:32:56,570 --> 00:32:59,960
+To feel like I matter.
+
+625
+00:33:00,010 --> 00:33:02,160
+Killing james make you feel alive, too, cole?
+
+626
+00:33:02,690 --> 00:33:05,120
+I didn't kill him.
+
+627
+00:33:05,410 --> 00:33:09,130
+What happened that night?
+
+628
+00:33:11,080 --> 00:33:13,090
+We had just gotten off the train, and everything went to hell.
+
+629
+00:33:13,180 --> 00:33:15,380
+You scratched him?
+
+630
+00:33:16,480 --> 00:33:18,060
+You should have wailed on your old man, if you ask me, man.
+
+631
+00:33:18,160 --> 00:33:19,080
+That's not the point, you know?
+
+632
+00:33:19,130 --> 00:33:22,210
+He's always meant well.
+
+633
+00:33:22,260 --> 00:33:26,220
+No, the point is, you dad thinks your accomplishments
+
+634
+00:33:26,750 --> 00:33:27,990
+are a reflection of him, as long as you look good on paper.
+
+635
+00:33:31,970 --> 00:33:32,930
+No, forget it.
+
+636
+00:33:32,980 --> 00:33:35,670
+Is that guy lost?
+
+637
+00:33:35,720 --> 00:33:36,350
+The car won't start and I'm in a kind of
+a sketchy neighborhood.
+
+638
+00:33:36,390 --> 00:33:38,400
+What a tool.
+
+639
+00:33:38,450 --> 00:33:40,410
+Yeah, if you can get here as soon as possible, I'd appreciate it.
+
+640
+00:33:49,470 --> 00:33:50,420
+Just like my dad.
+
+641
+00:33:50,470 --> 00:33:51,900
+What's he doing?
+
+642
+00:33:53,900 --> 00:33:55,830
+I don't know!
+
+643
+00:33:55,890 --> 00:33:57,530
+Hey!
+
+644
+00:33:57,580 --> 00:34:00,870
+Hey, cut that out.Give that back.
+
+645
+00:34:00,920 --> 00:34:03,120
+Buy, sell, buy, sell, everything must go!
+
+646
+00:34:05,980 --> 00:34:07,890
+Kid, what are you doing?
+
+647
+00:34:08,180 --> 00:34:09,700
+Hey, tanner!
+
+648
+00:34:16,250 --> 00:34:18,300
+Yo, tanner!
+
+649
+00:34:18,350 --> 00:34:19,640
+Hey, get off him, huh?
+
+650
+00:34:19,690 --> 00:34:21,510
+What the hell's wrong with you?
+
+651
+00:34:22,750 --> 00:34:24,490
+He'll be all right.
+
+652
+00:34:24,540 --> 00:34:25,550
+Oh, my god!Hey.
+
+653
+00:34:25,600 --> 00:34:27,320
+Tanner, you idiot.
+
+654
+00:34:27,370 --> 00:34:28,800
+Hey, come on, he's fine, man.
+
+655
+00:34:28,850 --> 00:34:30,000
+Does he look fine to you?
+
+656
+00:34:30,050 --> 00:34:32,440
+We gotta get this guy some help.
+
+657
+00:34:32,540 --> 00:34:34,670
+No, we gotta get the hell outta here, man.
+
+658
+00:34:35,730 --> 00:34:37,590
+Come on, cole.We gotta get outta here.
+
+659
+00:34:37,950 --> 00:34:40,010
+Screw it, I'm gone.
+
+660
+00:34:41,720 --> 00:34:42,630
+Hey!Hey!
+
+661
+00:34:42,680 --> 00:34:44,210
+James, we've got to go.
+
+662
+00:34:44,250 --> 00:34:45,550
+No!We can't just leave this guy here.
+
+663
+00:34:45,600 --> 00:34:48,270
+That's not my problem.
+
+664
+00:34:48,420 --> 00:34:50,130
+Everybody's got a plan, right, cole?
+
+665
+00:34:50,520 --> 00:34:52,330
+What's your plan now?
+
+666
+00:34:56,190 --> 00:34:58,190
+Cole!
+
+667
+00:34:59,340 --> 00:35:01,250
+I just took off.
+
+668
+00:35:01,830 --> 00:35:04,540
+You got scared.
+
+669
+00:35:05,690 --> 00:35:07,320
+I never wanted anybody to die.
+
+670
+00:35:07,370 --> 00:35:09,040
+Why did james call you?
+
+671
+00:35:09,090 --> 00:35:10,150
+He wanted to go to the police.
+
+672
+00:35:10,200 --> 00:35:13,870
+But that never happened.
+
+673
+00:35:13,930 --> 00:35:16,080
+I called tanner and told him to go meet james at the bottom and settle it.
+
+674
+00:35:16,130 --> 00:35:18,340
+Settle it?
+
+675
+00:35:18,620 --> 00:35:21,680
+But you never went.
+
+676
+00:35:26,090 --> 00:35:29,760
+It was tanner's mess, not mine.
+
+677
+00:35:29,810 --> 00:35:31,710
+You want to talk deal with my son, it'll be through my lawyer after he makes bail.
+
+678
+00:35:31,760 --> 00:35:35,430
+There won't be any deal then, mr.Lennox.
+
+679
+00:35:35,480 --> 00:35:38,300
+Tanner killed martin jacobsen, the same night james disappeared.
+
+680
+00:35:39,590 --> 00:35:42,260
+We got testimony from an eyewitness.
+
+681
+00:35:42,310 --> 00:35:44,220
+Dad...just keep your mouth shut, tanner.
+
+682
+00:35:44,310 --> 00:35:45,320
+You were only 17 at the time.
+
+683
+00:35:45,420 --> 00:35:48,230
+I can't go to jail.
+
+684
+00:35:48,280 --> 00:35:50,840
+Worst case, they prosecute you as a juvenile.
+
+685
+00:35:50,890 --> 00:35:54,040
+Prosecute?Dad.
+
+686
+00:35:54,090 --> 00:35:57,570
+Over 16, any violent act is automatically tried as an adult.
+
+687
+00:35:57,620 --> 00:35:59,990
+You became a man e minute you started beating that guy, tanner.
+
+688
+00:36:00,040 --> 00:36:01,470
+I didn'T...mean to kill anybody.
+
+689
+00:36:01,520 --> 00:36:02,790
+Tanner, shut up.
+
+690
+00:36:02,840 --> 00:36:06,370
+Just let me handle this mess.
+
+691
+00:36:08,140 --> 00:36:11,960
+Don't tell me to shut up!
+
+692
+00:36:13,440 --> 00:36:16,060
+I'm sick of you always telling me what to do.
+
+693
+00:36:16,210 --> 00:36:18,310
+You met james down at the bottom.
+
+694
+00:36:19,310 --> 00:36:21,600
+Didn't you?
+
+695
+00:36:22,090 --> 00:36:26,000
+Man up, tanner.James had to go.
+
+696
+00:36:26,050 --> 00:36:26,910
+Tanner...you're a lennox.Do not go down a loser.
+
+697
+00:36:27,010 --> 00:36:28,090
+I'm not a loser.
+
+698
+00:36:28,140 --> 00:36:31,100
+Shut up, damn it.
+
+699
+00:36:32,480 --> 00:36:35,970
+He was just a kid, dad.
+
+700
+00:36:39,400 --> 00:36:41,190
+You do this, you're going down.
+
+701
+00:36:51,400 --> 00:36:54,420
+Then you're coming with me.
+
+702
+00:37:00,230 --> 00:37:02,140
+Stay in the car.I'll handle this.
+
+703
+00:37:04,190 --> 00:37:05,180
+Get out here, son!
+
+704
+00:37:05,230 --> 00:37:07,860
+Mr.Lennox?
+
+705
+00:37:10,430 --> 00:37:14,320
+Shut up.Over here.
+
+706
+00:37:14,370 --> 00:37:15,710
+Tanner told me everything you dumb ass kids did tonight.
+
+707
+00:37:15,760 --> 00:37:16,910
+We got to go to the police.
+
+708
+00:37:16,960 --> 00:37:21,210
+Don't be stupid.
+
+709
+00:37:21,260 --> 00:37:25,270
+The only thing that's gonna save your ass is if everybody keeps their mouth shut.
+
+710
+00:37:25,320 --> 00:37:28,380
+'Cause all it takes is one screw-up like this to derail your whole life.
+
+711
+00:37:28,430 --> 00:37:35,340
+Screw-up?We killed a guy.
+
+712
+00:37:35,390 --> 00:37:37,640
+Son, after tonight, there'll be no mention of this ever again.
+
+713
+00:37:39,440 --> 00:37:42,350
+Understand?
+
+714
+00:37:42,400 --> 00:37:44,550
+You're a bright kid, james, with a hell of a future,
+
+715
+00:37:44,600 --> 00:37:48,650
+but I know your father's financial situation.
+
+716
+00:37:48,700 --> 00:37:50,930
+Do the right thing, and I can pull some strings.
+
+717
+00:37:50,980 --> 00:37:52,940
+Tuition will not be an issue.
+
+718
+00:37:53,030 --> 00:37:56,330
+The right thing?
+
+719
+00:37:56,860 --> 00:38:00,090
+You wouldn't know the right thing
+if it bit you in the ass.
+
+720
+00:38:00,140 --> 00:38:01,560
+My dad never made a lot of money, mr.Lennox,
+
+721
+00:38:01,610 --> 00:38:03,340
+but he knows right from wrong.
+
+722
+00:38:03,390 --> 00:38:04,160
+That's very touching.
+
+723
+00:38:04,250 --> 00:38:06,930
+Your point?
+
+724
+00:38:08,220 --> 00:38:10,080
+You screw up, you man up.
+
+725
+00:38:10,140 --> 00:38:13,530
+Sorry, mr.Lennox.
+
+726
+00:39:03,590 --> 00:39:10,990
+You can take your offer and shove it.
+
+727
+00:39:11,080 --> 00:39:18,620
+<font color=#FFFF00>Cold Case Season 4 Episode 12</font>
+
+728
+00:39:18,860 --> 00:39:24,920
+<font color=#0CE769>www.ydy.com
+proudly presents</font>
+
+729
+00:39:18,860 --> 00:39:24,920
+www.ydy.com</font>
+

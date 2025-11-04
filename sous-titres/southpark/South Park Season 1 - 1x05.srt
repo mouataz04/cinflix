@@ -1,0 +1,935 @@
+[INFORMATION]
+[AUTHOR]
+[SOURCE]
+[PRG]
+[FILEPATH]
+[DELAY]
+[CD TRACK]
+[COMMENT]
+[END INFORMATION]
+
+[SUBTITLE]
+[COLF]&HFFFFFF,[STYLE]no,[SIZE]18,[FONT]Arial
+00:00:02.71,00:00:06.70
+And now, a fireside chat[br]with the creators of South Park:
+
+00:00:06.88,00:00:09.51
+Matt Stone and Trey Parker.
+
+00:00:19.12,00:00:21.32
+- I'm Trey Parker.[br]- I'm Matt Stone.
+
+00:00:21.49,00:00:24.33
+And this is old Scratch.[br]Say hi, old fellow!
+
+00:00:24.50,00:00:27.16
+This episode is[br]"An Elephant Fucks a Pig."
+
+00:00:27.33,00:00:30.67
+It was changed to[br]"An Elephant Makes Love to a Pig."
+
+00:00:30.84,00:00:33.30
+Which is silly.[br]If an elephant was on a pig...
+
+00:00:33.47,00:00:36.96
+...it wouldn't be making love,[br]it would be fucking it.
+
+00:00:37.88,00:00:43.37
+Would you agree this episode confirms[br]Matt and Trey are sick weirdoes?
+
+00:00:44.42,00:00:50.82
+What is sick and wrong about two beings[br]sharing the most intimate of moments?
+
+00:00:51.12,00:00:55.39
+Do you come at the gene splicing[br]of DNA from personal experience?
+
+00:00:55.56,00:00:59.29
+Yes. I made Trey from splicing[br]a tomato and a flounder.
+
+00:00:59.97,00:01:04.96
+Do you have strong ethical views on[br]whether we should tamper with nature?
+
+00:01:05.14,00:01:08.23
+Matt and I think genetic[br]engineering is great.
+
+00:01:08.41,00:01:11.34
+Everything should be spliced[br]with everything.
+
+00:01:11.51,00:01:15.95
+That's the way we'll become[br]perfect beings. Right, old Scratch?
+
+00:01:16.11,00:01:19.98
+We should splice pigs with[br]elephants, tomatoes with apples.
+
+00:01:20.15,00:01:23.82
+l, myself, would like to be spliced[br]with Fiona Apple.
+
+00:01:26.76,00:01:32.49
+And so now, sit back, relax, and enjoy[br]"An Elephant Fucks a Pig."
+
+00:02:05.33,00:02:07.56
+An Elephant Makes Love to a Pig
+
+00:02:07.83,00:02:12.13
+- Stan, where'd you get that black eye?[br]- Nothing, I mean nowhere.
+
+00:02:12.30,00:02:15.74
+- Your sister beat you up again?[br]- No!
+
+00:02:15.91,00:02:17.77
+Your sister kicked your ass!
+
+00:02:17.94,00:02:21.61
+She's pissed she got headgear.[br]She takes it out on me.
+
+00:02:21.78,00:02:24.15
+You get your butt kicked by a girl.
+
+00:02:24.32,00:02:28.58
+I'd never let a woman kick my ass.[br]If she tried anything, I'd be:
+
+00:02:28.75,00:02:32.95
+"Get your bitch-ass back in the[br]kitchen and make me some pie!"
+
+00:02:33.13,00:02:35.03
+My parents don't believe me.
+
+00:02:35.19,00:02:38.32
+They think she's innocent.[br]She's an evil bitch.
+
+00:02:38.50,00:02:44.73
+Be a man, Stan. Just say, "Hey, woman![br]You shut your mouth and make babies!"
+
+00:02:45.24,00:02:47.03
+What's that elephant doing?
+
+00:02:47.21,00:02:50.11
+You mean this one?[br]He's my new pet elephant.
+
+00:02:50.28,00:02:53.77
+- Where'd you get that?[br]- Mail order from Africa.
+
+00:02:53.95,00:02:56.85
+They said it'd take 6 weeks,[br]but it only took 3!
+
+00:02:57.02,00:02:58.88
+- Wow, that's cool![br]- It's not!
+
+00:02:59.05,00:03:03.35
+Mom won't let him in the house![br]His poop is bigger than our couch.
+
+00:03:03.52,00:03:08.52
+That's why my mom got me a potbellied[br]pig because its poop is small.
+
+00:03:10.23,00:03:13.10
+Yeah, but pigs aren't smart[br]like elephants.
+
+00:03:14.10,00:03:17.90
+Hey! Wait a minute![br]What is that thing?
+
+00:03:19.37,00:03:21.67
+This is the new retarded kid.
+
+00:03:21.84,00:03:26.07
+Oh, I'm sorry, little girl.[br]But you still can't get on.
+
+00:03:26.24,00:03:29.84
+You have to take the special-ed bus!
+
+00:03:31.45,00:03:34.98
+Looks like you're not welcome[br]anywhere. See you!
+
+00:03:35.32,00:03:40.02
+If a woman ever gave me crap,[br]I'd say, "Hey, you go do my laundry!"
+
+00:03:40.19,00:03:43.03
+- Sit down, kid![br]- Yes, ma'am.
+
+00:03:43.73,00:03:49.43
+Children, our friend Mr. Hat is going[br]to tell us all about genetic engineering.
+
+00:03:49.60,00:03:54.54
+That's right, Mr. Garrison, genetic[br]engineering is an exciting new science.
+
+00:03:54.71,00:03:58.51
+You can splice DNA from some[br]animals and make them better.
+
+00:03:58.68,00:04:00.47
+- Mr. Garrison?[br]- Yes, Kyle.
+
+00:04:00.65,00:04:03.24
+Can you make an elephant smaller?
+
+00:04:03.42,00:04:06.04
+Well, yes, I suppose you could.
+
+00:04:06.22,00:04:11.35
+You could splice elephant genes with[br]a dog or cat or potbellied pig genes.
+
+00:04:11.52,00:04:16.76
+Combine my elephant with a potbellied[br]pig and make potbellied elephants.
+
+00:04:17.20,00:04:20.39
+- Smart like elephants, small like pigs.[br]- Cool!
+
+00:04:20.57,00:04:23.43
+- I want a potbellied elephant.[br]- I'll pay $50.
+
+00:04:23.60,00:04:24.59
+That's stupid.
+
+00:04:24.77,00:04:27.64
+Shut up![br]We can genetical engineer anything.
+
+00:04:27.81,00:04:32.71
+I bet I could clone a human being[br]before you cross an elephant and a pig.
+
+00:04:32.88,00:04:34.90
+- I'll bet you can't![br]- Watch me!
+
+00:04:35.08,00:04:40.48
+Well, spank my ass and call me Charlie.[br]Two A+ students in a cloning war.
+
+00:04:40.65,00:04:45.18
+Genetic engineering lets us correct[br]God's horrible mistakes.
+
+00:04:45.36,00:04:46.62
+Like German people.
+
+00:04:46.79,00:04:51.59
+You might visit the genetic-engineering[br]ranch outside of town for help.
+
+00:04:51.76,00:04:55.86
+You could use this for your[br]science-fair projects next month.
+
+00:04:56.74,00:05:00.00
+- Genetic-engineering ranch? Sweet![br]- We need a pig.
+
+00:05:00.17,00:05:03.63
+- We can use Cartman's pig.[br]- Leave Fluffy out of this!
+
+00:05:03.81,00:05:05.94
+We won't hurt her.[br]We need blood.
+
+00:05:06.11,00:05:10.34
+You're not using Fluffy's blood![br]I'll kick you in the nuts!
+
+00:05:10.52,00:05:11.54
+Kyle, no!
+
+00:05:11.72,00:05:14.01
+Can I talk to you for a minute?
+
+00:05:14.19,00:05:18.62
+I couldn't help notice that black eye.[br]Are there problems at home?
+
+00:05:18.79,00:05:21.19
+- Yes.[br]- Oh, dear.
+
+00:05:21.36,00:05:26.30
+Here, sit down, have some cocoa,[br]and tell Mr. Hat all about it.
+
+00:05:26.46,00:05:31.83
+I'm your friend Mr. Hat. You can[br]tell me anything. Now, who hit you?
+
+00:05:32.00,00:05:36.03
+- Is it your father or your mother?[br]- Neither, it's my sister.
+
+00:05:36.21,00:05:39.54
+Your sister? For Pete's sake,[br]don't be such a wuss!
+
+00:05:39.71,00:05:44.91
+Stop wasting Mr. Hat's time with little[br]problems and give me back my cocoa!
+
+00:05:49.35,00:05:52.41
+Let's open the phone lines[br]for questions.
+
+00:05:52.59,00:05:53.92
+Hey!
+
+00:05:56.53,00:05:58.96
+- Hi, Shelly.[br]- You looking at my headgear?
+
+00:05:59.13,00:06:00.50
+What headgear?
+
+00:06:00.67,00:06:04.33
+- You looking at my headgear?[br]- I didn't really notice.
+
+00:06:04.50,00:06:09.37
+- You little liar![br]- I think it looks terrific! It matches...
+
+00:06:25.16,00:06:26.89
+- Ready to go?[br]- Go where?
+
+00:06:27.06,00:06:31.76
+The genetics ranch. To splice[br]the pig's genes with my elephant.
+
+00:06:31.93,00:06:34.16
+Nobody's splicing from Fluffy!
+
+00:06:34.33,00:06:38.53
+- I swear I'm gonna kill you, Stan![br]- Why is your sister so mean?
+
+00:06:38.70,00:06:42.30
+If some sissy chick tried[br]to kick my ass, I'd be like:
+
+00:06:42.47,00:06:48.61
+"Hey, missy, why don't you go knit me a[br]sweater before I slap you in the face!"
+
+00:06:48.78,00:06:51.34
+Who said that?
+
+00:06:56.49,00:06:58.25
+This must be it.
+
+00:06:58.42,00:07:01.98
+Looks like nobody's home.[br]We should come another time.
+
+00:07:02.16,00:07:05.43
+We're splicing Fluffy[br]and my elephant together.
+
+00:07:05.60,00:07:07.86
+I won't let them hurt you.
+
+00:07:08.03,00:07:10.52
+- It's just a pig.[br]- Quit being a baby.
+
+00:07:10.70,00:07:15.14
+- I don't get my ass kicked by a girl![br]- At least I'm not a pig-f* * * er!
+
+00:07:15.31,00:07:18.87
+I'm taking my pig. Screw you guys![br]I'm going home!
+
+00:07:19.04,00:07:20.94
+This whole idea is stupid!
+
+00:07:21.11,00:07:24.74
+What would you know?[br]You never get higher than a D!
+
+00:07:24.92,00:07:28.55
+Why don't you go to San Francisco[br]with the other Jews?
+
+00:07:28.72,00:07:31.55
+There's no Jews[br]in San Francisco, retard!
+
+00:07:31.72,00:07:33.71
+I'll kick you in the nuts!
+
+00:07:34.19,00:07:36.42
+Can I help you?
+
+00:07:38.33,00:07:41.70
+Yeah. We wanna crossbreed[br]an elephant with a pig.
+
+00:07:41.87,00:07:45.32
+Brilliant idea.[br]Huge, elephant-sized pigs.
+
+00:07:45.50,00:07:49.53
+No, little potbellied elephants[br]that people can keep as pets.
+
+00:07:49.71,00:07:52.94
+That's an even better idea.[br]Come on in.
+
+00:07:53.11,00:07:57.17
+I'm so pleased that you're interested[br]in genetic engineering.
+
+00:07:57.35,00:07:59.25
+Nobody will hurt you.
+
+00:07:59.42,00:08:03.01
+Thanks to genetic engineering,[br]there will be an end...
+
+00:08:03.19,00:08:06.32
+...to hunger, disease,[br]pollution, even war.
+
+00:08:06.49,00:08:09.29
+I created things[br]to make the world better.
+
+00:08:09.46,00:08:13.49
+For instance,[br]here's a monkey with four asses.
+
+00:08:14.10,00:08:18.33
+- How does that make the world better?[br]- My four-assed ostrich.
+
+00:08:18.50,00:08:20.20
+My four-assed mongoose.
+
+00:08:20.37,00:08:23.24
+Have anything[br]besides four-assed animals?
+
+00:08:23.41,00:08:26.71
+I suppose so. Yes, over here.
+
+00:08:26.88,00:08:31.14
+I have rats spliced with ducks,[br]gorillas spliced with mosquitoes.
+
+00:08:31.32,00:08:36.34
+Here, I have rabbits spliced with fish[br]to make little bunny fish.
+
+00:08:36.59,00:08:39.28
+These bunny ears are[br]tied on with strings!
+
+00:08:39.46,00:08:42.69
+Here, Swiss cheese spliced[br]with chalk and a beard.
+
+00:08:42.86,00:08:47.53
+- What about our potbellied elephant?[br]- Well, I'm sorry, children.
+
+00:08:47.70,00:08:52.69
+Pig and elephant DNA won't splice.[br]Have you heard that song by Loverboy?
+
+00:08:52.87,00:08:53.86
+Which song?
+
+00:08:58.34,00:09:01.68
+Maybe I can help you add[br]a few asses to that swine.
+
+00:09:01.85,00:09:03.91
+Keep your hands off of Fluffy!
+
+00:09:04.08,00:09:08.42
+It's amazing what we can do[br]with a little blood sample these days.
+
+00:09:08.95,00:09:12.45
+- What? Excuse me.[br]- Why are you taking Stan's blood?
+
+00:09:12.62,00:09:15.68
+Pardon me, I tripped.[br]Could I have some hair?
+
+00:09:15.86,00:09:19.96
+- Watch out, genetic engineers are crazy![br]- Come on, Fluffy!
+
+00:09:22.33,00:09:26.06
+- This gas is hurting my anus.[br]- That's pretty fresh.
+
+00:09:26.24,00:09:28.03
+I sure am hungry.
+
+00:09:28.21,00:09:31.30
+Any of you blokes know[br]what's for lunch today?
+
+00:09:32.78,00:09:36.84
+- Lunchy munchies?[br]- Go away, Pip, nobody likes you!
+
+00:09:37.02,00:09:38.95
+What kind of a name is Pip?
+
+00:09:39.12,00:09:42.88
+My father's family name being Pirrip[br]and my name, Phillip...
+
+00:09:43.05,00:09:46.25
+Would you shut up?[br]Nobody gives a rat's ass!
+
+00:09:46.42,00:09:49.02
+- Yeah, go away, Pip.[br]- Right.
+
+00:09:49.63,00:09:51.65
+French people piss me off.
+
+00:09:51.83,00:09:56.13
+Dumb asses! You give up[br]on your stupid science-fair project?
+
+00:09:56.30,00:10:01.30
+- No, we're already halfway done.[br]- Then all you've got is a stupid pig.
+
+00:10:01.47,00:10:04.60
+- Probably a gay pig.[br]- It's more than you've got!
+
+00:10:04.78,00:10:08.80
+Wrong! We've already[br]got our human clone under way.
+
+00:10:09.31,00:10:12.18
+Oh, my God! They cloned a foot!
+
+00:10:12.42,00:10:14.61
+Hey, I'll kick your ass!
+
+00:10:16.52,00:10:20.86
+By Friday, we'll clone a whole human.[br]Good luck with your pig.
+
+00:10:21.03,00:10:22.46
+Hello, children.
+
+00:10:22.63,00:10:24.15
+- How you doing?[br]- Bad.
+
+00:10:24.33,00:10:25.32
+Why bad?
+
+00:10:25.50,00:10:29.02
+A pig and an elephant's[br]genes won't splice.
+
+00:10:29.20,00:10:31.93
+Of course they won't splice, children.
+
+00:10:32.10,00:10:35.10
+Haven't you ever heard[br]that song by Loverboy?
+
+00:10:37.28,00:10:43.15
+- A pig-elephant? That's not a bad idea.[br]- I told you guys.
+
+00:10:43.31,00:10:47.44
+Imagine a pint-sized elephant[br]that you could keep in the house.
+
+00:10:47.62,00:10:50.95
+Children, we could make[br]a fortune with this.
+
+00:10:51.12,00:10:52.71
+You hear? We'll be rich!
+
+00:10:52.89,00:10:55.52
+Forget about that genetic engineering.
+
+00:10:55.69,00:11:01.06
+If you want to combine a pig and an[br]elephant, get them to make sweet love.
+
+00:11:01.40,00:11:03.39
+An elephant won't make love[br]to a pig.
+
+00:11:03.57,00:11:06.80
+My pig won't wanna make love[br]to that elephant!
+
+00:11:06.97,00:11:09.94
+Sure they would,[br]if you get them in the mood.
+
+00:11:10.11,00:11:14.44
+- How do we do that?[br]- Do what I do, get them good and drunk.
+
+00:11:15.18,00:11:17.58
+- Wanna come over?[br]- We've got work to do.
+
+00:11:17.75,00:11:20.48
+An elephant takes a while[br]to get drunk.
+
+00:11:20.65,00:11:24.61
+- Just for a little bit?[br]- Your sister gonna kick your ass?
+
+00:11:24.79,00:11:26.78
+Shut up, Cartman!
+
+00:11:27.26,00:11:31.89
+- Yeah, she's just a girl.[br]- Lf a girl tried to kick my ass, I'd be:
+
+00:11:32.06,00:11:37.52
+"Why don't you stop dressing me like a[br]mailman and making me dance for you...
+
+00:11:37.70,00:11:40.50
+...while you smoke crack[br]in your bedroom...
+
+00:11:40.67,00:11:45.63
+...and have sex with some guy[br]I don't even know on my dad's bed."
+
+00:11:47.98,00:11:53.04
+- What the hell are you talking about?[br]- I'm saying you're a little wuss.
+
+00:11:53.22,00:11:55.81
+Use family love[br]as a weapon against her.
+
+00:11:55.99,00:12:01.55
+Next time she kicks your ass, tell her,[br]"Shelly, you're my sister. I love you."
+
+00:12:01.73,00:12:05.75
+- Sick, she's my sister![br]- Try it. We gotta get Cartman's pig.
+
+00:12:05.93,00:12:08.73
+You don't! Leave Fluffy out of this!
+
+00:12:08.90,00:12:10.73
+- Come on, Kenny.[br]- Kyle, no!
+
+00:12:10.90,00:12:16.27
+No elephant is gonna make love[br]to Fluffy! I will kick you in the nuts!
+
+00:12:16.91,00:12:17.93
+Crap!
+
+00:12:18.81,00:12:21.47
+And now back to Jesus and Pals...
+
+00:12:21.65,00:12:26.95
+- Are you staring at my neck brace?[br]- No, I mean, yes? What neck brace?
+
+00:12:28.25,00:12:31.19
+Before you beat my face[br]into a bloody pulp...
+
+00:12:31.36,00:12:35.85
+...I just want you to know[br]that you're my sister and I love you.
+
+00:12:41.13,00:12:45.90
+Someday I'll be bigger than you.[br]You'll wish you'd never done this.
+
+00:12:46.07,00:12:51.24
+You'll never be bigger[br]than me, Stan. Never!
+
+00:12:51.58,00:12:57.38
+Beautiful, it's absolutely beautiful.[br]My son, I think we've finally done it.
+
+00:12:57.55,00:13:01.01
+Yes, we have, Dad.[br]My very own human clone.
+
+00:13:01.19,00:13:05.88
+- Hope it's not a gay clone.[br]- Yeah. That's so stupid.
+
+00:13:06.06,00:13:07.79
+Come on, keep drinking.
+
+00:13:07.96,00:13:12.12
+I wonder how drunk he needs to be[br]to make sweet love to the pig.
+
+00:13:14.67,00:13:17.33
+- Damn it! This won't work![br]- Hello, children.
+
+00:13:17.50,00:13:22.13
+I'm checking to see how our little[br]entrepreneurial adventure is going.
+
+00:13:22.31,00:13:24.87
+They're both drunk[br]but won't have sex!
+
+00:13:25.04,00:13:29.31
+Children, you can't stick a drunk pig[br]with a drunk elephant...
+
+00:13:29.48,00:13:32.35
+...and expect them[br]to do the mattress mambo.
+
+00:13:32.52,00:13:37.35
+You need to set the mood. Let me[br]show you boys what I'm talking about.
+
+00:14:06.65,00:14:10.02
+Ladies and gentlemen,[br]Mr. Elton John!
+
+00:14:23.03,00:14:24.37
+Thank you, Elton.
+
+00:14:31.78,00:14:33.27
+Look, it's working!
+
+00:14:34.51,00:14:39.97
+Now, children, gather around[br]and watch the wonders of life.
+
+00:14:40.15,00:14:43.05
+The beauty of mother nature.
+
+00:14:44.19,00:14:46.49
+- Sick![br]- Fluffy!
+
+00:14:47.66,00:14:51.92
+Now I know how all those[br]white women must have felt.
+
+00:14:52.70,00:14:56.36
+How luscious,[br]our creature has come to fruition.
+
+00:14:56.53,00:15:00.60
+- Dad, you're the best.[br]- Oh, my God! He only has one ass!
+
+00:15:00.77,00:15:03.97
+He's of no use to me.[br]I'll have to burn the room.
+
+00:15:05.34,00:15:09.30
+This entire experiment[br]is turning out very bad.
+
+00:15:09.48,00:15:10.67
+Me bad?
+
+00:15:13.52,00:15:16.35
+He's out of control.[br]We have to destroy him!
+
+00:15:16.52,00:15:18.85
+But he's our science-fair project!
+
+00:15:21.29,00:15:25.49
+- He's too dangerous, son.[br]- But, Dad, I want a human clone!
+
+00:15:25.66,00:15:27.22
+Son, no!
+
+00:15:30.57,00:15:35.84
+You've made a horrible mistake. You put[br]the people of South Park in jeopardy!
+
+00:15:36.01,00:15:39.34
+They're all stupid anyway.[br]Come on, guys, let's go.
+
+00:15:39.51,00:15:41.14
+They're all gay.
+
+00:15:42.05,00:15:44.11
+Aren't they ever gonna wake up?
+
+00:15:44.28,00:15:47.65
+They will.[br]It's gonna be one ugly sight.
+
+00:15:47.82,00:15:52.69
+- I thought nature was beautiful.[br]- When does it go from beautiful to ugly?
+
+00:15:52.86,00:15:56.22
+Usually about 9:30 a.m., children.
+
+00:15:57.43,00:15:59.02
+Here we go.
+
+00:16:03.73,00:16:09.43
+There's nothing worse than getting[br]drunk and waking up next to a pig.
+
+00:16:10.98,00:16:14.21
+- Or an elephant.[br]- How do we know if she's pregnant?
+
+00:16:14.38,00:16:17.04
+We might not know[br]for a couple of days.
+
+00:16:17.22,00:16:20.81
+Couple of days? Terrance[br]will have his clone tomorrow.
+
+00:16:20.99,00:16:24.18
+Good job, Einstein![br]Why don't we build a rocket?
+
+00:16:24.36,00:16:26.19
+Thank Buddha I found you.
+
+00:16:26.36,00:16:29.29
+Tell me,[br]have you seen anything odd lately?
+
+00:16:29.46,00:16:31.69
+An elephant have sex with a pig.
+
+00:16:31.86,00:16:36.53
+- No, I said odd.[br]- You're that crazy cracker from the hill.
+
+00:16:36.70,00:16:42.26
+Sir, if making mutant animals spliced[br]with humans is crazy, then...
+
+00:16:46.54,00:16:50.21
+Never mind.[br]There's been an incident at the ranch.
+
+00:16:50.38,00:16:56.32
+I created a large mutant clone of that[br]little boy there, and he's broken free.
+
+00:16:57.62,00:17:00.82
+- A version of me?[br]- Bigger than a regular clone?
+
+00:17:00.99,00:17:06.59
+He's dangerous. His brain is identical[br]to yours. I need you to help me find him.
+
+00:17:11.17,00:17:14.16
+Stan, are you wearing a different hat?
+
+00:17:15.91,00:17:20.94
+Hey! I know a certain young[br]man who's itching for detention!
+
+00:17:23.31,00:17:26.01
+How big is he?[br]I bet he weighs 400 pounds!
+
+00:17:26.18,00:17:29.55
+Come on, Stan, don't you know[br]where you would go?
+
+00:17:30.02,00:17:31.15
+Oh, my God!
+
+00:17:32.96,00:17:38.73
+It appears that the destructive creature[br]is 8-year-old Stan Marsh of South Park.
+
+00:17:38.90,00:17:42.26
+Asked why he was wreaking[br]havoc on his hometown...
+
+00:17:42.43,00:17:47.77
+...the little boy replied simply,[br]"Me Stan..."
+
+00:17:47.94,00:17:49.53
+Back to the studio.
+
+00:17:49.71,00:17:52.80
+Police request[br]that if you see this boy...
+
+00:17:52.98,00:17:56.28
+...you immediately kill him[br]and burn his body.
+
+00:17:56.45,00:17:58.21
+Now back to Jesus and Pals.
+
+00:17:58.38,00:18:01.78
+The way is paved with gold[br]for ye who seek truth...
+
+00:18:05.39,00:18:06.65
+Jesus!
+
+00:18:08.59,00:18:12.59
+My evil clone is destroying the town.[br]We have to find him.
+
+00:18:12.76,00:18:15.36
+You boys watch[br]The X Files too much.
+
+00:18:15.53,00:18:18.70
+There's no such thing[br]as genetic clone...
+
+00:18:23.07,00:18:25.63
+- Come on, let's go![br]- There you are!
+
+00:18:25.81,00:18:31.58
+You tore up my entire gun shop! You[br]better have a good explanation for this!
+
+00:18:31.75,00:18:34.41
+It wasn't me, it was my evil clone.
+
+00:18:34.59,00:18:39.35
+What the hell has gotten into you?[br]You have got severe lunchroom duty!
+
+00:18:39.52,00:18:42.15
+I'm gonna have a word[br]with your father!
+
+00:18:42.33,00:18:46.96
+- Wait till your father hears about this.[br]- Wait, Stan, there he goes.
+
+00:18:47.13,00:18:48.12
+Stop!
+
+00:18:51.17,00:18:55.43
+- He recognizes you, dude.[br]- That's good, dude. Just calm down.
+
+00:18:59.68,00:19:01.91
+What should we do with him?
+
+00:19:02.41,00:19:06.71
+Stan? How would you like to go home[br]and meet your sister?
+
+00:19:10.72,00:19:14.52
+Shelly has a wire in her mouth[br]and a metal plate on her back.
+
+00:19:14.69,00:19:18.56
+When you see Shelly, kick her ass.[br]Shelly very bad!
+
+00:19:18.73,00:19:21.70
+- Me bad?[br]- No, Shelly bad. You good.
+
+00:19:25.74,00:19:28.03
+He's tearing up the house.[br]Stop him!
+
+00:19:37.75,00:19:40.38
+What the hell do you want?
+
+00:19:46.32,00:19:51.85
+- I'm lusciously sorry for everything.[br]- They got our clone. He belongs to us.
+
+00:19:52.03,00:19:56.02
+This beast is a disgrace[br]to genetic engineers everywhere.
+
+00:19:56.20,00:19:59.23
+I'm sorry I've caused you[br]such inconvenience.
+
+00:19:59.40,00:20:02.03
+I tried to play God and I failed.
+
+00:20:02.47,00:20:04.81
+Daddy, no!
+
+00:20:04.98,00:20:09.67
+All I wanted was to genetically[br]engineer something useful. I failed.
+
+00:20:09.85,00:20:12.82
+Perhaps we shouldn't toy[br]with God's creations.
+
+00:20:12.98,00:20:17.68
+Perhaps we should leave nature alone[br]to its simple one-assed schematics.
+
+00:20:17.86,00:20:21.42
+You bastards, this isn't over![br]Wait until tomorrow!
+
+00:20:22.79,00:20:26.46
+Oh, my God! They killed Kenny![br]You bastard!
+
+00:20:27.13,00:20:30.73
+Mom and Dad are home.[br]It's a disaster! You gotta help.
+
+00:20:30.90,00:20:33.34
+I ain't helping. I wanna eat pie.
+
+00:20:33.50,00:20:36.44
+- You can't leave me here alone![br]- Watch me.
+
+00:20:36.61,00:20:39.84
+We have to find out[br]if Cartman's pig is pregnant.
+
+00:20:40.01,00:20:45.47
+- Thanks a lot![br]- Oh, boy, you are gonna get it now.
+
+00:20:46.25,00:20:48.91
+It isn't fair.[br]Everybody hates me.
+
+00:20:49.09,00:20:53.58
+The whole town wants me killed.[br]Mom and Dad are gonna send me away.
+
+00:20:53.76,00:20:57.69
+I don't wanna be sent away.[br]I wanna stay here!
+
+00:20:59.33,00:21:02.30
+What in God's name[br]have you been doing?
+
+00:21:02.47,00:21:04.83
+Everybody in town[br]is upset with you.
+
+00:21:05.00,00:21:07.56
+What's going on?[br]Are you on drugs?
+
+00:21:08.17,00:21:13.67
+It's not Stan's fault.[br]It wasn't Stan. He was...
+
+00:21:14.18,00:21:16.44
+He was with me the whole time.
+
+00:21:17.82,00:21:21.05
+Well, we're sorry[br]we jumped to conclusions.
+
+00:21:21.22,00:21:24.62
+Oh, honey.[br]Please forgive us, son.
+
+00:21:26.46,00:21:31.12
+Shelly, you saved my life.[br]And yet you've done so much more.
+
+00:21:31.30,00:21:35.32
+You taught me the meaning of family.[br]Families don't get along.
+
+00:21:35.50,00:21:40.23
+When the forces of evil descend,[br]we conquer them by sticking together.
+
+00:21:49.38,00:21:53.54
+Everyone, let's give Casey[br]and his weed a big hand.
+
+00:21:54.22,00:21:56.88
+We're ready to see[br]your science project.
+
+00:21:57.05,00:22:00.65
+Our pig hasn't given birth.[br]She should any time now.
+
+00:22:00.83,00:22:02.22
+I guess you get an F.
+
+00:22:02.39,00:22:06.35
+Terrance, I know the class[br]can hardly wait to see yours.
+
+00:22:06.53,00:22:11.73
+Boys, Mr. Garrison, fellow students,[br]for our science-fair project...
+
+00:22:11.90,00:22:16.34
+...Bill Fossey and I spawned a creature[br]genetically superior to man.
+
+00:22:16.51,00:22:20.03
+I present to you[br]the five-assed monkey.
+
+00:22:20.54,00:22:22.74
+Mr. Hat, isn't it beautiful?
+
+00:22:25.55,00:22:29.42
+Wait, wait, the pig just gave birth![br]It had a baby!
+
+00:22:30.45,00:22:34.32
+- What's it look like?[br]- Does it look like pig or elephant?
+
+00:22:37.86,00:22:40.80
+It kind of looks like Mr. Garrison.
+
+00:22:40.97,00:22:46.06
+Isn't that an amazing coincidence?[br]What are the odds of that?
+
+00:22:47.87,00:22:50.40
+You boys get first prize.
+
+00:22:53.14,00:22:55.44
+That'll do, pig.

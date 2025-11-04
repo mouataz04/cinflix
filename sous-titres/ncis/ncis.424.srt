@@ -1,0 +1,3221 @@
+1
+00:00:09,699 --> 00:00:11,126
+Welcome home, Director.
+
+2
+00:00:11,127 --> 00:00:12,754
+How was the Interpol conference?
+
+3
+00:00:12,755 --> 00:00:16,228
+Fine. Full of Euro cops
+trying to hook up with me.
+
+4
+00:00:16,477 --> 00:00:17,971
+And, no, I didn't.
+
+5
+00:00:17,972 --> 00:00:19,397
+Oh, I wasn't wondering if...
+
+6
+00:00:19,398 --> 00:00:22,533
+I would if I were you.
+Now, get in, Cynthia.
+
+7
+00:00:29,262 --> 00:00:32,635
+Is the agency still intact after
+a week with Gibbs in charge?
+
+8
+00:00:32,636 --> 00:00:34,280
+We survived.
+
+9
+00:00:34,919 --> 00:00:36,484
+Did Gibbs?
+
+10
+00:00:36,485 --> 00:00:38,043
+Barely.
+
+11
+00:01:14,339 --> 00:01:18,266
+<i>Cleared customs see ya soo...</i>
+
+12
+00:01:18,309 --> 00:01:20,743
+Team-NCIS.com presents :
+
+13
+00:01:20,822 --> 00:01:23,891
+NCIS Season 4 Episode 24
+Angel of Death (HR-CRiMSON)
+
+14
+00:01:23,954 --> 00:01:29,205
+Capture : Swsub.com
+
+15
+00:01:29,268 --> 00:01:33,523
+Synchro : Gaillots.
+Corrections : Kasius.
+
+16
+00:01:33,585 --> 00:02:03,300
+www.Team-NCIS.com
+
+17
+00:02:10,182 --> 00:02:13,115
+- Welcome home, señora.
+- Thank you, Noemi.
+
+18
+00:02:13,755 --> 00:02:15,165
+You hungry, señora?
+
+19
+00:02:15,166 --> 00:02:17,028
+No, I ate on the plane.
+
+20
+00:02:17,029 --> 00:02:19,238
+I fix your favorite paella.
+
+21
+00:02:20,888 --> 00:02:23,632
+- Very well. I'll have a little.
+- Okay.
+
+22
+00:02:31,384 --> 00:02:33,834
+- Will there be anything else, Director?
+- No.
+
+23
+00:02:34,254 --> 00:02:35,999
+Take Cynthia home.
+
+24
+00:02:36,000 --> 00:02:39,130
+She's going to argue, but it's silly
+for her to go back to the office now.
+
+25
+00:02:39,131 --> 00:02:40,778
+Understood.
+
+26
+00:02:40,959 --> 00:02:42,789
+What time tomorrow, Director?
+
+27
+00:02:42,790 --> 00:02:46,037
+05:30, Melvin.
+I want to get an early start.
+
+28
+00:02:46,339 --> 00:02:47,682
+Yes, ma'am.
+
+29
+00:02:47,683 --> 00:02:50,595
+Noemi, I'll eat in the study.
+
+30
+00:02:50,696 --> 00:02:52,905
+Si, señora.
+
+31
+00:03:02,736 --> 00:03:06,277
+My father has been dead since '95.
+
+32
+00:03:06,949 --> 00:03:08,904
+He stood
+
+33
+00:03:08,905 --> 00:03:12,966
+where you stand
+three weeks ago.
+
+34
+00:03:17,169 --> 00:03:18,718
+Noemi!
+
+35
+00:03:19,250 --> 00:03:20,965
+Si, señora?
+
+36
+00:03:21,583 --> 00:03:23,506
+Who's been in my study?
+
+37
+00:03:23,778 --> 00:03:25,343
+No one, señora.
+
+38
+00:03:28,246 --> 00:03:30,025
+Obviously someone.
+
+39
+00:03:32,341 --> 00:03:34,019
+You no do that?
+
+40
+00:03:35,882 --> 00:03:37,191
+I no do that.
+
+41
+00:03:38,180 --> 00:03:40,043
+Maybe before you leave?
+
+42
+00:03:41,455 --> 00:03:44,332
+I've been gone for five days.
+Didn't you clean in here?
+
+43
+00:03:44,333 --> 00:03:45,520
+Si, señora.
+
+44
+00:03:46,643 --> 00:03:49,065
+I... I no see.
+
+45
+00:03:49,585 --> 00:03:50,894
+I'm sorry, señora.
+
+46
+00:03:52,042 --> 00:03:54,845
+It's nothing, Noemi.
+Don't worry about it.
+
+47
+00:04:02,370 --> 00:04:04,198
+Okay, I know this looks a little weird,
+
+48
+00:04:04,199 --> 00:04:08,536
+but I couldn't get my hands on a real
+polygraph machine, so I made one.
+
+49
+00:04:09,509 --> 00:04:10,885
+Name.
+
+50
+00:04:11,710 --> 00:04:13,481
+Name! Tell me your name!
+
+51
+00:04:13,482 --> 00:04:16,334
+Stop acting like a Nazi. Come over here.
+Scratch my nose, please.
+
+52
+00:04:16,335 --> 00:04:18,265
+Right side, right side.
+
+53
+00:04:18,266 --> 00:04:20,211
+Ow! God, not so hard!
+
+54
+00:04:20,212 --> 00:04:22,942
+McGee, stop being such a baby.
+Name.
+
+55
+00:04:23,630 --> 00:04:25,677
+Timothy McGee...
+no middle initial.
+
+56
+00:04:25,678 --> 00:04:27,803
+Have you ever used an alias?
+
+57
+00:04:28,139 --> 00:04:30,019
+Does a nom de plume count?
+
+58
+00:04:30,606 --> 00:04:31,612
+It does.
+
+59
+00:04:31,613 --> 00:04:33,284
+Thom E. Gemcity.
+
+60
+00:04:33,285 --> 00:04:34,527
+Any other names?
+
+61
+00:04:35,433 --> 00:04:36,440
+No.
+
+62
+00:04:37,380 --> 00:04:39,273
+- No?
+- No.
+
+63
+00:04:39,274 --> 00:04:42,847
+Okay, either you or my polygraph is
+lying. And since this is a machine and
+
+64
+00:04:42,848 --> 00:04:44,742
+- it can't lie...
+- HAL lied through his chips.
+
+65
+00:04:44,743 --> 00:04:47,523
+I thought the expression was
+"to lie through your teeth. "
+
+66
+00:04:47,524 --> 00:04:50,481
+HAL, the computer. 2001?
+Sci-fi classic?
+
+67
+00:04:50,482 --> 00:04:52,647
+How can a six-year-old movie be a classic?
+
+68
+00:04:52,648 --> 00:04:54,953
+The film that was made in 1968.
+
+69
+00:04:54,954 --> 00:04:57,184
+2001 : A Space Odyssey directed
+by Stanley Kubrick.
+
+70
+00:04:57,185 --> 00:04:58,862
+How long do you have to
+be in this country...
+
+71
+00:04:58,863 --> 00:05:01,253
+I'm trying to prep McGee
+for his polygraph on Monday.
+
+72
+00:05:01,254 --> 00:05:02,714
+Really?
+
+73
+00:05:02,965 --> 00:05:06,994
+Well, unless you're a spy, McGeek,
+the thought of which is utterly ludicrous.
+
+74
+00:05:06,995 --> 00:05:08,273
+What's the sweat?
+
+75
+00:05:08,274 --> 00:05:10,582
+He panics taking tests.
+
+76
+00:05:11,338 --> 00:05:12,563
+It's not uncommon.
+
+77
+00:05:12,564 --> 00:05:15,085
+Started in kindergarten.
+Couldn't change his answer.
+
+78
+00:05:15,086 --> 00:05:17,842
+- Hard to erase crayon.
+- Tony, it's not funny.
+
+79
+00:05:17,843 --> 00:05:21,973
+Retaining my Special Agent status
+is dependent on passing this polygraph.
+
+80
+00:05:21,974 --> 00:05:24,255
+Oh, this is definitely a lie.
+
+81
+00:05:24,256 --> 00:05:26,516
+- What'd you ask him?
+- His name.
+
+82
+00:05:26,517 --> 00:05:27,996
+You lied about your name?
+
+83
+00:05:28,027 --> 00:05:29,306
+No.
+
+84
+00:05:29,307 --> 00:05:31,204
+Timothy McGee is my legal name.
+
+85
+00:05:31,205 --> 00:05:34,558
+Thom E. Gemcity is my pen name.
+I don't have any other names.
+
+86
+00:05:34,559 --> 00:05:36,136
+- Probie.
+- Yeah, boss.
+
+87
+00:05:36,137 --> 00:05:39,066
+And Elf Lord.
+Two other names.
+
+88
+00:05:39,067 --> 00:05:41,314
+Why are you torturing McGee?
+
+89
+00:05:41,315 --> 00:05:44,215
+I am not torturing, McGee.
+I am prepping him.
+
+90
+00:05:44,216 --> 00:05:46,645
+He has his CPS polygraph on Monday.
+
+91
+00:05:46,646 --> 00:05:48,875
+- Who ordered that?
+- Homeland Security.
+
+92
+00:05:48,876 --> 00:05:52,611
+All NCIS agents must take it,
+directors included.
+
+93
+00:05:52,652 --> 00:05:54,175
+Check your e-mails.
+
+94
+00:05:56,944 --> 00:05:58,403
+Monday, 09:00.
+
+95
+00:05:58,404 --> 00:06:00,423
+Tuesday, 13:00.
+
+96
+00:06:00,424 --> 00:06:02,074
+Boss, what time is your...?
+
+97
+00:06:10,376 --> 00:06:12,876
+You ever seen the Angel of Death,
+Dr. Benoit?
+
+98
+00:06:13,078 --> 00:06:15,830
+Skeleton, hooded black robe, scythe.
+
+99
+00:06:16,827 --> 00:06:18,438
+I am not kidding, Doctor.
+
+100
+00:06:19,486 --> 00:06:20,486
+Carly.
+
+101
+00:06:20,487 --> 00:06:23,937
+Not a skeleton with a grass-cutter.
+That's for kids on Halloween.
+
+102
+00:06:23,938 --> 00:06:27,260
+Although, if he wanted to
+he could appear as a skeleton.
+
+103
+00:06:27,887 --> 00:06:29,616
+I take it you've seen him?
+
+104
+00:06:30,002 --> 00:06:32,318
+Once, when my Uncle Luis died.
+
+105
+00:06:33,258 --> 00:06:34,870
+What did he look like?
+
+106
+00:06:35,239 --> 00:06:36,448
+Miss Puerto Rico.
+
+107
+00:06:37,001 --> 00:06:39,617
+What are you talking about?
+You can't keep me here.
+
+108
+00:06:39,618 --> 00:06:41,587
+You want to walk, walk.
+
+109
+00:06:41,588 --> 00:06:43,864
+I can't with this leg iron on.
+
+110
+00:06:43,865 --> 00:06:45,240
+I want a cast.
+
+111
+00:06:45,241 --> 00:06:46,885
+After surgery.
+
+112
+00:06:47,372 --> 00:06:49,032
+Wait a minute...
+
+113
+00:06:49,351 --> 00:06:51,632
+Wait a minute, are they...
+are they going to knock me out?
+
+114
+00:06:51,633 --> 00:06:53,125
+Oh, I hope not.
+
+115
+00:06:54,219 --> 00:06:55,494
+Where's my backpack?
+
+116
+00:06:57,031 --> 00:06:59,699
+Where's my bag?
+I want my backpack.
+
+117
+00:07:03,115 --> 00:07:05,467
+Sorry to stick you
+with this one, Doctor.
+
+118
+00:07:05,468 --> 00:07:06,794
+No problem, Annie.
+
+119
+00:07:06,795 --> 00:07:10,139
+Dr. Jessup wants him
+in monkey bars till he can operate.
+
+120
+00:07:14,929 --> 00:07:17,564
+Three MGs of Versed,
+two of morphine, 15 minutes ago.
+
+121
+00:07:17,565 --> 00:07:19,507
+And he's still amped up?
+
+122
+00:07:19,645 --> 00:07:22,345
+I think the boy had more
+on board than ER put in him.
+
+123
+00:07:22,346 --> 00:07:24,556
+Patti said he wouldn't
+let them take blood.
+
+124
+00:07:24,557 --> 00:07:27,173
+And it was a fight
+just to get the leg X-rayed.
+
+125
+00:07:27,174 --> 00:07:29,230
+Hey, where's my phone?!
+Someone stole my phone!
+
+126
+00:07:29,231 --> 00:07:30,573
+You didn't come in with one, Devon.
+
+127
+00:07:30,574 --> 00:07:32,612
+No, I had a cell phone!
+I was texting on it when...
+
+128
+00:07:32,613 --> 00:07:35,492
+When you stepped in front
+of a cab at Dulles.
+
+129
+00:07:36,091 --> 00:07:39,028
+I'm Dr. Benoit, Devon.
+Give me a minute.
+
+130
+00:07:48,472 --> 00:07:50,808
+You're hypertensive and tachycardiac.
+
+131
+00:07:51,098 --> 00:07:52,390
+What's that?
+
+132
+00:07:53,129 --> 00:07:54,304
+Not good.
+
+133
+00:07:56,095 --> 00:07:58,802
+Have you taken any drugs
+we don't know about?
+
+134
+00:07:59,783 --> 00:08:01,430
+We're not the police, Devon.
+
+135
+00:08:02,722 --> 00:08:05,003
+Our only concern is your well-being.
+
+136
+00:08:05,004 --> 00:08:08,813
+I want...
+I want to call my sister.
+
+137
+00:08:10,725 --> 00:08:12,660
+There's a phone in your room.
+
+138
+00:08:16,349 --> 00:08:17,878
+What do you think, Doctor?
+
+139
+00:08:18,597 --> 00:08:21,061
+Keep your eye out for Miss Puerto Rico.
+
+140
+00:08:44,517 --> 00:08:46,044
+Visiting your ex-wife?
+
+141
+00:08:46,430 --> 00:08:47,706
+Waiting for you.
+
+142
+00:08:48,024 --> 00:08:49,518
+How'd you know I'd be here?
+
+143
+00:08:49,616 --> 00:08:51,613
+Friday night. Old weekend.
+
+144
+00:08:51,614 --> 00:08:53,351
+<i>Hold on, Emily.</i>
+
+145
+00:08:54,265 --> 00:08:55,641
+Hi, Daddy!
+
+146
+00:08:55,642 --> 00:08:57,810
+Hey, Em. Be there in a minute.
+
+147
+00:09:01,509 --> 00:09:04,238
+Diane look that pissed at you
+after the divorce?
+
+148
+00:09:04,731 --> 00:09:06,375
+She's looking at me, Tobias.
+
+149
+00:09:08,040 --> 00:09:09,981
+Ever think of picking up a phone?
+
+150
+00:09:10,415 --> 00:09:11,727
+Hard lines are tapped.
+
+151
+00:09:11,728 --> 00:09:13,915
+Cell calls snatched right out of the air.
+
+152
+00:09:13,916 --> 00:09:16,498
+Turning into a conspiracy nut, Jethro.
+What's next?
+
+153
+00:09:16,499 --> 00:09:18,009
+Alien abductions?
+
+154
+00:09:18,010 --> 00:09:19,552
+Only if you don't answer my question.
+
+155
+00:09:19,553 --> 00:09:21,475
+- Why the polygraphs?
+- No.
+
+156
+00:09:23,023 --> 00:09:25,352
+- Do you still dream about O.J.-ing Diane?
+- Nah,
+
+157
+00:09:26,125 --> 00:09:28,391
+Emily kind of likes her. You?
+
+158
+00:09:28,977 --> 00:09:31,675
+Only when I think about my
+grandfather's railroad watch.
+
+159
+00:09:31,676 --> 00:09:33,472
+Beautiful chimes.
+
+160
+00:09:33,723 --> 00:09:35,351
+FBI being polygraphed?
+
+161
+00:09:35,492 --> 00:09:37,824
+No. And before you run
+through the alphabet soup.
+
+162
+00:09:37,825 --> 00:09:40,477
+This net is being cast
+strictly over NCIS.
+
+163
+00:09:40,478 --> 00:09:42,148
+Who's doing the fishing?
+
+164
+00:09:42,149 --> 00:09:46,411
+Obviously, someone who thinks
+there's a security risk at NCIS.
+
+165
+00:09:46,713 --> 00:09:47,969
+CIA.
+
+166
+00:09:48,892 --> 00:09:50,604
+Who are they after, Tobias?
+
+167
+00:09:53,414 --> 00:09:54,471
+Your boss.
+
+168
+00:10:23,054 --> 00:10:24,054
+Señor Gibbs.
+
+169
+00:10:24,972 --> 00:10:26,046
+Director home?
+
+170
+00:10:26,416 --> 00:10:27,489
+I'm in here.
+
+171
+00:10:32,866 --> 00:10:37,340
+In polite society,
+one usually calls before a visit.
+
+172
+00:10:37,495 --> 00:10:38,502
+Bourbon?
+
+173
+00:10:38,503 --> 00:10:40,952
+I kicked in too many doors
+to be polite. Yeah.
+
+174
+00:10:41,926 --> 00:10:45,316
+I appreciate the restraint
+you showed by using the bell.
+
+175
+00:10:46,609 --> 00:10:49,914
+I've been rather fond of that
+door since I was a child.
+
+176
+00:10:50,431 --> 00:10:53,489
+You could have waited to report
+till Monday, Jethro.
+
+177
+00:10:54,858 --> 00:10:56,344
+That's not why I'm here.
+
+178
+00:10:56,345 --> 00:10:58,356
+You lost your protection detail in Paris.
+
+179
+00:10:58,357 --> 00:11:00,998
+You went missing for 21 hours.
+Where were you?
+
+180
+00:11:02,367 --> 00:11:04,243
+You sound like a jealous husband.
+
+181
+00:11:04,244 --> 00:11:05,501
+How would you know?
+
+182
+00:11:06,626 --> 00:11:08,052
+Do you want this or not?
+
+183
+00:11:12,701 --> 00:11:15,025
+Don't... touch that!
+
+184
+00:11:15,646 --> 00:11:16,720
+It's Scotch.
+
+185
+00:11:17,744 --> 00:11:18,855
+You drink bourbon.
+
+186
+00:11:20,058 --> 00:11:21,058
+So you.
+
+187
+00:11:23,181 --> 00:11:27,230
+I had another visitor
+before you arrived...
+
+188
+00:11:28,153 --> 00:11:29,815
+unannounced.
+
+189
+00:11:30,084 --> 00:11:31,796
+Did he duck out the back?
+
+190
+00:11:34,058 --> 00:11:36,545
+Now you do sound like a jealous husband.
+
+191
+00:11:37,993 --> 00:11:40,068
+You go off grid for 21 hours...
+
+192
+00:11:40,991 --> 00:11:44,063
+and we're being polygraphed
+for a security breach.
+
+193
+00:11:45,058 --> 00:11:47,763
+Drink your bourbon and
+say good night, Gracie.
+
+194
+00:11:49,154 --> 00:11:51,598
+What were you doing
+for 21 hours, Jenny?
+
+195
+00:11:51,996 --> 00:11:53,788
+What we used to do.
+
+196
+00:11:54,257 --> 00:11:55,852
+Ever so well.
+
+197
+00:11:57,936 --> 00:12:01,108
+When you're lying,
+your right eye twitches.
+
+198
+00:12:02,623 --> 00:12:04,011
+It always has.
+
+199
+00:12:10,200 --> 00:12:11,995
+You know, constitutionally,
+
+200
+00:12:11,996 --> 00:12:14,207
+you can refuse to take a polygraph.
+
+201
+00:12:14,208 --> 00:12:15,953
+I'd have to turn in my badge.
+
+202
+00:12:15,954 --> 00:12:18,342
+True, but you don't
+have to take the test.
+
+203
+00:12:18,373 --> 00:12:20,060
+Hey, I have an idea.
+
+204
+00:12:20,061 --> 00:12:23,853
+Why don't we get Ducky to tell
+the examiners that Tim is just way
+
+205
+00:12:23,854 --> 00:12:25,525
+too stressed out to take the test?
+
+206
+00:12:25,526 --> 00:12:28,126
+Ducky's a medical examiner,
+he's not a psychiatrist.
+
+207
+00:12:28,127 --> 00:12:31,397
+- But he does psychological profiles.
+- Of serial killers.
+
+208
+00:12:31,582 --> 00:12:35,288
+That's good I'll go from Federal Agent
+to serial killer in one day.
+
+209
+00:12:35,312 --> 00:12:36,754
+It was just a thought.
+
+210
+00:12:38,432 --> 00:12:39,707
+Here you go.
+
+211
+00:12:40,228 --> 00:12:42,242
+Thanks. Great bartender.
+
+212
+00:12:42,243 --> 00:12:44,767
+- You can beat a polygraph.
+- No, you can't.
+
+213
+00:12:44,768 --> 00:12:47,125
+I've done it, Abby.
+It's part of Mossad training.
+
+214
+00:12:47,126 --> 00:12:49,280
+- All you have to do...
+- Oh, hello!
+
+215
+00:12:49,281 --> 00:12:51,787
+- If it's unethical, I can't hear it!
+- Well, don't listen.
+
+216
+00:12:51,921 --> 00:12:53,041
+Fine.
+
+217
+00:12:53,646 --> 00:12:54,653
+Go ahead...
+
+218
+00:12:54,654 --> 00:12:56,432
+May we join you?
+
+219
+00:12:56,433 --> 00:12:58,946
+- Hey, Ducky, here take my chair.
+- No, no, no, no, Timothy.
+
+220
+00:12:58,947 --> 00:13:00,697
+At a bar, I prefer to stand.
+
+221
+00:13:00,698 --> 00:13:01,698
+Me, too.
+
+222
+00:13:01,855 --> 00:13:05,055
+Macallan neat.
+Mineral water on the side. No ice.
+
+223
+00:13:05,441 --> 00:13:08,361
+I'll take a, uh, chocolate martini.
+
+224
+00:13:08,894 --> 00:13:10,102
+Just kidding.
+
+225
+00:13:10,103 --> 00:13:12,200
+Uh, make that a Green Fairy Mojito.
+
+226
+00:13:12,201 --> 00:13:13,201
+<i>You got it.</i>
+
+227
+00:13:13,202 --> 00:13:17,308
+Why is everybody so dour?
+It's TGIF and the happy hour!
+
+228
+00:13:17,309 --> 00:13:20,807
+Homeland Security's ordering us
+to take a polygraph.
+
+229
+00:13:20,808 --> 00:13:23,309
+That's rather odd.
+But there's nothing to worry about.
+
+230
+00:13:23,779 --> 00:13:26,380
+Unless... you're a spy.
+
+231
+00:13:27,035 --> 00:13:28,806
+Why are you looking at me?!
+
+232
+00:13:28,807 --> 00:13:32,113
+I'm trying to lighten
+the atmosphere with a little humor.
+
+233
+00:13:32,114 --> 00:13:34,473
+I don't think they expect you
+to be funny, Doctor.
+
+234
+00:13:34,994 --> 00:13:37,552
+- That didn't come out right.
+- No, I should say not.
+
+235
+00:13:37,553 --> 00:13:40,141
+I mean I don't think they
+expect a Scotsman to be funny.
+
+236
+00:13:40,142 --> 00:13:42,224
+Stop digging, Jimmy.
+
+237
+00:13:42,244 --> 00:13:43,591
+You've almost reached China.
+
+238
+00:13:43,592 --> 00:13:46,008
+Yeah, a round for my friends on me.
+
+239
+00:13:46,009 --> 00:13:48,989
+Dispelling two misconceptions
+about Scotsmen in one night.
+
+240
+00:13:48,990 --> 00:13:50,803
+Does anyone know where the rest rooms are?
+
+241
+00:13:50,804 --> 00:13:51,903
+- I do!
+- Okay.
+
+242
+00:13:51,904 --> 00:13:54,967
+One moment!
+First... a toast!
+
+243
+00:13:54,968 --> 00:13:56,602
+- Please, God, make it quick.
+- Amen.
+
+244
+00:13:56,603 --> 00:13:59,620
+May the best you've ever seen
+be the worst you'll ever see.
+
+245
+00:13:59,621 --> 00:14:03,305
+May a mouse never leave your girnal
+with a teardrop in his eye.
+
+246
+00:14:03,306 --> 00:14:06,774
+May you stay hale and hearty
+until you're old enough to die.
+
+247
+00:14:06,775 --> 00:14:09,661
+May you always be as happy
+as we wish you all to be.
+
+248
+00:14:09,662 --> 00:14:11,187
+Guys, I'm sorry I gotta go.
+
+249
+00:14:11,188 --> 00:14:12,209
+Uh, me, too.
+
+250
+00:14:13,719 --> 00:14:15,530
+- Great toast, Ducky.
+- Uh... thank you.
+
+251
+00:14:15,531 --> 00:14:16,689
+Terrific.
+
+252
+00:14:16,690 --> 00:14:18,049
+Really good, Doctor.
+
+253
+00:14:19,356 --> 00:14:23,450
+May a mouse never leave your girdle
+with a teardrop in his eye.
+
+254
+00:14:23,451 --> 00:14:26,611
+Not girdle, girnal. It's an oat bin.
+
+255
+00:14:26,612 --> 00:14:29,769
+If it was empty, a mouse would cry.
+
+256
+00:14:30,747 --> 00:14:33,361
+To dry-eyed mice.
+
+257
+00:14:33,996 --> 00:14:35,132
+Yeah, yeah.
+
+258
+00:14:38,069 --> 00:14:39,512
+Stupid bastard.
+
+259
+00:14:40,185 --> 00:14:42,949
+I don't think that Dee meant
+to get hit by a...
+
+260
+00:14:53,309 --> 00:14:54,916
+Why didn't you push it?
+
+261
+00:14:55,722 --> 00:14:57,367
+It was lit.
+
+262
+00:14:58,685 --> 00:15:00,229
+I'd have pushed it anyway.
+
+263
+00:15:00,996 --> 00:15:02,210
+And why is that?
+
+264
+00:15:02,438 --> 00:15:03,720
+To watch it light up.
+
+265
+00:15:14,626 --> 00:15:17,618
+Why don't you get her some help?
+ER's on one.
+
+266
+00:15:20,377 --> 00:15:21,603
+You talking to me?
+
+267
+00:15:23,311 --> 00:15:25,704
+Yeah, I'm talking to you, Bobby.
+
+268
+00:15:26,998 --> 00:15:29,235
+- His name is Nick.
+- Shut up, Bernie.
+
+269
+00:15:29,638 --> 00:15:31,925
+But he thinks that your name is Bobby.
+
+270
+00:15:32,407 --> 00:15:34,412
+- Don't you?
+- No.
+
+271
+00:15:34,765 --> 00:15:38,529
+He thinks his name is Bobby. Don't you?
+
+272
+00:15:39,916 --> 00:15:42,769
+You don't think your
+name is Bobby, do you, Nick?
+
+273
+00:15:42,770 --> 00:15:44,984
+Shut up. Can't you see he's a cop?
+
+274
+00:15:45,454 --> 00:15:48,644
+Hey, ER said Devon Watson was up here.
+
+275
+00:15:48,645 --> 00:15:50,689
+He called his sister to pick him up.
+
+276
+00:15:50,690 --> 00:15:52,370
+I'm his sister.
+
+277
+00:15:53,377 --> 00:15:55,139
+He hasn't gone into surgery.
+
+278
+00:15:55,140 --> 00:15:58,143
+Surgery? For a broken leg?
+
+279
+00:15:58,565 --> 00:16:00,681
+It's a severe compound fracture.
+
+280
+00:16:00,682 --> 00:16:02,159
+Put a splint on it.
+
+281
+00:16:04,001 --> 00:16:05,440
+Is there a problem here, Carly?
+
+282
+00:16:05,441 --> 00:16:08,131
+I don't know.
+Do we have a problem?
+
+283
+00:16:10,095 --> 00:16:11,278
+No problem.
+
+284
+00:16:11,647 --> 00:16:14,314
+My girl's worried about
+her brother, that's all.
+
+285
+00:16:14,315 --> 00:16:15,461
+Wants to see him.
+
+286
+00:16:15,998 --> 00:16:17,425
+Yeah, can I see Dee?
+
+287
+00:16:17,753 --> 00:16:19,456
+That's up to Dr. Benoit.
+
+288
+00:16:20,039 --> 00:16:22,167
+- I need this stat.
+- Sure.
+
+289
+00:16:23,943 --> 00:16:26,367
+This is Mr. Watson's sister, Dr. Benoit.
+
+290
+00:16:26,702 --> 00:16:30,226
+Bernadette.
+But everybody calls me Bernie.
+
+291
+00:16:32,004 --> 00:16:33,300
+And you are?
+
+292
+00:16:33,301 --> 00:16:34,315
+A friend.
+
+293
+00:16:35,003 --> 00:16:36,003
+Have a name...
+
+294
+00:16:36,725 --> 00:16:37,880
+friend?
+
+295
+00:16:38,642 --> 00:16:39,755
+Nick.
+
+296
+00:16:40,170 --> 00:16:41,902
+He thinks his name is Bobby.
+
+297
+00:16:45,707 --> 00:16:48,180
+Room 331.
+Ten minutes.
+
+298
+00:16:48,314 --> 00:16:50,025
+I wanted to be a doctor.
+
+299
+00:16:50,026 --> 00:16:51,134
+Um, but my dad...
+
+300
+00:16:51,135 --> 00:16:53,611
+She doesn't want to hear
+about your life history, Bernie.
+
+301
+00:16:55,645 --> 00:16:57,880
+<i>- I told you to keep your trap shut.
+- Sorry.</i>
+
+302
+00:16:57,881 --> 00:17:01,000
+I didn't think doctors
+cleaned out urinals.
+
+303
+00:17:01,016 --> 00:17:02,829
+We draw the line at bedpans.
+
+304
+00:17:03,483 --> 00:17:05,863
+Want to take a 15 minute break with me?
+
+305
+00:17:06,580 --> 00:17:08,381
+We'll be in the cafeteria, Carly.
+
+306
+00:17:08,382 --> 00:17:09,567
+Okay, Doctor.
+
+307
+00:17:09,568 --> 00:17:12,269
+And clock that ten minutes.
+
+308
+00:17:19,646 --> 00:17:22,169
+What's with you calling
+that loser Bobby?
+
+309
+00:17:22,170 --> 00:17:24,505
+Well, he was doing DeNiro in the elevator.
+
+310
+00:17:24,506 --> 00:17:26,723
+You know, like, you talkin' to me?
+
+311
+00:17:26,724 --> 00:17:28,149
+You talkin' to me?!
+
+312
+00:17:28,150 --> 00:17:29,434
+So I called him Bobby.
+
+313
+00:17:29,435 --> 00:17:31,947
+Sometimes you are so juvenile.
+
+314
+00:17:31,948 --> 00:17:34,039
+Yes, but it makes me loveable.
+
+315
+00:17:35,213 --> 00:17:37,220
+You don't look so good, Dee.
+
+316
+00:17:37,221 --> 00:17:40,130
+I don't feel so good, Bernie.
+
+317
+00:17:40,131 --> 00:17:42,394
+- Does it hurt?
+- Shut up, Bernie.
+
+318
+00:17:43,197 --> 00:17:44,694
+You got to get out of here.
+
+319
+00:17:44,695 --> 00:17:46,355
+Man, they won't let me out.
+
+320
+00:17:46,356 --> 00:17:49,026
+They can't keep you.
+All you got to do is sign a release.
+
+321
+00:17:49,027 --> 00:17:51,072
+What... what about my leg?
+
+322
+00:17:51,073 --> 00:17:52,382
+We'll fix it later.
+
+323
+00:17:53,260 --> 00:17:54,457
+I can't walk.
+
+324
+00:17:54,458 --> 00:17:58,625
+That's why they make the chairs with
+those, you know, things that go round.
+
+325
+00:17:58,626 --> 00:18:00,085
+Oh, wheelchairs!
+
+326
+00:18:00,337 --> 00:18:02,302
+I'm really scared, man.
+
+327
+00:18:02,972 --> 00:18:04,919
+I'm feeling really cold, Nick.
+
+328
+00:18:06,670 --> 00:18:08,073
+I think I might be leaking.
+
+329
+00:18:08,074 --> 00:18:10,319
+Be cool, Dee, be cool.
+You're not leaking.
+
+330
+00:18:10,320 --> 00:18:11,884
+Don't let me die here, man.
+
+331
+00:18:11,885 --> 00:18:13,708
+You're not going to die, honey.
+
+332
+00:18:13,861 --> 00:18:15,304
+I got to tell somebody.
+I've got to tell somebody.
+
+333
+00:18:15,305 --> 00:18:17,446
+No, no... You're not going to tell
+anybody nothing!
+
+334
+00:18:17,447 --> 00:18:20,636
+Stop! Stop it, Nick!
+You're killing him!
+
+335
+00:18:20,637 --> 00:18:22,079
+Shut up.
+
+336
+00:18:25,693 --> 00:18:27,623
+I hope this stops by morning.
+
+337
+00:18:27,875 --> 00:18:30,114
+I want you to see the house in sunshine.
+
+338
+00:18:31,323 --> 00:18:32,469
+It leaks.
+
+339
+00:18:32,470 --> 00:18:34,215
+No, it doesn't leak.
+
+340
+00:18:34,450 --> 00:18:35,859
+It has bats.
+
+341
+00:18:35,994 --> 00:18:39,181
+Bats don't come out in the sunshine.
+I hate bats... ever since I saw Dracula.
+
+342
+00:18:39,182 --> 00:18:41,295
+You're chickening out on me, aren't you?
+
+343
+00:18:42,355 --> 00:18:43,697
+After you promised?
+
+344
+00:18:45,560 --> 00:18:47,087
+Did I say Scout's honor?
+
+345
+00:18:48,397 --> 00:18:50,672
+Wow, you drive a hard bargain. Okay.
+
+346
+00:18:51,813 --> 00:18:54,129
+Yes, I want to see the house.
+
+347
+00:18:54,130 --> 00:18:57,499
+Just as long as seeing doesn't
+necessarily mean buying.
+
+348
+00:18:57,904 --> 00:18:59,733
+No, of course it doesn't.
+
+349
+00:19:00,747 --> 00:19:04,641
+I just want you to give it
+some serious consideration.
+
+350
+00:19:06,133 --> 00:19:09,271
+You can count on that.
+Especially after last night.
+
+351
+00:19:09,272 --> 00:19:11,536
+I think that, uh, you deserve...
+
+352
+00:19:11,537 --> 00:19:13,999
+I'm sorry, that was
+you last night, right?
+
+353
+00:19:14,000 --> 00:19:16,442
+With the mask and the strange headgear?
+
+354
+00:19:19,245 --> 00:19:20,369
+Code blue.
+
+355
+00:19:21,589 --> 00:19:22,898
+Code blue.
+
+356
+00:19:26,120 --> 00:19:28,760
+Hang in there, Devon. You're going
+to be okay. Got the pulse ox.
+
+357
+00:19:28,765 --> 00:19:32,765
+- What do we have?
+- Blood pressure 80/40. Heart 150.
+
+358
+00:19:32,766 --> 00:19:34,660
+- Don't need that drug panel now.
+- Where's the crash cart?
+
+359
+00:19:34,661 --> 00:19:36,999
+- Coming in.
+- Carly and I have him.
+
+360
+00:19:37,014 --> 00:19:39,326
+Annie, two milligram Naloxone I.V. push.
+
+361
+00:19:39,327 --> 00:19:41,396
+Got it. Two milligrams I.V. push.
+
+362
+00:19:41,397 --> 00:19:42,924
+Lungs are clear.
+
+363
+00:19:43,477 --> 00:19:45,827
+Pupils are pinpoint and un-reactive.
+
+364
+00:19:45,828 --> 00:19:48,955
+B.P. 75/35,
+Heart rate 160.
+
+365
+00:19:48,956 --> 00:19:50,458
+<i>EKG leads.</i>
+
+366
+00:19:52,086 --> 00:19:54,049
+<i>Okay, lift him on three.</i>
+
+367
+00:19:54,050 --> 00:19:56,961
+<i>B.P. 65/35.
+Heart rate's 175.</i>
+
+368
+00:20:00,704 --> 00:20:03,990
+EKG leads in place.
+He's in V-tach.
+
+369
+00:20:03,991 --> 00:20:05,618
+How'd he go sour so fast?
+
+370
+00:20:05,619 --> 00:20:08,363
+He flew in from Caracas three hours ago.
+
+371
+00:20:08,364 --> 00:20:10,752
+He's probably body-packing heroin.
+The bags must have burst.
+
+372
+00:20:10,753 --> 00:20:12,544
+We've got V-fib.
+He's stopped breathing.
+
+373
+00:20:12,545 --> 00:20:13,752
+Damn.
+
+374
+00:20:13,753 --> 00:20:15,948
+Start bagging him.
+Charge to 360.
+
+375
+00:20:15,949 --> 00:20:18,170
+Still in V-fib. Should I give him
+an amp of epi?
+
+376
+00:20:18,171 --> 00:20:20,049
+Not till we shock him.
+
+377
+00:20:23,344 --> 00:20:26,801
+Still in V-fib.
+No pressure, no pulse.
+
+378
+00:20:47,822 --> 00:20:50,314
+I'm sorry, Ms. Watson.
+
+379
+00:20:50,692 --> 00:20:52,847
+- Me, too.
+- Where's he taking him?
+
+380
+00:20:53,895 --> 00:20:55,079
+Hospital morgue.
+
+381
+00:20:56,584 --> 00:20:57,846
+We pick him up there?
+
+382
+00:20:57,847 --> 00:20:59,902
+No, you do not pick him up there.
+
+383
+00:21:02,898 --> 00:21:04,174
+Sign it, Bernie.
+
+384
+00:21:07,332 --> 00:21:08,821
+How's Carly?
+
+385
+00:21:08,822 --> 00:21:11,809
+Not bad considering
+she saw the Angel of Death.
+
+386
+00:21:12,749 --> 00:21:14,562
+What did this one look like?
+
+387
+00:21:14,563 --> 00:21:16,039
+Shirley Temple.
+
+388
+00:21:17,096 --> 00:21:19,232
+I don't like losing patients.
+
+389
+00:21:19,639 --> 00:21:22,461
+If your brother had told us
+he was body-packing drugs,
+
+390
+00:21:22,462 --> 00:21:24,153
+we might have saved him.
+
+391
+00:21:26,463 --> 00:21:27,757
+Or if you had told us.
+
+392
+00:21:29,644 --> 00:21:32,070
+I don't know what's in Dee's gut, Doc.
+
+393
+00:21:34,511 --> 00:21:36,173
+And neither do you.
+
+394
+00:21:36,492 --> 00:21:37,895
+Now...
+
+395
+00:21:37,896 --> 00:21:39,692
+where do we pick up his body?
+
+396
+00:21:41,974 --> 00:21:45,372
+City morgue after he's been autopsied.
+
+397
+00:21:45,758 --> 00:21:47,504
+We don't need an autopsy.
+
+398
+00:21:48,326 --> 00:21:49,398
+I do.
+
+399
+00:21:53,775 --> 00:21:55,625
+Come on, we got to get out of here.
+
+400
+00:21:59,276 --> 00:22:00,677
+Suck it up, Bernie!
+
+401
+00:22:00,963 --> 00:22:02,711
+You got to get me somethin', Nick.
+
+402
+00:22:02,712 --> 00:22:04,476
+I'm gettin' too shaky to walk.
+
+403
+00:22:04,477 --> 00:22:06,971
+Pharmacy downstairs. I'll get
+cough syrup with codeine.
+
+404
+00:22:06,972 --> 00:22:08,775
+That ain't gonna help much.
+
+405
+00:22:08,776 --> 00:22:10,412
+Never pimp a junkie.
+
+406
+00:22:10,413 --> 00:22:13,486
+- I ain't a junkie!
+- Then walk out of here!
+
+407
+00:22:20,643 --> 00:22:23,697
+He knew Devon was body-packing
+and said nothing.
+
+408
+00:22:23,698 --> 00:22:25,745
+Well, he didn't want
+to lose his shipment.
+
+409
+00:22:26,634 --> 00:22:28,380
+That makes him an accessory.
+
+410
+00:22:28,381 --> 00:22:30,770
+Yeah? How could you prove that, Jeanne?
+
+411
+00:22:30,771 --> 00:22:32,967
+I don't know, but I can't
+just let him walk out of here.
+
+412
+00:22:32,968 --> 00:22:35,856
+Dr. Benoit, you don't want
+to get involved.
+
+413
+00:22:35,857 --> 00:22:38,276
+I am involved, Annie.
+That boy didn't have to die.
+
+414
+00:22:38,277 --> 00:22:40,555
+No, but that is not your fault.
+
+415
+00:22:40,556 --> 00:22:43,422
+Jeanne, the coroner's
+going to do an autopsy.
+
+416
+00:22:43,423 --> 00:22:46,426
+He's going to find the
+drugs, notify narcotics.
+
+417
+00:22:46,427 --> 00:22:48,215
+What more can you do than that?
+
+418
+00:22:51,129 --> 00:22:52,203
+I don't know.
+
+419
+00:22:56,987 --> 00:22:58,464
+I feel so damn helpless!
+
+420
+00:23:00,915 --> 00:23:03,779
+They're all like that the first year.
+At least the good ones.
+
+421
+00:23:03,780 --> 00:23:06,132
+It takes a little while to get calluses.
+
+422
+00:23:06,592 --> 00:23:08,880
+I don't know if Jeanne ever will, Annie.
+
+423
+00:23:11,133 --> 00:23:12,359
+Love.
+
+424
+00:23:17,679 --> 00:23:20,331
+- You pushed the wrong button!
+- Sorry.
+
+425
+00:23:24,634 --> 00:23:26,514
+What are you doing down here?
+
+426
+00:23:27,403 --> 00:23:28,746
+Pushed the wrong button.
+
+427
+00:23:31,670 --> 00:23:33,835
+- Morgue down here?
+- Why?
+
+428
+00:23:35,095 --> 00:23:37,762
+Bernie might want to take
+a last look at her brother.
+
+429
+00:23:37,763 --> 00:23:39,743
+Morgue's closed.
+
+430
+00:23:40,783 --> 00:23:43,036
+There's no one down here, anyway.
+
+431
+00:23:43,555 --> 00:23:45,015
+Her brother's here.
+
+432
+00:23:46,190 --> 00:23:47,870
+I don't think that's funny.
+
+433
+00:23:56,499 --> 00:23:57,890
+Hey, boss, what's up?
+
+434
+00:23:57,891 --> 00:23:59,736
+There's a letter on your desk.
+
+435
+00:23:59,973 --> 00:24:01,148
+Sign it.
+
+436
+00:24:09,285 --> 00:24:11,600
+- What is it?
+- Just sign it, Tim.
+
+437
+00:24:16,411 --> 00:24:18,693
+It's a get out of jail free card.
+
+438
+00:24:29,859 --> 00:24:31,907
+Boss, why would I need such a card?
+
+439
+00:24:31,908 --> 00:24:35,568
+Because you're going to hack into the CIA.
+
+440
+00:24:41,293 --> 00:24:44,075
+Wake up! Wake up!
+Wake up! Wake up!
+
+441
+00:24:45,568 --> 00:24:49,096
+Okay, I know you guys have been
+working really hard lately,
+
+442
+00:24:49,097 --> 00:24:51,845
+and I promised that
+you could have the weekend off,
+
+443
+00:24:51,846 --> 00:24:54,166
+but this sounds like an emergency,
+
+444
+00:24:54,167 --> 00:24:57,640
+so I need everybody
+to get those electrons flowing!
+
+445
+00:24:58,093 --> 00:25:00,946
+If anybody is not up to it,
+I need to know now,
+
+446
+00:25:01,869 --> 00:25:03,766
+not when the Director arrives.
+
+447
+00:25:04,521 --> 00:25:05,679
+Something's wrong.
+
+448
+00:25:22,773 --> 00:25:23,814
+Ready.
+
+449
+00:25:26,499 --> 00:25:29,424
+Thanks for coming in
+on such short notice, Abby.
+
+450
+00:25:29,779 --> 00:25:33,403
+Neither rain, nor snow,
+nor sleet, nor hail
+
+451
+00:25:33,404 --> 00:25:36,325
+will keep this scientist
+from her appointed rounds.
+
+452
+00:25:36,326 --> 00:25:37,349
+Nice.
+
+453
+00:25:37,350 --> 00:25:40,291
+You've adopted what
+the post office has forgotten.
+
+454
+00:25:40,841 --> 00:25:42,930
+Did you climb the Eiffel Tower?
+
+455
+00:25:43,484 --> 00:25:44,608
+No.
+
+456
+00:25:44,994 --> 00:25:46,190
+No?
+
+457
+00:25:46,191 --> 00:25:49,727
+How can you be in Paris
+and not climb the Eiffel Tower?!
+
+458
+00:25:53,479 --> 00:25:56,424
+I want to know
+whose fingerprints are on these.
+
+459
+00:25:56,994 --> 00:25:59,161
+Chain of evidence is not important.
+
+460
+00:26:00,838 --> 00:26:02,684
+I'll be in my office.
+
+461
+00:26:12,335 --> 00:26:13,727
+Boss, you were right.
+
+462
+00:26:13,728 --> 00:26:17,043
+The order to polygraph
+came from Homeland Security's
+
+463
+00:26:17,044 --> 00:26:19,922
+Assistant Director for
+Infrastructure Protection.
+
+464
+00:26:20,302 --> 00:26:21,728
+But it didn't originate from there.
+
+465
+00:26:21,729 --> 00:26:25,958
+I traced into his IMAP account using
+an encryption algorithm developed...
+
+466
+00:26:26,183 --> 00:26:28,174
+You're not really interested
+in how I did this, are you?
+
+467
+00:26:28,175 --> 00:26:29,601
+Nope, I'm not.
+
+468
+00:26:29,970 --> 00:26:34,451
+Okay, well, the order went from Homeland
+Security to China, then Kurdistan.
+
+469
+00:26:34,452 --> 00:26:37,352
+It went through a secondary server
+in India to the island of Cypress.
+
+470
+00:26:37,353 --> 00:26:39,473
+Then through Puerto Rico.
+
+471
+00:26:39,825 --> 00:26:42,880
+Where it followed a bank line
+back to D.C. and...
+
+472
+00:26:42,881 --> 00:26:43,954
+CIA.
+
+473
+00:26:43,955 --> 00:26:46,292
+Specifically, their National
+Clandestine Service.
+
+474
+00:26:46,293 --> 00:26:49,535
+It went in and out of a maze of incoming
+and outgoing Black Op chatter.
+
+475
+00:26:49,536 --> 00:26:51,834
+All encrypted. That's where I lost it.
+
+476
+00:26:53,358 --> 00:26:54,772
+But I found it again.
+
+477
+00:26:55,230 --> 00:26:57,067
+It's part of a Black Op.
+
+478
+00:26:57,068 --> 00:26:58,562
+It's code-named Lodestone.
+
+479
+00:26:58,563 --> 00:27:03,262
+Running out of the CIA section for
+Weapons Control and Arms Proliferation.
+
+480
+00:27:03,799 --> 00:27:05,763
+The Frog.
+
+481
+00:27:20,633 --> 00:27:23,177
+Who do I have to thank for this?
+
+482
+00:27:23,553 --> 00:27:26,323
+A former FBI agent.
+
+483
+00:27:26,826 --> 00:27:28,920
+You're very resourceful, Kort.
+
+484
+00:27:29,155 --> 00:27:30,279
+I try.
+
+485
+00:27:30,565 --> 00:27:32,714
+So you've recorded their conversations?
+
+486
+00:27:32,914 --> 00:27:33,919
+No.
+
+487
+00:27:33,920 --> 00:27:35,150
+No? Why?
+
+488
+00:27:35,654 --> 00:27:38,574
+You didn't want to intrude
+on their privacy?
+
+489
+00:27:39,694 --> 00:27:41,977
+I didn't think it was necessary.
+
+490
+00:27:42,363 --> 00:27:43,789
+No? Why was that?
+
+491
+00:27:44,645 --> 00:27:47,230
+I only needed photos for leverage.
+
+492
+00:27:48,421 --> 00:27:50,785
+- This DiNozzo is married?
+- No.
+
+493
+00:27:51,357 --> 00:27:53,768
+Then how did you intend to gain leverage?
+
+494
+00:27:58,084 --> 00:27:59,947
+You intend to harm her?
+
+495
+00:28:00,769 --> 00:28:01,911
+Only threaten.
+
+496
+00:28:06,321 --> 00:28:07,529
+He loves her?
+
+497
+00:28:08,335 --> 00:28:09,409
+DiNozzo...
+
+498
+00:28:10,111 --> 00:28:11,272
+he's a player.
+
+499
+00:28:12,359 --> 00:28:14,770
+Never with a skirt
+more than a few weeks.
+
+500
+00:28:16,029 --> 00:28:17,506
+That's too bad.
+
+501
+00:28:18,048 --> 00:28:20,578
+A man in love could be persuaded...
+
+502
+00:28:22,135 --> 00:28:23,780
+to do almost anything.
+
+503
+00:28:24,149 --> 00:28:25,777
+DiNozzo's a white hat.
+
+504
+00:28:26,163 --> 00:28:28,278
+He won't want to see her harmed.
+
+505
+00:28:29,363 --> 00:28:31,332
+Have you not noticed, Kort?
+
+506
+00:28:35,061 --> 00:28:36,840
+I like white hats.
+
+507
+00:28:40,298 --> 00:28:42,513
+<i>Shirley Temple looked
+through the door...</i>
+
+508
+00:28:42,514 --> 00:28:45,268
+Shirley Temple?
+I didn't say Shirley Temple.
+
+509
+00:28:45,924 --> 00:28:47,148
+Who is Shirley Temple?
+
+510
+00:28:47,735 --> 00:28:50,370
+A child star from the 1930s
+with curly blonde hair.
+
+511
+00:28:50,371 --> 00:28:51,461
+Well, you saw him.
+
+512
+00:28:51,462 --> 00:28:53,996
+If you say he looked like Shirley Temple,
+he looked like Shirley Temple.
+
+513
+00:28:53,997 --> 00:28:55,728
+I didn't see him, Carly.
+
+514
+00:28:55,729 --> 00:28:58,464
+The Angel was standing
+right behind you.
+
+515
+00:28:58,465 --> 00:28:59,971
+Your Angel of Death...
+
+516
+00:28:59,972 --> 00:29:02,852
+wandered away from her mother in ICU.
+
+517
+00:29:02,863 --> 00:29:05,665
+They flew in from Paris to see
+their grandfather who stroked.
+
+518
+00:29:05,666 --> 00:29:08,032
+Security's been searching
+the hospital for an hour.
+
+519
+00:29:09,047 --> 00:29:12,723
+If you see the Angel of Death again,
+her name is Sarah.
+
+520
+00:29:12,807 --> 00:29:14,921
+It's just a lost little girl, Carly.
+
+521
+00:29:16,142 --> 00:29:17,468
+If you say so, Doctor.
+
+522
+00:29:19,801 --> 00:29:21,926
+All right, well, I will
+see you in the morning.
+
+523
+00:29:21,927 --> 00:29:24,684
+- I gotta go.
+- I'll be out at 7:00.
+
+524
+00:29:25,607 --> 00:29:28,108
+And if you see a hooded skeleton, duck.
+
+525
+00:29:29,446 --> 00:29:30,504
+Dr. Benoit.
+
+526
+00:29:30,944 --> 00:29:33,776
+That addict and her pimp were down
+in the basement asking about the morgue.
+
+527
+00:29:33,777 --> 00:29:34,925
+You didn't let them stay there?
+
+528
+00:29:34,926 --> 00:29:37,204
+Of course not. I made them return
+with me to the ground floor.
+
+529
+00:29:37,205 --> 00:29:38,413
+They leave the hospital?
+
+530
+00:29:38,414 --> 00:29:39,605
+They went into the pharmacy.
+
+531
+00:29:39,606 --> 00:29:41,062
+I had to return the gurney to the ER,
+
+532
+00:29:41,063 --> 00:29:43,364
+but I got a feeling
+they're going to try again.
+
+533
+00:29:43,365 --> 00:29:44,470
+Thanks, Bill.
+
+534
+00:29:44,471 --> 00:29:47,947
+Annie, call Security.
+Ask them to meet me in the morgue.
+
+535
+00:29:50,252 --> 00:29:51,829
+Miss me already?
+
+536
+00:29:54,128 --> 00:29:56,716
+Our grieving couple may be in the morgue.
+
+537
+00:29:58,981 --> 00:30:00,307
+Damn.
+
+538
+00:30:00,682 --> 00:30:02,093
+They never make it easy.
+
+539
+00:30:12,870 --> 00:30:14,414
+He's not in the cabinet, Bernie.
+
+540
+00:30:14,884 --> 00:30:17,821
+I drank the cough syrup
+and it ain't doing nothing.
+
+541
+00:30:17,822 --> 00:30:19,398
+No drugs in a morgue, dummy.
+
+542
+00:30:19,399 --> 00:30:21,829
+You want a fix...
+find your brother.
+
+543
+00:30:28,161 --> 00:30:29,370
+Nick.
+
+544
+00:30:35,512 --> 00:30:36,747
+Hi ya, Dee.
+
+545
+00:30:42,033 --> 00:30:43,368
+Hey!
+
+546
+00:30:44,808 --> 00:30:45,808
+Jeanne.
+
+547
+00:30:58,871 --> 00:31:00,219
+He's still warm.
+
+548
+00:31:03,827 --> 00:31:07,021
+That's 'cause he hasn't had time to cool.
+Have you, Dee?
+
+549
+00:31:09,069 --> 00:31:10,462
+Jeanne, slow down.
+
+550
+00:31:12,167 --> 00:31:13,443
+Is it...?
+
+551
+00:31:13,444 --> 00:31:15,255
+Jeanne, hey.
+
+552
+00:31:15,526 --> 00:31:18,130
+You trying to get yourself killed?
+He's at least got a knife in there.
+
+553
+00:31:18,131 --> 00:31:20,479
+I will not let him butcher
+her brother in front of her.
+
+554
+00:31:20,480 --> 00:31:21,572
+Keep your voice down.
+
+555
+00:31:21,573 --> 00:31:23,845
+Those drugs are in
+25 feet of intestines.
+
+556
+00:31:24,371 --> 00:31:25,836
+He doesn't know where to cut.
+
+557
+00:31:25,837 --> 00:31:27,933
+He'll make a gory mess she'll
+never get out of her head.
+
+558
+00:31:27,934 --> 00:31:29,494
+Get behind me.
+
+559
+00:31:29,780 --> 00:31:32,448
+- Why?
+- Because I tell you to.
+
+560
+00:31:38,993 --> 00:31:41,762
+Haven't got a weapon on you
+by any chance, have you?
+
+561
+00:31:50,842 --> 00:31:52,856
+I have a funny feeling, Doctor.
+
+562
+00:31:53,313 --> 00:31:54,998
+It's the tequila, my dear.
+
+563
+00:31:54,999 --> 00:31:58,410
+You've had three shooters
+just in the time I've been here.
+
+564
+00:31:58,575 --> 00:32:02,150
+Straight to voice mail.
+Just like always when he's with her.
+
+565
+00:32:02,968 --> 00:32:05,066
+- Tony?
+- What?
+
+566
+00:32:06,750 --> 00:32:07,750
+Nothing.
+
+567
+00:32:07,751 --> 00:32:08,938
+Oh, no, no, no.
+
+568
+00:32:08,939 --> 00:32:11,047
+That look was definitely something.
+
+569
+00:32:11,048 --> 00:32:13,373
+Well, why do you monitor Tony?
+
+570
+00:32:13,374 --> 00:32:14,937
+I don't monitor Tony.
+
+571
+00:32:14,938 --> 00:32:18,400
+Oh, yes, you do, my dear,
+like a mother with her toddler.
+
+572
+00:32:19,337 --> 00:32:21,502
+That's a good description.
+
+573
+00:32:21,874 --> 00:32:25,128
+Or a woman with a wayward lover.
+
+574
+00:32:25,565 --> 00:32:26,661
+Ducky...
+
+575
+00:32:27,164 --> 00:32:29,682
+do not profile me...
+I'm not a killer.
+
+576
+00:32:30,152 --> 00:32:34,688
+Correction... I have killed before,
+but never feloniously.
+
+577
+00:32:35,007 --> 00:32:36,903
+Ziva, it's Friday night.
+
+578
+00:32:38,865 --> 00:32:42,477
+Tony is with his girlfriend
+and you are worried about him.
+
+579
+00:32:44,376 --> 00:32:45,914
+What does that tell you?
+
+580
+00:32:46,377 --> 00:32:47,693
+He is my partner.
+
+581
+00:32:48,128 --> 00:32:50,304
+And my partner said he would be here.
+
+582
+00:32:50,466 --> 00:32:51,675
+And...
+
+583
+00:32:54,909 --> 00:32:56,319
+and I have this...
+
+584
+00:32:57,426 --> 00:32:59,088
+not so good feeling.
+
+585
+00:33:08,692 --> 00:33:09,986
+I didn't find nothing.
+
+586
+00:33:09,987 --> 00:33:12,939
+The way you're shaking,
+you couldn't find a shotgun.
+
+587
+00:33:13,123 --> 00:33:14,818
+Let's see...
+
+588
+00:33:25,911 --> 00:33:27,942
+You called Security, Doc?
+
+589
+00:33:29,519 --> 00:33:31,617
+Of course you did.
+Call 'em off.
+
+590
+00:33:32,951 --> 00:33:34,831
+I said call 'em off.
+
+591
+00:33:34,832 --> 00:33:38,008
+You haven't done anything
+that can't be forgotten.
+
+592
+00:33:39,131 --> 00:33:41,804
+- Do what he says, Jeanne.
+- Why?
+
+593
+00:33:42,391 --> 00:33:45,161
+They can leave now, and we'll
+forget this ever happened.
+
+594
+00:33:46,067 --> 00:33:47,698
+Would you do that?
+
+595
+00:33:48,857 --> 00:33:50,065
+Yes.
+
+596
+00:33:52,532 --> 00:33:53,808
+Tony...
+
+597
+00:33:58,082 --> 00:33:59,593
+Will you forget now?
+
+598
+00:34:02,320 --> 00:34:03,856
+That's what I thought.
+
+599
+00:34:04,410 --> 00:34:06,558
+Call off Security.
+
+600
+00:34:19,138 --> 00:34:20,616
+Put it on the speaker.
+
+601
+00:34:24,312 --> 00:34:25,823
+Security. Jackson.
+
+602
+00:34:26,376 --> 00:34:28,524
+This is Dr. Benoit in the morgue.
+
+603
+00:34:28,525 --> 00:34:30,882
+<i>Oh, sorry, Doctor.
+I'll have a man there in a minute.</i>
+
+604
+00:34:30,883 --> 00:34:33,014
+<i>We're just stretched thin
+looking for that little girl.</i>
+
+605
+00:34:33,015 --> 00:34:34,694
+You can recall him.
+
+606
+00:34:34,912 --> 00:34:36,221
+It was a false alarm.
+
+607
+00:34:36,222 --> 00:34:39,401
+<i>Okay. Can I have your
+hospital I.D. number please?</i>
+
+608
+00:34:41,260 --> 00:34:42,499
+766.
+
+609
+00:34:43,640 --> 00:34:45,553
+<i>Thank you, Dr. Benoit.</i>
+
+610
+00:34:48,636 --> 00:34:50,353
+Is a little girl lost?
+
+611
+00:34:51,636 --> 00:34:53,315
+More than one.
+
+612
+00:34:55,732 --> 00:34:57,377
+Surgery first, Doc.
+
+613
+00:34:58,535 --> 00:34:59,558
+No.
+
+614
+00:34:59,944 --> 00:35:01,069
+No?
+
+615
+00:35:01,070 --> 00:35:02,663
+I help him first.
+
+616
+00:35:04,871 --> 00:35:06,616
+You're a slow learner, Doc.
+
+617
+00:35:06,617 --> 00:35:08,782
+I called off Security.
+
+618
+00:35:09,453 --> 00:35:11,600
+I help him, then...
+
+619
+00:35:11,601 --> 00:35:13,363
+I help you.
+
+620
+00:35:13,951 --> 00:35:18,213
+If that's not good enough, shoot me.
+
+621
+00:35:20,327 --> 00:35:22,123
+Don't hurt her, Nick.
+
+622
+00:35:30,520 --> 00:35:32,769
+Tony? Tony?
+
+623
+00:35:32,920 --> 00:35:34,128
+Can you sit up?
+
+624
+00:35:34,531 --> 00:35:36,515
+No, I'm up.
+
+625
+00:35:39,015 --> 00:35:40,517
+Someone is looking at me.
+
+626
+00:35:41,639 --> 00:35:43,902
+- It's the cleaning crew.
+- No, on the computer.
+
+627
+00:35:43,903 --> 00:35:46,169
+I got to shut down my UPD port.
+
+628
+00:35:48,919 --> 00:35:50,887
+I don't think it penetrated my firewall.
+
+629
+00:35:50,888 --> 00:35:53,297
+- What the hell is it?
+- It's a botagent.
+
+630
+00:35:53,298 --> 00:35:55,076
+It's probably one of the CIA's.
+
+631
+00:35:55,077 --> 00:35:57,076
+Botagent...
+short for robotic agent.
+
+632
+00:35:57,077 --> 00:36:00,038
+Designed to crawl the Internet
+looking for snoopers like us.
+
+633
+00:36:00,039 --> 00:36:01,827
+- This for real?
+- Oh, yeah, boss.
+
+634
+00:36:01,828 --> 00:36:05,176
+If this had penetrated my firewall,
+it could have downloaded my hard drive.
+
+635
+00:36:05,177 --> 00:36:07,844
+The CIA would have all our data,
+and know we were onto Lodestone.
+
+636
+00:36:07,845 --> 00:36:10,229
+- Can you kill it?
+- No, though I could build
+
+637
+00:36:10,230 --> 00:36:13,821
+a mirror to my firewall, so that when
+it looks in, it could just see itself.
+
+638
+00:36:13,822 --> 00:36:16,693
+- How long?
+- Too long.
+
+639
+00:36:17,566 --> 00:36:19,772
+Or I could use another computer.
+
+640
+00:36:21,055 --> 00:36:22,389
+Boss, just one thing...
+
+641
+00:36:22,390 --> 00:36:25,332
+There's always just one thing, McGee.
+
+642
+00:36:25,333 --> 00:36:28,553
+A really smart botagent
+won't just sit on my computer.
+
+643
+00:36:28,554 --> 00:36:31,507
+It'll look for my search
+patterns on the Internet.
+
+644
+00:36:31,508 --> 00:36:33,937
+This is like tracking a dirtbag, McGee.
+
+645
+00:36:33,955 --> 00:36:37,168
+You stake out his house.
+You put out a BOLO.
+
+646
+00:36:37,169 --> 00:36:39,368
+Keep tabs on the girl.
+
+647
+00:36:40,078 --> 00:36:41,818
+Never thought of it that way.
+
+648
+00:36:42,036 --> 00:36:43,453
+Start a new search.
+
+649
+00:36:43,681 --> 00:36:44,772
+Okay.
+
+650
+00:36:44,990 --> 00:36:47,424
+- What am I looking for?
+- The girlfriend...
+
+651
+00:36:47,659 --> 00:36:48,867
+Jenny Shepard.
+
+652
+00:36:51,019 --> 00:36:53,901
+When you look at me like that, McGee,
+
+653
+00:36:54,304 --> 00:36:57,610
+I get this overwhelming urge
+to head slap you.
+
+654
+00:37:10,039 --> 00:37:13,094
+I am going to get...
+
+655
+00:37:13,289 --> 00:37:15,303
+a ding...
+
+656
+00:37:16,326 --> 00:37:17,460
+now!
+
+657
+00:37:20,332 --> 00:37:23,214
+You guys are doing this
+because it's the weekend.
+
+658
+00:37:23,677 --> 00:37:26,711
+And you think if you just stall,
+then I'll give up
+
+659
+00:37:26,712 --> 00:37:31,331
+and I'll finish the search on Monday,
+but that is not going to happen.
+
+660
+00:37:32,013 --> 00:37:33,053
+Abby...
+
+661
+00:37:33,859 --> 00:37:34,933
+you worry me.
+
+662
+00:37:35,957 --> 00:37:39,582
+Oh, they know I'm just, you know,
+talking to them to pass the time.
+
+663
+00:37:39,583 --> 00:37:43,457
+Because at this point, the fingerprint
+match is totally up to AFIS.
+
+664
+00:37:43,838 --> 00:37:44,996
+Right, guys?
+
+665
+00:37:45,365 --> 00:37:46,657
+Right, guys?
+
+666
+00:37:47,210 --> 00:37:48,705
+I'm just joshing you, Director.
+
+667
+00:37:48,706 --> 00:37:50,685
+I spoiled your Friday night.
+
+668
+00:37:51,088 --> 00:37:54,724
+Oh, you know, I was just
+hanging at the bar.
+
+669
+00:37:54,725 --> 00:37:58,082
+And I probably would have been completely
+passed out by now if I'd stayed.
+
+670
+00:37:58,083 --> 00:37:59,575
+Joshing me again?
+
+671
+00:37:59,894 --> 00:38:00,952
+No.
+
+672
+00:38:02,211 --> 00:38:03,211
+Yes.
+
+673
+00:38:05,551 --> 00:38:08,043
+- How many prints?
+- Two sets.
+
+674
+00:38:08,328 --> 00:38:11,917
+He poured with his left hand
+and held the glass with his right.
+
+675
+00:38:12,352 --> 00:38:14,230
+Left-handed?
+Or ambidextrous.
+
+676
+00:38:14,231 --> 00:38:16,329
+I can pour with either hand.
+
+677
+00:38:16,330 --> 00:38:18,108
+I can tell you he's not military.
+
+678
+00:38:18,109 --> 00:38:21,381
+AFIS would have gotten a match
+on anyone on active duty by now.
+
+679
+00:38:21,382 --> 00:38:22,774
+What if he was retired?
+
+680
+00:38:22,775 --> 00:38:24,148
+Covered them, too.
+
+681
+00:38:24,149 --> 00:38:25,628
+Dead?
+
+682
+00:38:26,026 --> 00:38:27,424
+Dead?
+
+683
+00:38:27,774 --> 00:38:29,505
+You said this wasn't a case.
+
+684
+00:38:29,774 --> 00:38:31,116
+It's not.
+
+685
+00:38:31,318 --> 00:38:36,672
+I want you to expand the search to include
+servicemen alive prior to '95.
+
+686
+00:38:39,889 --> 00:38:40,896
+Okay.
+
+687
+00:38:45,931 --> 00:38:47,837
+I don't see any signs of concussion.
+
+688
+00:38:47,838 --> 00:38:49,838
+I've been hit harder by my sister.
+
+689
+00:38:50,586 --> 00:38:51,773
+You don't have a sister.
+
+690
+00:38:51,774 --> 00:38:53,059
+I don't?
+
+691
+00:38:53,646 --> 00:38:55,218
+Nick...
+
+692
+00:38:56,242 --> 00:38:58,188
+Enough playing, Doctor.
+
+693
+00:39:00,613 --> 00:39:02,525
+Do it.
+I don't want you to get hurt.
+
+694
+00:39:02,526 --> 00:39:03,584
+Let's go.
+
+695
+00:39:13,528 --> 00:39:15,651
+Half K of pure horse in here, Doc.
+
+696
+00:39:15,840 --> 00:39:17,127
+I'm no surgeon.
+
+697
+00:39:17,128 --> 00:39:19,440
+I'm not asking you to save a life, Doc.
+
+698
+00:39:20,849 --> 00:39:21,956
+Maybe I am.
+
+699
+00:39:21,957 --> 00:39:23,786
+Come on, come on, come on!
+
+700
+00:39:23,787 --> 00:39:25,816
+Quit stalling. He doesn't have AIDS.
+
+701
+00:39:25,817 --> 00:39:28,143
+That's not what the mask's for.
+
+702
+00:39:28,545 --> 00:39:30,274
+What's it for?
+
+703
+00:39:31,530 --> 00:39:32,982
+Turn around, Bernie.
+
+704
+00:39:33,592 --> 00:39:34,761
+Please hurry.
+
+705
+00:39:35,530 --> 00:39:37,213
+Why the mask?
+
+706
+00:39:37,214 --> 00:39:39,828
+Tell her to turn around.
+
+707
+00:39:39,829 --> 00:39:40,986
+Do it, Bernie.
+
+708
+00:39:42,580 --> 00:39:44,762
+The mask is to protect me
+from disease spread
+
+709
+00:39:44,763 --> 00:39:47,749
+by airborne particles released
+when I open him up.
+
+710
+00:39:56,965 --> 00:39:58,296
+No more stalling.
+
+711
+00:40:15,315 --> 00:40:17,212
+Devon died bringing this to you.
+
+712
+00:40:17,883 --> 00:40:18,974
+Want it?
+
+713
+00:40:18,975 --> 00:40:20,807
+What the hell do you think?
+
+714
+00:40:26,473 --> 00:40:27,564
+Bitch!
+
+715
+00:40:33,850 --> 00:40:36,434
+Next one's in your ear.
+
+716
+00:40:38,384 --> 00:40:39,782
+Drop it.
+
+717
+00:40:43,722 --> 00:40:44,722
+You okay?
+
+718
+00:40:46,432 --> 00:40:47,506
+Not really.
+
+719
+00:40:53,034 --> 00:40:54,169
+Oh, God.
+
+720
+00:41:19,457 --> 00:41:20,564
+Who's this?
+
+721
+00:41:21,404 --> 00:41:24,911
+It's uh, Director's father...
+Colonel Jasper Shepard.
+
+722
+00:41:26,907 --> 00:41:28,213
+You don't know him?
+
+723
+00:41:29,596 --> 00:41:31,284
+She never talked family.
+
+724
+00:41:31,285 --> 00:41:32,781
+It's like you.
+
+725
+00:41:35,978 --> 00:41:37,623
+She has his eyes.
+
+726
+00:41:38,037 --> 00:41:39,335
+He still alive?
+
+727
+00:41:43,849 --> 00:41:44,849
+Deceased.
+
+728
+00:41:46,722 --> 00:41:48,016
+Suicide,
+
+729
+00:41:48,360 --> 00:41:49,686
+12 years ago.
+
+730
+00:42:12,288 --> 00:42:13,975
+- There she goes.
+- Who?
+
+731
+00:42:14,277 --> 00:42:15,350
+Sarah.
+
+732
+00:42:15,351 --> 00:42:18,233
+Security found her sleeping
+in the delivery room.
+
+733
+00:42:27,976 --> 00:42:31,154
+You should be under
+observation for 24 hours.
+
+734
+00:42:31,657 --> 00:42:33,486
+Whatever doctor orders.
+
+735
+00:42:37,413 --> 00:42:38,413
+What's this?
+
+736
+00:42:39,797 --> 00:42:41,165
+My secret.
+
+737
+00:42:44,647 --> 00:42:46,229
+<i>Bonjour, Papa.</i>
+
+738
+00:42:47,618 --> 00:42:48,994
+<i>Bonjour, ma fille.</i>
+
+739
+00:42:52,032 --> 00:42:54,382
+So this must be Anthony DiNardo.
+
+740
+00:42:58,393 --> 00:43:00,141
+Welcome to the family,
+
+741
+00:43:00,645 --> 00:43:02,289
+Professeur.
+
+742
+00:43:04,594 --> 00:43:13,820
+www.Team-NCIS.com
+Subtitles Season 1,2,3,4
+

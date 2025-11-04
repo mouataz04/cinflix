@@ -1,0 +1,2311 @@
+1
+00:00:06,708 --> 00:00:09,381
+Précédemment dans S<i>t</i>ar<i>g</i>a<i>te</i> SG<i>-</i>1<i>:</i>
+
+2
+00:00:14,988 --> 00:00:17,821
+- Qu'est-ce que c'est?
+- Regardez.
+
+3
+00:00:18,788 --> 00:00:22,986
+''En aucun cas n'allez sur P4C-970,
+colonel Jack O'Neill.''
+
+4
+00:00:23,068 --> 00:00:26,777
+- Ca ressemble à ton écriture.
+- C'est mon écriture.
+
+5
+00:00:26,868 --> 00:00:31,259
+- Et c'est ma signature.
+- On dirait du sang.
+
+6
+00:00:31,348 --> 00:00:35,023
+Déprogrammez P4C-970
+du composeur immédiatement.
+
+7
+00:00:35,108 --> 00:00:37,622
+Pourquoi vous avez envoyé ça?
+
+8
+00:00:37,748 --> 00:00:39,739
+Et quand?
+
+9
+00:00:49,868 --> 00:00:51,904
+Bienvenue, SG-1 .
+
+10
+00:00:51,988 --> 00:00:55,219
+Sortez la canne à pêche, mon général.
+Notre boulot est fini.
+
+11
+00:00:56,068 --> 00:00:59,299
+- J'en conclus que vous avez réussi?
+- En un mot, mon général: oui.
+
+12
+00:00:59,388 --> 00:01:02,380
+En deux mots: oui, général.
+
+13
+00:01:02,468 --> 00:01:05,824
+Vous décriviez les Volians
+comme un peuple agricole.
+
+14
+00:01:06,228 --> 00:01:09,026
+- C'est le cas.
+- Par eux, on a connu une autre race.
+
+15
+00:01:09,108 --> 00:01:12,987
+Une race qui, à défaut d'humour,
+dispose d'une technologie avancée.
+
+16
+00:01:13,068 --> 00:01:15,946
+lls voulaient s'assurer
+qu'on était digne de confiance.
+
+17
+00:01:16,028 --> 00:01:19,703
+Bref, je crois qu'on a rempli
+notre mission, mon général.
+
+18
+00:01:19,788 --> 00:01:22,939
+Oui. On a trouvé une race
+qui accepte et qui a les moyens
+
+19
+00:01:23,028 --> 00:01:26,145
+de défendre ce monde
+contre les Goa'ulds.
+
+20
+00:01:26,228 --> 00:01:29,982
+- Si ceci ne vous a pas convaincu...
+- Je suis convaincu.
+
+21
+00:01:30,068 --> 00:01:33,424
+On vient d'avoir une réunion
+avec un type qui s'appelle...
+
+22
+00:01:33,508 --> 00:01:37,183
+- Borren.
+- Qui manque vraiment d'humour.
+
+23
+00:01:37,268 --> 00:01:40,704
+Mais il veut que la discussion
+se poursuive avec le gouvernement.
+
+24
+00:01:40,788 --> 00:01:46,226
+Bravo. Pendant que j'informe
+le président, préparez votre rapport.
+
+25
+00:01:46,308 --> 00:01:48,697
+Bien, mon général.
+
+26
+00:01:48,788 --> 00:01:51,780
+Au fait, comment s'appellent
+nos nouveaux amis?
+
+27
+00:01:51,868 --> 00:01:54,621
+Les Aschens, mon général.
+Ce sont les Aschens.
+
+28
+00:02:57,428 --> 00:03:01,216
+Pour des raisons de sécurité,
+les Aschens ne révéleront la position
+
+29
+00:03:01,308 --> 00:03:04,300
+de leur monde
+qu'une fois l'accord conclu.
+
+30
+00:03:04,388 --> 00:03:08,540
+- lls sont un peu paranos.
+- Normal, vu qu'ils n'ont pas d'iris.
+
+31
+00:03:08,628 --> 00:03:11,904
+Nous savons qu'ils ont créé
+une étoile dans le système volian
+
+32
+00:03:11,988 --> 00:03:15,663
+en enflammant une géante gazeuse,
+doublant ainsi la durée de l'été.
+
+33
+00:03:15,748 --> 00:03:17,739
+Créé une étoile? Comment?
+
+34
+00:03:18,028 --> 00:03:22,579
+En théorie, en augmentant la densité
+d'une géante gazeuse assez importante,
+
+35
+00:03:22,668 --> 00:03:25,023
+jusqu'à la réaction thermonucléaire.
+
+36
+00:03:25,108 --> 00:03:28,180
+- Arthur C. Clarke postule que...
+- M. l'ambassadeur.
+
+37
+00:03:28,268 --> 00:03:33,023
+N'utilisez pas le mot ''comment''
+à moins de vraiment vouloir savoir.
+
+38
+00:03:33,388 --> 00:03:35,458
+Excusez-moi, mon colonel.
+
+39
+00:03:35,548 --> 00:03:38,779
+Je veux seulement dire
+que cet exploit prouve amplement
+
+40
+00:03:38,868 --> 00:03:41,666
+que les Aschens sont à même
+de se mesurer aux Goa'ulds.
+
+41
+00:03:41,748 --> 00:03:43,739
+lls seraient des alliés formidables.
+
+42
+00:03:43,828 --> 00:03:46,945
+S'ils ont un Stargate,
+pourquoi ne les connaît-on pas?
+
+43
+00:03:47,028 --> 00:03:51,499
+Très juste. lls ne voyagent en vaisseau
+qu'au sein de leur confédération.
+
+44
+00:03:51,588 --> 00:03:53,624
+Dont le système volian fait partie.
+
+45
+00:03:53,708 --> 00:03:57,462
+Selon Borren, ils ont trouvé
+leurs portes enterrées, comme la nôtre.
+
+46
+00:03:57,548 --> 00:03:59,140
+Le composeur avait disparu.
+
+47
+00:03:59,228 --> 00:04:02,186
+Les Aschens ont essayé
+diverses combinaisons,
+
+48
+00:04:02,268 --> 00:04:06,181
+mais, du fait de l'expansion cosmique,
+ils étaient coincés, comme nous.
+
+49
+00:04:06,268 --> 00:04:08,498
+- On n'a pu aller qu'à Abydos.
+- Exact.
+
+50
+00:04:08,588 --> 00:04:11,341
+C'est grâce au cartouche
+trouvé par Daniel sur Abydos
+
+51
+00:04:11,428 --> 00:04:15,307
+qu'on a pu faire les calculs
+pour composer vers d'autres planètes.
+
+52
+00:04:15,388 --> 00:04:19,347
+Avec les données rapportées par le
+colonel de la bibliothèque des Anciens...
+
+53
+00:04:19,428 --> 00:04:24,263
+Nous leur donnons accès à des mondes,
+des races dont ils ignorent l'existence.
+
+54
+00:04:24,348 --> 00:04:26,942
+Ca a dû leur faire un choc.
+
+55
+00:04:27,028 --> 00:04:29,098
+Pas vraiment.
+
+56
+00:04:29,188 --> 00:04:32,578
+Jack veut dire que s'ils ont été surpris,
+ils ne l'ont pas montré.
+
+57
+00:04:32,668 --> 00:04:34,943
+lls sont peu démonstratifs.
+
+58
+00:04:35,028 --> 00:04:37,496
+Comme une planète peuplée de
+comptables.
+
+59
+00:04:38,388 --> 00:04:40,504
+Le colonel se méfie des Aschens.
+
+60
+00:04:40,588 --> 00:04:42,579
+- J'ai pas dit ça.
+- Si.
+
+61
+00:04:42,668 --> 00:04:43,817
+Non.
+
+62
+00:04:43,908 --> 00:04:48,538
+J'ai dit que je me méfiais
+des gens qui n'ont pas d'humour.
+
+63
+00:04:48,628 --> 00:04:50,619
+- Surtout ce raseur.
+- Borren.
+
+64
+00:04:50,708 --> 00:04:52,903
+Je sais. C'est un raseur.
+
+65
+00:04:52,988 --> 00:04:58,108
+Les Aschens veulent rencontrer
+notre délégué sur P3A-194 demain.
+
+66
+00:04:59,028 --> 00:05:01,098
+Colonel O'Neill, commandant Carter,
+
+67
+00:05:01,188 --> 00:05:04,464
+vous irez avec l'ambassadeur
+à titre de consultants.
+
+68
+00:05:04,788 --> 00:05:06,779
+- Bien.
+- Dr Jackson,
+
+69
+00:05:06,868 --> 00:05:09,701
+allez avec Teal'c
+vous entretenir avec les Volians,
+
+70
+00:05:09,788 --> 00:05:12,222
+pour voir ce qu'ils pensent des Aschens.
+
+71
+00:05:12,388 --> 00:05:14,697
+- Ca, je le sais.
+- Creusez un peu.
+
+72
+00:05:14,788 --> 00:05:18,417
+Demandez-leur si les Aschens
+sont vraiment de bons voisins.
+
+73
+00:05:18,508 --> 00:05:20,738
+Vous partirez à 7 h 00. Messieurs?
+
+74
+00:05:26,028 --> 00:05:29,862
+Mon commandant? Vu qu'on offre
+nos connaissances du Stargate,
+
+75
+00:05:29,948 --> 00:05:33,736
+j'aurais besoin de parfaire
+mes propres connaissances.
+
+76
+00:05:33,828 --> 00:05:36,023
+Après vous.
+
+77
+00:05:41,668 --> 00:05:45,547
+- Cet endroit me fascine toujours.
+- Des résultats?
+
+78
+00:05:45,628 --> 00:05:49,303
+L'ordinateur aura identifié
+les candidats possibles d'ici demain.
+
+79
+00:05:49,388 --> 00:05:51,379
+- Les candidats?
+- Oui.
+
+80
+00:05:51,468 --> 00:05:55,017
+Nous essayons de déterminer
+la position de la planète des Aschens.
+
+81
+00:05:55,108 --> 00:05:57,178
+Comment faire, sans les coordonnées?
+
+82
+00:05:57,268 --> 00:05:59,577
+- Comment?
+- Je recommence.
+
+83
+00:06:00,908 --> 00:06:04,662
+Au début de mes recherches
+sur le Stargate, j'ai établi que
+
+84
+00:06:04,748 --> 00:06:09,617
+sans composeur, la limite de connexion
+de deux portes est de 300 années-lumière.
+
+85
+00:06:09,708 --> 00:06:11,903
+On cherche les coordonnées plausibles
+
+86
+00:06:11,988 --> 00:06:15,742
+dans ce rayon
+autour du système volian, P3A-194.
+
+87
+00:06:15,828 --> 00:06:20,299
+- Le monde aschen se trouverait là?
+- ll y a 70 % de chances que oui.
+
+88
+00:06:20,388 --> 00:06:22,504
+Pourquoi ne pas nous le dire?
+
+89
+00:06:22,588 --> 00:06:26,297
+Avant d'avoir vu nos données,
+ils n'ont que notre parole.
+
+90
+00:06:26,388 --> 00:06:30,779
+lls sont vulnérables. Sans notre iris,
+je crois qu'on ferait pareil.
+
+91
+00:06:31,428 --> 00:06:35,421
+Vous savez quoi?
+Je n'ai pas mangé depuis ce matin.
+
+92
+00:06:37,508 --> 00:06:41,262
+Le mess est par là.
+Si vous voulez, on continuera là-bas.
+
+93
+00:06:41,348 --> 00:06:43,464
+J'en serais ravi.
+
+94
+00:06:56,028 --> 00:06:58,019
+Chevron trois, codé.
+
+95
+00:07:07,708 --> 00:07:09,699
+Bonjour.
+
+96
+00:07:13,468 --> 00:07:17,507
+- Vous restez habillé comme ça?
+- Qu'est-ce qui ne va pas?
+
+97
+00:07:17,588 --> 00:07:21,058
+- Rien.
+- Chevron quatre, codé.
+
+98
+00:07:21,748 --> 00:07:24,820
+- Vous êtes très bien.
+- L'uniforme n'est pas de rigueur.
+
+99
+00:07:24,908 --> 00:07:28,696
+- Je veux faire bonne impression.
+- Chevron cinq, codé.
+
+100
+00:07:28,788 --> 00:07:31,427
+- C'est parfait. Très chic.
+- Merci.
+
+101
+00:07:31,988 --> 00:07:34,263
+Chevron six, codé.
+
+102
+00:07:34,348 --> 00:07:36,657
+C'est les chaussures.
+
+103
+00:07:38,428 --> 00:07:40,737
+Elles vont s'abîmer.
+
+104
+00:07:41,348 --> 00:07:43,578
+C'est une planète-ferme.
+
+105
+00:07:44,708 --> 00:07:46,300
+Chevron sept, verrouillé.
+
+106
+00:08:01,588 --> 00:08:05,183
+Bon voyage, M. l'ambassadeur.
+On vous attend avec impatience.
+
+107
+00:08:07,868 --> 00:08:09,859
+- Après vous.
+- Merci.
+
+108
+00:08:55,188 --> 00:08:57,497
+On dirait vraiment...
+
+109
+00:08:57,828 --> 00:09:01,741
+On pense avoir quitté le Kansas,
+mais on y est toujours.
+
+110
+00:09:03,908 --> 00:09:06,786
+- Allons creuser un peu.
+- Amusez-vous bien.
+
+111
+00:09:09,788 --> 00:09:13,906
+Vous dites que les Volians et les Aschens
+ont des relations commerciales,
+
+112
+00:09:13,988 --> 00:09:18,664
+mais il n'y a aucune infrastructure
+commerciale autour de la porte.
+
+113
+00:09:18,748 --> 00:09:21,421
+- Quel est ce bruit?
+- Regardez.
+
+114
+00:09:34,908 --> 00:09:38,981
+C'est une moissonneuse. Les Aschens
+en ont distribué des centaines.
+
+115
+00:09:39,068 --> 00:09:41,263
+Une fois mûre, la récolte est moissonnée
+
+116
+00:09:41,348 --> 00:09:45,739
+et apportée au Stargate
+pour être transportée chez les Aschens.
+
+117
+00:09:55,508 --> 00:09:57,260
+Demandez-en quelques-unes.
+
+118
+00:09:58,588 --> 00:10:01,227
+Ca devrait être possible, mon colonel.
+
+119
+00:10:02,228 --> 00:10:03,456
+Borren.
+
+120
+00:10:06,228 --> 00:10:09,937
+J'avais pourtant dit
+que vos armes étaient inutiles.
+
+121
+00:10:10,028 --> 00:10:12,223
+J'ai cru à une plaisanterie.
+
+122
+00:10:13,388 --> 00:10:15,538
+Comme vous en faites tant.
+
+123
+00:10:18,148 --> 00:10:21,504
+Puis-je vous présenter
+notre délégué officiel,
+
+124
+00:10:21,588 --> 00:10:24,148
+Joseph Faxon,
+ambassadeur des Etats-Unis.
+
+125
+00:10:24,228 --> 00:10:26,867
+- Je vous salue...
+- Je ne suis pas votre homologue.
+
+126
+00:10:26,948 --> 00:10:31,180
+La moissonneuse a une cabine.
+Suivez-moi, s'il vous plaît.
+
+127
+00:10:35,148 --> 00:10:37,139
+Vos chaussures.
+
+128
+00:10:40,308 --> 00:10:42,822
+- Vous avez trouvé?
+- Allons voir la carte.
+
+129
+00:10:42,908 --> 00:10:45,741
+Nous avons identifié
+cinq Stargates possibles
+
+130
+00:10:45,828 --> 00:10:49,901
+dans un rayon de 300 années-lumière
+de P3A-194, le système volian.
+
+131
+00:10:49,988 --> 00:10:52,548
+Et l'un d'eux est peut-être
+celui des Aschens?
+
+132
+00:10:52,628 --> 00:10:55,745
+Ces trois portes sont nouvelles,
+et donc inexplorées.
+
+133
+00:10:55,828 --> 00:10:59,457
+Celle-ci a été classée inhabitable
+par le MALP il y a trois ans.
+
+134
+00:10:59,548 --> 00:11:02,540
+Mais celle-ci a été
+déprogrammée de notre composeur
+
+135
+00:11:02,628 --> 00:11:04,983
+sur vos ordres il y a sept mois.
+
+136
+00:11:05,068 --> 00:11:07,059
+On a donc une chance sur quatre
+
+137
+00:11:07,148 --> 00:11:10,504
+que le monde des Aschens soit
+une planète que j'ai fait interdire?
+
+138
+00:11:10,588 --> 00:11:11,577
+Oui, mon général.
+
+139
+00:11:11,668 --> 00:11:15,581
+Que les équipes SG-3, 12 et 15
+me retrouvent dans la salle de réunion.
+
+140
+00:11:15,668 --> 00:11:17,659
+Bien, mon général.
+
+141
+00:11:33,988 --> 00:11:35,979
+Keel.
+
+142
+00:11:36,268 --> 00:11:38,418
+C'est Dan Jackson et Teal'c.
+
+143
+00:11:38,668 --> 00:11:41,182
+Je croyais que
+vous n'alliez pas revenir.
+
+144
+00:11:41,268 --> 00:11:44,340
+On voulait en savoir plus
+sur vos rapports avec les Aschens.
+
+145
+00:11:44,428 --> 00:11:47,420
+- Que voulez-vous savoir?
+- S'ils sont honorables.
+
+146
+00:11:49,028 --> 00:11:51,986
+Je ne l'aurais pas formulé ainsi, mais...
+
+147
+00:11:52,068 --> 00:11:54,866
+lls sont nos amis depuis toujours.
+
+148
+00:11:54,948 --> 00:11:58,543
+J'ai été élevé par des Aschens.
+J'étais orphelin.
+
+149
+00:11:59,588 --> 00:12:04,821
+lls fournissent des médicaments,
+des machines... Et de l'énergie.
+
+150
+00:12:05,308 --> 00:12:08,459
+lls ne se sont jamais
+mal comportés envers vous?
+
+151
+00:12:08,548 --> 00:12:13,941
+lls nous survolent en moissonneuse,
+les rares qui sont ici.
+
+152
+00:12:14,268 --> 00:12:19,786
+- Vous avez gardé votre liberté?
+- Si la liberté, c'est avoir la paix, oui.
+
+153
+00:12:24,268 --> 00:12:25,826
+Merci.
+
+154
+00:12:27,428 --> 00:12:31,944
+Si vous en voyez un, dites-lui
+que j'ai un arbre de fer dans mon champ.
+
+155
+00:12:32,028 --> 00:12:35,304
+Je m'en débarrasserai pas
+sans une de leurs machines.
+
+156
+00:12:35,388 --> 00:12:38,698
+Un arbre de fer? On va essayer.
+
+157
+00:12:45,148 --> 00:12:47,139
+Mettez-vous là.
+
+158
+00:13:08,188 --> 00:13:10,702
+Demandez-en aussi une ou deux.
+
+159
+00:13:19,748 --> 00:13:23,343
+Votre homologue,
+représentant notre confédération.
+
+160
+00:13:23,428 --> 00:13:26,864
+- Mollem.
+- Vous avez les hommages du président,
+
+161
+00:13:26,948 --> 00:13:30,418
+qui espère la naissance entre nous
+d'une amitié bénéfique à tous.
+
+162
+00:13:30,508 --> 00:13:34,820
+Cette salle de conférence
+conviendra aux négociations. Par ici.
+
+163
+00:13:38,668 --> 00:13:41,341
+ll y a des toilettes à bord?
+
+164
+00:13:41,788 --> 00:13:44,018
+Dans la cabine voisine.
+
+165
+00:13:45,468 --> 00:13:48,266
+Je voulais m'en assurer
+avant qu'on décolle.
+
+166
+00:13:48,348 --> 00:13:53,866
+La moissonneuse restera à proximité
+du Stargate durant les négociations.
+
+167
+00:13:54,828 --> 00:13:56,898
+Je peux admirer la vue?
+
+168
+00:14:19,188 --> 00:14:23,067
+Daniel, Teal'c, on est à bord
+d'une des moissonneuses.
+
+169
+00:14:23,148 --> 00:14:26,823
+A votre retour, allez voir Hammond.
+Dites-lui que la réunion a commencé.
+
+170
+00:14:27,428 --> 00:14:29,658
+Bien reçu. Bonne chance.
+
+171
+00:14:37,068 --> 00:14:39,059
+C'est là.
+
+172
+00:14:42,868 --> 00:14:45,063
+C'est drôlement enfoncé, pour sûr.
+
+173
+00:14:46,908 --> 00:14:50,947
+On devrait pouvoir vous en débarrasser
+avec l'arme de Teal'c.
+
+174
+00:14:51,028 --> 00:14:54,338
+Les ordres du général
+sont d'obtenir des informations.
+
+175
+00:14:54,428 --> 00:14:57,386
+ll a aussi dit de creuser un peu.
+
+176
+00:14:58,988 --> 00:15:02,697
+Vous aurez droit à mon fameux
+hydromel si vous y arrivez.
+
+177
+00:15:11,548 --> 00:15:14,904
+- Tu as vu quelque chose?
+- J'espère que non.
+
+178
+00:15:15,948 --> 00:15:18,223
+Mais je crois que oui.
+
+179
+00:15:19,268 --> 00:15:21,543
+Notre position est simple.
+
+180
+00:15:22,868 --> 00:15:26,463
+Vous savez aller d'un Stargate
+à l'autre dans toute la galaxie.
+
+181
+00:15:26,548 --> 00:15:29,301
+Des centaines de mondes, je crois.
+
+182
+00:15:30,428 --> 00:15:33,022
+Et vous cherchez des moyens de défense
+
+183
+00:15:33,108 --> 00:15:37,181
+contre des races hostiles
+rencontrées durant vos voyages.
+
+184
+00:15:37,268 --> 00:15:38,940
+C'est cela.
+
+185
+00:15:39,028 --> 00:15:44,022
+Nous acceptons, en principe,
+de vous fournir ces moyens de défense,
+
+186
+00:15:44,108 --> 00:15:50,217
+et plus encore, si vous nous donnez
+les détails du réseau de Stargates.
+
+187
+00:15:52,388 --> 00:15:55,061
+Nous acceptons aussi, en principe.
+
+188
+00:16:11,628 --> 00:16:14,096
+Une ville antique se dressait ici.
+
+189
+00:16:15,428 --> 00:16:18,898
+Antique, je ne sais pas.
+Mais morte, sûrement.
+
+190
+00:16:18,988 --> 00:16:24,346
+Sans faire de sémantique, s'il y avait
+une ville il y a quelques siècles,
+
+191
+00:16:25,348 --> 00:16:27,339
+que s'est-il passé?
+
+192
+00:16:35,308 --> 00:16:38,027
+Quelle est la population de la Terre?
+
+193
+00:16:38,268 --> 00:16:41,260
+Excusez-moi.
+J'ignore le chiffre exact.
+
+194
+00:16:42,068 --> 00:16:45,060
+Mais ça doit être
+aux environs de six milliards?
+
+195
+00:16:45,468 --> 00:16:47,857
+Avec une croissance
+de plusieurs millions par an.
+
+196
+00:16:47,948 --> 00:16:51,736
+- Cette croissance n'est pas viable.
+- C'est vrai.
+
+197
+00:16:52,068 --> 00:16:55,743
+- Vous êtes la nation dominante?
+- C'est une bonne analyse.
+
+198
+00:16:55,828 --> 00:17:00,106
+Vous engagez des actions militaires
+pour limiter cette croissance?
+
+199
+00:17:00,188 --> 00:17:03,180
+Nous respectons
+la souveraineté de nos voisins.
+
+200
+00:17:04,228 --> 00:17:06,423
+Ravis de l'entendre.
+
+201
+00:17:07,068 --> 00:17:10,777
+Les membres de la confédération
+sont considérés comme égaux.
+
+202
+00:17:13,388 --> 00:17:17,540
+Ne vous inquiétez pas. La moissonneuse
+poursuit ses activités habituelles.
+
+203
+00:17:18,988 --> 00:17:22,298
+Bien que vous respectiez vos voisins,
+
+204
+00:17:23,428 --> 00:17:27,467
+vous ne leur avez pas révélé
+l'existence de votre Stargate.
+
+205
+00:17:27,548 --> 00:17:29,584
+Pas à tous.
+
+206
+00:17:29,668 --> 00:17:33,627
+Tout traité entre notre confédération
+et les peuples de la Terre
+
+207
+00:17:33,708 --> 00:17:35,858
+devra inclure tous vos peuples.
+
+208
+00:17:41,908 --> 00:17:44,468
+Cela me paraît acceptable.
+
+209
+00:17:47,628 --> 00:17:52,224
+L'avancée technologique ressemble
+à celle de la Terre vers 1910.
+
+210
+00:17:54,828 --> 00:17:58,662
+ll n'y a pas de trace de bataille.
+
+211
+00:17:58,748 --> 00:18:01,501
+Mais je peux te dire que,
+sauf catastrophe naturelle,
+
+212
+00:18:01,588 --> 00:18:04,386
+la nature met
+des siècles à enfouir une ville.
+
+213
+00:18:04,468 --> 00:18:07,619
+On dirait que cet endroit
+a été enterré récemment.
+
+214
+00:18:07,708 --> 00:18:11,986
+- Pour créer des terres arables?
+- Ou Ludd est passé par là...
+
+215
+00:18:12,068 --> 00:18:16,778
+Quoi qu'il en soit, ça a dû être fait
+bien après l'abandon de la ville.
+
+216
+00:18:17,668 --> 00:18:20,341
+- ll n'y a pas de squelettes.
+- Exactement.
+
+217
+00:18:20,428 --> 00:18:22,658
+La question est: pourquoi?
+
+218
+00:18:26,348 --> 00:18:31,422
+On dirait une sorte d'édifice public.
+Je vais aller jeter un oeil.
+
+219
+00:18:37,028 --> 00:18:39,223
+Ca peut être très dangereux.
+
+220
+00:18:39,308 --> 00:18:41,299
+Possible.
+
+221
+00:18:43,468 --> 00:18:46,619
+Je vais aller jeter un oeil.
+
+222
+00:18:52,028 --> 00:18:55,577
+ll y a quelques mois,
+un message est arrivé par la porte
+
+223
+00:18:55,668 --> 00:19:01,379
+qui disait: ''En aucun cas
+n'allez sur P4C-970.''
+
+224
+00:19:01,468 --> 00:19:03,982
+- Un message du futur.
+- C'est notre théorie.
+
+225
+00:19:04,068 --> 00:19:06,536
+On ignore ce qui l'a motivé,
+
+226
+00:19:06,628 --> 00:19:11,748
+mais il porte une signature et du sang
+identiques à ceux du colonel O'Neill.
+
+227
+00:19:11,828 --> 00:19:14,103
+Nous avons établi que la race
+
+228
+00:19:14,188 --> 00:19:17,066
+avec laquelle nous négocions,
+les Aschens,
+
+229
+00:19:17,148 --> 00:19:19,742
+pourrait venir d'une de ces planètes.
+
+230
+00:19:20,188 --> 00:19:24,864
+Pour s'assurer que ce n'est pas 970,
+il faut aller voir les trois autres.
+
+231
+00:19:25,108 --> 00:19:27,338
+C'est votre mission. Vos équipes partiront
+
+232
+00:19:27,428 --> 00:19:29,783
+quand les MALP les y autoriseront.
+
+233
+00:19:30,828 --> 00:19:33,467
+Par simple curiosité,
+
+234
+00:19:33,548 --> 00:19:37,621
+de quels moyens de défense
+parlons-nous?
+
+235
+00:19:37,708 --> 00:19:41,337
+Pistolets? Champs magnétiques?
+Vaisseaux?
+
+236
+00:19:45,628 --> 00:19:50,463
+Voici un type d'arme biologique
+dont vous pourriez disposer.
+
+237
+00:19:51,188 --> 00:19:54,737
+Une matière vivante radioactive
+génétiquement programmable
+
+238
+00:19:54,828 --> 00:19:58,423
+pour attaquer et détruire
+uniquement l'ADN de vos ennemis.
+
+239
+00:20:01,108 --> 00:20:04,339
+Nous avons divers moyens
+efficaces de l'envoyer.
+
+240
+00:20:06,628 --> 00:20:08,425
+Nous voulons des garanties...
+
+241
+00:20:08,508 --> 00:20:13,298
+Que notre action militaire sera dirigée
+contre vos ennemis, et non vos amis.
+
+242
+00:20:13,388 --> 00:20:15,618
+Bien sûr.
+
+243
+00:20:15,708 --> 00:20:19,018
+La question est:
+pourquoi les ''amis'' de la Terre
+
+244
+00:20:19,108 --> 00:20:23,465
+ne vous ont-ils pas donné les moyens
+de défense que vous recherchez?
+
+245
+00:20:23,548 --> 00:20:26,381
+La plupart de ces races amies ont hésité
+
+246
+00:20:26,468 --> 00:20:32,145
+à nous offrir leurs moyens techniques
+de peur que nous nous détruisions avec.
+
+247
+00:20:32,588 --> 00:20:35,580
+De vrais amis tenteraient d'éviter cela.
+
+248
+00:20:35,668 --> 00:20:38,501
+Vous avez changé
+notre façon de voir l'univers.
+
+249
+00:20:38,588 --> 00:20:42,183
+Ne sous-estimez pas
+ce que nous offrons en échange:
+
+250
+00:20:42,268 --> 00:20:45,704
+éradiquer les maladies,
+doubler votre espérance de vie.
+
+251
+00:20:46,668 --> 00:20:50,183
+Vous permettre de traverser
+des continents d'un seul pas.
+
+252
+00:20:50,268 --> 00:20:54,784
+Beaucoup plus qu'un moyen
+de vous défendre contre vos ennemis.
+
+253
+00:20:54,868 --> 00:20:59,419
+Nous offrons à votre peuple d'être
+membre de la confédération aschen.
+
+254
+00:21:10,268 --> 00:21:13,385
+- Chevron un, codé.
+- Le Pentagone, sur la une.
+
+255
+00:21:15,588 --> 00:21:17,579
+lci Hammond.
+
+256
+00:21:17,668 --> 00:21:21,627
+- Oui, nous sommes sur le point de...
+- Chevron deux, codé.
+
+257
+00:21:21,708 --> 00:21:23,699
+Puis-je savoir pourquoi?
+
+258
+00:21:24,868 --> 00:21:26,938
+Compris.
+
+259
+00:21:27,028 --> 00:21:32,182
+- Annulez la séquence de composition.
+- Bien, mon général.
+
+260
+00:21:32,268 --> 00:21:37,023
+SG-15, votre mission est annulée
+jusqu'à nouvel ordre. Rompez.
+
+261
+00:21:37,108 --> 00:21:40,384
+- Que se passe-t-il?
+- C'est ce que j'essaie de savoir.
+
+262
+00:21:45,508 --> 00:21:49,547
+ll ne serait pas prudent
+de tenter cela à nouveau.
+
+263
+00:21:53,908 --> 00:21:57,662
+Si je ne m'abuse, ce sont des journaux.
+
+264
+00:22:10,468 --> 00:22:12,459
+On dirait des photos passées.
+
+265
+00:22:12,548 --> 00:22:15,745
+J'espère qu'elles en diront
+plus que des mots.
+
+266
+00:22:17,668 --> 00:22:21,946
+Ca ressemble au texte celte que j'avais
+trouvé. Je devrais pouvoir le lire.
+
+267
+00:22:23,988 --> 00:22:26,297
+Cherchons les gros titres.
+
+268
+00:22:26,388 --> 00:22:29,027
+Cette caverne risque de s'effondrer.
+
+269
+00:22:29,108 --> 00:22:31,702
+ll vaudrait mieux
+retourner à la surface.
+
+270
+00:22:31,788 --> 00:22:33,779
+Je ne crois pas.
+
+271
+00:22:33,868 --> 00:22:37,224
+Si ceci ne nous aide pas,
+il faudra encore chercher.
+
+272
+00:22:37,308 --> 00:22:39,981
+Si les Aschens
+ont quelque chose à cacher,
+
+273
+00:22:40,068 --> 00:22:43,026
+je ne crois pas
+qu'on aura une deuxième chance.
+
+274
+00:22:44,788 --> 00:22:48,303
+Mon colonel, vous semblez pensif.
+
+275
+00:22:50,068 --> 00:22:52,059
+Je réfléchissais.
+
+276
+00:22:54,108 --> 00:22:57,145
+Vous offrez bien plus
+que ce que nous demandons.
+
+277
+00:22:57,228 --> 00:22:59,458
+Ce n'est pas purement par altruisme.
+
+278
+00:22:59,548 --> 00:23:02,301
+Vous offrez peut-être
+plus que vous ne croyez.
+
+279
+00:23:02,388 --> 00:23:06,700
+- L'accès au réseau des Stargates.
+- Et la promesse de bien plus encore.
+
+280
+00:23:06,788 --> 00:23:09,700
+Vous nous présenterez
+aux autres races amies,
+
+281
+00:23:09,788 --> 00:23:12,939
+tout comme les Volians
+vous ont présentés à nous.
+
+282
+00:23:13,028 --> 00:23:16,065
+Vos habitudes et votre culture
+enrichiront les nôtres.
+
+283
+00:23:16,388 --> 00:23:20,381
+Les Aschens ne sont pas
+des explorateurs, comme vous.
+
+284
+00:23:20,828 --> 00:23:25,856
+Forts de nos moyens techniques,
+vous poursuivrez vos explorations
+
+285
+00:23:25,948 --> 00:23:28,985
+et vous nous ferez
+partager vos découvertes.
+
+286
+00:23:29,068 --> 00:23:32,424
+Vous réalisez que je dois
+en référer à nos dirigeants?
+
+287
+00:23:32,508 --> 00:23:36,387
+Vous verrez que nous sommes
+très patients, M. l'ambassadeur.
+
+288
+00:23:41,148 --> 00:23:46,222
+Parallèlement, j'informerai aussi
+mes dirigeants et je recommanderai
+
+289
+00:23:46,308 --> 00:23:50,062
+le commencement immédiat
+des échanges entre nous.
+
+290
+00:23:56,268 --> 00:23:58,623
+Je me réjouis de nos relations futures.
+
+291
+00:23:59,548 --> 00:24:01,539
+Moi de même.
+
+292
+00:24:06,428 --> 00:24:09,898
+Voilà qui fut... facile.
+
+293
+00:24:10,348 --> 00:24:12,339
+Ce n'était que la première étape.
+
+294
+00:24:12,428 --> 00:24:15,784
+Vous aurez changé d'avis
+quand nous en finirons.
+
+295
+00:24:15,868 --> 00:24:19,577
+Je suis donc le seul
+à ne pas sentir le coup.
+
+296
+00:24:28,588 --> 00:24:30,579
+Je voulais être sûr.
+
+297
+00:24:31,508 --> 00:24:35,740
+Ce titre parle d'une pandémie.
+Un genre de...
+
+298
+00:24:36,308 --> 00:24:38,742
+Je ne suis pas sûr. Une ''fièvre''?
+
+299
+00:24:39,628 --> 00:24:42,938
+Si les Aschens sont ces ''arrivants'',
+ils ont fourni...
+
+300
+00:24:43,028 --> 00:24:46,384
+Je ne sais pas trop, mais il semble
+s'agir d'une sorte de vaccin.
+
+301
+00:24:46,468 --> 00:24:49,665
+Et les Volians
+étaient très reconnaissants.
+
+302
+00:24:50,028 --> 00:24:52,622
+Ce qui prouve
+que les Aschens sont honorables.
+
+303
+00:24:52,708 --> 00:24:58,305
+Ca prouve seulement que la ville a été
+désertée après l'arrivée des Aschens.
+
+304
+00:24:58,388 --> 00:25:01,664
+Les villes sont désertées
+quand une civilisation disparaît.
+
+305
+00:25:01,748 --> 00:25:04,626
+Peut-être sont-ils allés
+ailleurs dans la confédération.
+
+306
+00:25:04,708 --> 00:25:08,906
+Ca ne me convainc pas non plus.
+Keel dit n'avoir jamais voyagé.
+
+307
+00:25:08,988 --> 00:25:11,866
+Cette ville est déserte
+depuis des années.
+
+308
+00:25:11,948 --> 00:25:16,658
+Depuis si longtemps que Keel
+n'aurait aucune idée de son existence?
+
+309
+00:25:19,828 --> 00:25:25,061
+Bienvenue. Selon vos instructions,
+un jet de l'armée est prêt
+
+310
+00:25:25,148 --> 00:25:28,584
+pour vous emmener à Washington
+après la visite médicale.
+
+311
+00:25:28,668 --> 00:25:33,219
+Merci, mon général. L'histoire
+se souviendra de votre contribution.
+
+312
+00:25:33,548 --> 00:25:36,221
+O'Neill. Avec deux ''l''.
+
+313
+00:25:37,428 --> 00:25:39,578
+Mon commandant, la prochaine fois,
+
+314
+00:25:39,668 --> 00:25:42,501
+je connais un restaurant
+bien meilleur que votre mess.
+
+315
+00:25:42,588 --> 00:25:44,818
+Avec grand plaisir.
+
+316
+00:25:50,508 --> 00:25:55,104
+C'est peut-être le moment
+de repenser à la retraite.
+
+317
+00:25:55,188 --> 00:25:58,066
+Pas encore. Suivez-moi.
+
+318
+00:26:02,788 --> 00:26:06,258
+Le président ne veut pas
+compromettre une alliance prometteuse
+
+319
+00:26:06,348 --> 00:26:09,624
+à cause d'un mot qui est soi-disant
+un avertissement venu du futur.
+
+320
+00:26:09,708 --> 00:26:12,825
+Je savais que ce truc
+me retomberait sur la figure.
+
+321
+00:26:12,908 --> 00:26:16,947
+Vérifier si les Aschens habitent 970
+est une précaution élémentaire.
+
+322
+00:26:17,028 --> 00:26:20,907
+Et si on rencontre les Aschens
+dans un des autres mondes?
+
+323
+00:26:20,988 --> 00:26:24,901
+- Ca ne leur fera pas très plaisir.
+- Ca compromettrait le traité.
+
+324
+00:26:24,988 --> 00:26:27,058
+- Envoyez une sonde.
+- C'est peut-être
+
+325
+00:26:27,148 --> 00:26:32,063
+ce qui a causé le problème que vous
+vouliez éviter en envoyant ce mot.
+
+326
+00:26:32,148 --> 00:26:34,343
+Mais je ne l'ai pas encore envoyé.
+
+327
+00:26:34,428 --> 00:26:37,181
+Si j'en ai à nouveau l'occasion,
+je serai plus précis.
+
+328
+00:26:37,268 --> 00:26:42,217
+Vous avez dû tenter de limiter
+les effets du principe de causalité.
+
+329
+00:26:42,308 --> 00:26:44,947
+Je me demande qui a eu cette idée.
+
+330
+00:26:46,268 --> 00:26:50,261
+Vous me connaissez. J'aurais pas
+fait ça sans avoir une bonne raison.
+
+331
+00:26:50,348 --> 00:26:53,181
+- Le président devrait le savoir.
+- ll doit démontrer
+
+332
+00:26:53,268 --> 00:26:57,386
+que le programme Stargate a porté
+ses fruits, avant les élections.
+
+333
+00:26:58,108 --> 00:27:00,861
+- Et voilà.
+- En clair, il veut qu'on se retire.
+
+334
+00:27:00,948 --> 00:27:03,746
+Dorénavant, c'est une affaire d'Etat.
+
+335
+00:27:04,588 --> 00:27:08,820
+- Qu'ont trouvé Daniel et Teal'c?
+- lls ne sont pas encore rentrés.
+
+336
+00:27:10,708 --> 00:27:16,021
+Le vaccin avait un effet secondaire.
+Je ne sais pas lequel.
+
+337
+00:27:16,108 --> 00:27:19,100
+C'est peut-être un mot aschen,
+mais ça a fait la une ici.
+
+338
+00:27:19,188 --> 00:27:22,180
+- Comment tu le sais?
+- C'est écrit en grosses lettres.
+
+339
+00:27:22,268 --> 00:27:24,987
+''Le vaccin aschen entraîne...'' un truc.
+
+340
+00:27:25,068 --> 00:27:27,184
+J'ignore quoi, mais c'est pas bon.
+
+341
+00:27:27,268 --> 00:27:31,102
+Ces photos ressemblent à celles
+qui montraient des gens en liesse.
+
+342
+00:27:31,188 --> 00:27:33,418
+lls ne sont pas en liesse.
+
+343
+00:27:33,508 --> 00:27:35,499
+Je crois qu'ils se révoltent.
+
+344
+00:27:36,188 --> 00:27:38,577
+Daniel? Teal'c?
+
+345
+00:27:41,348 --> 00:27:45,102
+On est dans une grotte souterraine.
+Les Aschens le savent?
+
+346
+00:27:45,388 --> 00:27:48,937
+Négatif. Keel a dit
+que vous creusiez un trou par ici.
+
+347
+00:27:50,548 --> 00:27:52,857
+Restez oû vous êtes. On arrive.
+
+348
+00:28:00,428 --> 00:28:02,419
+Quand ils se mettent à creuser...
+
+349
+00:28:05,748 --> 00:28:07,466
+Oû êtes-vous exactement?
+
+350
+00:28:07,548 --> 00:28:11,223
+Dans les ruines enfouies
+de la capitale de l'Union des Volians.
+
+351
+00:28:11,308 --> 00:28:13,424
+Une métropole florissante...
+
+352
+00:28:13,508 --> 00:28:17,387
+Enfin, selon moi,
+jusqu'à ce que les Aschens les éliminent.
+
+353
+00:28:25,308 --> 00:28:27,185
+Bon. Voilà ce que nous savons.
+
+354
+00:28:28,068 --> 00:28:31,458
+ll y a 200 ans, les Volians
+étaient une civilisation urbaine,
+
+355
+00:28:31,548 --> 00:28:35,336
+comparable à l'Amérique du Nord
+de 1900 en termes de technologie.
+
+356
+00:28:35,428 --> 00:28:37,703
+- Ce n'est pas si vieux.
+- Exact.
+
+357
+00:28:37,788 --> 00:28:40,985
+- Que s'est-il passé?
+- ll y a eu une pandémie de grippe,
+
+358
+00:28:41,068 --> 00:28:43,901
+comme celle de 1918 chez nous,
+qui a tué 20 millions de gens.
+
+359
+00:28:43,988 --> 00:28:47,105
+- Arrivent alors les Aschens.
+- Par le Stargate?
+
+360
+00:28:47,188 --> 00:28:50,658
+Dans des vaisseaux. La porte
+a été découverte bien plus tard.
+
+361
+00:28:50,748 --> 00:28:54,741
+lls ont aidé les Volians, leur donnant
+un vaccin et sauvant leur monde.
+
+362
+00:28:54,828 --> 00:28:58,867
+Les Aschens sont devenus des héros
+et cette amitié a perduré.
+
+363
+00:28:58,948 --> 00:29:00,939
+Puis il s'est passé un truc.
+
+364
+00:29:02,228 --> 00:29:04,139
+- Quoi?
+- Je l'ignore.
+
+365
+00:29:04,228 --> 00:29:07,265
+- ll n'y a aucune trace de combat.
+- J'ai un indice.
+
+366
+00:29:07,948 --> 00:29:13,466
+lci. Ce mot signifie à peu près
+''médicament'', ''vaccin'', ''remède''.
+
+367
+00:29:13,548 --> 00:29:15,857
+Suivi de '' par les arrivants'',
+
+368
+00:29:15,948 --> 00:29:20,544
+puis du mot ''entraîne'', et d'un mot
+que je ne sais pas traduire.
+
+369
+00:29:21,068 --> 00:29:24,378
+C'est le dernier numéro
+qu'on a trouvé, ce qui indiquerait
+
+370
+00:29:24,468 --> 00:29:27,426
+que le journal a fermé
+ou a été fermé dès le lendemain.
+
+371
+00:29:27,508 --> 00:29:29,624
+Le vaccin entraîne quoi?
+
+372
+00:29:29,708 --> 00:29:31,699
+Je ne sais pas. Quelque chose.
+
+373
+00:29:31,788 --> 00:29:35,064
+Un peuple urbain de plusieurs
+millions est devenu
+
+374
+00:29:35,148 --> 00:29:39,460
+un peuple agricole de quelques milliers,
+après le ''sauvetage'' des Aschens.
+
+375
+00:29:43,948 --> 00:29:47,179
+- Vous devez parler au président.
+- Je viens d'essayer.
+
+376
+00:29:47,268 --> 00:29:51,056
+ll est avec l'ambassadeur
+et refuse de me prendre en ligne.
+
+377
+00:29:51,148 --> 00:29:55,664
+Mon général, je n'ai jamais profité
+de mon invitation à la Maison Blanche.
+
+378
+00:29:58,988 --> 00:30:01,502
+La dernière fois
+qu'on a sauvé la planète?
+
+379
+00:30:13,828 --> 00:30:16,183
+Chauffeur.
+
+380
+00:30:16,628 --> 00:30:18,619
+On va par là.
+
+381
+00:30:18,868 --> 00:30:21,143
+Nous allons chercher un autre passager.
+
+382
+00:30:21,228 --> 00:30:23,219
+Je vous demande pardon?
+
+383
+00:30:34,508 --> 00:30:36,624
+Colonel Starsky.
+
+384
+00:30:38,428 --> 00:30:41,625
+Ou bien Hutch?
+Je ne sais jamais lequel vous êtes.
+
+385
+00:30:41,708 --> 00:30:44,222
+Kinsey.
+
+386
+00:30:44,308 --> 00:30:47,061
+Qu'est-ce que vous fichez ici?
+
+387
+00:30:47,148 --> 00:30:49,378
+C'est plus classe que votre ordinaire,
+
+388
+00:30:49,468 --> 00:30:51,982
+mais je voulais qu'on parle tranquille.
+
+389
+00:31:02,868 --> 00:31:04,938
+Un verre?
+
+390
+00:31:05,028 --> 00:31:07,098
+J'ai un rendez-vous.
+
+391
+00:31:07,188 --> 00:31:09,179
+Pas du tout.
+
+392
+00:31:12,228 --> 00:31:16,141
+Vous auriez vu le président quand
+il a su que vous vouliez le dissuader.
+
+393
+00:31:16,228 --> 00:31:19,106
+- ll sait être cruel.
+- Ce traité est une erreur.
+
+394
+00:31:19,708 --> 00:31:23,223
+- C'est vous qui l'avez suggéré.
+- J'avais tort.
+
+395
+00:31:23,828 --> 00:31:26,467
+Ca valait le coup, juste pour entendre ça.
+
+396
+00:31:26,548 --> 00:31:28,778
+Je vous explique la situation.
+
+397
+00:31:28,868 --> 00:31:33,896
+Nous qui avons un mandat électif,
+nous aimerions qu'on nous laisse
+
+398
+00:31:33,988 --> 00:31:37,901
+décider avec quels gouvernements
+nous voulons traiter.
+
+399
+00:31:37,988 --> 00:31:41,617
+- Vous n'avez pas tous les éléments.
+- On m'a parlé du mot.
+
+400
+00:31:41,708 --> 00:31:46,498
+- Vous devez donc le prendre au sérieux.
+- Nous avons des experts.
+
+401
+00:31:46,588 --> 00:31:49,705
+lls disent que l'encre sur votre mot
+
+402
+00:31:49,788 --> 00:31:55,226
+est un nouveau bidule biodégradable
+qui n'a pas encore été inventé.
+
+403
+00:31:55,308 --> 00:31:59,620
+- Oû voulez-vous en venir?
+- C'est comment, le futur? Dites-moi.
+
+404
+00:31:59,708 --> 00:32:03,701
+- Que je sache, on n'y est pas encore.
+- Si, vous y avez été.
+
+405
+00:32:03,788 --> 00:32:08,145
+Vous avez été dans le passé,
+dans le futur, vous avez tout fait.
+
+406
+00:32:08,868 --> 00:32:11,826
+Je me demande comment c'est.
+
+407
+00:32:11,908 --> 00:32:15,821
+Sans vous, toujours à jouer les héros.
+
+408
+00:32:15,988 --> 00:32:17,740
+Ca n'a rien à voir avec moi.
+
+409
+00:32:17,828 --> 00:32:22,663
+Je me demande jusqu'oû vous iriez
+pour m'empêcher de devenir président.
+
+410
+00:32:24,788 --> 00:32:27,427
+Vous croyez que ça vous concerne?
+
+411
+00:32:28,868 --> 00:32:31,860
+- Vous êtes le plus égocentrique...
+- Egocentrique?
+
+412
+00:32:31,948 --> 00:32:35,827
+C'est vous qui vous prenez
+pour Dieu en jouant avec le futur.
+
+413
+00:32:35,908 --> 00:32:38,900
+Dès qu'on essaie de traiter
+avec des extraterrestres,
+
+414
+00:32:38,988 --> 00:32:41,821
+vous décidez
+que ce ne sont pas les bons.
+
+415
+00:32:42,108 --> 00:32:45,737
+Même le président actuel
+commence à y voir clair.
+
+416
+00:32:45,828 --> 00:32:48,296
+Et pourtant, il vous adorait.
+
+417
+00:32:48,868 --> 00:32:53,020
+On nous a parlé des 70 % de chances,
+d'une chance sur quatre...
+
+418
+00:32:53,108 --> 00:32:56,305
+Vous êtes totalement dépassé.
+
+419
+00:32:56,588 --> 00:32:58,579
+Vraiment?
+
+420
+00:32:59,628 --> 00:33:05,066
+Ceci est une affaire politique,
+qui nécessite un accord bilatéral.
+
+421
+00:33:05,148 --> 00:33:10,620
+C'est pourquoi le président m'a chargé
+de mener la suite des négociations.
+
+422
+00:33:15,628 --> 00:33:18,301
+Chauffeur, arrêtez-vous à l'Athletic Club.
+
+423
+00:33:20,108 --> 00:33:24,101
+Vous serez invité
+à la Maison Blanche d'ici peu.
+
+424
+00:33:24,188 --> 00:33:26,179
+Mais pas ce soir.
+
+425
+00:33:28,828 --> 00:33:31,820
+Quand nous serons
+à l'Athletic Club, je descendrai.
+
+426
+00:33:31,908 --> 00:33:36,220
+Ensuite, vous ramènerez
+notre invité à la base d'Andrews.
+
+427
+00:33:58,028 --> 00:34:02,067
+ll semble que nous ayons accepté
+de prouver notre bonne foi.
+
+428
+00:34:02,148 --> 00:34:04,184
+L'ambassadeur va le leur apporter
+
+429
+00:34:04,268 --> 00:34:08,546
+et ramènera une délégation aschen
+qui rencontrera le sénateur Kinsey.
+
+430
+00:34:08,788 --> 00:34:10,779
+Ca va vraiment se faire?
+
+431
+00:34:10,868 --> 00:34:14,304
+- Apparemment, nous restons prudents.
+- Qu'est-ce qu'on offre?
+
+432
+00:34:14,388 --> 00:34:17,221
+- Des coordonnées de portes.
+- Adieu la tranquillité.
+
+433
+00:34:17,308 --> 00:34:19,697
+L'ambassadeur a demandé
+
+434
+00:34:19,788 --> 00:34:24,066
+que O'Neill et Carter
+l'accompagnent à nouveau.
+
+435
+00:34:24,148 --> 00:34:27,743
+- On n'est pas hors circuit?
+- ll aurait insisté.
+
+436
+00:34:27,828 --> 00:34:30,262
+Kinsey a accepté,
+mais seulement pour Carter,
+
+437
+00:34:30,348 --> 00:34:33,385
+ce qui nous laisse une chance.
+
+438
+00:34:33,468 --> 00:34:36,221
+- Que puis-je faire?
+- Leur forcer la main.
+
+439
+00:34:38,348 --> 00:34:41,340
+Si on les accuse directement,
+ils vont mentir.
+
+440
+00:34:41,428 --> 00:34:44,340
+Ce sera peut-être inutile.
+J'ai une idée.
+
+441
+00:34:49,188 --> 00:34:52,305
+Je ne peux pas
+vous ordonner de faire ça.
+
+442
+00:34:53,388 --> 00:34:56,027
+Je sais. Quand partons-nous?
+
+443
+00:35:08,348 --> 00:35:11,658
+- Chevron un, codé.
+- Un jour historique.
+
+444
+00:35:12,028 --> 00:35:16,067
+- Espérons-le, M. le sénateur.
+- Je parlais de votre retraite.
+
+445
+00:35:24,108 --> 00:35:26,178
+Chevron deux, codé.
+
+446
+00:35:26,268 --> 00:35:29,465
+- M. l'ambassadeur.
+- Vous restez habillée comme ça?
+
+447
+00:35:32,988 --> 00:35:35,456
+J'ai beaucoup à vous dire
+et très peu de temps.
+
+448
+00:35:35,548 --> 00:35:39,427
+- Je vous en prie, écoutez-moi.
+- Très bien.
+
+449
+00:35:50,948 --> 00:35:53,018
+Mollem, Borren.
+
+450
+00:35:53,908 --> 00:35:57,059
+- Le colonel O'Neill n'est pas là?
+- ll est en mission.
+
+451
+00:35:57,148 --> 00:36:01,380
+- Bien sûr.
+- Je suis heureux de vous offrir ceci.
+
+452
+00:36:01,988 --> 00:36:06,379
+Les coordonnées et les symboles
+de plusieurs mondes.
+
+453
+00:36:06,468 --> 00:36:08,936
+C'est un honneur de les recevoir.
+
+454
+00:36:15,508 --> 00:36:18,500
+Les coordonnées sont stockées
+dans cet ordinateur.
+
+455
+00:36:18,588 --> 00:36:20,818
+Ca va s'afficher dans un moment.
+
+456
+00:36:27,028 --> 00:36:32,227
+Nos dirigeants souhaitent vous inviter
+sur Terre pour finaliser le traité.
+
+457
+00:36:32,308 --> 00:36:34,697
+Chaque chose en son temps.
+
+458
+00:36:35,668 --> 00:36:40,423
+Au fait, Borren.
+Pourriez-vous nous lire ceci?
+
+459
+00:36:40,508 --> 00:36:43,261
+- J'ai du mal à le traduire.
+- Bien sûr.
+
+460
+00:36:44,628 --> 00:36:47,096
+''Stérilité.''
+
+461
+00:36:52,828 --> 00:36:57,106
+Nous connaissions votre plan.
+Simple confirmation.
+
+462
+00:36:59,228 --> 00:37:01,219
+De quoi parlez-vous?
+
+463
+00:37:01,308 --> 00:37:05,142
+''Le vaccin entraîne la stérilité.''
+C'était le titre.
+
+464
+00:37:05,228 --> 00:37:10,461
+Vous avez éliminé la plupart des Volians
+et fait de leur monde un vaste champ.
+
+465
+00:37:10,868 --> 00:37:13,701
+Vous feriez pareil sur Terre.
+
+466
+00:37:15,868 --> 00:37:18,257
+Enfermez-les.
+Nous avons un traité à signer.
+
+467
+00:37:18,348 --> 00:37:20,623
+Si on ne rentre pas vivants,
+pas de traité.
+
+468
+00:37:20,708 --> 00:37:23,461
+C'est votre problème.
+On a eu ce qu'on voulait.
+
+469
+00:37:32,628 --> 00:37:35,062
+Je suis désolée.
+
+470
+00:37:36,988 --> 00:37:40,219
+- Que vont-ils faire?
+- Je ne sais pas.
+
+471
+00:37:41,148 --> 00:37:44,504
+O'Neill avait envoyé
+ce mot pour éviter cela.
+
+472
+00:37:48,468 --> 00:37:50,459
+On était si convaincu.
+
+473
+00:37:50,548 --> 00:37:52,539
+Ecoutez.
+
+474
+00:37:53,188 --> 00:37:55,463
+lls composent le Stargate.
+
+475
+00:38:06,348 --> 00:38:08,657
+lls composent la Terre.
+
+476
+00:38:11,108 --> 00:38:14,225
+- Qu'est-ce que c'est?
+- Je ne sais pas, on va voir.
+
+477
+00:38:21,668 --> 00:38:24,626
+Quand je serai en bas, suivez-moi.
+
+478
+00:38:24,708 --> 00:38:27,176
+On ne sera que quelques secondes
+au-dessus de la porte.
+
+479
+00:38:27,268 --> 00:38:29,338
+Quoi?
+
+480
+00:38:31,748 --> 00:38:36,026
+Faites ce que je dis,
+quand je le dis. Ayez confiance.
+
+481
+00:39:03,828 --> 00:39:04,863
+Oû est Carter?
+
+482
+00:39:14,068 --> 00:39:16,059
+Maintenant!
+
+483
+00:39:29,628 --> 00:39:32,096
+Allez-y.
+
+484
+00:39:59,068 --> 00:40:01,059
+Fermez l'iris.
+
+485
+00:40:13,788 --> 00:40:17,497
+- Mais bon sang, que se passe-t-il?
+- Quand ils ont vu qu'on savait,
+
+486
+00:40:17,588 --> 00:40:19,579
+ils ont envoyé une arme biologique.
+
+487
+00:40:19,668 --> 00:40:22,466
+Je devais vous avertir.
+J'ai dû laisser l'ambassadeur.
+
+488
+00:40:22,548 --> 00:40:25,938
+- Répondez à ma question.
+- Vous avez bien fait.
+
+489
+00:40:26,028 --> 00:40:28,986
+- Merci, mon colonel.
+- Amenez-la à l'infirmerie.
+
+490
+00:40:31,428 --> 00:40:35,899
+Je vous jure, O'Neill,
+que je ferai faire une enquête.
+
+491
+00:40:36,708 --> 00:40:40,906
+Parfait. O'Neill. Avec deux ''l''.
+
+492
+00:40:46,988 --> 00:40:48,660
+On a évité une catastrophe.
+
+493
+00:40:48,748 --> 00:40:51,467
+Le sénateur a l'air très mécontent.
+
+494
+00:40:51,748 --> 00:40:54,308
+C'est vraiment dommage, hein?
+
+495
+00:40:55,268 --> 00:40:59,181
+- Belle erreur, de donner ces adresses.
+- Je ne crois pas.
+
+496
+00:40:59,268 --> 00:41:02,101
+Vu que la première est un trou noir.
+
+497
+00:41:02,188 --> 00:41:04,861
+Et les autres encore plus sombres.
+
+498
+00:41:06,668 --> 00:41:08,659
+Carter, ça va?
+
+499
+00:41:20,108 --> 00:41:22,622
+Sous-titrage Visiontext: Hélène Monsché
+

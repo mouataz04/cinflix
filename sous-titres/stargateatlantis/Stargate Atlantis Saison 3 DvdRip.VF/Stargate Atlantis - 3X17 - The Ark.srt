@@ -1,0 +1,2766 @@
+0
+00:00:01,767 --> 00:00:03,280
+Initialisation de séparation
+
+1
+00:00:03,447 --> 00:00:07,679
+dans trois, deux, un, top.
+
+2
+00:00:08,407 --> 00:00:11,046
+Èchec de la séparation.
+Commandes de secours.
+
+3
+00:00:11,447 --> 00:00:14,678
+Dégage-toi, allez.
+
+4
+00:00:15,287 --> 00:00:17,005
+Merde.
+
+5
+00:00:17,367 --> 00:00:19,358
+Les boulons ne marchent pas.
+
+6
+00:00:19,527 --> 00:00:22,564
+Je répète, les boulons explosifs
+ne se déclenchent pas.
+
+7
+00:00:22,727 --> 00:00:25,799
+Impossibilité
+de me séparer du vaisseau.
+
+8
+00:00:25,967 --> 00:00:28,606
+Je vais devoir descendre avec lui.
+
+9
+00:00:36,367 --> 00:00:38,597
+8 HEURES PLUS TÔT
+
+10
+00:00:39,647 --> 00:00:42,923
+Vous vouliez regarder.
+Maintenant c’est fait.
+
+11
+00:00:43,087 --> 00:00:45,601
+- Quoi ? On vient d’arriver.
+- C’est suffisant.
+
+12
+00:00:45,767 --> 00:00:48,565
+- Rien ne pourrait nous servir.
+- On ne peut le savoir
+
+13
+00:00:48,727 --> 00:00:50,797
+avant d’explorer en profondeur.
+
+14
+00:00:50,967 --> 00:00:53,879
+Vous verrez
+la même technologie qu’ici.
+
+15
+00:00:54,047 --> 00:00:57,403
+Je l’appellerais Epoque 1 967.
+
+16
+00:00:57,567 --> 00:00:58,682
+Oh, oui.
+
+17
+00:00:58,847 --> 00:01:01,520
+On a creusé beaucoup de lunes
+dans les années 60.
+
+18
+00:01:01,687 --> 00:01:05,043
+Si on l’avait fait,
+ça ressemblerait à ça.
+
+19
+00:01:05,207 --> 00:01:08,279
+Et la navette qu’on a vue
+en s’arrimant ?
+
+20
+00:01:08,447 --> 00:01:09,596
+Très 007.
+
+21
+00:01:09,767 --> 00:01:12,235
+Même vous,
+vous avez été intrigué.
+
+22
+00:01:12,407 --> 00:01:13,886
+Un peu.
+
+23
+00:01:14,447 --> 00:01:17,086
+Élizabeth nous a autorisés
+à explorer si,
+
+24
+00:01:17,247 --> 00:01:19,158
+et je souligne bien le « si »,
+
+25
+00:01:19,327 --> 00:01:23,479
+nous trouvions des choses
+à utiliser contre les méchants.
+
+26
+00:01:24,127 --> 00:01:29,406
+Cette technologie est vétuste.
+Il n’y a que des provisions.
+
+27
+00:01:29,567 --> 00:01:33,355
+Construire une station lunaire
+a dû nécessiter des ressources.
+
+28
+00:01:33,527 --> 00:01:35,677
+Elle a été construite
+pour une raison.
+
+29
+00:01:35,847 --> 00:01:37,758
+Si on veut la découvrir,
+
+30
+00:01:37,927 --> 00:01:40,361
+il faut continuer à explorer.
+
+31
+00:01:41,527 --> 00:01:43,757
+Teyla, Ronon,
+vous entendez ça ?
+
+32
+00:01:43,927 --> 00:01:46,521
+<i>Oui, oui,</i>
+<i>colonel Sheppard.</i>
+
+33
+00:01:46,687 --> 00:01:48,678
+<i>Ça vous intéresse</i>
+<i>ce qu’il y a dedans ?</i>
+
+34
+00:01:48,847 --> 00:01:51,441
+<i>- Non.</i>
+<i>- Envoyer des scientifiques</i>
+
+35
+00:01:51,607 --> 00:01:55,520
+- <i>serait plus appropriée.</i>
+- Bonne idée, on s’en va.
+
+36
+00:01:55,687 --> 00:01:57,564
+Je dois savoir
+ce qu’il y a dedans.
+
+37
+00:01:57,727 --> 00:02:00,400
+C’est comme Noël
+et les piñatas.
+
+38
+00:02:00,567 --> 00:02:02,717
+Juste un compartiment
+derrière la porte.
+
+39
+00:02:02,887 --> 00:02:05,879
+D’accord, un dernier.
+
+40
+00:02:18,487 --> 00:02:20,682
+On dirait une salle de contrôle.
+
+41
+00:02:29,247 --> 00:02:31,636
+Regardez ça.
+
+42
+00:02:32,447 --> 00:02:35,723
+- Intrigué ?
+- Ça a été construit pour rentrer.
+
+43
+00:02:37,327 --> 00:02:41,400
+On dirait un système informatique
+rudimentaire, mais il est verrouillé.
+
+44
+00:02:41,567 --> 00:02:45,003
+Voyons si je peux le relancer
+et le réalimenter.
+
+45
+00:02:45,167 --> 00:02:47,123
+Vous pensez
+que c’est une bonne idée ?
+
+46
+00:02:47,287 --> 00:02:50,962
+Vous dites que la station est alimentée
+par un réacteur nucléaire.
+
+47
+00:02:51,127 --> 00:02:56,201
+Absolument, un réacteur
+dont j’ai augmenté la puissance.
+
+48
+00:02:56,367 --> 00:02:57,720
+Rodney.
+
+49
+00:02:57,887 --> 00:03:01,004
+- Vous vouliez observer la navette.
+- Non.
+
+50
+00:03:01,167 --> 00:03:02,725
+Vous y pensiez.
+
+51
+00:03:02,887 --> 00:03:06,766
+Je vais rétablir le système de survie
+en un rien de temps.
+
+52
+00:03:06,927 --> 00:03:08,758
+- Fermeture des portes.
+- Pourquoi ?
+
+53
+00:03:08,927 --> 00:03:11,999
+Pour repressuriser la cabine
+et enlever ces combinaisons.
+
+54
+00:03:12,167 --> 00:03:14,727
+On n’est pas là
+pour satisfaire votre curiosité.
+
+55
+00:03:14,887 --> 00:03:16,605
+On ne peut plus s’arrêter.
+
+56
+00:03:16,767 --> 00:03:18,280
+On vient d’ouvrir la piñata.
+
+57
+00:03:19,487 --> 00:03:20,715
+C’est quoi ?
+
+58
+00:03:21,687 --> 00:03:24,884
+Je capte un pic d’énergie
+dans un autre compartiment.
+
+59
+00:03:25,807 --> 00:03:26,842
+Il a disparu.
+
+60
+00:03:27,647 --> 00:03:29,239
+- Bien.
+- Pas bien.
+
+61
+00:03:29,447 --> 00:03:32,325
+Cette signature énergétique
+m’est atrocement familière.
+
+62
+00:03:32,487 --> 00:03:34,637
+Vérifiez le détecteur
+de signes de vie.
+
+63
+00:03:36,247 --> 00:03:37,919
+On a de la compagnie.
+
+64
+00:03:56,447 --> 00:03:58,119
+D’accord.
+
+65
+00:03:58,287 --> 00:04:00,118
+Qui est ce type ?
+
+66
+00:05:07,327 --> 00:05:09,522
+Vous n’aviez signalé
+aucun signe de vie.
+
+67
+00:05:09,687 --> 00:05:11,917
+- Comment est-il arrivé là ?
+<i>- On l’ignore.</i>
+
+68
+00:05:12,087 --> 00:05:15,318
+Un pic d’énergie est apparu
+avec son signe de vie.
+
+69
+00:05:15,487 --> 00:05:17,125
+J’ai reconnu la signature.
+
+70
+00:05:17,287 --> 00:05:19,721
+Très semblable
+à la dématérialisation Wraith.
+
+71
+00:05:19,887 --> 00:05:22,720
+Il s’est automatiquement réintégré
+
+72
+00:05:22,887 --> 00:05:24,684
+au démarrage
+du système de survie.
+
+73
+00:05:24,847 --> 00:05:25,882
+Dématérialisé ?
+
+74
+00:05:26,047 --> 00:05:28,481
+Vous disiez
+que la station était vétuste.
+
+75
+00:05:28,647 --> 00:05:31,798
+- Avec cette mise à jour.
+- Et la gravité artificielle.
+
+76
+00:05:31,967 --> 00:05:33,639
+Je dirais le 1 er Apollo.
+
+77
+00:05:33,807 --> 00:05:36,879
+Je dois regarder,
+mais ça doit être de la technologie
+
+78
+00:05:37,047 --> 00:05:38,605
+Wraith modifiée.
+
+79
+00:05:38,767 --> 00:05:40,166
+A partir d’un Dart.
+
+80
+00:05:40,327 --> 00:05:42,158
+<i>Si on y pense,</i>
+<i>c’est la fusion...</i>
+
+81
+00:05:42,327 --> 00:05:44,318
+Qu’allez-vous faire
+de cette personne
+
+82
+00:05:44,487 --> 00:05:46,762
+dont nous avons la responsabilité ?
+
+83
+00:05:46,927 --> 00:05:49,157
+Je n’ai pas réfléchi jusque là.
+
+84
+00:05:49,327 --> 00:05:52,046
+Si une personne s’est rematérialisée
+de nulle part...
+
+85
+00:05:52,207 --> 00:05:54,675
+Il peut y en avoir d’autres.
+J’y pensais.
+
+86
+00:05:54,847 --> 00:05:57,645
+- Il reprend conscience.
+- On va le découvrir.
+
+87
+00:05:57,807 --> 00:05:59,923
+Il se réveille.
+Je rappelle dans 1h.
+
+88
+00:06:00,087 --> 00:06:02,043
+<i>1h, entendu.</i>
+
+89
+00:06:06,487 --> 00:06:07,715
+Tout va bien.
+
+90
+00:06:07,887 --> 00:06:09,161
+Nous sommes des amis.
+
+91
+00:06:15,527 --> 00:06:16,846
+La guerre est finie ?
+
+92
+00:06:17,007 --> 00:06:18,486
+Nous ne venons pas d’ici.
+
+93
+00:06:18,647 --> 00:06:22,242
+Je suis Sheppard.
+Voici McKay, Teyla, Ronon.
+
+94
+00:06:22,407 --> 00:06:23,601
+Herick.
+
+95
+00:06:23,767 --> 00:06:26,918
+Nous avons scanné
+la surface de votre planète.
+
+96
+00:06:27,087 --> 00:06:29,601
+Si ce monde était en guerre
+contre les Wraiths
+
+97
+00:06:29,767 --> 00:06:31,086
+la guerre a été perdue.
+
+98
+00:06:31,247 --> 00:06:33,841
+- Il y a des années.
+- Plutôt des siècles.
+
+99
+00:06:34,007 --> 00:06:36,237
+Il ne reste que des ruines
+et des arbres.
+
+100
+00:06:36,407 --> 00:06:39,205
+Faites appel
+à votre sensibilité.
+
+101
+00:06:39,727 --> 00:06:41,718
+La défaite était attendue,
+
+102
+00:06:41,887 --> 00:06:45,197
+mais l’ordinateur devait
+m’extraire automatiquement
+
+103
+00:06:45,447 --> 00:06:47,358
+pour restaurer les autres.
+
+104
+00:06:47,527 --> 00:06:49,677
+Malheureusement
+l’ordinateur s’est bloqué.
+
+105
+00:06:49,847 --> 00:06:52,725
+Vous auriez dû utiliser un Mac.
+
+106
+00:06:52,887 --> 00:06:54,843
+Quels autres ?
+
+107
+00:06:55,007 --> 00:06:56,440
+Les autres qui sont stockés.
+
+108
+00:06:57,447 --> 00:07:00,325
+La dématérialisation à long terme,
+c’est de la folie.
+
+109
+00:07:01,367 --> 00:07:03,483
+L’énergie ne peut rester stable.
+
+110
+00:07:04,047 --> 00:07:06,402
+- Nos ingénieurs ont réussi.
+- Attendez.
+
+111
+00:07:07,247 --> 00:07:08,805
+Combien d’autres ?
+
+112
+00:07:08,967 --> 00:07:11,527
+Chaque module devait
+en stocker un millier.
+
+113
+00:07:12,167 --> 00:07:14,556
+- Cet endroit a été...
+- Créé
+
+114
+00:07:14,727 --> 00:07:16,843
+pour sauver
+les derniers de mon peuple.
+
+115
+00:07:18,007 --> 00:07:19,918
+Une fois les Wraiths partis
+
+116
+00:07:20,087 --> 00:07:22,601
+et la planète de nouveau habitable,
+
+117
+00:07:22,767 --> 00:07:25,645
+je devais ramener une navette
+à la surface,
+
+118
+00:07:26,607 --> 00:07:29,075
+mais quelque chose n’a pas
+dû marcher.
+
+119
+00:07:29,487 --> 00:07:31,443
+A ce propos,
+
+120
+00:07:31,607 --> 00:07:33,882
+il n’y a qu’une navette dehors.
+
+121
+00:07:34,527 --> 00:07:36,199
+Non, c’est impossible.
+
+122
+00:07:36,967 --> 00:07:40,243
+Je dois aller
+dans la salle de stockage.
+
+123
+00:07:41,287 --> 00:07:45,803
+Le 2e module devait être stocké
+dans l’autre navette.
+
+124
+00:07:45,967 --> 00:07:49,084
+La moitié des élus
+devait être à bord,
+
+125
+00:07:49,647 --> 00:07:52,241
+dont ma femme et mon fils.
+
+126
+00:07:52,407 --> 00:07:54,443
+Laissez-le y aller.
+
+127
+00:07:54,607 --> 00:07:55,835
+Vous restez là.
+
+128
+00:08:09,167 --> 00:08:12,045
+Jamus m’avait promis
+qu’ils décolleraient peu après.
+
+129
+00:08:12,207 --> 00:08:13,925
+Les Wraiths ont dû arriver.
+
+130
+00:08:14,087 --> 00:08:16,521
+Ils étaient prêts.
+J’ai parlé au pilote.
+
+131
+00:08:16,687 --> 00:08:18,200
+Ils étaient
+à quelques heures.
+
+132
+00:08:18,367 --> 00:08:21,086
+<i>Sheppard, j’ai un autre pic.</i>
+<i>Que se passe-t-il ?</i>
+
+133
+00:08:21,247 --> 00:08:25,081
+- Que faites-vous ?
+- Je cherche des réponses.
+
+134
+00:08:28,687 --> 00:08:30,359
+Ils devaient être là.
+
+135
+00:08:30,527 --> 00:08:31,960
+Vous m’aviez promis.
+
+136
+00:08:32,127 --> 00:08:35,403
+Du calme,
+laissez-le respirer.
+
+137
+00:08:36,287 --> 00:08:39,120
+- Je ne comprends pas.
+- Où est le 2e module ?
+
+138
+00:08:46,127 --> 00:08:49,915
+Ils ont attendu trop longtemps
+avant de lancer la 2e navette.
+
+139
+00:08:50,847 --> 00:08:52,644
+Herick, je suis désolé.
+
+140
+00:08:52,807 --> 00:08:55,640
+J’ai travaillé toute ma vie
+pour finir cet endroit,
+
+141
+00:08:55,807 --> 00:08:57,798
+avec la promesse
+
+142
+00:08:57,967 --> 00:09:00,197
+que ma femme et mon fils
+seraient sauvés.
+
+143
+00:09:00,367 --> 00:09:03,916
+Vous l’aviez promis
+en me stockant dans le module.
+
+144
+00:09:04,767 --> 00:09:07,645
+Peu après votre stockage,
+la nouvelle s’est répandue
+
+145
+00:09:07,807 --> 00:09:11,720
+que le dernier groupe
+n’avait pas atteint la 2e navette.
+
+146
+00:09:12,447 --> 00:09:16,963
+Avec le lancement de la 1 re navette,
+le secret s’est ébruité.
+
+147
+00:09:17,167 --> 00:09:18,805
+Il y a eu des émeutes.
+
+148
+00:09:20,927 --> 00:09:24,158
+La plupart de nos dirigeants étaient
+dans ce groupe.
+
+149
+00:09:24,927 --> 00:09:27,043
+Vous avez retardé le lancement ?
+
+150
+00:09:29,647 --> 00:09:32,207
+- De combien ?
+- Un jour.
+
+151
+00:09:34,607 --> 00:09:38,282
+Mais en un jour,
+les Wraiths sont arrivés.
+
+152
+00:09:38,687 --> 00:09:40,120
+Par le portail.
+
+153
+00:09:40,407 --> 00:09:43,240
+On savait que c’était le début.
+C’était un éclaireur.
+
+154
+00:09:43,407 --> 00:09:46,240
+C’était arrivé trop souvent
+dans notre histoire.
+
+155
+00:09:46,407 --> 00:09:48,284
+Et vous n’avez pas donné l’ordre ?
+
+156
+00:09:48,447 --> 00:09:53,965
+La 2e navette aurait conduit
+les Wraiths directement ici.
+
+157
+00:10:02,727 --> 00:10:04,877
+C’était la seule solution.
+Comprenez-moi.
+
+158
+00:10:05,047 --> 00:10:07,322
+Vous avez voulu
+sauver votre peau.
+
+159
+00:10:07,487 --> 00:10:09,000
+Non.
+
+160
+00:10:09,287 --> 00:10:12,916
+Préserver les autres
+qui étaient déjà stockés.
+
+161
+00:10:13,887 --> 00:10:16,640
+Si les Wraiths avaient suivi
+la 2e navette,
+
+162
+00:10:16,807 --> 00:10:19,367
+s’ils avaient découvert
+ce qu’on avait fait,
+
+163
+00:10:19,887 --> 00:10:22,321
+ils auraient pulvérisé cette lune.
+
+164
+00:10:23,727 --> 00:10:27,117
+C’était la décision la plus dure
+que j’ai jamais prise,
+
+165
+00:10:27,407 --> 00:10:29,125
+mais si je ne l’avais pas prise,
+
+166
+00:10:29,287 --> 00:10:31,755
+le travail de votre vie
+n’aurait servi à rien.
+
+167
+00:10:33,087 --> 00:10:36,443
+Un autre signe de vie est apparu
+sur l’écran de la navette.
+
+168
+00:10:39,127 --> 00:10:40,719
+Bonjour.
+
+169
+00:10:40,887 --> 00:10:42,764
+Je suis le docteur
+Rodney McKay.
+
+170
+00:10:42,927 --> 00:10:45,043
+J’ai réalimenté la station.
+
+171
+00:10:46,247 --> 00:10:47,316
+Je vous en prie.
+
+172
+00:10:47,487 --> 00:10:50,047
+Mon peuple vous en est reconnaissant.
+
+173
+00:10:51,087 --> 00:10:52,315
+On n’a pas besoin d’eux.
+
+174
+00:10:52,487 --> 00:10:53,715
+On a un vaisseau.
+
+175
+00:10:53,887 --> 00:10:58,278
+Qui, sans vouloir vous vexer,
+est mieux que votre navette.
+
+176
+00:10:58,447 --> 00:11:01,757
+On pourrait restaurer
+votre civilisation.
+
+177
+00:11:01,927 --> 00:11:04,122
+Votre vaisseau a une source d’énergie
+
+178
+00:11:04,287 --> 00:11:06,721
+compatible
+avec le module de stockage ?
+
+179
+00:11:07,247 --> 00:11:11,718
+Herick veut finir la tâche
+qui achèverait le travail de sa vie.
+
+180
+00:11:12,807 --> 00:11:15,116
+Quand le peuple sera de retour
+à la surface,
+
+181
+00:11:15,567 --> 00:11:18,798
+la nouvelle ère dont nous avons rêvée
+commencera.
+
+182
+00:11:19,767 --> 00:11:21,564
+Libérés des Wraiths.
+
+183
+00:11:21,807 --> 00:11:23,001
+Pour toujours.
+
+184
+00:11:24,367 --> 00:11:26,164
+Pour toujours.
+
+185
+00:11:28,767 --> 00:11:30,519
+Pardonnez-moi.
+
+186
+00:11:36,407 --> 00:11:39,205
+- Je prépare le lancement de la navette.
+- Bien sûr.
+
+187
+00:11:39,367 --> 00:11:42,837
+Si vous voulez de l’aide
+dans la salle de contrôle...
+
+188
+00:11:44,047 --> 00:11:47,676
+- Peut-être pas.
+- On va vous laisser faire.
+
+189
+00:11:48,007 --> 00:11:51,363
+Sheppard, je ne laisserais pas
+ce type avec l’autre,
+
+190
+00:11:51,527 --> 00:11:53,757
+sauf si vous voulez
+le retrouver mort.
+
+191
+00:11:53,927 --> 00:11:56,487
+- Vous pensez...
+- A sa place, je le ferais.
+
+192
+00:11:59,247 --> 00:12:01,602
+Jamus,
+nous allons nous assurer
+
+193
+00:12:01,767 --> 00:12:04,406
+que tout le monde rentre
+en sécurité.
+
+194
+00:12:04,567 --> 00:12:08,446
+- On vous déposera si vous voulez.
+- Merci, je vous en suis reconnaissant.
+
+195
+00:12:08,607 --> 00:12:10,882
+Allez dans la salle de contrôle.
+
+196
+00:12:11,047 --> 00:12:13,322
+Teyla, on va rester
+un peu plus longtemps.
+
+197
+00:12:59,967 --> 00:13:01,639
+Herick.
+
+198
+00:13:03,767 --> 00:13:06,281
+Je comprends combien
+ce doit être difficile.
+
+199
+00:13:06,447 --> 00:13:08,802
+Les Wraiths m’ont pris
+des être chers.
+
+200
+00:13:08,967 --> 00:13:10,798
+Les Wraiths ne sont pas en cause.
+
+201
+00:13:10,967 --> 00:13:13,435
+- Si on peut faire...
+- Vous en avez assez fait.
+
+202
+00:13:14,367 --> 00:13:16,244
+Je ne comprends pas.
+
+203
+00:13:16,407 --> 00:13:17,965
+Si vous n’étiez pas venus,
+
+204
+00:13:18,127 --> 00:13:20,516
+si je ne m’étais pas réveillé,
+
+205
+00:13:20,687 --> 00:13:23,724
+mes dernières pensées auraient été
+tournées vers l’avenir
+
+206
+00:13:23,887 --> 00:13:26,685
+et l’amour
+que je porte à ma famille.
+
+207
+00:13:26,847 --> 00:13:29,566
+Je n’aurais jamais ressenti
+ce que je ressens là.
+
+208
+00:13:29,727 --> 00:13:31,843
+Réunissez votre équipe
+et partez.
+
+209
+00:13:33,287 --> 00:13:36,518
+Herick.
+
+210
+00:13:36,687 --> 00:13:39,201
+Il ne va pas très bien, hein ?
+
+211
+00:13:39,367 --> 00:13:40,800
+Non.
+
+212
+00:13:43,807 --> 00:13:45,240
+Tout le monde est là ?
+
+213
+00:13:45,407 --> 00:13:48,797
+Nous avons passé plus de temps
+que prévu dans l’appareil,
+
+214
+00:13:48,967 --> 00:13:51,845
+mais oui,
+nos ingénieurs ont bien travaillé.
+
+215
+00:13:52,007 --> 00:13:53,520
+Colonel Sheppard ?
+
+216
+00:13:53,687 --> 00:13:57,646
+- Je suis inquiète pour Herick.
+- On ne peut rien faire pour lui.
+
+217
+00:13:57,887 --> 00:13:59,559
+Il nous a ordonné de partir.
+
+218
+00:13:59,727 --> 00:14:01,365
+Bien sûr, il est perturbé.
+
+219
+00:14:01,527 --> 00:14:04,166
+Il ira mieux
+une fois sur la planète.
+
+220
+00:14:04,327 --> 00:14:05,840
+Pareil pour moi.
+
+221
+00:14:06,007 --> 00:14:08,157
+Je vais voir ce qu’il fait.
+
+222
+00:14:08,567 --> 00:14:10,364
+Restez là.
+
+223
+00:14:31,727 --> 00:14:33,843
+Que fait-il ?
+
+224
+00:14:38,327 --> 00:14:39,760
+<i>Herick, que faites-vous ?</i>
+
+225
+00:14:47,567 --> 00:14:50,035
+Sheppard,
+faites-le sortir de la navette.
+
+226
+00:14:50,847 --> 00:14:52,803
+On y va.
+
+227
+00:14:54,407 --> 00:14:56,921
+<i>Si vous faites</i>
+<i>ce que je crois...</i>
+
+228
+00:15:05,567 --> 00:15:07,683
+Il a allumé les moteurs.
+Accrochez-vous.
+
+229
+00:15:15,807 --> 00:15:17,525
+Que se passe-t-il ?
+
+230
+00:15:19,647 --> 00:15:20,875
+Les portes vont lâcher.
+
+231
+00:15:21,047 --> 00:15:22,765
+Fermez les écoutilles.
+
+232
+00:15:22,927 --> 00:15:24,519
+Toutes.
+
+233
+00:16:56,127 --> 00:16:58,163
+<i>Sheppard, Ronon,</i>
+<i>répondez.</i>
+
+234
+00:16:59,487 --> 00:17:02,285
+<i>Sheppard, Ronon,</i>
+<i>répondez.</i>
+
+235
+00:17:06,327 --> 00:17:08,522
+Toujours là.
+A peine.
+
+236
+00:17:09,687 --> 00:17:12,804
+- Je vous croyais morts.
+- Moi aussi.
+
+237
+00:17:12,967 --> 00:17:14,286
+Selon les lectures,
+
+238
+00:17:14,487 --> 00:17:16,239
+la salle était
+presque sous vide.
+
+239
+00:17:16,447 --> 00:17:19,678
+Ça a pris une minute
+pour repressuriser.
+
+240
+00:17:27,527 --> 00:17:29,279
+Ne bougez pas.
+
+241
+00:17:31,847 --> 00:17:32,962
+Teyla ?
+
+242
+00:17:33,127 --> 00:17:34,958
+<i>Teyla ?</i>
+
+243
+00:17:35,127 --> 00:17:37,561
+Je vais bien,
+mais Jamus est blessé.
+
+244
+00:17:37,727 --> 00:17:39,206
+Il aura besoin de soins.
+
+245
+00:17:39,367 --> 00:17:40,800
+<i>Il va devoir attendre.</i>
+
+246
+00:17:40,967 --> 00:17:44,277
+McKay,
+que s’est-il passé ?
+
+247
+00:17:44,447 --> 00:17:48,520
+Herick s’est tué et a essayé
+de nous tuer. Il a peut-être réussi.
+
+248
+00:17:48,687 --> 00:17:51,076
+<i>Il a ouvert la porte arrière</i>
+<i>de la navette</i>
+
+249
+00:17:51,247 --> 00:17:54,444
+- avant d’allumer les moteurs.
+<i>- Pourquoi ferait-il ça ?</i>
+
+250
+00:17:54,607 --> 00:17:56,677
+Je ne le connaissais pas assez...
+
+251
+00:17:56,847 --> 00:17:58,519
+Que savez-vous ?
+
+252
+00:17:59,927 --> 00:18:02,885
+Les compartiments entre nous
+sont sous vide.
+
+253
+00:18:03,047 --> 00:18:05,402
+Sûrement endommagés
+par l’explosion.
+
+254
+00:18:05,567 --> 00:18:07,956
+- On est isolés.
+- Quoi d’autre ?
+
+255
+00:18:08,127 --> 00:18:09,196
+Il me faut du temps
+
+256
+00:18:09,407 --> 00:18:12,285
+pour évaluer à quel point
+on est foutus.
+
+257
+00:18:18,807 --> 00:18:21,321
+- Herick ?
+- Nous croyons qu’il s’est tué
+
+258
+00:18:21,967 --> 00:18:23,286
+et a essayé de nous tuer.
+
+259
+00:18:23,447 --> 00:18:25,483
+- Mais pourquoi...
+- Ne bougez pas
+
+260
+00:18:25,647 --> 00:18:28,081
+tant qu’on ignore
+la gravité de vos blessures.
+
+261
+00:18:28,247 --> 00:18:32,445
+- Et le module ?
+- Il semble intact.
+
+262
+00:18:36,847 --> 00:18:40,442
+Ne bougez pas.
+Votre épaule est déboîtée.
+
+263
+00:18:42,367 --> 00:18:44,323
+Attendez Beckett.
+
+264
+00:18:44,487 --> 00:18:47,206
+Sans nouvelles de nous,
+Weir enverra une équipe.
+
+265
+00:18:47,367 --> 00:18:51,201
+Ça ne devrait pas tarder.
+
+266
+00:19:00,527 --> 00:19:02,040
+C’est perturbant.
+
+267
+00:19:02,207 --> 00:19:04,004
+Je n’aime pas attendre.
+
+268
+00:19:04,167 --> 00:19:07,284
+<i>C’est l’heure du rapport</i>
+<i>A-quel-point-est-on-foutus.</i>
+
+269
+00:19:07,447 --> 00:19:08,596
+Allez-y.
+
+270
+00:19:08,767 --> 00:19:11,645
+Pas moyen de sceller
+les compartiments entre nous d’ici.
+
+271
+00:19:11,807 --> 00:19:13,126
+Trop d’ouvertures.
+
+272
+00:19:13,287 --> 00:19:15,482
+Herick voulait nous vider
+dans l’espace.
+
+273
+00:19:15,647 --> 00:19:17,717
+Je vais voir
+ce que je peux faire.
+
+274
+00:19:17,887 --> 00:19:20,276
+On n’a pas l’air trop foutus.
+
+275
+00:19:20,447 --> 00:19:21,926
+<i>Je n’ai pas fini.</i>
+
+276
+00:19:22,087 --> 00:19:23,805
+Comme la navette était attachée
+
+277
+00:19:23,967 --> 00:19:26,481
+et qu’elle a épuisé son carburant,
+
+278
+00:19:26,647 --> 00:19:28,717
+la lune est sortie
+de son orbite.
+
+279
+00:19:29,287 --> 00:19:30,436
+On a combien de temps ?
+
+280
+00:19:30,607 --> 00:19:32,757
+<i>Avant de brûler vifs</i>
+<i>ou de suffoquer ?</i>
+
+281
+00:19:32,927 --> 00:19:35,999
+Le réacteur s’est éteint
+pendant tout ça.
+
+282
+00:19:36,167 --> 00:19:37,919
+Nous utilisons
+l’énergie de secours
+
+283
+00:19:38,087 --> 00:19:40,840
+dont l’essentiel alimente
+le module de stockage.
+
+284
+00:19:41,007 --> 00:19:42,486
+Je ne sais pas.
+Choisissez.
+
+285
+00:19:42,647 --> 00:19:43,762
+Pas encore fini.
+
+286
+00:19:43,927 --> 00:19:47,283
+Le Jumper a été projeté
+hors du point d’arrimage,
+
+287
+00:19:47,447 --> 00:19:49,722
+donc nous ne pouvons
+quitter ce rocher.
+
+288
+00:19:51,047 --> 00:19:52,719
+Weir enverra des secours.
+
+289
+00:19:52,887 --> 00:19:54,286
+<i>Il reste peu de temps.</i>
+
+290
+00:19:54,447 --> 00:19:56,881
+La lune était déjà
+en orbite basse au départ.
+
+291
+00:19:57,047 --> 00:19:59,402
+Nous frôlons
+l’atmosphère extérieure.
+
+292
+00:19:59,567 --> 00:20:03,003
+- On va ralentir.
+- Trouvez un plan brillant.
+
+293
+00:20:03,207 --> 00:20:07,439
+C’est votre point fort.
+Sans utiliser trop d’oxygène.
+
+294
+00:20:08,847 --> 00:20:11,520
+Je dois répéter
+tout ce que je viens de dire ?
+
+295
+00:20:11,687 --> 00:20:14,520
+On n’abandonne pas les nôtres.
+Vous avez oublié ?
+
+296
+00:20:15,527 --> 00:20:16,926
+- Non.
+<i>- Bien.</i>
+
+297
+00:20:17,087 --> 00:20:19,157
+Ils viendront nous sortir de là.
+
+298
+00:20:19,327 --> 00:20:23,002
+<i>- C’est clair ?</i>
+- Oui. McKay terminé.
+
+299
+00:20:30,727 --> 00:20:32,285
+Je suis désolé.
+
+300
+00:20:32,447 --> 00:20:33,766
+Vous vous en voulez ?
+
+301
+00:20:34,367 --> 00:20:37,598
+J’ai donné l’ordre
+qui a tué la famille d’Herick.
+
+302
+00:20:38,887 --> 00:20:40,605
+Vous avez pris
+une dure décision.
+
+303
+00:20:41,167 --> 00:20:44,398
+Si des milliers d’âmes
+peuvent être sauvées,
+
+304
+00:20:44,567 --> 00:20:46,637
+ça aura été la bonne.
+
+305
+00:20:50,887 --> 00:20:52,957
+- Je suis pas doué pour ça.
+- Quoi ?
+
+306
+00:20:53,687 --> 00:20:54,881
+Attendre la mort.
+
+307
+00:20:55,047 --> 00:20:56,639
+Alors n’y pensez pas.
+
+308
+00:20:56,807 --> 00:20:58,240
+Je hais
+les espaces confinés.
+
+309
+00:20:58,487 --> 00:20:59,522
+Il y a pire.
+
+310
+00:20:59,687 --> 00:21:02,599
+- Je préfère mourir en me battant.
+- Et moi vivre.
+
+311
+00:21:03,047 --> 00:21:05,686
+- Je disais juste...
+- Ok, écoutez.
+
+312
+00:21:05,847 --> 00:21:08,077
+Si ce caillou se désintègre,
+
+313
+00:21:08,247 --> 00:21:10,363
+on se battra à mort.
+Entendu ?
+
+314
+00:21:11,847 --> 00:21:13,439
+Entendu.
+
+315
+00:21:16,607 --> 00:21:18,359
+Bon...
+
+316
+00:21:23,687 --> 00:21:26,201
+Oh, non, non.
+
+317
+00:21:26,367 --> 00:21:28,801
+<i>- J’ai un problème ici.</i>
+- Qu’y a-t-il ?
+
+318
+00:21:35,447 --> 00:21:36,516
+Je suis vivant.
+
+319
+00:21:39,567 --> 00:21:42,479
+Je suis mort.
+Je suis trop mort !
+
+320
+00:21:45,767 --> 00:21:47,803
+<i>Rodney,</i>
+<i>que se passe-t-il ?</i>
+
+321
+00:21:47,967 --> 00:21:51,164
+La vitre de la salle de contrôle
+a été touchée par des débris.
+
+322
+00:21:51,327 --> 00:21:52,396
+<i>Elle va céder.</i>
+
+323
+00:21:52,567 --> 00:21:55,957
+- McKay ?
+- Je ne peux pas parler maintenant.
+
+324
+00:22:15,327 --> 00:22:16,965
+On a perdu
+la salle de contrôle.
+
+325
+00:22:17,127 --> 00:22:19,846
+Elle ne contrôlait pas grand-chose
+de toute facon.
+
+326
+00:22:20,007 --> 00:22:22,362
+C’est vrai. Bien.
+
+327
+00:22:22,527 --> 00:22:26,998
+Je vais chercher un moyen
+de sceller les compartiments.
+
+328
+00:22:28,127 --> 00:22:31,961
+Ça serait sympa
+si on se désintégrait tous ensemble.
+
+329
+00:22:33,127 --> 00:22:35,846
+<i>Désolé, je voulais dire</i>
+<i>quand on sera sauvé.</i>
+
+330
+00:22:36,007 --> 00:22:38,521
+<i>Je confonds toujours</i>
+<i>ces deux-là.</i>
+
+331
+00:23:23,847 --> 00:23:25,917
+Si vous tenez les comptes,
+nouveau souci.
+
+332
+00:23:26,087 --> 00:23:27,918
+<i>Je ne peux rien sceller.</i>
+
+333
+00:23:28,087 --> 00:23:30,362
+- <i>Une écoutille ne ferme pas.</i>
+- Pourquoi ?
+
+334
+00:23:30,527 --> 00:23:32,722
+Toute la cloison s’est tordue
+
+335
+00:23:32,887 --> 00:23:35,845
+quand Sammy Suicide a décidé
+d’allumer sa fusée.
+
+336
+00:23:36,007 --> 00:23:38,726
+- Il nous faut cette écoutille.
+<i>- Je sais.</i>
+
+337
+00:23:38,927 --> 00:23:42,556
+C’est moi qui vous l’ai dit.
+Je vais essayer.
+
+338
+00:23:48,007 --> 00:23:50,840
+- Ça fait plus d’une heure ?
+- Oui, madame.
+
+339
+00:23:51,007 --> 00:23:53,919
+Bien, contactez-les.
+
+340
+00:23:55,687 --> 00:23:57,678
+Colonel Sheppard,
+vous me recevez ?
+
+341
+00:23:57,847 --> 00:24:00,805
+Cinq sur 5
+et vous tombez à pic.
+
+342
+00:24:01,007 --> 00:24:04,397
+<i>Envoyez Beckett et une équipe</i>
+<i>de secours immédiatement.</i>
+
+343
+00:24:04,567 --> 00:24:06,000
+Faites-le.
+
+344
+00:24:07,007 --> 00:24:09,237
+<i>- Que s’est-il passé ?</i>
+- On est bloqués
+
+345
+00:24:09,407 --> 00:24:11,637
+<i>sur une lune endommagée</i>
+<i>en orbite déclinante,</i>
+
+346
+00:24:11,807 --> 00:24:14,844
+coupés les uns des autres
+et on a perdu le Jumper.
+
+347
+00:24:15,007 --> 00:24:17,521
+C’est pas fini,
+mais vous avez l’idée générale.
+
+348
+00:24:17,687 --> 00:24:19,564
+L’aide arrive.
+Que peut-on faire ?
+
+349
+00:24:19,727 --> 00:24:21,319
+Vous dépêcher.
+
+350
+00:24:28,967 --> 00:24:30,559
+<i>Ici le major Lorne.</i>
+
+351
+00:24:30,767 --> 00:24:32,359
+Nous sommes en postcombustion.
+
+352
+00:24:32,527 --> 00:24:34,324
+<i>Nous serons là</i>
+<i>en un rien de temps.</i>
+
+353
+00:24:34,487 --> 00:24:37,320
+Bien recu. Convertissez
+l’occulteur du Jumper
+
+354
+00:24:37,487 --> 00:24:39,876
+en bouclier
+pour l’étendre à la station.
+
+355
+00:24:40,047 --> 00:24:41,116
+On s’en occupe.
+
+356
+00:24:41,287 --> 00:24:43,926
+- Comment vont mes patients ?
+- Jamus vous attend.
+
+357
+00:24:44,087 --> 00:24:46,043
+Je serai là
+en moins de deux.
+
+358
+00:24:46,207 --> 00:24:47,276
+Vous entendez ?
+
+359
+00:24:47,447 --> 00:24:50,007
+<i>- Une lueur d’espoir.</i>
+<i>- Bien reçu, John.</i>
+
+360
+00:24:50,207 --> 00:24:52,118
+Nous sommes
+heureux de l’entendre.
+
+361
+00:24:54,767 --> 00:24:57,884
+- Vos amis arrivent ?
+- Oui. Et le Dr Beckett aussi.
+
+362
+00:24:58,047 --> 00:25:00,197
+- Il s’occupera de vous.
+- Et mon peuple ?
+
+363
+00:25:00,367 --> 00:25:03,120
+- Si c’est possible...
+- Il le faut.
+
+364
+00:25:03,287 --> 00:25:06,563
+Il y a un millier d’âmes
+dans ce module.
+
+365
+00:25:06,727 --> 00:25:09,525
+Tout un peuple disparaîtra
+si on ne fait rien.
+
+366
+00:25:12,927 --> 00:25:14,838
+<i>Dr McKay ?</i>
+
+367
+00:25:15,007 --> 00:25:17,282
+Je suis occupé,
+rappelez plus tard.
+
+368
+00:25:17,447 --> 00:25:19,278
+<i>C’est important pour Jamus.</i>
+
+369
+00:25:19,447 --> 00:25:20,516
+Qu’y a-t-il ?
+
+370
+00:25:22,127 --> 00:25:26,439
+Serait-il possible de ramener
+les gens stockés avec nous ?
+
+371
+00:25:26,607 --> 00:25:28,723
+<i>Non, aucune chance.</i>
+<i>Écoutez.</i>
+
+372
+00:25:29,127 --> 00:25:32,756
+Les batteries s’épuiseraient
+le temps de les relier à une source.
+
+373
+00:25:32,927 --> 00:25:36,886
+Si je pouvais garder l’appareil
+dans le compartiment, peut-être.
+
+374
+00:25:37,047 --> 00:25:39,720
+Mais nous ne resterons pas
+si longtemps.
+
+375
+00:25:40,007 --> 00:25:42,237
+Orbite déclinante,
+je vous rappelle.
+
+376
+00:25:42,407 --> 00:25:43,840
+Il y a une bonne chance
+
+377
+00:25:44,007 --> 00:25:46,043
+- qu’on puisse les sauver.
+<i>- Quoi ?</i>
+
+378
+00:25:46,247 --> 00:25:48,158
+Non, j’ai dit, non.
+
+379
+00:25:48,807 --> 00:25:51,879
+- Jamus sera ravi de l’entendre.
+<i>- Qu’est-ce...</i>
+
+380
+00:25:52,047 --> 00:25:54,607
+Oui, dites-lui,
+aucun problème.
+
+381
+00:25:54,767 --> 00:25:56,803
+Plus on est de fous,
+plus on rit.
+
+382
+00:26:00,087 --> 00:26:03,875
+Le Dr McKay m’assure
+que ce sera possible.
+
+383
+00:26:11,847 --> 00:26:13,997
+<i>Nous y sommes.</i>
+
+384
+00:26:27,487 --> 00:26:31,765
+Allez, ferme-toi.
+
+385
+00:26:32,407 --> 00:26:34,079
+Qu’est-ce que...
+
+386
+00:26:34,247 --> 00:26:35,726
+Et si je prenais le relais ?
+
+387
+00:26:35,887 --> 00:26:37,036
+Dieu merci.
+
+388
+00:26:37,207 --> 00:26:40,404
+Il faut fermer l’écoutille
+pour faire sortir les autres.
+
+389
+00:26:40,567 --> 00:26:42,319
+Pas de problème.
+
+390
+00:26:42,487 --> 00:26:44,637
+- Retournez au Jumper.
+- Non.
+
+391
+00:26:44,807 --> 00:26:47,116
+Non, on n’abandonne pas
+les nôtres.
+
+392
+00:26:49,567 --> 00:26:51,000
+Vous n’irez nulle part.
+
+393
+00:26:51,167 --> 00:26:53,806
+Vous allez voir
+le temps qu’il reste
+
+394
+00:26:53,967 --> 00:26:56,606
+avant que la lune n’entre
+dans l’atmosphère.
+
+395
+00:26:56,767 --> 00:26:58,280
+Entendu.
+
+396
+00:27:12,727 --> 00:27:15,241
+<i>- Teyla, vous m’entendez ?</i>
+- Oui, Dr Beckett.
+
+397
+00:27:15,407 --> 00:27:17,284
+C’est bon de vous entendre.
+
+398
+00:27:17,447 --> 00:27:20,678
+Vous aussi,
+nous allons repressuriser très vite.
+
+399
+00:27:22,567 --> 00:27:24,285
+<i>Attendez juste un peu.</i>
+
+400
+00:27:26,847 --> 00:27:30,237
+Nos sauveteurs sont là,
+nous allons vite sortir.
+
+401
+00:27:30,407 --> 00:27:31,920
+Et le module ?
+
+402
+00:27:33,487 --> 00:27:36,160
+Nous ferons tout notre possible.
+
+403
+00:27:36,727 --> 00:27:41,847
+Hadon Fortum est
+notre plus grand poète.
+
+404
+00:27:42,247 --> 00:27:44,602
+Il est stocké dans ce module.
+
+405
+00:27:45,607 --> 00:27:48,075
+Nos grands scientifiques,
+Torral et Barnam
+
+406
+00:27:48,247 --> 00:27:50,556
+sont stockés là aussi.
+
+407
+00:27:51,607 --> 00:27:53,598
+Avec 200 enfants.
+
+408
+00:27:53,767 --> 00:27:55,962
+Vous devez me promettre.
+
+409
+00:27:56,527 --> 00:28:02,477
+Je le voudrais, mais c’est
+indépendant de ma volonté.
+
+410
+00:28:10,327 --> 00:28:12,283
+Nous avons bien scellé l’écoutille.
+
+411
+00:28:12,447 --> 00:28:14,915
+La station se repressurise.
+
+412
+00:28:18,527 --> 00:28:21,200
+On peut y aller.
+
+413
+00:28:26,407 --> 00:28:28,682
+Colonel, Teyla,
+vous pouvez ouvrir.
+
+414
+00:28:28,847 --> 00:28:30,758
+Super. McKay,
+combien de temps ?
+
+415
+00:28:30,927 --> 00:28:33,680
+<i>Peu. On se rapproche</i>
+<i>de l’atmosphère.</i>
+
+416
+00:28:33,847 --> 00:28:35,803
+<i>La prochaine orbite sera fatale.</i>
+
+417
+00:28:36,287 --> 00:28:38,517
+Il est temps de partir.
+
+418
+00:28:50,327 --> 00:28:51,919
+Jamus, que faites-vous ?
+
+419
+00:28:52,087 --> 00:28:53,725
+Je ne peux pas
+vous laisser partir.
+
+420
+00:28:55,087 --> 00:28:57,840
+Pas avant d’avoir assuré
+la sécurité de mon peuple.
+
+421
+00:29:02,727 --> 00:29:04,604
+Teyla, ouvrez,
+c’est sécurisé.
+
+422
+00:29:05,967 --> 00:29:07,958
+- Salut, doc.
+- Colonel.
+
+423
+00:29:08,127 --> 00:29:09,116
+Ronon, ça va ?
+
+424
+00:29:09,287 --> 00:29:10,959
+- Oui.
+- Quel est le problème ?
+
+425
+00:29:11,127 --> 00:29:13,687
+La salle de Teyla est verrouillée
+de l’intérieur.
+
+426
+00:29:14,807 --> 00:29:15,922
+Teyla ?
+
+427
+00:29:16,087 --> 00:29:17,918
+<i>Ouvrez,</i>
+<i>nous devons partir.</i>
+
+428
+00:29:18,087 --> 00:29:19,440
+Je ne peux pas, John.
+
+429
+00:29:19,607 --> 00:29:22,724
+Jamus a mon arme
+et ne me laissera pas partir
+
+430
+00:29:22,887 --> 00:29:25,355
+avant qu’on ait préservé le module.
+
+431
+00:29:25,687 --> 00:29:27,917
+- Dites-lui qu’on va essayer.
+<i>- Déjà fait.</i>
+
+432
+00:29:28,127 --> 00:29:29,321
+Il ne me croit pas.
+
+433
+00:29:30,207 --> 00:29:31,481
+Passez-lui la radio.
+
+434
+00:29:37,967 --> 00:29:40,401
+<i>- Jamus, vous m’entendez ?</i>
+- Oui.
+
+435
+00:29:40,567 --> 00:29:42,080
+<i>Écoutez-moi bien.</i>
+
+436
+00:29:42,247 --> 00:29:44,761
+Si on avait le temps,
+on sauverait l’appareil.
+
+437
+00:29:44,927 --> 00:29:46,326
+Vous le savez.
+
+438
+00:29:46,487 --> 00:29:48,876
+On a fini dans ce pétrin
+
+439
+00:29:49,047 --> 00:29:51,003
+en vous proposant notre aide.
+
+440
+00:29:51,167 --> 00:29:53,920
+<i>On peut vous sauver.</i>
+<i>On parle de votre vie.</i>
+
+441
+00:29:54,087 --> 00:29:56,555
+Alors ouvrez la porte.
+
+442
+00:29:56,727 --> 00:29:57,876
+J’ai son arme.
+
+443
+00:30:01,847 --> 00:30:04,805
+Ce caillou va se désintégrer
+dans l’atmosphère.
+
+444
+00:30:04,967 --> 00:30:06,923
+Si vous n’ouvrez pas,
+vous mourrez.
+
+445
+00:30:07,087 --> 00:30:09,043
+Je mourrai avec mon peuple.
+
+446
+00:30:09,487 --> 00:30:11,523
+<i>Laissez sortir Teyla</i>
+
+447
+00:30:11,687 --> 00:30:14,155
+<i>et vous mourrez</i>
+<i>avec votre peuple.</i>
+
+448
+00:30:16,607 --> 00:30:18,325
+Apportez le chalumeau.
+
+449
+00:30:20,967 --> 00:30:22,525
+Jamus ?
+
+450
+00:30:22,807 --> 00:30:25,162
+Nous ouvrirons la porte
+quoi qu’il arrive.
+
+451
+00:30:25,327 --> 00:30:27,158
+Si on emploie la manière forte,
+
+452
+00:30:27,327 --> 00:30:30,763
+mon offre de vous ramener
+avec nous ne tient plus.
+
+453
+00:30:32,607 --> 00:30:34,723
+Il n’y a rien d’autre à ajouter.
+
+454
+00:30:38,847 --> 00:30:41,645
+Sacrifier votre vie
+ne les sauvera pas.
+
+455
+00:30:42,087 --> 00:30:43,998
+Ma vie importe peu.
+
+456
+00:30:45,487 --> 00:30:48,797
+Si vous vivez,
+leur mémoire sera préservée.
+
+457
+00:30:48,967 --> 00:30:51,800
+Vous ne saisissez pas
+ce qui est en jeu.
+
+458
+00:30:52,727 --> 00:30:54,797
+Combien se sont sacrifiés
+
+459
+00:30:54,967 --> 00:30:58,084
+pour que notre peuple ait
+un avenir ?
+
+460
+00:30:58,247 --> 00:31:01,762
+Les ressources de cinq générations
+ont construit cette station.
+
+461
+00:31:01,927 --> 00:31:03,883
+On a mené une guerre
+perdue d’avance
+
+462
+00:31:04,047 --> 00:31:07,403
+- pour créer cet avenir.
+- Perdue d’avance ?
+
+463
+00:31:09,527 --> 00:31:12,360
+On a compris
+que sans survivants,
+
+464
+00:31:12,527 --> 00:31:14,404
+les Wraiths ne reviendraient pas.
+
+465
+00:31:14,567 --> 00:31:18,242
+On a créé des armes pour s’assurer
+qu’à la fin de la guerre
+
+466
+00:31:18,407 --> 00:31:20,967
+il n’y aurait aucun survivant.
+
+467
+00:31:21,127 --> 00:31:24,358
+- Vous avez tué votre peuple ?
+- On a tué des Wraiths.
+
+468
+00:31:24,527 --> 00:31:28,236
+Chaque vaisseau Wraith a été frappé
+d’une arme atomique.
+
+469
+00:31:28,407 --> 00:31:32,719
+Nous savions que le nuage radioactif
+gagnerait chaque continent.
+
+470
+00:31:33,487 --> 00:31:36,559
+La planète serait inhabitable
+pendant des années.
+
+471
+00:31:36,727 --> 00:31:38,126
+Et vous avez construit ça.
+
+472
+00:31:38,287 --> 00:31:42,724
+Pour reconstruire notre planète
+sans craindre le retour des Wraiths.
+
+473
+00:31:43,807 --> 00:31:44,796
+Vous comprenez,
+
+474
+00:31:44,967 --> 00:31:49,040
+ces âmes doivent survivre.
+
+475
+00:31:49,207 --> 00:31:54,600
+Sinon, les centaines de milliers
+de victimes de cette guerre
+
+476
+00:31:54,767 --> 00:31:56,598
+seront morts pour rien.
+
+477
+00:31:57,567 --> 00:31:59,523
+Non, non !
+
+478
+00:31:59,687 --> 00:32:02,679
+Votre vie est tout
+ce que j’ai à monnayer.
+
+479
+00:32:02,847 --> 00:32:04,838
+Je ne veux pas la prendre.
+
+480
+00:32:10,487 --> 00:32:12,205
+Ça prend trop de temps.
+
+481
+00:32:12,367 --> 00:32:14,403
+Je vais aussi vite
+que je peux.
+
+482
+00:32:14,567 --> 00:32:15,795
+A tout moment,
+
+483
+00:32:15,967 --> 00:32:18,401
+le colonel Sheppard va passer
+par cette porte.
+
+484
+00:32:18,567 --> 00:32:21,081
+Si vous me tirez dessus,
+ils vous tueront.
+
+485
+00:32:21,247 --> 00:32:23,966
+La seule façon de préserver
+votre peuple
+
+486
+00:32:24,127 --> 00:32:25,640
+est de préserver
+leur mémoire.
+
+487
+00:32:25,807 --> 00:32:27,718
+Si vous mourez,
+ils seront oubliés.
+
+488
+00:32:27,887 --> 00:32:31,163
+Leur mort sera oubliée
+et les Wraiths auront gagné.
+
+489
+00:32:32,927 --> 00:32:36,078
+Ou venez avec nous
+et maintenez l’esprit
+
+490
+00:32:36,247 --> 00:32:37,999
+de votre peuple vivant
+en vous.
+
+491
+00:32:38,167 --> 00:32:42,080
+Consignez leurs exploits,
+leurs luttes et triomphes.
+
+492
+00:32:42,247 --> 00:32:44,681
+Racontez leur histoire
+à qui veut l’entendre.
+
+493
+00:32:44,847 --> 00:32:46,997
+Le choix vous appartient.
+
+494
+00:32:52,687 --> 00:32:55,247
+Je ne comptais pas
+prendre votre vie.
+
+495
+00:32:55,647 --> 00:33:00,767
+J’espère que le colonel Sheppard
+était sincère en disant
+
+496
+00:33:00,927 --> 00:33:02,679
+qu’il n’abandonnera personne.
+
+497
+00:33:06,327 --> 00:33:08,045
+Colonel.
+
+498
+00:33:08,407 --> 00:33:09,840
+Colonel.
+
+499
+00:33:10,007 --> 00:33:12,840
+Vous pouvez arrêter.
+
+500
+00:33:13,007 --> 00:33:16,124
+Je suis prêt
+à ouvrir la porte.
+
+501
+00:33:19,287 --> 00:33:21,596
+Maintenant, il est prêt.
+
+502
+00:33:22,967 --> 00:33:25,197
+D’accord, ouvrez la porte.
+
+503
+00:33:25,927 --> 00:33:28,646
+Je veux voir votre arme au sol,
+les mains en l’air.
+
+504
+00:33:36,447 --> 00:33:39,996
+<i>Que se passe-t-il ?</i>
+<i>Je capte un autre pic d’énergie.</i>
+
+505
+00:34:01,127 --> 00:34:02,606
+Vous allez la sortir de là ?
+
+506
+00:34:02,767 --> 00:34:04,837
+J’ignore comment
+déterminer qui est qui.
+
+507
+00:34:05,007 --> 00:34:06,838
+- Si j’avais quelques heures.
+- Non.
+
+508
+00:34:07,007 --> 00:34:09,840
+Je sais, mais à moins
+qu’on les sorte au hasard...
+
+509
+00:34:10,007 --> 00:34:13,283
+- Il y a 1 000 personnes.
+- J’en suis conscient.
+
+510
+00:34:15,447 --> 00:34:16,596
+Il faut partir.
+
+511
+00:34:16,807 --> 00:34:18,525
+- Une minute.
+- On ne l’a pas.
+
+512
+00:34:18,687 --> 00:34:21,838
+Si ce caillou touche l’atmosphère,
+il se brisera.
+
+513
+00:34:22,007 --> 00:34:24,123
+Pouvez-vous déconnecter ça ?
+
+514
+00:34:24,287 --> 00:34:27,484
+Oui, mais je ne pourrais trouver
+de source compatible.
+
+515
+00:34:27,647 --> 00:34:29,478
+- Je parle pas du Jumper.
+- Quoi ?
+
+516
+00:34:29,647 --> 00:34:31,126
+Je rêve
+de piloter une navette.
+
+517
+00:34:31,287 --> 00:34:33,039
+- Non.
+- Déconnectez ça
+
+518
+00:34:33,207 --> 00:34:34,959
+et amenez-les au Jumper.
+
+519
+00:34:35,127 --> 00:34:38,244
+Vous aimez à penser
+que vous pouvez tout faire voler...
+
+520
+00:34:38,407 --> 00:34:41,001
+Déconnectez ça,
+c’est un ordre.
+
+521
+00:34:49,487 --> 00:34:50,681
+Il est fou.
+
+522
+00:34:50,847 --> 00:34:52,678
+Quel âge a ce truc ?
+
+523
+00:34:52,847 --> 00:34:54,041
+Et il est à sec.
+
+524
+00:34:54,207 --> 00:34:55,481
+Il dit qu’il peut voler.
+
+525
+00:34:55,647 --> 00:34:59,037
+- Vous réalisez que c’est de la folie.
+- Sûrement.
+
+526
+00:35:00,087 --> 00:35:01,315
+Vous êtes prêt.
+
+527
+00:35:01,487 --> 00:35:04,160
+A l’intérieur,
+il sera facile d’entrer l’appareil.
+
+528
+00:35:04,327 --> 00:35:05,919
+Allons-y.
+
+529
+00:35:06,087 --> 00:35:08,237
+Puis-je dire une chose ?
+
+530
+00:35:08,927 --> 00:35:10,758
+Tant que c’est rapide.
+
+531
+00:35:10,927 --> 00:35:12,724
+Ne faites pas ça,
+c’est impossible.
+
+532
+00:35:12,887 --> 00:35:16,323
+- On parie une semaine de salaire ?
+- Qui me paiera si je gagne ?
+
+533
+00:35:16,487 --> 00:35:18,159
+Merci de vous inquiéter.
+
+534
+00:35:18,327 --> 00:35:21,080
+Contactez Atlantis
+dès que vous serez en sécurité.
+
+535
+00:35:21,247 --> 00:35:23,920
+Restez à distance.
+J’essaie de garder le contact.
+
+536
+00:35:24,087 --> 00:35:27,966
+Vous me devez toujours
+un combat à mort.
+
+537
+00:35:30,927 --> 00:35:32,679
+J’attends ça
+avec impatience.
+
+538
+00:35:42,047 --> 00:35:44,515
+Sortez-nous de là, capitaine.
+
+539
+00:35:49,087 --> 00:35:51,476
+L’appareil est en place.
+
+540
+00:35:51,647 --> 00:35:54,559
+Le moteur interne s’est allumé
+automatiquement.
+
+541
+00:35:54,727 --> 00:35:57,116
+Je ferme l’écoutille arrière.
+
+542
+00:35:59,367 --> 00:36:00,766
+On se voit au sol.
+
+543
+00:36:01,567 --> 00:36:03,364
+Entendu.
+
+544
+00:36:03,527 --> 00:36:04,880
+Bonne chance.
+
+545
+00:36:10,007 --> 00:36:11,884
+<i>On est en sécurité.</i>
+
+546
+00:36:17,927 --> 00:36:20,122
+<i>La lune ralentit</i>
+<i>dans la haute atmosphère.</i>
+
+547
+00:36:20,287 --> 00:36:23,324
+<i>Vous avez quelques minutes</i>
+<i>pour comprendre les commandes.</i>
+
+548
+00:36:23,487 --> 00:36:25,682
+- Assez simple.
+<i>- Nous perdrons le contact</i>
+
+549
+00:36:25,847 --> 00:36:28,407
+<i>- quand vous franchirez l’atmosphère.</i>
+- Je sais.
+
+550
+00:36:28,567 --> 00:36:31,001
+Si vous avez quelque chose à dire,
+
+551
+00:36:31,167 --> 00:36:33,556
+- ça serait le moment.
+<i>- Non, pas vraiment.</i>
+
+552
+00:36:35,167 --> 00:36:36,566
+Secousses.
+
+553
+00:36:36,727 --> 00:36:39,082
+<i>Ce serait le moment</i>
+<i>de se décrocher.</i>
+
+554
+00:36:39,247 --> 00:36:42,125
+Espérons que les boulons explosifs
+le dégageront.
+
+555
+00:36:48,287 --> 00:36:49,800
+Initialisation de séparation
+
+556
+00:36:49,967 --> 00:36:51,559
+dans trois, deux,
+
+557
+00:36:52,087 --> 00:36:53,236
+<i>un,</i>
+
+558
+00:36:53,447 --> 00:36:55,324
+top.
+
+559
+00:36:57,847 --> 00:36:59,838
+Èchec.
+Commandes de secours.
+
+560
+00:37:06,007 --> 00:37:09,477
+Dégage-toi, allez.
+
+561
+00:37:10,687 --> 00:37:12,439
+Bon sang.
+
+562
+00:37:14,207 --> 00:37:16,641
+Les boulons ne marchent pas.
+Je répète.
+
+563
+00:37:16,807 --> 00:37:21,085
+<i>Les boulons explosifs</i>
+<i>ne se déclenchent pas. Èchec.</i>
+
+564
+00:37:21,487 --> 00:37:25,241
+Si vous m’entendez,
+je vais devoir descendre avec lui.
+
+565
+00:37:26,327 --> 00:37:28,318
+- Quoi ?
+- Il ne peut pas se séparer.
+
+566
+00:37:28,487 --> 00:37:30,478
+Il va brûler dans la lune.
+
+567
+00:38:06,247 --> 00:38:07,441
+Le voilà.
+
+568
+00:39:03,727 --> 00:39:05,638
+Posez-vous
+au plus près du crash.
+
+569
+00:39:05,807 --> 00:39:07,843
+- Oui.
+- Pouvez-vous dire s’il est vivant ?
+
+570
+00:39:08,007 --> 00:39:09,281
+Pas encore.
+Attendez.
+
+571
+00:39:11,407 --> 00:39:13,204
+Je détecte un signe de vie.
+
+572
+00:39:26,607 --> 00:39:30,520
+<i>Vous me devez</i>
+<i>une semaine de salaire, Rodney.</i>
+
+573
+00:39:30,687 --> 00:39:32,678
+Techniquement,
+je n’ai pas accepté.
+
+574
+00:39:35,767 --> 00:39:36,961
+Tenez bon.
+
+575
+00:39:37,287 --> 00:39:39,084
+<i>On arrive.</i>
+
+576
+00:39:39,327 --> 00:39:41,795
+Prenez votre temps, major.
+
+577
+00:39:44,767 --> 00:39:46,678
+Prenez votre temps.
+
+578
+00:39:54,527 --> 00:39:57,599
+J’ai l’atterrissage difficile
+et elle se repose ?
+
+579
+00:39:57,767 --> 00:40:00,156
+J’ai essayé de le convaincre
+que j’allais bien,
+
+580
+00:40:00,327 --> 00:40:01,840
+mais il a insisté.
+
+581
+00:40:02,007 --> 00:40:03,998
+Certaines personnes rematérialisées
+
+582
+00:40:04,167 --> 00:40:06,806
+souffrent
+de petites pertes de mémoire.
+
+583
+00:40:06,967 --> 00:40:09,879
+Je veux m’assurer
+que vous êtes entière.
+
+584
+00:40:10,047 --> 00:40:11,719
+Elle a l’air un peu maigre.
+
+585
+00:40:12,807 --> 00:40:14,957
+- Seulement jusqu’au matin.
+- Merci.
+
+586
+00:40:15,127 --> 00:40:17,960
+Je suppose que vous venez
+à l’infirmerie
+
+587
+00:40:18,127 --> 00:40:21,119
+- vous faire examiner la tête ?
+- Hé, j’ai réussi.
+
+588
+00:40:21,287 --> 00:40:23,039
+Oui, c’est vrai.
+
+589
+00:40:23,207 --> 00:40:25,163
+Je retourne
+à la tête des opérations.
+
+590
+00:40:25,327 --> 00:40:28,717
+Le major Lorne devait amener
+des provisions au peuple de Jamus.
+
+591
+00:40:28,887 --> 00:40:30,479
+Qu’allez-vous faire de lui ?
+
+592
+00:40:30,647 --> 00:40:34,720
+Ses blessures étaient telles
+qu’il n’a pas survécu.
+
+593
+00:40:41,487 --> 00:40:42,966
+Ça ne me brise pas le cœur.
+
+594
+00:40:43,447 --> 00:40:45,483
+Nous aurions fait la même chose.
+
+595
+00:40:45,647 --> 00:40:46,762
+Vous rigolez ?
+
+596
+00:40:46,927 --> 00:40:49,316
+Il vous a prise en otage
+et a failli nous tuer.
+
+597
+00:40:49,487 --> 00:40:52,445
+Il voulait sauver son peuple
+et il a réussi grâce à vous.
+
+598
+00:40:54,007 --> 00:40:55,599
+Je ne l’ai pas fait
+pour ça.
+
+599
+00:40:58,127 --> 00:40:59,196
+Je sais.
+
+600
+00:40:59,767 --> 00:41:03,760
+Ne vous sentez pas spéciale,
+je l’aurais fait pour n’importe qui.
+
+601
+00:41:03,927 --> 00:41:06,395
+- Bien sûr.
+- Sauf peut-être McKay.
+
+602
+00:41:06,567 --> 00:41:10,640
+- Même pour Rodney.
+- Peut-être.
+
+603
+00:41:37,887 --> 00:41:39,878
+<i>Traduction :</i>
+Caroline Grigoriou
+
+604
+00:41:40,047 --> 00:41:42,038
+[FRENCH]
+

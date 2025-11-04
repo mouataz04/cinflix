@@ -1,0 +1,3178 @@
+1
+00:00:02,040 --> 00:00:03,598
+<i>Dans les épisodes précédents.</i>
+
+2
+00:00:03,720 --> 00:00:05,119
+Que fais-tu ?
+
+3
+00:00:06,080 --> 00:00:07,115
+Non. Ne fais pas ça.
+
+4
+00:00:07,240 --> 00:00:08,514
+Ça va te soulager.
+
+5
+00:00:22,160 --> 00:00:23,957
+Qu'est-ce que tu as ?
+
+6
+00:00:24,080 --> 00:00:25,672
+Quoi... Que veux-tu dire ?
+
+7
+00:00:25,800 --> 00:00:27,233
+Je... Je ne t'ai jamais vu ainsi.
+
+8
+00:00:27,360 --> 00:00:28,679
+Oh. Depuis que tu me connais,
+
+9
+00:00:28,800 --> 00:00:29,994
+tu ne m'as jamais vu ainsi ?
+
+10
+00:00:30,120 --> 00:00:31,633
+Il n'y a pas de mal, Emily,
+
+11
+00:00:31,760 --> 00:00:33,910
+mais tu ne sais pas
+de quoi tu parles, si ?
+
+12
+00:00:35,240 --> 00:00:37,151
+<i>Plus tôt dans la matinée,</i>
+<i>Katrina frappait la côte du Golfe</i>
+
+13
+00:00:37,280 --> 00:00:38,269
+La Nouvelle-Orléans, Louisiane
+29 AOÛT 2005
+
+14
+00:00:38,400 --> 00:00:40,516
+<i>avec des rafales de vent</i>
+<i>de 200 km par heure.</i>
+
+15
+00:00:40,640 --> 00:00:44,838
+<i>Les habitants, ayant leur maison</i>
+<i>détruite, tentent d'évacuer.</i>
+
+16
+00:00:48,920 --> 00:00:50,069
+<i>Tu m'écoutes, papa ?</i>
+
+17
+00:00:50,200 --> 00:00:53,078
+<i>Prends ton portefeuille et casse-toi.</i>
+<i>Les bus sont pleins à craquer.</i>
+
+18
+00:00:53,200 --> 00:00:54,918
+Cette affaire me ronge, Billy.
+
+19
+00:00:55,040 --> 00:00:56,996
+<i>Papa, oublie cette affaire.</i>
+
+20
+00:00:57,120 --> 00:00:58,553
+Je rate quoi ?
+
+21
+00:00:58,680 --> 00:01:01,513
+<i>Les gens se noient dans leur maison.</i>
+<i>Les digues vont céder.</i>
+
+22
+00:01:01,640 --> 00:01:04,029
+<i>La paroisse est sous les eaux.</i>
+
+23
+00:01:04,160 --> 00:01:06,628
+- J'ai reçu une autre lettre, Billy.
+- <i>Oublie la lettre, papa !</i>
+
+24
+00:01:06,760 --> 00:01:08,910
+<i>Oublie le tueur en série.</i>
+<i>Ils ouvrent le Superdome.</i>
+
+25
+00:01:09,040 --> 00:01:10,917
+<i>Retrouve-moi là-bas.</i>
+
+26
+00:01:11,040 --> 00:01:12,712
+Diable.
+
+27
+00:01:12,840 --> 00:01:17,072
+<i>Allez. S'il te plaît.</i>
+<i>Je t'en supplie. Papa ?</i>
+
+28
+00:01:52,720 --> 00:01:53,835
+ANALYSE DU COMPORTEMENT
+QUANTICO, VIRGINIA
+
+29
+00:01:53,960 --> 00:01:55,029
+AUJOURD'HUI
+
+30
+00:01:55,160 --> 00:01:56,878
+On a un tueur en série
+à La Nouvelle-Orléans
+
+31
+00:01:57,000 --> 00:01:59,673
+qui a tué au moins trois hommes
+avant Katrina.
+
+32
+00:01:59,800 --> 00:02:01,836
+Le C.G. de la Nouvelle-Orléans pensait
+
+33
+00:02:01,960 --> 00:02:03,712
+que ce tueur en série était mort
+dans l'ouragan.
+
+34
+00:02:03,840 --> 00:02:05,159
+Qu'est-ce qui leur fait dire
+le contraire ?
+
+35
+00:02:05,280 --> 00:02:07,999
+Un 4e corps a été retrouvé
+la nuit dernière.
+
+36
+00:02:08,120 --> 00:02:11,556
+Le même M.O., un homme,
+la gorge tranchée, éventré.
+
+37
+00:02:11,680 --> 00:02:13,796
+Un an et demi.
+C'est une longue période de calme.
+
+38
+00:02:13,920 --> 00:02:15,239
+On est sûr
+que c'est le même coupable ?
+
+39
+00:02:15,360 --> 00:02:17,999
+Il le revendique. Il a envoyé une lettre
+à William Lamontagne,
+
+40
+00:02:18,120 --> 00:02:19,678
+l'inspecteur chargé de l'affaire.
+
+41
+00:02:19,800 --> 00:02:21,074
+Lamontagne a des pistes ?
+
+42
+00:02:21,200 --> 00:02:25,876
+Il est mort dans Katrina. Son fils
+est chargé de l'affaire aujourd'hui.
+
+43
+00:02:26,000 --> 00:02:27,194
+Ça ne doit pas être facile.
+
+44
+00:02:27,320 --> 00:02:28,355
+On doit étudier les preuves
+
+45
+00:02:28,480 --> 00:02:29,595
+depuis les 3 premiers meurtres
+
+46
+00:02:29,720 --> 00:02:31,950
+- et déterminer le modèle.
+- Katrina a tout balayé :
+
+47
+00:02:32,080 --> 00:02:36,517
+les trois victimes qu'on connaît,
+leur rapport d'autopsie, les témoins,
+
+48
+00:02:36,640 --> 00:02:37,629
+les résultats des tests A.D.N.
+
+49
+00:02:37,760 --> 00:02:41,355
+On n'a que la dernière victime
+comme point de départ ?
+
+50
+00:02:42,040 --> 00:02:43,917
+Jusqu'à ce qu'il tue à nouveau.
+
+51
+00:02:47,320 --> 00:02:48,389
+ESPRITS CRIMINELS
+
+52
+00:02:48,520 --> 00:02:49,748
+DÉPARTEMENT D'ANALYSE DU
+COMPORTEMENT QUANTICO - F.B.I.
+
+53
+00:02:53,160 --> 00:02:55,754
+MEURTRE
+
+54
+00:03:01,520 --> 00:03:03,590
+F.B.I. - DÉPARTEMENT D'ANALYSE
+DU COMPORTEMENT
+
+55
+00:03:03,720 --> 00:03:05,836
+Tuerie - À FLANC DE COTEAU
+
+56
+00:03:06,720 --> 00:03:07,709
+COUPABLE INCONNU
+
+57
+00:03:18,120 --> 00:03:23,114
+<i>Robert Kennedy a dit : "La tragédie</i>
+<i>est un outil de sagesse,</i>
+
+58
+00:03:23,240 --> 00:03:25,515
+<i>pas un mode de vie. "</i>
+
+59
+00:03:27,480 --> 00:03:30,438
+Reid, il se passe quoi là-haut ?
+
+60
+00:03:30,560 --> 00:03:34,678
+Je pensais à un vieil ami
+de Las Vegas, Ethan.
+
+61
+00:03:34,800 --> 00:03:36,199
+Je suis sûr qu'il vit
+à La Nouvelle-Orléans.
+
+62
+00:03:36,320 --> 00:03:37,992
+Vraiment ? Tu veux l'appeler ?
+
+63
+00:03:38,120 --> 00:03:40,475
+On a grandi en rivalisant sur tout.
+
+64
+00:03:40,600 --> 00:03:42,238
+Concours d'orthographe,
+concours scientifiques.
+
+65
+00:03:42,360 --> 00:03:45,591
+On avait tous les deux envie
+d'entrer dans le Bureau mais
+
+66
+00:03:45,720 --> 00:03:47,995
+il a fait marche arrière
+le premier jour à Quantico.
+
+67
+00:03:48,120 --> 00:03:50,475
+Il ne supportait peut-être
+pas la pression.
+
+68
+00:03:50,600 --> 00:03:53,592
+Ce n'est pas à nous de juger.
+
+69
+00:03:53,720 --> 00:03:56,075
+O.K. Ma faute.
+
+70
+00:03:56,200 --> 00:03:59,351
+Voici des copies d'articles de journaux
+sur les meurtres datant
+
+71
+00:03:59,480 --> 00:04:02,597
+du début du mois d'août 2005. Tout
+ce dont on a besoin pour commencer.
+
+72
+00:04:02,720 --> 00:04:04,631
+Il a tué trois fois.
+Il a fait une pause de 18 mois
+
+73
+00:04:04,760 --> 00:04:06,034
+et a recommencé à tuer.
+
+74
+00:04:06,160 --> 00:04:08,993
+Que Garcia sorte une liste
+des délinquants de la région.
+
+75
+00:04:09,120 --> 00:04:11,429
+De tous ceux ayant passé
+les 18 derniers mois en prison.
+
+76
+00:04:11,560 --> 00:04:14,313
+Ou de tous ceux qui ont déménagé
+après Katrina et qui sont revenus.
+
+77
+00:04:14,440 --> 00:04:17,113
+Quelle est la victimologie
+dans le meurtre d'un mécanicien,
+
+78
+00:04:17,240 --> 00:04:19,151
+d'un agent immobilier et d'un cuisinier
+
+79
+00:04:19,280 --> 00:04:21,840
+âgés de 22 à 45 ans ?
+
+80
+00:04:21,960 --> 00:04:24,918
+Son dernier est
+un chauffeur de taxi âgé de 33 ans.
+
+81
+00:04:25,040 --> 00:04:26,712
+Ils n'ont apparemment
+rien en commun.
+
+82
+00:04:26,840 --> 00:04:28,990
+Sauf d'être un homme
+dans le Quartier français la nuit.
+
+83
+00:04:29,120 --> 00:04:31,475
+Célèbre pour attirer les foules.
+
+84
+00:04:31,600 --> 00:04:34,910
+Mais l'homme n'est pas pressé
+de quitter la scène.
+
+85
+00:04:35,040 --> 00:04:36,632
+Un tel massacre prend du temps.
+
+86
+00:04:36,760 --> 00:04:39,115
+Pour Andrei Chikatilo, les hommes
+qu'il tuait était ses prisonniers.
+
+87
+00:04:39,240 --> 00:04:41,959
+En les torturant et mutilant,
+il pensait devenir un héros.
+
+88
+00:04:42,080 --> 00:04:44,196
+La ville revient à peine à la vie.
+
+89
+00:04:44,320 --> 00:04:46,072
+Un truc pareil pourrait la paralyser.
+
+90
+00:04:46,200 --> 00:04:47,553
+Où commence-t-on ?
+
+91
+00:04:47,680 --> 00:04:51,355
+Sans dossier,
+on commence à la case départ.
+
+92
+00:04:51,480 --> 00:04:53,391
+Le second coup de l'éventreur ?
+
+93
+00:04:57,960 --> 00:04:58,915
+LA NOUVELLE-ORLÉANS,
+LOUISIANE
+
+94
+00:04:59,040 --> 00:05:01,235
+Vous êtes du Département.
+Bill Lamontagne.
+
+95
+00:05:01,360 --> 00:05:04,238
+Bonjour. Jennifer Jareau.
+On s'est parlés au téléphone.
+
+96
+00:05:04,360 --> 00:05:07,272
+Oui. Je vous imaginais autrement.
+
+97
+00:05:08,480 --> 00:05:10,152
+Voici les agents Gideon et Morgan.
+
+98
+00:05:10,280 --> 00:05:13,192
+Voici l'inspecteur
+William Lamontagne Jr.
+
+99
+00:05:13,320 --> 00:05:15,117
+Content de vous savoir ici.
+
+100
+00:05:15,240 --> 00:05:17,470
+Mon père était trop têtu
+pour demander de l'aide.
+
+101
+00:05:17,600 --> 00:05:19,318
+Mes condoléances.
+
+102
+00:05:21,160 --> 00:05:22,513
+Vous avez reçu une lettre.
+
+103
+00:05:22,640 --> 00:05:26,030
+Oui. Avant de disparaître dans Katrina,
+mon père en a reçu 2 autres.
+
+104
+00:05:26,160 --> 00:05:27,832
+Celle-ci lui est arrivée hier.
+
+105
+00:05:27,960 --> 00:05:29,279
+Et elle m'a été transmise.
+
+106
+00:05:29,400 --> 00:05:31,675
+Vous êtes sûr
+qu'elle vient du même tueur ?
+
+107
+00:05:31,800 --> 00:05:33,916
+C'est un rapport détaillé
+de ce qu'il a fait au corps.
+
+108
+00:05:35,200 --> 00:05:38,237
+Quatre couches de tissus graisseux,
+coupés comme dans du beurre.
+
+109
+00:05:38,360 --> 00:05:40,032
+Je n'ai vu ça que trois fois.
+
+110
+00:05:40,160 --> 00:05:41,309
+Vous avez déjà travaillé sur ce cas ?
+
+111
+00:05:41,440 --> 00:05:44,796
+On n'oublie pas de telles victimes.
+Elles sont disséquées.
+
+112
+00:05:44,920 --> 00:05:46,638
+On sent encore l'alcool sur lui.
+
+113
+00:05:46,760 --> 00:05:50,196
+C'est La Nouvelle-Orléans. Mort ou vif,
+c'est une odeur à laquelle on s'habitue.
+
+114
+00:05:50,320 --> 00:05:51,753
+La victime n'a pas de blessures
+de défense.
+
+115
+00:05:51,880 --> 00:05:54,678
+Probablement une attaque surprise.
+
+116
+00:05:58,000 --> 00:06:00,594
+Pas de marques d'hésitation
+ou de coups rapides.
+
+117
+00:06:00,720 --> 00:06:03,359
+Les entailles sont méthodiques,
+presque procédurales.
+
+118
+00:06:03,480 --> 00:06:06,074
+Celui qui a étripé
+ce type a reçu des cours.
+
+119
+00:06:06,200 --> 00:06:07,872
+Il pourrait avoir
+une formation médicale ?
+
+120
+00:06:08,000 --> 00:06:11,151
+Comment pourrait-il couper autour
+des organes et les laisser intacts ?
+
+121
+00:06:11,280 --> 00:06:13,475
+Des parents sont venus réclamer
+le corps ?
+
+122
+00:06:13,600 --> 00:06:14,635
+Quelqu'un à contacter ?
+
+123
+00:06:14,760 --> 00:06:17,479
+Non. Je mettrai les cendres
+de ce pauvre type en boîte.
+
+124
+00:06:17,600 --> 00:06:19,591
+Elle ramassera la poussière.
+
+125
+00:06:19,720 --> 00:06:21,790
+Vu les corps
+que j'ai vu ces derniers 18 mois,
+
+126
+00:06:21,920 --> 00:06:24,480
+c'est surprenant
+que j'aie encore de la place.
+
+127
+00:06:30,480 --> 00:06:32,232
+C'est facile de se cacher
+dans une alcôve
+
+128
+00:06:32,360 --> 00:06:34,510
+et d'attendre la victime sans être vu.
+
+129
+00:06:34,640 --> 00:06:36,995
+Les 4 meurtres ont été commis
+dans un rayon de 10 pâtés
+
+130
+00:06:37,120 --> 00:06:38,917
+dans le Quartier français.
+
+131
+00:06:39,040 --> 00:06:41,110
+La nuit, il y a des milliers de gens
+
+132
+00:06:41,240 --> 00:06:42,878
+qui passent ici en revenant des bars.
+
+133
+00:06:43,000 --> 00:06:44,228
+Des dizaines de milliers.
+
+134
+00:06:44,360 --> 00:06:46,715
+Quand j'ai commencé,
+je patrouillais le Quartier.
+
+135
+00:06:46,840 --> 00:06:48,751
+C'était police-secours toutes les nuits.
+
+136
+00:06:48,880 --> 00:06:50,950
+Le dimanche, je quittais le boulot
+au lever du soleil,
+
+137
+00:06:51,080 --> 00:06:54,550
+prêt à m'endormir.
+Mon père m'attendait chez moi
+
+138
+00:06:54,680 --> 00:06:58,275
+pour que je l'emmène chez Frankie
+et Johnny manger un sandwich.
+
+139
+00:06:58,400 --> 00:07:00,436
+Il appelait ça : "Communion
+avec La Nouvelle-Orléans."
+
+140
+00:07:00,560 --> 00:07:03,313
+Votre père vous a-t-il parlé
+de cette affaire ?
+
+141
+00:07:03,440 --> 00:07:07,115
+Il a essayé mais vous devriez voir
+par vous-mêmes.
+
+142
+00:07:10,640 --> 00:07:13,552
+Le mur où il a gravé le message
+juste avant sa mort
+
+143
+00:07:13,680 --> 00:07:15,477
+est toujours debout.
+
+144
+00:07:19,280 --> 00:07:22,113
+Je suis sûr qu'il bosse encore dessus
+de sa tombe.
+
+145
+00:07:24,400 --> 00:07:26,675
+"Jones." Ce nom vous dit
+quelque chose ?
+
+146
+00:07:26,800 --> 00:07:29,792
+Non. J'ai étudié la base de données
+des délinquants.
+
+147
+00:07:29,920 --> 00:07:31,717
+Imaginez le nombre d'occurrences.
+
+148
+00:07:31,840 --> 00:07:34,479
+Mais rien en rapport avec cette affaire.
+
+149
+00:07:34,600 --> 00:07:36,397
+Mais dans les derniers moments
+de votre père,
+
+150
+00:07:36,520 --> 00:07:39,353
+c'était la chose la plus importante
+qu'il voulait dire.
+
+151
+00:07:39,480 --> 00:07:42,392
+J'ai appris à jouer de la batterie
+dans cette maison.
+
+152
+00:07:42,520 --> 00:07:45,080
+J'ai grandi avec deux chiens
+dans cette maison.
+
+153
+00:07:45,200 --> 00:07:48,158
+Il n'y a plus que ce mot "Jones"
+gravé dans le mur.
+
+154
+00:07:48,280 --> 00:07:50,350
+Inspecteur, s'il avait écrit
+le nom du coupable,
+
+155
+00:07:50,480 --> 00:07:52,436
+pensez-vous que vous l'auriez trouvé ?
+
+156
+00:07:52,560 --> 00:07:55,279
+"Jones" est une des pièces du puzzle
+que votre père connaissait.
+
+157
+00:07:55,400 --> 00:07:56,879
+Il vous faisait confiance
+pour résoudre le reste.
+
+158
+00:07:57,000 --> 00:07:58,274
+Oui. Je sais.
+
+159
+00:07:58,400 --> 00:08:02,996
+Je l'ai étudié des milliers de fois
+mais je n'arrive à rien.
+
+160
+00:08:03,400 --> 00:08:05,630
+Je ne peux pas m'empêcher
+d'y penser.
+
+161
+00:08:06,160 --> 00:08:08,151
+Ça me ronge tous les jours.
+
+162
+00:08:09,040 --> 00:08:10,314
+Vous allez bien ?
+
+163
+00:08:11,040 --> 00:08:14,555
+Oui. Je ne veux pas le décevoir.
+
+164
+00:08:19,840 --> 00:08:21,910
+- C'est la lettre du coupable ?
+- Oui.
+
+165
+00:08:22,040 --> 00:08:24,429
+"Je reviens me venger.
+Je voulais que vous le sachiez.
+
+166
+00:08:24,560 --> 00:08:25,675
+C'était facile avec le dernier,
+
+167
+00:08:25,800 --> 00:08:27,756
+dehors si tard, trébuchant soûl.
+
+168
+00:08:27,880 --> 00:08:31,429
+J'ai adoré découper ses organes.
+J'ai pensé à vous en envoyer un.
+
+169
+00:08:31,560 --> 00:08:34,996
+Il me demandait de l'éventrer,
+non, patron ? Cordialement."
+
+170
+00:08:35,120 --> 00:08:36,314
+Salut.
+
+171
+00:08:38,160 --> 00:08:39,275
+Salut.
+
+172
+00:08:40,440 --> 00:08:43,273
+Dire que les victimes voulaient
+être tuées nie toute culpabilité.
+
+173
+00:08:43,400 --> 00:08:45,197
+La plupart
+des sadiques sexuels rationalisent
+
+174
+00:08:45,320 --> 00:08:46,435
+en l'imputant aux victimes.
+
+175
+00:08:46,560 --> 00:08:49,472
+Il n'y a pas de preuve d'abus sexuel
+dans le rapport d'autopsie.
+
+176
+00:08:49,600 --> 00:08:51,591
+<i>Il pourrait être un homosexuel</i>
+
+177
+00:08:51,720 --> 00:08:54,075
+<i>qui poignarde parce que la violence</i>
+<i>est une excitation.</i>
+
+178
+00:08:54,200 --> 00:08:57,397
+<i>Tous ces meurtres sont pour lui</i>
+<i>une vengeance.</i>
+
+179
+00:08:57,520 --> 00:08:59,112
+S'il essayait d'exprimer
+quelque chose ?
+
+180
+00:08:59,240 --> 00:09:00,593
+- Comme quoi ?
+- Outre le fait que les victimes
+
+181
+00:09:00,720 --> 00:09:02,472
+<i>soient des hommes,</i>
+<i>c'est le même M. O.</i>
+
+182
+00:09:02,600 --> 00:09:03,794
+<i>De quoi parles-tu ?</i>
+
+183
+00:09:03,920 --> 00:09:05,956
+Les quatre victimes avaient
+la gorge tranchée,
+
+184
+00:09:06,080 --> 00:09:08,958
+éventrées, tués
+dans des lieux semi-publics la nuit,
+
+185
+00:09:09,080 --> 00:09:12,152
+<i>les enquêteurs accablés de lettres</i>
+<i>adressées au "patron".</i>
+
+186
+00:09:12,280 --> 00:09:13,918
+La seule différence est
+que cette affaire date
+
+187
+00:09:14,040 --> 00:09:16,395
+du siècle dernier et les meurtres
+ont été commis à Londres.
+
+188
+00:09:16,520 --> 00:09:18,033
+Jack l'Éventreur.
+
+189
+00:09:18,160 --> 00:09:19,388
+Le coupable veut qu'on pense
+
+190
+00:09:19,520 --> 00:09:21,636
+qu'il en est une version moderne
+à La Nouvelle-Orléans ?
+
+191
+00:09:22,920 --> 00:09:24,478
+Non. S'il vous plaît.
+
+192
+00:09:39,960 --> 00:09:42,030
+Vous étiez de sortie
+tous les trois hier soir ?
+
+193
+00:09:42,160 --> 00:09:44,071
+Mark a payé sa note dans un bar.
+
+194
+00:09:44,200 --> 00:09:45,553
+Il venait nous retrouver dans un autre.
+
+195
+00:09:45,680 --> 00:09:47,079
+Vous avez eu des ennuis ?
+
+196
+00:09:47,200 --> 00:09:48,838
+Une querelle d'ivrognes ?
+Une personne incontrôlable ?
+
+197
+00:09:48,960 --> 00:09:50,951
+On voulait juste s'amuser.
+
+198
+00:09:51,080 --> 00:09:52,229
+On ne s'occupait pas des autres.
+
+199
+00:09:52,360 --> 00:09:54,954
+Mark aurait-il rencontré une fille ?
+Ennuyé son petit copain ?
+
+200
+00:09:55,080 --> 00:09:56,149
+Non, monsieur.
+
+201
+00:09:56,280 --> 00:09:58,350
+Il rame comme nous tous.
+
+202
+00:09:58,480 --> 00:10:00,277
+- Merci.
+- Pas de problème.
+
+203
+00:10:03,280 --> 00:10:05,475
+Je peux à peine suivre ce type.
+
+204
+00:10:05,600 --> 00:10:09,434
+S'il imite Jack l'Éventreur, c'est le but.
+
+205
+00:10:09,560 --> 00:10:12,711
+Il a terrorisé Londres pendant des mois
+sans jamais être attrapé.
+
+206
+00:10:12,840 --> 00:10:14,796
+Rassemblez vos hommes.
+
+207
+00:10:14,920 --> 00:10:17,798
+On aimerait vous donner un profil
+de votre tueur.
+
+208
+00:10:17,920 --> 00:10:19,990
+Le délinquant qu'on recherche
+est sympathique,
+
+209
+00:10:20,120 --> 00:10:22,918
+agile, entre 30 et 35 ans.
+
+210
+00:10:23,040 --> 00:10:26,157
+Il séduit avec charme et tue avec rage.
+
+211
+00:10:26,280 --> 00:10:29,670
+On pense qu'il tue des hommes
+pour récupérer son pouvoir.
+
+212
+00:10:29,800 --> 00:10:31,358
+Le coupable a une faible estime de lui
+
+213
+00:10:31,480 --> 00:10:33,072
+mais il doit bien le cacher.
+
+214
+00:10:33,200 --> 00:10:35,634
+Il s'habille impeccablement
+pour cacher ses failles.
+
+215
+00:10:35,760 --> 00:10:39,469
+Jack l'Éventreur
+était un tueur impétueux.
+
+216
+00:10:39,600 --> 00:10:43,673
+Ce tueur est organisé, calculateur.
+
+217
+00:10:43,800 --> 00:10:47,713
+Il traque sans doute ses victimes
+pendant des jours avant de les tuer.
+
+218
+00:10:50,400 --> 00:10:53,278
+On pense que ce tueur
+s'identifie à Jack l'Éventreur.
+
+219
+00:10:53,400 --> 00:10:55,595
+Il a perdu sa propre identité.
+
+220
+00:10:55,720 --> 00:11:00,475
+En raison d'abus ou d'une catastrophe
+dans son enfance.
+
+221
+00:11:01,240 --> 00:11:03,879
+Comme il surcompense
+pour cacher ses insécurités,
+
+222
+00:11:04,000 --> 00:11:06,719
+on pense qu'il a une fonction
+d'autorité dans son travail.
+
+223
+00:11:06,840 --> 00:11:08,876
+Comme il a eu une formation médicale,
+
+224
+00:11:09,000 --> 00:11:12,470
+envisagez les urgentistes,
+docteurs, vétérinaires.
+
+225
+00:11:12,640 --> 00:11:17,031
+Soyez prudents. Le Quartier est
+un terrain de chasse pour le coupable.
+
+226
+00:11:17,160 --> 00:11:19,435
+Il a déjà prouvé
+qu'il connaissait le terrain.
+
+227
+00:11:37,000 --> 00:11:39,958
+Seigneur ! Reid, tu m'as fait peur.
+
+228
+00:11:40,080 --> 00:11:41,798
+J'ai toujours eu
+une longueur d'avance sur toi.
+
+229
+00:11:41,920 --> 00:11:44,593
+Si ça t'aide à dormir la nuit.
+
+230
+00:11:45,160 --> 00:11:47,230
+C'est super que tu aies appelé.
+Content de te voir.
+
+231
+00:11:47,360 --> 00:11:48,588
+Moi aussi.
+
+232
+00:11:49,200 --> 00:11:50,952
+Allons boire un verre.
+
+233
+00:11:53,960 --> 00:11:55,632
+- Prentiss.
+- <i>Quelle est la chose</i>
+
+234
+00:11:55,760 --> 00:11:57,796
+que Jack l'Éventreur prenait
+à ses victimes ?
+
+235
+00:11:57,920 --> 00:11:59,717
+<i>En plus de leur vie ?</i>
+
+236
+00:11:59,840 --> 00:12:00,909
+Oh...
+
+237
+00:12:02,680 --> 00:12:05,638
+Tic, tac.
+
+238
+00:12:06,960 --> 00:12:08,439
+Je ne sais pas.
+
+239
+00:12:08,560 --> 00:12:11,950
+Un rein.
+N'est-ce pas effroyablement génial ?
+
+240
+00:12:13,080 --> 00:12:14,513
+Je fais quoi avec ça ?
+
+241
+00:12:14,640 --> 00:12:16,517
+J'ai découvert un meurtre non résolu
+
+242
+00:12:16,640 --> 00:12:18,949
+commis il y a 4 mois
+à Galveston, Texas.
+
+243
+00:12:19,080 --> 00:12:22,993
+Même M.O. Ce même organe
+manquait à la victime.
+
+244
+00:12:25,040 --> 00:12:29,318
+- Je m'impressionne.
+- Moi aussi. Super boulot.
+
+245
+00:12:30,120 --> 00:12:32,190
+- Quoi ?
+- Garcia a trouvé une affaire identique
+
+246
+00:12:32,320 --> 00:12:33,514
+à Galveston, au Texas.
+
+247
+00:12:33,640 --> 00:12:35,437
+Beaucoup de réfugiés de Katrina
+ont déménagé là.
+
+248
+00:12:35,560 --> 00:12:38,836
+Ça pourrait être le même type.
+Il a ôté le rein comme Jack l'Éventreur.
+
+249
+00:12:38,960 --> 00:12:41,872
+Appelle Reid et Morgan.
+Prenez un avion pour le Texas ce soir.
+
+250
+00:12:42,000 --> 00:12:43,115
+D'accord.
+
+251
+00:12:48,480 --> 00:12:49,629
+Appel de Prentiss
+
+252
+00:12:52,120 --> 00:12:55,078
+Tu poses la question ?
+
+253
+00:12:56,080 --> 00:12:59,277
+- Quelle question ?
+- Allez, c'est moi.
+
+254
+00:13:00,000 --> 00:13:02,594
+On ne s'est plus parlés pendant
+des années. Tu m'as appelé pour ça.
+
+255
+00:13:02,720 --> 00:13:04,312
+Pose ta question.
+
+256
+00:13:05,560 --> 00:13:09,269
+Pourquoi es-tu parti après une seule
+journée de formation au F.B.I. ?
+
+257
+00:13:10,080 --> 00:13:11,229
+Bien,
+
+258
+00:13:13,120 --> 00:13:15,793
+je suis sûr
+que tu as évalué les preuves,
+
+259
+00:13:16,520 --> 00:13:18,351
+analysé les signes.
+
+260
+00:13:19,760 --> 00:13:20,954
+Quelle est ta théorie ?
+
+261
+00:13:21,080 --> 00:13:22,115
+Tu luttais contre tes démons.
+
+262
+00:13:22,240 --> 00:13:24,959
+Tu n'avais pas la place
+pour analyser ceux des autres.
+
+263
+00:13:25,080 --> 00:13:26,593
+Pas mal.
+
+264
+00:13:26,720 --> 00:13:30,110
+Je préférais Jack Daniels
+à Jeff Dahmer.
+
+265
+00:13:30,840 --> 00:13:33,798
+Mais ils ont tous les deux
+leur importance dans ta vie.
+
+266
+00:13:35,080 --> 00:13:36,274
+Désolé.
+
+267
+00:13:39,680 --> 00:13:41,352
+Le Bat-téléphone.
+
+268
+00:13:43,760 --> 00:13:46,991
+Ethan, le regrettes-tu parfois ?
+
+269
+00:13:48,720 --> 00:13:50,836
+Je ne changerai peut-être
+pas le monde, mais
+
+270
+00:13:50,960 --> 00:13:52,916
+ma musique me rend heureux.
+
+271
+00:13:53,600 --> 00:13:56,797
+Pas besoin d'un profileur
+pour voir que tu ne l'es pas.
+
+272
+00:13:59,680 --> 00:14:01,750
+C'est pas facile. C'est pas...
+
+273
+00:14:01,880 --> 00:14:05,350
+Je ne crois même pas
+à certaines choses que j'ai vues.
+
+274
+00:14:06,400 --> 00:14:09,517
+John Coltrane. C'était un génie.
+
+275
+00:14:09,640 --> 00:14:11,198
+Mort d'un cancer.
+
+276
+00:14:11,320 --> 00:14:14,630
+Les gens pensent que c'est l'alcool
+et l'héroïne qui l'ont tué.
+
+277
+00:14:14,760 --> 00:14:16,159
+Qu'essaies-tu de dire ?
+
+278
+00:14:16,280 --> 00:14:18,032
+Tu as une mine épouvantable.
+
+279
+00:14:19,240 --> 00:14:20,958
+- Je vais bien.
+- Allez.
+
+280
+00:14:21,080 --> 00:14:22,752
+Je suis musicien de jazz
+à La Nouvelle-Orléans.
+
+281
+00:14:22,880 --> 00:14:26,031
+Je sais
+quand quelqu'un ne va pas bien.
+
+282
+00:14:26,600 --> 00:14:31,390
+C'est sans doute la seule fois
+que je dis un truc que tu ignores.
+
+283
+00:14:31,520 --> 00:14:34,671
+Ça peut t'aider à oublier,
+mais ça ne fait rien partir.
+
+284
+00:14:34,800 --> 00:14:36,552
+Et si je peux...
+
+285
+00:14:37,640 --> 00:14:40,029
+Tu es entouré des meilleurs esprits
+au monde.
+
+286
+00:14:40,160 --> 00:14:42,515
+Si tu crois qu'ils ne remarquent pas...
+
+287
+00:14:43,640 --> 00:14:45,835
+Pour un génie,
+
+288
+00:14:47,360 --> 00:14:49,032
+c'est stupide.
+
+289
+00:14:54,400 --> 00:14:55,719
+- Salut.
+- Salut.
+
+290
+00:14:59,240 --> 00:15:00,673
+Où est Reid ?
+
+291
+00:15:01,520 --> 00:15:03,636
+- J'espérais qu'il serait avec toi.
+- Tu devais l'appeler.
+
+292
+00:15:03,760 --> 00:15:06,194
+Je l'ai fait. Quatre fois. Pas de réponse.
+
+293
+00:15:08,000 --> 00:15:11,993
+La fiancée de la victime nous attend.
+On fait quoi ?
+
+294
+00:15:14,680 --> 00:15:17,194
+On n'a pas le choix. On démarre.
+
+295
+00:15:22,120 --> 00:15:24,634
+Merci. Ça ne va pas.
+
+296
+00:15:24,760 --> 00:15:27,832
+Le Quartier est le seul endroit
+de la ville qui a échappé à Katrina
+
+297
+00:15:27,960 --> 00:15:29,678
+et un tueur en série y court en liberté.
+
+298
+00:15:29,800 --> 00:15:32,678
+C'est une petite zone.
+On limite le profil.
+
+299
+00:15:33,120 --> 00:15:34,678
+On le trouvera.
+
+300
+00:15:37,000 --> 00:15:39,594
+Vous buvez toujours en service ?
+
+301
+00:15:39,720 --> 00:15:42,871
+C'est La Nouvelle-Orléans.
+C'est culturel.
+
+302
+00:15:43,520 --> 00:15:45,238
+D'où venez-vous ?
+
+303
+00:15:45,920 --> 00:15:47,319
+De Pennsylvanie.
+
+304
+00:15:47,840 --> 00:15:52,118
+Les gens y sont un peu stricts
+sur les règles.
+
+305
+00:15:54,640 --> 00:15:56,676
+Si ça vous fait du bien,
+
+306
+00:15:58,000 --> 00:16:00,639
+on le jouera à la Pennsylvanie ce soir.
+
+307
+00:16:02,120 --> 00:16:04,998
+J'ai horreur que ce type
+ait une avance sur nous.
+
+308
+00:16:05,120 --> 00:16:09,796
+Dès que mon équipe sait
+quelque chose, on vous en informe.
+
+309
+00:16:12,400 --> 00:16:14,630
+Pourquoi ne vous êtes-vous
+pas mariée ?
+
+310
+00:16:17,280 --> 00:16:20,556
+Cela a-t-il un lien avec cette affaire ?
+
+311
+00:16:20,680 --> 00:16:23,433
+Non. Je drague.
+
+312
+00:16:25,200 --> 00:16:28,510
+Ce n'est pas professionnel.
+Ne répondez pas à ça.
+
+313
+00:16:28,640 --> 00:16:31,837
+Excusez-moi. Mes hommages
+à la femme au top bleu.
+
+314
+00:16:37,200 --> 00:16:39,031
+Ouah, c'était osé.
+
+315
+00:16:39,840 --> 00:16:42,912
+Elle a pu penser qu'on travaillait.
+
+316
+00:16:43,840 --> 00:16:45,432
+C'est le cas.
+
+317
+00:16:45,560 --> 00:16:47,471
+Vous êtes jalouse ?
+
+318
+00:16:49,000 --> 00:16:52,709
+Non. Surprise, c'est tout.
+
+319
+00:16:52,840 --> 00:16:54,796
+Menteuse.
+
+320
+00:16:55,800 --> 00:16:58,189
+Vous n'avez pas
+beaucoup d'entraînement ?
+
+321
+00:16:58,320 --> 00:17:01,915
+C'est culturel.
+
+322
+00:17:03,160 --> 00:17:04,115
+Pour vous.
+
+323
+00:17:05,160 --> 00:17:09,597
+Tout le monde dit : "Le crime va monter
+en flèche après la délocalisation."
+
+324
+00:17:10,480 --> 00:17:13,119
+Personne ne pense
+que ça va lui arriver.
+
+325
+00:17:13,240 --> 00:17:15,435
+Le rapport dit que votre fiancé faisait
+
+326
+00:17:15,560 --> 00:17:19,473
+une tournée des bars pour sa soirée
+de célibataire la nuit du meurtre.
+
+327
+00:17:20,600 --> 00:17:23,433
+On devait se marier en octobre.
+
+328
+00:17:24,320 --> 00:17:27,039
+Il fêtait juste ça avec des amis.
+
+329
+00:17:27,160 --> 00:17:30,914
+Y avait-il des personnes
+que vous ne connaissiez pas ?
+
+330
+00:17:31,040 --> 00:17:34,350
+On a tous grandi ensemble.
+C'est ma famille.
+
+331
+00:17:34,800 --> 00:17:38,554
+J'ignore s'ils ont rencontré
+quelqu'un pendant leur virée.
+
+332
+00:17:39,120 --> 00:17:42,999
+Ce sont des chahuteurs.
+Ils feraient la fête avec tout le monde.
+
+333
+00:17:46,800 --> 00:17:49,314
+Les deux dernières victimes
+sortaient en groupe.
+
+334
+00:17:49,440 --> 00:17:51,954
+Les deux buvaient.
+Dans des lieux publics. De bar en bar.
+
+335
+00:17:52,080 --> 00:17:55,117
+Comment leurs amis n'ont-ils rien vu ?
+
+336
+00:17:56,800 --> 00:17:59,473
+C'est comme
+quand le lion attaque l'antilope.
+
+337
+00:17:59,600 --> 00:18:00,953
+Je ne te suis pas.
+
+338
+00:18:02,800 --> 00:18:04,028
+Parce que toi, Emily Prentiss,
+
+339
+00:18:04,160 --> 00:18:05,912
+tu n'as jamais été l'antilope.
+
+340
+00:18:06,040 --> 00:18:07,837
+Arrête ça. Je ne te suis pas.
+
+341
+00:18:07,960 --> 00:18:09,837
+Regarde.
+
+342
+00:18:10,680 --> 00:18:12,830
+L'antilope voyage en meute.
+
+343
+00:18:13,480 --> 00:18:15,948
+Le lion s'assied et attend.
+
+344
+00:18:16,080 --> 00:18:19,675
+Il attend qu'une antilope
+quitte le troupeau.
+
+345
+00:18:19,800 --> 00:18:23,679
+Quand elle est seule, vulnérable,
+et sans protection,
+
+346
+00:18:23,800 --> 00:18:26,234
+la lionne attaque.
+C'est quand elle entre en jeu.
+
+347
+00:18:26,360 --> 00:18:27,713
+Attends. Elle ?
+
+348
+00:18:27,840 --> 00:18:30,274
+Prentiss, une seule chose fera
+qu'un mec quitte
+
+349
+00:18:30,400 --> 00:18:32,755
+ses amis pendant une virée.
+
+350
+00:18:32,880 --> 00:18:35,440
+Ça le fera partir à chaque fois.
+
+351
+00:18:37,440 --> 00:18:40,079
+Une des victimes était de sortie
+pour sa soirée de célibataire,
+
+352
+00:18:40,200 --> 00:18:42,031
+une autre était sortie avec les types.
+
+353
+00:18:42,160 --> 00:18:43,149
+Quelle est l'unique tentation
+
+354
+00:18:43,280 --> 00:18:44,918
+qui attire ces hommes ?
+
+355
+00:18:45,040 --> 00:18:46,234
+Une femme.
+
+356
+00:18:47,520 --> 00:18:48,475
+J.J.
+
+357
+00:18:50,600 --> 00:18:53,433
+Il est avec moi.
+
+358
+00:18:55,560 --> 00:18:56,788
+Merci.
+
+359
+00:18:57,560 --> 00:18:58,549
+Que se passe-t-il ?
+
+360
+00:18:58,680 --> 00:19:01,319
+Le coupable qu'on cherche
+est une femme.
+
+361
+00:19:10,040 --> 00:19:11,678
+- Salut.
+- J'ai alerté le département
+
+362
+00:19:11,800 --> 00:19:13,028
+et informé le BOLO.
+
+363
+00:19:13,160 --> 00:19:15,230
+Bien. Il faut arranger
+une conférence de presse.
+
+364
+00:19:15,360 --> 00:19:17,749
+On n'en fait pas un show médiatique.
+
+365
+00:19:17,880 --> 00:19:20,952
+Les gens doivent savoir
+que ce tueur est une femme.
+
+366
+00:19:22,080 --> 00:19:23,513
+Quoi ?
+
+367
+00:19:23,640 --> 00:19:27,189
+Les touristes commencent à revenir ici.
+
+368
+00:19:27,320 --> 00:19:28,355
+Ce n'est pas le problème.
+
+369
+00:19:28,480 --> 00:19:31,597
+Je ne peux pas créer d'hystérie
+collective dans une ville qui renaît.
+
+370
+00:19:31,720 --> 00:19:33,597
+On jouera son jeu.
+
+371
+00:19:33,720 --> 00:19:34,994
+D'accord.
+
+372
+00:19:36,280 --> 00:19:39,989
+J'essaie de ne pas devoir
+en appeler à votre supérieur.
+
+373
+00:19:43,120 --> 00:19:44,235
+Compris.
+
+374
+00:19:44,360 --> 00:19:46,715
+Organisez la conférence de presse.
+
+375
+00:19:49,000 --> 00:19:50,672
+Vous êtes de retour de Galveston ?
+
+376
+00:19:50,800 --> 00:19:52,438
+Première heure ce matin. Où étais-tu ?
+
+377
+00:19:52,560 --> 00:19:54,278
+J'étais sorti avec un ami. Je te l'ai dit.
+
+378
+00:19:54,400 --> 00:19:55,753
+Je t'ai appelé quatre fois.
+
+379
+00:19:55,880 --> 00:19:59,998
+Je n'avais pas de réception.
+J'ai reçu ton message tard.
+
+380
+00:20:00,120 --> 00:20:01,269
+Bien.
+
+381
+00:20:01,880 --> 00:20:03,518
+Que se passe-t-il ?
+
+382
+00:20:04,240 --> 00:20:06,071
+Notre coupable est une femme.
+
+383
+00:20:07,120 --> 00:20:09,953
+Ils ont trouvé un autre corps
+dans le Quartier.
+
+384
+00:20:10,800 --> 00:20:13,917
+Gorge tranchée. Éventré.
+
+385
+00:20:16,760 --> 00:20:19,832
+Il puait l'alcool.
+C'est plus qu'un modèle.
+
+386
+00:20:19,960 --> 00:20:21,552
+Cette fois, elle a coupé
+le lobe de l'oreille.
+
+387
+00:20:21,680 --> 00:20:23,830
+Elle suit le paradigme de l'Éventreur.
+
+388
+00:20:23,960 --> 00:20:25,188
+Que veux-tu dire ?
+
+389
+00:20:25,320 --> 00:20:27,311
+Dans une lettre,
+Jack l'Éventreur a promis
+
+390
+00:20:27,440 --> 00:20:29,271
+de couper le lobe
+de sa prochaine victime.
+
+391
+00:20:29,400 --> 00:20:32,949
+Il l'a fait. Le jour où il a tué deux fois.
+
+392
+00:20:33,400 --> 00:20:35,470
+Elle va donc encore tuer
+avant la fin de la journée.
+
+393
+00:20:35,600 --> 00:20:38,319
+Que sait-on des tueuses en série ?
+
+394
+00:20:38,440 --> 00:20:40,112
+On a, en gros, deux types.
+
+395
+00:20:40,240 --> 00:20:42,834
+Le type Sante Kimes. Froide, calculée,
+s'attaque aux hommes
+
+396
+00:20:42,960 --> 00:20:45,428
+pour l'argent, prend le temps
+de développer les relations.
+
+397
+00:20:45,560 --> 00:20:47,596
+On a affaire ici
+à l'archétype Aileen Wournos.
+
+398
+00:20:47,720 --> 00:20:50,553
+Motivée par la paranoïa et la peur,
+attire les hommes par le sexe.
+
+399
+00:20:50,680 --> 00:20:53,114
+Cette coupable est organisée.
+Elle suit une routine.
+
+400
+00:20:53,240 --> 00:20:56,630
+Elle trouve les hommes dans un bar,
+les drague avec de l'alcool
+
+401
+00:20:57,080 --> 00:21:00,356
+et leur suggère de finir la soirée
+dans une ruelle.
+
+402
+00:21:00,480 --> 00:21:02,550
+On doit être dans ces rues.
+
+403
+00:21:02,680 --> 00:21:04,830
+Le bureau m'a donné ça.
+
+404
+00:21:05,960 --> 00:21:09,873
+"Cher patron, j'ai débarrassé
+le monde d'un de plus.
+
+405
+00:21:10,000 --> 00:21:12,389
+<i>Tant d'hommes, si peu de temps.</i>
+
+406
+00:21:12,520 --> 00:21:14,317
+<i>J'espère que le désordre</i>
+<i>ne vous dérange pas.</i>
+
+407
+00:21:14,440 --> 00:21:18,513
+<i>C'est si facile avec eux. Je ne peux</i>
+<i>pas m'en empêcher. Cordialement. "</i>
+
+408
+00:21:25,240 --> 00:21:28,676
+On recherche une femme
+qui aborde des hommes,
+
+409
+00:21:28,800 --> 00:21:30,870
+et à l'aise en tant qu'agresseur, non ?
+
+410
+00:21:31,000 --> 00:21:33,514
+Je suppose qu'elle doit être assez jolie
+
+411
+00:21:33,640 --> 00:21:35,676
+pour les attirer.
+
+412
+00:21:39,520 --> 00:21:40,555
+Les femmes sortent en groupe.
+
+413
+00:21:40,680 --> 00:21:43,831
+Cherchez une femme seule.
+
+414
+00:21:46,160 --> 00:21:48,833
+"Tant d'hommes, si peu de temps."
+
+415
+00:21:48,960 --> 00:21:52,316
+Comme si sa mission était
+d'éliminer la race.
+
+416
+00:21:53,440 --> 00:21:55,829
+Ou le père qui l'abusait ?
+
+417
+00:21:56,480 --> 00:21:59,199
+On pense que Jack l'Éventreur
+mutilait les femmes car sa mère
+
+418
+00:21:59,320 --> 00:22:01,754
+avait abusé de lui sexuellement
+pendant des années.
+
+419
+00:22:01,880 --> 00:22:03,916
+Pour quelqu'un de si furieux,
+
+420
+00:22:05,000 --> 00:22:07,230
+cette coupable se confond
+bizarrement en excuse
+
+421
+00:22:07,360 --> 00:22:10,909
+pour avoir quitté
+une scène de crime. Pourquoi ?
+
+422
+00:22:12,240 --> 00:22:16,153
+C'est ce que Lamontagne a sans doute
+compris avant de mourir.
+
+423
+00:22:16,640 --> 00:22:19,438
+Reconnaissez-le,
+ces types lui facilitent les choses.
+
+424
+00:22:19,560 --> 00:22:22,552
+Je ne suivrais pas un étranger
+dans une ruelle, même soûle.
+
+425
+00:22:22,680 --> 00:22:23,908
+Oui, mais vous n'êtes pas un homme.
+
+426
+00:22:24,040 --> 00:22:25,917
+Les testostérones suivraient
+une femme en Thaïlande.
+
+427
+00:22:26,040 --> 00:22:28,315
+Pieds nus. C'est comme ça.
+
+428
+00:22:34,040 --> 00:22:36,679
+Tu as donné la dernière lettre à Reid ?
+
+429
+00:22:36,800 --> 00:22:40,918
+Il connaît l'affaire de l'Éventreur
+par cœur. Il verra si on rate un truc.
+
+430
+00:22:41,040 --> 00:22:43,429
+- Je ne pense pas...
+- Quoi ?
+
+431
+00:22:44,480 --> 00:22:45,708
+Rien.
+
+432
+00:22:46,400 --> 00:22:50,279
+Tu penses que je ne vois pas
+qu'il y a quelque chose ?
+
+433
+00:22:55,120 --> 00:22:57,509
+Tu me dis pourquoi tu as raté
+ce vol pour Galveston ?
+
+434
+00:22:57,640 --> 00:23:00,712
+Je te l'ai déjà dit.
+Il n'y avait pas de réseau.
+
+435
+00:23:01,400 --> 00:23:02,549
+Bien.
+
+436
+00:23:03,560 --> 00:23:04,515
+Quoi ?
+
+437
+00:23:04,640 --> 00:23:06,073
+Si tu as une meilleure réponse,
+
+438
+00:23:06,200 --> 00:23:08,111
+je suis là.
+
+439
+00:23:11,400 --> 00:23:13,960
+- Boucles noires. À trois heures.
+- Je l'ai.
+
+440
+00:23:17,000 --> 00:23:18,115
+- Ohé ?
+- Elle observe ces types
+
+441
+00:23:18,240 --> 00:23:19,992
+à l'extérieur de ce bar.
+
+442
+00:23:20,120 --> 00:23:21,838
+Attends. J'y vais.
+
+443
+00:23:23,920 --> 00:23:25,273
+Allons-y.
+
+444
+00:23:28,360 --> 00:23:29,554
+Elle arrive.
+
+445
+00:23:31,840 --> 00:23:34,718
+Oh, désolé.
+Je me déteste quand je fais ça.
+
+446
+00:23:34,840 --> 00:23:38,389
+Tout va bien ?
+Que puis-je faire pour m'excuser ?
+
+447
+00:23:39,240 --> 00:23:40,992
+M'offrir un verre ?
+
+448
+00:23:42,000 --> 00:23:46,278
+Vous offrir un verre ? Ça me va.
+Bonne idée. Allons là.
+
+449
+00:23:46,840 --> 00:23:51,868
+C'est très bien. Oui. Je t'appelle.
+
+450
+00:23:52,680 --> 00:23:57,629
+Danny, bêta,
+tu as fais tomber ton portefeuille.
+
+451
+00:23:58,680 --> 00:24:00,875
+Merci, le prochain est pour moi.
+
+452
+00:24:05,320 --> 00:24:08,232
+Où sont tes amis ?
+
+453
+00:24:10,000 --> 00:24:11,672
+Je n'en ai pas amené.
+
+454
+00:24:12,360 --> 00:24:14,112
+Ils m'encombrent.
+
+455
+00:24:14,760 --> 00:24:16,637
+J'aime ça.
+
+456
+00:24:16,760 --> 00:24:20,435
+Les filles,
+vous ne sortez jamais seules.
+
+457
+00:24:24,360 --> 00:24:26,555
+Je ne suis pas la plupart des filles.
+
+458
+00:24:36,840 --> 00:24:39,035
+On n'a rien.
+
+459
+00:24:39,160 --> 00:24:40,593
+La journée est finie. Si tu as raison,
+
+460
+00:24:40,720 --> 00:24:42,676
+on n'a plus le temps.
+
+461
+00:24:50,440 --> 00:24:52,078
+Tes cheveux sont mouillés.
+
+462
+00:24:53,720 --> 00:24:55,039
+Oh, Seigneur.
+
+463
+00:25:08,480 --> 00:25:10,038
+Elle se moque de nous.
+
+464
+00:25:10,160 --> 00:25:12,515
+Elle tient parole.
+
+465
+00:25:15,160 --> 00:25:17,720
+Vous avez une pince à épiler ? Merci.
+
+466
+00:25:20,680 --> 00:25:23,240
+- Qu'est-ce que c'est ?
+- Pas la moindre idée.
+
+467
+00:25:27,040 --> 00:25:30,396
+C'est un mot du coupable
+adressée à votre père.
+
+468
+00:25:30,520 --> 00:25:31,919
+Je peux la voir ?
+
+469
+00:25:32,960 --> 00:25:37,112
+"Cher patron, il le voulait. Sa langue
+acérée et ses mains vulgaires.
+
+470
+00:25:37,240 --> 00:25:40,755
+Je pensais que vous vouliez savoir
+qu'un autre aura bientôt ce qu'il mérite.
+
+471
+00:25:40,880 --> 00:25:42,029
+Cordialement."
+
+472
+00:25:42,160 --> 00:25:45,436
+Bizarre. Les délinquants écrivent
+des lettres pour être entendus.
+
+473
+00:25:45,560 --> 00:25:47,152
+Jack l'Éventreur se vantait
+de ne pas être attrapé.
+
+474
+00:25:47,280 --> 00:25:49,953
+Mais elle n'utilise pas ses lettres
+pour étaler ses meurtres.
+
+475
+00:25:50,080 --> 00:25:52,230
+Elle explique seulement
+pourquoi elle l'a fait.
+
+476
+00:25:52,360 --> 00:25:55,113
+Elle considère peut-être ça
+comme de la légitime défense.
+
+477
+00:25:55,240 --> 00:25:58,152
+Que les hommes qu'elle tue
+méritent de mourir.
+
+478
+00:25:58,280 --> 00:26:00,236
+Elle contacte peut-être votre père,
+
+479
+00:26:00,360 --> 00:26:03,796
+non pas parce qu'il était l'inspecteur
+chargé de l'affaire, mais
+
+480
+00:26:04,800 --> 00:26:06,358
+parce qu'elle pense qu'il comprendrait.
+
+481
+00:26:06,480 --> 00:26:08,391
+Vous croyez qu'il la connaissait ?
+
+482
+00:26:08,520 --> 00:26:12,399
+Connaissez-vous une femme
+que votre père aurait aidée ?
+
+483
+00:26:12,520 --> 00:26:14,317
+Ou un autre agent,
+
+484
+00:26:14,440 --> 00:26:16,670
+une prostituée
+qu'il aurait sortie de la rue ?
+
+485
+00:26:16,800 --> 00:26:18,870
+Non. Il ne s'occupait plus
+des prostituées depuis...
+
+486
+00:26:19,000 --> 00:26:20,228
+Qu'il travaillait sur les crimes sexuels.
+
+487
+00:26:20,360 --> 00:26:23,352
+La coupable a écrit :
+"Il me demandait de l'éventrer,
+
+488
+00:26:23,480 --> 00:26:26,119
+je ne pouvais pas m'en empêcher.
+Il le voulait."
+
+489
+00:26:26,240 --> 00:26:29,789
+Si elle imitait l'homme qui l'a violée ?
+
+490
+00:26:29,920 --> 00:26:32,309
+Où sont les archives
+de la Division des crimes sexuels ?
+
+491
+00:26:32,440 --> 00:26:35,876
+Au même endroit que pour la
+Criminelle. La plupart ont été balayés.
+
+492
+00:26:36,000 --> 00:26:37,228
+Votre père avait-il un partenaire ?
+
+493
+00:26:37,360 --> 00:26:40,591
+Oui. J.R. Smith.
+Ils l'appelaient "Smitty".
+
+494
+00:26:40,720 --> 00:26:42,392
+Il pourrait se souvenir
+de quelque chose.
+
+495
+00:26:42,520 --> 00:26:44,795
+- Mais ils se sont disputés.
+- À quel sujet ?
+
+496
+00:26:44,920 --> 00:26:48,037
+Je sais pas. Ils ont coupé les ponts
+quand il a quitté les Crimes sexuels.
+
+497
+00:26:48,160 --> 00:26:49,559
+C'était il y a neuf ans.
+
+498
+00:26:49,680 --> 00:26:52,148
+Le type n'est même pas venu
+à l'enterrement de mon père...
+
+499
+00:26:52,280 --> 00:26:54,111
+Ça vous pose un problème
+de l'appeler ?
+
+500
+00:26:54,240 --> 00:26:56,674
+Pas si ça aide pour l'affaire.
+
+501
+00:27:00,160 --> 00:27:03,118
+Chérie, je peux vous emprunter
+votre main une minute ?
+
+502
+00:27:09,800 --> 00:27:11,756
+- Diable.
+- Qu'y a-t-il ?
+
+503
+00:27:11,880 --> 00:27:13,598
+Le cachet sur la main de la victime.
+
+504
+00:27:13,720 --> 00:27:16,678
+C'est l'entrée de Mon Cherie.
+Un bar du Quartier français.
+
+505
+00:27:16,800 --> 00:27:18,313
+- Ah, oui ?
+- Oui.
+
+506
+00:27:19,360 --> 00:27:21,954
+Il s'appelait Jones, il y a neuf ans.
+
+507
+00:27:24,080 --> 00:27:26,640
+Bingo. Appelle Garcia.
+
+508
+00:27:29,920 --> 00:27:32,434
+- Ô capitaine mon capitaine !
+- J'ai besoin de toi.
+
+509
+00:27:32,560 --> 00:27:33,788
+<i>N'importe quoi. Dis-moi.</i>
+
+510
+00:27:33,920 --> 00:27:38,072
+Y a-t-il des rapports de journaux
+sur un viol dans un bar appelé Jones ?
+
+511
+00:27:39,760 --> 00:27:40,715
+VIOL + AGRESSION 70
+0 RÉSULTAT TROUVÉ
+
+512
+00:27:40,840 --> 00:27:41,795
+- Que dalle.
+- <i>Tu es sûre ?</i>
+
+513
+00:27:41,920 --> 00:27:44,036
+Il y a plus ou moins neuf ans.
+
+514
+00:27:44,160 --> 00:27:45,354
+Rien.
+
+515
+00:27:45,840 --> 00:27:50,277
+Bien. Fais une recherche
+sur William Lamontagne et Jones Bar.
+
+516
+00:27:52,600 --> 00:27:55,273
+Dans le mille. Registre :
+"Répondu à un incident au Jones Bar
+
+517
+00:27:55,400 --> 00:27:56,355
+INCIDENT - AGENTS APPELÉS
+
+518
+00:27:56,480 --> 00:27:59,233
+dans le Quartier français,
+19 février 1998."
+
+519
+00:27:59,360 --> 00:28:01,430
+C'était un Mardi Gras.
+
+520
+00:28:01,560 --> 00:28:02,993
+Tu es la meilleure.
+
+521
+00:28:03,640 --> 00:28:05,198
+Tu es la plus perspicace.
+
+522
+00:28:09,280 --> 00:28:11,953
+Smitty, comment allez-vous ?
+
+523
+00:28:13,080 --> 00:28:16,470
+J'espère que tu as une bonne raison
+de réveiller cette crasse.
+
+524
+00:28:18,080 --> 00:28:19,195
+J'espérais
+
+525
+00:28:19,320 --> 00:28:22,392
+que vous vous rappelleriez d'un appel
+avec mon père, il y a neuf ans.
+
+526
+00:28:22,520 --> 00:28:24,397
+- C'est une blague ?
+- Non.
+
+527
+00:28:25,040 --> 00:28:27,031
+Je m'appelle Jason Gideon.
+On est du F.B.I.
+
+528
+00:28:27,160 --> 00:28:30,072
+On enquête sur les meurtres
+dans le Quartier français.
+
+529
+00:28:30,200 --> 00:28:31,519
+Qu'est-ce que ça a à voir avec moi ?
+
+530
+00:28:31,640 --> 00:28:33,153
+Pourriez-vous nous dire
+ce qui est arrivé la nuit
+
+531
+00:28:33,280 --> 00:28:36,750
+où vous et l'inspecteur Lamontagne
+avez répondu à l'appel du bar.
+
+532
+00:28:38,640 --> 00:28:40,039
+Je rate quelque chose ?
+
+533
+00:28:40,160 --> 00:28:42,515
+Tu ne sais vraiment rien ?
+
+534
+00:28:42,640 --> 00:28:46,110
+Après cette nuit, ton père a essayé
+de me faire comparaître.
+
+535
+00:28:46,240 --> 00:28:47,719
+- Pourquoi ?
+- C'était Mardi Gras.
+
+536
+00:28:47,840 --> 00:28:50,832
+Une fille disait qu'elle avait été violée
+dans ce bar.
+
+537
+00:28:50,960 --> 00:28:52,029
+Je ne la croyais pas.
+
+538
+00:28:52,160 --> 00:28:54,549
+Qu'a-t-elle dit qui lui était arrivé ?
+
+539
+00:28:54,680 --> 00:28:56,352
+Brass m'a soutenu.
+
+540
+00:28:56,480 --> 00:28:58,789
+Ils ont transféré ton père
+pour le faire taire.
+
+541
+00:28:58,920 --> 00:29:00,319
+Que s'est-il passé ?
+
+542
+00:29:00,440 --> 00:29:02,670
+Il m'a pratiquement coûté ma carrière.
+
+543
+00:29:03,280 --> 00:29:05,999
+Pourriez-vous nous expliquer
+ce qui s'est passé ?
+
+544
+00:29:06,120 --> 00:29:10,955
+Si je me souviens bien,
+elle était au bar avec deux amis.
+
+545
+00:29:11,080 --> 00:29:14,709
+L'un des garçons lui a demandé
+de jouer au billard.
+
+546
+00:29:16,720 --> 00:29:19,393
+Des témoins affirment
+qu'elle était prête à tout.
+
+547
+00:29:24,680 --> 00:29:26,671
+Elle l'a suivi jusqu'ici ?
+
+548
+00:29:26,800 --> 00:29:28,870
+Son ami n'était pas loin.
+
+549
+00:29:30,400 --> 00:29:32,550
+Elle savait qu'il était là.
+
+550
+00:29:42,000 --> 00:29:43,672
+<i>C'était une allumeuse.</i>
+
+551
+00:29:43,800 --> 00:29:46,268
+<i>Elle voulait du bon temps.</i>
+
+552
+00:29:46,400 --> 00:29:49,790
+<i>Je ne peux pas reprocher</i>
+<i>à des types d'aimer ça.</i>
+
+553
+00:29:50,880 --> 00:29:52,552
+<i>Elle a crié à l'aide ?</i>
+
+554
+00:29:52,680 --> 00:29:56,229
+<i>Elle a dit oui. Mais personne</i>
+<i>n'a affirmé l'avoir entendue.</i>
+
+555
+00:30:02,400 --> 00:30:05,392
+C'est ce que vous enregistrez
+comme un "incident" ?
+
+556
+00:30:05,840 --> 00:30:08,991
+C'était Mardi Gras. Écoutez-moi.
+
+557
+00:30:09,120 --> 00:30:13,033
+Cette fille avait assez de perles
+à son cou pour illuminer une ville.
+
+558
+00:30:13,160 --> 00:30:16,072
+Quelqu'un qui s'expose autant
+en un jour
+
+559
+00:30:16,200 --> 00:30:17,838
+n'est pas un témoin crédible.
+
+560
+00:30:17,960 --> 00:30:21,669
+- Elle voulait porter plainte.
+- Je lui ai dit qu'elle perdait son temps.
+
+561
+00:30:21,800 --> 00:30:24,155
+Je connaissais l'accusé.
+C'était un bon garçon.
+
+562
+00:30:24,280 --> 00:30:27,272
+Il n'avait pas besoin
+d'une telle accusation.
+
+563
+00:30:27,400 --> 00:30:29,436
+Vous avez protégé un violeur ?
+
+564
+00:30:30,720 --> 00:30:34,918
+On n'était pas d'accord son père
+et moi à ce niveau-là.
+
+565
+00:30:35,040 --> 00:30:37,998
+En ce qui me concerne,
+il n'y a jamais eu de viol.
+
+566
+00:30:38,120 --> 00:30:39,758
+Pourriez-vous me dire pourquoi
+vous remuez
+
+567
+00:30:39,880 --> 00:30:42,110
+toute cette merde de ma vie ?
+
+568
+00:30:43,760 --> 00:30:47,958
+Vous avez entendu le tueur en série
+qui découpe des hommes ?
+
+569
+00:30:48,080 --> 00:30:49,832
+Elle était votre victime.
+
+570
+00:30:52,840 --> 00:30:55,035
+On essaie de trouver son nom.
+
+571
+00:30:56,000 --> 00:30:58,798
+- Vous ne vous en souvenez pas ?
+- C'était il y a 9 ans.
+
+572
+00:30:58,920 --> 00:31:02,276
+Quel était le nom du "bon garçon"
+qui l'a violée ?
+
+573
+00:31:04,520 --> 00:31:05,794
+Smitty,
+
+574
+00:31:07,360 --> 00:31:10,432
+dites-le-moi tout de suite
+ou je prends une autre sanction.
+
+575
+00:31:10,560 --> 00:31:13,358
+Je vous garantis
+qu'elle durera cette fois.
+
+576
+00:31:17,160 --> 00:31:18,912
+<i>Pourriez-vous répondre</i>
+<i>à quelques questions</i>
+
+577
+00:31:19,040 --> 00:31:22,350
+concernant l'incident vous impliquant
+en 1998.
+
+578
+00:31:24,200 --> 00:31:25,428
+Je ne sais pas de quoi vous parlez.
+
+579
+00:31:25,560 --> 00:31:27,437
+Dans un bar appelé Jones.
+
+580
+00:31:29,000 --> 00:31:30,672
+C'était Mardi Gras.
+
+581
+00:31:31,280 --> 00:31:34,352
+J'avais dû boire alors.
+
+582
+00:31:34,480 --> 00:31:36,072
+Je ne me rappelle plus de rien.
+
+583
+00:31:36,200 --> 00:31:38,395
+On veut juste connaître le nom
+de votre accusatrice.
+
+584
+00:31:38,520 --> 00:31:40,431
+Je vous l'ai dit.
+J'ignore de quoi vous parlez.
+
+585
+00:31:40,560 --> 00:31:44,189
+Il y a prescription.
+Il nous faut juste un nom.
+
+586
+00:31:45,240 --> 00:31:47,470
+Si quelqu'un m'accusait de viol,
+
+587
+00:31:48,360 --> 00:31:49,952
+je me souviendrais de son nom.
+
+588
+00:31:50,080 --> 00:31:52,355
+Que puis-je vous dire, Cher ?
+
+589
+00:31:52,480 --> 00:31:54,436
+Elle ne m'a pas fait beaucoup d'effet.
+
+590
+00:31:54,560 --> 00:31:56,676
+À l'inverse de vous.
+
+591
+00:31:56,800 --> 00:32:01,510
+Si quelqu'un a fait quelque chose
+à cette fille cette nuit-là,
+
+592
+00:32:01,640 --> 00:32:04,393
+elle l'a sans doute demandé.
+
+593
+00:32:04,520 --> 00:32:06,715
+Elle a peut-être même aimé.
+
+594
+00:32:08,480 --> 00:32:10,869
+Le type ne lâche rien.
+
+595
+00:32:11,000 --> 00:32:13,560
+Après le double meurtre,
+quel a été le coup de l'Éventreur ?
+
+596
+00:32:13,680 --> 00:32:16,114
+Il a mutilé et démembré Mary Kelly
+dans sa chambre.
+
+597
+00:32:16,240 --> 00:32:17,719
+Elle était méconnaissable.
+
+598
+00:32:17,840 --> 00:32:19,717
+C'était son meurtre le plus haineux.
+
+599
+00:32:19,840 --> 00:32:21,432
+Il avait de l'intimité.
+
+600
+00:32:21,560 --> 00:32:24,120
+Et le temps de torturer sa victime
+avant de la tuer.
+
+601
+00:32:24,240 --> 00:32:26,276
+On n'est peut-être pas trop tard.
+
+602
+00:32:33,240 --> 00:32:35,800
+Elle a tué ces hommes.
+
+603
+00:32:36,480 --> 00:32:37,799
+J'imagine
+
+604
+00:32:37,920 --> 00:32:40,514
+que c'est une question de temps
+avant qu'elle ne s'attaque
+
+605
+00:32:40,640 --> 00:32:43,108
+à celui qu'elle veut vraiment tuer.
+
+606
+00:32:43,560 --> 00:32:45,790
+Elle vous fait de l'effet maintenant ?
+
+607
+00:32:48,200 --> 00:32:49,792
+- Mets-moi au défi.
+- On a un nom.
+
+608
+00:32:49,920 --> 00:32:52,195
+Sarah Danlin. Il me faut une adresse.
+
+609
+00:32:53,280 --> 00:32:55,669
+1141 Sherman Avenue.
+
+610
+00:32:56,000 --> 00:32:57,069
+RÉSULTATS DE RECHERCHE
+PAS D'ADRESSE DE TRAVAIL
+
+611
+00:32:57,200 --> 00:32:59,839
+Elle étudiait la médecine
+à Tulane mais elle a abandonné.
+
+612
+00:32:59,960 --> 00:33:01,871
+Laisse-moi deviner. Février 1998.
+
+613
+00:33:02,000 --> 00:33:03,433
+UNIVERSITÉ DE TULANE
+MAJOR DE MÉDECINE 24-02-98
+
+614
+00:33:03,560 --> 00:33:05,039
+- Oui.
+- <i>Merci.</i>
+
+615
+00:33:05,200 --> 00:33:06,315
+On l'a.
+
+616
+00:33:12,520 --> 00:33:14,590
+- Au fait, je m'appelle John.
+- John,
+
+617
+00:33:17,480 --> 00:33:19,277
+enlève tes vêtements.
+
+618
+00:33:20,920 --> 00:33:22,399
+Oui, madame.
+
+619
+00:33:48,280 --> 00:33:50,874
+Sarah Danlin ? F.B.I. Ouvrez la porte.
+
+620
+00:34:00,000 --> 00:34:02,355
+Les choses que je vais te faire.
+
+621
+00:34:05,400 --> 00:34:06,435
+Moi en premier.
+
+622
+00:34:07,320 --> 00:34:08,673
+F.B.I.
+
+623
+00:34:15,000 --> 00:34:16,638
+- R.A.S.
+- R.A.S.
+
+624
+00:34:17,960 --> 00:34:19,154
+Elle n'est pas ici.
+
+625
+00:34:19,280 --> 00:34:22,113
+Des spécialistes de Jack l'Éventreur
+avancent que Mary Kelly
+
+626
+00:34:22,240 --> 00:34:25,391
+a été tuée dans un appartement
+que Jack l'Éventreur louait.
+
+627
+00:34:25,520 --> 00:34:27,909
+Garcia va vérifier
+les cartes de crédit Sarah Danlin.
+
+628
+00:34:28,040 --> 00:34:30,429
+C'est mince mais on trouvera peut-être
+le paiement d'une location.
+
+629
+00:34:40,200 --> 00:34:42,509
+C'était quoi ?
+
+630
+00:34:42,640 --> 00:34:43,834
+Vous êtes folle.
+
+631
+00:34:43,960 --> 00:34:48,476
+Tu ne m'as jamais expliqué
+ces "choses" que tu pourrais me faire.
+
+632
+00:34:49,080 --> 00:34:50,229
+Je sais.
+
+633
+00:34:50,920 --> 00:34:52,558
+Des souvenirs.
+
+634
+00:34:52,680 --> 00:34:56,355
+De bars du Quartier français.
+Celui-là vient de Mon Cherie.
+
+635
+00:34:56,480 --> 00:34:59,199
+Elle pêche ses victimes
+là où tout a commencé.
+
+636
+00:34:59,320 --> 00:35:00,355
+Elle ne peut plus passer outre.
+
+637
+00:35:00,480 --> 00:35:02,789
+Le viol n'explique pas tout.
+Je parie qu'il y a eu abus sexuel
+
+638
+00:35:02,920 --> 00:35:04,399
+ce qui a contribué à sa rage.
+
+639
+00:35:04,520 --> 00:35:06,351
+C'est comme si, en adoptant
+l'image de l'Éventreur,
+
+640
+00:35:06,480 --> 00:35:09,597
+elle essayait de tuer
+quelque chose en elle.
+
+641
+00:35:10,480 --> 00:35:11,595
+Salut, poulette, tu as quoi ?
+
+642
+00:35:11,720 --> 00:35:14,598
+Sarah Danlin a utilisé sa VISA
+il y a une heure au Royal Ruby Inn.
+
+643
+00:35:14,720 --> 00:35:17,359
+Oh, chérie,
+tu ne me déçois jamais. Merci.
+
+644
+00:35:17,480 --> 00:35:19,516
+- Royal Ruby Inn.
+- C'est à deux pâtés d'ici.
+
+645
+00:35:19,640 --> 00:35:20,834
+Allons-y.
+
+646
+00:35:26,920 --> 00:35:31,596
+S'il vous plaît. J'ai des enfants.
+
+647
+00:35:31,720 --> 00:35:35,030
+Arrête de te plaindre. Tu l'as demandé.
+
+648
+00:35:35,680 --> 00:35:36,749
+F.B.I.
+
+649
+00:35:36,960 --> 00:35:38,518
+- Jetez votre couteau.
+- Jetez votre arme.
+
+650
+00:35:38,640 --> 00:35:41,871
+Il le voulait et il l'a eu.
+
+651
+00:35:42,000 --> 00:35:45,231
+- Posez-le.
+- Il nous faut une ambulance.
+
+652
+00:35:47,040 --> 00:35:48,553
+Qu'attendez-vous ?
+
+653
+00:35:48,680 --> 00:35:50,671
+Madame, on ne veut pas tirer.
+
+654
+00:35:50,800 --> 00:35:53,109
+Quelle honte de gâcher ça.
+
+655
+00:35:54,400 --> 00:35:55,515
+Vous le voulez aussi ?
+
+656
+00:35:55,640 --> 00:35:58,029
+Je veux que vous posiez ce couteau.
+
+657
+00:35:58,160 --> 00:36:01,550
+Allez. Ne luttez pas.
+
+658
+00:36:01,680 --> 00:36:03,955
+Sarah, on ne veut pas
+vous faire de mal.
+
+659
+00:36:07,160 --> 00:36:08,434
+Les hommes.
+
+660
+00:36:08,560 --> 00:36:11,791
+Sarah, je m'appelle
+William Lamontagne Jr.
+
+661
+00:36:13,880 --> 00:36:15,677
+Vous connaissiez mon papa.
+
+662
+00:36:18,840 --> 00:36:20,193
+Eh.
+
+663
+00:36:21,080 --> 00:36:23,799
+Vous lui faisiez confiance.
+Faites-moi confiance.
+
+664
+00:36:26,240 --> 00:36:27,593
+Où est-il ?
+
+665
+00:36:28,720 --> 00:36:30,392
+L'ouragan l'a emporté.
+
+666
+00:36:34,440 --> 00:36:36,351
+Allez. C'est fini.
+
+667
+00:36:43,080 --> 00:36:44,354
+C'est fini.
+
+668
+00:36:59,280 --> 00:37:00,315
+Salut.
+
+669
+00:37:00,880 --> 00:37:02,233
+Salut.
+
+670
+00:37:04,200 --> 00:37:07,397
+Le toubib
+dit que la victime va s'en sortir.
+
+671
+00:37:10,120 --> 00:37:12,350
+Je sais ce que vous avez fait.
+
+672
+00:37:13,520 --> 00:37:15,954
+Votre père serait fier.
+
+673
+00:37:17,440 --> 00:37:18,839
+C'est bizarre.
+
+674
+00:37:19,600 --> 00:37:23,309
+J'ai consacré tout ce temps
+à résoudre cette affaire pour lui.
+
+675
+00:37:24,000 --> 00:37:25,718
+C'est fini maintenant.
+
+676
+00:37:25,840 --> 00:37:26,909
+Oui.
+
+677
+00:37:28,320 --> 00:37:31,357
+Je pensais que je serais heureux.
+Mais je me sens perdu.
+
+678
+00:37:32,440 --> 00:37:34,670
+Parce qu'il faut passer à autre chose.
+
+679
+00:37:35,120 --> 00:37:37,156
+Vous partez ?
+
+680
+00:37:37,800 --> 00:37:41,429
+Comment vais-je survivre à une femme
+comme vous, si loin ?
+
+681
+00:37:43,920 --> 00:37:46,593
+Malgré tout ce que
+vous avez pu entendre,
+
+682
+00:37:49,240 --> 00:37:52,550
+les téléphones mobiles
+ont de bons côtés pour la santé.
+
+683
+00:37:55,120 --> 00:37:56,599
+À bientôt.
+
+684
+00:38:19,680 --> 00:38:20,829
+Comment m'avez-vous trouvé ?
+
+685
+00:38:20,960 --> 00:38:23,428
+Ton profil n'est pas si compliqué.
+
+686
+00:38:28,160 --> 00:38:29,878
+Ton ami est bon.
+
+687
+00:38:37,120 --> 00:38:39,429
+J'ai raté l'avion délibérément.
+
+688
+00:38:40,720 --> 00:38:41,869
+Je sais.
+
+689
+00:38:45,800 --> 00:38:47,552
+- Je me bats.
+- Eh bien,
+
+690
+00:38:48,440 --> 00:38:52,831
+comme n'importe qui
+traversant ce que tu as traversé.
+
+691
+00:38:53,920 --> 00:38:56,878
+Je ne me suis formé qu'à ça.
+
+692
+00:38:57,000 --> 00:38:58,718
+Je n'ai jamais envisagé d'autre option.
+
+693
+00:38:58,840 --> 00:39:03,072
+Tu te demandes maintenant
+si tu es assez fort pour être ici ?
+
+694
+00:39:03,200 --> 00:39:04,394
+Oui.
+
+695
+00:39:04,520 --> 00:39:07,273
+Je joue à ce boulot,
+
+696
+00:39:07,400 --> 00:39:10,278
+d'une manière ou d'une autre,
+depuis presque 30 ans.
+
+697
+00:39:12,120 --> 00:39:13,838
+Je me suis senti perdu.
+
+698
+00:39:14,720 --> 00:39:16,517
+Je me suis senti super bien.
+
+699
+00:39:17,320 --> 00:39:19,550
+J'ai eu peur,
+
+700
+00:39:20,760 --> 00:39:22,034
+j'ai été malade,
+
+701
+00:39:23,200 --> 00:39:24,394
+fou.
+
+702
+00:39:28,280 --> 00:39:29,759
+Je ne sais pas.
+
+703
+00:39:31,680 --> 00:39:35,355
+Le jour où ce boulot
+ne te rongera plus l'âme
+
+704
+00:39:37,360 --> 00:39:38,952
+et tes mains,
+
+705
+00:39:39,560 --> 00:39:41,949
+tes mains ne seront plus froides.
+
+706
+00:39:45,920 --> 00:39:48,195
+Il sera peut-être temps de partir.
+
+707
+00:39:50,240 --> 00:39:54,950
+Je pensais que je devrais savoir
+si je pouvais quitter ce boulot.
+
+708
+00:39:56,960 --> 00:39:57,995
+Et ?
+
+709
+00:40:00,520 --> 00:40:02,988
+Je ne raterai plus jamais d'avion.
+

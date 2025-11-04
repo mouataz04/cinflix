@@ -1,0 +1,2445 @@
+1
+00:00:17,309 --> 00:00:18,018
+Charlie ?
+
+2
+00:00:19,269 --> 00:00:20,020
+Charlie ?
+
+3
+00:00:21,021 --> 00:00:22,523
+Tu viens te balader avec moi ?
+
+4
+00:00:23,148 --> 00:00:23,857
+Non.
+
+5
+00:00:24,358 --> 00:00:26,735
+Non, merci, Locke. je pense que je vais rester à l'intérieur aujourd'hui.
+
+6
+00:00:26,777 --> 00:00:27,402
+Viens.
+
+7
+00:00:28,445 --> 00:00:29,530
+L'air frais va te faire du bien.
+
+8
+00:00:38,121 --> 00:00:39,456
+Je prends de bien meilleures photos que celles-là.
+
+9
+00:00:43,001 --> 00:00:45,170
+Plus petites aussi, si tu veux en mettre une dans ton portefeuille.
+
+10
+00:00:46,755 --> 00:00:48,924
+Je suis juste passé pour prendre plusieurs choses, et c'était...
+
+11
+00:00:50,550 --> 00:00:51,880
+c'était avec mes affaires.
+
+12
+00:00:55,760 --> 00:00:56,808
+Alors tu ne restes pas ?
+
+13
+00:00:57,016 --> 00:00:58,108
+Traite-moi de disque rayé,
+
+14
+00:00:58,183 --> 00:01:00,435
+mais ces cavernes sont un abri naturel,
+
+15
+00:01:00,894 --> 00:01:02,980
+et donc bien plus sûres que cette plage.
+
+16
+00:01:04,147 --> 00:01:05,190
+Tu m'en veux.
+
+17
+00:01:05,566 --> 00:01:07,359
+Non, Kate, je suis...
+
+18
+00:01:09,486 --> 00:01:13,156
+Je ne comprends pourquoi tu ne viens pas avec moi... avec nous.
+
+19
+00:01:13,282 --> 00:01:15,242
+C'est à peine à un kilomètre et demi.
+
+20
+00:01:15,492 --> 00:01:16,702
+On s'est écrasés il y a huit jours, Jack.
+
+21
+00:01:16,743 --> 00:01:18,537
+- Je ne m'installe pas ici.
+- Je veux quitter cette île, moi aussi,
+
+22
+00:01:18,579 --> 00:01:20,831
+mais on sait tous les deux que ça ne va pas arriver de si tôt.
+
+23
+00:01:20,914 --> 00:01:21,999
+Sayid a un plan.
+
+24
+00:01:22,082 --> 00:01:24,084
+Ouais, trouver la source du signal de détresse. Je sais.
+
+25
+00:01:24,168 --> 00:01:25,794
+Ce signal vient de quelque part sur cette île.
+
+26
+00:01:25,878 --> 00:01:29,339
+Ce signal tourne en boucle depuis 16 ans, Kate.
+
+27
+00:01:29,882 --> 00:01:32,426
+Et la femme qui l'a fait, elle n'a pas été sauvée.
+
+28
+00:01:32,593 --> 00:01:34,761
+Qu'est-ce qui te fait penser que ça va être différent pour nous ?
+
+29
+00:01:34,887 --> 00:01:36,013
+J'y crois.
+
+30
+00:01:37,347 --> 00:01:38,891
+J'aimerais partager ta foi.
+
+31
+00:01:38,932 --> 00:01:40,767
+Ca ne me déplairait pas à moi non plus de partager certaines choses avec elle.
+
+32
+00:01:42,936 --> 00:01:44,229
+Qu'est-ce que tu veux, Sawyer ?
+
+33
+00:01:44,313 --> 00:01:46,148
+J'ai appris que le doc quittait l'endroit.
+
+34
+00:01:46,440 --> 00:01:49,151
+Je préfère prendre possession des lieux avant que quelqu'un d'autre le fasse.
+
+35
+00:01:51,069 --> 00:01:52,863
+Je peux faire de cet endroit un truc super bien.
+
+36
+00:01:52,946 --> 00:01:54,323
+Je trouverai peut-être même quelqu'un avec qui y vivre.
+
+37
+00:01:54,406 --> 00:01:55,407
+Je te parlerai plus tard.
+
+38
+00:02:12,257 --> 00:02:13,133
+Locke ?
+
+39
+00:02:15,594 --> 00:02:16,553
+C'est toi?
+
+40
+00:02:34,696 --> 00:02:36,823
+Pardonnez-moi, mon père, parce que j'ai pêché.
+
+41
+00:02:39,868 --> 00:02:42,788
+Ca fait une semaine que je ne me suis pas confessé.
+
+42
+00:02:42,955 --> 00:02:45,123
+Allez-y, mon fils.
+
+43
+00:02:45,832 --> 00:02:47,668
+La nuit dernière, j'ai...
+
+44
+00:02:48,210 --> 00:02:53,131
+eu des relations physiques avec une fille que je ne connaissais même pas.
+
+45
+00:02:53,632 --> 00:02:56,927
+Je vois. Quelque chose d'autre ?
+
+46
+00:02:57,052 --> 00:03:01,223
+Ouais. Euh, juste après ça, j'ai...
+
+47
+00:03:03,016 --> 00:03:06,603
+eu des relations avec une autre fille.
+
+48
+00:03:07,688 --> 00:03:12,901
+Puis juste après ça, j'ai regardé pendant qu'elles avaient...
+
+49
+00:03:14,236 --> 00:03:17,030
+des relations entre elles.
+
+50
+00:03:19,199 --> 00:03:22,744
+Vous voyez, c'est mon groupe, mon père... Driveshaft.
+
+51
+00:03:23,078 --> 00:03:27,416
+On joue dans des clubs de Manchester, et, euh...
+
+52
+00:03:28,208 --> 00:03:30,085
+on marche bien,
+
+53
+00:03:30,794 --> 00:03:33,797
+on est suivis, vous savez, et...
+
+54
+00:03:35,757 --> 00:03:36,633
+les filles...
+
+55
+00:03:37,634 --> 00:03:41,722
+il y a de grosses tentations qui viennent avec,
+
+56
+00:03:42,306 --> 00:03:44,016
+si vous voyez ce que je veux dire.
+
+57
+00:03:45,434 --> 00:03:47,227
+On a tous nos tentations,
+
+58
+00:03:47,269 --> 00:03:50,689
+mais y céder... a été votre choix.
+
+59
+00:03:50,981 --> 00:03:52,524
+Nos vies...
+
+60
+00:03:52,816 --> 00:03:56,403
+ne sont rien d'autre qu'une série de choix, non ?
+
+61
+00:03:57,738 --> 00:03:59,615
+Alors j'ai fait mon choix.
+
+62
+00:04:00,699 --> 00:04:02,326
+Je quitte le groupe.
+
+63
+00:04:20,385 --> 00:04:22,763
+Et le docile héritera de la Terre.
+
+64
+00:04:22,846 --> 00:04:25,682
+Liam. Qu'est-ce que tu fais ? C'est une église. Enlève tes bottes de là.
+
+65
+00:04:25,766 --> 00:04:27,267
+Relax, l'enfant de chœur.
+
+66
+00:04:27,476 --> 00:04:29,728
+Je t'apporte de très grandes nouvelles.
+
+67
+00:04:30,979 --> 00:04:32,606
+On nous a fait signer.
+
+68
+00:04:32,940 --> 00:04:34,775
+Un contrat d'enregistrement.
+
+69
+00:04:35,234 --> 00:04:36,693
+Tu vas devenir un dieu du rock.
+
+70
+00:04:57,339 --> 00:04:58,715
+Bien joué, Charlie.
+
+71
+00:05:01,301 --> 00:05:03,220
+Tu fais un très bon appât.
+
+72
+00:05:04,930 --> 00:05:06,515
+Ravi d'avoir pu aider.
+
+73
+00:05:08,851 --> 00:05:10,853
+Maintenant donne-moi ma putain de came.
+
+74
+00:05:34,585 --> 00:05:35,878
+T'as entendu ce que j'ai dit ?
+
+75
+00:05:37,504 --> 00:05:38,964
+Je veux que tu me rendes ma came.
+
+76
+00:05:39,381 --> 00:05:40,257
+J'en ai besoin !
+
+77
+00:05:40,340 --> 00:05:41,675
+Et pourtant tu me l'as passée.
+
+78
+00:05:42,259 --> 00:05:42,968
+Hmm.
+
+79
+00:05:43,093 --> 00:05:44,344
+Et je le regrette vraiment, putain !
+
+80
+00:05:44,636 --> 00:05:45,637
+Je suis malade, mec !
+
+81
+00:05:45,804 --> 00:05:46,805
+Tu le vois pas ?
+
+82
+00:05:46,972 --> 00:05:48,974
+Je pense que tu es bien plus fort que tu ne le penses, Charlie.
+
+83
+00:05:49,766 --> 00:05:51,101
+Et je vais te le prouver.
+
+84
+00:05:51,435 --> 00:05:53,687
+Je vais te laisser me demander ta came trois fois.
+
+85
+00:05:53,812 --> 00:05:55,939
+La 3ème fois, je te le donne.
+
+86
+00:05:56,023 --> 00:05:58,650
+Juste pour que ce soit clair, ça c'était la première.
+
+87
+00:05:59,860 --> 00:06:02,779
+Pourquoi ? Pourquoi ? Pourquoi tu fais ça ?
+
+88
+00:06:02,905 --> 00:06:03,822
+Pour me torturer ?
+
+89
+00:06:04,198 --> 00:06:06,074
+Débarrasse-t'en et c'est fini.
+
+90
+00:06:06,158 --> 00:06:08,118
+Si je faisais ça, tu n'aurais pas le choix, Charlie.
+
+91
+00:06:08,202 --> 00:06:11,288
+Et avoir le choix, prendre des décisions basées sur plus que l'instinct
+
+92
+00:06:11,330 --> 00:06:14,499
+est la seule chose qui te différencie de lui.
+
+93
+00:06:20,339 --> 00:06:21,381
+Trois antennes.
+
+94
+00:06:22,216 --> 00:06:23,759
+Trois points d'un triangle.
+
+95
+00:06:24,384 --> 00:06:25,636
+Un ici sur la plage.
+
+96
+00:06:25,969 --> 00:06:29,431
+un autre que Kate placera à peu près 2 km à l'intérieur de la jungle.
+
+97
+00:06:30,182 --> 00:06:34,019
+Et le 3ème, je le placerai en altitude... là haut.
+
+98
+00:06:34,603 --> 00:06:36,230
+Si la transmission de la française
+
+99
+00:06:36,313 --> 00:06:38,774
+vient de quelque part dans notre triangulation,
+
+100
+00:06:39,107 --> 00:06:40,817
+je  serai capable de localiser la source.
+
+101
+00:06:41,068 --> 00:06:42,611
+Mais il y a deux complications.
+
+102
+00:06:42,819 --> 00:06:43,820
+Evidemment.
+
+103
+00:06:44,071 --> 00:06:47,699
+Les sources d'énergie que j'ai mises sur les antennes sont faibles.
+
+104
+00:06:48,033 --> 00:06:50,035
+il n'y a aucun moyen de savoir combien de temps elles vont durer.
+
+105
+00:06:50,202 --> 00:06:52,955
+Une minute, peut-être plus, peut-être moins.
+
+106
+00:06:53,413 --> 00:06:56,124
+Alors on doit attendre d'être tous en position avant de les allumer ?
+
+107
+00:06:56,291 --> 00:06:57,209
+Attends une seconde.
+
+108
+00:06:57,251 --> 00:06:59,628
+Comment on va savoir qu'on est tous au bon endroit ?
+
+109
+00:06:59,711 --> 00:07:01,088
+On n'a aucun moyen de communiquer entre nous.
+
+110
+00:07:04,883 --> 00:07:05,759
+Des  fusées ?
+
+111
+00:07:05,843 --> 00:07:07,427
+Merci aux contrebandiers de feux d'artifice.
+
+112
+00:07:07,511 --> 00:07:10,264
+Quand je serai en position, je lancerai ma fusée.
+
+113
+00:07:10,556 --> 00:07:13,475
+Quand vous la verrez, vous lancerez les vôtres.
+
+114
+00:07:13,600 --> 00:07:15,894
+Dès que la dernière fusée aura été lancée,
+
+115
+00:07:16,103 --> 00:07:18,021
+on allumera nos antennes.
+
+116
+00:07:18,063 --> 00:07:20,065
+Ok, mais tu as dit qu'il y avait deux complications.
+
+117
+00:07:20,190 --> 00:07:21,984
+La batterie de l'émetteur-récepteur est morte.
+
+118
+00:07:22,067 --> 00:07:24,570
+Sans l'émetteur-récepteur, on aura fait tout ça pour rien.
+
+119
+00:07:25,445 --> 00:07:27,739
+Quelque chose d'un ordinateur portable ferait probablement l'affaire,
+
+120
+00:07:27,823 --> 00:07:29,908
+mais je n'ai rien trouvé.
+
+121
+00:07:30,200 --> 00:07:31,702
+Je pense que je sais où chercher.
+
+122
+00:07:33,579 --> 00:07:35,789
+Tu fais plus de provisions qu'un rat depuis le crash,
+
+123
+00:07:35,831 --> 00:07:37,541
+et tu n'as pas le moindre ordinateur portable ?
+
+124
+00:07:38,125 --> 00:07:39,459
+Madame est énervée.
+
+125
+00:07:39,835 --> 00:07:41,461
+Toujours troublée par la rupture ?
+
+126
+00:07:41,920 --> 00:07:42,880
+Toi et Jacko ?
+
+127
+00:07:42,963 --> 00:07:44,131
+Ca doit être fatigant.
+
+128
+00:07:44,423 --> 00:07:45,257
+De quoi ?
+
+129
+00:07:45,507 --> 00:07:47,092
+De vivre comme un parasite.
+
+130
+00:07:47,467 --> 00:07:49,386
+En prenant toujours et sans jamais donner.
+
+131
+00:07:50,637 --> 00:07:52,389
+Tu sais tout de moi, hein ?
+
+132
+00:07:52,472 --> 00:07:53,515
+Je comprends maintenant.
+
+133
+00:07:53,640 --> 00:07:56,727
+Tu ne veux pas partir de cette île parce que tu n'as rien laissé derrière toi.
+
+134
+00:07:57,060 --> 00:07:58,312
+Personne ne te manque.
+
+135
+00:07:58,645 --> 00:08:00,022
+Et tu ne manques à personne.
+
+136
+00:08:00,939 --> 00:08:03,192
+Oh, tu éprouves de la compassion pour moi ?
+
+137
+00:08:03,734 --> 00:08:05,319
+Je n'éprouve aucune compassion pour toi.
+
+138
+00:08:05,777 --> 00:08:06,987
+Tu me fais pitié.
+
+139
+00:08:18,582 --> 00:08:20,584
+Tu avais juste à dire "s'il te plaît".
+
+140
+00:08:28,717 --> 00:08:31,011
+Mec, il y a quoi là-dedans, des parpaings ?
+
+141
+00:08:31,512 --> 00:08:35,057
+j'ai pris tout ce que je trouvais utile sans priver les autres de quoi que ce soit.
+
+142
+00:08:35,098 --> 00:08:36,225
+Vous avez besoin d'un coup de main ?
+
+143
+00:08:36,600 --> 00:08:41,522
+Je traînais le matos du groupe avant qu'on ait des roadies.
+
+144
+00:08:42,020 --> 00:08:43,810
+- Voilà, laissez-moi...
+- Non, Charlie, la fermeture éclair est...
+
+145
+00:08:45,230 --> 00:08:45,988
+cassée.
+
+146
+00:08:48,866 --> 00:08:50,488
+Désolé. J'essayais juste d'aider.
+
+147
+00:08:50,572 --> 00:08:51,782
+Je sais. C'est rien.
+
+148
+00:08:52,741 --> 00:08:54,868
+Hé, tu m'aides à transporter le reste des sacs ?
+
+149
+00:08:55,744 --> 00:08:57,538
+Oh. Je peux ?
+
+150
+00:09:10,217 --> 00:09:11,176
+Qu'est-ce que tu fais ?
+
+151
+00:09:12,344 --> 00:09:15,722
+Oh, euh... j'ai mal à la tête.
+
+152
+00:09:19,351 --> 00:09:20,477
+Diazépam.
+
+153
+00:09:21,353 --> 00:09:22,521
+C'est pour l'anxiété.
+
+154
+00:09:23,272 --> 00:09:27,067
+- Je cherchais juste de l'aspirine.
+- Plutôt fort pour un simple mal de tête.
+
+155
+00:09:28,026 --> 00:09:29,152
+Ouais.
+
+156
+00:09:29,403 --> 00:09:31,822
+Ca va ? Tu as l'air un peu...
+
+157
+00:09:31,905 --> 00:09:34,032
+Je... non, c'est rien. C'est juste un mal de tête.
+
+158
+00:09:36,493 --> 00:09:39,413
+Charlie, laisse ça. Va boire de l'eau. Tu es peut-être déshydraté.
+
+159
+00:09:39,955 --> 00:09:40,998
+Charlie, c'est bon.
+
+160
+00:09:42,541 --> 00:09:44,001
+Va t'occuper de toi, man.
+
+161
+00:09:45,043 --> 00:09:46,461
+Je n'ai pas besoin de toi là.
+
+162
+00:10:02,311 --> 00:10:05,397
+Allez, petit Charlie, on ne peut pas le faire sans toi.
+
+163
+00:10:05,522 --> 00:10:07,733
+C'est toi Driveshaft, putain !
+
+164
+00:10:09,193 --> 00:10:10,360
+Ne parle pas comme ça ici.
+
+165
+00:10:11,403 --> 00:10:13,197
+C'est notre chance de décrocher le gros lot.
+
+166
+00:10:13,739 --> 00:10:16,241
+Quoi ? Tu ne veux pas être célèbre ?
+
+167
+00:10:16,450 --> 00:10:18,785
+Ce n'est pas la question. Ce qui compte pour moi, c'est la musique.
+
+168
+00:10:18,869 --> 00:10:21,413
+Ouais, ta musique. C'est grâce à tes chansons qu'ils nous ont fait signer.
+
+169
+00:10:21,496 --> 00:10:23,582
+Je suis juste le clown avec une bonne tête qui les chante.
+
+170
+00:10:23,665 --> 00:10:25,584
+Et tu veux m'enlever ma chance d'être quelqu'un ?
+
+171
+00:10:25,667 --> 00:10:27,461
+Liam, c'est pas ça.
+
+172
+00:10:28,045 --> 00:10:28,795
+C'est...
+
+173
+00:10:29,630 --> 00:10:30,797
+J'adore le groupe.
+
+174
+00:10:33,133 --> 00:10:34,635
+Ce n'est pas qui je suis.
+
+175
+00:10:35,177 --> 00:10:36,637
+Parfois je m'y perds.
+
+176
+00:10:36,762 --> 00:10:39,473
+Ca n'arrivera pas parce que je serai là pour veiller sur toi.
+
+177
+00:10:39,556 --> 00:10:42,059
+On va veiller l'un sur l'autre... c'est ce que font les frères, non ?
+
+178
+00:10:42,601 --> 00:10:43,352
+Pas vrai ?
+
+179
+00:10:44,603 --> 00:10:46,813
+Attends, attends! Attends ! Attends, attends, attends, attends.
+
+180
+00:10:47,189 --> 00:10:48,357
+Promets-moi une chose.
+
+181
+00:10:49,900 --> 00:10:51,276
+Si les choses deviennent trop folles,
+
+182
+00:10:51,527 --> 00:10:52,528
+quoi qu'il arrive,
+
+183
+00:10:52,736 --> 00:10:53,904
+si je dis qu'on arrête,
+
+184
+00:10:54,863 --> 00:10:56,114
+on laisse tomber.
+
+185
+00:10:57,282 --> 00:10:58,242
+On laisse tomber.
+
+186
+00:10:58,325 --> 00:11:00,702
+Liam, promets-le.
+
+187
+00:11:02,579 --> 00:11:03,956
+On laisse tomber.
+
+188
+00:11:05,165 --> 00:11:07,042
+Tu es le dieu du rock, petit frère.
+
+189
+00:11:11,088 --> 00:11:12,548
+Ah ! Enflure !
+
+190
+00:11:24,351 --> 00:11:26,979
+Tu devrais montrer ça au docteur.
+
+191
+00:11:27,104 --> 00:11:29,314
+C'est rien. Ca va cicatriser.
+
+192
+00:11:33,151 --> 00:11:34,486
+Qu'est-ce  que tu portes ?
+
+193
+00:11:35,112 --> 00:11:36,321
+C'est indécent.
+
+194
+00:11:37,281 --> 00:11:38,448
+Couvre-toi.
+
+195
+00:11:40,659 --> 00:11:42,202
+Il fait trop chaud.
+
+196
+00:11:48,834 --> 00:11:50,419
+Hé, mec, c'est à toi ?
+
+197
+00:11:50,878 --> 00:11:51,795
+Oh, ouais.
+
+198
+00:11:52,421 --> 00:11:54,923
+J'étais le bassiste de Driveshaft.
+
+199
+00:11:55,048 --> 00:11:56,466
+J'ai écrit plein de tubes avec celle-là.
+
+200
+00:11:56,592 --> 00:11:57,509
+"You all, everybody"...
+
+201
+00:11:57,634 --> 00:12:01,305
+Ecoute, mec, Jack veut juste que tu la mettes ailleurs.
+
+202
+00:12:01,388 --> 00:12:03,348
+Il déplace du matériel et il a dit que c'était du milieu du chemin.
+
+203
+00:12:09,855 --> 00:12:12,691
+Tu sais, beaucoup de gens m'admirent.
+
+204
+00:12:12,983 --> 00:12:14,109
+Ils me respectent.
+
+205
+00:12:14,359 --> 00:12:16,945
+Et toi... tu me traites comme un putain d'enfant,
+
+206
+00:12:17,029 --> 00:12:18,363
+comme si j'étais inutile.
+
+207
+00:12:18,405 --> 00:12:19,239
+De quoi tu parles ?
+
+208
+00:12:19,323 --> 00:12:20,490
+"Charlie  n'est pas capable de faire ça"
+
+209
+00:12:20,532 --> 00:12:21,533
+"Charlie est au milieu du chemin."
+
+210
+00:12:21,617 --> 00:12:22,951
+Assieds-toi. Laisse-moi te regarder une seconde.
+
+211
+00:12:23,035 --> 00:12:24,369
+Tu vas veiller sur moi maintenant ?
+
+212
+00:12:24,411 --> 00:12:25,829
+On va veiller l'un sur l'autre, c'est ça ?
+
+213
+00:12:25,913 --> 00:12:28,415
+Charlie, calme-toi, d'accord ? tu n'es pas toi-même là.
+
+214
+00:12:28,457 --> 00:12:31,001
+Tu ne me connais pas. Je suis un putain de dieu du rock !
+
+215
+00:12:34,379 --> 00:12:35,422
+Oh, non.
+
+216
+00:12:52,773 --> 00:12:54,399
+Charlie, où est Jack ?
+
+217
+00:12:57,694 --> 00:12:59,071
+Où est Jack ?
+
+218
+00:13:07,621 --> 00:13:11,583
+Jack ! Jack, tu m'entends ?!
+
+219
+00:13:11,667 --> 00:13:12,501
+Je ne sais pas ce qu'il s'est passé.
+
+220
+00:13:12,543 --> 00:13:16,129
+On parlait et ça s'est écroulé sur nous. Ca s'est passé si vite.
+
+221
+00:13:16,213 --> 00:13:17,256
+Mec, on doit aller chercher de l'aide.
+
+222
+00:13:17,339 --> 00:13:19,550
+Charlie, va chercher de l'aide à la plage !
+
+223
+00:13:19,633 --> 00:13:20,592
+Ok, je m'en charge.
+
+224
+00:13:21,176 --> 00:13:22,886
+Et dis-le bien à Kate !
+
+225
+00:13:25,848 --> 00:13:27,015
+Ce qu'on fait...
+
+226
+00:13:27,766 --> 00:13:30,060
+chercher un signal de détresse fantôme...
+
+227
+00:13:30,936 --> 00:13:32,229
+quelles sont nos chances de réussite ?
+
+228
+00:13:32,813 --> 00:13:35,399
+Pas pires que celles de survivre à un tel accident d'avion.
+
+229
+00:13:36,191 --> 00:13:38,110
+Les gens survivent fréquemment aux accidents d'avion.
+
+230
+00:13:38,193 --> 00:13:39,319
+Pas à ceux comme celui-là.
+
+231
+00:13:40,112 --> 00:13:42,656
+La partie arrière a lâché alors qu'on était encore dans les airs.
+
+232
+00:13:42,739 --> 00:13:44,575
+Notre  partie a dû faire des tonneaux dans la jungle,
+
+233
+00:13:44,658 --> 00:13:47,286
+et pourtant on s'en est sortis indemnes à part quelques égratignures.
+
+234
+00:13:47,536 --> 00:13:48,704
+Comment tu expliques ça ?
+
+235
+00:13:49,705 --> 00:13:50,998
+Une chance de cocu.
+
+236
+00:13:52,124 --> 00:13:53,500
+Personne n'est aussi chanceux que ça.
+
+237
+00:13:53,917 --> 00:13:55,252
+On n'aurait pas dû survivre.
+
+238
+00:13:56,503 --> 00:13:57,379
+Désolée, Sayid,
+
+239
+00:13:57,754 --> 00:13:59,006
+mais certaines choses se passent, c'est tout...
+
+240
+00:13:59,173 --> 00:14:00,841
+pas de rime, pas de raison.
+
+241
+00:14:02,217 --> 00:14:02,885
+Hé !
+
+242
+00:14:04,428 --> 00:14:06,096
+Hé ! On a besoin d'aide !
+
+243
+00:14:06,847 --> 00:14:08,473
+- Qu'est-ce qu'il y a ?
+- C'est Jack. Il est coincé sous terre.
+
+244
+00:14:08,557 --> 00:14:09,016
+Quoi ?
+
+245
+00:14:09,099 --> 00:14:10,726
+Une caverne s'est écroulée. On ne sait même pas s'il est en vie.
+
+246
+00:14:10,809 --> 00:14:12,311
+- Allez, on doit y aller.
+- Hé, euh, Scott ?
+
+247
+00:14:12,394 --> 00:14:13,395
+- Moi c'est Steve.
+- C'est moi Scott.
+
+248
+00:14:13,437 --> 00:14:15,772
+On a une urgence. Choisis quelques gars et allons-y.
+
+249
+00:14:15,856 --> 00:14:16,648
+Il faut qu'on y aille maintenant.
+
+250
+00:14:17,191 --> 00:14:19,318
+Hé, allez. allons-y.
+
+251
+00:14:20,777 --> 00:14:24,114
+Shannon, tu dois être prête à faire quelque chose de vraiment important, ok ?
+
+252
+00:14:24,156 --> 00:14:25,490
+A 17h00 pile.
+
+253
+00:14:25,699 --> 00:14:27,534
+Tu dois être prête à allumer cette antenne.
+
+254
+00:14:27,576 --> 00:14:29,161
+Il y a un bouton en bas.
+
+255
+00:14:29,912 --> 00:14:30,871
+Pourquoi ?
+
+256
+00:14:30,996 --> 00:14:33,916
+Parce que Kate et Sayid triangulent le signal de la Française.
+
+257
+00:14:34,124 --> 00:14:35,709
+Mais l'antenne a peu d'énergie en réserve,
+
+258
+00:14:35,792 --> 00:14:38,670
+alors tu dois attendre qu'ils lancent leurs fusées.
+
+259
+00:14:38,879 --> 00:14:40,088
+Puis tu lances celle-là,
+
+260
+00:14:40,422 --> 00:14:42,549
+puis tu allumes l'antenne. Compris ?
+
+261
+00:14:44,218 --> 00:14:45,427
+Le bouton est où déjà ?
+
+262
+00:14:45,552 --> 00:14:48,430
+T'as rien écouté de ce que j'ai dit ? Tu peux le faire ou pas ?
+
+263
+00:14:48,514 --> 00:14:51,600
+- Ouais, Je peux.
+- Ok. Ok.
+
+264
+00:14:54,436 --> 00:14:56,146
+Attendez. Kate.
+
+265
+00:14:56,313 --> 00:14:58,106
+Hé, on doit dire à Kate ce qui est arrivé à Jack !
+
+266
+00:14:58,232 --> 00:14:59,900
+Désolé, mon grand. Tu l'as ratée.
+
+267
+00:15:00,400 --> 00:15:02,444
+Elle et Mohammed sont partis dans les bois il y a 10 minutes.
+
+268
+00:15:02,528 --> 00:15:03,237
+Dans quelle direction ?
+
+269
+00:15:03,320 --> 00:15:05,906
+Ne te fatigue pas, amigo. Je sais dans quelle direction ils sont partis.
+
+270
+00:15:06,031 --> 00:15:07,241
+- Ouais, mais...
+- Je vais lui dire.
+
+271
+00:15:07,324 --> 00:15:09,826
+Continue à faire... quoi que ce soit que tu fais dans le coin.
+
+272
+00:15:26,176 --> 00:15:28,428
+You all, everybody
+
+273
+00:15:29,513 --> 00:15:31,723
+you all, everybody
+
+274
+00:15:32,599 --> 00:15:35,978
+acting like it's stupid people
+
+275
+00:15:36,061 --> 00:15:38,981
+wearing expensive clothes
+
+276
+00:15:39,857 --> 00:15:42,109
+you all, everybody
+
+277
+00:15:43,360 --> 00:15:45,737
+you all, everybody
+
+278
+00:15:48,615 --> 00:15:51,118
+you all, everybody
+
+279
+00:15:59,251 --> 00:16:00,002
+Ok.
+
+280
+00:16:00,419 --> 00:16:01,378
+Ok, ok.
+
+281
+00:16:02,045 --> 00:16:03,422
+Hé, mec. Merci d'être venu.
+
+282
+00:16:03,714 --> 00:16:04,548
+Hé, mec.
+
+283
+00:16:05,007 --> 00:16:05,799
+Liam !
+
+284
+00:16:10,012 --> 00:16:11,180
+C'était quoi ça ?
+
+285
+00:16:12,055 --> 00:16:14,224
+Un autre concert qui tue. Tu as été grave brillant.
+
+286
+00:16:14,391 --> 00:16:16,310
+C'est moi qui chante le refrain "you all, everybody"
+
+287
+00:16:16,476 --> 00:16:17,477
+Oh, ouais. Désolé.
+
+288
+00:16:18,103 --> 00:16:21,440
+J'ai été pris dans le moment, la foule le voulait.
+
+289
+00:16:21,607 --> 00:16:24,359
+Ouais, je sais, mais si je commence, qu'ensuite tu...
+
+290
+00:16:24,443 --> 00:16:25,652
+C'est bon ! Laisse-la entrer !
+
+291
+00:16:26,195 --> 00:16:28,238
+Ca ne se reproduira plus. Promis.
+
+292
+00:16:29,740 --> 00:16:30,949
+Salut, ma belle.
+
+293
+00:16:42,711 --> 00:16:44,463
+Relax, petit frère.
+
+294
+00:16:58,435 --> 00:17:01,146
+Hé ! Hé, attends ! Attends, Jack est là-dedans.
+
+295
+00:17:01,230 --> 00:17:04,733
+Laissez-moi vérifier avant de commencer. Si c'est instable...
+
+296
+00:17:04,858 --> 00:17:06,985
+- Comment tu vas savoir...
+- Huit années dans le bâtiment.
+
+297
+00:17:07,069 --> 00:17:09,238
+Hé, Walt, recule. je ne veux pas te voir près des pierres, ok ?
+
+298
+00:17:09,279 --> 00:17:10,405
+et prends le chien avec toi.
+
+299
+00:17:10,489 --> 00:17:11,615
+Vous devriez aller chercher M. Locke.
+
+300
+00:17:11,782 --> 00:17:14,701
+Locke est dans la jungle en train de tuer des trucs. Qui sait où il est ?
+
+301
+00:17:19,581 --> 00:17:22,251
+Ok, écoutez, cette zone sert de pilier.
+
+302
+00:17:22,501 --> 00:17:25,796
+On doit creuser là où il n'y a pas de risque que le mur s'écroule.
+
+303
+00:17:30,092 --> 00:17:33,262
+Ok, ici. On creuse ici pour que le mur ne s'écroule pas.
+
+304
+00:17:33,387 --> 00:17:36,640
+Quatre à la fois, à la main jusqu'à ce qu'on trouve une sorte de pelle.
+
+305
+00:17:36,682 --> 00:17:39,101
+On se relaie et on y va doucement.
+
+306
+00:17:39,226 --> 00:17:41,728
+Ceux qui ne creusent pas poussent les rochers qu'on a enlevés
+
+307
+00:17:41,770 --> 00:17:43,313
+et amènent de l'eau à ceux qui travaillent, ok ?
+
+308
+00:17:43,605 --> 00:17:45,065
+C'est parti. Allez.
+
+309
+00:17:52,489 --> 00:17:53,282
+Hé.
+
+310
+00:17:53,740 --> 00:17:54,992
+Qu'est-ce que tu fous ici ?
+
+311
+00:17:55,617 --> 00:17:56,451
+Calme.
+
+312
+00:17:57,202 --> 00:17:58,453
+Je viens juste te dire quelque chose.
+
+313
+00:17:58,579 --> 00:18:01,164
+Qu'est-ce qui te faire croire que ce que tu as à dire m'intéresse ?
+
+314
+00:18:10,883 --> 00:18:13,510
+Je viens juste te dire que tu avais raison à mon sujet.
+
+315
+00:18:13,594 --> 00:18:15,512
+Je ne fais que ce qui a un intérêt pour moi.
+
+316
+00:18:16,805 --> 00:18:19,057
+Alors je suis là prêt à participer.
+
+317
+00:18:20,058 --> 00:18:21,310
+Tu es ici pour aider ?
+
+318
+00:18:23,729 --> 00:18:24,521
+Hé !
+
+319
+00:18:25,105 --> 00:18:27,149
+Si tu avais l'air encore un peu plus surprise, je le prendrais mal.
+
+320
+00:18:40,120 --> 00:18:41,496
+Quelque chose ne va pas, Charlie?
+
+321
+00:18:42,706 --> 00:18:43,665
+Ouais.
+
+322
+00:18:44,208 --> 00:18:44,917
+Jack.
+
+323
+00:18:45,709 --> 00:18:46,710
+Il est, euh...
+
+324
+00:18:47,711 --> 00:18:50,130
+Il y a eu un accident aux cavernes.
+
+325
+00:18:50,714 --> 00:18:52,216
+Jack est coincé dans une grotte.
+
+326
+00:18:54,343 --> 00:18:55,719
+Quelqu'un essaie de l'en sortir ?
+
+327
+00:18:55,928 --> 00:18:58,263
+Ouais, il y a pas mal de gens.
+
+328
+00:18:58,514 --> 00:18:59,848
+Et pourquoi tu n'es pas avec eux ?
+
+329
+00:19:10,108 --> 00:19:12,444
+Tu n'es pas venu ici pour me parler de Jack, si ?
+
+330
+00:19:15,072 --> 00:19:16,907
+Je veux ma came, Locke.
+
+331
+00:19:19,660 --> 00:19:21,703
+Je ne supporte plus d'être dans cet état.
+
+332
+00:19:25,415 --> 00:19:27,751
+Viens par là. Je vais te montrer quelque chose.
+
+333
+00:19:35,175 --> 00:19:37,427
+Qu'est-ce que tu crois qu'il y ait dans ce cocon, Charlie ?
+
+334
+00:19:39,137 --> 00:19:41,390
+Je ne sais pas, un papillon, j'imagine.
+
+335
+00:19:41,431 --> 00:19:44,768
+Non, c'est bien plus beau que ça. C'est le cocon d'un papillon de nuit.
+
+336
+00:19:46,019 --> 00:19:50,107
+C'est ironique. On parle toujours des papillons mais ceux de nuit... ils tissent de la soie.
+
+337
+00:19:50,482 --> 00:19:52,234
+Ils sont plus forts, plus rapides.
+
+338
+00:19:52,317 --> 00:19:55,654
+- C'est merveilleux, mais...
+- Tu vois ce petit trou ?
+
+339
+00:19:57,364 --> 00:19:59,366
+Ce papillon de nuit va bientôt sortir.
+
+340
+00:19:59,575 --> 00:20:01,243
+Il est là-dedans en ce moment, en train de lutter.
+
+341
+00:20:01,618 --> 00:20:04,329
+Il creuse son chemin à travers la fine peau du cocon.
+
+342
+00:20:04,413 --> 00:20:06,832
+Je pourrais l'aider...
+
+343
+00:20:08,542 --> 00:20:09,751
+prendre mon couteau,
+
+344
+00:20:10,836 --> 00:20:13,839
+en élargissant doucement l'ouverture, et le papillon de nuit serait libre.
+
+345
+00:20:14,006 --> 00:20:16,550
+Mais il serait trop faible pour survivre.
+
+346
+00:20:18,218 --> 00:20:20,929
+Lutter est la façon naturelle de se renforcer.
+
+347
+00:20:21,430 --> 00:20:24,308
+C'est la seconde fois que tu me demandes ta came.
+
+348
+00:20:28,437 --> 00:20:30,689
+Demande-la moi encore une fois, et elle est à toi.
+
+349
+00:20:53,045 --> 00:20:55,255
+On y est ! On a fait un trou !
+
+350
+00:20:55,631 --> 00:20:58,634
+Jack ! Jack, tu m'entends, Jack ?
+
+351
+00:21:03,138 --> 00:21:04,640
+Allez, mec, réponds-moi.
+
+352
+00:21:09,436 --> 00:21:10,938
+Je l'entends ! Il est en vie !
+
+353
+00:21:11,021 --> 00:21:12,022
+Jack, ça va ?
+
+354
+00:21:13,857 --> 00:21:15,859
+Je suis coincé. Je ne peux pas bouger.
+
+355
+00:21:21,323 --> 00:21:22,699
+Je ne peux pas bouger !
+
+356
+00:21:25,410 --> 00:21:26,495
+Qu'est-ce qu'on fait ?
+
+357
+00:21:26,578 --> 00:21:27,579
+Comment est-ce qu'on le sort de là ?
+
+358
+00:21:32,668 --> 00:21:34,002
+Charlie était avec moi !
+
+359
+00:21:34,086 --> 00:21:37,005
+- Il va bien. Il s'en est sorti.
+- Hé, écoute, Jack.
+
+360
+00:21:37,798 --> 00:21:39,591
+On va te sortir de là, ok ?
+
+361
+00:21:52,312 --> 00:21:54,398
+On va placer la seconde antenne ici.
+
+362
+00:21:55,315 --> 00:21:56,316
+Tu veux aider ?
+
+363
+00:22:00,195 --> 00:22:04,324
+Attache cette antenne dans cet arbre aussi haut que tu peux.
+
+364
+00:22:04,491 --> 00:22:06,159
+Super, merci, boss.
+
+365
+00:22:12,624 --> 00:22:13,625
+17h00.
+
+366
+00:22:14,209 --> 00:22:16,545
+Attendez ma fusée. Et puis c'est à vous.
+
+367
+00:22:17,629 --> 00:22:18,881
+Je ne lui fais pas confiance.
+
+368
+00:22:19,882 --> 00:22:20,924
+Qui  lui fait confiance ?
+
+369
+00:22:23,969 --> 00:22:25,846
+Je ne lui fais pas confiance en le laissant seul avec toi.
+
+370
+00:22:26,763 --> 00:22:28,056
+Je peux m'occuper de lui.
+
+371
+00:22:37,316 --> 00:22:40,068
+Ok, on ne peut pas faire un tunnel plus large sans prendre de risque,
+
+372
+00:22:40,444 --> 00:22:41,987
+mais comme Jack ne peut pas sortir,
+
+373
+00:22:42,237 --> 00:22:44,281
+l'un de nous va devoir y aller et le décoincer.
+
+374
+00:22:44,489 --> 00:22:45,616
+Quoi ? Ramper là-dedans ?
+
+375
+00:22:45,699 --> 00:22:46,950
+Je crois qu'il pense à quelqu'un de plus petit.
+
+376
+00:22:48,827 --> 00:22:51,663
+- Mec, on ne parle pas chinois.
+- Coréen, mec.
+
+377
+00:22:54,124 --> 00:22:54,958
+Ils sont coréens.
+
+378
+00:22:55,042 --> 00:22:58,670
+- Je vais le faire.
+- Charlie ?
+
+379
+00:22:59,880 --> 00:23:02,925
+Non, t'es encore trop secoué. je pourrais peut-être m'y glisser...
+
+380
+00:23:03,008 --> 00:23:06,303
+Attends. Qui s'occupera de ton fils s'il t'arrive quelque chose ?
+
+381
+00:23:09,473 --> 00:23:12,059
+Elle a un mari. Il a une sœur.
+
+382
+00:23:12,935 --> 00:23:13,894
+Je suis seul ici.
+
+383
+00:23:15,312 --> 00:23:16,480
+Je n'ai personne sur cette île.
+
+384
+00:23:19,358 --> 00:23:20,400
+Laisse-moi le faire.
+
+385
+00:23:31,119 --> 00:23:33,664
+Pas encore 17h00, comme la dernière fois que tu as regardé ta montre.
+
+386
+00:23:33,830 --> 00:23:35,749
+Je ne veux pas rater le signal de Sayid.
+
+387
+00:23:35,958 --> 00:23:38,710
+Souviens-toi, je lancerai la fusée. Tu allumeras l'antenne.
+
+388
+00:23:39,044 --> 00:23:41,755
+Je viens de remercier le bon dieu de t'avoir envoyée pour me le rappeler.
+
+389
+00:23:42,464 --> 00:23:44,633
+C'est un sale job, mais quelqu'un doit s'en charger.
+
+390
+00:23:48,345 --> 00:23:49,847
+Alors qu'est-ce qu'il a de si bien ce gars ?
+
+391
+00:23:52,599 --> 00:23:53,392
+Jack ?
+
+392
+00:23:54,434 --> 00:23:56,144
+Qu'est-ce qu'il a qui...
+
+393
+00:23:56,979 --> 00:23:58,480
+t'excite tant ?
+
+394
+00:23:59,439 --> 00:24:01,316
+Tu essaies d'être un porc ou c'est naturel ?
+
+395
+00:24:03,443 --> 00:24:04,862
+Il est docteur, c'est ça ?
+
+396
+00:24:05,529 --> 00:24:07,990
+Ouais, les femmes aiment les docteurs.
+
+397
+00:24:08,282 --> 00:24:10,242
+Donne-moi quelques pansements,
+
+398
+00:24:10,325 --> 00:24:12,744
+une bouteille de peroxyde, et je pourrais aussi gouverner cette île.
+
+399
+00:24:13,662 --> 00:24:15,956
+Tu es vraiment en train de te comparer à Jack ?
+
+400
+00:24:18,792 --> 00:24:21,295
+La différence entre nous n'est pas si grande, chérie.
+
+401
+00:24:22,838 --> 00:24:25,883
+Je te garantis que s'il avait survécu quelques semaines de plus à cette île,
+
+402
+00:24:25,924 --> 00:24:27,176
+tu t'en serais rendu compte.
+
+403
+00:24:29,011 --> 00:24:30,554
+Qu'est-ce que tu viens de dire ?
+
+404
+00:24:35,225 --> 00:24:38,687
+Ah, merde. Je ne te l'ai pas dit ?
+
+405
+00:24:39,062 --> 00:24:43,025
+La rumeur dans la vallée dit que St. Jack est coincé dans une grotte.
+
+406
+00:24:44,818 --> 00:24:45,777
+Quoi ?
+
+407
+00:24:45,903 --> 00:24:49,406
+Regarde les choses du bon côté. Maintenant quelqu'un d'autre doit te faire pitié.
+
+408
+00:25:00,167 --> 00:25:02,503
+Ecoute, mec, vas-y doucement, d'accord ?
+
+409
+00:25:02,753 --> 00:25:04,922
+Essaie de ne pas faire bouger les pierres autour de toi.
+
+410
+00:25:05,672 --> 00:25:06,673
+Quelque chose d'autre ?
+
+411
+00:25:07,007 --> 00:25:07,799
+Ouais.
+
+412
+00:25:08,342 --> 00:25:09,176
+Bonne chance.
+
+413
+00:25:10,344 --> 00:25:11,345
+Sois prudent, mec.
+
+414
+00:25:12,095 --> 00:25:12,971
+Bonne chance, Charlie.
+
+415
+00:25:14,014 --> 00:25:15,349
+D'accord. Merci, les gars.
+
+416
+00:25:57,766 --> 00:25:59,059
+Putain de merde.
+
+417
+00:26:00,477 --> 00:26:04,106
+Hé, petit frère, prends un verre et assieds-toi.
+
+418
+00:26:05,274 --> 00:26:06,066
+Sortez.
+
+419
+00:26:06,775 --> 00:26:07,693
+Vous deux, sortez.
+
+420
+00:26:08,819 --> 00:26:09,570
+Dehors !
+
+421
+00:26:10,153 --> 00:26:11,864
+Allez.
+
+422
+00:26:12,030 --> 00:26:13,115
+Revenez dans cinq minutes.
+
+423
+00:26:19,121 --> 00:26:20,122
+La vérification du son.
+
+424
+00:26:20,998 --> 00:26:22,207
+Tu as raté la vérification du son.
+
+425
+00:26:22,291 --> 00:26:23,584
+Tu ne te pointes pas aux répétitions.
+
+426
+00:26:23,625 --> 00:26:24,668
+On a un concert dans une heure.
+
+427
+00:26:24,751 --> 00:26:27,171
+Ouh, un concert. J'aime les concerts.
+
+428
+00:26:28,630 --> 00:26:31,091
+Ah, ouais.
+
+429
+00:26:34,052 --> 00:26:34,845
+D'accord.
+
+430
+00:26:35,429 --> 00:26:36,096
+C'en est trop.
+
+431
+00:26:36,138 --> 00:26:37,806
+Après ce soir, on annule le reste de la tournée.
+
+432
+00:26:39,141 --> 00:26:39,766
+Quoi ?
+
+433
+00:26:40,100 --> 00:26:41,226
+On laisse tomber.
+
+434
+00:26:41,518 --> 00:26:42,603
+T'as pété un câble ?
+
+435
+00:26:42,686 --> 00:26:44,980
+On laisse tomber comme on avait dit qu'on le ferait si...
+
+436
+00:26:45,063 --> 00:26:46,023
+Laisser tomber pour faire quoi ?
+
+437
+00:26:48,275 --> 00:26:50,402
+Liam, tu te tues avec cette merde !
+
+438
+00:26:50,444 --> 00:26:53,155
+- Tu détruis Driveshaft !
+- Je suis Driveshaft!
+
+439
+00:26:53,739 --> 00:26:56,700
+Personne ne sait qui est le putain de bassiste !
+
+440
+00:26:57,409 --> 00:26:58,952
+C'est comme ça, Charlie.
+
+441
+00:26:59,036 --> 00:27:00,204
+Reviens sur terre.
+
+442
+00:27:00,329 --> 00:27:02,206
+Tu crois vraiment pouvoir laisser tomber ?
+
+443
+00:27:02,998 --> 00:27:04,041
+Et puis quoi, hein ?
+
+444
+00:27:04,583 --> 00:27:08,754
+Regarde la vérité, si t'es pas dans ce groupe, alors à quoi tu sers ?
+
+445
+00:27:13,592 --> 00:27:14,468
+Liam.
+
+446
+00:27:14,593 --> 00:27:15,594
+Va te faire foutre !
+
+447
+00:28:20,951 --> 00:28:21,994
+Charlie ?!
+
+448
+00:28:22,661 --> 00:28:23,829
+Charlie, bouge !
+
+449
+00:28:24,538 --> 00:28:25,706
+Hé, Charlie !
+
+450
+00:28:57,362 --> 00:28:58,238
+Je suis, euh...
+
+451
+00:28:58,614 --> 00:28:59,781
+Je suis là pour te sauver.
+
+452
+00:29:05,829 --> 00:29:07,623
+- On doit réessayer.
+- On ne peut pas les laisser...
+
+453
+00:29:07,664 --> 00:29:09,208
+Si on ne fait rien, ils vont manquer d'air.
+
+454
+00:29:09,249 --> 00:29:10,876
+Hé, vous voulez pas arrêter de parler ? J'essaie de réfléchir !
+
+455
+00:29:11,168 --> 00:29:13,378
+Où est-il ? Où est-il ?!
+
+456
+00:29:13,462 --> 00:29:14,171
+Kate...
+
+457
+00:29:14,379 --> 00:29:15,672
+Où est-il ? Où est Jack ?
+
+458
+00:29:23,472 --> 00:29:24,348
+Il est là-dedans.
+
+459
+00:29:29,228 --> 00:29:30,771
+Quelqu'un sait s'il est en vie ?
+
+460
+00:29:32,940 --> 00:29:34,816
+- Est-il en vie ?!
+- On ne sait pas.
+
+461
+00:29:34,900 --> 00:29:36,693
+Charlie est allé là-dedans par un tunnel qu'on a creusé,
+
+462
+00:29:37,486 --> 00:29:38,946
+mais il s'est écroulé.
+
+463
+00:29:42,699 --> 00:29:44,159
+Pourquoi est-ce que personne ne creuse ?
+
+464
+00:29:56,755 --> 00:30:01,051
+Ok, 1, 2... 3!
+
+465
+00:30:04,513 --> 00:30:06,515
+Désolé, Jack. Désolé.
+
+466
+00:30:07,057 --> 00:30:07,975
+Ca va ?
+
+467
+00:30:10,185 --> 00:30:12,145
+Mon épaule est déboîtée.
+
+468
+00:30:12,354 --> 00:30:13,188
+Quoi ?
+
+469
+00:30:15,065 --> 00:30:16,900
+Tu vas devoir la remettre en place.
+
+470
+00:30:17,109 --> 00:30:18,861
+- Non, je ne peux pas.
+- J'ai besoin de ton aide.
+
+471
+00:30:18,944 --> 00:30:20,571
+- Je ne peux pas le faire, Jack.
+- Si, tu le peux.
+
+472
+00:30:20,654 --> 00:30:22,072
+Si, tu peux.
+
+473
+00:30:23,824 --> 00:30:24,575
+Ok.
+
+474
+00:30:25,367 --> 00:30:26,827
+Qu'est-ce que... qu'est-ce que je fais ?
+
+475
+00:30:29,329 --> 00:30:30,455
+Prends ma main.
+
+476
+00:30:30,956 --> 00:30:32,708
+Une seconde. Ok. Ok, attends.
+
+477
+00:30:32,791 --> 00:30:34,042
+Ok. Ok.
+
+478
+00:30:34,126 --> 00:30:38,964
+Maintenant, quand je te le dirai, tire de toutes tes forces.
+
+479
+00:30:39,047 --> 00:30:40,674
+Jack, je ne sais pas je peux... je ne...
+
+480
+00:30:40,799 --> 00:30:42,301
+Tu peux le faire, Charlie.
+
+481
+00:30:43,635 --> 00:30:46,221
+Ok. Ok. Ok. Ok. Ok.
+
+482
+00:30:54,438 --> 00:30:55,355
+Maintenant.
+
+483
+00:31:25,677 --> 00:31:26,720
+Charlie.
+
+484
+00:31:27,221 --> 00:31:28,430
+Qu'est-ce que tu fais ici ?
+
+485
+00:31:28,639 --> 00:31:31,058
+Quoi ? Un gars ne peut pas rendre visite à son frère une fois de temps en temps ?
+
+486
+00:31:31,308 --> 00:31:34,228
+Bien sûr qu'il peut. Pourquoi tu ne m'appelais plus, espèce de lunatique ?
+
+487
+00:31:34,311 --> 00:31:35,562
+Qu'est-ce que tu fais à Sydney ?
+
+488
+00:31:36,730 --> 00:31:38,190
+Tout est prévu, Liam.
+
+489
+00:31:38,398 --> 00:31:41,944
+Huit semaines de tournée en première partie d'un groupe qui s'appelle Meat Coat.
+
+490
+00:31:44,363 --> 00:31:45,822
+Le premier concert est à Los Angeles.
+
+491
+00:31:47,699 --> 00:31:49,034
+L.A., Liam.
+
+492
+00:31:50,494 --> 00:31:52,996
+C'est une chance de retrouver un label.
+
+493
+00:31:53,956 --> 00:31:54,915
+Un vrai.
+
+494
+00:31:57,501 --> 00:31:58,877
+C'est notre come back.
+
+495
+00:32:00,254 --> 00:32:03,590
+Charlie, je ne veux pas faire de come back.
+
+496
+00:32:05,509 --> 00:32:09,680
+Ouais, d'accord. Le truc, c'est que...
+
+497
+00:32:10,639 --> 00:32:15,102
+ils ne veulent pas de Driveshaft sans toi.
+
+498
+00:32:17,729 --> 00:32:18,897
+Alors je te le demande...
+
+499
+00:32:19,857 --> 00:32:21,149
+en tant que frère...
+
+500
+00:32:23,277 --> 00:32:24,778
+comme tu me l'avais demandé.
+
+501
+00:32:25,988 --> 00:32:28,574
+Tu étais avec moi la nuit où j'ai raté la naissance de Megan.
+
+502
+00:32:29,199 --> 00:32:33,120
+C'était toi que je bousculais pour trouver un fix.
+
+503
+00:32:41,003 --> 00:32:43,922
+- T'es encore accro, n'est-ce pas ?
+- Oh, ne change pas de sujet.
+
+504
+00:32:44,006 --> 00:32:45,757
+C'est pour ça que tu ne me rappelais pas.
+
+505
+00:32:45,841 --> 00:32:47,885
+- Tu vas partir en tournée avec nous ou pas ?
+- Tu as dit que tu te ferais soigner.
+
+506
+00:32:48,635 --> 00:32:50,596
+- J'ai perdu ton numéro.
+- Tu es toujours un junkie !
+
+507
+00:32:50,679 --> 00:32:52,097
+C'est à cause de toi que je suis comme ça !
+
+508
+00:32:52,556 --> 00:32:54,183
+Avant c'était la musique qui comptait !
+
+509
+00:32:58,270 --> 00:32:59,521
+La musique, Liam.
+
+510
+00:33:02,191 --> 00:33:03,734
+Tu m'as pris ça.
+
+511
+00:33:04,651 --> 00:33:09,198
+Ecoute, reste donc avec nous quelques semaines ?
+
+512
+00:33:09,281 --> 00:33:10,991
+Karen et moi, on peut t'aider.
+
+513
+00:33:11,074 --> 00:33:13,202
+Sydney a des programmes vraiment bons.
+
+514
+00:33:13,285 --> 00:33:14,244
+Laisse tomber.
+
+515
+00:33:14,369 --> 00:33:15,204
+Ne pars pas.
+
+516
+00:33:15,871 --> 00:33:17,873
+- Merci pour ton aide, frèrot.
+- Reste, s'il te plaît.
+
+517
+00:33:18,665 --> 00:33:19,833
+J'essaie juste de veiller sur toi !
+
+518
+00:33:19,917 --> 00:33:21,710
+Tu n'as jamais veillé sur moi !
+
+519
+00:33:25,881 --> 00:33:27,174
+J'ai un avion à prendre.
+
+520
+00:33:38,810 --> 00:33:40,312
+Ca fait combien de temps, Charlie ?
+
+521
+00:33:41,939 --> 00:33:43,440
+Je ne sais pas de quoi tu parles.
+
+522
+00:33:43,732 --> 00:33:45,651
+Combien de temps depuis ton dernier fix ?
+
+523
+00:33:52,282 --> 00:33:53,700
+Presque un jour et demi.
+
+524
+00:33:54,451 --> 00:33:55,953
+Qu'est-ce que le manque te fait subir ?
+
+525
+00:33:56,703 --> 00:33:57,996
+T'as des hallucinations ?
+
+526
+00:33:59,164 --> 00:34:02,459
+A part la conversation que j'ai eue avec toi il y a une heure dans la jungle ?
+
+527
+00:34:03,377 --> 00:34:04,461
+Non, pas vraiment.
+
+528
+00:34:06,129 --> 00:34:07,589
+Pourquoi tu n'as rien dit ?
+
+529
+00:34:09,049 --> 00:34:10,843
+J'aurais pu t'aider à traverser ça.
+
+530
+00:34:11,385 --> 00:34:14,471
+Ouais. Tu penses que je suis un junkie inutile.
+
+531
+00:34:15,055 --> 00:34:16,014
+Inutile ?
+
+532
+00:34:16,974 --> 00:34:18,267
+Tu n'es pas inutile.
+
+533
+00:34:18,433 --> 00:34:21,395
+Il t'a fallu beaucoup de courage pour venir ici et essayer de me sauver.
+
+534
+00:34:22,521 --> 00:34:23,689
+Je n'oublierai pas ça.
+
+535
+00:34:24,523 --> 00:34:25,941
+Pour le reste de nos existences ?
+
+536
+00:34:30,821 --> 00:34:33,365
+A la vitesse où on consomme notre oxygène,
+
+537
+00:34:33,991 --> 00:34:35,492
+ça ne sera pas bien long.
+
+538
+00:34:38,453 --> 00:34:39,663
+Cet endroit...
+
+539
+00:34:39,872 --> 00:34:41,331
+ça me rappelle le confessionnal.
+
+540
+00:34:42,040 --> 00:34:45,085
+Cette petite cabine claustrophobique.
+
+541
+00:34:46,587 --> 00:34:48,964
+Je n'aurais pas cru que tu sois un homme religieux.
+
+542
+00:34:50,507 --> 00:34:51,800
+Je l'étais.
+
+543
+00:34:53,010 --> 00:34:54,344
+Hé, tu veux entendre ma confession ?
+
+544
+00:34:55,596 --> 00:34:56,597
+Ca risque de prendre du temps.
+
+545
+00:34:57,806 --> 00:34:59,433
+Hé, je ne suis pas un saint non plus.
+
+546
+00:35:03,937 --> 00:35:05,022
+Qu'est-ce qu'il y a ?
+
+547
+00:35:06,064 --> 00:35:07,316
+Il y a un papillon de nuit.
+
+548
+00:35:07,816 --> 00:35:08,609
+Un quoi ?
+
+549
+00:35:08,817 --> 00:35:10,068
+Juste derrière toi. Regarde, regarde.
+
+550
+00:35:10,194 --> 00:35:11,778
+Il y a un putain de papillon de nuit ici.
+
+551
+00:35:12,529 --> 00:35:13,280
+Regarde.
+
+552
+00:35:15,824 --> 00:35:17,242
+Charlie, qu'est-ce que tu fais ?
+
+553
+00:35:34,593 --> 00:35:36,512
+Hé, Kate, fais donc une pause.
+
+554
+00:35:38,847 --> 00:35:39,806
+Je vais bien.
+
+555
+00:35:43,352 --> 00:35:45,020
+On a assez de gens pour creuser.
+
+556
+00:35:45,103 --> 00:35:47,231
+Si tu continues à ce rythme, tu vas te tuer.
+
+557
+00:35:52,736 --> 00:35:53,695
+Il y a de la lumière.
+
+558
+00:35:54,571 --> 00:35:55,447
+Quoi ?
+
+559
+00:35:55,614 --> 00:35:56,698
+Je vois de la lumière !
+
+560
+00:36:32,693 --> 00:36:34,027
+Hé, c'est le docteur !
+
+561
+00:36:49,293 --> 00:36:50,836
+Oh! Doucement !
+
+562
+00:36:52,129 --> 00:36:53,130
+Mon épaule.
+
+563
+00:36:53,463 --> 00:36:54,256
+Attention.
+
+564
+00:36:55,132 --> 00:36:56,049
+Comment vous êtes sortis ?
+
+565
+00:36:56,216 --> 00:36:58,594
+Charlie. Charlie a trouvé une sortie.
+
+566
+00:36:58,677 --> 00:36:59,636
+Mec, t'assures !
+
+567
+00:37:02,514 --> 00:37:03,724
+Ca va ?
+
+568
+00:37:03,932 --> 00:37:05,559
+Ca va ? Beau boulot.
+
+569
+00:37:09,688 --> 00:37:10,731
+Doucement, doucement, doucement.
+
+570
+00:37:12,274 --> 00:37:15,360
+- Bien joué. Tu l'as fait, mec.
+- Merci. Merci.
+
+571
+00:37:36,089 --> 00:37:37,966
+Ok, tout le monde, maintenant c'est à vous.
+
+572
+00:37:38,550 --> 00:37:42,971
+On est à Malibu une partie de l'année mais les gars de là-bas sont des idiots...
+
+573
+00:37:47,142 --> 00:37:47,976
+Merde !
+
+574
+00:37:49,186 --> 00:37:50,854
+Merde, merde, merde.
+
+575
+00:38:02,824 --> 00:38:04,576
+Allez, Kate. Allez.
+
+576
+00:38:04,660 --> 00:38:07,412
+Une de plus. Une de plus. Allez, Kate. Allez.
+
+577
+00:38:10,999 --> 00:38:13,669
+Oui. Oui.
+
+578
+00:38:23,679 --> 00:38:24,805
+Où es-tu ?
+
+579
+00:38:26,974 --> 00:38:28,100
+Oui !
+
+580
+00:38:30,853 --> 00:38:32,855
+Où es-tu ? Où es-tu ?
+
+581
+00:38:51,164 --> 00:38:53,542
+Mec, ça va ? tu as l'air un peu...
+
+582
+00:38:53,667 --> 00:38:55,669
+Grippé. Il a une grippe.
+
+583
+00:38:55,752 --> 00:38:57,254
+Oh, mec, c'est dur.
+
+584
+00:38:57,337 --> 00:39:00,048
+Après tout ce que tu as dû endurer. Repose-toi, mec.
+
+585
+00:39:20,777 --> 00:39:23,572
+Je vais aller me détendre les jambes.
+
+586
+00:39:37,794 --> 00:39:39,963
+Cet endroit est cool. On peut vivre ici ?
+
+587
+00:39:56,813 --> 00:39:58,023
+Je t'ai fait quelque chose.
+
+588
+00:39:58,315 --> 00:40:01,068
+Ah, ma toute première écharpe.
+
+589
+00:40:02,528 --> 00:40:03,320
+C'est comment ?
+
+590
+00:40:04,947 --> 00:40:05,697
+Bien.
+
+591
+00:40:06,990 --> 00:40:07,783
+Merci.
+
+592
+00:40:10,202 --> 00:40:12,746
+Alors c'est ça les cavernes sûres dont tu n'arrêtais pas de parler.
+
+593
+00:40:14,164 --> 00:40:15,415
+C'était un coup de malchance.
+
+594
+00:40:15,874 --> 00:40:19,503
+Michael a vérifié l'intégralité des autres cavernes, elles sont ok.
+
+595
+00:40:22,422 --> 00:40:23,966
+Alors tu vas retourner à la plage, hein ?
+
+596
+00:40:24,049 --> 00:40:27,469
+Sayid doit être rentré maintenant, et si son plan a marché...
+
+597
+00:40:27,553 --> 00:40:29,972
+Alors on sera un pas plus près d'une façon de quitter cette île.
+
+598
+00:40:40,899 --> 00:40:42,276
+Merci pour l'écharpe, Kate.
+
+599
+00:40:43,986 --> 00:40:45,153
+De rien.
+
+600
+00:41:07,176 --> 00:41:08,594
+Donne-la moi.
+
+601
+00:41:13,015 --> 00:41:14,433
+C'est la troisième fois.
+
+602
+00:41:15,100 --> 00:41:17,811
+- Es-tu vraiment sûr que tu veuilles...
+- j'ai fait mon choix.
+
+603
+00:41:50,093 --> 00:41:51,553
+Je suis fier de toi, Charlie.
+
+604
+00:41:56,141 --> 00:41:57,726
+J'ai toujours su que tu pouvais le faire.
+
+605
+00:41:57,809 --> 00:41:59,144
+Sous-titres : Travis, RaceMan et Amariss
+www.forom.com
+

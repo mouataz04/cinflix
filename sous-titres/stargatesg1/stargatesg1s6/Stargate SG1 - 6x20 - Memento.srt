@@ -1,0 +1,1909 @@
+1
+00:00:10,828 --> 00:00:14,377
+Tous en alerte.
+Commandant Grant, allez-y.
+
+2
+00:00:14,468 --> 00:00:18,507
+Un vaisseau goa'uld a traversé
+une fenêtre de l'hyperespace.
+
+3
+00:00:18,588 --> 00:00:23,821
+- Alertez le quartier général.
+- Un vaisseau goa'uld arrive sur nous.
+
+4
+00:00:23,908 --> 00:00:29,221
+Boucliers en défense maximale.
+Préparez à charger les missiles.
+
+5
+00:00:33,428 --> 00:00:34,622
+Pardon.
+
+6
+00:00:36,948 --> 00:00:38,347
+C'est énervant.
+
+7
+00:00:38,428 --> 00:00:41,500
+Ronson a ordonné
+un exercice de défense.
+
+8
+00:00:41,588 --> 00:00:45,706
+- Encore.
+- On participe à l'évaluation des dégâts?
+
+9
+00:00:45,788 --> 00:00:49,542
+S'il y a des dégâts,
+j'évaluerai de mon mieux.
+
+10
+00:00:49,628 --> 00:00:51,744
+Je veux parler à Ronson.
+
+11
+00:00:54,628 --> 00:00:59,907
+- Vaisseau goa'uld en ligne de mire.
+- Préparez-vous à tirer.
+
+12
+00:00:59,988 --> 00:01:03,947
+- lls devraient déjà être prêts.
+- C'est sûr.
+
+13
+00:01:04,028 --> 00:01:07,304
+Vous n'avez rien à faire ici
+lors des exercices.
+
+14
+00:01:07,388 --> 00:01:10,698
+Je voulais justement vous en parler.
+
+15
+00:01:10,788 --> 00:01:13,507
+Attendez la fin de l'exercice.
+
+16
+00:01:13,588 --> 00:01:17,342
+On est toujours en plein exercice.
+
+17
+00:01:20,348 --> 00:01:22,339
+On en parlera plus tard.
+
+18
+00:01:22,428 --> 00:01:26,660
+- Teal'c, préparez-vous à nous assister.
+- Je suis prêt.
+
+19
+00:01:26,748 --> 00:01:31,060
+Ce ton mélodramatique est superflu.
+
+20
+00:01:35,108 --> 00:01:36,666
+Où en était-on?
+
+21
+00:02:41,068 --> 00:02:44,265
+Je crois qu'on est dans leurs pattes.
+
+22
+00:02:44,348 --> 00:02:49,581
+Le SG-1 connaît à la fois
+l'hyperespace et le Prométhée.
+
+23
+00:02:49,668 --> 00:02:55,857
+De plus, votre mission sur P7X-009
+ne devrait prendre que quelques heures.
+
+24
+00:02:55,948 --> 00:02:59,020
+Greer et moi souhaitons
+que vous participiez.
+
+25
+00:02:59,108 --> 00:03:03,067
+- En cas de problème?
+- C'est à peu près ça.
+
+26
+00:03:03,148 --> 00:03:06,026
+Bon vol. Terminé.
+
+27
+00:03:08,948 --> 00:03:12,577
+Prométhée demande le feu vert
+pour lancer la mission.
+
+28
+00:03:12,668 --> 00:03:17,423
+lci, Vanderberg. Activation de
+la fenêtre de l'hyperespace autorisée.
+
+29
+00:03:17,508 --> 00:03:21,057
+Bien reçu. On peut y aller.
+
+30
+00:03:21,148 --> 00:03:23,742
+Activation de la fenêtre.
+
+31
+00:03:34,148 --> 00:03:38,460
+- Vérifiez les systèmes d'attaque.
+- Les anneaux aussi?
+
+32
+00:03:38,908 --> 00:03:45,097
+Tous les systèmes. Et simulez
+une brèche dans la coque pour 5 heures.
+
+33
+00:03:52,188 --> 00:03:54,463
+Vous avez une bonne équipe.
+
+34
+00:03:54,548 --> 00:03:58,985
+- Vous aussi, d'ailleurs.
+- Puisqu'on en parle...
+
+35
+00:03:59,068 --> 00:04:04,779
+En cas d'incident réel, vous pensez
+que votre place est sur la passerelle.
+
+36
+00:04:04,868 --> 00:04:08,656
+ll serait idiot
+de ne pas faire appel à Teal'c.
+
+37
+00:04:08,748 --> 00:04:13,776
+C'est vrai, mais il s'agit
+d'une simple simulation.
+
+38
+00:04:13,868 --> 00:04:19,340
+Nous devons pouvoir compter
+les uns sur les autres en votre absence.
+
+39
+00:04:19,428 --> 00:04:21,544
+Je peux le comprendre.
+
+40
+00:04:21,628 --> 00:04:24,620
+Je doute qu'on croise les Goa'ulds.
+
+41
+00:04:28,148 --> 00:04:31,026
+On vient de quitter l'hyperespace.
+
+42
+00:04:32,068 --> 00:04:34,059
+Retrouvez-moi sur la passerelle.
+
+43
+00:04:38,548 --> 00:04:43,178
+On devait rester encore 90 minutes
+dans l'hyperespace.
+
+44
+00:04:43,268 --> 00:04:47,705
+- Quelle est notre position?
+- 40,62 années-lumière de la cible.
+
+45
+00:04:47,788 --> 00:04:50,348
+L'hyperpropulseur s'est éteint.
+
+46
+00:04:50,428 --> 00:04:54,740
+Le système informatique a dû détecter
+une instabilité du naquadria.
+
+47
+00:04:54,828 --> 00:04:59,299
+ll a raison. ll y a eu
+une brusque surtension.
+
+48
+00:04:59,388 --> 00:05:04,667
+- Relancez la procédure d'allumage.
+- Le système ne l'autorise pas.
+
+49
+00:05:07,148 --> 00:05:10,060
+- Vous disiez que ça marcherait.
+- Ca a marché.
+
+50
+00:05:10,148 --> 00:05:14,300
+- C'est faux.
+- L'hyperpropulseur est doté d'un tampon
+
+51
+00:05:14,388 --> 00:05:18,347
+pour amortir les variations
+énergétiques du naquadria.
+
+52
+00:05:18,428 --> 00:05:22,057
+- Ca n'aurait pas dû arriver.
+- Pourtant, c'est arrivé.
+
+53
+00:05:22,148 --> 00:05:24,946
+Le tampon a dû être endommagé.
+
+54
+00:05:25,028 --> 00:05:29,021
+- J'aimerais l'examiner.
+- Moi aussi.
+
+55
+00:05:29,108 --> 00:05:33,101
+Emmenez le commandant Grant
+et tenez-moi au courant.
+
+56
+00:05:37,548 --> 00:05:41,336
+On avait raison.
+Le tampon a reçu une surcharge.
+
+57
+00:05:41,428 --> 00:05:44,738
+ll a été créé pour réguler
+des énergies puissantes.
+
+58
+00:05:44,828 --> 00:05:47,820
+Les capteurs ont relevé
+des ondes de gravité.
+
+59
+00:05:47,908 --> 00:05:51,583
+On a traversé des ondes
+de gravité très denses.
+
+60
+00:05:51,668 --> 00:05:55,377
+- Ceci explique cela.
+- Les moteurs sont intacts.
+
+61
+00:05:55,468 --> 00:05:58,460
+- On a du naquadria.
+- Mais on ne peut ni le réguler
+
+62
+00:05:58,548 --> 00:06:02,905
+ni calculer la distance parcourue
+à cause de son instabilité.
+
+63
+00:06:02,988 --> 00:06:06,060
+On peut se retrouver n'importe où.
+
+64
+00:06:11,188 --> 00:06:14,225
+S'il voulait nous aider, il serait déjà là.
+
+65
+00:06:14,308 --> 00:06:17,539
+- Qui ça?
+- Thor.
+
+66
+00:06:18,068 --> 00:06:21,105
+- Petit, tout gris.
+- Je sais qui est Thor.
+
+67
+00:06:21,188 --> 00:06:25,261
+Les Asgards nous ont toujours aidés
+dans ce genre de situations.
+
+68
+00:06:26,468 --> 00:06:28,265
+Ce n'est pas encourageant.
+
+69
+00:06:28,348 --> 00:06:32,307
+Même avec un sous-programme
+contournant le tampon,
+
+70
+00:06:32,388 --> 00:06:35,141
+le réacteur risque d'exploser.
+
+71
+00:06:35,228 --> 00:06:40,018
+Réparez le tampon, même s'il faut
+détourner d'autres systèmes.
+
+72
+00:06:40,108 --> 00:06:42,417
+Je regrette, c'est impossible.
+
+73
+00:06:45,748 --> 00:06:48,023
+J'ai participé à sa conception.
+
+74
+00:06:48,108 --> 00:06:53,546
+Je ne peux pas le réparer
+avec ce dont nous disposons à bord.
+
+75
+00:06:53,628 --> 00:06:58,179
+C'est comme une ampoule qui claque.
+On ne peut pas réparer.
+
+76
+00:06:59,588 --> 00:07:04,025
+- On a des ampoules de rechange?
+- Non, pas pour ce système-là.
+
+77
+00:07:04,108 --> 00:07:06,747
+On n'a pas de pièces de rechange?
+
+78
+00:07:06,828 --> 00:07:11,948
+Avec la propulsion supra-luminique,
+il faudrait des années pour rentrer.
+
+79
+00:07:12,028 --> 00:07:16,067
+- On manquerait de réserves.
+- ll y aura des effets relativistes.
+
+80
+00:07:16,148 --> 00:07:18,742
+ll faut réparer le tampon.
+
+81
+00:07:18,828 --> 00:07:21,979
+ll existe peut-être une autre solution.
+
+82
+00:07:22,548 --> 00:07:29,021
+D'après le cartouche, la planète P3X-7 44
+se trouve à 38 années-lumière.
+
+83
+00:07:29,108 --> 00:07:34,228
+On l'a déjà appelée sans succès,
+mais elle doit avoir un Stargate.
+
+84
+00:07:34,308 --> 00:07:38,859
+- ll est peut-être enterré.
+- Là-bas, on pourrait réparer.
+
+85
+00:07:38,948 --> 00:07:42,827
+Le voyage prendrait 4 mois.
+C'est infaisable.
+
+86
+00:07:42,908 --> 00:07:46,583
+- Utilisons l'hyperpropulseur.
+- ll n'est pas hors d'usage?
+
+87
+00:07:46,668 --> 00:07:49,819
+Pour un petit trajet, non.
+
+88
+00:07:49,908 --> 00:07:52,820
+7 44 n'est pas bien loin.
+
+89
+00:07:54,188 --> 00:07:57,544
+Sur un trajet court,
+l'instabilité est moindre.
+
+90
+00:07:57,628 --> 00:07:58,902
+Je suis d'accord.
+
+91
+00:07:59,708 --> 00:08:00,777
+A vous de voir.
+
+92
+00:08:03,108 --> 00:08:05,463
+On n'a pas trop le choix.
+
+93
+00:08:08,708 --> 00:08:11,176
+Cap sur 7 44.
+
+94
+00:08:20,868 --> 00:08:24,463
+Nous sommes en orbite de P3X-7 44.
+
+95
+00:08:24,548 --> 00:08:28,177
+- C'est mieux que rien.
+- Bravo, les gars.
+
+96
+00:08:29,828 --> 00:08:33,218
+ll y a une accumulation
+d'énergie dans le naquadria.
+
+97
+00:08:33,308 --> 00:08:38,940
+- Désactivez le réacteur.
+- Les commandes ne répondent pas.
+
+98
+00:08:39,028 --> 00:08:43,306
+L'afflux d'énergie
+a dû détraquer le système.
+
+99
+00:08:43,388 --> 00:08:46,425
+Sans tampon, on ne contrôle rien.
+
+100
+00:08:46,508 --> 00:08:50,137
+ll reste quelques minutes
+avant que le réacteur n'explose.
+
+101
+00:08:50,228 --> 00:08:53,459
+Préparez à larguer le réacteur.
+
+102
+00:08:54,628 --> 00:08:58,906
+S'il n'y a pas de Stargate,
+on ne pourra plus rentrer.
+
+103
+00:08:58,988 --> 00:09:04,187
+- On n'a pas le choix.
+- Préparez les moteurs supra-luminiques.
+
+104
+00:09:04,268 --> 00:09:06,702
+On n'ira pas loin avant l'explosion.
+
+105
+00:09:06,788 --> 00:09:10,224
+On verra bien
+si nos boucliers sont efficaces.
+
+106
+00:09:10,308 --> 00:09:12,776
+Préparez-vous à l'impact.
+
+107
+00:09:12,868 --> 00:09:17,817
+Séparation du réacteur au top.
+Trois, deux, un, top.
+
+108
+00:09:25,028 --> 00:09:28,737
+- Largage effectué.
+- Quittons la zone. Pleins gaz.
+
+109
+00:09:58,028 --> 00:09:59,063
+Quels dégâts?
+
+110
+00:09:59,148 --> 00:10:02,504
+Un souffle électromagnétique
+a anéanti le système informatique.
+
+111
+00:10:02,588 --> 00:10:06,786
+- Le système de survie est intact.
+- Des blessés?
+
+112
+00:10:06,868 --> 00:10:10,907
+- Apparemment aucun.
+- Les systèmes seront rétablis quand?
+
+113
+00:10:10,988 --> 00:10:14,025
+- Trop tôt pour le dire.
+- J'aimerais vous aider.
+
+114
+00:10:14,108 --> 00:10:15,302
+Avec plaisir.
+
+115
+00:10:16,388 --> 00:10:21,337
+Des projectiles en provenance
+de la planète se dirigent droit sur nous.
+
+116
+00:10:21,428 --> 00:10:26,502
+- Vous les avez identifiés?
+- Des missiles à longue portée.
+
+117
+00:10:26,588 --> 00:10:27,782
+C'est une attaque.
+
+118
+00:10:39,628 --> 00:10:43,223
+- lls foncent droit sur nous.
+- Quittez l'orbite.
+
+119
+00:10:43,308 --> 00:10:47,745
+- Rien ne marche.
+- Préparez à les contrer.
+
+120
+00:10:47,828 --> 00:10:49,944
+Ca ne répond plus.
+
+121
+00:10:50,588 --> 00:10:53,546
+- lls vont frapper quand?
+- Dans 3 minutes.
+
+122
+00:10:53,628 --> 00:10:56,222
+Les systèmes ne seront pas rétablis.
+
+123
+00:10:56,308 --> 00:10:59,937
+lls ont tiré après l'explosion
+de l'hyperpropulseur.
+
+124
+00:11:00,028 --> 00:11:03,304
+lls ont peut-être cru qu'on les attaquait.
+
+125
+00:11:03,388 --> 00:11:08,382
+Oui. D'après les armes qu'ils utilisent,
+c'est une race assez évoluée.
+
+126
+00:11:08,468 --> 00:11:13,337
+Le champ électromagnétique qui a
+anéanti nos systèmes a dû les toucher.
+
+127
+00:11:13,428 --> 00:11:15,896
+Comment ont-ils lancé leurs missiles?
+
+128
+00:11:15,988 --> 00:11:20,106
+Sur Terre, les bases de lancement
+de missiles sont protégés.
+
+129
+00:11:20,908 --> 00:11:24,025
+- Parlons-leur.
+- Deux minutes avant l'impact.
+
+130
+00:11:24,108 --> 00:11:28,260
+Je peux émettre sur plusieurs fréquences
+pour qu'ils nous captent.
+
+131
+00:11:28,348 --> 00:11:29,064
+Allez-y.
+
+132
+00:11:31,988 --> 00:11:35,344
+lci, le colonel O'Neill
+à bord du vaisseau Prométhée.
+
+133
+00:11:35,428 --> 00:11:37,225
+Vous m'entendez?
+
+134
+00:11:39,748 --> 00:11:43,946
+Cette explosion était un accident.
+
+135
+00:11:44,028 --> 00:11:50,786
+Une charge a endommagé notre vaisseau.
+Nous sommes sans défense.
+
+136
+00:11:53,148 --> 00:11:55,901
+Nous venons de loin pour vous voir,
+
+137
+00:11:55,988 --> 00:12:00,982
+alors si vous pouviez
+arrêter ces missiles...
+
+138
+00:12:02,508 --> 00:12:07,821
+- Plus qu'une minute.
+- Préparez-vous au choc.
+
+139
+00:12:07,908 --> 00:12:13,028
+Nous aimerions atterrir et nous présenter,
+
+140
+00:12:13,108 --> 00:12:19,297
+mais si vous détruisez notre vaisseau,
+ça va compliquer les choses.
+
+141
+00:12:47,908 --> 00:12:50,581
+Missiles autodétruits à 1 7 000 mètres.
+
+142
+00:12:54,548 --> 00:12:57,699
+Commandant Kalfas, sécurité de Tagrea.
+
+143
+00:12:57,788 --> 00:13:01,576
+Transmission des consignes
+d'atterrissage. Terminé.
+
+144
+00:13:01,668 --> 00:13:05,377
+ll n'est pas très accueillant, mais...
+
+145
+00:13:06,388 --> 00:13:11,178
+Je préfèrerais atterrir quand nos
+boucliers seront de nouveau actifs.
+
+146
+00:13:11,268 --> 00:13:15,341
+Ca ne devrait prendre
+que quelques minutes.
+
+147
+00:13:29,988 --> 00:13:34,345
+Vous avez parlé au commandant Kalfas.
+La planète s'appelle Tagrea.
+
+148
+00:13:34,428 --> 00:13:35,747
+C'est noté.
+
+149
+00:13:36,148 --> 00:13:41,586
+J'ai cherché des traces de naqahdah
+pour déterminer la position du Stargate.
+
+150
+00:13:41,668 --> 00:13:43,659
+Pour l'instant, je n'ai rien.
+
+151
+00:13:43,748 --> 00:13:47,024
+- Le cartouche peut se tromper?
+- Ce n'est jamais arrivé.
+
+152
+00:13:47,108 --> 00:13:53,502
+S'ils n'acceptent pas nos excuses,
+le Stargate sera le dernier de nos soucis.
+
+153
+00:14:22,428 --> 00:14:24,419
+Lâchez vos armes tout de suite.
+
+154
+00:14:25,188 --> 00:14:26,780
+Salut, les gars.
+
+155
+00:14:27,668 --> 00:14:32,298
+- O'Neill, armée de l'air...
+- Nous braquons votre vaisseau.
+
+156
+00:14:32,388 --> 00:14:36,939
+- ...américaine.
+- Désarmez ou nous tirerons.
+
+157
+00:14:37,028 --> 00:14:42,056
+- Ce n'est pas négociable.
+- Sa menace a l'air sincère.
+
+158
+00:14:42,148 --> 00:14:44,901
+ll faut bien leur faire confiance.
+
+159
+00:15:00,948 --> 00:15:05,226
+Nous vous remercions
+d'avoir détruit les missiles en vol
+
+160
+00:15:05,308 --> 00:15:07,868
+et de nous avoir épargnés.
+
+161
+00:15:07,948 --> 00:15:10,508
+Votre voix m'a inspiré confiance.
+
+162
+00:15:13,348 --> 00:15:15,179
+Au fait, toutes nos excuses.
+
+163
+00:15:16,068 --> 00:15:20,823
+Votre vaisseau étant endommagé,
+j'admets que ce n'était pas intentionnel.
+
+164
+00:15:20,908 --> 00:15:25,220
+- Je suis plus réticent.
+- Le courant a été rétabli.
+
+165
+00:15:25,308 --> 00:15:28,061
+Notre système économique a été touché.
+
+166
+00:15:28,148 --> 00:15:31,857
+- On s'en remettra.
+- On ignore l'étendue des dégâts.
+
+167
+00:15:31,948 --> 00:15:32,824
+Ce n'est rien,
+
+168
+00:15:33,988 --> 00:15:40,621
+à côté de cette occasion unique de
+rencontrer des gens d'une autre planète.
+
+169
+00:15:41,868 --> 00:15:44,257
+C'est un moment solennel.
+
+170
+00:15:45,468 --> 00:15:49,586
+Vous trouveriez sur Tagrea
+le moyen de rentrer chez vous?
+
+171
+00:15:49,668 --> 00:15:52,501
+- Expliquez-vous.
+- Président Ashwan,
+
+172
+00:15:52,588 --> 00:15:59,903
+vous disposez de technologies
+permettant de traverser la galaxie.
+
+173
+00:16:04,468 --> 00:16:07,346
+On aimerait utiliser votre Stargate.
+
+174
+00:16:07,908 --> 00:16:13,983
+- Pardon? Notre Stargate?
+- Une sorte de cercle avec un composeur.
+
+175
+00:16:14,068 --> 00:16:20,621
+On tape sur les symboles, ça tourne,
+ça s'allume et ça se met à tourbillonner.
+
+176
+00:16:20,708 --> 00:16:25,907
+Ca ressemble à ça.
+
+177
+00:16:27,388 --> 00:16:34,180
+Une fois activé, il permet le transport
+instantané d'une planète à une autre.
+
+178
+00:16:34,268 --> 00:16:37,146
+Dans notre cas, de Tagrea vers la Terre.
+
+179
+00:16:37,228 --> 00:16:40,300
+lls cherchent l'anneau des dieux.
+
+180
+00:16:40,388 --> 00:16:44,984
+C'est pas mal comme nom,
+l'anneau des dieux.
+
+181
+00:16:46,108 --> 00:16:51,307
+Sachez que le dispositif
+que vous cherchez, le Stargate...
+
+182
+00:16:52,188 --> 00:16:54,258
+- Malheureusement...
+- C'est un mythe.
+
+183
+00:16:54,348 --> 00:16:57,420
+ll n'existe
+aucune preuve de son existence.
+
+184
+00:17:00,428 --> 00:17:02,862
+Vous l'avez cherché? Juste...
+
+185
+00:17:02,948 --> 00:17:07,305
+Si on peut étudier votre histoire,
+on clarifiera la situation.
+
+186
+00:17:07,388 --> 00:17:09,697
+Votre liberté n'est pas négociable.
+
+187
+00:17:09,788 --> 00:17:14,339
+Vous allez retourner
+sur votre vaisseau et y rester.
+
+188
+00:17:14,428 --> 00:17:18,023
+Je vous ferai porter
+des données historiques.
+
+189
+00:17:18,108 --> 00:17:23,466
+- M. le président.
+- Si vous prouvez l'existence du Stargate,
+
+190
+00:17:24,148 --> 00:17:30,178
+nous vous aiderons à le retrouver,
+en gage de bonne volonté.
+
+191
+00:17:31,428 --> 00:17:32,656
+Merci.
+
+192
+00:17:41,668 --> 00:17:45,456
+lls préparent peut-être une invasion.
+
+193
+00:17:45,548 --> 00:17:50,019
+Même si c'est le cas,
+notre histoire ne les y aidera pas.
+
+194
+00:17:50,108 --> 00:17:55,546
+Et si ce cercle existait?
+
+195
+00:17:56,388 --> 00:18:01,462
+lmaginez qu'un élément du passé
+resurgisse des siècles après.
+
+196
+00:18:03,188 --> 00:18:07,739
+Et si le passé était
+enterré pour une bonne raison?
+
+197
+00:18:07,828 --> 00:18:12,219
+Des voyageurs d'une autre planète
+ont besoin d'aide.
+
+198
+00:18:21,268 --> 00:18:22,860
+Alors, ça avance?
+
+199
+00:18:22,948 --> 00:18:26,418
+Rien n'indique comment
+ils sont arrivés ici.
+
+200
+00:18:26,508 --> 00:18:31,662
+Pas de données archéologiques
+ni de documents anciens.
+
+201
+00:18:31,748 --> 00:18:36,378
+Ni le chaapa-ai ni les technologies
+goa'ulds ne sont mentionnées.
+
+202
+00:18:36,468 --> 00:18:40,666
+C'est bizarre. Les Goa'ulds
+sont de vrais porcs.
+
+203
+00:18:40,748 --> 00:18:45,424
+- lls laissent toujours des détritus.
+- Souvent, en effet.
+
+204
+00:18:45,508 --> 00:18:48,261
+Ces données historiques,
+c'est de la blague.
+
+205
+00:18:48,348 --> 00:18:54,423
+- Rien ne remonte à plus de 300 ans.
+- Une année est peut-être plus longue ici.
+
+206
+00:18:54,508 --> 00:18:58,217
+Si on ne sait pas
+d'où viennent les Tagreans,
+
+207
+00:18:58,308 --> 00:19:00,344
+on ne trouvera pas le Stargate.
+
+208
+00:19:00,428 --> 00:19:03,943
+Soit ils nous cachent
+quelque chose, soit...
+
+209
+00:19:05,028 --> 00:19:07,383
+Soit leur histoire a été effacée.
+
+210
+00:19:18,388 --> 00:19:21,937
+- Vous les avez invités à dîner.
+- C'est plutôt un brunch.
+
+211
+00:19:22,028 --> 00:19:25,304
+On a accès à leurs archives.
+
+212
+00:19:25,388 --> 00:19:30,223
+- Et on leur fait visiter le vaisseau.
+- Vous comptiez me prévenir quand?
+
+213
+00:19:31,868 --> 00:19:35,986
+- Maintenant.
+- Je comprends votre envie de rentrer,
+
+214
+00:19:36,068 --> 00:19:39,617
+mais ma priorité,
+c'est la sécurité de ce vaisseau.
+
+215
+00:19:40,468 --> 00:19:44,017
+Ce vaisseau n'ira nulle part
+sans le Stargate.
+
+216
+00:19:44,108 --> 00:19:47,817
+Je n'aime pas l'idée
+de faire visiter le Prométhée
+
+217
+00:19:47,908 --> 00:19:50,786
+à des gens qui menacent de nous tuer.
+
+218
+00:19:50,868 --> 00:19:53,462
+On ferait la même chose.
+
+219
+00:19:53,548 --> 00:19:59,896
+On a besoin d'eux pour rentrer
+et on ne leur a pas fait bonne impression.
+
+220
+00:20:01,468 --> 00:20:06,747
+On va faire votre petit barbecue,
+mais pas plus.
+
+221
+00:20:12,228 --> 00:20:14,105
+On a un barbecue?
+
+222
+00:20:24,828 --> 00:20:28,503
+- Le SG-1 a visité combien de planètes?
+- 133.
+
+223
+00:20:28,588 --> 00:20:35,221
+Sur chacune, on a trouvé des ruines
+ou des temples remontant aux origines.
+
+224
+00:20:35,308 --> 00:20:37,264
+C'est un vrai mystère.
+
+225
+00:20:37,588 --> 00:20:43,026
+Les Goa'ulds forcent toujours
+les Terriens à construire des monuments.
+
+226
+00:20:43,108 --> 00:20:47,226
+L'histoire ne s'efface pas.
+ll doit rester des traces.
+
+227
+00:20:47,308 --> 00:20:49,139
+ll faut les trouver.
+
+228
+00:20:52,108 --> 00:20:53,666
+On nous surveille.
+
+229
+00:20:54,668 --> 00:21:00,903
+Le type planqué derrière l'étagère?
+ll nous suit depuis notre arrivée.
+
+230
+00:21:05,908 --> 00:21:07,739
+Et pas très discrètement.
+
+231
+00:21:09,348 --> 00:21:10,747
+Très impressionnant.
+
+232
+00:21:10,828 --> 00:21:17,222
+Vous dites que vous disposez
+de technologies extraterrestres?
+
+233
+00:21:19,268 --> 00:21:21,259
+La plupart des systèmes centraux.
+
+234
+00:21:21,348 --> 00:21:25,023
+Construire un vaisseau,
+ce n'est pas le faire voler.
+
+235
+00:21:25,108 --> 00:21:27,781
+Nous ne sommes pas au point.
+
+236
+00:21:27,868 --> 00:21:33,420
+Le naquadria qui alimente
+l'hyperpropulseur est instable.
+
+237
+00:21:33,508 --> 00:21:39,458
+C'est ce qui a causé l'explosion.
+On a dû éjecter le réacteur.
+
+238
+00:21:39,548 --> 00:21:42,620
+Pourquoi utiliser
+une substance si dangereuse?
+
+239
+00:21:42,708 --> 00:21:45,063
+Je me le demande aussi.
+
+240
+00:21:45,988 --> 00:21:49,264
+Ca accélère le transport interstellaire.
+
+241
+00:21:49,348 --> 00:21:54,263
+Les formes plus stables d'énergie
+ne génèrent pas assez de puissance.
+
+242
+00:21:54,348 --> 00:22:00,139
+Mes conseillers craignent que ce soit
+un vaisseau militaire. Je leur dis quoi?
+
+243
+00:22:00,228 --> 00:22:02,662
+Qu'ils ont raison.
+
+244
+00:22:02,748 --> 00:22:07,105
+- Prométhée est un vaisseau de défense.
+- Contre les Goa'ulds?
+
+245
+00:22:07,188 --> 00:22:09,179
+Sans votre source d'énergie?
+
+246
+00:22:09,268 --> 00:22:17,107
+Avec ou sans réacteur, ce vaisseau
+est capable de se défendre.
+
+247
+00:22:17,188 --> 00:22:21,704
+Je vous présente le colonel Ronson,
+commandant du Prométhée.
+
+248
+00:22:21,788 --> 00:22:26,987
+- C'est un honneur.
+- Nous n'attaquons pas sans raison.
+
+249
+00:22:27,068 --> 00:22:30,185
+Des armes sont braquées
+sur mon vaisseau.
+
+250
+00:22:30,268 --> 00:22:33,544
+Nous devons être prêts à riposter.
+
+251
+00:22:33,628 --> 00:22:38,224
+Si Ashwan et moi ne revenons pas
+à une certaine heure,
+
+252
+00:22:38,308 --> 00:22:41,698
+mes hommes ont l'ordre de tirer.
+
+253
+00:22:41,788 --> 00:22:45,303
+Alors, on devrait reprendre la visite.
+
+254
+00:22:47,108 --> 00:22:49,906
+- Après vous.
+- Merci.
+
+255
+00:23:14,908 --> 00:23:20,221
+- On peut vous aider?
+- Je ne voulais pas vous déranger.
+
+256
+00:23:20,308 --> 00:23:25,462
+Je suis Tarek Solamon, professeur
+de mathématiques à l'université.
+
+257
+00:23:25,548 --> 00:23:29,780
+Si nous vous intriguions,
+il fallait venir nous voir.
+
+258
+00:23:29,868 --> 00:23:35,784
+Ce qui m'intrigue,
+c'est plutôt ce que vous cherchez.
+
+259
+00:23:35,868 --> 00:23:36,903
+Continuez.
+
+260
+00:23:36,988 --> 00:23:42,506
+ll paraît que vous cherchez
+l'anneau des dieux. Je peux vous aider.
+
+261
+00:23:55,188 --> 00:24:00,820
+Ca vous plaît, j'espère. On n'avait
+pas prévu de donner un dîner officiel.
+
+262
+00:24:00,908 --> 00:24:03,103
+C'est fascinant de réaliser
+
+263
+00:24:03,188 --> 00:24:08,626
+qu'on mange de la nourriture préparée
+à des millions d'années-lumière d'ici.
+
+264
+00:24:08,708 --> 00:24:12,587
+Surgelée il y a des millions d'années.
+
+265
+00:24:14,268 --> 00:24:17,260
+C'est ce qu'on a de meilleur.
+
+266
+00:24:18,748 --> 00:24:24,744
+Nous avons remarqué que votre histoire
+ne remonte pas à plus de 300 ans.
+
+267
+00:24:27,028 --> 00:24:35,857
+Notre peuple a connu
+une période sombre, longue et pénible,
+
+268
+00:24:37,028 --> 00:24:39,781
+qu'il veut à tout prix oublier.
+
+269
+00:24:40,508 --> 00:24:47,220
+Les historiens ne se sont remis
+à la tâche qu'au sortir de cette époque.
+
+270
+00:24:48,108 --> 00:24:52,659
+Vous avez perdu
+des milliers d'années d'histoire.
+
+271
+00:24:53,548 --> 00:24:56,381
+Vous n'êtes pas curieux?
+
+272
+00:24:57,108 --> 00:25:02,501
+Ce n'est pas un choix. Nous
+ne pouvons pas étudier notre histoire.
+
+273
+00:25:02,588 --> 00:25:06,263
+Tout a été détruit, il y a des siècles.
+
+274
+00:25:06,348 --> 00:25:10,864
+Ce qui existait avant l'an zéro
+n'a aucune valeur pour nous.
+
+275
+00:25:10,948 --> 00:25:15,260
+Notre société n'a pas besoin
+d'avoir connaissance de ces malheurs.
+
+276
+00:25:15,348 --> 00:25:20,263
+Sur Terre, nous tirons
+des enseignements du passé.
+
+277
+00:25:20,348 --> 00:25:24,899
+Pour nous, la nostalgie
+est un signe de faiblesse.
+
+278
+00:25:30,028 --> 00:25:34,226
+- Les deux points de vue se valent.
+- Bien parlé.
+
+279
+00:25:40,828 --> 00:25:43,296
+Buvons à l'histoire.
+
+280
+00:25:46,028 --> 00:25:47,984
+Et à l'avenir.
+
+281
+00:26:03,628 --> 00:26:06,267
+Ce repas était instructif.
+
+282
+00:26:06,348 --> 00:26:08,418
+Heureux qu'il vous ait plu.
+
+283
+00:26:08,508 --> 00:26:12,217
+- ll n'a pas dit ça.
+- Moi, je le dis. Merci.
+
+284
+00:26:13,348 --> 00:26:16,624
+Maintenant qu'on se connaît mieux,
+
+285
+00:26:16,708 --> 00:26:21,099
+est-ce bien nécessaire de laisser
+ces armes braquées sur nous?
+
+286
+00:26:21,188 --> 00:26:24,976
+Votre colonel Ronson
+serait moins vigilant?
+
+287
+00:26:27,548 --> 00:26:30,346
+Ca m'étonnerait.
+
+288
+00:26:32,668 --> 00:26:35,466
+Allez-y. Je vous rejoins.
+
+289
+00:26:43,188 --> 00:26:47,739
+Excusez le comportement de Kalfas.
+ll n'est pas très diplomate.
+
+290
+00:26:47,828 --> 00:26:50,979
+J'avoue que moi non plus.
+
+291
+00:26:51,068 --> 00:26:58,019
+Depuis que je suis au pouvoir, on me
+trouve laxiste en matière de défense.
+
+292
+00:26:58,108 --> 00:27:01,578
+Kalfas a de plus en plus d'adeptes.
+
+293
+00:27:01,668 --> 00:27:04,466
+Et notre arrivée n'a rien arrangé.
+
+294
+00:27:07,788 --> 00:27:12,339
+J'espère que sa méfiance
+ne vous ralentira pas.
+
+295
+00:27:12,428 --> 00:27:17,980
+Le Stargate serait
+une grande découverte pour notre peuple.
+
+296
+00:27:20,028 --> 00:27:23,304
+Excusez le désordre de mon bureau.
+
+297
+00:27:25,148 --> 00:27:31,257
+Comment pouvez-vous nous aider
+à retrouver l'anneau des dieux?
+
+298
+00:27:31,348 --> 00:27:33,418
+Avec ça.
+
+299
+00:27:33,508 --> 00:27:36,420
+Je les collectionne depuis toujours.
+
+300
+00:27:36,508 --> 00:27:40,660
+Des reliques de l'époque
+où mon peuple croyait en son dieu.
+
+301
+00:27:40,748 --> 00:27:44,787
+- De quel dieu parlez-vous?
+- De notre créateur, Horus.
+
+302
+00:27:44,868 --> 00:27:48,383
+Nous sommes peu nombreux
+à croire en lui.
+
+303
+00:27:49,988 --> 00:27:53,185
+- C'est le symbole de Heru-ur.
+- Vous le connaissez?
+
+304
+00:27:53,268 --> 00:27:57,307
+Heru-ur n'est pas un dieu.
+C'est un Goa'uld.
+
+305
+00:27:58,028 --> 00:28:01,941
+ll nous a créés.
+D'après les reliques, c'est lui
+
+306
+00:28:02,028 --> 00:28:04,144
+qui nous a insufflé la vie.
+
+307
+00:28:04,228 --> 00:28:08,460
+ll a dû asservir votre peuple
+pour le conduire ici.
+
+308
+00:28:08,548 --> 00:28:13,781
+Heru-ur l'a sûrement abandonné quand
+les ressources sont venues à manquer.
+
+309
+00:28:13,868 --> 00:28:18,100
+Les Tagreans ont dû détruire
+les preuves de son existence.
+
+310
+00:28:18,188 --> 00:28:20,463
+Notamment le Stargate.
+
+311
+00:28:20,828 --> 00:28:23,820
+lls n'ont pas tout détruit.
+
+312
+00:28:25,268 --> 00:28:27,338
+ll reste ça.
+
+313
+00:28:48,188 --> 00:28:50,986
+Je n'y comprends pas grand-chose,
+
+314
+00:28:51,068 --> 00:28:55,300
+mais ce serait une gravure
+d'une chose appelée ''chapaille''.
+
+315
+00:28:55,388 --> 00:28:56,218
+Chaapa-ai.
+
+316
+00:28:57,628 --> 00:29:04,500
+Ce texte ressemble à de l'égyptien
+prédynastique. C'est magnifique.
+
+317
+00:29:04,588 --> 00:29:11,460
+D'après ce passage, le Stargate
+se trouverait dans le désert du nord.
+
+318
+00:29:12,228 --> 00:29:16,221
+ll doit s'agir du désert d'Anhur,
+bien loin de la ville.
+
+319
+00:29:16,308 --> 00:29:19,698
+- J'y ai trouvé beaucoup d'objets.
+- Vraiment?
+
+320
+00:29:23,188 --> 00:29:27,147
+On ferait bien un petit voyage d'étude.
+
+321
+00:29:28,788 --> 00:29:31,939
+- lls veulent voir le désert.
+- Emmenez-les.
+
+322
+00:29:32,028 --> 00:29:33,256
+Ce serait une erreur.
+
+323
+00:29:34,788 --> 00:29:38,497
+Vous avez peur qu'ils découvrent
+ce que vous voulez cacher?
+
+324
+00:29:38,588 --> 00:29:42,376
+- Si c'est une reconnaissance...
+- Vous êtes ridicule.
+
+325
+00:29:42,468 --> 00:29:47,781
+- Et vous, irresponsable.
+- lls viennent d'une autre planète.
+
+326
+00:29:47,868 --> 00:29:49,221
+Vous comprenez?
+
+327
+00:29:50,028 --> 00:29:54,658
+- En plus, ils ont besoin d'aide.
+- Nous ignorons leurs intentions.
+
+328
+00:29:54,748 --> 00:29:58,058
+Et ce qu'ils apportent
+en échange de nos connaissances?
+
+329
+00:29:58,148 --> 00:30:00,662
+Le Stargate peut nous ouvrir l'univers.
+
+330
+00:30:00,748 --> 00:30:04,627
+Un univers d'ennemis potentiels.
+Réfléchissez bien.
+
+331
+00:30:04,708 --> 00:30:07,700
+On ne peut pas revenir en arrière.
+
+332
+00:30:09,068 --> 00:30:13,425
+Même si je pouvais, je ne le ferais pas.
+
+333
+00:30:14,628 --> 00:30:19,656
+lls sont là et de toute façon,
+nous devons faire face.
+
+334
+00:30:19,748 --> 00:30:21,147
+Je préfère les aider.
+
+335
+00:30:21,828 --> 00:30:25,377
+Emmenez-les sur le site.
+
+336
+00:30:29,068 --> 00:30:30,501
+Comme vous voulez.
+
+337
+00:30:33,828 --> 00:30:40,586
+Le Stargate devrait se trouver entre
+le deuxième et le troisième monument.
+
+338
+00:30:40,668 --> 00:30:42,340
+Tu es sûr?
+
+339
+00:30:43,908 --> 00:30:45,500
+C'est ce qui est écrit.
+
+340
+00:30:58,388 --> 00:31:02,176
+- Les pierres de couverture?
+- En effet.
+
+341
+00:31:22,228 --> 00:31:30,818
+''Ci-gît le Chaapa-ai de Heru-ur,
+faux dieu du peuple de Tagrea.
+
+342
+00:31:32,708 --> 00:31:36,064
+Qu'il ne revoie jamais la lumière.''
+
+343
+00:31:36,148 --> 00:31:38,218
+La porte existe.
+
+344
+00:31:42,588 --> 00:31:46,103
+- Quoi?
+- On a trouvé le Stargate.
+
+345
+00:31:49,028 --> 00:31:53,180
+- Bonne nouvelle.
+- On a besoin d'aide pour l'exhumer.
+
+346
+00:31:53,268 --> 00:31:55,828
+Je vais en parler à Ashwan.
+
+347
+00:31:56,708 --> 00:31:58,141
+Bravo.
+
+348
+00:32:30,908 --> 00:32:32,899
+ll a l'air intact.
+
+349
+00:33:26,748 --> 00:33:28,340
+Essayons-le.
+
+350
+00:33:57,668 --> 00:34:03,140
+- Que faites-vous?
+- Je reprends ce qui est à mon peuple.
+
+351
+00:34:12,108 --> 00:34:14,338
+Kalfas dépasse les bornes.
+
+352
+00:34:14,428 --> 00:34:17,545
+- Dites-lui de renoncer.
+- ll refuse.
+
+353
+00:34:17,628 --> 00:34:22,463
+- ll prétend nous protéger.
+- Faites-le arrêter.
+
+354
+00:34:22,548 --> 00:34:27,986
+L'armée lui est acquise.
+Le défier mènerait à une guerre civile.
+
+355
+00:34:28,068 --> 00:34:33,381
+Utilisons le Prométhée. Sa puissance
+vaincra les troupes de Kalfas.
+
+356
+00:34:33,468 --> 00:34:37,825
+ll y a toujours ce problème
+des armes braquées sur nous.
+
+357
+00:34:37,908 --> 00:34:43,301
+Le commandant
+de cette unité-là m'est fidèle.
+
+358
+00:34:43,388 --> 00:34:47,176
+Je vous donne ma parole. ll ne tirera pas.
+
+359
+00:34:56,348 --> 00:35:00,102
+Vous ignorez à quoi vous avez affaire.
+
+360
+00:35:00,188 --> 00:35:03,100
+Nos ancêtres avaient
+une bonne raison de l'enterrer.
+
+361
+00:35:03,188 --> 00:35:07,306
+lls se sont peut-être trompés.
+N'ayez pas peur du passé.
+
+362
+00:35:07,388 --> 00:35:10,266
+Seul l'avenir me préoccupe.
+
+363
+00:35:10,348 --> 00:35:14,500
+Vous avez évalué notre puissance
+et reviendrez plus nombreux.
+
+364
+00:35:14,588 --> 00:35:18,058
+- Vous n'avez rien à craindre.
+- Nous voulons réparer le vaisseau.
+
+365
+00:35:18,148 --> 00:35:23,097
+Nous pouvons devenir amis,
+commercer, échanger notre savoir.
+
+366
+00:35:23,188 --> 00:35:26,419
+On vous apprendra à utiliser le Stargate.
+
+367
+00:35:30,308 --> 00:35:32,344
+Oui, vous allez m'apprendre.
+
+368
+00:35:36,868 --> 00:35:40,781
+lls ont deux prisonniers.
+On a besoin du vaisseau.
+
+369
+00:35:40,868 --> 00:35:45,146
+Nos boucliers sont baissés.
+S'ils ouvrent le feu...
+
+370
+00:35:45,228 --> 00:35:47,788
+Ashwan a promis que ça n'arrivera pas.
+
+371
+00:35:47,868 --> 00:35:53,226
+ll ne contrôle plus son gouvernement
+et je devrais lui faire confiance?
+
+372
+00:35:53,308 --> 00:35:55,742
+C'est ce que vous allez faire.
+
+373
+00:35:55,828 --> 00:35:59,901
+Vous me demandez de risquer des vies.
+
+374
+00:35:59,988 --> 00:36:04,266
+Si c'est le cas,
+le risque est le même pour moi.
+
+375
+00:36:05,228 --> 00:36:10,621
+Décollez à votre convenance.
+Nous ne tirerons pas.
+
+376
+00:36:14,388 --> 00:36:17,425
+Allumez les moteurs supra-luminiques.
+
+377
+00:36:17,508 --> 00:36:23,458
+Soyez prêts à riposter aux attaques
+si j'en donne l'ordre.
+
+378
+00:36:23,548 --> 00:36:26,267
+Ce ne sera pas nécessaire.
+
+379
+00:36:33,508 --> 00:36:38,821
+Espérons que le vieux a raison,
+sinon on n'en a plus pour longtemps.
+
+380
+00:36:51,828 --> 00:36:57,824
+Apparemment, ils ne tireront pas.
+La voie semble libre.
+
+381
+00:37:02,708 --> 00:37:07,702
+Parfait. Démarrez
+avec un tiers de la puissance.
+
+382
+00:37:25,228 --> 00:37:28,777
+Vous êtes sûr de vous?
+Ca risque de mal finir.
+
+383
+00:37:28,868 --> 00:37:32,258
+Je n'ai pas peur.
+J'aurais dû le faire il y a longtemps.
+
+384
+00:37:32,348 --> 00:37:34,987
+lci, Ronson. On est en place.
+
+385
+00:37:35,068 --> 00:37:36,421
+Bien reçu.
+
+386
+00:37:56,668 --> 00:37:58,943
+Attendez mon signal pour tirer.
+
+387
+00:37:59,028 --> 00:38:01,258
+Prométhée vous couvre.
+
+388
+00:38:11,308 --> 00:38:14,300
+Ca suffit. Libérez-les.
+
+389
+00:38:14,388 --> 00:38:20,577
+Ne bougez pas. On ne cédera pas
+ce dispositif à des étrangers.
+
+390
+00:38:28,268 --> 00:38:31,783
+Cet homme est bon et prudent.
+
+391
+00:38:32,468 --> 00:38:38,384
+Mais comme nos ancêtres, il veut
+contrôler ce que nous ne comprenons pas
+
+392
+00:38:38,468 --> 00:38:41,540
+et l'enterrer pour éviter le pire.
+
+393
+00:38:41,628 --> 00:38:45,416
+Moi aussi, je raisonnais ainsi,
+mais c'est terminé.
+
+394
+00:38:47,428 --> 00:38:53,822
+Ces étrangers que Kalfas craint tant
+ne sont pas des conquérants.
+
+395
+00:38:55,668 --> 00:38:57,863
+Ce sont nos frères perdus.
+
+396
+00:39:02,188 --> 00:39:03,303
+Regardez.
+
+397
+00:39:04,908 --> 00:39:07,945
+C'est de là que nous venons.
+
+398
+00:39:10,668 --> 00:39:13,341
+Voilà ce que nous sommes.
+
+399
+00:39:13,428 --> 00:39:17,307
+Nos ancêtres ont effacé
+notre passé par peur.
+
+400
+00:39:19,028 --> 00:39:24,261
+Pourtant, sans histoire,
+comment savoir qui nous sommes
+
+401
+00:39:26,028 --> 00:39:28,861
+et ce que nous deviendrons?
+
+402
+00:39:30,028 --> 00:39:33,065
+Je ne ferai pas la même erreur.
+
+403
+00:39:38,028 --> 00:39:40,588
+Je vous relève de vos fonctions.
+
+404
+00:39:40,668 --> 00:39:43,387
+Retirez-vous avec vos hommes.
+
+405
+00:39:48,868 --> 00:39:51,780
+J'ai dit baissez vos armes.
+
+406
+00:40:04,628 --> 00:40:05,743
+Emmenez-le.
+
+407
+00:40:20,108 --> 00:40:24,101
+- J'ignorais que vous aviez ce courage.
+- Moi aussi.
+
+408
+00:40:28,508 --> 00:40:32,023
+On revient réparer notre vaisseau
+d'ici quelques jours.
+
+409
+00:40:32,108 --> 00:40:35,305
+En attendant, Ronson et son équipe
+sont nos invités.
+
+410
+00:40:35,388 --> 00:40:39,017
+J'espère que vous viendrez
+à un dîner officiel à votre retour.
+
+411
+00:40:42,468 --> 00:40:43,821
+Merci.
+
+412
+00:40:43,908 --> 00:40:48,777
+J'espère que vous reviendrez.
+Notre histoire est très riche.
+
+413
+00:40:48,868 --> 00:40:52,986
+Vous êtes plus savant
+que vos congénères.
+
+414
+00:40:53,068 --> 00:40:55,662
+A mon avis, il va avoir une promotion.
+
+415
+00:41:13,028 --> 00:41:15,019
+Sous-titrage Visiontext: Anne Kosossey
+
+416
+00:41:58,188 --> 00:42:00,065
+FR
+

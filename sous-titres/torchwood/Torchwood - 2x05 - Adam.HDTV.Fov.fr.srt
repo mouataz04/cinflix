@@ -1,0 +1,2879 @@
+1
+00:00:02,290 --> 00:00:03,267
+Torchwood.
+
+2
+00:00:04,490 --> 00:00:06,947
+Au delà du gouvernement et de la police.
+
+3
+00:00:07,280 --> 00:00:10,026
+Ils se battent pour
+le futur de l'humanité.
+
+4
+00:00:11,390 --> 00:00:16,351
+C'est au 21ème siècle que tout
+bascule, et Torchwood est prêt.
+
+5
+00:00:26,710 --> 00:00:27,600
+Allez !
+
+6
+00:00:27,610 --> 00:00:29,822
+Non, je suis déjà en retard !
+
+7
+00:00:34,290 --> 00:00:35,040
+Rhys !
+
+8
+00:00:35,050 --> 00:00:37,193
+Tu as hâte de retourner bosser ?
+
+9
+00:00:39,730 --> 00:00:41,550
+Je prends ça pour un "oui".
+
+10
+00:00:41,560 --> 00:00:44,660
+Te rejoindre à la maison,
+c'est la meilleure partie.
+
+11
+00:00:48,160 --> 00:00:50,400
+Artéfacts non identifiés de classe D.
+
+12
+00:00:50,410 --> 00:00:52,500
+- Tosh, fais une vérification complète.
+- D'accord.
+
+13
+00:00:52,510 --> 00:00:54,030
+Owen, tu peux aider.
+
+14
+00:00:54,040 --> 00:00:56,620
+- Avec plaisir.
+- Adam, je sais que tu aimes les audits.
+
+15
+00:00:56,630 --> 00:00:57,840
+- Je vais le faire.
+- Si tu pouvais...
+
+16
+00:00:57,850 --> 00:01:01,000
+Parcourir les rapports pour voir
+quand ils sont passés par la brèche.
+
+17
+00:01:01,010 --> 00:01:04,250
+- Ca te va ?
+- Toujours, depuis 3 ans.
+
+18
+00:01:04,370 --> 00:01:07,850
+Tu es en retard !
+Oui, j'ai adoré Paris, merci...
+
+19
+00:01:13,180 --> 00:01:14,498
+Qui c'est, ça ?
+
+20
+00:01:19,050 --> 00:01:22,005
+C'est bien ce que je t'ai dit
+ton premier jour.
+
+21
+00:01:22,803 --> 00:01:24,145
+Tu t'en souviens ?
+
+22
+00:01:31,170 --> 00:01:32,761
+<i>Un café bien fort...</i>
+
+23
+00:01:34,742 --> 00:01:38,594
+Désolée, j'ai pas pu résister.
+Viens là, toi ! Contente de te voir.
+
+24
+00:01:39,800 --> 00:01:41,352
+T'es très jolie, Tosh.
+
+25
+00:01:44,430 --> 00:01:46,299
+Torchwood - 2x05
+Adam
+
+26
+00:01:46,419 --> 00:01:48,286
+Traduction par
+Kowaio, Plumedephenix
+
+27
+00:01:48,453 --> 00:01:51,509
+Resynchro par Byakko, LauCass
+Relecture par Cybelia
+
+28
+00:01:51,660 --> 00:01:53,970
+~ Harkness Team ~
+~ www.seriessub.com ~
+
+29
+00:02:04,050 --> 00:02:06,730
+Adam, qu'est-ce que tu
+fais avec ton fichier ?
+
+30
+00:02:06,740 --> 00:02:09,822
+Rien, je mettais à jour
+l'activité de la brèche.
+
+31
+00:02:10,661 --> 00:02:12,440
+Une idée de quand c'est arrivé ?
+
+32
+00:02:12,460 --> 00:02:14,740
+On peut lire un faible
+niveau d'énergie méson.
+
+33
+00:02:14,760 --> 00:02:16,889
+Non. Je continuerai à chercher.
+
+34
+00:02:34,390 --> 00:02:36,520
+- Ca fait un an aujourd'hui.
+- Notre premier baiser.
+
+35
+00:02:36,530 --> 00:02:37,747
+Tu y as pensé.
+
+36
+00:02:42,630 --> 00:02:43,802
+Ca va, Owen ?
+
+37
+00:02:44,270 --> 00:02:46,380
+Oui, faites pas attention à moi.
+
+38
+00:02:46,922 --> 00:02:48,165
+C'est juste...
+
+39
+00:02:49,235 --> 00:02:50,886
+S'embrasser au boulot...
+
+40
+00:02:52,211 --> 00:02:53,861
+Je m'y attendais pas.
+
+41
+00:02:55,165 --> 00:02:56,754
+On fêtera ça ce soir.
+
+42
+00:03:07,840 --> 00:03:08,952
+Arrête ça.
+
+43
+00:03:18,740 --> 00:03:19,610
+Ca va ?
+
+44
+00:03:19,620 --> 00:03:20,298
+Oui.
+
+45
+00:03:22,590 --> 00:03:25,070
+- Je t'ai manqué ?
+- Tu étais partie ?
+
+46
+00:03:30,520 --> 00:03:32,620
+Je fais une petite vérification.
+
+47
+00:03:32,740 --> 00:03:37,340
+La brèche a été active il y a 2
+jours, mais rien ne semble être passé.
+
+48
+00:03:37,350 --> 00:03:39,021
+A part moi.
+
+49
+00:03:42,630 --> 00:03:43,740
+C'est quoi ?
+
+50
+00:03:43,750 --> 00:03:45,510
+C'est pour nettoyer l'écran.
+
+51
+00:03:45,520 --> 00:03:47,250
+J'ai pensé que ça te plairait.
+
+52
+00:03:47,260 --> 00:03:48,226
+Tu aimes ?
+
+53
+00:03:48,530 --> 00:03:52,370
+Juste ce qu'il me faut. Un petit
+rongeur qui me regarde travailler.
+
+54
+00:03:54,790 --> 00:03:56,507
+Je vais l'appeler Owen.
+
+55
+00:03:59,570 --> 00:04:02,120
+On dirait un chiot qui
+lui apporte des bâtons.
+
+56
+00:04:02,130 --> 00:04:04,140
+Quand va-t-il comprendre
+qu'il n'a aucune chance ?
+
+57
+00:04:04,260 --> 00:04:06,930
+L'amour est aveugle, paraît-il.
+Ca fait des années qu'il l'idolâtre.
+
+58
+00:04:07,050 --> 00:04:09,820
+Laissez-le tranquille.
+Je trouve ça mignon.
+
+59
+00:04:09,850 --> 00:04:11,110
+Il est content.
+
+60
+00:04:33,750 --> 00:04:34,960
+Désolé, je ne voulais pas te faire peur.
+
+61
+00:04:34,970 --> 00:04:37,440
+- Comment êtes-vous entré ?
+- Avec une clé.
+
+62
+00:04:40,613 --> 00:04:43,240
+- C'est pas drôle.
+- Ne vous approchez pas !
+
+63
+00:04:43,360 --> 00:04:46,940
+- Gwen, que se passe-t-il ?
+- Comment connaissez-vous mon nom ?
+
+64
+00:04:49,640 --> 00:04:50,880
+Je sais m'en servir.
+
+65
+00:04:50,890 --> 00:04:53,874
+- Qui êtes-vous, que voulez-vous ?
+- Tu me connais.
+
+66
+00:04:55,910 --> 00:04:58,626
+D'accord, si vous ne
+voulez pas me le dire...
+
+67
+00:04:59,010 --> 00:05:01,507
+Restez là. Ne bougez pas.
+
+68
+00:05:02,505 --> 00:05:03,279
+Jack.
+
+69
+00:05:03,823 --> 00:05:06,680
+Quelqu'un est entré chez moi.
+Il avait une clé. Il connaît mon nom.
+
+70
+00:05:06,800 --> 00:05:08,775
+Car je vis ici avec toi !
+
+71
+00:05:09,610 --> 00:05:10,750
+Fermez la !
+
+72
+00:05:10,760 --> 00:05:13,220
+Tu peux te dépêcher ? C'est un malade.
+
+73
+00:05:15,250 --> 00:05:17,889
+T'as mal choisi ta cible, mon ami.
+
+74
+00:05:29,500 --> 00:05:30,970
+- Gwen ?
+- Reste là.
+
+75
+00:05:35,361 --> 00:05:37,337
+- Jack ?
+- Gwen, c'est nous !
+
+76
+00:05:41,380 --> 00:05:42,390
+Ici, Jack.
+
+77
+00:05:47,630 --> 00:05:49,490
+- Que se passe-t-il ?
+- A toi de me le dire.
+
+78
+00:05:49,500 --> 00:05:53,020
+Regarde, il a mis des
+photos de nous partout.
+
+79
+00:05:53,030 --> 00:05:56,300
+Il a dû le faire pendant que
+je travaillais. Il est fou !
+
+80
+00:05:56,310 --> 00:05:58,050
+Il dit qu'on est ensemble.
+
+81
+00:05:58,060 --> 00:05:59,886
+C'est le cas. C'est Rhys.
+
+82
+00:06:01,000 --> 00:06:02,950
+Je l'ai jamais vu de ma vie !
+
+83
+00:06:02,960 --> 00:06:05,620
+- Tu es avec lui depuis des années.
+- Tu vois !
+
+84
+00:06:06,210 --> 00:06:08,530
+- Donne-moi ton arme, Gwen.
+- Non ! Il m'a attrapée, Jack.
+
+85
+00:06:08,650 --> 00:06:11,280
+- Qui sait ce qu'il allait faire.
+- Comment peux-tu dire ça ?
+
+86
+00:06:11,290 --> 00:06:12,500
+- Qu'avez-vous fait ?
+- Rien.
+
+87
+00:06:12,510 --> 00:06:15,060
+Je sais ce que vous faites.
+
+88
+00:06:15,070 --> 00:06:18,900
+Des pilules d'amnésie... Vous
+m'effacez pour l'avoir pour vous ?
+
+89
+00:06:18,910 --> 00:06:21,010
+- T'approche pas de lui.
+- On est fiancés !
+
+90
+00:06:21,020 --> 00:06:23,963
+Je t'ai acheté la fichue
+bague que tu portes !
+
+91
+00:06:30,800 --> 00:06:32,260
+Retourne au QG avec moi.
+
+92
+00:06:32,270 --> 00:06:34,120
+- Qui c'est, lui ?
+- Il est des nôtres.
+
+93
+00:06:34,130 --> 00:06:37,560
+On fera des examens. Jack
+reste ici s'occuper de tout ça.
+
+94
+00:06:47,420 --> 00:06:51,378
+Ne le laisse pas partir. S'il s'en
+prend encore à moi, je le tuerai.
+
+95
+00:06:57,491 --> 00:07:00,751
+Crois-moi, je n'ai rien fait.
+Mais quoi que ce soit...
+
+96
+00:07:02,010 --> 00:07:03,465
+on va arranger ça.
+
+97
+00:07:07,134 --> 00:07:10,630
+Aucun signe de dommages à long terme.
+
+98
+00:07:10,660 --> 00:07:12,380
+Ni d'intervention alien.
+
+99
+00:07:12,400 --> 00:07:15,900
+Mais je dois louper quelque chose.
+
+100
+00:07:15,910 --> 00:07:20,297
+Désolé, mais ça reste
+un mystère à mes yeux.
+
+101
+00:07:26,512 --> 00:07:30,260
+- C'est vraiment nécessaire ?
+- Il faut qu'elle s'en souvienne.
+
+102
+00:07:32,160 --> 00:07:34,020
+Où vous êtes-vous rencontrés ?
+
+103
+00:07:34,030 --> 00:07:35,301
+A l'université.
+
+104
+00:07:36,210 --> 00:07:38,390
+Je l'ai aimée dès que je l'ai vue.
+
+105
+00:07:39,200 --> 00:07:42,660
+Pas seulement son physique,
+vous savez. Elle est superbe...
+
+106
+00:07:47,610 --> 00:07:49,206
+<i>Votre premier baiser ?</i>
+
+107
+00:07:50,280 --> 00:07:51,903
+<i>Dans un supermarché.</i>
+
+108
+00:07:53,030 --> 00:07:55,618
+<i>J'allais lui faire
+des spaghettis bolo...</i>
+
+109
+00:07:56,440 --> 00:07:58,787
+<i>Puis j'ai pensé à l'ail. Foutue ail.</i>
+
+110
+00:07:59,250 --> 00:08:01,858
+<i>On peut pas embrasser
+une fille après ça.</i>
+
+111
+00:08:05,035 --> 00:08:06,590
+Tu t'en souviens ?
+
+112
+00:08:06,600 --> 00:08:07,989
+En quelque sorte.
+
+113
+00:08:10,820 --> 00:08:12,993
+Je vois ce dont il parle, mais...
+
+114
+00:08:14,470 --> 00:08:17,394
+Je ne me rappelle pas
+de ce que j'ai ressenti.
+
+115
+00:08:18,020 --> 00:08:21,433
+Crois-moi quand je te
+dis que c'est ton fiancé.
+
+116
+00:08:22,950 --> 00:08:25,537
+Ta mémoire te joue
+des tours, c'est tout.
+
+117
+00:08:29,187 --> 00:08:30,960
+Elle a commencé à rire.
+
+118
+00:08:31,080 --> 00:08:36,272
+<i>Elle m'a appelé Rhys le râleur et
+elle m'a embrassé, dans la file.</i>
+
+119
+00:08:36,890 --> 00:08:40,543
+Et je me suis dit...
+
+120
+00:08:41,130 --> 00:08:44,315
+Je vais épouser cette folle,
+même si ça doit me tuer.
+
+121
+00:08:52,620 --> 00:08:55,670
+- T'as trouvé ce que c'était ?
+- Point encore.
+
+122
+00:08:55,790 --> 00:08:59,010
+Mais tu devrais regarder de
+plus près. C'est magnifique.
+
+123
+00:08:59,020 --> 00:09:00,766
+Laisse-moi faire.
+
+124
+00:09:04,480 --> 00:09:06,170
+Tu as réussi à l'ouvrir ?
+
+125
+00:09:06,180 --> 00:09:07,775
+Non, désolé.
+
+126
+00:09:08,300 --> 00:09:10,150
+Je ne m'en sors pas très bien.
+
+127
+00:09:10,160 --> 00:09:11,884
+La nuit va être longue.
+
+128
+00:09:13,167 --> 00:09:15,266
+C'est pourquoi j'ai amené...
+
+129
+00:09:16,180 --> 00:09:17,430
+des sandwiches !
+
+130
+00:09:17,920 --> 00:09:20,574
+Un pour toi et un pour moi.
+
+131
+00:09:21,640 --> 00:09:24,621
+Saumon fumé, ton préféré, non ?
+
+132
+00:09:25,310 --> 00:09:26,781
+Comment tu sais ça ?
+
+133
+00:09:30,219 --> 00:09:32,070
+Il va me falloir une bière.
+
+134
+00:09:32,080 --> 00:09:33,717
+Pendant qu'on bosse ?
+
+135
+00:09:34,691 --> 00:09:36,260
+Oh, oui, bien sûr.
+
+136
+00:09:36,270 --> 00:09:39,680
+Pour se détendre, bien sûr, bonne idée.
+
+137
+00:09:40,350 --> 00:09:42,797
+Mais pas pour moi, merci !
+
+138
+00:09:59,740 --> 00:10:01,553
+Ne me laisse pas là, Jack.
+
+139
+00:10:04,040 --> 00:10:05,186
+Ca va aller.
+
+140
+00:10:19,530 --> 00:10:20,470
+Alors, que se passe-t-il ?
+
+141
+00:10:20,480 --> 00:10:23,440
+Amnésie temporaire. Owen
+étudie les différentes causes.
+
+142
+00:10:28,340 --> 00:10:31,340
+Un Weevil a été vu dans les
+égouts près de Rockall Street.
+
+143
+00:10:31,350 --> 00:10:32,118
+Jack ?
+
+144
+00:10:33,911 --> 00:10:34,746
+Jack ?
+
+145
+00:10:35,378 --> 00:10:37,110
+- Tu le vois ?
+- Qui ?
+
+146
+00:10:43,650 --> 00:10:45,808
+Je te dépose et j'irai voir ça.
+
+147
+00:10:50,280 --> 00:10:51,449
+Je peux venir.
+
+148
+00:10:52,200 --> 00:10:55,110
+Ca fait longtemps qu'on
+a pas chassé ensemble.
+
+149
+00:10:55,230 --> 00:10:56,158
+Ca ira.
+
+150
+00:11:04,340 --> 00:11:06,142
+Allez, déride-toi.
+
+151
+00:11:07,934 --> 00:11:09,320
+Puisque c'est toi.
+
+152
+00:11:11,610 --> 00:11:12,366
+Merci.
+
+153
+00:11:13,050 --> 00:11:14,900
+Dis-toi qu'on fête quelque chose.
+
+154
+00:11:15,020 --> 00:11:15,731
+Ah ?
+
+155
+00:11:18,470 --> 00:11:20,381
+Ca fait un an, Adam et moi.
+
+156
+00:11:22,450 --> 00:11:23,347
+Ah, oui.
+
+157
+00:11:24,850 --> 00:11:26,156
+Toute une année.
+
+158
+00:11:26,840 --> 00:11:30,030
+Et j'ai toujours des papillons
+dans le ventre quand il me touche.
+
+159
+00:11:30,150 --> 00:11:33,231
+J'ai jamais connu ça.
+On va parfaitement ensemble.
+
+160
+00:11:33,924 --> 00:11:36,001
+Tu vois ce que je veux dire ?
+
+161
+00:11:37,162 --> 00:11:38,731
+Je ne pense pas, non.
+
+162
+00:11:40,307 --> 00:11:43,301
+T'inquiète pas.
+Tu trouveras celle qu'il te faut.
+
+163
+00:11:44,829 --> 00:11:46,113
+Oui. Tosh...
+
+164
+00:11:52,120 --> 00:11:55,159
+Tu trouves vraiment que
+j'ai une gueule de rongeur ?
+
+165
+00:11:56,490 --> 00:11:59,713
+Allez, on va ouvrir cette
+boîte, par tous les moyens.
+
+166
+00:12:15,410 --> 00:12:17,211
+Sors, où que tu sois...
+
+167
+00:12:24,480 --> 00:12:25,944
+Tu me fais courir ?
+
+168
+00:12:26,570 --> 00:12:28,780
+T'as mal choisi ton jour, mon ami.
+
+169
+00:12:33,500 --> 00:12:34,328
+Sors !
+
+170
+00:12:36,350 --> 00:12:37,570
+Sors de là, fils !
+
+171
+00:12:37,690 --> 00:12:38,464
+Papa ?
+
+172
+00:12:38,960 --> 00:12:39,840
+Cours !
+
+173
+00:12:51,430 --> 00:12:52,304
+Jack ?
+
+174
+00:12:52,720 --> 00:12:54,586
+Tu l'as trouvé, le Weevil ?
+
+175
+00:12:55,360 --> 00:12:56,053
+Non.
+
+176
+00:12:59,350 --> 00:13:01,000
+Comment es-tu arrivé là ?
+
+177
+00:13:01,010 --> 00:13:03,620
+Je suis venu avec toi,
+tu t'en souviens ?
+
+178
+00:13:05,000 --> 00:13:06,778
+Oui, bien sûr.
+
+179
+00:13:09,510 --> 00:13:10,418
+Ca va ?
+
+180
+00:13:13,280 --> 00:13:14,791
+Jack, qu'as-tu vu ?
+
+181
+00:13:17,750 --> 00:13:18,743
+Mon passé.
+
+182
+00:13:27,410 --> 00:13:29,799
+- Si tu dis la vérité...
+- Ca l'est.
+
+183
+00:13:31,560 --> 00:13:32,578
+On s'aime.
+
+184
+00:13:35,000 --> 00:13:37,080
+Mais comment j'ai pu l'oublier ?
+
+185
+00:13:50,910 --> 00:13:54,808
+Plus rien à manger. J'allais
+t'inviter au restaurant.
+
+186
+00:14:02,170 --> 00:14:05,480
+Je ne voulais pas que le
+week-end finisse, je suppose.
+
+187
+00:14:15,250 --> 00:14:17,291
+Jack, je t'en prie. Parle-moi.
+
+188
+00:14:18,100 --> 00:14:19,830
+Quelle partie de ton passé ?
+
+189
+00:14:19,840 --> 00:14:21,020
+Ton enfance ?
+
+190
+00:14:27,610 --> 00:14:29,878
+J'ai toujours été là pour toi, Jack.
+
+191
+00:14:30,180 --> 00:14:31,488
+Depuis toujours.
+
+192
+00:14:32,110 --> 00:14:34,707
+Je suis ton confident,
+tu t'en souviens ?
+
+193
+00:14:36,940 --> 00:14:38,845
+C'était censé être enterré.
+
+194
+00:14:39,248 --> 00:14:41,836
+J'ai enterré ce souvenir il y a 150 ans.
+
+195
+00:14:42,895 --> 00:14:44,504
+Pourquoi maintenant ?
+
+196
+00:14:45,680 --> 00:14:47,110
+Il est peut-être temps.
+
+197
+00:14:47,130 --> 00:14:49,550
+Peut-être que jusqu'ici, ton
+subconscient te protégeait.
+
+198
+00:14:49,560 --> 00:14:52,020
+Mais tu ne peux pas bloquer
+ton passé pour toujours.
+
+199
+00:14:52,030 --> 00:14:54,460
+Je ne peux pas me
+permettre de m'en souvenir.
+
+200
+00:14:59,410 --> 00:15:01,330
+- Jack, parle-moi, s'il te plaît.
+- Pourquoi ?
+
+201
+00:15:01,340 --> 00:15:03,760
+Je peux t'aider, crois-moi.
+
+202
+00:15:03,770 --> 00:15:06,290
+Je ne suis pas sûr que
+ce soit une bonne idée.
+
+203
+00:15:06,300 --> 00:15:08,278
+Dis-moi juste ce que tu as vu.
+
+204
+00:15:08,991 --> 00:15:11,273
+Je peux t'aider, je suis là pour ça.
+
+205
+00:15:14,162 --> 00:15:15,507
+Où es-tu, Jack ?
+
+206
+00:15:31,580 --> 00:15:33,220
+La Péninsule Boeshane.
+
+207
+00:15:34,442 --> 00:15:36,357
+Chez moi, au 51ème siècle.
+
+208
+00:15:38,340 --> 00:15:41,158
+On vivait sous la menace
+constante d'invasion.
+
+209
+00:15:43,590 --> 00:15:45,579
+Ils arrivaient sans prévenir.
+
+210
+00:15:46,940 --> 00:15:50,466
+On croyait qu'ils ne feraient
+que passer, comme d'habitude.
+
+211
+00:15:54,120 --> 00:15:55,994
+Mais ça n'a pas été le cas.
+
+212
+00:15:56,310 --> 00:15:57,645
+Pas ce jour là.
+
+213
+00:15:59,660 --> 00:16:03,129
+Les créatures les plus horribles
+que l'on puisse imaginer.
+
+214
+00:16:03,924 --> 00:16:05,750
+Leurs hurlements les devançaient.
+
+215
+00:16:05,760 --> 00:16:08,500
+<i>Cours ! Prends Gray. Protège-le !</i>
+
+216
+00:16:08,510 --> 00:16:11,133
+- Prends Gray.
+- Gray ?
+
+217
+00:16:12,682 --> 00:16:14,027
+Mon petit frère.
+
+218
+00:16:16,050 --> 00:16:19,485
+<i>Non, Papa. Viens avec nous.
+Je dois trouver votre mère.</i>
+
+219
+00:16:20,565 --> 00:16:21,523
+<i>Courez !</i>
+
+220
+00:16:29,310 --> 00:16:30,350
+Un instant
+
+221
+00:16:31,144 --> 00:16:32,468
+Je tenais sa main.
+
+222
+00:16:43,480 --> 00:16:45,460
+Je ne sais pas quand il a lâché.
+
+223
+00:16:45,470 --> 00:16:46,293
+<i>Gray ?</i>
+
+224
+00:16:49,321 --> 00:16:53,130
+<i>Gray ! Où es-tu, Gray ?</i>
+
+225
+00:16:53,140 --> 00:16:56,610
+Sa main était dans la mienne,
+je ne sais pas quand il a lâché.
+
+226
+00:16:56,620 --> 00:17:00,119
+Je ne l'ai pas remarqué, je le
+croyais là, juste derrière moi.
+
+227
+00:17:00,810 --> 00:17:02,532
+Je suis revenu sur mes pas
+
+228
+00:17:03,713 --> 00:17:05,771
+Espérant le revoir.
+
+229
+00:17:07,716 --> 00:17:09,061
+Tu l'as trouvé ?
+
+230
+00:17:11,770 --> 00:17:13,726
+J'ai couru jusqu'à la maison.
+
+231
+00:17:15,606 --> 00:17:17,277
+Jack, qu'as-tu trouvé ?
+
+232
+00:17:27,210 --> 00:17:28,043
+<i>Papa ?</i>
+
+233
+00:17:31,770 --> 00:17:32,607
+<i>Non !</i>
+
+234
+00:17:34,872 --> 00:17:35,891
+<i>A l'aide</i>
+
+235
+00:17:37,562 --> 00:17:38,920
+<i>S'il vous plaît !</i>
+
+236
+00:17:39,040 --> 00:17:41,447
+J'ai cherché Gray pendant des années.
+
+237
+00:17:42,010 --> 00:17:44,230
+- Je n'ai jamais retrouvé son corps.
+- Ce n'était pas ta faute.
+
+238
+00:17:44,350 --> 00:17:45,884
+J'ai lâché sa main !
+
+239
+00:17:48,090 --> 00:17:50,199
+Ca a été le pire jour de ma vie.
+
+240
+00:17:52,359 --> 00:17:55,345
+C'est la dernière chose
+dont je veux me souvenir.
+
+241
+00:17:58,170 --> 00:18:00,150
+D'après l'analyse moléculaire,
+
+242
+00:18:00,160 --> 00:18:04,180
+cet artefact potentiellement
+alien est en réalité fait de bois.
+
+243
+00:18:04,190 --> 00:18:07,470
+C'est peut-être arrivé là par erreur,
+
+244
+00:18:07,480 --> 00:18:09,710
+et a récupéré de l'énergie
+méson des autres objets.
+
+245
+00:18:09,720 --> 00:18:10,750
+Bien sûr.
+
+246
+00:18:11,637 --> 00:18:13,943
+Oui, désolé, c'est stupide.
+
+247
+00:18:14,095 --> 00:18:15,648
+Je crois que c'est
+Jack qui l'a ramené.
+
+248
+00:18:15,700 --> 00:18:19,484
+Non, Adam l'a trouvé lors d'une
+excavation il y a plusieurs mois.
+
+249
+00:18:19,990 --> 00:18:21,910
+Je vais regarder dans mon journal.
+
+250
+00:18:22,030 --> 00:18:23,890
+J'aime bien y rapporter
+les objets intéressants.
+
+251
+00:18:23,900 --> 00:18:26,450
+Tu parles des artefacts
+dans ton journal intime ?
+
+252
+00:18:26,460 --> 00:18:27,961
+Entre autres choses.
+
+253
+00:18:33,470 --> 00:18:36,278
+Bien, on a fini pour ce soir.
+
+254
+00:18:37,380 --> 00:18:38,683
+On dirait bien.
+
+255
+00:18:40,075 --> 00:18:42,276
+Tout va bien ?
+
+256
+00:18:43,478 --> 00:18:46,432
+Oui, c'est juste qu'Adam
+ne m'a pas encore appelée.
+
+257
+00:18:47,520 --> 00:18:48,641
+Il le fera.
+
+258
+00:18:50,451 --> 00:18:53,976
+Je n'y manquerais pas,
+si c'était notre anniversaire.
+
+259
+00:18:55,748 --> 00:18:57,600
+Je ne disparaîtrais pas.
+
+260
+00:18:57,610 --> 00:19:00,135
+Je te gâterais.
+
+261
+00:19:01,663 --> 00:19:02,437
+Owen !
+
+262
+00:19:03,179 --> 00:19:05,033
+Non, vraiment.
+
+263
+00:19:07,170 --> 00:19:09,723
+Je ne te quitterais
+pas des yeux, Tosh...
+
+264
+00:19:10,783 --> 00:19:12,902
+Parce que je t'aime.
+
+265
+00:19:14,410 --> 00:19:15,682
+Quoi ?
+
+266
+00:19:17,320 --> 00:19:20,810
+Ca y est, je l'ai dit. Je t'aime.
+
+267
+00:19:21,358 --> 00:19:27,170
+Je t'ai toujours aimé, depuis qu'on
+a commencé à travailler ensemble,
+
+268
+00:19:27,180 --> 00:19:29,670
+en fait, je te désire.
+
+269
+00:19:29,680 --> 00:19:33,090
+Quand on est dans la même pièce,
+j'ai envie de venir te toucher et...
+
+270
+00:19:33,100 --> 00:19:34,570
+- Owen !
+- Non.
+
+271
+00:19:34,580 --> 00:19:36,290
+Je ne peux plus garder ça pour moi !
+
+272
+00:19:36,300 --> 00:19:39,190
+Ma mère m'a dit de
+profiter du moment présent.
+
+273
+00:19:39,200 --> 00:19:42,400
+J'ai tellement d'amour à te donner,
+
+274
+00:19:42,410 --> 00:19:46,100
+et tu ne peux pas le savoir
+si je ne te le dis pas.
+
+275
+00:19:46,110 --> 00:19:49,206
+Alors voilà, je te le dis, je t'aime !
+
+276
+00:19:50,001 --> 00:19:52,876
+Je sais qu'il y a Adam, mais tu sais...
+
+277
+00:19:52,996 --> 00:19:56,930
+Je pense, non, je sais qu'on
+serait géniaux ensemble.
+
+278
+00:19:57,440 --> 00:20:00,958
+Si tu voulais bien
+me donner une chance.
+
+279
+00:20:05,230 --> 00:20:06,405
+Oh, mon dieu.
+
+280
+00:20:10,303 --> 00:20:11,729
+Dis quelque chose.
+
+281
+00:20:14,306 --> 00:20:17,463
+C'est totalement inapproprié.
+
+282
+00:20:18,523 --> 00:20:20,320
+- Comment ?
+- A quoi tu penses ?
+
+283
+00:20:20,330 --> 00:20:24,100
+- Désolé, je voulais que tu le saches.
+- Comment oses-tu ? Je suis avec Adam.
+
+284
+00:20:24,220 --> 00:20:26,540
+Et même si ça n'était pas le cas...
+
+285
+00:20:26,550 --> 00:20:28,132
+Tu n'es pas mon genre.
+
+286
+00:20:28,440 --> 00:20:30,271
+Et tu ne le seras jamais.
+
+287
+00:20:38,400 --> 00:20:39,900
+Je devrais peut-être
+rester seule ce soir.
+
+288
+00:20:39,910 --> 00:20:42,680
+Pas question.
+Et si tu oublies qui tu es ?
+
+289
+00:20:42,690 --> 00:20:44,192
+Je sais qui je suis.
+
+290
+00:20:46,126 --> 00:20:49,121
+Tu n'es pas la seule à
+avoir perdu quelque chose.
+
+291
+00:20:50,429 --> 00:20:52,210
+Mais tu t'en souviens.
+
+292
+00:20:52,220 --> 00:20:54,030
+Tout ce que tu sais sur moi.
+
+293
+00:20:54,040 --> 00:20:56,276
+T'es ma copine, ma meilleure amie.
+
+294
+00:20:57,160 --> 00:20:58,938
+Et tout à coup, plus rien.
+
+295
+00:21:00,201 --> 00:21:02,014
+Où est-ce qu'il va ?
+
+296
+00:21:03,520 --> 00:21:05,830
+Il vient juste de partir !
+Il sait que j'attends.
+
+297
+00:21:05,950 --> 00:21:10,180
+Bien, je vais me servir, dans ce cas !
+Et voilà. Garde la monnaie.
+
+298
+00:21:10,190 --> 00:21:12,090
+Achète-toi du produit contre l'acné.
+
+299
+00:21:12,100 --> 00:21:14,440
+Je ne reviendrai plus ici.
+C'est trop cher.
+
+300
+00:21:14,450 --> 00:21:17,520
+Deux euros de charge pour la
+caisse-enregistreuse. N'importe quoi.
+
+301
+00:21:17,530 --> 00:21:20,908
+Les jeunes de nos jours, ils
+savent plus travailler dur.
+
+302
+00:21:22,620 --> 00:21:24,556
+- Quoi ?
+- Rhys le râleur !
+
+303
+00:21:26,010 --> 00:21:28,930
+Quand tu fais la queue,
+ou que tu conduis,
+
+304
+00:21:28,940 --> 00:21:33,850
+ou au téléphone avec un de
+ces opérateurs automatiques...
+
+305
+00:21:33,860 --> 00:21:34,662
+Ca va.
+
+306
+00:21:35,783 --> 00:21:36,578
+Ca va.
+
+307
+00:21:42,632 --> 00:21:44,017
+Viens, ma chérie.
+
+308
+00:22:00,570 --> 00:22:02,380
+Qu'est-ce qui ne va pas ?
+
+309
+00:22:03,800 --> 00:22:06,611
+Mon journal.
+
+310
+00:22:08,620 --> 00:22:10,112
+Tu n'es pas dedans.
+
+311
+00:22:11,610 --> 00:22:13,302
+Tous les autres y sont.
+
+312
+00:22:14,504 --> 00:22:19,226
+Pourquoi je ne parle pas de toi
+si tu es là depuis si longtemps ?
+
+313
+00:22:23,340 --> 00:22:26,817
+C'est comme si je me rappelais
+de quelqu'un qui n'existe pas.
+
+314
+00:22:36,446 --> 00:22:37,954
+Qu'est-ce que t'es ?
+
+315
+00:22:40,220 --> 00:22:42,590
+Mets-toi sur mon chemin, et je
+te remplirai de faux souvenirs
+
+316
+00:22:42,600 --> 00:22:46,630
+jusqu'à ce que ta tête soit en feu,
+car c'est grâce à ça que j'existe.
+
+317
+00:22:47,190 --> 00:22:47,969
+Gwen.
+
+318
+00:22:48,900 --> 00:22:52,110
+- Qu'est-ce que tu lui as fait ?
+- La mémoire est très délicate.
+
+319
+00:22:52,230 --> 00:22:54,820
+M'intégrer à ses souvenirs
+en a effacé d'autres.
+
+320
+00:22:54,830 --> 00:22:57,950
+C'est un effet secondaire de ce
+que je dois faire pour survivre.
+
+321
+00:22:57,960 --> 00:22:59,392
+Jack doit savoir.
+
+322
+00:23:00,120 --> 00:23:01,572
+Souviens-toi de ça.
+
+323
+00:23:04,628 --> 00:23:06,400
+Je sais que tu ne voulais pas la tuer.
+
+324
+00:23:06,410 --> 00:23:08,295
+Tu n'as pas pu t'en empêcher.
+
+325
+00:23:08,820 --> 00:23:10,332
+Souviens-toi de ça.
+
+326
+00:23:18,720 --> 00:23:20,676
+- Je n'ai pas fait ça.
+- Oh si.
+
+327
+00:23:21,512 --> 00:23:23,590
+Et elle n'était pas la première.
+
+328
+00:23:29,642 --> 00:23:32,209
+<i>Ce bon vieux et loyal Ianto.</i>
+
+329
+00:23:33,191 --> 00:23:36,380
+<i>Parcourant les rues la nuit,
+à la recherche d'une proie.</i>
+
+330
+00:23:36,390 --> 00:23:38,366
+Mon... journal !
+
+331
+00:23:38,720 --> 00:23:40,960
+Tout souvenir humain est faux.
+
+332
+00:23:40,970 --> 00:23:43,823
+Vous les déformez en ce
+que vous voulez croire.
+
+333
+00:23:45,120 --> 00:23:47,611
+Mais on connaît votre corruption.
+
+334
+00:23:48,380 --> 00:23:51,543
+- Tu veux de la chair.
+- Non, pitié.
+
+335
+00:23:52,630 --> 00:23:53,792
+Souviens-t'en.
+
+336
+00:23:56,450 --> 00:23:57,623
+Souviens-t'en.
+
+337
+00:23:58,356 --> 00:23:59,540
+Souviens-t'en.
+
+338
+00:23:59,550 --> 00:24:00,608
+Souviens-t'en.
+
+339
+00:24:01,179 --> 00:24:02,422
+Souviens-t'en.
+
+340
+00:24:04,800 --> 00:24:07,160
+Je t'ai aidé à te
+débarrasser des cadavres.
+
+341
+00:24:07,170 --> 00:24:08,983
+C'est moi que tu appelles.
+
+342
+00:24:10,860 --> 00:24:15,646
+J'avais oublié comme c'était bon,
+d'intégrer les mauvais souvenirs.
+
+343
+00:24:51,320 --> 00:24:54,508
+<i>Franklin ? Réveille-toi !</i>
+
+344
+00:24:57,850 --> 00:24:58,787
+<i>Maman ?</i>
+
+345
+00:25:03,770 --> 00:25:04,957
+<i>Où est Gray ?</i>
+
+346
+00:25:07,900 --> 00:25:09,600
+<i>Où est-il, mon fils ?</i>
+
+347
+00:25:09,610 --> 00:25:10,691
+<i>Où est-il ?</i>
+
+348
+00:25:11,350 --> 00:25:12,871
+<i>On courait si vite.</i>
+
+349
+00:25:15,204 --> 00:25:17,893
+<i>Un instant, sa main
+était dans la mienne...</i>
+
+350
+00:25:20,030 --> 00:25:22,113
+<i>Non, pas mon petit garçon !</i>
+
+351
+00:25:23,417 --> 00:25:24,985
+<i>Pas mon petit garçon !</i>
+
+352
+00:25:26,508 --> 00:25:28,118
+Pourquoi maintenant ?
+
+353
+00:25:28,871 --> 00:25:30,481
+Pourquoi maintenant ?
+
+354
+00:25:46,910 --> 00:25:47,990
+Du nouveau ?
+
+355
+00:25:48,988 --> 00:25:51,576
+C'est toujours assez flou,
+mais ça vient.
+
+356
+00:25:53,200 --> 00:25:55,230
+C'est tout ce qu'on a, au final.
+
+357
+00:25:55,240 --> 00:25:56,405
+Des souvenirs.
+
+358
+00:25:57,444 --> 00:25:59,359
+C'est ce qui nous a amené ici.
+
+359
+00:26:00,112 --> 00:26:01,599
+A ce moment précis.
+
+360
+00:26:02,312 --> 00:26:04,716
+On l'a déjà trouvé, on le retrouvera.
+
+361
+00:26:06,538 --> 00:26:11,448
+Tu sais, j'ai toujours eu peur que...
+
+362
+00:26:14,651 --> 00:26:16,505
+que tu te contentes de moi.
+
+363
+00:26:19,032 --> 00:26:23,176
+Si tu me rencontrais maintenant,
+avec tout ce qui se passe dans ta vie,
+
+364
+00:26:25,397 --> 00:26:27,320
+tu ne me regarderais
+peut-être pas deux fois.
+
+365
+00:26:27,440 --> 00:26:28,718
+Ne dis pas ça.
+
+366
+00:26:38,490 --> 00:26:40,642
+- Tu te rappelles de ça ?
+- Non.
+
+367
+00:26:43,120 --> 00:26:45,250
+C'était comme la première fois.
+
+368
+00:26:48,800 --> 00:26:50,182
+Mais c'était bien.
+
+369
+00:27:01,100 --> 00:27:02,392
+J'aime bien ça.
+
+370
+00:27:02,940 --> 00:27:03,859
+Je sais.
+
+371
+00:27:06,510 --> 00:27:08,519
+Rappelle-moi d'autres choses.
+
+372
+00:27:37,442 --> 00:27:39,195
+Qu'est-ce qu'il y a ?
+
+373
+00:27:41,537 --> 00:27:43,472
+Jusqu'où irais-tu pour moi ?
+
+374
+00:27:45,590 --> 00:27:46,916
+Je dois savoir.
+
+375
+00:27:50,482 --> 00:27:52,097
+Tu mourrais pour moi ?
+
+376
+00:27:57,400 --> 00:27:58,334
+Oui.
+
+377
+00:28:09,605 --> 00:28:10,461
+Jack...
+
+378
+00:28:16,040 --> 00:28:16,836
+Ianto.
+
+379
+00:28:21,660 --> 00:28:23,233
+Qu'est-ce qu'il y a ?
+
+380
+00:28:25,692 --> 00:28:27,668
+Tu dois me mettre dans la galerie.
+
+381
+00:28:28,200 --> 00:28:29,318
+M'enfermer.
+
+382
+00:28:30,724 --> 00:28:32,337
+J'ai tué trois filles.
+
+383
+00:28:33,700 --> 00:28:36,208
+- Je les ai étranglées.
+- Arrête ça !
+
+384
+00:28:37,343 --> 00:28:38,891
+Je ne plaisante pas.
+
+385
+00:28:40,850 --> 00:28:42,821
+Je les ai tuées de sang froid.
+
+386
+00:28:45,103 --> 00:28:47,772
+J'ai pris leurs corps, et...
+
+387
+00:28:53,750 --> 00:28:55,239
+Tu dois m'enfermer.
+
+388
+00:28:56,652 --> 00:28:59,464
+Avant que je m'en prenne à toi.
+Vous êtes tous en danger.
+
+389
+00:29:00,197 --> 00:29:01,950
+Viens là.
+
+390
+00:29:04,040 --> 00:29:05,902
+Qu'est-ce qui t'es arrivé ?
+
+391
+00:29:15,390 --> 00:29:16,910
+Je suis un monstre.
+
+392
+00:29:24,840 --> 00:29:26,630
+Meilleur détecteur de
+mensonge de la planète.
+
+393
+00:29:26,640 --> 00:29:29,590
+Si quelque chose est faux,
+la lumière devient rouge.
+
+394
+00:29:29,710 --> 00:29:30,550
+Vas-y.
+
+395
+00:29:34,080 --> 00:29:40,292
+Mes mains sur sa gorge.
+
+396
+00:29:47,430 --> 00:29:49,162
+Et c'était si bon.
+
+397
+00:29:51,180 --> 00:29:54,396
+Enlever la vie de son corps.
+
+398
+00:30:00,410 --> 00:30:02,313
+Il dit que c'est la vérité.
+
+399
+00:30:03,862 --> 00:30:05,308
+Je n'y crois pas.
+
+400
+00:30:06,890 --> 00:30:09,009
+Parle-moi de la deuxième fille.
+
+401
+00:30:15,150 --> 00:30:17,077
+Elle a essayé de s'enfuir...
+
+402
+00:30:17,730 --> 00:30:19,501
+Mais j'étais trop rapide.
+
+403
+00:30:23,850 --> 00:30:25,343
+Elle me suppliait...
+
+404
+00:30:27,270 --> 00:30:30,493
+Et je m'en fichais.
+
+405
+00:30:32,680 --> 00:30:34,780
+Quelque chose en moi veut tuer.
+
+406
+00:30:35,819 --> 00:30:36,564
+Non.
+
+407
+00:30:38,011 --> 00:30:39,376
+Ce n'est pas toi.
+
+408
+00:30:40,030 --> 00:30:41,900
+Quelque chose t'a changé.
+
+409
+00:30:42,020 --> 00:30:44,615
+Tu n'es pas un meurtrier.
+J'en suis sûr.
+
+410
+00:30:54,487 --> 00:30:56,770
+<i>Tout souvenir humain est faux.</i>
+
+411
+00:30:56,780 --> 00:30:59,150
+<i>Tu veux de la chair.</i>
+
+412
+00:30:59,160 --> 00:31:00,680
+<i>Souviens-toi de ça.</i>
+
+413
+00:31:03,890 --> 00:31:05,830
+<i>Un an aujourd'hui... tu y as pensé.</i>
+
+414
+00:31:05,840 --> 00:31:07,254
+<i>Tu t'en souviens ?</i>
+
+415
+00:31:12,420 --> 00:31:13,550
+<i>Qui c'est, ça ?</i>
+
+416
+00:31:13,560 --> 00:31:17,172
+<i>C'est bien ce que je t'ai dit
+ton premier jour, tu t'en souviens ?</i>
+
+417
+00:31:20,600 --> 00:31:21,834
+<i>Tu t'en souviens ?</i>
+
+418
+00:31:21,954 --> 00:31:23,410
+<i>Tu t'en souviens ?</i>
+
+419
+00:31:23,420 --> 00:31:26,395
+<i>Je suis venu avec toi,
+tu t'en souviens ?</i>
+
+420
+00:31:26,750 --> 00:31:28,760
+<i>Je peux t'aider, je suis là pour ça.</i>
+
+421
+00:31:28,770 --> 00:31:30,660
+<i>Souviens-toi de ça.</i>
+
+422
+00:31:30,670 --> 00:31:34,230
+Viens là, regarde.
+
+423
+00:31:34,240 --> 00:31:35,361
+<i>Souviens-t'en.</i>
+
+424
+00:31:37,340 --> 00:31:40,980
+<i>Souviens-t'en. Souviens-t'en.</i>
+
+425
+00:31:47,949 --> 00:31:50,353
+Où est l'échantillon de sang d'Adam ?
+
+426
+00:31:58,040 --> 00:32:01,019
+- Tout est en ordre ici.
+- Dernière mise à jour ?
+
+427
+00:32:02,630 --> 00:32:04,055
+Il y a 24 heures.
+
+428
+00:32:37,395 --> 00:32:40,730
+A propos d'hier soir, j'ai été égoïste.
+
+429
+00:32:40,740 --> 00:32:44,140
+- Owen, je crois que ton monde...
+- Je sais. Je suis vraiment désolé.
+
+430
+00:32:44,260 --> 00:32:46,340
+Je ne veux pas gâcher notre amitié.
+
+431
+00:32:46,350 --> 00:32:49,008
+Le plus important,
+c'est que tu sois heureuse.
+
+432
+00:32:49,850 --> 00:32:50,678
+Merci.
+
+433
+00:32:52,230 --> 00:32:53,108
+Tosh...
+
+434
+00:32:55,320 --> 00:32:57,142
+Tu es heureuse avec Adam ?
+
+435
+00:32:58,410 --> 00:32:59,532
+Totalement.
+
+436
+00:33:06,594 --> 00:33:08,530
+Hé, comment ça va aujourd'hui ?
+
+437
+00:33:08,540 --> 00:33:11,300
+Certaines choses
+reviennent tout doucement.
+
+438
+00:33:11,310 --> 00:33:13,275
+Rhys ne voulait pas
+que je vienne mais...
+
+439
+00:33:13,581 --> 00:33:16,930
+On prendra soin de toi.
+Tu dois juste te laisser du temps.
+
+440
+00:33:16,940 --> 00:33:18,813
+Allez, câlin collectif !
+
+441
+00:33:27,690 --> 00:33:28,964
+Ianto, viens là.
+
+442
+00:33:32,510 --> 00:33:33,752
+Tu vas bien ?
+
+443
+00:33:36,600 --> 00:33:38,293
+Je tuerais pour un café.
+
+444
+00:33:47,170 --> 00:33:48,810
+Dis-moi tout, Adam.
+
+445
+00:33:48,820 --> 00:33:50,384
+Si c'est bien ton nom.
+
+446
+00:33:51,750 --> 00:33:53,700
+- Quoi ?
+- Qu'est-ce que tu fais, Jack ?
+
+447
+00:33:53,710 --> 00:33:55,170
+Il n'est pas celui que vous pensez.
+
+448
+00:33:55,180 --> 00:33:57,730
+Il s'est intégré dans nos
+souvenirs par le toucher.
+
+449
+00:33:57,740 --> 00:33:59,290
+C'est une mauvaise blague ?
+
+450
+00:33:59,300 --> 00:34:01,090
+Il n'existait pas
+il y a encore deux jours.
+
+451
+00:34:01,100 --> 00:34:02,980
+On peut m'expliquer ?
+
+452
+00:34:02,990 --> 00:34:04,900
+Jack, on le connaît depuis des années.
+
+453
+00:34:04,910 --> 00:34:06,190
+- Il fait partie de l'équipe.
+- Non.
+
+454
+00:34:06,310 --> 00:34:08,816
+- Il vous l'a juste fait penser.
+- Allez, Jack.
+
+455
+00:34:08,936 --> 00:34:11,340
+- Tu ne m'auras pas comme ça.
+- Tu me connais.
+
+456
+00:34:11,460 --> 00:34:13,090
+Tu m'as recruté il y a trois ans.
+
+457
+00:34:13,100 --> 00:34:15,200
+Quand je pense à mon
+équipe, tu en fais partie.
+
+458
+00:34:15,210 --> 00:34:16,890
+Mais je ne ressens rien pour toi.
+
+459
+00:34:16,900 --> 00:34:19,290
+Aucune fierté, aucune chaleur...
+
+460
+00:34:19,300 --> 00:34:24,590
+Toi, mon confident.
+Toi, qui a déterré les morts.
+
+461
+00:34:24,600 --> 00:34:27,240
+Tu l'as peut-être oublié.
+Comme moi avec Rhys.
+
+462
+00:34:27,360 --> 00:34:31,220
+J'aurais dû comprendre à ce moment là.
+C'était pas le stress, c'était lui.
+
+463
+00:34:31,230 --> 00:34:34,900
+En nous faisant croire qu'on le connaît,
+il perturbe nos vrais souvenirs.
+
+464
+00:34:35,020 --> 00:34:38,130
+- Je ne sais pas de quoi tu parles.
+- Je l'emmène aux galeries.
+
+465
+00:34:38,140 --> 00:34:40,271
+- Jack, c'est ridicule.
+- Non !
+
+466
+00:34:41,228 --> 00:34:41,960
+Non !
+
+467
+00:34:41,970 --> 00:34:44,428
+- Tosh, ça n'aide pas.
+- C'est bon.
+
+468
+00:34:45,019 --> 00:34:46,791
+Je vais juste l'enfermer.
+
+469
+00:34:49,250 --> 00:34:51,320
+- Laisse-le partir.
+- Je ne lui ferai pas de mal.
+
+470
+00:34:51,440 --> 00:34:54,820
+- Pourquoi je te ferais confiance ?
+- Tosh, on peut en parler.
+
+471
+00:34:54,830 --> 00:34:56,567
+Lâche ton arme, Jack.
+
+472
+00:34:58,340 --> 00:34:59,318
+Lâche-moi.
+
+473
+00:34:59,827 --> 00:35:01,681
+Voilà ce que tu nous as fait.
+
+474
+00:35:11,170 --> 00:35:15,340
+Ne me tue pas.
+J'avais besoin de ça pour survivre.
+
+475
+00:35:15,350 --> 00:35:16,700
+Je ne vous voulais aucun mal.
+
+476
+00:35:16,710 --> 00:35:18,650
+- Tu nous as changés.
+- Pour le mieux !
+
+477
+00:35:18,660 --> 00:35:20,730
+Tu ne te rappelais plus qui tu étais.
+
+478
+00:35:20,740 --> 00:35:22,360
+Je t'ai aidé.
+
+479
+00:35:22,370 --> 00:35:25,160
+Regarde Owen, plus du tout cynique.
+
+480
+00:35:25,280 --> 00:35:28,106
+Il est différent maintenant.
+Généreux, heureux.
+
+481
+00:35:29,100 --> 00:35:30,510
+Et Toshiko...
+
+482
+00:35:30,520 --> 00:35:32,834
+Elle n'a jamais été aussi confiante.
+
+483
+00:35:34,070 --> 00:35:36,725
+Comment es-tu arrivé là ?
+Pourquoi nous ?
+
+484
+00:35:37,307 --> 00:35:41,973
+Vous avez tous des souvenirs
+vraiment uniques. Surtout toi, Jack.
+
+485
+00:35:42,650 --> 00:35:45,457
+Tous ces souvenirs
+extraordinaires que tu as.
+
+486
+00:35:45,780 --> 00:35:47,890
+Certains cachés, d'autres absents.
+
+487
+00:35:47,910 --> 00:35:49,677
+Ton esprit singulier.
+
+488
+00:35:50,431 --> 00:35:52,285
+C'est ce qui m'a amené ici.
+
+489
+00:35:53,580 --> 00:35:56,212
+Bon boulot.
+C'est ce qu'on fait de mieux.
+
+490
+00:35:57,629 --> 00:35:58,881
+Anéantir les extra-terrestres.
+
+491
+00:35:58,916 --> 00:36:01,952
+Tu peux pas me tuer. Tu m'a fait vivre.
+
+492
+00:36:03,030 --> 00:36:05,625
+Et tu n'oublies jamais
+ce que tu as tué.
+
+493
+00:36:06,564 --> 00:36:08,112
+N'est-ce pas, Jack ?
+
+494
+00:36:16,190 --> 00:36:18,280
+Nos souvenirs nous définissent.
+
+495
+00:36:18,400 --> 00:36:20,749
+Adam les a changés.
+Nous a changés.
+
+496
+00:36:21,740 --> 00:36:23,832
+Je dois vous aider à revenir en arrière
+
+497
+00:36:23,952 --> 00:36:25,940
+A retrouver vos souvenirs.
+
+498
+00:36:25,960 --> 00:36:27,538
+Vous redécouvrir.
+
+499
+00:36:29,124 --> 00:36:32,832
+Si j'ai tort,
+il sera encore là après ça.
+
+500
+00:36:36,670 --> 00:36:40,445
+Revenons à avant notre rencontre.
+
+501
+00:36:46,390 --> 00:36:49,460
+Cherchez autour de vous ce
+qui pourrait vous définir.
+
+502
+00:36:50,940 --> 00:36:53,600
+Ce qui est caché comme oublié.
+
+503
+00:36:55,150 --> 00:36:56,840
+Dites-moi où vous êtes.
+
+504
+00:37:08,460 --> 00:37:09,603
+<i>Au resto U.</i>
+
+505
+00:37:09,920 --> 00:37:12,850
+<i>Rhys est assis en face de
+moi, à raconter des blagues.</i>
+
+506
+00:37:12,860 --> 00:37:16,525
+<i>"Où trouve-t-on une tortue sans
+jambes ? Là où tu l'as laissée."</i>
+
+507
+00:37:17,770 --> 00:37:20,178
+<i>C'est mon anniversaire. J'ai dix ans.</i>
+
+508
+00:37:21,318 --> 00:37:25,790
+<i>Maman passe sa journée à crier,
+"Je t'aime car tu es mon fils,</i>
+
+509
+00:37:25,800 --> 00:37:27,710
+<i>mais ça veut pas dire
+que je dois t'apprécier".</i>
+
+510
+00:37:27,720 --> 00:37:29,040
+<i>Club de maths.</i>
+
+511
+00:37:29,050 --> 00:37:31,700
+Il y a de la fiabilité dans les maths.
+
+512
+00:37:31,730 --> 00:37:33,482
+<i>Toujours la bonne réponse.</i>
+
+513
+00:37:36,000 --> 00:37:41,987
+<i>Rencontrer Lisa, tomber
+amoureux, plus vivant que jamais.</i>
+
+514
+00:37:43,091 --> 00:37:45,860
+<i>J'ai 16 ans. Elle a fait mes bagages.</i>
+
+515
+00:37:45,870 --> 00:37:49,530
+C'est la meilleure chose que
+tu aies fait pour moi, Mère.
+
+516
+00:37:49,540 --> 00:37:51,418
+<i>L'embrasser au supermarché.</i>
+
+517
+00:37:51,940 --> 00:37:53,190
+Son regard.
+
+518
+00:37:53,890 --> 00:37:55,600
+<i>Mon premier appartement.</i>
+
+519
+00:37:55,610 --> 00:37:57,039
+Pas de chauffage.
+
+520
+00:37:57,520 --> 00:37:59,480
+<i>Je n'ai personne à inviter.</i>
+
+521
+00:37:59,490 --> 00:38:00,604
+<i>Perdre Lisa.</i>
+
+522
+00:38:01,297 --> 00:38:02,907
+Comme la fin du monde.
+
+523
+00:38:03,710 --> 00:38:06,099
+<i>La manière dont il me regarde parfois.</i>
+
+524
+00:38:06,400 --> 00:38:10,402
+<i>Comme s'il avait peur de
+ce qu'il ressent. Je l'aime.</i>
+
+525
+00:38:14,817 --> 00:38:16,773
+Mais pas comme je t'aime toi.
+
+526
+00:38:19,340 --> 00:38:20,297
+Prends ça.
+
+527
+00:38:22,554 --> 00:38:25,060
+<i>Savoir que la vie doit être plus que ça.</i>
+
+528
+00:38:26,038 --> 00:38:28,070
+<i>Savoir que je suis spéciale.</i>
+
+529
+00:38:28,080 --> 00:38:30,171
+Attendre que quelqu'un le voie.
+
+530
+00:38:34,487 --> 00:38:35,587
+Je l'ai vu.
+
+531
+00:38:41,976 --> 00:38:43,444
+<i>Sauver une vie.</i>
+
+532
+00:38:44,380 --> 00:38:46,907
+<i>Des centaines, mais
+ce n'est jamais assez.</i>
+
+533
+00:38:48,430 --> 00:38:49,761
+Qui me sauvera ?
+
+534
+00:38:51,950 --> 00:38:52,674
+Moi.
+
+535
+00:39:00,810 --> 00:39:02,133
+<i>Travailler ici.</i>
+
+536
+00:39:02,683 --> 00:39:04,659
+Ca a redonné du sens à ma vie.
+
+537
+00:39:08,432 --> 00:39:09,125
+Toi.
+
+538
+00:39:20,506 --> 00:39:24,133
+Voilà une pilule d'amnésie pour
+chacun. Ca vous fera oublier Adam.
+
+539
+00:39:25,152 --> 00:39:28,697
+On doit supprimer les dernières
+48 heures de nos mémoires.
+
+540
+00:39:29,440 --> 00:39:31,538
+Redevenir ceux que nous étions.
+
+541
+00:40:14,370 --> 00:40:16,358
+Je vais perdre tant de choses.
+
+542
+00:40:17,662 --> 00:40:19,067
+Rien n'était vrai.
+
+543
+00:40:22,220 --> 00:40:23,384
+Il m'aimait.
+
+544
+00:40:24,170 --> 00:40:25,710
+Et je l'aimais.
+
+545
+00:40:25,720 --> 00:40:27,845
+C'est comme de vrais souvenirs.
+
+546
+00:40:29,237 --> 00:40:31,233
+Il ne t'a pas donné le choix.
+
+547
+00:40:33,535 --> 00:40:35,073
+Tu dois oublier ça.
+
+548
+00:41:00,590 --> 00:41:01,914
+Au revoir, Adam.
+
+549
+00:41:38,380 --> 00:41:39,594
+Plus que moi.
+
+550
+00:41:40,430 --> 00:41:43,180
+Jack, je sais ce que
+c'est de ne pas exister.
+
+551
+00:41:44,110 --> 00:41:45,950
+Ne me renvoie pas là bas.
+
+552
+00:41:45,960 --> 00:41:47,057
+Je le dois.
+
+553
+00:41:47,913 --> 00:41:49,319
+Que vas-tu faire ?
+
+554
+00:41:50,517 --> 00:41:52,758
+Ca va supprimer les deux derniers jours.
+
+555
+00:41:52,878 --> 00:41:55,280
+Tu garderas quand même
+les mauvais souvenirs.
+
+556
+00:41:55,290 --> 00:41:57,144
+Car ils ont toujours été là.
+
+557
+00:41:58,122 --> 00:42:00,037
+Et les bons moments, Jack ?
+
+558
+00:42:01,490 --> 00:42:04,250
+Le dernier bon souvenir
+de toi et ton père ?
+
+559
+00:42:04,260 --> 00:42:07,320
+- Il est perdu.
+- Je peux t'aider à le retrouver.
+
+560
+00:42:07,440 --> 00:42:10,167
+Je peux te ramener là bas.
+Avant de mourir.
+
+561
+00:42:14,000 --> 00:42:15,289
+Pourquoi tu ferais ça ?
+
+562
+00:42:15,409 --> 00:42:20,824
+Je suis resté si longtemps dans le
+néant, ce monde m'a presque aveuglé.
+
+563
+00:42:21,340 --> 00:42:25,109
+C'était si beau après les
+ténèbres et les relents de peur.
+
+564
+00:42:25,770 --> 00:42:27,810
+C'est toi qui m'as donné ça.
+
+565
+00:42:27,930 --> 00:42:29,955
+Laisse-moi faire ça pour toi.
+
+566
+00:42:31,250 --> 00:42:32,094
+Allez.
+
+567
+00:42:33,790 --> 00:42:35,070
+Tu en as envie.
+
+568
+00:42:52,150 --> 00:42:53,975
+C'est le début de soirée.
+
+569
+00:42:55,730 --> 00:42:57,156
+Juste papa et moi.
+
+570
+00:42:58,704 --> 00:43:00,212
+<i>Oh non !</i>
+
+571
+00:43:01,100 --> 00:43:02,570
+<i>Tu sors !</i>
+
+572
+00:43:06,290 --> 00:43:09,880
+<i>Tu sais, un jour tu ne voudras
+plus jouer avec ton vieux père.</i>
+
+573
+00:43:09,890 --> 00:43:10,805
+<i>Jamais.</i>
+
+574
+00:43:12,720 --> 00:43:13,841
+Tu y es ?
+
+575
+00:43:14,921 --> 00:43:15,634
+Oui.
+
+576
+00:43:17,450 --> 00:43:19,370
+Papa, moi et...
+
+577
+00:43:19,380 --> 00:43:21,870
+<i>Maman a dit que je pouvais jouer.</i>
+
+578
+00:43:22,430 --> 00:43:23,534
+<i>Hé, Gray !</i>
+
+579
+00:43:29,300 --> 00:43:30,840
+<i>Allez, encore une.</i>
+
+580
+00:43:35,017 --> 00:43:36,100
+<i>J'y vais.</i>
+
+581
+00:43:37,870 --> 00:43:39,923
+Je cours après la balle !
+
+582
+00:43:47,760 --> 00:43:50,030
+Un autre garçon est là.
+Je ne le connais pas.
+
+583
+00:43:50,150 --> 00:43:51,470
+<i>- Je peux jouer ?
+- Qui es-tu ?</i>
+
+584
+00:43:51,480 --> 00:43:54,860
+<i>- Je m'appelle Adam.
+- Laisse-moi jouer.</i>
+
+585
+00:43:55,776 --> 00:43:57,730
+Avant qu'il ne fasse nuit.
+
+586
+00:43:57,740 --> 00:43:59,321
+<i>Il y a assez de place.</i>
+
+587
+00:44:00,460 --> 00:44:02,536
+<i>Qu'est-ce que tu fais ?</i>
+
+588
+00:44:04,309 --> 00:44:06,400
+<i>- Ca va aller ?
+- Je veux juste jouer.</i>
+
+589
+00:44:06,520 --> 00:44:09,400
+<i>- Il peut jouer.
+- Non ! Sa place n'est pas ici.</i>
+
+590
+00:44:09,410 --> 00:44:11,630
+<i>- Je ne veux pas qu'il joue avec nous.
+- Je m'appelle Adam.</i>
+
+591
+00:44:11,750 --> 00:44:14,637
+<i>- Touche pas mon père.
+- Du calme !</i>
+
+592
+00:44:15,770 --> 00:44:16,997
+<i>Ca va, Adam ?</i>
+
+593
+00:44:18,020 --> 00:44:19,930
+<i>Oui, il ne veut pas partager.</i>
+
+594
+00:44:19,940 --> 00:44:22,721
+<i>Si c'est comme ça, on rentre.</i>
+
+595
+00:44:22,841 --> 00:44:24,740
+<i>- Quoi ?
+- Viens, Gray.</i>
+
+596
+00:44:24,750 --> 00:44:26,800
+Non, on ne part pas encore.
+
+597
+00:44:27,220 --> 00:44:32,044
+On joue encore, la nuit tombe, on
+allume un feu. Maman nous rejoint.
+
+598
+00:44:32,795 --> 00:44:35,061
+<i>Viens, fiston. On fait la course.</i>
+
+599
+00:44:35,181 --> 00:44:36,232
+<i>La course !</i>
+
+600
+00:44:36,835 --> 00:44:37,599
+<i>Papa !</i>
+
+601
+00:44:40,033 --> 00:44:42,944
+<i>C'est ta faute. Tu as tout gâché.</i>
+
+602
+00:44:43,725 --> 00:44:44,723
+Je l'ai créé.
+
+603
+00:44:45,461 --> 00:44:48,160
+<i>Papa !
+Papa!</i>
+
+604
+00:44:50,155 --> 00:44:51,296
+<i>Je t'aime.</i>
+
+605
+00:44:51,910 --> 00:44:53,066
+Papa, attends !
+
+606
+00:44:54,715 --> 00:44:55,510
+Papa !
+
+607
+00:44:56,773 --> 00:44:59,240
+Je veux retrouver mon vrai souvenir.
+
+608
+00:44:59,360 --> 00:45:00,737
+Alors épargne-moi.
+
+609
+00:45:01,280 --> 00:45:06,720
+La boîte contient mon dernier
+souvenir de toi, ton père et Gray.
+
+610
+00:45:07,738 --> 00:45:09,755
+J'en fais partie, maintenant.
+
+611
+00:45:10,420 --> 00:45:12,580
+Et je vivrai tant que
+tu t'en souviendras.
+
+612
+00:45:12,600 --> 00:45:13,963
+C'était pour ça ?
+
+613
+00:45:14,920 --> 00:45:16,530
+C'était pas charmant ?
+
+614
+00:45:17,100 --> 00:45:20,416
+Jouer dans le sable,
+le futur encore inconnu.
+
+615
+00:45:20,722 --> 00:45:22,240
+Ton père riant.
+
+616
+00:45:22,250 --> 00:45:24,025
+Gray, sain et sauf.
+
+617
+00:45:32,163 --> 00:45:33,895
+Je ne veux pas mourir !
+
+618
+00:45:34,180 --> 00:45:38,470
+Prends cette pilule et tu
+perdras tout ce que je t'ai donné.
+
+619
+00:45:38,480 --> 00:45:42,460
+Efface-moi et tu perdras tous
+les souvenirs de ton père.
+
+620
+00:45:42,470 --> 00:45:44,651
+Il cessera d'exister.
+
+621
+00:45:49,970 --> 00:45:51,281
+Au revoir, Adam.
+
+622
+00:46:05,215 --> 00:46:06,010
+Papa !
+
+623
+00:46:06,315 --> 00:46:07,069
+Gray !
+
+624
+00:46:11,860 --> 00:46:15,671
+Revenez ! Ca ne se passe pas comme ça !
+
+625
+00:46:31,014 --> 00:46:31,788
+Papa !
+
+626
+00:46:32,134 --> 00:46:32,888
+Gray !
+
+627
+00:47:06,844 --> 00:47:09,740
+Jack, comment a-t-on
+perdu deux jours ?
+
+628
+00:47:09,860 --> 00:47:12,190
+- Comment ça ?
+- Les dernières 48 heures.
+
+629
+00:47:12,200 --> 00:47:13,630
+Aucun de nous ne s'en souviens.
+
+630
+00:47:13,640 --> 00:47:16,570
+Le système est vierge,
+les caméras effacées.
+
+631
+00:47:16,580 --> 00:47:18,410
+Que s'est-il passé ?
+
+632
+00:47:18,420 --> 00:47:20,072
+Qu'est-ce qu'on a fait ?
+
+633
+00:47:22,400 --> 00:47:23,636
+Je ne sais pas.
+
+634
+00:47:24,250 --> 00:47:27,930
+Super ! Deux jours de ma vie
+que je ne retrouverai jamais !
+
+635
+00:47:27,940 --> 00:47:30,610
+On dirait que Toshiko
+a un admirateur secret.
+
+636
+00:47:30,620 --> 00:47:31,479
+Ah bon ?
+
+637
+00:47:32,009 --> 00:47:35,309
+"Pour Tosh, toutes mes excuses, Owen".
+
+638
+00:47:36,002 --> 00:47:37,136
+C'est de toi.
+
+639
+00:47:38,220 --> 00:47:42,070
+Dans tes rêves, Tosh. Quelqu'un
+te fait une mauvaise blague.
+
+640
+00:47:42,080 --> 00:47:44,201
+Je n'offre pas de fleurs.
+
+641
+00:47:46,300 --> 00:47:48,207
+Et je ne m'excuse jamais.
+
+642
+00:48:09,370 --> 00:48:10,685
+Tu m'as appelé ?
+
+643
+00:48:11,500 --> 00:48:14,312
+- J'ai trouvé ton journal.
+- Je le cherchais.
+
+644
+00:48:16,800 --> 00:48:18,031
+Et au fait...
+
+645
+00:48:19,230 --> 00:48:21,265
+Les mètres ne mentent jamais.
+
+646
+00:48:26,390 --> 00:48:27,579
+Qui est Adam ?
+
+647
+00:48:28,618 --> 00:48:29,759
+Aucune idée.
+
+648
+00:49:30,905 --> 00:49:33,051
+<i>On a une victime de
+meurtre et une survivante.</i>
+
+649
+00:49:33,052 --> 00:49:36,964
+<i>Attaques avec aiguille,
+dossiers médicaux effacés.</i>
+
+650
+00:49:37,648 --> 00:49:39,466
+<i>Je parie sur ce truc.
+Ça vient du sang de Marie.</i>
+
+651
+00:49:39,501 --> 00:49:40,631
+J'avais le SIDA.
+
+652
+00:49:40,666 --> 00:49:41,467
+C'est impossible.
+
+653
+00:49:41,468 --> 00:49:42,835
+<i>Elle est tellement normale
+qu'elle est anormale.</i>
+
+654
+00:49:42,870 --> 00:49:44,995
+<i>Nous sommes à l'aube de la plus
+grande découverte de l'histoire.</i>
+
+655
+00:49:45,030 --> 00:49:47,224
+Ça doit bien valoir quelques sacrifices.
+
+656
+00:49:47,259 --> 00:49:49,252
+<i>Il ne s'agit pas d'un maniaque
+obsédé par les aiguilles.</i>
+
+657
+00:49:49,287 --> 00:49:50,497
+<i>C'est une conspiration.</i>
+
+658
+00:49:50,498 --> 00:49:52,773
+<i>Le corps revient à ses
+paramètres de départ.</i>
+
+659
+00:49:52,808 --> 00:49:54,995
+<i>Une forme de vie extra-terrestre
+s'intègre au sang humain.</i>
+
+660
+00:49:55,030 --> 00:49:56,362
+ C'est absurde.
+
+661
+00:49:56,632 --> 00:49:57,969
+Je dois y entrer.
+
+662
+00:49:58,132 --> 00:50:00,223
+<i>Mlle Martha Jones.</i>
+
+663
+00:50:26,105 --> 00:50:31,466
+~Harkness Team~
+~www.seriessub.com~
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

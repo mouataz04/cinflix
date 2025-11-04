@@ -1,0 +1,2050 @@
+1
+00:00:29,155 --> 00:00:31,555  X1:225 X2:495 Y1:380 Y2:419
+Belle journée, non?
+
+2
+00:00:31,724 --> 00:00:33,817  X1:116 X2:602 Y1:380 Y2:419
+Oui, mais ils annoncent une tempête.
+
+3
+00:00:33,993 --> 00:00:36,894  X1:206 X2:511 Y1:356 Y2:419
+On est dans les terres.
+Le vent tourne vite.
+
+4
+00:00:37,063 --> 00:00:40,032  X1:170 X2:547 Y1:352 Y2:419
+- Tout le monde est là?
+- Tu as prévenu un peu tard.
+
+5
+00:00:40,199 --> 00:00:42,997  X1:173 X2:546 Y1:352 Y2:419
+Puis-je savoir
+de quoi tu veux leur parler?
+
+6
+00:00:43,169 --> 00:00:46,627  X1:180 X2:538 Y1:352 Y2:419
+Je suis juste venu
+pour remotiver les troupes.
+
+7
+00:00:46,806 --> 00:00:48,899  X1:201 X2:517 Y1:354 Y2:419
+- Comment allez-vous?
+- Bien, merci.
+
+8
+00:00:49,075 --> 00:00:52,010  X1:160 X2:558 Y1:352 Y2:419
+- Bonjour. Ravi de vous revoir.
+- Bonjour.
+
+9
+00:00:54,447 --> 00:00:55,846  X1:194 X2:524 Y1:380 Y2:419
+Rassemblez les troupes!
+
+10
+00:00:56,015 --> 00:00:59,212  X1:206 X2:512 Y1:356 Y2:419
+L'usine vient enfin
+de faire des bénéfices.
+
+11
+00:00:59,385 --> 00:01:02,445  X1:182 X2:536 Y1:352 Y2:419
+Mes ouvriers méritent
+quelques encouragements.
+
+12
+00:01:02,622 --> 00:01:05,216  X1:118 X2:600 Y1:380 Y2:419
+Ils ne vont pas être déçus, crois-moi.
+
+13
+00:01:13,700 --> 00:01:16,726  X1:108 X2:609 Y1:384 Y2:419
+Comme vous le savez tous et toutes...
+
+14
+00:01:16,936 --> 00:01:20,702  X1:155 X2:563 Y1:352 Y2:419
+vous avez travaillé
+três dur durant l'année passée.
+
+15
+00:01:20,873 --> 00:01:24,172  X1:177 X2:541 Y1:356 Y2:419
+Et je crois que vous pouvez
+être fiers de vous.
+
+16
+00:01:30,783 --> 00:01:34,776  X1:188 X2:529 Y1:352 Y2:419
+Tel un navire,
+dont la destinée repose...
+
+17
+00:01:34,954 --> 00:01:37,115  X1:238 X2:480 Y1:380 Y2:419
+sur le capitaine...
+
+18
+00:01:37,290 --> 00:01:41,590  X1:162 X2:556 Y1:352 Y2:419
+toute entreprise dépend
+de la valeur de ses dirigeants.
+
+19
+00:01:42,795 --> 00:01:46,253  X1:173 X2:546 Y1:356 Y2:419
+En raison de l'incompétence
+de votre direction...
+
+20
+00:01:46,833 --> 00:01:48,960  X1:160 X2:558 Y1:384 Y2:419
+cette usine va devoir fermer...
+
+21
+00:01:49,936 --> 00:01:52,063  X1:207 X2:511 Y1:380 Y2:419
+et ce, dês aujourd'hui.
+
+22
+00:01:52,805 --> 00:01:55,239  X1:213 X2:505 Y1:384 Y2:419
+Bonne chance à tous.
+
+23
+00:01:59,479 --> 00:02:01,913  X1:146 X2:572 Y1:356 Y2:419
+Tu mets à pied 2 500 personnes
+et c'est ma faute.
+
+24
+00:02:02,081 --> 00:02:04,743  X1:179 X2:540 Y1:356 Y2:419
+Un jour, tu me remercieras.
+Oublie Smallville.
+
+25
+00:02:04,917 --> 00:02:07,715  X1:144 X2:574 Y1:356 Y2:419
+- Ce n'est qu'une étape pour toi.
+- Arrête!
+
+26
+00:02:07,887 --> 00:02:11,050  X1:166 X2:551 Y1:352 Y2:419
+On vit dans une méritocratie.
+Les faibles en pâtissent.
+
+27
+00:02:11,357 --> 00:02:13,791  X1:183 X2:534 Y1:352 Y2:419
+Je n'avais pas le choix,
+l'usine perdait de l'argent.
+
+28
+00:02:13,993 --> 00:02:15,688  X1:231 X2:488 Y1:356 Y2:419
+Garde tes discours
+sur les faibles.
+
+29
+00:02:15,862 --> 00:02:18,558  X1:123 X2:595 Y1:380 Y2:419
+Ces gens ont des familles à nourrir!
+
+30
+00:02:18,731 --> 00:02:20,961  X1:223 X2:495 Y1:352 Y2:419
+Je fais des affaires,
+pas du social!
+
+31
+00:02:21,134 --> 00:02:23,830  X1:139 X2:578 Y1:352 Y2:419
+Ne laisse pas
+tes sentiments prendre le dessus.
+
+32
+00:02:24,003 --> 00:02:26,597  X1:194 X2:523 Y1:352 Y2:419
+Ce n'est pas à toi
+de me faire cette leçon!
+
+33
+00:02:26,773 --> 00:02:28,263  X1:185 X2:533 Y1:384 Y2:419
+Cette usine était rentable.
+
+34
+00:02:28,441 --> 00:02:31,808  X1:158 X2:559 Y1:352 Y2:419
+Tu la fermes car j'ai refusé
+de venir à Metropolis avec toi.
+
+35
+00:02:31,978 --> 00:02:36,438  X1:142 X2:576 Y1:356 Y2:419
+Tu crois avoir trouvé ta place ici,
+mais tu fais erreur.
+
+36
+00:02:36,616 --> 00:02:40,211  X1:149 X2:568 Y1:352 Y2:419
+Ce n'était
+que ton terrain d'entraînement!
+
+37
+00:02:44,690 --> 00:02:47,124  X1:157 X2:562 Y1:380 Y2:419
+Il est temps de rentrer, fiston!
+
+38
+00:03:06,646 --> 00:03:08,876  X1:231 X2:488 Y1:380 Y2:419
+AVIS DE TEMPÊTE
+
+39
+00:03:55,928 --> 00:03:58,761  X1:162 X2:557 Y1:062 Y2:129
+Qu'est-ce que t'en dis, Pete?
+Noir ou rouge?
+
+40
+00:03:58,931 --> 00:04:00,023  X1:230 X2:489 Y1:062 Y2:100
+De quoi tu parles?
+
+41
+00:04:00,199 --> 00:04:02,895  X1:097 X2:620 Y1:062 Y2:129
+De mon noeud papillon!
+Je commande mon smoking aujourd'hui.
+
+42
+00:04:03,069 --> 00:04:05,469  X1:171 X2:546 Y1:062 Y2:128
+Avec le noir,
+tu ne prends pas de risques.
+
+43
+00:04:05,638 --> 00:04:07,970  X1:246 X2:471 Y1:062 Y2:124
+- C'est plus sûr.
+- Tu as raison.
+
+44
+00:04:08,140 --> 00:04:11,200  X1:204 X2:514 Y1:062 Y2:129
+C'est dommage, Clark.
+Le rouge te va si bien!
+
+45
+00:04:11,377 --> 00:04:12,366  X1:239 X2:479 Y1:380 Y2:419
+Va pour le rouge.
+
+46
+00:04:12,545 --> 00:04:15,275  X1:185 X2:530 Y1:352 Y2:419
+Alors il faut que
+je modifie ma commande.
+
+47
+00:04:15,448 --> 00:04:17,712  X1:227 X2:490 Y1:352 Y2:419
+Sinon on va croire
+qu'on est jumeaux.
+
+48
+00:04:17,884 --> 00:04:20,614  X1:164 X2:554 Y1:062 Y2:128
+C'est vrai que
+ça nous arrive tout le temps!
+
+49
+00:04:21,220 --> 00:04:23,085  X1:184 X2:533 Y1:062 Y2:100
+Ce bal a l'air de te réjouir.
+
+50
+00:04:23,256 --> 00:04:27,215  X1:122 X2:595 Y1:062 Y2:128
+C'est vrai, mais je trouve
+que ça commence à me coûter cher.
+
+51
+00:04:27,393 --> 00:04:29,122  X1:154 X2:565 Y1:062 Y2:101
+Imagine trouver la bonne robe!
+
+52
+00:04:29,295 --> 00:04:30,626  X1:197 X2:523 Y1:062 Y2:100
+Donc pas de limousine?
+
+53
+00:04:30,796 --> 00:04:33,458  X1:167 X2:550 Y1:062 Y2:128
+Je vais demander
+à Lex de me prêter la sienne.
+
+54
+00:04:33,633 --> 00:04:36,568  X1:175 X2:543 Y1:062 Y2:128
+Chloé dit qu'elle s'en fiche,
+mais je sais qu'elle en rêve.
+
+55
+00:04:36,736 --> 00:04:38,727  X1:174 X2:542 Y1:062 Y2:128
+Je veux lui faire la surprise.
+N'en parle pas.
+
+56
+00:04:38,905 --> 00:04:40,896  X1:178 X2:540 Y1:380 Y2:419
+Ton secret sera bien gardé.
+
+57
+00:04:42,141 --> 00:04:43,574  X1:264 X2:454 Y1:382 Y2:419
+Tiens, Chloé.
+
+58
+00:04:43,743 --> 00:04:46,268  X1:161 X2:558 Y1:380 Y2:419
+Ils ferment l'usine Luthorcorp.
+
+59
+00:04:50,449 --> 00:04:51,746  X1:161 X2:558 Y1:384 Y2:419
+LUTHORCORP FERME L'USINE
+
+60
+00:04:51,918 --> 00:04:53,249  X1:201 X2:519 Y1:380 Y2:419
+La gestion est en cause
+
+61
+00:04:55,922 --> 00:04:58,914  X1:142 X2:576 Y1:062 Y2:128
+- Vous avez vu...
+- Ils ont tiré une édition spéciale.
+
+62
+00:04:59,091 --> 00:05:02,083  X1:164 X2:553 Y1:352 Y2:419
+C'est la premiêre fois
+depuis la pluie de météorites.
+
+63
+00:05:02,261 --> 00:05:04,320  X1:167 X2:550 Y1:384 Y2:419
+Chloé avait l'air bouleversée.
+
+64
+00:05:04,497 --> 00:05:06,328  X1:182 X2:535 Y1:380 Y2:419
+Son pêre est sous le choc.
+
+65
+00:05:06,499 --> 00:05:08,763  X1:194 X2:523 Y1:380 Y2:419
+Ca peut se comprendre!
+
+66
+00:05:09,101 --> 00:05:12,730  X1:107 X2:610 Y1:062 Y2:129
+- Qu'allons-nous devenir?
+- C'est le plus gros employeur du coin.
+
+67
+00:05:12,905 --> 00:05:14,896  X1:126 X2:592 Y1:062 Y2:096
+L'économie locale va s'en ressentir.
+
+68
+00:05:15,074 --> 00:05:18,271  X1:158 X2:560 Y1:062 Y2:124
+Lex a réussi à couler
+cette usine en moins d'un an!
+
+69
+00:05:18,444 --> 00:05:20,935  X1:129 X2:589 Y1:062 Y2:128
+Pourquoi blâmer Lex?
+C'est son pêre qui a fermé l'usine!
+
+70
+00:05:21,113 --> 00:05:25,277  X1:137 X2:582 Y1:062 Y2:129
+Leurs histoires viennent de mettre
+la moitié de la ville au chômage.
+
+71
+00:05:25,451 --> 00:05:29,114  X1:157 X2:562 Y1:356 Y2:419
+Tu devrais être content.
+Lex va enfin sortir de nos vies.
+
+72
+00:05:29,288 --> 00:05:31,848  X1:154 X2:565 Y1:356 Y2:419
+Beaucoup de gens vont souffrir
+avec cette fermeture d'usine.
+
+73
+00:05:32,024 --> 00:05:36,688  X1:113 X2:605 Y1:352 Y2:419
+Je n'aime pas Lex, mais je préférerais
+que ces gens gardent leur emploi.
+
+74
+00:05:36,963 --> 00:05:42,560  X1:185 X2:533 Y1:352 Y2:419
+Je sais, papa, mais Lex
+ferait tout pour Smallville.
+
+75
+00:05:42,802 --> 00:05:44,702  X1:126 X2:592 Y1:380 Y2:419
+Il a dit qu'il avait de grands projets.
+
+76
+00:05:44,870 --> 00:05:47,805  X1:149 X2:568 Y1:352 Y2:419
+La route de l'enfer
+est pavée de bonnes intentions.
+
+77
+00:05:57,750 --> 00:06:00,378  X1:236 X2:481 Y1:352 Y2:419
+Il faut tourner.
+On y est presque.
+
+78
+00:06:02,922 --> 00:06:03,911  X1:282 X2:436 Y1:384 Y2:419
+Arrête-toi.
+
+79
+00:06:05,224 --> 00:06:07,385  X1:250 X2:468 Y1:380 Y2:419
+Ouvre les yeux.
+
+80
+00:06:11,397 --> 00:06:13,024  X1:174 X2:545 Y1:380 Y2:419
+Pourquoi tant de mystêres?
+
+81
+00:06:13,199 --> 00:06:16,896  X1:127 X2:590 Y1:354 Y2:419
+- J'ai bien le droit de te surprendre.
+- Oui, bien sûr!
+
+82
+00:06:17,069 --> 00:06:19,162  X1:150 X2:568 Y1:382 Y2:419
+C'est três inattendu, c'est tout.
+
+83
+00:06:19,338 --> 00:06:21,306  X1:166 X2:553 Y1:356 Y2:419
+Tu me trouves trop prévisible
+d'habitude?
+
+84
+00:06:21,474 --> 00:06:26,070  X1:111 X2:607 Y1:352 Y2:419
+Non, mais je me demande
+en quel honneur tu m'as emmenée ici.
+
+85
+00:06:26,245 --> 00:06:28,839  X1:191 X2:527 Y1:352 Y2:419
+Pour te remercier
+de tout ce que tu as fait.
+
+86
+00:06:29,015 --> 00:06:31,916  X1:181 X2:537 Y1:356 Y2:419
+J'ai eu une année difficile,
+et tu m'as soutenu.
+
+87
+00:06:32,084 --> 00:06:35,986  X1:158 X2:562 Y1:352 Y2:419
+Même quand je t'ai repoussée,
+tu n'es pas allée voir ailleurs.
+
+88
+00:06:36,155 --> 00:06:41,752  X1:108 X2:610 Y1:352 Y2:419
+Ca fait longtemps qu'on est ensemble.
+Tu sais que tu peux compter sur moi.
+
+89
+00:06:42,528 --> 00:06:44,257  X1:170 X2:547 Y1:380 Y2:419
+J'ai quelque chose à te dire.
+
+90
+00:06:49,535 --> 00:06:53,699  X1:210 X2:507 Y1:352 Y2:419
+Tu sais, Whitney,
+on devrait peut-être...
+
+91
+00:06:56,208 --> 00:06:58,233  X1:204 X2:514 Y1:356 Y2:419
+- Qu'est-ce que c'est?
+- Lis-le.
+
+92
+00:07:01,213 --> 00:07:03,272  X1:131 X2:590 Y1:384 Y2:419
+FORCES ARMEES DES ETATS-UNIS
+
+93
+00:07:03,449 --> 00:07:05,747  X1:163 X2:557 Y1:384 Y2:419
+Une lettre de l'armée navale?
+
+94
+00:07:07,119 --> 00:07:08,882  X1:226 X2:491 Y1:380 Y2:419
+Je me suis engagé.
+
+95
+00:07:11,891 --> 00:07:14,257  X1:117 X2:601 Y1:380 Y2:419
+C'est ce que j'avais de mieux à faire.
+
+96
+00:07:14,427 --> 00:07:18,124  X1:118 X2:602 Y1:352 Y2:419
+En voyant les médailles de mon pêre,
+j'ai eu l'impression qu'il me guidait.
+
+97
+00:07:18,464 --> 00:07:20,455  X1:201 X2:518 Y1:352 Y2:419
+Tu ne peux pas faire ça
+pour ton pêre.
+
+98
+00:07:21,734 --> 00:07:22,928  X1:218 X2:498 Y1:380 Y2:419
+Je le fais pour nous.
+
+99
+00:07:24,236 --> 00:07:26,761  X1:153 X2:564 Y1:380 Y2:419
+Je t'en prie, ne m'en veux pas.
+
+100
+00:07:28,674 --> 00:07:31,472  X1:186 X2:531 Y1:352 Y2:419
+Je n'arrive pas
+à réaliser ce qui se passe.
+
+101
+00:07:31,644 --> 00:07:34,738  X1:180 X2:540 Y1:352 Y2:419
+Il me faut un peu de temps
+pour enregistrer.
+
+102
+00:07:35,848 --> 00:07:38,749  X1:149 X2:568 Y1:380 Y2:419
+Je n'ai pas beaucoup de temps.
+
+103
+00:07:40,719 --> 00:07:43,984  X1:190 X2:527 Y1:352 Y2:419
+Je pars samedi soir
+pour rejoindre mon unité.
+
+104
+00:07:46,058 --> 00:07:48,822  X1:117 X2:601 Y1:380 Y2:419
+Tu vas rater la remise des diplômes?
+
+105
+00:07:49,095 --> 00:07:51,962  X1:164 X2:553 Y1:352 Y2:419
+La seule chose
+qui va me manquer, c'est toi.
+
+106
+00:07:54,834 --> 00:07:56,859  X1:158 X2:562 Y1:380 Y2:419
+Est-ce que tu vas m'attendre?
+
+107
+00:08:10,282 --> 00:08:15,948  X1:130 X2:588 Y1:352 Y2:419
+J'ai bien reçu tes messages, Clark,
+mais j'ai eu une journée difficile.
+
+108
+00:08:16,222 --> 00:08:18,190  X1:169 X2:550 Y1:380 Y2:419
+Il est beau, ce presse-papier.
+
+109
+00:08:18,491 --> 00:08:21,358  X1:187 X2:531 Y1:380 Y2:419
+Oui, unique en son genre.
+
+110
+00:08:21,527 --> 00:08:23,859  X1:193 X2:526 Y1:352 Y2:419
+Tu n'as pas peur
+d'être vu avec un paria?
+
+111
+00:08:24,029 --> 00:08:26,623  X1:158 X2:561 Y1:380 Y2:419
+Disons que je prends le risque.
+
+112
+00:08:28,734 --> 00:08:30,326  X1:178 X2:540 Y1:380 Y2:419
+Qu'est-ce qui s'est passé?
+
+113
+00:08:30,503 --> 00:08:32,300  X1:186 X2:533 Y1:380 Y2:419
+Il y aurait deux versions...
+
+114
+00:08:32,471 --> 00:08:35,133  X1:192 X2:525 Y1:352 Y2:419
+soit j'ai coulé l'usine
+par mon incompétence...
+
+115
+00:08:35,307 --> 00:08:37,537  X1:142 X2:575 Y1:380 Y2:419
+soit je l'ai fait exprês pour partir.
+
+116
+00:08:37,710 --> 00:08:40,873  X1:148 X2:570 Y1:356 Y2:419
+Mais tu n'as jamais voulu partir.
+Dis-leur la vérité.
+
+117
+00:08:41,046 --> 00:08:43,310  X1:207 X2:512 Y1:352 Y2:419
+Au risque de passer
+pour un incompétent?
+
+118
+00:08:43,482 --> 00:08:45,143  X1:154 X2:562 Y1:380 Y2:419
+J'aime mieux qu'on me haïsse.
+
+119
+00:08:46,318 --> 00:08:48,377  X1:135 X2:583 Y1:380 Y2:419
+Alors tu vas rentrer à Metropolis?
+
+120
+00:08:48,554 --> 00:08:52,650  X1:148 X2:571 Y1:352 Y2:419
+C'est ce que mon pêre voudrait,
+mais je vais me battre.
+
+121
+00:08:52,825 --> 00:08:55,658  X1:215 X2:502 Y1:352 Y2:419
+- Tu as un plan?
+- Ca se pourrait bien.
+
+122
+00:09:00,366 --> 00:09:02,891  X1:169 X2:548 Y1:382 Y2:419
+Je te laisse, tu as du travail.
+
+123
+00:09:05,337 --> 00:09:07,202  X1:174 X2:544 Y1:352 Y2:419
+Ton soutien
+compte beaucoup pour moi.
+
+124
+00:09:07,806 --> 00:09:08,898  X1:192 X2:527 Y1:380 Y2:419
+Les amis sont là pour ça.
+
+125
+00:09:23,289 --> 00:09:25,257  X1:155 X2:561 Y1:380 Y2:419
+Je me doutais que tu serais là.
+
+126
+00:09:25,424 --> 00:09:29,190  X1:148 X2:569 Y1:352 Y2:419
+Je préfêre être ici
+que de déprimer avec mon pêre.
+
+127
+00:09:29,361 --> 00:09:32,023  X1:152 X2:566 Y1:352 Y2:419
+Je comprendrais
+si tu ne venais pas samedi soir.
+
+128
+00:09:32,198 --> 00:09:36,100  X1:146 X2:573 Y1:352 Y2:419
+Tu rigoles? C'est la seule chose
+qui me motive en ce moment!
+
+129
+00:09:36,268 --> 00:09:40,932  X1:067 X2:652 Y1:352 Y2:419
+Et je veux profiter des pittoresques coutumes
+du lycée de Smallville tant que je le peux.
+
+130
+00:09:41,106 --> 00:09:42,801  X1:207 X2:513 Y1:380 Y2:419
+Pourquoi? Oû vas-tu?
+
+131
+00:09:42,975 --> 00:09:46,308  X1:152 X2:565 Y1:352 Y2:419
+Mon pêre parle
+de retourner vivre à Metropolis.
+
+132
+00:09:46,812 --> 00:09:48,780  X1:234 X2:485 Y1:356 Y2:419
+Et le <i>Torch</i> alors?
+Et tes amis?
+
+133
+00:09:49,114 --> 00:09:50,843  X1:182 X2:536 Y1:352 Y2:419
+Je préfêre ne pas y penser
+pour l'instant.
+
+134
+00:09:52,751 --> 00:09:55,447  X1:154 X2:564 Y1:356 Y2:419
+Ca ne m'amuse pas
+de tout recommencer ailleurs...
+
+135
+00:09:55,621 --> 00:09:58,988  X1:129 X2:588 Y1:352 Y2:419
+et de devoir
+faire mon trou dans un autre lycée.
+
+136
+00:10:00,226 --> 00:10:01,887  X1:217 X2:501 Y1:380 Y2:419
+Je vais te manquer?
+
+137
+00:10:02,962 --> 00:10:05,430  X1:094 X2:624 Y1:380 Y2:419
+Comment est-ce que tu peux en douter?
+
+138
+00:10:05,598 --> 00:10:08,567  X1:139 X2:579 Y1:352 Y2:419
+Promets-moi
+que ça va être génial samedi soir.
+
+139
+00:10:08,734 --> 00:10:11,134  X1:157 X2:560 Y1:384 Y2:419
+Ce sera une soirée inoubliable.
+
+140
+00:10:16,809 --> 00:10:19,243  X1:156 X2:562 Y1:380 Y2:419
+Merci d'avoir accepté de venir.
+
+141
+00:10:19,812 --> 00:10:23,248  X1:155 X2:563 Y1:356 Y2:419
+J'aimerais que mon pêre
+ne sache rien de cette réunion.
+
+142
+00:10:23,415 --> 00:10:26,043  X1:136 X2:581 Y1:380 Y2:419
+Quand je suis arrivé à Smallville...
+
+143
+00:10:26,218 --> 00:10:29,346  X1:129 X2:588 Y1:352 Y2:419
+on a dit que je n'étais
+qu'un autre exemple de népotisme.
+
+144
+00:10:29,588 --> 00:10:32,751  X1:134 X2:583 Y1:352 Y2:419
+Que je prenais la place
+de gens plus compétents que moi.
+
+145
+00:10:32,925 --> 00:10:35,587  X1:180 X2:537 Y1:352 Y2:419
+Mais j'espêre
+que vous n'en pensez rien.
+
+146
+00:10:35,761 --> 00:10:38,161  X1:152 X2:566 Y1:384 Y2:419
+Si on arrive à racheter l'usine...
+
+147
+00:10:39,164 --> 00:10:41,928  X1:182 X2:536 Y1:356 Y2:419
+- Elle continuera à tourner.
+- Un rachat?
+
+148
+00:10:42,101 --> 00:10:44,001  X1:134 X2:582 Y1:380 Y2:419
+Je peux apporter 90% du capital.
+
+149
+00:10:44,536 --> 00:10:47,130  X1:163 X2:556 Y1:352 Y2:419
+Et pour le reste,
+on hypothêque nos maisons?
+
+150
+00:10:47,306 --> 00:10:49,001  X1:186 X2:532 Y1:380 Y2:419
+C'est un risque à prendre.
+
+151
+00:10:49,174 --> 00:10:51,699  X1:136 X2:583 Y1:356 Y2:419
+Mais les investisseurs deviendront
+actionnaires minoritaires.
+
+152
+00:10:51,877 --> 00:10:55,506  X1:176 X2:542 Y1:352 Y2:419
+Votre pêre ne votera jamais
+pour le rachat de l'usine!
+
+153
+00:10:55,681 --> 00:10:59,947  X1:110 X2:608 Y1:356 Y2:419
+Je peux convaincre assez de membres
+au conseil d'administration.
+
+154
+00:11:00,119 --> 00:11:03,782  X1:140 X2:578 Y1:352 Y2:419
+Je vous offre la chance
+de prendre votre avenir en mains.
+
+155
+00:11:03,956 --> 00:11:06,789  X1:143 X2:574 Y1:352 Y2:419
+Suivez-moi,
+et nous gagnerons cette bataille.
+
+156
+00:11:11,263 --> 00:11:12,753  X1:196 X2:522 Y1:356 Y2:419
+MEILLEUR CAPPUCCINO
+DE LA VILLE
+
+157
+00:11:27,146 --> 00:11:29,205  X1:195 X2:524 Y1:356 Y2:419
+Alors comme ça,
+on traîne dans les rues?
+
+158
+00:11:31,817 --> 00:11:33,114  X1:220 X2:498 Y1:380 Y2:419
+Qu'est-ce qu'il y a?
+
+159
+00:11:34,320 --> 00:11:38,484  X1:151 X2:566 Y1:352 Y2:419
+Je viens d'apprendre que Chloé
+risque de quitter Smallville.
+
+160
+00:11:39,158 --> 00:11:41,991  X1:134 X2:583 Y1:380 Y2:419
+Je n'arrive toujours pas à y croire.
+
+161
+00:11:42,895 --> 00:11:44,886  X1:185 X2:532 Y1:380 Y2:419
+Je sais ce que tu ressens.
+
+162
+00:11:45,664 --> 00:11:47,564  X1:227 X2:491 Y1:380 Y2:419
+Ah bon, pourquoi?
+
+163
+00:11:49,601 --> 00:11:51,831  X1:212 X2:506 Y1:356 Y2:419
+Whitney s'est engagé
+dans l'armée navale.
+
+164
+00:11:54,006 --> 00:11:55,871  X1:192 X2:526 Y1:380 Y2:419
+Ca a dû te faire un choc.
+
+165
+00:11:56,041 --> 00:11:59,067  X1:199 X2:521 Y1:352 Y2:419
+Il m'a dit qu'il faisait ça
+pour nous deux.
+
+166
+00:11:59,578 --> 00:12:01,068  X1:165 X2:553 Y1:384 Y2:419
+Il m'a demandé de l'attendre.
+
+167
+00:12:03,082 --> 00:12:05,209  X1:140 X2:578 Y1:380 Y2:419
+Qu'est-ce que tu lui as répondu?
+
+168
+00:12:09,254 --> 00:12:11,051  X1:266 X2:453 Y1:384 Y2:419
+Rien du tout.
+
+169
+00:12:11,223 --> 00:12:15,182  X1:180 X2:537 Y1:352 Y2:419
+Je suis restée bouche bée,
+je n'ai rien pu dire.
+
+170
+00:12:15,394 --> 00:12:17,521  X1:128 X2:590 Y1:380 Y2:419
+Hier il ne pensait qu'à ses études...
+
+171
+00:12:17,730 --> 00:12:21,860  X1:143 X2:575 Y1:352 Y2:419
+et aujourd'hui il met un uniforme
+pour aller sauver le monde.
+
+172
+00:12:22,701 --> 00:12:25,192  X1:158 X2:561 Y1:380 Y2:419
+Donc tu ne lui as rien promis?
+
+173
+00:12:26,438 --> 00:12:28,429  X1:154 X2:563 Y1:380 Y2:419
+J'ai dit que je n'étais pas sûre.
+
+174
+00:12:30,642 --> 00:12:32,872  X1:173 X2:546 Y1:380 Y2:419
+Quand est-ce qu'il s'en va?
+
+175
+00:12:34,513 --> 00:12:36,777  X1:269 X2:448 Y1:384 Y2:419
+Samedi soir.
+
+176
+00:12:40,886 --> 00:12:43,719  X1:187 X2:531 Y1:352 Y2:419
+Au moins, tu n'as plus
+à t'inquiéter pour ta robe.
+
+177
+00:12:46,792 --> 00:12:50,728  X1:117 X2:601 Y1:352 Y2:419
+Je n'en reviens pas que Whitney
+et Chloé nous quittent tous les deux.
+
+178
+00:12:50,963 --> 00:12:52,897  X1:262 X2:457 Y1:380 Y2:419
+Moi non plus.
+
+179
+00:12:54,600 --> 00:12:57,467  X1:211 X2:506 Y1:354 Y2:419
+On va se retrouver
+tout seuls, toi et moi.
+
+180
+00:14:20,752 --> 00:14:22,720  X1:152 X2:567 Y1:380 Y2:419
+Tu sais pourquoi ça a explosé?
+
+181
+00:14:22,888 --> 00:14:24,879  X1:123 X2:594 Y1:384 Y2:419
+C'est sûrement une fuite d'essence.
+
+182
+00:14:25,057 --> 00:14:28,857  X1:143 X2:574 Y1:352 Y2:419
+L'engrais qui était
+dans le camion a dû prendre feu.
+
+183
+00:14:29,061 --> 00:14:31,962  X1:085 X2:633 Y1:356 Y2:419
+- Heureusement que c'était moi, pas vous.
+- Mon chéri!
+
+184
+00:14:32,130 --> 00:14:34,462  X1:195 X2:523 Y1:356 Y2:419
+En fait, j'ai à peine senti
+la chaleur cette fois.
+
+185
+00:14:34,833 --> 00:14:37,461  X1:120 X2:599 Y1:380 Y2:419
+Et je n'ai pas la moindre égratignure.
+
+186
+00:14:39,671 --> 00:14:43,505  X1:154 X2:564 Y1:352 Y2:419
+On dirait que ton corps devient
+plus résistant avec l'âge.
+
+187
+00:14:49,281 --> 00:14:52,512  X1:202 X2:517 Y1:384 Y2:419
+...vous avez le choix...
+
+188
+00:15:00,759 --> 00:15:04,160  X1:113 X2:606 Y1:380 Y2:419
+Tu n'es pas pressé de faire ta valise?
+
+189
+00:15:04,329 --> 00:15:06,354  X1:171 X2:547 Y1:380 Y2:419
+Non, puisque je ne pars pas.
+
+190
+00:15:06,532 --> 00:15:11,162  X1:153 X2:565 Y1:352 Y2:419
+Accepte ton destin, Lex.
+Il est temps de tourner la page.
+
+191
+00:15:11,336 --> 00:15:16,069  X1:117 X2:601 Y1:352 Y2:419
+Je vais faire voter
+le rachat de l'usine par les employés.
+
+192
+00:15:16,575 --> 00:15:20,511  X1:158 X2:560 Y1:352 Y2:419
+Tu comptes les convaincre
+d'hypothéquer leurs maisons?
+
+193
+00:15:21,079 --> 00:15:24,276  X1:136 X2:582 Y1:352 Y2:419
+- De réaliser leur plan de retraite?
+- Quelque chose de ce genre.
+
+194
+00:15:24,449 --> 00:15:28,078  X1:160 X2:557 Y1:352 Y2:419
+Même si tu vends tes actions
+et que tu vides tes comptes...
+
+195
+00:15:28,520 --> 00:15:30,317  X1:183 X2:535 Y1:380 Y2:419
+il te manquera de l'argent.
+
+196
+00:15:30,689 --> 00:15:32,714  X1:182 X2:537 Y1:382 Y2:419
+Oû vas-tu le trouver, Lex?
+
+197
+00:15:32,891 --> 00:15:35,587  X1:192 X2:525 Y1:352 Y2:419
+Accepte le rachat
+et tu garderas ta dignité.
+
+198
+00:15:35,761 --> 00:15:39,788  X1:114 X2:603 Y1:352 Y2:419
+- Tu n'en as pas fait autant pour moi.
+- Quelle grandeur d'âme.
+
+199
+00:15:39,965 --> 00:15:44,231  X1:140 X2:578 Y1:352 Y2:419
+Je crois que tu ferais bien
+de jeter un oeil là-dessus d'abord.
+
+200
+00:15:51,410 --> 00:15:53,605  X1:200 X2:518 Y1:352 Y2:419
+Tu as acheté
+la banque de Smallville.
+
+201
+00:15:54,279 --> 00:15:57,874  X1:137 X2:580 Y1:352 Y2:419
+C'est moi qui détiendrai
+les hypothêques de tes employés.
+
+202
+00:15:58,050 --> 00:16:00,314  X1:142 X2:576 Y1:380 Y2:419
+Au moindre retard de paiement...
+
+203
+00:16:00,485 --> 00:16:03,613  X1:209 X2:508 Y1:356 Y2:419
+je n'hésiterai pas
+à saisir leurs maisons.
+
+204
+00:16:03,789 --> 00:16:07,657  X1:179 X2:540 Y1:356 Y2:419
+S'ils se retrouvent à la rue,
+ce sera de ta faute.
+
+205
+00:16:07,993 --> 00:16:11,759  X1:187 X2:532 Y1:352 Y2:419
+Tu es prêt à prendre
+de telles responsabilités?
+
+206
+00:16:11,930 --> 00:16:13,921  X1:176 X2:542 Y1:380 Y2:419
+Si tu veux jouer avec moi...
+
+207
+00:16:14,099 --> 00:16:18,661  X1:151 X2:567 Y1:352 Y2:419
+il va falloir entrer
+dans la cour des grands, fiston.
+
+208
+00:16:19,771 --> 00:16:22,103  X1:153 X2:565 Y1:356 Y2:419
+- Tu étais oû?
+- Je suis allée acheter ma robe.
+
+209
+00:16:22,274 --> 00:16:23,798  X1:219 X2:499 Y1:356 Y2:419
+- Mauvaise nouvelle.
+- Non!
+
+210
+00:16:23,976 --> 00:16:27,468  X1:127 X2:590 Y1:352 Y2:419
+Je ne pourrai pas venir te chercher.
+Mon pick-up a pris feu.
+
+211
+00:16:27,646 --> 00:16:30,774  X1:144 X2:573 Y1:354 Y2:419
+Je voulais emprunter
+la limousine de Lex, mais avec...
+
+212
+00:16:30,949 --> 00:16:34,510  X1:163 X2:555 Y1:352 Y2:419
+- Je conduirai!
+- Bonjour le prince charmant!
+
+213
+00:16:34,686 --> 00:16:36,449  X1:151 X2:565 Y1:380 Y2:419
+Je n'ai jamais adoré Cendrillon.
+
+214
+00:16:36,622 --> 00:16:40,615  X1:171 X2:546 Y1:352 Y2:419
+- Et pourquoi les Marines?
+- J'en sais rien. Ca me plaît.
+
+215
+00:16:40,959 --> 00:16:44,622  X1:113 X2:605 Y1:352 Y2:419
+- Whitney part défendre l'Oncle Sam!
+- Oui, je sais.
+
+216
+00:16:44,796 --> 00:16:47,731  X1:150 X2:570 Y1:356 Y2:419
+Lana va se retrouver célibataire,
+alors.
+
+217
+00:16:47,899 --> 00:16:50,129  X1:118 X2:599 Y1:380 Y2:419
+Whitney lui a demandé de l'attendre.
+
+218
+00:16:50,602 --> 00:16:52,433  X1:162 X2:557 Y1:382 Y2:419
+L'amour à distance, c'est dur.
+
+219
+00:16:52,604 --> 00:16:57,064  X1:145 X2:573 Y1:352 Y2:419
+Les gens évoluent différemment.
+Ce sera pareil pour nous.
+
+220
+00:16:57,242 --> 00:16:59,642  X1:215 X2:503 Y1:356 Y2:419
+Au bout de dix jours,
+tu m'auras oubliée.
+
+221
+00:17:03,382 --> 00:17:06,044  X1:176 X2:542 Y1:352 Y2:419
+En fait, j'ai peur
+qu'une fois Whitney parti...
+
+222
+00:17:06,218 --> 00:17:08,812  X1:199 X2:519 Y1:356 Y2:419
+tu te précipites
+dans les bras de Lana...
+
+223
+00:17:08,987 --> 00:17:12,479  X1:189 X2:529 Y1:356 Y2:419
+et que je me retrouve
+à aller au bal toute seule.
+
+224
+00:17:12,658 --> 00:17:15,388  X1:170 X2:545 Y1:352 Y2:419
+Si tu me fais ça,
+je ne te parlerai plus jamais.
+
+225
+00:17:15,560 --> 00:17:17,460  X1:250 X2:468 Y1:382 Y2:419
+Voilà, c'est dit.
+
+226
+00:17:28,006 --> 00:17:32,500  X1:112 X2:606 Y1:352 Y2:419
+Je ne t'ai pas choisie par dépit.
+C'est toi que je veux emmener au bal.
+
+227
+00:17:33,078 --> 00:17:34,978  X1:197 X2:521 Y1:380 Y2:419
+D'accord, je préfêre ça!
+
+228
+00:17:38,817 --> 00:17:41,308  X1:098 X2:623 Y1:384 Y2:419
+FELICITATIONS AUX JEUNES DIPLOMES
+
+229
+00:17:41,820 --> 00:17:45,017  X1:182 X2:537 Y1:356 Y2:419
+Clark, auriez-vous
+une minute à m'accorder?
+
+230
+00:17:45,190 --> 00:17:47,090  X1:240 X2:479 Y1:352 Y2:419
+- On se connaît?
+- Roger Nixon.
+
+231
+00:17:47,259 --> 00:17:51,821  X1:116 X2:601 Y1:352 Y2:419
+Je suis journaliste à l'<i>Inquisitor</i>,
+et j'aimerais faire un article sur vous.
+
+232
+00:17:52,264 --> 00:17:54,528  X1:133 X2:586 Y1:380 Y2:419
+Merci, mais ça ne m'intéresse pas.
+
+233
+00:17:56,768 --> 00:17:59,259  X1:177 X2:541 Y1:352 Y2:419
+Comment avez-vous
+survécu à cette explosion?
+
+234
+00:17:59,438 --> 00:18:01,599  X1:175 X2:542 Y1:380 Y2:419
+Vous étiez dans ce pick-up.
+
+235
+00:18:01,773 --> 00:18:03,206  X1:231 X2:486 Y1:384 Y2:419
+Vous faites erreur.
+
+236
+00:18:03,775 --> 00:18:06,039  X1:194 X2:524 Y1:352 Y2:419
+Je suis en train
+de rater quelque chose?
+
+237
+00:18:10,315 --> 00:18:13,341  X1:122 X2:597 Y1:380 Y2:419
+C'est bien moi, mais qui êtes-vous?
+
+238
+00:18:13,585 --> 00:18:15,849  X1:191 X2:525 Y1:352 Y2:419
+Roger Nixon.
+Journaliste à l'<i>Inquisitor. </i>
+
+239
+00:18:16,021 --> 00:18:20,253  X1:107 X2:611 Y1:356 Y2:419
+Je suis navré d'apprendre qu'on publie
+encore ce ramassis d'immondices.
+
+240
+00:18:21,727 --> 00:18:24,423  X1:137 X2:581 Y1:382 Y2:419
+Ravi de vous avoir rencontré, Lex.
+
+241
+00:18:25,964 --> 00:18:28,057  X1:158 X2:559 Y1:382 Y2:419
+On se reverra sûrement, Clark.
+
+242
+00:18:33,739 --> 00:18:35,730  X1:198 X2:521 Y1:380 Y2:419
+Qu'est-ce qu'il voulait?
+
+243
+00:18:35,907 --> 00:18:38,842  X1:183 X2:534 Y1:352 Y2:419
+Il veut écrire un article,
+il me prend pour un héros.
+
+244
+00:18:39,010 --> 00:18:40,739  X1:177 X2:540 Y1:380 Y2:419
+<i>L 'Inquisitor</i> est un torchon.
+
+245
+00:18:40,912 --> 00:18:43,642  X1:177 X2:539 Y1:352 Y2:419
+A ta place,
+je garderais mes distances.
+
+246
+00:18:43,815 --> 00:18:46,113  X1:202 X2:513 Y1:352 Y2:419
+C'est ce que
+j'ai l'intention de faire.
+
+247
+00:18:47,586 --> 00:18:51,579  X1:180 X2:538 Y1:356 Y2:419
+Préviens-moi si ce chacal
+revient rôder autour de toi.
+
+248
+00:19:05,437 --> 00:19:07,496  X1:265 X2:453 Y1:382 Y2:419
+Salut, fiston.
+
+249
+00:19:10,108 --> 00:19:12,269  X1:205 X2:512 Y1:380 Y2:419
+Ca n'a pas l'air d'aller.
+
+250
+00:19:12,511 --> 00:19:16,038  X1:171 X2:550 Y1:356 Y2:419
+Un journaliste de l'<i>Inquisitor</i>
+veut faire un article sur moi.
+
+251
+00:19:16,782 --> 00:19:18,443  X1:142 X2:577 Y1:380 Y2:419
+Il sait que j'étais dans le pick-up.
+
+252
+00:19:18,617 --> 00:19:21,780  X1:140 X2:578 Y1:352 Y2:419
+Ce n'était pas un accident.
+Il l'a fait exploser pour me tester.
+
+253
+00:19:21,953 --> 00:19:23,648  X1:181 X2:539 Y1:380 Y2:419
+Il savait que tu survivrais?
+
+254
+00:19:23,822 --> 00:19:26,848  X1:159 X2:559 Y1:352 Y2:419
+Il a dû me voir faire
+quelque chose d'exceptionnel.
+
+255
+00:19:27,492 --> 00:19:30,188  X1:183 X2:534 Y1:352 Y2:419
+Pourtant je me méfie
+depuis que Phélan m'a vu.
+
+256
+00:19:30,362 --> 00:19:33,456  X1:152 X2:566 Y1:380 Y2:419
+Ce n'est pas de ta faute, Clark.
+
+257
+00:19:35,433 --> 00:19:40,132  X1:110 X2:608 Y1:354 Y2:419
+- Mais que dois-je faire?
+- Va à l'école, emmêne Chloé au bal...
+
+258
+00:19:40,305 --> 00:19:44,071  X1:145 X2:574 Y1:356 Y2:419
+et si ce journaliste a des doutes,
+il viendra nous trouver.
+
+259
+00:19:52,050 --> 00:19:53,984  X1:188 X2:531 Y1:380 Y2:419
+Il y a autre chose, Clark?
+
+260
+00:19:55,320 --> 00:19:58,483  X1:181 X2:536 Y1:356 Y2:419
+Je crois que Lex
+a un morceau du vaisseau.
+
+261
+00:19:59,491 --> 00:20:01,652  X1:174 X2:545 Y1:380 Y2:419
+Tu es sûr de ce que tu dis?
+
+262
+00:20:02,727 --> 00:20:04,820  X1:185 X2:533 Y1:352 Y2:419
+Je l'ai vu sur son bureau.
+C'est la piêce manquante.
+
+263
+00:20:04,996 --> 00:20:06,657  X1:182 X2:535 Y1:380 Y2:419
+<i>Il a dû la trouver par terre. </i>
+
+264
+00:20:06,832 --> 00:20:09,460  X1:190 X2:527 Y1:352 Y2:419
+<i>On ne sait jamais, </i>
+<i>il a peut</i>-<i>être des doutes. </i>
+
+265
+00:20:09,634 --> 00:20:13,070  X1:126 X2:591 Y1:352 Y2:419
+- Et Lex est tenace...
+- Il ne fera jamais le lien avec nous.
+
+266
+00:20:13,238 --> 00:20:17,299  X1:134 X2:584 Y1:356 Y2:419
+Ta mêre a raison. Il suffit
+de rester discrets. Fais ton boulot.
+
+267
+00:20:17,475 --> 00:20:20,933  X1:130 X2:586 Y1:352 Y2:419
+<i>Ne te sers pas de tes pouvoirs. </i>
+<i>Et surtout, ne va pas dans la cave. </i>
+
+268
+00:20:40,365 --> 00:20:42,595  X1:176 X2:542 Y1:382 Y2:419
+Vous vouliez me voir, Lex?
+
+269
+00:20:42,767 --> 00:20:45,133  X1:107 X2:610 Y1:352 Y2:419
+Je suis étonné
+que vous vous souveniez de mon nom.
+
+270
+00:20:45,537 --> 00:20:47,528  X1:199 X2:519 Y1:352 Y2:419
+Je vous ai dit de laisser
+les Kent tranquilles.
+
+271
+00:20:47,706 --> 00:20:49,936  X1:168 X2:549 Y1:352 Y2:419
+Je suppose
+que vous allez me rappeler...
+
+272
+00:20:50,108 --> 00:20:53,077  X1:178 X2:540 Y1:352 Y2:419
+tout le mal
+que vous pourriez me faire.
+
+273
+00:20:53,245 --> 00:20:56,442  X1:198 X2:520 Y1:352 Y2:419
+Vous devez savoir
+que j'ai d'autres soucis.
+
+274
+00:20:56,615 --> 00:20:58,879  X1:216 X2:501 Y1:352 Y2:419
+Je me passerais bien
+de vos mesquineries.
+
+275
+00:20:59,050 --> 00:21:03,043  X1:110 X2:607 Y1:352 Y2:419
+Ce que j'ai découvert est
+plus important que vous, vos soucis...
+
+276
+00:21:03,221 --> 00:21:05,553  X1:202 X2:516 Y1:386 Y2:419
+et toutes vos menaces.
+
+277
+00:21:05,724 --> 00:21:08,522  X1:142 X2:577 Y1:352 Y2:419
+C'est nouveau, cette arrogance?
+Ca vous va mal.
+
+278
+00:21:08,693 --> 00:21:12,356  X1:091 X2:626 Y1:352 Y2:419
+Soyez gentil, Lex,
+si vous voulez profiter de ma découverte.
+
+279
+00:21:12,530 --> 00:21:14,122  X1:170 X2:546 Y1:380 Y2:419
+Je sais que vous le voudrez.
+
+280
+00:21:14,299 --> 00:21:19,134  X1:141 X2:576 Y1:356 Y2:419
+Vous vous intéressez beaucoup
+au lieu de l'accident et aux Kent.
+
+281
+00:21:19,304 --> 00:21:22,603  X1:084 X2:634 Y1:356 Y2:419
+Ce qu'on a trouvé là-bas
+n'a rien à voir avec les Kent ou avec vous.
+
+282
+00:21:22,774 --> 00:21:24,002  X1:231 X2:488 Y1:384 Y2:419
+Vous en êtes sûr?
+
+283
+00:21:24,309 --> 00:21:27,278  X1:142 X2:576 Y1:352 Y2:419
+Vous faites le malin
+mais vous n'avez aucune preuve.
+
+284
+00:21:27,445 --> 00:21:31,074  X1:157 X2:560 Y1:352 Y2:419
+Je vous en montrerai,
+des preuves, et ce dês ce soir.
+
+285
+00:21:31,249 --> 00:21:32,807  X1:171 X2:546 Y1:380 Y2:419
+Vous verrez par vous-même.
+
+286
+00:21:32,984 --> 00:21:37,421  X1:136 X2:582 Y1:352 Y2:419
+Votre ami Clark Kent semble avoir
+beaucoup de choses à cacher.
+
+287
+00:21:40,425 --> 00:21:44,589  X1:139 X2:580 Y1:352 Y2:419
+- Si vous le harcelez...
+- Qui vous parle de harcêlement?
+
+288
+00:21:44,763 --> 00:21:48,529  X1:108 X2:610 Y1:352 Y2:419
+Je leur dirai juste
+que c'est vous qui m'avez parlé d'eux.
+
+289
+00:21:48,833 --> 00:21:54,066  X1:110 X2:605 Y1:352 Y2:419
+Et si vous n'êtes pas intéressé,
+je connais un autre Luthor qui le sera.
+
+290
+00:21:55,340 --> 00:21:58,138  X1:136 X2:581 Y1:380 Y2:419
+Vous jouez un jeu três dangereux.
+
+291
+00:21:58,777 --> 00:22:01,337  X1:154 X2:564 Y1:352 Y2:419
+J'espêre pour vous
+que vous ne vous trompez pas.
+
+292
+00:22:08,787 --> 00:22:11,449  X1:113 X2:606 Y1:352 Y2:419
+Maman,
+tu peux me donner un coup de main?
+
+293
+00:22:13,058 --> 00:22:14,252  X1:274 X2:444 Y1:384 Y2:419
+Qui est là?
+
+294
+00:22:15,193 --> 00:22:16,956  X1:191 X2:527 Y1:380 Y2:419
+C'est moi, Clark. Ca va?
+
+295
+00:22:17,128 --> 00:22:19,961  X1:159 X2:559 Y1:356 Y2:419
+- Oui, merci.
+- Tu es sûr? Tu as l'air tendu.
+
+296
+00:22:20,131 --> 00:22:22,190  X1:175 X2:543 Y1:380 Y2:419
+Ca doit être à cause du bal.
+
+297
+00:22:22,667 --> 00:22:23,964  X1:291 X2:426 Y1:384 Y2:419
+Viens là.
+
+298
+00:22:24,135 --> 00:22:27,468  X1:185 X2:533 Y1:352 Y2:419
+Je suis sûr que j'ai fait ça
+plus souvent que ta mêre.
+
+299
+00:22:28,773 --> 00:22:30,673  X1:144 X2:572 Y1:380 Y2:419
+Je croyais que tu ne sortais pas.
+
+300
+00:22:30,842 --> 00:22:33,970  X1:167 X2:551 Y1:352 Y2:419
+J'ai eu envie de faire un tour
+pour me changer les idées.
+
+301
+00:22:34,145 --> 00:22:36,272  X1:133 X2:584 Y1:380 Y2:419
+J'espêre que je ne te dérange pas.
+
+302
+00:22:36,481 --> 00:22:38,972  X1:194 X2:524 Y1:352 Y2:419
+Non, j'ai le temps.
+Chloé passe me prendre.
+
+303
+00:22:39,150 --> 00:22:42,142  X1:212 X2:506 Y1:352 Y2:419
+Vous êtes modernes!
+Et ton pick-up?
+
+304
+00:22:42,320 --> 00:22:45,380  X1:182 X2:535 Y1:352 Y2:419
+On a eu un petit accident.
+C'est fréquent, à la ferme.
+
+305
+00:22:46,491 --> 00:22:48,391  X1:191 X2:529 Y1:380 Y2:419
+Et ce rachat, ça avance?
+
+306
+00:22:48,560 --> 00:22:52,223  X1:160 X2:558 Y1:352 Y2:419
+Je crois que ça ne va pas être
+une partie de plaisir.
+
+307
+00:22:52,397 --> 00:22:54,695  X1:096 X2:623 Y1:380 Y2:419
+Mon pêre veut absolument que j'échoue.
+
+308
+00:22:55,000 --> 00:22:57,230  X1:144 X2:574 Y1:380 Y2:419
+Qu'est-ce qu'il a contre l'usine?
+
+309
+00:22:57,402 --> 00:23:00,064  X1:123 X2:596 Y1:380 Y2:419
+Nos relations sont três compliquées.
+
+310
+00:23:00,238 --> 00:23:03,674  X1:153 X2:565 Y1:354 Y2:419
+Il dit qu'elles sont basées
+sur la confiance, mais en fait...
+
+311
+00:23:03,842 --> 00:23:05,742  X1:131 X2:586 Y1:380 Y2:419
+elles sont basées sur le mensonge.
+
+312
+00:23:05,910 --> 00:23:09,346  X1:192 X2:525 Y1:352 Y2:419
+C'est le type de relation
+qui ne peut pas marcher.
+
+313
+00:23:09,514 --> 00:23:13,177  X1:085 X2:633 Y1:354 Y2:419
+- Une chance qu'on n'ait pas ce problême.
+- Une chance, en effet.
+
+314
+00:23:13,685 --> 00:23:16,586  X1:201 X2:516 Y1:352 Y2:419
+Quoi qu'il arrive
+dans les jours à venir...
+
+315
+00:23:16,755 --> 00:23:19,485  X1:165 X2:552 Y1:352 Y2:419
+souviens-toi
+que je serai toujours ton ami.
+
+316
+00:23:20,025 --> 00:23:23,392  X1:129 X2:588 Y1:356 Y2:419
+- J'espêre que pour toi c'est pareil.
+- Bien sûr.
+
+317
+00:23:23,862 --> 00:23:25,921  X1:142 X2:578 Y1:380 Y2:419
+Mais qu'est-ce qui va se passer?
+
+318
+00:23:26,097 --> 00:23:30,033  X1:126 X2:593 Y1:352 Y2:419
+Je n'en sais rien.
+Mais j'ai un mauvais pressentiment.
+
+319
+00:23:30,201 --> 00:23:32,863  X1:175 X2:542 Y1:352 Y2:419
+Le genre d'impression
+qu'on a avant une tempête.
+
+320
+00:23:33,038 --> 00:23:35,268  X1:177 X2:540 Y1:354 Y2:419
+Les tempêtes
+sont monnaie courante, ici.
+
+321
+00:23:35,440 --> 00:23:38,204  X1:151 X2:566 Y1:352 Y2:419
+Il suffit juste
+de ne pas se laisser surprendre.
+
+322
+00:23:38,676 --> 00:23:40,701  X1:195 X2:523 Y1:384 Y2:419
+Fais bien attention à toi.
+
+323
+00:23:48,219 --> 00:23:53,282  X1:139 X2:579 Y1:352 Y2:419
+Hier encore ma vie se résumait
+à cette vitrine pleine de coupes...
+
+324
+00:23:53,458 --> 00:23:55,949  X1:111 X2:606 Y1:380 Y2:419
+et maintenant ça me semble dérisoire.
+
+325
+00:23:56,895 --> 00:23:59,728  X1:119 X2:600 Y1:380 Y2:419
+Il est temps d'aller à la gare routiêre.
+
+326
+00:24:02,500 --> 00:24:05,128  X1:152 X2:565 Y1:380 Y2:419
+Je ne pars que dans une heure.
+
+327
+00:24:05,637 --> 00:24:08,299  X1:181 X2:537 Y1:352 Y2:419
+Si on allait voir
+comment est le gymnase?
+
+328
+00:24:24,756 --> 00:24:26,383  X1:236 X2:481 Y1:380 Y2:419
+C'est magnifique.
+
+329
+00:24:28,493 --> 00:24:30,427  X1:175 X2:544 Y1:380 Y2:419
+Pourquoi il n'y a personne?
+
+330
+00:24:30,595 --> 00:24:34,258  X1:173 X2:544 Y1:352 Y2:419
+Les élêves qui organisent
+le bal sont allés se changer.
+
+331
+00:24:55,954 --> 00:24:59,446  X1:162 X2:555 Y1:352 Y2:419
+A cause de moi,
+tu vas manquer le bal, mais...
+
+332
+00:24:59,958 --> 00:25:03,291  X1:193 X2:524 Y1:352 Y2:419
+on a encore le temps
+pour une derniêre danse.
+
+333
+00:25:20,745 --> 00:25:23,543  X1:209 X2:508 Y1:352 Y2:419
+J'aurais dû t'en parler
+avant de m'engager.
+
+334
+00:25:24,048 --> 00:25:26,642  X1:126 X2:591 Y1:380 Y2:419
+Je trouve que tu es três courageux.
+
+335
+00:25:33,825 --> 00:25:37,784  X1:125 X2:593 Y1:352 Y2:419
+Je sais que tout va trop vite,
+et que tu n'es pas sûre pour nous...
+
+336
+00:25:38,663 --> 00:25:42,224  X1:156 X2:563 Y1:356 Y2:419
+Whitney,
+si on se contentait de danser?
+
+337
+00:26:28,713 --> 00:26:30,237  X1:198 X2:521 Y1:380 Y2:419
+Ce n'est pas trop rose?
+
+338
+00:26:30,415 --> 00:26:32,747  X1:249 X2:468 Y1:352 Y2:419
+Pas du tout.
+Tu es três jolie.
+
+339
+00:26:33,618 --> 00:26:36,109  X1:182 X2:536 Y1:352 Y2:419
+Merci.
+Tu n'es pas mal non plus!
+
+340
+00:26:36,454 --> 00:26:37,944  X1:178 X2:542 Y1:380 Y2:419
+Et le noeud papillon rouge?
+
+341
+00:26:38,389 --> 00:26:40,414  X1:172 X2:544 Y1:380 Y2:419
+J'ai senti que ça n'irait pas.
+
+342
+00:26:41,226 --> 00:26:42,488  X1:243 X2:475 Y1:380 Y2:419
+C'est pour moi?
+
+343
+00:26:47,298 --> 00:26:49,789  X1:220 X2:498 Y1:380 Y2:419
+Elle est magnifique!
+
+344
+00:26:50,201 --> 00:26:51,361  X1:255 X2:461 Y1:384 Y2:419
+J'ai la tienne!
+
+345
+00:26:59,711 --> 00:27:01,474  X1:256 X2:461 Y1:380 Y2:419
+Je t'ai piqué?
+
+346
+00:27:08,419 --> 00:27:10,410  X1:192 X2:525 Y1:380 Y2:419
+On ferait mieux d'y aller.
+
+347
+00:27:11,556 --> 00:27:12,545  X1:237 X2:480 Y1:380 Y2:419
+Alors c'est parti!
+
+348
+00:27:13,157 --> 00:27:14,590  X1:226 X2:490 Y1:380 Y2:419
+Je t'ouvre la porte.
+
+349
+00:27:16,894 --> 00:27:18,691  X1:127 X2:590 Y1:380 Y2:419
+On dirait qu'une tempête approche.
+
+350
+00:27:20,832 --> 00:27:22,459  X1:265 X2:453 Y1:356 Y2:419
+- C'est bon?
+- C'est bon!
+
+351
+00:27:45,857 --> 00:27:49,349  X1:216 X2:502 Y1:352 Y2:419
+- C'est fou, ce vent!
+- Oui, c'est dingue!
+
+352
+00:27:49,527 --> 00:27:51,017  X1:277 X2:441 Y1:352 Y2:419
+- Ca va?
+- Allons-y!
+
+353
+00:27:51,195 --> 00:27:53,459  X1:123 X2:594 Y1:384 Y2:419
+On ferait mieux d'entrer en vitesse!
+
+354
+00:27:57,502 --> 00:27:58,764  X1:186 X2:531 Y1:384 Y2:419
+Comme vous êtes beaux!
+
+355
+00:27:58,936 --> 00:28:01,871  X1:194 X2:525 Y1:356 Y2:419
+Merci, ma chêre.
+Directement de l'atelier!
+
+356
+00:28:03,708 --> 00:28:05,972  X1:154 X2:564 Y1:380 Y2:419
+Chloé, est-ce que tu pourrais...
+
+357
+00:28:06,144 --> 00:28:08,977  X1:174 X2:544 Y1:354 Y2:419
+- Il veut une photo de nous.
+- Oui, d'accord!
+
+358
+00:28:09,147 --> 00:28:12,878  X1:162 X2:555 Y1:352 Y2:419
+Je crois qu'il veut une preuve
+que tout ceci est bien réel!
+
+359
+00:28:15,820 --> 00:28:19,221  X1:187 X2:531 Y1:352 Y2:419
+- Bon, je vais y aller.
+- Bonne chance, Whitney.
+
+360
+00:28:20,725 --> 00:28:22,920  X1:188 X2:529 Y1:356 Y2:419
+Je voudrais parler à Clark
+seul à seul.
+
+361
+00:28:23,094 --> 00:28:25,790  X1:115 X2:604 Y1:380 Y2:419
+D'accord. Je vais chercher le pick-up.
+
+362
+00:28:34,072 --> 00:28:36,666  X1:175 X2:543 Y1:356 Y2:419
+On a eu une année difficile,
+tous les deux.
+
+363
+00:28:37,175 --> 00:28:40,338  X1:116 X2:600 Y1:352 Y2:419
+Au début,
+j'ai cru que tu voulais me voler Lana.
+
+364
+00:28:42,914 --> 00:28:46,577  X1:131 X2:586 Y1:352 Y2:419
+Et je ne suis pas fier
+de certaines choses que j'ai faites.
+
+365
+00:28:47,352 --> 00:28:49,650  X1:170 X2:547 Y1:380 Y2:419
+Je te présente mes excuses.
+
+366
+00:28:50,254 --> 00:28:52,347  X1:199 X2:518 Y1:380 Y2:419
+Sans rancune, Whitney.
+
+367
+00:28:55,293 --> 00:28:58,922  X1:209 X2:509 Y1:354 Y2:419
+J'ai un dernier service
+à te demander, Clark.
+
+368
+00:29:02,567 --> 00:29:06,526  X1:117 X2:601 Y1:352 Y2:419
+Lana n'est pas sûre
+de ce qu'elle pense de notre relation.
+
+369
+00:29:07,271 --> 00:29:09,535  X1:215 X2:504 Y1:380 Y2:419
+Mais moi, je suis sûr.
+
+370
+00:29:11,709 --> 00:29:14,234  X1:206 X2:512 Y1:352 Y2:419
+Tu peux veiller sur elle
+jusqu'à mon retour?
+
+371
+00:29:17,448 --> 00:29:19,075  X1:195 X2:522 Y1:380 Y2:419
+Je ne sais pas quoi dire.
+
+372
+00:29:19,250 --> 00:29:20,512  X1:263 X2:454 Y1:384 Y2:419
+Alors dis oui.
+
+373
+00:29:30,161 --> 00:29:31,788  X1:242 X2:475 Y1:380 Y2:419
+Tu as ma parole.
+
+374
+00:29:39,971 --> 00:29:41,495  X1:256 X2:463 Y1:384 Y2:419
+Bonne chance.
+
+375
+00:30:01,426 --> 00:30:02,916  X1:211 X2:509 Y1:380 Y2:419
+De quoi vous parliez?
+
+376
+00:30:03,094 --> 00:30:06,586  X1:149 X2:568 Y1:352 Y2:419
+De trucs de mecs.
+Je t'ai déjà dit que tu es belle?
+
+377
+00:30:06,764 --> 00:30:10,325  X1:169 X2:548 Y1:352 Y2:419
+Oui, mais n'hésite pas
+à le redire tant que tu veux!
+
+378
+00:30:25,616 --> 00:30:27,846  X1:127 X2:591 Y1:380 Y2:419
+Tu as bien pris toutes tes affaires?
+
+379
+00:30:28,119 --> 00:30:31,646  X1:147 X2:571 Y1:352 Y2:419
+- Je n'ai droit qu'à un sac.
+- Je pourrais jamais être soldat!
+
+380
+00:30:38,663 --> 00:30:41,097  X1:214 X2:503 Y1:352 Y2:419
+C'est pour toi,
+ça te portera chance.
+
+381
+00:30:50,475 --> 00:30:52,204  X1:152 X2:564 Y1:380 Y2:419
+Je ne le perdrai pas, cette fois.
+
+382
+00:31:04,222 --> 00:31:05,280  X1:247 X2:471 Y1:382 Y2:419
+Au revoir, Lana.
+
+383
+00:31:44,762 --> 00:31:48,027  X1:128 X2:589 Y1:352 Y2:419
+Je t'ai aimée
+dês la premiêre fois que je t'ai vue.
+
+384
+00:31:48,399 --> 00:31:51,698  X1:215 X2:504 Y1:352 Y2:419
+Et je t'aimerai encore
+quand je rentrerai.
+
+385
+00:33:03,608 --> 00:33:05,337  X1:297 X2:421 Y1:380 Y2:419
+Roger...
+
+386
+00:33:06,177 --> 00:33:07,940  X1:271 X2:447 Y1:384 Y2:419
+mon chou...
+
+387
+00:33:08,112 --> 00:33:12,515  X1:200 X2:517 Y1:354 Y2:419
+ça va te rapporter
+un gros paquet de fric!
+
+388
+00:33:36,374 --> 00:33:37,807  X1:191 X2:527 Y1:384 Y2:419
+Chloé a l'air de s'éclater.
+
+389
+00:33:38,042 --> 00:33:41,808  X1:155 X2:562 Y1:356 Y2:419
+- C'est ce que je lui ai promis!
+- Tu as bien fait de l'inviter.
+
+390
+00:33:43,047 --> 00:33:44,514  X1:281 X2:436 Y1:384 Y2:419
+C'est vrai.
+
+391
+00:33:45,216 --> 00:33:49,448  X1:200 X2:518 Y1:352 Y2:419
+- J'aime bien le groupe.
+- Remy Zero!
+
+392
+00:34:11,008 --> 00:34:12,976  X1:199 X2:518 Y1:384 Y2:419
+J'adore cette chanson!
+
+393
+00:34:17,214 --> 00:34:21,583  X1:112 X2:605 Y1:352 Y2:419
+- C'est la chanson préférée de Chloé!
+- Tu crois que c'est un hasard?
+
+394
+00:34:22,086 --> 00:34:23,781  X1:201 X2:517 Y1:380 Y2:419
+Bravo, c'est bien parti!
+
+395
+00:34:27,858 --> 00:34:31,191  X1:146 X2:573 Y1:356 Y2:419
+- M'accordez-vous cette danse?
+- Bien sûr.
+
+396
+00:36:12,863 --> 00:36:15,957  X1:161 X2:557 Y1:352 Y2:419
+Les animaux sont à l'abri!
+On ne peut rien faire de plus!
+
+397
+00:36:16,133 --> 00:36:19,534  X1:152 X2:565 Y1:356 Y2:419
+- Réfugions-nous dans la cave!
+- Et Clark?
+
+398
+00:36:19,703 --> 00:36:24,163  X1:113 X2:605 Y1:356 Y2:419
+L'école est de l'autre côté de la ville!
+II ne craint rien!
+
+399
+00:36:53,737 --> 00:36:56,228  X1:183 X2:534 Y1:352 Y2:419
+- Qui êtes-vous?
+- Roger Nixon du journal...
+
+400
+00:36:56,407 --> 00:36:58,500  X1:127 X2:592 Y1:380 Y2:419
+C'est vous qui avez menacé Clark?
+
+401
+00:36:58,676 --> 00:37:01,236  X1:189 X2:528 Y1:356 Y2:419
+- Laisse-le!
+- Il a failli tuer notre fils!
+
+402
+00:37:01,412 --> 00:37:04,745  X1:166 X2:552 Y1:352 Y2:419
+- C'était vous?
+- Je savais qu'il n'aurait rien.
+
+403
+00:37:05,683 --> 00:37:07,742  X1:226 X2:492 Y1:356 Y2:419
+- Qui vous envoie?
+- Arrête!
+
+404
+00:37:07,918 --> 00:37:10,386  X1:214 X2:505 Y1:352 Y2:419
+- C'est Lex Luthor?
+- Quelle importance?
+
+405
+00:37:10,554 --> 00:37:14,615  X1:146 X2:572 Y1:352 Y2:419
+- Je vais tout dire sur votre fils!
+- C'est ce qu'on va voir!
+
+406
+00:37:18,596 --> 00:37:20,086  X1:240 X2:478 Y1:382 Y2:419
+Allez, relêve-toi!
+
+407
+00:37:20,264 --> 00:37:22,630  X1:224 X2:492 Y1:380 Y2:419
+Jonathan, regarde!
+
+408
+00:37:35,412 --> 00:37:37,880  X1:178 X2:540 Y1:356 Y2:419
+- La tornade!
+- Il est au courant de tout!
+
+409
+00:37:38,048 --> 00:37:41,779  X1:135 X2:582 Y1:356 Y2:419
+- Il pourrait détruire notre famille!
+- Arrête!
+
+410
+00:38:29,099 --> 00:38:33,058  X1:161 X2:557 Y1:352 Y2:419
+Je croyais te connaître,
+et voilà que tu me surprends!
+
+411
+00:38:33,337 --> 00:38:38,365  X1:169 X2:550 Y1:354 Y2:419
+- Qu'est-ce qui te surprend?
+- La chanson, le costume...
+
+412
+00:38:38,542 --> 00:38:40,601  X1:268 X2:449 Y1:384 Y2:419
+cette soirée.
+
+413
+00:38:40,778 --> 00:38:44,714  X1:187 X2:531 Y1:354 Y2:419
+- Et je suis encore là!
+- Oui, tu es bel et bien là.
+
+414
+00:39:05,836 --> 00:39:08,031  X1:221 X2:496 Y1:356 Y2:419
+Arrêtez la musique!
+Excusez-moi.
+
+415
+00:39:08,472 --> 00:39:10,872  X1:165 X2:554 Y1:380 Y2:419
+Puis-je avoir votre attention?
+
+416
+00:39:11,041 --> 00:39:13,976  X1:152 X2:566 Y1:352 Y2:419
+Nous venons
+de recevoir un avis de tempête.
+
+417
+00:39:14,144 --> 00:39:16,704  X1:184 X2:533 Y1:352 Y2:419
+Trois tornades
+se dirigent vers Smallville.
+
+418
+00:39:17,047 --> 00:39:19,277  X1:135 X2:582 Y1:384 Y2:419
+Je vous demande de rester calme.
+
+419
+00:39:19,450 --> 00:39:22,977  X1:134 X2:583 Y1:352 Y2:419
+C'est surtout
+le sud de la ville qui est menacé...
+
+420
+00:39:23,153 --> 00:39:25,144  X1:167 X2:551 Y1:384 Y2:419
+mais mieux vaut attendre ici.
+
+421
+00:39:25,322 --> 00:39:27,756  X1:177 X2:541 Y1:356 Y2:419
+La gare routiêre est au sud.
+Lana est là-bas.
+
+422
+00:39:27,925 --> 00:39:29,790  X1:176 X2:543 Y1:380 Y2:419
+Elle doit déjà être chez elle.
+
+423
+00:39:29,960 --> 00:39:33,020  X1:125 X2:590 Y1:352 Y2:419
+Reste ici,
+je vais l'appeler avec mon portable.
+
+424
+00:39:54,251 --> 00:39:55,809  X1:202 X2:515 Y1:382 Y2:419
+Allez au diable, Nixon!
+
+425
+00:39:57,087 --> 00:40:00,420  X1:140 X2:577 Y1:352 Y2:419
+Tu as pris les actions
+de ta mêre pour racheter l'usine!
+
+426
+00:40:00,591 --> 00:40:02,024  X1:197 X2:521 Y1:384 Y2:419
+Voilà la source secrête!
+
+427
+00:40:02,192 --> 00:40:05,787  X1:185 X2:534 Y1:352 Y2:419
+C'est três audacieux, Lex,
+mais ça ne marchera pas.
+
+428
+00:40:05,963 --> 00:40:08,932  X1:158 X2:561 Y1:356 Y2:419
+- Tu es venu pour me dire ça?
+- C'est du suicide!
+
+429
+00:40:09,099 --> 00:40:12,933  X1:140 X2:577 Y1:352 Y2:419
+Par ta faute, tes employés
+risquent de se retrouver à la rue!
+
+430
+00:40:13,103 --> 00:40:14,593  X1:189 X2:529 Y1:380 Y2:419
+Tu vas gâcher ton avenir.
+
+431
+00:40:15,272 --> 00:40:17,832  X1:185 X2:533 Y1:352 Y2:419
+Je vais surtout
+me libérer de ton emprise.
+
+432
+00:40:19,610 --> 00:40:22,408  X1:190 X2:527 Y1:356 Y2:419
+Tu n'es pas mon ennemi.
+Tu es mon fils.
+
+433
+00:40:23,447 --> 00:40:25,881  X1:122 X2:594 Y1:380 Y2:419
+Je n'ai jamais compris la différence.
+
+434
+00:40:26,050 --> 00:40:28,678  X1:203 X2:515 Y1:356 Y2:419
+Peu avant la mort
+d'Alexandre le Grand...
+
+435
+00:40:28,852 --> 00:40:30,877  X1:149 X2:568 Y1:380 Y2:419
+ses généraux lui demandêrent...
+
+436
+00:40:31,055 --> 00:40:36,118  X1:125 X2:592 Y1:352 Y2:419
+de désigner un successeur
+qui pourrait poursuivre son oeuvre...
+
+437
+00:40:36,293 --> 00:40:38,955  X1:206 X2:511 Y1:352 Y2:419
+et protéger le peuple
+des effusions de sang.
+
+438
+00:40:39,129 --> 00:40:41,529  X1:172 X2:545 Y1:352 Y2:419
+Il répondit:
+"Je lêgue tout au plus fort."
+
+439
+00:40:41,698 --> 00:40:44,963  X1:169 X2:548 Y1:352 Y2:419
+Tu sais ce qu'on dit:
+"La guerre nourrit la guerre."
+
+440
+00:40:45,135 --> 00:40:48,571  X1:181 X2:536 Y1:352 Y2:419
+Je vous enterrerai tous,
+toi et ceux qui te suivront.
+
+441
+00:41:25,342 --> 00:41:27,333  X1:251 X2:466 Y1:382 Y2:419
+Aide-moi, Lex!
+
+442
+00:41:29,346 --> 00:41:31,280  X1:192 X2:524 Y1:380 Y2:419
+Je ne peux plus bouger!
+
+443
+00:41:35,285 --> 00:41:37,082  X1:281 X2:436 Y1:384 Y2:419
+Aide-moi!
+
+444
+00:41:45,229 --> 00:41:48,494  X1:191 X2:527 Y1:380 Y2:419
+Mon fils, je t'en supplie!
+
+445
+00:42:11,054 --> 00:42:12,783  X1:251 X2:466 Y1:380 Y2:419
+C'est pas vrai!
+
+446
+00:42:48,392 --> 00:42:50,952  X1:271 X2:446 Y1:384 Y2:419
+A SUIVRE...
+
+447
+00:43:30,334 --> 00:43:31,323  X1:287 X2:431 Y1:382 Y2:419
+Resynchro : ScarHand
+

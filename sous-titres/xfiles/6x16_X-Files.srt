@@ -1,0 +1,426 @@
+{165}{255}CARGO T'IEN KOU, OCEAN PACIFIQUE|21H17
+{345}{427}Viens, Fong. N'aie pas peur.
+{622}{667}Ah, il est là.
+{702}{787}Je les ai vus le charger à Hong Kong.
+{815}{877}A ton avis, qu'est-ce qu'il y a dedans?
+{1045}{1160}Hier, j'ai voulu approcher|mon visage du container.
+{1187}{1262}La chose à l'intérieur a essayé de me mordre.
+{1272}{1317}C'est peut-être un tigre.
+{1650}{1715}Viens jeter un coup d'oeil.
+{1862}{1940}Avec des yeux pareils,|ça peut pas être un tigre!
+{2697}{2755}Je crois qu'on l'a tué.
+{3505}{3555}La cale a été fermée à Hong Kong.
+{3557}{3630}Je ne comprends pas ce qui s'est passé.
+{3655}{3745}On a retrouvé la cage fermée.|Deux hommes ont disparu.
+{3795}{3837}Qui est le capitaine?
+{3840}{3882}- C'est vous?|- Qui êtes-vous?
+{3885}{3947}Je suis M. Detweiler.|Ce container m'est destiné.
+{3950}{4020}On aurait dû m'avertir de son arrivée.
+{4020}{4100}C'est un animal, bon sang!|II a besoin de soins!
+{4907}{4975}ACTIVITE PARANORMALE
+{5092}{5150}LE GOUVERNEMENT NOUS MENT
+{5560}{5620}LA VERITE EST AILLEURS
+{5665}{5675}SIEGE DU FBI|19H10
+{5675}{5750}SIEGE DU FBI|19H10
+{5942}{6015}- Tu ne rentres pas chez toi?|- Chez moi, c'est ici.
+{6015}{6095}Je remplume mon nid.
+{6095}{6132}Qu'est-ce que c'est?
+{6135}{6212}Deux marins retrouvés morts|ce matin à San Pedro,
+{6215}{6280}dans la cale de leur cargo.
+{6282}{6335}Et quelle est la cause du décès?
+{6335}{6425}Le rapport de police|fait état de morsures multiples.
+{6427}{6452}Qui proviennent d'où?
+{6455}{6540}Le manifeste rédigé|à Hong Kong mentionne un chien.
+{6575}{6625}Un chien?
+{6665}{6750}- Un toutou?|- Un chien-chien à sa mémère.
+{6750}{6780}Ce n'est pas la seule chose qui m'intrigue.
+{6780}{6827}Ce n'est pas la seule chose qui m'intrigue.
+{6830}{6920}On a retrouvé les types|dans le container fermé de l'extérieur.
+{6922}{6987}- Et le chien?|- II a filé, le chienapan.
+{6990}{7047}Chenapan. Chienapan.
+{7050}{7162}Oui, j'ai compris.|Est-ce qu'on a examiné les victimes?
+{7225}{7347}Les morsures de chien|sont rarement mortelles.
+{7350}{7410}La mort n'est pas due aux blessures.
+{7410}{7480}Mais à la perte de sang qui s'ensuit.
+{7482}{7560}Ce rapport ne me para îti pas très fiable.
+{7562}{7640}C'est celui de la police.|La protection de la nature enquête
+{7640}{7690}et d'après une autre source, c'est un chien.
+{7690}{7812}Je n'ai pas besoin de te dire|que ça para îti totalement dénué de sens.
+{7815}{7882}On les a retrouvés|dans une cage cadenassée?
+{7885}{7925}- Oui.|- Deux adultes?
+{7995}{8060}Tu crois qu'un chien aurait pu faire ça?
+{8060}{8112}Un chien méchant, oui.
+{8310}{8370}Jojo, tais-toi!
+{8375}{8412}Allez, ça suffit maintenant!
+{8415}{8475}Calme-toi.
+{8500}{8560}Toi, va-t'en! Allez!
+{8560}{8630}Rentre à la maison.
+{8772}{8832}Tire-toi de là! Rentre chez toi!
+{8915}{8940}Rentre chez toi!
+{9475}{9525}Au pied!
+{9545}{9610}T'as pas intérêt à être sur le lit.
+{9685}{9737}Te voilà! Qu'est-ce que tu fais?
+{9740}{9830}Gros bêta, va. Espèce de paresseux!
+{9922}{9965}Jojo, qu'est-ce que tu...
+{10185}{10250}T'approche pas.
+{10665}{10710}SAN PEDRO, CALIFORNIE|07H42
+{10710}{10735}SAN PEDRO, CALIFORNIE|07H42
+{10962}{11007}Inspecteur Jeffrey Cahn?
+{11010}{11070}- Oui.|- Agent Fox Mulder, FBI.
+{11072}{11122}Ma coéquipière, Dana Scully.
+{11125}{11210}Le bureau de Los Angeles|vous a prévenu de notre visite?
+{11290}{11372}Vous m'excuserez,|j'ai fait le tour du cargo avec mes hommes.
+{11375}{11447}- On a fouillé partout.|- Qu'avez-vous trouvé?
+{11450}{11547}Rien de très concluant.|Mais le chien n'est plus ici, j'en suis sûr.
+{11550}{11595}Qu'est-ce qui vous fait dire ça?
+{11595}{11655}- Vous avez déjà eu un chien?|- Oui.
+{11655}{11705}Vous avez déjà nettoyé après lui?
+{11727}{11797}Vous savez à quelle espèce il appartient?
+{11800}{11840}Pas vraiment, non.
+{11840}{11907}Son destinataire s'appelle Detweiler.
+{11910}{12017}Dr lan Detweiler.|Il se dit crypto-zoologiste.
+{12020}{12105}Il s'occupe des animaux|dont la race est éteinte.
+{12105}{12217}Ah oui, des animaux qui n'existent pas,|comme l'abominable homme des neiges...
+{12220}{12320}Ne faites pas attention à lui.|Vous avez parlé à ce Dr Detweiler?
+{12320}{12427}- II y a tout juste cinq minutes.|- Alors inspecteur, du nouveau?
+{12430}{12460}Agents, le Dr Detweiler.
+{12462}{12520}Vous êtes du FBI?
+{12520}{12580}A qui dois-je m'adresser pour ce vol?
+{12582}{12622}Pour vous, c'est un vol?
+{12625}{12692}C'est un animal de très grande valeur.
+{12695}{12765}Une espèce très rare,|un spécimen inestimable.
+{12767}{12835}- De quelle race?|- Un dhole de Wanshang. Un canidé.
+{12837}{12925}Un chien asiatique,|censé avoir disparu depuis 150 ans.
+{12927}{12980}Oui, absolument.
+{12982}{13047}- Vous en avez un?|- Oui, capturé lors d'une expédition.
+{13050}{13135}Bref, on a un chien fugueur|qui a échappé à la quarantaine.
+{13137}{13230}Fugueur? Pire que ça.|Il semble qu'il ait tué deux personnes.
+{13230}{13312}Croyez-moi, ce n'est pas un animal prédateur.
+{13315}{13430}Les Chinois en ont fait un animal mythique,|mais il ne chasse même pas.
+{13432}{13495}- C'est un charognard.|- Où est l'inspecteur?
+{13537}{13642}On vient de me dire qu'un chien|a attaqué quelqu'un à Bellflower.
+{13680}{13740}BELLFLOWER|09H32
+{14032}{14090}Fais attention où tu marches.
+{14125}{14185}Jake Conroy, 30 ans.
+{14187}{14292}Il était agent des douanes|auprès du gouvernement fédéral.
+{14295}{14370}Il présente les mêmes morsures|que les victimes du cargo.
+{14370}{14427}Avec en plus une main arrachée.
+{14430}{14525}Il aurait participé au vol de l'animal|qui s'en serait ensuite pris à lui.
+{14525}{14587}Il a mordu la main qui l'a nourri.
+{14590}{14640}Ca semble assez logique.
+{14640}{14682}Un homme et son chien sont attaqués|dans une maison fermée à clé.
+{14682}{14740}Un homme et son chien sont attaqués|dans une maison fermée à clé.
+{14740}{14800}Ca signifie que le chien était à l'intérieur.
+{14802}{14885}Si la maison était fermée,|comment est-il sorti?
+{14887}{14915}Continue.
+{14915}{15005}On est partis du principe|que cet animal était un chien,
+{15005}{15082}mais il n'agit guère|comme le meilleur ami de l'homme.
+{15085}{15170}- II aurait effacé les traces du crime?|- Bon chien, Scully.
+{15172}{15295}Tu veux dire qu'on a affaire à un chien|doté d'une intelligence humaine?
+{15395}{15485}Admettons que ça existe,|de quel côté faudrait-il chercher?
+{15487}{15555}Du côté d'un humain|qui pense comme un animal.
+{15620}{15680}CHENIL BERQUIST
+{16230}{16257}Karin?
+{16282}{16332}Karin Berquist?
+{16335}{16477}Stacy Muir. J'installe une clôture pour Karin.|Les coyotes lui font des misères.
+{16480}{16552}Vous avez un chien à mettre en pension?
+{16555}{16630}Non, c'est pour un problème|de chien caractériel.
+{16630}{16717}Il n'obéit pas et il mange les meubles.
+{16762}{16855}- Dites-lui que le FBI la demande.|- Tout de suite.
+{16985}{17047}Karin arrive dans un instant.
+{17125}{17192}Son truc, c'est pas plutôt les chauves-souris?
+{17195}{17317}Karin Berquist en sait plus que n'importe qui|sur le comportement des chiens.
+{17320}{17345}Elle a vécu un peu partout dans la nature|parmi les canidés et les loups.
+{17345}{17422}Elle a vécu un peu partout dans la nature|parmi les canidés et les loups.
+{17425}{17502}Comment peux-tu savoir tout ça|et ne pas la reconna îti re?
+{17505}{17575}Je ne l'ai jamais rencontrée.
+{17577}{17632}Mais tu supposes qu'elle peut nous aider?
+{17635}{17715}Ce n'est pas une supposition.|C'est elle qui m'a parlé de ce cas.
+{17715}{17750}Alors, vous êtes potes.
+{17785}{17855}J'ai lu ses livres.
+{17857}{17975}<i>Le loup qui sommeille en nous. Les chiens</i>|<i>ne mentent pas. Meilleurs que nous.</i>
+{18000}{18095}- "Meilleurs que nous"?|- Elle n'est pas très sociable.
+{18385}{18422}JE VEUX Y CROIRE
+{18455}{18527}Visiblement, elle a établi un lien avec toi.
+{18710}{18772}Allez... Couché.
+{18932}{18972}Je suis Fox.
+{19055}{19090}Et voici ma coéquipière.
+{19145}{19195}Ravi de pouvoir enfin vous rencontrer.
+{19220}{19285}Il fallait me prévenir. Je reçois peu de visites.
+{19357}{19422}Vous vous intéressez|au comportement canin?
+{19425}{19530}C'est à propos du chien évoqué|dans votre e-mail. De son intelligence.
+{19530}{19640}L'espèce canine est largement|plus intelligente que nous.
+{19642}{19730}- Assez pour commettre un crime?|- Ca n'a rien à voir.
+{19730}{19797}- Le crime est propre aux humains.|- Et la chasse?
+{19800}{19905}Les coyotes attirent leur proie|avec ingéniosité. Les chiens aussi.
+{19905}{19955}Seuls ou en meute.
+{19987}{20035}Et les dholes?
+{20035}{20117}Le dhole de Wanshang|est une espèce qui a disparu.
+{20120}{20180}Vous aviez autre chose à me demander?
+{20212}{20255}Non. Merci.
+{20325}{20370}Venez!
+{20610}{20705}- C'est une amie à toi?|- On s'est rencontrés sur Internet.
+{20707}{20812}- Sur Internet.|- Echange professionnel d'informations.
+{20907}{21010}Ici Fiedler. Je suis dans une impasse|au sud de Cooper à Signal Hill.
+{21010}{21092}J'ai cru voir quelque chose|faire les poubelles. J'y vais.
+{21095}{21145}Bien reçu.
+{23677}{23722}Bonjour, monsieur.
+{23725}{23835}Protection de la nature.|Je cherche un chien. Vous l'avez vu?
+{23905}{23980}Monsieur? Vous m'entendez?
+{24595}{24637}08H34
+{24860}{24902}Vous voulez arrêter un meurtrier?
+{24905}{24980}Arrêtez le crypto de mes deux|qui a faire venir ce chien!
+{24982}{25047}Il s'agit du même?
+{25050}{25120}Là-bas, c'est Frank Fiedler. C'était mon ami.
+{25122}{25210}Et un vrai pro. Vous croyez|que ce genre de truc arrive tout le temps?
+{25212}{25315}Non. On essaie simplement|d'attraper cet animal. Comme vous.
+{25315}{25377}Faites ce que voulez. Moi, je veux le buter.
+{25655}{25775}Je doute que la femme-loup vienne ici|pour me parler. Je vais voir le corps.
+{25800}{25840}Je ne pensais pas vous voir ici.
+{25842}{25965}Un membre de la brigade canine|dévoré par un chien, ça fait chaud au coeur.
+{26010}{26040}Je plaisante.
+{26042}{26100}Désolée.|Vous avez besoin d'un coup de main?
+{26102}{26170}Vous disiez qu'ils chassent par nécessité,
+{26170}{26285}mais les quatre victimes|qu'on a retrouvées ont été tuées sans raison.
+{26285}{26360}- Qui sont-elles?|- Deux marins du cargo qui l'a amené,
+{26362}{26445}un douanier et un type|de la protection de la nature.
+{26447}{26565}Tous ont pu être en contact|avec l'animal avant qu'il ne les attaque.
+{26565}{26677}- Un cas typique de défense du territoire.|- Non, on dirait qu'il a fait des kilomètres
+{26680}{26717}dans le seul but d'attaquer.
+{26720}{26815}Il semble qu'il ait systématiquement|tendu un piège à ses victimes.
+{26817}{26960}Contrairement aux nôtres, les motivations|des canidés sont simples et directes.
+{26960}{27055}On a très peu de chances|d'en trouver un qui tue pour le plaisir.
+{27057}{27140}Mais on ne le saura jamais.|Il sera sûrement tué avant.
+{27142}{27205}Le type qui est là-bas prétend l'avoir capturé.
+{27205}{27307}Il peut peut-être recommencer.|Le Dr Detweiler. Vous le connaissez?
+{27332}{27385}Non, mais il m'est déjà antipathique.
+{27387}{27520}J'ai fouillé les environs.|Rien ne prouve qu'il s'agit de mon animal.
+{27520}{27590}Pas d'empreintes, rien qui aille dans ce sens.
+{27592}{27710}- Mais il est toujours en fuite.|- Comment l'avez-vous capturé à l'origine?
+{27745}{27810}Je vous présente Karin Berquist.
+{27835}{27925}On l'a drogué,|après l'avoir pisté pendant 15 jours.
+{27945}{28002}Vous l'admirez, n'est-ce pas?
+{28005}{28075}J'admire sa capacité de survie.
+{28107}{28175}Je vais aller jeter un oeil.
+{28252}{28317}Un drôle d'oiseau, celle-là!
+{28515}{28635}J'ai pas le fusil hypodermique avec moi.|J'utiliserai mon flingue, tant pis!
+{28637}{28720}Pas question|que qui que ce soit risque sa peau.
+{28722}{28792}Personne te demande de risquer ta peau.
+{28795}{28870}Fiedler est mort. Tu comprends, ça?
+{28970}{29057}- T'es toujours là?|- On a besoin de renfort.
+{29060}{29142}Faudra combien de morts|pour que vous compreniez?
+{29145}{29222}J'ai pas de photo de lui.|Personne l'a jamais vu.
+{29225}{29307}Envoie des renforts,|qu'on l'attrape et qu'on le bute.
+{29310}{29355}Si tu veux que...
+{29427}{29497}- Vous m'avez fait peur.|- Tuez-le et je vous tue.
+{29702}{29777}Detweiler dit n'avoir trouvé|aucune preuve sur place.
+{29780}{29845}Or, je n'ai eu aucun mal à trouver des traces
+{29847}{29917}à proximité de l'endroit où l'homme a été tué.
+{29920}{29955}Elle vous ont appris quelque chose?
+{29957}{30095}C'est un animal élancé et de haute stature|qui présente des aspects primitifs.
+{30097}{30230}Là, on ne s'en rend pas bien compte,|mais je vais agrandir l'empreinte.
+{30280}{30337}La patte droite possède cinq coussinets.
+{30345}{30405}Les canidés n'en ont que quatre.
+{30407}{30520}On voit les restes d'un cinquième doigt|sur les pattes avant.
+{30622}{30755}C'est un ergot. Certains experts|y voient le vestige d'un pouce préhensile.
+{30757}{30815}Et c'est ce qu'indiquerait l'empreinte?
+{30817}{30890}Il para îti qu'il entre|et qu'il sort de bâtiments fermés.
+{30892}{30960}Hier, vous disiez qu'il était impossible
+{30960}{31072}qu'un chien, ou un canidé|comme vous dites, se comporte ainsi.
+{31075}{31150}- Non, qu'il tue pour tuer.|- Mais vous n'excluez pas
+{31152}{31240}qu'il se comporte par ailleurs|comme Jack l'Eventreur?
+{31242}{31300}Je m'en tiens aux faits.
+{31320}{31415}Dans la mythologie chinoise,|le dhole sait ouvrir les portes.
+{31415}{31490}Il enlève les femmes|et a la faculté de se volatiliser.
+{31492}{31562}Ce mythe est peut-être|basé sur des faits réels.
+{31565}{31642}Sûrement, oui.
+{32057}{32130}- Ca va?|- Tu la connais bien, cette femme?
+{32130}{32210}Comme une personne rencontrée sur Internet.
+{32212}{32280}Je m'interroge sur ses motivations.
+{32282}{32412}D'après toi, elle se serait servie|de cette affaire pour me rencontrer?
+{32415}{32460}Très flatteur, mais j'en doute.
+{32462}{32560}Je ne la connais pas,|mais j'ai l'intime conviction
+{32562}{32620}qu'elle n'a rien à voir avec ces meurtres.
+{32622}{32675}Elle est amoureuse de toi.
+{32707}{32810}Ne sous-estime pas les femmes.|Elles ont plus d'un tour dans leur sac.
+{32872}{32912}18H21
+{32915}{32957}CLINIQUE VETERINAIRE RILEY
+{32960}{33047}Le Dr Riley m'a dit de lui en donner|trois par jour. Une bo îti e suffira?
+{33050}{33092}On vous en donnera une autre.
+{33125}{33190}Duke. Ca suffit.
+{33225}{33305}- II n'obéit pas plus que ça?|- Ca arrive, avec les étrangers.
+{33307}{33360}- Emmenons-le dehors.|- Merci.
+{33362}{33442}- Excusez-moi.|- Viens, Duke.
+{33575}{33637}Désolé. D'habitude, il est très docile.
+{33650}{33710}Dr Detweiler. Je viens pour le tranquillisant.
+{33712}{33807}Le Télazol. J'en administre rarement.|Je dois en avoir très peu.
+{33810}{33872}Je prendrai ce que vous aurez.
+{33875}{33922}J'ai de l'étorphine. Ca vous intéresse?
+{33925}{33982}- Oui.|- C'est pour quoi faire?
+{33985}{34042}Pour un animal|qui s'est échappé à San Pedro.
+{34042}{34050}Pour un animal|qui s'est échappé à San Pedro.
+{34105}{34165}Pas le chien qui tue des gens?
+{34165}{34227}Excusez-moi, mais je suis assez pressé.
+{34230}{34295}Vous pensez qu'il est dans la région?
+{34295}{34350}J'ai bien peur que oui.
+{34442}{34477}Bonsoir, Peggy.
+{34480}{34562}Fermez bien la porte d'entrée.|Je ferme celle de derrière.
+{34672}{34732}Bonne nuit, Sparky.
+{34735}{34765}Salut, Dino.
+{35512}{35567}Qu'est-ce qu'il y a, Buck?
+{36247}{36305}Venez!
+{36307}{36347}- Où est-il?|- Dans le chenil.
+{36350}{36417}- Comment est-il entré?|- II a dû passer par-derrière.
+{36420}{36477}Lomas, Young, faites le tour.
+{36565}{36637}Je vais ouvrir la porte. Docteur, reculez.
+{36640}{36705}Je vais devoir le tuer.
+{36750}{36780}Je le vois!
+{36880}{36937}Vous l'avez eu?
+{36940}{36990}Je crois. Il est couché par terre.
+{37090}{37145}C'est pas le bon chien.
+{37560}{37627}- Vous êtes venus pour rien.|- Pourquoi ça?
+{37630}{37692}- J'ai pas tué le bon.|- Et qu'avez-vous tué?
+{37695}{37772}Un saint-bernard.|On voyait rien. J'ai vu un truc bouger.
+{37882}{37952}C'est fini, mon gros. Ca va aller, maintenant.
+{38080}{38147}Reste à savoir comment tu es revenu ici.
+{38815}{38877}A mon grand ami James Riley.|Ne change rien!
+{39152}{39255}FBI! Je suis armée.|Si vous m'entendez, ne bougez pas.
+{39257}{39327}Restez où vous êtes et dites-moi si ça va.
+{40020}{40070}Viens voir!
+{40262}{40325}J'appelle les secours.
+{41027}{41137}- Où est Fox?|- II poursuit l'enquête. Allez, file.
+{41140}{41212}- Vous ne travaillez pas ensemble?|- Non.
+{41215}{41295}- J'enquête de mon côté.|- Sur?
+{41310}{41390}- Vous.|- Je ne comprends pas.
+{41390}{41500}J'ai d'abord pris ça|pour de l'excentricité. De l'affectation.
+{41502}{41595}La pénombre, les vêtements.|Mais c'est de la photosensibilité.
+{41615}{41665}Vos manches cachent des lésions cutanées.
+{41667}{41772}C'est pour ça que vous êtes|parmi les humains et non sur le terrain.
+{41787}{41857}Lupus systémique érythémateux.
+{41882}{41957}"Lupus", terme latin pour "loup".
+{41985}{42085}- Quelle ironie, n'est-ce pas?|- lronie ou perversion?
+{42112}{42192}J'ai longtemps préféré|en ignorer les symptômes.
+{42195}{42267}J'ai toujours été plus proche|du loup que de l'homme.
+{42270}{42327}Sauf avec Mulder.
+{42330}{42425}Vous aviez trouvé en lui|quelqu'un avec qui communiquer.
+{42430}{42485}Quelqu'un qui vous stimule.
+{42510}{42605}Mais ça ne suffisait pas.|Il a fallu que vous l'attiriez jusqu'ici.
+{42607}{42665}Je n'ai pas les mêmes armes que vous.
+{42717}{42790}Vous n'y croyez pas, n'est-ce pas?
+{42790}{42865}Pas un instant, vous n'avez cru à cette affaire.
+{42867}{42985}Pour moi, le Dr Detweiler|n'a jamais capturé cet animal.
+{42985}{43085}J'ai vécu en Asie.|Le dhole de Wanshang, je connais.
+{43087}{43227}S'il a survécu plus d'un siècle,|c'est parce qu'il était plus rusé que l'homme.
+{43230}{43302}Plus que ce Detweiler ne l'a jamais imaginé.
+{43317}{43375}Plus rusé que vous?
+{43400}{43452}Je vous observe, vous savez.
+{43455}{43532}Vous observez, mais vous ne voyez pas.
+{44330}{44445}Inspecteur Cahn, un appel urgent pour vous.
+{44477}{44527}<i>Vous êtes là, inspecteur?</i>
+{44560}{44615}<i>Répondez, s'il vous plaît.</i>
+{44742}{44790}Ici, Jeffrey Cahn. Je vous écoute.
+{44792}{44872}J'ai un agent du FBI en ligne.|Je vous le passe.
+{44932}{44987}Je suis à la clinique. Detweiler est passé.
+{45000}{45107}- II est passé à la clinique?|- II a signé un reçu pour du...
+{45110}{45170}De l'ét... étorphine... Ettoraphine?
+{45170}{45210}Des ampoules de tranquillisants.
+{45260}{45327}- Vous êtes dans le coin?|- Pas très loin, pourquoi?
+{45330}{45410}J'aimerais que vous vérifiez|quelque chose au labo.
+{45417}{45470}Je suis là dans un quart d'heure.
+{45995}{46090}HÔPITAL DU COMTE DE LOS ANGELES|TORRANCE, CALIFORNIE
+{46597}{46630}Que faites-vous ici?
+{46632}{46715}J'ai appris la nouvelle.|J'ignorais que c'était aussi grave.
+{46715}{46790}Je voulais lui demander|de me décrire l'animal.
+{46792}{46877}- Qui vous a mis au courant?|- J'étais en contact avec Cahn.
+{46880}{46955}- J'ai appris la nouvelle via son bureau.|- Faux.
+{46955}{47017}Il se refusait à avoir affaire à vous.
+{47020}{47087}Il voulait le tuer.
+{47090}{47130}Et ça vous faisait peur?
+{47175}{47225}Arrêtez, enfin! C'est ridicule.
+{47227}{47302}Vous savez très bien|que vous n'attraperez pas cet animal.
+{47305}{47417}- Comment l'aurais-je fait venir, alors?|- Ca, seule Karin Berquist le sait.
+{47420}{47505}Elle conna îti cet animal|et elle sait qu'il faut le tuer.
+{47505}{47610}Mais elle refuse de voir|cette espèce s'éteindre. Comme vous.
+{47610}{47670}- Vous dites n'importe quoi!|- J'en doute.
+{47672}{47725}Vous êtes parti chercher cet animal en Chine.
+{47727}{47830}Vous l'avez peut-être pisté,|mais la suite s'est passée différemment.
+{47832}{47930}Vous avez découvert le dhole, c'est vrai.|Mais vous ne l'avez pas attrapé.
+{47947}{47997}C'est lui qui vous a attrapé.
+{48000}{48082}Au départ, ce qui vous arrivait|vous dépassait. Plus maintenant.
+{48085}{48165}- Le soir, vous cessez d'être vous-même.|- C'est grotesque!
+{48167}{48272}Vous devenez un loup-garou.|Un homme ayant l'apparence d'un animal.
+{48282}{48317}- Ca suffit.|- Non.
+{48320}{48375}Vous avez tué parce que vous le pouviez.
+{48407}{48515}Au début, vous avez dû résister.|Et détester ce que vous étiez devenu.
+{48517}{48577}Mais l'animal a eu le dessus.
+{48580}{48642}C'est là que les calmants entrent en jeu.
+{48645}{48717}J'ai trouvé des traces d'étorphine|dans le sang animal.
+{48720}{48827}Vous vous injectiez des tranquillisants|pour cesser de tuer.
+{48830}{48892}Mais ça a continué. Et ça continuera.
+{49237}{49352}Je vous ai protégé aussi longtemps|que j'ai pu. Mais c'est terminé.
+{49762}{49840}Les chiens sentent la personne|que j'ai en face de moi.
+{49842}{49910}Je ne connais pas plus fins psychologues.
+{50145}{50197}Moi aussi, je sens quelque chose.
+{50200}{50315}Je sens que j'ai été berné|et que vous n'avez pas été tout à fait honnête.
+{50322}{50417}Avec vous, si.|C'est avec moi que je ne l'ai pas été.
+{50420}{50517}J'avais envie de vous rencontrer.|Plus que je ne voulais l'admettre.
+{50530}{50640}Vous auriez pu me dire que cet animal|n'en était en réalité pas un!
+{50642}{50747}Si je vous ai appelé,|c'est pour que vous réfutiez les rumeurs.
+{50750}{50860}Je savais que ces meurtres ne pouvaient|pas avoir été commis par un chien.
+{50885}{50947}C'est Detweiler, c'est ça?
+{50950}{51000}- Oui.|- Pourquoi n'avoir rien dit?
+{51002}{51072}Ce n'est qu'en le voyant que j'ai compris.
+{51075}{51160}Mon tort a été de croire|que je protégeais l'animal.
+{51160}{51250}Qu'en vous mentant,|on pourrait le capturer vivant.
+{51250}{51337}Il doit être abattu. C'est la seule solution.
+{51340}{51400}Scully surveille ses moindres faits et gestes.
+{51402}{51445}Il n'aura aucun mal à la semer.
+{51455}{51540}- Et où va-t-il aller?|- Retrouver celui qu'il a raté.
+{51542}{51607}A l'hôpital. Pour finir le travail.
+{51920}{52040}C'est moi. Va à l'hôpital|t'assurer que Cahn est bien protégé.
+{52042}{52092}Il est en danger.
+{52115}{52167}URGENCES
+{52260}{52342}Je surveillais le suspect,|pourquoi m'avoir fait venir ici?
+{52345}{52405}Il n'y a aucune trace|de Detweiler dans le coin.
+{52407}{52495}Voilà qui est pertinent. Il fait encore jour.
+{52495}{52565}Assieds-toi, on risque d'en avoir pour la nuit.
+{52565}{52650}- Comment ça?|- C'est Detweiler.
+{52652}{52725}Ou plutôt,|ce qu'il devient après transformation.
+{52755}{52870}Il est sous le coup d'une malédiction:|la nuit, il se métamorphose
+{52872}{52972}et prend l'apparence|du chien de la mythologie chinoise.
+{52975}{53085}Si je comprends bien, il va se pointer ici|et faire pipi dans les coins?
+{53087}{53140}Il va défendre son territoire.
+{53142}{53230}Venir s'assurer que son statut|de dominant n'est pas menacé.
+{53232}{53345}Il va revenir à la charge et éliminer|la menace que représente Cahn.
+{53347}{53412}Karin Berquist me l'a confirmé.
+{53415}{53495}La seule chose qui intéresse|Karin Berquist, c'est toi.
+{53530}{53640}Tu te leurres vraiment si tu crois|qu'elle ne se sert pas de la situation
+{53640}{53700}dans son propre intérêt.
+{53702}{53785}Il va venir ce soir. Tu vas voir.
+{54935}{54987}02H02
+{55360}{55410}Il ne viendra pas.
+{55487}{55580}- Ce n'est pas moi qui te contredirai.|- II ne viendra pas ce soir.
+{55582}{55645}Karin le savait. Elle m'a menti.
+{57047}{57120}C'est Fox Mulder.|Je sais ce que vous êtes en train de faire.
+{57120}{57185}Si vous m'entendez, enfermez-vous. J'arrive.
+{58700}{58760}Viens, mon chien.
+{60005}{60055}C'est Detweiler.
+{60917}{60967}Tu ne rentres pas chez toi?
+{60970}{61027}Je ne vais pas tarder.
+{61160}{61225}Tu te sens coupable?
+{61227}{61277}Je me dis que...
+{61307}{61357}je l'ai crue un peu trop vite.
+{61415}{61477}Et je me sens coupable, oui.
+{61630}{61730}- Pourquoi ne l'aurais-tu pas crue?|- Je la connaissais à peine.
+{61770}{61842}Elle gardait beaucoup de choses pour elle.
+{61907}{61987}Karin Berquist se fiait|beaucoup à son instinct.
+{62040}{62065}Elle cernait les gens très facilement|et elle t'avait percé à jour.
+{62065}{62145}Elle cernait les gens très facilement|et elle t'avait percé à jour.
+{62212}{62290}Je pense qu'elle voyait en toi une âme soeur.
+{62330}{62410}Mais elle n'a peut-être pas su l'exprimer.
+{62477}{62557}Son geste était peut-être|le plus beau des compliments.
+{62657}{62700}Ca va aller?
+{62942}{62985}On a envoyé ça pour toi.
+{63017}{63067}Merci.
+{64670}{64707}Sous-titrage Visiontext: Sarah Ribatto
+{65222}{65272}FRENCH

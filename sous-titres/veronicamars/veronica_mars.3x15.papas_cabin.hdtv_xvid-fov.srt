@@ -1,0 +1,3812 @@
+1
+00:00:01,040 --> 00:00:03,160
+Précédemment dans "Veronica Mars"...
+
+2
+00:00:03,160 --> 00:00:05,250
+Je n'ai pas tué Cyrus, Keith.
+
+3
+00:00:05,590 --> 00:00:06,830
+J'ai trouvé ce mouchard dans mon portable.
+
+4
+00:00:06,830 --> 00:00:08,200
+C'est vous qui l'avez mis ?
+
+5
+00:00:08,200 --> 00:00:09,660
+Non, Hank.
+
+6
+00:00:11,970 --> 00:00:13,830
+T'aimes ça ?
+
+7
+00:00:13,830 --> 00:00:16,140
+Il a dit que le shérif Lamb est mort.
+
+8
+00:00:18,230 --> 00:00:21,510
+Deux hommes d'entretien ont trouvé un sac
+d'affaires ensanglantées sur le campus.
+
+9
+00:00:21,510 --> 00:00:24,060
+La chemise appartient à votre ami,
+Hank Landry.
+
+10
+00:00:24,065 --> 00:00:27,370
+Soit vous le couvrez,
+soit c'est lui qui vous couvre,
+
+11
+00:00:28,792 --> 00:00:30,415
+<i>Voilà quelque chose que le guide d'accueil</i>
+
+12
+00:00:30,417 --> 00:00:33,059
+<i>n'a pas précisé...
+Votre père est le shérif,</i>
+
+13
+00:00:33,052 --> 00:00:34,546
+<i>il soupçonne que votre professeur favori</i>
+
+14
+00:00:34,549 --> 00:00:36,070
+<i>peut avoir tué votre doyen favori,</i>
+
+15
+00:00:36,076 --> 00:00:37,841
+<i>alors où est-ce que
+tu t'assois en classe ?</i>
+
+16
+00:00:37,845 --> 00:00:39,633
+<i>Devant semble maintenant embarassant.</i>
+
+17
+00:00:39,636 --> 00:00:40,773
+<i>Mais est-ce que s'assoir dans le fond</i>
+
+18
+00:00:40,778 --> 00:00:42,952
+<i>est un signe pour dire
+"Je pense que vous êtes coupable" ?</i>
+
+19
+00:00:42,957 --> 00:00:44,732
+J'espère que tu ne changes pas de place.
+
+20
+00:00:45,785 --> 00:00:47,550
+Oh, professeur. Non.
+
+21
+00:00:47,557 --> 00:00:49,181
+Non. J'étais juste,...
+
+22
+00:00:49,186 --> 00:00:50,263
+Je sais, Veronica.
+
+23
+00:00:50,268 --> 00:00:52,750
+C'est une situation un peu bizarre,
+
+24
+00:00:52,756 --> 00:00:55,523
+mais je ne veux pas que
+tu crois que le désaccord
+
+25
+00:00:55,528 --> 00:00:56,742
+entre ton père et moi
+
+26
+00:00:56,748 --> 00:00:59,191
+puisse altérer notre relation.
+
+27
+00:00:59,997 --> 00:01:01,760
+Un étudiant comme toi n'arrive qu'une fois,
+
+28
+00:01:01,767 --> 00:01:03,590
+peut-être deux fois dans une carrière.
+
+29
+00:01:04,267 --> 00:01:06,903
+Je suis heureux de pouvoir être ton tuteur,
+
+30
+00:01:07,175 --> 00:01:09,023
+et j'espère sincèrement que
+tu ne perdras pas ça de vue
+
+31
+00:01:09,026 --> 00:01:10,473
+dans toute cette affaire...
+
+32
+00:01:10,475 --> 00:01:13,651
+C'est d'accord. Merci, Dr. Landry.
+
+33
+00:01:17,618 --> 00:01:19,282
+Ca n'a pas de sens, Keith.
+
+34
+00:01:19,286 --> 00:01:20,642
+C'est shérif Mars.
+
+35
+00:01:20,648 --> 00:01:22,403
+Je suis shérif, maintenant.
+
+36
+00:01:22,406 --> 00:01:24,222
+- Désolé.
+- Ok.
+
+37
+00:01:24,228 --> 00:01:25,703
+"Shérif".
+
+38
+00:01:25,988 --> 00:01:29,072
+Pourquoi suis-je toujours ici à
+me faire interroger sur ce ton ?
+
+39
+00:01:29,076 --> 00:01:31,740
+Vous avez dit avoir trouvé les
+empreintes digitales de mon ex-mari
+
+40
+00:01:31,746 --> 00:01:34,170
+sur le clavier d'ordinateur de Cyrus.
+
+41
+00:01:34,175 --> 00:01:36,723
+Steve était clairement instable.
+
+42
+00:01:36,726 --> 00:01:38,843
+Vous avez trouvé ses
+empreintes sur le clavier.
+
+43
+00:01:38,848 --> 00:01:41,722
+N'est-ce pas ce que vous appelez
+une preuve tangible ?
+
+44
+00:01:41,727 --> 00:01:46,360
+"Adieu, monde cruel".
+11 lettres seulement sont nécessaires.
+
+45
+00:01:46,937 --> 00:01:48,943
+Les empreintes de Steve,
+l'ex-mari instable
+
+46
+00:01:48,947 --> 00:01:51,203
+sont sur toutes les touches du clavier.
+
+47
+00:01:51,208 --> 00:01:52,742
+Et, bien sûr, il y a la
+question des gants
+
+48
+00:01:52,747 --> 00:01:54,122
+trouvés dans l'incinérateur.
+
+49
+00:01:54,128 --> 00:01:57,190
+Le tueur s'ennuierait-il à porter
+des gants pour le meurtre,
+
+50
+00:01:57,197 --> 00:02:00,610
+juste pour les enlever et laisser des
+empreintes partout sur l'ordinateur ?
+
+51
+00:02:00,615 --> 00:02:03,653
+Donc, non, ce n'est pas ce que
+nous appelons une preuve tangible.
+
+52
+00:02:03,657 --> 00:02:06,480
+Je n'ai pas tué Cyrus, Keith !
+
+53
+00:02:06,488 --> 00:02:08,243
+Shérif Mars.
+
+54
+00:02:09,188 --> 00:02:11,992
+Vous avez dit que Hank et vous-même
+étiez seuls au Neptune Grand,
+
+55
+00:02:11,998 --> 00:02:14,081
+la nuit de la mort de votre mari,
+
+56
+00:02:14,085 --> 00:02:17,661
+mais un témoin a entendu deux hommes
+se disputer dans votre chambre à minuit.
+
+57
+00:02:18,797 --> 00:02:20,303
+Vous dites n'avoir jamais quitté l'hôtel,
+
+58
+00:02:20,305 --> 00:02:22,683
+mais à 1h30, votre voiture est
+contrôlée à la sortie de l'hôtel
+
+59
+00:02:22,687 --> 00:02:24,290
+et pour revenir une heure plus tard.
+
+60
+00:02:24,298 --> 00:02:28,671
+Entre temps, un coup de téléphone est passé
+entre votre portable et celui de Landry.
+
+61
+00:02:29,707 --> 00:02:31,430
+Vous prétendez n'avoir
+jamais quitté l'hôtel
+
+62
+00:02:31,655 --> 00:02:33,243
+et que cet appel,
+c'était pour du dentifrice.
+
+63
+00:02:33,557 --> 00:02:35,982
+Environ 30 minutes après que
+votre voiture fut revenue
+
+64
+00:02:35,987 --> 00:02:39,453
+un étudiant passe près de la fenêtre
+de votre mari et entend le coup de feu.
+
+65
+00:02:39,698 --> 00:02:41,711
+Les rapports toxicologiques
+mentionnent que votre mari
+
+66
+00:02:41,718 --> 00:02:43,743
+avait une forte dose de
+Xanax dans son système.
+
+67
+00:02:43,995 --> 00:02:45,992
+L'assistante du doyen a dit
+qu'il n'en avait plus,
+
+68
+00:02:45,995 --> 00:02:48,560
+mais les registres indiquent que
+vous êtes allée lui chercher
+
+69
+00:02:48,565 --> 00:02:50,562
+la nouvelle prescription
+plus tôt dans la soirée.
+
+70
+00:02:55,265 --> 00:02:56,913
+Tout ça ne colle pas, Mindy.
+
+71
+00:03:03,917 --> 00:03:06,641
+Je crois que Hank Landry
+a tué votre mari, Mme O'Dell.
+
+72
+00:03:06,645 --> 00:03:08,022
+Et je suis persuadé que
+je peux le prouver.
+
+73
+00:03:08,027 --> 00:03:09,882
+Ma question est la suivante :
+
+74
+00:03:09,887 --> 00:03:12,870
+allez-vous tomber avec lui ?
+
+75
+00:03:18,605 --> 00:03:20,581
+L'homme qui est venu à la chambre d'hôtel...
+
+76
+00:03:21,995 --> 00:03:24,030
+C'était Cyrus.
+
+77
+00:03:25,417 --> 00:03:27,140
+Il était en rage.
+
+78
+00:03:27,458 --> 00:03:28,593
+Il avait un pistolet.
+
+79
+00:03:28,597 --> 00:03:30,742
+Posez le pistolet, Cyrus.
+Discutons de tout ça.
+
+80
+00:03:30,746 --> 00:03:31,922
+"Cyrus" ?
+
+81
+00:03:31,927 --> 00:03:33,902
+On s'appelle par nos prénoms maintenant ?
+
+82
+00:03:33,907 --> 00:03:36,571
+Je comprends votre confusion
+en ce qui concerne nos rapports
+
+83
+00:03:36,827 --> 00:03:39,061
+entre le fait que vous couchez
+avec ma femme et le reste.
+
+84
+00:03:39,065 --> 00:03:41,062
+Laissez-moi vous rafraîchir la mémoire,
+je suis ton patron.
+
+85
+00:03:41,065 --> 00:03:43,012
+S'il vous plaît, posez le pistolet.
+Ensuite nous parlerons.
+
+86
+00:03:43,015 --> 00:03:44,062
+Cyrus, s'il te plaît.
+
+87
+00:03:44,068 --> 00:03:45,192
+Il n'y a rien à dire.
+
+88
+00:03:45,277 --> 00:03:48,092
+Vous êtes fini, Hank, et je ne parle
+pas seulement de Hearst
+
+89
+00:03:48,096 --> 00:03:49,100
+mais de partout.
+
+90
+00:03:49,106 --> 00:03:51,551
+Vous ne serez plus titulaire,
+fini le monde universitaire,
+
+91
+00:03:51,558 --> 00:03:55,210
+à coucher avec des étudiantes
+impressionables et des femmes faciles.
+
+92
+00:03:55,215 --> 00:03:56,590
+Il a menacé de mettre fin à sa carrière ?
+
+93
+00:03:56,596 --> 00:03:58,752
+Sa carrière compte plus que
+tout aux yeux de Hank.
+
+94
+00:03:59,075 --> 00:04:03,283
+Cyrus pouvait lui fermer les portes de
+toutes les universités réputées du pays.
+
+95
+00:04:03,797 --> 00:04:06,631
+Cyrus est parti comme une
+furie et Hank a paniqué.
+
+96
+00:04:07,127 --> 00:04:09,433
+J'ai dit que j'irais le voir et
+essayer de lui parler.
+
+97
+00:04:09,548 --> 00:04:12,040
+Je suis rentrée à la maison mais
+sa voiture n'y était pas.
+
+98
+00:04:12,048 --> 00:04:13,712
+Alors je suis allée à son bureau.
+
+99
+00:04:14,105 --> 00:04:15,370
+Et le coup de téléphone ?
+
+100
+00:04:15,548 --> 00:04:17,072
+Hank voulait savoir comment
+ça s'était passé.
+
+101
+00:04:17,335 --> 00:04:18,500
+Et comment ça s'était passé ?
+
+102
+00:04:18,747 --> 00:04:21,212
+Eh bien, il venait juste de recevoir
+des oeufs à sa fenêtre,
+
+103
+00:04:21,217 --> 00:04:23,423
+alors il n'était pas de bonne humeur.
+
+104
+00:04:23,925 --> 00:04:25,361
+Qu'est-ce que tu fais ici ?
+
+105
+00:04:26,167 --> 00:04:28,553
+Je suis ici pour te demander
+une fois de plus, Cyrus,
+
+106
+00:04:28,555 --> 00:04:30,932
+d'être clément, je t'en prie.
+
+107
+00:04:31,938 --> 00:04:33,652
+C'est là que vous lui
+avez donné le Xanax ?
+
+108
+00:04:33,868 --> 00:04:35,492
+J'ai pensé que ça lui ferait du bien.
+
+109
+00:04:36,818 --> 00:04:39,350
+3 pilules l'ont quasiment assommé.
+
+110
+00:04:39,375 --> 00:04:42,423
+Je lui ai juste donné le flacon.
+Il s'est chargé du dosage.
+
+111
+00:04:43,508 --> 00:04:45,332
+Ecoutez, j'étais là-bas pendant 5 minutes.
+
+112
+00:04:45,338 --> 00:04:48,063
+Il a hurlé, je suis partie.
+Fin de l'histoire.
+
+113
+00:04:58,615 --> 00:05:00,062
+Qu'avez-vous dit à Hank ?
+
+114
+00:05:00,378 --> 00:05:01,323
+Rien.
+
+115
+00:05:02,317 --> 00:05:04,340
+Quand je suis revenue,
+il n'était plus là.
+
+116
+00:05:04,348 --> 00:05:06,832
+Vous êtes venue me voir pour prouver
+que votre mari a été assassiné.
+
+117
+00:05:06,835 --> 00:05:09,503
+Ca ne vous a pas traversé l'esprit que
+votre amant puisse avoir fait le coup ?
+
+118
+00:05:09,508 --> 00:05:11,810
+Je savais que Cyrus ne
+s'était pas suicidé.
+
+119
+00:05:11,817 --> 00:05:14,693
+Je voulais savoir qui l'avait tué,
+même si c'était Hank.
+
+120
+00:05:14,698 --> 00:05:16,120
+Vous avez fourni son alibi.
+
+121
+00:05:16,127 --> 00:05:18,181
+Jusqu'à ce que vous me parliez des
+vêtements de Hank couverts de sang,
+
+122
+00:05:18,205 --> 00:05:20,372
+j'étais persuadée que quelqu'un
+d'autre était responsable.
+
+123
+00:05:20,375 --> 00:05:22,311
+Cyrus avait plein d'ennemis.
+
+124
+00:05:24,198 --> 00:05:26,140
+Vous témoignerez pour dire que
+Hank était coincé,
+
+125
+00:05:27,585 --> 00:05:30,272
+qu'il a paniqué à l'idée
+de perdre sa carrière ?
+
+126
+00:05:30,747 --> 00:05:31,810
+Oui.
+
+127
+00:05:34,467 --> 00:05:36,532
+Vous avez connu 3 hommes
+dans votre vie, Mme O'Dell.
+
+128
+00:05:36,607 --> 00:05:37,692
+Deux sont morts,
+
+129
+00:05:38,286 --> 00:05:41,033
+et l'Etat de Californie
+devrait s'occuper du 3ème.
+
+130
+00:05:41,597 --> 00:05:43,413
+Comment suis-je supposée réagir à ça ?
+
+131
+00:05:43,855 --> 00:05:45,600
+Avec considération.
+
+132
+00:05:50,477 --> 00:05:51,873
+Ne quittez pas la ville.
+
+133
+00:05:53,795 --> 00:05:55,840
+Les agences qui demandent
+des profils criminologiques
+
+134
+00:05:55,845 --> 00:05:58,100
+ont la regretable tendance
+à penser que
+
+135
+00:05:58,107 --> 00:06:01,150
+le profiling peut pour une raison
+ou une autre remplacer le travail
+
+136
+00:06:01,157 --> 00:06:03,993
+d'analyse de pièces à conviction
+sur un dossier particulier...
+
+137
+00:06:09,425 --> 00:06:12,911
+L'examen conduit par Horvath et Messig
+
+138
+00:06:12,916 --> 00:06:14,880
+déterminait que la pièce à conviction
+
+139
+00:06:14,885 --> 00:06:17,713
+est utilisée dans moins de 25% des cas...
+
+140
+00:06:22,068 --> 00:06:24,001
+Je pourrais savoir ce qui se passe ?
+
+141
+00:06:25,805 --> 00:06:27,812
+Je vais vous arrêter, Dr. Landry.
+
+142
+00:06:27,816 --> 00:06:29,821
+Vous devriez peut-être
+libérer votre classe.
+
+143
+00:06:29,825 --> 00:06:33,530
+Les étudiants n'ont pas besoin de
+vous voir partir avec les menottes.
+
+144
+00:06:35,722 --> 00:06:40,345
+Le shérif a des questions qu'il aimerait
+me poser au sujet d'une affaire,
+
+145
+00:06:41,037 --> 00:06:43,219
+alors je vais vous laisser
+partir plus tôt.
+
+146
+00:06:44,222 --> 00:06:46,386
+Lisez le chapitre 6 pour
+le prochain cours.
+
+147
+00:06:53,429 --> 00:06:57,331
+<i>* A long time ago, we used to be friends *</i>
+
+148
+00:06:57,336 --> 00:07:02,232
+<i>* But I haven't thought of you lately at all *</i>
+
+149
+00:07:03,288 --> 00:07:05,451
+<i>* Come on, now, sugar *</i>
+
+150
+00:07:05,455 --> 00:07:08,002
+<i>* Bring it on, bring it on, yeah *</i>
+
+151
+00:07:08,006 --> 00:07:11,341
+<i>* Just remember me when *</i>
+
+152
+00:07:11,347 --> 00:07:16,012
+<i>* We used to be friends a long time ago *</i>
+
+153
+00:07:16,018 --> 00:07:18,540
+<i>* We used to be friends *</i>
+
+154
+00:07:19,648 --> 00:07:23,640
+<i>Veronica Mars 3x15
+Papa's Cabin</i>
+
+155
+00:07:23,998 --> 00:07:26,711
+Redites-le dans le micro,
+s'il vous plaît.
+
+156
+00:07:29,165 --> 00:07:32,573
+Je souhaite répondre aux questions
+sans la présence d'un avocat.
+
+157
+00:07:33,745 --> 00:07:35,421
+Mindy vous a dénoncé.
+
+158
+00:07:36,178 --> 00:07:37,331
+Je ne vous crois pas.
+
+159
+00:07:37,335 --> 00:07:40,582
+Elle déclare être revenue au
+bureau du doyen cette nuit-là.
+
+160
+00:07:40,857 --> 00:07:42,963
+Elle a parlé à son mari, lui a donné son Xanax.
+
+161
+00:07:42,968 --> 00:07:45,461
+Quand elle est revenue,
+vous n'étiez plus là.
+
+162
+00:07:47,338 --> 00:07:49,443
+Le doyen a été assassiné à 3h00.
+
+163
+00:07:51,135 --> 00:07:52,750
+Vous êtes sûr que vous ne
+voulez pas un avocat ?
+
+164
+00:07:55,296 --> 00:07:58,020
+Mindy a déclaré que le doyen vous a
+rendu visite à votre chambre d'hôtel.
+
+165
+00:07:58,028 --> 00:08:00,931
+Elle dit qu'il a menacé de
+détruire votre carrière,
+
+166
+00:08:00,937 --> 00:08:04,042
+et elle est revenue à son bureau pour
+essayer de plaider en votre faveur.
+
+167
+00:08:05,016 --> 00:08:06,443
+C'est ce qu'elle a dit ?
+
+168
+00:08:07,107 --> 00:08:09,303
+C'est tout ce qu'elle
+a dit sur sa visite ?
+
+169
+00:08:12,368 --> 00:08:14,450
+Le doyen n'a pas fait que
+"me" menacer.
+
+170
+00:08:14,666 --> 00:08:17,082
+Fini le monde universitaire,
+
+171
+00:08:17,246 --> 00:08:20,361
+à coucher avec des étudiantes
+impressionables et des femmes faciles.
+
+172
+00:08:20,367 --> 00:08:21,712
+Arrête. Si tu pouvais
+poser le pistolet...
+
+173
+00:08:21,718 --> 00:08:23,773
+Tu trouveras tes affaires sur la pelouse
+
+174
+00:08:23,776 --> 00:08:25,563
+dès demain matin, ok ?
+
+175
+00:08:25,567 --> 00:08:27,391
+Je suis vraiment désolé de ne pas
+avoir écouté les conseils de mes amis
+
+176
+00:08:27,395 --> 00:08:28,073
+sur le fait de me marrier avec toi.
+
+177
+00:08:28,075 --> 00:08:30,430
+Mais Dieu merci, je les ai écoutés en
+ce qui concerne le contrat de mariage.
+
+178
+00:08:30,438 --> 00:08:33,270
+C'est fini entre nous et tu
+n'auras rien, tu m'entends ?
+
+179
+00:08:33,275 --> 00:08:34,430
+Rien !
+
+180
+00:08:34,835 --> 00:08:36,783
+Elle n'est pas revenue me sauver, Keith.
+
+181
+00:08:36,786 --> 00:08:38,593
+Elle est revenue se sauver elle-même.
+
+182
+00:08:38,598 --> 00:08:39,812
+Elle était de retour à l'hôtel
+
+183
+00:08:39,816 --> 00:08:41,430
+à l'heure où le doyen était mort.
+
+184
+00:08:41,655 --> 00:08:42,892
+L'ex-mari, Botando.
+
+185
+00:08:42,896 --> 00:08:44,830
+Ca n'a pas l'air d'être Botando.
+
+186
+00:08:45,426 --> 00:08:47,480
+Un homme d'entretien a trouvé
+quelque chose d'intéressant
+
+187
+00:08:47,486 --> 00:08:49,862
+alors qu'il nettoyait
+l'incinérateur de Hearst.
+
+188
+00:08:51,696 --> 00:08:53,093
+Vous voulez m'en dire plus ?
+
+189
+00:08:53,098 --> 00:08:54,543
+Un sac...
+
+190
+00:08:55,227 --> 00:08:59,243
+...contenant une chemise et
+des gants, les vôtres,
+
+191
+00:09:00,287 --> 00:09:02,680
+couverts du sang de O'Dell.
+
+192
+00:09:09,415 --> 00:09:10,592
+Mindy.
+
+193
+00:09:13,058 --> 00:09:15,133
+Elle m'a piégé.
+
+194
+00:09:15,445 --> 00:09:17,070
+Elle a accès à mes vêtements.
+
+195
+00:09:17,316 --> 00:09:19,800
+Je ne sais pas comment sa voiture
+est revenue à l'hôtel, mais...
+
+196
+00:09:19,805 --> 00:09:21,210
+Son alibi tient la route.
+
+197
+00:09:21,218 --> 00:09:24,550
+Et si vous me disiez finalement
+où vous étiez à 03h00.
+
+198
+00:09:24,555 --> 00:09:26,553
+La nuit du 10 décembre ?
+
+199
+00:09:26,558 --> 00:09:29,433
+J'ai quitté l'hôtel et je suis rentré
+seul chez moi en voiture.
+
+200
+00:09:31,755 --> 00:09:33,881
+Je me suis arrêté à une épicerie
+pour acheter des cigarettes.
+
+201
+00:09:33,885 --> 00:09:35,212
+Vous avez la facture ?
+
+202
+00:09:35,767 --> 00:09:36,562
+Non.
+
+203
+00:09:38,518 --> 00:09:41,101
+Et le vendeur n'a même pas lâché
+les yeux de sa petite télé.
+
+204
+00:09:43,135 --> 00:09:44,172
+Attendez.
+
+205
+00:09:46,395 --> 00:09:47,951
+Je peux vous en prendre une ?
+
+206
+00:09:50,768 --> 00:09:52,942
+Tenez. Prenez-en deux.
+
+207
+00:09:52,947 --> 00:09:54,271
+Je ne fume pas vraiment.
+
+208
+00:09:54,275 --> 00:09:55,632
+Sur cette femme mystère...
+
+209
+00:09:55,638 --> 00:09:57,392
+Vous pourriez me la décrire ?
+
+210
+00:09:57,397 --> 00:09:59,310
+Fin de 30aine, début de 40aine.
+
+211
+00:10:00,328 --> 00:10:01,322
+Brune.
+
+212
+00:10:01,325 --> 00:10:03,630
+J'imagine que vous ne pouvez pas me dire
+comment le sang du doyen
+
+213
+00:10:03,638 --> 00:10:05,723
+s'est retrouvé sur vos vêtements ?
+
+214
+00:10:07,137 --> 00:10:10,143
+Je vous conseille de prendre un avocat.
+Un très bon avocat.
+
+215
+00:10:10,427 --> 00:10:13,782
+Vous êtes intelligent.
+Vous savez que les preuves sont là.
+
+216
+00:10:21,517 --> 00:10:22,980
+Professeur Landry.
+
+217
+00:10:24,895 --> 00:10:27,262
+Tim. Evidemment.
+
+218
+00:10:27,265 --> 00:10:28,270
+Toujours Tim.
+
+219
+00:10:28,275 --> 00:10:30,090
+Qu'est-ce qui se passe ?
+
+220
+00:10:30,967 --> 00:10:32,313
+Ils croient que vous avez tué le doyen.
+
+221
+00:10:32,318 --> 00:10:33,593
+Je suis innocent.
+
+222
+00:10:36,845 --> 00:10:38,182
+Mais les preuves...
+
+223
+00:10:38,878 --> 00:10:40,303
+c'est juste que...
+
+224
+00:10:40,578 --> 00:10:42,411
+Ceci dit, tu peux faire
+deux choses pour moi.
+
+225
+00:10:45,167 --> 00:10:46,721
+J'ai trouvé un mouchard
+dans mon téléphone.
+
+226
+00:10:46,946 --> 00:10:47,620
+Un mouchard ?
+
+227
+00:10:47,626 --> 00:10:49,901
+Il faut que je sache qui l'a placé
+
+228
+00:10:49,908 --> 00:10:51,461
+et depuis quand.
+
+229
+00:10:51,466 --> 00:10:52,902
+D'accord.
+
+230
+00:10:54,198 --> 00:10:55,551
+Quoi d'autre ?
+
+231
+00:10:56,488 --> 00:10:58,783
+Il faut que tu trouves
+une aiguille dans une botte de foin.
+
+232
+00:11:31,967 --> 00:11:34,070
+Qu'est-ce que tu fous ?
+
+233
+00:11:34,915 --> 00:11:36,490
+Je, heu...
+
+234
+00:11:36,887 --> 00:11:39,243
+Tu cherches une excuse,
+réalises que ça sert à rien,
+
+235
+00:11:39,246 --> 00:11:40,503
+et donc tu balances la vérité ?
+
+236
+00:11:40,508 --> 00:11:43,470
+J'essaie d'aider Landry, ok ?
+
+237
+00:11:45,348 --> 00:11:46,953
+Il a donné à ton père le mouchard
+
+238
+00:11:46,955 --> 00:11:48,263
+que quelqu'un a placé
+dans son téléphone.
+
+239
+00:11:48,268 --> 00:11:49,780
+Ca peut nous mener à Mindy.
+
+240
+00:11:49,787 --> 00:11:51,921
+Et comment ?
+
+241
+00:11:51,925 --> 00:11:54,911
+Je sais pas. Grâce au numéro de série ?
+
+242
+00:11:54,915 --> 00:11:56,203
+Il n'y en a pas.
+
+243
+00:11:56,207 --> 00:11:57,232
+Eh bien je le savais pas !
+
+244
+00:11:58,296 --> 00:11:59,650
+Il y a forcément un moyen.
+
+245
+00:12:00,105 --> 00:12:01,233
+Comment tu t'y prendrais ?
+
+246
+00:12:01,237 --> 00:12:03,823
+Pour commencer, je m'introduirais
+dans le bureau de quelqu'un,
+
+247
+00:12:03,826 --> 00:12:06,101
+de manière très fourbe,
+et puis je lui demanderais conseil.
+
+248
+00:12:06,108 --> 00:12:08,892
+Excuse-moi Veronica,
+je ne sais plus quoi faire.
+
+249
+00:12:09,486 --> 00:12:10,903
+Landry n'a pas tué le doyen.
+
+250
+00:12:10,905 --> 00:12:12,620
+Mindy essaie de le piéger.
+
+251
+00:12:13,388 --> 00:12:14,573
+C'est quelqu'un de bien.
+
+252
+00:12:14,818 --> 00:12:16,773
+Je vais faire tout ce que je peux
+pour l'aider.
+
+253
+00:12:17,816 --> 00:12:18,951
+Il a un alibi.
+
+254
+00:12:18,955 --> 00:12:21,062
+Il était dans une épicerie
+au moment du meurtre.
+
+255
+00:12:21,345 --> 00:12:23,512
+Il a le ticket de caisse
+pour prouver ça ?
+
+256
+00:12:23,738 --> 00:12:26,203
+Non, mais il a parlé à une femme.
+Il lui a donné une cigarette.
+
+257
+00:12:26,205 --> 00:12:28,041
+Je sais que ce n'est pas grand chose,
+
+258
+00:12:28,048 --> 00:12:29,663
+mais ton père ne le croit pas.
+
+259
+00:12:29,667 --> 00:12:30,850
+Il ne recherche pas le témoin.
+
+260
+00:12:30,858 --> 00:12:32,382
+Je suis son seul espoir...
+
+261
+00:12:34,086 --> 00:12:35,822
+à moins que tu m'aides.
+
+262
+00:12:36,857 --> 00:12:38,322
+Tu veux que je t'aide.
+
+263
+00:12:38,326 --> 00:12:40,831
+Eh bien, j'ai besoin de toi.
+
+264
+00:12:41,225 --> 00:12:43,963
+Je... je ne suis pas
+un homme de terrain.
+
+265
+00:12:44,286 --> 00:12:46,082
+Je me sers plus de ma tête.
+
+266
+00:12:46,815 --> 00:12:49,030
+Il faut que je retrouve cette femme,
+il faut que je lui parle.
+
+267
+00:12:51,507 --> 00:12:54,113
+Ton aide pourrait m'être précieuse.
+
+268
+00:12:59,457 --> 00:13:01,241
+Je ne sais pas. Peut-être.
+
+269
+00:13:01,548 --> 00:13:04,003
+Je sais pas. Beaucoup de gens
+franchissent cette porte.
+
+270
+00:13:04,008 --> 00:13:06,751
+Je ne mémorise pas les visages. Désolé.
+
+271
+00:13:06,755 --> 00:13:09,241
+Combien de temps gardez-vous
+les vidéos de surveillance ?
+
+272
+00:13:09,956 --> 00:13:11,730
+Genre pas très longtemps.
+
+273
+00:13:12,146 --> 00:13:14,122
+C'est pas branché. C'est dissuasif.
+
+274
+00:13:14,128 --> 00:13:15,791
+Vous travaillez de nuit normalement ?
+
+275
+00:13:15,797 --> 00:13:18,212
+Oui. Vous comptez
+acheter quelque chose ?
+
+276
+00:13:22,555 --> 00:13:24,591
+C'est ridicule.
+
+277
+00:13:24,817 --> 00:13:26,190
+Bienvenue "sur le terrain".
+
+278
+00:13:26,195 --> 00:13:27,552
+C'est sans espoir.
+
+279
+00:13:27,558 --> 00:13:29,300
+On ne sait pas qui est cette femme.
+
+280
+00:13:29,677 --> 00:13:31,232
+Elle peut n'avoir été
+que de passage en ville,
+
+281
+00:13:31,235 --> 00:13:33,483
+comme être la voisine
+mais partie en vacances.
+
+282
+00:13:37,027 --> 00:13:39,271
+Ou elle peut être une étudiante de
+bonne famille dont la chance a tourné
+
+283
+00:13:39,605 --> 00:13:42,272
+et qui vole des melon
+pour les mettre dans sa chemise.
+
+284
+00:13:44,267 --> 00:13:45,770
+Et là...
+
+285
+00:13:45,776 --> 00:13:47,972
+ils tournent un clip
+de Motley Crue ou quoi ?*
+
+286
+00:13:47,976 --> 00:13:49,710
+Le Strip City est juste en face.
+
+287
+00:13:49,715 --> 00:13:51,463
+A 3h les filles sont remplacées.
+
+288
+00:13:52,538 --> 00:13:54,723
+<i>C'est pas comme si Buckcherry
+l'avait écrit pour Tory.</i>
+
+289
+00:13:54,728 --> 00:13:56,811
+<i>C'est moi la plus ancienne.</i>
+
+290
+00:13:57,166 --> 00:14:00,413
+Excusez-moi. Bonsoir.
+Vous avez déjà vu cet homme ?
+
+291
+00:14:01,006 --> 00:14:02,230
+Il devait être là
+
+292
+00:14:02,236 --> 00:14:04,430
+il y a huit semaines et deux jours
+pour être exact.
+
+293
+00:14:05,606 --> 00:14:06,660
+Vous êtes quoi, vous ?
+
+294
+00:14:06,876 --> 00:14:09,071
+Des apprentis détectives
+ou un truc comme ça ?
+
+295
+00:14:09,077 --> 00:14:10,543
+Eh bien en fait, il se trouve qu'on...
+
+296
+00:14:10,545 --> 00:14:12,560
+On essaie de retrouver mon père.
+
+297
+00:14:12,565 --> 00:14:15,151
+Il est encore parti sans payer le loyer.
+
+298
+00:14:15,155 --> 00:14:17,070
+Je suis sûre qu'il a ses raisons,
+
+299
+00:14:17,377 --> 00:14:18,631
+mais si on pouvait le retrouver...
+
+300
+00:14:18,638 --> 00:14:21,750
+Tu veux une raison valable ?
+Les hommes sont des porcs.
+
+301
+00:14:22,276 --> 00:14:23,902
+Mystère résolu.
+
+302
+00:14:23,908 --> 00:14:26,071
+Sauf toi, Randy.
+
+303
+00:14:27,876 --> 00:14:29,162
+Fais voir.
+
+304
+00:14:29,165 --> 00:14:30,090
+Non.
+
+305
+00:14:30,098 --> 00:14:31,552
+Je m'en souviendrais.
+
+306
+00:14:31,555 --> 00:14:32,870
+Il y a deux mois ?
+
+307
+00:14:33,358 --> 00:14:35,972
+Une d'entre vous lui a peut-être
+taxé une cigarette ?
+
+308
+00:14:35,976 --> 00:14:37,963
+On a l'air de fumer ?
+
+309
+00:14:38,447 --> 00:14:39,123
+Oui.
+
+310
+00:14:39,128 --> 00:14:40,843
+C'est mauvais pour la peau.
+
+311
+00:14:41,187 --> 00:14:43,683
+Désolée, on ne l'a pas vu,
+mais reviens demain.
+
+312
+00:14:43,687 --> 00:14:46,550
+Tory travaille, et elle fume
+comme une vieille salope de cheminée.
+
+313
+00:14:53,528 --> 00:14:54,400
+Salut !
+
+314
+00:14:54,408 --> 00:14:55,510
+Salut.
+
+315
+00:14:55,517 --> 00:14:57,283
+Je ne pensais pas te voir.
+
+316
+00:14:57,666 --> 00:14:59,082
+Comment était l'éco ?
+
+317
+00:14:59,087 --> 00:15:00,272
+L'éco ?
+
+318
+00:15:01,386 --> 00:15:03,231
+Les mardis et jeudis, cours d'éco...
+
+319
+00:15:03,446 --> 00:15:05,442
+Ce cours qui parle d'économie ?
+
+320
+00:15:05,448 --> 00:15:06,831
+Ah oui. Pas été.
+
+321
+00:15:06,837 --> 00:15:09,050
+Mais on était d'accord... Pas de morale
+sur ma méthode universitaire.
+
+322
+00:15:09,308 --> 00:15:10,080
+Nope.
+
+323
+00:15:10,296 --> 00:15:12,312
+Je croyais que c'était
+ton seul cours aujourd'hui.
+
+324
+00:15:13,335 --> 00:15:14,220
+Oui.
+
+325
+00:15:14,228 --> 00:15:15,852
+<i>* No one knows</i>
+
+326
+00:15:17,895 --> 00:15:23,120
+<i>* I'd say it so loud if
+I knew what I ought to say *</i>
+
+327
+00:15:26,285 --> 00:15:29,422
+En bas de page, et ça y est.
+
+328
+00:15:35,148 --> 00:15:37,030
+Les assurances-vies Regency
+
+329
+00:15:37,037 --> 00:15:39,213
+vous présentent leurs condoléances,
+Mme O'Dell.
+
+330
+00:15:44,498 --> 00:15:46,043
+Ca me touche beaucoup.
+
+331
+00:15:48,308 --> 00:15:49,592
+Bonjour, m'dame.
+
+332
+00:15:49,597 --> 00:15:52,180
+On veut s'acheter un bateau ?
+
+333
+00:15:53,847 --> 00:15:54,993
+Oui.
+
+334
+00:15:55,506 --> 00:15:57,390
+Celui-là.
+
+335
+00:15:58,667 --> 00:15:59,252
+D'accord.
+
+336
+00:15:59,258 --> 00:16:00,373
+Je suis un mec,
+
+337
+00:16:00,375 --> 00:16:03,013
+je connais rien à ces trucs
+et ça m'intéresse pas,
+
+338
+00:16:03,998 --> 00:16:05,772
+mais j'ai l'impression
+de devoir de le dire.
+
+339
+00:16:05,778 --> 00:16:07,203
+Je commence à avoir de la moustache.
+
+340
+00:16:08,555 --> 00:16:08,990
+Non.
+
+341
+00:16:08,997 --> 00:16:10,742
+Alors pourquoi tu regardes mes lèvres ?
+
+342
+00:16:10,746 --> 00:16:11,780
+Parce que tu viens d'en parler.
+
+343
+00:16:11,787 --> 00:16:12,433
+Arrête !
+
+344
+00:16:13,705 --> 00:16:15,460
+J'ai vu Logan et Parker
+en train de déjeuner.
+
+345
+00:16:15,466 --> 00:16:16,662
+Ici ?
+
+346
+00:16:17,016 --> 00:16:17,911
+Oui.
+
+347
+00:16:17,916 --> 00:16:19,573
+A la cafétéria ?
+
+348
+00:16:20,057 --> 00:16:20,792
+A l'heure du déjeuner ?
+
+349
+00:16:20,796 --> 00:16:23,631
+Mon Dieu, qu'il m'écrase
+avec un camion, ça ira plus vite.
+
+350
+00:16:24,845 --> 00:16:25,953
+Je te le dis
+
+351
+00:16:25,955 --> 00:16:27,713
+parce qu'ils avaient l'air...
+
+352
+00:16:28,315 --> 00:16:31,821
+de bien s'entendre tu vois ?
+
+353
+00:16:33,888 --> 00:16:34,590
+Quoi ?
+
+354
+00:16:34,598 --> 00:16:37,262
+Je me demande juste quelle fille
+de Gilmore Girls tu es.*
+
+355
+00:16:39,475 --> 00:16:41,082
+Il a beau dire qu'il n'en mange pas,
+
+356
+00:16:41,086 --> 00:16:43,451
+à ta place je lui laisserais un beignet.
+
+357
+00:16:43,455 --> 00:16:44,522
+La dernière fois que tu as dit ça,
+
+358
+00:16:44,525 --> 00:16:46,380
+tu n'avais rien apporté.
+
+359
+00:16:46,385 --> 00:16:48,140
+j'ai failli avoir une crise cardiaque.
+
+360
+00:17:07,528 --> 00:17:08,653
+Un problème ?
+
+361
+00:17:08,658 --> 00:17:11,383
+On t'a déjà dit que
+tu es très convainquant
+
+362
+00:17:11,388 --> 00:17:12,593
+derrière ce bureau ?
+
+363
+00:17:12,596 --> 00:17:14,571
+Pas de problème donc ?
+
+364
+00:17:15,035 --> 00:17:17,760
+Je dis juste que je préfère
+quand on est au-dessus des lois.
+
+365
+00:17:18,238 --> 00:17:19,432
+D'ailleurs,
+
+366
+00:17:19,435 --> 00:17:21,641
+si je peux griller les feux rouges
+en toute impunité,
+
+367
+00:17:22,085 --> 00:17:24,082
+je pense qu'une sirène
+pourrait être utile.
+
+368
+00:17:24,485 --> 00:17:27,083
+Tu peux me dire où tu as trouvé
+le dossier de Landry ?
+
+369
+00:17:29,326 --> 00:17:30,691
+Dans le tiroir ?
+
+370
+00:17:30,697 --> 00:17:33,692
+Son témoignage peut nous aider
+à vérifier son alibi.
+
+371
+00:17:35,075 --> 00:17:36,242
+Veronica...
+
+372
+00:17:37,638 --> 00:17:40,112
+Entre les vêtements tachés de sang
+et le témoignage de Mindy,
+
+373
+00:17:40,117 --> 00:17:42,323
+les choses ne se présentent pas
+très bien pour le professeur Landry.
+
+374
+00:17:42,326 --> 00:17:44,701
+Sauf si on trouve son alibi,
+
+375
+00:17:45,306 --> 00:17:46,342
+et on va le trouver.
+
+376
+00:17:46,348 --> 00:17:48,670
+Keith, le procureur sur la 2.
+
+377
+00:17:50,177 --> 00:17:50,952
+D'accord.
+
+378
+00:17:51,695 --> 00:17:53,260
+Mais tu devrais aussi
+t'habituer au fait
+
+379
+00:17:53,265 --> 00:17:54,673
+qu'il est peut-être coupable, ma puce.
+
+380
+00:17:54,677 --> 00:17:57,402
+Penses-y.
+
+381
+00:18:00,147 --> 00:18:01,492
+Keith Mars.
+
+382
+00:18:02,717 --> 00:18:03,971
+Mindy O'Dell ?
+
+383
+00:18:03,978 --> 00:18:05,583
+Elle devait venir...
+
+384
+00:18:06,866 --> 00:18:08,791
+Comment ça introuvable ?
+
+385
+00:18:11,308 --> 00:18:13,051
+Ca ne leur suffit pas ?
+
+386
+00:18:13,057 --> 00:18:15,840
+Pourquoi Mindy s'enfuirait
+si elle est innocente ?
+
+387
+00:18:15,846 --> 00:18:18,152
+Son alibi est toujours valable,
+
+388
+00:18:18,155 --> 00:18:19,770
+même si on sait
+qu'elle lui a donné le Xanax.
+
+389
+00:18:19,778 --> 00:18:21,710
+Peut-être qu'elle a préparé
+le terrain pour le meurtrier.
+
+390
+00:18:21,817 --> 00:18:23,213
+Quoi, quelqu'un comme Botando ?
+
+391
+00:18:23,218 --> 00:18:24,972
+C'est quelqu'un qu'on peut acheter.
+
+392
+00:18:25,248 --> 00:18:26,680
+C'est pas le seul.
+
+393
+00:18:26,685 --> 00:18:28,363
+Tout le monde détestait le doyen.
+
+394
+00:18:29,558 --> 00:18:31,100
+Pas tout le monde.
+
+395
+00:18:33,055 --> 00:18:34,631
+Strip teaseuses à 12h.
+
+396
+00:18:42,576 --> 00:18:44,033
+Une cigarette.
+Je suis sûr que c'est Tory.
+
+397
+00:18:44,037 --> 00:18:46,352
+C'est vrai que tu te sers de ta tête.
+
+398
+00:18:46,357 --> 00:18:48,333
+Voyons ce que tu vaux
+sur le terrain.
+
+399
+00:19:00,148 --> 00:19:02,021
+Si tu te demandes où je suis,
+
+400
+00:19:02,025 --> 00:19:04,251
+je traîne devant une épicerie
+
+401
+00:19:04,255 --> 00:19:06,601
+en mangeant des curlys
+et en regardant des strip teaseuses.
+
+402
+00:19:06,606 --> 00:19:08,082
+Tu te drogues ?
+
+403
+00:19:08,087 --> 00:19:09,332
+- Non.
+- Bien.
+
+404
+00:19:09,337 --> 00:19:11,362
+Mindy est bel et bien partie.
+
+405
+00:19:11,368 --> 00:19:14,291
+Ses enfants sont chez ses parents
+dans le Surrey en Angleterre.
+
+406
+00:19:14,676 --> 00:19:17,261
+Ce qui ne devrait pas être un problème
+vu que c'est Landry le coupable, hein ?
+
+407
+00:19:17,266 --> 00:19:18,091
+Pas de commentaire.
+
+408
+00:19:18,096 --> 00:19:19,391
+Il est 3h du matin.
+
+409
+00:19:19,397 --> 00:19:22,143
+Est-ce que je peux savoir
+si tu vas rentrer bientôt ?
+
+410
+00:19:25,055 --> 00:19:26,211
+Il faut que j'y aille.
+
+411
+00:19:26,217 --> 00:19:27,993
+J'ai plus de curlys. Salut.
+
+412
+00:19:30,056 --> 00:19:30,883
+Excusez-moi.
+
+413
+00:19:30,887 --> 00:19:32,193
+Je peux vous poser une question ?
+
+414
+00:19:32,198 --> 00:19:34,202
+Vous avez déjà vu cet homme ?
+
+415
+00:19:35,795 --> 00:19:37,091
+Oui. Il y a quelques mois.
+
+416
+00:19:37,098 --> 00:19:38,532
+Il m'a filé une cigarette. Pourquoi ?
+
+417
+00:19:43,525 --> 00:19:46,932
+Vous dites avoir vu Hank Landry
+dans la nuit du 10 décembre ?
+
+418
+00:19:47,307 --> 00:19:49,022
+Je lui ai taxé une cigarette.
+
+419
+00:19:49,465 --> 00:19:51,862
+Vous vous souvenez d'un type
+que vous avez croisé il y a 2 mois ?
+
+420
+00:19:52,527 --> 00:19:53,760
+Il ressemblait un peu
+
+421
+00:19:53,767 --> 00:19:55,140
+à mon ex avec qui je venais de rompre,
+
+422
+00:19:55,146 --> 00:19:56,492
+et ça m'a foutu un peu les jetons.
+
+423
+00:19:56,495 --> 00:19:58,410
+Quel genre de nul quitte une fille
+
+424
+00:19:58,417 --> 00:19:59,882
+deux semaines avant Noël ?
+
+425
+00:19:59,888 --> 00:20:01,860
+Et vous êtes sûre de l'avoir vu
+
+426
+00:20:01,867 --> 00:20:03,580
+a exactement 3h30 cette nuit-là ?
+
+427
+00:20:03,835 --> 00:20:04,850
+Par là oui.
+
+428
+00:20:05,067 --> 00:20:06,503
+Vous portiez une montre, Mlle ?
+
+429
+00:20:06,865 --> 00:20:08,571
+Je m'arrête là-bas
+quand j'arrête le boulot.
+
+430
+00:20:09,556 --> 00:20:11,371
+Hé, je suis venue
+
+431
+00:20:11,817 --> 00:20:13,803
+parce qu'ils ont dit que ce type
+avec des ennuis.
+
+432
+00:20:14,087 --> 00:20:15,990
+Ca m'est égal que
+vous me croyiez ou pas.
+
+433
+00:20:20,248 --> 00:20:21,570
+Merci à vous deux.
+
+434
+00:20:21,906 --> 00:20:23,781
+J'aimerais pouvoir te mettre
+plus de 20/20.
+
+435
+00:20:25,126 --> 00:20:27,021
+Mindy a disparu.
+
+436
+00:20:27,026 --> 00:20:28,971
+Elle a touché l'argent de l'assurance
+et s'est évaporée.
+
+437
+00:20:28,975 --> 00:20:29,922
+Peut-être qu'elle
+
+438
+00:20:29,928 --> 00:20:31,953
+a organisé ça avec Steve Botando.
+
+439
+00:20:33,685 --> 00:20:35,233
+- Si vous voulez, on peut...
+- Non.
+
+440
+00:20:35,817 --> 00:20:37,791
+Non, vous avez déjà fait beaucoup.
+
+441
+00:20:37,798 --> 00:20:40,160
+Merci encore. Excellent travail.
+
+442
+00:20:42,285 --> 00:20:43,812
+Si je devais parier,
+
+443
+00:20:43,818 --> 00:20:46,051
+je dirais que mon père
+ne va pas s'en tenir là.
+
+444
+00:20:46,337 --> 00:20:48,111
+Il faut qu'on trouve
+ces enregistrements.
+
+445
+00:20:49,055 --> 00:20:50,683
+Si Mindy était avec Botando,
+
+446
+00:20:50,688 --> 00:20:53,831
+je parie que c'est Steve qui a placé
+le mouchard dans le téléphone...
+
+447
+00:20:54,106 --> 00:20:56,042
+Au cas où les choses tournent mal.
+
+448
+00:20:56,046 --> 00:20:58,380
+Les clés de Botando
+sont encore au poste.
+
+449
+00:20:58,387 --> 00:21:00,411
+- Y aurait-il un moyen...
+- "y aurait-il un moyen" ?
+
+450
+00:21:13,536 --> 00:21:14,942
+Il n'y a rien ici.
+
+451
+00:21:17,005 --> 00:21:17,470
+Quoi ?
+
+452
+00:21:17,477 --> 00:21:18,553
+Sympas, les gants.
+
+453
+00:21:18,835 --> 00:21:19,832
+Tu allais dans le salon
+
+454
+00:21:19,836 --> 00:21:21,493
+pour étrangler le colonel moutarde ?
+
+455
+00:21:21,496 --> 00:21:23,693
+On entre par effraction.
+Je ne veux pas laisser d'empreintes.
+
+456
+00:21:23,697 --> 00:21:26,101
+Utilise tes manches.
+C'est moins flippant.
+
+457
+00:21:26,865 --> 00:21:32,803
+Donc, où cacherais-tu
+des enregistrements illicites ?
+
+458
+00:21:36,478 --> 00:21:39,011
+Je ne savais pas que Night Ranger
+avait fait autant d'albums.*
+
+459
+00:21:40,667 --> 00:21:42,110
+Bon...
+
+460
+00:21:43,047 --> 00:21:45,132
+Bon, il reste ces DVDs.
+
+461
+00:21:45,735 --> 00:21:47,310
+Est-ce qu'il a "Le Mouchard" ? *
+
+462
+00:21:47,315 --> 00:21:48,140
+Non.
+
+463
+00:21:52,267 --> 00:21:54,330
+Mais il a la saison 1 de "Sur Ecoute".*
+
+464
+00:22:03,128 --> 00:22:07,472
+Le 10 décembre à 1h30 du matin.
+
+465
+00:22:07,478 --> 00:22:09,203
+La nuit du meurtre.
+
+466
+00:22:09,617 --> 00:22:10,193
+<i>Allo.</i>
+
+467
+00:22:10,195 --> 00:22:11,862
+<i>Mindy pour l'amour du ciel, reviens.</i>
+
+468
+00:22:11,865 --> 00:22:13,463
+<i>Hank, je dois y aller.</i>
+
+469
+00:22:13,465 --> 00:22:14,740
+<i>Mindy, ne sois pas stupide.</i>
+
+470
+00:22:14,747 --> 00:22:16,423
+<i>Il n'est pas lui-même,</i>
+
+471
+00:22:16,428 --> 00:22:17,903
+<i>- et il a un flingue...
+- Je ne peux pas le laisser faire.</i>
+
+472
+00:22:17,905 --> 00:22:19,560
+<i>Je ne peux pas le laisser me
+prendre tout ce que j'ai. Pas question.</i>
+
+473
+00:22:20,216 --> 00:22:21,453
+<i>Merde, je vais m'en occuper.</i>
+
+474
+00:22:21,455 --> 00:22:21,901
+<i>Comment ?</i>
+
+475
+00:22:21,906 --> 00:22:25,470
+<i>Je... je vais le faire.
+Ne t'en fais pas.</i>
+
+476
+00:22:25,475 --> 00:22:27,633
+<i>Non, Hank, c'est trop risqué.</i>
+
+477
+00:22:31,185 --> 00:22:32,882
+Quelque chose d'autre de cette nuit ?
+
+478
+00:22:33,897 --> 00:22:35,053
+Et celui-là ?
+
+479
+00:22:35,056 --> 00:22:38,391
+C'est le même jour.
+
+480
+00:22:38,706 --> 00:22:40,113
+Sûrement encore un...
+
+481
+00:22:40,895 --> 00:22:41,882
+<i>Allo.</i>
+
+482
+00:22:41,886 --> 00:22:43,901
+<i>Hank, c'est Bob Reid de Pepperdine.*</i>
+
+483
+00:22:44,128 --> 00:22:45,852
+<i>J'appelle pour une demande d'emploi</i>
+
+484
+00:22:45,855 --> 00:22:47,853
+<i>qu'on a reçue de ton assistant,
+Tim Foyle.</i>
+
+485
+00:22:48,198 --> 00:22:49,161
+<i>Il te cite en référence,</i>
+
+486
+00:22:49,168 --> 00:22:50,540
+<i>donc j'appelle pour savoir
+ce que tu en penses.</i>
+
+487
+00:22:50,547 --> 00:22:51,502
+<i>Ouais.</i>
+
+488
+00:22:51,508 --> 00:22:56,023
+<i>Tim est loyal et travailleur,</i>
+
+489
+00:22:56,028 --> 00:22:57,221
+<i>un bon assistant.</i>
+
+490
+00:22:57,227 --> 00:23:00,051
+<i>Plutôt fayot. L'esprit étroit.</i>
+
+491
+00:23:00,055 --> 00:23:01,580
+<i>Aucune imagination.</i>
+
+492
+00:23:01,806 --> 00:23:03,543
+<i>Il y a pire, mais honnêtement Bob,</i>
+
+493
+00:23:03,547 --> 00:23:06,271
+<i>je suis sûr que tu peux
+trouver mieux à Pepperdine.</i>
+
+494
+00:23:09,985 --> 00:23:10,962
+Tim...
+
+495
+00:23:12,848 --> 00:23:13,831
+Non ça va.
+
+496
+00:23:17,907 --> 00:23:19,220
+Ca ne fait rien.
+
+497
+00:23:19,817 --> 00:23:20,681
+Non, monsieur.
+
+498
+00:23:20,686 --> 00:23:22,940
+Je dis juste que si votre juge
+m'avait donné un mandat
+
+499
+00:23:23,356 --> 00:23:25,471
+pour mettre son téléphone sur écoute,
+on n'aurait pas ce problème.
+
+500
+00:23:25,927 --> 00:23:28,192
+Et j'avais demandé
+un bracelet électronique.
+
+501
+00:23:28,195 --> 00:23:29,350
+Au revoir.
+
+502
+00:23:30,628 --> 00:23:31,852
+Tu as appelé les aéroports ?
+
+503
+00:23:31,858 --> 00:23:33,880
+L.A.X. oui, mais j'attends encore
+la réponse de John Wayne.
+
+504
+00:23:35,477 --> 00:23:37,991
+Et tu n'auras rien, pélerin,
+
+505
+00:23:37,997 --> 00:23:40,521
+parce que je suis mort.*
+
+506
+00:23:40,527 --> 00:23:42,122
+Qu'est-ce que tu fais là, Veronica ?
+
+507
+00:23:42,127 --> 00:23:43,981
+Je t'apporte ça.
+
+508
+00:23:44,305 --> 00:23:46,693
+C'est un enregistrement des appels
+entre Mindy et Landry
+
+509
+00:23:46,695 --> 00:23:47,622
+la nuit du meurtre.
+
+510
+00:23:47,625 --> 00:23:49,422
+On dirait vraiment
+qu'elle est coupable, papa.
+
+511
+00:23:49,695 --> 00:23:51,801
+Je pense vraiment que le professeur
+est innocent.
+
+512
+00:23:51,807 --> 00:23:53,000
+Je suis content pour toi ma puce,
+
+513
+00:23:53,007 --> 00:23:55,212
+mais pour le moment,
+j'aimerais bien le retrouver.
+
+514
+00:23:55,215 --> 00:23:56,462
+Attends. Retrouver Landry ?
+
+515
+00:23:56,675 --> 00:23:58,610
+Oui. Il a disparu à son tour.
+
+516
+00:24:29,678 --> 00:24:32,371
+Donc tu as fini par avoir ce bateau
+dont tu as toujours rêvé.
+
+517
+00:24:34,526 --> 00:24:37,443
+<i>Je m'appelle Carrie.
+J'ai lu un de vos livres...</i>
+
+518
+00:24:38,476 --> 00:24:40,570
+Ca fait 3h que j'écoute
+les enregistrements
+
+519
+00:24:40,576 --> 00:24:41,850
+du téléphone de Landry,
+
+520
+00:24:41,858 --> 00:24:44,043
+à la recherche d'une connection
+entre Mindy
+
+521
+00:24:44,047 --> 00:24:47,183
+et j'en ai bien peur, son partenaire,
+le professeur Landry,
+
+522
+00:24:47,188 --> 00:24:48,452
+et le meurtre du doyen.
+
+523
+00:24:48,455 --> 00:24:50,110
+Ou, tout aussi important,
+
+524
+00:24:50,116 --> 00:24:51,722
+découvrir où ils sont allés.
+
+525
+00:24:52,627 --> 00:24:55,170
+<i>Je n'en peux plus de devoir me cacher.</i>
+
+526
+00:24:55,175 --> 00:24:57,720
+<i>J'aimerais qu'on puisse partir.</i>
+
+527
+00:24:57,725 --> 00:24:59,232
+<i>Ne m'en parle pas.</i>
+
+528
+00:24:59,605 --> 00:25:01,053
+<i>Une semaine à la cabane de Papa ?</i>
+
+529
+00:25:01,307 --> 00:25:03,703
+<i>Oh bébé, ce serait fabuleux.</i>
+
+530
+00:25:08,577 --> 00:25:09,180
+Allô.
+
+531
+00:25:09,186 --> 00:25:10,280
+Salut c'est moi.
+
+532
+00:25:10,288 --> 00:25:11,771
+Tu sais si le père de Landry
+
+533
+00:25:11,776 --> 00:25:14,143
+ou son grand père
+possède un chalet ?
+
+534
+00:25:14,145 --> 00:25:16,383
+Un chalet ? Je sais pas, pourquoi ?
+
+535
+00:25:16,387 --> 00:25:18,020
+Ils en parlent
+sur les enregistrements...
+
+536
+00:25:18,026 --> 00:25:20,193
+"La cabane de Papa",
+comme d'un endroit où s'échapper
+
+537
+00:25:20,198 --> 00:25:21,641
+Jamais entendu parler d'une cabane,
+
+538
+00:25:21,647 --> 00:25:22,933
+mais on peut toujours chercher.
+
+539
+00:25:23,175 --> 00:25:25,253
+Retrouve-moi chez lui.
+J'ai encore ses clés.
+
+540
+00:25:25,717 --> 00:25:26,481
+Salut.
+
+541
+00:25:28,858 --> 00:25:29,590
+Salut.
+
+542
+00:25:29,596 --> 00:25:30,690
+Salut.
+
+543
+00:25:30,696 --> 00:25:32,092
+Ca fait un bail.
+
+544
+00:25:32,097 --> 00:25:33,973
+Oui, quoi de neuf ?
+
+545
+00:25:34,637 --> 00:25:35,940
+Pas grand chose.
+
+546
+00:25:36,356 --> 00:25:38,372
+Non, c'est juste...
+c'est un peu bizarre.
+
+547
+00:25:38,377 --> 00:25:42,671
+Je sais pas si t'es au courant,
+mais Logan et moi...
+
+548
+00:25:42,677 --> 00:25:45,980
+On passe pas mal de temps ensemble.
+
+549
+00:25:46,458 --> 00:25:48,673
+En fait Parker, il faut que je file.
+
+550
+00:25:48,677 --> 00:25:50,420
+Ca te va si on se retrouve plus tard ?
+
+551
+00:25:50,428 --> 00:25:51,490
+Oui, d'accord.
+
+552
+00:25:56,985 --> 00:25:59,190
+Devine qui est allé en cours ?
+
+553
+00:25:59,627 --> 00:26:00,022
+Moi.
+
+554
+00:26:00,386 --> 00:26:02,223
+Et tu sais quoi...
+j'ai appris des trucs.
+
+555
+00:26:03,696 --> 00:26:06,523
+Où est passée la Parker délurée ?
+
+556
+00:26:06,528 --> 00:26:10,093
+En fait Logan, je...
+
+557
+00:26:12,215 --> 00:26:13,433
+Je sais pas.
+
+558
+00:26:13,656 --> 00:26:14,793
+Quoi ?
+
+559
+00:26:15,016 --> 00:26:17,811
+Avoir une amie comme Veronica...
+C'est important pour moi.
+
+560
+00:26:19,026 --> 00:26:21,321
+Je me fais du souci, tu vois ?
+
+561
+00:26:22,087 --> 00:26:22,942
+Oui.
+
+562
+00:26:24,887 --> 00:26:26,162
+Oui je sais.
+
+563
+00:26:32,055 --> 00:26:33,042
+Ok.
+
+564
+00:26:36,125 --> 00:26:37,662
+Je suppose que c'est vrai.
+
+565
+00:26:37,665 --> 00:26:39,930
+Les futurs meurtriers
+jouent aux dinosaures
+
+566
+00:26:39,935 --> 00:26:43,451
+comme tous les enfants et
+ont de vieux grands pères affectueux.
+
+567
+00:26:44,665 --> 00:26:47,540
+Tim, je crois que
+j'ai trouvé quelque chose.
+
+568
+00:26:47,546 --> 00:26:49,371
+Moi aussi.
+
+569
+00:26:52,478 --> 00:26:54,132
+C'était sur le frigo.
+
+570
+00:26:54,427 --> 00:26:57,161
+Ca ressemble plus à un bar.
+Tu crois qu'ils l'ont rénové ?
+
+571
+00:26:57,705 --> 00:26:59,382
+Tu penses que c'est le même endroit ?
+
+572
+00:27:01,017 --> 00:27:01,991
+C'est quoi ?
+
+573
+00:27:01,998 --> 00:27:04,441
+C'était dans la poubelle du bureau.
+
+574
+00:27:06,125 --> 00:27:08,383
+Qu'est-ce qu'il fait avec
+un téléphone jetable ?
+
+575
+00:27:09,555 --> 00:27:11,250
+Attrape un stylo et du papier.
+
+576
+00:27:11,745 --> 00:27:13,751
+- Qu'est-ce que tu fais ?
+- Je rappelle.
+
+577
+00:27:14,895 --> 00:27:15,652
+<i>Allô ?</i>
+
+578
+00:27:15,656 --> 00:27:18,393
+Bonjour ! Ici K-RAC FM.
+
+579
+00:27:18,396 --> 00:27:19,711
+Félicitations !
+
+580
+00:27:19,716 --> 00:27:21,711
+Vous venez de gagner le nouvel iPod.
+
+581
+00:27:21,718 --> 00:27:24,333
+Pour recevoir votre prix,
+appuyez sur "Dièse".
+
+582
+00:27:29,767 --> 00:27:30,930
+Ne quittez pas.
+
+583
+00:27:30,935 --> 00:27:33,851
+Oh ! Tu obtiens le numéro de téléphone,
+
+584
+00:27:33,855 --> 00:27:36,410
+et ensuite tu cherches l'adresse ?
+
+585
+00:27:36,418 --> 00:27:38,222
+C'est une façon de faire.
+
+586
+00:27:38,675 --> 00:27:40,850
+Bonjour c'est Anna de K-RAC.
+Comment allez-vous ?
+
+587
+00:27:41,128 --> 00:27:42,550
+<i>Bien. C'est pas une blague ?</i>
+
+588
+00:27:42,556 --> 00:27:44,923
+Si vous pouvez me donner
+notre fréquence.
+
+589
+00:27:45,377 --> 00:27:47,363
+<i>Oui. 103.1 FM.</i>
+
+590
+00:27:47,758 --> 00:27:48,932
+Et c'est gagné !
+
+591
+00:27:48,935 --> 00:27:51,222
+Il faut juste que vous
+me confirmiez vos nom et adresse,
+
+592
+00:27:51,226 --> 00:27:53,341
+et un van de K-RAC
+
+593
+00:27:53,345 --> 00:27:55,213
+vous apportera votre iPod.
+
+594
+00:27:55,217 --> 00:27:58,441
+<i>Bien sûr. J.D. Sansone.
+18 rue Wood, appart 8.</i>
+
+595
+00:28:07,346 --> 00:28:09,002
+J.D. Sansone ?
+
+596
+00:28:09,627 --> 00:28:10,940
+Oui. Vous êtes de la radio ?
+
+597
+00:28:10,947 --> 00:28:14,772
+Je m'appelle Mlle Crockett.
+Voici mon partenaire, M. Tubbs. *
+
+598
+00:28:14,777 --> 00:28:16,993
+Nous enquêtons.
+
+599
+00:28:16,997 --> 00:28:19,433
+Officiellement.
+
+600
+00:28:19,436 --> 00:28:20,212
+Sur ?
+
+601
+00:28:20,216 --> 00:28:22,420
+Comment connaissez-vous Hank Landry ?
+
+602
+00:28:22,666 --> 00:28:24,231
+Du bureau de la délinquance juvénile.
+
+603
+00:28:24,238 --> 00:28:25,243
+Vous pouvez expliquer ?
+
+604
+00:28:25,248 --> 00:28:26,900
+Mes potes et moi on s'est fait chopper
+
+605
+00:28:26,907 --> 00:28:28,661
+en train de voler des sirops
+dans une pharmacie.
+
+606
+00:28:28,667 --> 00:28:31,693
+<i>J.D. ! Tes devoirs, maintenant !</i>
+
+607
+00:28:32,385 --> 00:28:33,702
+Qui est-ce ?
+
+608
+00:28:34,285 --> 00:28:38,671
+Maman, voilà Crockett et Tubbs.
+
+609
+00:28:39,278 --> 00:28:41,403
+Ils font une enquête.
+
+610
+00:28:45,517 --> 00:28:46,931
+Donc il faisait du chantage ?
+
+611
+00:28:46,936 --> 00:28:49,551
+Hank faisait partie de la commission
+qui s'occupait de son fils.
+
+612
+00:28:49,558 --> 00:28:52,201
+Le gamin allait se faire
+envoyer dans une famille d'accueil.
+
+613
+00:28:52,495 --> 00:28:54,403
+Elle déjeunait durant sa pause
+l'autre jour
+
+614
+00:28:54,408 --> 00:28:56,793
+et Hank l'a appelée en la menaçant
+de créer des ennuis à son gosse
+
+615
+00:28:56,798 --> 00:28:58,872
+si elle n'allait pas devant l'épicerie
+
+616
+00:28:58,875 --> 00:29:01,010
+pour dire qu'elle avait vu
+Landry la nuit du meurtre.
+
+617
+00:29:01,646 --> 00:29:02,700
+Et Landry ?
+
+618
+00:29:02,707 --> 00:29:04,432
+Toujours introuvable.
+Aucune piste.
+
+619
+00:29:04,435 --> 00:29:06,171
+On est plutôt occupé,
+donc si vous pouviez...
+
+620
+00:29:06,178 --> 00:29:08,301
+C'est pourquoi on voulait
+vous amener ça.
+
+621
+00:29:10,566 --> 00:29:11,990
+Sur les enregistrements
+trouvés chez Botando,
+
+622
+00:29:11,998 --> 00:29:13,901
+Landry parle de la "cabane de Papa".
+
+623
+00:29:13,908 --> 00:29:15,333
+Comme si c'était un endroit
+où on peut se cacher.
+
+624
+00:29:15,336 --> 00:29:17,921
+On a cherché chez lui
+pour savoir où ça pouvait être.
+
+625
+00:29:18,227 --> 00:29:20,311
+Aucune document trouvé,
+mais on a trouvé ça.
+
+626
+00:29:20,316 --> 00:29:22,170
+On n'est pas sûr que ce soit
+le même endroit.
+
+627
+00:29:22,175 --> 00:29:24,000
+On sait quelque chose
+sur le père de Landry ?
+
+628
+00:29:24,006 --> 00:29:25,410
+Son grand père. Il l'appelait "Papa".
+
+629
+00:29:25,415 --> 00:29:27,112
+Brewer Landry habite en Floride.
+
+630
+00:29:27,116 --> 00:29:29,041
+Ca ressemble pas à la Floride.
+
+631
+00:29:29,375 --> 00:29:31,980
+On dirait la montagne.
+Ca ressemble à des peupliers-trembles.
+
+632
+00:29:31,988 --> 00:29:34,800
+Des peupliers-faux trembles, *
+donc les montagnes de l'ouest.
+
+633
+00:29:34,807 --> 00:29:36,713
+Et sur celle-là, on peut voir
+
+634
+00:29:36,715 --> 00:29:38,040
+la plaque d'immatriculation du camion...
+
+635
+00:29:38,046 --> 00:29:39,613
+Des lettres bleues sur un fond blanc.
+
+636
+00:29:39,618 --> 00:29:42,032
+Tout ce qu'il y a de plus commun,
+ça pourrait être partout.
+
+637
+00:29:42,246 --> 00:29:44,591
+Virginie, Alabama, Illinois, Kansas.
+
+638
+00:29:44,597 --> 00:29:46,452
+Des peupliers-faux trembles,
+dans un Etat de l'ouest.
+
+639
+00:29:46,456 --> 00:29:46,963
+D'accord.
+
+640
+00:29:46,965 --> 00:29:50,802
+Donc, l'Oregon, Washington,
+le Wisconsin, Utah, ou la Californie.
+
+641
+00:29:50,807 --> 00:29:53,040
+Les lettres pour la Californie
+et Washington sont rouges.
+
+642
+00:29:53,046 --> 00:29:55,383
+Pas sur les plaques spéciales WWF. *
+
+643
+00:29:55,385 --> 00:29:56,810
+Ce pourrait être une baleine.
+
+644
+00:29:56,816 --> 00:29:59,023
+Ou un lac, comme le Crater Lake...
+
+645
+00:29:59,028 --> 00:30:00,603
+une plaque de l'Oregon.
+
+646
+00:30:00,605 --> 00:30:02,780
+Ou "Papa" pourrait faire référence
+à Ernest Hemingway. *
+
+647
+00:30:06,106 --> 00:30:07,630
+La cabane de Papa.
+
+648
+00:30:16,045 --> 00:30:18,542
+"Le cabanon de Papa, à Cabo San Lucas.
+
+649
+00:30:18,548 --> 00:30:22,542
+Echappez-vous là où Ernest Hemingway
+adorait s'échapper."
+
+650
+00:30:36,405 --> 00:30:38,683
+* Y acaba yo mostrar dentro *
+
+651
+00:30:38,687 --> 00:30:40,682
+* para el campo conocer *
+
+652
+00:30:40,686 --> 00:30:42,843
+* y acaba yo mostrar dentro
+
+653
+00:30:42,846 --> 00:30:46,001
+* oh, oh, para el campo conocer *
+
+654
+00:30:51,588 --> 00:30:52,472
+Vous avez quelque chose ?
+
+655
+00:30:52,476 --> 00:30:54,253
+Le manager a reconnu la photo.
+
+656
+00:30:54,257 --> 00:30:55,552
+L'homme n'a pas loué la chambre.
+
+657
+00:30:55,556 --> 00:30:57,451
+Il a juste payé pour le bateau.
+
+658
+00:31:46,486 --> 00:31:47,141
+Y'a quelqu'un ?
+
+659
+00:31:54,345 --> 00:31:56,171
+Je ne l'ai pas tué, Keith.
+
+660
+00:31:56,176 --> 00:31:58,123
+Il faut que vous sachiez que
+ce petit voyage à Mexico
+
+661
+00:31:58,125 --> 00:32:01,382
+peut me faire prendre cette
+déclaration avec circonspection.
+
+662
+00:32:02,155 --> 00:32:03,663
+C'était elle.
+
+663
+00:32:03,955 --> 00:32:04,942
+Mindy ?
+
+664
+00:32:04,946 --> 00:32:06,420
+Elle a fait le coup, Keith.
+
+665
+00:32:06,848 --> 00:32:09,843
+Après tout ce que j'ai fait
+pour elle, elle m'a piégé.
+
+666
+00:32:09,846 --> 00:32:13,073
+J'ai essayé de la couvrir en faisant
+porter le chapeau à Botando.
+
+667
+00:32:14,567 --> 00:32:15,651
+Le clavier ?
+
+668
+00:32:15,655 --> 00:32:18,072
+J'ai juste échangé le sien
+avec celui du doyen.
+
+669
+00:32:18,077 --> 00:32:19,992
+Ca aurait pu marcher aussi.
+
+670
+00:32:21,077 --> 00:32:23,531
+Mais ensuite tu es devenu shérif.
+
+671
+00:32:25,448 --> 00:32:27,781
+Où est-elle, Hank ? Où est Mindy ?
+
+672
+00:32:29,158 --> 00:32:30,882
+Il y a eu un accident.
+
+673
+00:32:31,286 --> 00:32:32,653
+Je voulais juste parler,
+
+674
+00:32:32,658 --> 00:32:35,992
+pour découvrir comment elle
+pouvait me trahir comme ça.
+
+675
+00:32:35,995 --> 00:32:38,171
+Elle a dû penser que j'allais la tuer.
+
+676
+00:32:40,086 --> 00:32:41,740
+On s'est battu...
+
+677
+00:32:42,486 --> 00:32:43,520
+Et je l'ai frappée,
+
+678
+00:32:43,525 --> 00:32:45,112
+et elle est tombée...
+
+679
+00:32:47,807 --> 00:32:48,793
+... par dessus bord.
+
+680
+00:32:51,726 --> 00:32:53,100
+Il faisait sombre.
+
+681
+00:32:53,107 --> 00:32:55,131
+J'ai cherché, mais...
+
+682
+00:32:57,455 --> 00:32:58,763
+Mais quoi ?
+
+683
+00:32:59,706 --> 00:33:01,540
+Où est-elle, Hank ?
+
+684
+00:33:02,276 --> 00:33:04,431
+Je vous le jure...
+
+685
+00:33:04,658 --> 00:33:08,811
+Je vous le jure, Keith,
+c'était un accident.
+
+686
+00:33:26,326 --> 00:33:27,713
+Mars.
+
+687
+00:33:27,715 --> 00:33:29,610
+On s'appelle par nos noms
+de famille maintenant ?
+
+688
+00:33:29,618 --> 00:33:32,141
+On a dépassé le stade
+des pseudos unisexes ?
+
+689
+00:33:32,146 --> 00:33:34,533
+J'ai essayé de t'appeler "marrante"
+mais ça ne t'allait pas.
+
+690
+00:33:35,695 --> 00:33:37,300
+Tu sais, il y a des gens
+qui ont peur de toi.
+
+691
+00:33:38,797 --> 00:33:40,520
+Alors, quoi de neuf, Echolls ?
+
+692
+00:33:40,916 --> 00:33:42,343
+Pas grand chose. Juste, euh...
+
+693
+00:33:45,156 --> 00:33:48,140
+Je voulais te... demander quelque chose.
+
+694
+00:33:48,146 --> 00:33:49,953
+C'est un peu bizarre, mais...
+
+695
+00:33:52,105 --> 00:33:53,720
+Je voulais demander à Parker
+de sortir avec moi,
+
+696
+00:33:53,725 --> 00:33:55,683
+et je voulais m'assurer que
+cela ne te posait pas de problème.
+
+697
+00:33:56,128 --> 00:33:58,201
+Veronica, tu viens ?
+
+698
+00:33:58,206 --> 00:34:00,251
+Oui. Une seconde.
+
+699
+00:34:01,868 --> 00:34:04,942
+Bien sûr. Merci d'avoir demandé.
+
+700
+00:34:05,155 --> 00:34:06,873
+Evidemment. Je sais
+qu'on est amis.
+
+701
+00:34:07,656 --> 00:34:08,320
+Ouais.
+
+702
+00:34:10,785 --> 00:34:12,001
+A plus tard.
+
+703
+00:34:12,226 --> 00:34:13,592
+Bonne chance.
+
+704
+00:34:16,338 --> 00:34:18,501
+Merci d'être venue.
+
+705
+00:34:25,446 --> 00:34:29,591
+Depuis que Landry a été, tu sais, arrêté...
+
+706
+00:34:30,356 --> 00:34:33,932
+Eh bien, tout le monde a un
+peu été pris par surprise,
+
+707
+00:34:33,938 --> 00:34:35,901
+y compris moi, comme tu le sais.
+
+708
+00:34:35,908 --> 00:34:39,552
+Oui. Ca a un peu pris tout
+le monde par surprise.
+
+709
+00:34:39,555 --> 00:34:41,571
+Enfin bref, on m'a demandé
+de reprendre ses classes
+
+710
+00:34:41,578 --> 00:34:43,202
+jusqu'à ce qu'ils trouvent un remplacant,
+
+711
+00:34:43,205 --> 00:34:45,731
+et la somme de boulot
+est assez conséquente,
+
+712
+00:34:45,738 --> 00:34:49,260
+et comme tu es un peu... l'élève modèle,
+
+713
+00:34:49,267 --> 00:34:52,970
+J'espérais que tu acceptes,
+euh, d'être mon assistante
+
+714
+00:34:54,416 --> 00:34:57,380
+le temps que j'arrive à gérer tout ça.
+
+715
+00:34:57,808 --> 00:34:59,920
+Parce que ton aide serait
+vraiment la bienvenue.
+
+716
+00:35:00,136 --> 00:35:01,561
+Bien sûr.
+
+717
+00:35:01,568 --> 00:35:03,093
+Super.
+
+718
+00:35:05,367 --> 00:35:07,180
+Tu peux aller chercher
+mon linge au pressing ?
+
+719
+00:35:12,575 --> 00:35:14,752
+Comme vous le savez probablement,
+
+720
+00:35:15,576 --> 00:35:19,270
+professeur Landry n'est plus avec nous.
+
+721
+00:35:19,275 --> 00:35:22,003
+Je serai pour le moment
+votre instructeur.
+
+722
+00:35:22,655 --> 00:35:25,191
+Donc si vous récupérez les
+polycopiés sur le site web...
+
+723
+00:35:25,456 --> 00:35:26,230
+Oui ?
+
+724
+00:35:26,736 --> 00:35:28,173
+Que s'est-il passé ?
+
+725
+00:35:28,175 --> 00:35:29,051
+C'est-à-dire ?
+
+726
+00:35:29,056 --> 00:35:31,661
+Notre prof a assassiné le doyen.
+
+727
+00:35:31,666 --> 00:35:33,091
+On ne pourrait pas en discuter ?
+
+728
+00:35:33,578 --> 00:35:36,971
+On est en criminologie, non ?
+
+729
+00:35:37,186 --> 00:35:39,303
+Eh bien, c'est un peu
+embarrassant pour moi...
+
+730
+00:35:42,995 --> 00:35:44,520
+... mais ça me va.
+
+731
+00:35:45,586 --> 00:35:47,630
+C'est de la criminologie.
+
+732
+00:35:48,125 --> 00:35:52,221
+Donc, Landry tue O'Dell.
+
+733
+00:35:52,895 --> 00:35:54,761
+Un crime passionnel ?
+
+734
+00:35:55,236 --> 00:35:56,690
+Une opportunité ?
+
+735
+00:35:57,097 --> 00:35:58,261
+Par préméditation ?
+
+736
+00:35:58,268 --> 00:35:59,361
+Que sait-on ?
+
+737
+00:35:59,367 --> 00:36:01,632
+La passion était clairement un facteur.
+
+738
+00:36:01,927 --> 00:36:03,712
+La femme du doyen O'Dell, Mindy,
+
+739
+00:36:03,718 --> 00:36:05,963
+et Landry étaient amants.
+
+740
+00:36:05,968 --> 00:36:08,270
+Le doyen les a surpris,
+les a menacés de ruiner leur vie,
+
+741
+00:36:08,276 --> 00:36:09,511
+de détruire la carrière de Landry.
+
+742
+00:36:09,516 --> 00:36:11,380
+Donc les raisons sont plutôt classiques...
+
+743
+00:36:11,386 --> 00:36:12,883
+Est-il vrai qu'il a eu l'idée
+
+744
+00:36:12,886 --> 00:36:15,071
+de l'un de nos devoirs
+sur le meurtre parfait ?
+
+745
+00:36:16,816 --> 00:36:17,561
+C'est possible.
+
+746
+00:36:17,568 --> 00:36:19,693
+Encore une fois, l'opportunité.
+
+747
+00:36:20,346 --> 00:36:22,813
+L'idée dans ce devoir a probablement
+conditionné la situation.
+
+748
+00:36:22,815 --> 00:36:25,282
+Il savait qu'il avait peu
+de temps pour agir.
+
+749
+00:36:25,286 --> 00:36:28,832
+Il savait que le doyen
+était ivre, contrarié,
+
+750
+00:36:30,196 --> 00:36:32,230
+et qu'il avait un pistolet.
+
+751
+00:36:32,967 --> 00:36:37,340
+Donc un faux suicide
+convenait aux circonstances.
+
+752
+00:36:37,347 --> 00:36:39,671
+Y a t-il des chances que la femme du
+doyen l'ait aidé pour faire le coup ?
+
+753
+00:36:39,675 --> 00:36:40,663
+Il était drogué, non ?
+
+754
+00:36:41,086 --> 00:36:44,120
+Un antidépresseur, oui,
+mais il avait une ordonnance.
+
+755
+00:36:44,415 --> 00:36:46,952
+Maintenant, était-il possible
+qu'ils soient de connivence ?
+
+756
+00:36:47,508 --> 00:36:48,453
+Oui.
+
+757
+00:36:48,905 --> 00:36:50,612
+Le saura-t-on un jour ?
+
+758
+00:36:50,617 --> 00:36:53,960
+Avec Mindy décédée et Landry qui
+ne parle pas, probablement jamais.
+
+759
+00:36:55,457 --> 00:36:56,790
+Landry était un homme intelligent,
+
+760
+00:36:56,796 --> 00:36:58,762
+Mais les vêtements couverts de sang
+qu'il pensait avoir incinérés
+
+761
+00:36:58,766 --> 00:37:00,461
+sont restés coincés dans la glissière,
+
+762
+00:37:01,318 --> 00:37:03,511
+Et une fois qu'ils ont été
+trouvés, tout s'est éclairci.
+
+763
+00:37:04,138 --> 00:37:05,933
+Ce qui est également
+intéressant dans cette affaire
+
+764
+00:37:05,936 --> 00:37:09,173
+c'est qu'une fois qu'un auteur des
+faits commence à improviser,
+
+765
+00:37:09,175 --> 00:37:11,973
+son travail devient plus négligé.
+
+766
+00:37:12,517 --> 00:37:14,513
+Ils ont trouvé les vêtements
+couverts de sang,
+
+767
+00:37:14,515 --> 00:37:18,153
+Donc Landry a d'abord essayé de faire porter
+le chapeau à l'ex-mari de Mme O'Dell.
+
+768
+00:37:18,407 --> 00:37:20,562
+Puis, quand il a été arrêté...
+
+769
+00:37:20,565 --> 00:37:24,121
+dans cette pièce comme vous
+vous en souvenez tous...
+
+770
+00:37:24,496 --> 00:37:26,641
+Il s'est créé un alibi.
+
+771
+00:37:26,857 --> 00:37:27,652
+Comment ?
+
+772
+00:37:27,658 --> 00:37:29,070
+Il a appelé une femme dont il surveille le fils
+
+773
+00:37:29,078 --> 00:37:30,853
+qui est en liberté conditionnelle.
+
+774
+00:37:30,857 --> 00:37:32,650
+En fait, ça aurait pu marcher,
+
+775
+00:37:33,225 --> 00:37:36,080
+si le téléphone qu'il avait utilisé pour
+les appeler n'avait pas été retrouvé.
+
+776
+00:37:36,086 --> 00:37:39,030
+Encore une fois, la chance.
+
+777
+00:37:40,556 --> 00:37:43,062
+Si vous vous souvenez de la lecture de Holst,
+
+778
+00:37:43,425 --> 00:37:44,502
+80% de...
+
+779
+00:37:47,227 --> 00:37:48,481
+Veronica ?
+
+780
+00:37:48,767 --> 00:37:49,791
+Quand ?
+
+781
+00:37:50,015 --> 00:37:51,470
+Quand quoi ?
+
+782
+00:37:51,476 --> 00:37:53,173
+Quand l'a-t-il appelée ?
+
+783
+00:37:53,527 --> 00:37:55,171
+Landry a été arrêté ici
+
+784
+00:37:55,175 --> 00:37:57,233
+et amené directement chez le shérif.
+
+785
+00:37:57,996 --> 00:38:00,601
+Quand a-t-il eu le temps de passer
+son appel pour faire du chantage
+
+786
+00:38:00,607 --> 00:38:01,643
+Pour créer son alibi ?
+
+787
+00:38:01,648 --> 00:38:04,600
+Quelqu'un a émis la possibilité
+
+788
+00:38:04,607 --> 00:38:06,202
+que Mindy et lui soient de connivence.
+
+789
+00:38:06,446 --> 00:38:07,732
+Elle aurait pu appeler alors que...
+
+790
+00:38:07,736 --> 00:38:09,301
+C'était d'une voix d'homme au téléphone.
+
+791
+00:38:09,307 --> 00:38:11,173
+Alors c'est possible qu'il
+ait appelé plus tôt,
+
+792
+00:38:11,517 --> 00:38:12,641
+anticipant son arrestation.
+
+793
+00:38:12,646 --> 00:38:14,591
+Rappelez-vous...
+C'est un homme qui, à cet instant,
+
+794
+00:38:14,597 --> 00:38:16,740
+savait que son crime avait été découvert.
+
+795
+00:38:17,158 --> 00:38:19,132
+Il savait que Mindy était mise en examen
+
+796
+00:38:19,135 --> 00:38:21,392
+et qu'elle avait envoyé ses enfants
+à des parents en Angleterre.
+
+797
+00:38:22,977 --> 00:38:25,192
+Il pouvait facilement supposer
+qu'elle l'avait dénoncé.
+
+798
+00:38:25,197 --> 00:38:29,202
+Enfin bref, dans 80% des cas,
+
+799
+00:38:30,347 --> 00:38:32,513
+la preuve capitale
+
+800
+00:38:32,516 --> 00:38:37,522
+a été obtenue en dehors des méthodes
+habituelles de la police...
+
+801
+00:38:40,446 --> 00:38:42,241
+ce qui est un point de vue intéressant
+de... de Holst...
+
+802
+00:38:42,245 --> 00:38:44,131
+Je pense que ce qu'il veut
+dire c'est que...
+
+803
+00:38:47,786 --> 00:38:49,431
+Veronica ?
+
+804
+00:38:51,218 --> 00:38:54,220
+Comment avez-vous su qu'elle
+envoyait ses enfants en Angleterre ?
+
+805
+00:38:55,245 --> 00:38:56,951
+Je n'en suis en fait pas sûr, mais...
+
+806
+00:38:56,957 --> 00:38:59,122
+Donc celui qui a mis sur écoute
+le téléphone de Landry
+
+807
+00:38:59,126 --> 00:39:02,320
+savait que le doyen avait surpris
+Mindy et Landry ensemble
+
+808
+00:39:02,327 --> 00:39:04,040
+et que le doyen était ivre dans son bureau ?
+
+809
+00:39:04,046 --> 00:39:06,141
+Eh bien, si tu suggères que
+Botando les a tués,
+
+810
+00:39:06,145 --> 00:39:07,151
+c'est possible.
+
+811
+00:39:07,155 --> 00:39:08,651
+Si tu remontes l'intrigue
+jusqu'au...
+
+812
+00:39:08,657 --> 00:39:10,312
+Donc cette personne serait
+aussi au courant
+
+813
+00:39:10,316 --> 00:39:12,330
+que le professeur Landry
+vous a fermé les portes
+
+814
+00:39:12,338 --> 00:39:14,282
+pour un poste d'enseignant à Pepperdine.
+
+815
+00:39:14,285 --> 00:39:16,701
+Oh mon Dieu.
+T'as entendu ce qu'elle vient de dire ?
+
+816
+00:39:16,707 --> 00:39:18,201
+Oui, s'ils avaient écouté...
+
+817
+00:39:18,208 --> 00:39:19,493
+tous les enregistrements...
+
+818
+00:39:21,875 --> 00:39:23,511
+ce qui semble être ton cas.
+
+819
+00:39:23,845 --> 00:39:24,821
+Je ne suis...
+
+820
+00:39:26,175 --> 00:39:27,612
+Je ne suis pas sûr de comprendre.
+
+821
+00:39:27,618 --> 00:39:29,350
+Moi oui.
+
+822
+00:39:30,138 --> 00:39:31,902
+Quand mon père a appelé pour me dire
+
+823
+00:39:31,907 --> 00:39:34,272
+que Mindy avait envoyé ses enfants
+chez des parents en Angleterre,
+
+824
+00:39:34,277 --> 00:39:35,730
+vous ne pouviez pas entendre.
+
+825
+00:39:36,177 --> 00:39:38,620
+Vous étiez dans l'épicerie
+à parler à une strip-teaseuse.
+
+826
+00:39:41,016 --> 00:39:45,172
+Vous avez mis sur écoute mon
+téléphone ainsi que celui de Landry.
+
+827
+00:39:45,398 --> 00:39:47,343
+Vous saviez qu'il n'avait pas appuyé
+votre demande d'emploi.
+
+828
+00:39:47,345 --> 00:39:48,941
+Vous saviez que le doyen l'avait menacé.
+
+829
+00:39:48,947 --> 00:39:51,100
+Vous saviez que le doyen
+était défoncé au Xanax
+
+830
+00:39:51,105 --> 00:39:52,903
+et coincé dans son bureau,
+
+831
+00:39:52,906 --> 00:39:55,313
+et vous aviez accès aux
+vêtements de Landry.
+
+832
+00:39:55,315 --> 00:39:59,343
+Vous avez assassiné le doyen O'Dell
+pour détruire professeur Landry...
+
+833
+00:40:00,177 --> 00:40:02,621
+parce qu'il vous a utilisé puis trahi.
+
+834
+00:40:02,878 --> 00:40:05,703
+Et quand il a dit qu'il avait un alibi,
+vous l'avez maquillé,
+
+835
+00:40:05,708 --> 00:40:08,601
+afin de vous assurer qu'il tomberait...
+
+836
+00:40:09,486 --> 00:40:12,920
+et qu'il changerait d'avis sur
+votre intelligence limitée.
+
+837
+00:40:22,397 --> 00:40:24,372
+<i>Et un retournement de situation</i>
+
+838
+00:40:24,378 --> 00:40:26,510
+<i>dans une enqûete local d'assassinat,</i>
+
+839
+00:40:26,517 --> 00:40:27,832
+<i>Timothy Foyle,</i>
+
+840
+00:40:27,835 --> 00:40:31,082
+<i>l'assistant de l'accusé
+pour meutre Hank Landry,</i>
+
+841
+00:40:31,086 --> 00:40:34,141
+<i>a confessé le meurtre de Cyrus O'Dell.</i>
+
+842
+00:40:34,147 --> 00:40:36,263
+<i>Le gros inconvénient de la justice.</i>
+
+843
+00:40:36,265 --> 00:40:38,922
+<i>Ca fait du bien mais ça ne change rien.</i>
+
+844
+00:40:38,928 --> 00:40:41,591
+<i>Un tueur est en prison mais
+le doyen est toujours mort,</i>
+
+845
+00:40:41,907 --> 00:40:44,750
+<i>ce qui reste fondamentalement injuste.</i>
+
+846
+00:40:47,756 --> 00:40:48,970
+Tu as obtenu une confession ?
+
+847
+00:40:48,975 --> 00:40:50,641
+Je suis trop bon.
+
+848
+00:40:50,915 --> 00:40:52,153
+Alors c'est vrai ce qu'ils disent
+
+849
+00:40:52,158 --> 00:40:53,760
+il y a un nouveau shérif en ville ?
+
+850
+00:40:53,977 --> 00:40:56,392
+Jusqu'à l'élection en tout cas.
+
+851
+00:40:58,196 --> 00:40:58,863
+Qu'est-ce que tu cuisines ?
+
+852
+00:40:58,866 --> 00:41:00,042
+De la viande et des pommes de terre.
+
+853
+00:41:00,405 --> 00:41:02,752
+J'ai lu quelque part que c'est ce
+que les vrais hommes mangent.
+
+854
+00:41:02,758 --> 00:41:04,600
+Il y a un vrai homme qui doit arriver ?
+
+855
+00:41:05,827 --> 00:41:07,392
+Alors, que va devenir Landry ?
+
+856
+00:41:07,397 --> 00:41:09,291
+Il va être jugé pour
+homicide involontaire.
+
+857
+00:41:09,298 --> 00:41:11,723
+Il a tué Mindy O'Dell.
+Il s'est aussi confessé.
+
+858
+00:41:11,727 --> 00:41:14,321
+Bon sang. T'arrives à faire
+confesser tout le monde.
+
+859
+00:41:14,327 --> 00:41:16,042
+Je pense que c'est l'uniforme.
+
+860
+00:41:16,048 --> 00:41:18,360
+Tu as quelque chose à confesser ?
+
+861
+00:41:18,688 --> 00:41:20,682
+Oui. Tu m'embarasses.
+
+862
+00:41:20,685 --> 00:41:23,200
+Donne-moi ma viande, femme.
+
+863
+00:41:23,766 --> 00:41:25,330
+<i>Et une autre nouvelle,</i>
+
+864
+00:41:25,335 --> 00:41:27,340
+<i>un homme d'affaires de
+San Diego a été trouvé mort</i>
+
+865
+00:41:27,348 --> 00:41:28,953
+<i>dans sa maison en bord de mer.</i>
+
+866
+00:41:28,956 --> 00:41:31,551
+Eteins-moi ça, s'il te plaît.
+
+867
+00:41:31,555 --> 00:41:34,223
+<i>La découverte a été faite
+par son sécrétaire personnel...</i>
+
+868
+00:41:34,228 --> 00:41:35,472
+Tu sais que je n'aime
+pas que tu t'exposes
+
+869
+00:41:35,477 --> 00:41:36,610
+à tous ces crimes et cette violence.
+
+870
+00:41:36,616 --> 00:41:38,430
+Ca va te pervertir l'esprit.
+
+871
+00:41:45,106 --> 00:41:46,652
+De qui je me moque ?
+
+872
+00:41:49,058 --> 00:41:51,602
+<i>La police doit encore rendre
+son jugement dans cette affaire.</i>
+
+873
+00:41:51,606 --> 00:41:53,601
+Transcript: Raceman
+Synchro: BaBoU
+
+874
+00:41:53,607 --> 00:41:55,800
+Traduction: Dest, Unfold / Relec: Flovap
+- www.forom.com -
+

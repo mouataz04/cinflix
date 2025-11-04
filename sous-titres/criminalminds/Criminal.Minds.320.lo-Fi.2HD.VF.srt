@@ -1,0 +1,3769 @@
+1
+00:00:21,400 --> 00:00:22,500
+Taxi !
+
+2
+00:01:22,800 --> 00:01:25,700
+<i>Arrêt Spring Street.</i>
+
+3
+00:01:26,100 --> 00:01:28,500
+<i>Spring Street.</i>
+
+4
+00:01:30,100 --> 00:01:31,200
+Excusez-moi.
+
+5
+00:01:31,900 --> 00:01:33,100
+S'il vous plaît !
+
+6
+00:01:58,800 --> 00:01:59,800
+Hotch.
+
+7
+00:02:01,100 --> 00:02:02,100
+Salut.
+
+8
+00:02:02,400 --> 00:02:03,600
+Non, je suis encore au bureau,
+
+9
+00:02:03,600 --> 00:02:05,100
+je récupère quelques affaires.
+
+10
+00:02:05,900 --> 00:02:07,900
+Attends, attends.
+
+11
+00:02:08,100 --> 00:02:09,400
+Reprends depuis le début.
+
+12
+00:02:10,700 --> 00:02:12,500
+Non, on connaît tous cette affaire.
+
+13
+00:02:13,800 --> 00:02:15,000
+Quand a eu lieu le dernier meurtre ?
+
+14
+00:02:16,100 --> 00:02:18,000
+Le mode opératoire a changé ?
+
+15
+00:02:20,900 --> 00:02:22,700
+Tu seras sur quel vol ?
+
+16
+00:02:24,000 --> 00:02:25,800
+Non, je vais venir te chercher.
+
+17
+00:02:27,100 --> 00:02:28,300
+Ouais, exactement.
+
+18
+00:02:28,300 --> 00:02:31,200
+Je vais pas te laisser choisir
+un berceau sans moi !
+
+19
+00:02:32,300 --> 00:02:33,800
+J.J., tu peux rassembler l'équipe ?
+
+20
+00:02:33,800 --> 00:02:34,900
+On a une affaire.
+
+21
+00:02:35,200 --> 00:02:36,900
+Je n'ai pas vu de dossier.
+
+22
+00:02:37,200 --> 00:02:38,600
+On me l'a proposée directement.
+
+23
+00:02:42,800 --> 00:02:45,400
+Attends un peu avant de
+partir à l'aéroport.
+
+24
+00:02:45,700 --> 00:02:47,300
+Je t'appelle dès que possible.
+
+25
+00:02:48,400 --> 00:02:49,400
+À plus tard.
+
+26
+00:02:57,100 --> 00:02:57,900
+Ne vous installez pas.
+
+27
+00:02:57,900 --> 00:02:59,500
+On aura le temps pour
+un débriefing dans l'avion.
+
+28
+00:02:59,500 --> 00:03:00,300
+On va où ?
+
+29
+00:03:00,300 --> 00:03:00,900
+À New York.
+
+30
+00:03:00,900 --> 00:03:02,000
+Cinq morts en deux semaines.
+
+31
+00:03:02,000 --> 00:03:03,400
+Il était temps qu'ils nous appellent.
+
+32
+00:03:03,400 --> 00:03:04,700
+Je veux emmener Garcia.
+
+33
+00:03:04,700 --> 00:03:07,100
+Ils nous laisseront peut-être accéder
+à leur système de surveillance.
+
+34
+00:03:07,200 --> 00:03:07,900
+Qu'est-ce qu'on sait ?
+
+35
+00:03:07,900 --> 00:03:09,300
+Les meurtres ont lieu
+en milieu de journée,
+
+36
+00:03:09,300 --> 00:03:11,100
+une balle dans la tête, calibre .22.
+
+37
+00:03:11,100 --> 00:03:12,100
+Des témoins ?
+
+38
+00:03:12,100 --> 00:03:12,600
+Non.
+
+39
+00:03:12,600 --> 00:03:14,900
+Un calibre .22 ne produit
+que 152 décibels.
+
+40
+00:03:14,900 --> 00:03:17,400
+Les rues de New York et le métro
+dépassent les 100 dB tous les jours.
+
+41
+00:03:17,400 --> 00:03:19,100
+Les gens n'ont peut-être même pas
+entendu la détonation
+
+42
+00:03:19,100 --> 00:03:21,000
+avant que le tueur ne quitte
+les lieux du crime.
+
+43
+00:03:21,000 --> 00:03:22,000
+Ça ressemble à la mafia.
+
+44
+00:03:22,000 --> 00:03:24,000
+Sauf qu'aucun d'entre eux n'a de liens
+avec le crime organisé.
+
+45
+00:03:24,000 --> 00:03:25,700
+Ils sont liés entre eux ?
+
+46
+00:03:25,700 --> 00:03:26,600
+On n'a rien trouvé
+qui le prouve.
+
+47
+00:03:26,600 --> 00:03:28,200
+Et la communication avec la police ?
+
+48
+00:03:28,300 --> 00:03:29,600
+Le tueur a essayé de prendre contact ?
+
+49
+00:03:29,600 --> 00:03:32,000
+Les caméras de surveillance
+ont filmé 3 des meurtres.
+
+50
+00:03:32,000 --> 00:03:33,200
+Voici le dernier.
+
+51
+00:03:34,300 --> 00:03:35,800
+C'est la meilleure image
+qu'ils aient ?
+
+52
+00:03:35,900 --> 00:03:37,000
+Ce sont toutes les mêmes.
+
+53
+00:03:37,100 --> 00:03:38,700
+Il porte une capuche et garde
+la tête baissée.
+
+54
+00:03:38,700 --> 00:03:39,800
+Il est audacieux.
+
+55
+00:03:39,800 --> 00:03:41,600
+Des zones passantes en plein jour.
+
+56
+00:03:41,600 --> 00:03:43,200
+Les victimes sont donc
+choisies au hasard ?
+
+57
+00:03:43,200 --> 00:03:44,400
+On dirait bien.
+
+58
+00:03:45,300 --> 00:03:47,100
+Son of Sam* est de retour.
+
+59
+00:03:51,200 --> 00:03:56,200
+- Criminal Minds Saison 3, épisode 20 -
+"Lo-Fi"
+
+60
+00:03:56,450 --> 00:04:01,450
+la <font color=red>H&S Team</font> pour www.SeriesSub.com
+
+61
+00:04:01,700 --> 00:04:06,700
+Traduction/relecture : Ashtrayheart
+Relecture/resynchro : PerkosDhed
+
+62
+00:04:06,950 --> 00:04:09,450
+Transcript: www.ragbear.com
+
+63
+00:04:10,851 --> 00:04:13,351
+la <font color=red>H&S Team</font> vous
+souhaite de bonnes vacances
+
+64
+00:04:13,352 --> 00:04:15,852
+et vous donne rendez vous
+en septembre pour la saison 4.
+
+65
+00:04:21,500 --> 00:04:22,800
+<i>Voltaire a dit :</i>
+
+66
+00:04:22,800 --> 00:04:25,100
+<i>"Celui qui a des extases, des visions,</i>
+
+67
+00:04:25,100 --> 00:04:27,200
+<i>qui prend des songes pour des réalités,</i>
+
+68
+00:04:27,200 --> 00:04:28,400
+<i>est un enthousiaste ;</i>
+
+69
+00:04:28,400 --> 00:04:30,900
+<i>celui qui soutient sa folie par le meurtre</i>
+
+70
+00:04:30,900 --> 00:04:32,200
+<i>est un fanatique".</i>
+
+71
+00:04:32,200 --> 00:04:35,800
+Pourquoi je voyage avec vous
+une fois tous les 36 du mois ?
+
+72
+00:04:36,300 --> 00:04:37,700
+Crois-moi, on s'en lasse.
+
+73
+00:04:37,700 --> 00:04:41,600
+Bien sûr, comme si on se lassait
+des spas et des hôtels 5 étoiles !
+
+74
+00:04:41,600 --> 00:04:42,900
+Tu te souviens de la fois
+où on a embarqué
+
+75
+00:04:42,900 --> 00:04:44,700
+et où les boissons n'étaient
+pas fraîches ?
+
+76
+00:04:44,700 --> 00:04:46,200
+Oh, j'ai failli quitter l'U.A.C.
+ce jour-là !
+
+77
+00:04:46,200 --> 00:04:46,900
+D'accord, vous savez quoi ?
+
+78
+00:04:46,900 --> 00:04:48,000
+Plaisantez tant que vous voudrez,
+
+79
+00:04:48,000 --> 00:04:50,600
+moi, je ne quitte pas cet avion !
+
+80
+00:04:53,200 --> 00:04:54,200
+Les victimes ?
+
+81
+00:04:54,500 --> 00:04:56,500
+Elles ont toutes été tuées
+dans des quartiers différents.
+
+82
+00:04:56,500 --> 00:04:57,700
+Hell's Kitchen, Murray Hill,
+
+83
+00:04:57,700 --> 00:04:59,200
+Lower Side, China Town,
+
+84
+00:04:59,200 --> 00:04:59,900
+East Harlem.
+
+85
+00:04:59,900 --> 00:05:00,800
+Ce n'est pas logique.
+
+86
+00:05:00,800 --> 00:05:02,100
+Pas de points communs
+entre les victimes,
+
+87
+00:05:02,100 --> 00:05:03,100
+pas de composante sexuelle,
+
+88
+00:05:03,100 --> 00:05:05,800
+pas de vols, pas les mêmes quartiers.
+
+89
+00:05:05,800 --> 00:05:07,300
+La police a des pistes ?
+
+90
+00:05:07,300 --> 00:05:09,200
+Il tue à peu près tous les 2 jours.
+
+91
+00:05:09,200 --> 00:05:10,500
+La presse veut aller sur le terrain
+
+92
+00:05:10,500 --> 00:05:12,600
+et on dirait que les gens
+sont très tendus.
+
+93
+00:05:12,600 --> 00:05:15,500
+Le F.B.I. travaillera avec
+la police de New York ?
+
+94
+00:05:15,500 --> 00:05:17,200
+Kate Joyner est à la tête
+du bureau de New York.
+
+95
+00:05:17,200 --> 00:05:18,200
+C'est elle qui gère cette affaire
+
+96
+00:05:18,200 --> 00:05:19,600
+et elle m'a contacté directement.
+
+97
+00:05:19,800 --> 00:05:21,400
+J.J., tu peux aller leur dire
+qu'on est prêts ?
+
+98
+00:05:21,600 --> 00:05:22,400
+Bien sûr.
+
+99
+00:05:23,300 --> 00:05:24,900
+Kate et les inspecteurs locaux
+commencent à tourner en rond
+
+100
+00:05:24,900 --> 00:05:26,300
+et ils voulaient un regard frais.
+
+101
+00:05:26,300 --> 00:05:27,100
+Joyner, je la connais.
+
+102
+00:05:27,100 --> 00:05:27,900
+Elle est anglaise, non ?
+
+103
+00:05:27,900 --> 00:05:29,200
+Double nationalité.
+
+104
+00:05:29,200 --> 00:05:30,000
+Son père est anglais
+
+105
+00:05:30,000 --> 00:05:30,900
+et sa mère américaine.
+
+106
+00:05:30,900 --> 00:05:34,100
+Elle travaillait à Scotland Yard
+avant de rejoindre le Bureau.
+
+107
+00:05:34,200 --> 00:05:36,300
+Il paraît qu'elle peut
+être un peu chiante.
+
+108
+00:05:37,600 --> 00:05:38,600
+Je n'ai pas trouvé.
+
+109
+00:05:38,900 --> 00:05:39,800
+Vous la connaissez ?
+
+110
+00:05:39,800 --> 00:05:41,900
+On s'est rencontrés quand
+elle travaillait à Scotland Yard.
+
+111
+00:05:41,900 --> 00:05:42,700
+Elle est douée ?
+
+112
+00:05:42,700 --> 00:05:44,300
+On a de la chance de
+travailler avec elle.
+
+113
+00:05:44,700 --> 00:05:46,100
+<i>Nous allons décoller,</i>
+
+114
+00:05:46,100 --> 00:05:47,400
+<i>veuillez rejoindre vos places.</i>
+
+115
+00:05:55,800 --> 00:05:57,500
+Vous pouvez envoyer quelqu'un chez moi
+
+116
+00:05:57,500 --> 00:05:59,000
+pour me prendre des vêtements propres ?
+
+117
+00:05:59,000 --> 00:06:00,125
+Et dites aux experts
+
+118
+00:06:00,125 --> 00:06:02,635
+que je ne veux pas juste comparer
+avec le Connecticut et le New Jersey,
+
+119
+00:06:02,800 --> 00:06:04,300
+je veux Interpol dessus.
+
+120
+00:06:04,800 --> 00:06:05,700
+L'U.A.C. est arrivée ?
+
+121
+00:06:05,700 --> 00:06:06,900
+Ils ne devraient plus tarder.
+
+122
+00:06:08,200 --> 00:06:10,700
+Shelley, vous pouvez appeler
+le commissaire ?
+
+123
+00:06:15,900 --> 00:06:17,500
+Laissez tomber, attendez.
+
+124
+00:06:23,500 --> 00:06:26,900
+C'est moi, ou c'est le portrait
+craché de Haley ?
+
+125
+00:06:28,700 --> 00:06:29,400
+Kate.
+
+126
+00:06:29,600 --> 00:06:30,600
+Aaron.
+
+127
+00:06:30,700 --> 00:06:31,700
+Comment ça va ?
+
+128
+00:06:32,100 --> 00:06:32,700
+Bien, merci.
+
+129
+00:06:32,700 --> 00:06:33,600
+Voici mon équipe.
+
+130
+00:06:33,600 --> 00:06:34,200
+Kate Joyner,
+
+131
+00:06:34,200 --> 00:06:35,600
+voici David Rossi,
+
+132
+00:06:35,600 --> 00:06:36,500
+Emily Prentiss,
+
+133
+00:06:36,500 --> 00:06:37,300
+Jennifer Jareau,
+
+134
+00:06:37,300 --> 00:06:39,100
+Penelope Garcia,
+Derek Morgan
+
+135
+00:06:39,100 --> 00:06:40,200
+et Spencer Reid.
+
+136
+00:06:40,800 --> 00:06:41,700
+Merci d'être venus.
+
+137
+00:06:41,700 --> 00:06:43,200
+Demandez-moi tout ce dont
+vous avez besoin.
+
+138
+00:06:43,200 --> 00:06:45,200
+Ne vous arrêtez pas au protocole.
+
+139
+00:06:45,200 --> 00:06:47,200
+Que pouvez-vous nous dire au sujet
+du système de surveillance de la ville ?
+
+140
+00:06:47,200 --> 00:06:49,200
+C'est la police qui le gère.
+
+141
+00:06:49,300 --> 00:06:50,500
+Il est toujours en développement
+
+142
+00:06:50,500 --> 00:06:52,100
+et il a été plutôt controversé.
+
+143
+00:06:52,100 --> 00:06:53,600
+Les lois américaines sur la vie privée.
+
+144
+00:06:53,700 --> 00:06:55,600
+Mais ils ont fait quelques découvertes.
+
+145
+00:06:55,700 --> 00:06:56,900
+Et j'aurai accès à tout ?
+
+146
+00:06:56,900 --> 00:06:58,500
+Ils vous attendent.
+
+147
+00:06:59,000 --> 00:06:59,600
+Shelley ?
+
+148
+00:07:00,000 --> 00:07:01,300
+Il me faudrait une carte des environs.
+
+149
+00:07:01,300 --> 00:07:04,100
+Je veux faire un profil géographique
+étendu de la zone
+
+150
+00:07:04,100 --> 00:07:05,700
+pour en tirer la carte mentale du tueur
+
+151
+00:07:05,700 --> 00:07:07,800
+avant qu'elle ne soit obscurcie
+par notre propre cécité.
+
+152
+00:07:08,500 --> 00:07:10,000
+Je vois que vous avez amené
+votre ordinateur.
+
+153
+00:07:10,600 --> 00:07:13,000
+Inspecteurs Brustin et Cooper.
+
+154
+00:07:13,000 --> 00:07:14,700
+Je vous laisse faire
+les présentations.
+
+155
+00:07:14,700 --> 00:07:15,800
+C'est vous qui avez constaté
+le premier meurtre ?
+
+156
+00:07:15,800 --> 00:07:17,600
+Ils ont tous eu lieu dans
+des endroits différents.
+
+157
+00:07:17,600 --> 00:07:20,100
+On n'a pu faire le lien qu'à partir
+du troisième meurtre.
+
+158
+00:07:20,100 --> 00:07:21,600
+Il me semble que c'est là
+qu'on la joue sympa
+
+159
+00:07:21,600 --> 00:07:23,200
+et qu'on vous demande
+ce dont vous avez besoin.
+
+160
+00:07:23,800 --> 00:07:26,000
+Je vais vous laisser en discuter.
+
+161
+00:07:26,100 --> 00:07:29,100
+Tout ce que je demande, c'est
+d'être au courant de tout.
+
+162
+00:07:29,200 --> 00:07:32,700
+J'ai déjà constaté qu'une seule
+place en jeu suffit.
+
+163
+00:07:33,400 --> 00:07:34,300
+Oui, Madame.
+
+164
+00:07:35,500 --> 00:07:36,900
+Je peux te parler en privé ?
+
+165
+00:07:37,100 --> 00:07:38,000
+Bien sûr.
+
+166
+00:07:38,300 --> 00:07:39,200
+Excusez-nous.
+
+167
+00:07:42,000 --> 00:07:43,000
+Ils se sont...
+
+168
+00:07:43,000 --> 00:07:46,000
+"rencontrés", quand elle
+était à Scotland Yard.
+
+169
+00:07:46,200 --> 00:07:47,300
+Évidemment.
+
+170
+00:07:53,700 --> 00:07:56,200
+T'as du mal avec la police locale ?
+
+171
+00:07:56,400 --> 00:07:57,900
+Je m'y attendais.
+
+172
+00:07:58,000 --> 00:07:58,900
+Ce sont de bons inspecteurs.
+
+173
+00:07:58,900 --> 00:08:00,800
+C'est juste qu'aucun flic
+qui se respecte
+
+174
+00:08:00,800 --> 00:08:04,400
+n'a envie de se faire virer par
+une anglaise snobinarde.
+
+175
+00:08:05,800 --> 00:08:06,900
+Qu'est-ce qu'il se passe ?
+
+176
+00:08:07,000 --> 00:08:10,100
+Que peux-tu me dire à
+propos de Derek Morgan ?
+
+177
+00:08:16,400 --> 00:08:18,800
+Alors, qu'est-ce qu'il a,
+votre partenaire ?
+
+178
+00:08:20,700 --> 00:08:21,800
+Eh bien...
+
+179
+00:08:23,000 --> 00:08:26,000
+À partir du 4è meurtre,
+le F.B.I. est arrivé.
+
+180
+00:08:26,500 --> 00:08:27,000
+C'est bien,
+
+181
+00:08:27,000 --> 00:08:28,700
+on a besoin d'aide.
+
+182
+00:08:28,800 --> 00:08:31,000
+Mais d'un seul coup, elle prend
+des rendez-vous avec le maire
+
+183
+00:08:31,000 --> 00:08:33,600
+et elle vous fait venir sans
+même nous prévenir.
+
+184
+00:08:33,600 --> 00:08:35,000
+On est là pour vous aider, c'est tout.
+
+185
+00:08:35,000 --> 00:08:36,400
+Voyez-nous comme une ressource.
+
+186
+00:08:36,600 --> 00:08:37,400
+D'accord.
+
+187
+00:08:38,100 --> 00:08:39,100
+Profilez-moi.
+
+188
+00:08:40,900 --> 00:08:42,300
+À quoi je pense ?
+
+189
+00:08:44,800 --> 00:08:46,100
+C'est pas prêt d'arriver.
+
+190
+00:08:48,400 --> 00:08:48,800
+Le prenez pas mal,
+
+191
+00:08:48,800 --> 00:08:50,500
+mais on a 5 morts.
+
+192
+00:08:51,100 --> 00:08:52,500
+J'espère que vous pouvez
+faire mieux que ça.
+
+193
+00:09:24,900 --> 00:09:25,800
+Vous devez être du F.B.I.
+
+194
+00:09:25,800 --> 00:09:26,600
+Lisa Bartleby.
+
+195
+00:09:26,600 --> 00:09:27,500
+Penelope Garcia.
+
+196
+00:09:27,500 --> 00:09:28,300
+Je peux ?
+
+197
+00:09:32,900 --> 00:09:35,000
+Je reçois rarement de la visite.
+
+198
+00:09:36,200 --> 00:09:39,000
+Vous me remarquerez à peine.
+
+199
+00:09:40,200 --> 00:09:41,500
+Vous avez quoi comme
+système d'exploitation ?
+
+200
+00:09:42,100 --> 00:09:44,700
+Linux, avec 6 gigas de RAM.
+
+201
+00:09:45,000 --> 00:09:47,500
+Et un processeur Dual Quad Core
+3 Gigahertz
+
+202
+00:09:47,500 --> 00:09:49,900
+avec une carte vidéo
+GeForce 8800 ultra
+
+203
+00:09:49,900 --> 00:09:53,500
+et un firewall Cisco ASA 5500.
+
+204
+00:09:53,700 --> 00:09:54,200
+Oui.
+
+205
+00:09:54,200 --> 00:09:55,500
+Terrible. Combien de caméras ?
+
+206
+00:09:55,500 --> 00:09:57,500
+4 468
+
+207
+00:09:57,500 --> 00:09:59,800
+sans compter celles qui ne fonctionnent
+que dans les logements sociaux.
+
+208
+00:09:59,800 --> 00:10:01,600
+Tout est enregistré ?
+
+209
+00:10:01,600 --> 00:10:02,900
+Catalogué et numérisé.
+
+210
+00:10:02,900 --> 00:10:03,500
+Superbe.
+
+211
+00:10:03,500 --> 00:10:06,000
+Parce que mon patron veut
+que je lui envoie un dossier
+
+212
+00:10:06,000 --> 00:10:07,800
+pour qu'il puisse se servir d'un
+logiciel de reconnaissance faciale
+
+213
+00:10:07,800 --> 00:10:09,400
+sur toutes les scènes de crime.
+
+214
+00:10:09,600 --> 00:10:12,500
+J'ai déjà amélioré la qualité
+des photos au maximum.
+
+215
+00:10:12,500 --> 00:10:13,600
+Non, je parle de s'en servir
+
+216
+00:10:13,600 --> 00:10:15,600
+sur la foule présente immédiatement
+après les meurtres.
+
+217
+00:10:15,600 --> 00:10:17,200
+C'est tordu, mais ces tarés
+
+218
+00:10:17,200 --> 00:10:18,500
+aiment parfois revenir
+
+219
+00:10:18,500 --> 00:10:20,300
+pour voir ce que fait
+la police de leur travail.
+
+220
+00:10:20,300 --> 00:10:21,200
+Et...
+
+221
+00:10:21,200 --> 00:10:22,400
+Voilà.
+
+222
+00:11:23,600 --> 00:11:24,500
+Je peux te poser une question ?
+
+223
+00:11:24,500 --> 00:11:26,400
+Depuis combien de temps tu n'es pas
+rentrée dormir chez toi ?
+
+224
+00:11:26,400 --> 00:11:28,500
+Personne ne dort avant
+la fin de cette affaire.
+
+225
+00:11:46,400 --> 00:11:48,000
+Quel genre de type pense
+pouvoir tuer des gens
+
+226
+00:11:48,000 --> 00:11:49,800
+en pleine journée
+à New York, et s'en sortir ?
+
+227
+00:11:50,300 --> 00:11:51,800
+Un homme patient.
+
+228
+00:11:51,800 --> 00:11:55,600
+Il attend que quelqu'un se
+retrouve séparé de la foule.
+
+229
+00:11:55,600 --> 00:11:56,400
+Bang.
+
+230
+00:11:57,100 --> 00:11:58,300
+C'est à cet endroit ?
+
+231
+00:12:00,600 --> 00:12:01,800
+À peu près, oui.
+
+232
+00:12:07,200 --> 00:12:08,400
+On vous ennuie ?
+
+233
+00:12:11,300 --> 00:12:13,900
+Écoutez, vous n'aimez
+pas l'Agent Joyner,
+
+234
+00:12:14,200 --> 00:12:15,200
+d'accord, j'ai compris.
+
+235
+00:12:15,600 --> 00:12:17,000
+Mais nous sommes là
+pour travailler.
+
+236
+00:12:17,500 --> 00:12:19,300
+Dans votre équipe, quelqu'un
+a déjà été flic ?
+
+237
+00:12:19,900 --> 00:12:21,000
+Chicago.
+
+238
+00:12:21,300 --> 00:12:22,600
+Alors vous comprenez sûrement.
+
+239
+00:12:22,900 --> 00:12:23,900
+Je prends très à coeur
+
+240
+00:12:23,900 --> 00:12:25,800
+le fait que quelque chose comme
+ça se produise dans ma ville.
+
+241
+00:12:25,800 --> 00:12:27,900
+J'étais flic quand Son of Sam
+sévissait.
+
+242
+00:12:27,900 --> 00:12:29,100
+C'est pire.
+
+243
+00:12:29,400 --> 00:12:31,200
+Il ne s'arrête pas à
+un type de victimes.
+
+244
+00:12:31,500 --> 00:12:33,300
+Il s'en prend à tout le monde.
+
+245
+00:12:33,500 --> 00:12:35,800
+Et j'ai besoin que toutes les personnes
+qui travaillent sur cette affaire
+
+246
+00:12:35,900 --> 00:12:37,100
+la prennent à coeur.
+
+247
+00:12:37,200 --> 00:12:38,300
+C'est le cas.
+
+248
+00:12:38,900 --> 00:12:40,100
+On verra.
+
+249
+00:12:47,900 --> 00:12:49,500
+Vous travaillez là depuis
+combien de temps ?
+
+250
+00:12:49,900 --> 00:12:51,500
+Environ 6 mois.
+
+251
+00:12:53,200 --> 00:12:55,000
+J'aimerais pouvoir vous dire
+que ça devient plus facile.
+
+252
+00:12:55,100 --> 00:12:57,200
+J'ai l'habitude de chercher des vidéos
+de vols ou d'agressions,
+
+253
+00:12:57,200 --> 00:12:58,600
+des cambriolages parfois.
+
+254
+00:12:59,200 --> 00:13:00,600
+Mais regarder quelqu'un se prendre
+une balle en pleine tête...
+
+255
+00:13:02,600 --> 00:13:03,700
+Vous savez ce qui m'aide ?
+
+256
+00:13:05,000 --> 00:13:06,200
+Personnalisez cet endroit.
+
+257
+00:13:06,200 --> 00:13:07,400
+Vous voyez, vous...
+
+258
+00:13:08,000 --> 00:13:09,200
+Vous vous distinguez
+
+259
+00:13:09,200 --> 00:13:10,600
+de ce que vous voyez à l'écran.
+
+260
+00:13:12,300 --> 00:13:14,000
+Ce n'est pas vraiment...
+
+261
+00:13:14,900 --> 00:13:15,900
+Conforme.
+
+262
+00:13:17,200 --> 00:13:19,100
+Heureusement,
+on n'est que toutes les deux.
+
+263
+00:13:22,000 --> 00:13:23,700
+Vous voulez voir un homme, un vrai ?
+
+264
+00:13:25,600 --> 00:13:27,500
+C'est quelle caméra sur la dernière
+scène de crime ?
+
+265
+00:13:30,800 --> 00:13:32,000
+Derek Morgan...
+
+266
+00:13:32,300 --> 00:13:33,300
+Lisa Bartleby.
+
+267
+00:13:33,300 --> 00:13:34,400
+Lisa Bartleby,
+
+268
+00:13:34,400 --> 00:13:36,100
+Derek Morgan.
+
+269
+00:13:36,400 --> 00:13:38,700
+Cet homme n'a pas peur
+des rapprochements.
+
+270
+00:13:38,700 --> 00:13:40,000
+Ni d'être visible.
+
+271
+00:13:40,300 --> 00:13:41,200
+Sur la vidéo, on voit
+
+272
+00:13:41,200 --> 00:13:43,500
+qu'il baisse la tête à la seconde
+où il descend du train.
+
+273
+00:13:43,500 --> 00:13:44,800
+Il sait qu'il est filmé.
+
+274
+00:13:44,800 --> 00:13:46,600
+On a quelques indices,
+
+275
+00:13:47,200 --> 00:13:48,800
+mais les descriptions sont vagues.
+
+276
+00:13:48,900 --> 00:13:50,900
+On nous a dit que c'était
+un Noir au teint clair,
+
+277
+00:13:50,900 --> 00:13:52,500
+un asiatique,
+un portoricain.
+
+278
+00:13:52,500 --> 00:13:54,300
+Ça peut être n'importe qui
+dans cette ville.
+
+279
+00:13:54,300 --> 00:13:56,000
+La balistique a donné le même
+résultat pour tous les meurtres ?
+
+280
+00:13:56,000 --> 00:13:57,800
+Ils sont remontés 10 ans en arrière.
+
+281
+00:13:57,800 --> 00:13:59,200
+L'arme n'a jamais servi.
+
+282
+00:13:59,200 --> 00:14:01,300
+Un calibre .22, c'est pas
+vraiment un choix courant.
+
+283
+00:14:01,300 --> 00:14:03,200
+Sauf si on fait partie des
+services secrets israéliens.
+
+284
+00:14:03,600 --> 00:14:06,500
+C'est ce qu'utilise le Mossad*
+pour ses assassinats politiques.
+
+285
+00:14:06,500 --> 00:14:08,100
+Tout ce que je sais, c'est que
+cet homme est organisé.
+
+286
+00:14:09,000 --> 00:14:10,000
+Il étudie l'emplacement des caméras,
+
+287
+00:14:10,600 --> 00:14:12,200
+il a une arme facile à dissimuler.
+
+288
+00:14:13,000 --> 00:14:14,000
+Il sait ce qu'il fait.
+
+289
+00:14:32,700 --> 00:14:34,300
+On va devoir regarder les dossiers
+des 6 derniers mois
+
+290
+00:14:34,300 --> 00:14:36,500
+en rapport avec de la violence armée
+ou la possession d'arme
+
+291
+00:14:36,500 --> 00:14:39,600
+dans tous les districts, sauf ceux
+où des meurtres ont eu lieu.
+
+292
+00:14:40,200 --> 00:14:41,900
+Je ne comprends pas.
+
+293
+00:14:42,100 --> 00:14:44,600
+Il n'attaque pas près de chez lui.
+
+294
+00:14:44,900 --> 00:14:45,700
+Comment pouvez-vous en être si sûr ?
+
+295
+00:14:45,700 --> 00:14:47,900
+C'est du profilage anti-géographique.
+
+296
+00:14:48,400 --> 00:14:50,400
+Vous faite du profilage
+anti-géographique maintenant ?
+
+297
+00:14:50,400 --> 00:14:51,500
+Ouais, normal.
+
+298
+00:14:51,900 --> 00:14:53,400
+Et vous vous demandez pourquoi
+on est aussi sceptiques ?
+
+299
+00:14:54,200 --> 00:14:55,600
+Ce tueur est organisé.
+
+300
+00:14:55,700 --> 00:14:57,100
+Il frappe aux mêmes heures,
+
+301
+00:14:57,100 --> 00:14:58,400
+il sait où sont les caméras.
+
+302
+00:14:58,400 --> 00:15:00,200
+Ça veut dire qu'il surveille
+la zone de son côté.
+
+303
+00:15:00,200 --> 00:15:03,000
+Un tueur motivé par le besoin
+opère dans sa zone de confort.
+
+304
+00:15:03,000 --> 00:15:05,000
+Un tueur organisé
+avec d'autres motivations
+
+305
+00:15:05,000 --> 00:15:07,200
+s'assurera d'opérer hors de cette zone.
+
+306
+00:15:07,500 --> 00:15:08,400
+Pas là où il vit.
+
+307
+00:15:08,400 --> 00:15:09,300
+Exactement.
+
+308
+00:15:09,300 --> 00:15:10,300
+Malheureusement,
+
+309
+00:15:10,300 --> 00:15:12,400
+ça veut dire que chaque autre
+quartier de la ville
+
+310
+00:15:12,400 --> 00:15:14,000
+a de bonnes raisons
+d'être terrifié.
+
+311
+00:15:21,500 --> 00:15:22,500
+Excusez-moi.
+
+312
+00:15:24,000 --> 00:15:25,300
+Un bretzel sans moutarde.
+
+313
+00:15:43,200 --> 00:15:45,000
+Les uniformes essaient de
+récolter des témoignages.
+
+314
+00:15:45,100 --> 00:15:47,200
+On dirait que personne ne l'a bien vu.
+
+315
+00:15:47,500 --> 00:15:48,500
+C'est à un feu rouge.
+
+316
+00:15:48,500 --> 00:15:50,900
+Il était sûrement parti avant que
+quiconque comprenne ce qu'il se passait.
+
+317
+00:15:51,300 --> 00:15:53,400
+C'est à ça que ressemblait
+l'affaire de "Son of Sam" ?
+
+318
+00:15:53,400 --> 00:15:56,100
+Dès le départ, nous avons réalisé que
+si cette violence s'exerçait au hasard,
+
+319
+00:15:56,100 --> 00:15:57,900
+nous n'avions pratiquement aucun
+moyen d'y mettre un terme.
+
+320
+00:15:58,000 --> 00:16:00,100
+On dirait que ces gens l'ont compris.
+
+321
+00:16:00,200 --> 00:16:01,300
+Vu l'endroit où est placée la caméra,
+
+322
+00:16:01,300 --> 00:16:02,500
+il y a des chances pour qu'on ne voie
+
+323
+00:16:02,500 --> 00:16:03,600
+que l'arrière de sa tête.
+
+324
+00:16:03,600 --> 00:16:05,000
+Ne décidons pas trop vite
+
+325
+00:16:05,000 --> 00:16:06,800
+de ce que nous avons ou non.
+
+326
+00:16:12,000 --> 00:16:13,900
+La duchesse a parlé.
+
+327
+00:16:15,800 --> 00:16:18,300
+Vous pouvez me dire pourquoi
+elle me prend de haut ?
+
+328
+00:16:19,700 --> 00:16:21,400
+L'Agent Brass lui a expliqué clairement
+
+329
+00:16:21,400 --> 00:16:22,900
+que si elle ne résout pas cette affaire,
+
+330
+00:16:22,900 --> 00:16:24,200
+elle sera réassignée.
+
+331
+00:16:24,200 --> 00:16:27,000
+Et vous êtes le premier sur
+la liste pour la remplacer.
+
+332
+00:16:28,500 --> 00:16:29,200
+Vous plaisantez.
+
+333
+00:16:29,200 --> 00:16:30,100
+Pourquoi vous êtes surpris ?
+
+334
+00:16:30,100 --> 00:16:31,200
+Vous faites du bon boulot.
+
+335
+00:16:31,200 --> 00:16:32,400
+Les gens remarquent ça.
+
+336
+00:16:34,300 --> 00:16:36,100
+Et que devient le bureau
+qui se félicitait
+
+337
+00:16:36,100 --> 00:16:38,000
+de l'avoir volée à Scotland Yard ?
+
+338
+00:16:38,000 --> 00:16:39,100
+J'en sais rien.
+
+339
+00:16:39,500 --> 00:16:40,900
+Les politiques ne sont
+pas les mêmes ici.
+
+340
+00:16:41,300 --> 00:16:43,800
+Et comme vous pouvez le voir,
+elle n'est pas très diplomate.
+
+341
+00:16:48,700 --> 00:16:51,100
+Six meurtres, et il se met enfin
+à communiquer avec nous.
+
+342
+00:16:51,900 --> 00:16:52,700
+Qu'est-ce que c'est ?
+
+343
+00:16:53,100 --> 00:16:54,200
+C'est une carte de tarot.
+
+344
+00:16:54,800 --> 00:16:55,700
+La mort.
+
+345
+00:16:55,900 --> 00:16:57,300
+C'est pas un peu facile,
+
+346
+00:16:57,400 --> 00:16:58,700
+même pour un taré ?
+
+347
+00:16:59,000 --> 00:17:01,500
+Alors ce type s'intéresserait
+à ces conneries spirituelles ?
+
+348
+00:17:01,700 --> 00:17:03,400
+Si c'est le cas, il ne s'y connaît
+certainement pas en tarot.
+
+349
+00:17:03,400 --> 00:17:06,200
+La mort au tarot ne signifie pas
+forcément la mort physique.
+
+350
+00:17:06,500 --> 00:17:08,600
+C'est plus une transformation,
+un changement.
+
+351
+00:17:08,600 --> 00:17:10,700
+Une promotion ou un mariage.
+
+352
+00:17:10,700 --> 00:17:12,900
+S'il ne veut pas nous prédire l'avenir,
+
+353
+00:17:12,900 --> 00:17:13,800
+à quoi sert cette carte ?
+
+354
+00:17:13,800 --> 00:17:15,700
+Le sniper de Washington* a
+laissé exactement la même carte
+
+355
+00:17:15,700 --> 00:17:16,900
+sur une de ses scènes.
+
+356
+00:17:16,900 --> 00:17:19,800
+Ce tueur doit donc se voir dans ce rôle.
+
+357
+00:17:19,800 --> 00:17:21,800
+Il cherche à créer
+une panique générale.
+
+358
+00:17:21,800 --> 00:17:23,700
+Et plus important,
+il étudie d'autres affaires...
+
+359
+00:17:23,700 --> 00:17:24,800
+Il veut nous dire
+
+360
+00:17:25,500 --> 00:17:26,900
+qu'il sait que nous sommes là.
+
+361
+00:18:05,200 --> 00:18:06,100
+Qu'est-ce qu'on a ?
+
+362
+00:18:06,100 --> 00:18:07,300
+Le dernier meurtre.
+
+363
+00:18:13,500 --> 00:18:15,000
+Ça, c'était le meurtre précédent.
+
+364
+00:18:17,500 --> 00:18:19,500
+Vous ne voyez rien de bizarre ?
+
+365
+00:18:19,500 --> 00:18:21,200
+Il s'enfuit en courant sur une des
+vidéos et marche calmement sur l'autre.
+
+366
+00:18:21,200 --> 00:18:22,700
+Ce sont deux comportements
+complètement différents.
+
+367
+00:18:22,700 --> 00:18:24,800
+Après 6 meurtres, son comportement
+devrait être le même.
+
+368
+00:18:24,800 --> 00:18:25,800
+Regardez ça.
+
+369
+00:18:26,300 --> 00:18:27,500
+Garcia, tu es toujours là ?
+
+370
+00:18:27,500 --> 00:18:28,600
+Tu crois que je vous laisserais tomber ?
+
+371
+00:18:28,700 --> 00:18:29,400
+Regardez ça.
+
+372
+00:18:29,400 --> 00:18:31,700
+J'ai fait une analyse digitale
+des perspectives
+
+373
+00:18:31,700 --> 00:18:33,100
+des vidéos que nous avons.
+
+374
+00:18:33,100 --> 00:18:34,500
+Les 2 premières n'ont rien donné,
+
+375
+00:18:34,500 --> 00:18:37,500
+mais sur les 2 dernières,
+il y a un truc très bizarre.
+
+376
+00:18:38,100 --> 00:18:40,000
+Celui qui s'en va calmement,
+
+377
+00:18:40,100 --> 00:18:42,900
+il fait à peu près 1m85.
+
+378
+00:18:42,900 --> 00:18:44,000
+Mais celui qui court,
+
+379
+00:18:44,400 --> 00:18:46,300
+il fait 1m75,
+
+380
+00:18:46,300 --> 00:18:47,700
+1m77 au plus.
+
+381
+00:18:49,600 --> 00:18:51,200
+On a plus d'un tueur.
+
+382
+00:19:01,500 --> 00:19:03,400
+Donc, on a plus d'un tueur.
+
+383
+00:19:03,400 --> 00:19:04,500
+Qu'est-ce que ça
+nous indique ?
+
+384
+00:19:04,500 --> 00:19:05,400
+La plupart des équipes
+ne se séparent pas.
+
+385
+00:19:05,400 --> 00:19:06,500
+Ng et Lake*,
+
+386
+00:19:06,500 --> 00:19:07,300
+les jumeaux Kray*,
+
+387
+00:19:07,300 --> 00:19:08,200
+Bittaker et Norris*.
+
+388
+00:19:08,200 --> 00:19:10,000
+En général, ils ne tuent pas séparément.
+
+389
+00:19:10,200 --> 00:19:12,100
+Ça pourrait être le rite
+initiatique d'un gang.
+
+390
+00:19:12,300 --> 00:19:14,300
+Les gangs ne vous tuent que si
+vous menacez leur territoire,
+
+391
+00:19:14,300 --> 00:19:16,500
+ils ne tuent pas des gens au
+hasard dans toute la ville.
+
+392
+00:19:16,500 --> 00:19:17,900
+Je vais parler à l'unité
+chargée des gangs
+
+393
+00:19:17,900 --> 00:19:19,700
+pour qu'on ait un rapport demain matin.
+
+394
+00:19:19,700 --> 00:19:22,100
+Vous pensez qu'on a de
+quoi établir un profil ?
+
+395
+00:19:22,300 --> 00:19:23,300
+En gros, oui.
+
+396
+00:19:23,900 --> 00:19:25,900
+Dave, parlez aux agents
+présents avec Reid.
+
+397
+00:19:26,000 --> 00:19:29,200
+Morgan, Prentiss, vous brieferez chaque
+équipe dès son arrivée demain matin.
+
+398
+00:19:29,200 --> 00:19:30,800
+Je pense qu'on devrait
+être dans la rue.
+
+399
+00:19:31,000 --> 00:19:33,100
+Je vous ai demandé de venir
+pour établir un profil.
+
+400
+00:19:33,100 --> 00:19:34,200
+On peut le diffuser demain matin,
+
+401
+00:19:34,200 --> 00:19:36,100
+et ils le partageront avec
+l'équipe de l'après-midi.
+
+402
+00:19:36,100 --> 00:19:38,700
+Nous avons réquisitionné
+chacun de nos hommes.
+
+403
+00:19:38,700 --> 00:19:39,700
+C'est New York,
+
+404
+00:19:39,700 --> 00:19:42,900
+c'est pas comme si quelques personnes
+de plus allaient couvrir la ville.
+
+405
+00:19:43,100 --> 00:19:44,700
+Je comprends, on a peu de chances,
+
+406
+00:19:45,000 --> 00:19:46,600
+mais ces hommes frappent
+en milieu de journée.
+
+407
+00:19:46,900 --> 00:19:49,700
+On pourrait surveiller les entrées
+et sorties de certains quartiers,
+
+408
+00:19:49,700 --> 00:19:51,300
+nous positionner près des feus
+
+409
+00:19:51,300 --> 00:19:53,300
+- sur la 14e, la 42e, la 59e.
+- Morgan,
+
+410
+00:19:53,300 --> 00:19:54,600
+ce n'est pas à vous de décider.
+
+411
+00:19:58,400 --> 00:19:59,600
+J'aimerais vous aider
+à établir le profil,
+
+412
+00:19:59,600 --> 00:20:01,200
+si ce n'est pas marcher
+sur vos plates-bandes.
+
+413
+00:20:01,200 --> 00:20:02,200
+Pas de problème.
+
+414
+00:20:06,400 --> 00:20:07,300
+On va revoir ça.
+
+415
+00:20:13,600 --> 00:20:14,800
+Regardez.
+
+416
+00:20:14,800 --> 00:20:16,700
+L'édition du soir ne rate rien.
+
+417
+00:20:20,600 --> 00:20:21,700
+J.J.
+
+418
+00:20:25,700 --> 00:20:26,600
+Will.
+
+419
+00:20:28,000 --> 00:20:29,300
+J'ai essayé d'aller à Washington,
+
+420
+00:20:29,300 --> 00:20:31,000
+mais ça n'a pas marché.
+
+421
+00:20:31,000 --> 00:20:33,400
+Je me dis que j'étais qu'à
+quelques heures de train de New York.
+
+422
+00:20:33,400 --> 00:20:34,500
+Inspecteur.
+
+423
+00:20:34,700 --> 00:20:36,000
+Désolé de débarquer comme ça,
+
+424
+00:20:36,000 --> 00:20:37,000
+je sais que vous travaillez,
+
+425
+00:20:37,700 --> 00:20:38,700
+mais...
+
+426
+00:20:40,700 --> 00:20:42,400
+Je supporte pas de te savoir
+sur cette affaire
+
+427
+00:20:42,400 --> 00:20:43,700
+et de ne pas être là.
+
+428
+00:20:44,200 --> 00:20:45,300
+Pas dans cette situation.
+
+429
+00:20:47,700 --> 00:20:49,300
+Il y a un problème ?
+
+430
+00:20:57,800 --> 00:20:59,700
+Je suis enceinte.
+
+431
+00:21:01,000 --> 00:21:03,000
+Oh, mon dieu, J.J. !
+
+432
+00:21:03,000 --> 00:21:04,800
+Félicitations !
+
+433
+00:21:04,900 --> 00:21:06,600
+J'ai demandé J.J. en mariage.
+
+434
+00:21:06,700 --> 00:21:07,800
+Will.
+
+435
+00:21:08,200 --> 00:21:09,600
+On doit parler de quelques trucs.
+
+436
+00:21:09,700 --> 00:21:13,000
+On va vous laisser tous les deux.
+
+437
+00:21:15,600 --> 00:21:16,700
+Hotch.
+
+438
+00:21:17,200 --> 00:21:19,100
+J.J., tu aurais pu me le dire.
+
+439
+00:21:19,200 --> 00:21:20,000
+Je sais.
+
+440
+00:21:20,000 --> 00:21:22,700
+Je comprendrais que tu aies
+besoin d'un peu de temps.
+
+441
+00:21:22,900 --> 00:21:26,000
+Non, je veux être là.
+
+442
+00:21:26,900 --> 00:21:28,300
+D'accord.
+
+443
+00:21:28,300 --> 00:21:30,300
+Demain, 7h.
+
+444
+00:21:37,300 --> 00:21:39,500
+Ça va pas ?
+
+445
+00:21:40,300 --> 00:21:42,800
+Je t'ai dit que je ne pouvais
+pas prendre de jours.
+
+446
+00:21:42,900 --> 00:21:44,900
+Rentre à Washington
+avec moi demain.
+
+447
+00:21:45,200 --> 00:21:46,700
+T'es pas sérieux.
+
+448
+00:21:46,700 --> 00:21:48,100
+Ils sont au courant,
+maintenant.
+
+449
+00:21:48,700 --> 00:21:50,000
+Ils comprendraient.
+
+450
+00:21:50,100 --> 00:21:52,200
+Will, on est sur une affaire, là.
+
+451
+00:21:52,300 --> 00:21:53,800
+Six meurtres.
+
+452
+00:21:53,800 --> 00:21:55,400
+Exactement.
+
+453
+00:21:55,500 --> 00:21:57,000
+Ton boulot est trop dangereux.
+
+454
+00:21:57,100 --> 00:21:58,400
+Oui, comme le tien.
+
+455
+00:21:58,400 --> 00:22:01,000
+Tu vas rendre ton badge ?
+
+456
+00:22:02,900 --> 00:22:05,100
+Écoute, j'adore ton geste,
+
+457
+00:22:05,100 --> 00:22:06,400
+c'est romantique à souhait,
+
+458
+00:22:06,400 --> 00:22:10,400
+mais on va être parents
+tous les deux, Will.
+
+459
+00:22:11,200 --> 00:22:14,500
+Ni toi, ni moi, n'avons
+un boulot classique.
+
+460
+00:22:14,600 --> 00:22:16,600
+La première chose que fait
+un flic enceinte,
+
+461
+00:22:16,600 --> 00:22:19,300
+c'est de laisser tomber le terrain.
+
+462
+00:22:20,100 --> 00:22:21,300
+Tu sais quoi ?
+
+463
+00:22:21,300 --> 00:22:23,300
+On n'a que jusqu'à 7h,
+
+464
+00:22:23,300 --> 00:22:25,800
+alors on va se contenter de se disputer
+à propos de noms et de berceaux, OK ?
+
+465
+00:22:26,200 --> 00:22:28,400
+Seulement si tu me laisses gagner.
+
+466
+00:22:30,200 --> 00:22:32,100
+Aucune chance.
+
+467
+00:22:35,200 --> 00:22:37,200
+Commençons par ce que nous savons.
+
+468
+00:22:37,300 --> 00:22:39,900
+Pour ces tueurs, ce n'est pas personnel.
+
+469
+00:22:40,000 --> 00:22:42,100
+Ce n'est pas pour le sexe
+ni pour l'argent.
+
+470
+00:22:42,200 --> 00:22:45,100
+Nous pensons que l'enjeu
+est plus important que ça.
+
+471
+00:22:45,200 --> 00:22:46,300
+Ce n'est pas du hasard.
+
+472
+00:22:46,300 --> 00:22:47,900
+Il doit y avoir un motif.
+
+473
+00:22:48,000 --> 00:22:50,200
+Notre première théorie est que
+nous avons affaire à une équipe.
+
+474
+00:22:50,300 --> 00:22:52,000
+Dans l'affaire du tireur de Washington,
+
+475
+00:22:52,000 --> 00:22:54,600
+le tueur visait une victime
+en particulier.
+
+476
+00:22:54,700 --> 00:22:56,700
+John Mohamed voulait tuer son ex-femme,
+
+477
+00:22:56,700 --> 00:22:57,300
+mais il savait que s'il le faisait,
+
+478
+00:22:57,300 --> 00:22:58,600
+il serait immédiatement suspecté.
+
+479
+00:22:58,600 --> 00:23:01,700
+Alors il a tué d'autres gens
+pour masquer ce meurtre.
+
+480
+00:23:01,800 --> 00:23:04,400
+Mohamed et Malvo* ont aussi laissé
+la carte de la mort derrière eux,
+
+481
+00:23:04,500 --> 00:23:05,700
+comme ce tueur.
+
+482
+00:23:05,700 --> 00:23:08,100
+Nous pensons que nos tueurs
+ont étudié cette affaire.
+
+483
+00:23:08,200 --> 00:23:09,800
+Ils essaient de communiquer avec nous.
+
+484
+00:23:09,900 --> 00:23:10,200
+Attendez.
+
+485
+00:23:10,200 --> 00:23:12,200
+Vous nous dites que ces mecs jouent à ça
+
+486
+00:23:12,200 --> 00:23:13,800
+juste parce que vous êtes là ?
+
+487
+00:23:14,000 --> 00:23:16,600
+Nous disons juste que ces tueurs
+sont assez sophistiqués
+
+488
+00:23:16,600 --> 00:23:18,000
+pour étudier d'autres crimes.
+
+489
+00:23:18,000 --> 00:23:19,400
+Ça ne répond pas à ma question.
+
+490
+00:23:19,400 --> 00:23:20,400
+Joe, ça va.
+
+491
+00:23:20,400 --> 00:23:21,500
+Écoute-les.
+
+492
+00:23:21,500 --> 00:23:24,900
+Les demandes de possession d'armes
+ont doublé dans mon quartier.
+
+493
+00:23:25,000 --> 00:23:26,700
+La ville va s'enflammer.
+
+494
+00:23:26,700 --> 00:23:28,199
+Il faut qu'on règle ça.
+
+495
+00:23:28,200 --> 00:23:30,200
+Écoutez, vous avez raison.
+
+496
+00:23:30,200 --> 00:23:31,600
+S'ils ont laissé la carte
+à cause de nous,
+
+497
+00:23:31,600 --> 00:23:33,700
+alors oui, ils veulent jouer.
+
+498
+00:23:33,800 --> 00:23:34,500
+Mais ça nous dit aussi
+
+499
+00:23:34,500 --> 00:23:36,600
+qu'au moins un d'entre
+eux est intelligent.
+
+500
+00:23:36,700 --> 00:23:39,400
+Et comme je l'ai dit, ils connaissent
+les autres affaires.
+
+501
+00:23:39,500 --> 00:23:42,000
+Ils ont étudié l'emplacement des caméras
+
+502
+00:23:42,000 --> 00:23:44,000
+pour ne pas se faire repérer.
+
+503
+00:23:44,100 --> 00:23:46,500
+La plupart des équipes se composent
+d'un dominant et d'un dominé.
+
+504
+00:23:46,600 --> 00:23:48,500
+L'intelligence relative de ces tueurs
+
+505
+00:23:48,600 --> 00:23:50,400
+et le fait qu'ils opèrent
+aux mêmes horaires
+
+506
+00:23:50,400 --> 00:23:53,100
+nous laissent penser qu'au moins
+un d'entre eux a un travail régulier.
+
+507
+00:23:53,100 --> 00:23:55,900
+Nous avons demandé à la police
+de patrouiller dans leurs zones,
+
+508
+00:23:55,900 --> 00:23:59,700
+de chercher les commerces qui ouvrent
+et ferment aux heures des meurtres.
+
+509
+00:23:59,800 --> 00:24:03,100
+Nous espérons que quelqu'un pourra
+identifier un couple père/fils
+
+510
+00:24:03,100 --> 00:24:06,750
+ou des collègues qui correspondent
+au profil dominant / dominé.
+
+511
+00:24:07,000 --> 00:24:08,600
+Et l'autre théorie ?
+
+512
+00:24:08,700 --> 00:24:11,600
+C'est moins probable, mais ça pourrait
+être le rite initiatique d'un gang.
+
+513
+00:24:11,700 --> 00:24:14,800
+Nous avons demandé à la police
+de placer des agents en civil
+
+514
+00:24:14,800 --> 00:24:15,300
+dans les rues.
+
+515
+00:24:15,400 --> 00:24:17,700
+Voici tous les membres de gangs
+connus de Manhattan.
+
+516
+00:24:17,800 --> 00:24:19,300
+La plupart viennent de
+China Town et de Clinton.
+
+517
+00:24:19,300 --> 00:24:20,700
+Étudiez ceci
+
+518
+00:24:20,700 --> 00:24:23,200
+et gardez un oeil sur les gens
+qui vous paraissent louches.
+
+519
+00:24:23,300 --> 00:24:26,700
+Les numéros indiqués restent un
+peu après le départ des agents,
+
+520
+00:24:26,700 --> 00:24:28,800
+j'ai des missions à vous confier.
+
+521
+00:24:28,900 --> 00:24:31,500
+Comme nous l'avons dit, nous pensons
+que l'enjeu est de taille.
+
+522
+00:24:31,600 --> 00:24:33,300
+Parlez aux gens,
+
+523
+00:24:33,400 --> 00:24:37,400
+apprenez tout ce que vous pouvez et
+priez pour que ce ne soit pas du hasard.
+
+524
+00:25:01,600 --> 00:25:03,200
+Les caméras ne sont pas là
+pour prévenir le crime.
+
+525
+00:25:03,200 --> 00:25:05,950
+Elles sont censées nous aider
+à attraper les criminels.
+
+526
+00:25:09,000 --> 00:25:09,900
+J'en ai un.
+
+527
+00:25:10,000 --> 00:25:11,100
+Il y a quelqu'un à proximité ?
+
+528
+00:25:11,200 --> 00:25:12,500
+Négatif.
+
+529
+00:25:13,500 --> 00:25:15,000
+Ici le centre de surveillance.
+
+530
+00:25:15,100 --> 00:25:16,700
+Nous avons un suspect possible
+
+531
+00:25:16,700 --> 00:25:19,650
+à la station de métro
+sur la 59e et Lex.
+
+532
+00:25:19,900 --> 00:25:20,900
+Très bien.
+
+533
+00:25:22,300 --> 00:25:23,400
+Hotchner.
+
+534
+00:25:23,700 --> 00:25:25,600
+Ça pourrait être l'un d'eux.
+
+535
+00:25:25,700 --> 00:25:26,600
+Qu'est-ce qu'il se passe ?
+
+536
+00:25:26,600 --> 00:25:27,400
+On a un des tueurs sur une caméra.
+
+537
+00:25:27,500 --> 00:25:29,300
+Il est sur la 59e et Lex.
+
+538
+00:25:30,300 --> 00:25:32,100
+On aurait pu y être !
+
+539
+00:25:32,200 --> 00:25:33,600
+Il a une arme.
+
+540
+00:25:34,800 --> 00:25:35,800
+Mon dieu !
+
+541
+00:25:35,800 --> 00:25:36,900
+Il l'a tuée.
+
+542
+00:25:37,000 --> 00:25:38,800
+Mais où est la police ?
+
+543
+00:25:39,000 --> 00:25:40,400
+Ici Kate Joyner, F.B.I.
+
+544
+00:25:40,400 --> 00:25:41,600
+Nous avons un suspect
+
+545
+00:25:41,600 --> 00:25:43,800
+à la station sur la 59e et Lex.
+
+546
+00:25:43,900 --> 00:25:45,000
+Il s'en va.
+
+547
+00:25:45,000 --> 00:25:47,450
+Garcia, vous le retrouvez
+dans la rue ?
+
+548
+00:25:49,000 --> 00:25:50,400
+Il va vers l'ouest de la 59e.
+
+549
+00:25:50,500 --> 00:25:51,500
+S'il arrive jusqu'au parc,
+
+550
+00:25:51,500 --> 00:25:52,800
+c'est fichu.
+
+551
+00:25:54,400 --> 00:25:56,050
+On l'a perdu.
+
+552
+00:25:56,300 --> 00:25:58,100
+La police est là-bas ?
+
+553
+00:25:58,600 --> 00:25:59,700
+Négatif.
+
+554
+00:26:03,100 --> 00:26:04,900
+On aurait pu l'avoir !
+
+555
+00:26:04,900 --> 00:26:06,300
+Même si on avait été là,
+
+556
+00:26:06,300 --> 00:26:08,300
+il aurait trouvé une personne isolée.
+
+557
+00:26:08,400 --> 00:26:10,100
+Peut-être, mais ça valait
+le coup d'essayer.
+
+558
+00:26:10,200 --> 00:26:12,500
+Tous les hommes disponibles
+étaient dans la rue.
+
+559
+00:26:12,600 --> 00:26:14,800
+Et moi, je vous ai suggéré de
+vous servir de cette équipe.
+
+560
+00:26:14,800 --> 00:26:16,800
+Vous n'arrangez pas la situation.
+
+561
+00:26:16,800 --> 00:26:18,300
+Hotch, comment je suis censé
+regarder ces flics dans les yeux
+
+562
+00:26:18,300 --> 00:26:19,800
+et leur dire qu'on peut les aider ?
+
+563
+00:26:19,800 --> 00:26:21,000
+Nous sommes venus
+présenter un profil.
+
+564
+00:26:21,000 --> 00:26:22,100
+C'est tout ce que
+nous avons à faire.
+
+565
+00:26:22,200 --> 00:26:24,000
+Je vous ai dit de nous mettre
+aux points chauds.
+
+566
+00:26:24,100 --> 00:26:25,800
+La 14e, la 42e, la 59e.
+
+567
+00:26:25,800 --> 00:26:27,200
+- C'est exactement là qu'il a frappé.
+- Ce n'est pas à vous
+
+568
+00:26:27,200 --> 00:26:28,700
+d'avoir cette conversation.
+
+569
+00:26:28,700 --> 00:26:29,400
+À moi ?
+
+570
+00:26:29,400 --> 00:26:31,200
+Il y a une limite à ne pas franchir.
+
+571
+00:26:31,300 --> 00:26:32,500
+On a 7 cadavres sur les bras.
+
+572
+00:26:32,500 --> 00:26:35,500
+C'est pour ça que nous devons
+rester concentrés.
+
+573
+00:26:35,700 --> 00:26:36,800
+Concentrés ?
+
+574
+00:26:38,000 --> 00:26:41,800
+D'après ce que je vois, vous êtes
+plutôt concentré sur elle.
+
+575
+00:26:43,000 --> 00:26:45,300
+Allez faire un tour.
+
+576
+00:27:01,300 --> 00:27:02,750
+Je sais.
+
+577
+00:27:05,300 --> 00:27:06,700
+J'ai dépassé les bornes.
+
+578
+00:27:06,700 --> 00:27:09,100
+Vous vous impliquez trop, parfois.
+
+579
+00:27:09,200 --> 00:27:10,700
+Je sais ce que c'est.
+
+580
+00:27:10,900 --> 00:27:13,100
+J'ai eu l'impression qu'Hotch
+prenait son parti.
+
+581
+00:27:13,200 --> 00:27:15,000
+Il n'y a pas de parti.
+
+582
+00:27:16,700 --> 00:27:17,600
+Je sais.
+
+583
+00:27:17,600 --> 00:27:19,800
+Il paraît qu'ils pensent à vous
+
+584
+00:27:19,800 --> 00:27:22,100
+pour remplacer Jayner.
+
+585
+00:27:22,500 --> 00:27:24,100
+Les gens parlent.
+
+586
+00:27:24,300 --> 00:27:25,400
+Si elle se faisait virer,
+
+587
+00:27:25,400 --> 00:27:28,050
+ce serait parce qu'on n'a
+pas résolu cette affaire.
+
+588
+00:27:28,300 --> 00:27:29,500
+Rossi, j'espère que vous ne
+sous-entendez pas
+
+589
+00:27:29,500 --> 00:27:31,300
+que je veux qu'elle se plante.
+
+590
+00:27:31,300 --> 00:27:32,300
+Non, bien sûr.
+
+591
+00:27:32,400 --> 00:27:35,200
+Je ne vous ai jamais vu contredire
+un supérieur comme ça.
+
+592
+00:27:37,900 --> 00:27:39,900
+Vous accepteriez ce boulot ?
+
+593
+00:27:42,800 --> 00:27:44,400
+Je sais pas.
+
+594
+00:27:45,000 --> 00:27:47,300
+Ce serait sympa de pouvoir
+prendre les décisions.
+
+595
+00:27:47,400 --> 00:27:50,300
+Et s'occuper de la politique
+de direction d'un bureau ?
+
+596
+00:27:50,400 --> 00:27:52,400
+Ça ne vous ressemble pas.
+
+597
+00:27:55,600 --> 00:27:58,000
+Ça use les gens, ce boulot.
+
+598
+00:27:58,900 --> 00:28:00,100
+Regardez Gideon.
+
+599
+00:28:00,200 --> 00:28:01,500
+C'était le meilleur,
+
+600
+00:28:01,500 --> 00:28:04,500
+et il a fini par s'enfuir, comme ça.
+
+601
+00:28:05,600 --> 00:28:08,600
+Ça fait des années qu'Hotch
+n'essaie même plus de sourire,
+
+602
+00:28:08,600 --> 00:28:10,100
+il doit prendre un jour de congé
+
+603
+00:28:10,100 --> 00:28:12,900
+juste pour passer du
+temps avec son fils.
+
+604
+00:28:14,400 --> 00:28:15,900
+Et vous alors ?
+
+605
+00:28:17,200 --> 00:28:19,100
+Vous avez été marié combien de fois ?
+
+606
+00:28:21,000 --> 00:28:22,400
+Je vois.
+
+607
+00:28:22,700 --> 00:28:24,300
+On va passer un accord.
+
+608
+00:28:24,400 --> 00:28:25,200
+Si je vois que vous ne pouvez plus,
+
+609
+00:28:25,300 --> 00:28:27,200
+je vous fais arrêter moi-même.
+
+610
+00:28:27,300 --> 00:28:28,700
+Mais pour l'instant,
+
+611
+00:28:28,900 --> 00:28:32,200
+je vois un homme qui veut
+se remettre au boulot.
+
+612
+00:28:33,200 --> 00:28:35,400
+Vous auriez une autre raison
+
+613
+00:28:35,400 --> 00:28:38,200
+de ne pas avoir touché cette bière ?
+
+614
+00:29:02,500 --> 00:29:05,500
+Écoutez, pour tout à l'heure...
+
+615
+00:29:05,500 --> 00:29:07,800
+Vous avez dit ce que vous pensiez,
+je le respecte.
+
+616
+00:29:08,900 --> 00:29:11,600
+J.J., Reid et Prentiss sont partis sur
+les lieux avec les inspecteurs.
+
+617
+00:29:11,600 --> 00:29:13,700
+C'est la première fois qu'ils
+tuent 2 jours d'affilée.
+
+618
+00:29:13,700 --> 00:29:14,600
+Ils accélèrent.
+
+619
+00:29:14,700 --> 00:29:17,100
+Votre analyste a étudié les vidéos.
+
+620
+00:29:17,100 --> 00:29:20,100
+C'est un autre tireur.
+
+621
+00:29:20,200 --> 00:29:21,800
+Ils sont 3 maintenant ?
+
+622
+00:29:22,600 --> 00:29:24,600
+Qui sont ces types ?
+
+623
+00:29:25,400 --> 00:29:27,900
+Je veux que vous soyez
+tous dans la rue demain.
+
+624
+00:29:28,600 --> 00:29:29,700
+Qu'est-ce qu'on manque ?
+
+625
+00:29:29,700 --> 00:29:30,700
+Quand on a vu cette affaire, au début,
+
+626
+00:29:30,700 --> 00:29:32,000
+à quoi ça nous a fait penser ?
+
+627
+00:29:32,000 --> 00:29:32,900
+Son of Sam.
+
+628
+00:29:33,000 --> 00:29:33,900
+Même type de tueur.
+
+629
+00:29:33,900 --> 00:29:35,500
+Des meurtres au hasard,
+pas de besoin de tuer,
+
+630
+00:29:35,500 --> 00:29:36,700
+pas de composante sexuelle.
+
+631
+00:29:36,700 --> 00:29:39,500
+Sauf que Berkowitz a avoué
+être retourné sur les scènes de crimes
+
+632
+00:29:39,500 --> 00:29:40,699
+des jours plus tard
+pour se masturber.
+
+633
+00:29:40,700 --> 00:29:41,400
+Exactement.
+
+634
+00:29:41,400 --> 00:29:44,700
+Si le tueur dominant a un mode
+opératoire similaire...
+
+635
+00:29:44,700 --> 00:29:46,400
+On va demander à Garcia
+d'étudier les vidéos
+
+636
+00:29:46,400 --> 00:29:48,500
+et on verra si une personne revient
+plusieurs fois sur les lieux
+
+637
+00:29:48,500 --> 00:29:50,400
+dans les jours qui suivent un meurtre.
+
+638
+00:29:50,500 --> 00:29:51,400
+Pour l'instant, on n'a
+fait que s'intéresser
+
+639
+00:29:51,400 --> 00:29:53,400
+aux moments qui suivent le crime.
+
+640
+00:29:53,500 --> 00:29:54,800
+Ça vaut le coup d'essayer.
+
+641
+00:29:54,800 --> 00:29:55,700
+On sera dans la rue demain.
+
+642
+00:29:55,700 --> 00:29:57,500
+Dave, vous pouvez prendre
+Reid et revoir le profil
+
+643
+00:29:57,500 --> 00:29:59,400
+pour ne rien laisser de côté ?
+
+644
+00:29:59,700 --> 00:30:00,700
+Merci.
+
+645
+00:30:10,400 --> 00:30:11,700
+Alors, répondez-moi.
+
+646
+00:30:11,700 --> 00:30:14,200
+Roll call, la 59e.
+
+647
+00:30:15,000 --> 00:30:16,000
+C'est bon.
+
+648
+00:30:16,400 --> 00:30:17,800
+Carol Square.
+
+649
+00:30:17,900 --> 00:30:18,900
+C'est bon.
+
+650
+00:30:19,400 --> 00:30:20,500
+<i>Chamber Street.</i>
+
+651
+00:30:20,600 --> 00:30:21,700
+<i>C'est bon.</i>
+
+652
+00:30:22,000 --> 00:30:23,100
+<i>La 72e.</i>
+
+653
+00:30:23,100 --> 00:30:24,100
+<i>C'est bon.</i>
+
+654
+00:30:26,000 --> 00:30:27,000
+Inspecteur.
+
+655
+00:30:28,000 --> 00:30:30,500
+Son of Sam vous hante encore
+
+656
+00:30:30,500 --> 00:30:32,300
+comme si ça datait d'hier.
+
+657
+00:30:32,700 --> 00:30:33,800
+Oui, en effet.
+
+658
+00:30:33,900 --> 00:30:35,800
+Il y a eu beaucoup de tueurs
+dans cette ville.
+
+659
+00:30:35,800 --> 00:30:36,700
+Pourquoi lui ?
+
+660
+00:30:36,800 --> 00:30:39,200
+Il se moquait de nous et
+on ne pouvait pas l'attraper.
+
+661
+00:30:39,300 --> 00:30:41,800
+On n'a pu l'avoir que grâce
+à une amende.
+
+662
+00:30:42,000 --> 00:30:43,300
+À quoi vous pensez ?
+
+663
+00:30:44,000 --> 00:30:46,000
+Il ne nous a pas recontactés.
+
+664
+00:30:46,400 --> 00:30:47,400
+Alors...
+
+665
+00:30:47,500 --> 00:30:48,700
+Ça ne va pas.
+
+666
+00:30:48,700 --> 00:30:50,400
+Ces tueurs sont organisés.
+
+667
+00:30:50,500 --> 00:30:51,500
+Ils surveillent,
+
+668
+00:30:51,600 --> 00:30:53,800
+ils frappent en pleine journée,
+
+669
+00:30:53,900 --> 00:30:57,200
+et pourtant ils n'ont rien fait
+pour attirer l'attention des médias.
+
+670
+00:30:58,100 --> 00:30:59,600
+Et puis ça.
+
+671
+00:30:59,700 --> 00:31:02,200
+Vous avez dit qu'ils voulaient vous dire
+qu'ils savaient que vous étiez là.
+
+672
+00:31:02,300 --> 00:31:05,800
+Selon notre profil, ils ont cherché à
+communiquer pour créer la panique.
+
+673
+00:31:05,900 --> 00:31:08,800
+Mais si c'était le cas,
+ils communiqueraient plus.
+
+674
+00:31:08,800 --> 00:31:10,010
+Après avoir laissé la carte,
+
+675
+00:31:10,010 --> 00:31:13,000
+Mohamed et Malvo ont exigé
+1 million de dollars
+
+676
+00:31:13,000 --> 00:31:14,600
+et un compte bancaire juste
+pour se moquer de la police.
+
+677
+00:31:14,600 --> 00:31:17,300
+Berkowitz a écrit des lettres
+au sujet de ses tirs au hasard
+
+678
+00:31:17,300 --> 00:31:19,100
+en se décrivant comme un monstre.
+
+679
+00:31:19,700 --> 00:31:22,200
+Ils sont plus disciplinés.
+
+680
+00:31:22,200 --> 00:31:24,100
+Le fait qu'ils n'aient pas
+contacté la presse
+
+681
+00:31:24,100 --> 00:31:27,400
+me laisse penser que c'est privé.
+
+682
+00:31:27,800 --> 00:31:29,400
+Ce n'est que pour nous.
+
+683
+00:31:29,500 --> 00:31:31,000
+Qu'est-ce que ça veut dire ?
+
+684
+00:31:31,400 --> 00:31:33,200
+Ils veulent en venir quelque part.
+
+685
+00:31:33,300 --> 00:31:36,000
+Et ils veulent qu'on sache
+qu'ils nous observent.
+
+686
+00:31:37,300 --> 00:31:39,700
+Si vous voyiez ces 2 traits
+sans aucun contexte,
+
+687
+00:31:39,700 --> 00:31:42,300
+quel serait le premier profil
+qui vous viendrait à l'esprit ?
+
+688
+00:31:44,500 --> 00:31:46,600
+Qui est dans la rue ?
+
+689
+00:31:50,000 --> 00:31:50,500
+J'écoute.
+
+690
+00:31:50,500 --> 00:31:52,100
+Garcia, est-ce que tu vois
+tous les membres de l'équipe ?
+
+691
+00:31:52,100 --> 00:31:53,600
+Je peux les trouver.
+
+692
+00:31:56,300 --> 00:31:58,600
+On est sous couverture,
+
+693
+00:31:58,600 --> 00:32:01,900
+on devrait peut-être
+se comporter comme un couple.
+
+694
+00:32:03,000 --> 00:32:06,800
+Vous en avez pas marre
+de penser au sexe ?
+
+695
+00:32:06,800 --> 00:32:09,000
+Je sais pas, à vous de me le dire,
+c'est vous la voyante.
+
+696
+00:32:09,400 --> 00:32:11,100
+Vous voulez vraiment savoir
+ce qu'est le profilage ?
+
+697
+00:32:11,700 --> 00:32:13,700
+Je crois que vous allez
+me le dire de toute façon.
+
+698
+00:32:13,800 --> 00:32:15,600
+C'est simplement remarquer
+un comportement.
+
+699
+00:32:15,900 --> 00:32:17,200
+Et vous allez me parler du mien.
+
+700
+00:32:17,200 --> 00:32:18,600
+C'est ça ?
+
+701
+00:32:18,700 --> 00:32:19,700
+D'accord.
+
+702
+00:32:19,800 --> 00:32:22,400
+Lors de notre première rencontre,
+quand votre partenaire a été sarcastique
+
+703
+00:32:22,400 --> 00:32:26,300
+et a dit "Oui, Madame", vous avez
+instinctivement attrapé votre badge,
+
+704
+00:32:26,300 --> 00:32:28,000
+comme si vous vouliez le protéger.
+
+705
+00:32:28,100 --> 00:32:31,100
+J'en déduis que vous n'aimez pas
+qu'il manque de respect à un supérieur,
+
+706
+00:32:31,200 --> 00:32:32,400
+mais vous êtes loyal,
+
+707
+00:32:32,400 --> 00:32:34,200
+alors vous ne lui avez rien dit.
+
+708
+00:32:34,300 --> 00:32:35,700
+Je dirais que vous avez été militaire.
+
+709
+00:32:35,800 --> 00:32:37,300
+Probablement un officier.
+
+710
+00:32:37,500 --> 00:32:40,700
+Les éloges en public,
+les critiques en privé, c'est ça ?
+
+711
+00:32:41,300 --> 00:32:42,000
+Vous êtes droitier,
+
+712
+00:32:42,000 --> 00:32:44,800
+mais vous avez deux traces
+de crayon sur votre main droite.
+
+713
+00:32:44,900 --> 00:32:46,500
+Je dirais que vous avez un enfant
+
+714
+00:32:46,500 --> 00:32:48,000
+qui apprend à dessiner.
+
+715
+00:32:48,300 --> 00:32:50,100
+Vous ne portez pas d'alliance
+
+716
+00:32:50,100 --> 00:32:51,900
+et vous n'avez pas perdu
+de temps pour me draguer.
+
+717
+00:32:52,000 --> 00:32:54,900
+Vous aimez que les gens
+pensent que vous êtes joueur,
+
+718
+00:32:55,000 --> 00:32:56,100
+mais si je vous suivais dans votre jeu,
+
+719
+00:32:56,100 --> 00:32:57,700
+vous vous sauveriez en courant
+
+720
+00:32:57,700 --> 00:32:59,000
+parce que vous aimez votre femme,
+
+721
+00:32:59,000 --> 00:33:00,900
+vous ne la tromperiez jamais.
+
+722
+00:33:06,100 --> 00:33:08,400
+Vous risquez de réussir
+à résoudre cette affaire.
+
+723
+00:33:16,100 --> 00:33:17,800
+Oh, c'est pas bon.
+
+724
+00:33:17,900 --> 00:33:18,500
+Quoi donc ?
+
+725
+00:33:18,500 --> 00:33:19,600
+Je fais ce que vous m'avez demandé,
+
+726
+00:33:19,600 --> 00:33:20,800
+je regarde les vidéos pour voir
+
+727
+00:33:20,800 --> 00:33:23,100
+si la même personne revient
+sur les lieux des crimes
+
+728
+00:33:23,100 --> 00:33:24,400
+dans les jours qui suivent les meurtres.
+
+729
+00:33:24,400 --> 00:33:25,100
+D'accord.
+
+730
+00:33:25,100 --> 00:33:27,400
+Je cherche à avoir l'angle
+le plus large possible...
+
+731
+00:33:27,400 --> 00:33:28,700
+Donc il faut en séparer des centaines.
+
+732
+00:33:28,700 --> 00:33:30,100
+Exactement, mais...
+
+733
+00:33:31,700 --> 00:33:33,400
+On a piraté le système.
+
+734
+00:34:23,400 --> 00:34:25,600
+- Garcia.
+- Je m'en occupe !
+
+735
+00:34:25,800 --> 00:34:28,400
+La 16e et Broadway,
+il va vers l'est de la 16e.
+
+736
+00:34:28,400 --> 00:34:29,900
+Il vient vers nous.
+
+737
+00:34:41,900 --> 00:34:43,600
+Dégagez !
+
+738
+00:34:44,800 --> 00:34:46,300
+Écartez-vous !
+
+739
+00:35:14,300 --> 00:35:15,500
+Cooper ?
+
+740
+00:35:16,300 --> 00:35:17,100
+Garcia !
+
+741
+00:35:17,100 --> 00:35:18,400
+On a un officier à terre
+
+742
+00:35:18,400 --> 00:35:19,900
+sur la 16e, à l'est
+de l'Union Square.
+
+743
+00:35:19,900 --> 00:35:21,100
+Montrez-moi.
+
+744
+00:35:21,200 --> 00:35:22,800
+Tout va bien se passer.
+
+745
+00:35:22,900 --> 00:35:24,300
+Garcia, tu nous vois ?
+
+746
+00:35:24,300 --> 00:35:26,000
+On a un officier à terre.
+
+747
+00:35:26,310 --> 00:35:27,610
+Restez avec moi.
+
+748
+00:35:28,400 --> 00:35:29,900
+Ça va aller.
+
+749
+00:35:30,000 --> 00:35:31,700
+Cooper, restez avec moi.
+
+750
+00:35:43,200 --> 00:35:44,700
+Ça va ?
+
+751
+00:35:44,800 --> 00:35:45,800
+Il va s'en sortir ?
+
+752
+00:35:45,800 --> 00:35:48,200
+J'en sais rien, il a perdu
+beaucoup de sang.
+
+753
+00:35:50,900 --> 00:35:52,500
+Il ne vivra pas assez longtemps
+pour nous parler.
+
+754
+00:35:52,500 --> 00:35:53,800
+On l'a identifié ?
+
+755
+00:35:53,800 --> 00:35:54,800
+Non.
+
+756
+00:35:54,800 --> 00:35:56,500
+C'est pas bon.
+
+757
+00:36:00,700 --> 00:36:02,200
+J'aurais pas dû avoir
+à lui tirer dessus.
+
+758
+00:36:02,300 --> 00:36:03,400
+Emily, il a tiré sur un flic.
+
+759
+00:36:03,400 --> 00:36:04,700
+Tu as fait ce que tu avais à faire.
+
+760
+00:36:04,700 --> 00:36:07,800
+Non, c'est pas ce que je veux
+dire. Il était devant nous,
+
+761
+00:36:07,900 --> 00:36:08,900
+il aurait pu s'échapper,
+
+762
+00:36:08,900 --> 00:36:10,900
+mais il s'est arrêté
+pour m'attendre.
+
+763
+00:36:11,000 --> 00:36:13,900
+Il s'est senti piégé, il a pensé
+devoir tuer pour s'en sortir ?
+
+764
+00:36:13,900 --> 00:36:15,400
+J'en sais rien.
+
+765
+00:36:15,500 --> 00:36:16,700
+Parle-moi de son comportement.
+
+766
+00:36:16,700 --> 00:36:18,900
+Il était paniqué ? Essoufflé ?
+
+767
+00:36:19,300 --> 00:36:20,700
+Ses mains ne tremblaient pas,
+
+768
+00:36:20,700 --> 00:36:22,600
+ses yeux étaient calmes.
+
+769
+00:36:22,600 --> 00:36:25,599
+Ces types ont été hyper vigilants,
+
+770
+00:36:25,600 --> 00:36:26,800
+organisés.
+
+771
+00:36:27,400 --> 00:36:30,100
+Ils surveillent les endroits où
+ils vont agir, c'est bizarre
+
+772
+00:36:30,100 --> 00:36:32,300
+qu'ils tuent quelqu'un à 2 blocs
+
+773
+00:36:32,300 --> 00:36:34,100
+de là où Cooper et moi étions.
+
+774
+00:36:34,200 --> 00:36:35,900
+Tu penses qu'il a délibérément
+tué quelqu'un
+
+775
+00:36:35,900 --> 00:36:37,100
+à côté des flics ?
+
+776
+00:36:37,200 --> 00:36:38,700
+Et si c'est le cas ?
+
+777
+00:36:38,800 --> 00:36:40,300
+S'ils avaient choisi cet endroit
+
+778
+00:36:40,300 --> 00:36:41,900
+parce qu'on était là ?
+
+779
+00:36:42,500 --> 00:36:44,000
+À quoi tu penses ?
+
+780
+00:36:44,100 --> 00:36:46,100
+Il n'avait pas de papiers,
+
+781
+00:36:46,200 --> 00:36:48,000
+il a attendu qu'on le rattrape,
+
+782
+00:36:48,000 --> 00:36:50,000
+il était bizarrement calme.
+
+783
+00:36:50,400 --> 00:36:52,200
+On dirait qu'on l'a aidé à se suicider.
+
+784
+00:36:52,300 --> 00:36:53,200
+Pourquoi ?
+
+785
+00:36:53,200 --> 00:36:54,700
+Pourquoi il aurait fait ça ?
+
+786
+00:36:55,500 --> 00:36:56,200
+J'en sais rien.
+
+787
+00:36:56,200 --> 00:36:58,100
+Il voulait peut-être qu'on
+pense que tout était fini.
+
+788
+00:36:58,200 --> 00:37:00,300
+Il faut qu'on retravaille ce profil.
+
+789
+00:37:08,400 --> 00:37:10,600
+On pense qu'on a un sérieux problème.
+
+790
+00:37:10,600 --> 00:37:11,200
+Lequel ?
+
+791
+00:37:11,200 --> 00:37:12,700
+Nous avons des tueurs multiples.
+
+792
+00:37:12,700 --> 00:37:13,500
+Ils sont disciplinés.
+
+793
+00:37:13,500 --> 00:37:15,399
+Ils se servent de la police
+et des vidéos de surveillance.
+
+794
+00:37:15,400 --> 00:37:16,700
+Ils connaissent les faits
+et gestes du F.B.I.
+
+795
+00:37:16,700 --> 00:37:18,000
+Il y a une hiérarchie.
+
+796
+00:37:18,000 --> 00:37:20,400
+Qu'est-ce que ça veut dire,
+habituellement ?
+
+797
+00:37:20,600 --> 00:37:21,800
+Du terrorisme.
+
+798
+00:37:31,800 --> 00:37:32,800
+Comment ça marche ?
+
+799
+00:37:32,800 --> 00:37:34,300
+Le tueur simule un bombardement
+
+800
+00:37:34,400 --> 00:37:37,100
+pour voir combien de temps
+la police met à arriver sur les lieux.
+
+801
+00:37:37,100 --> 00:37:39,000
+Comme ça, ils savent quand
+mettre en place la seconde bombe.
+
+802
+00:37:39,000 --> 00:37:41,200
+Une première vague de civils touchés
+
+803
+00:37:41,200 --> 00:37:43,600
+suivie par une seconde vague
+de premiers secours.
+
+804
+00:37:43,600 --> 00:37:45,100
+C'est dingue... Mais ingénieux.
+
+805
+00:37:45,100 --> 00:37:47,300
+Ils en profitent pour s'entraîner,
+et si quelqu'un attrape un tireur,
+
+806
+00:37:47,300 --> 00:37:49,800
+ils savent qu'il ne les trahira pas.
+
+807
+00:37:49,900 --> 00:37:51,000
+Ce sont des techniques lo-Fi.
+
+808
+00:37:51,000 --> 00:37:53,100
+Le moyen le plus malin de planifier
+une attaque terroriste.
+
+809
+00:37:53,100 --> 00:37:54,200
+Créer la panique
+
+810
+00:37:54,200 --> 00:37:56,900
+leur assure le temps de réponse
+le plus rapide à un bombardement.
+
+811
+00:37:56,900 --> 00:37:59,000
+Il y a eu 7 tireurs différents, alors ?
+
+812
+00:37:59,000 --> 00:38:00,600
+Faire perpétrer les meurtres
+par des disciples leur assure
+
+813
+00:38:00,600 --> 00:38:03,000
+qu'ils sont prêts à tuer ou
+à se faire tuer pour leur cause.
+
+814
+00:38:03,100 --> 00:38:04,200
+Ça correspond au profil.
+
+815
+00:38:04,200 --> 00:38:06,000
+L'enjeu est d'importance.
+
+816
+00:38:06,000 --> 00:38:08,000
+Ça simule un rite de gang.
+
+817
+00:38:08,100 --> 00:38:10,800
+D'autant plus s'ils sont du coin et
+n'ont jamais pu faire leurs preuves.
+
+818
+00:38:11,000 --> 00:38:12,400
+Je pense qu'ils s'en prennent
+aux points d'entrée.
+
+819
+00:38:12,400 --> 00:38:15,200
+Tous les meurtres ont eu lieu
+près d'un pont ou d'un tunnel.
+
+820
+00:38:15,300 --> 00:38:18,000
+Le tunnel de Hollande, le tunnel
+de la ville, le pont de Manhattan.
+
+821
+00:38:18,100 --> 00:38:20,100
+Si des bombes explosaient, les
+premiers secours couperaient
+
+822
+00:38:20,100 --> 00:38:21,900
+toutes les entrées et
+sorties de la ville.
+
+823
+00:38:22,000 --> 00:38:23,800
+Les gens seraient quasiment
+piégés sur l'île.
+
+824
+00:38:23,900 --> 00:38:26,500
+Gardez à l'esprit que ce n'est qu'une
+théorie, comme tous les profils.
+
+825
+00:38:30,100 --> 00:38:31,200
+Dis-nous tout, Garcia.
+
+826
+00:38:31,200 --> 00:38:32,000
+On a un problème.
+
+827
+00:38:32,000 --> 00:38:35,100
+Je viens de vérifier 4468 caméras.
+
+828
+00:38:35,200 --> 00:38:36,700
+Ils ont piraté le système
+de surveillance.
+
+829
+00:38:36,800 --> 00:38:38,200
+Ils ont des vidéos de toutes
+les scènes de crimes.
+
+830
+00:38:38,200 --> 00:38:39,600
+Ils nous observent depuis le début.
+
+831
+00:38:39,700 --> 00:38:41,000
+Comment on a pu ne pas
+s'en rendre compte ?
+
+832
+00:38:41,000 --> 00:38:42,700
+Ils ont été assez malins pour
+ne pas le faire sur tout le système.
+
+833
+00:38:42,700 --> 00:38:44,200
+J'ai dû vérifier les caméras
+une par une.
+
+834
+00:38:44,200 --> 00:38:45,900
+Et ils ont fait ça sur
+toutes les scènes ?
+
+835
+00:38:46,000 --> 00:38:46,900
+J'en ai bien peur.
+
+836
+00:38:46,900 --> 00:38:49,700
+Ils ont piraté une caméra
+sur chaque scène de crime.
+
+837
+00:38:50,200 --> 00:38:51,700
+Merci, Garcia.
+
+838
+00:38:51,800 --> 00:38:53,600
+Elle est belle, la théorie.
+
+839
+00:38:54,200 --> 00:38:55,400
+Il faut qu'on se dépêche.
+
+840
+00:38:55,500 --> 00:38:56,600
+Je vais à l'hôpital
+
+841
+00:38:56,600 --> 00:38:58,800
+prendre des nouvelles de Cooper
+et briefer l'inspecteur Brustin.
+
+842
+00:38:58,800 --> 00:39:00,500
+Bien. Dave, vous pouvez aller
+parler au commissaire ?
+
+843
+00:39:00,500 --> 00:39:02,500
+Morgan, vous briefez la
+sécurité intérieure ?
+
+844
+00:39:02,500 --> 00:39:03,900
+J.J. et moi allons parler
+à la police.
+
+845
+00:39:03,900 --> 00:39:06,800
+Kate et moi allons parler au maire,
+on se retrouve ici dès que possible.
+
+846
+00:39:06,800 --> 00:39:08,100
+Maintenant au moins, on a l'avantage :
+
+847
+00:39:08,100 --> 00:39:10,300
+Ils ne savent pas qu'on sait
+qu'ils nous observent.
+
+848
+00:39:26,300 --> 00:39:27,700
+Agent Jareau.
+
+849
+00:39:28,700 --> 00:39:29,700
+Merci.
+
+850
+00:39:35,100 --> 00:39:36,100
+C'est Will ?
+
+851
+00:39:38,000 --> 00:39:41,000
+Il rentre à la Nouvelle Orléans ce soir.
+
+852
+00:39:41,500 --> 00:39:42,700
+Ça va ?
+
+853
+00:39:45,100 --> 00:39:47,200
+Il ne veut pas me gêner.
+
+854
+00:39:51,300 --> 00:39:53,100
+Il démissionne ?
+
+855
+00:39:57,100 --> 00:39:59,400
+Vous avez besoin de quelqu'un
+sur le terrain ?
+
+856
+00:40:00,700 --> 00:40:02,800
+Reid, tu peux aller briefer
+la police tout seul.
+
+857
+00:40:02,800 --> 00:40:04,400
+J.J., tu n'as pas quitté le bureau,
+
+858
+00:40:04,400 --> 00:40:05,600
+pourquoi tu ne retournerais
+pas à l'hôtel
+
+859
+00:40:05,600 --> 00:40:08,500
+dire à Will ce qu'il se passe
+avant de revenir ?
+
+860
+00:40:08,600 --> 00:40:09,300
+Oui, Monsieur.
+
+861
+00:40:09,600 --> 00:40:10,700
+Et, J.J...
+
+862
+00:40:11,600 --> 00:40:13,250
+Félicitations.
+
+863
+00:40:28,200 --> 00:40:30,000
+Comment va Cooper ?
+
+864
+00:40:30,500 --> 00:40:32,300
+Il est toujours au bloc.
+
+865
+00:40:32,300 --> 00:40:34,150
+Ça se présente mal.
+
+866
+00:40:36,200 --> 00:40:38,700
+On pense savoir de quoi il s'agit.
+
+867
+00:41:31,312 --> 00:41:37,369
+~ www.SeriesSub.com ~
+

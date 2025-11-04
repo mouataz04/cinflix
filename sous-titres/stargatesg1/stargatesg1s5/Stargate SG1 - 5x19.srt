@@ -1,0 +1,2094 @@
+1
+00:00:07,228 --> 00:00:10,459
+On dirait que c'était
+une civilisation évoluée.
+
+2
+00:00:10,548 --> 00:00:13,904
+- Aucun survivant.
+- Pas de cadavres.
+
+3
+00:00:13,988 --> 00:00:18,459
+La végétation indique que cet endroit
+a été anéanti il y a longtemps.
+
+4
+00:00:26,188 --> 00:00:29,339
+Relevé d'énergie très faible.
+C'est sûr, ça vient de là.
+
+5
+00:00:29,428 --> 00:00:32,022
+Apparemment, c'est sans danger.
+
+6
+00:01:08,708 --> 00:01:11,097
+Elle est parfaitement conservée.
+
+7
+00:01:11,948 --> 00:01:15,224
+Ce doit être
+une sorte de tombe ou de crypte.
+
+8
+00:01:17,428 --> 00:01:19,578
+Ou un labo de recherches.
+
+9
+00:01:19,668 --> 00:01:21,579
+Qu'est-ce qui te fait dire ça?
+
+10
+00:01:21,668 --> 00:01:26,378
+L'énergie que j'ai relevée
+semble émaner d'elle.
+
+11
+00:02:46,428 --> 00:02:48,578
+C'est le colonel O'Neill.
+
+12
+00:02:48,668 --> 00:02:51,421
+- Mon général.
+- Qu'avez-vous à signaler?
+
+13
+00:02:51,508 --> 00:02:54,341
+Reconnaissance MALP confirmée.
+
+14
+00:02:54,428 --> 00:02:56,896
+Cet endroit est dévasté.
+
+15
+00:02:56,988 --> 00:03:00,776
+Mais Carter a trouvé un truc.
+
+16
+00:03:03,828 --> 00:03:08,106
+- Vous pouvez développer?
+- Elle pense que c'est un robot.
+
+17
+00:03:08,188 --> 00:03:12,101
+Je suis certaine
+que c'est une forme de vie artificielle.
+
+18
+00:03:12,188 --> 00:03:15,339
+Je ne peux rien avancer de plus,
+vu les circonstances.
+
+19
+00:03:15,428 --> 00:03:18,977
+Je demande l'autorisation
+de la ramener au SGC pour l'examiner.
+
+20
+00:03:19,068 --> 00:03:21,218
+Ca ne présente pas de danger?
+
+21
+00:03:21,308 --> 00:03:25,460
+Elle ne semble pas active.
+Son niveau d'énergie est très bas.
+
+22
+00:03:25,548 --> 00:03:29,223
+On pourrait l'isoler en toute sécurité.
+Ca vaut le coup de l'examiner.
+
+23
+00:03:29,308 --> 00:03:31,902
+C'est peut-être le dernier vestige
+
+24
+00:03:31,988 --> 00:03:35,219
+et la clé pour comprendre
+ce qui s'est passé ici.
+
+25
+00:03:35,588 --> 00:03:38,421
+- Bon, amenez-la.
+- Merci.
+
+26
+00:03:38,508 --> 00:03:40,942
+- Merci.
+- Terminé.
+
+27
+00:03:44,868 --> 00:03:47,302
+LA MENACE
+
+28
+00:03:58,748 --> 00:04:01,467
+- Salut, Janet.
+- Alors, ce nouveau jouet?
+
+29
+00:04:01,548 --> 00:04:05,621
+Etonnant. C'est l'androïïde le plus évolué
+que nous ayons jamais vu.
+
+30
+00:04:05,708 --> 00:04:07,744
+Regarde un peu ça.
+
+31
+00:04:13,268 --> 00:04:15,065
+C'est de la nanotechnologie?
+
+32
+00:04:15,148 --> 00:04:18,220
+On dirait des mécanismes
+auto-réparateurs.
+
+33
+00:04:18,308 --> 00:04:20,219
+Apparemment inactifs.
+
+34
+00:04:20,308 --> 00:04:24,699
+lls semblent se désactiver
+quand ils sont déconnectés d'elle.
+
+35
+00:04:27,588 --> 00:04:31,581
+D'après les ultrasons,
+le coeur du système se trouve là.
+
+36
+00:04:31,668 --> 00:04:35,900
+ll doit y avoir un mécanisme
+à l'extérieur qui permet d'y accéder.
+
+37
+00:04:35,988 --> 00:04:38,377
+Je m'apprêtais à le tester.
+
+38
+00:04:47,868 --> 00:04:49,779
+Les Grecs, Romains, Babyloniens
+
+39
+00:04:49,868 --> 00:04:52,507
+avaient imaginé
+des êtres au comportement humain
+
+40
+00:04:52,588 --> 00:04:55,739
+bien avant la création
+des mots ''robot'' et ''androïïde''.
+
+41
+00:04:55,828 --> 00:04:57,022
+Et alors?
+
+42
+00:04:57,108 --> 00:05:00,066
+C'est dans notre nature
+de chercher l'immortalité
+
+43
+00:05:00,148 --> 00:05:03,265
+en créant des véhicules
+pour notre conscience.
+
+44
+00:05:03,348 --> 00:05:04,861
+Des véhicules?
+
+45
+00:05:04,948 --> 00:05:06,540
+Colonel O'Neill, Dr Jackson.
+
+46
+00:05:06,628 --> 00:05:10,780
+Le commandant et moi
+nous demandons s'il faut activer le robot.
+
+47
+00:05:10,868 --> 00:05:11,937
+C'est possible?
+
+48
+00:05:12,028 --> 00:05:14,906
+Je crois savoir
+recharger la batterie centrale.
+
+49
+00:05:14,988 --> 00:05:18,219
+Jusque-là, elle a fonctionné
+à moins de 1 % de ses capacités.
+
+50
+00:05:18,308 --> 00:05:21,220
+J'espère que ça a suffi
+pour sauvegarder les mémoires.
+
+51
+00:05:21,308 --> 00:05:23,503
+Si mémoires il y a, bien entendu.
+
+52
+00:05:23,668 --> 00:05:25,977
+Rappelez-moi
+pourquoi vous voulez faire ça.
+
+53
+00:05:26,068 --> 00:05:29,140
+ll s'agit d'un élément
+technologiquement évolué.
+
+54
+00:05:29,428 --> 00:05:33,865
+Si on me laisse le temps,
+je comprendrai son fonctionnement.
+
+55
+00:05:33,948 --> 00:05:38,260
+Son système neurologique semble
+aussi complexe que le cerveau humain.
+
+56
+00:05:40,188 --> 00:05:42,179
+Donc?
+
+57
+00:05:42,628 --> 00:05:46,382
+Donc j'espère que le robot pourra
+
+58
+00:05:46,468 --> 00:05:50,905
+m'aider à le comprendre.
+
+59
+00:06:19,788 --> 00:06:21,983
+Et maintenant?
+
+60
+00:06:22,068 --> 00:06:25,856
+Ses batteries
+devraient être rechargées à bloc.
+
+61
+00:06:25,948 --> 00:06:28,940
+Apparemment,
+il n'y pas de bouton d'allumage.
+
+62
+00:06:30,468 --> 00:06:33,540
+Elle a pu se trouver
+trop longtemps sans énergie.
+
+63
+00:06:35,188 --> 00:06:36,985
+Tu n'as qu'à l'embrasser.
+
+64
+00:06:45,228 --> 00:06:47,822
+- J'entends son pouls.
+- Son coeur bat?
+
+65
+00:06:48,748 --> 00:06:50,340
+Elle a un coeur?
+
+66
+00:06:50,428 --> 00:06:54,899
+C'est une imitation
+très réaliste d'un être humain.
+
+67
+00:06:59,268 --> 00:07:00,462
+Oû suis-je?
+
+68
+00:07:00,548 --> 00:07:04,780
+Dans une base de la planète Terre.
+Je m'appelle Daniel Jackson.
+
+69
+00:07:04,868 --> 00:07:07,428
+Voici le commandant Carter
+et Jack O'Neill.
+
+70
+00:07:07,508 --> 00:07:09,624
+Bonjour.
+
+71
+00:07:10,908 --> 00:07:13,103
+Je m'appelle Reese.
+
+72
+00:07:14,788 --> 00:07:17,382
+- Oû est mon père?
+- On n'en est pas sûrs.
+
+73
+00:07:20,828 --> 00:07:23,137
+Je vais vous expliquer.
+
+74
+00:07:23,228 --> 00:07:26,459
+- Ne me faites pas de mal.
+- Ce n'est pas notre intention.
+
+75
+00:07:28,588 --> 00:07:31,182
+Comment suis-je arrivée?
+
+76
+00:07:32,068 --> 00:07:35,504
+Vous étiez sur votre planète
+et on vous a amenée par le Stargate.
+
+77
+00:07:35,588 --> 00:07:38,705
+- C'est quoi?
+- ll y en avait sur votre planète.
+
+78
+00:07:38,788 --> 00:07:42,064
+Ca permet de franchir
+de grandes distances dans l'espace.
+
+79
+00:07:42,148 --> 00:07:44,343
+On vous expliquera ça plus tard.
+
+80
+00:07:45,868 --> 00:07:48,462
+Pourquoi m'avez-vous amenée ici?
+
+81
+00:07:48,548 --> 00:07:51,142
+Ce n'est pas facile à dire,
+
+82
+00:07:51,228 --> 00:07:54,618
+mais votre civilisation a été détruite.
+
+83
+00:07:56,228 --> 00:07:59,220
+- Comment?
+- On ne sait pas.
+
+84
+00:07:59,308 --> 00:08:02,778
+On espérait que vous nous l'expliqueriez.
+
+85
+00:08:04,348 --> 00:08:06,339
+Je...
+
+86
+00:08:07,748 --> 00:08:11,536
+- Je dormais.
+- On vous a trouvée endormie.
+
+87
+00:08:11,628 --> 00:08:13,425
+Et mon père?
+
+88
+00:08:14,708 --> 00:08:18,621
+Apparemment,
+vous êtes la seule survivante.
+
+89
+00:08:24,028 --> 00:08:27,020
+Vous ne savez rien de ce qui s'est passé?
+
+90
+00:08:29,028 --> 00:08:33,818
+Mon père avait conscience d'un danger.
+ll m'a dit de dormir.
+
+91
+00:08:33,908 --> 00:08:37,059
+ll devait me réveiller
+une fois le danger écarté.
+
+92
+00:08:38,868 --> 00:08:40,460
+Nous sommes désolés.
+
+93
+00:08:43,308 --> 00:08:45,538
+Que voulez-vous?
+
+94
+00:08:45,628 --> 00:08:48,938
+Nous cherchons à comprendre.
+
+95
+00:08:50,068 --> 00:08:53,856
+- Quoi?
+- Votre planète, son histoire et...
+
+96
+00:08:53,948 --> 00:08:56,985
+- vous.
+- Comment ça?
+
+97
+00:08:57,068 --> 00:09:00,458
+J'aimerais comprendre
+comment vous fonctionnez.
+
+98
+00:09:03,988 --> 00:09:07,105
+Comment votre système fonctionne.
+
+99
+00:09:07,188 --> 00:09:11,340
+- Je suis comme vous.
+- Pas tout à fait.
+
+100
+00:09:11,428 --> 00:09:13,419
+En tout cas, c'est ce qu'on dirait.
+
+101
+00:09:14,788 --> 00:09:17,985
+- Quelle est la différence?
+- Sam, je peux te parler?
+
+102
+00:09:18,068 --> 00:09:19,626
+Oui.
+
+103
+00:09:19,708 --> 00:09:23,383
+On sort quelques instants.
+Ca va aller?
+
+104
+00:09:23,468 --> 00:09:25,459
+On revient.
+
+105
+00:09:31,548 --> 00:09:32,947
+Excusez-moi.
+
+106
+00:09:41,748 --> 00:09:44,660
+On dirait qu'elle ignore
+qu'elle est un robot.
+
+107
+00:09:45,428 --> 00:09:47,146
+Comment est-ce possible?
+
+108
+00:09:47,228 --> 00:09:52,461
+Quand on a copié ta conscience
+dans un robot, tu ne t'en es pas aperçu.
+
+109
+00:09:52,548 --> 00:09:53,981
+Qu'est-ce que tu proposes?
+
+110
+00:09:54,068 --> 00:09:56,536
+Evitons de lui révéler ce qu'elle est.
+
+111
+00:09:56,628 --> 00:10:00,018
+Elle vient d'apprendre
+que sa planète est détruite.
+
+112
+00:10:00,788 --> 00:10:02,585
+Pourquoi?
+
+113
+00:10:03,788 --> 00:10:05,983
+C'est une machine.
+
+114
+00:10:06,068 --> 00:10:08,741
+Elle vient d'apprendre
+la mort de son père.
+
+115
+00:10:08,828 --> 00:10:11,945
+- C'est une machine.
+- ll a raison.
+
+116
+00:10:12,028 --> 00:10:14,826
+- Ce n'était pas un vrai père.
+- Possible.
+
+117
+00:10:14,908 --> 00:10:18,264
+C'est peut-être son créateur.
+Ou alors, on parle
+
+118
+00:10:18,348 --> 00:10:21,340
+à la conscience d'un être humain
+qui jadis a eu un père.
+
+119
+00:10:21,428 --> 00:10:25,979
+ll faut être prudent
+pour déterminer ce qui est vivant.
+
+120
+00:10:26,068 --> 00:10:31,142
+C'est vrai. Seulement,
+elle a le droit de savoir ce qu'elle est.
+
+121
+00:10:31,228 --> 00:10:34,220
+On devrait attendre un peu.
+
+122
+00:10:34,308 --> 00:10:36,981
+Elle avait l'air bouleversée.
+
+123
+00:10:37,548 --> 00:10:39,140
+Pour une machine.
+
+124
+00:10:39,228 --> 00:10:42,026
+On ignore les effets psychologiques
+que ça va avoir.
+
+125
+00:10:42,108 --> 00:10:43,336
+Psychologiques?
+
+126
+00:10:43,428 --> 00:10:47,216
+Que son comportement relève d'une
+programmation sophistiquée ou non,
+
+127
+00:10:47,308 --> 00:10:50,903
+le meilleur moyen d'en savoir
+davantage sur elle, c'est de se mettre
+
+128
+00:10:50,988 --> 00:10:53,377
+à son niveau pour le moment.
+
+129
+00:10:55,868 --> 00:10:57,859
+Ca ne fera pas de mal.
+
+130
+00:11:03,268 --> 00:11:05,862
+- Ce n'est pas logique.
+- Quoi donc?
+
+131
+00:11:05,948 --> 00:11:09,020
+Pourquoi détruire
+entièrement une civilisation
+
+132
+00:11:09,108 --> 00:11:13,386
+et laisser intact
+un élément technologique très avancé?
+
+133
+00:11:13,468 --> 00:11:15,265
+C'est ce qu'il se demande.
+
+134
+00:11:15,348 --> 00:11:19,819
+Moi, je dis qu'on a peut-être raté
+quelque chose sur cette planète.
+
+135
+00:11:21,148 --> 00:11:23,343
+Je vais y retourner.
+
+136
+00:11:26,148 --> 00:11:28,981
+Le reste de votre planète
+est comme cet endroit?
+
+137
+00:11:29,068 --> 00:11:31,059
+Non, c'est très différent.
+
+138
+00:11:32,348 --> 00:11:34,782
+C'est comment?
+
+139
+00:11:34,868 --> 00:11:38,224
+ll y a des climats différents,
+des paysages variés,
+
+140
+00:11:38,308 --> 00:11:41,584
+de grands océans et plein de civilisations
+
+141
+00:11:41,668 --> 00:11:44,501
+composées de gens très différents.
+
+142
+00:11:44,948 --> 00:11:48,463
+- Ca a l'air beau.
+- Ca l'est.
+
+143
+00:11:51,548 --> 00:11:53,698
+Je peux visiter?
+
+144
+00:11:53,788 --> 00:11:55,858
+Bientôt.
+
+145
+00:11:55,948 --> 00:11:57,586
+Pourquoi pas maintenant?
+
+146
+00:11:57,668 --> 00:12:00,580
+Parce que nous devons encore discuter.
+
+147
+00:12:00,668 --> 00:12:04,343
+Ca fait si longtemps qu'on discute.
+
+148
+00:12:04,428 --> 00:12:09,218
+Mais vous devez savoir d'autres choses
+que ce dont on a déjà parlé.
+
+149
+00:12:22,748 --> 00:12:25,023
+J'en sais beaucoup.
+
+150
+00:12:26,228 --> 00:12:30,460
+Que savez-vous des dangers
+qui menaçaient votre planète?
+
+151
+00:12:49,468 --> 00:12:53,461
+On perd peut-être
+complètement notre temps.
+
+152
+00:12:54,908 --> 00:12:58,105
+- Vous avez trouvé des trucs?
+- Beaucoup de gravats.
+
+153
+00:12:58,188 --> 00:13:00,224
+Nous avons terminé ici.
+
+154
+00:13:00,308 --> 00:13:02,742
+On cherche
+ce qui n'est pas caractéristique
+
+155
+00:13:02,828 --> 00:13:04,978
+de la technologie indigène?
+
+156
+00:13:06,188 --> 00:13:09,578
+Je formule autrement.
+
+157
+00:13:09,668 --> 00:13:11,579
+D'accord.
+
+158
+00:13:11,668 --> 00:13:16,139
+Le commandant Carter a dit de ne rien
+négliger, même si ça paraît insignifiant.
+
+159
+00:13:16,228 --> 00:13:18,617
+- Qu'est-ce que c'est?
+- Sûrement rien,
+
+160
+00:13:18,708 --> 00:13:20,903
+mais on a trouvé ça en quantité.
+
+161
+00:13:20,988 --> 00:13:23,786
+Je n'ai jamais rien vu de tel.
+
+162
+00:13:35,668 --> 00:13:37,943
+Vous savez ce que c'est?
+
+163
+00:13:38,028 --> 00:13:40,019
+Oui.
+
+164
+00:13:50,988 --> 00:13:55,027
+Aucune énergie.
+Ces blocs ont l'air morts.
+
+165
+00:13:55,108 --> 00:13:57,986
+lls doivent être là
+depuis leur destruction.
+
+166
+00:13:58,068 --> 00:14:00,628
+Les réplicateurs
+sont la cause de la destruction?
+
+167
+00:14:00,708 --> 00:14:03,427
+Les 1 res traces des réplicateurs
+dans cette galaxie.
+
+168
+00:14:03,748 --> 00:14:05,818
+Ca doit faire très longtemps.
+
+169
+00:14:05,908 --> 00:14:10,936
+Ca ne cadre toujours pas. Les réplicateurs
+sont à l'affût de la technologie.
+
+170
+00:14:11,028 --> 00:14:15,226
+Pourquoi tout manger et épargner Reese?
+
+171
+00:14:16,188 --> 00:14:18,861
+Elle s'est peut-être défendue.
+
+172
+00:14:19,228 --> 00:14:20,456
+Elle dormait.
+
+173
+00:14:20,828 --> 00:14:24,946
+Elle émet peut-être
+un signal qui les repousse.
+
+174
+00:14:25,028 --> 00:14:27,701
+Pas forcément exprès, d'ailleurs.
+
+175
+00:14:27,788 --> 00:14:29,187
+Un aérosol anti-insecte?
+
+176
+00:14:29,268 --> 00:14:34,137
+C'est peut-être la clé
+de notre lutte contre les réplicateurs.
+
+177
+00:14:34,228 --> 00:14:38,016
+Peut-être, mais on est bien loin
+de pouvoir l'affirmer.
+
+178
+00:14:38,108 --> 00:14:41,987
+- Dr Jackson, qu'avez-vous appris?
+- En fait, pas grand-chose.
+
+179
+00:14:42,068 --> 00:14:45,344
+C'est dur de fixer son attention,
+elle a du mal à se concentrer.
+
+180
+00:14:45,428 --> 00:14:48,022
+Elle a l'esprit d'une enfant.
+
+181
+00:14:54,068 --> 00:14:55,660
+Quoi?
+
+182
+00:14:57,868 --> 00:15:01,304
+Elle ne me dit pas forcément
+tout ce qu'elle sait.
+
+183
+00:15:01,628 --> 00:15:05,223
+- Elle cacherait quelque chose?
+- J'en ai l'impression.
+
+184
+00:15:05,788 --> 00:15:08,825
+Pourquoi créer un robot
+avec un esprit d'enfant?
+
+185
+00:15:08,908 --> 00:15:13,504
+Comme le disait Daniel,
+sa conscience a peut-être été transférée.
+
+186
+00:15:13,588 --> 00:15:16,864
+Peut-être que son créateur
+voulait qu'elle soit mûre,
+
+187
+00:15:16,948 --> 00:15:19,143
+mais qu'il a raté la programmation.
+
+188
+00:15:19,228 --> 00:15:21,617
+Si elle cache quelque chose,
+
+189
+00:15:21,708 --> 00:15:24,620
+il faudra être prudent
+quand on est à son contact.
+
+190
+00:15:24,708 --> 00:15:28,587
+Je pense qu'il est temps
+de dire la vérité à Reese.
+
+191
+00:15:30,068 --> 00:15:35,142
+Si on la force à accepter
+qu'elle est une forme de vie artificielle,
+
+192
+00:15:35,228 --> 00:15:39,824
+ça peut changer
+les priorités programmées en elle.
+
+193
+00:15:49,548 --> 00:15:52,221
+- Je suis si contente.
+- Comment?
+
+194
+00:15:52,308 --> 00:15:55,061
+Je l'ai fabriqué. Ca vous plaît?
+
+195
+00:15:55,148 --> 00:15:57,708
+C'est joli. Comment avez-vous fait?
+
+196
+00:15:57,788 --> 00:16:01,337
+J'en ai marre d'être ici.
+Je peux sortir?
+
+197
+00:16:01,428 --> 00:16:04,420
+Asseyez-vous.
+ll faut que nous discutions.
+
+198
+00:16:10,188 --> 00:16:13,544
+- Non.
+- Ca ne va pas prendre longtemps.
+
+199
+00:16:13,628 --> 00:16:16,938
+Je veux m'amuser.
+Vous ne vous amusez jamais?
+
+200
+00:16:17,028 --> 00:16:20,304
+Pas autant que j'aimerais.
+C'est capital. Asseyez-vous.
+
+201
+00:16:20,388 --> 00:16:23,380
+- Après, on s'amusera? C'est promis?
+- Oui.
+
+202
+00:16:24,068 --> 00:16:26,059
+Bon...
+
+203
+00:16:26,868 --> 00:16:30,019
+Reese, vous savez
+qu'il y a toutes sortes de gens.
+
+204
+00:16:30,348 --> 00:16:31,497
+Bien sûr.
+
+205
+00:16:31,588 --> 00:16:36,104
+En fait, il existe
+des formes de vie très variées.
+
+206
+00:16:36,188 --> 00:16:38,258
+C'est ennuyeux.
+
+207
+00:16:38,348 --> 00:16:42,057
+Je m'identifie de plus en plus à cette fille.
+
+208
+00:16:42,148 --> 00:16:45,584
+Vous pensez que nous sommes
+semblables, mais c'est faux.
+
+209
+00:16:45,668 --> 00:16:49,866
+- Mon père disait que j'étais différente.
+- Oui, il avait raison.
+
+210
+00:16:51,228 --> 00:16:56,507
+Malgré notre ressemblance,
+nous sommes très différents.
+
+211
+00:16:56,588 --> 00:17:00,263
+- C'est évident.
+- lntérieurement.
+
+212
+00:17:01,508 --> 00:17:03,499
+Comment?
+
+213
+00:17:07,548 --> 00:17:10,346
+Je suis de chair et d'os.
+
+214
+00:17:10,428 --> 00:17:12,703
+Vous êtes une machine.
+
+215
+00:17:15,708 --> 00:17:18,506
+Une machine très perfectionnée.
+
+216
+00:17:18,588 --> 00:17:21,386
+Plutôt un ordinateur.
+
+217
+00:17:25,588 --> 00:17:29,581
+- Je suis vivante.
+- Oui, mais pas comme moi.
+
+218
+00:17:30,628 --> 00:17:34,177
+Vous nous ressemblez énormément,
+mais vous n'êtes pas humaine.
+
+219
+00:17:34,468 --> 00:17:36,663
+Mais si.
+
+220
+00:17:39,708 --> 00:17:42,666
+Non, Reese. Je peux vous le prouver.
+
+221
+00:17:42,748 --> 00:17:43,942
+Non.
+
+222
+00:17:49,588 --> 00:17:53,581
+Je veux partir. Laissez-moi sortir.
+
+223
+00:17:56,388 --> 00:17:58,948
+Ca s'est bien passé.
+
+224
+00:17:59,028 --> 00:18:03,704
+Peut-être qu'elle est programmée
+pour se croire humaine.
+
+225
+00:18:03,788 --> 00:18:06,461
+Le déni du robot?
+
+226
+00:18:06,868 --> 00:18:08,460
+On dirait.
+
+227
+00:18:08,548 --> 00:18:12,666
+Personne ne s'est dit qu'elle a traîné
+trop longtemps sur sa planète
+
+228
+00:18:12,748 --> 00:18:16,900
+et qu'elle est peut-être cassée?
+
+229
+00:18:16,988 --> 00:18:20,947
+Peut-être qu'elle n'a jamais fonctionné.
+
+230
+00:18:21,028 --> 00:18:23,178
+- Alors, on la débranche?
+- Aucune idée.
+
+231
+00:18:23,268 --> 00:18:26,817
+Demandons à celui qui vient
+de se faire défoncer le crâne.
+
+232
+00:18:26,908 --> 00:18:29,627
+Elle n'a pas aimé ce que j'ai dit.
+
+233
+00:18:29,708 --> 00:18:32,586
+Ce que tu dis me déplaît souvent.
+
+234
+00:18:32,668 --> 00:18:35,341
+Je résiste à l'envie
+de te fracasser contre un mur.
+
+235
+00:18:35,428 --> 00:18:39,216
+Reese a survécu
+à une attaque intensive des réplicateurs.
+
+236
+00:18:39,308 --> 00:18:42,505
+Elle doit pouvoir
+nous apprendre autre chose.
+
+237
+00:18:53,308 --> 00:18:55,299
+Enfin.
+
+238
+00:18:59,268 --> 00:19:02,226
+Vous me pardonnez?
+Je ne voulais pas vous faire de mal.
+
+239
+00:19:02,308 --> 00:19:04,344
+- Je sais.
+- Tant mieux.
+
+240
+00:19:04,428 --> 00:19:07,500
+- Je vous pardonne aussi.
+- Quoi?
+
+241
+00:19:07,588 --> 00:19:09,624
+- Quoi?
+- De m'avoir attaquée.
+
+242
+00:19:11,108 --> 00:19:13,497
+Je ne vous ai pas attaquée.
+
+243
+00:19:14,748 --> 00:19:18,263
+- Peu importe. Oublions ça.
+- On ferait mieux d'en parler.
+
+244
+00:19:18,348 --> 00:19:22,102
+Non. J'en ai trop marre.
+Je veux sortir d'ici.
+
+245
+00:19:22,188 --> 00:19:24,463
+Je veux voir votre monde.
+
+246
+00:19:24,548 --> 00:19:26,664
+Pourquoi avez-vous si peur de moi?
+
+247
+00:19:27,508 --> 00:19:30,625
+- Personne n'a peur de vous.
+- Je ne ferai rien de mal, promis.
+
+248
+00:19:30,708 --> 00:19:32,619
+Je sais.
+
+249
+00:19:33,988 --> 00:19:36,297
+- Je vous ai fabriqué un truc.
+- C'est vrai?
+
+250
+00:19:36,388 --> 00:19:39,300
+Vous disiez
+que vous vouliez vous amuser.
+
+251
+00:19:39,388 --> 00:19:40,457
+Oui.
+
+252
+00:20:01,908 --> 00:20:04,900
+N'ayez pas peur. C'est un jouet.
+
+253
+00:20:16,188 --> 00:20:18,258
+Ce verre résiste à l'acide,
+
+254
+00:20:18,348 --> 00:20:21,738
+mais on n'a pas testé
+les projections des réplicateurs.
+
+255
+00:20:24,028 --> 00:20:27,418
+Pourquoi on le garde?
+On sait ce dont ils sont capables.
+
+256
+00:20:27,508 --> 00:20:30,580
+- Elle le contrôle.
+- Comment l'a-t-elle fabriqué?
+
+257
+00:20:30,668 --> 00:20:33,262
+J'ai ma petite idée.
+
+258
+00:20:51,828 --> 00:20:55,582
+La nanotechnologie.
+Ses nanobots d'autoréparation
+
+259
+00:20:55,668 --> 00:20:59,661
+sont capables de réorganiser la matière
+au niveau microscopique.
+
+260
+00:20:59,748 --> 00:21:02,308
+Elle comprend
+parfaitement leur construction.
+
+261
+00:21:02,388 --> 00:21:04,458
+Elle doit savoir comment les maîtriser.
+
+262
+00:21:04,548 --> 00:21:07,267
+- Elle nous le dira?
+- C'est là le problème.
+
+263
+00:21:07,748 --> 00:21:08,783
+Quoi?
+
+264
+00:21:08,868 --> 00:21:11,462
+- Elle ne parle pas.
+- ll faut la forcer.
+
+265
+00:21:11,548 --> 00:21:14,904
+Elle a été vexée
+que je n'apprécie pas son cadeau.
+
+266
+00:21:14,988 --> 00:21:18,185
+Ca me dépasse complètement.
+
+267
+00:21:18,268 --> 00:21:21,658
+ll faudrait contacter les Asgards.
+lls pourraient nous aider.
+
+268
+00:21:21,748 --> 00:21:24,581
+Je vais demander au SG-2
+d'entrer en contact avec eux.
+
+269
+00:21:24,668 --> 00:21:27,136
+Voyez ce que vous pouvez
+apprendre d'autre.
+
+270
+00:21:27,228 --> 00:21:28,820
+Bien, mon général.
+
+271
+00:21:45,788 --> 00:21:48,063
+ll faut qu'on discute.
+
+272
+00:21:48,908 --> 00:21:51,820
+Que savez-vous des réplicateurs?
+
+273
+00:21:51,908 --> 00:21:54,502
+- Les réplicateurs?
+- Oui.
+
+274
+00:21:54,588 --> 00:21:58,024
+On les appelle ainsi
+parce qu'ils se reproduisent.
+
+275
+00:21:58,108 --> 00:22:00,861
+C'est un jouet. Vous ne craignez rien.
+
+276
+00:22:00,948 --> 00:22:05,783
+Un jouet? lls sont des millions
+à flotter dans l'espace
+
+277
+00:22:05,868 --> 00:22:08,621
+et à détruire tout ce qu'ils touchent.
+
+278
+00:22:08,708 --> 00:22:11,666
+- Je ne comprends pas.
+- lls ont détruit votre planète.
+
+279
+00:22:11,748 --> 00:22:14,820
+Ne me dites pas que vous avez oublié.
+Je ne vous crois pas.
+
+280
+00:22:14,908 --> 00:22:16,978
+Vous voulez me détruire.
+
+281
+00:22:19,388 --> 00:22:21,299
+- Doucement.
+- On vous veut pas de mal.
+
+282
+00:22:21,388 --> 00:22:23,697
+Racontez-nous.
+
+283
+00:22:29,028 --> 00:22:31,701
+Ce n'est pas ma faute.
+
+284
+00:22:34,788 --> 00:22:37,780
+Les gens avaient peur sur ma planète.
+
+285
+00:22:37,868 --> 00:22:41,019
+lls voulaient détruire mes jouets.
+Et moi avec.
+
+286
+00:22:42,148 --> 00:22:46,380
+lls disaient que mon père m'avait
+mal fabriquée et que j'étais mauvaise.
+
+287
+00:22:47,108 --> 00:22:49,941
+Qu'avez-vous fait?
+
+288
+00:22:50,028 --> 00:22:52,826
+J'ai appris à mes jouets à se multiplier.
+
+289
+00:22:53,668 --> 00:22:58,867
+Je leur ai appris à se défendre
+et à me défendre
+
+290
+00:22:59,868 --> 00:23:04,146
+- si on essayait de nous détruire.
+- Vous leur avez bien appris.
+
+291
+00:23:04,748 --> 00:23:07,820
+Quand ils ont attaqué,
+pourquoi ne pas les avoir arrêtés?
+
+292
+00:23:08,108 --> 00:23:10,497
+J'ai essayé, mais je n'ai pas pu.
+
+293
+00:23:12,508 --> 00:23:15,500
+lls ne m'écoutaient plus.
+
+294
+00:23:20,588 --> 00:23:23,386
+Pourquoi vous êtes-vous endormie?
+
+295
+00:23:27,828 --> 00:23:32,140
+lls ont tué tout le monde. Mon père aussi.
+
+296
+00:23:32,228 --> 00:23:35,061
+Puis ils sont partis.
+
+297
+00:23:35,148 --> 00:23:38,379
+J'étais seule. J'étais triste.
+
+298
+00:23:44,708 --> 00:23:47,097
+Vous ne m'aimez plus.
+
+299
+00:23:48,548 --> 00:23:50,857
+Vous me trouvez méchante.
+
+300
+00:23:50,948 --> 00:23:53,178
+Nous avons besoin de votre aide.
+
+301
+00:23:53,268 --> 00:23:55,736
+Les réplicateurs sont nuisibles partout.
+
+302
+00:23:55,828 --> 00:23:59,423
+- ll faut les arrêter.
+- Vous voulez les détruire.
+
+303
+00:23:59,508 --> 00:24:02,341
+- Oui.
+- lls sont mauvais. ll faut les arrêter.
+
+304
+00:24:02,428 --> 00:24:04,225
+- Vous voulez me détruire.
+- Non.
+
+305
+00:24:04,308 --> 00:24:08,267
+Si. Vous pensez que mon père
+m'a ratée. Vous me détestez.
+
+306
+00:24:38,588 --> 00:24:43,423
+Le SG-2 n'a pas pu contacter les Asgards
+à partir de la salle Katal.
+
+307
+00:24:43,508 --> 00:24:46,739
+- Rien?
+- J'espère que ça va.
+
+308
+00:24:46,828 --> 00:24:49,979
+ll serait dommage que les Asgards
+s'inclinent devant eux
+
+309
+00:24:50,068 --> 00:24:53,344
+au moment oû nous apprenons
+à dominer ces réplicateurs.
+
+310
+00:24:53,428 --> 00:24:55,988
+ll est un peu tôt pour crier victoire.
+
+311
+00:24:56,068 --> 00:24:58,866
+Ce robot dépasse notre entendement.
+
+312
+00:24:58,948 --> 00:25:02,907
+On peut lutter contre les réplicateurs,
+mais sans l'aide des Asgards,
+
+313
+00:25:02,988 --> 00:25:08,062
+impossible d'amener Reese
+à nous aider à les écraser.
+
+314
+00:25:08,148 --> 00:25:12,027
+- Le robot refuse de coopérer?
+- Elle est fermée comme une huître.
+
+315
+00:25:12,108 --> 00:25:13,700
+Elle croit qu'on ne l'aime pas.
+
+316
+00:25:13,788 --> 00:25:17,144
+Les siens pensaient qu'elle était
+mal construite et voulaient
+
+317
+00:25:17,228 --> 00:25:19,184
+l'éliminer, elle et ses jouets.
+
+318
+00:25:19,268 --> 00:25:22,897
+Ce serait leur accorder
+une grande intelligence.
+
+319
+00:25:23,228 --> 00:25:25,423
+Le concepteur de Reese s'est trompé.
+
+320
+00:25:25,508 --> 00:25:29,786
+Elle sait construire des réplicateurs,
+mais elle est complètement immature.
+
+321
+00:25:29,868 --> 00:25:31,540
+Elle se défend, c'est tout.
+
+322
+00:25:31,628 --> 00:25:36,019
+C'est une gamine qui, sans le vouloir,
+a fait de ses jouets une arme.
+
+323
+00:25:36,508 --> 00:25:38,339
+Peut-être.
+
+324
+00:25:38,948 --> 00:25:41,337
+Elle nous ment depuis le début.
+
+325
+00:25:41,428 --> 00:25:44,943
+Nous sommes manifestement
+dépassés par les événements.
+
+326
+00:25:45,028 --> 00:25:50,421
+En attendant des nouvelles des Asgards,
+neutralisez le robot.
+
+327
+00:25:52,228 --> 00:25:56,016
+- Ca risque de chauffer.
+- Faites le nécessaire.
+
+328
+00:26:30,028 --> 00:26:33,737
+Les caméras ne marchent plus.
+Je n'arrive pas à récupérer l'image.
+
+329
+00:26:33,828 --> 00:26:35,784
+On s'en occupe.
+
+330
+00:26:35,868 --> 00:26:38,428
+ll n'y a plus d'image.
+
+331
+00:26:48,708 --> 00:26:50,903
+lls sont là.
+
+332
+00:27:21,748 --> 00:27:24,626
+- Vivants. Les sauveteurs arrivent.
+- Oû est-elle?
+
+333
+00:27:24,708 --> 00:27:28,223
+La porte était ouverte.
+La prisonnière avait disparu.
+
+334
+00:27:28,948 --> 00:27:31,303
+Des réplicateurs.
+
+335
+00:27:31,388 --> 00:27:32,980
+O'Neill pour Hammond.
+
+336
+00:27:33,748 --> 00:27:36,865
+On dirait
+qu'on a un problème de réplicateurs.
+
+337
+00:27:36,948 --> 00:27:40,418
+Fermons la base
+et passons-la au peigne fin.
+
+338
+00:27:40,508 --> 00:27:42,385
+Bien, mon général.
+
+339
+00:27:42,468 --> 00:27:45,619
+Nous avons également
+un robot dans la nature.
+
+340
+00:27:45,708 --> 00:27:48,381
+ll faut la récupérer indemne.
+
+341
+00:27:48,468 --> 00:27:51,460
+A récupérer indemne.
+
+342
+00:27:52,468 --> 00:27:54,060
+Oui, mon général.
+
+343
+00:27:54,148 --> 00:27:55,945
+Comment est-ce arrivé?
+
+344
+00:27:56,028 --> 00:28:00,544
+ll n'y a plus rien
+qui permette de créer un réplicateur.
+
+345
+00:28:00,628 --> 00:28:04,018
+Elle avait dû prévoir
+assez de pièces pour en faire deux.
+
+346
+00:28:04,268 --> 00:28:06,304
+ll peut y en avoir des centaines.
+
+347
+00:28:46,388 --> 00:28:50,427
+lls ont forcé nos défenses électriques.
+Je verrouille le système informatique.
+
+348
+00:28:50,508 --> 00:28:53,739
+Ca va empêcher les réplicateurs
+d'accéder au composeur?
+
+349
+00:28:53,828 --> 00:28:56,626
+J'en doute,
+mais on va gagner du temps.
+
+350
+00:28:58,228 --> 00:29:01,459
+Commandant, ils ont forcé
+la sécurité au niveau 28.
+
+351
+00:29:01,548 --> 00:29:04,016
+Les réplicateurs vers la salle de contrôle.
+
+352
+00:29:04,108 --> 00:29:05,507
+Bien reçu.
+
+353
+00:29:08,628 --> 00:29:11,620
+Battons en retraite
+en attendant du renfort.
+
+354
+00:29:31,308 --> 00:29:33,105
+Mon général.
+
+355
+00:29:59,788 --> 00:30:03,303
+Elle est enfermée dans la salle
+du Stargate. ll y a des réplicateurs.
+
+356
+00:30:03,388 --> 00:30:05,982
+- Elle essaye de rentrer chez elle.
+- Laissons-la.
+
+357
+00:30:06,068 --> 00:30:09,856
+- On ne peut pas la laisser.
+- On dira aux Asgards oû elle est.
+
+358
+00:30:09,948 --> 00:30:13,623
+Si elle pense qu'on veut l'annihiler,
+elle peut aller n'importe oû.
+
+359
+00:30:13,948 --> 00:30:18,066
+Ne la laissons pas partir. Elle pourrait
+perdre la maîtrise des réplicateurs.
+
+360
+00:30:18,148 --> 00:30:20,537
+On lui balancera une bombe.
+
+361
+00:30:21,468 --> 00:30:23,538
+J'aimerais essayer de l'arrêter.
+
+362
+00:30:24,828 --> 00:30:26,261
+Comment?
+
+363
+00:30:26,348 --> 00:30:30,261
+- En regagnant sa confiance.
+- Et ensuite?
+
+364
+00:30:30,348 --> 00:30:33,624
+Je ne sais pas.
+Je vais improviser.
+
+365
+00:30:33,708 --> 00:30:37,826
+Si vous vous approchez d'elle,
+enlevez-lui sa batterie.
+
+366
+00:30:38,188 --> 00:30:42,022
+- Et les réplicateurs?
+- Ce sont pas les mêmes que d'habitude.
+
+367
+00:30:42,108 --> 00:30:47,580
+Elle les contrôle. Si Daniel la neutralise,
+ils s'arrêteront peut-être.
+
+368
+00:30:48,148 --> 00:30:50,139
+lls existent pour protéger Reese.
+
+369
+00:30:50,228 --> 00:30:53,300
+Si elle disparaît,
+ils n'auront plus de protocole à suivre.
+
+370
+00:30:53,388 --> 00:30:57,063
+lls peuvent attaquer Daniel
+pour affirmer le pouvoir de leur chef.
+
+371
+00:30:57,148 --> 00:30:59,503
+C'est là que vous interviendrez.
+
+372
+00:30:59,708 --> 00:31:01,983
+Je vous donne votre chance, Dr Jackson.
+
+373
+00:31:02,308 --> 00:31:06,824
+Avec tout le respect que je vous dois,
+l'idée est mauvaise.
+
+374
+00:31:06,908 --> 00:31:09,138
+J'espère que non.
+
+375
+00:31:34,348 --> 00:31:37,385
+Reese, laissez-moi entrer.
+Je veux vous parler.
+
+376
+00:31:51,428 --> 00:31:54,818
+- Activez le Stargate.
+- Non.
+
+377
+00:31:54,908 --> 00:31:56,899
+Je ne veux pas que vous partiez.
+
+378
+00:31:58,708 --> 00:32:00,585
+Vous me détestez.
+
+379
+00:32:00,668 --> 00:32:02,738
+Personne ne vous déteste.
+
+380
+00:32:03,308 --> 00:32:05,503
+lls ont peur de moi.
+
+381
+00:32:09,428 --> 00:32:13,137
+- lls ne vous comprennent pas.
+- Je ne voulais pas faire de mal.
+
+382
+00:32:13,228 --> 00:32:15,662
+Je sais.
+
+383
+00:32:15,748 --> 00:32:17,739
+- Restez.
+- C'est trop tard.
+
+384
+00:32:17,988 --> 00:32:22,584
+J'ai accès à votre système informatique.
+Je me débrouillerai.
+
+385
+00:32:25,188 --> 00:32:28,339
+Je ne veux pas que vous partiez.
+
+386
+00:32:31,028 --> 00:32:33,223
+Pourquoi?
+
+387
+00:32:34,548 --> 00:32:36,778
+Je veux être votre ami.
+
+388
+00:32:41,628 --> 00:32:45,303
+- Je n'ai jamais eu d'amis.
+- Je serai votre ami.
+
+389
+00:32:47,908 --> 00:32:52,584
+Vos jouets sont amusants,
+mais ils ne sont pas humains.
+
+390
+00:32:53,908 --> 00:32:56,103
+lls me protègent.
+
+391
+00:32:56,188 --> 00:32:57,860
+Je vous protégerai.
+
+392
+00:32:59,188 --> 00:33:01,907
+- Vous me le jurez?
+- Oui.
+
+393
+00:33:01,988 --> 00:33:04,183
+Personne ne vous fera de mal.
+
+394
+00:33:05,428 --> 00:33:07,180
+Venez.
+
+395
+00:33:09,188 --> 00:33:11,383
+On va visiter mon monde?
+
+396
+00:33:13,388 --> 00:33:15,982
+- C'est vrai?
+- Oui.
+
+397
+00:33:23,308 --> 00:33:24,787
+Vous cherchez à me tromper.
+
+398
+00:33:24,868 --> 00:33:27,302
+- Non.
+- Si. Vous mentez.
+
+399
+00:33:27,388 --> 00:33:29,583
+Mentir, c'est moche.
+
+400
+00:33:31,068 --> 00:33:33,059
+Vous ne me ferez pas de mal.
+
+401
+00:33:45,188 --> 00:33:50,581
+Daniel est dans la mouise.
+On ne sait pas oû sont les réplicateurs.
+
+402
+00:33:51,108 --> 00:33:53,497
+Bien reçu. On va entrer.
+
+403
+00:34:06,228 --> 00:34:11,825
+Je refuse qu'ils quittent cette base.
+ll faut déclencher l'autodestruction.
+
+404
+00:34:11,908 --> 00:34:14,741
+lls ont accès à l'ordinateur central.
+
+405
+00:34:14,828 --> 00:34:18,707
+ll va falloir
+lancer l'opération manuellement.
+
+406
+00:34:40,028 --> 00:34:42,098
+Reese, écoutez-moi.
+
+407
+00:34:56,028 --> 00:34:58,258
+Non. Arrêtez-les.
+
+408
+00:34:59,988 --> 00:35:01,421
+A zéro.
+
+409
+00:35:01,508 --> 00:35:03,703
+Trois, deux, un.
+
+410
+00:35:10,268 --> 00:35:11,860
+C'est bon.
+
+411
+00:35:24,028 --> 00:35:26,622
+Je m'apprête à lancer l'autodestruction.
+
+412
+00:35:30,588 --> 00:35:32,021
+J'entends rien.
+
+413
+00:35:36,068 --> 00:35:37,660
+A mon signal.
+
+414
+00:35:37,748 --> 00:35:41,343
+Trois, deux, un, top.
+
+415
+00:35:43,548 --> 00:35:48,019
+Mon colonel, vous avez moins de cinq
+minutes pour annuler l'autodestruction.
+
+416
+00:35:48,748 --> 00:35:50,739
+Bien reçu.
+
+417
+00:36:03,188 --> 00:36:04,621
+Merci.
+
+418
+00:36:06,428 --> 00:36:08,225
+Mon général.
+
+419
+00:36:09,308 --> 00:36:13,267
+- Arrêtez-les.
+- Je ne peux pas. Vous, si.
+
+420
+00:36:13,748 --> 00:36:15,340
+Vous allez me tuer.
+
+421
+00:36:15,428 --> 00:36:19,023
+Non, mais nous ne voulons pas
+que notre monde finisse comme le vôtre.
+
+422
+00:36:19,108 --> 00:36:23,067
+- Ce n'était pas ma faute.
+- Si, vous avez créé les réplicateurs.
+
+423
+00:36:23,148 --> 00:36:27,858
+Vous leur avez dit de se reproduire
+et ils ont détruit votre monde.
+
+424
+00:36:28,148 --> 00:36:29,740
+Je n'y étais pour rien.
+
+425
+00:36:29,828 --> 00:36:32,706
+Vous auriez pu les arrêter
+avant qu'ils se multiplient.
+
+426
+00:36:32,788 --> 00:36:35,461
+Arrêtez-les
+avant de perdre le contrôle.
+
+427
+00:36:35,548 --> 00:36:36,947
+Non.
+
+428
+00:36:37,508 --> 00:36:38,543
+Arrêtez de tirer.
+
+429
+00:36:43,028 --> 00:36:46,259
+- ll fait quoi?
+- ll ne sait pas quoi faire, on dirait.
+
+430
+00:37:05,348 --> 00:37:07,862
+Votre père vous a mal construite.
+
+431
+00:37:07,948 --> 00:37:10,143
+- Non.
+- Si.
+
+432
+00:37:10,548 --> 00:37:12,937
+Vous avez détruit votre monde.
+
+433
+00:37:17,308 --> 00:37:20,618
+- Je ne voulais pas.
+- Je sais.
+
+434
+00:37:20,708 --> 00:37:23,620
+Et vous allez détruire le mien.
+
+435
+00:37:23,708 --> 00:37:26,427
+Je ne veux pas.
+
+436
+00:37:26,708 --> 00:37:30,064
+Je sais. ll faut arrêter maintenant.
+
+437
+00:37:32,428 --> 00:37:36,387
+Personne ne va être blessé.
+On va vous réparer.
+
+438
+00:37:37,188 --> 00:37:38,587
+Comment?
+
+439
+00:37:41,548 --> 00:37:44,824
+Arrêtez vos jouets.
+Dormez. On trouvera une solution.
+
+440
+00:37:46,108 --> 00:37:47,905
+Je ne vous crois pas.
+
+441
+00:38:03,828 --> 00:38:08,538
+Reese perd le contrôle.
+Un réplicateur agit de son propre chef.
+
+442
+00:38:17,268 --> 00:38:19,623
+Je vous réveillerai moi-même.
+
+443
+00:38:23,908 --> 00:38:26,741
+Je suis un ami.
+Je ne veux pas que vous mouriez.
+
+444
+00:38:28,988 --> 00:38:31,946
+Ni moi que vous mouriez, vous.
+
+445
+00:38:37,828 --> 00:38:39,056
+O'Neill.
+
+446
+00:39:10,948 --> 00:39:13,257
+Qu'est-ce qui se passe?
+
+447
+00:39:14,468 --> 00:39:17,426
+Les réplicateurs semblent inactifs.
+
+448
+00:39:41,868 --> 00:39:43,426
+Le robot a été neutralisé.
+
+449
+00:39:45,308 --> 00:39:47,697
+Annulez l'autodestruction.
+
+450
+00:39:57,228 --> 00:39:59,583
+Espèce de salaud!
+
+451
+00:40:01,108 --> 00:40:03,827
+C'était un plaisir.
+
+452
+00:40:05,628 --> 00:40:08,586
+- C'était inutile de la tuer.
+- Au contraire.
+
+453
+00:40:10,068 --> 00:40:12,104
+Elle les neutralisait.
+
+454
+00:40:12,468 --> 00:40:15,380
+Je ne pouvais pas le savoir.
+Toi non plus.
+
+455
+00:40:17,348 --> 00:40:21,102
+C'est elle
+qui leur a donné l'ordre d'arrêter.
+
+456
+00:40:21,308 --> 00:40:24,027
+Carter a dit qu'elle perdait le contrôle.
+
+457
+00:40:24,108 --> 00:40:29,262
+Si une de ces bêtes était sortie de la base,
+on serait dans un sacré merdier.
+
+458
+00:40:29,348 --> 00:40:32,818
+Tu viens d'éliminer
+notre seule chance de les arrêter.
+
+459
+00:40:34,268 --> 00:40:35,860
+Ecoute...
+
+460
+00:40:38,228 --> 00:40:40,264
+Je suis désolé.
+
+461
+00:40:40,348 --> 00:40:44,466
+Mais il fallait passer par là et tu le sais.
+
+462
+00:41:00,228 --> 00:41:04,016
+lci le SG-1 . Commencez à balayer.
+
+463
+00:41:04,108 --> 00:41:07,100
+Débarrassez-nous
+de toutes ces foutues bestioles.
+
+464
+00:42:05,268 --> 00:42:08,499
+Sous-titrage Visiontext: Anne Kosossey
+
+465
+00:42:08,588 --> 00:42:10,579
+FRENCH
+

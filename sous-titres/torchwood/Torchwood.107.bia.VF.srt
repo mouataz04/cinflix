@@ -1,0 +1,3468 @@
+1
+00:00:01,528 --> 00:00:02,528
+<i>Torchwood.</i>
+
+2
+00:00:03,064 --> 00:00:05,616
+<i>Indépendant du Gouvernement,
+externe à la police.</i>
+
+3
+00:00:06,104 --> 00:00:08,234
+<i>Pistant toute vie
+extraterrestre sur terre,</i>
+
+4
+00:00:08,415 --> 00:00:10,670
+<i>armant la race humaine
+contre le futur.</i>
+
+5
+00:00:11,183 --> 00:00:13,807
+<i>Le 21ème siècle est un
+tournant de l'Histoire</i>
+
+6
+00:00:14,538 --> 00:00:16,014
+<i>et vous devez être prêts.</i>
+
+7
+00:00:30,512 --> 00:00:32,877
+On y est presque.
+
+8
+00:00:32,912 --> 00:00:36,032
+On est bien occupées depuis
+que vous avez été affectés ici.
+
+9
+00:00:36,067 --> 00:00:37,677
+C'est ta première fois ?
+
+10
+00:00:37,712 --> 00:00:39,673
+Les autres t'ont taquiné, c'est ça ?
+
+11
+00:00:40,906 --> 00:00:42,345
+Je m'appelle Marie.
+
+12
+00:00:42,885 --> 00:00:44,078
+Marie,
+
+13
+00:00:44,692 --> 00:00:46,057
+comme la vierge.
+
+14
+00:00:48,613 --> 00:00:50,612
+Religieux, hum ?
+
+15
+00:00:56,293 --> 00:00:57,812
+Je suis pas ta saleté de chienne.
+
+16
+00:01:07,997 --> 00:01:09,488
+<i>Traînée !</i>
+
+17
+00:02:10,772 --> 00:02:13,292
+Les traînées ont-elles des prières ?
+
+18
+00:02:58,741 --> 00:03:01,741
+Torchwood - Saison 1
+Episode 7 - Greeks Bearing Gifts
+
+19
+00:03:01,776 --> 00:03:03,706
+Traduction par Plumedephenix
+
+20
+00:03:03,741 --> 00:03:06,084
+Resynchro par LauCass
+Relecture par Cybelia
+
+21
+00:03:06,119 --> 00:03:08,427
+~ Harkness Team ~
+~ www.seriessub.com ~
+
+22
+00:03:08,613 --> 00:03:11,450
+Une fois, juste une, j'aimerais
+rentrer dans une de ces tentes
+
+23
+00:03:11,451 --> 00:03:12,581
+et y trouver une fête.
+
+24
+00:03:12,616 --> 00:03:15,579
+Vous savez, à boire, à manger,
+des gens qui dansent,
+
+25
+00:03:15,614 --> 00:03:17,090
+une fille en pleurs dans un coin.
+
+26
+00:03:17,099 --> 00:03:18,842
+- C'est alien ?
+- Et comment !
+
+27
+00:03:18,877 --> 00:03:23,532
+Je trouve des trace d' ilménite,
+de pyroxène, et même de Matière Sombre.
+
+28
+00:03:23,567 --> 00:03:25,777
+- Une idée de ce que c'est ?
+- Aucune.
+
+29
+00:03:25,812 --> 00:03:28,333
+Ça pourrait être une arme,
+ou une très grosse agrafeuse.
+
+30
+00:03:28,368 --> 00:03:30,109
+- Comment va notre ami ?
+- Elle est morte.
+
+31
+00:03:30,144 --> 00:03:32,146
+Ouais, merci Quincy. Elle ?
+
+32
+00:03:32,231 --> 00:03:34,978
+- D'après la taille de son crâne.
+- Depuis quand sont-ils là, Tosh ?
+
+33
+00:03:35,013 --> 00:03:40,973
+D'après la profondeur où ils ont été
+trouvés, 196 ans, 11 à 11.5 mois.
+
+34
+00:03:41,008 --> 00:03:43,692
+La terre a été perturbée,
+je peux pas être plus précise.
+
+35
+00:03:43,727 --> 00:03:45,898
+Qu'est-ce qui l'a tuée ?
+L'agrafeuse ?
+
+36
+00:03:45,933 --> 00:03:48,741
+Nan. Tu vois ces côtes brisées ?
+
+37
+00:03:49,281 --> 00:03:50,419
+Je pense qu'on lui a tiré dessus.
+
+38
+00:03:50,454 --> 00:03:53,130
+Bien, on la ramène au Centre
+pour le découvrir.
+
+39
+00:03:55,933 --> 00:03:58,658
+T'es léger ! On dirait une fille.
+
+40
+00:03:58,693 --> 00:04:02,575
+Je suis pas léger, je suis rêche.
+Les grosses en sont folles.
+
+41
+00:04:02,876 --> 00:04:06,078
+Mais je suppose que j'ai
+pas besoin de te le dire.
+
+42
+00:04:21,573 --> 00:04:24,122
+Je suis désolé, mais il se peut
+que ton ordinateur soit mort.
+
+43
+00:04:24,157 --> 00:04:25,233
+Tu plaisantes ?!
+
+44
+00:04:25,371 --> 00:04:26,342
+Qu'est-ce qui s'est passé ?
+
+45
+00:04:26,377 --> 00:04:29,093
+Ok, elle a d'abord dit que
+j'étais pas bon en sport... Moi !
+
+46
+00:04:29,443 --> 00:04:30,892
+Alors j'ai dit
+'Lance moi quelque chose et...'
+
+47
+00:04:30,927 --> 00:04:33,053
+- Je parle de l'ordinateur !
+- Oh.
+
+48
+00:04:33,088 --> 00:04:34,940
+J'ai shooté dans la prise.
+
+49
+00:04:34,975 --> 00:04:36,028
+Quoi ?
+
+50
+00:04:36,253 --> 00:04:39,176
+Le programme de traduction
+que j'ai créé était en route.
+
+51
+00:04:39,287 --> 00:04:41,457
+J'avais rassemblé chaque bout
+de langage alien qu'on a
+
+52
+00:04:41,492 --> 00:04:45,572
+en les convertissant en séquences binaire
+pour voir s'il y a une origine commune.
+
+53
+00:04:45,607 --> 00:04:47,577
+Ça c'est de la bouchée !
+
+54
+00:04:48,526 --> 00:04:51,930
+Désolée, c'est une blague entre nous.
+Une blague stupide.
+
+55
+00:04:52,040 --> 00:04:53,543
+On est sensés être des professionnels.
+
+56
+00:04:53,578 --> 00:04:58,333
+-On a un travail à faire !
+-C'est vrai. T'as raison, Tosh, désolée.
+
+57
+00:05:00,333 --> 00:05:01,585
+Tu sais quoi, Tosh ?
+
+58
+00:05:02,670 --> 00:05:05,272
+Des fois je me dis que même
+ce bâton dans ton cul
+
+59
+00:05:05,307 --> 00:05:06,793
+a un bâton dans le cul.
+
+60
+00:05:26,053 --> 00:05:28,701
+Le mec là-bas m'a matée
+toute la soirée,
+
+61
+00:05:28,736 --> 00:05:31,400
+je lui ai dit qu'il perdait son temps,
+mais il n'écoute pas.
+
+62
+00:05:31,435 --> 00:05:34,556
+C'est pour ça que je suis venue
+te parler, car je sais comment ça finit.
+
+63
+00:05:35,049 --> 00:05:37,809
+Il se prend un poing dans la figure
+et je me fais bannir.
+
+64
+00:05:37,844 --> 00:05:40,252
+Et je le suis déjà d'environ 20 bars.
+
+65
+00:05:40,287 --> 00:05:44,293
+Je veux pas être bannie de celui-là,
+j'adore les olives sur les tables.
+
+66
+00:05:44,477 --> 00:05:46,658
+Bien, ok alors.
+
+67
+00:05:46,693 --> 00:05:48,458
+Cool. Laisse-moi te payer un coup.
+
+68
+00:05:48,493 --> 00:05:51,792
+- C'est pas la peine.
+- Un whisky-coca, et Toshiko... ?
+
+69
+00:05:51,964 --> 00:05:56,618
+- Je vous ai pas dit mon nom.
+- Ah, oui. C'est l'autre chose.
+
+70
+00:05:57,222 --> 00:05:59,153
+Je sais en quelque sorte qui tu es.
+
+71
+00:05:59,188 --> 00:06:01,049
+- Vous devez vous...
+- Toshiko Sato.
+
+72
+00:06:01,084 --> 00:06:07,154
+Née à Londres en 1975, déménage à Osaka
+à l'âge de 2 ans. Revient en 1986.
+
+73
+00:06:07,419 --> 00:06:10,758
+Parents dans la RAF, grand-père
+travaillant à Bletchley Park.
+
+74
+00:06:10,793 --> 00:06:12,275
+Très impressionnant.
+
+75
+00:06:12,310 --> 00:06:17,452
+La fac... blah-blah, recrutée
+par le Gouvernement à 20 ans.
+
+76
+00:06:17,487 --> 00:06:20,310
+Recrutée par Torchwood
+il y a 3 ans.
+
+77
+00:06:20,505 --> 00:06:22,988
+Je t'ai vue sur le chantier ce matin.
+
+78
+00:06:24,258 --> 00:06:26,780
+Qu'est-ce que contenait la mallette ?
+
+79
+00:06:28,082 --> 00:06:29,873
+Comment savez-vous pour Torchwood ?
+
+80
+00:06:30,373 --> 00:06:33,617
+Il y a quelques trucs sur le net,
+mais il faut vraiment creuser.
+
+81
+00:06:33,652 --> 00:06:36,587
+Et on collecte des bouts d'informations
+par la radio de la police, et on...
+
+82
+00:06:36,622 --> 00:06:39,687
+- On ?
+- Les chasseurs de trésor.
+
+83
+00:06:40,100 --> 00:06:41,287
+Des collectionneurs.
+
+84
+00:06:41,731 --> 00:06:43,279
+Comme vous.
+
+85
+00:06:43,498 --> 00:06:44,611
+Vous êtes combien ?
+
+86
+00:06:44,646 --> 00:06:48,515
+Oh, ne crois pas que c'est organisé.
+
+87
+00:06:48,613 --> 00:06:52,453
+C'est juste une bande disparate
+d'informaticiens vivant avec leurs mères.
+
+88
+00:06:52,697 --> 00:06:54,826
+Je ne devrais pas vous parler.
+
+89
+00:06:55,258 --> 00:06:56,865
+Alors vas-y.
+
+90
+00:07:03,653 --> 00:07:07,720
+Le plus étonnant, c'est les
+similarités avec notre propre culture.
+
+91
+00:07:08,023 --> 00:07:10,772
+Mais ça peut être horrible,
+car on trouve énormément d'armes,
+
+92
+00:07:10,807 --> 00:07:14,618
+et tu te dis
+"Mon Dieu, ils font tous la guerre".
+
+93
+00:07:14,653 --> 00:07:18,132
+C'est pas juste un de nos traits,
+mais un trait de l'existence.
+
+94
+00:07:18,167 --> 00:07:21,090
+Et ça te fait perdre espoir.
+
+95
+00:07:21,590 --> 00:07:23,345
+Mais il y a aussi des fois...
+
+96
+00:07:24,013 --> 00:07:27,245
+On a trouvé cette chose,
+de la taille d'une feuille A4,
+
+97
+00:07:27,381 --> 00:07:29,074
+avec tous ces symboles dessus.
+
+98
+00:07:29,109 --> 00:07:32,281
+J'ai mis environ 3 mois à la traduire,
+
+99
+00:07:32,423 --> 00:07:35,212
+c'était une lettre de
+quelqu'un à sa famille.
+
+100
+00:07:35,580 --> 00:07:38,253
+A ses enfants, pour leur dire
+combien ils lui manquaient.
+
+101
+00:07:38,288 --> 00:07:39,738
+Ça m'a fait pleurer,
+
+102
+00:07:39,773 --> 00:07:43,813
+car j'ai réalisé que même à travers
+ces distances inimaginables
+
+103
+00:07:43,848 --> 00:07:47,177
+les fondamentales restent
+exactement les mêmes.
+
+104
+00:07:47,212 --> 00:07:50,225
+Et j'ai personne à qui parler de ça.
+
+105
+00:07:50,269 --> 00:07:52,836
+Les gars au boulot sont
+géniaux, mais...
+
+106
+00:07:52,927 --> 00:07:56,093
+ils ne voient pas ça
+du même œil que moi.
+
+107
+00:07:59,012 --> 00:08:02,449
+Je pourrais être virée...
+juste pour t'avoir dit ça.
+
+108
+00:08:04,659 --> 00:08:06,421
+J'ai quelque chose à te montrer.
+
+109
+00:08:08,612 --> 00:08:10,094
+C'est un pendentif.
+
+110
+00:08:11,348 --> 00:08:12,590
+Mets-le.
+
+111
+00:08:17,525 --> 00:08:19,438
+<i>"J'en bois une de plus,
+et je conduirai lentement."</i>
+
+112
+00:08:19,473 --> 00:08:21,788
+<i>"Le café compte comme de la nourriture
+si tu prends du sucre ?"</i>
+
+113
+00:08:21,823 --> 00:08:24,104
+<i>"S’il touche son ventre encore une fois,
+Je lui en fous une..."</i>
+
+114
+00:08:24,248 --> 00:08:27,267
+<i>"J'aurais dû dire que c'était l'heure
+d'Hammer quand elle m'a demandé l'heure"</i>
+
+115
+00:08:27,448 --> 00:08:28,531
+<i>"Ça les aurait fait rire."</i>
+
+116
+00:08:28,566 --> 00:08:29,968
+Qu'est-ce que c'est ?
+
+117
+00:08:30,003 --> 00:08:31,371
+J'entends des voix.
+
+118
+00:08:31,525 --> 00:08:32,543
+<i>"Foutu Sudoku..."</i>
+
+119
+00:08:32,544 --> 00:08:33,411
+<i>"Foutu..."</i>
+
+120
+00:08:33,446 --> 00:08:34,957
+<i>"J'ai envoyé cet e-mail ?"</i>
+
+121
+00:08:35,726 --> 00:08:37,195
+<i>"J'ai cliqué sur 'répondre à tous' ?"</i>
+
+122
+00:08:37,230 --> 00:08:38,674
+Ce sont les pensées des gens.
+
+123
+00:08:38,709 --> 00:08:40,084
+<i>"Il ne me touche même plus."</i>
+
+124
+00:08:40,119 --> 00:08:42,057
+Ce sont les pensées des gens, Toshiko.
+
+125
+00:08:42,092 --> 00:08:45,050
+<i>"J'aurais dû coucher avec ce père
+célibataire que j'ai rencontré."</i>
+
+126
+00:08:45,085 --> 00:08:48,008
+<i>"Qu'est-ce que cette asiatique a...
+une crise d'épilepsie ?"</i>
+
+127
+00:08:49,539 --> 00:08:51,055
+C'est... c'est trop fort.
+
+128
+00:08:51,090 --> 00:08:52,817
+<i>"En tout cas, elle est mignonne.
+C'est sa petite-amie ?"</i>
+
+129
+00:08:52,852 --> 00:08:55,938
+<i>"Marcus dit qu'il l'a fait avec
+deux lesbiennes, le veinard."</i>
+
+130
+00:08:55,973 --> 00:08:56,972
+<i>"Je me demande comment c'est."</i>
+
+131
+00:08:57,007 --> 00:08:58,473
+Cet homme là-bas, avec son verre...
+
+132
+00:08:59,018 --> 00:09:00,145
+Je l'entends.
+
+133
+00:09:01,203 --> 00:09:03,994
+Ok, Toshiko, tu dois te concentrer.
+
+134
+00:09:04,042 --> 00:09:05,607
+Je peux tous les entendre.
+
+135
+00:09:06,221 --> 00:09:09,576
+Concentre-toi sur ma voix,
+fais taire tout le reste.
+
+136
+00:09:12,974 --> 00:09:13,726
+C'est trop...
+
+137
+00:09:13,826 --> 00:09:17,651
+Juste moi. Il n'y a plus que moi.
+Tu m'entends ?
+
+138
+00:09:18,008 --> 00:09:19,712
+<i>"Et maintenant ?"</i>
+
+139
+00:09:19,852 --> 00:09:22,372
+<i>"Ok, concentre-toi seulement
+sur mes pensées."</i>
+
+140
+00:09:22,407 --> 00:09:24,221
+<i>"Ignore tout le reste."</i>
+
+141
+00:09:24,256 --> 00:09:24,836
+Il y a trop de...
+
+142
+00:09:24,871 --> 00:09:28,372
+<i>"Tu peux le faire. Il faut la pratique,
+mais c'est ce que tu dois apprendre."</i>
+
+143
+00:09:28,407 --> 00:09:31,105
+<i>"Là, à quoi je pense ?"</i>
+
+144
+00:09:32,119 --> 00:09:33,057
+C'est trop dur...
+
+145
+00:09:33,092 --> 00:09:35,751
+<i>"Suis ma voix, à quoi je pense ?"</i>
+
+146
+00:09:35,909 --> 00:09:36,947
+Tu penses...
+
+147
+00:09:36,982 --> 00:09:39,149
+<i>"Que je veux t'embrasser."</i>
+
+148
+00:09:39,716 --> 00:09:41,773
+- Je suis désolée, c'était...
+- Non, c'est bon...
+
+149
+00:09:41,808 --> 00:09:43,037
+Parfois tu ne peux pas contrôler...
+
+150
+00:09:43,072 --> 00:09:45,022
+Je sais, c'est bon.
+
+151
+00:09:46,757 --> 00:09:48,069
+Où l'as-tu trouvé ?
+
+152
+00:09:48,104 --> 00:09:50,831
+C'est dans la famille depuis longtemps.
+
+153
+00:09:51,611 --> 00:09:53,894
+Je n'ai jamais vu une telle chose.
+C'est incroyable.
+
+154
+00:09:53,929 --> 00:09:56,520
+C'est plus qu'incroyable. Avec ça,
+tu peux lire les pensées des gens.
+
+155
+00:09:56,555 --> 00:09:59,372
+Ça nous élève presque au rang de Dieu.
+
+156
+00:09:59,977 --> 00:10:02,121
+- C'est extra-terrestre ?
+- Je pense.
+
+157
+00:10:02,417 --> 00:10:04,415
+Non, je veux que tu le gardes.
+
+158
+00:10:04,450 --> 00:10:05,450
+Quoi ?
+
+159
+00:10:05,485 --> 00:10:07,808
+- Je ne peux pas, Marie.
+- S'il te plaît.
+
+160
+00:10:08,617 --> 00:10:12,733
+Je l'ai gardé trop longtemps.
+Au bout d'un moment, ça devient...
+
+161
+00:10:12,768 --> 00:10:14,618
+Tu en entends trop.
+
+162
+00:10:14,653 --> 00:10:17,092
+Ça change ta façon de voir les gens.
+
+163
+00:10:17,435 --> 00:10:19,532
+Je vais devoir le montrer aux autres.
+
+164
+00:10:19,771 --> 00:10:20,811
+Quoi ?
+
+165
+00:10:21,373 --> 00:10:23,941
+Rien. Je sais que tu le feras pas.
+
+166
+00:10:23,976 --> 00:10:26,579
+Et tu sais ça pour avoir lu
+mon CV sur internet ?
+
+167
+00:10:26,614 --> 00:10:29,688
+Non, parce que je
+connais le pendentif.
+
+168
+00:10:29,829 --> 00:10:31,505
+Et bien tu as tort.
+
+169
+00:10:31,540 --> 00:10:35,894
+- Je le ferai.
+- Ouais, mais tu le feras pas.
+
+170
+00:10:56,307 --> 00:10:57,161
+Bonjour.
+
+171
+00:10:57,196 --> 00:10:57,782
+Ouais...
+
+172
+00:10:58,053 --> 00:10:59,852
+Salut, Ianto.
+
+173
+00:11:15,532 --> 00:11:18,373
+<i>"Qu'est-ce qui pourrait bien produire
+une perforation parfaitement circulaire"</i>
+
+174
+00:11:18,408 --> 00:11:20,512
+<i>"Peut-être une sorte de pieu en bois."</i>
+
+175
+00:11:20,547 --> 00:11:21,354
+Salut, Tosh.
+
+176
+00:11:21,389 --> 00:11:23,808
+<i>"Elle a pas intérêt à reparler
+de cette histoire d'ordi."</i>
+
+177
+00:11:23,843 --> 00:11:24,537
+Salut.
+
+178
+00:11:24,572 --> 00:11:27,995
+<i>"Le sergent qui se la joue: Oh, 'Gwennie
+daigne appeler ses vieux collègues'."</i>
+
+179
+00:11:28,030 --> 00:11:29,685
+<i>"Je devrais mettre un Weevil
+dans sa salle de bains."</i>
+
+180
+00:11:29,720 --> 00:11:31,189
+J'ai quelque chose à vous montrer.
+
+181
+00:11:31,224 --> 00:11:31,673
+Ok.
+
+182
+00:11:31,708 --> 00:11:35,174
+<i>"Pitié, pas encore une de ces diapos
+sur les Incas ou quoi que ça ait été."</i>
+
+183
+00:11:35,209 --> 00:11:35,817
+<i>"Envie d'un biscuit."</i>
+
+184
+00:11:35,852 --> 00:11:37,118
+J'ai le temps d'aller aux toilettes ?
+
+185
+00:11:37,153 --> 00:11:41,140
+<i>"Oh, rentrer son jean dans ses
+bottes est vraiment dépassé."</i>
+
+186
+00:11:41,175 --> 00:11:42,875
+J'ai... j'ai trouvé quelque chose...
+
+187
+00:11:42,910 --> 00:11:45,093
+<i>"De quoi elle parle ?
+Elle peut être vraiment bizarre."</i>
+
+188
+00:11:45,128 --> 00:11:49,499
+<i>"Je me demande comment elle est au lit
+Catholique mais généreuse, je suppose."</i>
+
+189
+00:11:49,534 --> 00:11:53,835
+Ok. Je suis pas certaine qu'on puisse
+vraiment qualifier ça de technologie.
+
+190
+00:11:53,870 --> 00:11:56,697
+<i>Je peux encore sentir Owen sur moi, de
+cette partie de jambe en l'air ce matin</i>
+
+191
+00:11:56,732 --> 00:11:59,046
+<i>"Ça fait deux fois maintenant, est-ce que
+ça compte pour quelque chose ?"</i>
+
+192
+00:11:59,081 --> 00:12:01,013
+<i>"Nan, ça doit arriver plus
+de deux fois pour ça..."</i>
+
+193
+00:12:01,048 --> 00:12:04,355
+<i>"Tant qu'on s'arrête à deux fois,
+c'est bon. Qu'est-ce que Tosh regarde ?"</i>
+
+194
+00:12:04,390 --> 00:12:05,155
+Ça va, Tosh ?
+
+195
+00:12:05,190 --> 00:12:07,802
+<i>"Quand elle a fait courir sa
+langue sur mes dents..."</i>
+
+196
+00:12:07,837 --> 00:12:09,086
+<i>"J'aurais pas dû mettre ce pantalon."</i>
+
+197
+00:12:09,121 --> 00:12:11,200
+<i>"Je vais devoir m'asseoir jusqu'à ce
+que ça se calme un peu."</i>
+
+198
+00:12:11,250 --> 00:12:15,017
+- Oui, oui, ça va.
+- Qu'est-ce que tu voulais nous montrer ?
+
+199
+00:12:15,052 --> 00:12:17,542
+<i>"Je me demande si je pourrais faire
+descendre Owen dans la cave."</i>
+
+200
+00:12:17,577 --> 00:12:19,533
+<i>" Non, je pourrais pas faire
+ça devant un Weevil."</i>
+
+201
+00:12:19,568 --> 00:12:21,803
+<i>"J'ai même pas pu le faire
+devant le chat de Trevor Kendall."</i>
+
+202
+00:12:21,838 --> 00:12:22,992
+Non, c'est rien...
+
+203
+00:12:24,151 --> 00:12:26,611
+J'ai trouvé un article...
+
+204
+00:12:26,909 --> 00:12:27,980
+je l'amènerai demain.
+
+205
+00:12:28,015 --> 00:12:28,664
+Pas de problème.
+
+206
+00:12:28,699 --> 00:12:32,315
+<i>"Mais merci pour cet
+interlude inutile, Tosh."</i>
+
+207
+00:12:41,133 --> 00:12:44,052
+<i>"J'arrive même plus à me rappeler
+de quand c'était pas comme ça."</i>
+
+208
+00:12:44,513 --> 00:12:48,253
+<i>"La douleur est constante, comme
+si mon ventre était rempli de rats."</i>
+
+209
+00:12:48,288 --> 00:12:50,697
+<i>"Je me résume à ça, maintenant."</i>
+
+210
+00:12:50,732 --> 00:12:53,304
+<i>"Chaque centimètre de mon
+corps est meurtri."</i>
+
+211
+00:12:55,333 --> 00:12:57,773
+Je m'apprête à préparer
+du café fort pour Jack.
+
+212
+00:12:57,808 --> 00:12:58,929
+Tu en veux une tasse ?
+
+213
+00:12:58,964 --> 00:13:01,829
+Non... ça va.
+
+214
+00:13:02,014 --> 00:13:04,730
+Merci, Ianto.
+
+215
+00:13:16,775 --> 00:13:19,372
+J'aurais dû me douter que tu
+avais aussi mon adresse.
+
+216
+00:13:19,561 --> 00:13:22,914
+- Tu leur a dit ?
+- Non. Je l'ai pas fait.
+
+217
+00:13:40,712 --> 00:13:42,666
+Qu'est-ce qui t'as fait changer d'avis ?
+
+218
+00:13:43,087 --> 00:13:44,618
+Tu les a écoutés, non ?
+
+219
+00:13:44,653 --> 00:13:47,572
+Tu vois, j'te l'avais dit !
+C'est incroyable, non ?
+
+220
+00:13:47,607 --> 00:13:49,772
+Les choses qu'on entend...
+
+221
+00:13:52,291 --> 00:13:53,848
+Qu'est-ce que c'est ?
+
+222
+00:13:54,337 --> 00:13:55,577
+Pourquoi tu me l'as donné ?
+
+223
+00:13:55,612 --> 00:13:58,298
+- Je te l'ai dit.
+- Les choses que j'ai entendues...
+
+224
+00:13:58,333 --> 00:14:01,471
+Ce qu'ils pensent de moi,
+ce qu'ils pensent vraiment.
+
+225
+00:14:01,506 --> 00:14:03,929
+Mon Dieu, et ces
+gens sont sensés m'aimer !
+
+226
+00:14:03,964 --> 00:14:06,014
+Ils t'aiment vraiment.
+
+227
+00:14:06,294 --> 00:14:08,513
+Les gens sont compliqués, ils...
+
+228
+00:14:08,957 --> 00:14:11,235
+Bon, j'aurais dû t'avertir.
+
+229
+00:14:11,270 --> 00:14:14,693
+C'est pas comme lire un journal intime.
+
+230
+00:14:18,853 --> 00:14:22,426
+Les choses que tu as entendues
+sont si profondes, si personnelles,
+
+231
+00:14:22,569 --> 00:14:24,713
+ils ne savent même pas
+qu'ils les pensent.
+
+232
+00:14:26,632 --> 00:14:30,373
+Tu crois connaître des gens, et
+tout à coup tu les vois pour de vrai,
+
+233
+00:14:30,380 --> 00:14:33,622
+une bande... de gamins enfoirés !
+
+234
+00:14:34,149 --> 00:14:35,944
+Pas tous.
+
+235
+00:14:37,744 --> 00:14:39,839
+Pas tout le monde.
+
+236
+00:14:55,403 --> 00:14:57,612
+Tes pensées n'étaient
+pas tout à fait pures.
+
+237
+00:14:57,647 --> 00:15:00,350
+Au moins elles étaient cohérentes.
+
+238
+00:15:00,385 --> 00:15:03,053
+Pas de calcul. Pas de rancœur.
+
+239
+00:15:10,052 --> 00:15:11,492
+Ils ont pitié de moi.
+
+240
+00:15:13,526 --> 00:15:14,800
+Tu n'as pas pitié de moi.
+
+241
+00:15:14,801 --> 00:15:16,768
+Pourquoi j'aurais pitié ?
+
+242
+00:15:16,852 --> 00:15:19,857
+Ce à quoi tu penses là, c'est
+plutôt graphique.
+
+243
+00:15:19,892 --> 00:15:21,775
+- C'était pas mes pensées.
+- Quoi ?
+
+244
+00:15:21,810 --> 00:15:25,194
+Je ne pensais à rien.
+Ce n'était pas moi.
+
+245
+00:15:26,077 --> 00:15:27,907
+Ça devait être tes pensées.
+
+246
+00:15:28,519 --> 00:15:30,217
+Celle-là, maintenant !
+C'est la tienne.
+
+247
+00:15:30,252 --> 00:15:33,094
+Oui, c'était la mienne.
+
+248
+00:15:33,246 --> 00:15:34,506
+Je...
+
+249
+00:15:36,052 --> 00:15:38,627
+J'ai vraiment l'air de
+prendre mon pied.
+
+250
+00:15:38,662 --> 00:15:39,702
+Oui.
+
+251
+00:15:41,547 --> 00:15:43,179
+Ça va être le cas.
+
+252
+00:15:59,973 --> 00:16:02,943
+Tu n'as pas un seul cendrier
+dans toute ta maison.
+
+253
+00:16:02,978 --> 00:16:04,884
+De quoi tu te sers ?
+
+254
+00:16:05,203 --> 00:16:08,044
+- Je crois que c'est un coquetier.
+- Je vois.
+
+255
+00:16:13,209 --> 00:16:14,953
+Tu vas bien ?
+
+256
+00:16:15,013 --> 00:16:17,568
+Tu flippes un peu ?
+
+257
+00:16:18,681 --> 00:16:20,924
+Ton anniversaire est en juin, non ?
+
+258
+00:16:20,959 --> 00:16:22,137
+C'est toi l'experte.
+
+259
+00:16:22,172 --> 00:16:24,572
+Pourquoi tes cartes sont
+encore sorties ?
+
+260
+00:16:24,607 --> 00:16:27,209
+- Quoi ?
+-  "Avec tout mon amour, Owen".
+
+261
+00:16:27,765 --> 00:16:30,028
+Je suppose que c'est Owen du boulot.
+
+262
+00:16:30,063 --> 00:16:32,777
+Owen que j'ai vu au chantier hier.
+
+263
+00:16:32,812 --> 00:16:36,258
+- Owen qui est en photo sur ton frigo.
+- Repose ça.
+
+264
+00:16:36,293 --> 00:16:38,556
+C'est juste que je veux pas me mettre
+en travers de quoi que ce soit.
+
+265
+00:16:38,591 --> 00:16:40,698
+Tu ne te mets en travers de rien.
+
+266
+00:16:43,208 --> 00:16:44,824
+Je vois.
+
+267
+00:16:45,653 --> 00:16:48,131
+- Tu veux en parler ?
+- Pas vraiment.
+
+268
+00:16:48,250 --> 00:16:49,893
+C'est bon.
+
+269
+00:16:49,928 --> 00:16:52,892
+Ça sera pas la première fois
+que je suis un coup de rebond.
+
+270
+00:16:52,927 --> 00:16:54,692
+Tu ne l'étais pas, ok ?
+
+271
+00:16:56,666 --> 00:16:58,058
+Rien ne s'est passé,
+
+272
+00:16:58,093 --> 00:17:00,177
+rien ne se passera jamais.
+
+273
+00:17:00,438 --> 00:17:02,577
+C'est une des charmantes
+choses que j'ai apprises,
+
+274
+00:17:02,612 --> 00:17:04,787
+grâce à ton foutu pendentif.
+
+275
+00:17:13,693 --> 00:17:15,653
+Il n'est pas seulement mauvais,
+
+276
+00:17:15,688 --> 00:17:17,178
+ce pendentif.
+
+277
+00:17:17,213 --> 00:17:20,012
+Il peut aussi faire des
+choses extraordinaires.
+
+278
+00:17:20,047 --> 00:17:22,349
+Quel bien pourrait jamais en sortir ?
+
+279
+00:17:22,384 --> 00:17:24,652
+Tu dois le découvrir par toi-même.
+
+280
+00:17:29,951 --> 00:17:33,731
+Il faut que tu ailles dans un endroit
+public, où il y a de la foule.
+
+281
+00:17:34,393 --> 00:17:36,053
+Et qu'est-ce que je cherche ?
+
+282
+00:17:36,372 --> 00:17:39,213
+Ça te trouvera.
+
+283
+00:17:44,959 --> 00:17:46,378
+J'en ai assez de ces énigmes.
+
+284
+00:17:46,413 --> 00:17:48,624
+Qu'est-ce qui se passe ?
+Où l'as tu trouvé ?
+
+285
+00:17:48,659 --> 00:17:49,853
+Je te l'ai dit.
+
+286
+00:17:50,248 --> 00:17:52,035
+Qui es-tu, Marie ?
+
+287
+00:17:53,277 --> 00:17:54,869
+C'est ton vrai nom, au moins ?
+
+288
+00:17:55,311 --> 00:17:56,390
+Ok.
+
+289
+00:17:58,064 --> 00:17:59,333
+Voilà un autre nom.
+
+290
+00:18:00,893 --> 00:18:02,498
+Philoctetes.
+
+291
+00:18:03,013 --> 00:18:04,853
+Je suis Philoctetes.
+
+292
+00:18:28,853 --> 00:18:31,530
+<i>"Je bande ma main, dis que
+je l'ai coincée dans la portière,"</i>
+
+293
+00:18:31,565 --> 00:18:34,207
+<i>"ça expliquera pourquoi les signatures
+ne correspondent pas."</i>
+
+294
+00:18:34,288 --> 00:18:36,835
+<i>"J'ai une heure pour me rhabiller
+avant que Lisa revienne."</i>
+
+295
+00:18:36,870 --> 00:18:37,959
+<i>"Je dois faire attention."</i>
+
+296
+00:18:37,994 --> 00:18:40,692
+<i>"Elle a remarqué que ses collants
+sont élargis à l'entre-jambe."</i>
+
+297
+00:18:40,727 --> 00:18:41,735
+<i>"Tous à glousser,"</i>
+
+298
+00:18:41,770 --> 00:18:46,151
+<i>"alors que je m'assois là avec
+mes seins comme une relique de musée."</i>
+
+299
+00:18:46,287 --> 00:18:51,013
+<i>"Six cigarettes aujourd'hui, toutes
+après avoir fait l'amour."</i>
+
+300
+00:18:54,327 --> 00:18:56,994
+<i>"Ah, Mr Bond,
+je vous attendais."</i>
+
+301
+00:19:01,553 --> 00:19:04,883
+<i>"Certaines personnes devraient pas
+avoir le droit de mettre des strings."</i>
+
+302
+00:19:04,918 --> 00:19:06,487
+<i>"Qu'est-ce qu'elle regarde, elle ?"</i>
+
+303
+00:19:08,321 --> 00:19:09,856
+<i>"Je vais les tuer."</i>
+
+304
+00:19:10,111 --> 00:19:13,017
+<i>"Je vais les tuer.
+Je vais les tuer."</i>
+
+305
+00:19:13,018 --> 00:19:14,172
+<i>"Je vais les tuer."</i>
+
+306
+00:19:14,320 --> 00:19:17,293
+<i>"Mettre leurs corps tous ensemble,
+et m'allonger à côté d'eux."</i>
+
+307
+00:19:17,328 --> 00:19:20,413
+<i>"Il faudra que je me tue allongé.
+Je dois m'entraîner."</i>
+
+308
+00:19:22,292 --> 00:19:23,097
+Désolée.
+
+309
+00:19:26,669 --> 00:19:29,866
+<i>"Je mettrai mes lunettes, ça me
+donne l'air plus sensible."</i>
+
+310
+00:19:30,322 --> 00:19:35,340
+<i>Si Lawrence arrive et nous voit, il
+comprendra qu'il fallait pas me les voler.</i>
+
+311
+00:19:43,973 --> 00:19:46,046
+<i>"Je ne regretterai rien."</i>
+
+312
+00:19:46,207 --> 00:19:51,094
+<i>"Ni cette ville, ni ce corps, rien."</i>
+
+313
+00:20:04,182 --> 00:20:05,624
+Ça va, Danny ?
+
+314
+00:20:06,914 --> 00:20:08,533
+Tu me le ramènes pour six heures.
+
+315
+00:20:09,015 --> 00:20:10,778
+Vraiment six heures cette fois.
+
+316
+00:20:10,977 --> 00:20:14,952
+Kelly m'offre 90 minutes d'UV
+comme cadeau de mariage.
+
+317
+00:20:14,987 --> 00:20:16,977
+En plus, tu enfreins la loi
+en le ramenant en retard.
+
+318
+00:20:17,012 --> 00:20:19,577
+Mon père dit que je pourrais
+te faire arrêter, alors penses-y.
+
+319
+00:20:19,612 --> 00:20:23,053
+Allez, mets tes chaussures et vas
+aux toilettes. Qu'est-ce qu'il y a ?
+
+320
+00:20:23,088 --> 00:20:25,438
+-Je veux pas y aller.
+-Tu n'as pas le choix.
+
+321
+00:20:25,715 --> 00:20:28,412
+Lawrence va arriver, et on doit
+choisir les serviettes de table.
+
+322
+00:20:29,120 --> 00:20:31,367
+- Mais c'est nul.
+- Prends tes Power Rangers, alors.
+
+323
+00:20:31,518 --> 00:20:34,373
+C'est Lawrence qui les lui a achetés.
+On ne l'entend plus, maintenant.
+
+324
+00:20:34,408 --> 00:20:37,910
+Enfin, c'est tout lui, ultra
+attentionné. Pas comme d'autres.
+
+325
+00:20:37,945 --> 00:20:41,413
+Oh, et pas de coca. Je veux pas
+qu'il revienne surexcité.
+
+326
+00:20:42,388 --> 00:20:44,075
+Je croyais que tu avais arrêté la pêche.
+
+327
+00:20:44,110 --> 00:20:45,347
+En effet.
+
+328
+00:20:46,141 --> 00:20:47,817
+Oh mon Dieu, Neil,
+qu'est-ce que tu fais ?!
+
+329
+00:20:47,852 --> 00:20:50,177
+Je repensais à l'Ile de Wight.
+Tu t'en rappelles ?
+
+330
+00:20:50,519 --> 00:20:54,244
+On avait ce chalet... à peu près
+quand Danny a commencé à marcher.
+
+331
+00:20:54,410 --> 00:20:57,430
+Le chalet était plein d'araignées,
+
+332
+00:20:58,862 --> 00:20:59,896
+et tu m'appelais ton héros,
+
+333
+00:20:59,931 --> 00:21:03,572
+parce que... j'avais pas peur.
+Je les attrapais et les jetais dehors.
+
+334
+00:21:03,607 --> 00:21:06,417
+Oh mon Dieu, Neil !
+
+335
+00:21:06,452 --> 00:21:07,701
+Tu me fais peur !
+
+336
+00:21:07,736 --> 00:21:09,901
+C'était un souvenir parfait.
+
+337
+00:21:09,936 --> 00:21:12,978
+On était heureux car on était ensemble.
+
+338
+00:21:13,391 --> 00:21:15,773
+Et toutes ces conneries avec
+Lawrence, c'est bon.
+
+339
+00:21:16,240 --> 00:21:17,578
+Je te pardonne.
+
+340
+00:21:17,613 --> 00:21:19,972
+Parce que je vois ça avec
+plus de recul maintenant.
+
+341
+00:21:20,007 --> 00:21:21,618
+Oh mon Dieu !
+
+342
+00:21:21,653 --> 00:21:23,577
+Oh mon Dieu !
+Oh, non, pitié !
+
+343
+00:21:23,612 --> 00:21:26,092
+C'est bon, c'est juste comme
+s'endormir, c'est tout.
+
+344
+00:21:26,127 --> 00:21:28,551
+Ne fais pas ça, non
+Danny, s'il te plaît !
+
+345
+00:21:28,560 --> 00:21:31,138
+Et on sera ensemble pour toujours.
+
+346
+00:21:37,331 --> 00:21:38,992
+C'est bon.
+
+347
+00:21:40,117 --> 00:21:41,972
+Vous êtes sains et saufs.
+
+348
+00:21:47,293 --> 00:21:48,428
+Sale flic !
+
+349
+00:21:48,463 --> 00:21:50,707
+# L'os de la jambe est connecté
+à l'os de la hanche... #
+
+350
+00:21:50,708 --> 00:21:54,196
+Arrête de chanter.
+Tout ce que tu veux, mais arrête !
+
+351
+00:21:54,330 --> 00:21:55,907
+Je vois pas pourquoi tu ris !
+
+352
+00:21:55,942 --> 00:21:58,925
+Arrête de chanter, chante pas
+s'il te plaît, chante pas s'il te plaît.
+
+353
+00:22:01,754 --> 00:22:02,926
+Qu'est-ce qui se passe ?
+
+354
+00:22:05,101 --> 00:22:07,137
+Tu sais, le squelette du chantier ?
+
+355
+00:22:07,463 --> 00:22:10,760
+Et bien, Amanda Burton vient de
+finir le rapport post-mortem.
+
+356
+00:22:10,795 --> 00:22:11,877
+Ok, je peux tout expliquer.
+
+357
+00:22:11,912 --> 00:22:17,150
+Sur le chantier, Owen a dit que c'était
+une femme tuée par balle.
+
+358
+00:22:17,185 --> 00:22:18,552
+J'étais là depuis quoi, une minute ?
+
+359
+00:22:18,587 --> 00:22:22,526
+Entre temps, il a dû revoir plusieurs
+de ses conclusions initiales.
+
+360
+00:22:22,668 --> 00:22:27,055
+Tout d'abord, que ce n'était en fait
+pas une femme, mais un homme.
+
+361
+00:22:27,090 --> 00:22:29,380
+Un jeune homme. Très féminin.
+
+362
+00:22:29,381 --> 00:22:32,502
+Mais quand même un homme.
+
+363
+00:22:32,629 --> 00:22:34,216
+Ensuite vient la cause de la mort.
+
+364
+00:22:34,251 --> 00:22:38,341
+Owen disait plaie par balle. Uh-UHH !
+La bonne réponse était...
+
+365
+00:22:38,376 --> 00:22:41,686
+- Trauma non-identifié, mais...
+- Trauma non-identifié ?
+
+366
+00:22:41,915 --> 00:22:43,496
+Mais plus maintenant.
+
+367
+00:22:43,531 --> 00:22:45,612
+On voit ça dans les accidents routiers,
+
+368
+00:22:45,647 --> 00:22:49,019
+quand par exemple un poteau rentre
+dans un corps à grande vitesse.
+
+369
+00:22:49,054 --> 00:22:52,391
+- La seule cause à exclure était...
+- Une plaie par balle.
+
+370
+00:22:52,426 --> 00:22:54,257
+Plaie par balle.
+
+371
+00:22:54,292 --> 00:22:58,431
+Y avait-il un seul élément de
+ton pronostic qui était bon ?
+
+372
+00:22:58,448 --> 00:23:00,858
+Je savais que c'était... un squelette.
+
+373
+00:23:00,893 --> 00:23:04,632
+- Oui, en effet.
+- Tu viens de franchir le point de...
+
+374
+00:23:04,667 --> 00:23:08,372
+Où as-tu été formé ? Où ça ?
+Est-ce que t'as été formé ?
+
+375
+00:23:11,440 --> 00:23:12,571
+Jack,
+
+376
+00:23:13,939 --> 00:23:16,360
+tu t'y connais en
+mythologie grecque ?
+
+377
+00:23:16,370 --> 00:23:20,000
+Visa de sécurité 45895. Harkness.
+
+378
+00:23:20,021 --> 00:23:21,257
+Un peu, pourquoi ?
+
+379
+00:23:21,292 --> 00:23:23,933
+T'as entendu parler de Philoctetes ?
+
+380
+00:23:24,139 --> 00:23:26,053
+C'était une question dans un Bar Quiz.
+
+381
+00:23:26,088 --> 00:23:26,978
+T'as été dans un Bar Quiz ?
+
+382
+00:23:27,013 --> 00:23:29,132
+Oui. Oui, j'adore les Bars Quiz.
+
+383
+00:23:29,167 --> 00:23:31,842
+Au... Prince des Marées.
+
+384
+00:23:32,612 --> 00:23:35,697
+Philoctetes était un archer,
+recruté pendant la Guerre de Troie.
+
+385
+00:23:35,732 --> 00:23:39,307
+Il a été impliqué dans une querelle, et
+exilé sur l'île de Lemnos pour dix ans.
+
+386
+00:23:39,308 --> 00:23:40,530
+Juste laissé là-bas ?
+
+387
+00:23:42,973 --> 00:23:46,013
+Hé ! Où en est cette liste
+pour l'UNIT ?
+
+388
+00:23:46,048 --> 00:23:47,498
+Hmm ?
+
+389
+00:23:47,533 --> 00:23:49,738
+Ah, oui. J'y travaille.
+
+390
+00:23:49,773 --> 00:23:53,738
+Bien. C'est quand tu veux, tu sais...
+
+391
+00:23:54,649 --> 00:23:57,201
+Premier Ministre, cette ligne
+est-elle sécurisée ?
+
+392
+00:23:57,276 --> 00:23:59,217
+Pouvez vous me dire pourquoi
+les opérations de Torchwood
+
+393
+00:23:59,252 --> 00:24:02,558
+font maintenant parti de votre briefing
+sécurité sur les meneurs de l'Opposition?
+
+394
+00:24:02,559 --> 00:24:03,824
+C'est que...
+
+395
+00:24:06,174 --> 00:24:07,648
+C'est incroyable.
+
+396
+00:24:07,650 --> 00:24:09,580
+C'est la chose la plus incroyable
+que j'ai entendue.
+
+397
+00:24:09,615 --> 00:24:11,504
+Ils devraient faire de toi un héros.
+
+398
+00:24:11,539 --> 00:24:14,178
+Tu avais raison, pour le pendentif.
+
+399
+00:24:14,213 --> 00:24:16,623
+Je comprends maintenant :
+il peut être utilisé pour le bien.
+
+400
+00:24:16,630 --> 00:24:19,213
+Qu'as-tu dit au boulot ?
+Comment l'as-tu expliqué ?
+
+401
+00:24:19,515 --> 00:24:20,813
+Je ne leur ai rien dit.
+
+402
+00:24:21,828 --> 00:24:23,757
+C'est plus sage.
+
+403
+00:24:24,212 --> 00:24:26,932
+Désolée, mais je vais devoir
+t'embrasser maintenant.
+
+404
+00:24:26,967 --> 00:24:29,097
+- Marie, non.
+- Ecoute,
+
+405
+00:24:29,132 --> 00:24:32,198
+Tu as fait quelque chose de
+vraiment courageux et sexy,
+
+406
+00:24:32,200 --> 00:24:33,847
+je dois t'embrasser.
+
+407
+00:24:34,252 --> 00:24:36,268
+C'est pas moi qui fait les règles.
+
+408
+00:24:49,392 --> 00:24:50,644
+Alors...
+
+409
+00:24:53,530 --> 00:24:56,413
+Que devient ce que vous
+avez trouvé sur le chantier ?
+
+410
+00:24:56,578 --> 00:24:58,257
+Je sais pas, mon patron s'en occupe.
+
+411
+00:24:58,292 --> 00:25:00,133
+Je croyais que tu t'occupais
+de tous les trucs technologiques.
+
+412
+00:25:00,168 --> 00:25:03,210
+Oui, mais parfois nos boulots
+se recoupent un peu.
+
+413
+00:25:03,245 --> 00:25:06,253
+Je m'occupe... d'un truc
+administratif pour lui.
+
+414
+00:25:06,601 --> 00:25:08,973
+Tu n'as pas de secrétaire pour ça ?
+
+415
+00:25:09,008 --> 00:25:11,410
+C'est assez compliqué.
+
+416
+00:25:11,964 --> 00:25:13,457
+Alors, qu'est-ce qu'il a découvert ?
+
+417
+00:25:13,492 --> 00:25:17,498
+-Je sais pas. Il n'a rien dit.
+-C'est assez curieux.
+
+418
+00:25:17,533 --> 00:25:18,774
+Non, c'est normal.
+
+419
+00:25:18,775 --> 00:25:23,733
+Oui, bien sûr, s'il te cache des
+choses, il doit y avoir une raison.
+
+420
+00:25:42,744 --> 00:25:44,538
+Tu continues quand même
+pas à t'en faire pour ça ?
+
+421
+00:25:44,573 --> 00:25:48,813
+Ok, alors si ce n'était pas un coup
+de pistolet, ou de fusil,
+
+422
+00:25:48,848 --> 00:25:50,937
+ou de ce qu'ils avaient à l'époque,
+
+423
+00:25:50,972 --> 00:25:52,933
+peut-être que c'était une sorte de rituel.
+
+424
+00:25:53,342 --> 00:25:55,537
+Tu es magnifique.
+
+425
+00:25:55,572 --> 00:26:00,017
+J'ai cherché un peu dans les cultes
+démoniaques et tout ça,
+
+426
+00:26:00,052 --> 00:26:04,492
+voir si ils parlent d'arracher des
+cœurs, et tu sais quoi ? Il y a rien.
+
+427
+00:26:04,527 --> 00:26:09,029
+Ils mangeaient des yeux, buvaient du
+sang, copulaient avec des animaux,
+
+428
+00:26:09,064 --> 00:26:13,497
+mais ils n'arrachaient pas de cœurs.
+Evidemment, ça aurait été bizarre !
+
+429
+00:26:13,532 --> 00:26:17,900
+Pourquoi s'en faire autant? Celui qui a
+fait ça n'est plus un danger aujourd'hui.
+
+430
+00:26:17,901 --> 00:26:19,703
+Oui, je sais.
+
+431
+00:26:19,738 --> 00:26:22,652
+C'est juste qu'il y a quelque chose...
+
+432
+00:26:22,687 --> 00:26:24,573
+Ça ne te rappelle rien ?
+
+433
+00:26:24,608 --> 00:26:26,537
+Hum..
+
+434
+00:26:26,572 --> 00:26:29,813
+Le moment dans Alien où
+cette chose sort de John Hurt ?
+
+435
+00:26:29,848 --> 00:26:31,865
+Désolé, j'aurai dû être plus précis.
+
+436
+00:26:31,866 --> 00:26:34,270
+Ça te rappelle quelque chose d'utile ?
+
+437
+00:26:34,300 --> 00:26:36,978
+- Non, désolée.
+- D'accord.
+
+438
+00:26:37,460 --> 00:26:40,813
+Retourne là-bas, fait tes trucs sur
+l'ordi et pense aux chaussures, hein ?
+
+439
+00:26:40,848 --> 00:26:42,293
+Merci.
+
+440
+00:26:46,412 --> 00:26:50,372
+Jack t'a dit quelque chose sur
+ce qu'on a trouvé avec le corps ?
+
+441
+00:26:50,407 --> 00:26:53,093
+Non, pourquoi ?
+
+442
+00:26:57,453 --> 00:26:59,725
+<i>"Vérifier s'il y avait des hôpitaux
+dans les environs."</i>
+
+443
+00:26:59,760 --> 00:27:03,693
+<i>"Peut-être un patient mort pendant
+une opération. Il y a du sucre là-dedans."</i>
+
+444
+00:27:03,728 --> 00:27:05,982
+Rien, juste comme ça.
+
+445
+00:27:06,643 --> 00:27:07,307
+Salut.
+
+446
+00:27:07,342 --> 00:27:09,287
+<i>"Continue à regarder le
+squelette, la regarde pas."</i>
+
+447
+00:27:09,322 --> 00:27:10,310
+<i>"Tu souris..."</i>
+
+448
+00:27:10,382 --> 00:27:12,541
+Salut, Tosh.
+Ce café a besoin de moi.
+
+449
+00:27:12,576 --> 00:27:14,533
+<i>"Qu'est-ce qu'il a ?
+Pourquoi il me regarde pas ?"</i>
+
+450
+00:27:14,615 --> 00:27:18,639
+Il y a une copie de la déposition
+de ce Mickael Hamilton sur ton bureau.
+
+451
+00:27:18,735 --> 00:27:21,570
+Il voit toujours des Cybermen
+devant la maison de sa mère.
+
+452
+00:27:21,605 --> 00:27:25,738
+<i>"Ne pense pas à sa paume dans le bas
+de ton dos, ses mains dans tes cheveux"</i>
+
+453
+00:27:25,773 --> 00:27:27,688
+Je crois que je vais remonter.
+
+454
+00:27:27,689 --> 00:27:31,699
+Ok. J'appellerai les services sociaux,
+voir s'il a déjà eu des troubles mentaux.
+
+455
+00:27:31,700 --> 00:27:33,430
+<i>"Non, Gwen, c'est bien.
+Ça ne peut pas continuer."</i>
+
+456
+00:27:33,431 --> 00:27:36,400
+<i>"C'est une bonne chose.
+Pourquoi il me regarde pas, bon sang ?"</i>
+
+457
+00:27:36,402 --> 00:27:39,044
+Je crois que j'ai un max de boulot.
+
+458
+00:27:53,551 --> 00:27:56,411
+Je viens d'avoir une conversation
+très intéressante
+
+459
+00:27:56,446 --> 00:27:58,700
+avec l'Inspecteur de Police
+Henderson.
+
+460
+00:27:58,701 --> 00:27:59,372
+Bien.
+
+461
+00:27:59,435 --> 00:28:02,706
+Intéressante tout d'abord parce que
+
+462
+00:28:03,088 --> 00:28:05,980
+cet homme avait les plus grosses
+mains que j'aie jamais vu,
+
+463
+00:28:06,470 --> 00:28:08,661
+et ensuite...
+
+464
+00:28:08,773 --> 00:28:12,733
+parce qu'il m'a raconté que tu avais
+empêché un femme et son enfant
+
+465
+00:28:12,768 --> 00:28:14,978
+d'être assassinés par son ex-mari.
+
+466
+00:28:15,013 --> 00:28:18,218
+- Oui, oui, j'allais t'en parler.
+- Alors pourquoi ne l'as-tu pas fait ?
+
+467
+00:28:18,253 --> 00:28:20,385
+Je sais pas, ça n'avait pas de
+rapport avec le boulot,
+
+468
+00:28:20,420 --> 00:28:22,224
+c'était juste... un truc.
+
+469
+00:28:22,502 --> 00:28:25,638
+Il se passe souvent des choses
+qui ne sont pas liées au boulot.
+
+470
+00:28:25,673 --> 00:28:27,414
+Tu fais ça souvent ?
+
+471
+00:28:27,890 --> 00:28:31,052
+Tu combats secrètement le crime,
+c'est ça, Tosh ?
+
+472
+00:28:31,087 --> 00:28:35,118
+Je ne voulais pas avoir l'air
+de me vanter.
+
+473
+00:28:35,293 --> 00:28:38,733
+L'homme qu'ils ont arrêté, Henderson
+m'a dit que tu l'as entendu murmurer
+
+474
+00:28:38,768 --> 00:28:42,138
+pendant qu'il marchait, et que c'est
+ça qui t'as mis la puce à l'oreille.
+
+475
+00:28:43,023 --> 00:28:46,892
+Au début, j'arrivais pas à comprendre ce
+qu'il racontait, et puis "Oh mon Dieu !"
+
+476
+00:28:46,927 --> 00:28:50,869
+C'est curieux, car quand je m'apprête
+à tuer quelqu'un,
+
+477
+00:28:50,904 --> 00:28:54,812
+je fais gaffe à ne pas en parler
+à voix haute dans la rue.
+
+478
+00:28:54,847 --> 00:28:58,253
+Bien sûr, c'est la leçon numéro 1.
+
+479
+00:29:00,664 --> 00:29:03,092
+Je me demandais où tu en
+étais avec ça.
+
+480
+00:29:03,401 --> 00:29:05,044
+C'est en cours.
+
+481
+00:29:05,464 --> 00:29:07,536
+Tu vas le démonter ?
+
+482
+00:29:08,006 --> 00:29:10,333
+Comme je l'ai dit, c'est en cours.
+
+483
+00:29:20,837 --> 00:29:24,608
+Quoi ? J'ai quelque chose sur le
+visage ? De la nourriture ?
+
+484
+00:29:26,447 --> 00:29:28,171
+Non. Désolée.
+
+485
+00:29:28,613 --> 00:29:29,751
+J'étais bloquée.
+
+486
+00:29:29,755 --> 00:29:34,169
+Ecoute, c'était un bel acte,
+Tosh. Bien joué.
+
+487
+00:29:46,575 --> 00:29:50,856
+Ok, alors j'ai des chips,
+du café : du vrai, du vin...
+
+488
+00:29:50,857 --> 00:29:52,613
+Je vais leur donner le pendentif.
+
+489
+00:29:52,648 --> 00:29:54,618
+- Bien, fais-le
+- Tu as raison.
+
+490
+00:29:54,788 --> 00:29:56,977
+C'est pas comme lire un
+journal intime.
+
+491
+00:29:57,012 --> 00:30:01,734
+C'est bien pire, et je me sens
+sale et honteuse...
+
+492
+00:30:01,735 --> 00:30:05,551
+Et maintenant...
+j'ai espionné mes amis.
+
+493
+00:30:05,770 --> 00:30:07,983
+- Quels amis !
+- Qu'est-ce que ça veut dire ?
+
+494
+00:30:08,018 --> 00:30:09,692
+Ils ont pitié de toi.
+
+495
+00:30:09,727 --> 00:30:12,750
+Ils t'excluent ! Ils te font
+faire leur putain de paperasse !
+
+496
+00:30:12,753 --> 00:30:13,928
+Et ?
+
+497
+00:30:15,294 --> 00:30:17,854
+- Non. J'ai pris ma décision.
+- Toshiko, ne fais pas ça.
+
+498
+00:30:17,889 --> 00:30:20,330
+Ils voudront probablement te
+parler, et alors ?
+
+499
+00:30:20,365 --> 00:30:22,415
+C'est le pendentif qui les
+intéresse, pas toi.
+
+500
+00:30:22,420 --> 00:30:25,124
+Si je rentre là-bas, je n'en
+ressortirai jamais.
+
+501
+00:30:26,145 --> 00:30:27,895
+De quoi tu parles ?
+
+502
+00:30:28,012 --> 00:30:31,396
+C'est pas la Stasi !
+Ecoute, je vais faire venir mon patron.
+
+503
+00:30:31,431 --> 00:30:34,399
+"REPOSE LE TELEPHONE"
+
+504
+00:30:35,197 --> 00:30:36,607
+Ok.
+
+505
+00:30:38,100 --> 00:30:40,052
+Je vais te montrer.
+
+506
+00:31:01,133 --> 00:31:04,862
+<i>"C'est pour ça que tu
+ne peux pas leur dire."</i>
+
+507
+00:31:16,631 --> 00:31:17,933
+Tu es froide.
+
+508
+00:31:18,932 --> 00:31:19,618
+Qui es-tu ?
+
+509
+00:31:19,653 --> 00:31:21,853
+<i>"Toujours celle que tu as embrassée."</i>
+
+510
+00:31:21,888 --> 00:31:24,431
+<i>"Celle que tu as caressée."</i>
+
+511
+00:31:45,119 --> 00:31:47,769
+- Dis quelque chose.
+- Alors...
+
+512
+00:31:48,316 --> 00:31:49,738
+J'embrasse une femme et un alien.
+
+513
+00:31:49,773 --> 00:31:53,338
+- Lequel est le pire ?
+- Je sais ce que diraient mes parents.
+
+514
+00:31:54,626 --> 00:31:58,305
+J'ai lu tes pensées.
+Je n'ai pas vu ça.
+
+515
+00:31:58,822 --> 00:32:00,742
+Que me caches-tu d'autre ?
+
+516
+00:32:00,771 --> 00:32:03,170
+Tu crois qu'il peut y avoir
+plus gros que ça ?
+
+517
+00:32:03,177 --> 00:32:05,217
+Vous êtes tellement libres.
+
+518
+00:32:05,809 --> 00:32:09,530
+Quand je suis arrivée,
+j'ai trouvé ça obscène.
+
+519
+00:32:10,092 --> 00:32:12,417
+Mon monde était sauvage.
+
+520
+00:32:12,452 --> 00:32:14,955
+Un culte imposé dans des temples
+de la taille de villes,
+
+521
+00:32:14,960 --> 00:32:17,008
+des brigades d'exécution
+arpentant les rues.
+
+522
+00:32:17,043 --> 00:32:19,119
+N'importe quelle protestation
+menait à la mort,
+
+523
+00:32:19,154 --> 00:32:23,158
+ou à la déportation, vers ce qu'ils
+appelaient un avant-poste sauvage.
+
+524
+00:32:23,413 --> 00:32:26,813
+- Et le pendentif ?
+- C'est comme ça que l'on communique.
+
+525
+00:32:27,651 --> 00:32:30,733
+On a communiqué comme ça
+pendant des siècles.
+
+526
+00:32:30,888 --> 00:32:33,177
+Parler oralement,
+
+527
+00:32:33,459 --> 00:32:38,092
+en utilisant des mots pré-arrangés en
+nombre défini, c'est tellement archaïque.
+
+528
+00:32:38,127 --> 00:32:40,533
+Et plutôt laid à voir.
+
+529
+00:32:48,965 --> 00:32:51,697
+La machine que vous avez trouvée
+est un transporteur.
+
+530
+00:32:51,985 --> 00:32:53,896
+Il m'a amenée ici, et peut
+me ramener chez moi.
+
+531
+00:32:53,931 --> 00:32:55,773
+Il me le faut avant
+que vous le démontiez.
+
+532
+00:32:55,808 --> 00:32:58,893
+- Mais tu ne seras pas en danger ?
+- 200 ans se sont écoulés.
+
+533
+00:32:58,928 --> 00:33:00,657
+Il y aura un nouveau gouvernement.
+
+534
+00:33:00,692 --> 00:33:03,017
+Il y aura eu 20 gouvernements
+entre-temps.
+
+535
+00:33:03,270 --> 00:33:06,008
+Alors pourquoi personne
+n'est venu te chercher ?
+
+536
+00:33:06,288 --> 00:33:08,345
+On m'a oubliée.
+
+537
+00:33:09,214 --> 00:33:12,177
+Comme Philoctetes sur Lemnos.
+
+538
+00:33:12,212 --> 00:33:15,893
+Laisse-moi t'amener à Torchwood.
+On peut peut-être t'aider,
+
+539
+00:33:15,928 --> 00:33:19,658
+- le réparer, te ramener chez toi.
+- Non !
+
+540
+00:33:19,974 --> 00:33:21,600
+Vous m'examinerez,
+
+541
+00:33:21,605 --> 00:33:24,640
+déciderez si je suis utile,
+ou si je suis un danger,
+
+542
+00:33:24,648 --> 00:33:26,848
+et m'enfermerez dans une cellule.
+
+543
+00:33:27,356 --> 00:33:30,584
+Comprendre les cultures aliens
+ne vous intéresse pas.
+
+544
+00:33:30,983 --> 00:33:32,660
+C'est pour ça que vous n'avez
+pas encore la technologie
+
+545
+00:33:32,662 --> 00:33:34,634
+pour atteindre d'autres planètes.
+
+546
+00:33:35,408 --> 00:33:37,810
+Vous avez une âme d'envahisseurs.
+
+547
+00:33:38,685 --> 00:33:40,759
+Tu crois vraiment que je vais venir,
+
+548
+00:33:40,879 --> 00:33:43,485
+me rendre, les mains en l'air ?
+
+549
+00:33:47,191 --> 00:33:51,292
+<i>"Le silence quand j'ouvre la porte...
+Je ne supporterais plus ce silence..."</i>
+
+550
+00:33:51,564 --> 00:33:52,857
+<i>"Ses mains étaient froides."</i>
+
+551
+00:33:52,892 --> 00:33:56,372
+<i>"Vouloir appeler les Services
+Sociaux, juste pour quelques bleus ?!"</i>
+
+552
+00:33:56,407 --> 00:34:01,393
+<i>"Tout l'héritage part dans le logement..."</i>
+
+553
+00:34:04,488 --> 00:34:07,714
+<i>"Il l'appelait le petit secret
+de Grand-père..."</i>
+
+554
+00:34:52,733 --> 00:34:55,771
+Je ne peux plus supporter ça.
+
+555
+00:34:56,394 --> 00:34:59,476
+Ce poids, cette dépravation...
+
+556
+00:34:59,548 --> 00:35:00,670
+Cette peur...
+
+557
+00:35:00,674 --> 00:35:02,860
+<i>elle m'envahit.</i>
+
+558
+00:35:10,788 --> 00:35:12,933
+<i>Elle est dans ma bouche,</i>
+
+559
+00:35:13,535 --> 00:35:15,412
+<i>dans mes cheveux,</i>
+
+560
+00:35:16,018 --> 00:35:18,207
+<i>dans mes yeux.</i>
+
+561
+00:35:20,086 --> 00:35:21,775
+Marmer...
+
+562
+00:35:24,235 --> 00:35:26,533
+Comme si je me noyais dans de l'encre.
+
+563
+00:35:26,568 --> 00:35:28,298
+Que faire... ?
+
+564
+00:35:29,302 --> 00:35:30,818
+Enlèvement du coeur...
+
+565
+00:35:31,291 --> 00:35:35,653
+"Rapports d'autopsie donnés
+à l'Opération Lowry."
+
+566
+00:35:41,222 --> 00:35:43,498
+Et même quand je ne porte
+pas le pendentif...
+
+567
+00:35:43,533 --> 00:35:45,291
+même quand il n'y a rien,
+
+568
+00:35:45,452 --> 00:35:49,932
+je ne peux pas oublier ce que j'ai vu,
+ce que j'ai entendu.
+
+569
+00:35:52,653 --> 00:35:54,703
+Enlèvement du coeur.
+
+570
+00:35:55,460 --> 00:35:58,435
+Enlèvement du coeur. Enlevé.
+
+571
+00:36:01,453 --> 00:36:03,376
+Jusqu'où ça remonte ?
+
+572
+00:36:03,377 --> 00:36:05,744
+C'est comme une malédiction,
+
+573
+00:36:05,887 --> 00:36:09,590
+envoyée par les dieux pour
+rendre quelqu'un fou.
+
+574
+00:36:11,607 --> 00:36:12,735
+<i>J'avais de l'espoir.</i>
+
+575
+00:36:12,878 --> 00:36:14,641
+<i>Je voyais toujours quelque chose,</i>
+
+576
+00:36:14,800 --> 00:36:17,474
+des petites marques de gentillesse,
+
+577
+00:36:17,612 --> 00:36:19,800
+et ça me faisait penser
+qu'on était en sécurité,
+
+578
+00:36:19,822 --> 00:36:21,829
+<i>qu'il y avait du bon en nous.</i>
+
+579
+00:36:21,830 --> 00:36:23,010
+C'est impossible.
+
+580
+00:36:23,014 --> 00:36:24,820
+<i>Mais il n'y en a pas.</i>
+
+581
+00:36:24,821 --> 00:36:26,178
+C'est comme les Weevils.
+
+582
+00:36:26,733 --> 00:36:31,317
+<i>Tu les regardes, et il n'y a que
+cet horrible geignement.</i>
+
+583
+00:36:34,333 --> 00:36:37,013
+C'est totalement impossible.
+
+584
+00:36:38,532 --> 00:36:39,880
+Tu avais raison.
+
+585
+00:36:40,045 --> 00:36:41,944
+Tout ce que tu as dis sur nous.
+
+586
+00:36:42,092 --> 00:36:44,602
+<i>On est effrayés, et endurcis.</i>
+
+587
+00:36:44,712 --> 00:36:47,265
+- Owen ?
+- Il faut que tu voies ça.
+
+588
+00:36:48,733 --> 00:36:51,871
+Et je ne peux plus en faire partie.
+
+589
+00:36:52,333 --> 00:36:54,263
+<i>Je ne sais pas quoi faire.</i>
+
+590
+00:36:54,477 --> 00:36:57,493
+- Dis-moi quoi faire !
+- Fais-moi entrer à Torchwood.
+
+591
+00:37:12,416 --> 00:37:16,670
+<i>"A Xanadu, Kublai Khan construisit
+un temple du plaisir seigneurial..."</i>
+
+592
+00:37:16,673 --> 00:37:21,184
+<i>"La rivière sacrée Alph traversait
+des cavernes immenses,"</i>
+
+593
+00:37:21,497 --> 00:37:24,241
+<i>"jusqu'à une mer sans soleil."</i>
+
+594
+00:37:25,236 --> 00:37:28,093
+- Alors, où est-il, mon ange ?
+- Reste là.
+
+595
+00:37:28,128 --> 00:37:31,133
+C'est Jack, mon patron, qui l'a.
+
+596
+00:37:31,412 --> 00:37:32,551
+Fais vite.
+
+597
+00:37:34,252 --> 00:37:36,778
+Un long voyage m'attend.
+
+598
+00:37:36,967 --> 00:37:39,766
+Il faudrait peut-être que
+je mange avant.
+
+599
+00:37:39,767 --> 00:37:41,674
+C'est ça que tu cherches ?
+
+600
+00:37:41,709 --> 00:37:44,255
+- Jack !
+- Un de mes amis,
+
+601
+00:37:44,566 --> 00:37:46,057
+appelons-le Vincent.
+
+602
+00:37:46,092 --> 00:37:47,375
+C'était son nom, après tout.
+
+603
+00:37:47,410 --> 00:37:52,266
+Un mec normal, une petite-amie,
+aimait le sport, la bière.
+
+604
+00:37:52,447 --> 00:37:56,928
+Il a commencé à se
+comporter... bizarrement,
+
+605
+00:37:57,119 --> 00:37:58,737
+un peu distrait.
+
+606
+00:37:58,772 --> 00:38:03,293
+Tout à coup, il a disparu
+pendant quelques mois.
+
+607
+00:38:03,328 --> 00:38:05,138
+Quand il est revenu,
+
+608
+00:38:05,442 --> 00:38:08,217
+on a dû commencer à
+l'appeler Vanessa.
+
+609
+00:38:08,252 --> 00:38:10,140
+Depuis, j'ai toujours été
+un peu nerveux
+
+610
+00:38:10,175 --> 00:38:12,664
+quand un ami ne se
+comporte pas comme d'habitude.
+
+611
+00:38:12,699 --> 00:38:16,293
+Désolé, on n’a pas été présentés.
+
+612
+00:38:16,328 --> 00:38:18,417
+Jack Harkness.
+
+613
+00:38:18,742 --> 00:38:21,348
+Je suppose que tu
+n'es pas du coin.
+
+614
+00:38:21,383 --> 00:38:22,664
+Ca...
+
+615
+00:38:23,815 --> 00:38:24,744
+ça...
+
+616
+00:38:24,745 --> 00:38:27,282
+Ah, c'est incroyable.
+
+617
+00:38:29,949 --> 00:38:32,304
+- Tu sais ce que c'est ?
+- Un transporteur.
+
+618
+00:38:32,716 --> 00:38:36,092
+Marie était prisonnier politique,
+elle a été exilée ici. Ecoute, Jack...
+
+619
+00:38:36,127 --> 00:38:39,642
+Tu as a moitié bon.
+Marie... c'est bien Marie, non ?
+
+620
+00:38:39,918 --> 00:38:44,738
+Tu veux lui expliquer la
+partie intéressante ? Non ?
+
+621
+00:38:45,454 --> 00:38:48,822
+Elle est bavarde ! Je sais pas
+comment tu as réussi à la faire parler.
+
+622
+00:38:48,857 --> 00:38:52,466
+C'est un transporteur pour deux hommes.
+Ou quoi que vous soyez.
+
+623
+00:38:52,557 --> 00:38:54,408
+Vous êtes peut-être des calamars,
+pour ce que j'en sais.
+
+624
+00:38:54,443 --> 00:38:56,608
+Un transporteur pour deux calamars.
+
+625
+00:38:56,643 --> 00:38:59,723
+Un prisonnier, et un garde.
+
+626
+00:38:59,725 --> 00:39:01,588
+Tu veux nous dire ce qui est
+arrivé au garde, Marie ?
+
+627
+00:39:01,589 --> 00:39:03,018
+Je l'ai tué.
+
+628
+00:39:03,307 --> 00:39:04,933
+Mais on m'a dérangée.
+
+629
+00:39:49,932 --> 00:39:52,377
+Puis un autre est arrivé, un soldat.
+
+630
+00:39:52,808 --> 00:39:54,772
+<i>Il a voulu me tirer dessus.</i>
+
+631
+00:40:01,816 --> 00:40:04,337
+Les traînées ont-elles des prières ?
+
+632
+00:40:05,689 --> 00:40:11,373
+<i>J'ai plongé ma nouvelle main humaine
+dans sa poitrine, j'ai arraché son cœur.</i>
+
+633
+00:40:15,533 --> 00:40:17,431
+Et c'est ce que tu continues
+à faire depuis.
+
+634
+00:40:17,466 --> 00:40:18,953
+Cette forme doit être nourrie.
+
+635
+00:40:18,954 --> 00:40:22,028
+Toutes les blessures avaient
+à peu près la taille d'un poing.
+
+636
+00:40:22,063 --> 00:40:23,614
+Mon Dieu, tous ces gens...
+
+637
+00:40:23,649 --> 00:40:25,130
+Tu as tué tous ces gens.
+
+638
+00:40:25,165 --> 00:40:27,444
+J'ai fui avant que
+d'autres soldats n'arrivent.
+
+639
+00:40:27,479 --> 00:40:30,049
+J'avais tellement à explorer !
+
+640
+00:40:30,396 --> 00:40:32,852
+Et j'aimais tellement ce corps.
+
+641
+00:40:33,287 --> 00:40:34,452
+Si doux.
+
+642
+00:40:34,487 --> 00:40:38,822
+Si malfaisant. Le pouvoir qu'un tel
+corps a dans ce monde.
+
+643
+00:40:39,061 --> 00:40:41,073
+En quelques années,
+la forêt avait disparu,
+
+644
+00:40:41,108 --> 00:40:43,500
+le transporteur était enterré
+sous l'extension de la ville.
+
+645
+00:40:43,510 --> 00:40:46,303
+Je m'en fichais. Je n'étais pas
+vraiment pressée de rentrer.
+
+646
+00:40:46,338 --> 00:40:47,455
+Et tu n'as fait que tuer depuis.
+
+647
+00:40:47,490 --> 00:40:50,728
+Je savais que ma situation
+finirait par se compliquer.
+
+648
+00:40:50,763 --> 00:40:54,690
+Mais c'était bon, tant que je savais
+où était le transporteur.
+
+649
+00:40:55,425 --> 00:40:58,137
+<i>"La manière dont elle nous regarde,
+on dirait un animal."</i>
+
+650
+00:40:58,172 --> 00:41:00,132
+<i>"Quand ils ont amené cette
+fille à l'hôpital,"</i>
+
+651
+00:41:00,167 --> 00:41:02,151
+<i>"je n'exerçais que depuis six mois."</i>
+
+652
+00:41:02,186 --> 00:41:03,433
+<i>"J'avais envie de vomir."</i>
+
+653
+00:41:03,468 --> 00:41:04,747
+Et puis la machine a été découverte.
+
+654
+00:41:04,782 --> 00:41:07,458
+Dès qu'elle est entrée en contact
+avec l'air, je l'ai senti.
+
+655
+00:41:07,493 --> 00:41:10,176
+<i>"Elle ne fait que parler, elle
+n'a même pas peur de nous."</i>
+
+656
+00:41:10,211 --> 00:41:11,814
+<i>"Elle ne fait que parler."</i>
+
+657
+00:41:12,207 --> 00:41:14,057
+Et j'ai trouvé ma Toshiko.
+Ma belle Toshiko.
+
+658
+00:41:14,092 --> 00:41:14,974
+<i>"Je vais le faire maintenant."</i>
+
+659
+00:41:15,009 --> 00:41:16,202
+Owen, NON !
+
+660
+00:41:18,633 --> 00:41:20,051
+Laisse-la, Marie !
+
+661
+00:41:20,349 --> 00:41:21,284
+Laisse-la !
+
+662
+00:41:21,300 --> 00:41:23,480
+Toshiko, dis-leur de me
+donner le transporteur.
+
+663
+00:41:23,515 --> 00:41:24,615
+Je peux pas, Marie.
+
+664
+00:41:24,650 --> 00:41:26,625
+<i>"C'est ridicule, on est pas armés,
+on ne fait que lui crier dessus."</i>
+
+665
+00:41:26,660 --> 00:41:28,421
+<i>"Pas encore.
+S'il vous plaît, pas encore."</i>
+
+666
+00:41:28,456 --> 00:41:31,200
+<i>"Le couteau a une lame dentée.
+Ça déchirerai la gorge de Tosh."</i>
+
+667
+00:41:31,201 --> 00:41:32,344
+Toi, comment c'est ?
+
+668
+00:41:32,379 --> 00:41:34,332
+J'échange Toshiko contre celle là !
+
+669
+00:41:34,809 --> 00:41:35,616
+C'est ton choix.
+
+670
+00:41:35,651 --> 00:41:37,686
+<i>"Non, non, pas Gwen."</i>
+
+671
+00:41:37,721 --> 00:41:40,573
+- Lâche ce couteau.
+- Tu l'as entendu ? Il ne veut pas.
+
+672
+00:41:40,608 --> 00:41:43,038
+<i>"Elle a lu mes pensées, elle
+a vraiment lu mes pensées."</i>
+
+673
+00:41:43,073 --> 00:41:45,469
+<i>"Qu'est-ce qui s'est passé ?
+Qu'est-ce qu'il a dit ?"</i>
+
+674
+00:41:45,644 --> 00:41:48,211
+- S'il te plaît, non...
+- Voilà ce qu'ils pensent de toi.
+
+675
+00:41:48,246 --> 00:41:50,778
+C'est avec eux que tu as travaillé
+pendant toutes ces années.
+
+676
+00:41:50,813 --> 00:41:53,185
+C'est pas vrai, Tosh, l'écoute pas.
+
+677
+00:41:53,220 --> 00:41:57,692
+Mais pas moi. Quoi que j'ai fait, ça
+ne change pas mes sentiments pour toi.
+
+678
+00:41:57,727 --> 00:42:00,813
+Il y a un truc entre nous,
+Toshiko, vraiment.
+
+679
+00:42:00,848 --> 00:42:04,857
+<i>"Toshiko... ne bouge pas."</i>
+
+680
+00:42:04,892 --> 00:42:07,348
+<i>"Ne fais rien jusqu'à ce que
+je te le dise."</i>
+
+681
+00:42:07,349 --> 00:42:11,387
+Ok, tu veux le transporteur,
+on veut Toshiko.
+
+682
+00:42:12,250 --> 00:42:13,833
+<i>"J'ai été entraînée pour les
+prises d'otages."</i>
+
+683
+00:42:13,935 --> 00:42:15,791
+<i>"Pour l'amour de dieu, réfléchis !"</i>
+
+684
+00:42:15,826 --> 00:42:18,152
+Baisse ce couteau et je te donne
+le transporteur.
+
+685
+00:42:18,187 --> 00:42:19,959
+<i>"Il va la laisser partir."</i>
+
+686
+00:42:21,133 --> 00:42:23,765
+<i>"C'est du bluff, mais je
+pense que ça va marcher."</i>
+
+687
+00:42:30,296 --> 00:42:32,105
+Tu ne sens...
+
+688
+00:42:33,728 --> 00:42:36,497
+- pas pareil qu'eux.
+- C'est rien.
+
+689
+00:42:36,532 --> 00:42:38,974
+C'est quand tu compares avec
+les dents d'un anglais,
+
+690
+00:42:39,009 --> 00:42:41,561
+que ça fait vraiment peur.
+
+691
+00:42:41,596 --> 00:42:44,052
+- Qu'est-ce que tu es ?
+- Je ne sais pas.
+
+692
+00:42:44,087 --> 00:42:46,253
+Et tu voulais me mettre en cage ?
+
+693
+00:42:48,614 --> 00:42:51,138
+- Qu'est-ce qui se passe ?
+- Oh, ça.
+
+694
+00:42:51,173 --> 00:42:54,206
+Je l'ai re-programmé pour toi.
+Je l'ai mis sur permission.
+
+695
+00:43:08,653 --> 00:43:11,577
+- En quelque sorte.
+- Qu'est-ce qu'elle ?
+
+696
+00:43:12,361 --> 00:43:14,612
+- Elle est rentrée chez elle ?
+- J'ai re-défini les coordonnées.
+
+697
+00:43:14,647 --> 00:43:16,754
+- Vers où ?
+- Le centre du soleil.
+
+698
+00:43:16,888 --> 00:43:17,817
+Ça devrait pas être chaud.
+
+699
+00:43:17,852 --> 00:43:20,257
+Je veux dire, on l'a
+envoyé la nuit et tout ça.
+
+700
+00:43:20,292 --> 00:43:22,390
+- Tu l'as tuée.
+- Oui.
+
+701
+00:43:35,693 --> 00:43:39,341
+- Demande-lui.
+- Oui, laisse-moi juste un peu de temps.
+
+702
+00:43:39,376 --> 00:43:40,902
+Dis-lui quelque chose.
+
+703
+00:43:40,937 --> 00:43:43,912
+Que veux-tu que je fasse ?
+Elle en a enduré assez comme ça.
+
+704
+00:43:43,947 --> 00:43:46,573
+- Ça me fout vraiment les boules.
+- C'est bon.
+
+705
+00:43:47,354 --> 00:43:49,285
+Owen, ne soit pas égoïste.
+
+706
+00:43:49,438 --> 00:43:50,746
+Ok !
+
+707
+00:43:50,848 --> 00:43:53,763
+Depuis quand as-tu ce... pouvoir ?
+
+708
+00:43:53,798 --> 00:43:55,813
+- Juste quelques jours.
+- Qu'as-tu entendu ?
+
+709
+00:43:55,848 --> 00:43:59,177
+Beaucoup de bruit.
+Des émotions.
+
+710
+00:43:59,212 --> 00:44:02,772
+- Des références que je ne comprenais pas.
+- Oui, et le reste ?
+
+711
+00:44:02,807 --> 00:44:06,632
+- Le reste ne me regardait pas.
+- Non. En effet.
+
+712
+00:44:14,000 --> 00:44:18,078
+- Je sais pas où nous en sommes.
+- Moi non plus.
+
+713
+00:44:18,476 --> 00:44:22,172
+On ne peut pas vraiment invoquer
+la morale pour ça.
+
+714
+00:44:23,030 --> 00:44:24,692
+Ce truc entre Owen et moi...
+
+715
+00:44:24,727 --> 00:44:26,758
+Non, Gwen.
+
+716
+00:44:26,773 --> 00:44:29,178
+Ce que j'ai fait était une intrusion.
+
+717
+00:44:29,213 --> 00:44:34,252
+Je vois bien que je ne le contrôlais
+pas. Mais même sans ça, je ne...
+
+718
+00:44:35,333 --> 00:44:37,778
+Je déteste vivre avec ça.
+
+719
+00:44:37,813 --> 00:44:41,112
+Pas ce que j'ai entendu, mais
+ce que je vous ai fait.
+
+720
+00:44:41,147 --> 00:44:44,154
+- Et ma trahison ?
+- Comment ça ?
+
+721
+00:44:45,485 --> 00:44:47,858
+Je vis avec la mienne.
+
+722
+00:44:48,852 --> 00:44:51,377
+Ça devrait me réveiller.
+Je devrais m'arrêter.
+
+723
+00:44:51,412 --> 00:44:53,473
+Mais je le ferai pas.
+Qu'est-ce que ça fait de moi ?
+
+724
+00:44:53,508 --> 00:44:57,733
+- Je ne suis pas en position de juger.
+- C'est bien ce que je veux dire, Tosh.
+
+725
+00:44:57,768 --> 00:45:00,033
+Moi non plus.
+
+726
+00:45:03,081 --> 00:45:04,741
+Ne laisse pas ça...
+
+727
+00:45:04,972 --> 00:45:07,226
+Non, rien. Désolée, oublie ça.
+
+728
+00:45:07,261 --> 00:45:08,406
+Quoi ?
+
+729
+00:45:08,441 --> 00:45:10,450
+Ne laisse pas ça te décourager.
+
+730
+00:45:10,485 --> 00:45:13,700
+Ces derniers jours, tu avais
+vraiment l'air bien.
+
+731
+00:45:14,108 --> 00:45:16,388
+L'amour t'allait bien.
+
+732
+00:45:29,717 --> 00:45:31,237
+C'est marrant.
+
+733
+00:45:31,272 --> 00:45:32,617
+Une si petite chose.
+
+734
+00:45:33,734 --> 00:45:37,494
+C'est sûrement la plus puissante
+technologie qu'on ait trouvé.
+
+735
+00:45:40,093 --> 00:45:44,093
+Ça pourrait détruire des
+gouvernements, des armées.
+
+736
+00:45:48,430 --> 00:45:50,413
+Qu'est-ce qu'on va faire ?
+
+737
+00:45:50,939 --> 00:45:52,508
+A toi de décider.
+
+738
+00:45:58,826 --> 00:46:00,304
+C'est une malédiction.
+
+739
+00:46:11,951 --> 00:46:14,183
+Pourquoi je ne pouvais pas
+lire tes pensées ?
+
+740
+00:46:15,404 --> 00:46:16,723
+Je ne sais pas.
+
+741
+00:46:17,795 --> 00:46:20,732
+Mais je pouvais te sentir
+fouiller là-dedans.
+
+742
+00:46:20,767 --> 00:46:22,427
+Je n'ai rien trouvé.
+
+743
+00:46:23,453 --> 00:46:25,213
+C'est comme si tu étais...
+
+744
+00:46:25,248 --> 00:46:27,332
+je ne sais pas, mort.
+
+745
+00:46:30,053 --> 00:46:33,649
+Je veux cette liste pour l'UNIT
+sur mon bureau demain,
+
+746
+00:46:34,792 --> 00:46:36,016
+ou je...
+
+747
+00:46:37,583 --> 00:46:40,767
+Que font les patrons
+dans ces cas là ?
+
+748
+00:46:40,802 --> 00:46:43,298
+Tu sais, les patrons normaux.
+
+749
+00:46:44,316 --> 00:46:46,131
+Est-ce que je peux frapper les gens ?
+
+750
+00:46:47,473 --> 00:46:49,469
+On a des règles pour ça !
+
+751
+00:46:50,607 --> 00:46:52,012
+Dommage.
+
+752
+00:46:54,874 --> 00:46:56,052
+Jack...
+
+753
+00:46:58,973 --> 00:47:01,116
+Marie m'a dit quelque chose...
+
+754
+00:47:03,000 --> 00:47:06,572
+Sûrement la seule chose
+honnête qu'elle ait dite.
+
+755
+00:47:09,435 --> 00:47:12,503
+Je lui ai demandé pourquoi elle
+me l'avais donné.
+
+756
+00:47:12,538 --> 00:47:15,572
+Et elle a dit,
+"Au bout d'un moment ça t'atteint."
+
+757
+00:47:16,333 --> 00:47:19,333
+"Ça change ta manière de voir les gens."
+
+758
+00:47:22,712 --> 00:47:24,561
+Comment je peux vivre avec ça ?
+
+759
+00:47:24,698 --> 00:47:28,093
+Il y a des choses que l'on est
+pas sensés savoir.
+
+760
+00:47:28,902 --> 00:47:30,796
+Tu as eu de l'instantané,
+
+761
+00:47:32,804 --> 00:47:34,500
+rien de plus.
+
+762
+00:47:35,238 --> 00:47:40,453
+Je ne parle pas de Gwen,
+Ianto, et Owen.
+
+763
+00:47:40,488 --> 00:47:44,052
+Je veux dire... le monde entier.
+
+764
+00:47:45,852 --> 00:47:47,990
+Ça n'a pas d'importance.
+
+765
+00:48:42,972 --> 00:48:45,636
+<i>Maintenant ces gens payent le prix
+fort, découpés en morceaux,</i>
+
+766
+00:48:45,671 --> 00:48:48,297
+<i>votre nom écrit avec leur propre sang.</i>
+
+767
+00:48:48,332 --> 00:48:52,219
+<i>Ça ramène les gens à la vie.
+On interroge juste les victimes de meurtres.</i>
+
+768
+00:48:54,389 --> 00:48:56,392
+<i>On est dans le pétrin.</i>
+
+769
+00:48:57,879 --> 00:49:00,056
+<i>Il doit y avoir un lien
+entre les victimes.</i>
+
+770
+00:49:00,327 --> 00:49:02,738
+<i>On trouve le lien, on trouve le tueur.</i>
+
+771
+00:49:02,773 --> 00:49:06,876
+Il est temps que Suzie revienne.
+On a parlé au mauvais cadavre.
+
+772
+00:49:08,000 --> 00:49:14,000
+~ Harkness Team ~
+Plumedephenix, Kowaio, LauCass, Cybelia
+
+773
+00:49:34,000 --> 00:49:37,900
+~ www.seriessub.com ~
+

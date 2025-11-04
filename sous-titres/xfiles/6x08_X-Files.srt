@@ -1,0 +1,487 @@
+{130}{210}SOIS LE VALENTIN DE MES RÊVES
+{310}{370}AVEC TOUT MON AMOUR, SHEILA
+{492}{602}KRONER, KANSAS|14 FEVRIER, SAINT-VALENTIN
+{1110}{1185}Les zones rurales du comté de Kroner|sont privées de courant.
+{1187}{1280}A venir, l'incroyable histoire d'amour|de deux pandas géants.
+{1280}{1360}Mais d'abord, la météo avec Holman Hardt.
+{1362}{1485}Toujours pas de pluie en vue dans la région|alors qu'une tempête nous frôle au sud.
+{1487}{1582}Mes prévisions sur cinq jours|juste après ça.
+{1635}{1715}Hé, mon ange, tu rentres tôt.
+{1717}{1797}Sheila, ça va pas du tout.
+{1800}{1850}Mais qu'est-ce qui t'a pris?
+{1850}{1897}Joyeuse Saint-Valentin.
+{1910}{1965}On était d'accord.
+{1967}{2050}Nos fiançailles devaient rester secrètes.
+{2062}{2137}Je sais mais je voulais juste|que tout le monde sache
+{2140}{2195}pourquoi je suis si heureuse.
+{2197}{2237}...la sécheresse continue.
+{2240}{2342}Il fait actuellement 7° C à Kroner|et les minimales seront de 4,5° C.
+{2345}{2445}Les affaires stagnent à cause de la|sécheresse mais on va pas arrêter de vivre.
+{2447}{2520}On devrait peut-être annuler les fiançailles.
+{2520}{2570}Ne dis pas ça. Pas aujourd'hui.
+{2572}{2620}Il va bientôt pleuvoir. Je le sens.
+{2622}{2675}Il faut que je réfléchisse.
+{2677}{2795}Regarde-moi ça.|Et tu te plains d'avoir un gros cul.
+{2917}{3002}"ll va bientôt pleuvoir. Je le sens."
+{3212}{3282}FONTAINE EPOUSE MOOTZ
+{4632}{4685}La vache!
+{6250}{6315}LE GOUVERNEMENT NOUS MENT
+{6675}{6720}LA VERITE EST AILLEURS
+{6792}{6857}KRONER, KANSAS|SIX MOIS PLUS TARD
+{7730}{7775}Hé, c'était ton idée.
+{7797}{7875}Agent Mulder, bienvenue.|Jim Gilmore, maire de Kroner.
+{7877}{7960}Je vous ai téléphoné.|Si j'avais su que votre femme viendrait,
+{7960}{8062}-je vous aurais trouvé un hôtel plus chic.|- Agent Scully, coéquipière de Mulder.
+{8065}{8145}Je suis sûre que l'hôtel sera parfait.
+{8145}{8185}Toutes mes excuses, madame.
+{8210}{8292}C'est très aimable à vous|de nous aider à résoudre ce problème.
+{8295}{8372}J'espérais un accueil plus grandiose, mais...
+{8375}{8427}OK, Rhonda, ça suffit.
+{8430}{8470}Va rejoindre ta mère.
+{8507}{8567}Vous avez parlé d'un problème.
+{8570}{8672}L'agent Mulder est resté vague|quant à la nature de ce problème.
+{8685}{8722}On baigne dedans.
+{8725}{8850}Récoltes chétives, incendies, faillites.|La sécheresse détruit la vie de tous.
+{8852}{8930}Un seul homme ne devrait pas|prospérer sur le dos des autres.
+{8932}{8990}Un seul homme?
+{8990}{9022}Daryl Mootz.
+{9025}{9092}Un gars du coin qui fait payer pour la pluie.
+{9095}{9125}LE ROI DE LA PLUIE
+{9142}{9205}- II s'agit d'ensemencement de nuage?|- Ca, non!
+{9207}{9307}Il se pointe, il fait son petit numéro,|et hop, il pleut à flots.
+{9362}{9477}Admettons que ce Mootz contrôle la pluie,
+{9480}{9545}qu'y a-t-il de mal à cela?
+{9547}{9652}Daryl contrôle la sécheresse|pour faire payer les habitants pour la pluie.
+{9745}{9820}C'est ce que vous avez dit à l'agent Mulder?
+{9822}{9900}Oui, madame. Il avait l'air ravi de nous aider.
+{10402}{10492}Allez, quoi! Tu réagis comme si|je t'avais menée en bateau.
+{10495}{10565}En 30 ans, cette ville|a connu plus de tornades,
+{10567}{10660}de canicules et d'averses de grêle|que toute autre ville du pays.
+{10662}{10710}C'est l'épicentre des conditions extrêmes.
+{10710}{10730}C'est l'épicentre des conditions extrêmes.
+{10730}{10797}Un homme qui contrôle le temps...
+{10800}{10932}S'il est vrai que Daryl Mootz|contrôle le temps pour s'enrichir,
+{10935}{11002}c'est un crime et on doit enquêter.
+{11005}{11067}Les bâtiments sont vides. Les signes sont là.
+{11070}{11195}Ils ont peur. Mais il y a toujours eu|des sécheresses et des perturbations.
+{11197}{11250}Et on veut toujours un bouc émissaire.
+{11252}{11335}OK, mais combien de boucs émissaires|louent des bureaux?
+{11677}{11767}Agents Mulder et Scully, FBI.|Nous cherchons Daryl Mootz.
+{11770}{11810}Une seconde.
+{11812}{11920}Oui, madame. Appendice C, voilà.|Il me faut un pack de six bières,
+{11920}{11990}une cartouche de Morley Lights|et un sac de bonbons.
+{11990}{12097}Vous pouvez enlever les verts?|II aime pas les verts.
+{12100}{12140}Je vous en prie.
+{12167}{12222}Alors, que puis-je pour le FBI?
+{12225}{12257}On veut voir le roi.
+{12260}{12342}Il est en rendez-vous d'affaires|dans un autre Etat.
+{12345}{12420}Vous voulez dire|qu'il est allé faire tomber la pluie?
+{12422}{12487}Il est dans l'Etat voisin, au Nebraska.
+{12490}{12572}- A Wymore.|- On voudrait une liste de tous les gens
+{12575}{12655}qui ont fait appel à ses services.
+{12657}{12715}Je ne comprends pas. Il a...?
+{12715}{12795}Il faut pas un mandat ou un truc de ce genre?
+{12797}{12860}Normalement, "s'il vous pla îti " suffit.
+{12885}{12985}Pourquoi vous enquêtez sur Daryl?|C'est un héros ici.
+{12987}{13045}Vous croyez vraiment qu'il fait la pluie?
+{13045}{13160}Je le sais de source sûre.|Il a sauvé la ferme de papa.
+{13162}{13220}Comment osez-vous?
+{13222}{13297}Wymore est la seule ville|des environs où il pleut.
+{13315}{13390}Vous voyez bien. Daryl fait la pluie.
+{13392}{13460}Et s'il l'avait suivie jusque là-bas?
+{13567}{13692}La voilà votre liste.|Vous voyez: que des clients satisfaits.
+{13695}{13747}Cette station de télé est loin d'ici?
+{13797}{13892}STUDIO DE TELEVISION KP JK|12H41
+{13965}{14072}On commençait à se demander|si vous alliez venir.
+{14120}{14202}Vous n'étiez jamais venus dans un studio?|C'est excitant!
+{14205}{14272}Je suis si heureuse pour vous deux.
+{14275}{14320}Je ne suis pas sûre que...
+{14375}{14430}Ils sont là. Les Gunderson sont arrivés.
+{14490}{14567}Holman, je te présente les Gunderson.
+{14570}{14672}Félicitations. J'espère que votre séjour|sera plein de romantisme.
+{14675}{14682}Ca vaut le coup de regarder|la météo de <i>Channel 5.</i>
+{14682}{14740}Ca vaut le coup de regarder|la météo de <i>Channel 5.</i>
+{14742}{14832}Nous sommes|les agents Mulder et Scully, du FBI.
+{14835}{14897}Oh, mon Dieu. Je vous ai pris
+{14900}{14970}pour les gagnants du jeu|"Regardez la météo et gagnez".
+{14972}{15097}Des mois qu'il ne pleut pas.|Comme d'habitude, on nous jette la pierre.
+{15112}{15182}Les Gunderson sont là. Par ici.
+{15345}{15395}C'est comme si on voyait notre reflet.
+{15415}{15537}Quand je vous ai vus, je vous ai trouvés|bien élégants pour un couple de fermiers.
+{15540}{15602}Mettez-vous à votre aise.
+{15685}{15815}Apparemment, les conditions météo|de Kroner sont plutôt inhabituelles.
+{15815}{15870}Ca, vous pouvez le dire.
+{15872}{15925}Kroner ne paye peut-être pas de mine,
+{15927}{16015}mais d'un point de vue météorologique,
+{16017}{16095}avec les dépressions,|perturbations et tornades,
+{16097}{16180}Kroner est une ville|sophistiquée, complexe et...
+{16250}{16295}sexy.
+{16330}{16422}Franchement, c'est le paradis|pour un météorologue.
+{16425}{16495}Que pouvez-vous nous dire sur Daryl Mootz?
+{16505}{16620}C'est le maire qui vous a appelés, hein?|II pense que Daryl provoque la sécheresse.
+{16620}{16687}- Pas vous.|- Bien sûr que non.
+{16690}{16757}Ce sont les hautes pressions|les grandes coupables.
+{16760}{16787}Rien ne prouve
+{16790}{16910}que Daryl, ou tout autre homme,|soit responsable de notre malheur.
+{16912}{17015}- Merci. On peuty aller?|- Non. Et la pluie?
+{17017}{17125}C'est un problème plus nébuleux,|si je puis dire.
+{17127}{17237}J'ai ici une liste de 40 noms.
+{17240}{17345}Selon ces gens, Daryl Mootz a commandé|la pluie dans quatre comtés.
+{17345}{17355}Selon ces gens, Daryl Mootz a commandé|la pluie dans quatre comtés.
+{17380}{17492}J'étais au lycée avec Daryl.|On ne voyait pas les mêmes gens...
+{17495}{17610}Franchement,|il n'a pas grand-chose pour lui.
+{17612}{17647}Mais...
+{17695}{17747}Daryl semble être ce qu'il dit être.
+{17785}{17817}C'est inexplicable.
+{17820}{17945}Partout où il va, la pluie tombe.
+{18062}{18125}FERME DES MONROE|16H07
+{18265}{18362}Regarde. Ils sont accablés|et prêts à croire n'importe quoi.
+{18365}{18460}D'après son emploi du temps,|le roi devrait déjà être là.
+{18460}{18512}Le voilà.
+{19235}{19290}Oh, comme c'est touchant.
+{19290}{19397}Dites-moi, ça ferait pas de mal,|un peu de pluie par ici, non?
+{19425}{19477}Visez-moi ça.
+{19480}{19540}Quelqu'un peut prendre ça?
+{19815}{19887}C'est pas la bonne botte, mon chou.
+{19890}{19970}Sois mignonne|et amène-moi celle en serpent rouge.
+{19992}{20040}Voyez qui est là.
+{20052}{20100}Le FBI.
+{20102}{20162}On est juste venu voir le spectacle.
+{20165}{20220}On est en avance, on dirait.
+{20222}{20285}Hommes de peu de foi.
+{20285}{20407}Mon camion est beaucoup plus rapide|que mes nuages de pluie.
+{20410}{20450}Excusez-moi.
+{20502}{20540}Merci.
+{20542}{20640}- Comment expliquez-vous cet unique talent?|- Je ne l'explique pas.
+{20640}{20685}C'est compliqué.
+{20687}{20745}Dites toujours. Je regarde la chaîne météo.
+{20807}{20910}Si vous voulez savoir si j'ai réclamé ce don,
+{20912}{20955}sachez que non, monsieur.
+{20957}{21040}Pas plus que je n'ai demandé|à perdre un membre.
+{21040}{21165}Mais j'aurais dû le voir venir.|Je vais vous dire pourquoi.
+{21167}{21270}J'appartiens à une longue|lignée de guérisseurs.
+{21272}{21325}Je suis un homme spirituel, en harmonie
+{21360}{21405}avec la vraie réalité.
+{21407}{21485}La réalité invisible.
+{21670}{21767}Et j'ai 1/64ème de sang cherokee.
+{21790}{21857}Et je peux demander à mes ancêtres
+{21860}{21947}d'apporter de l'eau à cette terre assoiffée.
+{22337}{22440}- Qu'est-ce qu'on fait là?|- II y a des précédents historiques.
+{22442}{22515}Le Far West regorgeait de faiseurs de pluie.
+{22517}{22620}- Les Indiens dansaient pour qu'il pleuve.|- Ce n'est pas une danse de la pluie.
+{22622}{22717}Ma tante irlandaise est plus|Cherokee que Daryl Mootz.
+{22760}{22827}Il a l'air capable de contrôler le temps?
+{23505}{23572}Tu m'accompagnes toujours|à la soirée de vendredi?
+{23575}{23637}Oui. C'est l'événement de la décennie.
+{23662}{23750}Quand je pense qu'on a quitté|le lycée il y a 20 ans.
+{23752}{23810}Comme le temps file.
+{23835}{23900}Que cherchait le FBI?
+{23900}{24010}Ils posaient des questions sur Daryl.|Par rapport à la pluie.
+{24012}{24120}Je voudrais qu'ils retournent d'où|ils viennent et qu'il le laisse tranquille.
+{24145}{24195}Tu ne l'aimes plus, rassure-moi.
+{24255}{24352}Comment peux-tu tenir à lui|après ce qu'il t'a fait?
+{24355}{24445}- Je sais.|- II ne t'a jamais aimée.
+{24472}{24535}Il n'en avait qu'après ton argent|et dès qu'il a eu le sien...
+{24535}{24580}Il n'en avait qu'après ton argent|et dès qu'il a eu le sien...
+{24580}{24667}Il est parti. Je sais.|Mais je crois qu'il m'a aimée.
+{24715}{24807}D'autres hommes t'aimeront plus.
+{24817}{24865}Le FBl, flûte alors!
+{24865}{24965}Je ne vais pas bien dormir|sachant qu'ils fouinent.
+{25120}{25187}MOTEL BELLE VUE
+{25785}{25830}26 TORNADES PAR JOUR
+{26690}{26792}Si vous ne voulez pas être couverte|de bidoche, sortez de la pièce.
+{27020}{27102}On a mis les affaires|de votre petit ami dans votre chambre.
+{27105}{27185}C'est mon coéquipier|et nous préférerions deux chambres.
+{27187}{27232}On est vieux jeu, comme ça?
+{27235}{27347}On est complet avec la réunion|d'anciens élèves. A prendre ou à laisser.
+{27350}{27445}On peut mettre un sparadrap.|J'ai ma trousse dans ma voiture.
+{27447}{27520}Ce n'est pas un hasard|si cette vache m'est tombée dessus
+{27522}{27595}quand on est là pour enquêter sur le temps.
+{27597}{27687}- On t'a fait des radios du crâne?|- Cette vache m'était destinée.
+{27832}{27877}Vous allez bien?
+{27880}{27985}Je suis navré. Si je peux faire|quoi que ce soit, n'hésitez pas.
+{27985}{28075}Dans ce cas, pouvez-vous rassurer|l'agent Mulder et lui dire
+{28077}{28157}que cet incident bovin|est un phénomène naturel?
+{28160}{28205}Avec plaisir.
+{28207}{28290}Une mini-tornade|a dû emporter cette pauvre bête,
+{28292}{28395}la soulever à environ 3 600 m du sol,|où l'air est glacial, et...
+{28420}{28465}Heureusement, vous n'avez rien.
+{28492}{28545}Excusez-moi.
+{28612}{28705}- Tu n'aurais pas dû venir.|- Ne me rends pas la tâche plus difficile.
+{28742}{28810}C'est ma faute. C'est moi qui ai fait ça.
+{28887}{28970}Je suis désolée. Je ne voulais pas.
+{28995}{29142}- Je ne peux pas le contrôler.|- Vous dites que c'est vous qui...
+{29145}{29205}J'ai tué cette pauvre vache.
+{29272}{29385}Holman vient de nous dire|qu'une mini-tornade a causé cet accident.
+{29385}{29472}Il est adorable, il me protège.|Il conna îti la vérité.
+{29525}{29615}Ce n'est pas la première fois que ça arrive.
+{29637}{29742}Le soir du bal de fin d'année,|une tornade a détruit le lycée.
+{29800}{29940}Ensuite, pour mes noces,|jour dont j'avais toujours rêvé,
+{29940}{30070}la cérémonie était à l'extérieur,|le week-end du 4 juillet.
+{30072}{30127}Il est tombé 15 cm de neige.
+{30157}{30290}Trois ans plus tard, mon mari est parti|avec une fille de la compagnie de téléphone,
+{30290}{30362}et le jour où notre divorce a été prononcé,
+{30365}{30430}je suis sortie du tribunal et...
+{30432}{30560}Vous savez, quand les gros nuages|cotonneux prennent des formes...
+{30635}{30755}Je jure que chaque nuage se détachant|sur ce beau ciel bleu se riait de moi.
+{30830}{30887}C'était il y a une dizaine d'années,
+{30890}{30960}et ça ne s'était jamais reproduit,
+{30962}{30995}jusqu'à hier soir.
+{31070}{31137}Vous connaissez Daryl Mootz?
+{31162}{31232}On était fiancés.
+{31235}{31285}Vous étiez fiancés?
+{31285}{31330}Oui, il y a six mois de ça,
+{31342}{31422}mais après une dispute, il a pris sa voiture,
+{31575}{31650}Et depuis, la pluie le suit.
+{31792}{31847}- Vous allez m'arrêter?|- Non.
+{31850}{31937}Je vous certifie que vous n'êtes pas|responsable de ce temps.
+{31980}{32047}L'agent Scully et moi|sommes experts en la matière.
+{32050}{32185}Vous avez peut-être été malchanceuse|mais vous n'y êtes pour rien.
+{32187}{32240}- Vous en êtes sûr?|- Oui.
+{32240}{32335}- As-tu le moindre doute?|- Non.
+{32335}{32375}Tout va bien.
+{32437}{32490}Je veux vraiment vous croire.
+{32562}{32620}- Merci.|- De rien.
+{32770}{32865}- La grêle n'a rien à voir avec l'accident.|- Comment ça?
+{32867}{32942}Il faisait mauvais|mais il était ivre et il allait trop vite.
+{32945}{33007}Ivre? Première nouvelle.
+{33010}{33087}On a estimé qu'il avait assez payé|en perdant sa jambe.
+{33370}{33435}Les gens ne comprennent pas|comme c'est dur.
+{33435}{33595}J'ai peut-être juste les fesses posées,|mais mes pouvoirs de concentration sont...
+{33597}{33647}Oh, c'est bon. Juste là. Oui.
+{33650}{33720}Oui. Tu mérites bien ton salaire.
+{33757}{33822}- J'en étais où?|- A tes pouvoirs de concentration?
+{33825}{33850}Ah, oui.
+{33852}{33937}Mon cerveau fonctionne sur 14 niveaux,
+{33940}{34042}il intègre un tas de variables, comme|la vitesse du vent, le taux d'humidité et...
+{34042}{34075}il intègre un tas de variables, comme|la vitesse du vent, le taux d'humidité et...
+{34115}{34165}- T'entends?|- Quoi?
+{34167}{34222}Il ne pleut plus.
+{34730}{34795}- Le prochain vol est à 10 h.|- Regarde.
+{34795}{34880}Le 20 septembre 1991.
+{34882}{34960}Il a plu des pétales de rose|pendant presque une heure.
+{34982}{35047}On rentre. La pluie a cessé cet après-midi.
+{35050}{35137}50 personnes attaquent Daryl Mootz|en justice. Ca n'aboutira à rien.
+{35140}{35220}Tu as dit à Sheila|qu'elle ne contrôlait pas le temps.
+{35220}{35290}C'est vrai. Pas plus que Daryl.
+{35292}{35340}Mais écoute un peu ça:
+{35340}{35432}le jour de la pluie de pétales de rose,
+{35435}{35490}"lrene Hardt, tendre épouse et mère dévouée,|nous a quittés hier après-midi."
+{35490}{35577}"lrene Hardt, tendre épouse et mère dévouée,|nous a quittés hier après-midi."
+{35602}{35675}"Elle laisse un fils, Holman Hardt."
+{35677}{35755}- Tu penses que Holman...|- Fabrique le temps.
+{35755}{35825}Il était soulagé|quand il a su que Daryl était ivre.
+{35827}{35885}J'ai vérifié quelques points.
+{35885}{36000}Holman Hardt a été hospitalisé cinq fois|pour épuisement nerveux,
+{36002}{36090}et à chaque fois, il y a eu|des perturbations météo importantes.
+{36092}{36185}De là à dire qu'il fabrique le temps...
+{36187}{36290}Beaucoup admettent|que le temps influe sur leur humeur.
+{36290}{36395}- II y a même une maladie.|- Dépression saisonnière.
+{36395}{36500}A l'inverse, pourquoi l'humeur de quelqu'un|n'affecterait pas le temps?
+{36502}{36600}Le temps pourrait refléter|les sentiments de Holman Hardt.
+{36602}{36710}Ou mieux encore, ceux qu'il n'exprime pas.
+{36730}{36800}J'ai voulu le faire des milliers de fois,
+{36825}{36915}exprimer le feu
+{36917}{37025}qui brûle derrière cette façade quelconque.
+{37092}{37175}C'est pour toi que je suis resté ici|toutes ces années.
+{37220}{37267}Chaque jour, je me réveille sachant...
+{37480}{37552}- Allô?|- C'est moi. Tu travailles tard?
+{37555}{37625}Salut. Oui...
+{37677}{37730}Je pensais à toi.
+{37732}{37795}J'ai hâte d'aller à la soirée de demain.
+{37797}{37862}- Moi aussi.|- Tu as l'air de bonne humeur.
+{37865}{37947}Oui, et c'est grâce à toi.
+{37975}{38095}Je veux que tu saches que j'ai pensé|à ce que tu m'as dit sur Daryl hier,
+{38112}{38182}- et j'ai réalisé que tu avais raison.|- C'est vrai?
+{38185}{38290}Oui, j'ai fait une croix sur lui.|Daryl qui? Voilà où j'en suis.
+{38307}{38395}J'ai compris que je m'intéressais|au mauvais genre d'homme.
+{38397}{38507}Il me faut quelqu'un avec qui parler.|Qui me rassure.
+{38510}{38575}Si tu savais comme ça me fait plaisir.
+{38585}{38635}J'ai quelque chose à te demander,
+{38637}{38722}mais je voudrais que ça reste|entre nous pour le moment.
+{38725}{38770}Bien sûr. Ce que tu veux.
+{38807}{38865}Que penses-tu de l'agent Mulder?
+{39425}{39495}- Je suis venu vous dire au revoir.|- Vous partez?
+{39542}{39615}Mais faites-vous soigner|avant de tuer quelqu'un.
+{39617}{39675}- De quoi parlez-vous?|- Vous le savez très bien.
+{39675}{39742}Vous ne faites pas que lire la météo.|Vous la faites.
+{39745}{39810}C'est vous qui modifiez le temps.
+{39812}{39942}Dans ce cas, je ferais tomber la pluie|pour mettre fin à la sécheresse, non?
+{39945}{39995}Vous ne le faites pas sciemment.
+{39997}{40090}Vous étouffez vos sentiments|de colère, de souffrance, d'amour,
+{40090}{40165}et en réaction à ça,|il pleut, il grêle, les vaches volent.
+{40165}{40180}et en réaction à ça,|il pleut, il grêle, les vaches volent.
+{40205}{40292}- Pauvre bête.|- Quel que soit ce sentiment, exprimez-le.
+{40345}{40385}Je ne peux pas.
+{40460}{40505}Si, vous le pouvez.
+{40597}{40660}C'est Sheila, n'est-ce pas? Vous l'aimez.
+{40737}{40790}Vous l'avez toujours aimée.
+{40815}{40892}La tornade, au lycée.
+{40917}{40972}C'était vous, hein?
+{41085}{41155}Le soir du bal de fin d'année,
+{41200}{41280}je les ai surpris, elle et son petit ami,
+{41360}{41420}en flagrant délit.
+{41435}{41495}Et ça n'a pas fait un pli...
+{41560}{41650}Vous ne lui avez jamais|fait part de vos sentiments?
+{41652}{41742}Comment un crapaud|peut-il dire à un cygne qu'il l'aime?
+{41775}{41872}Vous feriez mieux de lui dire|ou vous allez tuer quelqu'un.
+{41875}{41937}- Aidez-moi.|- J'ai un avion à prendre.
+{41940}{42000}Ne partez pas. Qui m'aidera, sinon vous?
+{42002}{42087}Je retrouve ma coéquipière à l'aéroport.|Excusez-moi.
+{42145}{42197}C'est moi.
+{42200}{42250}- J'arrive.|- Ca m'étonnerait.
+{42252}{42332}Tu as mis le nez dehors?|On nage en pleine purée de pois.
+{42347}{42445}- Trop de brouillard pour qu'on décolle.|- Du brouillard?
+{42525}{42620}Oui, il veut des conseils.|Des conseils en amour.
+{42620}{42712}- Des conseils en amour? Auprès de qui?|- Moi-même.
+{42792}{42835}Allô?
+{42835}{42910}- Scully, tu es là?|- Je t'ai entendu.
+{42942}{43005}Ton dernier rendez-vous galant|remonte à quand?
+{43007}{43070}Je te vois plus tard.
+{43162}{43220}Des aveugles guident les aveugles...
+{43427}{43455}Ce chiffre en rouge?
+{43577}{43667}Tu es un peu|comme ces rock stars tragiques.
+{43670}{43762}Du genre Jim Morrison ou Kurt Cobain.
+{43765}{43850}Tu as brillé trop intensément|pendant trop peu de temps.
+{43877}{43945}On racontera tout ça à nos enfants.
+{43947}{44012}Des enfants? J'ai pas les moyens d'en avoir.
+{44015}{44115}Si je trouve pas du blé vite fait,|je vais être dans la crotte.
+{44137}{44217}Ils me reprendront au fast-food.|Je gagne presque 6 $ de l'heure.
+{44220}{44270}Chut, je réfléchis.
+{44272}{44370}- II y a forcément quelqu'un...|- On trouvera l'argent, mon coeur.
+{44492}{44530}Quoi, Sheila?
+{44600}{44635}Cindy...
+{44667}{44800}T'as été vraiment adorable|mais on devrait arrêter de se voir.
+{44820}{44937}- Quoi? Tu me plaques?|- Le prends pas mal.
+{45077}{45155}Toute ma vie,|j'ai envié les hommes comme vous.
+{45155}{45282}Vu votre physique,|je vous croyais plus expérimenté.
+{45310}{45445}Vous êtes tout le temps|avec l'agent Scully, une femme superbe.
+{45485}{45542}Vous n'avez jamais...?
+{45605}{45672}Je trouve ça des plus choquant.
+{45690}{45772}J'ai vu comment vous vous lorgnez.
+{45835}{45905}Revenons à vous. Je suis là pour vous aider.
+{45907}{45985}Je suis ravi de ma relation amicale|avec l'agent Scully.
+{46142}{46280}Selon votre théorie, j'y vais,|je lui dis que je l'aime, et fini la sécheresse?
+{46322}{46370}Dites-lui ce que vous ressentez.
+{46370}{46380}Dites-lui ce que vous ressentez.
+{46410}{46507}Et, Holman, je ne lorgne pas Scully.
+{46650}{46710}Je ne trouve pas mes notes|pour mon speech.
+{46710}{46750}Les voilà.
+{46752}{46815}- Tu as une minute?|- Pour toi, toujours.
+{46817}{46877}Tu as hâte d'aller à la soirée?
+{46880}{46920}Bien sûr.
+{46970}{47055}- Tu as à faire. On parlera plus tard.|- Qu'y a-t-il?
+{47372}{47415}Je t'aime.
+{47442}{47480}Moi aussi.
+{47570}{47627}Que se passe-t-il?
+{47780}{47850}Il pleut? Oh, ça alors. Il pleut!
+{47895}{47935}Il pleut.
+{48152}{48210}Bonjour, agent Mulder.
+{48212}{48250}A ce soir, Holman.
+{48275}{48310}Vous lui avez dit, bravo.
+{48380}{48422}Non, bravo à vous.
+{48450}{48527}- De quoi parlez-vous?|- Elle m'a dit qu'elle m'aimait,
+{48550}{48625}mais qu'elle était amoureuse de vous.
+{48800}{48867}Comment ça, il y a quelqu'un d'autre?
+{48870}{48930}- Dis-moi qui c'est.|- Lâche-moi!
+{48995}{49015}Arrêtez.
+{49085}{49120}Lui?
+{49150}{49177}C'est lui?
+{49180}{49262}- Qu'est-ce qu'il a de plus que moi?|- Un boulot.
+{49280}{49365}Il parle bien. Il est intelligent et beau.
+{49367}{49455}Beau? Je t'en ficherai du beau!
+{49475}{49525}Non. Pas son visage.
+{49525}{49600}Ne le frappe pas au visage.
+{49602}{49700}Attaquer un estropié.|Je vais appeler mon avocat.
+{49725}{49792}- Vous méritez une belle récompense.|- Non.
+{50105}{50247}Le brouillard s'est levé|et si tu es prêt, l'avion attend.
+{50250}{50327}Tu t'y connais en radar météorologique?
+{50350}{50430}- Un peu. Pourquoi?|- Ca indique quoi, le rouge?
+{50495}{50545}Des orages, je crois.
+{50570}{50635}On dirait qu'on ne va pas|pouvoir prendre cet avion.
+{50732}{50795}L YCEE DE KRONER|20H33
+{51310}{51395}RIEN NE VAUT KRONER
+{51757}{51825}18 cm en six heures.
+{51825}{51940}Le service météo national a diffusé|un bulletin d'alerte dans le comté.
+{51942}{52040}- Tu es sûr qu'il est là?|- Si elle est là, lui aussi.
+{52492}{52570}- Faites cesser la pluie.|- C'est votre faute, pas la mienne.
+{52582}{52657}- Ma faute?|- Vous étiez en train de l'embrasser.
+{52750}{52840}Regardez qui est là. Des amis très chers.
+{52840}{52897}De vieux amis et de nouveaux amis.
+{52940}{52987}- Tu es ravissante.|- Merci.
+{52990}{53050}Vous êtes très beaux. Tous les deux.
+{53087}{53130}J'adore cette chanson.
+{53132}{53170}Vous dansez?
+{53205}{53285}Holman nous disait justement|qu'il voulait danser.
+{53360}{53395}C'est vrai.
+{53395}{53460}Ce serait un honneur.
+{53557}{53595}Dites-lui.
+{53655}{53732}De quoi parlait l'agent Mulder?|Que dois-tu me dire?
+{53735}{53802}Ce n'est rien d'important.
+{53805}{53865}On se dit tout, non?
+{54105}{54212}Quand je suis passé|dans ton bureau tout à l'heure,
+{54215}{54295}-je t'ai dit que...|- Quand tu as dit que tu m'aimais...
+{54310}{54350}Ce que je voulais dire...
+{54415}{54470}Ce que je voulais que tu comprennes,
+{54557}{54612}c'est que je suis amoureux de toi.
+{54650}{54705}Je t'aime depuis le lycée.
+{54975}{55047}Je construis l'arche, tu ramènes les animaux.
+{55050}{55095}Je plaisantais.
+{55345}{55437}Mon coéquipier a une théorie et,|même si je ne partage pas son avis,
+{55440}{55505}je pense qu'étant donné la situation,
+{55507}{55610}vous devriez l'écouter|car elle vous concerne, vous et Holman.
+{55660}{55782}L'agent Mulder pense|que la sécheresse, cette tempête,
+{55785}{55895}les étranges conditions climatiques|qui ne cessent de frapper la région,
+{55897}{55972}sont provoquées par Holman.
+{56015}{56117}Pour être précise, que ses émotions
+{56130}{56250}se manifestent à travers le temps.
+{56252}{56355}Et l'agent Mulder pense que Holman...
+{56355}{56410}détruit, malgré lui, cette ville
+{56412}{56480}à cause de l'amour|qu'il vous porte en secret.
+{56505}{56572}- Vous l'aimez, c'est ça?|- Quoi?
+{56602}{56677}Vous êtes jalouse de notre relation,|à Mulder et moi,
+{56680}{56762}- et vous voulez me dévier vers Holman.|- Quoi?
+{56837}{56910}Que c'est bon d'être le roi.
+{56965}{57037}Que c'est bon d'être le roi.
+{57095}{57140}Où est Sheila?
+{57155}{57237}- Où est votre jambe?|- Cindy l'a prise.
+{57240}{57290}Elle veut que je rampe pour la récupérer.
+{57322}{57357}Alors, où est Sheila?
+{57360}{57410}Pas même un baiser?
+{57472}{57542}Croyez-moi, il sait embrasser.
+{57617}{57690}Je n'avais jamais vu Holman|sous cet angle, vous voyez?
+{57690}{57742}C'est mon ami le plus proche.
+{57745}{57807}Dire que je n'en avais pas la moindre idée.
+{57825}{57875}Je crois
+{57877}{57957}que les meilleures relations, celles qui|durent,
+{57960}{58040}sont souvent celles qui naissent de l'amitié.
+{58042}{58110}Un jour, vous regardez l'autre
+{58110}{58210}et vous voyez quelque chose|que vous ne voyiez pas la veille.
+{58212}{58297}Comme s'il y avait un déclic.
+{58300}{58385}Et celui qui n'était qu'un ami
+{58387}{58482}est tout d'un coup la seule personne|avec qui vous envisagez d'être.
+{58642}{58730}Les égouts vont déborder.|Fichons le camp d'ici.
+{58870}{58930}Je vais t'apprendre à harceler ma nana.
+{59112}{59215}- Mais enfin, Daryl!|- Si j'avais deux jambes, je te collerais...
+{59490}{59520}J'ai appelé la police.
+{59522}{59617}Occupe-toi du roi, assure-toi qu'il va bien.
+{59632}{59690}Qu'est-il arrivé à Sheila?
+{60125}{60210}C'est vrai? Tu fais le temps?
+{60280}{60317}A cause de moi?
+{60372}{60420}La tornade au lycée?
+{60422}{60482}- La neige à mon mariage?|- Je suis désolé.
+{60495}{60567}- La pluie de Daryl?|- Je ne peux l'expliquer.
+{60570}{60662}Oui. Quelque étrange manifestation|de mon sentiment de culpabilité.
+{60675}{60765}Cette pluie aussi? Parce que tu m'aimes?
+{60800}{60872}Parce que je t'aime.
+{61000}{61087}C'est la chose la plus romantique|qu'on m'ait jamais dite.
+{61930}{62017}- Je suis désolé, mon chou.|- Moi aussi.
+{62020}{62065}Je t'ai ramené une jambe.
+{62185}{62242}Pourquoi tu es si bonne|avec moi, mon chou?
+{62752}{62852}- Que les fêtes d'anciens élèves sont...|- Humides?
+{62965}{63020}Alors?
+{63020}{63107}Vous devriez essayer un jour.
+{63465}{63520}UN AN PLUS TARD
+{63707}{63775}Tu es bien le fils de ton père. Pas de doute.
+{64615}{64657}Sous-titrage Visiontext:|Raphaëlle Masseaut
+{65207}{65225}FRENCH

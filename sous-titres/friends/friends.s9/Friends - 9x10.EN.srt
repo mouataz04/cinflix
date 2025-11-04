@@ -1,0 +1,1500 @@
+1
+00:00:04,173 --> 00:00:06,641  X1:171 X2:550 Y1:444 Y2:523
+He sprang to his sleigh
+To his team gave a whistle
+
+2
+00:00:06,813 --> 00:00:09,691  X1:175 X2:541 Y1:448 Y2:523
+And away they all flew
+Like the down of a thistle
+
+3
+00:00:09,853 --> 00:00:12,845  X1:180 X2:539 Y1:444 Y2:523
+But I heard him exclaim
+Ere he drove out of sight
+
+4
+00:00:13,013 --> 00:00:18,246  X1:178 X2:537 Y1:444 Y2:523
+"Merry Christmas to all
+And to all a good night. "
+
+5
+00:00:20,053 --> 00:00:25,127  X1:197 X2:517 Y1:444 Y2:523
+Wow! That was great!
+You really wrote that?
+
+6
+00:00:28,093 --> 00:00:30,812  X1:211 X2:503 Y1:448 Y2:523
+Say goodbye, elves.
+I'm off to Tulsa.
+
+7
+00:00:30,973 --> 00:00:33,203  X1:128 X2:590 Y1:448 Y2:523
+I can't believe you won't be here
+for Christmas.
+
+8
+00:00:33,373 --> 00:00:35,125  X1:141 X2:575 Y1:482 Y2:523
+You're really not coming back?
+
+9
+00:00:35,293 --> 00:00:38,330  X1:112 X2:605 Y1:444 Y2:523
+We have this paperwork that needs
+to be filed by the end of the year.
+
+10
+00:00:38,533 --> 00:00:41,093  X1:121 X2:594 Y1:448 Y2:523
+-If I don't get it done, I'll be fired.
+-It's so unfair.
+
+11
+00:00:41,253 --> 00:00:44,165  X1:150 X2:566 Y1:448 Y2:523
+-You don't even like your job.
+-So. Who does?
+
+12
+00:00:44,373 --> 00:00:45,772  X1:250 X2:465 Y1:444 Y2:523
+-I like my job.
+-I love my job.
+
+13
+00:00:45,933 --> 00:00:48,891  X1:130 X2:585 Y1:442 Y2:523
+-I can't wait to go back to work.
+-I can't get enough dinosaurs.
+
+14
+00:00:53,133 --> 00:00:55,124  X1:176 X2:539 Y1:482 Y2:523
+I'm sorry I won't be here.
+
+15
+00:00:55,413 --> 00:00:57,973  X1:136 X2:581 Y1:442 Y2:523
+It's hard enough not seeing you
+during the week...
+
+16
+00:00:58,133 --> 00:01:00,010  X1:197 X2:519 Y1:488 Y2:523
+...but for Christmas....
+
+17
+00:01:00,173 --> 00:01:02,243  X1:146 X2:570 Y1:448 Y2:523
+If this is what you have to do,
+I understand.
+
+18
+00:01:02,733 --> 00:01:04,689  X1:292 X2:423 Y1:488 Y2:523
+Thanks.
+
+19
+00:01:04,853 --> 00:01:06,047  X1:159 X2:557 Y1:482 Y2:523
+I'll see you New Year's Day.
+
+20
+00:01:06,413 --> 00:01:08,290  X1:177 X2:540 Y1:448 Y2:523
+You're not gonna be here
+New Year's Eve?
+
+21
+00:01:09,093 --> 00:01:12,369  X1:189 X2:528 Y1:448 Y2:523
+-Did I not mention that?
+-No.
+
+22
+00:01:12,653 --> 00:01:14,644  X1:188 X2:527 Y1:482 Y2:523
+And to all a good night!
+
+23
+00:01:16,693 --> 00:01:18,763  X1:129 X2:588 Y1:488 Y2:523
+The One With Christmas in Tulsa
+
+24
+00:02:06,693 --> 00:02:09,730  X1:159 X2:556 Y1:054 Y2:128
+All right, everybody.
+I know it is Christmas Eve...
+
+25
+00:02:09,893 --> 00:02:13,124  X1:120 X2:597 Y1:054 Y2:134
+...and you'd rather be with family,
+but there is no call for writing...
+
+26
+00:02:13,293 --> 00:02:17,730  X1:182 X2:534 Y1:054 Y2:134
+..."Screw you, Mr. Bing"
+on the back of my chair.
+
+27
+00:02:18,093 --> 00:02:20,163  X1:154 X2:560 Y1:054 Y2:133
+By the way,
+you can all call me Chandler.
+
+28
+00:02:21,413 --> 00:02:23,483  X1:192 X2:526 Y1:444 Y2:523
+-Hey.
+-Hey. Where you been?
+
+29
+00:02:23,653 --> 00:02:26,850  X1:102 X2:612 Y1:054 Y2:133
+I was checking out that insurance
+company's Christmas party on three.
+
+30
+00:02:27,013 --> 00:02:30,130  X1:127 X2:591 Y1:054 Y2:133
+It was really beautiful. They have
+decorations and this huge tree.
+
+31
+00:02:30,293 --> 00:02:33,171  X1:108 X2:606 Y1:054 Y2:130
+And I just thought,
+to hell with them, we have to work.
+
+32
+00:02:33,333 --> 00:02:35,801  X1:210 X2:504 Y1:488 Y2:523
+So I stole their ham.
+
+33
+00:02:37,093 --> 00:02:39,129  X1:105 X2:610 Y1:054 Y2:133
+Hear that?
+You may not be with your families...
+
+34
+00:02:39,293 --> 00:02:41,807  X1:089 X2:629 Y1:054 Y2:129
+...but at least it's gonna smell like ham
+in here.
+
+35
+00:02:43,053 --> 00:02:45,009  X1:156 X2:559 Y1:482 Y2:523
+My kid's in a play right now.
+
+36
+00:02:45,893 --> 00:02:48,088  X1:141 X2:574 Y1:054 Y2:133
+You know what?
+I know what will cheer you up.
+
+37
+00:02:48,253 --> 00:02:51,928  X1:087 X2:628 Y1:444 Y2:523
+I had a talk with the boys in New York.
+I told them about all your hard work...
+
+38
+00:02:52,093 --> 00:02:55,403  X1:118 X2:601 Y1:054 Y2:133
+...and that a little Christmas bonus
+may be in order.
+
+39
+00:02:55,613 --> 00:03:00,812  X1:075 X2:644 Y1:054 Y2:134
+"A donation has been made in your name
+to the New York City Ballet."
+
+40
+00:03:03,173 --> 00:03:06,051  X1:090 X2:625 Y1:054 Y2:095
+Well, that's like money in your pocket.
+
+41
+00:03:06,293 --> 00:03:08,443  X1:132 X2:585 Y1:448 Y2:523
+All right, you want me to say it?
+This sucks.
+
+42
+00:03:08,653 --> 00:03:10,928  X1:113 X2:603 Y1:482 Y2:523
+Being here sucks. This work sucks!
+
+43
+00:03:11,133 --> 00:03:13,328  X1:165 X2:550 Y1:488 Y2:523
+Now it feels like Christmas.
+
+44
+00:03:13,973 --> 00:03:15,565  X1:281 X2:434 Y1:482 Y2:523
+I'm sorry.
+
+45
+00:03:15,733 --> 00:03:18,566  X1:123 X2:591 Y1:444 Y2:523
+At least you get to go home
+and be with your families tonight.
+
+46
+00:03:18,733 --> 00:03:21,167  X1:108 X2:609 Y1:444 Y2:523
+I have to go to an empty hotel room
+and lay down...
+
+47
+00:03:21,333 --> 00:03:24,643  X1:106 X2:610 Y1:482 Y2:523
+...on a very questionable bedspread.
+
+48
+00:03:25,093 --> 00:03:27,926  X1:132 X2:585 Y1:444 Y2:523
+Then tomorrow, you get to have
+Christmas in your own houses.
+
+49
+00:03:28,093 --> 00:03:30,448  X1:136 X2:580 Y1:444 Y2:523
+Which, by the way,
+none of you have invited me to.
+
+50
+00:03:30,653 --> 00:03:34,726  X1:156 X2:559 Y1:446 Y2:523
+-You can come to my house.
+-No, thanks.
+
+51
+00:03:36,533 --> 00:03:38,171  X1:193 X2:522 Y1:448 Y2:523
+-It was a nice pep talk.
+-Thanks.
+
+52
+00:03:38,373 --> 00:03:41,968  X1:104 X2:613 Y1:442 Y2:523
+I'm actually thinking about becoming
+a motivational speaker.
+
+53
+00:03:42,573 --> 00:03:46,282  X1:136 X2:580 Y1:444 Y2:523
+So if you were home right now,
+what would you be doing?
+
+54
+00:03:46,493 --> 00:03:50,611  X1:100 X2:614 Y1:444 Y2:523
+Typical Christmassy stuff, you know.
+Our holidays are pretty traditional.
+
+55
+00:03:50,773 --> 00:03:53,571  X1:187 X2:529 Y1:442 Y2:523
+So here's a very special
+holiday song...
+
+56
+00:03:53,733 --> 00:03:57,203  X1:155 X2:560 Y1:444 Y2:523
+...that I wrote for some
+very important people to me.
+
+57
+00:04:49,373 --> 00:04:51,967  X1:164 X2:551 Y1:482 Y2:523
+Happy holidays, everybody.
+
+58
+00:04:52,533 --> 00:04:54,967  X1:162 X2:553 Y1:448 Y2:523
+Pheebs, look in the kitchen.
+I'll look in the back closet.
+
+59
+00:04:55,133 --> 00:04:58,443  X1:165 X2:551 Y1:444 Y2:523
+I can save you time, ladies.
+I'm right here.
+
+60
+00:04:58,933 --> 00:05:01,049  X1:164 X2:551 Y1:444 Y2:523
+Yeah. Chandler,
+why don't you take a walk.
+
+61
+00:05:01,213 --> 00:05:03,090  X1:173 X2:542 Y1:482 Y2:523
+This doesn't concern you.
+
+62
+00:05:03,933 --> 00:05:06,367  X1:102 X2:612 Y1:444 Y2:523
+We are looking for
+our Christmas presents from Monica.
+
+63
+00:05:06,533 --> 00:05:09,764  X1:153 X2:563 Y1:442 Y2:523
+-What? That's terrible.
+-No, no. We do it every year.
+
+64
+00:05:09,973 --> 00:05:12,328  X1:139 X2:575 Y1:486 Y2:523
+Well, that makes it not terrible.
+
+65
+00:05:13,493 --> 00:05:17,725  X1:108 X2:607 Y1:444 Y2:523
+No. Yeah, we never find them.
+She's always bested us, that wily...
+
+66
+00:05:17,893 --> 00:05:19,167  X1:295 X2:422 Y1:488 Y2:523
+...minx.
+
+67
+00:05:20,013 --> 00:05:21,765  X1:180 X2:537 Y1:448 Y2:523
+We're gonna search here
+for an hour...
+
+68
+00:05:21,933 --> 00:05:24,128  X1:151 X2:568 Y1:442 Y2:523
+...and then we'll go to Joey's
+and search. Okay?
+
+69
+00:05:24,293 --> 00:05:26,966  X1:097 X2:618 Y1:444 Y2:523
+No, not okay.
+You can't look for Monica's presents.
+
+70
+00:05:27,133 --> 00:05:28,930  X1:191 X2:525 Y1:444 Y2:523
+-No, we have to.
+-No, you don't have to.
+
+71
+00:05:29,093 --> 00:05:32,881  X1:191 X2:524 Y1:448 Y2:523
+And you can't,
+because I live here too.
+
+72
+00:05:33,133 --> 00:05:37,365  X1:107 X2:609 Y1:444 Y2:523
+-Well, then you should look with us.
+-Why?
+
+73
+00:05:37,533 --> 00:05:40,411  X1:142 X2:575 Y1:442 Y2:523
+Aren't you worried about what
+to get Monica for Christmas?
+
+74
+00:05:40,613 --> 00:05:42,729  X1:195 X2:522 Y1:444 Y2:523
+No, I have a great idea
+for a present for her.
+
+75
+00:05:43,253 --> 00:05:45,847  X1:176 X2:540 Y1:482 Y2:523
+That's it? "A great idea"?
+
+76
+00:05:46,653 --> 00:05:49,326  X1:089 X2:626 Y1:442 Y2:523
+That's not enough.
+What if she gets you a great present...
+
+77
+00:05:49,493 --> 00:05:51,529  X1:165 X2:549 Y1:444 Y2:523
+...two medium presents
+and lots of little presents...
+
+78
+00:05:51,693 --> 00:05:54,810  X1:100 X2:618 Y1:444 Y2:523
+...and you got her one great present?
+That's gonna make her feel bad.
+
+79
+00:05:54,973 --> 00:05:57,646  X1:140 X2:577 Y1:444 Y2:523
+Why would you do that to her?
+Why? Why?
+
+80
+00:05:59,293 --> 00:06:01,602  X1:091 X2:624 Y1:444 Y2:523
+-If I helped, we could find them faster!
+-Right.
+
+81
+00:06:04,093 --> 00:06:07,244  X1:210 X2:506 Y1:444 Y2:523
+-We have a live one!
+-It's a Macy's bag!
+
+82
+00:06:09,453 --> 00:06:11,842  X1:258 X2:458 Y1:486 Y2:523
+Who's it for?
+
+83
+00:06:12,773 --> 00:06:16,971  X1:117 X2:600 Y1:442 Y2:523
+"Dear Losers: Do you really think
+I'd hide presents under the couch?
+
+84
+00:06:18,453 --> 00:06:22,241  X1:174 X2:542 Y1:444 Y2:523
+P.S. Chandler,
+I knew they'd break you."
+
+85
+00:06:23,613 --> 00:06:25,763  X1:186 X2:530 Y1:482 Y2:523
+Rach, these are for you.
+
+86
+00:06:26,413 --> 00:06:30,486  X1:093 X2:622 Y1:482 Y2:523
+Wiper blades. I don't even have a car.
+
+87
+00:06:30,693 --> 00:06:34,652  X1:134 X2:582 Y1:444 Y2:523
+No, but with this new-car smell,
+you'll think you do.
+
+88
+00:06:37,253 --> 00:06:40,211  X1:181 X2:534 Y1:482 Y2:523
+Okay, Pheebs, your turn.
+
+89
+00:06:43,053 --> 00:06:44,964  X1:223 X2:492 Y1:488 Y2:523
+Toilet seat covers!
+
+90
+00:06:47,973 --> 00:06:50,487  X1:160 X2:556 Y1:444 Y2:523
+Is that what you were doing
+while I was getting gas?
+
+91
+00:06:50,693 --> 00:06:53,048  X1:278 X2:437 Y1:482 Y2:523
+You guys.
+
+92
+00:06:53,213 --> 00:06:57,411  X1:133 X2:581 Y1:486 Y2:523
+And for Ross, Mr. Sweet Tooth.
+
+93
+00:06:59,893 --> 00:07:04,808  X1:176 X2:541 Y1:448 Y2:523
+-You got me a cola drink?
+-And...a lemon-lime!
+
+94
+00:07:05,573 --> 00:07:08,531  X1:153 X2:561 Y1:486 Y2:523
+Well, this-- This is too much.
+
+95
+00:07:08,693 --> 00:07:11,446  X1:174 X2:543 Y1:448 Y2:523
+I feel like I should get you
+another sweater.
+
+96
+00:07:13,373 --> 00:07:16,206  X1:182 X2:533 Y1:488 Y2:523
+And last but not least....
+
+97
+00:07:17,973 --> 00:07:21,204  X1:124 X2:591 Y1:482 Y2:523
+They're ribbed, for your pleasure.
+
+98
+00:07:21,853 --> 00:07:23,730  X1:241 X2:475 Y1:482 Y2:523
+Well, hey, Ben?
+
+99
+00:07:23,893 --> 00:07:29,843  X1:081 X2:636 Y1:444 Y2:523
+What if the Holiday Armadillo
+told you all about the Festival of Lights?
+
+100
+00:07:30,053 --> 00:07:31,486  X1:310 X2:405 Y1:488 Y2:523
+Cool!
+
+101
+00:07:31,693 --> 00:07:33,331  X1:248 X2:468 Y1:486 Y2:523
+Come on, Ben.
+
+102
+00:07:35,893 --> 00:07:42,162  X1:111 X2:604 Y1:444 Y2:523
+Years and years ago, there were
+these people called the Maccabees!
+
+103
+00:07:42,933 --> 00:07:46,005  X1:233 X2:482 Y1:482 Y2:523
+Merry Christmas!
+
+104
+00:07:47,493 --> 00:07:49,006  X1:301 X2:413 Y1:488 Y2:523
+Santa!
+
+105
+00:07:50,613 --> 00:07:53,605  X1:128 X2:588 Y1:482 Y2:523
+What are you doing here, Santa?
+
+106
+00:07:55,413 --> 00:07:58,166  X1:080 X2:635 Y1:482 Y2:523
+Well, I'm here to see my old buddy Ben.
+
+107
+00:07:58,573 --> 00:08:00,484  X1:167 X2:547 Y1:482 Y2:523
+What are you doing here...
+
+108
+00:08:00,653 --> 00:08:04,282  X1:217 X2:502 Y1:488 Y2:523
+...weird turtle-man?
+
+109
+00:08:05,853 --> 00:08:12,247  X1:175 X2:541 Y1:442 Y2:523
+I'm the Holiday Armadillo,
+your part-Jewish friend.
+
+110
+00:08:13,533 --> 00:08:17,128  X1:150 X2:566 Y1:444 Y2:523
+You sent me here to give Ben
+some presents.
+
+111
+00:08:17,293 --> 00:08:19,488  X1:270 X2:448 Y1:488 Y2:523
+Remember?
+
+112
+00:08:20,693 --> 00:08:22,684  X1:302 X2:414 Y1:488 Y2:523
+What?
+
+113
+00:08:23,093 --> 00:08:24,970  X1:179 X2:538 Y1:442 Y2:523
+Ben, why don't you open
+some more presents.
+
+114
+00:08:25,173 --> 00:08:27,767  X1:146 X2:569 Y1:448 Y2:523
+Santa, the armadillo and I
+will have a talk in the kitchen.
+
+115
+00:08:28,213 --> 00:08:31,603  X1:115 X2:603 Y1:442 Y2:523
+There's a sentence I never thought
+I'd say.
+
+116
+00:08:32,533 --> 00:08:34,012  X1:208 X2:508 Y1:482 Y2:523
+What are you doing?
+
+117
+00:08:34,213 --> 00:08:37,205  X1:109 X2:607 Y1:444 Y2:523
+You called and said you had trouble
+finding a Santa costume...
+
+118
+00:08:37,373 --> 00:08:39,887  X1:212 X2:507 Y1:444 Y2:523
+...so I borrowed one
+from a guy at work.
+
+119
+00:08:40,093 --> 00:08:42,482  X1:134 X2:581 Y1:482 Y2:523
+Thank you, but you gotta leave.
+
+120
+00:08:42,693 --> 00:08:44,092  X1:271 X2:445 Y1:448 Y2:523
+-Why?
+-Because...
+
+121
+00:08:44,293 --> 00:08:46,887  X1:137 X2:581 Y1:448 Y2:523
+...l'm finally getting him excited
+about Hanukkah.
+
+122
+00:08:47,053 --> 00:08:48,486  X1:189 X2:525 Y1:482 Y2:523
+And you're wrecking it.
+
+123
+00:08:48,693 --> 00:08:52,572  X1:126 X2:592 Y1:442 Y2:523
+But I didn't get to shake my belly
+like a bowl full of jelly.
+
+124
+00:08:55,573 --> 00:08:59,248  X1:126 X2:589 Y1:442 Y2:523
+I'm sorry, Chandler,
+but this is really important to me.
+
+125
+00:08:59,653 --> 00:09:03,441  X1:126 X2:590 Y1:482 Y2:523
+Okay, fine. I'll give the suit back.
+
+126
+00:09:03,613 --> 00:09:07,765  X1:144 X2:575 Y1:444 Y2:523
+Hey, you think you can keep it
+another night?
+
+127
+00:09:09,453 --> 00:09:11,409  X1:249 X2:468 Y1:482 Y2:523
+Santa? Really?
+
+128
+00:09:11,893 --> 00:09:17,013  X1:087 X2:630 Y1:444 Y2:523
+-Yeah, is that okay?
+-Did your dad ever dress up like Santa?
+
+129
+00:09:17,973 --> 00:09:21,932  X1:241 X2:474 Y1:444 Y2:523
+-No.
+-Then it's okay!
+
+130
+00:09:24,013 --> 00:09:26,129  X1:158 X2:559 Y1:482 Y2:523
+You know what, everybody?
+
+131
+00:09:26,293 --> 00:09:28,409  X1:125 X2:590 Y1:444 Y2:523
+Go home.
+You should be with your families.
+
+132
+00:09:28,613 --> 00:09:30,729  X1:144 X2:572 Y1:448 Y2:523
+It's bad enough we're working
+New Year's Eve.
+
+133
+00:09:33,133 --> 00:09:36,364  X1:192 X2:524 Y1:448 Y2:523
+Did I not tell anyone
+about New Year's Eve?
+
+134
+00:09:36,533 --> 00:09:39,730  X1:113 X2:603 Y1:444 Y2:523
+All right, look, go. Go home, okay?
+Merry Christmas.
+
+135
+00:09:40,773 --> 00:09:42,889  X1:228 X2:487 Y1:448 Y2:523
+-Merry Christmas.
+-Peace on earth.
+
+136
+00:09:43,053 --> 00:09:47,569  X1:137 X2:579 Y1:444 Y2:523
+-Bye.
+-Good. Godspeed, good people.
+
+137
+00:09:48,253 --> 00:09:52,246  X1:138 X2:577 Y1:442 Y2:523
+-You're not gonna go?
+-No. I couldn't leave you alone.
+
+138
+00:09:52,413 --> 00:09:54,608  X1:292 X2:423 Y1:488 Y2:523
+Thanks.
+
+139
+00:09:55,013 --> 00:09:58,642  X1:093 X2:623 Y1:442 Y2:523
+Besides, I can't leave until that
+Christmas party downstairs clears out.
+
+140
+00:09:58,813 --> 00:10:01,964  X1:092 X2:623 Y1:444 Y2:523
+There are some pissed-off
+insurance people looking for that ham.
+
+141
+00:10:05,693 --> 00:10:07,923  X1:171 X2:544 Y1:444 Y2:523
+-Chandler Bing.
+-Hi, honey. We're all here.
+
+142
+00:10:08,093 --> 00:10:09,811  X1:204 X2:513 Y1:444 Y2:523
+We want to wish you
+a merry Christmas.
+
+143
+00:10:10,013 --> 00:10:12,083  X1:228 X2:487 Y1:444 Y2:523
+-Merry Christmas!
+-Merry Christmas!
+
+144
+00:10:14,733 --> 00:10:16,724  X1:121 X2:594 Y1:482 Y2:523
+Merry Christmas. I miss you guys.
+
+145
+00:10:16,933 --> 00:10:19,401  X1:125 X2:592 Y1:444 Y2:523
+So is it horrible?
+Is everybody working really hard?
+
+146
+00:10:19,653 --> 00:10:22,326  X1:123 X2:591 Y1:482 Y2:523
+Well, no, it's just me and Wendy.
+
+147
+00:10:22,573 --> 00:10:25,133  X1:086 X2:629 Y1:482 Y2:523
+Wendy? That sounds like a girl's name.
+
+148
+00:10:25,973 --> 00:10:28,362  X1:127 X2:591 Y1:482 Y2:523
+It is. Did I not tell you about her?
+
+149
+00:10:29,493 --> 00:10:32,166  X1:164 X2:552 Y1:448 Y2:523
+About the time you told me
+about New Year's Eve.
+
+150
+00:10:32,373 --> 00:10:35,331  X1:177 X2:541 Y1:448 Y2:523
+-Where's everybody else?
+-I sent them home.
+
+151
+00:10:35,493 --> 00:10:39,122  X1:168 X2:546 Y1:444 Y2:523
+You are such a good boss.
+Is she pretty?
+
+152
+00:10:41,733 --> 00:10:43,849  X1:146 X2:568 Y1:488 Y2:523
+Answer faster. Answer faster.
+
+153
+00:10:44,053 --> 00:10:46,772  X1:140 X2:575 Y1:448 Y2:523
+-I don't know.
+-Answer better. Answer better.
+
+154
+00:10:47,813 --> 00:10:50,725  X1:154 X2:562 Y1:442 Y2:523
+I don't think of her that way.
+I mean, she's a colleague.
+
+155
+00:10:50,933 --> 00:10:53,845  X1:146 X2:569 Y1:444 Y2:523
+-What does she do there?
+-She's regional vice president.
+
+156
+00:10:54,013 --> 00:10:56,402  X1:202 X2:514 Y1:448 Y2:523
+-She's just below me.
+-She did what?
+
+157
+00:11:00,293 --> 00:11:03,524  X1:276 X2:439 Y1:488 Y2:523
+Below me.
+
+158
+00:11:04,853 --> 00:11:07,128  X1:151 X2:566 Y1:448 Y2:523
+Wait, is Wendy the runner-up
+Miss Oklahoma?
+
+159
+00:11:07,293 --> 00:11:08,885  X1:297 X2:417 Y1:488 Y2:523
+What?!
+
+160
+00:11:10,173 --> 00:11:12,243  X1:207 X2:507 Y1:484 Y2:523
+Well, she didn't win.
+
+161
+00:11:13,573 --> 00:11:15,291  X1:119 X2:596 Y1:482 Y2:523
+All right, maybe I should let you...
+
+162
+00:11:15,493 --> 00:11:18,326  X1:142 X2:572 Y1:444 Y2:523
+...and the second prettiest girl
+in Oklahoma get back to work.
+
+163
+00:11:18,533 --> 00:11:22,367  X1:091 X2:626 Y1:444 Y2:523
+Second prettiest that year. Of all
+the girls in Oklahoma, she's probably--
+
+164
+00:11:22,573 --> 00:11:23,972  X1:196 X2:519 Y1:482 Y2:523
+Chandler, stop talking.
+
+165
+00:11:25,973 --> 00:11:28,487  X1:189 X2:526 Y1:442 Y2:523
+Honey, there's really
+nothing to worry about.
+
+166
+00:11:28,693 --> 00:11:30,843  X1:263 X2:453 Y1:448 Y2:523
+-Okay.
+-I'm serious.
+
+167
+00:11:31,053 --> 00:11:32,247  X1:307 X2:409 Y1:482 Y2:523
+Okay.
+
+168
+00:11:32,533 --> 00:11:35,127  X1:228 X2:487 Y1:444 Y2:523
+-Merry Christmas.
+-Merry Christmas.
+
+169
+00:11:35,293 --> 00:11:39,047  X1:159 X2:556 Y1:444 Y2:523
+-Merry Christmas, you guys.
+-Merry Christmas.
+
+170
+00:11:44,293 --> 00:11:47,649  X1:221 X2:496 Y1:448 Y2:523
+-The wife says hi.
+-Fun conversation?
+
+171
+00:11:47,853 --> 00:11:50,765  X1:202 X2:512 Y1:448 Y2:523
+Well, she's just got
+this weird idea that...
+
+172
+00:11:50,933 --> 00:11:54,084  X1:147 X2:572 Y1:444 Y2:523
+...because you and I are alone
+something's gonna happen.
+
+173
+00:11:54,253 --> 00:11:56,209  X1:299 X2:419 Y1:482 Y2:523
+Really?
+
+174
+00:11:57,053 --> 00:11:59,613  X1:174 X2:542 Y1:488 Y2:523
+Would that be so terrible?
+
+175
+00:12:01,493 --> 00:12:04,451  X1:132 X2:584 Y1:444 Y2:523
+This is probably the wrong thing
+to be worrying about...
+
+176
+00:12:04,613 --> 00:12:08,288  X1:181 X2:537 Y1:442 Y2:523
+...but you're getting ham
+on my only tie.
+
+177
+00:12:14,573 --> 00:12:17,645  X1:234 X2:482 Y1:444 Y2:523
+-Back off, missy!
+-Missy?
+
+178
+00:12:17,853 --> 00:12:20,367  X1:119 X2:598 Y1:442 Y2:523
+I don't know. I'm not used to girls
+making passes at me.
+
+179
+00:12:20,533 --> 00:12:24,412  X1:186 X2:530 Y1:444 Y2:523
+Wait a minute.
+Am I sexy in Oklahoma?
+
+180
+00:12:25,333 --> 00:12:29,724  X1:242 X2:473 Y1:448 Y2:523
+-You are to me.
+-No. No. No!
+
+181
+00:12:30,693 --> 00:12:34,129  X1:220 X2:496 Y1:448 Y2:523
+-Look, I'm married.
+-So? I'm married.
+
+182
+00:12:34,333 --> 00:12:36,130  X1:215 X2:501 Y1:482 Y2:523
+I'm happily married.
+
+183
+00:12:37,653 --> 00:12:38,802  X1:233 X2:484 Y1:486 Y2:523
+What's that like?
+
+184
+00:12:39,893 --> 00:12:43,932  X1:161 X2:557 Y1:442 Y2:523
+-Right. So I'm sorry, but--
+-Seriously? Happily married?
+
+185
+00:12:44,093 --> 00:12:47,085  X1:173 X2:542 Y1:444 Y2:523
+So that phone call before,
+that was happy?
+
+186
+00:12:47,293 --> 00:12:50,365  X1:143 X2:572 Y1:442 Y2:523
+Well, look, it's not easy
+to spend this much time apart.
+
+187
+00:12:50,573 --> 00:12:52,689  X1:215 X2:501 Y1:442 Y2:523
+She's entitled to be
+a little paranoid.
+
+188
+00:12:52,853 --> 00:12:55,413  X1:106 X2:609 Y1:482 Y2:523
+Or, in this case, right on the money.
+
+189
+00:12:56,493 --> 00:13:00,771  X1:176 X2:539 Y1:448 Y2:523
+You know, she's amazing
+and beautiful and smart.
+
+190
+00:13:00,933 --> 00:13:04,403  X1:135 X2:581 Y1:444 Y2:523
+And if she were here right now,
+she'd kick your ass.
+
+191
+00:13:06,893 --> 00:13:12,092  X1:125 X2:591 Y1:442 Y2:523
+Look, you're a really nice person,
+ham-stealing and adultery aside.
+
+192
+00:13:13,893 --> 00:13:16,566  X1:152 X2:566 Y1:444 Y2:523
+But what I have with my wife
+is pretty great.
+
+193
+00:13:16,733 --> 00:13:19,645  X1:132 X2:585 Y1:448 Y2:523
+So nothing's ever gonna happen
+between us.
+
+194
+00:13:20,173 --> 00:13:22,323  X1:130 X2:586 Y1:482 Y2:523
+Okay, let me ask you something.
+
+195
+00:13:22,493 --> 00:13:25,929  X1:140 X2:578 Y1:444 Y2:523
+If what you and your wife have
+is so great...
+
+196
+00:13:26,093 --> 00:13:29,210  X1:153 X2:564 Y1:448 Y2:523
+...then why are you spending
+Christmas with me?
+
+197
+00:13:30,573 --> 00:13:33,041  X1:107 X2:609 Y1:444 Y2:523
+You were the most beautiful woman
+in the room tonight.
+
+198
+00:13:34,213 --> 00:13:35,532  X1:230 X2:488 Y1:444 Y2:523
+-Really?
+-Are you kidding?
+
+199
+00:13:35,693 --> 00:13:38,571  X1:126 X2:590 Y1:448 Y2:523
+You're the most beautiful woman
+in most rooms.
+
+200
+00:13:46,373 --> 00:13:48,568  X1:182 X2:533 Y1:442 Y2:523
+What's going on?
+You and I just made out.
+
+201
+00:13:48,733 --> 00:13:51,088  X1:168 X2:550 Y1:444 Y2:523
+-You and I are making out?
+-Well, not anymore.
+
+202
+00:13:51,813 --> 00:13:55,488  X1:089 X2:627 Y1:442 Y2:523
+-But we don't do that.
+-I know. I just thought it would be fun.
+
+203
+00:13:56,573 --> 00:13:59,485  X1:107 X2:608 Y1:444 Y2:523
+-How drunk are you?
+-Drunk enough that I wanna do this.
+
+204
+00:13:59,653 --> 00:14:02,770  X1:117 X2:598 Y1:444 Y2:523
+Not so drunk that you should
+feel guilty about taking advantage.
+
+205
+00:14:04,453 --> 00:14:06,409  X1:181 X2:533 Y1:482 Y2:523
+That's a perfect amount.
+
+206
+00:14:12,493 --> 00:14:14,211  X1:178 X2:540 Y1:448 Y2:523
+-You know what's weird?
+-What?
+
+207
+00:14:14,413 --> 00:14:16,688  X1:185 X2:531 Y1:448 Y2:523
+-This doesn't feel weird.
+-I know.
+
+208
+00:14:16,853 --> 00:14:21,847  X1:096 X2:620 Y1:446 Y2:523
+-You're a really good kisser.
+-Well, I have kissed over four women.
+
+209
+00:14:23,213 --> 00:14:26,683  X1:124 X2:593 Y1:444 Y2:523
+You wanna get under the covers?
+Okay.
+
+210
+00:14:35,013 --> 00:14:36,571  X1:178 X2:537 Y1:482 Y2:523
+Wow, you are really fast.
+
+211
+00:14:36,773 --> 00:14:39,810  X1:172 X2:542 Y1:444 Y2:523
+It bodes well for me
+that speed impresses you.
+
+212
+00:14:41,133 --> 00:14:44,091  X1:107 X2:609 Y1:442 Y2:523
+-We're gonna see each other naked.
+-Yep.
+
+213
+00:14:44,253 --> 00:14:46,813  X1:104 X2:614 Y1:448 Y2:523
+-You want to do it at the same time?
+-Count of three?
+
+214
+00:14:46,973 --> 00:14:48,406  X1:306 X2:409 Y1:448 Y2:523
+-One.
+-Two.
+
+215
+00:14:48,573 --> 00:14:50,564  X1:302 X2:413 Y1:488 Y2:523
+Three.
+
+216
+00:14:54,293 --> 00:14:58,172  X1:086 X2:629 Y1:442 Y2:523
+Well, I think it's safe to say
+that our friendship is effectively ruined.
+
+217
+00:14:58,373 --> 00:15:00,887  X1:139 X2:575 Y1:482 Y2:523
+We weren't that close anyway.
+
+218
+00:15:02,773 --> 00:15:05,082  X1:161 X2:556 Y1:448 Y2:523
+Are you really gonna go out
+with that nurse-man?
+
+219
+00:15:06,413 --> 00:15:08,369  X1:187 X2:528 Y1:444 Y2:523
+Well, you and I
+are just goofing around.
+
+220
+00:15:08,533 --> 00:15:12,003  X1:166 X2:548 Y1:444 Y2:523
+I thought, why not
+just goof around with him?
+
+221
+00:15:14,013 --> 00:15:18,086  X1:098 X2:619 Y1:442 Y2:523
+I don't know if you've ever looked up
+"goofing around" in the dictionary.
+
+222
+00:15:18,253 --> 00:15:20,448  X1:261 X2:454 Y1:486 Y2:523
+Well, I have.
+
+223
+00:15:20,653 --> 00:15:25,408  X1:164 X2:553 Y1:448 Y2:523
+And the technical definition
+is two friends...
+
+224
+00:15:25,573 --> 00:15:31,603  X1:121 X2:599 Y1:444 Y2:523
+...who care a lot about each other
+and have amazing sex...
+
+225
+00:15:33,973 --> 00:15:38,091  X1:180 X2:538 Y1:444 Y2:523
+...and just want to spend
+more time together.
+
+226
+00:15:38,253 --> 00:15:41,290  X1:095 X2:624 Y1:444 Y2:523
+If you have this newfangled dictionary
+that gets you mad at me...
+
+227
+00:15:41,453 --> 00:15:45,002  X1:145 X2:572 Y1:444 Y2:523
+...then we have to, you know,
+get you my original dictionary.
+
+228
+00:15:47,693 --> 00:15:49,365  X1:217 X2:499 Y1:488 Y2:523
+I am so bad at this.
+
+229
+00:15:50,253 --> 00:15:52,448  X1:191 X2:524 Y1:442 Y2:523
+I think you're better
+than you think you are.
+
+230
+00:15:52,653 --> 00:15:56,282  X1:199 X2:519 Y1:444 Y2:523
+-Really? Okay. So if--?
+-Know when to stop.
+
+231
+00:15:56,493 --> 00:15:58,449  X1:165 X2:550 Y1:482 Y2:523
+I sensed that I should stop.
+
+232
+00:15:59,453 --> 00:16:01,569  X1:238 X2:479 Y1:448 Y2:523
+-So we're okay?
+-Yeah.
+
+233
+00:16:04,893 --> 00:16:07,487  X1:209 X2:507 Y1:442 Y2:523
+-Don't do the dance.
+-Right.
+
+234
+00:16:09,053 --> 00:16:11,487  X1:129 X2:586 Y1:442 Y2:523
+I can't get married without
+something old, something new...
+
+235
+00:16:11,653 --> 00:16:14,121  X1:078 X2:637 Y1:444 Y2:523
+-...something borrowed, something blue.
+-Okay, okay.
+
+236
+00:16:14,333 --> 00:16:16,528  X1:134 X2:582 Y1:482 Y2:523
+Here's something blue and new.
+
+237
+00:16:16,733 --> 00:16:19,122  X1:137 X2:578 Y1:482 Y2:523
+You are so efficient. I love you.
+
+238
+00:16:19,453 --> 00:16:20,602  X1:253 X2:462 Y1:446 Y2:523
+-Let's go.
+-No, no, wait!
+
+239
+00:16:20,773 --> 00:16:22,411  X1:185 X2:529 Y1:482 Y2:523
+We need something old.
+
+240
+00:16:22,613 --> 00:16:26,652  X1:110 X2:609 Y1:448 Y2:523
+Okay. I have a condom in my wallet
+that I've had since I was 12.
+
+241
+00:16:27,973 --> 00:16:29,565  X1:260 X2:454 Y1:486 Y2:523
+That'll work!
+
+242
+00:16:29,733 --> 00:16:31,485  X1:239 X2:476 Y1:486 Y2:523
+I don't think so.
+
+243
+00:16:32,213 --> 00:16:34,044  X1:184 X2:532 Y1:444 Y2:523
+Okay. Now we just need
+something borrowed.
+
+244
+00:16:35,653 --> 00:16:39,282  X1:210 X2:505 Y1:444 Y2:523
+-Here, just take this.
+-That's stealing.
+
+245
+00:16:39,493 --> 00:16:41,927  X1:156 X2:558 Y1:442 Y2:523
+We'll bring it back.
+Just put it under your dress.
+
+246
+00:16:52,973 --> 00:16:55,009  X1:173 X2:542 Y1:482 Y2:523
+Okay, one thing at a time.
+
+247
+00:16:57,013 --> 00:16:58,969  X1:291 X2:425 Y1:488 Y2:523
+Listen...
+
+248
+00:17:00,213 --> 00:17:01,612  X1:209 X2:508 Y1:482 Y2:523
+...l've been thinking.
+
+249
+00:17:03,013 --> 00:17:06,642  X1:089 X2:627 Y1:442 Y2:523
+It's not fair for me to ask you to spend
+all of your money on our wedding.
+
+250
+00:17:06,813 --> 00:17:09,771  X1:150 X2:565 Y1:444 Y2:523
+I mean, you work--
+You work really hard for that.
+
+251
+00:17:09,973 --> 00:17:12,089  X1:182 X2:533 Y1:444 Y2:523
+-Well....
+-Well, you work for that.
+
+252
+00:17:13,933 --> 00:17:16,527  X1:138 X2:577 Y1:448 Y2:523
+Look, I've thought about it too.
+And...
+
+253
+00:17:16,693 --> 00:17:21,130  X1:106 X2:611 Y1:442 Y2:523
+...I'm sorry. I think we should spend
+all of the money on the wedding.
+
+254
+00:17:22,013 --> 00:17:25,847  X1:126 X2:590 Y1:444 Y2:523
+-You do?
+-Yeah. I'm putting my foot down.
+
+255
+00:17:27,493 --> 00:17:29,529  X1:141 X2:574 Y1:482 Y2:523
+Yeah, look, when I proposed...
+
+256
+00:17:29,693 --> 00:17:33,652  X1:103 X2:614 Y1:444 Y2:523
+...I told you that I would do anything
+to make you happy.
+
+257
+00:17:33,813 --> 00:17:37,328  X1:121 X2:595 Y1:444 Y2:523
+And if having the perfect wedding
+makes you happy, then....
+
+258
+00:17:37,493 --> 00:17:39,370  X1:120 X2:595 Y1:482 Y2:523
+Then that's what we're gonna do.
+
+259
+00:17:39,933 --> 00:17:42,766  X1:225 X2:490 Y1:488 Y2:523
+You are so sweet.
+
+260
+00:17:44,613 --> 00:17:48,811  X1:128 X2:588 Y1:448 Y2:523
+But wait. What about our--?
+What about the future and stuff?
+
+261
+00:17:49,013 --> 00:17:52,608  X1:124 X2:591 Y1:444 Y2:523
+Forget about the future and stuff.
+So we only have two kids.
+
+262
+00:17:52,773 --> 00:17:56,766  X1:096 X2:619 Y1:442 Y2:523
+You know, we'll pick our favorite,
+and that one will get to go to college.
+
+263
+00:17:57,933 --> 00:18:00,083  X1:160 X2:557 Y1:448 Y2:523
+-You've thought about that?
+-Yeah.
+
+264
+00:18:00,253 --> 00:18:04,132  X1:092 X2:625 Y1:444 Y2:523
+-How many kids were we gonna have?
+-Four. A boy, twin girls...
+
+265
+00:18:04,293 --> 00:18:06,648  X1:219 X2:497 Y1:482 Y2:523
+...and another boy.
+
+266
+00:18:07,373 --> 00:18:09,329  X1:136 X2:581 Y1:448 Y2:523
+-What else did you think about?
+-Well...
+
+267
+00:18:10,013 --> 00:18:13,722  X1:086 X2:630 Y1:482 Y2:523
+...stuff like where we'd live, you know.
+
+268
+00:18:13,933 --> 00:18:18,211  X1:071 X2:644 Y1:448 Y2:523
+Like a small place outside the city
+where our kids could ride bikes and stuff.
+
+269
+00:18:18,373 --> 00:18:21,888  X1:153 X2:562 Y1:448 Y2:523
+And we could have a cat
+that had a bell on its collar...
+
+270
+00:18:22,053 --> 00:18:25,762  X1:123 X2:595 Y1:444 Y2:523
+...and we could hear it every time
+it ran through the little kitty door.
+
+271
+00:18:25,933 --> 00:18:30,051  X1:076 X2:640 Y1:442 Y2:523
+We'd have an apartment over the garage
+where Joey could grow old.
+
+272
+00:18:35,133 --> 00:18:37,203  X1:234 X2:482 Y1:488 Y2:523
+You know what?
+
+273
+00:18:37,413 --> 00:18:40,211  X1:117 X2:598 Y1:442 Y2:523
+I don't--
+I don't want a big, fancy wedding.
+
+274
+00:18:40,693 --> 00:18:42,763  X1:255 X2:460 Y1:448 Y2:523
+-Sure you do.
+-No.
+
+275
+00:18:44,013 --> 00:18:46,607  X1:205 X2:510 Y1:444 Y2:523
+I want everything
+that you've just said.
+
+276
+00:18:46,773 --> 00:18:49,128  X1:225 X2:490 Y1:482 Y2:523
+I want a marriage.
+
+277
+00:18:49,613 --> 00:18:51,763  X1:279 X2:438 Y1:488 Y2:523
+You sure?
+
+278
+00:18:53,533 --> 00:18:57,492  X1:210 X2:505 Y1:444 Y2:523
+-I love you so much.
+-I love you.
+
+279
+00:19:11,173 --> 00:19:15,132  X1:112 X2:606 Y1:444 Y2:523
+-I love it!
+-Really? You're not gonna return it?
+
+280
+00:19:15,333 --> 00:19:16,732  X1:200 X2:515 Y1:486 Y2:523
+Well, not this second.
+
+281
+00:19:19,453 --> 00:19:21,762  X1:119 X2:597 Y1:482 Y2:523
+Hey, look, you guys. It's snowing!
+
+282
+00:19:24,813 --> 00:19:30,092  X1:190 X2:526 Y1:442 Y2:523
+-Wow, it's so beautiful.
+-Wow, it really is.
+
+283
+00:19:32,293 --> 00:19:35,251  X1:182 X2:532 Y1:482 Y2:523
+Wendy's a fat-girl name.
+
+284
+00:19:35,413 --> 00:19:37,802  X1:172 X2:545 Y1:486 Y2:523
+Aren't we done with that?
+
+285
+00:19:37,973 --> 00:19:41,886  X1:198 X2:518 Y1:448 Y2:523
+Okay, fine. Fine.
+Let's talk about snow.
+
+286
+00:19:42,933 --> 00:19:47,449  X1:076 X2:641 Y1:442 Y2:523
+Do you think it's snowing in Tulsa where
+my husband's having sex on a copier?
+
+287
+00:19:49,813 --> 00:19:52,247  X1:256 X2:459 Y1:444 Y2:523
+-Hey.
+-Oh, my God.
+
+288
+00:19:55,093 --> 00:19:57,561  X1:165 X2:550 Y1:448 Y2:523
+Look at that.
+That's a Christmas miracle!
+
+289
+00:19:59,573 --> 00:20:03,407  X1:171 X2:546 Y1:444 Y2:523
+-What are you doing here?
+-I wanted to be with you.
+
+290
+00:20:03,573 --> 00:20:05,245  X1:197 X2:518 Y1:482 Y2:523
+I missed you so much.
+
+291
+00:20:05,413 --> 00:20:08,564  X1:098 X2:620 Y1:448 Y2:523
+-Hey, hey. Who'd you miss the most?
+-Monica.
+
+292
+00:20:09,573 --> 00:20:11,529  X1:292 X2:422 Y1:488 Y2:523
+Gotcha.
+
+293
+00:20:13,973 --> 00:20:18,251  X1:101 X2:614 Y1:444 Y2:523
+-I never want to leave you again.
+-I thought if you left, you'd get fired.
+
+294
+00:20:18,453 --> 00:20:21,763  X1:155 X2:560 Y1:442 Y2:523
+Turns out they can't fire me.
+Because I quit.
+
+295
+00:20:22,133 --> 00:20:25,523  X1:087 X2:630 Y1:444 Y2:523
+-What?
+-What? You--? You really quit your job?
+
+296
+00:20:25,733 --> 00:20:29,043  X1:120 X2:594 Y1:444 Y2:523
+Yeah. It was a stupid job,
+and I could not stand leaving you.
+
+297
+00:20:29,333 --> 00:20:32,882  X1:087 X2:630 Y1:444 Y2:523
+Why should I be the only one who
+doesn't do what he really wants to do?
+
+298
+00:20:33,093 --> 00:20:37,803  X1:105 X2:613 Y1:444 Y2:523
+-Well, what do you really wanna do?
+-I have not thought this through.
+
+299
+00:20:38,453 --> 00:20:41,809  X1:088 X2:628 Y1:444 Y2:523
+-Oh, my God.
+-I know. I should've talked to you first.
+
+300
+00:20:42,013 --> 00:20:45,050  X1:132 X2:583 Y1:444 Y2:523
+No, I think that this is what
+you wanna do. I think it's great!
+
+301
+00:20:45,933 --> 00:20:47,730  X1:292 X2:423 Y1:488 Y2:523
+Thanks.
+
+302
+00:20:47,933 --> 00:20:52,802  X1:086 X2:629 Y1:444 Y2:523
+Chandler, your being here is the best
+Christmas present I could ever imagine.
+
+303
+00:20:54,293 --> 00:20:56,682  X1:171 X2:545 Y1:448 Y2:523
+-Now give me my real gift.
+-Yeah.
+
+304
+00:20:56,853 --> 00:20:58,809  X1:175 X2:540 Y1:444 Y2:523
+-Thank you.
+-Here, pass those around.
+
+305
+00:21:06,853 --> 00:21:10,971  X1:075 X2:644 Y1:442 Y2:523
+"A donation has been made in your name
+to the New York City Ballet."
+
+306
+00:21:12,653 --> 00:21:14,883  X1:215 X2:502 Y1:482 Y2:523
+How did you know?
+
+307
+00:21:15,053 --> 00:21:18,887  X1:188 X2:529 Y1:448 Y2:523
+What? Are you kidding?
+I can't return this.
+
+308
+00:21:20,013 --> 00:21:22,129  X1:119 X2:600 Y1:442 Y2:523
+It's time we started thinking about
+other people.
+
+309
+00:21:22,293 --> 00:21:24,807  X1:137 X2:578 Y1:444 Y2:523
+And besides, this gift still says,
+"I love you guys."
+
+310
+00:21:25,013 --> 00:21:28,642  X1:143 X2:573 Y1:442 Y2:523
+-Mine says, "To Lillian Myers."
+-I don't have a job.
+
+311
+00:21:33,653 --> 00:21:36,121  X1:258 X2:456 Y1:482 Y2:523
+Actuary? No.
+
+312
+00:21:36,453 --> 00:21:39,490  X1:235 X2:481 Y1:054 Y2:094
+Bookkeeper? No.
+
+313
+00:21:39,653 --> 00:21:42,121  X1:238 X2:478 Y1:054 Y2:094
+Topless dancer?
+
+314
+00:21:47,333 --> 00:21:50,723  X1:111 X2:607 Y1:054 Y2:133
+Hey, you know what I just realized?
+You are the sole wage earner.
+
+315
+00:21:50,893 --> 00:21:56,172  X1:107 X2:609 Y1:054 Y2:133
+You are the head of the household.
+I don't do anything. I'm a kept man!
+
+316
+00:21:56,373 --> 00:21:57,806  X1:288 X2:426 Y1:054 Y2:089
+You are.
+
+317
+00:21:57,973 --> 00:21:59,326  X1:184 X2:532 Y1:054 Y2:095
+Honey, here's 20 bucks.
+
+318
+00:21:59,613 --> 00:22:02,127  X1:126 X2:592 Y1:054 Y2:128
+Go buy yourself something pretty
+while I'm at work tomorrow.
+
+319
+00:22:10,213 --> 00:22:11,202  X1:233 X2:483 Y1:054 Y2:133
+Subtitles by
+SDI Media Group
+
+320
+00:22:11,373 --> 00:22:12,362
+ripped by Bozoleclown
+for www.friendsnet.fr.fm
+

@@ -1,0 +1,2442 @@
+1
+00:00:04,904 --> 00:00:07,202
+MITCHELL: All the way over northeast.
+
+2
+00:00:09,442 --> 00:00:10,909
+Another here.
+
+3
+00:00:17,584 --> 00:00:18,573
+MAN: Yes, sir!
+
+4
+00:00:22,188 --> 00:00:23,780
+Another one here.
+
+5
+00:00:28,094 --> 00:00:29,254
+JACKSON: Medic!
+
+6
+00:00:31,131 --> 00:00:32,894
+He's still breathing.
+
+7
+00:00:34,901 --> 00:00:38,200
+Sam! Mitchell! We've got Bra'tac here.
+He's in rough shape.
+
+8
+00:00:38,304 --> 00:00:40,670
+Dr. Jackson,
+we have numerous bodies here.
+
+9
+00:00:40,774 --> 00:00:43,800
+- How many?
+- I don't know.
+
+10
+00:00:46,346 --> 00:00:49,213
+Oh, my God. Cam! Medic!
+
+11
+00:00:54,421 --> 00:00:55,786
+It's Teal'c.
+
+12
+00:02:05,825 --> 00:02:08,419
+NISAL: I am tired of this rhetoric.
+
+13
+00:02:08,895 --> 00:02:13,992
+How long can we talk of reforming
+councils and ridiculous trade policies?
+
+14
+00:02:14,367 --> 00:02:17,632
+The Ori are taking our planets by force.
+
+15
+00:02:18,004 --> 00:02:21,701
+Dividing our people
+through religious ideology and fear.
+
+16
+00:02:22,075 --> 00:02:24,839
+We must fight back now.
+
+17
+00:02:24,944 --> 00:02:26,707
+We all agree, Nisal.
+
+18
+00:02:27,247 --> 00:02:29,181
+That is why we are here.
+
+19
+00:02:29,983 --> 00:02:32,747
+But entering into a war
+without leadership,
+
+20
+00:02:32,852 --> 00:02:37,016
+without proper organization,
+would merely be mass suicide.
+
+21
+00:02:37,957 --> 00:02:42,360
+We must learn from our mistakes
+in overthrowing the Goa'uld.
+
+22
+00:02:43,029 --> 00:02:48,126
+For generations, we have plotted
+and fought for our emancipation.
+
+23
+00:02:48,568 --> 00:02:53,005
+Never once did we plan for what we would
+do with that freedom after it was ours.
+
+24
+00:02:57,844 --> 00:03:02,611
+The resulting infighting and weakness
+after our victory over the Goa'uld
+
+25
+00:03:02,715 --> 00:03:07,277
+is what leads us to this vulnerability
+at the hands of the Ori now.
+
+26
+00:03:11,958 --> 00:03:13,687
+(ALL SCREAMING)
+
+27
+00:03:21,534 --> 00:03:23,229
+(MONITOR BEEPING)
+
+28
+00:03:33,079 --> 00:03:35,547
+It's nice to see you conscious again.
+
+29
+00:03:35,648 --> 00:03:37,741
+How long have I been...
+
+30
+00:03:37,850 --> 00:03:40,717
+You've been out for quite a while.
+About two weeks.
+
+31
+00:03:40,820 --> 00:03:42,378
+It was pretty touch and go there.
+
+32
+00:03:42,488 --> 00:03:44,479
+It took three rounds of surgery
+just to stop the bleeding
+
+33
+00:03:44,591 --> 00:03:46,650
+and repair the damage to your spine.
+
+34
+00:03:46,759 --> 00:03:49,785
+I have to admit, I was more than a little
+worried that you wouldn't walk again,
+
+35
+00:03:49,896 --> 00:03:52,387
+but it looks like
+you're gonna pull through this.
+
+36
+00:03:52,498 --> 00:03:54,625
+The others will be glad to hear
+that you're awake.
+
+37
+00:03:54,734 --> 00:03:57,999
+At least one of them has pretty much
+been here ever since they brought you in.
+
+38
+00:03:58,104 --> 00:04:01,267
+Of course, I don't know
+where they are right now.
+
+39
+00:04:08,581 --> 00:04:10,378
+He was awake for a few minutes.
+
+40
+00:04:10,483 --> 00:04:12,542
+Does he know about Bra'tac?
+
+41
+00:04:12,952 --> 00:04:14,749
+I barely got a chance to tell him
+what he's been through,
+
+42
+00:04:14,854 --> 00:04:19,154
+or what he's going to have to go through
+to get back up on his feet, for that matter.
+
+43
+00:04:19,259 --> 00:04:22,558
+Been there. It's not a good place.
+
+44
+00:04:29,869 --> 00:04:31,063
+Hey.
+
+45
+00:04:39,379 --> 00:04:40,903
+What has transpired?
+
+46
+00:04:42,248 --> 00:04:44,079
+Dr. Lam thinks you should rest.
+
+47
+00:04:44,183 --> 00:04:49,052
+But we need you to be on your feet and
+back in fighting form as soon as possible.
+
+48
+00:04:49,822 --> 00:04:51,050
+Tell me.
+
+49
+00:04:56,195 --> 00:04:57,890
+We counted 32 dead
+
+50
+00:04:58,698 --> 00:05:00,962
+and 12 more critically injured.
+
+51
+00:05:02,935 --> 00:05:04,835
+(PEOPLE SCREAMING)
+
+52
+00:05:14,647 --> 00:05:17,639
+MITCHELL: Most of the villagers have
+scattered to the hills.
+
+53
+00:05:17,750 --> 00:05:20,241
+CARTER: When you didn't check in,
+we came to investigate.
+
+54
+00:05:20,353 --> 00:05:23,550
+MITCHELL: We can't be sure, but it looks
+like three separate explosive devices
+
+55
+00:05:23,656 --> 00:05:25,954
+are responsible for the damage.
+
+56
+00:05:26,059 --> 00:05:27,583
+And what of Bra'tac?
+
+57
+00:05:27,694 --> 00:05:29,059
+He survived.
+
+58
+00:05:32,332 --> 00:05:34,562
+If he is here, then I wish to see him.
+
+59
+00:05:34,667 --> 00:05:36,828
+- Teal'c, you're in no condition...
+- Now!
+
+60
+00:05:36,936 --> 00:05:39,632
+Listen, you are very lucky to be alive.
+
+61
+00:05:44,010 --> 00:05:45,637
+Give it some time.
+
+62
+00:05:48,181 --> 00:05:49,944
+Is he badly injured?
+
+63
+00:06:11,938 --> 00:06:15,704
+I wish I could tell you that
+he was going to come out of this,
+
+64
+00:06:16,976 --> 00:06:19,342
+but, right now, I just don't know.
+
+65
+00:06:24,117 --> 00:06:28,918
+<i>BRA 'TAC: For generations, we have plotted</i>
+<i>and fought for our emancipation,</i>
+
+66
+00:06:29,021 --> 00:06:32,081
+<i>but never once did we plan for</i>
+<i>what we would do with that freedom</i>
+
+67
+00:06:32,191 --> 00:06:33,818
+<i>after it was ours.</i>
+
+68
+00:06:54,046 --> 00:06:56,014
+- Teal'c.
+- General Landry.
+
+69
+00:06:57,316 --> 00:07:01,150
+I have received further intelligence
+from Jaffa with close ties to Parnon,
+
+70
+00:07:01,254 --> 00:07:04,121
+- the Jaffa that organized the summit.
+- And?
+
+71
+00:07:04,223 --> 00:07:07,659
+It is believed that a Jaffa named Arkad
+is responsible.
+
+72
+00:07:08,027 --> 00:07:09,619
+I have knowledge of him.
+
+73
+00:07:09,729 --> 00:07:12,960
+We once engaged in battle,
+as opposing First Primes.
+
+74
+00:07:13,065 --> 00:07:14,930
+He is a warrior without honor.
+
+75
+00:07:15,034 --> 00:07:18,663
+Which would explain why he chose
+to bomb a peaceful leadership summit.
+
+76
+00:07:18,771 --> 00:07:21,865
+It is believed that
+Arkad has slowly and quietly
+
+77
+00:07:21,974 --> 00:07:24,875
+been building support for himself
+as a new leader.
+
+78
+00:07:24,977 --> 00:07:28,936
+A leader that would deliver
+the Jaffa nation into the hands of the Ori.
+
+79
+00:07:29,048 --> 00:07:32,848
+So, he would obviously be opposed
+to the organizing of a council
+
+80
+00:07:32,952 --> 00:07:35,284
+also meant to lead the Jaffa,
+
+81
+00:07:35,388 --> 00:07:39,222
+especially one that was intending
+to unite them against the Ori.
+
+82
+00:07:39,325 --> 00:07:41,691
+Arkad is dangerous
+and must be eliminated.
+
+83
+00:07:41,794 --> 00:07:44,194
+- Teal'c.
+- General Landry,
+
+84
+00:07:44,297 --> 00:07:45,958
+Arkad must be found and killed
+
+85
+00:07:46,065 --> 00:07:49,034
+before any more innocent Jaffa
+are senselessly slaughtered.
+
+86
+00:07:49,135 --> 00:07:53,401
+I'm not going to order you and SG-1
+to hunt down and kill someone
+
+87
+00:07:53,506 --> 00:07:56,066
+based on what seems to be rumor,
+at this point.
+
+88
+00:07:56,175 --> 00:07:57,870
+Would you be so cautious, General Landry,
+
+89
+00:07:57,977 --> 00:08:01,970
+if it were a team of humans
+that had been killed in that bombing?
+
+90
+00:08:03,649 --> 00:08:06,083
+I know what you're going through
+right now,
+
+91
+00:08:06,185 --> 00:08:08,380
+so I'm going to let that pass.
+
+92
+00:08:08,488 --> 00:08:10,353
+Arkad is a monster.
+
+93
+00:08:10,456 --> 00:08:13,186
+In the past, he has existed solely
+on the fringes.
+
+94
+00:08:13,292 --> 00:08:17,558
+But now, if he is allowed to continue
+to use fear and tyranny
+
+95
+00:08:17,663 --> 00:08:22,362
+to gain control of a significant Jaffa army
+and a fleet of ships, believe me,
+
+96
+00:08:22,468 --> 00:08:26,837
+he will become as much an issue for Earth
+as anyone else in the galaxy.
+
+97
+00:08:28,941 --> 00:08:33,037
+Teal'c, you've done a tremendous job
+getting back on your feet,
+
+98
+00:08:33,145 --> 00:08:37,548
+but Dr. Lam is saying
+you're not ready for active duty just yet.
+
+99
+00:08:37,650 --> 00:08:40,517
+I'm asking you to give it a little more time.
+
+100
+00:08:40,620 --> 00:08:42,713
+I have given it enough time!
+
+101
+00:08:56,302 --> 00:08:58,896
+The resources of this facility
+are not going to be used
+
+102
+00:08:59,005 --> 00:09:01,496
+to fulfill one man's personal revenge.
+
+103
+00:09:01,607 --> 00:09:03,302
+I'm just saying, if Arkad is responsible
+
+104
+00:09:03,409 --> 00:09:04,706
+and Teal'c's right about him
+being a bad man...
+
+105
+00:09:04,810 --> 00:09:07,540
+I've already issued a new memo
+to all teams
+
+106
+00:09:07,647 --> 00:09:10,616
+to consider the investigation
+a top priority.
+
+107
+00:09:10,716 --> 00:09:14,117
+I don't think a memo's going to cut it
+as far as Teal'c is concerned, sir.
+
+108
+00:09:14,220 --> 00:09:16,711
+I take it you've tried to talk him out
+of leaving?
+
+109
+00:09:16,822 --> 00:09:20,622
+Yes, sir. Like sticking my foot out
+to trip a freight train.
+
+110
+00:09:21,294 --> 00:09:23,159
+I can't say that I blame him, sir.
+
+111
+00:09:23,262 --> 00:09:26,561
+I don't either.
+He's here of his own free will.
+
+112
+00:09:26,666 --> 00:09:28,759
+He can leave if he wants to.
+
+113
+00:09:42,281 --> 00:09:45,375
+So, I was thinking we could Zat him,
+toss him in a holding cell
+
+114
+00:09:45,484 --> 00:09:47,918
+until he comes to his senses.
+
+115
+00:09:48,020 --> 00:09:50,250
+I was thinking
+it's not too late to go with him.
+
+116
+00:09:50,356 --> 00:09:53,223
+I offered. He doesn't want us to.
+
+117
+00:09:53,326 --> 00:09:56,989
+He said he would stay in touch.
+Let us know what he learns.
+
+118
+00:09:59,065 --> 00:10:01,260
+You don't really believe that.
+
+119
+00:10:22,221 --> 00:10:25,782
+GIRL: My father says
+the sticks honor those who died.
+
+120
+00:10:27,059 --> 00:10:28,253
+Indeed.
+
+121
+00:10:31,464 --> 00:10:33,227
+Do you know who did this?
+
+122
+00:10:35,368 --> 00:10:36,630
+Yes.
+
+123
+00:10:36,736 --> 00:10:41,002
+My father says they are cowards.
+They must pay with their lives.
+
+124
+00:10:42,508 --> 00:10:43,839
+They will.
+
+125
+00:10:51,417 --> 00:10:52,907
+I promise you.
+
+126
+00:11:05,297 --> 00:11:07,492
+(MONITOR BEEPING)
+
+127
+00:11:15,808 --> 00:11:17,207
+(WHEEZING)
+
+128
+00:11:17,843 --> 00:11:18,901
+Help!
+
+129
+00:11:20,212 --> 00:11:22,703
+Help! We need some help in here!
+
+130
+00:11:25,217 --> 00:11:26,912
+- He's awake.
+- That's a good sign.
+
+131
+00:11:27,019 --> 00:11:28,350
+Let's extubate.
+
+132
+00:11:28,454 --> 00:11:31,685
+Just relax. It may be a little difficult
+for you to speak right away.
+
+133
+00:11:32,625 --> 00:11:34,388
+(BRA'TAC COUGHING)
+
+134
+00:11:48,874 --> 00:11:50,068
+Go away.
+
+135
+00:11:53,646 --> 00:11:55,876
+Teal'c of the Tau'ri.
+
+136
+00:11:56,882 --> 00:11:59,043
+Don't think I don't know who you are.
+
+137
+00:11:59,151 --> 00:12:02,450
+What do you know of the bombing
+at Dar Eshkalon?
+
+138
+00:12:02,555 --> 00:12:04,386
+A bunch of Jaffa died.
+
+139
+00:12:08,894 --> 00:12:12,227
+Don't expect me to shed a tear for you
+and your kind.
+
+140
+00:12:13,399 --> 00:12:16,891
+I don't care what you and your friends
+from the Tau'ri have done.
+
+141
+00:12:17,002 --> 00:12:21,166
+You Jaffa enslaved my people
+for generations.
+
+142
+00:12:22,475 --> 00:12:25,638
+And don't tell me that you were only
+following the orders of your masters.
+
+143
+00:12:25,745 --> 00:12:30,842
+You lived like kings compared to us,
+and don't think that we will soon forget.
+
+144
+00:12:31,484 --> 00:12:32,815
+I rejoice.
+
+145
+00:12:33,619 --> 00:12:39,580
+Rejoice at the sight of you murdering
+each other like the fools that you are.
+
+146
+00:12:45,097 --> 00:12:46,894
+(CROWD GASPING)
+
+147
+00:12:48,300 --> 00:12:49,562
+Tell me what you know.
+
+148
+00:12:49,668 --> 00:12:53,263
+You think anything you do
+at this point really matters?
+
+149
+00:12:53,372 --> 00:12:55,602
+We are all fodder for the Ori.
+
+150
+00:12:56,075 --> 00:12:59,841
+I saw a man with a scar across his face
+at Dar Eshkalon.
+
+151
+00:13:00,446 --> 00:13:03,347
+He purchased explosives on this planet.
+
+152
+00:13:03,749 --> 00:13:07,845
+You want to buy something from me?
+I think we can work out a deal.
+
+153
+00:13:08,687 --> 00:13:10,245
+I can pretty much get you
+anything you want.
+
+154
+00:13:10,356 --> 00:13:13,325
+I want a name and where I can find him.
+
+155
+00:13:13,926 --> 00:13:15,086
+Or what?
+
+156
+00:13:15,194 --> 00:13:18,254
+You kill me, you get nothing.
+
+157
+00:13:18,764 --> 00:13:19,731
+(CHOKING)
+
+158
+00:13:19,865 --> 00:13:24,893
+You underestimate the satisfaction
+I will get from your suffering.
+
+159
+00:13:29,942 --> 00:13:32,467
+He was a student of mine for a while.
+
+160
+00:13:34,280 --> 00:13:38,307
+I knew from the beginning that
+there was something wrong with him.
+
+161
+00:13:39,785 --> 00:13:43,152
+I underestimated him once. Never again.
+
+162
+00:13:43,722 --> 00:13:46,953
+Teal'c and I both faced him
+in battle many times
+
+163
+00:13:47,059 --> 00:13:50,119
+and many times
+we managed to defeat his armies,
+
+164
+00:13:50,996 --> 00:13:53,430
+but he always escaped.
+
+165
+00:13:53,532 --> 00:13:56,023
+Yeah, he sounds like a real charmer.
+
+166
+00:13:57,570 --> 00:13:59,970
+You know what?
+You're tired, you should rest.
+
+167
+00:14:00,072 --> 00:14:04,566
+No. There is more I have not told you.
+
+168
+00:14:06,712 --> 00:14:08,839
+Has Teal'c ever spoken of his mother?
+
+169
+00:14:10,683 --> 00:14:13,208
+Not much. I know she's dead.
+
+170
+00:14:13,652 --> 00:14:16,212
+Teal'c's mother was killed
+
+171
+00:14:16,322 --> 00:14:19,314
+shortly after Teal'c commanded
+an embarrassing victory
+
+172
+00:14:19,425 --> 00:14:20,790
+over Arkad's fleet.
+
+173
+00:14:20,893 --> 00:14:22,918
+The murder was never resolved.
+
+174
+00:14:23,028 --> 00:14:25,792
+For no apparent reason,
+someone slipped into her village
+
+175
+00:14:25,898 --> 00:14:28,298
+and slit her throat in the night.
+
+176
+00:14:28,667 --> 00:14:32,262
+And Teal'c believed
+it was Arkad's revenge for the defeat?
+
+177
+00:14:32,905 --> 00:14:34,736
+It was never proven.
+
+178
+00:14:34,840 --> 00:14:38,833
+But still, knowing Teal'c, I mean,
+why didn't he go after Arkad immediately?
+
+179
+00:14:38,944 --> 00:14:41,970
+He was First Prime of Apophis at the time.
+
+180
+00:14:42,081 --> 00:14:44,675
+Teal'c's actions were chosen for him.
+
+181
+00:14:46,385 --> 00:14:50,879
+Now, given what Arkad has done,
+
+182
+00:14:50,990 --> 00:14:54,187
+Teal'c will stop at nothing
+to bring an end to him.
+
+183
+00:14:54,793 --> 00:14:57,455
+Yeah, and that doesn't sound like
+any great loss.
+
+184
+00:14:59,498 --> 00:15:02,899
+As long as it is Teal'c that is the victor.
+
+185
+00:15:05,905 --> 00:15:07,463
+LANDRY: Where's your confirmation
+coming from?
+
+186
+00:15:07,573 --> 00:15:09,438
+REYNOLDS: SG-22 recon, sir.
+
+187
+00:15:10,776 --> 00:15:13,040
+I thought you should hear this.
+
+188
+00:15:13,779 --> 00:15:17,977
+We've been maintaining contact
+with anti-Ori rebels on P8T-365.
+
+189
+00:15:18,517 --> 00:15:22,044
+That's a predominantly Jaffa planet that's
+already succumbed to Ori control, right?
+
+190
+00:15:22,154 --> 00:15:25,920
+Right. This group we've been monitoring
+opposes Ori occupation, quietly so far,
+
+191
+00:15:26,025 --> 00:15:28,289
+but is keeping us apprised
+of their intentions.
+
+192
+00:15:28,394 --> 00:15:32,421
+Anyway, they say several hundred Jaffa,
+including a few of their inside men,
+
+193
+00:15:32,531 --> 00:15:36,729
+are regularly being ferried by mother ship
+to another planet to mine raw naquadah.
+
+194
+00:15:36,835 --> 00:15:42,171
+That makes sense. The Ori warriors will be
+able to make ships, weapons, supergates.
+
+195
+00:15:42,274 --> 00:15:44,265
+Yes, but here's the interesting part.
+
+196
+00:15:44,376 --> 00:15:47,402
+The Jaffa say
+this is not being done for the Ori.
+
+197
+00:15:47,513 --> 00:15:50,448
+- At least, not directly.
+- Well, how is that possible?
+
+198
+00:15:50,549 --> 00:15:53,609
+It's an Ori planet. Somebody's building
+weapons right under their noses?
+
+199
+00:15:53,719 --> 00:15:56,153
+Apparently, a Jaffa named Arkad
+
+200
+00:15:56,255 --> 00:15:59,122
+has muscled his way into
+a relationship with the Ori.
+
+201
+00:15:59,224 --> 00:16:02,193
+Says he'll police the planet,
+get even more Jaffa planets to fall in line.
+
+202
+00:16:02,294 --> 00:16:04,353
+Well, that's in line with the intel we have.
+
+203
+00:16:04,463 --> 00:16:09,992
+Yes, it seems Arkad is planning a fairly
+major play to impress his new friends.
+
+204
+00:16:10,102 --> 00:16:11,899
+Word's floating around that
+this weapons-grade naquadah
+
+205
+00:16:12,004 --> 00:16:15,371
+is being stockpiled in various locations
+for use by Arkad,
+
+206
+00:16:15,474 --> 00:16:17,840
+in a coordinated attack on Earth.
+
+207
+00:16:52,344 --> 00:16:53,868
+(GROANS)
+
+208
+00:17:01,653 --> 00:17:05,419
+Torture me all you want.
+I'll tell you nothing.
+
+209
+00:17:05,524 --> 00:17:08,823
+Though you hide among humans,
+I know you are Jaffa.
+
+210
+00:17:09,528 --> 00:17:10,863
+That is your symbiote
+lying on the ground in front of you.
+
+211
+00:17:10,863 --> 00:17:13,195
+That is your symbiote
+lying on the ground in front of you.
+
+212
+00:17:16,635 --> 00:17:18,262
+I serve the Ori.
+
+213
+00:17:19,071 --> 00:17:25,772
+When I die, I will ascend
+and join them in everlasting glory.
+
+214
+00:17:26,111 --> 00:17:27,703
+That is untrue.
+
+215
+00:17:28,313 --> 00:17:30,781
+You will not convince me otherwise.
+
+216
+00:17:31,683 --> 00:17:33,674
+That is most unfortunate.
+
+217
+00:17:35,120 --> 00:17:40,683
+I have medicine that would save your life,
+should you tell me what I wish to know.
+
+218
+00:17:40,793 --> 00:17:42,021
+Never.
+
+219
+00:17:42,561 --> 00:17:45,621
+Then there are some things
+that you should know.
+
+220
+00:17:46,498 --> 00:17:49,092
+The Ori do not ascend their followers.
+
+221
+00:17:50,569 --> 00:17:53,970
+Arkad is a coward
+who will die by my hand.
+
+222
+00:17:55,140 --> 00:18:00,601
+Also, I have implanted an explosive device
+within your symbiote pouch.
+
+223
+00:18:00,979 --> 00:18:04,005
+It is set to detonate
+within a matter of moments.
+
+224
+00:18:04,116 --> 00:18:07,552
+It is the same explosive
+that you used to kill 12 warriors,
+
+225
+00:18:07,653 --> 00:18:11,817
+18 innocent bystanders, and two children
+who had gathered for a peaceful summit.
+
+226
+00:18:11,924 --> 00:18:15,758
+They were sinners all,
+who chose the path of evil.
+
+227
+00:18:18,764 --> 00:18:20,163
+Ten seconds.
+
+228
+00:18:21,967 --> 00:18:23,764
+Where are you going?
+
+229
+00:18:23,869 --> 00:18:25,632
+I am leaving.
+
+230
+00:18:25,737 --> 00:18:27,705
+You are about to explode.
+
+231
+00:18:31,310 --> 00:18:33,107
+(SCREAMS)
+
+232
+00:18:43,288 --> 00:18:47,122
+So, what does this Arkad
+have to gain by attacking Earth?
+
+233
+00:18:47,226 --> 00:18:49,820
+Maybe he's trying to up his street cred.
+
+234
+00:18:49,928 --> 00:18:51,020
+Well, it could be revenge.
+
+235
+00:18:51,130 --> 00:18:53,121
+It's possible he blames us for
+what happened at Dakara.
+
+236
+00:18:53,232 --> 00:18:55,257
+For all we know,
+it was the Ori who instructed him
+
+237
+00:18:55,367 --> 00:18:57,460
+to try to weaken our resolve.
+
+238
+00:18:57,569 --> 00:18:59,799
+They must know a direct attack
+on Earth is risky
+
+239
+00:18:59,905 --> 00:19:01,668
+because of the Antarctic defense system.
+
+240
+00:19:01,773 --> 00:19:03,798
+Well, right now,
+we have no way of detecting,
+
+241
+00:19:03,909 --> 00:19:06,275
+let alone stopping, a cloaked cargo ship.
+
+242
+00:19:06,378 --> 00:19:08,243
+They could go after
+whatever targets they want.
+
+243
+00:19:08,347 --> 00:19:10,440
+Not to mention the countless casualties
+that would be created
+
+244
+00:19:10,549 --> 00:19:12,380
+that would throw the rest of the planet
+into chaos.
+
+245
+00:19:12,484 --> 00:19:14,611
+Primed and ready for an Ori attack.
+
+246
+00:19:14,720 --> 00:19:16,415
+I thought the Jaffa were all about honor
+
+247
+00:19:16,522 --> 00:19:18,422
+and meeting their enemy
+on the battlefield.
+
+248
+00:19:18,524 --> 00:19:21,652
+- Yeah, apparently not this guy.
+- So, what do we do?
+
+249
+00:19:22,060 --> 00:19:24,858
+It sounds to me like Teal'c
+has the right idea.
+
+250
+00:19:24,963 --> 00:19:27,261
+<i>HARRIMAN: Unscheduled</i>
+<i>offworld activation!</i>
+
+251
+00:19:27,533 --> 00:19:29,398
+(ALARM SOUNDING)
+
+252
+00:19:30,135 --> 00:19:32,330
+Receiving a transmission, sir.
+
+253
+00:19:32,437 --> 00:19:33,734
+On screen.
+
+254
+00:19:34,773 --> 00:19:38,709
+<i>ARKAD: Warriors of the Tau'ri,</i>
+<i>I bid you greetings.</i>
+
+255
+00:19:39,678 --> 00:19:42,146
+This is General Landry
+of Stargate Command.
+
+256
+00:19:42,247 --> 00:19:43,612
+To whom am I speaking?
+
+257
+00:19:43,715 --> 00:19:47,674
+<i>My name is Arkad.</i>
+<i>I am the leader of the Illac Renin.</i>
+
+258
+00:19:47,786 --> 00:19:51,153
+It's Ancient. Loosely translated,
+it means "kingdom of the path."
+
+259
+00:19:51,256 --> 00:19:52,917
+What can we do for you?
+
+260
+00:19:53,025 --> 00:19:55,858
+<i>I wish to be granted safe passage</i>
+<i>to your planet</i>
+
+261
+00:19:55,961 --> 00:19:57,258
+<i>so that we may meet in person</i>
+
+262
+00:19:57,362 --> 00:19:59,922
+<i>and discuss certain issues</i>
+<i>that concern us both.</i>
+
+263
+00:20:00,032 --> 00:20:03,229
+<i>By now, you have undoubtedly learned</i>
+<i>of a plot</i>
+
+264
+00:20:03,335 --> 00:20:06,236
+<i>to brazenly strike at your planet</i>
+<i>in a most cowardly manner.</i>
+
+265
+00:20:06,338 --> 00:20:09,535
+<i>I want to offer my assistance, as I believe</i>
+
+266
+00:20:09,641 --> 00:20:13,577
+<i>I am uniquely capable of stopping</i>
+<i>this most dishonorable attack.</i>
+
+267
+00:20:22,588 --> 00:20:25,079
+He no doubt fed you
+the information about the attack
+
+268
+00:20:25,190 --> 00:20:28,489
+so that he could then claim to be
+the one who could prevent it.
+
+269
+00:20:28,594 --> 00:20:32,030
+Yeah, we figured that.
+But what we don't know is why.
+
+270
+00:20:32,130 --> 00:20:33,654
+And given the very real threat
+that's out there,
+
+271
+00:20:33,765 --> 00:20:36,598
+the IOA wants us to
+hear what he has to say.
+
+272
+00:20:36,702 --> 00:20:40,263
+He is a serpent. You must not trust him.
+
+273
+00:20:40,372 --> 00:20:43,466
+- I'll let you know how it goes.
+- I already know.
+
+274
+00:20:43,909 --> 00:20:45,900
+Nothing good will come of it.
+
+275
+00:20:54,720 --> 00:20:57,086
+Arkad, I'm sure you know of SG-1.
+
+276
+00:20:57,189 --> 00:21:03,059
+Lieutenant Colonels Mitchell and Carter,
+Dr. Daniel Jackson, and Vala Mal Doran.
+
+277
+00:21:03,161 --> 00:21:05,994
+It's an honor to finally meet you all
+in person.
+
+278
+00:21:06,098 --> 00:21:07,725
+I have looked forward to this day
+for some time.
+
+279
+00:21:07,833 --> 00:21:09,801
+Let's sit down, shall we?
+
+280
+00:21:16,575 --> 00:21:18,440
+A shame Teal'c is not here.
+
+281
+00:21:18,543 --> 00:21:20,977
+We have not had the pleasure
+of seeing each other in many years.
+
+282
+00:21:21,079 --> 00:21:24,242
+We couldn't guarantee your safety
+if he was here.
+
+283
+00:21:24,816 --> 00:21:28,877
+Surely, he does not still hold a grudge
+for past battles we once waged
+
+284
+00:21:28,987 --> 00:21:30,887
+in the name of former false gods?
+
+285
+00:21:30,989 --> 00:21:34,220
+No, I think it has more to do
+with recent events.
+
+286
+00:21:34,326 --> 00:21:37,352
+I assume you are referring
+to the tragedy at Dar Eshkalon?
+
+287
+00:21:37,462 --> 00:21:42,365
+Yeah, in which your good buddy Teal'c
+came this close to dying.
+
+288
+00:21:42,467 --> 00:21:44,560
+Bra'tac sends his regards, as well.
+
+289
+00:21:44,670 --> 00:21:47,230
+I don't think he'll mind me
+speaking for him when I say that
+
+290
+00:21:47,339 --> 00:21:50,706
+he'd love to stab you in the eye
+with a really big knife.
+
+291
+00:21:51,476 --> 00:21:54,138
+Thirty-two other Jaffa
+weren't nearly as lucky as they were.
+
+292
+00:21:54,246 --> 00:21:57,340
+You must understand, all of you,
+that there are those out there
+
+293
+00:21:57,449 --> 00:22:01,078
+who would have me falsely accused
+of such cowardly actions.
+
+294
+00:22:01,186 --> 00:22:02,847
+So, you're saying
+you had nothing to do with it?
+
+295
+00:22:02,954 --> 00:22:04,979
+I fully admit I was against a gathering.
+
+296
+00:22:05,090 --> 00:22:07,888
+But those in attendance were assembling
+to form a council
+
+297
+00:22:07,993 --> 00:22:11,554
+that would directly oppose my campaign
+to lead all Jaffa.
+
+298
+00:22:11,663 --> 00:22:13,221
+Into the arms of the Ori.
+
+299
+00:22:13,332 --> 00:22:16,199
+The reason we fought for freedom is so
+we could believe in what we want
+
+300
+00:22:16,301 --> 00:22:18,701
+and not be subjugated by anyone.
+
+301
+00:22:18,804 --> 00:22:22,137
+And you don't see the Ori
+as forcing their beliefs on you?
+
+302
+00:22:22,240 --> 00:22:25,266
+I see Origin as the organized religion
+and the source of salvation
+
+303
+00:22:25,377 --> 00:22:27,208
+all the Jaffa has always sought.
+
+304
+00:22:27,312 --> 00:22:29,371
+I think we're getting a little off point here.
+
+305
+00:22:29,481 --> 00:22:30,675
+I agree.
+
+306
+00:22:31,249 --> 00:22:35,948
+I assure you, no matter what
+our philosophical differences,
+
+307
+00:22:36,054 --> 00:22:40,855
+I would never authorize the type of attack
+that befell the summit at Dar Eshkalon.
+
+308
+00:22:40,959 --> 00:22:44,725
+But you just happen to know some guys,
+less respectable,
+
+309
+00:22:44,830 --> 00:22:48,698
+less honorable than yourself,
+who took matters into their own hands.
+
+310
+00:22:48,800 --> 00:22:50,427
+As a matter of fact, yes.
+
+311
+00:22:50,535 --> 00:22:53,197
+And I have learned of similar attacks
+against your planet being planned
+
+312
+00:22:53,305 --> 00:22:54,897
+by a radical sect of Jaffa,
+
+313
+00:22:55,006 --> 00:22:57,634
+who see the Tau'ri
+as a powerful force in the galaxy,
+
+314
+00:22:57,743 --> 00:23:01,839
+who oppose our peaceful movement
+toward embracing Origin.
+
+315
+00:23:01,947 --> 00:23:04,939
+- And you can stop them?
+- Yes, I believe I can.
+
+316
+00:23:05,050 --> 00:23:06,950
+I do not agree with their tactics,
+
+317
+00:23:07,052 --> 00:23:09,213
+but at least we see eye to eye
+in basic beliefs.
+
+318
+00:23:09,321 --> 00:23:12,779
+I can use my influence and my resources
+
+319
+00:23:12,891 --> 00:23:15,223
+to choke off their ability
+to function effectively.
+
+320
+00:23:15,327 --> 00:23:17,090
+Or you can fund them
+
+321
+00:23:17,195 --> 00:23:20,858
+and allow them to do your dirty work for
+you while you take the political high road.
+
+322
+00:23:20,966 --> 00:23:23,833
+Let's cut the crap!
+We all know you're here for one reason.
+
+323
+00:23:23,935 --> 00:23:26,870
+- Make your demands.
+- I have no demands.
+
+324
+00:23:26,972 --> 00:23:31,306
+I understand your mistrust,
+but, please, I implore you.
+
+325
+00:23:31,410 --> 00:23:36,109
+Believe me when I say I will use
+all of my vast resources at my disposal
+
+326
+00:23:36,214 --> 00:23:39,342
+to thwart this most heinous threat
+to your world.
+
+327
+00:23:40,185 --> 00:23:44,281
+All I ask in return is you allow the Jaffa
+people to believe in what they choose.
+
+328
+00:23:44,389 --> 00:23:47,881
+If they decide to follow
+in the ways of the Illac Renin,
+
+329
+00:23:48,660 --> 00:23:50,321
+that should be up to them.
+
+330
+00:23:50,429 --> 00:23:53,592
+If you feel it is your responsibility
+to do battle with the Ori
+
+331
+00:23:53,698 --> 00:23:58,635
+on behalf of the humans of this galaxy,
+then that is your prerogative.
+
+332
+00:23:58,737 --> 00:24:01,467
+Stay out of your way
+and you won't attack us?
+
+333
+00:24:01,573 --> 00:24:03,370
+General, my fleet is more powerful
+
+334
+00:24:03,475 --> 00:24:05,773
+than any Goa'uld
+has ever marshaled by tenfold.
+
+335
+00:24:05,877 --> 00:24:07,276
+If I was to attack this planet,
+
+336
+00:24:07,379 --> 00:24:11,713
+it would not be in the manner
+currently being planned by these radicals.
+
+337
+00:24:12,451 --> 00:24:14,851
+And it would not end well for you.
+
+338
+00:24:15,220 --> 00:24:16,380
+MITCHELL: Really?
+
+339
+00:24:17,022 --> 00:24:18,489
+You don't say.
+
+340
+00:24:19,458 --> 00:24:22,757
+Whether or not our people
+ever see eye to eye,
+
+341
+00:24:22,861 --> 00:24:26,592
+I would like to believe that
+they could coexist peacefully.
+
+342
+00:24:26,698 --> 00:24:28,495
+Your planet has played
+an instrumental role
+
+343
+00:24:28,600 --> 00:24:31,433
+in the very reshaping of the nature
+of the galaxy.
+
+344
+00:24:31,536 --> 00:24:35,233
+I merely wish to avoid
+any unpleasant conflicts
+
+345
+00:24:35,340 --> 00:24:38,400
+between our two respective nations,
+before they arise.
+
+346
+00:24:41,713 --> 00:24:43,271
+I take my leave.
+
+347
+00:24:58,029 --> 00:25:00,327
+LIZAN: I told you where to find Bak'al.
+
+348
+00:25:00,866 --> 00:25:05,132
+He's the Jaffa scum that I sold
+the explosives to. That's all I know.
+
+349
+00:25:05,237 --> 00:25:07,137
+I do not believe you.
+
+350
+00:25:07,239 --> 00:25:09,605
+I don't know anything about Arkad.
+
+351
+00:25:09,708 --> 00:25:12,802
+You despise Jaffa. Why protect him?
+
+352
+00:25:12,911 --> 00:25:14,606
+I'm not afraid to die.
+
+353
+00:25:14,713 --> 00:25:19,412
+I have no intention of killing you.
+Not until you tell me where to find Arkad.
+
+354
+00:25:20,051 --> 00:25:23,578
+Why should I tell you anything,
+knowing death is my reward?
+
+355
+00:25:23,688 --> 00:25:25,679
+That may sound sensible for the moment,
+
+356
+00:25:25,790 --> 00:25:31,092
+but, believe me, in time
+you will change your mind.
+
+357
+00:25:39,004 --> 00:25:42,906
+The IOA is taking the threat of
+these attacks against Earth very seriously.
+
+358
+00:25:43,008 --> 00:25:44,669
+So, what do they want us to do?
+
+359
+00:25:44,776 --> 00:25:48,473
+- Nothing as far as Arkad is concerned.
+- Sir?
+
+360
+00:25:48,580 --> 00:25:52,880
+They want us to leave him alone for now.
+Let him go about his business.
+
+361
+00:25:54,019 --> 00:25:56,112
+We're supposed to let him muscle us?
+
+362
+00:25:56,221 --> 00:25:59,088
+Obviously, we need to
+assess his capability,
+
+363
+00:25:59,190 --> 00:26:02,785
+determine if these threats are credible
+and who's really behind them.
+
+364
+00:26:02,894 --> 00:26:05,624
+If we can prove that Arkad does pose
+a direct threat to our security...
+
+365
+00:26:05,730 --> 00:26:09,689
+I'm sorry, sir. We're supposed to, what?
+Find WMDs in his back pocket?
+
+366
+00:26:09,801 --> 00:26:12,565
+Right at the moment,
+we need to play the intelligence game,
+
+367
+00:26:12,671 --> 00:26:14,662
+not get into an all-out war with an enemy
+
+368
+00:26:14,773 --> 00:26:18,436
+that may have the capability
+to inflict severe damage on us.
+
+369
+00:26:18,543 --> 00:26:20,443
+We need to find out what we can.
+
+370
+00:26:20,545 --> 00:26:22,979
+- We're on it, sir.
+- Not so fast, Colonel.
+
+371
+00:26:23,081 --> 00:26:25,311
+I plan to put a number of teams on it
+right away,
+
+372
+00:26:25,417 --> 00:26:29,080
+but, at the moment,
+I have another mission for you.
+
+373
+00:26:31,456 --> 00:26:36,018
+In his mind, Teal'c may have severed
+his connections with us
+
+374
+00:26:36,127 --> 00:26:37,924
+when he set out to kill Arkad.
+
+375
+00:26:38,029 --> 00:26:39,291
+But he's been part of the SGC,
+
+376
+00:26:39,397 --> 00:26:42,025
+so he'll still be perceived
+as acting on our behalf.
+
+377
+00:26:42,133 --> 00:26:45,796
+If he succeeds in killing Arkad,
+even if he tries and fails,
+
+378
+00:26:45,904 --> 00:26:49,271
+it will be hard to convince people
+that he was acting alone.
+
+379
+00:26:49,374 --> 00:26:51,865
+So you want us to try and stop him?
+
+380
+00:26:51,977 --> 00:26:54,343
+The IOA is adamant
+
+381
+00:26:54,446 --> 00:26:59,213
+that Earth, and specifically the SGC,
+take no action against Arkad.
+
+382
+00:26:59,884 --> 00:27:04,583
+I've been charged with ordering you
+to find Teal'c
+
+383
+00:27:05,991 --> 00:27:08,016
+and stop him at all costs.
+
+384
+00:27:23,642 --> 00:27:27,009
+Hey, no one really thinks
+that Arkad gave the SGC
+
+385
+00:27:27,112 --> 00:27:31,708
+the whereabouts of his home base
+of operations out of diplomatic courtesy?
+
+386
+00:27:31,816 --> 00:27:33,977
+What, you think he did it
+to draw us into a trap?
+
+387
+00:27:34,085 --> 00:27:35,416
+I doubt that.
+It's more likely that he knew that
+
+388
+00:27:35,520 --> 00:27:37,579
+if anyone was determined enough
+to find him, they could,
+
+389
+00:27:37,689 --> 00:27:39,156
+and he wanted to make sure
+we'd be blamed
+
+390
+00:27:39,257 --> 00:27:40,781
+in the event of any attack against him.
+
+391
+00:27:40,892 --> 00:27:43,087
+Regardless of whether we were behind it.
+
+392
+00:27:43,194 --> 00:27:44,422
+MITCHELL: Speaking of determined,
+
+393
+00:27:44,529 --> 00:27:48,397
+has anyone thought about the speech
+they're going to give to Teal'c?
+
+394
+00:27:52,404 --> 00:27:54,235
+No, I didn't think so.
+
+395
+00:28:04,516 --> 00:28:07,314
+<i>Odyssey,</i> this is Mitchell. We are down.
+
+396
+00:28:07,419 --> 00:28:10,013
+All right, everybody knows what to do.
+
+397
+00:28:14,359 --> 00:28:16,554
+Field generators are in place.
+
+398
+00:28:22,867 --> 00:28:24,732
+Trip sensors are ready.
+
+399
+00:28:26,905 --> 00:28:29,601
+I'm glad you're so sure about this plan.
+
+400
+00:28:30,308 --> 00:28:33,106
+One way or the other,
+you know he's coming.
+
+401
+00:28:33,411 --> 00:28:34,844
+He'll want the element of surprise,
+
+402
+00:28:34,946 --> 00:28:38,507
+so I figure he'll use a cloaked ship,
+try to sneak in the back way.
+
+403
+00:28:38,616 --> 00:28:40,948
+- Well, that's what we would do.
+- Exactly.
+
+404
+00:28:41,720 --> 00:28:44,621
+He just doesn't know
+we're going to try and stop him.
+
+405
+00:28:44,723 --> 00:28:47,920
+You know, regardless of
+who's going to try and stop him,
+
+406
+00:28:48,026 --> 00:28:50,494
+this is Teal'c we're talking about.
+
+407
+00:28:55,734 --> 00:28:58,862
+You know, Bra'tac seems to think that
+if it suits Arkad to attack Earth,
+
+408
+00:28:58,970 --> 00:29:01,734
+he'll do so
+no matter what his agreement with us.
+
+409
+00:29:01,840 --> 00:29:05,469
+It's possible he just didn't want us
+coming after him yet.
+
+410
+00:29:05,577 --> 00:29:07,408
+So, he leaks the information
+about the plot,
+
+411
+00:29:07,512 --> 00:29:10,413
+pretends to act towards
+stopping the attack,
+
+412
+00:29:11,049 --> 00:29:13,540
+and, with the time that he's bought,
+gets his chicks in a row.
+
+413
+00:29:13,651 --> 00:29:15,448
+That's a pretty good theory.
+And it's ducks, by the way.
+
+414
+00:29:15,553 --> 00:29:18,283
+The only problem is,
+we have to prove it to the IOA.
+
+415
+00:29:18,389 --> 00:29:24,487
+Well, what would be the harm in us just
+failing to stop Teal'c from killing Arkad?
+
+416
+00:29:24,596 --> 00:29:26,427
+It wouldn't be entirely on purpose,
+
+417
+00:29:26,531 --> 00:29:30,023
+and not out of accidental incompetence
+either, if you catch my drift.
+
+418
+00:29:30,135 --> 00:29:31,796
+Yes, nudge nudge, wink wink.
+
+419
+00:29:31,903 --> 00:29:33,495
+But if Arkad is the one
+planning these attacks,
+
+420
+00:29:33,605 --> 00:29:36,301
+then I think our best chance of
+stopping them is keeping Arkad alive.
+
+421
+00:29:36,407 --> 00:29:37,431
+Why's that?
+
+422
+00:29:37,542 --> 00:29:40,170
+He may be the only one that
+knows all the pieces to the puzzle.
+
+423
+00:29:40,278 --> 00:29:42,143
+- Good point.
+- Thank you.
+
+424
+00:29:42,947 --> 00:29:45,711
+How do we get Arkad to tell us
+all the pieces of the puzzle?
+
+425
+00:29:45,817 --> 00:29:48,149
+Oh, that's the easy part.
+See, we capture him, lock him in a room,
+
+426
+00:29:48,253 --> 00:29:50,847
+and threaten to let Teal'c kill him.
+
+427
+00:29:50,955 --> 00:29:52,616
+- Genius.
+- Thank you.
+
+428
+00:30:12,510 --> 00:30:16,071
+It has occurred to you that
+it could take days before Teal'c shows up?
+
+429
+00:30:16,181 --> 00:30:17,239
+Yeah.
+
+430
+00:30:18,116 --> 00:30:21,950
+He could also have been here already
+and killed Arkad, for all we know.
+
+431
+00:30:22,053 --> 00:30:24,453
+Half of SG-3 is watching the gate.
+
+432
+00:30:25,223 --> 00:30:28,351
+We'll get some activity,
+one way or the other.
+
+433
+00:30:28,459 --> 00:30:30,188
+Speaking of which...
+
+434
+00:30:34,966 --> 00:30:36,957
+Colonel Reynolds, come in.
+
+435
+00:30:39,804 --> 00:30:43,535
+SG-3, you've missed your scheduled
+check in. Please respond.
+
+436
+00:30:49,914 --> 00:30:51,245
+Stay here.
+
+437
+00:31:05,230 --> 00:31:07,755
+<i>MITCHELL: Hey, somebody got to</i>
+<i>Baker and Reynolds.</i>
+
+438
+00:31:07,866 --> 00:31:10,801
+They're unconscious, but they're still alive.
+
+439
+00:31:18,176 --> 00:31:19,575
+Hey, Teal'c?
+
+440
+00:31:21,112 --> 00:31:23,740
+Teal'c, I know you're out there, buddy.
+
+441
+00:31:24,682 --> 00:31:27,276
+If you can hear me, I don't know
+what you think is going on here,
+
+442
+00:31:27,385 --> 00:31:30,183
+but we're here to help.
+
+443
+00:31:33,625 --> 00:31:38,392
+<i>MITCHELL: Okay, that was a lie,</i>
+<i>and I feel terrible about it. I hate myself.</i>
+
+444
+00:31:39,264 --> 00:31:41,789
+<i>TEAL 'C: Why have you set a trap for me,</i>
+<i>Colonel Mitchell?</i>
+
+445
+00:31:43,835 --> 00:31:44,893
+Trap?
+
+446
+00:31:45,603 --> 00:31:47,594
+That's crazy talk, man.
+
+447
+00:31:47,705 --> 00:31:49,536
+<i>Why would we set a trap for you?</i>
+
+448
+00:31:49,641 --> 00:31:53,042
+I intend on killing Arkad.
+Do not try and stop me.
+
+449
+00:31:53,144 --> 00:31:56,477
+Teal'c, it's Daniel.
+Listen, now just hear me out.
+
+450
+00:31:56,581 --> 00:31:59,379
+Now, apparently, there's a radical group
+of Jaffa poised to attack Earth.
+
+451
+00:31:59,484 --> 00:32:01,509
+Arkad claims to have
+the means to stop them,
+
+452
+00:32:01,619 --> 00:32:03,849
+<i>and he says he'll help us</i>
+<i>if we leave him alone.</i>
+
+453
+00:32:03,955 --> 00:32:06,287
+It is likely Arkad is behind those attacks.
+
+454
+00:32:06,391 --> 00:32:07,722
+<i>Yes, I know, I know. We figured as much.</i>
+
+455
+00:32:07,825 --> 00:32:10,726
+But we just think
+it's best for ourselves and you
+
+456
+00:32:10,828 --> 00:32:13,388
+if we all just step back
+and consider all the angles.
+
+457
+00:32:13,698 --> 00:32:15,996
+I am not acting on behalf of Earth.
+
+458
+00:32:16,901 --> 00:32:19,631
+The IOA is worried
+it may still look that way.
+
+459
+00:32:19,737 --> 00:32:22,262
+<i>Unfortunately,</i>
+<i>that is no longer my concern.</i>
+
+460
+00:32:22,674 --> 00:32:25,973
+I will avenge the deaths
+of the Jaffa at Dar Eshkalon.
+
+461
+00:32:26,077 --> 00:32:28,102
+Arkad must die,
+no matter what the consequences.
+
+462
+00:32:28,913 --> 00:32:30,574
+<i>I do not wish to harm any of you.</i>
+
+463
+00:32:30,682 --> 00:32:33,810
+But if you try and stop me, I will.
+
+464
+00:32:44,495 --> 00:32:45,723
+So, now what?
+
+465
+00:32:45,830 --> 00:32:48,697
+Well, he's got to be
+headed for the pyramid.
+
+466
+00:32:59,110 --> 00:33:00,634
+Drop the stick.
+
+467
+00:33:02,146 --> 00:33:04,239
+Drop the stick.
+
+468
+00:33:05,149 --> 00:33:07,242
+I do not wish to harm you,
+Colonel Mitchell.
+
+469
+00:33:07,352 --> 00:33:09,081
+Then drop the stick.
+
+470
+00:33:12,390 --> 00:33:15,655
+You know, I don't think anyone here
+wants to get harmed.
+
+471
+00:33:15,760 --> 00:33:17,785
+Probably me more than you.
+
+472
+00:33:18,296 --> 00:33:19,786
+Look, Teal'c...
+
+473
+00:33:24,602 --> 00:33:26,001
+(GRUNTING)
+
+474
+00:33:57,301 --> 00:33:58,928
+(GROANS)
+
+475
+00:33:59,370 --> 00:34:02,362
+Okay, all right. We can talk about this.
+
+476
+00:34:02,473 --> 00:34:05,374
+The time for talk is over, Colonel Mitchell.
+
+477
+00:35:53,351 --> 00:35:57,583
+ARKAD: After all these years,
+still as predictable as ever.
+
+478
+00:35:58,589 --> 00:35:59,715
+Leave.
+
+479
+00:36:40,665 --> 00:36:44,829
+You've gotten old and slow. Get up.
+
+480
+00:36:52,176 --> 00:36:53,837
+(GROANS)
+
+481
+00:36:54,779 --> 00:36:57,714
+I remember when you were a true warrior,
+
+482
+00:36:57,815 --> 00:36:59,874
+the pride of Apophis,
+
+483
+00:36:59,984 --> 00:37:02,646
+feared by all those who opposed you.
+
+484
+00:37:02,753 --> 00:37:06,519
+Do you remember, Teal'c,
+how powerful you were then?
+
+485
+00:37:07,758 --> 00:37:09,749
+Do you remember Co'rak?
+
+486
+00:37:10,361 --> 00:37:12,124
+You had us on the run.
+
+487
+00:37:12,230 --> 00:37:16,030
+You bombarded the planet from space
+and you left no survivors!
+
+488
+00:37:17,001 --> 00:37:19,060
+I lost my parents that day,
+
+489
+00:37:20,204 --> 00:37:21,603
+my sister,
+
+490
+00:37:23,174 --> 00:37:25,142
+yet I still admired you.
+
+491
+00:37:25,876 --> 00:37:29,778
+One day, I thought...
+I thought I would be so brave.
+
+492
+00:37:29,880 --> 00:37:33,247
+I would have the courage
+to bring my enemies to their knees,
+
+493
+00:37:33,351 --> 00:37:35,945
+like the great Jaffa warrior, Teal'c.
+
+494
+00:37:37,688 --> 00:37:38,814
+Fight!
+
+495
+00:37:55,740 --> 00:37:57,298
+Look at you now.
+
+496
+00:37:58,142 --> 00:37:59,370
+A legend.
+
+497
+00:38:03,114 --> 00:38:06,345
+You defeated
+the mighty Goa'uld themselves.
+
+498
+00:38:06,450 --> 00:38:08,680
+You brought freedom to all Jaffa.
+
+499
+00:38:08,786 --> 00:38:14,588
+You gave us the chance to seek salvation,
+but you, you rejected it yourself.
+
+500
+00:38:16,494 --> 00:38:21,932
+Your punishment must be
+to have gotten so soft and frail.
+
+501
+00:38:22,033 --> 00:38:25,969
+Have you spent so long with humans
+that you've become so much like them?
+
+502
+00:38:27,238 --> 00:38:29,103
+It's a shame
+
+503
+00:38:29,206 --> 00:38:32,869
+you won't live to see me
+bring the Tau'ri to their knees.
+
+504
+00:38:46,123 --> 00:38:47,954
+(GRUNTING)
+
+505
+00:39:35,873 --> 00:39:40,901
+Before you die,
+I want you to know the truth.
+
+506
+00:39:41,011 --> 00:39:43,571
+I had my revenge for the day
+that you attacked Co'rak
+
+507
+00:39:43,681 --> 00:39:45,911
+and you slaughtered my family.
+
+508
+00:39:51,021 --> 00:39:52,750
+I killed your mother.
+
+509
+00:39:54,358 --> 00:39:55,916
+(GROANS)
+
+510
+00:40:26,557 --> 00:40:27,751
+Teal'c!
+
+511
+00:40:48,512 --> 00:40:51,003
+There was a time when you would have
+come away from such a battle
+
+512
+00:40:51,115 --> 00:40:52,912
+without a scratch.
+
+513
+00:40:53,017 --> 00:40:56,578
+I'm alive. Arkad is not.
+
+514
+00:40:58,222 --> 00:40:59,382
+Indeed.
+
+515
+00:41:02,893 --> 00:41:05,760
+Just finished reading your report, Colonel.
+
+516
+00:41:06,030 --> 00:41:07,998
+Everything in order, sir?
+
+517
+00:41:08,098 --> 00:41:11,124
+Arkad set a trap for you,
+took you prisoner,
+
+518
+00:41:11,235 --> 00:41:13,829
+and you were fortunate
+Teal'c was there to rescue you.
+
+519
+00:41:13,938 --> 00:41:17,874
+Arkad was killed
+and Teal'c injured in the process.
+
+520
+00:41:17,975 --> 00:41:20,068
+Yes, sir, that's what it says.
+
+521
+00:41:20,177 --> 00:41:23,237
+This is going to be a tough pill
+for the IOA to swallow, son.
+
+522
+00:41:23,347 --> 00:41:26,407
+I believe I also mention that
+Arkad admitted to planning the attacks
+
+523
+00:41:26,517 --> 00:41:27,575
+and they were going to
+go through with them
+
+524
+00:41:27,685 --> 00:41:28,982
+regardless of what we'd do.
+
+525
+00:41:29,086 --> 00:41:31,987
+Yeah, it's too bad
+you weren't able to learn more.
+
+526
+00:41:35,726 --> 00:41:38,752
+Arkad took credit
+for the murder of my mother.
+
+527
+00:41:42,132 --> 00:41:46,569
+If he was responsible, he was too much
+a coward to do it himself.
+
+528
+00:41:47,905 --> 00:41:50,305
+The one who did died by my hand.
+
+529
+00:41:52,243 --> 00:41:53,870
+You never told me.
+
+530
+00:41:55,646 --> 00:41:59,548
+Still, Arkad got what he deserved.
+
+531
+00:42:00,050 --> 00:42:02,712
+There are many more
+as corrupt as he was.
+
+532
+00:42:02,820 --> 00:42:06,483
+And we will hunt them
+until they are no more.
+
+533
+00:42:12,997 --> 00:42:15,830
+I would not like to be
+the one who opposes you.
+
+534
+00:42:16,367 --> 00:42:19,131
+I have learned from the best, old friend.
+
+535
+00:42:20,504 --> 00:42:25,168
+I have not said this to you before,
+and I should have.
+
+536
+00:42:31,181 --> 00:42:34,207
+You are the son I never had.
+
+537
+00:42:38,222 --> 00:42:40,213
+I could not be more proud.
+

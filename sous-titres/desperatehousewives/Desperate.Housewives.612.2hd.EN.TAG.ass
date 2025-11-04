@@ -1,0 +1,694 @@
+[Script Info]
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+PlayDepth: 0
+Timer: 100.0
+WrapStyle: 0
+
+[v4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic,  Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.91,0:00:02.70,Default,,0000,0000,0000,,{\i1}Previously\Non Desperate Housewives...{\i0}
+Dialogue: 0,0:00:03.67,0:00:05.58,Default,,0000,0000,0000,,{\a3}{\i1}In the wake of a tragedy,{\i0}
+Dialogue: 0,0:00:06.20,0:00:07.88,Default,,0000,0000,0000,,{\a3}{\i1}a daughter was safe...{\i0}
+Dialogue: 0,0:00:08.13,0:00:10.04,Default,,0000,0000,0000,,{\a3}You saved her life.\NWe owe you everything.
+Dialogue: 0,0:00:10.20,0:00:11.61,Default,,0000,0000,0000,,{\a3}{\i1}Orson was changed...{\i0}
+Dialogue: 0,0:00:11.77,0:00:14.05,Default,,0000,0000,0000,,{\a3}There's a good chance\Nyour husband's paralyzed.
+Dialogue: 0,0:00:14.30,0:00:16.08,Default,,0000,0000,0000,,{\i1}An unborn twin was gone...{\i0}
+Dialogue: 0,0:00:16.25,0:00:17.47,Default,,0000,0000,0000,,We lost the baby...
+Dialogue: 0,0:00:17.73,0:00:20.47,Default,,0000,0000,0000,,but the other baby is fine.
+Dialogue: 0,0:00:20.73,0:00:23.31,Default,,0000,0000,0000,,- {\i1}And an ex-husband...{\i0}\N- Karl didn't make it.
+Dialogue: 0,0:00:23.56,0:00:25.35,Default,,0000,0000,0000,,- Oh, my God.\N- {\i1}Was dead.{\i0}
+Dialogue: 0,0:00:33.33,0:00:35.69,Default,,0000,0000,0000,,{\i1}A month after the\Ndeath of Karl Mayer,{\i0}
+Dialogue: 0,0:00:35.86,0:00:39.03,Default,,0000,0000,0000,,{\i1}his family assembled\Nfor the reading of his will.{\i0}
+Dialogue: 0,0:00:39.90,0:00:43.61,Default,,0000,0000,0000,,{\i1}To each, Karl left something\Nto remember him by.{\i0}
+Dialogue: 0,0:00:44.75,0:00:47.77,Default,,0000,0000,0000,,{\i1}To his great aunt,\Nhe left a grand piano.{\i0}
+Dialogue: 0,0:00:48.66,0:00:52.30,Default,,0000,0000,0000,,{\i1}To his favorite cousin,\Nhe left gold cuff links.{\i0}
+Dialogue: 0,0:00:53.08,0:00:57.04,Default,,0000,0000,0000,,{\i1}To his beloved daughter,\Nhe left cash and securities.{\i0}
+Dialogue: 0,0:00:57.84,0:01:01.65,Default,,0000,0000,0000,,{\i1}But Karl Mayer left his most\Nextraordinary possession of all{\i0}
+Dialogue: 0,0:01:02.43,0:01:06.08,Default,,0000,0000,0000,,{\i1}to someone who wasn't\Nexpecting a thing.{\i0}
+Dialogue: 0,0:01:06.25,0:01:08.98,Default,,0000,0000,0000,,"And finally,\Nto my ex-wife, Susan Mayer..."
+Dialogue: 0,0:01:09.81,0:01:10.94,Default,,0000,0000,0000,,That's me.
+Dialogue: 0,0:01:12.82,0:01:14.84,Default,,0000,0000,0000,,I was just here\Nto support my daughter.
+Dialogue: 0,0:01:15.01,0:01:17.32,Default,,0000,0000,0000,,Seriously, I've been playing\Nhangman on my phone.
+Dialogue: 0,0:01:20.93,0:01:23.94,Default,,0000,0000,0000,,- You were saying?\N- "To my dearest Susie Q.,
+Dialogue: 0,0:01:24.11,0:01:27.16,Default,,0000,0000,0000,,"who endured my infidelities\Nfar longer than she should have,
+Dialogue: 0,0:01:27.73,0:01:31.26,Default,,0000,0000,0000,,"years of cheating, betrayals\Nalmost from the day we were married..."
+Dialogue: 0,0:01:31.42,0:01:33.99,Default,,0000,0000,0000,,Can we skip to the part\Nwhere I get stuff?
+Dialogue: 0,0:01:35.44,0:01:37.80,Default,,0000,0000,0000,,Don't look at me like that.\NYou got the piano.
+Dialogue: 0,0:01:38.60,0:01:41.10,Default,,0000,0000,0000,,"While I was never good\Nat hiding my affairs of the flesh,"
+Dialogue: 0,0:01:41.27,0:01:43.58,Default,,0000,0000,0000,,"I'm ashamed to say\Nthat I was more successful
+Dialogue: 0,0:01:43.75,0:01:45.76,Default,,0000,0000,0000,,at concealing some\Nof my financial affairs."
+Dialogue: 0,0:01:46.11,0:01:47.56,Default,,0000,0000,0000,,What does that mean?
+Dialogue: 0,0:01:47.82,0:01:50.27,Default,,0000,0000,0000,,I think dad hid money from you\Nwhen you were married.
+Dialogue: 0,0:01:51.84,0:01:53.75,Default,,0000,0000,0000,,It's not money, exactly.
+Dialogue: 0,0:01:53.92,0:01:56.94,Default,,0000,0000,0000,,It seems your ex-husband was\Npart owner in a business.
+Dialogue: 0,0:01:58.45,0:02:02.28,Default,,0000,0000,0000,,He was having affairs, ran a law firm\Nand he owned a secret business?
+Dialogue: 0,0:02:03.60,0:02:06.25,Default,,0000,0000,0000,,Glad you're finally getting\Na little rest.
+Dialogue: 0,0:02:07.09,0:02:10.04,Default,,0000,0000,0000,,He specifically asks\Nthat you keep an open mind.
+Dialogue: 0,0:02:10.65,0:02:12.12,Default,,0000,0000,0000,,It's very successful.
+Dialogue: 0,0:02:13.52,0:02:16.97,Default,,0000,0000,0000,,If it's so successful,\Nwhy do I need to keep an open mind?
+Dialogue: 0,0:02:17.44,0:02:18.46,Default,,0000,0000,0000,,{\i1}Yes,{\i0}
+Dialogue: 0,0:02:18.72,0:02:22.67,Default,,0000,0000,0000,,{\i1}Karl Mayer left his ex-wife\Nsomething to remember him by...{\i0}
+Dialogue: 0,0:02:27.54,0:02:31.31,Default,,0000,0000,0000,,{\i1}Not that there was any\Nchance she wod forget him.{\i0}
+Dialogue: 0,0:02:33.36,0:02:36.86,Default,,0000,0000,0000,,Synchro: Wisteria Team\NTranscript: Addic7ed
+Dialogue: 0,0:02:37.03,0:02:40.99,Default,,0000,0000,0000,,{\pos(192,280)}www.wisteria-team.fr\Nwww.sous-titres.eu
+Dialogue: 0,0:02:48.13,0:02:51.91,Default,,0000,0000,0000,,{\i1}All kinds of men go to\NThe Double D gentlemen's club.{\i0}
+Dialogue: 0,0:02:52.55,0:02:54.85,Default,,0000,0000,0000,,{\i1}Frat boys looking for a thrill...{\i0}
+Dialogue: 0,0:02:55.97,0:02:58.84,Default,,0000,0000,0000,,{\i1}Soldiers looking to get lucky...{\i0}
+Dialogue: 0,0:02:59.49,0:03:02.51,Default,,0000,0000,0000,,{\i1}CEOs looking to close a deal.{\i0}
+Dialogue: 0,0:03:03.40,0:03:07.35,Default,,0000,0000,0000,,{\pos(192,210)}{\i1}Yes,\Nall kinds of men go to Double D's,{\i0}
+Dialogue: 0,0:03:07.95,0:03:11.67,Default,,0000,0000,0000,,{\pos(192,230)}{\i1}which can be very\Nupsetting to all kinds of women.{\i0}
+Dialogue: 0,0:03:15.20,0:03:17.35,Default,,0000,0000,0000,,{\pos(192,230)}Jimbo Rooney,\Nco-owner of Double D's.
+Dialogue: 0,0:03:18.69,0:03:21.27,Default,,0000,0000,0000,,{\pos(192,230)}I was real sad\Nto hear about Karl's passing.
+Dialogue: 0,0:03:21.59,0:03:23.12,Default,,0000,0000,0000,,{\pos(192,230)}He was a good man,
+Dialogue: 0,0:03:23.29,0:03:25.90,Default,,0000,0000,0000,,{\pos(192,230)}and he cared about each\Nand every one of these dancers.
+Dialogue: 0,0:03:26.16,0:03:29.41,Default,,0000,0000,0000,,{\pos(192,230)}I'm sure.\NKarl was always a big supporter
+Dialogue: 0,0:03:30.00,0:03:31.10,Default,,0000,0000,0000,,of the arts.
+Dialogue: 0,0:03:31.91,0:03:33.79,Default,,0000,0000,0000,,So... Who do I speak to about
+Dialogue: 0,0:03:34.05,0:03:36.75,Default,,0000,0000,0000,,selling my share\Nof herpes on parade?
+Dialogue: 0,0:03:37.01,0:03:40.59,Default,,0000,0000,0000,,{\pos(192,230)}Are you sure you want to do that?\NBusiness has been real good lately,
+Dialogue: 0,0:03:40.76,0:03:43.76,Default,,0000,0000,0000,,{\pos(192,230)}especially since we started\Ntopless karaoke tuesdays.
+Dialogue: 0,0:03:44.47,0:03:46.99,Default,,0000,0000,0000,,{\pos(192,230)}As lucrative an enterprise\Nas that seems...
+Dialogue: 0,0:03:47.16,0:03:49.49,Default,,0000,0000,0000,,{\pos(192,200)}Take a look around.\NHave a drink.
+Dialogue: 0,0:03:49.66,0:03:51.70,Default,,0000,0000,0000,,{\pos(192,200)}And then if you want to sell,
+Dialogue: 0,0:03:51.87,0:03:54.18,Default,,0000,0000,0000,,{\pos(192,210)}you have your lawyer call me.
+Dialogue: 0,0:03:55.08,0:03:56.43,Default,,0000,0000,0000,,{\pos(192,210)}Look at that.
+Dialogue: 0,0:03:57.14,0:04:00.56,Default,,0000,0000,0000,,{\pos(192,210)}You made the o's in "Rooney"\Ninto boobs.
+Dialogue: 0,0:04:00.73,0:04:02.70,Default,,0000,0000,0000,,{\pos(192,230)}- Lovely.\N- You like that?
+Dialogue: 0,0:04:02.87,0:04:05.49,Default,,0000,0000,0000,,{\pos(192,230)}Wait till you see\Nmy partner Vic's business card.
+Dialogue: 0,0:04:05.66,0:04:08.03,Default,,0000,0000,0000,,He took the "v,"\Nand he made it into a...
+Dialogue: 0,0:04:08.20,0:04:09.20,Default,,0000,0000,0000,,{\pos(192,230)}Got it.
+Dialogue: 0,0:04:09.37,0:04:11.24,Default,,0000,0000,0000,,{\pos(192,230)}I think\NI'd really like that drink now.
+Dialogue: 0,0:04:21.42,0:04:23.33,Default,,0000,0000,0000,,Thanks, but I'm\Nnot here for the show.
+Dialogue: 0,0:04:23.50,0:04:26.05,Default,,0000,0000,0000,,I just found out\Nthat I own half this place.
+Dialogue: 0,0:04:26.56,0:04:28.85,Default,,0000,0000,0000,,{\pos(192,210)}No kiddin'.\NNice to meet you.
+Dialogue: 0,0:04:29.02,0:04:31.76,Default,,0000,0000,0000,,{\pos(192,210)}I'm Jennifer Morelli,\Nbut at 10:00, I'm "Destiny."
+Dialogue: 0,0:04:32.58,0:04:34.32,Default,,0000,0000,0000,,{\pos(192,210)}I'm Susan Delfino.
+Dialogue: 0,0:04:34.49,0:04:36.72,Default,,0000,0000,0000,,{\pos(192,210)}At 10:00, I am in\Na flannel nightgown.
+Dialogue: 0,0:04:37.07,0:04:39.14,Default,,0000,0000,0000,,We have a Delfino\Nthat comes in here.
+Dialogue: 0,0:04:40.00,0:04:41.00,Default,,0000,0000,0000,,{\pos(192,230)}Really?
+Dialogue: 0,0:04:41.39,0:04:44.32,Default,,0000,0000,0000,,{\pos(192,230)}- It's a pretty common name.\N- I think he's a plumber.
+Dialogue: 0,0:04:44.73,0:04:45.74,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:04:46.86,0:04:49.33,Default,,0000,0000,0000,,{\pos(192,230)}Maybe there's another\Nplumber with that last name.
+Dialogue: 0,0:04:49.50,0:04:51.58,Default,,0000,0000,0000,,{\pos(192,230)}Mike, that's it.\NMike Delfino.
+Dialogue: 0,0:04:51.75,0:04:54.28,Default,,0000,0000,0000,,{\pos(192,230)}Tall guy, brown hair, nice smile?
+Dialogue: 0,0:04:54.54,0:04:55.83,Default,,0000,0000,0000,,Big busted nose?
+Dialogue: 0,0:04:56.09,0:04:57.33,Default,,0000,0000,0000,,I don't think so.
+Dialogue: 0,0:04:57.90,0:05:00.18,Default,,0000,0000,0000,,Wait till the next time you see him.
+Dialogue: 0,0:05:03.89,0:05:07.19,Default,,0000,0000,0000,,A TV? You guys\Ndidn't have to do that.
+Dialogue: 0,0:05:07.36,0:05:09.68,Default,,0000,0000,0000,,{\pos(192,230)}- Yes, we absolutely did.\N- We have a family rule,
+Dialogue: 0,0:05:09.85,0:05:13.65,Default,,0000,0000,0000,,{\pos(192,230)}save our daughter from being squashed\Nby a plane, you get a 60-inch plasma.
+Dialogue: 0,0:05:13.82,0:05:16.67,Default,,0000,0000,0000,,{\pos(192,230)}And a faux leather remote caddy.
+Dialogue: 0,0:05:16.84,0:05:19.34,Default,,0000,0000,0000,,{\pos(192,230)}Thanks.\NThis is very generous.
+Dialogue: 0,0:05:19.51,0:05:21.64,Default,,0000,0000,0000,,Please. We could never make up\Nfor what you did.
+Dialogue: 0,0:05:22.05,0:05:25.05,Default,,0000,0000,0000,,{\pos(192,210)}Or for how I behaved toward you\Nthe past couple of weeks.
+Dialogue: 0,0:05:25.22,0:05:27.65,Default,,0000,0000,0000,,{\pos(192,210)}- I was such a bitch.\N- We both said things.
+Dialogue: 0,0:05:27.91,0:05:29.99,Default,,0000,0000,0000,,But I said a lot worse a lot louder.
+Dialogue: 0,0:05:30.53,0:05:31.74,Default,,0000,0000,0000,,Yeah, you did.
+Dialogue: 0,0:05:32.92,0:05:36.21,Default,,0000,0000,0000,,{\pos(192,210)}By the way, I talked to HR, and\Nthey are fine with continuing to pay you
+Dialogue: 0,0:05:36.38,0:05:38.75,Default,,0000,0000,0000,,{\pos(192,210)}until the baby is born\Nand for six weeks after that.
+Dialogue: 0,0:05:40.42,0:05:43.83,Default,,0000,0000,0000,,{\pos(192,210)}That's amazing.\NWill Terrence fill in until I get back?
+Dialogue: 0,0:05:44.09,0:05:45.92,Default,,0000,0000,0000,,Actually, no.\NHe took the job in Miami.
+Dialogue: 0,0:05:46.18,0:05:47.75,Default,,0000,0000,0000,,So who's gonna take up the slack?
+Dialogue: 0,0:05:49.09,0:05:51.88,Default,,0000,0000,0000,,{\pos(192,210)}I'll put in extra hours,\Nwork weekends.
+Dialogue: 0,0:05:52.05,0:05:54.05,Default,,0000,0000,0000,,{\pos(192,210)}Don't worry about it.\NYou focus on that baby.
+Dialogue: 0,0:05:54.58,0:05:56.91,Default,,0000,0000,0000,,{\pos(192,210)}Really? I don't want to have\Nthis fall on you.
+Dialogue: 0,0:05:57.08,0:05:59.49,Default,,0000,0000,0000,,{\pos(192,210)}We gotta get going.\NWe've got Juanita's interview.
+Dialogue: 0,0:05:59.85,0:06:01.92,Default,,0000,0000,0000,,{\pos(192,210)}Right. Lynette,\Ndo not worry. I got your back.
+Dialogue: 0,0:06:02.09,0:06:06.04,Default,,0000,0000,0000,,{\pos(192,210)}But I feel so guilty taking\Nyour money and leaving you in the lurch.
+Dialogue: 0,0:06:06.95,0:06:10.15,Default,,0000,0000,0000,,I got a crazy idea.\NWhat if I fill in for Lynette?
+Dialogue: 0,0:06:11.04,0:06:14.07,Default,,0000,0000,0000,,- They're in a hurry. No time for jokes.\N- I'm serious.
+Dialogue: 0,0:06:14.24,0:06:17.23,Default,,0000,0000,0000,,I've done her job, or pretty damn\Nsimilar, when I was in advertising.
+Dialogue: 0,0:06:17.40,0:06:19.91,Default,,0000,0000,0000,,I could step in for her\Nuntil she gets back on her feet.
+Dialogue: 0,0:06:20.17,0:06:22.50,Default,,0000,0000,0000,,But that's putting Carlos\Nin an awkward position.
+Dialogue: 0,0:06:22.75,0:06:25.25,Default,,0000,0000,0000,,- I think it's a great idea.\N- Me, too.
+Dialogue: 0,0:06:26.85,0:06:29.49,Default,,0000,0000,0000,,{\pos(192,210)}I think\Nit's a great idea, in theory,
+Dialogue: 0,0:06:30.18,0:06:32.98,Default,,0000,0000,0000,,{\pos(192,220)}But it's such a complicated job.
+Dialogue: 0,0:06:34.52,0:06:36.09,Default,,0000,0000,0000,,You don't think I can handle it?
+Dialogue: 0,0:06:38.81,0:06:40.81,Default,,0000,0000,0000,,{\pos(192,220)}I think you'd be wonderful.
+Dialogue: 0,0:06:41.15,0:06:44.06,Default,,0000,0000,0000,,Great, it's settled then.\NTom, you start tomorrow.
+Dialogue: 0,0:06:44.32,0:06:46.85,Default,,0000,0000,0000,,There you go. Now you have\Nnothing to feel guilty about.
+Dialogue: 0,0:06:47.11,0:06:48.11,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:06:48.63,0:06:49.63,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:06:51.58,0:06:53.42,Default,,0000,0000,0000,,{\pos(192,210)}Thanks again for the tv.
+Dialogue: 0,0:06:53.59,0:06:56.32,Default,,0000,0000,0000,,{\pos(192,210)}You guys have been way too generous.
+Dialogue: 0,0:06:59.42,0:07:00.90,Default,,0000,0000,0000,,{\pos(192,210)}You made scones.
+Dialogue: 0,0:07:01.07,0:07:04.49,Default,,0000,0000,0000,,{\pos(192,210)}- My favorite.\N- I know. Take as many as you like.
+Dialogue: 0,0:07:05.26,0:07:06.26,Default,,0000,0000,0000,,{\pos(192,210)}So...
+Dialogue: 0,0:07:06.46,0:07:08.17,Default,,0000,0000,0000,,{\pos(192,210)}What did you want to see me about?
+Dialogue: 0,0:07:09.91,0:07:12.68,Default,,0000,0000,0000,,I wanted to give you this\Ndonation for the building fund.
+Dialogue: 0,0:07:12.85,0:07:15.60,Default,,0000,0000,0000,,{\pos(192,210)}And I also have some things\Nin the garage for the rummage sale,
+Dialogue: 0,0:07:15.77,0:07:17.62,Default,,0000,0000,0000,,{\pos(192,200)}and I am also available
+Dialogue: 0,0:07:17.79,0:07:20.47,Default,,0000,0000,0000,,{\pos(192,200)}to run the next\Nsunday school pancake breakfast.
+Dialogue: 0,0:07:21.66,0:07:24.43,Default,,0000,0000,0000,,{\pos(192,210)}Good heavens.\NWhat a wonderful display
+Dialogue: 0,0:07:24.60,0:07:25.81,Default,,0000,0000,0000,,of christian charity.
+Dialogue: 0,0:07:26.78,0:07:28.35,Default,,0000,0000,0000,,I just want to do my part.
+Dialogue: 0,0:07:29.98,0:07:32.88,Default,,0000,0000,0000,,{\pos(192,210)}Does this have anything to do\Nwith the plane crash?
+Dialogue: 0,0:07:34.23,0:07:35.84,Default,,0000,0000,0000,,{\pos(192,210)}In a manner of speaking.
+Dialogue: 0,0:07:37.04,0:07:38.53,Default,,0000,0000,0000,,Do you want to talk about it?
+Dialogue: 0,0:07:39.42,0:07:41.78,Default,,0000,0000,0000,,{\pos(192,210)}I can't. It would change\Nhow you feel about me.
+Dialogue: 0,0:07:42.04,0:07:45.24,Default,,0000,0000,0000,,{\pos(192,210)}I've known you for years.\NI don't think that's possible.
+Dialogue: 0,0:07:47.87,0:07:48.92,Default,,0000,0000,0000,,I had an affair.
+Dialogue: 0,0:07:50.97,0:07:52.19,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:07:54.50,0:07:56.93,Default,,0000,0000,0000,,{\pos(192,210)}Before you confess a sin that big,
+Dialogue: 0,0:07:57.53,0:07:59.43,Default,,0000,0000,0000,,Just try to wait\Ntill I've swallowed.
+Dialogue: 0,0:08:02.97,0:08:04.76,Default,,0000,0000,0000,,{\pos(192,210)}Who was the affair with?
+Dialogue: 0,0:08:06.30,0:08:07.48,Default,,0000,0000,0000,,Karl Mayer.
+Dialogue: 0,0:08:09.49,0:08:12.73,Default,,0000,0000,0000,,He was killed in the plane crash.\NThe same one that injured Orson.
+Dialogue: 0,0:08:13.15,0:08:15.53,Default,,0000,0000,0000,,{\pos(192,210)}You must feel terribly guilty\Nabout this.
+Dialogue: 0,0:08:16.22,0:08:18.42,Default,,0000,0000,0000,,I can't eat. I can't sleep.
+Dialogue: 0,0:08:19.52,0:08:21.98,Default,,0000,0000,0000,,That's why I wanted you\Nto come over here.
+Dialogue: 0,0:08:22.36,0:08:25.45,Default,,0000,0000,0000,,I have to do something\Nto make this right.
+Dialogue: 0,0:08:26.17,0:08:28.59,Default,,0000,0000,0000,,Seems to me the first step\Nis for you and Orson
+Dialogue: 0,0:08:28.76,0:08:31.00,Default,,0000,0000,0000,,to get into\Nour marriage outreach program.
+Dialogue: 0,0:08:31.17,0:08:33.90,Default,,0000,0000,0000,,It's too late for that.\NWe're about to get a divorce.
+Dialogue: 0,0:08:34.07,0:08:37.34,Default,,0000,0000,0000,,But this was before Orson\Nwas in a wheelchair, right?
+Dialogue: 0,0:08:37.96,0:08:38.97,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:08:39.76,0:08:42.93,Default,,0000,0000,0000,,I think you know what you need\Nto do to atone for this sin.
+Dialogue: 0,0:08:43.10,0:08:45.35,Default,,0000,0000,0000,,You knew it\Nbefore I walked in the door.
+Dialogue: 0,0:08:46.02,0:08:48.89,Default,,0000,0000,0000,,You want me to bring Orson home\Nand take care of him?
+Dialogue: 0,0:08:51.62,0:08:54.98,Default,,0000,0000,0000,,It's just that I'm not\Nsure that I love him anymore.
+Dialogue: 0,0:08:57.58,0:08:59.65,Default,,0000,0000,0000,,There's a quote I've always loved.
+Dialogue: 0,0:09:01.33,0:09:04.99,Default,,0000,0000,0000,,"You cannot make yourself feel\Nsomething that you do not feel,
+Dialogue: 0,0:09:05.47,0:09:08.96,Default,,0000,0000,0000,,"but you can make yourself\Ndo right in spite of your feelings."
+Dialogue: 0,0:09:10.11,0:09:13.33,Default,,0000,0000,0000,,- I don't remember that from the Bible.\N- It's from Pearl Buck.
+Dialogue: 0,0:09:13.50,0:09:15.13,Default,,0000,0000,0000,,I am allowed to read other books.
+Dialogue: 0,0:09:16.81,0:09:20.59,Default,,0000,0000,0000,,No matter what you feel about Orson,\Nif you don't help him now,
+Dialogue: 0,0:09:21.19,0:09:23.61,Default,,0000,0000,0000,,you won't be able\Nto live with yourself.
+Dialogue: 0,0:09:25.41,0:09:26.41,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:09:27.40,0:09:29.42,Default,,0000,0000,0000,,I'll tell Orson tomorrow,
+Dialogue: 0,0:09:29.95,0:09:31.39,Default,,0000,0000,0000,,and I'll bring him home.
+Dialogue: 0,0:09:32.08,0:09:33.08,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:09:34.77,0:09:36.44,Default,,0000,0000,0000,,I think you've had enough.
+Dialogue: 0,0:09:42.16,0:09:44.03,Default,,0000,0000,0000,,- Hold up.\N- Hey. What's going on?
+Dialogue: 0,0:09:44.57,0:09:47.95,Default,,0000,0000,0000,,Eddie's doing stand-up at\Nthe Chuckle Zone on open Mike Night.
+Dialogue: 0,0:09:48.88,0:09:49.88,Default,,0000,0000,0000,,Stand-up?
+Dialogue: 0,0:09:50.45,0:09:51.54,Default,,0000,0000,0000,,As in comedy?
+Dialogue: 0,0:09:51.79,0:09:53.79,Default,,0000,0000,0000,,People are always\Ntelling me how funny I am,
+Dialogue: 0,0:09:53.96,0:09:56.23,Default,,0000,0000,0000,,so I decided to give\Nthe people what they want.
+Dialogue: 0,0:09:56.40,0:09:58.77,Default,,0000,0000,0000,,Don't miss out. I got this\Nwhole riff about airline food.
+Dialogue: 0,0:09:58.94,0:10:00.01,Default,,0000,0000,0000,,It's gonna kill.
+Dialogue: 0,0:10:01.90,0:10:02.90,Default,,0000,0000,0000,,Hold up!
+Dialogue: 0,0:10:04.69,0:10:07.56,Default,,0000,0000,0000,,When they tell him he's funny,\Ndoesn't he realize they're being funny?
+Dialogue: 0,0:10:07.81,0:10:10.14,Default,,0000,0000,0000,,Tell me you're going.\NI can't be the only one there.
+Dialogue: 0,0:10:11.02,0:10:13.52,Default,,0000,0000,0000,,I'll try. I actually gotta pack.
+Dialogue: 0,0:10:14.12,0:10:17.36,Default,,0000,0000,0000,,My dad left me some money, so\NI'm going back east to see my cousins.
+Dialogue: 0,0:10:17.82,0:10:18.94,Default,,0000,0000,0000,,For how long?
+Dialogue: 0,0:10:20.36,0:10:22.71,Default,,0000,0000,0000,,Until they catch the guy\Nwho attacked me,
+Dialogue: 0,0:10:23.10,0:10:24.86,Default,,0000,0000,0000,,I just don't feel safe here.
+Dialogue: 0,0:10:26.12,0:10:27.45,Default,,0000,0000,0000,,I get that.
+Dialogue: 0,0:10:30.68,0:10:32.54,Default,,0000,0000,0000,,I've been wanting\Nto ask you something.
+Dialogue: 0,0:10:33.24,0:10:35.21,Default,,0000,0000,0000,,I heard you were in the hospital
+Dialogue: 0,0:10:35.47,0:10:37.47,Default,,0000,0000,0000,,because of an overdose.
+Dialogue: 0,0:10:40.00,0:10:42.20,Default,,0000,0000,0000,,You didn't do that because of...
+Dialogue: 0,0:10:44.96,0:10:46.96,Default,,0000,0000,0000,,I was dealing with a lot of stuff...
+Dialogue: 0,0:10:47.13,0:10:49.69,Default,,0000,0000,0000,,problems with my parents,\Nhaving to move again.
+Dialogue: 0,0:10:50.38,0:10:52.05,Default,,0000,0000,0000,,I got really lonely.
+Dialogue: 0,0:10:52.98,0:10:55.35,Default,,0000,0000,0000,,And I guess you were part of it.
+Dialogue: 0,0:10:58.12,0:10:59.31,Default,,0000,0000,0000,,I'm better now.
+Dialogue: 0,0:11:01.80,0:11:02.80,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:11:03.73,0:11:06.36,Default,,0000,0000,0000,,Life has its low points, and we\Njust have to deal with them.
+Dialogue: 0,0:11:07.90,0:11:09.33,Default,,0000,0000,0000,,Speaking of which,
+Dialogue: 0,0:11:10.04,0:11:11.58,Default,,0000,0000,0000,,how do we get out of this?
+Dialogue: 0,0:11:14.72,0:11:16.82,Default,,0000,0000,0000,,Your timing is impeccable,
+Dialogue: 0,0:11:17.51,0:11:20.88,Default,,0000,0000,0000,,because it just so happens that\Nwe have an opening right now.
+Dialogue: 0,0:11:21.29,0:11:23.45,Default,,0000,0000,0000,,Yes, we heard, and we're so excited.
+Dialogue: 0,0:11:23.62,0:11:26.02,Default,,0000,0000,0000,,Everyone know, thhis is\Nthe best private school in town.
+Dialogue: 0,0:11:26.19,0:11:29.16,Default,,0000,0000,0000,,It says here that you have been\Nhomeschooling Juanita.
+Dialogue: 0,0:11:29.84,0:11:31.44,Default,,0000,0000,0000,,How's that been going?
+Dialogue: 0,0:11:32.21,0:11:35.83,Default,,0000,0000,0000,,It's been so rewarding spending\Ntime with my little angel.
+Dialogue: 0,0:11:36.43,0:11:38.73,Default,,0000,0000,0000,,It breaks my heart to see it end.
+Dialogue: 0,0:11:38.99,0:11:41.86,Default,,0000,0000,0000,,Anyway, here's her lunch. It's\Nall packed. We'll pick her up at 4:00.
+Dialogue: 0,0:11:44.07,0:11:45.50,Default,,0000,0000,0000,,Wait, just a second.
+Dialogue: 0,0:11:45.67,0:11:49.16,Default,,0000,0000,0000,,There are a few other families\Non the waiting list before you.
+Dialogue: 0,0:11:51.44,0:11:54.59,Default,,0000,0000,0000,,- There are?\N- Yes, but Susan Delfino
+Dialogue: 0,0:11:54.76,0:11:57.12,Default,,0000,0000,0000,,gave you such\Na glowing recommendation.
+Dialogue: 0,0:11:57.90,0:11:59.50,Default,,0000,0000,0000,,And to be quite frank,
+Dialogue: 0,0:11:59.67,0:12:02.50,Default,,0000,0000,0000,,we could use a little more\Ndiversity in this school.
+Dialogue: 0,0:12:02.67,0:12:05.97,Default,,0000,0000,0000,,It's been quite a long time since we've\Nhad a little girl of Mexican descent.
+Dialogue: 0,0:12:07.74,0:12:09.94,Default,,0000,0000,0000,,We are very proud of our heritage...
+Dialogue: 0,0:12:10.11,0:12:13.02,Default,,0000,0000,0000,,but Juanita can stand on her own merits.\NShe's very bright.
+Dialogue: 0,0:12:13.27,0:12:16.31,Default,,0000,0000,0000,,And I know I'm biased, but I\Ndo think she's a budding young genius.
+Dialogue: 0,0:12:17.78,0:12:19.27,Default,,0000,0000,0000,,I'm Mexican?
+Dialogue: 0,0:12:23.71,0:12:26.82,Default,,0000,0000,0000,,- Honey, what did you just say?\N- He called me Mexican.
+Dialogue: 0,0:12:27.08,0:12:29.45,Default,,0000,0000,0000,,You are Mexican, honey.\NYou know that.
+Dialogue: 0,0:12:30.31,0:12:32.24,Default,,0000,0000,0000,,Since when?\NI thought we were American.
+Dialogue: 0,0:12:34.73,0:12:37.46,Default,,0000,0000,0000,,Yes, but our ancestors\Ncame from {\i1}Mexico.{\i0}
+Dialogue: 0,0:12:39.06,0:12:40.06,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:12:40.23,0:12:43.90,Default,,0000,0000,0000,,So we're like those people who\Nsell oranges on the side of the road?
+Dialogue: 0,0:12:45.83,0:12:49.09,Default,,0000,0000,0000,,- You're busy. We should go.\N- Thank you very much for your time.
+Dialogue: 0,0:12:49.51,0:12:52.81,Default,,0000,0000,0000,,And, again, we really want to join\Nyou and help with that diversity thing,
+Dialogue: 0,0:12:52.98,0:12:54.48,Default,,0000,0000,0000,,so just let us know.
+Dialogue: 0,0:12:56.92,0:12:59.17,Default,,0000,0000,0000,,{\i1}- Just say it.\N- I don't even know what that means.{\i0}
+Dialogue: 0,0:12:59.34,0:13:00.44,Default,,0000,0000,0000,,{\i1}Just say it!{\i0}
+Dialogue: 0,0:13:09.96,0:13:11.59,Default,,0000,0000,0000,,{\-------PUB---------}This is fine.\NThank you.
+Dialogue: 0,0:13:13.98,0:13:15.66,Default,,0000,0000,0000,,Thank you for agreeing to see me.
+Dialogue: 0,0:13:16.04,0:13:18.87,Default,,0000,0000,0000,,I called a few times,\Nbut you didn't pick up.
+Dialogue: 0,0:13:19.62,0:13:20.95,Default,,0000,0000,0000,,I had no idea.
+Dialogue: 0,0:13:21.44,0:13:24.63,Default,,0000,0000,0000,,My phone was in my pants pocket,\Nand I had it on vibrate.
+Dialogue: 0,0:13:24.89,0:13:27.61,Default,,0000,0000,0000,,{\pos(140,268)}And as you may have noticed, I...
+Dialogue: 0,0:13:29.76,0:13:31.55,Default,,0000,0000,0000,,{\pos(140,268)}So how's rehab?
+Dialogue: 0,0:13:32.09,0:13:33.09,Default,,0000,0000,0000,,{\pos(140,268)}Painful.
+Dialogue: 0,0:13:33.49,0:13:36.93,Default,,0000,0000,0000,,{\pos(125,268)}The doctor says with a lot of hard work,\Nyou maybe able to walk again someday.
+Dialogue: 0,0:13:37.19,0:13:39.76,Default,,0000,0000,0000,,Yes, they're very upbeat\Nand optimistic.
+Dialogue: 0,0:13:40.22,0:13:42.60,Default,,0000,0000,0000,,I want to run them over\Nwith this chair.
+Dialogue: 0,0:13:43.96,0:13:45.84,Default,,0000,0000,0000,,So...\NWhy are you here?
+Dialogue: 0,0:13:47.26,0:13:51.22,Default,,0000,0000,0000,,I know we've been through a lot, but\Nit would be best for you to come home
+Dialogue: 0,0:13:51.39,0:13:53.11,Default,,0000,0000,0000,,so I can take care of you.
+Dialogue: 0,0:13:56.13,0:13:58.95,Default,,0000,0000,0000,,I'd rather be cared for\Nby a flatulent helper monkey.
+Dialogue: 0,0:13:59.21,0:14:01.25,Default,,0000,0000,0000,,I know you're angry,\Nbut I'm still your wife.
+Dialogue: 0,0:14:01.51,0:14:04.12,Default,,0000,0000,0000,,Apparently we have different\Ndefinitions of the word "wife."
+Dialogue: 0,0:14:04.29,0:14:05.92,Default,,0000,0000,0000,,I am proceeding with the divorce.
+Dialogue: 0,0:14:06.43,0:14:09.51,Default,,0000,0000,0000,,I don't understand. Three weeks ago\Nyou were begging me for another chance.
+Dialogue: 0,0:14:09.77,0:14:13.40,Default,,0000,0000,0000,,- What happened?\N- Karl Mayer happened.
+Dialogue: 0,0:14:14.06,0:14:17.47,Default,,0000,0000,0000,,I could forgive you If you betrayed\Nme with anyone remotely admirable,
+Dialogue: 0,0:14:17.73,0:14:21.23,Default,,0000,0000,0000,,but you chose the most\Ncontemptible man I have ever known.
+Dialogue: 0,0:14:23.28,0:14:24.59,Default,,0000,0000,0000,,I do not need you.
+Dialogue: 0,0:14:36.91,0:14:40.49,Default,,0000,0000,0000,,I'm having a ramp built, and I've turned\Nthe downstairs study into your bedroom.
+Dialogue: 0,0:14:40.86,0:14:44.25,Default,,0000,0000,0000,,You're coming home where you belong,\Nand that's all there is to it.
+Dialogue: 0,0:14:44.42,0:14:47.58,Default,,0000,0000,0000,,You can start forgiving me,\Nand I'll start forgiving you.
+Dialogue: 0,0:14:52.56,0:14:54.76,Default,,0000,0000,0000,,I suggest you start first.
+Dialogue: 0,0:14:58.54,0:15:02.14,Default,,0000,0000,0000,,How could you not know you're Mexican?\NWe eat Mexican all the time.
+Dialogue: 0,0:15:02.60,0:15:05.23,Default,,0000,0000,0000,,We eat Chinese food, too.\NDoes that mean I'm Chinese?
+Dialogue: 0,0:15:05.49,0:15:07.52,Default,,0000,0000,0000,,No, that just means\Nyour mother hates to cook.
+Dialogue: 0,0:15:13.70,0:15:15.99,Default,,0000,0000,0000,,Apparently, we have to\Nspell everything out for you.
+Dialogue: 0,0:15:16.24,0:15:18.02,Default,,0000,0000,0000,,You do know you're a girl, right?
+Dialogue: 0,0:15:18.19,0:15:20.56,Default,,0000,0000,0000,,What? Half the women\Nin your family have mustaches.
+Dialogue: 0,0:15:20.73,0:15:22.54,Default,,0000,0000,0000,,It could be very confusing.
+Dialogue: 0,0:15:25.22,0:15:27.37,Default,,0000,0000,0000,,Juanita, go inside\Nand play with your sister.
+Dialogue: 0,0:15:28.33,0:15:30.84,Default,,0000,0000,0000,,And while you're at it,\Ntell her she's Mexican, too!
+Dialogue: 0,0:15:33.63,0:15:34.90,Default,,0000,0000,0000,,I can't believe it.
+Dialogue: 0,0:15:35.07,0:15:38.23,Default,,0000,0000,0000,,We had that school right in our hands.\NHow could we let it get away?
+Dialogue: 0,0:15:38.40,0:15:41.43,Default,,0000,0000,0000,,The bigger question is how did we let\Nour daughter thinking she's white?
+Dialogue: 0,0:16:02.41,0:16:05.83,Default,,0000,0000,0000,,Sorry I'm late. I had to pick up some\Nlumber to build that ramp for Orson.
+Dialogue: 0,0:16:06.00,0:16:08.11,Default,,0000,0000,0000,,What a good person you are.
+Dialogue: 0,0:16:08.63,0:16:10.59,Default,,0000,0000,0000,,I need to pay the paperboy tomorrow.
+Dialogue: 0,0:16:10.76,0:16:13.63,Default,,0000,0000,0000,,- Do you have any cash?\N- I think I have a $20 on me.
+Dialogue: 0,0:16:16.28,0:16:18.05,Default,,0000,0000,0000,,Wouldn't you rather...
+Dialogue: 0,0:16:18.59,0:16:19.89,Default,,0000,0000,0000,,Stick it in here?
+Dialogue: 0,0:16:20.88,0:16:23.31,Default,,0000,0000,0000,,Couldn't we leave it in the mailbox,\Nlike we usually do?
+Dialogue: 0,0:16:23.83,0:16:27.02,Default,,0000,0000,0000,,I just thought that's the\Nway you do it down at Double D's.
+Dialogue: 0,0:16:27.76,0:16:28.81,Default,,0000,0000,0000,,Double D's?
+Dialogue: 0,0:16:29.24,0:16:32.06,Default,,0000,0000,0000,,Turns out Karl was a part owner\Nand left me his share.
+Dialogue: 0,0:16:32.67,0:16:33.69,Default,,0000,0000,0000,,By the way,
+Dialogue: 0,0:16:34.51,0:16:36.36,Default,,0000,0000,0000,,"Destiny" says hello.
+Dialogue: 0,0:16:38.11,0:16:39.91,Default,,0000,0000,0000,,I see where you're going with this.
+Dialogue: 0,0:16:40.17,0:16:43.37,Default,,0000,0000,0000,,Do you, Mike Delfino?\NThat's what she calls you.
+Dialogue: 0,0:16:44.04,0:16:45.79,Default,,0000,0000,0000,,Because that's my name.
+Dialogue: 0,0:16:46.05,0:16:49.17,Default,,0000,0000,0000,,No one hanging from a pole\Nshould know your name.
+Dialogue: 0,0:16:49.34,0:16:51.25,Default,,0000,0000,0000,,That place is one of my accounts.
+Dialogue: 0,0:16:51.51,0:16:52.84,Default,,0000,0000,0000,,I'm their plumber.
+Dialogue: 0,0:16:53.10,0:16:56.77,Default,,0000,0000,0000,,And that's it? You go there just\Nto do the plumbing and nothing else?
+Dialogue: 0,0:16:57.58,0:17:00.38,Default,,0000,0000,0000,,Liar! Destiny said you had\Na beer there the other night.
+Dialogue: 0,0:17:02.21,0:17:04.98,Default,,0000,0000,0000,,Sometimes when I finish the job,\NI'll have a beer.
+Dialogue: 0,0:17:05.68,0:17:07.91,Default,,0000,0000,0000,,And you never look at the girls?
+Dialogue: 0,0:17:10.35,0:17:13.55,Default,,0000,0000,0000,,- It's completely innocent.\N- I don't buy that.
+Dialogue: 0,0:17:13.72,0:17:17.13,Default,,0000,0000,0000,,I want to see the "completely\Ninnocent" look you have
+Dialogue: 0,0:17:17.30,0:17:19.85,Default,,0000,0000,0000,,when Destiny shakes her tassels\Nin your face.
+Dialogue: 0,0:17:20.02,0:17:21.74,Default,,0000,0000,0000,,So I've gone to a strip club.
+Dialogue: 0,0:17:21.99,0:17:24.08,Default,,0000,0000,0000,,Are we gonna laugh about this,\Nor make it a thing?
+Dialogue: 0,0:17:24.62,0:17:26.45,Default,,0000,0000,0000,,I am leaning towards "thing."
+Dialogue: 0,0:17:26.81,0:17:28.70,Default,,0000,0000,0000,,Fine. If it bothers you that much,
+Dialogue: 0,0:17:28.87,0:17:31.47,Default,,0000,0000,0000,,next time I finish a job there,\NI'll come right home.
+Dialogue: 0,0:17:31.64,0:17:34.84,Default,,0000,0000,0000,,You don't have to worry, because\Nyou won't be working there anymore.
+Dialogue: 0,0:17:35.00,0:17:36.00,Default,,0000,0000,0000,,I forbid it.
+Dialogue: 0,0:17:38.02,0:17:39.21,Default,,0000,0000,0000,,You forbid it?
+Dialogue: 0,0:17:40.39,0:17:42.30,Default,,0000,0000,0000,,What kind of marriage is this?
+Dialogue: 0,0:17:42.97,0:17:45.98,Default,,0000,0000,0000,,The kind where the husband\Nwants to look at strippers
+Dialogue: 0,0:17:46.23,0:17:47.93,Default,,0000,0000,0000,,and the wife forbids it.
+Dialogue: 0,0:17:49.23,0:17:50.23,Default,,0000,0000,0000,,I love you.
+Dialogue: 0,0:17:50.63,0:17:53.43,Default,,0000,0000,0000,,I have never cheated on you\Nand I never will.
+Dialogue: 0,0:17:54.28,0:17:57.43,Default,,0000,0000,0000,,But you're not gonna tell me\Nwhat I can or can't do.
+Dialogue: 0,0:18:00.46,0:18:02.16,Default,,0000,0000,0000,,Let me get this straight...
+Dialogue: 0,0:18:03.22,0:18:05.62,Default,,0000,0000,0000,,You forbid Mike\Nfrom going to a strip club?
+Dialogue: 0,0:18:05.87,0:18:09.04,Default,,0000,0000,0000,,I know it was a little heavy-handed,\Nbut I just can't stand those places.
+Dialogue: 0,0:18:09.29,0:18:12.52,Default,,0000,0000,0000,,What's the big whoop? Carlos takes\Nclients to the strip club all the time.
+Dialogue: 0,0:18:12.69,0:18:14.01,Default,,0000,0000,0000,,I've been to one...
+Dialogue: 0,0:18:14.28,0:18:15.75,Default,,0000,0000,0000,,the Ass Menagerie.
+Dialogue: 0,0:18:16.75,0:18:19.53,Default,,0000,0000,0000,,It was my brother's bachelor party.\NThis stripper named Cinnamon
+Dialogue: 0,0:18:19.70,0:18:20.92,Default,,0000,0000,0000,,gave me a lap dance.
+Dialogue: 0,0:18:21.74,0:18:25.10,Default,,0000,0000,0000,,Luckily, if I squinted just enough,\Nshe looked like a young Ricky Schroder.
+Dialogue: 0,0:18:25.27,0:18:27.52,Default,,0000,0000,0000,,See, this is the reason\Nmen go to those places...
+Dialogue: 0,0:18:27.69,0:18:29.72,Default,,0000,0000,0000,,so they can fantasize.\NWe all do it.
+Dialogue: 0,0:18:29.98,0:18:32.35,Default,,0000,0000,0000,,You fantasize about other men\Nwhen you're with Carlos?
+Dialogue: 0,0:18:32.61,0:18:34.38,Default,,0000,0000,0000,,Carlos has been\Nso many different men,
+Dialogue: 0,0:18:34.55,0:18:36.86,Default,,0000,0000,0000,,I'm surprised when\NI open my eyes and it's Carlos.
+Dialogue: 0,0:18:38.33,0:18:40.48,Default,,0000,0000,0000,,Wanna know who I fantasize about?
+Dialogue: 0,0:18:40.71,0:18:43.03,Default,,0000,0000,0000,,Not necessarily.\NAnyone want more wine?
+Dialogue: 0,0:18:43.46,0:18:44.49,Default,,0000,0000,0000,,Tom Scavo.
+Dialogue: 0,0:18:45.12,0:18:46.12,Default,,0000,0000,0000,,Wine now.
+Dialogue: 0,0:18:46.80,0:18:48.28,Default,,0000,0000,0000,,4th of July barbecue.
+Dialogue: 0,0:18:48.54,0:18:49.87,Default,,0000,0000,0000,,Those tan shorts.
+Dialogue: 0,0:18:50.13,0:18:51.68,Default,,0000,0000,0000,,I am there right now.
+Dialogue: 0,0:18:53.64,0:18:55.96,Default,,0000,0000,0000,,Could we please get back\Nto the issue at hand?
+Dialogue: 0,0:18:56.64,0:18:59.46,Default,,0000,0000,0000,,Bottom line is you cannot\Nforbid a man to go to strip clubs.
+Dialogue: 0,0:18:59.63,0:19:01.82,Default,,0000,0000,0000,,Don't expect him to\Nunderstand why it bothers you.
+Dialogue: 0,0:19:01.99,0:19:04.09,Default,,0000,0000,0000,,That's just the way they are.\NRight?
+Dialogue: 0,0:19:06.51,0:19:09.09,Default,,0000,0000,0000,,Sorry. I was just imagining\NRicky Schroder...
+Dialogue: 0,0:19:09.26,0:19:11.36,Default,,0000,0000,0000,,wearing Tom Scavo's shorts.
+Dialogue: 0,0:19:17.83,0:19:19.99,Default,,0000,0000,0000,,{\---------PUB--------}Are you sure you want\Nto just give away your CDs?
+Dialogue: 0,0:19:20.16,0:19:22.27,Default,,0000,0000,0000,,The more you take,\Nthe less I have to pack.
+Dialogue: 0,0:19:22.44,0:19:24.47,Default,,0000,0000,0000,,In fact,\Nis there anything else you want?
+Dialogue: 0,0:19:24.64,0:19:25.72,Default,,0000,0000,0000,,Anything?
+Dialogue: 0,0:19:27.90,0:19:29.08,Default,,0000,0000,0000,,How about...
+Dialogue: 0,0:19:29.63,0:19:30.70,Default,,0000,0000,0000,,Danny Bolen?
+Dialogue: 0,0:19:31.24,0:19:32.99,Default,,0000,0000,0000,,He's not really mine to give.
+Dialogue: 0,0:19:33.16,0:19:35.00,Default,,0000,0000,0000,,Come on.\NHe's totally into you,
+Dialogue: 0,0:19:36.06,0:19:38.43,Default,,0000,0000,0000,,{\pos(130,268)}Which is a complete mystery to me.
+Dialogue: 0,0:19:38.94,0:19:41.32,Default,,0000,0000,0000,,{\pos(140,268)}You know what? I think\NI'm just gonna keep my CDs.
+Dialogue: 0,0:19:41.49,0:19:44.68,Default,,0000,0000,0000,,{\pos(140,268)}I didn't mean it like that.\NIt's just you don't seem interested,
+Dialogue: 0,0:19:44.93,0:19:47.38,Default,,0000,0000,0000,,{\pos(140,268)}and I have sent every signal\NI can think of.
+Dialogue: 0,0:19:47.64,0:19:50.89,Default,,0000,0000,0000,,{\pos(140,268)}- Why are you so hung up on Danny?\N- He's hot.
+Dialogue: 0,0:19:52.89,0:19:56.31,Default,,0000,0000,0000,,Here's the thing, Danny's\Nin kind of a fragile place right now.
+Dialogue: 0,0:19:56.58,0:19:58.44,Default,,0000,0000,0000,,He doesn't need\Nto get his heart broken.
+Dialogue: 0,0:19:58.70,0:20:01.58,Default,,0000,0000,0000,,I'm not gonna snag him\Njust to toss him aside.
+Dialogue: 0,0:20:02.00,0:20:03.28,Default,,0000,0000,0000,,I don't use people.
+Dialogue: 0,0:20:05.82,0:20:07.71,Default,,0000,0000,0000,,I used some people.
+Dialogue: 0,0:20:08.34,0:20:09.98,Default,,0000,0000,0000,,But I wouldn't use him.
+Dialogue: 0,0:20:12.62,0:20:13.68,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:20:14.62,0:20:17.00,Default,,0000,0000,0000,,I think we have a lot in common,\Nand if he'd just spend
+Dialogue: 0,0:20:17.17,0:20:19.59,Default,,0000,0000,0000,,a little time with me,\Nhe'd realize that.
+Dialogue: 0,0:20:22.93,0:20:24.25,Default,,0000,0000,0000,,You like stand-up comedy?
+Dialogue: 0,0:20:25.89,0:20:28.14,Default,,0000,0000,0000,,Too bad.\NWe're gonna go see Eddie.
+Dialogue: 0,0:20:35.39,0:20:36.64,Default,,0000,0000,0000,,Sorry I'm late.
+Dialogue: 0,0:20:37.40,0:20:39.27,Default,,0000,0000,0000,,- How was work?\N- Crazy.
+Dialogue: 0,0:20:40.42,0:20:42.70,Default,,0000,0000,0000,,I had three conference calls
+Dialogue: 0,0:20:42.87,0:20:45.67,Default,,0000,0000,0000,,and a 2-hour client\Nmeeting with Gary Danner.
+Dialogue: 0,0:20:45.99,0:20:48.63,Default,,0000,0000,0000,,- How was your day?\N- Even crazier.
+Dialogue: 0,0:20:48.80,0:20:51.12,Default,,0000,0000,0000,,I peed twice in every\Nbathroom in the house.
+Dialogue: 0,0:20:51.76,0:20:52.76,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:20:53.66,0:20:55.83,Default,,0000,0000,0000,,Little matching outfits\Nfor the twins
+Dialogue: 0,0:20:56.08,0:20:59.42,Default,,0000,0000,0000,,that people gave us.\NI thought I'd give them to charity.
+Dialogue: 0,0:21:00.78,0:21:02.83,Default,,0000,0000,0000,,I ran into the Petersons today.
+Dialogue: 0,0:21:03.30,0:21:05.84,Default,,0000,0000,0000,,They just heard, wanted\Nto see how you were.
+Dialogue: 0,0:21:08.43,0:21:10.12,Default,,0000,0000,0000,,So Gary Danner...
+Dialogue: 0,0:21:10.67,0:21:12.60,Default,,0000,0000,0000,,He's a prickly S.O.B.
+Dialogue: 0,0:21:14.66,0:21:16.01,Default,,0000,0000,0000,,Tell me about it.
+Dialogue: 0,0:21:16.17,0:21:18.31,Default,,0000,0000,0000,,Check out this proposal\NI worked up for him.
+Dialogue: 0,0:21:23.70,0:21:26.25,Default,,0000,0000,0000,,- What do you mean, "hmm"?\N- I'm glad you showed this to me.
+Dialogue: 0,0:21:26.42,0:21:29.66,Default,,0000,0000,0000,,I know Danner. And trust me,\Nyou do not want to go down this road.
+Dialogue: 0,0:21:29.91,0:21:32.20,Default,,0000,0000,0000,,- Why not?\N- Don't worry. I can fix it.
+Dialogue: 0,0:21:32.45,0:21:34.27,Default,,0000,0000,0000,,- Where's a pen?\N- Wait... Actually...
+Dialogue: 0,0:21:34.43,0:21:37.00,Default,,0000,0000,0000,,I showed it to Danner today.\NHe loved it.
+Dialogue: 0,0:21:37.93,0:21:39.25,Default,,0000,0000,0000,,Gary Danner liked this?
+Dialogue: 0,0:21:39.64,0:21:41.21,Default,,0000,0000,0000,,No, he loved it,
+Dialogue: 0,0:21:41.46,0:21:45.18,Default,,0000,0000,0000,,But not as much as Carlos. He told me\Nit was the best written proposal
+Dialogue: 0,0:21:45.34,0:21:47.22,Default,,0000,0000,0000,,he has ever seen, bar none.
+Dialogue: 0,0:21:48.65,0:21:51.26,Default,,0000,0000,0000,,- What's for dinner?\N- Meat loaf.
+Dialogue: 0,0:21:55.43,0:21:56.49,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:21:56.66,0:21:59.48,Default,,0000,0000,0000,,Nothing. It's... Well,\Nthat's quite a compliment.
+Dialogue: 0,0:22:00.94,0:22:03.32,Default,,0000,0000,0000,,Not to mention a bit of a slam\Non the work that I did.
+Dialogue: 0,0:22:03.57,0:22:05.49,Default,,0000,0000,0000,,Honey, he's just encouraging me.
+Dialogue: 0,0:22:05.66,0:22:08.56,Default,,0000,0000,0000,,I don't think he was\Nthinking about you at all.
+Dialogue: 0,0:22:09.91,0:22:12.28,Default,,0000,0000,0000,,By the way, this meat loaf...
+Dialogue: 0,0:22:12.54,0:22:14.44,Default,,0000,0000,0000,,The best I have ever tasted.
+Dialogue: 0,0:22:15.15,0:22:16.65,Default,,0000,0000,0000,,Bar none?\NJust eat.
+Dialogue: 0,0:22:25.95,0:22:27.80,Default,,0000,0000,0000,,It's coming along beautifully.
+Dialogue: 0,0:22:27.97,0:22:30.09,Default,,0000,0000,0000,,Thanks. So,\Nwhen's Orson coming home?
+Dialogue: 0,0:22:31.24,0:22:32.76,Default,,0000,0000,0000,,It's still a bit up in the air.
+Dialogue: 0,0:22:34.35,0:22:36.44,Default,,0000,0000,0000,,But I guess now would be\Na good time to call him
+Dialogue: 0,0:22:36.60,0:22:38.90,Default,,0000,0000,0000,,and let him know we're almost ready.
+Dialogue: 0,0:22:41.93,0:22:43.78,Default,,0000,0000,0000,,Orson Hodge's room, please.
+Dialogue: 0,0:22:44.90,0:22:47.35,Default,,0000,0000,0000,,Would you stop\Nhammering for a moment?
+Dialogue: 0,0:22:49.75,0:22:51.00,Default,,0000,0000,0000,,He checked out?
+Dialogue: 0,0:22:51.56,0:22:54.23,Default,,0000,0000,0000,,But that's impossible.\NWhere would he have gone?
+Dialogue: 0,0:22:54.40,0:22:56.62,Default,,0000,0000,0000,,- Mike, please.\N- It's not me.
+Dialogue: 0,0:23:01.37,0:23:03.47,Default,,0000,0000,0000,,Never mind. I think I found him.
+Dialogue: 0,0:23:07.15,0:23:09.82,Default,,0000,0000,0000,,Oh, boy. The fat's in the fire now.
+Dialogue: 0,0:23:11.19,0:23:12.43,Default,,0000,0000,0000,,What is going on here?
+Dialogue: 0,0:23:12.68,0:23:14.97,Default,,0000,0000,0000,,The husband you're\Ndivorcing has found new digs.
+Dialogue: 0,0:23:15.45,0:23:17.10,Default,,0000,0000,0000,,Before you jump down my throat...
+Dialogue: 0,0:23:17.50,0:23:19.24,Default,,0000,0000,0000,,Roy and I are on fixed incomes.
+Dialogue: 0,0:23:19.41,0:23:21.40,Default,,0000,0000,0000,,You can't blame us for\Ntaking in a boarder,
+Dialogue: 0,0:23:21.57,0:23:23.71,Default,,0000,0000,0000,,especially one who can't\Nget to the second story.
+Dialogue: 0,0:23:23.88,0:23:25.52,Default,,0000,0000,0000,,That's our naked floor.
+Dialogue: 0,0:23:33.54,0:23:34.91,Default,,0000,0000,0000,,What are you doing here?
+Dialogue: 0,0:23:36.31,0:23:37.86,Default,,0000,0000,0000,,Enjoying my new home.
+Dialogue: 0,0:23:38.49,0:23:40.00,Default,,0000,0000,0000,,It's rather quaint,
+Dialogue: 0,0:23:40.17,0:23:42.75,Default,,0000,0000,0000,,once you get used to the smell\Nof denture cream and scotch.
+Dialogue: 0,0:23:45.57,0:23:46.77,Default,,0000,0000,0000,,Don't mind me.
+Dialogue: 0,0:23:48.16,0:23:50.84,Default,,0000,0000,0000,,Just making sure you don't\Nslap a guy in a wheelchair.
+Dialogue: 0,0:23:52.24,0:23:54.72,Default,,0000,0000,0000,,So how are you planning\Nto pay your rent?
+Dialogue: 0,0:23:55.10,0:23:57.81,Default,,0000,0000,0000,,Well, I'm a bit cash-strapped\Nat the moment, but,
+Dialogue: 0,0:23:57.98,0:23:59.59,Default,,0000,0000,0000,,Karen knows I'm good for it.
+Dialogue: 0,0:23:59.76,0:24:03.06,Default,,0000,0000,0000,,Once he gets his divorce settlement,\Nhe's writing me a big, fat check.
+Dialogue: 0,0:24:03.88,0:24:06.84,Default,,0000,0000,0000,,So how long are we talking?\NA month, two?
+Dialogue: 0,0:24:07.36,0:24:10.69,Default,,0000,0000,0000,,There will be no divorce, and\Nif he tries to file for one,
+Dialogue: 0,0:24:10.86,0:24:13.34,Default,,0000,0000,0000,,there will be delays,\Nmotions and appeals.
+Dialogue: 0,0:24:13.50,0:24:16.40,Default,,0000,0000,0000,,It could take years for\Nhim to ever see a dime.
+Dialogue: 0,0:24:19.35,0:24:21.30,Default,,0000,0000,0000,,Your wife loves you. Go home.
+Dialogue: 0,0:24:23.50,0:24:25.55,Default,,0000,0000,0000,,Stop right now. Do you hear me?
+Dialogue: 0,0:24:28.72,0:24:30.87,Default,,0000,0000,0000,,So am I taking down the ramp?
+Dialogue: 0,0:24:31.15,0:24:32.15,Default,,0000,0000,0000,,Leave it.
+Dialogue: 0,0:24:32.72,0:24:34.57,Default,,0000,0000,0000,,You'll need it soon enough.
+Dialogue: 0,0:24:35.15,0:24:36.34,Default,,0000,0000,0000,,Almost home, dear.
+Dialogue: 0,0:24:36.50,0:24:39.70,Default,,0000,0000,0000,,Mike, call the police. My\Nwife is holding me hostage!
+Dialogue: 0,0:24:40.02,0:24:42.02,Default,,0000,0000,0000,,We've all been there, big guy.
+Dialogue: 0,0:24:48.67,0:24:50.93,Default,,0000,0000,0000,,{\--------PUB--------}{\pos(192,220)}I had an appointment with\Nmy O.B. around the corner,
+Dialogue: 0,0:24:51.10,0:24:53.27,Default,,0000,0000,0000,,{\pos(192,220)}and I just thought\NI'd stop by and say hi.
+Dialogue: 0,0:24:54.57,0:24:55.87,Default,,0000,0000,0000,,{\pos(192,220)}I also wanted to
+Dialogue: 0,0:24:56.15,0:24:58.15,Default,,0000,0000,0000,,{\pos(192,220)}thank you for being so nice to
+Dialogue: 0,0:24:58.52,0:25:00.37,Default,,0000,0000,0000,,Tom, our little temp.
+Dialogue: 0,0:25:00.73,0:25:02.45,Default,,0000,0000,0000,,- How's he doing?\N- He's amazing.
+Dialogue: 0,0:25:05.33,0:25:07.67,Default,,0000,0000,0000,,It's okay, Carlos.\NYou can tell me the truth.
+Dialogue: 0,0:25:08.31,0:25:11.30,Default,,0000,0000,0000,,He's knocking my socks off.\NEverybody is so impressed.
+Dialogue: 0,0:25:12.04,0:25:13.55,Default,,0000,0000,0000,,Well, good.
+Dialogue: 0,0:25:13.72,0:25:15.38,Default,,0000,0000,0000,,{\pos(140,268)}Good, good, good.
+Dialogue: 0,0:25:15.55,0:25:17.05,Default,,0000,0000,0000,,{\pos(140,268)}I'm so proud of him.
+Dialogue: 0,0:25:17.76,0:25:20.26,Default,,0000,0000,0000,,{\pos(140,268)}But when I drop this kid,\NTom's out on his ass, right?
+Dialogue: 0,0:25:21.26,0:25:22.85,Default,,0000,0000,0000,,{\pos(140,268)}- Excuse me?\N- I love him and
+Dialogue: 0,0:25:23.10,0:25:26.86,Default,,0000,0000,0000,,{\pos(140,268)}I'm glad he's doing well here,\Nbut this is my job.
+Dialogue: 0,0:25:27.02,0:25:29.56,Default,,0000,0000,0000,,At some point,\NI'm gonna want it back.
+Dialogue: 0,0:25:29.93,0:25:31.90,Default,,0000,0000,0000,,And I say that as the woman
+Dialogue: 0,0:25:32.15,0:25:35.45,Default,,0000,0000,0000,,who dove in front of a spinning\Npropeller to save your child's life.
+Dialogue: 0,0:25:38.18,0:25:40.03,Default,,0000,0000,0000,,Of course this is your job.
+Dialogue: 0,0:25:40.89,0:25:43.79,Default,,0000,0000,0000,,And you can have it\Nback any time you want.
+Dialogue: 0,0:25:45.18,0:25:46.79,Default,,0000,0000,0000,,Well, that's all I needed to hear.
+Dialogue: 0,0:25:47.93,0:25:49.84,Default,,0000,0000,0000,,It's just that I was\Nunder the impression
+Dialogue: 0,0:25:50.09,0:25:52.40,Default,,0000,0000,0000,,you were planning to stay\Nat home with your baby.
+Dialogue: 0,0:25:56.49,0:25:59.19,Default,,0000,0000,0000,,And why would you be\Nunder that impression?
+Dialogue: 0,0:26:00.64,0:26:01.89,Default,,0000,0000,0000,,That's what Tom said.
+Dialogue: 0,0:26:03.87,0:26:06.81,Default,,0000,0000,0000,,What exactly did tom say?
+Dialogue: 0,0:26:08.52,0:26:11.15,Default,,0000,0000,0000,,I really don't want to get\Nin the middle of this.
+Dialogue: 0,0:26:11.40,0:26:13.28,Default,,0000,0000,0000,,Carlos, I saved\Na member of your family.
+Dialogue: 0,0:26:13.45,0:26:15.78,Default,,0000,0000,0000,,It doesn't mean I can't\Ntake another one out.
+Dialogue: 0,0:26:18.24,0:26:21.79,Default,,0000,0000,0000,,And you can train a dog to do\Nalmost anything, but you can't do,
+Dialogue: 0,0:26:21.96,0:26:23.64,Default,,0000,0000,0000,,you can't do with cats and... cats.
+Dialogue: 0,0:26:23.81,0:26:27.12,Default,,0000,0000,0000,,And did you ever try to get a cat\Nto fetch? They're like, you know,
+Dialogue: 0,0:26:27.28,0:26:30.96,Default,,0000,0000,0000,,they won't do it.\NStupid cats. Am I right, people?
+Dialogue: 0,0:26:35.41,0:26:37.88,Default,,0000,0000,0000,,You guys have been great.\NGood night.
+Dialogue: 0,0:26:38.75,0:26:40.66,Default,,0000,0000,0000,,Give it up for Eddie Orlofsky
+Dialogue: 0,0:26:40.82,0:26:42.07,Default,,0000,0000,0000,,Come on, folks!
+Dialogue: 0,0:26:45.92,0:26:47.89,Default,,0000,0000,0000,,So, what do you think?
+Dialogue: 0,0:26:49.37,0:26:52.81,Default,,0000,0000,0000,,I never realized there were so many\Ndifferences between dogs and cats.
+Dialogue: 0,0:26:53.75,0:26:55.36,Default,,0000,0000,0000,,That's why I'm the comic, babe.
+Dialogue: 0,0:26:57.89,0:26:59.84,Default,,0000,0000,0000,,I'm off to get my free drink.
+Dialogue: 0,0:27:07.11,0:27:09.27,Default,,0000,0000,0000,,I left my jacket in\Nthe car. Walk me out?
+Dialogue: 0,0:27:09.44,0:27:11.59,Default,,0000,0000,0000,,Jacket? It's hot as hell in here.
+Dialogue: 0,0:27:14.76,0:27:16.21,Default,,0000,0000,0000,,Now I feel a chill.
+Dialogue: 0,0:27:26.33,0:27:27.97,Default,,0000,0000,0000,,I gotta use the bathroom.
+Dialogue: 0,0:27:29.79,0:27:31.52,Default,,0000,0000,0000,,Okay, what is your problem?
+Dialogue: 0,0:27:32.06,0:27:33.06,Default,,0000,0000,0000,,Excuse me?
+Dialogue: 0,0:27:33.46,0:27:36.41,Default,,0000,0000,0000,,Whenever we're alone together,\Nyou find some reason to bail.
+Dialogue: 0,0:27:36.58,0:27:38.03,Default,,0000,0000,0000,,Why aren't you into me?
+Dialogue: 0,0:27:39.15,0:27:41.85,Default,,0000,0000,0000,,Ana, there's not a lot\Nof room to be into you.
+Dialogue: 0,0:27:42.02,0:27:43.95,Default,,0000,0000,0000,,Because of how much you're into you.
+Dialogue: 0,0:27:44.76,0:27:46.58,Default,,0000,0000,0000,,You did not just call me conceited.
+Dialogue: 0,0:27:46.83,0:27:49.25,Default,,0000,0000,0000,,Chill. It's not like\NI asked you to spell it.
+Dialogue: 0,0:27:50.40,0:27:51.65,Default,,0000,0000,0000,,I'm not stupid,
+Dialogue: 0,0:27:51.81,0:27:54.67,Default,,0000,0000,0000,,and I am definitely not\Nthe attention whore at this table.
+Dialogue: 0,0:27:57.05,0:27:59.01,Default,,0000,0000,0000,,I heard about your little\Nstunt with the pills.
+Dialogue: 0,0:28:01.77,0:28:03.27,Default,,0000,0000,0000,,Okay, that was mean.
+Dialogue: 0,0:28:03.81,0:28:05.22,Default,,0000,0000,0000,,I'm sorry that I said that.
+Dialogue: 0,0:28:08.27,0:28:09.52,Default,,0000,0000,0000,,Don't be sorry.
+Dialogue: 0,0:28:09.68,0:28:10.68,Default,,0000,0000,0000,,You're right.
+Dialogue: 0,0:28:15.93,0:28:17.48,Default,,0000,0000,0000,,I like the blunt Ana
+Dialogue: 0,0:28:18.04,0:28:19.69,Default,,0000,0000,0000,,more than the cute Ana.
+Dialogue: 0,0:28:22.71,0:28:23.71,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:28:24.29,0:28:25.74,Default,,0000,0000,0000,,you think I'm cute?
+Dialogue: 0,0:28:32.64,0:28:34.54,Default,,0000,0000,0000,,You're home. Perfect timing.
+Dialogue: 0,0:28:34.78,0:28:38.59,Default,,0000,0000,0000,,- Margaritas. What's the occasion?\N- We're getting drunk, Mexican style.
+Dialogue: 0,0:28:38.76,0:28:40.71,Default,,0000,0000,0000,,Principal Hobson just called,
+Dialogue: 0,0:28:41.09,0:28:43.03,Default,,0000,0000,0000,,and Juanita got accepted\Nto Oakridge.
+Dialogue: 0,0:28:43.20,0:28:45.95,Default,,0000,0000,0000,,- Seriously?\N- I am free from homeschooling.
+Dialogue: 0,0:28:46.12,0:28:48.05,Default,,0000,0000,0000,,No more fighting, no more threats,
+Dialogue: 0,0:28:48.22,0:28:51.17,Default,,0000,0000,0000,,and no more parent-teacher\Nconferences with you.
+Dialogue: 0,0:28:56.15,0:28:59.15,Default,,0000,0000,0000,,- Come on. Start guzzlin'.\N- I don't think she should go.
+Dialogue: 0,0:29:07.37,0:29:09.12,Default,,0000,0000,0000,,I've been thinking about it all day.
+Dialogue: 0,0:29:09.28,0:29:12.04,Default,,0000,0000,0000,,- Let's keep her in public school.\N- We can't. She was expelled.
+Dialogue: 0,0:29:12.29,0:29:14.58,Default,,0000,0000,0000,,I made some calls.\NJefferson elementary can take her.
+Dialogue: 0,0:29:14.75,0:29:16.25,Default,,0000,0000,0000,,That's way out in my pleasant.
+Dialogue: 0,0:29:16.50,0:29:18.98,Default,,0000,0000,0000,,And there's a lot of Latino families\Nthat live in that area.
+Dialogue: 0,0:29:19.15,0:29:21.92,Default,,0000,0000,0000,,So what? We have a much better\Nschool right here in our backyard.
+Dialogue: 0,0:29:22.17,0:29:25.73,Default,,0000,0000,0000,,I'm not schlepping way over there\Njust so she can be with those people.
+Dialogue: 0,0:29:27.01,0:29:28.33,Default,,0000,0000,0000,,"Those" people?
+Dialogue: 0,0:29:28.91,0:29:30.72,Default,,0000,0000,0000,,Don't you mean "our" people?
+Dialogue: 0,0:29:31.23,0:29:34.68,Default,,0000,0000,0000,,Our people are\Nthe rich private school people.
+Dialogue: 0,0:29:35.40,0:29:38.15,Default,,0000,0000,0000,,Oh, my God. I know exactly\Nwhat is going on here.
+Dialogue: 0,0:29:38.64,0:29:41.82,Default,,0000,0000,0000,,- What?\N- You are ashamed of being Mexican.
+Dialogue: 0,0:29:42.32,0:29:44.65,Default,,0000,0000,0000,,- That's insane.\N- No, it totally makes sense.
+Dialogue: 0,0:29:44.82,0:29:46.36,Default,,0000,0000,0000,,All of our friends are white.
+Dialogue: 0,0:29:46.61,0:29:48.70,Default,,0000,0000,0000,,You didn't want me\Nto teach the girls Spanish.
+Dialogue: 0,0:29:48.87,0:29:52.16,Default,,0000,0000,0000,,Because I don't understand it, I didn't\Nwant you guys plotting behind my back.
+Dialogue: 0,0:29:52.41,0:29:54.49,Default,,0000,0000,0000,,When we bought this house\Nand I said we would be
+Dialogue: 0,0:29:54.66,0:29:56.74,Default,,0000,0000,0000,,the only Mexicans{\ in the neighborhood},\Nyou remember what you said?
+Dialogue: 0,0:29:56.90,0:29:59.02,Default,,0000,0000,0000,,- "Fine by me."\N- You're right. It's my fault.
+Dialogue: 0,0:29:59.18,0:30:02.09,Default,,0000,0000,0000,,I should have told the realtor,\N"Forget square footage and central air.
+Dialogue: 0,0:30:02.26,0:30:04.72,Default,,0000,0000,0000,,Find us something next\Ndoor to a Mariachi bar."
+Dialogue: 0,0:30:04.89,0:30:07.63,Default,,0000,0000,0000,,Deny it all you want.\NYou are a self-hating Mexican.
+Dialogue: 0,0:30:08.09,0:30:11.16,Default,,0000,0000,0000,,- Well, you're a self-wiping Mexican.\N- What does that mean?
+Dialogue: 0,0:30:21.92,0:30:23.69,Default,,0000,0000,0000,,{\--------PUB--------}Traffic was insane.
+Dialogue: 0,0:30:25.26,0:30:27.78,Default,,0000,0000,0000,,Is there any dinner left?\NI haven't eaten since lunch.
+Dialogue: 0,0:30:31.30,0:30:34.15,Default,,0000,0000,0000,,- Everything okay?\N- I talked to Carlos today.
+Dialogue: 0,0:30:35.35,0:30:36.37,Default,,0000,0000,0000,,{\pos(140,268)}About what?
+Dialogue: 0,0:30:37.20,0:30:40.05,Default,,0000,0000,0000,,{\pos(140,268)}He was under the impression\Nthat when I have this baby,
+Dialogue: 0,0:30:40.22,0:30:42.22,Default,,0000,0000,0000,,{\pos(140,268)}I'll be staying home with her.
+Dialogue: 0,0:30:43.50,0:30:45.92,Default,,0000,0000,0000,,{\pos(140,268)}Where would he get a\Ncrazy idea like that?
+Dialogue: 0,0:30:47.43,0:30:48.55,Default,,0000,0000,0000,,I told him.
+Dialogue: 0,0:30:50.13,0:30:51.55,Default,,0000,0000,0000,,You're not even denying it?
+Dialogue: 0,0:30:51.80,0:30:54.35,Default,,0000,0000,0000,,I thought it might be\Nin your best interest.
+Dialogue: 0,0:30:54.96,0:30:55.96,Default,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:30:56.86,0:30:59.64,Default,,0000,0000,0000,,You know how much\Nthat job means to me.
+Dialogue: 0,0:31:00.11,0:31:03.35,Default,,0000,0000,0000,,You know how much I hate\Nbeing a stay-at-home Mom.
+Dialogue: 0,0:31:03.52,0:31:05.57,Default,,0000,0000,0000,,How could you think\NI'd be okay with this?
+Dialogue: 0,0:31:06.07,0:31:08.34,Default,,0000,0000,0000,,Because we lost a baby.
+Dialogue: 0,0:31:14.80,0:31:17.37,Default,,0000,0000,0000,,Honey, I thought you might want\Nto stay home with this one,
+Dialogue: 0,0:31:18.59,0:31:21.50,Default,,0000,0000,0000,,because she's all the more precious,\Ngiven what happened.
+Dialogue: 0,0:31:24.32,0:31:26.25,Default,,0000,0000,0000,,So that's how I'm supposed to feel.
+Dialogue: 0,0:31:27.32,0:31:31.18,Default,,0000,0000,0000,,I don't know how you feel Lynette,\Nbecause you never talk about it.
+Dialogue: 0,0:31:31.86,0:31:34.54,Default,,0000,0000,0000,,It's been a month.\NEvery time I try to bring it up,
+Dialogue: 0,0:31:34.70,0:31:37.10,Default,,0000,0000,0000,,- you change the subject.\N- Because I'm dealing with it.
+Dialogue: 0,0:31:37.35,0:31:39.35,Default,,0000,0000,0000,,Shouldn't we\Nbe dealing with it together?
+Dialogue: 0,0:31:39.60,0:31:41.12,Default,,0000,0000,0000,,You want to talk about this?
+Dialogue: 0,0:31:41.28,0:31:43.64,Default,,0000,0000,0000,,Fine! We lost a kid,\Nwe'll never meet him.
+Dialogue: 0,0:31:43.81,0:31:45.97,Default,,0000,0000,0000,,We'll spend the rest of\Nour lives looking at one,
+Dialogue: 0,0:31:46.13,0:31:47.96,Default,,0000,0000,0000,,always wondering\Nwhy there aren't two.
+Dialogue: 0,0:31:48.13,0:31:50.68,Default,,0000,0000,0000,,How can saying this\Nout loud be helpful?
+Dialogue: 0,0:31:56.91,0:31:58.56,Default,,0000,0000,0000,,You're right. It's not.
+Dialogue: 0,0:32:02.43,0:32:03.43,Default,,0000,0000,0000,,You win.
+Dialogue: 0,0:32:05.14,0:32:06.84,Default,,0000,0000,0000,,After you have the baby,
+Dialogue: 0,0:32:07.36,0:32:08.63,Default,,0000,0000,0000,,go back to your job.
+Dialogue: 0,0:32:11.25,0:32:12.25,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:32:17.73,0:32:19.88,Default,,0000,0000,0000,,You want me to fix you something?
+Dialogue: 0,0:32:21.44,0:32:22.98,Default,,0000,0000,0000,,I'm not hungry anymore.
+Dialogue: 0,0:32:29.67,0:32:32.82,Default,,0000,0000,0000,,{\i1}Now remember, fellas,\Nthese ladies don't work for free.{\i0}
+Dialogue: 0,0:32:39.74,0:32:40.91,Default,,0000,0000,0000,,Long time no see.
+Dialogue: 0,0:32:41.16,0:32:43.32,Default,,0000,0000,0000,,I got the call about\Nyour John being backed up.
+Dialogue: 0,0:32:43.49,0:32:46.04,Default,,0000,0000,0000,,What? No, our bathrooms\Nare working just fine.
+Dialogue: 0,0:32:46.46,0:32:49.17,Default,,0000,0000,0000,,That's weird. Some woman called\Nand said it was an emergency.
+Dialogue: 0,0:32:51.13,0:32:53.63,Default,,0000,0000,0000,,I'm sorry, man.\NI don't know what to tell you.
+Dialogue: 0,0:32:53.80,0:32:56.35,Default,,0000,0000,0000,,{\i1}All right, it's time to introduce{\i0}
+Dialogue: 0,0:32:56.52,0:32:58.60,Default,,0000,0000,0000,,{\i1}our newest double D doll...{\i0}
+Dialogue: 0,0:32:58.96,0:33:00.41,Default,,0000,0000,0000,,{\i1}Miss Fix-it!{\i0}
+Dialogue: 0,0:33:10.15,0:33:11.35,Default,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:33:20.01,0:33:22.75,Default,,0000,0000,0000,,- What are you doing here?\N- What the hell are you doing?
+Dialogue: 0,0:33:24.43,0:33:26.85,Default,,0000,0000,0000,,Well, since I'm one of the owners,
+Dialogue: 0,0:33:27.34,0:33:29.92,Default,,0000,0000,0000,,I figured I should\Nreally learn the business,
+Dialogue: 0,0:33:30.36,0:33:32.02,Default,,0000,0000,0000,,from my bottom up.
+Dialogue: 0,0:33:33.26,0:33:36.01,Default,,0000,0000,0000,,You mind?\NI'm trying to make a deposit here.
+Dialogue: 0,0:33:38.47,0:33:40.57,Default,,0000,0000,0000,,Will you come down\Nfrom there right now?
+Dialogue: 0,0:33:40.73,0:33:42.53,Default,,0000,0000,0000,,Why? They're just looking.
+Dialogue: 0,0:33:42.70,0:33:44.85,Default,,0000,0000,0000,,It's completely innocent. Right?
+Dialogue: 0,0:33:48.23,0:33:51.50,Default,,0000,0000,0000,,Hey, pal. Sit down. I didn't come here\Nto see the back of your head.
+Dialogue: 0,0:33:52.61,0:33:53.78,Default,,0000,0000,0000,,This is not funny.
+Dialogue: 0,0:33:54.89,0:33:57.95,Default,,0000,0000,0000,,I can't talk. I've got a room full\Nof Neanderthals to entertain.
+Dialogue: 0,0:34:03.69,0:34:07.14,Default,,0000,0000,0000,,- What are you doing?\N- Just giving people what they want.
+Dialogue: 0,0:34:09.50,0:34:13.38,Default,,0000,0000,0000,,Don't you dare. Susan, I'm serious.\NI want you off of that stage right now.
+Dialogue: 0,0:34:13.99,0:34:16.34,Default,,0000,0000,0000,,Wait. Are you forbidding\Nme from doing something?
+Dialogue: 0,0:34:17.97,0:34:20.09,Default,,0000,0000,0000,,I thought we didn't have\Nthat kind of marriage.
+Dialogue: 0,0:34:20.26,0:34:23.10,Default,,0000,0000,0000,,Very cute. If I have to, I will\Ncarry you out of here myself.
+Dialogue: 0,0:34:24.60,0:34:26.80,Default,,0000,0000,0000,,What exactly is the problem, Mike?
+Dialogue: 0,0:34:35.55,0:34:37.82,Default,,0000,0000,0000,,Okay. I get it. I will never...
+Dialogue: 0,0:34:38.07,0:34:39.32,Default,,0000,0000,0000,,come back here.
+Dialogue: 0,0:34:45.41,0:34:47.26,Default,,0000,0000,0000,,Let's go home, Mrs. Fix-it.
+Dialogue: 0,0:34:48.81,0:34:50.66,Default,,0000,0000,0000,,Wait. Wait. Forgot my tips!
+Dialogue: 0,0:35:24.75,0:35:26.45,Default,,0000,0000,0000,,{\--------PUB--------}What are you looking at?
+Dialogue: 0,0:35:26.78,0:35:29.30,Default,,0000,0000,0000,,Nothing. Just some old photos.
+Dialogue: 0,0:35:31.65,0:35:33.55,Default,,0000,0000,0000,,I didn't know you had these.
+Dialogue: 0,0:35:34.37,0:35:35.97,Default,,0000,0000,0000,,We couldn't afford frames,
+Dialogue: 0,0:35:36.13,0:35:39.08,Default,,0000,0000,0000,,so my dad would put these\Non the wall with tape.
+Dialogue: 0,0:35:41.33,0:35:42.43,Default,,0000,0000,0000,,Is that you?
+Dialogue: 0,0:35:44.21,0:35:45.41,Default,,0000,0000,0000,,I was about 5.
+Dialogue: 0,0:35:46.43,0:35:47.53,Default,,0000,0000,0000,,You're cute.
+Dialogue: 0,0:35:47.94,0:35:50.34,Default,,0000,0000,0000,,But that toolshed's\Nseen better days.
+Dialogue: 0,0:35:51.84,0:35:53.29,Default,,0000,0000,0000,,That was our house.
+Dialogue: 0,0:36:01.43,0:36:02.48,Default,,0000,0000,0000,,It's funny.
+Dialogue: 0,0:36:02.85,0:36:05.03,Default,,0000,0000,0000,,I'm smiling in all of\Nthese photos, but...
+Dialogue: 0,0:36:07.27,0:36:08.67,Default,,0000,0000,0000,,I hated that town.
+Dialogue: 0,0:36:10.49,0:36:13.29,Default,,0000,0000,0000,,Everybody was so poor.\NEverybody was Mexican.
+Dialogue: 0,0:36:16.14,0:36:18.94,Default,,0000,0000,0000,,Back then I thought\Nthey were the same thing.
+Dialogue: 0,0:36:20.69,0:36:24.29,Default,,0000,0000,0000,,And even though I was only 5,\NI knew I wanted out.
+Dialogue: 0,0:36:27.95,0:36:30.06,Default,,0000,0000,0000,,And you can call it\Nself-loathing, Carlos, but,
+Dialogue: 0,0:36:31.21,0:36:32.21,Default,,0000,0000,0000,,I just...
+Dialogue: 0,0:36:32.50,0:36:35.55,Default,,0000,0000,0000,,don't want my kids to ever\Nknow I lived like that.
+Dialogue: 0,0:36:40.82,0:36:42.12,Default,,0000,0000,0000,,That's your dad.
+Dialogue: 0,0:36:46.22,0:36:47.57,Default,,0000,0000,0000,,He was so strong.
+Dialogue: 0,0:36:48.97,0:36:51.13,Default,,0000,0000,0000,,I would run to meet him\Nwhen he'd come home
+Dialogue: 0,0:36:51.30,0:36:54.45,Default,,0000,0000,0000,,from working in the factories,\Nand he'd lift me up on his shoulders.
+Dialogue: 0,0:36:56.33,0:36:57.48,Default,,0000,0000,0000,,I loved that.
+Dialogue: 0,0:36:58.55,0:36:59.95,Default,,0000,0000,0000,,I bet he did, too.
+Dialogue: 0,0:37:02.80,0:37:05.90,Default,,0000,0000,0000,,I used to ask him, "Papa,\Nwhy do you work so much?"
+Dialogue: 0,0:37:07.29,0:37:09.11,Default,,0000,0000,0000,,And he would say, "so one day
+Dialogue: 0,0:37:09.27,0:37:11.47,Default,,0000,0000,0000,,we can live in a beautiful house."
+Dialogue: 0,0:37:14.97,0:37:16.32,Default,,0000,0000,0000,,But we never did.
+Dialogue: 0,0:37:21.06,0:37:22.31,Default,,0000,0000,0000,,But you do now.
+Dialogue: 0,0:37:26.52,0:37:28.47,Default,,0000,0000,0000,,Your father had dreams, Gaby,
+Dialogue: 0,0:37:28.86,0:37:32.56,Default,,0000,0000,0000,,but they were for you, and\Nhe sacrificed a lot to get you here.
+Dialogue: 0,0:37:36.71,0:37:39.16,Default,,0000,0000,0000,,Whatever our children\Nachieve in life,
+Dialogue: 0,0:37:40.12,0:37:42.06,Default,,0000,0000,0000,,it's because of dreams that started
+Dialogue: 0,0:37:42.23,0:37:45.23,Default,,0000,0000,0000,,on the shoulders of a\Nproud, strong, Mexican man.
+Dialogue: 0,0:37:47.40,0:37:50.80,Default,,0000,0000,0000,,That is why I want our kids\Nto know where they came from.
+Dialogue: 0,0:37:55.29,0:37:56.64,Default,,0000,0000,0000,,I want that, too.
+Dialogue: 0,0:38:10.30,0:38:11.30,Default,,0000,0000,0000,,So...
+Dialogue: 0,0:38:12.02,0:38:14.41,Default,,0000,0000,0000,,How do your physical\Ntherapists think you're doing?
+Dialogue: 0,0:38:18.56,0:38:20.46,Default,,0000,0000,0000,,Do they think\Nyou're making progress?
+Dialogue: 0,0:38:28.66,0:38:32.14,Default,,0000,0000,0000,,Orson, it's been three days. You're\Ngonna have to talk to me sometime.
+Dialogue: 0,0:38:33.75,0:38:35.68,Default,,0000,0000,0000,,I know why you're doing this, Bree.
+Dialogue: 0,0:38:37.23,0:38:40.40,Default,,0000,0000,0000,,Reverend Sykes stopped by\Nto check on my progress.
+Dialogue: 0,0:38:40.65,0:38:42.78,Default,,0000,0000,0000,,He was very proud of himself
+Dialogue: 0,0:38:42.95,0:38:45.95,Default,,0000,0000,0000,,for convincing you to\Ntake me on as charity work.
+Dialogue: 0,0:38:46.72,0:38:48.32,Default,,0000,0000,0000,,It's not charity work.
+Dialogue: 0,0:38:49.39,0:38:51.61,Default,,0000,0000,0000,,When I had that affair,\NI didn't just betray you.
+Dialogue: 0,0:38:51.78,0:38:53.20,Default,,0000,0000,0000,,I betrayed my faith as well.
+Dialogue: 0,0:38:54.28,0:38:57.46,Default,,0000,0000,0000,,So please, you have to let me\Nhelp you or I am...
+Dialogue: 0,0:38:57.71,0:38:59.58,Default,,0000,0000,0000,,Or you won't get into heaven?
+Dialogue: 0,0:39:02.88,0:39:04.92,Default,,0000,0000,0000,,Didn't realize how\Nmuch this means to you.
+Dialogue: 0,0:39:07.73,0:39:10.13,Default,,0000,0000,0000,,I guess I can find\Na way to be happy.
+Dialogue: 0,0:39:11.20,0:39:12.95,Default,,0000,0000,0000,,Thank you so much, Orson.
+Dialogue: 0,0:39:13.82,0:39:16.27,Default,,0000,0000,0000,,I am gonna take\Nsuch good care of you.
+Dialogue: 0,0:39:20.65,0:39:22.44,Default,,0000,0000,0000,,By the way, my soup is cold.
+Dialogue: 0,0:39:24.27,0:39:25.27,Default,,0000,0000,0000,,Well,
+Dialogue: 0,0:39:25.67,0:39:26.86,Default,,0000,0000,0000,,mine is hot.
+Dialogue: 0,0:39:28.12,0:39:29.52,Default,,0000,0000,0000,,You can have this.
+Dialogue: 0,0:39:38.10,0:39:40.29,Default,,0000,0000,0000,,While you're up, could you\Nget me a glass of wine?
+Dialogue: 0,0:39:41.81,0:39:43.24,Default,,0000,0000,0000,,Yes, of course.
+Dialogue: 0,0:39:44.20,0:39:45.90,Default,,0000,0000,0000,,And perhaps for dessert,
+Dialogue: 0,0:39:46.29,0:39:48.59,Default,,0000,0000,0000,,some of your delicious Crème brûlée.
+Dialogue: 0,0:39:49.08,0:39:51.18,Default,,0000,0000,0000,,Orson, that takes over\Nan hour to prepare...
+Dialogue: 0,0:39:51.84,0:39:54.04,Default,,0000,0000,0000,,Well, I would do it myself, but...
+Dialogue: 0,0:40:04.52,0:40:06.57,Default,,0000,0000,0000,,And we're out of vanilla beans.
+Dialogue: 0,0:40:07.63,0:40:09.88,Default,,0000,0000,0000,,You might have to run to the store.
+Dialogue: 0,0:40:31.61,0:40:33.15,Default,,0000,0000,0000,,{\i1}The act itself{\i0}
+Dialogue: 0,0:40:33.32,0:40:34.82,Default,,0000,0000,0000,,{\i1}is quite simple...{\i0}
+Dialogue: 0,0:40:35.51,0:40:37.76,Default,,0000,0000,0000,,{\i1}You strip away the outer layer{\i0}
+Dialogue: 0,0:40:37.99,0:40:40.42,Default,,0000,0000,0000,,{\i1}and reveal what's underneath.{\i0}
+Dialogue: 0,0:40:41.52,0:40:42.61,Default,,0000,0000,0000,,{\i1}Of course,{\i0}
+Dialogue: 0,0:40:42.78,0:40:46.55,Default,,0000,0000,0000,,{\i1}sometimes the results\Ncan be quite surprising.{\i0}
+Dialogue: 0,0:40:48.60,0:40:52.02,Default,,0000,0000,0000,,{\i1}If you strip away the veneer\Nof happy domesticity,{\i0}
+Dialogue: 0,0:40:52.66,0:40:54.69,Default,,0000,0000,0000,,{\i1}you may find grief.{\i0}
+Dialogue: 0,0:40:56.72,0:40:59.41,Default,,0000,0000,0000,,{\i1}If you strip away\Nthat facade of wealth,{\i0}
+Dialogue: 0,0:41:00.34,0:41:02.61,Default,,0000,0000,0000,,{\i1}you may find self-loathing.{\i0}
+Dialogue: 0,0:41:04.58,0:41:08.42,Default,,0000,0000,0000,,{\i1}If you strip away\Nthe veil of helplessness,{\i0}
+Dialogue: 0,0:41:09.54,0:41:12.11,Default,,0000,0000,0000,,{\i1}you may find cruelty.{\i0}
+Dialogue: 0,0:41:14.83,0:41:16.70,Default,,0000,0000,0000,,{\i1}Yes, stripping{\i0}
+Dialogue: 0,0:41:16.87,0:41:18.96,Default,,0000,0000,0000,,{\i1}can be a dangerous pastime.{\i0}
+Dialogue: 0,0:41:20.98,0:41:23.03,Default,,0000,0000,0000,,{\i1}But for a lucky few,{\i0}
+Dialogue: 0,0:41:23.54,0:41:25.00,Default,,0000,0000,0000,,{\i1}it can also be...{\i0}
+Dialogue: 0,0:41:25.98,0:41:27.92,Default,,0000,0000,0000,,{\i1}a lot of fun.{\i0}

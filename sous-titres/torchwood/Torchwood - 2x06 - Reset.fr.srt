@@ -1,0 +1,3519 @@
+1
+00:00:02,300 --> 00:00:03,300
+<i>Torchwood.</i>
+
+2
+00:00:04,345 --> 00:00:06,900
+<i>Au delà du gouvernement et de la police.</i>
+
+3
+00:00:07,200 --> 00:00:10,200
+<i>Ils se battent pour
+le futur de l'humanité.</i>
+
+4
+00:00:11,300 --> 00:00:14,000
+<i>C'est au 21ème siècle que tout bascule.</i>
+
+5
+00:00:14,500 --> 00:00:16,800
+<i>Et Torchwood est prêt.</i>
+
+6
+00:01:24,200 --> 00:01:25,300
+Il est mort.
+
+7
+00:01:33,100 --> 00:01:36,300
+Désolé, on ferme.
+
+8
+00:01:38,261 --> 00:01:39,700
+Excusez-moi, madame.
+
+9
+00:01:45,600 --> 00:01:49,599
+Les papiers trouvés sur la victime
+indiquent Meredith Roberts.
+
+10
+00:01:49,600 --> 00:01:50,999
+<i>Pas de signes de violence.</i>
+
+11
+00:01:51,000 --> 00:01:52,499
+Ça n'était pas les weevils ?
+
+12
+00:01:52,500 --> 00:01:54,499
+Laissez-moi une chance, Mlle Cooper.
+Je viens de commencer.
+
+13
+00:01:54,500 --> 00:01:56,700
+<i>Jack, ton visiteur VIP est là.</i>
+
+14
+00:01:58,100 --> 00:02:00,000
+Je ne savais pas
+qu'on recevait de la visite.
+
+15
+00:02:00,200 --> 00:02:02,999
+Dans une morgue souterraine,
+en une pluvieuse nuit à Cardiff,
+
+16
+00:02:03,000 --> 00:02:05,100
+j'entends le chant d'un rossignol.
+
+17
+00:02:09,108 --> 00:02:11,300
+<i>Mlle Martha Jones.</i>
+
+18
+00:02:15,437 --> 00:02:17,409
+Torchwood - 2x06
+Reset
+
+19
+00:02:17,543 --> 00:02:19,646
+Traduction par Plumedephenix
+
+20
+00:02:19,702 --> 00:02:21,872
+Resynchro par Byakko & LauCass
+Relecture par Cybelia
+
+21
+00:02:22,055 --> 00:02:24,982
+~ Harkness Team ~
+~ www.seriessub.com ~
+
+22
+00:02:25,300 --> 00:02:27,500
+C'est bon de te voir, Jack.
+
+23
+00:02:29,100 --> 00:02:34,200
+Toshiko, Owen, Gwen, Ianto.
+
+24
+00:02:34,300 --> 00:02:35,800
+Voici Martha.
+
+25
+00:02:36,200 --> 00:02:37,799
+Une visite de courtoisie ou... ?
+
+26
+00:02:37,800 --> 00:02:39,700
+Je viens compléter
+le rapport d'autopsie.
+
+27
+00:02:40,376 --> 00:02:42,200
+Le Dr Jones travaille pour UNIT.
+
+28
+00:02:42,400 --> 00:02:45,199
+Désolée, je confonds tout.
+
+29
+00:02:45,200 --> 00:02:46,499
+Lequel est UNIT ?
+
+30
+00:02:46,500 --> 00:02:48,999
+Intelligence, militaire,
+de mignons bonnets rouges.
+
+31
+00:02:49,000 --> 00:02:52,799
+La face acceptable de l'étude
+de l'intelligence extra-terrestre.
+
+32
+00:02:52,919 --> 00:02:54,599
+On est plus spécialisés.
+
+33
+00:02:54,719 --> 00:02:56,000
+<i>Mais plus beaux.</i>
+
+34
+00:02:56,200 --> 00:02:59,899
+J'ai trouvé un motif récurrent dans
+la base de données de morts soudaines.
+
+35
+00:02:59,900 --> 00:03:01,699
+Choc toxique.
+Rien ne relie les victimes.
+
+36
+00:03:01,700 --> 00:03:05,699
+Ages, sexes, origines ethniques
+et occupations différents.
+
+37
+00:03:05,700 --> 00:03:09,399
+Mais il y en a une concentration
+statistique au sud du Pays de Galles.
+
+38
+00:03:09,400 --> 00:03:12,799
+Allez, Martha. Avoue. Tu as fait
+tout ce chemin juste pour me voir.
+
+39
+00:03:12,800 --> 00:03:15,300
+Tu luttes toujours contre ta timidité ?
+
+40
+00:03:16,900 --> 00:03:20,099
+Alors, ce motif, Dr Jones ?
+
+41
+00:03:20,100 --> 00:03:23,700
+Ils sont rapportés comme
+suicides ou accidents.
+
+42
+00:03:25,300 --> 00:03:26,200
+Regarde.
+
+43
+00:03:27,984 --> 00:03:29,500
+<i>Une marque de ponction.</i>
+
+44
+00:03:29,600 --> 00:03:30,899
+Aiguille hypodermique.
+
+45
+00:03:30,900 --> 00:03:34,299
+Tu trouveras de l'ammonium
+hydroxyde dans son sang.
+
+46
+00:03:34,300 --> 00:03:36,399
+Oui, son sang. J'allais m'en occuper.
+
+47
+00:03:36,400 --> 00:03:37,900
+Tu as regardé son dossier médical ?
+
+48
+00:03:38,200 --> 00:03:40,299
+- Non, j'allais le faire.
+- Perdons pas de temps.
+
+49
+00:03:40,300 --> 00:03:43,000
+On ne sait jamais, Owen,
+tu pourrais apprendre quelque chose.
+
+50
+00:03:46,000 --> 00:03:49,400
+Meredith Roberts, 45 ans.
+
+51
+00:03:49,800 --> 00:03:52,799
+Le système de santé public a subi
+une grosse panne informatique.
+
+52
+00:03:52,800 --> 00:03:54,699
+Beaucoup de fichiers ont été effacés.
+
+53
+00:03:54,700 --> 00:03:58,199
+Y compris toutes les victimes
+que j'ai repérées.
+
+54
+00:03:58,200 --> 00:03:59,799
+<i>Et la vôtre aussi.</i>
+
+55
+00:03:59,800 --> 00:04:01,899
+<i>Une panne info n'aurait pas
+effacé des données si clairement.</i>
+
+56
+00:04:01,900 --> 00:04:04,799
+C'est délibéré. Je vais voir ça.
+
+57
+00:04:04,919 --> 00:04:06,100
+<i>Et la famille ?</i>
+
+58
+00:04:06,311 --> 00:04:07,400
+<i>Ça s'arrange.</i>
+
+59
+00:04:07,600 --> 00:04:09,400
+- Ils te passent le bonjour.
+- Moi de même.
+
+60
+00:04:10,800 --> 00:04:14,400
+Alors, le Club des Survivants
+à la Fin du Monde.
+
+61
+00:04:14,700 --> 00:04:16,799
+Je suis vraiment contente de te voir.
+
+62
+00:04:16,800 --> 00:04:18,999
+Ah, tu as vraiment fait
+tout ce chemin pour me voir.
+
+63
+00:04:19,000 --> 00:04:22,000
+C'est ma mâchoire. On la voit une fois,
+on la veut pour toujours.
+
+64
+00:04:28,100 --> 00:04:28,999
+Il te manque ?
+
+65
+00:04:29,000 --> 00:04:32,300
+Non. J'ai fait mon choix.
+
+66
+00:04:32,700 --> 00:04:34,399
+Peut-être par moments.
+
+67
+00:04:34,400 --> 00:04:36,899
+Un tout petit peu.
+
+68
+00:04:36,900 --> 00:04:38,299
+Et puis je me reprends.
+
+69
+00:04:38,300 --> 00:04:40,699
+J'ai bien assez pour m'occuper.
+
+70
+00:04:40,700 --> 00:04:43,999
+Oh, oui, petite prétentieuse.
+Officier médical, c'est ça ?
+
+71
+00:04:44,000 --> 00:04:45,100
+Oui.
+
+72
+00:04:46,000 --> 00:04:49,000
+- Donc je dois t'appeler chef ?
+- Non.
+
+73
+00:04:49,300 --> 00:04:51,100
+Suis juste mes ordres à la lettre.
+
+74
+00:04:53,500 --> 00:04:55,299
+Tu aurais dû m'appeler
+si tu cherchais du travail.
+
+75
+00:04:55,300 --> 00:04:56,399
+C'était pas le cas.
+
+76
+00:04:56,400 --> 00:04:58,599
+Cette femme d'UNIT est
+sortie de nulle part,
+
+77
+00:04:58,600 --> 00:05:00,299
+disant que j'étais ce qui leur fallait,
+
+78
+00:05:00,300 --> 00:05:03,699
+et qu'une source irréprochable
+m'avait hautement recommandée.
+
+79
+00:05:03,700 --> 00:05:05,600
+- Tu veux dire... ?
+- Qui d'autre ?
+
+80
+00:05:07,200 --> 00:05:09,000
+Il a dû se dire qu'il t'en devait une.
+
+81
+00:05:11,900 --> 00:05:13,200
+Comme nous tous.
+
+82
+00:05:16,400 --> 00:05:19,399
+Tu pourrais m'avoir un de ces
+bonnets rouges, pour usage privé ?
+
+83
+00:05:19,400 --> 00:05:20,899
+Je pense que ça irait bien à Ianto.
+
+84
+00:05:20,900 --> 00:05:22,899
+Tu veux un uniforme, crées-en un.
+
+85
+00:05:22,900 --> 00:05:25,200
+Aurais-je le droit à une visite guidée ?
+
+86
+00:05:25,300 --> 00:05:27,406
+Oui, chef. Tout ce
+que vous voudrez, chef.
+
+87
+00:05:27,938 --> 00:05:28,999
+Arrête ça !
+
+88
+00:05:29,000 --> 00:05:30,299
+Voilà la serre.
+
+89
+00:05:30,300 --> 00:05:33,200
+La visite continue par ici, mesdames.
+On ne flâne pas.
+
+90
+00:05:34,000 --> 00:05:37,599
+Alors, tu connais très bien Jack ?
+
+91
+00:05:37,600 --> 00:05:40,670
+On n'a été ensemble que quelques jours.
+
+92
+00:05:40,930 --> 00:05:42,500
+Mais c'était plutôt intense.
+
+93
+00:05:44,100 --> 00:05:46,399
+- Tu veux dire... ?
+- Oh, non !
+
+94
+00:05:46,400 --> 00:05:49,300
+Non. Pas intense comme ça.
+Pas du tout.
+
+95
+00:05:50,200 --> 00:05:51,899
+Pourquoi, vous êtes... ?
+
+96
+00:05:51,900 --> 00:05:54,199
+Non, pas du tout.
+
+97
+00:05:54,200 --> 00:05:56,499
+On doit être les deux seules
+personnes sur cette planète.
+
+98
+00:05:56,500 --> 00:05:58,400
+Je sais.
+Qu'est-ce qui ne va pas chez nous ?
+
+99
+00:06:00,390 --> 00:06:03,400
+Hé, on parle de moi ?
+
+100
+00:06:03,900 --> 00:06:06,300
+Non, on parlait de la
+flore extra-terrestre.
+
+101
+00:06:06,420 --> 00:06:07,230
+Oui, c'est ça.
+
+102
+00:06:07,700 --> 00:06:08,700
+Elle est pas drôle.
+
+103
+00:06:09,200 --> 00:06:10,900
+Trouvez autre chose, les filles !
+
+104
+00:06:13,300 --> 00:06:15,399
+Vous avez des trucs super bizarres.
+Qu'est-ce que c'est ?
+
+105
+00:06:15,400 --> 00:06:17,099
+Fais attention.
+C'est un artefact extra-terrestre.
+
+106
+00:06:17,100 --> 00:06:19,099
+Il provoque beaucoup de débats.
+
+107
+00:06:19,100 --> 00:06:21,199
+D'après moi, c'est un
+instrument chirurgical.
+
+108
+00:06:21,319 --> 00:06:22,899
+<i>- Vraiment ?
+- Ce n'est qu'une supposition.</i>
+
+109
+00:06:22,900 --> 00:06:24,199
+Typique d'un médecin.
+
+110
+00:06:24,200 --> 00:06:27,048
+Je l'ai appelé scalpel de singularité.
+
+111
+00:06:27,480 --> 00:06:31,299
+Il concentre son
+énergie sur un point fixe
+
+112
+00:06:31,300 --> 00:06:32,999
+sans rien endommager sur son chemin.
+
+113
+00:06:33,000 --> 00:06:34,899
+- Superbe.
+- C'est impressionnant.
+
+114
+00:06:34,900 --> 00:06:37,330
+Tu te rappelles la dernière fois
+où tu as fait ça...?
+
+115
+00:06:37,450 --> 00:06:38,459
+Oui, c'est vrai.
+
+116
+00:06:38,640 --> 00:06:39,699
+Voilà ce qu'on va faire.
+
+117
+00:06:40,984 --> 00:06:42,454
+<i>Vaporiser ce papier</i>
+
+118
+00:06:43,300 --> 00:06:46,099
+sans même écorcher le verre.
+
+119
+00:06:46,100 --> 00:06:48,200
+Ça va mal finir.
+
+120
+00:06:48,841 --> 00:06:49,955
+D'accord.
+
+121
+00:07:06,480 --> 00:07:08,200
+Je ne maîtrise pas encore
+bien le calibrage.
+
+122
+00:07:12,465 --> 00:07:13,153
+Jack.
+
+123
+00:07:13,716 --> 00:07:15,799
+Il y a eu une nouvelle attaque.
+Avec aiguille hypodermique.
+
+124
+00:07:15,800 --> 00:07:17,299
+<i>Mais cette fois, la victime a survécu.</i>
+
+125
+00:07:17,300 --> 00:07:18,780
+<i>Une femme de 27 ans.</i>
+
+126
+00:07:18,900 --> 00:07:19,790
+Elle est à l'hôpital.
+
+127
+00:07:20,200 --> 00:07:22,600
+<i>Dossier médical effacé,
+comme les autres.</i>
+
+128
+00:07:29,000 --> 00:07:30,999
+Les médecins m'ont dit
+qu'ils avaient fini.
+
+129
+00:07:31,000 --> 00:07:32,099
+Nous sommes un peu différents.
+
+130
+00:07:32,100 --> 00:07:33,899
+Nous savons que c'est dur, Mary.
+
+131
+00:07:33,900 --> 00:07:36,000
+Mais avez-vous reconnu
+votre agresseur ?
+
+132
+00:07:36,200 --> 00:07:38,900
+- J'ai déjà parlé à la police.
+- Nous sommes aussi différents d'eux.
+
+133
+00:07:39,400 --> 00:07:41,199
+Non, je ne l'avais jamais vu.
+
+134
+00:07:41,200 --> 00:07:43,300
+A-t-il dit quelque
+chose durant l'attaque ?
+
+135
+00:07:43,600 --> 00:07:45,100
+- Non.
+- Ouvrez grand.
+
+136
+00:07:46,100 --> 00:07:50,099
+Il est juste venu vers moi avec
+cette énorme aiguille.
+
+137
+00:07:50,100 --> 00:07:52,900
+Mon chien l'a mordu et je lui ai
+donné un coup aux testicules.
+
+138
+00:07:53,403 --> 00:07:54,898
+Respect !
+
+139
+00:08:12,200 --> 00:08:14,000
+C'est un trois quatre.
+
+140
+00:08:25,200 --> 00:08:27,500
+Alors, toi et Jack, ça remonte à loin ?
+
+141
+00:08:28,100 --> 00:08:30,000
+Ça remonte vraiment, oui.
+
+142
+00:08:31,600 --> 00:08:33,100
+Comment vous vous êtes connus ?
+
+143
+00:08:33,800 --> 00:08:37,000
+Disons qu'on voyait le même docteur.
+
+144
+00:08:39,000 --> 00:08:40,500
+Ces meurtres...
+
+145
+00:08:40,700 --> 00:08:43,875
+Pourquoi de l'ammonium ?
+C'est une drôle manière de tuer.
+
+146
+00:08:44,212 --> 00:08:44,999
+<i>C'est grossier.</i>
+
+147
+00:08:45,000 --> 00:08:46,900
+C'est comme leur injecter de la Javel.
+
+148
+00:08:47,800 --> 00:08:50,500
+A moins que le but ne soit pas
+seulement de tuer.
+
+149
+00:08:50,800 --> 00:08:52,999
+Mais de détruire quelque chose
+dans leur sang.
+
+150
+00:08:53,000 --> 00:08:54,700
+Se débarrasser d'une preuve.
+
+151
+00:08:57,100 --> 00:08:59,499
+Localement, on a une victime
+de meurtre et une survivante.
+
+152
+00:08:59,500 --> 00:09:03,299
+Attaques avec aiguille,
+dossiers médicaux effacés.
+
+153
+00:09:03,300 --> 00:09:05,099
+Et davantage dans tout le Royaume-Uni.
+
+154
+00:09:05,100 --> 00:09:06,299
+<i>On pense que leur but est de</i>
+
+155
+00:09:06,300 --> 00:09:08,799
+détruire les preuves de leur
+conditions médicales.
+
+156
+00:09:08,800 --> 00:09:11,300
+Gwen, Ianto,
+continuez l'enquête criminelle.
+
+157
+00:09:11,301 --> 00:09:11,953
+D'accord.
+
+158
+00:09:11,988 --> 00:09:14,055
+Martha, Owen, continuez du côté médical.
+
+159
+00:09:14,200 --> 00:09:16,399
+Tosh, tu as récupéré les dossiers ?
+
+160
+00:09:16,400 --> 00:09:17,199
+Pas encore.
+
+161
+00:09:17,200 --> 00:09:19,299
+Je vais devoir percer loin dans
+le système mémoire,
+
+162
+00:09:19,300 --> 00:09:22,800
+voir si je trouve des traces de
+dossiers effacés ou temporaires.
+
+163
+00:09:22,900 --> 00:09:24,699
+Totalement illégalement, bien sûr.
+
+164
+00:09:24,700 --> 00:09:26,000
+Fais ce que tu as à faire.
+
+165
+00:09:26,200 --> 00:09:28,199
+Il ne s'agit pas d'un maniaque
+obsédé par les aiguilles.
+
+166
+00:09:28,200 --> 00:09:29,900
+C'est une conspiration.
+
+167
+00:09:30,200 --> 00:09:33,499
+Ianto, la police a trouvé un
+nouveau corps dans Heath Park.
+
+168
+00:09:33,500 --> 00:09:36,900
+Il a toutes les marques
+des autres attaques.
+
+169
+00:09:37,200 --> 00:09:39,300
+Je préviens Gwen.
+Je suis en route.
+
+170
+00:09:51,613 --> 00:09:52,499
+Qu'est-ce qu'on a ?
+
+171
+00:09:52,500 --> 00:09:54,299
+Le corps a été retrouvé tôt ce matin.
+
+172
+00:09:54,300 --> 00:09:56,900
+- Homme caucasien, environ 20 ans.
+- Merci.
+
+173
+00:10:01,000 --> 00:10:03,800
+- Qui est-ce ?
+- Barry Leonard. Etudiant.
+
+174
+00:10:05,100 --> 00:10:07,500
+- Le médecin pense à un...
+- Choc toxique.
+
+175
+00:10:12,000 --> 00:10:15,899
+L'attaque a eu lieu dans les bois.
+Aucun témoin, aucune caméra.
+
+176
+00:10:15,900 --> 00:10:16,799
+Comme les autres.
+
+177
+00:10:16,800 --> 00:10:21,000
+Tosh vient de vérifier son
+dossier médical. Déjà effacé.
+
+178
+00:10:21,100 --> 00:10:24,099
+La marque de ponction dans
+son œil est identique aux autres.
+
+179
+00:10:24,100 --> 00:10:24,999
+Jack a raison.
+
+180
+00:10:25,000 --> 00:10:29,600
+Ces attaques ne sont pas aléatoires.
+Elles sont cliniques, professionnelles.
+
+181
+00:10:29,900 --> 00:10:31,499
+Ça ressemble plus à des assassinats.
+
+182
+00:10:31,500 --> 00:10:33,700
+Sauf que Barry Leonard était étudiant.
+
+183
+00:10:33,900 --> 00:10:35,500
+Qui assassinerait un étudiant ?
+
+184
+00:10:35,700 --> 00:10:36,799
+Une banque de prêt étudiant.
+
+185
+00:10:36,800 --> 00:10:38,900
+Oui, tu viens d'élucider le mystère.
+
+186
+00:10:39,500 --> 00:10:41,299
+Pourquoi effacer les dossiers médicaux ?
+
+187
+00:10:41,300 --> 00:10:43,199
+Qu'ont-ils tous en commun ?
+
+188
+00:10:43,200 --> 00:10:45,033
+Owen est en train
+d'analyser les résultats de Mary.
+
+189
+00:10:45,093 --> 00:10:46,466
+J'espère qu'on trouvera quelque chose.
+
+190
+00:10:46,467 --> 00:10:47,605
+En attendant, on est dans le flou.
+
+191
+00:10:47,725 --> 00:10:49,800
+On a aucune idée de la prochaine cible
+
+192
+00:10:50,000 --> 00:10:51,199
+et les attaques sont de
+plus en plus fréquentes.
+
+193
+00:10:51,200 --> 00:10:53,499
+Continuons à chercher.
+On trouvera quelque chose.
+
+194
+00:10:53,500 --> 00:10:54,999
+<i>Martha, un appel de l'hôpital.</i>
+
+195
+00:10:55,000 --> 00:10:56,700
+<i>Mary a fait une sorte de crise.</i>
+
+196
+00:10:57,600 --> 00:10:58,999
+On doit aller à l'hôpital.
+Mary s'est évanouie.
+
+197
+00:10:59,000 --> 00:11:00,600
+Je parie sur ce truc.
+
+198
+00:11:00,900 --> 00:11:02,800
+Ça vient du sang de Mary.
+Je n'ai encore jamais vu ça.
+
+199
+00:11:03,400 --> 00:11:04,700
+Moi non plus.
+
+200
+00:11:05,000 --> 00:11:06,799
+Tu as fait une analyse des isoenzymes ?
+
+201
+00:11:06,800 --> 00:11:08,068
+Pas encore. A quoi tu penses ?
+
+202
+00:11:08,119 --> 00:11:10,000
+- Infection parasitaire ?
+- Peut-être.
+
+203
+00:11:10,400 --> 00:11:11,399
+Ça vient forcément de ce truc.
+
+204
+00:11:11,400 --> 00:11:13,600
+Sinon, je n'ai aucune idée
+de ce qui cloche chez elle.
+
+205
+00:11:13,900 --> 00:11:16,799
+Aucune infection,
+pas de défaillance des organes.
+
+206
+00:11:16,800 --> 00:11:19,199
+Niveau de cholestérol et
+pression sanguine parfaits.
+
+207
+00:11:19,200 --> 00:11:20,899
+Exactement.
+
+208
+00:11:20,900 --> 00:11:22,900
+Elle est tellement normale
+qu'elle est anormale.
+
+209
+00:11:24,100 --> 00:11:26,199
+Mary, vous m'entendez ?
+
+210
+00:11:26,200 --> 00:11:27,800
+Oui.
+
+211
+00:11:29,900 --> 00:11:33,300
+Quelque chose dans votre sang
+nous est inconnu.
+
+212
+00:11:33,400 --> 00:11:35,299
+On pense que c'est la
+cause de votre état.
+
+213
+00:11:35,300 --> 00:11:38,700
+On doit savoir ce qui vous arrive
+pour pouvoir vous aider.
+
+214
+00:11:39,400 --> 00:11:41,500
+Vous êtes les docteurs.
+A vous de me le dire.
+
+215
+00:11:44,100 --> 00:11:45,700
+<i>Barry était mon meilleur pote.</i>
+
+216
+00:11:46,700 --> 00:11:48,200
+On suivait les mêmes cours.
+
+217
+00:11:49,000 --> 00:11:50,399
+Je l'ai rencontré le premier jour.
+
+218
+00:11:50,400 --> 00:11:52,700
+Barry consommait-il de la drogue ?
+
+219
+00:11:53,600 --> 00:11:55,999
+Avant, il était toujours clean.
+
+220
+00:11:56,000 --> 00:11:58,500
+Il devait faire attention
+à ce qu'il ingurgitait.
+
+221
+00:11:58,700 --> 00:12:00,100
+A cause de son diabète.
+
+222
+00:12:00,700 --> 00:12:02,299
+- Barry était diabétique ?
+- Oui.
+
+223
+00:12:02,300 --> 00:12:06,299
+Une fois guéri, il buvait,
+prenait de la coke.
+
+224
+00:12:06,300 --> 00:12:09,199
+Barry a été guéri du diabète ?
+
+225
+00:12:09,200 --> 00:12:10,799
+- Oui.
+- C'est impossible.
+
+226
+00:12:10,800 --> 00:12:13,200
+Il ne prenait plus d'insuline.
+Il allait bien.
+
+227
+00:12:14,100 --> 00:12:15,499
+Owen, j'ai une info.
+
+228
+00:12:15,500 --> 00:12:17,437
+Qui est à l'origine de cette guérison ?
+
+229
+00:12:17,462 --> 00:12:19,899
+Je ne sais pas.
+Il n'en parlait pas.
+
+230
+00:12:19,900 --> 00:12:23,199
+Je sais juste qu'il s'est mis
+à faire n'importe quoi.
+
+231
+00:12:23,200 --> 00:12:27,100
+Barry Leonard aurait été
+guéri du diabète.
+
+232
+00:12:27,300 --> 00:12:28,500
+Merci, Ianto.
+
+233
+00:12:29,200 --> 00:12:31,699
+Ecoutez Mary, vous
+allez devoir coopérer.
+
+234
+00:12:31,700 --> 00:12:33,099
+Ça pourrait vous coûter la vie.
+
+235
+00:12:33,100 --> 00:12:35,400
+Avez-vous déjà eu une grave maladie ?
+
+236
+00:12:36,700 --> 00:12:38,499
+C'était trop beau pour être vrai.
+
+237
+00:12:38,500 --> 00:12:39,700
+Comment ça ?
+
+238
+00:12:40,500 --> 00:12:42,400
+J'étais séropositive.
+
+239
+00:12:43,100 --> 00:12:46,500
+Vous n'avez aucun anticorps.
+C'est médicalement impossible.
+
+240
+00:12:47,100 --> 00:12:48,432
+C'est le Reset.
+
+241
+00:12:48,482 --> 00:12:50,700
+Le Reset c'est quoi, une drogue ?
+
+242
+00:12:51,200 --> 00:12:54,600
+Ça ne me dit rien.
+Une idée de son nom chimique ?
+
+243
+00:13:01,300 --> 00:13:02,699
+Où l'avez-vous obtenu, Mary ?
+
+244
+00:13:02,700 --> 00:13:05,399
+- Je l'ai eu à la PHARM.
+- La farme ?
+
+245
+00:13:05,400 --> 00:13:08,300
+P-H-A-R-M, la Pharm.
+
+246
+00:13:08,500 --> 00:13:10,299
+Un centre de recherche médicale.
+
+247
+00:13:10,300 --> 00:13:12,299
+- Comment l'avez-vous obtenu ?
+- Ils me l'ont donné.
+
+248
+00:13:12,300 --> 00:13:13,799
+Ils m'ont payé cher.
+
+249
+00:13:13,800 --> 00:13:15,499
+Ils m'ont dit de ne pas en parler
+
+250
+00:13:15,500 --> 00:13:17,400
+car ça faisait partie du contrat.
+
+251
+00:13:18,000 --> 00:13:20,300
+Vous étiez un sujet
+d'expérimentation médicale ?
+
+252
+00:13:21,100 --> 00:13:22,600
+Elle convulse.
+
+253
+00:13:24,800 --> 00:13:27,300
+- Je lui donne encore 10 ml.
+- Ça va.
+
+254
+00:13:39,000 --> 00:13:40,300
+Elle est morte.
+
+255
+00:13:50,700 --> 00:13:52,000
+Urgence !
+
+256
+00:13:52,100 --> 00:13:54,100
+Sortez-nous de là !
+
+257
+00:14:08,300 --> 00:14:11,299
+<i>C'est une larve extra-terrestre,
+qui incube dans le corps humain.</i>
+
+258
+00:14:11,300 --> 00:14:12,900
+On n'a jamais rien vu de tel.
+
+259
+00:14:13,300 --> 00:14:15,399
+Elles ont quitté le corps de Mary
+quand elle est morte.
+
+260
+00:14:15,400 --> 00:14:18,399
+Elles cherchaient un autre hôte
+pour continuer à se développer.
+
+261
+00:14:18,400 --> 00:14:20,599
+Ça aurait pu être nous.
+
+262
+00:14:20,600 --> 00:14:23,300
+Heureusement, n'en trouvant pas
+assez rapidement, elles sont mortes.
+
+263
+00:14:23,800 --> 00:14:26,600
+Je me demande en quoi cette
+mignonne petite larve se transforme.
+
+264
+00:14:28,300 --> 00:14:31,799
+Voilà un modèle moléculaire de la
+drogue trouvée dans le sang de Mary.
+
+265
+00:14:31,800 --> 00:14:34,099
+- Elle l'a appelée Reset.
+- Qu'est-ce qu'elle fait ?
+
+266
+00:14:34,100 --> 00:14:37,999
+C'est comme un antivirus
+sur ton ordinateur.
+
+267
+00:14:38,000 --> 00:14:39,999
+Le logiciel parcours les fichiers
+
+268
+00:14:40,000 --> 00:14:42,399
+<i>et lorsqu’il trouve un virus quelconque,</i>
+
+269
+00:14:42,400 --> 00:14:44,299
+<i>il l'identifie et le détruit.</i>
+
+270
+00:14:44,300 --> 00:14:46,899
+C'est ce que cette drogue fait
+au corps humain.
+
+271
+00:14:46,900 --> 00:14:48,299
+Mais pas seulement aux virus.
+
+272
+00:14:48,300 --> 00:14:52,399
+<i>Aussi aux bactéries, toxines,
+même aux cellules mutantes, tout.</i>
+
+273
+00:14:52,400 --> 00:14:54,599
+Le corps revient à ses
+paramètres de départ.
+
+274
+00:14:54,600 --> 00:14:56,399
+<i>C'est la toute dernière formule magique.</i>
+
+275
+00:14:56,400 --> 00:14:59,499
+Elle supplante toute
+l'armure pharmacologique.
+
+276
+00:14:59,500 --> 00:15:01,799
+Ça serait la plus grande découverte
+médicale de l'histoire.
+
+277
+00:15:01,800 --> 00:15:02,999
+Exactement.
+
+278
+00:15:03,000 --> 00:15:06,799
+Sauf qu'elle est couplée avec
+un parasite extra-terrestre mortel.
+
+279
+00:15:07,766 --> 00:15:09,399
+Pas une si grande découverte.
+
+280
+00:15:09,400 --> 00:15:12,099
+Le parasite a besoin d'un corps
+humain durant son incubation.
+
+281
+00:15:12,100 --> 00:15:15,399
+L'œuf du parasite s'incorpore
+à la formule magique
+
+282
+00:15:15,400 --> 00:15:18,499
+qui réinitialise tous les paramètres.
+
+283
+00:15:18,500 --> 00:15:19,699
+Reset, remise à zéro.
+
+284
+00:15:19,700 --> 00:15:20,900
+Super.
+
+285
+00:15:21,700 --> 00:15:23,500
+Qui dirige la Pharm ?
+
+286
+00:15:23,700 --> 00:15:25,699
+Son image publique est normale.
+
+287
+00:15:25,700 --> 00:15:27,099
+<i>C'est un partenariat entre</i>
+
+288
+00:15:27,100 --> 00:15:29,899
+le gouvernement et un consortium
+d'entreprises pharmaceutiques.
+
+289
+00:15:29,900 --> 00:15:33,299
+Ils recherchent et développent
+la biotechnologie à la pointe.
+
+290
+00:15:33,300 --> 00:15:36,399
+<i>Leur système informatique est bien
+plus à la pointe que nécessaire.</i>
+
+291
+00:15:36,400 --> 00:15:39,999
+Et ils ont l'air d'avoir un
+accès illimité au niveau sécurité.
+
+292
+00:15:40,000 --> 00:15:43,888
+Ils peuvent donc effacer
+des dossiers médicaux.
+
+293
+00:15:44,133 --> 00:15:44,999
+Tout à fait.
+
+294
+00:15:45,000 --> 00:15:46,099
+Qui dirige tout ça ?
+
+295
+00:15:46,100 --> 00:15:49,199
+Le directeur de l'institut est
+le Dr Aaron Copley.
+
+296
+00:15:49,200 --> 00:15:50,299
+<i>Je connais ses travaux.</i>
+
+297
+00:15:50,300 --> 00:15:52,999
+Un des chercheurs scientifiques
+les plus respectés dans son domaine.
+
+298
+00:15:53,000 --> 00:15:55,299
+Diplômé d'Harvard.
+A mené des recherches à Cambridge.
+
+299
+00:15:55,300 --> 00:15:58,699
+<i>Son dernier emploi, Professeur de
+Pharmacologie Moléculaire à Harvard.</i>
+
+300
+00:15:58,700 --> 00:16:00,800
+Il est venu au Royaume-Uni
+pour lancer la Pharm.
+
+301
+00:16:00,900 --> 00:16:02,900
+Et il est plutôt pas mal.
+
+302
+00:16:03,100 --> 00:16:04,700
+Notre visite lui plaira ?
+
+303
+00:16:14,100 --> 00:16:15,100
+Torchwood.
+
+304
+00:16:25,400 --> 00:16:29,100
+Vous vous êtes déplacés en vain,
+M. Harker.
+
+305
+00:16:29,600 --> 00:16:32,899
+Harkness. Et c'est Capitaine,
+mais vous pouvez m'appeler Jack.
+
+306
+00:16:32,900 --> 00:16:33,899
+Capitaine ?
+
+307
+00:16:33,900 --> 00:16:35,500
+Où avez-vous amarré votre bateau ?
+
+308
+00:16:37,100 --> 00:16:38,800
+J'aime les hommes qui ont
+le sens de l'humour.
+
+309
+00:16:39,300 --> 00:16:41,199
+Vous connaissez de bonnes blagues
+sur les procès médicaux ?
+
+310
+00:16:41,200 --> 00:16:45,499
+Eh bien, Jack,
+tous ces gens ne me disent rien.
+
+311
+00:16:45,500 --> 00:16:46,799
+En tant que directeur de l'institut,
+
+312
+00:16:46,800 --> 00:16:50,200
+je les aurais rencontrés personnellement
+s'ils avaient été de nos sujets.
+
+313
+00:16:51,000 --> 00:16:54,600
+- Dr Copley.
+- C'est Professeur, en fait.
+
+314
+00:16:57,400 --> 00:16:59,299
+Mais je peux vous appeler Aaron.
+
+315
+00:16:59,300 --> 00:17:01,200
+C'est un peu gênant.
+
+316
+00:17:02,700 --> 00:17:04,499
+Deux de ces personnes ont été tuées.
+
+317
+00:17:04,500 --> 00:17:08,199
+La dernière est morte d'une infection
+parasitaire d'origine extra-terrestre.
+
+318
+00:17:08,200 --> 00:17:10,999
+L'une de ces victimes a mentionné
+le nom de votre organisation
+
+319
+00:17:11,000 --> 00:17:12,799
+peu avant de mourir.
+
+320
+00:17:12,800 --> 00:17:14,500
+D'origine extra-terrestre ?
+
+321
+00:17:14,600 --> 00:17:16,900
+- C'est absurde.
+- Professeur.
+
+322
+00:17:17,900 --> 00:17:19,699
+Lorsque que j'écrivais ma thèse,
+
+323
+00:17:19,700 --> 00:17:23,599
+vos travaux sur l'immunologie
+m'ont été très utiles, merci.
+
+324
+00:17:23,600 --> 00:17:25,400
+Content de rendre service.
+
+325
+00:17:25,600 --> 00:17:29,599
+Si un médicament pouvait
+ramener le corps humain
+
+326
+00:17:29,600 --> 00:17:33,399
+à ses paramètres
+d'origine, vous le sauriez.
+
+327
+00:17:33,400 --> 00:17:34,799
+<i>En effet.</i>
+
+328
+00:17:34,800 --> 00:17:37,000
+Mais il n'existe rien de la sorte.
+
+329
+00:17:39,100 --> 00:17:41,800
+Un de mes petits amis avait les
+narines dilatées quand il mentait.
+
+330
+00:17:45,600 --> 00:17:47,899
+J'ai déjà du retard pour
+mon rendez-vous suivant.
+
+331
+00:17:47,900 --> 00:17:50,300
+Allez-y. On va jeter un œil.
+
+332
+00:17:50,400 --> 00:17:53,299
+Nos locaux de recherche sont classifiés.
+
+333
+00:17:53,300 --> 00:17:54,999
+Nous ne pouvons vous laisser y accéder.
+
+334
+00:17:55,000 --> 00:17:57,600
+Mais vous pourrez jouir de
+notre visite guidée.
+
+335
+00:17:57,800 --> 00:17:59,799
+Normalement, Aaron,
+nous allons où nous voulons.
+
+336
+00:17:59,800 --> 00:18:02,199
+Pas ici.
+
+337
+00:18:02,200 --> 00:18:03,600
+Demandez à Whitehall.
+
+338
+00:18:03,700 --> 00:18:05,100
+Nous sommes protégés.
+
+339
+00:18:06,100 --> 00:18:09,200
+J'ai récemment eu une mauvaise
+expérience avec un politicien.
+
+340
+00:18:10,000 --> 00:18:12,700
+J'ai tendance à ne
+plus écouter Whitehall.
+
+341
+00:18:13,700 --> 00:18:16,099
+Laissez-moi appeler quelqu'un
+pour vous guider jusqu'à la sortie.
+
+342
+00:18:16,100 --> 00:18:18,199
+C'est moi, ou il était
+un peu susceptible ?
+
+343
+00:18:18,200 --> 00:18:20,200
+Tant pis pour l'approche polie.
+
+344
+00:18:21,200 --> 00:18:23,100
+Il faut qu'on retourne cet endroit.
+
+345
+00:18:24,400 --> 00:18:25,399
+Oh, oui.
+
+346
+00:18:25,400 --> 00:18:28,799
+Car cet endroit a la plus grande
+concentration de forme de vie alien
+
+347
+00:18:28,800 --> 00:18:31,000
+de ce côté de la Brèche.
+
+348
+00:18:32,600 --> 00:18:34,200
+Le gris ne lui va vraiment pas.
+
+349
+00:18:47,400 --> 00:18:48,599
+Je n'arrive pas à pénétrer leur système.
+
+350
+00:18:48,600 --> 00:18:51,099
+Si je continue aussi brutalement,
+
+351
+00:18:51,100 --> 00:18:52,399
+ils sauront qu'on les attaque.
+
+352
+00:18:52,400 --> 00:18:54,499
+Une forme de vie extra-terrestre
+s'intègre au sang humain.
+
+353
+00:18:54,500 --> 00:18:55,599
+Je dois y entrer.
+
+354
+00:18:55,600 --> 00:18:58,100
+Tosh, j'ai les résultats.
+
+355
+00:18:59,400 --> 00:19:00,500
+Sur ton écran.
+
+356
+00:19:07,400 --> 00:19:09,099
+Ianto, c'est génial !
+
+357
+00:19:09,100 --> 00:19:10,799
+Ils recherchent des volontaires.
+
+358
+00:19:10,800 --> 00:19:12,699
+C'est compréhensible,
+vu leur taux de perte.
+
+359
+00:19:12,700 --> 00:19:14,400
+L'un de nous y va sous couverture.
+
+360
+00:19:14,700 --> 00:19:16,799
+Non, on n'en sait pas assez.
+
+361
+00:19:16,800 --> 00:19:17,999
+Trop de choses pourraient mal tourner.
+
+362
+00:19:18,000 --> 00:19:19,699
+<i>A moins d'envoyer un médecin.</i>
+
+363
+00:19:19,700 --> 00:19:21,199
+Quelqu'un qui saurait quoi chercher.
+
+364
+00:19:21,200 --> 00:19:23,199
+Oui, mais je ne peux pas le faire.
+Ils me connaissent.
+
+365
+00:19:23,200 --> 00:19:25,700
+Je sais que c'est dur à croire, Owen,
+mais je ne pensais pas à toi.
+
+366
+00:19:28,500 --> 00:19:29,700
+Hors de question.
+
+367
+00:19:29,800 --> 00:19:33,000
+Allez, Jack.
+J'ai connu pire, et tu le sais.
+
+368
+00:19:44,550 --> 00:19:45,350
+D'accord.
+
+369
+00:19:47,800 --> 00:19:49,200
+Jack, je peux te parler ?
+
+370
+00:19:49,900 --> 00:19:51,899
+Je sais que vous vous connaissez
+depuis longtemps.
+
+371
+00:19:51,900 --> 00:19:53,399
+Mais tu ne peux pas l'envoyer
+là-bas comme ça.
+
+372
+00:19:53,400 --> 00:19:55,200
+Fais-moi confiance.
+Elle en est largement capable.
+
+373
+00:19:55,600 --> 00:19:57,600
+Je lui ferais confiance
+si la fin du monde arrivait.
+
+374
+00:19:58,200 --> 00:20:00,000
+En réalité, je l'ai fait.
+
+375
+00:20:01,000 --> 00:20:04,500
+Voilà les plans des bâtiments.
+
+376
+00:20:05,200 --> 00:20:06,699
+D'après ce qu'Owen et Jack ont vu,
+
+377
+00:20:06,700 --> 00:20:10,400
+le bâtiment principal contient
+le bureau de Copley
+
+378
+00:20:10,500 --> 00:20:11,800
+des salles de recherche médicale
+
+379
+00:20:11,900 --> 00:20:14,300
+et les chambres des
+sujets expérimentaux.
+
+380
+00:20:14,400 --> 00:20:15,900
+Et les bâtiments du fond ?
+
+381
+00:20:16,000 --> 00:20:18,700
+Zone interdite, entourée de grillages,
+gardes armés.
+
+382
+00:20:18,900 --> 00:20:22,100
+Jack pense que les signaux
+extra-terrestres viennent de là.
+
+383
+00:20:22,200 --> 00:20:22,900
+Cool.
+
+384
+00:20:23,000 --> 00:20:25,000
+Mais tu n'as pas à t'en approcher.
+
+385
+00:20:25,100 --> 00:20:26,600
+Rabat-joie.
+
+386
+00:20:26,800 --> 00:20:28,199
+Première étape,
+
+387
+00:20:28,200 --> 00:20:30,800
+être admise en tant que
+sujet expérimental.
+
+388
+00:20:30,900 --> 00:20:34,099
+N'exagère pas, n'attire
+pas l'attention sur toi.
+
+389
+00:20:34,100 --> 00:20:36,100
+Etre invisible. Je sais faire ça.
+
+390
+00:20:36,200 --> 00:20:39,800
+Une fois réussi, tu dois accéder
+au système informatique.
+
+391
+00:20:39,900 --> 00:20:42,300
+Désactiver les pare-feu et
+les protocoles de sécurité.
+
+392
+00:20:42,400 --> 00:20:45,600
+Tosh pourra accéder aux fichiers
+et voir ce qu'ils fabriquent.
+
+393
+00:20:45,700 --> 00:20:48,400
+Espionnage industriel.
+Très civilisé.
+
+394
+00:20:48,500 --> 00:20:50,999
+Une fois fini, tu t'en vas.
+Ne prends aucun risque.
+
+395
+00:20:51,000 --> 00:20:52,200
+C'est compris.
+
+396
+00:20:52,500 --> 00:20:54,000
+Bien.
+
+397
+00:20:54,400 --> 00:20:59,100
+Jack m'a demandé
+un bonnet de UNIT pour toi.
+
+398
+00:20:59,900 --> 00:21:01,600
+Ah bon ?
+
+399
+00:21:01,700 --> 00:21:03,600
+Le rouge me va bien, c'est vrai.
+
+400
+00:21:04,400 --> 00:21:07,200
+Donc j'ai raison de penser que vous... ?
+
+401
+00:21:08,900 --> 00:21:10,600
+On...
+
+402
+00:21:10,900 --> 00:21:11,499
+s'amuse.
+
+403
+00:21:11,500 --> 00:21:12,800
+Ah oui ?
+
+404
+00:21:12,900 --> 00:21:14,100
+Oui.
+
+405
+00:21:14,800 --> 00:21:17,600
+Alors, c'est comment ?
+
+406
+00:21:18,300 --> 00:21:19,099
+Innovant.
+
+407
+00:21:19,100 --> 00:21:20,100
+Vraiment ?
+
+408
+00:21:20,300 --> 00:21:21,800
+A la limite de l'avant-gardisme.
+
+409
+00:21:23,700 --> 00:21:25,200
+Oh, oui.
+
+410
+00:21:26,804 --> 00:21:29,200
+Alors, on s'occupe de ta couverture ?
+
+411
+00:21:29,400 --> 00:21:30,900
+Tout à fait.
+
+412
+00:21:31,400 --> 00:21:32,900
+Fausse carte d'identité.
+
+413
+00:21:33,100 --> 00:21:34,700
+Prénom : Samantha.
+
+414
+00:21:34,900 --> 00:21:36,499
+Je me suis dit que le Jones passerait.
+
+415
+00:21:36,500 --> 00:21:37,900
+Comment communique-t'on ?
+
+416
+00:21:38,000 --> 00:21:39,599
+<i>C'est très compliqué.</i>
+
+417
+00:21:39,600 --> 00:21:40,800
+L'endroit pourrait être sur écoute.
+
+418
+00:21:40,900 --> 00:21:43,600
+Il ne faut pas qu'on
+t'entende nous parler.
+
+419
+00:21:43,800 --> 00:21:45,799
+Mais je veux avoir un
+œil sur toi à tout moment.
+
+420
+00:21:45,800 --> 00:21:47,200
+Alors ?
+
+421
+00:21:47,800 --> 00:21:49,099
+Je n'ai pas besoin de lentilles.
+
+422
+00:21:49,100 --> 00:21:50,192
+<i>De celles-ci, si.</i>
+
+423
+00:21:53,800 --> 00:21:55,000
+Je suis une caméra !
+
+424
+00:21:55,100 --> 00:21:58,699
+C'est ce que Chris Isherwood* m'a dit
+en parcourant le Kurfurstendamm.*
+
+425
+00:21:58,700 --> 00:22:00,695
+<i>Et on peut...</i>
+
+426
+00:22:01,600 --> 00:22:04,100
+<i>t'envoyer des messages.</i>
+
+427
+00:22:06,600 --> 00:22:09,400
+Elles marchent seulement portées,
+grâce à la chaleur humaine.
+
+428
+00:22:09,500 --> 00:22:11,400
+Tu dois donc les porter tout le temps.
+
+429
+00:22:11,500 --> 00:22:13,399
+Je ferais donc certaines choses
+les yeux fermés.
+
+430
+00:22:13,400 --> 00:22:16,000
+En cas d'urgence,
+on peut directement te parler.
+
+431
+00:22:16,100 --> 00:22:18,900
+<i>Les lentilles communiqueront avec
+tes neuraux-récepteurs sensoriels</i>
+
+432
+00:22:19,100 --> 00:22:20,799
+créant un tunnel vers
+le système auditif.
+
+433
+00:22:20,800 --> 00:22:23,200
+Ces signaux peuvent être interceptés ?
+
+434
+00:22:23,300 --> 00:22:26,899
+Technologie alien, qui exploite
+une solution au paradoxe d'EPR.
+
+435
+00:22:26,900 --> 00:22:30,100
+Oh, l'intrication quantique de
+particules isolées. Cool.
+
+436
+00:22:30,600 --> 00:22:32,500
+Je vous ai dit qu'elle était géniale ?
+
+437
+00:22:34,500 --> 00:22:37,000
+Deux prises de sang,
+c'est la procédure standard.
+
+438
+00:22:37,200 --> 00:22:39,100
+L'une sera analysée cette nuit.
+
+439
+00:22:39,300 --> 00:22:40,700
+Merci, infirmière.
+
+440
+00:22:42,200 --> 00:22:44,299
+<i>Dites-moi où vous avez voyagé, Samantha.</i>
+
+441
+00:22:44,300 --> 00:22:46,500
+J'ai passé de bons moments
+aux Etats-Unis.
+
+442
+00:22:46,700 --> 00:22:50,000
+En France, en Allemagne, en Australie.
+
+443
+00:22:50,300 --> 00:22:51,699
+<i>Et le Tiers-Monde ?</i>
+
+444
+00:22:51,700 --> 00:22:54,100
+<i>Afrique, Amérique Latine ?</i>
+
+445
+00:22:54,800 --> 00:22:57,099
+Non, mais je finirai bien par y aller.
+
+446
+00:22:57,100 --> 00:22:59,999
+<i>Beaucoup de voyages
+pourraient être un problème.</i>
+
+447
+00:23:00,000 --> 00:23:02,199
+<i>Si vous avez eu des maladies tropicales,</i>
+
+448
+00:23:02,200 --> 00:23:03,900
+il pourrait y avoir
+des effets secondaires.
+
+449
+00:23:04,000 --> 00:23:06,699
+Et la santé de nos volontaires
+est notre priorité absolue.
+
+450
+00:23:06,700 --> 00:23:08,500
+Il n'y aura pas de problèmes.
+
+451
+00:23:08,600 --> 00:23:11,600
+Je suis très pointue niveau santé.
+
+452
+00:23:16,800 --> 00:23:18,500
+Ma mère est infirmière.
+
+453
+00:23:20,800 --> 00:23:22,599
+Voici le professeur Copley, Samantha.
+
+454
+00:23:22,600 --> 00:23:23,799
+Directeur de l'institut.
+
+455
+00:23:23,800 --> 00:23:25,099
+<i>Bonjour, Sam. Enchanté.</i>
+
+456
+00:23:25,100 --> 00:23:27,100
+Dis-lui de se rapprocher de lui.
+
+457
+00:23:28,300 --> 00:23:30,300
+Je vois que vous êtes étudiante.
+
+458
+00:23:30,400 --> 00:23:32,300
+- En effet.
+- Dans quel domaine ?
+
+459
+00:23:32,800 --> 00:23:34,400
+Ecriture créative.
+
+460
+00:23:35,400 --> 00:23:38,000
+J'ai vraiment besoin de l'argent.
+
+461
+00:23:38,100 --> 00:23:39,999
+<i>Vous comprendrez, j'en suis sûr,</i>
+
+462
+00:23:40,000 --> 00:23:41,400
+<i>que nous avons beaucoup de demandes.</i>
+
+463
+00:23:41,500 --> 00:23:42,799
+Dis-lui de ne pas le perdre.
+
+464
+00:23:42,800 --> 00:23:44,800
+Nous vous feront parvenir notre réponse.
+
+465
+00:23:46,800 --> 00:23:49,900
+J'aurais dû vous dire une chose.
+
+466
+00:23:50,800 --> 00:23:52,100
+Oui ?
+
+467
+00:23:53,800 --> 00:23:56,100
+Vous le verrez avec la prise de sang.
+
+468
+00:23:58,800 --> 00:24:01,199
+<i>J'ai eu une infection hépatique.</i>
+
+469
+00:24:01,200 --> 00:24:02,900
+Elle ment.
+
+470
+00:24:03,000 --> 00:24:04,700
+C'est sa porte d'entrée.
+
+471
+00:24:05,500 --> 00:24:07,800
+Je vais bien, maintenant.
+
+472
+00:24:07,900 --> 00:24:09,099
+Mais ça reste dans le sang.
+
+473
+00:24:09,100 --> 00:24:11,200
+<i>A strictement parler, c'est incurable.</i>
+
+474
+00:24:12,400 --> 00:24:14,999
+Ça met les choses en perspective.
+
+475
+00:24:15,000 --> 00:24:16,899
+Un sujet hépatique nous intéresserait.
+
+476
+00:24:16,900 --> 00:24:18,500
+Vous pouvez commencer tout de suite ?
+
+477
+00:24:18,600 --> 00:24:20,000
+Bien sûr.
+
+478
+00:24:20,200 --> 00:24:22,100
+J'ai amené mes affaires.
+
+479
+00:24:22,300 --> 00:24:26,000
+Vous devez juste signer cet
+accord de confidentialité.
+
+480
+00:24:26,100 --> 00:24:27,400
+Elle est rentrée.
+
+481
+00:24:28,700 --> 00:24:30,099
+Pour citer à nouveau Chris Isherwood,
+
+482
+00:24:30,100 --> 00:24:33,000
+l'important n'est pas
+l'entrée, mais la sortie.
+
+483
+00:24:34,200 --> 00:24:34,999
+Merci.
+
+484
+00:24:35,000 --> 00:24:36,899
+Quel genre de médicaments
+allez-vous me donner ?
+
+485
+00:24:36,900 --> 00:24:39,499
+Nous avons différents produits
+au niveau expérimental.
+
+486
+00:24:39,500 --> 00:24:42,599
+Nous vous expliquerons tout
+une fois le programme mis en place.
+
+487
+00:24:42,600 --> 00:24:46,600
+Bien sûr, nous ne ferons rien
+sans votre consentement.
+
+488
+00:24:52,400 --> 00:24:54,200
+Allez, Martha.
+
+489
+00:24:55,100 --> 00:24:57,800
+<i>Laisse la s'installer,
+la nuit va être longue.</i>
+
+490
+00:25:04,300 --> 00:25:05,900
+Tu t'entends bien avec Martha.
+
+491
+00:25:06,000 --> 00:25:08,200
+Tu me connais. Toujours sociable.
+
+492
+00:25:10,500 --> 00:25:13,100
+- Elle est magnifique.
+- Ah bon ?
+
+493
+00:25:14,400 --> 00:25:15,600
+Tu sais qu'elle l'est.
+
+494
+00:25:15,700 --> 00:25:18,200
+C'est pas faux.
+
+495
+00:25:18,500 --> 00:25:20,100
+Et médecin.
+
+496
+00:25:20,500 --> 00:25:21,399
+Accord parfait.
+
+497
+00:25:21,400 --> 00:25:23,300
+Seul le boulot l'intéresse.
+
+498
+00:25:23,400 --> 00:25:24,400
+Tu crois ?
+
+499
+00:25:24,500 --> 00:25:27,300
+Je flirte un peu pour lui montrer
+les ficelles du métier.
+
+500
+00:25:27,600 --> 00:25:29,099
+Et si je tentais quoi que ce soit,
+
+501
+00:25:29,100 --> 00:25:31,200
+je crois que j'aurais Jack sur le dos.
+
+502
+00:25:33,700 --> 00:25:35,500
+Et ce...
+
+503
+00:25:35,600 --> 00:25:37,600
+tournoi de billard que
+tu voulais organiser ?
+
+504
+00:25:37,800 --> 00:25:39,200
+Ça ?
+
+505
+00:25:39,400 --> 00:25:41,400
+Ça n'a jamais été un tournoi.
+
+506
+00:25:41,600 --> 00:25:43,300
+Alors c'était quoi ?
+
+507
+00:25:43,500 --> 00:25:46,200
+- C'était censé être un rendez-vous.
+- Pardon ?
+
+508
+00:25:46,400 --> 00:25:48,300
+Je te proposais un rendez-vous !
+
+509
+00:25:48,500 --> 00:25:50,200
+Un rendez-vous ?
+
+510
+00:25:51,200 --> 00:25:52,300
+Tu n'avais pas compris ?
+
+511
+00:25:52,400 --> 00:25:53,499
+Toi et moi ?
+
+512
+00:25:53,500 --> 00:25:54,900
+Oui.
+
+513
+00:25:55,400 --> 00:25:57,700
+Je vois.
+
+514
+00:25:57,900 --> 00:26:00,199
+Et l'offre tient toujours ?
+
+515
+00:26:00,200 --> 00:26:01,400
+Oui.
+
+516
+00:26:02,100 --> 00:26:03,300
+D'accord.
+
+517
+00:26:03,400 --> 00:26:07,900
+Je me suis dit que si on passait
+un peu de temps ensemble, une soirée...
+
+518
+00:26:08,000 --> 00:26:09,500
+D'accord.
+
+519
+00:26:09,700 --> 00:26:10,800
+Pardon ?
+
+520
+00:26:11,000 --> 00:26:12,400
+Faisons-le.
+
+521
+00:26:12,600 --> 00:26:13,999
+C'est du sarcasme ?
+
+522
+00:26:14,000 --> 00:26:15,400
+Non.
+
+523
+00:26:16,100 --> 00:26:17,799
+C'est de la politesse.
+Tu me laisseras tomber.
+
+524
+00:26:17,800 --> 00:26:19,399
+Je viens de te dire oui.
+
+525
+00:26:19,400 --> 00:26:22,100
+Un rendez-vous, on voit où ça
+nous mène, peut-être nulle part.
+
+526
+00:26:22,300 --> 00:26:23,800
+Ça marche. Un verre.
+
+527
+00:26:23,920 --> 00:26:24,980
+- D'accord.
+- Oui.
+
+528
+00:26:25,100 --> 00:26:27,499
+Je continuerai à flirter avec les gens.
+
+529
+00:26:27,500 --> 00:26:29,499
+Je n'abandonne pas le flirt
+à cause de ça.
+
+530
+00:26:29,500 --> 00:26:30,926
+Tu peux être le roi du flirt.
+
+531
+00:26:32,500 --> 00:26:33,800
+D'accord.
+
+532
+00:26:35,763 --> 00:26:37,900
+On devrait...
+
+533
+00:26:38,100 --> 00:26:40,200
+Se concentrer sur Martha.
+
+534
+00:26:40,875 --> 00:26:41,419
+Oui.
+
+535
+00:27:12,800 --> 00:27:14,400
+SOIS PRUDENTE.
+
+536
+00:27:42,300 --> 00:27:44,100
+Tosh, tu peux nous faire passer ça ?
+
+537
+00:27:44,300 --> 00:27:46,000
+Comme si c'était fait.
+
+538
+00:27:46,700 --> 00:27:49,700
+Il suffit qu'elle rapproche les
+lentilles du champ EPR.
+
+539
+00:28:49,000 --> 00:28:51,100
+Tosh, tu peux l'aider à s'introduire
+dans le système informatique ?
+
+540
+00:28:51,200 --> 00:28:52,999
+<i>Ça prendra du temps à expliquer.</i>
+
+541
+00:28:53,000 --> 00:28:55,500
+On a pas le temps.
+Je veux qu'elle sorte de cette pièce.
+
+542
+00:28:55,700 --> 00:28:59,800
+Si je ne peux pas l'aider à me
+donner le contrôle de l'ordinateur...
+
+543
+00:29:03,100 --> 00:29:05,000
+VA DANS LE RESEAU.
+
+544
+00:29:06,000 --> 00:29:07,100
+PORTS DU PARE-FEU.
+
+545
+00:29:10,900 --> 00:29:12,300
+CONNEXION PROXY.
+
+546
+00:29:24,900 --> 00:29:28,100
+J'ai le contrôle.
+
+547
+00:29:35,000 --> 00:29:37,300
+Le cycle de vie du parasite.
+
+548
+00:29:37,500 --> 00:29:39,200
+Ils l'appellent Mayfly.
+
+549
+00:29:42,500 --> 00:29:44,199
+<i>On n'a jamais vu d'espèce
+comme celle-là.</i>
+
+550
+00:29:44,200 --> 00:29:45,900
+<i>C'est magnifique.</i>
+
+551
+00:29:46,500 --> 00:29:47,399
+C'est mortel.
+
+552
+00:29:47,400 --> 00:29:49,500
+Qu'est-ce que Copley en fait ?
+
+553
+00:29:50,300 --> 00:29:53,500
+Martha, maintenant qu'on a la main,
+on peut tout faire d'ici.
+
+554
+00:29:53,700 --> 00:29:55,400
+Sors de là pronto.
+
+555
+00:30:01,600 --> 00:30:03,200
+Tu as le programme de décodage ?
+
+556
+00:30:03,400 --> 00:30:04,900
+Je te l'envoie.
+
+557
+00:30:05,000 --> 00:30:06,300
+Merci.
+
+558
+00:30:18,600 --> 00:30:19,799
+<i>Evasion en Zone A.</i>
+
+559
+00:30:19,800 --> 00:30:22,000
+<i>Tout le monde retourne
+en Zone A immédiatement.</i>
+
+560
+00:30:28,400 --> 00:30:30,800
+<i>Que toutes les patrouilles
+procèdent avec extrême prudence.</i>
+
+561
+00:30:30,900 --> 00:30:34,100
+<i>La créature évadée est très dangereuse.</i>
+
+562
+00:30:35,300 --> 00:30:38,300
+METS-TOI EN SURETE.
+
+563
+00:30:46,500 --> 00:30:47,500
+Jack ?
+
+564
+00:30:47,800 --> 00:30:50,100
+J'ai la liste des sujets expérimentaux.
+
+565
+00:30:51,900 --> 00:30:54,200
+Meredith Roberts, Mary Thomas,
+Barry Leonard.
+
+566
+00:30:54,300 --> 00:30:55,800
+Toutes les victimes de meurtre.
+
+567
+00:30:56,400 --> 00:30:58,300
+Qui est BD ?
+
+568
+00:30:59,200 --> 00:31:00,899
+Actions exécutives ?
+
+569
+00:31:00,900 --> 00:31:04,700
+Ancienne terminologie de la CIA
+pour assassinat.
+
+570
+00:31:05,400 --> 00:31:07,300
+<i>La Pharm a son propre tueur à gage.</i>
+
+571
+00:31:07,400 --> 00:31:09,700
+Plutôt inhabituel pour un centre
+de recherche.
+
+572
+00:31:09,800 --> 00:31:12,800
+Il y a un nom qu'on ne connaît pas.
+
+573
+00:31:12,900 --> 00:31:14,300
+<i>Elin Morgan ?</i>
+
+574
+00:31:14,400 --> 00:31:16,399
+Elle n'a pas été déclarée
+disparue ni morte.
+
+575
+00:31:16,400 --> 00:31:19,100
+Elle le sera bientôt.
+Va la voir avec Ianto.
+
+576
+00:31:42,200 --> 00:31:44,800
+<i>N'essayez pas d'approcher la
+créature. Compris ?</i>
+
+577
+00:31:44,900 --> 00:31:47,499
+<i>Sédatifs seulement. La créature
+est extrêmement dangereuse.</i>
+
+578
+00:31:47,500 --> 00:31:49,700
+Compris. Allez, on y va !
+
+579
+00:31:53,100 --> 00:31:55,599
+Où va-t-elle ? Si la Pharm
+a son propre tueur à gage,
+
+580
+00:31:55,600 --> 00:31:56,799
+qui sait ce dont ils sont capables.
+
+581
+00:31:56,800 --> 00:31:58,500
+Oui, et je l'ai envoyée là-bas.
+
+582
+00:32:10,600 --> 00:32:11,900
+Merde ! C'était quoi ?
+
+583
+00:32:12,000 --> 00:32:14,400
+Radiation en survolt ?
+On l'a perdue !
+
+584
+00:32:30,500 --> 00:32:31,800
+La voilà !
+
+585
+00:32:31,900 --> 00:32:33,700
+Rassemblez les patrouilles.
+Créature repérée.
+
+586
+00:32:42,200 --> 00:32:43,900
+Je ne peux pas la récupérer.
+
+587
+00:32:44,100 --> 00:32:45,100
+Il faut la sortir de là.
+
+588
+00:32:45,200 --> 00:32:46,799
+Cet endroit grouille de gardes.
+
+589
+00:32:46,800 --> 00:32:48,999
+Si on y va, on la mettra en danger !
+
+590
+00:32:49,000 --> 00:32:50,299
+On ne peut pas la laisser là-bas.
+
+591
+00:32:50,300 --> 00:32:53,399
+Si je ne la récupère pas dans 30 mn
+on pensera à une alternative.
+
+592
+00:32:53,400 --> 00:32:54,800
+Il pourrait lui arriver n'importe quoi.
+
+593
+00:32:55,000 --> 00:32:56,000
+Martha sait se débrouiller.
+
+594
+00:32:56,100 --> 00:32:58,200
+Elle a vu pire que ça.
+
+595
+00:32:58,300 --> 00:32:59,800
+Tu en es sûr ?
+
+596
+00:33:02,700 --> 00:33:04,500
+C'est quoi ?
+Le portable de Billy Davis.
+
+597
+00:33:04,600 --> 00:33:06,900
+Il sera chez Elin dans 3 mn.
+
+598
+00:33:26,500 --> 00:33:29,300
+Les mains en l'air ! Debout !
+
+599
+00:33:36,100 --> 00:33:38,000
+Jack, on a Billy Davis.
+
+600
+00:33:39,000 --> 00:33:40,600
+Il pourrait nous aider
+à rentrer à la Pharm.
+
+601
+00:33:43,400 --> 00:33:46,200
+Dites à ce gorille de me relâcher !
+Que se passe-t-il ?
+
+602
+00:33:46,300 --> 00:33:47,700
+Bon travail.
+
+603
+00:33:48,300 --> 00:33:51,999
+Je suis un patient volontaire.
+Vous ne pouvez pas me traiter comme ça.
+
+604
+00:33:52,000 --> 00:33:53,600
+Vous nous avez menti, Samantha.
+
+605
+00:33:53,700 --> 00:33:56,299
+Laissez-moi m'expliquer.
+Je m'ennuyais dans la chambre.
+
+606
+00:33:56,300 --> 00:33:57,500
+Je suis sortie un peu,
+
+607
+00:33:57,600 --> 00:34:00,699
+et cette chose m'a attaquée, puis
+vos gardes m'ont agressée.
+
+608
+00:34:00,700 --> 00:34:03,500
+Vous ne devez rien à Torchwood.
+
+609
+00:34:03,600 --> 00:34:06,999
+Jack Harkness vous a traitée de
+manière irresponsable.
+
+610
+00:34:07,000 --> 00:34:09,900
+Qui ? Je ne comprends vraiment pas !
+
+611
+00:34:10,000 --> 00:34:10,800
+C'est pas la peine.
+
+612
+00:34:10,900 --> 00:34:12,399
+Ce n'est pas un interrogatoire.
+
+613
+00:34:12,400 --> 00:34:15,600
+Torchwood ne signifie rien pour nous,
+ils ne nous nuisent en rien.
+
+614
+00:34:15,800 --> 00:34:19,000
+Ils nous ont même rendu service
+en vous amenant ici.
+
+615
+00:34:19,300 --> 00:34:21,200
+Nous avons analysé vos résultats.
+
+616
+00:34:21,400 --> 00:34:23,800
+Vous êtes vraiment spéciale.
+
+617
+00:34:26,300 --> 00:34:28,700
+J'ai vraiment mal au ventre,
+
+618
+00:34:28,800 --> 00:34:29,799
+je ne sais pas ce que c'est.
+
+619
+00:34:29,800 --> 00:34:31,699
+Mauvaise conscience, Billy.
+Avouez tout.
+
+620
+00:34:31,700 --> 00:34:32,800
+Allez vous faire foutre.
+
+621
+00:34:32,900 --> 00:34:35,500
+D'accord, on va faire ça à la dure.
+
+622
+00:34:37,400 --> 00:34:38,500
+Doux Jésus, qu'est-ce que... ?
+
+623
+00:34:44,100 --> 00:34:45,600
+Ils ont tendance à exagérer.
+
+624
+00:34:45,700 --> 00:34:47,300
+Arrêtez ça ! Pitié !
+
+625
+00:34:47,400 --> 00:34:48,699
+Quelque chose à dire, Billy?
+
+626
+00:34:48,700 --> 00:34:50,200
+Oui, tout ce que vous voulez,
+mais éloignez cette chose !
+
+627
+00:34:50,400 --> 00:34:52,000
+Eloignez ça !
+
+628
+00:34:56,400 --> 00:34:58,600
+D'accord. Tu t'es fait une petite
+série de meurtres. Pourquoi ?
+
+629
+00:34:58,700 --> 00:35:00,200
+Je travaille pour la Pharm !
+
+630
+00:35:00,500 --> 00:35:02,300
+Ils ont donné le médicament
+Reset à plusieurs personnes.
+
+631
+00:35:02,400 --> 00:35:03,899
+Mais il y a eu des effets secondaires.
+
+632
+00:35:03,900 --> 00:35:05,600
+Des parasites, je crois.
+
+633
+00:35:05,800 --> 00:35:06,499
+Ils allaient mourir de toute manière.
+
+634
+00:35:06,500 --> 00:35:09,300
+Je devais m'en débarrasser avant
+que les symptômes n'apparaissent
+
+635
+00:35:09,600 --> 00:35:10,800
+au grand jour.
+
+636
+00:35:10,900 --> 00:35:13,100
+Vous savez ce que sont les
+lymphocytes, Samantha ?
+
+637
+00:35:13,200 --> 00:35:16,200
+Une sorte de globules blancs,
+partie du système immunitaire.
+
+638
+00:35:16,300 --> 00:35:19,800
+Vos lymphocytes sont
+assez extraordinaires.
+
+639
+00:35:19,900 --> 00:35:23,400
+Nous n'en avons jamais vu de tels,
+pas chez l'être humain.
+
+640
+00:35:23,600 --> 00:35:25,099
+C'est différent pour
+les extra-terrestres.
+
+641
+00:35:25,100 --> 00:35:26,200
+Extra-terrestres ?
+
+642
+00:35:26,400 --> 00:35:27,899
+Je ne sais pas de quoi vous parlez.
+
+643
+00:35:27,900 --> 00:35:30,399
+Vos lymphocytes et sûrement
+d'autres cellules ont muté.
+
+644
+00:35:30,400 --> 00:35:31,500
+Muté ? Comment ?
+
+645
+00:35:31,600 --> 00:35:33,200
+Sous l'influence de radiations.
+
+646
+00:35:33,300 --> 00:35:37,600
+Des radiations non-présentes dans
+l'environnement temporel de la Terre.
+
+647
+00:35:37,800 --> 00:35:39,200
+Qu'est-ce que ça signifie ?
+
+648
+00:35:39,300 --> 00:35:41,400
+Nous avons déjà vu des extra-terrestres.
+
+649
+00:35:41,700 --> 00:35:45,699
+Mais jamais rien d'aussi
+exotique que vous.
+
+650
+00:35:45,700 --> 00:35:49,200
+Un être humain qui a voyagé
+dans le temps et l'espace.
+
+651
+00:35:49,600 --> 00:35:51,900
+Dites-moi tout.
+Comment est-ce possible ?
+
+652
+00:35:52,700 --> 00:35:54,800
+Qu'avez-vous vu ?
+
+653
+00:35:55,500 --> 00:35:57,100
+C'est fou.
+
+654
+00:35:57,200 --> 00:35:59,199
+Je ne sais pas de quoi vous parlez.
+
+655
+00:35:59,200 --> 00:36:02,100
+Bien. Si vous voulez la jouer comme ça.
+
+656
+00:36:02,400 --> 00:36:06,099
+En tout cas, vous avez un système
+immunitaire effectif unique
+
+657
+00:36:06,100 --> 00:36:08,000
+et c'est ce dont on a besoin.
+
+658
+00:36:08,100 --> 00:36:10,700
+<i>Nous développons un médicament
+qui va changer le monde, Sam.</i>
+
+659
+00:36:10,800 --> 00:36:12,500
+Cancers incurables, SIDA.
+
+660
+00:36:12,600 --> 00:36:15,800
+Tous les fléaux de l'humanité, effacés.
+
+661
+00:36:16,200 --> 00:36:18,800
+Une révolution dans la médecine
+et la sécurité sociale.
+
+662
+00:36:18,900 --> 00:36:21,600
+Sauf que c'est encore imparfait.
+
+663
+00:36:21,700 --> 00:36:25,199
+J'aimerais savoir ce que votre
+système lymphatique fait
+
+664
+00:36:25,200 --> 00:36:27,100
+de ces imperfections.
+
+665
+00:36:27,200 --> 00:36:29,000
+Je ne prendrai pas ça !
+
+666
+00:36:29,200 --> 00:36:31,400
+Vous êtes volontaire.
+
+667
+00:36:36,000 --> 00:36:38,700
+On va à la Pharm, et vous allez
+nous faire entrer.
+
+668
+00:36:38,727 --> 00:36:40,260
+Ouais, ouais, ouais.
+
+669
+00:36:41,200 --> 00:36:43,600
+Mon estomac !
+
+670
+00:36:49,600 --> 00:36:52,400
+- Owen, il nous le faut vivant !
+- Je ne sais pas ce qu'il a !
+
+671
+00:36:52,600 --> 00:36:55,900
+- Fais quelque chose !
+- On va essayer ça.
+
+672
+00:37:02,000 --> 00:37:04,199
+<i>Je crois que j'ai le bon calibrage.</i>
+
+673
+00:37:04,200 --> 00:37:05,500
+<i>Je vais le faire sortir.</i>
+
+674
+00:37:10,100 --> 00:37:11,000
+Owen, occupe-toi de ça.
+
+675
+00:37:11,200 --> 00:37:12,999
+Tu es sûr que tu avais
+le bon calibrage ?
+
+676
+00:37:13,000 --> 00:37:15,200
+Je suis désolé.
+
+677
+00:37:17,900 --> 00:37:20,899
+Il a dû inspirer une larve quand
+une de ses victimes est morte.
+
+678
+00:37:20,900 --> 00:37:24,000
+Ça aurait pu être moi, ou Martha.
+
+679
+00:37:26,800 --> 00:37:28,700
+Je lui ai donné deux
+fois la dose critique.
+
+680
+00:37:28,900 --> 00:37:31,199
+Les larves de Mayfly incubent ?
+
+681
+00:37:31,200 --> 00:37:32,700
+Vous êtes sûr de vous ?
+
+682
+00:37:33,200 --> 00:37:35,400
+Son système immunitaire réagit.
+
+683
+00:37:35,800 --> 00:37:37,899
+Une bataille se livre à l'intérieur.
+
+684
+00:37:37,900 --> 00:37:40,900
+Restez calme.
+On va entrer dans l'histoire.
+
+685
+00:37:44,900 --> 00:37:47,400
+Ianto, qu'as-tu fait du
+corps de Billy Davis ?
+
+686
+00:37:47,500 --> 00:37:50,700
+J'allais juste m'en occuper. Pourquoi ?
+
+687
+00:37:50,900 --> 00:37:54,500
+Je crois que j'ai un moyen de
+nous faire entrer à la Pharm.
+
+688
+00:37:56,600 --> 00:37:57,700
+Malin, non ?
+
+689
+00:37:57,800 --> 00:38:00,600
+Tu es complètement tordue.
+
+690
+00:38:00,900 --> 00:38:02,800
+Comment penses-tu
+à des choses pareilles ?
+
+691
+00:38:03,700 --> 00:38:05,800
+Je le prends comme un compliment.
+
+692
+00:38:42,400 --> 00:38:44,400
+Tosh, Gwen, lanto, allez en Zone A.
+
+693
+00:38:44,700 --> 00:38:46,600
+Il faut trouver Martha.
+
+694
+00:39:06,800 --> 00:39:08,100
+Les mains en l'air !
+
+695
+00:39:08,700 --> 00:39:10,200
+Que lui avez-vous fait ?
+
+696
+00:39:10,900 --> 00:39:11,999
+Ne me dites pas que c'est Reset !
+
+697
+00:39:12,000 --> 00:39:16,200
+Elle a survécu au stage larval,
+c'est une première.
+
+698
+00:39:16,400 --> 00:39:17,700
+Fascinant.
+
+699
+00:39:17,800 --> 00:39:20,099
+Il se trouve que ces insectes
+pratiquent le cannibalisme.
+
+700
+00:39:20,100 --> 00:39:22,500
+Seuls les plus forts sont encore en vie.
+
+701
+00:39:22,700 --> 00:39:24,099
+Qui sait ce qui se passe ensuite ?
+
+702
+00:39:24,100 --> 00:39:25,300
+Arrêtez ça !
+
+703
+00:39:25,500 --> 00:39:26,600
+Je ne peux pas.
+
+704
+00:39:26,800 --> 00:39:29,000
+Je ne sais pas comment faire.
+
+705
+00:39:51,900 --> 00:39:54,000
+Mains en l'air !
+
+706
+00:40:00,327 --> 00:40:01,700
+Ianto.
+
+707
+00:40:03,900 --> 00:40:05,200
+Bon sang.
+
+708
+00:40:07,600 --> 00:40:09,700
+Jack, ce truc la tue !
+
+709
+00:40:10,100 --> 00:40:10,999
+Je ne sais pas quoi faire.
+
+710
+00:40:11,000 --> 00:40:13,700
+Owen, reste calme.
+Il doit y avoir une solution.
+
+711
+00:40:22,800 --> 00:40:24,400
+Que se passe-t-il ?
+
+712
+00:40:24,600 --> 00:40:26,099
+C'est ce que fait la Pharm.
+
+713
+00:40:26,100 --> 00:40:29,300
+On cultive des extra-terrestres avec
+des produits chimiques exotiques.
+
+714
+00:40:29,400 --> 00:40:30,699
+Qu'est-ce qu'un Weevil vous donne ?
+
+715
+00:40:30,700 --> 00:40:34,300
+<i>Des pesticides, et un défoliant
+chimique assez puissant.</i>
+
+716
+00:40:35,400 --> 00:40:38,500
+<i>Mais ce ne sont pas les Weevils
+qui nous décrocheront le prix Nobel.</i>
+
+717
+00:40:39,500 --> 00:40:42,100
+Mais les Mayflies, la base de Reset.
+
+718
+00:40:42,200 --> 00:40:45,199
+Avec du temps, on adaptera le
+produit à l'humain,
+
+719
+00:40:45,200 --> 00:40:47,300
+et ce sera encore mieux
+que la pénicilline.
+
+720
+00:40:53,900 --> 00:40:55,400
+Jack, rapport sur la Zone A.
+
+721
+00:40:55,500 --> 00:40:59,400
+Ils retiennent des douzaines de
+créatures. Ils en font des cobayes.
+
+722
+00:41:13,800 --> 00:41:15,300
+Compris, lanto.
+
+723
+00:41:15,500 --> 00:41:17,400
+Dis à Tosh de lancer
+l'extinction totale.
+
+724
+00:41:19,200 --> 00:41:21,400
+Cet endroit est une chambre de torture.
+
+725
+00:41:21,600 --> 00:41:24,300
+Je n'ai pas à débattre d'éthique
+médicale avec vous.
+
+726
+00:41:24,500 --> 00:41:27,500
+Vous avez maltraité les Mayflies,
+les transformant en parasites !
+
+727
+00:41:27,600 --> 00:41:30,500
+<i>Nous ne savions pas comment
+ils se reproduisaient.</i>
+
+728
+00:41:30,600 --> 00:41:32,300
+Nous avons tenté de limiter les dégâts.
+
+729
+00:41:32,400 --> 00:41:33,399
+En tuant des gens ?
+
+730
+00:41:33,400 --> 00:41:34,799
+<i>Ils allaient mourir de toute manière.</i>
+
+731
+00:41:34,800 --> 00:41:37,199
+Nous sommes à l'aube de la plus
+grande découverte de l'histoire.
+
+732
+00:41:37,200 --> 00:41:39,000
+Ça doit bien valoir quelques sacrifices.
+
+733
+00:41:39,100 --> 00:41:41,899
+Vous devez le comprendre, vous êtes
+impliqué dans des recherches aliens.
+
+734
+00:41:41,900 --> 00:41:43,400
+Pas comme ça.
+
+735
+00:41:48,300 --> 00:41:50,200
+Je fais fermer cet endroit.
+
+736
+00:41:50,400 --> 00:41:53,800
+Dans vos rêves.
+C'est un complexe officiel subventionné.
+
+737
+00:41:53,900 --> 00:41:56,300
+Je ne vais pas faire ça
+en envoyant un mémo.
+
+738
+00:41:56,700 --> 00:41:58,500
+Nous contrôlons votre
+système informatique.
+
+739
+00:41:59,400 --> 00:42:03,400
+Nous sommes en train d'effacer
+votre base de données.
+
+740
+00:42:03,700 --> 00:42:06,400
+- C'est du cyber-terrorisme !
+- Et ça n'est que le début.
+
+741
+00:42:06,500 --> 00:42:08,400
+Nous allons désactiver vos
+systèmes de sécurité.
+
+742
+00:42:08,500 --> 00:42:12,200
+<i>Feu, radiations, et dangers biologiques.</i>
+
+743
+00:42:12,400 --> 00:42:14,900
+Le courant sera coupé,
+les arroseurs mis en marche,
+
+744
+00:42:15,000 --> 00:42:19,300
+les locaux seront mis en
+quarantaine et remplis de gaz inerte.
+
+745
+00:42:19,400 --> 00:42:20,799
+Les extra-terrestres mourront.
+
+746
+00:42:20,800 --> 00:42:22,200
+Ils meurent déjà.
+
+747
+00:42:22,300 --> 00:42:23,899
+Leurs souffrances seront abrégées.
+
+748
+00:42:23,900 --> 00:42:25,499
+Bon sang, on est du même côté !
+
+749
+00:42:25,500 --> 00:42:26,400
+Non.
+
+750
+00:42:26,600 --> 00:42:29,499
+Combattre des aliens hostiles est une
+chose mais vous faites de l'esclavage,
+
+751
+00:42:29,500 --> 00:42:31,900
+de l'exploitation, un crime de guerre !
+
+752
+00:42:32,400 --> 00:42:33,800
+Jack, j'ai besoin de toi !
+
+753
+00:42:35,600 --> 00:42:36,900
+Qu'est-ce que tu fais ?
+
+754
+00:42:37,000 --> 00:42:38,700
+<i>C'est le seul moyen de la sauver.</i>
+
+755
+00:42:38,800 --> 00:42:40,099
+Je crois avoir compris
+comment ça marche.
+
+756
+00:42:40,100 --> 00:42:43,100
+Tu ferais mieux d'être sûr car
+ça n'a encore jamais marché.
+
+757
+00:42:43,300 --> 00:42:44,800
+<i>Owen, tu es sûr ?</i>
+
+758
+00:42:45,330 --> 00:42:46,367
+Recule Jack !
+
+759
+00:42:47,300 --> 00:42:48,400
+<i>Owen, dis-moi que tu es sûr !</i>
+
+760
+00:42:48,500 --> 00:42:50,400
+<i>Ce truc pourrait la tuer !</i>
+
+761
+00:42:51,100 --> 00:42:52,400
+<i>On la perd !</i>
+
+762
+00:43:01,300 --> 00:43:03,000
+<i>Qu'est-ce que tu as fait ?</i>
+
+763
+00:43:10,200 --> 00:43:13,185
+Ça a marché.
+Merci mon Dieu.
+
+764
+00:43:13,300 --> 00:43:15,200
+Sortons-la d'ici.
+
+765
+00:43:20,900 --> 00:43:24,400
+Je vous recommande du repos, Madame.
+
+766
+00:43:24,800 --> 00:43:28,700
+Et quelques jours au lit, de
+préférence sous ma tutelle.
+
+767
+00:43:29,400 --> 00:43:32,300
+Je sais pas comment te le
+dire, mais j'ai un copain.
+
+768
+00:43:32,500 --> 00:43:35,300
+Il t'a sauvé la vie comme moi ?
+
+769
+00:43:35,900 --> 00:43:39,300
+En fait, oui.
+
+770
+00:43:44,000 --> 00:43:45,300
+Vas-y.
+
+771
+00:43:45,900 --> 00:43:49,900
+<i>Fermeture des bâtiments en cours.
+Le personnel est prié d'évacuer.</i>
+
+772
+00:43:51,500 --> 00:43:53,400
+<i>Fermeture des bâtiments en cours.</i>
+
+773
+00:43:53,500 --> 00:43:56,299
+<i>Le personnel est prié d'évacuer.</i>
+
+774
+00:43:56,300 --> 00:43:58,199
+On y va !
+
+775
+00:43:58,200 --> 00:44:01,600
+Vous croyiez vraiment que
+j'allais vous laisser partir ?
+
+776
+00:44:02,300 --> 00:44:04,400
+Vous avez détruit tout mon travail.
+
+777
+00:44:04,700 --> 00:44:07,400
+Ne faisons rien de stupide.
+
+778
+00:44:07,500 --> 00:44:11,500
+Nous sommes tous deux
+rationnels, scientifiques.
+
+779
+00:44:16,400 --> 00:44:18,600
+Vous ne voulez pas faire ça.
+
+780
+00:44:22,800 --> 00:44:24,200
+A ton tour !
+
+781
+00:44:29,700 --> 00:44:30,900
+Tu m'entends, Owen ?
+
+782
+00:44:31,000 --> 00:44:32,199
+Tu dois le sauver !
+
+783
+00:44:32,200 --> 00:44:33,600
+Owen, reste avec moi.
+
+784
+00:44:33,700 --> 00:44:34,899
+Regarde-moi.
+
+785
+00:44:34,900 --> 00:44:36,000
+Regarde-moi bien.
+
+786
+00:44:36,200 --> 00:44:38,200
+Reste avec moi.
+
+787
+00:44:38,300 --> 00:44:39,800
+Allez mon grand.
+
+788
+00:44:42,200 --> 00:44:43,800
+Owen, parle-moi !
+
+789
+00:44:57,900 --> 00:45:00,000
+Il est mort.
+
+790
+00:45:06,178 --> 00:45:06,910
+Owen.
+
+791
+00:45:22,200 --> 00:45:24,600
+<i>Heure : 21h30.</i>
+
+792
+00:45:24,700 --> 00:45:26,600
+<i>Autopsie d'Owen Harper.</i>
+
+793
+00:45:26,700 --> 00:45:29,000
+<i>Officier de Torchwood numéro 565.</i>
+
+794
+00:45:29,300 --> 00:45:30,900
+<i>Age : 27 ans.</i>
+
+795
+00:45:31,800 --> 00:45:33,300
+<i>Début de l'autopsie.</i>
+
+796
+00:45:35,200 --> 00:45:36,900
+Le niveau d'énergie vient d'exploser.
+
+797
+00:45:37,100 --> 00:45:38,700
+Tu vois où il est ?
+
+798
+00:45:39,700 --> 00:45:40,700
+<i>Tu ne peux pas l'utiliser.</i>
+
+799
+00:45:40,900 --> 00:45:41,699
+Qui sait ce qui arrivera !
+
+800
+00:45:41,700 --> 00:45:43,100
+<i>J'espérais un miracle.</i>
+
+801
+00:45:44,100 --> 00:45:45,300
+<i>Où est-il passé ?</i>
+
+802
+00:45:45,600 --> 00:45:47,000
+- C'est ici.
+- Martha !
+
+803
+00:45:47,100 --> 00:45:50,500
+<i>Ça doit être la mort,
+car elle a volé ma vie.</i>
+
+804
+00:46:16,023 --> 00:46:20,473
+~Harkness Team~
+~www.seriessub.com~
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

@@ -1,0 +1,396 @@
+{60}{127}Avant de sombrer dans Ie sommeiI,
+{130}{202}je prie Ie Seigneur de veiIIer sur mon âme.
+{205}{290}Si je meurs avant mon réveiI,
+{290}{367}je prie Ie Seigneur de prendre mon âme.
+{370}{467}Dieu bénisse maman, Dieu bénisse papa,
+{470}{530}mamie et papy LaPierre,
+{530}{597}et mamie et papy Jackson...
+{600}{690}Amber Lynn, c'est I'heure de dormir.
+{692}{770}Attrape Mike et grimpe.
+{800}{922}Tu vas faire un gros dodo.|Au chaud dans ton Iit douiIIet.
+{925}{985}Bonne nuit, Lynnie.
+{1010}{1085}- Bonne nuit, maman.|- Bonne nuit, chérie.
+{1115}{1170}Eteins ta Iampe de chevet.
+{1170}{1227}Tu es mignonne.
+{1925}{1985}Arrêtez-vous!
+{2020}{2110}- Jetez vos armes.|- C'est géniaI.
+{3532}{3577}BiIIie?
+{4180}{4242}M. et Mme LaPierre, écoutez bien!
+{4245}{4365}J'ai kidnappé votre fiIIe etje Ia tuerai|si vous ne m'obéissez pas!
+{4610}{4745}Tout manquement à mes instructions|m'obIigerait à exécuter Amber Lynn.
+{5225}{5285}Mon petit ange.
+{5397}{5467}ParIez-en à quiconque
+{5470}{5620}et vous ne Ia reverrez jamais vivante.
+{5715}{5852}Personne ne tire sur Ie père NoëI.
+{6440}{6515}BiIIie! Amber Lynn!
+{7100}{7160}LE GOUVERNEMENT NOUS MENT
+{7520}{7562}LA VERITE EST AILLEURS
+{7645}{7712}SIEGE DU FBI|03 H 14
+{7867}{7927}Amber Lynn LaPierre, c'est ça.
+{7930}{7995}On a ouvert une enquête fédéraIe.
+{8022}{8097}Pour Ie kidnapping de Sacramento,|en CaIifornie.
+{8542}{8605}- Que faites-vous Ià?|- Je veux cette affaire.
+{8607}{8682}J'ai déjà assez d'agents compétents.
+{8685}{8767}- Je vois ça.|- C'est un kidnapping, agent MuIder.
+{8770}{8890}Une fiIIette enIevée dans sa chambre.|C'est une enquête cIassique, pas un NC.
+{8892}{8957}Je connais Ies faits.
+{8960}{9037}On épIuche Ies possibiIités|avant de faire un rapport.
+{9040}{9095}C'estjustement ce dontje parIe.
+{9095}{9210}Je ne peux pas vous confier ce dossier.|Je dois suivre Ie protocoIe.
+{9212}{9305}D'abord Ies psychoIogues,|puis Ia protection de I'enfance.
+{9307}{9390}Dans queIques heures, ce sera un vrai cirque.
+{9390}{9487}Tous Ies avocats en quête de gIoire|voudront Ies défendre gratuitement.
+{9490}{9600}Si on ne pose pas Ies bonnes questions|maintenant, iI sera trop tard.
+{9775}{9827}Vous avez jusqu'à midi.
+{9930}{10042}Les agents dans mon bureau|sont en train de prendre Ies paris.
+{10085}{10145}IIs Ia croient morte.
+{10167}{10222}Ne pariez pas Ià-dessus.
+{10715}{10792}IIs ont retrouvé Ia fiIIette?
+{10795}{10852}EIIe est morte?
+{10927}{10980}La presse n'est pas autorisée.
+{10980}{11087}Agent spéciaI Fox MuIder, FBI.|J'aimerais parIer à M. et Mme LaPierre.
+{11090}{11140}Mes cIients n'ont rien à dire.
+{11197}{11285}Harry Bring. Je peux vous aider?
+{11287}{11372}Je Iis ''droit immobiIier'' sur votre carte.
+{11375}{11440}Vous êtes-vous déjà occupé d'un meurtre?
+{11442}{11507}- Ce n'est pas un meurtre.|- On Ie saura
+{11510}{11605}une fois qu'on aura exposé Ies faits|de Ia disparition d'Amber Lynn.
+{11607}{11717}Mes cIients ne sont pas des assassins|etje suis outré par cette accusation.
+{11720}{11815}Si vous vouIez Ies aider,|trouvez-Ieur un avocat digne de ce nom.
+{11817}{11875}Ca va, Harry.
+{12040}{12107}BiIIie et moi n'avons rien à cacher.
+{12132}{12265}M. et Mme LaPierre, je suis Fox MuIder,|agent spéciaI au FBI.
+{12265}{12357}J'ai beaucoup d'expérience|dans Ies crimes de ce genre.
+{12360}{12452}J'aimerais vous poser queIques|questions sur votre déposition.
+{12455}{12572}Répondez-moi avec précision,|dans Ia Iimite toIérée par votre avocat.
+{12575}{12635}ParIez-moi de Ia Iettre|que vous avez trouvée.
+{12652}{12712}Où I'avez-vous découverte?
+{12715}{12780}- Dans Ia chambre de ma fiIIe.|- Quand?
+{12802}{12860}Quand je suis aIIé Ia voir.
+{12860}{12985}- Savez-vous I'heure qu'iI était?|- Environ 21 h 30, je crois.
+{13040}{13120}- Je regardais Ia téIé ici.|- Que regardiez-vous?
+{13122}{13217}Une série que je ne connaissais pas.|C'était bien.
+{13235}{13282}Et vous, Mme LaPierre?
+{13417}{13497}- J'étais déjà couchée.|- Vous dormiez?
+{13525}{13570}A moitié.
+{13570}{13672}C'est Ia chambre d'Amber Lynn|que j'ai vue dans Ie couIoir?
+{13710}{13747}Oui.
+{13750}{13845}Vous verrouiIIez toujours votre porte,|même quand vous êtes chez vous?
+{13962}{14065}Etes-vous en bons termes avec vos voisins?
+{14065}{14095}La pIupart.
+{14115}{14212}Connaissez-vous queIqu'un susceptibIe|de faire du maI à Amber Lynn?
+{14215}{14305}- Non.|- Ca suffit.
+{14315}{14440}IIs ont été très coopératifs.|Vous voyez qu'iIs n'ont rien à cacher.
+{14487}{14635}Comprenez bien une chose, car bientôt,|vous ne saurez pIus quoi penser.
+{14635}{14790}Quoi qu'iIs fassent, Ies agents du FBI|feront tout pour retrouver votre fiIIe.
+{14852}{14905}Merci.
+{14972}{15052}Agent MuIder, vous pensez qu'iIs réussiront?
+{15090}{15145}A Ia retrouver?
+{15200}{15250}Je I'espère.
+{15270}{15362}Je I'espère sincèrement.
+{16140}{16185}C'est ouvert.
+{16280}{16345}Entre.
+{16345}{16405}Qu'est-ce que tu fais?
+{16405}{16457}- Je réfIéchis.|- A quoi?
+{16460}{16522}A Amber Lynn LaPierre.
+{16605}{16710}- Ca te gêne si j'aIIume Ia Iumière?|- Oui, ça me gêne.
+{16802}{16862}Skinner est furax.
+{17000}{17062}Contre toi.
+{17065}{17145}- J'en suis sûr.|- II vouIait un rapport à midi.
+{17145}{17230}II a attendu. II a fini|par m'envoyer Ie chercher.
+{17257}{17347}- Je n'ai pas de rapport.|- IIs ont dû avancer sans toi.
+{17350}{17447}Les médias ont eu vent des progrès|de I'enquête. IIs vont Ies communiquer.
+{17450}{17540}- Les parents sont en garde à vue.|- IIs sont innocents.
+{17542}{17590}Les faits prouvent Ie contraire.
+{17592}{17700}II n'y a pas eu d'effraction.|Et Ies deux parents étaient chez eux.
+{17700}{17782}IIs ont menti au sujet de Ia Iettre.
+{17785}{17845}- Pourquoi?|- J'y réfIéchissais.
+{18000}{18125}Est-ce Ies médias ou notre fascination|morbide pour Ie meurtre d'innocents?
+{18167}{18230}EIIe n'est pas morte.
+{18447}{18497}Fox, c'est moi.
+{18512}{18587}- Maman? Bonsoir.|- Je regarde Ies informations.
+{18590}{18690}Cette petite fiIIe en CaIifornie...|Tu es Ià-bas, n'est-ce pas?
+{18707}{18775}Oui.
+{18802}{18870}- Ca va, maman?|- Quand rentres-tu?
+{18870}{18950}Je ne sais pas encore.
+{18980}{19060}- AppeIIe-moi à ton retour.|- Promis.
+{19107}{19162}Prends soin de toi, maman.
+{19435}{19495}La Iettre nous a permis d'étabIir des faits.
+{19497}{19577}II y a menace de vioIence,|mais aucune demande de rançon.
+{19580}{19715}La feuiIIe de papier déchirée suggère|Ia hâte et I'absence de préméditation.
+{19785}{19877}C'est un papier utiIisé en pressing|pour protéger Ies vêtements.
+{19880}{19945}CeIui qui a servi à Ia Iettre
+{19947}{20050}correspond à ceIui retrouvé|dans Ia poubeIIe des LaPierre.
+{20050}{20137}L'encre est ceIIe d'un marqueur|retrouvé dans Ia poubeIIe.
+{20140}{20212}Les empreintes sont ceIIes|de BiIIie LaPierre.
+{20215}{20255}C'est son écriture?
+{20257}{20350}C'est difficiIe à prouver, avec ce type|de crayon et Ia quaIité du papier,
+{20352}{20445}qui absorbe I'encre|et rend I'écriture imprécise.
+{20447}{20537}On a égaIement tenté de déguiser I'écriture.
+{20540}{20620}CeIIe de Mme LaPierre montre|des Iettres dominantes.
+{20622}{20720}Le S que I'on voit ici en pIusieurs endroits
+{20722}{20905}correspond au S de ''doIIars'',|''sept'' ou ''cents''.
+{20907}{21002}- Ca suffit pour faire Ie Iien.|- Mais pas pour I'incuIper.
+{21015}{21095}Avez-vous des informations|à nous communiquer?
+{21097}{21147}Bud LaPierre regardait Ia téIé
+{21150}{21230}quand iI a découvert I'absence|de sa fiIIe en aIIant se coucher.
+{21230}{21350}Mais d'après Ie rapport de poIice,|Ia téIé était aIIumée à Ieur arrivée.
+{21352}{21422}Les deux parents|auraient couché Amber Lynn
+{21425}{21505}et n'auraientjamais été|à pIus de 6 mètres de sa chambre.
+{21507}{21635}IIs connaissent tous Ieurs voisins|et sont en bons termes avec eux.
+{21635}{21747}Mais personne n'a vu d'étranger,|un vendredi, tôt dans Ia soirée,
+{21750}{21860}entrer dans une maison fermée|et écIairée, et enIever Ia fiIIette.
+{21862}{21930}- Le mari protège sa femme.|- Je ne crois pas.
+{21937}{21990}Pourquoi?
+{21992}{22040}Personne ne tire sur Ie père NoëI!
+{22047}{22150}Parce que ça n'expIique pas|ce qui est arrivé à cette petite fiIIe.
+{22845}{22940}- Qu'est-ce que tu fais?|- J'ai vu cette phrase queIque part.
+{22942}{23077}Tu en fais une affaire personneIIe.|Tu I'identifies à ceIIe de ta soeur.
+{23080}{23195}Ma soeur a été enIevée par|des extraterrestres. J'ai parIé de ça?
+{23197}{23285}Beaucoup de très bons agents|n'ont pas Ia patience nécessaire.
+{23285}{23352}Je n'ai fait que présenter un exposé Iogique.
+{23355}{23445}- Tu Ieur as dit qu'iIs avaient tort.|- C'est Ia vérité.
+{23472}{23527}PocateIIo, Idaho. 1987.
+{23570}{23625}Ca ne te rappeIIe rien?
+{24142}{24205}PRISON POUR FEMMES - IDAHO
+{24240}{24335}- Kathy Lee, Ies visiteurs sont Ià.|- Vous pouvez Ies faire entrer?
+{24497}{24612}Mme Tencate, je suis I'agent MuIder|et voici I'agent ScuIIy.
+{24615}{24665}On peut s'asseoir?
+{24707}{24762}Ce n'est pas Ie Ritz.
+{24815}{24875}On a queIques questions à vous poser.
+{24877}{24975}On a étudié Ies faits de votre dossier.|IIs parIent d'eux-mêmes.
+{24975}{25080}Votre fiIs de six ans, Dean,|a été enIevé pendant son sommeiI.
+{25082}{25175}Une Iettre de menaces,|écrite par vous, a été retrouvée.
+{25177}{25282}Vous avez pIaidé non coupabIe,|mais avez été condamnée à 12 ans,
+{25285}{25355}bien qu'on n'aitjamais retrouvé Ie corps.
+{25357}{25395}C'est exact.
+{25397}{25500}Vous avez décIaré que Ie soir|de Ia disparition de votre fiIs,
+{25502}{25617}vous I'avez vu mort, mais avez cru|à un déIire de votre imagination.
+{25620}{25730}Mais quand vous êtes aIIée vérifier,|iI avait disparu. Est-ce exact?
+{25730}{25790}Oui.
+{25792}{25875}Après sept ans de prison,|vous avez modifié votre déposition
+{25875}{26022}et avoué Ie meurtre de Dean, prétextant|un accès de foIie dû à une dépression.
+{26025}{26112}- C'est exact.|- Pourquoi avez-vous fait ça?
+{26175}{26262}Je ne sais pas. J'étais très en coIère.
+{26350}{26425}J'ai une copie de Ia Iettre|que vous avez écrite.
+{26487}{26560}Puis-je vous Ia montrer?
+{26562}{26660}II y a une phrase en bas de Ia Iettre.
+{26662}{26732}''Personne ne tire sur Ie père NoëI.''
+{26750}{26832}Vous pouvez m'expIiquer ce que ça veut dire?
+{26835}{26970}Quand queIqu'un vous promet|un cadeau, comme Ie père NoëI,
+{26995}{27077}on n'ose rien Iui faire|de peur de ne pas avoir ce cadeau.
+{27160}{27252}Une petite fiIIe a disparu|de son Iit iI y a trois jours.
+{27255}{27335}On a trouvé cette Iettre sur Ies Iieux.
+{27362}{27447}Pouvez-vous me dire|ce que vous Iisez en bas?
+{27477}{27535}Personne ne tire sur Ie père NoëI!
+{27540}{27602}La même chose.
+{27605}{27665}Aucune demande spécifique n'est faite.
+{27667}{27755}Dans Ies deux cas, iI n'y a pas de preuve|d'acte crimineI ni d'effraction.
+{27757}{27820}Les corps n'ont pas été retrouvés.
+{27820}{27947}- Je Ieur ai dit où était Ie corps.|- II n'y était pas.
+{27950}{27985}- Je ne sais pas pourquoi.|- Si.
+{27987}{28045}Je ne sais pas!
+{28085}{28180}Vous ne savez pas pourquoi|car vous n'avez rien fait.
+{28285}{28370}Vous n'avez pas tué votre fiIs|et vous ne I'avez pas enterré.
+{28372}{28470}Vous n'êtes coupabIe que de mensonge.|Comme ces gens.
+{28472}{28555}Vous avez modifié votre déposition|pour sortir d'ici.
+{28557}{28652}Vous saviez que Ie juge croirait|à votre histoire de dépression
+{28655}{28800}mais qu'iI ne Iibéreraitjamais une femme|dont Ie fiIs s'est voIatiIisé.
+{28802}{28927}Ces gens ont besoin|qu'on Ieur dise que tout va bien.
+{28930}{29015}Que queIqu'un corrobore Ieur histoire.
+{29017}{29110}- Je ne suis pas cette personne-Ià.|- IIs ont besoin de votre aide.
+{29467}{29605}C'était irresponsabIe, MuIder.|Ce que tu as affirmé n'avait aucun fondement.
+{29607}{29690}- Tu crois qu'eIIe a tué son fiIs?|- EIIe a été condamnée.
+{29690}{29802}Comment expIiques-tu que ces Iettres|contiennent Ia même phrase obscure?
+{29805}{29920}Je ne I'expIique pas.|Mais tu en fais une affaire personneIIe.
+{29920}{29990}Non. Je résoudrai cette affaire.
+{29990}{30052}- Comment?|- Je retrouverai ces gosses.
+{30105}{30165}Et s'iIs sont morts?
+{30195}{30282}Ne va pas chercher|ce que tu ne veux pas voir!
+{30830}{30935}Garde, rattrapez-Ies, s'iI vous pIati !
+{30962}{31007}II faut que je parIe!
+{31040}{31147}Vous êtes chez Fox MuIder.|Laissez un message etje vous rappeIIerai.
+{31150}{31210}Fox, c'est ta mère.
+{31212}{31340}J'espérais que tu appeIIerais à ton retour,|mais tu devais être occupé.
+{31340}{31472}Tant d'émotions m'envahissent|que je ne sais par où commencer.
+{31520}{31637}Tant de choses que je ne t'ai pas dites.|J'espère qu'un jour, tu me comprendras.
+{31875}{31977}C'est contraire à Ia procédure.|Je veux savoir ce que vous faites ici.
+{31980}{32055}J'ai queIque chose à montrer à vos cIients.
+{32130}{32207}- De quoi s'agit-iI?|- De tirer sur Ie père NoëI.
+{32210}{32295}Ca va vous intéresser.
+{32295}{32345}Vous partagez Ie même secret.
+{32415}{32552}J'ai accepté de parIer|carje sens que je dois Ie faire
+{32565}{32642}et parce que je sais ce que vous traversez.
+{32645}{32755}Je ne voudrais pas qu'iI vous arrive|Ia même chose qu'à moi.
+{32755}{32852}Je veux seuIement vous dire|que votre petite fiIIe va bien.
+{32855}{32982}Vous avez peur de Ia vérité.|J'ai aussi vu des choses dontj'avais peur.
+{33007}{33065}Je ne peux rien expIiquer, seuIement dire
+{33067}{33260}que je ne me souviens pas d'avoir pensé|ces mots, ni même de Ies avoir écrits.
+{33307}{33395}C'était comme si ma main|écrivait toute seuIe.
+{33397}{33535}Mais ce dontje suis sûre,
+{33537}{33595}carje Ie ressens dans mon coeur,
+{33597}{33737}c'est que mon fiIs est en sécurité|dans un monde meiIIeur.
+{33855}{34010}Les parents d'Amber Lynn LaPierre|ont été reIâchés par manque de preuves
+{34010}{34082}et après avoir modifié Ieur déposition.
+{34085}{34177}IIs auraient Iaissé Ies autorités sans voix
+{34180}{34325}en décIarant que des évènements|surnatureIs étaient intervenus.
+{34327}{34430}Les parents, qui rentrent ici chez eux,|se sont refusés à tout commentaire.
+{34432}{34507}L'enquête fédéraIe se poursuit,
+{34510}{34645}mais ne considère pIus Ies LaPierre|comme suspects n°1.
+{34647}{34735}Nous aIIons approfondir Ies recherches|concernant Amber Lynn
+{34760}{34870}et nous ne perdons pas espoir|de Ia retrouver saine et sauve.
+{34990}{35067}Approfondir Ies recherches?|Dans Ia 4e dimension?
+{35070}{35130}- J'ai un témoin cIé.|- En prison.
+{35132}{35200}II y a un Iien entre ces deux femmes.
+{35200}{35265}Le seuI Iien, c'est vous.
+{35265}{35370}J'ai des agents qui se tuent|à trouver des preuves soIides
+{35372}{35457}pendant que vous faites|dans Ie conte de fées pour assassins.
+{35460}{35570}Ca n'a aucun sens.|C'est incompréhensibIe et irrationneI.
+{35570}{35630}SeuI Ie rationneI m'importe.
+{35675}{35805}Vous avez fourni des circonstances|atténuantes à nos seuIs suspects.
+{35805}{35877}- Monsieur?|- Qu'y a-t-iI, agent ScuIIy?
+{35880}{35947}- Je dois parIer à MuIder.|- Ca peut attendre.
+{35950}{36035}- Non.|- Que se passe-t-iI?
+{36085}{36150}MuIder, ta mère est morte.
+{36322}{36415}RESIDENCE DE MME MULDER|GREENWICH, CONNECTICUT
+{37700}{37750}- MuIder?|- Je suis Ià.
+{37780}{37842}- Qu'est-ce que c'est?|- Du Diazepam.
+{37860}{37925}EIIe en prenait pour dormir.
+{37927}{37995}EIIe a Iaissé une Iettre?
+{37995}{38130}EIIe m'a appeIé en CaIifornie.|Je ne I'ai jamais rappeIée.
+{38252}{38307}Pourquoi aurait-eIIe fait ça?
+{38325}{38385}Ca n'a aucun sens.
+{38437}{38537}- On ne saitjamais pourquoi.|- EIIe ne se serait pas suicidée.
+{38565}{38630}Où sont passées Ies photos?
+{38645}{38717}II y avait des photos de ma soeur et de moi.
+{38720}{38820}C'était tout ce qui Iui restait de nous.|EIIes ont disparu. Pourquoi?
+{38980}{39080}EIIe m'a vu à Ia téIévision.|EIIe vouIait me parIer d'Amber Lynn.
+{39080}{39175}EIIe vouIait me dire queIque chose.|Peut-être pas au téIéphone
+{39177}{39250}car eIIe avait peur qu'iIs Iui fassent du maI.
+{39250}{39310}- Qui?|- Ceux qui ont pris ma soeur.
+{39330}{39395}Regarde. Tout a été mis en scène.
+{39395}{39472}Les cachets, Ie four, Ie scotch...|Une vraie série B.
+{39475}{39565}IIs ont dû Ia menacer.|EIIe a pris peur et iIs I'ont droguée.
+{39567}{39710}II faut chercher une trace d'aiguiIIe,|ou queIque chose dans son sang.
+{39712}{39780}Ne me demande pas de faire ça.
+{39782}{39850}- A qui d'autre?|- Une autopsie?
+{39852}{39945}Tu es mon ami et c'est ta mère!
+{39947}{40060}Si tu ne Ie fais pas, je ne saurai|peut-être jamais Ia vérité.
+{40597}{40672}Vous avez vu des choses.
+{40675}{40740}J'ai besoin de Ies comprendre.
+{40832}{40905}II vous est arrivé queIque chose?
+{40905}{40955}Ma mère est morte.
+{40995}{41045}Vous savez pourquoi.
+{41070}{41170}Je peux vous aider,|parIer au juge en votre faveur.
+{41185}{41290}- Mais j'ai besoin que vous m'aidiez.|- J'ignore ce que vous vouIez.
+{41292}{41352}Je ne suis pas Ià par hasard.
+{41380}{41505}Ma soeur m'a été enIevée,|quand eIIe avait huit ans.
+{41505}{41557}Comme votre fiIs vous a été enIevé.
+{41560}{41657}- Où est votre soeur maintenant?|- Je ne sais pas.
+{41675}{41780}- Votre mère Ie savait, n'est-ce pas?|- Pourquoi me demandez-vous ça?
+{41807}{41895}- EIIe essayait de vous Ie dire.|- Me dire quoi?
+{41895}{41962}- Qu'eIIe Ies avait vus.|- Qui?
+{41985}{42047}Les nomades.
+{42050}{42175}Des âmes à Ia recherche de nouveaux foyers.|Votre soeur est parmi eux.
+{42250}{42310}Vous Ies voyez?
+{42312}{42447}Oui. Mais c'est parfois difficiIe,|iIs vivent à Ia Iumière des étoiIes.
+{42550}{42605}Ma soeur est morte?
+{42607}{42735}IIs I'ont emmenée, pour protéger|son âme d'une vie de souffrance.
+{42737}{42802}Comme mon petit garçon.
+{42837}{42907}Où Ies emmènent-iIs?
+{42910}{42965}Votre fiIs?
+{42967}{43040}Cette petite fiIIe, Amber Lynn LaPierre?
+{43042}{43100}Je ne sais pas.
+{43102}{43172}Mais iIs vont bien.
+{43175}{43225}Votre soeur doit être parmi eux.
+{43310}{43422}ViIIage du père NoëI PôIe Nord|NoëI toute I'année!
+{44185}{44270}Les enfants veuIent voir Ie père NoëI.
+{44270}{44332}- Qu'est-ce qu'iI fait?|- II revient de sa tournée.
+{45482}{45545}Fox, c'est ta mère.
+{45545}{45672}J'espérais que tu appeIIerais à ton retour,|mais tu devais être occupé.
+{45675}{45810}Tant d'émotions m'envahissent|que je ne sais par où commencer.
+{45810}{45950}Tant de choses que je ne t'ai pas dites.|J'espère qu'un jour, tu me comprendras.
+{46000}{46125}Tant d'émotions m'envahissent|que je ne sais par où commencer.
+{46127}{46230}Tant de choses que je ne t'ai pas dites.|J'espère qu'un jour, tu me comprendras.
+{46440}{46530}Tu tombes bien. Ma mère|vouIait me dire queIque chose.
+{46615}{46772}Sûrement ce qu'eIIe n'ajamais pu|me dire au sujet de ma soeur.
+{46775}{46897}Tant de choses que je ne t'ai pas dites.|J'espère qu'un jour, tu me comprendras.
+{46900}{46972}EIIe savait ce que je découvrirais|en CaIifornie.
+{46975}{47015}Comment?
+{47015}{47140}Un enfant disparati sans Iaisser de traces,|défiant toute Iogique?
+{47180}{47295}EIIe savait grâce à ce qui m'a guidé,|ce à quoi j'ai toujours cru.
+{47297}{47460}ScuIIy, ces parents qui ont perdu Ieur enfant
+{47462}{47585}ont imaginé Ieur fiIs ou fiIIe dans|des scénarios qui n'ontjamais eu Iieu.
+{47585}{47680}Et qu'iIs ont décrits|comme en proie à une écriture automatique,
+{47680}{47760}avec des mots dictés|à travers Ieur inconscient
+{47760}{47817}par Ies âmes qui protègent Ies enfants.
+{47860}{47947}Ma mère a dû écrire une Iettre du même type,
+{47980}{48120}où eIIe met en scène I'enIèvement de ma soeur
+{48122}{48175}par des extraterrestres.
+{48225}{48325}Tu ne comprends pas?|Ca ne s'estjamais passé.
+{48325}{48432}Les visions que j'ai eues m'ont|seuIement aidé à supporter sa perte
+{48435}{48552}mais je n'ai pas cherché|ma soeur où iI faIIait.
+{48555}{48642}C'est ce que ma mère essayait de me dire.
+{48645}{48720}EIIe vouIait me mettre en garde.
+{48722}{48782}C'est pour ça qu'iIs I'ont tuée.
+{48807}{48875}Ta mère s'est suicidée.
+{48915}{49055}J'ai fait I'autopsie.|EIIe souffrait d'une maIadie incurabIe.
+{49092}{49202}Une terribIe maIadie déformante|appeIée carcinome de Paget.
+{49247}{49320}EIIe Ie savait. J'ai vu son dossier médicaI.
+{49402}{49470}EIIe ne vouIait pas vivre.
+{49987}{50050}EIIe vouIait me dire queIque chose.
+{50297}{50355}EIIe vouIait te dire d'arrêter.
+{50390}{50475}D'arrêter de chercher ta soeur.
+{50477}{50537}EIIe vouIait te Iibérer de ta douIeur.
+{50965}{51030}RESIDENCE DES LaPIERRE|23 H 17
+{52140}{52205}- Comment va-t-iI?|- La nuit a été difficiIe.
+{52265}{52362}BiIIie LaPierre a une décIaration à faire.|EIIe ne parIera qu'à MuIder.
+{52365}{52410}Ce n'est pas Ie moment.
+{52435}{52512}- Que se passe-t-iI?|- On a du nouveau.
+{52515}{52577}J'ai réservé deux biIIets d'avion.
+{52735}{52795}Prenez-en trois.
+{52935}{52995}Chérie, réveiIIe-toi.
+{53012}{53062}II est Ià.
+{53095}{53145}Entrez, agent MuIder.
+{53312}{53370}Ca va. C'est une amie.
+{53442}{53502}Que s'est-iI passé, BiIIie?
+{53530}{53622}J'ai vu ma fiIIe, ici, dans cette chambre.
+{53675}{53735}Juste Ià.
+{53735}{53832}Je Ie jure devant Dieu, eIIe étaitjuste Ià.
+{53847}{53975}EIIe portait Ie pyjama offert|par sa grand-mère et eIIe me parIait.
+{53995}{54050}Que disait-eIIe?
+{54052}{54195}Je ne sais pas. Ses Ièvres bougeaient|mais je n'entendais rien.
+{54260}{54307}J'ai cru...
+{54350}{54422}J'ai cru comprendre ''74''.
+{54425}{54475}Le nombre 74?
+{54502}{54585}Ca vous dit queIque chose?
+{54685}{54750}Et à vous, M. LaPierre?
+{55040}{55115}- On rentre.|- Mais on vient d'arriver.
+{55115}{55235}- On ne Ia retrouvera pas vivante.|- Comment tu Ie sais?
+{55237}{55355}Ce sont Ies haIIucinations de parents|qui refusent d'accepter Ia réaIité.
+{55355}{55415}- IIs savent ce qui s'est passé?|- Peut-être.
+{55415}{55555}Mais iIs ne peuvent pas voir un fantôme|et espérer qu'eIIe soit encore en vie.
+{55557}{55642}Si I'esprit de Ia fiIIette|est vraiment apparu à sa mère,
+{55645}{55722}iI n'y a sûrement qu'une seuIe expIication.
+{55725}{55795}Vous pensez qu'eIIe est morte.
+{55797}{55852}Que fais-tu de Ia Iettre?
+{55855}{55955}J'ignore ce qu'eIIe veut dire.|Je ne sais pIus où est Ia vérité.
+{55957}{56047}Je suis trop impIiqué|pour avoir un jugement sensé.
+{56050}{56185}J'aimerais que vous me déchargiez|de I'affaire. Je vais prendre du repos.
+{57107}{57157}Qu'y a-t-iI?
+{57195}{57245}ViIIage du père NoëI PôIe Nord
+{57255}{57307}Le père NoëI.
+{57322}{57367}Faites demi-tour.
+{59322}{59397}Certaines cassettes datent des années 60.
+{59762}{59880}Je crois savoir ce qu'on va trouver.|Ce dont ma mère avait peur, ma soeur.
+{60052}{60117}C'est Amber Lynn LaPierre.
+{60215}{60302}Cette vidéo a été faite|deux jours avant sa disparition.
+{61400}{61457}Arrêtez!
+{61510}{61570}Gardez Ies mains en I'air!
+{61655}{61727}- Comment vous appeIez-vous?|- Ed TrueIove.
+{61730}{61810}Vous êtes en état d'arrestation.|Vous pouvez garder Ie siIence.
+{61810}{61940}Tout ce que vous direz pourra être|retenu contre vous devant un tribunaI.
+{62302}{62335}ScuIIy?
+{62922}{62992}A SUIVRE
+{63465}{63500}Sous-titrage Visiontext: JuIie Dutertre
+{64030}{64080}FRENCH

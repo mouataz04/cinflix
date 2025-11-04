@@ -1,0 +1,438 @@
+{120}{195}ROSWELL, NOUVEAU-MEXIQUE|2 JUILLET 1947
+{420}{470}Balle en jeu!
+{717}{780}Quatrième balle! A vos bases!
+{877}{927}Bien, Moose! T'y es presque!
+{930}{995}Il trouverait pas le marbre|punaisé sur ses fesses.
+{997}{1057}Tais-toi. Il apprend, c'est tout.
+{1060}{1120}Lance plus vers le haut.
+{1165}{1240}Et zut. Voilà Exley.
+{1257}{1315}Reculez! Exley en piste!
+{1465}{1530}Ses lunettes sont assez fortes,|miro comme il est?
+{1530}{1590}T'inquiète, Ex. Je lui ai dit de viser
+{1592}{1665}ta tête crépue de frappeur de home run.
+{1667}{1765}On parie 100 dollars|que la balle ira partout, sauf là.
+{1920}{1975}Fausse balle!
+{2885}{2932}Balle!
+{2955}{3015}Moose! Vers le haut!
+{3050}{3122}Alors, les Yankees ont des vues sur toi?
+{3125}{3222}Je suis bien dans la Cactus League.|C'est peinard.
+{3367}{3437}Balle! Laisse ce cactus tranquille!
+{3465}{3555}Les Yankees diraient pas non|à 60 home run par an.
+{3557}{3665}Jackie Robinson joue déjà chez les grands,|tu devrais être le prochain.
+{3667}{3755}Le premier négro black coloré|de l'American League.
+{3755}{3802}Tu vas être célèbre, mec.
+{3805}{3887}Je veux pas être un mec célèbre,|je veux juste être un mec.
+{3922}{3987}Vers le haut!
+{4290}{4345}Bonne balle! Home run!
+{4412}{4440}61.
+{5250}{5320}Vous voulez quoi?|On joue juste au base-ball.
+{5322}{5452}C'est le Babe Ruth noir derrière vous,|Josh Exley, qui nous intéresse.
+{5455}{5540}- C'est lui qu'on veut.|- Non, pas lui.
+{5540}{5620}Y para îti que les Yankees|vont laisser un négro jouer de la balle.
+{5622}{5675}On voudrait faire joujou avec lui avant.
+{5675}{5722}On voudrait faire joujou avec lui avant.
+{5725}{5862}Les autres négros et leurs amis,|vous pouvez partir.
+{5865}{5920}C'est Ex qu'on veut.
+{5982}{6092}Voilà, comme ça. Bien vers le haut.
+{6262}{6315}Prenez leurs fusils.
+{6345}{6455}On fait moins le malin sans son arme, hein?
+{6455}{6517}Espèce de lâche...
+{6520}{6605}caché sous les draps de ta mère.|Fais voir ta trogne.
+{6700}{6735}Seigneur...
+{7160}{7220}LE GOUVERNEMENT NOUS MENT
+{7585}{7617}HORS CHAMP REEL
+{7652}{7732}Superbe journée pour le base-ball|dans la ville des Anges.
+{7735}{7837}Oui, c'est une journée superbe|pour la république entière.
+{7840}{7930}De Bangor à Bellflower.|D'Amarillo àAnchorage.
+{7930}{8045}Le soleil brille, c'est un temps idéal|pour jouer au base-ball.
+{8045}{8120}Eddie Perez va commencer...
+{8430}{8530}Il fait un temps superbe dehors.
+{8532}{8622}T'as jamais eu envie de découvrir|la vie sur cette planète?
+{8625}{8722}Je l'ai découverte, ici.|C'est pour ça que je cherche ailleurs.
+{8910}{8977}Tu partages pas ta glace avec tes camarades?
+{8980}{9092}C'est pas de la glace.|C'est un cornet minceur au tofu.
+{9122}{9195}Même mon haleine doit être meilleure.
+{9195}{9285}- Quelle joyeuse luronne.|- C'est toi, M. Joyeux luron.
+{9287}{9422}M. Je croque dans la vie|à pleines dents, c'est ça?
+{9425}{9525}En ce samedi ensoleillé,|tu saisis la vie à pleines mâchoires
+{9527}{9605}en volant des registres du FBI|afin de parcourir
+{9607}{9730}les chroniques nécrologiques|du Nouveau-Mexique de 1940 à 1949.
+{9732}{9810}- Et dans quel aimable but?|- Je traque les anomalies.
+{9812}{9922}Sais-tu combien d'ovnis ont été vus|au Nouveau-Mexique dans les années 40?
+{9925}{9985}C'est une goutte d'eau dans l'océan.
+{9987}{10085}Ces hommes sont morts depuis 50 ans.|Laisse-les reposer en paix.
+{10087}{10175}- Ne réveille pas le chat qui dort.|- Bien, jouons aux clichés.
+{10177}{10265}- Le travail, père de l'inspiration.|- La nécessité, mère de l'invention.
+{10267}{10315}Le chemin de l'excès|mène au palais de la sagesse.
+{10317}{10362}Mangeons et buvons|car demain, nous mourrons.
+{10365}{10480}Je me lève, tu te lèves, on se lève tous|pour le cornet minceur au tofu!
+{10682}{10710}Quel fieffé menteur. Tu lis des trucs|sur le base-ball depuis tout à l'heure.
+{10710}{10802}Quel fieffé menteur. Tu lis des trucs|sur le base-ball depuis tout à l'heure.
+{10805}{10910}Oui, mais les feuilles de stats,|le théorème de Pythagore des athlètes.
+{10912}{11005}Elles concentrent l'histoire entière|de n'importe quel jeu
+{11007}{11082}en une séquence de chiffres|parfaitement rectangulaire.
+{11085}{11170}En l'observant,|je peux recréer dans le détail
+{11172}{11300}un jour d'été de l'année 1947.|Les chiffres sont mes amis, ils me parlent.
+{11302}{11410}Ils me disent que si certaines choses|changent, d'autres pas. C'est...
+{11412}{11442}Ennuyeux.
+{11477}{11545}Je peux te poser une question personnelle?
+{11570}{11595}Bien sûr que non.
+{11597}{11700}Ta mère t'a déjà dit d'aller jouer dehors?
+{11727}{11792}C'est bien Arthur Dales?
+{11925}{12010}Tu as dégradé la propriété|du gouvernement américain.
+{12070}{12095}Rebelle.
+{12372}{12482}- Vous en avez mis, un temps!|- Désolé. Je cherche Arthur Dales.
+{12485}{12570}- C'est moi, Arthur Dales.|- Non, c'est pas vous.
+{12570}{12670}- Faites pas le malin.|- Désolé, mais je connais Arthur Dales.
+{12670}{12762}- Et vous n'êtes pas Arthur Dales.|- Arthur Dales est mon frère.
+{12765}{12860}Je m'appelle aussi Arthur Dales.|Même nom, gars différent.
+{12860}{12940}L'autre Arthur a déménagé en Floride.|Le veinard.
+{12942}{13062}Nos parents manquaient d'imagination|en matière de prénoms.
+{13065}{13157}Et pour sonder plus avant|ce mystère saisissant, sachez,
+{13160}{13297}agent Mulder, que notre soeur se prénommait|aussi Arthur. Idem pour le poisson rouge.
+{13317}{13405}- D'où savez-vous mon nom?|- Mon frère m'a beaucoup parlé de vous.
+{13405}{13520}Vous seriez le plus bel idiot du FBI|depuis qu'il a pris sa retraite.
+{13520}{13572}On est de vrais fans.
+{13575}{13690}Des fois, on passait des nuits blanches|à parler de vous.
+{13690}{13732}On était fascinés.
+{13735}{13835}Maintenant, à moins que vous cachiez|de la bouffe chinoise, au plaisir.
+{13960}{14070}J'ai une photo de votre frère.
+{14072}{14185}Ou de vous. Prise il y a des années.|C'est à Roswell, au Nouveau-Mexique.
+{14185}{14295}A Roswell. C'est moi. J'étais flic là-bas.
+{14295}{14365}Vous êtes avec la légende|de la Negro League, Josh Exley,
+{14367}{14457}disparu au cours d'une saison|où il avait fait 60 home run.
+{14460}{14540}- 61!|- 61 home run, en 1948.
+{14542}{14587}1947!
+{14590}{14657}Peu importe. Ce qui m'intéresse surtout,
+{14660}{14682}c'est cet homme, que je crois être|un chasseur de primes extraterrestre.
+{14682}{14765}c'est cet homme, que je crois être|un chasseur de primes extraterrestre.
+{14767}{14855}Evidemment que|vous vous fichez du base-ball.
+{14857}{14952}Vous ne tanniez mon frère qu'avec|vos histoires de complot en haut lieu,
+{14955}{15030}de chasseurs de primes martiens|et de vérité avec un grand "V".
+{15032}{15105}- J'aime le base-ball.|- Vraiment?
+{15107}{15170}Combien de home run pour Mickey Mantle?
+{15240}{15300}163...
+{15320}{15370}à droite, 373 à gauche.
+{15372}{15432}536 en tout.
+{15472}{15572}Ce que vos oeillères vous ont caché,
+{15575}{15655}c'est que le base-ball est la clé de la vie.
+{15655}{15712}La pierre de Rosette, en quelque sorte.
+{15715}{15825}Si vous compreniez mieux ce sport,|toutes vos interrogations
+{15827}{15897}sur les extraterrestres, les complots,
+{15900}{15980}trouveraient une réponse|auprès des dieux du base-ball.
+{15980}{16110}Sûrement. Mais ce que vous avez vécu|à Roswell pourrait être lié à un complot
+{16112}{16190}entre notre gouvernement|et des extraterrestres mutants.
+{16192}{16307}Vous me fatiguez, petit. Mon frère|Arthur a commencé aux affaires NC,
+{16310}{16400}au Bureau Fédéral des Embrouilles,|avant votre naissance.
+{16400}{16470}Il faisait la chasse aux extraterrestres
+{16470}{16545}quand vous regardiez encore|<i>Les martiens débarquent.</i>
+{16545}{16607}Vous parlez de "mutation".
+{16645}{16760}Croyez-vous que l'amour|puisse faire changer un homme?
+{16840}{16927}Les femmes changent les hommes.
+{16930}{17015}Je ne parle pas de femmes.|Mais d'amour, de passion.
+{17015}{17095}Comme votre passion|à prouver la vie extraterrestre.
+{17095}{17217}Pensez-vous que cette passion-là|puisse changer votre nature?
+{17220}{17345}Qu'elle fasse de l'homme que vous êtes|autre chose qu'un homme?
+{17345}{17360}Qu'elle fasse de l'homme que vous êtes|autre chose qu'un homme?
+{17380}{17465}Qu'est-ce que votre frère|vous a raconté sur moi?
+{17535}{17617}Si vous avez eu connaissance|de ce chasseur de primes
+{17620}{17710}et de plans de colonisation il y a 50 ans,|pourquoi n'avoir rien dit?
+{17710}{17762}- Personne ne m'aurait cru.|- Moi, si.
+{17765}{17862}- Vous n'étiez pas mûr.|- Pas mûr?
+{17865}{17917}Je le suis depuis des années.
+{17920}{17985}Je suis tellement mûr que j'ai pourri.
+{17987}{18080}Cette affaire est au coeur du mystère|qui m'intrigue depuis dix ans.
+{18082}{18147}Le coeur du mystère.
+{18200}{18265}Te voilà.
+{18287}{18442}Il faudrait peut-être accorder|moins d'attention au coeur du mystère
+{18445}{18545}et davantage au mystère du coeur.
+{18547}{18590}- Vous avez une pièce?|- C'est quoi?
+{18592}{18660}Ce petit gars s'appelle Pete Rosebud.
+{18660}{18775}Si vous lui donnez des pièces,|il vous parlera de base-ball,
+{18777}{18827}de martiens et de chasseurs de primes.
+{18830}{18897}- Je retourne en enfance.|- Tant mieux.
+{18900}{18967}C'est par là qu'il faut commencer, non?
+{18970}{19115}Première chose à savoir:|le base-ball est une fontaine de jouvence.
+{19305}{19412}STADE MUNICIPAL DE ROSWELL|29 JUIN 1947
+{19530}{19615}M. Exley? Je suis Arthur Dales.
+{19617}{19697}Officier de la police de Roswell.
+{19740}{19807}- J'ai enfreint la loi?|- Tu as volé...
+{19810}{19910}la 2ème base à la 3ème manche.|Je suis témoin, monsieur l'agent.
+{19912}{20012}- Il a volé 50 bases cette année.|- Vous n'avez pas enfreint la loi.
+{20015}{20125}J'ai pour mission de vous protéger|contre certaines personnes.
+{20125}{20267}C'est moi qui dois être protégé.|Ex, il est au lit à 20 h 00.
+{20270}{20352}C'est gentil à vous,|mais je peux me protéger seul.
+{20355}{20455}Je ne suis pas un roi du sport,|et je ne pense rien des nègres.
+{20457}{20550}Ni des Juifs, des communistes,|des Canadiens ou des végétariens.
+{20552}{20640}Mais je ne tolérerai pas qu'un homme,|quelle que soit sa foi ou sa couleur,
+{20642}{20720}soit explicitement mis à mort|dans ma ville. Ca, non.
+{20720}{20840}Vous pouvez donc être en sécurité avec moi|dans une cellule, ou dans ce bus.
+{20840}{20932}On est encore en Amérique,|le choix vous appartient.
+{21380}{21450}- Vous êtes un mec bien, non?|- Je m'y efforce.
+{21452}{21585}Les arbitres nous traiteraient mieux|si vous nous trouviez 8 uniformes comme ça.
+{21587}{21712}Oui, les "Schtroumpfs Noirs",|au lieu des "Gris de Roswell".
+{23520}{23662}Quoi? On dirait que vous n'avez|jamais vu un Noir de votre vie.
+{23855}{23977}C'est malin de donner à une équipe de Noirs|le nom d'une race d'extraterrestres.
+{23980}{24045}E.T. voleur de maison.
+{24047}{24092}Je n'ai rien inventé.
+{24095}{24205}Je devrais gober que la légende du base-ball|Josh Exley était un extraterrestre?
+{24205}{24282}Ils le sont tous. Tous les grands.
+{24285}{24352}- Babe Ruth en était un?|- Ouais.
+{24355}{24402}- Joe DiMaggio?|- Bien sûr.
+{24405}{24450}- Willie Mays?|- Oui.
+{24450}{24490}Mantle? Koufax?
+{24492}{24535}- Gibson?|- Bob et Kirk.
+{24535}{24550}- Gibson?|- Bob et Kirk.
+{24552}{24690}Aucun des grands n'est à sa place.|Ni dans ce monde, ni dans aucun autre.
+{24745}{24870}Ils sont tous extraterrestres|en dehors des lignes blanches,
+{24872}{24925}hors du champ extérieur.
+{24925}{25010}Réglé comme une horloge.|Gavroche et mon médicament.
+{25037}{25100}Donnez-lui un pourboire.
+{25150}{25230}Tout ça, c'est des métaphores.
+{25245}{25337}Les métaphores, c'est bon|pour les jeunes, agent MacGyver.
+{25340}{25447}Moi, je n'ai pas le temps pour ça,|seulement pour la vérité.
+{25502}{25565}La générosité vous étouffe, hein?
+{25687}{25800}STADE MUNICIPAL DE ROSWELL|30 JUIN 1947
+{25812}{25890}Avec deux home run,|Ex sera à égalité avec Babe.
+{25890}{25990}Ca veut rien dire. Il est pas|en ligue majeure, ça compte pas.
+{25992}{26052}- Si, ça compte.|- Non, ça compte pas.
+{27550}{27600}Belle journée pour les lanceurs.
+{28827}{28935}- Il y avait une abeille.|- Elle devait être balèze.
+{28937}{28990}Une arracheuse de tête.
+{29125}{29152}Merci.
+{29202}{29317}L'agent Dales, garant d'un monde sûr|pour le base-ball et les négros.
+{29735}{29785}Balle en jeu!
+{30192}{30310}Comment tu t'appelles?|Tu sais où tu es?
+{30365}{30407}Réveille-toi.
+{30455}{30500}Tu sais d'où tu viens?
+{30550}{30600}Macon.
+{30620}{30670}Macon, en Géorgie.
+{31362}{31420}Police de Macon. Puis-je vous aider?
+{31422}{31505}Je suis Arthur Dales,|de la police de Roswell.
+{31507}{31615}Je fais une petite enquête|sur un homme de chez vous: Josh Exley.
+{31617}{31702}Une enquête sur un Josh Exley?
+{31702}{31707}Une enquête sur un Josh Exley?
+{31795}{31915}Oui. Ca me dit quelque chose.|J'ai un Josh Exley.
+{31915}{32030}Un gamin noir de six ans,|disparu il y a environ cinq ans.
+{32030}{32117}Vous avez quelque chose|sur ce Josh Exley?
+{32120}{32170}Six ans?
+{32185}{32250}- Je fais des analyses chimiques?|- Un instant.
+{32252}{32340}Il aurait 11 ans aujourd'hui?|Non, ça ne peut pas être lui.
+{32382}{32432}J'adore mon boulot.
+{32475}{32572}- C'est tout? Vous êtes sûr?|- Rien n'est plus sûr.
+{32575}{32625}Désolé, mon gars.
+{32677}{32722}D'où appelez-vous?
+{32730}{32820}- De Roswell, Nouveau-Mexique.|- Roswell.
+{32875}{32952}- Salut, Gavroche.|- Salut. La tête, ça va?
+{32955}{33015}Ca va. Ce mec frappe comme une fille.
+{33017}{33102}Les recruteurs des Yankees sont là.|Tu nous frappes le 60ème?
+{33105}{33200}- Y a pas de recruteurs.|- Que si. Regarde.
+{33262}{33312}Là-bas.
+{33347}{33400}Et zut.
+{33440}{33490}Les enfants.
+{33492}{33572}- Alors?|- Ex fait l'empoté.
+{33610}{33715}- Un mauvais jour, ça arrive.|- Les recruteurs des Yankees sont là.
+{33715}{33857}Ils le feront pas passer en ligue majeure|après une manche aussi nulle.
+{33877}{33922}2ème prise!
+{34292}{34345}Deux balles, deux prises!
+{34832}{34920}Pourquoi avoir torpillé le match?
+{34920}{35000}- J'ai gagné.|- Vous avez torpillé le match.
+{35025}{35137}Je vais vous dire pourquoi:|vous n'êtes pas Josh Exley.
+{35140}{35210}Josh Exley est un gamin|qui a disparu de Macon, en Géorgie,
+{35212}{35265}au moment où vous êtes apparu à Roswell.
+{35265}{35297}Je suis jamais allé à Macon.
+{35300}{35362}Quand vous étiez sonné,|vous avez dit venir de là.
+{35365}{35460}J'ai aussi baragouiné,|comme quand j'allais à l'église.
+{35555}{35605}Je blaguais. Du calme.
+{35632}{35775}Je suis calme. Vous cachez un truc,|et vous n'irez pas en ligue majeure
+{35775}{35910}à cause de tous ces journalistes|qui risqueraient de fouiner, pas vrai?
+{35912}{36045}Vous avez joué au nul devant les recruteurs.|Vous avez déçu les enfants.
+{36047}{36130}Vos équipiers. Votre race.
+{36130}{36200}Ne parlez pas de ma race.|Vous n'en savez rien.
+{36202}{36302}Je sais que les menteurs peuvent|être de n'importe quelle couleur.
+{36342}{36440}Vous avez un secret.|Célèbre ou pas, je le percerai à jour.
+{36442}{36555}Dans votre chasse aux secrets,|assurez-vous de chasser les bons.
+{39060}{39110}Merci.
+{39187}{39305}C'est ridicule.|Vous êtes censé être un flic coriace.
+{39352}{39455}Attendez. Avant de vous évanouir encore,|écoutez-moi.
+{39457}{39575}- C'est moi, Ex.|- Intéressant, ce rêve.
+{39577}{39635}Réveille-toi. Allez, Artie.
+{39657}{39747}C'est pas un rêve.|C'est comme ça que je suis vraiment.
+{39750}{39795}C'est mon vrai moi.
+{40005}{40070}C'est vous, là-dessous?
+{40090}{40155}Je suis sous rien du tout.
+{40157}{40165}Je ne vais pas m'offusquer|de votre réaction.
+{40165}{40245}Je ne vais pas m'offusquer|de votre réaction.
+{40247}{40337}C'est mieux, si je ressemble à ça?
+{40447}{40512}C'est plus facile à vivre?
+{40660}{40742}- Non. C'est encore plus bizarre.|- Le bus part dans...
+{40807}{40955}Pourquoi avoir quitté|votre famille, en Géorgie?
+{40980}{41087}- Mon peuple tient à sa vie privée.|- Je veux bien le croire.
+{41090}{41185}Ils n'aiment pas qu'on se mêle aux autres.
+{41187}{41342}On reste entre nous, vous restez entre vous|et tout le monde est content.
+{41345}{41430}- Alors que s'est-il passé?|- Vous le savez.
+{41432}{41497}Vous êtes tombé amoureux|d'une Terrienne.
+{41547}{41610}- Quoi?|- Non.
+{41610}{41665}J'ai vu un match de base-ball.
+{41667}{41745}Il faut savoir quelque chose sur ma race.
+{41745}{41857}Le mot "rire" n'existe pas. On ne rit pas.
+{41860}{41962}Vous n'avez peut-être pas vu,|entre tous ces évanouissements,
+{41965}{42102}mais nos bouches sont très petites,|on ne sourit même pas.
+{42105}{42205}Mais quand j'ai vu ce match de base-ball,
+{42205}{42300}un rire a surgi en moi.
+{42325}{42425}Le son de la balle contre la batte,|c'était de la musique pour moi.
+{42427}{42485}L'odeur du gazon, le gant de cuir.
+{42487}{42610}La première chose inutile de ma vie,|et je suis tombé amoureux.
+{42612}{42690}J'ignorais que l'inutile pouvait être si bon.
+{42692}{42825}Le jeu n'avait aucun sens,|mais c'était tout à mes yeux.
+{42827}{42937}Inutile, mais la perfection même.
+{42950}{43025}Oui. Comme une rose.
+{43027}{43135}Comme une rose. Vous avez saisi.|Vous êtes un passionné.
+{43137}{43280}Après ça, impossible de me résoudre|à rentrer chez moi.
+{43315}{43385}Viens donc profiter de cette belle voix.
+{44062}{44170}Les Bus Gris,|ils vous ramèneront chez vous.
+{44172}{44255}Un extraterrestre émancipé|s'est amouraché du base-ball,
+{44257}{44320}a plaqué les extraterrestres rabat-joie
+{44322}{44395}et s'est fait Noir|pour ne pas passer en ligue majeure,
+{44397}{44525}où son secret risquait d'être révélé|par la presse. Vous insinuez aussi...
+{44527}{44642}Vous avez le don de l'extrapolation,|jeune homme.
+{44645}{44730}Vous insinuez aussi que|cet extraterrestre a un rapport
+{44732}{44820}avec le célèbre crash d'ovni|de juillet 47 à Roswell, non?
+{44822}{44900}Avide de comprendre, hein, petit?
+{44902}{45037}Je vous demandais une armoire,|vous me construisez une cathédrale.
+{45040}{45100}J'en veux pas. Je suis bien là où je vis.
+{45102}{45247}Je veux juste caser|ma télé quelque part. Saisi?
+{45295}{45330}Saisi, monsieur.
+{45332}{45432}Croyez l'histoire, MacGyver, pas le conteur.
+{45435}{45532}Ce qui nous fascine est, par essence, vrai.
+{45535}{45605}Métaphoriquement, j'entends.
+{45607}{45675}Donc, Ex est un homme|métaphoriquement extraterrestre
+{45677}{45732}ou un extraterrestre|métaphoriquement homme?
+{45735}{45845}Ou un entre-deux réellement|mi-homme, mi-extraterrestre?
+{46035}{46122}C'est officiel. Je suis débile.
+{46160}{46265}Qu'est-ce qu'être un homme?|Est-ce en avoir l'organisme?
+{46265}{46315}Selon l'ordre universel des choses,
+{46317}{46370}l'organisme d'un chien est|presque identique à celui d'un homme.
+{46370}{46402}l'organisme d'un chien est|presque identique à celui d'un homme.
+{46405}{46455}Cela fait-il d'un chien un homme?
+{46457}{46582}J'ai remarqué qu'un chien et son ma îti re|finissent par se ressembler.
+{46585}{46717}Être un homme, c'est en avoir le coeur.|L'intégrité, le respect, la sympathie.
+{46720}{46822}Voilà ce qui fait d'un homme un homme.|Et Ex avait tout ça.
+{46825}{46902}Plus que vous, plus que moi.
+{47285}{47330}Du calme. Qu'y a-t-il?
+{47332}{47405}Le truc poisseux, sur le gant.|C'est une blague?
+{47407}{47437}Pourquoi?
+{47440}{47497}Composition chimique inconnue au bataillon.
+{47500}{47620}Elle vient d'une forme de vie|dénuée de carbone, c'est impossible.
+{47622}{47740}Ca me dépasse. J'ai appelé le FBI|et le Centre des maladies contagieuses.
+{47742}{47815}Personne ne devait être mis au courant.
+{47817}{47915}- Vous pouvez me ramener le gant?|- Oui. Dès que j'aurai fini.
+{48192}{48250}Je ne voulais pas vous effrayer.|Je suis Josh.
+{48252}{48332}Oui, le meilleur joueur|de base-ball du Bronx.
+{48335}{48452}Merci. Arthur m'a envoyé pour expliquer|ce qui a fichu mon gant en l'air.
+{48455}{48505}D'où vient ce truc?
+{48507}{48532}De Mars.
+{48577}{48645}De l'Ouest de Mars.
+{48687}{48752}Qu'est-ce qui vous prend?
+{49390}{49465}Un type est prêt à jurer sur sa vie
+{49467}{49532}que vous avez tué un homme cet après-midi.
+{49535}{49665}Je ne sais pas bien ce qui se passe.|Mais vous n'êtes pas un meurtrier.
+{49667}{49735}Il va falloir quitter la ville.
+{50102}{50197}- La vie n'est pas comme le base-ball, hein?|- Non.
+{50240}{50320}J'ai parlé avec l'un des miens.|Sérieusement.
+{50320}{50430}Il m'a ramené à la raison.|La famille passe avant le jeu.
+{50432}{50487}Je dois rentrer.
+{50490}{50562}Vous les considérez|encore comme votre famille?
+{50565}{50625}Bien sûr. Ce serait qui, ma famille?
+{50650}{50700}Je ne sais pas. Votre équipe?
+{50720}{50840}Et ce serait grâce aux gosses|que j'ai battu le record de home run?
+{50840}{50925}Grâce aux copains noirs|que j'aurais pu passer chez les grands?
+{50925}{51010}Je devrais croire|à une valeur humaine insensée
+{51010}{51070}comme l'honneur ou la loyauté?
+{51095}{51172}- J'en sais rien.|- On ne pense pas comme ça.
+{51195}{51295}On peut vous ressembler,|mais on n'est pas comme vous.
+{51295}{51390}- Vous savez ce qui nous sépare?|- Quoi?
+{51392}{51452}Nous, on a le rythme.
+{51815}{51865}- Je file.|- Oui.
+{51867}{51927}Vous me rendriez un service?
+{51947}{52045}Vous raconterez comment je jouais?
+{52047}{52137}- Vous le direz à vos enfants?|- Vous savez bien que oui.
+{52245}{52320}- Une dernière chose.|- Quoi?
+{52347}{52417}Vous êtes un bon lanceur.
+{52700}{52782}Vous pensez le conna îti re,|mais vous êtes dans le faux.
+{52785}{52867}Vous ne savez pas ce que je sais.|Ni ce que j'ignore.
+{52870}{52952}Il ne s'agit pas d'une équipe de bouseux|du Nouveau-Mexique.
+{52955}{53045}Si je vous disais tout,|vous écarquilleriez les yeux
+{53045}{53107}et vous vous feriez pipi dessus.
+{53110}{53162}Dites-le-moi. Où est Exley?
+{53165}{53230}Il m'a dit qu'il rentrait à la maison.
+{53230}{53282}Balle en jeu!
+{53285}{53390}Ses lunettes sont assez fortes,|miro comme il est?
+{53485}{53525}Home run!
+{53535}{53592}Un témoin l'a vu sur le lieu du crime.
+{53595}{53705}Ils ont beau être tous pareils,|à moins d'avoir un vrai sosie,
+{53707}{53772}c'est un meurtrier.|Vous pourriez être complice
+{53775}{53867}et vous êtes tous les deux|sérieusement sur le fil du rasoir.
+{53867}{53877}et vous êtes tous les deux|sérieusement sur le fil du rasoir.
+{54067}{54220}Livrez-le, et vous garderez votre chapeau|et votre insigne longtemps.
+{54222}{54270}On a fini?
+{54312}{54397}Non, M. Dales. C'est vous qui êtes fini.
+{54915}{54965}Home.
+{55010}{55060}Mon Dieu.
+{55427}{55477}Allez.
+{55670}{55717}C'est fini.
+{55747}{55832}- Je sais.|- Tu ne m'as pas écouté.
+{55962}{55992}Tu vas mourir.
+{56062}{56110}C'est ce qu'il y a à faire.
+{56110}{56170}Qu'en sais-tu?
+{56170}{56267}Toi qui as mis tout le projet|en danger pour un jeu?
+{56270}{56320}Un jeu.
+{56335}{56425}- J'ai fait un home run ce soir.|- Un home run?
+{56437}{56527}Le 61ème. Record battu.
+{56530}{56602}Montre-moi ton vrai visage|pour mourir dignement.
+{56677}{56787}En tant que bourreau,|je te montre le mien avant de te tuer.
+{57070}{57200}Montre-moi ton vrai visage,|ou tu mourras dans la honte.
+{57282}{57337}C'est mon vrai visage.
+{57340}{57367}Ainsi soit-il.
+{57520}{57572}Non! Arrêtez!
+{57760}{57830}Non! Laissez-moi!
+{57935}{58015}Poussez-vous.|Notre sang est acide pour vous.
+{58017}{58080}Partez. Ne le touchez pas.
+{58082}{58175}Ce n'est que du sang. Regardez.
+{60360}{60502}J'ai eu ce message "urgent"
+{60505}{60580}sur mon répondeur,|d'un certain Fox Mantle,
+{60582}{60672}me disant de venir au parc|pour un cadeau d'anniversaire unique,
+{60675}{60745}très en retard ou très en avance.
+{60775}{60910}Et Mulder... Je ne vois aucun|joli paquet cadeau, alors?
+{60935}{61035}- T'as jamais fait de base-ball?|- Non. Je crois...
+{61035}{61145}avoir trouvé des choses plus utiles|à faire de mon temps
+{61147}{61222}que taper du cuir de cheval|avec un bâton.
+{61250}{61280}Viens par-là.
+{61542}{61642}C'est mon cadeau d'anniversaire?|Fallait pas.
+{61645}{61775}C'est pas rien. Je paie ce gosse|10 $ de l'heure pour lancer les balles.
+{61800}{61872}Pas mal, le gourdin.
+{61875}{61930}La batte. Je parle de la batte.
+{61932}{62017}L'étrangle pas. Il faut lui serrer la pince.|Bonjour, Mme la batte.
+{62020}{62065}C'est un plaisir de vous rencontrer.|Non, Mlle Scully. Le plaisir est pour moi.
+{62065}{62137}C'est un plaisir de vous rencontrer.|Non, Mlle Scully. Le plaisir est pour moi.
+{62140}{62222}Les hanches avant les mains.
+{62225}{62310}On prend son élan et on tourne.|Là est notre but.
+{62310}{62390}- Les hanches avant les mains. D'accord?|- Oui.
+{62392}{62472}Encore. Les hanches avant les mains.
+{62475}{62550}- D'accord? Répète.|- Les hanches avant les mains.
+{62550}{62650}On garde les yeux sur la balle|et on établit le contact.
+{62652}{62745}On ne pense pas.|On la laisse voler vers nous.
+{62777}{62850}- Prête?|- Je prends le milieu.
+{62882}{62940}Vas-y, Gavroche.
+{62972}{63117}Bien. Tu verras, quand tu te concentres|sur cette petite balle,
+{63120}{63210}tous tes problèmes quotidiens|s'évanouissent.
+{63212}{63262}Ton horloge biologique qui tourne.
+{63265}{63370}Ton salaire qui ne te permet pas|de t'offrir ce joli manteau de daim.
+{63370}{63445}Ta carrière médicale|prometteuse abandonnée
+{63447}{63545}pour chasser des martiens|avec ton équipier dingo, mais génial.
+{63547}{63617}L'arrivée au coeur du complot.
+{63637}{63712}Ton retard de paiement pour les revues X.
+{63715}{63810}Désolé. Ces deux derniers soucis|me sont propres.
+{63812}{63882}Tais-toi. Je joue au base-ball.
+{64675}{64752}Sous-titrage Visiontext: Chloé Leleu
+{65287}{65337}FRENCH

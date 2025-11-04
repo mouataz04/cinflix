@@ -1,0 +1,3190 @@
+1
+00:00:09,985 --> 00:00:10,185
+Synchro, Traduction :
+_
+
+2
+00:00:10,186 --> 00:00:10,386
+Synchro, Traduction :
+_/
+
+3
+00:00:10,387 --> 00:00:10,587
+Synchro, Traduction :
+_/Y
+
+4
+00:00:10,588 --> 00:00:10,788
+Synchro, Traduction :
+_/Ye
+
+5
+00:00:10,789 --> 00:00:10,989
+Synchro, Traduction :
+_/Yel
+
+6
+00:00:10,990 --> 00:00:11,190
+Synchro, Traduction :
+_/Yell
+
+7
+00:00:11,191 --> 00:00:11,391
+Synchro, Traduction :
+_/Yello
+
+8
+00:00:11,392 --> 00:00:11,592
+Synchro, Traduction :
+_/Yellow
+
+9
+00:00:11,593 --> 00:00:11,793
+Synchro, Traduction :
+_/Yellow S
+
+10
+00:00:11,794 --> 00:00:11,994
+Synchro, Traduction :
+_/Yellow Su
+
+11
+00:00:11,995 --> 00:00:12,195
+Synchro, Traduction :
+_/Yellow Sub
+
+12
+00:00:12,196 --> 00:00:12,396
+Synchro, Traduction :
+_/Yellow Sub\
+
+13
+00:00:12,397 --> 00:00:12,597
+Synchro, Traduction :
+_/Yellow Sub\_
+
+14
+00:00:12,598 --> 00:00:23,116
+Synchro, Traduction :
+_/Yellow Sub\_ v1.0
+
+15
+00:01:02,058 --> 00:01:09,754
+Transcript :
+FRM Team
+
+16
+00:01:18,456 --> 00:01:24,070
+_/Yellow Sub\_
+Présente :
+
+17
+00:01:25,103 --> 00:01:28,557
+Rome - Saison 02
+Épisode 08
+
+18
+00:01:28,692 --> 00:01:30,717
+"A Necessary Fiction"
+
+19
+00:01:37,064 --> 00:01:38,758
+À l'aube de notre histoire,
+
+20
+00:01:40,330 --> 00:01:42,831
+nous, les hommes de Rome,
+étions fort et farouches,
+
+21
+00:01:44,128 --> 00:01:47,054
+mais aussi rustres et solitaires.
+
+22
+00:01:48,412 --> 00:01:50,763
+Ce ne fut que lorsque
+nous prîmes femme
+
+23
+00:01:51,600 --> 00:01:54,557
+que nous nous élevâmes
+vers la grandeur.
+
+24
+00:01:55,485 --> 00:02:01,601
+<i>Ce sont les femmes de Rome, avec leur
+inébranlable vertu et leur chaste morale</i>
+
+25
+00:02:01,900 --> 00:02:03,768
+<i>qui ont conquis le monde.</i>
+
+26
+00:02:08,100 --> 00:02:09,877
+<i>C'est en suivant
+leur lumière vertueuse</i>
+
+27
+00:02:10,000 --> 00:02:14,233
+<i>que nous, les hommes, avons parcouru
+le périlleux sentier de la gloire.</i>
+
+28
+00:02:17,779 --> 00:02:19,775
+<i>Ce sont les femmes de Rome</i>
+
+29
+00:02:20,718 --> 00:02:24,531
+<i>qui veillèrent sur nos foyers pendant
+que nous brûlions Carthage.</i>
+
+30
+00:02:25,800 --> 00:02:27,551
+<i>Ce sont les femmes de Rome,</i>
+
+31
+00:02:27,765 --> 00:02:31,058
+comme la louve qui nourrit
+Romulus et Remus,
+
+32
+00:02:31,468 --> 00:02:34,612
+qui ont élevé une nation
+de sages dirigeants
+
+33
+00:02:35,452 --> 00:02:37,202
+et de guerriers invincibles.
+
+34
+00:02:39,088 --> 00:02:41,234
+De notre part à nous, les hommes,
+
+35
+00:02:41,630 --> 00:02:43,967
+je vous remercie toutes.
+
+36
+00:02:48,796 --> 00:02:50,354
+Quand le moment sera venu,
+
+37
+00:02:51,037 --> 00:02:54,905
+je m'assurerai que vous, les femmes,
+soyez récompensées pour votre vertu.
+
+38
+00:02:56,385 --> 00:02:58,681
+Dans l'avenir, j'édicterai des lois
+
+39
+00:02:59,255 --> 00:03:01,226
+qui récompenseront la fertilité
+
+40
+00:03:01,578 --> 00:03:03,250
+et la sainteté du mariage.
+
+41
+00:03:03,800 --> 00:03:05,298
+J'édicterai des lois
+
+42
+00:03:05,464 --> 00:03:07,597
+qui puniront sévèrement l'adultère,
+
+43
+00:03:07,911 --> 00:03:09,155
+la promiscuité
+
+44
+00:03:10,207 --> 00:03:12,913
+et le vice sous toutes ses formes.
+
+45
+00:03:18,370 --> 00:03:21,117
+C'est très bon, je tâcherai
+de ne pas l'oublier.
+
+46
+00:03:21,240 --> 00:03:23,309
+Si vous voulez bien m'excuser.
+
+47
+00:03:23,703 --> 00:03:27,366
+- Tu en as pensé quoi ?
+- Le discours ? Oh, puissant.
+
+48
+00:03:27,530 --> 00:03:29,574
+Très amusant, elles ont tout gobé.
+
+49
+00:03:29,669 --> 00:03:30,918
+Je le ferai.
+
+50
+00:03:31,707 --> 00:03:33,375
+Oui, je le pense bien.
+
+51
+00:03:33,648 --> 00:03:35,835
+Je pensais que les femmes
+de la Rome ancienne
+
+52
+00:03:35,903 --> 00:03:38,099
+n'étaient que
+des putes et des bigotes.
+
+53
+00:03:38,185 --> 00:03:40,240
+Nous avons une opinion différente.
+
+54
+00:03:41,389 --> 00:03:44,205
+Voilà la jeunette dont je te parlais.
+
+55
+00:03:49,070 --> 00:03:50,586
+Elle est très présentable.
+
+56
+00:03:50,736 --> 00:03:52,675
+Comme demandé.
+Famille irréprochable,
+
+57
+00:03:52,770 --> 00:03:55,400
+jeune, en bonne santé,
+fertilité prouvée.
+
+58
+00:03:55,757 --> 00:03:59,994
+- Combien d'enfants ?
+- Un seul. Un fils, Tiberius.
+
+59
+00:04:02,659 --> 00:04:03,985
+Présente-moi.
+
+60
+00:04:11,640 --> 00:04:17,025
+César, puis-je te présenter Alfidia
+et sa fille Livia ?
+
+61
+00:04:17,134 --> 00:04:18,382
+Je suis honorée.
+
+62
+00:04:20,285 --> 00:04:23,346
+Dis-moi, te plairait-il d'être
+mon épouse ?
+
+63
+00:04:29,789 --> 00:04:33,561
+J'apprécierais...
+
+64
+00:04:34,203 --> 00:04:36,270
+si mon mari ne s'y oppose pas.
+
+65
+00:04:36,338 --> 00:04:39,154
+- Comment s'appelle-t-il ?
+- Claudius Nero.
+
+66
+00:04:39,389 --> 00:04:42,260
+Je connais sa famille.
+Ce sont des gens patriotiques.
+
+67
+00:04:42,396 --> 00:04:45,999
+- Ils ne s'opposeront pas à un divorce.
+- Non, j'en suis sûre, Excellence.
+
+68
+00:04:46,305 --> 00:04:47,399
+Excellent.
+
+69
+00:04:48,109 --> 00:04:49,421
+Arrange les détails.
+
+70
+00:04:53,987 --> 00:04:55,272
+Elle fera très bien l'affaire.
+
+71
+00:04:55,839 --> 00:04:57,637
+Un autre sujet
+
+72
+00:04:57,739 --> 00:04:59,557
+avant de replonger dans le féminisme.
+
+73
+00:04:59,655 --> 00:05:02,717
+L'or d'Hérode est en mer à Ostie
+et il attend la marée haute.
+
+74
+00:05:02,812 --> 00:05:04,876
+J'ai vu avec Posca, l'homme d'Antoine
+
+75
+00:05:04,972 --> 00:05:06,342
+pour les détails de la livraison.
+
+76
+00:05:06,436 --> 00:05:09,514
+Nous pensions utiliser le Collège de
+l'Aventin pour le transport.
+
+77
+00:05:09,610 --> 00:05:11,199
+Si cela te convient.
+
+78
+00:05:11,359 --> 00:05:12,398
+C'est une bonne idée.
+
+79
+00:05:12,589 --> 00:05:16,703
+Leurs hommes sont liés à moi et à
+Marc Antoine, c'est bien.
+
+80
+00:05:17,027 --> 00:05:21,236
+Assure-toi que tout reste invisible.
+Je ne veux pas être mêlé à ça.
+
+81
+00:05:21,359 --> 00:05:24,954
+Si ça se sait, ça doit être la
+faute d'Antoine uniquement.
+
+82
+00:05:28,830 --> 00:05:33,395
+Papa, quand on sera à Jérusalem,
+Oncle Lévi sera là ?
+
+83
+00:05:33,613 --> 00:05:36,033
+Peut-être. Peut-être pas.
+
+84
+00:05:36,443 --> 00:05:38,315
+Tu te souviens quand
+on s'est rencontrés ?
+
+85
+00:05:38,886 --> 00:05:41,183
+- Chez ton cousin.
+- Oui.
+
+86
+00:05:41,552 --> 00:05:46,362
+Je t'ai vu et j'ai pensé, voilà.
+Voilà un homme pour moi.
+
+87
+00:05:46,900 --> 00:05:51,016
+Peut-être pas aussi bien habillé que
+je le voudrais, mais un homme bon.
+
+88
+00:05:51,500 --> 00:05:53,408
+Cela fait des années maintenant,
+
+89
+00:05:53,911 --> 00:05:56,100
+et tu ne m'as jamais
+prouvé le contraire.
+
+90
+00:05:56,331 --> 00:05:58,791
+Papa, on est arrivés ?
+
+91
+00:06:00,363 --> 00:06:03,835
+C'est magnifique, je peux l'avoir ?
+
+92
+00:06:03,930 --> 00:06:08,263
+- Tout ce que tu veux, mon amour.
+- Mon petit caramel.
+
+93
+00:06:09,042 --> 00:06:13,186
+Pourquoi tu ne vas pas voir
+à l'intérieur
+
+94
+00:06:14,922 --> 00:06:17,109
+si il y a autre chose que tu voudrais ?
+
+95
+00:06:18,120 --> 00:06:20,500
+Comme tu es bon avec moi !
+
+96
+00:06:21,868 --> 00:06:23,016
+Vas-y.
+
+97
+00:06:26,036 --> 00:06:27,458
+Prends ton temps.
+
+98
+00:06:36,900 --> 00:06:40,845
+Tu aurais pu choisir moins ostensible.
+
+99
+00:06:40,941 --> 00:06:42,663
+C'est ma litière n°3.
+
+100
+00:06:42,731 --> 00:06:45,136
+Tu es assez banal pour nous deux.
+
+101
+00:06:47,720 --> 00:06:50,732
+Le chargement Judéen est-il arrivé ?
+
+102
+00:06:52,405 --> 00:06:55,921
+Ne t'inquiètes pas d'elles,
+elles ne comprennent pas un mot.
+
+103
+00:06:56,057 --> 00:06:57,260
+N'est-ce pas chéries ?
+
+104
+00:06:57,492 --> 00:07:00,512
+Les petites gens comprennent plus
+que ce que tu penses.
+
+105
+00:07:15,385 --> 00:07:17,202
+Vraiment tu es absurde.
+
+106
+00:07:17,517 --> 00:07:19,744
+Nous volons nos propres chefs.
+
+107
+00:07:20,264 --> 00:07:22,959
+Nulle précaution n'est absurde.
+
+108
+00:07:23,041 --> 00:07:26,499
+Je n'appelle pas ça voler, c'est une
+petite commission pour services rendus.
+
+109
+00:07:26,554 --> 00:07:29,725
+- Ils ne s'en apercevront même pas.
+- Ne sois pas idiot !
+
+110
+00:07:30,422 --> 00:07:35,711
+Nous sommes des voleurs. Si Antoine ou
+Octave le découvre, nous sommes morts !
+
+111
+00:07:35,793 --> 00:07:37,747
+Ils ne sauront rien.
+
+112
+00:07:41,353 --> 00:07:43,841
+Où et quand pourrons-nous prendre
+notre part ?
+
+113
+00:07:44,066 --> 00:07:47,907
+Les hommes de l'Aventin le livreront
+au temple de Saturne la nuit,
+
+114
+00:07:48,016 --> 00:07:51,009
+Toi et moi serons seuls avec l'or
+jusqu'au matin.
+
+115
+00:07:51,228 --> 00:07:53,073
+Amène des esclaves de confiance.
+
+116
+00:07:55,912 --> 00:07:58,933
+- Oh, bonjour, Mécène.
+- Jocaste.
+
+117
+00:07:59,015 --> 00:08:02,022
+Pourquoi diable voyages-tu
+en litière si criarde ?
+
+118
+00:08:02,117 --> 00:08:05,414
+J'étais sûre que mon mari fricotait
+avec une actrice
+
+119
+00:08:05,500 --> 00:08:07,491
+ou une traînée de ce genre.
+
+120
+00:08:09,100 --> 00:08:10,143
+Amusant.
+
+121
+00:08:10,539 --> 00:08:11,906
+Alors, où va-t-on ?
+
+122
+00:08:12,750 --> 00:08:15,853
+L'or sera à Ostie demain,
+aux docks d'Argosie.
+
+123
+00:08:16,140 --> 00:08:19,201
+Le navire s'appelle
+"La Couronne de Triton".
+
+124
+00:08:19,721 --> 00:08:21,183
+On le prendra à partir de là.
+
+125
+00:08:21,580 --> 00:08:23,056
+Par la rivière ou la route ?
+
+126
+00:08:23,373 --> 00:08:26,695
+On me dit que les hommes d'Octave
+et Antoine prendront la rivière.
+
+127
+00:08:26,777 --> 00:08:28,690
+Donc nous prendrons la route.
+
+128
+00:08:29,373 --> 00:08:31,500
+Évitez les fuites à partir
+de maintenant.
+
+129
+00:08:31,700 --> 00:08:32,749
+Malin.
+
+130
+00:08:33,814 --> 00:08:37,504
+Personne ne doit savoir ce que
+contient ce chargement.
+
+131
+00:08:37,750 --> 00:08:39,335
+La discrétion est essentielle.
+
+132
+00:08:39,492 --> 00:08:41,105
+Je prendrai Rasca et ses gars.
+
+133
+00:08:41,187 --> 00:08:43,715
+Ils sont fiables. Et discrets.
+
+134
+00:08:43,825 --> 00:08:44,883
+Bien.
+
+135
+00:08:45,396 --> 00:08:48,966
+Mais c'est Pullo qui va s'en occuper,
+pas toi.
+
+136
+00:08:49,157 --> 00:08:50,825
+Mais je m'occupe des affaires d'Ostie.
+
+137
+00:08:50,900 --> 00:08:52,100
+C'est différent.
+
+138
+00:08:53,052 --> 00:08:54,583
+Tu ne me fais pas confiance ?
+
+139
+00:08:55,848 --> 00:08:56,899
+Si.
+
+140
+00:08:57,050 --> 00:08:59,552
+Octave et Antoine connaissent Pullo.
+
+141
+00:08:59,661 --> 00:09:01,328
+Ils lui font confiance.
+
+142
+00:09:02,176 --> 00:09:05,114
+Si quelque chose ne va pas,
+ça ne nous retombera pas dessus.
+
+143
+00:09:05,300 --> 00:09:09,889
+C'est bon, j'ai compris.
+Putain de troisième homme.
+
+144
+00:09:32,153 --> 00:09:33,600
+Ton thé, Domina.
+
+145
+00:10:05,288 --> 00:10:11,782
+À l'aide, quelqu'un ! Aidez-moi !
+
+146
+00:10:11,970 --> 00:10:15,223
+Trouvez un docteur !
+C'est Eirene !
+
+147
+00:10:15,800 --> 00:10:18,681
+Il y a du sang ! Du sang !
+
+148
+00:10:44,258 --> 00:10:46,910
+Elle va te remettre sur pieds.
+Sans problème.
+
+149
+00:10:47,935 --> 00:10:49,247
+Je ne pense pas.
+
+150
+00:10:49,807 --> 00:10:53,183
+- Si.
+- S'il te plaît, pas de crémation.
+
+151
+00:10:54,085 --> 00:10:56,504
+Chez moi on est enterrés.
+
+152
+00:10:57,638 --> 00:11:00,700
+- Ne parle pas comme ça.
+- Pas de crémation.
+
+153
+00:11:01,506 --> 00:11:03,750
+Mets-moi dans un linge noir
+
+154
+00:11:05,855 --> 00:11:09,641
+et enterres-moi dans un lieu ouvert.
+
+155
+00:11:09,928 --> 00:11:13,143
+Sans arbre.
+
+156
+00:11:13,348 --> 00:11:15,029
+Tu ne vas pas mourir.
+
+157
+00:11:15,534 --> 00:11:16,710
+Promets-moi.
+
+158
+00:11:16,860 --> 00:11:19,498
+Je ne promettrai rien.
+Tu ne vas pas mourir.
+
+159
+00:11:19,600 --> 00:11:21,187
+Promets-moi.
+
+160
+00:11:22,700 --> 00:11:24,400
+Quand tu seras vieille et grise,
+
+161
+00:11:25,615 --> 00:11:27,146
+je promets de t'enterrer.
+
+162
+00:11:28,843 --> 00:11:32,205
+Si je suis encore là. Tu en seras
+sûrement à ton second mari.
+
+163
+00:11:32,287 --> 00:11:33,504
+Le bébé.
+
+164
+00:11:35,759 --> 00:11:37,344
+C'était un garçon ou une fille ?
+
+165
+00:11:39,500 --> 00:11:40,500
+Un garçon.
+
+166
+00:11:44,736 --> 00:11:46,171
+Enterre-le avec moi.
+
+167
+00:11:50,965 --> 00:11:55,216
+Ne sois pas triste. Tu me fais pleurer.
+
+168
+00:12:33,500 --> 00:12:36,749
+<i>Ô Dieux qui reconnaîtrez peut-être
+cette femme comme l'une des vôtres,</i>
+
+169
+00:12:37,800 --> 00:12:42,803
+<i>Écoutez-moi. Nous l'appelions
+Eirene ici,</i>
+
+170
+00:12:43,125 --> 00:12:45,886
+<i>mais d'où elle venait
+on l'appelait Adela,</i>
+
+171
+00:12:46,050 --> 00:12:50,218
+<i>quelque part au delà du Rhin.
+Je ne suis pas sûr de l'endroit exact.</i>
+
+172
+00:12:50,765 --> 00:12:55,540
+<i>Bref, vous la reconnaîtrez.
+C'était une femme bonne,</i>
+
+173
+00:12:56,401 --> 00:12:58,645
+<i>Elle ne parlait de vous qu'en bien.</i>
+
+174
+00:12:59,900 --> 00:13:05,465
+Alors s'il vous plaît veillez sur
+elle et sur notre fils.
+
+175
+00:13:11,149 --> 00:13:14,866
+Je m'appelle Titus Pullo,
+ex de la Treizième Légion.
+
+176
+00:13:16,969 --> 00:13:18,090
+Son mari.
+
+177
+00:13:18,855 --> 00:13:21,835
+Je n'ai pas toujours été aussi
+bon que j'aurais dû avec elle.
+
+178
+00:13:21,958 --> 00:13:24,650
+Je vous offre ma vie pour que vous
+en disposiez
+
+179
+00:13:26,017 --> 00:13:28,108
+pourvu que vous veilliez à son bonheur.
+
+180
+00:14:12,400 --> 00:14:15,454
+- C'est Mascius, Monsieur. Des soucis.
+- Vas-y.
+
+181
+00:14:22,489 --> 00:14:24,102
+Ne bouge pas, Mascius.
+
+182
+00:14:24,184 --> 00:14:27,327
+Fais gaffe enfoiré,
+je suis pas une volaille.
+
+183
+00:14:27,751 --> 00:14:29,979
+- Qu'est-ce qui s'est passé ?
+- Embuscade.
+
+184
+00:14:32,100 --> 00:14:34,385
+Juste avant les portes d'Ostie.
+
+185
+00:14:51,438 --> 00:14:53,133
+Ils sont tous morts sauf nous deux.
+
+186
+00:14:53,256 --> 00:14:55,224
+- L'or.
+- Disparu.
+
+187
+00:15:03,571 --> 00:15:06,359
+As-tu une idée de qui vous a attaqués ?
+
+188
+00:15:06,851 --> 00:15:09,571
+Non. Mais c'était des bons.
+
+189
+00:15:10,100 --> 00:15:11,812
+Ils ne nous ont laissé aucune chance.
+
+190
+00:15:12,452 --> 00:15:13,641
+Et mon frère,
+
+191
+00:15:15,100 --> 00:15:16,605
+ils nous attendaient.
+
+192
+00:15:18,231 --> 00:15:19,366
+D'accord.
+
+193
+00:15:24,266 --> 00:15:27,027
+Fais appeler tous les hommes,
+dis-leur de quadriller la ville.
+
+194
+00:15:27,109 --> 00:15:30,403
+Soudoie, torture, tue si nécessaire.
+
+195
+00:15:30,485 --> 00:15:32,300
+Trouve-moi qui a fait ça.
+
+196
+00:15:32,828 --> 00:15:36,245
+Toi, reste avec Pullo. Assure-toi
+qu'il ait tout ce dont il a besoin.
+
+197
+00:15:38,486 --> 00:15:41,234
+J'ai des hommes dans toute
+la ville qui cherchent.
+
+198
+00:15:41,329 --> 00:15:43,423
+Nous trouverons qui
+a fait ça rapidement,
+
+199
+00:15:43,464 --> 00:15:45,490
+ce genre de choses se sait toujours.
+
+200
+00:15:45,682 --> 00:15:49,016
+Pour un homme qui a perdu la fortune
+de ses maîtres, tu es bien insolent.
+
+201
+00:15:49,081 --> 00:15:52,399
+J'ai pris toutes les précautions.
+J'ai envoyé mes meilleurs hommes.
+
+202
+00:15:52,514 --> 00:15:53,977
+Tu as envoyé Titus Pullo ?
+
+203
+00:15:56,063 --> 00:15:57,218
+Non.
+
+204
+00:15:58,086 --> 00:16:00,245
+Pourquoi ? C'est ton meilleur homme.
+
+205
+00:16:00,956 --> 00:16:04,716
+Sa femme est morte en couche hier
+donc j'ai envoyé quelqu'un d'autre.
+
+206
+00:16:04,811 --> 00:16:07,300
+Je vois.
+
+207
+00:16:09,100 --> 00:16:10,200
+He bien...
+
+208
+00:16:10,800 --> 00:16:12,036
+c'est très pratique.
+
+209
+00:16:13,622 --> 00:16:15,599
+Je ne vois pas ce que tu veux dire.
+
+210
+00:16:15,672 --> 00:16:17,379
+Le seul homme qui
+a la confiance d'Octave
+
+211
+00:16:17,380 --> 00:16:19,854
+est remplacé au dernier moment
+par je ne sais qui ?
+
+212
+00:16:21,048 --> 00:16:22,399
+C'est très pratique.
+
+213
+00:16:22,483 --> 00:16:25,189
+M'accuses-tu d'être
+impliqué là-dedans ?
+
+214
+00:16:25,900 --> 00:16:28,200
+Je pourrais, moi aussi, t'accuser.
+
+215
+00:16:29,392 --> 00:16:32,399
+- Ou Lépide.
+- C'est ridicule.
+
+216
+00:16:32,454 --> 00:16:34,012
+Personne n'accuse personne.
+
+217
+00:16:34,340 --> 00:16:36,899
+Un de nos hommes nous
+aurait-il trahi ?
+
+218
+00:16:36,964 --> 00:16:39,438
+Tout est possible, mais j'en doute.
+
+219
+00:16:40,101 --> 00:16:41,174
+Pourquoi ?
+
+220
+00:16:41,768 --> 00:16:43,135
+Ils ont peur de moi.
+
+221
+00:16:43,400 --> 00:16:45,240
+- Qui alors ?
+- Bonne question.
+
+222
+00:16:45,376 --> 00:16:48,199
+Si ce n'est pas un de mes hommes, qui ?
+
+223
+00:16:48,274 --> 00:16:51,007
+Ne rejette pas la responsabilité.
+
+224
+00:16:51,477 --> 00:16:55,088
+Tu avais la charge de cette cargaison.
+Sa perte est de ta responsabilité.
+
+225
+00:16:55,223 --> 00:16:58,099
+Je comprends. Je la retrouverai
+et te la rapporterai.
+
+226
+00:16:58,188 --> 00:16:59,651
+Ce serait préférable pour toi.
+
+227
+00:17:01,886 --> 00:17:04,100
+Tu sais ce que coûte un échec.
+
+228
+00:17:08,700 --> 00:17:10,300
+Je vais te dire qui c'était.
+
+229
+00:17:12,900 --> 00:17:13,980
+Des Gaulois.
+
+230
+00:17:17,000 --> 00:17:19,200
+Je parierais sur les Gaulois.
+
+231
+00:17:19,378 --> 00:17:21,347
+Ils se reproduisent comme des lapins.
+
+232
+00:17:21,524 --> 00:17:23,533
+Ils ne savent pas ce que
+c'est que de travailler.
+
+233
+00:17:24,803 --> 00:17:26,400
+Tous des voleurs.
+
+234
+00:17:40,857 --> 00:17:43,426
+- Je sais que c'est toi.
+- Je sais.
+
+235
+00:17:44,764 --> 00:17:46,664
+Toi et Antoine m'avez doublé.
+
+236
+00:17:46,759 --> 00:17:48,933
+- Je t'assure...
+- Non.
+
+237
+00:17:49,300 --> 00:17:50,573
+Je t'assure,
+
+238
+00:17:51,543 --> 00:17:52,828
+Vous me le paierez.
+
+239
+00:18:18,300 --> 00:18:21,086
+Bienvenue, frère Vorenus. Assieds-toi.
+
+240
+00:18:21,196 --> 00:18:25,432
+Bois un peu de vin. Faites place
+au capitaine, les garçons.
+
+241
+00:18:26,321 --> 00:18:27,332
+Tu es venu seul ?
+
+242
+00:18:28,606 --> 00:18:31,873
+Tu fêtes quelque chose ?
+
+243
+00:18:31,996 --> 00:18:34,565
+Non, nous sommes des gens
+d'heureuse composition.
+
+244
+00:18:35,573 --> 00:18:38,833
+Une cargaison qu'on m'avait confiée a
+été volée hier sur la route d'Ostie.
+
+245
+00:18:38,901 --> 00:18:40,582
+Oh, dieux. Quelle sorte de cargaison ?
+
+246
+00:18:40,650 --> 00:18:42,058
+Une cargaison appartenant à l'État.
+
+247
+00:18:42,126 --> 00:18:43,876
+Oh, c'est mauvais, ça.
+
+248
+00:18:44,204 --> 00:18:46,049
+Pas contents, j'imagine, ces Messieurs.
+
+249
+00:18:46,352 --> 00:18:48,799
+- Pas vraiment.
+- Ch'était pas nous, hein ?
+
+250
+00:18:49,045 --> 00:18:51,013
+Une cargaison d'État ? Nous ?
+
+251
+00:18:51,368 --> 00:18:53,227
+Non, c'est trop risqué.
+
+252
+00:18:53,473 --> 00:18:55,455
+Non ce n'est pas nous.
+
+253
+00:18:55,744 --> 00:18:57,494
+Je n'ai pas dit que c'était vous.
+
+254
+00:18:58,615 --> 00:19:00,268
+C'est une visite amicale alors ?
+
+255
+00:19:01,498 --> 00:19:04,710
+Si tu entends dire
+quelque chose à ce sujet
+
+256
+00:19:05,098 --> 00:19:07,148
+- n'omets surtout pas de m'en parler.
+- Bien sûr.
+
+257
+00:19:07,230 --> 00:19:08,973
+Je ne vais pas laisser
+voler un collègue.
+
+258
+00:19:09,086 --> 00:19:11,837
+C'est humiliant.
+Mauvais pour notre image.
+
+259
+00:19:12,203 --> 00:19:14,774
+De quoi s'agissait-il exactement ?
+
+260
+00:19:15,300 --> 00:19:16,514
+Ça importe peu.
+
+261
+00:19:16,870 --> 00:19:19,904
+Difficile d'aider si on ne sait pas
+de quoi il s'agit.
+
+262
+00:19:21,681 --> 00:19:22,692
+Tu as raison.
+
+263
+00:19:23,129 --> 00:19:26,199
+Peu importe. Tu m'as déjà
+beaucoup aidé.
+
+264
+00:19:26,289 --> 00:19:29,399
+Merci, Memmio. À bientôt.
+
+265
+00:19:29,469 --> 00:19:30,890
+C'est toujours un plaisir.
+
+266
+00:19:33,700 --> 00:19:36,864
+Un conseil...
+Regarde parmi les tiens.
+
+267
+00:19:37,410 --> 00:19:40,622
+Ce genre de choses,
+c'est presque toujours un proche.
+
+268
+00:19:51,074 --> 00:19:52,359
+Avertis Cotta, Acerbo.
+
+269
+00:19:52,400 --> 00:19:55,243
+Et les autres capitaines.
+Je dois les voir tous aujourd'hui.
+
+270
+00:19:55,309 --> 00:19:57,537
+- Acerbo ?
+- Tu as entendu ?
+
+271
+00:20:04,672 --> 00:20:06,875
+J'aimerais que tu prennes
+cela plus au sérieux.
+
+272
+00:20:06,943 --> 00:20:08,301
+Ce sont des choses
+qui arrivent.
+
+273
+00:20:08,394 --> 00:20:09,608
+C'est beaucoup d'argent.
+
+274
+00:20:09,723 --> 00:20:11,363
+Nous avons d'autres sources
+de revenus.
+
+275
+00:20:11,440 --> 00:20:13,903
+Plus de mille ducs et satrapes riches
+veulent devenir rois.
+
+276
+00:20:14,019 --> 00:20:16,604
+On t'a volé aussi facilement
+qu'on vole un vulgaire épicier.
+
+277
+00:20:16,846 --> 00:20:19,875
+Pourquoi prends-tu ça comme
+une offense personnelle ?
+
+278
+00:20:20,200 --> 00:20:22,637
+C'est une insulte grossière.
+
+279
+00:20:22,800 --> 00:20:25,492
+On se fait toujours insulter.
+C'est le prix de la célébrité.
+
+280
+00:20:25,600 --> 00:20:27,150
+Marc Antoine n'est pas n'importe qui.
+
+281
+00:20:27,151 --> 00:20:29,014
+C'est ton collègue et ton beau-frère.
+
+282
+00:20:29,129 --> 00:20:32,274
+Si tu as une preuve contre Antoine,
+dis moi laquelle.
+
+283
+00:20:32,771 --> 00:20:35,028
+Qui d'autre savait ?
+Qui est-ce que ça pourrait être ?
+
+284
+00:20:35,105 --> 00:20:36,992
+- Lépide ?
+- Ça aurait pu être lui.
+
+285
+00:20:37,000 --> 00:20:38,458
+C'est très probablement un accident.
+
+286
+00:20:38,516 --> 00:20:40,700
+Il n'y a pas d'accident. C'est Antoine.
+
+287
+00:20:40,769 --> 00:20:43,287
+Depuis notre réconciliation
+il a été honnête avec moi.
+
+288
+00:20:43,355 --> 00:20:46,208
+Je ne vais pas risquer notre alliance
+parce que tu ne l'aimes pas.
+
+289
+00:20:46,380 --> 00:20:49,732
+Je sais de source sûre qu'il n'a pas
+été honnête envers toi.
+
+290
+00:20:49,905 --> 00:20:51,771
+Il s'est moqué de toi.
+
+291
+00:20:53,100 --> 00:20:54,304
+Que veux-tu dire ?
+
+292
+00:20:54,700 --> 00:20:56,850
+Pardonne-moi,
+je préférerais ne rien dire.
+
+293
+00:20:56,985 --> 00:20:59,299
+Ton alliance avec lui,
+l'intérêt de la République...
+
+294
+00:20:59,422 --> 00:21:00,483
+Parle !
+
+295
+00:21:02,800 --> 00:21:05,300
+Le mariage d'Antoine avec ta soeur
+est un faux-semblant.
+
+296
+00:21:05,500 --> 00:21:07,367
+Il continue à coucher avec ta mère.
+
+297
+00:21:07,500 --> 00:21:10,121
+Impossible. Antoine n'oserait pas
+me manquer ainsi de respect.
+
+298
+00:21:10,224 --> 00:21:11,884
+Et de plus, Octavie...
+
+299
+00:21:12,600 --> 00:21:14,396
+Octavie m'en aurait parlé.
+
+300
+00:21:16,400 --> 00:21:18,915
+Elle a ses propres raisons de se taire.
+
+301
+00:21:24,500 --> 00:21:25,626
+Domina,
+
+302
+00:21:26,224 --> 00:21:28,038
+ton fils t'invite
+
+303
+00:21:28,200 --> 00:21:29,478
+à dîner ce soir.
+
+304
+00:21:29,600 --> 00:21:31,506
+Dis lui non. Je vais au théâtre.
+
+305
+00:21:31,687 --> 00:21:34,813
+Il dit que c'est important.
+Tu dois venir.
+
+306
+00:21:34,989 --> 00:21:37,208
+Il est de plus en plus présomptueux.
+
+307
+00:21:40,860 --> 00:21:42,249
+Qui d'autre sera là ?
+
+308
+00:21:42,800 --> 00:21:44,095
+Seulement la famille.
+
+309
+00:21:49,800 --> 00:21:51,490
+Merci d'être venus si vite.
+
+310
+00:21:51,600 --> 00:21:54,200
+Nous avons des choses
+urgentes à évoquer ensemble.
+
+311
+00:21:54,300 --> 00:21:56,364
+- Avec ceux-là ?
+- Un peu de patience, Cotta.
+
+312
+00:21:56,500 --> 00:21:58,167
+Ce que j'ai à vous dire va vous plaire.
+
+313
+00:21:58,317 --> 00:22:01,268
+- L'huile d'olive est à moitié prix ?
+- Non.
+
+314
+00:22:01,400 --> 00:22:05,000
+Je pensais plutôt m'engager un peu
+plus dans le commerce du grain.
+
+315
+00:22:08,300 --> 00:22:11,307
+Nous avons atteint le point de
+non retour avec frère Vorenus.
+
+316
+00:22:11,500 --> 00:22:14,800
+Je pense qu'il est temps d'en
+finir avec son arrogance.
+
+317
+00:22:15,600 --> 00:22:17,148
+Alors c'était toi.
+
+318
+00:22:19,300 --> 00:22:20,404
+Tu as pris son or.
+
+319
+00:22:20,616 --> 00:22:21,696
+De quel or parles-tu ?
+
+320
+00:22:21,800 --> 00:22:24,057
+Pas un mendiant qui ne soit au courant.
+
+321
+00:22:24,151 --> 00:22:25,156
+C'était toi.
+
+322
+00:22:25,325 --> 00:22:27,071
+Ça aurait pu.
+Je ne dis pas que c'est moi,
+
+323
+00:22:27,167 --> 00:22:28,179
+mais ça aurait pu.
+
+324
+00:22:28,241 --> 00:22:29,373
+Et tu ne m'en as rien dit ?
+
+325
+00:22:29,500 --> 00:22:31,999
+- Rien dit de quoi ?
+- Ne te moque pas de moi.
+
+326
+00:22:32,135 --> 00:22:34,990
+- Tu as pris son or ?
+- C'est ce que croit Vorenus.
+
+327
+00:22:38,700 --> 00:22:41,195
+Il veut mettre ta tête au bout
+d'une pique et tu as peur.
+
+328
+00:22:41,300 --> 00:22:42,419
+Ça ne nous concerne pas.
+
+329
+00:22:42,515 --> 00:22:45,120
+Personne ne peut tenir l'Aventin seul.
+
+330
+00:22:45,200 --> 00:22:48,069
+Mais si nous travaillons ensemble,
+comme des frères,
+
+331
+00:22:48,304 --> 00:22:50,600
+c'est différent. Nous les écraserons.
+
+332
+00:22:50,735 --> 00:22:53,243
+L'Aventin sera à nous.
+Le commerce du grain sera à nous.
+
+333
+00:22:53,400 --> 00:22:54,892
+- Non.
+- Attends.
+
+334
+00:22:55,278 --> 00:22:56,300
+Attends.
+
+335
+00:23:01,100 --> 00:23:05,232
+Je ne m'attends pas à ce que tu m'aides
+au nom de l'amour fraternel.
+
+336
+00:23:20,932 --> 00:23:21,973
+Voilà !
+
+337
+00:23:22,100 --> 00:23:24,200
+C'est ce que vous voulez, non ?
+
+338
+00:23:24,600 --> 00:23:27,400
+Oui, ramassez.
+
+339
+00:23:28,600 --> 00:23:29,947
+Vous en avez oublié. Regardez.
+
+340
+00:23:30,100 --> 00:23:32,272
+Vous en voulez plus ?
+
+341
+00:23:32,579 --> 00:23:36,000
+Voilà... plus ! Plus !
+
+342
+00:23:36,800 --> 00:23:38,151
+C'est bien.
+
+343
+00:23:38,633 --> 00:23:39,752
+Ramassez-le.
+
+344
+00:23:55,100 --> 00:23:57,480
+Pardonne-moi, je t'agace.
+
+345
+00:23:57,900 --> 00:23:59,313
+Par mon silence.
+
+346
+00:24:00,500 --> 00:24:01,600
+Non, Monsieur.
+
+347
+00:24:06,200 --> 00:24:08,100
+Tu as de très petites mains.
+
+348
+00:24:10,000 --> 00:24:11,900
+- Si sèches.
+- Merci.
+
+349
+00:24:16,000 --> 00:24:18,400
+Dis-moi, ton mari te bat parfois ?
+
+350
+00:24:18,700 --> 00:24:19,900
+Non, Monsieur.
+
+351
+00:24:20,500 --> 00:24:23,926
+J'espère que je ne lui ai jamais
+donné de raisons de le faire.
+
+352
+00:24:24,601 --> 00:24:27,200
+- Ton père, peut-être.
+- Non Monsieur.
+
+353
+00:24:28,000 --> 00:24:30,996
+Tu es une femme vertueuse.
+C'est bien.
+
+354
+00:24:35,348 --> 00:24:36,878
+Saches que quand
+nous serons mariés,
+
+355
+00:24:36,934 --> 00:24:38,747
+je te battrai parfois.
+
+356
+00:24:40,500 --> 00:24:41,712
+Avec mes mains.
+
+357
+00:24:42,895 --> 00:24:44,125
+Ou un petit fouet.
+
+358
+00:24:44,510 --> 00:24:46,801
+Quand je le ferai, ce ne sera pas
+à cause d'une offense,
+
+359
+00:24:46,886 --> 00:24:49,904
+je le ferai parce que
+ça me donne du plaisir sexuel.
+
+360
+00:24:51,800 --> 00:24:54,387
+Alors souviens-t'en
+et n'en sois pas fâchée.
+
+361
+00:24:54,800 --> 00:24:55,960
+Oui, Monsieur.
+
+362
+00:25:04,000 --> 00:25:06,297
+Je crois que nous nous entendrons bien.
+
+363
+00:25:07,700 --> 00:25:09,072
+Ils sont tous là.
+
+364
+00:25:22,400 --> 00:25:23,509
+Il est temps.
+
+365
+00:25:24,600 --> 00:25:26,920
+Des nouvelles de Lucius Vorenus ?
+
+366
+00:25:27,600 --> 00:25:29,800
+- Non.
+- Étrange.
+
+367
+00:25:30,400 --> 00:25:31,900
+Nous devons être patients.
+
+368
+00:25:32,200 --> 00:25:34,400
+Vorenus fait toujours ce qu'il dit.
+
+369
+00:25:34,600 --> 00:25:35,720
+Content que tu le penses.
+
+370
+00:25:35,800 --> 00:25:37,307
+Et qui est cette douce créature ?
+
+371
+00:25:37,442 --> 00:25:40,500
+C'est Livia, la fille de
+Livius Drusus Claudianus.
+
+372
+00:25:41,000 --> 00:25:42,600
+Je vais l'épouser.
+
+373
+00:25:43,399 --> 00:25:46,389
+Très bien... bienvenue dans la famille.
+
+374
+00:25:46,900 --> 00:25:49,500
+Merci. Ravie de faire
+ta connaissance.
+
+375
+00:25:50,500 --> 00:25:52,700
+Et ce doit être ma soeur Octavie.
+
+376
+00:25:53,100 --> 00:25:54,859
+Elle a un si beau teint.
+
+377
+00:25:55,000 --> 00:25:57,000
+Tu es si secret.
+
+378
+00:25:57,100 --> 00:25:58,967
+J'ignorais que tu voulais te marier.
+
+379
+00:25:59,100 --> 00:26:02,038
+Je l'ai faite venir pour
+qu'elle comprenne
+
+380
+00:26:02,083 --> 00:26:04,018
+ce que signifie faire partie
+de notre famille.
+
+381
+00:26:04,100 --> 00:26:06,410
+C'est une forme d'esclavage adoucie.
+
+382
+00:26:06,600 --> 00:26:08,250
+De l'esclavage, hein ?
+
+383
+00:26:10,000 --> 00:26:12,617
+Tu te vois dans le rôle
+de Spartacus donc ?
+
+384
+00:26:12,907 --> 00:26:15,321
+- Je ne te suis pas.
+- Je suis le Maître de cette famille
+
+385
+00:26:15,400 --> 00:26:17,140
+et tu t'es rebellée contre moi.
+
+386
+00:26:17,300 --> 00:26:19,167
+J'aimerais en avoir le courage.
+
+387
+00:26:19,410 --> 00:26:22,014
+Tu en as le courage. Ça m'a surpris.
+
+388
+00:26:22,126 --> 00:26:24,468
+Je savais que Mère était une dépravée
+
+389
+00:26:24,620 --> 00:26:26,400
+mais toi, ça m'a surpris.
+
+390
+00:26:27,100 --> 00:26:30,412
+Je ne t'ai montré que de l'amour et
+tu me le rends en me trahissant.
+
+391
+00:26:30,600 --> 00:26:32,200
+Attention, mon ami.
+
+392
+00:26:33,400 --> 00:26:36,536
+- Tu parles à mon épouse.
+- Épouse de nom seulement.
+
+393
+00:26:37,100 --> 00:26:40,127
+C'est toujours Mère qui remplit
+les fonctions conjugales, non ?
+
+394
+00:26:40,384 --> 00:26:43,744
+Tandis qu'Octavia fait de même
+avec mon bon ami Agrippa.
+
+395
+00:26:44,000 --> 00:26:46,300
+Très pratique pour vous tous.
+
+396
+00:26:46,600 --> 00:26:48,822
+- Où veux-tu en venir ?
+- Tu le nies ?
+
+397
+00:26:48,931 --> 00:26:52,292
+- Je ne te laisserai pas m'interroger.
+- Tu le nies ?
+
+398
+00:26:52,400 --> 00:26:55,317
+Va baiser ta fillette et
+ne t'occupe pas de mes affaires.
+
+399
+00:26:55,401 --> 00:26:57,400
+- Tu le nies ?
+- C'est vrai.
+
+400
+00:27:01,438 --> 00:27:02,982
+Je ne vais pas le nier.
+
+401
+00:27:04,622 --> 00:27:06,175
+J'aime ta soeur.
+
+402
+00:27:08,000 --> 00:27:11,067
+Nous nous rencontrons en secret
+depuis un certain temps.
+
+403
+00:27:13,500 --> 00:27:15,279
+Je ne peux pas parler
+à la place d'Antoine.
+
+404
+00:27:15,488 --> 00:27:18,517
+Merci, Agrippa.
+Merci d'être honnête avec moi.
+
+405
+00:27:18,800 --> 00:27:21,191
+Et alors ? Et si c'est vrai ?
+
+406
+00:27:21,500 --> 00:27:23,071
+Que vas-tu y faire ?
+
+407
+00:27:23,226 --> 00:27:25,700
+Tu n'y peux rien.
+
+408
+00:27:25,774 --> 00:27:27,727
+Je vais faire accompagner
+mes femmes chez elle
+
+409
+00:27:27,800 --> 00:27:30,542
+où elles resteront sous bonne garde
+
+410
+00:27:30,623 --> 00:27:32,707
+- jusqu'à nouvel ordre.
+- Je n'en ferai rien.
+
+411
+00:27:32,754 --> 00:27:33,918
+Silence.
+
+412
+00:27:34,920 --> 00:27:37,263
+Tu devrais vraiment quitter cette ville.
+
+413
+00:27:37,366 --> 00:27:40,268
+- Quitter cette ville ?
+- Tu devrais rejoindre tes provinces
+
+414
+00:27:40,540 --> 00:27:41,873
+et ne jamais revenir.
+
+415
+00:27:42,277 --> 00:27:43,977
+Et si je refuse, mon garçon ?
+
+416
+00:27:44,082 --> 00:27:45,714
+Quitte la ville, ou je déclarerai
+
+417
+00:27:45,804 --> 00:27:46,900
+notre alliance brisée.
+
+418
+00:27:47,025 --> 00:27:49,071
+Je ferai dire cette triste
+histoire au forum.
+
+419
+00:27:49,202 --> 00:27:51,906
+Des messagers seront envoyés
+dans toutes les villes d'Italie.
+
+420
+00:27:52,151 --> 00:27:54,157
+Et tu sais, les gens ne sont pas
+
+421
+00:27:54,301 --> 00:27:56,053
+aussi ouverts que
+toi avec leurs femmes.
+
+422
+00:27:56,348 --> 00:27:58,254
+Ils diront que tu es cocu.
+
+423
+00:27:58,470 --> 00:27:59,982
+Ils diront que ta femme t'a trompé
+
+424
+00:28:00,057 --> 00:28:02,461
+avec un homme de rang inférieur
+qui est sous mes ordres.
+
+425
+00:28:02,900 --> 00:28:05,427
+Tu seras un objet de risée.
+
+426
+00:28:05,810 --> 00:28:08,016
+Les gens riront de toi dans la rue.
+
+427
+00:28:08,200 --> 00:28:09,336
+Tes soldats
+
+428
+00:28:09,698 --> 00:28:11,932
+se moqueront de toi derrière ton dos.
+
+429
+00:28:24,133 --> 00:28:25,485
+Vas-y, frappe-moi.
+
+430
+00:28:27,245 --> 00:28:29,318
+On verra ce qu'il adviendra.
+
+431
+00:28:54,821 --> 00:28:56,205
+Au fait, Antoine,
+
+432
+00:28:56,788 --> 00:29:00,158
+si tu trouves cet or,
+tu m'en parleras, n'est-ce pas ?
+
+433
+00:29:04,166 --> 00:29:05,659
+Tu déshonorerais ta propre soeur ?
+
+434
+00:29:05,791 --> 00:29:08,244
+Elle n'a pas besoin de moi pour ça.
+
+435
+00:29:10,500 --> 00:29:12,228
+J'ai été ravie de te voir.
+
+436
+00:29:13,000 --> 00:29:14,156
+Fais attention.
+
+437
+00:29:14,800 --> 00:29:16,696
+Tu vas épouser un monstre.
+
+438
+00:29:31,300 --> 00:29:32,314
+Ramène-les chez elle.
+
+439
+00:29:32,700 --> 00:29:34,634
+Prends des hommes.
+Assure-toi qu'elles rentrent
+
+440
+00:29:34,662 --> 00:29:35,817
+en toute sécurité.
+
+441
+00:29:41,100 --> 00:29:42,970
+C'est toi qui lui en as parlé,
+n'est-ce pas ?
+
+442
+00:29:42,996 --> 00:29:44,780
+J'ai toujours su que
+tu étais une fouine.
+
+443
+00:29:44,900 --> 00:29:48,183
+J'aimerais pouvoir m'excuser, madame,
+mais c'était mon devoir.
+
+444
+00:29:48,430 --> 00:29:50,458
+Tu n'as pas rendu
+un fier service à ton maître.
+
+445
+00:29:50,633 --> 00:29:53,004
+Maintenant, il n'a plus aucune famille.
+
+446
+00:29:58,000 --> 00:29:59,300
+Maecenas.
+
+447
+00:30:01,800 --> 00:30:02,998
+Ne le condamne pas.
+
+448
+00:30:03,039 --> 00:30:05,880
+Il a fait ce qu'il pensait être juste.
+Ce qui n'est pas ton cas.
+
+449
+00:30:05,881 --> 00:30:07,205
+Je m'en excuse,
+
+450
+00:30:07,571 --> 00:30:10,653
+mais je ne laisserai pas Octavia
+souffrir par ma faute.
+
+451
+00:30:11,500 --> 00:30:13,250
+Je suis le seul coupable.
+
+452
+00:30:14,000 --> 00:30:16,100
+C'est moi qui l'ai séduite.
+
+453
+00:30:16,800 --> 00:30:19,004
+Tu as de nombreux talents, Agrippa.
+
+454
+00:30:19,900 --> 00:30:22,023
+Mais la séduction n'en fait pas partie.
+
+455
+00:30:22,200 --> 00:30:24,566
+Elle ne mérite pas ta cruauté.
+
+456
+00:30:25,100 --> 00:30:27,177
+- Elle ne...
+- Mes propos étaient clairs.
+
+457
+00:30:27,441 --> 00:30:29,191
+Tu ne seras pas banni.
+J'ai besoin de toi.
+
+458
+00:30:29,307 --> 00:30:30,792
+Qui plus est, ta disparition soudaine
+
+459
+00:30:30,908 --> 00:30:33,200
+laisserait croire à quelque scandale.
+
+460
+00:30:34,100 --> 00:30:35,200
+Je...
+
+461
+00:30:36,300 --> 00:30:37,600
+Merci.
+
+462
+00:30:38,400 --> 00:30:39,700
+Tu peux y aller.
+
+463
+00:30:47,726 --> 00:30:49,540
+Tu devrais goûter
+un de ces oiseaux farcis.
+
+464
+00:30:49,700 --> 00:30:52,105
+Mon cuisinier les prépare
+à merveille.
+
+465
+00:31:14,400 --> 00:31:15,600
+Il a mangé ?
+
+466
+00:31:17,200 --> 00:31:18,200
+Il a bu ?
+
+467
+00:31:23,305 --> 00:31:24,441
+Pullo.
+
+468
+00:31:25,900 --> 00:31:29,271
+Pullo, tu n'as rien bu depuis
+deux jours. Il faut que tu boives.
+
+469
+00:31:29,493 --> 00:31:31,183
+Mascius est passé me voir.
+
+470
+00:31:31,672 --> 00:31:33,724
+- Il est sacrément amoché.
+- Bois.
+
+471
+00:31:36,480 --> 00:31:38,270
+L'or a été volé, hein ?
+
+472
+00:31:39,800 --> 00:31:42,384
+Ils sont tous morts
+sauf Mascius et Zeno.
+
+473
+00:31:43,300 --> 00:31:44,645
+Ne t'inquiète pas.
+
+474
+00:31:47,700 --> 00:31:49,032
+Je vais le retrouver.
+
+475
+00:31:49,200 --> 00:31:50,326
+C'est Memmio ?
+
+476
+00:31:51,700 --> 00:31:53,988
+On dirait bien. Je suis allé le voir.
+
+477
+00:31:54,129 --> 00:31:57,491
+La culpabilité pouvait se lire
+sur son visage.
+
+478
+00:31:58,696 --> 00:31:59,766
+Qui lui a dit ?
+
+479
+00:32:00,198 --> 00:32:03,143
+Il a presque avoué que
+c'était un de mes hommes.
+
+480
+00:32:04,900 --> 00:32:05,999
+Mascius.
+
+481
+00:32:07,455 --> 00:32:09,448
+- Il n'était pas satisfait.
+- Et il a survécu.
+
+482
+00:32:09,641 --> 00:32:11,646
+Pourtant, il a toujours été loyal.
+
+483
+00:32:12,203 --> 00:32:15,020
+On n'a jamais eu à douter
+de lui auparavant.
+
+484
+00:32:18,801 --> 00:32:21,560
+Un traître n'en est pas un
+jusqu'à ce qu'il le soit.
+
+485
+00:32:21,714 --> 00:32:23,509
+Pullo, tu vas où ?
+
+486
+00:32:42,599 --> 00:32:43,700
+Voir Mascius.
+
+487
+00:32:48,000 --> 00:32:49,300
+Très bien, Pullo.
+
+488
+00:32:50,668 --> 00:32:51,700
+Chef.
+
+489
+00:32:53,200 --> 00:32:54,622
+Comment tu te sens ?
+
+490
+00:32:56,400 --> 00:32:58,839
+Pas trop mal. J'ai eu de la chance.
+
+491
+00:32:59,525 --> 00:33:01,200
+Beaucoup de chance.
+
+492
+00:33:02,700 --> 00:33:04,182
+Rien pour l'instant ?
+
+493
+00:33:04,600 --> 00:33:05,980
+Rends-le moi !
+
+494
+00:33:06,357 --> 00:33:09,300
+- Rends-le !
+- Calmez-vous, les enfants.
+
+495
+00:33:13,168 --> 00:33:16,024
+Tout ce à quoi je pense,
+c'est que c'est peut-être
+
+496
+00:33:17,039 --> 00:33:19,972
+un des hommes d'Octave ou
+d'Antoine qui a tout organisé.
+
+497
+00:33:20,149 --> 00:33:22,609
+Impossible, non ? Ils pensaient
+qu'on prendrait le fleuve.
+
+498
+00:33:22,783 --> 00:33:24,191
+Pas la route.
+
+499
+00:33:24,290 --> 00:33:25,300
+C'est vrai.
+
+500
+00:33:25,700 --> 00:33:29,035
+Memmio a dit qu'il y avait sûrement
+un traître parmi nous.
+
+501
+00:33:31,000 --> 00:33:32,085
+Écoute...
+
+502
+00:33:34,040 --> 00:33:35,087
+Mon frère,
+
+503
+00:33:35,800 --> 00:33:37,147
+nos vies sont en danger.
+
+504
+00:33:37,260 --> 00:33:39,400
+Tu voulais devenir le chef.
+
+505
+00:33:39,900 --> 00:33:42,429
+- Nous voulons des réponses.
+- Ça ne peut être que toi.
+
+506
+00:33:42,504 --> 00:33:43,519
+Vous plaisantez ?
+
+507
+00:33:43,743 --> 00:33:45,048
+Je me suis fait ça tout seul ?
+
+508
+00:33:45,147 --> 00:33:48,837
+Mascius, nous étions les 3 seuls
+à être au courant de nos projets.
+
+509
+00:33:49,600 --> 00:33:50,798
+Putain de troisième homme.
+
+510
+00:33:51,400 --> 00:33:53,576
+- Ce n'est pas moi.
+- Rends-le moi.
+
+511
+00:33:54,827 --> 00:33:56,800
+Donne moi ça et sortez d'ici.
+
+512
+00:33:58,500 --> 00:34:00,593
+Et ne revenez pas nous déranger.
+
+513
+00:34:02,900 --> 00:34:04,617
+Dis-nous juste la vérité.
+
+514
+00:34:16,200 --> 00:34:17,297
+Je suis désolé, mon frère.
+
+515
+00:34:17,409 --> 00:34:21,018
+Ça fait presque 20 ans que nous
+marchons côte à côté tous les trois.
+
+516
+00:34:23,000 --> 00:34:24,627
+Dis la vérité.
+
+517
+00:34:24,830 --> 00:34:25,835
+La vérité ?
+
+518
+00:34:25,995 --> 00:34:28,511
+La vérité c'est que
+tu es un frère pour moi.
+
+519
+00:34:29,198 --> 00:34:32,070
+La vérité, c'est que je t'ai
+sauvé la vie en Argovie.
+
+520
+00:34:32,474 --> 00:34:34,322
+J'ai reçu une flèche pour toi.
+
+521
+00:34:34,800 --> 00:34:36,384
+Et elle est toujours là.
+
+522
+00:34:37,100 --> 00:34:39,582
+La vérité, c'est que
+je le referais, frère.
+
+523
+00:34:40,453 --> 00:34:42,755
+La vérité, c'est que
+j'ai toujours été un bon soldat,
+
+524
+00:34:42,929 --> 00:34:44,684
+et un putain de bon ami.
+
+525
+00:34:45,700 --> 00:34:48,285
+Fais ce que tu dois faire, mon frère.
+
+526
+00:34:51,796 --> 00:34:53,567
+On se reverra en enfer.
+
+527
+00:34:56,300 --> 00:34:57,982
+- Où est l'or ?
+- Pullo !
+
+528
+00:34:58,123 --> 00:34:59,127
+Lucius !
+
+529
+00:34:59,300 --> 00:35:00,837
+- Quoi ?
+- Lucius !
+
+530
+00:35:02,800 --> 00:35:04,187
+Où as-tu trouvé ça ?
+
+531
+00:35:13,400 --> 00:35:14,440
+Père.
+
+532
+00:35:17,000 --> 00:35:18,400
+Arrête, père.
+
+533
+00:35:19,198 --> 00:35:20,231
+Arrête !
+
+534
+00:35:20,380 --> 00:35:22,300
+Arrête ! Qu'est-ce que tu fais ?
+Arrête !
+
+535
+00:35:22,900 --> 00:35:24,532
+Père ! Arrête !
+
+536
+00:35:36,600 --> 00:35:38,645
+- Où as-tu trouvé ça ?
+- Je les ai achetés.
+
+537
+00:35:39,400 --> 00:35:40,888
+Ne me mens pas.
+
+538
+00:35:41,180 --> 00:35:42,307
+C'est la vérité.
+
+539
+00:35:42,476 --> 00:35:44,358
+Un des hommes de Memmio
+te les a donnés, non ?
+
+540
+00:35:44,359 --> 00:35:46,021
+- N'est-ce pas ?
+- Non, je sais pas...
+
+541
+00:35:46,031 --> 00:35:47,260
+Ne me mens pas.
+
+542
+00:35:47,284 --> 00:35:48,411
+Je ne mens pas.
+
+543
+00:35:52,742 --> 00:35:54,900
+Reviens. Reviens immédiatement !
+
+544
+00:35:58,926 --> 00:36:00,531
+C'était toi, hein ? C'était toi.
+
+545
+00:36:00,600 --> 00:36:02,290
+Tu es allée chez Memmio.
+
+546
+00:36:02,403 --> 00:36:04,140
+C'est toi qui m'as trahi.
+
+547
+00:36:04,928 --> 00:36:06,552
+Tu t'es prostituée, n'est-ce pas ?
+
+548
+00:36:06,553 --> 00:36:08,571
+Tu t'es prostituée pour
+un des hommes de Memmio.
+
+549
+00:36:08,572 --> 00:36:11,399
+Tu t'es prostituée pour
+tout ce foutu Caelian.
+
+550
+00:36:11,400 --> 00:36:13,498
+C'est faux. Il m'aime.
+
+551
+00:36:13,800 --> 00:36:15,299
+Il m'aime et je l'aime.
+
+552
+00:36:15,366 --> 00:36:17,995
+Comment peux-tu être aussi bête ?
+
+553
+00:36:18,023 --> 00:36:19,638
+Il s'est servi de toi pour m'atteindre.
+
+554
+00:36:19,695 --> 00:36:21,531
+Tu ne sais rien du tout.
+
+555
+00:36:22,000 --> 00:36:23,100
+Il m'aime.
+
+556
+00:36:24,500 --> 00:36:26,388
+Pour l'amour de cette ordure,
+
+557
+00:36:26,959 --> 00:36:28,699
+tu trahirais ton propre père ?
+
+558
+00:36:28,700 --> 00:36:30,944
+Oh oui ! Je t'ai trahi !
+
+559
+00:36:31,800 --> 00:36:33,967
+Et je l'ai fait avec joie.
+
+560
+00:36:40,800 --> 00:36:41,800
+Pourquoi ?
+
+561
+00:36:43,400 --> 00:36:45,860
+Pourquoi ?
+Et pourquoi aurais-tu fait ça ?
+
+562
+00:36:46,500 --> 00:36:48,889
+Tu as tué ma mère.
+
+563
+00:36:50,800 --> 00:36:53,086
+Tu nous as maudits au nom d'Hadès.
+
+564
+00:36:54,000 --> 00:36:56,541
+Tu as fait de moi une putain.
+
+565
+00:36:56,795 --> 00:36:58,880
+Et tu oses me demander pourquoi ?
+
+566
+00:36:59,682 --> 00:37:01,091
+Parce que je te hais.
+
+567
+00:37:01,200 --> 00:37:02,668
+Je te hais.
+
+568
+00:37:03,091 --> 00:37:04,443
+Nous te haïssons tous.
+
+569
+00:37:04,900 --> 00:37:06,335
+J'aimerais que tu
+
+570
+00:37:06,823 --> 00:37:08,034
+sois mort !
+
+571
+00:37:16,500 --> 00:37:17,500
+Vas-y.
+
+572
+00:37:18,827 --> 00:37:21,244
+Essaye de me tuer comme
+tu as tué ma mère.
+
+573
+00:37:22,100 --> 00:37:23,334
+Ça ne sera pas aussi facile.
+
+574
+00:37:23,550 --> 00:37:25,212
+- Je ne l'ai pas tuée.
+- Menteur.
+
+575
+00:37:25,386 --> 00:37:26,388
+Je ne l'ai pas tuée.
+
+576
+00:37:26,389 --> 00:37:28,569
+Elle ne t'aimait pas, c'est
+pour ça que tu l'as tuée.
+
+577
+00:37:28,665 --> 00:37:30,124
+Tais-toi. Tu te tais.
+
+578
+00:37:30,171 --> 00:37:32,011
+- Elle ne t'a jamais aimé.
+- Ferme-la.
+
+579
+00:37:32,152 --> 00:37:34,865
+- Elle ne t'a jamais aimé.
+- Ferme ta... ferme...
+
+580
+00:37:35,000 --> 00:37:37,938
+Ferme ta gueule !
+
+581
+00:37:42,696 --> 00:37:43,800
+Vorenus.
+
+582
+00:37:46,800 --> 00:37:47,900
+Vorenus.
+
+583
+00:38:35,300 --> 00:38:38,899
+Notre noble Triumvirat annonce
+le départ immédiat
+
+584
+00:38:39,061 --> 00:38:42,500
+de sa grandeur Marc Antoine.
+
+585
+00:38:43,000 --> 00:38:45,927
+Il prendra le pouvoir à Alexandrie
+
+586
+00:38:46,100 --> 00:38:48,713
+en tant que gouverneur
+suprême d'Egypte
+
+587
+00:38:49,000 --> 00:38:50,841
+et des provinces de l'Est.
+
+588
+00:38:53,800 --> 00:38:57,000
+Demain, à la maison de Rufus,
+
+589
+00:38:57,200 --> 00:39:00,258
+une enchère aux esclaves,
+
+590
+00:39:00,700 --> 00:39:04,068
+des vierges dociles jusqu'aux
+grecs lettrés,
+
+591
+00:39:04,500 --> 00:39:07,971
+Rufus a des esclaves pour
+tous les budgets.
+
+592
+00:39:22,200 --> 00:39:25,200
+Faites place au membre
+du Triumvirat, Marc Antoine.
+
+593
+00:39:26,100 --> 00:39:29,251
+Ordres de sa grandeur César Octavien
+membre du Triumvirat,
+
+594
+00:39:29,400 --> 00:39:31,817
+personne ne peut entrer
+dans cette maison.
+
+595
+00:39:32,400 --> 00:39:34,382
+Devons-nous utiliser la force ?
+
+596
+00:39:37,900 --> 00:39:38,954
+Non.
+
+597
+00:39:50,527 --> 00:39:51,616
+Atia !
+
+598
+00:39:58,800 --> 00:40:00,157
+Atia !
+
+599
+00:40:07,339 --> 00:40:08,959
+Hors de mon chemin,
+bande d'insectes.
+
+600
+00:40:09,037 --> 00:40:12,123
+Madame, pardonnez-moi. Vous ne pouvez
+pas quitter la maison sans permission.
+
+601
+00:40:12,239 --> 00:40:13,412
+Atia, du calme.
+
+602
+00:40:15,100 --> 00:40:16,237
+Laisse faire.
+
+603
+00:40:25,000 --> 00:40:26,559
+Je veux juste parler.
+
+604
+00:40:32,800 --> 00:40:35,696
+Ne me pousse pas à être violent,
+Centurion.
+
+605
+00:40:40,800 --> 00:40:41,813
+Juste parler.
+
+606
+00:40:52,700 --> 00:40:53,775
+Je pars demain.
+
+607
+00:41:02,800 --> 00:41:03,913
+Très bien.
+
+608
+00:41:06,000 --> 00:41:07,277
+Alors au revoir.
+
+609
+00:41:13,000 --> 00:41:14,842
+Quand le moment sera venu,
+
+610
+00:41:16,299 --> 00:41:17,495
+je t'enverrai chercher.
+
+611
+00:41:17,668 --> 00:41:18,845
+Ce sera quand ?
+
+612
+00:41:19,491 --> 00:41:20,507
+Qui sait ?
+
+613
+00:41:22,688 --> 00:41:24,106
+Nous devrons être patients.
+
+614
+00:41:24,400 --> 00:41:27,604
+Promets-le moi. Promets-moi
+que tu m'enverras chercher.
+
+615
+00:41:28,400 --> 00:41:29,607
+Sur ma vie,
+
+616
+00:41:30,700 --> 00:41:31,876
+je te le promets.
+
+617
+00:42:07,084 --> 00:42:08,107
+Brûle-le.
+
+618
+00:42:08,372 --> 00:42:09,386
+Et ça ?
+
+619
+00:42:09,959 --> 00:42:13,630
+Je n'en sais rien. Brûle-le.
+Torche-toi avec. Je n'en ai rien à faire
+
+620
+00:42:29,400 --> 00:42:30,400
+Bien bien,
+
+621
+00:42:32,000 --> 00:42:33,438
+Lucius Vorenus.
+
+622
+00:42:34,205 --> 00:42:35,716
+Tu as trouvé mon or ?
+
+623
+00:42:36,000 --> 00:42:37,341
+Je sais où il est.
+
+624
+00:42:38,137 --> 00:42:39,141
+Et ?
+
+625
+00:42:39,383 --> 00:42:41,279
+Titus Pullo va s'en occuper.
+
+626
+00:42:45,532 --> 00:42:47,558
+J'ai démissionné du Collège.
+
+627
+00:42:47,804 --> 00:42:50,700
+- Démissionné ?
+- Problème personnel.
+
+628
+00:42:52,300 --> 00:42:53,801
+Je suis absolument sûr
+
+629
+00:42:54,200 --> 00:42:56,695
+que Pullo ne vous laissera pas tomber.
+
+630
+00:42:56,900 --> 00:43:00,080
+J'étais absolument sûr que tu ne
+me laisserais pas tomber, mais voilà.
+
+631
+00:43:00,202 --> 00:43:01,283
+C'est pourquoi,
+
+632
+00:43:01,601 --> 00:43:02,887
+je m'excuse.
+
+633
+00:43:07,298 --> 00:43:10,200
+Je suis venu t'offrir mes services
+
+634
+00:43:11,020 --> 00:43:12,043
+pour l'Egypte.
+
+635
+00:43:12,531 --> 00:43:13,574
+Si tu veux de moi.
+
+636
+00:43:13,771 --> 00:43:17,078
+Tes services ? En Egypte ?
+
+637
+00:43:21,997 --> 00:43:24,636
+Je ne peux pas rester à Rome,
+monsieur.
+
+638
+00:43:30,700 --> 00:43:32,912
+Laisse-moi venir en Egypte avec toi.
+
+639
+00:43:34,500 --> 00:43:35,660
+Je t'en prie.
+
+640
+00:43:41,905 --> 00:43:43,060
+Très bien.
+
+641
+00:43:46,236 --> 00:43:47,626
+Viens avec moi.
+
+642
+00:43:48,400 --> 00:43:50,078
+J'ai besoin d'hommes sûrs.
+
+643
+00:43:52,200 --> 00:43:54,685
+Tu ne vas pas te mettre à boire,
+pas vrai ?
+
+644
+00:43:55,700 --> 00:43:56,939
+Non, monsieur.
+
+645
+00:43:57,270 --> 00:44:00,453
+C'est que, vous faites ça assez
+souvent, vous, les hommes stoïques,
+
+646
+00:44:00,600 --> 00:44:02,599
+quand vous êtes déçus par la vie.
+
+647
+00:44:10,000 --> 00:44:11,299
+Bienvenue à bord.
+
+648
+00:44:13,617 --> 00:44:15,119
+Merci, monsieur.
+
+649
+00:44:21,200 --> 00:44:23,858
+- Qu'est-ce qu'il a dit ?
+- On embarque demain.
+
+650
+00:44:24,739 --> 00:44:27,487
+Alors tu ne vas pas revenir
+et  dire au revoir ?
+
+651
+00:44:29,800 --> 00:44:30,804
+Non.
+
+652
+00:44:33,400 --> 00:44:35,538
+Ton sang coule dans
+les veines de Vorena.
+
+653
+00:44:35,700 --> 00:44:37,282
+Elle ne pardonne pas facilement.
+
+654
+00:44:37,453 --> 00:44:40,400
+- Et elle est jeune.
+- Pullo, c'est mieux comme ça.
+
+655
+00:44:45,486 --> 00:44:47,101
+Tu prendras soin d'eux ?
+
+656
+00:44:52,200 --> 00:44:53,400
+Dis-leur...
+
+657
+00:44:58,158 --> 00:44:59,812
+Dis-leur que j'ai essayé.
+
+658
+00:45:04,300 --> 00:45:06,625
+Que les Dieux te protègent,
+mon frère.
+
+659
+00:45:08,383 --> 00:45:09,991
+Toi aussi, mon frère.
+
+660
+00:46:13,300 --> 00:46:15,692
+- Ne fais pas ça.
+- Pourquoi pas ?
+
+661
+00:46:16,148 --> 00:46:18,184
+J'ai payé cher pour ces fleurs.
+
+662
+00:46:18,800 --> 00:46:21,785
+Tu vas anéantir la pièce si
+tu continues comme ça.
+
+663
+00:46:23,100 --> 00:46:25,000
+Je n'ai rien de mieux à faire.
+
+664
+00:46:26,218 --> 00:46:29,054
+Si tu vas à la cuisine, tu trouveras
+quelque chose pour te distraire.
+
+665
+00:46:29,169 --> 00:46:30,242
+Quoi ?
+
+666
+00:46:30,403 --> 00:46:32,261
+Aider le cuisinier à
+éplucher les oignons ?
+
+667
+00:46:32,402 --> 00:46:35,359
+Mieux que ça. Bon, pas beaucoup
+mieux, d'après moi.
+
+668
+00:46:35,900 --> 00:46:39,369
+Tu as toujours eu des goûts lamentables
+en matière d'hommes.
+
+669
+00:46:40,200 --> 00:46:41,300
+Vas-y.
+
+670
+00:46:43,400 --> 00:46:45,203
+Et ne montre pas aux gardes
+que tu souries.
+
+671
+00:46:45,279 --> 00:46:47,402
+Ils remarqueront que quelque
+chose cloche.
+
+672
+00:46:47,577 --> 00:46:48,601
+Vas-y.
+
+673
+00:47:07,000 --> 00:47:09,100
+Comment as-tu bien pu entrer ?
+
+674
+00:47:09,400 --> 00:47:12,100
+Les hommes d'Octave ne laisseraient
+pas passer une souris.
+
+675
+00:47:13,600 --> 00:47:15,635
+Ta mère pourrait
+impressionner Ulysse.
+
+676
+00:47:15,800 --> 00:47:18,800
+Si elle a pu te faire entrer,
+elle pourrait peut-être me faire sortir.
+
+677
+00:47:18,900 --> 00:47:20,900
+On pourrait s'enfuir.
+
+678
+00:47:21,800 --> 00:47:23,300
+Bonne idée mais...
+
+679
+00:47:24,351 --> 00:47:25,393
+c'est impossible.
+
+680
+00:47:25,586 --> 00:47:27,322
+- On pourrait essayer au moins.
+- Non.
+
+681
+00:47:27,447 --> 00:47:29,396
+Pourquoi pas ?
+J'ai un peu d'argent.
+
+682
+00:47:29,500 --> 00:47:32,791
+On pourrait aller à l'Est.
+Il ne nous atteindrait pas là-bas.
+
+683
+00:47:34,100 --> 00:47:36,287
+Avec toi, j'irais jusqu'en Enfer,
+
+684
+00:47:36,500 --> 00:47:39,200
+en Bretagne même,
+si nous avions le droit.
+
+685
+00:47:40,100 --> 00:47:41,466
+Mais on ne l'a pas.
+
+686
+00:47:41,600 --> 00:47:42,659
+Le droit ?
+
+687
+00:47:44,900 --> 00:47:47,700
+Quel droit a-t'il de
+me garder captive ?
+
+688
+00:47:48,800 --> 00:47:50,900
+- Quel droit a-t'il de...
+- Je t'en prie.
+
+689
+00:47:51,100 --> 00:47:52,500
+Ne t'énerve pas.
+
+690
+00:47:52,800 --> 00:47:56,300
+Il a tous les droits, légaux et moraux,
+de faire de nous ce qu'il veut.
+
+691
+00:47:58,300 --> 00:48:00,100
+Il m'a pardonné.
+
+692
+00:48:00,500 --> 00:48:02,500
+Et il demeure mon ami.
+
+693
+00:48:04,200 --> 00:48:07,900
+Je ne peux honorer son pardon
+en le trahissant une seconde fois.
+
+694
+00:48:13,278 --> 00:48:15,149
+Pourquoi es-tu là, alors ?
+
+695
+00:48:18,500 --> 00:48:20,908
+Je suis ici pour te dire au revoir.
+
+696
+00:48:21,700 --> 00:48:22,952
+Où tu vas ?
+
+697
+00:48:23,900 --> 00:48:26,603
+Je veux dire, on devrait se revoir,
+
+698
+00:48:27,800 --> 00:48:30,000
+assez souvent j'espère.
+
+699
+00:48:31,393 --> 00:48:33,477
+Mais nos relations devraient
+être aussi formelles
+
+700
+00:48:33,600 --> 00:48:35,773
+et correctes que possible.
+
+701
+00:48:39,700 --> 00:48:40,746
+Lâche.
+
+702
+00:48:42,700 --> 00:48:44,099
+Tu n'es qu'un lâche.
+
+703
+00:48:44,100 --> 00:48:47,300
+- Octavia...
+- Non. Je comprends.
+
+704
+00:48:47,500 --> 00:48:49,827
+Tu aimes mon frère ainsi que
+le pouvoir qu'il t'octroie.
+
+705
+00:48:49,924 --> 00:48:52,393
+Alors pourquoi tu mettrais tout
+ça en l'air pour une femme ?
+
+706
+00:48:52,500 --> 00:48:54,200
+Ce serait fou.
+
+707
+00:48:57,300 --> 00:48:58,800
+Au revoir.
+
+708
+00:49:01,500 --> 00:49:04,100
+Au fait,
+
+709
+00:49:04,600 --> 00:49:06,209
+je suis enceinte.
+
+710
+00:49:08,900 --> 00:49:10,300
+De qui il est ?
+
+711
+00:49:11,400 --> 00:49:12,532
+Qui sait ?
+
+712
+00:49:14,400 --> 00:49:16,469
+D'aucun homme qui vaille
+une poignée d'obole,
+
+713
+00:49:16,662 --> 00:49:19,200
+donc il n'y a pas de problème ?
+
+714
+00:50:29,700 --> 00:50:31,000
+Allez allez allez !
+
+715
+00:50:38,886 --> 00:50:40,144
+Fermez la porte.
+
+716
+00:51:26,300 --> 00:51:27,663
+Titus Pullo.
+
+717
+00:51:32,800 --> 00:51:34,100
+J'ai à te parler.
+
+718
+00:51:39,737 --> 00:51:42,882
+Pullo, mon frère, je ne veux pas
+me battre avec toi.
+
+719
+00:51:42,986 --> 00:51:45,211
+Tu es un homme de raison,
+tout comme moi.
+
+720
+00:51:45,900 --> 00:51:49,270
+C'est ce fou de Vorenus qui nous
+a mis dans cette situation.
+
+721
+00:51:51,000 --> 00:51:54,883
+Il n'y a pas de raison que toi et
+moi ne fassions pas affaires.
+
+722
+00:52:57,625 --> 00:52:58,705
+Pour la Treizième !
+
+723
+00:53:34,800 --> 00:53:37,633
+Restez en position !
+Ne fuyez pas, bande de lâches !
+
+724
+00:54:34,100 --> 00:54:35,122
+Antoine.
+
+725
+00:54:59,700 --> 00:55:00,841
+Cléopâtre.
+
+726
+00:55:05,039 --> 00:55:08,801
+_/Yellow Sub\_
+contact@yellowsubteam.com
+

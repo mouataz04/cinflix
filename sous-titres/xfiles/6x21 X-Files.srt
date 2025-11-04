@@ -1,0 +1,395 @@
+{150}{262}Je suis couverte de piqûres et d'ampoules.|Je hais ces nouvelles bottes!
+{265}{365}Pourquoi tu t'énerves comme ça?|C'était sympa, non?
+{365}{500}Parle pour toi! Pendant que tu te baladais,|moi, j'étais 800 mètres derrière.
+{502}{595}A l'avenir, sache que te courir après|dans les bois toute une journée
+{597}{670}n'est pas spécialement ma tasse de thé.
+{670}{727}Excuse-moi.
+{730}{802}J'ai des plus grandes jambes que toi.
+{805}{867}Et puis j'étais tout excité.
+{870}{970}Me retrouver au grand air,|communier avec la nature...
+{972}{1062}- Tu as mal à la tête?|- Oui.
+{1065}{1185}Frappe-moi le crâne à coups de pierre,|si ça peut te soulager.
+{1187}{1250}D'accord. Apporte-m'en une.
+{1295}{1350}Je vais prendre une douche.
+{2802}{2917}- T'es toujours fâchée après moi?|- Non, t'inquiète pas.
+{2965}{3015}Viens là.
+{3147}{3287}Laissons tomber la randonnée au grand air.|A partir d'aujourd'hui, on ne sort plus.
+{3345}{3400}Angie, qu'est-ce qu'il y a?
+{3430}{3482}Serre-moi.
+{4500}{4565}ACTIVITE PARANORMALE
+{4682}{4755}LE GOUVERNEMENT NOUS MENT
+{5157}{5217}LA VERITE EST AILLEURS
+{5257}{5322}SIEGE DU FBI|WASHINGTON
+{5395}{5472}Je ne sais pas|ce qu'ils ont fabriqué avec l'écran.
+{5475}{5522}Voici Angela et Wallace Schiff.
+{5525}{5632}La dernière fois qu'on les a vus,|ils randonnaient près de Brown Mountain.
+{5635}{5750}Angie est à droite.|Leurs corps ont été retrouvés dans cet état
+{5750}{5850}trois jours après leur disparition,|alors qu'il faisait moins de 20° C.
+{5850}{5980}Il n'y a donc pas eu décomposition.|Ni prédation, car les os seraient éparpillés.
+{5980}{6072}Sans compter que les squelettes|ne portent aucun vêtement.
+{6075}{6202}Exact. Ca ressemble à un double meurtre,|peut-être à caractère rituel.
+{6205}{6295}Ils ont pu être dévêtus|et réduits à l'état de squelettes
+{6297}{6400}après avoir été bouillis|ou plongés dans une solution acide.
+{6400}{6512}La disposition des corps a peut-être|un sens pour le ou les assassins.
+{6515}{6600}- Pour moi, c'est un rituel.|- Un rituel relativement lourd.
+{6602}{6705}Or, on n'a rien trouvé.|Ni traces de pneus, ni empreintes.
+{6725}{6827}- Tu penches pour quoi?|- Brown Mountain, ça ne te dit rien?
+{6830}{6872}Les lumières de Brown Mountain?
+{6875}{6952}Un phénomène atmosphérique|vieux de 700 ans,
+{6955}{7045}auquel des milliers de personnes|ont assisté à ce jour.
+{7047}{7127}D'étranges lumières|dansent au-dessus de la montagne.
+{7130}{7225}Aucune explication scientifique|crédible n'a été avancée.
+{7227}{7275}Quel rapport avec cette affaire?
+{7277}{7347}Malgré cette absence d'explication,
+{7350}{7422}on est nombreux à penser|qu'il pourrait s'agir...
+{7425}{7465}D'ovnis?
+{7467}{7572}De visiteurs extraterrestres|n'ayant rien de mieux à faire
+{7575}{7670}que de survoler|une montagne pendant 700 ans?
+{7670}{7790}Evidemment, dit comme ça, c'est grotesque.|Mais il y a peut-être un rapport.
+{7790}{7882}Cette affaire me rappelle|certains cas de bétail mutilé.
+{7885}{7997}Aucune preuve matérielle n'a été trouvée|et on a conclu à la présence d'ovnis.
+{8000}{8142}Est-ce que pour une fois, tu pourrais|te rallier à l'explication la plus simple,
+{8145}{8265}la plus logique, sans toujours|tout ramener aux ovnis ou à Big Foot?
+{8265}{8340}En six ans,|je me suis trompé combien de fois?
+{8365}{8470}Sérieusement! A chaque affaire|que je te soumets, c'est pareil.
+{8472}{8560}Tu m'accuses de manquer de rigueur|scientifique et de débloquer.
+{8562}{8672}Et au bout du compte,|qui a raison dans 98,9 °/o des cas?
+{8705}{8790}Tu pourrais au moins|m'accorder le bénéfice du doute.
+{9067}{9165}On leur a donné des suites attenantes.|J'allais les envoyer à Chapel Hill.
+{9165}{9230}Pour que le légiste d'Etat les examine.
+{9232}{9285}Merci de nous avoir attendus.
+{9287}{9345}Le tissu conjonctif est intact.
+{9347}{9467}Pas comme le reste. Je suis perplexe:|ils sont restés si peu de temps dehors.
+{9470}{9597}Pardonnez ma question,|mais vous êtes certain que c'est bien eux,
+{9600}{9677}et pas des corps restés|dehors pendant six mois?
+{9735}{9827}On a vérifié 3 fois leur dossier dentaire.|Angela et Wallace Schiff.
+{9830}{9880}Aucun doute là-dessus.
+{10067}{10160}On les a retrouvés tous les deux|près de Brown Mountain?
+{10160}{10260}- Où exactement?|- Je vais vous indiquer commenty aller.
+{10307}{10380}Est-ce que par hasard,|vous savez ce que c'est?
+{10397}{10460}On les a retrouvés|dans une zone marécageuse.
+{10462}{10575}C'est une matière organique qui doit|se former là-bas. Une sorte de vase.
+{10577}{10655}Je vais aller voir l'endroit|où on a retrouvé les corps.
+{10742}{10822}- Tu viens?|- Non. Vas-y.
+{12207}{12260}Wallace Schiff?
+{13330}{13387}L'analyse spectrométrique des gaz a parlé.
+{13390}{13475}Ce truc que j'avais pris pour de la vase...|Ca n'en est pas.
+{13522}{13647}"Eau, acide hydrochlorique,|électrolytes, pepsine et trypsine."
+{13650}{13742}- Une sécrétion digestive.|- Une sorte de suc gastrique.
+{13745}{13807}C'est la même composition. A un détail près.
+{13825}{13857}De la chitinase?
+{13860}{13982}C'est une autre enzyme digestive.|Mais végétale, pas animale.
+{14415}{14450}Il y a quelqu'un?
+{14815}{14927}J'ai déjà vu des cas similaires.|Voici les deux dont je me souviens.
+{15067}{15130}A chaque fois, il n'y avait que des ossements.
+{15130}{15220}En effet. Mais ça n'avait rien d'étonnant.
+{15222}{15330}C'étaient des randonneurs|retrouvés des mois, voire des années après.
+{15332}{15465}Non loin de l'endroit où Angela|et Wallace Schiff ont été découverts.
+{15730}{15800}Mulder, réponds...
+{15800}{15855}Votre correspondant n'est pas...
+{15857}{15975}Soyez gentil, envoyez un échantillon|de la sécrétion au labo du FBI à Quantico.
+{15977}{16055}- Je veux une analyse complète.|- Entendu.
+{16055}{16140}En attendant, puis-je emprunter votre 4X4?
+{16405}{16490}S'il vous pla îti ... ne m'emmenez pas.
+{16507}{16592}Sortez de là. Approchez.|Je ne vous ferai aucun mal.
+{16675}{16740}- Vous n'êtes pas avec eux?|- Qui ça "eux"?
+{16805}{16865}Vous êtes Wallace Schiff?
+{16945}{17047}Désolé de vous dire ça,|mais vous êtes censé être mort.
+{17050}{17130}On a retrouvé votre squelette|à 200 mètres d'ici.
+{17130}{17225}- C'est un faux. Placé par eux.|- Par qui?
+{17287}{17375}- Vous le savez bien.|- Les lumières de Brown Mountain.
+{17397}{17550}Ils nous ont enlevés. Ma femme et moi.|Ils nous ont emmenés à bord de...
+{17635}{17762}Votre femme aussi a été retrouvée.|Juste à côté de votre squelette.
+{17790}{17852}Non! Vous ne comprenez donc pas?
+{17855}{17945}C'est une mise en scène!|lls en sont techniquement capables.
+{17955}{18070}Personne ne va nous rechercher|si on a déjà trouvé nos corps.
+{18070}{18210}Ils m'ont relâché, mais ils ont gardé Angela.|Pour leurs expériences. Je...
+{18210}{18255}Je ne sais plus quoi...
+{18257}{18315}Qu'est-ce que je dois faire?
+{19725}{19810}Chaque chose en son temps.|Voyons comment sortir d'ici.
+{19845}{19905}Derrière vous!
+{19990}{20045}Qu'est-ce qui se passe ici?
+{20047}{20110}Il y a une minute, c'était bouché!
+{20110}{20220}Mon Dieu! C'est eux!|lls manipulent votre cerveau.
+{20240}{20307}Et peut-être le mien.|Je vais me mettre à délirer!
+{20310}{20360}Sortons d'ici.
+{20405}{20485}- Venez.|- lls sont là!
+{20750}{20800}C'est eux!
+{21785}{21842}Attention, ils vont vous voir!
+{22062}{22147}- lls sont partis.|- Jusqu'à la prochaine fois.
+{22170}{22247}- Dieu merci, ils ne nous ont pas vus.|- Bizarre.
+{22285}{22362}Ils venaient peut-être pour autre chose.
+{22660}{22710}Mon Dieu!
+{22760}{22810}Mon Dieu... Angie...
+{22855}{22905}Ils l'ont relâchée.
+{23047}{23165}Parlez-moi. Vous rappelez-vous|ce qui s'est passé? Racontez-moi.
+{23165}{23220}C'est très confus...
+{23222}{23305}Vous étiez avec votre mari. Avec Wallace.
+{23305}{23390}Je me souviens d'une lumière.|Une lumière vive.
+{23420}{23492}Une lumière qui venait d'où?|De la montagne?
+{23495}{23622}Au-dessus. Y avait des lumières bizarres|qui dansaient au-dessus du sommet.
+{23625}{23712}Ensuite... ils m'ont emmenée.
+{23715}{23790}Wallace aussi.
+{23840}{23945}- Et après?|- Tout est devenu noir.
+{23947}{24025}Je me suis réveillée dans un endroit inconnu.
+{24027}{24105}Je ne voyais plus Wallace.
+{24105}{24172}Ils m'ont relâché en premier.
+{24192}{24320}Décrivez-moi l'endroit où ils vous ont|emmenée. Ca ressemblait à quoi?
+{24322}{24380}C'était blanc.
+{24382}{24455}Un endroit tout blanc. Uniforme.
+{24457}{24580}J'étais allongée sur une table.|Je n'arrivais pas à me lever.
+{24582}{24680}Je n'étais pas attachée,|mais je n'arrivais pas à bouger.
+{24680}{24740}Est-ce que vous voyiez des gens?
+{24757}{24787}Oui.
+{24790}{24942}Il y avait des hommes penchés au-dessus|de moi, mais je ne voyais pas leur visage.
+{24952}{25032}Est-ce qu'ils ont fait des tests sur vous?
+{25035}{25105}Oui, ils en ont fait.
+{25140}{25205}C'était horrible!
+{25242}{25277}Quoi?
+{25315}{25400}Vous avez une cicatrice sur la nuque.
+{25402}{25490}- Une cicatrice?|- Elle vient d'être faite.
+{25492}{25572}- Qu'est-ce que c'est?|- Un implant. J'en ai déjà vu.
+{25575}{25687}La fraise! Je m'en souviens!|Au départ, je ne la voyais pas.
+{25690}{25835}C'était affreux! Je l'entendais tourner.|On aurait dit qu'elle sortait de la lumière!
+{25835}{25890}- Qu'est-ce que c'est?|- J'en ai un, moi?
+{25892}{26040}Non, pas les hommes. C'est un récit|d'enlèvement classique. A un détail près.
+{26055}{26080}Lequel?
+{26080}{26197}On a retrouvé deux squelettes censés|être les vôtres. Voilà ce que je pige pas.
+{26200}{26312}C'est peut-être lié au bétail mutilé.|Ca fait peut-être partie de leurs tests.
+{26315}{26427}J'y ai pensé, mais il n'y a aucun précédent.|Ce n'est mentionné nulle part.
+{26430}{26565}Ils ne voulaient pas qu'on nous trouve|ni que vous appreniez la vérité.
+{26622}{26705}- II vaudrait mieux qu'on se tire d'ici.|- Pas question.
+{26705}{26780}Ils sont là. Ils nous observent en permanence.
+{26782}{26862}Si on s'enfuit,|ils nous retrouveront de toute façon.
+{26865}{26970}On s'en va et tout de suite!|Prenez vos affaires. Je vais vous aider.
+{26972}{27037}Ils arrivent. Je le sens.
+{27120}{27185}- lls sont là!|- Cachez-vous ou ce sera votre tour.
+{27195}{27260}- II faut qu'on se cache!|- Non.
+{27355}{27390}Non!
+{27967}{28037}Pourquoi es-tu parti sans m'en avertir?
+{28040}{28065}Longue histoire.
+{28067}{28140}Tu disparais,|puis j'apprends que tu es à Washington?
+{28145}{28235}- Désolé. Quelqu'un sait que tu es là?|- Non.
+{28330}{28415}- Je te présente...|- Angela et Wallace Schiff.
+{28460}{28560}- C'est impossible!|- Ma coéquipière. L'agent Scully.
+{28622}{28732}- C'est moi qui ai identifié leurs restes.|- C'était le but.
+{28735}{28840}Les extraterrestres ont utilisé|des leurres pour simuler notre mort.
+{28887}{28937}Les extraterrestres?
+{29052}{29160}S'il te pla îti, oublie un instant|ton parti pris scientifique.
+{29192}{29292}Ce que je m'apprête à te dire|va changer ta vie à tout jamais.
+{29295}{29412}La tienne, la mienne,|celle de tous les habitants de cette planète.
+{29467}{29522}Elle était là.
+{29525}{29585}Je l'ai découverte.
+{29620}{29665}- Quoi?|- La vérité.
+{29667}{29785}Ce couple... il a été enlevé par un ovni.
+{29787}{29842}Les lumières de Brown Mountain.
+{29875}{30010}Ils m'ont emmenée dans un endroit tout blanc|et m'ont mis un implant dans le cou.
+{30040}{30090}Comme toi.
+{30135}{30280}A en juger par le peu que je comprenne,|ce n'est pas ce qui m'est arrivé.
+{30280}{30332}Ce n'est pas tout.
+{30537}{30597}Il ne supporte pas la lumière.
+{30615}{30650}Qui ça?
+{31020}{31072}Je l'ai enlevé.
+{31115}{31165}C'est un Gris.
+{31200}{31250}Il me parle.
+{31275}{31335}On communique par télépathie.
+{31360}{31417}Il m'a tout raconté.
+{31467}{31525}Je l'entends.
+{31525}{31562}Oui.
+{31612}{31680}Mon Dieu...
+{32140}{32250}Je ne sais pas quoi dire.|Ni par où commencer.
+{32252}{32332}Tu avais raison.
+{32392}{32450}Toutes ces années, tu avais raison.
+{32450}{32515}Tu le penses vraiment?
+{32515}{32657}Tu avais raison à propos des Gris,|des enlèvements, des ovnis,
+{32660}{32710}des lumières de Brown Mountain.
+{32710}{32785}Et les squelettes?
+{32800}{32905}- C'étaient des faux. Des leurres.|- Tu crois vraiment ça?
+{32942}{33060}Et la matière organique qu'on a trouvée,|ce truc visqueux qui t'intriguait tant?
+{33060}{33120}Ce n'était rien. De la vase.
+{33192}{33282}Ca ne te ressemble pas de dire ça.
+{33285}{33365}Je ne peux pas croire|que tu adhères à cette théorie.
+{33437}{33512}Je reconnais que j'avais tort.
+{33577}{33622}Ca ne va pas?
+{34392}{34442}Comment tu te sens?
+{34500}{34550}- C'est impossible.|- Quoi?
+{34550}{34630}Eux deux, leur histoire, les squelettes...
+{34630}{34732}J'y crois bien, moi, alors pourquoi pas toi?
+{35655}{35747}- Vous êtes entrée dans la grotte?|- Oui. Elle est vide.
+{35750}{35812}A croire qu'il s'est volatilisé.
+{35860}{35920}Il ne doit pas être loin.
+{35920}{36002}On va le rattraper. Je connais bien le coin.
+{36005}{36040}Docteur.
+{36085}{36210}C'est encore cette substance digestive.|On dirait qu'elle sort du sol.
+{36665}{36737}Les traces de pas vont dans les deux sens.
+{36740}{36807}Jusqu'ici, elles n'allaient que dans un seul.
+{36810}{36872}- Vous avez dû le rater.|- C'est impossible!
+{36875}{36970}Cette grotte n'est pas plus grande qu'un trou.
+{38002}{38100}Le coursier vient de passer.|Voici les radios de votre coéquipier.
+{38575}{38640}Je suis désolé.
+{38642}{38702}Je sais combien c'est dur.
+{39137}{39275}Cette substance qu'on trouve partout...|Vous croyez qu'elle a pu lui faire ça?
+{39275}{39337}Je ne suis pas sûr de vous suivre.
+{39340}{39450}Sa composition rappelle celle|des sucs gastriques. Il a pu tomber dedans.
+{39450}{39585}Ou peut-être que c'est une substance|sécrétée par un végétal local.
+{39597}{39715}Tout ceci est plausible. A un détail près.
+{39780}{39845}On n'en a retrouvé aucune trace sur lui.
+{40380}{40440}C'est sur les Schiff qu'on en a retrouvé.
+{40460}{40550}Je pense qu'il faut se rallier|à l'explication la plus simple.
+{40600}{40660}La plus logique.
+{40695}{40760}Et quelle est l'explication la plus logique?
+{40792}{40925}Je pense qu'il s'agit d'un meurtre.|Un meurtre à caractère rituel.
+{40950}{41027}Son corps a dû être dévêtu|et réduit à l'état de squelette,
+{41030}{41115}après avoir été bouilli|ou plongé dans une solution acide.
+{41200}{41315}Ne vous inquiétez pas. On s'occupe de tout.
+{41365}{41415}De quoi parlez-vous?
+{41415}{41485}Nous allons transférer|ses restes à Washington.
+{41595}{41690}J'apprécie la minutie de votre rapport.
+{41692}{41767}Surtout au vu des circonstances.
+{41770}{41845}Vous devriez prendre|quelques jours de repos.
+{41950}{42012}Oui?
+{42015}{42065}Monsieur...
+{42087}{42157}Ainsi, mes conclusions vous satisfont?
+{42160}{42210}Tout à fait.
+{42240}{42290}Pas vous?
+{42350}{42435}Je n'ai pas pu déterminer|la cause exacte du décès.
+{42455}{42552}Ni expliquer l'état dans lequel|on a retrouvé le corps de Mulder.
+{42555}{42630}Vous avez conclu|à un meurtre à caractère rituel.
+{42632}{42675}Non.
+{42677}{42790}C'est une des hypothèses|que j'ai échafaudées.
+{42792}{42902}Mais à mon sens, c'était la moins plausible.
+{42905}{43000}C'est plus que plausible: c'est probable.
+{43040}{43132}Pourquoi remettre en question|vos propres conclusions?
+{43135}{43220}Je me suis toujours attachée|à apporter aux affaires NC
+{43220}{43350}un éclairage rationnel et scientifique|à des affaires a priori inexplicables.
+{43350}{43440}- Un contrepoint aux théories de Mulder.|- Et vous avez réussi.
+{43442}{43520}- De façon admirable.|- Vous croyez?
+{43535}{43695}Combien d'affaires NC ont été pleinement|résolues grâce à mon approche scientifique?
+{43720}{43800}Vos rapports n'ont eu de cesse|d'éclairer ses conclusions.
+{43802}{43870}Mais celui-ci n'a aucun sens!
+{43920}{44017}D'après vous, il ne s'agit pas d'un meurtre?
+{44020}{44090}C'est ce que l'agent Mulder aurait pensé.
+{44150}{44210}Et vous pensez qu'il aurait eu raison?
+{44325}{44425}Connaissant ses idées, on est tentés|de voir là un phénomène paranormal,
+{44427}{44520}ou l'oeuvre d'une force inconnue.|Mais ce serait une erreur.
+{44520}{44592}Nous devons affronter la réalité.
+{44595}{44725}A partir de là, je vous promets|qu'on attrapera les salauds qui ont fait ça.
+{46252}{46302}Mes condoléances.
+{46752}{46802}Vous tenez le coup?
+{46862}{46930}- Je n'arrive pas à m'y faire.|- Nous non plus.
+{46932}{47010}Je m'attends à tout moment|à le voir débarquer.
+{47010}{47067}"Surprise!"
+{47070}{47137}- Tenez, ça vous fera du bien.|- Non, merci.
+{47275}{47335}Je voulais vous dire...
+{47380}{47482}Nous enquêtons de notre côté.
+{47485}{47567}Je commençais à croire|que j'étais la seule à avoir des doutes.
+{47570}{47660}On va le retrouver.|On va le retrouver et il va payer.
+{47662}{47740}- Retrouver qui?|- L'enfoiré qui a tué Mulder.
+{47742}{47840}Ne le prenez pas mal,|mais on s'est procurés votre rapport.
+{47842}{47910}Sa minutie nous a impressionnés.
+{47912}{47995}- Surtout au vu des circonstances.|- Je ne comprends pas.
+{47997}{48115}On est d'accord: c'est de toute évidence|un meurtre à caractère rituel.
+{48117}{48175}Ce n'est pas ce que je dis dans le rapport!
+{48177}{48255}Vous aussi,|vous pensez qu'il a été assassiné?
+{48255}{48342}- Ca para îti évident.|- Non, ce n'est pas évident!
+{48395}{48530}Son corps a dû être dévêtu, puis bouilli|ou plongé dans une solution acide.
+{48530}{48635}- Celui qu'a fait ça va payer!|- Qu'est-ce que vous avez tous?
+{48637}{48760}Cette affaire est pleine de zones d'ombre.|Je suis la seule à m'en inquiéter?
+{48850}{48900}Je boirais bien un verre.
+{48935}{49070}Je ne peux pas croire que tous les trois,|vous preniez ça pour argent comptant!
+{49070}{49182}Il y a quelque chose qui nous échappe!|Je suis la seule à m'en rendre compte?
+{49225}{49275}Ca ne va pas?
+{49450}{49507}Vous devriez rentrer vous reposer.
+{49510}{49585}- J'appelle un taxi.|- Qu'est-ce que vous lui avez fait?
+{49585}{49660}Vous êtes à bout de nerfs. Il faut vous calmer.
+{49660}{49750}Où est Mulder? Où est-il?|Qu'est-ce que vous lui avez fait?
+{49752}{49822}Ecoutez-moi. Il est parti. Il faut l'accepter.
+{49825}{49945}Quelque chose ne tourne pas rond!|Où est-il? Où est Mulder?
+{51092}{51215}On était à l'intérieur de la grotte|quand la lumière est apparue.
+{51217}{51327}Une lumière bleutée, aveuglante.
+{51360}{51432}Puis, ils m'ont emmené.
+{51435}{51490}J'ai été enlevé.
+{51492}{51637}Je me suis retrouvé dans une salle d'hôpital.|Un lieu tout blanc, uniforme.
+{51640}{51715}- Comme dans la description des Schiff.|- lls sont morts.
+{51717}{51767}Non. Ils ne sont pas morts.
+{51815}{51895}On a retrouvé leur squelette dans un champ.
+{51897}{51992}C'est ce qui nous a amenés à enquêter.
+{51995}{52065}J'ai découvert ton squelette au même endroit.
+{52067}{52137}En attendant...je suis là.
+{52155}{52265}- Comment ça se fait?|- Les extraterrestres m'ont ramené.
+{52277}{52372}Depuis la Caroline du Nord jusque chez toi?
+{52440}{52520}Tu ne te souviens pas être revenu ici?
+{52572}{52622}Moi non plus.
+{52635}{52697}Ca ne change rien à ce qui s'est passé.
+{52700}{52797}Pourquoi avoir frappé à la porte?|Tu es chez toi.
+{52800}{52900}Tu n'as même pas l'air|surpris de me trouver là!
+{52902}{52955}Et les Schiff?
+{52957}{53060}Si comme tu le dis, ils sont vivants...
+{53097}{53170}Où se trouvent-ils? Où sont-ils allés?
+{53172}{53320}Il y a cinq minutes, cette pièce|était remplie de gens qui te veillaient!
+{53322}{53392}Que veux-tu que je dise?|Je suis là. Je suis réel.
+{53395}{53510}Non, ce n'est pas la réalité.|C'est forcément une hallucination!
+{53512}{53605}Une hallucination dont toi, moi|ou nous deux sommes la proie.
+{53605}{53685}- Due à quoi?|- A quelque chose qu'on a trouvé là-bas,
+{53687}{53747}là où tout a commencé.
+{53810}{53990}Des champignons... Qui poussaient là-bas.|J'en ai écrasé un et il a libéré des spores.
+{54005}{54112}Certaines espèces sont connues|pour avoir des propriétés hallucinogènes.
+{54115}{54200}- On a pu en inhaler...|- Et l'explication la plus logique?
+{54200}{54370}C'est celle-là! Si ça se trouve, on est|encore en Caroline du Nord dans la grotte.
+{54372}{54447}Et non ici, dans cet appartement!
+{54495}{54560}Crois-moi. C'est tout à fait possible.
+{54560}{54620}Angela et Wallace Schiff
+{54622}{54710}ont pu être digérés par la substance|que j'ai trouvée là-bas.
+{54712}{54810}Dissous, puis recrachés par le sol.
+{54812}{54935}Cette substance ainsi que l'hallucinogène|proviennent peut-être du même organisme.
+{54937}{54975}Un champignon géant?
+{54975}{55055}Un organisme fongique géant.|On sait que ça existe.
+{55057}{55197}Certains couvrent plusieurs hectares|et pèsent plusieurs centaines de tonnes.
+{55200}{55265}Il se nourrit peut-être de tissus vivants.
+{55267}{55395}Il y a bien des plantes carnivores!|La dionée, la sarracénie...
+{55397}{55527}- II diffuse peut-être un hallucinogène...|- Pour attirer sa proie dans la grotte?
+{55550}{55655}Pour la rendre docile.|Pour pouvoir la dévorer tranquillement.
+{55702}{55830}Si ça se trouve, on est sous terre|et on s'enfonce de plus en plus loin.
+{55832}{55895}Ou on nous enfonce...
+{55897}{55957}Et si on était en train d'être digérés...
+{56040}{56090}en ce moment même?
+{57447}{57530}La taille exacte de cet organisme|reste à déterminer?
+{57530}{57580}En effet.
+{57622}{57717}On sait qu'il s'étend|sur au moins cinq hectares,
+{57720}{57802}mais ça peut être plus:|la plus grande partie est sous terre.
+{57805}{57852}On a contacté les Eaux et Forêts,
+{57855}{57997}le département de la Santé de Caroline|du Nord, le bureau du FBI de Raleigh,
+{58000}{58122}ainsi que des mycologues de la Smithsonian|Institution. On a pensé à tout.
+{58125}{58252}D'après les résultats du labo, les spores|auxquelles nous avons été exposés
+{58255}{58335}ont une structure chimique proche du LSD.
+{58507}{58610}C'est rare de vous voir avaliser|tous les deux le même rapport.
+{58810}{58885}J'étais en train de réfléchir...
+{58887}{58955}Je ne comprends pas trop|comment on s'en est tirés.
+{58957}{59017}Qu'est-ce que vous ne comprenez pas?
+{59020}{59180}Une fois qu'on a compris qu'on était|sous influence, l'effet s'est dissipé?
+{59195}{59220}Exact.
+{59222}{59345}Comment a-t-on pu sortir de cet état|par la seule force de notre volonté?
+{59347}{59417}- Les faits sont là: on a réussi.|- Tu crois vraiment?
+{59437}{59545}Cite-moi une drogue qui cesse d'agir|dès qu'on réalise qu'on l'a ingérée.
+{59547}{59625}Les effets ont dû se dissiper,|vous permettant de fuir.
+{59627}{59707}On est restés là-bas combien de temps?|Des heures?
+{59710}{59800}On ne dirait pas qu'on a été brûlés|par des sucs digestifs,
+{59800}{59890}ni couverts d'acide hydrochlorique.|Regarde: pas une trace!
+{59890}{59945}Où voulez-vous en venir?
+{59985}{60110}Notre évasion n'a jamais eu lieu.|On est toujours coincés sous terre.
+{60160}{60212}Non Mulder, on s'est bien échappés.
+{60250}{60317}Tu dois souffrir de stress post-traumatique.
+{60320}{60370}Non!
+{60372}{60440}Rien de tout ça n'est réel.|A commencer par vous.
+{60502}{60562}Je vais te le prouver.
+{61782}{61832}Là-bas!
+{62050}{62100}Venez!
+{62220}{62270}Il est vivant.
+{62272}{62330}Dépêchez-vous!
+{62332}{62392}Sortez-le de là.
+{62592}{62652}Continuez à creuser. Elle est là-dessous!
+{62700}{62750}Sortez-la!
+{63062}{63122}- Champignon...|- On l'a trouvé.
+{63180}{63220}Calmez-vous.
+{64600}{64647}Sous-titrage Visiontext: Sarah Ribatto
+{65217}{65267}FRENCH

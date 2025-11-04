@@ -1,0 +1,378 @@
+{432}{482}Magnez-vous!
+{730}{817}Vous pouviez pas pisser|avant qu'on parte, trouducs?
+{820}{870}Tu comprends la langue des signes?
+{887}{972}C'est ton Q.I. ou le nombre|de trouducs que ta mère a eus?
+{1365}{1422}Tu vas pas t'y mettre, Sandy.
+{1425}{1497}Désolé, mon pote. Tu vas devoir attendre.
+{2115}{2165}A demain.
+{2932}{2982}27° C - T° MAX
+{4352}{4410}Sandy, en route!
+{5062}{5137}Hé, hot-dog! Allez quoi! <i>Carpe diem.</i>
+{6320}{6370}LE GOUVERNEMENT NOUS MENT
+{6725}{6770}LA VERITE EST AILLEURS
+{7595}{7712}En réhydratant les documents|et en rassemblant les fragments,
+{7715}{7790}je peux restaurer la majorité des dossiers
+{7792}{7895}qui se trouvaient dans mon bureau|lorsqu'il a brûlé il y a quelques mois.
+{7897}{7980}Fastidieux, certes,|mais ce que j'ai déjà récupéré
+{7980}{8085}nous permettra de rouvrir|les Affaires non classées séance tenante.
+{8230}{8317}Agent Mulder, vous parlez,|dans ce rapport chimérique,
+{8320}{8435}d'un projet de domination mondiale|par des extraterrestres griffus.
+{8457}{8545}Avez-vous des données|pour étayer ce récit disparate?
+{8545}{8565}Oui.
+{8567}{8652}Je vois que vous êtes|toujours aussi arrogant.
+{8655}{8710}Vous nous demandez de croire
+{8712}{8852}que vous avez réchappé d'un vaisseau spatial|extraterrestre enterré sous la banquise?
+{8855}{8977}La chaleur du vaisseau a fait fondre la glace|qui s'est brisée sous nos pieds.
+{8980}{9085}Cette histoire incompréhensible|rend toute analyse impossible.
+{9087}{9205}J'espérais que vous liriez attentivement|mon rapport et l'examen médical de Scully.
+{9207}{9267}Ces extraterrestres, agent Mulder.
+{9270}{9360}Etaient-ce ceux de <i>Men in Black?</i>
+{9362}{9465}- Je n'ai pas vu <i>Men in Black.</i>|- C'est un sacré bon film.
+{9467}{9520}Ca n'est pas de la science-fiction.
+{9522}{9585}On peut prouver la validité de nos dires.
+{9587}{9660}Donc ce complot... J'essaie de comprendre...
+{9662}{9760}Le complot est que ces extraterrestres|envahissent la planète,
+{9760}{9807}aidés par un groupe d'hommes.
+{9810}{9872}Des conspirateurs au sein du gouvernement.
+{9950}{10022}a été modifié génétiquement|pour contenir un virus
+{10025}{10135}qui sera disséminé par des abeilles|dont la piqûre transmettra le virus,
+{10135}{10270}donnant naissance à une entité biologique|extraterrestre dont on sera les incubateurs?
+{10272}{10382}Chose qu'on prouvera maintenant que|les Affaires non classées sont rouvertes.
+{10385}{10480}Votre présomption est encore|plus hardie que vos arguments.
+{10480}{10512}Je ne comprends pas.
+{10515}{10570}Vous justifiez votre réaffectation
+{10572}{10675}par le récit à dormir debout|d'une odyssée dans l'Antarctique.
+{10675}{10710}Sans parler des frais|de déplacement discutables.
+{10710}{10742}Sans parler des frais|de déplacement discutables.
+{10745}{10820}Le FBI n'est pas un centre|de recherche scientifique,
+{10822}{10890}ni n'est là pour servir|des intérêts personnels.
+{10892}{10972}J'espère que vous pourrez|nous apporter des preuves
+{10975}{11025}qui appuieront une enquête.
+{11025}{11140}L'agent Scully, affectée aux Affaires|non classées en tant que scientifique,
+{11142}{11220}a été piquée par une de ces abeilles|et infectée par le virus.
+{11222}{11305}Elle est là aujourd'hui|avec des preuves irréfutables,
+{11307}{11452}des preuves scientifiques que le virus|qu'elle a contracté était extraterrestre.
+{11685}{11750}La prochaine fois, je me mettrai un nez rouge.
+{11750}{11790}J'étais obligée de répondre.
+{11790}{11890}Tu m'as assuré que ce qu'on a vu|s'expliquait scientifiquement.
+{11892}{11975}Je te rappelle que je n'ai presque rien vu.
+{11977}{12025}Arrête de brandir cette excuse.
+{12027}{12092}Tu y étais et tu as été infectée par ce virus.
+{12095}{12212}Oui, d'un point de vue scientifique,|j'ai été exposée à un virus.
+{12215}{12325}Mais il se trouve que ce virus|n'est pas ce que tu croyais.
+{12325}{12425}Je n'arrive pas à l'identifier,|malgré les trois tests réalisés.
+{12427}{12555}Mais je peux te dire que l'ADN et les protéines|de ce virus sont de ce monde.
+{12557}{12632}J'ai vu ce virus|donner naissance à un être,
+{12635}{12690}à un alien qui incube dans l'homme.
+{12690}{12795}Ce virus attaque et détruit|les cellules humaines. C'est tout.
+{12797}{12857}Il ne crée rien.
+{12860}{12972}Je n'aime pas à avoir à te le dire.|Et je sais que tu ne tiens pas à l'entendre.
+{12975}{13110}Tu peux remettre en question ce que j'ai vu,|mais pas la science.
+{13372}{13460}Ils ont été négligents|quand ils ont trouvé le corps.
+{13460}{13580}La police s'en est mêlée.|Les photos ont été prises par un journaliste.
+{13582}{13625}Elles ont paru dans la presse?
+{13627}{13712}J'ai mis ça sur le dos|d'un Indien psychotique en liberté.
+{13715}{13810}Ne sous-estimez pas la volonté du public|d'accuser les Peaux-Rouges
+{13812}{13855}au moindre fait inexpliqué.
+{13857}{13922}- Que s'est-il passé?|- C'était l'un des nôtres.
+{13932}{14015}Il a dû s'injecter le virus accidentellement.
+{14017}{14087}L'incubation de la créature n'a duré que 12 h.
+{14090}{14165}- Cette chose est en vie?|- Oui.
+{14217}{14285}- Elle a tué un homme.|- Et se balade quelque part?
+{14287}{14330}En effet.
+{14332}{14425}Grand Dieu! On ne peut pas|laisser cette créature vagabonder.
+{14427}{14472}Je gère la situation.
+{14475}{14575}- II faut la retrouver.|- II faut l'abattre.
+{14607}{14682}Notre réponse doit être égale à la menace.
+{14682}{14690}Notre réponse doit être égale à la menace.
+{14700}{14755}Pouvez-vous régler ce problème?
+{14832}{14877}Oui.
+{14980}{15030}Vous perdez votre temps.
+{15032}{15120}Vous voulez des preuves.|Je dois les faire rena îti re des cendres.
+{15122}{15250}Ca ne vous aidera pas, agent Mulder.|La partie est finie.
+{15262}{15317}Votre réaffectation a été refusée.
+{15325}{15445}Insensé! Les Affaires non classées|sont bien rouvertes, non?
+{15447}{15505}- Je ne dis pas le contraire.|- Qui alors?
+{15507}{15572}Malgré toute la raison du monde,
+{15575}{15700}rien ne viendra à bout d'un complot dont|les membres oeuvrent ici en toute impunité.
+{15775}{15825}Y a-t-il eu un vote?
+{15887}{15945}Contre à l'unanimité.
+{16292}{16342}Pardon.
+{16470}{16540}Je ne peux vous aider|en dehors de la majorité.
+{16542}{16615}Laissez tomber, vous pouvez pas m'aider.
+{16617}{16690}Vous pouvez les briser|avec la preuve du virus.
+{16692}{16795}- La preuve que vous dites la vérité.|- Je ne l'ai pas.
+{16820}{16880}Je peux peut-être vous la donner.
+{16957}{17027}C'est un dossier.
+{17030}{17112}Sur la table de votre ancien bureau.
+{17690}{17757}Vous avez quelque chose pour moi?
+{17760}{17800}Agent Mulder?
+{17802}{17880}- Oui, si vous rangez mes dossiers.|- Vos dossiers?
+{17882}{17930}Que faites-vous ici, agent Spender?
+{17932}{18040}Vous avez raté un épisode.|Quelqu'un a oublié de vous prévenir.
+{18042}{18162}Vous croyez que vous allez me remplacer|aux Affaires non classées? Vous rêvez!
+{18165}{18255}Peu importe qui vous a pistonné.|Ce bureau, c'est ma vie.
+{18255}{18337}Je ne vais pas laisser|un lèche-bottes me ravir la place.
+{18340}{18455}Je ne crois pas à ces fables sur le paranormal,|pourquoi irais-je prendre votre place?
+{18457}{18480}Ah non? Qui alors?
+{18645}{18730}- Fox.|- Diana. Bien rétablie, je vois.
+{18825}{18910}Le seul moyen que tu avais|de me poignarder dans le dos.
+{19567}{19607}INTERDIT DE FUMER
+{20260}{20360}Bandez et habillez le patient.|Je l'emmène avec moi.
+{20390}{20452}Pardon?
+{20455}{20540}Ai-je vraiment besoin de me répéter?
+{20542}{20605}Qu'il soit prêt à partir.
+{20605}{20712}- Ca pourrait le tuer.|- Je vais être plus clair:
+{20715}{20775}c'est lui ou nous.
+{21340}{21407}En ne prévenant pas la police,
+{21410}{21547}on transgresse la loi interdisant|la contamination du lieu du crime.
+{21565}{21615}A quoi bon?
+{21710}{21787}Scully, viens voir par ici.
+{21857}{21917}T'as déjà vu un truc pareil?
+{21937}{22015}- C'est quoi?|- D'après l'enquêteur,
+{22015}{22130}un indigène aurait attaqué un scientifique.
+{22132}{22245}- Avec quelle arme?|- A mains nues.
+{22265}{22315}A mains nues?
+{22340}{22385}C'est du bois dur.
+{22385}{22482}Ce genre d'entaille|n'a pas été faite à mains nues.
+{22502}{22577}Pas sans utiliser un outil.
+{22642}{22692}Qu'est-ce que c'est?
+{22780}{22840}Quelqu'un s'est cassé un ongle.
+{22880}{22977}- C'est d'origine animale?|- C'est pas RuPaul.
+{22980}{23137}Le corps de l'autre victime|a été trouvé sur le canapé, éviscéré.
+{23140}{23215}Selon le rapport du médecin légiste,
+{23217}{23305}cette victime est morte|bien avant la deuxième.
+{23307}{23390}- L'agresseur était encore là.|- C'est pas une agression.
+{23392}{23467}Je crois qu'il fêtait son anniversaire.
+{23470}{23607}La 1re victime était infectée par le virus.|La créature est née ici même.
+{23610}{23670}D'où l'éviscération de la victime.
+{23672}{23737}L'entité extraterrestre produite par le virus
+{23740}{23835}a percé le torse de la victime|pour s'accoucher ici même. Regarde.
+{23947}{24060}Cela impliquerait que la gestation|a duré moins d'un jour.
+{24062}{24112}Plus précisément 12 heures.
+{24115}{24165}Oublions la science un instant.
+{24167}{24252}Tu dis que la chose qui a fait ça|venait à peine de na îti re?
+{24255}{24310}En effet.
+{24530}{24535}Elle était là.
+{24535}{24580}Elle était là.
+{24630}{24665}Mais elle est partie.
+{24742}{24805}- Je devrais y aller.|- Elle n'est plus là.
+{24835}{24917}Vous avez peur de moi|mais vous ne me croyez pas?
+{24920}{24947}Je n'ai pas peur.
+{24950}{25035}Vous pensez que je peux vous détruire|à cause de ce que je sais.
+{25037}{25105}Vous pensez que vous auriez pu me tuer.
+{25107}{25177}Et si je ne trouve pas la créature,|vous le ferez.
+{25300}{25350}Il la trouvera.
+{25350}{25435}Je ne vois pas pourquoi on se dispute.
+{25437}{25497}Tu reconnais que l'enquête était bidon.
+{25500}{25595}Mulder, ça ne veut pas dire|que je vais accepter ta théorie.
+{25622}{25687}T'attends que ce truc te gobe tout rond?
+{25690}{25775}J'ai vu ces créatures. Je les ai vues na îti re.
+{25775}{25880}Tu les aurais vues si tu n'avais pas|été évanouie dans mes bras.
+{25882}{25972}Mulder, je sais ce que tu as fait.|Je sais ce qui m'est arrivé.
+{25975}{26057}Mais je ne peux ignorer la science...
+{26060}{26170}Tu m'as dit que mon approche scientifique|t'aidait à rester impartial,
+{26170}{26290}que ça remettait en cause tes assomptions,|que ça te rendait intègre.
+{26292}{26342}Si je changeais maintenant,
+{26372}{26452}ça ne serait ni bien ni honnête.
+{26485}{26620}Je te parle d'une vie extraterrestre|présente sur notre planète.
+{26635}{26720}D'une force qui réduit et précède|l'histoire de l'humanité.
+{26772}{26862}Désolée, Scully, mais cette fois,|ta science se trompe.
+{27105}{27195}CENTRALE NUCLEAIRE ROLLING HILLS|100 KM A L'EST DE PHOENIX
+{27860}{27910}Réveille-toi, Homer.
+{27947}{27997}Je ne dormais pas.
+{28015}{28105}- Je réfléchissais.|- C'est une première!
+{28107}{28160}T'as pris du retard sur les vérifs.
+{28162}{28230}S'il y avait eu un pépin, on le saurait.
+{28230}{28335}L'Arizona va pas mourir|s'y a plus de clim pendant dix minutes.
+{28575}{28667}Homer, le système de refroidissement|tourne pas rond.
+{28755}{28797}Regarde.
+{28832}{28927}- Ca débloque de cinq degrés.|- II s'agit peut-être du réacteur.
+{28930}{29010}Non, c'est l'écran qui fait des siennes.
+{29010}{29122}Les coups de fil vont pas tarder.|Tu ferais mieux d'aller vérifier.
+{29125}{29175}D'accord.
+{31270}{31357}CENTRALE NUCLEAIRE ROLLING HILLS|12H17
+{31460}{31522}Bouclez-moi toute la zone.
+{31627}{31692}L'accès est interdit|aux personnes non autorisées.
+{31695}{31702}- Que s'est-il passé?|- Circulez.
+{31702}{31750}- Que s'est-il passé?|- Circulez.
+{31752}{31800}On sait qu'un homme a été tué.
+{31802}{31875}C'est le directeur adjoint Skinner|qui vous l'a dit?
+{31875}{31987}- Laissez-nous passer.|- Vous n'en avez pas l'autorisation.
+{31990}{32050}Vous n'avez aucune raison d'être ici.
+{32052}{32152}Je vais vous faire radier|et tenir la bride haute à Skinner.
+{32155}{32220}Diana, laisse-nous entrer.
+{32220}{32292}Impossible. Les instructions sont claires.
+{32295}{32325}Un homme a été tué.
+{32325}{32422}C'était un accident|causé par un dysfonctionnement technique.
+{32425}{32450}Que fais-tu ici?
+{32452}{32542}Il est possible qu'il y ait un lien|avec deux morts récentes
+{32545}{32630}dont le dossier nous a été volé au bureau.
+{32677}{32775}- II y a un lien.|- Partons d'ici, Mulder.
+{32795}{32850}J'espère que tu sais ce que tu fais.
+{32852}{32915}J'espère que tu sais pour qui tu bosses.
+{32917}{32967}Je crois que oui.
+{33062}{33132}Ca ne nous a pas avancés. Bien au contraire.
+{33135}{33187}Elle est là, Scully, et ils le savent.
+{33190}{33272}Comment le savent-ils, Mulder?|Comment le sais-tu?
+{33275}{33337}Donne-moi les clés et monte.
+{33490}{33540}Gibson.
+{33570}{33600}Pardon, mon ange.
+{33720}{33802}Gibson, trésor?
+{34582}{34650}Frankenstein, hein?
+{34730}{34797}Des bons médecins se sont occupés de toi.
+{34805}{34865}Ils ont bien réussi tes points de suture.
+{34887}{34950}Vous pensez que c'étaient des bouchers.
+{34980}{35035}C'étaient des bouchers.
+{35062}{35155}Ils auraient dû changer tes pansements.
+{35155}{35225}Les plaies sont infectées.
+{35257}{35310}Et tu as de la fièvre.
+{35360}{35472}- Pourquoi t'ont-ils fait ça?|- Car je lis dans les pensées des autres.
+{35565}{35685}- Quand es-tu monté dans notre voiture?|- Dès qu'ils ont eu le dos tourné.
+{35687}{35760}Facile quand on sait à quoi ils pensent.
+{35780}{35810}Que fais-tu ici?
+{35812}{35897}Ils m'utilisent car je peux|communiquer avec elle.
+{35992}{36030}C'est qui, elle?
+{36030}{36117}Vous le savez. Vous ne voulez pas y croire.
+{36430}{36490}Ce gosse pourrait la trouver.
+{36490}{36575}- II doit être hospitalisé.|- Faisons baisser sa température.
+{36575}{36645}Tu ne peux pas l'emmener|faire une partie de chasse.
+{36645}{36735}Il doit être alité et placé|sous surveillance médicale.
+{36735}{36820}Ecoute-moi. C'est dans ton intérêt.
+{36820}{36940}On doit s'assurer que rien ne lui arrive.
+{36942}{37065}Quels que soient ses dons,
+{37067}{37147}il est ta preuve. On l'avait deviné.
+{37150}{37250}- II pourrait être la clef des X-Files.|- Ce n'est plus notre domaine.
+{37252}{37390}Et s'il pouvait corroborer tes assertions?
+{37390}{37450}Il pourrait être notre dernière chance.
+{38157}{38267}Fox, je vais sortir de la voiture.|Je suis venue seule, d'accord?
+{38380}{38475}- Que fais-tu ici?|- II m'était impossible de te parler.
+{38477}{38600}On m'a confié cette mission, Fox.|Ils m'ont donné cette chance et je l'ai prise.
+{38602}{38625}Je t'écoute.
+{38627}{38740}Il fallait quelqu'un qui soit|dans ton camp, qui croie au boulot.
+{38745}{38832}N'oublie pas qu'on a fondé|les Affaires non classées ensemble.
+{38835}{38885}- Qui t'envoie?|- Je suis venue seule.
+{38887}{38952}Pour me convaincre|de tes nobles intentions?
+{38955}{38977}Ecoute-moi.
+{38980}{39040}Cette chose est dans la salle du réacteur 4.
+{39042}{39132}Ou ils la trouvent et la détruisent,|ou on la trouve avant eux.
+{39160}{39227}Tu as besoin de preuves, Fox.
+{39230}{39310}Tu es si près du but. Ne le vois-tu donc pas?
+{39642}{39692}Mulder, que se passe-t-il?
+{39695}{39765}- Emmène Gibson.|- Où vas-tu?
+{39765}{39820}Trouver la créature.
+{40132}{40165}Spender et moi avons pris le premier avion.|On était constamment informés.
+{40165}{40245}Spender et moi avons pris le premier avion.|On était constamment informés.
+{40247}{40307}- Par?|- La commission de réglementation nucléaire.
+{40310}{40377}Ce sont eux qui ont trouvé la victime.
+{40380}{40452}Le corps a été enlevé avant qu'on n'arrive.
+{40455}{40550}- Qui l'a enlevé?|- lmpossible d'obtenir une réponse claire.
+{40552}{40612}Puis ils ont fermé la salle du réacteur
+{40615}{40730}à cause d'un problème légitime|affectant les systèmes caloporteurs.
+{40732}{40835}C'est peut-être pour ça qu'elle y est.|Elle veut de la chaleur.
+{40847}{40942}La gestation a été trop rapide.|La chaleur dope la créature.
+{40945}{41030}Elle active peut-être le virus|et le développement de l'entité.
+{41030}{41135}- Pourquoi cherche-t-elle la chaleur?|- Pour continuer son développement?
+{41172}{41300}Tu ne cherches pas quelque chose|de logique ni de conventionnel, j'espère?
+{41302}{41365}Non.
+{41372}{41450}PHOENIX SAMARITAN|CENTRE MEDICAL
+{41522}{41600}Tout va bien se passer, Gibson. Tout ira bien.
+{41677}{41727}Allons préparer le lit.
+{41765}{41860}- Vous allez faire d'autres tests.|- On va te soigner.
+{41860}{41960}Oui, mais vous allez faire d'autres tests,|comme les autres docteurs.
+{41962}{42015}On ne doit en faire qu'un, Gibson.
+{42017}{42090}Vous voulez me soigner,|mais pour votre bénéfice,
+{42092}{42152}pour me tirer des informations.
+{42382}{42485}Tu es un petit garçon très doué, Gibson.|Tu le sais.
+{42495}{42562}Très doué comme cobaye.
+{43950}{44095}D'après le peu d'indices relevés,|le corps de la victime a été trouvé près d'ici.
+{44095}{44180}- II fait chaud.|- On est au-dessus du réacteur.
+{44180}{44255}Ca fait partie du système de refroidissement.
+{44520}{44610}- Ca a l'air organique.|- Ou quelqu'un a une méchante crève.
+{45827}{45895}Qu'est-ce qu'il y a?
+{45897}{45960}Il y a un truc là-dedans.
+{46805}{46872}Mulder, j'ai fait une découverte incroyable.
+{46882}{46907}Moi aussi.
+{46910}{47030}Le résultat des analyses de sang de Gibson|indique qu'il porte le virus.
+{47047}{47130}- Le même virus que tu avais?|- J'en suis presque sûre.
+{47132}{47160}Ca veut dire quoi?
+{47160}{47237}J'en sais rien, mais on a mis|le doigt sur quelque chose.
+{47240}{47347}- Sur un truc énorme, une connexion.|- J'accepte le pari et je double la mise.
+{47352}{47415}- Quoi?|- Rien. Occupe-toi bien de Gibson.
+{48047}{48130}Il y avait un petit garçon dans cette chambre.|Il n'est plus là.
+{48132}{48210}Qui sait ce qui est arrivé au petit garçon?
+{48210}{48322}Il s'appelle Gibson Praise,|il était dans cette chambre.
+{48325}{48385}Qui peut me dire ce qu'il se passe?
+{48422}{48462}Du calme.
+{48465}{48567}- Le petit garçon a disparu.|- lmpossible, il devrait être au lit.
+{48570}{48615}Il n'est pas là!
+{51270}{51337}- Elle est là.|- Où?
+{51400}{51450}Dans les parages.
+{52222}{52287}Ouvre la porte, espèce d'enfoiré!
+{52290}{52375}Ouvre cette foutue porte!
+{52402}{52430}Ouvre la porte!
+{52432}{52535}Fox, je vais voir|s'il y a un autre moyen d'entrer!
+{52560}{52625}Ouvre la porte!
+{52695}{52745}Je vous avais dit qu'elle était là.
+{53867}{53960}Je vous l'ai déjà dit|et je le répète, agent Mulder.
+{53962}{54087}Le FBI ne peut être le théâtre de vengeances|ni servir des intérêts personnels.
+{54090}{54180}C'est une règle valable pour vous|et pour tous ceux au FBI.
+{54182}{54305}Vous nous obligez à sévir|et à prendre des mesures.
+{54307}{54435}Vous et l'agent Scully cesserez toute|association avec les Affaires non classées.
+{54435}{54515}En cas de refus,|vous serez renvoyés sur-le-champ.
+{54515}{54597}Une période d'essai sera fixée.
+{54600}{54680}Vous dépendez maintenant|du directeur adjoint Kersh.
+{54997}{55065}Vous n'êtes pas censé venir ici.
+{55067}{55097}C'était convenu.
+{55145}{55175}C'était votre idée.
+{55177}{55292}Je voulais vous féliciter sur la manière|dont vous avez mené les choses.
+{55412}{55472}Dont vous avez mené Mulder.
+{55475}{55525}J'ai exécuté vos ordres.
+{55555}{55685}De façon remarquable, jeune homme.|Il marche sur des épines maintenant.
+{55700}{55807}Mulder reviendra.|Tant qu'il sera vivant, il n'abandonnera pas.
+{55810}{55885}Il existe des solutions, bien entendu.
+{55897}{55965}Simples mais extrêmes.
+{56000}{56082}Je les ai déjà utilisées.|Elles ont un certain mérite.
+{56120}{56170}Mais pas ici.
+{56235}{56285}Vous avez tué des hommes.
+{56312}{56362}On peut tuer un homme,
+{56397}{56462}mais pas sa cause.
+{56507}{56577}A moins de l'avoir d'abord brisé|mentalement.
+{56660}{56720}C'est beau à voir.
+{57147}{57290}Ferme la porte, on ne verra pas|que je me moque de tout ce qu'on m'a dit.
+{57415}{57487}Tout ce qu'on nous a dit, Mulder.
+{57540}{57635}Ils ne peuvent pas nous retirer les X-Files.|Ils ont déjà essayé.
+{57637}{57775}Le rapport de l'agent Fowley au Bureau|des enquêtes internes était intéressant.
+{57777}{57815}C'est proche de la trahison.
+{57817}{57885}L'objectif du rapport de l'agent Fowley
+{57887}{57970}était de protéger les Affaires non classées.
+{57970}{58052}Elle dit que l'homme|qui est mort sous vos yeux
+{58055}{58117}a été transpercé par un objet non identifié.
+{58120}{58210}Elle ne parle pas non plus|d'un petit garçon dont on a perdu la trace.
+{58215}{58315}On dirait que son rapport|protège tout le monde sauf toi.
+{58315}{58405}Elle a risqué son job|en me faisant entrer dans la centrale
+{58407}{58502}où j'ai vu une créature à laquelle|tu refuses de croire. Je l'ai revue.
+{58505}{58585}Ca n'est pas dans son rapport,|mais elle l'a vue aussi.
+{58587}{58650}En tout cas, ce n'est pas son genre de dire
+{58652}{58755}que c'est scientifiquement improuvable,|donc impossible.
+{58755}{58830}Je ne doute pas de ce que tu as vu, Mulder.
+{58832}{58887}Je ne doute pas de toi.
+{58890}{58950}Je veux bien croire,|mais pas dans un mensonge,
+{58952}{59010}pas au contraire de ce qu'on peut prouver.
+{59115}{59180}C'est une histoire de confiance.
+{59285}{59342}Ca l'a toujours été.
+{59430}{59555}- Tu me demandes de faire un choix?|- Je te demande de te fier à mon jugement.
+{59635}{59685}De te fier à moi.
+{59795}{59872}Pas si ça réfute ce que je sais être vrai.
+{59875}{60005}Mulder, voici des résultats d'analyse.|L'ADN de la griffe qu'on a trouvée
+{60007}{60120}correspond exactement à l'ADN du virus|que tu crois d'origine extraterrestre.
+{60180}{60237}C'est donc ça la connexion.
+{60240}{60345}Qui correspond exactement|à l'ADN de Gibson Praise.
+{60407}{60515}Es-tu en train d'insinuer que|Gibson est infecté par le virus?
+{60515}{60642}Non, ça fait partie de son ADN,|comme ça fait partie du nôtre.
+{60645}{60700}Ca s'appelle un résidu génétique.
+{60700}{60800}C'est de l'ADN résiduel végétatif,|sauf chez Gibson.
+{60862}{61002}Ca voudrait dire que Gibson|est quelque part extraterrestre.
+{61005}{61067}Ca voudrait dire qu'on l'est tous.
+{63525}{63590}Sous-titrage Visiontext: Delphine Chatenay
+{64060}{64110}FRENCH

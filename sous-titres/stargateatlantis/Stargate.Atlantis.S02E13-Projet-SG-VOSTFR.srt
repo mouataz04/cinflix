@@ -1,0 +1,2913 @@
+1
+00:00:12,315 --> 00:00:16,350
+- Vous partez en mission?
+- M7G-677.
+
+2
+00:00:16,770 --> 00:00:19,489
+C'est la planète avec tous ces enfants, n'est-ce pas?
+
+3
+00:00:19,490 --> 00:00:21,910
+Ils ont des problèmes avec leur
+générateur de champ électromagnétique.
+
+4
+00:00:21,910 --> 00:00:26,115
+Et McKay a décidé que j'étais la personne
+la plus qualifiée dans tout Atlantis, pour le réparer.
+
+5
+00:00:26,116 --> 00:00:28,659
+Hey, ne vous inquiétez pas, c'est un super
+groupe d'enfants, vous allez les aimer.
+
+6
+00:00:28,660 --> 00:00:34,909
+Ma sœur a un enfant, il casse des choses, il jette des
+choses, il... il enduit des "choses" sur les meubles.
+
+7
+00:00:34,910 --> 00:00:37,555
+Colonel Sheppard, j'ai besoin de
+vous en salle de commande!
+
+8
+00:00:37,556 --> 00:00:39,600
+Oh! Vous êtes toujours là?
+
+9
+00:00:39,601 --> 00:00:41,050
+Nous allions juste partir!
+
+10
+00:00:41,051 --> 00:00:44,460
+Hmm, bien, dites bonjour aux enfants pour moi.
+
+11
+00:00:47,720 --> 00:00:52,565
+Idiot. "Dites bonjour aux enfants pour moi."
+Vous me le payerez. Vous êtes un tel idiot.
+
+12
+00:00:53,390 --> 00:00:56,460
+- 2 croiseurs Wraiths.
+- A quelle distance sont-ils?
+
+13
+00:00:56,461 --> 00:00:58,100
+Un jour, peut-être un jour et demi.
+
+14
+00:00:58,101 --> 00:01:01,905
+Je les suis depuis quelques temps... mais euh... la
+bonne nouvelle c'est qu'ils ne semblent pas venir par ici.
+
+15
+00:01:01,906 --> 00:01:04,070
+- Juste un passage dans le voisinage?
+- Oui, il semble bien.
+
+16
+00:01:04,071 --> 00:01:06,259
+Mais, j'ai découvert quelque chose de plutôt curieux.
+
+17
+00:01:07,260 --> 00:01:10,860
+De courts mais intenses éclats d'énergie passant entre eux.
+
+18
+00:01:10,860 --> 00:01:12,350
+Ils se combattent?
+
+19
+00:01:12,350 --> 00:01:15,640
+Hum, d'après mon opinion d'expert, oui!
+
+20
+00:01:15,640 --> 00:01:16,740
+Bonne nouvelle!
+
+21
+00:01:16,740 --> 00:01:17,940
+Certainement.
+
+22
+00:01:17,940 --> 00:01:20,620
+S'ils changent de trajectoire, faites-le moi savoir.
+
+23
+00:01:24,690 --> 00:01:28,510
+Je viens juste de couper court à un appel avec le
+secrétaire d'Etat. J'espère que ceci en vaut la peine.
+
+24
+00:01:28,510 --> 00:01:32,480
+Je suis désolé, mais le développement de la situation est
+tel que je devais vous en informer. Je ne pouvais attendre.
+
+25
+00:01:32,480 --> 00:01:34,059
+Bien, alors mettez-moi au courant.
+
+26
+00:01:34,060 --> 00:01:37,080
+Nous avons noté une augmentation des
+communications au sein du "Trust" récemment.
+
+27
+00:01:37,080 --> 00:01:39,840
+Les Goa'ulds ont infiltré les hautes
+sphères de l'organisation.
+
+28
+00:01:39,840 --> 00:01:45,560
+Nous avons découvert que leurs accès aux
+agences gouvernementales étaient plus
+importants que ce que nous pensions.
+
+29
+00:01:45,561 --> 00:01:47,300
+A quel point?
+
+30
+00:01:48,001 --> 00:01:49,330
+Atlantis.
+
+31
+00:01:49,390 --> 00:01:50,990
+Ils sont au courant?
+
+32
+00:01:51,190 --> 00:01:53,890
+Pire, ils y sont déjà...
+
+33
+00:01:54,750 --> 00:01:57,590
+Ils ont caché une bombe quelque part dans la cité.
+
+34
+00:02:11,720 --> 00:02:15,720
+Stargate Atlantis - Saison 2 Episode 13
+Critical Mass (Masse Critique)
+
+35
+00:02:17,720 --> 00:02:21,720
+Traduction: Kyoshiro, Ccad.
+
+36
+00:02:23,720 --> 00:02:27,720
+Synchronisation: AXB, CCad, Kyoshiro, Niko, Soukasays.
+
+37
+00:02:29,720 --> 00:02:31,720
+Relecture: Kyoshiro, Niko, Ccad, AeroPad.
+
+38
+00:02:45,920 --> 00:02:46,020
+h
+
+39
+00:02:46,020 --> 00:02:46,120
+ht
+
+40
+00:02:46,120 --> 00:02:46,220
+htt
+
+41
+00:02:46,220 --> 00:02:46,320
+http
+
+42
+00:02:46,320 --> 00:02:46,420
+http:
+
+43
+00:02:46,420 --> 00:02:46,520
+http:/
+
+44
+00:02:46,520 --> 00:02:46,620
+http://
+
+45
+00:02:46,620 --> 00:02:46,720
+http://p
+
+46
+00:02:46,720 --> 00:02:46,820
+http://pr
+
+47
+00:02:46,820 --> 00:02:46,920
+http://pro
+
+48
+00:02:46,930 --> 00:02:47,030
+http://proj
+
+49
+00:02:47,030 --> 00:02:47,130
+http://proje
+
+50
+00:02:47,130 --> 00:02:47,230
+http://projet
+
+51
+00:02:47,230 --> 00:02:47,330
+http://projet-
+
+52
+00:02:47,330 --> 00:02:47,430
+http://projet-s
+
+53
+00:02:47,430 --> 00:02:47,530
+http://projet-sg
+
+54
+00:02:47,530 --> 00:02:47,630
+http://projet-sg.
+
+55
+00:02:47,630 --> 00:02:47,730
+http://projet-sg.a
+
+56
+00:02:47,730 --> 00:02:47,830
+http://projet-sg.ae
+
+57
+00:02:47,830 --> 00:02:47,930
+http://projet-sg.aer
+
+58
+00:02:47,940 --> 00:02:48,040
+http://projet-sg.aero
+
+59
+00:02:48,040 --> 00:02:48,140
+http://projet-sg.aerof
+
+60
+00:02:48,140 --> 00:02:48,240
+http://projet-sg.aerofr
+
+61
+00:02:48,240 --> 00:02:48,340
+http://projet-sg.aerofra
+
+62
+00:02:48,340 --> 00:02:48,440
+http://projet-sg.aerofran
+
+63
+00:02:48,440 --> 00:02:48,540
+http://projet-sg.aerofranc
+
+64
+00:02:48,540 --> 00:02:48,640
+http://projet-sg.aerofrance
+
+65
+00:02:48,640 --> 00:02:48,740
+http://projet-sg.aerofrance.
+
+66
+00:02:48,740 --> 00:02:48,840
+http://projet-sg.aerofrance.n
+
+67
+00:02:48,840 --> 00:02:48,940
+http://projet-sg.aerofrance.ne
+
+68
+00:02:48,950 --> 00:02:49,950
+http://projet-sg.aerofrance.net
+
+69
+00:02:49,950 --> 00:02:50,950
+http://projet-sg.aerofrance.net
+
+70
+00:02:50,950 --> 00:02:51,950
+http://projet-sg.aerofrance.net
+
+71
+00:02:51,950 --> 00:02:52,950
+http://projet-sg.aerofrance.net
+
+72
+00:02:52,950 --> 00:02:53,950
+http://projet-sg.aerofrance.net
+
+73
+00:02:53,950 --> 00:02:54,950
+http://projet-sg.aerofrance.net
+
+74
+00:02:54,950 --> 00:02:59,890
+http://projet-sg.aerofrance.net
+
+75
+00:03:03,080 --> 00:03:05,440
+Je ne comprend pas pourquoi, euh
+
+76
+00:03:05,450 --> 00:03:06,930
+Pourquoi les Goa'ulds voudraient détruire Atlantis?
+
+77
+00:03:06,930 --> 00:03:10,090
+Je pensais qu'ils seraient désireux de mettre
+la main sur la technologie des Anciens.
+
+78
+00:03:10,090 --> 00:03:15,370
+Ils veulent la technologie c'est sûr,
+mais ils sont plus concernés par le fait que
+les Wraiths trouvent le chemin de cette galaxie.
+
+79
+00:03:15,370 --> 00:03:18,850
+La dernière chose qu'ils veulent
+c'est un autre ennemi à qui faire face.
+
+80
+00:03:18,851 --> 00:03:21,429
+Particulièrement un aussi formidable.
+
+81
+00:03:21,430 --> 00:03:24,260
+Ah Jésus... les pauvres... Je veux dire, heu..
+
+82
+00:03:24,260 --> 00:03:28,280
+Comme s’ils n'en avaient pas assez avec les Wraiths,
+maintenant ils ont un Goa'uld parmi eux?
+
+83
+00:03:28,280 --> 00:03:32,217
+L'information que nous avons suggère
+qu'un employé de bas niveau a posé la bombe.
+
+84
+00:03:32,218 --> 00:03:34,344
+Ce qui veut dire que nous avons affaire à un Humain.
+
+85
+00:03:34,500 --> 00:03:40,730
+Et parmi le peu que nous ayons déchiffré
+jusque là, la bombe est faite pour exploser
+la prochaine fois qu'Atlantis appellera la Terre.
+
+86
+00:03:40,731 --> 00:03:44,290
+Donc le "Trust" a probablement dû
+placer un transmetteur près du Mont Cheyenne.
+
+87
+00:03:44,290 --> 00:03:47,430
+Afin de déterminer le moment
+exact où le vortex sera établi.
+
+88
+00:03:47,430 --> 00:03:48,630
+Ce qui donne aujourd'hui.
+
+89
+00:03:48,630 --> 00:03:52,390
+- Quoi? Lors du rapport hebdomadaire.
+- Dans 2 heures et 46 minutes.
+
+90
+00:03:52,390 --> 00:03:54,950
+Bien, nous devons les prévenir, nous
+devons leur dire de ne pas appeler la Terre.
+
+91
+00:03:54,950 --> 00:03:58,710
+Comment? Même si nous avions
+la puissance nécessaire pour appeler Atlantis.
+
+92
+00:03:58,710 --> 00:04:01,440
+Nous ne le pouvons pas car ça ferait exploser la bombe.
+
+93
+00:04:01,450 --> 00:04:04,690
+Pourquoi pas le Daedalus? Il est sur un
+voyage de retour dans la Voie Lactée.
+
+94
+00:04:04,690 --> 00:04:07,049
+Nous pouvons nous en servir pour relayer la trans...
+
+95
+00:04:07,050 --> 00:04:11,440
+Ah, non, attendez, mon dieu,
+il n'y a aucun moyen qu'ils soient assez près.
+
+96
+00:04:11,440 --> 00:04:13,330
+Même avec leur transmetteur longue portée.
+
+97
+00:04:13,340 --> 00:04:15,610
+Vous trouverez une autre manière
+de leur faire parvenir le message.
+
+98
+00:04:15,610 --> 00:04:16,610
+Je trouverai?
+
+99
+00:04:16,610 --> 00:04:20,350
+Bien sûr que vous trouverez!
+C'est pour ça que je vous paye...
+
+100
+00:04:23,580 --> 00:04:28,150
+Elisabeth est en train d'inclure les renseignements
+concernant la bataille entre les Wraiths
+dans son rapport d'état d'aujourd'hui.
+
+101
+00:04:28,150 --> 00:04:33,380
+Espérons que la tendance continue.
+Si les Wraiths continuent de se battre comme ceci,
+on devrait pouvoir prendre notre week-end.
+
+102
+00:04:35,360 --> 00:04:39,000
+Cadman? Que faites vous ici?
+
+103
+00:04:39,000 --> 00:04:41,600
+Ah, ç'est bon de vous voir aussi, Rodney.
+
+104
+00:04:41,630 --> 00:04:43,220
+Non, je pensais que vous partiez avec le Daedalus?
+
+105
+00:04:43,220 --> 00:04:48,880
+Ouais mais quelque chose est arrivé. J'ai demandé
+au Cl. Sheppard si je pouvais rester par ici
+un petit peu plus longtemps.
+
+106
+00:04:48,880 --> 00:04:52,000
+Oh alors, c'est bien.
+
+107
+00:04:52,030 --> 00:04:55,169
+- Vous êtes d'accord avec ça?
+- Ouais, bien sûr, pourquoi ne le serais-je pas?
+
+108
+00:04:55,170 --> 00:04:56,400
+Colonel.
+
+109
+00:04:57,130 --> 00:04:58,430
+Lieutenant.
+
+110
+00:05:03,800 --> 00:05:07,180
+Je pensais qu'après tout ce temps, vous
+cesseriez d'être remonté contre elle.
+
+111
+00:05:07,180 --> 00:05:11,400
+Elle a juste une manière de passer
+sous ma peau... Littéralement...
+
+112
+00:05:17,250 --> 00:05:18,420
+Docteur Beckett?
+
+113
+00:05:18,420 --> 00:05:19,420
+Oui?
+
+114
+00:05:19,820 --> 00:05:22,970
+Avez-vous le temps de m'accompagner sur le continent?
+
+115
+00:05:23,600 --> 00:05:24,620
+Y a t’il un problème?
+
+116
+00:05:24,620 --> 00:05:28,040
+Une femme qui m'est très proche, Charin.
+
+117
+00:05:28,050 --> 00:05:30,450
+Oh oui, je me souvient d'elle, une gentille dame.
+
+118
+00:05:30,450 --> 00:05:32,600
+Elle est comme ma grand-mère.
+
+119
+00:05:32,600 --> 00:05:36,890
+Je viens de recevoir un message disant qu'elle est très
+malade. Je me demandais si vous pouviez l'examiner.
+
+120
+00:05:36,890 --> 00:05:39,070
+Bien sûr, ma chérie, n'en dites pas plus.
+
+121
+00:05:41,420 --> 00:05:46,000
+Ok, ça c'est Atlantis, au cœur de la galaxie de Pégase.
+
+122
+00:05:46,000 --> 00:05:53,270
+Et ça c'est le Deadalus, qui est parti il y a une
+semaine pour son voyage vers...
+
+123
+00:05:53,360 --> 00:05:54,760
+...la Terre.
+
+124
+00:05:55,760 --> 00:06:02,040
+Maintenant, comme nous ne pouvons pas
+composer la porte vers Atlantis, nous n'avons
+aucun moyen de transmettre un avertissement.
+
+125
+00:06:02,040 --> 00:06:05,480
+Sauf en utilisant, une transmission sub-spatiale par rafales...
+
+126
+00:06:05,480 --> 00:06:10,240
+...relayée depuis notre galaxie vers Pégase en
+utilisant le Deadalus comme un des points de relais.
+
+127
+00:06:10,240 --> 00:06:14,000
+Je pensais que vous aviez dit que le Deadalus était
+trop loin, pour que notre émetteur l'atteigne.
+
+128
+00:06:14,000 --> 00:06:17,000
+Il l'est, c'est pourquoi nous devons nous en rapprocher.
+
+129
+00:06:17,000 --> 00:06:24,015
+P4M-399. C'est… C'est une petite planète,
+proche des confins de notre Galaxie.
+
+130
+00:06:24,016 --> 00:06:27,160
+Mais, si nous pouvons y envoyer une équipe scientifique par la porte.
+
+131
+00:06:27,160 --> 00:06:32,350
+Ils devraient être assez proche pour relayer
+l'information au Deadalus et ainsi ils pourraient...
+
+132
+00:06:32,350 --> 00:06:35,680
+C'est... c'est... c'est comme l'Aboiement du crépuscule.
+
+133
+00:06:36,670 --> 00:06:40,640
+Aboiement du crépuscule? "101 Dalmatiens"?
+Vous n'avez pas vu ce film? Mes enfants l'adorent.
+
+134
+00:06:40,640 --> 00:06:44,700
+Peu importe... Bon OK, donc tous ces chiens,
+et un aboiement là, un autre ici, un...
+
+135
+00:06:44,700 --> 00:06:49,050
+Ils envoient un message au travers du paysage.
+
+136
+00:06:49,820 --> 00:06:55,000
+"Lord of the Rings"... "Lord of the Rings"!
+Vous connaissez, donc quand ils allument tous
+ces signaux sur les sommets montagneux.
+
+137
+00:06:55,000 --> 00:06:59,220
+- Vous l'avez vu, n'est ce pas? Donc, OK...
+- Messieurs, messieurs, messieurs, messieurs!
+
+138
+00:06:59,280 --> 00:07:01,450
+Je crois que nous avons du travail à faire.
+
+139
+00:07:01,480 --> 00:07:03,020
+Bien sûr... Désolé.
+
+140
+00:07:03,020 --> 00:07:04,520
+En Avant!
+
+141
+00:07:15,100 --> 00:07:21,510
+Colonel Caldwell. Nous venons de recevoir une transmission
+sub-spatiale venant d'une équipe SG sur P4M-399.
+
+142
+00:07:21,510 --> 00:07:25,350
+C'est un message urgent du SGC que nous devons relayer vers Atlantis.
+
+143
+00:07:25,350 --> 00:07:26,370
+Quel est le message?
+
+144
+00:07:26,370 --> 00:07:28,350
+"Ne pas appeler la porte terrestre...
+
+145
+00:07:28,350 --> 00:07:34,550
+...un agent du "Trust" a posé une bombe sur Atlantis
+qui explosera une fois que la séquence sera terminée"
+
+146
+00:07:34,550 --> 00:07:39,410
+Nous devons maintenir notre position jusqu'à ce que
+le message ai été transmis et pour de plus amples
+informations à mesure du déroulement.
+
+147
+00:07:39,410 --> 00:07:42,120
+Sommes nous encore à portée pour
+relayer le message vers Atlantis?
+
+148
+00:07:42,120 --> 00:07:43,820
+Non!
+
+149
+00:07:43,850 --> 00:07:45,110
+Qui est ce? Kavanagh?
+
+150
+00:07:45,110 --> 00:07:50,510
+Oui, Colonel. Nous sommes beaucoup trop loin
+pour émettre un message sub-spatial vers Atlantis.
+
+151
+00:07:50,510 --> 00:07:52,620
+Nous pouvons faire demi-tour et nous en rapprocher.
+
+152
+00:07:52,620 --> 00:07:57,540
+Nous n'avons pas assez de temps. Leur appel pour le
+rapport hebdomadaire est dans juste 2 heures.
+
+153
+00:07:57,540 --> 00:08:01,630
+Nous ne pouvons pas nous rapprocher assez
+pour transmettre le message à temps
+pour les empêcher de composer.
+
+154
+00:08:01,630 --> 00:08:02,980
+Colonel Caldwell.
+
+155
+00:08:02,980 --> 00:08:06,480
+<i>Je crois que je peux faire
+des modifications sur l'hyper propulsion.</i>
+
+156
+00:08:06,480 --> 00:08:14,070
+Afin d'atteindre la vitesse nécessaire pour parcourir
+la distance qui nous permettrait de relayer
+la transmission dans le temps imparti.
+
+157
+00:08:14,070 --> 00:08:21,850
+L'hyper propulsion fonctionnera à un niveau qui ne
+pourra être maintenu que pendant une courte
+durée avant d'entraîner des dommages.
+
+158
+00:08:21,850 --> 00:08:23,050
+Quels genres de dommages?
+
+159
+00:08:23,050 --> 00:08:24,970
+Ca pourrait mettre hors service la propulsion.
+
+160
+00:08:24,970 --> 00:08:27,510
+Ce qui voudrait dire que
+nous serions coincés entre les galaxies.
+
+161
+00:08:27,510 --> 00:08:29,170
+Oui, je sais ce que ça veut dire Dr.
+
+162
+00:08:29,170 --> 00:08:34,990
+Cependant, je crois bien que nous atteindrons le point
+duquel nous pourrons relayer le message vers Atlantis.
+
+163
+00:08:34,990 --> 00:08:38,239
+Avant que l'hyper propulsion ne subisse de dommages.
+
+164
+00:08:38,240 --> 00:08:40,500
+Etes vous sûr de ça?
+
+165
+00:08:41,130 --> 00:08:44,539
+Dois je faire les modifications, Colonel?
+
+166
+00:08:44,540 --> 00:08:46,870
+Allez-y. Faites demi-tour.
+
+167
+00:08:50,880 --> 00:08:53,610
+Je ne vois pas comment vous pourrez tirer
+plus de puissance de l'hyper-propulsion.
+
+168
+00:08:53,610 --> 00:08:56,900
+- Docteur Kavanagh.
+- Oui?
+
+169
+00:08:56,940 --> 00:08:59,779
+Cessez de parler s'il vous plait...
+
+170
+00:09:00,780 --> 00:09:02,280
+Merci.
+
+171
+00:09:05,090 --> 00:09:06,540
+Sommes nous prêts à composer?
+
+172
+00:09:06,540 --> 00:09:08,930
+Presque. Je fini juste la compression des données.
+
+173
+00:09:08,930 --> 00:09:10,260
+Tenez vous prêt.
+
+174
+00:09:10,260 --> 00:09:11,700
+En attente.
+
+175
+00:09:20,560 --> 00:09:22,750
+Docteur Novak, où en sommes nous?
+
+176
+00:09:22,750 --> 00:09:25,700
+Presque à portée Monsieur.
+
+177
+00:09:25,740 --> 00:09:27,750
+Nous n'allons pas y arriver.
+
+178
+00:09:34,050 --> 00:09:35,830
+La compression est terminée. On peut y aller.
+
+179
+00:09:35,830 --> 00:09:38,050
+Très bien, alors composez la séquence.
+
+180
+00:09:38,050 --> 00:09:39,550
+Oui, m'dame.
+
+181
+00:09:49,930 --> 00:09:51,430
+Stop!
+
+182
+00:10:01,740 --> 00:10:07,690
+Nous devons déconnecter le ZPM et commuter
+sur les générateurs au Naqahdah de secours
+afin d'empêcher tout appel vers la terre.
+
+183
+00:10:07,690 --> 00:10:12,820
+Je suis d'accord. En fait, à partir de maintenant,
+toute activité de la porte doit être suspendue.
+Combien d'équipes avons nous de sortie?
+
+184
+00:10:12,820 --> 00:10:15,350
+Juste Zelenka et son équipe sur M7G-677.
+
+185
+00:10:15,350 --> 00:10:18,250
+Bien, malheureusement, il va devoir bien
+s'installer tant que nous n'en saurons pas plus.
+
+186
+00:10:18,250 --> 00:10:20,070
+Coincé avec tous ces enfants...
+
+187
+00:10:20,070 --> 00:10:23,620
+Le Deadalus est-il toujours à portée pour
+relayer une transmission vers le SGC?
+
+188
+00:10:23,620 --> 00:10:26,850
+Oui, ils euh... restent en une position qui les
+laissent à portée de la Terre et de nous.
+
+189
+00:10:26,850 --> 00:10:30,800
+Ok, bien. Et dîtes leurs que nous avons bien reçu
+l'avertissement et que nous avons annulé l'appel.
+
+190
+00:10:30,800 --> 00:10:34,440
+Demandez leur s’ils peuvent nous donner un
+petit peu plus que "Il y a une bombe sur Atlantis".
+
+191
+00:10:34,440 --> 00:10:37,960
+Peut être que le "Trust" pense que c'est le seul
+moyen d'être sûr que les Wraiths ne viendront pas ici.
+
+192
+00:10:37,960 --> 00:10:39,810
+Bien, c'est radical mais efficace.
+
+193
+00:10:39,810 --> 00:10:45,660
+Le pire c'est que l'agent du "Trust" qui a posé la
+bombe a probablement reçu ses ordres d'un Goa'uld.
+
+194
+00:10:45,980 --> 00:10:46,980
+Quoi?!
+
+195
+00:10:46,980 --> 00:10:49,320
+Depuis quand les Goa'uld sont impliqués dans tout ça?
+
+196
+00:10:49,320 --> 00:10:53,660
+Depuis plusieurs mois. Ils ont infiltré, avec
+succès, le plus haut niveau du "Trust".
+
+197
+00:10:53,660 --> 00:10:57,720
+...obtenant ainsi une place forte sur Terre en accédant
+aux agences gouvernementales de plusieurs pays.
+
+198
+00:10:57,720 --> 00:10:59,400
+Qu'est ce qu'un Goa'uld?
+
+199
+00:10:59,400 --> 00:11:05,390
+C'est un genre de serpent alien gluant qui rentre dans
+la tête des gens et qui prend le contrôle de leur corps.
+
+200
+00:11:05,390 --> 00:11:06,690
+Ca ne semble pas plaisant.
+
+201
+00:11:06,690 --> 00:11:11,180
+Ca ne l'est pas. J'ai lu assez de rapports de mission
+d'équipe SG pour savoir que je ne veux rien faire avec eux.
+
+202
+00:11:11,180 --> 00:11:16,030
+Je veux que vous organisiez quelques équipes pour faire
+une ronde dans la cité. Commencez par les points
+sensibles au sabotage,  centre de distribution d'énergie...
+
+203
+00:11:16,030 --> 00:11:20,580
+Je vais contrôler les systèmes primaires
+et secondaires pour détecter des pics d'énergie anormaux
+qui indiqueraient la présence d'un engin explosif.
+
+204
+00:11:20,580 --> 00:11:23,800
+Et demandez à Cadman de vous assister,
+c'est une experte en bombe.
+
+205
+00:11:23,800 --> 00:11:24,830
+Elle l'est?!
+
+206
+00:11:24,830 --> 00:11:26,530
+Elle est l'une des meilleures, elle sera d'une grande aide.
+
+207
+00:11:26,530 --> 00:11:30,600
+Bien, demandez au Colonel Caldwell de revenir
+sur Atlantis pour participer à l'enquête.
+
+208
+00:11:30,600 --> 00:11:34,420
+Wow, wow, si le Daedalus revient ici, alors vous allez
+effectivement couper nos communications avec la Terre.
+
+209
+00:11:34,420 --> 00:11:38,600
+Oui, je le comprends bien, mais si la personne qui a
+posé la bombe est à bord, nous devrons le questionner ici.
+
+210
+00:11:38,600 --> 00:11:42,359
+Pour lui faire révéler la position de la
+bombe et comment la désamorcer.
+
+211
+00:11:42,360 --> 00:11:43,900
+Très bien, allons-y.
+
+212
+00:11:57,080 --> 00:12:01,120
+Déconnexion du ZPM...
+Maintenant!
+
+213
+00:12:10,480 --> 00:12:14,879
+Charin, si ça ne vous dérange pas,
+je vais prélever un peu de votre sang.
+
+214
+00:12:14,880 --> 00:12:16,560
+Si vous le devez...
+
+215
+00:12:17,561 --> 00:12:21,140
+Quand ce sera fait, j'ai fait de la soupe aux racines de Tuttle.
+
+216
+00:12:21,141 --> 00:12:23,819
+Oh... tu cuisines?
+
+217
+00:12:23,820 --> 00:12:25,020
+"racines de Tuttle"?
+
+218
+00:12:25,021 --> 00:12:28,680
+Oui, je me suis entraînée.
+
+219
+00:12:28,680 --> 00:12:34,880
+En espérant, qu'un jour je serai
+capable de cuisiner aussi bien que toi.
+
+220
+00:12:40,600 --> 00:12:47,490
+Oh! J'ai peur que ce jour soit loin dans l'avenir, ma chérie.
+
+221
+00:12:51,000 --> 00:12:59,800
+Tu es née dans un plus grand dessein,
+celui d'être le meneur de notre peuple.
+
+222
+00:12:59,820 --> 00:13:06,090
+Et c'est pour cela que je veux que tu les
+prépares à la cérémonie de l'anneau.
+
+223
+00:13:08,280 --> 00:13:10,639
+Charin...
+
+224
+00:13:10,640 --> 00:13:13,329
+Je meurs, Teyla.
+
+225
+00:13:14,330 --> 00:13:19,400
+Pardonnez moi mais, qu'est ce qu'exactement
+que la cérémonie de l'anneau?
+
+226
+00:13:22,160 --> 00:13:28,940
+Dans notre peuple, il est très rare pour
+quelqu'un de mourir de cause naturelle.
+
+227
+00:13:28,970 --> 00:13:31,500
+A cause des Wraiths...
+
+228
+00:13:32,620 --> 00:13:35,900
+La cérémonie de l'anneau célèbre un tel événement.
+
+229
+00:13:35,900 --> 00:13:43,260
+Un cercle de pierre est formé, symbolisant
+l'anneau de nos ancêtres, la porte des étoiles.
+
+230
+00:13:43,260 --> 00:13:48,040
+Au centre duquel on place le corps, et...
+
+231
+00:13:55,360 --> 00:14:00,980
+Je ne suis pas prête pour cette
+cérémonie, Charin. Pas encore.
+
+232
+00:14:10,460 --> 00:14:11,420
+Qu'avez vous pour moi?
+
+233
+00:14:11,420 --> 00:14:16,420
+Une de nos équipes a pillé un centre du "Trust":
+ils ont découvert des ordinateurs contenant
+des renseignements sur Atlantis.
+
+234
+00:14:16,420 --> 00:14:18,640
+Ce n'est pas grand chose, les Goa'ulds
+sont très secrets à ce sujet.
+
+235
+00:14:18,640 --> 00:14:21,150
+N’arrêtez pas la chasse.
+Savons nous quel type de bombe c'est?
+
+236
+00:14:21,150 --> 00:14:22,000
+Pas encore.
+
+237
+00:14:22,000 --> 00:14:24,430
+- Savons nous où dans la cité elle a été posée?
+- Non.
+
+238
+00:14:24,430 --> 00:14:26,560
+Je suis désolé?
+Vous parliez de "davantage de renseignement".
+
+239
+00:14:26,560 --> 00:14:30,140
+Bien, nous savons pour sûr qu'il n'y a pas de transmetteur
+ici sur Terre pour faire exploser la bombe.
+
+240
+00:14:30,140 --> 00:14:33,020
+Je pensais que vous disiez que c'était
+en relation avec l'utilisation de la porte?
+
+241
+00:14:33,020 --> 00:14:38,660
+Il apparaît que le déclencheur soit la porte elle-même
+ou un mécanisme lié à son utilisation, se
+trouvant de leur coté, pas du notre.
+
+242
+00:14:38,660 --> 00:14:42,390
+Le Cl. Carter vient juste de revenir de mission, elle va
+nous aider à découvrir ce que le détonateur pourrait être.
+
+243
+00:14:42,390 --> 00:14:43,680
+Donc, que pouvons nous faire de plus.
+
+244
+00:14:43,680 --> 00:14:46,260
+Rien. Je veux dire tant que
+nous n'aurons rien trouvé de plus.
+
+245
+00:14:46,260 --> 00:14:49,280
+Alors par n'importe quels moyens,
+ne me laissez pas vous arrêter.
+
+246
+00:14:54,840 --> 00:14:58,590
+Colonel Caldwell, nous avons reçu
+un autre message du SGC à relayer.
+
+247
+00:14:58,590 --> 00:15:03,660
+Il semblerait que le détonateur ne
+soit pas sur Terre mais sur Atlantis.
+
+248
+00:15:05,200 --> 00:15:07,510
+Très bien, en avant et envoyez-le.
+
+249
+00:15:07,510 --> 00:15:11,660
+Faites aussi savoir au SGC que, à la requête du Dr. Weir,
+nous retournons l'aider dans son enquête.
+
+250
+00:15:11,660 --> 00:15:13,160
+<i>Oui, monsieur.</i>
+
+251
+00:15:15,880 --> 00:15:17,940
+Experte en explosif, hein?
+
+252
+00:15:18,320 --> 00:15:22,240
+Technologie des matériaux énergétiques
+et haute température.
+
+253
+00:15:22,241 --> 00:15:24,519
+Et je peux faire des claquettes aussi.
+
+254
+00:15:24,520 --> 00:15:26,040
+Colonel Sheppard, comment ça va?
+
+255
+00:15:26,040 --> 00:15:32,790
+Nous avons vérifié le pilier Est,
+les centres de distributions, toujours rien.
+On se dirige vers le pilier Ouest maintenant.
+
+256
+00:15:32,810 --> 00:15:36,750
+Ronon? Et pour vous?
+
+257
+00:15:36,770 --> 00:15:40,450
+Vérification des stations au sol. Rien non plus.
+
+258
+00:15:40,450 --> 00:15:44,050
+Nous avons huit autres équipes de sorties.
+C'est une grande ville, ça va nous prendre du temps.
+
+259
+00:15:44,050 --> 00:15:49,000
+Compris. Je vous préviens:
+Nous avons reçu un second message qui nous a été relayé...
+
+260
+00:15:49,000 --> 00:15:51,490
+Hein... DHD.
+
+261
+00:15:51,490 --> 00:15:53,890
+Il compose de lui-même.
+
+262
+00:15:59,670 --> 00:16:01,190
+C'est l'adresse de la Terre!
+
+263
+00:16:01,190 --> 00:16:03,270
+Je pensais que nous ne pouvions pas
+joindre la terre sans le ZPM.
+
+264
+00:16:03,270 --> 00:16:05,570
+Bien on ne peut pas!
+
+265
+00:16:11,460 --> 00:16:13,820
+Ai-je bien entendu que la porte a appelé d'elle-même?
+
+266
+00:16:13,820 --> 00:16:15,850
+Uh, oui, elle a essayé d'appeler la terre!
+
+267
+00:16:15,850 --> 00:16:20,480
+Celui qui a posé la bombe doit avoir
+conçu un programme qui se lance de lui-même et
+qui compose automatiquement la porte en secours.
+
+268
+00:16:20,480 --> 00:16:22,350
+...au cas où la séquence d'appel serait arrêtée.
+
+269
+00:16:22,350 --> 00:16:24,250
+Une très bonne chose que vous ayez enlevé le ZPM!
+
+270
+00:16:24,250 --> 00:16:25,350
+- Rodney?
+- Quoi?
+
+271
+00:16:25,350 --> 00:16:27,150
+L'émetteur.
+
+272
+00:16:27,180 --> 00:16:28,900
+Oh, non!
+
+273
+00:16:29,570 --> 00:16:31,840
+Qu'est ce que c'est?
+
+274
+00:16:32,070 --> 00:16:34,210
+Nous sommes en train d'émettre un signal de détresse.
+
+275
+00:16:34,210 --> 00:16:37,400
+La porte a composé d'elle-même
+afin de détourner notre attention de l'émetteur.
+
+276
+00:16:37,400 --> 00:16:39,990
+- Eteignez le!
+- Je le fais.
+
+277
+00:16:43,770 --> 00:16:46,780
+C'est trop tard, le dommage est déjà fait.
+
+278
+00:16:46,780 --> 00:16:48,780
+Les deux croiseurs Wraiths que je surveillais...
+
+279
+00:16:48,780 --> 00:16:53,930
+Ils-ils-ils ont capté la balise, ils viennent de changer
+leur trajectoire et se dirigent droit sur Atlantis.
+
+280
+00:17:00,620 --> 00:17:01,830
+Combien de temps avant qu'ils n'arrivent ici?
+
+281
+00:17:01,830 --> 00:17:06,250
+Un jour, peut être un jour et demi, ça dépend s’ils
+feront une pause hors de l'hyperespace sur le chemin.
+
+282
+00:17:06,250 --> 00:17:08,160
+Nous devons encore occulter la cité.
+
+283
+00:17:08,160 --> 00:17:10,810
+Euh, même occultée, les Wraiths vont se demander d'où vient la balise.
+
+284
+00:17:10,810 --> 00:17:14,319
+Bien alors, nous devrons ruser. Ummm
+
+285
+00:17:14,320 --> 00:17:18,210
+Nous prenons le transmetteur, et nous le jetons avec des
+déchets carbonisés sur une plage du continent...
+
+286
+00:17:18,210 --> 00:17:21,740
+...et ils penserons que ce sont les courants
+qui auront poussé tout ça après que
+la cité ait explosé pendant le siège.
+
+287
+00:17:21,740 --> 00:17:24,920
+Attendez une seconde. Laissez moi clarifier ça,
+vous pensez que c'est notre poseur de bombe qui a fait ça?
+
+288
+00:17:24,920 --> 00:17:28,450
+Oui. Ce serait facile pour lui de déterminer si les Wraiths sont
+dans le secteur. Nous les traquons depuis un certain temps.
+
+289
+00:17:28,451 --> 00:17:34,790
+Donc il a fait en sorte que la porte compose
+d'elle-même afin de nous détourner de l'émetteur, donc il
+pouvait émettre un signal de détresse qui serait capté par...
+
+290
+00:17:34,790 --> 00:17:36,540
+...par les Wraiths, oui, je le pense aussi.
+
+291
+00:17:36,540 --> 00:17:37,460
+Ok, pourquoi?
+
+292
+00:17:37,460 --> 00:17:41,080
+Bien, peut être veut-il faire exploser
+les Wraiths avec la cité.
+
+293
+00:17:41,080 --> 00:17:45,749
+2 croiseurs. C'est insignifiant comparé aux
+vaisseaux ruches qui sont toujours là.
+
+294
+00:17:45,750 --> 00:17:52,540
+Bien, nous n'avons pas beaucoup de temps, donc quelque
+soit la connexion, essayons de la trouver avant que les croiseurs 
+
+n'arrivent ici.
+
+295
+00:17:54,560 --> 00:17:57,030
+Teyla. Vous êtes bien pressée.
+
+296
+00:17:57,030 --> 00:18:00,670
+Je retourne sur le continent, nous
+évacuons mon peuple sur la cité.
+
+297
+00:18:00,670 --> 00:18:02,500
+Oh oui, les Wraiths sont en route, je viens de l'entendre.
+
+298
+00:18:02,500 --> 00:18:05,750
+Il seront protégés sous le camouflage,
+le temps que le danger passe.
+
+299
+00:18:05,750 --> 00:18:09,080
+Malheureusement, s’ils ne trouvent pas cette bombe,
+Atlantis pourrait se révéler beaucoup plus dangereuse.
+
+300
+00:18:09,080 --> 00:18:11,470
+Ils la trouveront j'en suis certaine.
+
+301
+00:18:11,470 --> 00:18:15,209
+Avant que vous partiez, j'ai besoin de vous parler de Charin.
+
+302
+00:18:15,210 --> 00:18:20,020
+J'ai fini mes examens, et je dois dire que bien
+qu'elle soit vielle et que son corps s’affaiblisse.
+
+303
+00:18:20,020 --> 00:18:23,530
+Il y a des traitements et des procédures que je peux
+lui administrer pour prolonger sa vie.
+
+304
+00:18:23,530 --> 00:18:27,080
+- Vraiment?
+- Oui, en commençant par un stimulateur cardiaque.
+
+305
+00:18:27,090 --> 00:18:32,450
+Voyez vous, l'une des raisons pour lesquelles elle se sent
+si faible c'est que son cœur bat d'une façon irrégulière.
+
+306
+00:18:32,450 --> 00:18:34,730
+Ne pompant pas assez de sang dans son corps.
+
+307
+00:18:34,730 --> 00:18:39,340
+Maintenant, sa condition continuera à évoluer, mais avec
+le stimulateur elle sera considérablement ralentie.
+
+308
+00:18:39,340 --> 00:18:41,500
+Ca peut probablement lui ajouter des années de vie.
+
+309
+00:18:41,500 --> 00:18:42,920
+Je lui ferais savoir.
+
+310
+00:18:42,920 --> 00:18:46,600
+Mais avant tout, je dois les mettre elle et mon peuple
+en sécurité avant que les Wraiths n’arrivent.
+
+311
+00:18:46,600 --> 00:18:48,600
+Bien sûr.
+
+312
+00:18:56,470 --> 00:18:59,000
+Je ne suis pas sûr d'aimer votre regard Chef.
+
+313
+00:18:59,000 --> 00:19:01,750
+Monsieur, le Daedalus vient juste
+de nous relayer un message...
+
+314
+00:19:01,750 --> 00:19:05,290
+...nous informant qu'Atlantis a demandé qu'ils
+reviennent pour aider dans l'enquête sur la bombe.
+
+315
+00:19:05,290 --> 00:19:10,130
+Bien, dites leur "NON" pour le moment, je veux
+qu'ils gardent leur position au cas où nous
+obtiendrions d'autres renseignements.
+
+316
+00:19:10,130 --> 00:19:13,690
+Monsieur, c'est le problème. Ils ont déjà fait demi-tour.
+
+317
+00:19:13,690 --> 00:19:18,020
+Ils sont hors de portée. Nous n'avons plus
+aucun moyen de communiquer avec eux ou Atlantis.
+
+318
+00:19:18,020 --> 00:19:21,779
+Il n'y a plus rien que nous puissions faire pour eux?
+
+319
+00:19:21,780 --> 00:19:23,790
+Non, monsieur.
+
+320
+00:19:40,030 --> 00:19:42,660
+- La liste des passagers?
+- Oui.
+
+321
+00:19:42,660 --> 00:19:45,859
+Quelques noms en ressortent?
+
+322
+00:19:45,860 --> 00:19:49,139
+Quelques-uns, en fait.
+
+323
+00:19:49,140 --> 00:19:52,590
+Je déteste ça, avoir à suspecter l'un des nôtres.
+
+324
+00:19:52,590 --> 00:19:57,460
+Malheureusement la liste des suspects
+ne peut être limitée au Daedalus.
+
+325
+00:19:58,890 --> 00:20:01,640
+Vous pensez que l'agent du "Trust"
+pourrait encore être ici sur Atlantis?
+
+326
+00:20:01,640 --> 00:20:07,520
+Bien, avec tout qui s’est produit, la porte
+composant d'elle-même, la balise de détresse…
+
+327
+00:20:07,521 --> 00:20:13,000
+Je ne pense pas que de se faire sauter eux même
+avec la cité fasse partie de leur mode opératoire.
+
+328
+00:20:13,000 --> 00:20:16,850
+Bien, il va falloir leur parler en tête-à-tête.
+
+329
+00:20:17,800 --> 00:20:20,660
+Wow. OK.
+
+330
+00:20:20,700 --> 00:20:22,290
+Qui suspectez vous autour de vous?
+
+331
+00:20:22,300 --> 00:20:24,120
+Pourquoi pas le Lieutenant Cadman, hum?
+
+332
+00:20:24,120 --> 00:20:25,120
+Quoi?
+
+333
+00:20:25,120 --> 00:20:28,110
+Ecoutez moi. C’est une experte en explosifs.
+
+334
+00:20:28,110 --> 00:20:31,690
+Elle devait partir avec le Daedalus, mais euh on lui a
+demandé de rester quand "Quelque chose est arrivé".
+
+335
+00:20:31,690 --> 00:20:34,980
+Elle est toujours dans les parages quand les choses arrivent.
+Quand la balise de détresse a commencé...
+
+336
+00:20:34,980 --> 00:20:37,830
+Elle est l'un de mes officiers en qui j'ai le plus confiance.
+
+337
+00:20:37,830 --> 00:20:41,020
+Sans pour autant mentionner qu'elle a été coincée
+dans votre tête pendant quelques temps.
+
+338
+00:20:41,030 --> 00:20:42,540
+Vous devez toujours remettre ça sur le tapis?
+
+339
+00:20:42,540 --> 00:20:45,500
+Je le dis pour que vous sachiez tous: Elle
+ne ferait jamais quelque chose dans ce genre.
+
+340
+00:20:45,500 --> 00:20:46,940
+Bien, peut-être elle a été soumise à un lavage de cerveau?
+
+341
+00:20:46,940 --> 00:20:49,260
+Les Goa'ulds sont très intelligents
+quand il faut manipuler les autres.
+
+342
+00:20:49,260 --> 00:20:51,860
+Excusez moi. Docteur Weir.
+
+343
+00:20:51,920 --> 00:20:52,960
+Oui.
+
+344
+00:20:52,960 --> 00:20:57,240
+Le contrôle de vol a juste confirmé que le
+Daedalus a débarqué au bord du pilier Est.
+
+345
+00:20:57,241 --> 00:20:59,090
+Merci.
+
+346
+00:21:03,360 --> 00:21:05,260
+Je veux commencer les interrogatoires immédiatement.
+
+347
+00:21:05,260 --> 00:21:09,330
+Tout l'équipage et les passagers civils ont été confinés dans
+leurs quartiers jusqu'à ce que j'aie pu parler à chacun d'entre eux 
+
+séparément.
+
+348
+00:21:09,330 --> 00:21:10,070
+Colonel.
+
+349
+00:21:10,070 --> 00:21:14,990
+Cette enquête tombe sous la juridiction d'Atlantis, ce qui
+veut dire qu’elle sera conduite sous mon commandement.
+
+350
+00:21:14,990 --> 00:21:18,310
+Maintenant, je vous remercie pour votre aide,
+mais l'interrogatoire des suspects potentiels…
+
+351
+00:21:18,310 --> 00:21:19,510
+Docteur.
+
+352
+00:21:19,520 --> 00:21:22,530
+Une des personnes, à bord de mon
+vaisseau pourrait être un agent du "Trust".
+
+353
+00:21:22,530 --> 00:21:23,530
+Oui.
+
+354
+00:21:23,540 --> 00:21:27,920
+Et plus vite je découvrirai qui c'est, mieux ce sera pour nous tous.
+
+355
+00:21:27,930 --> 00:21:30,379
+Très bien, qui est le premier sur votre liste?
+
+356
+00:21:30,380 --> 00:21:32,130
+Vous pensez que j'ai fait ça?
+
+357
+00:21:32,131 --> 00:21:33,220
+Relax, Docteur.
+
+358
+00:21:33,220 --> 00:21:35,900
+Vous êtes juste l'une des nombreuses personnes que j'interroge.
+
+359
+00:21:35,900 --> 00:21:36,900
+Non.
+
+360
+00:21:36,900 --> 00:21:40,520
+Je suis presque sur que mon nom est le
+premier de ce qui doit être une liste très courte.
+
+361
+00:21:40,520 --> 00:21:44,100
+Peu de temps après le siège, vous ne
+pouviez pas attendre pour quitter Atlantis.
+
+362
+00:21:44,100 --> 00:21:48,880
+Quelques mois plus tard, j'ai reçu une demande urgente
+venant de vous pour vous autoriser à repartir.
+
+363
+00:21:48,880 --> 00:21:53,360
+Votre deuxième passage a duré trois semaines,
+et soudainement vous avez demandé à partir encore.
+
+364
+00:21:53,360 --> 00:21:56,320
+Ouais, parce que les conditions de travail
+sont devenues intolérables pour moi ici.
+
+365
+00:21:56,320 --> 00:21:59,820
+Je n'ai aucun ami et mon travail n'est pas respecté...
+
+366
+00:21:59,820 --> 00:22:04,740
+Et ceci se produit seulement quelques jours avant que
+nous découvrions qu'une bombe a été posée dans la ville.
+
+367
+00:22:04,780 --> 00:22:09,290
+Très bien! Bien sûr!
+Donc évidemment, je l'ai fait.
+
+368
+00:22:09,290 --> 00:22:14,480
+Etant donné les circonstances, pouvez vous ne pas voir
+qu’un tel comportement pourrait éveiller les soupçons?
+
+369
+00:22:14,490 --> 00:22:15,890
+Votre suspicion, sûrement.
+
+370
+00:22:15,890 --> 00:22:19,770
+Vu la façon dont vous ne vous êtes jamais inquiété de moi,
+ni évalué les talents que j'ai apporté à cette expédition.
+
+371
+00:22:19,770 --> 00:22:23,849
+Les sentiments personnels que je peux
+avoir à votre propos quels qu'ils soient.
+
+372
+00:22:23,840 --> 00:22:25,830
+N’ont rien à faire avec tout ceci.
+
+373
+00:22:25,830 --> 00:22:28,840
+Oh, S'il vous plait!
+
+374
+00:22:30,000 --> 00:22:33,020
+Tout en vous est motivé par vos sentiments personnels.
+
+375
+00:22:33,020 --> 00:22:35,900
+Vous êtes conduit par les émotions et pas par la raison.
+
+376
+00:22:35,900 --> 00:22:39,420
+C’est pourquoi j'ai toujours senti que
+vous n'étiez pas capable de faire ce travail.
+
+377
+00:22:39,420 --> 00:22:41,520
+Vous n'avez pas la...
+
+378
+00:22:41,570 --> 00:22:44,750
+Force de commander la guerre contre les Wraiths.
+
+379
+00:22:44,750 --> 00:22:48,680
+Si je me rappelle bien, vous êtes celui qui voulait
+que nous fuyions, c'est cela? Fuir et se cacher?
+
+380
+00:22:48,680 --> 00:22:51,500
+Et alors, j'avais raison.
+
+381
+00:22:51,500 --> 00:22:53,960
+Si le Daedalus n'était pas arrivé à la onzième heure.
+
+382
+00:22:53,960 --> 00:22:59,300
+Cette ville et chacun avec elle auraient été
+éliminés en raison de votre imprudence.
+
+383
+00:22:59,300 --> 00:23:03,360
+Il n'y a aucun besoin pour le "Trust" de la faire
+sauter quand le Docteur Weir est aux commandes.
+
+384
+00:23:07,260 --> 00:23:10,750
+La plupart des autres ont été déjà transportés dans la ville.
+
+385
+00:23:10,750 --> 00:23:16,340
+Une équipe médicale sera là sous peu pour
+t'emmener avec le prochain Jumper.
+
+386
+00:23:16,380 --> 00:23:19,150
+Toujours courir...
+
+387
+00:23:19,151 --> 00:23:23,560
+Toujours regarder le ciel dans la crainte.
+
+388
+00:23:24,740 --> 00:23:28,480
+Bientôt je serai libérée de ce fardeau.
+
+389
+00:23:29,480 --> 00:23:31,100
+Charin.
+
+390
+00:23:33,330 --> 00:23:37,370
+Le docteur Beckett dit qu'il peut t'aider.
+
+391
+00:23:37,370 --> 00:23:42,380
+Te donner quelque chose qui te
+fera aller mieux, vivre plus longtemps.
+
+392
+00:23:42,380 --> 00:23:45,200
+Je me sens bien, Teyla.
+
+393
+00:23:45,200 --> 00:23:50,340
+Je l’attends. On ne doit pas en avoir peur.
+
+394
+00:23:51,440 --> 00:23:53,720
+Tu es tout ce qui me reste.
+
+395
+00:23:54,730 --> 00:24:01,060
+Ma famille, ma mère, mon père, ils ont tous disparus.
+
+396
+00:24:02,380 --> 00:24:05,550
+Si tu me quittes...
+
+397
+00:24:05,560 --> 00:24:08,840
+...je serai vraiment seule.
+
+398
+00:24:08,841 --> 00:24:14,020
+Non, notre peuple est ta famille, Teyla.
+
+399
+00:24:14,840 --> 00:24:22,310
+Et quand tu les protèges, ils te protègent aussi.
+
+400
+00:24:22,310 --> 00:24:27,030
+Ils ont besoin de ta force.
+
+401
+00:24:29,520 --> 00:24:32,900
+Vous comprenez que j'interroge
+tout le monde à bord du vaisseau?
+
+402
+00:24:32,910 --> 00:24:34,820
+Oh, bien sûr, je le sais.
+
+403
+00:24:34,820 --> 00:24:38,810
+Je veux dire que celui qui a posé la bombe
+devrait être désireux de quitter la ville!
+
+404
+00:24:38,810 --> 00:24:44,670
+Non pas que j'étais désireuse. Je faisais juste mon
+boulot, je ne pourrais pas m'être inquiété
+moins que quand nous avons laissé…
+
+405
+00:24:44,671 --> 00:24:49,335
+Non, Non... Mais... Je tiens a mon travail, je n'ai juste...
+
+406
+00:24:49,990 --> 00:24:51,960
+Vous disiez?
+
+407
+00:24:51,960 --> 00:24:54,910
+Docteur, vous n'avez pas à être nerveuse ici.
+
+408
+00:24:54,910 --> 00:25:00,060
+Je sais, je sais… à moins que, naturellement,
+je sois coupable, alors j'aurais…
+
+409
+00:25:01,780 --> 00:25:03,290
+Désolé.
+
+410
+00:25:05,220 --> 00:25:08,200
+Avez-vous vu parmi l'équipage...
+
+411
+00:25:08,200 --> 00:25:11,010
+...des changements de comportement au cours
+des dernières semaines? Je ne sais pas.
+
+412
+00:25:11,010 --> 00:25:13,990
+Quelqu’un agissant de manière soupçonneuse ou bizarre?
+
+413
+00:25:13,990 --> 00:25:16,020
+Non... Attendez.
+
+414
+00:25:18,380 --> 00:25:20,699
+Je je je je veux dire, non.
+
+415
+00:25:20,700 --> 00:25:22,439
+Oh, par la grâce de Dieu.
+
+416
+00:25:22,440 --> 00:25:23,630
+Voulez vous de l'eau?
+
+417
+00:25:23,630 --> 00:25:25,440
+Euh, non, ça ne servirait à rien.
+
+418
+00:25:25,540 --> 00:25:29,980
+J'ai le hoquet quand je suis nerveuse. C'est même plus que gênant.
+
+419
+00:25:30,980 --> 00:25:33,110
+Mais attendez...
+
+420
+00:25:33,130 --> 00:25:36,340
+L’homme à la queue de cheval, Docteur Kavanagh.
+
+421
+00:25:36,340 --> 00:25:40,340
+Il traînait toujours, regardant au-dessus
+de votre épaule, sur les ordinateurs.
+
+422
+00:25:40,340 --> 00:25:42,390
+Un peu gluant...
+
+423
+00:25:44,060 --> 00:25:48,150
+Bien, pas vraiment euh gluant comme euh...
+
+424
+00:25:48,150 --> 00:25:50,359
+Particulier peut être...
+
+425
+00:25:50,360 --> 00:25:55,109
+Je-je-je-je ne connais pas ce type, il pourrait
+être une bonne personne. Je veux dire, qui
+suis je pour le juger, vous comprenez?
+
+426
+00:25:55,110 --> 00:25:57,290
+Je vais juste me taire.
+
+427
+00:25:57,290 --> 00:25:58,460
+<I>Elisabeth ?</i>
+
+428
+00:25:58,460 --> 00:25:59,989
+Excusez moi. Oui Rodney?
+
+429
+00:25:59,990 --> 00:26:04,820
+<i>Pouvez-vous venir à la salle de commande?
+J'ai découvert quelque chose d'important.</i>
+
+430
+00:26:04,840 --> 00:26:06,250
+Je suis en chemin.
+
+431
+00:26:06,251 --> 00:26:07,350
+Si vous voulez bien m'excuser.
+
+432
+00:26:07,350 --> 00:26:10,350
+Oui, monsieur. Euh Madame.
+
+433
+00:26:16,810 --> 00:26:17,930
+Qu'avez vous trouvé?
+
+434
+00:26:17,930 --> 00:26:20,449
+Vous savez quoi? Il n'y a pas de bombe après tout.
+
+435
+00:26:20,450 --> 00:26:25,270
+Il n'y a pas d'engin explosif. L'explosion devrait venir d’ailleurs.
+
+436
+00:26:25,280 --> 00:26:29,210
+Maintenant, avec les Wraiths en chemin
+nous devrions masquer la cité, n'est ce pas?
+
+437
+00:26:29,210 --> 00:26:29,710
+Oui.
+
+438
+00:26:29,710 --> 00:26:33,300
+Bien, afin de le faire nous devrions rebrancher
+le ZPM pour avoir la puissance nécessaire.
+
+439
+00:26:33,300 --> 00:26:34,590
+Et à propos de la porte?
+
+440
+00:26:34,590 --> 00:26:38,140
+J’ai physiquement neutralisé le DHD. Il ne pourra
+pas composez, ainsi ce ne sera pas un problème.
+
+441
+00:26:38,140 --> 00:26:40,069
+Maintenant le ZPM, cependant le sera.
+
+442
+00:26:40,070 --> 00:26:43,860
+Maintenant, comme vous le savez, le Module de
+point Zéro commande l'écoulement d'une massive
+quantité de puissance.
+
+443
+00:26:43,860 --> 00:26:44,760
+Comme un barrage.
+
+444
+00:26:44,760 --> 00:26:48,035
+Non, ce n'est pas comme un barrage, c'est plus comme
+un... euh... en fait oui, c'est comme un barrage.
+
+445
+00:26:48,036 --> 00:26:52,780
+Si vous surchargez le barrage, il se casse, c'est
+pourquoi les anciens ont mis en place des sécurités
+pour empêcher une telle chose se produire.
+
+446
+00:26:52,780 --> 00:26:53,810
+Comme un déversoir.
+
+447
+00:26:53,810 --> 00:26:56,850
+Pouvons nous continuer avec les sécurités?
+
+448
+00:26:56,880 --> 00:27:02,450
+Le problème est que, l'agent du "Trust" a découvert
+une manière de réécrire le système d'exploitation
+d'Atlantis et neutraliser les sécurités, mais...
+
+449
+00:27:02,460 --> 00:27:05,330
+...l’a masqué de telle manière que les senseurs
+de la ville ne l'aient pas détecté.
+
+450
+00:27:05,330 --> 00:27:08,420
+Donc appeler la Terre aurait conduit à la surcharge du ZPM.
+
+451
+00:27:08,420 --> 00:27:09,160
+Oh, yeah!
+
+452
+00:27:09,160 --> 00:27:14,000
+Etant donné cela, composer vers une autre
+galaxie qui exige une quantité énorme de
+puissance, nous parlons d'une surcharge 
+
+catastrophique.
+
+453
+00:27:14,000 --> 00:27:17,370
+Je veux dire, l'explosion ne détruirait pas simplement
+la ville, mais, euh, plus probablement la planète entière.
+
+454
+00:27:17,370 --> 00:27:18,920
+Pouvons nous réactiver les sécurités?
+
+455
+00:27:18,920 --> 00:27:24,820
+Oui, mais, euh, celui qui a fait ça a prévu la possibilité
+qu'on le découvre et a mis en place un code.
+
+456
+00:27:24,820 --> 00:27:25,730
+Pour bloquer l'accès.
+
+457
+00:27:25,730 --> 00:27:28,650
+Et je devine que cracker ce code ne va pas être facile.
+
+458
+00:27:28,650 --> 00:27:31,030
+Non, pas du tout. Il est extrêmement compliqué.
+
+459
+00:27:31,030 --> 00:27:35,070
+Mais maintenant que vous avez déjà neutralisé
+le DHD, il est impossible de joindre la terre.
+
+460
+00:27:35,070 --> 00:27:40,410
+Oui, mais malheureusement, un bon nombre de systèmes
+peuvent être utilisés ensemble pour, euh, surcharger le ZPM.
+
+461
+00:27:40,410 --> 00:27:44,830
+Ce sera plus progressif que d'utiliser la porte
+qui causerait un pic de puissance instantané.
+
+462
+00:27:44,830 --> 00:27:46,520
+Mais aussi efficace dans son résultat.
+
+463
+00:27:46,520 --> 00:27:51,260
+Et nous ne pouvons pas déconnecter le ZPM car nous avons
+besoin de l'occultation pour quand les croiseurs Wraiths arriveront.
+
+464
+00:27:51,260 --> 00:27:55,270
+Bingo! C'est pourquoi notre poseur de bombe
+a activé la balise de détresse, pour les alerter.
+
+465
+00:27:55,270 --> 00:28:00,860
+Et c'est pour quoi l'arrivée des Wraiths sur
+Atlantis est liée à l'explosion de la bombe.
+
+466
+00:28:05,830 --> 00:28:11,570
+Réécrire le système d'exploitation d'Atlantis et neutraliser
+les sécurités. Cela implique quelqu'un
+avec une incroyable intelligence.
+
+467
+00:28:11,570 --> 00:28:14,219
+Vous voulez dire comme le Dr. McKay.
+
+468
+00:28:14,220 --> 00:28:19,750
+Et également quelqu'un qui est très désireux de quitter
+Atlantis un peu avant le rapport hebdomadaire avec la Terre.
+
+469
+00:28:19,770 --> 00:28:21,540
+Bien, corrigez moi si j'ai tort.
+
+470
+00:28:21,540 --> 00:28:26,740
+Mais le Docteur Zelenka n'est il pas coincé sur un autre
+monde quelque part? Pourquoi n'est il pas un des suspects?
+
+471
+00:28:26,740 --> 00:28:29,380
+Notre liste de suspects n'est pas ouverte à la discussion.
+
+472
+00:28:29,380 --> 00:28:34,340
+Mais cela mis à part, Zelenka y est allé contre sa volonté
+et je ne le vois pas comme un agent du "Trust".
+
+473
+00:28:34,340 --> 00:28:35,980
+Oh, mais vous m'y voyez bien.
+
+474
+00:28:35,980 --> 00:28:38,550
+En un battement de cœur.
+
+475
+00:28:40,340 --> 00:28:42,340
+Je vois.
+
+476
+00:28:43,650 --> 00:28:46,189
+Coupable jusqu'a ce que je prouve mon innocence.
+
+477
+00:28:46,190 --> 00:28:53,560
+J'ai regardé les journaux de communication du
+Daedalus, et il semble que vous ayez envoyé
+3 messages codés non autorisés sur Atlantis.
+
+478
+00:28:53,561 --> 00:28:55,249
+Peu de temps après l'arrêt de l'appel.
+
+479
+00:28:55,250 --> 00:29:01,850
+- J'ai quelques amis qui comptent pour moi. Je voulais voir s’ils allaient bien.
+- Je pensais que vous disiez que vous n'aviez pas d'amis ici.
+
+480
+00:29:04,050 --> 00:29:07,770
+Maintenant, les messages ont été chiffrés, mais ne nous
+inquiétons pas, j'ai des gens qui les déchiffrent en ce moment.
+
+481
+00:29:07,770 --> 00:29:09,320
+Que voulez vous de moi?
+
+482
+00:29:09,320 --> 00:29:13,190
+Je veux les codes d'accès ainsi je pourrais
+de nouveau remettre les sécurités du ZPM!
+
+483
+00:29:13,200 --> 00:29:18,010
+Bien, si vous attendez que je vous les dise,
+alors vous attendrez un moment, voyez
+vous car je n'ai aucune idée ce qu'est ce code.
+
+484
+00:29:18,010 --> 00:29:19,620
+Non, je pense que vous le savez.
+
+485
+00:29:19,620 --> 00:29:24,530
+Et puisque je n'ai pas le temps d'attendre plus, je
+vais employer la manière la plus rapide de les obtenir.
+
+486
+00:29:25,530 --> 00:29:27,240
+Comme quoi?
+
+487
+00:29:27,240 --> 00:29:29,810
+Allez vous me torturez?
+
+488
+00:29:37,750 --> 00:29:40,000
+Est ce que l'occultation peut amener le ZPM à surcharger?
+
+489
+00:29:40,000 --> 00:29:45,530
+Oui, mais je peux, euh, arrêter certains des systèmes
+pour maintenir la puissance sous les niveaux de surcharge.
+
+490
+00:29:45,530 --> 00:29:48,100
+Peut-être nous devrions commencer à penser à évacuer la ville.
+
+491
+00:29:48,100 --> 00:29:50,730
+Bien, il n'y a pas beaucoup d'options. Toujours est-il...
+
+492
+00:29:50,730 --> 00:29:54,800
+...que ça ne peut pas faire de mal d'avoir un
+plan prêt, si nous pouvons en trouver un.
+
+493
+00:29:57,040 --> 00:30:00,809
+Docteur Beckett. Pourquoi Charin a t'elle été déplacée ici?
+
+494
+00:30:00,810 --> 00:30:03,920
+Ainsi je pourrais garder un oeil sur elle, pour agir si nécessaire.
+
+495
+00:30:03,920 --> 00:30:07,859
+Je vous ai dit qu'elle ne désirait aucun traitement.
+
+496
+00:30:07,860 --> 00:30:09,570
+Vous devez comprendre, Teyla.
+
+497
+00:30:09,570 --> 00:30:12,960
+En tant que docteur je ne peux pas simplement
+rester ici et la laisser mourir.
+
+498
+00:30:13,000 --> 00:30:16,020
+J'ai prêté serment de préserver la vie.
+
+499
+00:30:16,050 --> 00:30:20,100
+Vous pouvez la garder confortablement ici, mais si son heure arrive...
+
+500
+00:30:20,100 --> 00:30:24,280
+Autant que ça nous fasse souffrir tous
+les deux, nous ne devons pas interférer.
+
+501
+00:30:27,830 --> 00:30:29,460
+Très bien...
+
+502
+00:30:30,490 --> 00:30:35,599
+Je travaille toujours à cracker le nouveau code
+de sécurité mais, euh, jusqu'ici, pas de chance.
+
+503
+00:30:35,600 --> 00:30:39,340
+Comment les choses se passent-elles avec
+Kavanagh? Il est toujours votre principal suspect?
+
+504
+00:30:39,390 --> 00:30:44,740
+Oui, il l’est. J'ai certaines difficultés avec lui, cependant.
+Il n’est pas exactement le plus coopératif des hommes.
+
+505
+00:30:44,740 --> 00:30:46,480
+Ooh, bien, c'est une exclue!
+
+506
+00:30:46,480 --> 00:30:49,980
+S'il connaît le code, je doute fortement qu'il nous le donne simplement.
+
+507
+00:30:50,980 --> 00:30:52,710
+Laissez moi 10 minutes avec lui.
+
+508
+00:30:52,710 --> 00:30:55,010
+Je l'obtiendrais de lui.
+
+509
+00:30:57,490 --> 00:30:59,360
+Ca ne serait pas une mauvaise idée.
+
+510
+00:30:59,360 --> 00:31:03,280
+Peut-être est-il  temps de mener cet
+interrogatoire à un niveau supérieur.
+
+511
+00:31:03,280 --> 00:31:07,910
+Ecoutez, je déteste Kavanagh autant que vous
+le détestez, probablement plus. Mais...
+
+512
+00:31:07,910 --> 00:31:09,740
+...nous devons réellement être sur de cela.
+
+513
+00:31:09,740 --> 00:31:12,870
+J’en conviens. S'il y a la plus légère chance qu'il soit innocent, puis…
+
+514
+00:31:12,870 --> 00:31:15,580
+Nous n'avons pas le temps de débattre de la moralité.
+
+515
+00:31:15,580 --> 00:31:20,610
+Malheureusement parfois vous devez faire
+des choses désagréables pour sauver des vies.
+
+516
+00:31:32,410 --> 00:31:33,669
+Que faites-vous?
+
+517
+00:31:33,670 --> 00:31:37,939
+Je revoyais les comptes-rendus
+du système de commande de ces derniers mois.
+
+518
+00:31:37,940 --> 00:31:38,929
+Pourquoi?
+
+519
+00:31:38,930 --> 00:31:42,450
+J'ai remarqué un trou dans un des flux de
+données, il y a quelques semaines.
+
+520
+00:31:42,450 --> 00:31:46,310
+- Ce n'est probablement rien, mais je pense que ça pourrait être...
+- Un point d'effacement, oui!
+
+521
+00:31:46,310 --> 00:31:48,369
+Croyez-le ou pas, j'ai eu un peu
+d'expérience avec ces systèmes.
+
+522
+00:31:48,370 --> 00:31:50,670
+Plus, disons, qu'un expert en claquettes et en explosifs.
+
+523
+00:31:50,670 --> 00:31:53,950
+- J'essayais juste d'aider, Rodney.
+- Hé, voilà une idée.
+
+524
+00:31:53,970 --> 00:31:56,919
+Le code des sécurités.
+Pourquoi vous n'aideriez pas à ça?
+
+525
+00:31:57,920 --> 00:31:59,530
+Elizabeth!
+
+526
+00:32:00,200 --> 00:32:02,000
+<i>Oui, Rodney?</i>
+
+527
+00:32:02,000 --> 00:32:03,679
+Les croiseurs sont tout près.
+
+528
+00:32:03,680 --> 00:32:07,360
+Je pense qu'il est temps de
+reconnecter le ZPM et d'occulter la ville.
+
+529
+00:32:07,370 --> 00:32:08,940
+<i>Allez-y.</i>
+
+530
+00:32:15,110 --> 00:32:17,920
+Activation du ZPM...
+
+531
+00:32:17,930 --> 00:32:20,010
+Maintenant.
+
+532
+00:32:33,050 --> 00:32:34,050
+Comment ça se passe?
+
+533
+00:32:34,050 --> 00:32:37,610
+Bien, j'ai arrêté plusieurs des systèmes
+secondaires mais euh, jusqu'ici...
+
+534
+00:32:37,610 --> 00:32:40,820
+Les niveaux du ZPM sont au-dessous de la surcharge.
+
+535
+00:32:40,840 --> 00:32:43,440
+Je pense que ça va aller.
+
+536
+00:32:50,520 --> 00:32:52,950
+Tu as mal?
+
+537
+00:32:54,980 --> 00:32:58,650
+Le docteur Beckett peut te donner
+quelque chose pour te soulager.
+
+538
+00:33:05,030 --> 00:33:07,160
+Teyla.
+
+539
+00:33:08,150 --> 00:33:09,740
+Oui, Charin.
+
+540
+00:33:12,220 --> 00:33:15,440
+Notre voyage commence.
+
+541
+00:33:50,720 --> 00:33:55,520
+Ils sont ici! Deux croiseurs Wraiths,
+juste à l'extérieur de notre atmosphère.
+
+542
+00:33:55,520 --> 00:33:58,350
+Jusqu'ici ils ne se comportent pas comme
+s'ils étaient conscients de notre présence.
+
+543
+00:33:58,350 --> 00:33:59,020
+Rodney!
+
+544
+00:33:59,020 --> 00:33:59,620
+Quoi?
+
+545
+00:33:59,620 --> 00:34:01,790
+Les amortisseurs inertiels de la ville viennent de s'activer.
+
+546
+00:34:01,790 --> 00:34:05,250
+- Quoi?
+- J'essaye de les désactiver, mais il faut un code.
+
+547
+00:34:05,250 --> 00:34:06,800
+Poussez-vous!
+
+548
+00:34:08,100 --> 00:34:09,910
+C'est la commande d'hyper propulsion!
+
+549
+00:34:09,910 --> 00:34:14,420
+Ecoutez, la ville, comme vous savez,  est juste un vaisseau
+spatial géant avec une commande d'hyper propulsion,
+
+550
+00:34:14,420 --> 00:34:16,990
+Ce qui signifie qu'il y a aussi des amortisseurs inertiels.
+
+551
+00:34:17,000 --> 00:34:18,000
+Oui, je le sais.
+
+552
+00:34:18,000 --> 00:34:22,410
+Un des précurseurs de la phase de démarrage de l'hyper
+propulsion est l'activation des amortisseurs...
+
+553
+00:34:22,410 --> 00:34:25,570
+Qui pourrait très bien affecter notre dissimulation.
+Regardez, mais cela n'est pas le pire.
+
+554
+00:34:25,570 --> 00:34:26,640
+Ca va surcharger le ZPM.
+
+555
+00:34:26,640 --> 00:34:29,350
+Ca va complètement le surcharger.
+
+556
+00:34:30,180 --> 00:34:31,620
+Combien de temps avant que cela n'arrive?
+
+557
+00:34:31,990 --> 00:34:36,060
+Trente minutes au maximum et cette ville sera vaporisée.
+
+558
+00:34:39,820 --> 00:34:42,110
+Nous devons commencer les plans d'évacuation.
+
+559
+00:34:42,110 --> 00:34:44,550
+Je vous l'ai dit, le Daedalus est notre seule option.
+
+560
+00:34:44,550 --> 00:34:46,700
+Nous ne pouvons pas utiliser la Porte
+et nous ne pouvons pas aller sur le continent.
+
+561
+00:34:46,701 --> 00:34:49,580
+Je suis d'accord. Nous allons accueillir
+autant de personnes que nous pourrons à bord...
+
+562
+00:34:49,580 --> 00:34:51,620
+Il n'y aura jamais assez de place pour tout le monde!
+
+563
+00:34:51,630 --> 00:34:52,630
+Nous allons devoir faire de la place.
+
+564
+00:34:52,630 --> 00:34:56,830
+Non, non, non, non, vous ne comprenez pas.
+Le système de survie ne peut pas supporter
+autant de personnes, il n'y a pas assez d'air.
+
+565
+00:34:56,830 --> 00:34:58,160
+Ils n'arriveraient jamais sur Terre.
+
+566
+00:34:58,160 --> 00:34:59,290
+Et pourquoi pas une autre planète?
+
+567
+00:34:59,290 --> 00:35:04,270
+Il y en a une pas très loin dans ce système solaire, souvenez-vous?
+Celle ou nous avons trouvé le croiseur Wraith écrasé.
+
+568
+00:35:04,270 --> 00:35:07,380
+Cela nous a pris 15 heures en Puddle Jumper.
+C'est un saut de puce pour le Daedalus.
+
+569
+00:35:07,380 --> 00:35:09,970
+Et ensuite nous pourrions utiliser les Puddle
+Jumpers comme transbordeur pour le reste des gens.
+
+570
+00:35:09,980 --> 00:35:16,050
+Ce serait plus rapide d'obtenir le code.
+Laissez-moi avec Kavanagh, je l'obtiendrai de lui.
+
+571
+00:35:17,320 --> 00:35:21,410
+Le ZPM surchargera dans... 24 minutes.
+
+572
+00:35:26,050 --> 00:35:28,630
+Allez-y.
+
+573
+00:35:37,110 --> 00:35:39,160
+Oh mon Dieu!
+
+574
+00:35:40,650 --> 00:35:42,710
+Teyla, qu'est-ce que vous faites?
+
+575
+00:35:42,710 --> 00:35:46,180
+Nous sommes sur le point de commencer la
+Cérémonie de l'Anneau selon les vœux de Charin.
+
+576
+00:35:47,180 --> 00:35:50,130
+Ils évacuent la ville.
+D'ici quelques minutes tout peut exploser.
+
+577
+00:35:50,130 --> 00:35:54,710
+Nous sommes conscients de cela et beaucoup de
+gens montent à bord du Daedalus en ce moment.
+
+578
+00:35:54,770 --> 00:35:59,050
+Moi et les autres partirons avec les
+derniers groupes à bord du Puddle Jumper.
+
+579
+00:35:59,050 --> 00:36:02,380
+Vous devriez écourter un peu, vous ne pensez pas?
+
+580
+00:36:02,400 --> 00:36:07,010
+J'ai fait une promesse à Charin et j'ai
+l'intention de la tenir, peu importe le coût.
+
+581
+00:36:46,660 --> 00:36:54,690
+"Au-delà de la nuit, un soleil naissant".
+
+582
+00:36:55,070 --> 00:37:02,180
+"Au-delà de la nuit, la bataille a été gagnée".
+
+583
+00:37:02,800 --> 00:37:08,790
+"La bataille a été gagnée".
+
+584
+00:37:13,310 --> 00:37:20,730
+"Crainte et honte sont maintenant dans le passé".
+
+585
+00:37:21,560 --> 00:37:28,580
+"La douleur et le chagrin sont enfin partis".
+
+586
+00:37:28,580 --> 00:37:34,310
+"Enfin partis".
+
+587
+00:37:41,020 --> 00:37:43,740
+Le ZPM surchargera dans dix minutes.
+
+588
+00:37:43,740 --> 00:37:46,370
+Nous devrions penser à embarquer dans les Jumpers.
+
+589
+00:37:51,940 --> 00:37:53,680
+Docteur Weir. Rodney.
+
+590
+00:37:53,680 --> 00:37:55,750
+J'ai trouvé quelque chose.
+
+591
+00:37:56,620 --> 00:38:01,210
+"Le Cercle terminé".
+
+592
+00:38:01,210 --> 00:38:06,120
+"La paix sera retrouvée".
+
+593
+00:38:06,320 --> 00:38:16,680
+"Au-delà de la nuit, sur la terre sacrée".
+
+594
+00:38:18,320 --> 00:38:20,060
+Arrêtez!
+
+595
+00:38:20,120 --> 00:38:22,490
+Que lui avez-vous fait?
+
+596
+00:38:22,500 --> 00:38:23,559
+Rien.
+
+597
+00:38:23,560 --> 00:38:26,650
+Il a défailli avant que je ne puisse le toucher.
+
+598
+00:38:29,420 --> 00:38:33,490
+Docteur Weir, nous sommes prêts à y aller.
+Nous vous reverrons au site de rendez-vous.
+
+599
+00:38:39,980 --> 00:38:41,690
+Que diable se passe-t-il ici?
+
+600
+00:38:41,720 --> 00:38:45,339
+J'ai demandé à Hermiod de vous téléporter ici
+pour que vous puissiez nous donner le code d'accès.
+
+601
+00:38:45,340 --> 00:38:46,110
+Quoi?
+
+602
+00:38:46,110 --> 00:38:49,160
+Le Lieutenant Cadman a découvert un trou
+dans les données de commande du système...
+
+603
+00:38:49,160 --> 00:38:51,150
+...qui ont indiqué deux points d'effacement qu'elle...
+
+604
+00:38:51,160 --> 00:38:54,280
+Ecoutez, nous n'avons pas le temps pour cela.
+
+605
+00:38:56,060 --> 00:39:01,109
+Votre code d'identification a été utilisé pour
+accéder au système d'exploitation de cette ville.
+
+606
+00:39:01,110 --> 00:39:07,080
+Vous l'avez copié pour le donner à la Trust, dont
+les scientifiques Goa'uld ont alors réécrit
+le programme pour surcharger le ZPM.
+
+607
+00:39:07,080 --> 00:39:11,309
+Vous l'avez ensuite ramené ici pour le
+télécharger dans les ordinateurs d'Atlantis.
+
+608
+00:39:11,310 --> 00:39:12,840
+Vous pensez que je travaille pour la Trust?
+
+609
+00:39:12,840 --> 00:39:16,130
+Nous savons que vous travaillez pour la Trust!
+
+610
+00:39:16,150 --> 00:39:18,720
+Alors donnez-nous le code.
+
+611
+00:39:24,610 --> 00:39:26,520
+Oh, mon Dieu!
+
+612
+00:39:26,520 --> 00:39:29,570
+Je ne vous donnerai jamais ce code.
+
+613
+00:39:35,320 --> 00:39:38,140
+Je vous avertis, comme un Goa'uld je possède
+maintenant la force de beaucoup d'hommes.
+
+614
+00:39:38,370 --> 00:39:41,030
+Ce ne sera pas un combat juste, alors.
+
+615
+00:39:47,540 --> 00:39:48,750
+Attendez!
+
+616
+00:40:07,760 --> 00:40:08,940
+Colonel.
+
+617
+00:40:09,970 --> 00:40:11,210
+Colonel.
+
+618
+00:40:11,630 --> 00:40:13,030
+Sheppard.
+
+619
+00:40:13,960 --> 00:40:17,520
+Nous n'avons pas beaucoup de temps,
+nous avons besoin de ce code d'accès.
+
+620
+00:40:25,530 --> 00:40:29,800
+Les niveaux du ZPM sont critiques.
+Nous devons y aller maintenant.
+
+621
+00:40:29,800 --> 00:40:31,430
+Le code d'accès.
+
+622
+00:40:44,860 --> 00:40:51,810
+"La rivière coule, et le vent souffle".
+
+623
+00:40:52,990 --> 00:40:59,630
+"Premier nouveau souffle, notre voyage commence".
+
+624
+00:41:00,050 --> 00:41:05,530
+"Notre voyage commence".
+
+625
+00:41:15,410 --> 00:41:16,659
+Oh, Carson.
+
+626
+00:41:16,660 --> 00:41:19,710
+Hermiod commence juste les calculs
+initiaux pour l'extraction.
+
+627
+00:41:19,730 --> 00:41:20,330
+L'extraction?
+
+628
+00:41:20,330 --> 00:41:21,180
+Maintenant?
+
+629
+00:41:21,180 --> 00:41:26,260
+Hermiod va tenter d'extraire le Goa'uld du Colonel Caldwell
+en utilisant la technologie de téléportation Asgard.
+
+630
+00:41:26,260 --> 00:41:27,430
+Tout à fait remarquable, en réalité.
+
+631
+00:41:27,430 --> 00:41:30,540
+Et compliqué. Les calculs sont incroyablement complexes.
+
+632
+00:41:30,540 --> 00:41:33,640
+Vous ne voudriez pas téléporter un morceau de son cerveau.
+
+633
+00:41:33,670 --> 00:41:35,440
+Charmant, Rodney!
+
+634
+00:41:37,260 --> 00:41:40,629
+Hé! Regardez qui est de retour!
+
+635
+00:41:40,630 --> 00:41:43,900
+C'est monsieur Maman! Comment étaient les enfants?
+
+636
+00:41:46,150 --> 00:41:48,430
+Ne m'adressez même pas la parole!
+
+637
+00:42:04,010 --> 00:42:05,720
+Avez-vous vu Zelenka?
+
+638
+00:42:06,300 --> 00:42:07,859
+Non.
+
+639
+00:42:07,860 --> 00:42:10,650
+Vous devriez aller voir vite fait avant qu'il ne lave son visage.
+
+640
+00:42:10,650 --> 00:42:13,670
+Les gosses ont fait un vrai numéro de cirque sur lui!
+
+641
+00:42:15,280 --> 00:42:19,479
+J'ai demandé au Docteur Beckett de faire
+un examen complet à chacun sur la base.
+
+642
+00:42:19,500 --> 00:42:24,360
+Si le Colonel Caldwell pouvait avoir un Goa'uld,
+n'importe lequel d'entre nous le pourrait.
+
+643
+00:42:24,360 --> 00:42:26,320
+Ce n'est pas une idée plaisante.
+
+644
+00:42:26,320 --> 00:42:27,910
+Non.
+
+645
+00:42:27,930 --> 00:42:30,010
+Non, ça ne l'est pas.
+
+646
+00:42:32,210 --> 00:42:34,339
+Je suis allé trop loin, John, avec Kavanagh.
+
+647
+00:42:34,340 --> 00:42:38,120
+Vous avez fait ce que vous aviez à faire.
+
+648
+00:42:38,170 --> 00:42:41,190
+L'important c'est qu'il n'ait pas été blessé.
+
+649
+00:42:43,090 --> 00:42:47,520
+Nous jubilons à l'idée que les Wraiths s'entretuent...
+
+650
+00:42:47,600 --> 00:42:51,160
+En quoi sommes nous si différents?
+
+651
+00:42:55,745 --> 00:43:00,999
+<b>{\a4}-- Rapidité  --</b>
+
+652
+00:42:57,545 --> 00:43:00,999
+<b>{\a7}-- Efficacité --</b>
+
+653
+00:42:59,345 --> 00:43:00,999
+<b>{\a6}
+Notre devise.</b>
+
+654
+00:43:01,000 --> 00:43:02,000
+{\a10} -- Projet SG --
+
+655
+00:43:02,001 --> 00:43:08,001
+http://projet-sg.aerofrance.net

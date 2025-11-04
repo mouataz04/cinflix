@@ -1,0 +1,3844 @@
+1
+00:00:00,000 --> 00:00:32,807
+ 
+
+2
+00:00:32,807 --> 00:00:35,241
+- Docteur Jordan.
+- Steven.
+
+3
+00:00:35,241 --> 00:00:35,327
+ 
+
+4
+00:00:35,327 --> 00:00:37,682
+Que faites-vous ici si tard?
+
+5
+00:00:37,682 --> 00:00:37,807
+ 
+
+6
+00:00:37,807 --> 00:00:40,082
+J'allais descendre au labo.
+
+7
+00:00:40,082 --> 00:00:40,167
+ 
+
+8
+00:00:40,167 --> 00:00:43,443
+On va enfin passer
+l'urne d'Osiris au tomographe RM.
+
+9
+00:00:43,443 --> 00:00:43,527
+ 
+
+10
+00:00:43,527 --> 00:00:44,596
+Parfait, parfait.
+
+11
+00:00:44,596 --> 00:00:44,687
+ 
+
+12
+00:00:44,687 --> 00:00:48,600
+On a bien failli ne jamais
+savoir ce qu'il y avait dedans.
+
+13
+00:00:48,600 --> 00:00:48,687
+ 
+
+14
+00:00:48,687 --> 00:00:51,918
+On pouvait briser
+le couvercle et jeter un oeil.
+
+15
+00:00:51,918 --> 00:00:52,767
+ 
+
+16
+00:00:52,767 --> 00:00:55,406
+Je plaisante. Enfin, à moitié.
+
+17
+00:00:55,406 --> 00:00:56,847
+ 
+
+18
+00:00:56,847 --> 00:01:00,442
+L'Etat égyptien souhaite
+récupérer ces objets intacts.
+
+19
+00:01:00,442 --> 00:01:00,527
+ 
+
+20
+00:01:00,527 --> 00:01:04,156
+- A leur place, nous...
+- Professeur, l'analyse va révéler
+
+21
+00:01:04,156 --> 00:01:04,247
+ 
+
+22
+00:01:04,247 --> 00:01:08,206
+que ce canope contient
+le coeur d'un pharaon de 3 000 ans,
+
+23
+00:01:08,206 --> 00:01:08,287
+ 
+
+24
+00:01:08,287 --> 00:01:11,438
+- et nous allons le rendre.
+- Je sais. Je sais.
+
+25
+00:01:11,438 --> 00:01:11,527
+ 
+
+26
+00:01:11,527 --> 00:01:14,599
+C'est la découverte du siècle,
+professeur.
+
+27
+00:01:14,599 --> 00:01:14,687
+ 
+
+28
+00:01:14,687 --> 00:01:16,678
+Oui.
+
+29
+00:01:16,678 --> 00:01:17,367
+ 
+
+30
+00:01:17,367 --> 00:01:19,358
+Oui, en effet.
+
+31
+00:01:19,358 --> 00:01:21,447
+ 
+
+32
+00:01:21,447 --> 00:01:25,156
+- Vous venez?
+- Oui. J'ai juste quelques choses à...
+
+33
+00:01:25,156 --> 00:01:25,247
+ 
+
+34
+00:01:25,247 --> 00:01:27,966
+- On se retrouve au labo.
+- Entendu.
+
+35
+00:01:27,966 --> 00:01:53,767
+ 
+
+36
+00:01:53,767 --> 00:01:56,076
+- Bonjour.
+- Salut.
+
+37
+00:01:56,076 --> 00:01:56,167
+ 
+
+38
+00:01:56,167 --> 00:01:58,681
+Qu'est-ce que c'est que ça?
+
+39
+00:01:58,681 --> 00:02:02,407
+ 
+
+40
+00:02:02,407 --> 00:02:04,682
+Teal'c adore ces trucs-là.
+
+41
+00:02:04,682 --> 00:02:04,767
+ 
+
+42
+00:02:04,767 --> 00:02:06,917
+J'y comprends rien.
+
+43
+00:02:06,917 --> 00:02:10,647
+ 
+
+44
+00:02:10,647 --> 00:02:13,719
+''Une excellente semaine.
+Vous partirez en voyage.''
+
+45
+00:02:13,719 --> 00:02:13,807
+ 
+
+46
+00:02:13,807 --> 00:02:15,798
+Fais voir.
+
+47
+00:02:15,798 --> 00:02:17,447
+ 
+
+48
+00:02:17,447 --> 00:02:19,722
+- Je t'en prie.
+- Oh, ça alors.
+
+49
+00:02:19,722 --> 00:02:20,247
+ 
+
+50
+00:02:20,247 --> 00:02:22,636
+- Quoi?
+- ll est mort.
+
+51
+00:02:22,636 --> 00:02:24,727
+ 
+
+52
+00:02:24,727 --> 00:02:28,766
+- Qui?
+- Mon professeur d'archéologie.
+
+53
+00:02:28,766 --> 00:02:28,847
+ 
+
+54
+00:02:28,847 --> 00:02:31,486
+LE LABORATOlRE D'UN ARCHEOLOGUE
+EXPLOSE
+
+55
+00:02:31,486 --> 00:03:35,047
+ 
+
+56
+00:03:35,047 --> 00:03:39,438
+Le Dr David Jordan était
+un enseignant, un écrivain illustre,
+
+57
+00:03:39,438 --> 00:03:40,207
+ 
+
+58
+00:03:40,207 --> 00:03:43,756
+un expert très respecté
+dans le domaine de l'archéologie.
+
+59
+00:03:43,756 --> 00:03:43,847
+ 
+
+60
+00:03:43,847 --> 00:03:48,762
+Et pourtant, jusqu'à la fin,
+il est resté avant tout un étudiant,
+
+61
+00:03:48,762 --> 00:03:49,567
+ 
+
+62
+00:03:49,567 --> 00:03:54,163
+guidé par le seul désir
+de découvrir et de comprendre.
+
+63
+00:03:54,163 --> 00:03:55,647
+ 
+
+64
+00:03:55,647 --> 00:03:59,560
+ll est donc tout naturel
+qu'un homme qui a consacré sa vie...
+
+65
+00:03:59,560 --> 00:04:04,247
+ 
+
+66
+00:04:04,247 --> 00:04:09,401
+qui a consacré sa vie à faire renaître
+les merveilles et les splendeurs
+
+67
+00:04:09,401 --> 00:04:09,487
+ 
+
+68
+00:04:09,487 --> 00:04:14,242
+de civilisations disparues
+gagne à son tour sa part d'immortalité
+
+69
+00:04:14,242 --> 00:04:14,327
+ 
+
+70
+00:04:14,327 --> 00:04:16,887
+grâce à l'oeuvre qu'il a accomplie.
+
+71
+00:04:16,887 --> 00:04:16,967
+ 
+
+72
+00:04:16,967 --> 00:04:20,004
+J'ai travaillé avec lui
+pendant près de 15 ans.
+
+73
+00:04:20,004 --> 00:04:20,087
+ 
+
+74
+00:04:20,087 --> 00:04:22,555
+ll a été un père pour moi,
+
+75
+00:04:22,555 --> 00:04:22,647
+ 
+
+76
+00:04:22,647 --> 00:04:29,883
+dans ses nombreux succès comme dans
+quelques-unes de ses amères déceptions.
+
+77
+00:04:29,883 --> 00:04:35,687
+ 
+
+78
+00:04:35,687 --> 00:04:40,681
+Je me souviendrai toujours de lui
+comme d'un archéologue fervent,
+
+79
+00:04:40,681 --> 00:04:41,687
+ 
+
+80
+00:04:41,687 --> 00:04:46,238
+un homme bon et généreux
+et un ami sincère.
+
+81
+00:04:46,238 --> 00:05:12,207
+ 
+
+82
+00:05:12,207 --> 00:05:14,596
+Le retour du fils prodigue.
+
+83
+00:05:14,596 --> 00:05:15,527
+ 
+
+84
+00:05:15,527 --> 00:05:17,836
+Steven.
+
+85
+00:05:17,836 --> 00:05:22,527
+ 
+
+86
+00:05:22,527 --> 00:05:24,199
+Sarah.
+
+87
+00:05:24,199 --> 00:05:24,287
+ 
+
+88
+00:05:24,287 --> 00:05:25,515
+Daniel.
+
+89
+00:05:25,515 --> 00:05:27,727
+ 
+
+90
+00:05:27,727 --> 00:05:30,525
+Je suis heureuse de te voir.
+
+91
+00:05:30,525 --> 00:05:30,607
+ 
+
+92
+00:05:30,607 --> 00:05:32,598
+Oui.
+
+93
+00:05:32,598 --> 00:05:33,927
+ 
+
+94
+00:05:33,927 --> 00:05:36,725
+- Malgré les circonstances.
+- Oui.
+
+95
+00:05:36,725 --> 00:05:37,607
+ 
+
+96
+00:05:37,607 --> 00:05:39,757
+Je n'arrive pas à m'y faire.
+
+97
+00:05:39,757 --> 00:05:43,167
+ 
+
+98
+00:05:43,167 --> 00:05:46,318
+Qu'est-ce qui s'est passé
+exactement? Parce que...
+
+99
+00:05:46,318 --> 00:05:46,407
+ 
+
+100
+00:05:46,407 --> 00:05:49,285
+La presse attribue sa mort
+à la malédiction d'Osiris.
+
+101
+00:05:49,285 --> 00:05:49,367
+ 
+
+102
+00:05:49,367 --> 00:05:54,361
+Selon la police, il y a eu
+une légère fuite de gaz dans le labo.
+
+103
+00:05:54,361 --> 00:05:54,447
+ 
+
+104
+00:05:54,447 --> 00:05:59,441
+Quelque chose a provoqué une étincelle.
+Tout a sauté. ll est mort sur le coup.
+
+105
+00:05:59,441 --> 00:06:01,207
+ 
+
+106
+00:06:01,207 --> 00:06:04,756
+On voulait t'appeler,
+mais on ne savait pas où tu étais.
+
+107
+00:06:04,756 --> 00:06:04,847
+ 
+
+108
+00:06:04,847 --> 00:06:07,156
+ça... ça ne fait rien.
+
+109
+00:06:07,156 --> 00:06:07,967
+ 
+
+110
+00:06:07,967 --> 00:06:10,356
+Je suis contente que tu sois là.
+
+111
+00:06:10,356 --> 00:06:23,407
+ 
+
+112
+00:06:23,407 --> 00:06:27,480
+Alors, ça fait
+combien de temps? Quatre ans?
+
+113
+00:06:27,480 --> 00:06:27,567
+ 
+
+114
+00:06:27,567 --> 00:06:29,478
+Cinq.
+
+115
+00:06:29,478 --> 00:06:29,567
+ 
+
+116
+00:06:29,567 --> 00:06:33,480
+- Qu'est-ce que tu deviens?
+- J'ai fait beaucoup de choses.
+
+117
+00:06:33,480 --> 00:06:33,567
+ 
+
+118
+00:06:33,567 --> 00:06:36,479
+C'est vrai? J'ai cherché
+à retrouver ta trace.
+
+119
+00:06:36,479 --> 00:06:36,567
+ 
+
+120
+00:06:36,567 --> 00:06:39,445
+Aucun article,
+aucun projet de recherche.
+
+121
+00:06:39,445 --> 00:06:39,527
+ 
+
+122
+00:06:39,527 --> 00:06:42,917
+- Comme si tu t'étais volatilisé.
+- C'est un peu ça.
+
+123
+00:06:42,917 --> 00:06:43,007
+ 
+
+124
+00:06:43,007 --> 00:06:48,320
+La dernière fois que je t'ai vu,
+tu donnais un cours à une classe vide.
+
+125
+00:06:48,320 --> 00:06:48,407
+ 
+
+126
+00:06:48,407 --> 00:06:51,717
+- Elle était pleine au début.
+- On n'était pas prêts
+
+127
+00:06:51,717 --> 00:06:51,807
+ 
+
+128
+00:06:51,807 --> 00:06:55,083
+à entendre que les pyramides
+étaient extraterrestres.
+
+129
+00:06:55,083 --> 00:06:55,167
+ 
+
+130
+00:06:55,167 --> 00:06:56,885
+- Arrête.
+- Oui, arrête.
+
+131
+00:06:56,885 --> 00:06:56,967
+ 
+
+132
+00:06:56,967 --> 00:07:01,006
+Pourquoi es-tu venu?
+On n'avait pas l'air de te manquer.
+
+133
+00:07:01,006 --> 00:07:01,087
+ 
+
+134
+00:07:01,087 --> 00:07:05,285
+Si tu es venu mettre les choses
+au point, c'est un peu tard.
+
+135
+00:07:05,285 --> 00:07:08,247
+ 
+
+136
+00:07:08,247 --> 00:07:10,636
+C'est toujours un plaisir de te voir.
+
+137
+00:07:10,636 --> 00:07:20,487
+ 
+
+138
+00:07:20,487 --> 00:07:24,241
+- Tu as quelque chose à faire, ou...?
+- Non. Je suis à toi.
+
+139
+00:07:24,241 --> 00:07:29,047
+ 
+
+140
+00:07:29,047 --> 00:07:31,845
+Désolée. ll n'est pas comme ça
+d'habitude.
+
+141
+00:07:31,845 --> 00:07:32,807
+ 
+
+142
+00:07:32,807 --> 00:07:35,719
+Ces deux derniers jours
+ont été durs pour lui.
+
+143
+00:07:35,719 --> 00:07:35,807
+ 
+
+144
+00:07:35,807 --> 00:07:40,835
+Steven? Non, il a raison.
+J'aurais dû revenir plus tôt. Je suppose
+
+145
+00:07:40,835 --> 00:07:40,927
+ 
+
+146
+00:07:40,927 --> 00:07:43,236
+que j'avais peur d'être mal reçu.
+
+147
+00:07:43,236 --> 00:07:43,327
+ 
+
+148
+00:07:43,327 --> 00:07:46,399
+Tu plaisantes?
+Malgré tout ce qui s'est passé,
+
+149
+00:07:46,399 --> 00:07:46,487
+ 
+
+150
+00:07:46,487 --> 00:07:50,639
+le Dr Jordan t'a toujours estimé.
+Tu étais son meilleur étudiant.
+
+151
+00:07:50,639 --> 00:07:50,727
+ 
+
+152
+00:07:50,727 --> 00:07:54,356
+Oui, ça a bien fait ricaner
+la communauté des archéologues.
+
+153
+00:07:54,356 --> 00:07:54,447
+ 
+
+154
+00:07:54,447 --> 00:07:58,235
+ll voulait que tu trouves
+des preuves qui les fassent taire.
+
+155
+00:07:58,235 --> 00:07:58,327
+ 
+
+156
+00:07:58,327 --> 00:08:00,443
+Non, il me prenait pour un fou.
+
+157
+00:08:00,443 --> 00:08:00,527
+ 
+
+158
+00:08:00,527 --> 00:08:04,440
+Ce n'est pas vrai. A ton avis
+pourquoi Steven t'en veut autant?
+
+159
+00:08:04,440 --> 00:08:04,527
+ 
+
+160
+00:08:04,527 --> 00:08:08,520
+ll a toujours été dans ton ombre.
+Même après ton départ.
+
+161
+00:08:08,520 --> 00:08:08,607
+ 
+
+162
+00:08:08,607 --> 00:08:11,644
+ll paraît que son livre
+est un best-seller.
+
+163
+00:08:11,644 --> 00:08:11,727
+ 
+
+164
+00:08:11,727 --> 00:08:13,763
+Oui. ll va acheter une Porsche.
+
+165
+00:08:13,763 --> 00:08:15,127
+ 
+
+166
+00:08:15,127 --> 00:08:17,118
+Oui, tu peux le dire.
+
+167
+00:08:17,118 --> 00:08:18,887
+ 
+
+168
+00:08:18,887 --> 00:08:23,483
+Pour être franche, je pensais
+que tu ne revenais pas à cause de moi.
+
+169
+00:08:23,483 --> 00:08:26,567
+ 
+
+170
+00:08:26,567 --> 00:08:29,206
+Non, ce... ce n'est pas ça.
+
+171
+00:08:29,206 --> 00:08:30,247
+ 
+
+172
+00:08:30,247 --> 00:08:32,761
+On aurait pu se séparer mieux que ça.
+
+173
+00:08:32,761 --> 00:08:34,047
+ 
+
+174
+00:08:34,047 --> 00:08:36,038
+Peut-être.
+
+175
+00:08:36,038 --> 00:08:37,447
+ 
+
+176
+00:08:37,447 --> 00:08:41,440
+En fait, je me suis retrouvé pris
+dans une histoire incroyable.
+
+177
+00:08:41,440 --> 00:08:43,087
+ 
+
+178
+00:08:43,087 --> 00:08:47,638
+Tu as trouvé quelque chose?
+Qui confirme ta théorie? Raconte.
+
+179
+00:08:47,638 --> 00:08:49,007
+ 
+
+180
+00:08:49,007 --> 00:08:50,235
+- Allez.
+- lmpossible.
+
+181
+00:08:50,235 --> 00:08:50,327
+ 
+
+182
+00:08:50,327 --> 00:08:51,965
+Daniel.
+
+183
+00:08:51,965 --> 00:08:52,047
+ 
+
+184
+00:08:52,047 --> 00:08:54,925
+D'accord. Disons simplement
+
+185
+00:08:54,925 --> 00:08:55,007
+ 
+
+186
+00:08:55,007 --> 00:09:00,400
+que ce que le monde sait sur l'Egypte
+ancienne ne fait qu'effleurer la réalité.
+
+187
+00:09:00,400 --> 00:09:00,767
+ 
+
+188
+00:09:00,767 --> 00:09:04,646
+La vérité est au-delà
+de tout ce que l'on a pu imaginer.
+
+189
+00:09:04,646 --> 00:09:05,647
+ 
+
+190
+00:09:05,647 --> 00:09:07,922
+Voilà bien le Daniel que je connais.
+
+191
+00:09:07,922 --> 00:09:08,647
+ 
+
+192
+00:09:08,647 --> 00:09:11,445
+Viens. J'ai quelque chose à te montrer.
+
+193
+00:09:11,445 --> 00:09:14,727
+ 
+
+194
+00:09:14,727 --> 00:09:16,399
+Restez assis.
+
+195
+00:09:16,399 --> 00:09:16,487
+ 
+
+196
+00:09:16,487 --> 00:09:18,955
+Alors, qui est affecté au SG-1?
+
+197
+00:09:18,955 --> 00:09:19,047
+ 
+
+198
+00:09:19,047 --> 00:09:23,723
+Personne. J'ai décidé de reporter
+la mission jusqu'au retour du Dr Jackson.
+
+199
+00:09:23,723 --> 00:09:23,807
+ 
+
+200
+00:09:23,807 --> 00:09:26,196
+Vous méritez de partir en permission.
+
+201
+00:09:26,196 --> 00:09:26,287
+ 
+
+202
+00:09:26,287 --> 00:09:29,199
+Oui. Le problème ici,
+c'est d'arriver à partir.
+
+203
+00:09:29,199 --> 00:09:29,287
+ 
+
+204
+00:09:29,287 --> 00:09:34,441
+Vous serez dehors avant qu'on se rende
+compte qu'on ne peut se passer de vous.
+
+205
+00:09:34,441 --> 00:09:34,527
+ 
+
+206
+00:09:34,527 --> 00:09:36,916
+- Rompez.
+- Merci, mon général.
+
+207
+00:09:36,916 --> 00:09:40,167
+ 
+
+208
+00:09:40,167 --> 00:09:44,718
+Carter, vous êtes enfin prête
+à m'accorder cette partie de pêche?
+
+209
+00:09:44,718 --> 00:09:44,807
+ 
+
+210
+00:09:44,807 --> 00:09:47,196
+En fait, j'ai des travaux à terminer.
+
+211
+00:09:47,196 --> 00:09:47,287
+ 
+
+212
+00:09:47,287 --> 00:09:49,926
+Oh, allez. Vous n'allez pas me dire
+
+213
+00:09:49,926 --> 00:09:50,007
+ 
+
+214
+00:09:50,007 --> 00:09:54,478
+que vous préférez ce souterrain
+lugubre, humide et froid à un bel étang,
+
+215
+00:09:54,478 --> 00:09:54,567
+ 
+
+216
+00:09:54,567 --> 00:09:57,525
+une chaise longue, une boisson fraîche
+
+217
+00:09:57,525 --> 00:09:57,607
+ 
+
+218
+00:09:57,607 --> 00:10:00,644
+et une perche
+qui ne mord jamais à l'hameçon?
+
+219
+00:10:00,644 --> 00:10:03,087
+ 
+
+220
+00:10:03,087 --> 00:10:06,318
+Aussi étrange que ça puisse paraître, si.
+
+221
+00:10:06,318 --> 00:10:06,407
+ 
+
+222
+00:10:06,407 --> 00:10:08,602
+Amusez-vous bien.
+
+223
+00:10:08,602 --> 00:10:09,407
+ 
+
+224
+00:10:09,407 --> 00:10:11,477
+Chacun son truc.
+
+225
+00:10:11,477 --> 00:10:11,567
+ 
+
+226
+00:10:11,567 --> 00:10:13,956
+Chacune. Je voulais dire chacune.
+
+227
+00:10:13,956 --> 00:10:15,207
+ 
+
+228
+00:10:15,207 --> 00:10:17,198
+Je crois.
+
+229
+00:10:17,198 --> 00:10:17,927
+ 
+
+230
+00:10:17,927 --> 00:10:19,963
+Alors, Teal'c.
+
+231
+00:10:19,963 --> 00:10:20,047
+ 
+
+232
+00:10:20,047 --> 00:10:24,279
+ça va être génial. Rien que toi et moi.
+Vite. Pense aux huards.
+
+233
+00:10:24,279 --> 00:10:24,367
+ 
+
+234
+00:10:24,367 --> 00:10:26,756
+ll faut qu'on arrive avant les huards.
+
+235
+00:10:26,756 --> 00:10:29,207
+ 
+
+236
+00:10:29,207 --> 00:10:33,803
+J'ai pensé que tu aimerais voir
+sur quoi on travaillait avant l'accident.
+
+237
+00:10:33,803 --> 00:10:37,407
+ 
+
+238
+00:10:37,407 --> 00:10:41,719
+- Ces objets sont fantastiques.
+- Mais on ne les a pas pour longtemps.
+
+239
+00:10:41,719 --> 00:10:41,807
+ 
+
+240
+00:10:41,807 --> 00:10:44,275
+Les Egyptiens veulent les récupérer.
+
+241
+00:10:44,275 --> 00:10:44,367
+ 
+
+242
+00:10:44,367 --> 00:10:48,485
+On tente désespérément de percer
+leurs secrets avant l'échéance.
+
+243
+00:10:48,485 --> 00:10:49,287
+ 
+
+244
+00:10:49,287 --> 00:10:52,404
+''Malheur à qui
+troublera ma dernière demeure.''
+
+245
+00:10:52,404 --> 00:10:52,487
+ 
+
+246
+00:10:52,487 --> 00:10:57,083
+Attention. Tous ces vestiges sont
+ensorcelés. Enfin, c'est ce qu'on dit.
+
+247
+00:10:57,083 --> 00:10:58,367
+ 
+
+248
+00:10:58,367 --> 00:11:00,358
+Oui, j'ai lu ça quelque part.
+
+249
+00:11:00,358 --> 00:11:00,447
+ 
+
+250
+00:11:00,447 --> 00:11:04,679
+Tous les membres de l'expédition
+de 1931 sont morts après les fouilles.
+
+251
+00:11:04,679 --> 00:11:04,767
+ 
+
+252
+00:11:04,767 --> 00:11:09,318
+Le bateau qui ramenait les vestiges
+a coulé au large du New Jersey.
+
+253
+00:11:09,318 --> 00:11:09,407
+ 
+
+254
+00:11:09,407 --> 00:11:12,205
+- L'expédition Stewart.
+- Oui.
+
+255
+00:11:12,205 --> 00:11:12,287
+ 
+
+256
+00:11:12,287 --> 00:11:16,246
+Les décès seraient dus
+à des spores de moisissure.
+
+257
+00:11:16,246 --> 00:11:16,327
+ 
+
+258
+00:11:16,327 --> 00:11:19,444
+Pas le genre de drame
+qui fait la une des journaux.
+
+259
+00:11:19,444 --> 00:11:19,527
+ 
+
+260
+00:11:19,527 --> 00:11:21,597
+Non, pas vraiment.
+
+261
+00:11:21,597 --> 00:11:22,207
+ 
+
+262
+00:11:22,207 --> 00:11:25,722
+Si ces objets ont coulé,
+comment sont-ils arrivés ici?
+
+263
+00:11:25,722 --> 00:11:25,807
+ 
+
+264
+00:11:25,807 --> 00:11:30,562
+L'épave a été retrouvée récemment.
+Les vestiges étaient dans leurs caisses.
+
+265
+00:11:30,562 --> 00:11:30,647
+ 
+
+266
+00:11:30,647 --> 00:11:33,525
+lls ont été repêchés
+et envoyés au musée.
+
+267
+00:11:33,525 --> 00:11:33,607
+ 
+
+268
+00:11:33,607 --> 00:11:35,598
+On les a depuis une semaine.
+
+269
+00:11:35,598 --> 00:11:35,687
+ 
+
+270
+00:11:35,687 --> 00:11:40,477
+Je peux rester deux ou trois jours
+si tu veux que je t'aide à les classer.
+
+271
+00:11:40,477 --> 00:11:45,967
+ 
+
+272
+00:11:45,967 --> 00:11:48,765
+- Qu'y a-t-il?
+- ll manque quelque chose.
+
+273
+00:11:48,765 --> 00:11:48,847
+ 
+
+274
+00:11:48,847 --> 00:11:51,645
+- Tu es sûre?
+- Certaine. Une amulette en or.
+
+275
+00:11:51,645 --> 00:11:52,567
+ 
+
+276
+00:11:52,567 --> 00:11:54,956
+Daniel, il faut que je la retrouve.
+
+277
+00:11:54,956 --> 00:11:55,847
+ 
+
+278
+00:11:55,847 --> 00:12:00,682
+Que ce soit bien clair, il n'y aura
+que moi, Teal'c et le grand air.
+
+279
+00:12:00,682 --> 00:12:00,767
+ 
+
+280
+00:12:00,767 --> 00:12:05,841
+Pas de portable, pas de fax, pas âme
+qui vive à des kilomètres à la ronde.
+
+281
+00:12:05,841 --> 00:12:05,927
+ 
+
+282
+00:12:05,927 --> 00:12:08,600
+On sera indisponibles, inaccessibles.
+
+283
+00:12:08,600 --> 00:12:08,687
+ 
+
+284
+00:12:08,687 --> 00:12:10,996
+- L'isolement.
+- Non, le Minnesota.
+
+285
+00:12:10,996 --> 00:12:11,087
+ 
+
+286
+00:12:11,087 --> 00:12:14,124
+- Autant pour moi.
+- Si vous prévoyez une urgence,
+
+287
+00:12:14,124 --> 00:12:14,207
+ 
+
+288
+00:12:14,207 --> 00:12:16,801
+c'est maintenant qu'il faut me le dire.
+
+289
+00:12:16,801 --> 00:12:16,887
+ 
+
+290
+00:12:16,887 --> 00:12:21,438
+Si Thor veut me voir, qu'il me
+téléporte. Si la Tok'ra... non, rien.
+
+291
+00:12:21,438 --> 00:12:28,487
+ 
+
+292
+00:12:28,487 --> 00:12:30,921
+Excusez le bazar. Réduction budgétaire.
+
+293
+00:12:30,921 --> 00:12:31,007
+ 
+
+294
+00:12:31,007 --> 00:12:33,521
+Je mets de l'ordre, mais c'est long.
+
+295
+00:12:33,521 --> 00:12:33,607
+ 
+
+296
+00:12:33,607 --> 00:12:36,440
+- Je comprends.
+- Que cherchez-vous?
+
+297
+00:12:36,440 --> 00:12:36,527
+ 
+
+298
+00:12:36,527 --> 00:12:40,520
+- Un objet de l'expédition Stewart.
+- L'urne d'lsis.
+
+299
+00:12:40,520 --> 00:12:40,607
+ 
+
+300
+00:12:40,607 --> 00:12:45,886
+Non, ce n'est pas ça. Je veux parler
+d'une amulette en or et ébène...
+
+301
+00:12:45,886 --> 00:12:48,207
+ 
+
+302
+00:12:48,207 --> 00:12:50,038
+C'est l'article 1 4C.
+
+303
+00:12:50,038 --> 00:12:50,127
+ 
+
+304
+00:12:50,127 --> 00:12:53,005
+On l'a envoyé au Dr Jordan
+avec les autres.
+
+305
+00:12:53,005 --> 00:12:53,087
+ 
+
+306
+00:12:53,087 --> 00:12:55,078
+- Vraiment?
+- Je m'en suis occupée.
+
+307
+00:12:55,078 --> 00:12:55,167
+ 
+
+308
+00:12:55,167 --> 00:12:58,204
+- Je peux vous montrer le reçu.
+- Non.
+
+309
+00:12:58,204 --> 00:12:58,287
+ 
+
+310
+00:12:58,287 --> 00:13:01,279
+Et cette urne d'lsis dont vous parliez?
+
+311
+00:13:01,279 --> 00:13:01,367
+ 
+
+312
+00:13:01,367 --> 00:13:03,358
+Je vais vous la montrer.
+
+313
+00:13:03,358 --> 00:13:05,407
+ 
+
+314
+00:13:05,407 --> 00:13:10,242
+Cette caisse était mal étiquetée.
+Je ne l'ai trouvée qu'il y a deux jours.
+
+315
+00:13:10,242 --> 00:13:12,527
+ 
+
+316
+00:13:12,527 --> 00:13:14,882
+- Celle-ci?
+- Oui, merci.
+
+317
+00:13:14,882 --> 00:13:18,047
+ 
+
+318
+00:13:18,047 --> 00:13:21,323
+Je n'ai jamais vu ces symboles, et vous?
+
+319
+00:13:21,323 --> 00:13:21,407
+ 
+
+320
+00:13:21,407 --> 00:13:24,877
+Moi si. Je vais devoir
+faire une traduction.
+
+321
+00:13:24,877 --> 00:13:25,367
+ 
+
+322
+00:13:25,367 --> 00:13:30,646
+Si vous avez besoin de moi, je suis avec
+les masques mortuaires polynésiens.
+
+323
+00:13:30,646 --> 00:13:46,407
+ 
+
+324
+00:13:46,407 --> 00:13:48,159
+- Carter.
+- Sam, c'est moi.
+
+325
+00:13:48,159 --> 00:13:48,247
+ 
+
+326
+00:13:48,247 --> 00:13:51,523
+Une seconde.
+Merci pour votre aide, caporal.
+
+327
+00:13:51,523 --> 00:13:51,607
+ 
+
+328
+00:13:51,607 --> 00:13:53,598
+Pas de problème, mon commandant.
+
+329
+00:13:53,598 --> 00:13:54,487
+ 
+
+330
+00:13:54,487 --> 00:13:56,762
+- Où es-tu?
+- Toujours à Chicago.
+
+331
+00:13:56,762 --> 00:13:56,847
+ 
+
+332
+00:13:56,847 --> 00:14:01,523
+Dans un musée, devant ce qui semble
+être une urne funéraire égyptienne.
+
+333
+00:14:01,523 --> 00:14:01,607
+ 
+
+334
+00:14:01,607 --> 00:14:03,086
+Très bien.
+
+335
+00:14:03,086 --> 00:14:03,847
+ 
+
+336
+00:14:03,847 --> 00:14:06,361
+ça peut paraître normal pour un musée,
+
+337
+00:14:06,361 --> 00:14:06,447
+ 
+
+338
+00:14:06,447 --> 00:14:10,122
+sauf qu'il n'y a pas
+que les hiéroglyphes ordinaires.
+
+339
+00:14:10,122 --> 00:14:10,207
+ 
+
+340
+00:14:10,207 --> 00:14:12,641
+ll y a une deuxième série de signes.
+
+341
+00:14:12,641 --> 00:14:13,927
+ 
+
+342
+00:14:13,927 --> 00:14:16,316
+Ce sont des symboles goa'ulds.
+
+343
+00:14:16,316 --> 00:14:39,447
+ 
+
+344
+00:14:39,447 --> 00:14:42,439
+L'étang semble dépourvu
+de poissons, O'Neill.
+
+345
+00:14:42,439 --> 00:14:44,487
+ 
+
+346
+00:14:44,487 --> 00:14:50,278
+Teal'c, ce ne sont pas
+les poissons qui comptent.
+
+347
+00:14:50,278 --> 00:14:50,927
+ 
+
+348
+00:14:50,927 --> 00:14:53,725
+Les poissons ne sont pas importants ici.
+
+349
+00:14:53,725 --> 00:14:54,647
+ 
+
+350
+00:14:54,647 --> 00:14:57,002
+Ce qui compte, c'est de pêcher.
+
+351
+00:14:57,002 --> 00:14:57,087
+ 
+
+352
+00:14:57,087 --> 00:15:00,079
+L'acte de pêcher en soi.
+
+353
+00:15:00,079 --> 00:15:00,967
+ 
+
+354
+00:15:00,967 --> 00:15:02,958
+Je vois.
+
+355
+00:15:02,958 --> 00:15:10,527
+ 
+
+356
+00:15:10,527 --> 00:15:12,882
+Tu ne l'as pas coupé?
+
+357
+00:15:12,882 --> 00:15:12,967
+ 
+
+358
+00:15:12,967 --> 00:15:15,640
+A la demande du général Hammond.
+
+359
+00:15:15,640 --> 00:15:17,127
+ 
+
+360
+00:15:17,127 --> 00:15:19,118
+Ah, non alors.
+
+361
+00:15:19,118 --> 00:15:24,287
+ 
+
+362
+00:15:24,287 --> 00:15:26,084
+Quoi?
+
+363
+00:15:26,084 --> 00:15:26,367
+ 
+
+364
+00:15:26,367 --> 00:15:29,757
+Oui, Daniel. ll est là. Un instant.
+
+365
+00:15:29,757 --> 00:15:37,047
+ 
+
+366
+00:15:37,047 --> 00:15:39,038
+Daniel Jackson.
+
+367
+00:15:39,038 --> 00:15:41,527
+ 
+
+368
+00:15:41,527 --> 00:15:44,041
+Nous n'avons rien attrapé. Nous pêchons.
+
+369
+00:15:44,041 --> 00:15:44,887
+ 
+
+370
+00:15:44,887 --> 00:15:47,924
+Ecoute, j'ai besoin d'aide
+pour une traduction.
+
+371
+00:15:47,924 --> 00:15:48,007
+ 
+
+372
+00:15:48,007 --> 00:15:53,718
+J'ai une phrase qui dit:
+''Hakoor kra terak shree.''
+
+373
+00:15:53,718 --> 00:15:57,367
+ 
+
+374
+00:15:57,367 --> 00:16:00,200
+- Condamné à l'oubli.
+- D'accord.
+
+375
+00:16:00,200 --> 00:16:00,807
+ 
+
+376
+00:16:00,807 --> 00:16:03,002
+Parfait. Merci.
+
+377
+00:16:03,002 --> 00:16:03,247
+ 
+
+378
+00:16:03,247 --> 00:16:07,001
+Si mon aide t'est nécessaire,
+je serai ravi de rentrer au SGC.
+
+379
+00:16:07,001 --> 00:16:07,087
+ 
+
+380
+00:16:07,087 --> 00:16:09,885
+Non, merci. Ca devrait aIIer maintenant.
+
+381
+00:16:09,885 --> 00:16:10,847
+ 
+
+382
+00:16:10,847 --> 00:16:13,236
+- En es-tu certain?
+- Donne-moi ça.
+
+383
+00:16:13,236 --> 00:16:17,927
+ 
+
+384
+00:16:17,927 --> 00:16:19,918
+- Au revoir, Daniel.
+- Attends...
+
+385
+00:16:19,918 --> 00:16:41,327
+ 
+
+386
+00:16:41,327 --> 00:16:45,161
+Les Egyptiens plaçaient
+les viscères des morts dans des urnes
+
+387
+00:16:45,161 --> 00:16:45,247
+ 
+
+388
+00:16:45,247 --> 00:16:48,637
+qu'ils enterraient avec les sarcophages
+
+389
+00:16:48,637 --> 00:16:48,727
+ 
+
+390
+00:16:48,727 --> 00:16:51,241
+pour les faire accéder à l'immortalité.
+
+391
+00:16:51,241 --> 00:16:51,327
+ 
+
+392
+00:16:51,327 --> 00:16:55,605
+- C'est ce que nous avons là?
+- Le rapport de l'expédition dit
+
+393
+00:16:55,605 --> 00:16:55,687
+ 
+
+394
+00:16:55,687 --> 00:16:59,885
+qu'aucun sarcophage n'a été retrouvé.
+Les hiéroglyphes indiquent
+
+395
+00:16:59,885 --> 00:16:59,967
+ 
+
+396
+00:16:59,967 --> 00:17:03,801
+que l'urne appartient à lsis,
+la déesse mère égyptienne.
+
+397
+00:17:03,801 --> 00:17:03,887
+ 
+
+398
+00:17:03,887 --> 00:17:05,605
+- Une Goa'uld?
+- Possible.
+
+399
+00:17:05,605 --> 00:17:05,687
+ 
+
+400
+00:17:05,687 --> 00:17:09,566
+lsis était la soeur d'Osiris,
+le premier pharaon d'Egypte.
+
+401
+00:17:09,566 --> 00:17:09,647
+ 
+
+402
+00:17:09,647 --> 00:17:12,480
+ll aurait été placé
+dans un coffre magique
+
+403
+00:17:12,480 --> 00:17:12,567
+ 
+
+404
+00:17:12,567 --> 00:17:15,400
+et jeté dans le Nil par son frère Seth.
+
+405
+00:17:15,400 --> 00:17:15,487
+ 
+
+406
+00:17:15,487 --> 00:17:18,797
+- Lui, je le connais.
+- Les symboles goa'ulds indiquent
+
+407
+00:17:18,797 --> 00:17:18,887
+ 
+
+408
+00:17:18,887 --> 00:17:23,642
+qu'lsis et Osiris
+ont été punis ou envoyés en exil.
+
+409
+00:17:23,642 --> 00:17:24,407
+ 
+
+410
+00:17:24,407 --> 00:17:27,160
+- Où donc?
+- Je n'en ai aucune idée.
+
+411
+00:17:27,160 --> 00:17:28,607
+ 
+
+412
+00:17:28,607 --> 00:17:31,326
+- Analysez le contenu.
+- Bien, général.
+
+413
+00:17:31,326 --> 00:17:31,407
+ 
+
+414
+00:17:31,407 --> 00:17:35,161
+Sois prudente. ça pourrait être
+une sorte de piège goa'uld
+
+415
+00:17:35,161 --> 00:17:35,247
+ 
+
+416
+00:17:35,247 --> 00:17:38,364
+laissé par Osiris pour se venger.
+
+417
+00:17:38,364 --> 00:17:38,447
+ 
+
+418
+00:17:38,447 --> 00:17:42,042
+Et puis... l'urne
+a des pouvoirs maléfiques.
+
+419
+00:17:42,042 --> 00:17:44,247
+ 
+
+420
+00:17:44,247 --> 00:17:46,715
+Merci de me prévenir.
+
+421
+00:17:46,715 --> 00:17:49,647
+ 
+
+422
+00:17:49,647 --> 00:17:52,241
+Mon général, il y a autre chose.
+
+423
+00:17:52,241 --> 00:17:53,487
+ 
+
+424
+00:17:53,487 --> 00:17:57,605
+L'inventaire de l'expédition Stewart
+recense une deuxième urne.
+
+425
+00:17:57,605 --> 00:17:57,687
+ 
+
+426
+00:17:57,687 --> 00:17:59,996
+- Vous la retrouverez?
+- J'essaierai.
+
+427
+00:17:59,996 --> 00:18:00,087
+ 
+
+428
+00:18:00,087 --> 00:18:02,726
+Je retourne à Chicago ce soir.
+
+429
+00:18:02,726 --> 00:18:13,087
+ 
+
+430
+00:18:13,087 --> 00:18:15,078
+ll y a quelqu'un?
+
+431
+00:18:15,078 --> 00:18:17,327
+ 
+
+432
+00:18:17,327 --> 00:18:18,919
+ll y a quelqu'un?
+
+433
+00:18:18,919 --> 00:19:01,607
+ 
+
+434
+00:19:01,607 --> 00:19:03,962
+- Tu vas arrêter?
+- Que fais-tu là?
+
+435
+00:19:03,962 --> 00:19:04,207
+ 
+
+436
+00:19:04,207 --> 00:19:06,846
+- Et toi?
+- Je te l'ai demandé le premier.
+
+437
+00:19:06,846 --> 00:19:08,007
+ 
+
+438
+00:19:08,007 --> 00:19:09,998
+Je travaille ici, je te signale.
+
+439
+00:19:09,998 --> 00:19:10,087
+ 
+
+440
+00:19:10,087 --> 00:19:14,285
+Je cherche ce maudit disjoncteur,
+je ne sais pas où il est.
+
+441
+00:19:14,285 --> 00:19:15,207
+ 
+
+442
+00:19:15,207 --> 00:19:17,004
+D'accord.
+
+443
+00:19:17,004 --> 00:19:17,687
+ 
+
+444
+00:19:17,687 --> 00:19:21,202
+- Moi je voulais voir la restauratrice.
+- Elle n'est pas là.
+
+445
+00:19:21,202 --> 00:19:21,287
+ 
+
+446
+00:19:21,287 --> 00:19:25,246
+C'était éteint quand je suis arrivé.
+Pourquoi tu la cherches?
+
+447
+00:19:25,246 --> 00:19:25,327
+ 
+
+448
+00:19:25,327 --> 00:19:28,319
+C'est à propos
+des articles de l'expédition.
+
+449
+00:19:28,319 --> 00:19:28,407
+ 
+
+450
+00:19:28,407 --> 00:19:30,875
+ll manque quelque chose.
+
+451
+00:19:30,875 --> 00:19:30,967
+ 
+
+452
+00:19:30,967 --> 00:19:33,356
+ll ne manque rien.
+
+453
+00:19:33,356 --> 00:19:36,767
+ 
+
+454
+00:19:36,767 --> 00:19:41,238
+Un canope avec des hiéroglyphes
+et des signes étranges.
+
+455
+00:19:41,238 --> 00:19:41,327
+ 
+
+456
+00:19:41,327 --> 00:19:43,477
+L'urne d'Osiris.
+
+457
+00:19:43,477 --> 00:19:43,567
+ 
+
+458
+00:19:43,567 --> 00:19:46,365
+- Oui.
+- Détruite dans l'explosion.
+
+459
+00:19:46,365 --> 00:19:46,807
+ 
+
+460
+00:19:46,807 --> 00:19:49,241
+- Tu en es sûr?
+- Oui, absolument.
+
+461
+00:19:49,241 --> 00:19:49,327
+ 
+
+462
+00:19:49,327 --> 00:19:52,125
+Bon, très bien, et l'amulette en or?
+
+463
+00:19:52,125 --> 00:19:52,847
+ 
+
+464
+00:19:52,847 --> 00:19:56,760
+Si tu cherches à te remettre
+avec Sarah, ça te regarde.
+
+465
+00:19:56,760 --> 00:19:56,847
+ 
+
+466
+00:19:56,847 --> 00:20:00,203
+Je m'en fiche pas mal.
+Mais je n'apprécie pas
+
+467
+00:20:00,203 --> 00:20:00,287
+ 
+
+468
+00:20:00,287 --> 00:20:03,006
+que tu te mêles de mon travail.
+
+469
+00:20:03,006 --> 00:20:04,207
+ 
+
+470
+00:20:04,207 --> 00:20:08,598
+- Du travail du Dr Jordan?
+- Non. Sarah et moi étions ses assistants.
+
+471
+00:20:08,598 --> 00:20:08,687
+ 
+
+472
+00:20:08,687 --> 00:20:11,406
+Toi, tu l'as laissé tomber.
+
+473
+00:20:11,406 --> 00:20:11,487
+ 
+
+474
+00:20:11,487 --> 00:20:14,957
+Je ne l'ai pas laissé tomber.
+Je voulais le protéger.
+
+475
+00:20:14,957 --> 00:20:15,047
+ 
+
+476
+00:20:15,047 --> 00:20:18,835
+Dis plutôt que tu t'es éloigné
+pour lui éviter de l'embarras.
+
+477
+00:20:18,835 --> 00:20:18,927
+ 
+
+478
+00:20:18,927 --> 00:20:22,158
+Daniel, tu n'aurais
+vraiment pas dû revenir.
+
+479
+00:20:22,158 --> 00:20:24,967
+ 
+
+480
+00:20:24,967 --> 00:20:30,166
+Je n'ai pas envie de me lancer dans des
+explications, mais tu as besoin de moi.
+
+481
+00:20:30,166 --> 00:20:30,247
+ 
+
+482
+00:20:30,247 --> 00:20:32,966
+Encore une histoire d'extraterrestres?
+
+483
+00:20:32,966 --> 00:20:37,887
+ 
+
+484
+00:20:37,887 --> 00:20:39,878
+Oh, non.
+
+485
+00:20:39,878 --> 00:20:46,887
+ 
+
+486
+00:20:46,887 --> 00:20:51,244
+L'analyse préliminaire indique
+que l'extérieur est en céramique.
+
+487
+00:20:51,244 --> 00:20:51,327
+ 
+
+488
+00:20:51,327 --> 00:20:53,841
+Le couvercle semble
+avoir été endommagé.
+
+489
+00:20:53,841 --> 00:20:53,927
+ 
+
+490
+00:20:53,927 --> 00:20:56,202
+Vous avez une idée du contenu?
+
+491
+00:20:56,202 --> 00:20:56,287
+ 
+
+492
+00:20:56,287 --> 00:21:00,405
+Avec un peu de chance, la tomographie
+par ordinateur nous le dira.
+
+493
+00:21:00,405 --> 00:21:02,007
+ 
+
+494
+00:21:02,007 --> 00:21:04,362
+C'est ce que je crois?
+
+495
+00:21:04,362 --> 00:21:04,447
+ 
+
+496
+00:21:04,447 --> 00:21:06,836
+Oui. C'est un symbiote goa'uld.
+
+497
+00:21:06,836 --> 00:21:14,407
+ 
+
+498
+00:21:14,407 --> 00:21:19,083
+La police a dit que la restauratrice
+avait subi un traumatisme crânien.
+
+499
+00:21:19,083 --> 00:21:19,167
+ 
+
+500
+00:21:19,167 --> 00:21:23,445
+- lls ne pensent pas que tu as...?
+- Non. Steven n'a rien fait
+
+501
+00:21:23,445 --> 00:21:23,527
+ 
+
+502
+00:21:23,527 --> 00:21:28,521
+pour les dissuader de me suspecter,
+mais heureusement, j'ai des relations.
+
+503
+00:21:28,521 --> 00:21:29,927
+ 
+
+504
+00:21:29,927 --> 00:21:33,203
+ll y avait des briques
+en bas de la cage d'ascenseur,
+
+505
+00:21:33,203 --> 00:21:33,287
+ 
+
+506
+00:21:33,287 --> 00:21:39,362
+elles seraient tombées du mur... un
+malheureux concours de circonstances.
+
+507
+00:21:39,362 --> 00:21:39,447
+ 
+
+508
+00:21:39,447 --> 00:21:43,838
+Les journaux disent que la malédiction
+de la momie a encore frappé.
+
+509
+00:21:43,838 --> 00:21:45,287
+ 
+
+510
+00:21:45,287 --> 00:21:49,485
+Tu as des photos de l'urne
+qui a été détruite dans l'explosion?
+
+511
+00:21:49,485 --> 00:21:49,567
+ 
+
+512
+00:21:49,567 --> 00:21:51,558
+Oui. Elles sont là.
+
+513
+00:21:51,558 --> 00:22:00,327
+ 
+
+514
+00:22:00,327 --> 00:22:04,002
+- C'est illisible.
+- On n'a pas pu identifier les symboles.
+
+515
+00:22:04,002 --> 00:22:04,087
+ 
+
+516
+00:22:04,087 --> 00:22:07,443
+Mais le Dr Jordan
+les a copiés dans son carnet.
+
+517
+00:22:07,443 --> 00:22:10,567
+ 
+
+518
+00:22:10,567 --> 00:22:13,559
+Ces signes ne ressemblent
+à rien de connu.
+
+519
+00:22:13,559 --> 00:22:13,647
+ 
+
+520
+00:22:13,647 --> 00:22:17,322
+- lls ne sont pas égyptiens.
+- Non, en effet.
+
+521
+00:22:17,322 --> 00:22:18,007
+ 
+
+522
+00:22:18,007 --> 00:22:20,202
+Alors qu'est-ce que c'est?
+
+523
+00:22:20,202 --> 00:22:20,967
+ 
+
+524
+00:22:20,967 --> 00:22:23,276
+Qu'est-ce que c'est?
+
+525
+00:22:23,276 --> 00:22:23,367
+ 
+
+526
+00:22:23,367 --> 00:22:25,358
+Tu le sais. Comment ça se fait?
+
+527
+00:22:25,358 --> 00:22:26,247
+ 
+
+528
+00:22:26,247 --> 00:22:29,762
+Je ne peux rien te dire,
+mais ceci est très important.
+
+529
+00:22:29,762 --> 00:22:29,847
+ 
+
+530
+00:22:29,847 --> 00:22:32,805
+Le Dr Jordan a-t-il fait
+des analyses de l'urne?
+
+531
+00:22:32,805 --> 00:22:32,887
+ 
+
+532
+00:22:32,887 --> 00:22:36,926
+Pas que je sache,
+mais il consignait tout dans l'ordinateur.
+
+533
+00:22:36,926 --> 00:23:07,687
+ 
+
+534
+00:23:07,687 --> 00:23:10,281
+ll est mort. On peut respirer.
+
+535
+00:23:10,281 --> 00:23:23,367
+ 
+
+536
+00:23:23,367 --> 00:23:26,006
+ll est resté longtemps dans l'urne?
+
+537
+00:23:26,006 --> 00:23:26,087
+ 
+
+538
+00:23:26,087 --> 00:23:29,477
+Selon Daniel,
+plusieurs milliers d'années.
+
+539
+00:23:29,477 --> 00:23:30,687
+ 
+
+540
+00:23:30,687 --> 00:23:33,281
+ll est parfaitement conservé.
+
+541
+00:23:33,281 --> 00:23:35,447
+ 
+
+542
+00:23:35,447 --> 00:23:38,484
+C'est comme s'il était mort hier.
+
+543
+00:23:38,484 --> 00:23:43,567
+ 
+
+544
+00:23:43,567 --> 00:23:46,081
+ll y a quelque chose qui ne va pas.
+
+545
+00:23:46,081 --> 00:23:46,167
+ 
+
+546
+00:23:46,167 --> 00:23:48,362
+- Quoi?
+- Ses fichiers ont disparu.
+
+547
+00:23:48,362 --> 00:23:50,247
+ 
+
+548
+00:23:50,247 --> 00:23:52,636
+Tout a été supprimé.
+
+549
+00:23:52,636 --> 00:23:54,407
+ 
+
+550
+00:23:54,407 --> 00:23:56,523
+Même ses courriers électroniques.
+
+551
+00:23:56,523 --> 00:23:57,127
+ 
+
+552
+00:23:57,127 --> 00:23:59,277
+Vous faites des sauvegardes?
+
+553
+00:23:59,277 --> 00:23:59,927
+ 
+
+554
+00:23:59,927 --> 00:24:02,122
+Oui. Elles ne sont pas là.
+
+555
+00:24:02,122 --> 00:24:05,807
+ 
+
+556
+00:24:05,807 --> 00:24:07,001
+Que fais-tu?
+
+557
+00:24:07,001 --> 00:24:07,087
+ 
+
+558
+00:24:07,087 --> 00:24:10,602
+Le système repère l'espace disque libéré.
+
+559
+00:24:10,602 --> 00:24:10,687
+ 
+
+560
+00:24:10,687 --> 00:24:13,724
+ll cherche les valeurs supprimées
+dans la base
+
+561
+00:24:13,724 --> 00:24:13,807
+ 
+
+562
+00:24:13,807 --> 00:24:16,162
+pour les écraser par la suite.
+
+563
+00:24:16,162 --> 00:24:16,247
+ 
+
+564
+00:24:16,247 --> 00:24:19,125
+Comme il le fait en général
+après 30 jours,
+
+565
+00:24:19,125 --> 00:24:19,207
+ 
+
+566
+00:24:19,207 --> 00:24:24,918
+j'ai des chances de récupérer les fichiers
+avant que les valeurs ne se reproduisent.
+
+567
+00:24:24,918 --> 00:24:27,527
+ 
+
+568
+00:24:27,527 --> 00:24:32,521
+J'ai trouvé quelque chose. Le professeur
+a reçu un message la nuit de sa mort.
+
+569
+00:24:32,521 --> 00:24:32,607
+ 
+
+570
+00:24:32,607 --> 00:24:35,565
+J'imagine qu'il ne l'a jamais lu.
+
+571
+00:24:35,565 --> 00:24:37,167
+ 
+
+572
+00:24:37,167 --> 00:24:41,524
+Ce sont les résultats de la datation
+au carbone de l'article 1 4C.
+
+573
+00:24:41,524 --> 00:24:41,607
+ 
+
+574
+00:24:41,607 --> 00:24:43,643
+L'amulette en or qui a disparu.
+
+575
+00:24:43,643 --> 00:24:43,727
+ 
+
+576
+00:24:43,727 --> 00:24:47,515
+Oh, ça alors.
+Elle date de plus de 10 000 ans.
+
+577
+00:24:47,515 --> 00:24:48,727
+ 
+
+578
+00:24:48,727 --> 00:24:51,321
+ça veut dire que tu avais raison.
+
+579
+00:24:51,321 --> 00:24:51,407
+ 
+
+580
+00:24:51,407 --> 00:24:53,284
+Oui, je sais.
+
+581
+00:24:53,284 --> 00:24:53,367
+ 
+
+582
+00:24:53,367 --> 00:24:56,837
+La culture égyptienne
+remonte à des milliers d'années.
+
+583
+00:24:56,837 --> 00:24:56,927
+ 
+
+584
+00:24:56,927 --> 00:25:01,284
+- Sarah, ne parle de ça à personne.
+- Qu'est-ce que tu racontes?
+
+585
+00:25:01,284 --> 00:25:01,367
+ 
+
+586
+00:25:01,367 --> 00:25:05,485
+C'est la preuve que tu cherchais.
+ça confirme tes théories.
+
+587
+00:25:05,485 --> 00:25:05,567
+ 
+
+588
+00:25:05,567 --> 00:25:09,640
+Tout ce que j'ai, c'est la datation
+au carbone d'un objet disparu.
+
+589
+00:25:09,640 --> 00:25:09,727
+ 
+
+590
+00:25:09,727 --> 00:25:14,084
+On n'a qu'à contacter les techniciens
+qui ont réalisé les analyses.
+
+591
+00:25:14,084 --> 00:25:17,687
+ 
+
+592
+00:25:17,687 --> 00:25:19,279
+Qu'est-ce qu'il y a?
+
+593
+00:25:19,279 --> 00:25:19,367
+ 
+
+594
+00:25:19,367 --> 00:25:22,882
+Le Dr Jordan n'a pas été
+le seul à avoir ces résultats.
+
+595
+00:25:22,882 --> 00:25:27,807
+ 
+
+596
+00:25:27,807 --> 00:25:29,798
+Steven.
+
+597
+00:25:29,798 --> 00:25:33,447
+ 
+
+598
+00:25:33,447 --> 00:25:36,519
+Ce symbiote devrait être
+une enveloppe desséchée,
+
+599
+00:25:36,519 --> 00:25:36,607
+ 
+
+600
+00:25:36,607 --> 00:25:38,837
+mais il est en parfait état.
+
+601
+00:25:38,837 --> 00:25:38,927
+ 
+
+602
+00:25:38,927 --> 00:25:42,044
+On pensait qu'il avait été
+conservé dans du formol,
+
+603
+00:25:42,044 --> 00:25:42,127
+ 
+
+604
+00:25:42,127 --> 00:25:44,482
+- mais ce n'est pas si sûr.
+- Pourquoi?
+
+605
+00:25:44,482 --> 00:25:44,567
+ 
+
+606
+00:25:44,567 --> 00:25:46,558
+L'urne est en céramique,
+
+607
+00:25:46,558 --> 00:25:46,647
+ 
+
+608
+00:25:46,647 --> 00:25:50,037
+mais contient
+une enveloppe de sécurité ultramoderne.
+
+609
+00:25:50,037 --> 00:25:50,127
+ 
+
+610
+00:25:50,127 --> 00:25:54,166
+Et une source d'énergie
+au naqahdah qui émet une faible charge.
+
+611
+00:25:54,166 --> 00:25:54,247
+ 
+
+612
+00:25:54,247 --> 00:25:56,238
+- Pourquoi?
+- Rien n'est sûr,
+
+613
+00:25:56,238 --> 00:25:56,327
+ 
+
+614
+00:25:56,327 --> 00:25:58,921
+mais c'est peut-être
+une chambre de stase.
+
+615
+00:25:58,921 --> 00:25:59,007
+ 
+
+616
+00:25:59,007 --> 00:26:03,239
+Le symbiote était sans doute vivant
+quand on l'a placé dans l'urne.
+
+617
+00:26:03,239 --> 00:26:03,847
+ 
+
+618
+00:26:03,847 --> 00:26:07,760
+ll s'est laissé retirer
+de son hôte et mettre en stase?
+
+619
+00:26:07,760 --> 00:26:07,847
+ 
+
+620
+00:26:07,847 --> 00:26:09,758
+ll n'a pas eu le choix.
+
+621
+00:26:09,758 --> 00:26:09,847
+ 
+
+622
+00:26:09,847 --> 00:26:13,078
+Le liquide de l'urne
+a des propriétés sédatives.
+
+623
+00:26:13,078 --> 00:26:13,167
+ 
+
+624
+00:26:13,167 --> 00:26:17,683
+Si on le maintient à la bonne
+température avec une charge suffisante,
+
+625
+00:26:17,683 --> 00:26:17,767
+ 
+
+626
+00:26:17,767 --> 00:26:20,565
+le symbiote peut
+rester en vie indéfiniment.
+
+627
+00:26:20,565 --> 00:26:20,647
+ 
+
+628
+00:26:20,647 --> 00:26:23,719
+- Pourquoi est-il mort?
+- Le couvercle a été brisé.
+
+629
+00:26:23,719 --> 00:26:23,807
+ 
+
+630
+00:26:23,807 --> 00:26:26,082
+Sans doute durant le transport.
+
+631
+00:26:26,082 --> 00:26:26,167
+ 
+
+632
+00:26:26,167 --> 00:26:30,126
+Si c'est vrai et qu'une seconde urne
+a résisté au voyage...
+
+633
+00:26:30,126 --> 00:26:30,207
+ 
+
+634
+00:26:30,207 --> 00:26:33,597
+Oui, mon général. ll pourrait
+y avoir un Goa'uld sur Terre.
+
+635
+00:26:33,597 --> 00:26:50,607
+ 
+
+636
+00:26:50,607 --> 00:26:52,598
+Daniel?
+
+637
+00:26:52,598 --> 00:26:53,287
+ 
+
+638
+00:26:53,287 --> 00:26:55,721
+Te voilà. Je t'ai cherché partout.
+
+639
+00:26:55,721 --> 00:26:55,807
+ 
+
+640
+00:26:55,807 --> 00:27:00,005
+- Je faisais un peu de recherche.
+- Steven est parti de chez lui.
+
+641
+00:27:00,005 --> 00:27:00,087
+ 
+
+642
+00:27:00,087 --> 00:27:03,557
+- ll a disparu avec toutes ses affaires.
+- Je sais.
+
+643
+00:27:03,557 --> 00:27:04,047
+ 
+
+644
+00:27:04,047 --> 00:27:07,119
+- Tu crois qu'il a volé l'amulette?
+- Oui.
+
+645
+00:27:07,119 --> 00:27:07,207
+ 
+
+646
+00:27:07,207 --> 00:27:09,960
+Pour t'empêcher de prouver tes théories?
+
+647
+00:27:09,960 --> 00:27:10,047
+ 
+
+648
+00:27:10,047 --> 00:27:12,515
+C'est possible. Je dois le retrouver.
+
+649
+00:27:12,515 --> 00:27:12,607
+ 
+
+650
+00:27:12,607 --> 00:27:16,520
+- Je viens avec toi.
+- Non. Non, c'est trop dangereux.
+
+651
+00:27:16,520 --> 00:27:17,247
+ 
+
+652
+00:27:17,247 --> 00:27:20,125
+C'est de Steven qu'il s'agit.
+
+653
+00:27:20,125 --> 00:27:20,207
+ 
+
+654
+00:27:20,207 --> 00:27:22,801
+Sarah, il y a déjà eu trois morts.
+
+655
+00:27:22,801 --> 00:27:22,887
+ 
+
+656
+00:27:22,887 --> 00:27:24,081
+Trois?
+
+657
+00:27:24,081 --> 00:27:24,167
+ 
+
+658
+00:27:24,167 --> 00:27:29,241
+lls ont retrouvé le corps du technicien
+qui a daté l'amulette au carbone.
+
+659
+00:27:29,241 --> 00:27:29,327
+ 
+
+660
+00:27:29,327 --> 00:27:32,239
+Daniel, je connais bien Steven.
+
+661
+00:27:32,239 --> 00:27:32,327
+ 
+
+662
+00:27:32,327 --> 00:27:35,319
+ll a ses défauts,
+mais ce n'est pas un assassin.
+
+663
+00:27:35,319 --> 00:27:35,407
+ 
+
+664
+00:27:35,407 --> 00:27:40,003
+Tu ne le connais peut-être pas si bien.
+Du moins, plus maintenant.
+
+665
+00:27:40,003 --> 00:27:40,687
+ 
+
+666
+00:27:40,687 --> 00:27:43,076
+Qu'est-ce que ça veut dire?
+
+667
+00:27:43,076 --> 00:27:45,047
+ 
+
+668
+00:27:45,047 --> 00:27:48,801
+Tu ne peux pas me le dire, c'est ça?
+Qu'est-ce que tu crois?
+
+669
+00:27:48,801 --> 00:27:48,887
+ 
+
+670
+00:27:48,887 --> 00:27:52,197
+Tu réapparais après cinq ans
+sans dire d'où tu viens.
+
+671
+00:27:52,197 --> 00:27:52,287
+ 
+
+672
+00:27:52,287 --> 00:27:56,519
+Tu es capable de lire une langue
+ancienne que personne ne connaît,
+
+673
+00:27:56,519 --> 00:27:56,607
+ 
+
+674
+00:27:56,607 --> 00:27:58,598
+et tu refuses de dire pourquoi.
+
+675
+00:27:58,598 --> 00:27:58,687
+ 
+
+676
+00:27:58,687 --> 00:28:01,042
+On a la preuve qui te réhabiliterait
+
+677
+00:28:01,042 --> 00:28:01,127
+ 
+
+678
+00:28:01,127 --> 00:28:05,279
+aux yeux de toute la communauté
+des archéologues, et tu la caches.
+
+679
+00:28:05,279 --> 00:28:05,367
+ 
+
+680
+00:28:05,367 --> 00:28:07,756
+Qu'est-ce qui se passe?
+
+681
+00:28:07,756 --> 00:28:12,047
+ 
+
+682
+00:28:12,047 --> 00:28:14,436
+- C'est moi, Daniel.
+- Je sais.
+
+683
+00:28:14,436 --> 00:28:17,087
+ 
+
+684
+00:28:17,087 --> 00:28:22,844
+Alors pourquoi tu ne me fais pas
+confiance? Où tu étais depuis cinq ans?
+
+685
+00:28:22,844 --> 00:28:22,927
+ 
+
+686
+00:28:22,927 --> 00:28:25,600
+Je voudrais pouvoir te le dire, Sarah.
+
+687
+00:28:25,600 --> 00:28:25,687
+ 
+
+688
+00:28:25,687 --> 00:28:28,076
+Vraiment. Crois-moi.
+
+689
+00:28:28,076 --> 00:28:29,167
+ 
+
+690
+00:28:29,167 --> 00:28:32,557
+J'aimerais que tu voies
+les choses que j'ai vues.
+
+691
+00:28:32,557 --> 00:28:34,247
+ 
+
+692
+00:28:34,247 --> 00:28:36,841
+Mais le monde n'est pas prêt à savoir.
+
+693
+00:28:36,841 --> 00:28:38,047
+ 
+
+694
+00:28:38,047 --> 00:28:40,720
+Pas encore.
+
+695
+00:28:40,720 --> 00:28:40,807
+ 
+
+696
+00:28:40,807 --> 00:28:43,719
+Je ne te demande pas
+de le dire au monde.
+
+697
+00:28:43,719 --> 00:28:43,807
+ 
+
+698
+00:28:43,807 --> 00:28:46,367
+Je te demande de me le dire à moi.
+
+699
+00:28:46,367 --> 00:28:47,007
+ 
+
+700
+00:28:47,007 --> 00:28:49,157
+C'est aussi le travail de ma vie.
+
+701
+00:28:49,157 --> 00:28:51,087
+ 
+
+702
+00:28:51,087 --> 00:28:54,284
+Tu travailles pour le gouvernement.
+C'est ça? Daniel.
+
+703
+00:28:54,284 --> 00:28:54,367
+ 
+
+704
+00:28:54,367 --> 00:28:56,483
+Je suis désolé.
+
+705
+00:28:56,483 --> 00:28:57,727
+ 
+
+706
+00:28:57,727 --> 00:29:00,878
+Tu vas encore disparaître, n'est-ce pas?
+
+707
+00:29:00,878 --> 00:29:00,967
+ 
+
+708
+00:29:00,967 --> 00:29:03,117
+Oui.
+
+709
+00:29:03,117 --> 00:29:04,087
+ 
+
+710
+00:29:04,087 --> 00:29:08,399
+Steven avait raison.
+Tu n'aurais jamais dû revenir.
+
+711
+00:29:08,399 --> 00:29:21,207
+ 
+
+712
+00:29:21,207 --> 00:29:24,324
+Steven Rayner serait
+possédé par un Goa'uld?
+
+713
+00:29:24,324 --> 00:29:24,407
+ 
+
+714
+00:29:24,407 --> 00:29:27,479
+- C'est probable.
+- Comment va-t-on le retrouver?
+
+715
+00:29:27,479 --> 00:29:27,567
+ 
+
+716
+00:29:27,567 --> 00:29:32,277
+Pour l'instant, on n'a qu'une piste.
+C'est l'amulette volée au Dr Jordan.
+
+717
+00:29:32,277 --> 00:29:32,367
+ 
+
+718
+00:29:32,367 --> 00:29:35,916
+Elle vaut une fortune,
+mais le Goa'uld doit se moquer
+
+719
+00:29:35,916 --> 00:29:36,007
+ 
+
+720
+00:29:36,007 --> 00:29:38,077
+de sa valeur monétaire.
+
+721
+00:29:38,077 --> 00:29:38,167
+ 
+
+722
+00:29:38,167 --> 00:29:40,556
+- Alors pourquoi la voler?
+- Bonne question.
+
+723
+00:29:40,556 --> 00:29:40,647
+ 
+
+724
+00:29:40,647 --> 00:29:45,084
+C'est une représentation d'Osiris.
+ll tient une houlette et un fléau.
+
+725
+00:29:45,084 --> 00:29:45,167
+ 
+
+726
+00:29:45,167 --> 00:29:49,240
+Au centre, on voit une croix ansée,
+symbole de l'immortalité.
+
+727
+00:29:49,240 --> 00:29:49,327
+ 
+
+728
+00:29:49,327 --> 00:29:53,445
+- Peut-être un instrument goa'uld?
+- C'est possible.
+
+729
+00:29:53,445 --> 00:29:53,527
+ 
+
+730
+00:29:53,527 --> 00:29:55,836
+ll n'a volé que cet article.
+
+731
+00:29:55,836 --> 00:29:55,927
+ 
+
+732
+00:29:55,927 --> 00:29:58,487
+J'ai cherché du naqahdah dans les autres,
+
+733
+00:29:58,487 --> 00:29:58,567
+ 
+
+734
+00:29:58,567 --> 00:30:02,765
+pour savoir si c'était des objets
+goa'ulds, mais il n'y en a pas.
+
+735
+00:30:02,765 --> 00:30:02,847
+ 
+
+736
+00:30:02,847 --> 00:30:05,361
+Si ce Goa'uld est Osiris, que veut-il?
+
+737
+00:30:05,361 --> 00:30:05,447
+ 
+
+738
+00:30:05,447 --> 00:30:09,759
+ll est hors du coup. ll ne sait pas
+ce qui est arrivé à Seth et à Râ.
+
+739
+00:30:09,759 --> 00:30:09,847
+ 
+
+740
+00:30:09,847 --> 00:30:12,600
+ll cherche peut-être l'urne d'lsis.
+
+741
+00:30:12,600 --> 00:30:12,687
+ 
+
+742
+00:30:12,687 --> 00:30:17,556
+- Ou un moyen de quitter la planète.
+- J'ai déjà mis la base en alerte.
+
+743
+00:30:17,556 --> 00:30:23,287
+ 
+
+744
+00:30:23,287 --> 00:30:25,755
+J'ai synthétisé le liquide de l'urne.
+
+745
+00:30:25,755 --> 00:30:25,847
+ 
+
+746
+00:30:25,847 --> 00:30:28,202
+ll agit comme un sédatif puissant.
+
+747
+00:30:28,202 --> 00:30:28,287
+ 
+
+748
+00:30:28,287 --> 00:30:31,563
+Une flèche doit suffire
+à assommer un Goa'uld adulte.
+
+749
+00:30:31,563 --> 00:30:31,647
+ 
+
+750
+00:30:31,647 --> 00:30:35,435
+- On le veut vivant?
+- Même s'il a longtemps été en stase,
+
+751
+00:30:35,435 --> 00:30:35,527
+ 
+
+752
+00:30:35,527 --> 00:30:37,882
+il peut nous apprendre beaucoup.
+
+753
+00:30:37,882 --> 00:30:37,967
+ 
+
+754
+00:30:37,967 --> 00:30:41,039
+Nous verrons.
+Votre priorité est de le capturer
+
+755
+00:30:41,039 --> 00:30:41,127
+ 
+
+756
+00:30:41,127 --> 00:30:43,721
+en prenant le minimum de risques.
+
+757
+00:30:43,721 --> 00:30:46,247
+ 
+
+758
+00:30:46,247 --> 00:30:47,726
+Fraiser.
+
+759
+00:30:47,726 --> 00:30:47,807
+ 
+
+760
+00:30:47,807 --> 00:30:49,798
+Oui, il est là. Mon général.
+
+761
+00:30:49,798 --> 00:30:51,967
+ 
+
+762
+00:30:51,967 --> 00:30:53,878
+Hammond.
+
+763
+00:30:53,878 --> 00:30:54,207
+ 
+
+764
+00:30:54,207 --> 00:30:56,482
+Oui.
+
+765
+00:30:56,482 --> 00:30:57,007
+ 
+
+766
+00:30:57,007 --> 00:30:59,396
+Très bien. Merci.
+
+767
+00:30:59,396 --> 00:30:59,927
+ 
+
+768
+00:30:59,927 --> 00:31:03,397
+On a retrouvé la trace
+de Steven Rayner. ll va au Caire.
+
+769
+00:31:03,397 --> 00:31:03,487
+ 
+
+770
+00:31:03,487 --> 00:31:07,480
+Au temple où les urnes
+ont été découvertes. On peut l'intercepter.
+
+771
+00:31:07,480 --> 00:31:07,567
+ 
+
+772
+00:31:07,567 --> 00:31:11,162
+J'alerte les autorités
+égyptiennes, mais soyez discrets.
+
+773
+00:31:11,162 --> 00:31:11,247
+ 
+
+774
+00:31:11,247 --> 00:31:13,442
+Le Dr Fraiser vous accompagnera.
+
+775
+00:31:13,442 --> 00:31:50,407
+ 
+
+776
+00:31:50,407 --> 00:31:54,559
+Je crois que je comprends
+pourquoi il n'y a pas de touristes ici.
+
+777
+00:31:54,559 --> 00:31:54,647
+ 
+
+778
+00:31:54,647 --> 00:31:58,640
+Selon le GPS,
+on a encore 16 km à parcourir.
+
+779
+00:31:58,640 --> 00:35:07,167
+ 
+
+780
+00:35:07,167 --> 00:35:09,158
+Steven.
+
+781
+00:35:09,158 --> 00:35:13,167
+ 
+
+782
+00:35:13,167 --> 00:35:16,318
+Je ne sens rien. Ce n'est pas un Goa'uld.
+
+783
+00:35:16,318 --> 00:35:23,647
+ 
+
+784
+00:35:23,647 --> 00:35:25,524
+Steven.
+
+785
+00:35:25,524 --> 00:35:25,607
+ 
+
+786
+00:35:25,607 --> 00:35:29,077
+- ll a une hémorragie interne.
+- Steven, c'est moi.
+
+787
+00:35:29,077 --> 00:35:29,167
+ 
+
+788
+00:35:29,167 --> 00:35:31,078
+Daniel.
+
+789
+00:35:31,078 --> 00:35:31,407
+ 
+
+790
+00:35:31,407 --> 00:35:33,796
+Qu'est-ce qui s'est passé?
+
+791
+00:35:33,796 --> 00:35:34,487
+ 
+
+792
+00:35:34,487 --> 00:35:38,116
+J'ai pris l'amulette.
+Elle a plus de 10 000 ans,
+
+793
+00:35:38,116 --> 00:35:38,207
+ 
+
+794
+00:35:38,207 --> 00:35:41,961
+tu avais raison depuis le début.
+Je te demande pardon.
+
+795
+00:35:41,961 --> 00:35:45,127
+ 
+
+796
+00:35:45,127 --> 00:35:48,324
+Calmez-vous, d'accord?
+Vous devez rester tranquille.
+
+797
+00:35:48,324 --> 00:35:48,407
+ 
+
+798
+00:35:48,407 --> 00:35:50,443
+Tout va bien. C'est une amie.
+
+799
+00:35:50,443 --> 00:35:50,527
+ 
+
+800
+00:35:50,527 --> 00:35:52,518
+Et l'urne?
+
+801
+00:35:52,518 --> 00:35:53,487
+ 
+
+802
+00:35:53,487 --> 00:35:55,637
+L'urne d'Osiris. Tu l'as ouverte?
+
+803
+00:35:55,637 --> 00:35:56,407
+ 
+
+804
+00:35:56,407 --> 00:35:58,398
+Non.
+
+805
+00:35:58,398 --> 00:36:00,127
+ 
+
+806
+00:36:00,127 --> 00:36:02,322
+Pourquoi es-tu venu ici?
+
+807
+00:36:02,322 --> 00:36:02,407
+ 
+
+808
+00:36:02,407 --> 00:36:05,365
+J'ai compris que l'amulette était une clé.
+
+809
+00:36:05,365 --> 00:36:05,447
+ 
+
+810
+00:36:05,447 --> 00:36:07,642
+ll y a une salle secrète.
+
+811
+00:36:07,642 --> 00:36:07,727
+ 
+
+812
+00:36:07,727 --> 00:36:10,116
+Je voulais faire cette découverte.
+
+813
+00:36:10,116 --> 00:36:11,447
+ 
+
+814
+00:36:11,447 --> 00:36:16,043
+- ll faut qu'on le sorte de là.
+- Steven, qui t'a fait ça?
+
+815
+00:36:16,043 --> 00:36:20,447
+ 
+
+816
+00:36:20,447 --> 00:36:22,403
+C'est moi.
+
+817
+00:36:22,403 --> 00:36:23,927
+ 
+
+818
+00:36:23,927 --> 00:36:25,918
+Sarah?
+
+819
+00:36:25,918 --> 00:36:43,967
+ 
+
+820
+00:36:43,967 --> 00:36:45,958
+Daniel Jackson.
+
+821
+00:36:45,958 --> 00:36:47,127
+ 
+
+822
+00:36:47,127 --> 00:36:49,687
+Tu en sais beaucoup sur les Goa'ulds.
+
+823
+00:36:49,687 --> 00:36:49,767
+ 
+
+824
+00:36:49,767 --> 00:36:53,965
+Bien plus que tous les humains
+que j'ai vus depuis mon réveil.
+
+825
+00:36:53,965 --> 00:36:54,047
+ 
+
+826
+00:36:54,047 --> 00:37:00,759
+Alors, dis-moi, où est le Stargate?
+
+827
+00:37:00,759 --> 00:37:02,007
+ 
+
+828
+00:37:02,007 --> 00:37:04,396
+Je ne sais pas de quoi vous parlez.
+
+829
+00:37:04,396 --> 00:37:07,287
+ 
+
+830
+00:37:07,287 --> 00:37:09,278
+Quelle insolence.
+
+831
+00:37:09,278 --> 00:37:15,847
+ 
+
+832
+00:37:15,847 --> 00:37:18,839
+Autrefois, ce temple
+était rempli de fidèles.
+
+833
+00:37:18,839 --> 00:37:18,927
+ 
+
+834
+00:37:18,927 --> 00:37:22,840
+- Oui, les temps ont changé.
+- Je l'ai remarqué.
+
+835
+00:37:22,840 --> 00:37:23,247
+ 
+
+836
+00:37:23,247 --> 00:37:25,681
+Où est mon frère Setekh?
+
+837
+00:37:25,681 --> 00:37:25,767
+ 
+
+838
+00:37:25,767 --> 00:37:28,361
+Vous voulez dire Seth?
+
+839
+00:37:28,361 --> 00:37:28,447
+ 
+
+840
+00:37:28,447 --> 00:37:31,996
+ll est mort. Nous... nous l'avons tué.
+
+841
+00:37:31,996 --> 00:37:32,847
+ 
+
+842
+00:37:32,847 --> 00:37:35,042
+- Tu mens.
+- Non.
+
+843
+00:37:35,042 --> 00:37:35,127
+ 
+
+844
+00:37:35,127 --> 00:37:39,837
+Non, nous avons aussi tué
+Râ et Hathor, et qui d'autre, déjà?
+
+845
+00:37:39,837 --> 00:37:39,927
+ 
+
+846
+00:37:39,927 --> 00:37:41,997
+Sokar.
+
+847
+00:37:41,997 --> 00:37:42,087
+ 
+
+848
+00:37:42,087 --> 00:37:44,920
+Alors vous m'avez rendu
+un grand service.
+
+849
+00:37:44,920 --> 00:37:45,007
+ 
+
+850
+00:37:45,007 --> 00:37:47,316
+Je régnerai sans opposants.
+
+851
+00:37:47,316 --> 00:37:47,407
+ 
+
+852
+00:37:47,407 --> 00:37:51,958
+Non, vous ne régnerez pas. On n'adore
+plus les faux dieux, maintenant.
+
+853
+00:37:51,958 --> 00:37:52,047
+ 
+
+854
+00:37:52,047 --> 00:37:54,322
+Vous avez fait du chemin, certes.
+
+855
+00:37:54,322 --> 00:37:54,407
+ 
+
+856
+00:37:54,407 --> 00:37:56,557
+Mais vous êtes encore faibles.
+
+857
+00:37:56,557 --> 00:37:56,647
+ 
+
+858
+00:37:56,647 --> 00:38:00,765
+En ce moment même,
+tu es déchiré entre ton désir de me tuer
+
+859
+00:38:00,765 --> 00:38:00,847
+ 
+
+860
+00:38:00,847 --> 00:38:03,042
+et ton inquiétude pour mon hôte,
+
+861
+00:38:03,042 --> 00:38:04,327
+ 
+
+862
+00:38:04,327 --> 00:38:07,125
+celle qui m'a libéré de mon long sommeil.
+
+863
+00:38:07,125 --> 00:38:11,207
+ 
+
+864
+00:38:11,207 --> 00:38:13,243
+Que sais-tu sur ma reine?
+
+865
+00:38:13,243 --> 00:38:19,967
+ 
+
+866
+00:38:19,967 --> 00:38:22,242
+Elle a été enfermée comme vous.
+
+867
+00:38:22,242 --> 00:38:23,127
+ 
+
+868
+00:38:23,127 --> 00:38:25,243
+Nous avons son urne.
+
+869
+00:38:25,243 --> 00:38:25,327
+ 
+
+870
+00:38:25,327 --> 00:38:27,921
+Où est-elle?
+
+871
+00:38:27,921 --> 00:38:28,007
+ 
+
+872
+00:38:28,007 --> 00:38:29,998
+Je ne vous le dirai pas.
+
+873
+00:38:29,998 --> 00:38:30,087
+ 
+
+874
+00:38:30,087 --> 00:38:32,317
+Tu te trompes.
+
+875
+00:38:32,317 --> 00:38:39,767
+ 
+
+876
+00:38:39,767 --> 00:38:42,042
+Où est ma reine?
+
+877
+00:38:42,042 --> 00:38:46,127
+ 
+
+878
+00:38:46,127 --> 00:38:48,118
+Dis-le moi.
+
+879
+00:38:48,118 --> 00:38:54,687
+ 
+
+880
+00:38:54,687 --> 00:38:56,996
+Qu'est-ce que c'est?
+
+881
+00:38:56,996 --> 00:38:57,087
+ 
+
+882
+00:38:57,087 --> 00:38:59,476
+Qu'as-tu fait là?
+
+883
+00:38:59,476 --> 00:39:02,407
+ 
+
+884
+00:39:02,407 --> 00:39:05,205
+Cette impudence te coûtera cher.
+
+885
+00:39:05,205 --> 00:40:00,127
+ 
+
+886
+00:40:00,127 --> 00:40:04,359
+Prenez garde, Osiris reviendra,
+
+887
+00:40:04,359 --> 00:40:05,647
+ 
+
+888
+00:40:05,647 --> 00:40:09,640
+et les fleuves de la Terre
+seront rouges du sang de ses victimes.
+
+889
+00:40:09,640 --> 00:40:37,447
+ 
+
+890
+00:40:37,447 --> 00:40:39,677
+- ça va?
+- Oh, oui.
+
+891
+00:40:39,677 --> 00:40:39,767
+ 
+
+892
+00:40:39,767 --> 00:40:42,235
+Je crois que je m'habitue à ce truc.
+
+893
+00:40:42,235 --> 00:40:42,327
+ 
+
+894
+00:40:42,327 --> 00:40:45,524
+- Où est Osiris?
+- ll s'est échappé.
+
+895
+00:40:45,524 --> 00:40:46,727
+ 
+
+896
+00:40:46,727 --> 00:40:48,718
+Et Steven?
+
+897
+00:40:48,718 --> 00:40:49,567
+ 
+
+898
+00:40:49,567 --> 00:40:53,719
+Si on le sort de là tout de suite,
+je crois qu'il s'en sortira.
+
+899
+00:40:53,719 --> 00:40:53,807
+ 
+
+900
+00:40:53,807 --> 00:40:58,198
+En attendant, il faut qu'on trouve
+une histoire à lui raconter.

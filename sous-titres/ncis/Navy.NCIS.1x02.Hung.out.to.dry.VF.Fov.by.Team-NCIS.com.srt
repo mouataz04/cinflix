@@ -1,0 +1,3805 @@
+1
+00:00:00,688 --> 00:00:01,562
+Jimmy...
+
+2
+00:00:02,899 --> 00:00:03,811
+Jimmy...
+
+3
+00:00:04,788 --> 00:00:07,086
+Arrête ! J'ai dit non !
+
+4
+00:00:08,602 --> 00:00:09,405
+Bon sang !
+
+5
+00:00:09,406 --> 00:00:12,038
+Hé, J'ai posé mon cul dans un bus défoncé
+
+6
+00:00:12,039 --> 00:00:13,957
+pendant trois heures pour
+m'envoyer en l'air avec toi.
+
+7
+00:00:13,958 --> 00:00:15,739
+Si tu es seulement venu
+pour t'envoyer en l'air avec moi
+
+8
+00:00:15,740 --> 00:00:18,462
+tu aurais mieux fait de
+rester à Charlottes ville.
+
+9
+00:00:18,463 --> 00:00:19,533
+Allez.
+
+10
+00:00:20,864 --> 00:00:23,086
+Tu sais que je t'aime.
+
+11
+00:00:25,675 --> 00:00:27,223
+- Viens là. Allez.
+- Jimmy...
+
+12
+00:00:27,224 --> 00:00:28,933
+Allez, Allez, Allez.
+
+13
+00:00:28,934 --> 00:00:29,767
+Arrête !
+
+14
+00:00:29,870 --> 00:00:32,226
+Arrête ou je hurle !
+
+15
+00:00:44,007 --> 00:00:47,710
+Navy NCIS 1x02
+{\b1}Hung out to dry{\b0}
+
+16
+00:00:48,038 --> 00:00:51,821
+{\a5}{\u1}Adaptation:{\u0}
+Arcarum
+
+17
+00:00:54,162 --> 00:00:57,733
+{\a5}{\u1}Relecture:{\u0}
+BadGOne
+
+18
+00:01:09,434 --> 00:01:17,711
+www.team-ncis.com
+www.forom.com
+
+19
+00:01:25,684 --> 00:01:27,467
+Tu ne fermes jamais la porte ?
+
+20
+00:01:28,968 --> 00:01:30,023
+non.
+
+21
+00:01:30,289 --> 00:01:31,574
+J'ai reçu un appel.
+Quantico.
+
+22
+00:01:31,575 --> 00:01:33,740
+Un marine est mort durant un exercice.
+
+23
+00:01:33,741 --> 00:01:34,965
+Comment ?
+
+24
+00:01:35,150 --> 00:01:36,562
+Entraînement au saut nocturne.
+
+25
+00:01:36,563 --> 00:01:38,738
+Le parachute du type
+ne s'est pas ouvert.
+
+26
+00:01:39,927 --> 00:01:41,679
+Est-ce un bateau ?
+
+27
+00:01:44,359 --> 00:01:47,047
+Le parachute ventral ne s'est-il
+pas ouvert également ?
+
+28
+00:01:47,048 --> 00:01:48,349
+Je ne sais pas.
+
+29
+00:01:49,501 --> 00:01:52,035
+Ah, j'ai essayé sur ton portable.
+
+30
+00:01:52,036 --> 00:01:54,063
+J'ai essayé ton fixe, aussi.
+
+31
+00:01:53,966 --> 00:01:54,285
+
+
+32
+00:01:55,031 --> 00:01:56,541
+Ne pose pas de question.
+
+33
+00:01:56,981 --> 00:01:59,100
+Tu sais, mon père m'a offert une ponceuse
+électrique pour mon anniversaire.
+
+34
+00:01:59,101 --> 00:02:02,096
+Je ne m'en sers pas beaucoup.
+Tu peux t'en servir.
+
+35
+00:02:02,097 --> 00:02:03,832
+Outre cette ampoule électrique là,
+
+36
+00:02:03,833 --> 00:02:05,335
+et une prise à laquelle est branchée
+cette stupide radio,
+
+37
+00:02:05,336 --> 00:02:07,771
+Vois-tu un câble électrique
+dans le coin ?
+
+38
+00:02:10,231 --> 00:02:12,325
+Tu te sers de d'outils manuels,
+hein ?
+
+39
+00:02:13,103 --> 00:02:14,803
+Je me sers de mes mains.
+
+40
+00:02:14,804 --> 00:02:16,846
+- As-tu appelé Ducky ?
+- Pas encore.
+
+41
+00:02:16,847 --> 00:02:18,690
+Donne-moi ton portable.
+
+42
+00:02:22,995 --> 00:02:24,363
+Tu viens, Dinozzo ?
+
+43
+00:02:24,364 --> 00:02:25,680
+Il est bizarre.
+
+44
+00:02:26,065 --> 00:02:26,904
+Ouais.
+
+45
+00:02:27,437 --> 00:02:30,013
+J'éteins... la lumière.
+
+46
+00:02:41,094 --> 00:02:42,987
+Il a empalé un 4x4 ?
+
+47
+00:02:42,988 --> 00:02:44,907
+On aurait dit qu'il était guidé
+par laser, Monsieur.
+
+48
+00:02:44,908 --> 00:02:46,291
+Où sont les autres parachutistes ?
+
+49
+00:02:46,292 --> 00:02:48,137
+Ici, Monsieur.
+Ils ont atterri dans la zone de saut.
+
+50
+00:02:48,138 --> 00:02:49,731
+A 400 mètres au nord de la route.
+
+51
+00:02:49,732 --> 00:02:51,575
+- 1 seul peloton.
+- Oui, Monsieur.
+
+52
+00:02:51,576 --> 00:02:53,336
+Je suppose que le chef de saut
+a rappelé les autres
+
+53
+00:02:53,337 --> 00:02:55,112
+lorsque le parachute de la victime
+ne s'est pas ouvert.
+
+54
+00:02:55,113 --> 00:02:57,673
+- Avez-vous protégé le hangar et l'avion ?
+- Oui, Monsieur.
+
+55
+00:02:57,674 --> 00:03:00,151
+J'ai sous surveillance dans le hangar
+les marines qui n'ont pas sauté.
+
+56
+00:03:00,152 --> 00:03:01,497
+Oui, mettez-les avec les autres.
+
+57
+00:03:01,498 --> 00:03:02,644
+Ne les séparons pas.
+
+58
+00:03:02,645 --> 00:03:04,196
+- Oui, Monsieur.
+- Oh, mon dieu.
+
+59
+00:03:04,197 --> 00:03:05,721
+- Ce sont les témoins ?
+- Oui, Monsieur.
+
+60
+00:03:05,722 --> 00:03:06,496
+Mon père va me tuer.
+
+61
+00:03:06,497 --> 00:03:09,732
+Il est en service, et il ne
+sait pas que j'ai pris son 4x4.
+
+62
+00:03:09,733 --> 00:03:10,838
+Vous avez dit que votre père est un marine ?
+
+63
+00:03:10,839 --> 00:03:11,650
+Oui, Monsieur.
+
+64
+00:03:11,651 --> 00:03:15,356
+Adjudant chef Tom Shaefer, Monsieur.
+Il est instructeur à Quantico.
+
+65
+00:03:15,357 --> 00:03:16,661
+Votre père est marine également ?
+
+66
+00:03:16,662 --> 00:03:18,079
+Pas du tout.
+
+67
+00:03:18,424 --> 00:03:20,696
+Vous, vous avez froid, Sarah ?
+
+68
+00:03:20,697 --> 00:03:21,808
+un peu.
+
+69
+00:03:23,343 --> 00:03:24,520
+Comment allez-vous ?
+
+70
+00:03:25,433 --> 00:03:26,263
+Hé.
+
+71
+00:03:26,598 --> 00:03:27,776
+Merci.
+
+72
+00:03:28,360 --> 00:03:29,444
+Voilà.
+
+73
+00:03:30,793 --> 00:03:32,286
+Agent spécial Gibbs.
+
+74
+00:03:32,287 --> 00:03:35,041
+Agent spécial Dinozzo.
+NCIS.
+
+75
+00:03:36,977 --> 00:03:38,353
+Vous voulez nous dire ce qu'il s'est passé ?
+
+76
+00:03:38,354 --> 00:03:40,438
+Nous étions... arrêtés, et...
+
+77
+00:03:40,439 --> 00:03:43,073
+<i>On traînait en écoutant du
+Dashboard confessional.</i>
+
+78
+00:03:43,074 --> 00:03:44,394
+Quoi ?
+
+79
+00:03:44,800 --> 00:03:46,128
+Emo.
+
+80
+00:03:46,129 --> 00:03:47,343
+Emo ?
+
+81
+00:03:47,344 --> 00:03:48,944
+De la musique émotionnelle.
+
+82
+00:03:48,945 --> 00:03:50,430
+Tu devrais t'acheter une radio, Gibbs.
+
+83
+00:03:50,431 --> 00:03:53,475
+Bien, alors vous écoutiez
+de la musique et... ?
+
+84
+00:03:53,476 --> 00:03:54,873
+Il a traversé le plafond.
+
+85
+00:03:54,874 --> 00:03:56,398
+Et boum, du sang partout.
+
+86
+00:03:56,399 --> 00:03:58,242
+J'ai hurlé et on a couru
+pour chercher de l'aide.
+
+87
+00:03:58,243 --> 00:04:00,827
+Je les ai rencontrés environ 1km en me rendant sur place.
+
+88
+00:04:00,828 --> 00:04:03,341
+Je me suis senti mal de le laisser là.
+
+89
+00:04:03,546 --> 00:04:04,595
+Il était en vie ?
+
+90
+00:04:04,596 --> 00:04:07,135
+- Je l'ai entendu gémir.
+- C'était le râle d'un mourant.
+
+91
+00:04:07,136 --> 00:04:08,517
+Avez-vous déjà entendu un râle ?
+
+92
+00:04:08,518 --> 00:04:10,092
+C'était juste une image.
+
+93
+00:04:10,093 --> 00:04:11,720
+- Un quoi ?
+- Une image.
+
+94
+00:04:11,721 --> 00:04:13,720
+Une figure de style ou une...
+
+95
+00:04:13,721 --> 00:04:14,984
+expression.
+
+96
+00:04:14,985 --> 00:04:16,234
+Appelle son père.
+
+97
+00:04:16,235 --> 00:04:17,918
+Qu'il passe la prendre.
+
+98
+00:04:17,919 --> 00:04:19,761
+Cela signifie t-il que je peux partir ?
+
+99
+00:04:19,944 --> 00:04:22,167
+Pas avant que l'Adjudant Chef arrive ici.
+
+100
+00:04:22,168 --> 00:04:25,299
+Je suis certain qu'il aura une ou deux images pour vous.
+
+101
+00:04:27,037 --> 00:04:27,900
+Ducky est là.
+
+102
+00:04:27,901 --> 00:04:30,440
+Ouais, et sur une échelle.
+Je vais chercher le pied à photo.
+
+103
+00:04:30,441 --> 00:04:33,813
+Là dernière fois que j'étais si haut perché,
+je pendais une piñata
+
+104
+00:04:33,814 --> 00:04:36,128
+à la fête d'anniversaire
+de mon neveu.
+
+105
+00:04:36,129 --> 00:04:37,750
+Qu'est-ce qu'on a, Duck ?
+
+106
+00:04:38,851 --> 00:04:41,349
+Des abrasions.
+
+107
+00:04:42,677 --> 00:04:44,779
+L'arbre a dû le ralentir un peu.
+
+108
+00:04:44,780 --> 00:04:48,235
+Une décoloration violette.
+Je dirais que le cou est brisé.
+
+109
+00:04:48,236 --> 00:04:50,538
+C'est très surprenant compte tenu
+de la descente rapide
+
+110
+00:04:50,539 --> 00:04:53,037
+suivie d'une décélération toute
+aussi rapide.
+
+111
+00:04:53,072 --> 00:04:57,175
+Les témoins présents affirment
+qu'il a gémit après avoir décéléré.
+
+112
+00:04:57,176 --> 00:05:00,716
+C'est possible. Je n'en saurais pas plus
+avant d'avoir réalisé l'autopsie.
+
+113
+00:05:03,995 --> 00:05:06,417
+Il semblerait qu'un certain nombre
+de suspentes aient lâché.
+
+114
+00:05:06,418 --> 00:05:08,158
+Suffisamment pour que...
+
+115
+00:05:08,159 --> 00:05:10,066
+la voilure ne prenne plus l'air, s'enroule,
+
+116
+00:05:10,067 --> 00:05:11,868
+et vous tombez en torche.
+
+117
+00:05:11,869 --> 00:05:13,194
+Sont-elles sectionnées ?
+
+118
+00:05:13,390 --> 00:05:15,226
+Non. Elles semblent usées.
+
+119
+00:05:15,407 --> 00:05:17,562
+Il porte toujours son ventral.
+
+120
+00:05:17,563 --> 00:05:20,072
+- Pourquoi ne l'a-t-il pas actionné ?
+- Hé, regardes qui j'ai trouvé.
+
+121
+00:05:20,073 --> 00:05:21,683
+La Police Militaire ne voulait pas la laisser passer.
+
+122
+00:05:21,684 --> 00:05:26,035
+J'ai mon Sig Sauer et mon badge mais le
+QG n'a pas encore ma photo d'identité.
+
+123
+00:05:27,497 --> 00:05:28,723
+Bon sang.
+
+124
+00:05:29,333 --> 00:05:30,587
+C'est réel ?
+
+125
+00:05:30,588 --> 00:05:33,683
+Malheureusement, ma chère, ça l'est.
+
+126
+00:05:33,684 --> 00:05:34,824
+Mets-les.
+
+127
+00:05:34,825 --> 00:05:38,285
+Ta première scène de crime
+avec nous, Caitlin.
+
+128
+00:05:38,286 --> 00:05:39,971
+Et pour Air Force One ?
+
+129
+00:05:39,972 --> 00:05:42,400
+Cela ne compte pas. Tu faisais
+partie des Services Secrets.
+
+130
+00:05:42,401 --> 00:05:46,358
+Hé, Tony, prends une photo
+de groupe pour la postérité.
+
+131
+00:05:46,359 --> 00:05:48,338
+Oublie la postérité.
+
+132
+00:05:48,339 --> 00:05:50,688
+Le soleil va se lever sous peu.
+
+133
+00:05:50,904 --> 00:05:52,967
+Bienvenue au NCIS.
+
+134
+00:05:57,032 --> 00:05:59,036
+Comment connais-tu ma pointure ?
+
+135
+00:06:01,539 --> 00:06:02,660
+Mets-les.
+
+136
+00:06:02,661 --> 00:06:04,748
+On ne travail pas sur le terrain
+en talons hauts.
+
+137
+00:06:07,037 --> 00:06:09,357
+Tout dépend du genre de travail
+que l'on exerce.
+
+138
+00:06:09,556 --> 00:06:13,586
+Ton esprit, Dinozzo, passe rapidement
+du X au triple X.
+
+139
+00:06:13,587 --> 00:06:14,528
+Ouais.
+
+140
+00:06:14,529 --> 00:06:16,359
+Les photos, Tony.
+
+141
+00:06:16,360 --> 00:06:17,162
+Ouais.
+
+142
+00:06:17,901 --> 00:06:19,878
+- Ducky ?
+- Hein ?
+
+143
+00:06:19,879 --> 00:06:21,843
+Pourquoi Gibbs couperait-il son fixe
+
+144
+00:06:21,844 --> 00:06:25,193
+et plongerait t-il son portable
+dans un pot de diluant ?
+
+145
+00:06:25,194 --> 00:06:26,548
+Oh, bon sang.
+
+146
+00:06:26,549 --> 00:06:27,373
+Quoi ?
+
+147
+00:06:27,374 --> 00:06:30,403
+J'aurais du me rendre compte de
+la date.
+
+148
+00:06:31,168 --> 00:06:33,384
+C'est son anniversaire.
+
+149
+00:06:33,385 --> 00:06:34,248
+Quel mariage ?
+
+150
+00:06:34,249 --> 00:06:36,296
+Le dernier, bien sûr.
+
+151
+00:06:36,486 --> 00:06:38,149
+N'est-ce pas toujours le cas ?
+
+152
+00:06:45,725 --> 00:06:46,782
+Ducky...
+
+153
+00:06:48,234 --> 00:06:49,698
+Je ne te suis pas.
+
+154
+00:06:49,699 --> 00:06:54,054
+Chaque année, l'ex-femme n°3
+se saoule pour leur anniversaire
+
+155
+00:06:54,055 --> 00:06:55,534
+puis l'appel.
+
+156
+00:06:55,535 --> 00:06:57,582
+Instamment.
+
+157
+00:06:57,808 --> 00:06:59,124
+Pourquoi ne, euh...
+
+158
+00:06:59,125 --> 00:07:00,700
+change t-il pas son numéro ?
+
+159
+00:07:00,701 --> 00:07:02,369
+Je ne sais pas.
+
+160
+00:07:02,611 --> 00:07:03,934
+Au cas où tu ne l'aurais pas remarqué,
+
+161
+00:07:03,935 --> 00:07:08,855
+Gibbs est plus un homme de mystères
+que de questions.
+
+162
+00:07:13,628 --> 00:07:15,004
+Merci, Dinozzo.
+
+163
+00:07:15,548 --> 00:07:19,432
+Hé, tu pourrais être la pine up
+du NCIS dans cet accoutrement.
+
+164
+00:07:29,715 --> 00:07:32,028
+Vous êtes du JAG ou du NCIS ?
+
+165
+00:07:32,536 --> 00:07:34,168
+Est-ce que je ressemble à un avocat ?
+
+166
+00:07:34,169 --> 00:07:35,797
+La rumeur court dans toute
+la base maintenant.
+
+167
+00:07:35,798 --> 00:07:37,261
+Mes hommes ne peuvent même
+pas appeler leur famille
+
+168
+00:07:37,262 --> 00:07:40,128
+et leur faire savoir qu'ils ne
+sont pas celui qui est mort.
+
+169
+00:07:40,129 --> 00:07:42,162
+Le sergent Fuentes était-il marié ?
+
+170
+00:07:42,163 --> 00:07:44,162
+Il avait une femme et un fils.
+
+171
+00:07:44,532 --> 00:07:47,180
+La prévauté a dors et déjà du les prévenir.
+
+172
+00:07:47,181 --> 00:07:48,628
+La rumeur dira qui a été tué.
+
+173
+00:07:48,629 --> 00:07:50,943
+Le Sergent Fuentes était
+sous mon commandement.
+
+174
+00:07:50,944 --> 00:07:51,920
+Je préfèrerais la voir.
+
+175
+00:07:51,921 --> 00:07:54,731
+Après que nous vous ayons interrogé vous et vos hommes.
+
+176
+00:07:54,732 --> 00:07:57,797
+- Combien de temps cela prendra t-il ?
+- Je ne sais pas.
+
+177
+00:07:57,798 --> 00:07:59,800
+Ces hommes ont un autre saut à 21h.
+
+178
+00:07:59,801 --> 00:08:01,167
+Ils sautent de nouveau ce soir ?
+
+179
+00:08:01,168 --> 00:08:03,573
+On s'arrête pas pendant une guerre s'il y a des pertes, M'dame.
+
+180
+00:08:03,574 --> 00:08:06,227
+- Il en est de même pour l'entraînement.
+- Faux, Capitaine.
+
+181
+00:08:06,228 --> 00:08:09,964
+Ils ne sauteront pas de leur couchette tant
+que nous ne saurons pas ce qui s'est passé.
+
+182
+00:08:09,965 --> 00:08:12,524
+Je ne reçois pas d'ordre
+des flics du NCIS.
+
+183
+00:08:12,525 --> 00:08:14,331
+Agents spéciaux.
+
+184
+00:08:14,511 --> 00:08:16,000
+Et vous suivrez cet ordre.
+
+185
+00:08:16,001 --> 00:08:18,161
+Sinon quoi, agent spécial ?
+
+186
+00:08:19,723 --> 00:08:21,576
+Je ne reçois pas non plus d'ordres de vos supérieurs.
+
+187
+00:08:21,577 --> 00:08:23,552
+Je n'appelle pas mon patron.
+
+188
+00:08:23,553 --> 00:08:25,394
+J'appelle le vôtre.
+
+189
+00:08:26,788 --> 00:08:28,482
+Capitaine de Frégate May ?
+
+190
+00:08:29,072 --> 00:08:32,338
+Agent spécial Gibbs, NCIS.
+
+191
+00:08:34,540 --> 00:08:36,884
+Je n'ai pas de Capitaine de frégate du
+corps des marines dans mon répertoire.
+
+192
+00:08:36,885 --> 00:08:38,758
+Le Capitaine ne le sait pas.
+
+193
+00:08:39,149 --> 00:08:41,124
+Très bien, Dinozzo,
+photographie et dessine.
+
+194
+00:08:41,125 --> 00:08:45,165
+Et plus particulièrement les suspentes.
+Kate et moi commençons les interrogatoires.
+
+195
+00:08:45,551 --> 00:08:47,132
+Sauter doit être si cool.
+
+196
+00:08:47,133 --> 00:08:49,063
+Hé, tu veux jouer les paras ?
+
+197
+00:08:49,064 --> 00:08:54,513
+Paie $180, prends des cours,
+comme tous ces guerriers du dimanche.
+
+198
+00:08:54,514 --> 00:08:57,285
+Ouais, j'ai tellement de
+week-ends de libre.
+
+199
+00:09:01,971 --> 00:09:03,712
+Le sergent Fuentes dirigeait votre peloton ?
+
+200
+00:09:03,713 --> 00:09:04,555
+Oui, Monsieur.
+
+201
+00:09:04,556 --> 00:09:07,142
+J'étais n°2, Ramsey était 3,
+Brinkman 4.
+
+202
+00:09:07,143 --> 00:09:08,734
+Premier peloton, levez-vous !
+
+203
+00:09:08,735 --> 00:09:10,300
+Fuentes, soyez précis.
+
+204
+00:09:10,618 --> 00:09:13,593
+Dafelmair, Ramsey, Brinkman.
+
+205
+00:09:13,594 --> 00:09:15,375
+- Restez serrés.
+- Oui, oui, Monsieur.
+
+206
+00:09:15,376 --> 00:09:16,399
+Attendez.
+
+207
+00:09:16,835 --> 00:09:17,680
+Go !
+
+208
+00:09:18,379 --> 00:09:20,118
+Go ! Go !
+
+209
+00:09:20,119 --> 00:09:22,423
+Après que mon parachute se soit
+ouvert, j'ai regardé autour de moi.
+
+210
+00:09:22,424 --> 00:09:24,547
+J'ai vu le parachute de Brinkman
+s'ouvrir au-dessus de moi.
+
+211
+00:09:24,548 --> 00:09:25,796
+Quand j'ai regardé en bas,
+
+212
+00:09:25,797 --> 00:09:28,145
+je n'ai aperçu qu'une seule
+voilure ouverte.
+
+213
+00:09:28,331 --> 00:09:30,957
+Je ne sais pas s'il s'agissait de
+Paul ou Thumper.
+
+214
+00:09:30,958 --> 00:09:33,992
+- Thumper ?
+- C'est ainsi que nous nommions Fuentes, M'dame.
+
+215
+00:09:33,993 --> 00:09:37,014
+Cela semble idiot maintenant, mais il
+était le veinard de l'escouade, m'dame.
+
+216
+00:09:37,015 --> 00:09:38,545
+Il était une patte de lapin vivante.
+
+217
+00:09:38,545 --> 00:09:38,546
+[*] "Thumper" nom originale de "Panpan" le lapin dans Bambis.
+
+218
+00:09:38,546 --> 00:09:39,481
+Thumper* !
+
+219
+00:09:39,482 --> 00:09:40,582
+Oui, m'dame.
+
+220
+00:09:40,583 --> 00:09:42,809
+Il semblait toujours éviter les balles.
+
+221
+00:09:42,810 --> 00:09:44,422
+On pourrait vous raconter
+un million d'histoires.
+
+222
+00:09:44,423 --> 00:09:46,327
+Pourquoi ne pas nous
+en raconter une seule ?
+
+223
+00:09:46,328 --> 00:09:47,284
+Bien, Monsieur...
+
+224
+00:09:47,285 --> 00:09:49,405
+Il s'est acheté un nouveau vélo,
+la semaine dernière.
+
+225
+00:09:49,406 --> 00:09:50,986
+Une voiture a brûlé un feu rouge.
+
+226
+00:09:50,987 --> 00:09:53,371
+Il est passé au travers
+d'une baie vitrée.
+
+227
+00:09:53,372 --> 00:09:54,811
+Il s'est froissé un peu la clavicule.
+
+228
+00:09:54,812 --> 00:09:57,122
+Rien de plus, pas une égratignure.
+
+229
+00:09:57,123 --> 00:09:59,114
+Il se l'est un peu froissé ?
+
+230
+00:09:59,115 --> 00:10:01,447
+Un jour ou deux, il était bien, monsieur.
+
+231
+00:10:01,448 --> 00:10:02,937
+Hmm.
+
+232
+00:10:03,978 --> 00:10:05,936
+- Qui l'a trouvé le premier ?
+- Moi, Monsieur.
+
+233
+00:10:05,937 --> 00:10:08,758
+Je l'ai vu tomber en torche
+vers le champ.
+
+234
+00:10:08,759 --> 00:10:12,014
+Dès que j'ai eut enlevé mon harnais,
+je suis parti à sa recherche.
+
+235
+00:10:12,015 --> 00:10:13,090
+Vous deux ?
+
+236
+00:10:13,091 --> 00:10:14,175
+J'étais accroché dans un arbre.
+
+237
+00:10:14,176 --> 00:10:15,900
+Dave m'a donné un coup de main.
+
+238
+00:10:15,901 --> 00:10:19,284
+J'ai vu Paul hurler,
+et nous l'avons rejoint.
+
+239
+00:10:19,285 --> 00:10:21,282
+J'en reviens pas de la façon
+dont Thumper est mort.
+
+240
+00:10:21,283 --> 00:10:23,528
+C'était comme dans un mauvais film.
+
+241
+00:10:24,783 --> 00:10:27,532
+Etait-il mort lorsque vous l'avez
+trouvé, Caporal Dafelmair ?
+
+242
+00:10:27,533 --> 00:10:30,450
+Oui, Monsieur.
+Mort lors de l'impact.
+
+243
+00:10:30,693 --> 00:10:32,873
+J'en suis sûr.
+En fait, j'espère que c'est le cas.
+
+244
+00:10:32,874 --> 00:10:35,023
+Pourquoi ne s'est-il pas
+servi de son ventral ?
+
+245
+00:10:35,024 --> 00:10:36,621
+En sautant de 400 mètres.
+
+246
+00:10:36,622 --> 00:10:38,290
+Si votre principal ne fonctionne pas,
+
+247
+00:10:38,291 --> 00:10:41,363
+vous avez trois, peut-être quatre
+secondes pour réagir, m'dame.
+
+248
+00:10:41,364 --> 00:10:45,096
+OK, chacun doit préparer une
+déclaration où il détail ce qu'il a vu.
+
+249
+00:10:45,097 --> 00:10:46,170
+Oui, monsieur.
+
+250
+00:10:47,466 --> 00:10:48,884
+Non, non.
+
+251
+00:10:48,885 --> 00:10:50,301
+Laissez-les.
+
+252
+00:10:50,302 --> 00:10:52,559
+Votre matériel est à nous maintenant.
+
+253
+00:10:59,985 --> 00:11:01,796
+Que tires-tu de tout cela ?
+
+254
+00:11:01,797 --> 00:11:04,147
+Il n'a pas eut le temps d'ouvrir son ventral.
+
+255
+00:11:04,148 --> 00:11:05,513
+Pourquoi ?
+
+256
+00:11:06,180 --> 00:11:09,354
+Apparemment son temps de
+réaction était trop lent.
+
+257
+00:11:09,355 --> 00:11:10,465
+C'est dingue...
+
+258
+00:11:11,659 --> 00:11:13,579
+Clavicule fêlée.
+
+259
+00:11:13,580 --> 00:11:15,340
+Les clavicules blessées
+font un mal de chien et
+
+260
+00:11:15,341 --> 00:11:17,076
+prennent plus de deux ou trois jours à guérir.
+
+261
+00:11:17,077 --> 00:11:19,600
+Penses-tu que le Caporal
+Dafelmair mentait ?
+
+262
+00:11:19,601 --> 00:11:23,474
+C'est le cas s'il savait que Thumper
+prenait des analgésiques pour sauter.
+
+263
+00:11:23,475 --> 00:11:24,999
+C'est idiot.
+
+264
+00:11:25,202 --> 00:11:27,871
+Non, c'est un marine.
+
+265
+00:11:29,491 --> 00:11:31,667
+Notre victime a eut le coup brisé.
+
+266
+00:11:31,668 --> 00:11:34,491
+Vertèbres écrasées, de multiples
+fractures de jambe.
+
+267
+00:11:34,492 --> 00:11:35,707
+Un pelvis fracassé...
+
+268
+00:11:35,708 --> 00:11:37,861
+Et a propos de sa clavicule ?
+
+269
+00:11:38,092 --> 00:11:40,094
+Avec tous ces dégâts squelettiques,
+
+270
+00:11:40,095 --> 00:11:42,250
+tu t'inquiètes de sa clavicule ?
+
+271
+00:11:42,251 --> 00:11:44,000
+Fais-moi rire.
+
+272
+00:11:45,941 --> 00:11:47,962
+Et bien, Comment l'as tu sût ?
+
+273
+00:11:49,490 --> 00:11:53,579
+Il y a une belle ligne de fracture
+sur la clavicule gauche...
+
+274
+00:11:53,580 --> 00:11:56,345
+- qu'il s'est...
+- Faîtes récemment mais pas hier soir.
+
+275
+00:11:56,346 --> 00:11:58,678
+Non elle a commencé à se ressouder.
+
+276
+00:11:58,679 --> 00:12:00,162
+Vous deux, vous commencez à m'effrayer.
+
+277
+00:12:00,163 --> 00:12:02,590
+Ducky, Cette fracture le
+faisait-il beaucoup souffrir ?
+
+278
+00:12:02,591 --> 00:12:04,448
+Oh, rien de bien méchant.
+
+279
+00:12:04,449 --> 00:12:09,291
+Bien sûr le choc de l'ouverture d'un
+parachute a dût le faire souffrir.
+
+280
+00:12:09,292 --> 00:12:10,356
+Comment le sais-tu ?
+
+281
+00:12:10,357 --> 00:12:13,454
+La fille dans le 4x4 a dit
+qu'elle l'avait entendu gémir.
+
+282
+00:12:13,455 --> 00:12:16,295
+Etait-il vivant après l'impact ?
+
+283
+00:12:16,296 --> 00:12:17,513
+Brièvement.
+
+284
+00:12:19,726 --> 00:12:22,000
+Euh, pas trop près, Caitlin.
+
+285
+00:12:22,001 --> 00:12:23,769
+Je diffuse tout sur le moniteur.
+
+286
+00:12:23,770 --> 00:12:27,559
+Ouais, il est très probablement mort
+d'un traumatisme massif.
+
+287
+00:12:27,560 --> 00:12:30,866
+Mais la cause technique de la mort
+
+288
+00:12:30,867 --> 00:12:36,456
+fut une rupture... de l'artère fémorale.
+
+289
+00:12:36,836 --> 00:12:41,192
+Oui, notre jeune marine
+s'est vidé de son sang.
+
+290
+00:12:47,462 --> 00:12:49,749
+Qu'est t-il arrivé à "la fin d'un alcolique" ?
+
+291
+00:12:49,750 --> 00:12:51,326
+J'en ai réalisé un nouveau.
+
+292
+00:12:51,327 --> 00:12:54,163
+L'Art ne peut pas rester figé, Tony.
+
+293
+00:12:54,164 --> 00:12:56,011
+C'était l'un de mes préférés.
+
+294
+00:12:56,012 --> 00:12:57,491
+Et quel est le nouveau ?
+
+295
+00:12:57,492 --> 00:13:00,235
+Blessure par balle auto-infligée
+dans l'abdomen.
+
+296
+00:13:00,236 --> 00:13:01,377
+Bien sûr.
+
+297
+00:13:01,378 --> 00:13:02,943
+Je vais l'appeler, le blast en
+provenance du futur.
+
+298
+00:13:02,944 --> 00:13:04,832
+Je suppose qu'avec mes colonnes
+vertébrales éclatées à coup de fusil,
+
+299
+00:13:04,833 --> 00:13:07,200
+je ressens comme une sensation
+chagallienne qui monte en moi.
+
+300
+00:13:07,201 --> 00:13:09,344
+Euh, à la manière des Manson
+
+301
+00:13:09,345 --> 00:13:11,781
+- Ouais.
+- Abby, tu as le résultat des toxiques ?
+
+302
+00:13:11,782 --> 00:13:13,256
+Ouais, juste là.
+
+303
+00:13:13,809 --> 00:13:16,717
+La victime a été testée positive
+au percoset et à la vicodine.
+
+304
+00:13:16,718 --> 00:13:18,302
+- Doublez votre plaisir...
+- Doublez votre joie.
+
+305
+00:13:18,303 --> 00:13:19,537
+A quel taux ?
+
+306
+00:13:19,538 --> 00:13:22,323
+0,17. Il était légèrement défoncé comme un koala.
+
+307
+00:13:22,324 --> 00:13:25,076
+Je pense qu'il se l'ai envoyé, juste avant d'avoir sauté.
+
+308
+00:13:25,077 --> 00:13:28,520
+Les marines que nous avons interrogés étaient probablement au courant.
+
+309
+00:13:28,521 --> 00:13:29,549
+Pourquoi ne nous l'ont-ils pas dit ?
+
+310
+00:13:29,550 --> 00:13:30,922
+Semper fi...
+
+311
+00:13:30,923 --> 00:13:32,841
+Tu parles, t'es mort.
+
+312
+00:13:34,002 --> 00:13:35,405
+Pardon.
+
+313
+00:13:36,815 --> 00:13:38,350
+Son ventral était-il bon ?
+
+314
+00:13:38,351 --> 00:13:40,208
+Ouais, il était parfait.
+Il n'avait qu'à l'ouvrir.
+
+315
+00:13:40,209 --> 00:13:43,183
+Et bien, il l'aurait fait si ses réflexes n'étaient pas diminuées des opioïds.
+
+316
+00:13:43,184 --> 00:13:44,232
+Opioïds ?
+
+317
+00:13:44,233 --> 00:13:46,987
+Terme générique pour les opiacés et les analgésiques synthétiques.
+
+318
+00:13:46,988 --> 00:13:48,071
+Parfait Kate.
+
+319
+00:13:48,433 --> 00:13:50,695
+Tu es sûr que tu étais un flic de Baltimore ?
+
+320
+00:13:51,326 --> 00:13:53,567
+Ok... peut-être était t-il trop stone pour ouvrir son ventral.
+
+321
+00:13:53,568 --> 00:13:55,110
+Peut-être. Peut-être pas.
+
+322
+00:13:55,111 --> 00:13:56,659
+Tu produis de l'adrénaline lorsque tu sautes.
+
+323
+00:13:56,660 --> 00:13:59,537
+Ton dorsal ne s'ouvre pas, tu dois vraiment être sur les nerfs.
+
+324
+00:13:59,538 --> 00:14:02,333
+Bien, Gibbs, s'il avait les réflexes pour l'ouvrir, pourquoi ne l'a-t-il pas fait ?
+
+325
+00:14:02,334 --> 00:14:03,250
+Je ne sais pas.
+
+326
+00:14:03,251 --> 00:14:05,876
+Qu'as-tu découvert sur les suspentes de son dorsal ?
+
+327
+00:14:05,877 --> 00:14:07,589
+Désintégration des fibres.
+
+328
+00:14:07,590 --> 00:14:09,611
+Mais ne résultant pas d'une fatigue des fibres.
+
+329
+00:14:09,612 --> 00:14:12,826
+C'est fluorescent, comme une sorte d'agent nettoyant.
+
+330
+00:14:12,827 --> 00:14:15,406
+Mais cela ne cause pas ce genre de dommages.
+
+331
+00:14:16,129 --> 00:14:17,844
+Les bords semblent fondus.
+
+332
+00:14:17,845 --> 00:14:19,961
+Je ne l'ai pas encore identifié, mais ce n'est définitivement pas un acide.
+
+333
+00:14:19,962 --> 00:14:22,709
+Ça a déchiqueté les suspentes qui supportaient les 150 kilos d'un para.
+
+334
+00:14:22,710 --> 00:14:25,122
+Combien de temps pour trouver l'acide, et vérifier le reste de ces parachutes ?
+
+335
+00:14:25,123 --> 00:14:27,088
+Je vol en solo, donc au moins un jour.
+
+336
+00:14:27,089 --> 00:14:28,818
+Ça irait plus vite si tu avais un assistant ?
+
+337
+00:14:28,819 --> 00:14:30,043
+Oh, certainement.
+
+338
+00:14:30,044 --> 00:14:31,014
+OK.
+
+339
+00:14:31,015 --> 00:14:32,576
+Tu as le boulot.
+
+340
+00:14:32,823 --> 00:14:35,225
+- Je dois faire l'expertise ?
+- Non. tu vas bosser pour Abby.
+
+341
+00:14:35,226 --> 00:14:37,221
+Elle doit faire l'expertise.
+
+342
+00:14:49,509 --> 00:14:51,571
+Pourquoi vous ne nous avez pas dit que vous étiez plieur, caporal ?
+
+343
+00:14:51,572 --> 00:14:52,968
+Je pensais que vous le saviez, Monsieur.
+
+344
+00:14:52,969 --> 00:14:54,580
+Vraiment ?
+
+345
+00:14:57,099 --> 00:14:58,063
+Qu'y a-t-il d'autre ?
+
+346
+00:14:58,064 --> 00:15:00,580
+Signer le registre et le placer dans la poche du parachute.
+
+347
+00:15:05,554 --> 00:15:07,666
+Même signature.
+
+348
+00:15:08,455 --> 00:15:10,478
+C'est le registre du parachute de Thumper, n'est-ce pas, Monsieur ?
+
+349
+00:15:10,479 --> 00:15:11,709
+Ouais.
+
+350
+00:15:11,710 --> 00:15:13,169
+Vous l'avez préparé.
+
+351
+00:15:13,463 --> 00:15:15,526
+Monsieur, je ne savais qu'il le pendrait lorsque je l'ai préparé.
+
+352
+00:15:15,527 --> 00:15:18,004
+Les parachutes sont distribués au hasard, même lorsque nous sautons.
+
+353
+00:15:18,005 --> 00:15:20,282
+Les plieurs sautent-ils habituellement ?
+
+354
+00:15:20,283 --> 00:15:21,470
+L'entraînement continue.
+Oui, Monsieur.
+
+355
+00:15:21,471 --> 00:15:22,926
+Combien de plieurs ont sauté hier soir ?
+
+356
+00:15:22,927 --> 00:15:25,914
+Euh, les caporaux Ramsey, Brinkman,
+et Thumper, bien sûr.
+
+357
+00:15:25,915 --> 00:15:26,758
+Il était plieur en chef.
+
+358
+00:15:26,759 --> 00:15:28,177
+Vous pensiez que nous savions
+cela, aussi ?
+
+359
+00:15:28,178 --> 00:15:29,442
+Monsieur, nous n'essayons pas de cacher quelque chose.
+
+360
+00:15:29,443 --> 00:15:31,409
+Oh, bon sang non, caporal.
+
+361
+00:15:31,410 --> 00:15:35,636
+Vous saviez tous que Thumper prenait des analgésiques pour sa clavicule.
+
+362
+00:15:36,262 --> 00:15:39,001
+Il est mort parce qu'il était trop défoncé pour tirer sur son ventral.
+
+363
+00:15:39,002 --> 00:15:41,405
+Monsieur, il n'y a aucune possibilité de sabotage pour quiconque
+
+364
+00:15:41,406 --> 00:15:43,894
+d'un parachute et espérer qu'il soit attribué au bon sauteur.
+
+365
+00:15:43,895 --> 00:15:45,223
+Tous les parachutes sont-ils préparés ici ?
+
+366
+00:15:45,224 --> 00:15:46,764
+Oui, Monsieur.
+Nous les préparons à 09h.
+
+367
+00:15:46,765 --> 00:15:48,863
+Nous les mettons dans le camion pour le saut à 18h.
+
+368
+00:15:48,864 --> 00:15:50,523
+Il reste ici durant 9 heures.
+Sans surveillance ?
+
+369
+00:15:50,524 --> 00:15:52,627
+- Sous clefs, Monsieur.
+- Qui a la clef ?
+
+370
+00:15:52,628 --> 00:15:56,863
+Les capitaines Faul et Thumper ont les clefs, en tant que plieur monsieur.
+
+371
+00:16:01,847 --> 00:16:03,326
+Vous aviez un casier
+
+372
+00:16:03,327 --> 00:16:06,314
+avant d'entre dans l'armée, caporal.
+
+373
+00:16:06,552 --> 00:16:09,063
+- J'ai fait quelques bêtises, monsieur.
+- Vol à l'étalage...
+
+374
+00:16:10,882 --> 00:16:12,736
+- Possession de drogue ?
+- C'était il y a longtemps, Monsieur.
+
+375
+00:16:12,737 --> 00:16:14,701
+Trois ans, ce n'est pas si lointain.
+
+376
+00:16:14,702 --> 00:16:16,364
+Ecoutez, monsieur, vous devez avoir mon dossier.
+
+377
+00:16:16,365 --> 00:16:17,914
+Vous savez que le juge m'a donné le choix.
+
+378
+00:16:17,915 --> 00:16:19,682
+La prison ou l'armée.
+
+379
+00:16:19,683 --> 00:16:22,567
+L'Armée m'a donné une seconde chance, Monsieur.
+
+380
+00:16:22,816 --> 00:16:24,780
+Et je ne ferais jamais rien pour la blesser, elle,
+
+381
+00:16:24,781 --> 00:16:27,072
+ou l'un de mes frères marines.
+
+382
+00:16:27,073 --> 00:16:28,661
+Jamais, Monsieur.
+
+383
+00:16:41,104 --> 00:16:43,207
+L'heure de vérité.
+
+384
+00:16:44,908 --> 00:16:46,714
+Acide sulfurique !
+
+385
+00:16:46,715 --> 00:16:49,876
+Ça boufferai une attache de caravane.
+
+386
+00:16:53,575 --> 00:16:55,735
+Comment en es-tu venu à cela.
+
+387
+00:16:55,736 --> 00:16:57,582
+J'ai rempli une demande.
+
+388
+00:16:58,153 --> 00:17:00,561
+Je veux dire les expertises et tout ça.
+
+389
+00:17:00,963 --> 00:17:02,464
+Oh, euh...
+
+390
+00:17:02,465 --> 00:17:04,060
+Quand j'étais gamine, nous vivions près de ce quartier
+
+391
+00:17:04,061 --> 00:17:07,248
+où ils amènent toutes les carcasses brûlées des carambolages mortels.
+
+392
+00:17:07,249 --> 00:17:09,576
+J'avais pris pour habitude d'y pénétrer durant la nuit et d'y prendre des photos.
+
+393
+00:17:09,577 --> 00:17:10,789
+Ce n'était pas pour le gore.
+
+394
+00:17:10,790 --> 00:17:13,181
+C'était pour trouver ce qui s'était passé...
+
+395
+00:17:13,182 --> 00:17:17,170
+Tu sais ? Action, réaction... la science et tout le tintouin.
+
+396
+00:17:17,171 --> 00:17:19,267
+J'étais accroché.
+Et toi ?
+
+397
+00:17:20,780 --> 00:17:23,463
+En fait, je voulais être avocate.
+
+398
+00:17:23,464 --> 00:17:26,148
+J'ai fait une année à la fac de droit.
+
+399
+00:17:26,149 --> 00:17:28,229
+J'ai cru avoir 10 ans en prison.
+
+400
+00:17:28,230 --> 00:17:30,513
+Avec des prisonniers très ennuyeux.
+
+401
+00:17:32,436 --> 00:17:33,735
+Admets-le...
+
+402
+00:17:33,736 --> 00:17:36,216
+Tu adores porter une arme.
+
+403
+00:17:36,746 --> 00:17:38,266
+Plus d'une.
+
+404
+00:17:38,267 --> 00:17:39,602
+Vraiment ?
+
+405
+00:17:39,603 --> 00:17:42,203
+Tu es plus dangereuse que ne le laissent croire tes yeux ?
+
+406
+00:17:42,720 --> 00:17:44,517
+Ce sont tes seuls tatouages ?
+
+407
+00:17:44,518 --> 00:17:47,060
+Montre-moi les tiens, je te montrerais les miens.
+
+408
+00:17:50,053 --> 00:17:50,976
+Go !
+
+409
+00:17:51,419 --> 00:17:52,592
+Tu as déjà sauté ?
+
+410
+00:17:52,593 --> 00:17:54,972
+Quand j'ai faillit m'électrocuter.
+
+411
+00:17:54,973 --> 00:17:56,837
+Cela explique l'absence d'outils électriques.
+
+412
+00:17:56,838 --> 00:17:58,459
+Tu vas faire ça ?
+
+413
+00:17:58,460 --> 00:17:59,431
+Quoi ?
+
+414
+00:17:59,432 --> 00:18:02,427
+Dépenser 180$ pour défier la gravité ?
+
+415
+00:18:02,428 --> 00:18:03,595
+Ouais, je crois.
+
+416
+00:18:03,596 --> 00:18:04,775
+Agent Gibbs.
+
+417
+00:18:06,656 --> 00:18:07,828
+Ceci est arrivé pour vous, Monsieur.
+
+418
+00:18:07,829 --> 00:18:10,027
+Je vous ai raté au hangar.
+
+419
+00:18:10,028 --> 00:18:12,197
+- Merci, caporal.
+- Oui, Monsieur.
+
+420
+00:18:12,783 --> 00:18:13,902
+Ça vient de qui ?
+
+421
+00:18:14,139 --> 00:18:15,310
+Ducky.
+
+422
+00:18:21,128 --> 00:18:25,111
+Jethro, les comptables ne t'ont pas trouvé, ils me l'ont donc remis.
+
+423
+00:18:25,112 --> 00:18:27,682
+Je tes suggère de lire les instructions concernant le filtrage d'appel.
+
+424
+00:18:27,683 --> 00:18:29,794
+Cela t'était-il destiné ?
+
+425
+00:18:30,856 --> 00:18:32,282
+Ca fonctionne.
+
+426
+00:18:35,111 --> 00:18:36,030
+Gibbs.
+
+427
+00:18:37,665 --> 00:18:38,669
+Ouais.
+
+428
+00:18:38,670 --> 00:18:40,218
+Sois ici dans 20 min.
+
+429
+00:18:42,212 --> 00:18:46,466
+Tu sais, certains de ces gars se pétrifient lors de leur premier saut
+
+430
+00:18:46,467 --> 00:18:48,627
+On doit leur botter les fesses pour les faire sauter.
+
+431
+00:18:48,628 --> 00:18:49,604
+Pas moi.
+
+432
+00:18:49,605 --> 00:18:54,967
+Non. Tu tombes dans la catégorie de ceux dont je veux botter les fesses au sol.
+
+433
+00:18:54,968 --> 00:18:55,927
+Go !
+
+434
+00:18:58,820 --> 00:19:00,589
+Ça fait très "Guerre des étoiles", Abby.
+
+435
+00:19:00,589 --> 00:19:00,590
+[*] "Blue Man Group" groupe d'artistes avec le visage peint en bleu.
+Connu en France pour la publicité pour Intel.
+
+436
+00:19:00,590 --> 00:19:03,005
+Je pensais plus à "Blue Man Group*".
+
+437
+00:19:03,006 --> 00:19:05,868
+Le parachute du sergent Fuentes n'était pas le seul à être saboté.
+
+438
+00:19:05,869 --> 00:19:06,681
+Combien ?
+
+439
+00:19:06,682 --> 00:19:08,366
+9 sur 16.
+
+440
+00:19:08,367 --> 00:19:11,094
+Les signatures indiquent qu'il y a eu plusieurs plieurs.
+
+441
+00:19:11,095 --> 00:19:12,865
+Combien le caporal Dafelmair en a-t-il préparé ?
+
+442
+00:19:12,866 --> 00:19:13,434
+Quatre.
+
+443
+00:19:13,435 --> 00:19:16,276
+Le reste a été préparé par le caporal Brinkman et le sergent Fuentes.
+
+444
+00:19:16,277 --> 00:19:18,678
+- Le caporal Ramsey n'en a préparé aucun ?
+- Non.
+
+445
+00:19:18,679 --> 00:19:20,790
+Lorsque sa signature n'est pas apparue sur un seul des parachutes,
+
+446
+00:19:20,791 --> 00:19:21,926
+j'ai appelé le capitaine Faul.
+
+447
+00:19:21,927 --> 00:19:23,662
+Il a suspendu le caporal Ramsey
+
+448
+00:19:23,663 --> 00:19:25,671
+pour travail bâclé.
+
+449
+00:19:25,672 --> 00:19:27,952
+Et devine qui l'a fait tomber pour ce travail bâclé ?
+
+450
+00:19:27,953 --> 00:19:31,340
+Le plieur en chef, le sergent Fuentes.
+
+451
+00:19:31,569 --> 00:19:32,643
+Nous avons un mobile.
+
+452
+00:19:32,644 --> 00:19:33,964
+Nous avons plus que ça.
+
+453
+00:19:33,965 --> 00:19:35,561
+Kate et moi avons une théorie.
+
+454
+00:19:35,562 --> 00:19:37,620
+Pourquoi vous l'avez pas dit plutôt ?
+
+455
+00:19:37,621 --> 00:19:39,262
+Tu es comme un piercing, Tony.
+
+456
+00:19:39,263 --> 00:19:42,436
+Il faut du temps pour que la douleur cesse et pour que la peau repousse.
+
+457
+00:19:42,437 --> 00:19:43,911
+C'est plus que je ne voulais savoir.
+
+458
+00:19:43,912 --> 00:19:45,346
+Quelle est la théorie ?
+
+459
+00:19:45,347 --> 00:19:49,615
+Ok, chaque fois que tu laces tes docks ou sangle ton sac de blanchisserie,
+
+460
+00:19:49,616 --> 00:19:51,089
+tu laisses des cellules épithéliales derrière toi.
+
+461
+00:19:51,090 --> 00:19:53,750
+C'est exactement pareil avec la préparation du parachute.
+
+462
+00:19:54,352 --> 00:19:56,794
+J'ai recueilli des échantillons de peau sur le sac des parachutes
+
+463
+00:19:56,795 --> 00:19:58,094
+qui ont été trafiqués.
+
+464
+00:19:58,095 --> 00:19:59,749
+Tu as une signature ADN ?
+
+465
+00:19:59,750 --> 00:20:03,325
+Tous les neufs nœuds ont un nombre différent d'échantillons de peau,
+
+466
+00:20:03,326 --> 00:20:06,413
+mais il n'y a qu'un échantillon qui est commun à tous les neufs.
+
+467
+00:20:06,414 --> 00:20:08,018
+Le saboteur.
+
+468
+00:20:08,206 --> 00:20:09,740
+Notre plieur a préparé les parachutes.
+
+469
+00:20:09,741 --> 00:20:11,246
+Puis quelqu'un est entré et les a re-préparés.
+
+470
+00:20:11,247 --> 00:20:14,225
+- Laissant un peut de peau derrière lui.
+- Caporal Ramsey.
+
+471
+00:20:14,226 --> 00:20:16,441
+Cela dépend de ses connaissances en expertises.
+
+472
+00:20:16,442 --> 00:20:18,207
+Il est soit très intelligent, soit très stupide.
+
+473
+00:20:18,208 --> 00:20:19,247
+Il doit y avoir d'autres parachutes
+
+474
+00:20:19,248 --> 00:20:22,585
+que le caporal Ramsey a plié selon l'inventaire du hangar pour comparaison.
+
+475
+00:20:22,586 --> 00:20:24,110
+Négatif, j'ai vérifié.
+
+476
+00:20:24,111 --> 00:20:26,324
+Ils ont tous été pliés alors qu'il était suspendu.
+
+477
+00:20:26,325 --> 00:20:28,422
+Il existe un registre ADN des forces armées...
+
+478
+00:20:28,423 --> 00:20:31,792
+tout le personnel militaire est fiché, c'est ça ?
+
+479
+00:20:31,793 --> 00:20:32,712
+Ouais.
+
+480
+00:20:32,902 --> 00:20:34,769
+Alors nous tenons notre homme.
+
+481
+00:20:35,654 --> 00:20:36,665
+Non.
+
+482
+00:20:36,666 --> 00:20:39,156
+Tout ce que nous avons c'est un tas de peau morte.
+
+483
+00:20:39,502 --> 00:20:43,205
+On ne peut se servir de cette banque que pour l'identification d'un corps.
+
+484
+00:20:43,206 --> 00:20:45,636
+Il doit exister un moyen de contourner cela.
+
+485
+00:20:45,637 --> 00:20:48,793
+Tu vois ? Tu penses maintenant comme un agent du NCIS.
+
+486
+00:20:52,273 --> 00:20:55,052
+Nous savons que neufs parachutes ont été préparés pour ne pas fonctionner.
+
+487
+00:20:55,053 --> 00:20:57,273
+Le tueur les a préparés et les a remis en place.
+
+488
+00:20:57,274 --> 00:21:00,275
+En conséquence, le sergent Fuentes est mort.
+
+489
+00:21:00,276 --> 00:21:02,899
+C'est un meurtre prémédité.
+
+490
+00:21:03,700 --> 00:21:05,351
+Je vous suis.
+
+491
+00:21:05,794 --> 00:21:08,981
+Hé, si je suis membre du jury,
+vous avez mon vote.
+
+492
+00:21:08,982 --> 00:21:13,110
+Nous avons trouvé des traces d'ADN sur les nœuds de déploiement des parachutes.
+
+493
+00:21:13,111 --> 00:21:14,580
+Appartenant à votre suspect ?
+
+494
+00:21:14,581 --> 00:21:15,660
+Nous le pensons.
+
+495
+00:21:15,661 --> 00:21:18,604
+Pour nous en assurer, nous devons accéder au registre des forces armées.
+
+496
+00:21:18,605 --> 00:21:20,145
+C'est impossible.
+
+497
+00:21:20,146 --> 00:21:23,401
+La base a uniquement était constituée pour identifier des dépouilles.
+
+498
+00:21:23,402 --> 00:21:25,084
+Il le sait.
+
+499
+00:21:25,085 --> 00:21:26,456
+Je le sais ?
+
+500
+00:21:27,426 --> 00:21:31,506
+Il a tenté de l'utiliser pour poursuivre pour meurtre le capitaine Rabb
+
+501
+00:21:31,507 --> 00:21:32,443
+L'a-t-il eut ?
+
+502
+00:21:32,444 --> 00:21:33,435
+Non...
+
+503
+00:21:33,436 --> 00:21:35,612
+parce qu'il n'était pas coupable.
+
+504
+00:21:35,613 --> 00:21:36,937
+Vous n'avez donc pu vous servir de la base ADN.
+
+505
+00:21:36,938 --> 00:21:39,745
+Qu'est-ce qui vous fait croire que vous le pourriez aujourd'hui ?
+
+506
+00:21:39,972 --> 00:21:41,282
+Vous, lieutenant.
+
+507
+00:21:41,843 --> 00:21:44,410
+Vous êtes un avocat intelligent
+
+508
+00:21:45,078 --> 00:21:47,241
+et vous connaissez la loi.
+
+509
+00:21:52,492 --> 00:21:54,719
+Je sais pourquoi je suis ici.
+
+510
+00:21:54,720 --> 00:21:56,009
+Eh bien, je l'espère.
+
+511
+00:21:56,010 --> 00:21:57,396
+J'ai fait appel à vous.
+
+512
+00:21:57,397 --> 00:21:58,354
+Oui, vous avez fait appel à moi
+
+513
+00:21:58,355 --> 00:22:00,477
+parce que vous pensez que vous pouvez me faire marcher, comme la dernière fois.
+
+514
+00:22:00,478 --> 00:22:01,906
+Lorsque j'ai balancé le capitaine Rabb.
+
+515
+00:22:01,907 --> 00:22:04,529
+Vous n'avez balancé personne.
+
+516
+00:22:04,530 --> 00:22:06,333
+Vous avez dit la vérité.
+
+517
+00:22:07,708 --> 00:22:12,660
+J'ai nettoyé mon uniforme ce matin agent Gibbs.
+
+518
+00:22:12,661 --> 00:22:15,056
+et vous valsez dans mon angle mort.
+
+519
+00:22:15,057 --> 00:22:17,675
+Vous ne m'intimiderez pas ainsi cette fois.
+
+520
+00:22:18,318 --> 00:22:20,454
+Nous en sommes en 24 heures maintenant, et nous approchons les 48.
+
+521
+00:22:20,455 --> 00:22:23,227
+Vous avez enquêtez, vous savez ce que cela signifie.
+
+522
+00:22:23,228 --> 00:22:25,157
+J'ai participé à des enquêtes au sein du JAG, parfaitement.
+
+523
+00:22:25,158 --> 00:22:28,081
+Au-delà de 48 heures, vos preuves commencent à se dégrader, disparaître.
+
+524
+00:22:28,082 --> 00:22:31,951
+Les témoins changent leur histoire, les suspects améliorent les leurs, je sais.
+
+525
+00:22:31,952 --> 00:22:33,820
+- Alors aidez-nous.
+- Non !
+
+526
+00:22:33,821 --> 00:22:35,288
+Non, vous n'allez pas me faire oublier
+
+527
+00:22:35,289 --> 00:22:37,083
+un règlement qui vous empêche
+
+528
+00:22:37,084 --> 00:22:38,747
+de vous servir de la base ADN
+
+529
+00:22:38,748 --> 00:22:41,885
+qui a été établi pour identifier des corps, par pour poursuivre des suspects.
+
+530
+00:22:41,886 --> 00:22:43,458
+Ce gars, il est coupable.
+
+531
+00:22:43,459 --> 00:22:44,671
+Il l'a tué.
+
+532
+00:22:44,672 --> 00:22:47,558
+Il l'a laissé sauter vers sa mort à 400 mètres.
+
+533
+00:22:47,559 --> 00:22:50,656
+- Cela n'a pas d'importance.
+- Pour tout garde-fou,
+
+534
+00:22:50,657 --> 00:22:52,697
+Il existe un moyen de le contourner.
+
+535
+00:22:53,559 --> 00:22:55,840
+Je ne peux pas vous aider.
+
+536
+00:22:55,841 --> 00:22:58,560
+Et pourrais-je reprendre mon stylo ?
+
+537
+00:22:58,762 --> 00:23:00,232
+Oh, oui.
+
+538
+00:23:00,233 --> 00:23:01,609
+Oui, bien sûr vous pouvez.
+
+539
+00:23:01,610 --> 00:23:03,150
+Vous allez en avoir besoin.
+
+540
+00:23:03,151 --> 00:23:04,906
+Parce que si ne peux avoir mon ADN,
+
+541
+00:23:04,907 --> 00:23:08,744
+je vais avoir besoin de quelques autorisations de recherche signées.
+
+542
+00:23:10,846 --> 00:23:12,435
+Tu savais que le lieutenant Roberts n'allait pas
+
+543
+00:23:12,436 --> 00:23:14,636
+nous autoriser à accéder à la base de donnée ADN militaire.
+
+544
+00:23:14,637 --> 00:23:15,743
+- Je le savais ?
+- Tu le savais.
+
+545
+00:23:15,744 --> 00:23:18,366
+Par conséquent, pourquoi as-tu procédé à cette rencontre ?
+
+546
+00:23:18,367 --> 00:23:21,868
+Kate, je suis issue d'une longue lignée de vendeur de chevaux.
+
+547
+00:23:21,869 --> 00:23:22,825
+Première règle...
+
+548
+00:23:23,706 --> 00:23:25,801
+Tu choisis le meilleur cheval de l'étable,
+
+549
+00:23:25,802 --> 00:23:27,731
+et tu discutes son prix sans trop le faire baisser...
+
+550
+00:23:27,732 --> 00:23:31,161
+Comme ça quand tu achètes le 2ème meilleur cheval, tu l'as pour rien.
+
+551
+00:23:31,162 --> 00:23:32,816
+L'autorisation de recherche.
+
+552
+00:23:32,817 --> 00:23:35,985
+Nous n'avons pas une raison valable, mais le lieutenant,
+
+553
+00:23:35,986 --> 00:23:38,867
+est un homme qui aime rendre service.
+
+554
+00:23:38,868 --> 00:23:42,621
+Tu ne fais jamais jouer le système, lorsque tu peux utiliser les gens.
+
+555
+00:23:42,622 --> 00:23:45,223
+Un de ces vendeurs de chevaux dont tu es issu a-t-il été pendu ?
+
+556
+00:23:45,224 --> 00:23:46,752
+Ouais, quelques-uns uns.
+
+557
+00:23:47,655 --> 00:23:49,776
+As-tu découvert ce pourquoi Ramsey a fait l'objet d'un rapport ?
+
+558
+00:23:49,777 --> 00:23:50,853
+Ah, oui.
+
+559
+00:23:51,148 --> 00:23:55,151
+Suspentes effilochées, des faux-plis, coupures dans la voilure.
+
+560
+00:23:55,152 --> 00:23:57,856
+J'espère que ce gars ne fait pas l'école du soir de médicine. Oh oui,
+
+561
+00:23:57,857 --> 00:23:58,937
+la fontaine dit que...
+
+562
+00:23:58,938 --> 00:24:00,003
+La fontaine ?
+
+563
+00:24:00,004 --> 00:24:03,332
+C'est un terme de Marine pour parler de ragots dis autour des douches.
+
+564
+00:24:03,515 --> 00:24:05,994
+La fontaine dit que Ramsey s'est battu avec Thumper
+
+565
+00:24:05,995 --> 00:24:07,743
+pour l'avoir fait suspendre.
+
+566
+00:24:13,264 --> 00:24:15,835
+Interlocuteur caché.
+
+567
+00:24:15,836 --> 00:24:18,658
+C'est probablement la raison pour laquelle tu l'as épousée.
+
+568
+00:24:19,352 --> 00:24:21,928
+Je veux dire qu'elle a caché sa vraie personnalité comme le font les femmes
+
+569
+00:24:21,929 --> 00:24:25,863
+et à ce moment, il était trop tard car tu aurais déjà...
+
+570
+00:24:26,904 --> 00:24:29,028
+Je vais la fermer maintenant.
+
+571
+00:24:29,029 --> 00:24:30,348
+Maintenant ?
+
+572
+00:24:30,780 --> 00:24:33,398
+Viens-tu de dire, comme font toutes les femmes ?
+
+573
+00:24:33,399 --> 00:24:35,132
+Retrouve-moi au hangar à 1400.
+
+574
+00:24:35,133 --> 00:24:37,155
+Nous ferons travailler nos autorisations de recherche
+
+575
+00:24:37,156 --> 00:24:38,757
+pour ouvrir le casier du plieur.
+
+576
+00:24:38,758 --> 00:24:40,924
+C'est 14h en heures Services Secrets, Kate.
+
+577
+00:24:40,925 --> 00:24:43,158
+Nous nous servons de l'heure GMT, Tony.
+
+578
+00:24:43,658 --> 00:24:44,717
+L'heure GMT.
+
+579
+00:24:44,718 --> 00:24:46,029
+Oh, oui, ce devrait être...
+
+580
+00:24:46,030 --> 00:24:47,681
+19h.
+
+581
+00:24:47,879 --> 00:24:49,253
+Je le savais.
+
+582
+00:25:03,351 --> 00:25:04,226
+Salut.
+
+583
+00:25:05,973 --> 00:25:07,375
+Puis-je monter ?
+
+584
+00:25:10,926 --> 00:25:12,750
+Ai-je besoin d'un mot de passe ?
+
+585
+00:25:15,775 --> 00:25:18,199
+Je vais peut-être monter un peu.
+
+586
+00:25:24,429 --> 00:25:27,047
+Tu as vraiment besoin d'un mot de passe.
+
+587
+00:25:27,598 --> 00:25:29,194
+Pourquoi ?
+
+588
+00:25:31,465 --> 00:25:34,654
+Elle ne sera jamais terminée.
+
+589
+00:25:35,855 --> 00:25:38,062
+Mon père est mort.
+
+590
+00:25:38,063 --> 00:25:40,269
+Oui, je sais.
+
+591
+00:25:40,909 --> 00:25:41,961
+Qui êtes-vous ?
+
+592
+00:25:45,055 --> 00:25:47,387
+Je suis Jethro Gibbs.
+
+593
+00:25:48,275 --> 00:25:49,546
+NCIS.
+
+594
+00:25:49,547 --> 00:25:52,438
+Je ne peux pas répondre aux questions.
+Nous nous rendons aux funérailles.
+
+595
+00:25:52,439 --> 00:25:54,043
+Je ne suis pas ici pour poser des questions.
+
+596
+00:25:54,044 --> 00:25:55,308
+Alors pourquoi êtes-vous ici ?
+
+597
+00:25:55,309 --> 00:25:57,708
+Il a dit que j'avais besoin d'un mot de passe, m'dame.
+
+598
+00:25:57,709 --> 00:25:59,140
+Quoi ?
+
+599
+00:25:59,854 --> 00:26:02,540
+Je lui ai dit qu'une cabane devait avoir un mot de passe.
+
+600
+00:26:05,174 --> 00:26:06,205
+Oh.
+
+601
+00:26:08,318 --> 00:26:10,951
+Oui, Larry la lui construisait.
+
+602
+00:26:11,539 --> 00:26:13,246
+C'est du bon travail.
+
+603
+00:26:18,989 --> 00:26:20,619
+Larry était un homme bien.
+
+604
+00:26:21,216 --> 00:26:24,048
+Un bon mari et un bon père.
+
+605
+00:26:24,049 --> 00:26:25,606
+Un bon Marine.
+
+606
+00:26:27,044 --> 00:26:30,144
+Il y a des rumeurs selon lesquelles sa mort ne serait pas un accident.
+
+607
+00:26:30,430 --> 00:26:33,296
+Quoiqu'il arrive, Mme Fuentes,
+
+608
+00:26:33,297 --> 00:26:36,142
+je découvrirais qui est le responsable.
+
+609
+00:26:40,280 --> 00:26:42,973
+Billy, nous devons y aller.
+
+610
+00:26:49,935 --> 00:26:51,738
+Oh, regarde-toi.
+
+611
+00:26:53,144 --> 00:26:54,462
+Tu es couvert de poussières...
+
+612
+00:26:54,762 --> 00:26:55,881
+Viens-ici.
+
+613
+00:26:56,122 --> 00:26:58,812
+Ta coiffure est un massacre.
+Où se trouve ton peigne ?
+
+614
+00:26:58,813 --> 00:27:01,401
+Larry lui disait toujours de prendre un peigne.
+
+615
+00:27:01,402 --> 00:27:03,236
+Comme JFK.
+
+616
+00:27:03,515 --> 00:27:05,329
+Qui qu'il soit.
+
+617
+00:27:05,767 --> 00:27:07,487
+Il était un gars de la Marine.
+
+618
+00:27:07,488 --> 00:27:09,640
+Tout comme ton père était un Marine.
+
+619
+00:27:12,018 --> 00:27:17,649
+Des Marins et de Marines,
+ils sont toujours sur leur 31.
+
+620
+00:27:17,650 --> 00:27:21,107
+Ton père aurait voulu que tu sois aujourd'hui sur ton 31, pour lui.
+
+621
+00:27:21,108 --> 00:27:25,571
+Je ne veux pas que les marines présents aux funérailles me voient pleurer.
+
+622
+00:27:25,572 --> 00:27:28,619
+N'aies jamais honte de tes larmes, mon pote.
+
+623
+00:27:29,175 --> 00:27:32,311
+- Les Marines ne pleurent pas.
+- Bien sûr qu'ils pleurent.
+
+624
+00:27:32,312 --> 00:27:34,599
+Aux funérailles de JFK,
+
+625
+00:27:34,600 --> 00:27:37,362
+son fils a salué son cercueil.
+
+626
+00:27:37,881 --> 00:27:40,137
+Sais-tu comment saluer ?
+
+627
+00:27:42,887 --> 00:27:44,427
+Parfait.
+
+628
+00:27:47,859 --> 00:27:50,232
+Tu salueras ton père aujourd'hui.
+
+629
+00:27:51,285 --> 00:27:53,636
+Personne ne remarquera les larmes.
+
+630
+00:27:57,305 --> 00:27:58,782
+Nous devons y aller.
+
+631
+00:28:06,988 --> 00:28:10,062
+Je crois que vous attraperez celui qui a fait ça.
+
+632
+00:28:10,561 --> 00:28:12,738
+Je vous le promets.
+
+633
+00:28:19,935 --> 00:28:21,276
+Gardez vos jambes serrées,
+
+634
+00:28:21,277 --> 00:28:22,937
+amortissez l'impact.
+
+635
+00:28:23,564 --> 00:28:24,973
+C'est ça ?
+
+636
+00:28:24,974 --> 00:28:27,998
+Vous avez signé une décharge pour vos parents n'est-ce pas ?
+
+637
+00:28:27,999 --> 00:28:30,473
+Ne dîtes pas "Eclates-toi".
+
+638
+00:28:31,414 --> 00:28:32,289
+Très bien.
+
+639
+00:28:36,379 --> 00:28:37,325
+C'était comment ?
+
+640
+00:28:37,326 --> 00:28:38,912
+Très féminin.
+
+641
+00:28:38,913 --> 00:28:40,056
+Dinozzo...
+
+642
+00:28:41,135 --> 00:28:42,450
+Que fais-tu ?
+
+643
+00:28:42,451 --> 00:28:46,138
+Je fais un peu de recherche pour Abby.
+
+644
+00:28:46,521 --> 00:28:47,695
+Pour Abby ?
+
+645
+00:28:48,415 --> 00:28:51,928
+Et bien, peut-être que je sers deux maîtres.
+
+646
+00:28:51,929 --> 00:28:53,675
+Tu en sers un seul maintenant.
+
+647
+00:28:56,387 --> 00:28:58,992
+Comment es-tu entré au NCIS ?
+
+648
+00:28:58,993 --> 00:29:00,279
+J'ai souri.
+
+649
+00:29:01,926 --> 00:29:05,891
+J'ai fait sceller le casier du plieur immédiatement après l'incident, Monsieur.
+
+650
+00:29:10,159 --> 00:29:11,255
+Clefs.
+
+651
+00:29:38,648 --> 00:29:40,159
+J'ai quelque chose.
+
+652
+00:29:59,815 --> 00:30:01,381
+Un diluant pour décaper l'étain.
+
+653
+00:30:01,382 --> 00:30:02,709
+Lit le contenu.
+
+654
+00:30:09,778 --> 00:30:14,299
+Contient un distillat du pétrole, ammoniaque et acide sulfurique.
+
+655
+00:30:14,300 --> 00:30:16,044
+Dangereux si avalé...
+
+656
+00:30:16,045 --> 00:30:18,559
+ou appliqué sur des suspentes.
+
+657
+00:30:19,167 --> 00:30:21,351
+Le casier de Ramsey.
+
+658
+00:30:21,835 --> 00:30:22,998
+Ceci ne m'appartient pas.
+
+659
+00:30:22,999 --> 00:30:26,501
+Sergent Nutt, mettez le caporal en détention.
+
+660
+00:30:26,502 --> 00:30:27,927
+Tony, lis-lui ses droits.
+
+661
+00:30:27,928 --> 00:30:30,742
+Vous avez le droit de garder le silence et de ne faire aucune déclaration.
+
+662
+00:30:30,743 --> 00:30:34,548
+Toute déclaration pourrait être utilisée contre vous lors d'une court martial...
+
+663
+00:30:38,600 --> 00:30:43,500
+La rumeur prétend que vous et Thumper vous êtes battus dans le hangar.
+
+664
+00:30:43,501 --> 00:30:45,781
+Nous avons échangé des mots, Monsieur.
+
+665
+00:30:45,782 --> 00:30:47,338
+Et des poings.
+
+666
+00:30:47,339 --> 00:30:49,954
+Un coup ou deux ont été lancés.
+Rien de bien méchant.
+
+667
+00:30:49,955 --> 00:30:54,320
+Mais je suis certain de ne pas avoir été suffisamment en colère pour le tuer, Monsieur.
+
+668
+00:30:54,321 --> 00:30:57,057
+Eh bien, peut-être vouliez-vous simplement l'effrayer.
+
+669
+00:30:57,058 --> 00:30:59,903
+Mais Thumper était sous analgésiques et...
+
+670
+00:30:59,904 --> 00:31:02,048
+il n'a pas eut le temps d'ouvrir le ventral.
+
+671
+00:31:02,049 --> 00:31:03,502
+Je n'ai pas touché son parachute, Monsieur.
+
+672
+00:31:03,503 --> 00:31:04,653
+Comment aurais-je pu ?
+
+673
+00:31:04,654 --> 00:31:08,838
+Je suis suspendu et le hangar est sous clefs.
+
+674
+00:31:10,180 --> 00:31:11,527
+Qu'as-tu trouvé ?
+
+675
+00:31:11,528 --> 00:31:14,527
+Le magasin de bricolage où notre homme a fait une pose achat.
+
+676
+00:31:14,528 --> 00:31:15,521
+Le caissier est assez vague.
+
+677
+00:31:15,522 --> 00:31:19,546
+Il se rappel d'un Marine particulièrement pressé de faire copier une clé.
+
+678
+00:31:23,227 --> 00:31:25,789
+Tout ce dont vous aviez besoin c'était une clé...
+
+679
+00:31:26,951 --> 00:31:28,642
+comme celle-ci.
+
+680
+00:31:30,743 --> 00:31:33,028
+J'ai trouvé celle-ci dans les affaires de Thumper.
+
+681
+00:31:33,029 --> 00:31:34,855
+Si ce sont les clefs du hangar,
+
+682
+00:31:34,856 --> 00:31:37,390
+vous n'en trouverez pas une comme celle-ci sur mon trousseau.
+
+683
+00:31:37,391 --> 00:31:40,048
+J'ai loupé quelques pliages, Monsieur, mais jamais intentionnellement.
+
+684
+00:31:40,049 --> 00:31:41,615
+Un homme qui saute avec un de mes parachutes,
+
+685
+00:31:41,616 --> 00:31:43,401
+il met sa vie entre mes mains.
+
+686
+00:31:43,402 --> 00:31:45,142
+Je n'ai jamais brisé cette confiance, Monsieur.
+
+687
+00:31:45,143 --> 00:31:46,345
+Jamais.
+
+688
+00:31:46,346 --> 00:31:47,606
+Maintenant...
+
+689
+00:31:53,267 --> 00:31:55,106
+Allez-vous me dire
+
+690
+00:31:55,107 --> 00:31:56,852
+que c'était aussi une fausse preuve ?
+
+691
+00:31:56,853 --> 00:31:58,163
+C'est forcément cela.
+
+692
+00:31:58,164 --> 00:32:00,550
+Je ne suis pas coupable, Monsieur.
+
+693
+00:32:01,346 --> 00:32:03,790
+Ils sont toujours si sincères lorsqu'ils disent cela.
+
+694
+00:32:03,791 --> 00:32:07,184
+Et que diriez-vous si je vous proposais de prouver cela ?
+
+695
+00:32:07,185 --> 00:32:08,932
+Tout ce que vous voudrez, Monsieur.
+
+696
+00:32:09,233 --> 00:32:13,182
+Acceptez-vous ne nous donner un échantillon de votre ADN ?
+
+697
+00:32:13,662 --> 00:32:17,513
+Quelqu'un a placé cette boîte dans mon casier et cette clé sur mon trousseau.
+
+698
+00:32:17,514 --> 00:32:19,325
+Qu'est-ce qui me prouve que vous n'avez pas également mon ADN
+
+699
+00:32:19,326 --> 00:32:21,948
+sur une autre fausse preuve ?
+
+700
+00:32:22,468 --> 00:32:24,047
+Rien.
+
+701
+00:32:30,776 --> 00:32:31,873
+Dinozzo...
+
+702
+00:32:33,536 --> 00:32:36,223
+Où as-tu appris à écrire, en Chine ?
+
+703
+00:32:36,224 --> 00:32:37,772
+J'aurais dit Egypte.
+
+704
+00:32:37,773 --> 00:32:39,784
+- Cela ressemble plus à des hiéroglyphes.
+- Hé.
+
+705
+00:32:39,785 --> 00:32:41,514
+Tu étais pressé de le lire.
+
+706
+00:32:41,515 --> 00:32:42,975
+C'est ma faute.
+
+707
+00:32:42,976 --> 00:32:44,951
+Ce sont les interrogatoires des marines qui n'ont pas sauté ?
+
+708
+00:32:44,952 --> 00:32:46,548
+Oui, ce n'est pas très intéressant, jusqu'à ce que...
+
+709
+00:32:46,549 --> 00:32:48,433
+Le caporal Ramsey a finit par abandonner.
+
+710
+00:32:48,434 --> 00:32:50,457
+Sa bouche était plus sèche que de la poussière de momie
+
+711
+00:32:50,458 --> 00:32:53,154
+J'ai dû faire quatre prélèvements pour avoir un échantillon d'ADN décent.
+
+712
+00:32:53,155 --> 00:32:55,126
+Combien de temps pour comparer à ces cellules de peau ?
+
+713
+00:32:55,127 --> 00:32:58,254
+A moins de vouloir des contaminations ou des erreurs, tu dois me donner 24 heures.
+
+714
+00:32:58,255 --> 00:33:00,017
+Abby, l'horloge tourne.
+
+715
+00:33:01,628 --> 00:33:04,188
+Tu n'espères pas qu'un homme coupable donne son ADN.
+
+716
+00:33:04,189 --> 00:33:05,719
+Ah, il a lancé les dés.
+
+717
+00:33:05,720 --> 00:33:08,223
+En espérant qu'il ait une chance sur un million que cela ne corresponde pas.
+
+718
+00:33:08,224 --> 00:33:09,533
+Les gens coupables font cela ?
+
+719
+00:33:09,534 --> 00:33:11,065
+Tout le temps.
+
+720
+00:33:11,766 --> 00:33:13,836
+Attends, Kate tient quelque chose.
+
+721
+00:33:13,837 --> 00:33:16,402
+Et si Ramsey s'était fait avoir ?
+
+722
+00:33:16,403 --> 00:33:17,692
+Et s’il était innocent ?
+
+723
+00:33:17,693 --> 00:33:19,197
+Et s’il disait la vérité ?
+
+724
+00:33:19,198 --> 00:33:22,157
+Eh bien, nous le saurons dans 24 heures, mais je ne parierais pas dessus.
+
+725
+00:33:22,158 --> 00:33:22,790
+Ouais, et bien tu sais quoi ?
+
+726
+00:33:22,791 --> 00:33:25,806
+Je n'aime pas rester assis sur mon cul, à attendre une correspondance ADN.
+
+727
+00:33:25,807 --> 00:33:27,762
+Il n'y a que deux autres suspects possibles.
+
+728
+00:33:27,763 --> 00:33:29,739
+Les caporaux Dafelmair ou Brinkman.
+
+729
+00:33:29,740 --> 00:33:32,176
+Non, il y en a 3. Tu oublies le Capitaine Faul.
+
+730
+00:33:32,177 --> 00:33:34,364
+Il possède la clé du hangar.
+
+731
+00:33:35,310 --> 00:33:36,877
+Et tu crois aller où, bubba ?
+
+732
+00:33:36,878 --> 00:33:38,660
+Tu as un rapport à terminer.
+
+733
+00:33:40,613 --> 00:33:44,037
+Le Sergent Fuentes est l'un de mes meilleurs sous-officiers.
+
+734
+00:33:44,038 --> 00:33:46,953
+Il était sévère avec son plieur, mais juste.
+
+735
+00:33:46,954 --> 00:33:48,343
+J'ai toujours des difficultés à croire que
+
+736
+00:33:48,344 --> 00:33:51,274
+son rapport sur le caporal Ramsey l'ait conduit au meurtre.
+
+737
+00:33:51,275 --> 00:33:53,736
+Le caporal Ramsey n'a pas encore été jugé coupable, capitaine.
+
+738
+00:33:53,737 --> 00:33:55,111
+Vous le détenez.
+
+739
+00:33:55,112 --> 00:33:57,114
+La rumeur dit qu'il a avoué.
+
+740
+00:33:57,115 --> 00:34:00,412
+Vous n'avez jamais connu un Marine capitaine qui croyait en la rumeur.
+
+741
+00:34:02,572 --> 00:34:04,865
+Comment avez vous organisé le jour de l'exercice ?
+
+742
+00:34:04,866 --> 00:34:06,208
+J'ai passé la matinée à préparer le briefing
+
+743
+00:34:06,209 --> 00:34:08,679
+avec les pilotes du C-130 de la Navy.
+
+744
+00:34:08,680 --> 00:34:10,405
+J'ai remarqué que vous vous êtes servi d'un avion de la Navy.
+
+745
+00:34:10,406 --> 00:34:12,543
+La plupart des nôtres sont en Iraq.
+
+746
+00:34:12,544 --> 00:34:14,053
+Vous avez déjeuné avec eux ?
+
+747
+00:34:14,054 --> 00:34:15,660
+Au messe des officiers.
+
+748
+00:34:15,661 --> 00:34:17,613
+Après le repas nous avons fait deux coups d'essai.
+
+749
+00:34:17,614 --> 00:34:21,018
+nous avons eut un nouveau briefing, puis nous sommes montés dans l'avion.
+
+750
+00:34:21,621 --> 00:34:22,694
+Pourquoi ?
+
+751
+00:34:22,695 --> 00:34:25,631
+Vous avez la clé du hangar, capitaine ?
+
+752
+00:34:31,176 --> 00:34:32,656
+Le caporal Ramsey a laissé la clé
+
+753
+00:34:32,657 --> 00:34:36,158
+du sergent Fuentes suffisamment longtemps pour la dupliquer.
+
+754
+00:34:36,159 --> 00:34:38,324
+Le caporal Ramsey a fait une copie de la clé du hangar ?
+
+755
+00:34:38,325 --> 00:34:41,437
+C'est la seule façon qui lui aurait permis de pénétrer pour saboter le parachute.
+
+756
+00:34:41,438 --> 00:34:42,943
+Merci, capitaine.
+
+757
+00:34:43,941 --> 00:34:45,719
+- Merci.
+- Merci.
+
+758
+00:34:47,238 --> 00:34:50,111
+Pourquoi n'avez-vous simplement demandé à voir ma clé ?
+
+759
+00:34:51,411 --> 00:34:53,002
+L'agent Todd est nouvelle.
+
+760
+00:34:53,003 --> 00:34:55,041
+Je lui enseigne comment interroger.
+
+761
+00:34:55,042 --> 00:34:59,223
+Le hangar était fermé entre 09h et 18h.
+
+762
+00:34:59,786 --> 00:35:02,081
+C'est pour cette raison que vous vouliez savoir ce que j'ai fait ce jour.
+
+763
+00:35:02,082 --> 00:35:03,960
+Vous me suspectez.
+
+764
+00:35:03,961 --> 00:35:05,638
+Si le capitaine était un suspect.
+
+765
+00:35:05,639 --> 00:35:08,474
+Nous aurions dû lui lire ses droits, n'est-ce pas ?
+
+766
+00:35:08,475 --> 00:35:10,163
+Très bien, agent Todd.
+
+767
+00:35:10,164 --> 00:35:11,221
+Parfait.
+
+768
+00:35:21,249 --> 00:35:23,268
+Le capitaine a un alibi ?
+
+769
+00:35:23,269 --> 00:35:26,094
+Il était à proximité du hangar lorsque les parachutes ont été sabotés.
+
+770
+00:35:26,095 --> 00:35:27,722
+Ramsey est l'enfoiré.
+
+771
+00:35:27,723 --> 00:35:29,852
+Ca peut toujours être Dafelmair ou Brinkman.
+
+772
+00:35:29,853 --> 00:35:33,257
+Le sergent Fuentes a supervisé le pliage manuel des parachutes.
+
+773
+00:35:33,258 --> 00:35:36,663
+Ouais, il a surveillé son plieur depuis l'arrière du camion.
+
+774
+00:35:37,144 --> 00:35:39,258
+Caporal Ramsey a participé.
+
+775
+00:35:39,259 --> 00:35:40,609
+Eh bien il est suspendu de pliage,
+
+776
+00:35:40,610 --> 00:35:43,115
+pas de distribuer les parachutes ou de sauter.
+
+777
+00:35:43,501 --> 00:35:47,098
+Il a put donner à Thumper un parachute sale.
+
+778
+00:35:47,429 --> 00:35:48,295
+Qu'as-tu dis ?
+
+779
+00:35:48,296 --> 00:35:51,346
+Ramsey a pu donner à Thumper un parachute saboté.
+
+780
+00:35:51,347 --> 00:35:53,010
+Non, tu as dis sale.
+
+781
+00:35:55,135 --> 00:35:56,591
+Quoi ?
+
+782
+00:35:56,798 --> 00:35:58,561
+Avec Gibbs on ne sait jamais.
+
+783
+00:35:59,123 --> 00:36:01,192
+Abby, je dois vois le ventral du sergent Fuentes.
+
+784
+00:36:01,193 --> 00:36:03,216
+Tu devrais d'abord jeter un coup d'œil à ça.
+
+785
+00:36:03,217 --> 00:36:05,482
+Alors que je ne conduisais une simple analyse ADN,
+
+786
+00:36:05,483 --> 00:36:08,169
+J'ai enfin eut le temps de réaliser un prélèvement sur les suspentes.
+
+787
+00:36:08,170 --> 00:36:10,782
+Vous admirez une vue infrarouge de ce que fait de mieux la Bolivie.
+
+788
+00:36:10,783 --> 00:36:11,660
+Cocaïne ?
+
+789
+00:36:11,661 --> 00:36:12,970
+Notre tueur en consomme ?
+
+790
+00:36:12,971 --> 00:36:14,425
+Non le cristal est trop pur.
+
+791
+00:36:14,426 --> 00:36:17,543
+Le résidu sur sa peau provient d'avant le coupage et le pesage.
+
+792
+00:36:17,544 --> 00:36:19,057
+Pourquoi est-ce que je ne crois pas que Thumper a été tué
+
+793
+00:36:19,058 --> 00:36:20,911
+pour avoir dénoncé le pliage au colonel ?
+
+794
+00:36:20,912 --> 00:36:24,059
+- Où se trouve le ventral de Thumper ?
+- Il est par ici.
+
+795
+00:36:27,872 --> 00:36:30,362
+Je l'ai déjà vérifié, Gibbs.
+Il est clean.
+
+796
+00:36:35,300 --> 00:36:37,227
+Tu sais, quoi, il est trop clean.
+
+797
+00:36:37,738 --> 00:36:41,263
+Il est beaucoup trop clean pour quelqu'un qui a traversé un arbre et un 4x4.
+
+798
+00:36:41,264 --> 00:36:43,303
+Où se trouve le second matériel de saut que nous avons confisqué ?
+
+799
+00:36:43,304 --> 00:36:47,066
+Je l'ai rangé dans le labo de balistique après l'avoir testé.
+
+800
+00:36:48,770 --> 00:36:50,275
+Que cherches-tu ?
+
+801
+00:36:50,276 --> 00:36:55,201
+le matériel de Ramsey, Dafelmair et Brinkman. En voilà un.
+
+802
+00:36:56,956 --> 00:36:58,154
+Que cherches-tu ?
+
+803
+00:36:58,155 --> 00:37:00,208
+Une grosse bêtise.
+
+804
+00:37:17,168 --> 00:37:19,099
+Il est là. Il est sale.
+
+805
+00:37:20,490 --> 00:37:22,882
+C'est le ventral avec lequel Thumper a sauté.
+
+806
+00:37:22,883 --> 00:37:24,859
+13, Malchanceux.
+
+807
+00:37:25,576 --> 00:37:28,841
+Quelqu'un a fait un échange après qu'il ait touché le 4x4.
+
+808
+00:37:34,699 --> 00:37:37,264
+Le déclencheur a été soudé.
+
+809
+00:37:37,526 --> 00:37:40,443
+Peu importe que l'analgésique l'ait ralenti.
+
+810
+00:37:40,444 --> 00:37:42,608
+Il ne pouvait pas se servir de son parachute.
+
+811
+00:37:42,609 --> 00:37:44,796
+A qui est ce sac à dos ?
+
+812
+00:37:51,132 --> 00:37:52,392
+Appelez le capitaine Faul.
+
+813
+00:37:52,393 --> 00:37:54,410
+Dîtes-lui que ses sauts d'entraînement peuvent reprendre.
+
+814
+00:37:54,411 --> 00:37:55,505
+Nous tenons notre tueur.
+
+815
+00:37:55,506 --> 00:37:56,534
+Dois-je lui dire qui ?
+
+816
+00:37:56,535 --> 00:37:57,733
+Non.
+
+817
+00:37:58,107 --> 00:38:00,103
+Je ne veux pas de preuve ADN.
+
+818
+00:38:00,104 --> 00:38:03,053
+Je veux que cet enfoiré avoue.
+
+819
+00:38:03,942 --> 00:38:05,438
+Comment va-t-on faire cela ?
+
+820
+00:38:05,439 --> 00:38:07,691
+Porte ça quand nous sauterons.
+
+821
+00:38:08,090 --> 00:38:09,314
+Sauterons ?
+
+822
+00:38:19,108 --> 00:38:20,281
+Hé, capitaine.
+
+823
+00:38:20,884 --> 00:38:23,260
+N'êtes-vous pas un peu âgé pour re-signer ?
+
+824
+00:38:23,261 --> 00:38:25,631
+J'ai cru comprendre qu'il y avait une guerre en cours.
+
+825
+00:38:26,474 --> 00:38:28,257
+Agent Dinozzo.
+
+826
+00:38:29,402 --> 00:38:32,065
+Je n'arrive pas à deviner si vous vous engagez ou si vous vous défilez.
+
+827
+00:38:32,066 --> 00:38:33,632
+Ha ha, elle est bien bonne celle-là.
+
+828
+00:38:33,633 --> 00:38:35,234
+On vient avec vous, les gars.
+
+829
+00:38:35,235 --> 00:38:37,724
+Mission d'entraînement du NCIS.
+
+830
+00:38:39,054 --> 00:38:41,655
+Et pourquoi je n'y crois pas ?
+
+831
+00:38:42,376 --> 00:38:44,467
+Et pourquoi pas ?
+
+832
+00:38:44,468 --> 00:38:45,998
+J'aurai horreur d'avoir loupé l'occasion d'éjecter
+
+833
+00:38:45,999 --> 00:38:49,409
+deux agents du NCIS hors d'un avion.
+
+834
+00:38:57,017 --> 00:38:59,112
+Pourquoi sautez-vous avec nous, Monsieur ?
+
+835
+00:38:59,113 --> 00:39:00,946
+J'ai toujours voulu sauter.
+
+836
+00:39:00,947 --> 00:39:03,168
+L'agent Gibbs est venu pour se marrer.
+
+837
+00:39:03,169 --> 00:39:07,012
+C'est dur de croire que Dave à tué Thumper pour une stupide suspension de 2 semaines, Monsieur.
+
+838
+00:39:07,013 --> 00:39:08,190
+Oui.
+
+839
+00:39:08,191 --> 00:39:11,756
+Thumper lui en fait bavé, Monsieur, mais pas plus qu'à nous.
+
+840
+00:39:11,757 --> 00:39:14,156
+- Cela ne tient pas la route.
+- Oh, non.
+
+841
+00:39:14,157 --> 00:39:15,057
+Quoi ?
+
+842
+00:39:15,058 --> 00:39:16,831
+On se dégonfle ?
+
+843
+00:39:17,377 --> 00:39:18,831
+Treize.
+
+844
+00:39:18,832 --> 00:39:19,993
+C'est mon premier saut.
+
+845
+00:39:19,994 --> 00:39:22,025
+Mon ventral a le numéro 13.
+
+846
+00:39:22,026 --> 00:39:25,108
+Cela n'aurait pas dérangé Thumper, n'est-ce pas les gars ?
+
+847
+00:39:27,540 --> 00:39:29,669
+Aucun d'entrevous n'est superstitieux ?
+
+848
+00:39:29,670 --> 00:39:30,660
+- Non, Monsieur.
+- Non, Monsieur.
+
+849
+00:39:30,661 --> 00:39:31,832
+Bien.
+
+850
+00:39:32,085 --> 00:39:34,546
+Pourquoi tu n'échangerais pas avec le caporal Brinkman ?
+
+851
+00:39:34,547 --> 00:39:36,318
+Quel est numéro de votre ventral ?
+
+852
+00:39:36,319 --> 00:39:37,173
+Quatre.
+
+853
+00:39:37,562 --> 00:39:38,397
+Quatre ?
+
+854
+00:39:39,067 --> 00:39:41,270
+"Quatre" porte malheur en Chine.
+
+855
+00:39:41,271 --> 00:39:43,133
+Nous ne sommes pas en Chine.
+
+856
+00:39:43,134 --> 00:39:44,369
+Je m'en fiche.
+
+857
+00:39:44,592 --> 00:39:45,898
+Quel est votre numéro ?
+
+858
+00:39:45,899 --> 00:39:47,000
+Huit.
+
+859
+00:39:47,001 --> 00:39:48,075
+Bien.
+
+860
+00:39:48,396 --> 00:39:50,133
+"Huit" porte chance en Chine.
+
+861
+00:39:54,356 --> 00:39:56,538
+Y'a-t-il un problème ?
+
+862
+00:39:57,510 --> 00:39:58,862
+Non, Monsieur.
+
+863
+00:40:03,214 --> 00:40:04,219
+Debout !
+
+864
+00:40:11,349 --> 00:40:12,707
+Accrochez-vous !
+
+865
+00:40:17,283 --> 00:40:20,417
+Thumper vous en fait baver, caporal Dafelmair ?
+
+866
+00:40:20,418 --> 00:40:22,480
+Il en fait baver à tout le monde, Monsieur.
+
+867
+00:40:22,481 --> 00:40:24,861
+C'était parce que vous êtes un dealer ?
+
+868
+00:40:26,693 --> 00:40:28,922
+C'est son ventral que vous portez.
+
+869
+00:40:28,923 --> 00:40:32,450
+Celui que vous avez échangé lorsqu'il a atterrit.
+
+870
+00:40:34,474 --> 00:40:36,119
+Vous ne savez pas de quoi vous parlez, Monsieur.
+
+871
+00:40:36,120 --> 00:40:37,716
+Vous étiez le premier au sol.
+
+872
+00:40:37,717 --> 00:40:39,442
+Le premier à avoir atteint Thumper.
+
+873
+00:40:39,443 --> 00:40:41,684
+Ramsey aidait Brinkman à se dégager d'un arbre.
+
+874
+00:40:41,685 --> 00:40:42,939
+Que dit-il, Paul ?
+
+875
+00:40:42,940 --> 00:40:43,850
+Je ne sais pas.
+
+876
+00:40:43,851 --> 00:40:48,290
+Cela ne prend que deux minutes d'échanger
+un mauvais parachute pour un bon.
+
+877
+00:40:48,730 --> 00:40:51,596
+Le Corps des Marines vous avez donné une seconde chance.
+
+878
+00:40:51,597 --> 00:40:53,272
+Lorsque Thumper a découvert que vous souilliez l'uniforme
+
+879
+00:40:53,273 --> 00:40:55,302
+En dealant de la drogue, il n'en a pas fait autant.
+
+880
+00:40:55,303 --> 00:40:56,909
+Je pensais que le Caporal Ramsey était coupable ?
+
+881
+00:40:56,910 --> 00:40:58,425
+Il l'est, Monsieur.
+
+882
+00:41:01,814 --> 00:41:03,970
+Vous pensez mal, caporal.
+
+883
+00:41:04,644 --> 00:41:05,751
+Prouvez-les.
+
+884
+00:41:06,621 --> 00:41:08,014
+Bon sang mais que faites-vous ?
+
+885
+00:41:08,015 --> 00:41:09,135
+Son dorsal ne peut pas s'ouvrir !
+
+886
+00:41:09,136 --> 00:41:10,405
+Il a un ventral !
+
+887
+00:41:10,406 --> 00:41:12,018
+Capitaine, c'est dingue.
+
+888
+00:41:12,019 --> 00:41:14,108
+Vous allez mettre un terme à cela, Monsieur ?
+
+889
+00:41:18,331 --> 00:41:20,471
+30 secondes avant le saut.
+
+890
+00:41:21,260 --> 00:41:26,548
+Un aveu et le nom de votre fournisseur,
+vous permettra de faire un marché.
+
+891
+00:41:32,276 --> 00:41:33,959
+Bon comment le marché ?
+
+892
+00:41:33,960 --> 00:41:35,732
+Lit lui son article 31.
+
+893
+00:41:35,733 --> 00:41:37,213
+Vous avez le droit de garder le silence...
+
+894
+00:41:37,214 --> 00:41:38,717
+Il ne mérite pas un marché !
+
+895
+00:41:38,718 --> 00:41:40,336
+Hé, hé, reculez-vous !
+
+896
+00:41:40,337 --> 00:41:43,032
+Allons, on se calme les gars !
+
+897
+00:41:45,345 --> 00:41:46,769
+Dinozzo !
+
+898
+00:41:51,237 --> 00:41:53,788
+Au revoir, Dinozzo.
+
+899
+00:41:57,089 --> 00:42:00,419
+<i>Les autorités militaires ont arrêté un marine et l'ont inculpé pour meurtre</i>
+
+900
+00:42:00,420 --> 00:42:02,555
+<i>en relation avec l'accident tragique de parachute</i>
+
+901
+00:42:02,556 --> 00:42:05,621
+<i>d'il y a trois jours du sergent Larry Fuentes.</i>
+
+902
+00:42:05,622 --> 00:42:08,502
+Allons-nous jamais faire la une du journal de 23h ?
+
+903
+00:42:08,503 --> 00:42:11,317
+S'aurait pût arriver ce soir si tu t'étais brisé le cou.
+
+904
+00:42:14,020 --> 00:42:16,310
+Et bien ce fût une longue journée.
+
+905
+00:42:17,628 --> 00:42:19,208
+Tu pars bientôt ?
+
+906
+00:42:22,596 --> 00:42:23,744
+Très bien.
+
+907
+00:42:25,142 --> 00:42:26,432
+Bonne nuit.
+
+908
+00:43:04,140 --> 00:43:05,411
+Je peux monter ?
+
+909
+00:43:07,762 --> 00:43:09,415
+Tu as le mot de passe ?
+
+910
+00:43:09,804 --> 00:43:11,104
+Oui, Monsieur.
+
+911
+00:43:11,105 --> 00:43:12,992
+Semper fi.
+
+912
+00:43:15,226 --> 00:43:16,898
+C'est un bon mot de passe.
+
+913
+00:43:17,118 --> 00:43:18,251
+Monte.
+
+914
+00:43:26,535 --> 00:43:27,426
+Très bien.
+
+915
+00:43:30,001 --> 00:43:38,681
+www.team-ncis.com
+www.forom.com
+

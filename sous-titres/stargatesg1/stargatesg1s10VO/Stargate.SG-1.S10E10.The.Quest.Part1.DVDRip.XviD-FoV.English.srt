@@ -1,0 +1,2612 @@
+1
+00:00:02,002 --> 00:00:04,903
+<i>NARRA TOR: Previously on</i> Stargate SG-1.
+
+2
+00:00:05,005 --> 00:00:07,132
+<i>TEAL 'C: According to those</i>
+<i>who witnessed the battle,</i>
+
+3
+00:00:07,240 --> 00:00:11,267
+<i>the enemy is led by a young woman</i>
+<i>of extraordinary powers.</i>
+
+4
+00:00:13,213 --> 00:00:14,771
+You want Merlin's weapon for yourselves.
+
+5
+00:00:14,881 --> 00:00:19,147
+A weapon capable of destroying
+not only the Ori, but the Ancients as well.
+
+6
+00:00:19,252 --> 00:00:23,848
+I did find one reference in that library
+that might prove to be useful, Atlantis.
+
+7
+00:00:23,957 --> 00:00:26,949
+You think the location of Merlin's weapon
+is hidden in their database?
+
+8
+00:00:27,060 --> 00:00:28,527
+I think it's worth checking out.
+
+9
+00:00:28,628 --> 00:00:30,323
+We're looking for the names
+of two planets
+
+10
+00:00:30,430 --> 00:00:32,921
+known on Earth in ancient times
+in the dialect of Old English
+
+11
+00:00:33,033 --> 00:00:35,831
+as Castiana and Sahal. Satisfied?
+
+12
+00:00:35,935 --> 00:00:39,166
+Taoth Vaclarush and Valos Cor.
+
+13
+00:00:45,345 --> 00:00:47,108
+Hey, Jackson, what are you doing?
+
+14
+00:00:47,213 --> 00:00:49,647
+Oh, just trying to figure out
+the location of Merlin's weapon,
+
+15
+00:00:49,749 --> 00:00:54,379
+so we can find it in time to defeat the Ori,
+hopefully save our galaxy. You?
+
+16
+00:00:54,487 --> 00:00:55,647
+We're going for Szechwan.
+You want to come?
+
+17
+00:00:55,755 --> 00:00:56,722
+No, I'll pass.
+
+18
+00:00:58,091 --> 00:01:00,218
+How is your search coming,
+Daniel Jackson?
+
+19
+00:01:00,326 --> 00:01:04,126
+Slowly, but I think I'm onto something.
+Here, take a look at this.
+
+20
+00:01:10,336 --> 00:01:12,998
+These are the locations of the planets
+that Arthur and his knights set off to
+
+21
+00:01:13,106 --> 00:01:16,633
+in their quest for the Sangraal,
+Castiana, Sahal and Vagon Brei.
+
+22
+00:01:16,743 --> 00:01:18,711
+Now, we searched all three
+and came up empty,
+
+23
+00:01:18,812 --> 00:01:22,179
+so I thought it was a dead end,
+until I noticed this.
+
+24
+00:01:23,216 --> 00:01:25,810
+Their coordinates form
+an equilateral triangle.
+
+25
+00:01:25,919 --> 00:01:30,549
+Now, add their departure point,
+the Camelot planet, and you get
+
+26
+00:01:33,827 --> 00:01:35,192
+a tetrahedron.
+
+27
+00:01:35,295 --> 00:01:37,354
+A perfect pyramid.
+
+28
+00:01:37,464 --> 00:01:38,988
+Well, that's a hell of a coincidence.
+
+29
+00:01:39,099 --> 00:01:43,035
+Exactly, and it means something.
+I'm just not sure what.
+
+30
+00:01:51,544 --> 00:01:52,738
+(VALA PANTING)
+
+31
+00:01:52,846 --> 00:01:55,974
+I have the answer. I've figured it out.
+
+32
+00:01:57,717 --> 00:02:01,346
+- Those three planets are part of a puzzle.
+- This much I already know.
+
+33
+00:02:01,454 --> 00:02:04,981
+The pyramid is a visual representation
+of "three into one."
+
+34
+00:02:05,091 --> 00:02:06,149
+Three addresses into one.
+
+35
+00:02:06,259 --> 00:02:07,624
+That's what Morgan
+was trying to tell you,
+
+36
+00:02:07,727 --> 00:02:09,820
+that the Sangraal is located on a planet
+
+37
+00:02:09,929 --> 00:02:13,126
+the address of which is made up of
+symbols from each of those three worlds,
+
+38
+00:02:13,233 --> 00:02:18,000
+Castiana, Sahal, Vagon Brei.
+It just came to me in a dream.
+
+39
+00:02:24,444 --> 00:02:27,345
+Okay, this program will cross-reference
+the addresses in the database
+
+40
+00:02:27,447 --> 00:02:29,472
+with those of Castiana,
+Sahal and Vagon Brei,
+
+41
+00:02:29,582 --> 00:02:30,913
+searching out planetary designations
+
+42
+00:02:31,017 --> 00:02:33,679
+made up of symbols
+from all three addresses.
+
+43
+00:02:35,655 --> 00:02:38,123
+Given the number of symbols and
+the amount of addresses in the database,
+
+44
+00:02:38,224 --> 00:02:40,988
+we could be looking at dozens,
+maybe hundreds, of permutations.
+
+45
+00:02:42,362 --> 00:02:43,488
+(SIGHS)
+
+46
+00:02:48,268 --> 00:02:49,326
+(BEEPING)
+
+47
+00:02:52,205 --> 00:02:54,230
+Or maybe just the one.
+
+48
+00:04:10,717 --> 00:04:12,412
+JACKSON: The culture and
+level of technology looks similar
+
+49
+00:04:12,518 --> 00:04:14,486
+to what we found on the Camelot planet.
+
+50
+00:04:14,587 --> 00:04:17,647
+MITCHELL: Yeah, I'm going to assume
+that's a good thing.
+
+51
+00:04:17,757 --> 00:04:21,625
+I think some of these folks have
+figured out we're not from around here.
+
+52
+00:04:21,728 --> 00:04:22,956
+Excuse me?
+
+53
+00:04:23,062 --> 00:04:25,690
+I was wondering
+if we could get some help.
+
+54
+00:04:26,432 --> 00:04:28,127
+A little information?
+
+55
+00:04:28,234 --> 00:04:30,532
+We've come in search of the Sangraal.
+
+56
+00:04:31,904 --> 00:04:33,769
+It's a red thing, about yea big.
+
+57
+00:04:33,873 --> 00:04:35,602
+We know what the Sangraal looks like.
+
+58
+00:04:35,708 --> 00:04:38,199
+It's been many generations
+since anyone has come in search of it,
+
+59
+00:04:38,311 --> 00:04:40,779
+and now you're the second group
+of adventurers in less than a week
+
+60
+00:04:40,880 --> 00:04:42,939
+to take up the quest.
+
+61
+00:04:43,049 --> 00:04:45,142
+The second group?
+
+62
+00:04:45,251 --> 00:04:48,015
+A number of Jaffa passed through here
+three days ago.
+
+63
+00:04:48,121 --> 00:04:49,782
+Were they accompanied by anyone?
+
+64
+00:04:49,889 --> 00:04:54,053
+Yes. They were led by a man who clearly
+commanded their fear and respect.
+
+65
+00:04:54,160 --> 00:04:55,354
+Ba'al has been here.
+
+66
+00:04:55,461 --> 00:04:57,258
+And he's got a three-day head start on us.
+
+67
+00:04:57,363 --> 00:04:59,126
+If you truly seek the Sangraal,
+
+68
+00:04:59,232 --> 00:05:02,531
+you must consult with the
+<i>Parchment of Virtues</i> in the village library.
+
+69
+00:05:02,635 --> 00:05:05,502
+It will prepare you for the journey to come.
+
+70
+00:05:05,605 --> 00:05:08,597
+Over there? Thank you.
+
+71
+00:05:09,309 --> 00:05:11,368
+But I should warn you,
+
+72
+00:05:11,477 --> 00:05:14,742
+no one has ever returned
+from the quest alive.
+
+73
+00:05:14,847 --> 00:05:18,112
+If you value your lives,
+you would do well to reconsider.
+
+74
+00:05:18,217 --> 00:05:22,210
+We appreciate that,
+but that is quitter talk.
+
+75
+00:05:31,497 --> 00:05:32,964
+Hello!
+
+76
+00:05:35,468 --> 00:05:37,629
+Right, <i>Parchment of Virtues.</i>
+
+77
+00:05:37,737 --> 00:05:39,728
+Do we look under "P" for "parchment"
+or "V" for "virtues"?
+
+78
+00:05:39,839 --> 00:05:42,808
+I'd say look for any and all materials
+related to the Sangraal.
+
+79
+00:05:42,909 --> 00:05:46,640
+Or you could simply ask me.
+
+80
+00:05:47,880 --> 00:05:51,611
+I am Osric, keeper of the village archives.
+
+81
+00:05:51,718 --> 00:05:54,949
+Hi. We're looking for something called
+the <i>Parchment of Virtues.</i>
+
+82
+00:05:55,054 --> 00:05:59,957
+Another band of stalwart heroes
+come to tempt fate
+
+83
+00:06:00,059 --> 00:06:03,688
+in the hopes of claiming
+the legendary prize.
+
+84
+00:06:04,831 --> 00:06:08,892
+- What do you know of the Sangraal?
+- Only what I have heard from legend.
+
+85
+00:06:09,001 --> 00:06:12,960
+That it is located in a cave
+beyond the outlying forest,
+
+86
+00:06:13,072 --> 00:06:16,701
+but that the journey there
+is fraught with peril.
+
+87
+00:06:18,311 --> 00:06:25,240
+Ages ago, Morgan Le Fay
+enchanted the area with a terrible curse.
+
+88
+00:06:27,954 --> 00:06:31,685
+Since then, it has claimed countless lives.
+
+89
+00:06:31,791 --> 00:06:34,624
+Well, we don't put much stock in curses.
+
+90
+00:06:34,727 --> 00:06:38,823
+Yeah, well, neither did Phaedra,
+the cobbler's wife.
+
+91
+00:06:38,931 --> 00:06:42,162
+Several weeks ago,
+she set off in search of her son
+
+92
+00:06:42,268 --> 00:06:44,998
+who had strayed too far from the village.
+
+93
+00:06:45,104 --> 00:06:49,234
+Neither have been seen nor heard
+from since.
+
+94
+00:06:49,342 --> 00:06:53,574
+This parchment was purportedly
+left behind by Morgan herself
+
+95
+00:06:53,679 --> 00:06:56,944
+as a guide for knights of noble spirit,
+
+96
+00:06:57,049 --> 00:07:02,783
+since it is said that only the most virtuous
+will succeed in claiming the Sangraal.
+
+97
+00:07:03,823 --> 00:07:06,417
+"Only those of virtue true
+may win the prize concealed.
+
+98
+00:07:06,526 --> 00:07:08,790
+"Beyond the reach
+of the flawed and tainted,
+
+99
+00:07:08,895 --> 00:07:13,389
+"the Sangraal shall instead belong to he
+who speaks the guardian's name."
+
+100
+00:07:13,499 --> 00:07:14,761
+The guardian's name?
+
+101
+00:07:14,867 --> 00:07:20,066
+They say that the Sangraal is protected
+by the most powerful of magical beasts.
+
+102
+00:07:20,173 --> 00:07:21,765
+A dragon.
+
+103
+00:07:23,810 --> 00:07:25,175
+Dragon?
+
+104
+00:07:25,278 --> 00:07:26,575
+You doubt the legend?
+
+105
+00:07:26,679 --> 00:07:29,671
+Well, I'm sure the Sangraal is protected
+by something very powerful,
+
+106
+00:07:29,782 --> 00:07:32,410
+but I don't think it's an actual dragon.
+
+107
+00:07:32,518 --> 00:07:34,281
+OSRIC: (SCOFFING)
+Believe what you will.
+
+108
+00:07:34,387 --> 00:07:38,221
+With luck, you may have the opportunity
+to prove the truth for yourselves.
+
+109
+00:07:38,324 --> 00:07:43,023
+"Prudence, wisdom, charity,
+kindness and faith.
+
+110
+00:07:43,129 --> 00:07:46,257
+"Let these be your guide
+on this perilous quest."
+
+111
+00:07:48,534 --> 00:07:51,833
+Well, I'm sorry, but I think we're going to
+need a little bit more than that to go on.
+
+112
+00:07:51,938 --> 00:07:56,841
+No, all Morgan left behind
+was this parchment
+
+113
+00:07:56,943 --> 00:08:00,003
+and the map.
+
+114
+00:08:00,112 --> 00:08:02,808
+- There's a map?
+- Yes.
+
+115
+00:08:02,915 --> 00:08:05,884
+- May we see it?
+- No.
+
+116
+00:08:05,985 --> 00:08:07,043
+Why not?
+
+117
+00:08:07,153 --> 00:08:08,916
+I showed it to the last group
+of adventurers
+
+118
+00:08:09,021 --> 00:08:10,955
+who came in search of the Sangraal,
+
+119
+00:08:11,057 --> 00:08:14,083
+and they rewarded my trust
+by trying to take it.
+
+120
+00:08:14,193 --> 00:08:18,425
+Yeah, we know the guy
+that runs that operation.
+
+121
+00:08:19,265 --> 00:08:20,527
+We're not like him.
+
+122
+00:08:20,633 --> 00:08:24,125
+Well, I'm sorry.
+It's not for public view.
+
+123
+00:08:24,237 --> 00:08:28,298
+Hey! We wouldn't dream
+of trying to steal it.
+
+124
+00:08:28,774 --> 00:08:29,832
+(OSRIC CHUCKLES)
+
+125
+00:08:29,942 --> 00:08:30,042
+- We have to steal it.
+- We are not stealing the map.
+
+126
+00:08:30,042 --> 00:08:32,909
+- We have to steal it.
+- We are not stealing the map.
+
+127
+00:08:33,012 --> 00:08:35,503
+Nightfall, sneak in
+under cover of darkness.
+
+128
+00:08:35,615 --> 00:08:38,709
+Maybe I can just talk to Osric and
+convince him that our cause is virtuous.
+
+129
+00:08:38,818 --> 00:08:40,445
+That's brilliant,
+and while you're distracting him,
+
+130
+00:08:40,553 --> 00:08:41,781
+the rest of us can steal it.
+
+131
+00:08:41,888 --> 00:08:44,686
+For the last time, we are not...
+
+132
+00:08:44,790 --> 00:08:47,315
+Are you certain I cannot tempt you
+with a final meal?
+
+133
+00:08:47,426 --> 00:08:50,793
+What is it with this town
+and the "no-can-do" attitude?
+
+134
+00:08:50,897 --> 00:08:54,663
+Every time we turn around, someone's
+trying to write us off or scare us away.
+
+135
+00:08:54,767 --> 00:08:59,704
+I apologize. I should have said, "A final
+meal before you set off on your journey."
+
+136
+00:08:59,805 --> 00:09:01,773
+Well, that's better.
+
+137
+00:09:01,874 --> 00:09:04,638
+Although, it need be said,
+in the many thousands of years
+
+138
+00:09:04,744 --> 00:09:08,874
+that adventurers have been seeking
+the Sangraal, not one has succeeded.
+
+139
+00:09:09,415 --> 00:09:11,178
+(PEOPLE CLAMORING OUTSIDE)
+
+140
+00:09:27,066 --> 00:09:30,593
+What is this? What do you want here?
+
+141
+00:09:40,913 --> 00:09:43,347
+We are soldiers of the Ori,
+
+142
+00:09:43,449 --> 00:09:46,907
+and we have taken this village
+as part of their holy crusade
+
+143
+00:09:47,019 --> 00:09:50,011
+to rid this galaxy of evil.
+
+144
+00:09:50,122 --> 00:09:53,717
+Cooperate, and you won't be harmed.
+
+145
+00:09:56,362 --> 00:09:59,525
+Go through the buildings.
+Bring everyone out.
+
+146
+00:10:04,437 --> 00:10:06,064
+Who are these men?
+
+147
+00:10:07,206 --> 00:10:10,607
+Well, that is a long story.
+
+148
+00:10:12,511 --> 00:10:16,709
+Look, I know you have no reason to trust
+us any more than you do those guys...
+
+149
+00:10:16,816 --> 00:10:19,717
+I have not seen you shoot anyone.
+
+150
+00:10:20,853 --> 00:10:22,548
+That's an excellent point.
+
+151
+00:10:23,823 --> 00:10:25,814
+We're going to need your help.
+
+152
+00:10:37,870 --> 00:10:39,633
+They've got a dozen men
+guarding the gate,
+
+153
+00:10:39,739 --> 00:10:41,570
+another 50 or so in and around the village.
+
+154
+00:10:41,674 --> 00:10:45,166
+- Is that what I think it is?
+- The contents of the library.
+
+155
+00:10:53,419 --> 00:10:57,412
+You have spent your time
+ignorant to the truth,
+
+156
+00:10:57,523 --> 00:11:02,551
+stumbling aimlessly through the darkness
+cast upon your world
+
+157
+00:11:02,662 --> 00:11:05,460
+by the trappings of the past,
+
+158
+00:11:05,564 --> 00:11:10,433
+but now, the path to fulfillment
+stands revealed,
+
+159
+00:11:10,536 --> 00:11:15,803
+and the time has come
+to embrace a new faith.
+
+160
+00:11:21,947 --> 00:11:27,044
+Let the light of Origin show you the way.
+
+161
+00:11:53,512 --> 00:11:55,571
+You've encountered them before.
+
+162
+00:11:55,681 --> 00:11:57,774
+Many times and on many different worlds.
+
+163
+00:11:57,883 --> 00:12:00,443
+And how did the inhabitants
+of those other worlds resist them?
+
+164
+00:12:00,553 --> 00:12:01,577
+They didn't.
+
+165
+00:12:01,687 --> 00:12:03,450
+They either surrendered
+or they were slaughtered.
+
+166
+00:12:03,556 --> 00:12:06,423
+What are you saying, there's nothing
+we can do? We are doomed?
+
+167
+00:12:06,525 --> 00:12:07,890
+No, no, not necessarily.
+
+168
+00:12:07,993 --> 00:12:10,291
+We believe they can be defeated.
+That's why we're here.
+
+169
+00:12:10,396 --> 00:12:11,761
+We think that's why they're here as well,
+
+170
+00:12:11,864 --> 00:12:15,300
+to destroy the one thing
+capable of stopping them.
+
+171
+00:12:15,401 --> 00:12:16,368
+The Sangraal.
+
+172
+00:12:16,702 --> 00:12:17,999
+(BANGING ON DOOR)
+
+173
+00:12:21,474 --> 00:12:23,908
+OSRIC: Please, I know they're here.
+Please...
+
+174
+00:12:29,048 --> 00:12:32,211
+I must speak with you.
+The soldiers are looking for me.
+
+175
+00:12:32,318 --> 00:12:33,307
+Why?
+
+176
+00:12:33,419 --> 00:12:35,751
+Because they believe
+I can lead them to the Sangraal.
+
+177
+00:12:35,855 --> 00:12:37,618
+- Can you?
+- Well, of course!
+
+178
+00:12:37,723 --> 00:12:40,089
+What... You saved the map?
+
+179
+00:12:40,192 --> 00:12:43,457
+No, they unwittingly burned it
+with the rest of the village archives,
+
+180
+00:12:43,562 --> 00:12:46,360
+but a copy still exists.
+
+181
+00:12:46,465 --> 00:12:47,591
+Where?
+
+182
+00:12:48,534 --> 00:12:49,626
+Here.
+
+183
+00:12:49,735 --> 00:12:52,431
+I will lead you to Merlin's treasure.
+
+184
+00:12:52,538 --> 00:12:53,664
+(BANGING ON DOOR)
+
+185
+00:12:59,712 --> 00:13:02,977
+We want the old man.
+He has information we seek.
+
+186
+00:13:07,186 --> 00:13:09,086
+Not today, fellows.
+
+187
+00:13:10,122 --> 00:13:13,421
+Wow, this is awkward.
+
+188
+00:13:13,526 --> 00:13:15,494
+Our army has taken this village.
+
+189
+00:13:15,594 --> 00:13:19,291
+If you resist, there will be no escape.
+
+190
+00:13:19,398 --> 00:13:23,357
+Now, stand aside.
+
+191
+00:13:36,048 --> 00:13:38,642
+Oh, I think somebody
+must have heard that.
+
+192
+00:13:39,718 --> 00:13:42,050
+This way. Come quickly.
+
+193
+00:13:57,269 --> 00:13:58,930
+You should come with us.
+
+194
+00:13:59,038 --> 00:14:04,772
+My place is here. I'll be fine.
+I'll blame everything on you.
+
+195
+00:14:05,044 --> 00:14:06,511
+Good plan.
+
+196
+00:14:20,192 --> 00:14:21,557
+This way.
+
+197
+00:14:35,074 --> 00:14:36,473
+What the hell?
+
+198
+00:14:51,490 --> 00:14:52,752
+(BEEPING)
+
+199
+00:15:01,100 --> 00:15:03,534
+What's the matter with them?
+
+200
+00:15:03,636 --> 00:15:07,732
+I don't know. I'm picking up
+varying anomalous readings.
+
+201
+00:15:07,840 --> 00:15:09,074
+Stronger here. Weaker here.
+
+202
+00:15:09,074 --> 00:15:12,168
+Stronger here. Weaker here.
+
+203
+00:15:14,146 --> 00:15:15,943
+And then rising again.
+
+204
+00:15:16,916 --> 00:15:21,444
+Well, this is weird.
+They're temporal fluctuations.
+
+205
+00:15:21,553 --> 00:15:22,577
+Meaning?
+
+206
+00:15:22,688 --> 00:15:25,885
+Meaning these people are trapped
+in a time distortion field.
+
+207
+00:15:25,991 --> 00:15:27,390
+Are you sure?
+
+208
+00:15:27,493 --> 00:15:30,587
+If it's a time distortion field,
+why are the leaves moving in the trees?
+
+209
+00:15:30,696 --> 00:15:34,655
+CARTER: It could be an illusion designed to
+reproduce the standing weather pattern.
+
+210
+00:15:36,335 --> 00:15:40,897
+These readings indicate the time
+within the field is extremely decelerated.
+
+211
+00:15:41,974 --> 00:15:44,704
+I mean, these people may look like
+they're standing perfectly still,
+
+212
+00:15:44,810 --> 00:15:47,677
+but, in fact, they're moving,
+imperceptibly slowly.
+
+213
+00:15:47,780 --> 00:15:49,771
+Are they aware
+of what is happening to them?
+
+214
+00:15:49,882 --> 00:15:51,543
+Doubtful.
+
+215
+00:15:51,650 --> 00:15:53,880
+Several years may pass
+on our side of the field
+
+216
+00:15:53,986 --> 00:15:56,477
+in the one or two seconds
+it takes them to take even one step.
+
+217
+00:15:56,588 --> 00:15:58,351
+Why don't we just go around it?
+
+218
+00:15:58,457 --> 00:16:02,518
+Well, the outer edge of the field extends
+as far as I can tell in either direction,
+
+219
+00:16:02,628 --> 00:16:03,890
+and it has a slight curve to it.
+
+220
+00:16:03,996 --> 00:16:05,987
+I mean, for all I know,
+it could form a complete circle.
+
+221
+00:16:06,098 --> 00:16:08,658
+We could walk for miles
+and never find a way through.
+
+222
+00:16:08,767 --> 00:16:12,066
+Sam, if you've got another idea,
+I'd love to hear it.
+
+223
+00:16:12,905 --> 00:16:16,966
+Well, I'm definitely picking up
+varied readings. It's almost as if...
+
+224
+00:16:21,180 --> 00:16:23,410
+I think I may have found a way in.
+
+225
+00:16:25,384 --> 00:16:28,785
+There's a circuitous path of real time
+winding through the temporal field.
+
+226
+00:16:28,887 --> 00:16:30,616
+- It's a maze.
+- Yeah.
+
+227
+00:16:30,723 --> 00:16:31,747
+It's a maze.
+
+228
+00:16:31,857 --> 00:16:34,690
+These readings are unmistakable.
+I can use them to guide us through.
+
+229
+00:16:34,793 --> 00:16:36,283
+Follow my lead.
+
+230
+00:16:36,395 --> 00:16:40,491
+If you stray off the path, you could
+wind up trapped in the distortion field.
+
+231
+00:17:21,006 --> 00:17:22,098
+(BEEPING STOPS)
+
+232
+00:17:22,207 --> 00:17:25,040
+- Uh-oh.
+- What do you mean, "Uh-oh"?
+
+233
+00:17:25,144 --> 00:17:27,339
+"Uh-oh," you left your stove on, right?
+
+234
+00:17:27,446 --> 00:17:32,884
+The temporal distortions
+are affecting these readings. We're blind.
+
+235
+00:17:47,633 --> 00:17:49,123
+MITCHELL: Okay, here's a stupid question.
+
+236
+00:17:49,234 --> 00:17:52,169
+You did check the batteries in that thing
+before you left Stargate Command, right?
+
+237
+00:17:52,271 --> 00:17:53,295
+It's not the batteries.
+
+238
+00:17:53,405 --> 00:17:57,034
+We could just retrace our steps
+and try our luck with the Ori soldiers.
+
+239
+00:17:57,142 --> 00:17:59,110
+Do you know the way back?
+
+240
+00:18:01,914 --> 00:18:03,814
+That way.
+
+241
+00:18:03,916 --> 00:18:05,508
+We have to be exact.
+
+242
+00:18:05,617 --> 00:18:07,175
+Any deviation from the path of real time,
+
+243
+00:18:07,286 --> 00:18:09,345
+and we could wind up frozen
+like the rest of these people.
+
+244
+00:18:09,455 --> 00:18:13,186
+If Morgan Le Fay left clues
+as to the whereabouts of the Sangraal,
+
+245
+00:18:13,292 --> 00:18:14,554
+then it is safe to assume
+
+246
+00:18:14,660 --> 00:18:17,151
+that she believed
+that someone would eventually reach it.
+
+247
+00:18:17,262 --> 00:18:21,892
+It also stands to reason that our task,
+though challenging, is far from impossible.
+
+248
+00:18:22,000 --> 00:18:25,663
+Teal'c's right. She set this trap
+to weed out those she deemed unworthy.
+
+249
+00:18:25,771 --> 00:18:30,936
+There is a way out. We just have to be
+resourceful and carefully think it through.
+
+250
+00:18:32,077 --> 00:18:36,605
+Well, Arthur and his knights wouldn't have
+had access to this advanced technology
+
+251
+00:18:36,715 --> 00:18:38,080
+to guide them through,
+
+252
+00:18:38,183 --> 00:18:42,381
+so, presumably,
+the answer could be deceptively simple.
+
+253
+00:18:55,334 --> 00:18:56,858
+Follow me.
+
+254
+00:19:09,047 --> 00:19:10,412
+Dead end.
+
+255
+00:19:19,057 --> 00:19:22,117
+You're right. Deceptively simple.
+
+256
+00:20:01,266 --> 00:20:02,927
+All right, we're through.
+
+257
+00:20:03,035 --> 00:20:07,028
+We'd better pick up the pace
+if we want to cut into Ba'al's lead.
+
+258
+00:20:11,643 --> 00:20:13,078
+OSRIC: You say that these Ori
+are possessed of god-like abilities,
+
+259
+00:20:13,078 --> 00:20:15,273
+OSRIC: You say that these Ori
+are possessed of god-like abilities,
+
+260
+00:20:15,380 --> 00:20:16,904
+and yet they are not gods?
+
+261
+00:20:17,015 --> 00:20:19,643
+JACKSON: No, they're very powerful beings
+who would have their followers
+
+262
+00:20:19,751 --> 00:20:22,845
+believe as much
+because faith is the source of their power.
+
+263
+00:20:22,955 --> 00:20:26,550
+Faith is something that cannot be won
+through intimidation and fear.
+
+264
+00:20:26,658 --> 00:20:30,116
+If their followers have faith,
+then they must truly believe.
+
+265
+00:20:30,229 --> 00:20:32,288
+No, they only believe
+because they've been misled.
+
+266
+00:20:32,397 --> 00:20:35,093
+You see, to many
+less-developed civilizations,
+
+267
+00:20:35,200 --> 00:20:39,660
+certain advanced technologies would
+strike them as supernatural in nature.
+
+268
+00:20:40,505 --> 00:20:44,498
+Merlin wasn't a wizard,
+and Morgan Le Fay was not a sorceress.
+
+269
+00:20:44,610 --> 00:20:46,373
+- Ridiculous.
+- They simply used their advanced abilities
+
+270
+00:20:46,478 --> 00:20:49,743
+to fashion seemingly magical creations,
+like the Sangraal,
+
+271
+00:20:49,848 --> 00:20:51,782
+or that time dilation field we encountered.
+
+272
+00:20:51,883 --> 00:20:53,180
+So you would have me believe that
+
+273
+00:20:53,285 --> 00:20:56,550
+you are possessed of a complete
+understanding of these amazing feats?
+
+274
+00:20:56,655 --> 00:20:59,818
+No, but just because I don't know how
+the trick is done doesn't make it magic.
+
+275
+00:20:59,925 --> 00:21:03,793
+And I would argue that your inability
+to comprehend such feats
+
+276
+00:21:03,895 --> 00:21:06,420
+does, in fact,
+prove their supernatural nature.
+
+277
+00:21:06,531 --> 00:21:10,991
+Their army just ran roughshod
+over your village, forced you into hiding,
+
+278
+00:21:11,103 --> 00:21:13,094
+- now you're defending them?
+- Hardly.
+
+279
+00:21:13,205 --> 00:21:15,605
+I condemn the actions of their soldiers,
+
+280
+00:21:15,707 --> 00:21:20,474
+but I'm in no position to judge the Ori
+or their message. Not yet.
+
+281
+00:21:22,114 --> 00:21:27,211
+Truth is elusive to those
+who refuse to see with both eyes.
+
+282
+00:21:27,319 --> 00:21:28,650
+What?
+
+283
+00:21:28,787 --> 00:21:30,778
+(MALE VOICE
+SPEAKING INDISTINCTLY)
+
+284
+00:21:39,998 --> 00:21:43,559
+BA'AL: I don't believe they abandoned me.
+They're going to pay.
+
+285
+00:21:43,669 --> 00:21:46,194
+All of them are going to pay.
+
+286
+00:21:49,007 --> 00:21:50,201
+Wait!
+
+287
+00:21:52,577 --> 00:21:53,669
+(SIGHS)
+
+288
+00:21:53,845 --> 00:21:58,077
+Well, make yourselves comfortable.
+We're going to be here a while.
+
+289
+00:22:06,525 --> 00:22:10,120
+It won't do you any good.
+Believe me, I've tried. It's a one-way door.
+
+290
+00:22:10,228 --> 00:22:11,525
+How long have you been trapped in here?
+
+291
+00:22:11,630 --> 00:22:14,497
+Three agonizingly tedious days.
+
+292
+00:22:14,599 --> 00:22:16,726
+Which reminds me,
+I don't suppose you have any food?
+
+293
+00:22:16,835 --> 00:22:18,769
+What's that?
+
+294
+00:22:18,870 --> 00:22:20,201
+That's bait.
+
+295
+00:22:20,305 --> 00:22:23,832
+When I approached to investigate,
+I unwittingly triggered the trap.
+
+296
+00:22:23,942 --> 00:22:25,466
+CARTER: You've had the Ancient database
+for months.
+
+297
+00:22:25,577 --> 00:22:27,442
+Why did it take you so long to get here?
+
+298
+00:22:27,546 --> 00:22:30,106
+I can't think clearly on an empty stomach.
+
+299
+00:22:41,793 --> 00:22:42,919
+(CHUCKLES)
+
+300
+00:22:44,563 --> 00:22:49,159
+I only possessed two of the three
+addresses needed to complete the puzzle.
+
+301
+00:22:49,267 --> 00:22:54,000
+As a result, I had significantly
+more possibilities to investigate.
+
+302
+00:22:55,507 --> 00:22:59,102
+By a process of elimination,
+I was left with one prospect,
+
+303
+00:22:59,211 --> 00:23:02,703
+and when I went in search of the planet,
+it wasn't there.
+
+304
+00:23:03,882 --> 00:23:06,544
+What do you mean it wasn't there?
+
+305
+00:23:06,651 --> 00:23:08,949
+It wasn't where it was supposed to be.
+
+306
+00:23:09,054 --> 00:23:12,353
+I calculated its position, I sent my ships
+to its approximate location,
+
+307
+00:23:12,457 --> 00:23:14,357
+but they couldn't find it.
+
+308
+00:23:14,459 --> 00:23:17,917
+In the end, my only recourse
+was to access it via the stargate
+
+309
+00:23:18,029 --> 00:23:20,520
+and secure the device
+with a handful of my Jaffa,
+
+310
+00:23:20,632 --> 00:23:25,126
+and when I became trapped in here, they
+set off in search of a means of freeing me.
+
+311
+00:23:25,971 --> 00:23:28,201
+They have yet to return.
+
+312
+00:23:30,976 --> 00:23:32,807
+Something must have come up.
+
+313
+00:23:32,911 --> 00:23:36,472
+Obviously, Morgan must have rendered
+this planet inaccessible to ships
+
+314
+00:23:36,581 --> 00:23:40,574
+to ensure that enemies such as the Ori
+could not destroy the Sangraal from orbit.
+
+315
+00:23:40,685 --> 00:23:42,152
+You're wasting your time.
+
+316
+00:23:42,254 --> 00:23:45,348
+I've had three days to search for a way out
+of here. There's nothing inside.
+
+317
+00:23:45,457 --> 00:23:47,425
+Well, that's the point, isn't it?
+
+318
+00:23:48,794 --> 00:23:51,991
+The <i>Parchment of Virtues</i> told us
+that we'd have to rely on five things
+
+319
+00:23:52,097 --> 00:23:53,997
+in order to reach the Sangraal.
+
+320
+00:23:54,099 --> 00:23:56,590
+Prudence, wisdom, charity,
+kindness and faith.
+
+321
+00:23:56,701 --> 00:23:59,226
+You're saying the parchment
+was intended to be interpreted literally?
+
+322
+00:23:59,337 --> 00:24:00,565
+Why not?
+
+323
+00:24:01,406 --> 00:24:03,203
+We were able to make our way
+through the time dilation field
+
+324
+00:24:03,308 --> 00:24:04,935
+by patiently and carefully
+negotiating the maze.
+
+325
+00:24:05,043 --> 00:24:08,035
+In other words, we demonstrated
+prudence, as opposed to recklessness,
+
+326
+00:24:08,146 --> 00:24:09,909
+which would have stranded us.
+
+327
+00:24:10,015 --> 00:24:12,813
+So ask yourselves,
+"What does this trap exploit?"
+
+328
+00:24:12,918 --> 00:24:15,386
+- Curiosity.
+- Greed.
+
+329
+00:24:16,087 --> 00:24:18,282
+A person approaches a chest
+expecting to find treasure inside,
+
+330
+00:24:18,390 --> 00:24:22,019
+but instead finds nothing
+and gets trapped for his trouble.
+
+331
+00:24:22,127 --> 00:24:25,790
+So in order to reverse the trap,
+you have to reverse the impetus.
+
+332
+00:24:25,897 --> 00:24:28,229
+Right. The opposite of greed is charity,
+
+333
+00:24:28,333 --> 00:24:29,630
+one of the virtues mentioned
+in the parchment.
+
+334
+00:24:29,734 --> 00:24:33,761
+Instead of taking something,
+something must be sacrificed.
+
+335
+00:24:52,524 --> 00:24:55,493
+(CHUCKLES) Well,
+that was an interesting theory.
+
+336
+00:24:55,594 --> 00:24:59,496
+Well, we're all trapped,
+so we all have to contribute something.
+
+337
+00:25:27,692 --> 00:25:29,284
+No, wait!
+
+338
+00:25:31,062 --> 00:25:32,188
+(CLEARS THROAT)
+
+339
+00:25:36,034 --> 00:25:38,502
+I have nothing to donate.
+
+340
+00:25:54,486 --> 00:25:58,217
+That particular item
+holds great sentimental value.
+
+341
+00:26:13,572 --> 00:26:16,769
+Well done. Another day in there,
+I would have gone mad.
+
+342
+00:26:16,875 --> 00:26:19,275
+Guess that makes it time to say goodbye.
+
+343
+00:26:20,111 --> 00:26:23,239
+- It would be foolish of you to kill me.
+- How so?
+
+344
+00:26:23,348 --> 00:26:25,646
+Amongst the information I obtained
+regarding the Sangraal
+
+345
+00:26:25,750 --> 00:26:27,581
+is the name of the protector.
+
+346
+00:26:27,686 --> 00:26:30,553
+- Protector?
+- The dragon.
+
+347
+00:26:31,790 --> 00:26:34,850
+You see? I told you there was a dragon.
+
+348
+00:26:34,960 --> 00:26:37,793
+I'm sure there's something
+guarding the device.
+
+349
+00:26:37,896 --> 00:26:39,193
+Maybe it's a hologram.
+
+350
+00:26:39,297 --> 00:26:40,787
+Holograms can be dangerous, you know.
+
+351
+00:26:40,899 --> 00:26:43,459
+It could be a ship.
+Flies, breathes fire, has armored skin.
+
+352
+00:26:43,568 --> 00:26:46,230
+It's a mistake a medieval storyteller
+could easily make.
+
+353
+00:26:46,338 --> 00:26:48,135
+Then if it's based on technology,
+
+354
+00:26:48,239 --> 00:26:51,675
+the name is no doubt a password
+or a command code.
+
+355
+00:26:51,776 --> 00:26:55,576
+Either way, if you want it,
+you'll have to take me with you.
+
+356
+00:27:00,518 --> 00:27:04,614
+You know, I hate to say this,
+but he could prove useful.
+
+357
+00:27:18,003 --> 00:27:19,436
+MITCHELL: Come on.
+
+358
+00:27:24,776 --> 00:27:27,574
+Yet again, we find ourselves
+the unlikeliest of allies
+
+359
+00:27:27,679 --> 00:27:29,544
+joined together in common purpose.
+
+360
+00:27:29,648 --> 00:27:31,707
+You know, the word "allies" implies
+some sort of partnership,
+
+361
+00:27:31,816 --> 00:27:33,044
+and that just isn't the case here.
+
+362
+00:27:33,151 --> 00:27:38,145
+You see, we are going after the Sangraal,
+while you are tagging along for the ride.
+
+363
+00:27:41,559 --> 00:27:44,653
+According to the map,
+the Sangraal is hidden in a cave
+
+364
+00:27:44,763 --> 00:27:47,027
+beneath a lone mountain.
+
+365
+00:27:47,132 --> 00:27:49,123
+Right. We're getting warm.
+
+366
+00:27:55,540 --> 00:27:58,998
+This is it. The cave entrance.
+
+367
+00:27:59,110 --> 00:28:01,374
+The Sangraal is located within.
+
+368
+00:28:01,479 --> 00:28:04,539
+It's too bad you won't be coming with us.
+
+369
+00:28:04,649 --> 00:28:06,947
+I thought I made it clear. You need me.
+
+370
+00:28:07,052 --> 00:28:09,020
+I wasn't talking to you.
+
+371
+00:28:10,355 --> 00:28:14,985
+Well, allow me to get out
+of your line of fire.
+
+372
+00:28:15,093 --> 00:28:17,789
+Have you lost your senses?
+
+373
+00:28:17,896 --> 00:28:21,024
+"Truth eludes he who does not seek it
+with both eyes wide."
+
+374
+00:28:21,132 --> 00:28:25,899
+It's a quote from the <i>Book of Origin.</i>
+You paraphrased it earlier today.
+
+375
+00:28:26,004 --> 00:28:30,407
+Now, I might not have noticed, but I spent
+the past year studying the good book, so...
+
+376
+00:28:30,508 --> 00:28:34,569
+Surely, you're not basing your suspicions
+on this mere coincidence?
+
+377
+00:28:34,679 --> 00:28:36,840
+And when it came time to give up
+a possession to free ourselves
+
+378
+00:28:36,948 --> 00:28:38,381
+from the force field trap,
+
+379
+00:28:38,483 --> 00:28:39,848
+I noticed the designs on your ring,
+
+380
+00:28:39,951 --> 00:28:43,751
+not Celtic as one might expect given
+the cultural background of this planet,
+
+381
+00:28:43,855 --> 00:28:45,880
+but distinctly Ori.
+
+382
+00:28:45,990 --> 00:28:48,959
+The ring was a gift
+from a traveling merchant.
+
+383
+00:28:49,060 --> 00:28:50,288
+You're making a mistake.
+
+384
+00:28:50,395 --> 00:28:53,523
+You're the one who screwed up.
+Now drop the act.
+
+385
+00:28:58,770 --> 00:29:03,537
+It would have been so much easier
+if you had remained oblivious.
+
+386
+00:29:06,010 --> 00:29:09,537
+But now, things will be
+much more difficult.
+
+387
+00:29:17,555 --> 00:29:20,388
+Especially for you.
+
+388
+00:29:28,266 --> 00:29:30,632
+You're doing something new
+with your eyes.
+
+389
+00:29:37,642 --> 00:29:40,543
+So the troops in the village,
+the shoot-out in the tavern,
+
+390
+00:29:40,645 --> 00:29:41,703
+that was all a set-up.
+
+391
+00:29:41,813 --> 00:29:43,440
+More than you know.
+
+392
+00:29:43,548 --> 00:29:47,609
+I grew impatient waiting for you
+to discover the location of the weapon,
+
+393
+00:29:47,719 --> 00:29:49,653
+so I gave you a little help.
+
+394
+00:29:49,754 --> 00:29:52,587
+The dream I had, "three into one."
+That was you?
+
+395
+00:29:52,690 --> 00:29:55,056
+- Yes.
+- So you planted the solution in Vala
+
+396
+00:29:55,160 --> 00:29:56,422
+knowing it would lead us right to you.
+
+397
+00:29:56,528 --> 00:29:58,496
+Apparently, Morgan put safeguards
+in place
+
+398
+00:29:58,596 --> 00:30:01,087
+to ensure the weapon
+could only be secured by...
+
+399
+00:30:01,199 --> 00:30:05,170
+What was the term again?
+"Those possessing truth of spirit."
+
+400
+00:30:05,170 --> 00:30:05,795
+What was the term again?
+"Those possessing truth of spirit."
+
+401
+00:30:05,904 --> 00:30:09,533
+I can't think of anyone more appropriate
+than a former Ascended.
+
+402
+00:30:09,641 --> 00:30:13,077
+With your help, I'll secure the device.
+
+403
+00:30:14,279 --> 00:30:16,008
+Hate to disappoint.
+
+404
+00:30:24,155 --> 00:30:26,783
+You've seen a demonstration
+of my powers.
+
+405
+00:30:26,891 --> 00:30:28,688
+You know what I'm capable of.
+
+406
+00:30:28,793 --> 00:30:30,522
+So I'm offering you a choice,
+
+407
+00:30:30,628 --> 00:30:32,960
+either we work together
+to reach the device,
+
+408
+00:30:33,064 --> 00:30:36,090
+or I'll start killing off members
+of your team.
+
+409
+00:30:40,605 --> 00:30:43,005
+- Starting with her.
+- All right!
+
+410
+00:30:46,377 --> 00:30:48,140
+We'll work together.
+
+411
+00:30:50,148 --> 00:30:51,513
+For now.
+
+412
+00:30:59,090 --> 00:31:02,253
+ADRIA: We thwarted all efforts against us,
+crippled your fleet,
+
+413
+00:31:02,360 --> 00:31:05,488
+met with little, if any resistance,
+on the worlds that we redeemed.
+
+414
+00:31:05,597 --> 00:31:07,724
+Opposition to the Ori is clearly hopeless,
+
+415
+00:31:07,832 --> 00:31:10,528
+but you continue to struggle
+against the inevitable.
+
+416
+00:31:10,635 --> 00:31:13,229
+JACKSON: Yeah, well, what can I tell you?
+We're optimists.
+
+417
+00:31:13,338 --> 00:31:15,067
+Your only hope lies with Merlin's weapon.
+
+418
+00:31:15,173 --> 00:31:18,836
+Once I take that away from you,
+your defeat will be complete.
+
+419
+00:31:18,943 --> 00:31:20,467
+Now look who's the optimist.
+
+420
+00:31:20,578 --> 00:31:22,739
+You disappoint me, Mother.
+
+421
+00:31:22,847 --> 00:31:26,408
+I would have expected you to see reason
+by now, but it doesn't matter.
+
+422
+00:31:26,517 --> 00:31:29,884
+Eventually, you'll have no choice
+but to accept the truth.
+
+423
+00:31:29,988 --> 00:31:34,925
+And when you do, I'll accompany you
+on your path to enlightenment.
+
+424
+00:31:39,530 --> 00:31:41,589
+You know, the second we find that thing,
+she's going to kill us.
+
+425
+00:31:41,699 --> 00:31:44,327
+- Not if we kill her first.
+- That could be a bit of a problem.
+
+426
+00:31:44,435 --> 00:31:46,960
+I don't know, we're pretty resourceful.
+I'm sure we'll think of something.
+
+427
+00:31:47,071 --> 00:31:49,164
+Yeah? Just don't do it too soon.
+
+428
+00:31:49,274 --> 00:31:50,969
+She may not be true of spirit
+and all that jazz,
+
+429
+00:31:51,075 --> 00:31:53,703
+but she has done her homework.
+I hate to say it, but...
+
+430
+00:31:53,811 --> 00:31:56,507
+- She could prove useful.
+- For the moment.
+
+431
+00:32:09,761 --> 00:32:12,730
+"Choose the way that is just and true."
+
+432
+00:32:12,830 --> 00:32:16,357
+It's a riddle. I'm good at these.
+
+433
+00:32:16,467 --> 00:32:19,800
+"The way that is just and true."
+Just and true...
+
+434
+00:32:24,175 --> 00:32:25,472
+It's telling us to go that way.
+
+435
+00:32:25,576 --> 00:32:30,013
+"The way that is just and true,"
+that is, the "right" way.
+
+436
+00:32:30,381 --> 00:32:31,609
+What...
+
+437
+00:32:31,716 --> 00:32:33,809
+- The writing's in Ancient.
+- So?
+
+438
+00:32:33,918 --> 00:32:35,943
+So in Ancient, the word meaning
+"Just and true" is very different
+
+439
+00:32:36,054 --> 00:32:39,148
+from the word meaning "right,"
+as in, "opposite of left."
+
+440
+00:32:39,357 --> 00:32:40,654
+(CHILD CRYING)
+
+441
+00:32:40,892 --> 00:32:42,553
+Did you hear that?
+
+442
+00:32:44,562 --> 00:32:46,462
+It sounds like a child.
+
+443
+00:32:47,332 --> 00:32:49,892
+- This way.
+- VALA: A child in here?
+
+444
+00:32:50,969 --> 00:32:54,735
+- It's obviously a trap.
+- Or quite possibly a test.
+
+445
+00:32:55,840 --> 00:33:00,243
+A test of what? Our stupidity?
+
+446
+00:33:07,318 --> 00:33:08,444
+(WHIMPERING)
+
+447
+00:33:10,221 --> 00:33:11,620
+Hey, kid.
+
+448
+00:33:12,323 --> 00:33:13,813
+Kid, wait up.
+
+449
+00:33:18,196 --> 00:33:20,562
+Hey, slow down, little guy.
+
+450
+00:33:20,665 --> 00:33:22,963
+ADRIA: We're walking right into a trap.
+JACKSON: No, we're not.
+
+451
+00:33:23,067 --> 00:33:25,228
+The parchment provided us with clues
+to reaching the Sangraal.
+
+452
+00:33:25,336 --> 00:33:28,032
+It mentioned kindness as one
+of the virtues that would guide us.
+
+453
+00:33:28,139 --> 00:33:29,697
+So if we show kindness
+by helping this child,
+
+454
+00:33:29,807 --> 00:33:31,707
+it should bring us one step closer
+to the device.
+
+455
+00:33:31,809 --> 00:33:33,333
+The parchment also mentioned wisdom,
+
+456
+00:33:33,444 --> 00:33:36,311
+which we would be demonstrating
+by avoiding this trap.
+
+457
+00:33:36,514 --> 00:33:37,879
+(METAL GEARS TURNING)
+
+458
+00:33:42,387 --> 00:33:44,514
+MITCHELL: Hang on, kid.
+We'll get you out of there.
+
+459
+00:33:47,692 --> 00:33:49,353
+Little help here.
+
+460
+00:33:50,428 --> 00:33:53,591
+He's tiny.
+Have him squeeze through the bars.
+
+461
+00:33:53,698 --> 00:33:56,792
+Assist us, or I will squeeze you
+through these bars.
+
+462
+00:33:56,901 --> 00:33:58,562
+JACKSON: Want to use
+your powers to lift it?
+
+463
+00:33:58,669 --> 00:34:01,604
+We're wasting our time. Let's go back.
+
+464
+00:34:16,854 --> 00:34:21,518
+Well, how's about that.
+We did pick the right way.
+
+465
+00:34:26,364 --> 00:34:28,457
+- It's a dead end.
+- We have to go back.
+
+466
+00:34:28,566 --> 00:34:31,194
+No, it doesn't make any sense
+that we would have progressed this far
+
+467
+00:34:31,302 --> 00:34:33,202
+only to come up empty.
+
+468
+00:34:33,938 --> 00:34:35,337
+Daniel.
+
+469
+00:34:41,646 --> 00:34:43,079
+It's another riddle.
+
+470
+00:34:43,181 --> 00:34:45,376
+Oh, goody.
+
+471
+00:34:45,483 --> 00:34:48,782
+"I'm struck and cut, shaped and cooled,
+
+472
+00:34:48,886 --> 00:34:51,912
+"then bound by rings
+to release what's stored."
+
+473
+00:34:52,290 --> 00:34:53,621
+(RUMBLING)
+
+474
+00:34:54,792 --> 00:34:57,659
+You might want to pick things up
+a little bit here.
+
+475
+00:34:57,762 --> 00:34:59,059
+All right, well, we have to think it through.
+
+476
+00:34:59,163 --> 00:35:03,691
+What's struck and cut and shaped
+and cooled and then bound by rings?
+
+477
+00:35:07,171 --> 00:35:10,140
+- Bound by rings...
+- Key! The answer is key.
+
+478
+00:35:10,908 --> 00:35:12,307
+<i>Clavia!</i>
+
+479
+00:35:15,847 --> 00:35:17,644
+(RUMBLING)
+
+480
+00:35:28,459 --> 00:35:32,919
+"I shake the earth with booming thunder,
+fell forest whole and homes complete.
+
+481
+00:35:33,030 --> 00:35:37,160
+"I influence ships, topple kings,
+sweep down swift, yet remain unseen."
+
+482
+00:35:37,268 --> 00:35:41,568
+Oh, wait, I've got this.
+Suggesting a strong yet invisible force...
+
+483
+00:35:41,672 --> 00:35:42,661
+Wind.
+
+484
+00:35:42,773 --> 00:35:44,104
+<i>Ventio!</i>
+
+485
+00:35:54,952 --> 00:35:56,852
+MITCHELL: Oh, for crying out loud!
+
+486
+00:35:56,954 --> 00:36:01,118
+"Battle-scarred in times of strife,
+resistant to... Resistant to..."
+
+487
+00:36:01,225 --> 00:36:02,385
+- VALA: To what?
+- I don't know.
+
+488
+00:36:02,493 --> 00:36:03,983
+I can't translate this section of the text.
+
+489
+00:36:04,095 --> 00:36:06,029
+Nevertheless, "battle-scarred"
+would suggest...
+
+490
+00:36:06,130 --> 00:36:07,290
+<i>Contegia!</i>
+
+491
+00:36:09,433 --> 00:36:11,025
+(RUMBLING STOPS)
+
+492
+00:36:16,807 --> 00:36:17,933
+Looks like that's done it.
+
+493
+00:36:18,075 --> 00:36:22,205
+You know, come to think of it,
+riddles never really were my strong point.
+
+494
+00:36:22,313 --> 00:36:25,612
+Visual puzzles, like, "Which of these
+symbols does not belong with the others,"
+
+495
+00:36:25,716 --> 00:36:28,617
+or, "Reconfigure the tiles
+to make the hidden picture."
+
+496
+00:36:28,719 --> 00:36:30,584
+MITCHELL: Is it just me,
+or is it getting hot in here?
+
+497
+00:36:30,688 --> 00:36:32,883
+VALA: Well, now that you mention it...
+
+498
+00:36:40,231 --> 00:36:42,461
+It is a tad toasty.
+
+499
+00:36:53,211 --> 00:36:56,305
+- Hey, you got anything?
+- No. You?
+
+500
+00:36:56,414 --> 00:36:58,882
+No, but I'm getting a good tan.
+
+501
+00:36:59,617 --> 00:37:03,144
+- Let's take a break.
+- Okay.
+
+502
+00:37:06,791 --> 00:37:08,383
+There's no hidden triggers
+or secret passages.
+
+503
+00:37:08,492 --> 00:37:10,824
+If there's a way through, we didn't find it.
+
+504
+00:37:10,928 --> 00:37:12,486
+Then I suppose we should head back.
+
+505
+00:37:12,797 --> 00:37:14,628
+Not an option.
+
+506
+00:37:16,033 --> 00:37:18,831
+The passageways have re-sealed
+behind us.
+
+507
+00:37:21,172 --> 00:37:24,073
+Then I was right. We walked into a trap.
+
+508
+00:37:24,175 --> 00:37:27,110
+No. We made all the right choices
+to lead us to this point.
+
+509
+00:37:27,211 --> 00:37:29,645
+I know the Sangraal lies
+beyond that wall of fire.
+
+510
+00:37:29,747 --> 00:37:32,580
+We just have to find a way through.
+
+511
+00:37:34,452 --> 00:37:36,579
+Why don't you do something?
+
+512
+00:37:36,687 --> 00:37:40,487
+You're the Orici. You're supposedly
+possessed of significant powers.
+
+513
+00:37:40,591 --> 00:37:42,718
+So snuff out the flame
+and get us on our way.
+
+514
+00:37:42,827 --> 00:37:45,728
+My abilities don't work that way.
+
+515
+00:37:46,530 --> 00:37:50,967
+Of course. How does the saying go?
+All flash, no photo.
+
+516
+00:37:51,068 --> 00:37:54,037
+Actually, it's "All flash, no substance."
+
+517
+00:37:54,138 --> 00:37:56,003
+I prefer my version.
+
+518
+00:37:58,142 --> 00:38:00,633
+Would you care for a demonstration?
+
+519
+00:38:08,853 --> 00:38:11,515
+Taking your life would be
+a waste of my time.
+
+520
+00:38:11,622 --> 00:38:14,318
+Which I suppose would be put
+to better use complaining.
+
+521
+00:38:14,425 --> 00:38:17,394
+Oh, jeez, why don't you two
+just get a room?
+
+522
+00:38:18,996 --> 00:38:20,896
+It's the only one left.
+
+523
+00:38:22,266 --> 00:38:23,631
+Daniel?
+
+524
+00:38:30,408 --> 00:38:32,433
+The parchment told us
+that five virtues would guide us
+
+525
+00:38:32,543 --> 00:38:34,170
+in our quest for the Sangraal.
+
+526
+00:38:34,278 --> 00:38:37,679
+Prudence, kindness, charity,
+wisdom and faith.
+
+527
+00:38:37,782 --> 00:38:41,548
+Now, we displayed prudence
+in finding a way out of the temporal maze,
+
+528
+00:38:41,652 --> 00:38:44,621
+charity, in escaping the force field trap,
+
+529
+00:38:44,722 --> 00:38:47,156
+kindness, by helping the child
+and finding the hidden passageway,
+
+530
+00:38:47,258 --> 00:38:50,227
+and wisdom, in solving the riddles.
+
+531
+00:38:50,328 --> 00:38:52,762
+The only virtue left is faith.
+
+532
+00:38:58,703 --> 00:39:00,330
+- Daniel!
+- Jackson!
+
+533
+00:39:10,047 --> 00:39:12,015
+Well, after you, Muscles.
+
+534
+00:39:30,000 --> 00:39:34,767
+There it is. We've found it.
+Ours for the taking.
+
+535
+00:39:34,872 --> 00:39:36,134
+Hang on.
+
+536
+00:39:45,483 --> 00:39:47,610
+Yeah, that's pretty deep.
+
+537
+00:39:47,718 --> 00:39:50,152
+- I'll go.
+- We'll both go.
+
+538
+00:39:50,254 --> 00:39:53,712
+I think I'll stay here
+and support you from a distance.
+
+539
+00:39:53,824 --> 00:39:54,813
+We should all go.
+
+540
+00:39:54,925 --> 00:39:59,521
+No, only Daniel and I will go.
+The rest of you will stay.
+
+541
+00:39:59,630 --> 00:40:01,120
+It's all right.
+
+542
+00:40:32,496 --> 00:40:33,861
+Take it.
+
+543
+00:40:34,665 --> 00:40:37,065
+- After you.
+- I told you.
+
+544
+00:40:37,168 --> 00:40:38,965
+Morgan put safeguards in place to ensure
+
+545
+00:40:39,069 --> 00:40:42,470
+that someone such as myself
+couldn't claim the device.
+
+546
+00:40:44,775 --> 00:40:47,835
+Is that why you didn't just use
+your powers from back there?
+
+547
+00:40:47,945 --> 00:40:48,934
+What are you talking about?
+
+548
+00:40:49,046 --> 00:40:51,981
+Well, you have telekinetic abilities.
+I've seen you use them.
+
+549
+00:40:52,082 --> 00:40:54,880
+You should have just snatched
+the Sangraal off the dais
+
+550
+00:40:54,985 --> 00:40:57,977
+without taking a step, but you didn't.
+
+551
+00:40:58,088 --> 00:41:01,387
+Probably for the same reason you didn't
+use your powers to lift the portcullis
+
+552
+00:41:01,492 --> 00:41:04,655
+or kill Ba'al the second
+he stepped out of line.
+
+553
+00:41:04,762 --> 00:41:06,855
+- You can't.
+- Of course I can.
+
+554
+00:41:06,964 --> 00:41:09,626
+No. My guess is Morgan
+did put safeguards in place,
+
+555
+00:41:09,733 --> 00:41:13,726
+and that those safeguards
+are neutralizing your Ori-given powers.
+
+556
+00:41:13,838 --> 00:41:16,102
+You saw me withstand
+the bullets fired against me.
+
+557
+00:41:16,207 --> 00:41:18,675
+Yeah, thanks to your personal shield.
+
+558
+00:41:18,776 --> 00:41:21,711
+The only powers you can manifest
+originate from that pendant,
+
+559
+00:41:21,812 --> 00:41:24,679
+and they're purely defensive in nature.
+
+560
+00:41:26,383 --> 00:41:28,817
+Do you really want to test me?
+
+561
+00:41:34,492 --> 00:41:35,982
+Yep.
+
+562
+00:41:37,595 --> 00:41:42,055
+You know what?
+I changed my mind about helping you.
+
+563
+00:41:42,800 --> 00:41:44,529
+Knock yourself out.
+
+564
+00:41:49,507 --> 00:41:51,270
+What's the holdup?
+
+565
+00:41:52,176 --> 00:41:53,541
+Thought so.
+
+566
+00:42:01,986 --> 00:42:05,786
+Well, I guess I'm not as true of spirit
+as you thought I was.
+
+567
+00:42:05,890 --> 00:42:06,982
+(RUMBLING)
+
+568
+00:42:09,860 --> 00:42:11,487
+Jackson, move it!
+
+569
+00:42:22,239 --> 00:42:24,139
+What the hell is that?
+
+570
+00:42:28,045 --> 00:42:30,479
+We agreed there's no such thing
+as a dragon, right?
+
+571
+00:42:30,581 --> 00:42:31,878
+Yeah.
+
+572
+00:42:32,683 --> 00:42:34,583
+(WINGS FLAPPING)
+
+573
+00:42:46,297 --> 00:42:48,231
+(SCREECHING)
+
+574
+00:42:48,899 --> 00:42:51,800
+Because that looks pretty real to me.
+

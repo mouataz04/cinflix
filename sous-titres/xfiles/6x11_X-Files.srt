@@ -1,0 +1,420 @@
+{1425}{1515}GARE DE TRIAGE DE POTOMAC|ARLINGTON, VIRGINIE
+{2262}{2347}Dr Openshaw, félicitations.
+{2350}{2435}Vos travaux... Ils sont achevés.
+{2475}{2535}Vous devriez aller la voir.
+{3027}{3087}25 ans.
+{3117}{3182}C'est un peu|comme une vieille amie pour vous.
+{3185}{3235}Oui.
+{3330}{3437}Nous allons sortir fêter ça.|Si vous voulez vous joindre à nous...
+{3440}{3522}Non, allez-y sans moi.
+{5482}{5547}ACTIVITE PARANORMALE
+{5665}{5732}LE GOUVERNEMENT NOUS MENT
+{6135}{6190}LA VERITE EST AILLEURS
+{6487}{6562}C'est fini.
+{6565}{6672}Depuis le temps, je n'imaginais pas|m'entendre dire ça un jour.
+{6715}{6840}On s'investit dans un projet.|On le bâtit, on le protège.
+{6900}{6985}Sa fin para îti aussi abstraite|que notre propre mort.
+{7007}{7067}Ou celle de nos enfants.
+{7125}{7207}J'étais loin de penser qu'on en arriverait là.
+{7210}{7280}Et les autres non plus.
+{7280}{7395}Tous ces hommes brillants...|Et ce secret si bien gardé.
+{7462}{7537}C'est arrivé comme ça.
+{7565}{7667}Nous avions fomenté le complot parfait|avec une race d'extraterrestres.
+{7720}{7847}Ils devaient envahir la planète|et détruire ses habitants.
+{7900}{8032}Notre mission consistait|à leur préparer secrètement le terrain.
+{8065}{8177}Et à créer pour eux une race d'esclaves|mi-humains mi-extraterrestres.
+{8260}{8322}C'était un bon projet.
+{8347}{8402}Un projet juste.
+{8437}{8562}Qu'on cachait depuis plus de 50 ans.|Depuis le crash de Roswell.
+{8565}{8640}A des types comme Fox Mulder.
+{8715}{8772}Un projet qui aurait abouti,
+{8775}{8865}si une race extraterrestre rebelle|ne l'avait pas réduit à néant.
+{8922}{9002}Et si mon propre fils ne m'avait pas trahi.
+{9065}{9142}Ou s'il l'avait fait plus judicieusement.
+{9452}{9545}Skinner, je ne vous ai pas entendu arriver.|J'étais occupé.
+{9545}{9655}- A quoi, agent Spender?|- Compléter un rapport sur les affaires NC.
+{9657}{9717}- Destiné à qui?|- Aux archives.
+{9745}{9860}Je n'étais pas au courant de ce rapport.|Je n'ai reçu qu'une note de service.
+{9862}{9875}- Vous comptez tout me donner d'un coup?|- J'avance lentement.
+{9875}{9965}- Vous comptez tout me donner d'un coup?|- J'avance lentement.
+{9995}{10082}Ce rapport est un prétexte, n'est-ce pas?
+{10085}{10160}Vous vous fichez bien|des affaires non classées.
+{10187}{10267}En dehors d'une affaire|vous concernant de près.
+{10292}{10370}- L'enlèvement de votre mère.|- Le pseudo-enlèvement.
+{10405}{10465}C'est la raison de ma présence.
+{11110}{11165}- Que s'est-il passé?|- On ne sait pas.
+{11167}{11240}On a retrouvé un groupe de gens brûlés vifs.
+{11255}{11362}L'un d'eux est sous assistance respiratoire.|Votre mère est la seule survivante.
+{11365}{11440}Où est-elle?
+{11442}{11492}On l'a emmenée dehors.
+{11640}{11690}Maman.
+{11912}{11962}C'est moi, Jeffrey.
+{12012}{12087}Maman, que s'est-il passé?
+{12105}{12192}Depuis le temps,|je pensais ne plus jamais te revoir.
+{12195}{12250}Ne pleure pas, mon chéri.
+{12272}{12332}Où étais-tu?
+{12472}{12530}Qu'est-ce qu'on t'a fait?
+{12530}{12585}J'ai besoin de parler à quelqu'un.
+{12585}{12657}Tu peux tout me raconter.
+{12660}{12717}J'ai besoin de parler à l'agent Mulder.
+{12892}{12950}- Je ne veux pas qu'elle lui parle.|- Pourquoi?
+{12952}{13005}On lui a retiré les affaires NC.
+{13005}{13072}- Elle veut le voir.|- C'est ma mère!
+{13075}{13105}Vous craignez quoi, au juste?
+{13107}{13175}Qu'il lui bourre le crâne|avec ses histoires.
+{13177}{13222}C'est la vérité qui vous fait peur?
+{13225}{13300}Je veux savoir|qui lui a fait ça et pourquoi. Point.
+{13302}{13400}Dans ce cas, utilisez|toutes les ressources dont vous disposez!
+{13430}{13485}Je vous enverrai un compte rendu.
+{13532}{13642}Mon fils refusait de croire|à l'enlèvement de sa mère,
+{13645}{13710}alors que cela durait depuis des années.
+{13745}{13807}Même après sa mutation aux affaires NC,
+{13810}{13910}malgré les preuves de l'existence|de notre plan réunies par Mulder,
+{13910}{14032}il n'arrivait toujours pas à admettre|la possibilité d'une vie extraterrestre.
+{14102}{14205}Et quand enfin il y a cru,
+{14205}{14282}quand les faits sont devenus trop criants,
+{14317}{14345}il a cherché de l'aide.
+{14347}{14452}Pas auprès de moi, son père,|mais auprès de celui que j'avais brisé.
+{14480}{14555}Celui que j'avais choisi de le voir remplacer.
+{14590}{14655}Allez Blanche-Neige, joue!
+{14657}{14730}Hé, redescends sur terre mon pote!
+{14870}{14960}- Panier.|- Hé, t'as pas le droit de faire ça!
+{15012}{15072}Salut, la gazelle. La forme?
+{15075}{15157}J'ai comme l'impression|que tu viens de tricher
+{15160}{15245}- et que tu vas encore sécher.|- Désolé, je cartonne trop!
+{15247}{15310}Tu n'as plus de temps à consacrer au travail?
+{15312}{15407}Je suis d'accord pour taffer,|pas pour me galérer.
+{15410}{15452}Pas pour te "galérer"?
+{15455}{15535}Me galérer à vérifier des antécédents.
+{15535}{15620}A propos,|il y a quelqu'un qui essaie de te joindre
+{15622}{15690}et qui aimerait que tu rentres au FBI.
+{15725}{15802}- A quel sujet?|- Une affaire non classée.
+{15885}{15947}SIEGE DU FBI|WASHINGTON
+{16020}{16067}Vous voulez du boulot, Spender?
+{16070}{16190}Il y en a ici toute une pile|que je rêve de balancer à la tête de quelqu'un.
+{16192}{16297}- Vous devez savoir pourquoi je suis là.|- On a retrouvé votre mère.
+{16365}{16440}Elle voudrait vous parler.
+{16442}{16520}- II manque "s'il vous pla îti ".|- Je ne vous supplierai pas.
+{16520}{16582}Vous me demandez de le faire?
+{16612}{16670}Ma mère a refait surface dans un train.
+{16672}{16775}Elle y avait été opérée par des médecins|qu'on a retrouvés brûlés vifs.
+{16812}{16867}Je veux conna îti re la vérité.
+{16887}{17015}La vérité est ailleurs, agent Spender.|Vous gagneriez à la découvrir.
+{17237}{17305}CENTRE HOSPITALIER ST-MARK|ARLINGTON, VIRGINIE
+{17395}{17437}DR EUGENE OPENSHAW
+{17797}{17892}- Vous en avez mis du temps.|- J'étais à la gare de triage.
+{17935}{17992}J'essayais de mettre un peu d'ordre.
+{17995}{18100}Nous allons avoir du mal|à étouffer ce massacre.
+{18102}{18175}Et plus encore la réapparition de Cassandra.
+{18200}{18267}Vous ne le savez donc pas?
+{18282}{18345}Cassandra est un succès.
+{18345}{18420}Non. C'est impossible.
+{18485}{18510}Pas maintenant.
+{18512}{18650}J'avais préparé une seringue pour elle.|Mais les rebelles ont débarqué.
+{18695}{18747}Ils l'ont sauvée pour nous compromettre.
+{18765}{18857}- Elle est au centre de tout.|- Elle ne nous échappera pas.
+{18860}{18947}Ils vont l'examiner.
+{18965}{19030}Ce n'est qu'une question de temps.
+{19095}{19160}Cassandra doit être éliminée.
+{19305}{19362}Ils vont venir m'interroger.
+{19462}{19517}Je sais.
+{19610}{19660}Je suis désolé.
+{19780}{19840}OXYGENE
+{20077}{20170}Rien n'est pire que de survivre à ses enfants
+{20172}{20235}ou à l'anéantissement de ses travaux.
+{20580}{20650}SILVER SPRINGS, MARYLAND
+{20767}{20857}- Allô?|- Vous êtes au courant?
+{20860}{20937}- Non.|- Les rebelles ont frappé.
+{20940}{20997}- Où ça?|- En Virginie.
+{21000}{21075}Au cours d'une de nos procédures médicales.
+{21075}{21142}Les médecins ont été brûlés vifs.
+{21145}{21210}- Tous?|- Oui.
+{21210}{21282}Le Dr Openshaw vient de mourir|en caisson hyperbare.
+{21285}{21330}Mon Dieu!
+{21330}{21402}J'ai convoqué|une réunion d'urgence du Syndicat.
+{21405}{21472}L'avenir dépendra de notre décision.
+{21485}{21545}Je saute dans le premier avion.
+{21817}{21895}- Dr Openshaw.|- II fallait que je vous voie.
+{22525}{22567}21H42
+{23180}{23267}- Je ne pensais pas te trouver là.|- Tu pensais me trouver où?
+{23270}{23335}Spender ne t'a pas proposé une affaire NC?
+{23337}{23397}Ce n'était pas vraiment une proposition.
+{23400}{23465}C'était l'occasion que tu attendais, non?
+{23467}{23580}Une occasion offerte par le pouvoir en place.
+{23582}{23607}Un piège?
+{23610}{23747}Le genre d'erreur qu'ils attendaient|que je commette pour me tomber dessus.
+{23750}{23855}- La demande émanait de Spender, non?|- II ne me l'a pas vraiment demandé.
+{24187}{24350}On a déjà eu un cas similaire. Des corps|calcinés sans qu'on sache comment.
+{24447}{24490}Je sais.
+{24502}{24595}J'étais avec Cassandra Spender|quand elle a disparu.
+{24597}{24720}Tu étais présent quand j'ai décrit|ce genre de détail sous hypnose.
+{24720}{24840}Ce qu'elle a à nous dire va plus loin|que le simple récit de son enlèvement.
+{24840}{24962}Moi aussi, on m'a emmenée dans un wagon.|J'ai subi les mêmes choses qu'elle.
+{24985}{25077}Et si son témoignage révélait qui m'a fait ça?
+{25200}{25292}L'agent Spender n'a pas à être au courant.
+{25600}{25650}Ca alors!
+{25842}{25890}Je suis si contente de vous voir!
+{25947}{25997}Je suis une vieille amie.
+{26037}{26142}Si je trouve un fauteuil roulant,|ça vous dit de prendre l'air?
+{26145}{26215}Je n'ai pas besoin de fauteuil roulant.
+{26417}{26477}Mais j'ai une envie folle de fumer.
+{26745}{26820}Qu'est-ce que ça fait du bien de marcher!
+{26822}{26885}Les médecins ne savent pas quoi en penser.
+{26907}{27007}Je leur ai dit qu'ils ne me croiraient|pas si je leur racontais.
+{27010}{27145}Cette fois, je ne dirai rien.|De toute façon, on ne me croit pas.
+{27145}{27240}On vous fait parler,|mais on vous prend pour une folle.
+{27242}{27305}Remarquez, à leur place je ferais pareil.
+{27307}{27365}Mais c'est à moi que c'est arrivé.
+{27402}{27545}Je parlerai à quelqu'un en qui j'ai confiance|et qui peut faire quelque chose.
+{27547}{27690}En vous voyant, j'espérais|que l'agent Mulder vous accompagnerait.
+{27692}{27750}J'ai une surprise pour vous, Cassandra.
+{27985}{28042}Je crois que je vais faire pipi de joie!
+{28045}{28120}N'en faites rien.
+{28137}{28167}Ca alors!
+{28170}{28257}Je vous avais parlé de leurs pouvoirs.|Vous ne me croyiez pas.
+{28260}{28342}A l'époque, j'avais des raisons d'en douter.
+{28345}{28410}C'est de vous que vous doutiez.
+{28430}{28522}Vous doutiez de la revoir un jour.|Je me trompe?
+{28535}{28600}Votre soeur.
+{28695}{28790}L'agent Mulder m'a dit|avoir cru voir sa soeur l'an dernier.
+{28800}{28862}Ce n'était pas elle, agent Mulder.
+{28955}{29055}- Dans ce cas, où est-elle?|- Là-bas. Avec eux.
+{29105}{29155}Les extraterrestres.
+{29232}{29317}On vous a retrouvée dans un wagon.
+{29320}{29395}Des médecins vous ont opérée.
+{29397}{29452}Oui, c'est exact.
+{29455}{29560}- Ce sont eux qui vous ont guérie?|- Non, ce sont les extraterrestres.
+{29560}{29685}Mais les médecins travaillaient avec eux.|C'est ce que je voulais vous dire.
+{29687}{29755}Je croyais que les extraterrestres étaient bons
+{29755}{29857}et qu'ils se servaient de moi|pour transmettre leur message.
+{29860}{29945}Mais je sais maintenant|qu'ils ont de mauvaises intentions.
+{29947}{30012}Lesquelles?
+{30015}{30070}Nous rayer de la surface du globe.
+{30112}{30170}Ils sont en train de coloniser l'univers.
+{30172}{30300}Ils contaminent toutes les formes de vie|au moyen d'une substance appelée Pureté.
+{30325}{30422}C'est leur élan vital, leur élément constitutif.
+{30425}{30482}C'est le virus. L'huile noire.
+{30485}{30590}Les médecins|n'ont pas été contaminés mais brûlés.
+{30592}{30655}Par une autre race extraterrestre.
+{30657}{30787}Une race rebelle qui se mutile|le visage pour ne pas être contaminée.
+{30807}{30940}- Voilà pourquoi je ne dis rien à Jeffrey.|- Et pourquoi?
+{30940}{31002}Parce qu'il ne me croit pas.
+{31027}{31120}Même si sa vie est menacée par ces rebelles.
+{31122}{31185}Spender est en danger de mort?
+{31187}{31317}Il est de mèche avec les hommes qui oeuvrent|aux côtés des colons depuis 50 ans.
+{31320}{31370}Pour quoi faire?
+{31430}{31505}Je sais juste que c'est lié à ce qu'on m'a fait.
+{31507}{31555}Et à ce qu'on vous a fait, Dana.
+{31705}{31755}Savez-vous qui sont ces hommes?
+{31785}{31902}Et comment! L'un d'eux est mon ex-mari.
+{31937}{32010}Le père de Jeffrey.
+{32075}{32207}Cassandra commençait à prendre la mesure|de son rôle dans ce projet grandiose.
+{32232}{32307}Elle était au coeur de 50 ans de travaux.
+{32310}{32370}La clé de tous nos projets.
+{32417}{32507}Mais ça, même mes collègues|n'en étaient pas conscients.
+{32582}{32655}Pour qu'ils n'en sachent rien, j'ai tué.
+{32712}{32800}J'ai tué le Dr Openshaw|pour qu'on ne la retrouve pas,
+{32822}{32895}alors que c'est Cassandra que j'aurais dû|tuer.
+{32927}{32997}C'est Cassandra qui aurait dû mourir.
+{33090}{33165}Mais c'était au-dessus de mes forces.
+{33165}{33240}Malgré tout le sang que j'avais sur les mains,
+{33242}{33330}je ne pouvais me résoudre|à tuer la mère de mon fils.
+{33330}{33397}Pourtant, je ne l'ai jamais aimée.
+{33462}{33525}Mes collègues n'en ont rien su,
+{33560}{33630}obnubilés qu'ils étaient|par la nouvelle menace,
+{33632}{33752}ces extraterrestres rebelles|qui ont brûlé vifs nos médecins.
+{33792}{33870}Mes collègues avaient vieilli,
+{33900}{34040}ils ne se rendaient pas compte|que les rebelles avaient le dessus,
+{34065}{34177}qu'ils s'étaient glissés parmi nous|grâce à leur capacité de transformation.
+{34195}{34332}Les rebelles ont brûlé des locaux situés|au Nouveau-Mexique et dans le Sud-Ouest.
+{34357}{34462}Le personnel de notre laboratoire|en Arizona a été tué.
+{34552}{34622}Ces médecins nous étaient très précieux.
+{34625}{34667}Les travaux sur la race hybride|pâtiront de la mort du Dr Openshaw.
+{34667}{34735}Les travaux sur la race hybride|pâtiront de la mort du Dr Openshaw.
+{34737}{34800}Que veulent-ils?
+{34827}{34950}Révéler notre projet,|tout ce pour quoi nous avons travaillé.
+{34952}{35037}Il y aura bien un journaliste|pour reconstituer le puzzle.
+{35040}{35155}- Sans parler de la police.|- Nous contrôlons le FBI.
+{35157}{35242}Notre taupe sait étouffer|les affaires comme personne.
+{35245}{35337}Et si l'on faisait alliance avec les rebelles?
+{35430}{35497}On pourrait se joindre à leur mouvement.
+{35560}{35625}C'est une possibilité.
+{35655}{35722}Que vous avez rejetée il y a longtemps.
+{35777}{35885}A l'époque, la résistance était inutile.|Pourquoi ça aurait changé?
+{35885}{35982}C'est pour ça que vous aviez voté contre.|Contre des hommes comme Bill Mulder.
+{36015}{36122}Coopérer vous a permis de vous préparer,|de retarder la colonisation.
+{36125}{36210}Quand vos travaux|sur la race hybride aboutiront-ils?
+{36212}{36265}C'est la clé de votre survie.
+{36275}{36335}Comme esclaves des extraterrestres.
+{36382}{36437}Et votre vaccin?
+{36440}{36550}Coopérer vous a permis de développer|un moyen de combattre les extraterrestres,
+{36550}{36605}- de combattre l'avenir.|- Alex, ça suffit!
+{36815}{36882}Nous sommes sur ce projet depuis 50 ans.
+{36940}{37017}Depuis le crash de Roswell.
+{37020}{37140}Nous n'allons quand même pas nous sacrifier|dès qu'une nouvelle menace surgit?
+{37362}{37405}AGENT JEFFREY SPENDER|AGENT DIANA FOWLEY
+{37425}{37527}- Pourquoi prendre un tel risque?|- lls vont surveiller nos ordinateurs.
+{37530}{37627}Il faut qu'on accède aux dossiers,|qu'on trouve un nom.
+{37657}{37740}RECHERCHE: SPENDER|RECHERCHE EN COURS...
+{37945}{38015}Peut-être qu'elle a tout inventé.
+{38215}{38275}Le fumeur a un nom.
+{38325}{38375}SPENDER, CGB
+{38587}{38650}AUCUN RENSEIGNEMENT DISPONIBLE
+{38660}{38695}Levez-vous.
+{38695}{38815}Eteignez l'ordinateur. Prenez tout|ce que vous avez trouvé et donnez-le-moi.
+{38817}{38882}Dépêchez-vous. Ils arrivent.
+{38962}{39050}- Qui?|- Allez-vous-en.
+{39075}{39125}M. le sous-directeur!
+{39165}{39302}Je suppose que vous êtes venu les arrêter|pour s'être introduits dans mon bureau.
+{39305}{39392}Je veillerai à ce que|leur lettre de licenciement le précise.
+{39900}{39975}Mission accomplie. Mulder a été convoqué.
+{39975}{40065}Sa collègue et lui seront bientôt virés du FBI.
+{40067}{40177}J'ai rempli ma mission. J'aimerais|maintenant te demander un service.
+{40332}{40380}Un service?
+{40382}{40445}Je pense y avoir droit.
+{40447}{40530}- A quoi?|- A la vérité.
+{40532}{40597}Au sujet de ma mère.
+{40632}{40720}- Elle ne veut rien me dire.|- Tu ne la croirais pas.
+{40750}{40815}Tu ne me croirais sans doute pas non plus.
+{40880}{40960}- Mieux vaut que tu ne saches rien.|- Je dois savoir!
+{40960}{41052}Alors, montre que tu peux assumer|la responsabilité qui en découle!
+{41055}{41110}Me cherche pas, tu veux!
+{41142}{41220}Je t'ai donné|des responsabilités, une situation,
+{41220}{41300}plein de choses,|et tu es incapable de faire ton boulot!
+{41300}{41370}Quoi, briser Mulder? Ton sale boulot, oui!
+{41450}{41507}Tu ne lui arrives pas à la cheville.
+{42055}{42145}- Je suis sûre que CGB t'intrigue.|- Qui?
+{42145}{42260}CGB Spender.|Le nom de l'homme à la cigarette.
+{42287}{42340}Et ça veut dire quoi, CGB?
+{42375}{42485}C'est visiblement un nom d'emprunt.|Un parmi des centaines.
+{42540}{42590}Scully, tu joues?
+{42592}{42670}On a le temps,|maintenant qu'on est en disponibilité.
+{42672}{42745}Tu ne veux pas savoir ce qu'il y a là-dedans?
+{42747}{42807}C'est tout ce que j'ai trouvé sur lui.
+{42810}{42900}Rien de ce que tu trouveras|ne sera exact ou crédible.
+{42900}{42927}Peut-être.
+{42962}{43025}Mais j'ai une photo qui va t'intéresser.
+{43250}{43350}CGB Spender et mon père.
+{43362}{43435}Elle a été prise en 1973.
+{43437}{43552}Ils ont travaillé pendant 25 ans|sur un projet du département d'Etat.
+{43555}{43630}Un projet top secret.
+{43632}{43697}J'ai encore mieux, si tu es prêt.
+{43805}{43900}Cassandra Spender est bien|la mère de Jeffrey Spender
+{43900}{43967}et l'ex-femme de CGB Spender.
+{43995}{44102}Mais j'ai trouvé quelque chose|qui devrait t'étonner.
+{44115}{44245}Son premier enlèvement a eu lieu|dans la nuit du 27 novembre 1973.
+{44272}{44337}Le même jour que ma soeur.
+{44390}{44472}D'autres noms sont associés|à CGB Spender et à ton père.
+{44475}{44537}Des chercheurs, des médecins.
+{44540}{44655}L'un d'eux a reçu le prix Nobel de génétique.|Un certain Dr Openshaw.
+{44677}{44827}On l'a retrouvé vivant parmi les victimes|brûlées vives, aux côtés de Cassandra.
+{44830}{44932}Il est décédé le lendemain,|avant qu'on ait pu l'interroger.
+{44995}{45080}Le projet est toujours d'actualité.
+{45125}{45205}Après avoir tout ignoré|de mes liens avec son père,
+{45207}{45340}Mulder disposait maintenant|de certains noms, de certaines preuves.
+{45387}{45452}Ce n'était plus qu'une question de temps.
+{45477}{45542}Avant qu'il ne découvre nos péchés.
+{45567}{45630}Ceux de son père et les miens.
+{45700}{45812}La vérité était là, condamnée à être révélée.
+{45905}{45975}Il ne me restait plus qu'un seul espoir.
+{46015}{46090}Une seule chance de préserver mon héritage.
+{46115}{46185}CENTRE-VILLE DE WASHINGTON|19H10
+{46440}{46530}- J'ai attendu comme convenu.|- Bien.
+{46532}{46582}J'en suis heureux.
+{46610}{46675}J'avais des doutes,|après notre dernier entretien.
+{46772}{46832}Tu as une nouvelle mission pour moi?
+{46862}{46887}Oui.
+{46920}{46970}Je me suis peut-être montré trop dur.
+{47000}{47075}Tu mérites que je te donne une chance
+{47077}{47137}de me prouver que j'avais tort.
+{47237}{47300}- Qu'est-ce que c'est?|- Une arme.
+{47370}{47485}Un homme a infiltré le groupe|dans lequel je travaille. Tu vas le tuer avec ça.
+{47487}{47537}Je ne comprends pas.
+{47540}{47610}Il prétend être un membre de notre groupe.
+{47612}{47712}Il a pris l'apparence d'un homme qu'il a tué.
+{47715}{47790}Tu vas faire comme si c'était lui,
+{47790}{47885}discuter un peu,|puis lui planter ça dans la nuque.
+{48175}{48235}Tu vas y arriver, Jeffrey.
+{48607}{48670}Fais gaffe avec ça.
+{49680}{49767}Je m'appelle Jeffrey Spender.|C'est mon père qui m'envoie.
+{49987}{50087}- J'ai un message de la part du groupe.|- lls ont changé d'avis?
+{50110}{50170}C'est justement l'objet de ma visite.
+{50467}{50520}Asseyez-vous, je vous en prie.
+{50657}{50740}- Je vous écoute?|- On m'a confié quelque chose pour vous.
+{50740}{50810}Plus exactement, un nom.
+{50822}{50875}Un nom qui a une signification pour vous.
+{51010}{51060}Désolé.
+{51925}{52057}Merci d'être venu. Je sais|qu'on vous a interdit tout contact avec nous.
+{52140}{52190}Cassandra Spender est en danger?
+{52192}{52305}Ca fait 30 ans que ça dure.|Mais cette fois, c'est différent.
+{52307}{52350}D'où provient le danger?
+{52350}{52442}D'un groupe réuni autour|d'un projet gouvernemental secret
+{52445}{52505}devenu depuis la plus privée des entreprises.
+{52507}{52592}- Dont l'activité est?|- La création d'une race hybride
+{52595}{52715}résistant au virus que des colons|extraterrestres s'apprêtent à propager.
+{52717}{52765}J'imagine que vous avez des preuves.
+{52767}{52835}Des dossiers trouvés par Scully se rapportant
+{52837}{52982}au Dr Openshaw, à ma soeur,|à mon père et au père de l'agent Spender.
+{52992}{53077}- Au père de l'agent Spender?|- L'homme à la cigarette.
+{53140}{53215}C'est vrai, monsieur.|Nous en avons la preuve.
+{53217}{53287}Vous croyez à toute cette histoire,|agent Scully?
+{53290}{53372}Elle a des doutes|quant aux visées de ces expériences,
+{53375}{53482}mais elle pense avoir servi de cobaye|lors de son enlèvement il y a 4 ans.
+{53485}{53560}Si Cassandra est en danger,|pourquoi pas Scully?
+{53562}{53645}Cassandra représente|la dernière étape de ces expériences.
+{53647}{53735}Et peut-être bientôt|le premier hybride extraterrestre.
+{53735}{53842}Dans ce cas, pour quelle raison|sa vie serait-elle en danger?
+{53845}{53982}Parce que... ses géniteurs|seraient prêts à la tuer
+{53985}{54050}plutôt que de la laisser révéler leur projet.
+{54080}{54142}Elle est surveillée 24h/24.
+{54165}{54222}Sous la responsabilité de Spender?
+{54545}{54610}C'est le premier que tu vois?
+{54720}{54770}Au début, c'est difficile.
+{54795}{54860}D'admettre l'idée que...
+{54862}{54877}De croire en une chose|qu'on pensait réservée aux crétins.
+{54877}{54965}De croire en une chose|qu'on pensait réservée aux crétins.
+{54985}{55095}Une chose qui ébranle nos certitudes.|Sur nous-mêmes, le monde...
+{55125}{55207}- Mais on finit par comprendre.|- Comprendre quoi?
+{55210}{55345}La responsabilité qui incombe|à ceux qui ont connaissance de tout ça.
+{55345}{55477}Le sacrifice ultime imposé|à de grands hommes comme ton père.
+{55485}{55595}- Quel sacrifice?|- Le sacrifice de ta mère.
+{55725}{55780}Qu'est-ce que tu sais là-dessus?
+{55810}{55902}Seulement qu'on fait|des expériences sur elle depuis 25 ans.
+{55950}{56030}Est-ce que mon père est mouillé là-dedans?
+{56030}{56100}C'est lui qui dirige les expériences.
+{56137}{56230}Je la protège pour permettre|la poursuite des expériences?
+{56230}{56312}C'est pour ça qu'il t'a affecté aux affaires NC.
+{56390}{56482}Et que ton père t'a envoyé ici ce soir.
+{56577}{56662}Ce que tu protèges, c'est le projet.
+{56665}{56732}Les sacrifices, c'est toi qui les fais.
+{56765}{56825}Pour devenir un grand homme, toi aussi.
+{56880}{56950}Je deviendrai un grand homme tout seul.
+{57115}{57175}Je n'ai fait confiance à personne.
+{57195}{57285}Toutes les entreprises|débouchent sur une trahison.
+{57320}{57397}On croit tous avoir|de bonnes raisons de trahir.
+{57512}{57597}Je ne me fais guère d'illusions sur mon fils.
+{57642}{57725}Il a certainement vendu|la mèche à Mulder et à Scully.
+{57765}{57887}A l'heure qu'il est, sa mère doit|savoir qu'elle est au coeur du projet
+{57890}{57962}et qu'elle est devenue un être hybride.
+{58045}{58107}Savez-vous pourquoi je vous ai choisie?
+{58132}{58265}Parce que vous ne m'avez jamais trahi.|Et que j'ai besoin de quelqu'un de confiance.
+{58415}{58472}Je vais vous aider.
+{58510}{58562}Il n'est pas trop tard.
+{59597}{59677}- Où est ma mère?|- C'est à vous de me le dire.
+{59702}{59767}Où est le garde? J'en avais posté un là!
+{59770}{59822}Elle a disparu.
+{59857}{59920}- II l'a emmenée!|- Qui ça?
+{60267}{60352}- Dieu merci, vous êtes là!|- Comment le saviez-vous?
+{60425}{60477}Comment êtes-vous arrivée ici?
+{60480}{60560}- Comment êtes-vous sortie?|- D'où viennent ces vêtements?
+{60577}{60672}Agent Scully, agent Mulder,|faites qu'ils ne me trouvent pas!
+{60737}{60830}Faites qu'ils ne m'attrapent pas!|Tuez-moi! Vite!
+{60882}{61020}Tuez-moi ou le processus se déclenchera!|Rien ne les arrêtera!
+{61075}{61135}Il n'y a que moi qui puisse le faire!
+{61137}{61227}Tuez-moi, il le faut! Je vous en prie!
+{61320}{61377}Mulder, qu'est-ce que tu fais?
+{61380}{61450}Pousse-toi, Scully.
+{61452}{61532}Mulder, on doit la protéger!
+{61695}{61750}A SUIVRE
+{62167}{62210}Sous-titrage Visiontext: Sarah Ribatto
+{62745}{62795}FRENCH

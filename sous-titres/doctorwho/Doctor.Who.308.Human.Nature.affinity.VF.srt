@@ -1,0 +1,2948 @@
+1
+00:00:00,683 --> 00:00:01,759
+A terre !
+
+2
+00:00:04,640 --> 00:00:05,604
+- Ils t'ont vu ?
+- Je sais pas.
+
+3
+00:00:05,605 --> 00:00:07,270
+- Mais t'ont-ils vu ?
+- J'étais trop occupée à courir !
+
+4
+00:00:07,272 --> 00:00:09,299
+Martha, c'est important,
+ont-ils vu ton visage ?
+
+5
+00:00:09,300 --> 00:00:10,776
+Non, ils ne pouvaient pas.
+
+6
+00:00:10,900 --> 00:00:11,934
+On y va.
+
+7
+00:00:16,266 --> 00:00:17,376
+Ils nous suivent.
+
+8
+00:00:17,400 --> 00:00:19,002
+Comment ils font, vous avez une
+machine à remonter le temps !
+
+9
+00:00:19,005 --> 00:00:22,150
+Technologie volée. Ils ont un
+opérateur de vortex agent de temps.
+
+10
+00:00:22,248 --> 00:00:24,278
+Ils peuvent nous suivre
+partout où l'on va.
+
+11
+00:00:24,313 --> 00:00:27,347
+A travers l'univers.
+Ils ne s'arrêteront pas.
+
+12
+00:00:28,840 --> 00:00:31,613
+A moins que... Je devrai le faire.
+
+13
+00:00:31,964 --> 00:00:33,847
+- Martha, tu me fais confiance ?
+- Bien sûr.
+
+14
+00:00:33,850 --> 00:00:34,933
+Car tout dépend de toi.
+
+15
+00:00:35,100 --> 00:00:36,797
+De quoi ? Je dois faire quoi ?
+
+16
+00:00:36,947 --> 00:00:39,381
+Prends cette montre,
+ma vie dépend d'elle.
+
+17
+00:00:39,390 --> 00:00:42,421
+Cette montre, Martha,
+cette montre est...
+
+18
+00:00:57,299 --> 00:00:58,315
+Entrez.
+
+19
+00:00:59,561 --> 00:01:01,883
+Excusez moi, M. Smith,
+vous n'êtes pas habillé, je repasserai.
+
+20
+00:01:01,890 --> 00:01:03,756
+C'est bon, posez ça là.
+
+21
+00:01:06,935 --> 00:01:07,967
+J'étais...
+
+22
+00:01:10,869 --> 00:01:11,871
+Désolé.
+
+23
+00:01:13,622 --> 00:01:16,081
+Parfois, je fais des
+rêves extraordinaires.
+
+24
+00:01:16,311 --> 00:01:19,657
+- A propos de quoi, monsieur ?
+- Je rêve que je suis cet...
+
+25
+00:01:19,920 --> 00:01:21,262
+aventurier,
+
+26
+00:01:21,960 --> 00:01:24,863
+ce casse-cou, un déjanté.
+
+27
+00:01:25,029 --> 00:01:26,920
+On m'appelle, "Le Docteur".
+
+28
+00:01:26,960 --> 00:01:29,327
+Et la nuit dernière, j'ai rêvé
+
+29
+00:01:29,480 --> 00:01:30,969
+que vous étiez là.
+
+30
+00:01:31,477 --> 00:01:34,480
+En tant que... compagne.
+
+31
+00:01:34,520 --> 00:01:37,480
+Un professeur et une domestique ?
+Impossible.
+
+32
+00:01:37,520 --> 00:01:39,600
+J'étais un homme d'un autre monde.
+
+33
+00:01:40,357 --> 00:01:43,056
+Alors c'est impossible, car il
+n'existe pas de pareilles choses.
+
+34
+00:01:43,107 --> 00:01:46,680
+Cette chose, la montre. C'était...
+
+35
+00:01:50,700 --> 00:01:52,453
+C'est drôle comme les rêves s'estompent.
+
+36
+00:01:52,503 --> 00:01:57,181
+Mais je me souviens d'une chose,
+tout se passait dans le futur.
+
+37
+00:01:57,216 --> 00:02:00,040
+En l'année 2007 de notre Seigneur.
+
+38
+00:02:00,080 --> 00:02:03,480
+Je peux prouver le contraire,
+monsieur. Voici le journal.
+
+39
+00:02:03,784 --> 00:02:09,200
+Nous sommes le Lundi 10 Novembre 1913 et
+vous êtes complètement humain, monsieur.
+
+40
+00:02:09,240 --> 00:02:12,691
+- Humain, comme tout le monde.
+- C'est moi.
+
+41
+00:02:13,200 --> 00:02:14,920
+Complètement humain.
+
+42
+00:02:41,500 --> 00:02:44,500
+Doctor Who - Saison 3
+Épisode 8 - Human Nature
+
+43
+00:02:44,501 --> 00:02:47,000
+Traduction par Kowaio et Plumedephenix
+
+44
+00:02:47,001 --> 00:02:49,500
+Resynchro par LauCass
+
+45
+00:02:49,501 --> 00:02:52,000
+Relecture par Plumedephenix
+
+46
+00:02:52,001 --> 00:02:55,116
+~ Bad Wolf Team ~
+~ www.seriessub.com ~
+
+47
+00:03:14,926 --> 00:03:16,223
+Bonjour, Professeur.
+
+48
+00:03:19,000 --> 00:03:20,110
+Bonjour, Professeur.
+
+49
+00:03:26,622 --> 00:03:28,191
+M. le Proviseur.
+
+50
+00:03:30,623 --> 00:03:32,672
+...avancé avec peu d'obstacles.
+
+51
+00:03:32,688 --> 00:03:37,170
+Les Français étaient presque épuisés,
+avec seulement deux bataillons restants.
+
+52
+00:03:37,171 --> 00:03:41,400
+La dernière réserve militaire a
+été chargée de protéger Napoléon.
+
+53
+00:03:41,450 --> 00:03:47,416
+Mais, la nuit tombée, l'avance des troupes
+alliées les ont forcé à battre en retraite.
+
+54
+00:03:53,560 --> 00:03:54,938
+Bonjour, monsieur.
+
+55
+00:03:55,521 --> 00:03:56,979
+Oui.
+
+56
+00:03:59,560 --> 00:04:02,160
+La tête dans les nuages, celui-là.
+
+57
+00:04:02,890 --> 00:04:04,620
+Je ne comprends pas pourquoi
+tu es si gentille avec lui.
+
+58
+00:04:04,625 --> 00:04:06,199
+Il est gentil avec moi, c'est tout.
+
+59
+00:04:06,342 --> 00:04:08,700
+Tout le monde ne l'est pas,
+étant donné que je suis...
+
+60
+00:04:08,752 --> 00:04:10,533
+- Une Londonienne ?
+- Exactement !
+
+61
+00:04:10,534 --> 00:04:12,281
+La bonne vieille ville de Londres !
+
+62
+00:04:12,931 --> 00:04:17,000
+Alors, vous deux. Vous n'êtes
+pas payées pour vous amuser, si ?
+
+63
+00:04:17,040 --> 00:04:18,770
+Mettez un coup de rein par ici.
+
+64
+00:04:18,773 --> 00:04:22,065
+- Oui, monsieur. Désolée monsieur.
+- Vous là. Quel est votre nom ?
+
+65
+00:04:22,070 --> 00:04:23,927
+Martha, Monsieur. Martha Jones.
+
+66
+00:04:23,930 --> 00:04:25,385
+Dites moi donc, Jones.
+
+67
+00:04:25,490 --> 00:04:26,424
+Avec des mains comme les vôtres,
+
+68
+00:04:26,430 --> 00:04:29,408
+comment savez vous quand
+quelque chose est propre ?
+
+69
+00:04:31,540 --> 00:04:33,524
+C'est très drôle, monsieur.
+
+70
+00:04:33,720 --> 00:04:34,888
+Ne réponds pas.
+
+71
+00:04:34,890 --> 00:04:37,165
+Je lui répondrai avec
+mon seau sur la tête.
+
+72
+00:04:37,609 --> 00:04:39,601
+Oh, j'adorerais !
+
+73
+00:04:40,677 --> 00:04:42,254
+Réfléchis, cependant.
+
+74
+00:04:42,980 --> 00:04:46,214
+Bientôt des garçons comme
+ça dirigeront le pays.
+
+75
+00:04:46,577 --> 00:04:48,515
+1913.
+
+76
+00:04:48,775 --> 00:04:50,503
+Peut-être pas.
+
+77
+00:04:52,863 --> 00:04:53,793
+<i>Excusez-moi.</i>
+
+78
+00:04:54,012 --> 00:04:55,574
+Oh, bonjour, M. Smith.
+
+79
+00:04:55,873 --> 00:04:57,060
+Et voilà.
+
+80
+00:04:57,240 --> 00:05:00,187
+- Laissez moi vous aider.
+- Non, non, je l'ai...
+
+81
+00:05:01,338 --> 00:05:02,916
+Comment faire ?
+
+82
+00:05:03,212 --> 00:05:05,263
+Si vous pouviez prendre ça.
+
+83
+00:05:07,694 --> 00:05:09,284
+- Bien.
+- Pas de mal.
+
+84
+00:05:09,300 --> 00:05:10,927
+Alors, comment va Jenkins ?
+
+85
+00:05:11,000 --> 00:05:14,179
+Juste un rhume. Rien de sérieux. Je pense
+que sa mère lui manque plus que tout.
+
+86
+00:05:14,200 --> 00:05:15,201
+On peut pas lui en vouloir.
+
+87
+00:05:15,250 --> 00:05:17,357
+Il a reçu une lettre ce matin,
+donc il est beaucoup plus vif.
+
+88
+00:05:17,469 --> 00:05:18,855
+J'ai l'impression de tenir vos livres.
+
+89
+00:05:19,174 --> 00:05:22,067
+Oui, en effet ! Désolé !
+Laissez moi juste...
+
+90
+00:05:22,167 --> 00:05:24,091
+Non, pourquoi ne pas
+prendre la moitié chacun ?
+
+91
+00:05:24,322 --> 00:05:27,930
+Excellente idée.
+Parfait partage du travail.
+
+92
+00:05:27,935 --> 00:05:30,351
+- Nous formons une belle équipe.
+- N'est-ce pas ?
+
+93
+00:05:32,240 --> 00:05:34,827
+Ces livres, étaient-ils transportés
+dans une direction particulière ?
+
+94
+00:05:34,830 --> 00:05:35,753
+Oui.
+
+95
+00:05:37,418 --> 00:05:38,185
+Par là.
+
+96
+00:05:40,163 --> 00:05:44,574
+Matrone, laissez les garçons se
+défouler, ils s'épuiseront tout seul.
+
+97
+00:05:44,830 --> 00:05:48,766
+Quand nous sommes entre nous, vous
+pouvez m'appelier Infirmière Redfern.
+
+98
+00:05:49,077 --> 00:05:51,278
+Matrone sonne plutôt,
+eh bien, matrone.
+
+99
+00:05:52,880 --> 00:05:54,107
+Infirmière Redfern.
+
+100
+00:05:54,110 --> 00:05:55,600
+Bien que nous nous connaissions
+seulement depuis deux mois,
+
+101
+00:05:55,646 --> 00:05:56,934
+vous pouvez m'appeler "Joan".
+
+102
+00:05:56,940 --> 00:05:58,595
+- Joan ?
+- C'est mon prénom.
+
+103
+00:05:58,758 --> 00:05:59,611
+Bien sûr.
+
+104
+00:05:59,896 --> 00:06:02,202
+- Et vous c'est John, n'est-ce pas ?
+- Oui, c'est ça, oui.
+
+105
+00:06:02,250 --> 00:06:04,941
+Et bien John, la danse annuelle
+à la mairie du village est demain.
+
+106
+00:06:05,095 --> 00:06:09,509
+Rien de très officiel mais plutôt
+amusant. Vous pensez venir ?
+
+107
+00:06:11,608 --> 00:06:12,971
+Je n'y avais pas pensé.
+
+108
+00:06:13,014 --> 00:06:16,816
+Je n'ai pas dansé depuis des années.
+Seulement personne ne m'a invitée.
+
+109
+00:06:18,164 --> 00:06:19,220
+Eh bien !
+
+110
+00:06:19,570 --> 00:06:21,919
+Je n'aurais pas pensé que
+vous seriez... je veux dire,
+
+111
+00:06:22,428 --> 00:06:23,894
+Je n'aurais jamais pensé que vous
+aviez un don pour...
+
+112
+00:06:23,929 --> 00:06:26,634
+Enfin il n'y a pas de raison
+que non. Enfin si !
+
+113
+00:06:26,825 --> 00:06:29,691
+Je ne devrai sûrement pas. Mais même
+si je le faisais, je ne pourrais pas...
+
+114
+00:06:29,989 --> 00:06:31,074
+Je ne voudrais pas...
+
+115
+00:06:31,100 --> 00:06:33,421
+Les escaliers. Derrière vous.
+
+116
+00:06:38,078 --> 00:06:40,668
+Arrêtez ça. J'ai des garçons qui
+font moins d'histoires que ça.
+
+117
+00:06:40,768 --> 00:06:43,031
+- Mais ça fait mal.
+- Il va bien ?
+
+118
+00:06:43,050 --> 00:06:44,164
+Excusez-moi, Martha.
+
+119
+00:06:44,170 --> 00:06:46,514
+Ce n'est guère convenable d'entrer
+dans le bureau sans frapper.
+
+120
+00:06:46,515 --> 00:06:48,417
+Désolé, bien, oui.
+
+121
+00:06:50,326 --> 00:06:51,799
+Mais il va bien ?
+
+122
+00:06:51,875 --> 00:06:53,350
+Ils ont dit que vous êtes
+tombé dans les escaliers.
+
+123
+00:06:53,485 --> 00:06:56,760
+- Juste une chute.
+- Avez vous vérifié les commotions ?
+
+124
+00:06:56,843 --> 00:07:00,987
+En effet, et j'ose prétendre en connaître
+beaucoup plus là dessus que vous.
+
+125
+00:07:01,560 --> 00:07:03,805
+Désolée. Je vais juste...
+
+126
+00:07:03,840 --> 00:07:05,660
+ranger vos affaires.
+
+127
+00:07:06,523 --> 00:07:10,406
+J'étais en train d'expliquer mes
+rêves à l'Infirmière Redfern, Matrone.
+
+128
+00:07:10,450 --> 00:07:12,988
+Ils sont tout à fait extraordinaires.
+
+129
+00:07:13,657 --> 00:07:17,707
+Je continue d'imaginer que je suis
+quelqu'un d'autre et que je me cache...
+
+130
+00:07:17,742 --> 00:07:19,731
+Vous cacher ? De quelle façon ?
+
+131
+00:07:21,167 --> 00:07:23,043
+Ils m'arrivent presque chaque nuit.
+
+132
+00:07:23,432 --> 00:07:25,920
+- Ça va sembler idiot.
+- Dites moi.
+
+133
+00:07:26,660 --> 00:07:31,540
+Je rêve, assez souvent,
+que j'ai deux coeurs.
+
+134
+00:07:31,580 --> 00:07:34,620
+Oh, et bien, je peux
+vérifier ça. Voyons voir.
+
+135
+00:07:49,085 --> 00:07:50,760
+Je peux confirmer le diagnostic.
+
+136
+00:07:50,940 --> 00:07:53,340
+Un seul coeur, unique.
+
+137
+00:07:54,360 --> 00:07:57,092
+J'ai écris quelques uns de ces rêves
+
+138
+00:07:57,100 --> 00:08:01,180
+sous forme de... fiction. Mais ce
+n'est pas très intéressant.
+
+139
+00:08:01,181 --> 00:08:02,693
+Je serais vraiment intéressée.
+
+140
+00:08:04,130 --> 00:08:05,092
+Eh bien,
+
+141
+00:08:06,850 --> 00:08:08,045
+en fait,
+
+142
+00:08:08,752 --> 00:08:10,963
+je n'ai jamais montré ça à
+qui que ce soit.
+
+143
+00:08:12,380 --> 00:08:14,989
+"Un journal de choses impossibles".
+
+144
+00:08:21,071 --> 00:08:24,183
+Regardez ces créatures, quelle imagination.
+
+145
+00:08:24,660 --> 00:08:26,740
+C'est devenu presque un loisir.
+
+146
+00:08:33,000 --> 00:08:37,443
+C'est magnifique. Et vous avez
+l'oeil pour les jolies filles.
+
+147
+00:08:37,595 --> 00:08:40,660
+C'est juste une invention. Ce
+personnage, je l'appelle Rose.
+
+148
+00:08:40,700 --> 00:08:42,016
+Rose.
+
+149
+00:08:43,194 --> 00:08:45,220
+Elle disparaît un peu après.
+
+150
+00:08:50,172 --> 00:08:51,175
+Oh, c'est la cabine.
+
+151
+00:08:51,328 --> 00:08:53,403
+La cabine bleue, elle est toujours là.
+
+152
+00:08:53,470 --> 00:08:56,078
+Comme un tapis magique.
+
+153
+00:08:56,100 --> 00:08:59,625
+Cette cabine qui me transporte
+en terres lointaines.
+
+154
+00:08:59,725 --> 00:09:01,368
+Comme une porte de l'espace ?
+
+155
+00:09:02,772 --> 00:09:04,078
+Je me demande parfois,
+
+156
+00:09:04,574 --> 00:09:07,430
+à quel point la vie serait magique
+si des histoires comme ça existaient.
+
+157
+00:09:07,572 --> 00:09:08,800
+Si seulement.
+
+158
+00:09:09,997 --> 00:09:11,454
+Tout ça n'est qu'un rêve.
+
+159
+00:09:17,236 --> 00:09:18,314
+Madame,
+
+160
+00:09:19,200 --> 00:09:20,050
+ce livre.
+
+161
+00:09:20,185 --> 00:09:22,644
+J'y ferai attention. Ne vous inquiétez
+pas. Il a dit que je pouvais le lire.
+
+162
+00:09:22,771 --> 00:09:24,811
+Mais c'est absurde, c'est tout.
+
+163
+00:09:25,458 --> 00:09:27,186
+Juste des histoires.
+
+164
+00:09:27,780 --> 00:09:29,770
+- Qui est-il, Martha ?
+- Je vous demande pardon ?
+
+165
+00:09:30,399 --> 00:09:32,540
+C'est comme s'il avait laissé le gaz allumé.
+
+166
+00:09:32,740 --> 00:09:36,290
+Il sait qu'il doit retourner à quelque
+chose, mais il ne se souviens pas quoi.
+
+167
+00:09:36,300 --> 00:09:38,544
+- C'est juste lui.
+- Vous êtes arrivée avec lui.
+
+168
+00:09:38,550 --> 00:09:40,895
+Il vous a trouvé un emploi,
+ici à l'école, n'est-ce pas ?
+
+169
+00:09:40,900 --> 00:09:43,964
+Je travaillais pour la
+famille, il m'a hérité.
+
+170
+00:09:44,305 --> 00:09:46,191
+Eh bien, je ferais attention.
+
+171
+00:09:46,201 --> 00:09:51,528
+Vous semblez parfois un peu familière
+avec lui. Souvenez vous de votre position.
+
+172
+00:09:52,580 --> 00:09:53,894
+Oui, Madame.
+
+173
+00:09:56,119 --> 00:09:58,530
+Ah, Latimer. Te voilà.
+
+174
+00:09:58,565 --> 00:10:02,727
+Traduction latine. Fichu Catullus.
+Je le veux pour demain matin.
+
+175
+00:10:02,945 --> 00:10:03,480
+Oui, monsieur.
+
+176
+00:10:03,491 --> 00:10:07,292
+Et pas d'erreurs, je le veux
+écrit avec ma meilleure écriture.
+
+177
+00:10:07,586 --> 00:10:10,325
+Ecoute, Père dit qu'il a été promu.
+
+178
+00:10:10,360 --> 00:10:12,900
+Ça veut dire plus d'argent,
+peut-être une meilleure école.
+
+179
+00:10:13,180 --> 00:10:15,024
+Ah, vous devriez aimer ça, monsieur.
+
+180
+00:10:15,059 --> 00:10:17,628
+Mon oncle a eu un poste de
+6 mois à Johannesburg.
+
+181
+00:10:18,011 --> 00:10:20,254
+Il dit que c'est le plus
+beau pays de la Terre.
+
+182
+00:10:20,534 --> 00:10:22,541
+- De quoi parles-tu ?
+- L'Afrique.
+
+183
+00:10:22,926 --> 00:10:24,848
+- Votre père.
+- As-tu lu mon courrier ?
+
+184
+00:10:24,883 --> 00:10:26,638
+- Quoi ?
+- Tu as dit Afrique.
+
+185
+00:10:27,482 --> 00:10:29,281
+Je suis le seul à l'avoir lu.
+
+186
+00:10:30,085 --> 00:10:32,620
+- Comment sais-tu ça ?
+- Je n'ai pas...
+
+187
+00:10:32,621 --> 00:10:34,448
+- Tu m'espionnes ?
+- Non !
+
+188
+00:10:34,966 --> 00:10:35,980
+J'ai juste deviné.
+
+189
+00:10:36,015 --> 00:10:37,330
+Qu'est-ce que ça veut dire ?
+
+190
+00:10:37,365 --> 00:10:38,832
+Je suis bon pour deviner, c'est tout.
+
+191
+00:10:40,304 --> 00:10:41,352
+Idiot.
+
+192
+00:10:46,191 --> 00:10:49,180
+Parfois, je dis des choses
+qui se trouvent être vraies.
+
+193
+00:10:49,220 --> 00:10:52,220
+Des petites choses, minuscules.
+
+194
+00:10:52,260 --> 00:10:53,920
+Je ne peux pas m'en empêcher.
+
+195
+00:10:54,740 --> 00:10:57,121
+C'est juste une sorte de chance.
+
+196
+00:10:58,380 --> 00:11:01,157
+Laisse tomber, petit crapaud.
+Qui est partant pour des bières ?
+
+197
+00:11:01,160 --> 00:11:02,307
+Tu as des bières ?
+
+198
+00:11:02,342 --> 00:11:05,456
+Non mais Baxter a une réserve
+secrète dans les bois de BlackDown.
+
+199
+00:11:05,460 --> 00:11:06,887
+Qu'est-ce que tu attends ?
+
+200
+00:11:07,452 --> 00:11:10,340
+Vérifie bien que l'intendant
+est au bar avant d'y aller.
+
+201
+00:11:10,380 --> 00:11:13,860
+- Une bouteille pour tout le monde ?
+- Pas pour la saleté.
+
+202
+00:11:14,211 --> 00:11:16,484
+Dépêche toi, Baines, j'ai soif !
+
+203
+00:11:19,600 --> 00:11:21,290
+Oh, il fait froid dehors.
+
+204
+00:11:21,325 --> 00:11:22,800
+Pourquoi on ne prend pas
+un verre à l'intérieur ?
+
+205
+00:11:22,801 --> 00:11:24,108
+Ne sois pas ridicule.
+
+206
+00:11:24,143 --> 00:11:28,403
+Tu as de ces idées ! C'est vraiment bien,
+le droit des femmes, mais c'est à Londres !
+
+207
+00:11:28,410 --> 00:11:29,364
+C'est à des kilomètres d'ici !
+
+208
+00:11:29,438 --> 00:11:33,504
+Tu n'as pas envie de crier parfois ?
+Leur dire ce que tu ressens ?
+
+209
+00:11:33,539 --> 00:11:34,500
+Je ne sais pas.
+
+210
+00:11:34,771 --> 00:11:36,575
+Les choses doivent être
+différentes dans ton pays.
+
+211
+00:11:36,641 --> 00:11:39,003
+En effet. Dieu merci, je ne reste pas.
+
+212
+00:11:39,005 --> 00:11:40,393
+T'arrêtes pas de dire ça.
+
+213
+00:11:40,395 --> 00:11:41,416
+Tu verras.
+
+214
+00:11:41,566 --> 00:11:43,917
+Encore un mois et
+je serai aussi libre que l'air.
+
+215
+00:11:44,397 --> 00:11:46,680
+J'aimerais bien que tu viennes avec moi.
+Tu adorerais.
+
+216
+00:11:46,690 --> 00:11:50,185
+- Où irais-tu ?
+- Partout. Regarde là haut.
+
+217
+00:11:51,264 --> 00:11:53,930
+Imagine que tu puisses
+aller dans les étoiles.
+
+218
+00:11:55,438 --> 00:11:57,598
+Tu ne devrais pas dire
+autant de choses insensées.
+
+219
+00:11:57,633 --> 00:12:01,475
+C'est là où je vais... dans
+le ciel, tout là haut...
+
+220
+00:12:05,580 --> 00:12:06,580
+Tu as vu ça ?
+
+221
+00:12:07,363 --> 00:12:09,222
+- Voir quoi ?
+- Tu l'as vu, non ?
+
+222
+00:12:09,526 --> 00:12:11,500
+La haut, pendant une seconde.
+
+223
+00:12:12,063 --> 00:12:13,719
+Il n'y a rien là bas.
+
+224
+00:12:53,380 --> 00:12:55,022
+Matrone ? Vous allez bien ?
+
+225
+00:12:55,940 --> 00:12:58,340
+Vous avez vu ça ? Quelque
+chose dans les bois.
+
+226
+00:12:58,589 --> 00:12:59,693
+Cette lumière...
+
+227
+00:12:59,700 --> 00:13:01,335
+Quelque chose ne va pas, mesdames ?
+
+228
+00:13:01,350 --> 00:13:02,870
+Il fait plutôt froid pour
+rester là dans le noir.
+
+229
+00:13:02,880 --> 00:13:05,201
+Là ! Regardez, dans le ciel.
+
+230
+00:13:05,648 --> 00:13:07,476
+Oh, c'est magnifique.
+
+231
+00:13:09,130 --> 00:13:10,707
+Disparu !
+
+232
+00:13:10,889 --> 00:13:13,509
+Communément connu sous
+le nom de météorite.
+
+233
+00:13:13,627 --> 00:13:16,287
+Ce sont juste des rochers
+tombant vers le sol.
+
+234
+00:13:16,766 --> 00:13:18,985
+- Ils sont tombés dans le bois.
+- Non, non.
+
+235
+00:13:19,000 --> 00:13:21,799
+Ils ont l'air proches, mais
+ils sont à des kilomètres.
+
+236
+00:13:21,800 --> 00:13:24,344
+Ils n'en restent rien
+à part des cendres.
+
+237
+00:13:25,744 --> 00:13:27,521
+Je devrais vous raccompagner à l'école.
+
+238
+00:13:27,721 --> 00:13:30,141
+- Mesdames ?
+- Ça va aller, merci.
+
+239
+00:13:30,193 --> 00:13:32,004
+Dans ce cas, je vous
+souhaite une bonne nuit.
+
+240
+00:13:34,560 --> 00:13:35,930
+Jenny, c'était où ?
+
+241
+00:13:36,225 --> 00:13:37,999
+A l'horizon, où la lumière s'est dirigé ?
+
+242
+00:13:38,252 --> 00:13:40,379
+Vers les champs de Cooper.
+
+243
+00:13:40,753 --> 00:13:42,320
+Tu ne peux pas juste y aller !
+
+244
+00:13:42,400 --> 00:13:44,715
+Il fait noir, tu vas
+te casser une jambe !
+
+245
+00:14:25,080 --> 00:14:26,553
+Hé ho !
+
+246
+00:14:29,760 --> 00:14:32,203
+C'était une sorte d'aéroplane ?
+
+247
+00:14:33,802 --> 00:14:35,023
+Vous allez bien ?
+
+248
+00:14:43,173 --> 00:14:44,405
+Quoi ?
+
+249
+00:14:52,848 --> 00:14:54,800
+C'est impossible.
+
+250
+00:15:08,176 --> 00:15:10,080
+Une sorte de porte.
+
+251
+00:15:11,760 --> 00:15:13,075
+Hé ho ?
+
+252
+00:15:15,840 --> 00:15:17,360
+Il y a quelqu'un ?
+
+253
+00:15:31,010 --> 00:15:32,531
+Et voilà.
+
+254
+00:15:32,603 --> 00:15:35,404
+Il n'y a rien ici, je te l'avais dit !
+
+255
+00:15:35,504 --> 00:15:37,000
+Ce sont les champs de Cooper ?
+
+256
+00:15:37,100 --> 00:15:39,980
+Aussi loin que tes yeux peuvent
+voir. Pas d'étoile filante !
+
+257
+00:15:40,060 --> 00:15:42,620
+Je suis gelée jusqu'aux os, on rentre.
+
+258
+00:15:42,700 --> 00:15:45,420
+Comme l'a dit ton M.
+Smith, il n'y a rien à voir.
+
+259
+00:15:52,780 --> 00:15:55,929
+Mais je ne comprends
+pas. Qui êtes-vous ?
+
+260
+00:15:56,000 --> 00:15:57,641
+<i>Nous sommes La Famille.</i>
+
+261
+00:15:57,671 --> 00:16:01,498
+<i>Mais plus important, qui
+êtes-vous, petite chose ?</i>
+
+262
+00:16:01,500 --> 00:16:05,040
+Je m'appelle Baines.
+Jeremy Baines.
+
+263
+00:16:05,140 --> 00:16:06,114
+Pourrais-je y aller ?
+
+264
+00:16:06,214 --> 00:16:09,310
+<i>Je suis vraiment désolé, Baines,
+Jeremy Baines.</i>
+
+265
+00:16:09,315 --> 00:16:12,334
+<i>Mais je ne pense pas
+que tu partiras un jour.</i>
+
+266
+00:16:12,584 --> 00:16:14,915
+Mais... qui êtes-vous ?
+
+267
+00:16:15,228 --> 00:16:16,906
+Pourquoi je ne peux pas vous voir ?
+
+268
+00:16:16,950 --> 00:16:19,810
+<i>Pourquoi désires-tu tant nous voir ?</i>
+
+269
+00:16:20,700 --> 00:16:22,069
+Pour voir à quoi vous ressemblez.
+
+270
+00:16:22,100 --> 00:16:24,734
+<i>Oh, la réponse est facile.</i>
+
+271
+00:16:24,750 --> 00:16:29,186
+<i>Car bientôt, on se ressemblera beaucoup.</i>
+
+272
+00:16:33,411 --> 00:16:37,180
+Où est-il ? Il promet une bière
+et disparaît dans la nuit.
+
+273
+00:16:39,380 --> 00:16:41,798
+Le voilà, laisse le rentrer.
+
+274
+00:16:53,260 --> 00:16:56,111
+Baines, abruti ! Je croyais
+que tu t'étais fait attraper.
+
+275
+00:16:59,100 --> 00:17:02,940
+Eh bien alors ? Où elle est,
+mec ? Où est la sainte bière ?
+
+276
+00:17:02,980 --> 00:17:05,260
+Il n'y en avait pas. Elle a disparu.
+
+277
+00:17:05,300 --> 00:17:06,860
+Merde, j'attendais !
+
+278
+00:17:07,547 --> 00:17:09,787
+Pauvre spectacle, Baines, je dois dire.
+
+279
+00:17:12,060 --> 00:17:14,300
+Qu'est-ce qui ne va pas ?
+Tu as attrapé un rhume ?
+
+280
+00:17:14,380 --> 00:17:18,020
+Oui, on dirait. Il faisait froid.
+
+281
+00:17:18,060 --> 00:17:19,460
+Très froid.
+
+282
+00:17:21,444 --> 00:17:24,070
+Ne le répand pas, je ne
+veux pas tes microbes !
+
+283
+00:17:24,260 --> 00:17:25,900
+Tu devrais aller te reposer.
+
+284
+00:17:26,080 --> 00:17:27,831
+Allez, tout le monde. Peut-être demain.
+
+285
+00:17:27,974 --> 00:17:30,549
+Je crois que Jackson a de
+la bière sur le pavillon.
+
+286
+00:18:20,020 --> 00:18:21,359
+Bonjour.
+
+287
+00:18:23,477 --> 00:18:25,540
+Je parle à une machine...
+
+288
+00:18:42,140 --> 00:18:43,407
+A terre !
+
+289
+00:18:55,760 --> 00:18:56,629
+Ils nous suivent.
+
+290
+00:18:56,729 --> 00:18:58,510
+Ils peuvent nous suivre n'importe où.
+
+291
+00:18:58,679 --> 00:19:02,252
+A travers l'univers.
+Ils n'arrêteront jamais.
+
+292
+00:19:02,320 --> 00:19:03,834
+Martha, tu me fais confiance,
+n'est-ce pas ?
+
+293
+00:19:03,850 --> 00:19:06,122
+- Bien sûr, oui.
+- Car tout dépend de toi.
+
+294
+00:19:11,580 --> 00:19:15,234
+Martha, cette montre est moi.
+
+295
+00:19:15,626 --> 00:19:18,420
+Bien, d'accord. J'ai
+compris. Non, attendez.
+
+296
+00:19:18,460 --> 00:19:19,485
+Je suis complètement perdue.
+
+297
+00:19:19,490 --> 00:19:21,720
+Ces créatures sont des chasseurs.
+Elles peuvent sentir n'importe qui.
+
+298
+00:19:21,725 --> 00:19:23,838
+En tant que Seigneur du Temps,
+je suis unique.
+
+299
+00:19:23,850 --> 00:19:25,879
+Ils peuvent me pourchasser
+à travers le temps et l'espace.
+
+300
+00:19:26,370 --> 00:19:27,900
+Et la bonne nouvelle est ?
+
+301
+00:19:27,940 --> 00:19:31,044
+Ils peuvent me sentir, mais ils ne m'ont pas
+vu. Et leur durée de vie arrive à son terme.
+
+302
+00:19:31,045 --> 00:19:33,564
+Alors, on se cache. On
+attend qu'ils meurent.
+
+303
+00:19:33,570 --> 00:19:35,693
+Mais ils peuvent nous traquer.
+
+304
+00:19:35,873 --> 00:19:37,586
+C'est pourquoi je dois le faire.
+
+305
+00:19:38,155 --> 00:19:40,252
+Je dois arrêter d'être
+un Seigneur du Temps.
+
+306
+00:19:41,431 --> 00:19:42,899
+Je vais devenir humain.
+
+307
+00:19:55,900 --> 00:20:01,020
+Je n'aurais jamais pensé l'utiliser.
+Oh, mais j'y ai souvent pensé.
+
+308
+00:20:01,359 --> 00:20:02,444
+Qu'est-ce que ça fait ?
+
+309
+00:20:02,604 --> 00:20:04,068
+Un arc caméléon.
+
+310
+00:20:04,564 --> 00:20:08,100
+Ça réécrit mon ADN. Il change
+chaque cellule de mon corps.
+
+311
+00:20:08,140 --> 00:20:09,358
+Je l'ai mis sur humain.
+
+312
+00:20:09,400 --> 00:20:11,230
+Le TARDIS inventera
+une histoire pour moi,
+
+313
+00:20:11,249 --> 00:20:16,280
+il trouvera un cadre et m'intégrera.
+Mais pas pour toi, tu devras improviser.
+
+314
+00:20:16,298 --> 00:20:18,600
+J'aurai la connaissance
+résiduelle pour te laisser entrer.
+
+315
+00:20:18,605 --> 00:20:22,599
+Si vous réécrivez chaque
+cellule, ça va faire mal, non ?
+
+316
+00:20:22,700 --> 00:20:23,851
+Oh, oui.
+
+317
+00:20:24,460 --> 00:20:25,792
+Ça fait mal.
+
+318
+00:20:48,855 --> 00:20:49,700
+Ça marche ?
+
+319
+00:20:50,706 --> 00:20:51,500
+Martha !
+
+320
+00:20:51,790 --> 00:20:54,420
+Voici une liste d'instructions,
+pour quand je serai humain.
+
+321
+00:20:54,764 --> 00:20:57,027
+1- Ne me laisse faire
+de mal à personne.
+
+322
+00:20:57,030 --> 00:20:58,842
+Ça ne doit pas arriver, mais
+tu sais comment sont les humains.
+
+323
+00:20:58,877 --> 00:21:00,882
+2- Ne t’inquiète pas pour le TARDIS.
+
+324
+00:21:00,971 --> 00:21:02,550
+Je vais le mettre en veille,
+ils ne pourront pas le détecter.
+
+325
+00:21:02,670 --> 00:21:04,028
+Laisse le juste caché.
+
+326
+00:21:04,106 --> 00:21:06,628
+4 - ... Non, attends une minute.
+
+327
+00:21:06,650 --> 00:21:09,832
+3 - Ne t'implique pas dans de
+grands événements historiques.
+
+328
+00:21:09,990 --> 00:21:11,550
+4 - Toi.
+
+329
+00:21:11,951 --> 00:21:13,676
+Ne me laisse pas t'abandonner.
+
+330
+00:21:13,766 --> 00:21:14,674
+Et 5...
+
+331
+00:21:16,870 --> 00:21:20,350
+Mais il y a eu un météore, qu'est-ce
+que je suis sensé faire ?
+
+332
+00:21:20,879 --> 00:21:22,222
+Et 23.
+
+333
+00:21:22,590 --> 00:21:23,928
+Si quelque chose va mal,
+
+334
+00:21:24,087 --> 00:21:26,897
+s'ils nous trouvent, Martha,
+alors tu sais quoi faire.
+
+335
+00:21:26,932 --> 00:21:28,145
+Ouvre la montre.
+
+336
+00:21:28,750 --> 00:21:31,205
+Tout ce que je suis est
+en sûreté à l'intérieur.
+
+337
+00:21:31,250 --> 00:21:34,150
+J'ai mis un filtre de perception dessus,
+ainsi mon moi humain ne saura pas.
+
+338
+00:21:34,151 --> 00:21:35,785
+Pour lui, ce ne sera juste qu'une montre.
+
+339
+00:21:35,820 --> 00:21:38,026
+Mais ne l'ouvre pas à moins
+d'y être obligée.
+
+340
+00:21:38,570 --> 00:21:41,900
+Car une fois ouverte, La Famille
+sera capable de me trouver.
+
+341
+00:21:42,630 --> 00:21:44,345
+Tout repose sur toi, Martha.
+
+342
+00:21:44,911 --> 00:21:46,230
+Ton choix.
+
+343
+00:21:47,383 --> 00:21:50,230
+Oh, et merci.
+
+344
+00:21:53,552 --> 00:21:56,046
+J'espère que vous allez revenir.
+
+345
+00:21:59,596 --> 00:22:01,900
+Vous m'avez dit de venir chercher
+ce livre, monsieur.
+
+346
+00:22:01,929 --> 00:22:03,761
+Bon garçon, oui.
+
+347
+00:22:04,190 --> 00:22:06,863
+Le Bilan Définitif de Mafeking
+par Aitchinson Price.
+
+348
+00:22:06,870 --> 00:22:08,254
+Où l'ai-je mis ?
+
+349
+00:22:08,477 --> 00:22:12,250
+Je voulais te parler. Tes notes ne
+sont pas assez bonnes.
+
+350
+00:22:12,256 --> 00:22:14,048
+Je suis dans les dix premiers.
+
+351
+00:22:15,010 --> 00:22:17,588
+Sois sérieux, Timothy.
+Tu devrais être premier.
+
+352
+00:22:17,623 --> 00:22:21,390
+Tu es intelligent, mais on dirait que
+tu le caches. Où est ce livre ?
+
+353
+00:22:21,750 --> 00:22:23,009
+Je sais pourquoi.
+
+354
+00:22:23,010 --> 00:22:26,920
+Garder la tête baissée permet d'éviter
+les moqueries de tes camarades.
+
+355
+00:22:27,110 --> 00:22:29,550
+Aucun homme ne devrait se
+cacher, tu ne penses pas ?
+
+356
+00:22:29,596 --> 00:22:30,933
+Si, monsieur.
+
+357
+00:22:31,347 --> 00:22:35,552
+Si tu es intelligent,
+sois en fier ! Sers-t'en !
+
+358
+00:22:36,989 --> 00:22:38,812
+<i>Seigneur du Temps.</i>
+
+359
+00:22:42,350 --> 00:22:45,383
+<i>Le secret repose à l'intérieur.
+Je suis piégé.</i>
+
+360
+00:22:45,468 --> 00:22:48,410
+<i>Enfermé dans le métal froid
+et le noir.</i>
+
+361
+00:22:48,450 --> 00:22:50,990
+<i>Mais attendant. Attendant toujours.</i>
+
+362
+00:22:53,158 --> 00:22:56,750
+Des détails fascinants sur le siège.
+Tu vas bien ?
+
+363
+00:22:56,830 --> 00:22:58,790
+Oui, monsieur. Bien, monsieur.
+
+364
+00:22:59,495 --> 00:23:00,544
+Très bien.
+
+365
+00:23:00,630 --> 00:23:02,872
+Et n'oublie pas, utilise ce cerveau !
+
+366
+00:23:02,900 --> 00:23:05,248
+<i>Pouvoir du Seigneur du Temps.</i>
+
+367
+00:23:07,630 --> 00:23:10,870
+Tu as l'air distrait, quelque
+chose ne va pas ?
+
+368
+00:23:11,182 --> 00:23:14,150
+Non, monsieur. Merci, monsieur.
+
+369
+00:23:32,772 --> 00:23:35,654
+<i>Tu n'es pas seul. Garde moi caché.</i>
+
+370
+00:23:37,340 --> 00:23:40,790
+<i>Et un vol infini, brûlant de lumière.</i>
+
+371
+00:24:09,246 --> 00:24:11,930
+<i>Il y a une trace, mais éparpillée,
+en quelque sorte.</i>
+
+372
+00:24:12,264 --> 00:24:13,977
+<i>L'odeur est confuse.</i>
+
+373
+00:24:15,110 --> 00:24:18,330
+<i>Cependant, mieux vaut nous armer.</i>
+
+374
+00:24:18,530 --> 00:24:20,404
+Activez les soldats.
+
+375
+00:24:36,150 --> 00:24:38,090
+Ceci est ma propriété !
+
+376
+00:24:38,199 --> 00:24:42,133
+Vous pénétrez sur mes terres !
+Qui est là ?
+
+377
+00:24:42,154 --> 00:24:44,405
+Un de ces idiots de l'école ?
+
+378
+00:24:44,410 --> 00:24:46,187
+Allez, soyons...
+
+379
+00:24:49,224 --> 00:24:50,865
+Eh bien, comment ?
+
+380
+00:24:54,512 --> 00:24:57,321
+Non ! Non ! A l'aide !
+
+381
+00:24:57,703 --> 00:24:59,234
+A l'aide !
+
+382
+00:25:20,030 --> 00:25:21,422
+Concentration !
+
+383
+00:25:27,650 --> 00:25:29,892
+Hutchinson, excellent travail.
+
+384
+00:25:30,630 --> 00:25:31,920
+Cessez le feu !
+
+385
+00:25:32,710 --> 00:25:33,750
+Bonne journée,
+M. le Proviseur.
+
+386
+00:25:33,769 --> 00:25:35,612
+Votre équipe est en belle
+forme aujourd'hui, monsieur Smith.
+
+387
+00:25:35,650 --> 00:25:37,630
+M. le Proviseur,
+nous pourrions faire bien mieux.
+
+388
+00:25:37,670 --> 00:25:41,110
+- Latimer se montre délibérément mauvais.
+- Je fais de mon mieux !
+
+389
+00:25:41,190 --> 00:25:45,270
+Vous devez être meilleur ! Ces cibles
+sont des tribus du continent Noir.
+
+390
+00:25:45,310 --> 00:25:47,030
+C'est bien le problème, monsieur.
+
+391
+00:25:47,431 --> 00:25:48,790
+Ils n'ont que des lances.
+
+392
+00:25:48,870 --> 00:25:53,602
+Latimer se met en charge de nous
+montrer à quel point nous avons tort.
+
+393
+00:25:53,845 --> 00:25:57,103
+J'espère que vous aurez un jour
+une juste et vraie guerre
+
+394
+00:25:57,150 --> 00:26:00,150
+pour faire vos preuves.
+Recommencez à tirer.
+
+395
+00:26:12,550 --> 00:26:14,248
+L'heure passée d'une minute.
+
+396
+00:26:15,470 --> 00:26:16,408
+C'est maintenant.
+
+397
+00:26:17,190 --> 00:26:20,173
+Hutchinson, c'est l'heure.
+C'est maintenant.
+
+398
+00:26:21,501 --> 00:26:24,050
+Interruption ! Action immédiate !
+
+399
+00:26:24,350 --> 00:26:26,900
+Je vous l'avais dit, monsieur.
+Cet imbécile ne sert à rien.
+
+400
+00:26:26,950 --> 00:26:29,446
+Puis-je battre Latimer, monsieur ?
+
+401
+00:26:29,751 --> 00:26:32,477
+- C'est votre classe, M. Smith.
+- Accordé.
+
+402
+00:26:32,610 --> 00:26:34,197
+Viens avec moi, toi !
+
+403
+00:26:41,270 --> 00:26:42,996
+Une remarque, Baines ?
+
+404
+00:26:43,390 --> 00:26:44,669
+Je pensais...
+
+405
+00:26:45,830 --> 00:26:47,809
+Non, monsieur. Rien, monsieur.
+
+406
+00:26:50,636 --> 00:26:52,406
+Je vous laisse, M. Smith.
+
+407
+00:26:53,468 --> 00:26:57,346
+Ah, Pemberton, Smythe, Wicks !
+A vos postes !
+
+408
+00:26:59,677 --> 00:27:01,264
+Infirmière  Redfern.
+
+409
+00:27:01,856 --> 00:27:05,986
+- Je vous rendrai bientôt votre journal.
+- Ce n'est pas la peine.
+
+410
+00:27:06,930 --> 00:27:08,300
+Excusez-moi, M. Smith.
+
+411
+00:27:08,310 --> 00:27:11,421
+Je pensais juste au jour où mon
+mari s'est fait tuer.
+
+412
+00:27:25,930 --> 00:27:30,217
+Il s'appelait Oliver. Il est mort
+dans la bataille de Spion Kop.
+
+413
+00:27:30,276 --> 00:27:32,591
+Nous nous connaissions depuis l'enfance.
+
+414
+00:27:33,850 --> 00:27:36,716
+J'ai longtemps été en colère
+après l'Armée.
+
+415
+00:27:36,867 --> 00:27:38,215
+Vous l'êtes toujours.
+
+416
+00:27:38,648 --> 00:27:43,190
+Je me trouve à l'école, à regarder
+des garçons apprenant à tuer.
+
+417
+00:27:44,048 --> 00:27:45,207
+La discipline n'est-elle
+pas bonne pour eux ?
+
+418
+00:27:45,342 --> 00:27:46,790
+Doit-elle être militaire ?
+
+419
+00:27:46,792 --> 00:27:49,897
+S'il y a une autre guerre, ces garçons
+ne trouveront pas ça si amusant.
+
+420
+00:27:49,988 --> 00:27:53,385
+Eh bien, la Grande Bretagne est en paix.
+Que cela dure.
+
+421
+00:27:54,661 --> 00:27:56,639
+Dans votre journal,
+une de vos histoires...
+
+422
+00:27:56,674 --> 00:28:00,593
+Vous avez écrit à propos de
+l'année prochaine, 1914.
+
+423
+00:28:00,651 --> 00:28:02,272
+C'était un rêve !
+
+424
+00:28:02,570 --> 00:28:05,614
+Toutes ces images de
+boue et de fil barbelé.
+
+425
+00:28:05,790 --> 00:28:07,419
+Vous avez parlé d'une ombre,
+
+426
+00:28:08,106 --> 00:28:11,012
+une ombre tombant sur le monde entier.
+
+427
+00:28:11,090 --> 00:28:13,724
+Nous pouvons nous réjouir
+que ce ne soit pas vrai.
+
+428
+00:28:13,770 --> 00:28:18,810
+Je pense que l'homme n'a pas besoin
+de guerre et de sang pour faire ses preuves.
+
+429
+00:28:18,890 --> 00:28:21,469
+La vie quotidienne peut apporter
+de l'honneur et de la valeur et...
+
+430
+00:28:21,642 --> 00:28:23,551
+espérons que, ce...
+
+431
+00:28:23,821 --> 00:28:27,290
+ce pays pourra maintenant trouver
+des héros dans de plus petits endroits.
+
+432
+00:28:31,487 --> 00:28:32,410
+Dans les plus...
+
+433
+00:28:36,867 --> 00:28:38,006
+ordinaires...
+
+434
+00:28:39,676 --> 00:28:40,932
+des actions.
+
+435
+00:29:06,755 --> 00:29:07,930
+<i>Vous allez bien ?</i>
+
+436
+00:29:10,346 --> 00:29:11,900
+Chanceux.
+
+437
+00:29:12,400 --> 00:29:13,820
+C'était de la chance ?
+
+438
+00:29:14,356 --> 00:29:17,890
+Infirmière Redfern, puis-je vous inviter
+au bal du village ce soir ?
+
+439
+00:29:18,470 --> 00:29:22,230
+- En tant que mon invitée ?
+- Quel homme extraordinaire !
+
+440
+00:29:26,243 --> 00:29:28,156
+Tout devient clair maintenant !
+
+441
+00:29:28,160 --> 00:29:30,408
+Le Docteur est l'homme
+que vous aimeriez être,
+
+442
+00:29:30,485 --> 00:29:32,646
+faisant d'impossibles choses
+avec des balles de cricket.
+
+443
+00:29:32,690 --> 00:29:35,090
+Eh bien, je me suis découvert
+un talent, c'est vrai.
+
+444
+00:29:35,170 --> 00:29:37,693
+- Mais le Docteur aime les femmes.
+- Le diable !
+
+445
+00:29:37,788 --> 00:29:39,634
+Une fille dans chaque cheminée.
+
+446
+00:29:39,669 --> 00:29:43,250
+Je me dois de protester, Joan.
+Ça ne me ressemble pas.
+
+447
+00:29:43,829 --> 00:29:46,501
+Dit l'homme qui m'emmène
+danser ce soir.
+
+448
+00:29:46,661 --> 00:29:48,930
+Cet épouvantail est de travers.
+
+449
+00:29:54,003 --> 00:29:56,870
+Toujours artiste. Où avez-vous
+appris à dessiner ?
+
+450
+00:29:56,880 --> 00:29:59,374
+- Gallifrey.
+- Est-ce en Irlande ?
+
+451
+00:30:00,690 --> 00:30:03,050
+- Oui, sûrement.
+- Vous n'êtes pas Irlandais ?
+
+452
+00:30:03,090 --> 00:30:07,902
+Non. Mon père, Sidney, était
+un horloger de Nottingham.
+
+453
+00:30:08,554 --> 00:30:11,087
+Et ma mère, Verity, était...
+
+454
+00:30:12,980 --> 00:30:15,050
+Hum, elle était infirmière, en fait.
+
+455
+00:30:15,090 --> 00:30:18,690
+- Nous faisons de si bonnes femmes.
+- Vraiment ? Bien.
+
+456
+00:30:19,200 --> 00:30:20,290
+Oui !
+
+457
+00:30:21,570 --> 00:30:23,087
+Bien, mon travail est fini !
+
+458
+00:30:23,122 --> 00:30:25,206
+- Qu'en pensez vous ?
+- Un chef d'oeuvre.
+
+459
+00:30:25,595 --> 00:30:27,719
+J'ai toutes sortes de talents aujourd'hui.
+
+460
+00:30:41,311 --> 00:30:42,661
+Puis-je voir ?
+
+461
+00:30:48,110 --> 00:30:49,830
+Oh, mon Dieu.
+
+462
+00:30:49,870 --> 00:30:51,790
+Je ressemble à ça ?
+
+463
+00:30:51,870 --> 00:30:53,710
+Vous êtes sûr que ce n'est pas moi ?
+
+464
+00:30:53,790 --> 00:30:56,310
+Définitivement, cette page.
+Vous l'aimez ?
+
+465
+00:30:56,350 --> 00:31:00,383
+- Vous m'avez fait bien trop belle.
+- Eh bien, je vous vois comme cela.
+
+466
+00:31:02,070 --> 00:31:06,025
+Les veuves ne doivent pas être belles.
+Le monde préférerait que l'on arrête.
+
+467
+00:31:08,190 --> 00:31:09,704
+Est-ce juste ?
+
+468
+00:31:10,944 --> 00:31:12,270
+Que l'on s'arrête ?
+
+469
+00:31:14,350 --> 00:31:16,079
+Ce n'est pas juste du tout.
+
+470
+00:31:33,251 --> 00:31:35,451
+Je n'ai jamais... hum...
+
+471
+00:31:43,841 --> 00:31:46,707
+Martha ! Que t'ai-je dit à
+propos d'entrer sans s'annoncer ?
+
+472
+00:31:49,870 --> 00:31:51,710
+Ça n'était pas sur la liste !
+
+473
+00:31:58,910 --> 00:32:01,210
+4 - Toi.
+
+474
+00:32:01,220 --> 00:32:03,009
+Ne me laisse pas t'abandonner.
+
+475
+00:32:03,310 --> 00:32:04,910
+Ce n'est pas bon !
+
+476
+00:32:04,990 --> 00:32:07,732
+Et pour les choses que vous n'avez
+pas dîtes ? Et pour les femmes ?
+
+477
+00:32:08,181 --> 00:32:10,606
+Oh, non, vous n'y avez pas pensé.
+
+478
+00:32:10,950 --> 00:32:13,269
+Qu'est-ce que je vais
+bien pouvoir faire !
+
+479
+00:32:13,649 --> 00:32:15,164
+Merci.
+
+480
+00:32:17,583 --> 00:32:19,481
+Il le fallait, hein ?
+
+481
+00:32:20,350 --> 00:32:22,859
+Que vous tombiez amoureux
+d'une humaine.
+
+482
+00:32:23,941 --> 00:32:26,110
+Et que ce ne soit pas moi.
+
+483
+00:32:27,438 --> 00:32:31,357
+<i>Les ténèbres arrivent ! Garde moi loin
+de l'homme faux et vide.</i>
+
+484
+00:32:31,392 --> 00:32:36,089
+<i>Le dernier des Seigneurs du Temps.
+Le dernier de cette sage et ancienne race.</i>
+
+485
+00:32:36,124 --> 00:32:37,960
+<i>Les visages d'hommes...</i>
+
+486
+00:33:10,368 --> 00:33:14,445
+Qui joue là, stupides mendiants ?
+J'ai failli me rompre le cou !
+
+487
+00:33:14,480 --> 00:33:15,859
+Qui c'est, alors ?
+
+488
+00:33:15,894 --> 00:33:17,630
+C'est toi, Saul ?
+
+489
+00:33:29,795 --> 00:33:31,190
+Je ne comprends pas.
+
+490
+00:33:32,819 --> 00:33:35,435
+C'est M. Clark, n'est-ce pas ?
+
+491
+00:33:35,609 --> 00:33:37,515
+Qu'est-ce que j'ai fait de mal ?
+
+492
+00:33:40,468 --> 00:33:42,023
+Rien du tout.
+
+493
+00:33:42,849 --> 00:33:44,291
+En fait,
+
+494
+00:33:45,495 --> 00:33:47,214
+vous êtes juste ce qu'il
+nous faut, ma fille.
+
+495
+00:33:47,350 --> 00:33:49,811
+Elle travaille à l'école.
+
+496
+00:33:50,840 --> 00:33:54,546
+Et quoi qu'il se passe, cela semble
+centré autour de cet établissement.
+
+497
+00:33:54,581 --> 00:33:58,659
+Les plus faibles des traces
+mais elles mènent toutes là...
+
+498
+00:33:58,803 --> 00:34:00,942
+Vous êtes Baines, n'est-ce pas ?
+
+499
+00:34:01,550 --> 00:34:03,470
+Ce n'est vraiment pas drôle, Monsieur.
+
+500
+00:34:03,505 --> 00:34:07,025
+Tais toi. Arrête de parler, cesser et
+se désister, voilà une bonne fille !
+
+501
+00:34:07,950 --> 00:34:11,103
+Ma Mère meurt d'envie
+de te rencontrer.
+
+502
+00:34:13,070 --> 00:34:14,576
+Et la voici.
+
+503
+00:34:17,750 --> 00:34:19,180
+Arrêtez de vous moquer de moi, Monsieur.
+
+504
+00:34:19,192 --> 00:34:19,972
+Non !
+
+505
+00:34:20,390 --> 00:34:23,710
+Ma Mère a juste besoin d'une forme.
+
+506
+00:34:23,750 --> 00:34:26,640
+Nous prenons forme si rapidement.
+
+507
+00:34:27,110 --> 00:34:32,300
+La votre est parfaitement
+adéquate, bien qu'un peu morose.
+
+508
+00:34:33,713 --> 00:34:35,227
+Ma Mère,
+
+509
+00:34:36,253 --> 00:34:37,350
+embrassez-la.
+
+510
+00:34:45,245 --> 00:34:46,624
+Vous êtes ravissante.
+
+511
+00:34:47,098 --> 00:34:48,957
+Vous feriez mieux de me donner
+quelques avertissements,
+
+512
+00:34:49,997 --> 00:34:51,626
+savez-vous vraiment danser ?
+
+513
+00:34:54,199 --> 00:34:55,805
+Je ne suis pas certain.
+
+514
+00:34:56,198 --> 00:34:57,376
+En voilà une surprise.
+
+515
+00:34:58,017 --> 00:34:59,936
+Y a-t-il quelque chose dont
+vous êtes certain ?
+
+516
+00:35:00,526 --> 00:35:02,679
+Oui. Oui.
+
+517
+00:35:07,543 --> 00:35:10,008
+Ah, te voilà enfin.
+Viens voir ce que j'ai là.
+
+518
+00:35:10,020 --> 00:35:13,131
+M. Pool ne voulait pas de son thé.
+Sa cuisinière m'a laissé le prendre.
+
+519
+00:35:13,182 --> 00:35:14,542
+Il y en a assez pour deux.
+
+520
+00:35:15,455 --> 00:35:17,351
+Qu'est-ce que tu attends ?
+
+521
+00:35:18,910 --> 00:35:19,831
+Tu vas bien ?
+
+522
+00:35:19,869 --> 00:35:21,888
+Je dois être en train
+d'attraper un rhume.
+
+523
+00:35:23,430 --> 00:35:26,270
+Je continue de penser à eux
+et je ne sais pas quoi faire.
+
+524
+00:35:26,310 --> 00:35:29,412
+- A propos de qui ?
+- M. Smith et la Matrone.
+
+525
+00:35:29,447 --> 00:35:32,215
+Car ça ne va pas durer.
+Il va partir dans quelques semaines.
+
+526
+00:35:32,688 --> 00:35:33,656
+Pourquoi ?
+
+527
+00:35:33,987 --> 00:35:37,070
+Son contrat va prendre fin et
+elle va avoir le coeur brisé.
+
+528
+00:35:37,077 --> 00:35:38,458
+Partir pour où ?
+
+529
+00:35:38,837 --> 00:35:40,350
+Toutes sortes d'endroits.
+
+530
+00:35:40,636 --> 00:35:43,790
+J'aimerais pourvoir te dire.
+Mais c'est compliqué.
+
+531
+00:35:43,840 --> 00:35:44,952
+Comment ça ?
+
+532
+00:35:44,987 --> 00:35:46,670
+Je ne peux pas.
+
+533
+00:35:47,110 --> 00:35:48,900
+Ça a l'air intéressant.
+
+534
+00:35:48,902 --> 00:35:50,782
+Dis moi. Dis moi maintenant.
+
+535
+00:35:54,557 --> 00:35:55,457
+Tu veux un peu de thé ?
+
+536
+00:35:55,480 --> 00:35:56,750
+Oui, merci.
+
+537
+00:35:57,545 --> 00:35:59,845
+Je pourrais mettre une jolie
+petite gravure dans le pot.
+
+538
+00:35:59,989 --> 00:36:01,637
+Et quelques moutons.
+
+539
+00:36:01,790 --> 00:36:04,113
+Ou sardines et jambon,
+t'en penses quoi ?
+
+540
+00:36:04,986 --> 00:36:07,978
+- Ça m'a l'air bien.
+- Bien.
+
+541
+00:36:08,895 --> 00:36:10,070
+Attends une seconde.
+
+542
+00:36:32,470 --> 00:36:33,940
+- Ils nous ont trouvés !
+- C'est ridicule.
+
+543
+00:36:33,951 --> 00:36:34,793
+Martha, je t'ai prévenue.
+
+544
+00:36:34,961 --> 00:36:38,507
+Ils nous ont trouvé et je les ai vu,
+ils ressemblent à des gens, comme nous !
+
+545
+00:36:38,607 --> 00:36:40,583
+Vous devez ouvrir la montre.
+
+546
+00:36:42,980 --> 00:36:44,138
+Où est-elle ?
+
+547
+00:36:45,590 --> 00:36:47,550
+Oh, mon Dieu, où est-elle ?
+
+548
+00:36:47,590 --> 00:36:48,358
+De quoi parles-tu ?
+
+549
+00:36:48,509 --> 00:36:51,248
+Vous aviez une montre,
+un gousset, juste là.
+
+550
+00:36:51,250 --> 00:36:54,450
+- Ah bon ? Je ne m'en souviens pas.
+- En quoi cela vous concerne ?
+
+551
+00:36:54,766 --> 00:36:56,270
+Mais nous en avons besoin !
+
+552
+00:36:56,310 --> 00:36:59,590
+Docteur, on se cache des
+extra-terrestres, et ils ont Jenny !
+
+553
+00:36:59,630 --> 00:37:01,872
+Ils la possèdent ou ils l'ont
+copié ou quelque chose d'autre !
+
+554
+00:37:01,880 --> 00:37:03,290
+Vous devez me dire, où est la montre ?
+
+555
+00:37:03,292 --> 00:37:05,025
+Oh ! Je vois !
+
+556
+00:37:05,550 --> 00:37:07,080
+Différences culturelles.
+
+557
+00:37:08,868 --> 00:37:11,114
+Ça doit être troublant pour toi.
+
+558
+00:37:11,410 --> 00:37:15,255
+Martha, ça, c'est ce
+qu'on appelle une histoire.
+
+559
+00:37:15,290 --> 00:37:17,668
+Oh, vous êtes complètement...
+
+560
+00:37:17,827 --> 00:37:21,574
+Ça, c'est pas vous.
+Ça, c'est 1913 !
+
+561
+00:37:21,580 --> 00:37:23,528
+Bien. Ça, c'est 1913.
+
+562
+00:37:23,530 --> 00:37:26,580
+Je suis désolée, vraiment désolé,
+mais je dois vous faire sortir de ça.
+
+563
+00:37:27,220 --> 00:37:27,782
+Martha !
+
+564
+00:37:27,790 --> 00:37:30,127
+Réveillez vous !
+On retourne au TARDIS ensemble.
+
+565
+00:37:30,130 --> 00:37:33,179
+Comment oses-tu ? Je n'irai nul
+part avec une servante folle à lier.
+
+566
+00:37:33,190 --> 00:37:37,489
+Martha, tu es suspendue. Quitte ses
+locaux immédiatement ! Maintenant, sors !
+
+567
+00:37:38,190 --> 00:37:40,361
+Quel culot ! Quel toupet !
+
+568
+00:37:40,422 --> 00:37:42,160
+Vous pensez que je suis un
+fantaisiste, et elle alors ?
+
+569
+00:37:42,168 --> 00:37:44,134
+C'est drôle, car vous aviez un gousset.
+
+570
+00:37:44,458 --> 00:37:45,494
+Juste là.
+
+571
+00:37:45,939 --> 00:37:47,523
+Vous ne vous souvenez pas ?
+
+572
+00:37:50,070 --> 00:37:51,736
+Oh, désolée.
+
+573
+00:37:52,518 --> 00:37:53,750
+Désolée.
+
+574
+00:37:54,163 --> 00:37:55,335
+Martha ?!
+
+575
+00:37:55,780 --> 00:37:57,927
+Pas maintenant, Tim, je suis occupée !
+
+576
+00:38:11,150 --> 00:38:12,531
+M. Smith ?
+
+577
+00:38:14,339 --> 00:38:15,855
+Personne à la maison.
+
+578
+00:38:16,389 --> 00:38:18,515
+La bonne cachait vraiment quelque chose.
+
+579
+00:38:19,010 --> 00:38:21,410
+Un secret autour de ce M. Smith.
+
+580
+00:38:21,421 --> 00:38:25,189
+Nous l'avons tous deux senti.
+C'est un simple et banal humain.
+
+581
+00:38:25,282 --> 00:38:27,419
+Peut-être qu'il sait quelque chose.
+
+582
+00:38:28,198 --> 00:38:29,751
+Où est-il ?
+
+583
+00:38:31,360 --> 00:38:33,880
+Elle est amoureuse.
+Vous êtes un homme dangereux.
+
+584
+00:38:33,889 --> 00:38:36,747
+- Vous avez pris mon bras en public.
+- J'ai vraiment peur.
+
+585
+00:38:36,961 --> 00:38:39,716
+Vous donneriez un penny pour les
+vétérans de La Crimée, monsieur ?
+
+586
+00:38:39,720 --> 00:38:41,164
+Oui, bien sûr.
+
+587
+00:38:41,750 --> 00:38:43,131
+Voilà.
+
+588
+00:38:53,908 --> 00:38:55,631
+Mesdames et Messieurs,
+
+589
+00:38:55,783 --> 00:39:00,025
+veuillez prendre vos partenaires
+pour une valse.
+
+590
+00:39:11,847 --> 00:39:13,270
+Vous savez danser !
+
+591
+00:39:13,310 --> 00:39:14,879
+Un peu surpris moi même !
+
+592
+00:39:17,636 --> 00:39:18,550
+Désolé !
+
+593
+00:39:28,030 --> 00:39:30,345
+Je pense que cela aidera.
+
+594
+00:39:31,870 --> 00:39:36,630
+Cela va aider, Mon Fils.
+Car Ma Fille y est déjà.
+
+595
+00:39:36,670 --> 00:39:38,710
+Nous sommes invités à la fête.
+
+596
+00:39:45,429 --> 00:39:48,070
+Oh. Entrée du personnel,
+je pense, Madame.
+
+597
+00:39:48,075 --> 00:39:49,927
+Ouais, et bien, réfléchis encore, mec.
+
+598
+00:40:07,410 --> 00:40:09,908
+S'il vous plaît, non. Pas encore.
+
+599
+00:40:09,920 --> 00:40:13,051
+Il est différent de tous les hommes
+que vous avez rencontré, non ?
+
+600
+00:40:13,430 --> 00:40:14,305
+Oui.
+
+601
+00:40:14,461 --> 00:40:16,888
+Et parfois il dit ces choses étranges,
+
+602
+00:40:16,900 --> 00:40:19,390
+des gens et des endroits dont vous
+n'avez jamais entendu parler ?
+
+603
+00:40:19,710 --> 00:40:21,470
+Mais c'est plus profond que ça.
+
+604
+00:40:21,510 --> 00:40:22,858
+Parfois, quand vous regardez dans ses yeux,
+
+605
+00:40:22,860 --> 00:40:26,924
+vous savez, qu'il y a quelque
+chose d'autre à l'intérieur.
+
+606
+00:40:27,497 --> 00:40:29,324
+Quelque chose de caché.
+
+607
+00:40:29,870 --> 00:40:33,282
+Derrière les yeux, quelque chose
+caché au loin. Dans le noir.
+
+608
+00:40:33,300 --> 00:40:36,003
+Je ne vois pas de quoi
+vous voulez parler.
+
+609
+00:40:36,110 --> 00:40:37,608
+Oh que si.
+
+610
+00:40:40,085 --> 00:40:41,607
+Je ne veux pas être grossière,
+
+611
+00:40:42,089 --> 00:40:45,088
+mais malheureusement,
+votre avis m'importe peu.
+
+612
+00:40:45,725 --> 00:40:48,551
+Mais vous êtes gentille,
+et vous êtes chanceuse.
+
+613
+00:40:48,560 --> 00:40:51,156
+Je veux juste m'excuser pour
+ce que je m'apprête à faire.
+
+614
+00:40:51,160 --> 00:40:53,431
+Oh, maintenant, vraiment, Martha.
+
+615
+00:40:53,440 --> 00:40:56,769
+Ça devient une habitude.
+J'insiste pour que tu partes.
+
+616
+00:40:56,780 --> 00:40:58,295
+Vous savez ce que c'est ?
+
+617
+00:40:59,419 --> 00:41:00,654
+Nommez-le.
+
+618
+00:41:00,972 --> 00:41:03,515
+Allez-y. Nommez-le.
+
+619
+00:41:03,550 --> 00:41:06,630
+John, quelle est cette
+chose idiote ? John ?
+
+620
+00:41:15,054 --> 00:41:17,397
+Vous n'êtes pas John Smith.
+
+621
+00:41:17,716 --> 00:41:19,571
+Vous êtes le Docteur.
+
+622
+00:41:20,252 --> 00:41:22,950
+L'homme dans votre journal, il est réel.
+
+623
+00:41:23,270 --> 00:41:24,950
+C'est vous.
+
+624
+00:41:26,895 --> 00:41:30,097
+Bonsoir tout le monde. Vous
+donneriez un penny, Monsieur ?
+
+625
+00:41:30,150 --> 00:41:32,223
+Je ne vous épargnerais pas.
+
+626
+00:41:53,190 --> 00:41:57,550
+Faîtes silence ! Vous tous !
+
+627
+00:41:58,041 --> 00:42:00,000
+J'ai dit : silence !
+
+628
+00:42:00,010 --> 00:42:02,403
+M. Clark ? Que se passe-t-il ?
+
+629
+00:42:07,022 --> 00:42:10,150
+M. Smith, oubliez tout ce que
+je vous ai dis. Ne dites rien.
+
+630
+00:42:10,152 --> 00:42:12,935
+Nous avons demandé le SILENCE !
+
+631
+00:42:15,314 --> 00:42:16,485
+Maintenant.
+
+632
+00:42:17,388 --> 00:42:20,217
+Nous avons quelques
+questions pour M. Smith.
+
+633
+00:42:20,250 --> 00:42:23,471
+Non, mieux que ça.
+
+634
+00:42:23,500 --> 00:42:26,309
+Le professeur. C'est le Docteur !
+
+635
+00:42:26,604 --> 00:42:30,442
+- Je les ai entendu parler.
+- Vous avez pris forme humaine ?
+
+636
+00:42:30,445 --> 00:42:33,264
+Bien sûr que je suis humain. Je
+suis né humain, comme vous, Baines !
+
+637
+00:42:33,370 --> 00:42:35,541
+Et Jenny, et vous, M. Clark.
+
+638
+00:42:35,550 --> 00:42:38,072
+Que se passe-t-il ?
+C'est de la folie !
+
+639
+00:42:38,100 --> 00:42:42,870
+Oh, et un cerveau humain aussi.
+Simple, consistant et sans intérêt.
+
+640
+00:42:42,910 --> 00:42:44,750
+Mais il ne nous sert à rien comme ça.
+
+641
+00:42:44,870 --> 00:42:46,950
+Il nous faut un Seigneur du Temps.
+
+642
+00:42:47,070 --> 00:42:48,750
+Pas de problèmes.
+
+643
+00:42:52,752 --> 00:42:55,146
+- Transformez vous.
+- Je ne comprends pas.
+
+644
+00:42:55,150 --> 00:42:56,448
+Transformez vous !
+
+645
+00:42:56,450 --> 00:42:58,895
+Je ne comprends vraiment pas...
+
+646
+00:42:59,448 --> 00:43:02,150
+- Lâchez-moi !
+- C'est votre amie, non ?
+
+647
+00:43:02,190 --> 00:43:04,631
+Ça ne vous fait pas assez
+peur pour vous transformer ?
+
+648
+00:43:04,640 --> 00:43:06,256
+Je ne comprends pas ce
+que vous voulez dire !
+
+649
+00:43:06,300 --> 00:43:07,519
+Attendez une minute.
+
+650
+00:43:07,680 --> 00:43:11,237
+La bonne m'a dit à propos
+de Smith et la Matrone.
+
+651
+00:43:11,357 --> 00:43:13,904
+- Cette femme, là.
+- Alors, prenons-la !
+
+652
+00:43:17,790 --> 00:43:20,510
+Avez-vous aimé ça,
+Docteur ? Etre humain ?
+
+653
+00:43:20,710 --> 00:43:22,478
+Vous a-t-il appris des
+choses merveilleuses ?
+
+654
+00:43:22,480 --> 00:43:24,806
+Etes-vous meilleur,
+plus riche, plus sage ?
+
+655
+00:43:25,230 --> 00:43:27,121
+Alors, voyons ce que vous répondez à ça.
+
+656
+00:43:27,750 --> 00:43:30,722
+Laquelle voulez-vous qu'on tue ?
+
+657
+00:43:31,790 --> 00:43:33,337
+La bonne ou la matrone ?
+
+658
+00:43:34,270 --> 00:43:35,765
+Votre amie...
+
+659
+00:43:35,917 --> 00:43:37,708
+ou votre amante ?
+
+660
+00:43:38,245 --> 00:43:39,828
+Votre choix !
+
+661
+00:43:41,917 --> 00:43:45,802
+~ Bad Wolf Team ~
+~ www.seriessub.com ~
+
+662
+00:44:34,047 --> 00:44:36,466
+Nous sommes la Famille de Sang.
+
+663
+00:44:44,010 --> 00:44:46,522
+- Sauvez nous.
+- Je ne suis pas le Docteur.
+
+664
+00:44:46,650 --> 00:44:51,470
+Il est la tempête au coeur du
+soleil. Il est antique et immortel.
+
+665
+00:44:51,510 --> 00:44:55,590
+Il brûle au milieu du temps et peut
+voir les tournants de l'univers.
+

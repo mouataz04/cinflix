@@ -1,0 +1,2349 @@
+1
+00:00:15,641 --> 00:00:18,936
+What a great vacation getaway
+in the Pegasus galaxy.
+
+2
+00:00:19,019 --> 00:00:20,687
+Where is everyone?
+
+3
+00:00:21,230 --> 00:00:24,066
+There is smoke from the chimneys,
+they're inside.
+
+4
+00:00:24,608 --> 00:00:27,778
+Can't say I blame them.
+There's nothing I hate more than a damp cold.
+
+5
+00:00:27,819 --> 00:00:29,613
+Let's check this out.
+
+6
+00:00:46,046 --> 00:00:47,422
+Howdy folks.
+
+7
+00:00:52,135 --> 00:00:53,387
+Who are you?
+
+8
+00:00:53,428 --> 00:00:54,763
+Sheppard.
+
+9
+00:00:55,472 --> 00:00:58,100
+This is Teyla, Ronon, McKay.
+
+10
+00:01:00,143 --> 00:01:01,728
+You from Matira?
+
+11
+00:01:02,938 --> 00:01:04,022
+No.
+
+12
+00:01:04,481 --> 00:01:06,233
+Over the mountains then?
+
+13
+00:01:06,483 --> 00:01:08,151
+A little further.
+
+14
+00:01:09,903 --> 00:01:11,864
+Then you've come a long way.
+
+15
+00:01:11,905 --> 00:01:14,616
+You'll be in need of food and drink.
+
+16
+00:01:15,951 --> 00:01:17,035
+Sit.
+
+17
+00:01:27,588 --> 00:01:30,090
+Take it, you don't get
+many strangers around here?
+
+18
+00:01:30,132 --> 00:01:31,175
+No.
+
+19
+00:01:32,092 --> 00:01:34,386
+Especially not those who travel near dark.
+
+20
+00:01:34,428 --> 00:01:36,096
+Why's that?
+
+21
+00:01:37,014 --> 00:01:39,266
+- You really don't know?
+<i>- Callum.</i>
+
+22
+00:01:43,437 --> 00:01:44,897
+What's your business here?
+
+23
+00:01:44,980 --> 00:01:47,816
+No business really, we're just travellers.
+
+24
+00:01:47,858 --> 00:01:50,152
+Then you best keep travelling.
+
+25
+00:01:51,695 --> 00:01:52,738
+Ya...
+
+26
+00:01:59,536 --> 00:02:00,829
+Alright then.
+
+27
+00:02:01,038 --> 00:02:02,122
+Wait!
+
+28
+00:02:03,457 --> 00:02:06,168
+Goran, you can't send them out there.
+
+29
+00:02:06,710 --> 00:02:09,421
+They look like they can take care of themselves.
+
+30
+00:02:11,757 --> 00:02:13,926
+May not even start tonight.
+
+31
+00:02:14,092 --> 00:02:15,969
+It's been three months,
+
+32
+00:02:16,011 --> 00:02:18,680
+how much longer do you think it will wait.
+
+33
+00:02:18,931 --> 00:02:21,350
+Hi, what are you talking about?
+
+34
+00:02:22,226 --> 00:02:23,727
+The Daemus.
+
+35
+00:02:26,480 --> 00:02:27,898
+Never heard of it.
+
+36
+00:02:28,565 --> 00:02:30,984
+It lives in the forest, it'll be feeding soon.
+
+37
+00:02:31,026 --> 00:02:33,529
+And it is some kind of an animal?
+
+38
+00:02:33,570 --> 00:02:36,698
+It's a creature, that has the appearance of a man.
+
+39
+00:02:36,740 --> 00:02:39,493
+<i>But it can suck the very life from your bones.</i>
+
+40
+00:02:39,535 --> 00:02:42,746
+<i>Leaves only a dead, withered husk behind.</i>
+
+41
+00:02:43,997 --> 00:02:45,874
+Sounds familiar.
+
+42
+00:02:52,548 --> 00:02:55,717
+Transcript: scifigate.net
+
+43
+00:02:55,759 --> 00:02:58,804
+Subtitles by Team SG-66
+www.seriestele.net
+
+44
+00:02:58,929 --> 00:03:01,431
+Season 2 - Episode 7
+Instinct
+
+45
+00:03:03,392 --> 00:03:04,476
+Look,
+
+46
+00:03:04,518 --> 00:03:07,813
+we know you're not used to
+deal with strangers, but
+
+47
+00:03:07,855 --> 00:03:10,858
+we may be able to help you
+with this little problem you're having.
+
+48
+00:03:10,899 --> 00:03:13,610
+<i>We're used to deal with this kind of thing.</i>
+
+49
+00:03:16,697 --> 00:03:18,448
+We call them the Wraith.
+
+50
+00:03:18,532 --> 00:03:22,035
+These are the creatures from the old stories,
+from the time of the cullings.
+
+51
+00:03:22,077 --> 00:03:23,495
+So you have heard of them.
+
+52
+00:03:23,537 --> 00:03:25,831
+Yes, but the histories of them are incomplete.
+
+53
+00:03:25,873 --> 00:03:30,377
+They tell of the great ships that descended from the sky,
+but there's no description of the Wraith themselves.
+
+54
+00:03:30,419 --> 00:03:33,589
+<i>Although there were a few among us who</i>
+<i>guessed the Daemus might be one of them.</i>
+
+55
+00:03:33,630 --> 00:03:34,673
+Why?
+
+56
+00:03:36,175 --> 00:03:38,510
+Because it too came from the sky.
+
+57
+00:03:40,846 --> 00:03:42,848
+<i>It was about 10 years ago.</i>
+
+58
+00:03:48,687 --> 00:03:51,398
+<i>A bright light appeared above the village...</i>
+
+59
+00:03:53,734 --> 00:03:55,944
+<i>and crashed in the hills.</i>
+
+60
+00:03:57,070 --> 00:03:58,989
+<i>We didn't know what that was,</i>
+
+61
+00:03:59,740 --> 00:04:02,034
+<i>but the people were terrified.</i>
+
+62
+00:04:02,117 --> 00:04:03,994
+Hurry, gate in the house.
+
+63
+00:04:06,163 --> 00:04:09,458
+<i>I went with some of the other men to investigate.</i>
+
+64
+00:04:17,341 --> 00:04:19,009
+<i>We found the wreckage,...</i>
+
+65
+00:04:19,676 --> 00:04:22,638
+<i>a few wounded survivors,...</i>
+
+66
+00:04:24,932 --> 00:04:27,059
+<i>we didn't know what they were.</i>
+
+67
+00:04:29,019 --> 00:04:31,522
+<i>We decided to take no chances.</i>
+
+68
+00:04:46,286 --> 00:04:47,829
+<i>We slaughtered them,</i>
+
+69
+00:04:48,455 --> 00:04:49,706
+<i>burned the bodies.</i>
+
+70
+00:04:49,748 --> 00:04:50,999
+Wise decision.
+
+71
+00:04:52,000 --> 00:04:53,919
+Unfortunately, we didn't get them all.
+
+72
+00:04:54,253 --> 00:04:57,840
+And although none of us saw,
+evidently one of them survived.
+
+73
+00:05:04,680 --> 00:05:07,391
+<i>It took it's first victim, that very night.</i>
+
+74
+00:05:09,476 --> 00:05:11,687
+<i>We tried to hunt it down,</i>
+
+75
+00:05:11,728 --> 00:05:13,730
+we couldn't find it.
+
+76
+00:05:14,398 --> 00:05:16,483
+It's been out there ever since.
+
+77
+00:05:16,525 --> 00:05:19,444
+It feeds three, four times a year.
+
+78
+00:05:19,486 --> 00:05:22,322
+<i>Takes two or three people each time.</i>
+
+79
+00:05:25,033 --> 00:05:28,287
+Two years after the crash it took my own son.
+
+80
+00:05:35,752 --> 00:05:37,004
+That's it.
+
+81
+00:05:37,129 --> 00:05:39,006
+One Wraith in the forest.
+
+82
+00:05:39,047 --> 00:05:40,174
+Yes.
+
+83
+00:05:40,549 --> 00:05:41,884
+I'll be done by morning.
+
+84
+00:05:43,552 --> 00:05:46,889
+We all go together. In the daylight.
+
+85
+00:05:47,264 --> 00:05:48,974
+Are you really going to help us?
+
+86
+00:05:49,099 --> 00:05:52,269
+Like the man said, it's just one Wraith.
+
+87
+00:05:52,269 --> 00:05:55,397
+It'd be downright unneighbourly if we didn't.
+
+88
+00:05:55,856 --> 00:05:58,442
+In that case, drinks are on me.
+
+89
+00:06:00,777 --> 00:06:02,029
+Well...
+
+90
+00:06:02,029 --> 00:06:03,572
+let's not forget the food.
+
+91
+00:06:12,831 --> 00:06:13,957
+What?
+
+92
+00:06:14,374 --> 00:06:17,169
+Is it true?
+You're going to hunt the Daemus?
+
+93
+00:06:17,211 --> 00:06:18,587
+It looks that way.
+
+94
+00:06:18,629 --> 00:06:22,174
+I heard it has two heads and
+it can turn you into stone, just by looking at you.
+
+95
+00:06:22,216 --> 00:06:23,800
+Well you heard wrong.
+
+96
+00:06:23,842 --> 00:06:26,762
+My uncle say's it'll come and
+take me if I don't do my chores.
+
+97
+00:06:26,803 --> 00:06:28,138
+He said that?
+
+98
+00:06:28,138 --> 00:06:31,683
+Well then, if we get rid of it,
+you got nothing to worry about.
+You'll never have to do chores ever again!
+
+99
+00:06:31,725 --> 00:06:35,145
+- Really?
+- Yes, look, go away!
+
+100
+00:06:38,565 --> 00:06:39,566
+What?
+
+101
+00:06:40,234 --> 00:06:42,486
+As far as we know, no-one was taken last night.
+
+102
+00:06:42,528 --> 00:06:44,905
+But it will strike and soon.
+
+103
+00:06:44,947 --> 00:06:47,157
+Well, we'll kill it before that happens.
+
+104
+00:06:47,199 --> 00:06:49,701
+You must be great at parties.
+
+105
+00:07:12,933 --> 00:07:16,353
+We're talking about 100's square miles of forest.
+
+106
+00:07:16,395 --> 00:07:20,440
+Be patient. Ronon's been going up against the Wraith,
+one on one, for the last seven years.
+
+107
+00:07:20,482 --> 00:07:22,609
+If anyone can track this thing, it's him.
+
+108
+00:07:22,651 --> 00:07:25,445
+And exactly how is he gonna do that?
+
+109
+00:07:26,113 --> 00:07:28,198
+<i>I also have good hearing!</i>
+
+110
+00:07:29,241 --> 00:07:30,701
+Right!
+
+111
+00:07:32,452 --> 00:07:34,037
+Carry on!
+
+112
+00:07:45,382 --> 00:07:48,093
+What about you?
+You sensing anything?
+
+113
+00:07:48,594 --> 00:07:50,262
+I am not sure.
+
+114
+00:07:50,387 --> 00:07:51,722
+What do you mean?
+
+115
+00:07:52,598 --> 00:07:54,892
+There is a presence here,
+
+116
+00:07:54,975 --> 00:07:57,269
+but it is different.
+
+117
+00:07:57,644 --> 00:07:59,938
+I cannot quite explain it.
+
+118
+00:08:10,824 --> 00:08:12,284
+It's in there.
+
+119
+00:08:14,620 --> 00:08:15,871
+Ronon!
+
+120
+00:08:16,288 --> 00:08:17,539
+Dammit!
+
+121
+00:09:00,874 --> 00:09:02,125
+It's in there.
+
+122
+00:09:02,167 --> 00:09:03,210
+- It was a Wraith?
+- Yeah.
+
+123
+00:09:03,252 --> 00:09:05,587
+- Did you see it?
+- No.
+- Well, so how do you know?
+
+124
+00:09:05,754 --> 00:09:08,882
+Ronon is correct.
+I can definitely sense it now.
+
+125
+00:09:34,116 --> 00:09:35,367
+A female!
+
+126
+00:09:43,750 --> 00:09:45,002
+Ellia?
+
+127
+00:09:48,755 --> 00:09:51,758
+- Get out of the way!
+<i>- Please don't shoot!</i>
+
+128
+00:09:52,217 --> 00:09:54,178
+<i>She's not what you think!</i>
+
+129
+00:09:56,555 --> 00:09:58,223
+She's my daughter.
+
+130
+00:10:08,275 --> 00:10:09,943
+She means you no harm!
+
+131
+00:10:09,985 --> 00:10:11,236
+She's a Wraith.
+
+132
+00:10:11,278 --> 00:10:14,740
+Maybe so.
+But she's different, I swear to you.
+
+133
+00:10:14,781 --> 00:10:17,326
+Let me guess.
+A Wraith with a heart of gold?
+
+134
+00:10:17,367 --> 00:10:18,952
+She doesn't feed.
+
+135
+00:10:18,994 --> 00:10:20,913
+She's never taken a human life.
+
+136
+00:10:20,954 --> 00:10:22,915
+How is that possible?
+
+137
+00:10:22,956 --> 00:10:24,458
+Please...
+
+138
+00:10:25,125 --> 00:10:28,462
+lower your weapons and
+I'll explain it to you.
+
+139
+00:10:37,387 --> 00:10:38,639
+It's alright.
+
+140
+00:10:38,680 --> 00:10:42,768
+- Father.
+- I won't let them hurt you.
+
+141
+00:10:47,022 --> 00:10:50,317
+I raised her as my own.
+
+142
+00:10:50,359 --> 00:10:52,027
+You live here?
+Together?
+
+143
+00:10:52,152 --> 00:10:54,363
+This was part of a mine,
+
+144
+00:10:54,404 --> 00:10:56,406
+before the last culling.
+
+145
+00:10:57,866 --> 00:11:00,160
+It's not much to look at, I know,
+
+146
+00:11:00,160 --> 00:11:02,454
+but we don't have much choice.
+
+147
+00:11:03,413 --> 00:11:05,666
+The people of the village would not understand.
+
+148
+00:11:05,707 --> 00:11:08,001
+Gee! I wonder why.
+
+149
+00:11:09,753 --> 00:11:12,548
+<i>The villagers told us</i>
+<i>there was a Wraith in the forest.</i>
+
+150
+00:11:12,589 --> 00:11:15,509
+It came here in a crashed ship, ten years ago.
+
+151
+00:11:15,551 --> 00:11:17,386
+Ten years ago?
+
+152
+00:11:17,970 --> 00:11:20,472
+Ellia was just a child.
+
+153
+00:11:20,764 --> 00:11:25,185
+Do you really think that she could be responsible for
+the deaths that happened immediately after the crash?
+
+154
+00:11:25,227 --> 00:11:27,354
+So you know about that, then?
+
+155
+00:11:28,939 --> 00:11:30,399
+I was there.
+
+156
+00:11:31,108 --> 00:11:33,527
+I helped kill the survivors.
+
+157
+00:11:35,195 --> 00:11:36,154
+<i>But...</i>
+
+158
+00:11:36,947 --> 00:11:42,619
+<i>when I found a young female lying unconscious,</i>
+<i>some distance from the crash,</i>
+
+159
+00:11:47,708 --> 00:11:50,002
+<i>I couldn't bring myself to hurt her.</i>
+
+160
+00:11:50,294 --> 00:11:53,630
+<i>I brought her here to this cave to</i>
+
+161
+00:11:54,006 --> 00:11:56,049
+hide her from the others.
+
+162
+00:11:56,341 --> 00:12:02,389
+To this day, the people of the village don't know
+and you must promise not to tell them.
+
+163
+00:12:05,225 --> 00:12:08,103
+She's not responsible for what's been happening!
+
+164
+00:12:08,145 --> 00:12:09,813
+Well then who is?
+
+165
+00:12:10,564 --> 00:12:13,901
+I believe another Wraith survived the crash.
+
+166
+00:12:13,942 --> 00:12:15,402
+An adult.
+
+167
+00:12:16,612 --> 00:12:18,739
+That's who you should be looking for.
+
+168
+00:12:18,864 --> 00:12:22,284
+If she does not feed, how does she live?
+
+169
+00:12:23,702 --> 00:12:25,329
+<i>At first I</i>
+
+170
+00:12:25,370 --> 00:12:28,081
+<i>fed her as you would any child and</i>
+
+171
+00:12:28,290 --> 00:12:30,375
+<i>that seemed to suffice.</i>
+
+172
+00:12:31,210 --> 00:12:33,712
+But then something began to change.
+
+173
+00:12:34,254 --> 00:12:37,007
+<i>The food no longer gave her any sustenance.</i>
+
+174
+00:12:37,049 --> 00:12:40,344
+<i>There was a hunger growing in her</i>
+<i>that would not be satisfied.</i>
+
+175
+00:12:41,845 --> 00:12:46,850
+I heard the stories of the other creature.
+Of what it did to survive...
+
+176
+00:12:47,351 --> 00:12:50,896
+and I was afraid that was what Ellia would become.
+
+177
+00:12:51,522 --> 00:12:53,232
+<i>And so I...</i>
+
+178
+00:12:53,690 --> 00:12:55,901
+<i>started to experiment.</i>
+
+179
+00:12:57,069 --> 00:13:01,240
+I have extensive knowledge of
+the chemical properties of various...
+
+180
+00:13:01,281 --> 00:13:04,409
+<i>medicinal plants that grow in this forest.</i>
+
+181
+00:13:05,410 --> 00:13:07,621
+<i>Are you interested in science?</i>
+
+182
+00:13:07,955 --> 00:13:10,999
+I'm not sure that's what I would call this,
+but yes.
+
+183
+00:13:11,124 --> 00:13:16,213
+Ellia's hunger was growing stronger every day and
+I wasn't sure that I could do anything for her.
+
+184
+00:13:16,255 --> 00:13:17,297
+But...
+
+185
+00:13:17,714 --> 00:13:19,007
+eventually,
+
+186
+00:13:21,969 --> 00:13:24,054
+I came up with this.
+
+187
+00:13:34,606 --> 00:13:37,818
+A drug that allows the Wraith
+to survive without feeding?
+
+188
+00:13:37,860 --> 00:13:40,737
+- That's what he said.
+- Is such a thing even possible?
+
+189
+00:13:40,779 --> 00:13:44,032
+We don't know enough about Wraith
+physiology to say for certain.
+
+190
+00:13:44,074 --> 00:13:49,204
+Although I must admit,
+it's intriguing that this Dr Zaddik claims
+that this Wraith survived on normal food for a time.
+
+191
+00:13:49,246 --> 00:13:50,372
+Why?
+
+192
+00:13:50,414 --> 00:13:54,001
+Well, if he's telling the truth,
+it might be the answer to a very puzzling question.
+
+193
+00:13:54,042 --> 00:13:57,629
+Right now, our best guess is that
+the Wraith evolved from the Eratus Bug.
+
+194
+00:13:57,671 --> 00:14:00,257
+Like the one that attached itself
+to my neck a year ago?
+
+195
+00:14:00,299 --> 00:14:02,509
+- That's right.
+- I hate those bugs.
+
+196
+00:14:02,551 --> 00:14:04,219
+Trust me, I know.
+
+197
+00:14:04,761 --> 00:14:07,222
+We speculated that they evolved into the Wraith
+
+198
+00:14:07,264 --> 00:14:10,851
+when they began to take on the characteristics
+of the humans they were feeding on.
+
+199
+00:14:10,893 --> 00:14:14,062
+Now there are many aspects of human
+physiology that are quite useful.
+
+200
+00:14:14,104 --> 00:14:17,858
+Bipedal motion, opposable thumbs,
+large brain capacity.
+
+201
+00:14:17,900 --> 00:14:22,404
+But the human digestive system
+serves no purpose in the adult Wraith.
+
+202
+00:14:22,446 --> 00:14:24,114
+So why have one at all?
+
+203
+00:14:24,239 --> 00:14:26,533
+Because they eat normal food when they're young.
+
+204
+00:14:26,575 --> 00:14:30,829
+Exactly. Then at some point they lose
+the ability to sustain themselves with that food.
+
+205
+00:14:30,871 --> 00:14:34,708
+So it's a teenage thing.
+Pimples, rebellion, life sucking.
+
+206
+00:14:34,750 --> 00:14:35,626
+Something like that.
+
+207
+00:14:36,084 --> 00:14:38,045
+The question is what causes it?
+
+208
+00:14:38,086 --> 00:14:40,047
+If it's due to some chemical deficiency like
+
+209
+00:14:40,088 --> 00:14:45,177
+a diabetics inability to process sugar, then it's
+possible it may be addressed with some kind of drug.
+
+210
+00:14:45,677 --> 00:14:47,346
+Zaddik could be telling the truth.
+
+211
+00:14:47,387 --> 00:14:49,681
+I'd like to go to the planet and check into it.
+
+212
+00:14:50,265 --> 00:14:51,308
+Is that really necessary?
+
+213
+00:14:51,350 --> 00:14:52,434
+I'm sure we could get a sample.
+
+214
+00:14:52,476 --> 00:14:54,144
+Bring it back here for you to analyse.
+
+215
+00:14:54,186 --> 00:14:56,313
+It's not just the drug I'm interested in.
+
+216
+00:14:56,355 --> 00:14:59,024
+This young Wraith could be very
+important for our research.
+
+217
+00:14:59,066 --> 00:15:00,275
+What research?
+
+218
+00:15:00,692 --> 00:15:04,112
+We're working on a retrovirus
+that would alter Wraith DNA.
+
+219
+00:15:04,154 --> 00:15:09,660
+Essentially stripping out the Eratus
+Bug elements of their genetic code and
+leaving only the human aspects behind.
+
+220
+00:15:10,077 --> 00:15:13,830
+- A drug that turns Wraith into humans?
+- Effectively yes!
+
+221
+00:15:13,872 --> 00:15:15,499
+But so far we haven't had much success.
+
+222
+00:15:15,541 --> 00:15:19,253
+Apparently, because we lack the living tissue
+and blood samples we need, to test it.
+
+223
+00:15:19,670 --> 00:15:22,631
+You think this girl would be willing to provide them?
+
+224
+00:15:22,673 --> 00:15:25,342
+Look, I realise we can't bring
+her back to Atlantis, but...
+
+225
+00:15:25,384 --> 00:15:29,555
+I could take the retrovirus and equipment
+necessary for the analysis, with me to the planet.
+
+226
+00:15:30,514 --> 00:15:35,102
+A few days with a cooperative test subject
+could be worth months of theoretical research.
+
+227
+00:15:35,727 --> 00:15:36,562
+Elizabeth.
+
+228
+00:15:36,770 --> 00:15:39,356
+I don't have to tell you how
+important this could be for us.
+
+229
+00:15:43,402 --> 00:15:44,611
+Is she dangerous?
+
+230
+00:15:44,653 --> 00:15:45,988
+She's a Wraith!
+
+231
+00:15:46,780 --> 00:15:49,157
+<i>Although, I have to admit,</i>
+
+232
+00:15:49,908 --> 00:15:51,827
+she does seem a little different.
+
+233
+00:15:58,458 --> 00:16:02,629
+Now remember, the leaves must
+be dried and finely ground.
+
+234
+00:16:02,838 --> 00:16:04,298
+Like this?
+
+235
+00:16:04,506 --> 00:16:05,966
+A little more.
+
+236
+00:16:08,051 --> 00:16:13,891
+Now why is distillation an important step?
+
+237
+00:16:15,976 --> 00:16:19,730
+To remove the toxins from the ferrison root?
+
+238
+00:16:20,355 --> 00:16:21,815
+Precisely.
+
+239
+00:16:22,441 --> 00:16:26,195
+We wouldn't want the serum to send
+you into paralytic shock now, would we?
+
+240
+00:16:27,029 --> 00:16:28,697
+No father.
+
+241
+00:16:32,242 --> 00:16:35,162
+Seriously.
+Have you ever seen anything like this before?
+
+242
+00:16:35,787 --> 00:16:40,167
+No I have not.
+She's unlike any Wraith I've ever encountered.
+
+243
+00:16:41,627 --> 00:16:43,086
+What if it's all an act?
+
+244
+00:16:44,755 --> 00:16:47,424
+If she were a killer, why would he protect her?
+
+245
+00:16:47,466 --> 00:16:49,551
+Maybe the act is for his benefit too.
+
+246
+00:16:51,011 --> 00:16:52,888
+No, they live here together, Rodney.
+
+247
+00:16:52,930 --> 00:16:55,807
+If she were like other Wraith,
+he would be her first victim.
+
+248
+00:16:55,849 --> 00:16:57,476
+<i>Teyla, this is Sheppard.</i>
+
+249
+00:16:59,770 --> 00:17:00,812
+Go ahead.
+
+250
+00:17:01,438 --> 00:17:03,106
+I just got back with Beckett.
+
+251
+00:17:03,148 --> 00:17:06,652
+Ronon's gonna take him up to the cave.
+I'm gonna check in with the villagers.
+
+252
+00:17:06,860 --> 00:17:08,487
+<i>What are you gonna tell them?</i>
+
+253
+00:17:08,529 --> 00:17:10,197
+I'm still working on that.
+
+254
+00:17:23,502 --> 00:17:27,047
+This equipment's remarkable.
+Where did you get it?
+
+255
+00:17:27,089 --> 00:17:31,718
+Oh, here and there.
+Let's start by analysing that drug of yours, shall we?
+
+256
+00:17:31,760 --> 00:17:33,178
+Yes, of course.
+
+257
+00:17:33,220 --> 00:17:34,388
+Would you like some tea?
+
+258
+00:17:36,473 --> 00:17:37,724
+Thank you
+
+259
+00:17:41,270 --> 00:17:42,729
+Oh, no thank you.
+
+260
+00:17:45,023 --> 00:17:46,900
+- Would you like some?
+- No.
+
+261
+00:17:47,317 --> 00:17:48,986
+Are you sure, it's very good!
+
+262
+00:17:49,611 --> 00:17:50,654
+I said no.
+
+263
+00:18:00,372 --> 00:18:02,583
+Maybe some biscuits? I baked them myself.
+
+264
+00:18:02,666 --> 00:18:04,001
+<i>Gate away from me!!!</i>
+
+265
+00:18:05,669 --> 00:18:06,295
+<i>Ronon!</i>
+
+266
+00:18:33,614 --> 00:18:36,742
+It's alright. It's OK.
+
+267
+00:18:37,576 --> 00:18:39,745
+They hate me, don't they father?
+
+268
+00:18:39,870 --> 00:18:41,330
+No...
+
+269
+00:18:42,164 --> 00:18:44,249
+They just don't know you.
+
+270
+00:18:48,629 --> 00:18:50,506
+Was that really necessary?
+
+271
+00:18:50,547 --> 00:18:54,259
+You can dress her up and teach her table manners,
+but it's not gonna change who she is.
+
+272
+00:19:02,392 --> 00:19:04,269
+<i>Teyla, this is Sheppard. Come in.</i>
+
+273
+00:19:04,394 --> 00:19:06,230
+Go ahead, Colonel.
+
+274
+00:19:06,271 --> 00:19:08,232
+<i>Is Ellia still in the cave?</i>
+
+275
+00:19:08,273 --> 00:19:08,857
+<i>Yes.</i>
+
+276
+00:19:08,899 --> 00:19:10,484
+Has she been there the whole time?
+
+277
+00:19:10,526 --> 00:19:11,318
+<i>Yes, why?</i>
+
+278
+00:19:11,360 --> 00:19:13,487
+I just found another victim.
+
+279
+00:19:13,529 --> 00:19:18,450
+<i>Apparently, he's only been missing a couple of hours,</i>
+<i>which means she couldn't have done it.</i>
+
+280
+00:19:19,284 --> 00:19:22,412
+Looks as though Zaddik may have
+been telling the truth after all.
+
+281
+00:19:27,626 --> 00:19:29,294
+<i>We must defend ourselves!</i>
+
+282
+00:19:31,171 --> 00:19:34,049
+Colonel Sheppard.
+Is there any progress with this hunt?
+
+283
+00:19:34,091 --> 00:19:35,342
+We're working on it.
+
+284
+00:19:35,384 --> 00:19:36,343
+Maybe we could help you?
+
+285
+00:19:36,385 --> 00:19:37,261
+That won't be necessary.
+
+286
+00:19:37,302 --> 00:19:38,846
+We're sick of doing nothing.
+
+287
+00:19:38,887 --> 00:19:40,764
+We're sick of being afraid all the time!
+
+288
+00:19:40,806 --> 00:19:42,683
+That thing is hunting in daylight, now!
+
+289
+00:19:42,724 --> 00:19:43,725
+We'll never be safe.
+
+290
+00:19:43,767 --> 00:19:45,185
+Just be patient.
+
+291
+00:19:46,603 --> 00:19:47,688
+We'll take care of it.
+
+292
+00:19:50,566 --> 00:19:54,111
+See?
+I told you she wasn't responsible for the killings.
+
+293
+00:19:54,528 --> 00:19:57,239
+The serum makes it unnecessary for her to feed.
+
+294
+00:19:58,073 --> 00:19:59,324
+Can you confirm that?
+
+295
+00:20:00,576 --> 00:20:03,662
+Not yet. It'll be a while before
+I can complete my analysis.
+
+296
+00:20:03,704 --> 00:20:07,666
+Alright. Well, in the meantime,
+there's another Wraith out there.
+
+297
+00:20:08,917 --> 00:20:11,837
+I believe Ellia may be able
+to help us find it.
+
+298
+00:20:12,462 --> 00:20:13,297
+How?
+
+299
+00:20:15,382 --> 00:20:16,633
+May I speak with her?
+
+300
+00:20:19,136 --> 00:20:20,179
+Alright.
+
+301
+00:20:26,435 --> 00:20:27,686
+<i>May I join you?</i>
+
+302
+00:20:37,279 --> 00:20:39,198
+Ellia, we need your help.
+
+303
+00:20:42,701 --> 00:20:44,161
+You can sense the other Wraith.
+
+304
+00:20:48,332 --> 00:20:49,208
+It is alright.
+
+305
+00:20:51,251 --> 00:20:55,422
+It is nothing to be ashamed of.
+In fact, I have the same ability.
+
+306
+00:20:55,464 --> 00:20:56,507
+Really?
+
+307
+00:20:58,133 --> 00:21:00,844
+I sensed you in the forest,
+when you were watching us.
+
+308
+00:21:00,886 --> 00:21:04,181
+And I knew even then that you were different.
+
+309
+00:21:05,224 --> 00:21:08,352
+<i>Your father has raised you well,</i>
+<i>he has taught you right from wrong.</i>
+
+310
+00:21:10,437 --> 00:21:12,523
+You are not like the other one.
+
+311
+00:21:14,608 --> 00:21:16,068
+I don't let him in.
+
+312
+00:21:17,736 --> 00:21:19,821
+I don't like what he shows me.
+
+313
+00:21:20,447 --> 00:21:21,281
+<i>I know,</i>
+
+314
+00:21:23,158 --> 00:21:26,286
+but you have to try now.
+We need to find him.
+
+315
+00:21:27,538 --> 00:21:28,997
+You don't understand.
+
+316
+00:21:30,666 --> 00:21:33,168
+I have tried myself,
+but I can get nothing.
+
+317
+00:21:35,462 --> 00:21:36,380
+Please.
+
+318
+00:21:40,884 --> 00:21:41,927
+Alright.
+
+319
+00:21:43,804 --> 00:21:44,638
+Good.
+
+320
+00:21:48,392 --> 00:21:49,434
+Now concentrate.
+
+321
+00:22:04,032 --> 00:22:05,284
+Try again.
+
+322
+00:22:30,517 --> 00:22:32,060
+I saw a river.
+
+323
+00:22:33,645 --> 00:22:34,688
+<i>Zaddik?</i>
+
+324
+00:22:36,565 --> 00:22:38,025
+Is there a river nearby?
+
+325
+00:22:38,233 --> 00:22:39,902
+Yes, just to the East.
+
+326
+00:22:41,361 --> 00:22:44,114
+Alright, let's go. McKay, stay here and help Beckett!
+
+327
+00:22:44,156 --> 00:22:47,284
+- Medical research, not really my thing.
+- And hunting Wraith?
+
+328
+00:22:47,326 --> 00:22:50,162
+I mean, I could stay help Beckett.
+
+329
+00:22:54,499 --> 00:22:56,168
+Never could get into biology.
+
+330
+00:22:56,210 --> 00:22:58,670
+This is too much information about the human body.
+
+331
+00:22:58,712 --> 00:23:03,842
+One time, when I was an undergrad,
+I diagnosed myself with half a dozen separate medical
+conditions, before I had to drop the class.
+
+332
+00:23:03,884 --> 00:23:04,760
+Really?
+
+333
+00:23:04,801 --> 00:23:07,763
+Yeah. Believe it or not,
+back then I was a bit of a hypochondriac.
+
+334
+00:23:07,804 --> 00:23:10,265
+You know, this does require
+a certain amount of concentration.
+
+335
+00:23:10,307 --> 00:23:12,434
+What?
+Am I bothering you?
+
+336
+00:23:14,311 --> 00:23:15,771
+Maybe I'll go get some air.
+
+337
+00:23:26,406 --> 00:23:28,700
+This must be the river
+she saw in her vision.
+
+338
+00:23:29,535 --> 00:23:31,828
+Assuming she's telling the truth.
+
+339
+00:23:32,579 --> 00:23:35,791
+<i>Just cos there's another Wraith,</i>
+<i>doesn't necessarily mean you can trust her.</i>
+
+340
+00:23:41,421 --> 00:23:42,714
+What have you got?
+
+341
+00:23:43,507 --> 00:23:45,592
+Fresh tracks.
+It's him.
+
+342
+00:23:46,635 --> 00:23:48,095
+Now do you believe?
+
+343
+00:23:48,303 --> 00:23:51,640
+I still think there's more to this
+than she and Zaddik are telling us.
+
+344
+00:23:51,849 --> 00:23:54,351
+He's heading upstream
+into the hills.
+
+345
+00:24:02,276 --> 00:24:04,987
+Let me ask you something.
+
+346
+00:24:06,029 --> 00:24:11,243
+If you can prove to everyone that I'm telling
+the truth, that Ellia no longer needs to feed.
+
+347
+00:24:11,451 --> 00:24:13,954
+Do you think the villagers would accept her?
+
+348
+00:24:17,291 --> 00:24:18,876
+That's what I'm afraid of.
+
+349
+00:24:20,002 --> 00:24:22,546
+No matter how hard we try to convince them,
+
+350
+00:24:22,588 --> 00:24:25,048
+they'll always see her as a monster.
+
+351
+00:24:28,969 --> 00:24:31,263
+I'm getting old, Doctor.
+
+352
+00:24:31,889 --> 00:24:33,307
+You've got lot's of time.
+
+353
+00:24:35,225 --> 00:24:37,102
+Never have as much as we think we have.
+
+354
+00:24:37,936 --> 00:24:40,647
+And when I'm gone,
+she'll be alone.
+
+355
+00:24:43,150 --> 00:24:50,032
+I try to teach her about love
+and human companionship,
+
+356
+00:24:51,491 --> 00:24:53,994
+but that's exactly what she'll never have.
+
+357
+00:24:58,373 --> 00:25:00,667
+Zaddik, there's something I want to show you.
+
+358
+00:25:03,795 --> 00:25:07,132
+I didn't say anything at first,
+because I didn't want to get your hopes up.
+
+359
+00:25:11,512 --> 00:25:15,265
+It's a retrovirus.
+Something I've been working on.
+
+360
+00:25:15,682 --> 00:25:17,142
+I don't understand.
+
+361
+00:25:17,976 --> 00:25:20,062
+Oh God, how am I gonna explain this?
+
+362
+00:25:21,104 --> 00:25:23,607
+Part of Ellia is human.
+
+363
+00:25:24,858 --> 00:25:27,778
+And part of her comes from
+a creature we call the Erratus bug.
+
+364
+00:25:28,612 --> 00:25:30,697
+It's the part that makes her look the way she does
+
+365
+00:25:30,906 --> 00:25:33,200
+and where her desire to feed comes from.
+
+366
+00:25:34,243 --> 00:25:36,954
+<i>Now it's possible,</i>
+<i>by means of this retrovirus,</i>
+
+367
+00:25:36,995 --> 00:25:41,750
+<i>we can strip away those parts</i>
+<i>and leave only the human parts behind.</i>
+
+368
+00:25:43,836 --> 00:25:46,755
+You mean she'd be like you and me?
+
+369
+00:25:47,381 --> 00:25:48,423
+Yes.
+
+370
+00:25:49,258 --> 00:25:52,386
+<i>Now I must warn you.</i>
+<i>The retrovirus is still experimental.</i>
+
+371
+00:25:52,427 --> 00:25:57,599
+In fact it's only been tested on cell cultures
+in a laboratory and so far without much success.
+
+372
+00:25:58,433 --> 00:25:59,476
+<i>I'm hoping,</i>
+
+373
+00:26:00,727 --> 00:26:04,898
+that what we can learn from your daughter
+will help me perfect it.
+
+374
+00:26:07,401 --> 00:26:09,069
+We got a problem.
+
+375
+00:26:09,111 --> 00:26:10,529
+<i>Why didn't you just radio me?</i>
+
+376
+00:26:10,571 --> 00:26:11,780
+<i>I wanted to radio but...</i>
+
+377
+00:27:00,579 --> 00:27:02,247
+Looks like they decided to join the hunt.
+
+378
+00:27:02,289 --> 00:27:03,916
+If they find Ellia, they'll kill her.
+
+379
+00:27:05,167 --> 00:27:06,001
+<i>Sheppard, this is McKay.</i>
+
+380
+00:27:06,210 --> 00:27:07,461
+What is it, Rodney?
+
+381
+00:27:08,295 --> 00:27:11,048
+The villagers are on the move and
+it doesn't look like they're gonna a picnic.
+
+382
+00:27:11,089 --> 00:27:12,883
+<i>Are they heading for the caves?</i>
+
+383
+00:27:12,925 --> 00:27:14,927
+Not at the moment, no.
+
+384
+00:27:15,385 --> 00:27:17,054
+Alright, get back there and sit tight.
+
+385
+00:27:18,514 --> 00:27:19,556
+We're losing time, guys.
+
+386
+00:27:26,647 --> 00:27:27,481
+<i>Ellia?</i>
+
+387
+00:27:29,775 --> 00:27:30,609
+<i>Ellia?</i>
+
+388
+00:27:32,069 --> 00:27:33,320
+<i>She's not here.</i>
+
+389
+00:27:34,988 --> 00:27:36,240
+Good Lord!
+
+390
+00:27:36,573 --> 00:27:37,449
+What?
+
+391
+00:27:37,449 --> 00:27:39,409
+She took the retrovirus.
+
+392
+00:27:39,451 --> 00:27:43,413
+- You said it wasn't ready.
+-  It's not! Not by a long shot.
+
+393
+00:27:43,455 --> 00:27:44,456
+What'll it do?
+
+394
+00:27:44,498 --> 00:27:47,543
+To be honest, I have no idea.
+
+395
+00:27:54,508 --> 00:27:56,593
+<i>Colonel Sheppard, come in.</i>
+
+396
+00:27:56,635 --> 00:27:57,553
+Go ahead.
+
+397
+00:27:57,553 --> 00:27:59,012
+<i> We've got another problem.</i>
+
+398
+00:27:59,054 --> 00:28:02,683
+Ellia's gone and she's injected
+herself with the retrovirus.
+
+399
+00:28:02,724 --> 00:28:04,351
+Why would she do that?
+
+400
+00:28:04,393 --> 00:28:06,353
+<i>She must have overheard</i>
+<i>us talking about it.</i>
+
+401
+00:28:06,395 --> 00:28:09,314
+I told Zaddik it might be
+the key to making her human.
+
+402
+00:28:09,356 --> 00:28:12,067
+Please. You've got to find her before the villagers do.
+
+403
+00:28:12,067 --> 00:28:13,777
+<i>Look, Ronon says we're close.</i>
+
+404
+00:28:13,819 --> 00:28:16,780
+If we lose the trail now, we may never catch the Wraith.
+
+405
+00:28:16,822 --> 00:28:18,115
+<i>Rodney and I will find her.</i>
+
+406
+00:28:18,156 --> 00:28:19,908
+<i>Alright, but be careful.</i>
+
+407
+00:28:19,950 --> 00:28:20,993
+Understood.
+
+408
+00:28:21,368 --> 00:28:22,494
+I'll come with you.
+
+409
+00:28:22,494 --> 00:28:23,996
+No, I think it's best if you stay here.
+
+410
+00:28:23,996 --> 00:28:28,208
+<i>Look, is there anywhere that she liked to go?</i>
+<i>Any favourite hiding spots or favourite places?</i>
+
+411
+00:28:28,250 --> 00:28:32,045
+Yes, she often goes off
+for hours at a time, up into the hills.
+
+412
+00:28:32,129 --> 00:28:33,881
+I don't like it, but she doesn't listen to me.
+
+413
+00:28:33,922 --> 00:28:35,674
+It's a start.
+
+414
+00:28:44,183 --> 00:28:48,312
+You know, I thought it was pretty nuts, when
+Ronon was trying to track a Wraith through this forest.
+
+415
+00:28:48,353 --> 00:28:50,439
+Now that it's just us,
+do you feel any better?
+
+416
+00:28:50,480 --> 00:28:53,734
+Oh yeah. Supremely confident.
+
+417
+00:29:01,742 --> 00:29:02,868
+Father.
+
+418
+00:29:03,994 --> 00:29:05,621
+Ellia.
+
+419
+00:29:09,791 --> 00:29:11,126
+Where did you go?
+
+420
+00:29:11,126 --> 00:29:12,794
+I was hiding.
+
+421
+00:29:13,587 --> 00:29:16,715
+I didn't want the others to know.
+
+422
+00:29:16,715 --> 00:29:18,800
+To know what?
+
+423
+00:29:19,843 --> 00:29:23,055
+Ellia! Why did you take the retrovirus?
+
+424
+00:29:23,096 --> 00:29:26,350
+Because I don't wanna be this way anymore!
+
+425
+00:29:27,059 --> 00:29:29,269
+I hate what I am.
+
+426
+00:29:29,853 --> 00:29:34,650
+You heard what Dr Beckett said.
+You know the retrovirus isn't ready.
+
+427
+00:29:35,651 --> 00:29:37,528
+I have no choice.
+
+428
+00:29:38,529 --> 00:29:42,616
+When they kill the other Wraith,
+I won't be able to pretend anymore.
+
+429
+00:29:42,658 --> 00:29:44,618
+Pretend what?
+
+430
+00:29:46,578 --> 00:29:50,415
+I've wanted to tell you for a long time.
+
+431
+00:29:52,709 --> 00:29:56,088
+Your serum doesn't work, father.
+
+432
+00:29:57,130 --> 00:29:59,508
+It never has.
+
+433
+00:30:00,926 --> 00:30:02,719
+That's impossible.
+
+434
+00:30:03,428 --> 00:30:06,014
+It's been two years since you...
+
+435
+00:30:08,016 --> 00:30:10,978
+since the last time.
+
+436
+00:30:12,104 --> 00:30:14,231
+That wasn't your fault.
+
+437
+00:30:14,273 --> 00:30:16,108
+It was my idea.
+
+438
+00:30:16,149 --> 00:30:18,861
+I needed time to perfect the forumla.
+
+439
+00:30:18,902 --> 00:30:25,117
+But it wasn't working.
+The hunger just got worse.
+
+440
+00:30:26,785 --> 00:30:29,246
+What did you do?
+
+441
+00:30:32,833 --> 00:30:35,711
+I'm sorry father.
+
+442
+00:30:37,671 --> 00:30:40,132
+No. No, that was the other one.
+
+443
+00:30:40,174 --> 00:30:42,426
+It was both of us.
+
+444
+00:30:43,010 --> 00:30:45,387
+I sensed him out there.
+
+445
+00:30:45,762 --> 00:30:50,559
+I knew when he was feeding and
+I would go out at the same time.
+
+446
+00:30:51,059 --> 00:30:53,270
+No, it can't be.
+
+447
+00:30:53,729 --> 00:30:54,313
+Ellia!
+
+448
+00:30:54,354 --> 00:30:55,480
+Stay away!
+
+449
+00:30:55,480 --> 00:30:58,650
+What is it? What's happening?
+
+450
+00:31:10,954 --> 00:31:12,497
+Let me help you.
+
+451
+00:31:29,598 --> 00:31:30,849
+Sheppard.
+
+452
+00:31:36,688 --> 00:31:38,565
+This is where he's been making camp.
+
+453
+00:31:38,607 --> 00:31:40,943
+He was here less than an hour ago.
+
+454
+00:31:52,955 --> 00:31:54,414
+You hear anything?
+
+455
+00:31:56,625 --> 00:31:58,001
+No.
+
+456
+00:31:58,752 --> 00:32:00,420
+Me either.
+
+457
+00:32:24,987 --> 00:32:28,532
+Easy now. You just went to all that trouble to
+save my life, it would be a shame to kill me.
+
+458
+00:32:36,665 --> 00:32:39,251
+Are you alright, Rodney?
+
+459
+00:32:39,293 --> 00:32:42,713
+Yeah, I'm just peachy now.
+What the hell was that?
+
+460
+00:32:42,754 --> 00:32:45,424
+The retrovirus is having the
+opposite effect, than we intended.
+
+461
+00:32:45,465 --> 00:32:47,176
+I guess so.
+
+462
+00:32:47,718 --> 00:32:48,927
+Oh God.
+
+463
+00:33:08,906 --> 00:33:10,282
+Ellia?
+
+464
+00:33:12,117 --> 00:33:13,660
+You poor girl.
+
+465
+00:33:13,911 --> 00:33:16,455
+You never deserved this.
+
+466
+00:33:17,956 --> 00:33:21,001
+I know part of you is still there.
+
+467
+00:33:23,754 --> 00:33:28,300
+Ellia please! This isn't you!
+
+468
+00:33:51,406 --> 00:33:52,824
+Zaddik!
+
+469
+00:33:54,076 --> 00:33:55,661
+Are you alright?
+
+470
+00:33:55,994 --> 00:33:57,454
+Don't try to move.
+
+471
+00:33:57,496 --> 00:34:01,750
+It was Ellia.
+But it wasn't her fault.
+
+472
+00:34:02,209 --> 00:34:04,253
+<i>Over here! Come on.</i>
+
+473
+00:34:04,336 --> 00:34:08,507
+No, no, you people need to go back
+to the village. It is not safe here!
+
+474
+00:34:08,924 --> 00:34:10,801
+Who is that?
+
+475
+00:34:17,432 --> 00:34:20,310
+Don't you remember me?
+
+476
+00:34:22,020 --> 00:34:25,899
+No. It can't be.
+
+477
+00:34:28,360 --> 00:34:30,863
+You were taken by the Daemus.
+
+478
+00:34:30,988 --> 00:34:33,866
+No father.
+
+479
+00:34:36,326 --> 00:34:40,831
+Father? I don't understand.
+You're his son?
+
+480
+00:34:40,873 --> 00:34:44,877
+If my son were alive, he'd be 34 years old.
+
+481
+00:34:45,210 --> 00:34:47,421
+Precisely.
+
+482
+00:34:56,805 --> 00:34:58,807
+There's another one of those things out there.
+
+483
+00:34:58,849 --> 00:35:01,393
+Look what it did to Zaddik.
+I say we go after it now!
+
+484
+00:35:01,435 --> 00:35:04,313
+No-one's going anywhere.
+We'll handle this!
+
+485
+00:35:04,354 --> 00:35:07,983
+Stay calm. How is he?
+
+486
+00:35:12,362 --> 00:35:15,157
+I've given him something for the pain,
+but his injuries are too severe.
+
+487
+00:35:15,449 --> 00:35:16,825
+He's not gonna make it.
+
+488
+00:35:16,825 --> 00:35:18,577
+<i>This can't be happening.</i>
+
+489
+00:35:19,620 --> 00:35:22,122
+It's not possible.
+
+490
+00:35:22,414 --> 00:35:24,082
+I'm sorry.
+
+491
+00:35:27,211 --> 00:35:31,131
+Don't blame Ellia.
+
+492
+00:35:31,173 --> 00:35:33,467
+It was my idea.
+
+493
+00:35:34,676 --> 00:35:38,889
+<i>You have to understand.</i>
+
+494
+00:35:40,182 --> 00:35:48,148
+When I found her, I'd just lost
+my own wife and son to a fever.
+
+495
+00:35:48,148 --> 00:35:53,111
+She was just lying there helpless.
+
+496
+00:36:00,827 --> 00:36:04,081
+When I saw her, I knew what I had to do.
+
+497
+00:36:04,665 --> 00:36:14,424
+As I told you, in the beginning she survived
+on food and water, like any young girl.
+
+498
+00:36:17,719 --> 00:36:20,305
+Then the hunger came.
+
+499
+00:36:25,811 --> 00:36:27,229
+It's alright. Take what you need.
+
+500
+00:36:27,271 --> 00:36:28,146
+I can't!
+
+501
+00:36:28,188 --> 00:36:29,690
+Yes you can.
+
+502
+00:36:35,612 --> 00:36:44,121
+She took what she needed from me to survive,
+until I perfected the serum.
+
+503
+00:36:50,460 --> 00:36:54,381
+Father?
+Father?
+
+504
+00:36:54,840 --> 00:36:58,010
+I'm so sorry!
+
+505
+00:37:05,267 --> 00:37:08,103
+She never fed on anyone, after that?
+
+506
+00:37:14,902 --> 00:37:16,403
+No!
+
+507
+00:37:22,326 --> 00:37:25,287
+Alright! Teyla, Ronon, you're with me.
+The rest of you, stay here!
+
+508
+00:37:25,329 --> 00:37:29,666
+Colonel! The retrovirus is acting quickly.
+The human part of her is almost gone.
+
+509
+00:37:29,708 --> 00:37:32,586
+You said she killed the other
+Wraith and saved McKay's life.
+
+510
+00:37:32,628 --> 00:37:36,798
+Yes, but I'm not sure she knew what she was doing.
+She's operating on a purely animal level right now.
+
+511
+00:37:36,840 --> 00:37:38,800
+Is there nothing you can do for her?
+
+512
+00:37:38,842 --> 00:37:43,180
+I might be able to reverse the effects, if you bring
+her back alive. But I doubt she'll cooperate.
+
+513
+00:37:43,180 --> 00:37:47,434
+She's also stronger and faster
+than any Wraith I've ever seen.
+
+514
+00:37:47,643 --> 00:37:49,061
+Great!
+
+515
+00:37:56,985 --> 00:38:01,615
+All this time. We thought you were dead.
+
+516
+00:38:02,241 --> 00:38:04,785
+There was no other way.
+
+517
+00:38:06,203 --> 00:38:11,375
+They never would have accepted us.
+
+518
+00:38:13,126 --> 00:38:15,629
+And I couldn't abandon her.
+
+519
+00:38:17,047 --> 00:38:18,382
+Why?
+
+520
+00:38:21,552 --> 00:38:22,636
+She...
+
+521
+00:38:23,470 --> 00:38:26,223
+needed me.
+
+522
+00:38:32,980 --> 00:38:34,314
+<i>Colonel, this is Beckett.</i>
+
+523
+00:38:34,356 --> 00:38:35,315
+Go ahead.
+
+524
+00:38:35,357 --> 00:38:37,025
+<i>Zaddik's dead.</i>
+
+525
+00:38:38,944 --> 00:38:40,654
+Understood.
+
+526
+00:38:48,036 --> 00:38:50,330
+She knows we're here.
+
+527
+00:38:53,834 --> 00:38:56,378
+She's watching us.
+
+528
+00:39:03,552 --> 00:39:05,470
+Ellia?
+
+529
+00:39:07,139 --> 00:39:10,017
+We want to help you!
+
+530
+00:39:10,058 --> 00:39:14,104
+Dr Beckett can make you better,
+but you have to come with us.
+
+531
+00:39:16,106 --> 00:39:18,400
+We will not hurt you!
+
+532
+00:39:39,004 --> 00:39:41,882
+She took a blow to the head when Ellia hit her.
+
+533
+00:39:45,385 --> 00:39:46,178
+Stay with her.
+
+534
+00:39:46,220 --> 00:39:47,930
+- Sheppard!
+- That's an order!
+
+535
+00:40:13,205 --> 00:40:14,790
+Teyla.
+
+536
+00:40:16,250 --> 00:40:17,501
+What happened?
+
+537
+00:40:18,460 --> 00:40:19,253
+Where's Colonel Sheppard?
+
+538
+00:40:19,294 --> 00:40:20,921
+He went after the creature.
+
+539
+00:40:20,963 --> 00:40:22,464
+You let him go alone?
+
+540
+00:40:22,506 --> 00:40:24,842
+He wanted me to stay with you.
+
+541
+00:40:25,300 --> 00:40:27,511
+I am fine. Go.
+
+542
+00:40:27,553 --> 00:40:29,388
+Aren't we supposed to follow his orders?
+
+543
+00:40:29,429 --> 00:40:32,182
+Sometimes, we're allowed to make exceptions.
+
+544
+00:40:32,224 --> 00:40:34,768
+And who decides when it's one of those times?
+
+545
+00:40:35,894 --> 00:40:38,272
+- We do!
+- That's good enough.
+
+546
+00:40:52,411 --> 00:40:53,620
+Ellia!
+
+547
+00:40:56,790 --> 00:40:59,251
+Don't make me do this.
+
+548
+00:41:33,744 --> 00:41:34,912
+You OK?
+
+549
+00:41:35,454 --> 00:41:39,791
+Yeah. She tried feeding on me.
+
+550
+00:41:42,920 --> 00:41:45,297
+She wasn't gonna let us take her back.
+
+551
+00:41:45,339 --> 00:41:48,842
+Yeah. I know.
+

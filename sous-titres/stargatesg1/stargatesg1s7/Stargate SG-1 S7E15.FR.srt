@@ -1,0 +1,1904 @@
+1
+00:00:05,607 --> 00:00:07,677
+Précédemment dans Stargate SG-1:
+
+2
+00:00:08,127 --> 00:00:11,039
+Sarah.
+
+3
+00:00:11,127 --> 00:00:13,641
+On aurait pu se quitter en bons termes.
+
+4
+00:00:13,727 --> 00:00:15,399
+Peut-être.
+
+5
+00:00:28,527 --> 00:00:30,882
+Tu es heureuse, Sam?
+
+6
+00:00:30,967 --> 00:00:35,643
+- Quoi?
+- Tu mérites d'aimer quelqu'un.
+
+7
+00:00:36,527 --> 00:00:39,360
+Ce n'est peut-être pas moi le problème.
+
+8
+00:00:40,967 --> 00:00:43,276
+Avec moi, il n'y a pas de danger.
+
+9
+00:00:43,367 --> 00:00:46,598
+La tablette mentionne
+une cité perdue remarquable.
+
+10
+00:00:46,687 --> 00:00:49,884
+Les Anciens auraient perdu
+une de leurs cités?
+
+11
+00:00:49,967 --> 00:00:54,643
+Pas exactement. Ils l'ont fait disparaître
+pour qu'elle soit introuvable.
+
+12
+00:00:54,727 --> 00:00:59,596
+La Cité Perdue reste donc perdue.
+
+13
+00:01:15,967 --> 00:01:21,678
+L'amulette date de la 12ème dynastie.
+L'incrustation évoque l'ère d'Amenemhet.
+
+14
+00:01:21,767 --> 00:01:26,841
+Sûrement un présent de la famille royale
+pour une naissance, un anniversaire...
+
+15
+00:01:26,927 --> 00:01:29,521
+C'est un porte-bonheur.
+
+16
+00:01:31,567 --> 00:01:35,879
+Les orfèvres l'offrirent au roi
+dans l'espoir que le Nil déborde
+
+17
+00:01:35,967 --> 00:01:38,162
+pour avoir des moissons abondantes.
+
+18
+00:01:39,807 --> 00:01:41,798
+Bien joué.
+
+19
+00:01:41,887 --> 00:01:46,881
+Le Dr Jordan m'a envoyé une photo.
+J'avais une longueur d'avance.
+
+20
+00:01:48,367 --> 00:01:50,323
+Je suis Sarah Gardner.
+
+21
+00:03:17,127 --> 00:03:19,800
+CHIMÈRES
+
+22
+00:03:27,567 --> 00:03:29,683
+- La place est prise?
+- Non.
+
+23
+00:03:29,767 --> 00:03:33,521
+Mais il y a des tas
+d'autres places de libre.
+
+24
+00:03:33,607 --> 00:03:37,282
+Mais aucune en face
+d'une aussi belle femme célibataire.
+
+25
+00:03:37,367 --> 00:03:40,723
+- Qu'en savez-vous?
+- Vous ne portez pas d'alliance.
+
+26
+00:03:40,807 --> 00:03:44,641
+- Je pourrais avoir un copain.
+- Vous ne seriez pas là si tôt.
+
+27
+00:03:44,727 --> 00:03:47,241
+- Vous êtes observateur.
+- Je suis flic.
+
+28
+00:03:48,487 --> 00:03:55,199
+Je vous préviens, la plupart des hommes
+que j'ai fréquentés récemment sont morts.
+
+29
+00:03:55,287 --> 00:03:57,164
+- C'est-à-dire...
+- Décédés.
+
+30
+00:03:57,247 --> 00:03:59,807
+- Comment?
+- Diverses circonstances.
+
+31
+00:04:00,727 --> 00:04:02,843
+Je prends le risque.
+
+32
+00:04:06,447 --> 00:04:09,086
+On dîne ensemble ce soir?
+À mon motel.
+
+33
+00:04:09,167 --> 00:04:11,965
+- À ton motel.
+- Une enquête m'amène de Denver.
+
+34
+00:04:12,047 --> 00:04:14,607
+On commandera à dîner,
+une caisse de vin...
+
+35
+00:04:14,687 --> 00:04:18,282
+- Une caisse!
+- Avec un canard sur l'étiquette.
+
+36
+00:04:23,447 --> 00:04:26,837
+- Arrête, Pete.
+- C'est mon jour de chance.
+
+37
+00:04:26,927 --> 00:04:29,361
+Je ne t'ai même pas montré mon insigne.
+
+38
+00:04:30,207 --> 00:04:32,004
+Je dois y aller.
+
+39
+00:04:32,087 --> 00:04:36,080
+Prends un jour de maladie. Passe
+la journée avec moi. On ira au zoo.
+
+40
+00:04:36,167 --> 00:04:39,159
+Il n'y a pas de zoo à Colorado Springs.
+
+41
+00:04:39,247 --> 00:04:42,796
+Au bowling alors.
+Il doit bien y en avoir un dans le coin.
+
+42
+00:04:42,887 --> 00:04:47,199
+- Je dois travailler.
+- La télémétrie intersidérale peut attendre.
+
+43
+00:04:47,287 --> 00:04:50,643
+Tu as une idée de l'immensité
+de l'espace intersidéral?
+
+44
+00:04:53,887 --> 00:04:56,321
+À ce soir.
+
+45
+00:05:03,767 --> 00:05:07,237
+Il brouille les fréquences
+de communication goa'ulds
+
+46
+00:05:07,327 --> 00:05:10,000
+et la télécommande
+des anneaux téléporteurs.
+
+47
+00:05:10,087 --> 00:05:13,875
+On essaie de créer
+un modèle portatif pour...
+
+48
+00:05:15,887 --> 00:05:21,041
+- Fais au moins semblant d'écouter.
+- C'est très intéressant. Continue.
+
+49
+00:05:21,127 --> 00:05:23,436
+- Tu es fatigué?
+- À ton avis?
+
+50
+00:05:23,527 --> 00:05:26,041
+- J'ai fait un rêve bizarroïde.
+- Raconte.
+
+51
+00:05:26,127 --> 00:05:30,040
+Je travaillais avec Sarah à Chicago,
+avant le projet Stargate.
+
+52
+00:05:30,127 --> 00:05:32,083
+Pourquoi c'est bizarre?
+
+53
+00:05:32,167 --> 00:05:36,524
+Tout était confus, j'étais coiffé
+différemment... Ce genre de choses.
+
+54
+00:05:38,007 --> 00:05:42,717
+Ne le prends pas mal,
+mais il te reste des contentieux à régler.
+
+55
+00:05:43,367 --> 00:05:46,882
+- Tu devrais en parler à quelqu'un.
+- C'est ce que je fais.
+
+56
+00:05:49,447 --> 00:05:51,483
+Mon colonel.
+
+57
+00:05:51,567 --> 00:05:54,604
+- Café.
+- On se voit plus tard, d'accord?
+
+58
+00:06:09,527 --> 00:06:11,643
+On fredonne?
+
+59
+00:06:11,727 --> 00:06:13,604
+- Ah bon?
+- Oui.
+
+60
+00:06:13,687 --> 00:06:15,518
+Désolée.
+
+61
+00:06:23,247 --> 00:06:26,284
+Comment il s'appelle?
+Vous fredonniez.
+
+62
+00:06:26,367 --> 00:06:29,006
+Pete Shanahan. Il est flic.
+
+63
+00:06:29,087 --> 00:06:33,126
+- Encore un excès de vitesse?
+- C'est un ami de mon frère de Denver.
+
+64
+00:06:33,207 --> 00:06:35,084
+- Un rencard.
+- Pitoyable, oui.
+
+65
+00:06:35,167 --> 00:06:37,522
+Non, c'est génial. Pas vrai?
+
+66
+00:06:37,607 --> 00:06:40,326
+Ce n'est rien de sérieux.
+
+67
+00:06:40,407 --> 00:06:43,479
+Assez pour vous faire fredonner.
+
+68
+00:06:44,407 --> 00:06:46,602
+- Mon colonel...
+- Ça ne me regarde pas.
+
+69
+00:06:46,687 --> 00:06:52,125
+Je suis ravi de vous voir emballée
+par autre chose que... des quarks.
+
+70
+00:06:56,007 --> 00:06:59,602
+- Pas mal le coup des quarks, hein?
+- Excellent.
+
+71
+00:07:03,407 --> 00:07:06,160
+- Ce silence est pesant, non?
+- Un peu.
+
+72
+00:07:06,247 --> 00:07:08,761
+- Bonne chance.
+- Merci, mon colonel.
+
+73
+00:08:02,807 --> 00:08:04,923
+Bonjour.
+
+74
+00:08:05,927 --> 00:08:07,280
+Bonjour.
+
+75
+00:08:07,367 --> 00:08:11,485
+Excusez-moi, vous m'avez surpris.
+Enfin, comment allez-vous?
+
+76
+00:08:11,567 --> 00:08:13,717
+- Bien.
+- Pas trop le mal du pays?
+
+77
+00:08:13,807 --> 00:08:17,880
+Mis à part le manque d'une bonne
+tasse de thé, je suis aux anges.
+
+78
+00:08:17,967 --> 00:08:20,925
+Je suis ravi de l'entendre.
+
+79
+00:08:22,407 --> 00:08:26,878
+Vous savez, j'ai dû lire
+toutes vos publications.
+
+80
+00:08:28,647 --> 00:08:30,797
+Toutes?
+
+81
+00:08:31,727 --> 00:08:33,718
+Quelle perte de temps.
+
+82
+00:08:33,807 --> 00:08:37,197
+Votre théorie sur la dynastie Hyksos
+est révolutionnaire,
+
+83
+00:08:37,287 --> 00:08:39,278
+si ce n'est un peu audacieuse.
+
+84
+00:08:39,367 --> 00:08:43,758
+Je m'en suis inspirée pour rédiger
+ma thèse de doctorat à Cambridge.
+
+85
+00:08:44,807 --> 00:08:47,241
+Vous avez dû être recalée.
+
+86
+00:08:48,647 --> 00:08:52,117
+J'espère être à la hauteur
+de votre talent.
+
+87
+00:08:52,207 --> 00:08:54,801
+Si vous êtes ici,
+vous avez... vous l'êtes.
+
+88
+00:08:54,887 --> 00:08:57,959
+Arrêtez. C'est trop de compliments.
+
+89
+00:09:05,847 --> 00:09:09,556
+- Je devrais vous laisser continuer.
+- Je vais continuer.
+
+90
+00:09:16,887 --> 00:09:19,640
+Je connais un endroit
+pour prendre un café...
+
+91
+00:09:19,727 --> 00:09:22,036
+Enfin, on y sert sûrement du thé.
+
+92
+00:09:23,447 --> 00:09:26,962
+- Ça me plairait, Dr Jackson.
+- Daniel.
+
+93
+00:09:30,767 --> 00:09:34,760
+Vous n'imaginez pas à quel point
+je suis heureuse d'être ici,
+
+94
+00:09:34,847 --> 00:09:37,281
+de pouvoir sonder votre esprit...
+
+95
+00:10:10,927 --> 00:10:14,078
+- C'était génial.
+- Pas mal.
+
+96
+00:10:14,167 --> 00:10:16,283
+Enfin, j'étais bien accompagné.
+
+97
+00:10:16,367 --> 00:10:19,404
+Tu n'aimes pas
+Chantons sous la pluie?
+
+98
+00:10:19,487 --> 00:10:22,001
+Je préfère Fred Astaire.
+
+99
+00:10:22,087 --> 00:10:24,920
+- C'est un film culte.
+- Oh là là, pas si vite.
+
+100
+00:10:25,007 --> 00:10:29,842
+Le mot "culte" est réservé à French
+Connection, L'inspecteur Harry, Serpico.
+
+101
+00:10:29,927 --> 00:10:32,600
+- Des policiers.
+- Qu'insinues-tu?
+
+102
+00:10:32,687 --> 00:10:36,839
+- C'est un film romantique.
+- Un homme qui danse sous la pluie?
+
+103
+00:10:36,927 --> 00:10:40,761
+- Pas besoin d'armes, de poursuites...
+- Ou de scènes de nu.
+
+104
+00:10:40,847 --> 00:10:44,965
+Pour ça,
+tu peux toujours rêver, mon vieux.
+
+105
+00:10:45,047 --> 00:10:47,959
+Je t'ai déjà dit
+que je suis un excellent danseur?
+
+106
+00:10:49,327 --> 00:10:51,761
+Je boucle mon enquête demain.
+
+107
+00:10:51,847 --> 00:10:54,042
+Tu rentres à Denver?
+
+108
+00:10:54,127 --> 00:10:59,565
+J'ai appelé mon supérieur pour lui dire:
+"Je me fous si la criminalité augmente,
+
+109
+00:10:59,647 --> 00:11:02,844
+j'ai rencontré une femme exceptionnelle
+
+110
+00:11:03,727 --> 00:11:06,002
+et on vit une belle histoire."
+
+111
+00:11:07,127 --> 00:11:11,405
+- Qu'a-t-il répondu?
+- "Dépêche-toi de rentrer ou je te vire."
+
+112
+00:11:12,087 --> 00:11:14,521
+- Pas de chance.
+- Je plaisante.
+
+113
+00:11:15,767 --> 00:11:18,964
+Je lui ai dit que je prenais
+deux semaines de vacances.
+
+114
+00:11:19,047 --> 00:11:22,835
+Il faut avouer
+que Colorado Springs gagne...
+
+115
+00:11:24,367 --> 00:11:26,358
+à être connu.
+
+116
+00:11:36,327 --> 00:11:39,125
+- C'était bien parti.
+- C'est le cas.
+
+117
+00:11:39,207 --> 00:11:41,084
+Mais?
+
+118
+00:11:42,007 --> 00:11:45,079
+- Il se fait tard.
+- Il n'est que sept heures.
+
+119
+00:11:45,167 --> 00:11:47,761
+Je dois me lever à l'aube.
+
+120
+00:11:47,847 --> 00:11:50,156
+- Pour aller travailler.
+- C'est ça.
+
+121
+00:11:51,327 --> 00:11:56,037
+Ce qui consiste à regarder à travers
+un télescope pendant de longues heures.
+
+122
+00:11:56,127 --> 00:11:58,402
+C'est ça.
+
+123
+00:11:58,487 --> 00:12:03,083
+Je t'ai déjà dit que je suis flic?
+On me paie pour interroger les gens.
+
+124
+00:12:03,167 --> 00:12:06,125
+Tu insinues que tu ne me crois pas?
+
+125
+00:12:06,207 --> 00:12:09,882
+Il te faut plus de temps?
+Je peux modérer mes ardeurs.
+
+126
+00:12:11,047 --> 00:12:14,437
+Te donner cinq ou dix minutes?
+
+127
+00:12:20,727 --> 00:12:22,718
+Je t'appelle.
+
+128
+00:12:24,967 --> 00:12:27,401
+Je suis déjà parti?
+
+129
+00:12:27,487 --> 00:12:29,603
+J'ai les jambes en coton.
+
+130
+00:12:48,007 --> 00:12:52,558
+- Merci.
+- Un petit bisou serait bienvenu.
+
+131
+00:12:58,607 --> 00:13:01,201
+C'était si douloureux?
+
+132
+00:13:01,287 --> 00:13:03,278
+Je survivrai.
+
+133
+00:13:03,367 --> 00:13:08,202
+- Tu as travaillé toute la nuit?
+- C'est déjà le matin?
+
+134
+00:13:08,287 --> 00:13:11,404
+J'ai un cadeau pour toi.
+
+135
+00:13:17,967 --> 00:13:19,719
+D'où tu sors ça?
+
+136
+00:13:19,807 --> 00:13:22,765
+On l'a trouvée
+lors d'une expédition au Maroc.
+
+137
+00:13:22,847 --> 00:13:27,796
+Un collègue m'a demandé de l'analyser.
+Personne ne sait ce que c'est.
+
+138
+00:13:27,887 --> 00:13:31,516
+Je me suis permise
+de faire une datation au carbone 14.
+
+139
+00:13:31,607 --> 00:13:34,075
+Elle a plus de 10000 ans.
+
+140
+00:13:34,527 --> 00:13:38,406
+- C'est impossible.
+- L'absence d'écrits dans les pyramides,
+
+141
+00:13:38,487 --> 00:13:41,285
+la datation peu concluante
+de divers artefacts...
+
+142
+00:13:41,367 --> 00:13:46,282
+Ce serait la preuve qu'il existait
+une écriture avant les hiéroglyphes?
+
+143
+00:13:46,367 --> 00:13:49,757
+Je savais que tu relèverais ce défi.
+
+144
+00:13:57,047 --> 00:14:00,881
+- Je reconnais ça.
+- Comment est-ce possible?
+
+145
+00:14:00,967 --> 00:14:05,438
+Le latin médiéval en est un dérivé.
+On peut l'utiliser comme référence.
+
+146
+00:14:05,527 --> 00:14:08,280
+Comment peux-tu savoir ça?
+
+147
+00:14:08,367 --> 00:14:10,517
+Je l'ignore.
+
+148
+00:14:10,607 --> 00:14:12,598
+Mais c'est le cas.
+
+149
+00:14:27,607 --> 00:14:30,280
+C'est insensé.
+
+150
+00:14:30,367 --> 00:14:33,040
+Tu devrais manger quelque chose.
+
+151
+00:14:34,087 --> 00:14:38,877
+Dans mon rêve, la tablette était écrite
+en langage ancien que je déchiffrais.
+
+152
+00:14:38,967 --> 00:14:42,880
+Ça n'a rien d'étonnant,
+tu le fais aussi éveillé.
+
+153
+00:14:42,967 --> 00:14:45,686
+Ton inconscient veut
+te révéler quelque chose.
+
+154
+00:14:45,767 --> 00:14:48,235
+- Comme quoi?
+- Concernant ton ascension.
+
+155
+00:14:48,327 --> 00:14:50,966
+Comme ta vision
+de Bra'tac et Rya'c en danger.
+
+156
+00:14:51,047 --> 00:14:54,084
+La tablette évoque
+celle trouvée sur Abydos.
+
+157
+00:14:54,167 --> 00:14:57,523
+- Qui devait mener à la Cité Perdue.
+- Sans succès.
+
+158
+00:14:57,607 --> 00:15:01,316
+Je connaîtrais son emplacement
+mais je l'aurais oublié?
+
+159
+00:15:01,407 --> 00:15:05,798
+Si tu refais ce rêve,
+tu devrais traduire la tablette.
+
+160
+00:15:15,527 --> 00:15:18,087
+Tu as besoin de faire une pause.
+
+161
+00:15:22,207 --> 00:15:25,199
+Tu es adorable. Enfin...
+
+162
+00:15:27,047 --> 00:15:29,880
+Je ne te mérite pas, n'est-ce pas?
+
+163
+00:15:30,967 --> 00:15:35,006
+- Tu as faim?
+- Je meurs de faim.
+
+164
+00:15:35,087 --> 00:15:37,601
+- Tu progresses?
+- J'y suis presque.
+
+165
+00:15:37,687 --> 00:15:40,599
+Je crois avoir compris l'idée générale.
+
+166
+00:15:40,687 --> 00:15:42,678
+Il s'agit de nous montrer la voie.
+
+167
+00:15:42,767 --> 00:15:48,285
+J'avais d'abord pensé à une sorte
+de guide spirituel, mais j'avais tort. Tiens.
+
+168
+00:15:53,327 --> 00:15:54,919
+Regarde.
+
+169
+00:15:55,007 --> 00:15:58,841
+Ça concerne plutôt
+un point de départ, une origine.
+
+170
+00:15:59,287 --> 00:16:01,926
+Les étapes d'un long voyage menant à...
+
+171
+00:16:02,007 --> 00:16:04,919
+Quoi? Menant à quoi?
+
+172
+00:16:05,767 --> 00:16:09,555
+À une cité. Un lieu très puissant.
+
+173
+00:16:11,647 --> 00:16:16,880
+C'est une carte avec les coordonnées
+d'une cité où habitaient des anciens.
+
+174
+00:17:02,847 --> 00:17:06,237
+DÎNER À 20 H, SUIVI D'UNE SURPRISE.
+FAIS-TOI BELLE.
+
+175
+00:17:14,687 --> 00:17:17,326
+Je me doute du message de la tablette,
+
+176
+00:17:17,407 --> 00:17:20,843
+mais je n'arrive pas à finir la traduction.
+
+177
+00:17:25,047 --> 00:17:30,360
+Tu ne cherchais peut-être pas
+à localiser la Cité Perdue.
+
+178
+00:17:30,447 --> 00:17:34,599
+Depuis que j'éprouve le besoin
+de dormir, je m'intéresse aux rêves.
+
+179
+00:17:34,687 --> 00:17:38,475
+Il y a des recherches
+à faire en la matière.
+
+180
+00:17:41,407 --> 00:17:44,479
+Alors Sigmund,
+que symbolisent mes rêves?
+
+181
+00:17:46,487 --> 00:17:51,607
+Depuis que Sarah est l'hôte d'Osiris,
+tu n'as rien pu faire pour la sauver.
+
+182
+00:17:51,687 --> 00:17:56,238
+Ton subconscient se focalise
+peut-être sur ce point.
+
+183
+00:17:56,327 --> 00:17:58,921
+Mon ascension serait la clé?
+
+184
+00:17:59,007 --> 00:18:03,876
+Les rêves aident l'esprit
+à gérer des désirs inassouvissables.
+
+185
+00:18:03,967 --> 00:18:08,040
+En gros, je suis parti
+pour ne plus jamais bien dormir.
+
+186
+00:18:08,127 --> 00:18:11,199
+Connaissant tes expériences passées,
+
+187
+00:18:11,287 --> 00:18:14,962
+j'ignore à quel point
+tu dormais bien avant.
+
+188
+00:18:15,047 --> 00:18:20,326
+Merci. Cette conversation
+m'a considérablement perturbé.
+
+189
+00:18:58,247 --> 00:19:00,203
+Assez belle pour toi?
+
+190
+00:19:03,847 --> 00:19:05,963
+Quoi?
+
+191
+00:19:06,047 --> 00:19:09,437
+Je prends ça pour un oui.
+Ce bouquet est pour moi?
+
+192
+00:19:13,487 --> 00:19:17,799
+Avec onze roses.
+Celui qui précède la douzaine.
+
+193
+00:19:17,887 --> 00:19:21,004
+Je vois.
+Il est magnifique. Merci.
+
+194
+00:19:30,287 --> 00:19:33,518
+- Je peux ouvrir les yeux?
+- Non.
+
+195
+00:19:33,607 --> 00:19:37,282
+- Et maintenant?
+- Non. Un peu de patience!
+
+196
+00:19:37,367 --> 00:19:39,358
+- Toujours pas?
+- Non.
+
+197
+00:19:39,447 --> 00:19:41,438
+Maintenant tu peux.
+
+198
+00:19:53,567 --> 00:19:57,765
+- Qu'en dis-tu?
+- On va se faire remarquer.
+
+199
+00:19:57,847 --> 00:19:59,838
+Viens.
+
+200
+00:20:18,207 --> 00:20:22,439
+JOYEUX 50ÈME ANNIVERSAIRE
+À HARRY ET MARG
+
+201
+00:20:30,127 --> 00:20:32,482
+J'adore.
+
+202
+00:20:32,567 --> 00:20:38,358
+C'est rassurant de voir qu'il y a
+encore des couples qui durent, non?
+
+203
+00:20:58,047 --> 00:21:00,356
+- Je n'y arrive pas.
+- Qu'y a-t-il?
+
+204
+00:21:00,447 --> 00:21:06,238
+Je tourne en rond. Je ne trouve aucune
+référence en rapport à cet extrait.
+
+205
+00:21:06,327 --> 00:21:09,399
+- Des portes?
+- Quoi?
+
+206
+00:21:09,487 --> 00:21:11,603
+L'origine des portes.
+
+207
+00:21:11,687 --> 00:21:14,759
+- Comment tu sais ça?
+- Ça paraît logique, non?
+
+208
+00:21:14,847 --> 00:21:18,760
+- Oui, mais d'où tu sors ça?
+- C'est écrit noir sur blanc.
+
+209
+00:21:18,847 --> 00:21:21,281
+Il faut que tu te détendes.
+
+210
+00:21:25,647 --> 00:21:27,603
+- Oh, non.
+- Quoi?
+
+211
+00:21:27,687 --> 00:21:31,441
+On devait dîner ensemble ce soir.
+Ça fait deux mois, c'est ça?
+
+212
+00:21:31,527 --> 00:21:34,280
+Je suis désolé.
+Pourquoi tu ne m'as rien dit?
+
+213
+00:21:34,367 --> 00:21:37,006
+- Ce n'est pas grave.
+- Il est trop tard.
+
+214
+00:21:37,087 --> 00:21:41,365
+Je comprends. Si j'y tenais
+vraiment, je t'en aurais parlé.
+
+215
+00:21:41,447 --> 00:21:44,359
+- Tu ne m'en veux pas?
+- Bien sûr que non.
+
+216
+00:21:45,527 --> 00:21:48,644
+Tu es censée partir.
+
+217
+00:21:48,727 --> 00:21:52,117
+Qu'est-ce que tu racontes?
+Je ne vais nulle part.
+
+218
+00:21:52,207 --> 00:21:55,802
+Tes recherches changeront
+la face du monde. Tu es un génie.
+
+219
+00:21:55,887 --> 00:21:59,357
+Je ne veux pas être un obstacle.
+Je veux en faire partie.
+
+220
+00:22:00,007 --> 00:22:04,159
+Mais je vais quand même
+nous commander une pizza.
+
+221
+00:22:06,847 --> 00:22:08,997
+Remets-toi au travail.
+
+222
+00:22:13,567 --> 00:22:15,956
+Alors, tu veux entrer?
+
+223
+00:22:16,047 --> 00:22:21,041
+Je ne sais pas.
+Aller chez toi est un grand pas.
+
+224
+00:22:21,127 --> 00:22:25,564
+- Comme tu voudras.
+- Pour l'instant, tu es parfaite.
+
+225
+00:22:26,567 --> 00:22:30,879
+J'ai peur de découvrir
+que tu es bordélique, ou pire,
+
+226
+00:22:30,967 --> 00:22:37,486
+que tu étiquettes tes tiroirs et ranges
+tes livres par ordre alphabétique.
+
+227
+00:22:44,847 --> 00:22:46,246
+C'est bon, j'arrive.
+
+228
+00:23:06,247 --> 00:23:09,523
+- Ne regarde pas ma bibliothèque.
+- D'accord.
+
+229
+00:23:19,927 --> 00:23:22,122
+Pourquoi tu es devenu flic?
+
+230
+00:23:22,207 --> 00:23:24,562
+J'ai trop regardé la télé, enfant.
+
+231
+00:23:25,567 --> 00:23:28,843
+Adam 12, Starsky et Hutch,
+Barney Miller.
+
+232
+00:23:30,007 --> 00:23:33,795
+- Barney Miller?
+- Ma série préférée.
+
+233
+00:23:34,967 --> 00:23:37,879
+Personne ne se faisait
+jamais tuer ni tabasser.
+
+234
+00:23:37,967 --> 00:23:40,037
+C'est tout?
+
+235
+00:23:40,127 --> 00:23:43,756
+Tu crois que tous les flics
+font ce métier par vocation?
+
+236
+00:23:43,847 --> 00:23:45,838
+C'est un boulot comme un autre.
+
+237
+00:23:46,847 --> 00:23:49,566
+Je ne suis pas d'accord. Pas pour toi.
+
+238
+00:23:51,127 --> 00:23:54,164
+Mark m'a parlé de ta vocation.
+
+239
+00:23:55,607 --> 00:23:57,598
+Le salaud.
+
+240
+00:23:57,687 --> 00:24:01,396
+- Ne sors jamais avec la sœur d'un pote.
+- Il n'en a pas dit plus.
+
+241
+00:24:01,487 --> 00:24:05,605
+Ce n'est pas passionnant.
+J'étais un peu voyou dans ma jeunesse.
+
+242
+00:24:09,007 --> 00:24:10,998
+À dire vrai,
+
+243
+00:24:12,327 --> 00:24:18,323
+j'aurais sûrement fini en taule
+si un flic ne m'avait pas pris d'affection.
+
+244
+00:24:19,487 --> 00:24:23,844
+Il a changé le cours de ma vie,
+et je l'admirais pour ça.
+
+245
+00:24:24,767 --> 00:24:28,521
+- C'est un boulot admirable.
+- Mon ex-femme n'était pas de cet avis.
+
+246
+00:24:30,167 --> 00:24:34,126
+Tu as vu l'épisode où Barney
+trouve ses affaires dans le jardin,
+
+247
+00:24:34,207 --> 00:24:37,085
+les papiers de divorce en évidence?
+
+248
+00:24:38,247 --> 00:24:40,397
+Je ne pouvais pas lui en vouloir.
+
+249
+00:24:41,167 --> 00:24:44,955
+On bosse jour et nuit
+et on ne sait jamais si...
+
+250
+00:24:46,767 --> 00:24:49,122
+Je n'avais pas le choix.
+
+251
+00:24:50,407 --> 00:24:52,841
+C'est ma vie.
+
+252
+00:24:53,927 --> 00:24:56,646
+- Je comprends tout à fait.
+- Vraiment?
+
+253
+00:24:58,207 --> 00:25:03,361
+- La télémétrie intersidérale est ta vie?
+- J'aimerais pouvoir t'en dire plus.
+
+254
+00:25:03,887 --> 00:25:07,880
+- Tu ne me fais pas confiance.
+- Je n'ai pas le droit.
+
+255
+00:25:12,127 --> 00:25:14,197
+Où vas-tu?
+
+256
+00:25:15,247 --> 00:25:18,444
+Je dois rentrer à Denver
+rendre mon rapport.
+
+257
+00:25:20,687 --> 00:25:25,841
+Non seulement je serais en défaut,
+mais je pourrais te mettre en danger.
+
+258
+00:25:25,927 --> 00:25:30,762
+Tu ne vas pas me dire que ta blague sur
+tes petits copains qui meurent est vraie?
+
+259
+00:25:30,847 --> 00:25:32,724
+Je t'en prie, Pete.
+
+260
+00:25:36,407 --> 00:25:42,004
+Le problème est
+que je ne sais presque rien de toi.
+
+261
+00:25:42,087 --> 00:25:47,764
+Comment veux-tu qu'on ait un avenir
+si tu ne partages pas ta vie avec moi?
+
+262
+00:26:28,327 --> 00:26:31,637
+FBI. Je peux vous aider?
+
+263
+00:26:31,727 --> 00:26:36,562
+- L'agent spécial Farrity, je vous prie.
+- Je vous le passe. Ne quittez pas.
+
+264
+00:26:41,087 --> 00:26:43,840
+- Dave, c'est Pete.
+- Quoi de neuf, mon vieux?
+
+265
+00:26:44,447 --> 00:26:48,804
+Je fais une enquête à Colorado Springs
+et j'ai besoin d'un service.
+
+266
+00:26:48,887 --> 00:26:51,196
+Peux-tu me sortir
+le dossier de quelqu'un?
+
+267
+00:26:51,287 --> 00:26:55,678
+- Toutes agences confondues, la totale?
+- Bien sûr. De qui s'agit-il?
+
+268
+00:26:55,767 --> 00:26:58,406
+D'un commandant de l'armée de l'air.
+
+269
+00:26:58,487 --> 00:27:00,478
+Samantha Carter.
+
+270
+00:27:09,527 --> 00:27:11,916
+Il ne me manque
+que les coordonnées de la porte
+
+271
+00:27:12,007 --> 00:27:14,885
+et quelques passages à traduire.
+
+272
+00:27:14,967 --> 00:27:17,356
+- Tu crois y arriver?
+- Je n'en sais rien.
+
+273
+00:27:17,447 --> 00:27:22,282
+C'est comme si je ne contrôlais rien,
+je ne suis que spectateur
+
+274
+00:27:22,367 --> 00:27:24,961
+de tout ce qui se déroule sous mes yeux.
+
+275
+00:27:25,047 --> 00:27:29,006
+- Le plus étrange, c'est que rien ne colle.
+- Précise ta pensée.
+
+276
+00:27:31,367 --> 00:27:33,358
+Quel imbécile j'ai été.
+
+277
+00:27:33,447 --> 00:27:37,804
+Sarah m'aimait et j'éprouvais
+aussi des sentiments pour elle,
+
+278
+00:27:37,887 --> 00:27:42,039
+mais j'étais tellement obsédé
+par mon travail que j'ai tout gâché.
+
+279
+00:27:42,127 --> 00:27:47,281
+Elle m'a quitté le soir
+où j'ai oublié notre anniversaire.
+
+280
+00:27:49,127 --> 00:27:53,837
+La Sarah de mes rêves est différente.
+Elle s'intéresse à mes recherches.
+
+281
+00:27:53,927 --> 00:27:57,078
+Elle tient autant que moi
+à trouver la Cité Perdue.
+
+282
+00:27:57,167 --> 00:27:59,635
+Un fantasme masculin tout à fait normal.
+
+283
+00:27:59,727 --> 00:28:03,845
+Sarah t'a présenté la tablette
+dans un de tes rêves?
+
+284
+00:28:03,927 --> 00:28:08,000
+Et tu as l'impression
+de ne pas les contrôler?
+
+285
+00:28:10,727 --> 00:28:15,755
+Les Goa'ulds ont la technologie
+pour sonder nos souvenirs.
+
+286
+00:28:17,167 --> 00:28:21,365
+Vous suggérez qu'Osiris est ici
+et manipule les rêves du Dr Jackson?
+
+287
+00:28:21,447 --> 00:28:24,405
+- C'est possible, mon général.
+- Excitant.
+
+288
+00:28:24,487 --> 00:28:28,639
+Elle cherche l'emplacement
+de la Cité Perdue dans mon subconscient.
+
+289
+00:28:28,727 --> 00:28:32,003
+Elle m'aide avec l'image
+d'une tablette ancienne.
+
+290
+00:28:32,087 --> 00:28:36,478
+Osiris se sert des souvenirs de Sarah
+pour gagner la confiance de Daniel.
+
+291
+00:28:36,567 --> 00:28:38,046
+Comment fait-elle?
+
+292
+00:28:38,127 --> 00:28:43,042
+On présume qu'elle pénètre chez Daniel
+la nuit et utilise un dispositif mémoriel.
+
+293
+00:28:43,127 --> 00:28:47,643
+En sondant l'esprit de Thor, Anubis
+a eu accès à la téléportation asgarde.
+
+294
+00:28:47,727 --> 00:28:50,241
+Lui permettant de se déplacer à sa guise.
+
+295
+00:28:50,327 --> 00:28:55,560
+Pourquoi elle n'enlève pas le Dr Jackson
+et sonde son esprit, comme avec Thor?
+
+296
+00:28:55,647 --> 00:28:59,117
+La sonde n'accède peut-être pas
+au subconscient.
+
+297
+00:28:59,207 --> 00:29:02,324
+Suite à l'effacement
+de ma mémoire par Oma.
+
+298
+00:29:02,407 --> 00:29:06,958
+C'est le meilleur moyen
+pour que Daniel les aide à son insu.
+
+299
+00:29:07,047 --> 00:29:09,686
+Alors qu'est-ce qu'on fait?
+
+300
+00:29:09,767 --> 00:29:12,440
+Les Goa'ulds
+sont des pilleurs de technologie.
+
+301
+00:29:12,527 --> 00:29:16,156
+Ils ont pu connecter
+un système asgard à leurs commandes.
+
+302
+00:29:16,247 --> 00:29:18,807
+Le système de brouillage
+peut empêcher Osiris
+
+303
+00:29:18,887 --> 00:29:21,640
+de se téléporter
+de la chambre de Daniel.
+
+304
+00:29:21,727 --> 00:29:24,002
+- Vous voulez la piéger.
+- Mais pas avant
+
+305
+00:29:24,087 --> 00:29:27,841
+qu'elle m'ait aidé
+à localiser la Cité Perdue.
+
+306
+00:29:28,967 --> 00:29:30,320
+Quoi?
+
+307
+00:29:30,407 --> 00:29:35,356
+Je veux sauver Sarah plus que personne.
+Maintenant, je le peux.
+
+308
+00:29:35,447 --> 00:29:39,759
+La solution est peut-être
+enfouie dans mon subconscient.
+
+309
+00:29:39,847 --> 00:29:42,759
+On lui fait croire
+qu'on ignore sa présence
+
+310
+00:29:42,847 --> 00:29:45,236
+jusqu'à ce que je sois fixé.
+
+311
+00:29:45,327 --> 00:29:48,364
+Comment allons-nous savoir
+que tu as trouvé,
+
+312
+00:29:48,447 --> 00:29:51,996
+si tout se passe dans ta tête
+pendant ton sommeil?
+
+313
+00:29:55,207 --> 00:29:58,677
+- Je n'en sais rien.
+- Trouvez une solution.
+
+314
+00:29:58,767 --> 00:30:04,160
+On ne peut pas laisser Osiris
+s'échapper avec cette information.
+
+315
+00:30:07,727 --> 00:30:10,605
+C'est moi. J'ai ce que tu m'as demandé.
+
+316
+00:30:11,327 --> 00:30:14,922
+- Donne-moi les grandes lignes.
+- Elle a un dossier béton.
+
+317
+00:30:15,007 --> 00:30:18,204
+Télémétrie intersidérale
+pour le NORAD, je sais.
+
+318
+00:30:18,287 --> 00:30:21,802
+- Tu n'as rien d'autre?
+- Le mystère reste entier.
+
+319
+00:30:21,887 --> 00:30:24,037
+Le dossier béton est une impasse.
+
+320
+00:30:24,127 --> 00:30:26,118
+- Elle a été effacée?
+- Oui.
+
+321
+00:30:26,207 --> 00:30:28,767
+On a fait disparaître
+ses antécédents.
+
+322
+00:30:28,847 --> 00:30:31,520
+Il ne reste que ce qu'on a voulu laisser.
+
+323
+00:30:31,607 --> 00:30:34,565
+Elle doit opérer à haut niveau.
+
+324
+00:30:35,167 --> 00:30:37,761
+- C'est-à-dire?
+- Une section secrète.
+
+325
+00:30:37,847 --> 00:30:41,203
+Quelque chose dont le gouvernement
+nie l'existence.
+
+326
+00:30:41,287 --> 00:30:45,883
+À mon avis, ton commandant Carter
+travaille sur un projet capital.
+
+327
+00:30:45,967 --> 00:30:50,324
+Tu devrais laisser tomber, vieux.
+Tu n'es pas de taille.
+
+328
+00:30:50,407 --> 00:30:52,637
+Ce n'est pas ma copine, t'inquiète.
+
+329
+00:30:53,327 --> 00:30:55,841
+Tant mieux.
+
+330
+00:31:31,127 --> 00:31:32,526
+- Allô.
+- C'est moi.
+
+331
+00:31:32,607 --> 00:31:36,759
+C'est Pete. Je dois traquer
+un méchant. Laissez-moi un message.
+
+332
+00:31:40,167 --> 00:31:41,964
+On en est où?
+
+333
+00:31:42,047 --> 00:31:45,244
+Daniel installe
+la vidéosurveillance chez lui.
+
+334
+00:31:45,327 --> 00:31:47,841
+Teal'c est allé acheter des beignets.
+
+335
+00:31:47,927 --> 00:31:51,124
+Il adore planquer
+dans de bonnes conditions.
+
+336
+00:31:51,207 --> 00:31:55,598
+Le système de brouillage est en place.
+Osiris ne devrait pas s'enfuir.
+
+337
+00:31:55,687 --> 00:31:58,645
+- On l'arrête avec ça?
+- Elle aura un bouclier,
+
+338
+00:31:58,727 --> 00:32:01,241
+mais une fléchette sédative passera.
+
+339
+00:32:01,327 --> 00:32:04,683
+Les Tok'ras pourront retirer
+le symbiote et sauver Sarah.
+
+340
+00:32:04,767 --> 00:32:09,966
+- Et pour ce qui est de la Cité Perdue?
+- On avisera.
+
+341
+00:32:10,047 --> 00:32:12,561
+Osiris sera coincée dans la chambre.
+
+342
+00:32:12,647 --> 00:32:16,322
+On doit l'intercepter
+avant qu'elle sache qu'on l'a piégée.
+
+343
+00:32:16,407 --> 00:32:19,558
+- Des renforts?
+- Les autorités locales sont "averties".
+
+344
+00:32:19,647 --> 00:32:23,037
+Mais rien ne doit
+éveiller l'attention d'Osiris.
+
+345
+00:32:24,087 --> 00:32:26,317
+Comment va Pete?
+
+346
+00:32:29,287 --> 00:32:31,642
+Vous savez ce que c'est.
+
+347
+00:32:32,247 --> 00:32:37,879
+En général, on laisse tomber
+car ils n'assumeraient pas la vérité.
+
+348
+00:32:37,967 --> 00:32:40,037
+En général.
+
+349
+00:32:41,967 --> 00:32:44,197
+Je crois qu'il aurait pu.
+
+350
+00:33:04,047 --> 00:33:06,356
+Salut, Daniel.
+
+351
+00:33:07,847 --> 00:33:10,361
+Tu dors déjà?
+
+352
+00:33:10,447 --> 00:33:13,120
+Oui, Jack. Je dors à poings fermés.
+
+353
+00:33:42,727 --> 00:33:45,082
+Qu'est-ce que c'est?
+
+354
+00:33:46,887 --> 00:33:49,481
+Merci. Ça ira.
+
+355
+00:33:57,647 --> 00:33:59,365
+C'est parti.
+
+356
+00:34:02,087 --> 00:34:04,999
+Activation de la fréquence de brouillage.
+
+357
+00:34:10,127 --> 00:34:12,118
+À nous de jouer.
+
+358
+00:34:57,727 --> 00:34:59,683
+Elle est toujours là.
+
+359
+00:34:59,767 --> 00:35:04,045
+- On attend encore longtemps?
+- Daniel devrait bientôt avoir fini.
+
+360
+00:35:17,327 --> 00:35:19,682
+- Tu avances?
+- Pas vraiment.
+
+361
+00:35:21,967 --> 00:35:24,765
+Ces symboles désignent
+l'emplacement de la cité.
+
+362
+00:35:24,847 --> 00:35:26,917
+Comme une adresse?
+
+363
+00:35:27,007 --> 00:35:32,365
+Il y en a sept.
+Mais impossible de les traduire.
+
+364
+00:35:32,447 --> 00:35:35,280
+- T'y es presque.
+- Loin de là.
+
+365
+00:35:35,367 --> 00:35:37,358
+Ne dis pas ça.
+
+366
+00:35:40,287 --> 00:35:45,042
+- Ils ne m'évoquent rien.
+- Tu ne vas pas abandonner maintenant.
+
+367
+00:35:45,127 --> 00:35:47,118
+Je ne sais pas.
+
+368
+00:35:48,327 --> 00:35:50,761
+Je n'ai jamais su.
+
+369
+00:35:55,447 --> 00:35:58,644
+C'est bien regrettable.
+
+370
+00:36:03,127 --> 00:36:04,845
+Allez-y.
+
+371
+00:36:34,247 --> 00:36:36,044
+Pete, que fais...
+
+372
+00:36:36,127 --> 00:36:38,357
+Baisse-toi.
+
+373
+00:36:46,007 --> 00:36:47,725
+Bon sang...
+
+374
+00:36:54,927 --> 00:36:58,078
+- Ça va aller?
+- Oui. File.
+
+375
+00:37:07,727 --> 00:37:10,605
+- Ça ne sert à rien.
+- Comment ça se fait?
+
+376
+00:37:18,927 --> 00:37:21,043
+Ce n'est pas normal du tout, ça.
+
+377
+00:37:22,047 --> 00:37:24,038
+Attention.
+
+378
+00:37:52,487 --> 00:37:54,478
+Sauve-toi.
+
+379
+00:37:56,367 --> 00:37:58,722
+- Ça va?
+- Oui.
+
+380
+00:38:01,807 --> 00:38:03,798
+Tant mieux.
+
+381
+00:38:10,527 --> 00:38:12,643
+Mon Dieu. Tu as été touché.
+
+382
+00:38:12,727 --> 00:38:14,445
+Ah oui?
+
+383
+00:38:15,327 --> 00:38:19,605
+- Carter?
+- C'est Pete. Appelez une ambulance.
+
+384
+00:38:22,167 --> 00:38:24,806
+Accroche-toi.
+
+385
+00:38:25,047 --> 00:38:28,756
+Sam... que s'est-il passé?
+
+386
+00:38:29,167 --> 00:38:32,955
+Je te promets que si tu t'en sors,
+je t'expliquerai tout.
+
+387
+00:38:34,087 --> 00:38:36,282
+Marché conclu.
+
+388
+00:38:57,247 --> 00:38:59,477
+Tout va bien, tu es en sécurité.
+
+389
+00:39:01,007 --> 00:39:03,396
+Je suis là.
+
+390
+00:39:03,487 --> 00:39:05,478
+C'est fini.
+
+391
+00:39:06,367 --> 00:39:08,881
+Tu es libre.
+
+392
+00:39:08,967 --> 00:39:10,923
+Je suis désolée.
+
+393
+00:39:13,247 --> 00:39:15,238
+Tu n'y es pour rien.
+
+394
+00:39:15,327 --> 00:39:17,397
+Je ne pouvais pas l'arrêter.
+
+395
+00:39:17,887 --> 00:39:20,321
+On va te remettre sur pied.
+
+396
+00:39:31,607 --> 00:39:34,405
+- On s'occupe bien de toi?
+- Oui.
+
+397
+00:39:35,287 --> 00:39:37,847
+Qui aurait cru
+qu'il y avait un hôpital ici?
+
+398
+00:39:37,927 --> 00:39:41,317
+- L'un des meilleurs.
+- Cet endroit est incroyable.
+
+399
+00:39:42,247 --> 00:39:44,966
+Tu n'imagines même pas.
+
+400
+00:39:59,487 --> 00:40:01,478
+Merci.
+
+401
+00:40:09,767 --> 00:40:13,362
+Je crois
+que j'ai rempli ma part du marché.
+
+402
+00:40:15,567 --> 00:40:18,001
+Ce que je vais te dire est confidentiel
+
+403
+00:40:18,087 --> 00:40:21,636
+selon l'article 11-C-9
+de la loi de sécurité nationale.
+
+404
+00:40:21,727 --> 00:40:26,926
+Des nanas avec une bague à rayon laser
+et des yeux de braise sont codifiées?
+
+405
+00:40:27,007 --> 00:40:29,805
+Tu me laisses parler?
+
+406
+00:40:29,887 --> 00:40:35,245
+Tu es dans un site militaire top-secret
+appelé le commandement du Stargate.
+
+407
+00:40:35,327 --> 00:40:39,286
+En 1928 à Gizeh en Égypte,
+des archéologues ont déterré un dispositif
+
+408
+00:40:39,367 --> 00:40:43,519
+d'accès à d'autres planètes
+à travers un vortex spatiotemporel.
+
+409
+00:40:43,607 --> 00:40:49,284
+Je le savais. C'est mieux qu'une caisse
+de vin avec un canard sur l'étiquette!
+
+410
+00:40:49,367 --> 00:40:51,483
+Je ne plaisante pas.
+
+411
+00:40:52,167 --> 00:40:54,283
+Pardon.
+
+412
+00:40:54,367 --> 00:40:57,006
+D'autres planètes. Des vortex...
+
+413
+00:40:58,447 --> 00:41:00,961
+Continue.
+
+414
+00:41:25,527 --> 00:41:29,679
+Sous-titrage Visiontext: Virginie Roux
+
+415
+00:41:55,007 --> 00:41:56,998
+FR – Rippé par BoRiF (BoRiF at borif dot com)
+

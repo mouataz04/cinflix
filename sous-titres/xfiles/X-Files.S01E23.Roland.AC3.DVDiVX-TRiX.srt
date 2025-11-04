@@ -1,0 +1,2516 @@
+1
+00:00:44,925 --> 00:00:47,120  X1:000 X2:719 Y1:002 Y2:479
+Here, let me do it.
+
+2
+00:00:48,762 --> 00:00:51,663  X1:000 X2:719 Y1:002 Y2:479
+Putyour number in,
+then your card.
+
+3
+00:00:51,732 --> 00:00:54,326  X1:000 X2:719 Y1:002 Y2:479
+What's your number, Roland?
+
+4
+00:00:54,401 --> 00:00:56,733  X1:000 X2:719 Y1:002 Y2:479
+Three fifteen.
+
+5
+00:01:01,508 --> 00:01:03,772  X1:000 X2:719 Y1:002 Y2:479
+See how easy it is?
+
+6
+00:01:10,317 --> 00:01:11,978  X1:000 X2:719 Y1:002 Y2:479
+Engine efficiency?
+
+7
+00:01:12,052 --> 00:01:14,577  X1:000 X2:719 Y1:002 Y2:479
+- Ninety-four percent.
+- We need more.
+
+8
+00:01:14,654 --> 00:01:16,986  X1:000 X2:719 Y1:002 Y2:479
+How's the back pressure holding?
+
+9
+00:01:17,057 --> 00:01:19,491  X1:000 X2:719 Y1:002 Y2:479
+What doyou think?
+It's climbing.
+
+10
+00:01:19,593 --> 00:01:22,994  X1:000 X2:719 Y1:002 Y2:479
+Increase the blade inclination.
+I said--
+
+11
+00:01:23,063 --> 00:01:25,497  X1:000 X2:719 Y1:002 Y2:479
+The inclination ofthe blade
+is pi over nine.
+
+12
+00:01:25,565 --> 00:01:27,499  X1:000 X2:719 Y1:002 Y2:479
+We've reached maximum velocity.
+
+13
+00:01:27,567 --> 00:01:29,000  X1:000 X2:719 Y1:002 Y2:479
+No!
+
+14
+00:01:29,069 --> 00:01:31,936  X1:000 X2:719 Y1:002 Y2:479
+Let it go!
+It will work.
+
+15
+00:01:32,005 --> 00:01:35,168  X1:000 X2:719 Y1:002 Y2:479
+It will destroy itself!.
+I'm not going to do that.
+
+16
+00:01:35,242 --> 00:01:37,335  X1:000 X2:719 Y1:002 Y2:479
+It's not going to
+destroy itself.
+
+17
+00:01:37,411 --> 00:01:39,345  X1:000 X2:719 Y1:002 Y2:479
+Come on!
+We're almost there!
+
+18
+00:01:39,413 --> 00:01:41,176  X1:000 X2:719 Y1:002 Y2:479
+Our equations are wrong.
+
+19
+00:01:41,248 --> 00:01:44,445  X1:000 X2:719 Y1:002 Y2:479
+- What happened?
+- Nothing. He pulled the plug.
+
+20
+00:01:44,518 --> 00:01:47,612  X1:000 X2:719 Y1:002 Y2:479
+I'm just protecting the baby--
+and fouryears ofwork.
+
+21
+00:01:47,687 --> 00:01:50,713  X1:000 X2:719 Y1:002 Y2:479
+Fouryears that add up to zilch.
+
+22
+00:01:50,791 --> 00:01:52,986  X1:000 X2:719 Y1:002 Y2:479
+Unless we show some progress...
+
+23
+00:01:53,093 --> 00:01:56,028  X1:000 X2:719 Y1:002 Y2:479
+they're going to pull
+the plug on us, Ron.
+
+24
+00:01:59,199 --> 00:02:01,133  X1:000 X2:719 Y1:002 Y2:479
+You should have
+continued with the test.
+
+25
+00:02:01,201 --> 00:02:03,066  X1:000 X2:719 Y1:002 Y2:479
+Somebody's going
+to crack Mach 1 5...
+
+26
+00:02:03,136 --> 00:02:05,400  X1:000 X2:719 Y1:002 Y2:479
+and I want it to be us.
+
+27
+00:02:05,472 --> 00:02:08,407  X1:000 X2:719 Y1:002 Y2:479
+I won'tjeopardize everything
+becauseyou two...
+
+28
+00:02:08,475 --> 00:02:10,409  X1:000 X2:719 Y1:002 Y2:479
+can't wait to see
+your name in print.
+
+29
+00:02:10,477 --> 00:02:13,412  X1:000 X2:719 Y1:002 Y2:479
+It's print that gets
+the money, Ron.
+
+30
+00:02:13,480 --> 00:02:17,416  X1:000 X2:719 Y1:002 Y2:479
+Go down in fames together.
+Fine, go ahead.
+
+31
+00:02:17,484 --> 00:02:19,418  X1:000 X2:719 Y1:002 Y2:479
+I'm going to do the math.
+
+32
+00:02:23,056 --> 00:02:24,990  X1:000 X2:719 Y1:002 Y2:479
+Good night, Dr. Keats.
+
+33
+00:03:13,006 --> 00:03:14,769  X1:000 X2:719 Y1:002 Y2:479
+What the hell?
+
+34
+00:03:18,545 --> 00:03:19,807  X1:000 X2:719 Y1:002 Y2:479
+Roland.
+
+35
+00:03:19,880 --> 00:03:21,313  X1:000 X2:719 Y1:002 Y2:479
+Open the door.
+
+36
+00:03:23,817 --> 00:03:25,808  X1:000 X2:719 Y1:002 Y2:479
+Open the door!
+
+37
+00:03:25,886 --> 00:03:29,617  X1:000 X2:719 Y1:002 Y2:479
+Roland, I wantyou to listen
+to me very carefully.
+
+38
+00:03:29,689 --> 00:03:31,953  X1:000 X2:719 Y1:002 Y2:479
+We have to open
+this door, Roland.
+
+39
+00:03:32,058 --> 00:03:34,526  X1:000 X2:719 Y1:002 Y2:479
+Stop typing!
+Roland!
+
+40
+00:03:50,710 --> 00:03:53,474  X1:000 X2:719 Y1:002 Y2:479
+Roland, open the door!
+
+41
+00:03:53,547 --> 00:03:56,107  X1:000 X2:719 Y1:002 Y2:479
+What areyou doing?!
+
+42
+00:03:56,182 --> 00:03:59,174  X1:000 X2:719 Y1:002 Y2:479
+Open the door!
+
+43
+00:03:59,252 --> 00:04:02,813  X1:000 X2:719 Y1:002 Y2:479
+Roland, hit escape.
+Areyou listening?
+
+44
+00:04:58,378 --> 00:05:00,938  X1:000 X2:719 Y1:002 Y2:479
+(screaming)
+
+45
+00:05:01,014 --> 00:05:02,879  X1:000 X2:719 Y1:002 Y2:479
+(splat)
+
+46
+00:06:00,373 --> 00:06:02,238  X1:000 X2:719 Y1:002 Y2:479
+How was the wedding?
+
+47
+00:06:02,308 --> 00:06:04,242  X1:000 X2:719 Y1:002 Y2:479
+The part where the groom passed out...
+
+48
+00:06:04,310 --> 00:06:06,244  X1:000 X2:719 Y1:002 Y2:479
+or the dog bit the drummer?
+
+49
+00:06:06,312 --> 00:06:07,904  X1:000 X2:719 Y1:002 Y2:479
+Did you catch the bouquet?
+
+50
+00:06:07,981 --> 00:06:09,573  X1:000 X2:719 Y1:002 Y2:479
+Maybe.
+
+51
+00:06:09,649 --> 00:06:12,243  X1:000 X2:719 Y1:002 Y2:479
+Is that whatyou couldn't
+talk about over the phone?
+
+52
+00:06:12,352 --> 00:06:15,788  X1:000 X2:719 Y1:002 Y2:479
+The project everyone says
+doesn't exist does exist.
+
+53
+00:06:15,855 --> 00:06:17,413  X1:000 X2:719 Y1:002 Y2:479
+The lcarus project?
+
+54
+00:06:17,524 --> 00:06:19,617  X1:000 X2:719 Y1:002 Y2:479
+The next generation
+injet engine design.
+
+55
+00:06:19,693 --> 00:06:21,923  X1:000 X2:719 Y1:002 Y2:479
+Capable ofdoubling
+current supersonic speeds...
+
+56
+00:06:21,995 --> 00:06:25,590  X1:000 X2:719 Y1:002 Y2:479
+using halfthe fuel,
+at least, in theory.
+
+57
+00:06:25,665 --> 00:06:28,759  X1:000 X2:719 Y1:002 Y2:479
+And Ronald Surnow was
+an aeronautical scientist...
+
+58
+00:06:28,835 --> 00:06:30,928  X1:000 X2:719 Y1:002 Y2:479
+who worked on it
+here at the university.
+
+59
+00:06:31,004 --> 00:06:33,268  X1:000 X2:719 Y1:002 Y2:479
+- Yes.
+- How close are they?
+
+60
+00:06:33,339 --> 00:06:35,933  X1:000 X2:719 Y1:002 Y2:479
+I'm not sure, but Surnow's
+the second team scientist...
+
+61
+00:06:36,009 --> 00:06:37,943  X1:000 X2:719 Y1:002 Y2:479
+to die in six months.
+
+62
+00:06:38,011 --> 00:06:39,945  X1:000 X2:719 Y1:002 Y2:479
+But how is this an X file?
+
+63
+00:06:40,013 --> 00:06:41,947  X1:000 X2:719 Y1:002 Y2:479
+Mulder, you don't think...
+
+64
+00:06:42,015 --> 00:06:44,108  X1:000 X2:719 Y1:002 Y2:479
+this has anything to do
+with U.F.O. technology?
+
+65
+00:06:44,217 --> 00:06:46,208  X1:000 X2:719 Y1:002 Y2:479
+There's something
+unexplainable, Scully...
+
+66
+00:06:46,319 --> 00:06:48,253  X1:000 X2:719 Y1:002 Y2:479
+but it's not unidentifiable.
+
+67
+00:06:54,594 --> 00:06:56,755  X1:000 X2:719 Y1:002 Y2:479
+- Keats?
+- There.
+
+68
+00:06:56,830 --> 00:06:58,764  X1:000 X2:719 Y1:002 Y2:479
+Dr. Keats?
+
+69
+00:06:58,832 --> 00:07:00,766  X1:000 X2:719 Y1:002 Y2:479
+We're with the F.B.I.
+
+70
+00:07:00,834 --> 00:07:02,802  X1:000 X2:719 Y1:002 Y2:479
+I'm Agent Mulder.
+This is Agent Scully.
+
+71
+00:07:02,869 --> 00:07:05,667  X1:000 X2:719 Y1:002 Y2:479
+We understand you discovered
+Dr. Surnow this morning.
+
+72
+00:07:05,739 --> 00:07:07,673  X1:000 X2:719 Y1:002 Y2:479
+What was left ofhim.
+
+73
+00:07:09,809 --> 00:07:13,711  X1:000 X2:719 Y1:002 Y2:479
+How doyou suppose he became
+trapped in the wind tunnel?
+
+74
+00:07:13,780 --> 00:07:16,647  X1:000 X2:719 Y1:002 Y2:479
+Someone must have shut him in.
+
+75
+00:07:16,716 --> 00:07:18,206  X1:000 X2:719 Y1:002 Y2:479
+By computer?
+
+76
+00:07:18,284 --> 00:07:21,412  X1:000 X2:719 Y1:002 Y2:479
+We've already been through this
+with the police.
+
+77
+00:07:21,521 --> 00:07:23,455  X1:000 X2:719 Y1:002 Y2:479
+Another member ofyour team
+died recently...
+
+78
+00:07:23,523 --> 00:07:25,218  X1:000 X2:719 Y1:002 Y2:479
+isn't that correct?
+
+79
+00:07:25,291 --> 00:07:26,189  X1:000 X2:719 Y1:002 Y2:479
+Yes.
+
+80
+00:07:26,259 --> 00:07:28,022  X1:000 X2:719 Y1:002 Y2:479
+Arthur Grable.
+
+81
+00:07:28,094 --> 00:07:30,995  X1:000 X2:719 Y1:002 Y2:479
+He was killed in
+an automobile accident in November.
+
+82
+00:07:31,064 --> 00:07:33,999  X1:000 X2:719 Y1:002 Y2:479
+I'm Frank Nollette.
+I'm also on the project.
+
+83
+00:07:34,067 --> 00:07:36,001  X1:000 X2:719 Y1:002 Y2:479
+Areyou certain
+it was an accident?
+
+84
+00:07:36,069 --> 00:07:38,560  X1:000 X2:719 Y1:002 Y2:479
+What areyou driving at?
+
+85
+00:07:38,638 --> 00:07:40,230  X1:000 X2:719 Y1:002 Y2:479
+Yourwork seems to be...
+
+86
+00:07:40,306 --> 00:07:42,934  X1:000 X2:719 Y1:002 Y2:479
+a perfect target
+for industrial espionage.
+
+87
+00:07:44,010 --> 00:07:46,672  X1:000 X2:719 Y1:002 Y2:479
+Who wrote this?
+
+88
+00:07:51,484 --> 00:07:54,044  X1:000 X2:719 Y1:002 Y2:479
+Ron was working on it
+when I left.
+
+89
+00:07:54,154 --> 00:07:56,315  X1:000 X2:719 Y1:002 Y2:479
+The handwriting here...
+
+90
+00:07:56,422 --> 00:07:58,890  X1:000 X2:719 Y1:002 Y2:479
+doesn't match
+other handwriting on the board.
+
+91
+00:08:00,059 --> 00:08:01,720  X1:000 X2:719 Y1:002 Y2:479
+It isn't mine.
+
+92
+00:08:05,398 --> 00:08:07,332  X1:000 X2:719 Y1:002 Y2:479
+What about Roland Fuller?
+
+93
+00:08:07,400 --> 00:08:10,699  X1:000 X2:719 Y1:002 Y2:479
+Uh... Roland's the, uh...janitor.
+
+94
+00:08:10,770 --> 00:08:12,704  X1:000 X2:719 Y1:002 Y2:479
+According to the police...
+
+95
+00:08:12,772 --> 00:08:14,706  X1:000 X2:719 Y1:002 Y2:479
+he was the only other person here.
+
+96
+00:08:14,774 --> 00:08:17,004  X1:000 X2:719 Y1:002 Y2:479
+Roland didn't do that.
+
+97
+00:08:17,076 --> 00:08:19,010  X1:000 X2:719 Y1:002 Y2:479
+How doyou know?
+
+98
+00:08:19,078 --> 00:08:22,570  X1:000 X2:719 Y1:002 Y2:479
+Let'sjust say Roland isn't
+exactly a rocket scientist.
+
+99
+00:08:35,461 --> 00:08:37,395  X1:000 X2:719 Y1:002 Y2:479
+Here.
+
+100
+00:08:38,698 --> 00:08:40,632  X1:000 X2:719 Y1:002 Y2:479
+"Tracy."
+
+101
+00:08:40,700 --> 00:08:43,134  X1:000 X2:719 Y1:002 Y2:479
+- (giggles)
+- With stars.
+
+102
+00:08:43,203 --> 00:08:46,070  X1:000 X2:719 Y1:002 Y2:479
+Woman: Roland.
+
+103
+00:08:46,139 --> 00:08:48,607  X1:000 X2:719 Y1:002 Y2:479
+There are some people here
+to talkwith you.
+
+104
+00:08:48,675 --> 00:08:51,610  X1:000 X2:719 Y1:002 Y2:479
+Uh-oh.
+
+105
+00:08:52,946 --> 00:08:54,641  X1:000 X2:719 Y1:002 Y2:479
+I went offthe paper.
+
+106
+00:08:54,714 --> 00:08:56,978  X1:000 X2:719 Y1:002 Y2:479
+Sorry.
+
+107
+00:08:57,083 --> 00:08:59,017  X1:000 X2:719 Y1:002 Y2:479
+That's all right, Roland.
+
+108
+00:08:59,085 --> 00:09:00,313  X1:000 X2:719 Y1:002 Y2:479
+Tracy?
+
+109
+00:09:00,420 --> 00:09:02,786  X1:000 X2:719 Y1:002 Y2:479
+Would you help me in the TV room?
+
+110
+00:09:02,856 --> 00:09:04,790  X1:000 X2:719 Y1:002 Y2:479
+Okay.
+
+111
+00:09:07,093 --> 00:09:10,494  X1:000 X2:719 Y1:002 Y2:479
+Hi, Roland.
+Mind ifwe sit down?
+
+112
+00:09:10,563 --> 00:09:12,554  X1:000 X2:719 Y1:002 Y2:479
+Thanks.
+
+113
+00:09:12,632 --> 00:09:15,260  X1:000 X2:719 Y1:002 Y2:479
+Mind ifwe askyou
+a couple questions?
+
+114
+00:09:17,303 --> 00:09:19,168  X1:000 X2:719 Y1:002 Y2:479
+Doyou rememberworking
+last night?
+
+115
+00:09:19,239 --> 00:09:21,298  X1:000 X2:719 Y1:002 Y2:479
+Uh-huh.
+
+116
+00:09:21,374 --> 00:09:23,399  X1:000 X2:719 Y1:002 Y2:479
+Doyou remember seeing
+anything unusual?
+
+117
+00:09:23,476 --> 00:09:26,639  X1:000 X2:719 Y1:002 Y2:479
+Seeing any strangers?
+
+118
+00:09:28,715 --> 00:09:33,652  X1:000 X2:719 Y1:002 Y2:479
+Did Dr. Surnow or Dr. Keats
+or Dr. Nollette...
+
+119
+00:09:33,720 --> 00:09:35,779  X1:000 X2:719 Y1:002 Y2:479
+do anything unusual?
+
+120
+00:09:35,889 --> 00:09:38,357  X1:000 X2:719 Y1:002 Y2:479
+Nope.
+
+121
+00:09:42,962 --> 00:09:45,430  X1:000 X2:719 Y1:002 Y2:479
+You must like stars.
+
+122
+00:09:45,498 --> 00:09:48,160  X1:000 X2:719 Y1:002 Y2:479
+One hundred and forty-seven.
+
+123
+00:09:48,234 --> 00:09:49,826  X1:000 X2:719 Y1:002 Y2:479
+Sorry?
+
+124
+00:09:49,903 --> 00:09:52,337  X1:000 X2:719 Y1:002 Y2:479
+Stars.
+
+125
+00:09:59,545 --> 00:10:01,604  X1:000 X2:719 Y1:002 Y2:479
+You like numbers, too, huh?
+
+126
+00:10:18,064 --> 00:10:20,692  X1:000 X2:719 Y1:002 Y2:479
+Roland, let me helpyou.
+
+127
+00:10:20,767 --> 00:10:23,702  X1:000 X2:719 Y1:002 Y2:479
+One, two, three...
+
+128
+00:10:23,770 --> 00:10:27,331  X1:000 X2:719 Y1:002 Y2:479
+four, five...
+
+129
+00:10:27,407 --> 00:10:28,669  X1:000 X2:719 Y1:002 Y2:479
+six, seven, eight...
+
+130
+00:10:28,741 --> 00:10:32,837  X1:000 X2:719 Y1:002 Y2:479
+Roland? ls everything okay?
+
+131
+00:10:32,912 --> 00:10:35,142  X1:000 X2:719 Y1:002 Y2:479
+Roland, areyou all right?
+
+132
+00:10:35,214 --> 00:10:36,875  X1:000 X2:719 Y1:002 Y2:479
+Eleven...
+
+133
+00:10:36,950 --> 00:10:38,884  X1:000 X2:719 Y1:002 Y2:479
+twelve, thirteen...
+
+134
+00:10:38,952 --> 00:10:40,886  X1:000 X2:719 Y1:002 Y2:479
+What happened?
+
+135
+00:10:40,954 --> 00:10:43,252  X1:000 X2:719 Y1:002 Y2:479
+What did you say
+to upset him so?
+
+136
+00:10:43,323 --> 00:10:45,883  X1:000 X2:719 Y1:002 Y2:479
+Sixteen, seventeen...
+
+137
+00:10:50,596 --> 00:10:53,929  X1:000 X2:719 Y1:002 Y2:479
+It's definitely the work
+ofa fourth individual.
+
+138
+00:10:54,000 --> 00:10:56,935  X1:000 X2:719 Y1:002 Y2:479
+Surnow's, Keats' and Nollette's
+cursive standards...
+
+139
+00:10:57,003 --> 00:10:59,267  X1:000 X2:719 Y1:002 Y2:479
+don't match whatyou found
+on the white board.
+
+140
+00:10:59,339 --> 00:11:01,273  X1:000 X2:719 Y1:002 Y2:479
+Will you do me a favor
+and try this?
+
+141
+00:11:01,341 --> 00:11:03,206  X1:000 X2:719 Y1:002 Y2:479
+What is it?
+
+142
+00:11:03,276 --> 00:11:05,676  X1:000 X2:719 Y1:002 Y2:479
+Something Roland
+doodled at the home.
+
+143
+00:11:05,745 --> 00:11:08,407  X1:000 X2:719 Y1:002 Y2:479
+You don't really think Roland...
+
+144
+00:11:08,481 --> 00:11:10,472  X1:000 X2:719 Y1:002 Y2:479
+He was the only other person
+in the lab.
+
+145
+00:11:10,550 --> 00:11:12,484  X1:000 X2:719 Y1:002 Y2:479
+Yes, but we're talking...
+
+146
+00:11:12,552 --> 00:11:14,986  X1:000 X2:719 Y1:002 Y2:479
+about a sophisticated
+fuid dynamics equation.
+
+147
+00:11:15,054 --> 00:11:17,045  X1:000 X2:719 Y1:002 Y2:479
+Roland barely has an l.Q of70.
+
+148
+00:11:17,156 --> 00:11:19,420  X1:000 X2:719 Y1:002 Y2:479
+You saw his facility
+with mathematics.
+
+149
+00:11:19,492 --> 00:11:22,359  X1:000 X2:719 Y1:002 Y2:479
+Some autistic individuals
+display unusual abilities.
+
+150
+00:11:22,428 --> 00:11:24,362  X1:000 X2:719 Y1:002 Y2:479
+Yes, but even savants...
+
+151
+00:11:24,430 --> 00:11:26,523  X1:000 X2:719 Y1:002 Y2:479
+behave only as human calculators.
+
+152
+00:11:26,599 --> 00:11:28,726  X1:000 X2:719 Y1:002 Y2:479
+They can perform
+certain functions...
+
+153
+00:11:28,801 --> 00:11:30,735  X1:000 X2:719 Y1:002 Y2:479
+but they can't tell
+the value ofanything...
+
+154
+00:11:30,803 --> 00:11:32,862  X1:000 X2:719 Y1:002 Y2:479
+or the meaning ofa number.
+
+155
+00:11:32,939 --> 00:11:35,567  X1:000 X2:719 Y1:002 Y2:479
+I hate to take sides,
+but the bottom line is no.
+
+156
+00:11:35,641 --> 00:11:40,544  X1:000 X2:719 Y1:002 Y2:479
+The terminal stroke on the six,
+the roofon the five...
+
+157
+00:11:40,613 --> 00:11:42,911  X1:000 X2:719 Y1:002 Y2:479
+I'm sorry.
+He didn't write it.
+
+158
+00:11:46,486 --> 00:11:48,420  X1:000 X2:719 Y1:002 Y2:479
+(gasping)
+
+159
+00:11:53,726 --> 00:11:55,284  X1:000 X2:719 Y1:002 Y2:479
+(grunting)
+
+160
+00:12:14,380 --> 00:12:17,315  X1:000 X2:719 Y1:002 Y2:479
+(loud music from earphones)
+
+161
+00:12:33,266 --> 00:12:34,824  X1:000 X2:719 Y1:002 Y2:479
+(beeping)
+
+162
+00:12:34,901 --> 00:12:36,835  X1:000 X2:719 Y1:002 Y2:479
+(door clicks)
+
+163
+00:13:29,455 --> 00:13:31,286  X1:000 X2:719 Y1:002 Y2:479
+(screaming)
+
+164
+00:13:50,643 --> 00:13:53,407  X1:000 X2:719 Y1:002 Y2:479
+(shattering)
+
+165
+00:13:56,149 --> 00:13:58,413  X1:000 X2:719 Y1:002 Y2:479
+(crunching)
+
+166
+00:14:00,887 --> 00:14:03,412  X1:000 X2:719 Y1:002 Y2:479
+(typing)
+
+167
+00:14:05,925 --> 00:14:09,827  X1:000 X2:719 Y1:002 Y2:479
+Scully: An organic object,
+exposed to liquid nitrogen...
+
+168
+00:14:09,896 --> 00:14:11,830  X1:000 X2:719 Y1:002 Y2:479
+will become frozen...
+
+169
+00:14:11,898 --> 00:14:13,832  X1:000 X2:719 Y1:002 Y2:479
+exhibiting great tensile strength...
+
+170
+00:14:13,900 --> 00:14:17,336  X1:000 X2:719 Y1:002 Y2:479
+but is vulnerable to stress
+from compression or impact.
+
+171
+00:14:17,403 --> 00:14:20,338  X1:000 X2:719 Y1:002 Y2:479
+Now, I've seen this
+demonstrated on a fish before...
+
+172
+00:14:20,406 --> 00:14:22,897  X1:000 X2:719 Y1:002 Y2:479
+I don't think
+they'll be performing...
+
+173
+00:14:22,975 --> 00:14:26,411  X1:000 X2:719 Y1:002 Y2:479
+this experiment on Beakman's World.
+
+174
+00:14:26,479 --> 00:14:28,413  X1:000 X2:719 Y1:002 Y2:479
+Has this been dusted?
+
+175
+00:14:28,481 --> 00:14:30,415  X1:000 X2:719 Y1:002 Y2:479
+Treatyourself.
+
+176
+00:14:30,483 --> 00:14:32,417  X1:000 X2:719 Y1:002 Y2:479
+Thanks.
+
+177
+00:14:38,357 --> 00:14:40,791  X1:000 X2:719 Y1:002 Y2:479
+Hey, Scully,
+look at these files.
+
+178
+00:14:40,860 --> 00:14:44,125  X1:000 X2:719 Y1:002 Y2:479
+" KMAN" must be Keats.
+
+179
+00:14:44,197 --> 00:14:47,428  X1:000 X2:719 Y1:002 Y2:479
+His file was turned off
+at 1 2:31 last night.
+
+180
+00:14:47,500 --> 00:14:50,435  X1:000 X2:719 Y1:002 Y2:479
+Scully: But look.
+Someone else entered a file...
+
+181
+00:14:50,503 --> 00:14:52,937  X1:000 X2:719 Y1:002 Y2:479
+under the name "Arthur," after 1 2:31 .
+
+182
+00:14:53,005 --> 00:14:55,633  X1:000 X2:719 Y1:002 Y2:479
+And worked on it
+for nearly five hours.
+
+183
+00:14:55,708 --> 00:14:58,370  X1:000 X2:719 Y1:002 Y2:479
+Well, it couldn't
+have been Keats.
+
+184
+00:14:58,444 --> 00:15:00,378  X1:000 X2:719 Y1:002 Y2:479
+judging from the rigor ofthe body...
+
+185
+00:15:00,446 --> 00:15:02,471  X1:000 X2:719 Y1:002 Y2:479
+he was dead around 1 2:30.
+
+186
+00:15:02,548 --> 00:15:04,812  X1:000 X2:719 Y1:002 Y2:479
+You're saying someone came in here,
+killed Keats...
+
+187
+00:15:04,884 --> 00:15:08,320  X1:000 X2:719 Y1:002 Y2:479
+and worked on
+an old Grable file?
+
+188
+00:15:12,892 --> 00:15:15,520  X1:000 X2:719 Y1:002 Y2:479
+I can't access the Arthur file.
+
+189
+00:15:15,628 --> 00:15:18,028  X1:000 X2:719 Y1:002 Y2:479
+We're going to need
+the password.
+
+190
+00:15:18,097 --> 00:15:21,066  X1:000 X2:719 Y1:002 Y2:479
+Try 1 5626.
+
+191
+00:15:31,544 --> 00:15:33,478  X1:000 X2:719 Y1:002 Y2:479
+How did you know that
+that was..?
+
+192
+00:15:33,546 --> 00:15:35,480  X1:000 X2:719 Y1:002 Y2:479
+This is Arthur Grable's work...
+
+193
+00:15:35,548 --> 00:15:37,778  X1:000 X2:719 Y1:002 Y2:479
+on the same fuid dynamics equations...
+
+194
+00:15:37,850 --> 00:15:39,784  X1:000 X2:719 Y1:002 Y2:479
+the others were working on.
+
+195
+00:15:39,852 --> 00:15:42,116  X1:000 X2:719 Y1:002 Y2:479
+Look at all those entries.
+
+196
+00:15:43,422 --> 00:15:46,550  X1:000 X2:719 Y1:002 Y2:479
+Someone has been continuing
+his work since he died.
+
+197
+00:15:46,659 --> 00:15:50,390  X1:000 X2:719 Y1:002 Y2:479
+How did you know
+what the password was?
+
+198
+00:15:59,238 --> 00:16:02,173  X1:000 X2:719 Y1:002 Y2:479
+Woman:
+Wave good-bye. Wave good-bye.
+
+199
+00:16:03,943 --> 00:16:05,934  X1:000 X2:719 Y1:002 Y2:479
+(child crying)
+
+200
+00:16:06,012 --> 00:16:08,173  X1:000 X2:719 Y1:002 Y2:479
+Say good-bye. Bye-bye.
+
+201
+00:16:09,682 --> 00:16:13,015  X1:000 X2:719 Y1:002 Y2:479
+Wave good-bye.
+
+202
+00:16:14,887 --> 00:16:16,821  X1:000 X2:719 Y1:002 Y2:479
+(door opening)
+
+203
+00:16:16,922 --> 00:16:18,856  X1:000 X2:719 Y1:002 Y2:479
+Roland?
+
+204
+00:16:20,860 --> 00:16:23,328  X1:000 X2:719 Y1:002 Y2:479
+Why did you sleep
+in your clothes?
+
+205
+00:16:26,232 --> 00:16:28,166  X1:000 X2:719 Y1:002 Y2:479
+Well, let's getyou dressed.
+
+206
+00:16:28,234 --> 00:16:30,725  X1:000 X2:719 Y1:002 Y2:479
+You have visitors.
+
+207
+00:16:40,112 --> 00:16:42,376  X1:000 X2:719 Y1:002 Y2:479
+I'm not supposed
+to talk to them.
+
+208
+00:16:42,448 --> 00:16:44,712  X1:000 X2:719 Y1:002 Y2:479
+Who told you that?
+
+209
+00:16:47,620 --> 00:16:52,387  X1:000 X2:719 Y1:002 Y2:479
+Remember that talkwe had
+about being shy?
+
+210
+00:16:52,491 --> 00:16:54,686  X1:000 X2:719 Y1:002 Y2:479
+These are nice people, Roland.
+
+211
+00:17:04,804 --> 00:17:07,068  X1:000 X2:719 Y1:002 Y2:479
+Hey, Roland, you have
+more shirts than I do.
+
+212
+00:17:07,139 --> 00:17:09,073  X1:000 X2:719 Y1:002 Y2:479
+I think this one would
+look stylin' today.
+
+213
+00:17:09,141 --> 00:17:11,041  X1:000 X2:719 Y1:002 Y2:479
+What doyou think?
+
+214
+00:17:11,110 --> 00:17:13,544  X1:000 X2:719 Y1:002 Y2:479
+- The green one.
+- Green one?
+
+215
+00:17:13,612 --> 00:17:15,546  X1:000 X2:719 Y1:002 Y2:479
+Please.
+
+216
+00:17:15,614 --> 00:17:17,548  X1:000 X2:719 Y1:002 Y2:479
+Mrs. Stodie...
+
+217
+00:17:17,616 --> 00:17:19,550  X1:000 X2:719 Y1:002 Y2:479
+can I talk toyou a second?
+
+218
+00:17:19,618 --> 00:17:21,745  X1:000 X2:719 Y1:002 Y2:479
+Seeyou later, Roland.
+
+219
+00:17:24,023 --> 00:17:26,048  X1:000 X2:719 Y1:002 Y2:479
+This one?
+
+220
+00:17:26,158 --> 00:17:28,388  X1:000 X2:719 Y1:002 Y2:479
+Hereyou go.
+
+221
+00:17:28,494 --> 00:17:30,758  X1:000 X2:719 Y1:002 Y2:479
+Soyou likeyourjob
+at the college, Roland?
+
+222
+00:17:30,830 --> 00:17:33,094  X1:000 X2:719 Y1:002 Y2:479
+Yes.
+
+223
+00:17:33,165 --> 00:17:35,599  X1:000 X2:719 Y1:002 Y2:479
+I hearyou're
+very good at it.
+
+224
+00:17:37,002 --> 00:17:39,596  X1:000 X2:719 Y1:002 Y2:479
+Doyou remember
+howyou gotyourjob?
+
+225
+00:17:40,940 --> 00:17:42,874  X1:000 X2:719 Y1:002 Y2:479
+A man talked to Mrs. Stodie.
+
+226
+00:17:42,942 --> 00:17:44,910  X1:000 X2:719 Y1:002 Y2:479
+What man?
+
+227
+00:17:44,977 --> 00:17:48,003  X1:000 X2:719 Y1:002 Y2:479
+Dr. Grable.
+
+228
+00:17:48,080 --> 00:17:51,243  X1:000 X2:719 Y1:002 Y2:479
+Was Dr. Grable nice toyou?
+
+229
+00:17:51,317 --> 00:17:53,615  X1:000 X2:719 Y1:002 Y2:479
+Yes.
+
+230
+00:17:53,686 --> 00:17:56,621  X1:000 X2:719 Y1:002 Y2:479
+When was the last time
+you spoke to him?
+
+231
+00:17:59,125 --> 00:18:03,459  X1:000 X2:719 Y1:002 Y2:479
+Last week?
+Day before?
+
+232
+00:18:03,529 --> 00:18:05,827  X1:000 X2:719 Y1:002 Y2:479
+Dr. Grable died.
+
+233
+00:18:08,968 --> 00:18:10,902  X1:000 X2:719 Y1:002 Y2:479
+I'm sorry.
+
+234
+00:18:10,970 --> 00:18:12,904  X1:000 X2:719 Y1:002 Y2:479
+Yes.
+
+235
+00:18:14,640 --> 00:18:17,200  X1:000 X2:719 Y1:002 Y2:479
+People die.
+
+236
+00:18:17,276 --> 00:18:20,211  X1:000 X2:719 Y1:002 Y2:479
+They go away...
+
+237
+00:18:20,279 --> 00:18:23,214  X1:000 X2:719 Y1:002 Y2:479
+and they're not supposed
+to come back.
+
+238
+00:18:26,419 --> 00:18:28,717  X1:000 X2:719 Y1:002 Y2:479
+Has Roland ever mentioned
+the name "Arthur"?
+
+239
+00:18:28,788 --> 00:18:30,722  X1:000 X2:719 Y1:002 Y2:479
+That was Dr. Grable's first name..
+
+240
+00:18:30,823 --> 00:18:34,020  X1:000 X2:719 Y1:002 Y2:479
+but we only called him
+Dr. Grable.
+
+241
+00:18:34,126 --> 00:18:37,061  X1:000 X2:719 Y1:002 Y2:479
+I doubt Roland even knew
+his first name was Arthur.
+
+242
+00:18:37,129 --> 00:18:39,063  X1:000 X2:719 Y1:002 Y2:479
+Scully:
+Mrs. Stodie, can I get a copy...
+
+243
+00:18:39,131 --> 00:18:41,031  X1:000 X2:719 Y1:002 Y2:479
+of Roland's file
+and past history?
+
+244
+00:18:41,100 --> 00:18:43,034  X1:000 X2:719 Y1:002 Y2:479
+Our histories are confidential.
+
+245
+00:18:43,102 --> 00:18:44,364  X1:000 X2:719 Y1:002 Y2:479
+I understand...
+
+246
+00:18:44,437 --> 00:18:46,371  X1:000 X2:719 Y1:002 Y2:479
+but I have grounds
+to obtain them.
+
+247
+00:18:46,439 --> 00:18:48,373  X1:000 X2:719 Y1:002 Y2:479
+The less time we spend in court...
+
+248
+00:18:48,441 --> 00:18:50,875  X1:000 X2:719 Y1:002 Y2:479
+the more time we have
+to help Roland.
+
+249
+00:18:50,943 --> 00:18:53,036  X1:000 X2:719 Y1:002 Y2:479
+Roland Fullerwas hired
+byArthur Grable.
+
+250
+00:18:53,112 --> 00:18:54,909  X1:000 X2:719 Y1:002 Y2:479
+He went to the halfway house...
+
+251
+00:18:54,980 --> 00:18:57,073  X1:000 X2:719 Y1:002 Y2:479
+specifically to find
+a mentally challenged person.
+
+252
+00:18:57,149 --> 00:18:59,083  X1:000 X2:719 Y1:002 Y2:479
+Areyou suggesting...
+
+253
+00:18:59,151 --> 00:19:02,382  X1:000 X2:719 Y1:002 Y2:479
+Arthur Grable hired Roland
+to use him?
+
+254
+00:19:02,455 --> 00:19:05,151  X1:000 X2:719 Y1:002 Y2:479
+Areyou suggesting
+Arthur Grable is not dead?
+
+255
+00:19:05,257 --> 00:19:08,715  X1:000 X2:719 Y1:002 Y2:479
+Ifhe had intentions ofkilling
+Nollette, Keats, and Surnow...
+
+256
+00:19:08,828 --> 00:19:11,388  X1:000 X2:719 Y1:002 Y2:479
+why not set it up to appear
+the least likely suspect?
+
+257
+00:19:11,497 --> 00:19:15,524  X1:000 X2:719 Y1:002 Y2:479
+Yeah, but by the look ofthis,
+he's hamburger.
+
+258
+00:19:15,601 --> 00:19:17,694  X1:000 X2:719 Y1:002 Y2:479
+Maybe he staged it.
+
+259
+00:19:17,770 --> 00:19:21,206  X1:000 X2:719 Y1:002 Y2:479
+That would explain why his work
+is continuing on...
+
+260
+00:19:21,273 --> 00:19:23,673  X1:000 X2:719 Y1:002 Y2:479
+six months after his death.
+
+261
+00:19:23,742 --> 00:19:26,836  X1:000 X2:719 Y1:002 Y2:479
+This obituary says Arthur Grable
+was born in Seattle.
+
+262
+00:19:26,912 --> 00:19:28,846  X1:000 X2:719 Y1:002 Y2:479
+His fatherwas a big banker.
+
+263
+00:19:28,914 --> 00:19:31,508  X1:000 X2:719 Y1:002 Y2:479
+His motherwas active
+in a number ofcharities.
+
+264
+00:19:31,584 --> 00:19:33,017  X1:000 X2:719 Y1:002 Y2:479
+Only child.
+
+265
+00:19:33,085 --> 00:19:35,019  X1:000 X2:719 Y1:002 Y2:479
+Summa cum laude in physics.
+
+266
+00:19:35,087 --> 00:19:37,021  X1:000 X2:719 Y1:002 Y2:479
+Doctoral and postdoctoral...
+
+267
+00:19:37,089 --> 00:19:39,819  X1:000 X2:719 Y1:002 Y2:479
+in aeronautical engineering
+at Harvey Mudd.
+
+268
+00:19:39,925 --> 00:19:43,156  X1:000 X2:719 Y1:002 Y2:479
+Brilliant future,
+tragically cut short.
+
+269
+00:19:43,229 --> 00:19:45,697  X1:000 X2:719 Y1:002 Y2:479
+Roland's also from Seattle.
+
+270
+00:19:45,798 --> 00:19:48,733  X1:000 X2:719 Y1:002 Y2:479
+He spent most ofhis life
+at the Heritage Halfway House.
+
+271
+00:19:48,801 --> 00:19:51,702  X1:000 X2:719 Y1:002 Y2:479
+The identity ofhis parents
+has been sealed.
+
+272
+00:19:51,770 --> 00:19:55,365  X1:000 X2:719 Y1:002 Y2:479
+There's no information
+on Roland before age three...
+
+273
+00:19:55,441 --> 00:19:57,375  X1:000 X2:719 Y1:002 Y2:479
+when he was put in the program.
+
+274
+00:19:57,443 --> 00:19:59,877  X1:000 X2:719 Y1:002 Y2:479
+Does it saywhen he was born?
+
+275
+00:20:01,881 --> 00:20:03,940  X1:000 X2:719 Y1:002 Y2:479
+july 1 5, 1 952.
+
+276
+00:20:10,289 --> 00:20:12,416  X1:000 X2:719 Y1:002 Y2:479
+That's also Arthur's birth date.
+
+277
+00:20:23,335 --> 00:20:25,303  X1:000 X2:719 Y1:002 Y2:479
+Don'tyou wish you could fy?
+
+278
+00:20:25,371 --> 00:20:27,464  X1:000 X2:719 Y1:002 Y2:479
+I can.
+
+279
+00:20:28,874 --> 00:20:30,808  X1:000 X2:719 Y1:002 Y2:479
+When I dream.
+
+280
+00:20:32,711 --> 00:20:35,942  X1:000 X2:719 Y1:002 Y2:479
+People can do anything
+in a dream, you know.
+
+281
+00:20:38,517 --> 00:20:44,285  X1:000 X2:719 Y1:002 Y2:479
+Once, one time,
+I had a dream we were married...
+
+282
+00:20:44,390 --> 00:20:46,881  X1:000 X2:719 Y1:002 Y2:479
+and lived in a house.
+
+283
+00:20:49,061 --> 00:20:52,030  X1:000 X2:719 Y1:002 Y2:479
+Doyou have dreams, Roland?
+
+284
+00:21:01,473 --> 00:21:04,169  X1:000 X2:719 Y1:002 Y2:479
+You can tell me.
+
+285
+00:21:04,243 --> 00:21:06,074  X1:000 X2:719 Y1:002 Y2:479
+Roland?
+
+286
+00:21:07,146 --> 00:21:10,081  X1:000 X2:719 Y1:002 Y2:479
+Who's Arthur?
+
+287
+00:21:19,224 --> 00:21:22,057  X1:000 X2:719 Y1:002 Y2:479
+I'm sorry, Roland.
+
+288
+00:21:22,127 --> 00:21:24,687  X1:000 X2:719 Y1:002 Y2:479
+I'm sorry.
+
+289
+00:21:30,169 --> 00:21:32,103  X1:000 X2:719 Y1:002 Y2:479
+Roland?
+
+290
+00:21:35,274 --> 00:21:37,708  X1:000 X2:719 Y1:002 Y2:479
+Roland?
+
+291
+00:21:37,776 --> 00:21:39,710  X1:000 X2:719 Y1:002 Y2:479
+Go away!
+
+292
+00:21:44,049 --> 00:21:45,983  X1:000 X2:719 Y1:002 Y2:479
+Roland, what's the matter?
+
+293
+00:21:46,051 --> 00:21:47,985  X1:000 X2:719 Y1:002 Y2:479
+Go away!
+
+294
+00:21:48,053 --> 00:21:50,749  X1:000 X2:719 Y1:002 Y2:479
+I don't want to hurtyou!
+
+295
+00:21:50,856 --> 00:21:54,087  X1:000 X2:719 Y1:002 Y2:479
+Go away!
+
+296
+00:21:58,497 --> 00:22:00,590  X1:000 X2:719 Y1:002 Y2:479
+Go away.
+
+297
+00:22:04,336 --> 00:22:06,270  X1:000 X2:719 Y1:002 Y2:479
+Mulder: ls thatyou?
+
+298
+00:22:06,338 --> 00:22:08,272  X1:000 X2:719 Y1:002 Y2:479
+Nollette: Yes.
+
+299
+00:22:08,374 --> 00:22:10,604  X1:000 X2:719 Y1:002 Y2:479
+What's the story here?
+
+300
+00:22:10,709 --> 00:22:13,644  X1:000 X2:719 Y1:002 Y2:479
+(sighs)
+
+301
+00:22:13,712 --> 00:22:17,648  X1:000 X2:719 Y1:002 Y2:479
+Um... a quantum physics
+professor ofmine...
+
+302
+00:22:17,716 --> 00:22:20,014  X1:000 X2:719 Y1:002 Y2:479
+at Harvey Mudd funked me.
+
+303
+00:22:20,085 --> 00:22:23,384  X1:000 X2:719 Y1:002 Y2:479
+He challenged the tenets
+ofone ofmy theories--
+
+304
+00:22:23,455 --> 00:22:25,889  X1:000 X2:719 Y1:002 Y2:479
+a theory I later published in Nature.
+
+305
+00:22:25,958 --> 00:22:28,449  X1:000 X2:719 Y1:002 Y2:479
+Anyway, to get back at him...
+
+306
+00:22:28,527 --> 00:22:31,655  X1:000 X2:719 Y1:002 Y2:479
+one afternoon,
+we decided to take his car apart...
+
+307
+00:22:31,730 --> 00:22:34,164  X1:000 X2:719 Y1:002 Y2:479
+and put it back together
+again in his office...
+
+308
+00:22:34,233 --> 00:22:36,167  X1:000 X2:719 Y1:002 Y2:479
+and left it running.
+
+309
+00:22:36,235 --> 00:22:38,169  X1:000 X2:719 Y1:002 Y2:479
+An egghead classic.
+
+310
+00:22:38,237 --> 00:22:40,000  X1:000 X2:719 Y1:002 Y2:479
+It was Grable's idea.
+
+311
+00:22:40,072 --> 00:22:42,370  X1:000 X2:719 Y1:002 Y2:479
+Scully:
+ls that Grable on the chair?
+
+312
+00:22:42,441 --> 00:22:43,703  X1:000 X2:719 Y1:002 Y2:479
+Yeah.
+
+313
+00:22:43,809 --> 00:22:45,538  X1:000 X2:719 Y1:002 Y2:479
+Was he a practical joker?
+
+314
+00:22:45,644 --> 00:22:47,578  X1:000 X2:719 Y1:002 Y2:479
+Atop ofall his brilliance...
+
+315
+00:22:47,646 --> 00:22:50,046  X1:000 X2:719 Y1:002 Y2:479
+he had a genius for
+executing elaborate schemes.
+
+316
+00:22:50,115 --> 00:22:52,879  X1:000 X2:719 Y1:002 Y2:479
+Could he be making it seem
+like a man with a 70 l.Q..
+
+317
+00:22:52,951 --> 00:22:55,476  X1:000 X2:719 Y1:002 Y2:479
+is gaining access to and operating...
+
+318
+00:22:55,554 --> 00:22:57,488  X1:000 X2:719 Y1:002 Y2:479
+his old computer files?
+
+319
+00:22:57,556 --> 00:23:02,118  X1:000 X2:719 Y1:002 Y2:479
+Arthurwould still
+have to be alive.
+
+320
+00:23:02,194 --> 00:23:04,662  X1:000 X2:719 Y1:002 Y2:479
+Could he have faked
+his own death?
+
+321
+00:23:04,730 --> 00:23:05,662  X1:000 X2:719 Y1:002 Y2:479
+No.
+
+322
+00:23:05,731 --> 00:23:07,665  X1:000 X2:719 Y1:002 Y2:479
+The police report
+on the auto accident...
+
+323
+00:23:07,733 --> 00:23:09,667  X1:000 X2:719 Y1:002 Y2:479
+that killed Grable
+is woefully incomplete.
+
+324
+00:23:09,735 --> 00:23:12,499  X1:000 X2:719 Y1:002 Y2:479
+A dry road surface,
+no mechanical problems found.
+
+325
+00:23:12,571 --> 00:23:14,505  X1:000 X2:719 Y1:002 Y2:479
+The bodywas never admitted
+to a county morgue...
+
+326
+00:23:14,573 --> 00:23:16,666  X1:000 X2:719 Y1:002 Y2:479
+and there was no funeral.
+
+327
+00:23:16,775 --> 00:23:20,711  X1:000 X2:719 Y1:002 Y2:479
+Ifyou are trying to suggest...
+
+328
+00:23:20,779 --> 00:23:24,647  X1:000 X2:719 Y1:002 Y2:479
+that Arthur Grable
+killed Surnow and Keats...
+
+329
+00:23:24,717 --> 00:23:27,686  X1:000 X2:719 Y1:002 Y2:479
+and is after me next,
+you're way off.
+
+330
+00:23:29,254 --> 00:23:31,779  X1:000 X2:719 Y1:002 Y2:479
+Art could not have done the murders.
+
+331
+00:23:31,857 --> 00:23:34,155  X1:000 X2:719 Y1:002 Y2:479
+How can you be so certain?
+
+332
+00:23:38,097 --> 00:23:40,031  X1:000 X2:719 Y1:002 Y2:479
+Man:
+This is Arthur Grable.
+
+333
+00:23:40,099 --> 00:23:42,192  X1:000 X2:719 Y1:002 Y2:479
+Because ofthe massive internal damage
+to his body...
+
+334
+00:23:42,267 --> 00:23:45,532  X1:000 X2:719 Y1:002 Y2:479
+caused by the car accident,
+we could only preserve the head.
+
+335
+00:23:45,604 --> 00:23:48,698  X1:000 X2:719 Y1:002 Y2:479
+Wouldn'tyour client
+find it inconvenient...
+
+336
+00:23:48,774 --> 00:23:50,867  X1:000 X2:719 Y1:002 Y2:479
+to be thawed out, only to discover...
+
+337
+00:23:50,976 --> 00:23:53,035  X1:000 X2:719 Y1:002 Y2:479
+he had no functional mobility?
+
+338
+00:23:53,145 --> 00:23:55,409  X1:000 X2:719 Y1:002 Y2:479
+We believe that, by the time
+science figures a way...
+
+339
+00:23:55,481 --> 00:23:57,415  X1:000 X2:719 Y1:002 Y2:479
+to revive our clients...
+
+340
+00:23:57,483 --> 00:23:59,917  X1:000 X2:719 Y1:002 Y2:479
+You'll also know how
+to clone new bodies.
+
+341
+00:23:59,985 --> 00:24:01,509  X1:000 X2:719 Y1:002 Y2:479
+Exactly.
+
+342
+00:24:01,587 --> 00:24:03,521  X1:000 X2:719 Y1:002 Y2:479
+This technology is progressing faster...
+
+343
+00:24:03,589 --> 00:24:05,352  X1:000 X2:719 Y1:002 Y2:479
+than anyone thought possible.
+
+344
+00:24:05,424 --> 00:24:07,324  X1:000 X2:719 Y1:002 Y2:479
+Ask anyone here
+at the university.
+
+345
+00:24:07,392 --> 00:24:09,451  X1:000 X2:719 Y1:002 Y2:479
+So, while for us,
+the passing ofeach second...
+
+346
+00:24:09,528 --> 00:24:11,462  X1:000 X2:719 Y1:002 Y2:479
+brings our bodies closer to death...
+
+347
+00:24:11,530 --> 00:24:14,897  X1:000 X2:719 Y1:002 Y2:479
+for our clients,
+it brings them closer to life.
+
+348
+00:24:16,502 --> 00:24:18,436  X1:000 X2:719 Y1:002 Y2:479
+These fuctuations in temperature--
+
+349
+00:24:18,504 --> 00:24:20,495  X1:000 X2:719 Y1:002 Y2:479
+Do they happen often?
+
+350
+00:24:20,572 --> 00:24:22,972  X1:000 X2:719 Y1:002 Y2:479
+No. We've had some problems
+with this capsule.
+
+351
+00:24:23,075 --> 00:24:25,009  X1:000 X2:719 Y1:002 Y2:479
+Our technicians
+have checked it...
+
+352
+00:24:25,077 --> 00:24:27,011  X1:000 X2:719 Y1:002 Y2:479
+but they've found nothing.
+
+353
+00:24:27,079 --> 00:24:29,547  X1:000 X2:719 Y1:002 Y2:479
+Could the brain
+cause the fuctuations?
+
+354
+00:24:29,648 --> 00:24:33,209  X1:000 X2:719 Y1:002 Y2:479
+No, but we are looking
+for the explanation.
+
+355
+00:24:33,285 --> 00:24:35,219  X1:000 X2:719 Y1:002 Y2:479
+The patient's in no danger.
+
+356
+00:24:35,287 --> 00:24:37,221  X1:000 X2:719 Y1:002 Y2:479
+He remains perfectly preserved...
+
+357
+00:24:37,289 --> 00:24:39,382  X1:000 X2:719 Y1:002 Y2:479
+as long as there's liquid nitrogen
+in the capsule.
+
+358
+00:24:39,458 --> 00:24:41,688  X1:000 X2:719 Y1:002 Y2:479
+Maywe take a look
+at Arthur Grable's records?
+
+359
+00:24:47,432 --> 00:24:49,366  X1:000 X2:719 Y1:002 Y2:479
+Thankyou.
+
+360
+00:24:53,505 --> 00:24:55,439  X1:000 X2:719 Y1:002 Y2:479
+Dr. Barrington...
+
+361
+00:24:55,541 --> 00:24:57,509  X1:000 X2:719 Y1:002 Y2:479
+in the future,
+what requirements will exist...
+
+362
+00:24:57,576 --> 00:24:59,806  X1:000 X2:719 Y1:002 Y2:479
+to be an organ or tissue donor?
+
+363
+00:24:59,912 --> 00:25:01,777  X1:000 X2:719 Y1:002 Y2:479
+Same requirements
+as there are today.
+
+364
+00:25:01,847 --> 00:25:03,781  X1:000 X2:719 Y1:002 Y2:479
+Compatible genetic makeup.
+
+365
+00:25:03,849 --> 00:25:06,841  X1:000 X2:719 Y1:002 Y2:479
+It's best ifthe donor's related.
+
+366
+00:25:08,387 --> 00:25:10,321  X1:000 X2:719 Y1:002 Y2:479
+Mulder...
+
+367
+00:25:13,425 --> 00:25:15,859  X1:000 X2:719 Y1:002 Y2:479
+Arthur Grable put down
+only one donor.
+
+368
+00:25:15,928 --> 00:25:20,126  X1:000 X2:719 Y1:002 Y2:479
+Mulder: Roland Fuller and
+Arthur Grable had the same birthday.
+
+369
+00:25:20,199 --> 00:25:23,032  X1:000 X2:719 Y1:002 Y2:479
+I think they're twins.
+
+370
+00:25:24,770 --> 00:25:26,704  X1:000 X2:719 Y1:002 Y2:479
+Older oryounger?
+
+371
+00:25:26,772 --> 00:25:28,706  X1:000 X2:719 Y1:002 Y2:479
+Same age...
+
+372
+00:25:28,807 --> 00:25:30,741  X1:000 X2:719 Y1:002 Y2:479
+just less hairy
+and with better eyesight.
+
+373
+00:25:30,809 --> 00:25:32,572  X1:000 X2:719 Y1:002 Y2:479
+And the moustache?
+
+374
+00:25:32,678 --> 00:25:34,737  X1:000 X2:719 Y1:002 Y2:479
+Scully:
+No. Lose the whole beard.
+
+375
+00:25:39,852 --> 00:25:41,717  X1:000 X2:719 Y1:002 Y2:479
+Next?
+
+376
+00:25:41,787 --> 00:25:43,379  X1:000 X2:719 Y1:002 Y2:479
+Close-cropped hair...
+
+377
+00:25:43,455 --> 00:25:46,185  X1:000 X2:719 Y1:002 Y2:479
+with a slightly receding
+widow's peak.
+
+378
+00:25:50,762 --> 00:25:52,423  X1:000 X2:719 Y1:002 Y2:479
+Lose the glasses.
+
+379
+00:25:54,933 --> 00:25:57,026  X1:000 X2:719 Y1:002 Y2:479
+That's Roland.
+
+380
+00:25:57,102 --> 00:25:59,161  X1:000 X2:719 Y1:002 Y2:479
+Give or take a few pounds.
+
+381
+00:26:07,846 --> 00:26:10,781  X1:000 X2:719 Y1:002 Y2:479
+Tell me aboutyour dreams, Roland.
+
+382
+00:26:16,355 --> 00:26:19,119  X1:000 X2:719 Y1:002 Y2:479
+It's all right.
+I won't tell anybody.
+
+383
+00:26:24,329 --> 00:26:27,264  X1:000 X2:719 Y1:002 Y2:479
+You know,
+I had a dream last night.
+
+384
+00:26:28,901 --> 00:26:31,768  X1:000 X2:719 Y1:002 Y2:479
+I dreamt I was swimming
+in this pool...
+
+385
+00:26:31,837 --> 00:26:35,773  X1:000 X2:719 Y1:002 Y2:479
+and I could see my father underwater...
+
+386
+00:26:35,874 --> 00:26:39,742  X1:000 X2:719 Y1:002 Y2:479
+but when I dove down,
+the water stung my eyes.
+
+387
+00:26:41,046 --> 00:26:45,949  X1:000 X2:719 Y1:002 Y2:479
+Then there was another man
+at the pool, watching me.
+
+388
+00:26:46,018 --> 00:26:48,953  X1:000 X2:719 Y1:002 Y2:479
+He upset me.
+
+389
+00:26:49,021 --> 00:26:53,924  X1:000 X2:719 Y1:002 Y2:479
+He was asking me questions
+I didn't want to answer...
+
+390
+00:26:53,992 --> 00:26:55,926  X1:000 X2:719 Y1:002 Y2:479
+and I had to leave.
+
+391
+00:26:55,994 --> 00:26:58,462  X1:000 X2:719 Y1:002 Y2:479
+I couldn't find my father.
+
+392
+00:27:05,437 --> 00:27:08,406  X1:000 X2:719 Y1:002 Y2:479
+I can't tell you my dreams.
+
+393
+00:27:08,473 --> 00:27:10,304  X1:000 X2:719 Y1:002 Y2:479
+Why not?
+
+394
+00:27:15,113 --> 00:27:17,047  X1:000 X2:719 Y1:002 Y2:479
+Bad.
+
+395
+00:27:20,285 --> 00:27:23,186  X1:000 X2:719 Y1:002 Y2:479
+Your dreams are bad, Roland...
+
+396
+00:27:23,255 --> 00:27:25,189  X1:000 X2:719 Y1:002 Y2:479
+notyou.
+
+397
+00:27:25,257 --> 00:27:28,090  X1:000 X2:719 Y1:002 Y2:479
+You're a good person.
+
+398
+00:27:33,065 --> 00:27:34,999  X1:000 X2:719 Y1:002 Y2:479
+I hit Tracy.
+
+399
+00:27:39,004 --> 00:27:41,700  X1:000 X2:719 Y1:002 Y2:479
+Your dreams makeyou hit Tracy?
+
+400
+00:28:12,704 --> 00:28:15,138  X1:000 X2:719 Y1:002 Y2:479
+You know how to work
+this toy, Roland?
+
+401
+00:28:16,808 --> 00:28:18,742  X1:000 X2:719 Y1:002 Y2:479
+Here.
+
+402
+00:28:39,131 --> 00:28:42,532  X1:000 X2:719 Y1:002 Y2:479
+You see,
+the wayyou work that toy...
+
+403
+00:28:42,601 --> 00:28:44,694  X1:000 X2:719 Y1:002 Y2:479
+is like what's happening toyou.
+
+404
+00:28:47,072 --> 00:28:49,040  X1:000 X2:719 Y1:002 Y2:479
+You're the spaceship, Roland...
+
+405
+00:28:50,942 --> 00:28:53,206  X1:000 X2:719 Y1:002 Y2:479
+and your dreams
+are the controls.
+
+406
+00:28:58,383 --> 00:29:00,248  X1:000 X2:719 Y1:002 Y2:479
+Who...?
+
+407
+00:29:01,920 --> 00:29:04,184  X1:000 X2:719 Y1:002 Y2:479
+Who runs the controls?
+
+408
+00:29:09,261 --> 00:29:11,661  X1:000 X2:719 Y1:002 Y2:479
+Haveyou seen this man recently?
+
+409
+00:29:18,870 --> 00:29:22,237  X1:000 X2:719 Y1:002 Y2:479
+Woman:
+We have to say bye-bye to Roland.
+
+410
+00:29:27,179 --> 00:29:30,012  X1:000 X2:719 Y1:002 Y2:479
+(screaming)
+
+411
+00:29:30,082 --> 00:29:31,208  X1:000 X2:719 Y1:002 Y2:479
+Roland.
+
+412
+00:29:31,283 --> 00:29:33,217  X1:000 X2:719 Y1:002 Y2:479
+Roland!
+
+413
+00:29:33,285 --> 00:29:35,583  X1:000 X2:719 Y1:002 Y2:479
+Roland, stop.
+
+414
+00:29:35,654 --> 00:29:37,588  X1:000 X2:719 Y1:002 Y2:479
+Roland!
+
+415
+00:29:41,827 --> 00:29:43,852  X1:000 X2:719 Y1:002 Y2:479
+Roland!
+
+416
+00:29:47,699 --> 00:29:49,098  X1:000 X2:719 Y1:002 Y2:479
+Roland?
+
+417
+00:29:49,167 --> 00:29:52,261  X1:000 X2:719 Y1:002 Y2:479
+We need to keep
+Roland under observation.
+
+418
+00:29:55,173 --> 00:29:57,164  X1:000 X2:719 Y1:002 Y2:479
+Roland?
+
+419
+00:29:57,275 --> 00:29:59,004  X1:000 X2:719 Y1:002 Y2:479
+(glass breaking)
+
+420
+00:29:59,111 --> 00:30:02,547  X1:000 X2:719 Y1:002 Y2:479
+He's trying to get away.
+
+421
+00:30:03,849 --> 00:30:06,113  X1:000 X2:719 Y1:002 Y2:479
+Roland!
+
+422
+00:30:06,184 --> 00:30:08,118  X1:000 X2:719 Y1:002 Y2:479
+Roland!
+
+423
+00:30:23,768 --> 00:30:25,702  X1:000 X2:719 Y1:002 Y2:479
+Nollette's gone.
+
+424
+00:30:25,770 --> 00:30:28,034  X1:000 X2:719 Y1:002 Y2:479
+We should arrange
+a security guard to find him.
+
+425
+00:30:28,106 --> 00:30:30,540  X1:000 X2:719 Y1:002 Y2:479
+No one's going
+to provideyou with anything...
+
+426
+00:30:30,609 --> 00:30:32,543  X1:000 X2:719 Y1:002 Y2:479
+onceyou explain your theory...
+
+427
+00:30:32,611 --> 00:30:35,978  X1:000 X2:719 Y1:002 Y2:479
+on how Roland Fuller
+is capable ofthese murders.
+
+428
+00:30:36,047 --> 00:30:38,572  X1:000 X2:719 Y1:002 Y2:479
+You've got a brother,
+don'tyou, Scully?
+
+429
+00:30:38,650 --> 00:30:40,413  X1:000 X2:719 Y1:002 Y2:479
+Yeah, two.
+
+430
+00:30:40,485 --> 00:30:42,419  X1:000 X2:719 Y1:002 Y2:479
+Haveyou ever thought about
+calling one ofthem...
+
+431
+00:30:42,487 --> 00:30:44,421  X1:000 X2:719 Y1:002 Y2:479
+and then all ofa sudden,
+the phone rings...
+
+432
+00:30:44,489 --> 00:30:46,389  X1:000 X2:719 Y1:002 Y2:479
+and it's one ofthem calling you?
+
+433
+00:30:46,491 --> 00:30:48,425  X1:000 X2:719 Y1:002 Y2:479
+Does this pitch end...
+
+434
+00:30:48,493 --> 00:30:50,358  X1:000 X2:719 Y1:002 Y2:479
+with a way for me to lower
+my long distance charges?
+
+435
+00:30:50,428 --> 00:30:52,225  X1:000 X2:719 Y1:002 Y2:479
+Evidence suggests psychic connections...
+
+436
+00:30:52,297 --> 00:30:54,231  X1:000 X2:719 Y1:002 Y2:479
+are stronger between
+family members.
+
+437
+00:30:54,299 --> 00:30:57,462  X1:000 X2:719 Y1:002 Y2:479
+Particularly between twins
+that shared the same womb.
+
+438
+00:30:57,536 --> 00:31:00,164  X1:000 X2:719 Y1:002 Y2:479
+Okay, but in this case...
+
+439
+00:31:00,238 --> 00:31:02,604  X1:000 X2:719 Y1:002 Y2:479
+one sibling has closer ties
+to a frozen Fudgsicle...
+
+440
+00:31:02,674 --> 00:31:04,608  X1:000 X2:719 Y1:002 Y2:479
+than to his own brother.
+
+441
+00:31:04,676 --> 00:31:06,610  X1:000 X2:719 Y1:002 Y2:479
+Arthur Grable is not dead.
+
+442
+00:31:06,678 --> 00:31:08,612  X1:000 X2:719 Y1:002 Y2:479
+He's in a state ofconsciousness...
+
+443
+00:31:08,680 --> 00:31:10,978  X1:000 X2:719 Y1:002 Y2:479
+that no human
+has ever returned from.
+
+444
+00:31:11,049 --> 00:31:13,779  X1:000 X2:719 Y1:002 Y2:479
+What ifthat state allows one
+to develop psychic ability...
+
+445
+00:31:13,852 --> 00:31:17,117  X1:000 X2:719 Y1:002 Y2:479
+beyond the potential
+ofthe conscious mind?
+
+446
+00:31:17,189 --> 00:31:20,283  X1:000 X2:719 Y1:002 Y2:479
+He could use that ability
+to control his brother...
+
+447
+00:31:20,392 --> 00:31:23,225  X1:000 X2:719 Y1:002 Y2:479
+to kill those scientists.
+
+448
+00:31:23,295 --> 00:31:25,422  X1:000 X2:719 Y1:002 Y2:479
+But whywould he kill
+his colleagues?
+
+449
+00:31:25,530 --> 00:31:27,794  X1:000 X2:719 Y1:002 Y2:479
+That's a question
+only Dr. Nollette can answer.
+
+450
+00:31:29,234 --> 00:31:31,168  X1:000 X2:719 Y1:002 Y2:479
+Okay, let's go.
+
+451
+00:31:31,236 --> 00:31:33,170  X1:000 X2:719 Y1:002 Y2:479
+I have to call my brother.
+
+452
+00:31:37,042 --> 00:31:39,602  X1:000 X2:719 Y1:002 Y2:479
+Mulder:
+We'vegot to fiindNollette.
+
+453
+00:31:39,678 --> 00:31:41,612  X1:000 X2:719 Y1:002 Y2:479
+Scully:
+Let's talk to campussecurity.
+
+454
+00:31:41,680 --> 00:31:43,614  X1:000 X2:719 Y1:002 Y2:479
+Wego this way?
+
+455
+00:31:43,682 --> 00:31:46,082  X1:000 X2:719 Y1:002 Y2:479
+No, wegoleft.
+
+456
+00:32:07,505 --> 00:32:10,872  X1:000 X2:719 Y1:002 Y2:479
+Well, whereveryou are, Arthur...
+
+457
+00:32:10,942 --> 00:32:15,470  X1:000 X2:719 Y1:002 Y2:479
+I'm sureyou'll appreciate this.
+
+458
+00:34:11,996 --> 00:34:14,430  X1:000 X2:719 Y1:002 Y2:479
+Arthur and Roland Grable.
+
+459
+00:34:14,499 --> 00:34:17,434  X1:000 X2:719 Y1:002 Y2:479
+Born at Puget Presbyterian
+to Mr. and Mrs. Lewis Grable...
+
+460
+00:34:17,502 --> 00:34:19,936  X1:000 X2:719 Y1:002 Y2:479
+onJuly 1 5, 1 952.
+
+461
+00:34:20,004 --> 00:34:23,667  X1:000 X2:719 Y1:002 Y2:479
+Arthurwas four minutes
+older than Roland.
+
+462
+00:34:23,742 --> 00:34:25,676  X1:000 X2:719 Y1:002 Y2:479
+Identical twins.
+
+463
+00:34:25,744 --> 00:34:28,679  X1:000 X2:719 Y1:002 Y2:479
+Which means
+they're the result ofa single egg...
+
+464
+00:34:28,747 --> 00:34:32,183  X1:000 X2:719 Y1:002 Y2:479
+fertilized by a single sperm.
+
+465
+00:34:32,250 --> 00:34:34,184  X1:000 X2:719 Y1:002 Y2:479
+I've read studies...
+
+466
+00:34:34,252 --> 00:34:36,186  X1:000 X2:719 Y1:002 Y2:479
+which suggest that, in some cases...
+
+467
+00:34:36,254 --> 00:34:38,279  X1:000 X2:719 Y1:002 Y2:479
+the identical twin arises
+very early in the embryonic stage...
+
+468
+00:34:38,356 --> 00:34:40,824  X1:000 X2:719 Y1:002 Y2:479
+when a mutation in one cell
+is rejected by the other cells...
+
+469
+00:34:40,892 --> 00:34:42,826  X1:000 X2:719 Y1:002 Y2:479
+as foreign.
+
+470
+00:34:42,894 --> 00:34:44,828  X1:000 X2:719 Y1:002 Y2:479
+So Roland's condition
+is the result of...
+
+471
+00:34:44,896 --> 00:34:47,626  X1:000 X2:719 Y1:002 Y2:479
+a damaged chromosome rejected
+by one ofArthur's cells?
+
+472
+00:34:47,699 --> 00:34:49,963  X1:000 X2:719 Y1:002 Y2:479
+In a way,
+that would explain Arthur's genius...
+
+473
+00:34:50,034 --> 00:34:51,968  X1:000 X2:719 Y1:002 Y2:479
+and Roland's strange mathematical gift.
+
+474
+00:34:52,036 --> 00:34:53,799  X1:000 X2:719 Y1:002 Y2:479
+In a way.
+
+475
+00:34:53,872 --> 00:34:55,635  X1:000 X2:719 Y1:002 Y2:479
+(phone rings)
+
+476
+00:34:55,707 --> 00:34:57,641  X1:000 X2:719 Y1:002 Y2:479
+Agent Scully.
+
+477
+00:34:57,709 --> 00:35:00,303  X1:000 X2:719 Y1:002 Y2:479
+This is Larry Barrington
+at the Avalon Foundation.
+
+478
+00:35:00,378 --> 00:35:02,346  X1:000 X2:719 Y1:002 Y2:479
+We've got a situation here.
+
+479
+00:35:02,414 --> 00:35:03,608  X1:000 X2:719 Y1:002 Y2:479
+Uh-huh.
+
+480
+00:35:03,681 --> 00:35:06,775  X1:000 X2:719 Y1:002 Y2:479
+Last night,
+we had a break-in at the facility.
+
+481
+00:35:06,851 --> 00:35:08,785  X1:000 X2:719 Y1:002 Y2:479
+That's right.
+
+482
+00:35:08,853 --> 00:35:11,083  X1:000 X2:719 Y1:002 Y2:479
+It's Arthur Grable's storage unit.
+
+483
+00:35:11,156 --> 00:35:13,215  X1:000 X2:719 Y1:002 Y2:479
+His internalthermostat's
+been compromised.
+
+484
+00:35:13,324 --> 00:35:15,383  X1:000 X2:719 Y1:002 Y2:479
+Well, is there any tissue damage?
+
+485
+00:35:15,493 --> 00:35:17,427  X1:000 X2:719 Y1:002 Y2:479
+We're trying to assess that now.
+
+486
+00:35:17,495 --> 00:35:19,429  X1:000 X2:719 Y1:002 Y2:479
+The temperature's still rising.
+
+487
+00:35:19,497 --> 00:35:22,432  X1:000 X2:719 Y1:002 Y2:479
+Something's blocking our access
+to the cooling program.
+
+488
+00:35:24,169 --> 00:35:26,660  X1:000 X2:719 Y1:002 Y2:479
+Someone tampered with
+Arthur Grable's capsule.
+
+489
+00:35:26,738 --> 00:35:28,933  X1:000 X2:719 Y1:002 Y2:479
+They're attempting
+to stabilize it now.
+
+490
+00:35:30,508 --> 00:35:32,635  X1:000 X2:719 Y1:002 Y2:479
+Nollette.
+
+491
+00:36:25,296 --> 00:36:27,230  X1:000 X2:719 Y1:002 Y2:479
+What?
+
+492
+00:36:28,399 --> 00:36:30,333  X1:000 X2:719 Y1:002 Y2:479
+What is it?
+
+493
+00:36:49,487 --> 00:36:52,183  X1:000 X2:719 Y1:002 Y2:479
+(alarm ringing)
+
+494
+00:37:00,798 --> 00:37:05,428  X1:000 X2:719 Y1:002 Y2:479
+"Ifl have seen further
+than other men...
+
+495
+00:37:05,503 --> 00:37:10,941  X1:000 X2:719 Y1:002 Y2:479
+it's because I have stood
+on the shoulders ofgiants."
+
+496
+00:37:11,009 --> 00:37:15,105  X1:000 X2:719 Y1:002 Y2:479
+No.
+
+497
+00:37:15,179 --> 00:37:18,671  X1:000 X2:719 Y1:002 Y2:479
+This isn'tyours.
+
+498
+00:37:18,750 --> 00:37:21,241  X1:000 X2:719 Y1:002 Y2:479
+It's amazing.
+
+499
+00:37:21,319 --> 00:37:24,117  X1:000 X2:719 Y1:002 Y2:479
+There's this body sitting there...
+
+500
+00:37:24,188 --> 00:37:26,122  X1:000 X2:719 Y1:002 Y2:479
+in front ofme talking...
+
+501
+00:37:26,190 --> 00:37:29,887  X1:000 X2:719 Y1:002 Y2:479
+butyou're controlling it, Arthur.
+
+502
+00:37:29,994 --> 00:37:34,431  X1:000 X2:719 Y1:002 Y2:479
+You took mywork.
+
+503
+00:37:34,532 --> 00:37:36,466  X1:000 X2:719 Y1:002 Y2:479
+(snickers)
+
+504
+00:37:36,534 --> 00:37:38,468  X1:000 X2:719 Y1:002 Y2:479
+What good was yourwork
+going to doyou?
+
+505
+00:37:38,536 --> 00:37:40,504  X1:000 X2:719 Y1:002 Y2:479
+You died before
+you could finish it...
+
+506
+00:37:40,572 --> 00:37:42,665  X1:000 X2:719 Y1:002 Y2:479
+beforeyou could publish it.
+
+507
+00:37:42,740 --> 00:37:44,867  X1:000 X2:719 Y1:002 Y2:479
+It was mine!
+
+508
+00:37:44,943 --> 00:37:46,877  X1:000 X2:719 Y1:002 Y2:479
+And a brilliant piece ofwork too.
+
+509
+00:37:46,945 --> 00:37:49,209  X1:000 X2:719 Y1:002 Y2:479
+When I saw the writing
+on the white board...
+
+510
+00:37:49,280 --> 00:37:51,214  X1:000 X2:719 Y1:002 Y2:479
+I knew someone had found the key.
+
+511
+00:37:51,282 --> 00:37:53,546  X1:000 X2:719 Y1:002 Y2:479
+Mach 1 5 was within our reach.
+
+512
+00:37:53,618 --> 00:37:55,882  X1:000 X2:719 Y1:002 Y2:479
+Our futures were guaranteed.
+
+513
+00:37:55,954 --> 00:37:58,047  X1:000 X2:719 Y1:002 Y2:479
+Ironic, isn't it?
+
+514
+00:37:58,122 --> 00:38:00,556  X1:000 X2:719 Y1:002 Y2:479
+You did all the work...
+
+515
+00:38:00,658 --> 00:38:02,455  X1:000 X2:719 Y1:002 Y2:479
+and I get all the glory.
+
+516
+00:38:02,594 --> 00:38:04,528  X1:000 X2:719 Y1:002 Y2:479
+No!
+
+517
+00:38:04,596 --> 00:38:06,530  X1:000 X2:719 Y1:002 Y2:479
+Yes.
+
+518
+00:38:06,598 --> 00:38:09,089  X1:000 X2:719 Y1:002 Y2:479
+Yes, Arthur.
+
+519
+00:38:09,200 --> 00:38:12,658  X1:000 X2:719 Y1:002 Y2:479
+I was here working
+on the intake problem...
+
+520
+00:38:12,737 --> 00:38:16,833  X1:000 X2:719 Y1:002 Y2:479
+moments away from a solution
+when you attacked me.
+
+521
+00:38:16,908 --> 00:38:19,069  X1:000 X2:719 Y1:002 Y2:479
+Fortunately, I was carrying a gun.
+
+522
+00:38:19,143 --> 00:38:22,704  X1:000 X2:719 Y1:002 Y2:479
+After the murder ofmy colleagues,
+who could blame me?
+
+523
+00:38:23,748 --> 00:38:25,340  X1:000 X2:719 Y1:002 Y2:479
+No.
+
+524
+00:38:25,416 --> 00:38:28,214  X1:000 X2:719 Y1:002 Y2:479
+Oh, that's interesting.
+
+525
+00:38:29,287 --> 00:38:31,346  X1:000 X2:719 Y1:002 Y2:479
+(laughs:)
+I've got it.
+
+526
+00:38:31,422 --> 00:38:33,890  X1:000 X2:719 Y1:002 Y2:479
+That's it.
+
+527
+00:38:33,958 --> 00:38:36,654  X1:000 X2:719 Y1:002 Y2:479
+I've got it!
+
+528
+00:39:21,305 --> 00:39:25,605  X1:000 X2:719 Y1:002 Y2:479
+(groans)
+
+529
+00:39:35,386 --> 00:39:37,320  X1:000 X2:719 Y1:002 Y2:479
+Arthur!
+
+530
+00:39:41,092 --> 00:39:44,027  X1:000 X2:719 Y1:002 Y2:479
+Arthur, open the door!
+
+531
+00:39:46,164 --> 00:39:47,324  X1:000 X2:719 Y1:002 Y2:479
+Arthur!
+
+532
+00:40:20,098 --> 00:40:22,532  X1:000 X2:719 Y1:002 Y2:479
+Arthur, how doyou stop this?!
+
+533
+00:40:22,600 --> 00:40:24,795  X1:000 X2:719 Y1:002 Y2:479
+Tell me how!
+Arthur!
+
+534
+00:40:24,869 --> 00:40:29,135  X1:000 X2:719 Y1:002 Y2:479
+Wait!
+Roland, we need you to help us.
+
+535
+00:40:29,207 --> 00:40:31,232  X1:000 X2:719 Y1:002 Y2:479
+Please, we need you to help us...
+
+536
+00:40:31,309 --> 00:40:33,243  X1:000 X2:719 Y1:002 Y2:479
+to stop the machine.
+
+537
+00:40:34,278 --> 00:40:37,008  X1:000 X2:719 Y1:002 Y2:479
+(child crying)
+
+538
+00:40:37,081 --> 00:40:39,242  X1:000 X2:719 Y1:002 Y2:479
+Try to remember how.
+
+539
+00:40:41,152 --> 00:40:44,212  X1:000 X2:719 Y1:002 Y2:479
+Roland, you've got to help him
+or he'll die.
+
+540
+00:40:49,594 --> 00:40:51,721  X1:000 X2:719 Y1:002 Y2:479
+Wave good-bye, Arthur.
+
+541
+00:41:09,413 --> 00:41:10,846  X1:000 X2:719 Y1:002 Y2:479
+(screaming)
+
+542
+00:41:10,915 --> 00:41:13,509  X1:000 X2:719 Y1:002 Y2:479
+Mulder:
+Come on, Roland.
+
+543
+00:41:13,584 --> 00:41:15,677  X1:000 X2:719 Y1:002 Y2:479
+Roland:
+I can't remember...
+
+544
+00:41:15,753 --> 00:41:17,015  X1:000 X2:719 Y1:002 Y2:479
+(yells)
+
+545
+00:41:55,993 --> 00:41:57,927  X1:000 X2:719 Y1:002 Y2:479
+Scully:
+He'll be held in...
+
+546
+00:41:57,995 --> 00:42:00,225  X1:000 X2:719 Y1:002 Y2:479
+psychiatric custody for evaluation.
+
+547
+00:42:00,298 --> 00:42:02,163  X1:000 X2:719 Y1:002 Y2:479
+Is he being charged
+with a crime?
+
+548
+00:42:02,233 --> 00:42:05,498  X1:000 X2:719 Y1:002 Y2:479
+The D.A. hasn't made
+that determination yet.
+
+549
+00:42:05,570 --> 00:42:09,199  X1:000 X2:719 Y1:002 Y2:479
+But we've recommended that
+he be remanded toyour custody...
+
+550
+00:42:09,273 --> 00:42:11,537  X1:000 X2:719 Y1:002 Y2:479
+as soon as the court
+deems it appropriate.
+
+551
+00:42:11,609 --> 00:42:13,873  X1:000 X2:719 Y1:002 Y2:479
+How could this happen?
+
+552
+00:42:13,945 --> 00:42:17,210  X1:000 X2:719 Y1:002 Y2:479
+Roland never exhibited
+anyviolent tendencies.
+
+553
+00:42:17,281 --> 00:42:22,150  X1:000 X2:719 Y1:002 Y2:479
+It's my beliefthat he wasn't
+acting under his own volition.
+
+554
+00:42:22,220 --> 00:42:24,347  X1:000 X2:719 Y1:002 Y2:479
+What doyou mean?
+
+555
+00:42:24,422 --> 00:42:27,152  X1:000 X2:719 Y1:002 Y2:479
+This is the work ofArthur Grable,
+Roland's brother.
+
+556
+00:42:27,258 --> 00:42:29,192  X1:000 X2:719 Y1:002 Y2:479
+It's a new theory ofjet propulsion...
+
+557
+00:42:29,260 --> 00:42:31,524  X1:000 X2:719 Y1:002 Y2:479
+unfinished at the time
+ofhis death.
+
+558
+00:42:31,596 --> 00:42:33,530  X1:000 X2:719 Y1:002 Y2:479
+In the last two weeks Roland has...
+
+559
+00:42:33,598 --> 00:42:35,395  X1:000 X2:719 Y1:002 Y2:479
+completed the calculations.
+
+560
+00:42:35,466 --> 00:42:36,524  X1:000 X2:719 Y1:002 Y2:479
+How?
+
+561
+00:42:36,601 --> 00:42:38,626  X1:000 X2:719 Y1:002 Y2:479
+We're not sure, Mrs. Stodie.
+
+562
+00:42:38,703 --> 00:42:40,637  X1:000 X2:719 Y1:002 Y2:479
+All we know is that Roland...
+
+563
+00:42:40,705 --> 00:42:43,299  X1:000 X2:719 Y1:002 Y2:479
+was somehow able to finish
+his brother's research.
+
+564
+00:43:01,826 --> 00:43:03,760  X1:000 X2:719 Y1:002 Y2:479
+Roland?
+
+565
+00:43:07,531 --> 00:43:09,465  X1:000 X2:719 Y1:002 Y2:479
+Where areyou going?
+
+566
+00:43:13,037 --> 00:43:15,198  X1:000 X2:719 Y1:002 Y2:479
+Roland, don't go.
+
+567
+00:43:15,273 --> 00:43:18,436  X1:000 X2:719 Y1:002 Y2:479
+I have to.
+
+568
+00:43:18,509 --> 00:43:21,103  X1:000 X2:719 Y1:002 Y2:479
+Okay. Bye.
+
+569
+00:43:22,813 --> 00:43:26,715  X1:000 X2:719 Y1:002 Y2:479
+Tracy...
+
+570
+00:43:26,784 --> 00:43:28,718  X1:000 X2:719 Y1:002 Y2:479
+wait.
+
+571
+00:43:42,333 --> 00:43:44,267  X1:000 X2:719 Y1:002 Y2:479
+Keep my stars.
+
+572
+00:43:57,081 --> 00:44:01,347  X1:000 X2:719 Y1:002 Y2:479
+I loveyou.
+
+573
+00:44:01,419 --> 00:44:04,354  X1:000 X2:719 Y1:002 Y2:479
+Me too.
+

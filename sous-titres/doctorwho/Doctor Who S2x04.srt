@@ -1,0 +1,2787 @@
+1
+00:00:04,653 --> 00:00:07,281  X1:078 X2:237 Y1:488 Y2:523
+SCREAMING
+
+2
+00:00:13,728 --> 00:00:15,802  X1:224 X2:495 Y1:488 Y2:523
+We are under attack.
+
+3
+00:00:15,842 --> 00:00:17,442  X1:228 X2:491 Y1:488 Y2:523
+There are creatures.
+
+4
+00:00:17,482 --> 00:00:19,039  X1:148 X2:571 Y1:488 Y2:523
+I don't even think they're human.
+
+5
+00:00:19,079 --> 00:00:21,117  X1:228 X2:491 Y1:452 Y2:523
+We can't stop them.
+The clock is broken.
+
+6
+00:00:21,157 --> 00:00:22,637  X1:272 X2:447 Y1:488 Y2:523
+He's coming.
+
+7
+00:00:22,677 --> 00:00:26,114  X1:198 X2:521 Y1:488 Y2:523
+Did you hear what I said?
+
+8
+00:00:26,154 --> 00:00:27,634  X1:270 X2:449 Y1:488 Y2:523
+Listen to me.
+
+9
+00:00:27,674 --> 00:00:29,790  X1:128 X2:591 Y1:488 Y2:523
+There is a man coming to Versailles.
+
+10
+00:00:29,830 --> 00:00:33,224  X1:116 X2:603 Y1:452 Y2:523
+He has watched over me my whole life
+and he will not desert me tonight.
+
+11
+00:00:33,264 --> 00:00:35,304  X1:178 X2:539 Y1:452 Y2:523
+What are you talking about?
+What man?
+
+12
+00:00:35,344 --> 00:00:38,258  X1:200 X2:517 Y1:452 Y2:523
+The only man, save you,
+I have ever loved.
+
+13
+00:00:38,298 --> 00:00:41,775  X1:138 X2:581 Y1:452 Y2:523
+No, don't look like that, there's no
+time. You have your duties.
+
+14
+00:00:41,815 --> 00:00:45,290  X1:116 X2:601 Y1:488 Y2:523
+I am your mistress, go to your Queen.
+
+15
+00:00:45,330 --> 00:00:48,453  X1:142 X2:577 Y1:488 Y2:523
+Are you there? Can you hear me?
+
+16
+00:00:49,130 --> 00:00:52,324  X1:162 X2:557 Y1:488 Y2:523
+I need you now, you promised.
+
+17
+00:00:52,364 --> 00:00:54,241  X1:140 X2:579 Y1:488 Y2:523
+The clock on the mantel is broken!
+
+18
+00:00:54,281 --> 00:00:55,801  X1:292 X2:427 Y1:488 Y2:523
+It is time!
+
+19
+00:00:55,841 --> 00:00:58,338  X1:254 X2:465 Y1:488 Y2:523
+Doctor! Doctor!
+
+20
+00:01:48,388 --> 00:01:51,061  X1:188 X2:531 Y1:488 Y2:523
+It's a space ship. Brilliant!
+
+21
+00:01:51,101 --> 00:01:53,140  X1:150 X2:567 Y1:344 Y2:379
+I got a space ship on my first go!
+
+22
+00:01:53,180 --> 00:01:54,900  X1:196 X2:523 Y1:344 Y2:379
+Looks kind of abandoned.
+
+23
+00:01:54,940 --> 00:01:56,816  X1:116 X2:603 Y1:344 Y2:379
+Anyone on board? Nah, nothing here.
+
+24
+00:01:56,856 --> 00:01:58,613  X1:196 X2:523 Y1:344 Y2:379
+Well, nothing dangerous.
+
+25
+00:01:58,653 --> 00:02:00,690  X1:194 X2:525 Y1:344 Y2:379
+Well, not that dangerous.
+
+26
+00:02:00,730 --> 00:02:04,167  X1:184 X2:535 Y1:452 Y2:523
+You know what?
+I'll just have a quick scan. . .
+
+27
+00:02:04,207 --> 00:02:06,484  X1:162 X2:613 Y1:488 Y2:523
+in case there's anything dangerous.
+
+28
+00:02:06,524 --> 00:02:09,484  X1:208 X2:509 Y1:452 Y2:523
+So, what's the date?
+How far have we gone?
+
+29
+00:02:09,524 --> 00:02:14,277  X1:196 X2:521 Y1:452 Y2:523
+About 3, 000 years into
+your future, give or take.
+
+30
+00:02:14,317 --> 00:02:15,837  X1:248 X2:471 Y1:488 Y2:523
+The 51st Century.
+
+31
+00:02:15,877 --> 00:02:19,551  X1:116 X2:603 Y1:452 Y2:523
+The Dagmar Cluster.
+You're a long way from home, Mickey!
+
+32
+00:02:19,591 --> 00:02:21,789  X1:204 X2:515 Y1:488 Y2:523
+Two and a half galaxies!
+
+33
+00:02:21,829 --> 00:02:24,390  X1:144 X2:575 Y1:488 Y2:523
+Mickey Smith, meet the universe.
+
+34
+00:02:24,430 --> 00:02:27,186  X1:202 X2:517 Y1:488 Y2:523
+. .See anything you like?
+
+35
+00:02:27,226 --> 00:02:31,857  X1:124 X2:595 Y1:452 Y2:523
+It's so. . .realistic!
+Dear me, had some cowboys in here.
+
+36
+00:02:31,897 --> 00:02:35,415  X1:136 X2:583 Y1:488 Y2:523
+Been a ton of repair work going on.
+
+37
+00:02:35,455 --> 00:02:38,491  X1:168 X2:551 Y1:488 Y2:523
+Now, that's odd, look at that!
+
+38
+00:02:38,531 --> 00:02:41,448  X1:160 X2:559 Y1:488 Y2:523
+All the warp engines are going.
+
+39
+00:02:41,488 --> 00:02:47,443  X1:158 X2:561 Y1:416 Y2:523
+Full capacity! There's enough
+power running through this ship
+to punch a hole in the universe.
+
+40
+00:02:47,483 --> 00:02:49,239  X1:214 X2:505 Y1:488 Y2:523
+And we're not moving.
+
+41
+00:02:49,279 --> 00:02:53,317  X1:150 X2:567 Y1:452 Y2:523
+So where's all that power going?
+Where'd all the crew go?
+
+42
+00:02:53,357 --> 00:02:55,115  X1:192 X2:527 Y1:452 Y2:523
+Good question.
+No life readings on board.
+
+43
+00:02:55,155 --> 00:02:58,991  X1:148 X2:571 Y1:452 Y2:523
+Well, we're in deep space, they
+didn't just nip out for a quick fag.
+
+44
+00:02:59,031 --> 00:03:01,828  X1:218 X2:499 Y1:452 Y2:523
+No, I've checked
+all the smoking pods.
+
+45
+00:03:01,868 --> 00:03:03,585  X1:254 X2:465 Y1:488 Y2:523
+You smell that?
+
+46
+00:03:03,625 --> 00:03:06,657  X1:186 X2:533 Y1:452 Y2:523
+Yeah. Someone's cooking.
+Sunday roast, definitely.
+
+47
+00:03:13,053 --> 00:03:17,331  X1:144 X2:575 Y1:452 Y2:523
+Now, there's something you don't
+see in your average space ship.
+
+48
+00:03:17,371 --> 00:03:20,247  X1:218 X2:501 Y1:488 Y2:523
+18th Century. French.
+
+49
+00:03:20,287 --> 00:03:23,044  X1:272 X2:445 Y1:488 Y2:523
+Nice mantel.
+
+50
+00:03:23,084 --> 00:03:25,840  X1:252 X2:467 Y1:488 Y2:523
+Not a hologram.
+
+51
+00:03:25,880 --> 00:03:30,039  X1:154 X2:565 Y1:416 Y2:523
+Not even a reproduction.
+This actually is an 18th Century
+French fireplace. Double sided.
+
+52
+00:03:30,079 --> 00:03:31,996  X1:126 X2:591 Y1:488 Y2:523
+There's another room through there.
+
+53
+00:03:32,036 --> 00:03:35,792  X1:166 X2:551 Y1:452 Y2:523
+It can't be, that's the outer
+hull of the ship. Look! Hello.
+
+54
+00:03:35,832 --> 00:03:39,187  X1:122 X2:597 Y1:488 Y2:523
+Hello. What's your name? Reinette.
+
+55
+00:03:39,227 --> 00:03:41,227  X1:152 X2:567 Y1:488 Y2:523
+Reinette? That's a lovely name.
+
+56
+00:03:41,267 --> 00:03:43,461  X1:160 X2:559 Y1:452 Y2:523
+Can you tell me where you
+are, at the moment, Reinette?
+
+57
+00:03:43,501 --> 00:03:48,538  X1:098 X2:619 Y1:452 Y2:523
+In my bedroom. Where's your bedroom?
+Where do you live, Reinette?
+
+58
+00:03:48,578 --> 00:03:51,735  X1:162 X2:557 Y1:488 Y2:523
+Paris, of course. Paris! Right.
+
+59
+00:03:51,775 --> 00:03:54,893  X1:134 X2:585 Y1:452 Y2:523
+Monsieur,
+what are you doing in my fireplace?
+
+60
+00:03:54,933 --> 00:03:58,325  X1:164 X2:555 Y1:488 Y2:523
+Oh, just a routine. . .fire check.
+
+61
+00:03:58,365 --> 00:04:03,283  X1:158 X2:561 Y1:452 Y2:523
+Can you tell me what year it is?
+Of course I can! 1727.
+
+62
+00:04:03,323 --> 00:04:05,560  X1:132 X2:585 Y1:488 Y2:523
+Right, lovely, one of my favourites.
+
+63
+00:04:05,600 --> 00:04:09,035  X1:188 X2:531 Y1:452 Y2:523
+August is rubbish though
+stay indoors.
+
+64
+00:04:09,075 --> 00:04:11,275  X1:216 X2:503 Y1:452 Y2:523
+OK, that's all for now,
+thanks for your help.
+
+65
+00:04:11,315 --> 00:04:13,631  X1:136 X2:583 Y1:452 Y2:523
+Hope you enjoy the rest of the fire.
+Night night!
+
+66
+00:04:13,671 --> 00:04:15,589  X1:214 X2:505 Y1:488 Y2:523
+Good night, Monsieur.
+
+67
+00:04:15,629 --> 00:04:17,909  X1:140 X2:577 Y1:488 Y2:523
+You said this was the 51st Century.
+
+68
+00:04:17,949 --> 00:04:22,102  X1:128 X2:589 Y1:416 Y2:523
+I also said this ship was generating
+enough power to punch a hole in the
+universe. We just found the hole.
+
+69
+00:04:22,142 --> 00:04:24,017  X1:122 X2:597 Y1:488 Y2:523
+Must be a spatio temporal hyperlink.
+
+70
+00:04:24,057 --> 00:04:27,017  X1:198 X2:521 Y1:452 Y2:523
+What's that?
+No idea, just made it up.
+
+71
+00:04:27,057 --> 00:04:28,533  X1:154 X2:565 Y1:488 Y2:523
+Didn't want to say "magic door".
+
+72
+00:04:28,573 --> 00:04:33,251  X1:148 X2:571 Y1:452 Y2:523
+And on the other side of the. . .
+"magic door", it's France in 1727?
+
+73
+00:04:33,291 --> 00:04:35,728  X1:158 X2:561 Y1:488 Y2:523
+Well, she was speaking French.
+
+74
+00:04:35,768 --> 00:04:39,282  X1:146 X2:573 Y1:452 Y2:523
+Right period French too. She was
+speaking English, I heard her.
+
+75
+00:04:39,322 --> 00:04:41,322  X1:148 X2:571 Y1:452 Y2:523
+That's the Tardis,
+translates for you. Even French?
+
+76
+00:04:41,362 --> 00:04:43,038  X1:324 X2:395 Y1:488 Y2:523
+Yep!
+
+77
+00:04:43,078 --> 00:04:44,926  X1:252 X2:467 Y1:488 Y2:523
+Gotcha! Doctor!
+
+78
+00:05:08,173 --> 00:05:10,488  X1:078 X2:317 Y1:488 Y2:523
+HORSE WHINNEYS
+
+79
+00:05:10,528 --> 00:05:15,983  X1:160 X2:559 Y1:452 Y2:523
+It's OK! Don't scream, it's me.
+It's the fireplace man, look!
+
+80
+00:05:18,123 --> 00:05:20,560  X1:120 X2:599 Y1:452 Y2:523
+We were talking. Just a moment ago.
+I was in your fireplace.
+
+81
+00:05:20,600 --> 00:05:26,009  X1:160 X2:559 Y1:452 Y2:523
+Monsieur, that was weeks ago.
+That was months. Really?
+
+82
+00:05:29,272 --> 00:05:32,108  X1:180 X2:539 Y1:488 Y2:523
+Must be a loose connection.
+
+83
+00:05:32,148 --> 00:05:36,141  X1:134 X2:585 Y1:452 Y2:523
+Need to get a man in. Who are you
+and what are you doing here?
+
+84
+00:05:36,181 --> 00:05:39,060  X1:078 X2:189 Y1:488 Y2:523
+TICKING
+
+85
+00:05:39,100 --> 00:05:40,620  X1:244 X2:475 Y1:488 Y2:523
+OK. That's scary.
+
+86
+00:05:40,660 --> 00:05:42,254  X1:152 X2:565 Y1:488 Y2:523
+You're scared of a broken clock?
+
+87
+00:05:42,294 --> 00:05:44,574  X1:210 X2:509 Y1:452 Y2:523
+Just a bit scared, yeah,
+just a little tiny bit.
+
+88
+00:05:44,614 --> 00:05:47,771  X1:138 X2:579 Y1:488 Y2:523
+Cos you see, if this clock's broken,
+
+89
+00:05:47,811 --> 00:05:50,308  X1:172 X2:547 Y1:452 Y2:523
+and it's the only clock in
+the room. . .then what's that?
+
+90
+00:05:57,480 --> 00:05:59,999  X1:160 X2:559 Y1:488 Y2:523
+Cos you see, that's not a clock.
+
+91
+00:06:00,039 --> 00:06:02,156  X1:166 X2:553 Y1:488 Y2:523
+You can tell by the resonance.
+
+92
+00:06:02,196 --> 00:06:03,680  X1:302 X2:417 Y1:488 Y2:523
+Too big.
+
+93
+00:06:05,355 --> 00:06:10,228  X1:154 X2:565 Y1:488 Y2:523
+Six feet, I'd say. . .size of a man.
+
+94
+00:06:10,268 --> 00:06:14,382  X1:168 X2:551 Y1:488 Y2:523
+What is it? Now. Let's think.
+
+95
+00:06:14,422 --> 00:06:16,938  X1:144 X2:573 Y1:416 Y2:523
+If you were a thing that ticked
+and you were hiding in someone's
+bedroom, first thing you'd do
+
+96
+00:06:16,978 --> 00:06:20,908  X1:128 X2:591 Y1:452 Y2:523
+break the clock. No one notices the
+sound of one clock ticking, but two?
+
+97
+00:06:23,173 --> 00:06:26,415  X1:180 X2:539 Y1:452 Y2:523
+You might start to wonder if
+you're really alone.
+
+98
+00:06:29,487 --> 00:06:31,164  X1:230 X2:489 Y1:452 Y2:523
+Stay on the bed.
+Right in the middle.
+
+99
+00:06:31,204 --> 00:06:33,541  X1:216 X2:501 Y1:452 Y2:523
+Don't put your hands
+or feet over the edge!
+
+100
+00:06:58,014 --> 00:07:00,972  X1:184 X2:535 Y1:488 Y2:523
+Reinette, don't look round.
+
+101
+00:07:03,012 --> 00:07:05,310  X1:158 X2:561 Y1:488 Y2:523
+You stay exactly where you are.
+
+102
+00:07:11,042 --> 00:07:12,600  X1:212 X2:507 Y1:488 Y2:523
+Hold still, let me look.
+
+103
+00:07:15,400 --> 00:07:17,163  X1:156 X2:563 Y1:488 Y2:523
+You've been scanning her brain!
+
+104
+00:07:18,677 --> 00:07:21,594  X1:156 X2:561 Y1:416 Y2:523
+What, you've crossed two
+galaxies and thousands of years
+just to scan a child's brain?
+
+105
+00:07:21,634 --> 00:07:25,744  X1:170 X2:549 Y1:416 Y2:523
+What could there be in a little
+girl's mind worth blowing
+a hole in the universe?
+
+106
+00:07:25,784 --> 00:07:27,462  X1:234 X2:483 Y1:488 Y2:523
+I don't understand.
+
+107
+00:07:27,502 --> 00:07:29,461  X1:270 X2:447 Y1:488 Y2:523
+It wants me?
+
+108
+00:07:29,501 --> 00:07:32,178  X1:264 X2:455 Y1:488 Y2:523
+You want me?
+
+109
+00:07:32,218 --> 00:07:33,738  X1:170 X2:549 Y1:488 Y2:523
+Not yet. You are incomplete.
+
+110
+00:07:33,778 --> 00:07:35,295  X1:274 X2:445 Y1:488 Y2:523
+Incomplete?
+
+111
+00:07:35,335 --> 00:07:37,333  X1:158 X2:561 Y1:488 Y2:523
+What's that mean, incomplete?
+
+112
+00:07:37,373 --> 00:07:41,064  X1:118 X2:601 Y1:452 Y2:523
+You can answer her, you can answer
+me. What do you mean, incomplete?
+
+113
+00:07:44,567 --> 00:07:47,323  X1:220 X2:499 Y1:488 Y2:523
+Monsieur, be careful!
+
+114
+00:07:47,363 --> 00:07:50,401  X1:164 X2:553 Y1:416 Y2:523
+It's just a nightmare,
+Reinette, don't worry about it.
+Everyone has nightmares.
+
+115
+00:07:50,441 --> 00:07:54,835  X1:110 X2:609 Y1:452 Y2:523
+Even monsters from under the bed
+have nightmares. Don't you, monster?
+
+116
+00:07:54,875 --> 00:07:58,805  X1:174 X2:545 Y1:452 Y2:523
+What do monsters have
+nightmares about? Me! Ha!
+
+117
+00:08:02,146 --> 00:08:03,875  X1:306 X2:411 Y1:488 Y2:523
+Doctor!
+
+118
+00:08:14,135 --> 00:08:16,371  X1:232 X2:485 Y1:488 Y2:523
+Excellent! Ice gun!
+
+119
+00:08:16,411 --> 00:08:19,449  X1:116 X2:601 Y1:452 Y2:523
+Fire extinguisher.
+Where'd that thing come from? Here.
+
+120
+00:08:19,489 --> 00:08:21,051  X1:172 X2:547 Y1:488 Y2:523
+So why's it dressed like that?
+
+121
+00:08:21,091 --> 00:08:24,046  X1:160 X2:559 Y1:452 Y2:523
+Field trip to France. Some kind
+of basic camouflage protocol.
+
+122
+00:08:24,086 --> 00:08:27,563  X1:214 X2:505 Y1:452 Y2:523
+Nice needle work.
+Shame about the face!
+
+123
+00:08:27,603 --> 00:08:30,270  X1:216 X2:503 Y1:488 Y2:523
+Oh, you are beautiful!
+
+124
+00:08:32,117 --> 00:08:34,313  X1:230 X2:489 Y1:452 Y2:523
+No, really, you are!
+You're gorgeous!
+
+125
+00:08:34,353 --> 00:08:37,071  X1:134 X2:583 Y1:488 Y2:523
+Look at that! Space age clockwork!
+
+126
+00:08:37,111 --> 00:08:39,146  X1:204 X2:515 Y1:488 Y2:523
+I Love it! I've got chills!
+
+127
+00:08:39,186 --> 00:08:41,745  X1:184 X2:535 Y1:452 Y2:523
+Listen, seriously,
+I mean this from the heart,
+
+128
+00:08:41,785 --> 00:08:48,819  X1:130 X2:589 Y1:416 Y2:523
+and by the way, count those, it
+would be a crime, it would be an act
+of vandalism, to disassemble you.
+
+129
+00:08:48,859 --> 00:08:51,356  X1:206 X2:513 Y1:488 Y2:523
+But that won't stop me!
+
+130
+00:08:56,569 --> 00:09:00,845  X1:138 X2:579 Y1:416 Y2:523
+Short range teleport. Can't have
+gone far. Could still be on board.
+What is it? Don't go looking for it.
+
+131
+00:09:00,885 --> 00:09:03,473  X1:148 X2:569 Y1:488 Y2:523
+Where you going? Back in a sec.
+
+132
+00:09:09,038 --> 00:09:10,798  X1:198 X2:521 Y1:488 Y2:523
+He said not to look for it.
+
+133
+00:09:10,838 --> 00:09:12,356  X1:268 X2:449 Y1:488 Y2:523
+Yeah, he did.
+
+134
+00:09:16,826 --> 00:09:19,898  X1:218 X2:501 Y1:488 Y2:523
+Now you're getting it!
+
+135
+00:09:23,861 --> 00:09:26,218  X1:290 X2:427 Y1:488 Y2:523
+Reinette?
+
+136
+00:09:26,258 --> 00:09:27,776  X1:204 X2:515 Y1:488 Y2:523
+Just checking you're OK.
+
+137
+00:09:35,009 --> 00:09:38,766  X1:274 X2:445 Y1:488 Y2:523
+Hmm hmm.
+
+138
+00:09:38,806 --> 00:09:41,763  X1:284 X2:435 Y1:488 Y2:523
+Oh! Hello!
+
+139
+00:09:41,803 --> 00:09:44,480  X1:164 X2:555 Y1:488 Y2:523
+I was just looking for Reinette.
+
+140
+00:09:44,520 --> 00:09:48,074  X1:168 X2:549 Y1:488 Y2:523
+This is still her room, isn't it?
+
+141
+00:09:48,114 --> 00:09:50,716  X1:138 X2:581 Y1:488 Y2:523
+I've been away, not sure how long.
+
+142
+00:09:50,756 --> 00:09:53,468  X1:162 X2:557 Y1:488 Y2:523
+Reinette? We are ready to go!
+
+143
+00:09:53,508 --> 00:09:56,301  X1:182 X2:537 Y1:452 Y2:523
+Go to the carriage, mother,
+I will join you there.
+
+144
+00:09:59,583 --> 00:10:04,457  X1:180 X2:539 Y1:416 Y2:523
+It is customary, I think,
+to have an imaginary friend
+only during one's childhood.
+
+145
+00:10:04,497 --> 00:10:07,414  X1:182 X2:537 Y1:452 Y2:523
+You are to be congratulated
+on your persistence.
+
+146
+00:10:07,454 --> 00:10:11,691  X1:254 X2:465 Y1:488 Y2:523
+Reinette. Well!
+
+147
+00:10:11,731 --> 00:10:14,087  X1:164 X2:555 Y1:488 Y2:523
+Goodness! How you've grown.
+
+148
+00:10:14,127 --> 00:10:17,365  X1:198 X2:521 Y1:452 Y2:523
+And you do not appear to
+have aged a single day.
+
+149
+00:10:17,405 --> 00:10:20,002  X1:122 X2:597 Y1:488 Y2:523
+That is tremendously impolite of you.
+
+150
+00:10:20,042 --> 00:10:22,719  X1:236 X2:483 Y1:488 Y2:523
+Right, yeah, sorry.
+
+151
+00:10:22,759 --> 00:10:25,036  X1:256 X2:463 Y1:488 Y2:523
+Um, um, um. . .
+
+152
+00:10:25,076 --> 00:10:27,954  X1:168 X2:551 Y1:452 Y2:523
+Listen, lovely to catch up, but
+better be off, eh?
+
+153
+00:10:27,994 --> 00:10:30,948  X1:130 X2:589 Y1:452 Y2:523
+Don't want your mother finding you
+up here with a strange man, do we?
+
+154
+00:10:30,988 --> 00:10:33,905  X1:130 X2:589 Y1:452 Y2:523
+Strange?
+How could you be a stranger to me?
+
+155
+00:10:33,945 --> 00:10:35,984  X1:216 X2:503 Y1:452 Y2:523
+I've known you since
+I was seven years old.
+
+156
+00:10:36,024 --> 00:10:38,381  X1:190 X2:529 Y1:488 Y2:523
+Yeah, I suppose you have.
+
+157
+00:10:38,421 --> 00:10:40,030  X1:210 X2:509 Y1:488 Y2:523
+I came the quick route.
+
+158
+00:10:44,455 --> 00:10:49,850  X1:122 X2:597 Y1:416 Y2:523
+Well, you seem to be flesh and blood
+at any rate. But this is absurd.
+Reason tells me you cannot be real.
+
+159
+00:10:49,890 --> 00:10:53,567  X1:232 X2:487 Y1:452 Y2:523
+Oh, you never want
+to listen to reason.
+
+160
+00:10:53,607 --> 00:10:55,243  X1:256 X2:461 Y1:488 Y2:523
+Mademoiselle?
+
+161
+00:10:55,283 --> 00:10:57,161  X1:168 X2:551 Y1:488 Y2:523
+Your mother grows impatient.
+
+162
+00:10:57,201 --> 00:10:59,801  X1:282 X2:437 Y1:488 Y2:523
+A moment!
+
+163
+00:10:59,841 --> 00:11:01,557  X1:232 X2:487 Y1:488 Y2:523
+So many questions.
+
+164
+00:11:01,597 --> 00:11:03,570  X1:266 X2:453 Y1:488 Y2:523
+So little time.
+
+165
+00:11:13,343 --> 00:11:14,901  X1:200 X2:519 Y1:488 Y2:523
+Mademoiselle! Poisson!
+
+166
+00:11:26,251 --> 00:11:27,730  X1:300 X2:419 Y1:488 Y2:523
+Poisson!
+
+167
+00:11:29,609 --> 00:11:31,964  X1:212 X2:505 Y1:488 Y2:523
+Reinette Poisson! No!
+
+168
+00:11:32,004 --> 00:11:33,843  X1:280 X2:439 Y1:488 Y2:523
+No, no, no!
+
+169
+00:11:33,883 --> 00:11:36,243  X1:186 X2:533 Y1:452 Y2:523
+No way! Reinette Poisson!
+Later Madame d'Etoiles? !
+
+170
+00:11:36,283 --> 00:11:39,281  X1:160 X2:559 Y1:452 Y2:523
+Later still mistress of Louis XV!
+Uncrowned Queen of France!
+
+171
+00:11:39,321 --> 00:11:44,890  X1:144 X2:573 Y1:452 Y2:523
+Actress, artist, musician, dancer,
+courtesan, fantastic gardener.
+
+172
+00:11:46,507 --> 00:11:48,865  X1:216 X2:503 Y1:488 Y2:523
+Who the hell are you?
+
+173
+00:11:48,905 --> 00:11:52,756  X1:146 X2:573 Y1:452 Y2:523
+I'm The Doctor! And I just
+snogged Madame de Pompadour!
+
+174
+00:11:57,299 --> 00:11:59,296  X1:312 X2:405 Y1:488 Y2:523
+Rose?
+
+175
+00:11:59,336 --> 00:12:02,172  X1:144 X2:575 Y1:488 Y2:523
+Mickey? Every time! Every time!
+
+176
+00:12:02,212 --> 00:12:04,450  X1:156 X2:561 Y1:488 Y2:523
+It's rule one. . .don't wander off!
+
+177
+00:12:04,490 --> 00:12:07,317  X1:138 X2:579 Y1:452 Y2:523
+I tell them, I do! Rule one! There
+could be anything on this ship!
+
+178
+00:12:10,844 --> 00:12:13,096  X1:078 X2:255 Y1:488 Y2:523
+IT WHINNEYS
+
+179
+00:12:26,906 --> 00:12:28,954  X1:208 X2:511 Y1:488 Y2:523
+Are you looking at me?
+
+180
+00:12:32,030 --> 00:12:33,884  X1:246 X2:473 Y1:488 Y2:523
+Ah! Look at this!
+
+181
+00:12:36,236 --> 00:12:38,753  X1:214 X2:505 Y1:488 Y2:523
+That's an eye in there.
+
+182
+00:12:38,793 --> 00:12:41,540  X1:246 X2:473 Y1:488 Y2:523
+That's a real eye.
+
+183
+00:12:44,310 --> 00:12:46,767  X1:078 X2:345 Y1:488 Y2:523
+RHYTHMIC PUMPING
+
+184
+00:12:56,498 --> 00:12:58,851  X1:270 X2:449 Y1:488 Y2:523
+What is that?
+
+185
+00:12:58,891 --> 00:13:02,008  X1:152 X2:567 Y1:452 Y2:523
+What's that in the middle there?
+It's like it's wired in.
+
+186
+00:13:02,048 --> 00:13:03,806  X1:280 X2:439 Y1:488 Y2:523
+It's a heart.
+
+187
+00:13:03,846 --> 00:13:07,742  X1:184 X2:535 Y1:488 Y2:523
+Mickey, it's a human heart.
+
+188
+00:13:09,960 --> 00:13:11,473  X1:312 X2:405 Y1:488 Y2:523
+Rose?
+
+189
+00:13:17,513 --> 00:13:19,311  X1:180 X2:537 Y1:488 Y2:523
+Will you stop following me?
+
+190
+00:13:19,351 --> 00:13:21,120  X1:224 X2:495 Y1:488 Y2:523
+I'm not your mother!
+
+191
+00:13:25,426 --> 00:13:28,088  X1:202 X2:517 Y1:452 Y2:523
+So this is where you
+came from, eh, horsey?
+
+192
+00:13:34,096 --> 00:13:36,473  X1:136 X2:581 Y1:488 Y2:523
+Oh, Katherine, you are too wicked.
+
+193
+00:13:38,927 --> 00:13:42,965  X1:172 X2:547 Y1:416 Y2:523
+Speaking of wicked, I hear
+Madame de Chateauroux is ill
+and close to death.
+
+194
+00:13:43,005 --> 00:13:45,722  X1:216 X2:503 Y1:488 Y2:523
+Yes, I am devastated.
+
+195
+00:13:45,762 --> 00:13:50,439  X1:186 X2:533 Y1:452 Y2:523
+Oh, indeed. I, myself, am
+frequently inconsolable.
+
+196
+00:13:50,479 --> 00:13:55,352  X1:174 X2:545 Y1:416 Y2:523
+The King will, therefore,
+be requiring a new mistress.
+You love the King, of course.
+
+197
+00:13:55,392 --> 00:13:58,869  X1:204 X2:515 Y1:452 Y2:523
+He is the King and I love
+him with all my heart.
+
+198
+00:13:58,909 --> 00:14:00,917  X1:136 X2:581 Y1:488 Y2:523
+And I look forward to meeting him.
+
+199
+00:14:03,704 --> 00:14:07,541  X1:164 X2:555 Y1:488 Y2:523
+Is something wrong, my dear?
+
+200
+00:14:07,581 --> 00:14:09,145  X1:258 X2:461 Y1:488 Y2:523
+Not wrong, no.
+
+201
+00:14:11,371 --> 00:14:13,372  X1:214 X2:505 Y1:452 Y2:523
+Every woman in Paris
+knows your ambitions.
+
+202
+00:14:13,412 --> 00:14:15,849  X1:136 X2:581 Y1:488 Y2:523
+Every woman in Paris shares them.
+
+203
+00:14:15,889 --> 00:14:17,976  X1:138 X2:581 Y1:452 Y2:523
+You know, of course, that the King
+is to attend the Yew Tree ball. . .
+
+204
+00:14:24,601 --> 00:14:26,238  X1:176 X2:543 Y1:488 Y2:523
+Maybe it wasn't a real heart.
+
+205
+00:14:26,278 --> 00:14:27,762  X1:174 X2:545 Y1:488 Y2:523
+Of course it was a real heart.
+
+206
+00:14:29,475 --> 00:14:31,115  X1:174 X2:545 Y1:488 Y2:523
+Is this, like, normal for you?
+
+207
+00:14:31,155 --> 00:14:33,791  X1:174 X2:545 Y1:452 Y2:523
+Is this an average day?
+Life with The Doctor, Mickey.
+
+208
+00:14:33,831 --> 00:14:35,869  X1:210 X2:509 Y1:488 Y2:523
+No more average days.
+
+209
+00:14:35,909 --> 00:14:39,385  X1:234 X2:485 Y1:452 Y2:523
+It's France again.
+We can see France.
+
+210
+00:14:39,425 --> 00:14:41,353  X1:228 X2:491 Y1:452 Y2:523
+I think we're looking
+through a mirror.
+
+211
+00:14:43,903 --> 00:14:46,379  X1:196 X2:521 Y1:452 Y2:523
+Blimey, look at this guy!
+Who does he think he is?
+
+212
+00:14:46,419 --> 00:14:47,976  X1:234 X2:485 Y1:488 Y2:523
+The King of France.
+
+213
+00:14:48,016 --> 00:14:51,091  X1:216 X2:501 Y1:416 Y2:523
+Oh, here's trouble!
+What you been up to?
+Oh, this and that.
+
+214
+00:14:51,131 --> 00:14:55,648  X1:130 X2:589 Y1:416 Y2:523
+Became the imaginary friend of
+a future French aristocrat,
+picked a fight with a clockwork man.
+
+215
+00:14:55,688 --> 00:14:58,485  X1:212 X2:507 Y1:488 Y2:523
+Oh, and I met a horse.
+
+216
+00:14:58,525 --> 00:15:00,802  X1:224 X2:495 Y1:452 Y2:523
+What's a horse doing
+on a space ship?
+
+217
+00:15:00,842 --> 00:15:03,999  X1:150 X2:569 Y1:416 Y2:523
+Mickey, what's pre revolutionary
+France doing on a space ship?
+Get a little perspective!
+
+218
+00:15:04,039 --> 00:15:07,516  X1:156 X2:563 Y1:452 Y2:523
+See these? They're all over the
+place, on every deck.
+
+219
+00:15:07,556 --> 00:15:10,112  X1:226 X2:491 Y1:488 Y2:523
+Gateways to history.
+
+220
+00:15:10,152 --> 00:15:12,030  X1:182 X2:537 Y1:488 Y2:523
+But not just any old history.
+
+221
+00:15:12,070 --> 00:15:15,587  X1:220 X2:499 Y1:488 Y2:523
+Hers. Time windows.
+
+222
+00:15:15,627 --> 00:15:18,425  X1:158 X2:559 Y1:452 Y2:523
+Deliberately arranged along the
+life of one particular woman.
+
+223
+00:15:18,465 --> 00:15:23,661  X1:142 X2:577 Y1:452 Y2:523
+A space ship from the 51st Century
+stalking a woman from the 18th!
+
+224
+00:15:23,701 --> 00:15:25,458  X1:234 X2:485 Y1:488 Y2:523
+Why? Who is she?
+
+225
+00:15:25,498 --> 00:15:27,492  X1:198 X2:521 Y1:488 Y2:523
+Jean Antoinette Poisson!
+
+226
+00:15:27,532 --> 00:15:30,449  X1:146 X2:573 Y1:416 Y2:523
+Known to her friends as Reinette.
+One of the most accomplished
+women who ever lived.
+
+227
+00:15:30,489 --> 00:15:32,447  X1:216 X2:503 Y1:452 Y2:523
+So she got plans
+on being Queen then?
+
+228
+00:15:32,487 --> 00:15:36,043  X1:128 X2:589 Y1:452 Y2:523
+No, he's already got a queen. She's
+got plans on being his mistress.
+
+229
+00:15:36,083 --> 00:15:40,521  X1:220 X2:497 Y1:488 Y2:523
+Oh, I get it. Camilla!
+
+230
+00:15:40,561 --> 00:15:42,277  X1:150 X2:569 Y1:488 Y2:523
+I think this is the night they met.
+
+231
+00:15:42,317 --> 00:15:46,235  X1:162 X2:557 Y1:488 Y2:523
+The night of the Yew Tree Ball.
+
+232
+00:15:46,275 --> 00:15:50,073  X1:142 X2:577 Y1:416 Y2:523
+In no time flat she'll get herself
+established as his official mistress
+with her own rooms at the palace.
+
+233
+00:15:50,113 --> 00:15:53,315  X1:202 X2:517 Y1:452 Y2:523
+Even her own title
+Madame de Pompadour.
+
+234
+00:15:57,422 --> 00:15:59,180  X1:178 X2:541 Y1:488 Y2:523
+Queen must have loved her.
+
+235
+00:15:59,220 --> 00:16:02,340  X1:132 X2:587 Y1:488 Y2:523
+Oh, she did. They got on very well.
+
+236
+00:16:02,380 --> 00:16:04,814  X1:194 X2:525 Y1:452 Y2:523
+The King's wife and the
+King's girlfriend? France.
+
+237
+00:16:04,854 --> 00:16:06,623  X1:218 X2:501 Y1:488 Y2:523
+It's a different planet.
+
+238
+00:16:11,929 --> 00:16:15,239  X1:156 X2:563 Y1:452 Y2:523
+How long have you been
+standing there? Show yourself!
+
+239
+00:16:18,720 --> 00:16:22,281  X1:136 X2:583 Y1:452 Y2:523
+Hello, Reinette, hasn't time flown!
+Fireplace man!
+
+240
+00:16:29,668 --> 00:16:32,388  X1:130 X2:589 Y1:488 Y2:523
+What's it doing? Switching back on.
+
+241
+00:16:32,428 --> 00:16:34,265  X1:150 X2:569 Y1:488 Y2:523
+Melting the ice. And then what?
+
+242
+00:16:34,305 --> 00:16:36,142  X1:140 X2:577 Y1:488 Y2:523
+Then it kills everyone in the room.
+
+243
+00:16:36,182 --> 00:16:38,017  X1:168 X2:551 Y1:488 Y2:523
+Focuses the mind, doesn't it?
+
+244
+00:16:38,057 --> 00:16:41,136  X1:154 X2:563 Y1:488 Y2:523
+Who are you? Identify yourself!
+
+245
+00:16:41,176 --> 00:16:42,856  X1:212 X2:507 Y1:488 Y2:523
+Order it to answer me.
+
+246
+00:16:42,896 --> 00:16:44,609  X1:182 X2:537 Y1:488 Y2:523
+Why should it listen to me?
+
+247
+00:16:44,649 --> 00:16:47,170  X1:152 X2:565 Y1:452 Y2:523
+I don't know,
+but it did when you were a child.
+
+248
+00:16:47,210 --> 00:16:49,927  X1:174 X2:545 Y1:488 Y2:523
+Let's see if you've still got it.
+
+249
+00:16:49,967 --> 00:16:51,603  X1:224 X2:495 Y1:488 Y2:523
+Answer his question.
+
+250
+00:16:51,643 --> 00:16:55,414  X1:222 X2:497 Y1:452 Y2:523
+Answer any and all
+questions put to you.
+
+251
+00:16:59,275 --> 00:17:00,835  X1:200 X2:519 Y1:488 Y2:523
+I am Repair Droid Seven.
+
+252
+00:17:00,875 --> 00:17:02,631  X1:130 X2:589 Y1:488 Y2:523
+So what happened to the ship then?
+
+253
+00:17:02,671 --> 00:17:05,152  X1:184 X2:533 Y1:488 Y2:523
+There was a lot of damage.
+
+254
+00:17:05,192 --> 00:17:07,869  X1:150 X2:567 Y1:488 Y2:523
+Ion storm. 82% systems failure.
+
+255
+00:17:07,909 --> 00:17:10,306  X1:150 X2:569 Y1:452 Y2:523
+That ship hasn't moved in over a
+year. What's taken you so long?
+
+256
+00:17:10,346 --> 00:17:12,843  X1:190 X2:529 Y1:488 Y2:523
+We did not have the parts.
+
+257
+00:17:14,339 --> 00:17:17,260  X1:180 X2:539 Y1:452 Y2:523
+Always comes down to that,
+doesn't it? The parts.
+
+258
+00:17:17,300 --> 00:17:21,051  X1:122 X2:597 Y1:452 Y2:523
+What happened to the crew? Where
+are they? We did not have the parts.
+
+259
+00:17:21,091 --> 00:17:25,409  X1:126 X2:593 Y1:416 Y2:523
+There should've been over 50 people
+on your ship. Where did they go?
+We did not have the parts.
+
+260
+00:17:25,449 --> 00:17:27,912  X1:150 X2:569 Y1:488 Y2:523
+50 people don't just disappear. . .
+
+261
+00:17:28,685 --> 00:17:31,083  X1:318 X2:401 Y1:488 Y2:523
+Oh. . .
+
+262
+00:17:31,123 --> 00:17:35,557  X1:194 X2:523 Y1:452 Y2:523
+you didn't have the parts.
+So you used the crew.
+
+263
+00:17:35,597 --> 00:17:38,477  X1:284 X2:435 Y1:488 Y2:523
+The crew? !
+
+264
+00:17:38,517 --> 00:17:41,274  X1:128 X2:591 Y1:488 Y2:523
+We found a camera with an eye in it.
+
+265
+00:17:41,314 --> 00:17:47,146  X1:218 X2:501 Y1:452 Y2:523
+And there was a heart
+wired into machinery.
+
+266
+00:17:47,186 --> 00:17:54,019  X1:130 X2:587 Y1:416 Y2:523
+It's just doing what it's programmed
+to. . .repairing the ship any way it
+can, with whatever it can find.
+
+267
+00:17:54,059 --> 00:17:56,612  X1:208 X2:511 Y1:452 Y2:523
+No one told it the crew
+weren't on the menu.
+
+268
+00:17:56,652 --> 00:17:59,160  X1:210 X2:509 Y1:452 Y2:523
+What did you say the
+flight deck smelled of?
+
+269
+00:18:00,574 --> 00:18:04,888  X1:216 X2:501 Y1:452 Y2:523
+. .Someone cooking. . .
+Flesh plus heat.
+
+270
+00:18:04,928 --> 00:18:06,606  X1:290 X2:429 Y1:488 Y2:523
+Barbecue.
+
+271
+00:18:08,081 --> 00:18:09,761  X1:170 X2:547 Y1:488 Y2:523
+But what are you doing here?
+
+272
+00:18:09,801 --> 00:18:12,479  X1:150 X2:569 Y1:452 Y2:523
+You've opened up time windows,
+that takes colossal energy.
+
+273
+00:18:12,519 --> 00:18:15,234  X1:172 X2:547 Y1:452 Y2:523
+Why come here, you could've
+gone to your repair yard.
+
+274
+00:18:15,274 --> 00:18:17,753  X1:186 X2:533 Y1:452 Y2:523
+Instead you come to
+18th century France. Why?
+
+275
+00:18:17,793 --> 00:18:20,210  X1:188 X2:531 Y1:488 Y2:523
+One more part is required.
+
+276
+00:18:24,426 --> 00:18:26,542  X1:162 X2:557 Y1:488 Y2:523
+Then why haven't you taken it?
+
+277
+00:18:26,582 --> 00:18:28,305  X1:238 X2:481 Y1:488 Y2:523
+She is incomplete.
+
+278
+00:18:29,863 --> 00:18:31,578  X1:156 X2:563 Y1:488 Y2:523
+What? So that's the plan then?
+
+279
+00:18:31,618 --> 00:18:37,373  X1:136 X2:583 Y1:416 Y2:523
+You just keep opening up more and
+more time windows, scanning her
+brain, checking if she's done yet?
+
+280
+00:18:37,413 --> 00:18:39,369  X1:294 X2:425 Y1:488 Y2:523
+Why her?
+
+281
+00:18:39,409 --> 00:18:45,562  X1:140 X2:579 Y1:452 Y2:523
+If you've got all of history to
+choose from, why specifically her?
+
+282
+00:18:45,602 --> 00:18:47,480  X1:102 X2:335 Y1:488 Y2:523
+We are the same.
+
+283
+00:18:47,520 --> 00:18:50,280  X1:170 X2:549 Y1:452 Y2:523
+We are not the same!
+We are in no sense the same!
+
+284
+00:18:50,320 --> 00:18:55,433  X1:140 X2:579 Y1:416 Y2:523
+We are the same.
+Get out of here! Get out
+of here this instant! Reinette, no!
+
+285
+00:18:55,473 --> 00:18:57,551  X1:164 X2:553 Y1:452 Y2:523
+It's back on the ship!
+Rose, take Mickey and Arthur,
+
+286
+00:18:57,591 --> 00:19:02,948  X1:122 X2:597 Y1:416 Y2:523
+don't approach it, just watch what
+it does. Arthur? Good name for a
+horse. You're not keeping the horse!
+
+287
+00:19:02,988 --> 00:19:05,485  X1:216 X2:501 Y1:452 Y2:523
+I let you keep Mickey.
+Now go, go, go!
+
+288
+00:19:08,822 --> 00:19:13,132  X1:142 X2:577 Y1:416 Y2:523
+You must trust me. I need to find
+out what they're looking for.
+There's only one way to do that.
+
+289
+00:19:13,172 --> 00:19:15,225  X1:252 X2:467 Y1:488 Y2:523
+Won't hurt a bit.
+
+290
+00:19:16,930 --> 00:19:19,207  X1:260 X2:457 Y1:488 Y2:523
+Fireplace man!
+
+291
+00:19:19,247 --> 00:19:21,804  X1:202 X2:515 Y1:488 Y2:523
+You are inside my mind.
+
+292
+00:19:21,844 --> 00:19:24,042  X1:230 X2:489 Y1:488 Y2:523
+Oh, dear, Reinette.
+
+293
+00:19:24,082 --> 00:19:26,357  X1:140 X2:577 Y1:488 Y2:523
+You've had some cowboys in here!
+
+294
+00:19:26,397 --> 00:19:28,639  X1:220 X2:499 Y1:488 Y2:523
+So! That Doctor, eh?
+
+295
+00:19:28,679 --> 00:19:30,156  X1:178 X2:539 Y1:488 Y2:523
+What are you talking about?
+
+296
+00:19:30,196 --> 00:19:34,513  X1:150 X2:569 Y1:452 Y2:523
+Well, Madame de Pompadour,
+Sarah Jane Smith. . . Cleopatra. . .
+
+297
+00:19:34,553 --> 00:19:38,324  X1:132 X2:587 Y1:416 Y2:523
+Oh, Cleopatra! He mentioned her
+once! Yeah, but he called her Cleo.
+Mickey!
+
+298
+00:19:46,937 --> 00:19:51,173  X1:196 X2:521 Y1:452 Y2:523
+You are in my memories.
+You walk among them.
+
+299
+00:19:51,213 --> 00:19:55,143  X1:148 X2:571 Y1:416 Y2:523
+If there's anything you don't want
+me to see, just imagine a door
+and close it. I won't look.
+
+300
+00:19:57,725 --> 00:20:01,564  X1:146 X2:573 Y1:452 Y2:523
+Actually there's a door just there,
+you might want to close.
+
+301
+00:20:01,604 --> 00:20:03,320  X1:244 X2:475 Y1:488 Y2:523
+Actually, several.
+
+302
+00:20:03,360 --> 00:20:08,718  X1:170 X2:547 Y1:416 Y2:523
+To walk among the memories
+of another living soul.
+Do you ever get used to this?
+
+303
+00:20:08,758 --> 00:20:10,234  X1:196 X2:523 Y1:488 Y2:523
+I don't make a habit of it.
+
+304
+00:20:10,274 --> 00:20:13,231  X1:106 X2:613 Y1:488 Y2:523
+How can you resist? What age are you?
+
+305
+00:20:13,271 --> 00:20:17,706  X1:178 X2:541 Y1:452 Y2:523
+So impertinent a question,
+so early in the conversation.
+
+306
+00:20:17,746 --> 00:20:19,546  X1:142 X2:577 Y1:488 Y2:523
+How promising. Not my question.
+
+307
+00:20:19,586 --> 00:20:21,582  X1:238 X2:479 Y1:488 Y2:523
+Theirs. You're 23.
+
+308
+00:20:21,622 --> 00:20:23,657  X1:168 X2:551 Y1:452 Y2:523
+And for some reason that
+means you're not old enough.
+
+309
+00:20:23,697 --> 00:20:28,413  X1:126 X2:593 Y1:452 Y2:523
+Sorry. You might find old
+memories reawakening. Side effect.
+
+310
+00:20:28,453 --> 00:20:30,531  X1:178 X2:541 Y1:488 Y2:523
+Oh, such a lonely childhood!
+
+311
+00:20:30,571 --> 00:20:32,294  X1:202 X2:517 Y1:488 Y2:523
+It'll pass. Stay with me.
+
+312
+00:20:33,807 --> 00:20:36,205  X1:210 X2:509 Y1:488 Y2:523
+Oh, Doctor! So lonely.
+
+313
+00:20:36,245 --> 00:20:37,961  X1:228 X2:489 Y1:488 Y2:523
+So very, very alone.
+
+314
+00:20:38,001 --> 00:20:41,482  X1:138 X2:581 Y1:452 Y2:523
+What do you mean, alone? You've
+never been alone in your life.
+
+315
+00:20:41,522 --> 00:20:43,759  X1:236 X2:483 Y1:452 Y2:523
+When did you start
+calling me Doctor?
+
+316
+00:20:43,799 --> 00:20:45,995  X1:208 X2:511 Y1:488 Y2:523
+Such a lonely little boy!
+
+317
+00:20:46,035 --> 00:20:48,452  X1:170 X2:549 Y1:488 Y2:523
+Lonely then and lonelier now.
+
+318
+00:20:49,990 --> 00:20:53,230  X1:222 X2:497 Y1:452 Y2:523
+How can you bear it?
+How did you do that?
+
+319
+00:20:53,270 --> 00:20:57,121  X1:134 X2:585 Y1:452 Y2:523
+A door, once opened, may be
+stepped through in either direction.
+
+320
+00:20:59,344 --> 00:21:01,140  X1:280 X2:439 Y1:488 Y2:523
+Oh, Doctor!
+
+321
+00:21:01,180 --> 00:21:02,789  X1:232 X2:485 Y1:488 Y2:523
+My lonely Doctor. . .
+
+322
+00:21:06,612 --> 00:21:08,928  X1:208 X2:511 Y1:488 Y2:523
+dance with me. I can't.
+
+323
+00:21:08,968 --> 00:21:10,449  X1:256 X2:461 Y1:488 Y2:523
+Dance with me!
+
+324
+00:21:10,489 --> 00:21:12,766  X1:202 X2:517 Y1:452 Y2:523
+This is the night
+you dance with the King.
+
+325
+00:21:12,806 --> 00:21:14,962  X1:136 X2:583 Y1:488 Y2:523
+Then first I shall make him jealous.
+
+326
+00:21:15,002 --> 00:21:18,760  X1:256 X2:463 Y1:488 Y2:523
+I can't. Doctor.
+
+327
+00:21:18,800 --> 00:21:20,273  X1:274 X2:443 Y1:488 Y2:523
+Doctor who?
+
+328
+00:21:23,078 --> 00:21:26,315  X1:240 X2:479 Y1:452 Y2:523
+It's more than just
+a secret, isn't it?
+
+329
+00:21:26,355 --> 00:21:29,511  X1:238 X2:481 Y1:488 Y2:523
+What did you see?
+
+330
+00:21:29,551 --> 00:21:32,029  X1:126 X2:593 Y1:488 Y2:523
+That there comes a time, Time Lord,
+
+331
+00:21:32,069 --> 00:21:36,045  X1:184 X2:535 Y1:452 Y2:523
+when every lonely little boy
+must learn how to dance.
+
+332
+00:21:47,929 --> 00:21:51,084  X1:188 X2:529 Y1:452 Y2:523
+What is this?
+What's going on? Doctor?
+
+333
+00:21:51,124 --> 00:21:54,042  X1:316 X2:403 Y1:488 Y2:523
+Rose!
+
+334
+00:21:54,082 --> 00:21:56,439  X1:178 X2:541 Y1:452 Y2:523
+They're going to chop us up.
+Just like the crew!
+
+335
+00:21:56,479 --> 00:21:58,719  X1:142 X2:577 Y1:452 Y2:523
+They're going to chop us and stick
+us all over their stupid space ship!
+
+336
+00:21:58,759 --> 00:22:02,354  X1:142 X2:575 Y1:452 Y2:523
+And where's The Doctor?
+Where's the precious Doctor now?
+
+337
+00:22:02,394 --> 00:22:07,724  X1:138 X2:581 Y1:452 Y2:523
+Been gone for flippin' hours, that's
+where he is! You are compatible.
+
+338
+00:22:09,788 --> 00:22:16,219  X1:132 X2:587 Y1:416 Y2:523
+Well, you might want to think about
+that. You really, really might,
+because me and Mickey,
+
+339
+00:22:16,259 --> 00:22:20,016  X1:128 X2:589 Y1:452 Y2:523
+we didn't come here alone. Oh, no,
+and trust me, you wouldn't want
+
+340
+00:22:20,056 --> 00:22:22,029  X1:134 X2:585 Y1:488 Y2:523
+to mess with our designated driver.
+
+341
+00:22:28,127 --> 00:22:31,084  X1:194 X2:525 Y1:452 Y2:523
+Ever heard of the Daleks?
+Remember them?
+
+342
+00:22:31,124 --> 00:22:32,764  X1:158 X2:561 Y1:488 Y2:523
+They had a name for our friend.
+
+343
+00:22:32,804 --> 00:22:35,440  X1:110 X2:609 Y1:488 Y2:523
+They had myths about him and a name.
+
+344
+00:22:35,480 --> 00:22:37,878  X1:216 X2:503 Y1:488 Y2:523
+They called him the. . .
+
+345
+00:22:37,918 --> 00:22:41,193  X1:136 X2:583 Y1:452 Y2:523
+# I could have danced all night
+I could have danced all night. . . ! #
+
+346
+00:22:41,233 --> 00:22:43,151  X1:216 X2:503 Y1:488 Y2:523
+They called him the. . .
+
+347
+00:22:43,191 --> 00:22:47,426  X1:142 X2:577 Y1:488 Y2:523
+# And still have begged for more!
+
+348
+00:22:47,466 --> 00:22:49,747  X1:156 X2:561 Y1:488 Y2:523
+# I could have spread my wings
+
+349
+00:22:49,787 --> 00:22:53,098  X1:190 X2:529 Y1:452 Y2:523
+# And done a thousand. . .
+Have you met the French?
+
+350
+00:22:53,138 --> 00:22:55,697  X1:112 X2:605 Y1:488 Y2:523
+# My God, they know how to party! #
+
+351
+00:22:55,737 --> 00:22:58,815  X1:144 X2:575 Y1:452 Y2:523
+Well, look at what the cat
+dragged in. The oncoming storm!
+
+352
+00:22:58,855 --> 00:23:02,408  X1:124 X2:595 Y1:416 Y2:523
+Ooh, you sound just like your
+mother! What have you been doing?
+Where have you been?
+
+353
+00:23:02,448 --> 00:23:08,361  X1:142 X2:577 Y1:416 Y2:523
+Well, among other things, I think
+I just invented the Banana Daiquiri
+a couple of centuries early.
+
+354
+00:23:08,401 --> 00:23:11,482  X1:178 X2:539 Y1:452 Y2:523
+D'you know, they'd never
+even seen a banana before?
+
+355
+00:23:11,522 --> 00:23:15,676  X1:154 X2:565 Y1:452 Y2:523
+Always take a banana to a
+party, Rose. Bananas are good!
+
+356
+00:23:15,716 --> 00:23:18,474  X1:272 X2:447 Y1:488 Y2:523
+Oh, brilliant!
+
+357
+00:23:18,514 --> 00:23:20,310  X1:302 X2:417 Y1:488 Y2:523
+It's you!
+
+358
+00:23:20,350 --> 00:23:22,630  X1:172 X2:547 Y1:488 Y2:523
+You're my favourite, you are!
+
+359
+00:23:22,670 --> 00:23:24,748  X1:142 X2:577 Y1:488 Y2:523
+You are the best! You know why?
+
+360
+00:23:24,788 --> 00:23:27,545  X1:232 X2:485 Y1:488 Y2:523
+Cos you're so thick!
+
+361
+00:23:27,585 --> 00:23:33,735  X1:180 X2:539 Y1:416 Y2:523
+You're Mr Thick,
+Thick, Thicketty, Thick face
+from Thick town, Thickania.
+
+362
+00:23:33,775 --> 00:23:35,493  X1:238 X2:481 Y1:488 Y2:523
+And so's your Dad!
+
+363
+00:23:35,533 --> 00:23:37,414  X1:168 X2:551 Y1:452 Y2:523
+Do you know what they were
+scanning Reinette's brain for?
+
+364
+00:23:37,454 --> 00:23:41,368  X1:250 X2:469 Y1:488 Y2:523
+Her mileometer.
+
+365
+00:23:41,408 --> 00:23:43,248  X1:126 X2:591 Y1:488 Y2:523
+They wanted to know how old she is.
+
+366
+00:23:43,288 --> 00:23:47,642  X1:178 X2:539 Y1:452 Y2:523
+Know why?
+Cos this ship is 37 years old.
+
+367
+00:23:47,682 --> 00:23:54,156  X1:144 X2:573 Y1:416 Y2:523
+And they think when Reinette
+is 37, when she's "complete",
+then her brain will be compatible.
+
+368
+00:23:54,196 --> 00:23:59,631  X1:120 X2:597 Y1:416 Y2:523
+Cos that's what you're
+missing, isn't it, mmm? The
+command circuit from your computer.
+
+369
+00:23:59,671 --> 00:24:01,749  X1:204 X2:515 Y1:488 Y2:523
+Your ship needs a brain.
+
+370
+00:24:01,789 --> 00:24:07,901  X1:142 X2:577 Y1:416 Y2:523
+And for some reason,
+God knows what, only the brain
+of Madame de Pompadour will do.
+
+371
+00:24:07,941 --> 00:24:10,017  X1:204 X2:515 Y1:488 Y2:523
+The brain is compatible.
+
+372
+00:24:10,057 --> 00:24:11,895  X1:274 X2:445 Y1:488 Y2:523
+Compatible?
+
+373
+00:24:11,935 --> 00:24:15,786  X1:210 X2:509 Y1:416 Y2:523
+If you believe that then
+you probably believe
+this is a glass of wine.
+
+374
+00:24:24,483 --> 00:24:26,399  X1:224 X2:495 Y1:488 Y2:523
+Multi grade anti oil.
+
+375
+00:24:26,439 --> 00:24:28,208  X1:202 X2:517 Y1:488 Y2:523
+"If it moves, it doesn't."
+
+376
+00:24:32,753 --> 00:24:35,032  X1:218 X2:501 Y1:452 Y2:523
+Right, you two, that's
+enough lying about.
+
+377
+00:24:35,072 --> 00:24:37,312  X1:216 X2:501 Y1:452 Y2:523
+Time we got the rest
+of the ship turned off.
+
+378
+00:24:37,352 --> 00:24:39,948  X1:164 X2:555 Y1:488 Y2:523
+Those things safe? Yep, safe.
+
+379
+00:24:39,988 --> 00:24:41,703  X1:162 X2:557 Y1:488 Y2:523
+Safe and thick. Way I like 'em.
+
+380
+00:24:41,743 --> 00:24:43,303  X1:196 X2:521 Y1:452 Y2:523
+OK, all the time windows
+are controlled from here.
+
+381
+00:24:43,343 --> 00:24:46,939  X1:114 X2:603 Y1:452 Y2:523
+Need to close them all down.
+Zeus plugs, where are my Zeus plugs?
+
+382
+00:24:46,979 --> 00:24:49,336  X1:172 X2:547 Y1:452 Y2:523
+Had them a minute ago, I
+was using them as castanets.
+
+383
+00:24:49,376 --> 00:24:51,813  X1:144 X2:575 Y1:452 Y2:523
+Why didn't they just open a
+time window to when she was 37?
+
+384
+00:24:51,853 --> 00:24:55,371  X1:130 X2:589 Y1:416 Y2:523
+Amount of damage in these circuits,
+they did well to hit the right
+century. Trial and error after that.
+
+385
+00:24:55,411 --> 00:24:58,088  X1:182 X2:535 Y1:488 Y2:523
+The windows aren't closing.
+
+386
+00:24:58,128 --> 00:25:00,324  X1:214 X2:505 Y1:488 Y2:523
+Why won't they close?
+
+387
+00:25:00,364 --> 00:25:02,282  X1:214 X2:505 Y1:488 Y2:523
+What's that? I dunno.
+
+388
+00:25:02,322 --> 00:25:04,480  X1:152 X2:567 Y1:488 Y2:523
+Incoming message? From who?
+
+389
+00:25:04,520 --> 00:25:08,875  X1:134 X2:585 Y1:416 Y2:523
+Report from the field.
+One of them must still be out there
+with Reinette.
+
+390
+00:25:08,915 --> 00:25:12,356  X1:170 X2:549 Y1:452 Y2:523
+That's why I can't close the
+windows, there's an override.
+
+391
+00:25:16,748 --> 00:25:18,386  X1:190 X2:527 Y1:488 Y2:523
+Oh. That was a bit clever.
+
+392
+00:25:21,940 --> 00:25:26,258  X1:126 X2:593 Y1:452 Y2:523
+Right,
+many things about this are not good.
+
+393
+00:25:26,298 --> 00:25:30,172  X1:158 X2:559 Y1:452 Y2:523
+Message from one of your little
+friends? Anything interesting?
+
+394
+00:25:30,212 --> 00:25:33,039  X1:182 X2:537 Y1:488 Y2:523
+She is complete. It begins.
+
+395
+00:25:36,446 --> 00:25:38,563  X1:234 X2:483 Y1:488 Y2:523
+What's happening?
+
+396
+00:25:38,603 --> 00:25:41,842  X1:134 X2:585 Y1:416 Y2:523
+One of them must have found
+the right time window.
+Now it's time to send in the troops.
+
+397
+00:25:41,882 --> 00:25:44,094  X1:208 X2:511 Y1:452 Y2:523
+And this time they're
+bringing back her head.
+
+398
+00:25:56,469 --> 00:25:58,861  X1:144 X2:575 Y1:452 Y2:523
+Madame de Pompadour. . .
+Please, don't scream or anything.
+
+399
+00:25:58,901 --> 00:26:03,657  X1:166 X2:551 Y1:416 Y2:523
+We haven't got a lot of time!
+I have come to warn you that
+they will be here in five years.
+
+400
+00:26:03,697 --> 00:26:08,415  X1:132 X2:585 Y1:452 Y2:523
+Five years?
+Some time after your 37th birthday.
+
+401
+00:26:08,455 --> 00:26:13,648  X1:140 X2:579 Y1:452 Y2:523
+I can't give you an exact date, it's
+a bit random. But they're coming.
+
+402
+00:26:13,688 --> 00:26:15,925  X1:238 X2:481 Y1:488 Y2:523
+It's gonna happen.
+
+403
+00:26:15,965 --> 00:26:19,802  X1:216 X2:503 Y1:452 Y2:523
+In a way. . .for us. . .it's
+already happening.
+
+404
+00:26:19,842 --> 00:26:23,916  X1:162 X2:557 Y1:452 Y2:523
+I'm sorry, it's hard to explain
+The Doctor does this better.
+
+405
+00:26:23,956 --> 00:26:27,353  X1:182 X2:537 Y1:452 Y2:523
+Then be exact and I will be
+attentive. There isn't time.
+
+406
+00:26:27,393 --> 00:26:29,114  X1:226 X2:493 Y1:488 Y2:523
+There are five years.
+
+407
+00:26:29,154 --> 00:26:31,270  X1:132 X2:587 Y1:488 Y2:523
+For you. I haven't got five minutes.
+
+408
+00:26:31,310 --> 00:26:33,602  X1:220 X2:499 Y1:488 Y2:523
+Then also be concise.
+
+409
+00:26:35,862 --> 00:26:41,536  X1:200 X2:519 Y1:488 Y2:523
+Um. . .there's a. . .vessel.
+
+410
+00:26:41,576 --> 00:26:44,135  X1:190 X2:529 Y1:488 Y2:523
+A ship. A sort of sky ship.
+
+411
+00:26:44,175 --> 00:26:48,889  X1:188 X2:531 Y1:488 Y2:523
+And it's full of. . .well, you.
+
+412
+00:26:48,929 --> 00:26:55,083  X1:134 X2:583 Y1:416 Y2:523
+Different bits of your life, in
+different rooms all jumbled up. I
+told you it was complicated. Sorry.
+
+413
+00:26:55,123 --> 00:26:58,878  X1:160 X2:557 Y1:488 Y2:523
+There is a vessel in your world,
+
+414
+00:26:58,918 --> 00:27:03,954  X1:122 X2:597 Y1:416 Y2:523
+where the days of my life are pressed
+together, like the chapters of a
+book, so that he may step from one
+
+415
+00:27:03,994 --> 00:27:06,832  X1:126 X2:591 Y1:488 Y2:523
+to the other without increase of age,
+
+416
+00:27:06,872 --> 00:27:11,424  X1:142 X2:577 Y1:452 Y2:523
+while I, weary traveller,
+must always take the slower path.
+
+417
+00:27:11,464 --> 00:27:14,261  X1:206 X2:513 Y1:488 Y2:523
+He was right about you!
+
+418
+00:27:14,301 --> 00:27:16,540  X1:212 X2:507 Y1:452 Y2:523
+So! In five years these
+creatures will return.
+
+419
+00:27:16,580 --> 00:27:19,337  X1:130 X2:589 Y1:452 Y2:523
+What can be done?
+The Doctor says, keep them talking.
+
+420
+00:27:19,377 --> 00:27:21,894  X1:156 X2:563 Y1:452 Y2:523
+They're kind of
+programmed to respond to you.
+
+421
+00:27:21,934 --> 00:27:26,210  X1:118 X2:599 Y1:416 Y2:523
+Now, you won't be able to stop them,
+but you might be able to delay them
+a bit. Until?
+
+422
+00:27:26,250 --> 00:27:28,807  X1:162 X2:555 Y1:488 Y2:523
+Until The Doctor can get there.
+
+423
+00:27:28,847 --> 00:27:31,325  X1:146 X2:571 Y1:488 Y2:523
+He's coming then? He promises.
+
+424
+00:27:31,365 --> 00:27:34,960  X1:168 X2:551 Y1:452 Y2:523
+But he cannot
+make his promises in person?
+
+425
+00:27:35,000 --> 00:27:39,236  X1:140 X2:579 Y1:452 Y2:523
+He'll be there when you need him.
+That's the way
+
+426
+00:27:39,276 --> 00:27:41,514  X1:160 X2:559 Y1:452 Y2:523
+it's got to be.
+It's the way it has always been.
+
+427
+00:27:41,554 --> 00:27:44,593  X1:168 X2:551 Y1:488 Y2:523
+The monsters and The Doctor.
+
+428
+00:27:44,633 --> 00:27:47,269  X1:196 X2:523 Y1:452 Y2:523
+It seems you cannot have
+one without the other.
+
+429
+00:27:47,309 --> 00:27:49,504  X1:250 X2:469 Y1:488 Y2:523
+Tell me about it.
+
+430
+00:27:49,544 --> 00:27:54,459  X1:124 X2:595 Y1:452 Y2:523
+The thing is,
+you weren't supposed to have either.
+
+431
+00:27:54,499 --> 00:27:57,815  X1:220 X2:499 Y1:452 Y2:523
+Those creatures are
+messing with history.
+
+432
+00:27:57,855 --> 00:28:01,172  X1:118 X2:599 Y1:452 Y2:523
+None of this was ever supposed to
+happen to you. Supposed to happen?
+
+433
+00:28:01,212 --> 00:28:02,812  X1:212 X2:507 Y1:488 Y2:523
+What does that mean?
+
+434
+00:28:02,852 --> 00:28:07,605  X1:160 X2:557 Y1:452 Y2:523
+It happened, child, and I would
+not have had it any other way.
+
+435
+00:28:07,645 --> 00:28:11,291  X1:148 X2:569 Y1:452 Y2:523
+One may tolerate a world of
+demons for the sake of an angel.
+
+436
+00:28:14,600 --> 00:28:17,796  X1:266 X2:453 Y1:488 Y2:523
+Rose? Rose?
+
+437
+00:28:17,836 --> 00:28:19,714  X1:312 X2:405 Y1:488 Y2:523
+Rose?
+
+438
+00:28:19,754 --> 00:28:21,632  X1:146 X2:573 Y1:488 Y2:523
+The Time Window where she's 37.
+
+439
+00:28:21,672 --> 00:28:23,475  X1:216 X2:503 Y1:452 Y2:523
+We've found it,
+right under our noses!
+
+440
+00:28:27,062 --> 00:28:28,942  X1:194 X2:525 Y1:488 Y2:523
+No, you can't go in there!
+
+441
+00:28:28,982 --> 00:28:30,455  X1:206 X2:513 Y1:488 Y2:523
+The Doctor will go mad!
+
+442
+00:28:37,333 --> 00:28:39,371  X1:232 X2:487 Y1:488 Y2:523
+So this is his world.
+
+443
+00:28:39,411 --> 00:28:44,367  X1:078 X2:583 Y1:452 Y2:523
+SCREAMING
+What was that? The Time Window.
+
+444
+00:28:44,407 --> 00:28:47,244  X1:164 X2:553 Y1:452 Y2:523
+The Doctor fixed
+an audio link. Those screams.
+
+445
+00:28:47,284 --> 00:28:49,361  X1:240 X2:479 Y1:488 Y2:523
+Is that my future?
+
+446
+00:28:49,401 --> 00:28:50,961  X1:256 X2:461 Y1:488 Y2:523
+Yes. I'm sorry.
+
+447
+00:28:51,001 --> 00:28:53,838  X1:144 X2:575 Y1:488 Y2:523
+Then I must take the slower path.
+
+448
+00:28:53,878 --> 00:28:56,236  X1:078 X2:521 Y1:452 Y2:523
+REINETTE'S VOICE:
+'Are you there? Can you hear me?
+
+449
+00:28:56,276 --> 00:29:00,425  X1:140 X2:579 Y1:416 Y2:523
+'I need you now, you promised!
+The clock on the mantel is broken!
+It is time!'
+
+450
+00:29:00,465 --> 00:29:03,664  X1:146 X2:573 Y1:452 Y2:523
+That's my voice. Rose, come on,
+we've got to go.
+
+451
+00:29:03,704 --> 00:29:06,736  X1:106 X2:613 Y1:488 Y2:523
+There's a problem! Give me a moment!
+
+452
+00:29:13,175 --> 00:29:17,011  X1:136 X2:583 Y1:488 Y2:523
+Are you OK? No. I am very afraid.
+
+453
+00:29:17,051 --> 00:29:19,808  X1:198 X2:521 Y1:452 Y2:523
+But you and I both know,
+don't we, Rose?
+
+454
+00:29:19,848 --> 00:29:22,356  X1:142 X2:575 Y1:488 Y2:523
+The Doctor is worth the monsters.
+
+455
+00:29:29,439 --> 00:29:32,437  X1:246 X2:471 Y1:488 Y2:523
+'Doctor! Doctor!'
+
+456
+00:29:32,477 --> 00:29:35,349  X1:078 X2:295 Y1:488 Y2:523
+PEOPLE SCREAM
+
+457
+00:29:48,498 --> 00:29:49,934  X1:306 X2:411 Y1:488 Y2:523
+Doctor!
+
+458
+00:29:49,974 --> 00:29:53,256  X1:172 X2:547 Y1:452 Y2:523
+We must go!
+No one is coming to help us.
+
+459
+00:30:00,245 --> 00:30:04,750  X1:140 X2:579 Y1:488 Y2:523
+You are complete. You will come.
+
+460
+00:30:12,795 --> 00:30:16,946  X1:138 X2:581 Y1:452 Y2:523
+You found it, then! They knew I
+was coming, they've blocked it off.
+
+461
+00:30:16,986 --> 00:30:19,785  X1:160 X2:557 Y1:452 Y2:523
+Where are we going?
+The teleport has limited range.
+
+462
+00:30:19,825 --> 00:30:22,502  X1:204 X2:515 Y1:452 Y2:523
+We must have proximity
+to the time portal.
+
+463
+00:30:22,542 --> 00:30:24,259  X1:190 X2:529 Y1:488 Y2:523
+Your words mean nothing.
+
+464
+00:30:24,299 --> 00:30:25,817  X1:250 X2:469 Y1:488 Y2:523
+You are nothing.
+
+465
+00:30:27,817 --> 00:30:31,093  X1:132 X2:587 Y1:416 Y2:523
+I don't get it. How come they got
+in there? They teleported, you saw
+them. As long as the ship
+
+466
+00:30:31,133 --> 00:30:33,571  X1:144 X2:575 Y1:416 Y2:523
+and the ballroom are linked, their
+short range teleports
+will do the trick.
+
+467
+00:30:33,611 --> 00:30:37,887  X1:132 X2:587 Y1:416 Y2:523
+We'll go in the Tardis! I can't use
+the Tardis, we're part of events
+now! Can't we just smash through?
+
+468
+00:30:37,927 --> 00:30:40,045  X1:158 X2:561 Y1:452 Y2:523
+Hyperplex this side, plate glass
+the other. We'd need a truck.
+
+469
+00:30:40,085 --> 00:30:43,761  X1:132 X2:587 Y1:416 Y2:523
+We don't have a truck!
+I know we don't have a truck! Well,
+we've got to try something!
+
+470
+00:30:43,801 --> 00:30:46,759  X1:116 X2:603 Y1:452 Y2:523
+No, smash the glass, smash the
+Time Window, there'd be no way back.
+
+471
+00:30:46,799 --> 00:30:51,912  X1:158 X2:561 Y1:452 Y2:523
+Could everyone just calm down!
+Please!
+
+472
+00:30:51,952 --> 00:30:56,267  X1:212 X2:507 Y1:452 Y2:523
+Such a commotion,
+such distressing noise.
+
+473
+00:30:56,307 --> 00:30:59,864  X1:218 X2:501 Y1:452 Y2:523
+Kindly remember
+that this is Versailles.
+
+474
+00:30:59,904 --> 00:31:03,140  X1:210 X2:509 Y1:452 Y2:523
+This is the Royal Court.
+And we are French.
+
+475
+00:31:08,174 --> 00:31:10,531  X1:208 X2:511 Y1:488 Y2:523
+I have made a decision.
+
+476
+00:31:10,571 --> 00:31:13,247  X1:202 X2:517 Y1:488 Y2:523
+And my decision is "no".
+
+477
+00:31:13,287 --> 00:31:15,606  X1:136 X2:583 Y1:488 Y2:523
+I shall not be going with you today.
+
+478
+00:31:15,646 --> 00:31:20,804  X1:148 X2:569 Y1:452 Y2:523
+I have seen your world, I have no
+desire to set foot there again.
+
+479
+00:31:20,844 --> 00:31:23,181  X1:178 X2:541 Y1:488 Y2:523
+We do not require your feet.
+
+480
+00:31:25,118 --> 00:31:27,166  X1:078 X2:245 Y1:488 Y2:523
+ALL SCREAM
+
+481
+00:31:32,949 --> 00:31:35,825  X1:226 X2:491 Y1:488 Y2:523
+You think I fear you,
+
+482
+00:31:35,865 --> 00:31:38,223  X1:160 X2:559 Y1:488 Y2:523
+but I do not fear you even now.
+
+483
+00:31:38,263 --> 00:31:42,375  X1:168 X2:551 Y1:452 Y2:523
+You are merely the nightmare
+of my childhood.
+
+484
+00:31:42,415 --> 00:31:44,652  X1:148 X2:571 Y1:488 Y2:523
+The monster from under my bed.
+
+485
+00:31:44,692 --> 00:31:49,689  X1:144 X2:573 Y1:416 Y2:523
+And if my nightmare can return to
+plague me, then rest assured,
+so will yours!
+
+486
+00:31:49,729 --> 00:31:52,647  X1:078 X2:277 Y1:488 Y2:523
+HORSE NEIGHS
+
+487
+00:31:53,367 --> 00:31:57,053  X1:078 X2:457 Y1:488 Y2:523
+HORSE GALLOPS IN DISTANCE
+
+488
+00:32:22,537 --> 00:32:24,212  X1:202 X2:517 Y1:488 Y2:523
+Madame de Pompadour.
+
+489
+00:32:24,252 --> 00:32:26,093  X1:184 X2:533 Y1:488 Y2:523
+You look younger ever day.
+
+490
+00:32:26,133 --> 00:32:28,169  X1:190 X2:529 Y1:488 Y2:523
+What the hell is going on?
+
+491
+00:32:28,209 --> 00:32:29,809  X1:330 X2:389 Y1:488 Y2:523
+Oh!
+
+492
+00:32:29,849 --> 00:32:33,764  X1:130 X2:589 Y1:488 Y2:523
+This is my lover, the King of France.
+
+493
+00:32:33,804 --> 00:32:35,447  X1:154 X2:565 Y1:488 Y2:523
+Yeah, well I'm the Lord of Time.
+
+494
+00:32:38,207 --> 00:32:39,731  X1:174 X2:545 Y1:488 Y2:523
+And I'm here to fix the clock!
+
+495
+00:32:42,515 --> 00:32:45,709  X1:232 X2:487 Y1:488 Y2:523
+Forget it. It's over.
+
+496
+00:32:45,749 --> 00:32:47,746  X1:230 X2:487 Y1:488 Y2:523
+For you and for me.
+
+497
+00:32:47,786 --> 00:32:50,704  X1:148 X2:569 Y1:488 Y2:523
+Talk about seven years' bad luck.
+
+498
+00:32:52,384 --> 00:32:54,386  X1:232 X2:487 Y1:488 Y2:523
+Try three thousand!
+
+499
+00:33:00,217 --> 00:33:02,292  X1:248 X2:471 Y1:488 Y2:523
+What happened?
+
+500
+00:33:02,332 --> 00:33:04,652  X1:154 X2:565 Y1:488 Y2:523
+Where did the Time Window go?
+
+501
+00:33:04,692 --> 00:33:06,176  X1:192 X2:527 Y1:488 Y2:523
+How's he gonna get back?
+
+502
+00:33:21,849 --> 00:33:24,929  X1:156 X2:563 Y1:488 Y2:523
+The link with the ship is broken.
+
+503
+00:33:24,969 --> 00:33:26,846  X1:270 X2:447 Y1:488 Y2:523
+No way back.
+
+504
+00:33:26,886 --> 00:33:30,843  X1:196 X2:521 Y1:488 Y2:523
+You don't have the parts.
+
+505
+00:33:30,883 --> 00:33:34,317  X1:188 X2:531 Y1:452 Y2:523
+How many ticks left in that
+clockwork heart?
+
+506
+00:33:34,357 --> 00:33:38,993  X1:182 X2:537 Y1:488 Y2:523
+A day? An hour? It's over.
+
+507
+00:33:39,033 --> 00:33:41,672  X1:278 X2:441 Y1:488 Y2:523
+Accept that.
+
+508
+00:33:41,712 --> 00:33:44,509  X1:208 X2:511 Y1:488 Y2:523
+I'm not winding you up.
+
+509
+00:33:44,549 --> 00:33:46,033  X1:268 X2:451 Y1:488 Y2:523
+You all right?
+
+510
+00:34:02,248 --> 00:34:04,102  X1:186 X2:533 Y1:488 Y2:523
+What's happened to them?
+
+511
+00:34:05,605 --> 00:34:08,482  X1:248 X2:471 Y1:488 Y2:523
+They've stopped.
+
+512
+00:34:08,522 --> 00:34:10,370  X1:184 X2:533 Y1:488 Y2:523
+They have no purpose now.
+
+513
+00:34:21,070 --> 00:34:24,147  X1:134 X2:585 Y1:488 Y2:523
+We can't fly the Tardis without him.
+
+514
+00:34:24,187 --> 00:34:26,081  X1:174 X2:545 Y1:488 Y2:523
+How is he going to get back?
+
+515
+00:34:42,086 --> 00:34:45,123  X1:122 X2:597 Y1:488 Y2:523
+You know all their names, don't you?
+
+516
+00:34:45,163 --> 00:34:48,040  X1:206 X2:511 Y1:488 Y2:523
+I saw that in your mind.
+
+517
+00:34:48,080 --> 00:34:49,798  X1:206 X2:513 Y1:488 Y2:523
+The name of every star.
+
+518
+00:34:49,838 --> 00:34:53,274  X1:172 X2:547 Y1:416 Y2:523
+What's in a name?
+Names are just titles.
+Titles don't tell you anything.
+
+519
+00:34:53,314 --> 00:34:55,792  X1:236 X2:481 Y1:488 Y2:523
+Like "The Doctor"?
+
+520
+00:34:55,832 --> 00:34:57,726  X1:160 X2:557 Y1:488 Y2:523
+Like "Madame de Pompadour".
+
+521
+00:35:00,468 --> 00:35:03,585  X1:192 X2:527 Y1:452 Y2:523
+I have often wished to see
+those stars a little closer.
+
+522
+00:35:03,625 --> 00:35:06,342  X1:200 X2:519 Y1:488 Y2:523
+Just as you have, I think.
+
+523
+00:35:06,382 --> 00:35:08,142  X1:234 X2:485 Y1:488 Y2:523
+From time to time.
+
+524
+00:35:08,182 --> 00:35:11,177  X1:134 X2:585 Y1:488 Y2:523
+In saving me, you trapped yourself.
+
+525
+00:35:11,217 --> 00:35:13,771  X1:146 X2:573 Y1:488 Y2:523
+Did you know that would happen?
+
+526
+00:35:13,811 --> 00:35:17,170  X1:150 X2:569 Y1:488 Y2:523
+Pretty much. Yet still you came.
+
+527
+00:35:17,210 --> 00:35:19,765  X1:224 X2:495 Y1:488 Y2:523
+Yeah, I did, didn't I?
+
+528
+00:35:19,805 --> 00:35:22,966  X1:188 X2:531 Y1:488 Y2:523
+Catch me doing that again!
+
+529
+00:35:23,006 --> 00:35:25,962  X1:172 X2:547 Y1:452 Y2:523
+There were many doors
+between my world and yours.
+
+530
+00:35:26,002 --> 00:35:27,599  X1:136 X2:581 Y1:488 Y2:523
+Can you not use one of the others?
+
+531
+00:35:27,639 --> 00:35:31,753  X1:140 X2:579 Y1:416 Y2:523
+When the mirror broke,
+the shock would've
+severed all the links with the ship.
+
+532
+00:35:31,793 --> 00:35:36,229  X1:134 X2:585 Y1:416 Y2:523
+There'll be
+a few more broken mirrors and torn
+tapestries around here, I'm afraid.
+
+533
+00:35:36,269 --> 00:35:38,547  X1:132 X2:585 Y1:488 Y2:523
+Wherever there was a time window.
+
+534
+00:35:38,587 --> 00:35:41,254  X1:182 X2:537 Y1:488 Y2:523
+I'll, I'll pay for any damage.
+
+535
+00:35:43,582 --> 00:35:47,617  X1:122 X2:597 Y1:416 Y2:523
+That's a thought, I'm
+going to need money. Always been a
+bit vague about money.
+
+536
+00:35:47,657 --> 00:35:50,573  X1:180 X2:539 Y1:488 Y2:523
+. .Where do you get money?
+
+537
+00:35:50,613 --> 00:35:53,091  X1:250 X2:467 Y1:488 Y2:523
+So here you are.
+
+538
+00:35:53,131 --> 00:35:55,647  X1:250 X2:469 Y1:488 Y2:523
+My lonely angel.
+
+539
+00:35:55,687 --> 00:35:57,887  X1:154 X2:563 Y1:488 Y2:523
+Stuck on the slow path with me.
+
+540
+00:35:57,927 --> 00:36:01,401  X1:226 X2:493 Y1:488 Y2:523
+Yep! The slow path!
+
+541
+00:36:01,441 --> 00:36:03,084  X1:204 X2:515 Y1:488 Y2:523
+Here's to the slow path.
+
+542
+00:36:08,318 --> 00:36:13,232  X1:132 X2:587 Y1:452 Y2:523
+It's a pity. I think
+I would have enjoyed the slow path.
+
+543
+00:36:13,272 --> 00:36:16,190  X1:166 X2:553 Y1:488 Y2:523
+Well, I'm not going anywhere.
+
+544
+00:36:16,230 --> 00:36:17,748  X1:254 X2:463 Y1:488 Y2:523
+Oh, aren't you?
+
+545
+00:36:19,383 --> 00:36:21,112  X1:262 X2:457 Y1:488 Y2:523
+Take my hand.
+
+546
+00:36:41,960 --> 00:36:45,317  X1:150 X2:567 Y1:488 Y2:523
+It is not a copy, it is the original.
+
+547
+00:36:45,357 --> 00:36:48,844  X1:196 X2:523 Y1:452 Y2:523
+I had it moved here and
+was exact in every detail.
+
+548
+00:36:50,311 --> 00:36:51,869  X1:268 X2:451 Y1:488 Y2:523
+The fireplace.
+
+549
+00:36:55,065 --> 00:37:01,299  X1:146 X2:573 Y1:452 Y2:523
+The fireplace from your bedroom!
+. .When did you do this?
+
+550
+00:37:01,339 --> 00:37:03,496  X1:252 X2:467 Y1:488 Y2:523
+Many years ago.
+
+551
+00:37:03,536 --> 00:37:08,047  X1:138 X2:579 Y1:452 Y2:523
+In the hope that a door once
+opened may some day open again.
+
+552
+00:37:09,570 --> 00:37:12,971  X1:176 X2:543 Y1:452 Y2:523
+One never quite knows when
+one needs one's doctor.
+
+553
+00:37:14,924 --> 00:37:17,761  X1:170 X2:549 Y1:452 Y2:523
+It appears undamaged.
+Do you think it will still work?
+
+554
+00:37:17,801 --> 00:37:20,279  X1:178 X2:541 Y1:452 Y2:523
+You broke the bond with
+the ship when you moved it.
+
+555
+00:37:20,319 --> 00:37:23,726  X1:122 X2:597 Y1:452 Y2:523
+Which means it was off line when the
+mirror broke, that's what saved it.
+
+556
+00:37:27,353 --> 00:37:30,429  X1:152 X2:567 Y1:488 Y2:523
+But the link is basically physical,
+
+557
+00:37:30,469 --> 00:37:33,426  X1:180 X2:539 Y1:488 Y2:523
+and it's still physically here,
+
+558
+00:37:33,466 --> 00:37:36,303  X1:132 X2:587 Y1:488 Y2:523
+which might just mean, if I'm lucky,
+
+559
+00:37:36,343 --> 00:37:40,524  X1:214 X2:505 Y1:452 Y2:523
+if I'm very, very, very,
+very lucky. . .
+
+560
+00:37:41,975 --> 00:37:44,932  X1:150 X2:569 Y1:488 Y2:523
+A ha! What? Loose connection!
+
+561
+00:37:44,972 --> 00:37:47,309  X1:122 X2:595 Y1:488 Y2:523
+Need to get a man in! Wish me luck!
+
+562
+00:37:50,166 --> 00:37:52,054  X1:330 X2:389 Y1:488 Y2:523
+No.
+
+563
+00:37:56,240 --> 00:38:01,797  X1:160 X2:557 Y1:452 Y2:523
+Madame de Pompadour?
+. .Still want to see those stars?
+
+564
+00:38:01,837 --> 00:38:04,474  X1:144 X2:573 Y1:452 Y2:523
+More than anything.
+Gimme two minutes. Pack a bag!
+
+565
+00:38:04,514 --> 00:38:06,154  X1:202 X2:517 Y1:488 Y2:523
+Am I going somewhere?
+
+566
+00:38:06,194 --> 00:38:08,975  X1:164 X2:555 Y1:452 Y2:523
+Go to the window. Pick a star.
+Any star.
+
+567
+00:38:21,572 --> 00:38:24,050  X1:210 X2:509 Y1:452 Y2:523
+How long did you wait?
+51/2 hours. Great!
+
+568
+00:38:24,090 --> 00:38:25,729  X1:214 X2:505 Y1:488 Y2:523
+Always wait 51/2 hours.
+
+569
+00:38:25,769 --> 00:38:28,801  X1:136 X2:583 Y1:452 Y2:523
+Where've you been? Explain later,
+into the Tardis. With you in a sec!
+
+570
+00:38:31,205 --> 00:38:34,277  X1:130 X2:589 Y1:488 Y2:523
+Reinette, are you there? Reinette?
+
+571
+00:38:46,267 --> 00:38:49,067  X1:290 X2:427 Y1:488 Y2:523
+Reinette?
+
+572
+00:38:49,107 --> 00:38:51,863  X1:288 X2:429 Y1:488 Y2:523
+Oh, hello!
+
+573
+00:38:51,903 --> 00:38:54,140  X1:226 X2:493 Y1:488 Y2:523
+You just missed her.
+
+574
+00:38:54,180 --> 00:38:56,414  X1:206 X2:513 Y1:488 Y2:523
+She'll be in Paris by six.
+
+575
+00:38:56,454 --> 00:38:58,097  X1:330 X2:389 Y1:488 Y2:523
+Oh.
+
+576
+00:39:00,532 --> 00:39:03,248  X1:284 X2:433 Y1:488 Y2:523
+Good Lord!
+
+577
+00:39:03,288 --> 00:39:04,772  X1:264 X2:455 Y1:488 Y2:523
+She was right.
+
+578
+00:39:06,327 --> 00:39:08,882  X1:234 X2:485 Y1:452 Y2:523
+She said you never
+looked a day older.
+
+579
+00:39:08,922 --> 00:39:12,693  X1:136 X2:583 Y1:452 Y2:523
+So many years since I saw you last,
+but not a day of it on your face.
+
+580
+00:39:24,549 --> 00:39:27,665  X1:166 X2:551 Y1:488 Y2:523
+She spoke of you many times.
+
+581
+00:39:27,705 --> 00:39:30,663  X1:136 X2:583 Y1:488 Y2:523
+Often wished you would visit again.
+
+582
+00:39:30,703 --> 00:39:33,860  X1:188 X2:531 Y1:488 Y2:523
+You know how women are.
+
+583
+00:39:35,133 --> 00:39:37,920  X1:078 X2:277 Y1:488 Y2:523
+HORSE NEIGHS
+
+584
+00:39:45,164 --> 00:39:47,561  X1:228 X2:491 Y1:488 Y2:523
+And there she goes.
+
+585
+00:39:47,601 --> 00:39:50,223  X1:242 X2:477 Y1:452 Y2:523
+Leaving Versailles
+for the last time.
+
+586
+00:39:51,839 --> 00:39:54,091  X1:208 X2:511 Y1:488 Y2:523
+Only 43 when she died.
+
+587
+00:39:55,593 --> 00:39:58,273  X1:284 X2:435 Y1:488 Y2:523
+Too young.
+
+588
+00:39:58,313 --> 00:39:59,956  X1:284 X2:435 Y1:488 Y2:523
+Too young.
+
+589
+00:40:01,467 --> 00:40:04,587  X1:186 X2:533 Y1:488 Y2:523
+Illness took her in the end.
+
+590
+00:40:04,627 --> 00:40:06,714  X1:168 X2:549 Y1:488 Y2:523
+She always did work too hard.
+
+591
+00:40:13,132 --> 00:40:14,656  X1:230 X2:489 Y1:488 Y2:523
+What does she say?
+
+592
+00:40:24,923 --> 00:40:27,800  X1:288 X2:431 Y1:488 Y2:523
+Of course.
+
+593
+00:40:27,840 --> 00:40:29,313  X1:280 X2:437 Y1:488 Y2:523
+Quite right.
+
+594
+00:40:47,897 --> 00:40:49,785  X1:294 X2:425 Y1:488 Y2:523
+Why her?
+
+595
+00:40:51,694 --> 00:40:55,051  X1:148 X2:571 Y1:416 Y2:523
+Why did they think they could
+repair the ship with the
+head of Madame de Pompadour?
+
+596
+00:40:55,091 --> 00:40:57,007  X1:186 X2:533 Y1:488 Y2:523
+We'll probably never know.
+
+597
+00:40:57,047 --> 00:41:01,602  X1:170 X2:547 Y1:416 Y2:523
+There's massive damage in
+the computer memory decks,
+it probably got confused.
+
+598
+00:41:01,642 --> 00:41:06,158  X1:120 X2:599 Y1:452 Y2:523
+The Tardis can close down the Time
+Windows, now the droids have gone
+
+599
+00:41:06,198 --> 00:41:08,581  X1:218 X2:499 Y1:452 Y2:523
+should stop it causing
+any more trouble.
+
+600
+00:41:11,634 --> 00:41:13,443  X1:268 X2:451 Y1:488 Y2:523
+You all right?
+
+601
+00:41:14,990 --> 00:41:16,469  X1:230 X2:487 Y1:488 Y2:523
+I'm always all right.
+
+602
+00:41:22,864 --> 00:41:25,526  X1:146 X2:573 Y1:452 Y2:523
+Come on, Rose, time you showed
+me round the rest of this place.
+
+603
+00:41:45,437 --> 00:41:47,280  X1:248 X2:471 Y1:488 Y2:523
+"My dear Doctor.
+
+604
+00:41:48,794 --> 00:41:54,110  X1:110 X2:609 Y1:452 Y2:523
+"The path has never seemed more slow
+and yet I fear I am nearing its end.
+
+605
+00:41:54,150 --> 00:42:00,781  X1:152 X2:567 Y1:416 Y2:523
+"Reason tells me that you and I
+are unlikely to meet again, but I
+think I shall not listen to reason.
+
+606
+00:42:00,821 --> 00:42:05,615  X1:174 X2:543 Y1:416 Y2:523
+"I have seen the world inside
+your head, and know that
+all things are possible.
+
+607
+00:42:05,655 --> 00:42:08,332  X1:202 X2:515 Y1:488 Y2:523
+"Hurry though, my love.
+
+608
+00:42:08,372 --> 00:42:12,289  X1:180 X2:539 Y1:452 Y2:523
+"My days grow shorter now,
+and I am so very weak.
+
+609
+00:42:12,329 --> 00:42:14,462  X1:168 X2:551 Y1:488 Y2:523
+"Godspeed, my lonely angel."
+
+610
+00:43:20,538 --> 00:43:23,532  X1:202 X2:517 Y1:308 Y2:379
+So this is London. An
+alternative to our world,
+
+611
+00:43:23,572 --> 00:43:25,989  X1:176 X2:543 Y1:452 Y2:523
+where everything's the same
+but a little bit different.
+
+612
+00:43:27,929 --> 00:43:30,526  X1:144 X2:573 Y1:488 Y2:523
+Loads of people are disappearing!
+
+613
+00:43:30,566 --> 00:43:32,362  X1:166 X2:553 Y1:488 Y2:523
+It's been going on for months!
+
+614
+00:43:32,402 --> 00:43:36,320  X1:202 X2:517 Y1:452 Y2:523
+What are they all doing?
+It's the earpieces. . .
+
+615
+00:43:36,360 --> 00:43:41,434  X1:124 X2:595 Y1:452 Y2:523
+The prototype has passed every test,
+sir. It's working!
+
+616
+00:43:41,474 --> 00:43:44,551  X1:202 X2:517 Y1:452 Y2:523
+I've seen them before. . .
+What are they?
+
+617
+00:43:45,472 --> 00:43:50,307  X1:190 X2:529 Y1:452 Y2:523
+A skin of metal and a body
+that will never age!
+
+618
+00:43:57,736 --> 00:44:04,294  X1:112 X2:557 Y1:452 Y2:523
+Subtitles by Red Bee Media Ltd / BBC 2006
+Converted by reirei for the forom
+
+

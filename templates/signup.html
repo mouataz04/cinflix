@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>S'inscrire — CINFLIX</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/signup.css') }}">
+</head>
+<body>
+
+<canvas id="bgCanvas"></canvas>
+
+<div class="login-card">
+  <div class="brand">CINFLIX</div>
+  <div class="card-sub">Créez votre compte</div>
+
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      <div class="errors">
+        {% for msg in messages %}{{ msg }}<br>{% endfor %}
+      </div>
+    {% endif %}
+  {% endwith %}
+
+  <form method="post" action="{{ url_for('signup') }}">
+    <div class="field"><input name="username" type="text" placeholder="Nom d'utilisateur" required></div>
+    <div class="field"><input name="email" type="email" placeholder="Email" required></div>
+    <div class="field"><input name="password" type="password" placeholder="Mot de passe" required></div>
+    <div class="field"><input name="confirm_password" type="password" placeholder="Confirmer le mot de passe" required></div>
+    <button type="submit" class="btn">S'inscrire</button>
+  </form>
+
+  <div class="links">
+    <a href="{{ url_for('login') }}">Déjà inscrit ? Connectez-vous</a>
+  </div>
+</div>
+
+<script src="{{ url_for('static', filename='js/signup.js') }}"></script>
+</body>
+</html>

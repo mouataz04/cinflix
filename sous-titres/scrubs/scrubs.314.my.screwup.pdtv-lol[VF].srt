@@ -1,0 +1,330 @@
+{1}{1}23.976
+{49}{107}"Quand on est médecin, on a le|don pour certaines pratiques."
+{107}{169}Oh. C'est bon. Ici. Ouais.
+{194}{207}L'autre pied.
+{207}{227}NON!
+{263}{331}J'ai quelque chose au pied gauche.
+{369}{428}C'est assez dégoutant.
+{428}{519}Elliot. Je suis chirurgien. J'opère. / Je suis|médecin. Cette main a exploré beaucoup endroits.
+{519}{639}Ok. J'ai un énorme oignon.
+{725}{780}Et Sean qui rentre|bientôt. Je fais quoi ?
+{792}{898}Tu lui montres en lui disant que tu|l'as fait pousser en pensant à lui.
+{929}{967}Ou une petite opération.
+{967}{1040}Turk, "nous" préférons lui montrer.
+{1068}{1089}Enlève-moi ce foutu truc.
+{1089}{1115}Merde.
+{1171}{1194}Merci mademoiselle Espinoza.
+{1194}{1291}Turk ? C'est pas un problème si|je garde mon nom de jeune fille.
+{1333}{1389}Bien sur chérie. Nous sommes|un de ces couples modernes
+{1389}{1461}où mari et femme n'ont|pas besoin de s'aimer.
+{1487}{1542}Turk! Attends! Turk! Turk!
+{1589}{1603}Ça va ?
+{1603}{1625}Parfait.
+{1669}{1706}J'aimerais que le premier|anniversaire de Jack soit réussi.
+{1706}{1788}Un mini zoo pour les enfants et il|faut trouver quelque chose pour les grands.
+{1794}{1903}La roulette russe? Voilà l'idée.|On joue avec les barillets pleins.
+{1903}{1954}Comme ça tout le monde gagnera !
+{1954}{2032}Et une piñata? Juste pour savoir si|je viens avec mon casque à piñata.
+{2032}{2107}Le ringard, on t'a sonné ?| Je t'ai invité parce tu as
+{2107}{2213}un costume de Bob L'éponge. C'est tout.
+{2213}{2244}C'était un cadeau.
+{2244}{2284}"Que je me suis fait."
+{2284}{2380}Sans ça, je ne crois|pas que tu devrais venir.
+{2380}{2404}Pourquoi ?
+{2404}{2449}Toute sa famille sera là.
+{2485}{2506}Salut J.D.
+{2506}{2552}"Oh Mon Dieu ! Qu'est|ce qu'on dit à une fille
+{2552}{2589}qu'on a jetée il y a 3 semaines."
+{2589}{2630}J'ai effacé la vidéo qu'on a faite.
+{2630}{2668}La vidéo?
+{2814}{2857}Danni, fais un effort|sinon personne ne croira
+{2857}{2924}que c'est vrai à VidéoGag.
+{2924}{2981}On peut pas plutôt|rentrer et faire l'amour?
+{2981}{3020}Non ! On recommence.
+{3071}{3107}Je ne verrai jamais Olivia Adriaco.
+{3244}{3292}Et son frère, Ben vient aussi ?
+{3292}{3354}Oh oui. Il ne peut s'empêcher de|faire des entrées spectaculaires.
+{3354}{3412}Mais après il est toujours déçu...
+{3412}{3426}Pourquoi ?
+{3494}{3538}...parce que ça ne surprend personne.
+{3538}{3558}Même pas un peu ?
+{3558}{3571}Non.
+{3571}{3605}Des ronces !!
+{3605}{3773}Oh. Dément. Parfait.|Tourne un peu la tête ?
+{3769}{3797}J'peux pas !
+{3802}{3828}Bien.
+{3833}{3882}Scrubs : My screw-up.
+{3882}{3953}Traduction : Lgy|Synchro et finalisation : foromuser10
+{4154}{4181}Je suis une fleur de cactus.
+{4253}{4301}Je peux voir ? Merci.
+{4461}{4499}Ça a l'air difficile, Polly.
+{4499}{4548}Il faut que j'amorce...
+{4599}{4649}Tu joues toujours au mec|bizarre avec son appareil
+{4649}{4685}autour du cou ?
+{4685}{4718}Jusqu'à ce que je meurs.
+{4718}{4770}C'est en Téflon ou quoi ?
+{4831}{4969}On a un truc en commun. Tu as|couché avec mes deux soeurs.
+{5066}{5102}Faut que j'y aille.
+{5126}{5159}Trop dégueu ?
+{5201}{5249}Ce qui est dégueu, c'est ce|qui empêchait mon meilleur ami
+{5249}{5333}de venir voir mon fils. On diagnostique|une leucémie et tu disparais
+{5333}{5389}pendant 2 ans. Ça veut dire quoi ?
+{5416}{5452}Il y a eu rémission et je voulais|découvrir
+{5452}{5513}les merveilles de ce vaste monde.
+{5513}{5542}Et le résultat ?
+{5564}{5656}J'ai fait quelques jolies|photos. Regarde. Là je suis sur la
+{5656}{5792}Grande muraille de Chine. Près|des Pyramides. C'est quoi ça ?
+{5792}{5857}Ah oui. Toi et moi il y a 8 secondes.
+{5890}{5972}Jordan m'a dit que tu n'as|vu ni médecin, ni rebouteux,
+{5972}{6041}ni même de shaman avec des|anneaux géants dans les oreilles
+{6041}{6100}pendant ta tournée de|leucémique globe-trotter.
+{6100}{6274}Psst. Ben. Un cancer en rémission|ça se surveille de temps en temps.
+{6274}{6324}D'accord. Je ferai un bilan.
+{6406}{6467}Tu m'as tellement manqué. Vraiment.
+{6467}{6532}Merci Perry. Toi aussi.
+{6702}{6730}Merde !
+{6730}{6831}OUAIS !! Encore un gay qui |assume pas !!
+{6879}{6903}Tricheur...
+{6987}{7040}Tu sais Elliot, il va falloir|envisager d'enlever ta chaussette.
+{7040}{7119}Si je le fais, je sais que vous|ne me verrez plus que comme un
+{7119}{7205}immonde pied géant. C'est comme le|gars de la sécurité avec son crochet.
+{7205}{7278}Quand on le regarde, on ne voit|plus qu'une immense coupe afro.
+{7278}{7330}Moi, c'est pareil.
+{7330}{7422}Pense à Sean et ça se passera|bien. Si un petit défaut physique
+{7422}{7567}exaspérait Carla, je ferais|tout pour résoudre le problème.
+{7567}{7624}Ça ne pourrait que|renforcer notre couple.
+{7624}{7666}Je déteste ton grain de beauté.
+{7666}{7679}Hein ?
+{7679}{7699}Hein ?
+{7699}{7817}Chérie, c'est ton grain d'amour,|j'ai rasé ma moustache pour toi.
+{7817}{7874}Je ne savais pas qu'il|serait en dessous.
+{8076}{8147}Je respire enfin.
+{8202}{8226}Salut, toi.
+{8364}{8486}Tu veux te tirer ? Parfait ! Mais tu|es un pauvre bouseux !
+{8486}{8528}Et tu resteras un pauvre|bouseux à jamais !
+{8528}{8600}Vous connaissez mon groupe|Monsieur ? Les Sales Bouseux.
+{8600}{8698}Chris des expéditions, veut|faire une carrière solo. Sans lui,
+{8698}{8791}le groupe n'a plus aucun sex appeal.|C'est le seul à avoir des cheveux.
+{8791}{8823}Qu'est-ce que je peux faire ?
+{8834}{8896}Ted vous savez ce que je pense|des problèmes personnels :
+{8904}{8962}Je m'en fiche s'ils ne concernent pas mes proches 
+{8985}{9036}sauf ma femme. Gribouillez vos trucs là-dessus.
+{9124}{9178}Je ne suis pas maquillé.
+{9206}{9264}Je dois m'inquiéter pour mon palpitant?
+{9264}{9306}Oh Mr. Taylor. Ne vous|faites pas de soucis.
+{9306}{9357}"Oh Mon Dieu ! Il va mourir !"
+{9357}{9457}Blanc-bec. Tu tombes bien. Je|file au commissariat payer les
+{9457}{9538}150$ d'amende pour conduite en état|d'ivresse de Mr Ringard le Jongleur
+{9538}{9641}parce que Jordan le veut|pour l'anniversaire de Jack.
+{9641}{9661}Ouais !
+{9661}{9779}J'y vais seul. Votre mission|est d'emmener le jeune Ben faire
+{9779}{9839}tous les tests hématologiques|possibles et imaginables.
+{9839}{9887}Dr. Cox impossible. Je m'occupe |déjà des patients de Doug.
+{9887}{9929}Il est en cure thermale avec sa mère.
+{9929}{9948}QUOI ?!
+{9948}{10044}Rien. Je suis débordé.  Et|Mr Taylor m'inquiète un peu.
+{10071}{10098}Hiiiiii.
+{10111}{10164}Je ne sais pas pourquoi|son coeur bat comme ça.
+{10164}{10263}J'ai regardé son ECG, Blanc-bec.|Je peux t'assurer qu'il ne va
+{10263}{10360}pas mourir dans les prochaines 30|minutes. C'est paaartiiiiiiiiiiiiiii!
+{10360}{10514}JD. Ma soeur Danny embrasse|plutôt bien, non ? Mais les lèvres
+{10514}{10614}de Jordan sont plus charnues.
+{10614}{10677}Arrête immédiatement.
+{10715}{10819}C'est un excellent|chirurgien esthétique.
+{10925}{10958}On fait quoi ? Plus|gros ou plus petits ?
+{10958}{11033}Mon fiancé aimerait faire|enlever son grain de beauté.
+{11033}{11099}Mais c'est mignon. C'est|comme un grain d'amour.
+{11099}{11147}Non. On l'enlève.
+{11147}{11227}D'accord. Je le retire et|je recouvre le tout avec
+{11227}{11290}un bout de la peau des fesses.
+{11290}{11318}Tu auras une face de cul.
+{11318}{11363}Sympa comme surnom.
+{11363}{11383}Pas vraiment.
+{11383}{11428}Si...  Bon Dieu, il lui faut|combien de temps pour apporter
+{11428}{11462}une boite de médicaments ?
+{11462}{11545}Désolé. On ne vous a pas réveillée,|j'espère. J'ai juste 15 patients
+{11545}{11653}qui attendent et... C'est le code.
+{11653}{11736}Je vais trouver une solution|pour ce grain de beauté.
+{11736}{11772}C'est ça, face de cul.
+{11772}{11798}Faut arrêter !
+{11883}{12018}Quelqu'un que vous aimez|à  des problèmes: moi.
+{12018}{12051}Bien tenté.
+{12121}{12205}Oh, Dieu merci, vous êtes là.|Il faut que je parle à quelqu'un.
+{12205}{12270}J' aurais bien parlé avec le|Dr Cox, mais il n'est pas là.
+{12270}{12359}Il y a Laverne, mais je suis sa|supérieure. Et je me refuse à devenir
+{12359}{12411}trop intime avec mes subordonnés.
+{12411}{12448}Et moi donc.
+{12448}{12530}Voilà. J'ai dit à Turk que je|n'aimais pas son grain de beauté
+{12530}{12603}et je me sens coupable maintenant.|Mais je ne m'y fais pas...
+{12747}{12929}Dr Cox. On est un de moins dans le groupe. Nous ne|pourrons pas jouer à l'anniversaire de votre fils.
+{12929}{13061}Ted. Bien que je ne vous aie|jamais rien demandé, c'est génial!
+{13102}{13143}Ça fait mal là et là.
+{13221}{13258}Dr. Cox
+{13263}{13312}Quel est le souci Sheila ? On dirait|que tu viens de perdre tes couettes.
+{13352}{13398}Il a fait un arrêt cardiaque |20 minutes après votre départ.
+{13465}{13601}On a tout tenté. Je suis désolé.
+{13654}{13678}Mec. Ça craint.
+{13678}{13723}Ça n'est pas possible.
+{13723}{13806}"C'est drôle comme la culpabilité|peut vous amener à nier l'évidence."
+{13807}{13839}Le môme a merdé.
+{13839}{13922}Non. Il t'a dit qu'il|croulait sous les patients.
+{13922}{13973}Le gamin a merdé.
+{14007}{14048}Ok. Saleté de gosse !
+{14073}{14100}"La culpabilité vous amène|à faire des compromis."
+{14100}{14192}Turk veut le faire pour moi
+{14221}{14247}WC pour hommes !
+{14247}{14326}J'aimerais faire quelque chose pour lui.
+{14375}{14461}Mon amour ? Je veux bien me|faire enlever ce grain de beauté,
+{14481}{14530}si tu acceptes de porter mon nom après le mariage.
+{14545}{14601}Mais oui !! Bien sûr !!
+{14681}{14738}Et voilà. Madame Carla face de cul.
+{14782}{14805}Et merde.
+{14805}{14895}"En tant que médecin, vous côtoyez la mort|et vous vous habituez  à la culpabilité.
+{14895}{14961}Et il faut essayer que cela ne bouleverse|pas vos relations avec les autres."
+{14962}{15010}Cramponne-toi.
+{15010}{15039}Pourquoi t'es encore là ?
+{15039}{15084}Je suis de garde ce soir.
+{15084}{15149}Plus maintenant. Je|m'occupe de tes patients.
+{15149}{15196}Attendez, vous croyez|que c'est de ma faute ?
+{15196}{15300}C'est un moment difficile.|Vas-y doucement avec le môme.
+{15300}{15354}C'était de ta faute. Du vent.
+{15419}{15455}C'était parfait. Un échange constructif.
+{15455}{15478}Tu disais ?
+{15478}{15502}Rien.
+{15761}{15792}C'est bon, c'est bon.
+{15792}{15843}Merci mon pote.
+{15878}{15976}Rien ne vaut un bon "bouteille-matin"|pour se lever.
+{16043}{16108}Ça fait 16 heures que vous|êtes là. Rentrez chez vous.
+{16108}{16215}Vous savez de quoi j'ai besoin. Qu'on|arrête de me dire ce que je dois faire.
+{16246}{16272}Bien.
+{16295}{16313}Tu sais ce que tu devrais faire ?
+{16336}{16351}Qu'est-ce tu fais là ?
+{16351}{16416}Dr. Cox, Je peux vous parler un moment ?
+{16416}{16572}Val, tu sais ce qui est amusant ?  Aucun de tes|patients n'est mort depuis que je m'en occupe.
+{16641}{16729}Vous êtes en colère après moi,|parfait. J'ai compris. Mais Jordan a
+{16729}{16774}appelé et elle veut être sûre|que vous serez là cet après-midi.
+{16774}{16828}Oh. Bien. Ce truc.|Inscris-nous sur la liste.
+{16828}{16877}Je ne vais nulle part. Alors dégage.
+{16972}{17002}J'ai vraiment pas envie de le faire.
+{17003}{17052}Allez. On ne va pas|te donner de surnom...
+{17052}{17078}Je sais, mais (NDT: but)...
+{17078}{17152}FACE! Butt-face. (NDT :|jeu de mot) Face de cul !
+{17152}{17264}J'ai un cul sublime. Alors je serais fier|d'en coller un bout ici...
+{17310}{17388}Ce grain de beauté, c'est un peu|moi. Il faut convaincre Carla.
+{17427}{17451}J'peux pas mec, J'ai des trucs à faire.
+{17451}{17515}À faire ? Le Dr Cox s'occupe|de tout tes patients.
+{17673}{17683}Gin.
+{17698}{17726}Pas de bol.
+{17800}{17870}Jolie main.|J'veux dire, les cartes.
+{17926}{17965}Faut que je me refasse. Contre Léonard.
+{18012}{18034}Le type avec la coupe afro.
+{18115}{18139}Je vais lui parler pour toi.
+{18139}{18200}Merci. Je déteste ce qu'elle me fait.
+{18242}{18271}Je déteste ce qu'il me fait.
+{18306}{18405}Espinoza, c'est plus qu'un nom|pour moi. C'est mon héritage.
+{18405}{18506}Et une barre chocolatée en|Équateur. Enfin surtout mon héritage.
+{18506}{18596}Mais j'ai déjà accepté Dr Kelso.|Qu'est-ce que je peux faire ?
+{18668}{18786}Melle "Snickers", jusqu' à présent, le son|de votre voix n'était qu'un bourdonnement.
+{18786}{18862}Comme vous me forcez à vous répondre, laissez-moi|vous raconter une chose que peu de gens savent.
+{18862}{18972}Je n'ai pas payé ma cotisation au country|club depuis Octobre 97. Pourtant, je golfe
+{18972}{19083}toujours le mercredi à 8h15 et je me|fais un bon sauna après le dernier putt.
+{19083}{19287}Mais le plus important, est que je me contrefous de ce|que vous pouvez bien me dire. Ted vous le confirmera.
+{19352}{19412}Et Espinoza fait du nougat aussi ?
+{19480}{19492}On peut y aller ?
+{19492}{19503}Non.
+{19503}{19516}Et maintenant ?
+{19516}{19589}Non. Je me suis fais une règle de|ne jamais me rendre aux fêtes où
+{19589}{19629}l'invité d'honneur ne|sait pas ce qui se passe.
+{19629}{19681}C'est faux. Après votre mariage,|nous sommes allés fêter les  95 ans
+{19681}{19743}de ce vieux gâteux de Grandpère|Horty. Souviens toi qu'il a essayé
+{19743}{19817}de mettre dehors la fille du|vestiaire parce qu'elle était restée
+{19817}{19882}loyale au Kaïser.
+{19882}{19935}Benny, j'apprécie ta sollicitude,|mais tu ne comprends pas.
+{19935}{19979}Je ne comprends pas quoi ?
+{19979}{20081}Tu vois tous ces gens là ?|C'est pas une boum pour vieux.
+{20081}{20158}Sinon j'aurais mis la main|de Mr Foredom dans un bol d'eau chaude.
+{20158}{20256}Dieu le bénisse, il va mouiller son lit de toute façon.
+{20256}{20358}Sans moi, les gens meurent ici.
+{20358}{20416}Sans moi, les gens meurent.
+{20416}{20455}Ça va !
+{20455}{20625}Laisse-moi récupérer ce petit|blocage psychologique. Je le mets
+{20625}{20725}dans ma poche, là. Tu dégages|pour le reste de l'après-midi et
+{20725}{20802}tu laisses un des 900 médecins de cet|hôpital se charger de tes patients.
+{20802}{20977}Sauf que dans ce théâtre de Guignol, il n'y|a qu'un ramassis d'incompétents.
+{21007}{21036}Désolée de vous déranger, Dr. Cox.
+{21036}{21157}J'ai cherché Carla partout et|je n'arrive pas à la trouver,
+{21157}{21309}comme si elle s'était volatilisée.|Vous ne l'auriez pas vue ?
+{21309}{21334}Non.
+{21334}{21398}Je ne l'ai pas vue.
+{21398}{21488}Bippez moi si vous la voyez.
+{21534}{21583}Oh, Ben. Excellente prestation.
+{21583}{21660}Merci. On y va ?
+{21660}{21712}Seulement si tu n'es plus sur mon dos.
+{21712}{21748}Encore une chose.
+{21966}{21983}Tu dois lui pardonner.
+{22075}{22111}Quoi ? C'est mon short de douche.
+{22155}{22193}Merci de chercher Carla avec moi.
+{22193}{22231}Pas de problèmes. Je|vais inspecter la benne.
+{22281}{22313}On ne cherche pas son cadavre.
+{22313}{22366}Elle est mignonne.|Si optimiste.
+{22579}{22664}Désolé Monsieur. C'est|difficile ces derniers temps.
+{22664}{22773}Je cherchais seulement un spéculum.
+{22773}{22849}Je voudrais tellement ne pas|détester ce grain de beauté.
+{22959}{23063}J'ai utilisé un speculum une fois sur ma|femme. Elle ronfle horriblement.
+{23063}{23142}Je ne pouvais pas fermer|l'oeil. Même l'opération
+{23142}{23243}n'a fait qu'empirer les|choses. Mais le truc c'est que
+{23243}{23417}sans ses ronflements et ses sifflements,|je ne pourrais plus m'endormir.
+{23417}{23513}Si je rencontrais une hôtesse de la|Japan Airlines qui ronfle comme Enid,
+{23513}{23547}je l'épouserais tout de suite.
+{23657}{23737}Les choses qui vous agacent le plus
+{23737}{23889}sont aussi celles qui vous manquent|vraiment quand elles ne sont plus là.
+{23930}{23961}Merci Monsieur.
+{24129}{24213}J'irai droit au but. Vous dites|à Carla que c'est inopérable
+{24213}{24264}et je vous donne 10 000 $.
+{24264}{24314}Turk ! Ne fais rien !
+{24314}{24346}C'est inopérable.
+{24346}{24397}Le contrat est rompu.
+{24397}{24428}Je ne sais pas où elle est.
+{24428}{24456}Te fatigue pas.
+{24456}{24491}A plus!
+{24491}{24575}Super, on a un bloc|opérationnel qui ne sert à rien.
+{24611}{24637}Pas nécessairement.
+{24757}{24777}Regardez-moi ça.
+{24947}{24981}Je n'ai jamais rien vu de plus ridicule.
+{24981}{25060}C'est vrai. C'était idiot|d'acheter ce short de douche.
+{25060}{25137}Mais puisqu'ils offraient un|porte-feuille de douche avec.
+{25205}{25265}Je voulais te dire que... tout ça...
+{25265}{25354}ce n'était pas de ta|faute. Je suis désolé.
+{25386}{25460}Merci. J'avais besoin|que vous me le disiez.
+{25514}{25548}Bien. Chouette. On s'habille et on y va.
+{25581}{25601}Short de douche ?
+{25601}{25701}Pour l'homme qui n'a rien à|cacher. Mais quand même un peu.
+{25785}{25826}"L'acceptation peut|prendre bien des formes."
+{25826}{25928}"Même si pour ça il faut|dévoiler son côté sensible"
+{25929}{25965}une fois de temps en temps."
+{25965}{26018}C'est officiel. Chris quitte le groupe.
+{26018}{26118}Je vais vous dire Ted. Bon débarras.|Vous trouverez un autre ténor.
+{26149}{26172}Merci Monsieur.
+{26172}{26266}Et de toute façon, on s'en|fout! Vous serez toujours nuls.
+{26353}{26406}"Ou accepter d'aimer|quelqu'un pour ce qu'il est."
+{26406}{26465}Tu arranges ma cravate, Madame Espinoza?
+{26540}{26572}Réponds-lui!
+{26797}{26818}Tu l'as embrassé.
+{26871}{26922}Comment se fait-il que|tu ne sois pas habillé ?
+{26922}{26973}Je suis habillé. Tu vois|des trous dans mon pantalon ?
+{26973}{26994}Non.
+{26994}{27095}C'est bien. Écoute.|Fais une dernière chose pour moi.
+{27095}{27140}Tu ne m'empêcheras pas de boire.
+{27177}{27239}Il faut que tu te pardonnes pour|tout ce qui s'est passé l'autre jour.
+{27239}{27323}Ce que tu es énervant...
+{27323}{27343}Ouais.
+{27408}{27427}Ok.
+{27427}{27457}Bien.
+{27498}{27571}Où est ton appareil ? Tu vas|bien prendre quelques photos ?
+{27622}{27646}Des photos de quoi ?
+{27646}{27733}Des enfants qui pleurent,|couverts de chocolat. Des gens
+{27733}{27802}qui chantent joyeux anniversaire alors|qu'ils ne connaissent pas mon fils.
+{27802}{27842}La routine, quoi.
+{27892}{27926}Vous savez où on est ?
+{29278}{29431}"La chose la plus difficile à accepter,|quelque soit votre solitude et votre peine,
+{29515}{29613}c'est qu'avec l'aide de ceux qui vous|entourent, on peut tout surmonter..."

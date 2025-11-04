@@ -1,0 +1,4201 @@
+1
+00:00:05,388 --> 00:00:07,777
+Précédemment dans <i>Stargate SG-1.</i>
+
+2
+00:00:07,868 --> 00:00:11,178
+- Qui êtes-vous?
+- Des réplicateurs.
+
+3
+00:00:11,268 --> 00:00:14,101
+- Les autres me détruiraient.
+- Pas si tu venais.
+
+4
+00:00:14,188 --> 00:00:15,541
+Vous feriez ça?
+
+5
+00:00:15,628 --> 00:00:17,459
+Ils ne me laisseront pas.
+
+6
+00:00:17,548 --> 00:00:20,108
+Petit, ils se sont moqués de toi.
+
+7
+00:00:22,868 --> 00:00:24,824
+On m'a déchargé.
+
+8
+00:00:24,908 --> 00:00:27,980
+- Qui vous remplace?
+- Dr Elizabeth Weir.
+
+9
+00:00:28,068 --> 00:00:31,060
+- Civile?
+- Experte en politique internationale.
+
+10
+00:00:31,148 --> 00:00:33,139
+<i>Terre Atlantus.</i>
+
+11
+00:00:33,228 --> 00:00:36,379
+La cité perdue des Anciens est là?
+
+12
+00:00:36,468 --> 00:00:40,984
+La cité que nous cherchions
+est sous les glaces de l'Antarctique.
+
+13
+00:00:44,468 --> 00:00:46,584
+Au revoir.
+
+14
+00:01:05,708 --> 00:01:07,938
+- Dr Weir.
+- Elizabeth.
+
+15
+00:01:08,028 --> 00:01:12,818
+Je n'arrive pas à croire qu'on part.
+Je devrais être prêt depuis longtemps...
+
+16
+00:01:12,908 --> 00:01:15,900
+Les négociations sont
+de nouveau au point mort.
+
+17
+00:01:17,228 --> 00:01:21,062
+- Vous plaisantez.
+- C'est compliqué.
+
+18
+00:01:21,748 --> 00:01:25,297
+Le Traité Antarctique
+Encourage la recherche.
+
+19
+00:01:25,388 --> 00:01:29,779
+Et le progrès pour toute l'humanité,
+Pas juste les Etats-Unis.
+
+20
+00:01:29,868 --> 00:01:33,781
+C'est l'argument des 11 autres nations.
+
+21
+00:01:33,868 --> 00:01:37,827
+L'article un interdit
+L’installation d'une base
+
+22
+00:01:37,908 --> 00:01:40,183
+et tout essai militaire.
+
+23
+00:01:40,268 --> 00:01:43,465
+L'avant-poste des Anciens
+est très puissant.
+
+24
+00:01:43,548 --> 00:01:46,016
+Et Jack reste dans son caisson de stase?
+
+25
+00:01:46,108 --> 00:01:50,340
+Il s'est sacrifié pour nous sauver tous.
+Pas juste ce pays.
+
+26
+00:01:50,428 --> 00:01:56,139
+Mais l'ampleur de l'offensive d'Anubis
+Interdit toute tentative de dissimulation.
+
+27
+00:01:56,228 --> 00:01:59,823
+Pour que le monde
+ne découvre pas l'existence du Stargate,
+
+28
+00:01:59,908 --> 00:02:04,299
+Nous avons besoin de la coopération
+de tous les gouvernements informés.
+
+29
+00:02:04,388 --> 00:02:10,463
+- Ça prendra plus longtemps.
+- Et on reste là se tourner les pouces?
+
+30
+00:02:10,548 --> 00:02:12,504
+Désolée, Dr Jackson.
+
+31
+00:02:14,228 --> 00:02:16,025
+Daniel.
+
+32
+00:03:26,188 --> 00:03:29,783
+- Pourquoi ne peut-on utiliser le Stargate?
+- Ce n'est pas ça.
+
+33
+00:03:29,868 --> 00:03:32,621
+Toute activité du Stargate est suspendue
+
+34
+00:03:32,708 --> 00:03:36,621
+MESALLIANCE
+Jusqu’à ce que la situation
+en Antarctique soit résolue.
+
+35
+00:03:37,148 --> 00:03:39,708
+Quel rapport entre les deux?
+
+36
+00:03:39,788 --> 00:03:43,224
+Nous contrôlons toujours le Stargate.
+
+37
+00:03:43,308 --> 00:03:46,425
+Le président pense
+que la ligne de conduite du SGC
+
+38
+00:03:46,508 --> 00:03:49,102
+Indiquera notre bonne volonté au monde.
+
+39
+00:03:49,188 --> 00:03:52,863
+Alors, c'est notre moyen de pression
+pour négocier.
+
+40
+00:03:52,948 --> 00:03:54,984
+Jamais je ne dirais ça.
+
+41
+00:03:56,228 --> 00:03:59,265
+Et le colonel O'Neill?
+
+42
+00:03:59,348 --> 00:04:02,067
+Je sais ce qu'il représente pour vous trois.
+
+43
+00:04:02,148 --> 00:04:05,140
+Nous apprécions tous son sacrifice.
+
+44
+00:04:05,228 --> 00:04:07,378
+Les Asgards peuvent l'aider.
+
+45
+00:04:07,468 --> 00:04:10,778
+Ils ont déjà évité
+que le savoir ne le tue.
+
+46
+00:04:10,868 --> 00:04:13,666
+On a tenté de les contacter.
+Que peut-on faire?
+
+47
+00:04:13,748 --> 00:04:18,185
+Vous savez qu'on a aidé les Asgards
+à piéger les réplicateurs sur Hala.
+
+48
+00:04:18,268 --> 00:04:21,180
+Plus ou moins. Il y a deux ans, c'est ça?
+
+49
+00:04:21,268 --> 00:04:24,658
+Le piège ne les retiendra
+qu'un certain temps.
+
+50
+00:04:24,748 --> 00:04:27,626
+Les Asgards doivent suivre ça de près.
+
+51
+00:04:27,708 --> 00:04:30,859
+Si on s'y rend,
+on devrait pouvoir les contacter.
+
+52
+00:04:30,948 --> 00:04:34,099
+- C'est dans une autre galaxie, non?
+- Othala.
+
+53
+00:04:34,188 --> 00:04:38,864
+O'Neill a modifié le vaisseau goa'uld
+qui était en notre possession.
+
+54
+00:04:38,948 --> 00:04:44,386
+Votre rapport dit qu'il va plus loin et plus
+vite que ceux dont disposent les Goa'ulds.
+
+55
+00:04:44,468 --> 00:04:47,619
+Il va peut-être nous y mener.
+
+56
+00:04:47,708 --> 00:04:50,347
+Et vous ramener?
+
+57
+00:04:50,428 --> 00:04:54,182
+Ce n'est pas gagné.
+Le voyage risque de griller les moteurs.
+
+58
+00:04:54,268 --> 00:04:58,819
+Gros problème. Et si vous n'arrivez pas
+à contacter les Asgards?
+
+59
+00:04:58,908 --> 00:05:01,980
+Nous prenons le risque.
+
+60
+00:05:03,068 --> 00:05:05,582
+C'est admirable,
+
+61
+00:05:05,668 --> 00:05:08,136
+mais je ne peux l'autoriser.
+
+62
+00:05:08,228 --> 00:05:10,344
+Pour quelle raison?
+
+63
+00:05:10,428 --> 00:05:15,104
+O'Neill a repoussé la flotte d'Anubis
+avec les armes de l'avant-poste.
+
+64
+00:05:15,188 --> 00:05:19,943
+Espérons que les Goa'ulds hésiteront
+avant d'attaquer de nouveau la Terre.
+
+65
+00:05:20,028 --> 00:05:23,816
+Mais nous ignorons si nous pouvons
+réutiliser les mêmes armes.
+
+66
+00:05:23,908 --> 00:05:27,696
+Il nous faut un nouvel avantage tactique
+sur les Goa'ulds.
+
+67
+00:05:27,788 --> 00:05:32,942
+C'est l'avis du Pentagone. Le vaisseau
+cargo modifié est trop précieux.
+
+68
+00:05:33,028 --> 00:05:36,100
+Désolée. Requête refusée.
+
+69
+00:05:58,108 --> 00:06:01,066
+Que puis-je pour vous?
+
+70
+00:06:01,148 --> 00:06:04,345
+Reconsidérez ma requête.
+
+71
+00:06:06,148 --> 00:06:08,787
+Je suis désolée.
+
+72
+00:06:08,868 --> 00:06:12,543
+Le vaisseau a été modifié
+grâce au savoir des Anciens.
+
+73
+00:06:12,628 --> 00:06:18,658
+Rien ne garantit qu'on trouvera
+comment ça a été fait.
+
+74
+00:06:18,748 --> 00:06:22,423
+Sachant que vous êtes
+la plus à même de le découvrir,
+
+75
+00:06:22,508 --> 00:06:28,060
+vous voulez dire que sans les Asgards,
+vous ne tenterez même pas le coup?
+
+76
+00:06:28,148 --> 00:06:30,503
+Je ne dirais jamais ça.
+
+77
+00:06:33,388 --> 00:06:37,859
+C'est ce que nous avons
+de plus avancé comme technologie.
+
+78
+00:06:37,948 --> 00:06:40,985
+Sans O'Neill,
+nous n'aurions pas ce vaisseau.
+
+79
+00:06:41,068 --> 00:06:45,698
+Nous ne parlerions même pas de ça.
+
+80
+00:06:50,228 --> 00:06:52,617
+Le <i>Prométhée</i> a donné les coordonnées.
+
+81
+00:06:52,708 --> 00:06:56,178
+D'après le temps de voyage
+entre Taonas et la Terre,
+
+82
+00:06:56,268 --> 00:07:00,784
+J’estime que nous mettrons dix jours
+pour atteindre Othala.
+
+83
+00:07:00,868 --> 00:07:04,543
+Comment avez-vous convaincu Weir
+de nous laisser partir?
+
+84
+00:07:04,628 --> 00:07:06,744
+Je ne l'ai pas convaincue.
+
+85
+00:07:07,188 --> 00:07:10,703
+C'est nous qui partons.
+Toi, tu restes ici.
+
+86
+00:07:13,068 --> 00:07:16,856
+Les modifications
+ne garantissent pas notre réussite.
+
+87
+00:07:16,948 --> 00:07:19,382
+Les moteurs risquent de griller.
+
+88
+00:07:19,468 --> 00:07:25,259
+Si on ne trouve pas les Asgards,
+on sera en rade.
+
+89
+00:07:25,348 --> 00:07:27,100
+Je sais.
+
+90
+00:07:27,588 --> 00:07:29,465
+On a besoin de toi ici.
+
+91
+00:07:29,548 --> 00:07:33,461
+C'est toi le plus à même
+de déchiffrer les informations.
+
+92
+00:07:33,548 --> 00:07:37,143
+Si nous échouons,
+tu seras le seul espoir de O'Neill.
+
+93
+00:07:52,868 --> 00:07:56,463
+Tu as faim? J'ai apporté de la dinde,
+ce que tu préfères.
+
+94
+00:07:56,548 --> 00:07:59,267
+Merci, mais je n'ai pas faim.
+
+95
+00:07:59,348 --> 00:08:02,385
+Savez-vous comment
+O'Neill a modifié les moteurs?
+
+96
+00:08:02,468 --> 00:08:04,982
+Non, je fais une pause.
+
+97
+00:08:05,068 --> 00:08:10,301
+Je ne pensais pas que ce serait facile,
+mais ça passe le temps.
+
+98
+00:08:10,388 --> 00:08:13,380
+Désolée. Tu te sens délaissé?
+
+99
+00:08:15,748 --> 00:08:17,545
+Je vais bien.
+
+100
+00:08:18,428 --> 00:08:22,546
+J'imaginais que les moteurs
+me feraient oublier O'Neill,
+
+101
+00:08:22,628 --> 00:08:27,861
+ce qui est bête,
+vu que c'est lui qui les a modifiés.
+
+102
+00:08:29,508 --> 00:08:32,306
+Ce plan n'est pas infaillible.
+
+103
+00:08:32,388 --> 00:08:34,982
+Mon premier itinéraire intergalactique.
+
+104
+00:08:35,068 --> 00:08:38,060
+Si les coordonnées
+sont un poil imprécises,
+
+105
+00:08:38,148 --> 00:08:42,824
+on risque de se retrouver à 10 000
+années-lumière de notre destination.
+
+106
+00:08:44,828 --> 00:08:48,298
+Mais il faut positiver.
+
+107
+00:08:49,108 --> 00:08:51,906
+J'ai une foi absolue en vos capacités.
+
+108
+00:08:51,988 --> 00:08:54,183
+Je sais.
+
+109
+00:08:54,348 --> 00:08:57,818
+- Tu veux discuter?
+- A quel sujet?
+
+110
+00:08:57,908 --> 00:09:00,297
+Je ne sais pas. Comment va Rya'c?
+
+111
+00:09:00,388 --> 00:09:02,185
+Bien.
+
+112
+00:09:03,868 --> 00:09:07,907
+- Tu as des nouvelles d'Ishta?
+- Tout à fait.
+
+113
+00:09:07,988 --> 00:09:10,900
+- Et Bra'tac?
+- Bra'tac va bien.
+
+114
+00:09:10,988 --> 00:09:15,664
+- Aide-moi un peu.
+- Comment va Pete Shanahan?
+
+115
+00:09:15,748 --> 00:09:18,182
+Il va bien.
+
+116
+00:09:21,908 --> 00:09:26,424
+- Ça ne va pas entre vous?
+- Tout va bien.
+
+117
+00:09:26,508 --> 00:09:30,979
+Tu sais qu'il est difficile de dire adieu
+à quelqu'un qu'on aime
+
+118
+00:09:31,068 --> 00:09:35,744
+quand on sait qu'on risque
+de ne jamais le revoir.
+
+119
+00:09:35,828 --> 00:09:41,186
+C'est un risque qu'on prend chaque fois
+qu'on traverse le Stargate, mais...
+
+120
+00:09:41,268 --> 00:09:43,987
+Essayons de positiver.
+
+121
+00:09:46,828 --> 00:09:49,217
+Je vais te chercher un sandwich.
+
+122
+00:10:02,388 --> 00:10:07,826
+- Vous avez des nouvelles?
+- Les négociations s'enlisent.
+
+123
+00:10:07,908 --> 00:10:10,468
+- Plus d'une semaine.
+- Qu'imaginiez-vous?
+
+124
+00:10:10,548 --> 00:10:13,938
+Des poignées de main,
+du champagne et on fait affaire?
+
+125
+00:10:14,028 --> 00:10:16,747
+Une armada de vaisseaux
+nous a attaqués.
+
+126
+00:10:16,828 --> 00:10:19,900
+Si ça ne nous donne pas confiance,
+c'est fichu.
+
+127
+00:10:19,988 --> 00:10:23,822
+Ces vaisseaux ont été détruits
+par une arme unique.
+
+128
+00:10:23,908 --> 00:10:26,741
+Ce genre de pouvoir est inquiétant.
+
+129
+00:10:26,828 --> 00:10:30,821
+Ne pensez pas que j'essaie
+de me débarrasser de vous,
+
+130
+00:10:30,908 --> 00:10:36,540
+mais ce genre de négociations,
+c'est votre domaine, non?
+
+131
+00:10:38,068 --> 00:10:40,946
+Activation extérieure non autorisée.
+
+132
+00:10:46,108 --> 00:10:50,499
+Nous avons reçu un message texte.
+
+133
+00:10:52,508 --> 00:10:55,341
+- C'est du goa'uld.
+- Ça dit quoi?
+
+134
+00:10:55,428 --> 00:10:58,898
+Ça vient de Camulus,
+dieu celtique de la guerre.
+
+135
+00:10:58,988 --> 00:11:04,221
+- Je ne le connais pas.
+- On n'a jamais eu de contact avec lui.
+
+136
+00:11:05,268 --> 00:11:08,499
+- Wouah.
+- C'est ça. "Wouah".
+
+137
+00:11:08,588 --> 00:11:12,263
+Désolé. Il dit vouloir
+
+138
+00:11:12,348 --> 00:11:17,468
+- Un Goa'uld veut passer un traité?
+- Pas un, mais tous les Goa'ulds.
+
+139
+00:11:17,548 --> 00:11:22,144
+Les Seigneurs du Système.
+Ils veulent envoyer des représentants.
+
+140
+00:11:28,988 --> 00:11:31,456
+On va émerger de l'hyperespace.
+
+141
+00:11:31,548 --> 00:11:33,743
+J'enverrai un signal.
+
+142
+00:11:33,828 --> 00:11:37,059
+Si les Asgards surveillent la zone,
+ils nous verront.
+
+143
+00:11:48,948 --> 00:11:52,987
+- On devrait voir la planète, non?
+- Si.
+
+144
+00:11:56,468 --> 00:11:59,983
+Nous subissons
+une force gravitationnelle puissante.
+
+145
+00:12:00,068 --> 00:12:04,459
+Il y a un truc qui cloche.
+Fais demi-tour et sors-nous de là.
+
+146
+00:12:04,548 --> 00:12:07,745
+Le générateur d'hyperespace est bloqué.
+
+147
+00:12:07,828 --> 00:12:10,900
+Les moteurs subluminiques
+sont pourtant à fond.
+
+148
+00:12:10,988 --> 00:12:15,857
+Je ne connais qu'une chose
+qui puisse créer ce genre de gravitation.
+
+149
+00:12:22,628 --> 00:12:25,267
+C'est une traduction fidèle?
+
+150
+00:12:25,348 --> 00:12:27,418
+A peu près.
+
+151
+00:12:27,508 --> 00:12:29,942
+Qu'en dites-vous?
+
+152
+00:12:30,028 --> 00:12:34,658
+- Je ne sais qu'en penser.
+- Ils sont déjà venus négocier ici.
+
+153
+00:12:34,748 --> 00:12:38,946
+Avec les Asgards, pas avec nous.
+La Terre a servi de terrain neutre.
+
+154
+00:12:39,028 --> 00:12:42,657
+Ils veulent nous rencontrer
+sur un pied d'égalité. Bizarre.
+
+155
+00:12:42,748 --> 00:12:44,898
+On a peut-être obtenu leur respect.
+
+156
+00:12:44,988 --> 00:12:47,582
+Ils ont dû savoir pour Anubis.
+
+157
+00:12:47,668 --> 00:12:51,263
+Ils n'ont pas pu le vaincre.
+On a réussi en un jour.
+
+158
+00:12:51,348 --> 00:12:53,942
+Ce qui expliquerait leur visite.
+
+159
+00:12:54,028 --> 00:12:55,939
+Pour voir comment on a fait.
+
+160
+00:12:58,348 --> 00:13:03,980
+On s'y attendait.
+L'hyperdrive est grillé.
+
+161
+00:13:04,068 --> 00:13:06,582
+- C'est fâcheux.
+- Même si ça marchait,
+
+162
+00:13:06,668 --> 00:13:11,458
+ce serait dangereux d'ouvrir une fenêtre
+si près de l'horizon d'un trou noir.
+
+163
+00:13:11,548 --> 00:13:13,584
+On est loin de notre trajectoire?
+
+164
+00:13:13,668 --> 00:13:18,105
+Nous sommes bien sortis
+de l'hyperespace. Ça n'a pas de sens.
+
+165
+00:13:18,188 --> 00:13:22,022
+Le soleil de Hala n'était pas assez
+gros pour imploser en trou noir.
+
+166
+00:13:22,108 --> 00:13:25,623
+Pourtant, on dirait
+que c'est ce qui se passe.
+
+167
+00:13:25,708 --> 00:13:30,907
+Je vais essayer de pousser
+les moteurs subluminiques.
+
+168
+00:13:39,628 --> 00:13:45,305
+Le président m'autorise à poursuivre
+les négociations avec les Goa'ulds.
+
+169
+00:13:45,388 --> 00:13:46,582
+Très bien.
+
+170
+00:13:47,828 --> 00:13:50,183
+Vous ne m'en croyez pas capable?
+
+171
+00:13:50,268 --> 00:13:54,625
+Je n'ai pas dit ça,
+mais vous n'avez pas l'air très confiante.
+
+172
+00:13:54,708 --> 00:13:58,223
+Les négociations internationales,
+ça me connaît.
+
+173
+00:13:58,308 --> 00:14:02,267
+Ce sera la premier
+au niveau interplanétaire.
+
+174
+00:14:02,348 --> 00:14:05,704
+On ne peut faire confiance
+aux Seigneurs du Système.
+
+175
+00:14:05,788 --> 00:14:10,578
+Ils sont narcissiques, prétentieux
+et ivres de pouvoir.
+
+176
+00:14:10,668 --> 00:14:14,138
+Chacun est capable des pires maux.
+
+177
+00:14:14,228 --> 00:14:19,985
+Pourquoi m'inquiéter? C'est comme
+une journée ordinaire aux Nations Unies.
+
+178
+00:14:20,068 --> 00:14:23,697
+J'avoue volontiers que j'ai besoin d'aide.
+
+179
+00:14:23,788 --> 00:14:26,256
+Que pouvez-vous me dire?
+
+180
+00:14:29,468 --> 00:14:32,778
+Le Haut Conseil des Seigneurs
+est une coalition fragile
+
+181
+00:14:32,868 --> 00:14:37,384
+des Goa'ulds les plus puissants
+qui coopèrent quand ça les arrange.
+
+182
+00:14:37,468 --> 00:14:40,380
+De nouveaux arrivent,
+D’anciens sont tués.
+
+183
+00:14:40,468 --> 00:14:43,778
+Ils sont une douzaine.
+Je vous résume ce que je sais.
+
+184
+00:14:43,868 --> 00:14:45,426
+D'accord.
+
+185
+00:14:45,508 --> 00:14:49,501
+J'imagine que je ne peux pas
+ouvrir l'iris et les laisser entrer.
+
+186
+00:14:49,588 --> 00:14:52,500
+Ce ne serait pas une bonne idée.
+
+187
+00:14:52,588 --> 00:14:56,979
+Nous devons choisir
+une planète neutre pour la rencontre.
+
+188
+00:14:57,068 --> 00:15:01,664
+Envoyez une équipe, vérifiez
+qu'ils sont désarmés et faites-les escorter.
+
+189
+00:15:02,548 --> 00:15:05,665
+Bien. Faites passer le mot.
+
+190
+00:15:15,748 --> 00:15:19,866
+On est tirés vers l'arrière.
+Détournons la puissance des boucliers.
+
+191
+00:15:19,948 --> 00:15:22,667
+C'est ce qui maintient le vaisseau intact.
+
+192
+00:15:22,748 --> 00:15:25,308
+La gravitation va nous déchiqueter.
+
+193
+00:15:25,388 --> 00:15:28,858
+Je crois qu'on n'a pas le choix.
+
+194
+00:15:32,468 --> 00:15:34,265
+Diversion de la puissance.
+
+195
+00:15:39,108 --> 00:15:41,224
+Nous avançons.
+
+196
+00:15:41,308 --> 00:15:45,381
+Ça ne suffira pas. L'intégrité
+de la carlingue n'est plus assurée.
+
+197
+00:15:49,388 --> 00:15:52,061
+La carlingue est trouée.
+
+198
+00:15:56,308 --> 00:15:57,980
+Salutations.
+
+199
+00:15:59,468 --> 00:16:00,981
+Thor.
+
+200
+00:16:01,068 --> 00:16:05,141
+Quel plaisir de vous revoir,
+commandant Carter, Teal'c.
+
+201
+00:16:06,148 --> 00:16:08,059
+Pareillement.
+
+202
+00:16:08,148 --> 00:16:10,423
+En effet.
+
+203
+00:16:10,508 --> 00:16:13,147
+Votre timing est impeccable.
+
+204
+00:16:15,868 --> 00:16:20,896
+Les Goa'ulds ont donc accepté
+nos conditions pour leur visite.
+
+205
+00:16:23,188 --> 00:16:26,021
+Je me renseignais sur leurs délégués.
+
+206
+00:16:26,108 --> 00:16:28,417
+Le premier message venait de Camulus.
+
+207
+00:16:28,508 --> 00:16:34,219
+Il y a aussi Amaterasu, déesse japonaise
+du soleil, et enfin, le seigneur Yu.
+
+208
+00:16:35,228 --> 00:16:39,380
+- "You", comme dans "toi"?
+- Ce jeu de mot a été fait mille fois.
+
+209
+00:16:39,468 --> 00:16:43,017
+Il me semble avoir lu
+qu'il n'est plus lui-même.
+
+210
+00:16:43,108 --> 00:16:47,943
+Pour un Goa'uld,
+j'ignore ce que cela signifie au juste.
+
+211
+00:16:48,028 --> 00:16:51,338
+- Continuez.
+- Il ne peut plus accueillir d'hôte.
+
+212
+00:16:51,428 --> 00:16:56,422
+Les pouvoirs du sarcophage
+sont amoindris. Il se fait vieux.
+
+213
+00:16:56,508 --> 00:16:59,227
+Il est sénile. Pourquoi le choisir, lui?
+
+214
+00:16:59,308 --> 00:17:03,460
+- Ses sous-fifres le couvrent peut-être.
+- Les autres ne savent rien.
+
+215
+00:17:03,548 --> 00:17:07,257
+Yu s'était opposé au retour d'Anubis
+
+216
+00:17:07,348 --> 00:17:10,260
+au Conseil. C'est une longue histoire.
+
+217
+00:17:10,348 --> 00:17:13,738
+Il a été écarté
+quand ils ont réintégré Anubis,
+
+218
+00:17:13,828 --> 00:17:16,103
+redevenu chef grâce à ses pouvoirs.
+
+219
+00:17:16,188 --> 00:17:21,023
+Maintenant qu'Anubis a disparu,
+la balance pencherait en faveur de Yu?
+
+220
+00:17:21,108 --> 00:17:24,578
+Le côté positif,
+c'est que Yu était le plus coopératif.
+
+221
+00:17:24,668 --> 00:17:28,627
+- Mais ils sont indignes de confiance.
+- Surtout les fous.
+
+222
+00:17:28,708 --> 00:17:30,664
+C'est le côté positif?
+
+223
+00:17:31,708 --> 00:17:34,506
+Disons le côté un peu moins négatif.
+
+224
+00:17:35,828 --> 00:17:39,980
+Je ne peux pas quitter cette zone
+pour le moment.
+
+225
+00:17:40,068 --> 00:17:43,299
+Personne d'autre ne peut sauver O'Neill.
+
+226
+00:17:43,388 --> 00:17:46,585
+Il est en état de stase pour le moment.
+
+227
+00:17:46,668 --> 00:17:51,025
+Je vous accompagnerai volontiers
+sur Terre dès la fin de ma mission.
+
+228
+00:17:51,108 --> 00:17:52,621
+Votre mission?
+
+229
+00:17:52,708 --> 00:17:56,747
+Je dois m'assurer que les réplicateurs
+ont bien été détruits.
+
+230
+00:17:56,828 --> 00:18:00,218
+Le soleil de Hala a implosé en trou noir.
+
+231
+00:18:00,308 --> 00:18:02,458
+Quand la carlingue a été arrachée.
+
+232
+00:18:02,548 --> 00:18:06,302
+Désolé de ne pas être arrivé plus tôt.
+Je ne vous attendais pas.
+
+233
+00:18:06,388 --> 00:18:09,425
+Vous ne nous avez pas répondu.
+
+234
+00:18:09,508 --> 00:18:13,137
+Les distorsions spatio-temporelles
+du trou noir
+
+235
+00:18:13,228 --> 00:18:16,777
+brouillent nos communications
+longue distance.
+
+236
+00:18:16,868 --> 00:18:20,065
+- C'est compréhensible.
+- Pour certains.
+
+237
+00:18:20,148 --> 00:18:23,106
+La dilatation temporelle,
+c'était provisoire.
+
+238
+00:18:23,188 --> 00:18:26,578
+Pour arriver à la machine,
+les réplicateurs auraient mis
+
+239
+00:18:26,668 --> 00:18:29,899
+moins de 2 ans,
+hors du champ de dilatation.
+
+240
+00:18:29,988 --> 00:18:33,344
+Une solution plus permanente
+a été imaginée.
+
+241
+00:18:33,428 --> 00:18:35,896
+Vous avait fait imploser le soleil?
+
+242
+00:18:35,988 --> 00:18:40,061
+En augmentant artificiellement
+son champ gravitationnel.
+
+243
+00:18:40,148 --> 00:18:42,537
+C'est plutôt sympa.
+
+244
+00:18:43,588 --> 00:18:48,343
+Comme vous voyez,
+la planète s'est déjà cassée.
+
+245
+00:18:48,428 --> 00:18:51,738
+Mais des réplicateurs
+ont réussi à former
+
+246
+00:18:55,548 --> 00:18:59,700
+Même si la force ne les pulvérise pas,
+il n'y a pas moyen...
+
+247
+00:18:59,788 --> 00:19:03,337
+- Intéressant.
+- C'est quoi?
+
+248
+00:19:03,428 --> 00:19:07,216
+Les réplicateurs s'éloignent
+de l'horizon des événements.
+
+249
+00:19:07,308 --> 00:19:11,301
+- Comment est-ce possible?
+- Un engin qui dilate le temps.
+
+250
+00:19:11,388 --> 00:19:14,061
+Ils semblent l'avoir utilisé
+
+251
+00:19:14,148 --> 00:19:18,107
+pour contrebalancer l'attraction
+de la force gravitationnelle.
+
+252
+00:19:18,188 --> 00:19:23,057
+Effrayant. Non seulement ils en sont
+capables, mais vous ignorez comment.
+
+253
+00:19:23,148 --> 00:19:25,503
+Je suis d'accord.
+
+254
+00:19:27,068 --> 00:19:29,343
+Ils prennent de la vitesse.
+
+255
+00:19:29,428 --> 00:19:32,784
+Le scanner indique
+qu'une entité s'est formée.
+
+256
+00:19:32,868 --> 00:19:35,336
+- De quelle nature?
+- Un vaisseau.
+
+257
+00:19:35,428 --> 00:19:37,988
+Ils sont en train de s'échapper.
+
+258
+00:19:38,068 --> 00:19:42,141
+Leur trajectoire indique
+qu'ils se dirigent dans cette direction.
+
+259
+00:19:46,988 --> 00:19:49,377
+J'ai cru que vous me posiez un lapin.
+
+260
+00:19:49,468 --> 00:19:53,256
+Désolé. Des nouvelles de Sam et Teal'c?
+
+261
+00:19:53,348 --> 00:19:54,747
+Non.
+
+262
+00:19:57,428 --> 00:20:02,582
+On a reçu un signal.
+Le SG-7 dit que nous avons le feu vert.
+
+263
+00:20:05,028 --> 00:20:07,417
+Ouvrez l'iris.
+
+264
+00:20:23,948 --> 00:20:26,542
+Bienvenue.
+Je vous présente...
+
+265
+00:20:26,628 --> 00:20:29,381
+Votre nom ne nous intéresse pas.
+
+266
+00:20:29,468 --> 00:20:33,780
+- Souvent, ça aide.
+- Nous préférons présenter notre offre
+
+267
+00:20:33,868 --> 00:20:38,066
+afin de passer le moins de temps
+possible sur cette planète.
+
+268
+00:20:41,308 --> 00:20:43,583
+Par ici.
+
+269
+00:20:59,428 --> 00:21:01,703
+- Vous avez déjà vu ça?
+- Non.
+
+270
+00:21:01,788 --> 00:21:05,542
+Je crains que mes armes
+soient inefficaces.
+
+271
+00:21:05,628 --> 00:21:10,748
+Alors, il faut filer. Pouvez-vous
+sauter dans l'hyperespace?
+
+272
+00:21:10,828 --> 00:21:15,185
+Il faut d'abord dissiper
+le champ de distorsion du trou noir.
+
+273
+00:21:18,108 --> 00:21:20,497
+Ils ont ouvert le feu sur nous.
+
+274
+00:21:20,588 --> 00:21:25,582
+- Vos boucliers ne tiendront pas le choc?
+- Sûrement pas.
+
+275
+00:21:27,548 --> 00:21:29,345
+Préparez-vous à l'impact.
+
+276
+00:21:35,388 --> 00:21:38,061
+- La carlingue est trouée.
+- Ou ça?
+
+277
+00:21:39,708 --> 00:21:44,577
+Les dégâts sont minimes. Le projectile
+devait être composé de réplicateurs.
+
+278
+00:21:44,668 --> 00:21:49,742
+Mes scanners ne les détectent pas.
+Ils sont déjà montés à bord comme ça.
+
+279
+00:21:49,828 --> 00:21:52,786
+Pouvez-vous empêcher
+la décompression?
+
+280
+00:21:52,868 --> 00:21:54,665
+Oui.
+
+281
+00:22:07,428 --> 00:22:09,862
+Votre victoire inattendue sur Anubis
+
+282
+00:22:09,948 --> 00:22:13,338
+a créé une instabilité
+chez les Seigneurs du Système.
+
+283
+00:22:13,428 --> 00:22:19,105
+Pour éviter la guerre, nous avons divisé
+ses territoires et armées équitablement.
+
+284
+00:22:19,188 --> 00:22:21,543
+Comme c'est civilisé.
+
+285
+00:22:21,628 --> 00:22:25,587
+Hélas, l'un d'entre nous
+a rompu cet accord.
+
+286
+00:22:25,668 --> 00:22:28,944
+Non, laissez-moi deviner. C'est...
+
+287
+00:22:29,028 --> 00:22:30,666
+Baal.
+
+288
+00:22:30,748 --> 00:22:35,185
+Il a appris ou Anubis
+avait créé ses guerriers kulls.
+
+289
+00:22:35,268 --> 00:22:38,658
+Il a programmé les guerriers
+pour le servir lui.
+
+290
+00:22:38,748 --> 00:22:43,503
+Avec ces <i>oraks</i> sous ses ordres,
+il a fait basculer le pouvoir en sa faveur.
+
+291
+00:22:43,588 --> 00:22:45,499
+- <i>Oraks?</i>
+- Indicibles.
+
+292
+00:22:45,588 --> 00:22:49,945
+Les Kulls sont de loin
+supérieurs aux Jaffas.
+
+293
+00:22:50,028 --> 00:22:53,816
+On parle déjà de capitulation
+dans nos rangs,
+
+294
+00:22:53,908 --> 00:22:56,945
+comme pour Anubis.
+
+295
+00:22:57,028 --> 00:23:00,862
+Si ça se produit, rien n'arrêtera plus Baal.
+
+296
+00:23:00,948 --> 00:23:06,227
+C'est très intéressant,
+mais je ne vois pas le rapport avec nous.
+
+297
+00:23:17,428 --> 00:23:21,899
+Mon maître veut dire que les Terriens
+disposent d'une arme puissante.
+
+298
+00:23:21,988 --> 00:23:24,661
+Plus évoluée que leurs technologies.
+
+299
+00:23:24,748 --> 00:23:28,138
+Nous l'avons utilisé
+pour détruire Anubis et sa flotte.
+
+300
+00:23:28,228 --> 00:23:34,781
+Cette arme peut empêcher Baal
+de conquérir la galaxie.
+
+301
+00:24:31,788 --> 00:24:35,701
+Le commandant Carter s'est volatilisée.
+Elle est avec vous?
+
+302
+00:24:35,788 --> 00:24:39,906
+Ce n'est pas moi.
+Les réplicateurs ont dû l'enlever.
+
+303
+00:24:56,108 --> 00:24:59,339
+J'ai éliminé tous les réplicateurs
+que j'ai trouvés.
+
+304
+00:24:59,428 --> 00:25:02,261
+Impossible de savoir
+s'il y en a davantage.
+
+305
+00:25:02,348 --> 00:25:05,067
+Leur vaisseau est dans l'hyperespace.
+
+306
+00:25:05,148 --> 00:25:07,616
+- Vous pouvez les suivre?
+- Oui.
+
+307
+00:25:14,268 --> 00:25:20,059
+Si Baal nous vainc,
+il ne tardera pas à s'occuper de vous.
+
+308
+00:25:20,148 --> 00:25:22,867
+Il connaîtra le même sort qu'Anubis.
+
+309
+00:25:22,948 --> 00:25:24,506
+Peut-être.
+
+310
+00:25:24,588 --> 00:25:29,503
+D'autres mondes n'ont pas le luxe
+de ces moyens de défense avancés.
+
+311
+00:25:29,588 --> 00:25:32,307
+De quoi parlez-vous?
+
+312
+00:25:32,388 --> 00:25:36,222
+Nous avons remarqué
+que les Asgards ne vous ont pas secourus
+
+313
+00:25:36,308 --> 00:25:39,186
+quand Anubis menaçait votre planète.
+
+314
+00:25:39,268 --> 00:25:43,102
+Nous sommes sans nouvelles
+des Asgards depuis un moment.
+
+315
+00:25:43,188 --> 00:25:46,225
+C'est bizarre, on est souvent en contact.
+
+316
+00:25:46,308 --> 00:25:49,937
+Les Asgards savaient
+que leur venue n'était pas nécessaire.
+
+317
+00:25:50,028 --> 00:25:52,064
+Baal pense autrement.
+
+318
+00:25:52,148 --> 00:25:56,744
+Pour lui, les Asgards ne peuvent plus
+exercer le pouvoir dans la galaxie.
+
+319
+00:25:56,828 --> 00:26:02,027
+Il veut envahir les planètes
+protégées par le traité goa'uld-asgard.
+
+320
+00:26:02,108 --> 00:26:07,023
+Si vous ne nous aidez pas,
+des millions d'êtres humains mourront.
+
+321
+00:26:07,108 --> 00:26:10,623
+Des millions d'autres
+seront réduits en esclavage.
+
+322
+00:26:15,348 --> 00:26:18,943
+- Vous connaissez sa destination.
+- Avant d'être détruits,
+
+323
+00:26:19,028 --> 00:26:22,145
+les réplicateurs ont accédé
+aux ordinateurs de bord.
+
+324
+00:26:22,228 --> 00:26:27,746
+Ils ont localisé Orilla ou nous tentons
+de reconstruire notre civilisation.
+
+325
+00:26:27,828 --> 00:26:32,185
+- J'ai cru que ce serait leur première cible.
+- Quel est votre raisonnement?
+
+326
+00:26:32,268 --> 00:26:37,103
+Orilla est riche en neutronium,
+un élément clé de la technologie asgard,
+
+327
+00:26:37,188 --> 00:26:42,785
+nécessaire pour que les réplicateurs
+prennent forme humaine.
+
+328
+00:27:07,788 --> 00:27:10,905
+- Commandant Carter.
+- Numéro Cinq.
+
+329
+00:27:10,988 --> 00:27:13,741
+Vous ne vous attendiez pas
+à me revoir un jour.
+
+330
+00:27:13,828 --> 00:27:17,537
+Désolée de t'avoir abandonné.
+On n'a pas eu le choix.
+
+331
+00:27:17,628 --> 00:27:22,543
+On ne pouvait courir le risque
+que les autres s'échappent.
+
+332
+00:27:23,148 --> 00:27:25,821
+Je sais que tu es bouleversé.
+
+333
+00:27:25,908 --> 00:27:28,342
+On t'a trahi. Ça a dû te blesser.
+
+334
+00:27:29,028 --> 00:27:34,022
+C'est la partie de toi qui nous ressemble.
+La partie humaine.
+
+335
+00:27:35,908 --> 00:27:38,945
+- Je sais ce que tu ressens.
+- Non.
+
+336
+00:27:40,548 --> 00:27:42,539
+C'est impossible.
+
+337
+00:27:42,628 --> 00:27:45,779
+Mais je vous promets
+que vous allez le ressentir.
+
+338
+00:28:07,228 --> 00:28:10,618
+Ce traité protége combien de planètes?
+
+339
+00:28:10,708 --> 00:28:13,859
+26. 27, en comptant la Terre.
+
+340
+00:28:13,948 --> 00:28:17,782
+A quoi ça sert, si les Asgards
+ne peuvent plus rien protéger?
+
+341
+00:28:17,868 --> 00:28:22,100
+Avant, ils le pouvaient.
+Maintenant, nous devons bluffer.
+
+342
+00:28:22,188 --> 00:28:27,057
+- Baal ne semble plus marcher.
+- On n'y peut rien.
+
+343
+00:28:27,148 --> 00:28:29,821
+Pour les Goa'ulds, la Terre est protégée.
+
+344
+00:28:29,908 --> 00:28:34,060
+- Mais c'est du bluff aussi.
+- Plus ou moins.
+
+345
+00:28:34,148 --> 00:28:37,106
+Quand j'étais gamine,
+mon père jouait au poker.
+
+346
+00:28:37,188 --> 00:28:41,500
+La fumée me piquait les yeux,
+mais j'aurais dû m'intéresser au jeu.
+
+347
+00:28:41,588 --> 00:28:43,977
+Vous avez déjà dû déformer la vérité.
+
+348
+00:28:44,068 --> 00:28:47,743
+Mon boulot, c'était de faire
+admettre la vérité aux gens.
+
+349
+00:28:47,828 --> 00:28:51,457
+S'ils sentent qu'on ne peut
+utiliser les armes des Anciens,
+
+350
+00:28:51,548 --> 00:28:54,187
+croyez-moi, c'est terminé.
+
+351
+00:28:55,748 --> 00:28:59,900
+- Trop dramatique?
+- Pas pour moi.
+
+352
+00:29:06,988 --> 00:29:11,504
+- Comment les arrêter?
+- Je ne peux rien dans l'hyperespace.
+
+353
+00:29:11,588 --> 00:29:14,739
+C'est comme les boucliers.
+Toutefois, à proximité,
+
+354
+00:29:14,828 --> 00:29:18,537
+la destruction automatique
+anéantira les deux vaisseaux.
+
+355
+00:29:18,628 --> 00:29:21,096
+Désolé, nous n'avons pas le choix.
+
+356
+00:29:21,188 --> 00:29:23,861
+Sur Orilla, les réplicateurs humains
+
+357
+00:29:23,948 --> 00:29:28,021
+risquent de se reproduire à l'infini.
+
+358
+00:29:28,108 --> 00:29:30,747
+Il faut les en empêcher.
+
+359
+00:29:31,388 --> 00:29:33,140
+Ainsi soit-il.
+
+360
+00:29:45,548 --> 00:29:50,144
+- Pourquoi fais-tu ça?
+- Vous pensez mériter mieux?
+
+361
+00:29:50,228 --> 00:29:55,018
+Tu vois dans mes pensées.
+Tu sais que je ne voulais pas.
+
+362
+00:29:55,108 --> 00:29:58,145
+Dans un sens, je devrais vous remercier.
+
+363
+00:29:58,228 --> 00:30:03,097
+C'est grâce à ce que vous m'avez fait
+que j'ai compris mon vrai potentiel.
+
+364
+00:30:03,188 --> 00:30:05,656
+Je suis plus humain que les autres.
+
+365
+00:30:05,748 --> 00:30:08,216
+Je pensais que c'était une faiblesse,
+
+366
+00:30:08,308 --> 00:30:12,620
+mais j'ai compris que ça me rend
+capable de plus de choses.
+
+367
+00:30:12,708 --> 00:30:14,460
+Numéro Cinq, je t'en prie.
+
+368
+00:30:14,548 --> 00:30:20,225
+Les miens détruiront des civilisations
+entières pour se reproduire,
+
+369
+00:30:20,308 --> 00:30:23,266
+mais ils ne connaîtront pas la cruauté,
+
+370
+00:30:23,348 --> 00:30:25,737
+la trahison,
+
+371
+00:30:25,828 --> 00:30:28,740
+la vengeance.
+
+372
+00:30:29,228 --> 00:30:31,219
+Pas comme nous.
+
+373
+00:30:32,308 --> 00:30:34,139
+Pas vrai,
+
+374
+00:30:48,868 --> 00:30:51,302
+Nous apprécions cette information,
+
+375
+00:30:51,388 --> 00:30:55,939
+mais nous ne prendrons pas parti
+dans un différend entre Goa'ulds.
+
+376
+00:30:56,028 --> 00:31:00,658
+Si Baal attaque une planète protégée,
+il en subira les conséquences.
+
+377
+00:31:00,748 --> 00:31:03,308
+Nous ne faisons pas confiance
+aux Asgards.
+
+378
+00:31:03,388 --> 00:31:06,141
+Il faut arrêter Baal avant d'en arriver là.
+
+379
+00:31:06,228 --> 00:31:09,618
+Excusez ma franchise,
+mais ce n'est pas notre problème.
+
+380
+00:31:09,708 --> 00:31:11,903
+Il suffit.
+
+381
+00:31:13,428 --> 00:31:18,138
+Anubis devient plus puissant
+à chaque instant.
+
+382
+00:31:19,788 --> 00:31:22,177
+Vous voulez dire Baal.
+
+383
+00:31:23,308 --> 00:31:26,459
+Mon maître est fatigué.
+Faisons une pause.
+
+384
+00:31:26,548 --> 00:31:28,618
+Silence.
+
+385
+00:31:29,868 --> 00:31:32,780
+Je n'ai pas besoin de pause.
+
+386
+00:31:35,428 --> 00:31:38,784
+Nous savons que vous disposez
+d'une arme redoutable.
+
+387
+00:31:38,868 --> 00:31:42,099
+Mais vous devez attendre
+que l'ennemi vienne à vous.
+
+388
+00:31:42,188 --> 00:31:44,748
+Et ça risque d'être dangereux.
+
+389
+00:31:44,828 --> 00:31:49,344
+Et si un ennemi trouvait le moyen
+de neutraliser cette arme?
+
+390
+00:31:49,428 --> 00:31:51,419
+Que proposez-vous?
+
+391
+00:31:51,508 --> 00:31:53,499
+L'hyperdrive.
+
+392
+00:31:53,588 --> 00:31:57,376
+Vos vaisseaux sont incapables
+de voyages interstellaires.
+
+393
+00:31:57,468 --> 00:32:01,063
+Nous vous aiderons à construire
+une flotte de vaisseaux
+
+394
+00:32:01,148 --> 00:32:04,663
+aussi évolués
+que les vaisseaux Ha'tak des Goa'ulds.
+
+395
+00:32:08,268 --> 00:32:11,260
+Vous pourriez aller
+à la rencontre de l'ennemi.
+
+396
+00:32:18,348 --> 00:32:20,737
+On est presque à portée de tir.
+
+397
+00:32:33,068 --> 00:32:35,298
+Maintenant.
+
+398
+00:32:39,308 --> 00:32:41,617
+Nous ralentissons.
+
+399
+00:32:45,108 --> 00:32:48,623
+Quelque chose interfère
+avec les commandes.
+
+400
+00:32:48,708 --> 00:32:53,782
+Le tableau auxiliaire de commandes
+à l'extérieur de la salle des machines.
+
+401
+00:32:59,188 --> 00:33:04,421
+C'est une offre généreuse,
+mais nous sommes obligés de décliner.
+
+402
+00:33:09,708 --> 00:33:14,338
+- Combien de moteurs hyperdrive?
+- Ça dépend du nombre de vos vaisseaux.
+
+403
+00:33:14,428 --> 00:33:18,865
+La vraie question, c'est de savoir
+de combien de vaisseaux vous disposez.
+
+404
+00:33:18,948 --> 00:33:22,179
+Il nous faut suffisamment de vaisseaux
+
+405
+00:33:22,268 --> 00:33:24,623
+pour contrer toute flotte ennemie.
+
+406
+00:33:24,708 --> 00:33:26,744
+Nous ne pouvons vous le dire.
+
+407
+00:33:26,828 --> 00:33:31,822
+- Alors la discussion est close.
+- Comment pouvez-vous refuser?
+
+408
+00:33:31,908 --> 00:33:36,060
+Nous ne livrerons pas vos batailles
+en échange de moteurs hyperdrive
+
+409
+00:33:36,148 --> 00:33:38,787
+qui ne nous aideront pas forcément.
+
+410
+00:33:38,868 --> 00:33:42,941
+Surtout que nous disposons
+déjà de cette technologie.
+
+411
+00:33:43,028 --> 00:33:46,657
+- Votre hyperdrive est viable?
+- Oui.
+
+412
+00:33:46,868 --> 00:33:50,622
+Avec les Asgards, nous sommes
+en train de la mettre en oeuvre.
+
+413
+00:33:50,708 --> 00:33:52,744
+Alors, merci beaucoup.
+
+414
+00:33:52,828 --> 00:33:57,185
+Cette arme des Anciens est
+une merveille de technologie de pointe.
+
+415
+00:33:57,268 --> 00:34:00,180
+Ça doit demander une puissance énorme.
+
+416
+00:34:00,268 --> 00:34:03,544
+Même la maintenance de base
+doit être compliquée
+
+417
+00:34:03,628 --> 00:34:06,017
+avec vos moyens limités.
+
+418
+00:34:06,108 --> 00:34:10,738
+- On se débrouille.
+- Nous vous croyons.
+
+419
+00:34:10,828 --> 00:34:14,707
+Mais que penserait Baal
+s'il devait apprendre
+
+420
+00:34:14,788 --> 00:34:19,066
+que cette arme
+est momentanément hors service.
+
+421
+00:34:19,148 --> 00:34:22,743
+Il viendrait envahir votre planète.
+
+422
+00:34:22,828 --> 00:34:27,663
+- Les Terriens le détruirait.
+- Nous n'aurions rien à leur donner.
+
+423
+00:34:27,748 --> 00:34:31,980
+Baal ne marcherait pas.
+Il sait combien vous êtes désespérés.
+
+424
+00:34:32,068 --> 00:34:34,582
+Ce serait trop simple pour lui.
+
+425
+00:34:34,668 --> 00:34:38,104
+Peut-être,
+mais vous nous laissez peu d'options.
+
+426
+00:34:38,188 --> 00:34:41,066
+D'accord. Nous marchons.
+
+427
+00:34:42,508 --> 00:34:44,419
+Vraiment?
+
+428
+00:34:44,508 --> 00:34:47,944
+En échange,
+nous voulons le territoire de Baal.
+
+429
+00:34:48,028 --> 00:34:50,781
+- Comment ça?
+- Ça marche comme ça, non?
+
+430
+00:34:50,868 --> 00:34:55,896
+Quand un Seigneur en tue un autre,
+il prend son armée, sa flotte, ses planètes.
+
+431
+00:34:55,988 --> 00:34:59,981
+C'est ce que nous voulons.
+Tout ce que Baal possède.
+
+432
+00:35:00,068 --> 00:35:01,945
+Vous plaisantez.
+
+433
+00:35:02,028 --> 00:35:06,465
+Si nous détruisons Baal,
+pourquoi accepter moins que ça?
+
+434
+00:35:06,548 --> 00:35:09,346
+- Grotesque.
+- Nous ne pouvons accepter.
+
+435
+00:35:09,428 --> 00:35:11,737
+C'est à prendre ou à laisser.
+
+436
+00:35:16,028 --> 00:35:19,225
+Il faut aviser
+les autres Seigneurs du Système
+
+437
+00:35:19,308 --> 00:35:22,027
+de la situation actuelle.
+
+438
+00:35:22,108 --> 00:35:23,905
+Allez-y.
+
+439
+00:35:33,268 --> 00:35:38,262
+- Le problème est résolu.
+- Les réplicateurs sont hors d'atteinte.
+
+440
+00:35:38,348 --> 00:35:42,739
+On ne peut les empêcher
+d'atteindre la nouvelle planète asgard.
+
+441
+00:35:49,108 --> 00:35:52,942
+Vous avez tiré des leçons
+des parties de poker de votre père.
+
+442
+00:35:53,028 --> 00:35:55,178
+Parier gros quand on bluffe?
+
+443
+00:35:55,268 --> 00:35:57,702
+Alors, vous voulez devenir un Seigneur.
+
+444
+00:35:57,788 --> 00:36:00,143
+C'était pour les faire parler.
+
+445
+00:36:00,228 --> 00:36:03,425
+Ils auraient attiré Baal ici quoiqu'on ait dit.
+
+446
+00:36:03,508 --> 00:36:05,817
+Ils refuseront nos conditions.
+
+447
+00:36:05,908 --> 00:36:07,899
+Je sais.
+
+448
+00:36:10,308 --> 00:36:13,505
+On va peut-être devoir
+réanimer le colonel O'Neill.
+
+449
+00:36:16,908 --> 00:36:18,227
+Quoi?
+
+450
+00:36:18,308 --> 00:36:21,539
+S'ils soupçonnent un bluff,
+ils prendront l'arme.
+
+451
+00:36:21,628 --> 00:36:23,778
+Sinon, ils attireront Baal.
+
+452
+00:36:23,868 --> 00:36:28,180
+Il faudra peut-être utiliser
+l'arme pour défendre notre planète.
+
+453
+00:36:28,268 --> 00:36:32,022
+On ignore si on a assez
+de puissance pour faire feu.
+
+454
+00:36:32,108 --> 00:36:35,498
+Réanimer Jack sans les Asgards
+risque de le tuer.
+
+455
+00:36:35,588 --> 00:36:39,342
+Il mourra sûrement
+avant de pouvoir nous aider.
+
+456
+00:36:39,428 --> 00:36:40,577
+Dr Weir.
+
+457
+00:36:40,668 --> 00:36:46,186
+Voici le message des Goa'ulds
+aux Seigneurs. Il est codé.
+
+458
+00:36:46,268 --> 00:36:49,465
+On doit connaître leur état d'esprit.
+
+459
+00:36:59,268 --> 00:37:02,066
+J'ai envoyé un avertissement sur Orilla.
+
+460
+00:37:02,148 --> 00:37:05,379
+Vu la trajectoire et la vitesse
+des réplicateurs,
+
+461
+00:37:05,468 --> 00:37:09,381
+ils sauront ou ces derniers
+sortiront de l'hyperespace.
+
+462
+00:37:09,468 --> 00:37:12,858
+Nos vaisseaux se tiendront
+en embuscade.
+
+463
+00:37:12,948 --> 00:37:16,702
+Ils détruiront les réplicateurs
+avant de lever les boucliers?
+
+464
+00:37:16,788 --> 00:37:19,700
+Ils seront à découvert quelques instants,
+
+465
+00:37:19,788 --> 00:37:24,578
+mais si mes calculs sont exacts,
+ça devrait suffire.
+
+466
+00:37:29,908 --> 00:37:32,058
+Arrête, je t'en prie.
+
+467
+00:37:32,148 --> 00:37:34,104
+Pourquoi?
+
+468
+00:37:35,708 --> 00:37:40,384
+On ne peut pas changer le passé.
+Ça te défoule?
+
+469
+00:37:41,748 --> 00:37:45,661
+- Je ne voulais pas t'abandonner.
+- Vous l'avez fait.
+
+470
+00:37:46,188 --> 00:37:49,146
+Vous avez gagné ma confiance
+puis abandonné.
+
+471
+00:37:49,228 --> 00:37:52,618
+- Ce n'était pas mon choix.
+- Vous auriez pu revenir.
+
+472
+00:37:52,708 --> 00:37:54,938
+On n'a pas eu le temps.
+
+473
+00:37:56,068 --> 00:38:00,778
+Grâce à vous,
+j'ai compris quel imbécile j'étais.
+
+474
+00:38:00,868 --> 00:38:03,018
+Je suis désolée.
+
+475
+00:38:03,108 --> 00:38:05,542
+Je suis désolée.
+
+476
+00:38:10,988 --> 00:38:12,944
+Maintenant, oui.
+
+477
+00:38:14,468 --> 00:38:17,938
+Etre humain, c'est aussi
+avoir de la compassion.
+
+478
+00:38:18,028 --> 00:38:20,098
+Apprendre à pardonner.
+
+479
+00:38:21,508 --> 00:38:24,386
+Je n'en suis pas encore là.
+
+480
+00:38:25,548 --> 00:38:27,379
+J'ai besoin de temps.
+
+481
+00:38:46,508 --> 00:38:48,499
+Ça avance?
+
+482
+00:38:48,588 --> 00:38:53,104
+Ils pensent effectivement qu'on bluffe,
+mais ils ne peuvent le prouver,
+
+483
+00:38:53,188 --> 00:38:55,304
+alors ils hésitent.
+
+484
+00:38:55,388 --> 00:38:57,982
+Baal pourrait y réfléchir pour eux.
+
+485
+00:38:58,068 --> 00:39:01,344
+Trop dangereux.
+Si on ne peut utiliser les armes...
+
+486
+00:39:01,428 --> 00:39:05,137
+- On ne peut pas.
+- Baal obtiendrait la Terre et l'avant-poste.
+
+487
+00:39:05,228 --> 00:39:08,698
+Activité extérieure non autorisée.
+
+488
+00:39:13,108 --> 00:39:16,384
+C'est Weir à l'appareil. Que se passe-t-il?
+
+489
+00:39:17,228 --> 00:39:19,822
+Nous descendons.
+
+490
+00:39:19,908 --> 00:39:22,342
+Nos hôtes viennent d'avoir une réponse.
+
+491
+00:39:29,628 --> 00:39:33,223
+Commandant Thor,
+c'est Aegir du <i>Valhalla.</i>
+
+492
+00:39:33,308 --> 00:39:36,857
+Nous attendons le vaisseau cible
+en position défensive.
+
+493
+00:39:36,948 --> 00:39:38,939
+Bien reçu.
+
+494
+00:39:52,028 --> 00:39:54,462
+Le vaisseau ennemi a été détruit.
+
+495
+00:39:56,588 --> 00:39:58,783
+Je suis désolé.
+
+496
+00:40:07,228 --> 00:40:11,380
+Je dois voir le dernier message
+qu'ils ont reçu.
+
+497
+00:40:18,388 --> 00:40:22,779
+C'est dommage qu'on vous rappelle.
+On avançait bien.
+
+498
+00:40:22,868 --> 00:40:27,942
+Vos exigences sont ridicules.
+Nous devons mettre fin aux négociations.
+
+499
+00:40:28,028 --> 00:40:30,496
+Saluez Baal de ma part.
+
+500
+00:40:44,868 --> 00:40:46,984
+Fermez.
+
+501
+00:40:47,068 --> 00:40:48,865
+Quoi?
+
+502
+00:40:55,868 --> 00:40:58,541
+- A quoi jouez-vous?
+- Second message.
+
+503
+00:40:58,628 --> 00:41:01,096
+Les Seigneurs testent notre défense.
+
+504
+00:41:01,188 --> 00:41:06,740
+Ils envoient un vaisseau attaquer
+La Terre. Il sera là d'ici une heure.
+
+505
+00:41:07,628 --> 00:41:10,984
+Comment osez-vous
+retenir des dignitaires?
+
+506
+00:41:11,068 --> 00:41:13,866
+Nous attaquer est un acte de guerre,
+
+507
+00:41:13,948 --> 00:41:16,621
+idiot, vu notre défense.
+
+508
+00:41:16,708 --> 00:41:18,460
+Mon Seigneur n'y est pour rien.
+
+509
+00:41:18,548 --> 00:41:21,460
+Dites aux Seigneurs
+de rappeler le vaisseau.
+
+510
+00:41:21,548 --> 00:41:26,668
+C'est votre manque de coopération
+qui a provoqué leur décision.
+
+511
+00:41:26,748 --> 00:41:29,660
+On ne pourra les dissuader
+qu'en personne.
+
+512
+00:41:29,748 --> 00:41:33,502
+- Avec le vote unanime du Conseil.
+- Même si je vous croyais,
+
+513
+00:41:33,588 --> 00:41:36,705
+notre bonne foi n'a plus lieu d'être.
+
+514
+00:41:36,788 --> 00:41:39,905
+Vous êtes nos prisonniers.
+Emmenez-les.
+
+515
+00:41:56,468 --> 00:41:59,221
+Salutations, Thor.
+
+516
+00:41:59,308 --> 00:42:04,063
+Teal'c, ici Penegal,
+du Haut Conseil asgard.
+
+517
+00:42:04,148 --> 00:42:09,666
+Nous n'avons pas pu contenir
+les débris du vaisseau des réplicateurs.
+
+518
+00:42:09,748 --> 00:42:15,664
+Nous n'avons pas pu empêcher des blocs
+de réplicateurs de tomber sur Orilla.
+
+519
+00:42:15,748 --> 00:42:20,105
+Ils ont commencé à se reproduire
+et à infester nos systèmes.
+
+520
+00:42:20,188 --> 00:42:22,543
+Nous ne contrôlons plus la ville.
+
+521
+00:42:22,628 --> 00:42:25,540
+Vous devriez évacuer votre peuple.
+
+522
+00:42:25,628 --> 00:42:27,664
+Ce n'est plus possible.
+
+523
+00:42:28,148 --> 00:42:31,618
+Il y en a trop. Nous avons emporté
+de nombreux cerveaux
+
+524
+00:42:31,708 --> 00:42:34,825
+dans nos ordinateurs
+en quittant notre planète.
+
+525
+00:42:34,908 --> 00:42:37,024
+Quand on a découvert Orilla,
+
+526
+00:42:37,108 --> 00:42:40,020
+on a pu mettre ces cerveaux
+dans des corps clonés
+
+527
+00:42:40,108 --> 00:42:42,417
+pour établir notre nouvelle colonie.
+
+528
+00:42:42,508 --> 00:42:47,457
+Les réplicateurs ont infesté des systèmes
+permettant de sauver ces cerveaux.
+
+529
+00:42:47,548 --> 00:42:51,621
+Si nous perdons cette bataille,
+ils périront et leurs corps avec,
+
+530
+00:42:51,708 --> 00:42:54,825
+emmenant avec eux
+les espoirs de notre race.
+
+531
+00:42:54,908 --> 00:42:58,867
+Orilla est notre dernière chance
+de reconstruire notre empire.
+
+532
+00:43:13,588 --> 00:43:16,227
+Un vaisseau étranger a été détecté.
+
+533
+00:43:16,308 --> 00:43:20,347
+Il a quitté l'hyperespace à 14 000 Km,
+à 8 degrés à tribord.
+
+534
+00:43:20,428 --> 00:43:22,419
+- Il est identifié?
+- Pas encore.
+
+535
+00:43:22,508 --> 00:43:27,423
+Il est de même taille qu'un vaisseau mère
+goa'uld. Images dans six secondes.
+
+536
+00:43:27,508 --> 00:43:30,341
+- Préparez à faire feu.
+- Quatre, trois...
+
+537
+00:43:30,428 --> 00:43:33,101
+Grossissement maximum à l'écran.
+
+538
+00:43:36,668 --> 00:43:42,061
+Ouvrez un canal. Diffusez sur toutes
+les fréquences et traduisez en goa'uld.
+
+539
+00:43:45,508 --> 00:43:50,184
+Ici le colonel Pendergast,
+à bord du <i>Prométhée</i> de l'US Air Force.
+
+540
+00:43:50,268 --> 00:43:54,625
+Vaisseau non identifié. L'absence
+de réponse constitue une agression
+
+541
+00:43:54,708 --> 00:43:58,621
+et nous riposterons
+avec toute la puissance de nos armes.
+
+542
+00:43:58,708 --> 00:44:01,859
+Ce ne sera pas nécessaire.
+
+543
+00:44:01,948 --> 00:44:05,623
+Thor, commandant de la flotte asgard,
+vous salue.
+
+544
+00:44:05,708 --> 00:44:07,858
+Nous sommes sur le <i>Daniel Jackson.</i>
+
+545
+00:44:10,228 --> 00:44:13,425
+Il paraît que les Asgards sont venus
+
+546
+00:44:13,508 --> 00:44:16,705
+observer notre système de défense,
+
+547
+00:44:16,788 --> 00:44:19,177
+situation que vous nous avez imposée.
+
+548
+00:44:19,828 --> 00:44:22,058
+Vous pouvez décommander l'attaque.
+
+549
+00:44:22,148 --> 00:44:25,458
+Nous souhaitons assister
+à la démonstration.
+
+550
+00:44:26,068 --> 00:44:30,425
+Votre vaisseau a été détruit
+en route par Baal.
+
+551
+00:44:30,508 --> 00:44:35,184
+Les forces des Seigneurs se rendent
+et vous êtes en train de perdre la guerre.
+
+552
+00:44:35,268 --> 00:44:37,623
+Alors vous aussi.
+
+553
+00:44:49,748 --> 00:44:53,741
+- Salut.
+- Notre nouvelle colonie est en danger.
+
+554
+00:44:53,828 --> 00:44:57,138
+Les réplicateurs se sont échappés.
+
+555
+00:44:57,228 --> 00:44:59,696
+Ils menacent de détruire les Asgards.
+
+556
+00:44:59,788 --> 00:45:02,507
+Que pouvons-nous faire?
+
+557
+00:45:02,588 --> 00:45:05,148
+Le savoir ancien de O'Neill
+
+558
+00:45:05,228 --> 00:45:08,504
+permettra peut-être
+de vaincre les réplicateurs.
+
+559
+00:45:08,588 --> 00:45:11,022
+Jack est congelé en Antarc...
+
+560
+00:45:13,588 --> 00:45:15,579
+...tique.
+
+561
+00:45:22,108 --> 00:45:24,338
+Comme je le disais: "Ou est Sam?"
+
+562
+00:45:24,428 --> 00:45:28,501
+Les réplicateurs l'ont capturée.
+Leur vaisseau a été détruit.
+
+563
+00:46:43,908 --> 00:46:48,504
+Salut, la marmotte. J'ai cru
+que tu n'allais jamais te réveiller.
+
+564
+00:46:48,588 --> 00:46:51,227
+La nuit a été longue.
+
+565
+00:46:52,028 --> 00:46:53,825
+Pete.
+
+566
+00:46:56,508 --> 00:46:59,227
+Quelque chose ne va pas?
+
+567
+00:46:59,308 --> 00:47:01,538
+Oui, tout va mal.
+
+568
+00:47:01,628 --> 00:47:04,017
+- C'est-à-dire?
+- Ça.
+
+569
+00:47:04,108 --> 00:47:06,542
+Que fais-tu là?
+
+570
+00:47:06,628 --> 00:47:10,223
+Qu'est-ce que je fais là?
+C'est ou, "là"?
+
+571
+00:47:12,188 --> 00:47:17,023
+Pas mal. J'ai marché. J'étais debout
+à 5 heures pour nourrir les poules.
+
+572
+00:47:17,108 --> 00:47:19,861
+Non, honnêtement, je ne...
+
+573
+00:47:20,308 --> 00:47:22,344
+Tu ne quoi?
+
+574
+00:47:23,868 --> 00:47:26,302
+Je ne crois pas que c'est réel.
+
+575
+00:47:27,268 --> 00:47:30,738
+Tu as faim? Je meurs de faim.
+Je te fais des pancakes.
+
+576
+00:47:30,828 --> 00:47:33,137
+Tu ne comprends pas.
+
+577
+00:47:34,588 --> 00:47:37,386
+Ceci n'est pas en train de se produire.
+
+578
+00:47:38,268 --> 00:47:42,784
+J'étais à bord
+d'un vaisseau réplicateurs.
+
+579
+00:47:42,868 --> 00:47:45,940
+C'est encore
+pour me détraquer le cerveau.
+
+580
+00:47:46,028 --> 00:47:48,223
+D'accord. Voici ce que je sais.
+
+581
+00:47:48,308 --> 00:47:51,027
+Tu n'es pas au SGC,
+mais dans le Montana.
+
+582
+00:47:51,108 --> 00:47:54,703
+Rien n'est bizarre ici,
+contrairement à ce que tu connais.
+
+583
+00:47:54,788 --> 00:47:58,144
+Tu as quitté le programme Stargate
+à cause du surmenage
+
+584
+00:47:58,228 --> 00:48:02,221
+et pour vivre à la ferme
+avec moi et des animaux qui puent.
+
+585
+00:48:02,308 --> 00:48:06,779
+Depuis, tu vois un psy
+parce que tu fais des cauchemars.
+
+586
+00:48:06,868 --> 00:48:09,223
+Tu en as fait un pénible.
+
+587
+00:48:12,548 --> 00:48:14,266
+C'est tout.
+
+588
+00:48:28,788 --> 00:48:32,144
+- Ça te paraît vrai, ça?
+- Oui.
+
+589
+00:48:32,228 --> 00:48:34,617
+Alors, ressaisis-toi.
+
+590
+00:48:37,028 --> 00:48:40,020
+Des pancakes ou j'appelle le médecin?
+
+591
+00:48:42,428 --> 00:48:45,465
+- J'ai un peu faim.
+- Tant mieux.
+
+592
+00:48:45,548 --> 00:48:47,379
+Allez, viens.
+
+593
+00:48:57,348 --> 00:49:01,785
+- Qu'allez-vous faire?
+- Fusionner O'Neill et l'ordinateur.
+
+594
+00:49:03,188 --> 00:49:07,898
+Il faut le dégeler d'abord, non?
+Il était presque mort quand on l'a congelé.
+
+595
+00:49:07,988 --> 00:49:11,458
+Espérons que le caisson le gardera en vie.
+
+596
+00:49:12,308 --> 00:49:14,902
+- "Espérons"?
+- A-t-on le choix?
+
+597
+00:49:14,988 --> 00:49:19,504
+Sauvez-le, comme l'autre fois.
+Effacez le savoir de son cerveau.
+
+598
+00:49:19,588 --> 00:49:24,616
+On perdrait toute chance
+de vaincre les réplicateurs.
+
+599
+00:49:24,708 --> 00:49:29,702
+- Ne jouez pas avec sa vie.
+- O'Neill serait d'accord.
+
+600
+00:49:29,788 --> 00:49:34,987
+On ne peut faire ce choix. Contentez-vous
+d'extraire le savoir des Anciens.
+
+601
+00:49:35,068 --> 00:49:37,423
+Nous en tirerons tous profit.
+
+602
+00:49:37,508 --> 00:49:39,942
+Vous ne pouvez pas comprendre l'étendue
+
+603
+00:49:40,028 --> 00:49:42,417
+de ce que O'Neill avait dans le crâne.
+
+604
+00:49:42,508 --> 00:49:46,820
+Nos savants ont extrait une partie
+des connaissances, il y a longtemps
+
+605
+00:49:46,908 --> 00:49:49,138
+et ont beaucoup appris.
+
+606
+00:49:52,148 --> 00:49:55,140
+et n'avons effleuré
+que le sommet de l'iceberg.
+
+607
+00:49:55,228 --> 00:50:01,178
+- Une aiguille dans une meule de foin.
+- Une meule de foin infinie.
+
+608
+00:50:01,268 --> 00:50:03,623
+Ça fait grand.
+
+609
+00:50:03,708 --> 00:50:07,462
+J'espère que l'esprit de O'Neill
+nous conduira directement
+
+610
+00:50:07,548 --> 00:50:10,062
+à l'information que nous cherchons.
+
+611
+00:50:16,148 --> 00:50:20,141
+- Vous vouliez me voir?
+- Vous devez nous relâcher.
+
+612
+00:50:20,228 --> 00:50:23,379
+Je ne vous dois rien.
+Si c'est ce que...
+
+613
+00:50:23,468 --> 00:50:26,107
+Si vous cherchez des informations,
+
+614
+00:50:26,188 --> 00:50:29,066
+sachez que je mourrais
+plutôt que de parler.
+
+615
+00:50:29,148 --> 00:50:33,300
+- Mon maître n'est pas fiable.
+- On n'a pas décidé que faire de vous.
+
+616
+00:50:33,388 --> 00:50:36,425
+Anubis a eu besoin
+de presque toute sa flotte
+
+617
+00:50:36,508 --> 00:50:38,817
+pour éloigner les Seigneurs.
+
+618
+00:50:38,908 --> 00:50:41,980
+Il a attaqué la Terre avec une flotte réduite
+
+619
+00:50:42,068 --> 00:50:45,617
+par rapport à celle que Baal va utiliser.
+
+620
+00:50:45,708 --> 00:50:48,142
+Il va régner sur la galaxie.
+
+621
+00:50:48,228 --> 00:50:51,618
+Aucune arme ne sera
+assez puissante pour le stopper.
+
+622
+00:50:51,708 --> 00:50:56,384
+- Qu'attendez-vous de moi?
+- Laissez-nous nous battre.
+
+623
+00:50:56,468 --> 00:50:58,459
+S'il le faut,
+
+624
+00:50:59,708 --> 00:51:02,381
+nous mourrons avec honneur.
+
+625
+00:51:07,228 --> 00:51:09,822
+- Il n'est pas bien.
+- Je vous l'avais dit.
+
+626
+00:51:09,908 --> 00:51:13,617
+Créer une interface de son esprit
+est un processus complexe.
+
+627
+00:51:13,708 --> 00:51:15,141
+Allô?
+
+628
+00:51:15,228 --> 00:51:18,504
+Test. Un. Deux.
+
+629
+00:51:18,588 --> 00:51:22,183
+Allô? Ça fonctionne?
+
+630
+00:51:24,188 --> 00:51:30,104
+- O'Neill, vous nous entendez?
+- Ça va? Que se passe-t-il?
+
+631
+00:51:30,188 --> 00:51:32,941
+Vous avez fusionné
+avec le <i>Daniel Jackson.</i>
+
+632
+00:51:33,028 --> 00:51:35,178
+Quoi?
+
+633
+00:51:35,268 --> 00:51:38,817
+Le vaisseau de Thor
+s'appelle le <i>Daniel Jackson.</i>
+
+634
+00:51:38,908 --> 00:51:42,139
+Les informations de l'ordinateur
+sont disponibles.
+
+635
+00:51:42,228 --> 00:51:45,857
+Bon, c'est parti. C'est sympa.
+
+636
+00:51:45,948 --> 00:51:49,623
+Je peux faire
+presque tout ce que je veux, non?
+
+637
+00:51:56,228 --> 00:51:58,025
+Désolé.
+
+638
+00:51:58,108 --> 00:52:01,896
+Apparaissez comme un hologramme,
+si vous voulez.
+
+639
+00:52:02,908 --> 00:52:04,466
+Ça alors.
+
+640
+00:52:06,428 --> 00:52:09,022
+- Ça va?
+- C'est un peu bizarre.
+
+641
+00:52:09,108 --> 00:52:11,906
+Mais bon, ça va.
+
+642
+00:52:11,988 --> 00:52:14,456
+Au moins, tu ne parles pas l'ancien.
+
+643
+00:52:14,548 --> 00:52:19,224
+- C'est une chose.
+- En fait, l'ordinateur traduit.
+
+644
+00:52:23,468 --> 00:52:27,017
+- Je n'ai jamais eu si bonne mine.
+- Le temps presse.
+
+645
+00:52:27,108 --> 00:52:30,418
+- La planète de Thor...
+- J'ai le registre du vaisseau.
+
+646
+00:52:30,508 --> 00:52:33,420
+Que pouvez-vous pour les réplicateurs?
+
+647
+00:52:33,508 --> 00:52:35,385
+J'y travaille déjà.
+
+648
+00:52:35,468 --> 00:52:40,223
+L'ordinateur a enregistré la conversation.
+
+649
+00:52:40,308 --> 00:52:42,617
+Merci de ta sollicitude.
+
+650
+00:52:45,428 --> 00:52:48,022
+Bavardez entre vous.
+
+651
+00:53:00,548 --> 00:53:06,259
+J'ai discuté avec mes supérieurs.
+Nous avons décidé de vous relâcher.
+
+652
+00:53:07,148 --> 00:53:10,140
+Je dois avouer que ça me surprend.
+
+653
+00:53:10,228 --> 00:53:14,824
+Les interrogatoires ne nous ont
+jamais réussi avec les Goa'ulds.
+
+654
+00:53:14,908 --> 00:53:18,184
+Vous serez plus utiles
+à lutter contre Baal.
+
+655
+00:53:18,268 --> 00:53:19,701
+Dr Weir.
+
+656
+00:53:20,508 --> 00:53:22,783
+Vous connaissez mon nom.
+
+657
+00:53:27,308 --> 00:53:29,663
+Ça va peut-être vous surprendre.
+
+658
+00:53:29,748 --> 00:53:33,138
+Plus rien ne me surprend,
+au point ou j'en suis.
+
+659
+00:53:33,228 --> 00:53:37,346
+- Je vous demande l'asile.
+- Je me suis de nouveau trompée.
+
+660
+00:53:37,428 --> 00:53:40,579
+Ma flotte a été détruite avant mon arrivée,
+
+661
+00:53:40,668 --> 00:53:44,104
+mon domaine a été le premier à tomber.
+
+662
+00:53:44,188 --> 00:53:46,748
+Je n'ai plus rien pour me battre.
+
+663
+00:53:46,828 --> 00:53:49,900
+Seules la honte et la torture m'attendent.
+
+664
+00:53:49,988 --> 00:53:53,583
+Donc je ne serai pas
+plus utile à l'extérieur.
+
+665
+00:53:53,668 --> 00:53:57,502
+Je pourrais peut-être vous être utile.
+
+666
+00:54:03,988 --> 00:54:06,297
+Merci.
+
+667
+00:54:06,388 --> 00:54:08,504
+C'était génial.
+
+668
+00:54:08,588 --> 00:54:10,544
+Très réel, comme goût.
+
+669
+00:54:13,988 --> 00:54:19,585
+On pourrait dîner en ville ce soir,
+aller au cinéma.
+
+670
+00:54:19,668 --> 00:54:23,456
+Tu ne crois quand même pas
+que je vais marcher.
+
+671
+00:54:25,868 --> 00:54:28,780
+J'ai renoncé à mon boulot,
+à ma vie pour toi.
+
+672
+00:54:28,868 --> 00:54:31,985
+Ça, ce n'est vraiment pas Pete.
+
+673
+00:54:32,068 --> 00:54:35,026
+Ma patience a des limites.
+
+674
+00:54:37,028 --> 00:54:39,986
+Tu ne me convaincras pas.
+
+675
+00:54:40,068 --> 00:54:43,378
+Je sais qui tu es.
+Je ne comprends pas pourquoi.
+
+676
+00:54:43,468 --> 00:54:47,347
+Que veux-tu? Pourquoi fais-tu ça?
+
+677
+00:54:53,988 --> 00:54:56,456
+Parce que je vous aime.
+
+678
+00:55:04,868 --> 00:55:07,462
+- C'est quoi?
+- Je ne suis pas sûr.
+
+679
+00:55:07,548 --> 00:55:11,177
+On dirait que l'esprit de O'Neill
+construit un truc virtuel
+
+680
+00:55:11,268 --> 00:55:14,340
+en conjonction avec l'ordinateur de bord.
+
+681
+00:55:15,388 --> 00:55:19,222
+J'ignore combien de temps
+on peut le garder en vie.
+
+682
+00:55:19,308 --> 00:55:21,617
+Jack, tu m'entends?
+
+683
+00:55:21,708 --> 00:55:26,179
+- Il faut le réanimer.
+- Attendez. Pas encore.
+
+684
+00:55:41,628 --> 00:55:44,267
+Quel mal de crâne.
+
+685
+00:55:45,268 --> 00:55:48,544
+Doucement.
+Ce n'est pas rien, ce que tu as vécu.
+
+686
+00:55:51,748 --> 00:55:54,182
+Quoi encore?
+
+687
+00:55:54,268 --> 00:55:57,260
+Quel est ton dernier souvenir?
+
+688
+00:55:59,348 --> 00:56:07,187
+Je me suis fait aspirer la tête
+par un de ces foutus aspirateurs de têtes.
+
+689
+00:56:09,388 --> 00:56:12,107
+Et une histoire de jumeaux.
+
+690
+00:56:20,628 --> 00:56:23,426
+C'est quoi, ces cheveux?
+
+691
+00:56:25,708 --> 00:56:27,619
+Vous avez de l'aspirine?
+
+692
+00:56:27,708 --> 00:56:33,658
+Ça devrait aller mieux. Vous allez
+retrouver progressivement la mémoire.
+
+693
+00:56:36,468 --> 00:56:39,187
+C'est quoi, ces cheveux?
+
+694
+00:56:39,268 --> 00:56:42,863
+Les spécifications techniques
+sont dans l'ordinateur.
+
+695
+00:56:42,948 --> 00:56:45,018
+Je peux les synthétiser.
+
+696
+00:56:50,908 --> 00:56:53,183
+Super.
+
+697
+00:56:53,268 --> 00:56:56,340
+- C'est quoi?
+- On l'ignore, mais tu l'as créé.
+
+698
+00:56:58,388 --> 00:57:00,538
+- Non.
+- Si.
+
+699
+00:57:04,708 --> 00:57:09,623
+Vous avez eu accès au savoir ancien, et
+commandé à l'ordinateur de le concevoir.
+
+700
+00:57:09,708 --> 00:57:11,744
+Mais j'ignore ce que c'est.
+
+701
+00:57:11,828 --> 00:57:15,946
+Il y avait des chances qu'il oublie.
+Le savoir des Anciens a disparu.
+
+702
+00:57:16,028 --> 00:57:18,906
+Je vais jeter un oeil.
+
+703
+00:57:21,788 --> 00:57:23,779
+Oui, tu as des jambes.
+
+704
+00:57:27,628 --> 00:57:29,823
+C'est bon.
+
+705
+00:57:41,188 --> 00:57:44,942
+Je ne sais pas.
+
+706
+00:57:52,188 --> 00:57:55,624
+Penegal. Je suis soulagé de te parler.
+
+707
+00:57:55,708 --> 00:58:00,736
+Ce sera peut-être bref. Vous avez trouvé
+comment vaincre les réplicateurs?
+
+708
+00:58:00,828 --> 00:58:03,740
+Possible.
+Il faut poursuivre les recherches.
+
+709
+00:58:03,828 --> 00:58:07,707
+Ceux qui infestent la colonie
+sont organisés,
+
+710
+00:58:07,788 --> 00:58:10,746
+contrairement aux autres.
+
+711
+00:58:10,828 --> 00:58:16,186
+Ils ont peut-être un leader
+qui a une forme humaine.
+
+712
+00:58:16,268 --> 00:58:20,261
+Si un réplicateurs humain a survécu,
+Sam est peut-être vivante.
+
+713
+00:58:20,348 --> 00:58:23,260
+Peut-être aussi
+que les anciens réplicateurs
+
+714
+00:58:23,348 --> 00:58:25,987
+ont créé une forme humaine
+pour les diriger.
+
+715
+00:58:26,068 --> 00:58:29,697
+Mais c'est possible.
+Vous pouvez détecter des signes de vie?
+
+716
+00:58:29,788 --> 00:58:32,860
+C'est déjà fait. On n'a rien trouvé.
+
+717
+00:58:39,068 --> 00:58:41,218
+Penegal, tu m'entends?
+
+718
+00:58:44,108 --> 00:58:46,576
+On a perdu le contact.
+
+719
+00:58:50,268 --> 00:58:55,103
+Tu pensais me convaincre
+que cette illusion, c'était ma vie?
+
+720
+00:58:55,188 --> 00:58:58,464
+Si vous le vouliez suffisamment.
+
+721
+00:58:58,548 --> 00:59:02,177
+C'est pour ça que tu m'as torturée?
+Pour que j'aie envie de ça?
+
+722
+00:59:02,268 --> 00:59:05,658
+Non, j'étais en colère.
+
+723
+00:59:11,108 --> 00:59:15,499
+Depuis que j'ai pénétré votre esprit...
+
+724
+00:59:18,788 --> 00:59:21,746
+Je vous ai vue comme personne d'autre.
+
+725
+00:59:22,188 --> 00:59:25,419
+Les émotions sont parfois bouleversantes.
+
+726
+00:59:25,508 --> 00:59:28,978
+Le fait que tu aies des sensations
+est déjà miraculeux.
+
+727
+00:59:29,068 --> 00:59:32,140
+Ça fait de toi quelqu'un de spécial.
+
+728
+00:59:32,228 --> 00:59:36,904
+- Heureux de vous l'entendre dire.
+- Tu ne comprends pas.
+
+729
+00:59:36,988 --> 00:59:39,707
+Je ne serai jamais heureuse ainsi.
+
+730
+00:59:40,548 --> 00:59:45,338
+Alors vous serez malheureuse
+très longtemps.
+
+731
+01:00:11,668 --> 01:00:17,664
+Signifiez à Camulus qu'il sera
+à jamais un traître et un lâche.
+
+732
+01:00:25,428 --> 01:00:29,421
+- Très intrigant.
+- Ça peut fonctionner?
+
+733
+01:00:29,508 --> 01:00:33,786
+Honnêtement, je ne sais
+toujours pas trop ce que c'est.
+
+734
+01:00:36,268 --> 01:00:38,418
+Ne me regardez pas.
+
+735
+01:00:41,188 --> 01:00:44,976
+Thor, c'est Aegir,
+le commandant du <i>Valhalla.</i>
+
+736
+01:00:45,068 --> 01:00:47,457
+Le contact avec la colonie est rompu.
+
+737
+01:00:51,908 --> 01:00:57,540
+Nous avons retrouvé un réplicateurs
+à forme humaine flottant dans l'espace.
+
+738
+01:00:57,628 --> 01:01:00,461
+Il a survécu à la destruction
+de son vaisseau.
+
+739
+01:01:00,548 --> 01:01:03,824
+Tout indique qu'il est inactif.
+
+740
+01:01:03,908 --> 01:01:07,457
+- Les coordonnées?
+- Soyez prudents.
+
+741
+01:01:09,668 --> 01:01:12,102
+- Que faites-vous?
+- Ou allez-vous?
+
+742
+01:01:12,188 --> 01:01:15,100
+Je vais le transporter à bord du vaisseau.
+
+743
+01:01:16,108 --> 01:01:18,622
+- Pourquoi?
+- Nous devons savoir ou
+
+744
+01:01:18,708 --> 01:01:24,305
+se trouve la forme humaine
+qui contrôle les réplicateurs de la planète.
+
+745
+01:01:30,748 --> 01:01:32,943
+Quelqu'un le reconnaît?
+
+746
+01:01:37,628 --> 01:01:41,416
+- Il est mort?
+- Pas complètement, j'espère.
+
+747
+01:01:41,508 --> 01:01:45,660
+Les réplicateurs sont reliés
+par un système sophistiqué.
+
+748
+01:01:45,748 --> 01:01:48,467
+Si celui-là nous donne
+accès à leur réseau,
+
+749
+01:01:48,548 --> 01:01:51,984
+nous verrons
+ce que les réplicateurs voient.
+
+750
+01:01:52,068 --> 01:01:56,266
+S'il se réveille,
+la capsule lui résistera-t-il?
+
+751
+01:01:56,348 --> 01:01:58,908
+Sûrement pas.
+
+752
+01:02:00,708 --> 01:02:03,905
+Alors peut-être que ça n'a pas de sens.
+
+753
+01:02:03,988 --> 01:02:09,745
+Je le ramènerai dans l'espace s'il le faut,
+mais nous devons courir ce risque.
+
+754
+01:02:13,108 --> 01:02:14,905
+Très bien.
+
+755
+01:02:28,308 --> 01:02:32,347
+- C'est quoi?
+- Des communications de réplicateurs.
+
+756
+01:02:32,428 --> 01:02:37,024
+Je cherche des références
+à d'autres formes humaines.
+
+757
+01:02:38,788 --> 01:02:42,542
+- Tu ne peux pas me garder ici à jamais.
+- Si, je le peux.
+
+758
+01:02:42,628 --> 01:02:48,305
+Quoi que tu fasses,
+je ne participerai jamais à ce délire.
+
+759
+01:02:49,788 --> 01:02:50,777
+Quoi?
+
+760
+01:02:56,268 --> 01:02:58,259
+Un gros plan.
+
+761
+01:03:02,348 --> 01:03:05,579
+- Sam.
+- Tu peux préciser sa position?
+
+762
+01:03:05,668 --> 01:03:10,662
+Elle est dans une structure
+des réplicateurs à l'extérieur de la colonie,
+
+763
+01:03:10,748 --> 01:03:12,943
+près d'une veine de neutronium.
+
+764
+01:03:13,028 --> 01:03:16,862
+- Ils créent des réplicateurs humains.
+- Le vaisseau est détruit.
+
+765
+01:03:16,948 --> 01:03:21,100
+Au moins un des réplicateurs humains
+a dû quitter le vaisseau
+
+766
+01:03:21,188 --> 01:03:24,976
+avec le commandant Carter
+avant de quitter l'hyperespace.
+
+767
+01:03:36,828 --> 01:03:38,466
+Passez-le au rayon laser.
+
+768
+01:03:41,588 --> 01:03:44,864
+J'essaie. Il est résistant.
+
+769
+01:04:30,668 --> 01:04:33,262
+Il fallait agir.
+
+770
+01:04:42,388 --> 01:04:46,984
+Ça a dû perturber la communication
+entre les cellules individuelles
+
+771
+01:04:47,068 --> 01:04:49,343
+en les rendant inertes.
+
+772
+01:04:49,428 --> 01:04:52,340
+Nous avons étudié
+ces technologies sans succès.
+
+773
+01:04:52,428 --> 01:04:57,297
+Donc on peut utiliser ce truc
+pour pulvériser le reste de ces insectes?
+
+774
+01:04:59,508 --> 01:05:05,185
+Maintenant que j'ai compris, je vais
+modifier une version plus grande
+
+775
+01:05:05,268 --> 01:05:08,499
+pour diffuser des ondes sur tout Orilla.
+
+776
+01:05:08,588 --> 01:05:10,385
+Oui. Allez-y...
+
+777
+01:05:10,468 --> 01:05:14,177
+Vous n'accéderez pas
+au vaisseau des réplicateurs.
+
+778
+01:05:14,268 --> 01:05:16,941
+Mais je peux vous conduire à proximité.
+
+779
+01:05:17,028 --> 01:05:19,098
+Près, ça ira.
+
+780
+01:05:19,188 --> 01:05:21,543
+Prenez ça pour garder le contact.
+
+781
+01:06:19,388 --> 01:06:22,107
+- C'est qui, les meilleurs?
+- Arrêtez.
+
+782
+01:06:24,068 --> 01:06:30,416
+Si vous nous faites du mal,
+Carter mourra instantanément.
+
+783
+01:06:42,148 --> 01:06:46,903
+J'ai modifié mon vaisseau pour
+qu'il émette une onde perturbatrice.
+
+784
+01:06:46,988 --> 01:06:50,742
+- Je savais que c'était possible.
+- L'arme est chargée à 50%.
+
+785
+01:06:50,828 --> 01:06:55,026
+Si ça marche, vous aurez
+de nouveau sauvé les Asgards.
+
+786
+01:06:55,108 --> 01:07:00,341
+Je suis très heureux. Je suis fier.
+On a un petit problème.
+
+787
+01:07:00,428 --> 01:07:05,548
+Numéro Cinq a repéré notre présence.
+Il dit pouvoir tuer Carter instantanément.
+
+788
+01:07:05,628 --> 01:07:09,906
+Je sais ce que tu vas dire.
+Sa vie était déjà sacrifiée.
+
+789
+01:07:09,988 --> 01:07:14,857
+Tu dois t'occuper de ta planète.
+Moi aussi, j'ai mes problèmes. Attends.
+
+790
+01:07:14,948 --> 01:07:17,223
+Quoi?
+
+791
+01:07:28,468 --> 01:07:30,902
+Ça risque d'être grave.
+
+792
+01:07:52,868 --> 01:07:55,302
+Qu'est-ce qu'ils font?
+
+793
+01:07:55,748 --> 01:08:00,026
+On dirait qu'ils s'enfuient.
+Thor, tu es prêt?
+
+794
+01:08:00,108 --> 01:08:03,305
+- Que se passent-ils?
+- Ils battent en retraite.
+
+795
+01:08:03,388 --> 01:08:07,427
+Il faut les arrêter.
+L'arme n'est pas prête.
+
+796
+01:08:07,508 --> 01:08:10,306
+Ils ne doivent pas s'échapper.
+
+797
+01:08:13,628 --> 01:08:15,664
+Allez.
+
+798
+01:08:22,508 --> 01:08:24,738
+Je sais que tu m'entends.
+
+799
+01:08:27,228 --> 01:08:29,219
+Que se passe-t-il?
+
+800
+01:08:31,228 --> 01:08:33,788
+Numéro Cinq, ou est-tu?
+
+801
+01:08:39,628 --> 01:08:41,664
+- Nous devons partir.
+- Pourquoi?
+
+802
+01:08:41,748 --> 01:08:44,057
+Ils savent comment nous combattre.
+
+803
+01:08:44,148 --> 01:08:46,139
+Les Asgards? Comment?
+
+804
+01:08:46,228 --> 01:08:49,265
+- Celui qui s'appelle O'Neill.
+- Quoi?
+
+805
+01:08:49,348 --> 01:08:52,260
+Nous sommes encore
+si nombreux en ville.
+
+806
+01:08:52,348 --> 01:08:55,977
+Nous ne pouvons pas les attendre.
+Ils seront tués.
+
+807
+01:08:56,068 --> 01:09:01,222
+- Ça ne me fait pas de peine.
+- Vos amis tuent.
+
+808
+01:09:06,868 --> 01:09:09,223
+- Pour nous arrêter.
+- Pour me sauver.
+
+809
+01:09:09,308 --> 01:09:10,900
+Non.
+
+810
+01:09:10,988 --> 01:09:16,381
+Ils s'en foutent. Je les ai prévenus que
+J’allais vous tuer et ils n'ont pas arrêté.
+
+811
+01:09:41,108 --> 01:09:43,747
+Tu n'as qu'à me tuer.
+
+812
+01:09:44,628 --> 01:09:48,507
+Tu sais pourquoi mes amis
+n'arrêteront pas pour me sauver?
+
+813
+01:09:48,588 --> 01:09:51,261
+- Non.
+- Ils savent bien qu'au fond,
+
+814
+01:09:51,348 --> 01:09:55,580
+je préfère mourir
+que d'être prisonnier ici pour toujours.
+
+815
+01:09:55,668 --> 01:10:00,264
+Peu importe ce que tu ressens pour moi,
+je ne t'aimerai jamais.
+
+816
+01:10:01,548 --> 01:10:03,823
+Tue-moi si tu veux.
+
+817
+01:10:03,908 --> 01:10:07,264
+Mais si tu as un tant soit peu d'humanité,
+
+818
+01:10:07,348 --> 01:10:12,138
+si tu m'aimes vraiment,
+tu me laisseras partir.
+
+819
+01:10:46,268 --> 01:10:48,623
+O'Neill, l'arme a fonctionné.
+
+820
+01:10:48,708 --> 01:10:53,304
+Dans la colonie, les réplicateurs restants
+auraient été neutralisés.
+
+821
+01:10:53,388 --> 01:10:55,538
+Le vaisseau s'est échappé,
+
+822
+01:10:55,628 --> 01:10:59,462
+mais au moins, on sait les combattre.
+
+823
+01:10:59,548 --> 01:11:02,824
+C'est déjà ça.
+
+824
+01:11:03,788 --> 01:11:09,579
+J'ai un quatrième signe de vie
+tout près de vous.
+
+825
+01:11:24,468 --> 01:11:26,459
+Par ici.
+
+826
+01:11:32,908 --> 01:11:34,899
+Ça va?
+
+827
+01:11:35,868 --> 01:11:38,826
+- Contente de vous voir.
+- Moi aussi.
+
+828
+01:11:57,028 --> 01:12:00,623
+Entrez. Comment vous sentez-vous?
+
+829
+01:12:00,708 --> 01:12:05,941
+Pas mal. Je ne ressens pas le besoin
+de partir ou de construire des trucs.
+
+830
+01:12:06,028 --> 01:12:08,178
+Vous êtes en parfaite santé,
+
+831
+01:12:08,268 --> 01:12:11,544
+si on en croit les meilleurs médecins
+de la planète.
+
+832
+01:12:11,628 --> 01:12:13,937
+Qu'est-ce qu'ils en savent?
+
+833
+01:12:15,228 --> 01:12:19,619
+Le président vous invite
+à dîner à la Maison Blanche.
+
+834
+01:12:19,708 --> 01:12:21,778
+Vous connaissez le menu?
+
+835
+01:12:22,948 --> 01:12:26,338
+Je n'ai pas eu l'occasion
+de vous remercier.
+
+836
+01:12:26,428 --> 01:12:29,306
+- De quoi?
+- Vous risquez votre vie
+
+837
+01:12:29,388 --> 01:12:31,379
+et ne demandez rien en retour.
+
+838
+01:12:31,468 --> 01:12:34,505
+Ne vous méprenez pas. J'ai une liste.
+
+839
+01:12:34,588 --> 01:12:40,584
+Je doute qu'on puisse
+vous remercier convenablement.
+
+840
+01:12:41,508 --> 01:12:43,578
+Vous allez quelque part?
+
+841
+01:12:43,668 --> 01:12:48,617
+Le président m'envoie diriger les
+recherches de l'avant-poste des Anciens.
+
+842
+01:12:48,708 --> 01:12:54,385
+Ce sera délicat, vu toutes
+les revendications internationales.
+
+843
+01:12:54,468 --> 01:12:56,823
+Vous serez dans votre élément.
+
+844
+01:12:56,908 --> 01:12:59,945
+Plus que dans ce poste-ci en tout cas.
+
+845
+01:13:00,028 --> 01:13:03,100
+Est-ce que Hammond va revenir?
+
+846
+01:13:03,188 --> 01:13:06,703
+Le général Hammond
+a reçu une promotion.
+
+847
+01:13:06,788 --> 01:13:11,623
+Il supervisera ce qui a trait à la défense
+de la Terre au nom du Pentagone.
+
+848
+01:13:11,708 --> 01:13:14,859
+Le SGC, le programme 303,
+le site Antarctique.
+
+849
+01:13:14,948 --> 01:13:18,782
+Officieusement, ça s'appelle
+"Sécurité Planète Terre".
+
+850
+01:13:20,508 --> 01:13:24,262
+Savez-vous qui on va nous coller?
+
+851
+01:13:24,348 --> 01:13:27,738
+Le Pentagone a convaincu
+le président qu'un homme
+
+852
+01:13:27,828 --> 01:13:32,026
+peut diriger le SGC et lui donner
+une crédibilité internationale
+
+853
+01:13:32,108 --> 01:13:36,226
+malgré le fait qu'il appartienne
+à l'establishment militaire.
+
+854
+01:13:36,308 --> 01:13:38,663
+On le connaît, ce type?
+
+855
+01:13:39,388 --> 01:13:41,948
+Vous le connaissez bien.
+
+856
+01:13:42,748 --> 01:13:46,024
+Le général de brigade Jack O'Neill.
+
+857
+01:13:46,108 --> 01:13:48,576
+- Moi?
+- Vous.
+
+858
+01:13:49,628 --> 01:13:51,619
+Général de brigade.
+
+859
+01:13:53,788 --> 01:13:57,019
+- C'était sur ma liste.
+- Félicitations.
+
+860
+01:13:57,468 --> 01:13:59,663
+Je dois être clair.
+
+861
+01:14:01,228 --> 01:14:05,938
+La promotion, le salaire,
+la place de parking, ça me plaît,
+
+862
+01:14:06,028 --> 01:14:09,179
+mais je ne veux pas de responsabilités.
+
+863
+01:14:09,268 --> 01:14:12,340
+Hélas, tout ça va ensemble.
+
+864
+01:14:12,428 --> 01:14:14,783
+Alors, vous allez devoir réfléchir.
+
+865
+01:14:14,868 --> 01:14:17,428
+Je déteste ça.
+
+866
+01:14:19,268 --> 01:14:22,226
+Pèse le pour et le contre.
+
+867
+01:14:22,308 --> 01:14:25,744
+J'ai passé ma vie à critiquer les chefs.
+
+868
+01:14:25,828 --> 01:14:28,388
+Si j'accepte, ce sera moi, le chef.
+
+869
+01:14:28,948 --> 01:14:32,020
+Je ne pense pas pouvoir.
+
+870
+01:14:33,348 --> 01:14:37,466
+Vous allez hériter d'un sac de noeuds,
+vu la situation.
+
+871
+01:14:37,548 --> 01:14:42,497
+Si Baal est près de dominer le système,
+on a à faire face à un défi redoutable.
+
+872
+01:14:42,588 --> 01:14:45,898
+Et qui sait quand
+les réplicateurs réapparaîtront?
+
+873
+01:14:45,988 --> 01:14:51,301
+On sera encore plus surveillés
+car le Stargate est désormais connu.
+
+874
+01:14:51,388 --> 01:14:53,777
+Je n'ai jamais eu de bureau.
+
+875
+01:14:54,988 --> 01:14:57,900
+- C'est...
+- Contre.
+
+876
+01:14:57,988 --> 01:15:01,219
+Notez que vous avez un bureau.
+
+877
+01:15:02,748 --> 01:15:03,783
+C'est vrai?
+
+878
+01:15:03,868 --> 01:15:08,658
+Mais personne ne sait mieux que toi
+comment diriger cet endroit.
+
+879
+01:15:08,748 --> 01:15:10,500
+Merci.
+
+880
+01:15:10,588 --> 01:15:14,103
+Avec les avis éclairés
+de tes amis et conseillers.
+
+881
+01:15:14,188 --> 01:15:19,137
+Si vous n'acceptez pas,
+on aura peut-être quelqu'un de bien pire.
+
+882
+01:15:19,868 --> 01:15:23,304
+J'aurais dû formuler autrement.
+
+883
+01:15:23,388 --> 01:15:26,425
+Moi, tu vas me manquer en mission.
+
+884
+01:15:26,508 --> 01:15:30,342
+Je ne suis pas sûr
+d'avoir envie d'y renoncer.
+
+885
+01:15:30,428 --> 01:15:33,386
+De rester et de vous regarder
+vous amuser.
+
+886
+01:15:33,468 --> 01:15:36,983
+A risquer nos vies
+et à courir de grands dangers.
+
+887
+01:15:37,068 --> 01:15:40,060
+Vous aurez l'occasion
+de nous accompagner.
+
+888
+01:15:40,148 --> 01:15:43,185
+Tu seras chef.
+Tu feras ce que tu veux.
+
+889
+01:15:43,708 --> 01:15:46,142
+Je ferai ce que je veux.
+
+890
+01:15:49,348 --> 01:15:52,021
+Dans les limites du raisonnable.
+
+891
+01:16:02,268 --> 01:16:06,420
+Mon séjour a été bref, mais marquant.
+
+892
+01:16:06,508 --> 01:16:10,660
+Je n'oublierai personne
+et je vous remercie pour votre travail.
+
+893
+01:16:10,748 --> 01:16:13,979
+Je n'aime pas les adieux,
+alors sans plus attendre,
+
+894
+01:16:14,068 --> 01:16:18,505
+j'ai le plaisir de vous présenter
+votre nouveau commandant,
+
+895
+01:16:18,588 --> 01:16:21,466
+le général de brigade Jack O'Neill.
+
+896
+01:16:39,748 --> 01:16:42,387
+Repos.
+
+897
+01:16:44,828 --> 01:16:51,939
+Vous savez combien j'aime les discours,
+alors je vais faire court.
+
+898
+01:16:54,268 --> 01:16:58,341
+J'aimerais pouvoir dire
+que je ne dois rien à personne.
+
+899
+01:17:01,668 --> 01:17:07,265
+Mais à la vérité, je ne serai pas là
+
+900
+01:17:07,348 --> 01:17:12,945
+sans le courage et le soutien
+de chacun d'entre vous.
+
+901
+01:17:13,028 --> 01:17:17,419
+J'espère être à la hauteur
+de nos grands dirigeants passés,
+
+902
+01:17:17,508 --> 01:17:19,738
+et aussi bon que vous le méritez.
+
+903
+01:17:19,828 --> 01:17:21,819
+Bravo.
+
+904
+01:17:28,868 --> 01:17:32,338
+L'autre raison pour laquelle
+j'ai accepté ce poste,
+
+905
+01:17:32,428 --> 01:17:36,103
+c'est pour faire des trucs sympa
+comme ceci.
+
+906
+01:17:37,708 --> 01:17:44,625
+C'est donc avec fierté qu'en tant
+que commandant de cette base,
+
+907
+01:17:44,708 --> 01:17:47,541
+je vous annonce la promotion
+
+908
+01:17:47,628 --> 01:17:51,701
+du commandant Samantha Carter
+au grade de lieutenant-colonel.
+
+909
+01:18:04,388 --> 01:18:09,462
+Le président des Etats-Unis
+a accordé une confiance particulière
+
+910
+01:18:09,548 --> 01:18:15,498
+au patriotisme, à l'intégrité
+et aux capacités du commandant Carter.
+
+911
+01:18:15,588 --> 01:18:18,660
+Le commandant Carter
+est promue au grade
+
+912
+01:18:18,748 --> 01:18:22,457
+de lieutenant-colonel
+de l'aviation militaire américaine.
+
+913
+01:18:22,548 --> 01:18:25,824
+Lieutenant-colonel Samantha Carter.
+
+914
+01:18:33,588 --> 01:18:38,264
+Levez la main droite
+et répétez après moi.
+
+915
+01:18:41,908 --> 01:18:44,058
+Moi, Samantha Carter...
+
+916
+01:18:55,908 --> 01:18:58,547
+N'aie pas peur.
+
+917
+01:18:58,628 --> 01:19:02,382
+Le premier instant
+de conscience peut être effrayant.
+
+918
+01:19:02,468 --> 01:19:08,145
+Je te montrerai,
+je partagerai tout ce que je sais avec toi.
+
+919
+01:19:11,588 --> 01:19:17,584
+Tu n'imagines pas comme j'étais heureux
+qu'on trouve assez de neutronium.
+
+920
+01:19:27,028 --> 01:19:29,781
+On va passer du temps ensemble.
+
+921
+01:19:31,028 --> 01:19:36,182
+Il faut trouver un foyer
+pour que nos frères se reproduisent.
+
+922
+01:19:36,268 --> 01:19:39,658
+Pour nous,
+le temps passera vite par contre.
+
+923
+01:19:39,748 --> 01:19:43,343
+Bientôt, tout le monde saura.
+

@@ -1,0 +1,431 @@
+{120}{202}Nous interrompons cette émission|pour un flash spécial.
+{205}{305}Cela fait déjà 145 km|que la police routière du Nevada
+{305}{370}poursuit la voiture bleue à l'écran
+{372}{435}qui les a contraints à traverser Elko
+{435}{510}à une vitesse approchant les 160 km/h.
+{520}{607}Chuck Pickering suit la scène|en direct depuis notre hélico.
+{610}{647}Que pouvez-vous nous dire?
+{662}{782}On suit la route 766 vers l'ouest|depuis sa jonction avec la l-80.
+{785}{885}Il y a moins d'une heure,|la police a tenté d'intercepter la voiture
+{885}{937}que nous présumons volée.
+{940}{995}C'était sur la 80 à l'est de Wells.
+{995}{1082}Depuis, rien ni personne|n'a arrêté ce conducteur.
+{1085}{1165}- Que sait-on de lui?|- Pour l'instant, rien.
+{1167}{1250}Par contre, nous avons pu|informer la police routière
+{1252}{1342}que depuis l'hélicoptère,|on aperçoit un autre passager.
+{1345}{1412}Regardez. A droite, on voit une main.
+{1415}{1465}Elle a bougé. Sur le siège arrière.
+{1467}{1545}On a probablement affaire|à une prise d'otage.
+{1547}{1650}Il faudrait donc arrêter|le véhicule au plus vite...
+{2297}{2385}Unité six en position au kilomètre 13.
+{2387}{2452}On arrive droit sur vous.
+{3070}{3170}Ca a marché.|On dirait que la voiture s'arrête.
+{3170}{3285}- Qu'ont-ils utilisé?|- Une chaîne pour crever les pneus.
+{3285}{3347}Des policiers s'approchent de la voiture.
+{3350}{3442}L'un d'eux ouvre la portière|et empoigne le suspect.
+{3445}{3545}Il l'extrait de son siège.|Il ne semble pas armé.
+{3545}{3642}Peut-être, mais on dirait|qu'il refuse de sortir.
+{3645}{3702}Vicky!
+{3705}{3780}- Madame?|- Retirez-moi ça de la tête!
+{3810}{3885}Lâchez-moi!
+{4047}{4127}L'otage est saine et sauve.|La police l'a mise à l'abri.
+{4130}{4235}- Le conducteur se débat toujours.|- Oui, il se démène comme un fou.
+{4235}{4342}Son vocabulaire semble limité,|comme vous le constatez.
+{4345}{4427}Ils tentent de le ma îti riser.|On va faire un plan plus large.
+{4430}{4507}Nous apercevons la femme. Bon sang!
+{4667}{4752}Regardez! Elle se tape la tête contre la vitre.
+{4755}{4812}Mais que s'est-il passé?
+{5102}{5162}LE GOUVERNEMENT NOUS MENT
+{5522}{5560}LA VERITE EST AILLEURS
+{5852}{5895}Virgil Nokes?
+{5895}{5990}Je suis l'agent Scully|et voici l'agent Mulder du FBI.
+{6020}{6135}- Des témoins de Jéhovah?|- Non. Bureau Fédéral d'lnvestigation.
+{6137}{6245}Mais on peut vous avoir un exemplaire|de la Bible, si vous voulez.
+{6247}{6312}Ce n'est qu'un contrôle de routine.
+{6315}{6445}Récemment, vous avez commandé|2 kg d'engrais de nitrate d'ammonium.
+{6447}{6510}Je vois. Entrez donc.
+{6670}{6725}- Des betteraves sucrières.|- Pardon?
+{6727}{6780}Je cultive des betteraves sucrières.
+{6780}{6795}Je cultive des betteraves sucrières.
+{6797}{6860}J'ai mieux à faire avec mon engrais
+{6860}{6937}que de faire sauter des gratte-ciel officiels.
+{6940}{7025}Comme je vous l'ai dit,|c'est une visite de routine.
+{7027}{7090}La routine engourdit l'esprit.
+{7117}{7237}Ma licence d'exploitation|et mes papiers doivent être par là.
+{7240}{7292}Vous m'aidez à les retrouver?
+{7295}{7375}La course-poursuite|avec un chauffard s'est soldée
+{7377}{7452}par la mort de son otage,|une femme de 36 ans.
+{7455}{7530}Voici les images prises|à l'ouest d'Elko il y a une heure...
+{7532}{7595}Scully, jette un oeil à ça.
+{7642}{7727}Nous vous prévenons|que ces images sont très dures.
+{7730}{7790}L'otage est dans la voiture.
+{7790}{7877}On la voit se taper la tête contre la vitre.
+{7880}{7975}Les autorités refusent toujours|de révéler l'identité de la femme
+{7977}{8082}et la cause du décès, mais affirment|qu'il n'y a pas eu de coup de feu.
+{8085}{8165}Le rapport du légiste|ne sera pas connu avant demain.
+{8167}{8230}D'ici là, la population du nord du Nevada...
+{8355}{8452}Merci, capitaine.|Nous serions ravis de vous aider.
+{8475}{8540}- Vous aider pour quoi?|- A bientôt.
+{8542}{8622}- On ne va pas au Nevada.|- Juste un petit crochet.
+{8625}{8675}On a une nouvelle affectation.
+{8677}{8762}Contrôler les acheteurs d'engrais?|Un boulot de con!
+{8765}{8887}C'est comme être condamné|aux travaux forcés en uniforme rayé.
+{8890}{8930}C'est de l'humiliation.
+{8930}{9007}Mulder, que ça te plaise ou non,
+{9010}{9117}on traque l'ennemi national.|D'accord, c'est une sanction.
+{9120}{9222}Mais si on veut être réhabilités,|il faut obéir. Pas d'initiatives.
+{9225}{9282}Tu as vu les infos. Qu'en penses-tu?
+{9285}{9385}Elle a certainement était abattue,|malgré le démenti de la police.
+{9387}{9415}Un sniper. Qui sait?
+{9417}{9482}Selon le capitaine, sa tête aurait explosé.
+{9485}{9565}Et qui est ce type|qui l'a retenue en otage? Son mari?
+{9565}{9672}J'ai l'impression qu'il essayait|de prévenir les flics du danger.
+{9675}{9772}La terre continuera à tourner|qu'on aille ou pas dans une ferme
+{9775}{9865}analyser un énième tas de fumier.
+{9892}{9972}On peut faire l'aller-retour. Incognito.
+{10962}{11037}A l'aide! Je vous en prie!
+{11060}{11122}Ca commence!
+{11162}{11195}On ne peut pas le voir?
+{11197}{11270}Peut-être plus tard. Il a piqué une crise
+{11270}{11362}et débité des inepties comme quoi|on allait le tuer comme sa femme.
+{11365}{11470}- II est plutôt instable.|- II a peut-être besoin de soins.
+{11472}{11557}C'est en cours.|Notre médecin est auprès de lui.
+{11560}{11697}Après ce qui est arrivé à sa femme,|mais sachez qu'on n'y est pour rien,
+{11712}{11765}on ne veut courir aucun risque.
+{11765}{11840}Patrick Garland Crump de Montello, Nevada.
+{11840}{11965}40 ans, couvreur de métier,|pas d'antécédents psychiatriques.
+{11965}{12042}- Pas de casier.|- Jusqu'à aujourd'hui.
+{12045}{12110}La Barracuda qu'il a volée|à la frontière de l'Utah?
+{12112}{12240}Il a viré un ado de sa voiture,|fait monter sa femme et a démarré.
+{12240}{12270}Excusez-moi.
+{12325}{12370}Qu'est-ce qu'on fait?
+{12370}{12465}Puisqu'on est là, je vais|jeter un oeil à la femme de Crump.
+{12465}{12540}Et moi, je vais attendre ici pour voir Crump.
+{12870}{12990}- Où est Montello?|- La petite ville juste là.
+{12992}{13070}C'est là que tout a commencé, chez Crump.
+{13072}{13157}Puis il s'est dirigé vers l'est
+{13160}{13242}sur la 5, à 16 km de la frontière|de l'Utah où il a volé la voiture.
+{13245}{13275}C'est ça.
+{13275}{13352}Mais vous l'avez retrouvé à Wells. Où est-ce?
+{13377}{13432}C'est ici. Il est donc parti par là
+{13435}{13542}et a fait demi-tour pour aller|vers l'ouest, à Wells. Pourquoi?
+{13705}{13790}La feue Vicky Jenkins Crump.
+{13792}{13920}J'espère que vous pourrez m'éclairer|car c'est une première pour moi.
+{14275}{14382}Pas de trace de poudre, ni de carbone.
+{14515}{14575}Je ne vois aucun point d'impact.
+{14577}{14672}Il n'y en a pas. C'est interne.|Ce n'est pas logique.
+{14922}{14977}Je trouve des fragments d'os pétreux
+{14980}{15070}incrustés dans le conduit|auditif encore intact.
+{15075}{15172}Je vois le labyrinthe osseux|ou ce qu'il en reste.
+{15175}{15255}On dirait qu'une bombe|a explosé dans son oreille.
+{15362}{15425}- Je peux?|- Je vous en prie.
+{15615}{15727}Je vois une tuméfaction|à l'intérieur du sinus latéral.
+{16180}{16237}Dégagez le passage, s'il vous pla îti!
+{16277}{16385}Il fait une crise. Glycémie normale.|On lui a injecté du Narcan.
+{16387}{16480}Son état empire. Bêtabloquant|et nitro topique en intraveineuse.
+{16482}{16565}Je doute que vous puissiez lui parler.
+{16705}{16755}Désolé, c'est complet.
+{17325}{17345}Quelque chose fait effet.|Son rythme cardiaque baisse.
+{17345}{17402}Quelque chose fait effet.|Son rythme cardiaque baisse.
+{17405}{17462}Sa tension se stabilise.
+{17465}{17575}- Ca me dépasse. T'as fait quoi?|- Aucune idée. Mais ça me va.
+{18647}{18690}Réponds, Mulder.
+{18690}{18772}N'entrez pas!|Ce labo est en quarantaine. Dehors!
+{18915}{19025}Mulder, c'est moi.|Décidément, tu sais les repérer.
+{19027}{19142}J'ignore ce qui a tué cette femme,|mais ça pourrait être contagieux.
+{19145}{19207}On a trouvé un 2ème cadavre|près de Montello.
+{19210}{19312}Même cause apparente de décès:|une énorme rupture d'anévrisme.
+{19315}{19390}J'ai prévenu le Centre|de Contrôle des Maladies.
+{19390}{19472}Patrick Crump a pu être infecté,|alors tu dois le faire isoler
+{19475}{19600}ainsi que toute personne|qui l'aurait côtoyé de près.
+{19600}{19730}Ca te concerne aussi.|Ne l'approche sous aucun prétexte.
+{19767}{19840}Ca risque d'être difficile, Scully.
+{20062}{20102}Roulez.
+{20435}{20520}- Où sont-ils?|- Sur la 789, direction ouest.
+{20520}{20595}On ne les perd pas de vue|et on a le contact téléphonique.
+{20597}{20682}On a aussi tout fait|pour écarter la télé locale.
+{20685}{20740}- Où vont-ils?|- Crump ne veut rien dire.
+{20740}{20810}Quel que soit son but, il ne l'atteindra pas.
+{20810}{20872}- Un barrage?|- A l'est de Tuscarora.
+{20875}{20985}- L'endroit idéal: dégagé et isolé.|- Bien. Envoyez l'équipe médicale.
+{20985}{21120}Les policiers devront porter|des combinaisons anticontamination.
+{21120}{21210}Il faudra décontaminer la voiture|ainsi que Mulder et Crump,
+{21210}{21312}- puis les isoler séparément.|- Ce sera fait.
+{21515}{21645}Crump dit que si on ne rappelle pas|nos voitures, il tuera votre collègue.
+{21692}{21750}Mais lâchez-moi, bon sang!
+{21777}{21825}Et que ça saute!
+{22152}{22227}Et si vous me laissiez partir aussi?
+{22230}{22325}- Je vous gêne plus qu'autre chose.|- Taisez-vous.
+{22535}{22615}C'est votre faute. Les statistiques.
+{22617}{22675}- Quelles statistiques?|- La ferme.
+{22865}{22982}- C'était pas très malin!|- La ferme!
+{23002}{23080}Taisez-vous et roulez. Pigé?
+{23285}{23337}Mais que faites-vous?
+{23340}{23420}Je compose un sonnet.|Je ralentis au feu rouge.
+{23422}{23447}Démarrez!
+{24252}{24310}C'est ce qui est arrivé à votre femme?
+{24312}{24390}La même chose?|Si vous vous arrêtez, vous mourez?
+{24415}{24467}Je crois que j'ai vu ce film.
+{24470}{24535}Pourquoi n'avez-vous rien dit à la police?
+{24535}{24590}Pourquoi n'avez-vous rien dit à la police?
+{24592}{24690}Après ce que je viens de faire,|votre vie est entre mes mains,
+{24690}{24760}- que vous ayez une arme ou pas.|- Elle est bien là.
+{24762}{24827}Racontez-moi tout. Je pourrais vous aider.
+{24830}{24920}- Tout ça est votre faute!|- Taisez-vous!
+{24945}{25012}Je parie que d'ici 3 km,|on tombera sur un barrage.
+{25015}{25115}- Mais les flics nous ont lâchés.|- Regardez par la lunette.
+{25340}{25402}S'ils nous arrêtent...
+{25470}{25587}Attention. Le véhicule|se dirige vers l'ouest sur la 80.
+{25590}{25660}Unité 14, à vous.
+{25662}{25725}Attention, le véhicule se dirige vers vous.
+{25727}{25855}Il tourne à l'est de votre position|et se dirige vers le nord.
+{25855}{25922}- Vous allez le rater.|- Répétez?
+{25992}{26087}- Du nouveau, capitaine?|- On les a perdus.
+{26090}{26162}Ils ont pris un chemin forestier.
+{26165}{26220}L'hélico les a perdus de vue.
+{26222}{26282}Comment Crump a-t-il su pour le barrage?
+{26285}{26315}Bonne question.
+{26317}{26422}J'espérais que votre collègue|le mènerait droit dessus, mais...
+{26452}{26512}A moins que Mulder l'ait évité sciemment.
+{26515}{26625}- Pourquoi?|- II en sait peut-être plus que nous.
+{26762}{26840}J'ai reçu les analyses de la deuxième victime.
+{26887}{26950}Alors?
+{26952}{27045}Pour l'instant, aucune trace|d'infection sur les deux cadavres.
+{27142}{27205}Alors tout danger est écarté?
+{27235}{27335}Je ne dirais pas ça.|Leur mort reste inexpliquée.
+{27445}{27552}Agent Scully? Je vous passe|le directeur adjoint Kersh.
+{27615}{27692}- Oui.|- Ca se passe bien dans l'ldaho?
+{27770}{27817}Réfléchissez bien.
+{27820}{27885}Je ne suis pas dans l'ldaho.
+{27887}{27925}En effet.
+{27927}{28015}Durant notre mission dans l'ldaho,
+{28017}{28090}nous avons eu vent|d'une affaire dans le Nevada
+{28092}{28165}qui nous a semblé être de notre ressort.
+{28165}{28240}J'ai hâte de lire votre rapport.
+{28242}{28320}En attendant, des agents|de notre bureau de Las Vegas
+{28322}{28407}seront à votre disposition|pour aider à retrouver Mulder.
+{28410}{28460}Merci.
+{28510}{28587}Je souhaite qu'il s'en sorte|au moins autant que vous.
+{29037}{29095}Je peux voir ça un instant?
+{29157}{29250}Cet homme était chargé|de relever des compteurs?
+{29250}{29327}Il a peut-être relevé celui de Vicky Crump.
+{29667}{29755}Que pouvez-vous me dire d'autre|sur ce qui vous arrive?
+{29755}{29805}Monsieur Crump.
+{29807}{29905}Si vous m'appelez par mon nom|de famille, dites monsieur.
+{29905}{30012}- D'accord.|- Pas Crump. Monsieur Crump.
+{30015}{30090}Un autre nom me vient|à l'esprit pour vous.
+{30090}{30175}Et je pourrais le précéder|de "monsieur" aussi.
+{30230}{30362}Et Mulder, c'est quoi ça,|comme nom? C'est un nom juif?
+{30365}{30397}Pardon?
+{30400}{30460}C'est bien d'origine juive.
+{30462}{30550}C'est monsieur Mulder, espèce de pinailleur!
+{30577}{30645}Monsieur Crump,|que pouvez-vous me dire sur...
+{30690}{30770}- Quoi?|- Vous prenez la mauvaise direction.
+{30770}{30840}- Comment ça?|- Allez par là!
+{30840}{30920}Je ne peux pas. Il n'y a que des arbres.
+{31600}{31685}A l'ouest. Il faut aller vers l'ouest.
+{31685}{31702}Comme avec votre femme.|Vous l'avez emmenée vers l'ouest.
+{31702}{31760}Comme avec votre femme.|Vous l'avez emmenée vers l'ouest.
+{31762}{31877}Rouler ne suffit pas, il faut|prendre la bonne direction. C'est ça?
+{31987}{32055}Qu'est-ce qui a bien pu vous arriver?
+{32235}{32322}DOMICILE DES CRUMP|MONTELLO, NEVADA
+{32625}{32752}Inspectez tout, avec une priorité|sur les agents pathogènes habituels.
+{32755}{32805}Entendu.
+{33370}{33460}Je crois qu'on a affaire au même syndrome.
+{33572}{33692}- II nous faut un échantillon de sang.|- Allons-y.
+{33845}{33907}Attrapez-le.
+{34010}{34042}Plaquez-le au sol.
+{34042}{34065}Plaquez-le au sol.
+{34140}{34190}Immobilisez-le.
+{34230}{34285}Je vais lui administrer un sédatif.
+{34757}{34850}- Vous vous êtes levé et ensuite?|- Je vous l'ai déjà dit.
+{34852}{34940}Vous n'êtes pas allé|travailler ce matin. Pourquoi?
+{34975}{35102}Il pleuvait. Les toits glissent.|Je lisais mon journal à 6 heures.
+{35105}{35175}Que faisait votre femme?
+{35280}{35420}Elle préparait le petit-déjeuner.|Elle mettait la table quand...
+{35455}{35490}- Vous l'avez regardée.|- Oui
+{35490}{35507}- Vous l'avez regardée.|- Oui
+{35510}{35605}et j'ai vu qu'elle saignait|du nez sans le savoir.
+{35607}{35700}- Quelle en était la cause?|- Je ne suis pas toubib!
+{35702}{35770}Comment pourrais-je le savoir?
+{35770}{35830}Elle saignait, c'est tout.
+{35832}{35937}Un quart d'heure après,|elle a commencé à se sentir mal.
+{35975}{36095}Elle avait un mal de tête|qui la faisait de plus en plus souffrir.
+{36280}{36350}Elle a commencé à hurler.
+{36400}{36462}Je ne savais pas quoi faire.
+{36465}{36577}Je l'ai mise dans le camion|pour l'emmener à l'hôpital.
+{36607}{36710}En roulant, j'ai vu qu'en prenant|de la vitesse, elle allait mieux.
+{36712}{36790}Mais dès que je ralentissais|ou que je m'arrêtais...
+{36902}{36982}Je suis navré pour votre femme.
+{37050}{37155}Je vous crois, vous et tous les Juifs du FBI.
+{37185}{37232}Vous croyez que je ne sais pas?
+{37235}{37350}Vous me prenez pour un simplet?|Mais je sais tout, moi!
+{37355}{37405}J'ai tout compris!
+{37405}{37495}Je ne suis pas malade. Je n'ai pas la grippe.
+{37577}{37677}Vicky et moi étions|des cobayes du gouvernement.
+{37705}{37787}- Le gouvernement serait responsable?|- Qui d'autre?
+{37790}{37865}On en parle sans arrêt à la télé.
+{37865}{37917}Ils larguent l'agent orange.
+{37920}{38005}Ils irradient les testicules|des enfants retardés.
+{38005}{38077}Vous venez farfouiller|dans les bois près de chez moi.
+{38080}{38155}Je vous ai vus. Vous croyez me leurrer?
+{38385}{38475}Au nom de la conjuration juive mondiale,|je dois vous informer
+{38477}{38550}qu'on a bientôt plus d'essence.
+{38830}{38955}Rien à signaler dans la caravane.|Aucun agent pathogène apparent.
+{39147}{39252}Des chiens, des femmes au foyer.|Cette chose n'épargne personne.
+{39255}{39360}Des agents pathogènes zoonotiques|se transmettent à d'autres espèces.
+{39422}{39477}Regardez.
+{39537}{39597}Les Crump ont des voisins.
+{41295}{41347}N'ayez pas peur, madame.
+{41350}{41405}- Qui êtes-vous?|- Tout va bien. Désolée.
+{41407}{41475}Allez-vous-en!
+{41680}{41760}Ne vous inquiétez pas.
+{41870}{41950}Encore un kilomètre.
+{41990}{42067}Je vais faire au plus vite. Prêt?
+{42070}{42112}C'est parti.
+{42895}{42950}Débloquez la pompe!
+{42975}{43040}La numéro quatre... la trois!
+{43115}{43185}La numéro trois! Débloquez-la!
+{43187}{43260}Il faut payer d'avance, mon pote.
+{43857}{43977}C'est ma voiture!|Mais bon sang, où allez-vous?
+{43980}{44030}Merde, arrêtez!
+{44302}{44380}C'est pour votre bien. Attention à la marche.
+{44382}{44457}On veut juste vous examiner.
+{44585}{44687}Une femme muette est indemne|alors que tous les autres meurent.
+{44690}{44740}Pourquoi?
+{45055}{45105}Que faites-vous?
+{45162}{45307}L'agent pathogène de cette chose|affecte l'oreille interne.
+{45310}{45380}Et c'est d'ici même qu'il se propage.
+{45452}{45550}Et si ce qu'on cherchait|était une sorte de son?
+{45552}{45620}Vous êtes sérieuse?
+{45987}{46080}Ici, Van Gelder. J'ignore|ce que votre collègue a en tête.
+{46080}{46185}D'abord, il nous évite délibérément|et ensuite, il vole une voiture.
+{46185}{46240}- Pardon?|- Vous avez bien entendu.
+{46242}{46332}Il vous a laissé un mot totalement farfelu.
+{46335}{46370}- Vous êtes là?|- Oui. Lisez-le-moi.
+{46370}{46407}- Vous êtes là?|- Oui. Lisez-le-moi.
+{46435}{46500}"Crump est malade. Mourra si arrêté."
+{46502}{46597}"Comme sa femme. Doit aller à l'ouest|pour rester en vie. Pas de barrages."
+{46600}{46660}Point d'exclamation.
+{46662}{46815}- Vous y comprenez quelque chose?|- Ne cherchez pas. Laissez-le passer.
+{46817}{46895}Le laisser passer? Ne le prenez pas mal,
+{46897}{47040}mais qu'en diraient vos supérieurs?|Ca m'étonnerait qu'ils approuvent.
+{47062}{47137}Je le prendrai en considération.
+{47140}{47200}Agent Scully, vous enfreignez...
+{47325}{47395}PROPRIETE|DU GOUVERNEMENT AMERICAIN
+{47740}{47790}Plus vite.
+{47832}{47937}- Je suis à 110.|- Accélérez encore. Ca empire.
+{48062}{48155}Là, c'est mieux.
+{48285}{48352}A propos des Juifs...
+{48377}{48427}Ne le prenez pas mal.
+{48505}{48577}On ne choisit pas ses origines.
+{48625}{48685}Dois-je le prendre comme des excuses?
+{48727}{48832}Je ne verrai plus la route|si je ne retiens pas mes larmes.
+{48865}{48917}Laissez tomber.
+{49077}{49145}Pourquoi vous faites ça?
+{49147}{49205}- Pourquoi je fais quoi?|- Ca.
+{49237}{49305}Vous avez pas trop intérêt à ce que j'y pense.
+{49307}{49437}Vous pourriez être en train|de suivre leurs ordres.
+{49450}{49580}Pour continuer l'expérience.|Je ne peux pas savoir.
+{49580}{49645}En effet.
+{49715}{49857}Je ne vous accuse pas.|Mais on ne traite pas un homme ainsi.
+{49880}{49947}En lui enlevant sa dignité.
+{50012}{50062}C'est moche.
+{50120}{50185}Autant le tuer.
+{50232}{50290}C'est mon avis.
+{50462}{50565}Restez en vie pour confondre|le gouvernement. Sinon, il s'en tirera.
+{50567}{50617}J'ai pas raison?
+{50705}{50777}Si. Vous avez raison.
+{50800}{50857}On va trouver une solution.
+{50860}{50962}Faudra faire vite. L'ouest a des limites.
+{51115}{51215}BIENVENUE EN CALIFORNIE|LA BAIE DU PACIFIQUE
+{51290}{51380}POINT D'HORIZON - BASE DE RECHERCHES|NAVALES - WENDOVER, NEVADA
+{51395}{51445}PROJET MARIN
+{51535}{51612}Lieutenant Breil? Je suis Dana Scully.
+{51615}{51710}J'ai appelé pour les installations|électriques de la marine à Montello.
+{51712}{51847}Les informations doivent mal circuler|entre vous et votre bureau à Washington.
+{51850}{51892}Mon bureau à Washington?
+{51895}{51992}Je croyais avoir tout expliqué|au Conseil Fédéral des Communications.
+{51995}{52125}Je suis désolée de vous solliciter à nouveau
+{52127}{52217}pour mon rapport officiel pour le CFC.
+{52220}{52345}6 h 17 hier matin, durant un test|de notre système de radio par le sol,
+{52347}{52455}nos circuits ont subi une brève surtension.
+{52457}{52552}C'est ce qui a brouillé|la réception télé dans toute la région.
+{52555}{52630}On a pris des mesures|pour que ça ne se reproduise pas.
+{52630}{52715}La conduction radio par le sol,|c'est le projet Marin?
+{52717}{52775}Nos tests sont classées secret-défense.
+{52777}{52827}Bien sûr.
+{52852}{52970}Vous connaissez les conséquences|d'une telle surtension sur un organisme?
+{52972}{53025}Disons un être humain?
+{53082}{53170}- Sur le plan théorique.|- Le plan théorique
+{53170}{53232}est également classé secret-défense.
+{53357}{53445}- Crump.|- Monsieur Crump.
+{53520}{53575}Qu'y a-t-il, monsieur Mulder?
+{54145}{54200}Mulder, tu vas bien?
+{54202}{54300}Oui, à part la privation de portable|et une envie pressante. Où es-tu?
+{54300}{54432}Je vais prendre un jet du département|de la justice. J'arriverai avant toi.
+{54435}{54495}- Où ça?|- A toi de me le dire.
+{54497}{54547}Disons là où s'arrête la route 36,
+{54550}{54642}mais on ne peut pas s'arrêter|et je suis à court d'idées.
+{54645}{54715}Moi, j'ai une vague idée|de ce qui a pu se passer.
+{54717}{54790}Je t'écoute.
+{54792}{54842}Tu connais les ondes FUB?
+{54845}{54910}Les transmissions radio|à fréquences ultra basses?
+{54912}{54962}Oui, ces antennes de 80 km de long.
+{54965}{55067}L'armée s'en sert pour communiquer|avec ses sous-marins. Le projet Marin.
+{55070}{55187}Le projet Marin a un réseau d'antennes|qui passe sous le terrain des Crump.
+{55190}{55307}On sait que les ondes FUB|affectent les tissus humains
+{55310}{55392}créant des courants électriques|altérant les réactions chimiques.
+{55395}{55500}En tant qu'arme potentielle, elles sont|répertoriées comme gaz neuroplégique
+{55502}{55552}et expliqueraient le ronflement de Taos.
+{55555}{55625}Admettons qu'un son émis par ce système
+{55625}{55707}corresponde à la fréquence|de résonance du crâne humain.
+{55710}{55775}Elle pourrait engendrer un bruit
+{55777}{55925}élevant la pression dans l'oreille|interne jusqu'à la faire exploser.
+{55927}{56027}En se déplaçant, cette pression|diminuerait et deviendrait supportable?
+{56030}{56132}- Mais pourquoi vers l'ouest?|- Je l'ignore, Mulder.
+{56135}{56235}C'est peut-être le tracé de lignes|de tension, électriques ou magnétiques.
+{56235}{56307}Mais qu'est-ce qu'on fait maintenant?
+{56310}{56405}Je crois savoir,|mais ça ne plaira pas à M. Crump.
+{56612}{56665}On y sera.
+{56687}{56717}Quoi?
+{56720}{56850}Que ce soit intentionnel ou pas,|vous aviez raison. On vous a exposé.
+{56890}{56942}Alors qu'est-ce qu'on fait?
+{56977}{57060}Votre seule chance est|de rejoindre ma collègue.
+{57062}{57145}Elle introduira une aiguille|dans votre oreille interne
+{57147}{57202}pour tenter de réduire la pression.
+{57205}{57310}Une fois sur place, elle devra|agir vite. Un seul essai est permis.
+{57310}{57442}Elle ne pourra pas vous anesthésier.|Et vous resterez probablement sourd.
+{57512}{57572}Mais je survivrai, c'est ça?
+{57650}{57752}C'est le but. D'accord, c'est parti.
+{57880}{57987}M. Mulder, pourriez-vous|aller un peu plus vite?
+{57990}{58060}Juste un peu, ça m'arrangerait.
+{58227}{58290}Juste un peu plus vite.
+{58445}{58532}LOLETA, CALIFORNIE
+{59367}{59432}Tenez-vous prêts!
+{61435}{61535}Jet du département de justice:|2,6 heures turbines de vol aller-retour
+{61537}{61602}à 1400 dollars de l'heure.
+{61655}{61780}Voiture louée. Excédent de kilométrage|et usage hors de l'Etat: 346 dollars.
+{61782}{61837}Dédommagement de M. Walter R. Duncan
+{61840}{61980}pour utilisation non autorisée|de son break Caprice 1968: 500 dollars.
+{61980}{62065}- Adressez-moi la facture.|- Je l'imputerai à votre collègue.
+{62067}{62147}Vous aimez tous deux|endosser le rôle de martyr.
+{62192}{62250}Ce sera tout?
+{62325}{62420}On reprend notre boulot de con:|contrôler des tas de fumier?
+{62422}{62480}Vous pouvez toujours démissionner.
+{62835}{62892}L'agent Mulder a été très éprouvé.
+{62895}{62970}Vous l'excusez souvent.|C'est devenu une habitude.
+{62972}{63040}Je ne m'excuse pas pour ça.
+{63042}{63160}Grâce à lui, la Défense va fermer|son réseau d'antennes dans le Nevada.
+{63162}{63265}- On a sauvé des vies.|- Votre rapport ne le prouve pas.
+{63265}{63342}Le département de la Défense|récuse toute accusation.
+{63487}{63525}Je vois.
+{63605}{63617}Ne vous méprenez pas.
+{63617}{63680}Ne vous méprenez pas.
+{63682}{63777}Je me fiche que vous sauviez|un bus plein d'adorables bambins
+{63780}{63840}en route pour leur camp de scout.
+{63860}{63942}Vous n'êtes plus chargés|des affaires non classées.
+{63950}{64075}Et plus tôt vous l'accepterez,|mieux ça vaudra pour vous deux.
+{64240}{64315}Des gros tas de fumiers.
+{64762}{64800}Sous-titrage Visiontext: Virginie Roux
+{65292}{65342}FRENCH

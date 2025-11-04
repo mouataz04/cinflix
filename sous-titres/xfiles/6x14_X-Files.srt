@@ -1,0 +1,368 @@
+{65}{125}BANQUE CRADOCK MARINE
+{260}{300}POLICE
+{1192}{1277}- C'est vous le chef, ici?|- Kraskow. Le FBI prend le relais?
+{1280}{1327}Je ne suis pas là pour ça.
+{1330}{1402}- On en est où?|- L'alarme a été déclenchée il y a 30 mn.
+{1405}{1467}Un braqueur, muni d'une arme de poing.
+{1470}{1585}Pas du tout pro, il s'attarde.|Un coup de feu il y a 20 mn.
+{1587}{1670}Les stores sont baissés,|mais on pense qu'il y a une victime.
+{1672}{1775}- Vous ne prenez pas le relais?|- Deux de mes agents sont peut-être dedans.
+{1777}{1865}- Skinner.|- Arrêtez.
+{1867}{1957}- On se conna îti?|- Ne laissez pas ça arriver.
+{3127}{3180}C'est vous qui avez le contrôle.
+{3250}{3312}Ce n'est pas la seule solution.
+{3390}{3445}Si.
+{4165}{4232}LE GOUVERNEMENT NOUS MENT
+{4590}{4630}LA VERITE EST AILLEURS
+{5645}{5675}Satané...
+{5675}{5710}Satané...
+{6415}{6465}Super.
+{6560}{6622}LUN
+{7282}{7332}Allô?
+{7352}{7410}Ca fuit chez vous?
+{7455}{7575}C'est mon matelas à eau. Il est percé.
+{7575}{7645}Oui, je sais que c'est interdit.
+{7647}{7730}Je ne sais pas quoi vous dire.|C'était un cadeau.
+{7800}{7850}D'accord.
+{8270}{8342}SIEGE DU FBI|WASHINGTON
+{8355}{8410}TRESOR PUBLIC
+{8815}{8872}- J'ai raté la réunion.|- Raté, non.
+{8875}{8957}Mais tu as un retard stupéfiant.|C'est pas encore fini.
+{8960}{9035}- Tu voulais quoi?|- Je venais te chercher.
+{9037}{9112}- Tu fais quoi?|- Je m'éclate comme un fou.
+{9115}{9217}Ca me donne envie de chanter. "Y a d'la joie."
+{9220}{9300}Mon matelas à eau a fui,|mon réveil n'a pas aimé.
+{9302}{9360}Mon portable non plus, il est cassé.
+{9360}{9485}Je dois payer pour les dégâts,|mais je dois d'abord encaisser ma paie.
+{9515}{9610}- T'as déjà eu une journée pareille?|- Depuis que je bosse ici? Oui.
+{9612}{9685}Depuis quand tu as un matelas à eau?
+{9795}{9907}J'en ai pour 10 mn à la banque.|Trouve-moi une excuse, d'accord?
+{9910}{9955}J'ai l'habitude.
+{9965}{10030}E STREET|8TH ST
+{10275}{10350}- Connard.|- T'as un problème?
+{10440}{10492}C'est bon?
+{10545}{10625}- Pam?|- Va donc faire ta petite course.
+{10637}{10710}Oui, je vais juste chercher un truc.|Pas grand-chose.
+{10710}{10725}Oui, je vais juste chercher un truc.|Pas grand-chose.
+{10740}{10820}C'est ça, Bernard. Pas grand-chose.
+{10875}{10940}J'en ai pour 10 mn. Attends-moi ici.
+{11012}{11102}- Faites un peu gaffe.|- Toi, fais gaffe.
+{11282}{11332}Pile à l'heure.
+{11382}{11430}Pauvre homme.
+{11702}{11757}Vous aviez jamais fait ça avant.
+{11945}{12055}- On vous accorde le crédit.|- Merci.
+{12402}{12475}CECI EST
+{12475}{12590}UN BRAQUAGE
+{12692}{12825}...ces tendances devraient|donc se renforcer l'année prochaine.
+{12865}{12932}Le ministère de la Justice...
+{12967}{13095}prévoit, lui, une baisse plus sensible,|de 2 à 3 °/o, du taux global d'homicides,
+{13097}{13262}contre les 1 à 1,5 °/o|estimés par l'étude Tanner.
+{13265}{13327}Cela étant, il faut noter
+{13330}{13425}que la méthodologie statistique|retenue dans cette étude
+{13430}{13505}n'a pas la préférence du ministère.
+{13507}{13565}Dans les deux cas, d'autres variables
+{13567}{13700}rendent très difficiles|les prévisions pour l'année à venir.
+{13720}{13827}Le futur insondable.|Ce qui nous amène à l'agent Mulder.
+{13830}{13915}Nous fera-t-il l'honneur|de nous communiquer son rapport?
+{14152}{14212}Suivant, je vous prie.
+{14315}{14377}J'ai trois opérations à faire.
+{14505}{14620}METTEZ L'ARGENT DANS LE SAC|PAS D'ALARME
+{14990}{15060}Tout le monde à terre!|C'est dans votre intérêt.
+{15060}{15130}- Oh, mon Dieu!|- Vous. A terre.
+{15130}{15197}- Mon Dieu! Ne nous tuez pas.|- La ferme.
+{15210}{15262}C'est vous le patron.
+{15390}{15415}Ca va aller.
+{15417}{15505}Bien. C'est moi le patron.|Ni alarme, ni liasse piégée.
+{15507}{15610}Faites comme on vous a appris.|Plus vite ça ira, mieux vous vous porterez.
+{15612}{15670}Tous les autres, à terre.
+{15695}{15745}Laissez le dernier. Pas de blague.
+{15882}{15945}Allez, plus vite.
+{16045}{16097}"Y a d'la joie."
+{16375}{16472}Prenez vos clés, on va ouvrir le distributeur.
+{16635}{16737}Fermez les portes.|Vous avez oublié la porte d'entrée.
+{16750}{16790}A terre.
+{16985}{17070}- Lâchez votre arme!|- Lâchez-la, vous.
+{17560}{17640}Remboursement des frais de voyage...|Qui les a?
+{17642}{17717}Je n'ai que les 2ème et 3ème trimestres.
+{17720}{17747}M. le Directeur?
+{17827}{17867}E STREET|8TH ST
+{18060}{18090}Allez, allez.
+{18520}{18570}Monsieur...
+{18777}{18882}- Qui est le chef, ici?|- Moi. Sauf si le FBI prend le relais.
+{18905}{18942}Arrêtez.
+{18945}{18997}Ne les laissez pas tirer.
+{19035}{19090}On se conna îti?
+{19645}{19720}Ils sont pas censés appeler?
+{19722}{19770}Ils n'appelleront pas.
+{19865}{19915}Quel est votre nom?
+{19982}{20045}Je vais vous en trouver un, d'accord?
+{20070}{20190}Steve? C'est un prénom honnête.
+{20485}{20540}Mon équipier doit sortir d'ici.
+{20552}{20665}Je raye cet endroit de la carte s'ils entrent ici.
+{20667}{20790}Ils ne le savent pas.|Vous comprenez? lls ne vous voient pas.
+{20820}{20865}Ils ne connaissent pas votre plan.
+{20867}{20937}Ils feraient mieux de le deviner.
+{20940}{21085}Allez à la porte et montrez-leur.
+{21085}{21205}- Vous voulez me faire tuer.|- Oh, mon Dieu!
+{21372}{21465}Je veux juste que tout le monde reste en vie.
+{21497}{21547}Juste...
+{21595}{21630}Montrez-leur.
+{21700}{21800}Vous êtes ma îti re de la situation.
+{21832}{21867}Je vous assure.
+{21925}{21975}Ce n'est pas la seule solution.
+{22090}{22142}Si.
+{23147}{23197}Satané...
+{23895}{23950}Satanée merde.
+{24030}{24067}LUN
+{24072}{24112}Génial.
+{24515}{24535}Ca fuit chez vous?
+{24535}{24562}Ca fuit chez vous?
+{24605}{24695}C'est mon matelas à eau. Il est percé.
+{24695}{24755}Je sais que c'est interdit.
+{24755}{24837}Je ne sais pas quoi vous dire. Je m'excuse.
+{24840}{24887}Enfin, je...
+{25915}{25990}- T'appelais qui?|- Personne.
+{26025}{26077}C'était forcément quelqu'un.
+{26080}{26145}Tu connais pas. Laisse tomber.
+{26167}{26225}J'ai un truc à faire. Viens avec moi.
+{26227}{26282}Non.
+{26335}{26390}C'était pas une question.
+{26525}{26577}Arrête de te la jouer bizarre.
+{26642}{26697}Ca prendra que deux minutes.
+{26730}{26800}Va au travail. Il est encore temps.
+{26802}{26852}J'y vais pas aujourd'hui.
+{26875}{26950}- Et dis pas qu'ils vont me virer.|- J'allais pas dire ça.
+{26955}{27017}Qu'est-ce qu'on s'en fout?
+{27020}{27142}Y a pas d'avenir dans le balayage!|On n'a rien à perdre!
+{27160}{27265}- On a tout à perdre.|- J'ai un plan.
+{27300}{27420}- Demain, à la même heure...|- Tout ira bien.
+{28230}{28272}Bon sang.
+{28275}{28320}J'ai raté la réunion.
+{28320}{28412}Pas encore, car c'est la plus longue|de l'histoire du FBI.
+{28415}{28490}- Tu voulais quoi, alors?|- Je venais te chercher.
+{28492}{28562}On a pris une pause de 5 mn|il y a trois minutes.
+{28565}{28647}Ton portable ne marche pas. Panne|d'oreiller?
+{28650}{28750}Ca t'est déjà arrivé de vouloir|rembobiner une journée?
+{28752}{28800}Souvent.
+{28802}{28940}Mais qui dit qu'en changeant le début,|la fin serait différente?
+{28942}{29005}Ce serait le destin?|On n'a aucun libre arbitre?
+{29007}{29117}On est libres d'être ce qu'on est.|Gentils, méchants ou neutres.
+{29120}{29222}- Notre caractère dicte notre destin.|- Et le reste est prédestiné?
+{29225}{29285}A d'autres. Il y a trop de variables.
+{29285}{29375}Je comptais être à l'heure aujourd'hui,|mais mon matelas s'est percé
+{29375}{29467}et a inondé mon appart|et celui d'en dessous. D'où mon retard.
+{29470}{29537}Je dois faire un chèque pour les réparations,
+{29540}{29632}mais ce sera un chèque en bois|si je n'encaisse pas ma paie.
+{29635}{29710}Et comme je dois aller à la banque,|le retard s'aggrave.
+{29715}{29765}Depuis quand tu as un matelas à eau?
+{29785}{29875}J'aurais pu ne pas l'avoir,|et j'aurais été à l'heure.
+{29877}{29962}Tu aurais pu rester médecin|et ne pas venir au FBl,
+{29965}{30052}et on se serait jamais rencontrés. Blablabla.
+{30055}{30127}- Destin.|- Libre arbitre: tout choix modifie le destin.
+{30130}{30225}Modifions le nôtre.|Je vais déposer ton chèque.
+{30227}{30305}Toi, va donner ton rapport à Skinner
+{30307}{30380}avant qu'on se fasse gronder tous les deux.
+{30810}{30880}CECI EST UN BRAQUAGE
+{31290}{31360}Faut signer le talon.
+{31790}{31875}- N'allez pas à la banque aujourd'hui.|- Pardon?
+{31877}{31952}Bernard y est. N'y allez pas.
+{31982}{32060}- On se conna îti?|- Vous passez toujours devant moi.
+{32060}{32155}Chaque jour. Ce jour précis.|En allant à la banque.
+{32157}{32295}Vous y entrez et tout le monde meurt.|Vous, votre équipière, Bernard. Tous.
+{32297}{32387}- Je passe devant vous et on meurt.|- Encore et encore.
+{32415}{32492}Mais la dernière fois,|c'est comme si vous m'aviez reconnue.
+{32495}{32555}Comme si vous vous souveniez.
+{32577}{32630}Souvenez-vous de moi.
+{32745}{32790}N'y allez pas.
+{33167}{33227}Lâchez votre arme.
+{33230}{33290}- Lâchez-la.|- Je lâcherai rien.
+{33292}{33355}Mais vous, oui.
+{33432}{33530}- Je vais la tuer.|- Et après?
+{33777}{33827}C'est bien votre nom?
+{34150}{34240}Elle vit. Vous n'êtes pas encore un meurtrier.
+{34242}{34307}Tout ça peut bien finir.
+{34310}{34385}Monsieur, s'il vous pla îti ...
+{34390}{34437}Ecoutez-les.
+{34455}{34562}Ne tirez plus. La police va arriver.
+{34787}{34850}Vous avez déclenché l'alarme.
+{36575}{36685}Oui, je sais.
+{36685}{36742}Je paierai.
+{37307}{37400}LUN
+{37545}{37622}Votre correspondant n'est pas...
+{37750}{37810}Agent Scully.
+{37822}{37905}- N'allez pas à la banque aujourd'hui.|- A la banque?
+{37907}{37990}Cradock Marine, l'agence de la 8ème,|tout près d'ici.
+{38015}{38082}Je ne vous suis pas.|Vous avez perdu votre groupe?
+{38085}{38210}Je suis venue vous voir.|Je vous en supplie, n'y allez pas.
+{38212}{38280}Et ne laissez pas Mulder y aller.
+{38282}{38352}- Je regrette...|- Mademoiselle.
+{38355}{38425}Vous n'êtes pas autorisée|à être dans ce secteur.
+{38470}{38545}Si vous y allez, vous mourrez. Tous les deux.
+{39232}{39280}J'ai raté la réunion?
+{39282}{39400}On a pris une pause de 5 mn|il y a trois minutes.
+{39430}{39507}Ton portable ne marche pas.
+{39590}{39645}- C'est vraiment bizarre.|- Quoi?
+{39647}{39735}Cette impression de déjà-vu. Depuis ce|matin.
+{39737}{39802}- Ca arrive souvent.|- Jamais à ce point.
+{39805}{39890}J'ai ouvert les yeux, j'étais trempé.
+{39907}{39980}Je te passe les détails,|mais j'avais la nette impression
+{39980}{40037}d'avoir déjà vécu ça.
+{40040}{40165}C'est possible. Tu buvais beaucoup à la fac?
+{40167}{40240}- C'est dû à quoi?|- II te faut une explication à tout?
+{40242}{40347}Selon certains freudiens,|il s'agit de souvenirs refoulés
+{40350}{40427}qui échappent à l'inconscient|et représentent le désir
+{40430}{40487}de rectifier le cours des choses.
+{40490}{40565}- Lesquelles?|- Celles qui vont de travers.
+{40565}{40652}Je crois qu'il s'agit plutôt de neurochimie.
+{40662}{40750}D'une panne de la partie du cerveau|qui traite les souvenirs.
+{40752}{40842}- lls ne sont pas forcément tous authentiques.|- Mais s'ils le sont?
+{40845}{40925}Si on revit vraiment un moment précis?
+{40927}{41002}On peut alors rectifier les choses,|changer le destin.
+{41027}{41097}Pour l'instant, tu es destiné|à aller à cette réunion.
+{41100}{41175}Non, à aller à la banque.
+{41220}{41280}Quelle banque?
+{41282}{41350}- Cradock, en bas de la rue.|- La 8ème.
+{41440}{41487}Quoi?
+{41507}{41682}Une femme m'a parlé dans le couloir|il y a 10 mn. Elle savait nos noms.
+{41685}{41807}Elle m'a mise en garde:|on ne doit pas aller à cette banque.
+{41842}{41907}Sous peine de mourir tous les deux.
+{41932}{41990}Elle ressemblait à quoi?
+{41992}{42090}1 m 70, mince, yeux verts, cheveux teints.
+{42090}{42155}Peut-être que tu la connais,
+{42155}{42230}peut-être que c'est une blague.
+{42262}{42347}Je vais au guichet automatique,|histoire de pas tenter le sort.
+{42547}{42627}Passons aux prévisions fédérales. Qui les a?
+{42630}{42690}Les voilà.
+{42712}{42787}Accordez-moi une petite seconde.
+{42895}{42980}Les prévisions fédérales sur le crime...
+{43220}{43277}MOMENTANEMENT HORS-SERVICE
+{43895}{43985}- Vous vous souvenez de moi?|- Bonne description.
+{43985}{44105}C'est vous qui avez averti|mon équipière, c'est ça?
+{44140}{44250}- On s'est déjà vus?|- Des centaines de fois.
+{44252}{44320}Ici, sur ce trottoir.
+{44322}{44362}Vous ne faites que passer.
+{44365}{44495}Quelques minutes plus tôt ou plus tard.|Seuls quelques détails changent.
+{44495}{44602}- Mais ça finit toujours pareil.|- Quoi donc?
+{44630}{44685}On a toujours cette conversation.
+{44710}{44830}On entre dans la banque et on meurt tous.|C'est bien ça?
+{44855}{44967}Que va-t-il se passer? Un braquage?
+{44970}{45065}A chaque fois que je vous le dis,|vous vous précipitez dans la banque
+{45067}{45132}et ça dégénère.
+{45205}{45287}Vous ne voyez pas? On est en enfer.
+{45352}{45415}Et je suis la seule à le savoir.
+{45437}{45522}Quelque chose a vraiment cloché|la première fois.
+{45525}{45632}Ca n'a pas fini comme ça devait.
+{45697}{45760}La machine est déglinguée.
+{45805}{45877}Cette journée se répète tout le temps?
+{45882}{45942}Tant qu'on l'aura pas rectifiée.
+{45982}{46067}Tant que mon copain|fera sauter cette banque.
+{46070}{46120}J'ai tout fait pour l'en empêcher.
+{46122}{46260}J'ai caché ses clés. Drogué son café.|J'ai même appelé la police.
+{46302}{46370}Il y va toujours.
+{46375}{46435}C'est son destin.
+{46475}{46560}C'est vous. Et votre équipière, à chaque fois.
+{46617}{46680}Sans vous, personne ne mourrait.
+{46710}{46802}Pourquoi êtes-vous la seule|à vous en souvenir?
+{46812}{46900}- Vous me l'avez demandé 100 fois.|- Et la réponse est?
+{46900}{46950}J'en sais rien.
+{46982}{47032}Je le sais, c'est tout.
+{47075}{47120}Et c'est une calamité.
+{47130}{47195}Vous pouvez tout arrêter.
+{47225}{47337}Vous êtes forcément la variable.|J'ai essayé tous les autres.
+{47355}{47425}Je vous demande juste de partir.
+{47540}{47635}...ces tendances devraient|donc se renforcer l'année prochaine.
+{47635}{47750}Le ministère de la Justice prévoit, lui,|une baisse plus sensible, de 2 à 3 °/o,
+{47752}{47825}du taux global d'homicides,
+{47827}{47957}contre les 1 à 1,5 °/o|estimés par l'étude Tanner.
+{47967}{48110}- Cela étant, il faut noter que...|- Pardonnez-moi, agentArnold.
+{48110}{48210}- Où est Scully?|- Partie vous chercher.
+{48235}{48285}Excusez-moi.
+{48825}{48920}Tout le monde à terre!|C'est dans votre intérêt. L'argent.
+{48922}{49017}Oh, mon Dieu!
+{49020}{49075}Vous. A terre.
+{49097}{49185}Mon Dieu! Vous allez nous tuer? II va...
+{49187}{49265}- La ferme.|- II va nous tuer. Pitié.
+{49265}{49357}- Ne faites pas ça. Pitié.|- La ferme. Donnez-moi le fric.
+{49365}{49460}- Ne nous tuez pas.|- La ferme, bon sang!
+{49585}{49685}Je veux voir vos mains. Allez.
+{49735}{49782}Lâchez votre arme.
+{50195}{50322}Il a une bombe.
+{50815}{50887}LUN
+{51365}{51432}Je sais. J'ai raté la réunion.
+{51435}{51505}Raté, non. Mais tu as un retard stupéfiant.
+{51507}{51570}Je vais à la banque. Trouve-moi une excuse.
+{51780}{51830}C'est bon?
+{51897}{51995}Je sais. Tu vas juste chercher un truc.|Pas grand-chose.
+{52022}{52110}Pourquoi tu fais toujours la gueule?
+{52157}{52210}C'est toujours la même chose.
+{52242}{52305}Ca va changer. Tu vas voir.
+{52380}{52450}J'en ai pour 10 mn. Attends-moi ici.
+{52545}{52622}- Faites un peu gaffe.|- Toi, fais gaffe.
+{53170}{53235}- On se conna îti?|- Vous croyez?
+{53237}{53320}- Votre visage m'est familier.|- Vraiment?
+{53470}{53522}Excusez-moi.
+{53645}{53705}Suivant, je vous prie.
+{54385}{54505}Il a une bombe.
+{54670}{54807}...une baisse plus sensible, de 2 à 3 °/o,|du taux global d'homicides,
+{54810}{54945}contre les 1 à 1,5 °/o|estimés par l'étude Tanner.
+{54947}{55050}Cela étant, il faut noter|que la méthodologie statistique
+{55052}{55165}retenue dans cette étude|n'a pas la préférence du ministère.
+{55195}{55325}D'autres variables rendent les prévisions|très difficiles pour l'année à venir.
+{55350}{55412}Excusez-moi. Agent Scully?
+{55532}{55582}Excusez-moi.
+{55627}{55700}L'agent Mulder, c'est urgent.
+{55742}{55805}- Tu es où?|- A la banque.
+{55807}{55875}Oui, mais pourquoi c'est si long?
+{55877}{55972}Il faut que tu me rendes un service.
+{56280}{56335}- Pouvez-vous me suivre?|- Pourquoi?
+{56337}{56402}- Venez avec moi, je vous prie.|- Mais, pourquoi?
+{56405}{56467}Mon équipier dit que vous le savez.
+{56600}{56710}CECI EST UN BRAQUAGE. METTEZ|L'ARGENT DANS LE SAC. PAS D'ALARME.
+{56760}{56820}Prenez-le.
+{56822}{56910}Je suis agent fédéral. Je ne veux pas de mort.
+{56940}{57055}- Quoi?|- Votre amie est dans la voiture.
+{57057}{57117}Et vous avez une bombe.
+{57150}{57227}Une chose horrible va arriver aujourd'hui.
+{57240}{57322}Et je ne compte pas la laisser arriver.
+{57355}{57460}Si vous sortez maintenant,|je ne vous en empêcherai pas.
+{57477}{57557}- C'est vous qui décidez.|- Ouais, c'est vrai.
+{57560}{57612}Vous ma îti risez votre destin.
+{57960}{58015}A terre! C'est dans votre intérêt.
+{58040}{58087}- Oh, mon Dieu!|- A terre!
+{58100}{58155}Si vous ne me croyez pas, demandez-lui.
+{58205}{58255}- Lâchez ça.|- Ecarte-toi d'elle.
+{58255}{58310}Ca ne marchera pas.
+{58312}{58365}- Lâchez ça.|- Non, vous.
+{58367}{58415}- Ecoutez-moi.|- Laissez-la.
+{58417}{58465}Vous la condamnez
+{58467}{58562}à revivre cette journée à l'infini.|Elle, vous, moi, nous tous.
+{58565}{58607}C'est quoi, ces salades?
+{58610}{58752}Chaque jour, vous mourez.|Chaque jour, ça recommence.
+{58785}{58925}- Vous la condamnez à l'enfer.|- L'enfer? Je fais ça pour elle.
+{58952}{59012}Ecoute-le.
+{59047}{59105}Lâchez votre putain d'arme.
+{59125}{59200}Lâche ton arme. C'est la seule solution.
+{59202}{59275}Lâche ton arme et laisse-les sortir.
+{59290}{59342}Il a une bombe.
+{59987}{60060}Allons-nous-en.
+{60490}{60535}Espèce d'enfoiré!
+{61505}{61575}Agent Dana Scully, du FBI...
+{61735}{61800}Ca n'était encore jamais arrivé.
+{62595}{62630}C'est moi.
+{62657}{62702}MAR
+{62715}{62780}- Je suis en retard?|- Pas encore.
+{62782}{62850}Skinner veut nous voir au plus vite.
+{62855}{62945}Il veut notre rapport sur le braquage d'hier.
+{62945}{62992}Je suis là dans une heure.
+{62995}{63080}- J'aimerais l'avoir aussi.|- Tu étais là.
+{63082}{63125}C'est pas ce que je veux dire.
+{63127}{63190}Tu ne m'as pas expliqué.
+{63192}{63282}Comment tu savais que Bernard Oates|était bourré d'explosifs?
+{63285}{63325}Simple intuition.
+{63327}{63450}Intuition aussi, sa complice dans la voiture?
+{63452}{63517}Elle n'était pas complice.
+{63542}{63617}Elle voulait juste s'échapper.
+{63647}{63732}- Tu vas bien?|- Je suis là dans une heure.
+{63912}{64007}UNE FEMME TUEE LORS D'UN BRAQUAGE
+{64635}{64680}Sous-titrage Visiontext: Chloé Leleu
+{65212}{65262}FRENCH

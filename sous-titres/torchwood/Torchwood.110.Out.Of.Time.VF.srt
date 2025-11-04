@@ -1,0 +1,2820 @@
+1
+00:00:01,391 --> 00:00:02,800
+<i>Torchwood.</i>
+
+2
+00:00:03,016 --> 00:00:05,704
+<i>Indépendant du Gouvernement,
+externe à la police.</i>
+
+3
+00:00:06,070 --> 00:00:08,204
+<i>Pistant toute vie
+extraterrestre sur terre,</i>
+
+4
+00:00:08,279 --> 00:00:11,042
+<i>armant la race humaine contre le futur.</i>
+
+5
+00:00:11,145 --> 00:00:13,791
+<i>Le 21ème siècle est un
+tournant de l'Histoire</i>
+
+6
+00:00:14,458 --> 00:00:15,971
+<i>et vous devez être prêts.</i>
+
+7
+00:01:23,733 --> 00:01:25,119
+Salut vous.
+
+8
+00:01:29,654 --> 00:01:33,137
+Mes excuses pour l'atterrissage
+involontaire, juste des fichues turbulences.
+
+9
+00:01:33,543 --> 00:01:34,389
+Capitaine Jack Harkness.
+
+10
+00:01:34,408 --> 00:01:36,234
+Dianes Holmes, pilote.
+
+11
+00:01:36,959 --> 00:01:38,512
+C'est une sorte de base secrète ?
+
+12
+00:01:38,513 --> 00:01:40,507
+Vous devriez me faire
+visiter un jour, Capitaine.
+
+13
+00:01:41,015 --> 00:01:43,674
+- Tout va bien ?
+- Combien de temps avant qu'on reparte ?
+
+14
+00:01:43,749 --> 00:01:46,761
+- Mon Oncle m'attend.
+- Quand êtes-vous partis ?
+
+15
+00:01:47,062 --> 00:01:49,119
+- Il y a environ 1 heure et demie.
+- Quelle date ?
+
+16
+00:01:50,479 --> 00:01:53,199
+- Aujourd'hui, le 18 décembre.
+- Quelle année ?
+
+17
+00:01:54,543 --> 00:01:57,216
+Quelle année ? Quelle année ?
+Je dois savoir.
+
+18
+00:01:59,183 --> 00:02:00,520
+1953.
+
+19
+00:02:01,391 --> 00:02:04,391
+Torchwood - Saison 1
+Episode 10 - Out Of Time
+
+20
+00:02:04,426 --> 00:02:06,356
+Traduction par Kowaio
+
+21
+00:02:06,391 --> 00:02:08,760
+Resynchro par LauCass
+Relecture par Cybelia
+
+22
+00:02:08,795 --> 00:02:11,129
+~ Harkness Team ~
+~ www.seriessub.com ~
+
+23
+00:02:16,979 --> 00:02:18,739
+Il n'y a pas de quoi avoir peur.
+
+24
+00:02:19,096 --> 00:02:20,640
+Qui êtes-vous exactement ?
+
+25
+00:02:21,901 --> 00:02:24,279
+Le moins vous saurez sur
+nous, le mieux ce sera.
+
+26
+00:02:26,000 --> 00:02:28,191
+- Je vous présente l'équipe.
+- Toshiko.
+
+27
+00:02:28,266 --> 00:02:30,563
+- Gwen.
+- Docteur Owen Harper.
+
+28
+00:02:31,175 --> 00:02:32,360
+John Ellis.
+
+29
+00:02:32,633 --> 00:02:34,224
+Emma Louise Cowell.
+
+30
+00:02:34,930 --> 00:02:36,136
+Diane Holmes.
+
+31
+00:02:36,230 --> 00:02:38,131
+S'il vous plaît, suivez-moi.
+
+32
+00:02:48,013 --> 00:02:49,961
+Au moins ce n'était pas un
+vaisseau spatial rempli d'aliens.
+
+33
+00:02:49,971 --> 00:02:51,307
+Ca aurait peut-être été plus facile.
+
+34
+00:02:51,430 --> 00:02:54,008
+Mais comment peut-on voyager
+50 ans en 1 heure et demie ?
+
+35
+00:02:54,055 --> 00:02:56,295
+Votre avion est tombé dans
+une faille spatio-temporelle.
+
+36
+00:02:56,455 --> 00:02:57,391
+Une quoi ?
+
+37
+00:02:57,532 --> 00:02:59,274
+Une porte entre le temps et l'espace.
+
+38
+00:02:59,452 --> 00:03:02,380
+C'est une sorte de farce,
+ce doit être ça.
+
+39
+00:03:02,897 --> 00:03:03,759
+Tosh ?
+
+40
+00:03:05,862 --> 00:03:09,326
+Célébrations du Millénaire
+dans vos villes respectives,
+
+41
+00:03:09,354 --> 00:03:12,860
+photographies montrant le
+développement de la Baie de Cardiff
+
+42
+00:03:12,878 --> 00:03:17,376
+des années 50 à nos jours,
+modèles des avions de nos jours.
+
+43
+00:03:17,404 --> 00:03:19,183
+Mais si tout ça est vrai...
+
+44
+00:03:20,218 --> 00:03:21,574
+alors comment rentrons-nous
+chez nous ?
+
+45
+00:03:21,847 --> 00:03:22,930
+Vous ne pouvez pas.
+
+46
+00:03:23,388 --> 00:03:27,698
+D'après l'Histoire, votre avion
+n'est jamais revenu. Je suis désolé.
+
+47
+00:03:28,800 --> 00:03:30,559
+Qu'est-ce qu'il va advenir de nous ?
+
+48
+00:03:32,440 --> 00:03:33,763
+Ca n'a pas d'importance pour nous.
+
+49
+00:03:35,039 --> 00:03:36,615
+Mais que s'est-t-il
+passé pour les autres ?
+
+50
+00:03:38,000 --> 00:03:39,335
+Nos familles.
+
+51
+00:03:42,036 --> 00:03:45,867
+Votre père est mort en
+1959. Il avait 48 ans.
+
+52
+00:03:46,610 --> 00:03:48,135
+Papa disait qu'il mourrait jeune.
+
+53
+00:03:48,530 --> 00:03:50,441
+Comme tous les hommes
+dans les usines d'armement.
+
+54
+00:03:50,610 --> 00:03:52,709
+Votre mère a vécu jusqu'à
+l'âge de 81 ans cependant.
+
+55
+00:03:54,530 --> 00:03:57,231
+Je sais que c'est dur à digérer.
+Mais y a-t-il quelqu'un d'autre ?
+
+56
+00:03:57,287 --> 00:03:59,339
+Mon fils, Alan Ellis.
+
+57
+00:03:59,405 --> 00:04:05,878
+Il est né le 6 avril 1937, au
+14 Park Place, à Grangetown.
+
+58
+00:04:05,879 --> 00:04:07,817
+Il est peut-être encore en vie.
+
+59
+00:04:08,081 --> 00:04:10,998
+Les archives des années 50 n'étaient
+pas si bien documentées que ça.
+
+60
+00:04:11,403 --> 00:04:12,747
+Nous réessaierons demain.
+
+61
+00:04:12,870 --> 00:04:14,639
+Pour le moment, vous devez vous reposer.
+
+62
+00:04:15,797 --> 00:04:16,973
+Des amis ?
+
+63
+00:04:17,246 --> 00:04:18,884
+Petit-ami ?
+
+64
+00:04:19,533 --> 00:04:22,640
+Pas vraiment. Je suis jamais
+restée à un endroit assez longtemps.
+
+65
+00:04:41,462 --> 00:04:43,466
+C'est un peu classique.
+
+66
+00:04:44,389 --> 00:04:46,320
+Pas quand vous avez
+dormi dans des casernes.
+
+67
+00:04:55,316 --> 00:04:58,317
+J'allais conclure une affaire
+dans un magasin à Dublin demain.
+
+68
+00:04:58,637 --> 00:04:59,983
+Qu'est-ce que vous marchandiez ?
+
+69
+00:05:00,011 --> 00:05:00,961
+De la nourriture,
+
+70
+00:05:01,470 --> 00:05:03,920
+des bibelots, produits de base.
+
+71
+00:05:08,563 --> 00:05:11,048
+- Qu'est-ce que vous cherchez ?
+- Un peu de musique.
+
+72
+00:05:20,399 --> 00:05:23,759
+Il y a des photographies
+de ma famille là-dedans.
+
+73
+00:05:23,863 --> 00:05:25,407
+Je verrai ce que je peux faire.
+
+74
+00:05:25,538 --> 00:05:27,256
+Ne vous inquiétez pas, Capitaine Harkness,
+
+75
+00:05:28,194 --> 00:05:29,747
+Je veillerai sur les dames.
+
+76
+00:05:30,471 --> 00:05:31,958
+Appelez-moi Jack.
+
+77
+00:05:35,027 --> 00:05:36,485
+Qui d'autre est ici ?
+
+78
+00:05:36,674 --> 00:05:39,367
+Quelques jeunes filles.
+Belle robe.
+
+79
+00:05:39,593 --> 00:05:42,078
+Merci. Je l'ai faite moi même.
+
+80
+00:05:42,680 --> 00:05:44,920
+- Vous êtes d'où ?
+- Bristol.
+
+81
+00:05:45,222 --> 00:05:46,266
+Qu'alliez-vous faire à Dublin ?
+
+82
+00:05:46,417 --> 00:05:49,908
+Tante Nora est malade et Oncle Finn
+ne peut pas s'occuper des enfants.
+
+83
+00:05:49,984 --> 00:05:53,381
+Ma mère dit que c'est un bon entraînement
+pour quand j'aurais mes propres enfants.
+
+84
+00:06:02,512 --> 00:06:05,720
+Elle est à côté donc Oncle
+Finn peut téléphoner...
+
+85
+00:06:07,190 --> 00:06:09,039
+Elle doit avoir appris ma
+disparition, maintenant.
+
+86
+00:06:12,119 --> 00:06:15,207
+Emma, elle l'a découvert en 1953.
+
+87
+00:06:15,960 --> 00:06:18,719
+Plus de 50 ans ont
+passé, tu te souviens ?
+
+88
+00:06:26,840 --> 00:06:28,639
+Qu'est-ce qu'elle a pensé
+qu'il s'était passé ?
+
+89
+00:06:30,928 --> 00:06:34,824
+Ca a du être comme un de ces meurtres
+où ils ne retrouvent jamais le corps.
+
+90
+00:06:35,973 --> 00:06:38,640
+Ils ont cru que l'avion
+s'était crashé dans la mer.
+
+91
+00:06:50,279 --> 00:06:52,683
+Voilà vos identités pour les autorités.
+
+92
+00:06:52,814 --> 00:06:55,487
+Nous vous avons créé un compte
+en banque mais nous vous donnerons
+
+93
+00:06:55,516 --> 00:06:58,527
+un peu d'argent pour vous
+familiariser avec notre monnaie.
+
+94
+00:06:58,631 --> 00:06:59,826
+David Ward.
+
+95
+00:07:00,334 --> 00:07:01,577
+Sally-Anne Hope.
+
+96
+00:07:01,699 --> 00:07:05,598
+Deborah Morrison, et ça
+s'écrit comme pour Deborah Kerr.
+
+97
+00:07:05,733 --> 00:07:08,415
+Vos biographies devront
+incorporer vos talents.
+
+98
+00:07:08,462 --> 00:07:10,476
+Par exemple John, vous pourriez
+diriger un magasin du coin.
+
+99
+00:07:10,514 --> 00:07:11,107
+Non.
+
+100
+00:07:11,747 --> 00:07:13,845
+- On peut falsifier vos identités.
+- Vous ne pouvez pas prendre nos noms.
+
+101
+00:07:13,864 --> 00:07:16,170
+Pour l'Amour de Dieu, c'est
+tout ce qu'il nous reste.
+
+102
+00:07:16,753 --> 00:07:18,325
+C'est le nom de mon fils,
+
+103
+00:07:18,800 --> 00:07:20,565
+c'est le nom sur mon magasin.
+
+104
+00:07:29,591 --> 00:07:30,664
+Vous avez raison.
+
+105
+00:07:31,239 --> 00:07:33,680
+Je n'y ai pas pensé. Vous
+devriez garder votre nom.
+
+106
+00:07:35,930 --> 00:07:39,535
+Je vous suggère d'utiliser 35 € pour votre
+nourriture et 30 € pour vos plaisirs,
+
+107
+00:07:39,554 --> 00:07:41,718
+comme des cigarettes, magazines.
+
+108
+00:07:42,076 --> 00:07:43,798
+Mon père gagnait seulement
+15 € par semaine !
+
+109
+00:07:43,808 --> 00:07:45,879
+Les choses sont beaucoup
+plus chères aujourd'hui.
+
+110
+00:07:50,840 --> 00:07:53,272
+- Comment ils ont fait ça ?
+- C'est automatique.
+
+111
+00:07:53,309 --> 00:07:55,052
+- Ca sait que vous êtes là.
+- Mais comment ?
+
+112
+00:07:55,070 --> 00:07:58,866
+Il y a des détecteurs d'ondes rebondissantes
+qui émettent des ondes radio
+
+113
+00:07:58,901 --> 00:07:59,656
+et regardent alors les réflexions...
+
+114
+00:07:59,657 --> 00:08:01,066
+Des bananes !
+
+115
+00:08:01,282 --> 00:08:03,974
+Bien sûr, les bananes sont
+de loin plus intéressantes.
+
+116
+00:08:05,367 --> 00:08:06,897
+Regardez tout ça !
+
+117
+00:08:07,264 --> 00:08:09,100
+Nous venions juste de nous
+détacher du rationnement en 53.
+
+118
+00:08:09,118 --> 00:08:11,622
+Oui, désolé, nous sommes
+une société de consommation.
+
+119
+00:08:11,782 --> 00:08:13,391
+C'est foutrement fantastique.
+
+120
+00:08:27,062 --> 00:08:28,681
+Combien d'argent ai-je
+encore pour la nourriture ?
+
+121
+00:08:28,682 --> 00:08:30,051
+23 €.
+
+122
+00:08:39,799 --> 00:08:41,841
+17€. Vous allez détruire vos dents.
+
+123
+00:08:41,991 --> 00:08:43,880
+On dirait ma mère.
+
+124
+00:08:47,542 --> 00:08:50,714
+Ils vendent des films dans des boîtes
+et vous pouvez les regarder chez vous.
+
+125
+00:08:50,798 --> 00:08:53,245
+J'adore aller au cinéma.
+
+126
+00:08:55,363 --> 00:08:56,662
+Bon Dieu.
+
+127
+00:08:56,860 --> 00:09:00,495
+Bienvenue dans le monde merveilleux
+des célébrités légèrement vêtues.
+
+128
+00:09:00,608 --> 00:09:04,052
+"Super Mascara Pulpeux Waterproof".
+
+129
+00:09:04,109 --> 00:09:07,111
+- Il me le faut.
+- Il y a des enfants autour.
+
+130
+00:09:07,187 --> 00:09:09,613
+C'est une présentatrice
+de télévision pour enfants.
+
+131
+00:09:12,183 --> 00:09:14,818
+- Alors vous aimez les comédies musicales ?
+- Ma meilleure amie, Kate, et moi
+
+132
+00:09:14,819 --> 00:09:18,000
+avons vu Calamity Jane 5 fois.
+J'ai le vinyle.
+
+133
+00:09:25,160 --> 00:09:26,623
+Vous allez bien ?
+
+134
+00:09:27,338 --> 00:09:29,189
+Qu'est-ce que ça veut dire ?
+
+135
+00:09:33,396 --> 00:09:35,381
+Je vais juste jeter un
+coup d'oeil au stade.
+
+136
+00:09:36,031 --> 00:09:37,913
+Restez ensemble, les filles.
+
+137
+00:09:38,054 --> 00:09:39,560
+Je serai là pour le dîner.
+
+138
+00:09:59,240 --> 00:10:04,040
+Excusez-moi. Connaissez vous
+Alan Ellis ? Il vivait ici.
+
+139
+00:10:04,125 --> 00:10:06,359
+Non, désolé, camarade.
+
+140
+00:10:17,713 --> 00:10:19,916
+Je vais aller vérifier
+l'avion cet après-midi.
+
+141
+00:10:20,170 --> 00:10:21,299
+Vous voulez venir ?
+
+142
+00:10:22,080 --> 00:10:24,441
+Je vais regarder ça.
+
+143
+00:10:25,137 --> 00:10:27,359
+Et peut être faire
+quelques chaînes de papier.
+
+144
+00:10:29,750 --> 00:10:32,188
+Je me demande quel travail
+je peux avoir dans l'aviation.
+
+145
+00:10:35,002 --> 00:10:37,063
+Je vais devoir me trouver un mari.
+
+146
+00:10:47,622 --> 00:10:48,631
+Ca va ?
+
+147
+00:10:48,994 --> 00:10:51,454
+Je suis Alesha, voici Jade.
+
+148
+00:10:52,574 --> 00:10:54,852
+- Je m'appelle Emma.
+- Diane.
+
+149
+00:10:55,624 --> 00:10:57,798
+Excusez-moi, je dois me préparer.
+
+150
+00:11:06,001 --> 00:11:09,069
+Où tu as eu ces chaussures ?
+Elles sont luxes.
+
+151
+00:11:09,164 --> 00:11:10,599
+Merci.
+
+152
+00:11:14,415 --> 00:11:16,081
+Coucou, vieille branche,
+
+153
+00:11:16,721 --> 00:11:18,237
+je t'ai manqué ?
+
+154
+00:11:19,328 --> 00:11:21,477
+Je me suis documenté sur vous.
+
+155
+00:11:21,854 --> 00:11:26,917
+Angleterre/Australie en quatre
+jours, 1952, c'est impressionnant.
+
+156
+00:11:27,143 --> 00:11:29,543
+Un vent terrible en
+traversant la Baie du Bengale.
+
+157
+00:11:29,750 --> 00:11:31,247
+C'est quelque chose que vous dévorez ?
+
+158
+00:11:35,509 --> 00:11:37,438
+Alors, comment vous êtes-vous embarquée là dedans ?
+
+159
+00:11:38,219 --> 00:11:40,279
+Avions de transport pendant la guerre.
+
+160
+00:11:40,676 --> 00:11:41,790
+Bien sûr, quand c'était fini,
+
+161
+00:11:41,825 --> 00:11:44,730
+on était supposées redevenir
+des femmes et filles dévouées.
+
+162
+00:11:45,119 --> 00:11:48,238
+Mais j'y ai pris goût. Aucune
+tête de cochon me dira quoi faire.
+
+163
+00:11:48,285 --> 00:11:48,907
+Ah.
+
+164
+00:11:50,439 --> 00:11:52,417
+"Gitane de l'air" ?
+
+165
+00:11:53,434 --> 00:11:54,825
+D'après le moteur.
+
+166
+00:11:56,481 --> 00:12:00,293
+" La Gitane 6 de Havilland ",
+le travail d'un génie.
+
+167
+00:12:00,538 --> 00:12:04,959
+Un rapport de compression plus
+élevé pour extraire plus d'énergie du fuel.
+
+168
+00:12:07,863 --> 00:12:08,825
+Je peux aller faire un tour ?
+
+169
+00:12:08,891 --> 00:12:12,167
+Non, vous pourriez vous faire
+arrêter. Vous n'avez pas de licence.
+
+170
+00:12:12,194 --> 00:12:13,051
+Mais je...
+
+171
+00:12:14,423 --> 00:12:17,720
+Fais chier, elle n'est plus valide.
+
+172
+00:12:19,084 --> 00:12:21,740
+Je suppose que je suis juste
+une autre tête de cochon
+
+173
+00:12:22,079 --> 00:12:23,811
+te disant quoi faire.
+
+174
+00:12:25,665 --> 00:12:27,736
+Et bien, tu devrais te rattraper.
+
+175
+00:12:28,639 --> 00:12:31,413
+Je veux apprendre tout à
+propos de ce nouveau monde.
+
+176
+00:12:32,269 --> 00:12:35,742
+Blackpool perdait 3 à 1, et
+Stanley Matthews a usé de sa magie.
+
+177
+00:12:35,957 --> 00:12:38,641
+Résultat, 2 buts dans
+les 20 dernières minutes.
+
+178
+00:12:38,848 --> 00:12:41,122
+Bolton a perdu 4 à 3.
+
+179
+00:12:41,432 --> 00:12:44,397
+Mon garçon était sur les
+genoux, brassant l'air...
+
+180
+00:12:44,849 --> 00:12:47,597
+La final de la coupe de FA se
+jouait dans mon propre salon.
+
+181
+00:12:47,955 --> 00:12:50,214
+J'ai fait payer un shilling à
+chaque type pour venir regarder.
+
+182
+00:12:50,233 --> 00:12:52,322
+Toujours l'homme d'affaire, hein, John ?
+
+183
+00:12:57,310 --> 00:12:59,091
+C'est un accent
+Américain, n'est-ce pas ?
+
+184
+00:12:59,402 --> 00:13:00,296
+C'est exact.
+
+185
+00:13:01,934 --> 00:13:03,703
+Alors, comment avez-vous atterri ici,
+
+186
+00:13:04,258 --> 00:13:05,924
+pour faire tout ce que vous faites ?
+
+187
+00:13:06,555 --> 00:13:07,750
+C'est une longue histoire.
+
+188
+00:13:09,722 --> 00:13:11,159
+Je bois lentement.
+
+189
+00:13:13,920 --> 00:13:16,037
+Vous connaissez tout de
+moi. Quel est le problème ?
+
+190
+00:13:16,122 --> 00:13:18,761
+Ca reste compliqué.
+
+191
+00:13:21,754 --> 00:13:23,637
+Quoi, vous êtes tombé à
+travers le temps aussi ?
+
+192
+00:13:28,445 --> 00:13:29,179
+Oui,
+
+193
+00:13:30,327 --> 00:13:31,428
+on pourrait dire ça.
+
+194
+00:13:44,431 --> 00:13:46,800
+Désolé, camarade, vous
+ne pouvez pas fumer ici.
+
+195
+00:13:51,942 --> 00:13:53,429
+Qu'est-ce que vous faites
+pour le réveillon de Noël ?
+
+196
+00:13:53,730 --> 00:13:55,377
+On pourrait aller chanter aux portes.
+
+197
+00:13:58,540 --> 00:14:02,048
+- Je vais plutôt me mettre une mine.
+- Où sont vos familles ?
+
+198
+00:14:02,217 --> 00:14:04,570
+- Aucune idée.
+- On a grandi en foyer.
+
+199
+00:14:05,163 --> 00:14:06,876
+Comme une maison d'enfants ?
+
+200
+00:14:08,401 --> 00:14:10,020
+Je n'ai personne d'autre non plus.
+
+201
+00:14:11,165 --> 00:14:12,661
+Qu'est-ce qui t'es arrivée ?
+
+202
+00:14:13,395 --> 00:14:17,744
+Mes parents sont mort, alors je
+suis venue ici pour un nouveau départ.
+
+203
+00:14:18,421 --> 00:14:20,679
+Donc, ils t'ont pas laissé
+de maison ou autre chose ?
+
+204
+00:14:22,239 --> 00:14:23,105
+Non.
+
+205
+00:14:26,088 --> 00:14:27,359
+Je n'ai rien.
+
+206
+00:14:28,300 --> 00:14:29,759
+Tu étais proche d'eux ?
+
+207
+00:14:31,802 --> 00:14:32,998
+Oui.
+
+208
+00:14:35,120 --> 00:14:37,073
+Je les aimais très fort.
+
+209
+00:14:56,400 --> 00:15:00,030
+Ca a dû être un Noël affreux pour
+eux, pensant que je me suis noyé.
+
+210
+00:15:00,548 --> 00:15:03,877
+Je veux juste savoir quel
+genre de vie mon fils a eu.
+
+211
+00:15:04,724 --> 00:15:06,522
+Il a peut-être eu des enfants.
+
+212
+00:15:07,319 --> 00:15:10,390
+Je pourrais croiser ma propre chair
+et mon propre sang dans la rue.
+
+213
+00:15:10,964 --> 00:15:12,094
+Trouvez-le, Jack,
+
+214
+00:15:12,879 --> 00:15:14,193
+il est tout ce qu'il me reste.
+
+215
+00:15:21,261 --> 00:15:22,160
+Merci.
+
+216
+00:15:27,802 --> 00:15:30,997
+- Quoi ?
+- J'attends que tu tires ma chaise.
+
+217
+00:15:32,070 --> 00:15:33,406
+Soyons clairs.
+
+218
+00:15:33,736 --> 00:15:36,559
+Vous espérez avoir
+l'égalité ET la galanterie ?
+
+219
+00:15:36,653 --> 00:15:38,705
+Je ne vois pas pourquoi l'un
+n'irait pas sans l'autre.
+
+220
+00:15:39,307 --> 00:15:41,726
+Bien, si ça te fait plaisir.
+
+221
+00:15:48,364 --> 00:15:49,759
+Votre chaise, Madame.
+
+222
+00:15:51,922 --> 00:15:52,703
+Merci.
+
+223
+00:16:05,787 --> 00:16:08,338
+Alors, quels autres grands pas
+ont fait les femmes ?
+
+224
+00:16:08,611 --> 00:16:12,474
+Et bien, dans l'étrange mais
+vrai, que dis-tu de cela :
+
+225
+00:16:12,662 --> 00:16:14,827
+Vous n'êtes plus obligées de faire
+l'amour pour avoir des enfants.
+
+226
+00:16:14,884 --> 00:16:15,900
+Quoi ?
+
+227
+00:16:16,682 --> 00:16:17,745
+Comment ?
+
+228
+00:16:17,811 --> 00:16:22,161
+Tu te fais inséminer, avec une sorte
+de seringue, un petit processus mignon.
+
+229
+00:16:22,556 --> 00:16:26,312
+Sérieusement, les hommes
+donnent leur sperme anonymement.
+
+230
+00:16:26,396 --> 00:16:28,787
+Un petit mélange dans un
+pot à la banque du sperme.
+
+231
+00:16:29,003 --> 00:16:31,402
+Et ils disent que la romance est morte.
+
+232
+00:16:31,878 --> 00:16:34,071
+Oh, voyons, je ne suis pas née d'hier.
+
+233
+00:16:34,100 --> 00:16:37,472
+Non, mais pour un oiseau
+qui va vers ses 90 ans
+
+234
+00:16:37,919 --> 00:16:39,503
+tu es plutôt canon.
+
+235
+00:16:40,859 --> 00:16:41,997
+Quelle était ta chanson préférée ?
+
+236
+00:16:42,045 --> 00:16:44,727
+- Et bien, c'est dur à dire.
+- La mienne c'était :
+
+237
+00:16:44,962 --> 00:16:49,753
+<i># I just blew in from the windy city
+The windy city is mighty pretty</i>
+
+238
+00:16:49,757 --> 00:16:55,631
+<i># But they ain't got what we got
+I'm tellin' ya, boys! #</i>
+
+239
+00:16:56,290 --> 00:16:58,357
+A quoi crois-tu jouer ?
+
+240
+00:16:59,270 --> 00:17:01,538
+Je pensais pouvoir te
+faire confiance pour ta tenue.
+
+241
+00:17:03,194 --> 00:17:04,719
+Où tu veux aller, maintenant ?
+
+242
+00:17:05,034 --> 00:17:05,880
+Et bien,
+
+243
+00:17:06,831 --> 00:17:08,102
+je suis toute à toi.
+
+244
+00:17:09,333 --> 00:17:11,598
+Nous pourrions
+retourner chez moi.
+
+245
+00:17:11,880 --> 00:17:14,487
+Tu pourrais en apprendre
+plus sur toi sur Internet.
+
+246
+00:17:15,080 --> 00:17:17,254
+Ca paraît calculé.
+
+247
+00:17:17,348 --> 00:17:19,287
+Ca ne l'est pas, je ne te drague pas.
+
+248
+00:17:19,288 --> 00:17:21,774
+Pas parce que je ne te trouve
+pas attirante, car tu l'es,
+
+249
+00:17:21,777 --> 00:17:24,572
+mais parce que je ne veux pas que
+tu penses que je prend avantage de toi.
+
+250
+00:17:24,647 --> 00:17:25,853
+Tu as du Scotch ?
+
+251
+00:17:25,937 --> 00:17:27,904
+Je ne vois pas pourquoi elle
+vous implique là-dedans.
+
+252
+00:17:27,952 --> 00:17:29,829
+Elle m'a appelée, elle était contrariée.
+
+253
+00:17:29,919 --> 00:17:32,301
+- Elle buvait.
+- J'ai pris seulement la moitié d'un verre.
+
+254
+00:17:32,329 --> 00:17:34,823
+Suffisamment pour te donner en spectacle.
+
+255
+00:17:34,936 --> 00:17:37,241
+Nous ne sommes pas supposés
+attirer l'attention sur nous.
+
+256
+00:17:37,364 --> 00:17:38,997
+Nous ne sommes pas pareils qu'eux.
+
+257
+00:17:39,858 --> 00:17:41,764
+Nous ne pouvons faire
+confiance à personne.
+
+258
+00:17:42,032 --> 00:17:43,180
+Ca va aller maintenant, Emma ?
+
+259
+00:17:43,227 --> 00:17:46,853
+Ne vous inquiétez pas, je ne la laisserai
+pas sortir de ma vue à nouveau.
+
+260
+00:17:48,068 --> 00:17:48,963
+Je n'aime pas le foie.
+
+261
+00:17:48,973 --> 00:17:51,936
+Assis, jeune fille, et sois
+reconnaissante pour ce que tu reçois.
+
+262
+00:17:52,049 --> 00:17:53,561
+- Et pourquoi devrais-je t'écouter ?
+- Emma ?
+
+263
+00:17:53,580 --> 00:17:56,724
+Seul mon père a le droit
+de me parler de la sorte...
+
+264
+00:17:57,439 --> 00:17:59,586
+et je ne vais jamais le
+revoir, n'est-ce pas ?
+
+265
+00:18:00,414 --> 00:18:01,685
+Ou ma mère,
+
+266
+00:18:02,221 --> 00:18:03,934
+ou ma meilleure amie,
+
+267
+00:18:05,026 --> 00:18:09,214
+ou mon chien, et ils me manquent...
+
+268
+00:18:09,600 --> 00:18:12,959
+et je déteste cet endroit sale et puant !
+
+269
+00:18:20,160 --> 00:18:23,240
+Je n'ai jamais eu ce genre
+de problème avec mon fils.
+
+270
+00:18:32,689 --> 00:18:35,070
+Les femmes sont allées dans
+l'espace aussi, tu sais.
+
+271
+00:18:35,352 --> 00:18:37,263
+Tu as encore beaucoup à apprendre.
+
+272
+00:18:37,564 --> 00:18:39,521
+- As-tu une petite-amie ?
+- Non.
+
+273
+00:18:39,889 --> 00:18:43,822
+Alors à qui appartiennent tous
+ces produits de beauté ?
+
+274
+00:18:43,933 --> 00:18:46,154
+A moi, en fait.
+
+275
+00:18:46,512 --> 00:18:47,519
+Non ?
+
+276
+00:18:49,824 --> 00:18:50,454
+Hé,
+
+277
+00:18:51,424 --> 00:18:53,664
+les vrais hommes peuvent
+s'hydrater aussi, tu sais.
+
+278
+00:18:59,039 --> 00:19:00,839
+Ce n'est pas vraiment
+chaleureux chez toi.
+
+279
+00:19:02,999 --> 00:19:07,616
+Non, je ne suis pas souvent là, ça
+ne vaut pas la peine de l'améliorer.
+
+280
+00:19:17,198 --> 00:19:18,773
+Tu fumes trop.
+
+281
+00:19:19,150 --> 00:19:20,354
+J'en doute pas.
+
+282
+00:19:22,811 --> 00:19:24,185
+Amelia Earhart...
+
+283
+00:19:24,440 --> 00:19:26,494
+elle a disparu en 1932.
+
+284
+00:19:27,454 --> 00:19:28,800
+Penses-tu qu'elle est ici, quelque part ?
+
+285
+00:19:29,374 --> 00:19:30,551
+Non, j'en doute.
+
+286
+00:19:31,304 --> 00:19:34,959
+Une chance sur un million de finir ici.
+
+287
+00:19:36,393 --> 00:19:38,000
+Un tout nouveau monde.
+
+288
+00:19:40,571 --> 00:19:42,228
+Oh, ce n'est pas si mal,
+
+289
+00:19:42,651 --> 00:19:44,120
+une fois que tu t'y habitues.
+
+290
+00:19:49,119 --> 00:19:52,319
+Je suis sûr que tu t'adapteras bien.
+
+291
+00:20:05,453 --> 00:20:07,637
+Je suis contente que tu
+n'aies pas de petite-amie.
+
+292
+00:20:10,601 --> 00:20:11,800
+Moi aussi.
+
+293
+00:20:12,851 --> 00:20:17,166
+<i># ...Come around
+and knock me down again</i>
+
+294
+00:20:18,668 --> 00:20:20,969
+<i># Worry</i>
+
+295
+00:20:21,373 --> 00:20:26,760
+<i># Oh, worry, worry, worry,
+worry... #</i>
+
+296
+00:20:34,920 --> 00:20:37,348
+Je suppose que ce
+n'était pas ta première fois ?
+
+297
+00:20:39,738 --> 00:20:41,310
+J'ai eu un amant.
+
+298
+00:20:41,451 --> 00:20:42,608
+Il était marié.
+
+299
+00:20:43,164 --> 00:20:44,717
+Et tu t'en fichais ?
+
+300
+00:20:45,300 --> 00:20:47,964
+Et bien, j'étais libre
+de faire ce que je voulais,
+
+301
+00:20:48,133 --> 00:20:50,584
+et je ne devais pas cuisiner
+ou nettoyer pour lui.
+
+302
+00:20:50,979 --> 00:20:55,074
+Il me convenait.
+Je ne suis pas trop mariage.
+
+303
+00:20:57,812 --> 00:20:59,836
+J'ai toujours pensé que
+les années 50 étaient
+
+304
+00:21:00,240 --> 00:21:03,160
+coincées, sexuellement refoulées et...
+
+305
+00:21:06,393 --> 00:21:08,482
+Tu ne l'as pas inventé, tu sais.
+
+306
+00:21:12,456 --> 00:21:13,887
+On peut le refaire ?
+
+307
+00:21:15,214 --> 00:21:16,760
+Pourquoi pas.
+
+308
+00:21:19,760 --> 00:21:21,250
+On pourrait avoir une aventure.
+
+309
+00:21:23,161 --> 00:21:25,203
+On pourrait être des copains de baise.
+
+310
+00:21:27,330 --> 00:21:28,799
+C'est quoi un copain de baise ?
+
+311
+00:21:29,480 --> 00:21:30,407
+C'est, hum,
+
+312
+00:21:31,640 --> 00:21:34,031
+c'est un ami avec lequel
+tu couches occasionnellement.
+
+313
+00:21:37,541 --> 00:21:40,059
+Il n'y a rien d'occasionnel
+dans ce que nous venons de faire.
+
+314
+00:21:40,211 --> 00:21:41,858
+Oh, non, non, ce n'est
+pas ce que je voulais dire.
+
+315
+00:21:42,037 --> 00:21:43,712
+Le sexe ne devrait pas être dévalué.
+
+316
+00:21:47,421 --> 00:21:51,600
+Les deux parties doivent
+être concentrées à 100%.
+
+317
+00:21:56,818 --> 00:21:59,000
+Parce que quand on jouit ensemble...
+
+318
+00:22:03,160 --> 00:22:05,799
+C'est la meilleure chose après voler.
+
+319
+00:22:37,000 --> 00:22:39,998
+Emma est la belle-fille de ma tante.
+
+320
+00:22:40,054 --> 00:22:43,292
+Elle devait passer Noël
+à Cardiff avec un ami
+
+321
+00:22:43,424 --> 00:22:46,021
+mais ils ont eu cette affreuse
+dispute la nuit dernière
+
+322
+00:22:46,097 --> 00:22:48,845
+Elle a eu mon numéro par maman.
+
+323
+00:22:50,334 --> 00:22:53,779
+Le fait est, qu'elle ne veut pas vraiment
+rentrer chez elle donc j'ai pensé...
+
+324
+00:22:53,807 --> 00:22:55,972
+que peut-être, elle pourrait
+rester avec nous.
+
+325
+00:22:56,040 --> 00:22:57,703
+On a beaucoup de choses à rattraper.
+
+326
+00:22:58,136 --> 00:22:59,227
+Pour Noël ?
+
+327
+00:23:05,128 --> 00:23:07,622
+Je ferais mieux d'aller
+chercher une dinde plus grosse.
+
+328
+00:23:08,416 --> 00:23:08,849
+Merci.
+
+329
+00:23:09,132 --> 00:23:11,946
+C'est Rhys, mon petit-copain endurant.
+
+330
+00:23:13,800 --> 00:23:16,718
+- Il vit ici.
+- Tes parents sont d'accord ?
+
+331
+00:23:16,727 --> 00:23:18,769
+Les parents d'Emma
+sont un peu religieux.
+
+332
+00:23:19,463 --> 00:23:20,074
+Oh,
+
+333
+00:23:20,752 --> 00:23:23,143
+vaut mieux ne pas leur dire que tu
+as vu ma gloire matinale alors, hein ?
+
+334
+00:23:29,561 --> 00:23:32,104
+Je ne pouvais pas lui dire
+que tes parents sont morts.
+
+335
+00:23:32,319 --> 00:23:34,287
+Il aurait posé trop de questions.
+
+336
+00:23:34,879 --> 00:23:37,393
+En fait, il ne sait pas
+exactement ce que je fais.
+
+337
+00:23:42,324 --> 00:23:44,121
+On ne peut pas s'attendre à ce
+que John et Diane la surveillent.
+
+338
+00:23:44,131 --> 00:23:46,710
+Ce sont de parfaits étrangers.
+Je devais m'en occuper.
+
+339
+00:23:46,711 --> 00:23:48,310
+Diane n'est même pas
+rentrée la nuit dernière.
+
+340
+00:23:48,338 --> 00:23:50,098
+Je crois qu'elle était dans
+un Bed and Breakfast.
+
+341
+00:23:50,135 --> 00:23:52,519
+Je l'amènerai ici tout à l'heure, ok ?
+
+342
+00:23:52,705 --> 00:23:54,625
+Jack, le fils de John.
+
+343
+00:23:54,860 --> 00:23:56,279
+Je pense que je l'ai trouvé.
+
+344
+00:23:58,417 --> 00:24:02,359
+Rentrez et voyez Alan, cependant je ne
+suis pas sûre qu'il puisse vous aider.
+
+345
+00:24:14,239 --> 00:24:16,614
+Alan, tu as de la visite.
+
+346
+00:24:16,661 --> 00:24:18,901
+C'est un neveu du côté de ton père.
+
+347
+00:24:18,948 --> 00:24:20,972
+Il a fait des recherches
+sur l'histoire de la famille.
+
+348
+00:24:21,047 --> 00:24:22,961
+Est-ce que Sally arrive ?
+
+349
+00:24:24,543 --> 00:24:26,001
+Sally est sa femme.
+
+350
+00:24:26,039 --> 00:24:28,157
+Elle est décédée il y a longtemps.
+
+351
+00:24:28,401 --> 00:24:31,507
+Désolée, ce n'est pas un
+de ses meilleurs jours.
+
+352
+00:24:31,999 --> 00:24:33,521
+Qu'est-ce qu'il a ?
+
+353
+00:24:33,578 --> 00:24:35,100
+Alzheimer.
+
+354
+00:24:35,599 --> 00:24:38,140
+- Qu'est-ce que c'est ?
+- Il est sénile.
+
+355
+00:24:38,432 --> 00:24:41,077
+Il ne se souvient pas de qui
+il est la plupart du temps.
+
+356
+00:24:41,114 --> 00:24:42,395
+Il ne pouvait plus vivre chez lui.
+
+357
+00:24:42,396 --> 00:24:45,552
+Il oubliait de faire la cuisine,
+de s'habiller, vous savez.
+
+358
+00:24:46,160 --> 00:24:49,824
+Il n'a jamais eu d'enfants donc personne
+n'était là pour s'occuper de lui.
+
+359
+00:24:59,702 --> 00:25:03,320
+C'est toi et ton père, vous
+jouiez au foot dans la cour.
+
+360
+00:25:06,986 --> 00:25:11,043
+C'est ton père et ta mère, et
+ton nouveau poste de télévision.
+
+361
+00:25:11,360 --> 00:25:13,123
+Quand pourrais-je rentrer à la maison ?
+
+362
+00:25:13,161 --> 00:25:14,666
+Tu n'es pas assez rétabli, mon coeur.
+
+363
+00:25:14,756 --> 00:25:17,253
+Je n'aime pas être ici.
+Ils ont pris mes vêtements.
+
+364
+00:25:17,281 --> 00:25:21,469
+Je vais voir ça, ils doivent être au
+lavage. Il me donne le sourire, celui-là.
+
+365
+00:25:22,580 --> 00:25:24,274
+Qu'est-ce qu'il faisait dans la vie ?
+
+366
+00:25:24,639 --> 00:25:27,996
+- Etait-il dans la vente ?
+- Je crois qu'il était pompier.
+
+367
+00:25:29,078 --> 00:25:30,471
+C'est ce que j'étais.
+
+368
+00:25:31,102 --> 00:25:32,250
+Pendant la guerre.
+
+369
+00:25:38,650 --> 00:25:40,720
+90 € pour une demi-heure ?!
+
+370
+00:25:40,748 --> 00:25:42,725
+Oh, t'inquiète pas. Je paierai.
+
+371
+00:25:43,080 --> 00:25:44,478
+Un Cessna !
+
+372
+00:25:45,040 --> 00:25:46,679
+Oh, c'était mon premier avion.
+
+373
+00:25:46,792 --> 00:25:50,416
+J'en ai acheté un après la guerre,
+ils n'ont presque pas changé.
+
+374
+00:25:50,417 --> 00:25:52,260
+Je rêve de voler.
+
+375
+00:25:52,560 --> 00:25:55,787
+On te remettra bientôt
+derrière... l'accélérateur.
+
+376
+00:25:57,161 --> 00:25:58,520
+Merci, Owen.
+
+377
+00:26:00,785 --> 00:26:04,192
+Matthews a mis 3 buts en 20 minutes,
+
+378
+00:26:04,512 --> 00:26:07,211
+alors Bill Perry a renvoyé
+les vainqueurs chez eux.
+
+379
+00:26:08,190 --> 00:26:12,030
+Tu disais qu'il avait des ailes à ses pieds
+et que c'est pour ça que c'était un ailier.
+
+380
+00:26:12,622 --> 00:26:14,901
+Tu disais souvent ce genre
+de choses intelligentes.
+
+381
+00:26:14,945 --> 00:26:16,547
+Blackpool a gagné.
+
+382
+00:26:16,858 --> 00:26:18,217
+Oui !
+
+383
+00:26:19,390 --> 00:26:22,198
+Alan, c'est moi, ton père.
+
+384
+00:26:22,957 --> 00:26:26,402
+Je t'ai acheté cet album de football
+que tu voulais pour Noël, Alan.
+
+385
+00:26:27,108 --> 00:26:28,880
+Il était dans le tiroir de mon bureau.
+
+386
+00:26:30,289 --> 00:26:31,640
+Alan, s'il te plaît...
+
+387
+00:26:33,508 --> 00:26:34,791
+Tout va bien ?
+
+388
+00:26:35,760 --> 00:26:38,970
+Il s'est rappelé qui avait gagné la finale
+de la Coupe de la FA quand il était petit.
+
+389
+00:26:39,450 --> 00:26:42,594
+Parfois il se rappelle
+de bribes de son enfance.
+
+390
+00:26:42,942 --> 00:26:44,941
+C'est assez commun avec la démence.
+
+391
+00:26:45,233 --> 00:26:47,134
+Quand est-ce que Papa rentre, Maman ?
+
+392
+00:26:48,094 --> 00:26:49,629
+Je ne suis pas ta mère, mon coeur.
+
+393
+00:26:50,569 --> 00:26:51,793
+Alan ?
+
+394
+00:26:57,080 --> 00:26:58,285
+Qui êtes-vous ?
+
+395
+00:27:02,915 --> 00:27:05,367
+John assiste à la fin de son
+monde, la fin de sa lignée.
+
+396
+00:27:05,433 --> 00:27:06,760
+Et on ne peut pas l'aider.
+
+397
+00:27:08,189 --> 00:27:10,721
+Il n'y a aucune énigme à résoudre,
+aucun ennemi à combattre...
+
+398
+00:27:11,409 --> 00:27:15,915
+juste 3 personnes perdues qui sont d'une
+certaine façon sous notre responsabilité.
+
+399
+00:27:23,454 --> 00:27:26,471
+Le mieux que je puisse faire
+est Vendredi 29, à 15 heures.
+
+400
+00:27:27,073 --> 00:27:28,611
+Vous ne pouvez pas
+la prendre aujourd'hui ?
+
+401
+00:27:28,768 --> 00:27:29,690
+On est complets.
+
+402
+00:27:30,208 --> 00:27:32,372
+C'est bon, j'ai volé pendant des
+années. Je peux le faire toute seule.
+
+403
+00:27:32,391 --> 00:27:33,718
+Pas sans licence, désolé.
+
+404
+00:27:33,728 --> 00:27:35,848
+Peut-être que vous
+pourriez annuler quelqu'un ?
+
+405
+00:27:35,858 --> 00:27:36,799
+On paiera plus cher.
+
+406
+00:27:36,987 --> 00:27:38,788
+Je ne peux pas faire ça
+à mes habitués, si ?
+
+407
+00:27:38,824 --> 00:27:40,959
+Ecoutez, c'est bon.
+Notez-moi pour le 29.
+
+408
+00:27:41,432 --> 00:27:42,804
+C'est Diane Holmes.
+
+409
+00:27:44,442 --> 00:27:47,524
+Diane, je suis vraiment désolé.
+J'aurais du appeler avant.
+
+410
+00:27:47,637 --> 00:27:49,971
+Oh, pour l'amour de
+Dieu, c'est vraiment idiot.
+
+411
+00:27:51,392 --> 00:27:53,632
+C'est juste que j'avais vraiment hâte..
+
+412
+00:27:54,714 --> 00:27:56,396
+Ignore-moi. Partons d'ici.
+
+413
+00:27:58,806 --> 00:28:01,200
+<i>"I See You Baby" by Groove Armada</i>
+
+414
+00:28:12,692 --> 00:28:14,179
+Tu crois que ça ira ?
+
+415
+00:28:14,395 --> 00:28:16,334
+Je ne pense pas qu'elle ai déjà
+eu de petit-ami.
+
+416
+00:28:16,390 --> 00:28:18,637
+Gwen, arrête tes histoires.
+
+417
+00:28:25,150 --> 00:28:26,477
+C'est pour quelle occasion ?
+
+418
+00:28:26,640 --> 00:28:29,759
+- Pour me supporter.
+- Je mérite beaucoup plus pour ça.
+
+419
+00:29:08,736 --> 00:29:11,719
+- Hé ! Retire tes mains !
+- Retourne avec tes amis, mon garçon.
+
+420
+00:29:12,132 --> 00:29:14,626
+- A quoi tu joues ?
+- Je ne l'aurais pas laissé faire.
+
+421
+00:29:14,673 --> 00:29:16,167
+Tu n'aurais peut-être pas eu le choix.
+
+422
+00:29:16,185 --> 00:29:18,316
+Voyons Gwen, tu penses pas
+que tu exagères un peu.
+
+423
+00:29:18,391 --> 00:29:20,539
+Ce n'était qu'un baiser et un câlin.
+
+424
+00:29:22,704 --> 00:29:24,868
+Il était prêt à beaucoup plus que ça.
+
+425
+00:29:26,882 --> 00:29:29,414
+C'est... dégoûtant.
+
+426
+00:29:30,425 --> 00:29:34,303
+Je veux juste que tu saches que les gens
+sont plus ouvert au sexe de nos jours.
+
+427
+00:29:34,501 --> 00:29:36,223
+Alors peut-être que tu
+devrais être plus prudente.
+
+428
+00:29:36,392 --> 00:29:38,999
+Ma mère disait qu'aucun homme ne voulait
+se marier avec les mauvais produits.
+
+429
+00:29:39,037 --> 00:29:40,459
+Les temps ont changé.
+
+430
+00:29:40,460 --> 00:29:44,660
+Tant que c'est une relation sûre entre 2
+adultes consentant, personne s'en préoccupe.
+
+431
+00:29:46,156 --> 00:29:46,740
+Alors...
+
+432
+00:29:47,926 --> 00:29:50,999
+avec combien d'hommes tu l'as fait ?
+
+433
+00:29:53,720 --> 00:29:54,816
+Quelques-uns.
+
+434
+00:29:56,388 --> 00:29:58,609
+Tu étais amoureuse d'eux ?
+
+435
+00:29:58,637 --> 00:30:02,686
+Non. Le sexe peut être juste
+passer un bon moment avec quelqu'un.
+
+436
+00:30:02,790 --> 00:30:06,623
+Si tu es de bonne humeur, avec un gars
+bien, c'est le mieux, aucun problème.
+
+437
+00:30:06,783 --> 00:30:10,159
+Donc si je rencontre un
+garçon et qu'on avance,
+
+438
+00:30:10,206 --> 00:30:14,054
+et qu'il veut du sexe, alors tu crois
+que je devrais le laisser faire ?
+
+439
+00:30:14,063 --> 00:30:17,289
+- Non, non, ce n'est pas ce que j'ai dit.
+- Qu'est-ce que tu dis ?
+
+440
+00:30:17,308 --> 00:30:21,186
+Le sexe... n'est pas
+quelque chose d'honteux.
+
+441
+00:30:23,416 --> 00:30:26,588
+Et tout comme toi, et bien, ta première
+fois devrait être avec quelqu'un de spécial.
+
+442
+00:30:28,273 --> 00:30:30,381
+T'aurais aimé avoir attendu Rhys ?
+
+443
+00:30:31,237 --> 00:30:32,997
+C'est ta personne spéciale, non ?
+
+444
+00:30:32,998 --> 00:30:35,402
+Oui... oui, je suppose.
+
+445
+00:30:35,957 --> 00:30:38,686
+Et je parie que le sexe avec lui
+est mieux qu'avec les autres.
+
+446
+00:30:38,771 --> 00:30:39,449
+Et bien...
+
+447
+00:30:43,006 --> 00:30:45,735
+J'attendrai le bon, je pense.
+
+448
+00:30:46,719 --> 00:30:49,400
+Je ne suis vraiment pas le genre
+de fille qui couche partout.
+
+449
+00:30:51,476 --> 00:30:53,035
+Je vais me brosser les dents.
+
+450
+00:30:53,440 --> 00:30:54,002
+Merci...
+
+451
+00:30:54,803 --> 00:30:55,942
+pour la discussion.
+
+452
+00:31:01,525 --> 00:31:02,823
+Aucun problème.
+
+453
+00:31:11,218 --> 00:31:12,079
+Laisse tomber.
+
+454
+00:31:12,630 --> 00:31:14,879
+Je ne peux pas si je veux voler sur un jet,
+
+455
+00:31:15,170 --> 00:31:18,530
+parce que voler maintenant
+c'est presser des boutons.
+
+456
+00:31:18,906 --> 00:31:22,492
+Tu devais savoir comment réparer un
+moteur, comment évaluer le vent mais...
+
+457
+00:31:22,568 --> 00:31:23,513
+Laisse tomber.
+
+458
+00:31:25,245 --> 00:31:26,270
+Ouvre ça.
+
+459
+00:31:36,679 --> 00:31:37,564
+Oh !
+
+460
+00:31:41,404 --> 00:31:42,882
+C'est magnifique.
+
+461
+00:31:53,702 --> 00:31:55,192
+Et bien, comment c'était ?
+
+462
+00:31:55,832 --> 00:32:00,709
+Le manteau que je porte est à la
+dernière mode, 100% années 50.
+
+463
+00:32:00,934 --> 00:32:05,057
+- Ils m'ont proposé un travail sur place.
+- Oh, c'est génial. Oh !
+
+464
+00:32:05,151 --> 00:32:07,928
+Maintenant, on doit te trouver un
+appartement près d'ici.
+
+465
+00:32:07,937 --> 00:32:10,375
+Le magasin est dans un
+nouveau secteur de Londres.
+
+466
+00:32:10,422 --> 00:32:13,349
+J'ai toujours rêvé de travailler
+dans une maison de mode à Londres.
+
+467
+00:32:13,406 --> 00:32:17,372
+Ils ouvrent le lendemain de Noël. Je
+serai vendeuse et une stagiaire en vente.
+
+468
+00:32:17,447 --> 00:32:19,913
+Je peux loger là bas. Ils m'ont
+donné des numéros de téléphone.
+
+469
+00:32:20,158 --> 00:32:22,440
+- Londres est une grande ville.
+- C'est-ce que ma mère disait.
+
+470
+00:32:22,459 --> 00:32:25,283
+- Il y a pas de quoi se précipiter.
+- Rien ne me retient ici.
+
+471
+00:32:26,676 --> 00:32:28,549
+Je suis sûre qu'on peut te
+trouver quelque chose à Cardiff.
+
+472
+00:32:29,170 --> 00:32:30,559
+Continue de chercher.
+
+473
+00:32:37,279 --> 00:32:41,494
+Je dois m'organiser, prendre un travail,
+passer mon permis de conduire.
+
+474
+00:32:41,532 --> 00:32:43,348
+- Tout ça aidera.
+- Merci, Jack.
+
+475
+00:33:04,764 --> 00:33:06,044
+Je cherchais les horaires des bus.
+
+476
+00:33:06,063 --> 00:33:09,538
+Je veux aller voir les magasins de
+bricolage, voir s'il y a du travail.
+
+477
+00:33:12,757 --> 00:33:13,552
+Bonne chance !
+
+478
+00:33:14,738 --> 00:33:15,425
+Merci.
+
+479
+00:33:29,054 --> 00:33:30,739
+Où tu m'emmènes ?
+
+480
+00:33:30,880 --> 00:33:31,939
+On y est.
+
+481
+00:33:33,875 --> 00:33:34,891
+Attends-moi.
+
+482
+00:33:42,430 --> 00:33:46,144
+On a passé une bonne
+journée de shopping.
+
+483
+00:33:54,075 --> 00:33:54,904
+Quoi de neuf ?
+
+484
+00:33:56,786 --> 00:33:57,821
+Ta mère a appelé.
+
+485
+00:34:00,739 --> 00:34:02,919
+C'est marrant, elle a
+aucune idée de qui est Emma.
+
+486
+00:34:04,790 --> 00:34:05,495
+Non ?
+
+487
+00:34:05,740 --> 00:34:07,961
+Et je pensais à toi et moi sur le canapé...
+
+488
+00:34:08,526 --> 00:34:10,860
+Ton travail appelle, tu pars
+en plein milieu de la nuit
+
+489
+00:34:11,444 --> 00:34:13,317
+et tu reviens avec un mystérieux parent.
+
+490
+00:34:13,345 --> 00:34:16,581
+Alors, allons-y, qui est
+exactement Pollyanna ?
+
+491
+00:34:17,890 --> 00:34:19,640
+Ah, ça a à voir avec le travail ?
+
+492
+00:34:21,155 --> 00:34:22,991
+C'est dur à expliquer.
+
+493
+00:34:25,123 --> 00:34:26,073
+Tu la connais au moins ?
+
+494
+00:34:30,695 --> 00:34:32,003
+Elle était perdue.
+
+495
+00:34:32,897 --> 00:34:34,064
+Je suis désolée.
+
+496
+00:34:34,544 --> 00:34:37,777
+A quoi bon t'excuser, vu comme
+il est facile de me mentir, Gwen.
+
+497
+00:34:40,798 --> 00:34:43,076
+C'est ma faute. Je partirai demain.
+
+498
+00:34:43,085 --> 00:34:45,786
+Tu n'es pas obligée. Elle a 18 ans.
+
+499
+00:34:45,824 --> 00:34:47,609
+Je ne pouvais pas lui tourner le dos.
+
+500
+00:34:51,929 --> 00:34:54,098
+C'est comme deux mondes parallèles:
+
+501
+00:34:54,903 --> 00:34:56,315
+Il y a Torchwood,
+
+502
+00:34:56,955 --> 00:34:58,399
+et ensuite, il y a la vraie vie.
+
+503
+00:35:00,240 --> 00:35:02,000
+C'est pourquoi tu
+dois me laisser partir.
+
+504
+00:35:12,559 --> 00:35:17,595
+Je n'ai pas pu m'empêcher de te
+remarquer, dans cette magnifique robe.
+
+505
+00:35:18,912 --> 00:35:22,078
+Cette belle robe est
+un cadeau de mon amant.
+
+506
+00:35:23,120 --> 00:35:26,416
+Alors c'est un idiot de te
+laisser sortir ici seule.
+
+507
+00:35:30,162 --> 00:35:31,687
+A quoi buvons-nous ?
+
+508
+00:35:33,616 --> 00:35:34,906
+A une rencontre fortuite.
+
+509
+00:35:39,348 --> 00:35:44,072
+<i># Oh, the good life</i>
+
+510
+00:35:46,246 --> 00:35:47,889
+<i># Full of fun</i>
+
+511
+00:35:47,917 --> 00:35:52,414
+<i># Seems to be the ideal</i>
+
+512
+00:35:56,555 --> 00:35:59,839
+<i># Mm, the good life</i>
+
+513
+00:36:00,018 --> 00:36:05,567
+<i># Lets you hide
+all the sadness you feel</i>
+
+514
+00:36:10,499 --> 00:36:15,529
+<i># You won't really fall in love</i>
+
+515
+00:36:17,224 --> 00:36:20,885
+<i># For you can't take the chance</i>
+
+516
+00:36:23,481 --> 00:36:26,841
+<i># So please be honest</i>
+
+517
+00:36:27,839 --> 00:36:30,126
+<i># With yourself... #</i>
+
+518
+00:36:31,331 --> 00:36:32,751
+Rentrons.
+
+519
+00:36:37,212 --> 00:36:41,344
+<i># It's the good life</i>
+
+520
+00:36:41,758 --> 00:36:43,259
+<i># To be free</i>
+
+521
+00:36:43,523 --> 00:36:47,871
+<i># And explore the unknown... #</i>
+
+522
+00:36:52,346 --> 00:36:55,188
+<i># Like the heart aches</i>
+
+523
+00:36:55,885 --> 00:37:01,358
+<i># When you learn
+you must face them alone... #</i>
+
+524
+00:37:01,522 --> 00:37:02,144
+Allô ?
+
+525
+00:37:02,162 --> 00:37:03,608
+Mes clés de voiture ont disparu.
+
+526
+00:37:04,145 --> 00:37:06,769
+John était derrière le comptoir plus tôt
+
+527
+00:37:07,644 --> 00:37:09,574
+et je n'arrive pas à mettre la main dessus.
+
+528
+00:37:16,808 --> 00:37:17,749
+Il rentre chez lui.
+
+529
+00:37:41,898 --> 00:37:42,726
+John !
+
+530
+00:37:55,847 --> 00:37:56,641
+John !
+
+531
+00:38:02,345 --> 00:38:03,634
+Laissez-moi mourir !
+
+532
+00:38:05,347 --> 00:38:07,789
+Vous ne pouvez pas
+abandonner, pas sans essayer.
+
+533
+00:38:07,836 --> 00:38:09,747
+Je ne suis pas aussi fort que vous.
+Vous ne comprenez pas.
+
+534
+00:38:09,832 --> 00:38:12,467
+Si. Je suis né dans le futur.
+
+535
+00:38:12,533 --> 00:38:15,441
+J'ai vécu à votre époque.
+Mon temps est passé aussi.
+
+536
+00:38:15,469 --> 00:38:16,633
+Pourquoi faites-vous ça ?
+
+537
+00:38:17,235 --> 00:38:18,959
+Me parler de foutus mystères,
+
+538
+00:38:19,277 --> 00:38:23,324
+me garder ici alors que ma femme
+est morte, mon fils une ombre.
+
+539
+00:38:23,343 --> 00:38:23,841
+John,
+
+540
+00:38:24,764 --> 00:38:26,039
+vous êtes encore jeune.
+
+541
+00:38:26,202 --> 00:38:28,879
+Vous pouvez travailler,
+vous faire des amis, fonder une famille.
+
+542
+00:38:28,964 --> 00:38:30,517
+J'ai déjà fait ça, Jack.
+
+543
+00:38:31,514 --> 00:38:32,700
+Il y a des années.
+
+544
+00:38:33,528 --> 00:38:34,846
+Quand j'y étais destiné.
+
+545
+00:39:32,078 --> 00:39:34,836
+- J'aimerais pouvoir dire quelque chose.
+- Il n'y a rien à dire ou à faire.
+
+546
+00:39:37,057 --> 00:39:38,365
+Je ne peux pas vous laisser là.
+
+547
+00:39:39,429 --> 00:39:40,436
+Alors nous attendrons.
+
+548
+00:39:42,252 --> 00:39:43,733
+Le soleil va se lever,
+
+549
+00:39:44,495 --> 00:39:45,869
+nous prendrons un petit-déjeuner,
+
+550
+00:39:47,177 --> 00:39:48,213
+nous nous promènerons.
+
+551
+00:39:48,984 --> 00:39:49,860
+Oui.
+
+552
+00:39:51,187 --> 00:39:52,391
+Un nouveau jour.
+
+553
+00:39:53,580 --> 00:39:57,363
+Et je souffrirai de tout ça,
+sourirai, et remuerai la queue.
+
+554
+00:39:58,031 --> 00:40:00,055
+Et dès que vous
+aurez le dos tourné,
+
+555
+00:40:00,714 --> 00:40:02,690
+je prendrais soin de
+le faire correctement.
+
+556
+00:40:03,886 --> 00:40:05,324
+Parce que je veux mourir.
+
+557
+00:40:06,096 --> 00:40:07,931
+Vous ne serez pas réunis, John.
+
+558
+00:40:09,597 --> 00:40:10,896
+Ça devient juste noir.
+
+559
+00:40:11,527 --> 00:40:12,651
+Comment savez-vous ça ?
+
+560
+00:40:12,953 --> 00:40:14,211
+Je suis mort une fois.
+
+561
+00:40:15,800 --> 00:40:18,101
+- Qui êtes-vous ?
+- Un homme,
+
+562
+00:40:18,788 --> 00:40:21,800
+comme vous, hors de son époque,
+
+563
+00:40:24,606 --> 00:40:26,065
+seul et apeuré.
+
+564
+00:40:27,039 --> 00:40:28,286
+Comment vous surmontez ça ?
+
+565
+00:40:29,576 --> 00:40:30,818
+C'est juste supportable.
+
+566
+00:40:32,691 --> 00:40:33,896
+Ca doit l'être.
+
+567
+00:40:35,731 --> 00:40:36,785
+Je n'ai pas le choix.
+
+568
+00:40:36,842 --> 00:40:37,745
+Mais moi si.
+
+569
+00:40:39,185 --> 00:40:40,560
+Si vous voulez m'aider,
+
+570
+00:40:41,962 --> 00:40:43,769
+laissez-moi mourir
+avec un peu d'honneur.
+
+571
+00:40:45,922 --> 00:40:47,600
+Ne me condamnez pas à vivre.
+
+572
+00:40:53,009 --> 00:40:54,078
+Vous avez peur ?
+
+573
+00:40:56,214 --> 00:40:57,043
+Oui.
+
+574
+00:41:01,617 --> 00:41:02,765
+Tu es très silencieux.
+
+575
+00:41:09,248 --> 00:41:10,697
+Je ne sais pas si je peux
+
+576
+00:41:11,356 --> 00:41:12,467
+faire ça.
+
+577
+00:41:15,883 --> 00:41:17,716
+C'est pas comme ça d'habitude.
+
+578
+00:41:18,610 --> 00:41:21,763
+J'ai couché avec assez de femmes,
+j'ai fait le truc de copain de baise.
+
+579
+00:41:23,241 --> 00:41:24,671
+Ce n'est pas ça.
+
+580
+00:41:30,352 --> 00:41:31,566
+Je ne peux pas me concentrer.
+
+581
+00:41:34,710 --> 00:41:36,018
+Tout ce que je vois, c'est toi,
+
+582
+00:41:37,525 --> 00:41:40,019
+tout ce à quoi je pense
+c'est ce que tu portes,
+
+583
+00:41:40,951 --> 00:41:45,761
+ce que tu penses, ou comment
+est ton visage quand tu jouis.
+
+584
+00:41:49,019 --> 00:41:52,135
+Ca fait, quoi, une semaine ?
+
+585
+00:41:53,217 --> 00:41:54,045
+Et,
+
+586
+00:41:56,370 --> 00:41:59,259
+quand je suis pas avec toi,
+
+587
+00:42:04,341 --> 00:42:05,828
+c'est comme si je perdais mes repères.
+
+588
+00:42:10,679 --> 00:42:12,459
+Comment tu m'as fait ça ?
+
+589
+00:42:16,684 --> 00:42:18,200
+J'ai peur.
+
+590
+00:42:22,600 --> 00:42:24,089
+J'ai une putain de peur.
+
+591
+00:42:30,555 --> 00:42:32,079
+Je t'aime aussi.
+
+592
+00:43:03,966 --> 00:43:05,293
+Le truc avec l'amour...
+
+593
+00:43:06,921 --> 00:43:09,080
+c'est qu'on est toujours à sa merci.
+
+594
+00:43:49,598 --> 00:43:51,509
+Emma, ce sont tes billets, d'accord ?
+
+595
+00:43:51,510 --> 00:43:54,869
+Derrière tu as ton numéro de siège,
+garde-les avec toi tout le temps.
+
+596
+00:43:54,944 --> 00:43:57,316
+Je t'ai pris aussi un retour au cas où.
+
+597
+00:43:57,559 --> 00:44:02,960
+Ne parle pas à n'importe qui, et
+appelle-moi quand tu arrives, d'accord ?
+
+598
+00:44:25,566 --> 00:44:26,217
+Non !
+
+599
+00:44:28,277 --> 00:44:31,083
+- Je ne te laisserai pas faire.
+- Je ne suis pas un objet, Owen.
+
+600
+00:44:31,084 --> 00:44:33,398
+Tu ne peux pas faire
+ça, c'est de la folie.
+
+601
+00:44:33,407 --> 00:44:36,843
+Si j'avais écouté tous les gens qui m'ont
+dit ça, je n'aurais jamais eu de record.
+
+602
+00:44:39,271 --> 00:44:40,589
+Tu n'es pas obligée de partir.
+
+603
+00:44:40,673 --> 00:44:43,431
+Si je ne le fais pas, je me demanderai
+toujours à quoi ça ressemble.
+
+604
+00:44:45,313 --> 00:44:46,979
+Londres, Gwen.
+
+605
+00:45:07,422 --> 00:45:09,549
+Diane, tu n'es pas rationnelle, parlons-en.
+
+606
+00:45:09,601 --> 00:45:12,363
+- Non, je suis désolée, Owen.
+- Ca peut marcher entre nous.
+
+607
+00:45:12,420 --> 00:45:13,681
+Tu appartiens à ce monde
+maintenant, avec moi.
+
+608
+00:45:13,690 --> 00:45:16,502
+- J'appartiens au ciel.
+- Et bien, on pourra t'envoyer dans le ciel.
+
+609
+00:45:16,521 --> 00:45:18,798
+Dans quelques mois tu
+pourras voler quand tu voudra.
+
+610
+00:45:18,940 --> 00:45:22,140
+Ecoute, le temps est le même que
+le jour où nous sommes arrivés.
+
+611
+00:45:22,234 --> 00:45:24,013
+Cette brèche va s'ouvrir à nouveau,
+je peux le sentir.
+
+612
+00:45:24,014 --> 00:45:26,983
+Diane, écoute-moi, il n'y
+a pas de retour possible.
+
+613
+00:45:27,011 --> 00:45:30,440
+- Tu ne peux pas rentrer chez toi.
+- Alors ça m'emmènera à un nouvel endroit.
+
+614
+00:45:36,960 --> 00:45:38,360
+Joyeux Noël !
+
+615
+00:45:52,000 --> 00:45:52,876
+Je viens avec toi.
+
+616
+00:45:52,904 --> 00:45:54,413
+Je vole seule, Owen.
+
+617
+00:45:54,930 --> 00:45:56,822
+Je vais plus vite et
+plus loin que les autres.
+
+618
+00:45:56,850 --> 00:45:59,250
+On a aucune idée de comment
+la brèche fonctionne.
+
+619
+00:45:59,269 --> 00:46:00,841
+Tu peux atterrir n'importe où.
+
+620
+00:46:01,801 --> 00:46:04,283
+- C'est là toute la beauté !
+- C'est trop dangereux !
+
+621
+00:46:04,954 --> 00:46:05,897
+C'est-ce que je fais.
+
+622
+00:46:06,283 --> 00:46:07,883
+Et moi ?!
+
+623
+00:46:08,439 --> 00:46:13,097
+S'il te plaît, s'il te plaît, ne pars pas.
+
+624
+00:46:28,449 --> 00:46:30,639
+Quels souvenirs j'emporte avec moi...
+
+625
+00:47:43,080 --> 00:47:44,722
+Joyeux Noël.
+
+626
+00:47:50,358 --> 00:47:52,259
+<i>Parce que quand on jouit ensemble...</i>
+
+627
+00:47:53,878 --> 00:47:56,400
+<i>C'est la meilleure chose après voler.</i>
+
+628
+00:48:29,063 --> 00:48:32,799
+Ils ne font pas qu'enlever
+des Weevils, ils les torturent.
+
+629
+00:48:33,467 --> 00:48:36,598
+Ces gars utilisent les Weevils
+pour créer le meurtre parfait.
+
+630
+00:48:36,974 --> 00:48:39,326
+Tu veux relâcher un Weevil
+dans le centre de Cardiff ?!
+
+631
+00:48:39,354 --> 00:48:42,451
+J'ai couché avec quelqu'un
+d'autre. Il s'appelle Owen.
+
+632
+00:48:43,429 --> 00:48:45,079
+Qui es-tu, Owen Harper ?
+
+633
+00:48:46,190 --> 00:48:50,058
+On va vous chasser et vous allez nous
+livrer la créature que vous avez enlevé.
+
+634
+00:48:50,239 --> 00:48:55,290
+Là bas, dans les ténèbres,
+quelque chose arrive.
+
+635
+00:48:57,079 --> 00:48:59,999
+~ Harkness Team ~
+Plumedephenix, Kowaio, LauCass, Cybelia
+
+636
+00:49:00,027 --> 00:49:03,039
+~ www.seriessub.com ~

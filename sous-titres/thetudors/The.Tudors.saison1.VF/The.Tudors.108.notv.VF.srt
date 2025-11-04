@@ -1,0 +1,3356 @@
+1
+00:00:00,000 --> 00:00:01,710
+<i>Précédemment dans
+" The Tudors "</i>
+
+2
+00:00:01,877 --> 00:00:04,796
+Ce fléau qui est tombé sur nous,
+est une punition de Dieu.
+
+3
+00:00:05,214 --> 00:00:07,920
+Nous sommes tous des pécheurs
+et Dieu est mécontent de nous.
+
+4
+00:00:08,048 --> 00:00:11,261
+Notre vie et notre mort
+sont entre ses mains.
+
+5
+00:00:11,584 --> 00:00:12,912
+Vous rentrez de Paris,
+
+6
+00:00:13,040 --> 00:00:15,216
+Alors, nous sommes une fois
+encore alliés aux Français.
+
+7
+00:00:15,296 --> 00:00:17,534
+Et nous sommes tous les deux
+en guerre contre l'Empereur.
+
+8
+00:00:17,680 --> 00:00:19,216
+Ai-je obtenu mon divorce ?
+
+9
+00:00:19,344 --> 00:00:21,416
+Je me suis arrangé pour envoyer
+deux jeunes avocats,
+
+10
+00:00:21,600 --> 00:00:23,744
+pour rencontrer le Pape
+à Orvieto, près de Rome
+
+11
+00:00:24,112 --> 00:00:28,528
+J'ai nommé le Cardinal Campeggio
+en tant que représentant officiel.
+
+12
+00:00:28,672 --> 00:00:32,064
+Une fois que la maladie dans votre pays
+sera finie, il partira pour l'Angleterre
+
+13
+00:00:32,288 --> 00:00:35,008
+et constituera une cour
+avec le Cardinal Wolsey
+
+14
+00:00:35,296 --> 00:00:37,840
+pour décider
+du bien-fondé de ce cas.
+
+15
+00:00:38,288 --> 00:00:39,542
+Norfolk m'a envoyé.
+
+16
+00:00:39,728 --> 00:00:40,742
+Mais Norfolk me hait.
+
+17
+00:00:40,966 --> 00:00:42,902
+il y a quelqu'un
+qu'il hait plus encore.
+
+18
+00:00:43,334 --> 00:00:45,879
+Il veut que vous nous aidiez
+à détruire Wolsey,
+
+19
+00:00:46,294 --> 00:00:49,542
+More, si vous n'êtes pas avec moi
+maintenant, vous êtes contre moi.
+
+20
+00:00:49,846 --> 00:00:51,670
+Le Roi dîne maintenant
+avec Norfolk et Boleyn.
+
+21
+00:00:51,734 --> 00:00:53,398
+Ce sont mes pires ennemis.
+
+22
+00:00:53,462 --> 00:00:56,470
+Et si vous ne m'aidez pas,
+alors vous les aidez !
+
+23
+00:00:56,614 --> 00:00:58,838
+Thomas Tallis,
+nous aimons votre musique.
+
+24
+00:00:58,966 --> 00:01:01,190
+- Restez un moment.
+- Pourquoi moi ?
+
+25
+00:01:01,414 --> 00:01:04,030
+Quand je vous regarde, je vois
+une lumière vous entourant.
+
+26
+00:01:04,182 --> 00:01:05,899
+Ma sœur...
+
+27
+00:01:07,158 --> 00:01:09,027
+- Qu'y a-t-il ?
+- Je ne peux respirer, arrêtez.
+
+28
+00:01:09,318 --> 00:01:10,406
+Je ne peux respirer !
+
+29
+00:01:10,470 --> 00:01:11,846
+- Arrêtez la voiture !
+- Arrêtez !
+
+30
+00:01:11,862 --> 00:01:14,240
+Lady Anne est souffrante,
+pour l'amour de Dieu,
+
+31
+00:01:14,678 --> 00:01:16,117
+sauvez-la.
+
+32
+00:01:16,342 --> 00:01:18,288
+Savez-vous ce que
+vous avez fait, mon enfant ?
+
+33
+00:01:18,758 --> 00:01:20,230
+Vous avez ressuscité.
+
+34
+00:01:20,342 --> 00:01:21,814
+À présent, vous pouvez
+revoir le Roi.
+
+35
+00:01:21,830 --> 00:01:23,417
+Ce sera comme avant !
+
+36
+00:01:27,062 --> 00:01:29,506
+Merci.
+Dieu merci.
+
+37
+00:01:31,974 --> 00:01:33,686
+<i>Vous pensiez connaître l'Histoire.</i>
+
+38
+00:01:34,102 --> 00:01:36,022
+<i>Mais vous ne connaissez que la fin.</i>
+
+39
+00:01:36,326 --> 00:01:38,390
+<i>Pour aller au cœur de l'Histoire,</i>
+
+40
+00:01:39,014 --> 00:01:40,934
+<i>vous devez la reprendre du début.</i>
+
+41
+00:01:41,910 --> 00:01:45,974
+<i>La SHOWTEAM et SerieSub
+présentent :</i>
+
+42
+00:01:52,214 --> 00:01:54,534
+<i>THE TUDORS
+Saison 1 - Épisode 8</i>
+
+43
+00:01:57,974 --> 00:02:03,222
+<i>Traduction : _/ DMBMH \_</i>
+
+44
+00:02:08,822 --> 00:02:13,862
+<i>SynchroFix : SlayerDev</i>
+
+45
+00:02:19,478 --> 00:02:24,710
+<i>Relecture : Lucille</i>
+
+46
+00:02:51,398 --> 00:02:56,646
+<i>~ SeriesSub.com ~</i>
+
+47
+00:03:40,637 --> 00:03:44,725
+Votre Grâce, Son Éminence
+le Cardinal Campeggio.
+
+48
+00:03:57,205 --> 00:03:59,406
+Lorenzo, mon vieil ami.
+
+49
+00:03:59,989 --> 00:04:01,700
+Mon cher Wolsey.
+
+50
+00:04:03,493 --> 00:04:04,501
+Venez.
+
+51
+00:04:04,565 --> 00:04:07,125
+Votre Grâce doit excuser
+mon incapacité.
+
+52
+00:04:08,789 --> 00:04:12,961
+Dieu m'a donné la goutte,
+en guise d'épreuve.
+
+53
+00:04:22,549 --> 00:04:24,014
+À présent...
+
+54
+00:04:24,901 --> 00:04:27,093
+Sa Majesté est très désireux
+
+55
+00:04:27,189 --> 00:04:29,493
+que la cour de décision
+soit établie immédiatement
+
+56
+00:04:29,589 --> 00:04:32,021
+pour étudier
+le cas de son divorce...
+
+57
+00:04:32,197 --> 00:04:33,607
+En effet, en effet.
+
+58
+00:04:33,909 --> 00:04:37,778
+J'ai la permission du Pape
+pour statuer sur cette question.
+
+59
+00:04:38,085 --> 00:04:41,949
+Et de ma décision,
+il ne pourra y avoir aucun appel.
+
+60
+00:04:42,565 --> 00:04:43,825
+Et déjà...
+
+61
+00:04:45,909 --> 00:04:47,996
+Si Votre Grâce a un peu d'eau.
+
+62
+00:04:48,413 --> 00:04:49,456
+De l'eau !
+
+63
+00:04:50,916 --> 00:04:53,418
+Mélangée à un peu de vin ?
+
+64
+00:04:57,109 --> 00:04:58,465
+Et déjà ?
+
+65
+00:04:59,877 --> 00:05:01,760
+Vous et moi sommes de vieux amis.
+
+66
+00:05:02,405 --> 00:05:05,722
+Et nous sommes tout les deux
+des gens du monde, Cardinal Wolsey.
+
+67
+00:05:06,725 --> 00:05:08,851
+J'ai même un fils
+qui voyage avec moi.
+
+68
+00:05:09,685 --> 00:05:10,936
+Et donc ?
+
+69
+00:05:11,429 --> 00:05:14,005
+Sa Sainteté souhaite
+satisfaire le Roi,
+
+70
+00:05:14,341 --> 00:05:16,567
+aussi difficile que cela puisse être.
+
+71
+00:05:16,885 --> 00:05:18,651
+Mais dans nos
+intérêts communs,
+
+72
+00:05:18,869 --> 00:05:20,853
+ne serait-il pas préférable
+que nous tentions
+
+73
+00:05:20,981 --> 00:05:23,991
+de persuader Sa Majesté
+de renoncer à ce divorce ?
+
+74
+00:05:24,437 --> 00:05:26,577
+Il est certain que
+sa passion pour cette...
+
+75
+00:05:27,109 --> 00:05:29,412
+fille, va s'altérer
+et disparaître avec le temps,
+
+76
+00:05:29,637 --> 00:05:31,813
+inévitablement,
+comme toute passion.
+
+77
+00:05:32,005 --> 00:05:34,837
+Je crains que Votre Éminence
+ne soit venue ici dans l'ignorance.
+
+78
+00:05:35,157 --> 00:05:38,255
+Laissez-moi vous éclairer
+sur certains points.
+
+79
+00:05:39,333 --> 00:05:42,216
+Si vous n'accordez pas
+au Roi son divorce,
+
+80
+00:05:42,517 --> 00:05:47,014
+l'autorité du Pape
+en Angleterre sera annihilée.
+
+81
+00:05:48,485 --> 00:05:51,887
+Vous devriez vous rappeler qu'une grande
+partie de l'Allemagne s'est déjà séparée
+
+82
+00:05:52,079 --> 00:05:53,270
+de Rome...
+
+83
+00:05:53,957 --> 00:05:56,309
+La même chose arrivera ici.
+
+84
+00:05:56,757 --> 00:06:00,611
+Cela signifierait la ruine
+totale du royaume.
+
+85
+00:06:06,581 --> 00:06:10,454
+Y a-t-il un risque qu'ils déclarent
+votre mariage valide ?
+
+86
+00:06:11,141 --> 00:06:14,958
+Wolsey m'a assuré que le Pape
+a déjà tranché en ma faveur.
+
+87
+00:06:15,429 --> 00:06:17,669
+Le procès est juste pour les apparences
+
+88
+00:06:18,453 --> 00:06:20,797
+et une manière d'apaiser l'Empereur.
+
+89
+00:06:22,069 --> 00:06:24,968
+Nous pouvons donc
+planifier notre mariage ?
+
+90
+00:06:25,589 --> 00:06:27,054
+Oui.
+
+91
+00:06:28,229 --> 00:06:29,973
+Oui, mon amour.
+
+92
+00:06:36,197 --> 00:06:38,982
+Il y a autre chose, toujours
+pour préserver les apparences.
+
+93
+00:06:40,837 --> 00:06:43,737
+Pour quelques temps, je devrais
+partager la table de Catherine.
+
+94
+00:06:44,933 --> 00:06:47,074
+Et parfois sa couche.
+
+95
+00:06:50,885 --> 00:06:53,121
+- Sa couche ?
+- Ce n'est rien !
+
+96
+00:06:53,877 --> 00:06:55,285
+Mes avocats m'ont simplement averti
+
+97
+00:06:55,349 --> 00:06:57,541
+que faire autrement pourrait
+entraîner des poursuites.
+
+98
+00:06:58,773 --> 00:07:01,077
+Cela serait vu comme une atteinte
+à ses droits conjugaux.
+
+99
+00:07:01,365 --> 00:07:05,008
+Vous pensez que coucher à nouveau
+avec votre épouse n'est rien ?
+
+100
+00:07:05,909 --> 00:07:07,893
+Que croyez-vous qu'il va se passer ?
+
+101
+00:07:08,181 --> 00:07:10,305
+Ce qui se passe d'habitude !
+
+102
+00:07:11,413 --> 00:07:13,350
+Votre confiance en moi est réduite !
+
+103
+00:07:14,741 --> 00:07:16,478
+Je vous fais confiance !
+
+104
+00:07:16,933 --> 00:07:18,772
+Je vous aime !
+
+105
+00:07:28,997 --> 00:07:32,327
+Catherine n'est pas
+à blâmer. Ni moi.
+
+106
+00:07:32,661 --> 00:07:35,285
+Mais le fait est, Excellence, que
+nous avons rompu la loi de Dieu,
+
+107
+00:07:35,461 --> 00:07:37,749
+pour laquelle il ne peut y avoir
+aucune dérogation.
+
+108
+00:07:39,749 --> 00:07:42,796
+Vous comprenez comme cela touche
+profondément ma conscience
+
+109
+00:07:44,006 --> 00:07:46,591
+et que je veuille que cela soit
+résolu le plus vite possible ?
+
+110
+00:07:46,853 --> 00:07:50,053
+Je comprends et je compatis.
+
+111
+00:07:50,262 --> 00:07:52,277
+Ainsi que Sa Sainteté,
+naturellement.
+
+112
+00:07:52,581 --> 00:07:55,285
+Mais Sa Sainteté a aussi proposé
+à Votre Majesté...
+
+113
+00:07:55,589 --> 00:07:57,978
+... une autre solution possible.
+
+114
+00:07:59,733 --> 00:08:03,061
+J'ai déjà expliqué à votre Éminence
+que Sa Majesté...
+
+115
+00:08:03,109 --> 00:08:05,797
+Non, non, non. S'il vous plaît.
+Ce n'est pas la même chose, mon ami.
+
+116
+00:08:05,829 --> 00:08:08,821
+Cette solution devrait
+plaire à Sa Majesté.
+
+117
+00:08:09,045 --> 00:08:10,282
+Quelle est-elle ?
+
+118
+00:08:11,109 --> 00:08:13,477
+Sa Sainteté est consciente
+de la grande piété de la Reine.
+
+119
+00:08:13,733 --> 00:08:17,581
+Elle en a elle-même parlé. Son amour
+pour la mère de Dieu, les saints, etc.
+
+120
+00:08:18,389 --> 00:08:21,334
+Et il se demande si Sa Majesté
+pourrait être convaincue
+
+121
+00:08:21,541 --> 00:08:25,713
+comme Jeanne de Valois,
+l'épouse occasionnelle de Louis XII,
+
+122
+00:08:25,973 --> 00:08:28,245
+d'abdiquer son mariage
+
+123
+00:08:28,501 --> 00:08:31,345
+et de se retirer au couvent.
+
+124
+00:08:34,421 --> 00:08:36,350
+Qu'en pensez-vous, Wolsey ?
+
+125
+00:08:36,933 --> 00:08:39,797
+Eh bien, cela accélérerait
+certainement la question,
+
+126
+00:08:39,893 --> 00:08:42,613
+et ça nous épargnerait
+la douleur d'un procès.
+
+127
+00:08:42,917 --> 00:08:44,565
+Et, puisque ce serait volontaire,
+
+128
+00:08:44,949 --> 00:08:47,193
+cela n'offensera pas
+son neveu, l'Empereur.
+
+129
+00:08:47,525 --> 00:08:49,071
+Et de plus,
+
+130
+00:08:49,365 --> 00:08:53,659
+cela procurera à Sa Majesté
+une retraite honorable.
+
+131
+00:08:56,149 --> 00:08:59,081
+Vous le lui soumettrez,
+tout de suite !
+
+132
+00:08:59,589 --> 00:09:01,375
+Majesté.
+
+133
+00:09:05,125 --> 00:09:08,674
+Votre Majesté pourrait-elle au moins
+considérer la proposition ?
+
+134
+00:09:09,493 --> 00:09:12,053
+Je vous donnerai
+ma réponse en temps utile,
+
+135
+00:09:12,405 --> 00:09:16,181
+après en avoir parlé
+au Roi, mon mari.
+
+136
+00:09:17,525 --> 00:09:19,573
+Mon Père, pourriez-vous
+me prendre en confession ?
+
+137
+00:09:19,935 --> 00:09:21,395
+Oui, mon enfant.
+
+138
+00:09:27,205 --> 00:09:29,061
+- Votre Majesté.
+- Votre Éminence.
+
+139
+00:09:29,317 --> 00:09:30,970
+Votre Majesté.
+
+140
+00:09:33,306 --> 00:09:35,992
+Je vous prie de céder
+à la volonté du Roi.
+
+141
+00:09:36,229 --> 00:09:37,237
+Et quelle est sa volonté ?
+
+142
+00:09:37,445 --> 00:09:38,741
+Comme l'a proposé Son Éminence,
+
+143
+00:09:38,821 --> 00:09:41,832
+que vous rejoigniez une communauté
+religieuse de votre choix
+
+144
+00:09:42,293 --> 00:09:44,469
+et fassiez vœu
+de chasteté perpétuelle.
+
+145
+00:09:44,805 --> 00:09:46,210
+Vous me parlez de chasteté ?
+
+146
+00:09:46,341 --> 00:09:49,093
+N'avez-vous pas une maîtresse
+et deux enfants, Votre Éminence ?
+
+147
+00:09:49,333 --> 00:09:52,437
+Votre Majesté entame
+la 3éme période de sa vie.
+
+148
+00:09:52,597 --> 00:09:55,061
+Vous avez passé les deux premières
+à donner l'exemple au monde.
+
+149
+00:09:55,109 --> 00:09:58,724
+Avec cet acte, vous pourriez sceller
+toutes vos bonnes actions.
+
+150
+00:09:59,141 --> 00:10:00,181
+Levez-vous, Votre Grâce.
+
+151
+00:10:00,581 --> 00:10:02,901
+Il n'est pas convenable pour
+un homme de votre dignité
+
+152
+00:10:03,013 --> 00:10:05,814
+d'être vu suppliant en public,
+quelqu'en soit la cause.
+
+153
+00:10:07,893 --> 00:10:09,045
+Éminence...
+
+154
+00:10:30,213 --> 00:10:32,741
+- Alors, vous avez parlé à Campeggio ?
+- Oui.
+
+155
+00:10:33,141 --> 00:10:36,141
+Je lui ai dit que je ne pouvais répondre
+sans la permission de Votre Majesté.
+
+156
+00:10:37,333 --> 00:10:39,181
+Et quelle réponse lui donnerez-vous ?
+
+157
+00:10:40,005 --> 00:10:41,475
+Je lui dirai la vérité.
+
+158
+00:10:41,893 --> 00:10:43,560
+Catherine !
+
+159
+00:10:43,797 --> 00:10:46,896
+Tout le monde sait maintenant
+que notre mariage était injuste.
+
+160
+00:10:47,365 --> 00:10:50,626
+Vous-même devez le reconnaître ! Alors,
+à moins que vous ne consentiez à prendre
+
+161
+00:10:50,690 --> 00:10:52,945
+le voile, je vais devoir vous y forcer.
+
+162
+00:10:57,950 --> 00:11:00,452
+Me permettez-vous
+de parler à Campeggio ?
+
+163
+00:11:03,269 --> 00:11:05,666
+Je ne lui parlerais pas
+si vous refusez.
+
+164
+00:11:23,413 --> 00:11:24,642
+Milady.
+
+165
+00:11:24,933 --> 00:11:25,941
+Lady Anne.
+
+166
+00:11:26,053 --> 00:11:27,620
+Maître Cromwell.
+
+167
+00:11:28,981 --> 00:11:31,942
+Avez-vous... Avez-vous
+un message du Roi ?
+
+168
+00:11:33,157 --> 00:11:35,070
+Je pense que nous
+nous comprenons.
+
+169
+00:11:36,549 --> 00:11:38,389
+Un ami commun,
+un certain M. Fish,
+
+170
+00:11:38,565 --> 00:11:41,952
+en exil en Hollande, m'a envoyé
+un présent à votre attention.
+
+171
+00:11:42,597 --> 00:11:44,663
+Quel est-il, Maître Cromwell ?
+
+172
+00:11:44,933 --> 00:11:47,637
+"L'Obédience du Chrétien"
+
+173
+00:11:47,941 --> 00:11:49,876
+par William Tyndale.
+
+174
+00:11:50,085 --> 00:11:52,725
+Il contient de bonnes
+critiques sur la papauté
+
+175
+00:11:52,805 --> 00:11:55,653
+et sur l'arrogance
+et l'abus des prêtres.
+
+176
+00:11:55,717 --> 00:11:57,801
+Vous le trouverez très instructif.
+
+177
+00:11:59,589 --> 00:12:02,805
+Mais soyez toujours prudente
+et ne le montrez pas à tous.
+
+178
+00:12:02,869 --> 00:12:06,101
+Le fait même de le posséder
+pourrait passer pour de l'hérésie.
+
+179
+00:12:06,896 --> 00:12:08,912
+Et Wolsey est encore assez puissant
+pour persécuter
+
+180
+00:12:08,944 --> 00:12:11,231
+les hérétiques,
+ainsi que l'on nous appelle,
+
+181
+00:12:11,477 --> 00:12:13,589
+ceux qui embrassent
+la vraie religion.
+
+182
+00:12:15,941 --> 00:12:17,404
+Je le ferais.
+
+183
+00:12:17,909 --> 00:12:19,621
+Et que Dieu vous bénisse,
+Maître Cromwell.
+
+184
+00:12:24,757 --> 00:12:26,038
+Attendez.
+
+185
+00:12:30,597 --> 00:12:33,045
+Pourriez-vous remettre
+cela au Roi...
+
+186
+00:12:33,797 --> 00:12:34,949
+avec mon amour.
+
+187
+00:12:36,037 --> 00:12:37,791
+Milady.
+
+188
+00:12:50,661 --> 00:12:52,472
+Viens ici.
+
+189
+00:12:56,373 --> 00:12:57,677
+Ma poule...
+
+190
+00:13:00,037 --> 00:13:01,237
+Pou...
+
+191
+00:13:02,389 --> 00:13:04,117
+Gentille poule.
+
+192
+00:13:11,861 --> 00:13:13,727
+Ne fuis pas !
+
+193
+00:13:19,026 --> 00:13:20,509
+Je t'ai eue.
+
+194
+00:13:26,434 --> 00:13:28,725
+Vous ne m'avez
+même pas dit votre nom.
+
+195
+00:13:29,522 --> 00:13:32,479
+- Jane.
+- Jane.
+
+196
+00:13:33,890 --> 00:13:36,233
+Pourquoi avez-vous quitté la cour ?
+
+197
+00:13:39,170 --> 00:13:40,850
+Quand votre sœur est morte...
+
+198
+00:13:42,002 --> 00:13:45,698
+Ma sœur est toujours ici,
+Thomas Tallis.
+
+199
+00:13:46,962 --> 00:13:49,163
+Elle ne m'a pas quittée.
+
+200
+00:13:49,890 --> 00:13:52,291
+Elle ne peut pas me quitter.
+
+201
+00:14:05,714 --> 00:14:08,140
+Vous pouvez la voir aussi,
+n'est-ce pas ?
+
+202
+00:14:16,418 --> 00:14:19,154
+Je suis venu de Londres.
+
+203
+00:14:19,618 --> 00:14:21,903
+Et je voudrais vraiment
+que vous reveniez à la cour.
+
+204
+00:14:22,114 --> 00:14:23,186
+Pourquoi ?
+
+205
+00:14:23,426 --> 00:14:26,491
+Vous préfériez ma sœur à moi.
+Je pouvais le voir.
+
+206
+00:14:29,426 --> 00:14:32,331
+Je veux vous épouser, Jane.
+
+207
+00:14:48,818 --> 00:14:53,185
+<i>In nomine patris et filii
+et spiritus sancti. Amen. </i>
+
+208
+00:14:54,210 --> 00:14:56,313
+Que voulez-vous confesser ?
+
+209
+00:14:57,426 --> 00:15:00,642
+Mon père, je voudrais vous parler de mon
+premier mariage avec le Prince Arthur,
+
+210
+00:15:00,946 --> 00:15:02,450
+le frère aîné de Sa Majesté.
+
+211
+00:15:02,866 --> 00:15:05,072
+Je sais de quoi vous parlez.
+Continuez.
+
+212
+00:15:05,826 --> 00:15:07,574
+Il ne m'a jamais touché.
+
+213
+00:15:08,130 --> 00:15:11,203
+Je vous le jure,
+sur le serment sacré.
+
+214
+00:15:11,778 --> 00:15:15,916
+j'étais "intatta e incorrotta da lui
+come venne dal ventre di sue madre."
+
+215
+00:15:17,106 --> 00:15:18,498
+Je veux être clair, vous dites que
+
+216
+00:15:18,690 --> 00:15:22,213
+le Prince Arthur ne vous
+a pas touchée et vous a préservée,
+
+217
+00:15:22,802 --> 00:15:25,925
+comme lorsque vous êtes sortie
+du ventre de votre mère ?
+
+218
+00:15:26,146 --> 00:15:27,594
+Oui, mon Père.
+
+219
+00:15:28,242 --> 00:15:30,097
+Vous êtes donc arrivée
+dans la couche du Roi,
+
+220
+00:15:30,322 --> 00:15:33,432
+vierge, "intatta e incorrotta" ?
+
+221
+00:15:33,794 --> 00:15:35,519
+Oui, mon Père.
+
+222
+00:15:37,362 --> 00:15:40,524
+Mon Père, je vous le dis
+en toute humilité,
+
+223
+00:15:41,778 --> 00:15:43,746
+je ne peux accéder
+à votre requête.
+
+224
+00:15:44,018 --> 00:15:46,882
+Je suis l'épouse véritable
+et légitime de Sa Majesté,
+
+225
+00:15:46,994 --> 00:15:49,283
+donc votre proposition
+est inadmissible.
+
+226
+00:15:49,922 --> 00:15:51,033
+Quoiqu'il arrive,
+
+227
+00:15:51,314 --> 00:15:52,578
+je vivrai et mourrai
+
+228
+00:15:52,882 --> 00:15:56,206
+dans cette vocation au mariage
+à laquelle Dieu m'a appelé.
+
+229
+00:15:58,594 --> 00:16:00,127
+Je comprends.
+
+230
+00:16:01,058 --> 00:16:02,629
+De plus,
+
+231
+00:16:03,090 --> 00:16:05,757
+je vous donne la permission
+de briser le sceau de la confession
+
+232
+00:16:06,386 --> 00:16:08,886
+et de raconter au monde entier
+ce que je vous ai dit !
+
+233
+00:16:28,466 --> 00:16:30,782
+Henri veut votre retour à la cour.
+
+234
+00:16:31,874 --> 00:16:33,666
+Après tout, vous êtes sa soeur.
+
+235
+00:16:34,578 --> 00:16:38,081
+Comment puis-je revenir tant
+qu'il s'affiche avec sa souillon ?
+
+236
+00:16:39,522 --> 00:16:42,018
+Cela serait vu comme une
+reconnaissance de sa ridicule liaison.
+
+237
+00:16:42,252 --> 00:16:44,610
+Margaret, nous devons rester
+dans les bonnes grâces du Roi,
+
+238
+00:16:44,706 --> 00:16:46,050
+ou nous ne sommes rien.
+
+239
+00:16:46,354 --> 00:16:47,618
+Laissez-le épouser qui il veut.
+
+240
+00:16:47,650 --> 00:16:50,385
+Cela a toujours été votre philosophie,
+n'est-ce pas, Charles ?
+
+241
+00:16:51,202 --> 00:16:53,514
+Tellement cynique.
+
+242
+00:16:54,274 --> 00:16:56,978
+Est-ce pour cela que vous
+fréquentez ce diable de Boleyn ?
+
+243
+00:16:57,202 --> 00:16:59,770
+Vous l'aimiez bien quand
+il nous a aidés à revenir à la cour.
+
+244
+00:17:01,026 --> 00:17:03,105
+Ou étiez-vous simplement cynique ?
+
+245
+00:17:03,298 --> 00:17:04,774
+Je ne comprenais pas son jeu.
+
+246
+00:17:04,946 --> 00:17:06,898
+Maintenant si.
+Je le méprise.
+
+247
+00:17:07,106 --> 00:17:08,737
+Moi aussi !
+
+248
+00:17:09,154 --> 00:17:10,822
+Mais je hais Wolsey plus encore.
+
+249
+00:17:11,666 --> 00:17:12,946
+C'est un mariage d'opportunité.
+
+250
+00:17:13,122 --> 00:17:14,993
+Un peu comme le nôtre ?
+
+251
+00:17:18,930 --> 00:17:21,378
+Non. Je vous aimais.
+
+252
+00:17:21,570 --> 00:17:23,585
+Vous ignorez le sens
+de ce mot, Charles.
+
+253
+00:17:24,786 --> 00:17:26,098
+Vous pouvez aimer,
+
+254
+00:17:26,354 --> 00:17:29,714
+peut-être pour un an,
+un mois ou un jour...
+
+255
+00:17:31,362 --> 00:17:33,136
+même pour une heure.
+
+256
+00:17:34,513 --> 00:17:36,114
+Et durant cette heure,
+
+257
+00:17:36,594 --> 00:17:40,853
+je crois vraiment que vous
+aimez aussi passionnément...
+
+258
+00:17:42,722 --> 00:17:44,398
+que tout homme.
+
+259
+00:17:45,986 --> 00:17:47,943
+Mais l'heure passée,
+
+260
+00:17:49,330 --> 00:17:51,071
+vous n'aimez plus.
+
+261
+00:17:53,906 --> 00:17:56,492
+Vous aimez une autre,
+
+262
+00:17:56,770 --> 00:17:58,579
+puis une autre.
+
+263
+00:17:59,954 --> 00:18:01,498
+Votre amour...
+
+264
+00:18:03,890 --> 00:18:07,546
+est le plus généreux
+et le plus nuisible.
+
+265
+00:18:10,610 --> 00:18:12,550
+- Margaret...
+- Ne faites pas l'idiot, Charles.
+
+266
+00:18:12,658 --> 00:18:14,428
+Cela ne vous va pas.
+
+267
+00:18:36,114 --> 00:18:37,784
+Éminence.
+
+268
+00:18:37,986 --> 00:18:39,919
+Je dois voir le Cardinal Campeggio.
+
+269
+00:18:40,098 --> 00:18:43,538
+Pardonnez-moi.
+Mon père... est indisposé.
+
+270
+00:18:46,738 --> 00:18:49,395
+En tout cas, il n'y a rien qu'il
+puisse faire pour l'instant.
+
+271
+00:18:49,618 --> 00:18:51,397
+Il a envoyé ses rapports à Rome
+
+272
+00:18:51,698 --> 00:18:53,651
+et doit attendre
+les réponses de Sa Sainteté.
+
+273
+00:18:55,570 --> 00:18:57,362
+Et en attendant,
+
+274
+00:18:57,714 --> 00:19:00,006
+Mon pauvre père doit se reposer
+
+275
+00:19:00,498 --> 00:19:02,909
+et reprendre des forces.
+
+276
+00:19:19,186 --> 00:19:21,410
+- Lady Anne.
+- Bonsoir, Lady Anne.
+
+277
+00:19:23,426 --> 00:19:25,090
+Est-ce la Maîtresse Boleyn ?
+
+278
+00:19:25,602 --> 00:19:26,610
+Oui. C'est elle.
+
+279
+00:19:27,090 --> 00:19:29,469
+La fille pour laquelle le Roi
+veut sacrifier son mariage
+
+280
+00:19:29,618 --> 00:19:32,631
+à la plus gracieuse
+et charmante des reines.
+
+281
+00:19:32,818 --> 00:19:35,170
+J'ai tenté de l'éloigner
+de cette voie,
+
+282
+00:19:35,426 --> 00:19:38,754
+mais je jurerais qu'un ange descendant
+du ciel ne l'en dissuaderait pas.
+
+283
+00:19:39,074 --> 00:19:42,114
+Pensez-vous qu'ils ont emmené
+les choses vers la jonction ultime ?
+
+284
+00:19:48,674 --> 00:19:52,098
+J'ai reçu une pétition des Ducs de
+Suffolk et de Norfolk et de Lord Boleyn,
+
+285
+00:19:52,546 --> 00:19:55,826
+disant que le divorce a l'appui
+écrasant du peuple anglais.
+
+286
+00:19:56,130 --> 00:19:58,322
+Votre Éminence
+découvrirait rapidement,
+
+287
+00:19:58,434 --> 00:20:00,818
+à l'extérieur de ses portes,
+en observant les gens
+
+288
+00:20:02,146 --> 00:20:03,682
+que cela est un mensonge manifeste.
+
+289
+00:20:03,922 --> 00:20:06,658
+Au contraire, les gens aiment leur reine
+
+290
+00:20:07,074 --> 00:20:09,442
+et ont toutes les raisons de le faire.
+
+291
+00:20:17,570 --> 00:20:19,344
+Excusez-moi.
+
+292
+00:20:24,498 --> 00:20:25,506
+Wolsey !
+
+293
+00:20:25,666 --> 00:20:28,020
+Sa Majesté a refusé l'offre.
+
+294
+00:20:29,362 --> 00:20:31,231
+Êtes-vous surpris ?
+
+295
+00:20:31,890 --> 00:20:34,567
+Cependant, Campeggio m'a dit
+que le Pape était prêt
+
+296
+00:20:34,610 --> 00:20:37,378
+à envisager de légitimer
+tout enfant
+
+297
+00:20:37,506 --> 00:20:39,650
+que vous pourriez avoir
+avec Maîtresse Boleyn,
+
+298
+00:20:39,986 --> 00:20:41,783
+que vous soyez mariés ou pas.
+
+299
+00:20:42,178 --> 00:20:43,327
+Êtes-vous fou ?
+
+300
+00:20:44,210 --> 00:20:46,872
+Vous devrez faire
+beaucoup mieux que cela.
+
+301
+00:20:54,178 --> 00:20:56,673
+Pardonnez-moi,
+Ambassadeur Mendoza.
+
+302
+00:21:02,754 --> 00:21:04,594
+Je suis nouveau à cette cour.
+
+303
+00:21:04,914 --> 00:21:06,891
+Qui sont ces hommes
+qui s'adressent au Roi ?
+
+304
+00:21:07,138 --> 00:21:08,976
+Lord Rochford est
+le père d'Anne Boleyn
+
+305
+00:21:09,154 --> 00:21:11,106
+et Norfolk est son oncle.
+
+306
+00:21:11,538 --> 00:21:13,936
+Avec le Duc de Suffolk, ils sont
+les ennemis jurés de Wolsey.
+
+307
+00:21:13,954 --> 00:21:16,209
+Et nul ne l'ignore à la cour.
+
+308
+00:21:16,466 --> 00:21:18,472
+Ils ne reculeraient devant rien
+pour le détruire.
+
+309
+00:21:18,866 --> 00:21:20,834
+Le Roi l'aime-t-il encore ?
+
+310
+00:21:21,074 --> 00:21:23,158
+Pas autant qu'avant, je suppose.
+
+311
+00:21:23,698 --> 00:21:26,703
+Mais le Cardinal ne doit
+pas être sous-estimé.
+
+312
+00:21:29,554 --> 00:21:32,082
+Puis-je connaître vos impressions
+sur les affaires du Roi ?
+
+313
+00:21:32,386 --> 00:21:34,386
+Il n'est pas tenu secret
+que l'Empereur est outragé
+
+314
+00:21:34,546 --> 00:21:36,930
+du comportement du Roi
+à l'égard de la Reine.
+
+315
+00:21:37,810 --> 00:21:40,259
+Et je peux vous dire,
+en toute confidentialité,
+
+316
+00:21:40,552 --> 00:21:42,344
+qu'il a écrit à Sa Sainteté, exigeant
+
+317
+00:21:42,408 --> 00:21:45,432
+que la question soit tranchée
+à Rome, et non pas ici.
+
+318
+00:21:45,976 --> 00:21:49,176
+Il ne chercherait pas à s'immiscer
+d'une autre façon ?
+
+319
+00:21:49,640 --> 00:21:50,686
+De quelle autre façon ?
+
+320
+00:21:51,064 --> 00:21:53,608
+Bien, si la Reine venait à renoncer,
+
+321
+00:21:54,024 --> 00:21:56,983
+pourrait-il considérer une intervention
+militaire en son nom ?
+
+322
+00:21:57,704 --> 00:21:59,903
+Il n'en a pas dit mot.
+
+323
+00:22:00,152 --> 00:22:03,198
+- Quelqu'un lui en a parlé ?
+- Non.
+
+324
+00:22:05,544 --> 00:22:06,952
+Pas encore.
+
+325
+00:22:08,200 --> 00:22:10,914
+- Votre Majesté.
+- Margaret...
+
+326
+00:22:13,416 --> 00:22:16,369
+Pas elle !
+Elle ne le mérite pas.
+
+327
+00:22:16,984 --> 00:22:19,305
+Ce n'est rien qu'une roturière.
+
+328
+00:22:20,040 --> 00:22:22,142
+Ouvrez les yeux.
+Regardez-la !
+
+329
+00:22:23,064 --> 00:22:24,210
+Regardez-vous !
+
+330
+00:22:26,008 --> 00:22:27,380
+Regardez votre propre mariage.
+
+331
+00:22:35,944 --> 00:22:38,216
+Comment allez-vous ?
+
+332
+00:22:38,984 --> 00:22:40,952
+Je brûle.
+
+333
+00:22:41,992 --> 00:22:43,697
+Je brûle d'impatience.
+
+334
+00:23:36,376 --> 00:23:38,360
+Milady, l'Archevêque Warham
+
+335
+00:23:38,488 --> 00:23:40,453
+et l'évêque Tunstall
+voudraient vous rencontrer.
+
+336
+00:23:48,360 --> 00:23:49,528
+Messieurs,
+
+337
+00:23:50,008 --> 00:23:53,053
+je comprends que vous êtes parmi mes
+conseillers pour la cour de légation.
+
+338
+00:23:53,560 --> 00:23:55,224
+En tant qu'honorables personnes,
+
+339
+00:23:55,456 --> 00:23:57,776
+dont le devoir premier est
+envers Dieu et votre conscience,
+
+340
+00:23:57,824 --> 00:23:58,824
+vous êtes les bienvenus.
+
+341
+00:23:59,624 --> 00:24:01,908
+- Venez-vous au nom du Roi ?
+- Oui, Votre Majesté.
+
+342
+00:24:02,856 --> 00:24:04,448
+Nous devons parler de votre plaidoirie.
+
+343
+00:24:04,632 --> 00:24:08,520
+Je n'ai rien contre Sa Majesté,
+que j'aime de tout mon être,
+
+344
+00:24:09,752 --> 00:24:11,660
+mais seulement contre ses conseillers
+
+345
+00:24:12,088 --> 00:24:14,984
+et une certaine dame dont les ambitions
+peuvent ruiner un royaume.
+
+346
+00:24:16,648 --> 00:24:19,272
+Madame, nous ne sommes pas ici
+pour discuter de la plaidoirie,
+
+347
+00:24:19,624 --> 00:24:22,264
+- Ou de choses de ce genre.
+- Mais...
+
+348
+00:24:22,696 --> 00:24:24,512
+Nous sommes venus
+pour vous signaler, Madame,
+
+349
+00:24:24,696 --> 00:24:27,717
+que des rumeurs de complots contre
+la vie de sa Majesté se sont répandues
+
+350
+00:24:28,104 --> 00:24:30,520
+ainsi que contre
+le Cardinal Campeggio.
+
+351
+00:24:30,824 --> 00:24:33,048
+Si pareil complot venait à aboutir,
+
+352
+00:24:33,144 --> 00:24:36,376
+il serait donc clair que
+vous et votre fille
+
+353
+00:24:36,685 --> 00:24:39,546
+seriez suspectées de participation.
+
+354
+00:24:43,544 --> 00:24:47,154
+Je ne peux croire que le Roi
+donnerait foi à de telles rumeurs,
+
+355
+00:24:47,816 --> 00:24:51,090
+puisqu'il sait, et vous aussi,
+
+356
+00:24:51,384 --> 00:24:55,120
+que j'estime la vie de mon mari
+beaucoup plus que la mienne.
+
+357
+00:24:55,512 --> 00:24:58,165
+Madame, il y a une autre plainte.
+
+358
+00:24:58,504 --> 00:25:01,800
+Que vous êtes désinvolte et que
+vous vous montrez trop au peuple.
+
+359
+00:25:02,264 --> 00:25:04,168
+Que vous vous réjouissez
+de leurs acclamations,
+
+360
+00:25:04,248 --> 00:25:06,264
+leur souriant, vous courbant
+et les saluant.
+
+361
+00:25:07,352 --> 00:25:10,469
+En conséquence, nous supposons
+que vous détestez le Roi.
+
+362
+00:25:10,728 --> 00:25:12,536
+Pourquoi supposeriez-vous cela ?
+
+363
+00:25:12,763 --> 00:25:14,808
+Car vous ne voulez
+pas accepter, Madame,
+
+364
+00:25:14,904 --> 00:25:17,351
+que durant tout ce temps
+vous viviez avec lui dans le péché.
+
+365
+00:25:17,559 --> 00:25:19,219
+Et même quand la vérité
+a été révélée,
+
+366
+00:25:19,288 --> 00:25:22,146
+vous refusez d'accepter
+la gracieuse proposition du Roi
+
+367
+00:25:22,344 --> 00:25:24,600
+de vous retirer au couvent.
+
+368
+00:25:24,872 --> 00:25:27,778
+Ah, encore cela !
+
+369
+00:25:28,328 --> 00:25:29,529
+J'y ai déjà répondu.
+
+370
+00:25:29,624 --> 00:25:32,157
+Dieu ne m'a jamais
+appelée au couvent.
+
+371
+00:25:32,792 --> 00:25:36,056
+Je suis l'épouse véritable
+et légitime de sa Majesté.
+
+372
+00:25:36,216 --> 00:25:38,328
+Madame, pour l'amour de Dieu...
+
+373
+00:25:38,408 --> 00:25:40,290
+Oui, pour l'amour de Dieu !
+
+374
+00:25:40,680 --> 00:25:43,085
+Comme vous l'avez vous-même
+professé, Archevêque !
+
+375
+00:25:43,368 --> 00:25:45,848
+Vous avez dit à certains
+que mon cas était légal.
+
+376
+00:25:46,129 --> 00:25:48,632
+Alors, qu'est-ce qui vous
+à fait changer d'avis ?
+
+377
+00:25:51,544 --> 00:25:53,220
+Serait-ce Wolsey ?
+
+378
+00:25:53,640 --> 00:25:59,059
+Dites-moi, préférez-vous votre place
+sur cette terre à celle au paradis ?
+
+379
+00:26:00,600 --> 00:26:02,720
+- Vous n'avez pas répondu aux charges.
+- Sir !
+
+380
+00:26:04,184 --> 00:26:06,858
+Je considère qu'il est en effet
+difficile d'être poursuivie
+
+381
+00:26:07,032 --> 00:26:09,592
+et accusée par mes propres avocats !
+
+382
+00:26:09,784 --> 00:26:11,864
+Où est la justice en cela ?
+
+383
+00:26:15,768 --> 00:26:19,288
+Je n'ai plus rien à vous dire et
+vous ne me représenterez pas.
+
+384
+00:27:10,488 --> 00:27:11,882
+Catherine,
+
+385
+00:27:13,704 --> 00:27:16,428
+pourquoi continuez-vous
+à me refuser justice ?
+
+386
+00:27:16,792 --> 00:27:18,931
+Vous êtes impitoyable.
+
+387
+00:27:19,944 --> 00:27:22,059
+Si pleine de haine.
+
+388
+00:27:25,944 --> 00:27:28,941
+Je ne peux me persuader
+plus longtemps que vous m'aimez.
+
+389
+00:27:29,448 --> 00:27:31,026
+Je vous aime.
+
+390
+00:27:31,512 --> 00:27:34,404
+Je n'ai jamais cessé de
+vous aimer. Vous le savez.
+
+391
+00:27:34,712 --> 00:27:36,448
+Je l'ignore.
+
+392
+00:27:37,688 --> 00:27:40,202
+Peut-être devrais-je
+vous éloigner de notre fille...
+
+393
+00:27:41,245 --> 00:27:43,690
+au cas où vous voudriez lui
+empoisonner l'esprit contre moi.
+
+394
+00:27:43,832 --> 00:27:46,328
+Comment pouvez-vous
+dire cela de moi ?
+
+395
+00:27:46,568 --> 00:27:49,795
+Après tout ce temps. Après tout ce
+que nous avons été l'un pour l'autre.
+
+396
+00:27:52,408 --> 00:27:54,590
+Je vous demande seulement
+d'être raisonnable.
+
+397
+00:27:54,744 --> 00:27:58,136
+Je suis raisonnable.
+C'est vous qui ne l'êtes pas.
+
+398
+00:28:14,472 --> 00:28:17,114
+Que voulez-vous le plus, Thomas ?
+
+399
+00:28:17,864 --> 00:28:20,033
+- Vouloir ?
+- De la vie ?
+
+400
+00:28:20,504 --> 00:28:21,910
+Que voulez-vous ?
+
+401
+00:28:22,824 --> 00:28:24,413
+Je l'ignore.
+
+402
+00:28:25,176 --> 00:28:27,128
+Voyager, je suppose.
+
+403
+00:28:27,288 --> 00:28:29,877
+L'aventure, si je peux.
+
+404
+00:28:30,280 --> 00:28:32,728
+Voyager ? Où iriez-vous ?
+
+405
+00:28:33,080 --> 00:28:34,256
+N'avez-vous pas su ?
+
+406
+00:28:34,680 --> 00:28:37,550
+Les conquérants des mers sont partis
+vers le Nouveau Monde.
+
+407
+00:28:38,232 --> 00:28:40,072
+Cabot vers Newfoundland,
+
+408
+00:28:40,376 --> 00:28:43,289
+d'autres vers les Amériques, les Indes.
+
+409
+00:28:43,960 --> 00:28:47,060
+Quelques-uns parlent
+de la Chine, Cathay,
+
+410
+00:28:47,912 --> 00:28:50,184
+les contrées fabuleuses
+de Marco Polo.
+
+411
+00:28:50,408 --> 00:28:52,482
+Mais où voulez-vous aller ?
+
+412
+00:29:01,448 --> 00:29:03,744
+Je voudrais m'établir ici...
+
+413
+00:29:04,584 --> 00:29:07,789
+Mais les cheveux sont une forêt
+d'embuscades et de pièges.
+
+414
+00:29:08,552 --> 00:29:10,751
+Mais le sourcil nous calme,
+
+415
+00:29:11,543 --> 00:29:13,837
+quand il est lisse et plat.
+
+416
+00:29:14,664 --> 00:29:17,382
+Les bassins sombres des yeux
+sont dangereux pour notre bateau.
+
+417
+00:29:17,592 --> 00:29:21,762
+Y être entraîné
+et ce serait le naufrage.
+
+418
+00:29:22,808 --> 00:29:25,032
+Le nez, ainsi que le premier méridien,
+
+419
+00:29:25,240 --> 00:29:27,851
+nous dirige en bas
+vers les Îles Chanceuses,
+
+420
+00:29:28,680 --> 00:29:30,687
+des lèvres pulpeuses.
+
+421
+00:29:31,240 --> 00:29:33,232
+Je voudrais y jeter l'ancre.
+
+422
+00:29:34,536 --> 00:29:36,777
+et entendre le chant des sirènes.
+
+423
+00:29:43,784 --> 00:29:45,352
+Puis reprendre la mer,
+
+424
+00:29:46,568 --> 00:29:48,956
+passer le glorieux
+promontoire du menton.
+
+425
+00:29:49,880 --> 00:29:52,042
+Nous pourrions croiser quelques îles,
+
+426
+00:29:52,417 --> 00:29:54,837
+en nous dirigeant en bas
+vers votre Inde.
+
+427
+00:29:56,312 --> 00:29:58,924
+Nous faisons une pause
+au nombril de l'Atlantique,
+
+428
+00:30:00,248 --> 00:30:02,636
+où le courant emporte notre bateau
+
+429
+00:30:03,400 --> 00:30:05,347
+vers une autre forêt,
+
+430
+00:30:05,848 --> 00:30:07,933
+où beaucoup ont sombré.
+
+431
+00:30:08,296 --> 00:30:10,561
+Et on ne peut aller plus loin.
+
+432
+00:30:26,920 --> 00:30:28,912
+J'ai une nouvelle devise.
+
+433
+00:30:30,600 --> 00:30:31,624
+Quelle est-elle ?
+
+434
+00:30:35,560 --> 00:30:37,504
+Vous devez la trouver !
+
+435
+00:30:45,512 --> 00:30:46,763
+Où est-elle ?
+
+436
+00:30:48,682 --> 00:30:50,475
+Sur un ruban,
+
+437
+00:30:50,904 --> 00:30:52,895
+caché quelque part.
+
+438
+00:31:01,361 --> 00:31:03,113
+Est-elle...
+
+439
+00:31:04,520 --> 00:31:05,528
+Ici ?
+
+440
+00:31:06,216 --> 00:31:07,300
+Non !
+
+441
+00:31:14,552 --> 00:31:17,711
+- Ici ?
+- Non.
+
+442
+00:31:38,280 --> 00:31:40,234
+Est-ce sous cela ?
+
+443
+00:31:41,160 --> 00:31:43,362
+Je ne peux plus attendre.
+
+444
+00:31:44,024 --> 00:31:45,656
+Vous n'aurez pas à le faire.
+
+445
+00:31:53,144 --> 00:31:55,665
+Votre Majesté,
+il y a de nouveaux retards !
+
+446
+00:31:55,864 --> 00:31:57,439
+Personne n'a vu Campeggio !
+
+447
+00:31:57,640 --> 00:31:59,002
+Où est-il ?
+
+448
+00:31:59,240 --> 00:32:00,462
+Dites-moi !
+
+449
+00:32:00,696 --> 00:32:03,173
+Et si quelqu'un attendait
+délibérément ?
+
+450
+00:32:03,672 --> 00:32:06,093
+Retardait les choses ?
+Créait des excuses ?
+
+451
+00:32:07,624 --> 00:32:08,808
+Campeggio ?
+
+452
+00:32:09,048 --> 00:32:12,975
+Non. Quelqu'un d'autre.
+Quelqu'un de plus proche.
+
+453
+00:32:29,064 --> 00:32:30,684
+Je l'ai.
+
+454
+00:32:44,798 --> 00:32:46,340
+<i>Ainsi sera,</i>
+
+455
+00:32:46,584 --> 00:32:50,512
+<i>grogne qui grogne. </i>
+
+456
+00:32:53,912 --> 00:32:56,351
+C'est ainsi que ça doit être !
+
+457
+00:32:56,768 --> 00:32:58,645
+Faites-les grogner.
+
+458
+00:33:07,272 --> 00:33:10,532
+Quelqu'un de très proche.
+
+459
+00:33:13,784 --> 00:33:16,580
+Je voudrais vous parler
+franchement de Campeggio.
+
+460
+00:33:18,232 --> 00:33:19,708
+Avez-vous confiance en lui ?
+
+461
+00:33:21,224 --> 00:33:23,253
+Pensez-vous qu'il soit compromis ?
+
+462
+00:33:24,184 --> 00:33:27,007
+Qui sait, peut-être reçoit-il
+une rente de l'Empereur ?
+
+463
+00:33:27,400 --> 00:33:30,392
+À ce que je sais, Lorenzo est
+le moins préjudiciable.
+
+464
+00:33:30,568 --> 00:33:33,336
+Il a personnellement souffert entre
+les mains des soldats de Charles,
+
+465
+00:33:33,416 --> 00:33:36,120
+quand ils sont entrés à Rome
+pour fouiller sa maison.
+
+466
+00:33:36,272 --> 00:33:38,352
+Je ne crois pas qu'il ait
+de l'amour pour l'Empereur.
+
+467
+00:33:38,392 --> 00:33:40,479
+Alors, pourquoi retarde-t-il le procès ?
+
+468
+00:33:41,320 --> 00:33:44,148
+Il ya certains points techniques
+qui doivent être résolus.
+
+469
+00:33:44,424 --> 00:33:45,567
+C'est tout.
+
+470
+00:33:45,928 --> 00:33:48,520
+Rien qui ne concerne Votre Majesté.
+
+471
+00:33:48,648 --> 00:33:51,531
+Soyez maudit. Ce n'est pas du tout
+Campeggio, c'est vous !
+
+472
+00:33:51,688 --> 00:33:53,700
+Vous êtes responsable de ce retard !
+
+473
+00:33:54,040 --> 00:33:55,785
+Vous êtes devenu
+frileux pour ce divorce.
+
+474
+00:33:55,912 --> 00:33:57,832
+Peut-être n'y avez-vous jamais cru !
+
+475
+00:33:58,040 --> 00:34:00,664
+Vous m'avez menti.
+Vous prétendiez être de mon côté !
+
+476
+00:34:00,728 --> 00:34:03,960
+Majesté, je jure
+devant vous et devant Dieu,
+
+477
+00:34:04,120 --> 00:34:07,047
+sur mon honneur, d'être
+votre plus humble serviteur.
+
+478
+00:34:07,576 --> 00:34:09,549
+Et il n'y a rien sur Terre
+que je convoite autant
+
+479
+00:34:09,640 --> 00:34:11,634
+que de faire progresser
+votre divorce.
+
+480
+00:34:11,832 --> 00:34:14,264
+L'amener à terme est
+ma quête perpétuelle,
+
+481
+00:34:14,392 --> 00:34:15,930
+et mon désir le plus ardent,
+
+482
+00:34:16,056 --> 00:34:19,448
+pour lequel je suis prêt à donner
+ma vie, mon corps et mon sang.
+
+483
+00:34:19,544 --> 00:34:21,228
+Alors que Dieu
+me vienne en aide !
+
+484
+00:34:37,528 --> 00:34:40,330
+Allons votre Grâce.
+Ne soyez pas si consterné.
+
+485
+00:34:44,120 --> 00:34:46,170
+Comprenez mon impatience.
+
+486
+00:34:48,632 --> 00:34:50,465
+Je sais que ce n'est pas vous.
+
+487
+00:34:51,576 --> 00:34:52,926
+Je vous crois.
+
+488
+00:34:53,864 --> 00:34:56,096
+Je vous connais
+depuis fort longtemps.
+
+489
+00:34:59,720 --> 00:35:01,685
+Allons, parlons d'autres choses.
+
+490
+00:35:05,592 --> 00:35:07,941
+Par le corps de Dieu,
+Maître More.
+
+491
+00:35:09,256 --> 00:35:12,362
+<i>Indignatio
+princeps mors est.</i>
+
+492
+00:35:15,752 --> 00:35:18,785
+La colère du Prince signifie la mort.
+
+493
+00:35:24,984 --> 00:35:26,293
+Majesté.
+
+494
+00:35:31,976 --> 00:35:34,009
+Je veux que vous vous rendiez
+à Rome, M. Cromwell.
+
+495
+00:35:34,712 --> 00:35:37,416
+Je veux que vous forciez
+sa putain de Sainteté à se soumettre,
+
+496
+00:35:37,800 --> 00:35:39,096
+si nécessaire en lui disant que
+
+497
+00:35:39,144 --> 00:35:41,224
+s'il ne m'accordait pas
+ma putain d'annulation,
+
+498
+00:35:41,352 --> 00:35:43,352
+alors l'Angleterre
+retirera sa soumission à Rome,
+
+499
+00:35:43,512 --> 00:35:45,938
+et je lui retirerai
+mon allégeance.
+
+500
+00:35:46,616 --> 00:35:49,400
+Et assurez-vous qu'il sache que
+ce n'est pas une vaine menace.
+
+501
+00:35:49,672 --> 00:35:52,903
+Je le pense et le ferais
+s'il ne me satisfait pas.
+
+502
+00:35:57,576 --> 00:35:59,336
+Envoyez-moi le Duc de Suffolk !
+
+503
+00:35:59,688 --> 00:36:02,120
+Monsieur le Duc, le Roi vous somme.
+
+504
+00:36:02,360 --> 00:36:03,622
+Charles...
+
+505
+00:36:06,920 --> 00:36:08,584
+J'ai une tâche à vous confier.
+
+506
+00:36:08,728 --> 00:36:11,240
+Je veux que vous alliez à Paris
+et rencontriez le Roi François.
+
+507
+00:36:11,464 --> 00:36:13,465
+Interrogez-le sur Campeggio.
+
+508
+00:36:13,912 --> 00:36:16,128
+Demandez-lui quel genre
+de transaction il a eu avec lui.
+
+509
+00:36:16,168 --> 00:36:17,528
+Quel genre d'homme est-il ?
+
+510
+00:36:17,672 --> 00:36:18,680
+Est-il honnête ?
+
+511
+00:36:18,776 --> 00:36:20,408
+A-t-il des ambitions de Papauté ?
+
+512
+00:36:20,648 --> 00:36:23,225
+Et a-t-il des transactions
+secrètes avec l'Empereur ?
+
+513
+00:36:24,376 --> 00:36:25,736
+Je pars sur le champ.
+
+514
+00:36:25,928 --> 00:36:27,688
+Et Charles...
+
+515
+00:36:31,896 --> 00:36:33,694
+Questionnez-le sur Wolsey.
+
+516
+00:36:34,824 --> 00:36:37,114
+Je veux savoir
+tout ce qu'il sait sur lui.
+
+517
+00:36:37,544 --> 00:36:38,657
+Comprenez-vous ?
+
+518
+00:36:40,008 --> 00:36:42,202
+Je veux savoir
+de quel côté Wolsey est.
+
+519
+00:36:52,872 --> 00:36:54,506
+Sir Thomas ?
+
+520
+00:36:58,840 --> 00:37:01,180
+Ma gracieuse Reine.
+
+521
+00:37:02,328 --> 00:37:04,200
+J'ai amené l'évêque Fisher
+pour vous voir.
+
+522
+00:37:04,552 --> 00:37:07,768
+Je crois qu'il peut être
+un conseil loyal et dévoué.
+
+523
+00:37:08,120 --> 00:37:09,730
+Merci, Sir Thomas.
+
+524
+00:37:13,304 --> 00:37:14,735
+Majesté.
+
+525
+00:37:17,304 --> 00:37:18,489
+Je vous en prie.
+
+526
+00:37:25,784 --> 00:37:27,038
+Lord Bishop.
+
+527
+00:37:27,320 --> 00:37:29,958
+Êtes-vous certain
+de vouloir me représenter ?
+
+528
+00:37:30,248 --> 00:37:31,848
+Vous devez être conscient des dangers
+
+529
+00:37:32,104 --> 00:37:33,932
+et des difficultés
+auxquelles vous ferez face.
+
+530
+00:37:34,248 --> 00:37:37,925
+Je comprendrais votre préférence
+pour la paix et la tranquillité.
+
+531
+00:37:38,216 --> 00:37:41,302
+Gente dame, quelle paix
+ou tranquillité peut-il y avoir
+
+532
+00:37:41,432 --> 00:37:44,973
+sans justice et amour de Dieu ?
+
+533
+00:37:46,504 --> 00:37:49,112
+J'ai soigneusement étudié
+le dossier vous concernant.
+
+534
+00:37:49,304 --> 00:37:50,760
+Ils appuieront sans doute le fait
+
+535
+00:37:50,856 --> 00:37:53,731
+que la dispense papale
+vous autorisant à épouser le Roi
+
+536
+00:37:53,880 --> 00:37:58,028
+était techniquement défectueuse
+et donc invalide.
+
+537
+00:37:58,632 --> 00:37:59,704
+Mais...
+
+538
+00:37:59,912 --> 00:38:03,742
+la façon la plus évidente de résoudre
+pareille erreur technique,
+
+539
+00:38:03,976 --> 00:38:07,162
+n'est pas de déclarer
+le mariage nul et non avenu,
+
+540
+00:38:07,512 --> 00:38:11,875
+mais de délivrer une nouvelle
+et parfaite dérogation.
+
+541
+00:38:12,360 --> 00:38:15,400
+En tout cas, une si longue durée
+
+542
+00:38:15,464 --> 00:38:17,756
+a rendu le mariage honnête.
+
+543
+00:38:18,312 --> 00:38:20,758
+Et le principe de "Supplet Ecclesia",
+
+544
+00:38:20,936 --> 00:38:22,970
+"Laissez l'église y suppléer",
+
+545
+00:38:23,192 --> 00:38:27,516
+a rendu bon n'importe quels défauts
+dans la dérogation papale.
+
+546
+00:38:27,724 --> 00:38:29,809
+Vous supposez donc
+que nous allons gagner ?
+
+547
+00:38:30,264 --> 00:38:32,480
+Oui, nous pouvons gagner
+avec ces arguments, mais
+
+548
+00:38:33,392 --> 00:38:35,858
+je ne peux pas prétendre
+que cela nous servira beaucoup.
+
+549
+00:38:37,848 --> 00:38:39,611
+Nous devrons toujours essayer.
+
+550
+00:38:41,336 --> 00:38:43,782
+Ayez confiance, Madame,
+
+551
+00:38:44,104 --> 00:38:47,161
+car nous sommes du côté des anges.
+
+552
+00:38:51,864 --> 00:38:53,375
+Les cœurs sont atouts.
+
+553
+00:38:58,248 --> 00:38:59,416
+Qu'y a-t-il ?
+
+554
+00:39:00,152 --> 00:39:01,925
+J'ai reçu des nouvelles de Cromwell.
+
+555
+00:39:02,909 --> 00:39:04,605
+On lui a finalement permis
+de voir le Pape,
+
+556
+00:39:04,642 --> 00:39:07,218
+mais il m'a écrit désespéré.
+- Pourquoi ?
+
+557
+00:39:07,682 --> 00:39:10,126
+Il ne croit pas que Clément fera
+quoi que ce soit pour moi.
+
+558
+00:39:11,603 --> 00:39:14,883
+Il a dit que c'est peut être son Pater
+Noster, mais qu'il ne pouvait rien faire
+
+559
+00:39:16,347 --> 00:39:19,531
+Cela signifie que le Pape prierait pour
+mes problèmes mais il ne s'engagera pas
+
+560
+00:39:19,579 --> 00:39:21,320
+à faire quelque chose à ce sujet !
+
+561
+00:39:26,082 --> 00:39:27,367
+Montrez !
+
+562
+00:39:29,995 --> 00:39:31,413
+Montrez-moi !
+
+563
+00:39:53,202 --> 00:39:55,937
+Oui. Nous avons amusé le représentant
+du Pape lors de son passage ici.
+
+564
+00:39:56,258 --> 00:39:58,440
+Et j'ai parlé personnellement
+à Campeggio.
+
+565
+00:39:59,378 --> 00:40:01,276
+Il était très prudent.
+
+566
+00:40:01,778 --> 00:40:04,488
+Mais même s'il s'est peu exprimé,
+je l'ai senti hésitant.
+
+567
+00:40:04,626 --> 00:40:06,156
+De quelle manière ?
+
+568
+00:40:06,466 --> 00:40:08,909
+Je pense qu'il montre une face,
+mais en cache une autre.
+
+569
+00:40:09,474 --> 00:40:13,330
+On lui demande de traiter une question
+qu'il méprise secrètement.
+
+570
+00:40:14,018 --> 00:40:17,154
+Ainsi mon conseil à mon frère, le Roi
+
+571
+00:40:17,346 --> 00:40:19,502
+est de ne pas avoir trop
+confiance en tout homme,
+
+572
+00:40:19,746 --> 00:40:21,797
+pour ne pas être déçu.
+
+573
+00:40:22,882 --> 00:40:25,425
+Et diriez-vous de même
+du Cardinal Wolsey ?
+
+574
+00:40:29,570 --> 00:40:32,641
+Je n'ai rien contre Son Éminence.
+
+575
+00:40:33,058 --> 00:40:34,518
+Bien sûr que non.
+
+576
+00:40:34,722 --> 00:40:37,437
+Mais que pensez-vous de
+son attitude envers le divorce ?
+
+577
+00:40:39,330 --> 00:40:41,730
+Autant que je puisse dire,
+il veut que le divorce ait lieu,
+
+578
+00:40:41,842 --> 00:40:43,902
+car il n'aime pas la Reine.
+
+579
+00:40:45,554 --> 00:40:46,822
+En même temps...
+
+580
+00:40:48,450 --> 00:40:50,130
+En même temps ?
+
+581
+00:40:50,610 --> 00:40:53,842
+J'ai aussi l'impression qu'il a
+une merveilleuse entente avec le Pape.
+
+582
+00:40:54,050 --> 00:40:55,554
+Ils se comprennent.
+
+583
+00:40:55,714 --> 00:40:57,394
+Et également avec le
+Cardinal Campeggio.
+
+584
+00:40:57,650 --> 00:41:01,460
+Donc, s'il a une telle entente avec eux
+et qu'ils ne sont pas disposés
+
+585
+00:41:01,586 --> 00:41:03,297
+à faire avancer l'affaire du Roi, alors
+
+586
+00:41:03,602 --> 00:41:06,002
+franchement, je pense que le Roi
+
+587
+00:41:06,210 --> 00:41:09,386
+devrait s'y intéresser lui-même.
+
+588
+00:41:13,426 --> 00:41:15,184
+Tel est mon conseil.
+
+589
+00:41:27,186 --> 00:41:28,242
+Où va-t-il ?
+
+590
+00:41:29,378 --> 00:41:31,950
+Sûrement entretenir
+sa dernière maîtresse.
+
+591
+00:41:32,994 --> 00:41:36,455
+Pourquoi ferait-il cela
+quand il a une si belle épouse ?
+
+592
+00:41:37,218 --> 00:41:38,957
+Vous devriez lui demander,
+Monsieur.
+
+593
+00:41:43,266 --> 00:41:44,882
+Vous ne voulez pas le lui faire payer ?
+
+594
+00:41:45,090 --> 00:41:49,042
+Évidemment. Tout le temps.
+Je suis une femme.
+
+595
+00:41:49,442 --> 00:41:51,261
+Alors couchez avec moi.
+
+596
+00:41:56,210 --> 00:41:57,643
+Si vous voulez.
+
+597
+00:41:58,754 --> 00:42:00,312
+Mais dites-moi d'abord.
+
+598
+00:42:01,106 --> 00:42:03,565
+Comment va votre belle épouse ?
+
+599
+00:42:03,986 --> 00:42:06,360
+- Elle...
+- Elle est comme moi, non ?
+
+600
+00:42:07,122 --> 00:42:09,238
+Vous avez des affaires et elle l'ignore.
+
+601
+00:42:10,738 --> 00:42:14,290
+Pour faire l'amour
+par vengeance ou par douleur...
+
+602
+00:42:14,690 --> 00:42:16,078
+Qu'est-ce cela ?
+
+603
+00:42:17,666 --> 00:42:20,666
+Cela blesse l'esprit et l'âme...
+
+604
+00:42:21,090 --> 00:42:23,906
+... rétréci. Oui ?
+Vous comprenez ça, Monsieur ?
+
+605
+00:42:24,210 --> 00:42:26,129
+L'âme s'amenuise.
+
+606
+00:42:26,626 --> 00:42:28,590
+Et parfois elle meurt.
+
+607
+00:42:43,426 --> 00:42:45,899
+- Votre Grâce.
+- Votre Grâce.
+
+608
+00:42:47,362 --> 00:42:48,402
+Laissez-nous.
+
+609
+00:42:56,274 --> 00:42:57,578
+Le procès s'annonce.
+
+610
+00:42:57,922 --> 00:43:00,497
+En effet, Votre Grâce.
+
+611
+00:43:16,930 --> 00:43:18,849
+Je veux vous expliquer à nouveau.
+
+612
+00:43:20,498 --> 00:43:22,895
+Si vous refusez
+d'accorder ce divorce,
+
+613
+00:43:23,858 --> 00:43:27,274
+vous provoquerez une extraordinaire
+opinion contre le Pape,
+
+614
+00:43:27,634 --> 00:43:31,474
+contre la cour papale et
+contre la papauté elle-même !
+
+615
+00:43:31,682 --> 00:43:33,655
+Je suis tenu vis-à-vis
+du Saint-Père,
+
+616
+00:43:33,906 --> 00:43:36,386
+de chercher la vérité et
+la justice dans cette affaire.
+
+617
+00:43:36,690 --> 00:43:39,554
+Et c'est ce que je tenterai
+de faire, Votre Grâce.
+
+618
+00:43:39,826 --> 00:43:41,410
+Et Dieu m'en est témoin.
+
+619
+00:43:41,458 --> 00:43:43,746
+Vous ne semblez pas toujours comprendre.
+
+620
+00:43:44,018 --> 00:43:46,129
+Alors, laissez-moi vous l'expliquer
+plus clairement.
+
+621
+00:43:46,274 --> 00:43:48,754
+Si vous échouez à trouver
+faveur auprès du Roi,
+
+622
+00:43:49,074 --> 00:43:51,173
+vous perdrez le Roi...
+
+623
+00:43:51,650 --> 00:43:55,026
+et la dévotion de son royaume à Rome.
+
+624
+00:43:55,234 --> 00:43:58,596
+Et vous me détruirez aussi.
+
+625
+00:43:58,818 --> 00:44:00,882
+Et cela je ne peux l'admettre !
+
+626
+00:44:00,978 --> 00:44:02,842
+Je comprends totalement.
+
+627
+00:44:06,482 --> 00:44:10,567
+Faites preuve de foi,
+Cardinal Wolsey.
+
+628
+00:44:12,434 --> 00:44:14,321
+Que Dieu me vienne en aide.
+
+629
+00:44:25,106 --> 00:44:26,242
+Milords,
+
+630
+00:44:26,386 --> 00:44:29,218
+il est devenu évident que Wolsey
+est sévèrement compromis.
+
+631
+00:44:29,442 --> 00:44:33,423
+Et il ne jouit plus des affinités
+qu'il avait avec Sa Majesté.
+
+632
+00:44:33,970 --> 00:44:37,051
+Le Roi est soupçonneux
+envers son premier ministre
+
+633
+00:44:37,346 --> 00:44:39,218
+et nous devons encourager
+ses suspicions.
+
+634
+00:44:39,474 --> 00:44:42,057
+Il est temps de le mettre à terre.
+
+635
+00:44:42,386 --> 00:44:43,642
+Voilà un pamphlet.
+
+636
+00:44:44,114 --> 00:44:46,970
+Vous voyez qu'il traite sa période de
+fonction comme un temps de vanité,
+
+637
+00:44:47,274 --> 00:44:51,441
+de perte, de répression
+et de politique inefficace.
+
+638
+00:44:52,370 --> 00:44:53,858
+C'est prêt pour la distribution.
+
+639
+00:44:54,242 --> 00:44:57,071
+Nous appellerons à l'arrestation
+immédiate de Wolsey et de ses agents,
+
+640
+00:44:57,170 --> 00:44:58,846
+la confiscation
+de tous leurs documents,
+
+641
+00:44:58,962 --> 00:45:02,077
+et un examen minutieux
+de son administration.
+
+642
+00:45:02,834 --> 00:45:07,541
+Sa corruption sera étalée
+et la trahison garantie.
+
+643
+00:45:07,954 --> 00:45:11,210
+Tout ce qui reste, Boleyn,
+c'est que votre fille prouve au Roi
+
+644
+00:45:11,298 --> 00:45:14,381
+que toutes ses suspicions
+sont justifiées.
+
+645
+00:45:15,266 --> 00:45:16,274
+Et alors...
+
+646
+00:45:16,370 --> 00:45:18,552
+le Cardinal sera nu
+face à ses ennemis.
+
+647
+00:45:20,514 --> 00:45:23,140
+- À l'Angleterre.
+- À l'Angleterre.
+
+648
+00:45:37,538 --> 00:45:41,341
+<i>Église de Blackfriar
+- Londres -</i>
+
+649
+00:45:54,274 --> 00:45:56,215
+- Jésus Christ !
+- Désolé, désolé.
+
+650
+00:45:57,074 --> 00:45:59,301
+- Je suis désolé.
+- Chien !
+
+651
+00:46:43,170 --> 00:46:46,706
+<i>In nomine patris
+et filii et spiritus sancti. </i>
+
+652
+00:46:46,882 --> 00:46:48,433
+Amen.
+
+653
+00:46:49,314 --> 00:46:52,012
+Je déclare que cette cour de légation,
+
+654
+00:46:52,418 --> 00:46:54,881
+sous l'autorité de
+Sa Sainteté le pape Clément,
+
+655
+00:46:55,682 --> 00:46:56,962
+est à présent en session.
+
+656
+00:46:57,122 --> 00:47:00,946
+Et tout ce qui sera dit ici
+est dit sous le serment
+
+657
+00:47:01,234 --> 00:47:03,907
+et en présence
+de Dieu tout-puissant.
+
+658
+00:47:05,090 --> 00:47:07,394
+J'appelle Sa Majesté,
+à s'exprimer en premier
+
+659
+00:47:07,554 --> 00:47:09,371
+sur cette question.
+
+660
+00:47:19,840 --> 00:47:22,843
+Vos Éminences savent parfaitement
+la cause de ma présence ici.
+
+661
+00:47:24,066 --> 00:47:26,802
+Cela concerne de nombreux scrupules
+que j'ai pour mon mariage,
+
+662
+00:47:26,898 --> 00:47:29,725
+chatouillant ma conscience.
+
+663
+00:47:30,370 --> 00:47:34,438
+J'ai consulté longuement
+pour découvrir la vérité,
+
+664
+00:47:35,355 --> 00:47:37,649
+et j'ai lu dans le Lévitique
+
+665
+00:47:38,322 --> 00:47:40,322
+qu'il était contre les lois de Dieu,
+
+666
+00:47:40,610 --> 00:47:44,239
+et un péché pour moi,
+d'épouser la femme de mon frère.
+
+667
+00:47:46,210 --> 00:47:47,586
+Vos Éminences,
+
+668
+00:47:47,842 --> 00:47:51,413
+Je ne suis pas le seul à mettre en doute
+la validité de mon mariage.
+
+669
+00:47:51,970 --> 00:47:54,541
+Tout mes évêques
+partagent mes doutes.
+
+670
+00:47:55,026 --> 00:47:58,504
+Et ils ont signé une pétition
+pour mettre matière à la question.
+
+671
+00:47:59,090 --> 00:48:01,538
+Milords, je tiens à préciser que,
+
+672
+00:48:01,634 --> 00:48:06,594
+je n'ai jamais signé de mon nom pareil
+document. Et s'il apparaît ici...
+
+673
+00:48:06,738 --> 00:48:09,538
+La cour ne vous a pas invité
+à vous exprimer, Votre Grâce...
+
+674
+00:48:09,618 --> 00:48:12,146
+S'il apparaît ici,
+alors l'évêque Tunstall
+
+675
+00:48:12,226 --> 00:48:14,194
+l'a écrit, sans mon consentement !
+
+676
+00:48:14,322 --> 00:48:16,418
+Le Roi a la parole
+Asseyez-vous, Sir. Assis !
+
+677
+00:48:16,626 --> 00:48:19,274
+Bien, je ne vais pas en débattre
+avec vous maintenant.
+
+678
+00:48:21,874 --> 00:48:24,154
+Après tout, vous n'êtes
+qu'un seul homme.
+
+679
+00:48:27,090 --> 00:48:30,786
+Quant à la question principale,
+si on me demande
+
+680
+00:48:31,036 --> 00:48:34,372
+pourquoi ai-je attendu si longtemps
+pour amener l'affaire devant la cour,
+
+681
+00:48:34,546 --> 00:48:36,250
+je répondrais sincèrement
+
+682
+00:48:37,234 --> 00:48:40,994
+que c'était le grand amour
+que j'ai porté à sa Majesté,
+
+683
+00:48:41,058 --> 00:48:42,965
+qui m'a empêché de le faire.
+
+684
+00:48:44,508 --> 00:48:47,094
+C'est moi-même qui doit assumer
+toute la responsabilité,
+
+685
+00:48:48,354 --> 00:48:52,975
+de ma conscience, qui me
+trouble et me fait douter.
+
+686
+00:48:53,666 --> 00:48:55,310
+Messieurs de la cour,
+
+687
+00:48:55,644 --> 00:49:00,440
+je ne demande qu'une seule chose.
+
+688
+00:49:02,658 --> 00:49:04,403
+La justice.
+
+689
+00:49:12,178 --> 00:49:15,538
+Dans un moment, la cour appellera
+Sa Majesté la Reine
+
+690
+00:49:15,618 --> 00:49:17,124
+pour répondre à la déclaration du Roi,
+
+691
+00:49:17,154 --> 00:49:20,294
+mais je dois d'abord dire à la cour
+
+692
+00:49:21,218 --> 00:49:24,256
+que la Reine a cherché,
+par ses conseillers,
+
+693
+00:49:25,314 --> 00:49:30,053
+à mettre en doute la compétence
+de cette cour pour traiter de son cas.
+
+694
+00:49:30,514 --> 00:49:34,354
+De plus, elle met en doute
+l'impartialité de ses juges.
+
+695
+00:49:34,658 --> 00:49:36,934
+Et finalement, elle affirme
+que cette question est déjà
+
+696
+00:49:36,994 --> 00:49:39,228
+entre les mains d'une plus
+grande autorité, le Pape,
+
+697
+00:49:39,314 --> 00:49:42,566
+et ne peut donc être
+traitée qu'à Rome.
+
+698
+00:49:43,650 --> 00:49:45,068
+Maintenant,
+
+699
+00:49:45,298 --> 00:49:47,154
+quant à la première question,
+
+700
+00:49:47,426 --> 00:49:49,990
+le Cardinal Campeggio et moi
+pouvons confirmer que nous avons
+
+701
+00:49:50,178 --> 00:49:52,770
+l'autorisation nécessaire
+de Sa Sainteté,
+
+702
+00:49:53,042 --> 00:49:55,077
+pour régler cette affaire ici.
+
+703
+00:49:55,298 --> 00:50:01,330
+De plus, nous rejetons toute
+notion de préjugé de notre part
+
+704
+00:50:01,842 --> 00:50:03,746
+et nous continuerons
+à traiter ce cas ici
+
+705
+00:50:03,842 --> 00:50:06,340
+pour lequel
+nous avons été désignés.
+
+706
+00:50:06,962 --> 00:50:10,718
+J'appelle donc Sa Majesté,
+la Reine Catherine,
+
+707
+00:50:11,298 --> 00:50:13,430
+à s'adresser à la cour.
+
+708
+00:50:29,404 --> 00:50:30,739
+Milord.
+
+709
+00:50:33,784 --> 00:50:34,827
+Sir.
+
+710
+00:50:40,098 --> 00:50:41,792
+Je vous implore...
+
+711
+00:50:42,514 --> 00:50:44,962
+Pour tout l'amour
+qu'il y a eu entre nous,
+
+712
+00:50:45,202 --> 00:50:48,048
+accordez-moi justice et droit,
+
+713
+00:50:48,466 --> 00:50:49,924
+donnez-moi pitié et compassion,
+
+714
+00:50:50,018 --> 00:50:52,035
+car je ne suis qu'une
+pauvre femme et une étrangère
+
+715
+00:50:52,258 --> 00:50:54,304
+née en dehors
+de votre domination.
+
+716
+00:50:55,055 --> 00:50:58,308
+Je n'ai pas d'amis ici
+et peu de conseillers.
+
+717
+00:50:59,186 --> 00:51:03,063
+Je m'en remets à vous comme le
+sommet de la justice dans ce royaume.
+
+718
+00:51:03,458 --> 00:51:05,858
+Je prends à témoin Dieu
+et le monde entier
+
+719
+00:51:05,954 --> 00:51:07,650
+que j'ai été pour vous loyale,
+
+720
+00:51:07,874 --> 00:51:09,610
+humble et obéissante épouse,
+
+721
+00:51:09,810 --> 00:51:12,698
+toujours à l'écoute de vos
+désirs et de vos plaisirs.
+
+722
+00:51:13,538 --> 00:51:16,076
+J'ai aimé ceux que
+vous avez aimés, pour vous,
+
+723
+00:51:16,434 --> 00:51:17,794
+que j'aie eu raison ou pas,
+
+724
+00:51:17,890 --> 00:51:21,832
+qu'ils aient été mes amis ou ennemis.
+
+725
+00:51:25,698 --> 00:51:28,255
+Par moi, vous avez eu
+de nombreux enfants,
+
+726
+00:51:28,714 --> 00:51:31,550
+bien qu'il ait plu à Dieu
+de les rappeler de ce monde.
+
+727
+00:51:32,885 --> 00:51:35,387
+Mais lorsque vous m'avez épousée,
+
+728
+00:51:35,970 --> 00:51:38,432
+je prends Dieu comme seul juge,
+
+729
+00:51:39,346 --> 00:51:42,477
+j'étais parfaitement vierge,
+aucun homme ne m'avait touchée.
+
+730
+00:51:44,466 --> 00:51:47,107
+Et que cela soit vrai ou ne le soit pas,
+
+731
+00:51:48,233 --> 00:51:51,236
+je le laisse
+à votre conscience.
+
+732
+00:52:11,602 --> 00:52:13,133
+Que fait-elle ?
+
+733
+00:52:19,794 --> 00:52:21,954
+Catherine, Reine d'Angleterre !
+
+734
+00:52:22,184 --> 00:52:24,311
+Revenez à la cour !
+
+735
+00:52:26,946 --> 00:52:29,066
+Revenez à la cour !
+
+736
+00:52:31,618 --> 00:52:34,696
+Votre Majesté devrait peut-être revenir,
+vous êtes appelée.
+
+737
+00:52:34,898 --> 00:52:37,366
+Cette cour n'a aucun sens pour moi.
+Donc, je n'y resterais pas.
+
+738
+00:52:38,162 --> 00:52:40,306
+Catherine, Reine d'Angleterre !
+
+739
+00:52:40,450 --> 00:52:42,746
+Revenez à la cour !
+
+740
+00:53:05,842 --> 00:53:08,437
+Elle crache sur les lois du Pape !
+
+741
+00:53:08,626 --> 00:53:10,774
+Elle méprise cette cour !
+
+742
+00:53:41,986 --> 00:53:44,190
+Votre Majesté.
+
+743
+00:54:09,280 --> 00:54:10,691
+~ www.SeriesSub.com ~
+

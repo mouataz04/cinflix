@@ -1,0 +1,3512 @@
+1
+00:00:02,167 --> 00:00:05,147
+Vous avez rejoins le cercle.
+
+2
+00:00:05,418 --> 00:00:07,495
+Vous avez sentis les flammes.
+
+3
+00:00:07,856 --> 00:00:10,745
+Vous avez subis les sept épreuves.
+
+4
+00:00:11,468 --> 00:00:14,357
+Vous êtes parvenus jusqu'au moment de votre test final.
+
+5
+00:00:14,628 --> 00:00:17,156
+Etes-vous préparés ?
+
+6
+00:00:17,427 --> 00:00:20,046
+-Oui monsieur.
+-Alors allons-y.
+
+7
+00:00:21,852 --> 00:00:23,567
+Allez !
+
+8
+00:00:25,373 --> 00:00:27,811
+Le dernier à la maison boit la lie du tonneau!
+
+9
+00:00:29,004 --> 00:00:30,268
+Que j'aime la semaine d'intégration.
+
+10
+00:00:30,626 --> 00:00:32,880
+Est ce que tu as vu leurs visages ?
+
+
+11
+00:00:54,001--> 00:01:05,8866
+
+NCIS  saison 2 - épisode 20 "RED CELL"
+
+        www.FOROM.COM
+
+11
+00:01:34,371 --> 00:01:37,086
+Strike Force Command, ici Red Leader.
+Equipe Alpha entre en jeu.
+
+12
+00:01:37,539 --> 00:01:43,315
+Bien reçu, Red Leader, j'ai un visuel.
+Vous avez des ennemis au nord et à l'est de l'immeuble.
+
+13
+00:01:44,216 --> 00:01:47,747
+Ennemis sur le flanc gauche. Toutes les équipes
+se préparent à entrer. Notre cible se situe...
+
+14
+00:01:48,919 --> 00:01:51,350
+Répétez, Strike Force Command.
+Je n'ai pas compris votre dernière phrase.
+
+15
+00:01:51,646 --> 00:01:53,081
+Euh, Attendez une seconde, Red Leader.
+
+16
+00:01:53,626 --> 00:01:55,523
+Bien compris.
+Red Unit, gardez votre position.
+
+17
+00:01:56,608 --> 00:01:58,141
+Salut, Bizut!
+
+18
+00:01:58,955 --> 00:02:00,762
+Euh, David, Je dois vous rappeler.
+
+19
+00:02:00,978 --> 00:02:01,723
+Bien compris, McGee
+
+20
+00:02:02,568 --> 00:02:04,101
+Je t'avais dis qu'il portait des boxers.
+
+21
+00:02:04,226 --> 00:02:07,141
+Zut, McGee, j'étais sûr que tu étais un homme à slip!
+
+22
+00:02:08,325 --> 00:02:10,550
+Allez, habille-toi.
+Tu ne veux pas faire attendre Gibbs.
+
+23
+00:02:10,675 --> 00:02:12,861
+Tu avais dis 09h00. Il n'est que 7h30!
+
+24
+00:02:13,025 --> 00:02:15,821
+On a pensé qu'on devait t'observer dans ton environnement naturel.
+
+25
+00:02:15,975 --> 00:02:17,693
+C'est un peu comme regarder "National Geographic".
+
+26
+00:02:18,095 --> 00:02:22,543
+Nous regardons alors que le McGee fuit doucement
+le point d'eau, poursuivit par des hyènes.
+
+27
+00:02:25,717 --> 00:02:27,332
+C'est la chambre de la chaîne histoire ?
+
+28
+00:02:29,358 --> 00:02:32,482
+Ah...c'est ici que tu écris tes trucs, hein?
+
+29
+00:02:44,466 --> 00:02:45,600
+Regarde ça.
+
+30
+00:02:45,845 --> 00:02:48,692
+"Les nouvelles aventures de L.J. Tibbs."
+
+31
+00:02:48,728 --> 00:02:49,342
+C'est personnel!
+
+32
+00:02:49,465 --> 00:02:50,341
+Hmm...
+
+33
+00:02:50,465 --> 00:02:53,013
+Je me demande qui pourrait bien être "L.J. Tibbs"?
+
+34
+00:02:54,597 --> 00:02:57,051
+Regarde ça. Il mange des céréales en forme de dinosaure.
+
+35
+00:03:01,705 --> 00:03:04,890
+D'accord, Pourriez-vous m'attendre tous les deux
+à la porte? A la porte s'il vous plaît!
+
+36
+00:03:04,987 --> 00:03:06,362
+T'as du Macy gray ici?
+
+37
+00:03:07,488 --> 00:03:10,942
+Attends, Tony, ne touche pas à ça. Ce sont des collectors. Ils ont de la valeur.
+
+38
+00:03:12,915 --> 00:03:14,350
+Oh ça alors. Désolé.
+
+39
+00:03:14,506 --> 00:03:17,182
+Je pensais juste que c'était de très vieux disques.
+
+40
+00:03:18,427 --> 00:03:21,911
+C'est déjà assez chiant de bosser un samedi,
+sans vous en train de fouiller mon appartement.
+
+41
+00:03:21,955 --> 00:03:25,341
+Oui, c'était vraiment inconsidéré de la part
+de ce Sergent de la marine de mourir un week-end.
+
+42
+00:03:26,105 --> 00:03:28,021
+Je vais prendre mon arme. Ne touchez rien d'autre!
+
+43
+00:03:28,845 --> 00:03:29,831
+Hé!
+
+44
+00:03:31,857 --> 00:03:33,810
+George Clooney ne se sentirait pas à l'aise ici.
+
+45
+00:03:39,268 --> 00:03:41,072
+Ton appartement a besoin de ménage, McGee.
+
+46
+00:03:41,647 --> 00:03:43,600
+Au moins tu ne construis pas un bateau dans ton sous-sol.
+
+47
+00:03:43,816 --> 00:03:44,591
+Venez.
+
+48
+00:03:57,657 --> 00:03:58,041
+Tim ?
+
+49
+00:03:59,006 --> 00:04:01,890
+Strike Force Command, ici Red Leader.
+McGee, tu es là ?
+
+50
+00:04:07,366 --> 00:04:09,400
+Ici Strike Force Command. Tu me reçois ?
+
+51
+00:04:11,706 --> 00:04:17,481
+A partir de la rigidité du cadavre, je dirais que
+notre sergent est mort il y a au moins 36 heures.
+
+52
+00:04:18,027 --> 00:04:19,582
+Je suis plus intéressé par comment cela est arrivé, Ducky.
+
+53
+00:04:21,157 --> 00:04:24,282
+Et bien, malgré l'évidence, il est tombé du haut de la colline...
+
+54
+00:04:24,417 --> 00:04:25,672
+Son cou est probablement brisé.
+
+55
+00:04:25,805 --> 00:04:29,232
+Oui, mais nous ne mettons jamais
+assez l'accent sur l'évidence.
+
+56
+00:04:30,406 --> 00:04:31,940
+N'est ce pas, Sergent?
+
+57
+00:04:32,128 --> 00:04:32,692
+Ow!
+
+58
+00:04:35,837 --> 00:04:39,201
+Il est remarquable de constater que
+ces étudiants ont tous la même odeur.
+
+59
+00:04:39,607 --> 00:04:41,821
+Bière éventée, tabac...
+
+60
+00:04:42,246 --> 00:04:43,452
+...vomit.
+
+61
+00:04:43,578 --> 00:04:45,312
+Ça c'est le gosse quand il l'a trouvé.
+
+62
+00:04:45,626 --> 00:04:48,120
+Une idée de pourquoi ce jeune homme est à moitié nu ?
+
+63
+00:04:49,086 --> 00:04:50,772
+Ça doit être un truc d'étudiants.
+
+64
+00:04:51,808 --> 00:04:52,821
+Hé...
+
+65
+00:04:52,978 --> 00:04:53,580
+... Ou étiez-vous ?
+
+66
+00:04:53,736 --> 00:04:55,773
+On s'est arrêté prendre du café.
+Tiens... mais de rien.
+
+67
+00:04:55,907 --> 00:05:01,323
+Sergent Joseph Aaron Turner de la Marine.
+Retrouvé mort à 02h00 par un étudiant ivre.
+
+68
+00:05:01,446 --> 00:05:02,672
+Ça ressemble à une semaine d'intégration.
+
+69
+00:05:02,836 --> 00:05:03,881
+Une semaine d'intégration ?
+
+70
+00:05:04,067 --> 00:05:06,141
+Ouais, le rite fraternel de passage.
+
+71
+00:05:06,268 --> 00:05:07,650
+La pire semaine de ma vie.
+
+72
+00:05:07,778 --> 00:05:09,752
+Suivi des quatre meilleures années.
+
+73
+00:05:10,068 --> 00:05:13,190
+Ouais? Tu courais en sous-vêtements, DiNozzo ?
+
+74
+00:05:14,308 --> 00:05:15,362
+Techniquement.
+
+75
+00:05:15,887 --> 00:05:18,653
+Mais au retour, ils nous les ont fait porter sur nos têtes.
+
+76
+00:05:19,047 --> 00:05:20,301
+Je pense que c'était...
+
+77
+00:05:20,578 --> 00:05:22,500
+... Une formation du caractère
+
+78
+00:05:22,668 --> 00:05:24,760
+Certains l’expliquent comme ça.
+
+79
+00:05:25,486 --> 00:05:26,900
+-Uh-huh. Hé, McGee...
+-Ouais.
+
+80
+00:05:27,235 --> 00:05:29,883
+-Trouve ce que Turner faisait sur le campus.
+- Ça marche.
+
+81
+00:05:31,067 --> 00:05:32,903
+Excusez-moi, agent spécial Gibbs?
+
+82
+00:05:33,027 --> 00:05:36,813
+Je me demande si nous pouvions laisser
+Mr. Pippin rentrer et s'habiller?
+
+83
+00:05:37,127 --> 00:05:40,702
+Bien sûr. Après qu’un de mes agents l’ai interrogé. DiNozzo.
+
+84
+00:05:41,076 --> 00:05:44,232
+Hum, tu sais, je pense que ça serait mieux que Kate le fasse.
+
+85
+00:05:44,688 --> 00:05:47,390
+Peut être, mais vous avez tous les deux tant
+de choses en commun.
+
+86
+00:05:48,636 --> 00:05:49,350
+Allez.
+
+87
+00:05:52,155 --> 00:05:54,140
+C’est un endroit populaire pour les étudiants ?
+
+88
+00:05:54,386 --> 00:05:59,502
+Pour tous genres d'activités parascolaires.
+Feux de joie, épreuves de fraternité...
+
+89
+00:05:59,598 --> 00:06:00,133
+Bizutage ?
+
+90
+00:06:00,256 --> 00:06:02,092
+Nous avons eu notre part d’incidents.
+
+91
+00:06:02,406 --> 00:06:04,962
+Os cassés, empoisonnement par l'alcool.
+
+92
+00:06:05,388 --> 00:06:08,332
+Et ceci n'est pas la première mort
+accidentelle que nous voyons.
+
+93
+00:06:09,336 --> 00:06:11,312
+Qui vous a dis que c’était un accident ?
+
+94
+00:06:12,586 --> 00:06:14,691
+Vous pensez que c’est un homicide ?
+
+95
+00:06:15,726 --> 00:06:17,612
+Jusqu’a que je découvre que ça n’en est pas un.
+
+96
+00:06:18,138 --> 00:06:25,320
+Boss, J'ai fait tirer le CV de Turner. C’était un étudiant de NROTC
+attaché au campus de l’université de Waverly.
+Il habitait en résidences étudiante.
+
+97
+00:06:25,608 --> 00:06:26,601
+T’as son adresse ?
+
+98
+00:06:26,786 --> 00:06:29,242
+Uh, j’ai juste ça. Je vais transmettre par radio son identité.
+
+99
+00:06:36,968 --> 00:06:39,340
+Je pensais que les étudiants été censées être pauvre.
+
+100
+00:06:39,588 --> 00:06:44,040
+La plupart de mes candidats n'auraient pas survécu
+sans au moins 200 chaînes et une connexion ADSL, Agent Gibbs.
+
+101
+00:06:44,176 --> 00:06:47,930
+Depuis combien de temps êtes-vous l’officier instructeur
+du Marine Turner, Capitaine Lemay?
+
+102
+00:06:48,086 --> 00:06:49,790
+Depuis qu’il s’est enrôlé l’année dernière.
+
+103
+00:06:50,405 --> 00:06:54,323
+Vous pensez perdre des hommes au combat,
+pas sur un campus.
+
+104
+00:06:54,565 --> 00:06:57,150
+- Qu’est-il arrivé à mon Marine ?
+- On travaille dessus, Capitaine.
+
+105
+00:06:57,487 --> 00:06:58,441
+Que puis-je faire pour vous aider?
+
+106
+00:06:58,846 --> 00:07:00,582
+Vous pouvez commencer en nous parlant de lui.
+
+107
+00:07:01,018 --> 00:07:03,112
+Il était un de mes meilleurs soldats.
+
+108
+00:07:04,178 --> 00:07:07,640
+Il nous est venu de la flotte après deux excursions
+de combat en Irak et en Afghanistan.
+
+109
+00:07:07,765 --> 00:07:09,171
+Comment a-t-il pris la vie à l’université ?
+
+110
+00:07:09,277 --> 00:07:12,041
+Il y a une quantité de choc culturel,
+mais comme un bon Marine, il s’est adapté.
+
+111
+00:07:12,196 --> 00:07:16,313
+-Des problèmes personnel ou autre ?
+-Nous avons eu quelques incidents avec des étudiant activistes du campus.
+
+112
+00:07:16,447 --> 00:07:18,270
+Protestant contre la guerre ?
+
+113
+00:07:18,587 --> 00:07:20,471
+Protestant contre tout ce qui est militaire.
+
+114
+00:07:20,758 --> 00:07:25,962
+Nos locaux ont été vandalisés, nous nous rassemblons hors de nos bureaux.
+Quand on a su que Turner était un vétéran, il a reçus quelques coups.
+
+115
+00:07:26,208 --> 00:07:27,221
+Quel genre de coups ?
+
+116
+00:07:27,358 --> 00:07:28,943
+Injures, surtout.
+
+117
+00:07:29,617 --> 00:07:31,353
+Turner dirigeait des soldats de la Marine.
+
+118
+00:07:31,596 --> 00:07:32,531
+Pas bien.
+
+119
+00:07:32,808 --> 00:07:34,941
+Il a perdu cinq soldats de la Marine dans son escouade dans Iraq.
+
+120
+00:07:35,187 --> 00:07:37,772
+Il les a dirigés comme il a pu, Agent Gibbs.
+
+121
+00:07:39,105 --> 00:07:40,820
+Il était un fichu bon Marine.
+
+122
+00:07:41,698 --> 00:07:43,382
+- Et intelligent, aussi, Boss...
+
+123
+00:07:43,868 --> 00:07:45,852
+C'est des mathématiques de niveau doctorat.
+
+124
+00:07:46,067 --> 00:07:49,373
+-Calcul théorique.
+-Il avait un niveau avancé dans les maths et la physique.
+
+125
+00:07:49,677 --> 00:07:51,181
+Il était très intelligent.
+
+126
+00:07:57,606 --> 00:07:59,892
+Vous soufflez dans mon oreille, M. Palmer.
+
+127
+00:07:59,986 --> 00:08:01,300
+Oh, désolé, Docteur.
+
+128
+00:08:01,527 --> 00:08:03,441
+Quelque chose a éveillé votre curiosité ?
+
+129
+00:08:03,698 --> 00:08:07,151
+Il semble que cette coupure soit trop propre pour être le résultat d'une
+chute.
+
+130
+00:08:07,286 --> 00:08:11,682
+Correcte. S'il a atterri sur le cou, ceci serait dentelé ici...
+
+131
+00:08:11,898 --> 00:08:14,750
+Mais ça ? Ceci est trop précis.
+
+132
+00:08:16,175 --> 00:08:19,091
+-Vous remarquez autre chose ?
+-Euh, il s'est fait battre.
+
+133
+00:08:19,225 --> 00:08:25,063
+Oui, les contusions autour des yeux, articulations sont éraflé...
+Mais ce qui a attiré mon attention est plus ça.
+
+134
+00:08:25,278 --> 00:08:30,662
+Cette coloration suggère qu'ils sont récents, infligé sur notre pauvre
+Marin juste avant sa mort.
+
+135
+00:08:30,946 --> 00:08:33,442
+Savons-nous ce qui les a causés ?
+Nous ne savons pas...encore
+
+136
+00:08:33,756 --> 00:08:38,562
+Ca me rappelle un comte anglais
+qui a été enlevé et étouffé.
+
+137
+00:08:38,846 --> 00:08:42,122
+- Tous les os de son corps été cassé
+- Que lui est-il arrivé ?
+
+138
+00:08:42,307 --> 00:08:44,410
+Bien, c'était sur une nuit de pleine lune...
+
+139
+00:08:44,445 --> 00:08:45,730
+Nous savons ce qui l’a tué ?
+
+140
+00:08:45,868 --> 00:08:50,911
+Le Sergent Turner a été impliqué dans une violente altercation
+dont le résultat est un cou brisé.
+
+141
+00:08:51,077 --> 00:08:52,511
+- Il a été assassiné.
+- Ouais.
+
+142
+00:08:52,947 --> 00:08:53,993
+Et ces marques ?
+
+143
+00:08:54,327 --> 00:08:55,830
+Certainement douloureuses,
+
+144
+00:08:56,011 --> 00:09:00,436
+Mais elles n'ont pas fait de dommages internes. Surtout à la surface.
+Tu penses à ce que je pense, Doc?
+
+145
+00:09:01,079 --> 00:09:02,525
+J’en ai bien peur, Jethro.
+
+146
+00:09:03,096 --> 00:09:04,837
+Appelle-moi quand tu auras trouvé.
+
+147
+00:09:07,949 --> 00:09:09,753
+Trouvé quoi, Docteur ?
+
+148
+00:09:09,905 --> 00:09:11,461
+Le Sergent Turner...
+
+149
+00:09:11,705 --> 00:09:14,622
+...a peut-être été torturé avant sa mort.
+
+150
+00:09:14,906 --> 00:09:16,202
+-Whoa!
+-Ouais.
+
+151
+00:09:17,076 --> 00:09:19,302
+Et qu’est-il arrivé au Comte anglais.
+
+152
+00:09:21,448 --> 00:09:23,282
+Quel Comte anglais?
+
+153
+00:09:25,007 --> 00:09:29,031
+Tu as dit que Turner était intelligent, McGee,
+en fait, tu aurais dû dire qu'il était brillant.
+
+154
+00:09:29,157 --> 00:09:31,353
+Ces équations sont difficiles!
+
+155
+00:09:31,476 --> 00:09:32,912
+C'est de l'homologie.
+
+156
+00:09:33,047 --> 00:09:34,640
+Mm, proche. Cohomologie.
+
+157
+00:09:34,796 --> 00:09:36,081
+Je pense que c'est de l'Homologie.
+
+158
+00:09:36,266 --> 00:09:40,751
+Non c'est de la cohomologie. J'ai fait mes études
+dans la théorie avancée des chaînes; donc je sais ce que je dis.
+
+159
+00:09:40,937 --> 00:09:44,973
+- Je vois que tu joue encore la carte MIT.
+- Non, je suis allé à l'école là-bas.
+
+160
+00:09:45,126 --> 00:09:47,590
+Et tu en parles...beaucoup.
+
+161
+00:09:48,807 --> 00:09:52,053
+Ah, je suis heureux de voir que vous n'avez pas besoin
+de la surveillance d'un adulte.
+
+162
+00:09:52,115 --> 00:09:53,771
+McGee m’embête encore.
+
+163
+00:09:54,427 --> 00:09:55,631
+Ne dis rien.
+
+164
+00:09:57,087 --> 00:09:59,073
+-Qu'avons-nous sur la scène de crime ?
+-Oh, um...
+
+165
+00:09:59,437 --> 00:10:01,413
+J’ai eu le rapport de toxicologie de Turner.
+
+166
+00:10:01,697 --> 00:10:04,311
+Son niveau d'alcool dans le sang était 0.07, pas saoul.
+
+167
+00:10:04,495 --> 00:10:05,881
+Pas sobre non plus.
+Quoi  d'autre ?
+
+168
+00:10:06,456 --> 00:10:09,412
+Il y avait du sang étranger trouvé sur sa figure
+et les articulations de ses doigts...
+
+169
+00:10:09,457 --> 00:10:10,312
+Ouais, et ?
+
+170
+00:10:10,658 --> 00:10:15,420
+Et un menu chinois de produits chimiques trouvé sur sa peau.
+Peinture sèche, térébenthine, agent de blanchissant.
+
+171
+00:10:15,555 --> 00:10:17,422
+C'est comme s’il avait
+fait la fête dans le placard du concierge.
+
+172
+00:10:17,946 --> 00:10:19,112
+Et le portable de Turner ?
+
+173
+00:10:19,668 --> 00:10:22,613
+J’ai sous-estimé la profondeur
+de ses capacités  mathématiques.
+
+174
+00:10:22,728 --> 00:10:28,111
+Je pensais qu'il se concentrait sur l'analyse numérique,
+mais il s'avère qu’il travaillait également aux faisceaux de fibres.
+
+175
+00:10:28,205 --> 00:10:29,531
+Je veux dire, du travail de longue haleine...
+
+176
+00:10:29,688 --> 00:10:32,090
+- Quelque chose a relié avec sa mort, McGee ?
+- Pas encore.
+
+177
+00:10:32,766 --> 00:10:36,941
+Um, je ne suis pas allé au MIT,
+mais je pense que j'ai trouvé quelque chose.
+
+178
+00:10:39,127 --> 00:10:43,403
+Turner avait une partition privée. C'est comme un coffre-fort
+dans le disque dur où il peut cacher des dossiers
+
+179
+00:10:43,455 --> 00:10:45,361
+... très sophistiqué.
+- Tu peux l'ouvrir ?
+
+180
+00:10:45,585 --> 00:10:48,593
+Ils ne m'appellent pas "Five Fingers Sciuto"pour rien.
+En fait, personne ne m’appelle comme ça.
+
+181
+00:10:48,777 --> 00:10:52,180
+- Mon surnom était en fait Vamperstein,
+mais je vraiment ne l'ai jamais aimé.
+-Ah, Abby...
+
+182
+00:10:53,498 --> 00:10:55,891
+Oui. Trop de caféine. Désolé.
+
+183
+00:10:56,358 --> 00:10:57,912
+Ça prendra juste une seconde...
+
+184
+00:10:58,887 --> 00:10:59,602
+Et...
+
+185
+00:10:59,788 --> 00:11:01,532
+Nous... sommes......
+
+186
+00:11:02,655 --> 00:11:03,371
+...entré.
+
+187
+00:11:05,097 --> 00:11:06,712
+C'est un e-mail crypté.
+
+188
+00:11:07,108 --> 00:11:08,133
+Il l'a reçu vendredi.
+
+189
+00:11:09,257 --> 00:11:11,213
+Le même jour où il a été tué.
+
+190
+00:11:21,455 --> 00:11:23,463
+Un, deux, trois!
+
+191
+00:11:23,618 --> 00:11:24,193
+C’est ça!
+
+192
+00:11:24,678 --> 00:11:26,930
+Un, deux, trois!
+
+193
+00:11:27,455 --> 00:11:31,090
+Peut-être je devrais vous donner une pause,
+vous savez... parce que vous êtes des universitaires.
+
+194
+00:11:31,768 --> 00:11:32,870
+Quand penses-tu, Simmons ?
+
+195
+00:11:33,095 --> 00:11:33,961
+Non, Sergent instructeur ?
+
+196
+00:11:34,087 --> 00:11:35,200
+Rester droite!
+
+197
+00:11:35,628 --> 00:11:36,762
+Pour moi, vous êtes des soldats!
+
+198
+00:11:37,078 --> 00:11:38,210
+À peine! Compris ?
+
+199
+00:11:38,395 --> 00:11:39,601
+Oui, Sergent instructeur!
+
+200
+00:11:39,847 --> 00:11:44,723
+Vous faites une acrobatie comme cela avec moi,
+et vous pouvez tous deux dire au revoir à vos bourses!
+
+201
+00:11:45,296 --> 00:11:45,840
+Allez !
+
+202
+00:11:46,597 --> 00:11:47,173
+Dégagez !
+
+203
+00:11:48,168 --> 00:11:49,313
+Sergent instructeur Leeka.
+
+204
+00:11:50,788 --> 00:11:53,160
+Agents spéciaux Gibbs et Todd-- NCIS.
+
+205
+00:11:54,318 --> 00:11:55,790
+Désolé de vous faire entendre ça.
+
+206
+00:11:56,186 --> 00:11:57,051
+Qu’ont-elles faite ?
+
+207
+00:11:57,476 --> 00:11:58,381
+Vous avez vu leurs cheveux, madame ?
+
+208
+00:12:00,015 --> 00:12:01,273
+Oh...pas règlementaire ?
+
+209
+00:12:02,368 --> 00:12:02,660
+Non.
+
+210
+00:12:03,837 --> 00:12:04,832
+Violet et orange ?
+
+211
+00:12:05,046 --> 00:12:05,442
+Oh.
+
+212
+00:12:06,166 --> 00:12:08,360
+Parfois je me sens comme un prof de crèche.
+
+213
+00:12:08,907 --> 00:12:12,181
+Oh, ouais... Je connais ce sentiment.
+
+214
+00:12:12,378 --> 00:12:15,382
+Le Capitaine Lemay m’a dit que
+vous vouliez me parler du Sergent Turner.
+
+215
+00:12:16,256 --> 00:12:19,722
+-Quel genre de soldat était-il, Gunny ?
+-Il a mis la honte à plupart de ces gosses, monsieur.
+
+216
+00:12:20,126 --> 00:12:21,742
+On en aurait fait un putain d'officier de Marine.
+
+217
+00:12:22,348 --> 00:12:25,020
+Votre capitaine a dit qu'il avait des problèmes
+avec des opposants à la guerre ?
+
+218
+00:12:25,158 --> 00:12:26,620
+Eh, vous pouvez dire ça, madame.
+
+219
+00:12:27,116 --> 00:12:28,922
+Un d'eux a craché sur son uniforme.
+
+220
+00:12:29,045 --> 00:12:30,452
+Turner l'a remis en place.
+
+221
+00:12:30,876 --> 00:12:33,742
+Bien, pensez-vous que ce gars était du genre à se venger ?
+
+222
+00:12:35,046 --> 00:12:36,570
+Vous voulais dire que Turner a été assassiné ?
+
+223
+00:12:37,218 --> 00:12:39,071
+- Nous le disons.
+- Je veux savoir pourquoi...
+
+224
+00:12:39,898 --> 00:12:40,881
+- Simmons!
+- Monsieur!
+
+225
+00:12:41,586 --> 00:12:43,570
+- Allez me chercher le soldat Blake! Vite!
+- Oui, Gunny!
+
+226
+00:12:43,728 --> 00:12:45,012
+Blake est un quartier-maître.
+
+227
+00:12:45,417 --> 00:12:49,961
+Il était toujours avec Turner ; il est également celui qui l'a emmené
+loin du protestataire avant les flics du campus soit arrivés.
+
+228
+00:12:50,116 --> 00:12:54,332
+- Avec qui d'autre il traînait?
+- Blake le sera. Ce sont les deux seuls enrôlés dans cette unité.
+
+229
+00:12:54,576 --> 00:12:55,842
+Excusez-moi, Sergent Instructeur.
+
+230
+00:12:56,177 --> 00:12:59,252
+- Quoi, Simmons?!
+- Le matelot Blake ne s'est pas présenté au rapport, ce matin.
+
+231
+00:13:00,217 --> 00:13:02,981
+Blake n'a jamais été absent,
+pas depuis que j'ai commencé ici.
+
+232
+00:13:03,385 --> 00:13:05,101
+Vous me dites que le quartier-maître est manquant??
+
+233
+00:13:05,288 --> 00:13:07,142
+Non, Je vous dis qu'il l'est, Agent Gibbs.
+
+234
+00:13:07,786 --> 00:13:09,610
+Personne n’a vu Blake depuis vendredi soir.
+
+235
+00:13:15,416 --> 00:13:17,942
+Oh, salut, Mesdemoiselles...
+Ah, Dieu, que l'université me manque.
+
+236
+00:13:18,728 --> 00:13:19,710
+Tu n'as pas trouvé la chambre encore, bizut ?
+
+237
+00:13:19,876 --> 00:13:21,560
+-C'est juste ici.
+-Ouais. Blake n'est pas là.
+
+238
+00:13:23,005 --> 00:13:24,721
+Tu ne m'as jamais dit que tu avais un frère.
+
+239
+00:13:25,476 --> 00:13:26,651
+Une idée de quand il revient ?
+
+240
+00:13:27,045 --> 00:13:28,423
+Je ne l'ai pas vu depuis pas mal de jours.
+
+241
+00:13:39,075 --> 00:13:41,303
+Les mecs, vous n'êtes vraiment pas
+des flics du campus.
+
+242
+00:13:41,785 --> 00:13:44,733
+-Je vote pour le FBI.
+-Faux. NCIS.
+
+243
+00:13:44,796 --> 00:13:46,901
+-C'est les initiales de...
+-Ouais, je sais ce que cela veut dire.
+
+244
+00:13:47,515 --> 00:13:48,921
+Vous êtes ici à cause de Turner, c'est ça ?
+
+245
+00:13:49,776 --> 00:13:50,641
+Le connaissez-vous ?
+
+246
+00:13:50,885 --> 00:13:52,900
+J'étais dans son unité CEORM.
+[Corps d'Entraînement des Officiers de Réserve de la Marine]
+
+247
+00:13:53,156 --> 00:13:56,193
+-Oh, wow! Ce sont les nouvelles stations d'accueil..
+-Ouais, ouais. Il vient de l'avoir.
+
+248
+00:13:56,376 --> 00:13:59,620
+Pour le nouveau pocket Axxum X-5. C'est cool, non ?
+
+249
+00:13:59,866 --> 00:14:01,640
+Chouette!
+
+250
+00:14:03,228 --> 00:14:07,591
+Vous ne devriez pas mettre des gants en plastiques?
+Vous compromettez complètement l'intégrité de la scène de crime.
+
+251
+00:14:08,585 --> 00:14:10,423
+Ce n'est pas une scène de crime.
+
+252
+00:14:10,707 --> 00:14:12,023
+C'est une chambre.
+
+253
+00:14:12,628 --> 00:14:17,950
+- Vous pensez vraiment que Finnegan a quelque chose à voir 
+avec la mort de Turner. Pourquoi seriez vous là sinon?
+- Tu nous as eus, Sherlock.
+
+254
+00:14:18,177 --> 00:14:22,631
+Peut-être ils étaient associés dans une sorte d'affaires
+Illicites... comme, du trafic de drogue sur le campus.
+
+255
+00:14:25,178 --> 00:14:28,092
+- Bien, l'ont-ils fait?
+- Non. J’émets des hypothèses.
+
+256
+00:14:30,536 --> 00:14:31,802
+Avez-vous un manda t?
+
+257
+00:14:31,985 --> 00:14:36,981
+Parce que si vous en n'avez pas, rien de ce que vous trouverez ici 
+sera recevable devant une court. À moins bien sur,
+que vous avez une raison valable.
+
+258
+00:14:37,107 --> 00:14:39,362
+C'est exactement ce que nous avons.
+
+259
+00:14:39,485 --> 00:14:42,251
+- Je ne sais pas. Juste parce qu'il n'est pas chez lui ?
+- Petite fille, quel est ton nom ?
+
+260
+00:14:42,808 --> 00:14:45,271
+-Simon Frankel.
+-Ok. Ecoute, Urkel,..
+
+261
+00:14:45,437 --> 00:14:52,051
+...On est ici pour bosser, alors pourquoi ne pas retourner dans ta chambre, 
+jouer à "Dungeon Master", et laisser les Pro faire leur boulot, ok?
+
+262
+00:14:52,218 --> 00:14:53,382
+J'essaie juste d'aider.
+
+263
+00:14:53,575 --> 00:14:54,623
+Tu veux nous être utile ?
+
+264
+00:14:55,315 --> 00:14:56,462
+Ouais. Certainement.
+
+265
+00:14:56,648 --> 00:14:58,301
+Ok. Mets tes mains en l'air.
+
+266
+00:14:58,937 --> 00:15:00,501
+Ne t'inquiète pas. Ecarte tes jambes.
+
+267
+00:15:00,807 --> 00:15:01,981
+Ok, Tire la langue.
+
+268
+00:15:02,348 --> 00:15:04,352
+Tu es la gargouille qui garde cette porte.
+
+269
+00:15:08,137 --> 00:15:11,201
+-C'était sympa.
+-Mais ils ne nous pas payent pour être sympa, McGee.
+
+270
+00:15:12,168 --> 00:15:12,612
+Hey!
+
+271
+00:15:13,256 --> 00:15:14,572
+Mets des gants.
+
+272
+00:15:17,207 --> 00:15:19,583
+Il y a vraiment un truc qui ne va pas avec ce type.
+
+273
+00:15:19,767 --> 00:15:20,360
+Quoi ?
+
+274
+00:15:20,726 --> 00:15:22,292
+Il écouter de la musique folk.
+
+275
+00:15:27,146 --> 00:15:29,910
+Il y a autre chose qui ne va pas aussi avec ce type, Tony.
+
+276
+00:15:32,456 --> 00:15:33,540
+Un tissu rempli de sang.
+
+277
+00:15:34,657 --> 00:15:35,671
+Jolie boulot, McGee.
+
+278
+00:15:38,245 --> 00:15:39,811
+Il y a beaucoup de sang perdu.
+
+279
+00:15:40,176 --> 00:15:40,952
+Blessé ?
+
+280
+00:15:41,528 --> 00:15:43,091
+Ou mort ?
+
+281
+00:15:45,208 --> 00:15:47,733
+D'un coté il y a un message sur le portable de Turner.
+
+282
+00:15:48,036 --> 00:15:50,230
+De l'autre le message a aussi été trouvé sur celui de Blake.
+
+283
+00:15:50,816 --> 00:15:52,260
+Il l'a reçu samedi, boss.
+
+284
+00:15:52,387 --> 00:15:54,150
+-Qui les a envoyés ?
+-McGee travail dessus.
+
+285
+00:15:54,265 --> 00:15:55,220
+Que savons-nous d'autre ?
+
+286
+00:15:55,275 --> 00:15:58,073
+Personne n'a entendu parler de Blake
+depuis... Vendredi.
+
+287
+00:15:58,197 --> 00:16:01,223
+Et Abby dit que le sang de la chambre 
+correspond à celui de Blake.
+
+288
+00:16:01,308 --> 00:16:02,242
+Deux enrôlés:
+
+289
+00:16:02,565 --> 00:16:04,090
+Un disparu, un mort...
+
+290
+00:16:04,495 --> 00:16:05,602
+...Qu'ont-ils en commun??
+
+291
+00:16:05,738 --> 00:16:08,320
+Le ressentiment de la "Coalition Alliance Team for Peace", Gibbs.
+
+292
+00:16:08,345 --> 00:16:10,420
+"Cat-Pee"[CATP] [pipi de chat].
+Pas une abréviation très attrayante.
+
+293
+00:16:10,515 --> 00:16:13,550
+Ils sont dirigé par Waverly leur chef, Hunter Huxley.
+
+294
+00:16:13,645 --> 00:16:17,480
+Il a été arrêté 5 fois pour avoir dérangé l'ordre public.
+Il milite pour un parti politique scientifique...
+
+295
+00:16:17,608 --> 00:16:23,231
+minorant les subversions antigouvernementales en les collants à l'Homme.
+J'suis sorti avec une fille comme ça à la fac, Boss.
+
+296
+00:16:23,367 --> 00:16:26,281
+Ce n'était pas mal jusqu'à ce qu'elle arrête 
+de se raser les aisselles et sa... 
+
+297
+00:16:27,716 --> 00:16:29,963
+Elle possède une concession de voitures maintenant,
+au cas où tu rechercherais une bonne affaire.
+
+298
+00:16:30,135 --> 00:16:36,873
+Huxley mène des protestations pacifistes sur le campus, et le
+mois dernier, à une démonstration de paix devant le bâtiment du
+CEORM, nous savons...
+
+299
+00:16:36,967 --> 00:16:40,091
+...qu'il a commencé à cracher sur des Marines
+- Et le Sergent Turner lui est tombé dessus.
+
+300
+00:16:40,256 --> 00:16:44,192
+Après quoi, Huxley a fait de Turner sa cible.
+Et le vise personnellement régulièrement.
+
+301
+00:16:44,267 --> 00:16:47,730
+- Vous pensez qu'il pourrait pu avoir franchir le pas ?
+- Je pense que toi et Kate devraient aller le découvrir.
+
+302
+00:16:49,525 --> 00:16:53,272
+Hé, Fronce les sourcils, jeune fille. 
+On retourne à l'université.
+
+303
+00:16:53,357 --> 00:16:55,680
+Tony, Ton problème c'est que tu ne l'as jamais quitté.
+
+304
+00:16:57,538 --> 00:17:01,052
+C'est comme si j'ai des flash-back 
+ou quelque chose comme cela.
+
+305
+00:17:01,146 --> 00:17:04,852
+Je suis étonné que tu te rappelle la fac. 
+Tu as passé la majeure partie du temps à vomir dans un urinoir.
+
+306
+00:17:05,028 --> 00:17:08,940
+Bien, je suis assez sûr tu as passé tes samedi soirs seules,
+dans ton pyjama, à regarder des vidéos de Julia Roberts.
+
+307
+00:17:09,066 --> 00:17:10,980
+Oh, tu ne sais pas ce que j'ai fais à l'université.
+
+308
+00:17:11,066 --> 00:17:13,021
+Mm, mais je sais ce que tu as fais de tes Springs Break.
+
+309
+00:17:14,087 --> 00:17:16,761
+Je le savais! Tu as toujours la photo 
+de miss T-shirt mouillée, n'est-ce pas?
+
+310
+00:17:16,838 --> 00:17:18,700
+-Je ne l'ai plus.
+-Tu jures ?
+
+311
+00:17:19,486 --> 00:17:20,901
+Bien, je n'en ai pas sur moi.
+
+312
+00:17:21,126 --> 00:17:23,072
+- A-K! Montre le chemin!
+- Ouais.
+
+313
+00:17:23,305 --> 00:17:24,742
+Mon dieu, tu es pathétique.
+
+314
+00:17:24,917 --> 00:17:27,023
+Réveille-toi, DiNozzo. C'est fini.
+
+315
+00:17:27,157 --> 00:17:31,270
+- Qu'est-ce qui est fini?
+- Tes glorieuses années. Elles t'ont dépassé. 
+Il est temps de grandir un peu.
+
+316
+00:17:31,378 --> 00:17:33,401
+-Aie, Kate. Aie.
+-Oh...
+
+317
+00:17:34,256 --> 00:17:36,160
+Voici notre bâtiment d'anarchiste...
+
+318
+00:17:36,965 --> 00:17:43,561
+...est la marionnette de l'Amérique! C'est un acte
+Immoral ! P lus----aucunes--------guerre
+
+319
+00:17:43,646 --> 00:17:45,823
+Plus de guerre!
+
+320
+00:17:47,907 --> 00:17:50,283
+Apprenez la vérité sur cette guerre!
+
+321
+00:17:50,386 --> 00:17:54,371
+Votre gouvernement ne vous fait pas confiance, 
+Ne faites pas confiance à votre gouvernement !
+Hey, mec, Aides nous à faire perdre "Big Brother"?
+
+322
+00:17:54,545 --> 00:17:56,353
+Nous travaillons un peu pour lui.
+
+323
+00:17:56,498 --> 00:17:59,910
+-Agents Todd et DiNozzo, NCIS.
+-J'ai une autorisation pour être ici.
+
+324
+00:18:00,017 --> 00:18:03,131
+Je suis sur que vous l'avez. 
+Ce n'est par pour cela que nous somme là, Mr. Huxley.
+
+325
+00:18:04,315 --> 00:18:05,882
+Sergent Joseph Turner.
+
+326
+00:18:06,996 --> 00:18:09,500
+S'il me met la pression alors je lui mets la pression aussi.
+
+327
+00:18:09,946 --> 00:18:11,750
+Ce fasciste m'a presque cassé la mâchoire.
+
+328
+00:18:12,428 --> 00:18:13,800
+Je retire les charges.
+
+329
+00:18:14,348 --> 00:18:15,541
+Il est mort.
+
+330
+00:18:16,256 --> 00:18:17,050
+Quoi ?!
+
+331
+00:18:17,555 --> 00:18:19,830
+Son corps a été retrouvé sur le campus samedi soir.
+
+332
+00:18:20,075 --> 00:18:24,233
+-Vous ne saviez pas ?
+-J'ai, je n'étais pas là. Je viens juste de rentrer aujourd'hui.
+
+333
+00:18:24,435 --> 00:18:25,573
+C'est pratique.
+
+334
+00:18:25,657 --> 00:18:27,352
+Attendez une seconde. 
+Vous pensez que c'est moi qui l'ai fait ?
+
+335
+00:18:27,497 --> 00:18:31,012
+-Bien, Vous n'étiez pas vraiment potes.
+- Bien, Ouais, parce qu'il a essayé de me passer à tabac.
+
+336
+00:18:31,068 --> 00:18:32,292
+Après une altercation avec lui.
+
+337
+00:18:32,736 --> 00:18:35,501
+Vous réalisez que je suis 
+un activiste pour la paix, d'accord ?
+
+338
+00:18:35,947 --> 00:18:37,221
+Contre la violence.
+
+339
+00:18:38,165 --> 00:18:41,180
+Peut-être que vous ne savez pas, aussi ? 
+Quartier-maître Finnegan Blake ?
+
+340
+00:18:41,278 --> 00:18:42,792
+C'était un matelot.
+
+341
+00:18:42,976 --> 00:18:44,513
+Disparu depuis vendredi.
+
+342
+00:18:47,566 --> 00:18:50,341
+Je vois! C'est comme cela que ça se passe, huh?
+
+343
+00:18:50,486 --> 00:18:54,071
+Ils envoient leur type de la Gestapo pour essayer
+de faire cesser le mouvement.
+
+344
+00:18:55,147 --> 00:18:56,880
+Vous avez prévu de m'arrêter?
+
+345
+00:18:57,197 --> 00:18:59,003
+- Cette idée m'a effleuré l'esprit.
+- Faites-le.
+
+346
+00:18:59,546 --> 00:19:02,650
+Je n'ai pas peur de vous,
+Je n'ai pas peur de vos méthodes.
+
+347
+00:19:03,165 --> 00:19:05,240
+Vous devriez vraiment rencontrer notre patron.
+Il vous apprécierait.
+
+348
+00:19:05,348 --> 00:19:09,031
+Et vous devriez vraiment rencontrer mes avocats. 
+Ils vous adoreraient.
+
+349
+00:19:10,917 --> 00:19:13,430
+Les associations d'étudiants sont hallucinantes.
+
+350
+00:19:13,606 --> 00:19:17,580
+- Savais tu qu'il y a sept ateliers 
+en ligne d'auteur de polar au campus?
+- Non, je ne savais pas.
+
+351
+00:19:17,757 --> 00:19:21,040
+Mais je suis sûr que tu vas me dire 
+ce que ça a à voir avec notre soldat mort.
+
+352
+00:19:21,326 --> 00:19:24,980
+J'ai pensé que celui qui est impliqué dans la mort de Turner
+pourrait avoir un compte Web d'étudiant.
+
+353
+00:19:25,028 --> 00:19:29,263
+...ainsi j'ai piraté des serveurs, recherchant n'importe quelle
+mention de Turner ou de Blake.
+- Ok. Des résultats ?
+
+354
+00:19:29,398 --> 00:19:31,102
+Non. Les serveurs sont vraiment clean.
+
+355
+00:19:33,638 --> 00:19:34,710
+Qu'est ce que c'est ?
+
+356
+00:19:35,657 --> 00:19:37,891
+Des personnes connectées sur l'IM du Sergent Turner.
+
+357
+00:19:38,236 --> 00:19:41,353
+-C'est un "Instant Message," Gibbs.
+-C'est comme un e-mail, mais en direct.
+
+358
+00:19:42,998 --> 00:19:44,700
+Met sur le plasma.
+
+359
+00:19:46,155 --> 00:19:48,631
+"Bonjour, NCIS."
+
+360
+00:19:48,836 --> 00:19:50,911
+Il n'est pas dans la liste des contacts de Turner.
+
+361
+00:19:51,087 --> 00:19:52,392
+Il utilise probablement un alias.
+
+362
+00:19:52,436 --> 00:19:53,631
+Peux-tu le localiser, McGee ?
+
+363
+00:19:53,736 --> 00:19:55,142
+Si nous le gardons en ligne.
+
+364
+00:19:55,265 --> 00:19:57,041
+- Abby, parle-lui.
+- Ok.
+
+365
+00:19:58,475 --> 00:20:01,053
+Salut, Voix grinçante.
+
+366
+00:20:02,025 --> 00:20:05,023
+"Vous ne cherchez pas au bons endroits"
+
+367
+00:20:05,207 --> 00:20:07,963
+Il a divisé sa connexion à travers 
+une demi-douzaine de serveurs.
+
+368
+00:20:08,015 --> 00:20:11,362
+Il passe par la bibliothèque de Baltimore
+puis par un serveur public à Buffalo...
+
+369
+00:20:11,446 --> 00:20:13,341
+C'est ça-- Attrape-le. Attrape-le, McGee.
+
+370
+00:20:13,466 --> 00:20:16,880
+Où devrions-nous chercher ?
+
+371
+00:20:18,505 --> 00:20:19,281
+Plus profondément.
+
+372
+00:20:19,608 --> 00:20:21,482
+Oh, allez. Comme cela peut nous aider ?
+
+373
+00:20:21,745 --> 00:20:24,302
+Je l'ai repéré sur le campus de l'Université de Waverly.
+
+374
+00:20:24,528 --> 00:20:25,410
+Ou sur le campus ?
+
+375
+00:20:25,705 --> 00:20:26,731
+Par ici.
+
+376
+00:20:26,797 --> 00:20:28,632
+Regardez sous la surface.
+
+377
+00:20:28,847 --> 00:20:30,983
+Oh, c’est un indice vraiment pourris
+
+378
+00:20:31,285 --> 00:20:34,250
+Quand vous dîtes "sous la surface",
+
+379
+00:20:34,457 --> 00:20:38,413
+Parlez-vous au sens littéral or métaphorique ?
+
+380
+00:20:39,318 --> 00:20:40,592
+J'essaie juste de clarifier cela.
+
+381
+00:20:40,856 --> 00:20:42,432
+"Ils sont partout"
+
+382
+00:20:42,706 --> 00:20:47,231
+Ok, je l'ai repéré sur un quartier. A droite sur le campus. Juste une seconde...
+
+383
+00:20:47,677 --> 00:20:48,701
+Au revoir.
+
+384
+00:20:49,687 --> 00:20:50,861
+Je l'ai, boss!
+
+385
+00:20:52,065 --> 00:20:53,202
+Ouais.
+
+386
+00:20:55,256 --> 00:20:56,823
+Tu es sur de toi ?
+
+387
+00:20:56,968 --> 00:21:01,322
+J'ai pu trianguler la connexion aux serveurs de
+campus, et alors j'ai lancé un traçage...
+
+388
+00:21:01,347 --> 00:21:03,530
+Réponds seulement à la question, McGee.
+
+389
+00:21:03,638 --> 00:21:05,281
+Oui. J'en suis sûr, patron.
+
+390
+00:21:06,066 --> 00:21:08,573
+Allons-y. Kate, couvre l'arrière.
+
+391
+00:21:15,236 --> 00:21:17,152
+Non, non ! Stop !
+
+392
+00:21:18,966 --> 00:21:21,773
+Agents fédéraux ! Ne bougez pas !
+
+393
+00:21:29,826 --> 00:21:32,540
+Je vais tuer McGee.
+
+394
+00:21:33,247 --> 00:21:35,361
+On a la situation en main, Kate !
+
+395
+00:21:44,975 --> 00:21:46,983
+Alors, Gibbs m'en veux toujours ?
+
+396
+00:21:47,487 --> 00:21:48,892
+A propos de quoi, Bizut ?
+
+397
+00:21:49,268 --> 00:21:51,140
+Le marine mort sur le campus ?
+
+398
+00:21:51,416 --> 00:21:52,680
+Le quartier-maître disparu ?
+
+399
+00:21:53,187 --> 00:21:57,073
+Le hacker qui pourrait être membre
+d'un mouvement radical pour la paix ?
+
+400
+00:21:57,285 --> 00:21:59,221
+Rien de tout cela n'est de ta faute...
+
+401
+00:21:59,567 --> 00:22:00,440
+... pas vraiment.
+
+402
+00:22:00,707 --> 00:22:02,821
+Mais envoyer Gibbs au milieu d’un pyjama parti ?
+
+403
+00:22:03,327 --> 00:22:04,490
+Il va te tuer.
+
+404
+00:22:04,936 --> 00:22:05,633
+Hé !
+
+405
+00:22:07,247 --> 00:22:08,822
+Je veux des réponses.
+
+406
+00:22:11,625 --> 00:22:12,502
+Où est Abby ?
+
+407
+00:22:14,045 --> 00:22:16,653
+Elle travaille dans le garage des pièces à convictions, patron.
+
+408
+00:22:20,758 --> 00:22:23,873
+Elle travaille dans le garage des pièces à convictions, patron.
+
+409
+00:22:24,288 --> 00:22:25,791
+Quelque chose sur le hacker ?
+
+410
+00:22:29,317 --> 00:22:32,103
+Hum, il avait une connexion sans fil.
+
+411
+00:22:32,337 --> 00:22:35,521
+La maison que vous avez eue était équipée en WiFi.
+
+412
+00:22:35,546 --> 00:22:37,761
+Il était sûrement installé quelque part dans la rue.
+
+413
+00:22:37,918 --> 00:22:39,552
+Mais je travaille à le localiser en ce moment.
+
+414
+00:22:40,726 --> 00:22:42,271
+Dites à Abby que je la veux.
+
+415
+00:22:42,438 --> 00:22:44,580
+Oh, Gibbs, Je ne savais pas!
+
+416
+00:22:46,637 --> 00:22:48,682
+Ducky m'a demandé de l'aider à trouver d'où viennent les marques.
+
+417
+00:22:49,225 --> 00:22:52,503
+Je pense que je vais commencer par marteau "Ball Peen".
+Je ne sais pas pourquoi. C’est juste que j'aime la façon dont ça sonne...
+
+418
+00:22:52,707 --> 00:22:54,313
+... ball peen, ball peen, ball peen, ball, peen, ball...
+
+419
+00:22:54,397 --> 00:22:55,151
+Quoi d'autre ?
+
+420
+00:22:55,247 --> 00:22:58,061
+Humm, ensuite probablement par une matraque électrique, 
+puis une bêche de jardin.
+
+421
+00:22:58,568 --> 00:23:00,373
+Et quelqu'un est vraiment de très mauvaise humeur.
+
+422
+00:23:03,386 --> 00:23:07,241
+Passer la soirée dans une pièce pleine de femmes
+qui hurlent a tendance à me faire cet effet.
+
+423
+00:23:07,615 --> 00:23:08,981
+Et bien, voilà qui devrait te rendre le sourire.
+
+424
+00:23:09,467 --> 00:23:12,611
+J'ai les résultats d'analyse du sang
+trouvé sur le corps de Turner.
+
+425
+00:23:12,918 --> 00:23:14,891
+C'est celui du quartier-maître disparu.
+
+426
+00:23:15,098 --> 00:23:16,032
+Blake ? Tu plaisantes.
+
+427
+00:23:16,307 --> 00:23:18,651
+J'ai aussi analysé le torchon ensanglanté
+qui vient de la maison de Blake.
+
+428
+00:23:18,866 --> 00:23:20,971
+Son sang surtout, et un peu du sang de quelqu'un d'autre.
+
+429
+00:23:21,105 --> 00:23:22,181
+Du Sergent Turner ?
+
+430
+00:23:22,318 --> 00:23:22,680
+Bingo.
+
+431
+00:23:22,888 --> 00:23:24,862
+C'était facile. Blake et Turner se sont battus.
+
+432
+00:23:25,036 --> 00:23:27,141
+L'un est mort et l'autre court les rues.
+
+433
+00:23:27,287 --> 00:23:30,063
+Ou ils ont été tués tous les deux 
+au même endroit, Kate.
+
+434
+00:23:33,126 --> 00:23:35,543
+C'est le hacker. Il nous envoie
+un nouveau message instantané.
+
+435
+00:23:36,188 --> 00:23:39,830
+"NCIS, si vous voulez la vérité,..."
+
+436
+00:23:40,017 --> 00:23:44,573
+"... soyez à "Unity Quad", à 10:00 aujourd'hui."
+
+437
+00:23:45,657 --> 00:23:48,670
+- Il est quelque part sur le campus en ce moment.
+- Tony, Kate, avec moi.
+
+438
+00:23:48,726 --> 00:23:51,171
+Je veux une localisation exacte cette fois.
+
+439
+00:23:53,005 --> 00:23:56,693
+- Tu es sûr que tu peux le faire ?
+- Affirmatif. Je crois.
+
+440
+00:23:58,836 --> 00:23:59,671
+Excusez-moi.
+
+441
+00:24:00,585 --> 00:24:03,130
+Comment être sûrs que Voix 
+d'Outre-tombe est là, McGee ?
+
+442
+00:24:03,275 --> 00:24:06,521
+Parce que, Tony, le réseau WiFi du campus
+est fait de noeuds interconnectés,
+
+443
+00:24:06,568 --> 00:24:08,702
+... et le signal de notre hacker vient du noeud n°5.
+
+444
+00:24:08,738 --> 00:24:09,940
+Ah ouais ? Ce qui veut dire ?
+
+445
+00:24:09,995 --> 00:24:10,443
+Bonjour.
+
+446
+00:24:10,465 --> 00:24:15,322
+Ça veut dire qu'il est quelque part dans la cour en ce moment.
+Alors cherche quelqu'un avec un portable ou un appareil sans fil.
+
+447
+00:24:15,395 --> 00:24:17,000
+Ça ne m'aide pas beaucoup, Bizut.
+
+448
+00:24:17,076 --> 00:24:18,183
+Moins de bavardages.
+
+449
+00:24:18,415 --> 00:24:21,331
+Ouvrez les yeux. Trouvez-le... ou la.
+
+450
+00:24:25,096 --> 00:24:26,603
+Patron, à 01h00.
+
+451
+00:24:26,746 --> 00:24:30,700
+Chapeau rouge, lunettes noires, 
+semble vraiment suspect.
+
+452
+00:24:36,228 --> 00:24:37,763
+C'est ce dont je parle.
+
+453
+00:24:37,938 --> 00:24:39,742
+Tu n'en as pas assez chez toi ?
+
+454
+00:24:40,315 --> 00:24:42,153
+Ma connexion Internet est en panne.
+
+455
+00:24:42,295 --> 00:24:43,263
+Ouais.
+
+456
+00:24:44,415 --> 00:24:45,480
+Il est 10:45.
+
+457
+00:24:45,717 --> 00:24:47,093
+Le hacker joue encore avec nous.
+
+458
+00:24:47,265 --> 00:24:50,682
+Non, Kate, je te dis qu'il est là.
+Cherche quelque chose d'anormal.
+
+459
+00:24:51,356 --> 00:24:53,762
+Tu devras être plus précis, McGee.
+
+460
+00:24:53,947 --> 00:24:55,182
+Attention ! Poussez-vous !
+
+461
+00:24:55,358 --> 00:24:57,063
+- Hors du chemin !
+- Hé, regarde ça !
+
+462
+00:25:01,166 --> 00:25:02,163
+Bougez-vous !
+
+463
+00:25:02,366 --> 00:25:03,972
+Je dirais que c'est anormal.
+
+464
+00:25:05,556 --> 00:25:07,901
+On a deux suspects, l'un avec une cagoule noire.
+
+465
+00:25:08,078 --> 00:25:09,611
+Je me déplace pour les intercepter.
+
+466
+00:25:10,088 --> 00:25:11,691
+Ils sortent du tunnel.
+
+467
+00:25:13,077 --> 00:25:13,911
+D'accord.
+
+468
+00:25:14,828 --> 00:25:16,762
+Hé, poussez-vous du chemin !
+Bougez ! Poussez-vous du chemin !
+
+469
+00:25:21,835 --> 00:25:23,303
+Libérez le passage ! Hors de mon chemin!
+
+470
+00:25:27,608 --> 00:25:28,682
+Tu es mort !
+
+471
+00:25:29,857 --> 00:25:30,623
+Il a un flingue !
+
+472
+00:25:30,728 --> 00:25:32,803
+NCIS ! Agents fédéraux !
+Lâchez votre arme !
+
+473
+00:25:32,946 --> 00:25:33,810
+Posez votre arme au sol !
+
+474
+00:25:33,927 --> 00:25:35,490
+- Lâchez votre arme !
+- Baissez vos armes !
+
+475
+00:25:40,906 --> 00:25:42,411
+Qu'est-ce qui se passe ?
+
+476
+00:25:43,928 --> 00:25:45,772
+Ferme-la, imbécile.
+
+477
+00:25:47,818 --> 00:25:48,622
+Ça fait mal ?
+
+478
+00:25:48,995 --> 00:25:49,563
+Ouais.
+
+479
+00:25:49,768 --> 00:25:50,831
+Ça fait mal juste là ?
+
+480
+00:25:51,107 --> 00:25:52,011
+Ouais.
+
+481
+00:25:54,016 --> 00:25:56,790
+"Kyle Zolin." C'est un matelot.
+
+482
+00:25:58,068 --> 00:25:58,772
+Ouais. Gibbs.
+
+483
+00:25:59,178 --> 00:26:00,751
+Gibbs, Gibbs, j'ai trouvé.
+
+484
+00:26:01,087 --> 00:26:03,462
+- Je sais ce qui a causé les marques sur le corps de Turner.
+- Moi aussi.
+
+485
+00:26:03,825 --> 00:26:05,373
+Un pistolet de paint-ball.
+
+486
+00:26:09,305 --> 00:26:12,050
+Vraiment, vraiment, je déteste quand il fait ça.
+
+487
+00:26:32,035 --> 00:26:32,872
+Oups.
+
+488
+00:26:33,748 --> 00:26:36,050
+Vous croyez vraiment mériter de devenir officiers ?!
+
+489
+00:26:36,767 --> 00:26:37,832
+Vraiment ?!
+
+490
+00:26:38,205 --> 00:26:40,143
+Jouer à des jeux illégaux sur le campus ?!
+
+491
+00:26:40,736 --> 00:26:44,011
+- Vous avez de la chance que je ne vous arrache pas 
+la tête pour la piétiner !
+- L'agent Gibbs prend la relève, Gunny.
+
+492
+00:26:44,757 --> 00:26:45,461
+Oui, monsieur.
+
+493
+00:26:47,745 --> 00:26:50,560
+Messieurs, j'attends de vous des réponses 
+honnêtes à ses questions.
+
+494
+00:26:55,306 --> 00:26:55,800
+Asseyez-vous.
+
+495
+00:27:03,757 --> 00:27:05,163
+Où est Finnegan Blake ?
+
+496
+00:27:07,247 --> 00:27:08,283
+Nous ne savons pas, monsieur.
+
+497
+00:27:12,558 --> 00:27:15,402
+Combien y a-t-il de matelots 
+dans votre petit club de paint-ball ?
+
+498
+00:27:16,518 --> 00:27:18,950
+Ah... oui, c'est vrai.
+
+499
+00:27:19,875 --> 00:27:23,292
+Vous les livrez et ils seront probablement
+virés de l'école comme vous.
+
+500
+00:27:24,706 --> 00:27:26,000
+C'est admirable.
+
+501
+00:27:26,515 --> 00:27:28,322
+...Vous protégez vos amis.
+
+502
+00:27:30,516 --> 00:27:33,760
+Turner... n'a pas besoin de protection.
+
+503
+00:27:35,448 --> 00:27:39,090
+Il est couché dans un tiroir 
+de la morgue avec le cou brisé.
+
+504
+00:27:41,907 --> 00:27:44,321
+- Je pense que Blake l'a mis là.
+- Non.
+
+505
+00:27:45,066 --> 00:27:46,632
+Non, impossible, monsieur.
+
+506
+00:27:47,105 --> 00:27:48,643
+- Ils étaient très amis.
+- Ah ouais ?
+
+507
+00:27:49,197 --> 00:27:51,703
+Alors, pourquoi ils se sont battus vendredi soir ?
+
+508
+00:27:54,358 --> 00:27:55,661
+Vous étiez là !
+
+509
+00:27:56,806 --> 00:27:58,882
+Oui, monsieur, mais ce n'est pas
+ce que vous pensez.
+
+510
+00:27:59,028 --> 00:28:01,603
+Ils se sont mis un coup de poing ou deux,
+on les a séparés.
+
+511
+00:28:01,707 --> 00:28:04,451
+Une heure après, ils en rigolaient devant une bière.
+
+512
+00:28:04,865 --> 00:28:08,241
+Ça ressemble à un coup ou deux
+pour vous, matelots ?
+
+513
+00:28:09,027 --> 00:28:10,660
+Son cou est brisé net.
+
+514
+00:28:13,756 --> 00:28:16,872
+Il, euh... il n'était pas comme ça
+quand on l'a quitté.
+
+515
+00:28:17,248 --> 00:28:18,962
+Quelle était la raison de la bagarre ?
+
+516
+00:28:21,006 --> 00:28:23,181
+Turner ne perd jamais au paint-ball,
+
+517
+00:28:23,386 --> 00:28:27,313
+- ... alors Blake a décidé de changer les règles.
+- En le tuant.
+
+518
+00:28:28,158 --> 00:28:29,021
+Non, monsieur.
+
+519
+00:28:29,667 --> 00:28:34,421
+On joue à un contre un, mais vendredi matin on a tous
+reçu la photo de Turner comme cible par email.
+
+520
+00:28:35,076 --> 00:28:36,610
+On lui a tendu une embuscade.
+
+521
+00:28:37,457 --> 00:28:39,761
+C'était supposé être drôle.
+
+522
+00:28:44,728 --> 00:28:47,370
+Je veux les noms de tous les membres 
+de votre club.
+
+523
+00:28:50,596 --> 00:28:53,030
+Vous faites ça et on pourra reparler
+de votre avenir.
+
+524
+00:28:53,687 --> 00:28:54,893
+Et si on ne le fait pas ?
+
+525
+00:28:55,427 --> 00:28:56,963
+Crois-moi, fiston.
+
+526
+00:28:58,415 --> 00:29:01,062
+Tu ne vas être bien en prison.
+
+527
+00:29:02,616 --> 00:29:04,482
+Ils se donnent le nom de "Cellule Rouge".
+
+528
+00:29:04,896 --> 00:29:08,312
+Ils disent tous avoir vu Blake pour la dernière fois
+Vendredi soir, juste après la bagarre.
+
+529
+00:29:08,718 --> 00:29:09,950
+Nous pensons qu'ils le protégeaient.
+
+530
+00:29:10,098 --> 00:29:11,230
+Qui d'autre sait pour le groupe ?
+
+531
+00:29:11,375 --> 00:29:13,713
+D'après eux, personne. 
+Seulement les membres de la Cellule Rouge.
+
+532
+00:29:14,227 --> 00:29:18,281
+La première règle du Fight Club : Ne jamais parler du Fight Club.
+Mon Dieu, ça c'est un bon film.
+
+533
+00:29:18,487 --> 00:29:19,890
+Brad Pitt, Edward Norton.
+
+534
+00:29:20,297 --> 00:29:22,213
+C'est, le plus grand film de mecs...
+
+535
+00:29:23,086 --> 00:29:24,790
+... de tous les temps. Je vais te le louer.
+
+536
+00:29:26,298 --> 00:29:29,600
+Soit ils mentent, soit l'un d'entre eux est
+le hacker qui nous a menés au groupe.
+
+537
+00:29:29,977 --> 00:29:30,640
+Trouvez-les.
+
+538
+00:29:30,987 --> 00:29:31,683
+Patron ?
+
+539
+00:29:32,358 --> 00:29:33,592
+Tu as encore trouvé mon hacker ?
+
+540
+00:29:34,135 --> 00:29:35,072
+Euh, non, mais... ?
+
+541
+00:29:35,485 --> 00:29:36,383
+Pauvre Bizut.
+
+542
+00:29:36,655 --> 00:29:38,461
+- Tu crois qu'il a besoin d'un gros câlin ?
+- Oh.
+
+543
+00:29:39,237 --> 00:29:40,202
+J'ai trouvé Blake.
+
+544
+00:29:46,425 --> 00:29:50,581
+J'ai surveillé les noeuds WiFI du campus, en attendant que
+le hacker se reconnecte, et ça là que j'y ai pensé.
+
+545
+00:29:51,058 --> 00:29:56,012
+Quand on a fouillé la chambre de Blake, il y avait la
+station d'accueil d'un pocket Pc Axim X5,..
+
+546
+00:29:56,056 --> 00:29:58,233
+... mais l'unité elle-même n'y était pas.
+
+547
+00:29:58,285 --> 00:30:02,602
+Et ça vaut environ 2.000 $.
+Il l'a sûrement pris avec lui quand il a disparu.
+
+548
+00:30:02,647 --> 00:30:03,672
+En quoi c'est important ?
+
+549
+00:30:03,735 --> 00:30:07,741
+Parce que c'est un appareil sans fil. Ça se connecte
+automatiquement au réseau le plus proche.
+
+550
+00:30:08,118 --> 00:30:09,150
+Il est connecté en ce moment.
+
+551
+00:30:09,466 --> 00:30:10,403
+Où ?
+
+552
+00:30:11,478 --> 00:30:16,483
+Université Waverly, noeud n°3. Et d'après les logs du réseau,
+il se cache là depuis samedi matin.
+
+553
+00:30:16,517 --> 00:30:17,903
+Pas mal, McGee.
+
+554
+00:30:18,046 --> 00:30:18,711
+Ça roule.
+
+555
+00:30:19,818 --> 00:30:22,142
+Tu vois ? Je t'ai dit qu'il t'aime bien.
+
+556
+00:30:24,976 --> 00:30:26,312
+Tu es sûr de ça, Tim ?
+
+557
+00:30:26,627 --> 00:30:27,153
+J'en suis sûr.
+
+558
+00:30:27,806 --> 00:30:29,923
+Il est là, ou au moins son ordinateur.
+
+559
+00:30:30,125 --> 00:30:32,773
+Eh bien, j'espère pour toi que tu as raison.
+
+560
+00:30:33,967 --> 00:30:35,052
+J'ai raison, d'accord ?
+
+561
+00:30:38,205 --> 00:30:38,973
+Attendez.
+
+562
+00:30:42,287 --> 00:30:43,743
+Il est dans l'immeuble juste derrière celui-ci.
+
+563
+00:30:49,965 --> 00:30:51,510
+J'ai des mauvaises nouvelles pour toi, Bizut.
+
+564
+00:30:52,728 --> 00:30:54,392
+Je ne comprends pas, il devrait être là.
+
+565
+00:30:54,978 --> 00:30:57,992
+- Peut-être qu'il a disparu avec l'immeuble.
+- je te dis que c'est là.
+
+566
+00:31:03,965 --> 00:31:05,322
+Le signal s'intensifie.
+
+567
+00:31:12,158 --> 00:31:13,120
+C'est ici !
+
+568
+00:31:13,507 --> 00:31:14,221
+Où ?
+
+569
+00:31:15,907 --> 00:31:16,852
+Juste sous mes pieds.
+
+570
+00:31:17,587 --> 00:31:18,651
+Il a dû l'enterrer.
+
+571
+00:31:20,007 --> 00:31:21,750
+On s'est encore fait avoir.
+
+572
+00:31:21,865 --> 00:31:23,291
+C'est le hacker, McGee.
+
+573
+00:31:23,538 --> 00:31:24,560
+J'ai trouvé quelque chose !
+
+574
+00:31:28,435 --> 00:31:29,351
+C'est un corps.
+
+575
+00:31:30,718 --> 00:31:32,651
+Il est face contre terre.
+La tête devrait être là.
+
+576
+00:31:36,845 --> 00:31:37,652
+Il porte une capuche.
+
+577
+00:31:40,298 --> 00:31:41,661
+C'est une scène de crime à présent.
+
+578
+00:31:49,528 --> 00:31:50,270
+C'est Blake.
+
+579
+00:31:51,706 --> 00:31:53,650
+Il n'est pas face contre terre.
+
+580
+00:32:00,847 --> 00:32:03,431
+Le quartier-maître Blake a été tué
+tôt samedi matin...
+
+581
+00:32:03,447 --> 00:32:05,911
+...seulement quelques heures
+après la mort du sergent Turner.
+
+582
+00:32:06,676 --> 00:32:10,623
+Nous avons affaire à un tueur qui n'est pas
+seulement puissant, mais aussi méthodique.
+
+583
+00:32:10,766 --> 00:32:13,542
+Ces deux jeunes hommes ont eu le cou cassé...
+
+584
+00:32:13,617 --> 00:32:16,120
+...d'une manière violente et identique.
+
+585
+00:32:16,225 --> 00:32:18,542
+Quelqu'un qui a fait ça à mains nues.
+
+586
+00:32:18,596 --> 00:32:19,403
+Comment ça ?
+
+587
+00:32:20,085 --> 00:32:20,492
+Ah.
+
+588
+00:32:20,867 --> 00:32:22,951
+C'est une technique très précise.
+
+589
+00:32:23,048 --> 00:32:25,442
+- Puis-je vous montrer, M. Palmer ?
+- Bien sûr, docteur.
+
+590
+00:32:25,455 --> 00:32:28,413
+Une main est placée fermement sur la mâchoire.
+
+591
+00:32:28,436 --> 00:32:30,273
+- Et l'autre main...
+- Je vais le faire, Duck.
+
+592
+00:32:31,115 --> 00:32:32,380
+Merci, Jethro.
+
+593
+00:32:32,408 --> 00:32:33,290
+Ca devrait être bien.
+
+594
+00:32:33,367 --> 00:32:34,163
+Non, sur toi.
+
+595
+00:32:34,356 --> 00:32:35,582
+C'est vraiment nécessaire ?
+
+596
+00:32:35,598 --> 00:32:37,570
+Oui, ce sera drôle.
+Sois tu t'allonges au sol,
+
+597
+00:32:37,598 --> 00:32:38,802
+Soit je te mets au sol.
+
+598
+00:32:38,837 --> 00:32:40,541
+On fait ça pour faire taire les sentinelles ennemies.
+
+599
+00:32:40,597 --> 00:32:43,923
+Une main sur la mâchoire, l'autre derrière la tête.
+
+600
+00:32:43,957 --> 00:32:47,191
+30 kilos de force de torsion et... !
+
+601
+00:32:48,215 --> 00:32:49,723
+Tu as les yeux derrière la tête, DiNozzo.
+
+602
+00:32:50,338 --> 00:32:51,002
+Des questions ?
+
+603
+00:32:51,188 --> 00:32:52,522
+Non, je crois que j'ai compris, patron.
+
+604
+00:32:54,936 --> 00:32:57,450
+Tu as raté ta vocation, patron.
+Tu aurais pu être chiropracteur.
+
+605
+00:32:57,847 --> 00:32:59,382
+On cherche quelqu'un qui sait tuer.
+
+606
+00:32:59,426 --> 00:33:03,812
+Oui, mais ce qui me trouble, c'est que notre matelot, 
+pour recevoir un tel...
+
+607
+00:33:03,955 --> 00:33:07,601
+...coup mortel, devait être
+face à face avec son agresseur.
+
+608
+00:33:07,666 --> 00:33:09,652
+Ce qui veut dire qu'ils sont tombés
+dans une embuscade ou...
+
+609
+00:33:09,675 --> 00:33:10,710
+qu'ils le connaissaient.
+
+610
+00:33:11,408 --> 00:33:12,941
+Hé. Un autre matelot ?
+
+611
+00:33:13,235 --> 00:33:16,351
+Ils enseignent le combat dans une unité CEORM.
+
+612
+00:33:16,475 --> 00:33:17,841
+Peut-être. Tu as trouvé mon hacker ?
+
+613
+00:33:18,426 --> 00:33:19,542
+McGee y travaille.
+
+614
+00:33:19,587 --> 00:33:21,033
+Je n'ai pas demandé à McGee.
+
+615
+00:33:21,146 --> 00:33:23,182
+J'ai demandé à mon 1er agent de terrain.
+
+616
+00:33:24,557 --> 00:33:25,852
+Je veux ce fichu hacker.
+
+617
+00:33:27,996 --> 00:33:29,042
+Tu as entendu ça, Palmer ?
+
+618
+00:33:29,247 --> 00:33:30,702
+- Il avait l'air plutôt énervé.
+- Non...
+
+619
+00:33:32,105 --> 00:33:35,330
+...il m'a appelé son 1er agent de terrain supérieur. Enfin !
+
+620
+00:33:40,625 --> 00:33:41,841
+Ce mec est bon, Abby.
+
+621
+00:33:42,697 --> 00:33:43,402
+Il est trop bon.
+
+622
+00:33:44,867 --> 00:33:46,713
+Oui, mais nous sommes meilleurs !
+
+623
+00:33:47,895 --> 00:33:49,533
+Je croyais que tu étais allé au MIT.
+
+624
+00:33:50,038 --> 00:33:51,732
+Abby, je ne crois pas que je peux trouver ce gars.
+
+625
+00:33:52,248 --> 00:33:54,313
+Ne laisse pas Gibbs t'entendre
+parler comme ça, Bizut.
+
+626
+00:33:54,448 --> 00:33:55,811
+Le pouvoir du Café, Bébé.
+
+627
+00:33:57,155 --> 00:33:59,670
+Vous arrivez juste à temps
+pour la crise de confiance de McGee.
+
+628
+00:33:59,847 --> 00:34:03,690
+Il commence à réaliser qu'il y a peut-être
+une personne sur la planète de plus intelligent que lui.
+
+629
+00:34:03,718 --> 00:34:04,942
+J'en regarde une en ce moment.
+
+630
+00:34:05,246 --> 00:34:06,480
+Eh bien, Kate, en toute justice...
+
+631
+00:34:06,506 --> 00:34:10,553
+...je suis le 1er agent de terrain, 
+mais je pense que c'est une expérience...
+- Je parlais d'Abby, abruti.
+
+632
+00:34:11,495 --> 00:34:12,530
+Merci, Kate.
+
+633
+00:34:12,615 --> 00:34:18,913
+La seule chance qu'on a de trouver ce gars,
+c'est qu'il nous recontacte.
+Je peux mettre un virus dans le logiciel IM.
+
+634
+00:34:19,027 --> 00:34:23,483
+- L'utiliser pour baliser son ordinateur et espérer qu'il nous mène...
+- Virus, logiciels de traçage ?
+
+635
+00:34:23,528 --> 00:34:25,990
+Vous vous y prenez de la mauvaise façon.
+
+636
+00:34:26,056 --> 00:34:28,581
+Quelle est la première règle du Fight Club, Bizut ?
+
+637
+00:34:29,298 --> 00:34:32,320
+Ok, Tony, tu peux à peine allumer ton ordinateur.
+Alors, ne le prends pas mal...
+
+638
+00:34:32,367 --> 00:34:34,901
+Ne pas parler... du Fight Club !
+
+639
+00:34:35,786 --> 00:34:37,720
+Et quelle est la seconde règle du Fight Club ?
+
+640
+00:34:39,026 --> 00:34:40,102
+Abbs ?
+
+641
+00:34:40,208 --> 00:34:43,992
+Ne pas parler du Fight Club ! Monsieur !
+
+642
+00:34:44,197 --> 00:34:45,393
+Exactement.
+
+643
+00:34:45,678 --> 00:34:48,550
+Et Voix Bizarre est celui
+qui nous mène à la Cellule Rouge.
+
+644
+00:34:48,828 --> 00:34:52,310
+- Donc, soit c'est un membre, soit il connait un membre.
+- Et ce sont tous des matelots.
+
+645
+00:34:52,447 --> 00:34:55,630
+Et s'il donne autant de mal à McGee l'intello,
+il doit être très intelligent.
+
+646
+00:34:56,115 --> 00:34:57,963
+McGee, quelle était ta moyenne à l'université ?
+
+647
+00:34:58,267 --> 00:34:59,030
+3.9.
+
+648
+00:35:01,288 --> 00:35:03,363
+J'ai échoué en escrime en deuxième année.
+
+649
+00:35:04,505 --> 00:35:10,173
+Je suis sûr que tu as déjà regardé dans les dossiers NROTC, 
+pour t'assurer qu'il n'y a pas de génie en informatique dans l'unité.
+
+650
+00:35:15,117 --> 00:35:18,402
+- Je dois l'avouer, c'était intelligent, Tony.
+- Quoi donc, Kate ?
+
+651
+00:35:19,045 --> 00:35:21,623
+- Tony a peut-être trouvé comment retrouver le hacker.
+- C'est son boulot.
+
+652
+00:35:22,905 --> 00:35:25,121
+Tu crois que je le garde pour sa personnalité ?
+
+653
+00:35:27,066 --> 00:35:31,962
+Il y a 22 personnes dans l'unité qui ont pris informatique
+en matière principale. Il n'y a qu'un qui a 4.0.
+
+654
+00:35:32,458 --> 00:35:33,020
+Tu le reconnais ?
+
+655
+00:35:33,596 --> 00:35:34,670
+Tu veux le ramener avec moi ?
+
+656
+00:35:35,475 --> 00:35:39,763
+Etant donné qu'il s'est moqué de moi, qu'il m'a presque
+fait virer et qu'il a ruiné mon week-end ? Tu crois quoi ?
+
+657
+00:35:43,996 --> 00:35:46,612
+"Hello, NCIS."
+
+658
+00:35:47,626 --> 00:35:48,862
+Tu es peut-être intelligent,
+
+659
+00:35:49,436 --> 00:35:51,810
+mais mon génie a une arme.
+
+660
+00:35:52,155 --> 00:35:57,623
+Hello, sale petit mer...
+
+661
+00:36:02,966 --> 00:36:05,231
+La Cellule Rouge n'est que le commencement.
+Demande-moi pourquoi ?
+
+662
+00:36:06,247 --> 00:36:07,213
+Toc-toc.
+
+663
+00:36:09,618 --> 00:36:10,532
+Qui est là ?
+
+664
+00:36:14,587 --> 00:36:16,070
+Je suis juste derrière toi enfoiré.
+
+665
+00:36:18,126 --> 00:36:19,222
+Retourne-toi.
+
+666
+00:36:24,055 --> 00:36:25,150
+Salut, Urkel.
+
+667
+00:36:25,257 --> 00:36:27,530
+Tu me fais mal, mec !
+
+668
+00:36:27,636 --> 00:36:28,942
+Tu entends quelque chose, Tony ?
+
+669
+00:36:29,215 --> 00:36:29,612
+Non.
+
+670
+00:36:30,025 --> 00:36:31,051
+Moi non plus.
+
+671
+00:36:34,658 --> 00:36:38,772
+Pas d'inquiétude. Agents fédéraux.
+Bonne journée.
+
+672
+00:36:44,256 --> 00:36:44,963
+Hey.
+
+673
+00:36:45,438 --> 00:36:46,570
+Comment vous l'appelez ?
+
+674
+00:36:47,005 --> 00:36:49,321
+La boîte ? Cercueil ? Le magasin de sueur ?
+
+675
+00:36:49,595 --> 00:36:51,201
+On l'appelle simplement salle d'interrogatoire.
+
+676
+00:36:51,945 --> 00:36:56,472
+C'est quoi le truc ?
+Vous commencez par faire pression sur moi,
+puis votre partenaire arrive, me fait parler ?
+
+677
+00:36:57,516 --> 00:36:59,182
+- Vous êtes le gentil ou le méchant flic ?
+- Assis.
+
+678
+00:37:00,148 --> 00:37:00,913
+D'accord.
+
+679
+00:37:02,276 --> 00:37:03,682
+Je vais être honnête avec toi.
+
+680
+00:37:04,057 --> 00:37:05,793
+C'est une grande perte de temps.
+
+681
+00:37:06,408 --> 00:37:08,212
+Il est évident que tu es innocent.
+
+682
+00:37:10,368 --> 00:37:11,532
+Psychologie contraire.
+
+683
+00:37:11,806 --> 00:37:14,181
+Mais mon patron, il doit clore l'affaire.
+
+684
+00:37:14,858 --> 00:37:15,860
+Brass veut des réponses.
+
+685
+00:37:16,798 --> 00:37:17,730
+Et il y a cet...
+
+686
+00:37:18,347 --> 00:37:19,683
+autre agent, Kate...
+
+687
+00:37:20,565 --> 00:37:21,830
+Un air sévère.
+
+688
+00:37:22,578 --> 00:37:23,740
+Aucun sens de l'humour.
+
+689
+00:37:24,286 --> 00:37:25,582
+Elle a fait ton profil.
+
+690
+00:37:25,896 --> 00:37:27,503
+C'est quelle technique d'interrogatoire ?
+
+691
+00:37:27,747 --> 00:37:29,183
+La méthode DiNozzo.
+
+692
+00:37:29,518 --> 00:37:30,350
+Ce n’est pas joli...
+
+693
+00:37:31,255 --> 00:37:32,730
+...mais c'est efficace.
+
+694
+00:37:32,877 --> 00:37:36,692
+Il s'avère que... tu es le génie des génies.
+
+695
+00:37:38,075 --> 00:37:39,442
+Le dernier à être sélectionné dans l'équipe.
+
+696
+00:37:40,655 --> 00:37:41,793
+Ce n'est pas vrai.
+
+697
+00:37:43,356 --> 00:37:45,230
+Ce n'est pas moi, Urkel.
+
+698
+00:37:46,007 --> 00:37:46,973
+Ok ? Je pense que tu es génial.
+
+699
+00:37:47,016 --> 00:37:50,992
+Cependant, tu as transgressé plusieurs lois fédérales,
+contrariant ainsi une enquête en cours.
+
+700
+00:37:51,135 --> 00:37:52,273
+J'essayais de vous aider.
+
+701
+00:37:53,356 --> 00:37:53,620
+En effet.
+
+702
+00:37:56,178 --> 00:37:57,840
+C'est la façon que tu as employée
+qui est suspecte.
+
+703
+00:37:58,787 --> 00:38:00,053
+Regardez-moi.
+
+704
+00:38:00,595 --> 00:38:03,172
+La dernière chose dont j'ai besoin
+est d'être catalogué comme une balance.
+
+705
+00:38:03,488 --> 00:38:04,692
+Ces mecs me tueraient.
+
+706
+00:38:04,825 --> 00:38:07,870
+Tu cherchais peut-être une revanche ?
+Ils ne voulaient pas de toi dans leur petit club ?
+
+707
+00:38:08,585 --> 00:38:09,482
+C'est fou.
+
+708
+00:38:11,595 --> 00:38:12,701
+Tu sais ce qui est fou ?
+
+709
+00:38:13,217 --> 00:38:16,731
+Moi mettant presque une balle dans la tête
+d'un gamin parce qu'il joue au paint-ball.
+
+710
+00:38:17,878 --> 00:38:18,870
+Ça c'est un peu fou.
+
+711
+00:38:19,625 --> 00:38:20,761
+Je ne...
+
+712
+00:38:21,908 --> 00:38:24,650
+Je ne voulais pas que quelqu'un soit blessé.
+J'essayais seulement d'aider.
+
+713
+00:38:25,156 --> 00:38:26,490
+Turner était un ami.
+
+714
+00:38:27,175 --> 00:38:31,693
+Tu pensais qu'envoyer des e-mails secrets
+allait nous aider à trouver le tueur ?
+
+715
+00:38:33,275 --> 00:38:34,513
+Je crois savoir qui l'a tué.
+
+716
+00:38:34,817 --> 00:38:35,353
+Qui ?
+
+717
+00:38:36,195 --> 00:38:37,301
+Le quartier-maître Blake.
+
+718
+00:38:38,006 --> 00:38:39,140
+Ah oui, et pourquoi donc ?
+
+719
+00:38:39,745 --> 00:38:41,993
+Il y a cette fille dans l'unité, Ashley Simmons.
+
+720
+00:38:42,396 --> 00:38:44,170
+Elle sortait avec Blake, mais ils ont cassé.
+
+721
+00:38:44,718 --> 00:38:46,322
+Elle a commencé à sortir avec Turner ?
+
+722
+00:38:46,598 --> 00:38:48,460
+Je n'en suis pas sûr. Je sais qu'il l'aimait bien.
+
+723
+00:38:50,985 --> 00:38:51,952
+Il l'aimait bien ?
+
+724
+00:38:52,195 --> 00:38:55,183
+Pas vraiment un gros mobile
+pour un meurtre, Urkel.
+
+725
+00:38:55,715 --> 00:39:01,411
+La semaine dernière, je les ai vus tous les trois
+ensemble dans la caserne. Ashley pleurait.
+Turner et Blake ont commencé à se disputer.
+
+726
+00:39:01,525 --> 00:39:02,152
+A quel sujet ?
+
+727
+00:39:03,096 --> 00:39:05,443
+Je n'entendais pas, mais j'ai vu Blake le pousser.
+
+728
+00:39:05,915 --> 00:39:06,752
+Ils se sont battus alors ?
+
+729
+00:39:07,185 --> 00:39:09,931
+Non, Turner est parti avec Ashley.
+
+730
+00:39:10,145 --> 00:39:14,060
+Plus tard, quand je lui en ai parlé,
+il a dit que c'était personnel, entre eux trois.
+
+731
+00:39:15,988 --> 00:39:19,870
+C'est une théorie très intéressante, Matlock.
+Mais il y a un problème.
+
+732
+00:39:21,648 --> 00:39:22,313
+Quoi ?
+
+733
+00:39:22,955 --> 00:39:23,623
+Blake est mort.
+
+734
+00:39:25,145 --> 00:39:27,112
+Il a été tué quelques heures après Turner.
+
+735
+00:39:28,628 --> 00:39:29,900
+Par qui ?
+
+736
+00:39:30,107 --> 00:39:32,643
+Quelqu'un qui voulait le piéger
+pour le meurtre de son meilleur ami.
+
+737
+00:39:37,228 --> 00:39:39,662
+Trouvez le matelot Ashley Simmons.
+Tout de suite.
+
+738
+00:39:41,848 --> 00:39:44,221
+Pourquoi tes cheveux sont-ils
+toujours violets, Simmons ?
+
+739
+00:39:44,577 --> 00:39:46,271
+Cela prend quelques jours pour s'en aller, sergent.
+
+740
+00:39:46,685 --> 00:39:50,062
+J'espère que le temps que tu as passé à faire
+les grandes manoeuvres commence à faire son effet.
+
+741
+00:39:50,547 --> 00:39:53,393
+Tu es à moi jusqu'au jour
+où tu seras diplômée.
+
+742
+00:39:53,625 --> 00:39:55,530
+Oui, sergent. Cela ne se reproduira pas.
+
+743
+00:39:58,587 --> 00:40:00,331
+Tu veux donner des ordres un jour ?
+
+744
+00:40:01,498 --> 00:40:03,032
+Tu dois apprendre à les suivre.
+
+745
+00:40:03,875 --> 00:40:05,852
+C'est un très bon conseil, sergent.
+
+746
+00:40:06,657 --> 00:40:07,593
+Bonsoir, monsieur.
+
+747
+00:40:08,468 --> 00:40:09,732
+Des nouvelles de Blake ?
+
+748
+00:40:10,385 --> 00:40:11,382
+C'est la raison de notre présence.
+
+749
+00:40:11,626 --> 00:40:13,360
+Nous pouvons en parler dans mon bureau.
+
+750
+00:40:13,538 --> 00:40:16,752
+- Tu as oublié une tache là-bas, Simmons.
+- En fait, nous sommes ici pour elle, sergent.
+
+751
+00:40:16,985 --> 00:40:18,350
+Simmons ? Pour quoi ?
+
+752
+00:40:18,636 --> 00:40:20,140
+- Nous avons trouvé Blake.
+- Où ?
+
+753
+00:40:20,818 --> 00:40:21,483
+Il est mort.
+
+754
+00:40:21,755 --> 00:40:24,601
+- Nous pensons qu'elle sait pourquoi.
+- Je n'en sais rien du tout.
+
+755
+00:40:24,688 --> 00:40:26,691
+Alors vous voudrez bien répondre
+à quelques questions.
+
+756
+00:40:26,718 --> 00:40:27,970
+Emmenez-la dehors. J'arrive tout de suite.
+
+757
+00:40:28,016 --> 00:40:29,723
+Mais je ne sais rien du tout !
+
+758
+00:40:29,775 --> 00:40:31,751
+Dites-moi tout ce que vous savez d'elle, sergent.
+
+759
+00:40:32,245 --> 00:40:32,901
+Simmons ?
+
+760
+00:40:36,575 --> 00:40:37,473
+Elle est du genre à causer des ennuis,
+
+761
+00:40:38,556 --> 00:40:39,770
+...mais ce n'est pas une méchante fille.
+
+762
+00:40:40,227 --> 00:40:41,733
+Vous pensez qu'elle est impliquée
+dans cette affaire ?
+
+763
+00:40:42,537 --> 00:40:43,881
+Je ne comprends pas.
+
+764
+00:40:44,408 --> 00:40:45,462
+Blake n'a pas tué Turner ?
+
+765
+00:40:45,778 --> 00:40:47,310
+Non, ils ont tous les deux été tués.
+
+766
+00:40:47,826 --> 00:40:50,270
+Pas très beau. Ils ont presque la tête arrachée.
+
+767
+00:40:52,435 --> 00:40:53,873
+Oh, mon Dieu,
+
+768
+00:40:54,747 --> 00:40:55,470
+Il l'a fait.
+
+769
+00:40:57,496 --> 00:40:59,320
+Je deviens trop vieux pour ces conneries.
+
+770
+00:40:59,496 --> 00:41:01,592
+L'ROTC était supposé être
+une période de service facile.
+
+771
+00:41:01,877 --> 00:41:02,432
+Vous voulez une tasse ?
+
+772
+00:41:03,207 --> 00:41:04,843
+Euh, non. Non, merci.
+
+773
+00:41:05,815 --> 00:41:07,370
+Bonne décision.
+
+774
+00:41:08,598 --> 00:41:10,232
+Comment Blake a t-il été assassiné ?
+
+775
+00:41:11,918 --> 00:41:13,890
+Je leur ai demandé de l'aide la semaine dernière.
+
+776
+00:41:14,326 --> 00:41:15,870
+Il ne me laissait pas tranquille.
+
+777
+00:41:16,208 --> 00:41:16,782
+Wow,
+
+778
+00:41:17,758 --> 00:41:19,233
+Deux fractures du cou identiques ?
+
+779
+00:41:19,678 --> 00:41:22,301
+Oui, nous pensons que le tueur
+a reçu un entraînement militaire.
+
+780
+00:41:22,388 --> 00:41:24,190
+Il m'a forcée à couché avec lui.
+
+781
+00:41:25,506 --> 00:41:28,140
+Blake et Turner devait aller lui parler, et l'arrêter.
+
+782
+00:41:28,615 --> 00:41:29,623
+Et il les a tués.
+
+783
+00:41:30,956 --> 00:41:32,091
+Qui, matelot ?
+
+784
+00:41:32,586 --> 00:41:34,860
+Je regrouperai toute l'unité demain.
+
+785
+00:41:35,516 --> 00:41:37,131
+Vous pourrez tous les interroger en même temps.
+
+786
+00:41:37,446 --> 00:41:38,661
+Merci, sergent. J'apprécie.
+
+787
+00:41:39,278 --> 00:41:40,190
+Une dernière chose.
+
+788
+00:41:40,697 --> 00:41:41,242
+Quoi, monsieur ?
+
+789
+00:41:42,596 --> 00:41:43,312
+J'ai dit que
+
+790
+00:41:43,666 --> 00:41:45,740
+...Blake avait été retrouvé mort.
+Vous avez dit "assassiné".
+
+791
+00:41:53,548 --> 00:41:54,742
+Vous allez répondre ?
+
+792
+00:41:55,956 --> 00:41:56,522
+Non.
+
+793
+00:41:57,257 --> 00:41:59,403
+Non, je suis quasiment sûr de savoir
+ce qu’ils veulent me dire.
+
+794
+00:41:59,827 --> 00:42:00,551
+Mettez les mains en l'air.
+
+795
+00:42:09,725 --> 00:42:11,271
+Pas mal, agent Gibbs.
+
+796
+00:42:11,426 --> 00:42:13,260
+Je laisserai tomber.
+Ça ne va qu'empirer.
+
+797
+00:42:33,437 --> 00:42:34,241
+Je crois qu'il sait.
+
+798
+00:42:34,708 --> 00:42:35,262
+Tu crois ?
+
+799
+00:42:48,967 --> 00:42:50,831
+Tu aurais dû rester en dehors de ça, vieillard.
+
+800
+00:42:51,987 --> 00:42:53,493
+Ok, recule.
+
+801
+00:43:03,376 --> 00:43:04,180
+Menotte-le.
+
+802
+00:43:04,486 --> 00:43:05,452
+Bien sûr, patron.
+
+803
+00:43:07,385 --> 00:43:09,840
+Je ne rappelais pas que l'université
+pouvait être comme ça.
+
+804
+00:43:09,905 --> 00:43:12,140
+Ça me rappelle une fois à l'Ohio State,
+il y avait ce type de la fraternité...
+
+805
+00:43:12,207 --> 00:43:15,233
+Le prochain qui mentionne un spring break...
+
+806
+00:43:16,205 --> 00:43:17,141
+...ou une fête de fraternité,
+
+807
+00:43:17,926 --> 00:43:18,792
+ou l'université...
+
+808
+00:43:19,365 --> 00:43:20,351
+est viré,
+
+809
+00:43:20,995 --> 00:43:22,092
+Est-ce clair ?
+
+810
+00:43:23,206 --> 00:43:23,930
+- Oui.
+- Oui.
+
+811
+00:43:24,478 --> 00:43:25,710
+C'est bien.
+
+812
+00:43:26,006 --> 00:43:36,002
+Synchro par Nam Transcript: Raceman
+Trad: Jonathan, Shadow, Zikos, Gaillots et Nath.
+Relect:Moustou.
+WWW.FOROM.COM
+

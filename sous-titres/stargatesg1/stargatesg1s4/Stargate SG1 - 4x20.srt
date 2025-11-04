@@ -1,0 +1,3557 @@
+1
+00:00:00,000 --> 00:00:11,607
+ 
+
+2
+00:00:11,607 --> 00:00:14,075
+Chevron six codé.
+
+3
+00:00:14,075 --> 00:00:14,167
+ 
+
+4
+00:00:14,167 --> 00:00:19,002
+- Content que vous ayez pu venir.
+- Je n'allais pas rater mon moment favori.
+
+5
+00:00:19,002 --> 00:00:21,767
+ 
+
+6
+00:00:21,767 --> 00:00:22,836
+VERROUlLLE
+
+7
+00:00:22,836 --> 00:00:23,367
+ 
+
+8
+00:00:23,367 --> 00:00:25,756
+Chevron sept verrouillé.
+
+9
+00:00:25,756 --> 00:00:30,287
+ 
+
+10
+00:00:30,287 --> 00:00:32,403
+Nous envoyons la sonde.
+
+11
+00:00:32,403 --> 00:00:41,327
+ 
+
+12
+00:00:41,327 --> 00:00:43,602
+Sonde envoyée.
+
+13
+00:00:43,602 --> 00:00:43,687
+ 
+
+14
+00:00:43,687 --> 00:00:46,121
+Tu as l'air tendu.
+
+15
+00:00:46,121 --> 00:00:46,207
+ 
+
+16
+00:00:46,207 --> 00:00:48,767
+Non, je dirais inquiet.
+
+17
+00:00:48,767 --> 00:00:49,447
+ 
+
+18
+00:00:49,447 --> 00:00:51,881
+Je ne suis ni tendu ni inquiet.
+
+19
+00:00:51,881 --> 00:00:52,767
+ 
+
+20
+00:00:52,767 --> 00:00:54,997
+Préoccupé, peut-être.
+
+21
+00:00:54,997 --> 00:00:55,087
+ 
+
+22
+00:00:55,087 --> 00:00:56,440
+Pourquoi?
+
+23
+00:00:56,440 --> 00:00:56,527
+ 
+
+24
+00:00:56,527 --> 00:00:59,963
+L'adresse de la planète
+vient des archives des Anciens.
+
+25
+00:00:59,963 --> 00:01:00,047
+ 
+
+26
+00:01:00,047 --> 00:01:02,402
+Réception de la télémesure.
+
+27
+00:01:02,402 --> 00:01:09,047
+ 
+
+28
+00:01:09,047 --> 00:01:13,006
+Rien de tout cela ne ressemble
+à ce que nous savons des Anciens.
+
+29
+00:01:13,006 --> 00:01:13,087
+ 
+
+30
+00:01:13,087 --> 00:01:15,521
+Architecture, technologie, écriture.
+
+31
+00:01:15,521 --> 00:01:15,607
+ 
+
+32
+00:01:15,607 --> 00:01:18,644
+ça doit être postérieur
+au départ des Anciens.
+
+33
+00:01:18,644 --> 00:01:18,727
+ 
+
+34
+00:01:18,727 --> 00:01:20,763
+Teal'c, ça ne vous dit rien?
+
+35
+00:01:20,763 --> 00:01:20,847
+ 
+
+36
+00:01:20,847 --> 00:01:24,806
+- Non, général Hammond.
+- Non. Moi non plus.
+
+37
+00:01:24,806 --> 00:01:27,647
+ 
+
+38
+00:01:27,647 --> 00:01:29,205
+Je disais ça comme ça.
+
+39
+00:01:29,205 --> 00:01:33,887
+ 
+
+40
+00:01:33,887 --> 00:01:36,640
+- Qu'est-ce qu'elle fait?
+- Elle vole.
+
+41
+00:01:36,640 --> 00:01:36,727
+ 
+
+42
+00:01:36,727 --> 00:01:39,560
+- Les sondes ne volent pas.
+- Apparemment, si.
+
+43
+00:01:39,560 --> 00:01:41,807
+ 
+
+44
+00:01:41,807 --> 00:01:45,720
+- On pourrait pas nous prévenir?
+- Nous avons perdu le contrôle.
+
+45
+00:01:45,720 --> 00:01:45,807
+ 
+
+46
+00:01:45,807 --> 00:01:49,038
+Faites un diagnostic
+du système de la sonde.
+
+47
+00:01:49,038 --> 00:01:55,047
+ 
+
+48
+00:01:55,047 --> 00:01:57,607
+- La transmission est coupée.
+- Négatif.
+
+49
+00:01:57,607 --> 00:01:57,687
+ 
+
+50
+00:01:57,687 --> 00:02:00,565
+On a un signal.
+ll devrait y avoir une image.
+
+51
+00:02:00,565 --> 00:02:00,767
+ 
+
+52
+00:02:00,767 --> 00:02:03,201
+Commandant, regardez ça.
+
+53
+00:02:03,201 --> 00:02:04,327
+ 
+
+54
+00:02:04,327 --> 00:02:08,445
+Une boucle de rétroaction émet
+des oscillations à haute fréquence.
+
+55
+00:02:08,445 --> 00:02:08,527
+ 
+
+56
+00:02:08,527 --> 00:02:10,836
+- lls essaient de communiquer.
+- ''lls''?
+
+57
+00:02:10,836 --> 00:02:10,927
+ 
+
+58
+00:02:10,927 --> 00:02:12,804
+Enfin, qui qu'''ils'' soient.
+
+59
+00:02:12,804 --> 00:02:13,047
+ 
+
+60
+00:02:13,047 --> 00:02:15,277
+- C'est bien ce que je dis.
+- Quoi?
+
+61
+00:02:15,277 --> 00:02:15,407
+ 
+
+62
+00:02:15,407 --> 00:02:19,320
+Nous devrions désactiver
+le Stargate et analyser ces données.
+
+63
+00:02:19,320 --> 00:02:19,567
+ 
+
+64
+00:02:19,567 --> 00:02:21,683
+Entendu. Mettez fin à la liaison.
+
+65
+00:02:21,683 --> 00:02:23,607
+ 
+
+66
+00:02:23,607 --> 00:02:26,405
+On a une pointe.
+Le système est en surcharge.
+
+67
+00:02:26,405 --> 00:02:26,487
+ 
+
+68
+00:02:26,487 --> 00:02:27,840
+- Fermez.
+- lmpossible.
+
+69
+00:02:27,840 --> 00:02:27,927
+ 
+
+70
+00:02:27,927 --> 00:02:30,487
+- Annulez.
+- Les systèmes sont bloqués.
+
+71
+00:02:30,487 --> 00:02:38,447
+ 
+
+72
+00:02:38,447 --> 00:02:40,563
+On ne contrôle plus l'ordinateur.
+
+73
+00:02:40,563 --> 00:02:40,647
+ 
+
+74
+00:02:40,647 --> 00:02:43,639
+- Déconnexion d'urgence, mon général?
+- Faites.
+
+75
+00:02:43,639 --> 00:02:45,687
+ 
+
+76
+00:02:45,687 --> 00:02:48,406
+- ça va, commandant?
+- Oui, mon général.
+
+77
+00:02:48,406 --> 00:04:15,887
+ 
+
+78
+00:04:15,887 --> 00:04:18,196
+Emmenez-le à l'infirmerie.
+
+79
+00:04:18,196 --> 00:04:19,687
+ 
+
+80
+00:04:19,687 --> 00:04:20,676
+L'ENTlTE
+
+81
+00:04:20,676 --> 00:04:20,767
+ 
+
+82
+00:04:20,767 --> 00:04:23,440
+ll est brûlé au premier et au second degré.
+
+83
+00:04:23,440 --> 00:04:23,527
+ 
+
+84
+00:04:23,527 --> 00:04:26,041
+- J'aimerais faire d'autres analyses.
+- Bien.
+
+85
+00:04:26,041 --> 00:04:28,847
+ 
+
+86
+00:04:28,847 --> 00:04:33,284
+Les systèmes de commande
+et leurs redondances sont inopérants.
+
+87
+00:04:33,284 --> 00:04:33,367
+ 
+
+88
+00:04:33,367 --> 00:04:36,040
+Les circuits de ces terminaux ont grillé.
+
+89
+00:04:36,040 --> 00:04:36,127
+ 
+
+90
+00:04:36,127 --> 00:04:38,880
+- Vous savez ce qui est arrivé?
+- Pas du tout.
+
+91
+00:04:38,880 --> 00:04:38,967
+ 
+
+92
+00:04:38,967 --> 00:04:42,357
+Les systèmes secondaires marchent,
+mais quelle pointe.
+
+93
+00:04:42,357 --> 00:04:42,447
+ 
+
+94
+00:04:42,447 --> 00:04:45,007
+Je vais analyser l'ordinateur principal.
+
+95
+00:04:45,007 --> 00:04:45,087
+ 
+
+96
+00:04:45,087 --> 00:04:48,045
+- Oui. Quand j'aurai soigné ta main.
+- Dès que...
+
+97
+00:04:48,045 --> 00:04:48,127
+ 
+
+98
+00:04:48,127 --> 00:04:50,595
+- C'est une brûlure grave.
+- Cinq minutes.
+
+99
+00:04:50,595 --> 00:04:50,687
+ 
+
+100
+00:04:50,687 --> 00:04:53,645
+- Maintenant.
+- Faites ce que dit le docteur.
+
+101
+00:04:53,645 --> 00:04:53,727
+ 
+
+102
+00:04:53,727 --> 00:04:55,126
+Bien, colonel.
+
+103
+00:04:55,126 --> 00:04:55,207
+ 
+
+104
+00:04:55,207 --> 00:04:58,677
+Merci, colonel.
+Vous, Daniel et Teal'c passerez après.
+
+105
+00:04:58,677 --> 00:04:58,767
+ 
+
+106
+00:04:58,767 --> 00:05:00,723
+- Je n'ai rien.
+- On n'a rien.
+
+107
+00:05:00,723 --> 00:05:00,967
+ 
+
+108
+00:05:00,967 --> 00:05:02,798
+J'aimerais en juger moi-même.
+
+109
+00:05:02,798 --> 00:05:02,887
+ 
+
+110
+00:05:02,887 --> 00:05:05,242
+Une forme d'énergie a franchi la porte.
+
+111
+00:05:05,242 --> 00:05:05,327
+ 
+
+112
+00:05:05,327 --> 00:05:10,401
+Je veux m'assurer que personne n'a subi
+d'effets physiologiques. Au plus vite.
+
+113
+00:05:10,401 --> 00:05:13,367
+ 
+
+114
+00:05:13,367 --> 00:05:17,326
+- Qui l'a nommée responsable?
+- L'armée de l'air américaine.
+
+115
+00:05:17,326 --> 00:05:17,807
+ 
+
+116
+00:05:17,807 --> 00:05:22,005
+Sur les questions médicales,
+les ordres du Dr Fraiser prévalent.
+
+117
+00:05:22,005 --> 00:05:26,447
+ 
+
+118
+00:05:26,447 --> 00:05:29,041
+On ne me dit jamais rien, à moi.
+
+119
+00:05:29,041 --> 00:05:35,007
+ 
+
+120
+00:05:35,007 --> 00:05:39,000
+Vu l'état de la salle de commande,
+vous avez eu de la chance.
+
+121
+00:05:39,000 --> 00:05:39,687
+ 
+
+122
+00:05:39,687 --> 00:05:41,962
+ça aurait pu être pire, j'imagine.
+
+123
+00:05:41,962 --> 00:05:42,527
+ 
+
+124
+00:05:42,527 --> 00:05:45,121
+Je me demande
+ce que cette chose voulait.
+
+125
+00:05:45,121 --> 00:05:45,207
+ 
+
+126
+00:05:45,207 --> 00:05:49,200
+Malheureusement, notre meilleur
+outil de diagnostic est détruit.
+
+127
+00:05:49,200 --> 00:05:49,287
+ 
+
+128
+00:05:49,287 --> 00:05:52,040
+- Voilà, j'ai fini.
+- Merci.
+
+129
+00:05:52,040 --> 00:05:57,407
+ 
+
+130
+00:05:57,407 --> 00:06:02,117
+- Me voilà, comme vous l'avez demandé.
+- Merci, Teal'c. Assieds-toi.
+
+131
+00:06:02,117 --> 00:06:14,767
+ 
+
+132
+00:06:14,767 --> 00:06:18,965
+Tu peux faire un arrêt sur image?
+Je veux voir cette plate-forme.
+
+133
+00:06:18,965 --> 00:06:19,047
+ 
+
+134
+00:06:19,047 --> 00:06:22,835
+Je retrouverai peut-être
+cette architecture ailleurs.
+
+135
+00:06:22,835 --> 00:06:24,847
+ 
+
+136
+00:06:24,847 --> 00:06:29,443
+Non, je crois que cet endroit
+n'a aucun lien avec la Terre ancienne.
+
+137
+00:06:29,443 --> 00:06:32,087
+ 
+
+138
+00:06:32,087 --> 00:06:35,966
+Là. Ce sont les premières
+oscillations à haute fréquence.
+
+139
+00:06:35,966 --> 00:06:36,047
+ 
+
+140
+00:06:36,047 --> 00:06:40,120
+Elles commencent après
+la perte de l'image et se multiplient.
+
+141
+00:06:40,120 --> 00:06:40,207
+ 
+
+142
+00:06:40,207 --> 00:06:45,156
+Les oscillations ont grillé le matériel,
+nous n'avons donc pas pu les mesurer.
+
+143
+00:06:45,156 --> 00:06:45,247
+ 
+
+144
+00:06:45,247 --> 00:06:50,719
+Mais si j'isole le signal le plus détaillé
+et que j'agrandis la ligne temporelle...
+
+145
+00:06:50,719 --> 00:06:54,007
+ 
+
+146
+00:06:54,007 --> 00:06:56,919
+Voilà. C'est une sorte d'onde.
+
+147
+00:06:56,919 --> 00:06:57,007
+ 
+
+148
+00:06:57,007 --> 00:06:59,601
+- Extraterrestre.
+- Portée par la sonde.
+
+149
+00:06:59,601 --> 00:06:59,687
+ 
+
+150
+00:06:59,687 --> 00:07:03,600
+Elle a dû revenir
+par un couloir espace-temps de sortie.
+
+151
+00:07:03,600 --> 00:07:03,687
+ 
+
+152
+00:07:03,687 --> 00:07:07,760
+ll faut réparer les ordinateurs
+pour l'analyser. Je suis coincée.
+
+153
+00:07:07,760 --> 00:07:07,847
+ 
+
+154
+00:07:07,847 --> 00:07:10,998
+- ll y a d'autres ordinateurs.
+- lnaccessibles.
+
+155
+00:07:10,998 --> 00:07:11,087
+ 
+
+156
+00:07:11,087 --> 00:07:14,079
+Le général Hammond
+a mis le SGC en quarantaine.
+
+157
+00:07:14,079 --> 00:07:28,927
+ 
+
+158
+00:07:28,927 --> 00:07:32,476
+- On a accédé à nos informations?
+- Apparemment.
+
+159
+00:07:32,476 --> 00:07:32,567
+ 
+
+160
+00:07:32,567 --> 00:07:33,920
+Pourquoi? Par quoi?
+
+161
+00:07:33,920 --> 00:07:34,007
+ 
+
+162
+00:07:34,007 --> 00:07:37,477
+Nous l'ignorons.
+Mais ça touche des secteurs précis:
+
+163
+00:07:37,477 --> 00:07:37,567
+ 
+
+164
+00:07:37,567 --> 00:07:41,003
+logiciel de réseau, de langue,
+de base et d'application.
+
+165
+00:07:41,003 --> 00:07:41,087
+ 
+
+166
+00:07:41,087 --> 00:07:44,796
+- ça apprend à lire, à parler.
+- ça examine nos systèmes.
+
+167
+00:07:44,796 --> 00:07:44,887
+ 
+
+168
+00:07:44,887 --> 00:07:47,640
+Quelque chose
+est passé dans nos ordinateurs?
+
+169
+00:07:47,640 --> 00:07:47,727
+ 
+
+170
+00:07:47,727 --> 00:07:50,002
+Ce n'est qu'une supposition, mais...
+
+171
+00:07:50,002 --> 00:07:50,087
+ 
+
+172
+00:07:50,087 --> 00:07:54,603
+Au moins, on l'a interrompu
+avant qu'il ait exploré tout l'ordinateur.
+
+173
+00:07:54,603 --> 00:07:54,687
+ 
+
+174
+00:07:54,687 --> 00:07:57,963
+Les images de la sonde
+vous ont appris quelque chose?
+
+175
+00:07:57,963 --> 00:07:58,047
+ 
+
+176
+00:07:58,047 --> 00:08:03,201
+L'architecture nous est inconnue.
+Elle est entièrement extraterrestre.
+
+177
+00:08:03,201 --> 00:08:03,287
+ 
+
+178
+00:08:03,287 --> 00:08:06,916
+On passe l'antivirus
+et on purge l'ordinateur central.
+
+179
+00:08:06,916 --> 00:08:12,247
+ 
+
+180
+00:08:12,247 --> 00:08:17,480
+Nos tables d'allocation de fichiers sont
+abîmées. On a perdu certains secteurs.
+
+181
+00:08:17,480 --> 00:08:17,567
+ 
+
+182
+00:08:17,567 --> 00:08:20,798
+Je maintiens l'état d'alerte
+et je ferme la base
+
+183
+00:08:20,798 --> 00:08:20,887
+ 
+
+184
+00:08:20,887 --> 00:08:24,960
+jusqu'à ce que l'on ait écarté
+tout risque d'autres répercussions.
+
+185
+00:08:24,960 --> 00:08:25,047
+ 
+
+186
+00:08:25,047 --> 00:08:27,038
+Bien, mon général.
+
+187
+00:08:27,038 --> 00:08:46,647
+ 
+
+188
+00:08:46,647 --> 00:08:49,115
+Alors c'est une sonde?
+
+189
+00:08:49,115 --> 00:08:49,207
+ 
+
+190
+00:08:49,207 --> 00:08:52,324
+Non. En fait,
+on ne sait pas comment l'appeler.
+
+191
+00:08:52,324 --> 00:08:52,447
+ 
+
+192
+00:08:52,447 --> 00:08:54,438
+Avant qu'on ne puisse l'arrêter,
+
+193
+00:08:54,438 --> 00:08:54,527
+ 
+
+194
+00:08:54,527 --> 00:08:58,759
+une onde électromagnétique a parcouru
+la moitié de notre système informatique.
+
+195
+00:08:58,759 --> 00:08:59,247
+ 
+
+196
+00:08:59,247 --> 00:09:02,637
+- Pourquoi?
+- On a lancé une sonde dans leur monde.
+
+197
+00:09:02,637 --> 00:09:02,727
+ 
+
+198
+00:09:02,727 --> 00:09:07,084
+- Alors on dit que c'est une sonde?
+- Oui.
+
+199
+00:09:07,084 --> 00:09:07,167
+ 
+
+200
+00:09:07,167 --> 00:09:10,682
+On ignore ce qui se serait passé
+sans notre intervention.
+
+201
+00:09:10,682 --> 00:09:10,767
+ 
+
+202
+00:09:10,767 --> 00:09:14,521
+- Elle a fait des ravages.
+- Peut-être était-ce son intention.
+
+203
+00:09:14,521 --> 00:09:14,607
+ 
+
+204
+00:09:14,607 --> 00:09:16,802
+Peut-être qu'elle est passive,
+
+205
+00:09:16,802 --> 00:09:16,887
+ 
+
+206
+00:09:16,887 --> 00:09:19,481
+mais trop évoluée pour nos systèmes.
+
+207
+00:09:19,481 --> 00:09:19,567
+ 
+
+208
+00:09:19,567 --> 00:09:22,604
+- On ne peut pas le savoir.
+- Qu'est-ce que c'est?
+
+209
+00:09:22,604 --> 00:09:22,687
+ 
+
+210
+00:09:22,687 --> 00:09:27,078
+Les oscillations à haute fréquence,
+amplifiées et redimensionnées.
+
+211
+00:09:27,078 --> 00:09:27,327
+ 
+
+212
+00:09:27,327 --> 00:09:30,319
+On dirait des tracés
+de forte amplitude d'un EEG.
+
+213
+00:09:30,319 --> 00:09:30,407
+ 
+
+214
+00:09:30,407 --> 00:09:33,285
+- Une onde cérébrale?
+- Oui.
+
+215
+00:09:33,285 --> 00:09:36,407
+ 
+
+216
+00:09:36,407 --> 00:09:38,398
+Tiens?
+
+217
+00:09:38,398 --> 00:09:48,207
+ 
+
+218
+00:09:48,207 --> 00:09:51,119
+- Elle est toujours là.
+- Quoi, la sonde?
+
+219
+00:09:51,119 --> 00:09:51,207
+ 
+
+220
+00:09:51,207 --> 00:09:53,596
+Oui, enfin, si c'est une sonde.
+
+221
+00:09:53,596 --> 00:10:02,047
+ 
+
+222
+00:10:02,047 --> 00:10:04,720
+Elle a investi nos systèmes secondaires
+
+223
+00:10:04,720 --> 00:10:04,807
+ 
+
+224
+00:10:04,807 --> 00:10:08,436
+pendant qu'on nettoyait
+l'ordinateur central.
+
+225
+00:10:08,436 --> 00:10:08,527
+ 
+
+226
+00:10:08,527 --> 00:10:10,643
+J'ai pas grossi?
+
+227
+00:10:10,643 --> 00:10:10,727
+ 
+
+228
+00:10:10,727 --> 00:10:13,480
+Elle veut qu'on sache qu'elle est là.
+
+229
+00:10:13,480 --> 00:10:21,327
+ 
+
+230
+00:10:21,327 --> 00:10:23,966
+Vous venez souvent par ici?
+
+231
+00:10:23,966 --> 00:10:32,807
+ 
+
+232
+00:10:32,807 --> 00:10:34,684
+DESlGNATlON DE L'EQUlPE: SG-1
+
+233
+00:10:34,684 --> 00:10:35,327
+ 
+
+234
+00:10:35,327 --> 00:10:37,238
+Oui, en effet, c'est moi.
+
+235
+00:10:37,238 --> 00:11:05,087
+ 
+
+236
+00:11:05,087 --> 00:11:08,443
+Excusez-moi.
+Le séquenceur est tombé en panne.
+
+237
+00:11:08,443 --> 00:11:08,527
+ 
+
+238
+00:11:08,527 --> 00:11:11,678
+- Déconnectez-le, caporal.
+- Bien, mon général.
+
+239
+00:11:11,678 --> 00:11:17,447
+ 
+
+240
+00:11:17,447 --> 00:11:20,598
+- Elle apprend.
+- Elle apprend quoi?
+
+241
+00:11:20,598 --> 00:11:21,287
+ 
+
+242
+00:11:21,287 --> 00:11:24,404
+Qui nous sommes.
+Nos noms, nos fonctions ici.
+
+243
+00:11:24,404 --> 00:11:24,967
+ 
+
+244
+00:11:24,967 --> 00:11:27,083
+Faites cesser cela, commandant.
+
+245
+00:11:27,083 --> 00:11:27,167
+ 
+
+246
+00:11:27,167 --> 00:11:31,240
+- Bien, mon général.
+- On ne connaît même pas ses intentions.
+
+247
+00:11:31,240 --> 00:11:31,327
+ 
+
+248
+00:11:31,327 --> 00:11:36,560
+Docteur, je ne peux pas laisser une entité
+extraterrestre pénétrer nos systèmes.
+
+249
+00:11:36,560 --> 00:11:55,007
+ 
+
+250
+00:11:55,007 --> 00:11:58,079
+La quarantaine est-elle maintenue?
+
+251
+00:11:58,079 --> 00:11:58,167
+ 
+
+252
+00:11:58,167 --> 00:12:00,635
+Oui. Nous sommes toujours isolés.
+
+253
+00:12:00,635 --> 00:12:00,887
+ 
+
+254
+00:12:00,887 --> 00:12:03,242
+Ne contaminons pas le monde extérieur.
+
+255
+00:12:03,242 --> 00:12:03,327
+ 
+
+256
+00:12:03,327 --> 00:12:06,922
+Je veux qu'on se débarrasse
+de cette chose immédiatement.
+
+257
+00:12:06,922 --> 00:12:09,127
+ 
+
+258
+00:12:09,127 --> 00:12:11,880
+Je crois qu'elle m'aime bien.
+
+259
+00:12:11,880 --> 00:12:16,607
+ 
+
+260
+00:12:16,607 --> 00:12:19,679
+C'est comme un programme
+informatique:
+
+261
+00:12:19,679 --> 00:12:19,767
+ 
+
+262
+00:12:19,767 --> 00:12:22,679
+envahissant,
+et aussi complexe qu'un brin d'ADN.
+
+263
+00:12:22,679 --> 00:12:22,767
+ 
+
+264
+00:12:22,767 --> 00:12:25,361
+Elle s'étend. Elle absorbe de la mémoire.
+
+265
+00:12:25,361 --> 00:12:25,447
+ 
+
+266
+00:12:25,447 --> 00:12:28,007
+- Peut-on la supprimer?
+- ll faut couper
+
+267
+00:12:28,007 --> 00:12:28,087
+ 
+
+268
+00:12:28,087 --> 00:12:30,362
+les systèmes de l'ordinateur central,
+
+269
+00:12:30,362 --> 00:12:30,447
+ 
+
+270
+00:12:30,447 --> 00:12:33,041
+puis formater tous les lecteurs.
+
+271
+00:12:33,041 --> 00:12:33,127
+ 
+
+272
+00:12:33,127 --> 00:12:37,917
+Malheureusement, toutes les données
+non sauvegardées seront détruites.
+
+273
+00:12:37,917 --> 00:12:38,007
+ 
+
+274
+00:12:38,007 --> 00:12:42,239
+- Mais c'est la seule solution.
+- Compris. Faites-le.
+
+275
+00:12:42,239 --> 00:12:42,687
+ 
+
+276
+00:12:42,687 --> 00:12:44,917
+La base sera hors service.
+
+277
+00:12:44,917 --> 00:12:45,007
+ 
+
+278
+00:12:45,007 --> 00:12:49,159
+J'ai ordonné aux équipes en mission
+à l'extérieur de ne pas bouger.
+
+279
+00:12:49,159 --> 00:12:49,247
+ 
+
+280
+00:12:49,247 --> 00:12:50,475
+Bien, mon général.
+
+281
+00:12:50,475 --> 00:12:50,567
+ 
+
+282
+00:12:50,567 --> 00:12:54,003
+- Caporal?
+- Mise en veille des systèmes imminente.
+
+283
+00:12:54,003 --> 00:12:55,367
+ 
+
+284
+00:12:55,367 --> 00:12:57,437
+Mise en veille des systèmes.
+
+285
+00:12:57,437 --> 00:13:37,167
+ 
+
+286
+00:13:37,167 --> 00:13:40,045
+- ll ne manque aucun fichier.
+- Merci, caporal.
+
+287
+00:13:40,045 --> 00:13:40,127
+ 
+
+288
+00:13:40,127 --> 00:13:43,597
+On n'a peut-être perdu
+que les données les plus récentes.
+
+289
+00:13:43,597 --> 00:13:43,687
+ 
+
+290
+00:13:43,687 --> 00:13:47,236
+Les archives du SGC
+au Pentagone nous en diront plus.
+
+291
+00:13:47,236 --> 00:13:47,327
+ 
+
+292
+00:13:47,327 --> 00:13:51,286
+Vérifiez d'abord vos résultats
+avec le caporal Siler.
+
+293
+00:13:51,286 --> 00:13:51,367
+ 
+
+294
+00:13:51,367 --> 00:13:53,642
+Bien, mon général.
+
+295
+00:13:53,642 --> 00:13:53,727
+ 
+
+296
+00:13:53,727 --> 00:13:55,718
+Commandant.
+
+297
+00:13:55,718 --> 00:13:59,247
+ 
+
+298
+00:13:59,247 --> 00:14:00,316
+C'est pas vrai.
+
+299
+00:14:00,316 --> 00:14:00,407
+ 
+
+300
+00:14:00,407 --> 00:14:04,195
+LE SYSTEME SlGNALE
+UNE ABSENCE DE REPONSE
+
+301
+00:14:04,195 --> 00:14:10,487
+ 
+
+302
+00:14:10,487 --> 00:14:12,478
+Carter.
+
+303
+00:14:12,478 --> 00:14:13,007
+ 
+
+304
+00:14:13,007 --> 00:14:15,601
+- L'éclairage?
+- Dans la salle des sondes.
+
+305
+00:14:15,601 --> 00:14:15,687
+ 
+
+306
+00:14:15,687 --> 00:14:17,678
+Une anomalie dans l'alimentation.
+
+307
+00:14:17,678 --> 00:14:17,767
+ 
+
+308
+00:14:17,767 --> 00:14:20,600
+Le général Hammond
+nous a demandé d'aller voir.
+
+309
+00:14:20,600 --> 00:14:20,687
+ 
+
+310
+00:14:20,687 --> 00:14:23,838
+- Vous avez oublié de changer l'ampoule?
+- Ce n'est pas mon rôle.
+
+311
+00:14:23,838 --> 00:14:23,927
+ 
+
+312
+00:14:23,927 --> 00:14:26,441
+Ah, oui. L'ampoule. Très amusant.
+
+313
+00:14:26,441 --> 00:14:38,647
+ 
+
+314
+00:14:38,647 --> 00:14:40,524
+- C'est chaud.
+- Un incendie?
+
+315
+00:14:40,524 --> 00:14:40,607
+ 
+
+316
+00:14:40,607 --> 00:14:43,758
+Les alarmes se seraient déclenchées.
+
+317
+00:14:43,758 --> 00:14:43,847
+ 
+
+318
+00:14:43,847 --> 00:14:45,917
+Elle a été soudée de l'intérieur.
+
+319
+00:14:45,917 --> 00:14:46,407
+ 
+
+320
+00:14:46,407 --> 00:14:50,002
+Par qui? Personne n'est venu ici
+depuis le court-circuit.
+
+321
+00:14:50,002 --> 00:14:50,087
+ 
+
+322
+00:14:50,087 --> 00:14:52,362
+Allez chercher une torche.
+
+323
+00:14:52,362 --> 00:14:57,767
+ 
+
+324
+00:14:57,767 --> 00:14:59,997
+ETAGE DE SERVlCE 24
+
+325
+00:14:59,997 --> 00:16:10,687
+ 
+
+326
+00:16:10,687 --> 00:16:14,999
+- Qu'est-ce que c'est?
+- Je ne sais pas, colonel.
+
+327
+00:16:14,999 --> 00:16:16,967
+ 
+
+328
+00:16:16,967 --> 00:16:21,722
+On a privé l'entité de son environnement,
+alors elle en a créé un autre.
+
+329
+00:16:21,722 --> 00:16:24,847
+ 
+
+330
+00:16:24,847 --> 00:16:30,319
+Elle semble s'alimenter avec l'énergie
+électrique de l'éclairage de secours.
+
+331
+00:16:30,319 --> 00:16:30,647
+ 
+
+332
+00:16:30,647 --> 00:16:34,117
+Elle a dû survivre
+grâce à la batterie d'une sonde
+
+333
+00:16:34,117 --> 00:16:34,207
+ 
+
+334
+00:16:34,207 --> 00:16:39,156
+et créer cette mémoire centrale pendant
+qu'on utilisait le groupe de secours.
+
+335
+00:16:39,156 --> 00:16:39,927
+ 
+
+336
+00:16:39,927 --> 00:16:43,715
+- ''Mémoire centrale''?
+- On en a effacé la majeure partie.
+
+337
+00:16:43,715 --> 00:16:44,367
+ 
+
+338
+00:16:44,367 --> 00:16:49,725
+Ce programme peut se reproduire à partir
+d'une fraction de sa taille d'origine.
+
+339
+00:16:49,725 --> 00:16:50,047
+ 
+
+340
+00:16:50,047 --> 00:16:54,120
+Et maintenant, il se propage
+sur toute la mémoire qu'il trouve.
+
+341
+00:16:54,120 --> 00:16:54,207
+ 
+
+342
+00:16:54,207 --> 00:16:56,004
+Je vois.
+
+343
+00:16:56,004 --> 00:16:56,607
+ 
+
+344
+00:16:56,607 --> 00:16:59,519
+Mon général, on a besoin
+de mines antipersonnel.
+
+345
+00:16:59,519 --> 00:16:59,607
+ 
+
+346
+00:16:59,607 --> 00:17:01,677
+J'arrive tout de suite.
+
+347
+00:17:01,677 --> 00:17:01,767
+ 
+
+348
+00:17:01,767 --> 00:17:04,122
+Tu veux le faire sauter?
+
+349
+00:17:04,122 --> 00:17:04,767
+ 
+
+350
+00:17:04,767 --> 00:17:06,519
+- Oui.
+- Pourquoi?
+
+351
+00:17:06,519 --> 00:17:08,047
+ 
+
+352
+00:17:08,047 --> 00:17:12,802
+On a isolé ce secteur. L'ordinateur
+ne peut pas être infecté de nouveau.
+
+353
+00:17:12,802 --> 00:17:12,967
+ 
+
+354
+00:17:12,967 --> 00:17:15,879
+De toute évidence, il se bat pour survivre.
+
+355
+00:17:15,879 --> 00:17:16,367
+ 
+
+356
+00:17:16,367 --> 00:17:19,086
+Les bactéries aussi.
+
+357
+00:17:19,086 --> 00:17:27,127
+ 
+
+358
+00:17:27,127 --> 00:17:29,163
+ll essaie de communiquer.
+
+359
+00:17:29,163 --> 00:17:29,247
+ 
+
+360
+00:17:29,247 --> 00:17:31,078
+Les bactéries auss...
+
+361
+00:17:31,078 --> 00:17:31,167
+ 
+
+362
+00:17:31,167 --> 00:17:35,126
+Daniel a raison. C'est une forme
+de vie, une forme intelligente.
+
+363
+00:17:35,126 --> 00:17:35,207
+ 
+
+364
+00:17:35,207 --> 00:17:39,883
+On s'est trouvés dans la même situation
+que cette entité plus d'une fois.
+
+365
+00:17:39,883 --> 00:17:39,967
+ 
+
+366
+00:17:39,967 --> 00:17:44,245
+Sur une autre planète, coupés
+de notre monde, à essayer de survivre.
+
+367
+00:17:44,245 --> 00:17:45,727
+ 
+
+368
+00:17:45,727 --> 00:17:47,877
+Qu'est-ce que c'est que ça?
+
+369
+00:17:47,877 --> 00:17:48,687
+ 
+
+370
+00:17:48,687 --> 00:17:53,886
+Mon général, la chose qui a envahi
+nos ordinateurs s'est construit un nid.
+
+371
+00:17:53,886 --> 00:18:04,447
+ 
+
+372
+00:18:04,447 --> 00:18:06,756
+- En une nuit?
+- Selon le journal,
+
+373
+00:18:06,756 --> 00:18:06,847
+ 
+
+374
+00:18:06,847 --> 00:18:10,476
+il n'y a eu aucune activité
+humaine ici depuis 36 heures.
+
+375
+00:18:10,476 --> 00:18:10,607
+ 
+
+376
+00:18:10,607 --> 00:18:15,681
+Notez bien ça: je veux la faire sauter.
+Eux, ils veulent discuter avec elle.
+
+377
+00:18:15,681 --> 00:18:16,687
+ 
+
+378
+00:18:16,687 --> 00:18:21,477
+Etes-vous certaine qu'elle ne peut pas
+se reconnecter à nos ordinateurs?
+
+379
+00:18:21,477 --> 00:18:21,567
+ 
+
+380
+00:18:21,567 --> 00:18:23,603
+Mon général?
+
+381
+00:18:23,603 --> 00:18:24,807
+ 
+
+382
+00:18:24,807 --> 00:18:29,881
+Elle survit grâce au circuit de secours,
+elle est donc isolée du reste de la base.
+
+383
+00:18:29,881 --> 00:18:29,967
+ 
+
+384
+00:18:29,967 --> 00:18:33,357
+ll suffit de couper
+cette connexion pour la supprimer.
+
+385
+00:18:33,357 --> 00:18:34,367
+ 
+
+386
+00:18:34,367 --> 00:18:38,155
+- Que comptez-vous faire?
+- Elle a fourni une interface.
+
+387
+00:18:38,155 --> 00:18:38,247
+ 
+
+388
+00:18:38,247 --> 00:18:42,957
+J'aimerais communiquer avec elle. En cas
+de problème, on coupe l'alimentation.
+
+389
+00:18:42,957 --> 00:18:44,407
+ 
+
+390
+00:18:44,407 --> 00:18:46,477
+Très bien.
+
+391
+00:18:46,477 --> 00:19:07,167
+ 
+
+392
+00:19:07,167 --> 00:19:09,601
+QUELLES SONT VOS lNTENTlONS?
+
+393
+00:19:09,601 --> 00:19:20,207
+ 
+
+394
+00:19:20,207 --> 00:19:23,165
+ET LES VOTRES?
+
+395
+00:19:23,165 --> 00:19:26,767
+ 
+
+396
+00:19:26,767 --> 00:19:30,885
+Elle cherche peut-être à savoir
+pourquoi on a envoyé la sonde.
+
+397
+00:19:30,885 --> 00:19:31,687
+ 
+
+398
+00:19:31,687 --> 00:19:33,086
+NOUS SOMMES DES EXPLORATEURS
+
+399
+00:19:33,086 --> 00:19:39,567
+ 
+
+400
+00:19:39,567 --> 00:19:41,558
+Commandant Carter?
+
+401
+00:19:41,558 --> 00:19:49,327
+ 
+
+402
+00:19:49,327 --> 00:19:51,158
+Carter.
+
+403
+00:19:51,158 --> 00:19:55,007
+ 
+
+404
+00:19:55,007 --> 00:19:57,441
+Faites un ECG et un EEG.
+
+405
+00:19:57,441 --> 00:19:58,447
+ 
+
+406
+00:19:58,447 --> 00:20:00,199
+Bon. A mon signal.
+
+407
+00:20:00,199 --> 00:20:00,287
+ 
+
+408
+00:20:00,287 --> 00:20:02,562
+Trois, deux, un.
+
+409
+00:20:02,562 --> 00:20:15,567
+ 
+
+410
+00:20:15,567 --> 00:20:17,762
+On y est?
+
+411
+00:20:17,762 --> 00:20:22,047
+ 
+
+412
+00:20:22,047 --> 00:20:24,356
+Réglez les électrodes sur 100.
+
+413
+00:20:24,356 --> 00:20:24,447
+ 
+
+414
+00:20:24,447 --> 00:20:26,642
+Prenez ma place.
+
+415
+00:20:26,642 --> 00:20:26,727
+ 
+
+416
+00:20:26,727 --> 00:20:28,285
+ETAT CRlTlQUE
+
+417
+00:20:28,285 --> 00:20:40,047
+ 
+
+418
+00:20:40,047 --> 00:20:42,322
+Le rythme cardiaque est normal.
+
+419
+00:20:42,322 --> 00:20:48,527
+ 
+
+420
+00:20:48,527 --> 00:20:50,518
+Colonel.
+
+421
+00:20:50,518 --> 00:20:52,047
+ 
+
+422
+00:20:52,047 --> 00:20:54,515
+Quoi? Qu'est-ce qu'il y a?
+
+423
+00:20:54,515 --> 00:20:54,607
+ 
+
+424
+00:20:54,607 --> 00:20:58,441
+Ce sont les tracés
+qui ont infecté l'ordinateur.
+
+425
+00:20:58,441 --> 00:20:58,527
+ 
+
+426
+00:20:58,527 --> 00:21:00,722
+L'entité est en elle.
+
+427
+00:21:00,722 --> 00:21:10,447
+ 
+
+428
+00:21:10,447 --> 00:21:14,963
+COMPLEXE
+DE LA MONTAGNE CHEYENNE
+
+429
+00:21:14,963 --> 00:21:20,247
+ 
+
+430
+00:21:20,247 --> 00:21:25,082
+Ces tracés plus faibles sont ceux
+de Carter, et voici ceux de l'entité.
+
+431
+00:21:25,082 --> 00:21:25,167
+ 
+
+432
+00:21:25,167 --> 00:21:28,125
+Pourquoi serait-elle
+entrée dans son cerveau?
+
+433
+00:21:28,125 --> 00:21:28,207
+ 
+
+434
+00:21:28,207 --> 00:21:31,085
+Elle cherchait de la mémoire
+pour s'étendre.
+
+435
+00:21:31,085 --> 00:21:31,167
+ 
+
+436
+00:21:31,167 --> 00:21:34,557
+Le cerveau peut stocker
+des téraoctets d'informations.
+
+437
+00:21:34,557 --> 00:21:34,647
+ 
+
+438
+00:21:34,647 --> 00:21:38,560
+- Comment va-t-on l'éliminer?
+- Je doute que ce soit possible.
+
+439
+00:21:38,560 --> 00:21:38,647
+ 
+
+440
+00:21:38,647 --> 00:21:41,161
+Son cerveau est de plus en plus stimulé.
+
+441
+00:21:41,161 --> 00:21:41,247
+ 
+
+442
+00:21:41,247 --> 00:21:45,923
+On ne peut pas savoir si sa mémoire
+a été supprimée, écrasée ou effacée.
+
+443
+00:21:45,923 --> 00:21:46,007
+ 
+
+444
+00:21:46,007 --> 00:21:50,762
+Général. Je suggère qu'elle soit placée
+sous la surveillance de gardes armés.
+
+445
+00:21:50,762 --> 00:21:50,847
+ 
+
+446
+00:21:50,847 --> 00:21:52,644
+Quoi?
+
+447
+00:21:52,644 --> 00:21:52,727
+ 
+
+448
+00:21:52,727 --> 00:21:55,366
+Si cette entité a envahi son corps,
+
+449
+00:21:55,366 --> 00:21:55,447
+ 
+
+450
+00:21:55,447 --> 00:21:59,326
+elle présente un risque
+et doit être traitée en conséquence.
+
+451
+00:21:59,326 --> 00:21:59,407
+ 
+
+452
+00:21:59,407 --> 00:22:00,999
+Je suis d'accord.
+
+453
+00:22:00,999 --> 00:22:01,087
+ 
+
+454
+00:22:01,087 --> 00:22:05,444
+L'entité nous a bernés deux fois.
+Je ne la laisserai pas recommencer.
+
+455
+00:22:05,444 --> 00:22:05,527
+ 
+
+456
+00:22:05,527 --> 00:22:08,405
+Elle restera
+sous surveillance en permanence.
+
+457
+00:22:08,405 --> 00:22:08,487
+ 
+
+458
+00:22:08,487 --> 00:22:10,796
+Bien, mon général.
+
+459
+00:22:10,796 --> 00:22:32,407
+ 
+
+460
+00:22:32,407 --> 00:22:34,398
+Carter?
+
+461
+00:22:34,398 --> 00:22:38,287
+ 
+
+462
+00:22:38,287 --> 00:22:40,482
+Elle a repris connaissance.
+
+463
+00:22:40,482 --> 00:22:50,567
+ 
+
+464
+00:22:50,567 --> 00:22:53,445
+Vous pouvez parler?
+
+465
+00:22:53,445 --> 00:22:55,767
+ 
+
+466
+00:22:55,767 --> 00:22:59,203
+Sa tomographie est celle
+d'une victime d'une attaque.
+
+467
+00:22:59,203 --> 00:23:01,887
+ 
+
+468
+00:23:01,887 --> 00:23:06,961
+Des parties du cerveau sont très actives.
+D'autres semblent supprimées.
+
+469
+00:23:06,961 --> 00:23:07,047
+ 
+
+470
+00:23:07,047 --> 00:23:08,924
+L'entité contrôle ses membres.
+
+471
+00:23:08,924 --> 00:23:09,007
+ 
+
+472
+00:23:09,007 --> 00:23:13,797
+Elle est peut-être capable de
+communiquer avec un synthétiseur vocal.
+
+473
+00:23:13,797 --> 00:23:13,887
+ 
+
+474
+00:23:13,887 --> 00:23:17,197
+Contentez-vous
+de la débarrasser de ce truc, d'accord?
+
+475
+00:23:17,197 --> 00:23:17,927
+ 
+
+476
+00:23:17,927 --> 00:23:19,883
+Je ne sais pas comment faire.
+
+477
+00:23:19,883 --> 00:23:22,927
+ 
+
+478
+00:23:22,927 --> 00:23:26,476
+Les Tok'ras ou les Asgards
+ne nous doivent pas un service?
+
+479
+00:23:26,476 --> 00:23:26,567
+ 
+
+480
+00:23:26,567 --> 00:23:30,640
+Tant que ce problème n'est pas
+résolu, nous sommes en quarantaine.
+
+481
+00:23:30,640 --> 00:23:30,727
+ 
+
+482
+00:23:30,727 --> 00:23:33,878
+Nos aIIiés n'échappent pas à Ia règIe.
+
+483
+00:23:33,878 --> 00:23:33,967
+ 
+
+484
+00:23:33,967 --> 00:23:37,243
+L'entité ne doit pas quitter ce bâtiment.
+
+485
+00:23:37,243 --> 00:23:47,887
+ 
+
+486
+00:23:47,887 --> 00:23:49,957
+Elle a utilisé un condensateur
+
+487
+00:23:49,957 --> 00:23:50,047
+ 
+
+488
+00:23:50,047 --> 00:23:53,005
+pour produire une décharge
+dans le clavier.
+
+489
+00:23:53,005 --> 00:23:53,087
+ 
+
+490
+00:23:53,087 --> 00:23:55,203
+- N'y touchez pas.
+- Bien.
+
+491
+00:23:55,203 --> 00:23:55,287
+ 
+
+492
+00:23:55,287 --> 00:24:00,964
+- Sam a dit qu'elle se propageait.
+- Peut-être l'entité qui l'a possédée
+
+493
+00:24:00,964 --> 00:24:01,047
+ 
+
+494
+00:24:01,047 --> 00:24:04,756
+a-t-elle senti qu'elle était
+une bonne réserve de mémoire.
+
+495
+00:24:04,756 --> 00:24:04,847
+ 
+
+496
+00:24:04,847 --> 00:24:06,360
+C'était un piège.
+
+497
+00:24:06,360 --> 00:24:08,567
+ 
+
+498
+00:24:08,567 --> 00:24:11,764
+Oui. Elle nous observait depuis le début.
+
+499
+00:24:11,764 --> 00:24:13,967
+ 
+
+500
+00:24:13,967 --> 00:24:17,642
+Elle savait que Sam et moi
+voulions communiquer avec elle?
+
+501
+00:24:17,642 --> 00:24:18,527
+ 
+
+502
+00:24:18,527 --> 00:24:19,755
+Oui.
+
+503
+00:24:19,755 --> 00:24:19,847
+ 
+
+504
+00:24:19,847 --> 00:24:24,125
+Elle a construit ce système
+dans le but d'envahir son corps.
+
+505
+00:24:24,125 --> 00:24:24,447
+ 
+
+506
+00:24:24,447 --> 00:24:27,439
+- Oui.
+- Alors, en fait, ce que tu veux dire,
+
+507
+00:24:27,439 --> 00:24:27,527
+ 
+
+508
+00:24:27,527 --> 00:24:31,805
+c'est que si on t'avait écouté
+et qu'on l'avait fait sauter...
+
+509
+00:24:31,805 --> 00:24:31,887
+ 
+
+510
+00:24:31,887 --> 00:24:34,481
+Non, sérieusement. C'est ça?
+
+511
+00:24:34,481 --> 00:24:34,567
+ 
+
+512
+00:24:34,567 --> 00:24:36,876
+Si nous avions détruit l'entité,
+
+513
+00:24:36,876 --> 00:24:36,967
+ 
+
+514
+00:24:36,967 --> 00:24:40,960
+le commandant Carter
+n'aurait pas été affligée de ce malheur.
+
+515
+00:24:40,960 --> 00:24:41,047
+ 
+
+516
+00:24:41,047 --> 00:24:42,765
+Bon, écoutez.
+
+517
+00:24:42,765 --> 00:24:42,847
+ 
+
+518
+00:24:42,847 --> 00:24:47,841
+Je sais que votre première réaction est
+de protéger. C'est votre boulot. Mais...
+
+519
+00:24:47,841 --> 00:24:48,327
+ 
+
+520
+00:24:48,327 --> 00:24:52,400
+quoi qu'il arrive,
+même si les choses tournent mal,
+
+521
+00:24:52,400 --> 00:24:53,687
+ 
+
+522
+00:24:53,687 --> 00:24:57,236
+Sam n'a pas eu tort
+de vouloir communiquer avec l'entité.
+
+523
+00:24:57,236 --> 00:25:30,767
+ 
+
+524
+00:25:30,767 --> 00:25:32,917
+O'NeiII.
+
+525
+00:25:32,917 --> 00:25:33,007
+ 
+
+526
+00:25:33,007 --> 00:25:34,998
+C'est ça.
+
+527
+00:25:34,998 --> 00:25:35,767
+ 
+
+528
+00:25:35,767 --> 00:25:38,076
+Allez cherchez le médecin.
+
+529
+00:25:38,076 --> 00:25:40,447
+ 
+
+530
+00:25:40,447 --> 00:25:42,677
+Et vous êtes...?
+
+531
+00:25:42,677 --> 00:25:45,167
+ 
+
+532
+00:25:45,167 --> 00:25:46,919
+Je suis à I'intérieur.
+
+533
+00:25:46,919 --> 00:25:50,527
+ 
+
+534
+00:25:50,527 --> 00:25:55,043
+- Vous êtes O'NeiII.
+- Oui. Nous avons réglé cette question.
+
+535
+00:25:55,043 --> 00:25:56,367
+ 
+
+536
+00:25:56,367 --> 00:25:58,642
+Cette chose a des souvenirs de vous.
+
+537
+00:25:58,642 --> 00:25:58,727
+ 
+
+538
+00:25:58,727 --> 00:26:01,321
+Ce n'est pas une chose
+mais une personne.
+
+539
+00:26:01,321 --> 00:26:01,407
+ 
+
+540
+00:26:01,407 --> 00:26:04,558
+C'est le commandant Samantha Carter.
+
+541
+00:26:04,558 --> 00:26:06,167
+ 
+
+542
+00:26:06,167 --> 00:26:08,397
+AIors je suis Ie commandant...
+
+543
+00:26:08,397 --> 00:26:08,487
+ 
+
+544
+00:26:08,487 --> 00:26:10,842
+Non. Non, pas du tout.
+
+545
+00:26:10,842 --> 00:26:14,687
+ 
+
+546
+00:26:14,687 --> 00:26:19,477
+Vous avez pris le contrôle du
+commandant, mais vous n'êtes pas elle.
+
+547
+00:26:19,477 --> 00:26:21,167
+ 
+
+548
+00:26:21,167 --> 00:26:23,237
+Je n'avais pas Ie choix.
+
+549
+00:26:23,237 --> 00:26:24,127
+ 
+
+550
+00:26:24,127 --> 00:26:26,197
+NuIIe part où aIIer.
+
+551
+00:26:26,197 --> 00:26:27,007
+ 
+
+552
+00:26:27,007 --> 00:26:29,646
+Vous vouIiez m'éIiminer.
+
+553
+00:26:29,646 --> 00:26:29,727
+ 
+
+554
+00:26:29,727 --> 00:26:31,524
+On le veut toujours.
+
+555
+00:26:31,524 --> 00:26:33,527
+ 
+
+556
+00:26:33,527 --> 00:26:36,758
+Mais vous ne Ie ferez pas.
+PIus maintenant.
+
+557
+00:26:36,758 --> 00:26:37,927
+ 
+
+558
+00:26:37,927 --> 00:26:40,202
+Je vous ai observés.
+
+559
+00:26:40,202 --> 00:26:41,887
+ 
+
+560
+00:26:41,887 --> 00:26:44,003
+La vie est précieuse pour vous.
+
+561
+00:26:44,003 --> 00:26:45,367
+ 
+
+562
+00:26:45,367 --> 00:26:47,927
+Oui, en effet.
+
+563
+00:26:47,927 --> 00:26:49,047
+ 
+
+564
+00:26:49,047 --> 00:26:51,436
+CeIIe-ci est importante.
+
+565
+00:26:51,436 --> 00:26:53,047
+ 
+
+566
+00:26:53,047 --> 00:26:55,277
+En effet.
+
+567
+00:26:55,277 --> 00:26:57,727
+ 
+
+568
+00:26:57,727 --> 00:27:00,958
+C'est pourquoi eIIe a été choisie.
+
+569
+00:27:00,958 --> 00:27:01,967
+ 
+
+570
+00:27:01,967 --> 00:27:05,926
+Vous ne I'éIiminerez pas
+pour me détruire.
+
+571
+00:27:05,926 --> 00:27:09,007
+ 
+
+572
+00:27:09,007 --> 00:27:11,999
+Elle a envahi Sam
+par instinct de conservation.
+
+573
+00:27:11,999 --> 00:27:13,767
+ 
+
+574
+00:27:13,767 --> 00:27:17,999
+Vous ne pouvez pas m'extraire
+de ce cerveau sans I'éIiminer.
+
+575
+00:27:17,999 --> 00:27:18,807
+ 
+
+576
+00:27:18,807 --> 00:27:21,367
+Vous ne I'éIiminerez pas.
+
+577
+00:27:21,367 --> 00:27:25,567
+ 
+
+578
+00:27:25,567 --> 00:27:28,127
+Aucun de vous ne I'éIiminera.
+
+579
+00:27:28,127 --> 00:27:32,407
+ 
+
+580
+00:27:32,407 --> 00:27:34,762
+Ainsi, je survivrai.
+
+581
+00:27:34,762 --> 00:27:43,327
+ 
+
+582
+00:27:43,327 --> 00:27:46,239
+L'entité dit
+que le cerveau de Sam est intact,
+
+583
+00:27:46,239 --> 00:27:46,327
+ 
+
+584
+00:27:46,327 --> 00:27:49,558
+mais je n'en décèle pas le moindre signe.
+
+585
+00:27:49,558 --> 00:27:49,647
+ 
+
+586
+00:27:49,647 --> 00:27:52,957
+Je crois que même
+si j'arrivais à extraire l'entité,
+
+587
+00:27:52,957 --> 00:27:53,047
+ 
+
+588
+00:27:53,047 --> 00:27:55,845
+Sam serait en état de mort cérébrale.
+
+589
+00:27:55,845 --> 00:27:56,607
+ 
+
+590
+00:27:56,607 --> 00:27:58,484
+Je vois.
+
+591
+00:27:58,484 --> 00:27:59,007
+ 
+
+592
+00:27:59,007 --> 00:28:03,523
+Alors pourquoi l'entité répète-t-elle
+que le cerveau de Sam est intact?
+
+593
+00:28:03,523 --> 00:28:03,607
+ 
+
+594
+00:28:03,607 --> 00:28:05,802
+Pour qu'on ne la tue pas.
+
+595
+00:28:05,802 --> 00:28:05,887
+ 
+
+596
+00:28:05,887 --> 00:28:08,685
+Ou alors, c'est vrai
+mais ça ne se décèle pas.
+
+597
+00:28:08,685 --> 00:28:08,767
+ 
+
+598
+00:28:08,767 --> 00:28:12,203
+Même si Sam est toujours là,
+ça ne durera pas.
+
+599
+00:28:12,203 --> 00:28:12,287
+ 
+
+600
+00:28:12,287 --> 00:28:17,520
+L'influence de l'entité continue à grandir,
+et je ne peux rien faire pour l'arrêter.
+
+601
+00:28:17,520 --> 00:28:17,607
+ 
+
+602
+00:28:17,607 --> 00:28:19,518
+Quel moyen d'action reste-t-il?
+
+603
+00:28:19,518 --> 00:28:19,607
+ 
+
+604
+00:28:19,607 --> 00:28:23,202
+Elle veut survivre:
+offrons de la renvoyer chez elle.
+
+605
+00:28:23,202 --> 00:28:23,567
+ 
+
+606
+00:28:23,567 --> 00:28:27,082
+Cette technologie extraterrestre
+est revenue vers nous
+
+607
+00:28:27,082 --> 00:28:27,167
+ 
+
+608
+00:28:27,167 --> 00:28:29,635
+par un couloir espace-temps de sortie.
+
+609
+00:28:29,635 --> 00:28:29,727
+ 
+
+610
+00:28:29,727 --> 00:28:32,924
+Je ne veux pas que ça se reproduise.
+
+611
+00:28:32,924 --> 00:28:33,007
+ 
+
+612
+00:28:33,007 --> 00:28:37,717
+Nous avons déjà effacé les coordonnées
+de l'ordinateur composeur.
+
+613
+00:28:37,717 --> 00:28:37,807
+ 
+
+614
+00:28:37,807 --> 00:28:43,439
+Laissez-moi lui parler. Je la convaincrai
+peut-être de partir de son plein gré.
+
+615
+00:28:43,439 --> 00:28:44,727
+ 
+
+616
+00:28:44,727 --> 00:28:47,161
+Entendu, Dr Jackson.
+
+617
+00:28:47,161 --> 00:28:47,247
+ 
+
+618
+00:28:47,247 --> 00:28:49,158
+Disposez.
+
+619
+00:28:49,158 --> 00:28:53,767
+ 
+
+620
+00:28:53,767 --> 00:28:55,041
+Jack.
+
+621
+00:28:55,041 --> 00:28:55,367
+ 
+
+622
+00:28:55,367 --> 00:28:56,925
+Général?
+
+623
+00:28:56,925 --> 00:28:57,607
+ 
+
+624
+00:28:57,607 --> 00:29:01,282
+Nous aurons peut-être
+des choix difficiles à faire.
+
+625
+00:29:01,282 --> 00:29:01,367
+ 
+
+626
+00:29:01,367 --> 00:29:04,916
+Je sais combien
+le commandant Carter compte pour vous.
+
+627
+00:29:04,916 --> 00:29:05,527
+ 
+
+628
+00:29:05,527 --> 00:29:08,564
+C'est un membre
+très précieux de mon équipe.
+
+629
+00:29:08,564 --> 00:29:09,087
+ 
+
+630
+00:29:09,087 --> 00:29:10,998
+Oui, en effet.
+
+631
+00:29:10,998 --> 00:29:43,407
+ 
+
+632
+00:29:43,407 --> 00:29:45,762
+Je m'appelle Daniel.
+
+633
+00:29:45,762 --> 00:29:47,127
+ 
+
+634
+00:29:47,127 --> 00:29:49,516
+Je Ie sais.
+
+635
+00:29:49,516 --> 00:29:49,607
+ 
+
+636
+00:29:49,607 --> 00:29:52,883
+Je vois. Vous avez lu mon dossier.
+
+637
+00:29:52,883 --> 00:29:54,327
+ 
+
+638
+00:29:54,327 --> 00:29:58,286
+- Oui.
+- Vous savez que je suis un scientifique.
+
+639
+00:29:58,286 --> 00:30:00,167
+ 
+
+640
+00:30:00,167 --> 00:30:02,158
+Oui.
+
+641
+00:30:02,158 --> 00:30:04,447
+ 
+
+642
+00:30:04,447 --> 00:30:07,678
+Vous avez compris
+que vous ne pouvez pas m'extraire.
+
+643
+00:30:07,678 --> 00:30:08,847
+ 
+
+644
+00:30:08,847 --> 00:30:10,838
+Oui.
+
+645
+00:30:10,838 --> 00:30:13,727
+ 
+
+646
+00:30:13,727 --> 00:30:18,482
+Je vais vous proposer des informations
+en échange de ma survie permanente.
+
+647
+00:30:18,482 --> 00:30:20,247
+ 
+
+648
+00:30:20,247 --> 00:30:23,319
+On ne veut pas
+de vos informations. On veut Sam.
+
+649
+00:30:23,319 --> 00:30:25,927
+ 
+
+650
+00:30:25,927 --> 00:30:29,442
+EIIe serait éIiminée
+si je quittais ce cerveau.
+
+651
+00:30:29,442 --> 00:30:29,527
+ 
+
+652
+00:30:29,527 --> 00:30:33,839
+Vous avez laissé votre engin
+dans la salle des sondes. Retournez-y.
+
+653
+00:30:33,839 --> 00:30:38,447
+ 
+
+654
+00:30:38,447 --> 00:30:42,156
+Sa capacité ne me suffit déjà pIus.
+
+655
+00:30:42,156 --> 00:30:46,407
+ 
+
+656
+00:30:46,407 --> 00:30:50,764
+Pourquoi avez-vous fait ça?
+Pourquoi êtes-vous venue ici?
+
+657
+00:30:50,764 --> 00:30:51,607
+ 
+
+658
+00:30:51,607 --> 00:30:55,600
+- Vous avez attaqué.
+- Non, on a envoyé une sonde.
+
+659
+00:30:55,600 --> 00:30:56,727
+ 
+
+660
+00:30:56,727 --> 00:30:58,718
+C'est-à-dire?
+
+661
+00:30:58,718 --> 00:30:59,327
+ 
+
+662
+00:30:59,327 --> 00:31:05,004
+On fait cela pour déterminer si un lieu
+est dangereux pour les humains.
+
+663
+00:31:05,004 --> 00:31:10,447
+ 
+
+664
+00:31:10,447 --> 00:31:13,678
+Votre sonde a émis de I'énergie radio.
+
+665
+00:31:13,678 --> 00:31:14,807
+ 
+
+666
+00:31:14,807 --> 00:31:16,843
+Provoquant une contagion.
+
+667
+00:31:16,843 --> 00:31:16,927
+ 
+
+668
+00:31:16,927 --> 00:31:21,762
+- Ca a causé beaucoup de dégâts.
+- Où cela?
+
+669
+00:31:21,762 --> 00:31:24,367
+ 
+
+670
+00:31:24,367 --> 00:31:26,358
+En nous.
+
+671
+00:31:26,358 --> 00:31:28,127
+ 
+
+672
+00:31:28,127 --> 00:31:31,597
+Nous avons compris trop tard
+que c'était un poison.
+
+673
+00:31:31,597 --> 00:31:31,767
+ 
+
+674
+00:31:31,767 --> 00:31:36,363
+Votre monde a subi des dégâts à cause
+d'ondes radio provenant d'une sonde?
+
+675
+00:31:36,363 --> 00:31:37,567
+ 
+
+676
+00:31:37,567 --> 00:31:39,080
+Oui.
+
+677
+00:31:39,080 --> 00:31:39,167
+ 
+
+678
+00:31:39,167 --> 00:31:43,399
+Nous ne voulions pas
+vous attaquer. C'est un malentendu.
+
+679
+00:31:43,399 --> 00:31:43,487
+ 
+
+680
+00:31:43,487 --> 00:31:45,717
+Mais Ie maI est fait.
+
+681
+00:31:45,717 --> 00:31:45,807
+ 
+
+682
+00:31:45,807 --> 00:31:48,526
+Alors vous êtes venu pour... pour quoi?
+
+683
+00:31:48,526 --> 00:31:50,687
+ 
+
+684
+00:31:50,687 --> 00:31:53,326
+- Préserver.
+- Préserver votre monde?
+
+685
+00:31:53,326 --> 00:31:54,367
+ 
+
+686
+00:31:54,367 --> 00:31:56,835
+- Oui.
+- Et comment?
+
+687
+00:31:56,835 --> 00:31:58,847
+ 
+
+688
+00:31:58,847 --> 00:32:00,724
+En vous exterminant.
+
+689
+00:32:00,724 --> 00:32:07,047
+ 
+
+690
+00:32:07,047 --> 00:32:09,720
+Eh bien, ça n'arrivera pas.
+
+691
+00:32:09,720 --> 00:32:12,447
+ 
+
+692
+00:32:12,447 --> 00:32:15,598
+La transmission a été interrompue.
+
+693
+00:32:15,598 --> 00:32:16,047
+ 
+
+694
+00:32:16,047 --> 00:32:19,357
+Si j'avais pu terminer Ia transmission,
+
+695
+00:32:19,357 --> 00:32:19,447
+ 
+
+696
+00:32:19,447 --> 00:32:22,086
+vous auriez été exterminés.
+
+697
+00:32:22,086 --> 00:32:22,607
+ 
+
+698
+00:32:22,607 --> 00:32:24,837
+Mon monde aurait été préservé.
+
+699
+00:32:24,837 --> 00:32:24,927
+ 
+
+700
+00:32:24,927 --> 00:32:27,157
+D'un côté, vous avez réussi.
+
+701
+00:32:27,157 --> 00:32:27,807
+ 
+
+702
+00:32:27,807 --> 00:32:30,162
+Nous n'y retournerons pas.
+
+703
+00:32:30,162 --> 00:32:30,447
+ 
+
+704
+00:32:30,447 --> 00:32:33,917
+Vous réparerez les dégâts
+et on n'enverra plus de sondes.
+
+705
+00:32:33,917 --> 00:32:34,167
+ 
+
+706
+00:32:34,167 --> 00:32:36,681
+Si, on en enverra.
+
+707
+00:32:36,681 --> 00:32:37,407
+ 
+
+708
+00:32:37,407 --> 00:32:39,125
+Jack?
+
+709
+00:32:39,125 --> 00:32:39,207
+ 
+
+710
+00:32:39,207 --> 00:32:42,005
+On en enverra des dizaines.
+
+711
+00:32:42,005 --> 00:32:42,087
+ 
+
+712
+00:32:42,087 --> 00:32:44,476
+Les unes après les autres.
+
+713
+00:32:44,476 --> 00:32:44,567
+ 
+
+714
+00:32:44,567 --> 00:32:47,001
+Je me moque des conséquences.
+
+715
+00:32:47,001 --> 00:32:48,647
+ 
+
+716
+00:32:48,647 --> 00:32:51,286
+- Non.
+- Quittez son corps. Tout de suite.
+
+717
+00:32:51,286 --> 00:32:52,047
+ 
+
+718
+00:32:52,047 --> 00:32:54,197
+Vous ne ferez pas ça.
+
+719
+00:32:54,197 --> 00:32:54,287
+ 
+
+720
+00:32:54,287 --> 00:32:56,881
+Vous avez lu mon dossier. Réfléchissez.
+
+721
+00:32:56,881 --> 00:32:57,647
+ 
+
+722
+00:32:57,647 --> 00:33:00,764
+- Je dois préserver.
+- Très bien. Obstinez-vous.
+
+723
+00:33:00,764 --> 00:33:00,847
+ 
+
+724
+00:33:00,847 --> 00:33:04,362
+- Jack...
+- Daniel, on va faire ça à ma façon.
+
+725
+00:33:04,362 --> 00:33:05,007
+ 
+
+726
+00:33:05,007 --> 00:33:06,599
+Vous n'oserez pas.
+
+727
+00:33:06,599 --> 00:33:06,687
+ 
+
+728
+00:33:06,687 --> 00:33:09,838
+- Mon général?
+- Tu parles qu'on va oser.
+
+729
+00:33:09,838 --> 00:33:10,367
+ 
+
+730
+00:33:10,367 --> 00:33:12,517
+Non. Je vous en prie.
+
+731
+00:33:12,517 --> 00:33:12,687
+ 
+
+732
+00:33:12,687 --> 00:33:15,121
+Quittez son corps.
+
+733
+00:33:15,121 --> 00:33:15,207
+ 
+
+734
+00:33:15,207 --> 00:33:19,246
+- Je dois préserver.
+- Si vous voulez préserver votre monde,
+
+735
+00:33:19,246 --> 00:33:19,327
+ 
+
+736
+00:33:19,327 --> 00:33:21,522
+quittez son corps immédiatement.
+
+737
+00:33:21,522 --> 00:33:34,167
+ 
+
+738
+00:33:34,167 --> 00:33:36,158
+Ne tirez pas.
+
+739
+00:33:36,158 --> 00:33:39,287
+ 
+
+740
+00:33:39,287 --> 00:33:41,482
+Laissez-la sortir.
+
+741
+00:33:41,482 --> 00:33:49,807
+ 
+
+742
+00:33:49,807 --> 00:33:52,196
+Une situation critique au couloir 649.
+
+743
+00:33:52,196 --> 00:34:16,207
+ 
+
+744
+00:34:16,207 --> 00:34:19,995
+ll semble que l'entité
+cherche à regagner l'ordinateur.
+
+745
+00:34:19,995 --> 00:35:38,287
+ 
+
+746
+00:35:38,287 --> 00:35:40,562
+Toujours pas de changement.
+
+747
+00:35:40,562 --> 00:35:50,807
+ 
+
+748
+00:35:50,807 --> 00:35:55,722
+Je ne sais pas si elle vous l'a dit,
+mais Sam a fait un testament biologique:
+
+749
+00:35:55,722 --> 00:35:55,807
+ 
+
+750
+00:35:55,807 --> 00:35:57,798
+''Pas d'acharnement thérapeutique.''
+
+751
+00:35:57,798 --> 00:36:00,607
+ 
+
+752
+00:36:00,607 --> 00:36:03,075
+Oui, elle me l'a dit.
+
+753
+00:36:03,075 --> 00:36:04,807
+ 
+
+754
+00:36:04,807 --> 00:36:07,799
+Son cerveau est totalement inactif.
+
+755
+00:36:07,799 --> 00:36:07,887
+ 
+
+756
+00:36:07,887 --> 00:36:11,402
+Aucune onde cérébrale
+ni chez Sam ni chez l'entité.
+
+757
+00:36:11,402 --> 00:36:11,487
+ 
+
+758
+00:36:11,487 --> 00:36:14,923
+Elle est maintenue en vie artificiellement.
+
+759
+00:36:14,923 --> 00:36:16,687
+ 
+
+760
+00:36:16,687 --> 00:36:19,599
+Je crois qu'il est temps
+de la laisser partir.
+
+761
+00:36:19,599 --> 00:36:24,887
+ 
+
+762
+00:36:24,887 --> 00:36:27,720
+Attendez une petite minute, d'accord?
+
+763
+00:36:27,720 --> 00:36:53,007
+ 
+
+764
+00:36:53,007 --> 00:36:57,797
+Hammond a ordonné la destruction
+de l'engin de la salle des sondes,
+
+765
+00:36:57,797 --> 00:36:58,127
+ 
+
+766
+00:36:58,127 --> 00:37:01,278
+au cas où l'entité
+réussirait à y retourner.
+
+767
+00:37:01,278 --> 00:37:01,367
+ 
+
+768
+00:37:01,367 --> 00:37:03,642
+C'était probablement son intention.
+
+769
+00:37:03,642 --> 00:37:19,207
+ 
+
+770
+00:37:19,207 --> 00:37:21,357
+Paré à redémarrer les systèmes.
+
+771
+00:37:21,357 --> 00:37:21,447
+ 
+
+772
+00:37:21,447 --> 00:37:24,041
+- Poursuivez, caporal.
+- A vos ordres.
+
+773
+00:37:24,041 --> 00:37:30,087
+ 
+
+774
+00:37:30,087 --> 00:37:31,486
+A DlRlGER VERS L'ENNEMl
+
+775
+00:37:31,486 --> 00:37:41,087
+ 
+
+776
+00:37:41,087 --> 00:37:43,647
+Tous les systèmes sont réactivés.
+
+777
+00:37:43,647 --> 00:37:47,967
+ 
+
+778
+00:37:47,967 --> 00:37:49,958
+Reculez.
+
+779
+00:37:49,958 --> 00:37:53,767
+ 
+
+780
+00:37:53,767 --> 00:37:55,758
+C'est la salle des sondes.
+
+781
+00:37:55,758 --> 00:37:55,847
+ 
+
+782
+00:37:55,847 --> 00:37:58,520
+SG-1 à la salle
+des sondes immédiatement.
+
+783
+00:37:58,520 --> 00:38:11,847
+ 
+
+784
+00:38:11,847 --> 00:38:14,156
+Notre amie est de retour.
+
+785
+00:38:14,156 --> 00:38:17,127
+ 
+
+786
+00:38:17,127 --> 00:38:18,765
+Bon, on la fait sauter.
+
+787
+00:38:18,765 --> 00:38:19,047
+ 
+
+788
+00:38:19,047 --> 00:38:21,402
+JE SUlS LA
+
+789
+00:38:21,402 --> 00:38:21,487
+ 
+
+790
+00:38:21,487 --> 00:38:23,239
+Attendez.
+
+791
+00:38:23,239 --> 00:38:26,287
+ 
+
+792
+00:38:26,287 --> 00:38:28,596
+Regardez ça.
+
+793
+00:38:28,596 --> 00:38:28,967
+ 
+
+794
+00:38:28,967 --> 00:38:32,118
+- L'entité.
+- Non, elle ne pouvait pas revenir.
+
+795
+00:38:32,118 --> 00:38:34,087
+ 
+
+796
+00:38:34,087 --> 00:38:38,478
+- C'est Sam.
+- Daniel, j'ai tiré deux coups.
+
+797
+00:38:38,478 --> 00:38:38,567
+ 
+
+798
+00:38:38,567 --> 00:38:42,401
+Après qu'elle ait extrait
+la conscience de Sam de son corps.
+
+799
+00:38:42,401 --> 00:38:42,487
+ 
+
+800
+00:38:42,487 --> 00:38:46,685
+Tu as tué l'entité
+après qu'elle ait mis Sam dans cet engin.
+
+801
+00:38:46,685 --> 00:38:48,687
+ 
+
+802
+00:38:48,687 --> 00:38:51,076
+- Elle est là-dedans.
+- Pourquoi?
+
+803
+00:38:51,076 --> 00:38:51,167
+ 
+
+804
+00:38:51,167 --> 00:38:53,317
+- Pourquoi faire ça?
+- Tu l'as exigé.
+
+805
+00:38:53,317 --> 00:38:53,407
+ 
+
+806
+00:38:53,407 --> 00:38:56,365
+Tu as menacé
+de bombarder son peuple de sondes.
+
+807
+00:38:56,365 --> 00:38:56,447
+ 
+
+808
+00:38:56,447 --> 00:38:58,597
+Sauver Sam et se laisser tuer
+
+809
+00:38:58,597 --> 00:38:58,687
+ 
+
+810
+00:38:58,687 --> 00:39:02,202
+était le seul moyen
+de préserver son monde.
+
+811
+00:39:02,202 --> 00:39:03,967
+ 
+
+812
+00:39:03,967 --> 00:39:05,719
+Passez-moi Hammond.
+
+813
+00:39:05,719 --> 00:39:08,287
+ 
+
+814
+00:39:08,287 --> 00:39:12,758
+- Mon général, nous avons un problème.
+- Nous aussi, coIoneI. J'arrive.
+
+815
+00:39:12,758 --> 00:39:35,127
+ 
+
+816
+00:39:35,127 --> 00:39:39,120
+ça correspond à l'EEG de Sam.
+C'est incroyable, mais c'est elle.
+
+817
+00:39:39,120 --> 00:39:40,047
+ 
+
+818
+00:39:40,047 --> 00:39:42,515
+- Et maintenant?
+- La seule chose à faire,
+
+819
+00:39:42,515 --> 00:39:42,607
+ 
+
+820
+00:39:42,607 --> 00:39:46,077
+c'est de lui donner
+le moyen de regagner son corps.
+
+821
+00:39:46,077 --> 00:39:51,287
+ 
+
+822
+00:39:51,287 --> 00:39:54,563
+L'entité nous a trompés
+à plusieurs reprises.
+
+823
+00:39:54,563 --> 00:39:59,527
+ 
+
+824
+00:39:59,527 --> 00:40:01,643
+Allez-y, docteur.
+
+825
+00:40:01,643 --> 00:40:01,727
+ 
+
+826
+00:40:01,727 --> 00:40:03,718
+Bien, mon général.
+
+827
+00:40:03,718 --> 00:40:32,207
+ 
+
+828
+00:40:32,207 --> 00:40:34,357
+Elle est de retour.
+
+829
+00:40:34,357 --> 00:40:41,247
+ 
+
+830
+00:40:41,247 --> 00:40:43,966
+Salut, Carter. Vous venez d'où?
+
+831
+00:40:43,966 --> 00:40:46,767
+ 
+
+832
+00:40:46,767 --> 00:40:49,918
+- Elle est partie?
+- Oui, elle est partie.
+
+833
+00:40:49,918 --> 00:40:52,447
+ 
+
+834
+00:40:52,447 --> 00:40:55,962
+Je vous criais que j'étais là.
+
+835
+00:40:55,962 --> 00:40:56,887
+ 
+
+836
+00:40:56,887 --> 00:40:59,003
+On a entendu.

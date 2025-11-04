@@ -1,0 +1,2530 @@
+1
+00:00:03,328 --> 00:00:05,496
+<i>I'm just a "glass half full" kind of guy.</i>
+
+2
+00:00:05,547 --> 00:00:08,548
+We found a cure to the Prior's plague,
+we got it after the planets needed it.
+
+3
+00:00:08,558 --> 00:00:10,867
+And it has been some time
+since the last reported outbreak.
+
+4
+00:00:10,877 --> 00:00:12,853
+That's right, so I'm chalking
+that one up to the "win" column.
+
+5
+00:00:12,863 --> 00:00:14,531
+Look, all I'm saying
+is let's not get carried away.
+
+6
+00:00:14,573 --> 00:00:16,199
+Yes, we stopped them this time, but
+
+7
+00:00:16,241 --> 00:00:17,382
+you can be damn sure they're already
+
+8
+00:00:17,392 --> 00:00:20,786
+digging up some other means of spreading fear
+and destruction through this galaxy.
+
+9
+00:00:20,796 --> 00:00:22,688
+Yeah, that's why we call them the bad guys.
+
+10
+00:00:22,698 --> 00:00:24,950
+And by the looks of things,
+the next one's gonna be something big.
+
+11
+00:00:24,992 --> 00:00:27,785
+The Priors are already starting to step up
+the rhetoric with all this talk of doomsday,
+
+12
+00:00:27,795 --> 00:00:30,363
+"when all shall witness the final battle
+between the light and darkness."
+
+13
+00:00:30,373 --> 00:00:33,543
+That's what they said about Tyson-Holyfield.
+There's always a rematch.
+
+14
+00:00:36,871 --> 00:00:38,331
+Alright, let's move out.
+
+15
+00:00:38,640 --> 00:00:40,640
+Those ancient ruins
+aren't going to explore themselves.
+
+16
+00:00:40,650 --> 00:00:41,985
+<i>Hold up, SG-1.</i>
+
+17
+00:00:42,861 --> 00:00:43,903
+Shut her down.
+
+18
+00:00:44,654 --> 00:00:46,740
+Your mission has been scrubbed.
+
+19
+00:00:47,207 --> 00:00:48,041
+Why?
+
+20
+00:00:48,150 --> 00:00:49,985
+Because you're needed elsewhere.
+
+21
+00:00:58,594 --> 00:00:59,526
+General, what's going on?
+
+22
+00:00:59,536 --> 00:01:05,432
+A team of representatives from the
+International Oversight Advisory are
+going on a tour of the Gamma site.
+
+23
+00:01:05,442 --> 00:01:09,445
+Pentagon wants SG-1 to accompany
+them as their official escort.
+
+24
+00:01:09,455 --> 00:01:11,264
+<i>That is a most unusual request.</i>
+
+25
+00:01:11,274 --> 00:01:13,733
+It'll be IOA's first time offworld.
+
+26
+00:01:13,743 --> 00:01:16,829
+The President wants to make sure
+it goes off without a hitch.
+
+27
+00:01:17,105 --> 00:01:19,414
+He figures who better to ensure that
+
+28
+00:01:19,424 --> 00:01:20,884
+than our top team?
+
+29
+00:01:21,076 --> 00:01:22,342
+Sir, I don't mean to gripe...
+
+30
+00:01:22,352 --> 00:01:23,937
+Permission to gripe granted.
+
+31
+00:01:24,004 --> 00:01:25,729
+We're being put on babysitting duty?
+
+32
+00:01:25,739 --> 00:01:28,325
+<i>Don't underestimate
+the importance of this mission.</i>
+
+33
+00:01:28,809 --> 00:01:30,435
+This is the IOA.
+
+34
+00:01:30,519 --> 00:01:33,495
+These people carry a lot of influence
+with the Stargate program...
+
+35
+00:01:33,505 --> 00:01:35,439
+how it's run, how it's funded.
+
+36
+00:01:35,449 --> 00:01:36,700
+You should feel honored.
+
+37
+00:01:38,911 --> 00:01:41,929
+Just don't keep them up past 10:00
+
+38
+00:01:41,939 --> 00:01:46,402
+and remember to read them a bedtime story
+before tucking them in for the night.
+
+39
+00:01:54,029 --> 00:01:58,408
+Season 9 - Episode 17
+The Scourge
+
+40
+00:02:59,019 --> 00:03:00,187
+It's...
+
+41
+00:03:01,255 --> 00:03:03,063
+It's much bigger than I imagined.
+
+42
+00:03:03,073 --> 00:03:04,431
+We get that a lot.
+
+43
+00:03:08,626 --> 00:03:09,424
+Mr. Chapman,
+
+44
+00:03:09,764 --> 00:03:10,962
+Mr. Lapierre,
+
+45
+00:03:10,982 --> 00:03:12,021
+Miss Shen,
+
+46
+00:03:12,060 --> 00:03:14,417
+I'd like you to meet our escort
+to the Gamma site...
+
+47
+00:03:14,457 --> 00:03:15,456
+SG-1.
+
+48
+00:03:15,616 --> 00:03:17,133
+Lieutenant Colonel Cameron Mitchell.
+
+49
+00:03:19,131 --> 00:03:20,608
+<i>Lieutenant Colonel Samantha Carter.</i>
+
+50
+00:03:21,567 --> 00:03:22,446
+<i>Teal'c.</i>
+
+51
+00:03:22,885 --> 00:03:24,524
+And Dr. Daniel Jackson.
+
+52
+00:03:24,723 --> 00:03:28,038
+<i>PhD in archaeology, anthropology, and philology.</i>
+
+53
+00:03:28,358 --> 00:03:31,354
+The man who solved the riddle of the Stargate.
+
+54
+00:03:32,552 --> 00:03:33,391
+Shen Xiaoyi.
+
+55
+00:03:33,430 --> 00:03:38,184
+Graduate of Beijing Foreign Studies University and
+the London School of Economics and Political Science,
+
+56
+00:03:38,423 --> 00:03:42,019
+former attaché to the Chinese
+mission in the United States.
+
+57
+00:03:43,117 --> 00:03:44,595
+<i>Your Chinese is supposed to be quite good.</i>
+
+58
+00:03:44,795 --> 00:03:46,472
+<i>Not as good as your English.</i>
+
+59
+00:03:46,573 --> 00:03:48,610
+<i>Of course. What about him?</i>
+
+60
+00:03:50,287 --> 00:03:51,925
+<i>We are still teaching him.</i>
+
+61
+00:03:54,042 --> 00:03:55,120
+<i>Yeah, that's very funny.</i>
+
+62
+00:03:55,820 --> 00:03:57,018
+<i>Go to hell.</i>
+
+63
+00:03:58,555 --> 00:03:59,954
+<i>Chevron Seven locked.</i>
+
+64
+00:04:08,921 --> 00:04:12,156
+The Gamma site is 24,000 light years from here,
+
+65
+00:04:12,636 --> 00:04:16,671
+but once we step through the event horizon,
+it will take us less than one second to get there.
+
+66
+00:04:17,089 --> 00:04:18,168
+After you.
+
+67
+00:04:31,749 --> 00:04:32,987
+Just to clarify.
+
+68
+00:04:33,027 --> 00:04:35,903
+I'm going to be disassembled at the molecular level,
+
+69
+00:04:35,944 --> 00:04:38,140
+then reassembled on the other side?
+
+70
+00:04:38,380 --> 00:04:39,148
+That's right.
+
+71
+00:04:39,158 --> 00:04:42,034
+And the chances of my being reassembled incorrectly...
+
+72
+00:04:42,434 --> 00:04:43,673
+Highly unlikely.
+
+73
+00:04:49,165 --> 00:04:50,922
+But not impossible?
+
+74
+00:04:51,321 --> 00:04:55,196
+That's a word I stopped using nine years ago
+when I joined the Stargate program.
+
+75
+00:05:09,816 --> 00:05:13,690
+This planet was chosen for several reasons,
+including its unique radioactive ionosphere,
+
+76
+00:05:13,931 --> 00:05:16,796
+which makes it difficult to lock
+onto surface targets from orbit.
+
+77
+00:05:16,806 --> 00:05:18,883
+So no one can steal the Stargate.
+
+78
+00:05:18,923 --> 00:05:20,361
+You can't be too careful these days.
+
+79
+00:05:20,480 --> 00:05:24,355
+We have over 30 scientists engaged in
+ongoing projects here at any given time.
+
+80
+00:05:24,396 --> 00:05:26,792
+This is Dr. Myers, our lead entomologist.
+
+81
+00:05:27,071 --> 00:05:30,267
+Doctor, would you mind telling us
+a little about your research?
+
+82
+00:05:30,547 --> 00:05:31,346
+Yes.
+
+83
+00:05:31,665 --> 00:05:35,220
+I'm studying an asexual, fast-reproducing insect
+
+84
+00:05:35,260 --> 00:05:39,215
+<i>responsible for the devastation
+of numerous offworld crops.</i>
+
+85
+00:05:39,454 --> 00:05:40,453
+A space bug?
+
+86
+00:05:40,852 --> 00:05:42,850
+Right. Space bugs.
+
+87
+00:05:43,449 --> 00:05:48,003
+However, for the purposes of
+my research, I refer to them as R75.
+
+88
+00:05:48,042 --> 00:05:49,840
+<i>Now, the fact that these</i>
+
+89
+00:05:49,880 --> 00:05:52,396
+<i>insects have only manifested themselves on planets</i>
+
+90
+00:05:52,536 --> 00:05:56,531
+recently visited by Priors
+makes their analysis a top priority.
+
+91
+00:05:56,610 --> 00:05:59,526
+Is there anything to indicate that
+this is more than mere coincidence?
+
+92
+00:05:59,666 --> 00:06:00,785
+No, not yet.
+
+93
+00:06:00,884 --> 00:06:05,199
+Now, our initial research proved
+incredibly challenging due to the short
+
+94
+00:06:05,318 --> 00:06:07,755
+lifespans of the R75 specimens,
+
+95
+00:06:08,294 --> 00:06:14,006
+until we succeeded in dramatically increasing
+their life cycles by depriving them of sustenance.
+
+96
+00:06:14,166 --> 00:06:16,762
+They feed, and they die, within a matter of hours.
+
+97
+00:06:16,803 --> 00:06:20,317
+They starve, and they live.
+So far, it's been three days and counting.
+
+98
+00:06:20,357 --> 00:06:22,155
+Would you stop that, please?
+
+99
+00:06:23,393 --> 00:06:25,070
+A bit lethargic, aren't they?
+
+100
+00:06:33,538 --> 00:06:34,977
+They're nocturnal.
+
+101
+00:06:35,416 --> 00:06:36,255
+No.
+
+102
+00:06:36,655 --> 00:06:39,849
+They function during the daylight.
+They just prefer the darkness.
+
+103
+00:06:39,969 --> 00:06:44,604
+They spend most of their time burrowing underground,
+consuming crops from the roots up.
+
+104
+00:06:44,723 --> 00:06:50,715
+Now, R75 also displays a
+rather interesting defense mechanism,
+which we're still in the process of studying.
+
+105
+00:06:50,954 --> 00:06:51,953
+Observe.
+
+106
+00:06:57,965 --> 00:06:59,243
+Echolocation.
+
+107
+00:07:00,141 --> 00:07:01,020
+Exactly.
+
+108
+00:07:01,460 --> 00:07:05,494
+I theorize they use it to detect their
+enemies, such as birds for instance...
+
+109
+00:07:05,534 --> 00:07:06,732
+<i>Alright.</i>
+
+110
+00:07:07,272 --> 00:07:08,479
+Dr. Myers.
+
+111
+00:07:08,489 --> 00:07:10,806
+- Let's move on.
+- Well, I'm not done yet.
+
+112
+00:07:10,966 --> 00:07:12,723
+<i>We get the idea. Thanks.</i>
+
+113
+00:07:12,764 --> 00:07:13,763
+Our next stop
+
+114
+00:07:13,802 --> 00:07:16,558
+is Dr. Sharma, our lead botanist.
+
+115
+00:07:20,193 --> 00:07:22,151
+Seriously, what are we doing here?
+
+116
+00:07:22,231 --> 00:07:24,987
+Honest answer? PR for the Stargate program.
+
+117
+00:07:25,027 --> 00:07:29,420
+I'm telling you, today it's escorting
+foreign delegates on offworld tours,
+tomorrow it's comic book conventions
+
+118
+00:07:29,460 --> 00:07:33,295
+- and supermarket openings.
+- I know how you feel,
+but if we can somehow reassure the IOA
+
+119
+00:07:33,335 --> 00:07:37,249
+- of the job Stargate command is doing...
+- Daniel Jackson, the problem is not the IOA.
+
+120
+00:07:37,330 --> 00:07:39,566
+Okay, if we can somehow
+reassure the Chinese government...
+
+121
+00:07:39,606 --> 00:07:41,763
+Oh, I think they're looking
+for more than reassurances.
+
+122
+00:07:41,882 --> 00:07:42,962
+Well, can you blame them? I mean
+
+123
+00:07:43,001 --> 00:07:47,076
+- three years ago, we promised to
+share all offworld technologies...
+- Of a non-military nature.
+
+124
+00:07:47,115 --> 00:07:48,633
+That wasn't in the original wording of the agreement.
+
+125
+00:07:48,714 --> 00:07:50,191
+Look, I don't want to argue about this.
+
+126
+00:07:50,232 --> 00:07:53,427
+- I'm right. We'll leave it at that.
+- Compelling argument. Teal'c, what do you think?
+
+127
+00:07:53,467 --> 00:07:56,063
+I think I should have remained with the tour.
+
+128
+00:07:56,763 --> 00:07:58,280
+Science fair's over.
+
+129
+00:07:58,300 --> 00:08:02,374
+Looks like Dr. Toshiaki's magnetic resonance
+field study was the crowd favorite.
+
+130
+00:08:02,454 --> 00:08:04,172
+How wonderful for him.
+
+131
+00:08:06,128 --> 00:08:07,168
+What's for lunch?
+
+132
+00:08:08,346 --> 00:08:10,103
+Meatloaf, monday.
+
+133
+00:08:10,682 --> 00:08:12,360
+Do you mind if I go grab something?
+
+134
+00:08:12,600 --> 00:08:13,599
+Take your time.
+
+135
+00:08:13,998 --> 00:08:15,636
+I'm gonna run some tests.
+
+136
+00:08:31,793 --> 00:08:32,831
+Come and get it.
+
+137
+00:08:39,322 --> 00:08:40,481
+<i>Not hungry?</i>
+
+138
+00:09:08,262 --> 00:09:11,457
+You can't possibly have a taste for...
+
+139
+00:09:17,049 --> 00:09:18,648
+For meatloaf?
+
+140
+00:09:36,103 --> 00:09:38,420
+Don't feel like joining us at the other table?
+
+141
+00:09:38,820 --> 00:09:41,376
+- I'm just in the middle of...
+- Okay, don't mind if I do.
+
+142
+00:09:47,008 --> 00:09:49,685
+Sorry, you were just in the middle of something.
+
+143
+00:09:50,244 --> 00:09:52,281
+Taking notes on my visit here...
+
+144
+00:09:52,320 --> 00:09:54,957
+while the details are still fresh on my mind.
+
+145
+00:09:55,196 --> 00:09:58,232
+This tour has provided me some wonderful insight into
+
+146
+00:09:58,272 --> 00:10:00,469
+tedious offworld research and
+
+147
+00:10:01,029 --> 00:10:03,425
+the lunch menu here on your Gamma site.
+
+148
+00:10:03,824 --> 00:10:06,420
+- Well, believe it or not, the...
+- Is this where you tell me,
+
+149
+00:10:06,541 --> 00:10:11,693
+the SGC has no choice but to maintain
+its air of secrecy surrounding its operations?
+
+150
+00:10:11,734 --> 00:10:15,848
+That, as an outsider, I could never
+understand nor appreciate the work you all do,
+
+151
+00:10:15,887 --> 00:10:18,284
+saving our planet time and again?
+
+152
+00:10:18,524 --> 00:10:21,919
+Well, actually, I was going to say,
+believe it or not, the meatloaf's pretty good.
+
+153
+00:10:24,755 --> 00:10:28,469
+In the three years since our nations
+signed the Gate alliance treaty,
+
+154
+00:10:28,590 --> 00:10:32,904
+your government has made great
+strides in the field of military technology,
+
+155
+00:10:33,263 --> 00:10:35,899
+but left us out in the cold.
+
+156
+00:10:36,259 --> 00:10:38,416
+Well, I hate to say it, but so long as the
+
+157
+00:10:38,456 --> 00:10:42,131
+U.S. military is running the show,
+that's just the way it's gonna be.
+
+158
+00:10:42,170 --> 00:10:44,248
+Perhaps it's time that changed.
+
+159
+00:10:45,366 --> 00:10:49,121
+There's no way the american military will ever
+give up control of the Stargate program.
+
+160
+00:10:49,161 --> 00:10:51,598
+Maybe it won't have a choice in the matter.
+
+161
+00:10:55,072 --> 00:10:57,229
+- So what did the tests say?
+- I don't know.
+
+162
+00:10:57,269 --> 00:10:59,626
+I was called in to help Santiago
+with his mealworm situation.
+
+163
+00:10:59,666 --> 00:11:02,182
+You know, Pullman, if I wasn't
+such a patient man, I swear...
+
+164
+00:11:02,223 --> 00:11:03,581
+Oh, my God.
+
+165
+00:11:33,938 --> 00:11:34,977
+All clear.
+
+166
+00:11:43,724 --> 00:11:45,323
+Damn thing bit me.
+
+167
+00:12:02,218 --> 00:12:03,537
+<i>I must say, Colonel, the</i>
+
+168
+00:12:03,577 --> 00:12:06,373
+scope of the facility has surpassed my expectations.
+
+169
+00:12:06,413 --> 00:12:08,410
+Yes, quite remarkable.
+
+170
+00:12:08,570 --> 00:12:10,687
+For my part, I'm somewhat disappointed.
+
+171
+00:12:10,727 --> 00:12:13,243
+I was hoping the tour would be a little more thorough.
+
+172
+00:12:13,323 --> 00:12:16,079
+The Gamma site is a U.S. Military facility, Miss Shen.
+
+173
+00:12:16,119 --> 00:12:19,195
+Access to some of the more
+sensitive areas is restricted.
+
+174
+00:12:21,671 --> 00:12:22,909
+Dr. Myers...
+
+175
+00:12:23,189 --> 00:12:24,308
+are you okay?
+
+176
+00:12:36,051 --> 00:12:40,205
+R75 breached containment,
+and we had to exercise a disposal protocol.
+
+177
+00:12:40,605 --> 00:12:43,521
+Dr. Myers was bitten, but he went
+to the infirmary to get checked out and
+
+178
+00:12:43,561 --> 00:12:45,079
+they didn't find anything wrong with him.
+
+179
+00:12:45,118 --> 00:12:47,196
+How the hell did the bugs breach containment?
+
+180
+00:12:47,276 --> 00:12:48,793
+Well, Dr. Myers thinks he may have
+
+181
+00:12:48,833 --> 00:12:52,508
+triggered some sort of massive reproduction
+cycle after feeding them a piece of meatloaf.
+
+182
+00:12:52,548 --> 00:12:53,387
+Wait a minute.
+
+183
+00:12:53,946 --> 00:12:55,983
+R75 is omnivorous?
+
+184
+00:12:56,143 --> 00:12:57,701
+Carnivorous, actually.
+
+185
+00:12:57,741 --> 00:13:00,258
+They seem to have lost their taste for plants.
+
+186
+00:13:00,577 --> 00:13:02,933
+The representatives are getting a little anxious.
+
+187
+00:13:02,974 --> 00:13:07,008
+I'm afraid I'm going to have to insist that we
+be permitted to return to Earth as scheduled.
+
+188
+00:13:07,048 --> 00:13:09,085
+I'm sorry, Mr. Woolsey.
+No one's going anywhere.
+
+189
+00:13:09,125 --> 00:13:13,679
+This base is under lockdown until we can
+establish the source of Dr. Myers' condition.
+
+190
+00:13:17,153 --> 00:13:17,953
+Where's he going?
+
+191
+00:13:17,992 --> 00:13:20,110
+Back to Earth, where he'll be quarantined.
+
+192
+00:13:20,149 --> 00:13:21,547
+He gets to go back?
+
+193
+00:13:21,588 --> 00:13:23,465
+We don't have the medical facilities for this.
+
+194
+00:13:23,505 --> 00:13:24,983
+If we don't send him back, he could die.
+
+195
+00:13:25,102 --> 00:13:27,540
+<i>I am sorry this is totally unacceptable.</i>
+
+196
+00:13:27,579 --> 00:13:32,412
+The Pentagon will be hearing from
+the IOA about this, and you can be certain
+your name will be mentioned, Colonel.
+
+197
+00:13:43,937 --> 00:13:44,895
+Carnivorous.
+
+198
+00:13:44,995 --> 00:13:46,273
+Move, now!
+
+199
+00:13:47,830 --> 00:13:48,869
+This is outrageous.
+
+200
+00:13:49,010 --> 00:13:52,405
+Mr. Woolsey assured me that
+we would be leaving on schedule.
+
+201
+00:13:56,758 --> 00:13:59,474
+- Back to the elevator, we're going upstairs.
+- What's going on?
+
+202
+00:13:59,515 --> 00:14:01,352
+We have a bit of a bug problem.
+
+203
+00:14:01,392 --> 00:14:02,869
+You don't want to be last.
+
+204
+00:14:03,629 --> 00:14:05,147
+I'll explain everything.
+
+205
+00:14:08,142 --> 00:14:08,991
+<i>I don't understand.</i>
+
+206
+00:14:09,001 --> 00:14:10,239
+What happened to him?
+
+207
+00:14:10,579 --> 00:14:14,573
+Well, I can't say for sure, but my guess is
+that the bug must have laid its eggs in him.
+
+208
+00:14:14,613 --> 00:14:16,850
+They incubated, and when they hatched...
+
+209
+00:14:17,769 --> 00:14:20,085
+Well, we know they eat meat.
+
+210
+00:14:20,205 --> 00:14:21,723
+I'm sorry I asked.
+
+211
+00:14:21,803 --> 00:14:26,716
+Well, I think we're past the point of coincidence.
+There's no question these bugs are
+the Priors' follow up to the virus.
+
+212
+00:14:26,756 --> 00:14:31,030
+And it appears they were designed to circumvent
+any attempt to forestall their destructive nature.
+
+213
+00:14:31,150 --> 00:14:34,185
+Deny them crops, and their physiology
+adapts to an alternate food source.
+
+214
+00:14:34,226 --> 00:14:35,424
+Yeah, us.
+
+215
+00:14:35,504 --> 00:14:36,901
+Colonel Pearson?
+
+216
+00:14:39,139 --> 00:14:40,537
+Colonel, do you read?
+
+217
+00:14:42,254 --> 00:14:44,212
+It's alright. I imagine it's just a little
+
+218
+00:14:44,252 --> 00:14:46,688
+power fluctuation. Nothing to worry about.
+
+219
+00:14:47,547 --> 00:14:48,585
+Oh, damn it.
+
+220
+00:14:48,725 --> 00:14:50,164
+That's enough of this.
+
+221
+00:14:52,201 --> 00:14:53,719
+Colonel, what's the situation?
+
+222
+00:14:53,758 --> 00:14:56,634
+Not good. There were thousands
+of those things in the pod.
+
+223
+00:14:56,754 --> 00:14:58,472
+They killed one of my men before we retreated.
+
+224
+00:14:58,512 --> 00:14:59,750
+We lost the Gate room?
+
+225
+00:14:59,909 --> 00:15:02,347
+- We need to take it back.
+- Sounds like a plan.
+
+226
+00:15:02,985 --> 00:15:03,864
+Mr. Woolsey...
+
+227
+00:15:03,904 --> 00:15:07,459
+my men will escort you
+and your people to the surface,
+
+228
+00:15:07,499 --> 00:15:09,096
+get you to a safe location,
+
+229
+00:15:09,256 --> 00:15:12,852
+get you as far away from here as
+possible until this situation is contained.
+
+230
+00:15:12,892 --> 00:15:14,130
+I don't think so.
+
+231
+00:15:15,168 --> 00:15:16,007
+Excuse me?
+
+232
+00:15:16,287 --> 00:15:18,244
+<i>SG-1 will escort us out.</i>
+
+233
+00:15:18,284 --> 00:15:20,481
+They're here to ensure
+the safety of this delegation.
+
+234
+00:15:20,521 --> 00:15:23,876
+You understand that no one gets off
+this planet until the Gate is retaken.
+
+235
+00:15:23,916 --> 00:15:28,070
+And I'm sure colonel Pearson and his people will do
+everything in their power to make sure that happens.
+
+236
+00:15:28,111 --> 00:15:31,066
+<i>In the meantime, you will take us to the surface.</i>
+
+237
+00:15:31,186 --> 00:15:34,541
+You will protect us, as per
+your orders from the pentagon.
+
+238
+00:15:34,980 --> 00:15:35,780
+Alright.
+
+239
+00:15:36,618 --> 00:15:37,896
+Get them out of here.
+
+240
+00:16:00,624 --> 00:16:01,703
+<i>Excuse me.</i>
+
+241
+00:16:03,960 --> 00:16:06,077
+Surely we could have taken a jeep.
+
+242
+00:16:06,117 --> 00:16:08,075
+We're headed to an unmanned research station.
+
+243
+00:16:08,114 --> 00:16:11,030
+It's located approximately 10 clicks
+from here through dense forest.
+
+244
+00:16:11,110 --> 00:16:13,586
+Then I have to ask if this is really necessary.
+
+245
+00:16:13,626 --> 00:16:16,992
+I mean, couldn't we just wait here until
+colonel Pearson gives us the all clear?
+
+246
+00:16:17,002 --> 00:16:20,636
+Our orders were to take you to the
+research station. That's where we're going.
+
+247
+00:16:27,368 --> 00:16:28,206
+Teal'c?
+
+248
+00:16:34,677 --> 00:16:35,635
+What is that?
+
+249
+00:16:36,195 --> 00:16:37,353
+It's the bugs.
+
+250
+00:16:39,211 --> 00:16:40,329
+What's happening?
+
+251
+00:16:55,109 --> 00:16:56,387
+We have to move!
+
+252
+00:16:56,586 --> 00:16:57,346
+Now!
+
+253
+00:17:03,856 --> 00:17:04,615
+<i>Hold up!</i>
+
+254
+00:17:05,774 --> 00:17:06,612
+Hold up.
+
+255
+00:17:08,449 --> 00:17:11,685
+I think we can assume
+the bugs got off the base.
+
+256
+00:17:11,805 --> 00:17:14,481
+They must be using their echolocation
+as a mean to hunt their prey.
+
+257
+00:17:14,521 --> 00:17:16,039
+Us.
+She means us.
+
+258
+00:17:16,079 --> 00:17:17,077
+Where can we go?
+
+259
+00:17:17,158 --> 00:17:18,595
+They move underground.
+
+260
+00:17:19,235 --> 00:17:22,190
+We need rocky terrain, somewhere
+difficult for them to move.
+
+261
+00:17:22,430 --> 00:17:23,828
+We can try the caves.
+
+262
+00:17:23,908 --> 00:17:24,667
+This way.
+
+263
+00:17:35,252 --> 00:17:36,491
+Get them inside.
+
+264
+00:17:45,837 --> 00:17:46,756
+They're coming.
+
+265
+00:17:47,595 --> 00:17:49,233
+They're highly sensitive to sound.
+
+266
+00:17:49,272 --> 00:17:52,428
+The concussive force of our weapons
+should be enough to drive them back.
+
+267
+00:17:52,628 --> 00:17:53,706
+Are you serious?
+
+268
+00:17:54,785 --> 00:17:56,262
+Fine. Where do we shoot?
+
+269
+00:17:56,343 --> 00:17:58,140
+Just fire at the ground!
+
+270
+00:18:14,218 --> 00:18:15,257
+Very nice.
+
+271
+00:18:16,494 --> 00:18:17,933
+Alright, folks, listen up.
+
+272
+00:18:18,012 --> 00:18:21,168
+We're surrounded by rock here, so
+there's no way the bugs are digging in.
+
+273
+00:18:21,208 --> 00:18:24,163
+We've got the entrance covered.
+Everything's gonna be fine.
+
+274
+00:18:29,336 --> 00:18:30,974
+Until we run out of bullets.
+
+275
+00:18:33,191 --> 00:18:34,270
+Bullets.
+
+276
+00:18:34,309 --> 00:18:35,108
+Yeah.
+
+277
+00:18:39,902 --> 00:18:41,500
+What do you have for me, Chief?
+
+278
+00:18:41,579 --> 00:18:47,051
+Sir, we were unable to acquire a video feed from the
+surveillance cameras in the Gamma site Gate room, but
+
+279
+00:18:47,571 --> 00:18:50,606
+I've managed to pick up motion sensor telemetry.
+
+280
+00:18:58,995 --> 00:19:00,633
+What have you found out?
+
+281
+00:19:01,072 --> 00:19:03,269
+I learned that bugs still creep me out.
+
+282
+00:19:03,309 --> 00:19:08,581
+It all started when I was a kid, and my parents took
+me out on this picnic, and this bug crawled up on me...
+
+283
+00:19:08,741 --> 00:19:10,778
+maybe you'd prefer
+to hear this story another time.
+
+284
+00:19:10,819 --> 00:19:11,498
+I doubt it.
+
+285
+00:19:11,638 --> 00:19:12,716
+Oh, well...
+
+286
+00:19:14,254 --> 00:19:19,806
+After careful analysis of the telemetry
+we got back from the Gamma site Gate room,
+I have determined that this
+
+287
+00:19:20,006 --> 00:19:21,962
+is our culprit, R75.
+
+288
+00:19:22,003 --> 00:19:23,001
+<i>The Prior bugs.</i>
+
+289
+00:19:23,142 --> 00:19:25,268
+Yeah, well, that connection
+is yet to be determined, but
+
+290
+00:19:25,278 --> 00:19:29,792
+you know, we were originally investigating this
+pesky little crop-killer as a possible weapon against
+
+291
+00:19:29,832 --> 00:19:33,867
+the addictive kassa harvests being produced
+and distributed by the Lucian Alliance, and
+
+292
+00:19:33,906 --> 00:19:38,020
+the various specimens we got from different
+offworld locations were incredibly voracious,
+
+293
+00:19:38,160 --> 00:19:41,366
+so voracious that they would
+literally eat themselves to death, but
+
+294
+00:19:41,376 --> 00:19:42,734
+when deprived of nourishment,
+
+295
+00:19:42,773 --> 00:19:47,088
+- these insects underwent some sort of...
+- Fascinating. How do we kill them?
+
+296
+00:19:49,005 --> 00:19:52,241
+Well, I mean, given the updated data,
+I should be able to whip something up.
+
+297
+00:19:52,480 --> 00:19:55,077
+Very well. As per protocol CR91,
+
+298
+00:19:55,117 --> 00:19:59,191
+we'll be sending the Odyssey to deliver
+the payload from planetary orbit.
+
+299
+00:19:59,311 --> 00:20:00,230
+CR91?
+
+300
+00:20:00,749 --> 00:20:01,428
+Sir?
+
+301
+00:20:02,466 --> 00:20:04,663
+The toxin will be lethal to humans as well.
+
+302
+00:20:04,703 --> 00:20:05,822
+I mean...
+
+303
+00:20:06,221 --> 00:20:09,906
+we'll have to be sure that the Gamma
+site is evacuated before we deploy it.
+
+304
+00:20:09,916 --> 00:20:12,792
+That's assuming there's anyone left to evacuate.
+
+305
+00:20:36,120 --> 00:20:37,398
+On the bright side,
+
+306
+00:20:37,917 --> 00:20:41,831
+I was worried that my report
+would make for a boring read.
+
+307
+00:20:42,391 --> 00:20:43,590
+So, I'm
+
+308
+00:20:44,089 --> 00:20:47,484
+guessing we're gonna
+lose points for this little incident.
+
+309
+00:20:49,261 --> 00:20:52,537
+To be honest with you,
+my report is a mere formality.
+
+310
+00:20:53,036 --> 00:20:58,388
+Ultimately, it'll have no bearing on my government's
+plan of action in regard to the Stargate program.
+
+311
+00:21:00,026 --> 00:21:02,782
+What exactly
+should we be expecting down the line?
+
+312
+00:21:03,022 --> 00:21:04,780
+- Dr. Jackson...
+- Daniel.
+
+313
+00:21:06,817 --> 00:21:07,975
+Daniel...
+
+314
+00:21:08,415 --> 00:21:12,289
+maybe now is not the right time
+to be having this conversation.
+
+315
+00:21:12,569 --> 00:21:14,286
+When would be a good time?
+
+316
+00:21:15,605 --> 00:21:16,923
+Perhaps when we're
+
+317
+00:21:17,162 --> 00:21:18,761
+all back on Earth
+
+318
+00:21:19,160 --> 00:21:23,274
+and not having to worry about
+being eaten alive by alien insects.
+
+319
+00:21:23,753 --> 00:21:27,229
+Look, I understand your government
+has issues with Stargate command,
+
+320
+00:21:27,308 --> 00:21:30,344
+but you cannot deny the accomplishments, nor the
+
+321
+00:21:30,384 --> 00:21:32,661
+- significant...
+- That has nothing to do with it.
+
+322
+00:21:33,859 --> 00:21:35,936
+Daniel, let me ask you something.
+
+323
+00:21:36,655 --> 00:21:37,374
+If,
+
+324
+00:21:37,774 --> 00:21:40,170
+nine years ago,
+it had been my country, not the
+
+325
+00:21:40,290 --> 00:21:41,688
+United States military,
+
+326
+00:21:41,888 --> 00:21:45,523
+that had given you the
+opportunity to travel to the stars,
+
+327
+00:21:46,122 --> 00:21:48,239
+would it have made a difference to you?
+
+328
+00:21:48,358 --> 00:21:51,355
+<i>- Would you have turned us down?
+- No, of course not.</i>
+
+329
+00:21:51,554 --> 00:21:55,069
+So long as the priority remained offworld
+exploration that could benefit Earth,
+
+330
+00:21:55,229 --> 00:21:57,466
+I would have gladly accepted the offer.
+
+331
+00:21:57,626 --> 00:22:00,142
+I may hold you to that someday.
+
+332
+00:22:11,047 --> 00:22:12,285
+At ease.
+
+333
+00:22:16,639 --> 00:22:18,396
+Colonel Pearson, come in.
+
+334
+00:22:20,354 --> 00:22:22,032
+Pearson, come in.
+
+335
+00:22:24,428 --> 00:22:26,426
+Gamma site, do you read?
+
+336
+00:22:29,740 --> 00:22:31,937
+- Damn it.
+- If they haven't answered by now...
+
+337
+00:22:31,978 --> 00:22:33,256
+Yeah, I know.
+
+338
+00:22:35,453 --> 00:22:36,731
+You okay?
+
+339
+00:22:37,210 --> 00:22:38,648
+Yes, Sir, I'm fine.
+
+340
+00:22:38,928 --> 00:22:41,165
+I'm just a little bit rattled, is all.
+
+341
+00:23:07,289 --> 00:23:10,165
+We have heard nothing from
+the Gamma site since we left.
+
+342
+00:23:10,844 --> 00:23:13,440
+I fear we must assume
+the worst and plan accordingly.
+
+343
+00:23:13,480 --> 00:23:15,267
+Yeah, I was thinking the same thing.
+
+344
+00:23:15,277 --> 00:23:17,074
+<i>We cannot remain here indefinitely.</i>
+
+345
+00:23:17,115 --> 00:23:19,072
+<i>Eventually, this position will be overrun.</i>
+
+346
+00:23:19,111 --> 00:23:21,069
+Yeah, we need to get as far away as possible.
+
+347
+00:23:21,109 --> 00:23:25,263
+Well, given the rate these bugs are multiplying,
+it's doubtful we could outpace them on foot.
+
+348
+00:23:25,962 --> 00:23:28,159
+We must return for the F-302s.
+
+349
+00:23:30,017 --> 00:23:31,255
+<i>He's gone!</i>
+
+350
+00:23:34,550 --> 00:23:36,627
+<i>- Airman Walker's missing.
+- What do you mean, missing?</i>
+
+351
+00:23:36,667 --> 00:23:38,864
+I just went to the front to check on him.
+He's not there anymore.
+
+352
+00:23:38,904 --> 00:23:41,540
+Perhaps he's just stepped out to relieve himself.
+
+353
+00:23:42,419 --> 00:23:43,737
+We'll be back.
+
+354
+00:23:54,722 --> 00:23:55,920
+Walker.
+
+355
+00:24:36,663 --> 00:24:38,261
+Think I got something.
+
+356
+00:24:38,301 --> 00:24:39,859
+Coming to you.
+
+357
+00:24:50,644 --> 00:24:52,042
+We're too late.
+
+358
+00:24:59,432 --> 00:25:00,430
+Walker!
+
+359
+00:25:02,028 --> 00:25:02,827
+Hey!
+
+360
+00:25:03,226 --> 00:25:04,424
+Just take it easy.
+
+361
+00:25:12,712 --> 00:25:13,912
+Wait.
+
+362
+00:25:14,311 --> 00:25:15,309
+Don't move.
+
+363
+00:25:25,415 --> 00:25:26,494
+Jackson...
+
+364
+00:25:26,693 --> 00:25:31,087
+why don't you go back to the cave,
+tell Carter that Teal'c and I are going for the 302s.
+
+365
+00:25:31,407 --> 00:25:32,965
+Where are you planning on landing them?
+
+366
+00:25:33,004 --> 00:25:35,081
+We'll do an aerial
+surveillance we'll find some place
+
+367
+00:25:35,122 --> 00:25:38,476
+and then we'll come back, we'll get everybody,
+and ferry them to a safe location.
+
+368
+00:25:38,517 --> 00:25:40,474
+Okay, where would that be?
+
+369
+00:25:40,874 --> 00:25:42,671
+Far away from here.
+
+370
+00:25:43,790 --> 00:25:45,866
+Right, okay, well.
+
+371
+00:25:46,425 --> 00:25:47,864
+Good luck.
+
+372
+00:25:58,049 --> 00:25:59,847
+Let me ask you a question.
+
+373
+00:26:00,446 --> 00:26:02,244
+In all the years you were fighting the Goa'uld,
+
+374
+00:26:02,284 --> 00:26:06,518
+did you ever just step back and say,
+"sooner or later, our luck's going to run out.
+We're going to get our asses kicked?"
+
+375
+00:26:06,557 --> 00:26:07,516
+Never.
+
+376
+00:26:07,556 --> 00:26:08,835
+Never, not once?
+
+377
+00:26:09,234 --> 00:26:14,027
+Even though you were massively outnumbered, fighting
+an opponent with superior technology and firepower?
+
+378
+00:26:14,066 --> 00:26:18,421
+They may have had the superior forces and resources,
+but we possessed something far greater.
+
+379
+00:26:18,460 --> 00:26:19,419
+Which was?
+
+380
+00:26:19,619 --> 00:26:21,417
+A just cause.
+
+381
+00:26:21,557 --> 00:26:24,193
+I had no doubt the Goa'uld would be defeated.
+
+382
+00:26:24,233 --> 00:26:25,820
+Perhaps not in my lifetime,
+
+383
+00:26:25,830 --> 00:26:27,508
+but I knew eventually they would fall,
+
+384
+00:26:27,648 --> 00:26:30,803
+and I have no doubt the same fate awaits the Ori.
+
+385
+00:26:30,843 --> 00:26:32,402
+See, that's what I like about you.
+
+386
+00:26:32,441 --> 00:26:33,799
+You're always positive.
+
+387
+00:26:33,839 --> 00:26:36,715
+Hell, you're probably
+already past this bug situation,
+
+388
+00:26:36,755 --> 00:26:39,591
+thinking about what movie
+you want to watch tomorrow night.
+
+389
+00:26:39,631 --> 00:26:41,589
+I was considering "Old school".
+
+390
+00:26:42,787 --> 00:26:44,584
+My boy blue.
+
+391
+00:26:48,179 --> 00:26:49,378
+What was that?
+
+392
+00:26:49,617 --> 00:26:50,776
+Wait here.
+
+393
+00:26:56,268 --> 00:26:58,266
+Teal'c, Cameron, what's your status?
+
+394
+00:27:02,938 --> 00:27:04,257
+We're okay, Carter.
+
+395
+00:27:04,296 --> 00:27:05,455
+<i>What happened?</i>
+
+396
+00:27:06,653 --> 00:27:09,249
+Looks like the base self-destruct triggered.
+
+397
+00:27:11,247 --> 00:27:13,244
+The Gamma site's gone.
+
+398
+00:27:18,332 --> 00:27:20,529
+<i>How could the self-destruct have been triggered?</i>
+
+399
+00:27:20,669 --> 00:27:22,826
+The bugs must have gotten into the system.
+
+400
+00:27:22,866 --> 00:27:24,343
+What difference does it make now?
+
+401
+00:27:24,384 --> 00:27:27,619
+<i>- The base has been destroyed!
+- Please, calm down.</i>
+
+402
+00:27:27,739 --> 00:27:29,576
+<i>Don't tell me to calm down!</i>
+
+403
+00:27:29,617 --> 00:27:33,611
+<i>- If we'd been allowed to leave on schedule...
+- Please, keep your voice down.</i>
+
+404
+00:27:34,010 --> 00:27:36,607
+I am sick of being told what to do.
+
+405
+00:27:36,906 --> 00:27:38,504
+Why should I listen to you?
+
+406
+00:27:38,544 --> 00:27:40,302
+Why should any of us listen to you?
+
+407
+00:27:40,341 --> 00:27:43,896
+Because you are alerting
+the bugs to our presence.
+
+408
+00:27:47,990 --> 00:27:48,669
+Colonel,
+
+409
+00:27:48,889 --> 00:27:50,287
+a word.
+
+410
+00:27:55,480 --> 00:27:58,556
+I understand you're doing everything
+in your power to help us, and I appreciate that,
+
+411
+00:27:58,696 --> 00:28:02,371
+but I think you're being a bit insensitive
+to our needs right now.
+
+412
+00:28:02,410 --> 00:28:03,569
+All I'm asking
+
+413
+00:28:03,609 --> 00:28:05,366
+is for a little reassurance,
+
+414
+00:28:05,407 --> 00:28:07,763
+a few words to let them know that
+everything is gonna be okay.
+
+415
+00:28:07,803 --> 00:28:10,958
+I don't think it's too much to ask,
+all things considered.
+
+416
+00:28:11,957 --> 00:28:13,555
+Mr. Woolsey,
+
+417
+00:28:13,595 --> 00:28:15,512
+if I could go back in time,
+
+418
+00:28:15,552 --> 00:28:19,147
+which, admittedly,
+is an opportunity I am occasionally presented with,
+
+419
+00:28:19,187 --> 00:28:22,343
+I would have made sure that
+we left the base as scheduled,
+
+420
+00:28:22,383 --> 00:28:25,138
+but the reality is, for the time being,
+we are stuck here,
+
+421
+00:28:25,178 --> 00:28:29,931
+trapped in this cave, surrounded by predatory insects,
+with no way of getting to the Stargate.
+
+422
+00:28:30,072 --> 00:28:31,630
+Now, I'm sorry,
+
+423
+00:28:31,669 --> 00:28:35,424
+but I'm gonna have a hard time
+mustering up a convincing pep talk,
+
+424
+00:28:35,464 --> 00:28:37,422
+all things considered.
+
+425
+00:28:38,021 --> 00:28:39,019
+I see.
+
+426
+00:28:41,016 --> 00:28:46,010
+In that case, I'd just like to point out that this
+routine offworld excursion has turned into a disaster,
+
+427
+00:28:46,050 --> 00:28:49,125
+and the ramifications for Stargate
+command will be enormous.
+
+428
+00:28:49,165 --> 00:28:51,482
+Saving our lives would go a long way
+
+429
+00:28:51,522 --> 00:28:53,998
+toward minimizing the damage.
+
+430
+00:28:54,398 --> 00:28:56,395
+I'll keep that in mind.
+
+431
+00:29:01,188 --> 00:29:01,987
+Don't worry.
+
+432
+00:29:02,027 --> 00:29:04,184
+She said everything is going to be okay.
+
+433
+00:29:05,981 --> 00:29:08,977
+I'm telling you, it's time you got your own place.
+
+434
+00:29:09,577 --> 00:29:12,572
+I endeavored to establish a life offbase last year.
+
+435
+00:29:12,932 --> 00:29:15,927
+I even went so far as to acquire my own apartment.
+
+436
+00:29:15,967 --> 00:29:18,484
+Unfortunately, it did not work out.
+
+437
+00:29:18,523 --> 00:29:20,361
+Yeah, I know you got framed for murder,
+
+438
+00:29:20,402 --> 00:29:23,477
+but you can't let one bad experience put you off.
+
+439
+00:29:23,517 --> 00:29:25,274
+Hell, the first time I moved out,
+
+440
+00:29:25,315 --> 00:29:28,750
+I lived next door to a guy who practiced
+his drum solos all night long.
+
+441
+00:29:29,748 --> 00:29:30,947
+When we get back,
+
+442
+00:29:30,986 --> 00:29:33,942
+- I'm going to help you find your own place.
+- No, that will be unnecessary.
+
+443
+00:29:33,983 --> 00:29:35,141
+Dude, what are friends for?
+
+444
+00:29:35,181 --> 00:29:38,136
+For listening when they are told,
+that will be unnecessary.
+
+445
+00:30:11,590 --> 00:30:13,387
+What the hell is taking them?
+
+446
+00:30:22,295 --> 00:30:23,573
+Where are you guys?
+
+447
+00:30:23,813 --> 00:30:25,970
+Requesting radio silence.
+
+448
+00:30:44,944 --> 00:30:46,940
+I think we're good to go.
+
+449
+00:30:48,158 --> 00:30:52,432
+Perhaps we should keep any
+unnecessary conversation to a minimum.
+
+450
+00:30:52,832 --> 00:30:54,031
+Okay.
+
+451
+00:31:07,531 --> 00:31:08,370
+Sir?
+
+452
+00:31:08,411 --> 00:31:11,206
+Just received a subspace
+transmission from the Odyssey.
+
+453
+00:31:11,246 --> 00:31:13,004
+Its E.T.A. is five hours...
+
+454
+00:31:13,883 --> 00:31:16,998
+and the Pentagon's on line two.
+
+455
+00:31:17,797 --> 00:31:19,394
+Thank you, Chief.
+
+456
+00:31:25,985 --> 00:31:27,184
+Landry here.
+
+457
+00:31:35,172 --> 00:31:38,368
+<i>- Alright, scratch plan B.
+- What do we do now?</i>
+
+458
+00:31:38,727 --> 00:31:41,564
+If the Gate is buried,
+they won't be able to send a rescue team.
+
+459
+00:31:41,603 --> 00:31:42,922
+Which means they'll send the Odyssey.
+
+460
+00:31:42,961 --> 00:31:46,117
+In fact, it's probably already on its way here,
+so all you've got to do is sit back,
+
+461
+00:31:46,157 --> 00:31:47,276
+relax.
+
+462
+00:31:47,316 --> 00:31:48,634
+Everything's going to be fine.
+
+463
+00:31:49,353 --> 00:31:50,591
+Theoretically.
+
+464
+00:31:53,068 --> 00:31:54,106
+Theoretically?
+
+465
+00:31:54,625 --> 00:31:59,059
+Theoretically, yes, the Odyssey could
+come and beam us off the planet's surface.
+
+466
+00:31:59,100 --> 00:32:00,058
+But?
+
+467
+00:32:02,335 --> 00:32:05,610
+Look, I'm sorry, but there's no
+point in sugar-coating this.
+
+468
+00:32:05,650 --> 00:32:11,082
+If Stargate command is operating under
+the assumption that the base has been lost,
+they'll enact protocol CR91.
+
+469
+00:32:11,323 --> 00:32:12,311
+What's that?
+
+470
+00:32:12,321 --> 00:32:14,558
+Once in orbit, the Odyssey will launch a payload,
+
+471
+00:32:14,597 --> 00:32:17,913
+probably a neurotoxin, that will wipe out R75.
+
+472
+00:32:17,953 --> 00:32:21,268
+That will allow Stargate command to mount
+a salvage operation of the Gamma site.
+
+473
+00:32:21,408 --> 00:32:23,245
+But they'll beam us out of here first.
+
+474
+00:32:23,286 --> 00:32:26,322
+Our transmitters won't work because
+of the interference in the atmosphere.
+
+475
+00:32:26,361 --> 00:32:27,999
+What about our life signs?
+
+476
+00:32:28,558 --> 00:32:33,471
+<i>Because the bugs are multiplying at
+an alarming rate, and because of the
+fact that we are completely surrounded,</i>
+
+477
+00:32:33,551 --> 00:32:37,336
+the Odyssey won't be able to pick up our
+individual readings inside a sea of life signs.
+
+478
+00:32:37,346 --> 00:32:38,424
+Oh, my God.
+
+479
+00:32:38,663 --> 00:32:41,140
+What you're saying is that
+they're coming out all this way,
+
+480
+00:32:41,180 --> 00:32:44,336
+but instead of rescuing us,
+they're going to kill us with poison gas?
+
+481
+00:32:44,376 --> 00:32:46,972
+Because they have no way of
+knowing that we're still here.
+
+482
+00:32:47,132 --> 00:32:49,169
+Then we're going to die on this planet,
+
+483
+00:32:49,209 --> 00:32:50,967
+25,000 light years from Earth.
+
+484
+00:32:51,006 --> 00:32:51,805
+Hey, relax.
+
+485
+00:32:51,845 --> 00:32:55,001
+For starters, it's only 24,000 light years.
+
+486
+00:32:56,119 --> 00:32:58,037
+What's your E.T.A. for Odyssey?
+
+487
+00:32:58,396 --> 00:33:01,233
+Well, I have no way of knowing
+exactly when it was sent,
+
+488
+00:33:01,592 --> 00:33:04,788
+<i>but given the approximate time that Stargate
+command lost contact with the Gamma site,</i>
+
+489
+00:33:04,827 --> 00:33:07,024
+<i>and allowing for the production of the toxin</i>
+
+490
+00:33:07,224 --> 00:33:09,141
+I'd say inside of a few hours.
+
+491
+00:33:10,858 --> 00:33:14,174
+We must find a way to contact the Odyssey
+to let their crew know that we are alive.
+
+492
+00:33:14,214 --> 00:33:17,250
+Except our only way of communicating with
+that ship went up with the Gamma base.
+
+493
+00:33:17,289 --> 00:33:18,209
+Maybe not.
+
+494
+00:33:18,328 --> 00:33:19,567
+The research station.
+
+495
+00:33:19,686 --> 00:33:22,842
+It must have some sort of
+communication array that allows it
+to transmit data back to the Gamma site.
+
+496
+00:33:22,882 --> 00:33:25,438
+But is it capable
+of reaching a ship in planetary orbit?
+
+497
+00:33:25,479 --> 00:33:27,276
+It could, if I had some time to work on it.
+
+498
+00:33:27,315 --> 00:33:29,792
+Then all we have
+to do is get to the research station.
+
+499
+00:33:29,832 --> 00:33:30,751
+<i>Right,</i>
+
+500
+00:33:30,911 --> 00:33:33,028
+and the only thing between us and it...
+
+501
+00:33:33,067 --> 00:33:35,943
+is five miles of forest
+and a whole lot of bugs.
+
+502
+00:33:39,679 --> 00:33:40,997
+Piece of cake.
+
+503
+00:33:57,134 --> 00:33:58,173
+Keep moving.
+
+504
+00:33:58,372 --> 00:33:59,570
+I cannot.
+
+505
+00:34:02,047 --> 00:34:03,285
+We're almost there.
+
+506
+00:34:03,325 --> 00:34:05,562
+That is what
+you said almost half an hour ago.
+
+507
+00:34:07,160 --> 00:34:13,032
+The transmission we'll be sending will
+enable the Odyssey to triangulate our
+position and pick up our individual life signs,
+
+508
+00:34:13,072 --> 00:34:15,668
+but we all have to be within the target area.
+
+509
+00:34:15,788 --> 00:34:17,346
+We've been walking for hours.
+
+510
+00:34:17,785 --> 00:34:19,902
+We don't have time to sit around.
+
+511
+00:34:19,942 --> 00:34:22,498
+We are in violent agreement.
+
+512
+00:34:22,578 --> 00:34:23,737
+You know what?
+
+513
+00:34:23,777 --> 00:34:24,896
+Sit here.
+
+514
+00:34:25,295 --> 00:34:26,692
+You cover our 6,
+
+515
+00:34:26,852 --> 00:34:28,090
+but stay alert.
+
+516
+00:34:28,131 --> 00:34:31,566
+You'll hear the bugs coming.
+The tree ferrets give no warning.
+
+517
+00:34:32,245 --> 00:34:33,363
+Tree ferrets?
+
+518
+00:34:34,242 --> 00:34:35,640
+Yeah, nasty buggers.
+
+519
+00:34:35,680 --> 00:34:39,315
+Swoop down and separate a man's
+head from his torso before he can blink.
+
+520
+00:34:43,709 --> 00:34:46,505
+You... you're lying.
+
+521
+00:34:52,776 --> 00:34:53,775
+Wait!
+
+522
+00:34:57,130 --> 00:34:58,328
+We're almost there.
+
+523
+00:34:58,368 --> 00:34:59,766
+Stop saying that.
+
+524
+00:35:09,153 --> 00:35:10,192
+There it is.
+
+525
+00:35:11,350 --> 00:35:12,868
+Let's pick up the pace.
+
+526
+00:35:31,243 --> 00:35:32,640
+<i>Frack!</i>
+
+527
+00:35:36,875 --> 00:35:38,112
+<i>Let's go!</i>
+
+528
+00:36:07,232 --> 00:36:08,710
+Look out, look out!
+
+529
+00:36:16,738 --> 00:36:17,976
+Can you do it?
+
+530
+00:36:21,572 --> 00:36:24,338
+Colonel, is it working?
+
+531
+00:36:24,348 --> 00:36:25,426
+It's too late.
+
+532
+00:36:25,906 --> 00:36:27,064
+We're too late.
+
+533
+00:36:27,104 --> 00:36:28,302
+They're right outside.
+
+534
+00:36:28,342 --> 00:36:29,660
+Is it going to work?
+
+535
+00:36:30,059 --> 00:36:31,178
+Do you think you can make it...
+
+536
+00:36:31,218 --> 00:36:32,816
+Shut up, shut up!
+
+537
+00:36:33,235 --> 00:36:34,713
+Let her do her work!
+
+538
+00:36:36,411 --> 00:36:38,089
+Thank you, Mr. Woolsey.
+
+539
+00:36:39,188 --> 00:36:40,546
+You're welcome.
+
+540
+00:36:52,449 --> 00:36:53,487
+How's it going?
+
+541
+00:36:53,527 --> 00:36:57,801
+I need to significantly boost the power in order
+to penetrate the radioactivity in the ionosphere.
+
+542
+00:36:57,841 --> 00:36:59,519
+Alright, boost it already.
+
+543
+00:36:59,719 --> 00:37:00,957
+Yeah, I think I'm good.
+
+544
+00:37:17,574 --> 00:37:21,019
+The vibrations being generated by
+the communications array must
+be attracting the bugs.
+
+545
+00:37:21,029 --> 00:37:22,147
+<i>Think you can hold them off?</i>
+
+546
+00:37:22,187 --> 00:37:25,103
+Is this a bad time
+to tell you we're almost out of ammo?
+
+547
+00:37:34,610 --> 00:37:36,408
+It's time to improvise.
+
+548
+00:37:56,459 --> 00:37:57,817
+Okay, go.
+
+549
+00:37:58,856 --> 00:38:00,943
+How long before they receive the transmission?
+
+550
+00:38:00,953 --> 00:38:03,150
+They should pick it up
+as soon as they enter orbit,
+
+551
+00:38:03,289 --> 00:38:06,005
+but like I said, we have no way of
+knowing when that's gonna be.
+
+552
+00:38:06,126 --> 00:38:07,963
+How long can they hold off the bugs?
+
+553
+00:38:21,344 --> 00:38:22,782
+They are approaching from the right.
+
+554
+00:38:24,300 --> 00:38:25,938
+Well, the motion sensors work.
+
+555
+00:38:30,551 --> 00:38:32,110
+That pushed them back a little.
+
+556
+00:38:34,386 --> 00:38:35,624
+Over here!
+
+557
+00:39:02,986 --> 00:39:04,623
+That's the last charge.
+
+558
+00:39:37,318 --> 00:39:39,355
+<i>Miss Shen suffered a broken ankle</i>
+
+559
+00:39:39,395 --> 00:39:41,512
+and has taken an indefinite leave.
+
+560
+00:39:41,991 --> 00:39:47,504
+Mr. Lapierre and Mr. Chapman, meanwhile, have
+gone back to work, none the worse for wear.
+
+561
+00:39:47,544 --> 00:39:50,619
+What kind of fallout should we
+be expecting from all of this?
+
+562
+00:39:50,739 --> 00:39:52,377
+Surprisingly minimal.
+
+563
+00:39:52,417 --> 00:39:54,693
+You may face an official reprimand, but
+
+564
+00:39:54,733 --> 00:39:58,928
+the IOA recognizes the fact that these
+were circumstances beyond your control.
+
+565
+00:39:59,287 --> 00:40:03,521
+It may seem like they do an inordinate
+amount of complaining, but off the record,
+
+566
+00:40:04,061 --> 00:40:07,815
+the IOA has nothing but praise
+for the job you're doing here.
+
+567
+00:40:08,694 --> 00:40:10,731
+Just don't let it go to your heads.
+
+568
+00:40:12,569 --> 00:40:15,644
+Well, I'm heading back to Washington.
+
+569
+00:40:15,884 --> 00:40:17,922
+Thank you again for the offworld tour.
+
+570
+00:40:18,161 --> 00:40:19,280
+It was...
+
+571
+00:40:19,559 --> 00:40:21,396
+an eye-opening experience.
+
+572
+00:40:27,908 --> 00:40:31,222
+While you were gone,
+we received reports that two more planets
+
+573
+00:40:31,262 --> 00:40:33,220
+have been hit by these bugs.
+
+574
+00:40:33,260 --> 00:40:38,891
+R&D are working on solutions that target these insects
+without harming other plant and animal life.
+
+575
+00:40:39,971 --> 00:40:41,808
+I thought I'd lost you there.
+
+576
+00:40:43,885 --> 00:40:45,443
+Nice to have you back.
+
+577
+00:40:51,714 --> 00:40:54,191
+So, we still doing movie night?
+
+578
+00:40:54,310 --> 00:40:55,309
+Yeah, why not.
+
+579
+00:40:55,348 --> 00:40:57,186
+Good. Already picked something out...
+
+580
+00:40:57,226 --> 00:40:58,344
+Old school?
+
+581
+00:40:58,384 --> 00:40:59,582
+Starship Troopers.
+
+582
+00:41:00,701 --> 00:41:03,098
+- Is it humorous?
+- Is it ever.
+

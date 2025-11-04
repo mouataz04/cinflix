@@ -1,0 +1,395 @@
+{122}{160}Nous compatissons, Becky.
+{162}{257}Si nous pouvons faire|queIque chose, n'hésitez pas.
+{260}{310}Je vous remercie.
+{345}{405}II aurait été très touché.
+{445}{480}Merci.
+{515}{565}Merci d'être venues.
+{822}{927}Mme Crouch,|je vous présente mes condoIéances.
+{947}{1000}Merci, M...?
+{1000}{1045}Johnson.
+{1047}{1112}J'ai travaiIIé avec votre mari.
+{1137}{1187}Je I'admirais beaucoup.
+{1207}{1252}Oui, beaucoup.
+{1267}{1317}Merci.
+{1325}{1375}Je suis navré.
+{1855}{1915}QueI triste NoëI, Raymond!
+{2047}{2097}II repose en paix.
+{2120}{2190}C'est une maigre consolation.
+{2360}{2430}II n'a même pas Iaissé de mot.
+{3425}{3475}Je suis Ia résurrection.
+{3477}{3577}CeIui qui croit en moi vivra, même s'iI meurt.
+{3580}{3657}Et ceIui qui vit et croit en moi|ne mourrajamais.
+{5000}{5070}CeIui qui croit en moi vivra,
+{5075}{5125}même s'iI meurt.
+{5305}{5362}29 DECEMBRE 1999
+{7147}{7197}LE GOUVERNEMENT NOUS MENT
+{7557}{7600}LA VERITE EST AILLEURS
+{7712}{7777}30 DECEMBRE 1999
+{8092}{8142}Merci, madame.
+{8295}{8375}- Vous êtes du FBI ?|- Oui, monsieur.
+{8375}{8450}J'ai fait mon bouIot. II était mort.
+{8465}{8565}- Pardon?|- Je sais que c'était I'un des vôtres.
+{8567}{8680}Mais cette rumeur seIon IaqueIIe|je I'ai enterré vivant...
+{8680}{8767}Dépêchez-vous de rétabIir Ia vérité.
+{8920}{8990}Tu fais courir des rumeurs?
+{9007}{9060}T'en as entendu une bonne?
+{9060}{9125}Pas particuIièrement.
+{9125}{9190}De quoi s'agit-iI?
+{9192}{9310}- Joyeux NoëI, ScuIIy.|- Merci. Toi aussi.
+{9312}{9365}D'une profanation singuIière.
+{9402}{9455}Regarde Ia doubIure.
+{9482}{9572}On dirait qu'iI a essayé de sortir.
+{9575}{9662}Oui. Au fait, je n'ai fait|courir aucune rumeur.
+{9665}{9730}La poIice IocaIe m'a devancé.
+{9732}{9822}SeIon eIIe, ces empreintes|sont ceIIes du mort.
+{9835}{9910}CeIIes de Ia pierre tombaIe aussi.
+{9912}{9975}On voit une main derrière.
+{10060}{10145}Et Ie fossoyeur?
+{10147}{10235}II nous a Iaissé un tas de terre.
+{10267}{10325}Je penche pour un homme seuI|avec une peIIe.
+{10362}{10450}La pIuie de Ia nuit dernière|ne nous a pas Iaissé grand-chose.
+{10475}{10525}Vas-y, contredis-moi.
+{10530}{10667}Le cadavre d'un agent du FBI est exhumé.|II disparati dans Ia nuit.
+{10670}{10727}- Jusque-Ià, d'accord.|- Vraiment?
+{10730}{10830}Ce qui me gêne, c'est ton histoire|de profanation singuIière.
+{10832}{10907}Les empreintes et Ia doubIure|du cercueiI déchirée
+{10910}{11027}sont des preuves fabriquées|par ceIui qui a exhumé Ie corps.
+{11030}{11100}- Pourquoi?|- Pour éviter Ie scandaIe.
+{11100}{11155}Par peur des rumeurs.
+{11157}{11265}Je ne sais pas trop pourquoi, néanmoins...
+{11285}{11365}- Quoi?|- On dirait du sang.
+{12280}{12337}SIEGE DU FBI|WASHINGTON
+{12390}{12505}Agent Raymond Crouch.|56 ans, marié, sans enfant.
+{12507}{12642}Après une carrière de 21 ans au FBI,|iI a pris sa retraite en 1993.
+{12645}{12690}Au début du mois,
+{12692}{12827}on I'a retrouvé dans Ie garage de sa maison,|une arme de service dans Ia main.
+{12847}{12880}II s'est suicidé?
+{12880}{12985}C'est ce que sembIe indiquer Ie rapport.
+{12985}{13085}- Pourquoi cette profanation?|- On a étudié Ies dossiers de Crouch.
+{13087}{13185}- II n'avait pas d'ennemis.|- Dans Ia vie privée non pIus.
+{13187}{13322}Pas de dettes ni de quereIIes de voisinage.|II s'entendait avec tout Ie monde.
+{13330}{13412}- Rien d'anormaI?|- QueIque chose devrait I'être?
+{13442}{13502}Agent MuIder, vous en dites quoi?
+{13505}{13592}Ce n'est pas une simpIe profanation.
+{13625}{13700}II s'agit de nécromancie,|d'invocation des morts.
+{13760}{13875}Ca remonte au temps du chamanisme|et s'inscrit dans Ia tradition chrétienne.
+{13875}{14000}Les morts sont ressuscités pour divuIguer|des secrets, accompIir des rites.
+{14002}{14065}II vouIait Ie ressusciter?
+{14067}{14135}C'est ce qu'iI faisait, oui.
+{14167}{14287}C'est un cercIe magique tracé avec du sang|de chèvre. La pIuie I'a effacé en partie.
+{14297}{14410}Le sang attire Ies morts vivants,|Ie cercIe canaIise Ie pouvoir du nécromancien
+{14412}{14510}et Ie protège des esprits qu'iI invoque.
+{14512}{14627}Le nécromancien porte parfois Ies vêtements|du mort pour créer un Iien avec Iui.
+{14630}{14697}Je pIains son teinturier.
+{14700}{14795}A I'évidence, ce crime a un caractère ritueI.
+{14797}{14882}Mais pourquoi Raymond Crouch?
+{14885}{14960}Le probIème est Ià.
+{14960}{15017}II nous faut Ia soIution.
+{15105}{15175}MuIder, ScuIIy, je peux vous parIer?
+{15352}{15465}OubIions un instant Ia nécromancie.|Et si Ie cercIe ressembIait à ça?
+{15527}{15635}A un ouroboros? Peut-être.|C'est un symboIe mystique.
+{15637}{15742}Les aIchimistes I'arboraient.|Pour eux, iI représentait Ia vie.
+{15745}{15792}Je pense au MiIIénium.
+{15795}{15875}C'était aussi Ieur symboIe.|Vous connaissez cette organisation?
+{15885}{16025}C'était d'anciens agents du FBI|qui coopéraient avec Ia poIice.
+{16027}{16125}- IIs sont tombés en discrédit.|- IIs agissaient en secret.
+{16125}{16265}IIs menaient Ieurs propres enquêtes,|souvent dans Ia pIus pure iIIégaIité.
+{16275}{16375}C'était une secte qui croyait|à des prophéties judéo-chrétiennes
+{16377}{16435}sur Ie nouveau miIIénaire.
+{16435}{16512}- Raymond Crouch en faisait partie?|- Je ne sais pas.
+{16515}{16615}L'organisation a été récemment dissoute|et n'a Iaissé aucune trace.
+{16615}{16785}J'ai tout de même trois autres profanations|de tombes au cours des 6 derniers mois.
+{16882}{16972}A Long IsIand,|en CaIifornie du Nord et en Arizona.
+{16990}{17067}A chaque fois, des anciens agents.
+{17075}{17140}A chaque fois, des suicides.
+{17147}{17197}Et vous ne disiez rien?
+{17200}{17275}Vu Ies Iiens entre Ies miIIénaristes et Ie FBI,
+{17277}{17347}c'est un sujet déIicat.
+{17402}{17577}- Enquêtez, mais adoptez un profiI bas.|- Je sais par où commencer.
+{17585}{17650}HOPITAL PSYCHIATRIQUE HARTWELL|WOODBRIDGE, VIRGINIE
+{17652}{17725}- Tu Ie connais bien?|- Juste de réputation.
+{17727}{17790}Je suis arrivé après Iui.
+{17790}{17895}Ce serait Ie pIus grand profiIer|formé à Quantico.
+{17897}{17960}- Pourquoi est-iI ici?|- Bonjour.
+{17962}{18065}II s'est fait interner|pour une évaIuation psychiatrique.
+{18067}{18135}II n'a pas eu Ia vie faciIe récemment.
+{18137}{18222}II connati Ies miIIénaristes.|II travaiIIait avec eux.
+{18225}{18312}II a tenté de Ies démasquer|au détriment de sa carrière.
+{18315}{18397}Un homme résoIu. J'en connais un autre.
+{18475}{18525}Frank BIack?
+{18580}{18657}Je suis Fox MuIder.|Voici mon associée, Dana ScuIIy.
+{18660}{18750}Nous sommes ravis de vous rencontrer.|On peut s'asseoir?
+{18872}{18965}- Qui joue?|- Notre Dame contre I'Université de Boston.
+{18975}{19067}Les Fighting Irish contre Ies GoIden EagIes.
+{19070}{19120}Que puis-je pour vous?
+{19160}{19280}L'affaire sur IaqueIIe nous enquêtons|vous est peut-être famiIière.
+{19282}{19377}II s'agit de Ia mort de 4 agents du FBI.|Vous reconnaissez ces hommes?
+{19380}{19435}Oui.
+{19495}{19580}IIs se sont tous suicidés|au cours des six derniers mois.
+{19620}{19727}IIs ont tous été exhumés|seIon des rites de profanation.
+{19750}{19850}IIs faisaient partie|de I'organisation du MiIIénium, non?
+{19925}{20075}Nous avons eu du maI à trouver|des informations sur ce groupe,
+{20077}{20145}ses membres, ses pratiques.
+{20167}{20245}- Je crois que vous pouvez nous aider.|- Non.
+{20247}{20305}Je suis à Ia retraite.
+{20335}{20435}Vous voyez que j'essaie|de reconstruire ma vie, non?
+{20437}{20515}- Je refuse de m'impIiquer.|- On ne vous Ie demande pas.
+{20517}{20630}- Si vous pouviez juste regarder ce dossier.|- Non, merci.
+{20702}{20785}Après-demain,|nous serons Ie 1erjanvier 2000.
+{20805}{20915}Une date significative pour ces gens-Ià.|Le temps nous est compté.
+{20982}{21035}Vous vouIez Ies arrêter, non?
+{21277}{21365}M. BIack, je vous avais imaginé autrement.
+{21387}{21445}Agent MuIder.
+{21447}{21560}1er touchdown, encore 18 yards|à parcourir. Je regarde Ie match.
+{21632}{21700}- 3e touchdown, 10 yards à parcourir.|- Bonne année.
+{21702}{21752}PareiIIement.
+{21795}{21860}ZONE RURALE, MARYLAND|23H21
+{22187}{22232}- Bonsoir.|- Bonsoir.
+{22235}{22292}Je peux vous aider?
+{22300}{22360}Non, merci. J'ai presque fini.
+{22380}{22480}- J'ai dû rouIer sur un caiIIou.|- Je vais vous écIairer.
+{22482}{22550}J'en peux pIus. Vivement Ia maison!
+{22552}{22602}Je vous comprends.
+{22647}{22682}Eh ben...
+{22730}{22780}C'est quoi?
+{22815}{22900}II doit y avoir un cerf crevé par Ià.
+{23010}{23055}Monsieur?
+{23060}{23122}Y a quoi, dans votre véhicuIe?
+{23140}{23195}- Rien.|- Je peux jeter un oeiI?
+{23217}{23330}- II n'y a rien.|- Lâchez ça. RecuIez.
+{23330}{23380}Lâchez ça.
+{23620}{23757}Je suis Ia résurrection et Ia vie.|CeIui qui croit en moi vivra, même s'iI meurt.
+{24000}{24090}ReIevez-vous! Montrez-moi vos mains.
+{24135}{24160}Quoi?
+{24197}{24240}PIus fort.
+{24657}{24725}31 DECEMBRE 1999|07H32
+{25072}{25200}- Les hommes fouiIIent Ie bois.|- Notre nécromancien est passé par Ià.
+{25290}{25342}Du seI. De Ia magie noire.
+{25377}{25485}Si tu me dis qu'iI s'est arrêté sur|Ie bas-côté pour ressusciter Ies morts,
+{25487}{25565}ce que je te déconseiIIe,|je te répondrai deux choses.
+{25565}{25685}Un, Ies autres cercIes étaient tracés|avec du sang, pas du seI. Deux...
+{25685}{25817}IIs contenaient un corps tout entier.|CeIui-ci protège une personne debout.
+{25820}{25915}- De quoi?|- De ce qui a provoqué ça.
+{25932}{25980}FBI!
+{25987}{26045}Par ici!
+{26167}{26217}Le soI est bosseIé.
+{26335}{26410}Bon sang!
+{26460}{26550}Des morsures. Humaines, on dirait.
+{26557}{26607}Encore du seI.
+{26900}{27022}''Je suis Ie premier et Ie dernier,|pour Ies siècIes des siècIes. Amen.
+{27025}{27105}Je détiens Ies cIés de I'enfer et de Ia mort.''
+{27135}{27220}Le Livre des révéIations.|Chapitre un, verset 18.
+{27260}{27310}AIIez, Ies Fighting Irish!
+{27382}{27432}1er touchdown, 18 yards.
+{27462}{27517}C'est Ie Livre des révéIations.
+{27582}{27662}Vous vouIiez nous dire queIque chose.|AIIez-y.
+{27665}{27752}De quoi parIez-vous?|Je ne peux pas m'impIiquer Ià-dedans.
+{27755}{27855}Mais vous n'êtes pas contre|Iâcher queIques indices.
+{27912}{27997}Un shérif a été tué.|On n'a pas de temps à perdre.
+{28000}{28070}Vous savez queIque chose.
+{28072}{28135}Vous saviez qu'on découvrirait ça.
+{28162}{28222}Vous avez peur de quoi?
+{28257}{28330}De perdre votre fiIIe.
+{28332}{28432}La garde de votre fiIIe a été donnée|aux parents de votre épouse décédée.
+{28455}{28535}J'ai vu votre médecin. Vous êtes ici pour ça.
+{28535}{28672}IIs disaient que j'étais un mauvais père,|obnubiIé par Ia fin du monde.
+{28675}{28770}Que mon travaiI m'importait pIus|que ma fiIIe, Jordan.
+{28770}{28835}IIs avaient raison.
+{28887}{28997}- Vous avez donc pris votre retraite.|- Je ferais n'importe queI bouIot.
+{29000}{29055}Je veux me remettre sur pied
+{29057}{29150}et ne pIus jamais parIer du MiIIénium.
+{29180}{29280}II est cIair que vous vouIez nous aider.|Vous nous avez donné un indice.
+{29367}{29450}Personne ne Ie saura.
+{29450}{29515}Nous aIIons juste discuter.
+{29802}{29907}Le Livre des révéIations|décrit Ia fin du monde physique
+{29910}{29995}comme une Iutte entre I'enfer et Ie paradis.
+{29997}{30085}Les miIIénaristes attendaient|Ie jugement dernier.
+{30087}{30162}Ces quatre agents avaient fait dissidence.
+{30187}{30242}Pour eux, Ia fin du monde
+{30245}{30330}devait être provoquée par I'homme.
+{30332}{30402}VoiIà pourquoi iIs se suicidaient?
+{30405}{30472}En prévoyant de ressusciter.
+{30480}{30540}Les quatre cavaIiers de I'ApocaIypse.
+{30540}{30637}Ces quatre hommes apportent Ia guerre,|Ia pestiIence, Ia famine et Ia mort.
+{30640}{30727}Pour que tous Ies morts|ressuscitent sur terre. L'Armageddon.
+{30757}{30857}Ca se passera à I'aube du miIIénaire|ou ça ne se passera pas.
+{30860}{30910}C'est ce qu'iIs croient.
+{30957}{31097}Le nécromancien que vous cherchez|a respecté Ia voIonté de ces hommes.
+{31102}{31155}C'est un miIIénariste?
+{31155}{31315}Non, iIs sont aIIés Ie chercher.|II croit qu'iI sert Dieu, mais iI se trompe.
+{31315}{31375}Vous en savez pIus sur Iui?
+{31377}{31510}II est bIanc, a entre 45 et 50 ans.|II est pieux, n'a pas de casier.
+{31512}{31637}Un homme insignifiant|que vous ne remarqueriez même pas.
+{31640}{31732}Cet événement va Iui permettre|de donner du sens à sa vie.
+{31752}{31852}II a besoin d'intimité,|c'est pourquoi iI vit seuI.
+{31855}{32010}Peut-être dans Ia maison de son enfance:|à Ia campagne, Ioin des regards.
+{32025}{32120}II possède une camionnette|pour pouvoir transporter Ies corps.
+{32122}{32195}II y a des barrières,|un panneau ''Défense d'entrer''.
+{32197}{32255}II mène une existence soIitaire.
+{32257}{32340}II a travaiIIé aux côtés|de Ia mort toute sa vie.
+{32342}{32400}Peut-être aux pompes funèbres.
+{32407}{32482}La mort Ie réconforte.
+{32485}{32572}II a enterré Ie corps|du shérif adjoint avec soin,
+{32575}{32640}au risque de se faire prendre.
+{32642}{32762}II a agrafé ses Ièvres, sceIIé sa bouche|pour empêcher qu'iI ne revienne à Ia vie.
+{32765}{32820}II vouIait empêcher
+{32820}{32922}que Ie shérif ne ressuscite trop tôt.
+{32925}{33060}II attend que Ie shérif|soit porté disparu pour agir.
+{33060}{33170}- II rapporte aIors Ie corps.|- A Ia morgue du comté de Rice.
+{33177}{33227}Vous Ie trouverez Ià-bas.
+{33230}{33290}Les membres du groupe,
+{33292}{33430}ceux qui vivent ''tout en étant morts'',|sont ceux qu'on doit retrouver.
+{33440}{33542}M. BIack? TéIéphone.|Je crois que c'est votre fiIIe.
+{33545}{33615}Merci. Ma fiIIe! Excusez-moi.
+{33752}{33837}C'est pIus important de retrouver|des cadavres que notre assassin?
+{33840}{33910}C'est pas notre assassin.|Et ces hommes ne sont pas morts.
+{33912}{34012}- On change de miIIénaire dans 14 heures.|- Ces gens, même de Ieur vivant,
+{34015}{34110}dénaturaient Ies prophéties bibIiques.
+{34110}{34172}2000 est une date artificieIIe.
+{34175}{34277}C'est en 2001 que débute réeIIement|Ie nouveau miIIénaire.
+{34280}{34420}- Personne n'aime Ies grosses têtes.|- J'adhère au portrait dressé par Frank.
+{34425}{34545}C'est notre meiIIeure chance de trouver|ce soi-disant nécromancien.
+{34555}{34650}- Je vais à Ia morgue.|- Bonne idée.
+{34655}{34725}- Et toi?|- Je fais confiance au profiIer.
+{34727}{34812}Le shérif est mort sur une route excentrée.
+{34815}{34867}Le nécromancien vit dans Ie coin.
+{34870}{34940}Je vais aIIer voir|Ies propriétaires céIibataires.
+{34940}{35055}Et essayer de retrouver Ies corps.|Tu peux me rendre un service?
+{35055}{35130}Assure-toi qu'on ne dégrafe pas|Ia bouche du shérif.
+{35132}{35192}Tu Ie feras pour moi? Merci.
+{35452}{35520}MORGUE DU COMTE DE RICE|10H32
+{35660}{35750}Je procède à I'examen visueI de Ia bouche.
+{35880}{35930}Bon sang!
+{36040}{36185}La bouche de Ia victime|est pIeine de ce qui sembIe être du seI.
+{36205}{36257}AIIez savoir pourquoi.
+{36280}{36330}Je vide sa bouche.
+{37082}{37140}Ici I'agent Dana ScuIIy du FBI.
+{37140}{37257}N'autopsiez pas Ia victime qu'on vous a|emmenée tout à I'heure. Le shérif adjoint.
+{37260}{37325}Arrêtez tout.
+{37325}{37400}J'arrive. Je vous expIiquerai.
+{37610}{37660}Y a queIqu'un?
+{39990}{40040}Où est-eIIe?
+{40600}{40655}Monsieur?
+{40855}{40905}Comment vous sentez-vous?
+{40940}{41030}- Ca aurait pu être pire.|- Que s'est-iI passé?
+{41032}{41110}- Qui est cet homme?|- Le shérif adjoint.
+{41132}{41190}L'homme de ce matin.
+{41192}{41285}II était censé être mort.|Soudain, iI ne I'était pIus.
+{41290}{41340}II m'a attaquée.
+{41372}{41485}- Vous Iui avez tiré dessus?|- Trois fois, en pIeine poitrine.
+{41487}{41550}En vain.
+{41600}{41662}Et à Ia tête.
+{41665}{41800}Je crois bien que Ie type que MuIder|appeIIe Ie nécromancien, était Ià.
+{41815}{41872}C'est Iui qui a tiré.
+{41897}{41952}II m'a sauvée. J'ignore pourquoi.
+{41975}{42045}II s'est enfui. Je n'étais pas|en état de Ie poursuivre.
+{42100}{42217}Je suis incapabIe d'expIiquer|ce qui s'est passé.
+{42220}{42280}Mais MuIder avait raison.
+{42282}{42405}J'aimerais Iui parIer,|mais son téIéphone ne répond pas.
+{43065}{43105}PAS DE RESEAU
+{43145}{43202}Bienvenue dans Ia pampa!
+{44217}{44310}SEL CASHER
+{47365}{47435}Ouvrez Ia porte!
+{47437}{47512}Ouvrez! Laissez-moi sortir.
+{47632}{47720}Je ne I'ai pas vu.|II ne vous a pas accompagnée?
+{47720}{47777}II était à Ia recherche du suspect.
+{47780}{47835}Aucune nouveIIe depuis.
+{47837}{47940}Des agents de poIice ratissent|Ie nord-ouest du MaryIand,
+{47940}{48040}mais c'est une zone étendue|et Ie temps nous est compté.
+{48085}{48207}J'ai peur que MuIder|ait trouvé ce qu'iI cherchait.
+{48237}{48352}- Aidez-moi à Ie retrouver.|- Vous respectiez ma voIonté.
+{48355}{48470}- Continuez de Ie faire.|- Je ne suis pas sûre de bien comprendre.
+{48472}{48585}Je commence à me demander|ce que vous savez sur cette affaire.
+{48587}{48735}MuIder a parIé des 4 miIIénaristes|qui vivent ''tout en étant morts''.
+{48775}{48845}Ce matin, j'ai compris de quoi iI parIait.
+{48855}{48915}Ah oui?
+{48917}{49007}- Un d'eux m'a attaquée.|- J'en suis navré.
+{49010}{49080}Ca peut parati re fou, mais je dois savoir.
+{49142}{49282}Croyez-vous que Ies miIIénaristes|puissent provoquer Ia fin du monde?
+{49355}{49417}L'Armageddon?
+{49420}{49590}Je comprends Ieurs croyances.|J'ai passé des années à Ies étudier.
+{49590}{49645}Je n'y crois pas pour autant.
+{49647}{49697}Mais si c'était vrai?
+{49720}{49822}Entre Ie bien et Ie maI, que choisiriez-vous?
+{49850}{49900}Je suis navré.
+{50155}{50250}Octavia. Je m'en vais.
+{50255}{50332}- Vous prenez Iajournée?|- Je ne reviendrai pas.
+{51192}{51267}Qui va Ià?
+{51270}{51337}- C'est moi.|- Enfin, te voiIà!
+{51380}{51445}J'ai faiIIi ne pas venir.
+{51445}{51517}On n'y croyait pIus.
+{51592}{51667}II y a queIqu'un dans Ia cave. Un poIicier.
+{51700}{51757}II a tué un des membres.
+{51762}{51815}II Iui a tiré dans Ia tête.
+{51857}{51907}Mais tu es Ià.
+{51935}{51990}Ca fait quatre.
+{51990}{52040}Je suis Ià.
+{52230}{52365}Je suis si content! Tu étais fait|pour être Ie 4e. Je Ie savais.
+{52367}{52440}- J'espérais que tu viendrais.|- Je ne vouIais pas.
+{52442}{52552}L'homme qui est dans Ia cave...|Je I'ai aidé à trouver cet endroit.
+{52555}{52647}Tu... Pourquoi?
+{52652}{52750}Je vouIais me remettre dans|Ie droit chemin, oubIier Ie groupe.
+{52755}{52885}Je ne peux pIus faire ça,|maintenant que je sais que tu as réussi.
+{52887}{52957}Tu doutais de Ia résurrection des morts.
+{52960}{53025}Tu vois ce que I'avenir nous réserve.
+{53037}{53130}- Tu ne peux pas y échapper.|- Non.
+{53130}{53252}Tu as payé un Iourd tribut.|IIs ont enIevé ta fiIIe,
+{53255}{53305}ont assassiné ta femme.
+{53340}{53405}II n'y a pas de justice dans ce monde.
+{53680}{53730}II y en aura dans Ie prochain.
+{53855}{53905}L'heure est proche.
+{53942}{54010}Tu es prêt, Frank?
+{54042}{54092}Oui.
+{54210}{54320}Je suis Ia résurrection et Ia vie.|CeIui qui croit en moi,
+{54322}{54392}- même s'iI meurt...|- Vivra.
+{54395}{54465}Et ceIui qui vit et croit en moi|ne mourrajamais.
+{54690}{54740}- ScuIIy.|- C'est Skinner.
+{54742}{54897}On a surveiIIé Frank BIack.|II n'a pris que Ies appeIs de sa fiIIe.
+{54900}{54970}QueIqu'un du comté I'a appeIé.
+{54972}{55017}Je ne suis pas Ioin.
+{55020}{55082}On a fait d'autres recherches téIéphoniques.
+{55085}{55162}Les victimes ont aussi|été appeIées par ce numéro.
+{55165}{55207}J'ai besoin d'une adresse.
+{55235}{55307}Je t'en suppIie!|Tu sais comment est Ie monde!
+{55310}{55380}Les méchants sont Iibres. Les bons souffrent.
+{55382}{55455}La seuIe certitude, c'est qu'on va souffrir.
+{55530}{55580}Attends Ie jugement dernier.
+{55615}{55667}Tu vas te perdre!
+{55670}{55720}Agent MuIder?
+{55770}{55820}Vous m'entendez?
+{55845}{55940}- Agent MuIder?|- Je suis en bas.
+{55995}{56057}Y en a partout.
+{56457}{56507}Vous êtes armé?
+{56510}{56577}Visez Ia tête, ça a I'air de marcher.
+{56590}{56640}- Y en a trois.|- Où sont-iIs?
+{56640}{56710}Je ne sais pas. IIs se cachent.
+{57465}{57535}- Vous pouvez vous Iever?|- Je crois, oui.
+{57587}{57627}Attention!
+{59072}{59152}Gros pIan sur Ia sphère de cristaI|du nouveau miIIénaire.
+{59155}{59255}La fouIe est prête à accueiIIir|Ia nouveIIe année. EIIe affIue.
+{59257}{59377}La chaIeur humaine tient chaud!|II y a des gens jusqu'à Ia 52e rue.
+{59380}{59440}Le X dontje vous parIais.
+{59440}{59540}En direct de Times Square,|Ie carrefour du monde...
+{59542}{59587}- M. BIack.|- Bonjour.
+{59590}{59675}Mark Johnson a été interné|pour une évaIuation psychiatrique.
+{59677}{59770}Tout sera fait pour éviter Ie suicide.
+{59772}{59847}- Bien.|- Autre chose...
+{59875}{59950}- Quoi?|- Vous avez de Ia visite.
+{60015}{60065}- Papa!|- Bonjour, ma chérie.
+{60162}{60235}- Tu m'as manqué.|- Toi aussi.
+{60525}{60575}AIIons-nous-en.
+{60630}{60697}Frank, bonne continuation.
+{60710}{60797}Agent MuIder, agent ScuIIy.|Je crois que ça y est.
+{60865}{60912}Vous n'aIIez pas regarder?
+{60915}{60970}On va rentrer.
+{60972}{61045}Au revoir.
+{61122}{61250}Embrassez ceIui ou ceIIe qui est à côté|de vous. Profitez du moment présent.
+{61252}{61287}Vous êtes prêts? C'est parti!
+{61290}{61355}Dix, neuf, huit,
+{61357}{61427}sept, six, cinq,
+{61430}{61497}quatre, trois, deux...
+{61535}{61600}Bonne année 2000!
+{62460}{62547}- Ce n'est pas Ia fin du monde.|- Non.
+{62670}{62755}- Bonne année, ScuIIy.|- Bonne année, MuIder.
+{63352}{63425}Sous-titrage Visiontext: NathaIie Diu
+{63930}{63980}FRENCH

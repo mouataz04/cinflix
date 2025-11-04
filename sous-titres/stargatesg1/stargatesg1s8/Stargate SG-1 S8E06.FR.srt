@@ -1,0 +1,1641 @@
+1
+00:00:07,268 --> 00:00:12,945
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+2
+00:00:20,508 --> 00:00:22,897
+Donne-moi ton arme.
+
+3
+00:01:19,228 --> 00:01:24,427
+Temps de simulation: 49 secondes.
+C'est pas mal, pas mal du tout.
+
+4
+00:01:24,508 --> 00:01:27,944
+- Comment c'était? Sympa?
+- Très.
+
+5
+00:01:28,028 --> 00:01:31,225
+Tu meurs bien au combat, O'Neill.
+
+6
+00:01:32,428 --> 00:01:35,101
+Cette machine est défectueuse.
+
+7
+00:01:35,188 --> 00:01:40,660
+Je confirme. Un guerrier d'Anubis est
+un soldat bien plus redoutable que ça.
+
+8
+00:01:40,748 --> 00:01:44,104
+Quoi? On travaille sur cette chaise
+depuis deux ans,
+
+9
+00:01:44,188 --> 00:01:47,976
+pour en faire un bon outil d'entraînement.
+
+10
+00:01:48,068 --> 00:01:50,707
+Vous avez échoué.
+
+11
+00:01:51,508 --> 00:01:53,578
+il est tout sauf pas sincère.
+
+12
+00:01:53,668 --> 00:01:55,147
+Eh bien...
+
+13
+00:01:55,228 --> 00:01:58,220
+On peut peut-être
+y travailler encore, mais...
+
+14
+00:01:58,308 --> 00:02:01,584
+Pouvez-vous le rendre plus dur...
+plus difficile?
+
+15
+00:02:01,668 --> 00:02:06,298
+On peut entrer les paramètres
+de scénarios différents,
+
+16
+00:02:06,388 --> 00:02:10,586
+mais la simulation provient surtout
+de l'esprit de l'utilisateur.
+
+17
+00:02:10,668 --> 00:02:15,139
+La programmation est basée
+sur l'interface des souvenirs
+
+18
+00:02:15,228 --> 00:02:20,018
+de la conscience de l'individu
+avec la matrice de la chaise.
+
+19
+00:02:20,108 --> 00:02:24,545
+Carter, "matrice" m'évoque <i>Matrix,</i>
+et je n'ai rien compris à ces films.
+
+20
+00:02:24,628 --> 00:02:31,978
+Le Dr Lee veut dire que le réalisme de
+la simulation provient de son utilisateur.
+
+21
+00:02:32,068 --> 00:02:36,539
+On a testé le logiciel de nombreuses fois
+sur des sujets variés.
+
+22
+00:02:36,628 --> 00:02:39,347
+Mais aucun n'avait l'expérience de Teal'c.
+
+23
+00:02:39,428 --> 00:02:40,986
+Des sujets?
+
+24
+00:02:41,068 --> 00:02:43,502
+De qui parlez-vous?
+
+25
+00:02:53,348 --> 00:02:57,023
+Si Teal'c était d'accord
+pour travailler avec nous...
+
+26
+00:02:57,108 --> 00:03:01,101
+il vous suffirait de jouer.
+Laisser le jeu s'imprégner de vous.
+
+27
+00:03:01,188 --> 00:03:04,260
+Ce serait sympa. Vous seriez excellent.
+
+28
+00:03:05,268 --> 00:03:06,826
+Très bien.
+
+29
+00:03:08,468 --> 00:03:12,586
+Voilà. Assurez-vous de faire
+un niveau débutant, pour nous autres.
+
+30
+00:03:12,668 --> 00:03:17,822
+Oui. On peut toujours le rendre plus facile.
+Non pas qu'il faudrait le faire pour vous.
+
+31
+00:03:17,908 --> 00:03:21,821
+Pour les autres. Vous y arriveriez.
+
+32
+00:03:22,988 --> 00:03:24,979
+Carter. Messieurs.
+
+33
+00:04:33,628 --> 00:04:36,461
+Grâce au programme
+de décodage de Carter,
+
+34
+00:04:36,548 --> 00:04:41,668
+on peut contrôler vos progrès à travers
+une représentation de votre point de vue.
+
+35
+00:04:41,748 --> 00:04:45,627
+- Tu as déjà joué à <i>Doom ?</i>
+- J'ai joué à <i>Def Jam Vendetta.</i>
+
+36
+00:04:45,708 --> 00:04:47,380
+Exactement, oui.
+
+37
+00:04:47,468 --> 00:04:51,939
+Il y a un délai de deux secondes
+entre le processeur et votre expérience,
+
+38
+00:04:52,028 --> 00:04:56,101
+mais ça ne devrait pas vous gêner.
+
+39
+00:04:56,188 --> 00:05:00,101
+On peut emmagasiner chaque aspect
+de votre activité dans le jeu,
+
+40
+00:05:00,188 --> 00:05:05,467
+puis incorporer ce qu'on voudra dans le
+programme du scénario d'entraînement.
+
+41
+00:05:05,548 --> 00:05:09,700
+Comme avant, une fois que votre esprit
+sera en liaison avec la chaise,
+
+42
+00:05:09,788 --> 00:05:14,384
+on ne pourra pas annuler la connexion
+sans vous mettre en danger.
+
+43
+00:05:14,468 --> 00:05:17,301
+- En effet.
+- C'est une fonction du nouveau modèle.
+
+44
+00:05:17,388 --> 00:05:22,587
+Depuis l'incident sur P7J-989, la fonction
+"arrêt" est intégrée au programme,
+
+45
+00:05:22,668 --> 00:05:25,102
+seul le joueur peut la contrôler.
+
+46
+00:05:25,188 --> 00:05:27,907
+Vous m'avez déjà donné cette information.
+
+47
+00:05:27,988 --> 00:05:31,617
+C'est différent, cette fois.
+Le jeu apprendra de vous
+
+48
+00:05:31,708 --> 00:05:34,905
+puis incorporera les changements
+dans son programme.
+
+49
+00:05:34,988 --> 00:05:38,583
+Si tu es tué dans le jeu,
+ça recommencera depuis le début.
+
+50
+00:05:39,028 --> 00:05:41,747
+La chaise ne mettra fin au jeu
+
+51
+00:05:41,828 --> 00:05:45,537
+qu'une fois le scénario terminé,
+ou si tu enclenches le garde-fou,
+
+52
+00:05:45,628 --> 00:05:50,986
+- ce que tu peux faire quand tu veux.
+- Ce ne sera pas nécessaire.
+
+53
+00:05:51,868 --> 00:05:57,181
+Ne sois pas si sûr de toi.
+La chaise finira par tout savoir sur toi.
+
+54
+00:05:57,268 --> 00:05:59,543
+Si tu veux arrêter avant la fin,
+
+55
+00:05:59,628 --> 00:06:03,018
+va à l'ascenseur de la base
+et remonte à la surface.
+
+56
+00:06:03,108 --> 00:06:04,860
+Prêt?
+
+57
+00:06:04,948 --> 00:06:06,939
+Allons-y.
+
+58
+00:06:19,348 --> 00:06:24,741
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+59
+00:06:32,188 --> 00:06:34,907
+Donne-moi ton arme.
+
+60
+00:06:48,468 --> 00:06:54,179
+- Que s'est-il passé?
+- La chaise a provoqué une douleur.
+
+61
+00:06:54,268 --> 00:06:57,704
+Elle est liée à son cerveau.
+Ça pouvait arriver.
+
+62
+00:06:57,788 --> 00:07:00,461
+Mais une simulation
+ne devrait pas faire mal.
+
+63
+00:07:00,548 --> 00:07:02,857
+C'est la différence entre vous et Teal'c.
+
+64
+00:07:02,948 --> 00:07:05,940
+il sait que dans la réalité,
+la tactique serait différente
+
+65
+00:07:06,028 --> 00:07:08,098
+si on pensait ne pas souffrir.
+
+66
+00:07:08,188 --> 00:07:10,463
+Ça a été une sacrée décharge.
+
+67
+00:07:11,428 --> 00:07:14,226
+il voulait que ce soit réaliste.
+
+68
+00:07:16,228 --> 00:07:21,780
+Heureusement, la chaise est limitée et
+ne peut pas infliger une décharge fatale.
+
+69
+00:07:25,988 --> 00:07:31,984
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+70
+00:08:10,348 --> 00:08:12,543
+Va-t'en, Teal'c.
+
+71
+00:08:20,308 --> 00:08:23,698
+Ça fait deux fois. La chaise apprend vite.
+
+72
+00:08:23,788 --> 00:08:26,063
+Teal'c n'a pas dit son dernier mot.
+
+73
+00:08:33,588 --> 00:08:34,987
+ARSENAL
+
+74
+00:08:41,348 --> 00:08:43,339
+GILET 100 %
+
+75
+00:08:43,428 --> 00:08:44,941
+P90 CHARGÉ
+
+76
+00:09:31,188 --> 00:09:33,383
+C'est vache.
+
+77
+00:09:35,428 --> 00:09:39,262
+Colonel, je suis inquiet
+au sujet de ces courbes.
+
+78
+00:09:39,348 --> 00:09:41,339
+Moi aussi.
+
+79
+00:09:44,548 --> 00:09:48,257
+Dr Carmichael,
+pouvez-vous nous rejoindre au labo 5?
+
+80
+00:09:48,908 --> 00:09:53,424
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+81
+00:09:57,628 --> 00:10:00,381
+- J'ai besoin de votre aide.
+- Moi aussi.
+
+82
+00:10:00,468 --> 00:10:04,063
+- La salle du Stargate a besoin de renfort.
+- ils sont morts.
+
+83
+00:10:04,148 --> 00:10:06,423
+- Pardon?
+- La salle a été envahie.
+
+84
+00:10:06,508 --> 00:10:10,421
+Nous devons sceller
+les accès est et sud du niveau 28
+
+85
+00:10:10,508 --> 00:10:13,022
+et les prendre entre deux feux.
+
+86
+00:10:13,108 --> 00:10:15,781
+- Prendre qui?
+- Les deux guerriers d'Anubis.
+
+87
+00:10:15,868 --> 00:10:21,101
+- Comment le sais-tu?
+- ils ont pris cet itinéraire sept fois sur dix.
+
+88
+00:10:38,588 --> 00:10:40,977
+Deux ennemis se dirigent vers vous.
+
+89
+00:10:41,068 --> 00:10:44,378
+Bien reçu. On est en position.
+Tenez-vous prêts.
+
+90
+00:11:03,228 --> 00:11:04,866
+On se replie!
+
+91
+00:11:28,108 --> 00:11:31,578
+Vous aviez raison de vous inquiéter
+au sujet de ces courbes.
+
+92
+00:11:31,668 --> 00:11:37,937
+Des pics d'adrénaline font augmenter
+sa tension et son rythme cardiaque.
+
+93
+00:11:38,028 --> 00:11:40,019
+Cette embuscade aurait dû marcher.
+
+94
+00:11:40,108 --> 00:11:43,225
+- Pourquoi les armes n'ont pas eu d'effet?
+- Je l'ignore.
+
+95
+00:11:43,308 --> 00:11:46,664
+Un super soldat a-t-il déjà résisté
+à cette arme, dans la réalité?
+
+96
+00:11:46,748 --> 00:11:48,943
+- Non.
+- Mais c'est possible.
+
+97
+00:11:49,028 --> 00:11:53,738
+Les Goa'ulds adaptent la technologie pour
+se défendre contre ce qu'on leur envoie.
+
+98
+00:11:53,828 --> 00:11:59,460
+Espérons que le jeu extrapolera aussi
+des solutions et les proposera à Teal'c.
+
+99
+00:12:02,308 --> 00:12:04,617
+Ce serait normal.
+
+100
+00:12:05,388 --> 00:12:08,460
+Niveau d'alerte Foxtrot Alpha Six...
+
+101
+00:12:08,548 --> 00:12:14,180
+Teal'c! On dirait que les gens
+en salle du Stargate ont besoin de renfort.
+
+102
+00:12:14,268 --> 00:12:16,907
+- il faut y aller!
+- Écoutez-moi.
+
+103
+00:12:16,988 --> 00:12:19,707
+Deux guerriers d'Anubis
+sont entrés dans la salle.
+
+104
+00:12:19,788 --> 00:12:23,337
+Nos armes sont inefficaces
+contre leur armure. Pourquoi?
+
+105
+00:12:23,428 --> 00:12:26,226
+- J'aimerais le savoir.
+- Je parle de l'armure.
+
+106
+00:12:26,308 --> 00:12:28,902
+Elle a peut-être été modifiée pour résister.
+
+107
+00:12:28,988 --> 00:12:32,663
+- On peut les vaincre?
+- Je travaille sur une puce de modulation.
+
+108
+00:12:32,748 --> 00:12:35,945
+- Où est-elle?
+- Dans mon labo, mais je dois...
+
+109
+00:12:36,948 --> 00:12:38,939
+Montrez-la-moi.
+
+110
+00:12:44,668 --> 00:12:46,659
+Ce n'est qu'un prototype.
+
+111
+00:12:57,188 --> 00:13:03,138
+Alerte. La séquence d'autodestruction
+de la base a été activée.
+
+112
+00:13:12,428 --> 00:13:15,579
+- Sympa de vous joindre à nous!
+- On était occupés!
+
+113
+00:13:15,668 --> 00:13:19,547
+ils ont trouvé un moyen
+de neutraliser nos armes.
+
+114
+00:13:27,148 --> 00:13:31,266
+Alerte. La séquence d'autodestruction
+de la base a été activée.
+
+115
+00:13:31,348 --> 00:13:33,543
+Détonation dans 30 secondes.
+
+116
+00:13:39,388 --> 00:13:40,503
+ABANDON
+
+117
+00:13:40,588 --> 00:13:42,579
+Abandon de la destruction.
+
+118
+00:13:42,668 --> 00:13:47,059
+- C'est bon.
+- La menace a donc été éliminée.
+
+119
+00:13:50,868 --> 00:13:53,541
+La menace a donc été éliminée.
+
+120
+00:13:57,708 --> 00:13:59,778
+Teal'c, tu es blessé.
+
+121
+00:14:04,628 --> 00:14:06,664
+Je vais bien.
+
+122
+00:14:08,428 --> 00:14:12,501
+- Ça devrait être fini.
+- Vous voulez dire qu'il aurait dû gagner?
+
+123
+00:14:12,588 --> 00:14:15,421
+C'était la conclusion du scénario.
+
+124
+00:14:15,508 --> 00:14:19,820
+- Mais la chaise ne se déconnecte pas.
+- Le jeu ne redémarre pas.
+
+125
+00:14:19,908 --> 00:14:24,186
+On ne peut pas gagner une course
+si quelqu'un déplace la ligne d'arrivée.
+
+126
+00:14:24,268 --> 00:14:28,625
+Il voulait que ce soit plus difficile,
+plus réaliste.
+
+127
+00:14:28,708 --> 00:14:31,381
+On n'a pas réellement vaincu
+les Goa'ulds.
+
+128
+00:14:31,468 --> 00:14:34,824
+Le jeu ne finira que quand il aura vaincu
+tous les Goa'ulds?
+
+129
+00:14:34,908 --> 00:14:37,468
+Vous avez dit que Teal'c crée les règles.
+
+130
+00:14:37,548 --> 00:14:42,417
+Oui, mais les paramètres ne vont pas
+au-delà du scénario d'invasion de la base.
+
+131
+00:14:42,508 --> 00:14:46,103
+- Vous pouvez le faire sortir?
+- Pas sans risquer des lésions.
+
+132
+00:14:46,188 --> 00:14:50,545
+Le jeu a un garde-fou.
+il suffit que Teal'c abandonne.
+
+133
+00:14:50,628 --> 00:14:53,222
+C'est ça. Qu'il abandonne.
+
+134
+00:14:58,188 --> 00:15:02,022
+Les guerriers d'Anubis ont dû
+submerger le SG-3 en composant la porte.
+
+135
+00:15:02,108 --> 00:15:05,464
+Comment ont-ils su
+déclencher l'autodestruction?
+
+136
+00:15:05,548 --> 00:15:09,177
+- Dire que le général O'Neill est mort!
+- il n'est pas mort.
+
+137
+00:15:09,268 --> 00:15:11,224
+Quoi?
+
+138
+00:15:11,308 --> 00:15:16,336
+Concentrons-nous sur la situation.
+La menace n'a pas été neutralisée.
+
+139
+00:15:18,988 --> 00:15:21,866
+- Quoi?
+- On doit fouiller la base.
+
+140
+00:15:21,948 --> 00:15:24,143
+il reste des guerriers.
+
+141
+00:15:25,028 --> 00:15:26,017
+Quoi?
+
+142
+00:15:26,108 --> 00:15:29,817
+il savait aussi que les super soldats
+résisteraient à nos armes.
+
+143
+00:15:29,908 --> 00:15:33,742
+Harriman a seulement parlé
+de deux intrus, avant d'être tué.
+
+144
+00:15:33,828 --> 00:15:37,059
+En salle de contrôle,
+ils ont pu garder l'iris ouvert.
+
+145
+00:15:37,148 --> 00:15:39,503
+Les fichiers indiqueraient un autre vortex.
+
+146
+00:15:39,588 --> 00:15:42,421
+La menace n'a pas été neutralisée.
+
+147
+00:15:44,148 --> 00:15:47,777
+- Je suis certain qu'il y en a d'autres.
+- Pourquoi?
+
+148
+00:15:47,868 --> 00:15:50,063
+Le jeu n'est pas terminé.
+
+149
+00:15:55,668 --> 00:16:01,300
+Je sais que c'est pas ton point fort,
+mais c'est pas drôle, comme blague.
+
+150
+00:16:01,388 --> 00:16:03,663
+Vous faites partie d'une simulation
+
+151
+00:16:03,748 --> 00:16:09,220
+conçue pour tester la capacité de réaction
+du SGC en cas de percée de la porte.
+
+152
+00:16:09,308 --> 00:16:12,300
+Vous n'êtes pas réels.
+
+153
+00:16:17,508 --> 00:16:19,976
+Je vais bien.
+
+154
+00:16:20,068 --> 00:16:23,856
+Alerte. La séquence d'autodestruction
+de la base a été activée.
+
+155
+00:16:40,268 --> 00:16:42,862
+- Sam?
+- Je ne comprends pas.
+
+156
+00:16:42,948 --> 00:16:48,545
+Quelqu'un a dû réactiver
+l'autodestruction à distance.
+
+157
+00:16:50,628 --> 00:16:54,621
+impossible d'accéder au système.
+Je ne peux pas l'annuler.
+
+158
+00:16:54,708 --> 00:16:56,938
+Comment tu as su?
+
+159
+00:16:58,908 --> 00:17:01,468
+Son pouls et sa tension sont trop élevés.
+
+160
+00:17:01,548 --> 00:17:05,143
+- Combien de temps peut-il faire ça?
+- Un jour, peut-être moins.
+
+161
+00:17:05,228 --> 00:17:07,264
+La chaise ne peut pas le tuer, si?
+
+162
+00:17:07,348 --> 00:17:10,624
+Ses effets physiologiques
+sont limités à chaque fois.
+
+163
+00:17:10,708 --> 00:17:14,940
+Mais bien que chaque stimulus
+de douleur ne soit pas dangereux,
+
+164
+00:17:15,028 --> 00:17:18,065
+l'accumulation commence
+à faire son effet.
+
+165
+00:17:18,148 --> 00:17:21,982
+S'il n'a pas une crise cardiaque,
+il manquera d'adrénaline.
+
+166
+00:17:22,068 --> 00:17:24,741
+Sa tension va chuter.
+Ses organes vont lâcher.
+
+167
+00:17:24,828 --> 00:17:26,978
+La mort assurée.
+
+168
+00:17:30,348 --> 00:17:33,226
+- Débranchez l'autodestruction.
+- Quoi?
+
+169
+00:17:33,308 --> 00:17:35,583
+Le SGC va être envahi par des guerriers.
+
+170
+00:17:35,668 --> 00:17:38,740
+ils vont essayer de détruire la base
+avec cette fonction.
+
+171
+00:17:38,828 --> 00:17:41,388
+- Quoi?
+- Si vous débranchez cette fonction,
+
+172
+00:17:41,468 --> 00:17:45,939
+ils devront utiliser un autre moyen.
+On pourra alors espérer les vaincre.
+
+173
+00:17:46,028 --> 00:17:48,417
+Teal'c, comment peux-tu le savoir?
+
+174
+00:17:48,508 --> 00:17:53,184
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+175
+00:17:53,268 --> 00:17:55,828
+On a peu de temps.
+
+176
+00:17:57,548 --> 00:18:00,858
+Colonel? il est au niveau 28.
+
+177
+00:18:00,948 --> 00:18:04,861
+il a utilisé la puce de modulation
+pour tuer deux super soldats.
+
+178
+00:18:04,948 --> 00:18:07,621
+il cherche le troisième.
+
+179
+00:18:10,228 --> 00:18:13,140
+il va pas bien du tout.
+
+180
+00:18:32,788 --> 00:18:35,143
+C'est de la torture.
+
+181
+00:18:35,228 --> 00:18:38,220
+Pourquoi il n'abandonne pas?
+
+182
+00:18:38,308 --> 00:18:42,142
+- Attendez. il va vers l'ascenseur.
+- il va utiliser le garde-fou.
+
+183
+00:19:09,708 --> 00:19:15,385
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+184
+00:19:25,868 --> 00:19:29,065
+Ça n'a pas marché.
+il est de nouveau dans le jeu.
+
+185
+00:19:41,708 --> 00:19:46,782
+Je croyais qu'un système de garde-fou
+était censé être à l'épreuve
+
+186
+00:19:46,868 --> 00:19:49,541
+d'une défaillance.
+
+187
+00:19:49,628 --> 00:19:54,224
+Dans l'esprit de Teal'c,
+le but était de rendre la simulation réelle.
+
+188
+00:19:54,308 --> 00:19:58,301
+Même s'il veut maintenant abandonner,
+le jeu a dû évaluer son caractère
+
+189
+00:19:58,388 --> 00:20:02,984
+et décider que si c'était une situation
+réelle, Teal'c n'abandonnerait jamais.
+
+190
+00:20:03,508 --> 00:20:06,227
+C'est vrai. Mais ce n'est qu'un jeu.
+
+191
+00:20:06,308 --> 00:20:08,902
+Le jeu ne le sait pas.
+
+192
+00:20:11,508 --> 00:20:13,499
+Alors comment on le fait sortir?
+
+193
+00:20:13,588 --> 00:20:18,901
+Retirer les connexions pendant que
+le système fonctionne pourrait être fatal.
+
+194
+00:20:18,988 --> 00:20:25,143
+Mais ce que la chaise fait subir
+à son organisme le tuera de toute façon.
+
+195
+00:20:25,228 --> 00:20:29,016
+Pour l'instant, la seule issue de Teal'c
+est de gagner la partie.
+
+196
+00:20:29,108 --> 00:20:31,941
+- il peut?
+- Ça devient de plus en plus dur.
+
+197
+00:20:32,028 --> 00:20:35,418
+A chaque fois qu'il semble avoir gagné,
+le jeu se complique.
+
+198
+00:20:35,508 --> 00:20:39,660
+- Alors elle ne le laissera pas gagner.
+- C'est faux. La chaise n'a pas d'ego.
+
+199
+00:20:39,748 --> 00:20:44,185
+Elle essaie juste de lui fournir un défi
+à la hauteur de ses capacités.
+
+200
+00:20:44,268 --> 00:20:48,022
+En fait, c'est l'ego de Teal'c
+qui a créé ce problème,
+
+201
+00:20:48,108 --> 00:20:51,100
+non pas que l'image qu'il a de lui
+soit fausse.
+
+202
+00:20:51,188 --> 00:20:55,818
+Si ça continue, il lui faudra de l'adrénaline
+pour maintenir son rythme cardiaque.
+
+203
+00:20:55,908 --> 00:21:00,140
+Et je ne peux pas le laisser
+continuer comme ça longtemps.
+
+204
+00:21:00,228 --> 00:21:02,662
+il doit y avoir un moyen pour qu'il gagne.
+
+205
+00:21:34,828 --> 00:21:36,819
+Je crois que ça lui fait du bien.
+
+206
+00:22:36,708 --> 00:22:39,700
+- ils ont adapté leur armure.
+- Couvrez-moi.
+
+207
+00:22:58,508 --> 00:23:00,578
+Teal'c, qu'est-ce qui se passe?
+
+208
+00:23:01,628 --> 00:23:05,621
+Que fais-tu
+avec le détecteur thermographique?
+
+209
+00:23:06,628 --> 00:23:10,382
+- il y a un 3e guerrier.
+- Je croyais qu'il n'y en avait que deux.
+
+210
+00:23:10,468 --> 00:23:14,541
+J'en suis certain.
+il utilise une cape d'invisibilité.
+
+211
+00:23:41,948 --> 00:23:43,540
+Bien joué.
+
+212
+00:23:43,628 --> 00:23:46,222
+- Ce n'est pas fini.
+- il y en a d'autres?
+
+213
+00:23:46,308 --> 00:23:49,061
+- Colonel?
+- Parlez.
+
+214
+00:23:49,148 --> 00:23:54,825
+J'ai un problème avec le générateur
+de naqahdah en salle 2809.
+
+215
+00:24:09,308 --> 00:24:11,583
+Je ne peux pas l'arrêter.
+
+216
+00:24:11,668 --> 00:24:14,944
+Quelqu'un l'a branché
+sur une boucle d'asservissement.
+
+217
+00:24:22,308 --> 00:24:25,141
+On n'a pas le temps d'arrêter la surcharge.
+
+218
+00:24:27,188 --> 00:24:30,464
+Sergent, composez la porte! P4M-523.
+
+219
+00:24:30,548 --> 00:24:33,779
+Oui, mon colonel. Composition en cours.
+
+220
+00:24:38,628 --> 00:24:40,619
+Chevron un codé.
+
+221
+00:24:46,948 --> 00:24:48,939
+Chevron deux codé.
+
+222
+00:24:53,388 --> 00:24:55,379
+Chevron trois codé.
+
+223
+00:24:58,628 --> 00:25:00,619
+Chevron quatre...
+
+224
+00:25:09,788 --> 00:25:12,063
+Qu'est-ce que tu fabriques?
+
+225
+00:25:20,588 --> 00:25:26,265
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+226
+00:25:50,748 --> 00:25:55,185
+Alerte. La séquence d'autodestruction
+de la base a été activée.
+
+227
+00:26:33,868 --> 00:26:36,177
+- Comment va-t-il?
+- Pas bien.
+
+228
+00:26:36,268 --> 00:26:39,305
+Son épuisement
+se fait ressentir dans le jeu.
+
+229
+00:26:39,388 --> 00:26:44,587
+il n'arrive même plus à jouer.
+Le jeu ne le laisse pas partir.
+
+230
+00:26:44,668 --> 00:26:47,865
+J'ai parlé à un scientifique de P7J-989.
+
+231
+00:26:47,948 --> 00:26:51,065
+il dit qu'ils ne peuvent rien faire.
+
+232
+00:26:51,148 --> 00:26:52,627
+Qu'est-ce que tu fais?
+
+233
+00:26:52,708 --> 00:26:55,347
+ils avaient
+une empreinte neurale de Teal'c
+
+234
+00:26:55,428 --> 00:26:58,784
+depuis notre captivité dans les chaises,
+il y a six ans.
+
+235
+00:26:58,868 --> 00:27:02,622
+- Flippant.
+- Oui. J'essaie de ne pas y penser.
+
+236
+00:27:02,708 --> 00:27:06,826
+Je fais une simulation en utilisant
+les paramètres réglés pour Teal'c.
+
+237
+00:27:06,908 --> 00:27:08,705
+Et?
+
+238
+00:27:08,788 --> 00:27:11,746
+Ça n'a rien à voir
+avec un esprit en activité.
+
+239
+00:27:11,828 --> 00:27:16,743
+- Et les choses ont changé, en six ans.
+- Mais pas le caractère de Teal'c.
+
+240
+00:27:16,828 --> 00:27:20,457
+C'est ce qui m'inquiète. J'espère que si.
+
+241
+00:27:20,548 --> 00:27:25,178
+J'ai fait des centaines de simulations.
+Quoi qu'il fasse, le programme s'adapte.
+
+242
+00:27:25,268 --> 00:27:29,102
+Dès qu'il semble avoir gagné,
+la chaise complique les choses.
+
+243
+00:27:29,188 --> 00:27:31,577
+Le jeu lit l'esprit de Teal'c
+
+244
+00:27:31,668 --> 00:27:35,422
+et voit ce jeu comme un microcosme
+de notre guerre contre les Goa'ulds.
+
+245
+00:27:35,508 --> 00:27:38,068
+Teal'c traite chaque bataille comme ça.
+
+246
+00:27:38,148 --> 00:27:43,142
+D'après ces résultats, il y a six ans,
+malgré ce que Teal'c nous a fait croire,
+
+247
+00:27:43,228 --> 00:27:47,187
+au fond de lui, il ne pensait pas
+qu'on pouvait vaincre les Goa'ulds.
+
+248
+00:27:47,268 --> 00:27:50,226
+Mais il ne pense plus ça, maintenant.
+
+249
+00:27:50,308 --> 00:27:53,823
+- Pas après ce qu'on a accompli.
+- J'espère que tu as raison.
+
+250
+00:27:53,908 --> 00:27:59,460
+Sinon, peu importe combien de temps
+Teal'c jouera, il ne gagnera jamais.
+
+251
+00:28:12,988 --> 00:28:14,979
+Ça ne peut plus durer.
+
+252
+00:28:15,068 --> 00:28:19,584
+On va bientôt devoir prendre une décision
+pour débrancher les connexions.
+
+253
+00:28:19,668 --> 00:28:23,422
+Dommage qu'on ne puisse pas
+brancher un joystick là-dessus.
+
+254
+00:28:23,508 --> 00:28:26,386
+Pour lui donner un coup de main.
+
+255
+00:28:26,468 --> 00:28:28,026
+En fait,
+
+256
+00:28:28,108 --> 00:28:32,738
+on pourrait relier une autre chaise
+et envoyer quelqu'un dans la simulation.
+
+257
+00:28:32,828 --> 00:28:36,298
+Non, les processeurs
+se mettraient en réseau.
+
+258
+00:28:36,388 --> 00:28:42,145
+Le deuxième joueur serait aussi victime
+des éléments qui ont piégé Teal'c.
+
+259
+00:28:42,228 --> 00:28:46,187
+Sauf si le nouveau joueur a un avantage.
+
+260
+00:28:47,828 --> 00:28:50,467
+Vous avez encore trouvé la solution.
+
+261
+00:28:52,828 --> 00:28:55,262
+Comment j'ai fait, cette fois?
+
+262
+00:28:55,348 --> 00:28:59,421
+Ces graphiques sont produits
+par un enregistreur de données.
+
+263
+00:28:59,508 --> 00:29:03,547
+il est en liaison avec le système
+entre le processeur et Teal'c.
+
+264
+00:29:03,628 --> 00:29:06,142
+La chaise décide de l'action, Teal'c réagit.
+
+265
+00:29:06,228 --> 00:29:10,221
+Ces réactions sont ensuite enregistrées
+et on voit les résultats.
+
+266
+00:29:10,308 --> 00:29:14,187
+C'est une boucle continue
+de données qui changent sans cesse.
+
+267
+00:29:15,228 --> 00:29:17,184
+J'attends toujours ma bonne idée.
+
+268
+00:29:17,268 --> 00:29:21,022
+L'enregistreur crée un délai
+de 2 secondes entre la programmation
+
+269
+00:29:21,108 --> 00:29:23,338
+et l'expérience vécue par Teal'c.
+
+270
+00:29:23,428 --> 00:29:26,022
+il ne le remarquera pas,
+mais on peut s'en servir.
+
+271
+00:29:26,108 --> 00:29:30,147
+Si on relie la 2e chaise sans utiliser
+l'enregistreur dans la boucle...
+
+272
+00:29:30,228 --> 00:29:34,460
+Le nouveau joueur saura ce qui va
+se passer 2 secondes avant que ça arrive.
+
+273
+00:29:34,548 --> 00:29:37,142
+- Une prémonition.
+- Exactement.
+
+274
+00:29:38,108 --> 00:29:42,067
+C'est peu, mais ça peut suffire
+pour aider les deux joueurs à gagner.
+
+275
+00:29:42,148 --> 00:29:46,380
+En supposant que la programmation
+ne s'adaptera pas en fonction de ça.
+
+276
+00:29:46,468 --> 00:29:51,303
+Ce qui signifierait que le 2e joueur
+pourrait être coincé avec Teal'c.
+
+277
+00:29:51,388 --> 00:29:53,583
+Je le ferai.
+
+278
+00:29:59,308 --> 00:30:04,985
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+279
+00:30:18,268 --> 00:30:20,463
+Qu'est-ce que tu fais? Non!
+
+280
+00:30:27,708 --> 00:30:32,702
+- Pourquoi lui a-t-il tiré dessus?
+- C'était un Goa'uld dans les simulations.
+
+281
+00:30:33,588 --> 00:30:35,260
+J'aurais dû y aller.
+
+282
+00:30:35,348 --> 00:30:40,422
+La dernière chose dont on a besoin, c'est
+que le jeu s'inspire de votre sens tactique.
+
+283
+00:30:45,268 --> 00:30:47,259
+il faut que je m'habitue à ça.
+
+284
+00:30:47,348 --> 00:30:53,139
+Niveau d'alerte Foxtrot Alpha Six.
+Toutes les équipes en salle du Stargate.
+
+285
+00:31:15,908 --> 00:31:17,819
+Du calme. Ne tire pas.
+
+286
+00:31:19,388 --> 00:31:21,424
+Écoute-moi.
+
+287
+00:31:21,508 --> 00:31:27,344
+C'est moi. Je suis réel. Je ne suis pas
+un Goa'uld. Je vais te le prouver, OK?
+
+288
+00:31:31,108 --> 00:31:34,145
+- Merde.
+- Niveau d'alerte Foxtrot Alpha Six.
+
+289
+00:31:34,228 --> 00:31:37,379
+Toutes les équipes en salle du Stargate.
+
+290
+00:31:55,028 --> 00:31:59,146
+Désolé, mon vieux.
+Tu vas devoir m'écouter.
+
+291
+00:32:05,308 --> 00:32:08,698
+il y a une minute,
+on était dans le labo de Sam.
+
+292
+00:32:08,788 --> 00:32:13,339
+Je tentais de te convaincre que je suis réel
+et tu m'as tiré dessus. Tu te souviens?
+
+293
+00:32:13,428 --> 00:32:16,101
+Que s'est-il passé ensuite?
+
+294
+00:32:16,548 --> 00:32:19,301
+Le jeu a redémarré.
+
+295
+00:32:19,388 --> 00:32:22,027
+Ça commence à devenir confus pour toi,
+
+296
+00:32:22,108 --> 00:32:26,818
+mais cette fois, c'est arrivé
+parce que je joue aussi.
+
+297
+00:32:26,908 --> 00:32:29,342
+Je suis dans une chaise, comme toi.
+
+298
+00:32:29,428 --> 00:32:32,022
+Si l'un de nous meurt,
+on perd tous les deux.
+
+299
+00:32:52,908 --> 00:32:56,537
+- il ne me laisse pas sortir.
+- Je sais.
+
+300
+00:32:56,628 --> 00:33:00,507
+Le jeu pense qu'en situation réelle,
+tu n'abandonnerais jamais.
+
+301
+00:33:00,588 --> 00:33:06,424
+Quoi que je fasse,
+ce n'est pas possible, Daniel Jackson.
+
+302
+00:33:06,508 --> 00:33:09,659
+Si, c'est possible.
+C'est pour ça que je suis là.
+
+303
+00:33:11,588 --> 00:33:14,739
+Viens, on va y arriver. Ensemble.
+
+304
+00:33:27,348 --> 00:33:31,660
+- On doit quitter cette zone.
+- Oui, j'ai entendu ça.
+
+305
+00:33:35,828 --> 00:33:40,219
+- Tu peux prévoir l'avenir?
+- Oui. Deux secondes en avance.
+
+306
+00:33:40,308 --> 00:33:43,778
+Pour être franc, ça me fait une peur bleue.
+
+307
+00:33:43,868 --> 00:33:46,666
+Deux secondes, c'est pas grand-chose.
+
+308
+00:33:46,748 --> 00:33:50,661
+Tu as juste le temps de voir
+quelque chose se produire,
+
+309
+00:33:50,748 --> 00:33:55,060
+et de dire: "Fais attention".
+
+310
+00:33:55,148 --> 00:33:57,343
+Je suis sérieux. Fais attention!
+
+311
+00:34:07,428 --> 00:34:11,467
+- il faut un chariot de réanimation.
+- On ne peut pas le choquer!
+
+312
+00:34:11,548 --> 00:34:13,061
+il a raison.
+
+313
+00:34:13,148 --> 00:34:18,859
+Teal'c peut faire un arrêt cardiaque
+si le jeu redémarre encore une fois.
+
+314
+00:34:40,268 --> 00:34:42,657
+Son coeur s'est arrêté.
+
+315
+00:34:49,308 --> 00:34:51,697
+il a un pouls.
+
+316
+00:34:52,628 --> 00:34:55,347
+On ne pourra pas recommencer.
+
+317
+00:34:55,428 --> 00:35:00,456
+Je ne veux pas revoir ça! Je croyais
+qu'ils pourraient vaincre ce truc.
+
+318
+00:35:00,548 --> 00:35:03,699
+Daniel doit s'habituer à ses prémonitions.
+
+319
+00:35:03,788 --> 00:35:05,779
+Et deux secondes, c'est peu.
+
+320
+00:35:05,868 --> 00:35:10,658
+il doit attendre le bon moment
+pour en profiter.
+
+321
+00:35:21,948 --> 00:35:26,021
+il nous faut la puce de modulation
+pour neutraliser l'armure des guerriers.
+
+322
+00:35:26,108 --> 00:35:29,384
+- Tu sais où elle la range?
+- Ça change à chaque fois.
+
+323
+00:35:29,468 --> 00:35:31,857
+Évidemment.
+
+324
+00:35:34,028 --> 00:35:36,019
+Je l'ai.
+
+325
+00:35:40,268 --> 00:35:42,099
+Baisse-toi!
+
+326
+00:36:01,948 --> 00:36:03,939
+Ça peut marcher.
+
+327
+00:36:39,108 --> 00:36:43,898
+- Pourquoi tu ne l'as pas tué?
+- Cette action s'est toujours avérée fatale.
+
+328
+00:36:43,988 --> 00:36:48,266
+Dans la version précédente du jeu,
+quand j'ai tué un guerrier ici,
+
+329
+00:36:48,348 --> 00:36:52,182
+ça a attiré l'attention d'un 3e guerrier,
+qui est invisible.
+
+330
+00:36:52,268 --> 00:36:54,259
+Et alors? On le tuera aussi.
+
+331
+00:36:54,348 --> 00:36:59,024
+C'est une diversion qui laisse le temps
+à un Goa'uld de détruire la base.
+
+332
+00:36:59,108 --> 00:37:03,977
+Soit par le mécanisme d'autodestruction,
+soit avec le générateur de naqahdah.
+
+333
+00:37:04,068 --> 00:37:06,343
+il utilise ce qu'on ne neutralise pas.
+
+334
+00:37:06,428 --> 00:37:08,225
+En effet.
+
+335
+00:37:08,308 --> 00:37:11,106
+Et l'identité de ce Goa'uld change aussi?
+
+336
+00:37:11,188 --> 00:37:16,103
+Oui. Je crois que c'est le dernier élément
+du jeu qu'on doit vaincre.
+
+337
+00:37:57,388 --> 00:38:00,380
+- Ça va, les gars?
+- Oui. Merci.
+
+338
+00:38:04,348 --> 00:38:08,785
+- Le générateur de naqahdah.
+- Ça va, les gars?
+
+339
+00:38:12,308 --> 00:38:16,824
+- J'y suis presque. Une seconde.
+- Éloignez-vous de l'appareil.
+
+340
+00:38:16,908 --> 00:38:22,266
+il nous reste moins d'une minute
+avant que tout explose.
+
+341
+00:38:25,308 --> 00:38:27,299
+- T?
+- Éloignez-vous.
+
+342
+00:38:29,508 --> 00:38:32,102
+Je ferais ce qu'il dit.
+
+343
+00:38:43,308 --> 00:38:46,186
+Qu'est-ce qui se passe, ici?
+
+344
+00:38:46,268 --> 00:38:49,419
+On va tous mourir
+si je n'arrête pas la surcharge.
+
+345
+00:38:49,508 --> 00:38:52,898
+- Elle est peut-être un Goa'uld.
+- C'était Siler.
+
+346
+00:38:57,028 --> 00:39:00,941
+il était ici. Je l'ai surpris
+en train de régler le générateur.
+
+347
+00:39:01,748 --> 00:39:05,423
+Teal'c, baisse ton arme. C'est un ordre.
+
+348
+00:39:06,668 --> 00:39:08,659
+Et si ce n'est pas elle?
+
+349
+00:39:08,748 --> 00:39:12,138
+Tu as dit que tu ne savais qui c'était
+qu'à la dernière minute.
+
+350
+00:39:12,228 --> 00:39:15,345
+Tu as peut-être raison, Daniel Jackson.
+
+351
+00:39:22,708 --> 00:39:24,426
+Et maintenant?
+
+352
+00:39:24,508 --> 00:39:27,978
+Je sais de source sûre
+que ce n'est ni moi, ni Teal'c.
+
+353
+00:39:39,268 --> 00:39:41,828
+Je ne sais pas.
+
+354
+00:40:41,108 --> 00:40:44,305
+- C'est fini?
+- Oui. Tu as réussi.
+
+355
+00:40:49,268 --> 00:40:52,578
+Je déconnecte les deux chaises.
+
+356
+00:40:57,068 --> 00:40:59,059
+On a gagné.
+
+357
+00:40:59,148 --> 00:41:00,945
+Tu sais,
+
+358
+00:41:02,108 --> 00:41:04,497
+c'est notre métier.
+

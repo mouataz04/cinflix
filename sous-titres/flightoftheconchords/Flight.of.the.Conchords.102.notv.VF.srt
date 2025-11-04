@@ -1,0 +1,2832 @@
+1
+00:00:00,000 --> 00:00:00,149
+s
+
+2
+00:00:00,150 --> 00:00:00,299
+su
+
+3
+00:00:00,300 --> 00:00:00,449
+sub
+
+4
+00:00:00,450 --> 00:00:00,599
+subt
+
+5
+00:00:00,600 --> 00:00:00,749
+subti
+
+6
+00:00:00,750 --> 00:00:00,899
+subtit
+
+7
+00:00:00,900 --> 00:00:01,049
+subtitl
+
+8
+00:00:01,050 --> 00:00:01,199
+subtitle
+
+9
+00:00:01,200 --> 00:00:01,349
+subtitle :
+
+10
+00:00:01,350 --> 00:00:01,499
+subtitle :
+A
+
+11
+00:00:01,500 --> 00:00:01,649
+subtitle :
+Ak
+
+12
+00:00:01,650 --> 00:00:01,799
+subtitle :
+Aka
+
+13
+00:00:01,800 --> 00:00:01,949
+subtitle :
+AkaZ
+
+14
+00:00:01,950 --> 00:00:02,099
+subtitle :
+AkaZa
+
+15
+00:00:02,100 --> 00:00:02,249
+subtitle :
+AkaZab
+
+16
+00:00:02,250 --> 00:00:02,399
+subtitle :
+AkaZab /
+
+17
+00:00:02,400 --> 00:00:02,549
+subtitle :
+AkaZab / B
+
+18
+00:00:02,550 --> 00:00:02,699
+subtitle :
+AkaZab / Bi
+
+19
+00:00:02,700 --> 00:00:02,849
+subtitle :
+AkaZab / Bir
+
+20
+00:00:02,850 --> 00:00:02,999
+subtitle :
+AkaZab / Bird
+
+21
+00:00:03,000 --> 00:00:03,149
+subtitle :
+AkaZab / Birdy
+
+22
+00:00:03,150 --> 00:00:03,299
+subtitle :
+AkaZab / Birdyb
+
+23
+00:00:03,300 --> 00:00:03,449
+subtitle :
+AkaZab / Birdybe
+
+24
+00:00:03,450 --> 00:00:03,599
+subtitle :
+AkaZab / Birdyben
+
+25
+00:00:03,600 --> 00:00:03,749
+subtitle :
+AkaZab / Birdyben /
+
+26
+00:00:03,750 --> 00:00:03,899
+subtitle :
+AkaZab / Birdyben / J
+
+27
+00:00:03,900 --> 00:00:04,049
+subtitle :
+AkaZab / Birdyben / Ju
+
+28
+00:00:04,050 --> 00:00:04,199
+subtitle :
+AkaZab / Birdyben / Ju /
+
+29
+00:00:04,200 --> 00:00:04,349
+subtitle :
+AkaZab / Birdyben / Ju / L
+
+30
+00:00:04,350 --> 00:00:04,499
+subtitle :
+AkaZab / Birdyben / Ju / Le
+
+31
+00:00:04,500 --> 00:00:04,649
+subtitle :
+AkaZab / Birdyben / Ju / Led
+
+32
+00:00:04,650 --> 00:00:04,799
+subtitle :
+AkaZab / Birdyben / Ju / Ledj
+
+33
+00:00:04,800 --> 00:00:04,949
+subtitle :
+AkaZab / Birdyben / Ju / Ledje
+
+34
+00:00:04,950 --> 00:00:05,099
+subtitle :
+kaZab / Birdyben / Ju / Ledje
+
+35
+00:00:05,100 --> 00:00:05,249
+subtitle :
+aZab / Birdyben / Ju / Ledje
+
+36
+00:00:05,250 --> 00:00:05,399
+subtitle :
+Zab / Birdyben / Ju / Ledje
+
+37
+00:00:05,400 --> 00:00:05,549
+subtitle :
+ab / Birdyben / Ju / Ledje
+
+38
+00:00:05,550 --> 00:00:05,699
+subtitle :
+b / Birdyben / Ju / Ledje
+
+39
+00:00:05,700 --> 00:00:05,849
+subtitle :
+/ Birdyben / Ju / Ledje
+
+40
+00:00:05,850 --> 00:00:05,999
+subtitle :
+Birdyben / Ju / Ledje
+
+41
+00:00:06,000 --> 00:00:06,149
+subtitle :
+irdyben / Ju / Ledje
+
+42
+00:00:06,150 --> 00:00:06,299
+subtitle :
+rdyben / Ju / Ledje
+
+43
+00:00:06,300 --> 00:00:06,449
+subtitle :
+dyben / Ju / Ledje
+
+44
+00:00:06,450 --> 00:00:06,599
+subtitle :
+yben / Ju / Ledje
+
+45
+00:00:06,600 --> 00:00:06,749
+subtitle :
+ben / Ju / Ledje
+
+46
+00:00:06,750 --> 00:00:06,899
+subtitle :
+en / Ju / Ledje
+
+47
+00:00:06,900 --> 00:00:07,049
+subtitle :
+n / Ju / Ledje
+
+48
+00:00:07,050 --> 00:00:07,199
+subtitle :
+/ Ju / Ledje
+
+49
+00:00:07,200 --> 00:00:07,349
+subtitle :
+Ju / Ledje
+
+50
+00:00:07,350 --> 00:00:07,499
+subtitle :
+u / Ledje
+
+51
+00:00:07,500 --> 00:00:07,649
+subtitle :
+/ Ledje
+
+52
+00:00:07,650 --> 00:00:07,799
+subtitle :
+Ledje
+
+53
+00:00:07,800 --> 00:00:07,949
+subtitle :
+edje
+
+54
+00:00:07,950 --> 00:00:08,099
+subtitle :
+dje
+
+55
+00:00:08,100 --> 00:00:08,249
+subtitle :
+je
+
+56
+00:00:08,250 --> 00:00:08,399
+subtitle :
+e
+
+57
+00:00:08,400 --> 00:00:08,549
+subtitle :
+
+58
+00:00:08,550 --> 00:00:08,699
+subtitle
+
+59
+00:00:08,700 --> 00:00:08,849
+subtitl
+
+60
+00:00:08,850 --> 00:00:08,999
+subtit
+
+61
+00:00:09,000 --> 00:00:09,149
+subti
+
+62
+00:00:09,150 --> 00:00:09,299
+subt
+
+63
+00:00:09,300 --> 00:00:09,449
+sub
+
+64
+00:00:09,450 --> 00:00:09,599
+S u b -
+
+65
+00:00:09,600 --> 00:00:09,749
+S u b - w
+
+66
+00:00:09,750 --> 00:00:09,899
+S u b - wa
+
+67
+00:00:09,900 --> 00:00:10,049
+S u b - way
+
+68
+00:00:10,050 --> 00:00:10,199
+S u b - way . 
+
+69
+00:00:10,200 --> 00:00:10,349
+S u b - way . f
+
+70
+00:00:10,350 --> 00:00:10,499
+S u b - way . fr
+
+71
+00:00:10,500 --> 00:00:10,649
+S u b - way . f
+
+72
+00:00:10,650 --> 00:00:10,799
+S u b - way .
+
+73
+00:00:10,800 --> 00:00:10,949
+S u b - way
+
+74
+00:00:10,950 --> 00:00:11,099
+S u b - wa
+
+75
+00:00:11,100 --> 00:00:11,249
+S u b - w
+
+76
+00:00:11,250 --> 00:00:11,399
+S u b -
+
+77
+00:00:11,400 --> 00:00:11,549
+S u b
+
+78
+00:00:11,550 --> 00:00:11,699
+S u
+
+79
+00:00:11,700 --> 00:00:11,849
+S
+
+80
+00:00:11,850 --> 00:00:20,000
+Saison  1  -  Episode 2
+Bret Gives Up the Dream
+
+81
+00:00:38,162 --> 00:00:41,318
+{\a3}Bonne nouvelle,
+j'ai des trucs à bouffer.
+
+82
+00:00:41,418 --> 00:00:43,410
+{\pos(192,55)}- Sérieux ?
+- Oui, et des bons trucs.
+
+83
+00:00:44,471 --> 00:00:45,783
+Ça, tu vas aimer.
+
+84
+00:00:46,099 --> 00:00:48,017
+{\pos(192,55)}- Un sandwich ?
+- Oui.
+
+85
+00:00:49,459 --> 00:00:50,524
+{\pos(292,205)}C'est bon.
+
+86
+00:00:51,430 --> 00:00:52,849
+{\pos(292,205)}De la confiture, ça le fait.
+
+87
+00:00:53,779 --> 00:00:55,645
+{\pos(292,225)}Ça a l'air bon aussi.
+
+88
+00:00:55,745 --> 00:00:57,482
+C'est extra,
+combien ça a coûté ?
+
+89
+00:00:59,066 --> 00:01:00,066
+C'était gratos.
+
+90
+00:01:00,166 --> 00:01:01,664
+- Gratuit ?
+- Oui.
+
+91
+00:01:04,346 --> 00:01:07,170
+- Pourquoi ?
+- Hein ? Je l'ai trouvé.
+
+92
+00:01:08,145 --> 00:01:09,148
+Dans la rue.
+
+93
+00:01:10,111 --> 00:01:11,576
+Quelqu'un a dû le jeter.
+
+94
+00:01:15,480 --> 00:01:17,652
+Mais tu fais quoi ?
+C'est un bon sandwich.
+
+95
+00:01:17,786 --> 00:01:19,909
+J'allais recracher,
+mais je vais le finir.
+
+96
+00:01:21,103 --> 00:01:22,197
+On est pauvre, mec.
+
+97
+00:01:22,864 --> 00:01:24,194
+On est pauvre, n'est-ce pas ?
+
+98
+00:01:24,893 --> 00:01:26,886
+Vivre dans la ville,
+vivre dans la pression,
+
+99
+00:01:26,986 --> 00:01:28,910
+le monde de béton
+commence à t'envahir.
+
+100
+00:01:29,010 --> 00:01:32,965
+La ville est en vie et s'étend,
+vivre en ville peut être éprouvant.
+
+101
+00:01:33,065 --> 00:01:35,063
+Tu mets au clou,
+tout ce que tu as,
+
+102
+00:01:35,163 --> 00:01:37,069
+Ton verre à dents
+et ton téléphone camera.
+
+103
+00:01:37,186 --> 00:01:39,357
+Tu sais pas où tu vas,
+tu traverses la rue...
+
+104
+00:01:39,457 --> 00:01:41,434
+Tu ne sais plus pourquoi,
+tu retraverses la rue.
+
+105
+00:01:41,534 --> 00:01:43,452
+Debout dans le salon,
+t'es fauché, sans-le-sou,
+
+106
+00:01:43,552 --> 00:01:45,579
+et ton polo favori est couvert de poux.
+
+107
+00:01:45,679 --> 00:01:47,624
+Tu veux t'asseoir,
+mais tu as vendu tes chaises.
+
+108
+00:01:47,724 --> 00:01:49,887
+Alors... tu restes planté là.
+
+109
+00:01:53,847 --> 00:01:55,274
+Tu restes juste planté là.
+
+110
+00:01:55,598 --> 00:01:57,687
+<i>Planté là...</i>
+
+111
+00:01:58,260 --> 00:01:59,264
+Au coeur
+
+112
+00:01:59,965 --> 00:02:01,179
+Au coeur de la ville
+
+113
+00:02:01,477 --> 00:02:03,387
+Pression au coeur de la ville
+
+114
+00:02:06,457 --> 00:02:08,455
+Compter la monnaie
+à la caisse d'une superette,
+
+115
+00:02:08,555 --> 00:02:10,559
+de six heure et quart
+à sept heure moins le quart.
+
+116
+00:02:10,659 --> 00:02:13,146
+Le gérant, Bevan,
+commence à m'en vouloir.
+
+117
+00:02:13,246 --> 00:02:15,017
+Mec, je veux juste du Muesli.
+
+118
+00:02:15,117 --> 00:02:17,096
+Enseignes lumineuses, messages cachés...
+
+119
+00:02:17,196 --> 00:02:19,021
+Questions, réponses, idoles...
+
+120
+00:02:19,121 --> 00:02:21,120
+T'as pas un rond
+
+121
+00:02:21,220 --> 00:02:23,093
+vu tes sous-vêtements d'occasion.
+
+122
+00:02:23,193 --> 00:02:25,136
+Réfléchis,
+comment t'as pu en arriver là ?
+
+123
+00:02:25,236 --> 00:02:27,216
+Où sont passés
+les sous-vêtements que tu avais ?
+
+124
+00:02:27,316 --> 00:02:29,154
+Regarde dans tes poches,
+t'as pas un centime.
+
+125
+00:02:29,254 --> 00:02:31,776
+- Le proprio t'en fait baver.
+- Avez-vous payé le loyer ?
+
+126
+00:02:31,876 --> 00:02:34,638
+Au coeur
+Au coeur de la ville
+
+127
+00:02:34,849 --> 00:02:36,875
+Pression au coeur de la ville
+
+128
+00:02:39,953 --> 00:02:40,993
+Au coeur
+
+129
+00:02:41,881 --> 00:02:43,140
+Au coeur de la ville
+
+130
+00:02:43,724 --> 00:02:45,245
+Pression au coeur de la ville
+
+131
+00:03:04,868 --> 00:03:06,956
+Alors, tu penses à te prostituer
+
+132
+00:03:07,056 --> 00:03:09,235
+pour financer tes leçons de flûte.
+
+133
+00:03:09,335 --> 00:03:11,403
+Mais
+avec ce que les femmes te paieraient
+
+134
+00:03:11,503 --> 00:03:13,410
+tu ne seras jamais
+un flûtiste confirmé.
+
+135
+00:03:13,510 --> 00:03:15,363
+Tu n'as pas le profil recherché,
+
+136
+00:03:15,463 --> 00:03:17,501
+quand t'es au chômage,
+il n'y a pas de congés.
+
+137
+00:03:17,601 --> 00:03:19,662
+Tout le monde s'en fout,
+pas de solidarité,
+
+138
+00:03:19,762 --> 00:03:22,143
+tu restes à la maison
+et tu joues du synthé.
+
+139
+00:03:38,467 --> 00:03:39,478
+Au coeur
+
+140
+00:03:40,356 --> 00:03:41,538
+Au coeur de la ville
+
+141
+00:03:41,746 --> 00:03:43,714
+Pression au coeur de la ville
+
+142
+00:03:46,902 --> 00:03:47,939
+Au coeur
+
+143
+00:03:48,413 --> 00:03:50,014
+Au coeur de la ville
+
+144
+00:03:50,592 --> 00:03:52,316
+Pression au coeur de la ville
+
+145
+00:03:58,314 --> 00:04:00,475
+- Murray.
+- Les gars...
+
+146
+00:04:01,053 --> 00:04:03,406
+Que faîtes vous là ?
+On avait pas rendez-vous.
+
+147
+00:04:03,533 --> 00:04:04,505
+T'es occupé ?
+
+148
+00:04:04,605 --> 00:04:07,366
+Je lisais un truc sur...
+cette clôture de brosses à dents.
+
+149
+00:04:08,049 --> 00:04:09,387
+Déjà 50 brosses à dents.
+
+150
+00:04:11,302 --> 00:04:12,686
+Plutôt impressionnant, non ?
+
+151
+00:04:13,171 --> 00:04:15,021
+Murray, on a besoin d'argent.
+
+152
+00:04:15,608 --> 00:04:17,316
+OK, combien ?
+
+153
+00:04:17,996 --> 00:04:20,577
+Il y a environ 4 dollars là-dedans.
+
+154
+00:04:20,859 --> 00:04:22,499
+Quatre ? Je croyais qu'on en avait 10.
+
+155
+00:04:22,627 --> 00:04:23,948
+Cette boîte en coûte six.
+
+156
+00:04:24,048 --> 00:04:26,398
+- Pourquoi c'est plus le sac ?
+- Il était nul.
+
+157
+00:04:26,632 --> 00:04:28,027
+Y'avait un énorme trou dedans.
+
+158
+00:04:28,142 --> 00:04:30,240
+On a dû perdre
+20 dollars à cause de ce sac.
+
+159
+00:04:30,612 --> 00:04:32,021
+C'est la boîte maintenant.
+
+160
+00:04:32,585 --> 00:04:34,185
+Elle vous plaît ?
+Je l'ai choisie.
+
+161
+00:04:34,285 --> 00:04:37,149
+- On peut avoir les quatre dollars ?
+- La boîte sera vide.
+
+162
+00:04:39,044 --> 00:04:42,459
+Les voilà.
+Il reste 27 cents.
+
+163
+00:04:43,802 --> 00:04:45,208
+C'est tout ce qu'il reste.
+
+164
+00:04:45,739 --> 00:04:47,321
+Au fait, 12 % me reviennent.
+
+165
+00:04:47,867 --> 00:04:49,289
+Attendez, voyons ça.
+
+166
+00:04:52,541 --> 00:04:55,683
+- OK, 51,24 cents.
+- On peux pas diviser.
+
+167
+00:04:55,760 --> 00:04:57,629
+- Laissez, prenez tout.
+- Un quart peut-être.
+
+168
+00:04:57,729 --> 00:05:00,935
+Ecoutez, je me sens fautif.
+Je vous ai rien trouvé depuis longtemps.
+
+169
+00:05:01,035 --> 00:05:02,981
+Allez, prenez ça.
+
+170
+00:05:04,440 --> 00:05:07,261
+- Cinquante dollars.
+- Pas ton argent perso.
+
+171
+00:05:07,664 --> 00:05:09,693
+T'as raison,
+c'est tout ce qu'il me reste...
+
+172
+00:05:09,834 --> 00:05:12,921
+jusqu'à jeudi...
+Enfin, jusqu'à ma prochaine paye.
+
+173
+00:05:13,111 --> 00:05:14,372
+On a vendu des T-shirts ?
+
+174
+00:05:14,689 --> 00:05:16,653
+- Deux.
+- Et des tapis de souris ?
+
+175
+00:05:17,227 --> 00:05:19,024
+- On en a vendus ?
+- Non, je te l'avais dit.
+
+176
+00:05:19,124 --> 00:05:21,798
+Une idée nulle. Je fais quoi
+avec tous ces tapis de souris
+
+177
+00:05:21,898 --> 00:05:23,484
+chez moi, c'est ta faute Bret.
+
+178
+00:05:23,790 --> 00:05:25,420
+J'en fais quoi ?
+
+179
+00:05:25,478 --> 00:05:28,083
+J'ai tapissé la niche de Toby avec,
+il arrête pas de les bouffer.
+
+180
+00:05:28,419 --> 00:05:31,545
+- J'ai essayé d'étanchéifier la cuisine.
+- Mais il nous faut des tunes.
+
+181
+00:05:31,704 --> 00:05:33,564
+Vous devriez peut être
+envisager d'augmenter
+
+182
+00:05:33,664 --> 00:05:35,412
+vos revenus en trouvant du travail.
+
+183
+00:05:35,512 --> 00:05:36,803
+Comme moi avec ce boulot.
+
+184
+00:05:37,780 --> 00:05:39,991
+Le bureau du Premier Ministre
+veut te parler
+
+185
+00:05:40,091 --> 00:05:42,695
+- de la foire internationale
+- Tu peux leur dire
+
+186
+00:05:42,795 --> 00:05:45,040
+que je les rappelle,
+je suis en pleine réunion.
+
+187
+00:05:45,140 --> 00:05:47,728
+On sait tous que tu gères un groupe
+pendant le travail, Murray.
+
+188
+00:05:47,828 --> 00:05:48,837
+Salut, les gars.
+
+189
+00:05:49,370 --> 00:05:51,772
+- Salut, Greg.
+- Je porte ce T-shirt tout le temps.
+
+190
+00:05:52,139 --> 00:05:54,425
+Greg, si tu veux
+on a des tapis de souris.
+
+191
+00:05:55,740 --> 00:05:56,825
+Non merci, Murray.
+
+192
+00:05:58,107 --> 00:05:59,386
+Voyez ? C'est sans espoir !
+
+193
+00:06:03,090 --> 00:06:06,644
+Le boulot consiste
+à porter cette pancarte.
+
+194
+00:06:07,033 --> 00:06:10,685
+Vous devez vous assurer qu'elle
+pointe dans la bonne direction.
+
+195
+00:06:11,062 --> 00:06:12,040
+Alors,
+
+196
+00:06:12,140 --> 00:06:14,393
+ça vous semble faisable ?
+
+197
+00:06:14,790 --> 00:06:16,102
+Ça semble faisable...
+
+198
+00:06:16,711 --> 00:06:18,047
+même pour un lampadaire.
+
+199
+00:06:18,921 --> 00:06:21,087
+Tu sais quoi ?
+Tu as l'air fait pour ça.
+
+200
+00:06:21,238 --> 00:06:23,840
+Lui, il réfléchit trop, OK ?
+
+201
+00:06:23,995 --> 00:06:26,629
+Faut pas se prendre la tête
+dans ce business.
+
+202
+00:06:27,014 --> 00:06:31,171
+Et si un coup de vent l'emporte,
+tu y as pensé ?
+
+203
+00:06:31,863 --> 00:06:33,295
+Enrico Fermi* ?
+
+204
+00:06:33,412 --> 00:06:35,174
+On tiendra bon.
+Ce sera pas un problème.
+
+205
+00:06:35,614 --> 00:06:36,999
+Tu as la bonne attitude.
+
+206
+00:06:37,310 --> 00:06:40,841
+Toi, tu as ce que j'appelle
+la mauvaise attitude.
+
+207
+00:06:42,163 --> 00:06:44,019
+Toutes les coquines de la soirée...
+
+208
+00:06:44,119 --> 00:06:46,649
+font bouger leurs jolies bottines, yeah.
+
+209
+00:06:47,217 --> 00:06:48,234
+Jemaine,
+
+210
+00:06:48,334 --> 00:06:50,872
+- Je dois me coucher maintenant.
+- Qu'est-ce qui est mieux,
+
+211
+00:06:50,972 --> 00:06:53,708
+"bouger leur bottines, yeah."
+ou "bouger leur tétines, yeah." ?
+
+212
+00:06:54,000 --> 00:06:56,698
+"Bouge tes bottines",
+ça fait un peu...
+
+213
+00:06:56,883 --> 00:06:59,980
+bottes pour bébés.
+Les petites bottes en laine qu'ils portent.
+
+214
+00:07:00,188 --> 00:07:02,799
+Tu vois ? Ils portent ces petites...
+bottes en laine.
+
+215
+00:07:02,899 --> 00:07:03,991
+Oui...
+
+216
+00:07:04,091 --> 00:07:06,583
+Je sais pas.
+Je travaille demain, je dois dormir.
+
+217
+00:07:07,120 --> 00:07:09,173
+C'est incroyable que t'ais eu ce boulot
+et pas moi.
+
+218
+00:07:09,273 --> 00:07:12,168
+Améliore ton côté "relationnel".
+La ferme, Bret.
+
+219
+00:07:12,324 --> 00:07:14,865
+LUNDI
+
+220
+00:07:23,488 --> 00:07:25,774
+- Salut mec.
+- Salut, Bret.
+
+221
+00:07:25,874 --> 00:07:27,663
+J'ai racheté nos chaises chez Dave.
+
+222
+00:07:27,910 --> 00:07:30,031
+- T'es en retard pour la répet'.
+- Désolé, mec.
+
+223
+00:07:30,131 --> 00:07:31,853
+On a pris l'apéro avec Eddie.
+
+224
+00:07:31,953 --> 00:07:34,835
+- T'aurais pu me prévenir, alors...
+- On répète un peu ?
+
+225
+00:07:35,272 --> 00:07:38,665
+Bret, il est 19 heures,
+je répète depuis des heures.
+
+226
+00:07:38,765 --> 00:07:40,221
+Et là, tu fais quoi ?
+
+227
+00:07:40,472 --> 00:07:42,061
+Là, c'est mon temps libre.
+
+228
+00:07:42,161 --> 00:07:44,087
+Place à mes activités de loisir.
+
+229
+00:07:44,290 --> 00:07:48,081
+Je vais m'asseoir... un instant ici,
+et puis je vais lire un peu.
+
+230
+00:07:48,181 --> 00:07:50,136
+Si t'as rien à faire,
+profitons-en pour répéter.
+
+231
+00:07:50,236 --> 00:07:52,987
+On aurait pu si tu avais été là,
+mais non... Désolé.
+
+232
+00:07:56,925 --> 00:07:57,927
+Tu fais quoi ?
+
+233
+00:07:58,076 --> 00:08:00,571
+Tu vois bien...
+je m'assieds, c'est mon temps libre.
+
+234
+00:08:00,671 --> 00:08:02,646
+Je fais ce que je veux,
+et je veux faire ça.
+
+235
+00:08:06,206 --> 00:08:08,506
+MARDI
+
+236
+00:08:10,977 --> 00:08:13,512
+- Bonjour, Bret.
+- Qu'est-ce que vous foutez là ?
+
+237
+00:08:13,734 --> 00:08:16,183
+- Réunion d'urgence du groupe.
+- Je bosse. C'est mon boulot.
+
+238
+00:08:16,255 --> 00:08:17,847
+Tu bosses pas,
+tu tiens une pancarte.
+
+239
+00:08:17,947 --> 00:08:20,174
+- C'est une voie publique.
+- C'est mon boulot, dégagez.
+
+240
+00:08:20,274 --> 00:08:22,638
+Allez... Réunion du groupe.
+Bret ?
+
+241
+00:08:22,926 --> 00:08:23,868
+Présent.
+
+242
+00:08:23,968 --> 00:08:25,165
+- Jemaine ?
+- Présent.
+
+243
+00:08:25,773 --> 00:08:26,905
+Murray, présent.
+
+244
+00:08:27,404 --> 00:08:31,009
+Bonne nouvelle, c'est bon
+pour la foire internationale.
+
+245
+00:08:31,124 --> 00:08:33,009
+La Nouvelle-Zélande
+vous veut sur son stand.
+
+246
+00:08:33,368 --> 00:08:34,928
+La foire internationale ?
+
+247
+00:08:35,082 --> 00:08:37,437
+Il y a des stands
+de tous les pays du monde.
+
+248
+00:08:37,701 --> 00:08:41,299
+Les australiens, comme d'habitude,
+auront leur stand près du nôtre.
+
+249
+00:08:41,409 --> 00:08:44,344
+Cette année, avec vous,
+on va buter du kangourou.
+
+250
+00:08:44,444 --> 00:08:45,594
+J'ai trop hâte.
+
+251
+00:08:45,945 --> 00:08:47,582
+- Bande de crâneurs.
+- C'est quand ?
+
+252
+00:08:48,198 --> 00:08:50,498
+- Jeudi, 15 heures.
+- Non.
+
+253
+00:08:50,778 --> 00:08:52,055
+Je peux pas. Je travaille.
+
+254
+00:08:52,120 --> 00:08:53,836
+- Tu refuses un concert ?
+- Je sais pas.
+
+255
+00:08:53,936 --> 00:08:56,025
+Qu'est-ce qui compte plus,
+le groupe ou ton boulot ?
+
+256
+00:08:57,907 --> 00:09:00,058
+Je bosse parce que tu nous trouves
+jamais de concert.
+
+257
+00:09:00,200 --> 00:09:02,220
+Je fais comment
+si tu travailles tout le temps ?
+
+258
+00:09:02,394 --> 00:09:04,716
+C'est pour ça que je bosse,
+on fait jamais de concert.
+
+259
+00:09:04,816 --> 00:09:07,398
+Comment je te trouve des concerts
+si tu bosses tout le temps ?
+
+260
+00:09:07,498 --> 00:09:10,083
+Oui, mais... j'ai pris ce boulot
+car on fait jamais de concert.
+
+261
+00:09:10,281 --> 00:09:12,299
+Mais là, j'ai un concert...
+Pourquoi tu bosses ?
+
+262
+00:09:12,480 --> 00:09:15,030
+Oui, mais... c'est ça le truc,
+je dois travailler
+
+263
+00:09:15,130 --> 00:09:17,866
+parce qu'on fait pas de concert.
+C'est comme "l'oeuf et la poule".
+
+264
+00:09:19,347 --> 00:09:21,146
+Comment ça ?
+Ça veut dire quoi "la poule" ?
+
+265
+00:09:21,328 --> 00:09:23,966
+Tu sais... Qui est apparu en premier,
+l'oeuf ou la poule ?
+
+266
+00:09:24,423 --> 00:09:26,196
+- C'est quoi le rapport ?
+- La causalité...
+
+267
+00:09:26,296 --> 00:09:29,375
+- C'est stupide. La poule, évidemment.
+- Mais d'où vient la poule ?
+
+268
+00:09:29,475 --> 00:09:30,606
+Elle vient de...
+
+269
+00:09:32,492 --> 00:09:33,790
+Tu vois... De l'oeuf.
+
+270
+00:09:34,856 --> 00:09:37,564
+C'est toi l'oeuf,
+l'oeuf pourri, OK ?
+
+271
+00:09:37,771 --> 00:09:40,260
+Tes exemples à la con nous font
+perdre le fil.
+
+272
+00:09:40,360 --> 00:09:43,819
+J'enregistre ma partie sur cassette,
+et Jemaine joue avec.
+
+273
+00:09:44,081 --> 00:09:45,591
+Une cassette ? Audio ?
+
+274
+00:09:46,520 --> 00:09:49,283
+Non, sûrement pas, Bret.
+Ça ne me plaît pas.
+
+275
+00:09:52,528 --> 00:09:54,700
+- Ils sont bons ces hot-dogs ?
+- Oui, trop bons.
+
+276
+00:09:54,815 --> 00:09:56,165
+- Combien ?
+- Deux dollars.
+
+277
+00:09:56,549 --> 00:09:57,809
+Combien de sauces ?
+
+278
+00:09:57,909 --> 00:09:58,725
+Deux.
+
+279
+00:09:58,929 --> 00:10:00,455
+J'en aurais espérées trois pour ça,
+
+280
+00:10:00,555 --> 00:10:02,735
+- pas vous ?
+- Faut que je retourne bosser les gars.
+
+281
+00:10:04,299 --> 00:10:07,858
+<i>Et les amis, excusez moi,
+je suis désolé pour la pollution.</i>
+
+282
+00:10:07,958 --> 00:10:10,051
+Ne respirez pas ça,
+on sait pas trop ce que c'est,
+
+283
+00:10:10,151 --> 00:10:12,495
+je vous conseille de respirer
+par intermittence.
+
+284
+00:10:12,595 --> 00:10:14,854
+Alors, Georgina,
+je te donne la bijouterie,
+
+285
+00:10:14,954 --> 00:10:17,603
+tu seras sur Broadway et Canal.
+
+286
+00:10:17,751 --> 00:10:21,384
+Bon, ça c'est du classique, OK ?
+T'as déjà fait.
+
+287
+00:10:21,649 --> 00:10:25,331
+Bret, je vais te donner plus dur,
+d'accord ?
+
+288
+00:10:25,488 --> 00:10:27,574
+"Costumes pour homme", OK ?
+
+289
+00:10:27,674 --> 00:10:30,410
+Mathew, je veux que tu tiennes
+ta pancarte comme Bret.
+
+290
+00:10:30,510 --> 00:10:32,470
+- Bret, comment tu fais ?
+- Je la tiens.
+
+291
+00:10:32,570 --> 00:10:35,594
+La tenir, c'est tout. Exactement...
+Coco, t'es en retard.
+
+292
+00:10:35,694 --> 00:10:38,385
+Bret, tu sais quoi ?
+Tu vas prendre les téléphones, OK ?
+
+293
+00:10:38,485 --> 00:10:40,450
+Montre à Coco les ficelles du métier.
+
+294
+00:10:40,550 --> 00:10:41,725
+Coco, voici Bret.
+
+295
+00:10:41,825 --> 00:10:43,052
+OK, tout le monde.
+
+296
+00:10:43,152 --> 00:10:44,974
+Ayez l'air vraiment vif dehors,
+
+297
+00:10:45,074 --> 00:10:48,171
+ça peut être un tremplin pour vous.
+Porteurs de pancartes,
+
+298
+00:10:48,536 --> 00:10:51,721
+allez-y,
+allez porter... pleins de choses !
+
+299
+00:10:54,570 --> 00:10:55,924
+Je suis dans un groupe.
+
+300
+00:10:56,846 --> 00:10:57,846
+Cool.
+
+301
+00:10:58,784 --> 00:11:01,257
+- C'est quoi ton nom, déjà ?
+- Bret.
+
+302
+00:11:01,357 --> 00:11:02,395
+- Brat ?
+- Bret.
+
+303
+00:11:03,153 --> 00:11:05,046
+- Breet ?
+- Bret.
+
+304
+00:11:05,702 --> 00:11:07,331
+Brit, comme... Britney ?
+
+305
+00:11:07,857 --> 00:11:10,045
+Non... B. R. E. T.
+
+306
+00:11:10,472 --> 00:11:11,904
+- Bret !
+- Oui.
+
+307
+00:11:12,151 --> 00:11:15,593
+J'entendais Brit.
+J'adore ton accent anglais.
+
+308
+00:11:15,839 --> 00:11:18,290
+- Néo-Zélandais.
+- T'es de là-bas ?
+
+309
+00:11:18,604 --> 00:11:20,144
+Il paraît que c'est très beau.
+
+310
+00:11:20,638 --> 00:11:22,284
+Y'a des vikings là-bas, pas vrai ?
+
+311
+00:11:23,350 --> 00:11:24,353
+Oui.
+
+312
+00:11:24,748 --> 00:11:26,799
+Une amie à moi y a été,
+elle a adoré.
+
+313
+00:11:27,091 --> 00:11:30,019
+<i>Elle est... fan du Seigneur des Anneaux.<i/></i>
+
+314
+00:11:30,058 --> 00:11:33,262
+Mon Dieu, elle est canon.
+
+315
+00:11:33,896 --> 00:11:35,806
+Elle est sacrément canon.
+
+316
+00:11:37,261 --> 00:11:38,633
+Comme un 44 Magmum.
+
+317
+00:11:39,814 --> 00:11:42,504
+J'ai envie de lui dire,
+mais elle va me trouver sexiste.
+
+318
+00:11:43,534 --> 00:11:45,627
+Elle est tellement canon,
+qu'elle me rend sexiste.
+
+319
+00:11:47,265 --> 00:11:48,268
+La salope !
+
+320
+00:11:48,501 --> 00:11:52,060
+Il me faut une guitare électrique
+Casio DG-20 de 1983.
+
+321
+00:11:53,193 --> 00:11:56,437
+Réglée sur mandoline électrique.
+Quelques percussions.
+
+322
+00:11:56,893 --> 00:11:58,454
+Oui...
+Ecoute-moi bien !
+
+323
+00:11:58,871 --> 00:12:01,370
+Je te vois avec une pancarte,
+je veux te boum comme jamais.
+
+324
+00:12:01,470 --> 00:12:03,559
+Mon buste bouge
+comme quand l'arme fait "boum".
+
+325
+00:12:03,659 --> 00:12:05,727
+Mes pieds restent immobiles
+et mes yeux font zoom.
+
+326
+00:12:05,989 --> 00:12:08,163
+Mes pieds font trembler
+mon corps tout loukoum.
+
+327
+00:12:08,425 --> 00:12:11,042
+Le premier jour du boum,
+les fleurs font badaboum.
+
+328
+00:12:11,142 --> 00:12:14,218
+On fait boomer les basses, quelle boum !
+Boum-ba boum-ba,
+
+329
+00:12:14,318 --> 00:12:16,187
+comme un gros flingue dans Doom*.
+
+330
+00:12:16,287 --> 00:12:18,326
+Boum-boum,
+comme Blanche-neige et Atchoum.
+
+331
+00:12:18,426 --> 00:12:20,309
+Je te vois bouger ton boum-boum,
+
+332
+00:12:20,783 --> 00:12:22,811
+je te vois mater mon boum-boum,
+
+333
+00:12:23,225 --> 00:12:25,291
+tu veux un petit coup de boum-boum.
+
+334
+00:12:25,391 --> 00:12:27,916
+C'est clair,
+c'est l'heure du boum-boum.
+
+335
+00:12:28,179 --> 00:12:30,152
+Laisse moi t'offrir un boum-boum.
+
+336
+00:12:30,486 --> 00:12:32,254
+Tu commandes un bon boum.
+
+337
+00:12:32,828 --> 00:12:33,944
+Tu aimes boum
+
+338
+00:12:34,044 --> 00:12:35,184
+et j'adore boum,
+
+339
+00:12:35,284 --> 00:12:37,855
+assez de petits boums,
+éclatons les boomers.
+
+340
+00:12:38,066 --> 00:12:39,995
+Avance rapide...
+
+341
+00:12:40,424 --> 00:12:42,170
+Nous chevauchons un boum-boum,
+
+342
+00:12:42,270 --> 00:12:44,573
+pour nous rendre à ma petite boum.
+
+343
+00:12:44,673 --> 00:12:47,090
+Et on boum ce qui boum
+et tous les deux on assume,
+
+344
+00:12:47,190 --> 00:12:49,822
+on va boum boum boum
+jusqu'à ce que le boum fasse boum.
+
+345
+00:12:49,922 --> 00:12:51,874
+- Qui est le roi du boum ?
+- Qui ?
+
+346
+00:12:52,307 --> 00:12:54,318
+- Je suis le roi du boum.
+- Quoi ?
+
+347
+00:12:54,737 --> 00:12:56,712
+- Qui est le roi du boum ?
+- Dis le moi.
+
+348
+00:12:57,145 --> 00:12:59,414
+- Je suis le roi du boum.
+- Il est le roi du boum.
+
+349
+00:13:09,119 --> 00:13:11,275
+Mon téléphone sonne,
+c'est Boum-Boum.
+
+350
+00:13:11,375 --> 00:13:13,855
+Il revient de dix ans de psycha-boum.
+
+351
+00:13:14,191 --> 00:13:16,243
+Coupé du boum, plus de boum-boum,
+
+352
+00:13:16,343 --> 00:13:18,492
+et ce boum de fou aime encore le boum.
+
+353
+00:13:18,592 --> 00:13:21,114
+Ouvre le boum et mes jambes font zoom,
+
+354
+00:13:21,214 --> 00:13:23,438
+et ton gros boum s'abaisse,
+badaboum boum.
+
+355
+00:13:23,700 --> 00:13:25,964
+On devient dingue
+et mon boum est tout trempé,
+
+356
+00:13:26,064 --> 00:13:28,435
+et on boum boum boum boum.
+
+357
+00:13:28,872 --> 00:13:30,840
+- Qui est le roi du boum ?
+- Qui ?
+
+358
+00:13:31,131 --> 00:13:32,548
+Je suis le roi du boum.
+
+359
+00:13:32,810 --> 00:13:35,211
+- Quoi ?
+- Qui est le roi du boum ?
+
+360
+00:13:36,013 --> 00:13:38,320
+- Je suis le roi du boum.
+- Bret est le roi du boum.
+
+361
+00:13:38,582 --> 00:13:39,551
+JEUDI
+
+362
+00:13:39,651 --> 00:13:40,926
+Venez en Nouvelle-Zélande.
+
+363
+00:13:41,022 --> 00:13:42,542
+De superbes paysages,
+
+364
+00:13:42,642 --> 00:13:44,152
+<i>comme dans Le Seigneur des Anneaux.<i/></i>
+
+365
+00:13:44,229 --> 00:13:47,209
+Des attractions intéressantes...
+Une clôture de brosses à dents.
+
+366
+00:13:47,319 --> 00:13:48,893
+Imaginez : toute une clôture
+
+367
+00:13:48,993 --> 00:13:51,772
+fabriquée en brosses à dents,
+plus de 50 brosses à dents.
+
+368
+00:13:52,123 --> 00:13:54,535
+Le saut à l'élastique.
+Vous aimez le saut à l'élastique ?
+
+369
+00:13:56,044 --> 00:13:58,173
+Nouvelle-Zélande.
+Nouvelle-Zélande.
+
+370
+00:14:00,348 --> 00:14:01,850
+Oui, gardez-le, ne le perdez pas.
+
+371
+00:14:02,368 --> 00:14:03,629
+Courage, Greg.
+
+372
+00:14:04,213 --> 00:14:05,251
+Essaye de...
+
+373
+00:14:06,325 --> 00:14:08,057
+Où est Bret, aucun signe de lui ?
+
+374
+00:14:08,157 --> 00:14:09,601
+On manque d'animations.
+
+375
+00:14:10,053 --> 00:14:11,056
+Non.
+
+376
+00:14:12,591 --> 00:14:15,732
+- Je sais pas où il est.
+- Rentre ta chemise, t'es débraillé.
+
+377
+00:14:16,140 --> 00:14:18,279
+Essaye d'être fier
+de la Nouvelle-Zélande.
+
+378
+00:14:19,845 --> 00:14:20,845
+Non...
+
+379
+00:14:21,485 --> 00:14:22,586
+Murray,
+
+380
+00:14:23,499 --> 00:14:25,522
+- comment ça va ?
+- Maxwell, bien.
+
+381
+00:14:25,622 --> 00:14:27,614
+- Votre stand est super.
+- Merci.
+
+382
+00:14:27,830 --> 00:14:30,859
+Cette clôture de brosses à dents
+à l'air fascinante.
+
+383
+00:14:31,399 --> 00:14:33,248
+Vous en avez pas en Australie,
+pas vrai ?
+
+384
+00:14:33,348 --> 00:14:34,309
+- Non.
+- Non.
+
+385
+00:14:34,409 --> 00:14:36,664
+On a l'Ayers Rock, mon pote.
+Un sacré caillou !
+
+386
+00:14:36,909 --> 00:14:38,298
+Nous aussi on a des cailloux...
+
+387
+00:14:38,564 --> 00:14:40,751
+- Enorme.
+- On a de gros... plus petits cailloux.
+
+388
+00:14:41,375 --> 00:14:43,142
+Votre groupe joue quand ?
+
+389
+00:14:43,242 --> 00:14:45,030
+- J'ai hâte de l'entendre.
+- Très bientôt,
+
+390
+00:14:45,079 --> 00:14:47,329
+- on attend le reste du groupe.
+- OK.
+
+391
+00:14:47,548 --> 00:14:49,489
+C'est qu'on a une équipe
+d'hôtesses très chaudes
+
+392
+00:14:49,589 --> 00:14:51,299
+qui vont lancer
+un barbecue en bikini,
+
+393
+00:14:51,399 --> 00:14:53,545
+et la musique va booster.
+
+394
+00:14:53,776 --> 00:14:57,358
+Je voudrais pas couler ton... groupe,
+mais ça débute bientôt.
+
+395
+00:15:01,443 --> 00:15:03,171
+On devrait commencer,
+oublie Bret.
+
+396
+00:15:05,227 --> 00:15:06,386
+Il faut la rembobiner.
+
+397
+00:15:07,401 --> 00:15:08,889
+C'est ton groupe, Murray ?
+
+398
+00:15:09,134 --> 00:15:10,486
+Un mec et une cassette...
+
+399
+00:15:11,233 --> 00:15:12,302
+Pittoresque.
+
+400
+00:15:12,437 --> 00:15:14,816
+- Appuie sur play... Balance du son.
+- J'essaye.
+
+401
+00:15:15,417 --> 00:15:17,494
+Un, deux, trois, quatre...
+
+402
+00:15:20,795 --> 00:15:25,375
+Toutes les coquines de la soirée
+faites bouger vos jolies tétines, yeah.
+
+403
+00:15:25,475 --> 00:15:27,472
+Qui aime faire la fête ?
+
+404
+00:15:28,455 --> 00:15:33,031
+Toutes les femmes avec des bébés,
+faites leur bouger leurs bottines, yeah.
+
+405
+00:15:33,131 --> 00:15:34,670
+Qui sait faire la fête ?
+
+406
+00:15:40,917 --> 00:15:44,719
+Qui sait faire la fête ?
+Qui sait faire la fête ?
+
+407
+00:15:44,824 --> 00:15:46,598
+Qui sait faire la fête ?
+
+408
+00:15:46,698 --> 00:15:48,588
+Qui sait faire la fête ?
+
+409
+00:15:54,401 --> 00:15:55,978
+Je sais faire la fête.
+
+410
+00:15:56,086 --> 00:15:57,893
+La Nouvelle-Zélande sait faire la fête.
+
+411
+00:16:02,125 --> 00:16:04,378
+- C'était génial, Jemaine.
+- Merci.
+
+412
+00:16:04,525 --> 00:16:07,169
+Ces australos vont pas s'en remettre !
+La cassette était géniale.
+
+413
+00:16:10,291 --> 00:16:11,409
+Allez...
+
+414
+00:16:12,300 --> 00:16:14,286
+- Les gars...
+- Désolé, je suis en retard.
+
+415
+00:16:14,948 --> 00:16:15,995
+- Salut.
+- Salut.
+
+416
+00:16:16,458 --> 00:16:18,069
+- T'as fait le concert ?
+- Oui, Bret.
+
+417
+00:16:18,169 --> 00:16:21,016
+- Désolé, j'ai galéré pour venir.
+- La cassette était à l'heure.
+
+418
+00:16:21,278 --> 00:16:23,100
+- Et le son, il était bon ?
+- Bon.
+
+419
+00:16:23,200 --> 00:16:24,590
+Très bon, oui.
+
+420
+00:16:24,796 --> 00:16:27,352
+En fait, il y a peu
+de différence entre toi et la cassette.
+
+421
+00:16:27,517 --> 00:16:29,323
+- C'est ça, Murray.
+- Et elle ne répond pas.
+
+422
+00:16:29,423 --> 00:16:31,271
+C'est qu'une cassette,
+elle n'est pas vivante.
+
+423
+00:16:31,396 --> 00:16:34,396
+C'est pas comme un vrai musicien,
+pas vrai ? Hein, Jemaine ?
+
+424
+00:16:34,658 --> 00:16:36,098
+J'ai pas remarqué la différence.
+
+425
+00:16:36,311 --> 00:16:39,037
+La différence, c'est que la cassette
+nous a pas laissé tomber, OK ?
+
+426
+00:16:39,137 --> 00:16:40,518
+Ça l'a fait, elle a bien joué.
+
+427
+00:16:41,256 --> 00:16:43,272
+Et plus j'y pense, plus elle me plaît.
+
+428
+00:16:43,372 --> 00:16:45,021
+En fait, j'avais dans l'idée de te virer
+
+429
+00:16:45,121 --> 00:16:47,861
+- et de garder Jemaine et la cassette.
+- Tu bluffes, Murray.
+
+430
+00:16:47,961 --> 00:16:50,058
+- Je ne bluffe pas.
+- Mais si.
+
+431
+00:16:50,158 --> 00:16:52,000
+Si... il bluffe.
+
+432
+00:16:52,116 --> 00:16:54,479
+Il m'a dit qu'il prétendrait
+te virer si t'étais en retard.
+
+433
+00:16:54,579 --> 00:16:56,772
+- Elle est bonne, j'allais...
+- Tu vois, tu bluffais.
+
+434
+00:16:56,872 --> 00:16:59,549
+Oui, mais plus maintenant,
+je viens de changer d'avis.
+
+435
+00:16:59,649 --> 00:17:01,156
+Je suis désolé de te dire, Bret,
+
+436
+00:17:01,305 --> 00:17:04,226
+que tu es...
+Vérifie la cassette.
+
+437
+00:17:04,678 --> 00:17:06,362
+- T'es sérieux ?
+- Tu es viré.
+
+438
+00:17:08,353 --> 00:17:10,695
+- Vous deux, je vous ramène pas.
+- Pourquoi moi ?
+
+439
+00:17:10,795 --> 00:17:12,934
+T'as foutu en l'air mon bluff,
+tout mon bluff.
+
+440
+00:17:13,065 --> 00:17:14,103
+Au revoir, Bret.
+
+441
+00:17:15,031 --> 00:17:17,776
+Il y a d'autres attractions,
+allez voir le stand indien.
+
+442
+00:17:23,763 --> 00:17:25,989
+Merci de nous ramener, Mel et Doug.
+
+443
+00:17:26,343 --> 00:17:27,539
+Pas de souci.
+
+444
+00:17:28,909 --> 00:17:30,628
+Bret, tu vas...
+tu vas bien ?
+
+445
+00:17:30,728 --> 00:17:33,378
+T'étais pas sur scène,
+y'avait une cassette...
+
+446
+00:17:33,478 --> 00:17:36,494
+Oui, je suis plus dans le groupe,
+Murray m'a viré.
+
+447
+00:17:36,769 --> 00:17:40,282
+Comment ça "plus dans le groupe" ?
+T'as entendu, Doug ?
+
+448
+00:17:40,385 --> 00:17:45,138
+- Oui, c'est terrible.
+- C'est terrible, Doug. Terrible.
+
+449
+00:17:45,745 --> 00:17:48,068
+Mon Dieu...
+Murray a le droit de faire ça ?
+
+450
+00:17:48,168 --> 00:17:49,293
+- Non.
+- Oui.
+
+451
+00:17:50,985 --> 00:17:53,377
+Tous vos fans vont être dévastés.
+
+452
+00:17:53,598 --> 00:17:55,053
+- Il n'y a que toi, Mel.
+- Oui.
+
+453
+00:17:56,139 --> 00:17:57,333
+- Merci.
+- Oui.
+
+454
+00:17:57,881 --> 00:17:59,887
+Qu'est-ce que tu vas faire, Bret ?
+
+455
+00:18:00,245 --> 00:18:04,775
+Me concentrer sur le boulot,
+tenir des pancartes. Ça se passe bien.
+
+456
+00:18:04,875 --> 00:18:08,004
+Oui, je t'ai vu. Beaucoup.
+
+457
+00:18:08,104 --> 00:18:10,706
+Tu sais t'y prendre avec une pancarte,
+
+458
+00:18:10,806 --> 00:18:14,238
+tu la manipules et la caresses
+avec tes mains vigoureuses, si adroites.
+
+459
+00:18:14,338 --> 00:18:16,514
+Merci beaucoup, Mel.
+Oui, merci.
+
+460
+00:18:20,602 --> 00:18:22,773
+- Tu as été bon ce soir, Jemaine.
+- Merci, Mel.
+
+461
+00:18:23,165 --> 00:18:25,936
+Tu étais meilleur
+que les australiennes en bikinis.
+
+462
+00:18:26,036 --> 00:18:27,651
+- Je les ai pas aimées.
+- Moi, oui.
+
+463
+00:18:28,343 --> 00:18:29,739
+Je les ai détestées.
+
+464
+00:18:30,620 --> 00:18:33,071
+Donc, pendant quelque temps,
+tu joueras avec la cassette ?
+
+465
+00:18:33,296 --> 00:18:35,830
+Oui, en fait on a... un concert prévu.
+
+466
+00:18:35,930 --> 00:18:37,060
+Un concert ?
+
+467
+00:18:37,160 --> 00:18:38,520
+- Quoi, un vrai ?
+- Oui...
+
+468
+00:18:39,245 --> 00:18:40,351
+Oui...
+
+469
+00:18:41,065 --> 00:18:42,040
+Un mec...
+
+470
+00:18:42,140 --> 00:18:44,153
+Un mec nous a vus et veut nous engager.
+
+471
+00:18:44,418 --> 00:18:45,697
+Eh bien, j'y serais.
+
+472
+00:18:45,857 --> 00:18:48,015
+Tu peux compter là-dessus.
+
+473
+00:18:48,368 --> 00:18:49,708
+Je n'en manquerai aucun.
+
+474
+00:18:51,655 --> 00:18:52,768
+Bon sang,
+
+475
+00:18:53,175 --> 00:18:55,337
+la voiture
+pourrait partir en fumée maintenant,
+
+476
+00:18:55,415 --> 00:18:57,266
+ce serait une belle manière
+d'en finir, non ?
+
+477
+00:18:57,366 --> 00:18:58,540
+C'est là. Merci, Doug.
+
+478
+00:18:59,414 --> 00:19:00,399
+Où ?
+
+479
+00:19:00,499 --> 00:19:01,759
+- Ici ?
+- N'importe où.
+
+480
+00:19:41,935 --> 00:19:44,124
+OK, en quoi d'autre la cassette
+est mieux que Bret ?
+
+481
+00:19:44,472 --> 00:19:45,521
+Plus compacte.
+
+482
+00:19:47,025 --> 00:19:48,455
+Quoi que Bret est très compacte.
+
+483
+00:19:48,684 --> 00:19:50,937
+Mais je peux porter la cassette,
+la trimballer avec moi.
+
+484
+00:19:51,037 --> 00:19:53,095
+Tu pourrais porter Bret.
+Tu peux soulever combien ?
+
+485
+00:19:53,195 --> 00:19:54,860
+Je pourrais pas le porter à un concert.
+
+486
+00:19:54,960 --> 00:19:58,708
+La cassette tient dans ma poche
+et je peux l'emmener à... un concert.
+
+487
+00:19:59,032 --> 00:20:02,447
+Plus compacte.
+Une économie sur le métro, aussi.
+
+488
+00:20:05,891 --> 00:20:07,837
+- Alors, Bret te manque.
+- Pas vraiment.
+
+489
+00:20:08,834 --> 00:20:10,281
+- Il ne te manque pas ?
+- Non.
+
+490
+00:20:10,500 --> 00:20:11,759
+- Non ?
+- Non.
+
+491
+00:20:12,503 --> 00:20:13,514
+Il te manque ?
+
+492
+00:20:14,464 --> 00:20:15,984
+- Un peu.
+- Un peu, oui.
+
+493
+00:20:16,411 --> 00:20:18,179
+Il me manque.
+J'écris ça dans la colone....
+
+494
+00:20:18,279 --> 00:20:20,528
+- Oui, écris "il manque".
+- Dans les bons points, oui.
+
+495
+00:20:25,304 --> 00:20:26,306
+Eh bien,
+
+496
+00:20:26,584 --> 00:20:29,014
+on peut penser ce qu'on veut,
+la cassette gagne toujours.
+
+497
+00:20:30,041 --> 00:20:31,472
+Assure-toi de ne pas la perdre.
+
+498
+00:20:31,607 --> 00:20:33,180
+Ne reste pas près d'un gros aimant...
+
+499
+00:20:33,280 --> 00:20:35,130
+Pourquoi je resterais près d'un aimant ?
+
+500
+00:20:35,232 --> 00:20:36,999
+Je connais pas de ta vie privée.
+
+501
+00:20:39,312 --> 00:20:40,332
+Eh bien, voilà.
+
+502
+00:20:42,520 --> 00:20:44,625
+- Tu as la cassette, n'est-ce pas ?
+- Oui, je l'ai.
+
+503
+00:20:44,725 --> 00:20:46,725
+- Fais voir.
+- J'ai la cassette, je te l'ai dit.
+
+504
+00:20:46,831 --> 00:20:48,925
+- Je veux juste la voir.
+- Je l'ai dans ma poche.
+
+505
+00:20:53,315 --> 00:20:55,948
+- Attention, regarde ce que t'as fait.
+- C'est coincé dans le zip.
+
+506
+00:20:56,048 --> 00:20:57,974
+- Lâche-la, doucement.
+- C'est bon.
+
+507
+00:20:58,092 --> 00:20:59,549
+- Elle est coincée.
+- Attends...
+
+508
+00:20:59,607 --> 00:21:01,730
+Un truc des années 80, regarde.
+
+509
+00:21:01,992 --> 00:21:04,180
+5 minutes plus tard.
+
+510
+00:21:06,620 --> 00:21:08,640
+Ça veut dire
+que je fais plus partie d'un groupe ?
+
+511
+00:21:09,341 --> 00:21:10,826
+J'ai bien peur que non, Jemaine.
+
+512
+00:21:13,659 --> 00:21:15,820
+Greg, tu pourrais nous amener
+quelques mouchoirs ?
+
+513
+00:21:17,996 --> 00:21:19,067
+Greg ?
+
+514
+00:21:20,526 --> 00:21:21,604
+Remets-toi, Jemaine.
+
+515
+00:21:22,662 --> 00:21:23,895
+En fait, laisse tomber,
+
+516
+00:21:23,995 --> 00:21:25,632
+tu veux pas voir deux hommes pleurer.
+
+517
+00:21:25,732 --> 00:21:26,788
+Va t'en, Greg.
+
+518
+00:21:28,931 --> 00:21:29,943
+Oui.
+
+519
+00:21:30,604 --> 00:21:33,920
+Poursuis-les, intente un procès.
+Je dois y aller.
+
+520
+00:21:34,428 --> 00:21:35,476
+Salut, mec.
+
+521
+00:21:36,966 --> 00:21:37,932
+Salut, Bret.
+
+522
+00:21:39,098 --> 00:21:40,445
+C'est quoi dans ton oreille ?
+
+523
+00:21:41,318 --> 00:21:42,598
+Mon nouveau bluetooth.
+
+524
+00:21:42,713 --> 00:21:44,469
+Tout le monde en a ici,
+pour le business.
+
+525
+00:21:44,718 --> 00:21:46,150
+Tu sais pas ce que c'est, hein ?
+
+526
+00:21:46,250 --> 00:21:48,135
+- Pas vraiment. Tu sais ce que c'est ?
+- Non.
+
+527
+00:21:48,638 --> 00:21:50,228
+Je crois
+que ça va avec le téléphone.
+
+528
+00:21:50,923 --> 00:21:52,569
+Je vois.
+
+529
+00:21:53,310 --> 00:21:56,657
+- Oui, oui, c'est logique.
+- Bret.
+
+530
+00:21:56,786 --> 00:21:58,632
+Je pense à reformer le groupe.
+
+531
+00:21:58,732 --> 00:21:59,926
+- Vraiment ?
+- Oui.
+
+532
+00:22:00,093 --> 00:22:01,810
+Ça marchait plutôt bien
+avec la cassette.
+
+533
+00:22:01,892 --> 00:22:03,326
+Elle peut pas te remplacer, mec.
+
+534
+00:22:03,395 --> 00:22:05,028
+- Vraiment ?
+- Non, elle est cassée.
+
+535
+00:22:06,234 --> 00:22:07,379
+T'en penses quoi ?
+
+536
+00:22:08,378 --> 00:22:10,991
+Le groupe de base : toi, moi...
+
+537
+00:22:13,559 --> 00:22:15,614
+- Toi et moi.
+- Je sais pas, mec.
+
+538
+00:22:16,606 --> 00:22:17,606
+Regarde-moi,
+
+539
+00:22:18,244 --> 00:22:20,025
+j'ai changé, j'ai grandi.
+
+540
+00:22:20,393 --> 00:22:21,933
+J'ai un boulot, une carrière.
+
+541
+00:22:22,396 --> 00:22:23,676
+Je bois du café maintenant.
+
+542
+00:22:29,060 --> 00:22:30,748
+Je sais pas si je peux encore le faire.
+
+543
+00:22:31,737 --> 00:22:34,676
+Je sais même pas de quoi tu me parles.
+Rejoins juste dans le groupe.
+
+544
+00:22:34,776 --> 00:22:36,621
+- Non, je rejoins pas le groupe.
+- Rejoins-le.
+
+545
+00:22:36,721 --> 00:22:38,648
+- Je rejoins pas le groupe.
+- Rejoins le groupe.
+
+546
+00:22:38,708 --> 00:22:39,656
+Non.
+
+547
+00:22:43,201 --> 00:22:44,344
+Téléphones gratuits.
+
+548
+00:22:48,447 --> 00:22:51,229
+- Tu abandonnes le rêve, Bret.
+- Je me suis réveillé.
+
+549
+00:22:51,949 --> 00:22:53,952
+- On se voit à la maison.
+- OK, mec.
+
+550
+00:22:54,059 --> 00:22:55,321
+Tu peux prendre du lait ?
+
+551
+00:23:08,412 --> 00:23:09,977
+Oui.
+Je verrai ce que je peux faire.
+
+552
+00:23:10,077 --> 00:23:13,003
+Oui, un à 5 heure et un à 6 heure.
+
+553
+00:23:13,754 --> 00:23:14,768
+Je t'inscrirai.
+
+554
+00:23:15,628 --> 00:23:18,593
+OK, oui... 7,3.
+
+555
+00:23:18,876 --> 00:23:20,131
+D'accord, salut.
+
+556
+00:23:21,193 --> 00:23:22,539
+- Salut, vieux.
+- Salut.
+
+557
+00:23:23,095 --> 00:23:24,105
+C'est quoi ?
+
+558
+00:23:24,486 --> 00:23:25,507
+Hamburger.
+
+559
+00:23:27,435 --> 00:23:28,444
+C'est incroyable.
+
+560
+00:23:29,247 --> 00:23:30,582
+T'en veux plus ?
+
+561
+00:23:32,116 --> 00:23:33,549
+J'ai pas commencé.
+
+562
+00:23:34,369 --> 00:23:35,802
+Tu veux rejoindre le groupe ?
+
+563
+00:23:36,556 --> 00:23:37,558
+Non.
+
+564
+00:23:47,117 --> 00:23:48,120
+C'est quoi ça ?
+
+565
+00:23:50,098 --> 00:23:52,894
+VENDREDI
+
+566
+00:23:54,686 --> 00:23:56,065
+Comment va le groupe ?
+
+567
+00:23:56,409 --> 00:23:58,696
+Je suis plus dans le groupe.
+J'ai arrêté.
+
+568
+00:23:59,077 --> 00:24:00,241
+- Sérieux ?
+- Oui.
+
+569
+00:24:00,783 --> 00:24:03,862
+Ils veulent que je revienne,
+mais je me concentre sur les pancartes.
+
+570
+00:24:04,375 --> 00:24:06,286
+Ma carrière et tout ça...
+
+571
+00:24:06,837 --> 00:24:08,704
+Tu vas former un autre groupe ?
+
+572
+00:24:09,043 --> 00:24:11,372
+Non, sûrement pas,
+j'ai de plus grandes ambitions.
+
+573
+00:24:12,302 --> 00:24:14,114
+- Les pancartes ?
+- Oui.
+
+574
+00:24:15,515 --> 00:24:18,237
+- Je croyais que t'aimais les pancartes.
+- Les pancartes c'est bien.
+
+575
+00:24:18,337 --> 00:24:20,466
+- Oui.
+- Je préfère les groupes.
+
+576
+00:24:21,681 --> 00:24:24,075
+- Tu préfères les groupes ?
+- Oui, j'adore les groupes.
+
+577
+00:24:24,427 --> 00:24:26,989
+Vraiment ? Tu l'as jamais...
+Je ne...
+
+578
+00:24:29,130 --> 00:24:31,615
+- On se voit plus tard, Bret ?
+- Cool, oui.
+
+579
+00:24:36,395 --> 00:24:38,936
+Je reviens dans le groupe.
+Je reviens dans le groupe.
+
+580
+00:24:47,188 --> 00:24:50,617
+- Repose ce chat, on n'a pas les moyens.
+- J'suis de retour dans le groupe.
+
+581
+00:24:52,666 --> 00:24:54,076
+Je reviens dans le groupe.
+
+582
+00:24:58,194 --> 00:24:59,857
+OK, ça a été une décision très difficile
+
+583
+00:24:59,957 --> 00:25:01,917
+car vous êtes nombreux à avoir
+du talent, OK ?
+
+584
+00:25:02,060 --> 00:25:03,820
+- Certains sont trop doués.
+- Je reviens...
+
+585
+00:25:03,961 --> 00:25:05,352
+Josh, c'est ça, au fond ?
+
+586
+00:25:05,977 --> 00:25:07,661
+Bons résultats, mais un peu arrogant...
+
+587
+00:25:07,819 --> 00:25:09,498
+Mais c'est pas une question de talent...
+
+588
+00:25:09,598 --> 00:25:11,047
+OK ? C'est une question de look.
+
+589
+00:25:11,126 --> 00:25:13,402
+C'est pourquoi nous avons décidé
+d'engager...
+
+590
+00:25:13,628 --> 00:25:15,666
+- Brent.
+- Bien, on a fini.
+
+591
+00:25:15,727 --> 00:25:18,197
+Ça n'est pas une question de talent,
+t'es pas le plus doué...
+
+592
+00:25:18,297 --> 00:25:19,770
+mais tu lui ressembles vraiment.
+
+593
+00:25:19,916 --> 00:25:21,467
+Et avec une seule lettre qui change,
+
+594
+00:25:21,659 --> 00:25:23,596
+c'est plus facile pour la transition.
+
+595
+00:25:24,613 --> 00:25:25,625
+Attends.
+
+596
+00:25:26,903 --> 00:25:28,025
+Bret, c'est toi ?
+
+597
+00:25:29,381 --> 00:25:31,354
+Qu'est-ce que tu fais là ?
+T'as rien à faire ici.
+
+598
+00:25:31,454 --> 00:25:32,880
+Je veux revenir dans le groupe.
+
+599
+00:25:33,016 --> 00:25:35,872
+Tu serais venu 30 minutes plus tôt,
+t'aurais pu faire l'audition.
+
+600
+00:25:35,979 --> 00:25:37,868
+- C'est trop tard.
+- Brent est dans le groupe.
+
+601
+00:25:38,343 --> 00:25:39,519
+Et ton boulot ?
+
+602
+00:25:39,693 --> 00:25:42,004
+Eddie dit que je peux faire les deux,
+donc...
+
+603
+00:25:43,175 --> 00:25:45,493
+Il veut vraiment aider le groupe,
+en fait.
+
+604
+00:25:45,886 --> 00:25:47,590
+Il nous a fait cette pancarte.
+
+605
+00:25:48,412 --> 00:25:49,417
+Hot dogs.
+
+606
+00:25:49,679 --> 00:25:51,083
+Non, celui là.
+Celui là.
+
+607
+00:25:52,068 --> 00:25:55,010
+- C'est fantastique.
+- C'est vraiment super.
+
+608
+00:25:56,134 --> 00:25:58,273
+Tu sais...
+tu as beaucoup manqué à Jemaine.
+
+609
+00:25:59,122 --> 00:26:00,635
+- Non, pas du tout.
+- Mais si.
+
+610
+00:26:00,850 --> 00:26:02,602
+- Non, pas du tout.
+- Mais si.
+
+611
+00:26:02,702 --> 00:26:04,023
+À toi, il a manqué.
+
+612
+00:26:04,123 --> 00:26:05,655
+- T'étais...
+- Tu lui as manqué.
+
+613
+00:26:05,755 --> 00:26:07,666
+Un peu...
+Rappelle-toi, il t'as manqué.
+
+614
+00:26:07,766 --> 00:26:09,342
+Tu... nous as manqué à tous les deux.
+
+615
+00:26:10,534 --> 00:26:12,238
+Désolé, tout le monde.
+
+616
+00:26:12,878 --> 00:26:15,973
+Mauvaise nouvelle.
+Voici Bret, il va prendre la place.
+
+617
+00:26:16,436 --> 00:26:17,439
+Alors...
+
+618
+00:26:17,544 --> 00:26:19,470
+- Oui, c'est tout je crois...
+- Et pour Brent ?
+
+619
+00:26:19,570 --> 00:26:21,700
+Oui, Brent... Désolé.
+
+620
+00:26:22,357 --> 00:26:23,924
+On garde ton numéro.
+
+621
+00:26:24,213 --> 00:26:27,780
+Les autres, merci beaucoup,
+bonne journée et...
+
+622
+00:26:28,363 --> 00:26:29,885
+Oui, content de te revoir, Bret.
+
+623
+00:26:30,803 --> 00:26:34,438
+¤AkaZab¤ / Birdyben / Ju / Ledje
+

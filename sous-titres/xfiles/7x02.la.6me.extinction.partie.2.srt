@@ -1,0 +1,376 @@
+{445}{525}On a épuisé tout recours|médicaI et scientifique.
+{527}{635}On ne trouve rien. Ni maIadie,|ni indices, seuIement des symptômes.
+{635}{785}L'activité de son Iobe temporeI est teIIe|qu'eIIe détruit son cerveau.
+{787}{905}Assez! C'est trop de brutaIité pour une mère.
+{905}{985}- DésoIé, je vouIais...|- Vous ne faites que Ie droguer.
+{1000}{1055}Vous Ie transformez...
+{1085}{1140}en zombie.
+{1320}{1385}Je sais que tu m'entends, Fox.
+{1387}{1462}- Fais-moi un signe.|- Je t'entends, maman.
+{1485}{1570}- Fox.|- Maman, je t'entends.
+{1590}{1632}Je suis Ià.
+{1635}{1732}- Je t'aime, mon chéri.|- Maman, où vas-tu?
+{1852}{1907}Reviens, maman!
+{2480}{2572}''Si, banni de fortune|et de faveur humaine...''
+{2575}{2637}Mais ta maman t'aime toujours.
+{2640}{2780}Une mère ne souhaite que protéger son enfant|de Ia souffrance et du danger.
+{2782}{2877}Qu'iI soit aussi en sécurité|dans Ie monde que dans son ventre.
+{2880}{2965}Mais on croit qu'un père exige pIus|que Ia survie de son fiIs.
+{2965}{3057}On craint peut-être qu'iI n'exige|I'aduIation généraIe,
+{3060}{3140}Ia réussite, I'héroisme.
+{3200}{3262}Je sais que tu m'entends.
+{3310}{3460}Toujours. Même quand des miIIiers|de voix résonnent dans ma tête,
+{3462}{3542}je vous entends|comme un serpent qui siffIe.
+{3545}{3620}Comment êtes-vous entré?
+{3622}{3705}Pourquoi tout ce que je fais te surprend?
+{3707}{3805}Tu t'attends à ce que je sorte|mes crocs de vampire?
+{3807}{3870}Vous êtes venu me tuer.
+{3905}{4000}C'est toujours mieux|que de vivre comme un zombie.
+{4332}{4402}Je te Iaisse Ie choix.
+{4462}{4530}- QueI choix?|- La vie ou Ia mort.
+{4567}{4702}Tu as régIé tes comptes avec moi,|avec Dieu, avec Ie fisc, Ie FBI.
+{4715}{4840}- Lève-toi et viens avec moi.|- Je meurs, imbéciIe.
+{4840}{4902}Si je pouvais me Iever,|je vous en foutrais une.
+{4905}{4965}Ne sois pas si théâtraI.
+{4965}{5087}SeuIe une partie de toi meurt.|CeIIe qui ajoué Ies héros.
+{5100}{5150}Tu as assez souffert.
+{5160}{5270}Pour ton travaiI,|pour ta coéquipière, pour Ie monde.
+{5272}{5327}Tu n'es pas Ie Christ.
+{5345}{5410}Tu n'es pas Ie prince HamIet.
+{5437}{5492}Tu n'es même pas RaIph Nader.
+{5495}{5600}Tu pourrais sortir de cet hôpitaI|et Ie monde t'oubIierait.
+{5600}{5637}Lève-toi.
+{5815}{5885}Qu'est-ce que vous me faites?
+{5887}{5985}Je te montre comment|prendre Ia route interdite.
+{5987}{6042}Prends ma main.
+{6100}{6200}- Pourquoi?|- Tu ne Iis pas dans mes pensées?
+{6217}{6292}Non. Je n'y arrive pas.
+{6332}{6395}Toutes Ies voix ont disparu.
+{6395}{6450}Prends ma main, Fox.
+{6495}{6565}Tu dois faire Ie premier pas.
+{6625}{6695}Prends ma main.
+{6772}{6822}Je suis ton père.
+{7297}{7367}ACTIVITE PARANORMALE
+{7482}{7547}LE GOUVERNEMENT NOUS MENT
+{8275}{8400}Nous n'avons pas Ie temps de céder|à Ia fatigue. L'agent MuIder non pIus.
+{8400}{8465}Comment êtes-vous entré?
+{8490}{8592}C'était faciIe. L'important,|c'est ce qu'on fait à I'intérieur.
+{8595}{8645}C'est-à-dire?
+{8645}{8750}Vous êtes Ia seuIe à avoir Ie droit|de Ie voir. N'en abusez pas.
+{8760}{8875}Comme vous? En risquant de Ie tuer à|Ia phénytoine pour un peu de Iucidité?
+{8877}{8957}C'est ce que vouIait MuIder.|II sait ce qu'iI a.
+{8960}{9055}II veut seuIement Ie prouver.|C'est pour ça qu'iI m'a récIamé.
+{9057}{9122}Je n'y crois pas.
+{9125}{9230}II y a deux ans, iI a été infecté par|un virus qu'iI croit extraterrestre.
+{9232}{9360}Un virus réactivé par une source|d'énergie égaIement extraterrestre.
+{9375}{9487}MuIder est Ia preuve vivante de|ce qu'iI soupçonne depuis Iongtemps:
+{9490}{9540}I'existence des extraterrestres.
+{9542}{9690}Extraterrestre ou pas, ce virus Ie tue.|II faut trouver un traitement.
+{9747}{9822}Détruisez ce virus|etje vous détruis.
+{10180}{10272}- AIIez tout de suite à I'hôpitaI.|- Que s'est-iI passé?
+{10275}{10332}MuIder a disparu.
+{10382}{10510}II était surveiIIé. Un homme gravement|maIade ne disparati pas comme ça.
+{10512}{10580}- Je sais.|- Comment est-ce arrivé?
+{10582}{10642}Sa mère I'a fait sortir.
+{10645}{10705}- Sa mère?|- C'est ce qu'iIs disent.
+{10707}{10770}QueIqu'un Iui a parIé?
+{10772}{10872}Je vous Iaisse faire. Mieux vaut|ne pas m'impIiquer dans I'affaire.
+{10875}{10990}II ne s'agit pas d'une simpIe affaire.|II s'agit de MuIder.
+{10992}{11122}J'essaie de I'aider en restant|à I'écart à partir de maintenant.
+{11125}{11147}Monsieur!
+{11215}{11287}Je suis en danger.
+{11290}{11442}Moins j'en sais sur Ies agissements|de MuIder et Ies vôtres, mieux c'est.
+{11887}{11960}L'enfant est Ie père de I'homme.
+{11962}{12042}Tu as dormi Iongtemps.
+{12045}{12167}II faudra du temps avant que|tu retrouves ton ¨rythme de sommeiI.
+{12257}{12325}Tu veux une expIication?
+{12327}{12385}Je ne sais pas.
+{12385}{12497}Pendant que tu étais inconscient à I'hôpitaI,|mes médecins t'ont étudié.
+{12500}{12525}Pourquoi?
+{12527}{12660}J'ai compris que si Ie Syndicat|ne te tuait pas, Ie FBI Ie ferait.
+{12672}{12797}Et que si Ie FBI ne te tuait pas,|ton héroisme maI avisé Ie ferait.
+{12800}{12875}II n'y a aucune issue pour toi.
+{12875}{13010}Ton seuI moyen de défier|Ia mort est de disparati re.
+{13010}{13145}- On ne disparati pas comme ça.|- On I'a fait avec des civiIisations.
+{13147}{13270}Comme moi, tu vas devenir|un homme sans nom.
+{13297}{13450}Ton identité te manquera, mais|tu prendras goût aux pIaisirs simpIes.
+{13452}{13505}Ce sera difficiIe avec ça.
+{13505}{13590}Quand tu ne voudras pIus fuir,|on te Ies enIèvera.
+{13592}{13642}Comment tu te sens?
+{13645}{13702}Beaucoup mieux.
+{13780}{13835}Je dois parIer à ScuIIy.
+{13835}{13940}Si tu entres en contact avec eIIe,|tu Ia mets en danger.
+{13955}{14130}Tu es un témoin sous haute surveiIIance|sans contact avec I'extérieur.
+{14320}{14395}Je peux t'offrir une cigarette?
+{14395}{14485}- Je ne fume pas.|- Tu vas peut-être t'y mettre.
+{15562}{15605}Pas un geste!
+{15607}{15650}Qui est Ià?
+{15652}{15755}Je n'ai pas vouIu vous faire peur.|AIbert Hosteen.
+{15825}{15907}Que faites-vous ici?|Comment êtes-vous entré?
+{15920}{16005}- Je suis désoIé de vous surprendre.|- Me surprendre?
+{16045}{16105}Vous êtes Ià, devant moi...
+{16107}{16222}La dernière fois que je vous ai vu,|c'était au Nouveau-Mexique.
+{16225}{16335}- Vos médecins craignaient Ie pire.|- J'espérais voir votre coéquipier.
+{16337}{16412}- II a disparu.|- Vous devez Ie sauver.
+{16442}{16535}- II est très maIade.|- II faut Ie trouver au pIus vite.
+{16535}{16647}Pas seuIement pour Iui,|mais pour Ie bien de tous.
+{17020}{17095}- Où sommes-nous?|- A Ia maison.
+{17150}{17212}C'est ta nouveIIe vie.
+{17297}{17355}Je ne comprends pas.
+{17510}{17577}Tu peux partir maintenant.
+{17580}{17685}Retrouver ScuIIy, tes dossiers|et Ia mort toute proche.
+{17702}{17810}Ca ne m'étonnerait pas de toi.|Mais tu devrais jeter un oeiI.
+{17810}{17940}Tu ne saurais même pas|ce que tu Iaisses derrière toi.
+{18197}{18315}MuIder a été emmené peu avant 2 h du matin.|Sa mère a signé Ies papiers.
+{18317}{18442}C'est son écriture. EIIe I'a fait|sortir contre avis médicaI.
+{18477}{18625}Jusque-Ià, rien d'iIIégaI.|Mais regardez Ia caméra du couIoir.
+{18627}{18687}CeIIe de sa chambre.
+{18690}{18755}Et deux autres caméras du paviIIon.
+{18765}{18905}On pense qu'iI y avait|trois autres compIices. Regardez ça.
+{18950}{19017}On joue à cache-cache?
+{19120}{19197}EIIe parIe à queIqu'un.
+{19315}{19365}Je sais à qui.
+{19470}{19515}Bonjour!
+{19622}{19677}II y a queIqu'un?
+{20052}{20102}Graines de tournesoI
+{20235}{20382}IIs peuvent changer ton nom,|mais pas ce que tu aimes.
+{20427}{20482}C'est impossibIe.
+{20507}{20575}Tu es mort.
+{20590}{20642}SeuIement très détendu.
+{20662}{20750}ScuIIy t'a vu te faire tuer...
+{20765}{20835}sur Ie pont, iI y a six ans.
+{20835}{20910}J'étais sûr que tu étais mort.
+{21000}{21085}Une baIIe très bien pIacée...
+{21120}{21255}Un point dans Ia vie d'un homme et|c'est un nouveau chapitre qui commence.
+{21275}{21395}Je vais bien, fiston.|Hormis une petite synovite du coude.
+{21670}{21730}Je me suis cru responsabIe de ta mort.
+{21745}{21810}Tu peux oubIier tout ça. Je suis en vie.
+{21825}{21877}Je t'ai cru mort pour ma cause.
+{21880}{21982}Oui, ainsi que Ia soeur de ScuIIy,|I'homme que tu prenais pour ton père,
+{21985}{22147}Duane Barry|et Ia mystérieuse maIadie de ScuIIy.
+{22150}{22215}Tu peux oubIier ta cuIpabiIité.
+{22217}{22360}Tu n'es pas Ie centre de I'univers,|tu ne décides pas de Ia vie et de Ia mort.
+{22362}{22532}Toi et moi ne sommes que|Ies pantins d'un gigantesque dessein.
+{22580}{22697}Tu as assez souffert.|Tu devrais profiter de Ia vie.
+{22700}{22757}Je vais te montrer queIque chose.
+{22830}{22905}Voici ma femme et mes fiIIes.
+{22907}{23055}On vit en bas de Ia rue. J'espère|que tu te joindras à nous pour dîner.
+{23640}{23702}C'est rien, bonhomme.
+{23715}{23820}Tu peux Ie reconstruire. Recommence.
+{24090}{24145}Qui est Ià?
+{24200}{24280}- Qui êtes-vous?|- QueIIe joie immense
+{24282}{24360}que d'ouvrir sa porte|et d'être accueiIIi par une femme.
+{24362}{24457}Le bonheur d'un feu de cheminée|et d'une joIie tabIe.
+{24460}{24572}Et quand iI est tard, Iajoie|de Ia sentir te prendre dans ses bras.
+{25347}{25460}Vous êtes chez Tina MuIder. Je ne suis pas Ià,|mais Iaissez-moi un message.
+{25462}{25522}C'est Dana ScuIIy.
+{25562}{25665}Vous pouvez toujours me joindre|au bureau de votre fiIs, au FBI.
+{25667}{25720}Merci.
+{25795}{25867}CROYANCES ET PRATIQUES|DES INDIENS D'AMERIQUE
+{25957}{26025}Correspondance interne
+{26727}{26812}Toute une cuIture indienne|disparati sans Iaisser de trace
+{26875}{27015}L'apocaIypse et Ia 6e extinction
+{27180}{27250}- Skinner.|- Vous m'avez envoyé ce Iivre?
+{27250}{27300}Pardon?
+{27300}{27450}II expIique tout ce que j'ai trouvé en Afrique.|II utiIise Ies mêmes symboIes.
+{27450}{27552}- Je vous ai dit de ne pas m'impIiquer.|- Tout est Ià.
+{27555}{27615}La prédiction d'une extinction massive,
+{27617}{27720}Ie mythe d'un homme qui nous sauvera.|C'est pour ça qu'iIs ont pris MuIder.
+{27737}{27850}IIs croient que sa maIadie est un don,|une protection contre Ia peste à venir.
+{28055}{28177}Le sous-directeur m'a donné I'ordre|de ne pas vous Iaisser entrer.
+{28302}{28365}Vous êtes bIessé?
+{28365}{28417}Vous saignez?
+{28420}{28470}AppeIez queIqu'un.
+{28597}{28655}Arrêtez cet homme!
+{29490}{29540}Bonjour.
+{29590}{29670}- Qu'est-ce qui ne va pas?|- Rien.
+{29670}{29725}C'est parfait.
+{29725}{29827}- Tout est parfait. Je fous quoi ici?|- Tu as besoin d'un café.
+{29830}{29992}Je suis sérieux. J'ai des engagements|envers mon service, ScuIIy, ma soeur...
+{29995}{30140}Tu crois savoir ce que I'engagement|veut dire? Tout ça est très immature.
+{30142}{30307}Tu n'as eu que Ies responsabiIités|d'un enfant, de tes rêves et fantasmes.
+{30310}{30455}Tu ne connais Ia vraie responsabiIité|qu'en goûtant au monde...
+{30497}{30560}et en devenant père.
+{30745}{30837}Diana, tu me baIances tout ça|après une nuit ensembIe,
+{30840}{30910}qu'est-ce que ce sera demain?
+{30912}{31012}- Tu dois tourner Ia page.|- Je dois pIonger dans Ia béatitude
+{31015}{31167}après avoir été emmené ici par un homme|qui continue de faire son saIe bouIot?
+{31170}{31247}II habite deux rues pIus Ioin.
+{31250}{31320}On ira Ie voir après Ie petit-déjeuner.
+{31512}{31592}Vous I'avez dit à queIqu'un?
+{31595}{31677}- De quoi parIez-vous?|- Un homme a attaqué Skinner.
+{31680}{31765}- Pourquoi?|- A cause de ce qu'iI sait sur MuIder.
+{31817}{31872}Je ne I'ai dit à personne.
+{32167}{32297}C'est quoi? Vous avez piraté mes fichiers.|Que faites-vous avec ça?
+{32300}{32350}- Je Ies fais anaIyser.|- Par qui?
+{32350}{32430}- L'Institut nationaI de Ia santé.|- Quoi?
+{32432}{32537}Ces données, ces codes qui parIent|de génétique humaine avancée,
+{32540}{32587}où Ies avez-vous trouvés?
+{32590}{32655}Ca devait rester confidentieI.
+{32655}{32745}Ces données corroborent|Ia maIadie de MuIder.
+{32745}{32835}EIIes prouvent qu'iI est devenu|bioIogiquement extraterrestre.
+{32892}{32950}Que cachez-vous?
+{32950}{33042}- Ca n'a pas d'importance.|- Pour queIqu'un, si.
+{33045}{33150}Je ne sais pas qui, mais on dirait|qu'iI cherche aussi MuIder.
+{33152}{33205}Effacement en cours...
+{33477}{33580}Je ne t'attendais pas si tôt.|Je pensais que tu voudrais t'instaIIer.
+{33582}{33727}II faut aIIéger sa peine.|Certaines choses Iui sembIent inachevées.
+{33730}{33812}Par exempIe, pourquoi|votre maison est pIus grande?
+{33815}{33930}J'ai queIques bouches à nourrir.|Trois petits-enfants
+{33930}{34010}et... ta soeur.
+{34122}{34232}EIIe a toujours vécu ici.|La vie à IaqueIIe tu as renoncé.
+{34515}{34580}II m'avait dit que tu venais.
+{34595}{34717}Un père espère beaucoup de son fiIs,|mais pas de Ie voir changer Ie monde.
+{34720}{34840}Je suis teIIement fier de cet homme,|de sa capacité à souffrir.
+{34842}{34905}TeI père, teI fiIs.
+{34955}{35075}On croit que sa maIadie Ie tue,|mais iI n'ajamais été pIus en vie.
+{35105}{35195}- Vous croyez qu'iI rêve?|- J'en suis sûr.
+{35212}{35260}Je me demande de quoi.
+{35262}{35337}De ce dont rêve tout homme|prisonnier du monde:
+{35340}{35445}d'une vie pIeine de pIaisirs simpIes.
+{35457}{35600}Les hommes extraordinaires sont tentés|par Ies choses Ies pIus ordinaires.
+{35600}{35660}II ne Iui reste que ses rêves.
+{35755}{35820}SIEGE DU FBI|WASHINGTON D.C.
+{36075}{36145}- Vous avez une cigarette, FowIey?|- Je ne fume pas.
+{36145}{36247}Vraiment? J'aurais juré|que vous sentiez Ia cigarette.
+{36282}{36357}- Ne tournons pas autour du pot.|- Bonne idée.
+{36522}{36605}- Où est MuIder?|- Avant d'accuser tout Ie monde
+{36607}{36720}de sa maIadie, demandez-vous ce que|vous auriez pu faire pour I'éviter.
+{36722}{36792}Je veux que vous réfIéchissiez.
+{36795}{36865}Pensez à MuIder|quand vous I'avez rencontré.
+{36867}{36945}Pensez à Ia vie prometteuse|qui Iui tendait Ies bras.
+{36945}{37010}Pensez à Iui maintenant.
+{37010}{37115}Puis osez me regarder droit dans Ies yeux,
+{37117}{37225}et dites-moi que MuIder|ne risquerait pas sa vie pour vous.
+{37227}{37290}Je pense, agent ScuIIy.
+{37327}{37387}Je pense toujours.
+{37527}{37630}C'est une chance inattendue,|voire inespérée.
+{37632}{37735}Après toutes ces années à tenter|de créer un hybride mi-homme mi-aIien,
+{37735}{37780}en avoir un sous Ia main...
+{37782}{37912}Toutes ces années à se demander|pourquoi garder MuIder en vie,
+{37915}{38002}aIors qu'iI était si simpIe d'éIiminer|Ia menace qu'iI représentait?
+{38005}{38130}- Vous ne pouviez pas prévoir.|- II est devenu notre sauveur.
+{38132}{38240}II est immunisé contre Ie virus|apocaIyptique. C'est un héros.
+{38240}{38315}L'opération peut Iui coûter Ia vie.
+{38360}{38420}C'est Ie destin de tout héros.
+{38992}{39057}II faut y aIIer, chéri.
+{39865}{39930}Ne pensez pas à I'homme.
+{39932}{40050}Pensez au sacrifice qu'iI fait|pour Ie monde entier.
+{40052}{40132}J'aurais aimé Iui Iaisser Ie choix.
+{40165}{40240}Vous ne croyez pas|que c'est ce qu'iI aurait choisi?
+{40240}{40367}Devenir ce qu'iI a cherché pendant|si Iongtemps? En faire I'expérience?
+{40395}{40445}II est ce qu'iI cherchait.
+{40447}{40570}- On ne Ie saurajamais.|- Sa mission est presque terminée.
+{40570}{40645}Le fardeau pèse sur moi à présent.
+{40955}{41015}Je sais pour Ie garçon.
+{41072}{41210}Le garçon sur Ia pIage. CeIui de ta vision.
+{41262}{41362}On fait tous ce genre de rêve,|né de Ia mémoire et du désir.
+{41385}{41480}Je I'ai vu des miIIiers de fois.
+{41512}{41582}Mais je n'ai jamais vu|ce qu'iI vouIait me montrer.
+{41592}{41700}Ferme Ies yeux. II est prêt|à te Ie montrer, si tu es prêt à voir.
+{42132}{42232}- Qu'est-ce que c'est?|- Un objet voIant non identifié.
+{42235}{42317}Qu'est-ce que tu fais?|Pourquoi tu détruis ton vaisseau?
+{42320}{42397}C'est ton vaisseau. C'est toi qui Ie détruis.
+{42400}{42467}Tu devais m'aider!
+{42655}{42707}Le temps presse.
+{42717}{42802}Pourquoi me poursuivez-vous?
+{42805}{42895}- AIors que je ne peux pas Ie trouver.|- Vous cherchez maI.
+{42895}{42970}- Vous ne comprenez pas.|- Vous ne savez pas où iI est?
+{42970}{43100}Je ne sais pas comment Ie sauver.|Cette science n'a aucun sens pour moi.
+{43102}{43182}L'avez-vous cherché ici?
+{43280}{43345}Vous me demandez de prier?
+{43552}{43675}II y a pIus de mondes|que ceIui qu'on tient dans sa main.
+{43885}{43887}J'espère que vous voyez Ie côté poétique.
+{43887}{43945}J'espère que vous voyez Ie côté poétique.
+{43947}{44010}Oter à votre fiIs|ses données génétiques peut Ie tuer.
+{44012}{44107}On encIenche Ia prochaine phase d'évoIution|pour sauver I'humanité.
+{44120}{44182}On fait Ie travaiI de Dieu.
+{44185}{44312}Sans cette immunité, tout Ie monde mourra.|EIIe est une bénédiction.
+{44342}{44412}Je vais reprendre Ie fIambeau.
+{44937}{44992}MuIder est réveiIIé.
+{44995}{45090}- L'anesthésie ne fait pIus d'effet.|- On ne peut pas aIIer pIus Ioin.
+{45092}{45160}- Est-ce qu'iI souffre?|- EncéphaIogramme pIat.
+{45162}{45282}- On ne peut pas Ie droguer pIus.|- Finissons-en.
+{46005}{46060}Repose-toi maintenant.
+{46150}{46210}Tu peux ouvrir Ies rideaux?
+{46242}{46302}J'aimerais regarder dehors.
+{46320}{46377}Je vouIais que tu sois en paix.
+{46427}{46480}Où est Samantha?
+{46482}{46550}Ta soeur est morte iI y a cinq ans.
+{46740}{46810}Et Gorge Profonde?
+{46832}{46900}On en a déjà parIé. II est mort.
+{46955}{47010}Diana est morte.
+{47032}{47082}Et ScuIIy.
+{47127}{47215}- ScuIIy est morte?|- Oui.
+{47320}{47390}II est temps que tu Iâches prise.
+{47415}{47505}IIs t'attendent, si tu es d'accord.
+{47630}{47680}Ferme Ies yeux.
+{47970}{48055}Nous sommes Ies derniers, toi et moi.
+{48067}{48117}La fin.
+{48152}{48207}Et Ie commencement.
+{48367}{48427}II n'y a rien à faire.
+{48450}{48515}AbsoIument rien.
+{50840}{50887}MINISTERE DE LA DEFENSE
+{51747}{51830}ScuIIy. Je savais que tu viendrais.
+{51962}{52020}IIs ont dit que tu étais morte.
+{52022}{52087}Et tu Ies as crus?
+{52115}{52185}- Trati re.|- Quoi?
+{52185}{52250}Déserteur. Lâche.
+{52252}{52327}ScuIIy, arrête. Je suis mourant.
+{52330}{52420}Tu n'es pas censé mourir. Pas ici.
+{52457}{52550}- Comment ça?|- Quand Ie diabIe est dehors.
+{52550}{52625}Tu ne comprends pas. II a pris soin de moi.
+{52637}{52720}Non, iI t'a bercé pour t'endormir.
+{52745}{52835}II t'a fait abandonner|ta vraie mission pour du confort.
+{52837}{52900}II n'y avait pas de mission.
+{52927}{53005}Ni d'extraterrestres.
+{53007}{53060}Tu as regardé dehors?
+{53155}{53205}Je ne peux pas.
+{53230}{53297}Je suis trop fatigué.
+{53300}{53397}Non, MuIder, tu dois te Iever.
+{53400}{53470}Tu dois te Iever et te battre.
+{53472}{53525}Surtout toi.
+{53525}{53585}Tu n'es pas à ta pIace.
+{53587}{53702}Lève-toi, MuIder. Lève-toi et bats-toi.
+{53880}{53932}Où est ScuIIy?
+{54675}{54752}II faut te réveiIIer.
+{54755}{54825}Je dois te sortir d'ici.
+{54865}{54935}Tu comprends ce que je dis?
+{55100}{55157}Tu dois te Iever.
+{55185}{55302}J'ignore combien de temps on a.|Tu dois te Iever.
+{55340}{55397}Toi seuI peux Ie faire.
+{55470}{55510}Aide-moi.
+{55605}{55655}Je t'en prie, MuIder.
+{55967}{56020}Toi...
+{56022}{56077}Aide-moi.
+{56275}{56345}UNE SEMAINE PLUS TARD
+{56427}{56555}Qu'est-ce que tu fais Ià?|Je m'habiIIais pour venir te voir
+{56555}{56627}etje cherchais une cravate|pour aIIer avec ma casquette.
+{56630}{56760}- Pas de travaiI. Retourne te coucher.|- Je ne sors jamais sans ma cravate!
+{56810}{57002}ScuIIy, je venais t'annoncer|Ia mort d'AIbert Hosteen.
+{57037}{57092}II est mort hier au Nouveau-Mexique.
+{57095}{57192}II était dans Ie coma depuis deux semaines.|II n'a pas pu venir te voir.
+{57195}{57255}II était Ià. On a prié ensembIe.
+{57320}{57415}Je ne te crois pas. C'est impossibIe.
+{57432}{57582}Est-ce pIus impossibIe que|ce que tu as vu en Afrique, ou en moi?
+{57700}{57765}Je ne sais pIus quoi croire.
+{57825}{57917}J'étais teIIement décidée à trouver|un traitement pour te sauver,
+{57920}{58000}que j'ai tout à fait pu nier ce que je voyais.
+{58000}{58095}Je ne sais pIus où est Ia vérité,
+{58095}{58195}qui écouter, à qui faire confiance.
+{58332}{58422}Diana FowIey a été|retrouvée morte, ce matin.
+{58485}{58545}Je ne Iui faisais pas confiance...
+{58572}{58660}mais eIIe t'a autant sauvé Ia vie que moi.
+{58742}{58807}EIIe m'a donné ce Iivre.
+{58845}{58920}C'est sa carte qui m'a menée à toi.
+{58920}{58970}Je suis désoIée.
+{58997}{59085}Vraiment désoIée.|Je sais que c'était ton amie.
+{59217}{59322}J'étais comme toi avant.|Je ne savais pas à qui faire confiance.
+{59325}{59485}J'ai choisi une autre vie,|un autre destin, où j'ai trouvé ma soeur.
+{59527}{59662}Et même si je ne reconnaissais pas|ce monde à I'envers,
+{59665}{59750}une chose restait pourtant immuabIe.
+{59800}{59922}Tu étais mon amie|et tu me disais Ia vérité.
+{59997}{60162}Même quand Ie monde s'écrouIait,|tu étais ma constante, mon repère.
+{60225}{60285}Et toi Ie mien.
+{62310}{62382}Sous-titrage Visiontext:|JuIie Dutertre
+{62872}{62922}FRENCH

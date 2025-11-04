@@ -1,0 +1,557 @@
+{002304}{002331}Les Soprano
+{002335}{002371}Il est ressuscité
+{002697}{002778}C'est de la folie !
+{002783}{002813}Salut !
+{002818}{002921}Ma parole !|Tu m'as dit "salut" ? T'es trop sympa.
+{002927}{003012}Je l'ai toujours su.|Serre-moi dans tes bras.
+{003058}{003128}Faut que tu essaies.|Envolée la déprime !
+{003134}{003171}Essayer quoi ?
+{003177}{003223}L'ecstasy !
+{003228}{003333}- Qui te l'a donné ?|- Ton ami.
+{003338}{003437}- Qu'est-ce qu'il fout à Columbia ?|- Super craquant !
+{003441}{003548}Nos familles sont amies.|On se connaît depuis toujours.
+{003585}{003623}Ça te plaît ?
+{003627}{003678}C'est toi que je choisis.
+{003808}{003838}Tu t'éclates ?
+{003842}{003918}- Pas autant que Caitlin.|- Comment elle m'a maté !
+{003924}{003980}Une bouseuse d'Oklahoma.
+{003985}{004029}Tu es dans une fraternité ?
+{004033}{004078}Rutgers Chapter.|Depuis ma 1 ère année.
+{004092}{004142}Je suis venu ici pour te voir.
+{004146}{004192}Il te reste des ecstas ?
+{004205}{004267}Pour toi, le premier est gratuit.
+{004474}{004571}- Dis rien à ton père.|- On se parle même plus.
+{004714}{004764}Je vous nique tous !
+{004908}{004946}Il a encore les dés ?
+{004952}{004990}C'est moi le maître, ici.
+{004994}{005073}Tu fais de moi|un homme riche, Ralphie.
+{005151}{005193}Le patron.
+{005251}{005309}- Salut.|- Je vous sers quoi ?
+{005468}{005546}Faccia di merda,|il vient pas dire bonjour ?
+{005555}{005600}Tu as un nouveau costume ?
+{005746}{005825}- Déconne pas. Le boss est là.|- Je suis chaud.
+{005831}{005875}Et tu vas te faire refroidir.
+{005997}{006042}Excuse-moi. Cet empaffé...
+{006379}{006405}Bonsoir, Anthony.
+{006625}{006665}T'as bonne mine.
+{006831}{006863}Tu veux un verre ?
+{006888}{006917}Une autre fois.
+{006994}{007036}Une autre fois.
+{007262}{007321}Butons-le une fois pour toutes.
+{007369}{007413}Je suis ici pour m'amuser.
+{007544}{007579}Je bande à mort.
+{007708}{007761}Non, Jackie, arrête.
+{008016}{008048}Réveille-toi.
+{008071}{008108}J'ai sommeil.
+{008114}{008248}Tu as bu trop de tequila.|Je peux pas m'arrêter maintenant.
+{009066}{009159}- "Une autre fois" ?|- Envoyer chier le boss !
+{009163}{009233}- J'y crois pas.|- J'aurais dû le flinguer.
+{009238}{009323}Paulie risque de revenir|sur le sujet.
+{009328}{009400}Ralphie a le vent en poupe.
+{009409}{009505}Tous les syndicats.|Paulie rapportera jamais autant.
+{009514}{009633}- Ralphie assure.|- Mais il est incontrôlable.
+{009638}{009691}Il peut te faire|Le coup de Jack Ruby.
+{009697}{009822}- Il a fallu que je frappe ce connard !|- Franchement, ça m'a surpris.
+{009826}{009913}Tu t'en prends à moi, maintenant ?|Il a semé la pagaille au Bing.
+{009923}{009975}Et il y remettra plus les pieds.
+{010056}{010181}- Il a défoncé le crâne de cette gosse.|- Je suis d'accord. Je sais.
+{010185}{010268}C'est tragique.|Mais...
+{010274}{010310}vous n'aviez aucun lien...
+{010314}{010385}ni par le sang ni par alliance.|La fille n'était pas ta poule.
+{010391}{010444}Ralphie est un des nôtres.
+{010452}{010524}Il a pas tout à fait tort|de t'en vouloir.
+{010545}{010659}Fais-le disparaître. Ou fais la paix.|T'as que deux solutions.
+{010756}{010832}Tu pourrais essayer...|de lui faire des excuses.
+{010838}{010868}Je l'emmerde.
+{010878}{010948}Fais un geste pour montrer|qu'il n'y a pas d'embrouille.
+{010959}{011014}Donne-lui une part du casino.
+{011063}{011105}On est associés avec New York.
+{011110}{011173}Et je le veux pas trop près|de Johnny Sack.
+{011177}{011284}Tu pourrais le nommer capitaine.|Tu sais que c'est ce qu'il veut.
+{011312}{011390}Ralphie, un putain de capitaine ?
+{011429}{011503}Faudra me passer sur le corps.
+{011656}{011706}Vous avez vu, tout à l'heure ?
+{011712}{011779}La gueule de Tony|quand je l'ai rembarré.
+{011783}{011828}Me payer un verre ? Je t'emmerde.
+{011833}{011893}Il sait qu'il a eu tort|de me frapper.
+{011897}{011963}C'est le boss.|Il peut faire ce qu'il veut.
+{011969}{012043}Boss ou pas, tu frappes pas|un autre membre.
+{012048}{012130}Joe Mo, de Mulberry Street.|La même histoire.
+{012136}{012210}Avec un type de North Bergen.|Gros problème.
+{012216}{012248}Evidemment.
+{012252}{012331}Si on respecte pas les règles,|c'est l'anarchie, bordel.
+{012337}{012387}Tony te doit des excuses.
+{012392}{012469}Il a palpé un max grâce à moi|sur les contrats de BTP.
+{012503}{012579}Vous croyez que j'ai peur|de ce gros con ?
+{012588}{012638}Je dis pas ça pour toi.
+{012656}{012740}Si c'était sa fille...|Ou une nièce à lui.
+{012746}{012830}Mais tout ce cirque pour une pute !
+{012836}{012882}Je suis sûr qu'il la baisait.
+{012887}{012960}Non. Mais il savait que toi,|tu la baisais.
+{012964}{013076}Justement. Il est comme ça.|Comme un clébard avec deux os.
+{013089}{013199}Je suis invité chez lui|pour Thanksgiving, avec Ro.
+{013213}{013288}- Sans blague ?|- Je l'emmerde, lui et sa dinde.
+{013294}{013379}Je devrais lui coller un bâton|dans le cul.
+{013565}{013622}J'ai attrapé un resquilleur.
+{013626}{013705}Je ne voudrais pas|que mes paroissiens se méprennent.
+{013756}{013811}- Mon révérend.|- Joyeux Thanksgiving.
+{013821}{013846}Quelle corvée !
+{013850}{013911}Une dinde, des patates douces...|Ça fait envie, non ?
+{013917}{013984}Vous connaissez pas|la version ritale.
+{013998}{014080}- Antipasti pour commencer.|- Soupe.
+{014086}{014204}Boulettes de viande et salade.|Puis les manicotti au four.
+{014210}{014279}- Et ensuite, la dinde.|- J'adore les manicotti.
+{014298}{014371}- Les dindes sont là.|- Il y en a une ici.
+{014436}{014494}Aucun sens de l'orientation,|ces dindes.
+{014498}{014577}Elles partaient|pour le Food Emporium, et voilà.
+{014646}{014725}J'ai appris pour Ralph.|Il a refusé de trinquer ?
+{014767}{014805}Et alors ?
+{014811}{014934}J'ai boxé ce con dans un accès|de colère tout à fait justifié.
+{014940}{014972}C'est un problème.
+{015058}{015136}- Joyeux Thanksgiving.|- Vous aussi.
+{015141}{015235}- Joyeux Thanksgiving.|- Pour moi ? Magnifique.
+{015241}{015349}- Regarde-moi ça. Merde !|- Quoi ?
+{015355}{015431}Ce bâtard doit venir|pour Thanksgiving, avec Rosalie.
+{015440}{015503}- Il viendra pas.|- Il n'en est pas question.
+{015509}{015582}Cet enfoiré|ne devrait même pas être invité.
+{015689}{015752}Mon trésor,|je sais que tu as horreur...
+{015787}{015834}Tu as horreur qu'on te bouscule...
+{015840}{015985}mais Carmela veut savoir|si tu seras là pour Thanksgiving.
+{015989}{016026}Il y aura qui ?
+{016031}{016114}A part nous ?|Les parents de Carm, je pense.
+{016120}{016193}Génial. Et Meadow ?
+{016198}{016304}- Qui vient dîner pour Thanksgiving ?|- Comme d'habitude.
+{016310}{016387}Mamie et papy, Chris et Ade.
+{016391}{016455}Janice et un ami|de son groupe de prière.
+{016491}{016596}- Tante Rosalie et oncle Ralph.|- Jackie ne vient pas, hein ?
+{016602}{016669}- J'en sais rien. Pourquoi ?|- On peut rien demander ?
+{016675}{016708}Du calme.
+{016712}{016754}J'ai cours. A jeudi.
+{016960}{016988}C'est Rosalie.
+{016993}{017116}Ca alors ! Meadow vient de|me demander si Jackie venait dîner.
+{017123}{017239}Ah oui ? Jackie m'a posé|la même question. Mon radar clignote.
+{017245}{017313}Toi et tes romans d'amour.
+{017319}{017438}Les enfants que ces deux-là|auraient ! Avec des gènes pareils !
+{017443}{017494}Tu te souviens,|quand Meadow est née ?
+{017500}{017594}On lui a prédit plein de choses,|mais concentre-toi sur ta tourte.
+{017598}{017626}Je compte sur toi.
+{017630}{017705}- Je cherche la recette.|- Très bien.
+{017874}{017899}Voilà la dinde.
+{017903}{018021}Elle est énorme ! Tant mieux,|j'ai un régiment à nourrir.
+{018025}{018139}Moins que tu crois.|Appelle Rosalie et décommande-les.
+{018145}{018204}- Pour Thanksgiving ? Pourquoi ?|- Fais-le.
+{018208}{018291}C'est fini, les invitations|chez le patron grincheux.
+{018295}{018340}Mais que vais-je lui dire ?
+{018346}{018450}Bon, j'appelle. Mais mon excuse|sera beaucoup moins sympa.
+{018535}{018575}Bon sang, Tony !
+{018627}{018672}Encore ton estomac ?
+{018880}{018921}Docteur Akavi ?
+{018946}{019026}Gloria Trillo.|De chez Globe Mercedes.
+{019032}{019143}Dites-moi... Je viens de recevoir|une 600 S, modèle 2001.
+{019148}{019220}J'ai tout de suite pensé à vous.
+{019226}{019318}Ronce de noyer, GPS,|toutes options.
+{019324}{019371}Seulement 12 000 Km au compteur.
+{019441}{019520}Je ne pourrai pas la retenir|jusqu'à samedi.
+{019526}{019605}Demain ? Formidable.
+{019633}{019743}Désolée, je suis prise.|On a une réunion à midi.
+{019748}{019842}Entendu. Au revoir.
+{020176}{020247}- Vous attendez quelqu'un ?|- J'ai rendez-vous.
+{020252}{020294}Vous aussi ?
+{020311}{020404}J'ai avancé mon rendez-vous de jeudi|à cause de Thanksgiving.
+{020410}{020458}C'est mon rendez-vous habituel.
+{020543}{020623}J'essaie de... m'arrêter de fumer.
+{020628}{020672}Tueuse en série.
+{020685}{020727}J'ai trucidé 7 liaisons.
+{020780}{020858}Puisque vous êtes là,|prenez ma place.
+{020864}{020957}- Non, je ne peux pas faire ça.|- Ça sera ma BA de la journée.
+{021007}{021108}Carton jaune.|Vous m'avez bien dit mardi.
+{021113}{021138}Vraiment ?
+{021145}{021235}Je reviendrai la semaine prochaine...|no problemo.
+{021240}{021274}Je lui cède ma place.
+{021294}{021360}Mon travail me laisse|peu de temps libre...
+{021366}{021413}Vous voyez bien.
+{021440}{021519}Je peux vous prendre à 1 9h.
+{021654}{021701}C'était pas si difficile.
+{022071}{022096}C'est Carmela.
+{022131}{022236}Navrée d'être aussi abrupte,|mais je viens de parler à maman.
+{022242}{022295}- Qu'y a-t-il ?|- C'est mon père.
+{022301}{022379}Ses analyses sont inquiétantes.|Un problème de globules blancs.
+{022385}{022465}- Mon Dieu !|- Oui, je sais.
+{022485}{022560}Ils doivent procéder|à un examen approfondi.
+{022566}{022663}Maman veut passer Thanksgiving|seule avec lui, mais...
+{022669}{022718}Leur place est auprès de vous.
+{022723}{022796}Je me sens si mal|de t'annoncer ça sans préavis.
+{022800}{022876}Penses-tu ! J'aimerais|pouvoir faire quelque chose.
+{022882}{022981}Merci, c'est très gentil.|Evidemment, je te tiens au courant.
+{023001}{023048}Au revoir, ma chérie.
+{023253}{023361}Le père de Carm est malade.|Elle a dû annuler le dîner.
+{023518}{023602}Trois heures du matin et boum !|Je me réveille.
+{023621}{023646}Un souci particulier ?
+{023664}{023769}Un problème de gestion du personnel,|avec un subalterne.
+{023775}{023813}C'est un peu de ma faute.
+{023853}{023909}Mais il a dépassé les bornes.
+{023914}{023972}Vous pouvez m'en dire davantage ?
+{024027}{024063}Il a mis...
+{024089}{024148}en retraite anticipée...
+{024169}{024196}un autre employé.
+{024278}{024366}Les détails importent peu.|Il a merdé.
+{024414}{024516}D'ordinaire, je l'aurais...|mis hors circuit.
+{024533}{024609}Mais c'est un employé|d'une grande valeur.
+{024615}{024680}Et que vous fréquentez|en dehors du travail ?
+{024842}{024953}J'ai lu ce livre|dont vous m'avez parlé.
+{024995}{025042}L’Art de la guerre, de Sun Zi.
+{025101}{025253}Ce type-là, un général chinois,|a écrit il y a 2400 ans un bouquin...
+{025258}{025318}qui reste complètement d'actualité.
+{025322}{025409}Force ton ennemi|à montrer son vrai visage.
+{025416}{025509}Permettez-moi...|Vous courez un quelconque danger ?
+{025513}{025557}Non. Je peux poursuivre ?
+{025608}{025693}La majorité des types|que je connais lisent Machiavel.
+{025698}{025838}Carmela m'a procuré un résumé|de son oeuvre. C'est intéressant.
+{025869}{025942}Mais ce Chinois est|un bien meilleur stratège.
+{026150}{026243}Dites-moi, la femme|qui était là aujourd'hui...
+{026249}{026344}- De chez Mercedes.|- Excusez-moi pour cette erreur.
+{026357}{026476}- Elle a besoin d'un psy ?|- Je n'ai pas le droit d'en parler.
+{026556}{026615}Je suis surpris, c'est tout.
+{026902}{027008}Ecoutez, il est tard.|Il fait nuit.
+{027014}{027065}Je vous accompagne|à votre voiture ?
+{027105}{027146}Non, merci.
+{027171}{027231}J'ai du travail en retard.
+{027477}{027530}Vous voulez des bonbons ?
+{027563}{027617}Aaron... Chéri ?
+{027654}{027693}Quoi ?
+{027729}{027789}- Qui mène ?|- Tu sais pas qui joue.
+{027795}{027885}Si. Detroit joue toujours|pour Thanksgiving.
+{027909}{027988}Dommage que Barry Sanders|ne joue plus. Il était trop mignon.
+{028008}{028087}Dis-leur que je l'ai servi|quand j'étais au Kenny Rogers.
+{028098}{028202}- Colonel Sanders.|- Au Kenny Rogers. Barry Sanders.
+{028220}{028262}Ouais, elle l'a servi.
+{029075}{029133}Tu sais que je t'aime plus que tout.
+{029178}{029229}Qu'est-ce que tu racontes ?
+{029241}{029374}Ça va pas fort entre nous,|mais...
+{029398}{029504}- S'il t'arrivait quelque chose...|- Tout le monde à table ! On mange !
+{029696}{029774}Eh bien, à quelque chose|malheur est bon.
+{029784}{029827}Mes deux garçons.
+{029852}{029891}J'avais peur pour la sauce...
+{029980}{030054}Ralph, tu te sens bien ?|Tu n'as rien mangé.
+{030060}{030133}Ca va. Je te l'ai dit|combien de fois ?
+{030137}{030209}Tu n'es pas obligé de rester|pour le dessert.
+{030259}{030335}- Un peu de savoir-vivre !|- Tu l'as pas entendue ?
+{030341}{030470}C'est bon. Va donc voir si Meadow|veut aller au ciné.
+{030474}{030508}D'accord.
+{030541}{030578}Bonne soirée.
+{030683}{030780}Je vais t'apprendre un truc.|Casse une allumette de cuisine...
+{030784}{030858}et mets-la dans le trou|pour que la vis accroche.
+{030863}{030944}J'ai mis de la colle|et la poignée est tombée quand même.
+{030948}{030980}Laisse tomber.
+{031215}{031329}La narcolepsie est un authentique|trouble du sommeil. C'est pas drôle.
+{031334}{031392}Les sandwiches à la dinde arrivent !
+{031447}{031558}- Je vais refaire du café.|- Qui ça peut bien être ?
+{031563}{031657}- L'étrangleur de Boston. Maman !|- J'y vais.
+{031805}{031849}Bonjour, Jackie !
+{031861}{031980}Je crois que tu connais tout le monde,|à part Aaron, l'ami de Janice.
+{031994}{032054}- Bonjour.|- Tu connais la bonne nouvelle ?
+{032098}{032123}Il est ressuscité.
+{032131}{032195}Assieds-toi.|On va manger des sandwiches.
+{032201}{032337}Merci, j'ai déjà mangé.|Je viens voir si Meadow veut sortir.
+{032341}{032378}Aller au ciné, par exemple.
+{032440}{032518}Je comptais aller chez Hunter.|Tu as envie ?
+{032524}{032615}- Pourquoi pas.|- Donne-moi une seconde.
+{032620}{032706}Une Soprano et un Aprile ?
+{032803}{032841}Ça marche, tes études ?
+{032847}{032906}Ma moyenne est en hausse.
+{033047}{033125}Viens plutôt chez Dov avec moi.
+{033131}{033186}Hunter m'attend.
+{033602}{033731}On peut traîner tout le week-end.|Inutile de "faire" quelque chose.
+{033756}{033843}J'ai du boulot.|T'as pas de partiels ?
+{033849}{033958}- Je vais plus en cours.|- Quoi ? Pourquoi ?
+{033964}{034048}La chimie organique ?|Les nucléotides ?
+{034103}{034196}Ce qui m'intéresse,|c'est la mode masculine.
+{034200}{034303}Pas le côté pédé.|Mon modèle, c'est Hugo Boss.
+{034309}{034395}Inscris-toi au F.I.T.|C'est une bonne école.
+{034400}{034528}Allez, viens chez Dov.|J'ai trop envie de toi.
+{034586}{034645}Je ne peux pas, Jackie.
+{034739}{034783}Tu préfères ce black.
+{034829}{034901}Ce n'est pas ça.
+{034909}{034962}J'en souffre encore.
+{034993}{035046}Laisse-moi un peu de temps.
+{035732}{035762}Ca me rend folle.
+{035767}{035868}Rosalie et les autres commandent|déjà le repas de mariage.
+{035890}{035993}On s'est mariés jeunes, mais|ces deux-là sont bien trop immatures.
+{036011}{036098}D'ici là, place aux sensations...
+{036179}{036237}avec les coupés Mercedes.
+{036246}{036285}Allô, ici la Terre.
+{036332}{036382}J'ai envie d'en acheter une.
+{036397}{036442}Quoi, une Mercedes ?
+{036462}{036517}Vas-y. Elles sont jolies.
+{036561}{036650}T'es au courant ?|T a décommandé Ralph.
+{036656}{036725}- Tu déconnes.|- Madonna !
+{036731}{036779}Tony voit loin.
+{036791}{036838}Le petit Paulie !
+{036854}{036939}- Il te traite bien ?|- J'ai pas à me plaindre.
+{036966}{037058}Venez tous,|je vous offre une limonade.
+{037094}{037129}Viens t'asseoir.
+{037409}{037465}Comment ça va avec notre ami ?
+{037471}{037554}- Comme d'habitude.|- Il raconte quoi sur moi ?
+{037560}{037623}A moi ?|Rien. Il est pas bête.
+{037628}{037698}Il est toujours furax|d'être sous mes ordres.
+{037704}{037758}Plus les problèmes avec toi...
+{037763}{037814}Ton boulot,|c'est de faciliter le mien.
+{037820}{037945}Je me plains pas.|Tu me demandes. C'est un type agaçant.
+{038012}{038078}J'ignore ce qui va se passer.
+{038083}{038126}Je te promets pas|qu'il disparaîtra.
+{038132}{038256}Il y a aussi ce contrat sur le fréon.|Et ma maison est en travaux.
+{038260}{038316}Mes deux gosses|vont aller à la fac...
+{038360}{038433}Accroche-toi.|Tu fais du bon boulot.
+{038828}{038925}T'as vu ces valoches ?|Ce stress le flingue.
+{038931}{038974}Ouais...
+{038984}{039054}Il veut peut-être ma place.
+{039213}{039280}- Il me reste de la dinde.|- Non, merci.
+{039286}{039329}Reste assis, Johnny.
+{039358}{039411}Je vais chez le kiné.
+{039436}{039561}Dire qu'elle était danseuse.|Ses articulations ont souffert.
+{039671}{039778}- T'es au courant pour Thanksgiving ?|- Pas bon, tout ça.
+{039783}{039909}Qu'est-ce que je lui ai fait ?|J'ai refusé un verre. J'avais pas soif !
+{039924}{040007}Depuis mon retour de Miami,|il arrête pas de m'emmerder.
+{040011}{040121}Je lui rapporte une fortune et|ce connard n'est toujours pas content !
+{040127}{040171}Et ensuite, ce coup de poing !
+{040227}{040294}Franchement,|il me laisse pas le choix.
+{040298}{040333}Dis pas de conneries.
+{040337}{040432}Si tu veux mourir,|prends plutôt des cachets.
+{040557}{040682}Que dirait Carmine si je voulais changer|de famille ? Rejoindre la vôtre.
+{040686}{040805}- Carmine ne sait pas qui tu es.|- Tu peux le lui dire.
+{040809}{040859}Ralph, écoute-moi bien.
+{040863}{040942}Je sais que Tony|n'est pas facile à vivre.
+{040946}{041038}Comme son père et son oncle.|Toujours à diaboliser quelqu'un.
+{041048}{041118}Mais nos deux familles|sont liées depuis longtemps.
+{041122}{041148}Et ça ne changera pas.
+{041161}{041284}Ni pour toi ni pour qui que ce soit.|Je serai franc avec toi.
+{041290}{041392}- Tu l'as cherché, avec cette fille.|- Primo, c'était une pute.
+{041396}{041450}Secundo, elle m'a giflé.
+{041503}{041583}Et... elle n'était pas enceinte|de moi.
+{041693}{041741}C'est à cause de la coke.
+{041745}{041816}J'aurais jamais dû|mettre le pif là-dedans.
+{041828}{041903}Putain de Miami.|Il y en a partout !
+{041928}{042004}- Fais-lui des excuses.|- J'étais défoncé. Je le reconnais.
+{042008}{042074}Et je te jure|que ça n'arrivera plus.
+{042078}{042155}- "Tony, je regrette... "|- Ça servira à quoi ?
+{042159}{042271}- A sauver ta peau !|- Il m'a frappé !
+{042275}{042335}Il a eu tort et il le sait.
+{042417}{042536}- Les gens rient derrière mon dos.|- Parles-en à Tony. Il arrangera ça.
+{042542}{042608}Au point où on en est,|comment ?
+{042612}{042654}J'en sais rien.
+{042719}{042795}Tu veux être capo de ton équipe ?
+{042816}{042883}Non.|Pas question.
+{042891}{042951}Ralph Cifaretto est passé me voir.
+{042956}{043066}Ah ouais ? Il voulait quoi ?|Un avion pour aller voir le pape ?
+{043071}{043129}Depuis Thanksgiving,|il a les foies.
+{043138}{043213}Si ton adversaire est colérique,|irrite-le.
+{043233}{043371}- Bref... Il aimerait s'excuser.|- Sans blague ?
+{043376}{043445}Ça réglerait le problème ?
+{043471}{043578}S'il est sincère, ça m'épargnera|peut-être une tâche pénible.
+{043616}{043682}Le chantier de l'Esplanade|démarre.
+{043686}{043734}Il y a des millions de dollars|en jeu.
+{043740}{043828}Ca serait bien d'avoir|un homme à nous dans le système.
+{043875}{043960}Je dis ça comme ça.|Jette-lui un os.
+{043965}{044007}Quoi ?
+{044057}{044158}- Capo.|- Pas question. Jamais.
+{044179}{044280}Tu as vu ce qu'il a fait.|Cette môme venait d'avoir 20 ans.
+{044286}{044399}Capo, c'est ce qu'il veut.|Je lui ai dit de pas rêver.
+{044433}{044480}C'était une pute, Tony.
+{044494}{044624}Je ne veux plus discuter de ça|avec qui que ce soit. Tu as compris ?
+{044633}{044723}C'était juste une suggestion.|Histoire de bosser en paix.
+{044728}{044786}Je croyais que tu te mêlais pas|de mes affaires.
+{044791}{044836}On peut pas causer, entre amis ?
+{044841}{044933}Je lui ai parlé.|Il est ravi que tu veuilles le voir.
+{044944}{045020}Génial. Il te l'a dit ? Génial.
+{045024}{045055}Putain de bonne nouvelle !
+{045063}{045093}Je te l'avais dit.
+{045098}{045199}A propos de l'autre problème...|Qu'est-ce qu'il compte faire ?
+{045205}{045283}Vois avec lui. Il est ouvert|à toute proposition.
+{045299}{045419}Merci. Demande-moi ce que tu veux.
+{045548}{045620}Beau gosse.|Debout avant midi ?
+{045626}{045761}- Je déménage. Je m'installe chez Dov.|- Le calotté.
+{045775}{045838}Son unité a été rappelée en Israël.
+{045844}{045883}Dieu bénisse l'Amérique.
+{045931}{046012}Ecoute, si tu te retrouves|à court d'ecsta...
+{046032}{046077}Je connais un type.
+{046088}{046138}- Ecsta ?|- Quoi ?
+{046149}{046203}J'essaie de te rendre service.
+{046248}{046276}Pour ton information...
+{046281}{046364}L'excuse bidon de ton futur beau-père|pour Thanksgiving...
+{046370}{046478}Il savait que je viendrais pas.|Il voulait sauver la face.
+{046482}{046553}Et il a fait faire|le sale boulot par sa femme.
+{046600}{046703}Appelle-moi|s'il te faut quelque chose. Sois sage.
+{046807}{046958}Cette femme a 50 ans.|Parfois, j'ai envie de lui hurler :
+{046964}{047071}"Cesse de gémir.|Pas étonnant qu'il t'ait larguée. "
+{047075}{047200}Si son chef la regarde de travers,|elle m'appelle à 3h du matin.
+{047209}{047305}Pour me parler de son père qui|se moquait d'elle quand elle tombait...
+{047309}{047363}de son petit vélo.
+{047367}{047408}Elle appelle ton numéro d'urgence ?
+{047412}{047478}Non. La question n'est pas là,|Elliot !
+{047483}{047552}Tu fais chier à m'interrompre.
+{047615}{047711}- J'ai été violée.|- Tu souffres et personne ne t'écoute.
+{047715}{047767}Exactement, bon Dieu.
+{047790}{047933}Je dois rester assise là à m'occuper|de ces gens à longueur de journée.
+{047943}{048054}Avec tous leurs problèmes.|Certains sont réels.
+{048060}{048200}Très graves, même. Et je compatis.|Cela me touche. Sincèrement.
+{048237}{048364}Mais c'est dur, parfois.|J'ai envie de dire : "J'ai mal ! "
+{048389}{048468}C'est bien.|Tu es ici pour ça.
+{048488}{048533}Excuse-moi, Elliot.
+{048551}{048600}Inutile de t'excuser.
+{048643}{048708}Tu as subi un grave traumatisme.
+{048714}{048819}Il faut beaucoup de force|et de volonté...
+{048823}{048882}pour tenir le choc au travail|comme tu le fais.
+{048891}{048936}Merci, Elliot.
+{048982}{049122}Je fais de mon mieux.|Mais c'est dur, par moments.
+{049255}{049308}Et avec Soprano ?|Comment ça va ?
+{049342}{049441}Il m'a proposé de m'accompagner|à ma voiture.
+{049452}{049544}J'ai failli me jeter|dans ses bras en pleurant.
+{050707}{050740}Tu voulais me voir ?
+{050823}{050850}A quel sujet ?
+{050864}{050956}A quel sujet ? Tu sais bien...
+{050962}{050989}pour m'excuser.
+{051171}{051202}Je peux m'asseoir ?
+{051429}{051462}Je sniffais beaucoup de coke.
+{051494}{051577}J'ai dit des choses|et fait des choses...
+{051608}{051648}que je regrette.
+{051699}{051754}Ça ne se reproduira plus.
+{051823}{051861}Qu'est-ce que tu as fait ?
+{051928}{051989}Je t'ai manqué de respect...
+{051995}{052052}en refusant ce verre.
+{052112}{052169}A toi et au Bing.
+{052287}{052341}Et à la fille.
+{052442}{052581}Ça n'aurait jamais dû arriver.|C'est à cause de la coke...
+{052635}{052688}Mais j'ai arrêté.
+{052733}{052775}Terminé...
+{052856}{052944}Je suis désolé, Tony.|D'accord ?
+{053337}{053367}Autre chose ?
+{053862}{053954}Ma femme a fait des sandwiches|à la dinde. Qui en veut ?
+{053972}{054058}- Je suis ballonné depuis Thanksgiving.|- Thanksgiving 1 982.
+{054071}{054159}Putain de dinde.|J'ai du mastic dans les intestins.
+{054164}{054242}- Je peux t'acheter du Metamucil.|- Je déteste ce truc.
+{054247}{054353}Je prends celui à la laitue|et aux canneberges.
+{054383}{054449}- Ralph est là ?|- Pas encore. Je l'appelle ?
+{054455}{054545}Pitié.|Profitons de cet instant de calme.
+{054550}{054616}Après des décennies de préparation...
+{054622}{054702}le Musée des sciences|et des transports...
+{054706}{054821}et la Riverfront Esplanade|vont enfin voir le jour.
+{054836}{054922}Le projet, plusieurs fois retardé|pour raisons politiques...
+{054928}{054994}Que dalle.|J'ai obtenu que dalle.
+{055000}{055129}Cette putain d'esplanade, enfin !|On va ramasser le fric à la pelle.
+{055133}{055245}Rien, John. Pas un merci,|pas une excuse. Que dalle !
+{055253}{055347}- Calme-toi.|- Il m'a fait rester debout, comme...
+{055351}{055470}un domestique qui astique|et fait des courbettes.
+{055480}{055530}Il m'a même pas dit de m'asseoir.
+{055536}{055599}- Ça fait partie du jeu.|- Je vais le buter.
+{055610}{055725}- T'es taré de venir me dire ça ici !|- J'en ai plus rien à foutre.
+{055731}{055849}J'ai donné ma vie pour ce bizness.|Et voilà le remerciement ?
+{056253}{056368}- C'est Silvio Dante. Je te le passe ?|- Je le rappellerai.
+{056643}{056690}T'as fermé la porte ?
+{056757}{056809}T'es pire que Bobby, nom de Dieu !
+{056857}{056883}Quelqu'un t'a vu ?
+{056946}{057008}Qu'ils aillent se faire mettre.
+{057014}{057125}Je t'ai apporté des restes de dinde|et de farce. Et des manicotti.
+{057131}{057182}Mon estomac ne garde rien.
+{057219}{057311}Et ces courants d'air !|Je devrais être en Floride.
+{057316}{057419}Courants d'air ?|C'est une putain d'étuve, ici !
+{057424}{057503}- Voyons le thermostat.|- N'y touche pas !
+{057549}{057636}D'accord. Bon sang.
+{057881}{058007}Le grand-père... Il a travaillé|pour un certain Trillo ?
+{058013}{058044}Qui tenait une scierie.
+{058052}{058126}Mon père était tailleur de pierre.|Pas un putain de bûcheron.
+{058156}{058252}Un entrepreneur, alors ?|Des résidences avec jardin.
+{058262}{058373}Il y avait un Trillo.|Qui a eu 7 filles. Je me souviens plus.
+{058471}{058570}Tu me demandes pas mon avis|sur Ralph Cifaretto ?
+{058694}{058793}- T'as une idée ?|- J'ai plus que ça.
+{058818}{058903}T'as un sacré problème|sur les bras.
+{058922}{058978}T'aurais jamais dû nommer Gigi.
+{058988}{059083}Un gars solide.|Qui rapporte et qui est respecté.
+{059087}{059197}Pas par cette équipe. Pour eux,|c'est un gibelin qui vient s'incruster.
+{059202}{059246}Ils lui font pas confiance.
+{059252}{059326}Et en plus,|Ralph te débine, maintenant.
+{059342}{059425}Une mutinerie peut éclater|n'importe quand.
+{059444}{059517}Si je vire Gigi,|je passe pour quoi ?
+{059521}{059652}- Un patron indécis et pas sûr de lui.|- Exactement.
+{059666}{059735}- Je le remplace par qui ?|- Bonne question.
+{059739}{059840}- Génial. La réponse ?|- Qui dit qu'il y en a une ?
+{059848}{059940}Etre patron, c'est ça.|Tu gouvernes le navire au mieux.
+{059945}{060039}Parfois, tu heurtes les rochers.|Le reste du temps...
+{060044}{060101}tu profites|au maximum de la vie.
+{060232}{060351}T'en as pour longtemps ?|J'ai envie de pisser !
+{060695}{060723}Nom de Dieu !
+{061020}{061114}Reste pas planté là.|Appelle les urgences.
+{061152}{061203}Je ne sens pas de pouls.
+{061407}{061474}- Je suis navré.|- Merci, Tony.
+{061497}{061614}C'était un gars bien.|Jamais un mot dur pour personne.
+{062173}{062275}C'est dégueulasse.|Il était jeune.
+{062293}{062318}Infarctus.
+{062363}{062411}Le tueur silencieux.
+{062473}{062506}Il y a pire.
+{062533}{062673}Quand même, sur les chiottes ?|C'est putain d'humiliant.
+{062677}{062723}C'est comme ça qu'est mort Elvis.
+{062727}{062773}Comme ce type à Hollywood...
+{062777}{062873}Don quelque chose.|Le producteur des Simpson.
+{062981}{063121}La place est vide.|Et le bizness tourne à plein tube.
+{063132}{063186}T'as pensé à son successeur ?
+{064009}{064149}C'est terrible. Dramatique.|Il mangeait ici deux fois par semaine.
+{064157}{064225}Et il amenait ses gosses|le dimanche.
+{064534}{064601}J'ai un jambon au four.
+{064717}{064804}- Tu voulais me voir ?|- Assieds-toi.
+{065057}{065110}Je te nomme capitaine.
+{065156}{065282}C'est vrai ?|Génial. Putain de génial.
+{065286}{065387}Anthony, tu le regretteras pas.|Merci.
+{065649}{065682}Quoi ?
+{065785}{065895}Dis-moi que je le mérite.
+{065907}{066056}Que je remplace pas simplement|un type constipé qui a pété une durit.
+{066180}{066279}Tu vas empocher beaucoup plus de fric.|Alors, pas de questions.
+{066283}{066347}Tu voulais être capitaine,|tu es capitaine.
+{066374}{066430}Merci, Tony. Tu as raison.
+{066473}{066550}Je le voulais depuis toujours.
+{066651}{066708}Tu connais le dicton ?
+{066712}{066779}Réfléchis à ce que tu veux,|tu risques de l'obtenir.
+{066969}{067018}Alors, on trinque ?
+{067789}{067909}Paraît que Tony est en froid|avec Ralph Cifaretto.
+{067914}{067949}A propos de Thanksgiving ?
+{067953}{068082}- J'y étais.|- Quoi, chez Tony ? Pour Thanksgiving ?
+{068086}{068139}Je suis passé prendre Meadow.
+{068274}{068385}- Tu te l'es déjà faite ?|- Son corps ne demande que ça.
+{068391}{068499}- Ouais, mais tu te l'es faite ?|- Elle mouille pour moi.
+{068537}{068596}Tu te l'es pas encore faite.
+{068616}{068696}J'ai peut-être pas intérêt.|C'est la fille de Tony.
+{068816}{068907}Jackie, allons voir|ce concert à Vassar.
+{068916}{068997}- Allez, la revanche.|- Replace les boules.
+{069003}{069084}- Tu as promis de m'y emmener.|- Va t'asseoir.
+{069181}{069283}Quelle petite chieuse !|Nom de Dieu !
+{069905}{069944}Bon Dieu de merde !
+{069995}{070029}- Ca va ?|- Je crois.
+{070055}{070154}- Doucement. Quoi ?|- Mon sac est coincé.
+{070238}{070302}- Rien de cassé ?|- Ca va.
+{070308}{070378}Tout va bien.|Juste un pneu éclaté.
+{070382}{070451}- Et ta voiture ?|- Je m'en fous.
+{070475}{070527}Jackie, je suis vraiment désolée.
+{070533}{070584}Tant que tu n'as rien.
+{070588}{070660}Je sais pas ce que j'aurais fait|si tu avais été blessée.
+{070664}{070711}Je suis vraiment désolée.
+{070717}{070829}- J'aurais dû t'emmener à Vassar.|- Tu l'adorais, cette voiture.
+{070834}{070929}C'est pas grave.|Viens, je te ramène.
+{070950}{071032}Non, je veux rester avec toi.
+{071050}{071088}Tu es sûre ?
+{071994}{072061}Voici ma carte.|Rendez-vous ici à 1 0h.
+{072078}{072111}Ravie de vous connaître.
+{072267}{072388}- C'est vous.|- J'avais des vues sur... ce modèle.
+{072398}{072427}Vous avez bon goût.
+{072495}{072552}Je peux l'essayer ?
+{072558}{072669}- Si un vendeur vous accompagne.|- Il y a quelqu'un de libre ?
+{072687}{072717}Dale !
+{072728}{072822}Je vais faire un tour.|Avec la 600.
+{073913}{073976}Jennifer, c'est Gloria Trillo.
+{073980}{074036}Désolée, je ne peux pas|venir aujourd'hui.
+{074049}{074074}Tout va bien ?
+{074085}{074185}- Oui, très bien.|- J'ai trouvé du vin.
+{074272}{074398}Merci de m'avoir appelée.|On reprend rendez-vous ?
+{074414}{074509}Inutile. A la semaine prochaine,|à l'heure habituelle.
+{074543}{074619}Entendu. A la semaine prochaine.
+{077583}{077608}Traduction :|Sylvain Thébault
+{077612}{077637}Sous-titrage :|TVS - TITRA FILM
+{077642}{077667}Adapté par :|SDI Media Group
+{077671}{077696}[FRENCH]

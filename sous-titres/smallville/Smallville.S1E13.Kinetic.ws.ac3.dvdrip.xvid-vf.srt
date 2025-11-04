@@ -1,0 +1,2244 @@
+1
+00:00:05,150 --> 00:00:07,482  X1:222 X2:495 Y1:356 Y2:419
+Faut pas se retenir!
+Laisse aller!
+
+2
+00:00:07,653 --> 00:00:10,588  X1:156 X2:559 Y1:352 Y2:419
+- Combien de temps on a?
+- On a quinze minutes au plus.
+
+3
+00:00:10,756 --> 00:00:12,587  X1:132 X2:582 Y1:384 Y2:419
+Juste ce dont nous avons besoin!
+
+4
+00:00:13,592 --> 00:00:15,583  X1:223 X2:494 Y1:380 Y2:419
+Bon, alors allons-y!
+
+5
+00:00:31,276 --> 00:00:32,971  X1:161 X2:556 Y1:380 Y2:419
+T'es prêt, maintenant, Clark?
+
+6
+00:00:33,145 --> 00:00:35,773  X1:215 X2:501 Y1:352 Y2:419
+J'ai oublié d'appuyer
+sur "enregistrer"...
+
+7
+00:00:36,648 --> 00:00:38,513  X1:190 X2:525 Y1:382 Y2:419
+Alors, Monsieur Luthor...
+
+8
+00:00:38,684 --> 00:00:41,983  X1:128 X2:589 Y1:352 Y2:419
+d'autres projets
+à la LuthorCorp, comme Niveau 3?
+
+9
+00:00:42,187 --> 00:00:43,814  X1:204 X2:511 Y1:380 Y2:419
+Appelez-moi donc Lex.
+
+10
+00:00:44,356 --> 00:00:46,824  X1:153 X2:564 Y1:356 Y2:419
+- Lex, allez-vous me répondre?
+- Chloé.
+
+11
+00:00:46,992 --> 00:00:49,756  X1:222 X2:494 Y1:354 Y2:419
+- Oui?
+- C'est bon, Clark...
+
+12
+00:00:49,928 --> 00:00:52,488  X1:150 X2:566 Y1:356 Y2:419
+"Les critiques sont nos amis.
+Ils nous montrent nos lacunes."
+
+13
+00:00:53,098 --> 00:00:55,532  X1:233 X2:484 Y1:380 Y2:419
+Benjamin Franklin.
+
+14
+00:00:56,101 --> 00:00:57,659  X1:187 X2:530 Y1:382 Y2:419
+Excusez-moi, M. Luthor...
+
+15
+00:00:57,836 --> 00:01:00,862  X1:185 X2:530 Y1:352 Y2:419
+- Votre pêre au téléphone.
+- Je dois le prendre.
+
+16
+00:01:02,341 --> 00:01:05,276  X1:124 X2:593 Y1:380 Y2:419
+Passez-le-moi à côté, s'il vous plaît.
+
+17
+00:01:06,178 --> 00:01:09,477  X1:190 X2:525 Y1:352 Y2:419
+Je reprendrai avec plaisir
+notre joute verbale.
+
+18
+00:01:17,623 --> 00:01:20,956  X1:177 X2:539 Y1:352 Y2:419
+- Allez, c'est le gros coup!
+- Ouais! Allons-y!
+
+19
+00:01:21,126 --> 00:01:22,957  X1:189 X2:527 Y1:380 Y2:419
+Allez, en avant, on y va!
+
+20
+00:01:23,128 --> 00:01:27,087  X1:126 X2:591 Y1:352 Y2:419
+Est-ce qu'il a vraiment un appel
+ou est-ce qu'il veut juste m'éviter?
+
+21
+00:01:27,265 --> 00:01:29,529  X1:154 X2:562 Y1:382 Y2:419
+Ouah, c'est vraiment três cool.
+
+22
+00:01:29,735 --> 00:01:32,033  X1:176 X2:540 Y1:380 Y2:419
+Tu crois que c'est un vrai?
+
+23
+00:01:50,255 --> 00:01:52,815  X1:118 X2:597 Y1:380 Y2:419
+C'est dans le mur de la bibliothêque.
+
+24
+00:01:52,991 --> 00:01:55,687  X1:205 X2:511 Y1:356 Y2:419
+- Comment tu le sais?
+- J'ai mes sources.
+
+25
+00:01:55,861 --> 00:01:59,695  X1:140 X2:575 Y1:356 Y2:419
+- Il a fait partie des domestiques.
+- D'accord...
+
+26
+00:02:20,085 --> 00:02:22,610  X1:129 X2:587 Y1:352 Y2:419
+- On a cinq minutes, bougez-vous!
+- Allons-y!
+
+27
+00:02:23,855 --> 00:02:27,313  X1:138 X2:579 Y1:380 Y2:419
+Bon, les gars, c'est jour de paye!
+
+28
+00:02:38,704 --> 00:02:41,195  X1:266 X2:451 Y1:384 Y2:419
+Une minute!
+
+29
+00:02:42,407 --> 00:02:45,308  X1:210 X2:506 Y1:352 Y2:419
+- Allez, allons-y!
+- J'ai qu'un seul bras.
+
+30
+00:02:49,781 --> 00:02:52,807  X1:208 X2:509 Y1:356 Y2:419
+Il est temps de partir!
+On se tire!
+
+31
+00:02:53,318 --> 00:02:55,718  X1:226 X2:491 Y1:352 Y2:419
+On doit pas fouiner
+chez les gens.
+
+32
+00:02:55,887 --> 00:03:00,051  X1:157 X2:558 Y1:352 Y2:419
+Clark, c'est un château.
+C'est fait pour qu'on y fouine.
+
+33
+00:03:00,392 --> 00:03:02,883  X1:131 X2:585 Y1:352 Y2:419
+D'accord.
+On attendra dans la bibliothêque...
+
+34
+00:03:03,061 --> 00:03:06,519  X1:144 X2:572 Y1:380 Y2:419
+que Lex nous vire officiellement.
+
+35
+00:03:07,065 --> 00:03:10,694  X1:156 X2:560 Y1:352 Y2:419
+- Je vais ranger la caméra.
+- D'accord, je prends mon sac.
+
+36
+00:03:13,939 --> 00:03:15,907  X1:159 X2:558 Y1:380 Y2:419
+Mais, qu'est-ce qui se passe?
+
+37
+00:03:19,678 --> 00:03:21,168  X1:248 X2:467 Y1:382 Y2:419
+Chloé, va-t'en!
+
+38
+00:03:46,538 --> 00:03:49,302  X1:153 X2:563 Y1:380 Y2:419
+Bougez-vous! Dépêchez-vous!
+
+39
+00:04:12,497 --> 00:04:14,431  X1:228 X2:491 Y1:384 Y2:419
+PASSE-MURAILLES
+
+40
+00:05:24,603 --> 00:05:27,902  X1:146 X2:570 Y1:062 Y2:128
+Rassure-toi, j'ai ramené
+le meilleur toubib de Metropolis.
+
+41
+00:05:28,073 --> 00:05:31,702  X1:140 X2:576 Y1:352 Y2:419
+- Est-ce que ça va aller?
+- Le docteur n'en est pas certain.
+
+42
+00:05:31,877 --> 00:05:35,973  X1:166 X2:552 Y1:062 Y2:128
+Mauvaise chute. Bras gauche
+cassé, plus une commotion.
+
+43
+00:05:36,514 --> 00:05:38,880  X1:126 X2:590 Y1:380 Y2:419
+Ils craignent un oedême au cerveau.
+
+44
+00:05:39,050 --> 00:05:41,678  X1:125 X2:590 Y1:380 Y2:419
+J'aurais dû empêcher que ça arrive.
+
+45
+00:05:41,853 --> 00:05:45,619  X1:126 X2:592 Y1:352 Y2:419
+Il ne faut pas nier l'évidence, Clark,
+mais ce n'est pas de ta faute.
+
+46
+00:05:45,790 --> 00:05:49,521  X1:130 X2:586 Y1:062 Y2:128
+Je ne comprends pas...
+A un moment, la piêce était vide...
+
+47
+00:05:49,694 --> 00:05:51,924  X1:169 X2:546 Y1:062 Y2:101
+et ils ont surgi de nulle part.
+
+48
+00:05:52,097 --> 00:05:54,691  X1:136 X2:581 Y1:380 Y2:419
+Est-ce que la police a des pistes?
+
+49
+00:05:54,866 --> 00:05:57,334  X1:163 X2:554 Y1:352 Y2:419
+Ils pensent que je ne suis pas
+la premiêre victime.
+
+50
+00:05:57,502 --> 00:06:00,403  X1:207 X2:510 Y1:356 Y2:419
+Il y a eu plusieurs vols
+dans le Comté.
+
+51
+00:06:00,572 --> 00:06:03,939  X1:171 X2:546 Y1:062 Y2:124
+Ces voleurs arrivent à entrer
+sans crocheter une serrure.
+
+52
+00:06:04,109 --> 00:06:06,339  X1:187 X2:529 Y1:352 Y2:419
+Ils ont essayé
+à la Banque de Smallville.
+
+53
+00:06:06,978 --> 00:06:09,139  X1:160 X2:554 Y1:380 Y2:419
+Je n'en ai pas entendu parler.
+
+54
+00:06:09,314 --> 00:06:12,647  X1:161 X2:556 Y1:352 Y2:419
+Les banques n'en parlent pas,
+mauvais pour leur image.
+
+55
+00:06:13,351 --> 00:06:15,945  X1:158 X2:559 Y1:062 Y2:124
+Si rien n'a été pris,
+comment sont-ils au courant?
+
+56
+00:06:16,121 --> 00:06:18,521  X1:211 X2:506 Y1:356 Y2:419
+Ils auraient déclenché
+une alarme.
+
+57
+00:06:18,690 --> 00:06:21,386  X1:192 X2:524 Y1:356 Y2:419
+Pourtant, on ne sait pas
+comment ils sont entrés.
+
+58
+00:06:21,693 --> 00:06:24,787  X1:174 X2:544 Y1:352 Y2:419
+La police peut-elle retrouver
+ce qu'ils ont volé?
+
+59
+00:06:24,963 --> 00:06:27,955  X1:146 X2:568 Y1:380 Y2:419
+Je n'ai signalé aucun vol, Clark.
+
+60
+00:06:29,234 --> 00:06:33,500  X1:154 X2:561 Y1:062 Y2:129
+- Pourquoi? J'ai vu des sacs...
+- Cela m'est vraiment égal.
+
+61
+00:06:33,672 --> 00:06:36,835  X1:160 X2:556 Y1:062 Y2:128
+Je veux qu'on retrouve
+ceux qui ont fait ça à Chloé...
+
+62
+00:06:37,008 --> 00:06:40,068  X1:137 X2:578 Y1:062 Y2:128
+Je te le jure,
+ils seront traités en conséquence.
+
+63
+00:06:40,245 --> 00:06:44,045  X1:160 X2:555 Y1:062 Y2:128
+- Ce qui veut dire?
+- Laisse-moi m'occuper de ça.
+
+64
+00:06:44,215 --> 00:06:47,651  X1:214 X2:504 Y1:062 Y2:128
+Rentre donc chez toi,
+et repose-toi...
+
+65
+00:07:00,899 --> 00:07:02,230  X1:279 X2:437 Y1:356 Y2:419
+FERME
+A VENDRE
+
+66
+00:07:08,740 --> 00:07:11,038  X1:164 X2:552 Y1:380 Y2:419
+Hé, Whitney, attends un peu.
+
+67
+00:07:11,209 --> 00:07:15,646  X1:126 X2:589 Y1:356 Y2:419
+- Tu devais me rejoindre à l'hôpital.
+- J'ai oublié. Comment va Chloé?
+
+68
+00:07:15,814 --> 00:07:17,782  X1:147 X2:570 Y1:380 Y2:419
+Mieux, mais pas sortie d'affaire.
+
+69
+00:07:17,949 --> 00:07:21,578  X1:140 X2:576 Y1:352 Y2:419
+C'est le problême, ici.
+Toujours un truc pour t'enfoncer.
+
+70
+00:07:21,753 --> 00:07:25,519  X1:214 X2:502 Y1:352 Y2:419
+Whitney, qu'y a-t-il?
+C'est ton pêre?
+
+71
+00:07:25,757 --> 00:07:29,124  X1:161 X2:554 Y1:356 Y2:419
+Non, c'est rien.
+Je dois aller faire l'inventaire.
+
+72
+00:07:29,294 --> 00:07:31,421  X1:282 X2:434 Y1:384 Y2:419
+A bientôt.
+
+73
+00:07:50,648 --> 00:07:52,479  X1:184 X2:532 Y1:382 Y2:419
+Salut, Clark. Que fais-tu?
+
+74
+00:07:53,451 --> 00:07:56,784  X1:166 X2:550 Y1:354 Y2:419
+- J'essaie de me rendre utile.
+- Hé, on veut...
+
+75
+00:07:56,955 --> 00:07:59,116  X1:146 X2:569 Y1:380 Y2:419
+des bûches, pas des cure-dents.
+
+76
+00:08:00,091 --> 00:08:03,117  X1:154 X2:560 Y1:352 Y2:419
+Je sais ce que vous allez dire:
+ce n'est pas de ma faute.
+
+77
+00:08:03,294 --> 00:08:07,594  X1:086 X2:629 Y1:356 Y2:419
+- Lex me l'a dit, et le pêre de Chloé aussi.
+- C'est vrai. Tu as fait de ton mieux.
+
+78
+00:08:07,766 --> 00:08:09,893  X1:194 X2:522 Y1:356 Y2:419
+- Chloé aurait pu mourir.
+- Ecoute...
+
+79
+00:08:10,068 --> 00:08:12,502  X1:226 X2:491 Y1:352 Y2:419
+pour devenir adulte
+il faut apprendre...
+
+80
+00:08:12,670 --> 00:08:16,731  X1:110 X2:605 Y1:352 Y2:419
+par exemple, que tu ne peux pas
+sauver tout le monde, qui que tu sois.
+
+81
+00:08:16,908 --> 00:08:19,103  X1:188 X2:528 Y1:356 Y2:419
+Tu as ressenti
+les effets des météorites.
+
+82
+00:08:19,277 --> 00:08:22,576  X1:185 X2:532 Y1:352 Y2:419
+Ouais, mais je ne sais pas
+d'oû ça venait.
+
+83
+00:08:23,048 --> 00:08:27,109  X1:139 X2:578 Y1:356 Y2:419
+Parfois, je voudrais quitter la ville
+et fuir ces météorites...
+
+84
+00:08:28,753 --> 00:08:31,779  X1:203 X2:512 Y1:356 Y2:419
+Tu y arriveras.
+Tu auras cette chance.
+
+85
+00:08:31,956 --> 00:08:34,254  X1:184 X2:533 Y1:384 Y2:419
+Mais fuir ne résoudra rien.
+
+86
+00:08:34,426 --> 00:08:37,259  X1:196 X2:519 Y1:352 Y2:419
+Ne reste pas là
+à t'apitoyer sur ton cas.
+
+87
+00:08:37,429 --> 00:08:40,592  X1:153 X2:563 Y1:380 Y2:419
+Va voir ce que tu peux trouver.
+
+88
+00:08:58,983 --> 00:09:02,817  X1:154 X2:562 Y1:352 Y2:419
+Je ne pensais pas
+qu'il y avait tant de choses ici.
+
+89
+00:09:02,987 --> 00:09:06,616  X1:133 X2:583 Y1:356 Y2:419
+- Passe-moi le Scotch, s'il te plaît.
+- Voilà.
+
+90
+00:09:07,192 --> 00:09:10,286  X1:157 X2:558 Y1:352 Y2:419
+J'arrive pas à croire
+que tu vends cet endroit, Nell.
+
+91
+00:09:10,462 --> 00:09:13,522  X1:177 X2:540 Y1:352 Y2:419
+Pourquoi ce soudain intérêt
+pour cet endroit?
+
+92
+00:09:13,765 --> 00:09:16,700  X1:143 X2:573 Y1:352 Y2:419
+Mes parents s'y sont rencontrés.
+Ca compte pour moi.
+
+93
+00:09:16,868 --> 00:09:18,631  X1:249 X2:465 Y1:382 Y2:419
+Je sais, Lana...
+
+94
+00:09:18,803 --> 00:09:22,830  X1:098 X2:619 Y1:352 Y2:419
+mais un écran ne peut faire concurrence
+à un multiplex. Le fait est que...
+
+95
+00:09:23,007 --> 00:09:26,807  X1:158 X2:557 Y1:356 Y2:419
+je veux pouvoir t'envoyer
+dans l'université de ton choix.
+
+96
+00:09:31,549 --> 00:09:33,608  X1:127 X2:591 Y1:380 Y2:419
+Peux-tu me dire qui est l'acheteur?
+
+97
+00:09:33,785 --> 00:09:37,448  X1:154 X2:561 Y1:356 Y2:419
+Je pourrais peut-être lui parler.
+Voir s'il veut le rénover.
+
+98
+00:09:39,557 --> 00:09:42,117  X1:238 X2:478 Y1:384 Y2:419
+C'est Lex Luthor.
+
+99
+00:09:44,229 --> 00:09:45,890  X1:216 X2:502 Y1:356 Y2:419
+SMALLVILLE
+BANQUE DE DEPOTS
+
+100
+00:09:46,064 --> 00:09:49,522  X1:101 X2:615 Y1:352 Y2:419
+Lex dit que les voleurs
+ont aussi essayé de voler cette banque.
+
+101
+00:09:49,701 --> 00:09:52,602  X1:178 X2:538 Y1:352 Y2:419
+J'ai trois mots à te dire:
+enquête policiêre officielle.
+
+102
+00:09:52,770 --> 00:09:54,795  X1:157 X2:560 Y1:380 Y2:419
+La police n'a pas bougé un cil.
+
+103
+00:09:54,973 --> 00:09:58,704  X1:132 X2:584 Y1:352 Y2:419
+Il y a eu douze vols
+ces six derniers mois, tous pareils.
+
+104
+00:09:58,877 --> 00:10:01,675  X1:138 X2:578 Y1:352 Y2:419
+Pas d'effraction,
+les bijoux et l'argent s'évaporent.
+
+105
+00:10:01,846 --> 00:10:05,782  X1:121 X2:595 Y1:352 Y2:419
+Sauf ici. Lex a dit
+qu'ils avaient déclenché une alarme.
+
+106
+00:10:05,950 --> 00:10:09,716  X1:133 X2:583 Y1:352 Y2:419
+- Question: comment entrent-ils?
+- Je ne sais pas.
+
+107
+00:10:09,888 --> 00:10:13,085  X1:152 X2:564 Y1:352 Y2:419
+Arrête de canaliser
+l'énergie de Chloé et allons-y...
+
+108
+00:10:22,934 --> 00:10:25,994  X1:144 X2:572 Y1:380 Y2:419
+Oh, non, pas ton regard lointain.
+
+109
+00:10:26,171 --> 00:10:28,230  X1:216 X2:499 Y1:380 Y2:419
+Clark! Réagis, mec!
+
+110
+00:10:28,873 --> 00:10:31,899  X1:200 X2:516 Y1:352 Y2:419
+Tu ne te sens pas bien,
+moi non plus.
+
+111
+00:10:32,076 --> 00:10:34,636  X1:201 X2:515 Y1:380 Y2:419
+Mais on n'est pas flics.
+
+112
+00:10:59,103 --> 00:11:01,367  X1:274 X2:442 Y1:384 Y2:419
+Rien. <i>Nada. </i>
+
+113
+00:11:01,539 --> 00:11:05,839  X1:079 X2:638 Y1:352 Y2:419
+Pas une ligne. Le type doit être furax qu'on
+lui ait volé une fortune en bijoux et liquide.
+
+114
+00:11:06,344 --> 00:11:08,175  X1:241 X2:475 Y1:382 Y2:419
+Pas Luthor, mec.
+
+115
+00:11:08,746 --> 00:11:12,443  X1:156 X2:560 Y1:352 Y2:419
+On ne sait pas combien de fric
+il a planqué dans ce château.
+
+116
+00:11:12,617 --> 00:11:15,313  X1:128 X2:588 Y1:380 Y2:419
+Liquide, bijoux, tableaux, voitures!
+
+117
+00:11:15,486 --> 00:11:19,252  X1:138 X2:578 Y1:356 Y2:419
+Si on descendait, on trouverait
+l'endroit oû il cache ses trésors...
+
+118
+00:11:19,424 --> 00:11:22,325  X1:159 X2:557 Y1:356 Y2:419
+- Comme ce canard irlandais...
+- Oncle Picsou.
+
+119
+00:11:22,493 --> 00:11:26,293  X1:146 X2:569 Y1:352 Y2:419
+- Ouais, ouais.
+- Canard écossais, pas irlandais.
+
+120
+00:11:28,132 --> 00:11:32,762  X1:103 X2:612 Y1:352 Y2:419
+On n'a pas le temps. Ce truc
+ne dure plus aussi longtemps qu'avant.
+
+121
+00:11:33,238 --> 00:11:35,763  X1:248 X2:466 Y1:380 Y2:419
+Je sais, je sais.
+
+122
+00:11:35,940 --> 00:11:38,170  X1:125 X2:590 Y1:380 Y2:419
+Je dis qu'il nous faut du sang frais.
+
+123
+00:11:38,343 --> 00:11:41,835  X1:165 X2:551 Y1:352 Y2:419
+- Mais à qui faire confiance?
+- Je ne sais pas.
+
+124
+00:11:42,480 --> 00:11:45,779  X1:153 X2:562 Y1:352 Y2:419
+Je crois savoir pourquoi Luthor
+n'a pas signalé le vol.
+
+125
+00:11:46,384 --> 00:11:48,909  X1:266 X2:450 Y1:380 Y2:419
+Regardez ça.
+
+126
+00:11:50,555 --> 00:11:55,015  X1:110 X2:606 Y1:352 Y2:419
+Le porte-parole de Rogaine
+veut pas qu'on sache qu'il est entré...
+
+127
+00:11:55,193 --> 00:11:56,820  X1:197 X2:519 Y1:062 Y2:096
+Réservé à Lionel Luthor.
+
+128
+00:11:56,995 --> 00:11:58,724  X1:148 X2:570 Y1:062 Y2:128
+...dans le systême informatique
+de papa.
+
+129
+00:11:58,896 --> 00:12:01,694  X1:195 X2:521 Y1:354 Y2:419
+On pourrait rendre visite
+à Luthor Junior, non?
+
+130
+00:12:01,866 --> 00:12:04,528  X1:260 X2:454 Y1:384 Y2:419
+Je crois bien.
+
+131
+00:12:08,606 --> 00:12:11,131  X1:244 X2:470 Y1:380 Y2:419
+Je m'en moque.
+
+132
+00:12:11,442 --> 00:12:14,002  X1:209 X2:505 Y1:352 Y2:419
+Pour des excuses,
+j'appellerais la police.
+
+133
+00:12:15,013 --> 00:12:20,781  X1:109 X2:607 Y1:352 Y2:419
+Oui? Vous êtes bien les meilleurs
+de Metropolis en matiêre de sécurité?
+
+134
+00:12:23,154 --> 00:12:25,554  X1:169 X2:547 Y1:384 Y2:419
+Comment êtes-vous entrés?
+
+135
+00:12:25,723 --> 00:12:29,056  X1:146 X2:570 Y1:380 Y2:419
+Comme la fois précédente, mec.
+
+136
+00:12:32,397 --> 00:12:36,766  X1:087 X2:629 Y1:352 Y2:419
+- J'appelle la police.
+- On sait pourquoi tu ne l'as pas déjà fait.
+
+137
+00:12:37,302 --> 00:12:40,362  X1:182 X2:534 Y1:380 Y2:419
+On a lu le disque dur, Lex.
+
+138
+00:12:41,406 --> 00:12:44,375  X1:145 X2:571 Y1:352 Y2:419
+- De quoi parlez-vous?
+- Tu piques du fric à ton vieux...
+
+139
+00:12:44,542 --> 00:12:47,170  X1:179 X2:536 Y1:380 Y2:419
+pour un projet à Smallville.
+
+140
+00:12:47,345 --> 00:12:51,179  X1:107 X2:610 Y1:352 Y2:419
+Un traitement des plantes au méthane.
+La concurrence disparaîtra.
+
+141
+00:12:55,887 --> 00:12:58,879  X1:170 X2:545 Y1:352 Y2:419
+Pour ça, y'a pas besoin
+d'accélérateur de particules.
+
+142
+00:12:59,057 --> 00:13:02,515  X1:201 X2:515 Y1:352 Y2:419
+- Que voulez-vous?
+- Un million, en liquide.
+
+143
+00:13:04,295 --> 00:13:07,731  X1:136 X2:580 Y1:352 Y2:419
+Si t'essaies de faire une connerie,
+ou si tu y penses juste...
+
+144
+00:13:07,899 --> 00:13:10,231  X1:181 X2:536 Y1:356 Y2:419
+ton disque dur sera chargé
+sur Internet...
+
+145
+00:13:10,401 --> 00:13:14,963  X1:155 X2:561 Y1:352 Y2:419
+et le monde entier
+et Papa Lionel pourront le voir.
+
+146
+00:13:15,139 --> 00:13:16,606  X1:135 X2:582 Y1:380 Y2:419
+Comment puis-je vous contacter?
+
+147
+00:13:16,774 --> 00:13:19,436  X1:150 X2:565 Y1:380 Y2:419
+C'est nous qui te contacterons.
+
+148
+00:13:22,647 --> 00:13:24,308  X1:203 X2:514 Y1:382 Y2:419
+Maintenant, tourne-toi.
+
+149
+00:13:27,885 --> 00:13:30,285  X1:276 X2:440 Y1:384 Y2:419
+Attends-là.
+
+150
+00:13:30,621 --> 00:13:33,988  X1:105 X2:611 Y1:380 Y2:419
+Vous avez tort de vous attaquer à moi.
+
+151
+00:13:54,479 --> 00:13:57,846  X1:175 X2:541 Y1:356 Y2:419
+- Hé.
+- Je viens chercher un four.
+
+152
+00:13:59,617 --> 00:14:01,380  X1:172 X2:543 Y1:380 Y2:419
+Tu peux en trouver au fond.
+
+153
+00:14:02,920 --> 00:14:04,478  X1:256 X2:461 Y1:384 Y2:419
+Tout va bien?
+
+154
+00:14:07,859 --> 00:14:11,317  X1:152 X2:564 Y1:352 Y2:419
+Tu dois trouver que c'est super
+de passer sa vie à Smallville.
+
+155
+00:14:11,496 --> 00:14:15,830  X1:112 X2:603 Y1:352 Y2:419
+- Reprendre la ferme de papa.
+- Je pense que ce n'est pas pour moi.
+
+156
+00:14:16,000 --> 00:14:20,130  X1:155 X2:560 Y1:352 Y2:419
+- Des fois, on n'a pas le choix.
+- Whitney, tu partiras d'ici.
+
+157
+00:14:20,304 --> 00:14:24,172  X1:120 X2:595 Y1:352 Y2:419
+- Tu iras plus loin que n'importe qui.
+- Je n'ai plus ma bourse, Kent.
+
+158
+00:14:26,177 --> 00:14:28,338  X1:299 X2:417 Y1:384 Y2:419
+Désolé.
+
+159
+00:14:30,782 --> 00:14:33,376  X1:196 X2:520 Y1:380 Y2:419
+Tu l'as déjà dit à Lana?
+
+160
+00:14:34,786 --> 00:14:37,812  X1:143 X2:572 Y1:352 Y2:419
+Je vais passer le reste de ma vie
+dans ce magasin...
+
+161
+00:14:37,989 --> 00:14:43,188  X1:122 X2:594 Y1:352 Y2:419
+j'aurai des problêmes cardiaques,
+et je deviendrai un autre "souvenir".
+
+162
+00:14:46,230 --> 00:14:49,063  X1:134 X2:581 Y1:380 Y2:419
+Je ne partirai jamais de Smallville.
+
+163
+00:14:49,233 --> 00:14:51,463  X1:142 X2:575 Y1:382 Y2:419
+Hé, tu as ces baskets en douze?
+
+164
+00:15:00,611 --> 00:15:02,636  X1:193 X2:524 Y1:380 Y2:419
+T'as un problême, mec?
+
+165
+00:15:04,849 --> 00:15:07,841  X1:250 X2:465 Y1:380 Y2:419
+Je vais voir ça.
+
+166
+00:15:20,364 --> 00:15:22,161  X1:217 X2:500 Y1:356 Y2:419
+- Whitney Fordman?
+- Ouais.
+
+167
+00:15:22,333 --> 00:15:24,301  X1:246 X2:470 Y1:380 Y2:419
+Wade Mahaney.
+
+168
+00:15:24,469 --> 00:15:27,996  X1:154 X2:561 Y1:352 Y2:419
+Je t'ai vu jouer contre Topeka,
+l'année derniêre. Super partie.
+
+169
+00:15:29,273 --> 00:15:32,037  X1:185 X2:530 Y1:352 Y2:419
+Il parait que tu vas
+jouer pour Kansas State?
+
+170
+00:15:33,244 --> 00:15:37,044  X1:128 X2:589 Y1:354 Y2:419
+- Ca n'a pas marché. Taille douze?
+- Ouais. Merci, mec.
+
+171
+00:15:38,015 --> 00:15:40,506  X1:137 X2:577 Y1:380 Y2:419
+Je connais ce genre de problême.
+
+172
+00:15:40,685 --> 00:15:44,951  X1:117 X2:598 Y1:352 Y2:419
+D'abord j'ai été viré, je me suis pété
+le genou et j'ai eu quatre opérations.
+
+173
+00:15:45,122 --> 00:15:46,282  X1:290 X2:426 Y1:382 Y2:419
+Dur, dur.
+
+174
+00:15:46,457 --> 00:15:49,187  X1:160 X2:555 Y1:356 Y2:419
+Douze écoles
+m'avaient offert une bourse...
+
+175
+00:15:49,360 --> 00:15:53,820  X1:206 X2:510 Y1:352 Y2:419
+et puis, tout a capoté,
+juste comme ça.
+
+176
+00:15:54,899 --> 00:15:57,163  X1:121 X2:596 Y1:380 Y2:419
+Quels sont tes projets, maintenant?
+
+177
+00:15:57,335 --> 00:16:01,863  X1:146 X2:570 Y1:352 Y2:419
+J'en ai pas. Mais je ne veux pas
+faire ça tout le reste de ma vie.
+
+178
+00:16:02,907 --> 00:16:06,900  X1:150 X2:565 Y1:352 Y2:419
+Je comprends. Y'a pas de futur
+dans ce job, hein? Dis...
+
+179
+00:16:07,512 --> 00:16:09,480  X1:188 X2:526 Y1:380 Y2:419
+je fais une soirée ce soir.
+
+180
+00:16:09,914 --> 00:16:11,745  X1:179 X2:538 Y1:380 Y2:419
+Pourquoi tu viendrais pas?
+
+181
+00:16:13,451 --> 00:16:15,885  X1:144 X2:570 Y1:380 Y2:419
+J'peux pas. Je fais la fermeture.
+
+182
+00:16:16,053 --> 00:16:20,251  X1:131 X2:585 Y1:352 Y2:419
+Viens aprês. Boire une bonne biêre
+et te changer les idées.
+
+183
+00:16:21,993 --> 00:16:24,791  X1:143 X2:572 Y1:380 Y2:419
+Viens, ce sera vraiment sympa...
+
+184
+00:16:26,364 --> 00:16:28,662  X1:294 X2:422 Y1:380 Y2:419
+Sympa!
+
+185
+00:16:29,700 --> 00:16:32,498  X1:186 X2:529 Y1:384 Y2:419
+Je suis le roi des arriêres.
+
+186
+00:16:39,010 --> 00:16:41,979  X1:172 X2:543 Y1:356 Y2:419
+Je vais te faire visiter, mec.
+Viens.
+
+187
+00:16:44,515 --> 00:16:47,678  X1:107 X2:610 Y1:352 Y2:419
+- Cet endroit est génial.
+- Tu veux te joindre à nous, Fordman?
+
+188
+00:16:47,852 --> 00:16:51,618  X1:167 X2:549 Y1:352 Y2:419
+- On peut utiliser tes talents.
+- Pourquoi veux-tu m'aider?
+
+189
+00:16:51,789 --> 00:16:53,814  X1:113 X2:603 Y1:380 Y2:419
+Les gars comme nous doivent s'aider.
+
+190
+00:16:53,991 --> 00:16:57,017  X1:133 X2:582 Y1:356 Y2:419
+Je pensais que ma vie était fichue
+sans le football.
+
+191
+00:16:57,194 --> 00:16:59,719  X1:206 X2:510 Y1:380 Y2:419
+Elle commençait juste.
+
+192
+00:17:12,009 --> 00:17:13,306  X1:272 X2:443 Y1:384 Y2:419
+Crois-moi...
+
+193
+00:17:13,477 --> 00:17:17,811  X1:108 X2:608 Y1:356 Y2:419
+tout va de mieux en mieux. Laisse-moi
+te montrer oû est la vraie soirée.
+
+194
+00:17:22,186 --> 00:17:23,653  X1:210 X2:507 Y1:380 Y2:419
+T'as déjà été tatoué?
+
+195
+00:17:23,821 --> 00:17:26,119  X1:156 X2:559 Y1:380 Y2:419
+J'suis pas fana des tatouages.
+
+196
+00:17:26,290 --> 00:17:29,953  X1:209 X2:508 Y1:352 Y2:419
+Initiation, mec.
+Le premier est gratuit.
+
+197
+00:17:30,127 --> 00:17:32,823  X1:119 X2:596 Y1:380 Y2:419
+J'sais pas, mec, c'est pour toujours.
+
+198
+00:17:32,997 --> 00:17:37,900  X1:141 X2:575 Y1:352 Y2:419
+- Tu veux jouer avec les grands?
+- Faut d'abord faire tes preuves.
+
+199
+00:17:39,604 --> 00:17:43,836  X1:144 X2:572 Y1:352 Y2:419
+T'as jamais rien vu
+de pareil auparavant, mon vieux.
+
+200
+00:17:44,008 --> 00:17:47,535  X1:122 X2:594 Y1:380 Y2:419
+Tu te sens un autre homme, promis.
+
+201
+00:17:47,712 --> 00:17:49,942  X1:271 X2:444 Y1:384 Y2:419
+Assieds-toi.
+
+202
+00:17:54,352 --> 00:17:55,876  X1:286 X2:431 Y1:384 Y2:419
+D'accord.
+
+203
+00:17:56,053 --> 00:17:59,489  X1:177 X2:538 Y1:352 Y2:419
+Assure-toi juste
+que ça dit pas "Smallville".
+
+204
+00:18:46,170 --> 00:18:48,661  X1:218 X2:498 Y1:356 Y2:419
+- Allez, allez, vas-y!
+- Sois le camion!
+
+205
+00:18:48,839 --> 00:18:52,570  X1:135 X2:581 Y1:352 Y2:419
+- Sois le camion! Sois le camion!
+- Vous êtes dingues, les mecs!
+
+206
+00:19:08,693 --> 00:19:11,958  X1:211 X2:504 Y1:356 Y2:419
+- Ouais.
+- Ouais! Tu l'as fait!
+
+207
+00:19:24,775 --> 00:19:27,209  X1:202 X2:513 Y1:352 Y2:419
+Ton pêre m'a dit
+que tu t'étais réveillée.
+
+208
+00:19:27,912 --> 00:19:31,040  X1:130 X2:586 Y1:380 Y2:419
+Tu es mon premier visiteur officiel.
+
+209
+00:19:32,149 --> 00:19:34,014  X1:232 X2:484 Y1:384 Y2:419
+Comment vas-tu?
+
+210
+00:19:34,185 --> 00:19:38,315  X1:150 X2:566 Y1:352 Y2:419
+Comme un million de dollars
+passés à la machine et essorés.
+
+211
+00:19:38,889 --> 00:19:42,416  X1:170 X2:546 Y1:352 Y2:419
+- On était tous três inquiets.
+- Oui, je le sais.
+
+212
+00:19:42,593 --> 00:19:45,426  X1:195 X2:521 Y1:356 Y2:419
+On dirait que le fleuriste
+a été dévalisé.
+
+213
+00:19:45,830 --> 00:19:48,993  X1:130 X2:584 Y1:380 Y2:419
+J'aime spécialement celles de Lex.
+
+214
+00:19:49,333 --> 00:19:52,166  X1:164 X2:552 Y1:352 Y2:419
+C'est comme si j'avais gagné
+le Kentucky Derby.
+
+215
+00:19:57,241 --> 00:20:01,302  X1:182 X2:534 Y1:352 Y2:419
+Elles sont superbes, Clark.
+Ce sont mes préférées.
+
+216
+00:20:04,648 --> 00:20:07,082  X1:120 X2:595 Y1:380 Y2:419
+Je voulais te dire que je suis désolé.
+
+217
+00:20:09,353 --> 00:20:10,820  X1:280 X2:437 Y1:380 Y2:419
+Pourquoi?
+
+218
+00:20:12,123 --> 00:20:14,489  X1:162 X2:554 Y1:380 Y2:419
+De n'avoir pas su te protéger.
+
+219
+00:20:14,658 --> 00:20:18,116  X1:164 X2:552 Y1:380 Y2:419
+Et moi, tu m'inquiêtes, Clark.
+
+220
+00:20:18,295 --> 00:20:21,594  X1:160 X2:556 Y1:352 Y2:419
+Savoir que tu n'as pas éteint
+l'incendie à Chicago en 1871.
+
+221
+00:20:22,266 --> 00:20:26,168  X1:148 X2:570 Y1:356 Y2:419
+Ni empêché la chute de l'empire
+romain. Tout est de ta faute!
+
+222
+00:20:28,839 --> 00:20:31,000  X1:306 X2:410 Y1:384 Y2:419
+Merci.
+
+223
+00:20:32,943 --> 00:20:36,845  X1:160 X2:556 Y1:380 Y2:419
+Tu te rappelles de ces types?
+
+224
+00:20:37,014 --> 00:20:41,508  X1:110 X2:607 Y1:352 Y2:419
+D'une chose. Le type qui m'a attrapée
+avait un tatouage sur l'avant-bras.
+
+225
+00:20:42,353 --> 00:20:44,719  X1:177 X2:540 Y1:380 Y2:419
+Un octogone, il me semble.
+
+226
+00:20:45,256 --> 00:20:48,748  X1:181 X2:536 Y1:352 Y2:419
+- Que se passe-t-il, Clark?
+- Je ne sais pas.
+
+227
+00:20:48,926 --> 00:20:51,451  X1:149 X2:568 Y1:380 Y2:419
+Laisse-moi creuser un petit peu.
+
+228
+00:20:51,629 --> 00:20:56,464  X1:138 X2:577 Y1:352 Y2:419
+Clark Kent, journaliste-enquêteur.
+Au son, c'est pas mal.
+
+229
+00:21:01,772 --> 00:21:04,798  X1:220 X2:496 Y1:352 Y2:419
+- Repose-toi un peu.
+- Je vais essayer.
+
+230
+00:21:07,812 --> 00:21:10,144  X1:306 X2:410 Y1:384 Y2:419
+Merci.
+
+231
+00:21:13,751 --> 00:21:15,912  X1:210 X2:507 Y1:352 Y2:419
+Ce théâtre a un passé
+pour plein de gens.
+
+232
+00:21:16,086 --> 00:21:20,182  X1:101 X2:614 Y1:352 Y2:419
+J'y étais tous les samedis quand j'étais
+gosse. 8ême rang au milieu.
+
+233
+00:21:20,357 --> 00:21:22,757  X1:175 X2:541 Y1:352 Y2:419
+Quand la lumiêre baissait
+et que l'écran tremblotait...
+
+234
+00:21:22,927 --> 00:21:26,761  X1:175 X2:541 Y1:352 Y2:419
+les problêmes de l'extérieur
+disparaissaient.
+
+235
+00:21:27,631 --> 00:21:30,725  X1:177 X2:539 Y1:352 Y2:419
+C'était comme se retrouver
+dans un lieu magique.
+
+236
+00:21:30,901 --> 00:21:35,338  X1:170 X2:545 Y1:352 Y2:419
+Jolie histoire, mais pourquoi
+est-ce si important?
+
+237
+00:21:38,409 --> 00:21:43,574  X1:143 X2:573 Y1:356 Y2:419
+Mes parents s'y sont rencontrés.
+Je me raccroche à ce souvenir.
+
+238
+00:21:45,883 --> 00:21:51,753  X1:123 X2:593 Y1:352 Y2:419
+Je dois donc protéger ce monument
+pour les souvenirs de Lana Lang.
+
+239
+00:21:51,922 --> 00:21:54,322  X1:128 X2:587 Y1:380 Y2:419
+Ce n'est pas ce que je voulais dire.
+
+240
+00:21:54,491 --> 00:21:59,190  X1:155 X2:561 Y1:352 Y2:419
+T'es une ado, Lana.
+Le sentiment ne te réussit pas.
+
+241
+00:22:01,131 --> 00:22:04,931  X1:152 X2:564 Y1:352 Y2:419
+Je croyais que tu comprendrais
+Je me suis trompée.
+
+242
+00:22:05,102 --> 00:22:06,933  X1:193 X2:523 Y1:382 Y2:419
+C'est du business, Lana.
+
+243
+00:22:07,104 --> 00:22:11,564  X1:141 X2:575 Y1:352 Y2:419
+Tout est transformé en bureaux.
+Cette ville a besoin d'un parking.
+
+244
+00:22:12,810 --> 00:22:14,903  X1:116 X2:601 Y1:380 Y2:419
+Donc, tu ne changes rien à tes plans.
+
+245
+00:22:15,079 --> 00:22:18,480  X1:200 X2:516 Y1:352 Y2:419
+Tu ne m'as pas donné
+de raison d'en changer.
+
+246
+00:22:19,149 --> 00:22:22,550  X1:145 X2:568 Y1:352 Y2:419
+Si tu veux m'excuser,
+j'ai un problême urgent à régler.
+
+247
+00:22:34,331 --> 00:22:36,629  X1:170 X2:546 Y1:380 Y2:419
+Whitney, tu as une minute?
+
+248
+00:22:38,269 --> 00:22:39,964  X1:247 X2:467 Y1:380 Y2:419
+Je suis occupé.
+
+249
+00:22:41,505 --> 00:22:44,167  X1:171 X2:546 Y1:352 Y2:419
+Tu te rappelles le type, hier,
+qui voulait des chaussures?
+
+250
+00:22:44,341 --> 00:22:46,935  X1:153 X2:563 Y1:352 Y2:419
+- Non. Il passe plein de monde.
+- Whitney, c'est sérieux.
+
+251
+00:22:47,912 --> 00:22:49,470  X1:251 X2:464 Y1:384 Y2:419
+Va doucement.
+
+252
+00:22:50,814 --> 00:22:54,648  X1:137 X2:578 Y1:352 Y2:419
+- C'est quoi, ce tatouage?
+- Occupe-toi de ce qui te regarde.
+
+253
+00:22:54,818 --> 00:22:57,878  X1:158 X2:559 Y1:380 Y2:419
+Ecoute, ces gars te l'ont fait?
+
+254
+00:22:59,156 --> 00:23:01,090  X1:170 X2:545 Y1:380 Y2:419
+Whitney, il y a un problême.
+
+255
+00:23:03,761 --> 00:23:08,528  X1:119 X2:598 Y1:352 Y2:419
+Tu essaies de me voler Lana.
+Maintenant, tu joues les Boy Scouts.
+
+256
+00:23:08,699 --> 00:23:10,860  X1:236 X2:480 Y1:380 Y2:419
+Ce n'est pas vrai.
+
+257
+00:23:11,035 --> 00:23:14,163  X1:143 X2:573 Y1:354 Y2:419
+C'est dur de te voir comme
+les autres te voient, hein, Kent?
+
+258
+00:23:14,805 --> 00:23:18,741  X1:161 X2:555 Y1:352 Y2:419
+- Fais attention à ces types.
+- Tu n'es pas mon pêre, Kent.
+
+259
+00:23:18,909 --> 00:23:21,844  X1:184 X2:533 Y1:380 Y2:419
+Maintenant, fous le camp.
+
+260
+00:23:36,460 --> 00:23:40,021  X1:200 X2:517 Y1:352 Y2:419
+Paraît que tu as appelé.
+Ca avait l'air urgent.
+
+261
+00:23:41,165 --> 00:23:44,657  X1:116 X2:600 Y1:352 Y2:419
+- Tu as vu Whitney aujourd'hui?
+- Je lui ai demandé ce qui se passait.
+
+262
+00:23:44,835 --> 00:23:47,633  X1:131 X2:584 Y1:352 Y2:419
+Il a dit qu'il était sorti
+avec de nouveaux amis, l'air gêné.
+
+263
+00:23:47,805 --> 00:23:51,172  X1:190 X2:526 Y1:352 Y2:419
+Quand j'ai voulu insister,
+il m'a envoyée balader.
+
+264
+00:23:52,543 --> 00:23:57,242  X1:139 X2:578 Y1:352 Y2:419
+C'est dur de voir souffrir les amis
+et de ne pas pouvoir les aider.
+
+265
+00:23:58,315 --> 00:24:02,843  X1:140 X2:575 Y1:352 Y2:419
+Lana, je ne sais si je dois te dire
+que Whitney a perdu sa bourse...
+
+266
+00:24:03,454 --> 00:24:05,513  X1:304 X2:413 Y1:384 Y2:419
+Quoi?
+
+267
+00:24:05,689 --> 00:24:08,749  X1:177 X2:540 Y1:380 Y2:419
+Pourquoi me l'a-t-il caché?
+
+268
+00:24:10,427 --> 00:24:15,057  X1:155 X2:560 Y1:352 Y2:419
+Il était si prês de son rêve.
+Voir tout s'écrouler d'un coup.
+
+269
+00:24:15,232 --> 00:24:16,859  X1:220 X2:496 Y1:380 Y2:419
+Ca doit être terrible.
+
+270
+00:24:17,768 --> 00:24:19,895  X1:202 X2:514 Y1:384 Y2:419
+Merci de me l'avoir dit.
+
+271
+00:24:20,070 --> 00:24:22,595  X1:233 X2:482 Y1:384 Y2:419
+Tu es un vrai ami.
+
+272
+00:24:28,345 --> 00:24:31,109  X1:102 X2:614 Y1:352 Y2:419
+Je suis allé au <i>Torch</i>.
+Ce sont les nouveaux amis de Whitney.
+
+273
+00:24:32,116 --> 00:24:35,552  X1:136 X2:580 Y1:356 Y2:419
+Wade Mahaney et Scott Bowman.
+Classe 1996.
+
+274
+00:24:36,220 --> 00:24:39,212  X1:129 X2:587 Y1:352 Y2:419
+- Qui sont ces types?
+- Il y a six ans, ils étaient Whitney.
+
+275
+00:24:39,390 --> 00:24:43,622  X1:119 X2:597 Y1:356 Y2:419
+Athlêtes, calés en football, baseball,
+basket. Les vedettes de l'école.
+
+276
+00:24:44,428 --> 00:24:47,795  X1:168 X2:547 Y1:352 Y2:419
+- Qu'est-il arrivé?
+- Eh bien, selon la légende...
+
+277
+00:24:47,965 --> 00:24:50,024  X1:158 X2:558 Y1:352 Y2:419
+Wade s'est blessé
+et Scott s'est mis à la drogue.
+
+278
+00:24:50,334 --> 00:24:53,531  X1:154 X2:562 Y1:384 Y2:419
+Ils ont vu leur futur s'évanouir.
+
+279
+00:24:54,138 --> 00:24:57,403  X1:112 X2:604 Y1:352 Y2:419
+- Tu crois que Whitney a des ennuis?
+- Je ne sais pas.
+
+280
+00:24:57,574 --> 00:25:01,135  X1:182 X2:533 Y1:352 Y2:419
+J'ai voulu lui parler,
+mais il ne m'a pas écouté.
+
+281
+00:25:01,779 --> 00:25:04,577  X1:158 X2:558 Y1:356 Y2:419
+Il pense qu'avoir une bourse
+est sa seule chance hors d'ici.
+
+282
+00:25:04,748 --> 00:25:08,445  X1:130 X2:585 Y1:352 Y2:419
+S'il pouvait se voir avec mes yeux.
+Il vaut bien plus que le football.
+
+283
+00:25:08,619 --> 00:25:10,143  X1:177 X2:540 Y1:384 Y2:419
+Il a de la chance de t'avoir.
+
+284
+00:25:11,355 --> 00:25:13,050  X1:251 X2:466 Y1:384 Y2:419
+Belle influence.
+
+285
+00:25:13,223 --> 00:25:16,556  X1:146 X2:569 Y1:352 Y2:419
+Je ne peux convaincre personne
+de bouger, aujourd'hui.
+
+286
+00:25:16,727 --> 00:25:19,252  X1:154 X2:563 Y1:380 Y2:419
+Est-ce que tu parles du Talon?
+
+287
+00:25:19,430 --> 00:25:23,389  X1:121 X2:594 Y1:352 Y2:419
+J'ai rencontré Lex, plaidé ma cause,
+mais il m'a envoyée paître.
+
+288
+00:25:23,567 --> 00:25:27,128  X1:182 X2:536 Y1:354 Y2:419
+Il m'a dit que mes raisons,
+en affaires, ne valent rien.
+
+289
+00:25:27,304 --> 00:25:29,169  X1:242 X2:473 Y1:380 Y2:419
+C'est plutôt dur.
+
+290
+00:25:30,808 --> 00:25:35,336  X1:128 X2:589 Y1:352 Y2:419
+Mais ce qui me rend vraiment folle,
+c'est le fait qu'il a raison.
+
+291
+00:25:36,246 --> 00:25:39,977  X1:147 X2:569 Y1:352 Y2:419
+Ce n'était peut-être pas un non,
+peut-être plutôt un défi.
+
+292
+00:25:40,150 --> 00:25:44,644  X1:126 X2:590 Y1:352 Y2:419
+- Mon vrai défi est d'aider Whitney.
+- Laisse-moi t'y aider.
+
+293
+00:25:45,689 --> 00:25:50,126  X1:156 X2:561 Y1:352 Y2:419
+Clark, pourquoi fais-tu ça?
+Non pas que je n'apprécie pas.
+
+294
+00:25:50,294 --> 00:25:54,993  X1:077 X2:639 Y1:352 Y2:419
+Je n'ai pas su protéger Chloé.
+Il est peut-être encore temps pour Whitney.
+
+295
+00:26:11,448 --> 00:26:13,439  X1:204 X2:511 Y1:380 Y2:419
+T'as eu un avant-goût.
+
+296
+00:26:13,617 --> 00:26:16,882  X1:203 X2:513 Y1:352 Y2:419
+Tu veux savoir
+de quoi il s'agit, mec?
+
+297
+00:26:17,087 --> 00:26:19,988  X1:260 X2:455 Y1:384 Y2:419
+Oui. Bien sûr.
+
+298
+00:26:39,343 --> 00:26:42,141  X1:134 X2:581 Y1:382 Y2:419
+<i>Je suis content de te voir, Luthor. </i>
+
+299
+00:26:42,312 --> 00:26:46,715  X1:221 X2:494 Y1:356 Y2:419
+<i>Entre. Tu trouveras</i>
+<i>une chambre froide. </i>
+
+300
+00:26:46,884 --> 00:26:49,318  X1:274 X2:440 Y1:384 Y2:419
+<i>Attends là. </i>
+
+301
+00:26:59,796 --> 00:27:02,026  X1:248 X2:469 Y1:384 Y2:419
+Et maintenant?
+
+302
+00:27:23,220 --> 00:27:26,246  X1:187 X2:530 Y1:354 Y2:419
+- Comment avez-vous...?
+- Ouvre la valise, Lex.
+
+303
+00:27:27,524 --> 00:27:30,823  X1:197 X2:518 Y1:352 Y2:419
+- Le disque dur d'abord.
+- L'argent, Lex.
+
+304
+00:27:30,994 --> 00:27:32,757  X1:212 X2:504 Y1:380 Y2:419
+Donne-nous l'argent!
+
+305
+00:27:32,930 --> 00:27:34,227  X1:221 X2:496 Y1:356 Y2:419
+- Que se passe-t-il?
+- Silence.
+
+306
+00:27:43,407 --> 00:27:46,376  X1:169 X2:547 Y1:384 Y2:419
+C'est vide. Il nous a baisés!
+
+307
+00:27:46,543 --> 00:27:51,412  X1:121 X2:594 Y1:354 Y2:419
+- Avec l'argent, je serais mort aussi.
+- Grosse erreur, richard.
+
+308
+00:27:53,517 --> 00:27:56,213  X1:141 X2:576 Y1:352 Y2:419
+Si je passe la main dans ton cou,
+je te tue.
+
+309
+00:27:57,588 --> 00:28:00,250  X1:173 X2:543 Y1:356 Y2:419
+- On veut ce putain de fric!
+- Arrêtez!
+
+310
+00:28:00,424 --> 00:28:02,756  X1:142 X2:574 Y1:352 Y2:419
+- Donne-nous le fric!
+- T'avais pas dit qu'on ferait ça!
+
+311
+00:28:02,926 --> 00:28:04,621  X1:225 X2:489 Y1:380 Y2:419
+J'ai dit, ta gueule!
+
+312
+00:28:05,095 --> 00:28:06,790  X1:207 X2:508 Y1:382 Y2:419
+Arrêtez, vous le tuez!
+
+313
+00:28:08,632 --> 00:28:10,896  X1:154 X2:562 Y1:380 Y2:419
+Wade, il est temps de se tirer!
+
+314
+00:28:11,068 --> 00:28:13,332  X1:143 X2:574 Y1:380 Y2:419
+La prochaine fois, amêne le fric!
+
+315
+00:28:33,790 --> 00:28:35,758  X1:259 X2:458 Y1:382 Y2:419
+Entre, le bleu.
+
+316
+00:28:48,939 --> 00:28:51,703  X1:169 X2:548 Y1:352 Y2:419
+Qu'est-ce qui t'a pris, mec?
+A quoi pensais-tu?
+
+317
+00:28:51,875 --> 00:28:54,867  X1:167 X2:549 Y1:352 Y2:419
+- Il ne pensait pas!
+- Je n'ai pas signé pour tuer.
+
+318
+00:28:55,279 --> 00:28:56,906  X1:163 X2:554 Y1:380 Y2:419
+Oh, c'est donc ça, Fordman?
+
+319
+00:28:57,080 --> 00:28:59,708  X1:159 X2:556 Y1:352 Y2:419
+- Tu veux nous quitter?
+- J'ai pas dit ça. C'est juste...
+
+320
+00:29:01,018 --> 00:29:04,886  X1:127 X2:588 Y1:352 Y2:419
+Luthor n'est pas le genre de type
+qui va juste payer, puis s'en aller...
+
+321
+00:29:05,055 --> 00:29:09,082  X1:148 X2:565 Y1:352 Y2:419
+T'en fais pas pour Luthor,
+je lui ai filé la trouille de sa vie.
+
+322
+00:29:09,259 --> 00:29:12,160  X1:142 X2:574 Y1:380 Y2:419
+Ca va être notre plus gros coup!
+
+323
+00:29:12,329 --> 00:29:14,854  X1:224 X2:493 Y1:352 Y2:419
+D'accord, d'accord,
+allez, ça suffit.
+
+324
+00:29:15,032 --> 00:29:16,693  X1:235 X2:481 Y1:384 Y2:419
+Tout va três bien.
+
+325
+00:29:16,867 --> 00:29:19,097  X1:128 X2:589 Y1:380 Y2:419
+T'as juste eu la pétoche, c'est ça?
+
+326
+00:29:25,642 --> 00:29:30,477  X1:109 X2:607 Y1:352 Y2:419
+- Il va tout faire foirer!
+- Regarde-nous, mec, on se consume!
+
+327
+00:29:30,647 --> 00:29:34,981  X1:116 X2:599 Y1:352 Y2:419
+On ne peut plus hésiter. On a besoin
+de sang neuf pour faire durer le rêve.
+
+328
+00:29:36,253 --> 00:29:39,518  X1:096 X2:620 Y1:380 Y2:419
+Va te prendre une biêre et décompresse.
+
+329
+00:29:50,767 --> 00:29:52,632  X1:264 X2:452 Y1:382 Y2:419
+Ecoute, mec.
+
+330
+00:29:52,803 --> 00:29:55,294  X1:132 X2:583 Y1:380 Y2:419
+J'ai fait ce que j'ai pu pour toi, là.
+
+331
+00:29:55,472 --> 00:29:58,771  X1:186 X2:530 Y1:380 Y2:419
+Ne me laisse plus tomber.
+
+332
+00:29:59,710 --> 00:30:01,610  X1:286 X2:431 Y1:384 Y2:419
+D'accord.
+
+333
+00:30:03,513 --> 00:30:05,606  X1:164 X2:551 Y1:380 Y2:419
+Arrête de flipper pour Luthor.
+
+334
+00:30:05,782 --> 00:30:09,081  X1:166 X2:547 Y1:352 Y2:419
+Dês qu'il aboulera le fric,
+je crois qu'il va disparaître...
+
+335
+00:30:09,252 --> 00:30:12,187  X1:208 X2:507 Y1:380 Y2:419
+pour un long moment.
+
+336
+00:30:14,558 --> 00:30:16,526  X1:309 X2:407 Y1:384 Y2:419
+Allez.
+
+337
+00:30:27,537 --> 00:30:29,027  X1:268 X2:447 Y1:382 Y2:419
+Alors, Lex...
+
+338
+00:30:29,206 --> 00:30:32,004  X1:155 X2:562 Y1:380 Y2:419
+que faisais-tu avec ces types?
+
+339
+00:30:34,311 --> 00:30:36,541  X1:184 X2:533 Y1:382 Y2:419
+Ils me font chanter, Clark.
+
+340
+00:30:36,713 --> 00:30:39,511  X1:090 X2:625 Y1:380 Y2:419
+J'y suis allé pour déposer quelque chose.
+
+341
+00:30:41,151 --> 00:30:45,212  X1:176 X2:540 Y1:352 Y2:419
+Tu te demandes si ton pêre
+a eu raison à mon sujet?
+
+342
+00:30:46,490 --> 00:30:49,618  X1:117 X2:599 Y1:356 Y2:419
+Ils ont volé un disque informatique
+contenant des informations secrêtes.
+
+343
+00:30:49,793 --> 00:30:52,261  X1:243 X2:473 Y1:352 Y2:419
+- Quel genre?
+- Rien d'illégal...
+
+344
+00:30:52,429 --> 00:30:54,829  X1:144 X2:572 Y1:352 Y2:419
+mais ce n'est pas quelque chose
+à révéler au public.
+
+345
+00:30:55,232 --> 00:30:59,726  X1:122 X2:594 Y1:352 Y2:419
+- Ca explique l'absence de la police.
+- Je t'ai dit que je me débrouillerais.
+
+346
+00:30:59,903 --> 00:31:02,201  X1:167 X2:550 Y1:380 Y2:419
+Question: que faisais-tu là?
+
+347
+00:31:02,606 --> 00:31:04,198  X1:223 X2:491 Y1:380 Y2:419
+Je suivais Whitney.
+
+348
+00:31:04,374 --> 00:31:06,808  X1:170 X2:547 Y1:356 Y2:419
+Il est copain avec ces types.
+Je voulais l'aider.
+
+349
+00:31:06,977 --> 00:31:09,571  X1:187 X2:531 Y1:384 Y2:419
+Est-ce à cause de Chloé?
+
+350
+00:31:10,847 --> 00:31:12,872  X1:130 X2:586 Y1:380 Y2:419
+Clark, tu ne peux sauver le monde.
+
+351
+00:31:13,049 --> 00:31:15,984  X1:131 X2:585 Y1:352 Y2:419
+Tout ce que tu auras,
+c'est un complexe et des ennemis.
+
+352
+00:31:16,686 --> 00:31:19,746  X1:132 X2:584 Y1:356 Y2:419
+Je t'ai sauvé, non? Et finalement,
+c'est une bonne chose.
+
+353
+00:31:23,427 --> 00:31:24,758  X1:234 X2:482 Y1:384 Y2:419
+Que vas-tu faire?
+
+354
+00:31:25,262 --> 00:31:29,392  X1:173 X2:544 Y1:352 Y2:419
+Ils vont voir ce qui se passe
+quand on vole Lex Luthor.
+
+355
+00:31:29,566 --> 00:31:31,227  X1:235 X2:483 Y1:380 Y2:419
+Et pour Whitney?
+
+356
+00:31:31,635 --> 00:31:34,798  X1:195 X2:520 Y1:352 Y2:419
+Un homme se mesure
+à la qualité de ses amis.
+
+357
+00:31:34,971 --> 00:31:38,202  X1:132 X2:583 Y1:352 Y2:419
+S'il est avec ces types,
+il en supportera les conséquences.
+
+358
+00:31:59,696 --> 00:32:01,755  X1:138 X2:578 Y1:384 Y2:419
+On devait se rencontrer au <i>Torch</i>.
+
+359
+00:32:01,932 --> 00:32:03,866  X1:178 X2:538 Y1:380 Y2:419
+Oui, mais Chloé a appelé...
+
+360
+00:32:04,501 --> 00:32:07,698  X1:120 X2:596 Y1:352 Y2:419
+- Je lui ai dit ce qu'on faisait...
+- Voilà pourquoi je voulais vous voir.
+
+361
+00:32:07,871 --> 00:32:10,897  X1:161 X2:554 Y1:352 Y2:419
+- Tu devrais te reposer.
+- Tout ce repos me rend folle.
+
+362
+00:32:11,074 --> 00:32:15,408  X1:138 X2:577 Y1:352 Y2:419
+Tous ces soi-disant "médecins"
+veulent que je reste dans mon lit.
+
+363
+00:32:15,579 --> 00:32:17,479  X1:241 X2:474 Y1:384 Y2:419
+Quels fascistes!
+
+364
+00:32:19,216 --> 00:32:21,946  X1:131 X2:586 Y1:352 Y2:419
+Je dois le faire, OK?
+Ne m'en empêche pas, s'il te plaît.
+
+365
+00:32:22,285 --> 00:32:23,274  X1:286 X2:431 Y1:384 Y2:419
+D'accord.
+
+366
+00:32:23,820 --> 00:32:26,618  X1:184 X2:530 Y1:352 Y2:419
+Je surfais sur le Net,
+je faisais une recherche...
+
+367
+00:32:26,790 --> 00:32:28,724  X1:163 X2:554 Y1:384 Y2:419
+Comment t'es-tu connectée?
+
+368
+00:32:28,892 --> 00:32:31,827  X1:145 X2:572 Y1:380 Y2:419
+Pete a piraté une ligne pour moi.
+
+369
+00:32:35,098 --> 00:32:36,087  X1:237 X2:480 Y1:384 Y2:419
+Qu'as-tu trouvé?
+
+370
+00:32:36,266 --> 00:32:39,758  X1:077 X2:641 Y1:352 Y2:419
+Et s'ils avaient des tatouages de météorites
+pour accélérer leur métabolisme?
+
+371
+00:32:40,003 --> 00:32:43,598  X1:153 X2:564 Y1:352 Y2:419
+Pour que leurs molécules
+bougent à la vitesse de l'éclair.
+
+372
+00:32:44,407 --> 00:32:47,968  X1:130 X2:586 Y1:352 Y2:419
+- Ils pourraient traverser les murs?
+- C'est dingue.
+
+373
+00:32:48,144 --> 00:32:50,840  X1:203 X2:513 Y1:382 Y2:419
+En tout cas, ils le font.
+
+374
+00:32:51,181 --> 00:32:52,614  X1:174 X2:542 Y1:380 Y2:419
+C'est comme le sprint final.
+
+375
+00:32:52,782 --> 00:32:56,616  X1:134 X2:582 Y1:352 Y2:419
+Mais leurs corps ne pourront pas
+supporter un tel stress longtemps.
+
+376
+00:32:56,786 --> 00:32:58,515  X1:212 X2:505 Y1:380 Y2:419
+Et que va-t-il arriver?
+
+377
+00:32:59,055 --> 00:33:02,081  X1:172 X2:545 Y1:352 Y2:419
+Tu disputes le sprint ultime,
+tu paies le prix ultime.
+
+378
+00:33:13,203 --> 00:33:15,637  X1:251 X2:467 Y1:382 Y2:419
+Nell, c'est toi?
+
+379
+00:33:25,148 --> 00:33:27,378  X1:209 X2:506 Y1:382 Y2:419
+J'ai des ennuis, Lana.
+
+380
+00:33:27,551 --> 00:33:29,143  X1:249 X2:465 Y1:384 Y2:419
+J'ai fait le con.
+
+381
+00:33:29,319 --> 00:33:30,980  X1:129 X2:585 Y1:384 Y2:419
+J'ai eu tort de leur faire confiance.
+
+382
+00:33:31,254 --> 00:33:33,245  X1:252 X2:463 Y1:384 Y2:419
+Je suis désolé.
+
+383
+00:33:33,423 --> 00:33:35,482  X1:185 X2:529 Y1:352 Y2:419
+Je t'ai laissée tomber.
+Je ne sais plus quoi faire.
+
+384
+00:33:36,526 --> 00:33:40,053  X1:212 X2:504 Y1:384 Y2:419
+C'est bon. C'est bon.
+
+385
+00:33:49,639 --> 00:33:52,233  X1:187 X2:530 Y1:356 Y2:419
+Quand ils auront l'argent,
+ils vont tuer Lex...
+
+386
+00:33:52,409 --> 00:33:54,138  X1:139 X2:576 Y1:380 Y2:419
+et moi aussi pour les avoir trahis.
+
+387
+00:33:54,311 --> 00:33:57,075  X1:183 X2:533 Y1:352 Y2:419
+- Tu as fait ce qu'il fallait.
+- Ouais, mais trop tard.
+
+388
+00:33:57,247 --> 00:33:58,737  X1:175 X2:541 Y1:384 Y2:419
+Oû sont-ils en ce moment?
+
+389
+00:33:59,449 --> 00:34:02,350  X1:155 X2:561 Y1:380 Y2:419
+Au loft, en train de se reposer.
+
+390
+00:34:02,519 --> 00:34:05,920  X1:145 X2:571 Y1:356 Y2:419
+- Tu as vu le disque volé à Lex?
+- Non.
+
+391
+00:34:06,089 --> 00:34:08,421  X1:168 X2:546 Y1:352 Y2:419
+Mais il doit être là.
+Je peux peut-être le trouver.
+
+392
+00:34:08,725 --> 00:34:12,161  X1:110 X2:606 Y1:356 Y2:419
+- C'est dangereux. Appelons la police.
+- Pas de flics.
+
+393
+00:34:12,329 --> 00:34:14,854  X1:184 X2:531 Y1:356 Y2:419
+- J'ai déjà assez d'ennuis.
+- Dis-moi oû ils sont.
+
+394
+00:34:15,031 --> 00:34:20,128  X1:139 X2:577 Y1:352 Y2:419
+- Je peux y aller avant leur réveil.
+- Tu n'iras pas tout seul, Clark.
+
+395
+00:34:20,637 --> 00:34:23,697  X1:137 X2:578 Y1:356 Y2:419
+Je me suis mis dans cette merde,
+c'est à moi de m'en sortir.
+
+396
+00:34:36,853 --> 00:34:39,014  X1:197 X2:519 Y1:356 Y2:419
+C'est vide.
+Ils sont à ma recherche.
+
+397
+00:34:39,189 --> 00:34:42,420  X1:124 X2:591 Y1:380 Y2:419
+Trouvons-le avant qu'ils reviennent.
+
+398
+00:34:52,836 --> 00:34:54,770  X1:253 X2:463 Y1:380 Y2:419
+Il n'est pas ici.
+
+399
+00:34:54,938 --> 00:34:58,806  X1:168 X2:548 Y1:352 Y2:419
+Cherche-le.
+Il est sûrement quelque part.
+
+400
+00:35:11,187 --> 00:35:13,553  X1:301 X2:414 Y1:384 Y2:419
+Je l'ai.
+
+401
+00:35:29,005 --> 00:35:31,769  X1:099 X2:617 Y1:382 Y2:419
+T'as vraiment fait une connerie, le bleu.
+
+402
+00:35:38,214 --> 00:35:43,174  X1:105 X2:611 Y1:352 Y2:419
+Je ne sais pas comment tu l'as trouvé,
+mais il me faut ce disque. Maintenant.
+
+403
+00:35:59,402 --> 00:36:03,532  X1:112 X2:604 Y1:356 Y2:419
+Ca fait mal? Comme si on te bouffait
+les entrailles.
+
+404
+00:36:03,707 --> 00:36:07,473  X1:162 X2:554 Y1:352 Y2:419
+Si je restais assez longtemps,
+ça pourrait faire des dégâts.
+
+405
+00:36:17,587 --> 00:36:20,055  X1:242 X2:474 Y1:382 Y2:419
+A ton tour, mec.
+
+406
+00:36:33,770 --> 00:36:35,829  X1:273 X2:442 Y1:382 Y2:419
+Wade, non.
+
+407
+00:36:36,005 --> 00:36:38,439  X1:216 X2:499 Y1:380 Y2:419
+T'arrête pas, le bleu.
+
+408
+00:36:44,814 --> 00:36:48,079  X1:132 X2:584 Y1:352 Y2:419
+Je sais ce qui est arrivé à ton bras
+à la banque.
+
+409
+00:36:49,018 --> 00:36:52,317  X1:161 X2:555 Y1:352 Y2:419
+Ce sont les risques du métier.
+On a attendu trop longtemps.
+
+410
+00:36:52,489 --> 00:36:55,822  X1:127 X2:590 Y1:352 Y2:419
+Ca n'a pas fait mal. Quand j'ai tiré,
+j'étais comme soudé à l'épaule.
+
+411
+00:36:55,992 --> 00:36:58,483  X1:155 X2:561 Y1:356 Y2:419
+Vous ne pouvez pas continuer.
+Vous allez mourir.
+
+412
+00:36:58,661 --> 00:37:03,223  X1:166 X2:551 Y1:352 Y2:419
+Si t'avais pas fait tout foirer,
+tout ça ne serait pas arrivé!
+
+413
+00:37:03,399 --> 00:37:05,128  X1:287 X2:429 Y1:384 Y2:419
+Mais là...
+
+414
+00:37:05,301 --> 00:37:07,826  X1:264 X2:452 Y1:382 Y2:419
+tu vas payer.
+
+415
+00:37:12,876 --> 00:37:15,174  X1:147 X2:569 Y1:352 Y2:419
+- Comment tu nous as trouvés?
+- Lana a appelé...
+
+416
+00:37:15,345 --> 00:37:18,314  X1:149 X2:567 Y1:352 Y2:419
+et m'a dit ce que vous faisiez.
+Tu aurais dû m'appeler d'abord.
+
+417
+00:37:18,481 --> 00:37:20,779  X1:184 X2:531 Y1:354 Y2:419
+- Je dois trouver Whitney.
+- Clark, attends.
+
+418
+00:37:20,950 --> 00:37:23,316  X1:228 X2:487 Y1:380 Y2:419
+J'appelle la police.
+
+419
+00:37:33,696 --> 00:37:35,391  X1:153 X2:562 Y1:380 Y2:419
+Je croyais que t'avais compris.
+
+420
+00:37:35,565 --> 00:37:37,430  X1:150 X2:565 Y1:380 Y2:419
+C'était ta chance d'être au top.
+
+421
+00:37:37,600 --> 00:37:40,865  X1:126 X2:590 Y1:352 Y2:419
+J'ai cru ma vie foutue quand j'ai
+perdu ma bourse, mais c'était faux.
+
+422
+00:37:41,037 --> 00:37:44,200  X1:131 X2:585 Y1:382 Y2:419
+Non, c'était vrai, ta vie est foutue.
+
+423
+00:37:44,507 --> 00:37:47,943  X1:142 X2:575 Y1:352 Y2:419
+Tu te rappelles l'initiation, mec?
+C'est quand tu nous as rejoints.
+
+424
+00:37:48,111 --> 00:37:52,343  X1:123 X2:593 Y1:352 Y2:419
+Tu nous quitteras comme ça. On a
+plus le temps. Prends la commande.
+
+425
+00:37:55,318 --> 00:37:57,411  X1:281 X2:436 Y1:384 Y2:419
+Laissez-le.
+
+426
+00:38:03,526 --> 00:38:05,721  X1:191 X2:525 Y1:384 Y2:419
+Les flics sont en chemin.
+
+427
+00:38:06,396 --> 00:38:09,559  X1:126 X2:590 Y1:352 Y2:419
+Réfléchis bien, bleu.
+On ne nous quitte que d'une façon.
+
+428
+00:38:09,732 --> 00:38:11,324  X1:179 X2:537 Y1:380 Y2:419
+T'en fais pas, je te couvre.
+
+429
+00:38:37,227 --> 00:38:39,092  X1:252 X2:464 Y1:380 Y2:419
+Ne bouge pas!
+
+430
+00:38:40,430 --> 00:38:43,399  X1:218 X2:497 Y1:356 Y2:419
+- Les mains en l'air!
+- Mains en l'air!
+
+431
+00:38:47,203 --> 00:38:49,671  X1:232 X2:483 Y1:384 Y2:419
+Contre la voiture!
+
+432
+00:38:55,445 --> 00:38:58,175  X1:192 X2:524 Y1:380 Y2:419
+Qu'as-tu dit à la police?
+
+433
+00:38:58,414 --> 00:39:00,644  X1:287 X2:429 Y1:384 Y2:419
+La vérité.
+
+434
+00:39:01,050 --> 00:39:04,986  X1:074 X2:640 Y1:352 Y2:419
+J'ai dit que ces types sont entrés chez moi.
+Que vous avez résisté, joué les héros...
+
+435
+00:39:05,154 --> 00:39:07,019  X1:138 X2:577 Y1:356 Y2:419
+- Mais que c'était trop pour vous.
+- Et le...
+
+436
+00:39:07,190 --> 00:39:09,021  X1:153 X2:565 Y1:380 Y2:419
+Le passage à travers les murs?
+
+437
+00:39:09,192 --> 00:39:12,753  X1:166 X2:550 Y1:352 Y2:419
+Je ne pense pas que les flics
+puissent avaler cela.
+
+438
+00:39:13,096 --> 00:39:15,826  X1:199 X2:517 Y1:380 Y2:419
+Désolé pour ton disque.
+
+439
+00:39:16,699 --> 00:39:20,795  X1:127 X2:587 Y1:352 Y2:419
+Je ne suis pas venu pour ça, Clark.
+Je suis venu pour aider mon ami.
+
+440
+00:39:22,505 --> 00:39:24,632  X1:306 X2:410 Y1:384 Y2:419
+Merci.
+
+441
+00:39:39,622 --> 00:39:41,180  X1:192 X2:524 Y1:380 Y2:419
+Rappelez-vous, les gars:
+
+442
+00:39:41,357 --> 00:39:44,793  X1:194 X2:523 Y1:352 Y2:419
+vous gardez mon secret,
+je garde le vôtre.
+
+443
+00:39:51,100 --> 00:39:52,795  X1:281 X2:435 Y1:384 Y2:419
+Et sinon...
+
+444
+00:39:52,969 --> 00:39:56,268  X1:118 X2:597 Y1:352 Y2:419
+vous verrez que vous n'êtes pas
+les seuls à passer à travers les murs.
+
+445
+00:39:57,874 --> 00:40:00,274  X1:123 X2:594 Y1:352 Y2:419
+Bougez cette voiture.
+Nous devons emmener les suspects.
+
+446
+00:40:00,443 --> 00:40:01,603  X1:250 X2:467 Y1:382 Y2:419
+Bien, monsieur.
+
+447
+00:40:03,780 --> 00:40:08,217  X1:119 X2:596 Y1:062 Y2:128
+- Ah, le doux parfum de la liberté.
+- Tu étais à l'hôpital, pas à Alcatraz.
+
+448
+00:40:08,384 --> 00:40:11,717  X1:142 X2:574 Y1:352 Y2:419
+Va y passer une semaine
+et tu te sentiras aussi prisonnier.
+
+449
+00:40:11,888 --> 00:40:15,085  X1:106 X2:611 Y1:352 Y2:419
+Mauvaise nourriture, couvre-feu à 21 h,
+pas de câble?
+
+450
+00:40:15,258 --> 00:40:16,691  X1:138 X2:577 Y1:380 Y2:419
+Je vais peut-être faire un exposé.
+
+451
+00:40:20,263 --> 00:40:23,528  X1:143 X2:573 Y1:352 Y2:419
+- Au fait, comment va Whitney?
+- Il va pas mal.
+
+452
+00:40:23,700 --> 00:40:27,158  X1:213 X2:504 Y1:382 Y2:419
+Bon. Alors, à bientôt.
+
+453
+00:40:27,437 --> 00:40:30,099  X1:223 X2:494 Y1:354 Y2:419
+- Oh, pardon.
+- Chloé, oû vas-tu?
+
+454
+00:40:30,673 --> 00:40:32,641  X1:178 X2:540 Y1:352 Y2:419
+Faire quelques vérifications
+avec la police.
+
+455
+00:40:32,809 --> 00:40:34,868  X1:193 X2:523 Y1:356 Y2:419
+Aucune encre à tatouer
+n'a été trouvée au loft...
+
+456
+00:40:35,044 --> 00:40:37,604  X1:160 X2:556 Y1:352 Y2:419
+et Scott et Derek
+ne parlent à personne, alors...
+
+457
+00:40:37,780 --> 00:40:39,338  X1:202 X2:512 Y1:380 Y2:419
+Je sens le coup fourré.
+
+458
+00:40:41,851 --> 00:40:43,216  X1:185 X2:530 Y1:384 Y2:419
+C'est bon de te retrouver.
+
+459
+00:40:43,886 --> 00:40:45,945  X1:306 X2:410 Y1:384 Y2:419
+Merci.
+
+460
+00:40:50,460 --> 00:40:52,223  X1:243 X2:473 Y1:384 Y2:419
+Il est en avance.
+
+461
+00:40:52,595 --> 00:40:54,688  X1:120 X2:596 Y1:380 Y2:419
+Bien, un coup pour rien, maintenant.
+
+462
+00:40:54,864 --> 00:40:56,764  X1:216 X2:499 Y1:384 Y2:419
+C'est un bonne idée.
+
+463
+00:40:56,933 --> 00:40:59,527  X1:205 X2:511 Y1:356 Y2:419
+Merci pour ton aide.
+Dis-moi bonne chance.
+
+464
+00:40:59,802 --> 00:41:01,997  X1:224 X2:491 Y1:380 Y2:419
+T'en as pas besoin.
+
+465
+00:41:10,813 --> 00:41:13,407  X1:233 X2:484 Y1:384 Y2:419
+Merci d'être venu.
+
+466
+00:41:13,950 --> 00:41:15,747  X1:174 X2:541 Y1:380 Y2:419
+Ton coup de fil m'a surpris.
+
+467
+00:41:15,918 --> 00:41:18,819  X1:153 X2:564 Y1:352 Y2:419
+Aprês notre derniêre rencontre,
+je pensais ne plus te revoir.
+
+468
+00:41:18,988 --> 00:41:21,582  X1:195 X2:520 Y1:380 Y2:419
+Cette fois, je suis prête.
+
+469
+00:41:23,026 --> 00:41:24,493  X1:270 X2:447 Y1:380 Y2:419
+C'est quoi?
+
+470
+00:41:24,994 --> 00:41:27,485  X1:228 X2:488 Y1:380 Y2:419
+Un projet d'affaire.
+
+471
+00:41:27,663 --> 00:41:30,359  X1:137 X2:580 Y1:356 Y2:419
+Les petites villes à travers le pays
+ont fait revivre leur centre ville...
+
+472
+00:41:30,533 --> 00:41:33,866  X1:150 X2:565 Y1:352 Y2:419
+en en refaisant le centre social
+qu'il était autrefois. Mais pas...
+
+473
+00:41:34,037 --> 00:41:36,369  X1:136 X2:581 Y1:352 Y2:419
+en construisant des supermarchés
+ou d'immenses parkings.
+
+474
+00:41:36,539 --> 00:41:39,667  X1:130 X2:586 Y1:352 Y2:419
+Mais en restaurant
+les immeubles qui étaient déjà là...
+
+475
+00:41:39,842 --> 00:41:42,003  X1:164 X2:552 Y1:354 Y2:419
+en les transformant en cafés,
+librairies, restaurants.
+
+476
+00:41:42,178 --> 00:41:45,409  X1:167 X2:548 Y1:356 Y2:419
+Tu veux transformer le Talon
+en café-librairie?
+
+477
+00:41:45,581 --> 00:41:48,414  X1:142 X2:575 Y1:352 Y2:419
+Oû on pourrait faire des concerts
+ou passer des films.
+
+478
+00:41:48,584 --> 00:41:51,348  X1:171 X2:545 Y1:352 Y2:419
+J'ai découvert
+que l'on peut faire classer...
+
+479
+00:41:51,521 --> 00:41:54,752  X1:108 X2:608 Y1:352 Y2:419
+l'immeuble monument historique,
+ce qui permet des déductions d'impôt.
+
+480
+00:41:55,358 --> 00:41:58,759  X1:121 X2:595 Y1:380 Y2:419
+Mais ne me demande pas lesquelles.
+
+481
+00:41:59,562 --> 00:42:01,553  X1:238 X2:478 Y1:380 Y2:419
+Qui le dirigerait?
+
+482
+00:42:01,731 --> 00:42:03,824  X1:228 X2:489 Y1:384 Y2:419
+Nell est intéressée.
+
+483
+00:42:04,000 --> 00:42:08,027  X1:086 X2:630 Y1:352 Y2:419
+Je pourrais me former avec elle,
+et essayer de m'en occuper pendant l'été.
+
+484
+00:42:08,204 --> 00:42:10,934  X1:150 X2:566 Y1:380 Y2:419
+Qu'est-ce qui t'a donné l'idée?
+
+485
+00:42:11,207 --> 00:42:14,438  X1:143 X2:574 Y1:352 Y2:419
+Une remarque de Clark.
+Il m'a dit que tu aimais les défis.
+
+486
+00:42:14,610 --> 00:42:17,135  X1:199 X2:517 Y1:352 Y2:419
+Eh bien, on dirait
+que tu as relevé le défi.
+
+487
+00:42:18,281 --> 00:42:19,976  X1:244 X2:473 Y1:384 Y2:419
+Marché conclu?
+
+488
+00:42:20,149 --> 00:42:23,846  X1:172 X2:546 Y1:356 Y2:419
+Il faut que je vérifie tout ça,
+mais oui...
+
+489
+00:42:24,020 --> 00:42:26,284  X1:269 X2:448 Y1:356 Y2:419
+- Conclu.
+- Vraiment?
+
+490
+00:42:27,090 --> 00:42:28,318  X1:284 X2:431 Y1:384 Y2:419
+Vraiment.
+
+491
+00:42:28,491 --> 00:42:32,484  X1:138 X2:578 Y1:356 Y2:419
+Je pense qu'on pourrait démarrer
+une association três intéressante.
+
+492
+00:43:30,019 --> 00:43:31,008  X1:286 X2:430 Y1:062 Y2:098
+Resynchro : ScarHand
+

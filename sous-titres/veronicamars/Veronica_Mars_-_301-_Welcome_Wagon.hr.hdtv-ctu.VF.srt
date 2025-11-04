@@ -1,0 +1,3222 @@
+1
+00:00:16,147 --> 00:00:18,138
+Nous y voilà... Premier jour de fac.
+
+2
+00:00:18,315 --> 00:00:19,507
+Qu'en dis-tu, Veronica ?
+
+3
+00:00:19,667 --> 00:00:21,067
+Nouvelle école, nouveau départ...
+
+4
+00:00:21,147 --> 00:00:24,134
+Et si tu essayais de ne pas
+te faire d'ennemis cette fois ?
+
+5
+00:00:28,843 --> 00:00:31,777
+Bienvenue à l'université,
+là où on peut enfin sécher les cours.
+
+6
+00:00:33,247 --> 00:00:34,786
+Sauf le mien.
+
+7
+00:00:35,048 --> 00:00:38,083
+Sécher ? Mais je vais
+m'agraffer au sol !
+
+8
+00:00:39,154 --> 00:00:41,421
+Avant d'entrer dans le vif
+du sujet, on m'a demandé
+
+9
+00:00:41,477 --> 00:00:43,629
+de promouvoir le programme
+de tutorat des affaires criminelles.
+
+10
+00:00:43,907 --> 00:00:46,170
+On a affaire à des enfants
+à risque ici à Neptune.
+
+11
+00:00:46,362 --> 00:00:49,595
+Notre philosophie est qu'il vaut
+mieux intervenir en amont
+
+12
+00:00:49,867 --> 00:00:51,129
+plutôt que de régler
+les problèmes plus tard.
+
+13
+00:00:51,722 --> 00:00:53,666
+Mon assistant, Timothy Foyle,
+
+14
+00:00:53,739 --> 00:00:55,731
+prendra les noms de ceux
+qui se porteront volontaires.
+
+15
+00:00:56,558 --> 00:00:58,062
+Voici la liste de vos lectures
+pour ce semestre.
+
+16
+00:00:58,835 --> 00:01:00,550
+Ils devraient tous se trouver à
+votre bibliothèque étudiante.
+
+17
+00:01:00,636 --> 00:01:02,532
+Et pour votre livre, Dr. Landry ?
+
+18
+00:01:02,645 --> 00:01:04,642
+Le profiling est d'un tout autre niveau.
+
+19
+00:01:04,875 --> 00:01:06,392
+On doit savoir marcher avant de courir.
+
+20
+00:01:08,487 --> 00:01:10,783
+Très bien, que diriez-vous de
+commencer le semestre
+
+21
+00:01:10,787 --> 00:01:12,442
+avec un petit jeu ridicule ?
+
+22
+00:01:14,118 --> 00:01:16,231
+Un meurtre... sur le Riverboat Queen.
+
+23
+00:01:17,368 --> 00:01:18,613
+Si Tim vous donne une enveloppe,
+
+24
+00:01:18,798 --> 00:01:20,430
+cela fait de vous un passager
+et un témoin
+
+25
+00:01:20,695 --> 00:01:21,903
+sur le Riverboat Queen.
+
+26
+00:01:22,497 --> 00:01:23,700
+Allez y, ouvrez votre enveloppe.
+
+27
+00:01:24,007 --> 00:01:29,103
+Elle vous donnera tous les détails pour
+votre rôle. Qui vous êtes, qu'avez vous vu.
+
+28
+00:01:29,106 --> 00:01:31,770
+Si vous êtes le meurtrier, elle vous
+donne votre votre alibi.
+
+29
+00:01:32,185 --> 00:01:33,321
+Maintenant, si vous n'avez pas
+de carte,
+
+30
+00:01:33,358 --> 00:01:36,701
+vous êtes l'un des gnomes *
+appelé à bord pour résoudre ce mystère.
+
+31
+00:01:36,988 --> 00:01:39,611
+Vous pouvez interroger
+n'importe quel passager.
+
+32
+00:01:40,308 --> 00:01:43,903
+Le record actuel pour résoudre
+le mystère est de 16 minutes,
+
+33
+00:01:44,177 --> 00:01:46,292
+détenu par l'étonnant Mr. Foyle.
+
+34
+00:01:47,767 --> 00:01:49,051
+Très bien, détectives.
+
+35
+00:01:49,286 --> 00:01:51,282
+Vous pouvez interroger
+vos passagers...
+
+36
+00:01:52,835 --> 00:01:54,052
+...dès maintenant.
+
+37
+00:02:21,127 --> 00:02:22,123
+Oui ?
+
+38
+00:02:22,338 --> 00:02:24,433
+Le Dr. Landry voudrait que
+tout le monde participe.
+
+39
+00:02:25,085 --> 00:02:27,213
+Est-il possible que
+vous ayiez été mal orientée ?
+
+40
+00:02:27,755 --> 00:02:30,423
+Votre conseiller d'orientation peut vous
+trouver autre chose, vous savez.
+
+41
+00:02:31,026 --> 00:02:32,242
+L'école primaire, peut-être.
+
+42
+00:02:32,418 --> 00:02:33,883
+Je crois qu'on peut y lire
+des magasines.
+
+43
+00:02:33,887 --> 00:02:36,170
+Ils leur arrivent même de les découper,
+pour en faire des collages.
+
+44
+00:02:37,687 --> 00:02:38,940
+Je sais qui est le coupable.
+
+45
+00:02:41,938 --> 00:02:44,171
+- Dr. Landry.
+- Qu'avez vous donc ?
+
+46
+00:02:44,298 --> 00:02:46,081
+Cette fille dit qu'elle a trouvé.
+
+47
+00:02:46,435 --> 00:02:47,532
+Mais elle n'a pas bougé d'un iota.
+
+48
+00:02:48,737 --> 00:02:49,770
+Et vous êtes ?
+
+49
+00:02:50,005 --> 00:02:51,470
+Veronica Mars.
+
+50
+00:02:51,486 --> 00:02:54,562
+Alors, Veronica Mars, quel dangereux
+criminel allez vous mettre à l'ombre
+
+51
+00:02:54,615 --> 00:02:56,451
+pour le restant de ses jours ?
+
+52
+00:02:58,616 --> 00:03:01,502
+L'aveugle... enfin,
+soi-disant aveugle...
+
+53
+00:03:01,605 --> 00:03:03,641
+le violoniste, Rutherford Stiles.
+
+54
+00:03:08,446 --> 00:03:10,000
+Félicitations, Veronica.
+
+55
+00:03:10,656 --> 00:03:12,151
+C'est bon tout le monde,
+vous pouvez arrêter.
+
+56
+00:03:12,165 --> 00:03:14,571
+Nous avons une gagnante,
+et un nouveau record.
+
+57
+00:03:14,755 --> 00:03:15,813
+Six minutes.
+
+58
+00:03:16,765 --> 00:03:18,411
+Alors, comment avez-vous deviné ?
+
+59
+00:03:19,255 --> 00:03:22,492
+"Un meurtre sur le Riverboat Queen"
+était un jeu de société
+
+60
+00:03:22,495 --> 00:03:24,583
+édité par Wigman Toys à la fin
+des années 80.
+
+61
+00:03:25,116 --> 00:03:27,362
+Les fans du jeu ont monté
+des forums de discussion en ligne
+
+62
+00:03:27,407 --> 00:03:29,152
+qui révèlent certains détails.
+
+63
+00:03:29,616 --> 00:03:31,202
+J'ai ignoré les mentions "spoilers",
+
+64
+00:03:31,206 --> 00:03:33,153
+ce qui est un peu lâche,
+je l'avoue, mais...
+
+65
+00:03:33,295 --> 00:03:36,222
+Le jeu se passe dans les années 1890.
+Vous ne pouvez pas surfer sur le net.
+
+66
+00:03:37,196 --> 00:03:38,282
+C'était une règle ?
+
+67
+00:03:38,485 --> 00:03:39,403
+Ca n'en était pas une.
+
+68
+00:03:39,406 --> 00:03:41,950
+Et il y a deux tueurs possibles
+dans la boîte.
+
+69
+00:03:42,208 --> 00:03:44,331
+Vous avez juste tenté
+le tout pour le tout, n'est-ce pas ?
+
+70
+00:03:44,458 --> 00:03:47,950
+Désolée, non. L'autre assassin
+est la Comtesse McGee.
+
+71
+00:03:48,187 --> 00:03:50,600
+Le Dr. Landry m'a demandé
+qui serait donc
+
+72
+00:03:50,648 --> 00:03:52,472
+LE dangereux criminel que
+j'enverrai derrière les barreaux.
+
+73
+00:03:53,035 --> 00:03:54,883
+Ca m'a conforté sur le choix
+de Rutherford.
+
+74
+00:03:55,406 --> 00:03:57,163
+Il reste un truc
+que je ne comprends pas cependant.
+
+75
+00:03:58,535 --> 00:04:00,712
+Qu'avez-vous fait pendant
+les 10 minutes restantes ?
+
+76
+00:04:04,996 --> 00:04:07,101
+<i>A long time ago,</i>
+
+77
+00:04:07,297 --> 00:04:09,911
+<i>We used to be friends, but I...</i>
+
+78
+00:04:10,116 --> 00:04:14,020
+<i>Haven't thought of you lately at all.</i>
+
+79
+00:04:15,348 --> 00:04:17,163
+<i>Come on, now, sugar!</i>
+
+80
+00:04:17,505 --> 00:04:19,632
+<i>Bring it on, bring it on, yeah!</i>
+
+81
+00:04:19,905 --> 00:04:23,163
+<i>Just remember me when...</i>
+
+82
+00:04:23,307 --> 00:04:25,503
+<i>We used to be friends</i>
+
+83
+00:04:25,588 --> 00:04:27,690
+<i>A long time ago</i>
+
+84
+00:04:27,878 --> 00:04:29,903
+<i>We used to be friends</i>
+
+85
+00:04:31,308 --> 00:04:33,783
+<i>Veronica Mars 3x01
+Welcome Wagon</i>
+
+86
+00:04:38,436 --> 00:04:40,012
+Tu es chasseur de primes, garçon ? *
+
+87
+00:04:42,708 --> 00:04:45,482
+J'aurais jamais dû insister pour ce
+marathon Clint Eastwood.
+
+88
+00:04:45,555 --> 00:04:46,921
+Tu es définitivement perdue.
+
+89
+00:04:48,317 --> 00:04:50,281
+Je pensais pas qu'on pourrait
+te rendre encore plus garce.
+
+90
+00:04:51,158 --> 00:04:53,031
+Mais quel imbécile, Logan.
+
+91
+00:04:54,855 --> 00:04:57,760
+Tu veux te sentir comme un mec ?
+M'accompagner en cours ?
+
+92
+00:04:58,378 --> 00:04:59,390
+Porter tes bouquins ?
+
+93
+00:04:59,396 --> 00:05:00,503
+Pourquoi pas ?
+
+94
+00:05:02,815 --> 00:05:04,352
+Devine qui j'ai vu
+sur le campus aujourd'hui ?
+
+95
+00:05:05,028 --> 00:05:06,390
+Des filles dévergondées ?
+
+96
+00:05:06,587 --> 00:05:09,333
+J'ai cru comprendre que c'était
+chose fréquente à la fac.
+
+97
+00:05:10,097 --> 00:05:11,530
+D'ailleurs, j'ai une soudaine envie
+maintenant...
+
+98
+00:05:11,935 --> 00:05:13,480
+Mais non, Dick,
+mon grand pote. *
+
+99
+00:05:14,665 --> 00:05:16,702
+Je croyais qu'il se planquait
+chez son père dans les îles Caïman.
+
+100
+00:05:16,717 --> 00:05:17,630
+Nan, il est de retour.
+
+101
+00:05:18,108 --> 00:05:19,053
+Vous avez parlé ?
+
+102
+00:05:19,518 --> 00:05:21,271
+Ouais, ce fut bref.
+
+103
+00:05:21,558 --> 00:05:24,661
+J'ai crié son nom, il m'a rendu un doigt.
+Les liens sacrés de l'amitié.
+
+104
+00:05:25,476 --> 00:05:27,381
+C'était suffisamment dur
+de te faire rentrer à Hearst.
+
+105
+00:05:27,445 --> 00:05:28,840
+Comment penses-tu qu'il a réussi ?
+
+106
+00:05:29,138 --> 00:05:31,733
+Et bien sa mère s'est remariée avec
+l'agent de Schwarzenegger.
+
+107
+00:05:31,808 --> 00:05:33,100
+- Ah...
+- Ouais...
+
+108
+00:05:33,238 --> 00:05:34,390
+Je suis certain qu'un appel du gouverneur
+
+109
+00:05:34,437 --> 00:05:37,400
+peut te faire rentrer dans la plupart
+des universités de l'état.
+
+110
+00:05:39,657 --> 00:05:43,100
+Y'a des gens qui disent
+qu'il n'est plus bon à rien,
+
+111
+00:05:44,175 --> 00:05:47,881
+tu sais, parce que son frère a voulu
+imiter Greg Louganis depuis mon toit. *
+
+112
+00:05:48,287 --> 00:05:50,433
+Ce n'était pas de ta faute
+que Cassidy saute.
+
+113
+00:05:51,255 --> 00:05:52,683
+Rien n'est jamais de ma faute.
+
+114
+00:06:18,087 --> 00:06:20,913
+Vinnie... qu'est-ce qui t'ammène
+dans les bons coins
+
+115
+00:06:20,917 --> 00:06:22,682
+du mauvais côté de la route ?
+
+116
+00:06:23,275 --> 00:06:26,310
+Des dollars, mi amigo.
+Les espèces sonnantes et trébuchantes.
+
+117
+00:06:26,695 --> 00:06:30,220
+J'ai une affaire qui aurait besoin
+d'un peu de coopération limière.
+
+118
+00:06:30,945 --> 00:06:33,272
+Le bon Pierre gère une bijouterie
+
+119
+00:06:33,275 --> 00:06:35,573
+et pense avoir un escroc.
+
+120
+00:06:36,918 --> 00:06:39,973
+Qu'est-ce que t'en dis, hein ? *
+Pouvoir des jumeaux, transforme nous !
+
+121
+00:06:39,978 --> 00:06:43,041
+Je peux pas Vinne... j'ai mon affaire,
+qui me sort de la ville.
+
+122
+00:06:43,426 --> 00:06:46,223
+Un assassinat ? Je comprends,
+ça rapporte pas mal.
+
+123
+00:06:46,227 --> 00:06:48,530
+Comment fait-on pour en avoir ?
+Il y a un club ou autre ?
+
+124
+00:06:49,316 --> 00:06:50,550
+Vante-leur mes mérites, tu veux ?
+
+125
+00:06:52,515 --> 00:06:55,073
+Tu sais, j'ai pensé me prendre
+une serviette moi aussi.
+
+126
+00:06:55,078 --> 00:06:56,312
+Pas comme si j'en avais vraiment besoin.
+
+127
+00:06:57,006 --> 00:06:59,601
+Tu sais, tout ce dont j'ai besoin,
+je le garde au chaud là haut.
+
+128
+00:06:59,908 --> 00:07:02,502
+Vinnie... Je suis occupé.
+
+129
+00:07:03,016 --> 00:07:05,433
+D'accord, d'accord.
+Si tu veux faire ton malin.
+
+130
+00:07:11,446 --> 00:07:13,132
+Papa ? Viens par là.
+
+131
+00:07:16,445 --> 00:07:18,810
+- Vous avez sonné ? *
+- Ouais. Tu ne vas pas le croire.
+
+132
+00:07:19,235 --> 00:07:20,850
+Une employée de notre hôtel
+à New York
+
+133
+00:07:20,897 --> 00:07:23,581
+a trouvé la carte mémoire avec
+toutes nos photos de vacances.
+
+134
+00:07:24,117 --> 00:07:25,180
+Hot Dog !
+
+135
+00:07:26,797 --> 00:07:27,751
+"Hot dog" ?
+
+136
+00:07:27,755 --> 00:07:30,602
+C'est une expression d'excitation
+et d'enthousiasme.
+
+137
+00:07:30,955 --> 00:07:33,770
+Joe, Frank Hardy et moi même
+le disions tout le temps
+
+138
+00:07:33,775 --> 00:07:35,050
+quand on attendait que le serveur
+
+139
+00:07:35,098 --> 00:07:36,953
+nous apporte nos maltés
+au drive-in. *
+
+140
+00:07:37,498 --> 00:07:38,222
+Au drive-in ?
+
+141
+00:07:38,227 --> 00:07:39,920
+- Je te déteste.
+- Tu m'adores.
+
+142
+00:07:40,005 --> 00:07:41,473
+Ouais, mais ce n'est
+que l'instinct qui parle.
+
+143
+00:07:41,697 --> 00:07:44,010
+Bon, tu remarqueras que les
+deux premières douzaines de photos
+
+144
+00:07:44,072 --> 00:07:46,715
+montrent ta fille pratiquant la technique
+de l'auto-portrait d'une main,
+
+145
+00:07:47,127 --> 00:07:49,859
+puisque son père négligeant
+ne s'est pointé que trois jours plus tard.
+
+146
+00:07:50,192 --> 00:07:52,676
+Mais regarde bien.
+Te voilà enfin.
+
+147
+00:07:53,369 --> 00:07:55,561
+Nous voici devant "Spamalot". *
+
+148
+00:07:57,217 --> 00:08:00,220
+Nous voilà devant
+l'Empire State building.
+
+149
+00:08:00,737 --> 00:08:02,033
+C'est le Chrysler building.
+
+150
+00:08:02,598 --> 00:08:03,390
+Non, pas du tout.
+
+151
+00:08:03,657 --> 00:08:04,993
+Veronica,
+il y a des choses dans la vie
+
+152
+00:08:04,996 --> 00:08:07,411
+pour lesquelles tu devras t'incliner
+devant mon âge et expérience,
+
+153
+00:08:07,417 --> 00:08:10,913
+et ceci, ma douce enfant,
+est le Chrysler building.
+
+154
+00:08:11,497 --> 00:08:14,563
+La sénilité...
+ça vient pas non plus avec l'âge ?
+
+155
+00:08:15,925 --> 00:08:17,492
+Je ne me... souviens... plus.
+
+156
+00:08:18,946 --> 00:08:20,920
+Oh ! Et tant qu'on y est,
+comment s'est passé ton premier jour ?
+
+157
+00:08:21,217 --> 00:08:22,752
+Ca fait quoi d'être étudiante en fac ?
+
+158
+00:08:22,998 --> 00:08:24,950
+Oh, c'est exténuant.
+
+159
+00:08:25,237 --> 00:08:27,143
+J'ai eu un cours entier aujourd'hui.
+
+160
+00:08:27,396 --> 00:08:29,441
+- Tu t'es fait des amis ?
+- Seigneur, non !
+
+161
+00:08:29,896 --> 00:08:30,901
+Des ennemis ?
+
+162
+00:08:32,045 --> 00:08:34,150
+Ouais, c'est vrai,
+on est un jour en "di". *
+
+163
+00:08:34,198 --> 00:08:37,510
+Hé, ne provoque pas le taureau,
+d'accord ?
+
+164
+00:08:38,565 --> 00:08:42,400
+Regarde, te voilà en train d'enfourner
+des pâtisseries à Magnolia Bakery. *
+
+165
+00:08:42,937 --> 00:08:44,832
+Bon, tu te rappelles
+que je serai absent quelques jours,
+
+166
+00:08:45,345 --> 00:08:46,973
+ce fuyard que je traque ?
+
+167
+00:08:47,137 --> 00:08:48,343
+Je tiendrai le fortin.
+
+168
+00:08:48,427 --> 00:08:52,253
+Ouais, mais j'ai bien peur d'avoir
+déféré les pouvoirs à Backup
+
+169
+00:08:52,258 --> 00:08:54,100
+et il lui a été demandé
+de déchiqueter ton petit-copain
+
+170
+00:08:54,175 --> 00:08:55,290
+s'il reste après minuit.
+
+171
+00:08:55,445 --> 00:08:56,791
+Backup est le patron ?
+
+172
+00:08:57,406 --> 00:08:59,363
+Et pour cette garce qu'il fréquente ?
+
+173
+00:09:06,228 --> 00:09:07,651
+- Salut.
+- Salut.
+
+174
+00:09:08,095 --> 00:09:09,460
+Tu dois être mon colloc, Stosh ?
+
+175
+00:09:09,465 --> 00:09:11,193
+Heu, appelle-moi Piz. *
+
+176
+00:09:11,646 --> 00:09:14,371
+Mais tu es... Wallace ?
+
+177
+00:09:15,588 --> 00:09:16,801
+Désolé, il doit y avoir une erreur.
+
+178
+00:09:16,877 --> 00:09:18,023
+Sur le formulaire de demande,
+
+179
+00:09:18,026 --> 00:09:20,571
+j'ai précisé que je voulais pas
+de collocataire qui soit...
+
+180
+00:09:21,768 --> 00:09:22,662
+tu sais...
+
+181
+00:09:26,197 --> 00:09:27,051
+Quoi ?
+
+182
+00:09:27,056 --> 00:09:28,993
+Plus mignon que moi.
+J'ai pourtant été très clair.
+
+183
+00:09:29,615 --> 00:09:32,710
+Désolé mec.
+Le plus noble d'entre eux est là.
+
+184
+00:09:33,575 --> 00:09:34,961
+J'ai pris ce côté. Ca ira j'espère.
+
+185
+00:09:34,966 --> 00:09:36,130
+Ouais, pas de soucis.
+
+186
+00:09:36,327 --> 00:09:38,640
+Je porte rarement des vêtements
+à l'intérieur. Ca ira j'espère.
+
+187
+00:09:39,485 --> 00:09:40,833
+Ca n'ira pas du tout.
+
+188
+00:09:42,767 --> 00:09:43,820
+T'as d'autres affaires ?
+
+189
+00:09:43,828 --> 00:09:47,351
+Mmh, une voiture pleine de cartons
+avec l'ensemble de mes possessions.
+
+190
+00:09:47,355 --> 00:09:48,883
+- Un peu d'aide ?
+- Ouais !
+
+191
+00:09:49,668 --> 00:09:50,441
+Par ici.
+
+192
+00:09:51,195 --> 00:09:54,242
+Ouais, ce parfait représentant des
+automobiles américaines est à moi.
+
+193
+00:09:58,667 --> 00:09:59,523
+Oh mon Dieu.
+
+194
+00:10:00,157 --> 00:10:01,093
+Où sont tes affaires ?
+
+195
+00:10:02,336 --> 00:10:05,431
+C'est plus là. Tout ce que j'avais.
+C'était là, il y a encore 5 minutes.
+
+196
+00:10:05,985 --> 00:10:06,822
+Ca a disparu.
+
+197
+00:10:08,176 --> 00:10:09,981
+Je connais quelqu'un.
+Elle retrouvera tes affaires.
+
+198
+00:10:11,778 --> 00:10:12,911
+Compte dessus.
+
+199
+00:10:17,036 --> 00:10:20,372
+Cette fille, elle a notre âge,
+et c'est une "détective" ?
+
+200
+00:10:21,135 --> 00:10:22,341
+C'est un perso de
+dessins animés ?
+
+201
+00:10:22,495 --> 00:10:24,680
+Ecoute, elle se trimbale pas
+avec une loupe ou dans le genre.
+
+202
+00:10:24,966 --> 00:10:27,001
+Son père est détective privé,
+ancien shérif.
+
+203
+00:10:27,086 --> 00:10:28,471
+Pfiou, et Dieu qu'elle en a appris,
+des choses !
+
+204
+00:10:28,605 --> 00:10:29,961
+Ecoute, j'apprécie l'initiative, mec.
+
+205
+00:10:30,068 --> 00:10:32,581
+Mais je vais laisser la police
+faire son travail.
+
+206
+00:10:32,586 --> 00:10:33,813
+Ouais, eh bien bonne chance.
+
+207
+00:10:38,617 --> 00:10:40,351
+Salut, je suis Veronica.
+Tu es Piz ?
+
+208
+00:10:40,355 --> 00:10:41,940
+Oui, je suis Piz.
+
+209
+00:10:46,268 --> 00:10:48,413
+Wallace ? Tu es là quelque part ?
+
+210
+00:10:48,415 --> 00:10:49,841
+Ouais, entre.
+
+211
+00:10:53,116 --> 00:10:55,043
+Et vous vous dites étudiants.
+
+212
+00:10:55,438 --> 00:10:58,163
+Mais où sont les posters de bière
+et créatures à moitié dénudées ?
+
+213
+00:10:58,216 --> 00:11:00,500
+Juste derrière les magazines pornos
+et ma collection de shooters. *
+
+214
+00:11:01,187 --> 00:11:04,422
+Bon, écoute, Piz va juste laisser
+le shérif s'occuper de l'affaire.
+
+215
+00:11:06,128 --> 00:11:07,941
+En fait, j'adorerais avoir ton aide.
+
+216
+00:11:08,688 --> 00:11:12,153
+Concernant mes honoraires, 500 $
+payables en liquide, chèque,
+
+217
+00:11:12,158 --> 00:11:14,891
+ou en échange de biens ou services
+négociés auparavant.
+
+218
+00:11:14,897 --> 00:11:16,231
+Je pourrais te donner des cours de guitare.
+
+219
+00:11:16,787 --> 00:11:17,582
+Je passe.
+
+220
+00:11:17,806 --> 00:11:20,813
+D'un autre côté, si je ne retrouve pas
+tes affaires, tu ne me dois rien.
+
+221
+00:11:21,228 --> 00:11:23,311
+C'est tarif pour les amis d'un ami.
+
+222
+00:11:23,548 --> 00:11:25,740
+Attends. J'ai pas encore
+déterminé s'il était cool ou pas.
+
+223
+00:11:25,967 --> 00:11:28,720
+Dépèche toi. Cette offre
+ne sera bientôt plus valable.
+
+224
+00:11:31,016 --> 00:11:32,620
+Alors, je me suis garé au parking
+
+225
+00:11:32,707 --> 00:11:36,431
+et il y avait cette...
+grosse fille avec un bloc-notes.
+
+226
+00:11:36,438 --> 00:11:38,531
+Elle avait un T-shirt de Hearst
+et une casquette. *
+
+227
+00:11:38,617 --> 00:11:41,022
+Elle a cherché mon nom sur
+une liste, indiqué mon dortoir,
+
+228
+00:11:41,035 --> 00:11:43,213
+Et elle a dit qu'elle surveillerait mes
+affaires le temps que je trouve ma chambre.
+
+229
+00:11:44,157 --> 00:11:45,842
+Cette fille,
+elle avait l'air d'une étudiante ?
+
+230
+00:11:46,145 --> 00:11:47,781
+Oui, je crois bien.
+
+231
+00:11:48,266 --> 00:11:50,292
+Elle a dit qu'elle faisait parti
+du comité d'accueil de Hearst.
+
+232
+00:11:51,217 --> 00:11:54,990
+Wallace a dit que tu avais perdu
+tes vêtements, ton ordi, une guitare...
+
+233
+00:11:54,996 --> 00:11:56,442
+Non, ce n'est pas simplement une guitare.
+
+234
+00:11:56,445 --> 00:11:59,272
+C'était une Gretsch Astrojet rouge de 1967.
+*
+
+235
+00:12:00,795 --> 00:12:01,782
+C'est comme le Saint-Graal des guitares.
+
+236
+00:12:01,786 --> 00:12:04,340
+J'ai passé deux étés à tondre des
+pelouses pour pouvoir me l'acheter.
+
+237
+00:12:04,645 --> 00:12:06,000
+La voilà.
+
+238
+00:12:06,846 --> 00:12:09,251
+Ils ont volé tes affaires
+et couvert ta voiture de poussière ?
+
+239
+00:12:10,055 --> 00:12:11,341
+Tu n'es pas le bienvenu ici.
+
+240
+00:12:12,226 --> 00:12:14,142
+On ne dirait pas qu'ils l'ont forcée.
+
+241
+00:12:14,215 --> 00:12:15,262
+Elle n'était pas fermée.
+
+242
+00:12:16,105 --> 00:12:17,123
+Un campus universitaire.
+
+243
+00:12:17,318 --> 00:12:18,922
+Tout ce que tu possèdes au monde.
+
+244
+00:12:19,068 --> 00:12:20,582
+D'où tu viens, Brigadoon ?
+*
+
+245
+00:12:20,807 --> 00:12:22,802
+Portland, ou plutôt
+à la périphérie de Portland...
+
+246
+00:12:22,848 --> 00:12:25,282
+dans la banlieue appelée Beaverton,
+une vraie ville de discrimination. *
+
+247
+00:12:25,286 --> 00:12:27,321
+Des minivans dans toutes les allées,
+du poulet sur toutes les tables.
+
+248
+00:12:27,326 --> 00:12:29,031
+Où ils ne posent jamais
+de questions rhétoriques.
+
+249
+00:12:30,637 --> 00:12:32,683
+La fille du comité d'accueil a dit
+qu'elle veillerait sur ma voiture.
+
+250
+00:12:32,728 --> 00:12:34,932
+Voilà comment tu sais que tu es
+passé du lycée à l'université...
+
+251
+00:12:35,196 --> 00:12:36,770
+Le graffiti devient intellectuel.
+
+252
+00:12:37,177 --> 00:12:39,091
+"Wash me" était à la mode en 2005.
+
+253
+00:12:39,248 --> 00:12:41,740
+Viens Beaverton, on va parler
+à ton superviseur. *
+
+254
+00:12:46,845 --> 00:12:48,213
+Toutes tes affaires ?
+
+255
+00:12:49,077 --> 00:12:51,131
+Frak. C'est la loose.
+
+256
+00:12:51,728 --> 00:12:53,562
+Qu'est-ce que c'est ? "Frak" ?
+*
+
+257
+00:12:53,588 --> 00:12:56,341
+Vous n'êtes pas des fans
+de "Battlestar Galactica" ?
+
+258
+00:12:57,407 --> 00:12:59,403
+"Frak" est un blasphème du futur.
+
+259
+00:12:59,718 --> 00:13:00,812
+J'essaie de ne pas jurer.
+
+260
+00:13:01,217 --> 00:13:02,890
+C'est très chouette de ta part, Moe.
+
+261
+00:13:03,357 --> 00:13:06,381
+Alors dis-moi, qu'est-ce que c'est que
+cette frak d'histoire du comité d'accueil ? *
+
+262
+00:13:06,445 --> 00:13:08,422
+Et bien pour commencer,
+il n'y a rien de la sorte.
+
+263
+00:13:09,106 --> 00:13:11,371
+Il n'existe pas.
+
+264
+00:13:13,758 --> 00:13:15,383
+Quelqu'un en veut ?
+
+265
+00:13:17,586 --> 00:13:18,811
+Je vais te manquer, Howard ?
+
+266
+00:13:19,808 --> 00:13:22,091
+Pas pour longtemps.
+On va laisser la lumière allumée.
+
+267
+00:13:25,556 --> 00:13:26,801
+Ahh.
+
+268
+00:13:35,647 --> 00:13:36,703
+T'es mon chauffeur ?
+
+269
+00:13:37,586 --> 00:13:38,871
+Monte. On doit y aller.
+
+270
+00:13:51,975 --> 00:13:54,051
+Nous sommes ici pour poser une question...
+
+271
+00:13:54,187 --> 00:13:56,113
+aux étudiants de cette université,
+
+272
+00:13:56,467 --> 00:13:58,532
+aux profs de cette université,
+
+273
+00:13:58,837 --> 00:14:01,093
+et au directeur de l'université.
+
+274
+00:14:01,556 --> 00:14:03,742
+Combien de femmes
+comme moi doivent être violées,
+
+275
+00:14:04,116 --> 00:14:06,481
+de finir comme ça, leurs têtes rasées,
+
+276
+00:14:06,488 --> 00:14:09,551
+avant que l'administration
+écoute nos revendications ?
+
+277
+00:14:09,777 --> 00:14:13,311
+Deux n'était pas assez ?
+Trois n'était assez ?
+
+278
+00:14:13,918 --> 00:14:17,883
+Ils disent qu'ils progressent.
+Génial. Les dortoirs ne sont plus mixtes.
+
+279
+00:14:18,145 --> 00:14:19,002
+Est-ce suffisant ?
+
+280
+00:14:19,055 --> 00:14:20,982
+<i> Non !</i>
+
+281
+00:14:21,036 --> 00:14:22,293
+Nous exigeons plus.
+
+282
+00:14:22,327 --> 00:14:24,351
+Des campagnes de sensibilisations,
+
+283
+00:14:24,407 --> 00:14:27,951
+un code universitaire officiel
+de conduite sexuelle...
+
+284
+00:14:28,098 --> 00:14:31,890
+plus de gardiens, plus d'éclairages
+extérieurs, doublons-les,
+
+285
+00:14:32,026 --> 00:14:33,873
+Et surtout, Dean O'Dell,
+
+286
+00:14:33,976 --> 00:14:37,151
+ferme les congrégations étudiantes !
+
+287
+00:14:42,418 --> 00:14:46,311
+Les femmes. Quelles salopes, salopes,
+salopes, salopes, salopes !
+
+288
+00:14:46,868 --> 00:14:49,333
+Pourquoi ne peuvent-elles pas être belles
+et avoir leur diplôme de demoiselle ?
+
+289
+00:14:50,825 --> 00:14:52,203
+Comment vont les affaires, gamine ?
+
+290
+00:14:52,506 --> 00:14:55,580
+La psy m'a demandé si ne pas avoir de libido
+pendant toute sa vie est une mauvaise chose.
+
+291
+00:14:55,816 --> 00:14:57,203
+Je crois qu'elle en a marre de moi.
+
+292
+00:14:58,226 --> 00:14:59,531
+Tu as seulement besoin de plus de temps.
+
+293
+00:14:59,555 --> 00:15:00,912
+L'ironie de toutes les ironies...
+
+294
+00:15:00,918 --> 00:15:02,921
+La nouvelle colocataire de la frigide ?
+
+295
+00:15:02,925 --> 00:15:04,702
+C'est la représentante
+des femmes de la rue.
+
+296
+00:15:04,825 --> 00:15:05,810
+Vraiment ?
+
+297
+00:15:05,876 --> 00:15:08,720
+Tous les soirs depuis l'intégration,
+elle a été avec un nouveau mec.
+
+298
+00:15:08,968 --> 00:15:10,541
+Le téléphone sonne toutes les 10 minutes.
+
+299
+00:15:11,628 --> 00:15:14,210
+Si l'université est un self-service de
+mecs, elle a deux assiettes bien remplies
+
+300
+00:15:14,517 --> 00:15:16,942
+et un porte-monnaie bourré de garçons
+enroulés dans des serviettes de tables.
+
+301
+00:15:17,317 --> 00:15:18,720
+Pourtant son vide social ne se remplira pas.
+
+302
+00:15:19,107 --> 00:15:22,083
+<i>[Wreckx-N-Effect - "Rump Shaker"]
+All I want to do is zoom-A
+zoom zoom zoom in a boom boom</i>
+
+303
+00:15:22,088 --> 00:15:23,110
+<i>Just shake your rump</i>
+
+304
+00:15:23,296 --> 00:15:26,642
+<i>All I want to do is zoom-A
+zoom zoom zoom in a boom boom</i>
+
+305
+00:15:26,815 --> 00:15:28,120
+<i>Just shake your rump</i>
+
+306
+00:15:36,066 --> 00:15:37,920
+C'est comme si nous n'avions
+jamais quitté le lycée.
+
+307
+00:15:47,068 --> 00:15:48,460
+Tu n'auras plus besoin de ça.
+
+308
+00:15:48,846 --> 00:15:51,371
+Ugh! Oh, bon sang. Ugh.
+
+309
+00:15:52,925 --> 00:15:55,162
+C'est exactement comme si nous n'avions
+jamais quitté le lycée.
+
+310
+00:15:55,685 --> 00:15:57,002
+Oh.
+
+311
+00:16:09,726 --> 00:16:11,151
+Ce que tu as fait pour ma Kendall...
+
+312
+00:16:12,477 --> 00:16:15,121
+Tu as sauvé sa vie. C'est une femme
+difficile à faire disparaître.
+
+313
+00:16:15,658 --> 00:16:16,953
+Elle a tendance à faire parler d'elle.
+
+314
+00:16:17,886 --> 00:16:19,842
+Tout ce que j'ai fait c'est
+de lui faire quitter la ville.
+
+315
+00:16:20,096 --> 00:16:23,592
+C'était bien plus que ça,... Nouveau
+passeport, maison, carte de crédit...
+
+316
+00:16:23,927 --> 00:16:25,602
+Et tout ça avec
+mon petit frère sur ses talons.
+
+317
+00:16:25,685 --> 00:16:26,853
+Elle n'est pas encore en sécurité.
+
+318
+00:16:27,585 --> 00:16:30,382
+Liam la cherche toujours
+et il te cherche aussi, Cormac.
+
+319
+00:16:30,505 --> 00:16:34,183
+Il ne sait pas encore que je suis sorti.
+Pour bonne conduite.
+
+320
+00:16:34,476 --> 00:16:36,213
+C'est ce qui nous donne de l'avance.
+
+321
+00:16:36,677 --> 00:16:38,373
+D'après ce que je comprends, ton frère croit
+
+322
+00:16:38,416 --> 00:16:40,543
+qu'il a droit à sa part
+dans le coup de bol de Kendall.
+
+323
+00:16:40,685 --> 00:16:43,960
+Oui, Kendall était d'accord.
+Ils se chamaillaient pour la part du gâteau.
+
+324
+00:16:44,507 --> 00:16:45,821
+Mon petit frère est devenu gourmand.
+
+325
+00:16:46,205 --> 00:16:48,080
+Ca a toujours été son problème.
+
+326
+00:16:48,435 --> 00:16:50,641
+Voilà pourquoi je vais vivre
+le restant de mes jours
+
+327
+00:16:50,708 --> 00:16:52,852
+allongé sur une plage
+avec la femme que j'aime,
+
+328
+00:16:54,527 --> 00:16:57,391
+et Liam va finir poignardé
+dans un pénitencier.
+
+329
+00:17:01,616 --> 00:17:02,951
+Whoof.
+
+330
+00:17:03,277 --> 00:17:05,820
+Tu devrais sérieusement
+songer à passer pro pour ça.
+
+331
+00:17:06,106 --> 00:17:07,853
+Quoi ? Et manquer
+l'expérience de l'université ?
+
+332
+00:17:11,168 --> 00:17:12,731
+Ne va nul part.
+
+333
+00:17:12,737 --> 00:17:15,843
+Tes cerveaux vont passer
+à la casserole, que ça te plaise ou non.
+
+334
+00:17:15,945 --> 00:17:19,680
+Mais d'abord, je dois boire.
+
+335
+00:17:22,717 --> 00:17:23,812
+Ok, Veronica.
+
+336
+00:17:24,047 --> 00:17:25,920
+N'es-tu pas la fille
+qui se moquait de ces idiotes
+
+337
+00:17:26,026 --> 00:17:29,200
+qui essayaient d'emporter avec elles
+leurs idylles du lycée à l'université ?
+
+338
+00:17:37,587 --> 00:17:39,303
+- Logan, non !
+- Oui ?
+
+339
+00:17:41,745 --> 00:17:43,043
+C'est ton père.
+
+340
+00:17:43,326 --> 00:17:44,941
+J'ai transféré nos appels.
+
+341
+00:17:45,145 --> 00:17:46,703
+On doit travailler notre communication.
+
+342
+00:17:48,166 --> 00:17:49,090
+Bonsoir, papa.
+
+343
+00:17:50,148 --> 00:17:53,183
+Non. En fait, il allait justement
+rentrer chez lui.
+
+344
+00:17:53,906 --> 00:17:54,863
+Très bien, chérie.
+
+345
+00:17:56,246 --> 00:17:57,170
+Donne mes salutations à Logan
+
+346
+00:17:57,256 --> 00:17:58,813
+en lui serrant la main
+pour lui dire bonne nuit,
+
+347
+00:17:59,157 --> 00:18:01,292
+et je ferai en sorte d'appeler
+de nouveau à l'improviste.
+
+348
+00:18:02,466 --> 00:18:03,571
+Moi aussi, je t'aime.
+
+349
+00:18:05,047 --> 00:18:06,562
+Ils grandissent vraiment vite.
+
+350
+00:18:09,348 --> 00:18:10,730
+Quand tu as fait sortir Kendall de la ville,
+
+351
+00:18:10,796 --> 00:18:14,742
+elle portait, quoi... des millions, non ?
+
+352
+00:18:15,826 --> 00:18:17,430
+Je les ai vus. Je n'ai pas compté.
+
+353
+00:18:17,686 --> 00:18:19,730
+Kendall a toujours su cerner les gens.
+
+354
+00:18:20,576 --> 00:18:22,911
+Elle sait en qui elle peut avoir confiance.
+
+355
+00:18:23,316 --> 00:18:25,181
+Un homme peu fréquentable
+aurait pu en profiter.
+
+356
+00:18:25,345 --> 00:18:27,091
+J'ai été correctement dédommagé.
+
+357
+00:18:27,507 --> 00:18:28,723
+Qu'as-tu fait de tes honoraires ?
+
+358
+00:18:30,746 --> 00:18:32,572
+J'ai racheté l'amour de ma fille.
+
+359
+00:18:35,335 --> 00:18:37,510
+Belle caisse. Cadeau de fin d'études ?
+
+360
+00:18:37,697 --> 00:18:39,662
+Mon père m'a posé un lapin
+pour mon voyage de fin d'études.
+
+361
+00:18:39,708 --> 00:18:42,053
+Heureusement pour moi,
+il s'en est senti coupable.
+
+362
+00:18:42,367 --> 00:18:43,702
+Il t'a posé un lapin ? C'est moyen.
+
+363
+00:18:43,758 --> 00:18:45,291
+Il avait ses raisons.
+
+364
+00:18:45,595 --> 00:18:48,292
+Eh bien, une Saturne pour une Mars.
+
+365
+00:18:48,667 --> 00:18:52,393
+A Neptune. Ouais, les planètes
+sont vraiment alignées pour une fois.
+
+366
+00:18:52,636 --> 00:18:55,781
+Maintenant, bouge tes fesses. *
+Le mercure grimpe.
+
+367
+00:18:56,416 --> 00:18:59,582
+Ne le prenez pas mal. Quatre autres
+victimes ont eu la même histoire.
+
+368
+00:18:59,585 --> 00:19:01,400
+Du moins,
+dont nous sommes au courant.
+
+369
+00:19:01,666 --> 00:19:04,112
+Toutes ont été volées en moins de 90 minutes.
+
+370
+00:19:04,698 --> 00:19:06,983
+Ouais, je suppose que c'est rassurant.
+Quelque part.
+
+371
+00:19:07,015 --> 00:19:09,473
+Ils devaient sûrement
+avoir un camion ou un van.
+
+372
+00:19:09,536 --> 00:19:11,620
+Ca te dérangerait de me donner
+la liste des autres victimes ?
+
+373
+00:19:15,485 --> 00:19:16,503
+Je ne sais pas, Veronica.
+
+374
+00:19:16,507 --> 00:19:20,381
+Je recherche les méchants,
+je t'appelle, tu les arrêtes.
+
+375
+00:19:20,535 --> 00:19:22,650
+Tu sais ce que ça fait de nous, Sacks ?
+
+376
+00:19:23,306 --> 00:19:24,611
+Des gagnants.
+
+377
+00:19:26,688 --> 00:19:29,112
+La fille disait qu'elle faisait partie
+du comité d'accueil de Hearst ?
+
+378
+00:19:29,117 --> 00:19:29,901
+Ouaip.
+
+379
+00:19:29,925 --> 00:19:31,230
+Blonde, un peu épaisse ?
+
+380
+00:19:31,336 --> 00:19:32,310
+Effectivement.
+
+381
+00:19:34,895 --> 00:19:36,102
+J'avais un journal audio,
+
+382
+00:19:36,105 --> 00:19:39,180
+une sorte de podcast *
+que je tenais sur mon ipod,
+
+383
+00:19:39,268 --> 00:19:42,840
+Et maintenant un inconnu,
+un voleur le possède.
+
+384
+00:19:42,875 --> 00:19:44,360
+Et s'ils l'écoutaient ?
+
+385
+00:19:44,365 --> 00:19:46,601
+Tous ceux qui se sont fait voler
+étaient des 1re années *.
+
+386
+00:19:46,698 --> 00:19:47,762
+Tu es en 3ème année ?
+
+387
+00:19:47,766 --> 00:19:50,452
+Ouais. Attends,
+tu insinues que je suis idiote ?
+
+388
+00:19:50,468 --> 00:19:51,442
+Non.
+
+389
+00:19:51,448 --> 00:19:53,971
+C'est juste que... Tu ne savais
+pas qu'il se passait des choses
+
+390
+00:19:53,975 --> 00:19:55,421
+lors du comité d'accueil de Hearst ?
+
+391
+00:19:55,485 --> 00:19:57,061
+Je viens de me souvenir d'une chose...
+
+392
+00:19:57,065 --> 00:19:59,620
+Je ne sais pas qui tu es,
+ni pourquoi je t'ai adressé la parole.
+
+393
+00:20:16,296 --> 00:20:19,753
+<i>[Pussycat Dolls - Buttons]
+I'm tellin' you to loosen up my buttons, baby...</i>
+
+394
+00:20:19,756 --> 00:20:21,063
+- Salut !
+- Mac est dans le coin ?
+
+395
+00:20:21,066 --> 00:20:22,813
+Oh mon Dieu,
+es-tu l'une des amies de Mac ?
+
+396
+00:20:22,877 --> 00:20:26,181
+Eh bien, entre donc, ma soeur !
+Les amies de Mac sont mes amies.
+
+397
+00:20:26,965 --> 00:20:28,641
+- Je suis Parker.
+- Veronica.
+
+398
+00:20:29,827 --> 00:20:32,963
+J'adore Mac, tout simplement. Je l'adore.
+
+399
+00:20:32,968 --> 00:20:36,341
+Comme si elle était un petit bichon frisé *
+que je pourrais porter dans mon sac-à-main.
+
+400
+00:20:36,618 --> 00:20:37,812
+Je veux dire, n'est-elle pas géniale ?
+
+401
+00:20:37,858 --> 00:20:39,381
+Elle est assez géniale.
+
+402
+00:20:39,687 --> 00:20:43,823
+J'étais bizarrement déçue
+à cause de cette idée
+
+403
+00:20:43,825 --> 00:20:46,593
+que je me faisais d'avoir,
+disons, une fille de la rue
+
+404
+00:20:46,598 --> 00:20:49,180
+ou bien une fille
+qui est dans le death metal,
+
+405
+00:20:49,236 --> 00:20:51,613
+Et nous ressemblerions à un
+"couple bizarre".
+
+406
+00:20:51,677 --> 00:20:52,682
+Mais avec moi et Mac,
+
+407
+00:20:52,778 --> 00:20:56,280
+C'était simplement, whouh,
+une fraternité instantanée.
+
+408
+00:20:56,298 --> 00:20:58,003
+Maillage total, mélange total.
+
+409
+00:20:58,806 --> 00:21:01,330
+Tu sais, tu devrais venir voir
+"Top Model" avec nous ce soir.
+
+410
+00:21:01,728 --> 00:21:04,440
+Ah bon, Mac regarde
+"Top Model" avec toi ?
+
+411
+00:21:04,726 --> 00:21:05,690
+Mm-hmm.
+
+412
+00:21:06,716 --> 00:21:09,202
+Oh, c'est le tien ou celui de Mac ?
+
+413
+00:21:10,046 --> 00:21:13,150
+Colin ? Oh, il est tout à moi.
+
+414
+00:21:13,365 --> 00:21:15,053
+Il devrait vraiment m'aimer,
+tu ne penses pas ?
+
+415
+00:21:15,155 --> 00:21:17,141
+Ca dépend... T'as bu combien de verres ?
+
+416
+00:21:17,937 --> 00:21:18,881
+Regarde ses yeux.
+
+417
+00:21:18,897 --> 00:21:22,953
+Il est si émouvant
+et tellement grave et profond.
+
+418
+00:21:23,667 --> 00:21:25,840
+Tu sais tout de suite
+que c'est un super bon coup.
+
+419
+00:21:27,587 --> 00:21:29,121
+- Salut colloc !
+- Salut.
+
+420
+00:21:30,157 --> 00:21:31,322
+Tu veux aller voir un groupe jouer ?
+
+421
+00:21:31,328 --> 00:21:32,851
+Plus que tout au monde.
+
+422
+00:21:32,897 --> 00:21:36,013
+Oh, mon Dieu. Je suis partante à fond.
+Donnez-moi une seconde pour me changer.
+
+423
+00:21:48,037 --> 00:21:49,101
+Hé, je connais ce type.
+
+424
+00:21:50,577 --> 00:21:52,080
+Nos Mr. Muscle.
+
+425
+00:21:52,896 --> 00:21:53,813
+A première vue.
+
+426
+00:21:55,626 --> 00:21:56,673
+Ce sont vos petits amis ?
+
+427
+00:21:57,468 --> 00:21:58,410
+Non.
+
+428
+00:21:59,966 --> 00:22:01,123
+Quoi de neuf, V ? Salut, Mac.
+
+429
+00:22:01,126 --> 00:22:04,461
+Wallace et Piz, voici Parker.
+Parker, Wallace et Piz.
+
+430
+00:22:04,468 --> 00:22:06,272
+Et voici Mac. Mac, Piz.
+
+431
+00:22:07,215 --> 00:22:09,453
+Alors, le gang, êtes-vous prêts à déchirer ?
+
+432
+00:22:10,108 --> 00:22:11,493
+- Non.
+- Pas vraiment.
+
+433
+00:22:11,495 --> 00:22:13,000
+C'est ça que j'aime !
+
+434
+00:22:13,516 --> 00:22:14,860
+Wouh-ouh !
+
+435
+00:22:15,485 --> 00:22:17,870
+<i>[Four Fifty One - Socks and Shoes]
+Don't talk to me, don't show me</i>
+
+436
+00:22:17,925 --> 00:22:20,700
+<i>How I got to try and improve right now</i>
+
+437
+00:22:23,256 --> 00:22:25,880
+<i>It's just about that soul to me now</i>
+
+438
+00:22:26,227 --> 00:22:27,841
+<i>Yeah! Make your way</i>
+
+439
+00:22:28,065 --> 00:22:30,911
+<i>I was feelin' high,
+and you dragged me down</i>
+
+440
+00:22:32,436 --> 00:22:35,340
+<i>It's just about that soul to me now</i>
+
+441
+00:22:35,427 --> 00:22:37,120
+<i>Yeah! Hey, get with it</i>
+
+442
+00:22:37,267 --> 00:22:39,942
+<i>I was feelin' high, can't stay...</i>
+
+443
+00:22:41,126 --> 00:22:42,683
+<i>Awake, oh</i>
+
+444
+00:22:43,166 --> 00:22:44,292
+Elle a l'air sympa.
+
+445
+00:22:45,866 --> 00:22:47,052
+<i>I know</i>
+
+446
+00:22:48,285 --> 00:22:49,333
+<i>And I say</i>
+
+447
+00:22:50,585 --> 00:22:52,083
+<i>You're a real suit</i>
+
+448
+00:22:57,656 --> 00:22:58,863
+Nous sommes les Unwashed.
+
+449
+00:22:58,917 --> 00:23:03,103
+C'est tout pour l'instant,
+mais Billy a des CDs près de la porte.
+
+450
+00:23:03,598 --> 00:23:04,780
+C'est mon tour.
+
+451
+00:23:07,406 --> 00:23:08,471
+Qu'est-ce qu'elle fait ?
+
+452
+00:23:09,015 --> 00:23:09,981
+Mm-mmm.
+
+453
+00:23:09,986 --> 00:23:11,860
+Très bien, faites du bruit
+pour les Unwashed !
+
+454
+00:23:14,465 --> 00:23:17,131
+J'ai une petite annonce
+publique à passer.
+
+455
+00:23:17,586 --> 00:23:21,360
+Mon ami s'est tout fait voler
+dans sa voiture à Hearst
+
+456
+00:23:21,388 --> 00:23:23,181
+dans le parking du hall Bennis.
+
+457
+00:23:25,277 --> 00:23:27,092
+c'est bon, c'est bon.
+
+458
+00:23:27,445 --> 00:23:29,630
+Nous pensons que quelqu'un d'ici, ce soir
+pourrait avoir vu quelque chose.
+
+459
+00:23:29,648 --> 00:23:32,310
+Mon ami offre 100 dollars
+en récompense.
+
+460
+00:23:32,316 --> 00:23:34,470
+pour toute information qui l'aiderait
+à retrouver ses affaires.
+
+461
+00:23:34,645 --> 00:23:37,071
+Nous sommes à cette table
+si vous savez quelque chose.
+
+462
+00:23:38,555 --> 00:23:39,833
+Ok.
+
+463
+00:23:40,286 --> 00:23:42,530
+Regarde-la. Elle attire tous les garçons.
+
+464
+00:23:43,825 --> 00:23:45,153
+On vous a vus vous faire voler.
+
+465
+00:23:46,035 --> 00:23:47,252
+Vous avez 12 ans.
+
+466
+00:23:47,285 --> 00:23:49,001
+Que faisiez-vous à Hearst?
+
+467
+00:23:49,185 --> 00:23:51,141
+On mattait les filles s'étendre.
+
+468
+00:23:52,007 --> 00:23:53,322
+Certaines étaient topless.
+
+469
+00:23:53,327 --> 00:23:55,770
+Oh, oh, oh.
+Arrête-toi là, mon garçon.
+
+470
+00:23:55,805 --> 00:23:57,883
+Dis-nous où se trouve la plage de bronzage.
+
+471
+00:23:57,968 --> 00:24:00,302
+Dans la cour sud, près de la statue
+
+472
+00:24:00,387 --> 00:24:01,671
+Qu'est-ce que vous dites avoir vu ?
+
+473
+00:24:01,757 --> 00:24:04,511
+Est-ce la statue de Randolph Hearst
+ou bien celle du truc amorphe ?
+
+474
+00:24:04,566 --> 00:24:07,352
+Des nichons ou ta sacro-sainte guitare.
+
+475
+00:24:07,408 --> 00:24:09,133
+On était en train de
+revenir au parking.
+
+476
+00:24:09,138 --> 00:24:11,461
+On a vu ces deux types
+dans un van s'arrêter devant la voiture.
+
+477
+00:24:11,507 --> 00:24:14,262
+Ils ont commencé à jeter des trucs
+dans le van très rapidement.
+
+478
+00:24:14,335 --> 00:24:17,452
+Vous vous souvenez de quelque chose
+sur ces deux gars ? Ou du van ?
+
+479
+00:24:17,636 --> 00:24:19,440
+- Ils étaient noirs.
+- Evidemment.
+
+480
+00:24:19,485 --> 00:24:22,730
+Et le van n'avait pas de fenêtres.
+Il était blanc, je crois.
+
+481
+00:24:22,825 --> 00:24:23,611
+C'est tout ?
+
+482
+00:24:23,687 --> 00:24:25,700
+C'est déjà beaucoup.
+Où est notre récompense ?
+
+483
+00:24:25,815 --> 00:24:28,003
+Vous n'avez rien vu.
+Dehors les mioches.
+
+484
+00:24:28,228 --> 00:24:30,410
+Je te l'avais dit, mec. Foireux.
+
+485
+00:24:33,885 --> 00:24:35,720
+Il y avait une fille aussi. Une blanche.
+
+486
+00:24:35,765 --> 00:24:36,742
+Evidemment.
+
+487
+00:24:36,977 --> 00:24:38,473
+Elle est entrée dans la cabine avec eux.
+
+488
+00:24:38,685 --> 00:24:40,272
+Une blonde ? Enveloppée ?
+
+489
+00:24:40,275 --> 00:24:41,833
+Nan, mais c'était bizarre.
+
+490
+00:24:42,236 --> 00:24:43,840
+Je pensais qu'elle était grosse au début.
+
+491
+00:24:44,017 --> 00:24:46,021
+Lorsqu'elle est entrée,
+elle a enlevé son pull.
+
+492
+00:24:46,467 --> 00:24:47,751
+Elle avait un corps de rêve.
+
+493
+00:24:48,187 --> 00:24:50,542
+La fille était mince, comme si elle
+portait un costume de grosse.
+
+494
+00:24:56,497 --> 00:24:58,160
+<i>Allez, Parker.</i>
+
+495
+00:24:58,517 --> 00:25:00,492
+<i>Pourquoi veux-tu te comporter comme ça ?</i>
+
+496
+00:25:01,087 --> 00:25:03,353
+<i>C'est le meilleur moment de la nuit.</i>
+
+497
+00:25:04,157 --> 00:25:09,122
+<i>C'est le meilleur moment de la nuit...
+pour faire l'amour.</i>
+
+498
+00:25:12,558 --> 00:25:14,663
+Parker est sortie quelque part
+avec les Unwashed.
+
+499
+00:25:14,667 --> 00:25:17,532
+Je lui dirai que le pervers
+en manque est passé.
+
+500
+00:25:19,705 --> 00:25:21,981
+Mon petit frère
+se foutait de toi, tu sais ?
+
+501
+00:25:23,096 --> 00:25:24,292
+Tu n'étais que son faire-valoir.
+
+502
+00:25:25,596 --> 00:25:26,971
+Hé, toi !
+
+503
+00:25:27,537 --> 00:25:29,551
+Quel est ton nom ?
+Tu n'as pas à être ici.
+
+504
+00:25:29,616 --> 00:25:32,713
+Ce n'est pas l'étage des garçons ?
+Oh, non, je suis vraiment perdu.
+
+505
+00:25:33,097 --> 00:25:35,641
+Je suis juste un idiot de 1re année
+qui se baladait au mauvais étage.
+
+506
+00:25:36,137 --> 00:25:38,623
+Oh, le campus est tellement déroutant.
+
+507
+00:25:39,148 --> 00:25:41,660
+Merci pour votre compréhension.
+Je vais m'en aller.
+
+508
+00:25:41,737 --> 00:25:43,613
+Fais-moi voir ta carte d'étudiant.
+
+509
+00:25:44,806 --> 00:25:48,062
+On est censé avoir des cartes ?
+Vous voyez, je ne sais rien.
+
+510
+00:25:48,557 --> 00:25:50,812
+L'université m'a fait perdre les pédales.
+
+511
+00:25:52,366 --> 00:25:54,092
+Bonne nuit, mesdemoiselles.
+
+512
+00:26:08,646 --> 00:26:11,190
+Salut, ceci est pour toi.
+
+513
+00:26:11,708 --> 00:26:13,620
+Ce sont des fringues. D'un ami à moi.
+
+514
+00:26:13,756 --> 00:26:16,772
+Il ne peut plus les mettre.
+Vous faites à peu près la même taille.
+
+515
+00:26:17,387 --> 00:26:18,610
+Merci.
+
+516
+00:26:18,985 --> 00:26:20,350
+Oh, et je crois avoir retrouvé ta guitare.
+
+517
+00:26:20,748 --> 00:26:22,460
+Elle est apparue sur la Craig's List
+tard la nuit dernière,
+
+518
+00:26:22,548 --> 00:26:24,440
+et le revendeur fait partie du campus.
+
+519
+00:26:36,418 --> 00:26:38,361
+- Vous êtes venus pour la guitare ?
+- C'est nous.
+
+520
+00:26:41,837 --> 00:26:43,483
+Je ne recherchais pas vraiment de guitare,
+
+521
+00:26:43,485 --> 00:26:46,633
+mais je suis allé au puces hier,
+et j'ai trouvé cela.
+
+522
+00:26:47,405 --> 00:26:50,411
+La fille la vendait 500 $. Elle ne savait
+pas ce qu'elle avait dans les mains.
+
+523
+00:26:50,418 --> 00:26:52,682
+On ne trouve pas ce modèle
+en-dessous de 5000 $.
+
+524
+00:26:52,866 --> 00:26:55,540
+Mais je serais d'accord
+pour la voir partir à 4000 $.
+
+525
+00:26:57,228 --> 00:26:58,472
+C'est elle. C'est ma guitare volée.
+
+526
+00:26:59,705 --> 00:27:01,210
+- Quoi ?
+- Allez-y, regardez dans la poche.
+
+527
+00:27:01,608 --> 00:27:03,682
+Il y aura des mediators de 2 millimètres
+provenant de Guitar Town à Portland.
+
+528
+00:27:09,655 --> 00:27:11,333
+Ok, ouais, et ?
+
+529
+00:27:11,357 --> 00:27:14,253
+La fille qui vous a vendu la guitare,
+pouvez-vous nous la décrire ?
+
+530
+00:27:14,278 --> 00:27:16,593
+Blonde, mince, un corps superbe.
+
+531
+00:27:20,837 --> 00:27:23,600
+Donald Fagan, le possesseur actuel
+de la guitare de Piz,
+
+532
+00:27:23,648 --> 00:27:26,802
+a proposé de la revendre
+à Piz pour 500 $.
+
+533
+00:27:27,016 --> 00:27:29,772
+Un meilleur plan je pense,
+serait plutôt de faire payer le voleur.
+
+534
+00:27:33,265 --> 00:27:34,100
+Souris.
+
+535
+00:27:35,095 --> 00:27:36,142
+Merci.
+
+536
+00:27:36,268 --> 00:27:37,781
+Hé, attends un peu.
+
+537
+00:27:54,716 --> 00:27:55,961
+Vous êtes pathétiques les gars.
+
+538
+00:27:57,107 --> 00:27:58,351
+C'est un sport de blanc.
+
+539
+00:27:58,498 --> 00:28:00,360
+Exact, car je parlais
+de votre footbag.
+
+540
+00:28:01,876 --> 00:28:04,551
+Piz, est-ce que c'est
+la fille du comité d'accueil ?
+
+541
+00:28:06,187 --> 00:28:09,223
+Mmh, difficile à dire. Peut-être.
+
+542
+00:28:09,226 --> 00:28:10,743
+Ajoute quelques kilos.
+
+543
+00:28:12,047 --> 00:28:13,243
+Oui, j'essaie.
+
+544
+00:28:14,425 --> 00:28:15,620
+Je ne crois pas que ça soit elle.
+
+545
+00:28:19,808 --> 00:28:21,793
+C'est pas souvent qu'on ait
+l'occasion de voir des babes en bikini
+
+546
+00:28:21,798 --> 00:28:23,420
+dans leur habitat naturel.
+
+547
+00:28:24,098 --> 00:28:27,002
+Quelles créatures douces mais inaccessibles !
+
+548
+00:28:30,277 --> 00:28:32,161
+Ok, amusez-vous bien à mater.
+
+549
+00:28:32,166 --> 00:28:35,263
+Je vais simplement continuer à chercher
+vos trucs toute seule...
+
+550
+00:28:35,816 --> 00:28:36,991
+sans aide.
+
+551
+00:28:37,756 --> 00:28:39,753
+C'est pour ça que tu gagnes autant.
+
+552
+00:28:46,306 --> 00:28:47,290
+Pas de réception.
+
+553
+00:28:48,428 --> 00:28:50,213
+Et pas une voiture depuis 10 minutes.
+
+554
+00:28:52,048 --> 00:28:53,751
+L'autoroute vire dans quelques kilomètres.
+
+555
+00:28:54,787 --> 00:28:56,780
+Apparement, si on marche vers l'est
+
+556
+00:28:56,905 --> 00:28:59,071
+on tombera sur la ville de Granger
+dans 5 ou 6 kilomètres.
+
+557
+00:28:59,427 --> 00:29:00,892
+Je ne pense pas qu'on devrait faire ça.
+
+558
+00:29:01,277 --> 00:29:03,063
+Vous avez passer beaucoup
+de temps dans le désert, Keith?
+
+559
+00:29:04,168 --> 00:29:06,252
+Non, pas vraiment.
+
+560
+00:29:07,028 --> 00:29:10,221
+La première fois que je me suis fait arrêté,
+le juge m'a donné le choix...
+
+561
+00:29:10,256 --> 00:29:12,140
+2 ans dans l'armée
+ou 2 ans à Huntsville.
+
+562
+00:29:12,427 --> 00:29:13,871
+J'ai choisi l'armée.
+
+563
+00:29:13,877 --> 00:29:15,610
+On s'est entrainé à l'ouest du Texas
+
+564
+00:29:15,616 --> 00:29:17,853
+avant qu'on ne m'envoie en Irak
+pour la "Tempête du Désert". *
+
+565
+00:29:18,937 --> 00:29:22,503
+Entre ici et Granger,
+il y a des serpents à sonnettes,
+
+566
+00:29:22,588 --> 00:29:25,183
+des pièges à coyote, des scorpions,
+
+567
+00:29:25,186 --> 00:29:27,743
+des hippies qui se droguent aux champignons,
+tout un tas de mauvais trucs.
+
+568
+00:29:28,618 --> 00:29:30,932
+Attendons un peu.
+
+569
+00:29:31,265 --> 00:29:32,793
+Quelqu'un nous dépannera.
+
+570
+00:29:33,438 --> 00:29:37,201
+J'attends ce moment depuis 5 ans.
+Que sont quelques heures de plus ?
+
+571
+00:29:40,977 --> 00:29:42,163
+C'est elle ?
+
+572
+00:29:42,335 --> 00:29:43,880
+Je suis sûr à 90%.
+
+573
+00:29:44,075 --> 00:29:46,891
+Mais.. euh... 80% en fait
+
+574
+00:29:46,957 --> 00:29:48,073
+80% sûr.
+
+575
+00:29:50,937 --> 00:29:53,370
+Hé, t'es dans le cours de profilage de
+Landry ?
+
+576
+00:29:54,536 --> 00:29:56,800
+L'année dernière. C'est un type dur.
+
+577
+00:29:57,035 --> 00:29:58,672
+Je l'ai pour "intro à la criminologie".
+
+578
+00:29:58,958 --> 00:30:01,611
+Tu as fait partie du tutorat ?
+Parce que j'y pense.
+
+579
+00:30:01,615 --> 00:30:03,992
+La meilleure chose quand on est en première
+année, c'est de travailler avec ces gosses.
+
+580
+00:30:04,147 --> 00:30:06,340
+On peut en lire des choses
+sur la délinquance dans les manuels
+
+581
+00:30:06,347 --> 00:30:09,351
+mais le tuteurage n'a rien à voir
+avec la théorie, ça nous apprend vraiment.
+
+582
+00:30:09,385 --> 00:30:10,462
+Tu devrais t'engager.
+
+583
+00:30:11,466 --> 00:30:13,823
+Oh, mon Dieu. Tu vas pouvoir
+mettre fin à un débat pour moi.
+
+584
+00:30:15,418 --> 00:30:17,000
+Est-ce que c'est sur l'Empire State building
+
+585
+00:30:17,005 --> 00:30:18,293
+ou le Chrysler building ?
+
+586
+00:30:18,468 --> 00:30:21,071
+En fait, c'est le
+Space Needle à Seattle.
+
+587
+00:30:21,417 --> 00:30:24,812
+Il faut que je me souvienne de ne
+pas débattre d'architecture avec mon père.
+
+588
+00:30:28,566 --> 00:30:31,091
+Quand vous aurez fini
+votre lecture d'ici à ce week end,
+
+589
+00:30:31,098 --> 00:30:33,490
+vous devriez être capable de disserter sur
+le crime et le contrôle de la société
+
+590
+00:30:33,495 --> 00:30:36,413
+en relation avec le positivisme biologique
+et psychologique.
+
+591
+00:30:37,236 --> 00:30:38,263
+A mardi.
+
+592
+00:30:45,978 --> 00:30:47,001
+Excusez moi.
+
+593
+00:30:47,838 --> 00:30:49,801
+Je suis interessée
+par le programme de tutorat
+
+594
+00:30:49,867 --> 00:30:51,240
+C'est à vous qu'il faut
+en parler n'est-ce pas ?
+
+595
+00:30:52,905 --> 00:30:54,223
+Vous pouvez choisir.
+
+596
+00:30:54,675 --> 00:30:56,232
+Elles ont toutes un casier.
+
+597
+00:30:56,237 --> 00:30:59,342
+Pour la plupart des filles, c'est vol
+à l'étalage, bagarres, gruge chronique.
+
+598
+00:30:59,365 --> 00:31:02,182
+Attendez, juste parce que je suis une fille,
+ca veut dire que je dois tuteurer une fille
+
+599
+00:31:02,608 --> 00:31:03,301
+Oui.
+
+600
+00:31:03,578 --> 00:31:06,092
+C'est au cas où elles ont
+leurs règles, c'est ça ?
+
+601
+00:31:07,095 --> 00:31:08,052
+Vous êtes Tim ?
+
+602
+00:31:08,117 --> 00:31:09,032
+Qui êtes-vous ?
+
+603
+00:31:09,036 --> 00:31:11,043
+Dr. Landry a besoin de vous dans l'amphi.
+
+604
+00:31:11,455 --> 00:31:12,330
+J'attends.
+
+605
+00:31:38,538 --> 00:31:39,841
+Le dépanneur est là.
+
+606
+00:31:43,866 --> 00:31:45,710
+Wallace a dit que tu étais
+dans son cours de sociologie.
+
+607
+00:31:45,878 --> 00:31:47,792
+Ah bon ? Je l'ai pas vu.
+
+608
+00:31:48,638 --> 00:31:50,623
+Peut-être parce que
+tu n'es pas allé en classe ?
+
+609
+00:31:51,467 --> 00:31:53,232
+C'est certainement une possibilité.
+
+610
+00:31:56,358 --> 00:31:59,112
+Tiens. Un cadeau d'anniversaire bonus.
+
+611
+00:31:59,118 --> 00:32:01,863
+Tu m'as acheté un noeud ? Un noeud ?!
+
+612
+00:32:02,295 --> 00:32:03,323
+Comment t'as deviné ?!
+
+613
+00:32:03,548 --> 00:32:04,880
+Ouvre-le, grosse nouille.
+
+614
+00:32:10,045 --> 00:32:10,901
+La clé de ta chambre ?
+
+615
+00:32:12,496 --> 00:32:14,502
+Et si je débarque sans prévenir ?
+
+616
+00:32:14,775 --> 00:32:16,282
+Les autres filles devront...
+
+617
+00:32:16,636 --> 00:32:19,500
+Je parie que tu sais qu'il n'y a personne
+d'autre. Tu es la seule que je veuille.
+
+618
+00:32:23,975 --> 00:32:25,421
+Tu devrais le savoir maintenant.
+
+619
+00:32:28,417 --> 00:32:29,293
+Quoi, pas de répartie ?
+
+620
+00:32:32,157 --> 00:32:33,210
+Regarde.
+
+621
+00:32:34,975 --> 00:32:36,943
+Voilà ton meilleur ami,
+le poivrot de la ville.
+
+622
+00:32:37,365 --> 00:32:40,381
+Hey, je m'appelle Dick. Et toi ?
+
+623
+00:32:41,258 --> 00:32:42,110
+Deedee.
+
+624
+00:32:43,427 --> 00:32:44,843
+Depuis combien de temps
+on se connait, Deedee ?
+
+625
+00:32:45,607 --> 00:32:47,453
+8 secondes.
+
+626
+00:32:48,347 --> 00:32:50,183
+Où va notre relation, Deedee ?
+
+627
+00:32:50,615 --> 00:32:51,802
+Ce qu'on ressent, c'est pour de vrai ?
+
+628
+00:32:52,038 --> 00:32:53,992
+Ou on s'amuse juste à se lécher le torse ?
+
+629
+00:32:55,655 --> 00:32:58,153
+La vérité, c'est que je me suis fait virer
+de la résidence universitaire
+
+630
+00:32:59,085 --> 00:33:01,800
+et je sais que c'est plus tôt
+qu'on espérait,
+
+631
+00:33:01,847 --> 00:33:04,381
+mais... ça te dirait
+qu'on emménage ensemble,
+
+632
+00:33:04,605 --> 00:33:05,920
+qu'on se fasse un petit nid d'amour ?
+
+633
+00:33:06,445 --> 00:33:08,573
+Tu devrais vraiment partir.
+
+634
+00:33:08,926 --> 00:33:10,410
+Ca te plairait, hein ?
+
+635
+00:33:10,655 --> 00:33:12,861
+Je l'admets, le mâle est beau
+quand il s'éloigne.
+
+636
+00:33:13,077 --> 00:33:14,373
+C'est totalement moi aussi.
+
+637
+00:33:14,458 --> 00:33:16,762
+Un cul comme Marky Mark
+et son Funky Bunch.
+
+638
+00:33:18,945 --> 00:33:19,893
+Ton sac ?
+
+639
+00:33:37,548 --> 00:33:39,173
+Quoi, tu veux un câlin ?
+
+640
+00:33:43,156 --> 00:33:45,141
+Ca marche ce genre de truc
+avec les étudiantes ?
+
+641
+00:33:45,636 --> 00:33:48,062
+Parce que je te le dis franco,
+je suis un romantique, pas un luteur.
+
+642
+00:33:48,435 --> 00:33:49,833
+Je vais essayer de lui parler.
+
+643
+00:33:55,925 --> 00:33:57,193
+Chouette polo.
+
+644
+00:33:59,225 --> 00:34:01,012
+- Tu voulais que je te retrouve ici ?
+- Oui.
+
+645
+00:34:05,486 --> 00:34:08,340
+- C'est la fille du comité d'accueil ?
+- Oui, c'est elle.
+
+646
+00:34:13,557 --> 00:34:15,622
+La fille sur la photo c'est
+celle du comité d'accueil.
+
+647
+00:34:15,865 --> 00:34:17,182
+Ce type c'est le chef d'équipe.
+
+648
+00:34:17,297 --> 00:34:18,442
+Et t'es sûre que c'est elle ?
+
+649
+00:34:18,595 --> 00:34:19,433
+C'est elle.
+
+650
+00:34:19,628 --> 00:34:21,122
+Il s'appelle Donald Fagan,
+
+651
+00:34:21,337 --> 00:34:24,490
+et ces trois charmants jeunes hommes
+sont les gosses qu'il tuteure...
+
+652
+00:34:24,947 --> 00:34:26,541
+Tous des voleurs.
+
+653
+00:34:31,276 --> 00:34:33,312
+Ok, alors pourquoi
+ils nous ont parlé au club
+
+654
+00:34:33,385 --> 00:34:34,660
+si c'est eux qui ont volé mes affaires ?
+
+655
+00:34:35,888 --> 00:34:37,590
+Pour qu'ils nous envoient
+dans la mauvaise direction ?
+
+656
+00:34:38,305 --> 00:34:40,222
+Ensuite ils ont répété
+leur histoire à leur tuteur
+
+657
+00:34:40,568 --> 00:34:41,590
+pour que leurs histoires concordent.
+
+658
+00:34:42,586 --> 00:34:44,500
+Tu réalises qu'il n'y a pas beaucoup
+de premières années
+
+659
+00:34:44,568 --> 00:34:48,051
+qui font ce genre de choses...
+tu sais, résoudre des crimes.
+
+660
+00:34:48,056 --> 00:34:49,082
+Ah bon ?
+
+661
+00:34:49,085 --> 00:34:50,203
+Alors pourquoi tu le fais ?
+
+662
+00:34:53,017 --> 00:34:55,073
+- pour le fric facile ?
+- Sérieusement.
+
+663
+00:34:56,955 --> 00:34:57,953
+Euh...
+
+664
+00:34:57,976 --> 00:35:00,741
+Wallace m'a parlé de ton amie...
+qui a été assassinée.
+
+665
+00:35:03,707 --> 00:35:05,710
+Parce que je suis douée, peut-être ?
+Je ne sais pas.
+
+666
+00:35:07,165 --> 00:35:09,101
+Wallace devrait se contenter
+de s'analyser lui-même.
+
+667
+00:35:12,128 --> 00:35:13,992
+Ce n'est pas possible.
+Ce n'est absolument pas possible.
+
+668
+00:35:15,106 --> 00:35:16,883
+Tu veux savoir pourquoi je fais ça ?
+
+669
+00:35:16,888 --> 00:35:19,351
+Ca arrive. C'est le meilleur moment.
+
+670
+00:35:19,368 --> 00:35:21,230
+et me prendre mes affaires et...
+
+671
+00:35:26,126 --> 00:35:27,890
+Je vais peut-être récupérer
+mes affaires finalement.
+
+672
+00:35:27,895 --> 00:35:29,741
+Je vais peut-être être payée finalement.
+
+673
+00:35:36,476 --> 00:35:37,821
+Boom, la dynamite explose.
+
+674
+00:35:42,518 --> 00:35:44,220
+Le mec d'hier soir c'est ton petit ami ?
+
+675
+00:35:57,897 --> 00:35:59,131
+La voilà.
+
+676
+00:36:00,725 --> 00:36:02,740
+Vous avez déjà eu une petite amie
+qui vous aimait tellement
+
+677
+00:36:02,828 --> 00:36:04,043
+qu'elle ferait de la prison pour vous ?
+
+678
+00:36:07,785 --> 00:36:08,871
+Bébé !
+
+679
+00:36:09,828 --> 00:36:10,800
+Whoo !
+
+680
+00:36:13,078 --> 00:36:14,120
+Whoa !
+
+681
+00:36:17,486 --> 00:36:18,820
+J'ai compris le système de toc-toc.
+
+682
+00:36:18,886 --> 00:36:20,340
+T'aurais pu m'attendre dans ta chambre.
+
+683
+00:36:20,958 --> 00:36:22,550
+Parker est avec un gars.
+
+684
+00:36:23,476 --> 00:36:24,502
+Alors, allons-y.
+
+685
+00:36:24,656 --> 00:36:26,502
+La séance de minuit n'attend personne.
+
+686
+00:36:27,117 --> 00:36:29,201
+Nos tickets sont à l'intérieur,
+sur le miroir...
+
+687
+00:36:29,436 --> 00:36:31,381
+au dessus de sa boîte à suggestions
+et de la boîte à pourboires.
+
+688
+00:36:32,707 --> 00:36:34,021
+Et frak !
+
+689
+00:36:35,278 --> 00:36:36,572
+Donne moi tes clés.
+
+690
+00:36:46,946 --> 00:36:51,432
+<i>Vous écoutez Club Flush
+sur KR FM, la radio de la fac d'Hearst.</i>
+
+691
+00:36:53,046 --> 00:36:54,461
+Vous gênez pas pour moi.
+
+692
+00:36:57,268 --> 00:36:59,093
+C'est un gâteau excellent, Kendall.
+
+693
+00:36:59,195 --> 00:37:01,320
+Je dirai à Sara Lee que vous aimez.
+
+694
+00:37:02,035 --> 00:37:04,400
+On a décidé de là
+où l'on va s'enfuir, Keith.
+
+695
+00:37:04,407 --> 00:37:05,333
+Je ne veux pas savoir.
+
+696
+00:37:05,337 --> 00:37:07,871
+Il y a de l'eau et du sable.
+
+697
+00:37:07,916 --> 00:37:08,900
+Stop.
+
+698
+00:37:10,536 --> 00:37:13,323
+Mais ça me rappelle que j'ai les papiers
+de voyage de Cormac dans la voiture.
+
+699
+00:37:13,636 --> 00:37:16,063
+Je vais aller les prendre et sortir d'ici,
+pour vous laisser un peu d'intimité.
+
+700
+00:37:16,236 --> 00:37:19,163
+Dépêchez-vous, Keith.
+On ne pourra peut-être pas se contenir.
+
+701
+00:37:46,987 --> 00:37:49,750
+Oh, non, Vinnie. Dis moi que
+tu ne travailles pas pour Liam.
+
+702
+00:38:08,637 --> 00:38:09,532
+Kendall !
+
+703
+00:38:25,488 --> 00:38:27,401
+Une nuit affreusement froide, Keith.
+
+704
+00:38:33,838 --> 00:38:36,313
+Je récupérerai ta carcasse demain matin.
+
+705
+00:38:38,068 --> 00:38:41,122
+Kendall n'était finalement
+pas assez bonne juge de caractère.
+
+706
+00:39:16,795 --> 00:39:18,151
+Je n'ai nulle part d'autre où aller.
+
+707
+00:39:20,658 --> 00:39:23,561
+Hé, c'est pas grave. Tu peux rester ici.
+
+708
+00:39:34,208 --> 00:39:35,360
+J'ai vraiment merdé.
+
+709
+00:39:39,065 --> 00:39:40,342
+Tout ira bien.
+
+710
+00:39:46,387 --> 00:39:47,461
+Viens là.
+
+711
+00:39:51,648 --> 00:39:52,793
+Tu as travaillé dans un café.
+
+712
+00:39:52,796 --> 00:39:55,482
+Comment ne peux-tu pas savoir
+qu'un Irish coffee contient du whisky ?
+
+713
+00:39:56,378 --> 00:39:57,322
+Chez Java the Hut,
+
+714
+00:39:57,465 --> 00:40:01,471
+ça voulait dire un latté avec un nuage
+de sirop à la crème irlandaise.
+
+715
+00:40:01,735 --> 00:40:03,623
+Ce qui explique le premier
+que tu as commandé.
+
+716
+00:40:03,927 --> 00:40:05,642
+Ils étaient magiquement délicieux.
+
+717
+00:40:05,768 --> 00:40:08,112
+Et ils m'ont fait du bien. Boo-yah !
+
+718
+00:40:08,465 --> 00:40:12,190
+Ouais. "Boo-yah" ?
+Tu ne devrais peut-être pas conduire.
+
+719
+00:40:12,196 --> 00:40:13,242
+Je vais bien.
+
+720
+00:40:14,846 --> 00:40:16,062
+Ok, peut-être pas.
+
+721
+00:40:18,806 --> 00:40:21,461
+Et il n'y a plus de gars.
+Le canapé est à toi.
+
+722
+00:40:43,186 --> 00:40:46,780
+Raceman, Cookie, Dest, Channie, BLue, Flovap
+www.forom.com / viki.ouiche.fr
+

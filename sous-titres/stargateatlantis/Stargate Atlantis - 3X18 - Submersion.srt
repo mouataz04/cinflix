@@ -1,0 +1,2485 @@
+0
+00:00:01,887 --> 00:00:04,526
+<i>Previously on</i> Stargate Atlantis :
+
+1
+00:00:05,567 --> 00:00:07,046
+You have some Wraith DNA.
+
+2
+00:00:07,207 --> 00:00:09,243
+My father told people
+that it was a gift.
+
+3
+00:00:09,407 --> 00:00:12,160
+l could help my people by warning
+of the Wraiths’approach.
+
+4
+00:00:12,327 --> 00:00:15,319
+No matter how many Wraith ships
+they destroyed, more kept coming.
+
+5
+00:00:15,487 --> 00:00:18,365
+You think Teyla might tap
+into this Wraith psychic network ?
+
+6
+00:00:18,527 --> 00:00:19,596
+If she can...
+
+7
+00:00:19,807 --> 00:00:22,560
+... we’Il be able gather all the intel
+we needed about them.
+
+8
+00:00:22,727 --> 00:00:25,605
+l would not consider asking you
+to do this if l didn’t think...
+
+9
+00:00:25,767 --> 00:00:27,837
+... it could provide us
+with vital information.
+
+10
+00:00:28,007 --> 00:00:32,205
+And Dr. Beckett will remain on hand
+at all times to monitor your physiology.
+
+11
+00:00:32,367 --> 00:00:33,846
+l am on a ship...
+
+12
+00:00:38,407 --> 00:00:41,046
+You are all so pathetic.
+
+13
+00:01:05,487 --> 00:01:07,557
+« Shotgun, » is it ?
+
+14
+00:01:07,727 --> 00:01:09,479
+Come on.
+
+15
+00:01:10,887 --> 00:01:13,242
+Don’t know why l have to do this.
+
+16
+00:01:21,007 --> 00:01:22,520
+What ?
+
+17
+00:01:23,167 --> 00:01:24,282
+Nobody said anything.
+
+18
+00:01:24,487 --> 00:01:25,522
+You don’t have to.
+
+19
+00:01:25,687 --> 00:01:28,997
+It’s not my fault things are hard to find
+on the bottom of the ocean.
+
+20
+00:01:29,167 --> 00:01:30,919
+Rodney, you said you knew
+where it was.
+
+21
+00:01:31,087 --> 00:01:35,558
+l said l knew its last known location.
+It is a mobile drilling station, remember ?
+
+22
+00:01:35,727 --> 00:01:38,241
+- That’s gonna take a few hours.
+- If we don’t find it...
+
+23
+00:01:38,407 --> 00:01:41,683
+- ... this will be your last known location.
+- Oh, zing.
+
+24
+00:01:41,847 --> 00:01:44,281
+Okay, kids, do l have
+to pull this thing over ?
+
+25
+00:01:44,767 --> 00:01:48,555
+It’s hard enough being in this damn thing
+for hours without listening to you guys.
+
+26
+00:01:48,767 --> 00:01:52,555
+Dr. McKay has managed to narrow the
+search field to a remarkably small area.
+
+27
+00:01:52,927 --> 00:01:56,078
+Finally, a voice of reason.
+Thank you, Dr...
+
+28
+00:01:56,287 --> 00:01:57,686
+- Graydon.
+- Yes, yes, of course.
+
+29
+00:01:57,887 --> 00:02:00,117
+Well, welcome to the team.
+
+30
+00:02:00,287 --> 00:02:02,562
+l’ve been here almost eight months.
+
+31
+00:02:02,727 --> 00:02:04,080
+Really ?
+
+32
+00:02:05,887 --> 00:02:09,004
+It’s been that long, has it ?
+Time certainly flies.
+
+33
+00:02:09,167 --> 00:02:12,125
+Unless you’re in a Jumper,
+looking for a needle in a haystack.
+
+34
+00:02:12,287 --> 00:02:13,322
+You know what ? Shut up.
+
+35
+00:02:13,487 --> 00:02:16,479
+- You know what ? You shut up.
+- l don’t hear Grayson complaining.
+
+36
+00:02:16,647 --> 00:02:18,877
+It’s Graydon, with a » D. »
+
+37
+00:02:19,087 --> 00:02:20,440
+What ? You sure ?
+
+38
+00:02:20,647 --> 00:02:22,524
+It’s my name.
+
+39
+00:02:23,527 --> 00:02:26,519
+No, l could’ve sworn the guy
+l wanted was called Grayson.
+
+40
+00:02:26,687 --> 00:02:29,918
+Because l remember thinking
+« Dick Grayson, » Bruce Wayne’s ward.
+
+41
+00:02:30,087 --> 00:02:31,645
+Well, it’s Graydon.
+
+42
+00:02:33,847 --> 00:02:36,281
+Guess that means
+l hired the wrong guy.
+
+43
+00:02:37,287 --> 00:02:39,278
+Well, still glad you came ?
+
+44
+00:02:40,727 --> 00:02:45,403
+Oh, sorry. l was preoccupied thinking
+about the geothermal drilling platform.
+
+45
+00:02:45,607 --> 00:02:47,325
+It shouldn’t take us much longer.
+
+46
+00:02:47,487 --> 00:02:49,079
+We just passed a thermal layer.
+
+47
+00:02:49,247 --> 00:02:52,080
+l’m getting some readings
+a couple of hundred feet ahead.
+
+48
+00:02:52,247 --> 00:02:55,364
+If we did manage to find an alternate
+and limitless power supply...
+
+49
+00:02:55,527 --> 00:02:58,485
+... well, that would make
+even this insufferably long search...
+
+50
+00:02:58,647 --> 00:02:59,636
+... seem worthwhile.
+
+51
+00:03:01,407 --> 00:03:03,875
+Okay, kids, we’re here.
+
+52
+00:03:05,647 --> 00:03:11,005
+Well, hopefully it won’t take too much
+longer to power up this station.
+
+53
+00:03:21,767 --> 00:03:23,519
+That wasn’t so hard.
+
+54
+00:03:23,687 --> 00:03:26,565
+All l gotta do is dock this thing...
+
+55
+00:03:26,727 --> 00:03:29,400
+... and we can find out
+what this place is all about.
+
+56
+00:04:49,687 --> 00:04:52,963
+All systems are online
+and functioning at full capacity.
+
+57
+00:04:53,127 --> 00:04:54,924
+You mean
+we’re generating power already ?
+
+58
+00:04:55,087 --> 00:04:57,647
+Well, no, but we probably
+could if we wanted to.
+
+59
+00:04:57,807 --> 00:05:00,844
+No, slow down. The Ancients
+abandoned this project for a reason.
+
+60
+00:05:01,007 --> 00:05:04,761
+Let’s try to find out what that reason
+might be before we start drilling.
+
+61
+00:05:04,927 --> 00:05:07,236
+Yes, well, fair enough.
+
+62
+00:05:22,887 --> 00:05:24,798
+Have we not been down
+this hallway before ?
+
+63
+00:05:24,967 --> 00:05:26,764
+Every corridor looks the same.
+
+64
+00:05:26,927 --> 00:05:29,395
+Don’t worry, l have
+an uncanny sense of direction.
+
+65
+00:05:29,567 --> 00:05:31,842
+l think she’s right.
+We’ve been down this way.
+
+66
+00:05:32,007 --> 00:05:35,397
+That’s impossible. We took a left
+and a left and then a right.
+
+67
+00:05:35,567 --> 00:05:37,842
+Hey, look, all l’m saying is--
+
+68
+00:05:39,047 --> 00:05:40,162
+What ?
+
+69
+00:05:40,607 --> 00:05:43,041
+l’m sensing a Wraith presence nearby.
+
+70
+00:05:43,647 --> 00:05:46,286
+Are you sure ?
+We’re pretty deep underwater.
+
+71
+00:05:47,607 --> 00:05:52,044
+l cannot be certain, but l believe
+it is onboard the drilling platform.
+
+72
+00:05:57,167 --> 00:05:59,078
+This is Sheppard.
+
+73
+00:05:59,247 --> 00:06:03,604
+Everyone drop what you’re doing, get
+back to the control room immediately.
+
+74
+00:06:03,807 --> 00:06:05,763
+We did a complete life signs scan.
+
+75
+00:06:05,927 --> 00:06:08,157
+The first thing we did
+when we stepped aboard.
+
+76
+00:06:08,327 --> 00:06:10,887
+Look, l promise you,
+there is nobody here but us.
+
+77
+00:06:11,047 --> 00:06:12,275
+No, Rodney.
+
+78
+00:06:12,447 --> 00:06:15,519
+- And l’m sensing it even closer now.
+- Maybe it’s the pressure.
+
+79
+00:06:15,727 --> 00:06:18,958
+- It’s known to do things to the mind.
+- Just humor me and check again.
+
+80
+00:06:26,487 --> 00:06:30,162
+There. All of these life signs
+have been accounted for.
+
+81
+00:06:30,327 --> 00:06:31,362
+Humored ?
+
+82
+00:06:32,047 --> 00:06:35,642
+Wraith don’t show up on life signs
+detectors if they’re hibernating.
+
+83
+00:06:35,807 --> 00:06:38,719
+- l know what l’m sensing.
+- There is no Wraith, l’m telling you.
+
+84
+00:06:38,887 --> 00:06:41,196
+- Has your sense ever been wrong ?
+- Never.
+
+85
+00:06:41,367 --> 00:06:43,517
+And l cannot shake this feeling.
+
+86
+00:06:43,687 --> 00:06:45,757
+- l trust her.
+- As opposed to irrefutable fact ?
+
+87
+00:06:45,927 --> 00:06:47,883
+- Machines don’t know.
+- Never said they did.
+
+88
+00:06:48,047 --> 00:06:50,277
+There is a way for me to be sure.
+
+89
+00:06:50,447 --> 00:06:53,439
+If l can reach out with my mind
+and establish a link--
+
+90
+00:06:53,607 --> 00:06:55,996
+- That’s a little reckless.
+- If there is no Wraith...
+
+91
+00:06:56,167 --> 00:06:59,477
+... then there will be no mind for me to
+link with and therefore no risk.
+
+92
+00:06:59,647 --> 00:07:01,285
+But if there is a Wraith nearby...
+
+93
+00:07:01,447 --> 00:07:02,800
+We need to know.
+
+94
+00:07:09,407 --> 00:07:11,841
+- l’m ready.
+- You sure ?
+
+95
+00:07:12,007 --> 00:07:15,317
+The briefest contact will determine
+whether or not l’m right.
+
+96
+00:07:15,487 --> 00:07:18,206
+That’s all we need,
+so don’t stick around any longer.
+
+97
+00:07:18,367 --> 00:07:21,962
+And we will bring you out of it
+at the first sign of trouble.
+
+98
+00:07:24,447 --> 00:07:26,517
+- Just to be sure--
+- It’s already set to stun.
+
+99
+00:07:30,007 --> 00:07:31,565
+Sorry.
+
+100
+00:08:07,567 --> 00:08:09,159
+Teyla ?
+
+101
+00:08:14,127 --> 00:08:17,005
+l was mistaken.
+
+102
+00:08:17,807 --> 00:08:18,956
+There is nothing there.
+
+103
+00:08:19,127 --> 00:08:21,402
+Now, that’s good.
+
+104
+00:08:22,007 --> 00:08:24,521
+- l’m sorry.
+- No reason to be sorry.
+
+105
+00:08:25,567 --> 00:08:28,240
+Perhaps it was the effect of
+the pressure at this depth.
+
+106
+00:08:28,407 --> 00:08:31,604
+Well, if you’ve ever seen <i>The Abyss</i>,
+pressure can make you nuts.
+
+107
+00:08:32,447 --> 00:08:33,766
+Not that l think you’re nuts.
+
+108
+00:08:34,367 --> 00:08:36,119
+It’s all right, John.
+
+109
+00:08:36,287 --> 00:08:37,561
+l’m relieved.
+
+110
+00:08:37,727 --> 00:08:39,126
+So am l.
+
+111
+00:08:39,287 --> 00:08:41,596
+Well, we have a lot of exploring to do.
+
+112
+00:08:41,767 --> 00:08:42,756
+We ?
+
+113
+00:08:42,927 --> 00:08:46,124
+Until Rodney delivers the preliminary
+status report, l’m all yours.
+
+114
+00:08:46,287 --> 00:08:47,606
+Put me to work, colonel.
+
+115
+00:08:47,767 --> 00:08:50,156
+All right, let’s make up some time.
+Break into teams.
+
+116
+00:08:50,327 --> 00:08:52,761
+Ronon, you’re with Teyla.
+Élizabeth, you’re with me...
+
+117
+00:08:52,927 --> 00:08:55,122
+... or l’m with you,
+however you wanna put it.
+
+118
+00:08:55,287 --> 00:08:58,484
+Either way or either way.
+
+119
+00:09:04,167 --> 00:09:06,158
+That was weird.
+
+120
+00:09:06,647 --> 00:09:09,684
+Well, we are at the very bottom
+of the ocean.
+
+121
+00:09:09,847 --> 00:09:13,522
+Maybe you’re right, Teyla’s just
+experiencing the effects of the pressure.
+
+122
+00:09:13,687 --> 00:09:17,043
+Hopefully not as bad as that guy
+in <i>The Abyss</i>.
+
+123
+00:09:18,167 --> 00:09:20,158
+This place is big, huh ?
+
+124
+00:09:24,767 --> 00:09:26,439
+What’s wrong ?
+
+125
+00:09:26,687 --> 00:09:30,157
+- Nothing. Why ?
+- You just haven’t said a word.
+
+126
+00:09:30,647 --> 00:09:31,716
+Have l not ?
+
+127
+00:09:32,447 --> 00:09:33,960
+No.
+
+128
+00:09:34,127 --> 00:09:37,563
+Has my silence made you
+uncomfortable ?
+
+129
+00:09:37,967 --> 00:09:39,525
+No.
+
+130
+00:09:41,687 --> 00:09:44,838
+Your friendship is very important
+to me.
+
+131
+00:09:46,087 --> 00:09:48,760
+l would hate to do anything
+that made you...
+
+132
+00:09:48,927 --> 00:09:50,838
+... uncomfortable.
+
+133
+00:09:51,007 --> 00:09:53,202
+Okay. Well, l’m good.
+
+134
+00:10:35,247 --> 00:10:37,681
+Rodney ? What’s going on ?
+
+135
+00:10:37,847 --> 00:10:40,645
+- What do you mean what’s going on ?
+<i>-We just lost the lights.</i>
+
+136
+00:10:40,807 --> 00:10:42,240
+What ?
+
+137
+00:10:48,527 --> 00:10:50,916
+- You’re right.
+<i>-Yes, we can see that.</i>
+
+138
+00:10:51,087 --> 00:10:53,043
+We lost power to 40 percent
+of the station.
+
+139
+00:10:53,207 --> 00:10:55,926
+Sensors are currently off-line.
+Zelenka, what’re you doing ?
+
+140
+00:10:56,087 --> 00:10:57,725
+What do you mean, what am l doing ?
+
+141
+00:10:57,887 --> 00:10:59,764
+<i>Have you lost power where you are ?</i>
+
+142
+00:10:59,927 --> 00:11:01,440
+No, have you ?
+
+143
+00:11:01,607 --> 00:11:03,643
+- No.
+<i>-We have.</i>
+
+144
+00:11:03,807 --> 00:11:05,365
+l wanna know what’s going on.
+
+145
+00:11:05,527 --> 00:11:08,405
+<i>This station has been lying</i>
+<i>idle down here for a few millennia.</i>
+
+146
+00:11:08,567 --> 00:11:09,761
+<i>Bound to blow a few fuses.</i>
+
+147
+00:11:09,927 --> 00:11:12,839
+Look, l’Il have power back online
+in a minute. Just hang tight.
+
+148
+00:11:14,887 --> 00:11:18,516
+Ronon, Teyla, report your position.
+
+149
+00:11:22,367 --> 00:11:24,835
+<i>Ronon ? Teyla ? Come in.</i>
+
+150
+00:11:33,007 --> 00:11:35,840
+<i>Ronon ? Teyla ?</i>
+
+151
+00:11:40,087 --> 00:11:43,602
+Rodney, we’ve lost contact with Ronon
+and Teyla. Do you know their position ?
+
+152
+00:11:43,767 --> 00:11:45,485
+<i>No. Internal sensors are out.</i>
+
+153
+00:11:45,647 --> 00:11:47,877
+<i>I have the location</i>
+<i>where the power went down.</i>
+
+154
+00:11:48,047 --> 00:11:50,641
+It’s an auxiliary control area,
+search grid six.
+
+155
+00:11:50,807 --> 00:11:53,480
+<i>The deck that Ronon and Teyla</i>
+<i>were exploring.</i>
+
+156
+00:11:53,807 --> 00:11:55,320
+We’Il meet you there.
+
+157
+00:11:55,487 --> 00:11:57,045
+Okay, Davidson.
+
+158
+00:11:57,207 --> 00:12:00,085
+- It’s Dickenson, sir.
+- l was in the ballpark. Give me a break.
+
+159
+00:12:00,247 --> 00:12:01,362
+Get back to the Jumper...
+
+160
+00:12:01,527 --> 00:12:05,406
+... see if you can use its sensors to locate
+our people within the drilling platform.
+
+161
+00:12:05,567 --> 00:12:08,127
+Graydon, you go with him.
+
+162
+00:12:26,927 --> 00:12:28,519
+There you are.
+
+163
+00:12:47,487 --> 00:12:50,559
+- Weapons fire.
+- Nine mil. This way.
+
+164
+00:12:50,767 --> 00:12:53,998
+Oh, yes, let’s race towards
+the gunfire.
+
+165
+00:13:27,327 --> 00:13:29,522
+Ronon, Teyla, come in.
+
+166
+00:13:38,727 --> 00:13:40,399
+Are you all right ?
+
+167
+00:13:40,567 --> 00:13:42,637
+- No.
+- Did you see who attacked you ?
+
+168
+00:13:43,487 --> 00:13:44,522
+Yeah, it was Teyla.
+
+169
+00:13:44,687 --> 00:13:47,963
+- What ? Why ?
+- Okay, until we know what’s going on...
+
+170
+00:13:48,127 --> 00:13:49,924
+... l’d like everyone in one place.
+
+171
+00:14:02,207 --> 00:14:05,802
+<i>This is Zelenka. Someone has activated</i>
+<i>force fields throughout the station.</i>
+
+172
+00:14:05,967 --> 00:14:08,481
+- Can you make it to the control room ?
+<i>-Yes, I think so.</i>
+
+173
+00:14:08,647 --> 00:14:11,036
+- Do it.
+- Doesn’t make sense. What’s she doing ?
+
+174
+00:14:11,207 --> 00:14:14,597
+You and Élizabeth go to the control
+room. Ronon and l will check on Teyla.
+
+175
+00:14:14,847 --> 00:14:17,407
+- Be careful.
+- No kidding.
+
+176
+00:14:43,087 --> 00:14:44,679
+Drop it.
+
+177
+00:14:47,287 --> 00:14:48,879
+John.
+
+178
+00:14:52,087 --> 00:14:53,315
+What the hell’s going on ?
+
+179
+00:14:54,567 --> 00:14:56,239
+l do not know.
+
+180
+00:15:02,007 --> 00:15:04,726
+- Rodney, what’s the status ?
+- As far from the quo as it gets.
+
+181
+00:15:04,887 --> 00:15:07,082
+Teyla didn’t just shut down several
+key systems.
+
+182
+00:15:07,247 --> 00:15:09,477
+She scrambled
+the existing operating codes.
+
+183
+00:15:09,967 --> 00:15:12,083
+This is going to take a while.
+
+184
+00:15:12,407 --> 00:15:13,556
+Can we contact Atlantis ?
+
+185
+00:15:13,727 --> 00:15:16,241
+The station’s communication is gone.
+l can’t patch it.
+
+186
+00:15:16,407 --> 00:15:19,205
+She’s blown the control crystals,
+shut down half the power...
+
+187
+00:15:19,367 --> 00:15:21,597
+... and set up a series
+of emergency force fields.
+
+188
+00:15:21,767 --> 00:15:23,405
+To what purpose ?
+
+189
+00:15:23,567 --> 00:15:26,365
+<i>This is Sheppard. We got Teyla.</i>
+
+190
+00:15:26,527 --> 00:15:28,757
+- And ?
+- And nothing.
+
+191
+00:15:28,927 --> 00:15:32,044
+She has no memory of anything
+that happened in the last hour.
+
+192
+00:15:32,207 --> 00:15:33,845
+We’re on our way to crew quarters.
+
+193
+00:15:34,007 --> 00:15:34,996
+<i>I’Il meet you there.</i>
+
+194
+00:15:35,167 --> 00:15:37,556
+Let’s forget restoring
+this station to its former glory.
+
+195
+00:15:37,727 --> 00:15:40,525
+Concentrate on internal sensors
+and disabling force fields...
+
+196
+00:15:40,687 --> 00:15:42,882
+... that are cutting us off
+from the Jumper.
+
+197
+00:15:51,127 --> 00:15:52,640
+Élizabeth, l’m so sorry.
+
+198
+00:15:52,807 --> 00:15:54,240
+Don’t worry about that.
+
+199
+00:15:54,407 --> 00:15:57,046
+- How are you feeling now ?
+- l’m fine.
+
+200
+00:15:57,207 --> 00:16:01,439
+But to hear of the damage l caused and
+yet to have no memory of my actions...
+
+201
+00:16:01,647 --> 00:16:03,444
+Just tell us what you do remember.
+
+202
+00:16:05,127 --> 00:16:09,598
+l was attempting to seek out the Wraith
+presence with my mind, and then...
+
+203
+00:16:10,647 --> 00:16:11,636
+There is a Wraith ?
+
+204
+00:16:13,087 --> 00:16:15,396
+The most powerful mind
+l have ever encountered.
+
+205
+00:16:18,047 --> 00:16:20,277
+- l tried to shut her out.
+- Her ?
+
+206
+00:16:21,967 --> 00:16:23,161
+Yes.
+
+207
+00:16:23,327 --> 00:16:25,045
+l believe this Wraith is a queen.
+
+208
+00:16:25,207 --> 00:16:29,280
+- l hate queens.
+- In that brief moment, l sensed...
+
+209
+00:16:29,807 --> 00:16:35,484
+... great power, the experiences
+of many centuries.
+
+210
+00:16:35,647 --> 00:16:37,365
+Hunger.
+
+211
+00:16:37,527 --> 00:16:39,324
+And then...
+
+212
+00:16:39,487 --> 00:16:41,239
+... nothing.
+
+213
+00:16:41,927 --> 00:16:45,681
+My next memory is of Colonel Sheppard
+and Ronon aiming their weapons at me.
+
+214
+00:16:45,887 --> 00:16:47,798
+There’s a Wraith
+on the drilling platform.
+
+215
+00:16:47,967 --> 00:16:51,516
+Well, if that were the case, why’d she
+use Teyla to do all that damage...
+
+216
+00:16:51,687 --> 00:16:54,042
+... and why didn’t
+the detector pick up a signal ?
+
+217
+00:16:54,207 --> 00:16:55,401
+It doesn’t matter.
+
+218
+00:16:55,567 --> 00:16:58,161
+- If she’s here, l’Il find her.
+- We’Il find her.
+
+219
+00:16:58,327 --> 00:16:59,760
+l would like to help.
+
+220
+00:17:04,007 --> 00:17:05,326
+l’m sorry, Teyla.
+
+221
+00:17:06,047 --> 00:17:09,357
+- But until we can determine what’s--
+- Yes, of course.
+
+222
+00:17:09,527 --> 00:17:11,518
+l understand.
+
+223
+00:17:16,247 --> 00:17:19,922
+<i>Dickenson. Any progress</i>
+<i>on disabling those force fields ?</i>
+
+224
+00:17:20,087 --> 00:17:23,159
+<i>I’m getting indications that some</i>
+<i>of them are going up and down.</i>
+
+225
+00:17:23,327 --> 00:17:26,683
+<i>-We could use the Jumper’s sensors.</i>
+- l’m doing my best, sir.
+
+226
+00:17:27,487 --> 00:17:29,955
+One of these days,
+l’m gonna call him Dr. McCoy.
+
+227
+00:17:30,127 --> 00:17:33,597
+- l’d love to be there for that.
+- The next time he calls me Grayson.
+
+228
+00:17:33,767 --> 00:17:35,962
+Actually, l know a Grayson.
+
+229
+00:17:36,727 --> 00:17:40,561
+- There really is a Grayson ?
+- Yeah, he’s a damn good scientist too.
+
+230
+00:17:40,727 --> 00:17:42,922
+l’m surprised McKay didn’t hire him.
+
+231
+00:17:45,967 --> 00:17:47,036
+Did you do that ?
+
+232
+00:17:47,207 --> 00:17:50,119
+l don’t know.
+But l’m happy to take credit for it.
+
+233
+00:17:50,687 --> 00:17:52,564
+- Check it out.
+- Yeah.
+
+234
+00:18:24,327 --> 00:18:25,316
+l don’t understand.
+
+235
+00:18:25,487 --> 00:18:28,285
+What could the Wraith want with an
+Ancient drilling platform ?
+
+236
+00:18:28,447 --> 00:18:29,800
+How did they even get here ?
+
+237
+00:18:29,967 --> 00:18:32,845
+- l don’t know, maybe on a ship nearby.
+- Underwater ?
+
+238
+00:18:33,007 --> 00:18:35,396
+Who knows ? Teyla’s spidey sense
+works for miles.
+
+239
+00:18:35,567 --> 00:18:38,365
+- Are the external sensors up ?
+- Yes, they’re operational.
+
+240
+00:18:38,527 --> 00:18:40,518
+- They’re to scan the ocean.
+- Doesn’t matter.
+
+241
+00:18:40,687 --> 00:18:44,362
+Coleman, look at the drilling platform’s
+external sensors. See what you turn up.
+
+242
+00:18:44,527 --> 00:18:47,121
+- What am l looking for ?
+- Anything.
+
+243
+00:18:50,167 --> 00:18:51,919
+How are you feeling ?
+
+244
+00:18:52,927 --> 00:18:54,360
+l’ve never been more ashamed.
+
+245
+00:18:55,647 --> 00:18:59,196
+- Oh, you can’t blame yourself.
+- l should have been more careful.
+
+246
+00:19:00,807 --> 00:19:03,765
+A Wraith Queen’s mind
+is extremely powerful, Teyla.
+
+247
+00:19:03,927 --> 00:19:06,725
+- You know that better than l do.
+- Still.
+
+248
+00:19:06,927 --> 00:19:11,478
+If my actions while under her control
+result in people getting hurt...
+
+249
+00:19:14,087 --> 00:19:16,760
+If you hadn’t done what you did...
+
+250
+00:19:17,247 --> 00:19:19,317
+... who knows
+what could’ve happened.
+
+251
+00:19:22,047 --> 00:19:24,515
+At least now we know
+what we’re dealing with.
+
+252
+00:19:25,367 --> 00:19:28,677
+If anything, l should thank you.
+l certainly don’t blame you.
+
+253
+00:19:29,487 --> 00:19:31,079
+l would like to help them find her.
+
+254
+00:19:31,647 --> 00:19:33,205
+- Teyla.
+- There is no risk.
+
+255
+00:19:33,367 --> 00:19:35,164
+l don’t know that.
+
+256
+00:19:36,887 --> 00:19:40,004
+Unless you suspect l am still
+under her control even now ?
+
+257
+00:19:41,487 --> 00:19:44,001
+Would l be alone with you if l did ?
+
+258
+00:19:45,887 --> 00:19:49,243
+Then you think
+l am somehow vulnerable to her ?
+
+259
+00:19:51,767 --> 00:19:55,203
+l think it is best to keep you away
+from her for the moment, yes.
+
+260
+00:19:56,047 --> 00:19:58,686
+Look, l don’t fully understand
+this capability you have...
+
+261
+00:19:58,847 --> 00:20:02,078
+... of linking with a Wraith mind,
+but if it’s even remotely possible--
+
+262
+00:20:02,247 --> 00:20:06,843
+She was only able to control me
+because l opened my mind to her.
+
+263
+00:20:12,007 --> 00:20:14,316
+If l choose to do so again...
+
+264
+00:20:14,927 --> 00:20:16,406
+... l will be ready.
+
+265
+00:20:16,567 --> 00:20:19,798
+- Teyla, l know you wanna help.
+- l do.
+
+266
+00:20:20,487 --> 00:20:24,480
+The best way for you to do that is allow
+Ronon and Colonel Sheppard to find her.
+
+267
+00:20:28,367 --> 00:20:30,198
+As you wish.
+
+268
+00:20:59,007 --> 00:21:02,317
+It’s about time. l was beginning
+to think you had gotten lost.
+
+269
+00:21:02,527 --> 00:21:04,757
+Listen, did you manage to-- ?
+
+270
+00:21:10,927 --> 00:21:12,565
+Colonel Sheppard.
+
+271
+00:21:13,207 --> 00:21:14,640
+If you can hear me...
+
+272
+00:21:14,807 --> 00:21:16,206
+... please.
+
+273
+00:21:16,367 --> 00:21:17,595
+<i>Help me--</i>
+
+274
+00:21:17,767 --> 00:21:20,327
+Who am l talking to ?
+
+275
+00:21:20,487 --> 00:21:22,557
+What’s your location ?
+
+276
+00:21:23,527 --> 00:21:24,596
+McKay ?
+
+277
+00:21:24,767 --> 00:21:26,723
+<i>Do you have any men</i>
+<i>unaccounted for ?</i>
+
+278
+00:21:26,887 --> 00:21:28,718
+Two guys l just sent back
+to the Jumper.
+
+279
+00:21:28,887 --> 00:21:32,118
+l think they’re in trouble.
+Can you get those force fields down ?
+
+280
+00:21:33,487 --> 00:21:35,000
+We’re working on it.
+
+281
+00:21:38,207 --> 00:21:40,562
+The Wraith presence
+is even stronger than before.
+
+282
+00:21:40,727 --> 00:21:42,843
+She is aboard this station.
+You must warn them.
+
+283
+00:21:43,007 --> 00:21:46,920
+Colonel Sheppard, Teyla is certain
+the Wraith is aboard the station.
+
+284
+00:21:47,087 --> 00:21:48,566
+<i>Understood.</i>
+
+285
+00:21:48,727 --> 00:21:51,321
+Ronon, l’m heading back
+to the Jumper. Meet me there.
+
+286
+00:21:51,487 --> 00:21:52,886
+l’m on my way.
+
+287
+00:21:55,807 --> 00:21:59,720
+<i>Sheppard, help me. Please.</i>
+
+288
+00:22:00,607 --> 00:22:02,598
+McKay.
+
+289
+00:22:06,807 --> 00:22:08,718
+McKay.
+
+290
+00:22:08,887 --> 00:22:10,366
+<i>Yeah, yeah, yeah, almost there.</i>
+
+291
+00:22:10,767 --> 00:22:12,883
+l can only do one at a time.
+
+292
+00:22:19,807 --> 00:22:22,401
+The Jumper’s sensors
+should be able to locate them.
+
+293
+00:22:35,487 --> 00:22:37,000
+Graydon ?
+
+294
+00:22:48,327 --> 00:22:49,601
+Graydon’s dead.
+
+295
+00:22:50,087 --> 00:22:53,238
+<i>-Fed upon.</i>
+- What about Dickenson ?
+
+296
+00:22:53,407 --> 00:22:55,284
+<i>There’s no sign of him yet.</i>
+
+297
+00:22:56,327 --> 00:22:59,524
+See if we can find him using the...
+
+298
+00:23:01,887 --> 00:23:03,957
+Sheppard ?
+
+299
+00:23:04,127 --> 00:23:05,276
+Sheppard, come in.
+
+300
+00:23:16,127 --> 00:23:17,606
+You are Sheppard.
+
+301
+00:23:18,367 --> 00:23:21,040
+The one who can fly this ship.
+
+302
+00:23:21,887 --> 00:23:24,276
+You will return me to the surface.
+
+303
+00:23:25,607 --> 00:23:27,563
+Kneel.
+
+304
+00:23:32,007 --> 00:23:34,919
+<i>Sheppard, this is mcKay.</i>
+<i>What have you got ?</i>
+
+305
+00:23:35,767 --> 00:23:37,359
+<i>Sheppard, can you hear me ?</i>
+
+306
+00:23:42,727 --> 00:23:44,718
+Is something wrong ?
+
+307
+00:23:47,087 --> 00:23:49,601
+You will fly me to the stargate...
+
+308
+00:23:50,327 --> 00:23:52,238
+... and return me to my people.
+
+309
+00:24:04,167 --> 00:24:08,718
+<i>Sheppard, this is mcKay.</i>
+<i>Please respond. Sheppard, come in.</i>
+
+310
+00:24:08,927 --> 00:24:10,997
+l’m here.
+
+311
+00:24:12,367 --> 00:24:14,437
+We had to throw the emergency
+force fields up.
+
+312
+00:24:14,607 --> 00:24:17,041
+- The section you were in was flooding.
+- l noticed.
+
+313
+00:24:17,207 --> 00:24:20,722
+You were thrown by the force of the
+water clear of the force field bulkhead.
+
+314
+00:24:20,887 --> 00:24:22,718
+Ronon ?
+
+315
+00:24:40,447 --> 00:24:41,436
+l missed.
+
+316
+00:24:41,807 --> 00:24:44,526
+l noticed that too.
+
+317
+00:24:44,687 --> 00:24:48,646
+<i>Everyone else is accounted for.</i>
+<i>Any sign of Dickenson ?</i>
+
+318
+00:24:50,407 --> 00:24:52,602
+Stand by, McKay.
+
+319
+00:24:56,127 --> 00:24:59,881
+Look, l don’t know what just happened,
+but we are now cut off from the Jumper.
+
+320
+00:25:00,087 --> 00:25:02,123
+- l won’t miss now.
+- Wait.
+
+321
+00:25:02,287 --> 00:25:04,084
+What for ?
+
+322
+00:25:04,287 --> 00:25:07,836
+Well, we lost the Jumper and we lost
+communications with Atlantis.
+
+323
+00:25:08,007 --> 00:25:10,043
+Maybe she can help us
+get out of this place.
+
+324
+00:25:19,767 --> 00:25:20,756
+Welcome back.
+
+325
+00:25:24,847 --> 00:25:26,997
+l trust you’re comfortable ?
+
+326
+00:25:27,767 --> 00:25:32,079
+That groggy sensation you’re feeling are
+the sedatives we’re pumping you full of.
+
+327
+00:25:32,247 --> 00:25:34,238
+Just a precaution.
+
+328
+00:25:34,407 --> 00:25:36,921
+As for the other precautions...
+
+329
+00:25:44,567 --> 00:25:47,240
+Now, you’re gonna tell us everything
+we want to know.
+
+330
+00:25:48,007 --> 00:25:49,645
+In exchange for ?
+
+331
+00:25:50,927 --> 00:25:53,122
+This is not a negotiation.
+
+332
+00:25:54,247 --> 00:25:56,283
+l disagree.
+
+333
+00:25:56,447 --> 00:25:58,324
+Let me get this over with.
+
+334
+00:26:16,167 --> 00:26:17,805
+How did you get aboard this station ?
+
+335
+00:26:21,287 --> 00:26:23,562
+Are there any more of you ?
+
+336
+00:26:27,207 --> 00:26:30,199
+You are all about to die.
+
+337
+00:26:30,607 --> 00:26:32,086
+Really ?
+
+338
+00:26:32,247 --> 00:26:34,886
+You care to elaborate on that at all ?
+
+339
+00:26:43,127 --> 00:26:46,483
+We should keep the force fields up till
+Atlantis sends a rescue Jumper.
+
+340
+00:26:46,647 --> 00:26:48,524
+Station communications
+are still down--
+
+341
+00:26:48,687 --> 00:26:50,723
+If l’d listened to Teyla,
+this wouldn’t have happened.
+
+342
+00:26:50,887 --> 00:26:53,765
+- It’s not your fault.
+- l sent those men back to the Jumper.
+
+343
+00:26:53,927 --> 00:26:56,646
+Well, the sensors indicated that
+there was nobody here.
+
+344
+00:26:56,807 --> 00:27:00,197
+l don’t think there was, sir. The Wraith
+arrived after we did the scans.
+
+345
+00:27:00,367 --> 00:27:01,595
+- What ?
+- l did a search...
+
+346
+00:27:01,807 --> 00:27:04,275
+... with the remote sensors.
+l found something.
+
+347
+00:27:04,887 --> 00:27:08,402
+We didn’t notice it on the way down
+because it’s radiating very little EM.
+
+348
+00:27:08,607 --> 00:27:12,202
+Guys, head back here.
+l think l have a few answers.
+
+349
+00:27:16,127 --> 00:27:20,245
+- A Wraith cruiser ?
+- Seems completely buried in silt.
+
+350
+00:27:20,527 --> 00:27:23,439
+Which means it’s been here
+a very, very, very long time.
+
+351
+00:27:23,607 --> 00:27:27,998
+- Yes, give or take a very.
+- That doesn’t explain how she got here.
+
+352
+00:27:30,047 --> 00:27:33,517
+- Maybe she swam over.
+- No, no. The pressure at that depth is--
+
+353
+00:27:33,687 --> 00:27:36,121
+Deadly to humans,
+but she’s not human, remember ?
+
+354
+00:27:36,287 --> 00:27:40,360
+Yes, it’s difficult to imagine, but with
+a Wraith’s ability to heal itself...
+
+355
+00:27:45,967 --> 00:27:49,004
+- And there are no other Wraith onboard ?
+- No way to know for sure.
+
+356
+00:27:49,207 --> 00:27:52,916
+Our prisoner isn’t talking.
+Other than,« ou » ?You’re all about to die. »
+
+357
+00:27:53,127 --> 00:27:56,039
+Which may or may not
+be an empty threat.
+
+358
+00:27:56,327 --> 00:27:59,922
+- And you have no way of knowing ?
+- She said it with a lot of confidence.
+
+359
+00:28:01,327 --> 00:28:04,364
+- There is a way to find out.
+- We’ve already been down that road.
+
+360
+00:28:04,527 --> 00:28:06,916
+What is to stop her asserting
+control over you again ?
+
+361
+00:28:07,087 --> 00:28:09,043
+She is heavily sedated.
+
+362
+00:28:09,447 --> 00:28:12,405
+And this time, l know exactly
+what l’m dealing with.
+
+363
+00:28:27,047 --> 00:28:28,799
+You.
+
+364
+00:28:30,327 --> 00:28:32,283
+l was caught off-guard the first time.
+
+365
+00:28:32,767 --> 00:28:34,246
+That will not happen again.
+
+366
+00:28:35,047 --> 00:28:36,799
+It does not matter.
+
+367
+00:28:36,967 --> 00:28:39,003
+Well, we think it does.
+
+368
+00:28:39,327 --> 00:28:41,887
+Your fate is sealed.
+
+369
+00:28:44,887 --> 00:28:47,526
+If you have any reason to suspect
+that l’m not myself...
+
+370
+00:28:47,687 --> 00:28:49,723
+... do not hesitate to use that.
+
+371
+00:28:49,887 --> 00:28:50,922
+l won’t.
+
+372
+00:29:05,607 --> 00:29:06,596
+l see her...
+
+373
+00:29:08,447 --> 00:29:13,362
+<i>... leading the first wave of ships that</i>
+<i>attacked Atlantis during the war.</i>
+
+374
+00:29:13,927 --> 00:29:16,680
+Queen of a great alliance.
+
+375
+00:29:18,607 --> 00:29:21,121
+Her ship was damaged
+during the battle.
+
+376
+00:29:23,447 --> 00:29:25,278
+It crashed into the ocean.
+
+377
+00:29:26,327 --> 00:29:29,319
+She fed upon
+her own crew to survive.
+
+378
+00:29:29,487 --> 00:29:32,559
+Too deep to ever swim to the surface.
+
+379
+00:29:32,727 --> 00:29:36,197
+Waking between centuries...
+
+380
+00:29:36,887 --> 00:29:40,084
+... waiting for rescue
+that never came...
+
+381
+00:29:40,607 --> 00:29:44,282
+... until finally she was alone.
+
+382
+00:29:46,727 --> 00:29:49,958
+<i>She sensed our presence</i>
+<i>during our descent.</i>
+
+383
+00:29:51,047 --> 00:29:52,719
+<i>She sensed...</i>
+
+384
+00:29:53,487 --> 00:29:54,966
+... me.
+
+385
+00:29:55,607 --> 00:29:59,566
+<i>And saw us as her one chance</i>
+<i>at freedom from her prison.</i>
+
+386
+00:30:02,127 --> 00:30:05,085
+<i>The water was crushing...</i>
+
+387
+00:30:06,207 --> 00:30:07,481
+... but she was determined.
+
+388
+00:30:07,967 --> 00:30:12,438
+Finally, after all these millennia,
+a ship.
+
+389
+00:30:13,567 --> 00:30:15,478
+<i>But she did not possess the gene</i>
+<i>to fly it.</i>
+
+390
+00:30:18,647 --> 00:30:20,922
+She used Dickenson to call for me.
+
+391
+00:30:31,647 --> 00:30:32,716
+Teyla ?
+
+392
+00:30:33,287 --> 00:30:36,404
+- You are all about to die.
+- That does not sound like Teyla.
+
+393
+00:30:36,567 --> 00:30:38,478
+You are all about to die.
+
+394
+00:30:38,647 --> 00:30:39,921
+You are all about to die.
+
+395
+00:30:40,087 --> 00:30:42,920
+- Teyla, snap out of it.
+- Wait.
+
+396
+00:30:48,567 --> 00:30:52,196
+She has activated the self-destruct
+device of the Wraith cruiser.
+
+397
+00:30:52,367 --> 00:30:55,086
+It is set to detonate within two hours.
+
+398
+00:30:58,167 --> 00:31:01,955
+So not an empty threat.
+
+399
+00:31:17,247 --> 00:31:18,600
+- How’s Teyla ?
+- She’s resting.
+
+400
+00:31:18,767 --> 00:31:20,883
+It took more out of her
+than she’Il admit.
+
+401
+00:31:21,047 --> 00:31:23,242
+- What’s the news ?
+- It looks like the Ancients...
+
+402
+00:31:23,407 --> 00:31:25,762
+... chose this section
+because the planet’s crust...
+
+403
+00:31:25,927 --> 00:31:27,645
+... is remarkably thin below us...
+
+404
+00:31:27,807 --> 00:31:31,402
+... allowing to drill into the magma and
+maximize the geothermal power output.
+
+405
+00:31:31,567 --> 00:31:33,478
+- Okay.
+- Which means there’s a great deal...
+
+406
+00:31:33,647 --> 00:31:36,036
+... of potential energy directly
+beneath this station.
+
+407
+00:31:36,207 --> 00:31:38,596
+That’s the news ? That this place
+works as advertised ?
+
+408
+00:31:38,767 --> 00:31:41,406
+No, no, the news is that
+if they were to detonate, say...
+
+409
+00:31:41,567 --> 00:31:44,843
+... the self-destruct of a Wraith cruiser
+on such a wafer-thin crust...
+
+410
+00:31:45,047 --> 00:31:47,117
+- Oh, my God.
+- All that thermal energy...
+
+411
+00:31:47,327 --> 00:31:50,000
+... directly beneath us
+will be released all at once.
+
+412
+00:31:50,207 --> 00:31:52,243
+So bad news.
+
+413
+00:31:52,407 --> 00:31:54,637
+The explosion will be magnified a
+thousand times.
+
+414
+00:31:54,807 --> 00:31:57,446
+- We’re talking catastrophic.
+- So it won’t just be us.
+
+415
+00:31:57,607 --> 00:32:00,838
+No, Atlantis will be affected as well.
+It’s within the blast radius.
+
+416
+00:32:01,007 --> 00:32:03,760
+- We have no way to warn them ?
+- They’d never see it coming.
+
+417
+00:32:03,927 --> 00:32:05,997
+So we disarm the self-destruct.
+
+418
+00:32:06,167 --> 00:32:09,000
+- That’s brilliant, we need to get there.
+- Without the Jumper ?
+
+419
+00:32:09,167 --> 00:32:11,681
+We’re behind schedule.
+They’Il send a rescue Jumper.
+
+420
+00:32:11,847 --> 00:32:14,236
+Even if they’ve left,
+the moment we were overdue--
+
+421
+00:32:14,407 --> 00:32:16,921
+- They won’t make it in time.
+- How far is the cruiser ?
+
+422
+00:32:19,727 --> 00:32:23,197
+- Less than a kilometer.
+- She swam that far ?
+
+423
+00:32:23,367 --> 00:32:26,916
+- What is she ?
+- A formidable enemy.
+
+424
+00:32:27,087 --> 00:32:28,759
+l have an idea.
+
+425
+00:32:30,047 --> 00:32:32,436
+l found these in the database
+when we first got here.
+
+426
+00:32:32,607 --> 00:32:35,758
+They were used to make
+repairs to the exterior of the station.
+
+427
+00:32:35,927 --> 00:32:39,715
+- Very cool.
+- You’Il be able to traverse the distance.
+
+428
+00:32:39,887 --> 00:32:43,846
+- You mean we.
+- Yes, of course. We.
+
+429
+00:32:45,207 --> 00:32:47,198
+This must be how she got in.
+
+430
+00:32:47,407 --> 00:32:49,204
+Probably.
+
+431
+00:32:50,767 --> 00:32:52,803
+All right, let’s get suited up.
+
+432
+00:32:54,327 --> 00:32:56,079
+Right.
+
+433
+00:33:00,327 --> 00:33:01,965
+You’re breathing too hard.
+
+434
+00:33:02,607 --> 00:33:05,280
+Forgive me for being aware of exactly
+how much pressure...
+
+435
+00:33:05,447 --> 00:33:07,403
+... is being exerted on this suit
+right now.
+
+436
+00:33:07,567 --> 00:33:10,798
+Just think of it as a walk
+on the beach.
+
+437
+00:33:10,967 --> 00:33:13,720
+A beach that’s about to explode.
+
+438
+00:33:14,047 --> 00:33:16,163
+That’s supposed
+to make me feel better ?
+
+439
+00:33:16,807 --> 00:33:20,197
+No, it’s supposed to make you walk
+faster. We’re on a clock here.
+
+440
+00:33:20,407 --> 00:33:22,159
+<i>This is Weir. How close are you ?</i>
+
+441
+00:33:22,367 --> 00:33:25,359
+Almost there, but we’re running
+out of time.
+
+442
+00:33:25,567 --> 00:33:29,037
+We need Teyla to do her
+Kreskin act again.
+
+443
+00:33:30,087 --> 00:33:33,477
+l’d rather not have to. l think it could be
+much too dangerous for her.
+
+444
+00:33:33,687 --> 00:33:36,042
+So is exploding magma.
+
+445
+00:33:36,767 --> 00:33:40,442
+l am walking as fast as l can.
+
+446
+00:33:41,567 --> 00:33:44,286
+How do we disarm the self-destruct ?
+
+447
+00:33:44,727 --> 00:33:47,525
+You won’t survive the blast
+any more than we will.
+
+448
+00:33:50,567 --> 00:33:52,762
+l can get the information we need.
+
+449
+00:33:52,967 --> 00:33:55,401
+If you were strong enough...
+
+450
+00:33:55,607 --> 00:33:58,599
+... you would have done so already.
+
+451
+00:34:00,927 --> 00:34:04,442
+l can feel how weak you are.
+
+452
+00:34:04,647 --> 00:34:07,241
+We shall see who is stronger.
+
+453
+00:34:19,887 --> 00:34:21,843
+- That took too long.
+- Yeah, well...
+
+454
+00:34:22,047 --> 00:34:26,484
+... l probably won’t be able to disarm the
+self-destruct in time, we’re not in a rush.
+
+455
+00:34:26,647 --> 00:34:28,797
+Why don’t we find it,
+then you can be negative ?
+
+456
+00:34:28,967 --> 00:34:30,559
+This ship is remarkably preserved.
+
+457
+00:34:30,727 --> 00:34:33,161
+You’d think after 10,000 years
+she’d wanna redecorate.
+
+458
+00:34:33,327 --> 00:34:36,797
+l’m serious. Hull damage is minimal.
+They probably lost their main drive.
+
+459
+00:34:36,967 --> 00:34:38,844
+You’re saying this is salvageable ?
+
+460
+00:34:39,007 --> 00:34:42,522
+l have to assess damage to primary
+systems, but it’s not out of the question.
+
+461
+00:34:42,687 --> 00:34:45,997
+You’d just go and blow it up or slam it
+into a hive ship or something...
+
+462
+00:34:46,167 --> 00:34:48,397
+... and all that work
+would be for nothing.
+
+463
+00:34:49,127 --> 00:34:50,640
+This way.
+
+464
+00:35:02,647 --> 00:35:04,205
+Teyla ?
+
+465
+00:35:06,927 --> 00:35:08,883
+You are weakening.
+
+466
+00:35:09,047 --> 00:35:10,275
+l think you should stop.
+
+467
+00:35:10,447 --> 00:35:12,438
+My concentration slipped
+for a moment.
+
+468
+00:35:12,607 --> 00:35:15,679
+And in that moment, l could have
+crushed you with a single thought.
+
+469
+00:35:17,727 --> 00:35:21,515
+Perhaps next time, l will.
+
+470
+00:35:21,687 --> 00:35:24,076
+- There isn’t gonna be a next time.
+- l’m fine.
+
+471
+00:35:24,247 --> 00:35:27,080
+No, you’re not. l can see
+what this is doing to you.
+
+472
+00:35:27,247 --> 00:35:29,886
+Let’s just give McKay a chance.
+
+473
+00:35:33,687 --> 00:35:35,484
+There it is.
+
+474
+00:35:38,887 --> 00:35:40,366
+What ?
+
+475
+00:35:40,727 --> 00:35:44,242
+l’m sure this is the device, l’m sure
+it says we have less than half an hour.
+
+476
+00:35:44,407 --> 00:35:46,238
+So turn it off.
+
+477
+00:35:52,247 --> 00:35:54,681
+- What does that mean ?
+- It’s not accepting commands.
+
+478
+00:35:54,847 --> 00:35:56,883
+There must be some kind
+of a command code...
+
+479
+00:35:57,047 --> 00:35:59,436
+- ... that needs to be entered.
+- Can you figure it out ?
+
+480
+00:35:59,607 --> 00:36:02,599
+Command codes are simple like the
+number one or the letter A...
+
+481
+00:36:02,767 --> 00:36:05,804
+- ... like, in Wraith, which would be--
+- Can you figure it out or not ?
+
+482
+00:36:05,967 --> 00:36:08,083
+Not if l stood and tried
+for a million years...
+
+483
+00:36:08,247 --> 00:36:11,398
+... and we have just under
+a million years less than that.
+
+484
+00:36:11,687 --> 00:36:13,643
+Élizabeth, you there ?
+
+485
+00:36:14,647 --> 00:36:15,841
+Any luck ?
+
+486
+00:36:16,047 --> 00:36:18,038
+<i>Negative. We don’t get her</i>
+<i>command code...</i>
+
+487
+00:36:18,247 --> 00:36:21,364
+... in less than 30 minutes,
+we’re dead.
+
+488
+00:36:25,567 --> 00:36:28,604
+- This is the only way.
+- l told you, Rodney has another idea.
+
+489
+00:36:28,807 --> 00:36:32,243
+That may or may not succeed.
+There is only one way to be certain.
+
+490
+00:36:32,407 --> 00:36:34,557
+She said she would kill you next time.
+
+491
+00:36:34,767 --> 00:36:36,803
+l will not let that happen.
+
+492
+00:36:37,647 --> 00:36:40,957
+No. We’re gonna give them
+more time.
+
+493
+00:36:48,727 --> 00:36:49,716
+Ronon.
+
+494
+00:36:50,007 --> 00:36:53,079
+There’s an emergency in the control
+room. Dr. Weir needs your help.
+
+495
+00:36:53,247 --> 00:36:54,566
+What about her ?
+
+496
+00:36:54,727 --> 00:36:56,763
+l will watch the prisoner. Hurry.
+
+497
+00:36:56,967 --> 00:36:58,764
+Watch yourself.
+
+498
+00:37:03,007 --> 00:37:05,362
+Are you fool enough to try again ?
+
+499
+00:37:07,007 --> 00:37:08,520
+l have very little to lose.
+
+500
+00:37:52,287 --> 00:37:55,723
+You are trying to hide something
+from me.
+
+501
+00:38:00,047 --> 00:38:01,605
+<i>There’s been a development.</i>
+
+502
+00:38:01,767 --> 00:38:03,803
+You’ve been able to disarm
+the self-destruct ?
+
+503
+00:38:03,967 --> 00:38:07,437
+No, but Rodney thinks if he can tie in
+a Naquadah generator...
+
+504
+00:38:07,607 --> 00:38:10,565
+- ... he can get the cruiser to fly.
+- After all these years ?
+
+505
+00:38:10,727 --> 00:38:12,957
+Damage was superficial.
+Problem was the engines.
+
+506
+00:38:13,127 --> 00:38:15,118
+McKay’s restored power and l think...
+
+507
+00:38:15,287 --> 00:38:18,324
+- ... l can fly the ship to a distance.
+- That’s a suicide mission.
+
+508
+00:38:18,487 --> 00:38:22,366
+If l can ditch the ship on the mainland,
+maybe l can get far enough away.
+
+509
+00:38:22,527 --> 00:38:23,960
+- l gotta go now.
+- Wait.
+
+510
+00:38:24,127 --> 00:38:26,721
+Let me try again. If l can get her to give
+up her code...
+
+511
+00:38:26,887 --> 00:38:30,084
+- ... you won’t have to risk it.
+- You’re in no condition to do that.
+
+512
+00:38:30,967 --> 00:38:32,480
+Sorry.
+
+513
+00:39:01,527 --> 00:39:02,880
+Well.
+
+514
+00:39:03,087 --> 00:39:05,681
+You’re a hell of a swimmer,
+l’Il give you that.
+
+515
+00:39:05,887 --> 00:39:08,640
+You have restored power ?
+
+516
+00:39:08,927 --> 00:39:10,645
+It’Il fly.
+
+517
+00:39:19,367 --> 00:39:22,962
+You shall be rewarded
+with a quick death.
+
+518
+00:39:29,247 --> 00:39:31,203
+She’s not dying
+according to plan here.
+
+519
+00:39:38,447 --> 00:39:40,039
+l thought you’d forgotten about me.
+
+520
+00:39:40,207 --> 00:39:42,482
+l just had to wait for her
+to disable the device.
+
+521
+00:39:42,647 --> 00:39:46,162
+Be thankful she didn’t feed on you
+before she entered the command code.
+
+522
+00:39:46,327 --> 00:39:48,318
+- That’s why you didn’t wanna be bait.
+- No...
+
+523
+00:39:48,487 --> 00:39:51,604
+... you had to be bait because she was
+expecting you to fly the ship.
+
+524
+00:39:56,007 --> 00:39:59,044
+- She is dead, right ?
+- Let’s get out of here.
+
+525
+00:40:11,087 --> 00:40:12,884
+How are you feeling ?
+
+526
+00:40:13,127 --> 00:40:17,359
+Much better, now that l no longer
+feel the constant presence of a Wraith.
+
+527
+00:40:17,607 --> 00:40:21,156
+That was no ordinary Wraith. It took
+a lot of bullets to take her down.
+
+528
+00:40:21,527 --> 00:40:22,596
+l wish l was there.
+
+529
+00:40:22,767 --> 00:40:27,966
+He’s right, you know. l mean, deceiving
+a Wraith Queen ? That’s no small feat.
+
+530
+00:40:28,167 --> 00:40:31,523
+When there are so many lives at stake,
+it’s easy to summon the strength.
+
+531
+00:40:31,687 --> 00:40:35,202
+Well, Zelenka’s finally got
+communications back up.
+
+532
+00:40:35,367 --> 00:40:37,881
+Turns out Atlantis
+had sent another Jumper.
+
+533
+00:40:38,087 --> 00:40:40,681
+- It should be here within the hour.
+- That’s good news.
+
+534
+00:40:40,887 --> 00:40:43,037
+Yeah, no kidding.
+l can’t wait to see the sun.
+
+535
+00:40:43,207 --> 00:40:45,596
+We haven’t finished what we came for.
+Wraith’s gone.
+
+536
+00:40:45,767 --> 00:40:46,916
+We got a ton of research.
+
+537
+00:40:47,087 --> 00:40:49,726
+- Yes, we do.
+- In fact, l’m sure we should be able...
+
+538
+00:40:49,887 --> 00:40:53,675
+... to come up with a way to get auxiliary
+power online in a couple of days.
+
+539
+00:40:54,527 --> 00:40:55,676
+Is he serious ?
+
+540
+00:40:55,887 --> 00:40:58,526
+- Yeah, he is.
+- Well, l for one...
+
+541
+00:40:58,687 --> 00:41:01,804
+... intend to spend
+the next little while resting.
+
+542
+00:41:02,247 --> 00:41:03,475
+Same here.
+
+543
+00:41:03,687 --> 00:41:06,838
+Yeah. Same here.
+
+544
+00:41:38,207 --> 00:41:40,198
+Subtitles by
+SDI Media Group
+
+545
+00:41:40,367 --> 00:41:42,358
+[ENGLISH]
+

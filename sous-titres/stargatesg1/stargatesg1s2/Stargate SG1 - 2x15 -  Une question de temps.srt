@@ -1,0 +1,2226 @@
+1
+00:43:29,218 --> 00:43:31,174
+Allez!
+
+2
+00:43:38,218 --> 00:43:40,174
+ll est juste au-dessus de nous!
+
+3
+00:43:40,298 --> 00:43:42,858
+Composez, capitaine!
+C'est un ordre!
+
+4
+00:44:00,978 --> 00:44:03,856
+On va y arriver, mon commandant!
+
+5
+00:44:03,978 --> 00:44:06,936
+On va y arriver! Composez vite!
+
+6
+00:44:18,898 --> 00:44:24,131
+Je sais, je devrais le savoir.
+C'est la dernière fois que je demande.
+
+7
+00:44:25,378 --> 00:44:27,733
+Ces couloirs espace-temps
+qu'on traverse,
+
+8
+00:44:27,858 --> 00:44:30,088
+ils ne sont pas toujours là, c'est ça?
+
+9
+00:44:30,218 --> 00:44:33,733
+Non, commandant. lls n'existent
+qu'entre deux Stargates ouverts.
+
+10
+00:44:33,858 --> 00:44:36,292
+Et pourquoi un couloir?
+
+11
+00:44:36,418 --> 00:44:38,534
+Cette histoire de couloir... je pige pas.
+
+12
+00:44:40,098 --> 00:44:41,770
+C'est juste une métaphore.
+
+13
+00:44:42,898 --> 00:44:44,411
+Ouais. Ca, j'avais compris.
+
+14
+00:44:48,178 --> 00:44:50,567
+lmaginez que la galaxie soit une pomme.
+
+15
+00:44:50,698 --> 00:44:53,576
+Nous creusons des couloirs
+à travers cette pomme,
+
+16
+00:44:53,698 --> 00:44:58,010
+en traversant d'un côté à l'autre,
+au lieu de faire le tour de la pomme.
+
+17
+00:44:59,938 --> 00:45:01,087
+O.K.
+
+18
+00:45:02,338 --> 00:45:06,889
+Bien sûr, c'est une représentation
+bi-dimensionnelle de l'espace-temps.
+
+19
+00:45:07,018 --> 00:45:09,532
+Et le couloir n'est pas
+exactement un couloir,
+
+20
+00:45:09,658 --> 00:45:11,728
+mais plutôt un conduit
+inter-dimensionnel...
+
+21
+00:45:11,858 --> 00:45:12,813
+Colonel?
+
+22
+00:45:13,818 --> 00:45:15,376
+O.K.
+
+23
+00:45:18,338 --> 00:45:19,896
+Ca ira.
+
+24
+00:45:20,018 --> 00:45:21,815
+O.K.
+
+25
+00:45:25,378 --> 00:45:27,812
+Nous avons un passager clandestin.
+
+26
+00:45:31,298 --> 00:45:32,856
+Fermez l'iris.
+
+27
+00:45:37,938 --> 00:45:39,894
+Nous recevons un signal.
+
+28
+00:45:41,098 --> 00:45:44,534
+- Qui est de service?
+- Les équipes SG quatre, six et dix
+
+29
+00:45:44,658 --> 00:45:47,377
+sont les seules unités
+actuellement en mission.
+
+30
+00:45:47,498 --> 00:45:51,616
+- Daniel est avec la six, pas vrai?
+- Oui, il fait une fouille sur PX3-808.
+
+31
+00:45:51,738 --> 00:45:55,447
+Je n'arrive pas à identifier le signal.
+Ce n'est pas une transmission GDO.
+
+32
+00:45:55,578 --> 00:45:57,296
+Faites-moi écouter, lieutenant.
+
+33
+00:45:57,418 --> 00:45:59,374
+ANALYSE DU SlGNAL
+
+34
+00:46:05,058 --> 00:46:07,618
+lmpulsions intermittentes,
+basse fréquence.
+
+35
+00:46:08,738 --> 00:46:13,175
+- De quoi s'agit-il?
+- Pas sûr. Une sorte de signal.
+
+36
+00:46:13,298 --> 00:46:18,167
+ll y a un motif qui se répète. Repassez-le
+sur l'ordinateur, beaucoup plus vite.
+
+37
+00:46:18,298 --> 00:46:20,095
+J'essaye à 200%.
+
+38
+00:46:20,218 --> 00:46:21,617
+RETRAlTEMENT... 200%
+
+39
+00:46:23,818 --> 00:46:25,490
+Essayez six.
+
+40
+00:46:28,218 --> 00:46:29,287
+ACCEPTE
+
+41
+00:46:29,418 --> 00:46:33,616
+L'ordinateur reconnait le signal.
+C'est le code d'iris de la SG-10.
+
+42
+00:46:33,738 --> 00:46:35,649
+C'est l'équipe de Henry Boyd.
+
+43
+00:46:37,698 --> 00:46:40,258
+Pourquoi recevons-nous
+le code aussi lentement?
+
+44
+00:46:40,378 --> 00:46:43,256
+Aucune idée,
+mais si nous n'ouvrons pas l'iris...
+
+45
+00:46:43,378 --> 00:46:46,927
+Le prochain bruit sourd...
+sera l'équipe de Henry Boyd.
+
+46
+00:46:47,658 --> 00:46:48,568
+Allez-y.
+
+47
+00:47:01,778 --> 00:47:04,133
+Allez, Hank, la porte est ouverte.
+
+48
+00:47:12,458 --> 00:47:13,607
+Que s'est-il passé?
+
+49
+00:47:13,738 --> 00:47:15,694
+Je ne sais pas.
+
+50
+00:47:15,818 --> 00:47:19,174
+Général, la SG-1 aimerait mener
+la mission de sauvetage.
+
+51
+00:47:19,298 --> 00:47:22,290
+- Pas encore, colonel.
+- Hank ferait pareil pour nous.
+
+52
+00:47:22,418 --> 00:47:24,807
+Je sais - après en avoir reçu l'ordre.
+
+53
+00:47:24,938 --> 00:47:28,692
+En attendant, je veux une sonde
+sur la rampe pour un départ immédiat.
+
+54
+00:47:28,818 --> 00:47:32,572
+Colonel, que les unités SG-1
+et 3 se tiennent prêtes.
+
+55
+00:48:44,018 --> 00:48:45,770
+UNE QUESTlON DE TEMPS
+
+56
+00:48:45,898 --> 00:48:49,447
+La SG-10 était en mission de
+reconnaissance sur P3W-451 .
+
+57
+00:48:49,578 --> 00:48:52,456
+C'est un système binaire.
+Nous venons de le découvrir.
+
+58
+00:48:52,578 --> 00:48:55,297
+- Des signes d'une attaque ennemie?
+- Non.
+
+59
+00:48:55,418 --> 00:48:57,488
+Le seule chose que Boyd ait signalée
+
+60
+00:48:57,618 --> 00:49:02,009
+c'est que toute forme de vie sur 451
+aurait récemment disparu.
+
+61
+00:49:02,138 --> 00:49:04,572
+lls essayaient d'en déterminer les raisons.
+
+62
+00:49:05,258 --> 00:49:07,249
+Si jamais j'autorise cette mission,
+
+63
+00:49:07,378 --> 00:49:09,334
+la SG-3 sera votre renfort.
+
+64
+00:49:11,338 --> 00:49:14,455
+- Si jamais, général?
+- Chevron trois, encodé.
+
+65
+00:49:14,578 --> 00:49:17,331
+Voyons les images que
+nous renvoit la sonde.
+
+66
+00:49:17,458 --> 00:49:21,610
+Je veux d'abord une analyse des risques.
+Ca pourrait être un piège...
+
+67
+00:49:21,738 --> 00:49:26,254
+C'est moi qui ai recommandé le major
+Boyd. S'il a des ennuis, je veux y aller.
+
+68
+00:49:26,378 --> 00:49:28,096
+J'avais compris, colonel.
+
+69
+00:49:28,218 --> 00:49:30,174
+Chevron quatre, encodé.
+
+70
+00:49:30,298 --> 00:49:31,970
+Oui, général.
+
+71
+00:49:37,298 --> 00:49:38,617
+Chevron cinq, encodé.
+
+72
+00:49:38,738 --> 00:49:42,617
+Le major Boyd est un guerrier compétent.
+Tu l'as bien formé.
+
+73
+00:49:45,218 --> 00:49:46,571
+Ouais.
+
+74
+00:49:49,778 --> 00:49:51,734
+Chevron six, encodé.
+
+75
+00:49:59,018 --> 00:50:00,576
+Chevron sept, verrouillé.
+
+76
+00:50:04,898 --> 00:50:06,854
+O.K. pour le transport du MALP.
+
+77
+00:50:17,178 --> 00:50:20,488
+La sonde devrait atteindre
+le Stargate de P3W-451
+
+78
+00:50:20,618 --> 00:50:23,894
+d'ici cinq,... quatre,... trois,
+
+79
+00:50:24,018 --> 00:50:25,292
+deux,
+
+80
+00:50:25,418 --> 00:50:26,567
+un.
+
+81
+00:50:31,458 --> 00:50:33,494
+Je ne comprends pas. C'est ...
+
+82
+00:50:34,498 --> 00:50:35,977
+Tout rouge, général.
+
+83
+00:50:36,098 --> 00:50:38,054
+On reçoit la télémétrie?
+
+84
+00:50:38,178 --> 00:50:41,534
+Oui, général,
+mais encore plus lentement qu'avant.
+
+85
+00:50:41,658 --> 00:50:43,216
+On aperçoit une image.
+
+86
+00:50:43,338 --> 00:50:47,729
+Entrez l'alimentation vidéo,
+avec une fréquence supérieure.
+
+87
+00:50:47,858 --> 00:50:50,930
+- Augmentez de 20 millimicrons.
+- Capitaine?
+
+88
+00:50:51,058 --> 00:50:54,892
+ll est possible que l'image
+de la sonde soit passée au rouge,
+
+89
+00:50:55,018 --> 00:50:57,896
+déformée du côté infrarouge du spectre.
+
+90
+00:50:58,018 --> 00:50:59,292
+Pourquoi?
+
+91
+00:50:59,418 --> 00:51:01,727
+Pour la même raison
+qui a ralenti le code.
+
+92
+00:51:02,418 --> 00:51:03,567
+Ouais.
+
+93
+00:51:03,698 --> 00:51:05,211
+Quelle qu'elle soit.
+
+94
+00:51:06,978 --> 00:51:08,570
+Ca marche.
+
+95
+00:51:19,298 --> 00:51:21,254
+Qu'est-ce qui se passe, Hank?
+
+96
+00:51:22,898 --> 00:51:27,176
+- lls sont poursuivis?
+- Repassez le film à vitesse normale.
+
+97
+00:51:27,298 --> 00:51:30,927
+- Nous devons savoir...
+- C'est tout ce que nous avons reçu.
+
+98
+00:51:31,058 --> 00:51:34,289
+Onze images digitales en six minutes.
+
+99
+00:51:34,978 --> 00:51:38,527
+- Ca représente une fraction de seconde.
+- Une défaillance technique?
+
+100
+00:51:38,658 --> 00:51:42,253
+Non, l'image nous dit
+tout ce qu'il y a à savoir.
+
+101
+00:51:42,378 --> 00:51:45,654
+Cette équipe est en difficulté.
+lls se font sûrement attaquer.
+
+102
+00:51:45,778 --> 00:51:47,973
+- Permission de traverser?
+- Négatif.
+
+103
+00:51:48,898 --> 00:51:50,570
+Comment ça, négatif?
+
+104
+00:51:52,538 --> 00:51:57,089
+Désolée, colonel. Sauf votre respect.
+Mais si j'ai raison, ils sont perdus.
+
+105
+00:51:58,338 --> 00:52:03,048
+La caméra répond peut-être aux
+commandes. Essayez d'agrandir.
+
+106
+00:52:03,578 --> 00:52:06,695
+Je crois savoir ce qui
+terrifie le major Boyd.
+
+107
+00:52:14,498 --> 00:52:17,490
+Là! lsolez cette zone
+et faites un agrandissement.
+
+108
+00:52:26,378 --> 00:52:29,688
+- Qu'est-ce que c'est?
+- C'est un trou noir, mon général.
+
+109
+00:52:29,818 --> 00:52:32,378
+Très récent, on dirait.
+
+110
+00:52:32,498 --> 00:52:37,526
+L'orbite de P3W-451 autour de
+son étoile se resserre sûrement.
+
+111
+00:52:37,658 --> 00:52:40,456
+Pourquoi ne traversent-ils pas?
+
+112
+00:52:40,578 --> 00:52:43,411
+lls essayent, mais plus
+on s'approche d'un trou noir...
+
+113
+00:52:43,538 --> 00:52:45,415
+plus le temps ralentit.
+
+114
+00:52:47,738 --> 00:52:49,854
+ll a presque l'air d'être immobile.
+
+115
+00:52:49,978 --> 00:52:51,616
+Vu d'ici, oui.
+
+116
+00:52:51,738 --> 00:52:54,969
+Mais le temps est relatif.
+Pour la SG-10,
+
+117
+00:52:55,098 --> 00:52:58,977
+seules quelques secondes ont passé.
+lls essayent encore de s'échapper.
+
+118
+00:52:59,098 --> 00:53:00,770
+Qu'est-ce qui va leur arriver?
+
+119
+00:53:00,898 --> 00:53:05,414
+La dilatation temporelle est due à
+la gravité, directement proportionelle...
+
+120
+00:53:05,538 --> 00:53:07,494
+Capitaine!
+
+121
+00:53:08,698 --> 00:53:09,926
+Désolée.
+
+122
+00:53:13,218 --> 00:53:16,528
+lls vont être déchiquetés
+par des forces marémotrices.
+
+123
+00:53:19,778 --> 00:53:22,815
+lls ont déjà réussi à activer le Stargate.
+
+124
+00:53:22,938 --> 00:53:26,089
+Oui, mais pour eux,
+ça a probablement duré une seconde.
+
+125
+00:53:26,218 --> 00:53:29,051
+On ne peut rien faire pour les sauver?
+
+126
+00:53:29,178 --> 00:53:31,089
+lls sont foutus.
+
+127
+00:53:31,218 --> 00:53:34,574
+- Vous en êtes sûr, colonel?
+- Non, je ne le suis pas.
+
+128
+00:53:34,698 --> 00:53:37,849
+Mais regardez le visage du major Boyd.
+Ca vous inspire quoi?
+
+129
+00:53:43,258 --> 00:53:46,330
+Très bien. Eteignez le Stargate.
+
+130
+00:53:46,458 --> 00:53:48,335
+Général...
+
+131
+00:53:48,458 --> 00:53:50,414
+Par un pur hasard de la technologie,
+
+132
+00:53:50,538 --> 00:53:54,326
+nous assistons à une scène
+qui contredit les lois de la physique.
+
+133
+00:53:54,458 --> 00:53:58,246
+Nous assistons à la mort de plusieurs
+hommes au ralenti, capitaine.
+
+134
+00:54:02,538 --> 00:54:04,017
+Vous avez raison.
+
+135
+00:54:06,298 --> 00:54:07,651
+Fermez-le.
+
+136
+00:54:10,538 --> 00:54:12,494
+SEQUENCE DE FERMETURE
+lNCOMPLETE -
+
+137
+00:54:12,618 --> 00:54:14,097
+FERMETURE lMPOSSlBLE
+
+138
+00:54:15,778 --> 00:54:16,927
+Général,
+
+139
+00:54:17,058 --> 00:54:19,014
+on ne peut pas l'éteindre.
+
+140
+00:54:19,138 --> 00:54:20,969
+- Réessayez.
+- C'est ce que j'ai fait.
+
+141
+00:54:21,098 --> 00:54:22,247
+Deux fois.
+
+142
+00:54:22,378 --> 00:54:24,209
+On ne peut pas l'éteindre.
+
+143
+00:54:36,058 --> 00:54:38,777
+On y va! Allez! Vite! Vite!
+
+144
+00:54:53,018 --> 00:54:56,488
+Sergent, depuis combien de temps
+avez-vous perdu le contact?
+
+145
+00:54:56,618 --> 00:54:58,927
+Ca va bientôt faire quatre heures.
+
+146
+00:54:59,058 --> 00:55:01,447
+Mais c'était déjà zarbi avant ça.
+
+147
+00:55:01,578 --> 00:55:05,696
+C'est le terme militaire exact?
+Qu'entendez-vous par ''zarbi'', sergent?
+
+148
+00:55:05,818 --> 00:55:10,687
+Tout le monde parlait lentement,
+comme si leurs piles étaient usées.
+
+149
+00:55:13,498 --> 00:55:16,570
+Ce conduit d'air mène directement
+au sous-sol 28?
+
+150
+00:55:16,698 --> 00:55:19,417
+Oui, mais je ne sais pas
+comment vous allez descendre.
+
+151
+00:55:19,538 --> 00:55:21,051
+Vous inquiétez pas.
+
+152
+00:55:21,178 --> 00:55:24,648
+On a apporté notre propre équipement.
+Messieurs, à vous!
+
+153
+00:55:30,178 --> 00:55:31,736
+Ouvrez!
+
+154
+00:55:33,058 --> 00:55:34,616
+La voie est libre!
+
+155
+00:55:38,858 --> 00:55:40,450
+lci le major général Hammond.
+
+156
+00:55:40,578 --> 00:55:43,888
+Je dois parler au président
+de toute urgence.
+
+157
+00:55:52,938 --> 00:55:56,169
+Sergent, déconnectez
+l'interface supraconductrice.
+
+158
+00:55:56,298 --> 00:55:58,653
+J'ai déjà essayé, capitaine.
+C'est bloqué.
+
+159
+00:55:58,778 --> 00:56:01,736
+- Teal'c, donne un coup de main à Siler.
+- Je vais l'assister.
+
+160
+00:56:08,818 --> 00:56:12,049
+- Capitaine Carter.
+- J'allais vous présenter mon rapport.
+
+161
+00:56:12,178 --> 00:56:16,615
+Le condensateur devrait être vide,
+mais le Stargate s'alimente directement.
+
+162
+00:56:16,738 --> 00:56:20,572
+ll n'y a pas de durée limite théorique
+pour l'ouverture d'un couloir?
+
+163
+00:56:20,698 --> 00:56:22,654
+Si, nous venons de la dépasser.
+
+164
+00:56:22,778 --> 00:56:24,734
+Alors comment est-ce possible?
+
+165
+00:56:24,858 --> 00:56:29,534
+Comme le temps passe plus lentement
+sur P3W-451 que sur la Terre,
+
+166
+00:56:29,658 --> 00:56:34,049
+on est en plein paradoxe et le Stargate
+n'a pas été conçu pour cela.
+
+167
+00:56:38,578 --> 00:56:40,933
+Pourquoi diable est-ce qu'il fait ça?
+
+168
+00:56:42,898 --> 00:56:44,934
+Je n'en ai pas la moindre idée.
+
+169
+00:56:45,058 --> 00:56:48,095
+Ca a commencé après
+que vous ayez parlé au président.
+
+170
+00:56:48,218 --> 00:56:51,528
+- Je n'ai pas réussi à le joindre.
+- Veuillez m'excuser.
+
+171
+00:56:51,658 --> 00:56:54,809
+Nous avons perdu contact
+avec les étages en-dessous du 24.
+
+172
+00:56:54,938 --> 00:56:58,089
+- La ligne sûre la plus proche?
+- NORAD. A l'étage principal.
+
+173
+00:56:58,218 --> 00:57:01,813
+- Je reviens. En attendant...
+- Compris.
+
+174
+00:57:04,458 --> 00:57:06,016
+Carter...
+
+175
+00:57:07,058 --> 00:57:10,130
+Qu'est-ce qui se passerait si...
+on débranchait tout?
+
+176
+00:57:20,538 --> 00:57:23,655
+O.K., Carter.
+On est dans la salle d'alimentation.
+
+177
+00:57:23,778 --> 00:57:26,053
+On va d'abord isoler les condensateurs.
+
+178
+00:57:27,098 --> 00:57:28,531
+Panneau six.
+
+179
+00:57:28,658 --> 00:57:32,617
+Colonel, tirez les leviers
+90 à 94 sur le panneau 6.
+
+180
+00:57:33,738 --> 00:57:35,888
+Reçu. Prêts.
+
+181
+00:57:40,178 --> 00:57:41,452
+Attention, tout le monde.
+
+182
+00:57:41,578 --> 00:57:43,728
+Je ne sais pas ce qui va se passer.
+
+183
+00:57:44,778 --> 00:57:47,133
+ll faut évacuer cette zone.
+
+184
+00:57:52,138 --> 00:57:54,174
+Ca court-circuite.
+
+185
+00:57:54,298 --> 00:57:56,289
+- Levier principal?
+- Ca va surcharger.
+
+186
+00:57:56,418 --> 00:57:57,487
+Faut qu'on le fasse.
+
+187
+00:57:57,618 --> 00:57:59,574
+Colonel, tirez le levier principal.
+
+188
+00:58:02,898 --> 00:58:04,047
+A trois...
+
+189
+00:58:04,178 --> 00:58:05,896
+un, deux, trois!
+
+190
+00:58:22,578 --> 00:58:24,728
+Colonel, ça va?
+
+191
+00:58:24,858 --> 00:58:26,814
+Des blessés dans la salle du Stargate!
+
+192
+00:58:28,578 --> 00:58:30,853
+Colonel, est-ce que ça va?
+
+193
+00:58:36,938 --> 00:58:39,657
+Siler est blessé. Ca a marché?
+
+194
+00:58:39,778 --> 00:58:42,417
+Non. Même avec la coupure,
+elle ne s'éteint pas.
+
+195
+00:58:43,258 --> 00:58:44,816
+Comment est-ce possible?
+
+196
+00:58:44,938 --> 00:58:47,577
+Elle doit tirer son énergie du trou noir.
+
+197
+00:58:47,698 --> 00:58:52,726
+- Envoyez-lui des infirmiers.
+- lnfirmiers à la salle d'alimentation!
+
+198
+00:58:52,858 --> 00:58:55,577
+La montagne est sur alimentation
+<i>de sec</i>ou<i>rs</i>.
+
+199
+00:59:01,738 --> 00:59:03,694
+Les secours devraient arriver.
+
+200
+00:59:05,898 --> 00:59:08,287
+Ne vous préoccupez pas pour moi.
+
+201
+00:59:08,418 --> 00:59:11,330
+La brûlure est grave, Teal'c.
+Même pour toi.
+
+202
+00:59:16,338 --> 00:59:17,930
+Le Stargate...
+
+203
+00:59:35,418 --> 00:59:37,374
+Lieutenant, fermez l'iris!
+
+204
+00:59:37,498 --> 00:59:40,570
+C'est un couloir sortant.
+Rien ne peut venir à nous.
+
+205
+00:59:40,698 --> 00:59:43,656
+A part la gravité du trou noir!
+Fermez-le! C'est un ordre!
+
+206
+00:59:43,778 --> 00:59:45,894
+Fermez l'iris.
+
+207
+00:59:58,578 --> 01:00:01,615
+- Ne tirez pas!
+- Qu'est-ce qu'il y a? Qui êtes-vous?
+
+208
+01:00:01,738 --> 01:00:04,616
+Major Davis. Etat-major.
+Suivez-moi.
+
+209
+01:00:04,738 --> 01:00:07,855
+- Que font ces hommes ici?
+- On pensait qu'il y avait eu
+
+210
+01:00:07,978 --> 01:00:09,934
+une incursion extraterrestre.
+
+211
+01:00:10,058 --> 01:00:13,130
+On a envoyé une équipe
+avant de savoir ce qu'il se passe.
+
+212
+01:00:13,258 --> 01:00:16,728
+Je vous expliquerai en route.
+ll faut faire vite.
+
+213
+01:00:16,858 --> 01:00:21,170
+Nous avons une urgence ici, major!
+Je veux d'abord en parler au président.
+
+214
+01:00:21,298 --> 01:00:23,607
+ll veut vous voir en personne.
+
+215
+01:00:23,738 --> 01:00:28,289
+Votre avion est prêt à décoller.
+Nous devons partir immédiatement.
+
+216
+01:00:28,778 --> 01:00:30,609
+Je vous suis.
+
+217
+01:00:38,138 --> 01:00:40,606
+Pas un geste! Contre le mur! Vite! Vite!
+
+218
+01:00:41,898 --> 01:00:43,456
+Votre badge!
+
+219
+01:00:46,618 --> 01:00:49,576
+- Dr Fraiser.
+- Qui êtes-vous? Baissez ça!
+
+220
+01:00:49,698 --> 01:00:52,576
+Colonel Cromwell -
+lntervention de l'armée de l'air.
+
+221
+01:00:52,698 --> 01:00:57,169
+ll y a cinq heures, le contact a été rompu
+avec cette base. Je veux savoir pourquoi.
+
+222
+01:00:57,298 --> 01:00:58,253
+Colonel,
+
+223
+01:00:58,378 --> 01:01:00,334
+il y a une urgence médicale!
+
+224
+01:01:00,458 --> 01:01:03,734
+Mes supérieurs pensent qu'il s'agit
+d'une invasion extraterrestre.
+
+225
+01:01:03,858 --> 01:01:06,008
+Eh bien, ils sont mal informés.
+
+226
+01:01:06,138 --> 01:01:10,893
+D'après ce que j'ai lu sur cette base,
+Docteur, même vous pourriez en être un!
+
+227
+01:01:11,538 --> 01:01:12,937
+Avancez!
+
+228
+01:01:13,058 --> 01:01:14,616
+Secteur six!
+
+229
+01:01:25,138 --> 01:01:28,369
+On espèrait que vous pourriez
+confirmer notre hypothèse.
+
+230
+01:01:28,498 --> 01:01:30,853
+- A savoir?
+- Nous savons maintenant
+
+231
+01:01:30,978 --> 01:01:34,095
+que la SGC est en train de vivre
+une ''dilatation temporelle''.
+
+232
+01:01:34,218 --> 01:01:37,927
+Le temps s'écoule plus lentement
+dans la base qu'à la surface.
+
+233
+01:01:38,058 --> 01:01:40,447
+D'oû le problème de communication.
+
+234
+01:01:40,578 --> 01:01:44,207
+Oui. Et nous savons qu'il n'y a que
+deux causes possibles.
+
+235
+01:01:44,338 --> 01:01:47,535
+Une vitesse proche de celle de
+la lumière ou une gravité extrème.
+
+236
+01:01:47,658 --> 01:01:52,686
+ll y a environ dix minutes, nous avons
+ouvert un couloir vers une planète
+
+237
+01:01:52,818 --> 01:01:55,890
+à proximité du champ
+gravitationnel d'un trou noir.
+
+238
+01:01:56,018 --> 01:01:59,328
+Et le temps étant pratiquement
+suspendu de l'autre côté,
+
+239
+01:01:59,458 --> 01:02:02,256
+vous avez été incapable de
+fermer le Stargate.
+
+240
+01:02:02,378 --> 01:02:07,498
+C'était notre hypothèse. Nous avons eu
+plus de temps que vous pour y penser.
+
+241
+01:02:07,618 --> 01:02:11,088
+lls vous mettront en relation
+avec le président dans l'avion.
+
+242
+01:02:11,218 --> 01:02:12,367
+Merci, major.
+
+243
+01:02:12,498 --> 01:02:13,897
+Bonne chance.
+
+244
+01:02:37,098 --> 01:02:39,054
+Siler a pris un sacré coup.
+
+245
+01:02:39,178 --> 01:02:40,850
+Comment vas-tu, Teal'c?
+
+246
+01:02:41,538 --> 01:02:44,974
+J'ai juste reçu des brûlures
+électriques, O'Neill. C'est tout.
+
+247
+01:02:45,098 --> 01:02:48,329
+ll ne sera pas de service
+pendant quelques jours.
+
+248
+01:02:51,258 --> 01:02:52,407
+Carter?
+
+249
+01:02:52,538 --> 01:02:56,087
+Des vagues de gravité. Je croyais
+que le couloir allait nous protéger
+
+250
+01:02:56,218 --> 01:02:59,051
+du champ gravitationnel du trou noir.
+
+251
+01:02:59,178 --> 01:03:02,250
+Mais il y a une brêche dans notre
+espace-temps, comme sur P3W-451 .
+
+252
+01:03:02,378 --> 01:03:03,857
+Tu vas arrêter ça!
+
+253
+01:03:05,498 --> 01:03:08,535
+- Nous avons des ennuis.
+- Merci.
+
+254
+01:03:11,258 --> 01:03:13,453
+Trouve une solution.
+
+255
+01:03:14,338 --> 01:03:15,896
+Oui.
+
+256
+01:03:21,218 --> 01:03:23,174
+Colonel!
+
+257
+01:03:23,298 --> 01:03:25,254
+C'est bon!
+
+258
+01:03:28,338 --> 01:03:31,296
+- Cromwell?
+- Vous le connaissez?
+
+259
+01:03:31,418 --> 01:03:33,374
+Et comment.
+
+260
+01:03:33,498 --> 01:03:34,817
+Vas-y.
+
+261
+01:03:41,058 --> 01:03:42,411
+Ca fait une paye.
+
+262
+01:03:42,538 --> 01:03:43,937
+Ouais.
+
+263
+01:03:44,058 --> 01:03:45,411
+Cinq heures.
+
+264
+01:03:45,538 --> 01:03:49,008
+Tout le monde est inquiet là-haut.
+Oû est le général?
+
+265
+01:03:49,138 --> 01:03:51,368
+C'est quoi ces cinq heures?
+
+266
+01:03:51,498 --> 01:03:54,570
+Ca fait cinq heures qu'on a perdu
+le contact avec cette base.
+
+267
+01:03:54,698 --> 01:03:57,087
+On croyait à une invasion extraterrestre.
+
+268
+01:03:59,178 --> 01:04:00,850
+Et c'est toi qu'ils envoient?
+
+269
+01:04:12,898 --> 01:04:15,173
+C'est donc ça le Stargate?
+
+270
+01:04:17,418 --> 01:04:20,251
+- Quel est le problème?
+- On a traversé vers une planète
+
+271
+01:04:20,378 --> 01:04:22,653
+qui se fait aspirer par un trou noir.
+
+272
+01:04:24,818 --> 01:04:26,774
+Très mauvais. Très dangereux.
+
+273
+01:04:26,898 --> 01:04:28,854
+Et pourquoi ça?
+
+274
+01:04:30,338 --> 01:04:32,294
+Parce que ça aspire tout.
+
+275
+01:04:35,698 --> 01:04:40,533
+- J'ai pris la liberté de fermer l'iris.
+- Capitaine Carter, colonel Cromwell.
+
+276
+01:04:41,418 --> 01:04:43,295
+ll est venu nous sauver.
+
+277
+01:04:44,498 --> 01:04:46,056
+Vaut mieux pas compter dessus.
+
+278
+01:04:46,178 --> 01:04:49,773
+Le Pentagone a perdu le contact
+et a cru à une invasion extraterrestre.
+
+279
+01:04:49,898 --> 01:04:52,696
+- ll y a longtemps?
+- ll y a plus de cinq heures. Pourquoi?
+
+280
+01:04:53,778 --> 01:04:56,531
+Ma montre indique 1 3h30.
+Et la vôtre?
+
+281
+01:04:56,658 --> 01:04:59,491
+Elle retarde, capitaine. ll est presque 19h.
+
+282
+01:04:59,618 --> 01:05:01,688
+Bon Dieu! ll faut que je quitte cet étage.
+
+283
+01:05:02,378 --> 01:05:04,892
+Capitaine Carter?
+
+284
+01:05:05,618 --> 01:05:07,176
+J'écoute, lieutenant?
+
+285
+01:05:08,138 --> 01:05:10,333
+Le champ s'élargit.
+
+286
+01:05:12,298 --> 01:05:15,813
+Je relève plus de sept G
+près de l'iris.
+
+287
+01:05:15,938 --> 01:05:17,451
+Gardez vos distances.
+
+288
+01:05:17,898 --> 01:05:19,251
+Commandant...
+
+289
+01:05:19,378 --> 01:05:24,008
+La brêche dans notre espace-temps
+semble précéder le champ gravitationnel
+
+290
+01:05:24,138 --> 01:05:26,094
+et non en être le résultat.
+
+291
+01:05:26,218 --> 01:05:29,574
+C'est probablement un effet de lentille
+engendré par le Stargate.
+
+292
+01:05:32,258 --> 01:05:36,456
+- Ne prétends pas que tu as compris.
+- Ce que j'essaye de dire,
+
+293
+01:05:36,578 --> 01:05:39,456
+c'est que le temps passe
+plus lentement ici que dehors.
+
+294
+01:05:39,578 --> 01:05:42,536
+- Le temps c'est le temps.
+- Non, pas selon la relativité.
+
+295
+01:05:42,658 --> 01:05:46,333
+Avec le champ gravitationnel
+d'un trou noir, le temps ralentit.
+
+296
+01:05:46,458 --> 01:05:50,007
+- Nous ne sommes pas dans un trou noir.
+- Pas encore.
+
+297
+01:05:50,138 --> 01:05:54,097
+Mais nous sommes connectés à son
+champ gravitationnel par le Stargate.
+
+298
+01:05:54,218 --> 01:05:56,174
+ll s'élargit dans notre direction
+
+299
+01:05:56,298 --> 01:06:00,337
+comme une bulle qui gonfle lentement.
+C'est pourquoi je dois partir.
+
+300
+01:06:00,458 --> 01:06:05,407
+Je dois contacter le Pentagone avant que
+le champ de gravité sorte de cette salle.
+
+301
+01:06:05,538 --> 01:06:09,816
+J'en reviens tout juste, capitaine.
+Colonel Cromwell, je présume.
+
+302
+01:06:09,938 --> 01:06:11,735
+Général Hammond.
+
+303
+01:06:11,858 --> 01:06:15,089
+- Vous revenez de Washington?
+- J'ai fait l'aller-retour.
+
+304
+01:06:15,218 --> 01:06:18,927
+Après que quelqu'un en-haut
+m'ait expliqué la situation
+
+305
+01:06:19,058 --> 01:06:23,927
+j'ai fait une session nocturne avec le
+président. Je suis parti il y a 18 heures.
+
+306
+01:06:25,338 --> 01:06:27,772
+Je croyais que vous étiez au téléphone.
+
+307
+01:06:27,898 --> 01:06:30,776
+La dilatation s'aggrave
+avec l'élargissement du champ.
+
+308
+01:06:30,898 --> 01:06:33,856
+C'est l'idée.
+On a installé un poste de commande
+
+309
+01:06:33,978 --> 01:06:37,175
+juste au-dessus de la montagne
+pour surveiller la dilatation.
+
+310
+01:06:37,298 --> 01:06:41,291
+- ll faut que j'y aille.
+- Les experts consultés pensent
+
+311
+01:06:41,418 --> 01:06:44,888
+que nous devons commencer
+l'autodestruction du Stargate.
+
+312
+01:06:45,018 --> 01:06:46,736
+Super.
+
+313
+01:06:46,858 --> 01:06:49,053
+lls m'ont assuré que le champ de gravité
+
+314
+01:06:49,178 --> 01:06:53,171
+autour du Stargate contiendra
+l'explosion à l'intérieur de la montagne
+
+315
+01:06:53,298 --> 01:06:56,131
+sans poser de danger pour la population.
+
+316
+01:06:56,258 --> 01:06:59,375
+- Sauf votre respect, je n'y crois pas.
+- Si nous n'essayons pas,
+
+317
+01:06:59,498 --> 01:07:02,649
+nous perdons la planète, à travers ça.
+
+318
+01:07:02,778 --> 01:07:07,568
+Nous détruirons la base, mais en laissant
+le Stargate et le couloir intacts.
+
+319
+01:07:07,698 --> 01:07:09,654
+Et que se passera-t-il alors?
+
+320
+01:07:09,778 --> 01:07:14,010
+Les ordres ont été donnés, capitaine.
+ll est de notre devoir de les exécuter.
+
+321
+01:07:14,138 --> 01:07:16,447
+- Mais, général...
+- La décision a été prise.
+
+322
+01:07:16,578 --> 01:07:20,127
+Nos hommes là-haut ont travaillé
+dessus bien plus longtemps que vous.
+
+323
+01:07:20,258 --> 01:07:22,931
+- C'est la solution qu'ils ont trouvée.
+- Oui général.
+
+324
+01:07:23,058 --> 01:07:26,573
+J'ordonne d'évacuer la SGC,
+sans plus attendre.
+
+325
+01:07:26,698 --> 01:07:32,056
+ll me faut deux volontaires qui resteront
+pour donner du temps au personnel.
+
+326
+01:07:32,178 --> 01:07:34,772
+- Je reste, général.
+- Moi aussi.
+
+327
+01:07:37,698 --> 01:07:39,654
+Personne d'autre?
+
+328
+01:07:41,938 --> 01:07:44,293
+Tu vas devoir te contenter de moi, Jack.
+
+329
+01:07:45,138 --> 01:07:48,528
+Parfait! ll faut deux officiers
+pour lancer le compte à rebours.
+
+330
+01:07:50,458 --> 01:07:52,733
+Attention! lci le général Hammond>.
+
+331
+01:07:53,738 --> 01:07:58,016
+J'ordonne à tout le personnel
+d'évacuer la base immédiatement.
+
+332
+01:07:58,138 --> 01:07:59,253
+Je répète!
+
+333
+01:07:59,378 --> 01:08:02,814
+Que le personnel se présente
+à l'étage principal immédiatement.
+
+334
+01:08:03,698 --> 01:08:05,654
+Terminé.
+
+335
+01:08:05,778 --> 01:08:07,734
+On y va. Quand je le dirai.
+
+336
+01:08:07,858 --> 01:08:09,974
+Trois, deux, un.
+
+337
+01:08:10,098 --> 01:08:12,054
+Doucement. Attention à sa poitrine.
+
+338
+01:08:12,978 --> 01:08:14,934
+Sortez-le. On y va.
+
+339
+01:08:18,218 --> 01:08:20,448
+Commencez le compte à rebours
+dans 5 minutes.
+
+340
+01:08:20,578 --> 01:08:22,057
+- Bonne chance.
+- Merci.
+
+341
+01:08:22,178 --> 01:08:25,693
+Donnez-vous assez de temps pour sortir.
+
+342
+01:08:25,818 --> 01:08:27,376
+Du temps...
+
+343
+01:08:27,498 --> 01:08:28,613
+D'accord.
+
+344
+01:08:47,858 --> 01:08:49,974
+Général, on commençait à s'inquiéter.
+
+345
+01:08:50,098 --> 01:08:52,487
+- Je suis parti longtemps?
+- 22 heures.
+
+346
+01:08:52,618 --> 01:08:55,690
+- Le général Cohen vous attend.
+- Merci, sergent.
+
+347
+01:08:55,818 --> 01:09:00,733
+- J'ai l'impression d'être parti 20 minutes.
+- En se basant sur vos déplacements
+
+348
+01:09:00,858 --> 01:09:06,057
+je dirais que le temps à l'intérieur de
+la base SGC a ralenti par 600%.
+
+349
+01:09:06,178 --> 01:09:11,047
+Vous avez dit à O'Neill d'attendre cinq
+minutes - l'équivalent de six heures.
+
+350
+01:09:11,178 --> 01:09:13,738
+Capitaine,
+la relativité me donne mal à la tête.
+
+351
+01:09:21,698 --> 01:09:24,770
+- Qui est-ce?
+- Henry Boyd.
+
+352
+01:09:26,058 --> 01:09:26,968
+Un bon officier.
+
+353
+01:09:27,098 --> 01:09:28,656
+lntelligent.
+
+354
+01:09:31,578 --> 01:09:34,046
+ll me rappelle un peu Carter.
+
+355
+01:09:36,338 --> 01:09:38,772
+C'était leur première mission en équipe.
+
+356
+01:09:38,898 --> 01:09:40,968
+ll a l'air terrifié.
+
+357
+01:09:41,098 --> 01:09:45,410
+ll est sur une planète qui est sur le
+point d'être aspirée par un trou noir.
+
+358
+01:09:45,738 --> 01:09:46,807
+Et il le sait.
+
+359
+01:09:58,658 --> 01:10:00,216
+Merci.
+
+360
+01:10:04,178 --> 01:10:06,533
+Non. Merci.
+
+361
+01:10:17,018 --> 01:10:19,407
+Un peu de repos aiderait peut-être.
+
+362
+01:10:19,538 --> 01:10:21,290
+Hé, Teal'c.
+
+363
+01:10:22,178 --> 01:10:24,738
+Qu'est-ce que tu sais
+sur la gravité quantique?
+
+364
+01:10:28,218 --> 01:10:30,049
+Rien.
+
+365
+01:10:30,178 --> 01:10:32,134
+Apparemment, moi non plus.
+
+366
+01:10:33,218 --> 01:10:36,893
+- Que représentent ces équations?
+- Probablement le travail d'une vie.
+
+367
+01:10:38,418 --> 01:10:41,137
+Je ne dispose pas de tout ce temps,
+malheureusement.
+
+368
+01:10:47,938 --> 01:10:49,894
+Comment puis-je être utile?
+
+369
+01:10:52,578 --> 01:10:57,572
+Nous vivons une dilatation temporelle,
+qui dépasse la salle du Stargate.
+
+370
+01:10:57,698 --> 01:11:00,087
+Et même l'essentiel de la SGC,
+et elle s'élargit.
+
+371
+01:11:00,218 --> 01:11:04,006
+Mais tout se passe en avance du champ
+gravitationnel qui en est la cause.
+
+372
+01:11:04,138 --> 01:11:08,495
+Si j'en crois tout ce que je sais sur
+la relativité, ce n'est pas possible.
+
+373
+01:11:08,618 --> 01:11:10,336
+- Pourtant c'est ainsi.
+- Exact.
+
+374
+01:11:10,458 --> 01:11:13,052
+Sinon, nous serions déjà
+tous en morceaux.
+
+375
+01:11:14,978 --> 01:11:19,256
+Leur plan est basé sur des hypothèses
+à propos de la gravité
+
+376
+01:11:19,378 --> 01:11:24,213
+et de l'espace-temps, qui contredisent
+toutes nos observations.
+
+377
+01:11:25,138 --> 01:11:26,491
+Je vois.
+
+378
+01:11:26,618 --> 01:11:29,928
+En d'autres mots,
+ils ne savent pas ce qu'il se passe,
+
+379
+01:11:30,058 --> 01:11:32,049
+alors ils vont tout faire sauter.
+
+380
+01:11:34,018 --> 01:11:36,657
+Et il n'y a rien que nous puissions faire.
+
+381
+01:11:45,938 --> 01:11:47,337
+Préparons-nous.
+
+382
+01:11:49,018 --> 01:11:54,138
+Tu dois entrer ton code pour que
+l'ordinateur accepte ton ordre. Vas-y.
+
+383
+01:12:06,538 --> 01:12:09,098
+Peut-être que maintenant
+tu sais ce que ça fait.
+
+384
+01:12:09,658 --> 01:12:10,773
+T'as fini?
+
+385
+01:12:12,658 --> 01:12:14,011
+Reçu.
+
+386
+01:12:14,138 --> 01:12:17,289
+A mon signal,
+tu appuies sur la touche d'entrée
+
+387
+01:12:19,538 --> 01:12:21,494
+et puis tu prends tes jambes à ton cou.
+
+388
+01:12:23,098 --> 01:12:25,054
+Compris.
+
+389
+01:12:30,178 --> 01:12:31,930
+Deux minutes.
+
+390
+01:12:44,338 --> 01:12:49,093
+Le champ de gravité est aux portes de
+la salle de contrôle. C'est pas bon.
+
+391
+01:12:49,218 --> 01:12:52,016
+Vous ne croyez toujours pas
+que le plan va marcher.
+
+392
+01:12:53,738 --> 01:12:57,936
+J'ai peur que le champ gravitationnel
+n'amortisse les effets de l'explosion.
+
+393
+01:12:58,058 --> 01:13:00,891
+Nous détruisons la SGC,
+et le couloir reste intact.
+
+394
+01:13:01,018 --> 01:13:04,852
+La montagne passe dans le trou noir.
+Dans six mois, ce sera le Colorado.
+
+395
+01:13:04,978 --> 01:13:06,331
+Six mois après ça...
+
+396
+01:13:09,258 --> 01:13:11,453
+Au moins Daniel survivra là-dehors.
+
+397
+01:13:11,578 --> 01:13:14,092
+Si vous avez tort,
+et j'espère que c'est le cas,
+
+398
+01:13:14,218 --> 01:13:17,813
+nous pourrons recommencer avec
+le second Stargate à Nellis. Puis...
+
+399
+01:13:17,938 --> 01:13:19,166
+Une minute.
+
+400
+01:13:19,298 --> 01:13:21,937
+Voilà, c'est ça.
+
+401
+01:13:22,058 --> 01:13:25,687
+On utilise la bombe, mais en concentrant
+l'énergie de l'explosion.
+
+402
+01:13:25,818 --> 01:13:28,651
+Quand O'Neill et moi avons traversé
+vers l'Antarctique,
+
+403
+01:13:28,778 --> 01:13:30,894
+nous nous faisions tirer dessus.
+
+404
+01:13:31,018 --> 01:13:32,815
+Ca a provoqué une surtension.
+
+405
+01:13:32,938 --> 01:13:38,137
+Oui, et cette surtension a fait sauter
+le couloir d'une destination à une autre.
+
+406
+01:13:38,258 --> 01:13:42,251
+Si nous canalisons assez d'énergie
+dans la direction de notre Stargate,
+
+407
+01:13:42,378 --> 01:13:46,735
+ça devrait nous couper du trou noir,
+et faire sauter le courant de matière
+
+408
+01:13:46,858 --> 01:13:50,487
+- à un autre Stargate.
+- En reliant le nôtre à un autre monde.
+
+409
+01:13:50,618 --> 01:13:52,813
+Et puis nous n'aurons plus qu'à l'éteindre.
+
+410
+01:13:52,938 --> 01:13:55,691
+Nous devons arrêter le Colonel O'Neill.
+
+411
+01:14:06,938 --> 01:14:08,496
+Une minute.
+
+412
+01:14:13,578 --> 01:14:15,534
+Peut-être la dernière.
+
+413
+01:14:26,178 --> 01:14:27,930
+Nous étions amis, Jack.
+
+414
+01:14:30,378 --> 01:14:31,447
+Ouais.
+
+415
+01:14:31,578 --> 01:14:35,253
+J'en ai été malade
+quand on m'a dit que tu étais vivant.
+
+416
+01:14:35,378 --> 01:14:37,175
+Je voulais revenir te chercher.
+
+417
+01:14:39,498 --> 01:14:42,490
+On fait ce qu'on a à faire
+et puis on décampe, d'accord?
+
+418
+01:14:42,618 --> 01:14:46,247
+Quelqu'un a mouchardé!
+Tu étais touché! Tu as piqué du nez!
+
+419
+01:14:46,378 --> 01:14:48,892
+J'ai pris ma décision
+dans l'intérêt de l'équipe!
+
+420
+01:14:49,018 --> 01:14:51,407
+Et moi je t'ai vu partir!
+
+421
+01:14:51,538 --> 01:14:55,497
+Puis j'ai passé quatre mois de ma vie
+dans une sale prison iraquienne!
+
+422
+01:14:55,618 --> 01:14:58,416
+- Je te croyais mort!
+- Tu avais tort!
+
+423
+01:15:01,178 --> 01:15:05,171
+Tu veux quoi?
+Que je te pardonne? C'est ça?
+
+424
+01:15:08,338 --> 01:15:09,896
+Ouais.
+
+425
+01:15:10,498 --> 01:15:12,454
+C'est ça.
+
+426
+01:15:12,578 --> 01:15:14,808
+Ne compte pas dessus.
+
+427
+01:15:14,938 --> 01:15:17,691
+Tu avais dit
+''On abandonne personne''!
+
+428
+01:15:17,818 --> 01:15:19,251
+Et lui alors?
+
+429
+01:15:20,938 --> 01:15:23,088
+La situation est totalement différente.
+
+430
+01:15:23,218 --> 01:15:26,449
+C'est exactement la même chose, Jack!
+
+431
+01:15:39,418 --> 01:15:42,376
+N'enclenchez pas l'autodestruction!
+Ca ne marchera pas.
+
+432
+01:15:42,498 --> 01:15:44,454
+J'ai une autre idée.
+
+433
+01:16:01,898 --> 01:16:06,130
+La combinaison spatiale vous aidera à
+résister à la gravité en descendant.
+
+434
+01:16:06,258 --> 01:16:08,818
+- C'est quoi comme bombe?
+- Une charge profilée.
+
+435
+01:16:08,938 --> 01:16:12,533
+Pour concentrer la force de l'explosion
+et faire sauter le couloir.
+
+436
+01:16:12,658 --> 01:16:14,614
+Comme pour l'Antarctique.
+
+437
+01:16:14,738 --> 01:16:16,091
+Je vois.
+
+438
+01:16:16,218 --> 01:16:19,096
+- Elle est oû?
+- lls trafiquent le rendement de l'ogive.
+
+439
+01:16:19,218 --> 01:16:22,255
+- lls la font importer de Travis.
+- Ca va prendre longtemps?
+
+440
+01:16:22,378 --> 01:16:25,211
+Eh bien, avec un peu de chance,
+encore cinq minutes.
+
+441
+01:16:26,258 --> 01:16:28,328
+- Relativ...
+- Relativement parlant.
+
+442
+01:16:28,458 --> 01:16:30,016
+..parlant.
+
+443
+01:16:33,258 --> 01:16:34,896
+Prêt quand vous l'êtes.
+
+444
+01:16:35,018 --> 01:16:39,136
+- L'iris ne va pas tenir longtemps.
+- ll faut attendre la bombe.
+
+445
+01:16:50,818 --> 01:16:54,697
+- Tu as fait vite.
+- Ca a pris, en réalité, plusieurs jours.
+
+446
+01:16:54,818 --> 01:16:56,774
+Ouais, je le savais.
+
+447
+01:16:56,898 --> 01:16:59,537
+Ceux qui n'ont rien à faire ici
+remontent à la surface.
+
+448
+01:17:09,538 --> 01:17:11,733
+Ne peut-on pas déclencher
+la bombe à distance?
+
+449
+01:17:11,858 --> 01:17:15,453
+Elle doit être à une certaine distance
+du Stargate et à un angle exact.
+
+450
+01:17:15,578 --> 01:17:19,127
+On peut pas mettre la minuterie
+à cause des variations de la dilatation.
+
+451
+01:17:19,258 --> 01:17:22,887
+- Elle est...
+- Dix fois plus futée que nous. Je sais.
+
+452
+01:18:09,378 --> 01:18:11,608
+Comme dans le bon vieux temps, Jack?
+
+453
+01:18:11,738 --> 01:18:13,091
+Et comment.
+
+454
+01:18:13,218 --> 01:18:15,174
+Trous noirs, couloirs espace-temps,
+
+455
+01:18:15,978 --> 01:18:17,536
+le bon vieux temps.
+
+456
+01:18:23,138 --> 01:18:24,935
+Général?
+
+457
+01:18:25,058 --> 01:18:27,094
+Merci, lieutenant.
+
+458
+01:18:27,218 --> 01:18:30,369
+Vous croyez qu'ils vont
+réussir à le fermer?
+
+459
+01:18:30,498 --> 01:18:32,648
+Nous le saurons d'ici demain.
+
+460
+01:18:58,898 --> 01:19:02,777
+Ah ouais.
+On est en train de tirer des G là.
+
+461
+01:19:02,898 --> 01:19:05,776
+J'ai l'impression d'avoir pris
+une centaine de kilos!
+
+462
+01:19:05,898 --> 01:19:07,934
+Tu es juste un peu enveloppé.
+
+463
+01:19:13,378 --> 01:19:15,733
+lls ont l'air de bouger très lentement.
+
+464
+01:19:15,858 --> 01:19:18,326
+Seulement de notre point de vue.
+
+465
+01:19:19,218 --> 01:19:20,412
+Capitaine...
+
+466
+01:19:26,778 --> 01:19:28,928
+Colonel, attention! Colonel!
+
+467
+01:19:29,978 --> 01:19:33,050
+Colonel, attention! Colonel!
+
+468
+01:19:33,178 --> 01:19:35,134
+Tu as entendu ça?
+
+469
+01:19:37,538 --> 01:19:38,607
+Attention!
+
+470
+01:19:46,498 --> 01:19:48,090
+Ca va?
+
+471
+01:19:48,218 --> 01:19:51,847
+On est assez prêts!
+Mets la minuterie! 20 secondes!
+
+472
+01:19:51,978 --> 01:19:54,446
+- Tu vas y rester.
+- 20 secondes!
+
+473
+01:20:11,658 --> 01:20:14,172
+- C'est fait!
+- Vas-y!
+
+474
+01:20:29,378 --> 01:20:32,575
+- Je te tiens!
+- Monte et arme cette bombe!
+
+475
+01:20:32,698 --> 01:20:34,893
+- Je te tiens! Monte!
+- Arme cette bombe!
+
+476
+01:20:35,018 --> 01:20:37,134
+Monte!
+
+477
+01:21:33,938 --> 01:21:35,291
+Teal'c, tire-le!
+
+478
+01:22:30,658 --> 01:22:32,614
+Hé, Jack, j'ai raté quelque chose?
+
+479
+01:22:34,818 --> 01:22:36,774
+Je suis vivant.
+
+480
+01:22:36,898 --> 01:22:39,651
+Nous le sommes tous,
+grâce à vous et au capitaine Carter.
+
+481
+01:22:42,298 --> 01:22:43,651
+Comment?
+
+482
+01:22:44,418 --> 01:22:48,206
+Teal'c a réussi à vous tirer assez loin
+de l'explosion de la bombe.
+
+483
+01:22:49,258 --> 01:22:50,737
+Merci.
+
+484
+01:22:51,858 --> 01:22:53,416
+Je t'en prie.
+
+485
+01:22:53,538 --> 01:22:56,006
+L'explosion est allée oû nous l'espérions.
+
+486
+01:22:56,138 --> 01:23:00,848
+Le couloir a sauté à P2A-870
+et, après ça, on l'a éteint.
+
+487
+01:23:00,978 --> 01:23:03,617
+Bien joué, capitaine.
+
+488
+01:23:03,738 --> 01:23:05,410
+Merci, commandant.
+
+489
+01:23:05,538 --> 01:23:09,133
+Nous sommes en train d'installer
+un nouvel iris en trinium renforcé.
+
+490
+01:23:09,258 --> 01:23:11,613
+Tout devrait vite retourner à la normale.
+
+491
+01:23:12,538 --> 01:23:14,494
+On est quel jour?
+
+492
+01:23:17,418 --> 01:23:22,617
+C'est dur à croire mais depuis que
+tu t'es présenté à ton poste hier
+
+493
+01:23:22,738 --> 01:23:25,172
+deux semaines se sont écoulées.
+
+494
+01:23:26,058 --> 01:23:28,014
+Deux semaines?
+
+495
+01:23:31,978 --> 01:23:33,934
+Je crois que je vais dormir.
+
+496
+01:23:35,658 --> 01:23:37,296
+Bonne idée.
+
+497
+01:23:41,018 --> 01:23:45,569
+Sous-titres Visiontext:
+Claude Becker Jones
+

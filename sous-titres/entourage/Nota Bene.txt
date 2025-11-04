@@ -1,0 +1,13 @@
+Pour un visionnage optimal des sous-titres, utilisez VobSub ( http://files.divx-digest.com/software/subtitle/VobSub_2.23.exe ).
+Police Arial, 20, gras. H : 50 V : 98 (cocher override placement).
+Ou vous vous retrouverez avec des codes/balises qui gêneront votre lecture car non supportés, comme c'est le cas pour DivXG400.
+
+Toutefois, si vous voulez vous débarrasser des "<i>texte</i>" et autres codes/balises de positionnement ("{\pos(192,207)}") et de couleur ("{\c&HFFFFFF&}") dans le cas où votre platine ne les supporterait pas, vous pouvez utiliser le RemoveTags crée par Lama qui est bien pratique.
+
+Pour cela, faites simplement un glisser-déposer de votre fichier de sous-titres sur l'icone du fichier RemoveTags.vbs ; normalement, un fichier de sauvegarde (avec l'extension .bak) sera créé, et le fichier avec le nom d'origine ne contiendra plus aucun code de formatage. A moins qu'il n'y ait un problème, le script n'émet aucun message.
+
+Bien sûr, cela ne marche que sous Windows (98 et supérieur), c'est strictement sans aucune garantie, et vous pouvez le redistribuer à votre guise en gardant le présent fichier.
+
+---
+
+Ce fichier a été synchronisé en premier lieu sur la HR. La resynch HD n'est donc pas aussi précise.

@@ -1,0 +1,642 @@
+{002305}{002370}Les Soprano
+{002418}{002487}Une armée à moi seul
+{002580}{002617}J'ai envie de pisser.
+{002621}{002723}L'homme de ménage part à 20 h,|attends 1 0 minutes.
+{002997}{003040}Moi aussi, j'ai envie.
+{003439}{003464}C'est bon.
+{003816}{003900}C'est le gars dont je t'ai parlé.|Il cherche une planque.
+{003904}{003940}Il te trouvera un Glock 9.
+{003955}{003991}Bienvenue au Holiday Inn !
+{004045}{004104}Moi, c'est Leena.|Et toi ?
+{004157}{004221}- Je peux pas le dire.|- M. X.
+{004328}{004446}Tu crains rien. Tes potes|viendront jamais te chercher ici.
+{004702}{004738}Comment ça s'ouvre ?
+{004902}{004971}Vous avez aimé votre chambre ?
+{004986}{005099}C'est Sammy Kahn,|un de mes musiciens préférés.
+{005137}{005209}Je vous apporte les 40 000 dollars|à la fin de la semaine.
+{005213}{005260}Faites un virement...
+{005419}{005498}Le vendredi,|c'est la soirée parisienne.
+{005507}{005576}Et on doit manger des escargots ?
+{005593}{005656}Coq au vin, blanquette de veau...
+{005706}{005749}Ça va pas ?
+{005753}{005900}Mon fils me permet de vivre|dans cet endroit ! Il est trop bon.
+{005911}{005977}C'est normal pour une reine.
+{005981}{006040}Sèche ces larmes.
+{006224}{006293}Ecoute ça. Un étudiant de 1 9 ans...
+{006297}{006382}prêt à rentrer en 2ème année|sans problème.
+{006386}{006434}Il est mort, à cause du crack.
+{006596}{006630}Je pensais à Ro.
+{006674}{006762}Elle croyait que Jackie|fumait des joints...
+{006766}{006820}et avait des C à la fac.
+{006824}{006872}Alors qu'il dealait|de la drogue dure.
+{006958}{007003}On connaît mal ses enfants.
+{007041}{007097}On s'attire des merdes|à dealer de la dope.
+{007105}{007182}Tu l'avais prévenu.
+{007254}{007385}Beau coup de filet, ce coffre-fort.|Il y a presque 1 00 000.
+{007389}{007475}Où est ma moitié ?|Ca va faire une semaine.
+{007488}{007518}Je réfléchis...
+{007524}{007609}- Après le partage, tu auras...|- T'es mon comptable ?
+{007613}{007683}Je sais mieux compter|que 90 °/° des comptables.
+{007691}{007764}T'es pas très au point|au niveau respect.
+{007768}{007821}- De quoi tu parles ?|- Ton futur beau-fils.
+{007828}{007892}Le poker.|Il t'a fait un sale coup.
+{007900}{007965}Il t'a désobéi|en tirant sur deux affranchis.
+{007969}{008049}Primo, vous parlez d'un truc|qui vous regarde pas.
+{008066}{008199}Secundo, je vais filer à ce connard|le frisson de sa vie.
+{008203}{008304}- Si on le retrouve.|- Il est dans une cité à Boonton.
+{008352}{008436}Tu les mérites, tes 50 plaques ?
+{008440}{008538}Si je les mérite ?|C'est mon territoire.
+{008653}{008678}C'est moi...
+{008770}{008801}Tony.
+{008859}{008888}Tony, ça va ?
+{008892}{008956}C'est Vito. Tu m'avais dit d'appeler.
+{008995}{009032}Rien de spécial.
+{009095}{009222}Je regarde un type laver son pare-brise.|Il a un chapeau vert...
+{009226}{009261}Si gros que ça ?
+{009290}{009357}Il y a des oiseaux dans le ciel.
+{009408}{009458}De l'herbe, en face.
+{009528}{009621}- J'y serai dans trente minutes.|- Je vois un lapin ou un écureuil.
+{009625}{009675}Je suis pas sûr...
+{009697}{009784}- Ou un opossum.|- A tout de suite.
+{009929}{010030}On verra ça la prochaine fois.|Tony m'attend.
+{010037}{010063}On en reparle.
+{010308}{010367}Tony ? C'est moi.
+{010440}{010530}- Tu devrais pas m'appeler.|- J'ai pas le choix.
+{010539}{010606}- Ne me dis rien.|- Aide-moi.
+{010610}{010704}- Demande à ton beau-père.|- Je peux pas.
+{010708}{010773}- Je suis dans...|- Je veux pas le savoir.
+{010777}{010863}Demande-lui de venir te chercher.
+{010867}{010941}Tony, je t'en prie.|Je regrette.
+{010945}{011005}Ne raccroche pas.|Fais ça pour mon père.
+{011009}{011051}Il est mort depuis 2 ans.
+{011055}{011140}Et puis t'as dépassé|la date d'expiration d'une semaine.
+{011144}{011208}Quand vous faisiez pareil,|on vous pardonnait.
+{011212}{011277}Réfléchis-y|et trouve la différence.
+{011288}{011314}Ne me rappelle plus.
+{011454}{011516}Tu sais jouer aux échecs ?
+{011579}{011652}Moi, oui. Mon papa m'a appris.
+{012149}{012223}L'économie est en baisse.|Mais pas pour toi.
+{012247}{012345}300 000 dollars de l'Esplanade|te seront livrés à domicile.
+{012395}{012421}Beau travail.
+{012506}{012538}Jackie Jr t'a appelé ?
+{012566}{012616}- Non. Pourquoi ?|- Il m'a appelé.
+{012689}{012750}- Désolé.|- T'excuse pas.
+{012772}{012828}Je lui ai dit de voir avec toi.
+{012832}{012918}Dis-moi ce que je dois faire.|Tu es le boss.
+{012930}{013007}On en a déjà parlé.|Tu voulais lui donner sa chance.
+{013011}{013038}Il faut qu'il sache.
+{013072}{013162}On ne veut pas créer|la confusion et l'insubordination.
+{013188}{013329}Et surtout, la décision finale|doit être conséquente.
+{013384}{013513}Pourquoi je te dis tout ça !|Tu le sais. T'es capo.
+{013556}{013636}La chaîne de commandement|est fondamentale.
+{013640}{013710}- Désolé qu'il t'ait appelé.|- Ne t'excuse pas.
+{014087}{014208}Vous n'avez jamais eu|une note moyenne en géométrie.
+{014212}{014265}Et là, à l'examen...
+{014269}{014330}Soeur Agnes m'a donné ceci.
+{014381}{014477}96 % de bonnes réponses.|Excellent.
+{014522}{014603}J'ai presque envie|d'appeler vos parents.
+{014636}{014667}C'est pas la peine.
+{014840}{014894}Qu'avez-vous à me dire ?
+{014946}{015026}Soyez coopératifs maintenant,|ce sera plus simple ensuite.
+{015086}{015122}On a beaucoup travaillé.
+{015187}{015242}Je ne vais pas perdre mon temps.
+{015257}{015346}Ce sont vos urines que M. Lubimov|a nettoyées pendant 2 heures.
+{015351}{015399}On a fait un test ADN.
+{015433}{015528}Il a pissé en premier,|et ça m'a donné envie.
+{015562}{015606}Je refais un examen devant vous.
+{015678}{015760}- Il est revenu !|- Junior n'a plus le cancer ?
+{015764}{015834}- Apparemment.|- Et il nous fait la nique.
+{015885}{015980}- On peut le repincer ?|- Il a un nouveau procès dans un mois.
+{015995}{016026}Très bien.
+{016040}{016070}Tony ?
+{016074}{016118}On a eu le problème de la lampe...
+{016127}{016173}On peut l'avoir par le neveu.
+{016190}{016250}Refaisons comme|avec Banners et sa femme.
+{016254}{016362}Moltisanti est fiancé|à la ravissante Adriana La Cerva.
+{016422}{016459}Demandez à Deborah de venir.
+{016500}{016586}J'aimerais signaler|qu'elle n'a fait que des recherches.
+{016590}{016631}Tu as commencé comment ?
+{016818}{016890}Ca vous dirait une nouvelle amie|pour les 1 0 mois à venir ?
+{017011}{017075}Vous pouvez vous coiffer vulgaire ?
+{017268}{017360}Ton pion ne peut se déplacer|que de deux cases, au 1er coup.
+{017381}{017425}Désolé.
+{017429}{017460}Voilà.
+{017522}{017585}- T'es foutu.|- On commence.
+{017589}{017633}Vu ses cavaliers...
+{017771}{017805}J'ai encore gagné.
+{017840}{017890}T'aurais dû faire gaffe.
+{017896}{017960}C'est comme ça que t'apprendras.
+{017964}{018066}Je descends au parc voir Bruce.|Vous voulez quelque chose ?
+{018070}{018111}Non, c'est bon.
+{018138}{018168}Pourquoi tu ris ?
+{019019}{019067}Comment ça, 3 200 dollars !
+{019090}{019161}La transmission|est complètement fichue.
+{019165}{019239}C'est nouveau, ça !|Je verrai mon garagiste.
+{019243}{019348}- Je lui ai dit de la réparer.|- Rappelle-le. Il arrête tout...
+{019352}{019418}et on va chercher la bagnole.
+{019554}{019607}Laisse tomber. Laisse-le faire.
+{019614}{019674}- T'es sûr ?|- Je viens de le dire !
+{019699}{019737}Look, Ro.
+{019760}{019818}Je rentrerai tard,|j'ai des trucs à faire.
+{020083}{020133}Le Super Bowl revient à Tampa...
+{020141}{020220}Combien ? Dix ? Ca marche.
+{020487}{020549}On a un max de paris.
+{020568}{020635}Je vais les faire enregistrer.
+{021062}{021140}En venant ici,|je rêvais de mon plat chinois.
+{021144}{021183}Qui me l'a bouffé ?
+{021422}{021547}Sans vouloir t'embêter,|je te trouve irrité, ces jours-ci.
+{021603}{021691}- Connard de Ralphie !|- Justement.
+{021698}{021814}Il m'a pas donné mes 50 plaques|du casse de Morristown.
+{021837}{021862}De quoi tu parles ?
+{021894}{021954}C'est moi qui ai mis|les gars de Ralphie sur le coup.
+{021962}{022004}Je leur ai donné la combinaison.
+{022010}{022054}Ralphie dit que c'est tout pour lui.
+{022101}{022133}Je lui en parlerai.
+{022149}{022210}Ca fait des mois|que je te dis que c'est un pourri.
+{022215}{022307}J'ai besoin de ce fric.|Je veux une table ronde.
+{022311}{022375}D'accord. Le téléphone !
+{022562}{022593}Carmela.
+{022606}{022633}Elle pleure.
+{023035}{023139}Renvoi définitif.|Ce que je redoutais le plus.
+{023143}{023199}Même moi, j'ai jamais été renvoyé.
+{023261}{023333}- C'est peut-être une chance.|- Comment ça ?
+{023337}{023420}- L'école était trop souple.|- Ils m'ont renvoyé !
+{023424}{023502}Parle si je te le demande.|Si je te demande ton avis.
+{023579}{023671}Je travaille dur toute la journée pour|payer cette grande baraque...
+{023675}{023747}des télés géantes, un frigo rempli,|des jeux vidéo...
+{023751}{023838}des trottinettes et des vélos,|Columbia...
+{023842}{023902}Tout ça pour quoi ?
+{023914}{023951}Ca craint d'être toi.
+{024107}{024183}Et c'est pas fini.|On va instaurer un nouveau régime.
+{024187}{024254}La conseillère dit|que c'est un appel à l'aide.
+{024258}{024283}Arrête !
+{024287}{024368}Elle recommande une école,|pour les enfants perturbés...
+{024372}{024401}avec un psy sur place.
+{024410}{024481}Fini les écoles qui le dorlotent.|Il ira à l'école militaire.
+{024485}{024510}Quoi ?
+{024514}{024580}- J'ai des brochures.|- C'est pas vrai !
+{024584}{024656}Janice voulait y envoyer Harpo,|mais elle avait pas de fric...
+{024660}{024687}et c'était trop tard.
+{024691}{024714}Il restera là !
+{024741}{024784}On regardera les brochures !
+{024823}{024859}Qu'est-ce que t'as ?
+{024934}{025021}Ça, ça me plaît : "Environnement|extrêmement structuré".
+{025025}{025070}C'est laquelle ?
+{025110}{025255}H.M.I. : Hudson Military Institute.|"Notre deuxième siècle d'excellence. "
+{025259}{025327}- Je suis pas d'accord.|- On regarde simplement.
+{025331}{025396}On regarde, et après, tu y vas.
+{025654}{025684}Marie.
+{025932}{026004}- Où est Rosalie ?|- Elle est là.
+{026012}{026106}- Elle peut pas parler.|- Dis-lui que j'arrive.
+{026191}{026212}Qu'est-ce qui se passe ?
+{026217}{026287}Jackie Jr a été abattu.|Dans la cité de Boonton.
+{026307}{026340}Par des dealers.
+{026378}{026410}Je vais chez Rosalie.
+{026687}{026714}Tu vois ?
+{027015}{027041}Taco Bell ?
+{027091}{027130}J'ai un truc à te dire.
+{027136}{027191}- Je suis au courant.|- Comment ?
+{027196}{027256}Maman m'a dit|que tu t'es fait virer.
+{027278}{027306}C'est pas ça.
+{027327}{027420}- T'as triché et tu t'es fait pincer ?|- Ils ont mon ADN.
+{027424}{027498}Patate ! Il faut 6 semaines|pour des résultats d'ADN.
+{027502}{027529}Merde.
+{027550}{027612}- Je te laisse.|- Non, je te l'ai pas dit.
+{027633}{027658}Jackie...
+{027662}{027747}dealait avec des Blacks|et ils l'ont descendu.
+{027768}{027794}Il est mort.
+{028059}{028123}22 ans, habitant dans une cité...
+{028146}{028206}C'est la honte pour sa famille.
+{028334}{028433}Dieu merci,|ils ne sortaient plus ensemble.
+{028439}{028511}- Comment réagit votre fille ?|- Pas très bien.
+{028535}{028600}Vous l'aviez vu venir.
+{028688}{028732}A la fin, je l'ai laissé tomber.
+{028782}{028855}Mais qu'est-ce qu'on peut faire ?|Le monde d'aujourd'hui...
+{028923}{029011}En tout cas, je ferai pas|la même erreur avec A.J.
+{029020}{029110}Il s'est fait virer. On l'envoie|dans une école militaire.
+{029135}{029212}On n'a jamais parlé de ce que|vous souhaitiez pour vos enfants.
+{029222}{029284}J'ai pas envie|de les retrouver morts à Boonton.
+{029288}{029349}Vous avez suivi|les pas de votre père.
+{029354}{029398}J'avais pas le choix.
+{029415}{029479}Je veux que mes enfants|ne passent à côté de rien.
+{029483}{029524}Meadow va à Columbia.
+{029567}{029632}Elle devrait finir|avec une belle profession...
+{029679}{029735}- comme vous.|- Psychiatre ?
+{029741}{029790}Pour écouter des mecs|pleurnicher ?
+{029874}{029939}Elle avait parlé d'être pédiatre.
+{029947}{030016}- Ça vous plairait ?|- Oui, j'aimerais bien.
+{030039}{030095}L'important,|c'est que ce soit loin de moi.
+{030195}{030253}En habitant pas loin.
+{030259}{030295}Je comprends.
+{030321}{030374}- Et votre fils ?|- A.J. ?
+{030437}{030492}Dans ma branche ? Pas la peine.
+{030531}{030566}Il survivrait pas.
+{030684}{030787}On emmène A.J. à l'Hudson Institute|pour rencontrer le directeur.
+{030791}{030851}J'aimerais mieux que tu te lèves.
+{030858}{030957}Jackie est mort et vous continuez|à visiter des écoles ?
+{031038}{031076}J'ai passé la nuit avec Ro.
+{031125}{031241}Ce matin, j'ai arrangé|les funérailles avec sa soeur.
+{031246}{031296}Ton frère n'a pas d'école.
+{031300}{031419}On peut pas le laisser discuter en ligne|avec des cancres et autres marginaux.
+{031526}{031676}C'est la première personne|de mon âge qui meurt.
+{031775}{031827}Il savait les risques qu'il prenait.
+{031857}{031882}Avec l'ecstasy ?
+{031918}{032014}Presque tous les ados en prennent.|Ils l'achètent quelque part...
+{032018}{032106}- on se fait pas tuer pour ça.|- Lui, oui.
+{032113}{032159}- Peut-être pas.|- Comment ça ?
+{032192}{032254}Regarde avec qui il a grandi.
+{032258}{032340}Qui était son père...|Et notre entourage !
+{032344}{032375}Ne sois pas sarcastique.
+{032379}{032447}Quand je le serai,|je te le ferai savoir.
+{032621}{032711}Tu l'aimais,|tu refuses de voir la vérité.
+{032717}{032788}Comme beaucoup de gens,|tu rejettes la faute sur des pantins.
+{032793}{032841}Des pantins avec des noms italiens.
+{032846}{032962}Arrête de penser ce que tu penses, parce|que ce n'est pas ce qui s'est passé.
+{033229}{033286}Voler un examen,|c'est une défaite personnelle.
+{033294}{033323}C'était pas bien.
+{033329}{033359}Et préprogrammé.
+{033389}{033461}Tu t'imaginais tricheur, enfant ?
+{033514}{033552}Comment l'expliques-tu ?
+{033589}{033675}C'est tout ce stress scolaire|pour entrer à la fac.
+{033682}{033734}Dans mon lycée,|ils sont du genre obsédés.
+{033744}{033827}Avec le stress|"du genre" scolaire ?
+{033842}{033913}Mes parents aussi|sont stressés par ça.
+{033919}{034012}Ma soeur va à Columbia|et mes parents veulent m'y envoyer.
+{034016}{034102}Ici, on appelle ça "la pensée|mal pensée", comme un alcoolique.
+{034106}{034195}- Personne ne le pousse à boire.|- Je suis pas alcoolique.
+{034201}{034276}En quoi fait-on autrement ici|que dans ton école ?
+{034304}{034361}- Je sais pas.|- Je sais que tu ne sais pas.
+{034365}{034403}Je vais te le dire.
+{034407}{034498}Dans ton école,|qui n'est pas une mauvaise école...
+{034502}{034611}on se penche trop sur ce qui est|bon pour toi, pour chacun.
+{034615}{034667}Ici, l'essentiel,|c'est le corps d'armée.
+{034671}{034732}Le général McArthur a dit|dans son discours d'adieu :
+{034739}{034808}"Le corps, le corps, le corps. "
+{034839}{034942}Comment arriver à ce changement|révolutionnaire de ta pensée ?
+{034974}{035050}Pour les cadets,|formation à 05:30, chaque jour...
+{035054}{035123}marche en formation|jusqu'au mess à 06:20...
+{035127}{035222}inspection des dortoirs à 07:00,|cours de 08:00 à 1 4:40.
+{035226}{035272}Athlétisme à 1 5:00 sauf le jeudi...
+{035287}{035349}jour de manoeuvres|ou de travail avec le commandant.
+{035353}{035421}De 1 9:00 jusqu'à 21 :00,|c'est l'heure des devoirs.
+{035434}{035478}Extinction des feux à 22:00.
+{035482}{035554}Qu'ai-je oublié ? Qu'on abandonne ?|La télévision.
+{035648}{035713}- Ça veut dire quoi, "05:30" ?|- 5 h 30 du matin.
+{035767}{035843}Je t'ai exposé un plan|de l'autodiscipline...
+{035847}{035926}qui gérera toute ta vie,|et tu n'as que cette question ?
+{036012}{036132}Pourquoi les types dans l'Armée ou les|espions disent "0 truc" ...
+{036136}{036161}pour dire l'heure ?
+{036182}{036225}Tu le comprendras vite.
+{036245}{036325}Notre devise :|"Aller au plus simple».
+{036415}{036453}Capitaine Delaunay ?
+{036464}{036558}Faites visiter les lieux à M. Soprano|pendant que je reçois ses parents.
+{036562}{036592}Oui, mon commandant.
+{037038}{037107}Anthony tirera profit|de notre programme...
+{037111}{037200}qui, comme je le lui ai dit,|est très rigoureux.
+{037235}{037262}Je peux ?
+{037320}{037459}Je serai franche avec vous, je ne suis|pas pour la discipline de fer.
+{037463}{037521}Comme toutes les mères.
+{037583}{037665}Bientôt, il vous ouvrira les portes|et poussera votre chaise...
+{037669}{037734}Ce serait un miracle.|On n'en espère pas autant.
+{037741}{037810}Et la créativité ?|La pensée individuelle ?
+{037814}{037903}J'ai insisté auprès d'Anthony|sur le devoir et la pensée collective.
+{037907}{038017}Sans lui citer notre devise :|"Sois une armée à toi tout seul».
+{038032}{038111}Pourquoi une armée ?|Il pourrait être vétérinaire.
+{038115}{038158}La guerre, ça suffit.
+{038162}{038283}- Tous ces amputés, ces atrocités...|- Il va juste marcher !
+{038288}{038371}La marche n'est pas si importante.|Ça fait partie du programme...
+{038375}{038459}mais ça compte moins|que les classes à petit effectif...
+{038463}{038531}et la réelle implication|à la vie en dortoir.
+{038543}{038580}Ça paraît fantastique.
+{038584}{038683}Nos enfants ont trop de libertés.|C'est normal qu'ils soient perdus.
+{038687}{038816}Dès qu'ils dérapent, on les fourgue|dans l'industrie prospère.
+{038880}{038996}Cette armée à soi...Que se passe-t-il|si chacune de ces armées décide...
+{039000}{039044}de se rebeller...
+{039069}{039165}et de faire exploser la tête du|lieutenant ? Parce qu'on leur a dit :
+{039169}{039221}"Tu es une armée à toi seul».
+{039246}{039301}Murphy était une armée à lui seul.
+{039305}{039373}On veut le préparer|à une carrière de militaire ?
+{039432}{039466}Chaque chose en son temps.
+{039470}{039531}Tu veux en faire|un tueur professionnel ?
+{039536}{039587}Mais arrête ! C'est des soldats.
+{039591}{039646}L'armée américaine|ne va plus en guerre.
+{039650}{039701}Ils marchaient avec des carabines.
+{039705}{039760}C'est symbolique.|Les canons sont bouchés.
+{039764}{039794}Symbolique de quoi ?
+{039798}{039824}Du respect !
+{039854}{039963}Il devra obéir à des jeunes|à peine plus âgés que lui.
+{039969}{040049}Les gamins de son âge|tuent des grenouilles.
+{040054}{040161}Le pétard de Cusomano ? Ce truc|plein de clous, c'était pas Anthony.
+{040165}{040223}C'est ce que|j'essaie de t'expliquer.
+{040227}{040297}C'est encore un gamin, normal.
+{040301}{040389}Il a fait des erreurs et il a encore|beaucoup à apprendre.
+{040398}{040486}C'est pas une raison|pour l'envoyer dans une école...
+{040490}{040567}où il devra obéir à des ordres|dans une ambiance de peur.
+{040578}{040626}Il se croit invincible !
+{040630}{040714}Qu'est-ce qui a pu|lui donner cette drôle d'idée ?
+{040754}{040794}T'as tout géré pendant 1 5 ans.
+{040798}{040862}La méthode Brazelton,|en écoutant ses sentiments.
+{040881}{040977}L'école a fait pareil. Bizarrement,|il pense que le monde est à ses pieds.
+{040981}{041025}Il va apprendre à être un homme.
+{041029}{041092}Je ne l'enverrai pas|dans cette école !
+{041140}{041165}Laisse !
+{041170}{041200}C'est moi qui pars.
+{041806}{041847}A propos de la table ronde...
+{041863}{041937}On enterre le fils|de mon meilleur ami.
+{041998}{042041}Je ne me sens pas prête.
+{042087}{042138}Il faut y aller.
+{042147}{042176}Viens avec moi.
+{042627}{042662}Toutes mes condoléances.
+{042871}{042910}Je regrette pour ton frère.
+{042993}{043051}Ma cousine, Mackenzie Trucillo.
+{043267}{043294}Asseyez-vous.
+{043957}{043985}T'as vu ça ?
+{044016}{044112}Deux jours avant le Super Bowl...|Personne ne s'est déplacé.
+{044122}{044151}C'est pas vrai, maman.
+{044155}{044245}Je devrais me souvenir|du temps de Jack.
+{044267}{044338}Que se passe-t-il ?|Vegas avance ?
+{044868}{044900}Je peux te parler ?
+{044931}{045042}M. Cozzarelli ?|J'ai fait ce disque avec mon ami.
+{045050}{045155}De la musique dévotionnelle.|Du chrétien contemporain.
+{045159}{045265}J'aurais aimé le passer pour maman.|Tommy Mottola de Sony...
+{045269}{045336}va nous signer un gros contrat.
+{045562}{045641}Pour Jackie...Et Ralph...
+{045665}{045758}Tu t'es débrouillé|pour qu'on ne s'en occupe pas.
+{045831}{045903}Je suis venu par respect pour toi.
+{045914}{046006}Je regrette de m'être emporté,|l'autre jour.
+{046029}{046073}Je te remercie de me protéger.
+{046127}{046161}Tu étais proche de Jackie.
+{046168}{046197}Tu peux pas savoir.
+{046290}{046357}Quand j'ai dit que je t'aimais pas...
+{046390}{046423}C'était pas vrai.
+{047248}{047293}On va essayer ta manière.
+{047435}{047501}Je suis le premier ?|L'enfoiré !
+{047512}{047574}Assieds-toi, bois un café,|il va arriver.
+{047729}{047809}J'ai trouvé|la solution pour ma mère.
+{047813}{047909}- Les frères Jobone ?|- Sûrement pas. On y est allés.
+{047915}{047978}L'horreur ! J'ai failli gerber.
+{047992}{048037}Elle ira à Green Grove.
+{048051}{048125}- Comme tu l'as conseillé.|- J'ai rien conseillé.
+{048133}{048196}T'y as envoyé ta mère.
+{048200}{048263}Au fait,|elle a eu droit au cadeau ?
+{048284}{048315}J'en sais rien.
+{048328}{048388}C'est l'hospice le plus cher de l'Etat.
+{048401}{048439}C'est une maison de retraite.
+{048443}{048512}Ils sont attentionnés.|Maman en pleurait.
+{048516}{048569}- 8 000 par mois ?|- Et après ?
+{048574}{048657}Tu crois que je suis radin ?
+{048661}{048709}Je critiquais pas.
+{048714}{048774}Ce sera dur, mais j'y arriverai.
+{048779}{048887}Ça vaut vraiment le coup.|Je suis un héros.
+{049037}{049101}- T'es en retard.|- Demain, je serai à l'heure...
+{049105}{049148}et tu seras toujours aussi con.
+{049155}{049184}Assis !
+{049217}{049269}Assieds-toi et ferme-la !
+{049359}{049384}Un café ?
+{049439}{049487}J'ai passé la nuit|chez ma maîtresse.
+{049491}{049605}Ro a trop de chagrin.|J'arrive pas à dormir, elle arrête pas.
+{049635}{049671}Qui parle d'abord ?
+{049675}{049746}Y a rien à discuter.|Il me doit 50 plaques.
+{049750}{049866}T'es pas bien ou quoi ! 50 plaques ?|5, maximum. Comme prime d'intermédiaire.
+{049870}{049914}C'était du tout cuit, pour toi.
+{049918}{050010}T'as passé ta journée|à baiser les cons du syndicat.
+{050016}{050129}3 millions par an|pour la construction, pour la Famille.
+{050154}{050207}5, c'était pour ton intervention.
+{050221}{050254}On se calme.
+{050258}{050362}5, ça va pas. On est tous d'accord.|Ses gars ont fait le plus dur.
+{050366}{050458}Paulie Junior était prêt.|La bagnole n'est pas venue.
+{050462}{050561}Ils l'ont laissé devant chez lui,|par moins 5.
+{050735}{050789}Donne-lui 1 2 000.
+{050843}{050868}J'y crois pas !
+{050894}{050919}L'an dernier...
+{050923}{051014}- t'as bien cru qu'un ovni était passé.|- Qu'est-ce que j'ai dit ?
+{051018}{051077}Reconsidère la question.
+{051090}{051168}Tu as voulu une table ronde.|Il t'a écouté.
+{051172}{051254}Je devrais laisser 38 000 dollars ?
+{051288}{051339}J'ai dû me garer super loin.
+{051747}{051836}Où puis-je trouver|des fringues plus chic ?
+{051845}{051934}- Pas de soirée, mais presque.|- Je vais voir.
+{051983}{052037}J'ai vu une super robe noire.
+{052072}{052159}J'en ai déjà plein.|C'est pour un enterrement.
+{052164}{052275}- Oh, désolée.|- Un gamin de 22 ans.
+{052281}{052321}Accident de voiture ?
+{052325}{052397}Meurtre.|Un cousin.
+{052406}{052505}Au dernier enterrement, mon mec|m'a engueulée sur mes fringues.
+{052509}{052558}C'était la veillée de la mère|de son boss.
+{052563}{052635}Comme si Tony allait remarquer|ce genre de détail.
+{052639}{052697}Il critique toujours tout.
+{052807}{052893}Moi aussi. J'adore les chaussures|Blahnik, mais quelle torture !
+{052936}{052983}J'avais envie|d'aller boire un café.
+{052989}{053035}- Moi aussi.|- On y va ensemble ?
+{053090}{053177}- Les Blahnik sont fines.|- Vrai.
+{053183}{053250}- Mais les Jimmy Choo !|- Pire.
+{053257}{053343}- Au fait, je suis Danielle.|- Adriana. Vous habitez à Nutley ?
+{053353}{053450}Si vous aussi souffrez|de problèmes d'érection...
+{053454}{053514}vous savez que ce n’est pas drôle.
+{053518}{053556}Je le connais, lui.
+{053560}{053654}Mais vous ignorez peut-être|que le traitement est remboursé.
+{053664}{053750}Je suis le docteur Ira Freid.
+{053754}{053813}Le Viagra,|une opération du pénis...
+{053820}{053876}Se faire opérer pour ça !
+{053914}{053982}Je peux vous aider à augmenter|la longueur, la grosseur...
+{053986}{054055}la vitalité de ce qui devrait être.
+{054060}{054170}Mes associés et moi avons des cabinets|dans différents endroits.
+{054178}{054234}Notre discrétion est assurée.
+{054262}{054288}Sergent Bilko !
+{054321}{054419}Excuse-moi.|On va pas déprimer pour ça.
+{054423}{054534}Tu es habillé chic.|Tu es très beau comme ça
+{054538}{054593}- C'est vrai.|- C'est ça
+{054601}{054712}Sérieux. Cintré comme ça,|ça met ta carrure en valeur.
+{054716}{054741}Mets le képi.
+{054778}{054844}Il était trop mignon|au magasin.
+{054859}{054897}Pas le képi.
+{054901}{054943}Mets-le pour ta mère.
+{054955}{054994}Tu peux répéter ?
+{055104}{055143}Regarde-moi ça !
+{055162}{055215}Tu es impressionnant.
+{055263}{055300}Si j'étais pas déjà mariée...
+{055424}{055491}J'ai l'air d'un vrai débile.
+{055500}{055525}Pas du tout.
+{055604}{055652}Tu pleures ?
+{055667}{055720}- Je veux pas y aller.|- Durcis-toi !
+{055866}{055935}- Tiens-toi droit.|- Je me tiens droit !
+{055939}{055972}Attention !
+{056281}{056327}Tu tiens le képi comme ça.
+{056388}{056416}T'es classe.
+{056776}{056804}Vite, de l'eau !
+{056813}{056854}Mon fils...
+{056904}{056949}a des attaques de panique.
+{057000}{057084}On ne peut pas l'envoyer|dans une école militaire.
+{057093}{057140}Le pédiatre l'a dit.
+{057214}{057284}Il a hérité de cette saloperie|de gène Soprano.
+{057288}{057384}C'est un petit hic|dans sa réponse lutte/fuite.
+{057451}{057537}Ça ne le catégorise pas|pour autant.
+{057606}{057665}Ca traverse les siècles.
+{057669}{057751}On m'a raconté que mon arrière|arrière-grand-père descendait...
+{057755}{057793}une côte sur une charrette...
+{057797}{057870}il transportait des précieuses|bouteilles d'huile d'olive...
+{057877}{057939}Une attaque de panique !
+{057977}{058069}En accusant vos gènes,|vous vous accusez vous-même.
+{058073}{058124}Et il faudrait en parler.
+{058165}{058214}Connerie d'école Verbum Dei !
+{058254}{058335}Ça lui est déjà arrivé|et ils nous ont rien dit.
+{058344}{058448}L'infirmière a dit que c'était|la déshydratation après le foot.
+{058452}{058518}Ils ont même pas|informé les parents !
+{058556}{058605}Je suis pas du genre litigieux...
+{058621}{058723}je règle les choses directement,|mais là, c'est le procès.
+{058756}{058809}C'est votre droit.
+{059400}{059475}- Vous ne comprenez pas.|- Faites-moi comprendre.
+{059529}{059574}On peut pas l'envoyer là-bas.
+{059607}{059663}Comment on va le sauver ?
+{060303}{060342}Je t'emmerde !
+{060346}{060427}- On y va.|- Silvio Manfred Dante ?
+{060431}{060512}- A un enterrement !|- Inspecteur Francis, Essex County.
+{060516}{060634}Je vous arrête pour violation du|chapitre 37, section 2 du code pénal...
+{060638}{060663}pour paris illégaux.
+{060667}{060760}A chaque Super Bowl,|le procureur s'attire la une du journal.
+{060764}{060869}Allez-y. L'an dernier, je suis sorti si|vite que ma soupe était encore chaude.
+{060878}{060916}Allez, on avance.
+{061591}{061669}- Tu m'avais dit 11h !|- Excuse-moi.
+{061673}{061728}C'est tout ce que tu sais dire.
+{061732}{061764}Regarde.
+{061915}{061953}Ne me laisse pas.
+{062083}{062212}"Dans l'espoir de la résurrection|de notre Seigneur Jésus-Christ...
+{062221}{062296}nous confions à notre Seigneur,|notre frère...
+{062300}{062386}Giacomo Michael Aprile Junior.
+{062402}{062457}Nous confions son corps|à la terre. "
+{062615}{062723}Pourquoi Jackie ?|Pourquoi mon enfant ?
+{062742}{062821}"Poussière, tu retournes à la poussière.
+{062825}{062875}Que le Seigneur le protège.
+{062879}{062982}Que le Seigneur veille sur lui.
+{062990}{063098}Que le Seigneur l'accueille|et le laisse reposer en paix. "
+{063240}{063304}Un de nous doit aller chez Artie.
+{063308}{063374}Arrête de réfléchir.|On va te mettre au lit.
+{063378}{063506}Il a ouvert le restaurant pour nous.|Les gens se sont déplacés.
+{064079}{064137}Il dealait quand vous étiez ensemble ?
+{064164}{064224}- Ferme ta gueule !|- Je posais une question.
+{064282}{064411}Le rêve de mon frère était|de marcher dans les pas de papa.
+{064416}{064537}Tu veux un dessin ?|Il s'est fait tuer par un immigré.
+{064541}{064575}Ils se ressemblent tous.
+{064645}{064726}Tu n'as pas le droit de dire ça.
+{064790}{064865}Avant, on se moquait de nos familles.|C'est fini ?
+{064924}{065009}Je sais que c'est une période|très difficile pour toi, mais...
+{065013}{065101}le meilleur ami de ton frère|était un dealer israélien.
+{065144}{065186}Il était international !
+{065199}{065262}N'en parlons plus.
+{065335}{065436}Si mon père contrôlait encore|le crime dans l'Etat comme le tien...
+{065450}{065492}j'aimerais ne plus en parler.
+{065497}{065560}Mais ça ne serait|peut-être pas arrivé.
+{065580}{065626}Tu vas trop loin, là.
+{065649}{065736}Nos pères sont dans le traitement|des déchets, ça fait rire.
+{065740}{065797}D'accord,|ils fricotent avec la pègre...
+{065801}{065930}mais comment contrôler tous|les dealers et les armes illégales ?
+{065957}{066045}C'est dingue que tu oses dire ça|devant une étrangère.
+{066085}{066131}Un peu de loyauté, par pitié !
+{066187}{066244}Leurs noms seront gravés|dans l'Histoire...
+{066248}{066372}leurs mains serreront le trophée|le plus vénéré du football.
+{066507}{066612}- Tu bois quelque chose ?|- Je dois filer. Maman est toute seule.
+{066967}{067024}Il sert un repas complet ?
+{067030}{067079}J'ai fini. Super sauce.
+{067158}{067184}Triste jour !
+{067239}{067303}Ce gamin a toujours été débile.
+{067311}{067390}Il avait failli|se noyer dans une flaque.
+{067394}{067447}Au truc des pingouins.
+{067485}{067601}Jack disait que Jackie souffrait|d'un manque d'attention...
+{067629}{067696}La stupidité, c'en est un, non ?
+{067700}{067757}Regarde-moi cet endroit vide.
+{067761}{067898}Si Jackie était toujours vivant, et que|son fils mourait, il y aurait foule.
+{067902}{068046}Des gerbes de fleurs partout,|quoi que le gamin ait fait. Mais là...
+{068278}{068391}Ton assignation à résidence|est levée ? Félicitations !
+{068395}{068480}Mon avocat a enfin réussi|à prouver que je ne fuirai pas.
+{068484}{068616}Fuir ! Je pète sur le même canapé|depuis 1 8 mois.
+{068620}{068685}- Mais le procès approche.|- Oui, mais t'es libre...
+{068689}{068721}et tu manges normalement.
+{068740}{068851}Cette maladie a changé mon point de vue.|Je vais sentir les roses.
+{068876}{068921}On devrait tous le faire.
+{068944}{068996}Après tout !
+{069172}{069256}Dans le musée des nez,|voilà Mona Lisa.
+{069279}{069352}- Tu fumes dehors ?|- Ginny pense que j'ai arrêté.
+{069387}{069452}Le second de la famille|des cinq Familles.
+{069465}{069518}Ginny peut être lourde.
+{069643}{069715}- Ça va pas ?|- Non, c'est rien.
+{069719}{069747}Raconte-moi.
+{069768}{069852}C'est Tony.|Il sait que ma mère est malade...
+{069856}{069924}et il m'enfonce sur l'affaire|de Morristown.
+{069928}{070006}- T'en as peut-être entendu parler.|- Je ne me mêle de rien.
+{070014}{070088}Depuis que Ralphie lui rapporte|le fric de l'Esplanade...
+{070092}{070165}on dirait que j'ai chié dans mon froc|vu comme il m'évite.
+{070193}{070261}Je ne suis pas de marbre,|ça me fait du mal.
+{070284}{070374}- Tony a des favoris ?|- Que dois-je dire à maman ?
+{070378}{070446}Elle pense qu'elle va|au paradis des hospices.
+{070453}{070530}La même que celle où sa mère|est restée un an, d'ailleurs.
+{070541}{070630}Confonds pas argent et amour.|Comment il a traité sa mère !
+{070634}{070688}Je l'aime beaucoup,|mais quand même !
+{070695}{070732}J'en ai parlé à Junior.
+{070736}{070811}Si ça se trouve, Tony n'a pas|de respect pour les anciens.
+{070815}{070847}Tu lui as dit ça ?
+{070881}{070931}Tu fais dans la dentelle.
+{070981}{071069}Carmine est comme toi.|Parfois, Tony le déçoit...
+{071073}{071127}Ralphie aussi. Cette génération.
+{071151}{071233}Il pense que pour l'Esplanade,|ils ont pris des risques.
+{071246}{071273}Ça va, Carmine ?
+{071344}{071398}- Il m'a parlé de toi.|- Embrasse-le.
+{071404}{071453}D'accord. Ça lui fera plaisir.
+{071500}{071551}Il va pas aussi bien qu'il devrait.
+{071559}{071690}Si je peux faire quelque chose,|n'importe quoi, qu'il n'hésite pas.
+{071746}{071774}Je lui dirai.
+{071866}{071902}Ca va ?
+{072050}{072087}Tu as pas mal bu.
+{072167}{072221}On en aurait tous besoin.
+{072302}{072347}Je réfléchissais...
+{072374}{072424}à ce que tu as dit un jour.
+{072428}{072533}"Profite des bons moments|avec ceux que tu aimes".
+{072561}{072631}Je me rends compte|que c'est trop vrai.
+{072635}{072670}C'est papa qui l'a dit.
+{072800}{072864}Quand on voit comment|les gens vivent ensemble...
+{072868}{072896}même en famille.
+{072915}{072967}- Celle de Jackie, par exemple.|- Quoi ?
+{072978}{073037}Ils n'étaient pas là pour lui.
+{073041}{073121}Tante Ro est gentille, mais elle plane.
+{073125}{073164}Oncle Jackie ?
+{073176}{073206}Trop narcissique.
+{073225}{073284}Ils l'ont laissé faire.
+{073290}{073390}Quand on lui demandait :|"Que vont dire tes parents ?"
+{073434}{073520}A chaque fois, il répondait :|"Ils s'en foutent. "
+{073564}{073642}Je pense qu'il en souffrait.
+{073662}{073697}C'est bien de le voir.
+{073746}{073810}C'est ça T'es contente.
+{073814}{073888}Tu en profites pour être|usurpatrice et dominatrice.
+{073892}{073954}Il ne s'agit pas de ça.
+{073958}{074004}Qu'est-ce que j'ai dit ?
+{074056}{074162}- Tu n'habites plus à la maison.|- Tu t'en serviras contre A.J.
+{074172}{074219}Contre lui ?
+{074223}{074261}J'aurais dû me taire.
+{074385}{074425}Un jeune étranger barbu arrive.
+{074434}{074514}Le rabbin dit :|«Ne me touchez pas, je suis invalide. «
+{074763}{074803}Ils sont là !
+{075630}{075704}- Tu es arrivée quand ?|- A l'instant.
+{076009}{076047}Junior, chante !
+{076411}{076436}Après tout !
+{076570}{076622}J'ai vaincu mon cancer...
+{076629}{076660}je vaincrai la prison.
+{076819}{076875}C'est trop haut.
+{076879}{076907}C'est quoi ?
+{076926}{076999}- Et ça ?|- Un Cosmopolitan.
+{077003}{077041}Il chante bien quand il a bu.
+{077077}{077131}- Il est pété.|- Ne ris pas.
+{079555}{079609}Oups ! J'ai recommencé.
+{079659}{079684}Tiens-moi ça
+{079715}{079771}Je m'en vais.
+{079908}{079938}Reviens !
+{079970}{080050}Tu m'entends ?|Reviens !
+{080088}{080134}C'est que des mensonges !
+{080457}{080493}Restez pas là.
+{080729}{080814}- Elle est retournée à la fac.|- Et l'argent pour le bus ?
+{080834}{080935}Elle a son sac.|Ca va aller.
+{081215}{081262}Reste là et tais-toi.
+{082068}{082149}Ça veut dire quoi :|Cuore ingrato ?
+{082153}{082219}Coeur ingrat.
+{086221}{086246}Traduction :|Isabelle Juhasz
+{086250}{086275}Sous-titrage :|TVS - TITRA FILM
+{086279}{086304}Adapté par :|SDI Media Group
+{086308}{086333}[FRENCH]

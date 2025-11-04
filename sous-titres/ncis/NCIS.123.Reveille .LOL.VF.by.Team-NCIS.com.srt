@@ -1,0 +1,3397 @@
+1
+00:01:10,754 --> 00:01:13,986
+NCIS Saison 1 épisode 23
+Reveille
+
+2
+00:01:14,038 --> 00:01:18,961
+Merci à Marmotte et Mickey.
+
+3
+00:01:19,008 --> 00:01:46,727
+www.Team-NCIS.com
+
+4
+00:01:56,452 --> 00:01:58,116
+Réveille-le.
+
+5
+00:01:58,516 --> 00:02:00,355
+Je ne sais pas. Peut-être
+qu'il a besoin de repos.
+
+6
+00:02:00,390 --> 00:02:02,748
+Il ne se repose pas. Regarde-le.
+
+7
+00:02:02,783 --> 00:02:05,673
+Ses yeux dansent le disco
+sous ses paupières.
+
+8
+00:02:05,708 --> 00:02:07,896
+Le disco, c'est de retour ?
+
+9
+00:02:07,931 --> 00:02:09,594
+C'est Gibbs. Ça n'est jamais parti.
+
+10
+00:02:09,629 --> 00:02:11,581
+McGee devrait l'être.
+
+11
+00:02:12,023 --> 00:02:13,701
+Il y a des heures.
+
+12
+00:02:13,958 --> 00:02:17,157
+Le bureau de Norfolk ouvre dans...
+
+13
+00:02:17,792 --> 00:02:19,666
+24 minutes.
+
+14
+00:02:19,810 --> 00:02:21,826
+C'est à 310 km en voiture.
+
+15
+00:02:21,861 --> 00:02:23,886
+J'allais les appeler.
+
+16
+00:02:23,921 --> 00:02:25,369
+Ouais ?
+
+17
+00:02:26,466 --> 00:02:28,269
+Et pour leur dire quoi, McGee ?
+
+18
+00:02:28,304 --> 00:02:31,841
+Bien, que vous aviez besoin de moi
+pour travailler ici aujourd'hui.
+
+19
+00:02:31,876 --> 00:02:33,996
+Et pourquoi aurais-je besoin de vous ici ?
+
+20
+00:02:34,031 --> 00:02:38,854
+Parce que j'ai une idée pour
+accélérer les recherches sur lui.
+
+21
+00:02:39,160 --> 00:02:40,984
+J'écoute.
+
+22
+00:02:41,261 --> 00:02:43,069
+Gibbs.
+
+23
+00:02:43,104 --> 00:02:44,797
+Je l'adore.
+
+24
+00:02:44,832 --> 00:02:47,375
+Dis-le à DiNozzo.
+
+25
+00:02:47,548 --> 00:02:49,879
+La base de données que vous scannez
+a plus de 10 millions de photos.
+
+26
+00:02:49,914 --> 00:02:51,819
+Ça prendrait un mois
+pour toutes les contrôler.
+
+27
+00:02:51,854 --> 00:02:53,897
+C'est votre idée pour me déprimer, McGee ?
+
+28
+00:02:53,932 --> 00:02:56,809
+Non, non, non, non. Si nous
+trouvons son âge précis,
+
+29
+00:02:56,844 --> 00:02:59,242
+alors nous pourrons limiter
+la recherche à l'année de ses 21 ans.
+
+30
+00:02:59,277 --> 00:03:01,826
+73% des diplômés anglais ont 21 ans.
+
+31
+00:03:01,861 --> 00:03:04,852
+Scanner cette année permettrait de réduire
+les recherches à quelques jours.
+
+32
+00:03:04,887 --> 00:03:06,141
+C'est une bonne idée, non ?
+
+33
+00:03:06,176 --> 00:03:08,215
+Oh, ouais, ouais.
+C'est une sacrée bonne idée.
+
+34
+00:03:08,250 --> 00:03:09,536
+Juste un problème.
+
+35
+00:03:09,571 --> 00:03:10,909
+Comment allons-nous trouver son âge,
+
+36
+00:03:10,944 --> 00:03:12,715
+alors que nous ne savons pas
+qui est ce fumier !
+
+37
+00:03:12,750 --> 00:03:14,236
+Tu serais moins grincheux
+si tu dormais dans un lit ?
+
+38
+00:03:14,271 --> 00:03:16,621
+- Non !
+- Je m'en doutais.
+
+39
+00:03:16,656 --> 00:03:18,557
+Le FBI a un programme
+
+40
+00:03:18,592 --> 00:03:20,663
+qu'ils utilisent sur les photos d'enfants
+disparus depuis des années
+
+41
+00:03:20,698 --> 00:03:21,968
+pour montrer à quoi
+ils ressemblent aujourd'hui.
+
+42
+00:03:22,003 --> 00:03:24,866
+Je sais de quoi cet enfoiré
+a l'air aujourd'hui, McGee.
+
+43
+00:03:24,901 --> 00:03:26,602
+Je sais que vous savez, patron.
+
+44
+00:03:26,637 --> 00:03:29,822
+Mais pour créer ce programme, le FBI
+a besoin de critères spécifiques à l'âge.
+
+45
+00:03:29,857 --> 00:03:32,553
+Alors McGee a passé la moitié
+de la nuit à utiliser leurs critères
+
+46
+00:03:32,588 --> 00:03:35,409
+pour développer un programme qui donnerait
+l'âge d'une personne à partir d'une photo.
+
+47
+00:03:35,444 --> 00:03:38,242
+J'ai utilisé les algorithmes du FBI
+pour les caractéristiques faciales,
+
+48
+00:03:38,277 --> 00:03:40,370
+taille des pores, rides,
+tissus adipeux
+
+49
+00:03:40,405 --> 00:03:42,101
+et taille du nez et des oreilles.
+
+50
+00:03:42,136 --> 00:03:43,948
+Qui continuent de s'allonger,
+quand on vieillit,
+
+51
+00:03:43,983 --> 00:03:48,417
+que vous portiez des boucles d'oreilles ou
+non, donc tu pourrais très bien en porter.
+
+52
+00:03:49,132 --> 00:03:50,590
+Vous pouvez faire ça ?
+
+53
+00:03:50,625 --> 00:03:53,046
+J'ai juste besoin de quelques heures
+pour les entrer sur votre disque dur.
+
+54
+00:03:53,081 --> 00:03:56,387
+Très bien, ça ira pour le billet d'excuse.
+Je vais appeler Norfolk.
+
+55
+00:03:56,422 --> 00:03:58,638
+- Il est resté chez toi ?
+- Ouaip.
+
+56
+00:03:58,673 --> 00:04:01,299
+Vous avez dormi dans le cercueil, McGee ?
+
+57
+00:04:03,676 --> 00:04:05,676
+Le cercueil ?
+
+58
+00:04:06,041 --> 00:04:09,306
+Tu as dit que c'était un lit
+en forme de boîte.
+
+59
+00:04:09,341 --> 00:04:12,447
+Oui, c'est ça. En gros.
+
+60
+00:04:12,482 --> 00:04:14,649
+C'est pour ça que tu ne voulais
+pas allumer les lumières.
+
+61
+00:04:14,684 --> 00:04:18,070
+Je ne peux pas croire que
+j'ai dormi dans un cercueil.
+
+62
+00:04:18,105 --> 00:04:21,002
+Pas seulement dormi.
+
+63
+00:04:39,421 --> 00:04:40,447
+O.K.
+
+64
+00:04:40,482 --> 00:04:42,017
+Tu vas voir, poupée !
+
+65
+00:04:42,052 --> 00:04:43,400
+Tu vas voir !
+
+66
+00:04:55,612 --> 00:04:58,355
+Les escaliers.
+Je l'aurais dans les escaliers.
+
+67
+00:04:58,390 --> 00:05:00,704
+Les femmes ne peuvent pas
+courir dans les escaliers.
+
+68
+00:05:22,482 --> 00:05:24,162
+L'un d'entre eux est Marine One.
+
+69
+00:05:24,197 --> 00:05:26,131
+Il transporte le Président.
+
+70
+00:05:26,154 --> 00:05:27,154
+Ja ?
+
+71
+00:05:28,369 --> 00:05:29,475
+Ja.
+
+72
+00:05:29,751 --> 00:05:31,366
+Allemande ?
+
+73
+00:05:31,401 --> 00:05:32,884
+Suédoise.
+
+74
+00:05:33,647 --> 00:05:35,675
+Encore mieux.
+
+75
+00:05:35,710 --> 00:05:36,956
+Vous parlez anglais ?
+
+76
+00:05:36,991 --> 00:05:38,553
+Ja.
+
+77
+00:05:38,588 --> 00:05:39,589
+Ciao.
+
+78
+00:05:40,437 --> 00:05:41,583
+Ciao ?
+
+79
+00:05:41,618 --> 00:05:43,108
+C'est curieux.
+
+80
+00:05:43,315 --> 00:05:44,590
+O.K.
+
+81
+00:05:44,625 --> 00:05:46,759
+J'ai besoin d'une remise en forme.
+
+82
+00:05:49,479 --> 00:05:52,473
+M. le Premier Ministre,
+bienvenue à la Maison Blanche.
+
+83
+00:05:56,060 --> 00:05:58,472
+Que pensez-vous des actes de Sharon ?
+
+84
+00:05:58,507 --> 00:06:02,690
+Assassiner les leaders du Hamas
+ou abandonner les colonies de Gaza ?
+
+85
+00:06:02,725 --> 00:06:03,858
+L'un ou l'autre.
+
+86
+00:06:03,893 --> 00:06:06,258
+J'essayais juste
+d'engager la conversation.
+
+87
+00:06:07,236 --> 00:06:08,746
+John. Département de l'Agriculture.
+
+88
+00:06:08,781 --> 00:06:09,985
+Kate. NCIS.
+
+89
+00:06:10,020 --> 00:06:11,265
+Bonjour. Vraiment ?
+
+90
+00:06:11,300 --> 00:06:12,622
+Oui. Pourquoi ?
+
+91
+00:06:12,657 --> 00:06:14,682
+Je ne vous ai jamais vue.
+Je vais au NCIS deux fois par mois.
+
+92
+00:06:14,690 --> 00:06:15,690
+Vraiment ?
+
+93
+00:06:15,700 --> 00:06:17,983
+Oui, je suis spécialisé dans
+les analyses actuarielles.
+
+94
+00:06:18,018 --> 00:06:19,755
+Les dégâts de la grêle et des tempêtes.
+
+95
+00:06:19,790 --> 00:06:22,239
+De quel NCIS pensez-vous que je suis ?
+
+96
+00:06:22,274 --> 00:06:23,979
+Le service d'assurance
+nationale des cultures.
+
+97
+00:06:24,014 --> 00:06:25,281
+C'est nous.
+
+98
+00:06:25,316 --> 00:06:28,103
+C'est un as pour savoir
+comment les pertes en maïs
+
+99
+00:06:28,104 --> 00:06:30,891
+affectent la fécondité
+des truies. Excusez-moi.
+
+100
+00:06:31,174 --> 00:06:33,303
+Mon patron.
+
+101
+00:06:33,338 --> 00:06:37,925
+- Un curieux sens de l'humour.
+- Ouais, je...
+
+102
+00:06:38,612 --> 00:06:41,289
+"Comment les pertes en maïs
+affectent la fécondité des truies" ?
+
+103
+00:06:41,324 --> 00:06:43,250
+Règle numéro 7.
+
+104
+00:06:43,285 --> 00:06:46,233
+Toujours être précis quand on ment.
+
+105
+00:06:48,610 --> 00:06:51,837
+Pourquoi tu m'apportes du café de ton
+dealer de caféine à deux blocs d'ici ?
+
+106
+00:06:51,872 --> 00:06:53,679
+Et n'utilise pas la règle 7.
+
+107
+00:06:53,714 --> 00:06:55,692
+Tu le veux ou pas ?
+
+108
+00:06:55,989 --> 00:06:57,919
+Je prends mon café avec du lait
+et de l'édulcorant.
+
+109
+00:06:57,954 --> 00:06:59,383
+Goûte-le.
+
+110
+00:07:07,782 --> 00:07:09,006
+Un peu fort.
+
+111
+00:07:09,041 --> 00:07:10,940
+Fort c'est meilleur.
+
+112
+00:07:16,172 --> 00:07:18,191
+Gibbs, tu me rends nerveuse.
+
+113
+00:07:18,226 --> 00:07:19,926
+Des scénarios effrayants
+crépitent dans ma tête,
+
+114
+00:07:19,961 --> 00:07:22,533
+comme si tu étais ici pour me virer
+
+115
+00:07:22,568 --> 00:07:26,399
+ou me dire que je dois jouer la femme de
+DiNozzo pour une mission sous couverture.
+
+116
+00:07:26,434 --> 00:07:29,153
+Je veux que tu profiles un terroriste.
+
+117
+00:07:29,188 --> 00:07:30,366
+Quel terroriste ?
+
+118
+00:07:30,401 --> 00:07:32,842
+Celui que tu n'as pas pu poignarder.
+
+119
+00:07:41,434 --> 00:07:43,656
+C'est Ducky qui te l'a dit ?
+
+120
+00:07:46,786 --> 00:07:48,858
+C'est vrai.
+
+121
+00:07:50,297 --> 00:07:51,765
+Pourquoi ?
+
+122
+00:07:58,459 --> 00:08:00,444
+Ses yeux.
+
+123
+00:08:01,315 --> 00:08:04,480
+J'ai regardé dans ses yeux,
+et ils avaient l'air gentil.
+
+124
+00:08:04,515 --> 00:08:07,285
+Ils avaient l'air gentils quand
+il a tiré dans l'épaule de Gerald ?
+
+125
+00:08:07,320 --> 00:08:10,869
+Tu m'as demandé pourquoi je n'ai pas
+pu le poignarder et je te l'ai dit.
+
+126
+00:08:10,904 --> 00:08:13,398
+Contrairement à la sagesse populaire,
+Kate,
+
+127
+00:08:13,433 --> 00:08:15,231
+les yeux peuvent mentir.
+
+128
+00:08:15,266 --> 00:08:18,690
+Tu le rencontreras à nouveau,
+n'oublie pas ça.
+
+129
+00:08:19,999 --> 00:08:21,747
+Je ne l'oublierai pas.
+
+130
+00:08:23,827 --> 00:08:26,151
+Je ne l'oublierai pas.
+
+131
+00:08:26,186 --> 00:08:28,599
+Profile-le.
+
+132
+00:08:30,545 --> 00:08:32,664
+Ce n'est pas un fanatique islamiste.
+
+133
+00:08:32,699 --> 00:08:34,046
+Il n'a jamais utilisé leur rhétorique.
+
+134
+00:08:34,081 --> 00:08:37,499
+Pas de mention du Djihad,
+Allah, des infidèles.
+
+135
+00:08:37,534 --> 00:08:39,597
+Ce qui le motive,
+ce n'est pas le goût du martyre.
+
+136
+00:08:39,632 --> 00:08:40,779
+La vengeance ?
+
+137
+00:08:40,814 --> 00:08:42,234
+Ça pourrait.
+
+138
+00:08:42,269 --> 00:08:43,840
+Peut-être l'argent.
+
+139
+00:08:44,302 --> 00:08:46,074
+Un terroriste du Hamas...
+
+140
+00:08:46,109 --> 00:08:47,395
+ferait ça pour l'argent ?
+
+141
+00:08:47,430 --> 00:08:49,043
+Il ne fait pas ça pour les 70 vierges.
+
+142
+00:08:49,078 --> 00:08:51,841
+Il n'a pas de problème
+pour séduire les femmes.
+
+143
+00:08:52,402 --> 00:08:54,531
+N'essaye pas.
+
+144
+00:08:55,988 --> 00:08:56,997
+Pourquoi l'argent ?
+
+145
+00:08:56,998 --> 00:08:59,160
+J'ai juste l'impression
+qu'il a un grand train de vie.
+
+146
+00:08:59,195 --> 00:09:02,907
+Il était bien habillé. Les ongles
+manucurés, des dents parfaites.
+
+147
+00:09:02,942 --> 00:09:05,472
+Une coupe de cheveux stylée.
+
+148
+00:09:07,601 --> 00:09:10,174
+Gibbs, tu fais quoi avec tes cheveux ?
+
+149
+00:09:10,209 --> 00:09:12,189
+Qu'est-ce qui ne va pas avec mes cheveux ?
+
+150
+00:09:12,224 --> 00:09:15,646
+Rien, rien. Tes cheveux sont...
+
+151
+00:09:15,681 --> 00:09:18,726
+- Toi.
+- Ouais. Merci.
+
+152
+00:09:18,761 --> 00:09:20,283
+Quoi d'autre ?
+
+153
+00:09:20,318 --> 00:09:22,131
+Il est intelligent, audacieux,
+
+154
+00:09:22,166 --> 00:09:24,644
+assez pour prendre de gros risques.
+
+155
+00:09:27,249 --> 00:09:28,260
+Pourquoi ?
+
+156
+00:09:28,295 --> 00:09:29,594
+Pourquoi pas ?
+
+157
+00:09:36,538 --> 00:09:38,797
+Pourquoi m'a-t-il donné
+une chance de le tuer ?
+
+158
+00:09:38,832 --> 00:09:40,066
+Il avait un gilet pare-balles.
+
+159
+00:09:40,101 --> 00:09:41,482
+Il savait que tu lui tirerais
+dans la poitrine.
+
+160
+00:09:41,517 --> 00:09:43,233
+Et si j'avais tiré dans la tête ?
+
+161
+00:09:43,268 --> 00:09:46,053
+C'est un risque qu'il devait prendre
+pour que son plan d'évasion réussisse.
+
+162
+00:09:46,088 --> 00:09:48,393
+Non, c'était inutile.
+
+163
+00:09:49,382 --> 00:09:52,953
+Il aurait pu me tuer de sang froid.
+
+164
+00:09:54,512 --> 00:09:56,535
+L'équipe de recherche des otages
+est arrivée.
+
+165
+00:09:56,570 --> 00:09:58,960
+Il a jeté une grenade lumineuse.
+
+166
+00:09:59,903 --> 00:10:04,045
+De toute façon, il se serait
+échappé. De la même manière.
+
+167
+00:10:04,379 --> 00:10:06,236
+Tu as raison.
+
+168
+00:10:06,271 --> 00:10:08,330
+Pourquoi t'aurait-il donné
+l'opportunité de lui tirer dessus ?
+
+169
+00:10:08,365 --> 00:10:12,567
+Il a besoin d'être face à la mort
+pour se sentir vivant.
+
+170
+00:10:13,204 --> 00:10:15,778
+Peut-être pour ressentir quelque chose.
+
+171
+00:11:00,275 --> 00:11:02,584
+Joli cycle, M. Craig.
+
+172
+00:11:03,649 --> 00:11:06,060
+C'est une moto.
+
+173
+00:11:07,003 --> 00:11:10,110
+Un cycle, c'est une chose
+que l'on pédale.
+
+174
+00:11:11,114 --> 00:11:12,405
+Missile sol-air fumigène.
+
+175
+00:11:12,440 --> 00:11:15,018
+Quadruple lanceur.
+Quatre missiles.
+
+176
+00:11:15,053 --> 00:11:16,395
+Altitude maximum ?
+
+177
+00:11:16,430 --> 00:11:19,068
+425 mètres.
+
+178
+00:11:19,103 --> 00:11:21,305
+Nos duels vont bien au-delà.
+
+179
+00:11:21,340 --> 00:11:24,183
+À moins de voler en ULM,
+le missile ne peut pas vous blesser.
+
+180
+00:11:24,218 --> 00:11:27,294
+Ce n'est que de la bakélite
+et du polystyrène.
+
+181
+00:11:27,604 --> 00:11:31,751
+Ceux qui veulent être des as doivent
+payer très cher pour prétendre combattre.
+
+182
+00:11:31,786 --> 00:11:33,940
+Ils ne prétendent pas.
+
+183
+00:11:34,353 --> 00:11:36,913
+Nous volons sur des avions acrobatiques
+armés avec des pistolets lasers.
+
+184
+00:11:36,948 --> 00:11:40,194
+Émetteurs de fumée.
+Bruits de combat dans leurs écouteurs.
+
+185
+00:11:40,229 --> 00:11:41,930
+C'est très réaliste.
+
+186
+00:11:41,965 --> 00:11:44,647
+Excepté que nous ne permettons
+de mourir.
+
+187
+00:11:44,682 --> 00:11:46,874
+Combien pissent dans leurs pantalons ?
+
+188
+00:11:46,909 --> 00:11:50,223
+Le Smoky Sam a l'air terriblement
+réel quand il vient vers vous.
+
+189
+00:11:50,258 --> 00:11:52,302
+La Marine les utilise à Top Gun.
+
+190
+00:11:52,337 --> 00:11:54,316
+- Tout est bon, Marv.
+- Merci, Matt.
+
+191
+00:11:56,789 --> 00:11:58,249
+Vous voulez le lancer ?
+
+192
+00:11:58,284 --> 00:12:00,082
+Pourquoi pas ?
+
+193
+00:12:14,821 --> 00:12:16,205
+Bonjour, Kate.
+
+194
+00:12:16,240 --> 00:12:18,386
+Ce sourire idiot peut
+seulement signifier une chose.
+
+195
+00:12:18,421 --> 00:12:19,491
+Laquelle ?
+
+196
+00:12:19,526 --> 00:12:22,022
+Tu es amoureux. Encore.
+
+197
+00:12:23,453 --> 00:12:24,800
+Et tu as raison.
+
+198
+00:12:24,835 --> 00:12:26,910
+- Comment s'appelle-t-elle ?
+- Elle est suédoise.
+
+199
+00:12:26,945 --> 00:12:28,487
+Tu ne connais pas son nom.
+
+200
+00:12:28,522 --> 00:12:30,950
+Comment peux-tu être amoureux
+de quelqu'un et ne...
+
+201
+00:12:30,985 --> 00:12:33,290
+J'avais oublié, c'est
+de toi dont nous parlons.
+
+202
+00:12:33,325 --> 00:12:34,784
+Vous avez un message.
+
+203
+00:12:34,819 --> 00:12:36,909
+Voyons voir à qui j'ai manqué aujourd'hui.
+
+204
+00:12:36,944 --> 00:12:38,153
+Tiffany. Crystal.
+
+205
+00:12:38,188 --> 00:12:39,862
+Fanny.
+
+206
+00:12:39,897 --> 00:12:41,931
+Les filles de la ferme.
+
+207
+00:12:41,966 --> 00:12:43,420
+Tu as piraté mon ordinateur ?
+
+208
+00:12:43,449 --> 00:12:44,481
+Non.
+
+209
+00:12:44,516 --> 00:12:48,323
+Depuis que tu as utilisé mon ordinateur,
+je reçois des spams pornos sans arrêt.
+
+210
+00:12:48,658 --> 00:12:50,680
+Comme si tu n'avais jamais
+ouvert un site classé X.
+
+211
+00:12:50,715 --> 00:12:52,032
+Jamais.
+
+212
+00:12:52,067 --> 00:12:53,540
+Tu sais, c'est triste.
+
+213
+00:12:53,659 --> 00:12:54,674
+Pourquoi ?
+
+214
+00:12:54,709 --> 00:12:56,555
+Parce que je te crois.
+
+215
+00:12:56,728 --> 00:12:57,888
+Où est le patron ?
+
+216
+00:12:57,923 --> 00:12:58,932
+MTAC
+
+217
+00:12:58,967 --> 00:13:01,065
+Il parle à Bahrain.
+
+218
+00:13:05,041 --> 00:13:06,083
+Tony.
+
+219
+00:13:06,555 --> 00:13:07,970
+Je suis inquiète pour lui.
+
+220
+00:13:08,005 --> 00:13:10,318
+Gibbs ? C'est comme s'inquiéter pour
+Jim Bowie dans un combat au couteau.
+
+221
+00:13:10,353 --> 00:13:12,381
+Bowie a été tué à Alamo.
+
+222
+00:13:12,416 --> 00:13:13,879
+Je sais, j'ai vu le film.
+
+223
+00:13:13,914 --> 00:13:16,560
+Tony, il est obsédé par ce terroriste.
+
+224
+00:13:16,595 --> 00:13:18,034
+Pas obsédé, déterminé.
+
+225
+00:13:18,069 --> 00:13:19,806
+Comme Tommy Lee Jones dans "Le Fugitif",
+
+226
+00:13:19,841 --> 00:13:21,199
+comme Le Duc dans "Les Chercheurs",
+
+227
+00:13:21,234 --> 00:13:22,591
+Mel Gibson dans "Payback".
+
+228
+00:13:22,626 --> 00:13:24,290
+- Tu as déjà lu un livre ?
+- Kate,
+
+229
+00:13:24,325 --> 00:13:25,999
+"déterminé" c'est bien pour un flic.
+
+230
+00:13:26,034 --> 00:13:28,047
+Non. Pas quand ça tourne à l'obsession.
+
+231
+00:13:28,082 --> 00:13:30,541
+Gibbs m'a surprise
+chez D.C. Beans ce matin.
+
+232
+00:13:30,576 --> 00:13:33,678
+Il m'a offert un café et ensuite
+il m'a interrogée sur ce terroriste
+
+233
+00:13:33,713 --> 00:13:35,639
+comme si c'était arrivé
+hier et pas il y a des mois.
+
+234
+00:13:35,674 --> 00:13:38,548
+C'est sérieux. Il ne m'a jamais
+acheté de café.
+
+235
+00:13:38,583 --> 00:13:40,146
+- Tony...
+- Kate...
+
+236
+00:13:40,181 --> 00:13:41,722
+Gibbs est comme un chien.
+
+237
+00:13:41,757 --> 00:13:44,175
+Il rongera un vieil os jusqu'à
+ce qu'on lui jette un steak.
+
+238
+00:13:44,210 --> 00:13:45,495
+Quand il a fini avec le steak,
+
+239
+00:13:45,530 --> 00:13:46,799
+il retourne au vieil os.
+
+240
+00:13:46,834 --> 00:13:50,164
+Et le terroriste, c'est
+le vieil os de Gibbs.
+
+241
+00:13:50,199 --> 00:13:53,025
+Espérons qu'il ne s'étouffe pas avec.
+
+242
+00:13:53,535 --> 00:13:54,696
+Bon sang, Daniel.
+
+243
+00:13:54,731 --> 00:13:56,389
+Le Mossad vous a menti.
+
+244
+00:13:56,424 --> 00:13:59,719
+Ce bâtard est trop fort pour ne
+pas être dans leur collimateur.
+
+245
+00:13:59,754 --> 00:14:01,070
+Ils jurent qu'ils n'ont rien.
+
+246
+00:14:01,105 --> 00:14:03,637
+Même pas un nom de code du Hamas.
+
+247
+00:14:03,672 --> 00:14:06,324
+Les Israéliens suivent le Scheik Yassin
+
+248
+00:14:06,359 --> 00:14:08,724
+et Rantisi au cœur de Gaza.
+
+249
+00:14:08,759 --> 00:14:12,114
+Vous ne pouvez pas me dire qu'ils
+ne savent pas qui est ce type.
+
+250
+00:14:12,149 --> 00:14:15,184
+Gibbs, je peux seulement vous
+répéter ce qu’ils me disent.
+
+251
+00:14:15,400 --> 00:14:16,963
+Une chance qu'il ne soit pas du Hamas ?
+
+252
+00:14:16,998 --> 00:14:20,111
+Et si c'était un indépendant envoyé là
+
+253
+00:14:20,146 --> 00:14:21,989
+pour nettoyer leur débâcle
+de Little Creek ?
+
+254
+00:14:22,024 --> 00:14:23,649
+Le Hamas est comme la mafia.
+
+255
+00:14:23,684 --> 00:14:25,660
+Ils ne croient jamais personne
+en dehors de leur famille.
+
+256
+00:14:25,695 --> 00:14:28,170
+Alors le Mossad doit
+avoir un dossier sur lui.
+
+257
+00:14:28,205 --> 00:14:30,401
+S'ils le possédaient, ils pourraient
+l'attraper eux-mêmes.
+
+258
+00:14:30,436 --> 00:14:31,871
+Il n'est pas au Moyen-Orient.
+
+259
+00:14:31,906 --> 00:14:33,692
+Il est ici.
+
+260
+00:14:34,266 --> 00:14:36,305
+Où avez-vous eu cette information ?
+
+261
+00:14:36,340 --> 00:14:38,325
+Mes tripes.
+
+262
+00:14:41,750 --> 00:14:42,775
+Merci.
+
+263
+00:14:42,810 --> 00:14:45,228
+C'était le départ du Président Bush...
+
+264
+00:14:45,263 --> 00:14:47,424
+Les marines sont en tenue d'apparat.
+
+265
+00:14:47,459 --> 00:14:51,923
+Seuls les deux agents des services
+secrets sur Marine One sont armés.
+
+266
+00:14:51,958 --> 00:14:56,313
+Marine One avec Bush et Sharon
+décollera de la Maison Blanche à 19h00.
+
+267
+00:14:56,348 --> 00:15:01,325
+Il rejoindra deux hélicos de marine
+identiques au Washington Memorial.
+
+268
+00:15:02,216 --> 00:15:05,172
+Les trois "Sea Kings"
+voleront alors vers le Potomac
+
+269
+00:15:05,207 --> 00:15:07,040
+et poursuivront vers le
+nord jusqu'au Maryland,
+
+270
+00:15:07,075 --> 00:15:08,560
+échangeant leur position ici et là
+
+271
+00:15:08,595 --> 00:15:11,325
+pour dissimuler celui qui est Marine One.
+
+272
+00:15:11,360 --> 00:15:13,527
+Le plan de vol pour Bear Island
+est toujours le même.
+
+273
+00:15:13,562 --> 00:15:18,630
+Après ça, ils peuvent prendre de
+nombreuses routes vers Camp David.
+
+274
+00:15:20,238 --> 00:15:25,461
+Simi et Abdul vont prendre
+le zodiaque vers Bear Island
+
+275
+00:15:25,496 --> 00:15:30,412
+et installer le missile fumigène
+à l'extrémité sud des bois.
+
+276
+00:15:30,447 --> 00:15:33,409
+Je vous ai sélectionnés
+pour cette mission cruciale
+
+277
+00:15:33,444 --> 00:15:39,385
+parce que chaque pierre lancée sur les
+chars israéliens étant gamins a échoué.
+
+278
+00:15:39,420 --> 00:15:40,741
+Et c'est bien.
+
+279
+00:15:40,776 --> 00:15:42,364
+Nous voulons les manquer.
+
+280
+00:15:42,399 --> 00:15:44,989
+Ils ne pourront pas se rendre compte
+que ce sont des missiles d'entraînement.
+
+281
+00:15:45,024 --> 00:15:49,004
+Ils doivent penser qu'ils ont
+été attaqués au lance-roquettes.
+
+282
+00:15:49,039 --> 00:15:51,907
+Ce scénario requiert
+que chacun d'entre eux
+
+283
+00:15:51,942 --> 00:15:55,890
+exécute une manœuvre
+d'atterrissage d'urgence.
+
+284
+00:15:55,891 --> 00:15:56,895
+Bassam.
+
+285
+00:15:59,407 --> 00:16:02,310
+Ce champ est le seul coin à des kilomètres
+
+286
+00:16:02,311 --> 00:16:05,213
+à la ronde où ils peuvent
+atterrir en formation.
+
+287
+00:16:05,248 --> 00:16:07,023
+Quand ils le feront...
+
+288
+00:16:07,224 --> 00:16:08,643
+Nous les frapperons.
+
+289
+00:16:08,678 --> 00:16:12,114
+Nous neutraliserons le rotor de queue
+de Marine One avec un fusil à grenade,
+
+290
+00:16:12,149 --> 00:16:14,568
+détruirons les deux autres
+hélicoptères avec les lance-roquettes
+
+291
+00:16:14,603 --> 00:16:17,044
+et capturerons les bouchers,
+Bush et Sharon
+
+292
+00:16:17,079 --> 00:16:20,816
+pour les échanger contre nos
+frères emprisonnés en Israël.
+
+293
+00:16:21,378 --> 00:16:22,699
+Et...
+
+294
+00:16:23,412 --> 00:16:27,193
+comment saurons-nous lequel
+d'entre eux est Marine One ?
+
+295
+00:16:28,051 --> 00:16:31,008
+Un petit oiseau va me le dire.
+
+296
+00:16:33,492 --> 00:16:37,220
+O.K. maintenant rends-le plus
+vieux qu'une momie poussiéreuse.
+
+297
+00:16:37,255 --> 00:16:39,458
+C'est trop cool !
+
+298
+00:16:39,493 --> 00:16:42,907
+O.K. maintenant comme un jeune mec
+à son premier rendez-vous.
+
+299
+00:16:46,175 --> 00:16:49,158
+Il n'était pas une floraison
+tardive comme toi, McGee.
+
+300
+00:16:51,284 --> 00:16:53,860
+Il est si mignon !
+
+301
+00:16:53,895 --> 00:16:55,363
+Tu trouves ?
+
+302
+00:16:55,852 --> 00:16:59,137
+Pas aussi mignon que toi.
+
+303
+00:16:59,395 --> 00:17:02,040
+- Abs, j'essaye de travailler.
+- Désolée.
+
+304
+00:17:02,075 --> 00:17:04,344
+Non, j'aime ça. C'est juste que
+je ne peux pas me concentrer.
+
+305
+00:17:04,379 --> 00:17:08,378
+O.K.. Et si je regardais d'ici ?
+
+306
+00:17:10,436 --> 00:17:11,809
+- Qu'est-ce que tu fais ?
+- Rien.
+
+307
+00:17:11,844 --> 00:17:14,521
+Alors ne fais rien à ton bureau !
+
+308
+00:17:14,556 --> 00:17:17,459
+- Gibbs, c'est mon labo.
+- Bureau ! Maintenant !
+
+309
+00:17:17,859 --> 00:17:19,893
+Et arrête-moi ce satané boucan !
+
+310
+00:17:19,928 --> 00:17:21,717
+Vous avez son âge McGee ?
+
+311
+00:17:21,752 --> 00:17:23,730
+- En fait, j'allais juste...
+- Oui ou non ?
+
+312
+00:17:23,740 --> 00:17:24,743
+Non.
+
+313
+00:17:24,778 --> 00:17:26,262
+Mais si vous me donnez une minute,
+je l'aurais, je pense.
+
+314
+00:17:26,297 --> 00:17:27,495
+Vous pensez ?
+
+315
+00:17:27,530 --> 00:17:29,617
+Non. J'en suis sûr.
+
+316
+00:17:32,876 --> 00:17:34,923
+Mieux ?
+
+317
+00:17:51,338 --> 00:17:53,853
+Ça lui fait 21 ans en 1990.
+
+318
+00:17:53,888 --> 00:17:55,014
+Continuez le scan.
+
+319
+00:17:55,049 --> 00:17:56,119
+- Vous l'aurez, patron.
+- Et McGee,
+
+320
+00:17:56,154 --> 00:17:57,876
+si je n'ai pas de piste dans trois jours,
+
+321
+00:17:57,911 --> 00:18:01,473
+je vais penser que c'était un
+stratagème pour jouer à la maison.
+
+322
+00:18:02,848 --> 00:18:06,451
+Gibbs était comme ça juste
+avant son dernier divorce.
+
+323
+00:18:06,486 --> 00:18:08,135
+Nous ne pouvons pas
+divorcer de lui, Ducky.
+
+324
+00:18:08,170 --> 00:18:10,062
+Tu ne le voudrais pas, ma chère,
+
+325
+00:18:10,097 --> 00:18:12,749
+- même s'il devenait plus grincheux.
+- Ouais.
+
+326
+00:18:12,784 --> 00:18:14,786
+Oui, peut être qu'il évacuerait
+ses frustrations
+
+327
+00:18:14,821 --> 00:18:16,900
+sur cette mystérieuse
+rouquine au lieu de nous.
+
+328
+00:18:16,935 --> 00:18:18,616
+Tu dois vraiment parler
+la bouche pleine ?
+
+329
+00:18:18,651 --> 00:18:19,655
+Non.
+
+330
+00:18:23,821 --> 00:18:26,892
+Qui poursuivait Gibbs quand il
+a divorcé de sa dernière épouse ?
+
+331
+00:18:26,927 --> 00:18:28,801
+Ce devait être une rouquine.
+
+332
+00:18:30,456 --> 00:18:32,043
+Tu n'es pas Gibbs !
+
+333
+00:18:32,078 --> 00:18:34,815
+Tu fais encore ça et tu vas
+porter cette salade de thon.
+
+334
+00:18:34,850 --> 00:18:36,810
+Il traquait un meurtrier d'enfant.
+
+335
+00:18:36,845 --> 00:18:38,122
+La victime avait 5 ans.
+
+336
+00:18:38,157 --> 00:18:39,857
+Une charmante petite chose.
+
+337
+00:18:39,892 --> 00:18:43,635
+Un pervers avait abusé d'elle
+et l'avait battue à mort.
+
+338
+00:18:43,670 --> 00:18:46,467
+Des choses comme ça
+me rendent malade.
+
+339
+00:18:46,499 --> 00:18:47,499
+Gibbs l'a attrapé ?
+
+340
+00:18:47,500 --> 00:18:49,144
+Oui, ça lui a pris près d'un an.
+
+341
+00:18:49,179 --> 00:18:51,827
+Après qu'une seconde
+fillette ait été assassinée.
+
+342
+00:18:51,862 --> 00:18:56,872
+Gibbs a été un peu difficile à vivre
+pendant un moment après ça.
+
+343
+00:18:58,790 --> 00:19:00,619
+- C'est elle.
+- Qui ?
+
+344
+00:19:01,281 --> 00:19:03,082
+L'amour de ma vie.
+
+345
+00:19:12,780 --> 00:19:15,345
+Quand est-ce qu'il va grandir, Ducky ?
+
+346
+00:19:15,380 --> 00:19:18,051
+C'est dans les gènes, ma chère.
+
+347
+00:19:18,086 --> 00:19:22,077
+En Italie, la plupart des hommes de l'âge
+de Tony vivent encore chez leur "ma-man".
+
+348
+00:19:22,112 --> 00:19:23,590
+Oh, bon sang !
+
+349
+00:19:26,644 --> 00:19:29,765
+Je dois y aller, j'ai une conférence
+avec Guantanamo dans vingt minutes.
+
+350
+00:19:31,528 --> 00:19:33,059
+C'était le tour de Tony de payer.
+
+351
+00:19:33,094 --> 00:19:34,823
+- Je vais le faire.
+- Non, non.
+
+352
+00:19:34,858 --> 00:19:36,188
+J'invite.
+
+353
+00:19:36,223 --> 00:19:37,254
+Non. Ce n'est pas correct.
+
+354
+00:19:37,289 --> 00:19:40,177
+Vas-y, Kate.
+Ce fut un hiver long et blême.
+
+355
+00:19:40,212 --> 00:19:44,428
+J'ai besoin de soleil avant de
+retourner à mon puzzle humain.
+
+356
+00:19:44,463 --> 00:19:46,132
+Tu ne veux pas y aller.
+
+357
+00:19:46,167 --> 00:19:47,323
+Tu as raison.
+
+358
+00:19:48,911 --> 00:19:50,399
+Merci pour le déjeuner, Ducky.
+
+359
+00:19:50,434 --> 00:19:52,039
+C'est un plaisir.
+
+360
+00:20:29,382 --> 00:20:30,505
+Agent fédéral !
+
+361
+00:20:30,540 --> 00:20:32,413
+Suivez cette moto !
+
+362
+00:20:43,464 --> 00:20:44,741
+- Du nouveau ?
+- Toujours rien.
+
+363
+00:20:44,776 --> 00:20:46,184
+Je pensais que j'avais un résultat, mais
+il n'y avait pas assez de points communs.
+
+364
+00:20:46,219 --> 00:20:47,750
+Vérifiez quand même, McGee !
+
+365
+00:20:47,785 --> 00:20:50,450
+Je l'ai fait. C'est un professeur
+de biologie à Manchester.
+
+366
+00:20:50,485 --> 00:20:51,684
+Je lui ai parlé. Désolé.
+
+367
+00:20:51,719 --> 00:20:53,758
+Arrêtez de vous excuser.
+C'est un signe de faiblesse.
+
+368
+00:20:53,793 --> 00:20:54,867
+Désolé. Bien.
+
+369
+00:20:54,902 --> 00:20:55,943
+Où sont Kate et Tony ?
+
+370
+00:20:55,978 --> 00:20:57,511
+Ils sont partis manger avec Ducky.
+
+371
+00:20:57,546 --> 00:21:02,469
+- Quand ?
+- Il y a une heure et quelques.
+
+372
+00:21:03,059 --> 00:21:05,078
+Je veux ce "et quelques"
+en minutes, McGee.
+
+373
+00:21:05,113 --> 00:21:07,506
+Peut-être, peut-être 50 minutes.
+
+374
+00:21:08,018 --> 00:21:11,085
+Ils peuvent suivre une piste.
+
+375
+00:21:12,162 --> 00:21:13,622
+C'est ce que vous pensez
+
+376
+00:21:13,657 --> 00:21:15,823
+qu'ils font, agent McGee ?
+
+377
+00:21:15,858 --> 00:21:18,066
+Non. Je ne crois pas.
+
+378
+00:21:18,101 --> 00:21:19,400
+Non.
+
+379
+00:21:33,310 --> 00:21:36,347
+Ça me rappelle un boucher
+que j'ai rencontré en Chine.
+
+380
+00:21:36,382 --> 00:21:37,945
+Il avait assassiné quelqu'un
+et découpé le corps ?
+
+381
+00:21:38,033 --> 00:21:42,587
+Non, Il prétendait que son orteil
+prédisait les tremblements de terre.
+
+382
+00:21:42,622 --> 00:21:47,250
+Que ça l'élançait des heures avant que
+ça tremble quelque part dans le monde.
+
+383
+00:21:47,285 --> 00:21:49,014
+Le pied gauche.
+
+384
+00:21:49,049 --> 00:21:50,395
+Quand je lui ai assuré qu'une multitude
+
+385
+00:21:50,430 --> 00:21:53,800
+de séismes avaient lieu chaque
+jour tout autour du globe,
+
+386
+00:21:53,835 --> 00:21:55,859
+il est devenu très excité.
+
+387
+00:21:55,894 --> 00:22:00,415
+Il a dit que ça expliquait pourquoi
+son gros orteil l'élançait tout le temps.
+
+388
+00:22:00,450 --> 00:22:02,799
+Vous ne lui avez pas démontré
+l'erreur de son raisonnement, docteur ?
+
+389
+00:22:02,810 --> 00:22:03,810
+Non, non, non.
+
+390
+00:22:03,820 --> 00:22:06,111
+Il était si content, je n'ai pas eu
+le cœur de faire ça.
+
+391
+00:22:06,146 --> 00:22:07,796
+Avez-vous inventé ça, Dr Mallard ?
+
+392
+00:22:07,831 --> 00:22:09,180
+Ciel, non.
+
+393
+00:22:09,215 --> 00:22:12,418
+Quand on passe sa carrière
+à voyager autour du globe,
+
+394
+00:22:12,453 --> 00:22:17,611
+on a un stock illimité d'histoires
+mystérieuses et intrigantes.
+
+395
+00:22:17,646 --> 00:22:21,775
+Phalange distale. Pied droit, je crois.
+
+396
+00:22:22,648 --> 00:22:25,691
+- Vous êtes quelqu'un de rare, M. Palmer.
+- Vraiment ?
+
+397
+00:22:25,726 --> 00:22:28,105
+Oui. La plupart des nouveaux
+assistants jetteraient
+
+398
+00:22:28,140 --> 00:22:30,397
+un regard à tout ça et
+fonceraient aux toilettes.
+
+399
+00:22:30,432 --> 00:22:34,164
+C'est seulement un puzzle de viande.
+
+400
+00:22:34,493 --> 00:22:36,680
+- Ducky !
+- Ah, Gibbs.
+
+401
+00:22:36,715 --> 00:22:41,229
+Regarde ce que l'agent spécial
+Balboa m'a trouvé.
+
+402
+00:22:44,534 --> 00:22:46,705
+Juste quand je pensais que plus
+rien ne pouvait me surprendre...
+
+403
+00:22:46,740 --> 00:22:47,938
+C'est vraiment prodigieux, n'est-ce pas ?
+
+404
+00:22:47,973 --> 00:22:51,313
+On est obligé d'admirer l'habileté
+en dépit de la perversion.
+
+405
+00:22:51,348 --> 00:22:52,515
+Où est-ce que Balboa l'a trouvé ?
+
+406
+00:22:52,550 --> 00:22:57,001
+Ce pauvre hère a été trouvé dans
+un fût d'alcool de 250 litres
+
+407
+00:22:57,036 --> 00:23:00,359
+près d'une benne à ordures à
+l'hôpital naval de Bethesda.
+
+408
+00:23:00,394 --> 00:23:05,486
+Il a été disséqué par un sadique avec
+une connaissance de l'anatomie...
+
+409
+00:23:08,985 --> 00:23:11,592
+<i>Ventricule droit, oreillette gauche.</i>
+
+410
+00:23:11,627 --> 00:23:13,935
+<i>Vous n'avez pas fait d'autopsie.</i>
+
+411
+00:23:14,602 --> 00:23:16,589
+Gibbs, je suis désolé.
+
+412
+00:23:16,624 --> 00:23:18,038
+J'aurais dû réaliser.
+
+413
+00:23:18,073 --> 00:23:19,376
+Ça aurait accéléré vos recherches
+
+414
+00:23:19,411 --> 00:23:22,253
+pour trouver ce bâtard qui a
+tiré dans l'épaule de Gérald.
+
+415
+00:23:22,288 --> 00:23:23,665
+Ça vient seulement de me revenir.
+
+416
+00:23:23,700 --> 00:23:25,289
+Qu'est-ce qui t'est revenu, Ducky ?
+
+417
+00:23:25,324 --> 00:23:27,332
+Ce salaud connaissait l'anatomie !
+
+418
+00:23:27,367 --> 00:23:29,620
+Je lui ai demandé s'il était docteur.
+
+419
+00:23:29,655 --> 00:23:32,006
+Il n'a pas répondu, mais je parierais
+
+420
+00:23:32,041 --> 00:23:35,861
+qu'il a été en fac de médecine
+en Angleterre.
+
+421
+00:23:35,896 --> 00:23:38,185
+Ça ne devrait pas être dur à trouver.
+Merci, Ducky.
+
+422
+00:23:38,220 --> 00:23:39,624
+De rien.
+
+423
+00:23:39,659 --> 00:23:41,851
+Je suis seulement furieux de
+ne pas y avoir pensé plus tôt.
+
+424
+00:23:41,886 --> 00:23:45,143
+Ducky, Kate et Tony sont
+revenus de déjeuner avec toi ?
+
+425
+00:23:45,178 --> 00:23:48,097
+Non. Tony est parti dans une
+de ses poursuites habituelles
+
+426
+00:23:48,132 --> 00:23:52,323
+et Kate avait une vidéo
+conférence avec Guantanamo.
+
+427
+00:23:54,580 --> 00:23:58,852
+Un gros orteil droit.
+
+428
+00:23:58,887 --> 00:24:00,971
+Nous avons déjà un gros
+orteil droit, docteur.
+
+429
+00:24:01,006 --> 00:24:03,284
+Je vous ai déjà donné
+un gros orteil gauche.
+
+430
+00:24:03,319 --> 00:24:05,450
+Je sais, monsieur.
+
+431
+00:24:05,485 --> 00:24:08,436
+Alors comment pouvons-nous avoir...?
+
+432
+00:24:13,206 --> 00:24:15,266
+Oh mon dieu.
+
+433
+00:24:15,834 --> 00:24:18,392
+McGee ! Asseyez-vous !
+
+434
+00:24:18,851 --> 00:24:20,829
+Combien durent les études de médecine
+au Royaume-Uni ?
+
+435
+00:24:20,864 --> 00:24:22,490
+Quatre ans.
+
+436
+00:24:22,763 --> 00:24:24,607
+Redirigez vos recherches.
+
+437
+00:24:24,642 --> 00:24:28,744
+Les médecins diplômés, 94.
+
+438
+00:24:28,779 --> 00:24:30,618
+- C'est un docteur ?
+- Ducky le pense.
+
+439
+00:24:30,653 --> 00:24:31,852
+Je serai au MTAC.
+
+440
+00:24:31,887 --> 00:24:35,605
+Si DiNozzo revient, mettez-le aux arrêts.
+
+441
+00:24:35,640 --> 00:24:36,872
+Moi ?
+
+442
+00:24:41,542 --> 00:24:44,742
+<i>Aujourd'hui j'ai le plaisir
+d'accueillir le Premier Ministre</i>
+
+443
+00:24:44,777 --> 00:24:47,026
+<i>Ariel Sharon de retour
+à la Maison Blanche.</i>
+
+444
+00:24:47,061 --> 00:24:49,642
+<i>Il me semble que vous avez dit
+que c'était notre 8ème rencontre.</i>
+
+445
+00:24:49,677 --> 00:24:51,317
+Où est Gitmo ?
+
+446
+00:24:51,352 --> 00:24:53,247
+En attente, monsieur.
+Je la passe sur l'écran principal.
+
+447
+00:24:53,282 --> 00:24:56,686
+- Non, je la prendrai sur ce poste.
+- Oui, monsieur.
+
+448
+00:24:58,916 --> 00:25:00,900
+Agent Cassidy.
+
+449
+00:25:01,302 --> 00:25:03,279
+Bonjour, agent Gibbs.
+
+450
+00:25:03,314 --> 00:25:04,507
+Où est l'agent Todd ?
+
+451
+00:25:04,542 --> 00:25:05,741
+Elle n'est pas là.
+
+452
+00:25:05,776 --> 00:25:07,806
+Pourquoi a-t-elle demandé
+une vidéo-conférence ?
+
+453
+00:25:07,841 --> 00:25:09,659
+Elle voulait discuter
+de l'affaire du Hamas
+
+454
+00:25:09,660 --> 00:25:11,478
+à Little Creek dont je lui avais parlée.
+
+455
+00:25:11,513 --> 00:25:13,478
+Vous ne pouviez pas le faire
+par téléphone ?
+
+456
+00:25:13,513 --> 00:25:14,953
+Elle voulait un face à face.
+
+457
+00:25:14,988 --> 00:25:16,463
+Du nouveau ?
+
+458
+00:25:16,671 --> 00:25:18,244
+Nan.
+
+459
+00:25:24,114 --> 00:25:26,409
+Je vous rappellerai plus tard,
+agent Cassidy.
+
+460
+00:25:26,444 --> 00:25:27,931
+J'attends.
+
+461
+00:25:29,997 --> 00:25:31,365
+Salut patron.
+
+462
+00:25:31,400 --> 00:25:34,891
+McGee a dit que tu voulais me voir.
+
+463
+00:25:35,880 --> 00:25:37,965
+En fait, il a dit que j'étais aux arrêts
+
+464
+00:25:38,000 --> 00:25:41,255
+mais je crois que c'était juste ta manière
+de mettre les choses au point.
+
+465
+00:25:41,765 --> 00:25:44,566
+Dois-je te dire le nom de la crique
+où tu barbotes sans pagaie
+
+466
+00:25:44,601 --> 00:25:45,964
+ou combien elle est profonde ?
+
+467
+00:25:45,999 --> 00:25:47,485
+Au-dessus de mes genoux ?
+
+468
+00:25:47,520 --> 00:25:49,860
+Tu es familier avec cette crique.
+
+469
+00:25:49,895 --> 00:25:51,009
+Patron, désolé de la longue pause de midi,
+
+470
+00:25:51,010 --> 00:25:52,124
+mais je ne suis pas
+sur une grosse affaire...
+
+471
+00:25:52,159 --> 00:25:53,661
+Qu'est-ce qu'une grosse
+affaire pour toi, DiNozzo ?
+
+472
+00:25:53,696 --> 00:25:55,150
+Suivre un joli p'tit cul ?
+
+473
+00:25:55,185 --> 00:25:57,112
+- Ce n'est pas juste, patron.
+- La guerre n'est pas juste,
+
+474
+00:25:57,147 --> 00:25:59,521
+et nous sommes en guerre.
+
+475
+00:25:59,556 --> 00:26:02,302
+Jusqu'à ce que je te relève,
+ce qui pourrait arriver bientôt,
+
+476
+00:26:02,337 --> 00:26:04,381
+tu vas être en guerre 24h/24 et 7j/7 !
+
+477
+00:26:04,416 --> 00:26:06,553
+Ce qui inclut dormir,
+manger, aller aux chiottes !
+
+478
+00:26:06,588 --> 00:26:08,953
+- Compris ?
+- Très clair. Puis-je dire quelque chose ?
+
+479
+00:26:08,988 --> 00:26:11,546
+Seulement si ça peut me faire
+attraper ce pourri que je traque.
+
+480
+00:26:11,581 --> 00:26:12,588
+Ça devrait.
+
+481
+00:26:12,589 --> 00:26:14,025
+Alors parle.
+
+482
+00:26:14,060 --> 00:26:19,249
+Patron, tu as vraiment
+besoin de voir Moby Dick.
+
+483
+00:26:39,983 --> 00:26:41,274
+Simi.
+
+484
+00:26:44,380 --> 00:26:47,461
+Il est du côté gauche de la ceinture !
+
+485
+00:26:53,121 --> 00:26:54,793
+Qui est Gibbs ?
+
+486
+00:26:59,416 --> 00:27:03,070
+Qui est Gibbs ?
+
+487
+00:27:04,076 --> 00:27:05,310
+Mon petit ami.
+
+488
+00:27:05,345 --> 00:27:07,066
+Il m'appelle quand il quitte le bureau.
+
+489
+00:27:07,101 --> 00:27:08,340
+Où travaille-t-il ?
+
+490
+00:27:08,375 --> 00:27:10,274
+Irak.
+
+491
+00:27:33,495 --> 00:27:36,716
+Caitlin, je vous ai manqué ?
+
+492
+00:27:43,029 --> 00:27:46,042
+Je m'excuse pour les actes de Bassam.
+
+493
+00:27:46,077 --> 00:27:49,256
+Au moins il ne m'a pas tiré dans
+l'épaule avec un neuf millimètres.
+
+494
+00:27:49,291 --> 00:27:52,252
+Bassam, ôte-lui les menottes.
+
+495
+00:27:52,287 --> 00:27:53,508
+Comment va Gérald ?
+
+496
+00:27:53,543 --> 00:27:54,872
+Encore en rééducation.
+
+497
+00:27:54,907 --> 00:27:57,878
+Il demande chaque jour si vous êtes mort.
+
+498
+00:28:09,110 --> 00:28:10,621
+Satisfaite ?
+
+499
+00:28:10,656 --> 00:28:11,670
+Non.
+
+500
+00:28:11,705 --> 00:28:13,145
+Il m'a frappée deux fois.
+
+501
+00:28:13,180 --> 00:28:16,381
+Être frappé par une femme est
+deux fois plus insultant pour Bassam.
+
+502
+00:28:16,416 --> 00:28:17,447
+Vraiment ?
+
+503
+00:28:17,482 --> 00:28:19,500
+Et être tué par une femme ?
+
+504
+00:28:19,535 --> 00:28:22,004
+Pourquoi Bassam l'a frappée ?
+
+505
+00:28:22,039 --> 00:28:25,379
+Elle ne voulait pas dire qui
+l'appelait sur son téléphone.
+
+506
+00:28:27,641 --> 00:28:30,222
+Gibbs vous a appelée.
+
+507
+00:28:30,666 --> 00:28:31,942
+Je ferais mieux de le rappeler.
+
+508
+00:28:31,977 --> 00:28:33,345
+Pour lui dire où je suis.
+
+509
+00:28:33,380 --> 00:28:34,564
+C'est mon patron.
+
+510
+00:28:34,599 --> 00:28:36,772
+Bien sûr.
+
+511
+00:28:36,994 --> 00:28:39,515
+Mais d'abord il faut de la glace
+pour votre lèvre.
+
+512
+00:28:39,550 --> 00:28:41,825
+Ensuite vous pourrez l'appeler.
+
+513
+00:28:50,168 --> 00:28:51,325
+Des nouvelles de Kate ?
+
+514
+00:28:51,360 --> 00:28:52,388
+Non.
+
+515
+00:28:52,423 --> 00:28:54,779
+J'ai essayé chez elle. Rien.
+
+516
+00:28:55,836 --> 00:28:58,115
+Je dois lui donner une pagaie ?
+
+517
+00:28:58,150 --> 00:29:01,373
+Parce qu'on est dedans
+jusqu'au cou, Kate et moi.
+
+518
+00:29:16,467 --> 00:29:18,930
+Vous disiez que je pourrais appeler Gibbs.
+
+519
+00:29:18,965 --> 00:29:20,586
+À une condition.
+
+520
+00:29:21,746 --> 00:29:24,570
+Surprise, surprise.
+
+521
+00:29:24,854 --> 00:29:27,462
+Et que dois-je dire ?
+
+522
+00:29:28,991 --> 00:29:31,629
+Que vous êtes tombée malade
+après déjeuner.
+
+523
+00:29:31,664 --> 00:29:33,870
+Vous êtes allée aux urgences,
+
+524
+00:29:33,905 --> 00:29:36,425
+où ils ont diagnostiqué
+une intoxication alimentaire.
+
+525
+00:29:36,460 --> 00:29:39,572
+Après un lavage d'estomac et une intra-
+veineuse, ils vous ont renvoyée chez vous.
+
+526
+00:29:39,607 --> 00:29:41,050
+Vous irez mieux demain.
+
+527
+00:29:41,085 --> 00:29:42,805
+Vous avez juste besoin de repos.
+
+528
+00:29:42,840 --> 00:29:45,002
+Et si je ne dis pas ça ?
+
+529
+00:29:46,077 --> 00:29:47,829
+Marta ?
+
+530
+00:29:48,354 --> 00:29:53,460
+Dis à notre invité comment tu prévois
+de divertir l'agent DiNozzo ce soir.
+
+531
+00:29:54,233 --> 00:29:56,148
+Je vais tirer une balle
+
+532
+00:29:56,183 --> 00:29:58,329
+dans sa nuque
+
+533
+00:29:58,364 --> 00:30:02,133
+pendant que je ferai courir
+mes doigts dans ses cheveux.
+
+534
+00:30:05,644 --> 00:30:06,657
+Tony avait raison.
+
+535
+00:30:06,658 --> 00:30:09,997
+Il ne faut jamais manger des
+huîtres pendant les mois sans "r".
+
+536
+00:30:10,032 --> 00:30:11,754
+J'irai mieux demain.
+
+537
+00:30:15,438 --> 00:30:16,508
+Elle va bien ?
+
+538
+00:30:16,543 --> 00:30:17,901
+Intoxication alimentaire.
+
+539
+00:30:17,936 --> 00:30:19,494
+Intoxication alimentaire ?
+
+540
+00:30:20,208 --> 00:30:21,293
+J'ai besoin d'un café.
+
+541
+00:30:21,328 --> 00:30:23,470
+Qu'est-ce qui ne va pas, à part
+de ne pas attraper cet homme du Hamas ?
+
+542
+00:30:23,505 --> 00:30:25,077
+L'homme du Hamas ?!
+
+543
+00:30:25,112 --> 00:30:26,306
+Le terroriste !
+
+544
+00:30:26,341 --> 00:30:28,400
+Le bâtard ! Le fumier !
+
+545
+00:30:28,440 --> 00:30:30,499
+Nous l'appelons de toutes les
+manières mais pas par son nom, DiNozzo.
+
+546
+00:30:30,534 --> 00:30:32,004
+- Et tu sais pourquoi ?
+- Parce qu'on ne le connaît pas ?
+
+547
+00:30:32,039 --> 00:30:34,845
+Parce que tu ne travailles
+pas sur une grosse affaire.
+
+548
+00:30:34,880 --> 00:30:37,179
+Je veux son nom !
+
+549
+00:30:37,214 --> 00:30:39,311
+Je le veux aujourd'hui !
+
+550
+00:30:39,692 --> 00:30:42,511
+Et ne me dis pas que c'est Moby Dick !
+
+551
+00:30:45,581 --> 00:30:47,006
+Kate a raison.
+Je crois que Gibbs perd la tête.
+
+552
+00:30:47,041 --> 00:30:49,786
+Vous ne pensez pas qu'il voulait
+vraiment dire aujourd'hui, hein ?
+
+553
+00:30:51,581 --> 00:30:55,125
+Il y a cette superbe fille avec qui
+je suis supposé sortir ce soir.
+
+554
+00:30:55,160 --> 00:30:57,209
+Elle est suédoise.
+
+555
+00:30:57,244 --> 00:30:59,302
+- Elle a cet accent si sensuel.
+- Tony...
+
+556
+00:30:59,337 --> 00:31:00,673
+Chaque Suédoise que j'ai connue
+
+557
+00:31:00,674 --> 00:31:02,010
+m'a toujours laissé...
+- Tony !
+
+558
+00:31:02,045 --> 00:31:03,353
+Quoi ?
+
+559
+00:31:13,933 --> 00:31:16,838
+C'est un excellent Chardonnay, Caitlin.
+
+560
+00:31:16,873 --> 00:31:19,310
+Et presque à la température idéale.
+
+561
+00:31:19,345 --> 00:31:21,350
+Je souhaiterais que vous le goûtiez.
+
+562
+00:31:21,670 --> 00:31:22,874
+Laissez-la le goûter.
+
+563
+00:31:22,909 --> 00:31:24,303
+Je ne bois pas.
+
+564
+00:31:24,338 --> 00:31:25,726
+C'est vrai.
+
+565
+00:31:25,761 --> 00:31:28,706
+Les musulmans ne boivent pas d'alcool.
+
+566
+00:31:28,976 --> 00:31:31,773
+Pas chez eux en fait.
+
+567
+00:31:31,957 --> 00:31:36,613
+Peut-être devriez-vous prendre ceci
+comme un week-end à la campagne,
+
+568
+00:31:36,648 --> 00:31:38,625
+avec vous en invité d'honneur.
+
+569
+00:31:38,660 --> 00:31:40,094
+Et vous en hôte charmant?
+
+570
+00:31:40,129 --> 00:31:41,993
+Beaucoup de femmes me trouvent charmant.
+
+571
+00:31:42,028 --> 00:31:44,310
+Vous devez bien les payer.
+
+572
+00:31:46,396 --> 00:31:47,868
+Nous partons.
+
+573
+00:31:48,122 --> 00:31:49,409
+Tu le sais ?
+
+574
+00:31:51,768 --> 00:31:53,869
+Vous savez quoi ?
+
+575
+00:32:00,389 --> 00:32:03,073
+C'est pour ça que je suis ici, non ?
+
+576
+00:32:03,108 --> 00:32:05,921
+Où est le petit pois ?
+
+577
+00:32:14,561 --> 00:32:16,693
+Vous me dites où est le petit pois
+Caitlin,
+
+578
+00:32:16,728 --> 00:32:19,453
+et je répondrai à votre question.
+
+579
+00:32:22,863 --> 00:32:24,039
+Coup de chance.
+
+580
+00:32:24,074 --> 00:32:25,202
+Est-ce que c'était le cas, Caitlin ?
+
+581
+00:32:25,237 --> 00:32:27,321
+Non. Maintenant, répondez à ma question.
+
+582
+00:32:27,356 --> 00:32:28,764
+Une fois de plus.
+
+583
+00:32:28,799 --> 00:32:32,073
+Pour prouver à Marta que
+ce n'était pas de la chance.
+
+584
+00:32:36,858 --> 00:32:38,698
+Je te l'ai dit, Marta.
+
+585
+00:32:39,438 --> 00:32:42,297
+Avez-vous détecté de légères
+différences dans les coquilles ?
+
+586
+00:32:42,332 --> 00:32:43,776
+Pourquoi je suis ici ?
+
+587
+00:32:43,811 --> 00:32:46,418
+Pour m'apprendre ce tour.
+
+588
+00:32:46,453 --> 00:32:48,696
+Je suis très sérieux.
+
+589
+00:32:56,464 --> 00:32:57,860
+Stupéfiant.
+
+590
+00:32:57,895 --> 00:33:00,705
+Comment peuvent-ils vous
+enseigner à être si observateur ?
+
+591
+00:33:00,740 --> 00:33:02,497
+Qui ?
+
+592
+00:33:03,003 --> 00:33:05,724
+Les services secrets.
+
+593
+00:33:11,430 --> 00:33:15,254
+Le Président s'envole vers Camp
+David avec Sharon aujourd'hui.
+
+594
+00:33:15,289 --> 00:33:17,280
+J'ai vu ces missiles.
+
+595
+00:33:17,315 --> 00:33:20,360
+Vous voulez savoir quel hélico
+est Marine One pour le descendre.
+
+596
+00:33:20,395 --> 00:33:24,978
+Ces minuscules missiles sont
+seulement utilisés pour l'entraînement.
+
+597
+00:33:25,013 --> 00:33:29,720
+En aucun cas je n'ai l'intention
+de descendre Marine One.
+
+598
+00:33:29,755 --> 00:33:32,438
+Vous êtes un bâtard de menteur.
+
+599
+00:33:34,920 --> 00:33:36,162
+Désolée.
+
+600
+00:33:36,471 --> 00:33:40,020
+Malheureusement... il y a du vrai
+là-dedans.
+
+601
+00:33:41,431 --> 00:33:43,157
+Son nom est Ari Haswari.
+
+602
+00:33:43,192 --> 00:33:46,055
+Il est diplômé de la fac de médecine
+d'Edimbourg en 94.
+
+603
+00:33:46,090 --> 00:33:47,973
+Seigneur Dieu ! Moi aussi...
+
+604
+00:33:48,008 --> 00:33:49,910
+quelques dizaines d'années
+plus tôt, bien sûr.
+
+605
+00:33:49,915 --> 00:33:50,931
+Bien sûr.
+
+606
+00:33:50,966 --> 00:33:52,431
+Extraordinaire.
+
+607
+00:33:52,466 --> 00:33:54,571
+Je me demande si la fac
+devrait en être informée ?
+
+608
+00:33:54,606 --> 00:33:56,353
+Vous voulez qu'il ait une place
+d'honneur parmi les anciens élèves ?
+
+609
+00:33:56,388 --> 00:33:58,028
+Très amusant Tony.
+
+610
+00:33:58,063 --> 00:34:00,838
+Mais pas quand nous avons des
+notables tels que Lord Lister,
+
+611
+00:34:00,873 --> 00:34:04,688
+le Dr Peter Mark Roget
+et Sir Arthur Conan Doyle.
+
+612
+00:34:04,723 --> 00:34:06,259
+Vous avez des anciens
+élèves très illustres, Ducky.
+
+613
+00:34:06,504 --> 00:34:09,553
+En effet, la fac de médecine est vieille
+de plus de 400 ans.
+
+614
+00:34:09,588 --> 00:34:13,915
+Elle prend ses origines auprès
+des chirurgiens barbiers du 17ème siècle
+
+615
+00:34:13,950 --> 00:34:16,399
+- qui pratiquaient des saignées et...
+- Je vais faire des saignées
+
+616
+00:34:16,434 --> 00:34:19,479
+- si cet exposé n'est pas lié au boulot.
+- Nous l'avons.
+
+617
+00:34:19,514 --> 00:34:21,401
+Dr Ari Haswari.
+
+618
+00:34:21,436 --> 00:34:23,815
+Il est diplômé de ma vieille fac
+de médecine d'Edimbourg.
+
+619
+00:34:23,850 --> 00:34:26,235
+C'est du bon travail, McGee.
+Qu'est-ce que donne son nom ?
+
+620
+00:34:26,270 --> 00:34:29,197
+Ari est israélien. Haswari est arabe.
+
+621
+00:34:29,232 --> 00:34:32,617
+Peut-être que ses parents bossaient sur
+une sorte de plan de paix au Moyen-Orient.
+
+622
+00:34:32,652 --> 00:34:34,884
+McGee, trouve quelqu'un qui
+le connaissait à Edimbourg.
+
+623
+00:34:34,919 --> 00:34:36,729
+C'est déjà fait, patron.
+
+624
+00:34:36,963 --> 00:34:40,213
+J'ai parlé au Dr Martin Sedwick,
+Pickford Mews, Londres.
+
+625
+00:34:40,248 --> 00:34:42,154
+Lui et Ari étaient assistants
+de recherche après leur diplôme
+
+626
+00:34:42,189 --> 00:34:45,387
+au centre d'Edimbourg sur
+les maladies infectieuses.
+
+627
+00:34:45,422 --> 00:34:48,878
+C'est pourquoi le Hamas l'a choisi
+pour récupérer le virus de la variole.
+
+628
+00:34:48,900 --> 00:34:49,900
+Le Dr Sedwick a dit,
+
+629
+00:34:49,901 --> 00:34:52,225
+qu'il était "très brillant,
+toujours avec de très belles femmes
+
+630
+00:34:52,260 --> 00:34:54,795
+et il se faisait seulement
+appeler Haswari."
+
+631
+00:34:54,830 --> 00:34:56,981
+Jamais Ari.
+
+632
+00:34:57,016 --> 00:34:58,056
+Je pense savoir pourquoi.
+
+633
+00:34:58,091 --> 00:35:00,309
+Son père était le Dr Benjamin Weinstein.
+
+634
+00:35:00,344 --> 00:35:03,085
+Sa mère le Dr Hosmiya Haswari.
+
+635
+00:35:03,120 --> 00:35:06,367
+Ils travaillaient dans un hôpital de
+Jérusalem et ne se sont jamais mariés.
+
+636
+00:35:06,402 --> 00:35:08,957
+Haswari n'aimait pas son père juif.
+
+637
+00:35:08,992 --> 00:35:10,683
+Il l'a appelé Ari.
+
+638
+00:35:10,718 --> 00:35:13,449
+Ari travaillait avec sa mère dans
+une clinique de la bande de Gaza
+
+639
+00:35:13,484 --> 00:35:15,120
+jusqu'à ce qu'elle meurt
+il y a quatre ans.
+
+640
+00:35:15,155 --> 00:35:17,584
+Alors il est passé de docteur
+à terroriste ?
+
+641
+00:35:17,619 --> 00:35:19,583
+Rantisi était un docteur.
+
+642
+00:35:19,618 --> 00:35:21,396
+De même que Che Guevara.
+
+643
+00:35:21,431 --> 00:35:23,342
+Jack l'Éventreur était un chirurgien.
+
+644
+00:35:23,377 --> 00:35:24,677
+Il n'a jamais été attrapé.
+
+645
+00:35:24,712 --> 00:35:26,400
+C'est seulement une supposition.
+
+646
+00:35:26,435 --> 00:35:28,908
+- Il y a une théorie très intéressante...
+- Tony, on y va.
+
+647
+00:35:28,943 --> 00:35:31,758
+McGee, fais-moi une recherche GPS
+du portable de Kate.
+
+648
+00:35:31,793 --> 00:35:34,620
+Il est éteint pour l'instant. Dès qu'il
+sera allumé je veux les coordonnées.
+
+649
+00:35:34,655 --> 00:35:35,930
+Kate est chez elle, patron.
+
+650
+00:35:35,965 --> 00:35:38,216
+Elle ne répond pas au téléphone.
+
+651
+00:35:38,419 --> 00:35:41,000
+Je ne pense pas qu'elle ait mangé
+des huîtres gâtées pour déjeuner.
+
+652
+00:35:41,035 --> 00:35:43,165
+Elle a pris une salade de thon.
+
+653
+00:35:44,684 --> 00:35:46,956
+- Tony, ce bâtard la tient.
+- Patron...
+
+654
+00:35:46,991 --> 00:35:49,313
+Il la tient !
+
+655
+00:35:53,310 --> 00:35:54,739
+Il n'y a aucun moyen de les différencier.
+
+656
+00:35:54,774 --> 00:35:56,940
+Et si c'était le cas,
+je ne vous le dirais pas.
+
+657
+00:35:56,975 --> 00:35:59,526
+Même si je menaçais votre vie ?
+
+658
+00:35:59,561 --> 00:36:01,717
+Vous êtes prête à mourir
+pour ce en quoi vous croyez ?
+
+659
+00:36:01,752 --> 00:36:03,730
+Les hommes du Hamas
+le prouvent chaque jour.
+
+660
+00:36:03,765 --> 00:36:06,029
+Non, vos enfants le prouvent.
+
+661
+00:36:06,064 --> 00:36:08,763
+Marta, donne-moi son arme.
+
+662
+00:36:08,978 --> 00:36:10,513
+Nous perdons du temps.
+
+663
+00:36:10,548 --> 00:36:13,530
+Le pistolet, Marta. S'il te plaît.
+
+664
+00:36:13,565 --> 00:36:16,869
+S'il faut tuer quelqu'un, je le ferai.
+
+665
+00:36:19,679 --> 00:36:22,023
+Je vous crois Caitlin.
+
+666
+00:36:22,058 --> 00:36:24,589
+Détendez-vous et prenez un verre de vin.
+
+667
+00:36:24,624 --> 00:36:27,761
+- Je n'aime pas boire seul.
+- Haswari !
+
+668
+00:36:27,796 --> 00:36:30,402
+Caitlin dit la vérité.
+
+669
+00:36:30,437 --> 00:36:33,563
+Il n'y a aucun moyen d'identifier
+Marine One des autres.
+
+670
+00:36:33,598 --> 00:36:35,206
+Tu m'as dit qu'il y en avait un.
+
+671
+00:36:35,241 --> 00:36:36,889
+J'ai menti.
+
+672
+00:36:43,081 --> 00:36:46,152
+Les femmes ne devraient jamais
+s'impliquer dans la politique.
+
+673
+00:36:46,187 --> 00:36:48,706
+C'est un gaspillage de beauté.
+
+674
+00:36:51,326 --> 00:36:53,707
+Appelez vos vieux amis
+des services secrets.
+
+675
+00:36:53,742 --> 00:36:57,176
+Je leur dirai tout ce
+qu'ils ont besoin de savoir.
+
+676
+00:36:57,211 --> 00:36:58,742
+Prenez-le.
+
+677
+00:36:58,777 --> 00:37:00,226
+Mes hommes du Hamas sont bien entraînés.
+
+678
+00:37:00,261 --> 00:37:04,394
+Ils tueront ou captureront
+votre Président et le mien.
+
+679
+00:37:07,940 --> 00:37:09,877
+Votre Président ?
+
+680
+00:37:09,912 --> 00:37:12,044
+Je suis israélien.
+
+681
+00:37:12,963 --> 00:37:15,105
+Mossad.
+
+682
+00:37:20,066 --> 00:37:22,308
+<i>Une fusillade a eu lieu aujourd'hui
+au Parc National de Great Falls</i>
+
+683
+00:37:22,343 --> 00:37:25,252
+<i>entre des agents du FBI et des supposés
+trafiquants de drogue colombiens</i>
+
+684
+00:37:25,287 --> 00:37:28,756
+<i>conduisant à la mort de trois suspects
+et les blessures de deux agents.</i>
+
+685
+00:37:28,791 --> 00:37:31,785
+<i>Le rapport fait mention d'un suspect
+qui se serait échappé à pieds</i>
+
+686
+00:37:31,820 --> 00:37:35,298
+<i>et une chasse à l'homme est
+en cours à travers le parc.</i>
+
+687
+00:37:35,333 --> 00:37:37,448
+Des supposés trafiquants de drogue ?
+
+688
+00:37:37,483 --> 00:37:38,817
+De qui vient l'idée ?
+
+689
+00:37:38,852 --> 00:37:41,352
+Les services secrets.
+
+690
+00:37:41,387 --> 00:37:45,044
+Ils ont donné à Ari une carte "vous
+êtes libéré de prison", aussi ?
+
+691
+00:37:45,079 --> 00:37:46,861
+Non. C'est la CIA qui l'a fait.
+
+692
+00:37:46,896 --> 00:37:48,413
+Mais tous les directeurs étaient d'accord.
+
+693
+00:37:48,448 --> 00:37:50,145
+Même le tien.
+
+694
+00:37:50,675 --> 00:37:53,226
+Le père d'Ari était du Mossad.
+
+695
+00:37:53,261 --> 00:37:56,559
+Il a probablement forcé sa mère pour
+avoir un fils avec du sang arabe.
+
+696
+00:37:56,594 --> 00:38:00,949
+Il l'a envoyé dans une fac de médecine
+pour le placer comme docteur à Gaza.
+
+697
+00:38:00,984 --> 00:38:03,386
+Cet homme a été un agent
+dormant sa vie entière.
+
+698
+00:38:03,421 --> 00:38:05,710
+J'adorerais le mettre dans le coma.
+
+699
+00:38:05,745 --> 00:38:08,066
+Al-Qaida a financé
+cette opération du Hamas.
+
+700
+00:38:08,101 --> 00:38:12,243
+Ari a seulement fait ce qu'il devait
+pour faire ses preuves.
+
+701
+00:38:12,278 --> 00:38:13,789
+Tu diras ça à Gérald.
+
+702
+00:38:13,824 --> 00:38:15,637
+Tu oublies que j'ai perdu un homme
+et que j'ai trois blessés.
+
+703
+00:38:15,672 --> 00:38:17,137
+Non, mais il semble que toi oui.
+
+704
+00:38:17,172 --> 00:38:18,515
+Tu le sais aussi bien que moi.
+
+705
+00:38:18,550 --> 00:38:21,433
+Il y a une ligne Tobias.
+Ce bâtard l'a franchie !
+
+706
+00:38:21,468 --> 00:38:23,391
+On ne fait pas ses preuves
+en tirant sur des amis !
+
+707
+00:38:23,426 --> 00:38:24,828
+Que veux-tu que l'on fasse ?
+Il est dans Al-Qaida à présent !
+
+708
+00:38:24,863 --> 00:38:27,083
+J'en sais rien !
+
+709
+00:38:38,305 --> 00:38:40,597
+Comment respires-tu
+dans toute cette satanée poussière ?
+
+710
+00:38:40,632 --> 00:38:42,367
+Je ne respire pas.
+
+711
+00:38:43,523 --> 00:38:45,956
+T'as un truc pour se rincer le gosier ?
+
+712
+00:38:47,316 --> 00:38:50,538
+Sur l'étagère supérieure,
+à côté du dissolvant à peinture.
+
+713
+00:38:59,294 --> 00:39:01,461
+Qui boit encore du bourbon de nos jours ?
+
+714
+00:39:01,496 --> 00:39:03,557
+- Moi.
+- T'as un verre ?
+
+715
+00:39:03,592 --> 00:39:05,867
+J'ai ma tasse à café.
+
+716
+00:39:08,205 --> 00:39:09,778
+Et toi ?
+
+717
+00:39:11,785 --> 00:39:13,644
+J'utilise ma tasse de café.
+
+718
+00:39:13,679 --> 00:39:18,667
+Tu cherches un verre à l'étage
+ou tu bois à la bouteille.
+
+719
+00:39:19,802 --> 00:39:21,351
+Par l'enfer.
+
+720
+00:39:25,378 --> 00:39:28,358
+Je vois pourquoi tu le ranges
+avec le dissolvant à peinture.
+
+721
+00:39:28,393 --> 00:39:30,666
+Ça fait 72 degrés.
+
+722
+00:39:30,701 --> 00:39:32,768
+Ça se savoure, Fornell.
+
+723
+00:39:38,184 --> 00:39:41,387
+Le directeur veut ta parole
+que tu oublieras Ari.
+
+724
+00:39:41,422 --> 00:39:44,007
+Ils pensent que tu vas
+bousiller sa couverture.
+
+725
+00:39:44,687 --> 00:39:49,962
+Si je veux me venger, ce ne sera
+pas en explosant sa couverture.
+
+726
+00:39:50,308 --> 00:39:53,659
+Pourquoi est-ce toi qui me demandes ça
+et pas mon directeur ?
+
+727
+00:39:53,694 --> 00:39:55,754
+Il a refusé.
+
+728
+00:40:04,113 --> 00:40:05,449
+Très bien, une condition.
+
+729
+00:40:05,484 --> 00:40:07,285
+Il y a toujours une condition.
+
+730
+00:40:07,320 --> 00:40:11,716
+Je veux lui parler,
+à un endroit de mon choix...
+
+731
+00:40:11,751 --> 00:40:13,001
+Seul.
+
+732
+00:40:13,036 --> 00:40:15,285
+Personne n'oserait faire ça.
+
+733
+00:40:16,430 --> 00:40:18,039
+Ari le fera.
+
+734
+00:41:05,091 --> 00:41:06,936
+Elle était ravissante.
+
+735
+00:41:06,971 --> 00:41:08,366
+Très.
+
+736
+00:41:08,401 --> 00:41:10,921
+Vous avez fait l'amour avec elle ?
+
+737
+00:41:12,133 --> 00:41:14,326
+Avant d'exploser sa cervelle.
+
+738
+00:41:14,361 --> 00:41:17,274
+Elle m'aurait fait la même chose.
+
+739
+00:41:17,309 --> 00:41:19,398
+Pourquoi avez-vous fait ça ?
+
+740
+00:41:19,433 --> 00:41:20,783
+Pour les mêmes raisons que vous.
+
+741
+00:41:20,818 --> 00:41:22,749
+Je ne crois pas.
+
+742
+00:41:24,300 --> 00:41:28,012
+Alors vous vous mentez.
+
+743
+00:41:30,720 --> 00:41:32,256
+Et maintenant ?
+
+744
+00:41:32,291 --> 00:41:34,392
+Vous retournez au Moyen-Orient.
+
+745
+00:41:34,427 --> 00:41:38,047
+Vous leur dites que Marta était du Mossad
+et qu'elle a bousillé l'opération.
+
+746
+00:41:38,082 --> 00:41:39,087
+Oui.
+
+747
+00:41:39,122 --> 00:41:43,909
+Deux échecs de suite. Je vous éliminerais
+si vous travailliez pour moi.
+
+748
+00:41:44,554 --> 00:41:49,081
+Les gens qui se font exploser pour tuer
+leurs ennemis ont des exigences moindres.
+
+749
+00:41:49,116 --> 00:41:51,001
+Comment allez-vous faire croire
+que Marta était un agent double ?
+
+750
+00:41:51,036 --> 00:41:53,724
+Mes hommes, à qui le FBI
+a permis de s'échapper,
+
+751
+00:41:53,759 --> 00:41:56,248
+savent les efforts que j'ai fournis
+pour cette opération.
+
+752
+00:41:56,283 --> 00:41:59,566
+Acheter les missiles,
+kidnapper l'agent Todd,
+
+753
+00:41:59,601 --> 00:42:02,205
+pour que je puisse identifier Marine One.
+
+754
+00:42:02,240 --> 00:42:04,550
+Et quand ils fouilleront
+l'appartement de Marta,
+
+755
+00:42:04,585 --> 00:42:09,328
+ils trouveront de l'argent et
+des documents liés au Mossad.
+
+756
+00:42:09,363 --> 00:42:10,826
+Le Hamas me croira.
+
+757
+00:42:10,861 --> 00:42:12,276
+Al-Qaida sera plus méfiant.
+
+758
+00:42:12,311 --> 00:42:13,991
+S'ils ne vous croient pas,
+vous êtes mort.
+
+759
+00:42:14,026 --> 00:42:16,535
+Oui. Et s'ils me croient,
+
+760
+00:42:16,570 --> 00:42:20,351
+je pourrais apprendre ce qu'ils planifient
+comme prochain 11 septembre.
+
+761
+00:42:20,386 --> 00:42:23,698
+Vous voulez risquer de perdre
+cette opportunité...
+
+762
+00:42:24,625 --> 00:42:26,577
+par fierté ?
+
+763
+00:42:26,612 --> 00:42:28,815
+Ce n'est pas de la fierté.
+
+764
+00:42:29,263 --> 00:42:31,717
+Si ce n'est pas de la fierté,
+qu'est-ce que c'est ?
+
+765
+00:42:32,192 --> 00:42:34,451
+L'amour de la patrie ?
+
+766
+00:42:34,486 --> 00:42:36,776
+Le sens du devoir ?
+
+767
+00:42:36,990 --> 00:42:39,253
+Je suis sûr que ces choses
+existent en vous.
+
+768
+00:42:39,288 --> 00:42:43,176
+Mais ce qui motive c'est la fierté,
+mon ami.
+
+769
+00:42:45,556 --> 00:42:47,343
+Shalom.
+
+770
+00:42:53,151 --> 00:42:56,909
+Je voulais juste vous aider
+à convaincre Al-Qaïda.
+
+771
+00:42:59,109 --> 00:43:14,229
+www.Team-NCIS.com
+
+
