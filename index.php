@@ -151,7 +151,7 @@ $series = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <body>
   <div class="page">
     <header>
-      <div class="logo">CINFLIX</div>
+      <div class="logo">SUBSTREAM</div>
       <nav>
         <a href="#">Accueil</a>
         <a href="#">Séries TV</a>
