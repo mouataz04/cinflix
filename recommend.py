@@ -1,4 +1,4 @@
-"""Content-based recommendation helpers for CINFLIX."""
+"""Content-based recommendation helpers for SUBSTREAM."""
 
 from __future__ import annotations
 

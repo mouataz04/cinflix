@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CINFLIX - Accueil</title>
+  <title>SUBSTREAM - Accueil</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/footer.css') }}">
 </head>
@@ -12,7 +12,7 @@
 
     <header>
       {% set current_endpoint = request.endpoint %}
-      <div class="logo">CINFLIX</div>
+      <div class="logo">SUBSTREAM</div>
       <nav>
         <a href="{{ url_for('index') }}" class="{% if current_endpoint == 'index' %}active{% endif %}">Accueil</a>
         <a href="#" class="{% if current_endpoint in ['series_detail'] %}active{% endif %}">Séries TV</a>

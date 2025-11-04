@@ -105,5 +105,3 @@ Nous travaillons **exclusivement** via des branches pour garder `main` propre.
 ---
 
 
-
-
