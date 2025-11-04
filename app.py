@@ -344,19 +344,10 @@ def api_rate():
     conn = get_db_connection()
     conn.execute(
         """
-        CREATE TABLE IF NOT EXISTS ratings (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            username TEXT NOT NULL,
-            tvshow_name TEXT NOT NULL,
-            rating INTEGER NOT NULL,
-            UNIQUE(username, tvshow_name) ON CONFLICT REPLACE
-        )
-        """
-    )
-    conn.execute(
-        """
         INSERT INTO ratings (username, tvshow_name, rating)
         VALUES (?, ?, ?)
+        ON CONFLICT(username, tvshow_name)
+        DO UPDATE SET rating = excluded.rating
         """,
         (username, serie_name, rating),
     )
