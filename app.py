@@ -344,6 +344,23 @@ def api_rate():
     conn = get_db_connection()
     conn.execute(
         """
+        CREATE TABLE IF NOT EXISTS ratings (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL,
+            tvshow_name TEXT NOT NULL,
+            rating INTEGER NOT NULL,
+            UNIQUE(username, tvshow_name)
+        )
+        """
+    )
+    conn.execute(
+        """
+        CREATE UNIQUE INDEX IF NOT EXISTS idx_ratings_user_show
+        ON ratings(username, tvshow_name)
+        """
+    )
+    conn.execute(
+        """
         INSERT INTO ratings (username, tvshow_name, rating)
         VALUES (?, ?, ?)
         ON CONFLICT(username, tvshow_name)
