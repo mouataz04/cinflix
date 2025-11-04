@@ -110,6 +110,61 @@ def signup():
     return render_template("signup.html")
 
 
+@app.route("/forgot-password", methods=["GET", "POST"])
+def forgot_password():
+    if request.method == "POST":
+        email = request.form.get("email", "").strip()
+        if not email:
+            flash("Indique ton email.", "error")
+            return redirect(url_for("forgot_password"))
+
+        conn = get_db_connection()
+        user = conn.execute(
+            "SELECT username FROM user WHERE email = ?", (email,)
+        ).fetchone()
+        conn.close()
+
+        if user:
+            session["reset_user"] = user["username"]
+            flash("Utilisateur identifié. Choisis ton nouveau mot de passe.", "success")
+            return redirect(url_for("reset_password_simple"))
+
+        flash("Si cet email existe, un lien de réinitialisation a été envoyé.", "success")
+        return redirect(url_for("login"))
+
+    return render_template("forgot_password.html")
+
+
+@app.route("/reset-password-simple", methods=["GET", "POST"])
+def reset_password_simple():
+    if "reset_user" not in session:
+        flash("Aucune demande de réinitialisation en cours.", "error")
+        return redirect(url_for("login"))
+
+    if request.method == "POST":
+        new_password = request.form.get("password", "")
+        confirm_password = request.form.get("confirm_password", "")
+
+        if new_password != confirm_password:
+            flash("Les mots de passe ne correspondent pas.", "error")
+            return redirect(url_for("reset_password_simple"))
+
+        hashed_password = generate_password_hash(new_password)
+        conn = get_db_connection()
+        conn.execute(
+            "UPDATE user SET password_hash = ? WHERE username = ?",
+            (hashed_password, session["reset_user"]),
+        )
+        conn.commit()
+        conn.close()
+
+        session.pop("reset_user", None)
+        flash("Mot de passe réinitialisé avec succès.", "success")
+        return redirect(url_for("login"))
+
+    return render_template("reset_password.html")
+
+
 @app.route("/logout")
 def logout():
     session.pop("user", None)

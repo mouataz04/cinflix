@@ -1,0 +1,150 @@
+:root {
+  --primary: #e50914;
+  --secondary: #f48c06;
+  --bg: #0a0a0a;
+  --card-bg: rgba(255, 255, 255, 0.05);
+  --text: #fff;
+  --shadow-glow: rgba(229, 9, 20, 0.4);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background: linear-gradient(270deg, #e50914, #111, #f48c06);
+  background-size: 600% 600%;
+  animation: gradientFlow 12s ease infinite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: var(--text);
+  overflow: hidden;
+}
+
+@keyframes gradientFlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.auth-card {
+  position: relative;
+  background: var(--card-bg);
+  border-radius: 20px;
+  padding: 2rem 2.5rem;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.4s ease;
+}
+
+.auth-card:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8), 0 0 25px var(--shadow-glow);
+}
+
+.brand {
+  font-size: 2rem;
+  font-weight: 900;
+  margin-bottom: 0.5rem;
+  color: var(--primary);
+}
+
+.card-sub {
+  font-size: 1rem;
+  color: #ddd;
+  margin-bottom: 1.5rem;
+}
+
+.field {
+  margin-bottom: 1rem;
+}
+
+.field input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 12px;
+  border: none;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text);
+  font-size: 0.95rem;
+  outline: none;
+  transition: all 0.3s;
+}
+
+.field input:focus {
+  box-shadow: inset 0 0 8px var(--primary);
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  border-radius: 12px;
+  border: none;
+  background: var(--primary);
+  color: #fff;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.btn:hover {
+  background: #ff1a2c;
+  box-shadow: 0 0 15px var(--shadow-glow);
+}
+
+.links {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.links a {
+  color: #bbb;
+  text-decoration: none;
+}
+
+.links a:hover {
+  color: var(--secondary);
+  text-decoration: underline;
+}
+
+.alert {
+  background: rgba(229, 9, 20, 0.2);
+  color: #ff1a2c;
+  padding: 10px;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  font-size: 0.9rem;
+}
+
+.alert.success {
+  background: rgba(0, 255, 150, 0.2);
+  color: #0f0;
+}
+
+.alert.error {
+  background: rgba(255, 0, 0, 0.2);
+  color: #ff4444;
+}
