@@ -24,7 +24,7 @@ def get_db_connection():
 
 class SearchEngine:
     """
-    Moteur de recherche basé sur TF-IDF pour SUBSTREAM.
+    Moteur de recherche basé sur TF-IDF pour CINFLIX.
     - Analyse des sous-titres
     - Calcul de similarité cosinus
     """
