@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -15,7 +15,6 @@
   <div class="logo">SUBSTREAM</div>
   <nav>
     <a href="{{ url_for('index') }}">Accueil</a>
-    <a href="#">Séries TV</a>
     <a href="{{ url_for('maliste') }}" class="active">Ma Liste</a>
   </nav>
   {% if session.get("user") %}
@@ -100,3 +99,4 @@ document.querySelectorAll(".mylist-card").forEach((card, i) => {
 
 </body>
 </html>
+

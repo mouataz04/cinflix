@@ -529,6 +529,113 @@ def api_recommend_user():
         conn.close()
     return jsonify({"user": session["user"], "recommendations": enriched})
 
+# ----------------------------
+# API visibilité des séries
+# ----------------------------
+@app.route("/api/series")
+def api_series_list():
+    """Retourne la liste des séries (id, name, image_url, synopsis)."""
+    conn = get_db_connection()
+    rows = conn.execute(
+        """
+        SELECT id, name, image_url, synopsis
+        FROM tvshow
+        WHERE name IS NOT NULL AND name != ''
+        ORDER BY id ASC
+        """
+    ).fetchall()
+    conn.close()
+    payload = [
+        {
+            "id": row["id"],
+            "name": row["name"],
+            "image_url": row["image_url"],
+            "synopsis": row["synopsis"] or "",
+        }
+        for row in rows
+    ]
+    return jsonify({"count": len(payload), "results": payload})
+
+
+@app.route("/api/series/<int:series_id>")
+def api_series_detail(series_id: int):
+    """Retourne le détail d'une série."""
+    conn = get_db_connection()
+    row = conn.execute(
+        "SELECT id, name, image_url, synopsis FROM tvshow WHERE id = ?",
+        (series_id,),
+    ).fetchone()
+    conn.close()
+    if not row:
+        return jsonify({"error": "Serie introuvable."}), 404
+    return jsonify(
+        {
+            "id": row["id"],
+            "name": row["name"],
+            "image_url": row["image_url"],
+            "synopsis": row["synopsis"] or "",
+        }
+    )
+
+
+# ----------------------------
+# API gestion des comptes (JSON)
+# ----------------------------
+@app.route("/api/signup", methods=["POST"])
+def api_signup():
+    data = request.get_json() or {}
+    username = (data.get("username") or "").strip()
+    email = (data.get("email") or "").strip()
+    password = data.get("password") or ""
+    confirm_password = data.get("confirm_password") or password
+
+    if not username or not email or not password:
+        return jsonify({"success": False, "error": "Champs manquants."}), 400
+    if password != confirm_password:
+        return jsonify({"success": False, "error": "Les mots de passe ne correspondent pas."}), 400
+
+    hashed_password = generate_password_hash(password)
+    conn = get_db_connection()
+    try:
+        conn.execute(
+            "INSERT INTO user (username, email, password_hash) VALUES (?, ?, ?)",
+            (username, email, hashed_password),
+        )
+        conn.commit()
+    except sqlite3.IntegrityError:
+        return jsonify({"success": False, "error": "Nom d'utilisateur ou email déjà utilisé."}), 400
+    finally:
+        conn.close()
+
+    session["user"] = username
+    return jsonify({"success": True, "user": username})
+
+
+@app.route("/api/login", methods=["POST"])
+def api_login():
+    data = request.get_json() or {}
+    username = (data.get("username") or "").strip()
+    password = data.get("password") or ""
+
+    if not username or not password:
+        return jsonify({"success": False, "error": "Champs manquants."}), 400
+
+    conn = get_db_connection()
+    user = conn.execute("SELECT * FROM user WHERE username = ?", (username,)).fetchone()
+    conn.close()
+
+    if user and check_password_hash(user["password_hash"], password):
+        session["user"] = user["username"]
+        return jsonify({"success": True, "user": user["username"]})
+
+    return jsonify({"success": False, "error": "Nom d'utilisateur ou mot de passe incorrect."}), 401
+
+
+@app.route("/api/logout", methods=["POST"])
+def api_logout():
+    session.pop("user", None)
+    return jsonify({"success": True})
+
 
 @app.route("/maliste")
 def maliste():

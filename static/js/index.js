@@ -1,26 +1,23 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // ----------------------
   // Hero slideshow
-  // ----------------------
   const heroSection = document.getElementById("hero");
   const heroBg = document.getElementById("heroBg");
-  const heroImages = heroSection ? JSON.parse(heroSection.dataset.heroImages || "[]") : [];
+  const heroImages = heroSection
+    ? JSON.parse(heroSection.dataset.heroImages || "[]")
+    : [];
 
-  if (heroBg && heroImages.length > 0) {
-    let index = 0;
-    const setHeroImage = () => {
-      heroBg.style.backgroundImage = `url("${heroImages[index]}")`;
-      index = (index + 1) % heroImages.length;
+  if (heroBg && heroImages.length) {
+    let idx = 0;
+    const updateHero = () => {
+      heroBg.style.backgroundImage = `url("${heroImages[idx]}")`;
+      idx = (idx + 1) % heroImages.length;
     };
-    setHeroImage();
+    updateHero();
     if (heroImages.length > 1) {
-      setInterval(setHeroImage, 5000);
+      setInterval(updateHero, 5000);
     }
   }
 
-  // ----------------------
-  // Recherche
-  // ----------------------
   const input = document.getElementById("search");
   const button = document.getElementById("searchBtn");
   const resultsContainer = document.getElementById("resultsContainer");
@@ -42,39 +39,40 @@ document.addEventListener("DOMContentLoaded", () => {
     isSearching = false;
   };
 
-  const truncate = (text, max = 120) => {
-    if (!text) {
-      return "Synopsis non disponible.";
-    }
-    return text.length > max ? `${text.slice(0, max)}...` : text;
-  };
+  const truncate = (text, max = 120) =>
+    !text ? "Synopsis non disponible." : text.length > max ? `${text.slice(0, max)}...` : text;
 
   const buildResultsMarkup = (data) => {
     const safeQuery = data.query || "";
-    const title = data.count > 0
-      ? `Résultats pour « ${safeQuery} » (${data.count})`
-      : `Aucun résultat pour « ${safeQuery} »`;
+    const title =
+      data.count > 0
+        ? `Résultats pour « ${safeQuery} » (${data.count})`
+        : `Aucun résultat pour « ${safeQuery} »`;
 
     if (data.count === 0) {
       return `
         <h2 id="seriesTitle">${title}</h2>
         <div class="search-results-grid empty">
-          <p>Aucun résultat trouvé pour « ${safeQuery} ».</p>
+          <p>Aucun résultat trouvé pour « ${safeQuery} ».</p>
         </div>
       `;
     }
 
-    const cards = data.results.map(({ id, name, image_url: imageUrl, synopsis }) => `
-      <a href="/series/${id}" class="series-card">
-        <div class="card-img-wrapper">
-          <img src="${imageUrl}" alt="Affiche de ${name}">
-        </div>
-        <div class="series-overlay">
-          <h3 class="series-name">${name}</h3>
-          <p class="synopsis">${truncate(synopsis)}</p>
-        </div>
-      </a>
-    `).join("");
+    const cards = data.results
+      .map(
+        ({ id, name, image_url: imageUrl, synopsis }) => `
+        <a href="/series/${id}" class="series-card">
+          <div class="card-img-wrapper">
+            <img src="${imageUrl}" alt="Affiche de ${name}">
+          </div>
+          <div class="series-overlay">
+            <h3 class="series-name">${name}</h3>
+            <p class="synopsis">${truncate(synopsis)}</p>
+          </div>
+        </a>
+      `
+      )
+      .join("");
 
     return `
       <h2 id="seriesTitle">${title}</h2>
@@ -93,10 +91,7 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   const performSearch = () => {
-    if (isSearching) {
-      return;
-    }
-
+    if (isSearching) return;
     const query = input.value.trim();
     if (!query) {
       input.focus();
@@ -115,9 +110,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         return response.json();
       })
-      .then((data) => {
-        renderResults(data);
-      })
+      .then(renderResults)
       .catch((error) => {
         console.error("Erreur recherche:", error);
         renderResults({ query, count: 0, results: [] });
@@ -132,10 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   button.addEventListener("click", performSearch);
-
-  searchIcon?.addEventListener("click", () => {
-    input.focus();
-  });
+  searchIcon?.addEventListener("click", () => input.focus());
 
   const renderPersonalRecommendations = () => {
     if (!personalSection || !personalList) {
@@ -153,11 +143,12 @@ document.addEventListener("DOMContentLoaded", () => {
         const items = Array.isArray(data.recommendations) ? data.recommendations : [];
 
         if (!items.length) {
-          personalList.innerHTML = `
-            <p class="empty-reco">Pas encore de recommandations. Note quelques séries pour en débloquer !</p>
-          `;
+          personalList.innerHTML =
+            '<p class="empty-reco">Pas encore de recommandations. Note quelques séries pour en débloquer !</p>';
         } else {
-          personalList.innerHTML = items.map((item) => `
+          personalList.innerHTML = items
+            .map(
+              (item) => `
             <a href="/series/${item.id}" class="series-card">
               <div class="card-img-wrapper">
                 <img src="${item.image_url}" alt="Affiche de ${item.name}">
@@ -167,16 +158,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 <p class="synopsis">${truncate(item.synopsis, 110)}</p>
               </div>
             </a>
-          `).join("");
+          `
+            )
+            .join("");
         }
 
         personalSection.hidden = false;
       })
       .catch((error) => {
         console.error("Erreur recommandations:", error);
-        personalList.innerHTML = `
-          <p class="empty-reco">Impossible de charger tes recommandations pour le moment.</p>
-        `;
+        personalList.innerHTML =
+          '<p class="empty-reco">Impossible de charger tes recommandations pour le moment.</p>';
         personalSection.hidden = false;
       });
   };
@@ -185,9 +177,6 @@ document.addEventListener("DOMContentLoaded", () => {
     renderPersonalRecommendations();
   }
 
-  // ----------------------
-  // Carrousels horizontaux
-  // ----------------------
   document.querySelectorAll(".series-row").forEach((row) => {
     const list = row.querySelector(".series-list");
     const previous = row.querySelector(".arrow.left");
@@ -225,9 +214,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
       list.addEventListener("mousemove", (event) => {
-        if (!isDragging) {
-          return;
-        }
+        if (!isDragging) return;
         const x = event.pageX - list.offsetLeft;
         const walk = (x - startX) * 2;
         list.scrollLeft = scrollStart - walk;

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="utf-8">
@@ -14,7 +14,6 @@
       <div class="logo">SUBSTREAM</div>
       <nav>
         <a href="{{ url_for('index') }}">Accueil</a>
-        <a href="#">Séries TV</a>
         <a href="{{ url_for('maliste') }}">Ma Liste</a>
       </nav>
       {% if session.get('user') %}
@@ -86,3 +85,4 @@
   <script src="{{ url_for('static', filename='js/series_detail.js') }}" defer></script>
 </body>
 </html>
+
